@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,547 likes - 75 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,558 likes - 75 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 37 | [Banquet \- Phones Disco Edit](https://open.spotify.com/track/3ZQK3zrHOHFZtgvIL6W2eW) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm Remixed](https://open.spotify.com/album/73gLi25b8sQukoOreAL9x5) | 5:24 |
 | 38 | [Mars](https://open.spotify.com/track/59psl7nHl2qbUbht6mTeWp) | [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Mars](https://open.spotify.com/album/3AybLunP9HeRxlcmYzJJ7B) | 4:21 |
 | 39 | [Bad Girls \- Switch Remix](https://open.spotify.com/track/2T1LMzbf3Ui5nv0Im5lmGV) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [Bad Girls \(The Remixes\)](https://open.spotify.com/album/1JV2adHIREQSZWTCrn6CbW) | 3:23 |
-| 40 | [Tonight](https://open.spotify.com/track/6NF6fUchK9oEpxkT8AVDgz) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Tonight \(12' Inch\)](https://open.spotify.com/album/1Nm5T8kyFqYTd2k49RHd1y) | 4:15 |
+| 40 | [Gravity's Rainbow \- Van She Remix](https://open.spotify.com/track/4TStyjKnybRujBR9FIO7zC) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI), [Van She](https://open.spotify.com/artist/4FTDSkWpchgZy2axPEGDJW) | [Kitsuné Maison Compilation 3](https://open.spotify.com/album/7wWViw6BLh7Z5BC3zssa35) | 5:23 |
 | 41 | [Hustler](https://open.spotify.com/track/6bvg95U7d69pYKPwDEyGC3) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Attack Decay Sustain Release](https://open.spotify.com/album/33Egk2iyDKq0eYzTirBTuO) | 3:43 |
-| 42 | [Gravity's Rainbow \- Van She Remix](https://open.spotify.com/track/4TStyjKnybRujBR9FIO7zC) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI), [Van She](https://open.spotify.com/artist/4FTDSkWpchgZy2axPEGDJW) | [Kitsuné Maison Compilation 3](https://open.spotify.com/album/7wWViw6BLh7Z5BC3zssa35) | 5:23 |
+| 42 | [Tonight](https://open.spotify.com/track/6NF6fUchK9oEpxkT8AVDgz) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Tonight \(12' Inch\)](https://open.spotify.com/album/1Nm5T8kyFqYTd2k49RHd1y) | 4:15 |
 | 43 | [Love Sweet Sound](https://open.spotify.com/track/48u0k7If0SEl1gSgQ652w7) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Soundboy Rock](https://open.spotify.com/album/7tRuSfPQNDZ5IbWFS6dNF9) | 4:35 |
 | 44 | [Black & Gold](https://open.spotify.com/track/6aMTBaxY2A1GbvO4tFanxF) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Sam Sparro](https://open.spotify.com/album/1gYtav3PWh8I8bXZLs6SgR) | 4:34 |
 | 45 | [Do I Look Like a Slut \- Original Mix](https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt) | [Avenue D](https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL) | [Do I Look Like a Slut?](https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz) | 4:55 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 59 | [Mr Overtime \- Oliver Remix](https://open.spotify.com/track/19ATUXl74zSVALEEAJoX65) | [Punks Jump Up](https://open.spotify.com/artist/6C0GG4MVnkPKYwfAscQqzD), [Dave 1](https://open.spotify.com/artist/0UhiWhPuGtayAOBBf8avtO) | [Mr Overtime](https://open.spotify.com/album/4t7fpWyRglP8KjNyagBdUK) | 4:33 |
 | 60 | [Knobbers](https://open.spotify.com/track/0JEQRhFh3VzBdFAYcua4yk) | [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Knobbers EP](https://open.spotify.com/album/6EWNPR0D1aTkNdw5o86QWU) | 5:07 |
 | 61 | [Bump \- Switch Remix](https://open.spotify.com/track/6DwVAGeeP7lDQIqKbjzjxi) | [Spank Rock](https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2) | [Bump](https://open.spotify.com/album/4G2lrhI4JbpBdtYFfa1Qec) | 7:27 |
-| 62 | [Wake Up \- Original](https://open.spotify.com/track/4nWHPMywLwn3oONWNfGJ2k) | [Les Petits Pilous](https://open.spotify.com/artist/2MS8Aeh2jTfqu1VhRZ4x1P) | [Wake Up](https://open.spotify.com/album/35grWCVaUU9bWGDYtQ1vin) | 3:58 |
-| 63 | [Suspense Is Killing Me](https://open.spotify.com/track/3so9K62SVDzEpIw5zE9kju) | [Boy 8\-Bit](https://open.spotify.com/artist/5HfRYTHODGPIbWxYeNTsam) | [Suspense Is Killing Me EP](https://open.spotify.com/album/0NLguEzq237Uukt4kmaqZR) | 4:53 |
+| 62 | [Suspense Is Killing Me](https://open.spotify.com/track/3so9K62SVDzEpIw5zE9kju) | [Boy 8\-Bit](https://open.spotify.com/artist/5HfRYTHODGPIbWxYeNTsam) | [Suspense Is Killing Me EP](https://open.spotify.com/album/0NLguEzq237Uukt4kmaqZR) | 4:53 |
+| 63 | [Wake Up \- Original](https://open.spotify.com/track/4nWHPMywLwn3oONWNfGJ2k) | [Les Petits Pilous](https://open.spotify.com/artist/2MS8Aeh2jTfqu1VhRZ4x1P) | [Wake Up](https://open.spotify.com/album/35grWCVaUU9bWGDYtQ1vin) | 3:58 |
 | 64 | [Acceptable in the 80's \- Tom Neville Remix](https://open.spotify.com/track/5kPgxhET1iRXB9kvOvzEFb) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Neville](https://open.spotify.com/artist/1gbiWzSQlYGEEFeH97pGwt) | [Acceptable In The 80s](https://open.spotify.com/album/3pPwssIXWoFz7r5Wjusbme) | 7:11 |
 | 65 | [To the Bobmobile](https://open.spotify.com/track/5RtHhF7VOGimztBk2NFXUx) | [Bobmo](https://open.spotify.com/artist/67zjOa1s3aBqLx9ffbranq) | [Let's Go Bobmo ! \- EP](https://open.spotify.com/album/0iGyMe8t2opNPCeergmsgO) | 3:43 |
 | 66 | [Beeper](https://open.spotify.com/track/0V2gjJB54qHeA3CDCMZU3N) | [The Count](https://open.spotify.com/artist/3XU5UXslhtah4HGOcZpD9O), [Sinden](https://open.spotify.com/artist/2ocxN5hH10NHQ8vNR7VkSi), [Kid Sister](https://open.spotify.com/artist/3FTzn86WmApHmwBMGVSEXE) | [Mega Mega Mega and Mega Remixes](https://open.spotify.com/album/1ntbRWmw3ELtUHcwpeU6o9) | 4:43 |

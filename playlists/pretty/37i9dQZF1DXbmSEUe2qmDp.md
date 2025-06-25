@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Thauane
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,249 likes - 69 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,240 likes - 69 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

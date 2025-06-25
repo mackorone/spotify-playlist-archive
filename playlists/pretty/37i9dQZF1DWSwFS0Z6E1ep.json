@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 283676,
+  "num_followers": 283754,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 155506,
-      "name": "Hallelujah, I Love Her So",
-      "url": "https://open.spotify.com/track/5P11rW6aJErF37MTfRZS31"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "That's All",
         "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 184333,
       "name": "Mack the Knife",
       "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 155506,
+      "name": "Hallelujah, I Love Her So",
+      "url": "https://open.spotify.com/track/5P11rW6aJErF37MTfRZS31"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Here's Little Richard (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 141400,
-      "name": "Rip It Up",
-      "url": "https://open.spotify.com/track/5tHFPtV7dT01fxDe2AhKjD"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Best Of The Diamonds",
         "url": "https://open.spotify.com/album/6iUnqREt5OzfM2EDpJVEVM"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 129333,
       "name": "Little Darlin'",
       "url": "https://open.spotify.com/track/7ycFNferNuk6wAjBa0vWvl"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Here's Little Richard (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 141400,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/5tHFPtV7dT01fxDe2AhKjD"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Something for Nothing / Little Fine Healthy Thing",
-        "url": "https://open.spotify.com/album/681gmpIrqPEGuvIKwJ0CRR"
-      },
-      "artists": [
-        {
-          "name": "Billy \"The Kid\" Emerson",
-          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
-        }
-      ],
-      "duration_ms": 153627,
-      "name": "Little Fine Healthy Thing",
-      "url": "https://open.spotify.com/track/2eTOZn2Mn4ZswpMsbrihhm"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Memories Never Grow Old / Good Lovin'",
         "url": "https://open.spotify.com/album/1JfYQZ9G80fMf9DGtQqSac"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 172568,
       "name": "Good Lovin'",
       "url": "https://open.spotify.com/track/2vYfYvYvfxCxOoGLfs4N8d"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Something for Nothing / Little Fine Healthy Thing",
+        "url": "https://open.spotify.com/album/681gmpIrqPEGuvIKwJ0CRR"
+      },
+      "artists": [
+        {
+          "name": "Billy \"The Kid\" Emerson",
+          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
+        }
+      ],
+      "duration_ms": 153627,
+      "name": "Little Fine Healthy Thing",
+      "url": "https://open.spotify.com/track/2eTOZn2Mn4ZswpMsbrihhm"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1607,6 +1607,22 @@
       "duration_ms": 172400,
       "name": "Whole Lot of Shakin' Going On",
       "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Rhythm and The Blues- Sun Records",
+        "url": "https://open.spotify.com/album/1m0yihEeollqE6iTvH7caR"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 188673,
+      "name": "The Hucklebuck",
+      "url": "https://open.spotify.com/track/3Ma5W48ynycNlKFgWt3k3j"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1735,22 +1751,6 @@
       "duration_ms": 157446,
       "name": "Ugly Woman",
       "url": "https://open.spotify.com/track/1ZA4CxSAAVKmbVt6Oj75IZ"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "The Rhythm and The Blues- Sun Records",
-        "url": "https://open.spotify.com/album/1m0yihEeollqE6iTvH7caR"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 188673,
-      "name": "The Hucklebuck",
-      "url": "https://open.spotify.com/track/3Ma5W48ynycNlKFgWt3k3j"
     },
     {
       "added_at": "2022-06-07 05:25:13",

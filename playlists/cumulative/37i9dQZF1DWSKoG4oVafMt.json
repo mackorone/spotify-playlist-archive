@@ -7942,6 +7942,24 @@
     {
       "album": {
         "name": "Into You",
+        "url": "https://open.spotify.com/album/5sWD7v8WBjWEpck7G5pZCb"
+      },
+      "artists": [
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132955,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/4Ele73ctCMDU8qQDIfy9yq"
+    },
+    {
+      "album": {
+        "name": "Into You",
         "url": "https://open.spotify.com/album/64vhuaHJxjSZrOwMUqGJ85"
       },
       "artists": [
@@ -14434,7 +14452,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 162644,
       "name": "ONLY YOU",
       "url": "https://open.spotify.com/track/4HZhULqSOxJX70vpZD4Iz5"
@@ -21646,10 +21664,40 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 203653,
       "name": "Ve Haaniyaan (Female Version)",
       "url": "https://open.spotify.com/track/2hjARU9stCimSBlpSliMSQ"
+    },
+    {
+      "album": {
+        "name": "Ve Ranjhana (From \"Heer Express\")",
+        "url": "https://open.spotify.com/album/26y2jQ27Xk1p6S56MghtMw"
+      },
+      "artists": [
+        {
+          "name": "Simar Kaur",
+          "url": "https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1"
+        },
+        {
+          "name": "Navi Sran",
+          "url": "https://open.spotify.com/artist/3zJE4ZX2bopU78ctqJ2bBF"
+        },
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        },
+        {
+          "name": "Harmanjeet",
+          "url": "https://open.spotify.com/artist/6IPcyny3JhT2NpzeotdMJ4"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138367,
+      "name": "Ve Ranjhana - From \"Heer Express\"",
+      "url": "https://open.spotify.com/track/1014HrALiJTvFGxHpc40Fb"
     },
     {
       "album": {

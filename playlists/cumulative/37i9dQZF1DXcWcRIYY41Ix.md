@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Lorena Álvarez.
 
-857 songs - 2 day 3 hr 2 min
+858 songs - 2 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Aire](https://open.spotify.com/track/61IeOSgaFJ8NmBsVAWZFxs) | [RIOLA](https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9) | [Aire](https://open.spotify.com/album/4jklEmPGLA21ItDDi9wZvs) | 4:29 | 2023-05-19 | 2023-06-17 |
 | [Airecillo \(en directo\)](https://open.spotify.com/track/6A9nATNDvSi3P4THnGQyTH) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS), [Nacho Mur](https://open.spotify.com/artist/6cX4krqTwKWyrfU7QkzmDf) | [Airecillo \(en directo\)](https://open.spotify.com/album/1Mj3njZyXu0opPQlo4C0Zr) | 4:14 | 2025-03-20 | 2025-05-31 |
 | [Aitormena](https://open.spotify.com/track/0Tei9Df9ToODKMjoDQ26cP) | [Iseo](https://open.spotify.com/artist/49kvPYQ1LKNY9PsDa3kau7) | [Aitormena](https://open.spotify.com/album/102DUYMhYmzYN11gsOszXg) | 2:50 | 2021-12-24 | 2022-04-27 |
-| [Al Aire](https://open.spotify.com/track/6QzZMwl7YJXou3kGBrMOBr) | [Marina Paredes](https://open.spotify.com/artist/0I03cTyLdD4WvlWsN6Xzvu) | [Al Aire](https://open.spotify.com/album/3CsnUv0tRSJVxTk2UZ9HaO) | 4:12 | 2025-05-30 |  |
+| [Al Aire](https://open.spotify.com/track/6QzZMwl7YJXou3kGBrMOBr) | [Marina Paredes](https://open.spotify.com/artist/0I03cTyLdD4WvlWsN6Xzvu) | [Al Aire](https://open.spotify.com/album/3CsnUv0tRSJVxTk2UZ9HaO) | 4:12 | 2025-05-30 | 2025-06-25 |
 | [Al Lado del Camino](https://open.spotify.com/track/4HTyc2zmVpe8JW9QcsHNX0) | [Yacaré Manso](https://open.spotify.com/artist/0G6VQf773ZIIYkKs8QnW1V), [Noelia Recalde](https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv) | [Al Lado del Camino](https://open.spotify.com/album/7r8SIi5iAHxJiDOR4XtVzW) | 4:47 | 2021-12-24 | 2022-07-29 |
 | [Al Margen de Ojalá](https://open.spotify.com/track/5cBArlwbcWbtM1bojUohLx) | [Andrés Iwasaki](https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj) | [Al Margen de Ojalá](https://open.spotify.com/album/1r5ZAPQ4xnDARkAXaTXDus) | 5:26 | 2021-12-24 | 2023-08-19 |
 | [Al olvido](https://open.spotify.com/track/2otohLA5z3YnjBfi9W3bwR) | [Vicente Navarro](https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ) | [Al olvido](https://open.spotify.com/album/2s9LV4Pf5SHo6mtTnbNBBS) | 3:00 | 2023-06-23 | 2023-07-29 |
@@ -256,6 +256,7 @@
 | [El mundo en torno a ti](https://open.spotify.com/track/5WfZQApmpzZwqn1070XtF3) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Mundos inmóviles derrumbándose](https://open.spotify.com/album/73kq0BQGLHlbefVFRbVSGw) | 5:00 | 2022-03-07 | 2022-03-12 |
 | [El Oasis](https://open.spotify.com/track/2Q464tEwoBbA7exfvzPBce) | [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT) | [Alma Gitana](https://open.spotify.com/album/09UYfumzxnNeYgzOtYPwfj) | 2:51 | 2024-09-24 | 2024-10-26 |
 | [El Palmar](https://open.spotify.com/track/4XgtH8XgnB6NWxX3e5gr6U) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS), [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [El Palmar](https://open.spotify.com/album/1sK8DJFpwDQFjUtiOG1J0k) | 3:07 | 2022-07-01 | 2023-02-18 |
+| [El pañuelín](https://open.spotify.com/track/7uAkA1LoJYnkB0tk4lEZGE) | [Marisa Valle Roso](https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL) | [El pañuelín](https://open.spotify.com/album/6Ly1wBKVqHnO1eY0LG1lf3) | 3:47 | 2025-06-20 |  |
 | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/track/70b8lQmciDIfPQNNEpp3Sj) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/album/6lozW74MS46Wi4TBg8eInD) | 2:49 | 2023-06-23 | 2023-09-16 |
 | [El Primer Beso de Verdad](https://open.spotify.com/track/5QmV6BH60x7BLqYLrjCHcm) | [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [Fotografías de España](https://open.spotify.com/album/2hob96jwRqls6wbZuqfppl) | 2:51 | 2024-03-01 | 2024-03-23 |
 | [El Primero](https://open.spotify.com/track/3etMSQSq1ynkQ4Vb9QO99U) | [Parade](https://open.spotify.com/artist/1peNOv8TAlb3Lu1IqaNf56), [Nacho Casado](https://open.spotify.com/artist/3Kk2OzzEbuWFgWdZy2cy5N) | [Parade & Nacho Casado](https://open.spotify.com/album/44w7etmPnXkSB4qnJ4p9ZY) | 3:14 | 2024-10-11 | 2024-12-14 |

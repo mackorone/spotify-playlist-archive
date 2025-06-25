@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Yaya Bey
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,640 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,636 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 52 | [211](https://open.spotify.com/track/7nWNx0hsYkGP0wBRLHv9Jj) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [211 / See You Later](https://open.spotify.com/album/1ysS9dTHq1WTU9ClXUegil) | 3:15 |
 | 53 | [This Is Why](https://open.spotify.com/track/6BjVkcvUiZ40CI6ckLadnU) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [This Is Why](https://open.spotify.com/album/6M4UH3NOkiHKymVfpW4vn5) | 2:53 |
 | 54 | [No Secrets](https://open.spotify.com/track/0yR6C6fVO9EecfDKL7e9mY) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [No Secrets](https://open.spotify.com/album/1dJdsWWuEbTDh43PpZfcbT) | 3:09 |
-| 55 | [Chosen One \- grooveman Spot Remix](https://open.spotify.com/track/1ePIgkwpyPWYxTy8bJaoox) | [aimi](https://open.spotify.com/artist/1jLLPMeKf9XCe6J8NHnp84), [grooveman Spot](https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa), [Kzyboost](https://open.spotify.com/artist/4zJ19jYGUpEGwnTVEYDPil) | [aimi SUMMER REMIXES](https://open.spotify.com/album/7wJnLhAJ4uDizIjicCOdFw) | 3:10 |
+| 55 | [Chosen One \- grooveman Spot Remix](https://open.spotify.com/track/1ePIgkwpyPWYxTy8bJaoox) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7), [grooveman Spot](https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa), [Kzyboost](https://open.spotify.com/artist/4zJ19jYGUpEGwnTVEYDPil) | [aimi SUMMER REMIXES](https://open.spotify.com/album/7wJnLhAJ4uDizIjicCOdFw) | 3:10 |
 | 56 | [PROMISE](https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [PROMISE](https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV) | 3:43 |
 | 57 | [MENACE](https://open.spotify.com/track/3h0AyBKSA7fHWanQzv00Nb) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [MENACE](https://open.spotify.com/album/1myy2Uyu72ydZYlXydekjN) | 2:34 |
 | 58 | [Flowers and Butterfly](https://open.spotify.com/track/0TnZDDsrZJHf05NMM6YkJW) | [Marter](https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Flowers and Butterfly](https://open.spotify.com/album/0a4ChujBi0qpoWUmu405J4) | 4:05 |

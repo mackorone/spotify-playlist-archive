@@ -646,7 +646,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 178166,
       "name": "The Future's in My Hands - Theme from \"Hailey's On It!\"",
       "url": "https://open.spotify.com/track/2EDhyd2FMEeV1P0iwA1eWt"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-23",
+      "date_removed": null,
       "duration_ms": 178166,
       "name": "The Future's in My Hands - Theme from \"Hailey's On It!\"",
       "url": "https://open.spotify.com/track/4Fn5xfalnbwbxv0Km0Vhhh"
@@ -910,6 +910,10 @@
         {
           "name": "Villagers of Motunui",
           "url": "https://open.spotify.com/artist/5IxJyEUqhBte1rRbViGjNm"
+        },
+        {
+          "name": "Te Vaka",
+          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
         },
         {
           "name": "Disney",

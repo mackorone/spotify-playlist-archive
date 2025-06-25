@@ -3752,7 +3752,7 @@
 - [Meditate to the Sounds of Nature](/playlists/pretty/37i9dQZF1DX1tuUiirhaT3.md)
 - [Meditative Guitar](/playlists/pretty/37i9dQZF1DWSAqa5cw6DxQ.md)
 - [Meditative State of Mind](/playlists/pretty/37i9dQZF1DWTetfhmm3xOs.md)
-- [Meditação e Relaxamento](/playlists/pretty/37i9dQZF1DXaKgOqDv3HpW.md)
+- [Meditação Profunda](/playlists/pretty/37i9dQZF1DXaKgOqDv3HpW.md)
 - [Mega Hit Mix](/playlists/pretty/37i9dQZF1DXbYM3nMM0oPk.md)
 - [Mega Pop Mix](/playlists/pretty/37i9dQZF1DX9L93gfg5cPa.md)
 - [Mega Éxitos 2025](/playlists/pretty/37i9dQZF1DX21ow0o1PZDE.md)

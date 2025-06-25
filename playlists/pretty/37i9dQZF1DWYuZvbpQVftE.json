@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 38112,
+  "num_followers": 38134,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
+        "name": "Take Me Along",
+        "url": "https://open.spotify.com/album/24I15RTAgb3NtGfrTilzQI"
+      },
+      "artists": [
+        {
+          "name": "Marty Paich",
+          "url": "https://open.spotify.com/artist/69OOiGDvj0o9QQ184tqc9R"
+        }
+      ],
+      "duration_ms": 304093,
+      "name": "Sid, Ol' Kid",
+      "url": "https://open.spotify.com/track/4ZdUYMQBvQe4o5qiIVGtzI"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
         "name": "Afro-Cuban Influence",
         "url": "https://open.spotify.com/album/62Yenrvcp91jc43CDuroz6"
       },
@@ -699,18 +715,18 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Take Me Along",
-        "url": "https://open.spotify.com/album/24I15RTAgb3NtGfrTilzQI"
+        "name": "What Is There To Say?",
+        "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
       },
       "artists": [
         {
-          "name": "Marty Paich",
-          "url": "https://open.spotify.com/artist/69OOiGDvj0o9QQ184tqc9R"
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
         }
       ],
-      "duration_ms": 304093,
-      "name": "Sid, Ol' Kid",
-      "url": "https://open.spotify.com/track/4ZdUYMQBvQe4o5qiIVGtzI"
+      "duration_ms": 303533,
+      "name": "News From Blueport",
+      "url": "https://open.spotify.com/track/19cN9w8acuY1mhelpksd6h"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -731,22 +747,6 @@
       "duration_ms": 518000,
       "name": "Happily Dancing / Deep Harmonies Falling - Live",
       "url": "https://open.spotify.com/track/7vcuLXP5eTaUwa1xh3rRYs"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
-        "name": "What Is There To Say?",
-        "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 303533,
-      "name": "News From Blueport",
-      "url": "https://open.spotify.com/track/19cN9w8acuY1mhelpksd6h"
     },
     {
       "added_at": "2024-09-03 09:42:20",

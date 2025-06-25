@@ -2829,6 +2829,24 @@
     },
     {
       "album": {
+        "name": "Gaanji",
+        "url": "https://open.spotify.com/album/2GClnG0LY6hIqv3CmLMznO"
+      },
+      "artists": [
+        {
+          "name": "Chandan Shetty",
+          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Gaanji",
+      "url": "https://open.spotify.com/track/0nTl1C6WCW2yv5P2G8eK87"
+    },
+    {
+      "album": {
         "name": "Gadda",
         "url": "https://open.spotify.com/album/5HeVSXTlmUq9Rw8BuOZiGv"
       },
@@ -7648,7 +7666,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 202496,
       "name": "New Year Party",
       "url": "https://open.spotify.com/track/0CLeumt8dQq1FA7oZjnwet"

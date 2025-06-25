@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udea8 ",
-  "num_followers": 106,
+  "num_followers": 111,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -275,26 +275,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Span",
-        "url": "https://open.spotify.com/album/2S5n4V0A35bSnBoIG4SqG1"
-      },
-      "artists": [
-        {
-          "name": "25",
-          "url": "https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc"
-        },
-        {
-          "name": "Kayen",
-          "url": "https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1"
-        }
-      ],
-      "duration_ms": 143606,
-      "name": "Span",
-      "url": "https://open.spotify.com/track/7zZKjXmvQXRl17gzd15Lb2"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "Tipp Topp Hum\u00f8r",
         "url": "https://open.spotify.com/album/0DDszi5SJ6ooRqrKbRBxpf"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 197480,
       "name": "Tipp Topp Hum\u00f8r",
       "url": "https://open.spotify.com/track/4jdqbnHs8xNf4NpkT2TT2r"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Span",
+        "url": "https://open.spotify.com/album/2S5n4V0A35bSnBoIG4SqG1"
+      },
+      "artists": [
+        {
+          "name": "25",
+          "url": "https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc"
+        },
+        {
+          "name": "Kayen",
+          "url": "https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1"
+        }
+      ],
+      "duration_ms": 143606,
+      "name": "Span",
+      "url": "https://open.spotify.com/track/7zZKjXmvQXRl17gzd15Lb2"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "THANK GOD",
-        "url": "https://open.spotify.com/album/6rL8WafHZLCLhGZIelZQlM"
-      },
-      "artists": [
-        {
-          "name": "Sa_G",
-          "url": "https://open.spotify.com/artist/5ys6SWXPFzxaULLoEmaO7L"
-        }
-      ],
-      "duration_ms": 162178,
-      "name": "THANK GOD",
-      "url": "https://open.spotify.com/track/71E4casotTyJt5TaBL8SMb"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "Mariachi",
         "url": "https://open.spotify.com/album/5VEJg4FgkfQXOJygPhgqzL"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 162857,
       "name": "Mariachi",
       "url": "https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "THANK GOD",
+        "url": "https://open.spotify.com/album/6rL8WafHZLCLhGZIelZQlM"
+      },
+      "artists": [
+        {
+          "name": "Sa_G",
+          "url": "https://open.spotify.com/artist/5ys6SWXPFzxaULLoEmaO7L"
+        }
+      ],
+      "duration_ms": 162178,
+      "name": "THANK GOD",
+      "url": "https://open.spotify.com/track/71E4casotTyJt5TaBL8SMb"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -835,26 +835,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Ut",
-        "url": "https://open.spotify.com/album/3Bwg5T0yU07hxNB3ih0Kue"
-      },
-      "artists": [
-        {
-          "name": "Rambow",
-          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
-        },
-        {
-          "name": "FRAM",
-          "url": "https://open.spotify.com/artist/4eo3HSMXtaYqAAW6f14YVt"
-        }
-      ],
-      "duration_ms": 178237,
-      "name": "Ut",
-      "url": "https://open.spotify.com/track/2ltsNF325fGDi9yznNnDYU"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "Leve",
         "url": "https://open.spotify.com/album/798HIQ0XS757OGJL0pGfER"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 163589,
       "name": "Wine",
       "url": "https://open.spotify.com/track/3HHXFvN5BjYrASwmeaEYVI"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Ut",
+        "url": "https://open.spotify.com/album/3Bwg5T0yU07hxNB3ih0Kue"
+      },
+      "artists": [
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        },
+        {
+          "name": "FRAM",
+          "url": "https://open.spotify.com/artist/4eo3HSMXtaYqAAW6f14YVt"
+        }
+      ],
+      "duration_ms": 178237,
+      "name": "Ut",
+      "url": "https://open.spotify.com/track/2ltsNF325fGDi9yznNnDYU"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -939,6 +939,22 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
+        "name": "Beverly Hills",
+        "url": "https://open.spotify.com/album/7hSjecsWNsaLrypYmc0tN5"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "duration_ms": 188785,
+      "name": "Beverly Hills",
+      "url": "https://open.spotify.com/track/5ZfR2ZsJrBJpLIMsN7zMIn"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
         "name": "Kvar - Spotify Studio 100 Recording",
         "url": "https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 161666,
       "name": "Kvar - Spotify Studio 100 Recording",
       "url": "https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
-        "name": "Beverly Hills",
-        "url": "https://open.spotify.com/album/7hSjecsWNsaLrypYmc0tN5"
-      },
-      "artists": [
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        }
-      ],
-      "duration_ms": 188785,
-      "name": "Beverly Hills",
-      "url": "https://open.spotify.com/track/5ZfR2ZsJrBJpLIMsN7zMIn"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Geek'd",
-        "url": "https://open.spotify.com/album/5qrwsMYXQ8F7AOCYh2jCzT"
-      },
-      "artists": [
-        {
-          "name": "LAY",
-          "url": "https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0"
-        },
-        {
-          "name": "USSEL",
-          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
-        }
-      ],
-      "duration_ms": 154112,
-      "name": "Geek'd",
-      "url": "https://open.spotify.com/track/0e3TmAWvBPpcw4Pvtbipdi"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
         "url": "https://open.spotify.com/album/7MhqedIbIMXPHpYDwJEi5U"
       },
@@ -1131,18 +1111,22 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Trump",
-        "url": "https://open.spotify.com/album/4FOR6AyYhKQZfYNBaMZzsx"
+        "name": "Geek'd",
+        "url": "https://open.spotify.com/album/5qrwsMYXQ8F7AOCYh2jCzT"
       },
       "artists": [
         {
-          "name": "Magzim",
-          "url": "https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn"
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0"
+        },
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
         }
       ],
-      "duration_ms": 122322,
-      "name": "Trump",
-      "url": "https://open.spotify.com/track/4SxPAIOIiVTXbacf83ZPne"
+      "duration_ms": 154112,
+      "name": "Geek'd",
+      "url": "https://open.spotify.com/track/0e3TmAWvBPpcw4Pvtbipdi"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -1171,6 +1155,22 @@
       "duration_ms": 178736,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/4e6yJydi3ONicrZ8gXsCCv"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Trump",
+        "url": "https://open.spotify.com/album/4FOR6AyYhKQZfYNBaMZzsx"
+      },
+      "artists": [
+        {
+          "name": "Magzim",
+          "url": "https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn"
+        }
+      ],
+      "duration_ms": 122322,
+      "name": "Trump",
+      "url": "https://open.spotify.com/track/4SxPAIOIiVTXbacf83ZPne"
     },
     {
       "added_at": "2025-05-22 22:00:39",

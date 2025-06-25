@@ -5671,6 +5671,24 @@
     },
     {
       "album": {
+        "name": "My Room",
+        "url": "https://open.spotify.com/album/4vp2DWLV5Lhe5tUGhbwRvL"
+      },
+      "artists": [
+        {
+          "name": "Alex Bloom",
+          "url": "https://open.spotify.com/artist/76Q3mwreqsUh3yL5YL3tLt"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156409,
+      "name": "My Room",
+      "url": "https://open.spotify.com/track/2ZziF1vDOlGND8E2fn755w"
+    },
+    {
+      "album": {
         "name": "N.A.S.C.A.R",
         "url": "https://open.spotify.com/album/77VoWt51gxY9sj167WZ8CB"
       },

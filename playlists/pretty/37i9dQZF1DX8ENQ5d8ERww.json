@@ -1,6 +1,6 @@
 {
   "description": "Die Klassiker des Schweizer Hip-Hop.",
-  "num_followers": 12763,
+  "num_followers": 12758,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,26 @@
     {
       "added_at": "2024-12-09 12:11:25",
       "album": {
+        "name": "Deheim?",
+        "url": "https://open.spotify.com/album/5FcPc8QMIXG8DdH66yLqY1"
+      },
+      "artists": [
+        {
+          "name": "Webba",
+          "url": "https://open.spotify.com/artist/017QhuKZfqKAxJHG2ZmolS"
+        },
+        {
+          "name": "Baze",
+          "url": "https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH"
+        }
+      ],
+      "duration_ms": 273005,
+      "name": "Du Hesch Ke",
+      "url": "https://open.spotify.com/track/6uUqFin8qIVVTP8ch9MMmW"
+    },
+    {
+      "added_at": "2024-12-09 12:11:25",
+      "album": {
         "name": "Picasso",
         "url": "https://open.spotify.com/album/15CdVyhICOqQrPprJEh7v2"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 227683,
       "name": "Teil Vom Problem",
       "url": "https://open.spotify.com/track/4dK2t6AV9WtyxuKw3qZGDd"
-    },
-    {
-      "added_at": "2024-12-09 12:11:25",
-      "album": {
-        "name": "Deheim?",
-        "url": "https://open.spotify.com/album/5FcPc8QMIXG8DdH66yLqY1"
-      },
-      "artists": [
-        {
-          "name": "Webba",
-          "url": "https://open.spotify.com/artist/017QhuKZfqKAxJHG2ZmolS"
-        },
-        {
-          "name": "Baze",
-          "url": "https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH"
-        }
-      ],
-      "duration_ms": 273005,
-      "name": "Du Hesch Ke",
-      "url": "https://open.spotify.com/track/6uUqFin8qIVVTP8ch9MMmW"
     },
     {
       "added_at": "2024-12-09 12:11:25",

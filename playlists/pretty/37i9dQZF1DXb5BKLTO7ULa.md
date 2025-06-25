@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: Samuel Welten, Hannah Mae, Jonna Fraser en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,800 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,792 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 53 | [WJNMK](https://open.spotify.com/track/7zPY8eLsVIJCE8OK4OGxhg) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [WJNMK](https://open.spotify.com/album/6Z2PlWQWGLk4QsIQQIjcnE) | 2:40 |
 | 54 | [Tijd Genoeg](https://open.spotify.com/track/42McJVUcfS9EsBiGKrGRf6) | [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN) | [Tijd Genoeg](https://open.spotify.com/album/4siS27nBLU55Lq1yXkomP3) | 2:40 |
 | 55 | [at night](https://open.spotify.com/track/6w8uNRU5YHIr8CdaOzcEzn) | [KUZKO](https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo) | [At Night](https://open.spotify.com/album/1579xn4AnUxTLdILH9NlZK) | 2:47 |
-| 56 | [STARS](https://open.spotify.com/track/3qbxPnsqHXZKN24Fu0yBVL) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [Charly Lownoise & Mental Theo](https://open.spotify.com/artist/5GLFbwgiU1YyAoQD8C4nvC), [Tally](https://open.spotify.com/artist/1BGmvURhdsSvMFEmQkL71k) | [STARS](https://open.spotify.com/album/7nHQYbgAgJHBW0xA8EiEmj) | 2:40 |
+| 56 | [STARS](https://open.spotify.com/track/3qbxPnsqHXZKN24Fu0yBVL) | [Charly Lownoise & Mental Theo](https://open.spotify.com/artist/5GLFbwgiU1YyAoQD8C4nvC), [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [Tally](https://open.spotify.com/artist/1BGmvURhdsSvMFEmQkL71k) | [STARS](https://open.spotify.com/album/7nHQYbgAgJHBW0xA8EiEmj) | 2:40 |
 | 57 | [Landen En Vrij Zijn](https://open.spotify.com/track/3PMDOMuoJafeimkQ08PiJV) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Red Rose Romance](https://open.spotify.com/album/5HMPz9vHbmthIDKiVXdSsO) | 2:52 |
 | 58 | [Is Everybody Having Fun? \(feat\. rhys from the sticks\)](https://open.spotify.com/track/58JdlahcAaLgM7ftInMf4M) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [Is Everybody Having Fun? \(feat\. rhys from the sticks\)](https://open.spotify.com/album/0saGsR6TeTVKV7rJHOYgR8) | 2:49 |
 | 59 | [Wait So Long](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Wait So Long](https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl) | 3:19 |

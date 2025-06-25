@@ -1,12 +1,12 @@
 {
   "description": "This is Simon & Garfunkel. The essential tracks, all in one playlist.",
-  "num_followers": 344390,
+  "num_followers": 344395,
   "original_name": "This Is Simon & Garfunkel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFdHgAAAAAAy2LRnV32t+QChykEcpLT+",
+  "snapshot_id": "aFiZAAAAAAACz95xOZ2DVkbzTjas0n5H",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Crazy After All These Years",
-        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 231946,
-      "name": "My Little Town",
-      "url": "https://open.spotify.com/track/3obrfotpr4kLCKiOu2GZ4Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parsley, Sage, Rosemary And Thyme",
         "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 131746,
       "name": "Flowers Never Bend with the Rainfall",
       "url": "https://open.spotify.com/track/0qSITuCPLxjoDtESBy70WO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 231946,
+      "name": "My Little Town",
+      "url": "https://open.spotify.com/track/3obrfotpr4kLCKiOu2GZ4Q"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sounds Of Silence",
-        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 133720,
-      "name": "Anji",
-      "url": "https://open.spotify.com/track/5pT4qRIpNb7cASsnMfE1Hc"
+      "duration_ms": 132613,
+      "name": "Punky's Dilemma",
+      "url": "https://open.spotify.com/track/5UsyaEfEsenoqvWkbVU0Wp"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+        "name": "Sounds Of Silence",
+        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 132613,
-      "name": "Punky's Dilemma",
-      "url": "https://open.spotify.com/track/5UsyaEfEsenoqvWkbVU0Wp"
+      "duration_ms": 133720,
+      "name": "Anji",
+      "url": "https://open.spotify.com/track/5pT4qRIpNb7cASsnMfE1Hc"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
       "duration_ms": 134213,
       "name": "Tom and Jerry Story - Live at Madison Square Garden, New York, NY - December 2003",
       "url": "https://open.spotify.com/track/17cNaiZu4NMvDlqVBL6HIS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30d3\u30c3\u30b0\u30fb\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30fb\u30a2\u30eb\u30d0\u30e0 \u30b5\u30a4\u30e2\u30f3\uff06\u30ac\u30fc\u30d5\u30a1\u30f3\u30af\u30eb",
-        "url": "https://open.spotify.com/album/3mD7HfA1y3j34SYNO8LJQs"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 112160,
-      "name": "\uff14\u6708\u306b\u306a\u308c\u3070\u5f7c\u5973\u306f",
-      "url": "https://open.spotify.com/track/5hqXK8hP4crpL6c2m0Z07Z"
     }
   ],
   "unique_name": "This Is Simon & Garfunkel",

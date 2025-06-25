@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Una semana más, una ola más de tus artistas favoritos y canciones frescas para disfrutar en compañía de Enjambre
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,006,395 likes - 71 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006,435 likes - 71 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

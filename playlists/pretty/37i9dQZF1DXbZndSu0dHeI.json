@@ -1,6 +1,6 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 233493,
+  "num_followers": 233497,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "{Awayland}",
-        "url": "https://open.spotify.com/album/4lZBE5uyS5BGnJOJc88s95"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 223935,
-      "name": "Nothing Arrived",
-      "url": "https://open.spotify.com/track/4Qegqm597Rw1PfaV43WkLy"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "yeti",
         "url": "https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 252152,
       "name": "yeti",
       "url": "https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "{Awayland}",
+        "url": "https://open.spotify.com/album/4lZBE5uyS5BGnJOJc88s95"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 223935,
+      "name": "Nothing Arrived",
+      "url": "https://open.spotify.com/track/4Qegqm597Rw1PfaV43WkLy"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
+        "name": "Shell",
+        "url": "https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        }
+      ],
+      "duration_ms": 140145,
+      "name": "Shell",
+      "url": "https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
         "name": "Everybody",
         "url": "https://open.spotify.com/album/2QRzc3cbXi3DjaVk30t5Vj"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 394906,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/5nRaLv8g2AAtEf92IuQJyG"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
-        "name": "Shell",
-        "url": "https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL"
-      },
-      "artists": [
-        {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
-        }
-      ],
-      "duration_ms": 140145,
-      "name": "Shell",
-      "url": "https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "For the Cold Country",
-        "url": "https://open.spotify.com/album/6HnC12N2Ir7bb6jUj67RfY"
-      },
-      "artists": [
-        {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
-        }
-      ],
-      "duration_ms": 387495,
-      "name": "For the Cold Country",
-      "url": "https://open.spotify.com/track/65SovR8Agl5vY7vtJ02wk7"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 166053,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "For the Cold Country",
+        "url": "https://open.spotify.com/album/6HnC12N2Ir7bb6jUj67RfY"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "duration_ms": 387495,
+      "name": "For the Cold Country",
+      "url": "https://open.spotify.com/track/65SovR8Agl5vY7vtJ02wk7"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "it's a landslide",
-        "url": "https://open.spotify.com/album/1Oc7fvNL3yxeXfLbYN17ER"
-      },
-      "artists": [
-        {
-          "name": "beaux",
-          "url": "https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj"
-        }
-      ],
-      "duration_ms": 159730,
-      "name": "it's a landslide",
-      "url": "https://open.spotify.com/track/0uOWwP2AQqdwNuXJHeuErG"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 201111,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "it's a landslide",
+        "url": "https://open.spotify.com/album/1Oc7fvNL3yxeXfLbYN17ER"
+      },
+      "artists": [
+        {
+          "name": "beaux",
+          "url": "https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj"
+        }
+      ],
+      "duration_ms": 159730,
+      "name": "it's a landslide",
+      "url": "https://open.spotify.com/track/0uOWwP2AQqdwNuXJHeuErG"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1143,6 +1143,38 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
+        "name": "Stay And Rest For A While",
+        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
+      },
+      "artists": [
+        {
+          "name": "Good Dog",
+          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
+        }
+      ],
+      "duration_ms": 173259,
+      "name": "Stay And Rest For A While",
+      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Mechanical Bull",
+        "url": "https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 236359,
+      "name": "Mechanical Bull",
+      "url": "https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
         "name": "2much2soon",
         "url": "https://open.spotify.com/album/6lelFbCH0ZJ80em8wganZo"
       },
@@ -1175,38 +1207,6 @@
       "duration_ms": 183392,
       "name": "Hole In A Frame",
       "url": "https://open.spotify.com/track/21cWL7lvLaKQfPbC30Aejs"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
-        "name": "Mechanical Bull",
-        "url": "https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 236359,
-      "name": "Mechanical Bull",
-      "url": "https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
-        "name": "Stay And Rest For A While",
-        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
-      },
-      "artists": [
-        {
-          "name": "Good Dog",
-          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
-        }
-      ],
-      "duration_ms": 173259,
-      "name": "Stay And Rest For A While",
-      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Where Sky Becomes Sea",
-        "url": "https://open.spotify.com/album/5HnWBgUMo42JHHsDMOkAdD"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 317270,
-      "name": "Where Sky Becomes Sea",
-      "url": "https://open.spotify.com/track/4R9CJUZVrHTyL8L1bkVlAT"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Nosebleed",
         "url": "https://open.spotify.com/album/21ra3mXDSgrc12axMIbjsn"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 206573,
       "name": "Nosebleed",
       "url": "https://open.spotify.com/track/1ARLDdTUR8FPWCW65qRTq8"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Where Sky Becomes Sea",
+        "url": "https://open.spotify.com/album/5HnWBgUMo42JHHsDMOkAdD"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 317270,
+      "name": "Where Sky Becomes Sea",
+      "url": "https://open.spotify.com/track/4R9CJUZVrHTyL8L1bkVlAT"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "The Dream",
-        "url": "https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst"
-      },
-      "artists": [
-        {
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
-        }
-      ],
-      "duration_ms": 289800,
-      "name": "The Dream",
-      "url": "https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Garden of Eden",
         "url": "https://open.spotify.com/album/3pw1gb17EJ7ILSm9b28ZgQ"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 199480,
       "name": "Garden of Eden",
       "url": "https://open.spotify.com/track/6jF6VwQeIiy18FUH0wuIQN"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst"
+      },
+      "artists": [
+        {
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+        }
+      ],
+      "duration_ms": 289800,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "STAY WITH ME!",
-        "url": "https://open.spotify.com/album/1xfGHGxqx8MnPf6aRs2P0J"
-      },
-      "artists": [
-        {
-          "name": "Tiberius b",
-          "url": "https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "STAY WITH ME!",
-      "url": "https://open.spotify.com/track/1Dg4KP0l6sPH1IEbS7iRW6"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "I've Got Feelings",
         "url": "https://open.spotify.com/album/2bLRDPpnlBgpuHQg0qVmo1"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 241981,
       "name": "I've Got Feelings",
       "url": "https://open.spotify.com/track/6AufSqeMerHPyCYy7PcvvP"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "STAY WITH ME!",
+        "url": "https://open.spotify.com/album/1xfGHGxqx8MnPf6aRs2P0J"
+      },
+      "artists": [
+        {
+          "name": "Tiberius b",
+          "url": "https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "STAY WITH ME!",
+      "url": "https://open.spotify.com/track/1Dg4KP0l6sPH1IEbS7iRW6"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Halloween Costume",
-        "url": "https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 149426,
-      "name": "Halloween Costume",
-      "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Turn The World On",
         "url": "https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 210173,
       "name": "Turn The World On",
       "url": "https://open.spotify.com/track/5zeMiru9wbjdLBNYhFZa3G"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Halloween Costume",
+        "url": "https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 149426,
+      "name": "Halloween Costume",
+      "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

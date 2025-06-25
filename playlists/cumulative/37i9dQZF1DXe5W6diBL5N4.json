@@ -8503,6 +8503,24 @@
     },
     {
       "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/29zT1enqpOrd9Plbzrd7yr"
+      },
+      "artists": [
+        {
+          "name": "hartts",
+          "url": "https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/4kPetZ4yIZpaC1bkjxo2NC"
+    },
+    {
+      "album": {
         "name": "Votiz vol.3",
         "url": "https://open.spotify.com/album/1DZ1JADwJiA9gOnmdFe1sj"
       },
@@ -16332,6 +16350,28 @@
       "duration_ms": 165213,
       "name": "Baby PLZ (feat. Jay Park)",
       "url": "https://open.spotify.com/track/0KBQZCNDLOPLFNZ17Q8CQg"
+    },
+    {
+      "album": {
+        "name": "Baby Step",
+        "url": "https://open.spotify.com/album/2mZfRTmfhY6eQXYcfIqxRq"
+      },
+      "artists": [
+        {
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+        },
+        {
+          "name": "siso",
+          "url": "https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181395,
+      "name": "Baby Step (feat. siso)",
+      "url": "https://open.spotify.com/track/2s32yDDsDOnDAuIQ24h1QP"
     },
     {
       "album": {
@@ -39973,6 +40013,24 @@
     },
     {
       "album": {
+        "name": "Confidence",
+        "url": "https://open.spotify.com/album/2xOcWwEpjMzDYg3aCePFQy"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144013,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/2RCUFR6B5EBeclhSSrIW0m"
+    },
+    {
+      "album": {
         "name": "Beauty Of The Pain 2",
         "url": "https://open.spotify.com/album/6WF8vmI3qqzO6MEk5XZ3ud"
       },
@@ -42316,6 +42374,24 @@
       "duration_ms": 189866,
       "name": "D-DAY",
       "url": "https://open.spotify.com/track/7Kw1ycY0Dfqf3uM25SxImO"
+    },
+    {
+      "album": {
+        "name": "Head over Heels, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1gCYdqywMDYyYLn9xZh6Df"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191013,
+      "name": "D-DAY",
+      "url": "https://open.spotify.com/track/6NmLAub5n0Ol4hwYlGVdiw"
     },
     {
       "album": {
@@ -47818,7 +47894,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 202026,
       "name": "Dive",
       "url": "https://open.spotify.com/track/3b7odAg3MSxNapF29KCYu3"
@@ -64979,6 +65055,24 @@
     },
     {
       "album": {
+        "name": "First Sight",
+        "url": "https://open.spotify.com/album/6zQpQHGZZA6OZcF1meqpUI"
+      },
+      "artists": [
+        {
+          "name": "can\u2019t be blue ",
+          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213326,
+      "name": "First Sight",
+      "url": "https://open.spotify.com/track/5hQRt83sxBT4nNHF8ux8iQ"
+    },
+    {
+      "album": {
         "name": "FIRST SNOW",
         "url": "https://open.spotify.com/album/7bCjHljEwZCOnIxd9ivIJK"
       },
@@ -71410,7 +71504,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 177600,
       "name": "gemini",
       "url": "https://open.spotify.com/track/3uqp08UFXefxLyAeHjYzrS"
@@ -71616,7 +71710,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 162968,
       "name": "Get da Faka",
       "url": "https://open.spotify.com/track/42XgPZgiamGgIw9P5pMx4F"
@@ -83984,7 +84078,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 233000,
       "name": "HOLA SOLAR",
       "url": "https://open.spotify.com/track/5DZ3v1kNkri3WwLkWtoGOE"
@@ -98153,6 +98247,28 @@
     },
     {
       "album": {
+        "name": "If Only (feat. Seo In Guk)",
+        "url": "https://open.spotify.com/album/3M7AH7EW7CELejD0svFxMr"
+      },
+      "artists": [
+        {
+          "name": "Babylon",
+          "url": "https://open.spotify.com/artist/3P16F9giedxmc5238b66bo"
+        },
+        {
+          "name": "Seo In Guk",
+          "url": "https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210991,
+      "name": "If Only (feat. Seo In Guk)",
+      "url": "https://open.spotify.com/track/0Q8tsuQ9wQeBBiAc4rEN7j"
+    },
+    {
+      "album": {
         "name": "If Only We Never Tried",
         "url": "https://open.spotify.com/album/2XeR4Vx1pNowyL3SgQW8dr"
       },
@@ -103262,7 +103378,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 167488,
       "name": "It's Just Fine",
       "url": "https://open.spotify.com/track/2z2BkXm7yuYzI28NM3ihxn"
@@ -104008,7 +104124,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 161013,
       "name": "Itty Bitty",
       "url": "https://open.spotify.com/track/5WRIf37zfCTvyiEgghTrLo"
@@ -124334,7 +124450,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 262026,
       "name": "Love\u2026Leaves Its Scent",
       "url": "https://open.spotify.com/track/2oOi4yJOChPbmSVfiKILH7"
@@ -129256,7 +129372,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 183013,
       "name": "Memory",
       "url": "https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr"
@@ -190663,6 +190779,24 @@
     },
     {
       "album": {
+        "name": "summer youth",
+        "url": "https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB"
+      },
+      "artists": [
+        {
+          "name": "Baek A",
+          "url": "https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217026,
+      "name": "summer youth",
+      "url": "https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa"
+    },
+    {
+      "album": {
         "name": "Summer youth (with 109)",
         "url": "https://open.spotify.com/album/6UEvwCcYlmAmC5uDSYW00K"
       },
@@ -201736,6 +201870,28 @@
       "duration_ms": 227266,
       "name": "The truth",
       "url": "https://open.spotify.com/track/20z9gaHnA9QbfUOrxyoLF5"
+    },
+    {
+      "album": {
+        "name": "The Truth Within",
+        "url": "https://open.spotify.com/album/0iD1uqSc0Ngf1tVcSI84Vm"
+      },
+      "artists": [
+        {
+          "name": "Yeoro",
+          "url": "https://open.spotify.com/artist/2H33No6rbjBG2G5bQYcQJo"
+        },
+        {
+          "name": "Jeoung iun",
+          "url": "https://open.spotify.com/artist/7whA7N4NJICicvcKOU8nkl"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "The Truth Within",
+      "url": "https://open.spotify.com/track/6Ozu50nxI1FVMCKzZ8l4LM"
     },
     {
       "album": {
@@ -219496,7 +219652,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 219785,
       "name": "What about Next Spring (feat. Kim Daniel of wave to earth)",
       "url": "https://open.spotify.com/track/57ruI2k5kFJMNxLKHzBEyh"
@@ -226650,7 +226806,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 234400,
       "name": "With me (Electrifying Confession X LUCY)",
       "url": "https://open.spotify.com/track/3jYSRhZxA4NnOxqwaC5HP9"
@@ -237834,6 +237990,24 @@
       "duration_ms": 338373,
       "name": "\ub2a6\uc740 \uc0dd\uac01 Regretful",
       "url": "https://open.spotify.com/track/52gLKHdIknGR7Nt2PmZU0l"
+    },
+    {
+      "album": {
+        "name": "\ud48b\ud48b\ud55c \ub85c\ub9e8\uc2a4 (Original Television Soundtrack) Pt.4",
+        "url": "https://open.spotify.com/album/5O4eK5dLeXo00AM3lMaPbk"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221089,
+      "name": "\ub2c8 \uc0dd\uac01\uc5d0 \uc7a0 \ubabb \ub4dc\ub294 \ubc24",
+      "url": "https://open.spotify.com/track/2FgVdZKG1HBr00W76lXPB6"
     },
     {
       "album": {

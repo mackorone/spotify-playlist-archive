@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,059 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,062 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 45 | [Chantilly](https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Chantilly](https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1) | 3:33 |
 | 46 | [Sail Away](https://open.spotify.com/track/4CZswu0Wz6p8MofHYdjgxc) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Sail Away](https://open.spotify.com/album/0ZTVAUvD7uDqn2s3Ir6IQV) | 2:29 |
 | 47 | [Above Me](https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Leisurevision](https://open.spotify.com/album/6o1b7D155gfX6u5SVY0bxf) | 3:34 |
-| 48 | [Meet Me](https://open.spotify.com/track/3FrJCNsmxAlrZm20OgMf4x) | [Janine](https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM) | [Meet Me](https://open.spotify.com/album/1aTv29hsfv6RFSTgdiNARV) | 3:14 |
-| 49 | [My Boy](https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU) | 2:43 |
+| 48 | [My Boy](https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU) | 2:43 |
+| 49 | [Meet Me](https://open.spotify.com/track/3FrJCNsmxAlrZm20OgMf4x) | [Janine](https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM) | [Meet Me](https://open.spotify.com/album/1aTv29hsfv6RFSTgdiNARV) | 3:14 |
 | 50 | [Ocean Demon](https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE) | 4:20 |
 | 51 | [look what you're doing to me](https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [look what you're doing to me](https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c) | 4:24 |
 | 52 | [I Wanna Tell Somebody](https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Josh Milan](https://open.spotify.com/artist/1Fg9rbSbeJTnwvfzHnkrPR) | [I Wanna Tell Somebody](https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme) | 5:58 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 67 | [Harmless](https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Harmless](https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q) | 2:25 |
 | 68 | [Cookie](https://open.spotify.com/track/0xdwUjqxpzEt7jZC0n0aN7) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Skeletons](https://open.spotify.com/album/4mJCH5WicAkf9wevEjVeuV) | 3:57 |
 | 69 | [Crazy Dream \- Edit](https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Crazy Dream \(Edit\)](https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR) | 2:58 |
-| 70 | [Rubicon](https://open.spotify.com/track/0C3G5zLNcZwwvbUk5gWLCf) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Rubicon](https://open.spotify.com/album/4tvUEkPUzDWY4rhLo7iKGW) | 3:33 |
-| 71 | [Paradise](https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Paradise](https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz) | 1:47 |
+| 70 | [Paradise](https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Paradise](https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz) | 1:47 |
+| 71 | [Rubicon](https://open.spotify.com/track/0C3G5zLNcZwwvbUk5gWLCf) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Rubicon](https://open.spotify.com/album/4tvUEkPUzDWY4rhLo7iKGW) | 3:33 |
 | 72 | [distance](https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [distance](https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI) | 2:22 |
 | 73 | [That's Life, Baby!](https://open.spotify.com/track/6eCL5F6TCHTwDZ2QnlZj3c) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [That's Life, Baby!](https://open.spotify.com/album/08Ideg6by3nkyndCpHeuhq) | 2:52 |
 | 74 | [When He Was Mine \(Pele Fo'i Mai\)](https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k) | [A.R.T](https://open.spotify.com/artist/6cJ05UAQ2Yab1UBcf5CrBU) | [When He Was Mine \(Pele Fo'i Mai\)](https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf) | 2:36 |

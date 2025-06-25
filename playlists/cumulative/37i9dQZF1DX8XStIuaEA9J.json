@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-25",
-  "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u306d\u3050\u305b\u3002",
+  "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u300e\u30e6\u30a4\u30ab\u300f",
   "name": "Teen Culture",
   "tracks": [
     {
@@ -298,6 +298,24 @@
       "duration_ms": 170500,
       "name": "99",
       "url": "https://open.spotify.com/track/7pUWe1cHuyvonD3FXVII5g"
+    },
+    {
+      "album": {
+        "name": "A Little Spoonful",
+        "url": "https://open.spotify.com/album/4dMqiQlBloTaozYCFazTIo"
+      },
+      "artists": [
+        {
+          "name": "CUTIE STREET",
+          "url": "https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194169,
+      "name": "A Little Spoonful",
+      "url": "https://open.spotify.com/track/0VX0DtQ2lwiXjQVhGElfDW"
     },
     {
       "album": {
@@ -934,7 +952,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 141885,
       "name": "Bad Desire (With or Without You)",
       "url": "https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM"
@@ -2574,7 +2592,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 176026,
       "name": "DOMINANCE",
       "url": "https://open.spotify.com/track/311pdfSxiVGKCzEff4wnNF"
@@ -2994,7 +3012,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 186896,
       "name": "Err",
       "url": "https://open.spotify.com/track/4UMR8jH9twpyE7rqMvvQRq"
@@ -3855,6 +3873,24 @@
     },
     {
       "album": {
+        "name": "golazo",
+        "url": "https://open.spotify.com/album/0Zr3eI2FCwpvwfUI96UPZx"
+      },
+      "artists": [
+        {
+          "name": "oops cool",
+          "url": "https://open.spotify.com/artist/5epXDj2q72gFFwYCejPVPE"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165679,
+      "name": "golazo",
+      "url": "https://open.spotify.com/track/75fAqyp6waHPob25OwjK1J"
+    },
+    {
+      "album": {
         "name": "Good bye-bye",
         "url": "https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq"
       },
@@ -4290,7 +4326,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 298875,
       "name": "HERE",
       "url": "https://open.spotify.com/track/60KQDUR0c1YQJ0KFphbQG4"
@@ -5173,6 +5209,24 @@
     },
     {
       "album": {
+        "name": "DIFFERENT",
+        "url": "https://open.spotify.com/album/0XBFnNqFyAKPJoo3ikzvBe"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200920,
+      "name": "Kawaii (Prod. Gen Hoshino)",
+      "url": "https://open.spotify.com/track/0M47xHUyYQvhSnso8GFHSA"
+    },
+    {
+      "album": {
         "name": "Ride the Vibe (Japanese Ver.) / Keep on Moving -Special Edition-",
         "url": "https://open.spotify.com/album/5tyosIYVnbP67FGL9o8Xx6"
       },
@@ -5998,7 +6052,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 203564,
       "name": "Make or Break",
       "url": "https://open.spotify.com/track/7vvZ1QHTdkoEXBiOBdxdIo"
@@ -7348,7 +7402,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 183559,
       "name": "ONE SPARK - Japanese ver.",
       "url": "https://open.spotify.com/track/1vY45c20uSTeGq7ZTfJtzT"
@@ -7734,6 +7788,42 @@
       "duration_ms": 157026,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/7rYU820yx8Al5oCbuwp1jP"
+    },
+    {
+      "album": {
+        "name": "THE ORIGIN",
+        "url": "https://open.spotify.com/album/5BTHGzCMlg05u2ZSZcRQbd"
+      },
+      "artists": [
+        {
+          "name": "INI",
+          "url": "https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180320,
+      "name": "Pineapple Juice",
+      "url": "https://open.spotify.com/track/5cVd0qp9h0yFcAB9UfGqtd"
+    },
+    {
+      "album": {
+        "name": "the outside wind",
+        "url": "https://open.spotify.com/album/39xIFAMfalUllex8wpOkqN"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180797,
+      "name": "pineapple!",
+      "url": "https://open.spotify.com/track/2ibwchU0fWFyPFxEx0GaoU"
     },
     {
       "album": {
@@ -10459,6 +10549,32 @@
     },
     {
       "album": {
+        "name": "UNDERCOVER (feat. Ayumu Imazu)",
+        "url": "https://open.spotify.com/album/7BILgDToMWjowQ6K9q0xz7"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "UNDERCOVER - feat. Ayumu Imazu",
+      "url": "https://open.spotify.com/track/1eeVTulIBfhvIJdjtz5zAf"
+    },
+    {
+      "album": {
         "name": "UNITY",
         "url": "https://open.spotify.com/album/6bnf6dgi1gDKHwg4YeCpbf"
       },
@@ -10728,7 +10844,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 166033,
       "name": "wan",
       "url": "https://open.spotify.com/track/4FEtAz0SIZOZc17FhtFWqA"
@@ -11538,6 +11654,24 @@
       "duration_ms": 220856,
       "name": "\u3042\u3084\u3075\u3084",
       "url": "https://open.spotify.com/track/1UvCeSlHieprSfrjlREJdS"
+    },
+    {
+      "album": {
+        "name": "\u3042\u308b\u672a\u6765\u3088\u308a\u611b\u3092\u8fbc\u3081\u3066",
+        "url": "https://open.spotify.com/album/0ajg9ECSPaFAULF5VWiu8A"
+      },
+      "artists": [
+        {
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247040,
+      "name": "\u3042\u308b\u672a\u6765\u3088\u308a\u611b\u3092\u8fbc\u3081\u3066",
+      "url": "https://open.spotify.com/track/60dKF6s6HZfSvFrEG3r3UG"
     },
     {
       "album": {
@@ -12352,7 +12486,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 218891,
       "name": "\u3071\u3089\u3044\u305d",
       "url": "https://open.spotify.com/track/428vfWii2yP680un6tby9J"
@@ -13318,7 +13452,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 234000,
       "name": "\u30af\u30ea\u30fc\u30e0\u3067\u4f1a\u3044\u306b\u3044\u3051\u307e\u3059\u304b",
       "url": "https://open.spotify.com/track/3I7nntPbM5cFnq08f9PCxM"
@@ -13896,6 +14030,32 @@
       "duration_ms": 174500,
       "name": "\u30c0\u30d6\u30eb\u30fb\u30d7\u30c3\u30b7\u30e5\u30fb\u30aa\u30d5\u3002",
       "url": "https://open.spotify.com/track/5TiirG23LRTNq0hRuML8iq"
+    },
+    {
+      "album": {
+        "name": "error clock",
+        "url": "https://open.spotify.com/album/3exQ15aFKWgw8D06jpKeq3"
+      },
+      "artists": [
+        {
+          "name": "Rin\u97f3",
+          "url": "https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4"
+        },
+        {
+          "name": "\u30af\u30dc\u30bf\u30ab\u30a4",
+          "url": "https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY"
+        },
+        {
+          "name": "Taro Ishida",
+          "url": "https://open.spotify.com/artist/1nvWvHHNSq13HJqwgsrnUZ"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174527,
+      "name": "\u30c0\u30e9\u30c0\u30e9\u3059\u308b",
+      "url": "https://open.spotify.com/track/5NAnViZ1KXZfsRsUsCLbGZ"
     },
     {
       "album": {
@@ -15049,6 +15209,28 @@
     },
     {
       "album": {
+        "name": "\u30de\u30a4\u30eb feat.Gotch",
+        "url": "https://open.spotify.com/album/5utHzbAEzHxGa2RMWoAPpu"
+      },
+      "artists": [
+        {
+          "name": "SATOH",
+          "url": "https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi"
+        },
+        {
+          "name": "Gotch",
+          "url": "https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195108,
+      "name": "\u30de\u30a4\u30eb feat.Gotch",
+      "url": "https://open.spotify.com/track/3cizKKoPTxCLDrzEFF1coJ"
+    },
+    {
+      "album": {
         "name": "\u5927\u4eba\u306b\u306a\u3093\u3066\u306a\u308a\u305f\u304f\u306a\u3044",
         "url": "https://open.spotify.com/album/3lJvtKUveqQgguZnxUAYrc"
       },
@@ -16064,7 +16246,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 259877,
       "name": "\u50d5\u306b\u306f\u3069\u3046\u3057\u3066\u308f\u304b\u308b\u3093\u3060\u308d\u3046",
       "url": "https://open.spotify.com/track/6l9uVfPEhdfE50mTPgnE0W"
@@ -16716,7 +16898,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 177266,
       "name": "\u58f0\u547d - Seimei",
       "url": "https://open.spotify.com/track/2dcQ1Z2RkZOcZ5XrHr1kF8"
@@ -18689,6 +18871,24 @@
     },
     {
       "album": {
+        "name": "\u771f\u590f\u30ce\u82b1\u706b",
+        "url": "https://open.spotify.com/album/4g5vl2704SOZUzCNbukJBD"
+      },
+      "artists": [
+        {
+          "name": "LIL LEAGUE from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198666,
+      "name": "\u771f\u590f\u30ce\u82b1\u706b",
+      "url": "https://open.spotify.com/track/03NNhJNLE4Z6Krnuw88zhu"
+    },
+    {
+      "album": {
         "name": "\u7768\u3081\u3063\u5a18",
         "url": "https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2"
       },
@@ -18722,6 +18922,24 @@
       "duration_ms": 242346,
       "name": "\u7802\u306e\u57ce",
       "url": "https://open.spotify.com/track/3GRFoiwlWZKMtdEm8TRpb7"
+    },
+    {
+      "album": {
+        "name": "\u785d\u5b50\u306e\u7dda",
+        "url": "https://open.spotify.com/album/0n4ltZwQnNA4rVtnInnJPq"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256428,
+      "name": "\u785d\u5b50\u306e\u7dda",
+      "url": "https://open.spotify.com/track/1h8hSEfuhRy9fw7uFfFsD0"
     },
     {
       "album": {
@@ -19076,7 +19294,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 218999,
       "name": "\u8108\u62cd",
       "url": "https://open.spotify.com/track/5g9iwSWKeJu6fgOrBrBuuG"
@@ -19276,6 +19494,24 @@
       "duration_ms": 275184,
       "name": "\u82b1\u7b4f",
       "url": "https://open.spotify.com/track/4TCcHVs43u6sS0ovS0Cq1q"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u8a00\u8449\u306f\u8abf\u3079\u306a\u3044\u3067",
+        "url": "https://open.spotify.com/album/6qVqbvdFCUJrpshwuOq2Pv"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239162,
+      "name": "\u82b1\u8a00\u8449\u306f\u8abf\u3079\u306a\u3044\u3067",
+      "url": "https://open.spotify.com/track/5VIfNgHFcJGmszvKMi2qFY"
     },
     {
       "album": {
@@ -19604,7 +19840,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 262660,
       "name": "\u8cb4\u65b9\u306b\u6674\u308c",
       "url": "https://open.spotify.com/track/0a9RMOhvRn08ntMP3ndQXu"
@@ -19842,6 +20078,24 @@
       "duration_ms": 139014,
       "name": "\u9650\u754c\u3067\u3059\uff01",
       "url": "https://open.spotify.com/track/79UeDmQhWhELwhyYC1rmmz"
+    },
+    {
+      "album": {
+        "name": "\u96e8\u306b\u6253\u305f\u308c\u3066",
+        "url": "https://open.spotify.com/album/7FnpL2blQQRVKEIiY8gC7c"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198833,
+      "name": "\u96e8\u306b\u6253\u305f\u308c\u3066",
+      "url": "https://open.spotify.com/track/55HMKYZOKMYc58naFdvCMc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Best of Hindi Hip\-Hop! Cover: Karma
 
-257 songs - 13 hr 7 min
+258 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [11K](https://open.spotify.com/track/4q7ls1XOMHmZCvTYAqNhxZ) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Lunch Break](https://open.spotify.com/album/16PSZwABl4VFJvfDFOPOoB) | 2:54 | 2023-08-28 |  |
 | [2 Woofer](https://open.spotify.com/track/2U6hsKVmvXbAGHouEQDLOp) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:30 | 2023-05-18 | 2024-04-19 |
 | [2 Woofer](https://open.spotify.com/track/6y9aJZQU0mywzO6Ev69Uls) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Hustle 2.0](https://open.spotify.com/album/1IwG4KxgETGFj087O5sF2C) | 2:30 | 2023-03-10 | 2025-01-07 |
+| [3 DRAGS](https://open.spotify.com/track/4tHJc5agHg9LVsijAwtooy) | [vichaar](https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5) | [3 DRAGS](https://open.spotify.com/album/22qni5DTd8Sx2W08kkSNV9) | 2:47 | 2025-06-24 |  |
 | [4.10](https://open.spotify.com/track/1AcoISAQZgYBflkE9JgOl4) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [4.10](https://open.spotify.com/album/0B4QhB4Acp4Ct9F8dkllWN) | 2:49 | 2025-01-06 |  |
 | [8\-FIGGAAH! \(feat\. GD47\)](https://open.spotify.com/track/2WNFPHqgE3iFcsnIOJ2IWw) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [DSP](https://open.spotify.com/album/1K7j7CMe82qIGH1OfxuGel) | 3:05 | 2024-09-17 | 2025-01-07 |
 | [Aamdani](https://open.spotify.com/track/7cUXdknIYp5WapBSweV4Xl) | [yungsta](https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Graveyard Shift](https://open.spotify.com/album/4JANSUDMyIlEcMuM1QeFAe) | 3:51 | 2023-11-17 | 2024-06-06 |
@@ -219,7 +220,7 @@
 | [Sort It Out](https://open.spotify.com/track/6kpfiF1LyrOaq7ADMYTMOl) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Vision](https://open.spotify.com/artist/0SqdljKM9fqIV6fuxQOlUI) | [How Much a Rhyme Costs?](https://open.spotify.com/album/6adVQtQUqBzdWx49n03C4G) | 3:01 | 2024-09-30 | 2025-01-22 |
 | [Speed 206](https://open.spotify.com/track/4YQyuUSoQr9K4uAzItZ3XF) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [UZIII](https://open.spotify.com/artist/3YBbI2OrHrUGsc8G1w2z1r) | [Midtown Madness](https://open.spotify.com/album/1HNeKGeOzyTWpLVxZJexRL) | 3:47 | 2024-02-08 |  |
 | [Speed Dial](https://open.spotify.com/track/1uTcgABqGIlkE3HzFM2TTq) | [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL), [Qaab](https://open.spotify.com/artist/3oyIUDxlFBUqyP05ck3Nx6) | [Speed Dial](https://open.spotify.com/album/2vAemOhIAe4odQzkKOLkdc) | 2:05 | 2024-01-19 | 2024-02-06 |
-| [Still Here](https://open.spotify.com/track/3z42ixTYDNj4Y4aUMvXKBY) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Katya Krishnan](https://open.spotify.com/artist/7lBm5iiDlqxI60UzJSdlLD) | [Priceless](https://open.spotify.com/album/4LIP8NVDDBNIdqPBqwXhT9) | 4:30 | 2025-05-30 |  |
+| [Still Here](https://open.spotify.com/track/3z42ixTYDNj4Y4aUMvXKBY) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Katya Krishnan](https://open.spotify.com/artist/7lBm5iiDlqxI60UzJSdlLD) | [Priceless](https://open.spotify.com/album/4LIP8NVDDBNIdqPBqwXhT9) | 4:30 | 2025-05-30 | 2025-06-25 |
 | [STILL THE SAME](https://open.spotify.com/track/7GcCYw4d5Z8akmEOBj4876) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [STILL THE SAME](https://open.spotify.com/album/3Plp851iYv9SGH6Fjp6xV9) | 2:45 | 2024-06-07 |  |
 | [Sukoon](https://open.spotify.com/track/7e9eUqJIIKwN95T7Xsx8Jn) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy) | [Bhram \(Deluxe\)](https://open.spotify.com/album/79E5VDPJEVHjfwVoQw6v9d) | 4:30 | 2023-03-10 | 2023-12-16 |
 | [SuppaMario](https://open.spotify.com/track/29qsHiYIUmkFU5cifL56o5) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [SuppaMario](https://open.spotify.com/album/23L6roAS9IqxMwbt7x1rCB) | 3:03 | 2025-01-06 | 2025-06-21 |

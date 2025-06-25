@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-509 songs - 1 day 6 hr 19 min
+510 songs - 1 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [DESCEND](https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [DESCEND](https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY) | 3:40 | 2024-01-08 |  |
 | [Different Ways To Love You](https://open.spotify.com/track/4tiKcqZbLytwislCp3LWlb) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Different Ways To Love You](https://open.spotify.com/album/0rdRzPVVCb63dG1qxcvY6O) | 3:51 | 2021-04-02 | 2022-07-29 |
 | [Disaster](https://open.spotify.com/track/4Wv74XDYqqCrfesSaJAbRQ) | [hanna ögonsten](https://open.spotify.com/artist/35TbZVCiGN4v3OasdUl0G4) | [Disaster](https://open.spotify.com/album/4GuKEy9YbEfydZdtVfGBoo) | 2:12 | 2025-06-13 |  |
+| [Disconnected](https://open.spotify.com/track/7xK5a6xjJkLLd8zRKskSMB) | [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs), [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R) | [Disconnected](https://open.spotify.com/album/6d5kJtZLuZ6AADFLX6nqFE) | 2:51 | 2025-06-20 |  |
 | [Does It Even](https://open.spotify.com/track/7FR2q7Ig8Avnc0XdYF17vD) | [Liv Dawson](https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7) | [Does It Even](https://open.spotify.com/album/5nzHJJutjwPOKVYZFVDDUv) | 3:15 | 2024-07-12 | 2024-07-27 |
 | [don't come back](https://open.spotify.com/track/3tPrgyExznmJs4wA51yXlJ) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [don't come back](https://open.spotify.com/album/11cbxbrYCNcdzRMAbbKZop) | 3:09 | 2024-07-26 |  |
 | [Don't Cry](https://open.spotify.com/track/5R4PIEDx3L2Gdif8QKAHa2) | [Anturage](https://open.spotify.com/artist/60hGAZqZ60I2EhUi0f4j2N), [Alexey Union](https://open.spotify.com/artist/4bzppvW4geKqxLC5VYJn2G), [CATMOONK](https://open.spotify.com/artist/5Z6f13MChiiZLW0o83g9Ac) | [Don't Cry](https://open.spotify.com/album/54a1mwLTQKWaoHm8T4qidq) | 2:36 | 2025-04-18 | 2025-05-31 |
@@ -180,7 +181,7 @@
 | [Hear Ur Heartbeat](https://open.spotify.com/track/7JJ2wXdOQgKdSXZBD56uut) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Hear Ur Heartbeat](https://open.spotify.com/album/4ghuYYQWRf1e3RcQ7PBg1p) | 3:22 | 2024-08-23 | 2024-11-09 |
 | [HEART ATTACK \(feat\. lau.ra\)](https://open.spotify.com/track/4F8wogXmIgCXEsi1FK0gH4) | [BRONSON](https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [BRONSON](https://open.spotify.com/album/7zUK6seRiiD2x2HhzOLdrg) | 3:29 | 2021-05-29 |  |
 | [Heartaches](https://open.spotify.com/track/5NTdCCpZPXkP1d3JMfQq8K) | [Lumia](https://open.spotify.com/artist/7nxfxSbNTXNc0v5TG4ObSh) | [Heartaches](https://open.spotify.com/album/3hGLUa9ihrzYqqm6N5KwPz) | 3:30 | 2025-05-30 |  |
-| [Heartbeat](https://open.spotify.com/track/1Ggur9pix8p9woEYx84ZYb) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Minke](https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw) | [Heartbeat](https://open.spotify.com/album/2G7zzLh2lfpvvGlGdomPx7) | 3:30 | 2025-01-17 |  |
+| [Heartbeat](https://open.spotify.com/track/1Ggur9pix8p9woEYx84ZYb) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Minke](https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw) | [Heartbeat](https://open.spotify.com/album/2G7zzLh2lfpvvGlGdomPx7) | 3:30 | 2025-01-17 | 2025-06-25 |
 | [Heartbreak](https://open.spotify.com/track/0Gbpzzf8oLuFNSLYAvov3I) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Heartbreak](https://open.spotify.com/album/37B1K70ov6LUqjIvuWsonh) | 2:24 | 2024-05-03 | 2025-03-04 |
 | [Heartbreak](https://open.spotify.com/track/269hT1ugct4fdJ2dmB20SJ) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Heartbreak](https://open.spotify.com/album/4AwEMmqkq5iLXpjHlXF6GR) | 3:56 | 2024-05-10 | 2024-06-18 |
 | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) | 3:03 | 2021-05-28 | 2022-04-13 |

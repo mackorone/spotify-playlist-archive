@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! \(Cover: ONEWE\(원위\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,476 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,453 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 57 | [PINK CHRISTMAS](https://open.spotify.com/track/4BU2J7VTrm2TvzaYUX7GXb) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [PINK CHRISTMAS](https://open.spotify.com/album/2dKFIjEOW7xpBbr7DUtn6Z) | 3:14 |
 | 58 | [Let Me Know \- Bonus Track](https://open.spotify.com/track/5iEFTzTm71gxXJnbNfHCAt) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Another Sad Love Song](https://open.spotify.com/album/0gOhggWveoOEbmB0YjaZrE) | 3:04 |
 | 59 | [FOCUS](https://open.spotify.com/track/0Nh6t7DEzAARTHHufhPc1Q) | [DAHEE](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [FOCUS](https://open.spotify.com/album/2HYomfaNdOTYlOftTbE7Af) | 2:26 |
-| 60 | [Winter Bloom](https://open.spotify.com/track/7jfa0NpiHLaaKpec5cxO30) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [Winter Bloom](https://open.spotify.com/album/4fE3UDxP596kDYgqlUukiy) | 2:59 |
-| 61 | [Christmas Dance](https://open.spotify.com/track/5Fr2nTvU0OdhMUohTNXlA4) | [ROCKY](https://open.spotify.com/artist/3bQABAi10Xqg1WsMAhYdBZ) | [Christmas Dance](https://open.spotify.com/album/4D7wSlC3TgPptQwEb9t5XP) | 4:04 |
+| 60 | [Christmas Dance](https://open.spotify.com/track/5Fr2nTvU0OdhMUohTNXlA4) | [ROCKY](https://open.spotify.com/artist/3bQABAi10Xqg1WsMAhYdBZ) | [Christmas Dance](https://open.spotify.com/album/4D7wSlC3TgPptQwEb9t5XP) | 4:04 |
+| 61 | [Winter Bloom](https://open.spotify.com/track/7jfa0NpiHLaaKpec5cxO30) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [Winter Bloom](https://open.spotify.com/album/4fE3UDxP596kDYgqlUukiy) | 2:59 |
 | 62 | [Love Again](https://open.spotify.com/track/04Du5TkwT3to8Tjp1cDrO1) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Love Again](https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO) | 2:59 |
 | 63 | [Y earned \(Feat\. Gaeko, SOLE\) \(Prod\. Primary, plusNONE\)](https://open.spotify.com/track/5HbN3PIXPQiHRb3MKuqGO5) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [xs](https://open.spotify.com/artist/3ivxGWDvNZC4KSTaUgNXr8), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [dsel](https://open.spotify.com/artist/57yCT0l4y1QPz1bzF2mQXx), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Show Me The Money 9 Final](https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq) | 3:06 |
 | 64 | [The Carol 2.0 \(ViVi, Choerry, Yves\)](https://open.spotify.com/track/5gkbQEgYlXajuf8CcYpojE) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [The Carol 2.0 \(ViVi, Choerry, Yves\)](https://open.spotify.com/album/4a8IIN37HSD7SuDWuyNSs9) | 3:26 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 73 | [I Still Believe in Santa](https://open.spotify.com/track/3QzRFgACehCoVpE4jRkQCE) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Letters to Santa](https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0) | 2:39 |
 | 74 | [Santa,I have a Wish…](https://open.spotify.com/track/2ZAF7QSsI5xTMo8kAH79BU) | [Jueun](https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U) | [Santa,I have a Wish…](https://open.spotify.com/album/7u38QbYaTHAnXXFVqdEKTl) | 3:34 |
 | 75 | [Save Our Christmas](https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Love Again](https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO) | 4:29 |
-| 76 | [Hot December](https://open.spotify.com/track/1cUtKpkuZFgrjIYNrs98u9) | [HYOJUNG](https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk) | [Hot December](https://open.spotify.com/album/66n3HeqKGthEETsuBIK6dO) | 3:21 |
-| 77 | [5 Christmas Languages](https://open.spotify.com/track/5wy21ZeTCwveMpA5cktc7S) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [5 Christmas Languages](https://open.spotify.com/album/2iI6CpAodkzQyYxFbxHApH) | 3:24 |
-| 78 | [First Snow](https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [First Snow](https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb) | 3:07 |
+| 76 | [5 Christmas Languages](https://open.spotify.com/track/5wy21ZeTCwveMpA5cktc7S) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [5 Christmas Languages](https://open.spotify.com/album/2iI6CpAodkzQyYxFbxHApH) | 3:24 |
+| 77 | [First Snow](https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [First Snow](https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb) | 3:07 |
+| 78 | [Hot December](https://open.spotify.com/track/1cUtKpkuZFgrjIYNrs98u9) | [HYOJUNG](https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk) | [Hot December](https://open.spotify.com/album/66n3HeqKGthEETsuBIK6dO) | 3:21 |
 | 79 | [예쁨 가득한 Eve \(prod\. Minit\)](https://open.spotify.com/track/0PxRwVf71nxGKSTSWHjp9H) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [예쁨 가득한 Eve](https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo) | 2:50 |
 | 80 | [The Christmas Number 12](https://open.spotify.com/track/1VgEdXPGiCizL6DfIUDGok) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [The Christmas Number 12](https://open.spotify.com/album/5jVCZws60QZ11TP2nWjxOZ) | 2:39 |
 | 81 | [Christmas Rose \(feat\. LEEBADA\)](https://open.spotify.com/track/4afAaodCYQK0rAW3tTvl8s) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS), [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Christmas Rose](https://open.spotify.com/album/2vWcgcfBxlPZIU9rYqob9o) | 3:43 |

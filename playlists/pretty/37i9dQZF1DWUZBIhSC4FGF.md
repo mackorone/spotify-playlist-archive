@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 
 > Relax to some gentle percussion from all corners of the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,544 likes - 109 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,737 likes - 109 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 | 22 | [Samagaun](https://open.spotify.com/track/5k1lmsZdV7nQDqRgedivXx) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Samagaun](https://open.spotify.com/album/1XJhLEsXd5Zo5Mny0DWUI9) | 3:23 |
 | 23 | [Madehvah](https://open.spotify.com/track/5SulQBco8pEkIXrN3owQLm) | [Amberware](https://open.spotify.com/artist/3PpMuouibfHDiqfOFfefxf) | [Madehvah](https://open.spotify.com/album/3Fgq3xyDICuFmRqxyJkWok) | 3:11 |
 | 24 | [Damgham Serenity](https://open.spotify.com/track/0VWsScnCcsKWiR8zGb7Yq4) | [Above Neon](https://open.spotify.com/artist/5c1cJaN0HDFVtzxD5yY85E) | [Damgham Serenity](https://open.spotify.com/album/4faHfi54IhiBMf6KrFPWHK) | 2:26 |
-| 25 | [Rhythm of You](https://open.spotify.com/track/1BXUdFKa5z9PAovnLyraRf) | [Endless Space](https://open.spotify.com/artist/7HHVt02XZTOf0FQ6YhZtG5) | [Rhythm of You](https://open.spotify.com/album/55uWsOLhWyHvzhvnTShAzL) | 2:26 |
+| 25 | [Rhythm of You](https://open.spotify.com/track/1BXUdFKa5z9PAovnLyraRf) | [Endless Space](https://open.spotify.com/artist/4SnAG3DMYmxqUwelTO2Y5A) | [Rhythm of You](https://open.spotify.com/album/55uWsOLhWyHvzhvnTShAzL) | 2:26 |
 | 26 | [Healing Spring](https://open.spotify.com/track/0s5ncDMzVtHCXuNVKmcIfE) | [The Sky](https://open.spotify.com/artist/0vOYkwa573vQ2BHbYGri2m) | [Healing Spring](https://open.spotify.com/album/0nlZwVzBLvjAf368c5AeHy) | 1:42 |
 | 27 | [Powerfull Ra](https://open.spotify.com/track/0Ddy6MDY9iivXKPCX4EvDV) | [Serenity Music Zone](https://open.spotify.com/artist/5vvexjQ7ylXNyh3wLp5FvA) | [World of African Drumming \(Ancient Egypt Atmosphere, New Age Sound of the Far Orient, Tribal African Drums, Relaxation Music Oasis\)](https://open.spotify.com/album/445O0l2wZuOGXomPVmUOPg) | 4:42 |
 | 28 | [Meditative Melodies \- Percussive Version](https://open.spotify.com/track/1IxeEVRJjYO7ZqG5Fs4lSY) | [Spiritual Frequencies](https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5) | [Peaceful Dreams \(Percussive Version\)](https://open.spotify.com/album/7DDDPNBpk48Ox8OFmSy9nk) | 2:39 |

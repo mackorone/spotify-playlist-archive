@@ -1,6 +1,6 @@
 {
   "description": "in the mood for love.",
-  "num_followers": 2609398,
+  "num_followers": 2609005,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
@@ -277,22 +277,6 @@
       "url": "https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M"
     },
     {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 346266,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
-    },
-    {
       "added_at": "2021-03-05 00:03:16",
       "album": {
         "name": "Lose Control",
@@ -311,6 +295,22 @@
     {
       "added_at": "2023-02-02 23:04:07",
       "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 346266,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
         "name": "In Full Bloom",
         "url": "https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk"
       },
@@ -323,6 +323,22 @@
       "duration_ms": 291760,
       "name": "Wishing on a Star",
       "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 300106,
+      "name": "The Lady in My Life",
+      "url": "https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy"
     },
     {
       "added_at": "2023-02-02 23:22:15",
@@ -343,22 +359,6 @@
       "duration_ms": 276013,
       "name": "Spend My Life With You",
       "url": "https://open.spotify.com/track/58s4iqgXFzXhBndBkg2AaD"
-    },
-    {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 300106,
-      "name": "The Lady in My Life",
-      "url": "https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy"
     },
     {
       "added_at": "2025-01-23 21:05:21",
@@ -573,22 +573,6 @@
       "url": "https://open.spotify.com/track/6PViGgcsQhLPSkMxgoRWLl"
     },
     {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "One Wish",
-        "url": "https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD"
-      },
-      "artists": [
-        {
-          "name": "Deborah Cox",
-          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
-        }
-      ],
-      "duration_ms": 262333,
-      "name": "Nobody's Supposed to Be Here",
-      "url": "https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL"
-    },
-    {
       "added_at": "2023-02-02 23:04:07",
       "album": {
         "name": "Voodoo",
@@ -603,6 +587,22 @@
       "duration_ms": 356493,
       "name": "Send It On",
       "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "One Wish",
+        "url": "https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD"
+      },
+      "artists": [
+        {
+          "name": "Deborah Cox",
+          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
+        }
+      ],
+      "duration_ms": 262333,
+      "name": "Nobody's Supposed to Be Here",
+      "url": "https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL"
     },
     {
       "added_at": "2021-03-05 00:03:16",

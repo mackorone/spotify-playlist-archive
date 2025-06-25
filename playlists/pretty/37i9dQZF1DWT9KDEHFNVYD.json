@@ -1,6 +1,6 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 15140,
+  "num_followers": 15142,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Butterfly 3000",
-        "url": "https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 315133,
-      "name": "Interior People",
-      "url": "https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Siamese Dream (2011 - Remaster)",
         "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 298253,
       "name": "Cherub Rock - 2011 Remaster",
       "url": "https://open.spotify.com/track/0F2LiyHp9E0pAanpfnzHNp"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Butterfly 3000",
+        "url": "https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 315133,
+      "name": "Interior People",
+      "url": "https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Can't Get There EP",
-        "url": "https://open.spotify.com/album/7lVtPOrm8y8D9ELXOIVxPm"
-      },
-      "artists": [
-        {
-          "name": "Minami Deutsch",
-          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
-        }
-      ],
-      "duration_ms": 437250,
-      "name": "Can't Get There",
-      "url": "https://open.spotify.com/track/1AtSdzyt3vsGUVSk5wb44Z"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "I Am Not Afraid Of You And I Will Beat Your Ass",
         "url": "https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 646960,
       "name": "Pass The Hatchet, I Think I'm Goodkind",
       "url": "https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Can't Get There EP",
+        "url": "https://open.spotify.com/album/7lVtPOrm8y8D9ELXOIVxPm"
+      },
+      "artists": [
+        {
+          "name": "Minami Deutsch",
+          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
+        }
+      ],
+      "duration_ms": 437250,
+      "name": "Can't Get There",
+      "url": "https://open.spotify.com/track/1AtSdzyt3vsGUVSk5wb44Z"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Find The Sun",
-        "url": "https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI"
-      },
-      "artists": [
-        {
-          "name": "Deradoorian",
-          "url": "https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP"
-        }
-      ],
-      "duration_ms": 426342,
-      "name": "Saturnine Night",
-      "url": "https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Faust IV",
         "url": "https://open.spotify.com/album/6ou63QavbhaQvDTQ3BCkPv"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 707560,
       "name": "Krautrock",
       "url": "https://open.spotify.com/track/7h9hsEOJbNH2Y46ZR5NFfQ"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Find The Sun",
+        "url": "https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI"
+      },
+      "artists": [
+        {
+          "name": "Deradoorian",
+          "url": "https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP"
+        }
+      ],
+      "duration_ms": 426342,
+      "name": "Saturnine Night",
+      "url": "https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3"
     },
     {
       "added_at": "2023-01-12 03:40:17",

@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 9829,
+  "num_followers": 9851,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFdHgAAAAAC0yRCffo+nwFVInr3CO792",
+  "snapshot_id": "aFiZAAAAAADa79Z1hdIs536YPKgDrUE4",
   "tracks": [
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 43546,
-      "name": "Until You Saw Me - Interlude",
-      "url": "https://open.spotify.com/track/6yX11XqvshWi3Z2E8V24FO"
+      "duration_ms": 68101,
+      "name": "I Want You - Interlude",
+      "url": "https://open.spotify.com/track/6Hur7QmuHJsPG59BNRw1pn"
     },
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Color Purple (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 237387,
       "name": "What About Love?",
       "url": "https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beyond The Lights (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Fly Before You Fall",
-      "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 167693,
       "name": "Hold On I'm Coming",
       "url": "https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beyond The Lights (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Fly Before You Fall",
+      "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "She is Risen: Volume One",
-        "url": "https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 259900,
-      "name": "I Don't Know How to Love Him",
-      "url": "https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "STEP (Music From and Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/0Mq5k6flqV4doXtSQvNpuG"
       },
@@ -815,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspirational",
-        "url": "https://open.spotify.com/album/4l3nsPf67pl9mqggEpmVVZ"
+        "name": "She is Risen: Volume One",
+        "url": "https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE"
       },
       "artists": [
-        {
-          "name": "Alison Jiear",
-          "url": "https://open.spotify.com/artist/7JpWm6GJgOca4w9WejYES8"
-        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 360527,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/3oYfGUdhyhlHRrb29EVdrA"
+      "duration_ms": 259900,
+      "name": "I Don't Know How to Love Him",
+      "url": "https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF"
     },
     {
       "added_at": null,
@@ -851,6 +831,26 @@
       "duration_ms": 296655,
       "name": "At All",
       "url": "https://open.spotify.com/track/4mm1OFHCY0XzldGu19L0w3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inspirational",
+        "url": "https://open.spotify.com/album/4l3nsPf67pl9mqggEpmVVZ"
+      },
+      "artists": [
+        {
+          "name": "Alison Jiear",
+          "url": "https://open.spotify.com/artist/7JpWm6GJgOca4w9WejYES8"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 360527,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/3oYfGUdhyhlHRrb29EVdrA"
     }
   ],
   "unique_name": "This Is Cynthia Erivo",

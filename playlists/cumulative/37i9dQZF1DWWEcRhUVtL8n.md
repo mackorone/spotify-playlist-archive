@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Olivia Dean
 
-2,140 songs - 4 day 17 hr 14 min
+2,141 songs - 4 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1381,7 +1381,7 @@
 | [Ocean](https://open.spotify.com/track/1MV2ab1Q81XpS8yCZYYFGN) | [Young Lungs](https://open.spotify.com/artist/2trvlbfMS5zVozEmrFNDTJ) | [Ocean](https://open.spotify.com/album/5Eoz7NXXYEf4KnNWzkOKjO) | 2:30 | 2020-11-13 | 2021-02-28 |
 | [ocean view](https://open.spotify.com/track/7ossJoAkwNcV8pFzIyBb9j) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [ocean view](https://open.spotify.com/album/7xFL9NJq1twMOpD7XmIYQn) | 2:54 | 2021-06-03 | 2021-09-02 |
 | [Oceansize](https://open.spotify.com/track/3F3F2UtIm9wDUq6uPt42Jx) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/1bb0l92MxpV8hzI1xSomcS) | 3:43 | 2020-10-20 | 2021-06-03 |
-| [Odin St](https://open.spotify.com/track/6urr1jW4IyD8NTXWgijaCg) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [Odin St](https://open.spotify.com/album/4Gt7D6btN5S8sBltKTR3n1) | 3:08 | 2025-06-20 |  |
+| [Odin St](https://open.spotify.com/track/6urr1jW4IyD8NTXWgijaCg) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [Odin St](https://open.spotify.com/album/4Gt7D6btN5S8sBltKTR3n1) | 3:08 | 2025-06-20 | 2025-06-25 |
 | [Off My Mind](https://open.spotify.com/track/6Rn74LzUZrzsNSB46uF8ML) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Off My Mind](https://open.spotify.com/album/6QlxMd4KIm1o27F3IyXW5F) | 3:09 | 2020-10-16 | 2021-02-28 |
 | [Off My Mind](https://open.spotify.com/track/3X91uoqAVtHmqv1bvZbNog) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Off My Mind](https://open.spotify.com/album/0AA6bmA8doXjHKUKM1cv8k) | 3:33 | 2021-06-02 | 2022-07-29 |
 | [Off My Mind](https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Emily Can't Sing](https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ) | 3:33 | 2022-06-17 | 2022-08-27 |
@@ -2039,6 +2039,7 @@
 | [We Can Be Anything](https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [We Can Be Anything](https://open.spotify.com/album/0jTdh2q5QfILFuokmCNyHn) | 3:21 | 2023-07-21 | 2024-03-30 |
 | [we don't move](https://open.spotify.com/track/4waAiItUduog4VPo0BAQEx) | [BADMIND](https://open.spotify.com/artist/4qTKTDRcMPtnohoWWR1oX9) | [we don't move](https://open.spotify.com/album/0XDaAj0BLRxre1JAmIu1Vn) | 2:40 | 2024-01-20 | 2024-02-28 |
 | [we made it.](https://open.spotify.com/track/0KpAm8TtyHPZmxdPO7npYO) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Blossom Hill](https://open.spotify.com/album/7AQdWze3UwjOCjbNowRpx7) | 2:44 | 2021-08-06 | 2022-04-09 |
+| [we never dated](https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [we never dated](https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez) | 3:16 | 2025-06-24 |  |
 | [we would have some cute kids.](https://open.spotify.com/track/0bfHoIK4Da3xOiiBdC2iTQ) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [we would have some cute kids.](https://open.spotify.com/album/6wOBjR4uM7vbFXLEn3TZ5r) | 2:34 | 2021-03-20 | 2021-05-28 |
 | [we're all eating each other](https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [playpen](https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD) | 2:31 | 2023-12-08 | 2024-10-26 |
 | [Weekend Boy](https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll) | 2:51 | 2024-10-04 | 2025-02-01 |

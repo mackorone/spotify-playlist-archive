@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-415 songs - 19 hr 13 min
+420 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Banished](https://open.spotify.com/track/311GcJHZOdJVGDl1r9LOaO) | [Geppilef](https://open.spotify.com/artist/3YGNGXTZlAgFX71OG2UyZp) | [Banished](https://open.spotify.com/album/1FNudNBnGVzvgcpIS8Fqli) | 2:36 | 2024-02-13 |  |
 | [Barcelona Moon](https://open.spotify.com/track/7Ls3aMAwJgEsNrtqiR57KK) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [Barcelona Moon](https://open.spotify.com/album/4igBsTf38ARCOZ4nW6HFCz) | 2:21 | 2024-12-06 |  |
 | [Basquè](https://open.spotify.com/track/6zhvPJuZKVjzv4fQelqvo0) | [Gold Birds](https://open.spotify.com/artist/5MisRKjFSK7o3bab0rojcs) | [Afterglow](https://open.spotify.com/album/0Q4O3GicWbNcxOQakY5Glc) | 3:43 | 2021-07-09 | 2024-12-07 |
+| [Battered](https://open.spotify.com/track/0bVNJhgKoLhA1vLof0fQWE) | [Dada Schism](https://open.spotify.com/artist/5Rw9ji4Ou4OecPAdmUbxoP) | [Battered](https://open.spotify.com/album/2g1seRFU1gzkxnb8iqD1ir) | 2:31 | 2025-06-24 |  |
 | [Be Kind To Yourself](https://open.spotify.com/track/0OF4LmsOwbrPsWHiC0vPh8) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Be Kind To Yourself](https://open.spotify.com/album/0mr0AFvjTiJCml6k5KWQwI) | 2:34 | 2024-11-07 |  |
 | [Big Bounce](https://open.spotify.com/track/46J9LlrB4irAkEMPfEKPeY) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Move Ya Body](https://open.spotify.com/album/61L9RCKpU8NJkrqidv3Fj9) | 2:46 | 2021-06-04 | 2025-02-21 |
 | [Blackstar](https://open.spotify.com/track/6djXsgxuBxkhZ304F6f9m6) | [Zoot Lix](https://open.spotify.com/artist/1hLSwZoc1fc7nbd87G36La) | [Blackstar](https://open.spotify.com/album/77nkWEQ9KlbYGdsAx0TGng) | 3:17 | 2021-07-09 | 2022-05-14 |
@@ -71,6 +72,7 @@
 | [Close to Home](https://open.spotify.com/track/5wRhPAbEDFGsFeViuHyoe2) | [Closest Cloud](https://open.spotify.com/artist/2QfBfWsylKXit3b3yugeMP) | [Close to Home](https://open.spotify.com/album/2BSvae8TyCyEwbKlx2eI8t) | 2:37 | 2025-01-08 |  |
 | [clouds](https://open.spotify.com/track/7HW3irYBGOzjXBlLDPuhS2) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [clouds](https://open.spotify.com/album/1hIPzokzzAqTO7uao4S3CH) | 2:34 | 2022-07-08 | 2024-08-31 |
 | [Cognac Carousel](https://open.spotify.com/track/1kMW4G825Ch7Ba6kps51Wp) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [A Year Down](https://open.spotify.com/album/2XkYfq0Sq0kOrGUCuMZS0g) | 1:59 | 2021-04-26\* | 2021-06-18 |
+| [cold hands](https://open.spotify.com/track/6ocoQ7GfNXWpPVTHqdOKZC) | [halfsoul](https://open.spotify.com/artist/4lbFdz2lQ1V2gAlmCvVuy0) | [cold hands](https://open.spotify.com/album/44ThNHZRLkZ8ZrRTpmqGqm) | 1:36 | 2025-06-24 |  |
 | [Come Over](https://open.spotify.com/track/02SZNC6HRyEuFSWwvDHvGr) | [Tatchy](https://open.spotify.com/artist/4kqLVasdVgw0NXBpR8yhug), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Come Over](https://open.spotify.com/album/64RIVMQaMTlWzDpAymXzFa) | 4:00 | 2022-04-22 | 2024-12-07 |
 | [Come Over](https://open.spotify.com/track/5iWOwHfOFBUdbi04ti6F0v) | [Tatchy](https://open.spotify.com/artist/4kqLVasdVgw0NXBpR8yhug), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Come Over](https://open.spotify.com/album/2cIwbiXuRztOGlfPMnX1um) | 4:00 | 2023-07-19 | 2024-04-19 |
 | [comfort](https://open.spotify.com/track/4E7cWFhbicXsOLpPTVyrvc) | [Goudo J](https://open.spotify.com/artist/59xol4VJ5T58RiIgiMFKR8) | [comfort](https://open.spotify.com/album/3pR0S6P46htwQIpRtbvkaT) | 2:58 | 2022-05-13 | 2025-02-21 |
@@ -98,6 +100,7 @@
 | [Don't Speak His Name](https://open.spotify.com/track/046RxrrENoOmaP3fHy15Dq) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [Last Breath](https://open.spotify.com/album/7kgTiCRbJ9WHwvctE8yHZi) | 3:22 | 2022-12-09 |  |
 | [Don't Stop](https://open.spotify.com/track/3XOaq2ojqcJtHdl2MPDx1D) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Don't Stop](https://open.spotify.com/album/2JwHsX9I0fc6geK9WJWTyg) | 3:01 | 2025-03-21 |  |
 | [Donnie DarKo](https://open.spotify.com/track/2KGATOvaBe8tw2hvB2Suc1) | [Sarach](https://open.spotify.com/artist/50NbkaTw0JbpYCMyHvAfIM), [baru](https://open.spotify.com/artist/1F8qMVXNHlvxGFkHLdWvvL) | [Donnie DarKo](https://open.spotify.com/album/44NTVo4xYykD6ni27p3yoG) | 2:14 | 2021-04-26\* | 2022-05-14 |
+| [Doorways](https://open.spotify.com/track/1XY8MZaDrG873CbAlwrQSd) | [lucen](https://open.spotify.com/artist/6UlxeucXP4ODooKUwGZUNj) | [Doorways](https://open.spotify.com/album/2VdwWQREipL22ZfWYhCX7m) | 1:49 | 2025-06-24 |  |
 | [Double Agent](https://open.spotify.com/track/5BcrWV0sc7dN0bQwIAx8SB) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Double Agent](https://open.spotify.com/album/5qS6evH7F4mdTccmQ3yjB6) | 2:24 | 2021-08-26 |  |
 | [Downheart](https://open.spotify.com/track/0Lp1LrUBqlSYTBf5s6jfTc) | [Michael Tylor](https://open.spotify.com/artist/3U4Nn3hdz5eDPdDQUPW0MM) | [Downheart](https://open.spotify.com/album/3qK5sZYstzW4yt29Tw7Ocl) | 2:09 | 2022-09-02 |  |
 | [Dreams](https://open.spotify.com/track/5e2yEkftydth7yHMAtnIEY) | [XXTRACKK](https://open.spotify.com/artist/4QZOgZMxM78wbHDBZqL3Kn) | [Dreams](https://open.spotify.com/album/60PDH7dPB8olXH5IC5gcEj) | 1:58 | 2021-05-07 | 2022-06-17 |
@@ -161,6 +164,7 @@
 | [Heirloom](https://open.spotify.com/track/0mAIE7c7GNYhMffrKAX8cq) | [Demon Hyde](https://open.spotify.com/artist/1uNOwLCW6VYqcymgPCLZE6) | [Heirloom](https://open.spotify.com/album/0iZ9k0l0Rbjuz9GUaFtHrE) | 1:56 | 2024-04-09 |  |
 | [Helicopter Highs](https://open.spotify.com/track/6n50fVKjQ4bqdHscI2zfxM) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [Love Me Never](https://open.spotify.com/album/2RF0UxaOTtYlyaWEXi981U) | 2:33 | 2023-07-19 |  |
 | [Hideaway](https://open.spotify.com/track/1BtSADpQfAKO6EIvJCP2dU) | [CL5K](https://open.spotify.com/artist/2LLzw9sAUyp56Yknm8mTwp) | [Hideaway](https://open.spotify.com/album/3a0bcSBh38m3om1SMHTlC7) | 2:08 | 2023-07-19 |  |
+| [Higher](https://open.spotify.com/track/5lZpFTfyJ7b8aECmlteVSu) | [Lynn Valley Forest Club](https://open.spotify.com/artist/7H45BHV17knhQ0wkIWf42V) | [Higher](https://open.spotify.com/album/5VfblQ3vCBMmZDcv4kiWmI) | 2:33 | 2025-06-24 |  |
 | [Highway Robbery](https://open.spotify.com/track/0RaZZbRV6NxoAqHCmX4sr7) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Highway Robbery](https://open.spotify.com/album/6Vf6C3rTyuIYE8BGKbaKKz) | 2:12 | 2021-04-28 | 2021-08-26 |
 | [hitman](https://open.spotify.com/track/07mtxPnVwfhAjkDyQE1E6s) | [JayDottCee](https://open.spotify.com/artist/3bQMC69yJgrnGSHe9Iq8Hj) | [hitman](https://open.spotify.com/album/5PUyutVWtUf2e8kTHMkKRR) | 1:22 | 2022-04-22 | 2024-02-14 |
 | [Hometown](https://open.spotify.com/track/7nX4292m7E2yXft3H1aDp5) | [Manonesque](https://open.spotify.com/artist/1QJoPaMpPM8VAYEFzKJSLG) | [Hometown](https://open.spotify.com/album/5YDHV478MEMicxIVbePEdy) | 2:05 | 2021-04-26\* | 2021-06-18 |
@@ -173,6 +177,7 @@
 | [I Can't Quit](https://open.spotify.com/track/7i1hH7B5B00wSvydWeahTN) | [Anno Domini Beats](https://open.spotify.com/artist/7zyB5bod57okoaZHfLw3BP), [Beats By Dillin](https://open.spotify.com/artist/2uUiUwzgBC8V5OAbNskTrG) | [Beats By Dillin, Vol\. 5](https://open.spotify.com/album/6Pd00u7UkMBkjFzXN5gu3C) | 3:33 | 2022-04-22 | 2022-07-22 |
 | [I Really Like The You That You Are](https://open.spotify.com/track/5xcnrvC1E5OlZBkbFnE6K5) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [I Really Like The You That You Are](https://open.spotify.com/album/4zhbtsbmuZkngz80SLqQ1r) | 3:10 | 2025-04-25 |  |
 | [I See it Coming](https://open.spotify.com/track/48Xm5taNqpo0JoeWToC3RR) | [Moni Section](https://open.spotify.com/artist/7JRvm5GQzBVLrq7nqFgUpS) | [I See it Coming](https://open.spotify.com/album/6sNaXLan0jNEamLBKjmr0N) | 1:40 | 2021-04-26\* | 2022-05-14 |
+| [I See U](https://open.spotify.com/track/0wtGCM30kTC9pWdTAbTTD9) | [DJ Seduce](https://open.spotify.com/artist/4PXEOCYJCEFoJAqiKkJFX0) | [Love Story](https://open.spotify.com/album/1OXFM7LtD6tA5kIhAyr6ra) | 3:50 | 2025-06-24 |  |
 | [I'm Here](https://open.spotify.com/track/1aHAXehB7uQ044J4QVOXkb) | [Fadez N Riser](https://open.spotify.com/artist/11RjmGA0jW6k35CqEGjl8n) | [I'm Here](https://open.spotify.com/album/3WdjV92wxOwTjwmALXKdj0) | 3:42 | 2022-09-30 |  |
 | [I've Fallen Down](https://open.spotify.com/track/5AFwBhBRuRyNvaFNiF7j9x) | [Dada Schism](https://open.spotify.com/artist/5Rw9ji4Ou4OecPAdmUbxoP) | [I've Fallen Down](https://open.spotify.com/album/09gen7ATLlIBEesipZzgUt) | 2:32 | 2025-02-07 |  |
 | [Iacta](https://open.spotify.com/track/13Ko7UiTNt5B8NfXcRLcVQ) | [palence](https://open.spotify.com/artist/2hP9ky7jNcqy6F3nYKSGt8) | [Telophase](https://open.spotify.com/album/0cIOvhDeIbCLAVOLZaToIY) | 2:45 | 2021-08-26 |  |

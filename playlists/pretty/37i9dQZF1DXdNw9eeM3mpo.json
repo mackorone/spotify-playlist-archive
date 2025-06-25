@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Camiseta 22 y Los Miserables en portada.",
-  "num_followers": 480878,
+  "num_followers": 480915,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
+        "name": "Sonora Skandalera",
+        "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
+      },
+      "artists": [
+        {
+          "name": "Sonora Skandalera",
+          "url": "https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac"
+        }
+      ],
+      "duration_ms": 254589,
+      "name": "Algo De Suerte",
+      "url": "https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
         "name": "Sentimental",
         "url": "https://open.spotify.com/album/4o6q7jqE6r4r6AQOsXcFov"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 158000,
       "name": "Sentimental",
       "url": "https://open.spotify.com/track/6UGW4PkoGy1nW4rzrzlwbp"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
-        "name": "Sonora Skandalera",
-        "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
-      },
-      "artists": [
-        {
-          "name": "Sonora Skandalera",
-          "url": "https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac"
-        }
-      ],
-      "duration_ms": 254589,
-      "name": "Algo De Suerte",
-      "url": "https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
-        "name": "Tengo Miedo",
-        "url": "https://open.spotify.com/album/4ygDNvIHzZH7Ga0iuAJqa9"
-      },
-      "artists": [
-        {
-          "name": "Timo Pacheco",
-          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Tengo Miedo",
-      "url": "https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0CMRrNDtBSZJ2VPhG3G1XF"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 260250,
       "name": "Im gonna come back to Brixton",
       "url": "https://open.spotify.com/track/2iUnqMPrjZCvrvp2jYS1Wg"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
+        "name": "Tengo Miedo",
+        "url": "https://open.spotify.com/album/4ygDNvIHzZH7Ga0iuAJqa9"
+      },
+      "artists": [
+        {
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
-        "name": "As\u00ed No Se Puede Querer",
-        "url": "https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw"
-      },
-      "artists": [
-        {
-          "name": "Los Inconformes",
-          "url": "https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy"
-        }
-      ],
-      "duration_ms": 216859,
-      "name": "As\u00ed No Se Puede Querer",
-      "url": "https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
         "name": "El T\u00fanel Del Amor",
         "url": "https://open.spotify.com/album/5uAPjTGzfaJhsSAs79kzEQ"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 222514,
       "name": "El T\u00fanel Del Amor",
       "url": "https://open.spotify.com/track/11iCxKAxXLyMUmO5044LV9"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
+        "name": "As\u00ed No Se Puede Querer",
+        "url": "https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw"
+      },
+      "artists": [
+        {
+          "name": "Los Inconformes",
+          "url": "https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy"
+        }
+      ],
+      "duration_ms": 216859,
+      "name": "As\u00ed No Se Puede Querer",
+      "url": "https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
-        "name": "Siente El Movimiento",
-        "url": "https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC"
-      },
-      "artists": [
-        {
-          "name": "La Sant\u00edsima Voladora",
-          "url": "https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0"
-        }
-      ],
-      "duration_ms": 186175,
-      "name": "Siente El Movimiento",
-      "url": "https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
         "name": "Inflammable",
         "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 171693,
       "name": "La Manifestacion",
       "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
+        "name": "Siente El Movimiento",
+        "url": "https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC"
+      },
+      "artists": [
+        {
+          "name": "La Sant\u00edsima Voladora",
+          "url": "https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0"
+        }
+      ],
+      "duration_ms": 186175,
+      "name": "Siente El Movimiento",
+      "url": "https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3"
     },
     {
       "added_at": "2025-06-13 06:00:17",

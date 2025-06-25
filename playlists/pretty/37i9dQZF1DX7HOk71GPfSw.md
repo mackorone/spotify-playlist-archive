@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > just got chilly 🥶🥶🥶🥶🥶🥶🥶
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,610 likes - 200 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,702 likes - 200 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 18 | [all i ever had](https://open.spotify.com/track/3QQ2um3SEAZUXaz8sL7YVV) | [ONUR](https://open.spotify.com/artist/0NQnxyOtffxLFIatMhCp35) | [all i ever had](https://open.spotify.com/album/6GGaPCCUmyK2jzR5zI3IeA) | 2:24 |
 | 19 | [Talk 2 Me](https://open.spotify.com/track/1twfzIIdZiI08eM7yVhE9E) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [Talk 2 Me](https://open.spotify.com/album/1CAxbTl96WGEeV6j0oGxMq) | 3:42 |
 | 20 | [Dancing with your eyes closed](https://open.spotify.com/track/1QkeomwCeKgXOEWoMHzrXr) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Dancing with your eyes closed](https://open.spotify.com/album/56bYgJoNy2rzmrjJQnmoJy) | 3:50 |
-| 21 | [Juliette](https://open.spotify.com/track/1nWHVI1MjwTAZ7vhLYRgVK) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I), [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Violence is the Answer](https://open.spotify.com/album/5wB2CFafp90Tjma8XXyU4D) | 2:29 |
+| 21 | [Juliette](https://open.spotify.com/track/1nWHVI1MjwTAZ7vhLYRgVK) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I) | [Violence is the Answer](https://open.spotify.com/album/5wB2CFafp90Tjma8XXyU4D) | 2:29 |
 | 22 | [SOFT SCOOP TALKING DOG](https://open.spotify.com/track/3g0PEy13O7biKs5QbO6JuI) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [SOFT SCOOP TALKING DOG](https://open.spotify.com/album/3nrLoVydKklCtyxQXskO5V) | 2:03 |
 | 23 | [Illegally Blonde](https://open.spotify.com/track/3IETf0HzHAXxMqgzISVgfW) | [Disco Shrine](https://open.spotify.com/artist/1IkijWWvTvWKuZ90kHwdHA) | [Illegally Blonde](https://open.spotify.com/album/0YAVRMBEnZDOIGIJ722sIm) | 2:20 |
 | 24 | [FiRST CLASS](https://open.spotify.com/track/2vaa854lLZJlkinXIeBLu9) | [MARiMARi](https://open.spotify.com/artist/4EuIByMqMJOCQijthmKLwl) | [FiRST CLASS](https://open.spotify.com/album/6quElopRXqMhbi6QsxDA4S) | 2:22 |

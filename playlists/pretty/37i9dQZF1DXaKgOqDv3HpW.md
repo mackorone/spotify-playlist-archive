@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain](/playlists/plain/37i9dQZF1DXaKgOqDv3HpW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaKgOqDv3HpW)
 
-### [Meditação e Relaxamento](https://open.spotify.com/playlist/37i9dQZF1DXaKgOqDv3HpW)
+### [Meditação Profunda](https://open.spotify.com/playlist/37i9dQZF1DXaKgOqDv3HpW)
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,983 likes - 195 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,920 likes - 195 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,7 +182,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 | 172 | [Crystalline](https://open.spotify.com/track/27YaBVbv8K7atUj0EoE4gQ) | [Andromedaecho](https://open.spotify.com/artist/5X4x6jIGCFmtPxI4c3GgbC) | [Crystalline](https://open.spotify.com/album/6YyOTspsFXEm7eYXDZHCpq) | 3:28 |
 | 173 | [Patientia](https://open.spotify.com/track/7xliwWjoey2VUe450gdZ5Y) | [John Caelo](https://open.spotify.com/artist/5l5WPtiUdbPCJy66rG17Sd) | [Patientia](https://open.spotify.com/album/2wHSo6N02pO8aExcDzjiP4) | 2:20 |
 | 174 | [Shankara Moon](https://open.spotify.com/track/3AcqUfvRzjuqwltaWkSe1t) | [Treasures Sleepy Serenades](https://open.spotify.com/artist/7wOi2yAXYhbk1323Iomfo3) | [Shankara Moon](https://open.spotify.com/album/6hVAGgRekeVj1OUPYQiJN3) | 3:43 |
-| 175 | [Mirach Dreams](https://open.spotify.com/track/5umpsNomhsOB2T9a0b2OCP) | [Endless Space](https://open.spotify.com/artist/7HHVt02XZTOf0FQ6YhZtG5) | [Mirach Dreams](https://open.spotify.com/album/6FaeqpfJfrut5YAf3vZImm) | 3:10 |
+| 175 | [Mirach Dreams](https://open.spotify.com/track/5umpsNomhsOB2T9a0b2OCP) | [Endless Space](https://open.spotify.com/artist/4SnAG3DMYmxqUwelTO2Y5A) | [Mirach Dreams](https://open.spotify.com/album/6FaeqpfJfrut5YAf3vZImm) | 3:10 |
 | 176 | [Islets](https://open.spotify.com/track/7MH9IXZQ3Ykz3BVg6JpVy5) | [Gravitons](https://open.spotify.com/artist/2VlCnCbs8J939zLt0dB5RF) | [Islets](https://open.spotify.com/album/1xs3ykLMsmz9KYiAMTXOjL) | 3:11 |
 | 177 | [Choices](https://open.spotify.com/track/4rnHitehqGrHlgr8TiTMYX) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Choices](https://open.spotify.com/album/1ypEOpmaYFV46bpgf4HiuR) | 2:41 |
 | 178 | [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 2:59 |
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 | 194 | [A côté de toi](https://open.spotify.com/track/1Pr6ajOmxuhjmn4CwuBxle) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [A côté de toi](https://open.spotify.com/album/25AARypQIJKCdYgunYo0OS) | 2:56 |
 | 195 | [Nova Transit](https://open.spotify.com/track/7FxP1GBPMMmvPSpTWZ9YOv) | [Adventurine](https://open.spotify.com/artist/2Zx9zEFTBFwvULdr9oRKVW) | [Nova Transit](https://open.spotify.com/album/4i1YgFF2n2NzLI2514wsHq) | 2:32 |
 
-Snapshot ID: `aFkeWQAAAAAO8qBzc923Woc4N9JBrqno`
+Snapshot ID: `aFqaQQAAAACxWovlEMELe2ysYSDZ0SdR`

@@ -4,7 +4,7 @@
 
 > 2021
 
-133 songs - 8 hr 54 min
+135 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Hate](https://open.spotify.com/track/399olOwTieMU3hqelRsfpH) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [hugo](https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH) | 4:04 | 2023-05-31 |  |
 | [Heaven](https://open.spotify.com/track/5cyMPZoc97YPHHC3gH5lVq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 4:36 | 2025-01-11 |  |
 | [HGU](https://open.spotify.com/track/4q6iKWRy3auzEn9dRoLInk) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [hugo](https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH) | 3:21 | 2024-01-22 |  |
+| [Home](https://open.spotify.com/track/1ZAJkFiMMjRIX8mNqtQd6R) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt), [Vocaal Ensemble Cordier](https://open.spotify.com/artist/6NygXaRWfywdXsaafqqoQr), [Ruben Jeyasundaram](https://open.spotify.com/artist/4FgCaEkgBLDRxRsKpxc3Q2) | [Home](https://open.spotify.com/album/7A6v2isTzFfC5z60taBwmu) | 3:19 | 2025-06-24 |  |
 | [Home](https://open.spotify.com/track/2qPSa6HXjzwa9sLhNGpA1T) | [Edith Whiskers](https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN) | [Home](https://open.spotify.com/album/6FTZtwV3e6WYgVeRhi6Gbm) | 3:15 | 2024-03-14 |  |
 | [How Beautiful I Am](https://open.spotify.com/track/29wvuq2uL6sbOSx7OoK9PY) | [Bill Ryder\-Jones](https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4) | [Iechyd Da](https://open.spotify.com/album/6ucqrUvJaIMZTdPnvW4fxQ) | 4:18 | 2025-04-27 |  |
 | [How Do You Sleep? \- Remastered 2010](https://open.spotify.com/track/7xsr2OppItxPB4whucYr2G) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 5:39 | 2025-03-06 |  |
@@ -115,6 +116,7 @@
 | [Stars & Shards](https://open.spotify.com/track/6e6VlzrbLQtXpfcwS77sTn) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday's Gone](https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5) | 3:07 | 2023-09-16 |  |
 | [Still Beating](https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:01 | 2023-10-11 |  |
 | [Stop Crying Your Heart Out](https://open.spotify.com/track/0SlpFHdk4UHBDzCEoXzy14) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 5:03 | 2025-02-28 |  |
+| [strangers](https://open.spotify.com/track/664GJ3Q68nj89RyDsDQZvM) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [hopefully !](https://open.spotify.com/album/3QiiMhk65fgCPOKThjZ8iK) | 2:35 | 2025-06-24 |  |
 | [Stuck on the puzzle](https://open.spotify.com/track/3cUxncrTWSA9lhlQbuIwUY) | [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S) | [Submarine \- Original Songs From The Film By Alex Turner](https://open.spotify.com/album/3OqRGywivnQ0IeClUeUa4n) | 3:31 | 2023-03-29 |  |
 | [Sunshine on Leith](https://open.spotify.com/track/3Vu6IeuO4sZMt8RAO4du7s) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Sunshine on Leith](https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ) | 5:16 | 2025-02-13 |  |
 | [Svefn\-g\-englar](https://open.spotify.com/track/07eGxuz8bL6QMsRqEe1Adu) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Ágætis byrjun](https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC) | 10:06 | 2025-02-01 |  |

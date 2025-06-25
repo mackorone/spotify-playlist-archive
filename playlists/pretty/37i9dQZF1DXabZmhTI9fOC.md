@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2406spotifypkerndwbjny446&utm\_campaign=2406spotify&utm\_source=sptfy\_na&utm\_medium=ernd\_wbjny\_acq\_deslnk&utm\_term=spotifyusers&utm\_content=nooffer&voucher\[\]=XXXXXXXXXXXXXX">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,382 likes - 134 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,087 likes - 140 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,5 +142,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 132 | [Still Bad](https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Still Bad](https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL) | 3:28 |
 | 133 | [Nothing Better Than This](https://open.spotify.com/track/19HPY6t1OHkcWEwx1EV5J6) | [Di Napoli](https://open.spotify.com/artist/0ztqBP31RGo3uJPFno3odf) | [In Love With Myself](https://open.spotify.com/album/4h3pGNolXPIgbTvCSTPo3R) | 2:35 |
 | 134 | [Bad Idea](https://open.spotify.com/track/6azVi5ToFHo6KfKs6SstAC) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Bad Idea](https://open.spotify.com/album/7toU4cKKa2d6AVUjrappDo) | 2:35 |
+| 135 | [Somewhere to Go](https://open.spotify.com/track/4pGQG1MwAdpU98ed0rCryJ) | [Adrian Lyles](https://open.spotify.com/artist/3R5yFx0z6UkzAiNHCeBqUY) | [Somewhere to Go](https://open.spotify.com/album/6bo3drzOSDnYUdum3Mu7s1) | 3:32 |
+| 136 | [Diamonds in the Rough](https://open.spotify.com/track/3yK0tIvWjmnyT4uHEnB9h8) | [Tiffany Sayers](https://open.spotify.com/artist/7HVUS0mQzqTJycdr8SWrwM) | [Diamonds in the Rough](https://open.spotify.com/album/4jWQAKbHLfGTNafIFnHJdc) | 2:59 |
+| 137 | [Going Under](https://open.spotify.com/track/6CnmAXyFJcbF5MgRCBTUF8) | [Boundary Run](https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8) | [Going Under](https://open.spotify.com/album/24O2B4BLnUniqKnUBeEDsm) | 3:16 |
+| 138 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
+| 139 | [Firestorm](https://open.spotify.com/track/0VsQzHb8tkk02Lvqbv0LbA) | [OMENS](https://open.spotify.com/artist/3eSnI3czh6aPOO49PvNsZ5) | [Saviours](https://open.spotify.com/album/6Ympmv3nJhvZGgaG9MsnPl) | 3:51 |
+| 140 | [Before You Go](https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:35 |
 
-Snapshot ID: `aFoG8QAAAACnLsmgC50W4/L4vm/27QL3`
+Snapshot ID: `aFtYPQAAAADMK+4OXZyJNNsKsQeDvN65`

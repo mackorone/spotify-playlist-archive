@@ -5303,6 +5303,24 @@
     },
     {
       "album": {
+        "name": "\u79cb \u305d\u3070\u306b\u3044\u308b\u3088",
+        "url": "https://open.spotify.com/album/3VWtvGEGzET3ztfQSKTkUc"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359693,
+      "name": "\u304a\u3084\u3059\u307f\u306a\u3055\u3044",
+      "url": "https://open.spotify.com/track/3fGUorfiin7I5V8YvTaoFK"
+    },
+    {
+      "album": {
         "name": "\u30e0\u30b9\u30d2",
         "url": "https://open.spotify.com/album/0MvWp84fGgQhRUUMCkXE9u"
       },
@@ -5448,7 +5466,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 122500,
       "name": "\u305d\u308c\u3067\u3082\u5bb6\u65cf",
       "url": "https://open.spotify.com/track/4iqy8c3PaPQreAfeROJg1E"

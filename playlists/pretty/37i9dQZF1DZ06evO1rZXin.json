@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 6592,
+  "num_followers": 6595,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFdHgAAAAABjJ4uC4rnoLO077kdQwBmh",
+  "snapshot_id": "aFiZAAAAAAD50AaxRBwWIWSxT0CzmvOQ",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tirador",
-        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
+        "name": "Celebrando En Grande",
+        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
       },
       "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        },
         {
           "name": "Banda Vallarta Show",
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 156906,
-      "name": "El De La Quebradita",
-      "url": "https://open.spotify.com/track/6ZvKl3qwFwAapikQg0H2bm"
+      "duration_ms": 177000,
+      "name": "El Hombliguito",
+      "url": "https://open.spotify.com/track/08tkUBQCTmiCHfLOiUorh0"
     },
     {
       "added_at": null,
@@ -191,18 +187,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebrando En Grande",
-        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
+        "name": "El Tirador",
+        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
       },
       "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        },
         {
           "name": "Banda Vallarta Show",
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 177000,
-      "name": "El Hombliguito",
-      "url": "https://open.spotify.com/track/08tkUBQCTmiCHfLOiUorh0"
+      "duration_ms": 156906,
+      "name": "El De La Quebradita",
+      "url": "https://open.spotify.com/track/6ZvKl3qwFwAapikQg0H2bm"
     },
     {
       "added_at": null,
@@ -356,7 +356,7 @@
       "added_at": null,
       "album": {
         "name": "El Tirador",
-        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
+        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 168200,
-      "name": "Me Esta Esperando Mar\u00eda",
-      "url": "https://open.spotify.com/track/4F57ZKqA2Y1vD0Pkoylhyi"
+      "duration_ms": 191000,
+      "name": "El Tirador",
+      "url": "https://open.spotify.com/track/3F2dFmMNcTWAPU6xPARLTA"
     },
     {
       "added_at": null,
@@ -424,7 +424,7 @@
       "added_at": null,
       "album": {
         "name": "El Tirador",
-        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
+        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 191000,
-      "name": "El Tirador",
-      "url": "https://open.spotify.com/track/3F2dFmMNcTWAPU6xPARLTA"
+      "duration_ms": 168200,
+      "name": "Me Esta Esperando Mar\u00eda",
+      "url": "https://open.spotify.com/track/4F57ZKqA2Y1vD0Pkoylhyi"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busca Amor",
-        "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 157586,
-      "name": "Busca Amor",
-      "url": "https://open.spotify.com/track/6Rxrnu77wkUmv5RufRc5Pi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La V\u00edbora Peligrosa",
         "url": "https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 149084,
       "name": "La V\u00edbora Peligrosa",
       "url": "https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Busca Amor",
+        "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 157586,
+      "name": "Busca Amor",
+      "url": "https://open.spotify.com/track/6Rxrnu77wkUmv5RufRc5Pi"
     },
     {
       "added_at": null,

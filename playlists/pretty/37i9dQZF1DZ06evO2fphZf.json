@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12169,
+  "num_followers": 12168,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFdHgAAAAAC6wf/IK7/ot0Z4zaf9A1mx",
+  "snapshot_id": "aFiZAAAAAACNKKkpFiPn4uNRqPSMGcDT",
   "tracks": [
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Yours",
-        "url": "https://open.spotify.com/album/1hdziZxJ3jB02fmFhfhtVD"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 172608,
-      "name": "Never Yours",
-      "url": "https://open.spotify.com/track/3a9o2LTowJfEYBvp19efLy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/1QCQwiN7l0upZdEEPNzeqR"
       },
@@ -763,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "i hope u see this (deluxe)",
-        "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
+        "name": "Never Yours",
+        "url": "https://open.spotify.com/album/1hdziZxJ3jB02fmFhfhtVD"
       },
       "artists": [
         {
@@ -772,9 +756,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 204000,
-      "name": "distance between us",
-      "url": "https://open.spotify.com/track/0U3yx4Wnmtox0XjsvldOeY"
+      "duration_ms": 172608,
+      "name": "Never Yours",
+      "url": "https://open.spotify.com/track/3a9o2LTowJfEYBvp19efLy"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
       "duration_ms": 192396,
       "name": "Sweetest Nothings",
       "url": "https://open.spotify.com/track/6FFxBcsIWatbD1f8BnziEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i hope u see this (deluxe)",
+        "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "distance between us",
+      "url": "https://open.spotify.com/track/0U3yx4Wnmtox0XjsvldOeY"
     },
     {
       "added_at": null,

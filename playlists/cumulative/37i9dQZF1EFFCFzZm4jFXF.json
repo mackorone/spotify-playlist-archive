@@ -743,6 +743,32 @@
     },
     {
       "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/47or3xJvbmeAke8qPSlejF"
+      },
+      "artists": [
+        {
+          "name": "MEDUN",
+          "url": "https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM"
+        },
+        {
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+        },
+        {
+          "name": "LAWRENT",
+          "url": "https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163384,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/0gA1D52otr2u5Hd88sOWJW"
+    },
+    {
+      "album": {
         "name": "Harmless Heart",
         "url": "https://open.spotify.com/album/5tHq9K9LPFVltgNnQuL554"
       },

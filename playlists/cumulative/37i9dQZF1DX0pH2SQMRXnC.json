@@ -501,6 +501,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/0zE1ElkEoAyehEb2SH0AO4"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1BiyT5wfHDKjgY4FNyllvS"
+    },
+    {
+      "album": {
         "name": "Alone, Pt. II (Remixes)",
         "url": "https://open.spotify.com/album/2mxUoEbnEU5HQUApB1tm1X"
       },

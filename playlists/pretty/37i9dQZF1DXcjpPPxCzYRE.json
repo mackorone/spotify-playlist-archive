@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 429222,
+  "num_followers": 429250,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-06-07 09:14:04",
       "album": {
-        "name": "L\u00e1grima",
-        "url": "https://open.spotify.com/album/6yd03uk0vAfZ3cvynnYtVW"
-      },
-      "artists": [
-        {
-          "name": "PANTERA BLUE",
-          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
-        }
-      ],
-      "duration_ms": 149737,
-      "name": "L\u00e1grima",
-      "url": "https://open.spotify.com/track/6AESP7mEOCz3igOerC9QJ9"
-    },
-    {
-      "added_at": "2025-06-07 09:14:04",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 312066,
       "name": "Delicate",
       "url": "https://open.spotify.com/track/6MY1xABxoZATrEr4FeUhEM"
+    },
+    {
+      "added_at": "2025-06-07 09:14:04",
+      "album": {
+        "name": "L\u00e1grima",
+        "url": "https://open.spotify.com/album/6yd03uk0vAfZ3cvynnYtVW"
+      },
+      "artists": [
+        {
+          "name": "PANTERA BLUE",
+          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
+        }
+      ],
+      "duration_ms": 149737,
+      "name": "L\u00e1grima",
+      "url": "https://open.spotify.com/track/6AESP7mEOCz3igOerC9QJ9"
     },
     {
       "added_at": "2025-06-07 09:14:04",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-06-07 09:14:04",
       "album": {
-        "name": "Vida Nueva",
-        "url": "https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 169375,
-      "name": "Vida Nueva",
-      "url": "https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK"
-    },
-    {
-      "added_at": "2025-06-07 09:14:04",
-      "album": {
         "name": "No One's Gonna Love You (Stockholm Version)",
         "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 228646,
       "name": "No One's Gonna Love You (Stockholm Version)",
       "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
+    },
+    {
+      "added_at": "2025-06-07 09:14:04",
+      "album": {
+        "name": "Vida Nueva",
+        "url": "https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 169375,
+      "name": "Vida Nueva",
+      "url": "https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK"
     },
     {
       "added_at": "2025-06-07 09:14:04",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-06-07 09:14:04",
       "album": {
-        "name": "Dreamers",
-        "url": "https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA"
-      },
-      "artists": [
-        {
-          "name": "Mighty Oaks",
-          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
-        }
-      ],
-      "duration_ms": 252293,
-      "name": "The Great Unknown",
-      "url": "https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV"
-    },
-    {
-      "added_at": "2025-06-07 09:14:04",
-      "album": {
         "name": "Hay algo en ti",
         "url": "https://open.spotify.com/album/0XM53g2PoYVHPINFzwSYRW"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2025-06-07 09:14:04",
       "album": {
-        "name": "TANDA",
-        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA"
       },
       "artists": [
         {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+          "name": "Mighty Oaks",
+          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
         }
       ],
-      "duration_ms": 240904,
-      "name": "Como Viene Se Va",
-      "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
+      "duration_ms": 252293,
+      "name": "The Great Unknown",
+      "url": "https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV"
     },
     {
       "added_at": "2025-06-07 09:14:04",
@@ -1307,6 +1291,22 @@
       "duration_ms": 190754,
       "name": "Una y otra vez",
       "url": "https://open.spotify.com/track/7jBP3I3IuxxPEvbsBJypdZ"
+    },
+    {
+      "added_at": "2025-06-07 09:14:04",
+      "album": {
+        "name": "TANDA",
+        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 240904,
+      "name": "Como Viene Se Va",
+      "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
     },
     {
       "added_at": "2025-06-07 09:14:04",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2025-06-07 09:14:04",
       "album": {
+        "name": "Sanadoras Voluntades",
+        "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        }
+      ],
+      "duration_ms": 164956,
+      "name": "Sanadoras Voluntades",
+      "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
+    },
+    {
+      "added_at": "2025-06-07 09:14:04",
+      "album": {
         "name": "Es el Momento",
         "url": "https://open.spotify.com/album/7BoNtzLMhBC8TfqF7QEMTY"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 220448,
       "name": "El Amor",
       "url": "https://open.spotify.com/track/1Ml84YcdHdi34tYc3QEXxf"
-    },
-    {
-      "added_at": "2025-06-07 09:14:04",
-      "album": {
-        "name": "Sanadoras Voluntades",
-        "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
-      },
-      "artists": [
-        {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        }
-      ],
-      "duration_ms": 164956,
-      "name": "Sanadoras Voluntades",
-      "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
     },
     {
       "added_at": "2025-06-07 09:14:04",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2025-06-07 09:14:04",
       "album": {
-        "name": "Nunca Nadie",
-        "url": "https://open.spotify.com/album/4EwQ5G2tbosagB8tEr3A7O"
+        "name": "Mi Bolero",
+        "url": "https://open.spotify.com/album/40o1tVepGEcMeg9BEToJCb"
       },
       "artists": [
         {
-          "name": "Ultraligera",
-          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+          "name": "Fitasha",
+          "url": "https://open.spotify.com/artist/6TziwTrHsHSviAxb6EBoPk"
         }
       ],
-      "duration_ms": 178557,
-      "name": "Nunca Nadie",
-      "url": "https://open.spotify.com/track/5twSN2QylT6wKmNCu0Xw4e"
+      "duration_ms": 168000,
+      "name": "Mi Bolero",
+      "url": "https://open.spotify.com/track/1ODOzIbZ3iCc9Z8OHz55jc"
     },
     {
       "added_at": "2025-06-07 09:14:04",
@@ -1551,50 +1551,18 @@
     {
       "added_at": "2025-06-07 09:14:04",
       "album": {
-        "name": "M\u00e1ndame una se\u00f1al",
-        "url": "https://open.spotify.com/album/4x8icqp6ellxFGhDzSBC2r"
+        "name": "Nunca Nadie",
+        "url": "https://open.spotify.com/album/4EwQ5G2tbosagB8tEr3A7O"
       },
       "artists": [
         {
-          "name": "Rebe",
-          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
         }
       ],
-      "duration_ms": 260152,
-      "name": "M\u00e1ndame una se\u00f1al",
-      "url": "https://open.spotify.com/track/68eNGXDct8WTVLk9v0Oar8"
-    },
-    {
-      "added_at": "2025-06-07 09:14:04",
-      "album": {
-        "name": "Footprints I Found",
-        "url": "https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 179173,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/40dfo65kBJa1UgzkD652Gl"
-    },
-    {
-      "added_at": "2025-06-07 09:14:04",
-      "album": {
-        "name": "Mi Bolero",
-        "url": "https://open.spotify.com/album/40o1tVepGEcMeg9BEToJCb"
-      },
-      "artists": [
-        {
-          "name": "Fitasha",
-          "url": "https://open.spotify.com/artist/6TziwTrHsHSviAxb6EBoPk"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Mi Bolero",
-      "url": "https://open.spotify.com/track/1ODOzIbZ3iCc9Z8OHz55jc"
+      "duration_ms": 178557,
+      "name": "Nunca Nadie",
+      "url": "https://open.spotify.com/track/5twSN2QylT6wKmNCu0Xw4e"
     },
     {
       "added_at": "2025-06-07 09:14:04",
@@ -1619,6 +1587,22 @@
     {
       "added_at": "2025-06-07 09:14:04",
       "album": {
+        "name": "M\u00e1ndame una se\u00f1al",
+        "url": "https://open.spotify.com/album/4x8icqp6ellxFGhDzSBC2r"
+      },
+      "artists": [
+        {
+          "name": "Rebe",
+          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
+        }
+      ],
+      "duration_ms": 260152,
+      "name": "M\u00e1ndame una se\u00f1al",
+      "url": "https://open.spotify.com/track/68eNGXDct8WTVLk9v0Oar8"
+    },
+    {
+      "added_at": "2025-06-07 09:14:04",
+      "album": {
         "name": "Ojos de Miel",
         "url": "https://open.spotify.com/album/5rR0DhfL3LupkNTVmSkRFO"
       },
@@ -1639,6 +1623,22 @@
     {
       "added_at": "2025-06-07 09:14:04",
       "album": {
+        "name": "Footprints I Found",
+        "url": "https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 179173,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/40dfo65kBJa1UgzkD652Gl"
+    },
+    {
+      "added_at": "2025-06-07 09:14:04",
+      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
       },
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2025-06-07 09:14:04",
       "album": {
-        "name": "Equilibri",
-        "url": "https://open.spotify.com/album/6BPSeyqa5ChOR3DqltpUIR"
-      },
-      "artists": [
-        {
-          "name": "Guillem Roma",
-          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
-        }
-      ],
-      "duration_ms": 236462,
-      "name": "Equilibri",
-      "url": "https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp"
-    },
-    {
-      "added_at": "2025-06-07 09:14:04",
-      "album": {
         "name": "reverie",
         "url": "https://open.spotify.com/album/4aZGAh90HuhACBbHn9becT"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 343249,
       "name": "reverie",
       "url": "https://open.spotify.com/track/1g2eirb8uaYn54iEYZl3CS"
+    },
+    {
+      "added_at": "2025-06-07 09:14:04",
+      "album": {
+        "name": "Equilibri",
+        "url": "https://open.spotify.com/album/6BPSeyqa5ChOR3DqltpUIR"
+      },
+      "artists": [
+        {
+          "name": "Guillem Roma",
+          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
+        }
+      ],
+      "duration_ms": 236462,
+      "name": "Equilibri",
+      "url": "https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp"
     }
   ],
   "unique_name": "Relax en casa",

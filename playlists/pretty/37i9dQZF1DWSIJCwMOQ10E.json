@@ -1,6 +1,6 @@
 {
   "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Karen Lizarazo",
-  "num_followers": 101252,
+  "num_followers": 101275,
   "original_name": "Rumba Colombiana",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-05-30 05:03:05",
       "album": {
-        "name": "Escalona Nunca Se Hab\u00eda Grabado As\u00ed (Deluxe)",
-        "url": "https://open.spotify.com/album/1FCadRB3GFcRzSWzplCiDh"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Vallenato Nobel",
-      "url": "https://open.spotify.com/track/2YNtxCNX8Mprfn0tA3b9g9"
-    },
-    {
-      "added_at": "2025-05-30 05:03:05",
-      "album": {
         "name": "Tequila Con Cerveza",
         "url": "https://open.spotify.com/album/5SjZ1C7RfzX8qjM3olSWFg"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 143000,
       "name": "Tequila Con Cerveza",
       "url": "https://open.spotify.com/track/4x7oOM338zTGyLb33RR8jJ"
+    },
+    {
+      "added_at": "2025-05-30 05:03:05",
+      "album": {
+        "name": "Escalona Nunca Se Hab\u00eda Grabado As\u00ed (Deluxe)",
+        "url": "https://open.spotify.com/album/1FCadRB3GFcRzSWzplCiDh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Vallenato Nobel",
+      "url": "https://open.spotify.com/track/2YNtxCNX8Mprfn0tA3b9g9"
     },
     {
       "added_at": "2025-05-30 05:03:05",

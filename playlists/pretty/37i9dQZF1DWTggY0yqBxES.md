@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Aminé
 
-[Spotify](https://open.spotify.com/user/spotify) - 964,772 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 964,779 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 32 | [METATRON \- feat\. Lola Moxom](https://open.spotify.com/track/0kaDuqfiEeUGa9SYKHEEmI) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Lola Moxom](https://open.spotify.com/artist/108GZkpexhWFatGlQTbb1g) | [METATRON \(feat\. Lola Moxom\)](https://open.spotify.com/album/55L4dwxaTZIwY0bRk4nFzn) | 2:43 |
 | 33 | [Again](https://open.spotify.com/track/3YZF7oBXjZ0BQX4LwFq3ih) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Again](https://open.spotify.com/album/5DTfFUKdmyA52M8JuqM55D) | 2:47 |
 | 34 | [Weight On Me](https://open.spotify.com/track/2UyKJ6rfSlAOHNd6J4h1F1) | [Peter $un](https://open.spotify.com/artist/7cLB1w50gSrBCzcD68UMuG), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Weight On Me](https://open.spotify.com/album/70aGDFO0P0wjy3LyfkEnsz) | 3:50 |
-| 35 | [BBGIRLGOSLOW \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/192NzBPjtGKA1aBz1eZPZv) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [BBGIRLGOSLOW \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/4AzRpk6huNI8h9sVV57Li7) | 2:34 |
+| 35 | [BBGIRLGOSLOW \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/192NzBPjtGKA1aBz1eZPZv) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [SimmyAuto](https://open.spotify.com/artist/1hynyJGL1vjc5z9GjzdSbM), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [BBGIRLGOSLOW \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/4AzRpk6huNI8h9sVV57Li7) | 2:34 |
 | 36 | [Young](https://open.spotify.com/track/1SSeXpZJz5LY0tM4H8bmfC) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Young](https://open.spotify.com/album/3kA6SPFnEBihAT9IfCQ4vY) | 2:50 |
 | 37 | [Party Girl](https://open.spotify.com/track/7kGxq205bhv50mEdpx37FX) | [Kee Nola](https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER) | [It's Not You, It's Me](https://open.spotify.com/album/0AQxJS0YHgPg366Lcdcgg4) | 2:19 |
 | 38 | [soft serve](https://open.spotify.com/track/4Euy2uQfNa9mwEPT61gDuO) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [soft serve](https://open.spotify.com/album/1KJzF08mBNJgQXCMnwvwmy) | 2:51 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 50 | [square one](https://open.spotify.com/track/2e3dJat3mFqwPWEF7lQaHu) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [square one](https://open.spotify.com/album/7jUyQYzlSYmHKjNSkV5LRN) | 2:39 |
 | 51 | [I.D.F.A.](https://open.spotify.com/track/1DOwQW2wD2ssjaNmo4wGVD) | [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA) | [MANIFESTO](https://open.spotify.com/album/2Y80MSXGMP6clMXOoAbfg9) | 2:49 |
 | 52 | [WHEW LAWD](https://open.spotify.com/track/2nbTq1JQ1CrteXxYF4JAGR) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [WHEW LAWD](https://open.spotify.com/album/6ILknYWa6Y3WOPCLQt1Pw4) | 1:33 |
-| 53 | [father](https://open.spotify.com/track/0PQ33KiYJD1XPsP6oA1GYn) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [father](https://open.spotify.com/album/3fjGRYQv5YtTTyqviMYN3v) | 1:45 |
+| 53 | [father](https://open.spotify.com/track/0PQ33KiYJD1XPsP6oA1GYn) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [father](https://open.spotify.com/album/3fjGRYQv5YtTTyqviMYN3v) | 1:46 |
 | 54 | [U GOTTA \(feat\. Pharrell\)](https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [PERFECT FANTASY](https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND) | 3:00 |
 | 55 | [IS MY MIC ON?](https://open.spotify.com/track/1cNXgfdJXQ94n8rs860x5r) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [IS MY MIC ON?](https://open.spotify.com/album/4rgZ66dfJJ17VUyzNCLtUv) | 2:40 |
 | 56 | [Whisper thru the Streets](https://open.spotify.com/track/4EEH6NfU9x27pfZgpOJKQG) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [Whisper thru the Streets](https://open.spotify.com/album/0CV30pRuhPF81WLnHcnGYy) | 2:03 |

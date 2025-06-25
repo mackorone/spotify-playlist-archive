@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > born on the internet\. ft\. 2hollis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,374,595 likes - 104 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,374,582 likes - 104 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 5 | [true perspective](https://open.spotify.com/track/1uwiTdqmW7fwgsNNcSoqxN) | [Lucy Bedroque](https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O) | [true perspective](https://open.spotify.com/album/6gY2HApVOnrMbn4y47Im0q) | 2:05 |
 | 6 | [LV Sandals](https://open.spotify.com/track/5XIkzgjs6TJwJmfGaB9jji) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [LV Sandals](https://open.spotify.com/album/7dk9B9ktyUhnChQA2C7YrK) | 1:51 |
 | 7 | [Sexual Fantasies](https://open.spotify.com/track/6gQiWTYr8RmHzMskzB9g6Z) | [maxon](https://open.spotify.com/artist/2Ltzex0JQrDiei63A1N4iP), [Percaso](https://open.spotify.com/artist/2JvthjqF5MR4dvjzeVTSyE) | [Sexual Fantasies](https://open.spotify.com/album/31ecvVLeOr9OAPsC4R6sAP) | 2:18 |
-| 8 | [father](https://open.spotify.com/track/0PQ33KiYJD1XPsP6oA1GYn) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [father](https://open.spotify.com/album/3fjGRYQv5YtTTyqviMYN3v) | 1:45 |
+| 8 | [father](https://open.spotify.com/track/0PQ33KiYJD1XPsP6oA1GYn) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [father](https://open.spotify.com/album/3fjGRYQv5YtTTyqviMYN3v) | 1:46 |
 | 9 | [ALL IN MOTION](https://open.spotify.com/track/5wIOSozaIoSKwzmeIBsmfF) | [Yung Fazo](https://open.spotify.com/artist/2UuVqmRzuGdHQB7BKACEW4) | [ALL IN MOTION](https://open.spotify.com/album/1UwtlXn6NSciTtyuSNDOj9) | 1:59 |
 | 10 | [flash](https://open.spotify.com/track/46bUjfJt7SVePcWtBVKa7W) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 2:44 |
 | 11 | [my bad bro](https://open.spotify.com/track/4jpDSTxE9Z890BiWh5KpIy) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [my bad bro](https://open.spotify.com/album/4v5Qe0knp4UtrNsB3PMfWm) | 1:14 |

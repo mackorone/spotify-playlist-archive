@@ -2306,7 +2306,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 186000,
       "name": "Cannibal",
       "url": "https://open.spotify.com/track/0dG8MLek8njy95ScARZkD6"
@@ -2598,7 +2598,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 179873,
       "name": "Closest Thing",
       "url": "https://open.spotify.com/track/2VQ8sUv17EhbDYPTFikF1J"
@@ -3658,7 +3658,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 187263,
       "name": "drunk text",
       "url": "https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4"
@@ -7568,7 +7568,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 167493,
       "name": "if i had a wish...",
       "url": "https://open.spotify.com/track/7lAO5AorXpnM8dsAfSpPxS"
@@ -9250,7 +9250,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 206458,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/1HfMVBKM75vxSfsQ5VefZ5"
@@ -10234,7 +10234,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 222270,
       "name": "Move On",
       "url": "https://open.spotify.com/track/6vTzONIAVZMzG9UGAtv7Xv"
@@ -10270,7 +10270,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 201643,
       "name": "Mr. Blue Jeans",
       "url": "https://open.spotify.com/track/0bAwwBJloXOyycr9SmZKnS"
@@ -10436,7 +10436,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 192786,
       "name": "Napoleon Complex",
       "url": "https://open.spotify.com/track/6e7G6rJZs47obK8QR5S2O7"
@@ -11034,7 +11034,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 336000,
       "name": "Oceans & Engines",
       "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
@@ -12408,7 +12408,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 211429,
       "name": "Second Chances",
       "url": "https://open.spotify.com/track/66bfRDJ4opMOviIi6esyYV"
@@ -14031,6 +14031,24 @@
     },
     {
       "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/1vuq0WLHEMPZ1xRcMWJkiM"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178857,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/1kybBeFkZLhwkEDipwQWVL"
+    },
+    {
+      "album": {
         "name": "the reason i hate home",
         "url": "https://open.spotify.com/album/60w9GszHHtExusXvbenVKz"
       },
@@ -15002,7 +15020,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 174688,
       "name": "Us Three",
       "url": "https://open.spotify.com/track/7HaQ4rnOsOBUqiXRwGGnQA"
@@ -16174,7 +16192,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 210880,
       "name": "Wish You The Best",
       "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
@@ -16340,7 +16358,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 169265,
       "name": "you broke me first",
       "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"

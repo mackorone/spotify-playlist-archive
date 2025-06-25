@@ -1,6 +1,6 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Yemi Alade",
-  "num_followers": 253027,
+  "num_followers": 253062,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-06-23 09:24:53",
       "album": {
-        "name": "Qing Madi",
-        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 189015,
-      "name": "American Love",
-      "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
-    },
-    {
-      "added_at": "2025-06-23 09:24:53",
-      "album": {
         "name": "Day By Day (feat. Kizz Daniel)",
         "url": "https://open.spotify.com/album/5H8hfur2fltstNkAyjGUEc"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 135671,
       "name": "Day By Day (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/5EYUc3dFDqstN3WU1EJlwV"
+    },
+    {
+      "added_at": "2025-06-23 09:24:53",
+      "album": {
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 189015,
+      "name": "American Love",
+      "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
     },
     {
       "added_at": "2025-06-23 09:24:53",
@@ -963,6 +963,22 @@
     {
       "added_at": "2025-06-23 09:24:53",
       "album": {
+        "name": "Sooner",
+        "url": "https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O"
+    },
+    {
+      "added_at": "2025-06-23 09:24:53",
+      "album": {
         "name": "Lustropolis",
         "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 149624,
       "name": "Holy Mountain",
       "url": "https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG"
-    },
-    {
-      "added_at": "2025-06-23 09:24:53",
-      "album": {
-        "name": "Sooner",
-        "url": "https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 169811,
-      "name": "Sooner",
-      "url": "https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O"
     },
     {
       "added_at": "2025-06-23 09:24:53",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-06-23 09:24:53",
       "album": {
-        "name": "Arike",
-        "url": "https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 124286,
-      "name": "Arike",
-      "url": "https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb"
-    },
-    {
-      "added_at": "2025-06-23 09:24:53",
-      "album": {
         "name": "Olufunmi Reimagined",
         "url": "https://open.spotify.com/album/7HpccOsoUG11qXcD5i3Pib"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2025-06-23 09:24:53",
       "album": {
-        "name": "First Sight",
-        "url": "https://open.spotify.com/album/3xOkRgxPDogV62jurUx4Vg"
+        "name": "Arike",
+        "url": "https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw"
       },
       "artists": [
         {
-          "name": "BoyPee",
-          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
         }
       ],
-      "duration_ms": 186220,
-      "name": "First Sight",
-      "url": "https://open.spotify.com/track/02DkSzg2JUcKiWllkiZKlO"
+      "duration_ms": 124286,
+      "name": "Arike",
+      "url": "https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb"
     },
     {
       "added_at": "2025-06-23 09:24:53",
@@ -1195,6 +1179,22 @@
       "duration_ms": 163200,
       "name": "Why You Lying",
       "url": "https://open.spotify.com/track/0Xol9bu4ZcAhxbUYZDKKVf"
+    },
+    {
+      "added_at": "2025-06-23 09:24:53",
+      "album": {
+        "name": "First Sight",
+        "url": "https://open.spotify.com/album/3xOkRgxPDogV62jurUx4Vg"
+      },
+      "artists": [
+        {
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+        }
+      ],
+      "duration_ms": 186220,
+      "name": "First Sight",
+      "url": "https://open.spotify.com/track/02DkSzg2JUcKiWllkiZKlO"
     },
     {
       "added_at": "2025-06-23 09:24:53",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2025-06-23 09:24:53",
       "album": {
+        "name": "Folasade",
+        "url": "https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "duration_ms": 168648,
+      "name": "Folasade",
+      "url": "https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5"
+    },
+    {
+      "added_at": "2025-06-23 09:24:53",
+      "album": {
         "name": "EMIKO",
         "url": "https://open.spotify.com/album/7t75CKqylx2aO3IjNW7Hl3"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 161351,
       "name": "DOINGZ",
       "url": "https://open.spotify.com/track/6RNP84XyE9eemCgWPVRni8"
-    },
-    {
-      "added_at": "2025-06-23 09:24:53",
-      "album": {
-        "name": "Folasade",
-        "url": "https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "duration_ms": 168648,
-      "name": "Folasade",
-      "url": "https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5"
     },
     {
       "added_at": "2025-06-23 09:24:53",
@@ -1455,18 +1455,22 @@
     {
       "added_at": "2025-06-23 09:24:53",
       "album": {
-        "name": "Love Me Now",
-        "url": "https://open.spotify.com/album/0yHdSNNqqPSfT06mxbKasD"
+        "name": "JABO",
+        "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
       },
       "artists": [
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 145325,
-      "name": "Love Me Now",
-      "url": "https://open.spotify.com/track/6rSaK72hupKbqmK1Nlbam6"
+      "duration_ms": 197400,
+      "name": "JABO",
+      "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
     }
   ],
   "unique_name": "Ginger Me",

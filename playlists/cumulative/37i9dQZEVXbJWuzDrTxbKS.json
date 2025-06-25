@@ -2887,7 +2887,7 @@
     },
     {
       "album": {
-        "name": "Teic, Kur Zeme T\u0101",
+        "name": "Teic, kur zeme t\u0101",
         "url": "https://open.spotify.com/album/54s6T3VwuSnASnaIDKSHFL"
       },
       "artists": [
@@ -2898,17 +2898,13 @@
         {
           "name": "Nora Bumbiere",
           "url": "https://open.spotify.com/artist/4CYZRz0HWS20cTgIhD8Vy0"
-        },
-        {
-          "name": "Viktors Lap\u010denoks",
-          "url": "https://open.spotify.com/artist/3PaCz9DDjeSdse2rSFttko"
         }
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 160586,
-      "name": "Ar Mani Atkal Run\u0101 Kaijas",
+      "name": "Ar mani atkal run\u0101 kaijas",
       "url": "https://open.spotify.com/track/4IIwEJPzz7bJOTnvhvBFnf"
     },
     {
@@ -3435,6 +3431,28 @@
     },
     {
       "album": {
+        "name": "D\u0101vana vientu\u013cai sievietei",
+        "url": "https://open.spotify.com/album/4Tjtvsp2qQopgx0iFNzb6V"
+      },
+      "artists": [
+        {
+          "name": "Nora Bumbiere",
+          "url": "https://open.spotify.com/artist/4CYZRz0HWS20cTgIhD8Vy0"
+        },
+        {
+          "name": "Viktors Lap\u010denoks",
+          "url": "https://open.spotify.com/artist/3PaCz9DDjeSdse2rSFttko"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121453,
+      "name": "Autobrauc\u0113ju dziesmi\u0146a",
+      "url": "https://open.spotify.com/track/25rLn2wBOb5pni0PeTh75o"
+    },
+    {
+      "album": {
         "name": "Automotivo Bibi Fogosa",
         "url": "https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2"
       },
@@ -3742,7 +3760,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -4718,7 +4736,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -9300,7 +9318,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 209783,
       "name": "Debesis Va\u013c\u0101",
       "url": "https://open.spotify.com/track/0FiPtBSIPZspuJNOgxILQi"
@@ -9408,7 +9426,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 160000,
       "name": "DEGVIELA",
       "url": "https://open.spotify.com/track/1qlXfJNWyNwIXYnlqmqV6u"
@@ -12490,7 +12508,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -18640,7 +18658,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 190285,
       "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
       "url": "https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6"
@@ -19722,7 +19740,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 181818,
       "name": "It\u0101lija",
       "url": "https://open.spotify.com/track/3Ah0Zwh5MURTocMQtIgfLm"
@@ -19925,28 +19943,6 @@
     },
     {
       "album": {
-        "name": "Pikant\u0101s L\u012bgo zi\u0146\u0123es",
-        "url": "https://open.spotify.com/album/1XxcbgyLoC7Gbfgjciknso"
-      },
-      "artists": [
-        {
-          "name": "Ugun\u012bg\u0101 Gunta",
-          "url": "https://open.spotify.com/artist/2OAWOMZ2ufDX3Tawi5Yyjf"
-        },
-        {
-          "name": "Negantais Porgants",
-          "url": "https://open.spotify.com/artist/6vxGnr1cVoeKnQvHUoA80H"
-        }
-      ],
-      "date_added": "2024-06-24",
-      "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
-      "duration_ms": 223320,
-      "name": "Ja\u0304n\u0327u nakti\u0304 va\u0304veri\u0304tes",
-      "url": "https://open.spotify.com/track/1QALTCsNllBPUgXWFIoiR5"
-    },
-    {
-      "album": {
         "name": "Je me casse",
         "url": "https://open.spotify.com/album/6Ltrg0NAj6GqIyO2bjPgYI"
       },
@@ -20016,6 +20012,24 @@
       "duration_ms": 137115,
       "name": "Jefe",
       "url": "https://open.spotify.com/track/2RLSglgOlte1k6VHGFJ9fx"
+    },
+    {
+      "album": {
+        "name": "Le\u0123endas",
+        "url": "https://open.spotify.com/album/6m49wkg7Yuelz8PWZYM0MD"
+      },
+      "artists": [
+        {
+          "name": "\u017dor\u017es Siksna",
+          "url": "https://open.spotify.com/artist/75tMZ7m95gXjJGRehUm5O1"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189986,
+      "name": "Jel, dod man bu\u010di\u0146'",
+      "url": "https://open.spotify.com/track/0GsldqHE1Rwtm5IrXsm0ob"
     },
     {
       "album": {
@@ -20476,6 +20490,28 @@
       "duration_ms": 201996,
       "name": "J\u0101nis",
       "url": "https://open.spotify.com/track/5s1duXGdkCwSE9uXQ9qU8m"
+    },
+    {
+      "album": {
+        "name": "Pikant\u0101s L\u012bgo zi\u0146\u0123es",
+        "url": "https://open.spotify.com/album/1XxcbgyLoC7Gbfgjciknso"
+      },
+      "artists": [
+        {
+          "name": "Ugun\u012bg\u0101 Gunta",
+          "url": "https://open.spotify.com/artist/2OAWOMZ2ufDX3Tawi5Yyjf"
+        },
+        {
+          "name": "Negantais Porgants",
+          "url": "https://open.spotify.com/artist/6vxGnr1cVoeKnQvHUoA80H"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223320,
+      "name": "J\u0101\u0146u nakt\u012b v\u0101ver\u012btes",
+      "url": "https://open.spotify.com/track/1QALTCsNllBPUgXWFIoiR5"
     },
     {
       "album": {
@@ -21220,7 +21256,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 152805,
       "name": "Ko t\u0101?",
       "url": "https://open.spotify.com/track/6wB3XstB0c2yO2iMLKnCDg"
@@ -21290,6 +21326,24 @@
       "duration_ms": 153600,
       "name": "Kommatia",
       "url": "https://open.spotify.com/track/0q2se8fpWUpJVSo55JsinP"
+    },
+    {
+      "album": {
+        "name": "Bab\u0146iks",
+        "url": "https://open.spotify.com/album/02YSpKLkoHlEvNcjwTTmyo"
+      },
+      "artists": [
+        {
+          "name": "Ko\u013ca",
+          "url": "https://open.spotify.com/artist/7LflKlYjv6xJZLQ3PtMLrq"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223653,
+      "name": "Ko\u013cas dz\u0113r\u0101jdziesma",
+      "url": "https://open.spotify.com/track/47dzrGzc8PFJsPteCbpMPi"
     },
     {
       "album": {
@@ -21887,6 +21941,24 @@
     },
     {
       "album": {
+        "name": "Tipa Lab\u0101k\u0101s Dziesmas",
+        "url": "https://open.spotify.com/album/2fQInz5PTYya0w7TL34wro"
+      },
+      "artists": [
+        {
+          "name": "Labv\u0113l\u012bgais Tips",
+          "url": "https://open.spotify.com/artist/6lCjsH7dRjXIbYHdRJHAc1"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216080,
+      "name": "Lai",
+      "url": "https://open.spotify.com/track/1W4r5aR8ZFIy6RQOolTs0E"
+    },
+    {
+      "album": {
         "name": "lai tev apn\u012bk skumt",
         "url": "https://open.spotify.com/album/7ciiuxQzWmyIcHHlS3ywXI"
       },
@@ -22090,6 +22162,50 @@
       "duration_ms": 194906,
       "name": "Laternas",
       "url": "https://open.spotify.com/track/3YUpElHV3qtXmraZXkbeaB"
+    },
+    {
+      "album": {
+        "name": "Laternu Stund\u0101",
+        "url": "https://open.spotify.com/album/5DPn2ijbNMMe9mxXqXEyDj"
+      },
+      "artists": [
+        {
+          "name": "Raimonds Pauls",
+          "url": "https://open.spotify.com/artist/01pSsqt7FLdq2SC6UqjER3"
+        },
+        {
+          "name": "Nora Bumbiere",
+          "url": "https://open.spotify.com/artist/4CYZRz0HWS20cTgIhD8Vy0"
+        },
+        {
+          "name": "Viktors Lap\u010denoks",
+          "url": "https://open.spotify.com/artist/3PaCz9DDjeSdse2rSFttko"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167600,
+      "name": "Laternu Stund\u0101",
+      "url": "https://open.spotify.com/track/4qckh0OAI09cpMhgHC1XYi"
+    },
+    {
+      "album": {
+        "name": "Spe\u010duks",
+        "url": "https://open.spotify.com/album/4h5lXP1Ic5YMuWbpeYAVX3"
+      },
+      "artists": [
+        {
+          "name": "Ko\u013ca",
+          "url": "https://open.spotify.com/artist/7LflKlYjv6xJZLQ3PtMLrq"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201293,
+      "name": "Lauku idille",
+      "url": "https://open.spotify.com/track/0SxJvU1lz6oXMRo2frd9uP"
     },
     {
       "album": {
@@ -23150,7 +23266,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 254973,
       "name": "Lilioma dziesma",
       "url": "https://open.spotify.com/track/3GuvLTH6JldBP7Ctk1B82Q"
@@ -23856,7 +23972,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -24460,6 +24576,24 @@
       "duration_ms": 123586,
       "name": "L\u012bgo dziesma",
       "url": "https://open.spotify.com/track/4DniNC95DB6EU1DoTRr5v4"
+    },
+    {
+      "album": {
+        "name": "Liel\u0101 L\u012bgo izlase",
+        "url": "https://open.spotify.com/album/4M8SvFWidTN7uTp9mtKqa6"
+      },
+      "artists": [
+        {
+          "name": "Kantoris 04",
+          "url": "https://open.spotify.com/artist/0dd5dVNLB3inxBkgobuFd6"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144990,
+      "name": "L\u012bgos Latvij\u0101",
+      "url": "https://open.spotify.com/track/1dgG6RxLUh2xzPCamjKnFc"
     },
     {
       "album": {
@@ -25796,7 +25930,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 238426,
       "name": "Meitene, Zeltene - Bonus track, 1994",
       "url": "https://open.spotify.com/track/3xTH6HCLRY52ey85hGj9KK"
@@ -27890,7 +28024,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 217466,
       "name": "M\u016bsu Limuz\u012bns",
       "url": "https://open.spotify.com/track/3NCyLyOfyNXFweZkCkjSjD"
@@ -28166,7 +28300,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 212880,
       "name": "Nauk\u0161\u0113nu Disko",
       "url": "https://open.spotify.com/track/3ujJ6h5ElONBUw4vPJj3o4"
@@ -29206,7 +29340,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 90067,
       "name": "Nope your too late i already died",
       "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
@@ -30420,7 +30554,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -31596,7 +31730,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 204933,
       "name": "Pasaule, Pasaul\u012bt",
       "url": "https://open.spotify.com/track/0VF7QXytxKEoSP6o7DNiZh"
@@ -31934,6 +32068,32 @@
       "duration_ms": 141373,
       "name": "PHONKY TOWN",
       "url": "https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW"
+    },
+    {
+      "album": {
+        "name": "Aktieru Balle, Vol.1",
+        "url": "https://open.spotify.com/album/5xx5P72i528lT0elCqoKlN"
+      },
+      "artists": [
+        {
+          "name": "Harijs Spanovskis",
+          "url": "https://open.spotify.com/artist/4L737cB0IsQOCf7EkesAIy"
+        },
+        {
+          "name": "J\u0101nis Pauk\u0161tello",
+          "url": "https://open.spotify.com/artist/0hkraaVyVR1KpCmYhn3yVg"
+        },
+        {
+          "name": "Pa\u017earnieku P\u016bt\u0113ju Or\u0137estris",
+          "url": "https://open.spotify.com/artist/6wiidcrNQRSzP6zVBXkqHt"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236826,
+      "name": "Pie Dzintara J\u016bras",
+      "url": "https://open.spotify.com/track/179fUdN62MySa2h92KqNfF"
     },
     {
       "album": {
@@ -32386,7 +32546,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 241258,
       "name": "Plan\u0113ta: Pritons",
       "url": "https://open.spotify.com/track/5SmpCD8NJSFnJa6NeAl88J"
@@ -32524,7 +32684,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 153028,
       "name": "Pl\u0101ksteris",
       "url": "https://open.spotify.com/track/1oGmFrMqitiA38yJZnvWin"
@@ -33432,7 +33592,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 206032,
       "name": "P\u0101ri Oke\u0101nam (feat. J\u0101nis Kr\u016bmi\u0146\u0161)",
       "url": "https://open.spotify.com/track/57sTCFCVOHwG2hsXWUYv6l"
@@ -33530,7 +33690,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 190746,
       "name": "P\u012br\u0101dzi\u0146' N\u0101c \u0100r\u0101!",
       "url": "https://open.spotify.com/track/4oi2ErWblGp70MVNO9c3Sn"
@@ -33638,7 +33798,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 665653,
       "name": "R. Paula Dziesmu Pop\u016brijs",
       "url": "https://open.spotify.com/track/6R1tJJ8QpnN1wGjVlqShAI"
@@ -33728,7 +33888,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 190100,
       "name": "Raganu Nakts",
       "url": "https://open.spotify.com/track/1goKool6enlNDiX7ruBmT6"
@@ -34654,7 +34814,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -34838,7 +34998,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 172280,
       "name": "Roku Oke\u0101ns",
       "url": "https://open.spotify.com/track/7qfisxNvTUxlD6mvrw8673"
@@ -37156,7 +37316,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
@@ -37548,7 +37708,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 302053,
       "name": "Sitiet bungas, mani m\u012b\u013cie",
       "url": "https://open.spotify.com/track/5DF2gQpe0PweM3JJlDfUlL"
@@ -40553,24 +40713,6 @@
     },
     {
       "album": {
-        "name": "Lai skan L\u012bgo!",
-        "url": "https://open.spotify.com/album/0l636pkMHMN5BEy7XwI6aJ"
-      },
-      "artists": [
-        {
-          "name": "Inese",
-          "url": "https://open.spotify.com/artist/2hQ1A0Zv7Gh6sCZh1aqqrr"
-        }
-      ],
-      "date_added": "2024-06-24",
-      "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
-      "duration_ms": 234960,
-      "name": "S\u030cai Ja\u0304n\u0327u vakara\u0304",
-      "url": "https://open.spotify.com/track/5NEUf58N1J0F5YcbOg7z2F"
-    },
-    {
-      "album": {
         "name": "Par to z\u0113nu, kas sit sk\u0101rda bungas",
         "url": "https://open.spotify.com/album/277YZ9Au7DyEEqBgKChIct"
       },
@@ -41758,7 +41900,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 233229,
       "name": "The Days - NOTION Remix",
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
@@ -43730,7 +43872,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 221026,
       "name": "Tr\u012bs Lietas",
       "url": "https://open.spotify.com/track/4RaOteBi2Tk3SFBDrQJvoA"
@@ -44329,6 +44471,28 @@
     },
     {
       "album": {
+        "name": "J\u0101\u0146u nakts ball\u012bte",
+        "url": "https://open.spotify.com/album/39OOgeFeMEQzhxcRIDxoaI"
+      },
+      "artists": [
+        {
+          "name": "Raimonds Pauls",
+          "url": "https://open.spotify.com/artist/01pSsqt7FLdq2SC6UqjER3"
+        },
+        {
+          "name": "Koris",
+          "url": "https://open.spotify.com/artist/3shMUz9TYx29PQUjhsgwES"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320400,
+      "name": "T\u0101 es tevi m\u012bl\u0113\u0161u",
+      "url": "https://open.spotify.com/track/7ueu4dRgkC7ufv5pOT9Khl"
+    },
+    {
+      "album": {
         "name": "Tavai Zin\u0101\u0161anai Man Viss ir Labi",
         "url": "https://open.spotify.com/album/0VoGxtGqSl4N6nUmrZQL0t"
       },
@@ -44562,7 +44726,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
@@ -44852,10 +45016,32 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 204255,
       "name": "Uz Seen",
       "url": "https://open.spotify.com/track/3HsWEpUnpzEITFJnbTyLTM"
+    },
+    {
+      "album": {
+        "name": "Aktu\u0101k\u0101s L\u012bgo zi\u0146\u0123es",
+        "url": "https://open.spotify.com/album/3Ondilq7p37NvuzB732YTP"
+      },
+      "artists": [
+        {
+          "name": "Ugun\u012bg\u0101 Gunta",
+          "url": "https://open.spotify.com/artist/2OAWOMZ2ufDX3Tawi5Yyjf"
+        },
+        {
+          "name": "Negantais Porgants",
+          "url": "https://open.spotify.com/artist/6vxGnr1cVoeKnQvHUoA80H"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255293,
+      "name": "Uzdzied\u0101sim J\u0101\u0146u dziesmas",
+      "url": "https://open.spotify.com/track/0nxDeDneAIlTW2L96eVLkE"
     },
     {
       "album": {
@@ -44982,7 +45168,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 186825,
       "name": "Vasara bez internetiem",
       "url": "https://open.spotify.com/track/3maYYnfz7XjjUvI9uwWLVv"
@@ -45602,7 +45788,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 264545,
       "name": "V\u0113lvienreiz",
       "url": "https://open.spotify.com/track/5DzO7UTlmA6O6J0GLsTxGy"
@@ -46122,7 +46308,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 267373,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"
@@ -47915,6 +48101,24 @@
     },
     {
       "album": {
+        "name": "L\u012bgo dziesmas Jaun\u0101s ska\u0146\u0101s 10",
+        "url": "https://open.spotify.com/album/22fJ7qRvAfmvhcX6bU5N2v"
+      },
+      "artists": [
+        {
+          "name": "Ko\u013ca",
+          "url": "https://open.spotify.com/artist/7LflKlYjv6xJZLQ3PtMLrq"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235760,
+      "name": "Za\u013cumball\u0113",
+      "url": "https://open.spotify.com/track/1TtaVzn2TTzqENAdWvZGW0"
+    },
+    {
+      "album": {
         "name": "Labu Vakar - Klus\u0101 Daba Ar Perspekt\u012bvu",
         "url": "https://open.spotify.com/album/4ynyqPXGKQEgUhYKTeYgNu"
       },
@@ -48006,7 +48210,7 @@
       ],
       "date_added": "2021-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 182796,
       "name": "Zemes stunda",
       "url": "https://open.spotify.com/track/6XUfSHZjqEaFNDeyxcYRi4"
@@ -48406,6 +48610,24 @@
       "duration_ms": 245733,
       "name": "\u0122enoveva",
       "url": "https://open.spotify.com/track/4ZZb9HmlvxqjTQXgCEuwGz"
+    },
+    {
+      "album": {
+        "name": "Lai skan L\u012bgo!",
+        "url": "https://open.spotify.com/album/0l636pkMHMN5BEy7XwI6aJ"
+      },
+      "artists": [
+        {
+          "name": "Inese",
+          "url": "https://open.spotify.com/artist/2hQ1A0Zv7Gh6sCZh1aqqrr"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234960,
+      "name": "\u0160ai J\u0101\u0146u vakar\u0101",
+      "url": "https://open.spotify.com/track/5NEUf58N1J0F5YcbOg7z2F"
     },
     {
       "album": {

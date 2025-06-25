@@ -62,6 +62,6 @@
 | [Wednesday Morning, 3 A.M.](https://open.spotify.com/track/6XlcraQqLY6wGnXpoVeoko) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 2:13 | 2022-09-16 |  |
 | [You Don't Know Where Your Interest Lies \- Single B\-Side \- 1968](https://open.spotify.com/track/0umD849rktmP7fcXCSukYk) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends](https://open.spotify.com/album/3m1Gr5BQXhKZKf2yV7h2nl) | 2:18 | 2022-09-16 |  |
 | [冬の散歩道](https://open.spotify.com/track/2wzNy58nAwmBvqMsiCcvdb) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [ベスト・セレクション vol.3](https://open.spotify.com/album/29IDW0VGSjNn4OTNKvSiZx) | 2:20 | 2022-09-24 | 2025-01-08 |
-| [４月になれば彼女は](https://open.spotify.com/track/5hqXK8hP4crpL6c2m0Z07Z) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [ビッグ・アーティスト・アルバム サイモン＆ガーファンクル](https://open.spotify.com/album/3mD7HfA1y3j34SYNO8LJQs) | 1:52 | 2025-06-01 |  |
+| [４月になれば彼女は](https://open.spotify.com/track/5hqXK8hP4crpL6c2m0Z07Z) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [ビッグ・アーティスト・アルバム サイモン＆ガーファンクル](https://open.spotify.com/album/3mD7HfA1y3j34SYNO8LJQs) | 1:52 | 2025-06-01 | 2025-06-25 |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

@@ -851,6 +851,28 @@
     },
     {
       "album": {
+        "name": "A Tu Manera",
+        "url": "https://open.spotify.com/album/2StLvH80masSd4Y4ZK3NP5"
+      },
+      "artists": [
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158833,
+      "name": "A Tu Manera",
+      "url": "https://open.spotify.com/track/3SOPWx87eWyKGJ68V08zZu"
+    },
+    {
+      "album": {
         "name": "YHLQMDLG",
         "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
@@ -5208,7 +5230,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 151442,
       "name": "Conmigo Se Escapa",
       "url": "https://open.spotify.com/track/2U48v71nIFHBxdKsih8r4P"
@@ -6288,7 +6310,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 170024,
       "name": "Del Lune Al Finde",
       "url": "https://open.spotify.com/track/6lJnhXe8K2NStF39a1ZORe"
@@ -6904,7 +6926,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-23",
+      "date_removed": null,
       "duration_ms": 187508,
       "name": "Dile Luna",
       "url": "https://open.spotify.com/track/4n0JnrS5az8qhhQRuofBfo"
@@ -11280,7 +11302,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-23",
+      "date_removed": null,
       "duration_ms": 222458,
       "name": "Ivonny Bonita",
       "url": "https://open.spotify.com/track/6Sv0CzVqzydd7NYQgAG70c"
@@ -25068,7 +25090,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 176129,
       "name": "Te Quer\u00eda Ver",
       "url": "https://open.spotify.com/track/2JPctdUgvkQSpnUdfROxvY"

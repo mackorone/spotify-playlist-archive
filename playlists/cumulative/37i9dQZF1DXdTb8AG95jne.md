@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Zior Park\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-977 songs - 2 day 11 hr 28 min
+979 songs - 2 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [crazy](https://open.spotify.com/track/0MBxvzlUueNHCDwtpwCR4X) | [yooji](https://open.spotify.com/artist/5Spf1uhWdc2CW3fWhZDegU) | [crazy](https://open.spotify.com/album/43QP0dljUrFHbFF3ashcZ0) | 2:38 | 2024-09-04 | 2024-09-11 |
 | [Cream Dream](https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj) | [Trophy Cat](https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK) | [Cream Dream](https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj) | 3:16 | 2021-12-21 | 2022-07-25 |
 | [Cry For Me](https://open.spotify.com/track/2y1SIAGlhU7qgwaYJ3nHP4) | [jaegyeong Lee](https://open.spotify.com/artist/2Ix3jdtgamaZbYPfk8A4e1) | [Cry For Me](https://open.spotify.com/album/0lN99kXjTbq6mUgmT2Agnr) | 3:20 | 2024-11-20 | 2024-12-11 |
+| [Cry or Sway](https://open.spotify.com/track/2ziVXEkhQdzQFSB0w8078k) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [Cry or Sway](https://open.spotify.com/album/3zaqQrqOhFBkUk44dHl7Ya) | 3:51 | 2025-06-24 |  |
 | [Crystal Trees](https://open.spotify.com/track/52XWDiWgJZsDea3mvYyQVl) | [U\-Turn](https://open.spotify.com/artist/4mhu5X1P8QV77uRvOm9Oj0) | [Crystal Trees](https://open.spotify.com/album/2FLy8XWsPbZ6NLF3YbzIao) | 3:23 | 2022-04-12 | 2022-04-14 |
 | [Cue Sign](https://open.spotify.com/track/4cBiqsGxRNpIE02zfMdhNf) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [Cue Sign](https://open.spotify.com/album/4VWFmbeJULZek7Pmyg0bTO) | 3:36 | 2023-02-28 | 2023-03-28 |
 | [D\-Day](https://open.spotify.com/track/0arhh9A3nyVqqDpO9JdCsn) | [Myown](https://open.spotify.com/artist/7of09TKKRNNpeibUdbHOOJ) | [D\-Day](https://open.spotify.com/album/3bMwgq9idZBnl3OLadyID6) | 3:30 | 2022-03-31 | 2022-04-15 |
@@ -365,7 +366,7 @@
 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 | 2022-05-11 | 2024-11-07 |
 | [Hug me tight](https://open.spotify.com/track/2DM7WqaeAdXGjuXIFejZNK) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [Hug me tight](https://open.spotify.com/album/4SsSzJ8ApOuMh4OOTbP9Bi) | 3:00 | 2025-01-22 | 2025-04-11 |
 | [Humming For Sunset](https://open.spotify.com/track/0aASmPgngno02hD1hQ1IeE) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [Humming For Sunset](https://open.spotify.com/album/38muvzltBhfYQEWr1bwq7V) | 4:33 | 2024-09-13 | 2024-10-19 |
-| [Hunting](https://open.spotify.com/track/6d6YI0cNTUjq0ojDurXKjD) | [HwA](https://open.spotify.com/artist/0K4py26mnJcM40LhIy5g8q) | [Hunting](https://open.spotify.com/album/7KHSdoq1Z6g462JkEGyJIg) | 3:00 | 2025-06-19 |  |
+| [Hunting](https://open.spotify.com/track/6d6YI0cNTUjq0ojDurXKjD) | [HwA](https://open.spotify.com/artist/0K4py26mnJcM40LhIy5g8q) | [Hunting](https://open.spotify.com/album/7KHSdoq1Z6g462JkEGyJIg) | 3:00 | 2025-06-19 | 2025-06-25 |
 | [Hwi Hwi](https://open.spotify.com/track/1vx1TTe2ZZEkcGDXxpZrD1) | [HAYAN](https://open.spotify.com/artist/4qAzYmM90kRO5IX9MUhQjf) | [Hwi Hwi](https://open.spotify.com/album/2rPbOfaFDrb6WwzvLS98i6) | 3:10 | 2022-03-31 | 2022-04-16 |
 | [i](https://open.spotify.com/track/4h9jlv3tO0gm0i1mQ7o6hZ) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [i](https://open.spotify.com/album/4bXJUWoEn4L5fk0hwE0BPD) | 2:40 | 2022-05-02 | 2022-07-29 |
 | [I am a Church.](https://open.spotify.com/track/3bcpltXdn1akCRZgDZIz0x) | [정세미](https://open.spotify.com/artist/2PlDWR4wokgOg5S5jhdh4Y) | [I am a Church.](https://open.spotify.com/album/47lVmpjFQlYyIYoHM17A4y) | 6:02 | 2022-03-09 | 2022-04-20 |
@@ -664,7 +665,7 @@
 | [red moon](https://open.spotify.com/track/7000j12fd01Z1ITmTZLqPZ) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [red moon](https://open.spotify.com/album/7APF2jKLoT8nUp8hUnq1eq) | 4:18 | 2022-12-06 | 2023-01-05 |
 | [Red Shadow](https://open.spotify.com/track/2sz5VZfkWaq9z1jv7ACpgD) | [deadpaints](https://open.spotify.com/artist/6J9uyUQkWxDxvfNiwdwYhh) | [Mirrored Dream](https://open.spotify.com/album/4r9YoQ5dGcIBcpgPVmxk5n) | 3:58 | 2024-05-08 | 2024-05-10 |
 | [Regret of sigh](https://open.spotify.com/track/3MrEZH39g8BiIAkFo3FkQj) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [The Quest for Anxiety](https://open.spotify.com/album/1Jdr1Jz2MlBSrxavzxjEmy) | 4:21 | 2021-12-12 | 2022-05-16 |
-| [Remember!](https://open.spotify.com/track/0sQ7Ej7deFPs7dQeScxVgZ) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Remember!](https://open.spotify.com/album/11EGNnLOAlNLUXysHvuH2t) | 3:32 | 2025-06-20 |  |
+| [Remember!](https://open.spotify.com/track/0sQ7Ej7deFPs7dQeScxVgZ) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Remember!](https://open.spotify.com/album/11EGNnLOAlNLUXysHvuH2t) | 3:32 | 2025-06-20 | 2025-06-25 |
 | [Remembering](https://open.spotify.com/track/3hEYaDGvni3dZ8E2tZ4Hug) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Remembering](https://open.spotify.com/album/4xZnp0byuBiJzFiYUbOaCr) | 4:00 | 2025-01-09 | 2025-03-22 |
 | [Reminiscence](https://open.spotify.com/track/0dGJsHDjZiQBCpAoKf9XAR) | [Rolling Quartz](https://open.spotify.com/artist/5mVYT7sPm3xsNMrA8YWONe) | [Sanullim 50th Anniversary full length album, Vol\. 1](https://open.spotify.com/album/544JzJsgzf1hNIygvWN26P) | 3:59 | 2024-10-04 | 2024-10-16 |
 | [reminiscence](https://open.spotify.com/track/2KAtg9W0pKiJh94jaQ5jDT) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [reminiscence](https://open.spotify.com/album/472g6HVeObaEweJ5RyNRtX) | 4:52 | 2021-12-21 | 2022-05-19 |
@@ -786,6 +787,7 @@
 | [SUM](https://open.spotify.com/track/6iTCFixFJ4MVUSrBMfxUIU) | [위댄스 Wedance](https://open.spotify.com/artist/70GGUtoiE6D1EAgpsbntuG) | [SUM](https://open.spotify.com/album/7vVvr1XSdm4D0YKF7krPvf) | 5:24 | 2023-07-17 | 2023-07-28 |
 | [Summer](https://open.spotify.com/track/6wcsMzquKNG2hsfDPjX5Cp) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Summer](https://open.spotify.com/album/3CuJaVDNEUI9zxc94tD2K0) | 3:01 | 2023-03-28 | 2023-08-17 |
 | [Summer breeze](https://open.spotify.com/track/5C8xuGNeqqTCJ4cw9jx6Mh) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z), [colin](https://open.spotify.com/artist/23ILHWqZRWApKJZMSCEdty) | [Summer breeze](https://open.spotify.com/album/3V9CszsycSsdW58DzAIOk0) | 2:57 | 2025-05-21 | 2025-06-10 |
+| [summer youth](https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [summer youth](https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB) | 3:37 | 2025-06-24 |  |
 | [Sunset Memories \(Feat\. Kayla\)](https://open.spotify.com/track/0FBPTDfNG4uQX6Ysx8ZKEX) | [ZASMIIN](https://open.spotify.com/artist/0RjRLXt3YDQS3VWpqO7wB3), [Kayla](https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi) | [Sunset Memories \(Feat\. Kayla\)](https://open.spotify.com/album/3BFSGN4NiChDGcZ7hEj5RS) | 3:44 | 2022-05-02 | 2022-05-26 |
 | [SUNspot](https://open.spotify.com/track/5k67kGeFPOr0VL23qRs4MO) | [Im DAI](https://open.spotify.com/artist/09wVtuZNFaYTjO4bDX8fKE) | [SUNspot](https://open.spotify.com/album/03xOGiHfyAGuem3wwaZx9h) | 3:02 | 2024-04-30 | 2024-05-10 |
 | [Supernova](https://open.spotify.com/track/5tR3DtTssLjT2pXuqeXopL) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [The Beginning](https://open.spotify.com/album/7vy3zY5P2Rht3IndB78A3H) | 3:58 | 2021-12-21 | 2022-07-01 |

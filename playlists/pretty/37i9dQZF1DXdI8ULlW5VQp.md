@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Sueña lindo, corazón..\. 💖✨ Kirnbauer en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,174 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,187 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 17 | [Odio Odiarme](https://open.spotify.com/track/3KACg25zaLJqra1gvIRLwX) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Odio Odiarme](https://open.spotify.com/album/7aTXNvIk94LtvPOVJq0Fbq) | 2:06 |
 | 18 | [Pinceles](https://open.spotify.com/track/1esQcf1nmd91BZlGm576fz) | [Javi Medina](https://open.spotify.com/artist/6dwFgF51JkLBz93ocNJ0Ol), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pinceles](https://open.spotify.com/album/7McG5klQmerZ48pwuNt3Yv) | 3:02 |
 | 19 | [valor de más \- \(extraído de LA NUBE EN EL JARDÍN\)](https://open.spotify.com/track/7JMDN7Uq1RTTWVp6m54zL0) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [valor de más \(extraído de LA NUBE EN EL JARDÍN\)](https://open.spotify.com/album/5nffADsIz5z4BZ5CpuhkeV) | 4:13 |
-| 20 | [El Palomo y La Negra](https://open.spotify.com/track/6tT1ZVzGKkwgqGSXKlLD5K) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Cancionera](https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu) | 7:00 |
-| 21 | [Las Escondidas](https://open.spotify.com/track/6W3kwy6UDG59AkuwMm80Nm) | [Andrés Obregón](https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve) | [Las Escondidas](https://open.spotify.com/album/6lRfxWDjDqwTRYS4Yb5q3S) | 3:02 |
+| 20 | [Las Escondidas](https://open.spotify.com/track/6W3kwy6UDG59AkuwMm80Nm) | [Andrés Obregón](https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve) | [Las Escondidas](https://open.spotify.com/album/6lRfxWDjDqwTRYS4Yb5q3S) | 3:02 |
+| 21 | [El Palomo y La Negra](https://open.spotify.com/track/6tT1ZVzGKkwgqGSXKlLD5K) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Cancionera](https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu) | 7:00 |
 | 22 | [Ojos De Ajonjolí](https://open.spotify.com/track/4rwTCcE1Rh1xFgC1mORvLg) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Ojos De Ajonjolí](https://open.spotify.com/album/71Rt64ZyeOHkrbbfePG663) | 2:38 |
 | 23 | [UNA CANCIÓN BONITA](https://open.spotify.com/track/4F61wQFYLXKdqwSSIJYEzA) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [UNA CANCIÓN BONITA](https://open.spotify.com/album/4XCODwqJvEuDL9H3VIPmBD) | 2:38 |
 | 24 | [Pastillas Pa Dormir](https://open.spotify.com/track/4q0nJgk3gCtBZInE3UNWuE) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Pastillas Pa Dormir](https://open.spotify.com/album/5eSkjglgh218yOdKOyKU9r) | 3:05 |
@@ -65,11 +65,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 55 | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV) | 3:46 |
 | 56 | [Sonora](https://open.spotify.com/track/6chfN5Qo4Z9dfuSHxxKSDM) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sonora](https://open.spotify.com/album/7vPsHR8Mut9AcfpK0PzrhW) | 3:27 |
 | 57 | [Ya Valió](https://open.spotify.com/track/51k1zxWIXXgmsRVBsV3Z5l) | [Tony Mils](https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt) | [Escribí Esto para Ti](https://open.spotify.com/album/4IpZUUYdYuMDHQvm4AzA0K) | 3:00 |
-| 58 | [desahogo](https://open.spotify.com/track/3LFfaAcLmpoXq4b2LyoHbi) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [desahogo](https://open.spotify.com/album/4qMIX5BH9SYhFfYlfkt2ZJ) | 3:09 |
-| 59 | [Lo Mejor](https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Lo Mejor](https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI) | 3:05 |
-| 60 | [Necios](https://open.spotify.com/track/4yrizFXoIRJQ94QQKiJqIx) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj) | 2:42 |
-| 61 | [Ké MaL \- versión tierna](https://open.spotify.com/track/4j1gnPCFutZxNh9oZWCLA3) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL \(versión tierna\)](https://open.spotify.com/album/36XM3kja0ssZwO5UIEiIrt) | 4:17 |
-| 62 | [Juego De Feria](https://open.spotify.com/track/5tVNRjHFayBzyOPSpUniDF) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Juego De Feria](https://open.spotify.com/album/4mFw8K0Ts3T6yQourMWESD) | 2:37 |
+| 58 | [Lo Mejor](https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Lo Mejor](https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI) | 3:05 |
+| 59 | [desahogo](https://open.spotify.com/track/3LFfaAcLmpoXq4b2LyoHbi) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [desahogo](https://open.spotify.com/album/4qMIX5BH9SYhFfYlfkt2ZJ) | 3:09 |
+| 60 | [Juego De Feria](https://open.spotify.com/track/5tVNRjHFayBzyOPSpUniDF) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Juego De Feria](https://open.spotify.com/album/4mFw8K0Ts3T6yQourMWESD) | 2:37 |
+| 61 | [Necios](https://open.spotify.com/track/4yrizFXoIRJQ94QQKiJqIx) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj) | 2:42 |
+| 62 | [Ké MaL \- versión tierna](https://open.spotify.com/track/4j1gnPCFutZxNh9oZWCLA3) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL \(versión tierna\)](https://open.spotify.com/album/36XM3kja0ssZwO5UIEiIrt) | 4:17 |
 | 63 | [Mantenme pendiente](https://open.spotify.com/track/1i2Rm2W5zoLN4ic5WUQDrn) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Mantenme pendiente](https://open.spotify.com/album/56LYIMOKqLka6eeM2orEEZ) | 4:24 |
 | 64 | [Qué Suerte](https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Qué Suerte](https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6) | 2:45 |
 | 65 | [Buenos Aires](https://open.spotify.com/track/0rpDCKxlhQYbUbGVPi6JZL) | [Tony Mils](https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt) | [Buenos Aires](https://open.spotify.com/album/2yVinEvqFnj39CdY8oRDl7) | 2:48 |

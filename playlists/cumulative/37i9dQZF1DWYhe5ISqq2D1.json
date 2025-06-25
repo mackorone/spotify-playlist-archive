@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u305f\u3063\u305f\u72ec\u308a\u3067\u30e1\u30ed\u30c7\u30a3\u30fc\u3068\u8a00\u8449\u3092\u7d21\u3050\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3002Cover: Tani Yuuki",
+  "description": "\u305f\u3063\u305f\u72ec\u308a\u3067\u30e1\u30ed\u30c7\u30a3\u30fc\u3068\u8a00\u8449\u3092\u7d21\u3050\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3002Cover: Tele",
   "name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "tracks": [
     {
@@ -344,7 +344,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 209402,
       "name": "Angel",
       "url": "https://open.spotify.com/track/191F1vd7Gk40CiiS4QIccM"
@@ -744,6 +744,24 @@
       "duration_ms": 205000,
       "name": "BYEMYLOVER",
       "url": "https://open.spotify.com/track/62wvTxDYOaEXMkCJl7V3Wb"
+    },
+    {
+      "album": {
+        "name": "BUMSMONK",
+        "url": "https://open.spotify.com/album/3MQ8s0sKyVpmz7Y1jTpC4P"
+      },
+      "artists": [
+        {
+          "name": "Akiyama ritsuki",
+          "url": "https://open.spotify.com/artist/7Lb20kUMIBtHb0dqfR7vB9"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143405,
+      "name": "byo-ki",
+      "url": "https://open.spotify.com/track/5mwHhhlW7gAmvQV9ok1ZrQ"
     },
     {
       "album": {
@@ -1323,6 +1341,36 @@
     },
     {
       "album": {
+        "name": "Fake",
+        "url": "https://open.spotify.com/album/2slWK5pRETk85Y0OJrSFWl"
+      },
+      "artists": [
+        {
+          "name": "\u30cb\u30bb \u660e",
+          "url": "https://open.spotify.com/artist/58U158L5GKGbo0pCwKUNWI"
+        },
+        {
+          "name": "\u30a6\u30bd\u30ce\u6674\u81e3",
+          "url": "https://open.spotify.com/artist/3ZToXzItb43mfxu0bHQalB"
+        },
+        {
+          "name": "\u96c5\u30de\u30e2\u30eb",
+          "url": "https://open.spotify.com/artist/2WuvmyELGPX30kBAiWWUgH"
+        },
+        {
+          "name": "\u4e0a\u767d\u77f3\u307e\u306d",
+          "url": "https://open.spotify.com/artist/7xTPim6AHguco645YIe4XC"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273199,
+      "name": "Fake (feat. \u30a6\u30bd\u30ce\u6674\u81e3, \u96c5\u30de\u30e2\u30eb, \u4e0a\u767d\u77f3\u307e\u306d)",
+      "url": "https://open.spotify.com/track/5CwZsG2oudRaqfBwT3iN6T"
+    },
+    {
+      "album": {
         "name": "Fall in love with love",
         "url": "https://open.spotify.com/album/1XUl7BM0u5llngq8K5D8ky"
       },
@@ -1572,7 +1620,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 204000,
       "name": "GAME OVER",
       "url": "https://open.spotify.com/track/7yEJfMKZeUG5tTMUONJAWU"
@@ -2026,7 +2074,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 185014,
       "name": "HERO",
       "url": "https://open.spotify.com/track/1xEz97uNfTvcRr0biZz1pb"
@@ -3421,6 +3469,24 @@
     },
     {
       "album": {
+        "name": "Nerd",
+        "url": "https://open.spotify.com/album/3tv0cOXvWrXyDoVRwFHHP9"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209749,
+      "name": "Nerd",
+      "url": "https://open.spotify.com/track/58enSgNcXIbpVlMZvgojOw"
+    },
+    {
+      "album": {
         "name": "Neverland",
         "url": "https://open.spotify.com/album/5esdjxqilznu13mS3K1Fta"
       },
@@ -3890,7 +3956,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 159952,
       "name": "Pineapple Rock",
       "url": "https://open.spotify.com/track/3Fks5VtxTq7j0GF2RpzzGL"
@@ -4290,7 +4356,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 193750,
       "name": "Safe",
       "url": "https://open.spotify.com/track/4DrqMCjbgOBgp3lIqpzslR"
@@ -4330,6 +4396,24 @@
       "duration_ms": 204999,
       "name": "Sayonara",
       "url": "https://open.spotify.com/track/1nLJHOttOoUBBQSsi3eXTH"
+    },
+    {
+      "album": {
+        "name": "Gen",
+        "url": "https://open.spotify.com/album/1s9TxbeBWAbz939OHhl3ch"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204999,
+      "name": "Sayonara",
+      "url": "https://open.spotify.com/track/7asq1uhwGEeeljOGQbgDEl"
     },
     {
       "album": {
@@ -4776,7 +4860,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 168571,
       "name": "Summer Love",
       "url": "https://open.spotify.com/track/0ny48ucaT7xrXu8Ne1wKnS"
@@ -5395,6 +5479,24 @@
     },
     {
       "album": {
+        "name": "White Grave",
+        "url": "https://open.spotify.com/album/5N7PtLVsMbgtVqylVJvuNI"
+      },
+      "artists": [
+        {
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219823,
+      "name": "White Grave",
+      "url": "https://open.spotify.com/track/5QGIxFKbve0bRQjPQsAHhT"
+    },
+    {
+      "album": {
         "name": "Early Project 2",
         "url": "https://open.spotify.com/album/2CzsbvZlEQ4XcoTc2kbZds"
       },
@@ -5832,7 +5934,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 217533,
       "name": "\u3042\u304a\u305e\u3089",
       "url": "https://open.spotify.com/track/1FHzYL2E455izjRmCoAGDI"
@@ -7378,7 +7480,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 191666,
       "name": "\u30ab\u30b2\u30ed\u30a6",
       "url": "https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH"
@@ -8296,7 +8398,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 237000,
       "name": "\u30d5\u30a9\u30fc\u30b2\u30c3\u30c8\u30d0\u30fc\u30b9\u30c7\u30fc",
       "url": "https://open.spotify.com/track/3Q8wbSyUf2KqvmSeSPnT4O"
@@ -10133,6 +10235,24 @@
     },
     {
       "album": {
+        "name": "\u5b64\u72ec\u3068\u6d77",
+        "url": "https://open.spotify.com/album/7krLTOXFlOEmoFEUYK8B3u"
+      },
+      "artists": [
+        {
+          "name": "\u30e4\u30b9\u30a8\u3067\u3093\u3058\u3083\u3089\u3059\u304a\u3058\u3055\u3093",
+          "url": "https://open.spotify.com/artist/6lp8w0tjywJNjT6GUWf7m1"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218435,
+      "name": "\u5b64\u72ec\u3068\u6d77",
+      "url": "https://open.spotify.com/track/2DErHJwf8vLOk0k240XQxi"
+    },
+    {
+      "album": {
         "name": "\u5b8c\u74a7\u306a\u4e8c\u4eba\u3002",
         "url": "https://open.spotify.com/album/0sb9NUT39xYPQqJyqXBSmt"
       },
@@ -11609,6 +11729,24 @@
     },
     {
       "album": {
+        "name": "\u785d\u5b50\u306e\u7dda",
+        "url": "https://open.spotify.com/album/0n4ltZwQnNA4rVtnInnJPq"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256428,
+      "name": "\u785d\u5b50\u306e\u7dda",
+      "url": "https://open.spotify.com/track/1h8hSEfuhRy9fw7uFfFsD0"
+    },
+    {
+      "album": {
         "name": "\u795d\u798f",
         "url": "https://open.spotify.com/album/64dqnbWFC9GnDNHqTMEnHm"
       },
@@ -12329,6 +12467,24 @@
     },
     {
       "album": {
+        "name": "\u9003\u907f\u884c",
+        "url": "https://open.spotify.com/album/56lVtGjYCBDikSA15WXCSk"
+      },
+      "artists": [
+        {
+          "name": "\u304c\u3089\u308a",
+          "url": "https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213571,
+      "name": "\u9003\u907f\u884c",
+      "url": "https://open.spotify.com/track/2fJQvVtZDlLZ3kS9Tdbw1x"
+    },
+    {
+      "album": {
         "name": "\u9006\u3089\u3046\u7fbd",
         "url": "https://open.spotify.com/album/7lGyp88PLnR60gw7HHOkSU"
       },
@@ -12438,6 +12594,24 @@
       "duration_ms": 253036,
       "name": "\u96e8\u3067\u3082\u82b1\u706b\u306b\u884c\u3053\u3046\u3088",
       "url": "https://open.spotify.com/track/32cy2AnoPtnt7VVMJoTe1o"
+    },
+    {
+      "album": {
+        "name": "\u96e8\u306b\u6253\u305f\u308c\u3066",
+        "url": "https://open.spotify.com/album/7FnpL2blQQRVKEIiY8gC7c"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198833,
+      "name": "\u96e8\u306b\u6253\u305f\u308c\u3066",
+      "url": "https://open.spotify.com/track/55HMKYZOKMYc58naFdvCMc"
     },
     {
       "album": {

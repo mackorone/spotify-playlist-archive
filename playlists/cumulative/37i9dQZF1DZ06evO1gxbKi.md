@@ -4,7 +4,7 @@
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-151 songs - 7 hr 32 min
+152 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Beams Of Heaven](https://open.spotify.com/track/4NuXIH3TvC2RehKx5SoxYT) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 3:24 | 2022-05-26 |  |
 | [Bells Of St\. Mary's](https://open.spotify.com/track/611n0U5H1a1KW9fyDlJGja) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 4](https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5) | 2:22 | 2022-05-25 | 2025-02-17 |
 | [Blessed Assurance](https://open.spotify.com/track/078IX8fLu9cRunf9urGp7Q) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [The Rosettes](https://open.spotify.com/artist/41AAQ12p0hQJzH0ze5ANVD) | [Blessed Assurance \(Expanded Edition\)](https://open.spotify.com/album/0uwIyZoW8IFjkQzdSjllQc) | 3:00 | 2022-05-28 | 2025-02-07 |
+| [Blow Ye The Trumpet In Zion](https://open.spotify.com/track/5JsBbXQT8IHxVJDrYcC7Vw) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Spirituals In Rhythm](https://open.spotify.com/album/0m04XubMVnvu8oKgGSgTT9) | 2:15 | 2025-06-25 |  |
 | [Bring Back Those Happy Days](https://open.spotify.com/track/6wJlP5q82nxBKwBpGpOD48) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 2:55 | 2023-12-23 | 2024-10-09 |
 | [Bring Back Those Happy Days](https://open.spotify.com/track/7ig6vNLQEIT740QNMl9Rp2) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [First Great Star of Gospel Music](https://open.spotify.com/album/1XStey6fjHNAB9WqriW4Lm) | 2:57 | 2024-11-07 | 2025-06-10 |
 | [Bring Back Those Happy Days](https://open.spotify.com/track/1fHrhF3z0fNvtpA2aavvab) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Bring Back Those Happy Days](https://open.spotify.com/album/7FunazLrYxpr4cuyP8oL11) | 2:57 | 2022-07-11 | 2022-10-18 |
@@ -31,7 +32,7 @@
 | [Don't Leave Me Here to Cry](https://open.spotify.com/track/52ehtaRkurVhggWZDeDvKx) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 3:07 | 2024-02-27 | 2024-03-04 |
 | [Don't Take Everybody To Be Your Friend](https://open.spotify.com/track/3bmT6zIM0SmV3hv4kGgmqN) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [Sam Price Trio](https://open.spotify.com/artist/2RWOiWqyH0TkExmKSjZ9sd) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk) | 2:25 | 2022-05-25 |  |
 | [Don't You Weep, o Mary, Don't You Weep](https://open.spotify.com/track/1UouZhAKNnv2f2smBOrGU8) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 2:30 | 2023-12-18 | 2025-06-13 |
-| [Don't You Weep, o Mary, Don't You Weep \- Remastered](https://open.spotify.com/track/6qrYJC67AjKIdQT2ocorYa) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp) | 2:30 | 2025-06-13 |  |
+| [Don't You Weep, o Mary, Don't You Weep \- Remastered](https://open.spotify.com/track/6qrYJC67AjKIdQT2ocorYa) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp) | 2:30 | 2025-06-13 | 2025-06-25 |
 | [Down by the Riverside](https://open.spotify.com/track/2tk6nL1NqqRkjNtOLzwlnl) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Authorized Sister Rosetta Tharpe Collection](https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr) | 2:51 | 2022-05-25 |  |
 | [Every Time I Feel The Spirit \- Live](https://open.spotify.com/track/4ck7oUwxWNgXmVSsTJQZJQ) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Soul Of Gospel](https://open.spotify.com/album/7tMURmtJUVkgltUFJWq5TY) | 3:42 | 2023-10-01 | 2023-10-11 |
 | [Everything To Me \- Live Overdub](https://open.spotify.com/track/5xQEVxGWdPQiCkSJ7gPFTy) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Sister On Tour](https://open.spotify.com/album/096yrvEmbVGUeC9TpWUTPO) | 2:31 | 2022-09-20 | 2022-09-22 |

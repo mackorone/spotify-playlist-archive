@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 227333,
       "name": "A Song For You",
       "url": "https://open.spotify.com/track/5VtQn0Pp23dZZqVGi2zhzQ"
@@ -650,7 +650,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 164861,
       "name": "Dream about You",
       "url": "https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD"
@@ -845,6 +845,24 @@
     },
     {
       "album": {
+        "name": "Hello, Summer",
+        "url": "https://open.spotify.com/album/5KNydkpRR9yos4VzJ17Y9V"
+      },
+      "artists": [
+        {
+          "name": "MIND U",
+          "url": "https://open.spotify.com/artist/4qV3XiR4FiExupNDZ4HeYN"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230013,
+      "name": "Hello, Summer",
+      "url": "https://open.spotify.com/track/50zHuiR5AN9oxEE4zOPnr3"
+    },
+    {
+      "album": {
         "name": "HOODIE E BANBAJI",
         "url": "https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ"
       },
@@ -954,7 +972,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 150000,
       "name": "icanttellUeverything",
       "url": "https://open.spotify.com/track/2x1sd1USdsjlpDuNkX6347"
@@ -1697,6 +1715,24 @@
     },
     {
       "album": {
+        "name": "SEESAW",
+        "url": "https://open.spotify.com/album/0sDgb8nTgsn0nccXZmOdFo"
+      },
+      "artists": [
+        {
+          "name": "ARO",
+          "url": "https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193480,
+      "name": "SEESAW",
+      "url": "https://open.spotify.com/track/1M8J3WL4gzaVU7c3oiIfA9"
+    },
+    {
+      "album": {
         "name": "Seoul",
         "url": "https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF"
       },
@@ -2056,6 +2092,24 @@
       "duration_ms": 167733,
       "name": "Wednesday",
       "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
+    },
+    {
+      "album": {
+        "name": "A daily adventurer",
+        "url": "https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP"
+      },
+      "artists": [
+        {
+          "name": "Lee Jin Ah",
+          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204053,
+      "name": "Where the Wind Rises",
+      "url": "https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM"
     },
     {
       "album": {

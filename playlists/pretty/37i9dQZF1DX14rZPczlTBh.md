@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,325 likes - 50 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,365 likes - 50 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 43 | [Anthem Of Martin \(From "Martin"\) \(Telugu\)](https://open.spotify.com/track/6SzhKwa0saR0U6C2ZynpKW) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj) | [Anthem Of Martin \(From "Martin"\) \(Telugu\)](https://open.spotify.com/album/1bZ1IHL2eSxBNwJ3kjMcl1) | 3:59 |
 | 44 | [Ghaati Theme](https://open.spotify.com/track/0Gv0dkofefppyS3PQSDOyR) | [Nagavelli Vidya Sagar](https://open.spotify.com/artist/2ik2sh5tUx1dFIB5AI5cxt) | [GHAATI](https://open.spotify.com/album/3w6G6aozcvPqRawcI1o4UA) | 0:43 |
 | 45 | [⁠Fall of the Hero \- Instrumental](https://open.spotify.com/track/2U3155pXVjy5PoPMgahtTK) | [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [TEST \- Telugu \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1kWdF6bVQ2GZyL96xF3rBO) | 1:30 |
-| 46 | [Maa Nanna Super Hero Theme \(From "Maa Nanna Super Hero"\)](https://open.spotify.com/track/2oLLowJ2qGlV2yOuZUxSvr) | [Jay Krish](https://open.spotify.com/artist/3Yz04XcMjC097xmoo1VYob) | [Maa Nanna Super Hero Theme \(From "Maa Nanna Super Hero"\)](https://open.spotify.com/album/1Q7mJegyT3SauJqZLDLRwF) | 1:14 |
-| 47 | [Proposal \(From "Love Reddy"\)](https://open.spotify.com/track/27yelBarlAKbDh28Yn3JRf) | [Prince Henry](https://open.spotify.com/artist/3vJDvKa5cfjEH2vFEhj4EY) | [Proposal \(From "Love Reddy"\)](https://open.spotify.com/album/6x0UthIyzcRRTGhZKEx5J0) | 0:47 |
+| 46 | [Proposal \(From "Love Reddy"\)](https://open.spotify.com/track/27yelBarlAKbDh28Yn3JRf) | [Prince Henry](https://open.spotify.com/artist/3vJDvKa5cfjEH2vFEhj4EY) | [Proposal \(From "Love Reddy"\)](https://open.spotify.com/album/6x0UthIyzcRRTGhZKEx5J0) | 0:47 |
+| 47 | [Maa Nanna Super Hero Theme \(From "Maa Nanna Super Hero"\)](https://open.spotify.com/track/2oLLowJ2qGlV2yOuZUxSvr) | [Jay Krish](https://open.spotify.com/artist/3Yz04XcMjC097xmoo1VYob) | [Maa Nanna Super Hero Theme \(From "Maa Nanna Super Hero"\)](https://open.spotify.com/album/1Q7mJegyT3SauJqZLDLRwF) | 1:14 |
 | 48 | [Skanda Teaser Theme](https://open.spotify.com/track/0cbIbniZF1FGevzRyn7HW7) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Skanda Teaser Theme](https://open.spotify.com/album/4rgM7MJscewBzrqv6tAZD1) | 0:54 |
 | 49 | [Yamana Dhamana](https://open.spotify.com/track/34nLhBUs9b01vJUHB0fBlI) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \(Original Background Score\)](https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0) | 2:36 |
 | 50 | [Stranger in Black \- Theme Song](https://open.spotify.com/track/0PIRM1sf42d0BvnMIQuaKx) | [Sunitha Sarathy](https://open.spotify.com/artist/5UqyE5tsMWcrOAjOtROW6B), [Chennai Chorale](https://open.spotify.com/artist/35oks2waDWUhJqH4Lodvcu) | [Aparichitudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LscBzYzac0rt3i2FMmgtw) | 2:44 |

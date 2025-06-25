@@ -4,7 +4,7 @@
 
 > A classic playlist full of favorites of the 80s! Featuring hits from Queen, Tears For Fears, The Go\-Go's and many many more!
 
-159 songs - 11 hr 10 min
+160 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Hurts So Good](https://open.spotify.com/track/5bdV3YXrlYSw1pwJIrEpF4) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [The Best That I Could Do 1978 \- 1988](https://open.spotify.com/album/2ssc6teLS9Pr9JV7AuXUS4) | 3:39 | 2025-04-02 |  |
 | [Hysteria \- Remastered 2017](https://open.spotify.com/track/1eiz5aP5PmFOdPWOTFND4D) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/73BjTTmhhoiK4MGtINzp2c) | 5:54 | 2022-05-18 | 2024-08-02 |
 | [Hysteria \- Remastered 2017](https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:54 | 2024-08-01 |  |
+| [I Ain't Gonna Stand For It](https://open.spotify.com/track/4Jj2j9Wlzt1dpS5ZC0kcqt) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection \(Deluxe Edition\)](https://open.spotify.com/album/1vQrNEAdt2eHCXAvdIs1M2) | 4:39 | 2025-06-24 |  |
 | [I Can't Drive 55](https://open.spotify.com/track/1MqGKtY9L5qjPi8s7gX645) | [Sammy Hagar](https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N) | [Voa](https://open.spotify.com/album/4Tegu60DeUzwWpA6vuhGxs) | 4:14 | 2022-05-18 |  |
 | [I Will Follow \- Remastered 2008](https://open.spotify.com/track/3OZG87f4TFHCt0t9VStdH0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Boy \(Remastered\)](https://open.spotify.com/album/2co53OwPjlTvPDQTpErBtU) | 3:37 | 2025-04-02 |  |
 | [I Won't Back Down](https://open.spotify.com/track/4Ors2f6eZaZBOHwwTEfaXA) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [The Best Of Everything \- The Definitive Career Spanning Hits Collection 1976\-2016](https://open.spotify.com/album/0fOsrdLub7GfVJCPqaPxji) | 2:56 | 2022-05-18 | 2024-08-02 |
@@ -158,7 +159,7 @@
 | [Wanted Dead Or Alive](https://open.spotify.com/track/2fY6tqgrlrg1ky9fgs0t5u) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/5uU2uM1RGHfzlA12opjqol) | 5:08 | 2022-05-18 | 2024-08-02 |
 | [Welcome To The Jungle](https://open.spotify.com/track/0bVtevEgtDIeRjCJbK3Lmv) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5) | 4:32 | 2024-08-01 |  |
 | [Welcome To The Jungle](https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 4:33 | 2022-05-18 | 2024-08-02 |
-| [What About Love?](https://open.spotify.com/track/5DT5P7CPp0uapcvcj7yw2X) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [20 \#1’s: Classic Rock Love Songs](https://open.spotify.com/album/0X9ef2VNhZeXDVoRZ0KMZs) | 3:41 | 2025-04-02 |  |
+| [What About Love?](https://open.spotify.com/track/5DT5P7CPp0uapcvcj7yw2X) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [20 \#1’s: Classic Rock Love Songs](https://open.spotify.com/album/0X9ef2VNhZeXDVoRZ0KMZs) | 3:41 | 2025-04-02 | 2025-06-25 |
 | [When I'm With You](https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O) | [Sheriff](https://open.spotify.com/artist/5jllns7VtBfhF3AyjvZP8d) | [Sheriff](https://open.spotify.com/album/23sISo3WqoIysj2AHHem3V) | 3:58 | 2022-05-18 | 2024-08-07 |
 | [Where The Streets Have No Name \- Remastered](https://open.spotify.com/track/21ex8UoVZjOw0wAXWeln5h) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3) | 5:36 | 2022-05-18 | 2024-08-02 |
 | [Where The Streets Have No Name \- Remastered](https://open.spotify.com/track/4qgZs0RNjdzKAS22lP0QjY) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 5:37 | 2024-08-01 |  |

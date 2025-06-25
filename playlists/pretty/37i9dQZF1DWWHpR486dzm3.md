@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa helmi marleena.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,828 likes - 79 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,835 likes - 79 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rakkaalleni](https://open.spotify.com/track/5SFIDXsPJhYgcYyuDosskP) | [helmi marleena](https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK) | [Rakkaalleni](https://open.spotify.com/album/0t7gZ4oj9VhtHF1BMDv5BC) | 4:29 |
-| 2 | [Kuuma ja cool](https://open.spotify.com/track/0xjFqyWMU6XxETKmM4YJ0J) | [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Kuuma ja cool](https://open.spotify.com/album/5VEnhmraasGluxVLcHvWk1) | 3:03 |
-| 3 | [Vihje](https://open.spotify.com/track/4nGvIgi4JPqCHx2nPTMJsn) | [Vera Wall](https://open.spotify.com/artist/2ZkLg3MpOV7sAwKIoEqhN8) | [Vihje](https://open.spotify.com/album/531uuY7ijJ2ChplpVoLFM9) | 4:01 |
+| 2 | [Vihje](https://open.spotify.com/track/4nGvIgi4JPqCHx2nPTMJsn) | [Vera Wall](https://open.spotify.com/artist/2ZkLg3MpOV7sAwKIoEqhN8) | [Vihje](https://open.spotify.com/album/531uuY7ijJ2ChplpVoLFM9) | 4:01 |
+| 3 | [Kuuma ja cool](https://open.spotify.com/track/0xjFqyWMU6XxETKmM4YJ0J) | [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Kuuma ja cool](https://open.spotify.com/album/5VEnhmraasGluxVLcHvWk1) | 3:03 |
 | 4 | [Lemmennostajaämmä](https://open.spotify.com/track/0g5h1x7Ug45u4dLavtbzwt) | [Vilma Jää](https://open.spotify.com/artist/6xWp5eQ67HQ2Zv7DlAwUaL) | [Lemmennostajaämmä](https://open.spotify.com/album/4PT9Gl9mUS5vN2N3M5BMYU) | 3:24 |
 | 5 | [Tahiti](https://open.spotify.com/track/0FnRnWgqsd3BoDm40GE0It) | [Nössö Nova](https://open.spotify.com/artist/1GYWQRP9SkDjt9a3CMRbsc) | [Tahiti](https://open.spotify.com/album/45EVLQVbECsj1VSTMoFsxl) | 3:56 |
 | 6 | [Spiritismi](https://open.spotify.com/track/39RSeY6eirD9F0zcB8NKwU) | [Rättö & Lehtisalo](https://open.spotify.com/artist/6psG7Ko0utfH26xwSszqxS) | [Spiritismi](https://open.spotify.com/album/44TX13M4nsC4puf2J3rRXM) | 8:40 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 78 | [Kaikki mikä tulee](https://open.spotify.com/track/7z5JDX9bGwyLoYuMRFGZ3v) | [Ilmi Lupiini](https://open.spotify.com/artist/5AoVV4Ybs442k5wZz2owAl) | [Kaikki mikä tulee](https://open.spotify.com/album/0nQima8VLVVwLdDTUg6iaX) | 3:45 |
 | 79 | [Liikkuva Linna](https://open.spotify.com/track/58SvOxXLT0373c96Y2VrFh) | [Harjula](https://open.spotify.com/artist/1gLpevGKJgl5g0oTqVbolp) | [Liikkuva Linna](https://open.spotify.com/album/0e1h1kTCHOPrIqKyP8Ryaf) | 3:11 |
 
-Snapshot ID: `aFR6pwAAAAB7BpVzyW5Nmd21pNPphFE6`
+Snapshot ID: `aFpPTgAAAABi13Fn9xl9YE6kj5UABojr`

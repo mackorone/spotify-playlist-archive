@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde 🌍 avec Tontons Tiakola et Genezio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,268 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,316 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 20 | [On va](https://open.spotify.com/track/4rnXUIUfYWCvjPZczSL0a9) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [On va](https://open.spotify.com/album/4jPE2GLs3aCmeY4C6RyuaW) | 2:24 |
 | 21 | [Ah mon bébé](https://open.spotify.com/track/27fF4VChLqJYRhjmQ9EGKL) | [Ntaba 2 London](https://open.spotify.com/artist/0J1OPojYoKeyRGscpWrwPy) | [Ah mon bébé](https://open.spotify.com/album/4y2gqiUF1t49bKYXKqeZxR) | 3:00 |
 | 22 | [MASTERCLASS](https://open.spotify.com/track/3WTapDvfbfqiYoTFD4AEnE) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [MASTERCLASS](https://open.spotify.com/album/30a1XGrL7yszb4sGs7jFQF) | 2:50 |
-| 23 | [Ola Femi](https://open.spotify.com/track/31owCklGu7rGqesrePbNpY) | [Scor Novy](https://open.spotify.com/artist/5EDWIzXeFXQwd0RVSdoTAS) | [Ola Femi](https://open.spotify.com/album/2ClBArAskCzlFvENSjPW8Z) | 3:24 |
+| 23 | [Ola Femi](https://open.spotify.com/track/31owCklGu7rGqesrePbNpY) | [Scor Novy](https://open.spotify.com/artist/5EDWIzXeFXQwd0RVSdoTAS), [Sekzy](https://open.spotify.com/artist/3JfKYqGySja1gL67kxe99V) | [Ola Femi](https://open.spotify.com/album/2ClBArAskCzlFvENSjPW8Z) | 3:24 |
 | 24 | [Animation FR](https://open.spotify.com/track/5e7VKePa6T6zsBLmW5gtb3) | [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [Animation FR](https://open.spotify.com/album/6jgXMoDr51yRbmfZJWKKHa) | 2:21 |
 | 25 | [Mon Amour](https://open.spotify.com/track/7AebhPeS3aGC4OesngC5WK) | [Miggs De Bruijn](https://open.spotify.com/artist/0Z4fLy8J9Xe2r9kw6zkLFx) | [Mon Amour](https://open.spotify.com/album/3HaKNCMHhIqthKSrftGwqG) | 3:13 |
 | 26 | [TOUCHÉ](https://open.spotify.com/track/0hQqfUxxTVwYW172Ble1oD) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [TOUCHÉ](https://open.spotify.com/album/4iD6uPh3j7fPoPQrmhJIif) | 2:53 |

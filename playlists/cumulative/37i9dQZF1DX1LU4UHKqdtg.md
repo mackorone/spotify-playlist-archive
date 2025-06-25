@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: HANA
 
-1,492 songs - 3 day 7 hr 26 min
+1,493 songs - 3 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,7 +450,7 @@
 | [FRESH](https://open.spotify.com/track/0kub4nQgDJiGxGHvJAQrs1) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [ZONE](https://open.spotify.com/album/61XhfosIw9on81CdHUl7x0) | 2:42 | 2024-11-05 | 2025-01-09 |
 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-19 | 2024-06-01 |
 | [FRIEND THE END](https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Love.zip](https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX) | 3:08 | 2023-04-17 | 2023-06-28 |
-| [from](https://open.spotify.com/track/0SeorUWLzzIhccMySrbZ87) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from](https://open.spotify.com/album/1vheN8jdfNco8S7HOVpJv2) | 3:21 | 2024-12-24 |  |
+| [from](https://open.spotify.com/track/0SeorUWLzzIhccMySrbZ87) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from](https://open.spotify.com/album/1vheN8jdfNco8S7HOVpJv2) | 3:21 | 2024-12-24 | 2025-06-25 |
 | [From a seed called ‘Hey, what’s up?’](https://open.spotify.com/track/6178sEhq3xNsMFD6JcFXxy) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [The 2nd Mini Album 'SWICY'](https://open.spotify.com/album/3S4N457QDAQonUfQU2ACj9) | 3:03 | 2025-04-15 |  |
 | [From here](https://open.spotify.com/track/7AlohrhCwefYKYKZSlUl3b) | [WOOYOUNG](https://open.spotify.com/artist/16iaWzk4PHL4GCjzyT6zZn) | [Off the record](https://open.spotify.com/album/643Nk6PgeQs2Tzp9YgxzVm) | 3:12 | 2023-06-06 | 2023-06-21 |
 | [Future \(Lollapalooza ver.\)](https://open.spotify.com/track/4Q6S4uWD8dwpWiI3VkdBuV) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box \(HOPE Edition\)](https://open.spotify.com/album/3XuUxVKw2mDLSIkZNYoaa6) | 4:18 | 2023-08-18 | 2023-09-22 |
@@ -528,7 +528,7 @@
 | [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 | 2022-12-29 | 2023-03-29 |
 | [HANA](https://open.spotify.com/track/0UXWF5PYBunoB1iQjQ5moz) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [PREZENT](https://open.spotify.com/album/2W4coh0YmTpCovcdoyxmGd) | 3:11 | 2025-01-28 | 2025-03-07 |
 | [HANA MICHI](https://open.spotify.com/track/6Ype063HsGKF7AholzHRFh) | [Kim Hyun Joong](https://open.spotify.com/artist/0rB9P2J3OkobNezpTBcXqE) | [HANA MICHI](https://open.spotify.com/album/4rHAamZcFkv1pnv2FHKua4) | 3:44 | 2023-03-14 | 2023-03-22 |
-| [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-06 |  |
+| [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-06 | 2025-06-25 |
 | [HANDS UP](https://open.spotify.com/track/0wrppxeWurW1uRnxI6Ut9v) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/2owkehm0t0op4QvgMouB9L) | 3:12 | 2025-04-29 | 2025-05-12 |
 | [HANDS UP](https://open.spotify.com/track/4mNPtNfIp4vSlW2z0I7Bgm) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/0PdpYy9Pe9vZkiDtCMnXRV) | 3:12 | 2025-06-16 |  |
 | [Hands Up](https://open.spotify.com/track/0Wp5yopFqgKyklOReg9S8a) | [NCT NEW TEAM](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Hands Up](https://open.spotify.com/album/6J2BAxUAbaNojOQNAvXMiR) | 3:14 | 2023-10-10 | 2023-11-23 |
@@ -650,6 +650,7 @@
 | [Just be yourself](https://open.spotify.com/track/6JQejkZXevMZeRBq8BpBFp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Just be yourself](https://open.spotify.com/album/580je4ls7G3Ul39rZzqXOC) | 3:20 | 2022-03-22 | 2022-06-29 |
 | [JUST BREATHE \- feat\. 3RACHA of Stray Kids](https://open.spotify.com/track/6PqDYUTmTGXnCfSDhm6AlJ) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [3RACHA of Stray Kids](https://open.spotify.com/artist/1GpgROLET8tI7DKTRz4EgO) | [JUST BREATHE \(feat\. 3RACHA of Stray Kids\)](https://open.spotify.com/album/4LYNdaRg79Yfj6nEPIB9L8) | 3:50 | 2022-02-22 | 2022-05-11 |
 | [Just for one day](https://open.spotify.com/track/6QTgxMjYeWbYTR9iTN6RPF) | [NiiiiiA](https://open.spotify.com/artist/0sINulttJuGzx4hGKDfuDC) | [NiiiiiA 1st Solo Mini Album '2Years'](https://open.spotify.com/album/3ohfZOqwSP5cI11MYJmElr) | 3:46 | 2022-08-03 | 2022-08-24 |
+| [Kawaii \(Prod\. Gen Hoshino\)](https://open.spotify.com/track/0M47xHUyYQvhSnso8GFHSA) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [DIFFERENT](https://open.spotify.com/album/0XBFnNqFyAKPJoo3ikzvBe) | 3:20 | 2025-06-24 |  |
 | [Keep a Secret](https://open.spotify.com/track/1ipDqVFgmVOAcboxe9Yiei) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [GLOW](https://open.spotify.com/album/5bN1rEaxjAkoIRRVk6R2iz) | 2:10 | 2025-06-10 |  |
 | [Keep me up](https://open.spotify.com/track/1h3hfUrphvCzFNPCsglzp2) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Love or Loved, Pt\. 1](https://open.spotify.com/album/3EQ7btJiTEaKDE8I1uScm4) | 3:26 | 2022-11-17 | 2023-01-18 |
 | [Keep on Moving](https://open.spotify.com/track/4nS2rDbFUcvcrNoTEQFJJM) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe \(Japanese Ver.\) / Keep on Moving \-Special Edition\-](https://open.spotify.com/album/5tyosIYVnbP67FGL9o8Xx6) | 3:06 | 2024-08-20 | 2024-09-25 |

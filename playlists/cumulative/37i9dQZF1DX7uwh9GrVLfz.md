@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: Arakezuri
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: No Guard Okey
 
-831 songs - 1 day 20 hr 2 min
+834 songs - 1 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Go away](https://open.spotify.com/track/74m1ANTskdub3D1QgMoMwX) | [Junky58%](https://open.spotify.com/artist/70KfXyXsFwEmCA1i6kMn2m) | [Go away](https://open.spotify.com/album/6NXDgS5x1zVQsgpdNangZk) | 2:48 | 2022-09-06 | 2022-09-15 |
 | [Go For It](https://open.spotify.com/track/6WEC4dCGAuMfrUMoF55BD4) | [ANGER FLARES](https://open.spotify.com/artist/1KT2rYCKxq9UQ6tqnXLhSP) | [Punk Rock Compilation, Vol​​.1](https://open.spotify.com/album/5L0WzRvc31A7qaHd3yDdHK) | 1:53 | 2023-01-24 | 2023-04-19 |
 | [goes on](https://open.spotify.com/track/3mpavY4fu2IKWpWIuFd03d) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:21 | 2022-05-17 | 2022-08-19 |
-| [GOLD YOUTH](https://open.spotify.com/track/1LPGdMiMhY6LXEMoIAa7ZK) | [FUNNY THINK](https://open.spotify.com/artist/62JiGgwrhE1PYawKu2qWtC) | [GOLD YOUTH](https://open.spotify.com/album/4GYC2moJkrip8Hct4XskBe) | 2:41 | 2023-12-12 |  |
+| [GOLD YOUTH](https://open.spotify.com/track/1LPGdMiMhY6LXEMoIAa7ZK) | [FUNNY THINK](https://open.spotify.com/artist/62JiGgwrhE1PYawKu2qWtC) | [GOLD YOUTH](https://open.spotify.com/album/4GYC2moJkrip8Hct4XskBe) | 2:41 | 2023-12-12 | 2025-06-25 |
 | [Good Feelin'](https://open.spotify.com/track/14s2uCKAX0LpFABOTRtkux) | [KNOCK OUT MONKEY](https://open.spotify.com/artist/5Kmgbag5URQXVqUUtvXe1S) | [Good Feelin'](https://open.spotify.com/album/20imArDqUKNDMDPT0q2DiU) | 4:56 | 2022-05-17 | 2022-07-28 |
 | [Goodbye Tears](https://open.spotify.com/track/3V27KAsj2RJ9b3SqXlI6JX) | [ジ・エンプティ](https://open.spotify.com/artist/3p6DykZwSDYVolqQyaFtvf) | [Gift from God E.P.](https://open.spotify.com/album/1MQCFv8QcQI6p8A68KA7tp) | 2:31 | 2023-12-05 | 2023-12-20 |
 | [Gotta Fight](https://open.spotify.com/track/4GlygmoLSxhHNXC23DRWeA) | [LEXT](https://open.spotify.com/artist/2jxq5Mq4Ulrm5WNSJVEauT) | [FLASHBACK](https://open.spotify.com/album/36ZIvfOxwtyKMtAvK7MB21) | 2:49 | 2025-01-21 | 2025-05-14 |
@@ -195,7 +195,7 @@
 | [grasp](https://open.spotify.com/track/3yJ0cJV9vuck34ZVrmxr84) | [tact](https://open.spotify.com/artist/6UB1bq3uHbizha44REbJDL) | [dawning](https://open.spotify.com/album/6YGlPSQbU1z1VlTOSnCHxN) | 2:29 | 2023-11-07 | 2023-12-20 |
 | [Hang a Combat master Detonics](https://open.spotify.com/track/7ijeLjKSfusg4355Z5NFJG) | [HARD CORE DUDE](https://open.spotify.com/artist/5sxrRJgTakYBRhfmOij0Cs) | [Highstandard Custom Derringer](https://open.spotify.com/album/6PgABLhd0BV5VXM0eeFYES) | 1:44 | 2023-11-07 | 2023-11-22 |
 | [HAPPY BIRTHDAY](https://open.spotify.com/track/5NqAeabxsFbgyRxJGfdKM0) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 2:44 | 2023-10-24 | 2023-11-01 |
-| [HAPPY BIRTHDAY](https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 2:44 | 2023-10-24 |  |
+| [HAPPY BIRTHDAY](https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 2:44 | 2023-10-24 | 2025-06-25 |
 | [Happy Nante](https://open.spotify.com/track/5V4jRwekmH66FW2iO08LEN) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Happy Nante](https://open.spotify.com/album/2B2IgbFuBorxh70ZQzM7nk) | 3:22 | 2025-01-07 |  |
 | [Hate](https://open.spotify.com/track/2z4GICCEgREmuhDxd8z2Mn) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [Seeding](https://open.spotify.com/album/1RtRvUfTvz2JxVqqi4k6Ns) | 3:11 | 2022-05-12 | 2025-05-26 |
 | [HATE](https://open.spotify.com/track/4oe6XEilgvCRpRr2WZfhcN) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [HATE](https://open.spotify.com/album/2dP1zFAbDbCOCdGt2e8KEU) | 3:10 | 2022-09-08 | 2022-10-05 |
@@ -282,6 +282,7 @@
 | [Loners](https://open.spotify.com/track/7qWUzKL705FlL5xEfzzwep) | [Four Get Me A Nots](https://open.spotify.com/artist/18V3SfrN6aSc7QP3fqmUBp) | [Loners](https://open.spotify.com/album/6aD8lcusjMlIUNXcKeu2HV) | 3:04 | 2024-01-16 | 2024-02-28 |
 | [Long Hot Summer Day](https://open.spotify.com/track/2RLlMZZS5MIWGhMvXrM91H) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 2:45 | 2024-02-27 | 2024-03-06 |
 | [Look Back in Anger](https://open.spotify.com/track/7wMDLzxtaAcshebbQsacFn) | [TsuShiMaMiRe](https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd) | [Look Back in Anger](https://open.spotify.com/album/1PcdkMR2ta8lbLnelAl4WB) | 4:33 | 2022-11-01 | 2022-12-14 |
+| [Loser](https://open.spotify.com/track/1jMVW1GAf96u79kRA5Nju0) | [No Guard Okey](https://open.spotify.com/artist/0WChAIlhqnTFsCusfLKQLL) | [Loser](https://open.spotify.com/album/1NPlcu5HhjiVLh2xCYNmgi) | 3:03 | 2025-06-24 |  |
 | [LOSERS WIN LAST](https://open.spotify.com/track/6ZYpueou9LMzTm2qAy0T8G) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [SMILE](https://open.spotify.com/album/5MpZ339ChGKMvQ8umDo1n6) | 2:14 | 2022-06-28 | 2022-07-17 |
 | [Love song](https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1) | 2:33 | 2023-04-18 |  |
 | [Love song](https://open.spotify.com/track/4gtuaF2M5Lpl5EYSdAA3Th) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/2tHhRVVI82FOCr0nEujtsY) | 2:33 | 2023-04-19 | 2023-06-01 |
@@ -466,6 +467,7 @@
 | [Slow and steady](https://open.spotify.com/track/3eoivmlvkK9jtgnbAajU4B) | [39degrees](https://open.spotify.com/artist/2sA5clRvdaIZg82RoKYJfy) | [Singles\(June,2022\)](https://open.spotify.com/album/6jZML5zhuUhpybwu4ul8V7) | 3:01 | 2022-06-28 | 2022-07-29 |
 | [Slowmotion](https://open.spotify.com/track/1hqUoPoRDyTYlJDAlc0DX6) | [PLATFORM](https://open.spotify.com/artist/6DWc35FY5GoEwltnYM60Ob) | [Moving Around](https://open.spotify.com/album/7KiIRVdiLZ9JALtla6I19Z) | 2:28 | 2023-11-21 | 2023-12-06 |
 | [Smiles For Miles](https://open.spotify.com/track/6pVvomIJKjAe25SswHayZn) | [COUNTRY YARD](https://open.spotify.com/artist/7zAPELMruolERj0vMJGp76) | [Greatest Not Hits](https://open.spotify.com/album/3Dp7XOglofCbvlgXGP8Wc7) | 2:45 | 2022-05-12 | 2022-07-24 |
+| [SMOKE, SMOKE AND SMOKE](https://open.spotify.com/track/3IYenm1UBvvmEeBUm7tUC5) | [The Dahlia](https://open.spotify.com/artist/5DXnT4SukHYxqDU9sxdM3n) | [SMOKE, SMOKE AND SMOKE](https://open.spotify.com/album/2orG6xhixYSqcjsakCpNXd) | 2:51 | 2025-06-24 |  |
 | [Smoking Kills](https://open.spotify.com/track/6rZifGhf7vgSbjQpSiiQLO) | [See You Smile](https://open.spotify.com/artist/4ll5mBYeHlhg0R2fjwspPv) | [Smoking Kills](https://open.spotify.com/album/0iAymKIkRcGyUgSZmio1o8) | 2:01 | 2022-07-21 | 2022-08-10 |
 | [So Beautiful](https://open.spotify.com/track/4tRwtS3AsqpcGpFH1NQYyP) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [So Beautiful](https://open.spotify.com/album/5kzp7yageZp0HEmu48aBMq) | 2:38 | 2022-05-12 | 2022-07-29 |
 | [So Far So Good](https://open.spotify.com/track/6ZZtmbYNZYfoWuYS5glxvu) | [ember](https://open.spotify.com/artist/7qZyOMbLJDG8bGJMzyXfb4) | [Not Just Talk](https://open.spotify.com/album/65QwLj5OVaknn4MwhW3TNy) | 2:40 | 2022-06-07 | 2022-06-14 |
@@ -489,6 +491,7 @@
 | [STAY GOLD](https://open.spotify.com/track/4fyZ8EqPZzxPyrpMmr1CYQ) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/5ZLz1cMuiUoRDHx9qLmqqg) | 2:00 | 2022-05-12 | 2022-07-27 |
 | [STAY GOLD](https://open.spotify.com/track/6Q9bwEB5lN6m1DGkqz9XP6) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/7GNdH1UwNo78P5gtB4ZJvD) | 2:00 | 2023-12-12 | 2024-04-19 |
 | [STAY GOLD \- PUNK ROCK THROUGH THE NIGHT☆ 2011.3.4 @ SHIBUYA QUATTRO](https://open.spotify.com/track/1bFjI57VlMreMqR4Vtp2TJ) | [Akihiro Namba](https://open.spotify.com/artist/7F1stPkk7RZf19mw2mwtJH) | [PUNK ROCK THROUGH THE NIGHT☆ 2011.3.4 @ SHIBUYA QUATTRO](https://open.spotify.com/album/02tJBtvZr9frKBKY2cIJaW) | 2:29 | 2022-05-19 | 2022-07-27 |
+| [STAY GROUND](https://open.spotify.com/track/594mWwCmEPEUdbTylWSr5p) | [ISCREAM NEVER GROUND](https://open.spotify.com/artist/3VaWHUyDEoBjigERzadi1g) | [MAKING THE GROUND](https://open.spotify.com/album/0wYws2sv9puyf9jO7U2r0y) | 3:34 | 2025-06-24 |  |
 | [Stay Punk Forever](https://open.spotify.com/track/4kO0rBpUaPKV0d2r9w3Fip) | [THE STARBEMS](https://open.spotify.com/artist/6SXxBrj5sKrSXiAV2tpWWq) | [STAY PUNK FOREVER](https://open.spotify.com/album/0bIO2OKQ3k4fnE8tqUw03U) | 2:41 | 2022-05-19 | 2022-07-28 |
 | [Stay Pure](https://open.spotify.com/track/3YnshcRCGme6KvEykGpjtF) | [See You Smile](https://open.spotify.com/artist/4ll5mBYeHlhg0R2fjwspPv) | [PURE](https://open.spotify.com/album/6Ym1lCGxIlduxxTNp6FTaP) | 3:38 | 2022-05-17 | 2022-07-29 |
 | [Stay・Young](https://open.spotify.com/track/79OZ3xmpxW94a0BpKQ4WL1) | [EiHilE](https://open.spotify.com/artist/754tcMSEqzwZPMch88LbED) | [Stay・Young](https://open.spotify.com/album/5bTQbfOp1T7qPFKavEP6vU) | 3:44 | 2023-04-18 | 2023-05-31 |
@@ -798,7 +801,7 @@
 | [死亡フラグを立てないで](https://open.spotify.com/track/3EqQOKYHWfaqKBkeU5YKsv) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [死亡フラグを立てないで](https://open.spotify.com/album/5lkOWi2hkb6Rj72eE2E3aG) | 4:35 | 2024-04-16 |  |
 | [永久に](https://open.spotify.com/track/4bqBqH6zYVgIZXQO4ZyZJ7) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [永久に](https://open.spotify.com/album/0VeAIIbyFuQS7WeWqxa0PP) | 4:06 | 2023-08-08 | 2023-08-10 |
 | [永遠少女](https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [永遠少女](https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ) | 4:02 | 2023-12-19 | 2024-03-23 |
-| [永遠衝動](https://open.spotify.com/track/5I2A6BkRvTve67HLQbK3WE) | [I's](https://open.spotify.com/artist/2nLJEolH6pXx09IC4LrWBU) | [永遠衝動](https://open.spotify.com/album/1qmSmgNIWi1DwyXGv4Fbtz) | 4:14 | 2023-08-29 |  |
+| [永遠衝動](https://open.spotify.com/track/5I2A6BkRvTve67HLQbK3WE) | [I's](https://open.spotify.com/artist/2nLJEolH6pXx09IC4LrWBU) | [永遠衝動](https://open.spotify.com/album/1qmSmgNIWi1DwyXGv4Fbtz) | 4:14 | 2023-08-29 | 2025-06-25 |
 | [決意の歌](https://open.spotify.com/track/32HxsGp4jX5URUmulu5dHd) | [bacho](https://open.spotify.com/artist/6ERhWmTmbMG8FQGYfFIIgc) | [レコンキスタ](https://open.spotify.com/album/3KrJbIHprGRPzuVN2OI4fv) | 5:21 | 2022-05-12 | 2022-07-27 |
 | [泣き虫デスマッチ](https://open.spotify.com/track/0N9uFmMjZLBK28fwYxbFtZ) | [Garlicboys](https://open.spotify.com/artist/6nPBc3gSUZ1rQaMvD0VXZz) | [再録ベスト](https://open.spotify.com/album/39cFpk3zsEtX8aE0Mgs7WU) | 2:36 | 2022-05-12 | 2022-07-24 |
 | [火花](https://open.spotify.com/track/5sqCFj25fms531Jx41FhoX) | [SULLIVAN's FUN CLUB](https://open.spotify.com/artist/03d8MZYqxq7mS9DDxWV18U) | [Panta rhei](https://open.spotify.com/album/5yYOvOyzsVLy8AYDIENgOT) | 1:37 | 2022-05-19 | 2022-07-11 |

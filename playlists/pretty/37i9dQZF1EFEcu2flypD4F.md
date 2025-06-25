@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,263 likes - 338 songs - 21 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,264 likes - 338 songs - 21 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -325,8 +325,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 315 | [Time Wave Zero](https://open.spotify.com/track/1IT1QXgq61RFe1E1hWXMIH) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 3:23 |
 | 316 | [Crush Me With Your Love](https://open.spotify.com/track/3YJvOg1AqvtUqAiTHmBxWZ) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 3:19 |
 | 317 | [Anthem](https://open.spotify.com/track/3pA0YN34JkVK2oR4hE5byb) | [Scott Walker](https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 1:22 |
-| 318 | [Matrix](https://open.spotify.com/track/1b0PJgINRReqrrmCAv6OLL) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 4:36 |
-| 319 | [Firefly](https://open.spotify.com/track/67hjL0408LCGQGvcgxh2UW) | [Barney McAll](https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Invenio Choir](https://open.spotify.com/artist/1iq3UGbxfOvSlEEfDH3qlT) | [Graft](https://open.spotify.com/album/7mKSCnRfLedDXONasya39G) | 4:37 |
+| 318 | [Firefly](https://open.spotify.com/track/67hjL0408LCGQGvcgxh2UW) | [Barney McAll](https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Invenio Choir](https://open.spotify.com/artist/1iq3UGbxfOvSlEEfDH3qlT) | [Graft](https://open.spotify.com/album/7mKSCnRfLedDXONasya39G) | 4:37 |
+| 319 | [Matrix](https://open.spotify.com/track/1b0PJgINRReqrrmCAv6OLL) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 4:36 |
 | 320 | [Oh Boy](https://open.spotify.com/track/2LZEddxkwZC8gYf6PxDOZT) | [Kayliah](https://open.spotify.com/artist/5vUkpDxDVZIggZLIdDKTNN) | [On A Tous Besoin De Croire](https://open.spotify.com/album/6hJWXCcdDF0GF5jn5FuPwh) | 3:10 |
 | 321 | [Sweet One \(feat\. Sia\)](https://open.spotify.com/track/4fYW8D26oT3GjmaBYK3Pm9) | [Katie Noonan](https://open.spotify.com/artist/4ch5DvHFpBlRtZAERVcfHr), [The Captains](https://open.spotify.com/artist/37JtJzCZlbzsJqpkRSoXiG), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Emperor's Box](https://open.spotify.com/album/6MuRAdOhzqvhItkS8lUPST) | 4:07 |
 | 322 | [Pulls You Under](https://open.spotify.com/track/6HSfAaihnNvfIzqHsSfd2I) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 3:24 |
@@ -347,4 +347,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 337 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 338 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `Ab08FAAAAAClnsKy0kGpEZ479zF8foR6`
+Snapshot ID: `Ab1BtAAAAABUr8bzifilknGfCDJ2OFsD`

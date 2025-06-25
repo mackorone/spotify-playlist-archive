@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,638 songs - 4 day 3 hr 1 min
+1,639 songs - 4 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,7 +534,7 @@
 | [Joy](https://open.spotify.com/track/4Y8TqlBfP2p4vWxCPrYLzj) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [Joy](https://open.spotify.com/album/3BfGTSaXoQ9AR4jp7UWGEi) | 3:11 | 2023-09-05 | 2023-09-13 |
 | [Judgement?](https://open.spotify.com/track/5MGVaOgYQ3UclF6l7ctMFA) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [Judgement?](https://open.spotify.com/album/34XrJ4YbZvHTztBI4ToCDY) | 4:56 | 2025-04-02 | 2025-05-08 |
 | [JUICY 2023](https://open.spotify.com/track/19i6b6c6C0UJ1OnHpBT6nJ) | [BAKU](https://open.spotify.com/artist/6UJ9anFCTizsVkXHg1uKgW), [chinzadopeness](https://open.spotify.com/artist/6DGXrg6MMq5E5rptfiMaNa), [CHAN\-MIKA](https://open.spotify.com/artist/1buzD2EAwSbAdZJHzcSjvw) | [JUICY 2023](https://open.spotify.com/album/19AO1LKYhDm0qfaq9l6WyG) | 3:47 | 2023-02-14 | 2023-02-22 |
-| [JULIUS](https://open.spotify.com/track/027xIoTAUMI0WSCDKRVEZI) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [PROVOKE](https://open.spotify.com/album/16e51QIO4jxTpRvbsHJdah) | 2:27 | 2025-04-23 |  |
+| [JULIUS](https://open.spotify.com/track/027xIoTAUMI0WSCDKRVEZI) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [PROVOKE](https://open.spotify.com/album/16e51QIO4jxTpRvbsHJdah) | 2:27 | 2025-04-23 | 2025-06-25 |
 | [Jurassic](https://open.spotify.com/track/0okYcNqMBFmSwf2xeECPpd) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6XDBprGtBpzB7t0dHP85fs) | 2:57 | 2023-07-18 | 2023-07-20 |
 | [Jurassic](https://open.spotify.com/track/7HcpoYSDvOks6YAE2A3JQn) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6dgCSpkDbi4Y4WJpC24nZ8) | 2:57 | 2023-07-18 | 2023-08-02 |
 | [Jusho Futei Mushoku Tei Shunyu](https://open.spotify.com/track/47tXtqlDHBM6uCLyuK1lvd) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak), [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [Hosono House Revisited](https://open.spotify.com/album/0YbvbjeWwBhgeGfaiuEbAj) | 3:23 | 2024-11-06 | 2024-11-13 |
@@ -1062,7 +1062,7 @@
 | [SUPERNOVA](https://open.spotify.com/track/1sjPeakADwAfjZHis1svgO) | [Murakami Keisuke](https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu) | [SUPERNOVA](https://open.spotify.com/album/46wHXcoKdMG9VGPh7ogf1l) | 3:31 | 2023-04-18 | 2023-06-14 |
 | [SUPERNOVA](https://open.spotify.com/track/5V7YhNvRSazLfEANYU3peX) | [Murakami Keisuke](https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu) | [SUPERNOVA](https://open.spotify.com/album/0duTQZp3avVEjQELyT0vQd) | 3:31 | 2023-04-18 | 2023-04-20 |
 | [Superpower \(KM Remix\)](https://open.spotify.com/track/7srrFIxUG3AqUwVf5GQS5K) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Superpower \(KM Remix\)](https://open.spotify.com/album/2MinXn5C1XQ9NN75AOTU1X) | 4:33 | 2022-07-19 | 2022-10-05 |
-| [Superstar](https://open.spotify.com/track/3awBg1GqxcmYzrjv4GYdzG) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Superstar](https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi) | 3:20 | 2024-08-07 | 2025-05-14 |
+| [Superstar](https://open.spotify.com/track/3awBg1GqxcmYzrjv4GYdzG) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Superstar](https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi) | 3:20 | 2024-08-07 |  |
 | [Supremacy](https://open.spotify.com/track/1mwaixNVz7ifI0VwzSmGfw) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Supremacy](https://open.spotify.com/album/4cU0lQpW1s0HXysHPklbYi) | 3:14 | 2023-07-26 | 2023-07-27 |
 | [Supremacy](https://open.spotify.com/track/5YdQ2ekqb2i17sCZELI3VC) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Supremacy](https://open.spotify.com/album/7dVYDyMKuta1QkHwOJpjze) | 3:14 | 2023-07-26 | 2023-08-02 |
 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-09-30 | 2022-11-14 |
@@ -1332,7 +1332,7 @@
 | [エジソン](https://open.spotify.com/track/223e30Nk8UY0HKezFtakUS) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [招き猫 / エジソン](https://open.spotify.com/album/5R4QHlcpCdAX1CxV8tHWaa) | 3:13 | 2022-07-07 | 2022-07-29 |
 | [エジソン](https://open.spotify.com/track/2wRKOmpe6I7q6k69bkjuFU) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 3:13 | 2022-06-06 | 2022-06-29 |
 | [エデンの花](https://open.spotify.com/track/33oY2Nn1bAL0isfLxWxwAt) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [エデンの花](https://open.spotify.com/album/2EnPqo6WPPjqYX1YH0U3WX) | 4:48 | 2023-12-05 | 2023-12-13 |
-| [エトセトラ](https://open.spotify.com/track/2K0ilWsu6Oo0BK1Zsb8UJt) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [エトセトラ](https://open.spotify.com/album/43Ap150hU1yjJYlmI7Y8IX) | 3:17 | 2024-08-07 |  |
+| [エトセトラ](https://open.spotify.com/track/2K0ilWsu6Oo0BK1Zsb8UJt) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [エトセトラ](https://open.spotify.com/album/43Ap150hU1yjJYlmI7Y8IX) | 3:17 | 2024-08-07 | 2025-06-25 |
 | [オトナブルー](https://open.spotify.com/track/4fMewVWtew1oB6d3E8x9pp) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [オトナブルー](https://open.spotify.com/album/1zOsMN6Zyx1qMlpi29PMDF) | 3:05 | 2024-04-16 |  |
 | [オープンエンド](https://open.spotify.com/track/69wC7CS0O12zmn0GYP31aR) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [オープンエンド](https://open.spotify.com/album/08GxJarYWyPK3qic88we7u) | 5:06 | 2023-11-14 | 2023-11-22 |
 | [カテゴライズ](https://open.spotify.com/track/2XNMG5FlJvFSnn6PiHnvjk) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [アナザーダイバーシティ](https://open.spotify.com/album/7DsLGDK8qjjgQTMO8iLHkz) | 3:47 | 2025-01-21 | 2025-06-23 |
@@ -1550,6 +1550,7 @@
 | [未来地図2025](https://open.spotify.com/track/3b4t0gSknI05MnoGeQHzU8) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [未来地図2025](https://open.spotify.com/album/1kb9dvEh3vhgIrx42sRrGQ) | 6:00 | 2025-04-02 |  |
 | [未来時代](https://open.spotify.com/track/3rMVgn486bfoyJEvkb6xmX) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [未来時代](https://open.spotify.com/album/1VCSBg9Vf3jNgRZfgFVwTS) | 4:41 | 2022-05-26 | 2022-06-29 |
 | [本日のおすすめ](https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [本日のおすすめ](https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa) | 2:49 | 2024-07-12 |  |
+| [条司](https://open.spotify.com/track/1GPJ7qT0APz9GqZyotCMhu) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [条司](https://open.spotify.com/album/4FtXFRN2SUz02ERbkdf25d) | 3:48 | 2025-06-18 |  |
 | [東へ西へ](https://open.spotify.com/track/6iYAdrE8loWBu9bX2Mbfil) | [Leo Imai](https://open.spotify.com/artist/052wDw54ZAwrWQraLblXZb) | [Eastward Westward](https://open.spotify.com/album/04gsYjYupPQFCTpiSQcMhp) | 4:34 | 2023-04-20 | 2023-05-10 |
 | [東京ブギウギ \- JUNK BOOGIE](https://open.spotify.com/track/78EdyJD8l2uwT3Kw0ppViW) | [Mari Natsuki](https://open.spotify.com/artist/2pNYWL608THXN3ExiA5iay) | [TOKYO JUNK BOOGIE](https://open.spotify.com/album/3LIgXpMVtzTywubYgtUgdM) | 3:20 | 2023-04-18 | 2023-04-26 |
 | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 | 2022-07-28 | 2022-10-05 |

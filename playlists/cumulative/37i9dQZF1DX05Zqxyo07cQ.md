@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-767 songs - 1 day 13 hr 19 min
+768 songs - 1 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,6 +528,7 @@
 | [Placid Echoes](https://open.spotify.com/track/7ybzymL0w0XYyJaBeqFSRy) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Placid Echoes](https://open.spotify.com/album/7qB2UagPGPPr2t7hTZQS58) | 2:36 | 2024-07-22 | 2025-03-26 |
 | [Placid Meadow](https://open.spotify.com/track/1lASWxoxCu2S2HC7IsKgxJ) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Placid Meadow](https://open.spotify.com/album/2NttgSl71sdervU4tsb5sq) | 2:45 | 2024-08-30 |  |
 | [Pondering](https://open.spotify.com/track/1BhS7zg5Xc8HvCqILpiDgq) | [Aetheria Solara](https://open.spotify.com/artist/53Dh6mRLAQrQVAwNvXiifJ) | [Pondering](https://open.spotify.com/album/7t9gbTOlSMndGUbLJqOYH6) | 2:55 | 2024-01-17 | 2024-10-15 |
+| [Predetermined](https://open.spotify.com/track/50ugrXieNRkklm9dVwOCEY) | [Luune](https://open.spotify.com/artist/7CPclBDt5moKFAwjPTvLRM) | [Predetermined](https://open.spotify.com/album/5gitXZTrajp0xyWUkojeTB) | 2:35 | 2025-06-17 |  |
 | [Presence](https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ) | [Arietis](https://open.spotify.com/artist/03NS5oA1PstBjCg4kwn6lH) | [Presence](https://open.spotify.com/album/37Izr0igRkZEUUto8T2OC6) | 2:55 | 2025-03-05 |  |
 | [Primrose](https://open.spotify.com/track/5tIbsGFsbxljVv1KxUUXKV) | [Joan Magana](https://open.spotify.com/artist/0WZH1ZpG77XFRS44A8lL5R) | [Primrose](https://open.spotify.com/album/2T22dTQnkNLOFlfsqv8kd4) | 3:38 | 2023-03-23 | 2024-02-09 |
 | [Prismatic](https://open.spotify.com/track/4CzH17y6ZqsfL44KIcBPQY) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Prismatic](https://open.spotify.com/album/1HxZqb63mQDqGPnPADJ8Us) | 2:51 | 2025-02-26 |  |
@@ -758,7 +759,7 @@
 | [Vrangø](https://open.spotify.com/track/1GQZvfanSWqKStXmGVQb18) | [Ganlas](https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago) | [Vrangø](https://open.spotify.com/album/2N55QpvsyobZS4YEqwypcs) | 2:58 | 2024-03-06 | 2025-02-15 |
 | [Vuggevise](https://open.spotify.com/track/7rvlOw2fPjxbcZSNKifEHq) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [Vuggevise](https://open.spotify.com/album/6srrbZzcRlL82bPxb1rBCH) | 3:10 | 2023-03-23 | 2024-01-18 |
 | [Wanderstar](https://open.spotify.com/track/5cbkiCRy1LVLiAl1q64n2S) | [Amel Scott](https://open.spotify.com/artist/4lOnTI7pZfZeLAQ4z2idCd) | [Aphelion](https://open.spotify.com/album/02klELVwcPeTcA90xuW9G3) | 2:40 | 2023-03-23 | 2024-02-09 |
-| [Waves of Eternity](https://open.spotify.com/track/4rin1uFnoE4y6NhM2YQylb) | [Tranquil Nova](https://open.spotify.com/artist/1arRPBqUsxPJ0YxL7eZ1QY) | [Waves of Eternity](https://open.spotify.com/album/2msrHKpBqJ4BGr1Vs4yEH9) | 2:40 | 2025-01-08 |  |
+| [Waves of Eternity](https://open.spotify.com/track/4rin1uFnoE4y6NhM2YQylb) | [Tranquil Nova](https://open.spotify.com/artist/1arRPBqUsxPJ0YxL7eZ1QY) | [Waves of Eternity](https://open.spotify.com/album/2msrHKpBqJ4BGr1Vs4yEH9) | 2:40 | 2025-01-08 | 2025-06-25 |
 | [Way of Shadows](https://open.spotify.com/track/71mN9aVMlm4vBZ6YzKPKeR) | [Astral Shade](https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m) | [Cloudless Night](https://open.spotify.com/album/2PNoGpXnFx0qIxy5VXJboe) | 2:55 | 2023-03-23 | 2023-10-05 |
 | [What's Best For You](https://open.spotify.com/track/3YPMSEyEJkYpvQB1kcs5Rl) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [What's Best For You](https://open.spotify.com/album/2k0IJZavMYJ2Pi3ZRymD86) | 3:38 | 2023-03-23 | 2024-02-09 |
 | [When I am with thee](https://open.spotify.com/track/3bBGo3Le7RDVWYqA7xkwgy) | [IGRAINE](https://open.spotify.com/artist/12J6IQCCPzkgAa28w9sZeb) | [When I am with thee](https://open.spotify.com/album/2kyX5xQGvjkrJACDbeGH0U) | 2:55 | 2023-03-23 | 2023-05-06 |

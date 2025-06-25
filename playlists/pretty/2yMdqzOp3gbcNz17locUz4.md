@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2yMdqzOp3gbcNz17locUz4.md) - [plain]
 
 > furry, ΘΔ, indie\. Cover: <a href="https://open.spotify.com/artist/5ZJuxb6oluPvuK2okvCAKk?si=6m21\-sBBRUCQL8sQjE9CwA">Furry Loser</a> \|\| Visit our <a href="https://indieanthro.com">website</a> for more ✨
 
-[trickyStoop](https://open.spotify.com/user/tlpij335kpcn3s0ulidrtgtid) - 3,553 likes - 120 songs - 6 hr 41 min
+[trickyStoop](https://open.spotify.com/user/tlpij335kpcn3s0ulidrtgtid) - 3,552 likes - 120 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -12846,7 +12846,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 212148,
       "name": "Depresso fortunato",
       "url": "https://open.spotify.com/track/0xju4u3DFjOy1fhITDPZ6B"
@@ -12868,7 +12868,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 212148,
       "name": "Depresso fortunato",
       "url": "https://open.spotify.com/track/6vbU5lktjuswHhG8ToyljZ"
@@ -29237,6 +29237,28 @@
     },
     {
       "album": {
+        "name": "This Is Elodie",
+        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
+      },
+      "artists": [
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177213,
+      "name": "Margarita (con Marracash)",
+      "url": "https://open.spotify.com/track/6KfwIpX0Xo0lelmuUOnyZV"
+    },
+    {
+      "album": {
         "name": "Margot",
         "url": "https://open.spotify.com/album/1MD8DNxwUI78DCwJXSz0IV"
       },
@@ -34310,7 +34332,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 182245,
       "name": "NON METTERCI BECCO",
       "url": "https://open.spotify.com/track/0xruiSHt6TaFZvQuGdDlJV"
@@ -38054,7 +38076,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 211360,
       "name": "Per dimenticare",
       "url": "https://open.spotify.com/track/6lrlFMu06aGPDH0phlCnct"
@@ -44068,7 +44090,7 @@
       ],
       "date_added": "2025-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32"

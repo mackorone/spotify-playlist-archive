@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,164 songs - 4 day 19 hr 54 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,169 songs - 4 day 20 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2107,7 +2107,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2097 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 |
 | 2098 | [Super](https://open.spotify.com/track/1rSf5hRY0WREuRfiDLETqZ) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Super](https://open.spotify.com/album/4tPyjMTlhXtroKXgm67zT0) | 1:43 |
 | 2099 | [Wet \(feat\. Bad Gyal\)](https://open.spotify.com/track/1C0OPJpflVG3pojAj12E2x) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Wet \(feat\. Bad Gyal\)](https://open.spotify.com/album/4OMWt7NTRHe0sZSmAZtQoA) | 2:03 |
-| 2100 | [Hardcore \(give me a mfkn breakbeat\)](https://open.spotify.com/track/6a6hIUla9XUJ5SYWCRLpTq) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Revive](https://open.spotify.com/artist/0Ghn298oD8IQHRio5UdpFz) | [Hardcore \(give me a mfkn breakbeat\)](https://open.spotify.com/album/6ZWeBtiYMo5BGf7bt86kMn) | 3:49 |
+| 2100 | [Hardcore \(give me a mfkn breakbeat\)](https://open.spotify.com/track/6a6hIUla9XUJ5SYWCRLpTq) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Revive](https://open.spotify.com/artist/4KAsa231JLza8qRvBWwBeC) | [Hardcore \(give me a mfkn breakbeat\)](https://open.spotify.com/album/6ZWeBtiYMo5BGf7bt86kMn) | 3:49 |
 | 2101 | [Pegajosa \- Radio Edit](https://open.spotify.com/track/6FIooztG712yqhVKTU0fl1) | [Anthony Godfather](https://open.spotify.com/artist/1CYqCVVCerhOIUu6gmGpP8), [Alvaro Varen](https://open.spotify.com/artist/6w4FDhpjReN9gBZIDpCeKL), [Garba](https://open.spotify.com/artist/53iho93MYkt0knY0tS6nnB) | [Pegajosa](https://open.spotify.com/album/3nGapB1YtaazNgjNUOhx8U) | 3:26 |
 | 2102 | [Pegao](https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Pegao](https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB) | 3:38 |
 | 2103 | [NO NO NO \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/4QYUJMUK0LJzhnM9wzowyq) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [NO NO NO \(feat\. Sfera Ebbasta\)](https://open.spotify.com/album/7BFzz8Ki3DKyq72SLaTpDb) | 3:28 |
@@ -2172,5 +2172,10 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2162 | [Fine Night](https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fine Night](https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn) | 2:41 |
 | 2163 | [R U 4REAL \(feat\. Marina Maximilian\)](https://open.spotify.com/track/7qEYvfP5ONliv8obMM2A4E) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp) | [R U 4REAL \(feat\. Marina Maximilian\)](https://open.spotify.com/album/2WV2u9UIG4I3BQ3jkuphBa) | 3:09 |
 | 2164 | [The Big Big Beat](https://open.spotify.com/track/66O0pFEFp23dgYjoAd6RKK) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Slay\-Z](https://open.spotify.com/album/0rx21GnAQNPuriKQGRzBnz) | 3:35 |
+| 2165 | [Dub City](https://open.spotify.com/track/0hLUZTVuDuDUOAV4NYWGUa) | [DELACOUR](https://open.spotify.com/artist/3bFd5sav9N5kGzBklcXt6l) | [Dub City](https://open.spotify.com/album/2W4IO9ZJm4h60dFlbGzZc7) | 3:48 |
+| 2166 | [Was hätte werden können?](https://open.spotify.com/track/6rtRZHu5vveFWmCkb4LhFB) | [Maeksll](https://open.spotify.com/artist/6ElI8iHCEayoMkB2AAdb8Z) | [Herbst](https://open.spotify.com/album/16cBEw7M1sb3HoOe8Inpg6) | 4:20 |
+| 2167 | [Sapientia](https://open.spotify.com/track/3dm1hX0YRSwZp6pKfIuKLu) | [Geo22](https://open.spotify.com/artist/1BF2tnFiO15m9Y1s0ph0gr) | [Sapientia](https://open.spotify.com/album/1IDH9NPF9LVYqiuNTadKLX) | 1:54 |
+| 2168 | [Latin Casino](https://open.spotify.com/track/6TsrNlLj3MeWSfL1kurhBt) | [Bovskey](https://open.spotify.com/artist/2z5MSIstgHtruYoMdI0eKu) | [12B3](https://open.spotify.com/album/4RcKkOMITjGeBgB0w8MlGO) | 2:20 |
+| 2169 | [Sonho do Brasil](https://open.spotify.com/track/1F1OWM6IeFXhJjnkLxJUur) | [Slowdown](https://open.spotify.com/artist/3VLBTVpduYKBntn2BNtBFA) | [Retrospectives](https://open.spotify.com/album/6qVprDA4Kd6uMhqrZ63XZq) | 3:24 |
 
-Snapshot ID: `AAAEWID5OAKtKXxMx8GMj5foQCec4Lwz`
+Snapshot ID: `AAAEXsVM+SD4YKF+DctRRadeNyUeOJF8`

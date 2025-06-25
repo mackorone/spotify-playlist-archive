@@ -3430,7 +3430,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 138100,
       "name": "Eladio",
       "url": "https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs"
@@ -7571,6 +7571,24 @@
     },
     {
       "album": {
+        "name": "New Beginnings",
+        "url": "https://open.spotify.com/album/5eboemT7dTxu8VnCGkaM57"
+      },
+      "artists": [
+        {
+          "name": "Pello Esso",
+          "url": "https://open.spotify.com/artist/4Bxpz0ttb5aP5b7rIc81J6"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183235,
+      "name": "New Beginnings",
+      "url": "https://open.spotify.com/track/4koz4IhwGvSYlFhrYej6yr"
+    },
+    {
+      "album": {
         "name": "New Frontier",
         "url": "https://open.spotify.com/album/3cSuL271dmIfPhrzwbcCvE"
       },
@@ -8288,7 +8306,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 240641,
       "name": "Paint",
       "url": "https://open.spotify.com/track/3aQ7Zu6BKPMcj6kkHAmt4z"
@@ -11610,6 +11628,24 @@
       "duration_ms": 136551,
       "name": "Take My Time",
       "url": "https://open.spotify.com/track/0JAYqGAXpGQ2LZoUso7XVu"
+    },
+    {
+      "album": {
+        "name": "Talking About Love",
+        "url": "https://open.spotify.com/album/5XHOQiwXpdsVsgSOFthb5Y"
+      },
+      "artists": [
+        {
+          "name": "Aneto",
+          "url": "https://open.spotify.com/artist/2NN1Bm3UcCgDZEjXPt3ACs"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150762,
+      "name": "Talking About Love",
+      "url": "https://open.spotify.com/track/1VbOPDTkUyS54qP61ZRQMg"
     },
     {
       "album": {

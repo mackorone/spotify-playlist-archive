@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > underground and experimental\. greetings from bar italia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,771 likes - 101 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,759 likes - 101 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 
 > This is Angie Stone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,457 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,461 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 | 37 | [Love Of My Life Worldwide](https://open.spotify.com/track/7sfv48GFGTACbipv2osobB) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Worldwide Underground](https://open.spotify.com/album/1oJIFrDoyKF1aV8sq0rBAQ) | 5:26 |
 | 38 | [Happy Being Me](https://open.spotify.com/track/7jIvDotIdiYG0Zv35xam8v) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Pauletta Washington](https://open.spotify.com/artist/1xPmfPmx5uMCXmTcB5aEiT) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 4:29 |
 | 39 | [Dream](https://open.spotify.com/track/5RMf9Fc1U4x7kHgx5Swb7H) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 3:29 |
-| 40 | [Love TKO](https://open.spotify.com/track/37ap6nCrkAew8dPVsGj1QD) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Duets \- Love & Soul](https://open.spotify.com/album/69XGRDK4bcb0pSEgIV05tC) | 4:49 |
-| 41 | [The Gym](https://open.spotify.com/track/5aCV1ShX2YWtYICZc1qBTK) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Love Language](https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM) | 3:19 |
+| 40 | [The Gym](https://open.spotify.com/track/5aCV1ShX2YWtYICZc1qBTK) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Love Language](https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM) | 3:19 |
+| 41 | [Love TKO](https://open.spotify.com/track/37ap6nCrkAew8dPVsGj1QD) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Duets \- Love & Soul](https://open.spotify.com/album/69XGRDK4bcb0pSEgIV05tC) | 4:49 |
 | 42 | [Gonna Have to Be You](https://open.spotify.com/track/0yKtPIRrUjoATLNNXmJcbq) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Full Circle](https://open.spotify.com/album/6KhoIz4SDYW5zEnl0O9bRB) | 3:58 |
 | 43 | [Forget About Me](https://open.spotify.com/track/42hNrPluWAiCOULra1Ckpz) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 3:42 |
 | 44 | [Sit Down](https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 | 49 | [Stoned Love \(Intro\)](https://open.spotify.com/track/64d9VM45lpwAv5ihZHEDbm) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Love](https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0) | 0:35 |
 | 50 | [The Human Stone \(feat\. Angie Stone\)](https://open.spotify.com/track/2zhgYDsj5s9ucveGRlEr9F) | [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Human Stone \(feat\. Angie Stone\)](https://open.spotify.com/album/5JDtdJsp89vm1wldP6Qwro) | 3:27 |
 
-Snapshot ID: `aFdHgAAAAABNoucf6Q9RmPDfST721GRA`
+Snapshot ID: `aFiZAAAAAADLRJQ+sZMpTxuGyFJz87We`

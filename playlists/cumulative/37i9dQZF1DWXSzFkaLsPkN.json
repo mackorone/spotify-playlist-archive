@@ -1925,6 +1925,32 @@
     },
     {
       "album": {
+        "name": "Jhoom Jhoom",
+        "url": "https://open.spotify.com/album/1DNtCbU6N2lKue5fNTqbQT"
+      },
+      "artists": [
+        {
+          "name": "Priyakshi Pachani",
+          "url": "https://open.spotify.com/artist/5Mm8IaGkfrjF4ZF6eIjj1P"
+        },
+        {
+          "name": "Ayesha Mukherjee",
+          "url": "https://open.spotify.com/artist/6UmnySzyIpaZjAu6Rs5lA0"
+        },
+        {
+          "name": "Arnab Bashistha",
+          "url": "https://open.spotify.com/artist/0nLfD8OW4b380nSxUKB12t"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195182,
+      "name": "Jhoom Jhoom",
+      "url": "https://open.spotify.com/track/0rdoFMxuzx24AsnvfHjBEx"
+    },
+    {
+      "album": {
         "name": "Ji Huzoor",
         "url": "https://open.spotify.com/album/3PFgdRRFP4QjH7LX7XrUah"
       },
@@ -3142,7 +3168,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 222121,
       "name": "Mere Ranjhana",
       "url": "https://open.spotify.com/track/04Oswb5okIbIzMyKVBSbMH"

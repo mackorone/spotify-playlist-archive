@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Oe8zprVH3z.md) - [plain]
 
 > Breathe deep, close your eyes, immerse yourself..\. Water and rain sounds mixed with Tibetan meditation bowls and ambient music, to help you find inner balance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,602 likes - 150 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,909 likes - 150 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Oe8zprVH3z.md) - [plain]
 | 37 | [In This World](https://open.spotify.com/track/0UsNUXSy01BTJCrnZJIent) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [In This World](https://open.spotify.com/album/7os9MOsWVKZmSQvli0D3tT) | 2:51 |
 | 38 | [Circle of Protection](https://open.spotify.com/track/66jbpDBE9mr18aHsnk6QzV) | [Healing Potion](https://open.spotify.com/artist/08sROjr8PALQrgskKAnmaw) | [Circle of Protection](https://open.spotify.com/album/0mUiJQB1s4kBqh9doY0977) | 2:32 |
 | 39 | [Agenor Linea](https://open.spotify.com/track/5jhQyWeKZdbZJd00zV2JLx) | [De Ester](https://open.spotify.com/artist/0dbcAyHyp9aAsEqAAZHjr4) | [Agenor Linea](https://open.spotify.com/album/45Kc4FLaLh4iGzKfA08BY6) | 2:57 |
-| 40 | [Rhythm of You](https://open.spotify.com/track/1BXUdFKa5z9PAovnLyraRf) | [Endless Space](https://open.spotify.com/artist/7HHVt02XZTOf0FQ6YhZtG5) | [Rhythm of You](https://open.spotify.com/album/55uWsOLhWyHvzhvnTShAzL) | 2:26 |
+| 40 | [Rhythm of You](https://open.spotify.com/track/1BXUdFKa5z9PAovnLyraRf) | [Endless Space](https://open.spotify.com/artist/4SnAG3DMYmxqUwelTO2Y5A) | [Rhythm of You](https://open.spotify.com/album/55uWsOLhWyHvzhvnTShAzL) | 2:26 |
 | 41 | [Ise Shrine](https://open.spotify.com/track/4hCAhjM7PCdOcdH3ZoKQNP) | [Voices Of The Ocean](https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt) | [Ise Shrine](https://open.spotify.com/album/7rAnh0MmUgm4RT8QcY5Nmt) | 2:31 |
 | 42 | [No Mind Garden](https://open.spotify.com/track/2hyweLfykIjGhwHOCVQbi0) | [Destinatus](https://open.spotify.com/artist/188mqK70hNt8mxFYLiQQlk) | [No Mind Garden](https://open.spotify.com/album/2YcwPxQseklMOdUFU09RBq) | 2:54 |
 | 43 | [Samãdhi \(River\)](https://open.spotify.com/track/4gMY2tUCkCRe4BcNYjHUZe) | [Flowing Light](https://open.spotify.com/artist/3cQywPCPFCA8A8CFfZ1d3H) | [Samãdhi \(River\)](https://open.spotify.com/album/6INcE0NjRmJJA0WIznmpd8) | 2:50 |

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/quintab/\">Quinta Brunson</a>",
-  "num_followers": 82219,
+  "num_followers": 82255,
   "original_name": "Quinta Brunson's Taste",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,18 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+        "name": "Fin",
+        "url": "https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0"
       },
       "artists": [
         {
           "name": "Syd",
           "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 244138,
-      "name": "CYBAH (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/50wpwXmMyYWMEhuATNxLEt"
+      "duration_ms": 214706,
+      "name": "Know",
+      "url": "https://open.spotify.com/track/4xyoLXrUb0cpROQwZe1ggb"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -835,18 +831,22 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "Fin",
-        "url": "https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0"
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
       "artists": [
         {
           "name": "Syd",
           "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 214706,
-      "name": "Know",
-      "url": "https://open.spotify.com/track/4xyoLXrUb0cpROQwZe1ggb"
+      "duration_ms": 244138,
+      "name": "CYBAH (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/50wpwXmMyYWMEhuATNxLEt"
     }
   ],
   "unique_name": "Quinta Brunson's Taste",

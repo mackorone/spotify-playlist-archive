@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 156020,
+  "num_followers": 156027,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
+        "name": "Stop All the World Now (Special Edition)",
+        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
+      },
+      "artists": [
+        {
+          "name": "Howie Day",
+          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Collide - Acoustic Version",
+      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
         "name": "Hvor Var Jeg Endt",
         "url": "https://open.spotify.com/album/4qefEfwkmVFCFU3BYEmKJB"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 179157,
       "name": "Hvor Var Jeg Endt",
       "url": "https://open.spotify.com/track/1upFqX3mJflCB0QGJNJStY"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
-        "name": "Stop All the World Now (Special Edition)",
-        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
-      },
-      "artists": [
-        {
-          "name": "Howie Day",
-          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Collide - Acoustic Version",
-      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
         "name": "Alt Det (feat. Noah Carter)",
         "url": "https://open.spotify.com/album/561WRtqToj8ILZEkDXkfqm"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 178366,
       "name": "Alt Det (feat. Noah Carter)",
       "url": "https://open.spotify.com/track/1knZ2cJRHNUeEidZvhypRm"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
-        "name": "When You Love Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "When You Love Someone - Acoustic",
-      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "golden thing",
-        "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 219300,
-      "name": "golden thing",
-      "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
         "name": "Lifetimes Away (feat. Medina)",
         "url": "https://open.spotify.com/album/3scIOLSRCADZSH2hNPNVkL"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 185769,
       "name": "Lifetimes Away (feat. Medina)",
       "url": "https://open.spotify.com/track/6Zf2SH9afl9PguEbAbDWh0"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
+        "name": "golden thing",
+        "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
+      },
+      "artists": [
+        {
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+        }
+      ],
+      "duration_ms": 219300,
+      "name": "golden thing",
+      "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "Perfect to Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 213213,
-      "name": "Perfect To Me - Acoustic",
-      "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
         "name": "Cherry Blossom",
         "url": "https://open.spotify.com/album/606l8giVZ24kgJ64sYlX7d"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 181600,
       "name": "Would You",
       "url": "https://open.spotify.com/track/24u37Wx6wCOeBAi8g203KC"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
+        "name": "Perfect to Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "Perfect To Me - Acoustic",
+      "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
+        "name": "Frihed",
+        "url": "https://open.spotify.com/album/5ClTuqAp8Vt8RY6rydROD0"
+      },
+      "artists": [
+        {
+          "name": "Hjalmer",
+          "url": "https://open.spotify.com/artist/0thQkzSyTo4l3zbpibZznQ"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "Frihed",
+      "url": "https://open.spotify.com/track/0lAUEdKbTXmqYDyzAhgS9X"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
         "name": "Lukas Graham (Blue Album)",
         "url": "https://open.spotify.com/album/6NQ2RNksdSKdtnlFOLJo24"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 159680,
       "name": "Alice",
       "url": "https://open.spotify.com/track/2lXNibPcBjxEqtMfV15Mv2"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
-        "name": "Frihed",
-        "url": "https://open.spotify.com/album/5ClTuqAp8Vt8RY6rydROD0"
-      },
-      "artists": [
-        {
-          "name": "Hjalmer",
-          "url": "https://open.spotify.com/artist/0thQkzSyTo4l3zbpibZznQ"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "Frihed",
-      "url": "https://open.spotify.com/track/0lAUEdKbTXmqYDyzAhgS9X"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "No Fixed Abode",
-        "url": "https://open.spotify.com/album/75L4noRttyCn9pLojFp2IF"
-      },
-      "artists": [
-        {
-          "name": "Mitch James",
-          "url": "https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le"
-        }
-      ],
-      "duration_ms": 204081,
-      "name": "No Fixed Abode",
-      "url": "https://open.spotify.com/track/2kzWnWUUsn3o44PbOzFSjc"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
         "name": "May I Have This Dance",
         "url": "https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 211316,
       "name": "May I Have This Dance",
       "url": "https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
+        "name": "No Fixed Abode",
+        "url": "https://open.spotify.com/album/75L4noRttyCn9pLojFp2IF"
+      },
+      "artists": [
+        {
+          "name": "Mitch James",
+          "url": "https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le"
+        }
+      ],
+      "duration_ms": 204081,
+      "name": "No Fixed Abode",
+      "url": "https://open.spotify.com/track/2kzWnWUUsn3o44PbOzFSjc"
     },
     {
       "added_at": "2025-06-19 22:00:52",

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125240,
+  "num_followers": 125237,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUPRMVn4Tuzc3B3Yj8QPrHrlK9SBmJ",
+  "snapshot_id": "AAAUPqQXmtbw/hCtwD1HTNwsAiWxq15m",
   "tracks": [
+    {
+      "added_at": "2025-06-24 14:53:26",
+      "album": {
+        "name": "Can You",
+        "url": "https://open.spotify.com/album/5mCqlZt0A5PjgtmFd82dHV"
+      },
+      "artists": [
+        {
+          "name": "MXV",
+          "url": "https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG"
+        },
+        {
+          "name": "Courtney Storm",
+          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Can You",
+      "url": "https://open.spotify.com/track/1IViMQ0Ifl0N9Gbkwdifso"
+    },
     {
       "added_at": "2025-06-23 13:45:09",
       "album": {

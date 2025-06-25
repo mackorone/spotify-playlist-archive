@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,124 likes - 462 songs - 1 day 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,126 likes - 462 songs - 1 day 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,8 +169,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 159 | [He Said She Said](https://open.spotify.com/track/0jTTjg6q4jsd2RhuHwTvLj) | [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [Headstrong](https://open.spotify.com/album/18Cdeub4WBPKku92zlsfWp) | 3:08 |
 | 160 | [Run It](https://open.spotify.com/track/5GwOJaOWIuRi5eebSRnstT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Run It](https://open.spotify.com/album/1GM66MYIbWfSdPLop4vXym) | 2:39 |
 | 161 | [stay done](https://open.spotify.com/track/2zScQCfO2BKtR0Yk8dtELN) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:51 |
-| 162 | [Happy](https://open.spotify.com/track/55whSVkLeOcEhLaU91DQ8Q) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Echo](https://open.spotify.com/album/3KMc2Ey1t8gv4r9VfYgqbH) | 4:02 |
-| 163 | [Higher](https://open.spotify.com/track/4bEpL49l4f0r8GtsjUFUqL) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 3:05 |
+| 162 | [Higher](https://open.spotify.com/track/4bEpL49l4f0r8GtsjUFUqL) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 3:05 |
+| 163 | [Happy](https://open.spotify.com/track/55whSVkLeOcEhLaU91DQ8Q) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Echo](https://open.spotify.com/album/3KMc2Ey1t8gv4r9VfYgqbH) | 4:02 |
 | 164 | [Bring U Down](https://open.spotify.com/track/3fsH9s00dbn9mSgUu7Yi9D) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:11 |
 | 165 | [VULGAR \(with Madonna\)](https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [VULGAR \(with Madonna\)](https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT) | 2:35 |
 | 166 | [Lobby](https://open.spotify.com/track/17UMDTqVeX3SqvgKr8kSmF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 2:37 |
@@ -200,9 +200,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 190 | [Ain't Easy](https://open.spotify.com/track/0b9KkFVuiKep5IH8O5O8OX) | [Elijah Woods x Jamie Fine](https://open.spotify.com/artist/0UARksVKrwd1Gwdeq3Mes1) | [8:47](https://open.spotify.com/album/2RxqGBW2H5j2EyZyqwc7m3) | 3:08 |
 | 191 | [Call Me Revenge \- Call of Duty: Modern Warfare 3](https://open.spotify.com/track/6m0S4wcG6sTCP010ZrgdJI) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Call Me Revenge \(Call of Duty: Modern Warfare 3\)](https://open.spotify.com/album/7ISArb5GeVeJ6O65wUyIux) | 2:46 |
 | 192 | [Lift Me Up](https://open.spotify.com/track/0x7oCog91UWqiYJQEee3uK) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:46 |
-| 193 | [Trust](https://open.spotify.com/track/5MoU7TaAvgBa8W0XVwXAd7) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:00 |
-| 194 | [Don't Stay](https://open.spotify.com/track/1JFWbktZpqwU37UX5MzjwR) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Don’t Stay](https://open.spotify.com/album/44rJLmL9vpqTN4ChPT4aHT) | 3:09 |
-| 195 | [One More Dance](https://open.spotify.com/track/4rhDZ5qvYYxaSIWLzCX1WL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/2uPr7JseOfZGpsefGTaxLB) | 3:08 |
+| 193 | [One More Dance](https://open.spotify.com/track/4rhDZ5qvYYxaSIWLzCX1WL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/2uPr7JseOfZGpsefGTaxLB) | 3:08 |
+| 194 | [Trust](https://open.spotify.com/track/5MoU7TaAvgBa8W0XVwXAd7) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:00 |
+| 195 | [Don't Stay](https://open.spotify.com/track/1JFWbktZpqwU37UX5MzjwR) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Don’t Stay](https://open.spotify.com/album/44rJLmL9vpqTN4ChPT4aHT) | 3:09 |
 | 196 | [Give It To You \(from Songland\)](https://open.spotify.com/track/0U2HEoCazR0hZlNavNeWov) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Give It To You \(from Songland\)](https://open.spotify.com/album/6cEaN8pCbLYUGTqop8L7e0) | 2:15 |
 | 197 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 |
 | 198 | [Light It Up](https://open.spotify.com/track/5pHICu0E2S5JytwgIXL4CS) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:10 |
@@ -327,9 +327,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 317 | [Favorite Song](https://open.spotify.com/track/5QmWwEZY23peUBTVC8bIYA) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [All Of You](https://open.spotify.com/album/3J72FiClHtOI1WmbIJEP03) | 3:45 |
 | 318 | [Shake \(with Ne\-Yo & Carmen DeLeon\)](https://open.spotify.com/track/3fI2VcjM78ZzEDe96SVKfR) | [L.L.A.M.A](https://open.spotify.com/artist/1XwXEE2TWmPt01haVFok2N), [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Shake \(with Ne\-Yo & Carmen DeLeon\)](https://open.spotify.com/album/3jO5b1PrRk1i9Yb8kiQszZ) | 2:43 |
 | 319 | [If I Can't Have You](https://open.spotify.com/track/6W8VktzOUZNlOdTMaeLuxv) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [All I Ever Wanted](https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG) | 3:39 |
-| 320 | [The Missing](https://open.spotify.com/track/1IHYSptLB6r1j6qdGFTmk6) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI), [JAW](https://open.spotify.com/artist/05BpORreAobgNUA5feAsui) | [Ibifornia \(Deluxe\)](https://open.spotify.com/album/3pz8g0tnXoFdFldlItvxxD) | 4:12 |
+| 320 | [Don't Tell Nobody](https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [Don't Tell Nobody](https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN) | 2:53 |
 | 321 | [Get Mine](https://open.spotify.com/track/67aM9AJ569kEdJSLBIiOTz) | [DAVIS](https://open.spotify.com/artist/1Nejskv080HulTwcWnNPUr) | [Crooked Finger](https://open.spotify.com/album/0CyVbusmbDNR7nnJ84DyRu) | 3:32 |
-| 322 | [Don't Tell Nobody](https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [Don't Tell Nobody](https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN) | 2:53 |
+| 322 | [The Missing](https://open.spotify.com/track/1IHYSptLB6r1j6qdGFTmk6) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI), [JAW](https://open.spotify.com/artist/05BpORreAobgNUA5feAsui) | [Ibifornia \(Deluxe\)](https://open.spotify.com/album/3pz8g0tnXoFdFldlItvxxD) | 4:12 |
 | 323 | [Lost Then Found \(feat\. OneRepublic\)](https://open.spotify.com/track/4fGWnPwe58RbdTWD5ElNS1) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Echo](https://open.spotify.com/album/3KMc2Ey1t8gv4r9VfYgqbH) | 11:09 |
 | 324 | [It's A Shame](https://open.spotify.com/track/3WANeXpetY3TAi6PTlIMpc) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up \(Deluxe\)](https://open.spotify.com/album/6EuKoCk8R63UfuPLa9qr7U) | 4:50 |
 | 325 | [Save You](https://open.spotify.com/track/7IaJyaE8pCQjOgvXUAJeat) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [All I Ever Wanted](https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG) | 4:02 |
@@ -471,4 +471,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 461 | [Just Keep Watching](https://open.spotify.com/track/7xb25ayvRaBdC8mSQ9ApYa) | [life illustrated](https://open.spotify.com/artist/5tRfNOLfhTaTHDdkE6O8a4) | [Just Keep Watching](https://open.spotify.com/album/1QEuCJJdAmSA2QjXPx3wNb) | 1:31 |
 | 462 | [Born To Race](https://open.spotify.com/track/69rjvTJkEuLgHuxCXF0MEY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Born To Race](https://open.spotify.com/album/10kpIbHXZ3ljVNqszvRKod) | 3:11 |
 
-Snapshot ID: `Ab08MgAAAACruQ5yo/OY47SpZ4SDEzyg`
+Snapshot ID: `Ab1B0gAAAAAlqUsJUaLfxFy932HNTW0X`

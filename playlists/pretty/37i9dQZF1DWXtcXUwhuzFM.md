@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia DAVIlta & Arekselta,  Ed Sheeranilta, helmi marleenalta, Benson Boonelta ja monelta muulta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,701 likes - 107 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,703 likes - 107 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

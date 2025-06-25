@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 14 | [Extravagante Adoración](https://open.spotify.com/track/1HuHdHmg3jep3qe6OblEUN) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Yo Navegaré](https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH) | 6:53 |
 | 15 | [Apollo 11](https://open.spotify.com/track/2rtrHYY3AyUlpAB8M4GSAC) | [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA) | [Apollo 11](https://open.spotify.com/album/2twRkiHWXubukZhe4kp7cm) | 3:13 |
 | 16 | [Éden](https://open.spotify.com/track/70BE8zAy2Odekx0zNnT9vO) | [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA) | [Éden](https://open.spotify.com/album/7GD9Q2dIsisdNZTIDAae18) | 2:58 |
-| 17 | [El Camino](https://open.spotify.com/track/4oiAtbB2nWywnV6VaR5Fug) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Muéstrame Tu Gloria](https://open.spotify.com/album/1hdMxcb2eRzIuD2YJuDFTb) | 4:07 |
-| 18 | [Professor Da Fé](https://open.spotify.com/track/1cCeyyYDcmSM0OVuuCq6cs) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Professor Da Fé](https://open.spotify.com/album/0V3eiSD7WJckQ3rYQOizyr) | 5:20 |
+| 17 | [Professor Da Fé](https://open.spotify.com/track/1cCeyyYDcmSM0OVuuCq6cs) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Professor Da Fé](https://open.spotify.com/album/0V3eiSD7WJckQ3rYQOizyr) | 5:20 |
+| 18 | [El Camino](https://open.spotify.com/track/4oiAtbB2nWywnV6VaR5Fug) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Muéstrame Tu Gloria](https://open.spotify.com/album/1hdMxcb2eRzIuD2YJuDFTb) | 4:07 |
 | 19 | [Libre para Adorar](https://open.spotify.com/track/3V5gDsGQuqWC7MvNp2vMuV) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Yo Navegaré](https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH) | 5:30 |
 | 20 | [Cante Outra Vez](https://open.spotify.com/track/17mVv6aGrWt7ScrMWrVMXh) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 4:39 |
 | 21 | [Alasca](https://open.spotify.com/track/30xBipXCgDQefGMmVGtODe) | [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 4:36 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 51 | [Promessas](https://open.spotify.com/track/0DG8rlv4qfOU2YbdttWHLy) | [Lais Souza](https://open.spotify.com/artist/1gbps42EklltqqNRUb88gx) | [Promessas](https://open.spotify.com/album/7od6KkiUWFK2Qx3iHTRunC) | 4:45 |
 | 52 | [O Protagonista](https://open.spotify.com/track/5FrLfHABHDRUvqNP8hWGCr) | [Cris Alves](https://open.spotify.com/artist/2W4yNmbDdeKdCuQSlP9H8o) | [O Protagonista](https://open.spotify.com/album/3ww6ExGunZagBV8FJRzyw4) | 2:49 |
 
-Snapshot ID: `Ab08KAAAAAAnGQPLTXtm9XVORv3di+uD`
+Snapshot ID: `Ab1B0gAAAAAT1xHrhXdDYUMqAGTUKQpf`

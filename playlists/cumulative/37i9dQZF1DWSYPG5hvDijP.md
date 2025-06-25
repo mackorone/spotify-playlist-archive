@@ -4,7 +4,7 @@
 
 > Naya Hip\-Hop Hindi! Cover: J Trix
 
-924 songs - 1 day 22 hr 2 min
+925 songs - 1 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [Dawgs](https://open.spotify.com/track/2TzGJt5GuupHVRM6zfgk3N) | [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Shikwa \(Side A\)](https://open.spotify.com/album/4LOiX1sDjXW8yw5pEA9m1G) | 4:03 | 2025-04-25 | 2025-05-10 |
 | [Dayein Bayein](https://open.spotify.com/track/3VOwYlsDo66ZtAB5SbqfVx) | [Muhfaad](https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr) | [Dayein Bayein](https://open.spotify.com/album/1JrHE6GJZg6brN76ueQ1rI) | 2:28 | 2023-03-29 | 2023-04-17 |
 | [Dear Aditya](https://open.spotify.com/track/2DFpDzrY1aDKVbMeJVAs9l) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Dear Aditya](https://open.spotify.com/album/1iK0ltlEUBYot5LHDK2cTB) | 3:37 | 2025-02-28 | 2025-05-03 |
-| [Dear Past](https://open.spotify.com/track/1pVKAY3r7lwjlu37IpPHO2) | [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE) | [Dear Past](https://open.spotify.com/album/7uTtifQREaZanM1PisQNav) | 3:07 | 2025-05-09 |  |
+| [Dear Past](https://open.spotify.com/track/1pVKAY3r7lwjlu37IpPHO2) | [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE) | [Dear Past](https://open.spotify.com/album/7uTtifQREaZanM1PisQNav) | 3:07 | 2025-05-09 | 2025-06-25 |
 | [Dehleez Pe](https://open.spotify.com/track/4QPc6C1fv3NQ5heJfULWqh) | [Flowbo](https://open.spotify.com/artist/1zZAfmD9oBMBxA8RhSukbf) | [Dehleez Pe](https://open.spotify.com/album/7FqQ2ILwsBixOI6zxpJrDW) | 2:34 | 2025-01-21 | 2025-03-15 |
 | [Deja Vu](https://open.spotify.com/track/2CHQ8qhsE2N1bXsZn1nnqA) | [Shez](https://open.spotify.com/artist/4VY44gs03ET26RjfICYmBe) | [Deja Vu](https://open.spotify.com/album/62QEcW8VEZxkJKHXEyrjB8) | 2:53 | 2024-06-28 | 2024-07-30 |
 | [Dekhiye Kaise](https://open.spotify.com/track/6kKvZz7KQJiRMNhUgE2AMn) | [Suyash Parasher](https://open.spotify.com/artist/7mL47j0V6LmUeERZjNQOth), [Premium](https://open.spotify.com/artist/7wYUJJRfwIDE6RghioaRk3) | [Dekhiye Kaise](https://open.spotify.com/album/3h5gDfBgoG2CvoJgoxtUHu) | 3:33 | 2025-05-16 |  |
@@ -454,6 +454,7 @@
 | [Kaim](https://open.spotify.com/track/0NTkmAMoSNWQ8cFVZEFrKB) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W) | [I "M" Possible](https://open.spotify.com/album/1muIL8Oey6fZdc3VDHFh43) | 3:03 | 2024-12-13 | 2025-01-07 |
 | [Kaint Bandi](https://open.spotify.com/track/0za1H6ww3goCbJTTdcL8eK) | [KhullarG](https://open.spotify.com/artist/2yAbjVguK4dIqZ6IdVJP4i) | [Kaint Bandi](https://open.spotify.com/album/22fVNWSuOFb9gRbzMWfTTs) | 2:45 | 2025-03-28 | 2025-06-06 |
 | [Kakori Kaand \- Red Bull 64 Bars](https://open.spotify.com/track/4mjXv3zHXqj1K9eYmT008b) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Kakori Kaand \(Red Bull 64 Bars\)](https://open.spotify.com/album/4rB2c6zsOWgxr3Fslrw2cG) | 2:55 | 2024-12-17 | 2025-01-07 |
+| [Kala](https://open.spotify.com/track/60VpFHQNkaOIf9REhiRWLt) | [SOS](https://open.spotify.com/artist/2H9H08XUuwLF51PSncSMvc), [30KEY!](https://open.spotify.com/artist/2OEwo5rQBQRKtbIWxb1Y8Y) | [Kala](https://open.spotify.com/album/22MzplKqG60ji9jo6IDsr7) | 2:47 | 2025-06-24 |  |
 | [Kalakaari Vishwasniya](https://open.spotify.com/track/7cIJcssAE0m5chGl0mOGS5) | [vichaar](https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5), [Aditya Pushkarna](https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs) | [MTV Hustle 4 \- Episode 8](https://open.spotify.com/album/3Zw82APevZxUD79EOLkBbd) | 2:21 | 2024-11-13 | 2024-12-12 |
 | [Kalam](https://open.spotify.com/track/5ZFSdOKbwWKgifU8o4puww) | [Divyansh Kacholia \(DVK\)](https://open.spotify.com/artist/4Q5YiZsfq10SLigxOjG5oV) | [Kalam](https://open.spotify.com/album/3gb3gPW63uWlOoG7siKeal) | 3:16 | 2024-11-06 | 2024-11-27 |
 | [Kalam](https://open.spotify.com/track/6T4DaFsbDNAASO7KzE2hvc) | [Shrota](https://open.spotify.com/artist/5sIlbBFVuLgFyyMVkE0AIn), [Bhavesh](https://open.spotify.com/artist/4qtiCD5tpuBcRCka9eDGSx) | [Kalam](https://open.spotify.com/album/34X3WZHw3g7lrL3madCyCz) | 2:34 | 2025-01-17 | 2025-02-22 |

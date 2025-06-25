@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: DJ Gigola
 
-507 songs - 1 day 7 hr 49 min
+508 songs - 1 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Alle werden alt](https://open.spotify.com/track/4H6IFl3r8jtbQbbUdeLZMq) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Alle werden alt](https://open.spotify.com/album/00aDacxHbkR3WvdehjaRU0) | 4:29 | 2025-04-24 |  |
 | [Alone Again](https://open.spotify.com/track/1x9SzB3cLpNsykCO5Y2BfR) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Alone Again](https://open.spotify.com/album/0YzIkTjBZPqImdQLx3VqTc) | 3:46 | 2024-12-16 | 2024-12-29 |
 | [ALONE TOGETHER](https://open.spotify.com/track/6xua5JD1sw8O9dhC79CPoK) | [Upper90](https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz) | [ALONE TOGETHER](https://open.spotify.com/album/6xJ2RBcLTAtyNJFtop7emI) | 4:47 | 2024-11-14 | 2024-12-10 |
+| [Alte Keks](https://open.spotify.com/track/58RBR8PTEQBHyUaiAz5fGH) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Mo\-Do](https://open.spotify.com/artist/3Y42QTbwNJeqEVmrMknG0f) | [Alte Keks](https://open.spotify.com/album/6YrSgCGaLLFG5yyJIVwr4C) | 2:58 | 2025-06-20 |  |
 | [Anybody Out There](https://open.spotify.com/track/1RNVJLDH2ZtLIkUqQd9QxI) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [Anybody Out There](https://open.spotify.com/album/5SRLMR7GftfOdciVf9DjKM) | 3:08 | 2023-08-10 | 2024-04-19 |
 | [At Night](https://open.spotify.com/track/3J571kOMtmPh3s3c57xpUW) | [Upper90](https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz), [Baron Von Trax](https://open.spotify.com/artist/0fwVrpm40ibmSV0BNqbQgT) | [At Night EP](https://open.spotify.com/album/1EjlFbnAJYYxw9n3YurTPA) | 3:58 | 2024-05-23 | 2024-06-14 |
 | [Atlantyda](https://open.spotify.com/track/0ChvWY0uRIGvXfhqvv8jC1) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [The World Of Monnom Black II](https://open.spotify.com/album/1Qmlt7Lujv1VgCP44rCKJT) | 6:36 | 2023-03-10 | 2023-04-19 |
@@ -366,7 +367,7 @@
 | [Rafters](https://open.spotify.com/track/3wyYvUZfeJRUPVW5PLaF4r) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Rafters](https://open.spotify.com/album/2Mycw8jnB4YUQyxejVx8Ov) | 3:07 | 2024-12-28 | 2025-01-07 |
 | [Rapide \(Feat\. Boby Cornelius\)](https://open.spotify.com/track/5KOoIgOLXhdqC70suGkoYW) | [DREAM DJ TEAM](https://open.spotify.com/artist/78HKXj2z44JthdgoqT9ElL), [Boby Cornelius](https://open.spotify.com/artist/1gRzKks0ok55INcBtuvmb4) | [Rapide \(Feat\. Boby Cornelius\)](https://open.spotify.com/album/1VAx7TSKvAotcxvC9qiZq8) | 5:37 | 2024-02-15 | 2024-04-06 |
 | [Rave Alert](https://open.spotify.com/track/6ps0ug4M1qOOL33KNcN0jD) | [AXXX7en](https://open.spotify.com/artist/1l3VzLTekQWDt5z2Q5eZnq), [Chris Veron](https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S) | [Rave Alert](https://open.spotify.com/album/7vGBqOTTqBdXQ5603uhBNJ) | 3:24 | 2023-11-09 | 2023-11-17 |
-| [Rave Call \(HELLO B!TCH\)](https://open.spotify.com/track/4F2zrADYSpWcMBhNcDXRl3) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Chris El Greco](https://open.spotify.com/artist/3TvatwVBsckmLkhtoaxp3K), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Rave Call \(HELLO B!TCH\)](https://open.spotify.com/album/5LkeL3VW2JCWZ78fFDFsmr) | 1:59 | 2025-05-29 |  |
+| [Rave Call \(HELLO B!TCH\)](https://open.spotify.com/track/4F2zrADYSpWcMBhNcDXRl3) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Chris El Greco](https://open.spotify.com/artist/3TvatwVBsckmLkhtoaxp3K), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Rave Call \(HELLO B!TCH\)](https://open.spotify.com/album/5LkeL3VW2JCWZ78fFDFsmr) | 1:59 | 2025-05-29 | 2025-06-25 |
 | [Rave Out](https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Rave Out](https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX) | 2:28 | 2023-07-07 |  |
 | [Reach Out](https://open.spotify.com/track/7kBYPyaxF3oE9EgjOMpGKs) | [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Reach Out](https://open.spotify.com/album/4PQub1Epc03quRvoxeT4OQ) | 2:18 | 2024-05-17 | 2025-01-29 |
 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 | 2023-05-05 | 2024-04-19 |

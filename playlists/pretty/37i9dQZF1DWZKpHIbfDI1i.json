@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Matisse en portada ",
-  "num_followers": 769474,
+  "num_followers": 769510,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-06-20 06:00:34",
       "album": {
-        "name": "PERDIDO",
-        "url": "https://open.spotify.com/album/1bySzNQNPElENKhS564NkO"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 156470,
-      "name": "PERDIDO",
-      "url": "https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM"
-    },
-    {
-      "added_at": "2025-06-20 06:00:34",
-      "album": {
         "name": "CUARTO AZUL",
         "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
       },
@@ -1147,38 +1131,38 @@
     {
       "added_at": "2025-06-20 06:00:34",
       "album": {
-        "name": "El Amigo",
-        "url": "https://open.spotify.com/album/6OySc3pqPzPDePgD017baK"
+        "name": "Noches De Cantina",
+        "url": "https://open.spotify.com/album/7s4iqJ8ygSoGZJuKm21v1g"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 189040,
-      "name": "El Amigo",
-      "url": "https://open.spotify.com/track/0MoIJDuJ2Q7XphYMIxWvRB"
+      "duration_ms": 233306,
+      "name": "Vivir Sin Aire",
+      "url": "https://open.spotify.com/track/5cPfJH1aUu9kIZyvZS7Ps7"
     },
     {
       "added_at": "2025-06-20 06:00:34",
       "album": {
-        "name": "Hija de Papi",
-        "url": "https://open.spotify.com/album/78cMuIUQQYUwv00d82SiNj"
+        "name": "PERDIDO",
+        "url": "https://open.spotify.com/album/1bySzNQNPElENKhS564NkO"
       },
       "artists": [
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 184766,
-      "name": "Hija de Papi",
-      "url": "https://open.spotify.com/track/4iFLN0kEn4iVNGsXjHJHnd"
+      "duration_ms": 156470,
+      "name": "PERDIDO",
+      "url": "https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM"
     },
     {
       "added_at": "2025-06-20 06:00:34",
@@ -1199,22 +1183,18 @@
     {
       "added_at": "2025-06-20 06:00:34",
       "album": {
-        "name": "Noches De Cantina",
-        "url": "https://open.spotify.com/album/7s4iqJ8ygSoGZJuKm21v1g"
+        "name": "El Amigo",
+        "url": "https://open.spotify.com/album/6OySc3pqPzPDePgD017baK"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 233306,
-      "name": "Vivir Sin Aire",
-      "url": "https://open.spotify.com/track/5cPfJH1aUu9kIZyvZS7Ps7"
+      "duration_ms": 189040,
+      "name": "El Amigo",
+      "url": "https://open.spotify.com/track/0MoIJDuJ2Q7XphYMIxWvRB"
     },
     {
       "added_at": "2025-06-20 06:00:34",
@@ -1243,6 +1223,26 @@
       "duration_ms": 219164,
       "name": "AURORA (feat. Armenta)",
       "url": "https://open.spotify.com/track/3s0rq0VmyDLZKjAnEjrQIZ"
+    },
+    {
+      "added_at": "2025-06-20 06:00:34",
+      "album": {
+        "name": "Hija de Papi",
+        "url": "https://open.spotify.com/album/78cMuIUQQYUwv00d82SiNj"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 184766,
+      "name": "Hija de Papi",
+      "url": "https://open.spotify.com/track/4iFLN0kEn4iVNGsXjHJHnd"
     },
     {
       "added_at": "2025-06-20 06:00:34",

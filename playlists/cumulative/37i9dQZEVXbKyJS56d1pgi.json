@@ -890,7 +890,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 219010,
       "name": "A Garagem Da Vizinha",
       "url": "https://open.spotify.com/track/7hMyxHOskG0Eq2cHQ52WnQ"
@@ -2256,7 +2256,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -2892,6 +2892,24 @@
       "duration_ms": 184089,
       "name": "Bahamas Promises",
       "url": "https://open.spotify.com/track/3JZjcKImHcmOI9ylL4zrSc"
+    },
+    {
+      "album": {
+        "name": "Baile do Ver\u00e3o",
+        "url": "https://open.spotify.com/album/0jKNg0uyi4bVC76vlWwdlt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Malhoa",
+          "url": "https://open.spotify.com/artist/4ZHvs0BKDrydsroLfNUNvf"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202293,
+      "name": "Baile de Ver\u00e3o",
+      "url": "https://open.spotify.com/track/5hXceiHQKQboXObDGQvxHy"
     },
     {
       "album": {
@@ -5138,7 +5156,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 173858,
       "name": "capaz (merengueton)",
       "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
@@ -15724,7 +15742,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-23",
+      "date_removed": null,
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
@@ -21334,7 +21352,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 175647,
       "name": "No More",
       "url": "https://open.spotify.com/track/2l9qEodKcuNIY11Muuq9di"
@@ -32674,7 +32692,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 135131,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
@@ -32848,7 +32866,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-23",
+      "date_removed": null,
       "duration_ms": 169071,
       "name": "Van Cleef",
       "url": "https://open.spotify.com/track/0sy2mtvcM7V5ETtmQIbGVt"

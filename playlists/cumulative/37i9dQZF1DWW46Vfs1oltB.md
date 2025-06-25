@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>j\-hope\)
 
-1,559 songs - 3 day 12 hr 8 min
+1,560 songs - 3 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1478,6 +1478,7 @@
 | [Why Can’t We \(Feat\. GIRIBOY\)](https://open.spotify.com/track/63iZBjTKFxHlmFK4DZXmk8) | [SOMDEF](https://open.spotify.com/artist/6jqPhhNZTfZbBVDYKWIQvT), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [MorningMare](https://open.spotify.com/album/3ftJVkxTGxLZMPmGpCDlLu) | 3:47 | 2021-12-21 | 2022-07-03 |
 | [WHY Y \(Feat\. Tiger JK\)](https://open.spotify.com/track/7k9rM0ZCWUn5Dg1t0vj0vi) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD) | [WHY Y](https://open.spotify.com/album/1ypeL7YGRCb4Byeh1i7OAU) | 3:06 | 2021-12-21 | 2022-06-27 |
 | [Why? \(Feat\. lobonabeat!\)](https://open.spotify.com/track/3l3v6o7F0kwZens780pMlg) | [Street Baby](https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim), [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva) | [W Y P](https://open.spotify.com/album/3YKUlAA3XfA0Ds9ahqlhV9) | 2:06 | 2023-07-11 | 2023-09-15 |
+| [WICKED](https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7) | 2:37 | 2025-06-25 |  |
 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 | 2022-12-02 | 2022-12-19 |
 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/1AZjCZSGEjlxUufFQwSszF) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Youjeen](https://open.spotify.com/artist/4wVcCedmr7FHtUlFnIeJIG) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 4:33 | 2022-12-14 | 2023-03-28 |
 | [Wild Mess \(Feat\. XINSAYNE\)](https://open.spotify.com/track/3nyocYbiiwRQzpdg5pqjt5) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [XINSAYNE](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS) | [MODM 2 : The Bento Knight](https://open.spotify.com/album/6tPGbMlyE8TfgpsuY1z4rV) | 3:12 | 2024-10-14 | 2025-01-02 |

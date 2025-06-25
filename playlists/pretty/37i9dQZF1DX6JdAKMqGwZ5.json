@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: LUSILLON.",
-  "num_followers": 200067,
+  "num_followers": 200103,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-06-19 22:00:50",
       "album": {
+        "name": "escocia",
+        "url": "https://open.spotify.com/album/2P97OH0fMjKhV5uUJ48A9j"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 177321,
+      "name": "escocia",
+      "url": "https://open.spotify.com/track/1qxZNxDrYHpewkRHZDGuhr"
+    },
+    {
+      "added_at": "2025-06-19 22:00:50",
+      "album": {
         "name": "El Silencio Del Ruido",
         "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 180874,
       "name": "Aut\u00f3ctono",
       "url": "https://open.spotify.com/track/1jHroiQTsNAUTbAaSGrIuN"
-    },
-    {
-      "added_at": "2025-06-19 22:00:50",
-      "album": {
-        "name": "escocia",
-        "url": "https://open.spotify.com/album/2P97OH0fMjKhV5uUJ48A9j"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 177321,
-      "name": "escocia",
-      "url": "https://open.spotify.com/track/1qxZNxDrYHpewkRHZDGuhr"
     },
     {
       "added_at": "2025-06-19 22:00:50",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-06-19 22:00:50",
       "album": {
-        "name": "El Silencio Del Ruido",
-        "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "Gatos De Gasolinera",
-      "url": "https://open.spotify.com/track/4Tnw9OgfPhkztVeIVBwOKF"
-    },
-    {
-      "added_at": "2025-06-19 22:00:50",
-      "album": {
         "name": "Se Nota",
         "url": "https://open.spotify.com/album/5fVTPrTxBTJcKJTx0l0t1N"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2025-06-19 22:00:50",
       "album": {
-        "name": "filosofar",
-        "url": "https://open.spotify.com/album/5GGzlFiPvXm9FEtitwFQJ4"
+        "name": "El Silencio Del Ruido",
+        "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
       },
       "artists": [
         {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
         }
       ],
-      "duration_ms": 223392,
-      "name": "filosofar",
-      "url": "https://open.spotify.com/track/79S7y4SK9JH1jmq6rEtb5L"
+      "duration_ms": 157653,
+      "name": "Gatos De Gasolinera",
+      "url": "https://open.spotify.com/track/4Tnw9OgfPhkztVeIVBwOKF"
     },
     {
       "added_at": "2025-06-19 22:00:50",
@@ -991,6 +975,22 @@
       "duration_ms": 212000,
       "name": "Mejor*",
       "url": "https://open.spotify.com/track/7y9PJa6g3OzSTWejceuyCo"
+    },
+    {
+      "added_at": "2025-06-19 22:00:50",
+      "album": {
+        "name": "filosofar",
+        "url": "https://open.spotify.com/album/5GGzlFiPvXm9FEtitwFQJ4"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 223392,
+      "name": "filosofar",
+      "url": "https://open.spotify.com/track/79S7y4SK9JH1jmq6rEtb5L"
     },
     {
       "added_at": "2025-06-19 22:00:50",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-06-19 22:00:50",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/1qxw7hsr6tV4C4r3kOrPfW"
-      },
-      "artists": [
-        {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        }
-      ],
-      "duration_ms": 171124,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/3VgmM323MRWa41Ilc2OHoT"
-    },
-    {
-      "added_at": "2025-06-19 22:00:50",
-      "album": {
         "name": "El amor que solo a ti te pertenece",
         "url": "https://open.spotify.com/album/7B7eYLcLAaB8i3YjkTNmgT"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 294545,
       "name": "El amor que solo a ti te pertenece",
       "url": "https://open.spotify.com/track/2TxZvBYHnpZsjxgEbxh4HN"
+    },
+    {
+      "added_at": "2025-06-19 22:00:50",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/1qxw7hsr6tV4C4r3kOrPfW"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 171124,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3VgmM323MRWa41Ilc2OHoT"
     },
     {
       "added_at": "2025-06-19 22:00:50",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-06-19 22:00:50",
       "album": {
-        "name": "Cl\u00edmax",
-        "url": "https://open.spotify.com/album/2Q2n29Ql0hrp4BZycSDPyc"
-      },
-      "artists": [
-        {
-          "name": "dani dicostas",
-          "url": "https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl"
-        }
-      ],
-      "duration_ms": 178048,
-      "name": "Cl\u00edmax",
-      "url": "https://open.spotify.com/track/4AO4y1C38GlVToUZ49VLKa"
-    },
-    {
-      "added_at": "2025-06-19 22:00:50",
-      "album": {
         "name": "No Me Digas La Verdad",
         "url": "https://open.spotify.com/album/72Yjfy1e1BQdyqy4srqm4c"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 195389,
       "name": "No Me Digas La Verdad",
       "url": "https://open.spotify.com/track/3S9GbQOX6DzHpRKQLBII0F"
+    },
+    {
+      "added_at": "2025-06-19 22:00:50",
+      "album": {
+        "name": "Cl\u00edmax",
+        "url": "https://open.spotify.com/album/2Q2n29Ql0hrp4BZycSDPyc"
+      },
+      "artists": [
+        {
+          "name": "dani dicostas",
+          "url": "https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl"
+        }
+      ],
+      "duration_ms": 178048,
+      "name": "Cl\u00edmax",
+      "url": "https://open.spotify.com/track/4AO4y1C38GlVToUZ49VLKa"
     },
     {
       "added_at": "2025-06-19 22:00:50",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-06-19 22:00:50",
       "album": {
-        "name": "Fases",
-        "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
-      },
-      "artists": [
-        {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
-        }
-      ],
-      "duration_ms": 225221,
-      "name": "Fases",
-      "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
-    },
-    {
-      "added_at": "2025-06-19 22:00:50",
-      "album": {
         "name": "Me Vas A Matar",
         "url": "https://open.spotify.com/album/47p8ezM1oipFKpKu8Vtesj"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 188013,
       "name": "Me Vas A Matar",
       "url": "https://open.spotify.com/track/4GytDQxnbGL5KoR5NHkbFu"
+    },
+    {
+      "added_at": "2025-06-19 22:00:50",
+      "album": {
+        "name": "Fases",
+        "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
+      },
+      "artists": [
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        }
+      ],
+      "duration_ms": 225221,
+      "name": "Fases",
+      "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
     },
     {
       "added_at": "2025-06-19 22:00:50",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2025-06-19 22:00:50",
       "album": {
+        "name": "Decid\u00ed Desaparecer",
+        "url": "https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO"
+      },
+      "artists": [
+        {
+          "name": "Lisasinson",
+          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
+        }
+      ],
+      "duration_ms": 163001,
+      "name": "Decid\u00ed Desaparecer",
+      "url": "https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH"
+    },
+    {
+      "added_at": "2025-06-19 22:00:50",
+      "album": {
         "name": "ibuprofeno",
         "url": "https://open.spotify.com/album/0mTNr1HUhIJYiaWd86FUDl"
       },
@@ -1471,18 +1487,34 @@
     {
       "added_at": "2025-06-19 22:00:50",
       "album": {
-        "name": "Decid\u00ed Desaparecer",
-        "url": "https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO"
+        "name": "Loba",
+        "url": "https://open.spotify.com/album/2tPRqJJ9coHfIpoNATYe2H"
       },
       "artists": [
         {
-          "name": "Lisasinson",
-          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
         }
       ],
-      "duration_ms": 163001,
-      "name": "Decid\u00ed Desaparecer",
-      "url": "https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH"
+      "duration_ms": 193006,
+      "name": "Loba",
+      "url": "https://open.spotify.com/track/0Ng1Xrd0pl4yi0Yrk4tYMF"
+    },
+    {
+      "added_at": "2025-06-19 22:00:50",
+      "album": {
+        "name": "El Bosque",
+        "url": "https://open.spotify.com/album/3Z3nDVA3nbeSRbJY1hAcpq"
+      },
+      "artists": [
+        {
+          "name": "MERINO",
+          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
+        }
+      ],
+      "duration_ms": 238945,
+      "name": "La Br\u00fajula [2018]",
+      "url": "https://open.spotify.com/track/1NRJBv0Kk2eMfPoU5OS5EA"
     },
     {
       "added_at": "2025-06-19 22:00:50",
@@ -1503,22 +1535,6 @@
       "duration_ms": 206086,
       "name": "Nuevas melod\u00edas (feat. Mario Diaz)",
       "url": "https://open.spotify.com/track/7K8lR16djMcWJ1GHcenpVV"
-    },
-    {
-      "added_at": "2025-06-19 22:00:50",
-      "album": {
-        "name": "El Bosque",
-        "url": "https://open.spotify.com/album/3Z3nDVA3nbeSRbJY1hAcpq"
-      },
-      "artists": [
-        {
-          "name": "MERINO",
-          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
-        }
-      ],
-      "duration_ms": 238945,
-      "name": "La Br\u00fajula [2018]",
-      "url": "https://open.spotify.com/track/1NRJBv0Kk2eMfPoU5OS5EA"
     },
     {
       "added_at": "2025-06-19 22:00:50",
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2025-06-19 22:00:50",
       "album": {
-        "name": "Loba",
-        "url": "https://open.spotify.com/album/2tPRqJJ9coHfIpoNATYe2H"
-      },
-      "artists": [
-        {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        }
-      ],
-      "duration_ms": 193006,
-      "name": "Loba",
-      "url": "https://open.spotify.com/track/0Ng1Xrd0pl4yi0Yrk4tYMF"
-    },
-    {
-      "added_at": "2025-06-19 22:00:50",
-      "album": {
         "name": "El Psicod\u00e9lico (Guajira del Diablo)",
         "url": "https://open.spotify.com/album/1tq2mdZBrjiBSOfn7Yk6pT"
       },
@@ -1599,22 +1599,6 @@
       "duration_ms": 214399,
       "name": "El \u00c1rbol [2007]",
       "url": "https://open.spotify.com/track/15tf0pP4EbDeAEkFUlvUVg"
-    },
-    {
-      "added_at": "2025-06-19 22:00:50",
-      "album": {
-        "name": "nada importa",
-        "url": "https://open.spotify.com/album/2bTaFjfeNdUP4o21HMfIV3"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 178904,
-      "name": "nada importa",
-      "url": "https://open.spotify.com/track/6ZMyikTYNuTAx7kYPgHrUW"
     },
     {
       "added_at": "2025-06-19 22:00:50",
@@ -1651,34 +1635,50 @@
     {
       "added_at": "2025-06-19 22:00:50",
       "album": {
-        "name": "SUSANA",
-        "url": "https://open.spotify.com/album/2Nsd5rzzglUvOMPW92wJ0s"
+        "name": "Espina",
+        "url": "https://open.spotify.com/album/5xB3QxKQ5uiNL3YH6aOLtu"
       },
       "artists": [
         {
-          "name": "Confeti de Odio",
-          "url": "https://open.spotify.com/artist/3C1CPJ9K2aeHuj1x22B0qJ"
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
         }
       ],
-      "duration_ms": 165280,
-      "name": "SUSANA",
-      "url": "https://open.spotify.com/track/58hxPfgSJZKp2AoRlU0mQS"
+      "duration_ms": 183093,
+      "name": "Espina",
+      "url": "https://open.spotify.com/track/2rHjLXPpOmu5rKHPaUa8Qb"
     },
     {
       "added_at": "2025-06-19 22:00:50",
       "album": {
-        "name": "Mar Menor",
-        "url": "https://open.spotify.com/album/5Na89Ihw3GMBVqtQqfLfLW"
+        "name": "nada importa",
+        "url": "https://open.spotify.com/album/2bTaFjfeNdUP4o21HMfIV3"
       },
       "artists": [
         {
-          "name": "Jordana B.",
-          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
         }
       ],
-      "duration_ms": 193829,
-      "name": "Mar Menor",
-      "url": "https://open.spotify.com/track/05ayk6fobIziUqX3BSslaK"
+      "duration_ms": 178904,
+      "name": "nada importa",
+      "url": "https://open.spotify.com/track/6ZMyikTYNuTAx7kYPgHrUW"
+    },
+    {
+      "added_at": "2025-06-19 22:00:50",
+      "album": {
+        "name": "El mejor verano de la vida",
+        "url": "https://open.spotify.com/album/1gTXbQtT1bSiEUpvm7GmhJ"
+      },
+      "artists": [
+        {
+          "name": "Smile",
+          "url": "https://open.spotify.com/artist/47IdumnUeVozInz0gfdk6o"
+        }
+      ],
+      "duration_ms": 206450,
+      "name": "El mejor verano de la vida",
+      "url": "https://open.spotify.com/track/4T2kuozefT58bTo3l1XYaL"
     }
   ],
   "unique_name": "Radar Indie",

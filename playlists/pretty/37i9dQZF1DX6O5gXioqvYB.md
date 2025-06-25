@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Il futuro dell'indie italiano è in questa playlist 🫧 Cover: Myricae
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,640 likes - 110 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,644 likes - 110 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1035,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "The Definitive Collection (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1vQrNEAdt2eHCXAvdIs1M2"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279093,
+      "name": "I Ain't Gonna Stand For It",
+      "url": "https://open.spotify.com/track/4Jj2j9Wlzt1dpS5ZC0kcqt"
+    },
+    {
+      "album": {
         "name": "Voa",
         "url": "https://open.spotify.com/album/4Tegu60DeUzwWpA6vuhGxs"
       },
@@ -2736,7 +2754,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 221853,
       "name": "What About Love?",
       "url": "https://open.spotify.com/track/5DT5P7CPp0uapcvcj7yw2X"

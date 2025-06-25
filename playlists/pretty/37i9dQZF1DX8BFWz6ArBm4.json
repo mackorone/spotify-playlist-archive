@@ -1,6 +1,6 @@
 {
   "description": "\u2600\ufe0f \u0393\u03b9\u03b1\u03c4\u03af \u03b4\u03b5\u03bd \u03bd\u03bf\u03b5\u03af\u03c4\u03b1\u03b9 \u03ba\u03b1\u03bb\u03bf\u03ba\u03b1\u03af\u03c1\u03b9 \u03c7\u03c9\u03c1\u03af\u03c2 \u03c4\u03b9\u03c2 \u03b1\u03b3\u03b1\u03c0\u03b7\u03bc\u03ad\u03bd\u03b5\u03c2 \u03c3\u03bf\u03c5 \u03bb\u03b1\u0399\u03ba\u03ad\u03c2 \u03c6\u03c9\u03bd\u03ad\u03c2 \u2600\ufe0f\u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Giorgos Kakosaios",
-  "num_followers": 35382,
+  "num_followers": 35389,
   "original_name": "K\u03b1\u03bb\u03bf\u03ba\u03b1\u03b9\u03c1\u03b9\u03bd\u03ac \u039b\u03b1\u03ca\u03ba\u03ac ",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2025-06-19 21:00:18",
       "album": {
+        "name": "Skoteine Mou Erota",
+        "url": "https://open.spotify.com/album/44Yy04tr3fuqM278nG4wuO"
+      },
+      "artists": [
+        {
+          "name": "Thodoris Ferris",
+          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
+        }
+      ],
+      "duration_ms": 254579,
+      "name": "Skoteine Mou Erota",
+      "url": "https://open.spotify.com/track/2ne8nKFYuYTUnhsUAtELii"
+    },
+    {
+      "added_at": "2025-06-19 21:00:18",
+      "album": {
         "name": "Me 'Geia Sou",
         "url": "https://open.spotify.com/album/7uzlu2dTEzbZsbcFVJh96l"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 222397,
       "name": "Me 'Geia Sou",
       "url": "https://open.spotify.com/track/7A2hkIrbMR3643optl8Utm"
-    },
-    {
-      "added_at": "2025-06-19 21:00:18",
-      "album": {
-        "name": "Skoteine Mou Erota",
-        "url": "https://open.spotify.com/album/44Yy04tr3fuqM278nG4wuO"
-      },
-      "artists": [
-        {
-          "name": "Thodoris Ferris",
-          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
-        }
-      ],
-      "duration_ms": 254579,
-      "name": "Skoteine Mou Erota",
-      "url": "https://open.spotify.com/track/2ne8nKFYuYTUnhsUAtELii"
     },
     {
       "added_at": "2025-06-19 21:00:18",
@@ -375,6 +375,22 @@
     {
       "added_at": "2025-06-19 21:00:18",
       "album": {
+        "name": "Tetoia Ora Tetoia Logia",
+        "url": "https://open.spotify.com/album/3kO8SldfCQ9QQHmJKhYdbS"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Kakosaios",
+          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
+        }
+      ],
+      "duration_ms": 192499,
+      "name": "Tetoia Ora Tetoia Logia",
+      "url": "https://open.spotify.com/track/54nRNSRJJXH1XIJZY4H5Xm"
+    },
+    {
+      "added_at": "2025-06-19 21:00:18",
+      "album": {
         "name": "Gyrismos",
         "url": "https://open.spotify.com/album/1dAWCzUopvEyjmSg7py5Cp"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 212250,
       "name": "Gyrismos",
       "url": "https://open.spotify.com/track/4LQd54eTyzSTld755Ke7yY"
-    },
-    {
-      "added_at": "2025-06-19 21:00:18",
-      "album": {
-        "name": "Tetoia Ora Tetoia Logia",
-        "url": "https://open.spotify.com/album/3kO8SldfCQ9QQHmJKhYdbS"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Kakosaios",
-          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
-        }
-      ],
-      "duration_ms": 192499,
-      "name": "Tetoia Ora Tetoia Logia",
-      "url": "https://open.spotify.com/track/54nRNSRJJXH1XIJZY4H5Xm"
     },
     {
       "added_at": "2025-06-19 21:00:18",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-06-19 21:00:18",
       "album": {
-        "name": "Me Sighorite",
-        "url": "https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk"
-      },
-      "artists": [
-        {
-          "name": "Petros Iakovidis",
-          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
-        }
-      ],
-      "duration_ms": 210007,
-      "name": "Me Sighorite",
-      "url": "https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww"
-    },
-    {
-      "added_at": "2025-06-19 21:00:18",
-      "album": {
         "name": "Monaxia",
         "url": "https://open.spotify.com/album/6UneAU2jm2vCCM7l3cpoGP"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 204090,
       "name": "Monaxia",
       "url": "https://open.spotify.com/track/2AnmJmjWb52KlIojfW7mU2"
+    },
+    {
+      "added_at": "2025-06-19 21:00:18",
+      "album": {
+        "name": "Me Sighorite",
+        "url": "https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk"
+      },
+      "artists": [
+        {
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+        }
+      ],
+      "duration_ms": 210007,
+      "name": "Me Sighorite",
+      "url": "https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww"
     },
     {
       "added_at": "2025-06-19 21:00:18",
@@ -547,6 +547,22 @@
     {
       "added_at": "2025-06-19 21:00:18",
       "album": {
+        "name": "To Pairno Pano Mou",
+        "url": "https://open.spotify.com/album/4xeJZt5RAxuzOKpZZYXqTD"
+      },
+      "artists": [
+        {
+          "name": "Thodoris Ferris",
+          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
+        }
+      ],
+      "duration_ms": 190053,
+      "name": "To Pairno Pano Mou",
+      "url": "https://open.spotify.com/track/5QQp2bt4O4EKnwgBXgOpDb"
+    },
+    {
+      "added_at": "2025-06-19 21:00:18",
+      "album": {
         "name": "Anexartiti",
         "url": "https://open.spotify.com/album/7bgNFF9fzMFrSkzdDwUBa8"
       },
@@ -567,22 +583,6 @@
     {
       "added_at": "2025-06-19 21:00:18",
       "album": {
-        "name": "To Pairno Pano Mou",
-        "url": "https://open.spotify.com/album/4xeJZt5RAxuzOKpZZYXqTD"
-      },
-      "artists": [
-        {
-          "name": "Thodoris Ferris",
-          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
-        }
-      ],
-      "duration_ms": 190053,
-      "name": "To Pairno Pano Mou",
-      "url": "https://open.spotify.com/track/5QQp2bt4O4EKnwgBXgOpDb"
-    },
-    {
-      "added_at": "2025-06-19 21:00:18",
-      "album": {
         "name": "To Vale",
         "url": "https://open.spotify.com/album/2C0uxbnyamMjZz7ah7BGtk"
       },
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-06-19 21:00:18",
       "album": {
-        "name": "Asteromata",
-        "url": "https://open.spotify.com/album/7AcIPo1Qwfo9aksap4eH2y"
-      },
-      "artists": [
-        {
-          "name": "Klavdia",
-          "url": "https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Auta Ta Matia Ta Glika",
-      "url": "https://open.spotify.com/track/2Vw2NoEC3IbUYhOCqN6rQZ"
-    },
-    {
-      "added_at": "2025-06-19 21:00:18",
-      "album": {
         "name": "Etsi Koitazes Emena",
         "url": "https://open.spotify.com/album/5sjhWMhT6DCVuYLleNQ2bM"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 228636,
       "name": "Etsi Koitazes Emena",
       "url": "https://open.spotify.com/track/68A2k130DNYxhUnI0HLjKH"
+    },
+    {
+      "added_at": "2025-06-19 21:00:18",
+      "album": {
+        "name": "Asteromata",
+        "url": "https://open.spotify.com/album/7AcIPo1Qwfo9aksap4eH2y"
+      },
+      "artists": [
+        {
+          "name": "Klavdia",
+          "url": "https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Auta Ta Matia Ta Glika",
+      "url": "https://open.spotify.com/track/2Vw2NoEC3IbUYhOCqN6rQZ"
     },
     {
       "added_at": "2025-06-19 21:00:18",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-06-19 21:00:18",
       "album": {
-        "name": "Na Giriseis Pou",
-        "url": "https://open.spotify.com/album/3NtmGvcOSVqR53Qw2JL7mo"
-      },
-      "artists": [
-        {
-          "name": "Nikos Makropoulos",
-          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
-        }
-      ],
-      "duration_ms": 166105,
-      "name": "Na Giriseis Pou",
-      "url": "https://open.spotify.com/track/12yBDRdAFphLSeubaMO4Cc"
-    },
-    {
-      "added_at": "2025-06-19 21:00:18",
-      "album": {
         "name": "Tha Me Kitas Sta Matia",
         "url": "https://open.spotify.com/album/6FGxQlqvjBCBlvHTVAyEEf"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 198875,
       "name": "Giati S' Emena",
       "url": "https://open.spotify.com/track/07VYoZedBJpgqRzGGPHg5P"
+    },
+    {
+      "added_at": "2025-06-19 21:00:18",
+      "album": {
+        "name": "Na Giriseis Pou",
+        "url": "https://open.spotify.com/album/3NtmGvcOSVqR53Qw2JL7mo"
+      },
+      "artists": [
+        {
+          "name": "Nikos Makropoulos",
+          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
+        }
+      ],
+      "duration_ms": 166105,
+      "name": "Na Giriseis Pou",
+      "url": "https://open.spotify.com/track/12yBDRdAFphLSeubaMO4Cc"
     },
     {
       "added_at": "2025-06-19 21:00:18",

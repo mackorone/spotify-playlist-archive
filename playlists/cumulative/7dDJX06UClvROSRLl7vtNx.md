@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-909 songs - 1 day 15 hr 26 min
+910 songs - 1 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,6 +379,7 @@
 | [In Another Life](https://open.spotify.com/track/0NFSzRq2A7lb89ykonlkqZ) | [Cale](https://open.spotify.com/artist/4pE5amRArtmThtna3eGERQ) | [In Another Life](https://open.spotify.com/album/0qYEcNCc1W0ZzozJIv6gB5) | 2:05 | 2025-05-24 |  |
 | [In My Arms](https://open.spotify.com/track/7pPte6HEi00pcjkm3JoTMs) | [Bayshore Court](https://open.spotify.com/artist/0lMvjrlg2CPHQiVHPIzdDg), [Raphael DeLove](https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA) | [In My Arms](https://open.spotify.com/album/1FUKGdMisHaudAaFzdRA54) | 2:21 | 2025-05-24 |  |
 | [In My Dreams](https://open.spotify.com/track/5fcsXkwywOqIpQBDOlaLH2) | [ItsLee](https://open.spotify.com/artist/1dq0GAzGi7vIwvcREuVKiZ), [Patrick Aretz](https://open.spotify.com/artist/44bMkU8chE8FJimdH4XyD6) | [In My Dreams](https://open.spotify.com/album/0CBgHoqep6A9LpledmXVAx) | 2:25 | 2024-04-05 | 2024-08-08 |
+| [In My Life \(Oh Ayah\)](https://open.spotify.com/track/1LzvTGwdQEnAy9OexQ3TYs) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [AFRONOM](https://open.spotify.com/artist/05bZsDsrfQMnG83yks0Sg0), [vidi roca](https://open.spotify.com/artist/6jrFGWNf3MF89fhTbnCsBj) | [In My Life \(Oh Ayah\)](https://open.spotify.com/album/3hSEYCMqIsNEn263DkDO4l) | 2:41 | 2025-06-24 |  |
 | [In September](https://open.spotify.com/track/3IRSc1HgmJv0mwe2P1gY7u) | [Kin Alura](https://open.spotify.com/artist/5UbieAXGfZvPmsbbvdb3Xc), [LUKUS](https://open.spotify.com/artist/1MRIxJ469v984abDvc1sMi), [Balmy Buoy](https://open.spotify.com/artist/65usRz9lf3wbkGzsnNUa7d) | [In September](https://open.spotify.com/album/0XdYZ5AV3VKgpdxl4Q4dRX) | 2:22 | 2025-03-01 |  |
 | [In The Dark](https://open.spotify.com/track/6f9x5G9CzVSdhmAltt9s0x) | [Felipe Allenn](https://open.spotify.com/artist/3ApsbRT5vKW3VaNcUlDy6D) | [In The Dark](https://open.spotify.com/album/1c4t02k8yshVDBiuAUEHWL) | 2:55 | 2025-06-01 |  |
 | [In Too Deep](https://open.spotify.com/track/4FHviKAJ137SAE8T7PLIOK) | [Syrah](https://open.spotify.com/artist/5WEUU6Cjfx9zJdMeaZfMs2), [Levka Rey](https://open.spotify.com/artist/6jaX71Jjhu6nfYVdaPTJYi) | [In Too Deep](https://open.spotify.com/album/3Ox7fKbJipALk6dKQv01WT) | 3:03 | 2024-07-18 | 2025-01-26 |

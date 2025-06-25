@@ -1,6 +1,6 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: KISS OF LIFE)",
-  "num_followers": 247466,
+  "num_followers": 247581,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-02-19 04:54:12",
       "album": {
-        "name": "Summer Magic - Summer Mini Album",
-        "url": "https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Blue Lemonade",
-      "url": "https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz"
-    },
-    {
-      "added_at": "2025-02-19 04:54:12",
-      "album": {
         "name": "The Road : Keep on Going - The 11th Album Vol.1",
         "url": "https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 199213,
       "name": "Mango",
       "url": "https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt"
+    },
+    {
+      "added_at": "2025-02-19 04:54:12",
+      "album": {
+        "name": "Summer Magic - Summer Mini Album",
+        "url": "https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Blue Lemonade",
+      "url": "https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz"
     },
     {
       "added_at": "2025-02-19 04:54:12",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-02-19 04:54:12",
       "album": {
-        "name": "Way Back Home: The Remixes",
-        "url": "https://open.spotify.com/album/51GAQZhR2s0tVHHLFqqYwU"
-      },
-      "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        }
-      ],
-      "duration_ms": 210750,
-      "name": "Way Back Home - Advanced Remix",
-      "url": "https://open.spotify.com/track/0I8oItfrq8SHNDKNMxNpqD"
-    },
-    {
-      "added_at": "2025-02-19 04:54:12",
-      "album": {
         "name": "The Blowing",
         "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
       },
@@ -1643,18 +1627,18 @@
     {
       "added_at": "2025-02-19 04:54:12",
       "album": {
-        "name": "SPECIAL ALBUM <For the Summer>",
-        "url": "https://open.spotify.com/album/53gncm4YYhGNfqgPWSgXbJ"
+        "name": "Way Back Home: The Remixes",
+        "url": "https://open.spotify.com/album/51GAQZhR2s0tVHHLFqqYwU"
       },
       "artists": [
         {
-          "name": "WJSN",
-          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
         }
       ],
-      "duration_ms": 183787,
-      "name": "Boogie Up",
-      "url": "https://open.spotify.com/track/6u5ipVfAHGjTXvWuiI5sKB"
+      "duration_ms": 210750,
+      "name": "Way Back Home - Advanced Remix",
+      "url": "https://open.spotify.com/track/0I8oItfrq8SHNDKNMxNpqD"
     },
     {
       "added_at": "2025-02-19 04:54:12",
@@ -1675,6 +1659,22 @@
       "duration_ms": 196866,
       "name": "Love & hate (Feat. BIBI)",
       "url": "https://open.spotify.com/track/61IDvkbJDswvorhLqcplMW"
+    },
+    {
+      "added_at": "2025-02-19 04:54:12",
+      "album": {
+        "name": "SPECIAL ALBUM <For the Summer>",
+        "url": "https://open.spotify.com/album/53gncm4YYhGNfqgPWSgXbJ"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "duration_ms": 183787,
+      "name": "Boogie Up",
+      "url": "https://open.spotify.com/track/6u5ipVfAHGjTXvWuiI5sKB"
     }
   ],
   "unique_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",

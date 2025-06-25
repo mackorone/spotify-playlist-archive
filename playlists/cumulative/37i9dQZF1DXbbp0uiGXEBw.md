@@ -4,7 +4,7 @@
 
 > Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt \. Ảnh bìa: Cầm
 
-326 songs - 20 hr 42 min
+326 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Mỗi Khi Anh Nhìn Em](https://open.spotify.com/track/3PKqHxhKXSOfENDJywBFOe) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Em](https://open.spotify.com/album/5r85lwBL5ytrpQlWSAsNjy) | 3:10 | 2025-03-04 | 2025-06-05 |
 | [Mỗi Khi Anh Nhìn Em](https://open.spotify.com/track/3sU34vxNXY8rDdfkFPqiKO) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Em•Me \(Full Circle Edition\)](https://open.spotify.com/album/6xfxgx6Hkit06gueMUNCME) | 3:10 | 2025-02-04 | 2025-02-14 |
 | [Một Cú Lừa](https://open.spotify.com/track/2LKI0fGEKR3RWAiY2jqq8k) | [Bich Phuong](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [tâm trạng tan hơi chậm một chút](https://open.spotify.com/album/0JoA8Z6TWI31c6uWXldxyU) | 3:28 | 2021-12-07 | 2022-07-29 |
-| [Một Cú Lừa](https://open.spotify.com/track/16YX7SfThwFHdSYYWO6VaL) | [Bích Phương](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [tâm trạng tan hơi chậm một chút](https://open.spotify.com/album/56sZf01q5Ih5jXICYyslq7) | 3:28 | 2022-07-24 |  |
+| [Một Cú Lừa](https://open.spotify.com/track/16YX7SfThwFHdSYYWO6VaL) | [Bích Phương](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [tâm trạng tan hơi chậm một chút](https://open.spotify.com/album/56sZf01q5Ih5jXICYyslq7) | 2:32 | 2022-07-24 |  |
 | [Một Ngàn Nỗi Đau](https://open.spotify.com/track/05X3a0YGmS1rbH50aL8lGF) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Một Ngàn Nỗi Đau](https://open.spotify.com/album/3STAYL3gX9aQx2oi3yslIz) | 5:21 | 2022-06-30 | 2022-10-05 |
 | [Một Ngày Chẳng Nắng](https://open.spotify.com/track/7hkvAaJNRlnetwv8Se2kDA) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9) | [Một Ngày Chẳng Nắng](https://open.spotify.com/album/5KOH4cewrrp8flJpIAmeoX) | 3:12 | 2023-06-06 |  |
 | [Một Người Đánh Mất Một Người](https://open.spotify.com/track/6slHerkX6036uziyYSOtZn) | [O.lew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Một Người Đánh Mất Một Người](https://open.spotify.com/album/7aZjLp9YLf3CdJLATM5NxT) | 4:17 | 2023-11-29 | 2024-03-08 |

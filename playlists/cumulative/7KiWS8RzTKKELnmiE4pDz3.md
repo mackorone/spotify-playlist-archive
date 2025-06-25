@@ -4,7 +4,7 @@
 
 > 
 
-1,057 songs - 2 day 4 hr 49 min
+1,059 songs - 2 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,6 +503,7 @@
 | [Leave Her](https://open.spotify.com/track/4OevKxZzvjUz0JJGP55NVw) | [killmykel](https://open.spotify.com/artist/01pXBAJhJrvGBVZXzN9VjI) | [Leave Her](https://open.spotify.com/album/19mLbhUJhwC7A2zv16T9x2) | 2:05 | 2022-07-28 | 2023-05-09 |
 | [Leave Her](https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Leave Her](https://open.spotify.com/album/1kLl5rrXewZ0SP0wcNSWcc) | 2:17 | 2023-05-06 | 2023-12-14 |
 | [Left 4 Dead](https://open.spotify.com/track/4SRBv9M0wIPIw916zWfhkU) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Days B4 III](https://open.spotify.com/album/0p1QXY0M8LRXybgy9TchHE) | 2:19 | 2022-09-01 | 2023-05-09 |
+| [Lemonhaze](https://open.spotify.com/track/2bydO0jZES9rBvSnPvYN5L) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [A PawPaw Rod EP](https://open.spotify.com/album/6rdGxnA5zzF0Nly6ZqUwCH) | 2:36 | 2025-06-24 |  |
 | [Let Me Down \(feat\. 42 Dugg\)](https://open.spotify.com/track/6llGDhBN87RFLmycNwfJZI) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [FACE \(Deluxe Edition\)](https://open.spotify.com/album/4GZSso90oXNVv0OdzXGjth) | 3:19 | 2022-12-11 | 2023-05-09 |
 | [Levels](https://open.spotify.com/track/5CaRC4vLfeUnSdP35GkWPA) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Spaz&B](https://open.spotify.com/album/4o9KIv44CjPEH7qFFmeWzL) | 2:15 | 2023-01-07 | 2023-04-11 |
 | [Levels Vol\. 2](https://open.spotify.com/track/4j8F7ySiiH5wm7vP66n0kk) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [After TTBR](https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa) | 1:51 | 2024-03-04 | 2024-11-06 |
@@ -815,6 +816,7 @@
 | [Self Care](https://open.spotify.com/track/4os8zlf0umDZxCvZC2u2Z1) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Cold Summer](https://open.spotify.com/album/0TxLAUhKclBHQUoeunGQlq) | 1:46 | 2023-04-11 | 2023-05-09 |
 | [Serious Shit](https://open.spotify.com/track/521qLebnOvsIOtJKhQvGmi) | [Lil Ugly Mane](https://open.spotify.com/artist/2gPLG9mGaU67woC5L0luYA) | [Mista Thug Isolation](https://open.spotify.com/album/6VNXIYzXocTyZMNDLG88Gb) | 3:36 | 2024-04-23 | 2024-11-06 |
 | [Servin](https://open.spotify.com/track/5b08yoDiuEkjEzeFqZ7NRt) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Trap God 2](https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM) | 4:02 | 2025-05-06 | 2025-05-21 |
+| [Seven Days in Sunny June](https://open.spotify.com/track/2bwxqGKS5GPXfNanAIRe2p) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Dynamite](https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW) | 3:57 | 2025-06-24 |  |
 | [Seven Million \(feat\. Future\)](https://open.spotify.com/track/6j0teRL3WdExzqmy334sh5) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Perfect LUV Tape](https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67) | 3:02 | 2024-12-23 |  |
 | [Sexual Healing](https://open.spotify.com/track/4PxqfF3aezYRkheYir1T5g) | [Grailed](https://open.spotify.com/artist/5wgXWK6qGrFD6uAFENCLXo) | [Sexual Healing](https://open.spotify.com/album/1Uo1cBKWEQdHUXoe7WYW82) | 2:33 | 2022-12-15 | 2024-11-06 |
 | [Señorita](https://open.spotify.com/track/0aj2QKJvz6CePykmlTApiD) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:54 | 2025-04-25 |  |

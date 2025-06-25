@@ -1,13 +1,29 @@
 {
   "description": "Get nostalgic with all the summer hits and bangers you'll need. From Beyonc\u00e9, Alicia Keys, John Legend, Miley Cyrus, P!nk and many more....",
-  "num_followers": 455808,
+  "num_followers": 455777,
   "original_name": "2010s Summer Pop Throwbacks \u2600\ufe0f\ud83e\udda9\ud83c\udf34",
   "owner": {
     "name": "Filtr UK",
     "url": "https://open.spotify.com/user/sonymusicuk"
   },
-  "snapshot_id": "AAAM1UfswuBaAkmhG0U0QETcnKD8vaAt",
+  "snapshot_id": "AAAM2oUMt96vNFj+e0Fxf3fsEiIesyhq",
   "tracks": [
+    {
+      "added_at": "2025-06-24 13:07:14",
+      "album": {
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Your Love Is My Drug",
+      "url": "https://open.spotify.com/track/6vc2Jq2vaGu8z326kSrw92"
+    },
     {
       "added_at": "2024-08-22 14:45:17",
       "album": {
@@ -55,6 +71,26 @@
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+    },
+    {
+      "added_at": "2024-08-22 14:45:17",
+      "album": {
+        "name": "Happy Hour: The Greatest Hits",
+        "url": "https://open.spotify.com/album/184XWylq7ZF0Hn7da4Tr6W"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Up Down (Do This All Day) (feat. B.o.B)",
+      "url": "https://open.spotify.com/track/6lbhWl34Il0WXm5pX1fM9E"
     },
     {
       "added_at": "2024-08-22 14:45:17",
@@ -191,26 +227,6 @@
       "duration_ms": 238653,
       "name": "Let Me Know (feat. Future)",
       "url": "https://open.spotify.com/track/7wA4XiTQOWByeF6DGWoxkt"
-    },
-    {
-      "added_at": "2024-08-22 14:45:17",
-      "album": {
-        "name": "Happy Hour: The Greatest Hits",
-        "url": "https://open.spotify.com/album/184XWylq7ZF0Hn7da4Tr6W"
-      },
-      "artists": [
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        },
-        {
-          "name": "B.o.B",
-          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Up Down (Do This All Day) (feat. B.o.B)",
-      "url": "https://open.spotify.com/track/6lbhWl34Il0WXm5pX1fM9E"
     },
     {
       "added_at": "2024-08-22 14:45:17",
@@ -2247,6 +2263,26 @@
       "duration_ms": 225146,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx"
+    },
+    {
+      "added_at": "2025-06-24 13:09:14",
+      "album": {
+        "name": "On A Mission",
+        "url": "https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV"
+      },
+      "artists": [
+        {
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+        },
+        {
+          "name": "Ms. Dynamite",
+          "url": "https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62"
+        }
+      ],
+      "duration_ms": 204026,
+      "name": "Lights On (feat. Ms Dynamite) - Single Mix",
+      "url": "https://open.spotify.com/track/7FNcb05eBgScWaEEvJRKiw"
     },
     {
       "added_at": "2024-08-22 14:45:17",

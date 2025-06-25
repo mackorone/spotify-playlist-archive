@@ -1499,6 +1499,24 @@
     },
     {
       "album": {
+        "name": "O Grande Eu Sou",
+        "url": "https://open.spotify.com/album/6POcry86OqWkWGwOTVmhHr"
+      },
+      "artists": [
+        {
+          "name": "Luiza Gomes",
+          "url": "https://open.spotify.com/artist/0NbsghSxR8ckzFpJoZVSGB"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266374,
+      "name": "O Grande Eu Sou",
+      "url": "https://open.spotify.com/track/2IzQ2AStmrCIAaFehDIetF"
+    },
+    {
+      "album": {
         "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
         "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
       },

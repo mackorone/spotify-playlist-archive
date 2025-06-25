@@ -2,9 +2,9 @@
 
 ### [EQUAL Japan](https://open.spotify.com/playlist/37i9dQZF1DX2K2376Q0zTJ)
 
-> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: 藤原さくら
+> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: UA
 
-1,341 songs - 3 day 6 hr 54 min
+1,342 songs - 3 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,7 @@
 | [Gikanjoumonogatari](https://open.spotify.com/track/7E3FZBry2a5KQAn56LWa3P) | [Dustin Wong](https://open.spotify.com/artist/484ZnYb0Vh2fHtYD0bEQuF), [Takako Minekawa](https://open.spotify.com/artist/3XxrXIYWH5PpuTbYSXDOZw), [Good Willsmith](https://open.spotify.com/artist/6Mj8zEcLdfcF23aNKyJ3Ov) | [Exit Future Heart](https://open.spotify.com/album/1VMB9iRhCMPdUtxGvAa0RI) | 9:10 | 2022-01-04 | 2022-02-02 |
 | [GILA GILA](https://open.spotify.com/track/3LSALxSMhVUQoGN2zwxy1n) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [GILA GILA](https://open.spotify.com/album/5v5FfoofCu2Ouflu1GusIN) | 4:11 | 2022-03-15 | 2022-04-06 |
 | [Gimme Some](https://open.spotify.com/track/1IbNNyZifUUoXMHCxMQTmx) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Gimme Some](https://open.spotify.com/album/6ssgCi2BiNcnXN6IoSgvr0) | 3:05 | 2022-08-02 | 2024-04-03 |
-| [Gimme some lovin'](https://open.spotify.com/track/1EA31mTasXuTA3hWILCxBT) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [Gimme some lovin'](https://open.spotify.com/album/3t63Ed9PON8rwFjyz02lQG) | 3:25 | 2025-05-21 |  |
+| [Gimme some lovin'](https://open.spotify.com/track/1EA31mTasXuTA3hWILCxBT) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [Gimme some lovin'](https://open.spotify.com/album/3t63Ed9PON8rwFjyz02lQG) | 3:25 | 2025-05-21 | 2025-06-25 |
 | [Ginger](https://open.spotify.com/track/28pvMnRZKNiqz6xgBBMkr2) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Ginger](https://open.spotify.com/album/54OkOlGIXztDx8OzcRiPh4) | 3:22 | 2023-06-06 | 2023-07-05 |
 | [GIRIGIRI GIRL](https://open.spotify.com/track/5rdmr4IyRZwudS44rQdxma) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [GIRIGIRI GIRL](https://open.spotify.com/album/6a2mJptpyDgHXF6OdaNWgt) | 3:25 | 2023-07-04 | 2023-09-06 |
 | [GIRL](https://open.spotify.com/track/1aXKNVO7V1qF9HZVnrJVrY) | [CHIANZ](https://open.spotify.com/artist/131DUTfKAyi7NWTRfnnxxX) | [GIRL](https://open.spotify.com/album/7whbRS86RkMVBjC86Y6dUQ) | 3:06 | 2024-09-19 | 2024-09-25 |
@@ -316,6 +316,7 @@
 | [Hanagumori](https://open.spotify.com/track/0mKqG2ho02jbIZXKZ1ByxD) | [Kaoruko](https://open.spotify.com/artist/4p8Qi7wNCoyMNEF7dX8qUl), [nerdwitchkomugichan](https://open.spotify.com/artist/14H13IeU3r4x1nJ7ADdI2b) | [opal](https://open.spotify.com/album/4PDInS0xBqDBG8OiBt9l2y) | 2:44 | 2023-02-01 | 2023-03-01 |
 | [Hank](https://open.spotify.com/track/2goChbIPuZYwE4AweOXNKd) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [Hank](https://open.spotify.com/album/5VHwR3xLFQL745q58qE5s8) | 3:51 | 2023-02-01 | 2023-03-01 |
 | [HAPPOUBIZIN \(feat\. なみちえ\)](https://open.spotify.com/track/4vRQg5xR0SXriGkpa2nEst) | [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D), [なみちえ](https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ) | [OOTD](https://open.spotify.com/album/0bl7y2NqJVyKBjNUJ3iXcj) | 3:49 | 2023-06-06 | 2023-07-05 |
+| [Happy](https://open.spotify.com/track/3IiMNkpbU0zjXggH3hwits) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Happy](https://open.spotify.com/album/3jqGi1n11HFBscBMDS2sVZ) | 4:23 | 2025-06-24 |  |
 | [HAPPY \(feat\. chelmico\)](https://open.spotify.com/track/7CwhZPmyGTZdQqg28BIHSl) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [THANKS EP](https://open.spotify.com/album/2DYR6nJRNi2juI0fBlNRFI) | 4:20 | 2025-03-25 |  |
 | [HAPPY BIRTHDAY 2 ME](https://open.spotify.com/track/0960UrhSDKDs2we8HU3Z2Z) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [HAPPY BIRTHDAY 2 ME](https://open.spotify.com/album/6HLLAUopVxtorBVe37fYZu) | 3:39 | 2022-07-05 | 2022-07-29 |
 | [Happy Birthday 2 Me](https://open.spotify.com/track/3bhjpqImslWp6rhmBtH5nI) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Happy Birthday 2 Me](https://open.spotify.com/album/3lKyY7vy2mnK1qS13kGSuP) | 3:39 | 2022-07-05 | 2022-08-03 |

@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 31 | [We Never Know Anymore](https://open.spotify.com/track/69k8DIplCut6DkdXwywYGN) | [Hamster](https://open.spotify.com/artist/0XfWtCWAgbbYP899ssoZSo), [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [White Lie](https://open.spotify.com/album/5K308e4DDvkBz2q0AZeujZ) | 3:24 |
 | 32 | [dear whatever](https://open.spotify.com/track/4kDVrzz871IGFeYwdweUYJ) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [dear whatever](https://open.spotify.com/album/5lxeZj31ST56LJXKMWQpvF) | 2:29 |
 | 33 | [crydancing](https://open.spotify.com/track/5lnzgm4UQDiwrC5edZjGFp) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 3:02 |
-| 34 | [rearview](https://open.spotify.com/track/2MSAwuM5wRtyOlKsTOl6AY) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [rearview](https://open.spotify.com/album/3m4yOqyElVb8RkJeDyciz8) | 3:37 |
-| 35 | [There for You](https://open.spotify.com/track/5SMjLDinukPvhXnZkY3Uhf) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [There for You](https://open.spotify.com/album/4mflxpzrTCEAc5KphX0B6o) | 2:37 |
+| 34 | [There for You](https://open.spotify.com/track/5SMjLDinukPvhXnZkY3Uhf) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [There for You](https://open.spotify.com/album/4mflxpzrTCEAc5KphX0B6o) | 2:37 |
+| 35 | [rearview](https://open.spotify.com/track/2MSAwuM5wRtyOlKsTOl6AY) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [rearview](https://open.spotify.com/album/3m4yOqyElVb8RkJeDyciz8) | 3:37 |
 | 36 | [routine](https://open.spotify.com/track/05HBUzEgUCBc89i7pshnLK) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [routine](https://open.spotify.com/album/717BWqHWne4kvOvFaiZm8d) | 3:08 |
 | 37 | [california queen](https://open.spotify.com/track/56PlKUHEtipIDiHbcZkU50) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:36 |
 | 38 | [wash your hands](https://open.spotify.com/track/2jpM1xm3XkQRsPyQdcTbYM) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [wash your hands](https://open.spotify.com/album/4Gw0Ny1PuwGrKYmmHT8ZIL) | 2:32 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 75 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 76 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `Ab08KAAAAABhDzJl5Eo8bUwxxjHMbcU7`
+Snapshot ID: `Ab1BtAAAAADqY0rKwwRF9Xi8kml1eXQO`

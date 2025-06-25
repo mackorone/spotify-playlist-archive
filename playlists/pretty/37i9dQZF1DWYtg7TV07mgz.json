@@ -1,6 +1,6 @@
 {
   "description": "Floorfillers galore from the 90s and 00s.",
-  "num_followers": 1232528,
+  "num_followers": 1232564,
   "original_name": "Massive Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-07-12 09:13:15",
       "album": {
+        "name": "LCD Soundsystem",
+        "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 314556,
+      "name": "Daft Punk Is Playing at My House",
+      "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
+    },
+    {
+      "added_at": "2024-07-12 09:13:15",
+      "album": {
         "name": "Toca (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2snIy07hupBGM5rLYtgImH"
       },
@@ -863,18 +879,18 @@
     {
       "added_at": "2024-07-12 09:13:15",
       "album": {
-        "name": "LCD Soundsystem",
-        "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
+        "name": "Don\u2019t Stop Movin\u2019",
+        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
       },
       "artists": [
         {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+          "name": "Livin' Joy",
+          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
         }
       ],
-      "duration_ms": 314556,
-      "name": "Daft Punk Is Playing at My House",
-      "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
+      "duration_ms": 223535,
+      "name": "Dreamer - Janice Robinson Vocal",
+      "url": "https://open.spotify.com/track/6wetvpPWooBdmAEOKnDhpo"
     },
     {
       "added_at": "2024-07-12 09:13:15",
@@ -895,22 +911,6 @@
       "duration_ms": 161240,
       "name": "Gotta Get Thru This - D'N'D Radio Edit",
       "url": "https://open.spotify.com/track/023lag1AgeOf7YChojecRu"
-    },
-    {
-      "added_at": "2024-07-12 09:13:15",
-      "album": {
-        "name": "Don\u2019t Stop Movin\u2019",
-        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
-      },
-      "artists": [
-        {
-          "name": "Livin' Joy",
-          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
-        }
-      ],
-      "duration_ms": 223535,
-      "name": "Dreamer - Janice Robinson Vocal",
-      "url": "https://open.spotify.com/track/6wetvpPWooBdmAEOKnDhpo"
     }
   ],
   "unique_name": "Massive Dance Classics",

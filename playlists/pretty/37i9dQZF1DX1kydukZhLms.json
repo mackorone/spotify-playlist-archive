@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1475901,
+  "num_followers": 1476150,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
+        "name": "Keeper of the Seven Keys, Pt. I (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp"
+      },
+      "artists": [
+        {
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+        }
+      ],
+      "duration_ms": 283693,
+      "name": "A Tale That Wasn't Right",
+      "url": "https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
         "name": "Mass Slaughter",
         "url": "https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 461480,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/30sZ1d4G8K8RVNhz0IWgPN"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
-        "name": "The World Needs a Hero",
-        "url": "https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/0kAocIIQ0FP9NIKASAjVH5"
     }
   ],
   "unique_name": "Heavy Ballads",

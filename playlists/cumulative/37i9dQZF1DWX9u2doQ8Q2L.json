@@ -10628,7 +10628,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 147633,
       "name": "JULIUS",
       "url": "https://open.spotify.com/track/027xIoTAUMI0WSCDKRVEZI"
@@ -21136,7 +21136,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 200268,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/3awBg1GqxcmYzrjv4GYdzG"
@@ -26552,7 +26552,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 197904,
       "name": "\u30a8\u30c8\u30bb\u30c8\u30e9",
       "url": "https://open.spotify.com/track/2K0ilWsu6Oo0BK1Zsb8UJt"
@@ -30726,6 +30726,24 @@
       "duration_ms": 169620,
       "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
       "url": "https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5"
+    },
+    {
+      "album": {
+        "name": "\u6761\u53f8",
+        "url": "https://open.spotify.com/album/4FtXFRN2SUz02ERbkdf25d"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228506,
+      "name": "\u6761\u53f8",
+      "url": "https://open.spotify.com/track/1GPJ7qT0APz9GqZyotCMhu"
     },
     {
       "album": {

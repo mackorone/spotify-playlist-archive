@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > The exciting new music on our radar in the Middle East and North Africa\.  Cover: Nasser
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,297 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,305 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 6 | [غصن رمان](https://open.spotify.com/track/1ix4JCBW5VtnniwREmyVnv) | [Maryam Shehab](https://open.spotify.com/artist/0y7SRWlTc47DOTfnCFAaSU) | [غصن رمان](https://open.spotify.com/album/2vNjWCygjXwVn1kForeD8k) | 2:30 |
 | 7 | [Meen Ysadak](https://open.spotify.com/track/2So4UdTcMQe2ap2VpC43eD) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo), [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [Meen Ysadak](https://open.spotify.com/album/0vqR5QySiLJwGNHMnpQ4Hj) | 3:06 |
 | 8 | [LEH](https://open.spotify.com/track/3S2UO7Oy97Zibylp8rMQuR) | [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO), [Kay](https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG) | [LEH](https://open.spotify.com/album/0aywGK6kFqvMU2SnkylR4p) | 2:40 |
-| 9 | [\( Saudi \) حزين الوقت](https://open.spotify.com/track/0DfpLTGoLeQAU8zj4La5Jf) | [Rap Shar3](https://open.spotify.com/artist/2i6J4zodeqpwK4ZMs1ir3M), [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [\( Saudi \) حزين الوقت](https://open.spotify.com/album/5fUE8SvrynJU3oJFCcIlhn) | 3:30 |
+| 9 | [7azeen Elwat \(Saudi\)](https://open.spotify.com/track/0DfpLTGoLeQAU8zj4La5Jf) | [Rap Shar3](https://open.spotify.com/artist/2i6J4zodeqpwK4ZMs1ir3M), [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [7azeen Elwat \(Saudi\)](https://open.spotify.com/album/5fUE8SvrynJU3oJFCcIlhn) | 3:30 |
 | 10 | [Bara L Koon](https://open.spotify.com/track/7fc5zsFu2iemGf2GTgx95z) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Bara L Koon](https://open.spotify.com/album/6iZPXJKS4cATmFcegbKjrL) | 2:48 |
 | 11 | [Yeshbah lak Aljaw](https://open.spotify.com/track/2YnkBkoDFhwBt1cEU28iHZ) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Yeshbah lak Aljaw](https://open.spotify.com/album/2gzokC633j9ojBjcAfSxvy) | 3:16 |
 | 12 | [Etghayart](https://open.spotify.com/track/7mfn9jHr5sUyRCMHdHy3x4) | [Tommy Gun](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l), [Rally](https://open.spotify.com/artist/61suwIK2ayrvQ9awCNEKfy) | [El Rwaya](https://open.spotify.com/album/2uoPClqaphvHQd6zqtF8M2) | 2:45 |

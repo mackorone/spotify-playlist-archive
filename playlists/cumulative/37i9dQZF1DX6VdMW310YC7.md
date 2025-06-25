@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,778 songs - 5 day 1 hr 12 min
+1,779 songs - 5 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,7 +630,7 @@
 | [Groundhog Day](https://open.spotify.com/track/7iKtfxbX9YPXePGGMRuHAq) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 3:44 | 2020-02-29\* | 2022-01-21 |
 | [Guaba](https://open.spotify.com/track/3xMiGikor6CSPjeY9wXT8c) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Guaba EP](https://open.spotify.com/album/2PLy7P0hdq12FXH8GLCETk) | 5:21 | 2020-08-06 | 2020-10-09 |
 | [Guest Room](https://open.spotify.com/track/4RzHA75rhs3mXnoI4aJSMt) | [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [Guest Room](https://open.spotify.com/album/3M4EACfZQKHERYcPcVwF4W) | 4:18 | 2020-05-18 | 2020-07-18 |
-| [Habitat](https://open.spotify.com/track/2qYufpzsTI4WU4jzFfs83S) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Habitat](https://open.spotify.com/album/2H4DdaXHmBUwSKqUC3JfXF) | 3:30 | 2025-04-25 |  |
+| [Habitat](https://open.spotify.com/track/2qYufpzsTI4WU4jzFfs83S) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Habitat](https://open.spotify.com/album/2H4DdaXHmBUwSKqUC3JfXF) | 3:30 | 2025-04-25 | 2025-06-25 |
 | [Half Way Home](https://open.spotify.com/track/7pWtm7wDWIoT0TWoqySBy5) | [PINES](https://open.spotify.com/artist/3SL3PIAghJvyjrCZkZQXhZ), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Half Way Home](https://open.spotify.com/album/6VR6YeXIXAXxdcOTrd6zeh) | 2:57 | 2020-05-18 | 2020-10-09 |
 | [Hangover](https://open.spotify.com/track/5RowCPFtnH874UBD6KGqwt) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Hangover](https://open.spotify.com/album/5dACeSQRrbBOeDo0gijmMr) | 2:52 | 2024-08-30 | 2024-09-07 |
 | [Happier \- Kasbo Remix](https://open.spotify.com/track/3a1QSvzb3ypLc1QpXTs9mU) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Happier \(Kasbo Remix\)](https://open.spotify.com/album/7ECFU1lKlRqNn0WokJ6VDN) | 4:16 | 2020-05-18 | 2020-07-18 |
@@ -981,6 +981,7 @@
 | [Maitri](https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Maitri](https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX) | 2:57 | 2025-03-14 |  |
 | [Make It Happen](https://open.spotify.com/track/7K1TsEgLCoNxr7tvPRJgrL) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 5:12 | 2022-08-26 | 2022-09-10 |
 | [Make Me Feel](https://open.spotify.com/track/15vFVksXhTVTq0ey47ZOfu) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Trust in Me \- EP](https://open.spotify.com/album/0f8vVaVqgqyVnzeB4m67R0) | 3:21 | 2020-05-18 | 2020-07-18 |
+| [Make Me Feel](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Make Me Feel](https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva) | 3:06 | 2025-06-20 |  |
 | [Make Sense](https://open.spotify.com/track/3k5qpizh47tL2CmTsxjs8L) | [Hior Chronik](https://open.spotify.com/artist/0WwDqOLT2m5PuAsFGkEybC), [Anna\-Maria Marjamäki](https://open.spotify.com/artist/3jLyfJjicxYfifKU3dXfLJ) | [Descent](https://open.spotify.com/album/2rowpF97jKbr5ZwqBnMJVk) | 4:37 | 2020-03-17 | 2022-04-21 |
 | [Maker](https://open.spotify.com/track/4DP7DimT3KRKbsvjfIrcoX) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Superdream](https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz) | 4:11 | 2022-07-01 | 2022-09-24 |
 | [Maker](https://open.spotify.com/track/6w32mXhIaosDV03bo216QI) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Joypunks / Maker](https://open.spotify.com/album/4nr116yOgerXCvvisMjZfa) | 4:11 | 2020-03-20 | 2022-04-20 |

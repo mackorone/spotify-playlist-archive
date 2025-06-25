@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 
 > The perfect soundtrack to your morning yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,224 likes - 192 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,231 likes - 192 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 | 39 | [Essence](https://open.spotify.com/track/2atmBNTofo4VJgt6oazd0S) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Essence](https://open.spotify.com/album/1y3ENUlEz2SQIO2ovnUMwv) | 2:42 |
 | 40 | [Oscillate](https://open.spotify.com/track/4oHHuxXiazheX9XhoaFhKf) | [Stillgarden](https://open.spotify.com/artist/6NKUqC8TcyhtHenPgTRTvt) | [Oscillate](https://open.spotify.com/album/31WpS3EapHiEpN8G19xmS0) | 2:28 |
 | 41 | [Halycon](https://open.spotify.com/track/1lXoILsgUsZTzojrkNELRU) | [ispíritu](https://open.spotify.com/artist/0OVGamiaCriHwLRXWiorJA) | [Halycon](https://open.spotify.com/album/5RP897wYSevcmJFI1Xow8J) | 2:59 |
-| 42 | [Mirach Dreams](https://open.spotify.com/track/5umpsNomhsOB2T9a0b2OCP) | [Endless Space](https://open.spotify.com/artist/7HHVt02XZTOf0FQ6YhZtG5) | [Mirach Dreams](https://open.spotify.com/album/6FaeqpfJfrut5YAf3vZImm) | 3:10 |
+| 42 | [Mirach Dreams](https://open.spotify.com/track/5umpsNomhsOB2T9a0b2OCP) | [Endless Space](https://open.spotify.com/artist/4SnAG3DMYmxqUwelTO2Y5A) | [Mirach Dreams](https://open.spotify.com/album/6FaeqpfJfrut5YAf3vZImm) | 3:10 |
 | 43 | [Fragments of Yesterday](https://open.spotify.com/track/4HsQ5aw8wHIdh61ECPv0xP) | [Harmonic Reverie](https://open.spotify.com/artist/5MQgVlRZZAASmBxSk6bbqi) | [Fragments of Yesterday](https://open.spotify.com/album/4pIBXIbJlqPmECBJOpPMRz) | 2:29 |
 | 44 | [Mellow Light](https://open.spotify.com/track/4VF8MyyIyOQVGbKlEwPsPi) | [Hans Jacob](https://open.spotify.com/artist/6gT2Bu1wTc1uHC5NcJV0gQ) | [Mellow Light](https://open.spotify.com/album/5nXDRI3U7NyBnX9cNBvfBR) | 2:39 |
 | 45 | [Gracious](https://open.spotify.com/track/7eKlaWsEYpNPZXLPAXClqf) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Gracious](https://open.spotify.com/album/2gP4SaNbEnEx2GYrQj4neT) | 2:32 |

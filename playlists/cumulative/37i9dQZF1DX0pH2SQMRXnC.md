@@ -4,7 +4,7 @@
 
 > Defqon.1 takeover! First 25 tracks picked by Defqon.1 💥 🎇
 
-916 songs - 2 day 3 hr 41 min
+917 songs - 2 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [All on Me \- Brennan Heart VIP Mix](https://open.spotify.com/track/6ZkenobbZ5In6pAvIT3C7I) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [All on Me \(Brennan Heart VIP Mix\)](https://open.spotify.com/album/5jlp7eKi4lFXQYzqQ5O56U) | 3:03 | 2021-12-28 | 2022-07-24 |
 | [All Or Nothing](https://open.spotify.com/track/2ybm6gECxGAXmmsoNUtgLc) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Code Black](https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [All Or Nothing](https://open.spotify.com/album/2Vu78SBKc1DAyOOShWdRHo) | 2:48 | 2021-12-16 | 2024-03-22 |
 | [Almost Home](https://open.spotify.com/track/0w1jFGv44FjDoYs6lk5LuV) | [Sephyx](https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL) | [The Qontinent 2018](https://open.spotify.com/album/0aAb7IvQict0yDKLQdoj1l) | 3:45 | 2022-03-24 | 2022-04-20 |
+| [Alone](https://open.spotify.com/track/1BiyT5wfHDKjgY4FNyllvS) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [Alone](https://open.spotify.com/album/0zE1ElkEoAyehEb2SH0AO4) | 3:51 | 2025-06-23 |  |
 | [Alone, Pt\. II \- Da Tweekaz Remix](https://open.spotify.com/track/22iyqD0gyzWHy6oAvPVAWk) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Alone, Pt\. II \(Remixes\)](https://open.spotify.com/album/2mxUoEbnEU5HQUApB1tm1X) | 3:42 | 2021-12-16 | 2023-01-27 |
 | [Als Een God](https://open.spotify.com/track/1jmkrJc0WDxqYvUEiHonK5) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [Als Een God](https://open.spotify.com/album/4RtGP0GnPaUNegRPe5uoOh) | 2:10 | 2025-02-20 | 2025-03-30 |
 | [Anadrol](https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Anadrol](https://open.spotify.com/album/0FIwrGmZLzqi8anLO36QDY) | 2:19 | 2023-01-31 |  |

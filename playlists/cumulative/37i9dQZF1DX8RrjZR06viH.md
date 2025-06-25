@@ -4,7 +4,7 @@
 
 > Sommeren er her!🍹
 
-224 songs - 11 hr 40 min
+226 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [BOY](https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [BOY](https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi) | 2:31 | 2024-09-05 |  |
 | [BusyBusyBusy](https://open.spotify.com/track/2QwF6aewyuhAQ1nlkyQeYW) | [¡BangBang Watergun!](https://open.spotify.com/artist/2grhe2zaWXIncv3px0CwrJ) | [Nostalgia / Again It's On](https://open.spotify.com/album/5Xtz2f7NvXEpRSlnw687mG) | 3:51 | 2025-02-27 | 2025-03-17 |
 | [Bygda vår](https://open.spotify.com/track/7GkeilYNSQTNQnyX9YGibA) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Bygda vår](https://open.spotify.com/album/0LLyHCTAT1jgF0cnOioJJk) | 2:41 | 2024-06-27 | 2024-09-20 |
-| [Bølger](https://open.spotify.com/track/30NBm5D1W1MdfCgDZBuJYY) | [3TOS](https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C) | [Bølger](https://open.spotify.com/album/1XKnyAAgscwpB0BgzR09TW) | 2:13 | 2024-06-27 |  |
+| [Bølger](https://open.spotify.com/track/30NBm5D1W1MdfCgDZBuJYY) | [3TOS](https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C) | [Bølger](https://open.spotify.com/album/1XKnyAAgscwpB0BgzR09TW) | 2:13 | 2024-06-27 | 2025-06-25 |
 | [Call My Name](https://open.spotify.com/track/3zytAI32kYi10jOpO3Knuz) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Call My Name](https://open.spotify.com/album/5dhhR8JBWXHrIKpbY1UZRP) | 3:09 | 2025-04-10 | 2025-06-13 |
 | [Care](https://open.spotify.com/track/0RB6Saze1O8DugkNzqzEed) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [Hannah Storm](https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL) | [Care](https://open.spotify.com/album/2sucF1hUsAFKcZb0pqfxow) | 4:04 | 2024-06-27 | 2024-10-28 |
 | [Catalonia](https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [In Our Own Sweet Time](https://open.spotify.com/album/2290QOqExnVHp302b4zYaF) | 3:38 | 2024-06-27 | 2025-05-03 |
@@ -105,6 +105,7 @@
 | [i'm in the corner, alone](https://open.spotify.com/track/4u8Ul6jrHW8tngY9iHNHzh) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [i'm in the corner, alone](https://open.spotify.com/album/5E1tZLSJJNzzu8WQCqaxIv) | 2:20 | 2025-05-02 |  |
 | [Ikke lenger din](https://open.spotify.com/track/0Cngp8NHwtpB9bEtEvjr5P) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Indre liv](https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb) | 2:31 | 2024-10-24 | 2025-03-20 |
 | [Ingen vil elsk dæ \(feat\. Sval\)](https://open.spotify.com/track/3yjLOG1b2sCVBrXw0tIpWh) | [Regnvær](https://open.spotify.com/artist/527pgsBl16NWDwKewwEDki), [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [Ingen vil elsk dæ \(feat\. Sval\)](https://open.spotify.com/album/437l13e8pR43UXQXYSqAQy) | 2:18 | 2024-10-17 | 2025-01-17 |
+| [Iskrem på pinne](https://open.spotify.com/track/0q2YHUCIKxUx0LLkg9TUKy) | [Aryaan](https://open.spotify.com/artist/7GfpTDYmPjWyGlJcOkMnfy) | [Iskrem på pinne](https://open.spotify.com/album/6rN6EpfHhVUkssQPwdxo1E) | 2:10 | 2025-06-24 |  |
 | [It´s Ok If You Forget Me \(feat\. Emma Jensen\)](https://open.spotify.com/track/61g5DDHobx9aPCBsKgKiqP) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n), [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [It's Ok If You Forget Me](https://open.spotify.com/album/5gojU2qbIqKDBO7L1Q8OOG) | 2:56 | 2025-01-16 |  |
 | [jeg holder pusten til du drar](https://open.spotify.com/track/17p6Y3tYZpnESAcFIMDPOJ) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [jeg holder pusten til du drar](https://open.spotify.com/album/3o43FGM9DQK2wqq27KBUxx) | 3:05 | 2025-04-10 |  |
 | [jeg vil ligge med deg](https://open.spotify.com/track/5o2xmURvl3LwBmLe34gEPj) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg) | [jeg vil ligge med deg](https://open.spotify.com/album/7B5U8GPorGyO7pT8DmXGbA) | 2:52 | 2025-05-29 |  |
@@ -153,7 +154,7 @@
 | [Nostalgi](https://open.spotify.com/track/2KB8rqbA52HPAKBcutVp51) | [Kapteinen](https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9) | [Nostalgi](https://open.spotify.com/album/4DACSsBHMeZ8jKxcbZaA7w) | 2:37 | 2024-08-01 | 2024-10-28 |
 | [Number and a Street](https://open.spotify.com/track/1NT3kVjvvjmDPt20F58EDr) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [Seasons](https://open.spotify.com/album/64eTSlCRiKUolrsET9Kl2v) | 3:14 | 2024-09-12 | 2024-10-17 |
 | [Nå har du meg](https://open.spotify.com/track/33coicso7oegceR6nB7Srl) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [Nå har du meg](https://open.spotify.com/album/5MjN3dWFsEMB2HuyjaeXBy) | 3:41 | 2024-06-27 |  |
-| [Oh Love \- Acoustic](https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Oh Love \(Acoustic\)](https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ) | 3:21 | 2024-10-03 |  |
+| [Oh Love \- Acoustic](https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Oh Love \(Acoustic\)](https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ) | 3:21 | 2024-10-03 | 2025-06-25 |
 | [ok](https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [ok](https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov) | 2:29 | 2024-06-27 | 2025-05-03 |
 | [Ole Lukkøye](https://open.spotify.com/track/03MTSWFmsqzh7lch0AlPAJ) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB) | [Ole Lukkøye](https://open.spotify.com/album/6KmalLGuo1RnLKTloNsiAQ) | 4:25 | 2025-01-30 |  |
 | [Om du tror på oss](https://open.spotify.com/track/4x8DtLpcjCTMrFym0aS5kL) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3), [Erlend Ropstad](https://open.spotify.com/artist/5DEpvCUOqEagldzoh25m1t) | [Om du tror på oss](https://open.spotify.com/album/7kE6Q0jwl7Wr1icIIFwQQ6) | 3:50 | 2024-09-05 |  |
@@ -231,6 +232,7 @@
 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2024-12-19 |  |
 | [What A Waste](https://open.spotify.com/track/51PlFhgkrZ4JKJzd1iz0aE) | [Elsie Bay](https://open.spotify.com/artist/4YpY98ig3QIOUX50xQ21GE) | [What A Waste](https://open.spotify.com/album/0bXYmiK8ZbpqPmXAbj7lmO) | 2:39 | 2025-05-29 | 2025-06-24 |
 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 | 2025-05-22 |  |
+| [Why Why Why](https://open.spotify.com/track/1lpoamZ7AhyXq8VukIU8eM) | [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Why Why Why](https://open.spotify.com/album/2s02TARBneDJSDw36o9wmg) | 2:32 | 2025-06-24 |  |
 | [wildflower](https://open.spotify.com/track/6Mlslrt2Eg6ErFZfLMQMVZ) | [leoleo](https://open.spotify.com/artist/5Dsd7jTkXFpmNtZTWuBMDh) | [wildflower](https://open.spotify.com/album/1U5GHC1XPATNX9kXH82qFw) | 2:54 | 2024-09-26 | 2025-02-19 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

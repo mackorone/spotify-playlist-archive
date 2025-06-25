@@ -331,6 +331,24 @@
     },
     {
       "album": {
+        "name": "Appetite",
+        "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227272,
+      "name": "Appetite",
+      "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
+    },
+    {
+      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R"
       },
@@ -440,7 +458,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 266505,
       "name": "Back Of My Mind",
       "url": "https://open.spotify.com/track/0BsTNIr80SYSFFs1fexIYe"
@@ -502,7 +520,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 222315,
       "name": "Baddy On The Floor",
       "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
@@ -750,7 +768,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 230000,
       "name": "Believe",
       "url": "https://open.spotify.com/track/5JIC3AqDuyFtva4oExpNcx"
@@ -1163,6 +1181,32 @@
     },
     {
       "album": {
+        "name": "Can't Decide",
+        "url": "https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        },
+        {
+          "name": "Locky",
+          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "Can't Decide",
+      "url": "https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx"
+    },
+    {
+      "album": {
         "name": "Candela",
         "url": "https://open.spotify.com/album/1f19SdkQvDOQpLmgJrJhaA"
       },
@@ -1482,6 +1526,28 @@
       "duration_ms": 214695,
       "name": "Coming Down",
       "url": "https://open.spotify.com/track/6pO7fWXv9FCOT79cJdWq6H"
+    },
+    {
+      "album": {
+        "name": "Cops & Robbers",
+        "url": "https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161495,
+      "name": "Cops & Robbers",
+      "url": "https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi"
     },
     {
       "album": {
@@ -3495,6 +3561,28 @@
     },
     {
       "album": {
+        "name": "High On Me",
+        "url": "https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189767,
+      "name": "High On Me",
+      "url": "https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp"
+    },
+    {
+      "album": {
         "name": "Dream Dimension",
         "url": "https://open.spotify.com/album/3TIcSrROV3PLNVq5rMMlWJ"
       },
@@ -3682,7 +3770,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 138951,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
@@ -5299,6 +5387,28 @@
     },
     {
       "album": {
+        "name": "Mi Lugar Favorito",
+        "url": "https://open.spotify.com/album/0wHZgfmNyvLvngZmEEWKHl"
+      },
+      "artists": [
+        {
+          "name": "Ema Feud",
+          "url": "https://open.spotify.com/artist/2rPtbgOmhSJcV7GenHKwPd"
+        },
+        {
+          "name": "B-Rain",
+          "url": "https://open.spotify.com/artist/3hWT3bsPOSKsJkR30Z9xQr"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227375,
+      "name": "Mi Lugar Favorito",
+      "url": "https://open.spotify.com/track/7Kn8N5RcZSNQ4fNNmacXan"
+    },
+    {
+      "album": {
         "name": "Papaya Island",
         "url": "https://open.spotify.com/album/7y8NL266HSryni6nAYmdHK"
       },
@@ -6904,7 +7014,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 289471,
       "name": "Serotonin Moonbeams",
       "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"

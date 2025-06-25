@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/1BC2o2RW9sGr2NB8jXlYQv?si=H3h\-SfqGQnago\_PVA4l0cA">Officixal RSA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,051,115 likes - 60 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,051,520 likes - 60 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

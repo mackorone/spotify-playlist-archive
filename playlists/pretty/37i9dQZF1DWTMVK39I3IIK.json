@@ -175,6 +175,22 @@
     {
       "added_at": "2025-06-19 22:00:53",
       "album": {
+        "name": "10 ud af 10",
+        "url": "https://open.spotify.com/album/16LdEi4c4yKZiNxjpIEi3p"
+      },
+      "artists": [
+        {
+          "name": "Berg",
+          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
+        }
+      ],
+      "duration_ms": 150705,
+      "name": "10 ud af 10",
+      "url": "https://open.spotify.com/track/6kqqErlEe7aIrUZztf5skM"
+    },
+    {
+      "added_at": "2025-06-19 22:00:53",
+      "album": {
         "name": "I Made It (feat. Andreas Odbjerg)",
         "url": "https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 209923,
       "name": "I Made It (feat. Andreas Odbjerg)",
       "url": "https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6"
-    },
-    {
-      "added_at": "2025-06-19 22:00:53",
-      "album": {
-        "name": "Sytten",
-        "url": "https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J"
-      },
-      "artists": [
-        {
-          "name": "Ella Augusta",
-          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
-        }
-      ],
-      "duration_ms": 194899,
-      "name": "Hvad Nu Hvis",
-      "url": "https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P"
     },
     {
       "added_at": "2025-06-19 22:00:53",
@@ -243,18 +243,18 @@
     {
       "added_at": "2025-06-19 22:00:53",
       "album": {
-        "name": "10 ud af 10",
-        "url": "https://open.spotify.com/album/16LdEi4c4yKZiNxjpIEi3p"
+        "name": "Sytten",
+        "url": "https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J"
       },
       "artists": [
         {
-          "name": "Berg",
-          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
         }
       ],
-      "duration_ms": 150705,
-      "name": "10 ud af 10",
-      "url": "https://open.spotify.com/track/6kqqErlEe7aIrUZztf5skM"
+      "duration_ms": 194899,
+      "name": "Hvad Nu Hvis",
+      "url": "https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P"
     },
     {
       "added_at": "2025-06-19 22:00:53",
@@ -375,18 +375,18 @@
     {
       "added_at": "2025-06-19 22:00:53",
       "album": {
-        "name": "Under The Influence",
-        "url": "https://open.spotify.com/album/5EponkQHgGru0rIA4Oge0p"
+        "name": "Venter Kun P\u00e5 Dig",
+        "url": "https://open.spotify.com/album/7sBpUWuaMauZvtzbgBzGnL"
       },
       "artists": [
         {
-          "name": "ORA",
-          "url": "https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA"
+          "name": "Sira Jovina",
+          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
         }
       ],
-      "duration_ms": 156356,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/1BxWMfu4hzrWqExWSeT8Nx"
+      "duration_ms": 140111,
+      "name": "Venter Kun P\u00e5 Dig",
+      "url": "https://open.spotify.com/track/7y5aDrMQIYHnySJk84yyUZ"
     },
     {
       "added_at": "2025-06-19 22:00:53",
@@ -407,34 +407,34 @@
     {
       "added_at": "2025-06-19 22:00:53",
       "album": {
-        "name": "Venter Kun P\u00e5 Dig",
-        "url": "https://open.spotify.com/album/7sBpUWuaMauZvtzbgBzGnL"
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/5EponkQHgGru0rIA4Oge0p"
       },
       "artists": [
         {
-          "name": "Sira Jovina",
-          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
+          "name": "ORA",
+          "url": "https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA"
         }
       ],
-      "duration_ms": 140111,
-      "name": "Venter Kun P\u00e5 Dig",
-      "url": "https://open.spotify.com/track/7y5aDrMQIYHnySJk84yyUZ"
+      "duration_ms": 156356,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/1BxWMfu4hzrWqExWSeT8Nx"
     },
     {
       "added_at": "2025-06-19 22:00:53",
       "album": {
-        "name": "P\u00e6n",
-        "url": "https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY"
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/4OwdPcbGEcmrYRHRxnL5t5"
       },
       "artists": [
         {
-          "name": "Pil",
-          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
+          "name": "JOSVA",
+          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
         }
       ],
-      "duration_ms": 190300,
-      "name": "P\u00e6n",
-      "url": "https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3"
+      "duration_ms": 140382,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/0I4KrchOuSukO393z4qwpB"
     },
     {
       "added_at": "2025-06-19 22:00:53",
@@ -471,6 +471,22 @@
     {
       "added_at": "2025-06-19 22:00:53",
       "album": {
+        "name": "P\u00e6n",
+        "url": "https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY"
+      },
+      "artists": [
+        {
+          "name": "Pil",
+          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
+        }
+      ],
+      "duration_ms": 190300,
+      "name": "P\u00e6n",
+      "url": "https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3"
+    },
+    {
+      "added_at": "2025-06-19 22:00:53",
+      "album": {
         "name": "Storeb\u00e6ltsbroen",
         "url": "https://open.spotify.com/album/3Rd1qpiv4brUgL2qJrFL5q"
       },
@@ -503,6 +519,22 @@
     {
       "added_at": "2025-06-19 22:00:53",
       "album": {
+        "name": "Life Witness",
+        "url": "https://open.spotify.com/album/0CB8vDMfO66UUAIaOskgUm"
+      },
+      "artists": [
+        {
+          "name": "ORA",
+          "url": "https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA"
+        }
+      ],
+      "duration_ms": 145414,
+      "name": "Life Witness",
+      "url": "https://open.spotify.com/track/1wN0cNovbqCI9W4qW8mxyF"
+    },
+    {
+      "added_at": "2025-06-19 22:00:53",
+      "album": {
         "name": "JEG VIL IKKE VIDE DU FINDES",
         "url": "https://open.spotify.com/album/7lZ0NCBbfMvh3MbRg6nJbM"
       },
@@ -523,18 +555,18 @@
     {
       "added_at": "2025-06-19 22:00:53",
       "album": {
-        "name": "Life Witness",
-        "url": "https://open.spotify.com/album/0CB8vDMfO66UUAIaOskgUm"
+        "name": "Over Broen",
+        "url": "https://open.spotify.com/album/4yepsianA44yEssCzMhOW1"
       },
       "artists": [
         {
-          "name": "ORA",
-          "url": "https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA"
+          "name": "Dahlin",
+          "url": "https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P"
         }
       ],
-      "duration_ms": 145414,
-      "name": "Life Witness",
-      "url": "https://open.spotify.com/track/1wN0cNovbqCI9W4qW8mxyF"
+      "duration_ms": 185197,
+      "name": "Over Broen",
+      "url": "https://open.spotify.com/track/2uYgJzIZbBTCsbXb9laFzh"
     },
     {
       "added_at": "2025-06-19 22:00:53",
@@ -555,18 +587,18 @@
     {
       "added_at": "2025-06-19 22:00:53",
       "album": {
-        "name": "Over Broen",
-        "url": "https://open.spotify.com/album/4yepsianA44yEssCzMhOW1"
+        "name": "SAMBA",
+        "url": "https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt"
       },
       "artists": [
         {
-          "name": "Dahlin",
-          "url": "https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P"
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
         }
       ],
-      "duration_ms": 185197,
-      "name": "Over Broen",
-      "url": "https://open.spotify.com/track/2uYgJzIZbBTCsbXb9laFzh"
+      "duration_ms": 215238,
+      "name": "Under Vand",
+      "url": "https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6"
     },
     {
       "added_at": "2025-06-19 22:00:53",
@@ -587,38 +619,6 @@
     {
       "added_at": "2025-06-19 22:00:53",
       "album": {
-        "name": "SAMBA",
-        "url": "https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt"
-      },
-      "artists": [
-        {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
-        }
-      ],
-      "duration_ms": 215238,
-      "name": "Under Vand",
-      "url": "https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6"
-    },
-    {
-      "added_at": "2025-06-19 22:00:53",
-      "album": {
-        "name": "Sunny",
-        "url": "https://open.spotify.com/album/4OwdPcbGEcmrYRHRxnL5t5"
-      },
-      "artists": [
-        {
-          "name": "JOSVA",
-          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
-        }
-      ],
-      "duration_ms": 140382,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/0I4KrchOuSukO393z4qwpB"
-    },
-    {
-      "added_at": "2025-06-19 22:00:53",
-      "album": {
         "name": "Halsk\u00e6de",
         "url": "https://open.spotify.com/album/2eJ283FDkj0WAyhwC6mUfq"
       },
@@ -631,6 +631,22 @@
       "duration_ms": 157373,
       "name": "Halsk\u00e6de",
       "url": "https://open.spotify.com/track/4XSe9ssgPFPD5FuWJoDOID"
+    },
+    {
+      "added_at": "2025-06-19 22:00:53",
+      "album": {
+        "name": "Uendelighed",
+        "url": "https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX"
+      },
+      "artists": [
+        {
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+        }
+      ],
+      "duration_ms": 173442,
+      "name": "Uendelighed",
+      "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
     },
     {
       "added_at": "2025-06-19 22:00:53",
@@ -699,22 +715,6 @@
     {
       "added_at": "2025-06-19 22:00:53",
       "album": {
-        "name": "Uendelighed",
-        "url": "https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX"
-      },
-      "artists": [
-        {
-          "name": "Ella Augusta",
-          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
-        }
-      ],
-      "duration_ms": 173442,
-      "name": "Uendelighed",
-      "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
-    },
-    {
-      "added_at": "2025-06-19 22:00:53",
-      "album": {
         "name": "Elendig Software",
         "url": "https://open.spotify.com/album/63y6pPYBqIlVWzA0xj796o"
       },
@@ -727,6 +727,26 @@
       "duration_ms": 243312,
       "name": "T\u00e6t P\u00e5 Paradis",
       "url": "https://open.spotify.com/track/7dUd1GZ3DEbL2wyhzjpvoM"
+    },
+    {
+      "added_at": "2025-06-19 22:00:53",
+      "album": {
+        "name": "Dance Without You",
+        "url": "https://open.spotify.com/album/5OpKlmpZ98jUQMeoVuNYAF"
+      },
+      "artists": [
+        {
+          "name": "BOABOA",
+          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
+        },
+        {
+          "name": "Eros for you",
+          "url": "https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Dance Without You",
+      "url": "https://open.spotify.com/track/0GUhOjgRbZnsqmaz9rxhVr"
     },
     {
       "added_at": "2025-06-19 22:00:53",
@@ -847,22 +867,6 @@
     {
       "added_at": "2025-06-19 22:00:53",
       "album": {
-        "name": "I Know All The Words But I Can't Say Goodbye",
-        "url": "https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr"
-      },
-      "artists": [
-        {
-          "name": "Emma Sehested H\u00f8eg",
-          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
-        }
-      ],
-      "duration_ms": 207558,
-      "name": "We Grow",
-      "url": "https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA"
-    },
-    {
-      "added_at": "2025-06-19 22:00:53",
-      "album": {
         "name": "Vores Forhandling",
         "url": "https://open.spotify.com/album/5ZGzhdbIorV137lQW3CvTR"
       },
@@ -879,22 +883,18 @@
     {
       "added_at": "2025-06-19 22:00:53",
       "album": {
-        "name": "Dance Without You",
-        "url": "https://open.spotify.com/album/5OpKlmpZ98jUQMeoVuNYAF"
+        "name": "I Know All The Words But I Can't Say Goodbye",
+        "url": "https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr"
       },
       "artists": [
         {
-          "name": "BOABOA",
-          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
-        },
-        {
-          "name": "Eros for you",
-          "url": "https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa"
+          "name": "Emma Sehested H\u00f8eg",
+          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Dance Without You",
-      "url": "https://open.spotify.com/track/0GUhOjgRbZnsqmaz9rxhVr"
+      "duration_ms": 207558,
+      "name": "We Grow",
+      "url": "https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA"
     },
     {
       "added_at": "2025-06-19 22:00:53",
@@ -931,18 +931,34 @@
     {
       "added_at": "2025-06-19 22:00:53",
       "album": {
-        "name": "Ik T\u00e6nk Twice",
-        "url": "https://open.spotify.com/album/5nZTkrieTKTclZw5IhpZw5"
+        "name": "B\u00e6nkevarmer",
+        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
       },
       "artists": [
         {
-          "name": "Bette",
-          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
+          "name": "Ida Laurberg",
+          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
         }
       ],
-      "duration_ms": 173708,
-      "name": "Ik T\u00e6nk Twice",
-      "url": "https://open.spotify.com/track/6yjI0tbfhbqv8qMP9diEin"
+      "duration_ms": 234138,
+      "name": "Uden At T\u00e6nke P\u00e5 Dig",
+      "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
+    },
+    {
+      "added_at": "2025-06-19 22:00:53",
+      "album": {
+        "name": "HAR DET MAX",
+        "url": "https://open.spotify.com/album/0ddQKDnxDXlx9a71ruRod3"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/6GHeYbQYL39Ri5g9a8rb2K"
+        }
+      ],
+      "duration_ms": 107931,
+      "name": "HAR DET MAX",
+      "url": "https://open.spotify.com/track/08wUkq39Lw3xECrdwz2sSW"
     },
     {
       "added_at": "2025-06-19 22:00:53",
@@ -963,18 +979,18 @@
     {
       "added_at": "2025-06-19 22:00:53",
       "album": {
-        "name": "B\u00e6nkevarmer",
-        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
+        "name": "Ik T\u00e6nk Twice",
+        "url": "https://open.spotify.com/album/5nZTkrieTKTclZw5IhpZw5"
       },
       "artists": [
         {
-          "name": "Ida Laurberg",
-          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
+          "name": "Bette",
+          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
         }
       ],
-      "duration_ms": 234138,
-      "name": "Uden At T\u00e6nke P\u00e5 Dig",
-      "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
+      "duration_ms": 173708,
+      "name": "Ik T\u00e6nk Twice",
+      "url": "https://open.spotify.com/track/6yjI0tbfhbqv8qMP9diEin"
     },
     {
       "added_at": "2025-06-19 22:00:53",
@@ -999,38 +1015,6 @@
     {
       "added_at": "2025-06-19 22:00:53",
       "album": {
-        "name": "HAR DET MAX",
-        "url": "https://open.spotify.com/album/0ddQKDnxDXlx9a71ruRod3"
-      },
-      "artists": [
-        {
-          "name": "Elias",
-          "url": "https://open.spotify.com/artist/6GHeYbQYL39Ri5g9a8rb2K"
-        }
-      ],
-      "duration_ms": 107931,
-      "name": "HAR DET MAX",
-      "url": "https://open.spotify.com/track/08wUkq39Lw3xECrdwz2sSW"
-    },
-    {
-      "added_at": "2025-06-19 22:00:53",
-      "album": {
-        "name": "1000 H\u00e6nder",
-        "url": "https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z"
-      },
-      "artists": [
-        {
-          "name": "Elsked",
-          "url": "https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ"
-        }
-      ],
-      "duration_ms": 185760,
-      "name": "1000 H\u00e6nder",
-      "url": "https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c"
-    },
-    {
-      "added_at": "2025-06-19 22:00:53",
-      "album": {
         "name": "bl\u00e5 n\u00e6tter",
         "url": "https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS"
       },
@@ -1051,18 +1035,34 @@
     {
       "added_at": "2025-06-19 22:00:53",
       "album": {
-        "name": "grib mig hvis jeg falder",
-        "url": "https://open.spotify.com/album/4wlR4NXJZVLw4zjfPfkmHj"
+        "name": "1000 H\u00e6nder",
+        "url": "https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z"
       },
       "artists": [
         {
-          "name": "KALASET",
-          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
+          "name": "Elsked",
+          "url": "https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ"
         }
       ],
-      "duration_ms": 193981,
-      "name": "Gennemsku Mig Nu",
-      "url": "https://open.spotify.com/track/3a6YcuG8rRxMtZdMWkAQCR"
+      "duration_ms": 185760,
+      "name": "1000 H\u00e6nder",
+      "url": "https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c"
+    },
+    {
+      "added_at": "2025-06-19 22:00:53",
+      "album": {
+        "name": "F\u00f8r Jeg Falder",
+        "url": "https://open.spotify.com/album/5VEvNimYjgSZDXbBPZ8Qf9"
+      },
+      "artists": [
+        {
+          "name": "Sira Jovina",
+          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
+        }
+      ],
+      "duration_ms": 196225,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/5gCsQD68LPv4FmndQwyGEx"
     },
     {
       "added_at": "2025-06-19 22:00:53",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2025-06-19 22:00:53",
       "album": {
+        "name": "grib mig hvis jeg falder",
+        "url": "https://open.spotify.com/album/4wlR4NXJZVLw4zjfPfkmHj"
+      },
+      "artists": [
+        {
+          "name": "KALASET",
+          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
+        }
+      ],
+      "duration_ms": 193981,
+      "name": "Gennemsku Mig Nu",
+      "url": "https://open.spotify.com/track/3a6YcuG8rRxMtZdMWkAQCR"
+    },
+    {
+      "added_at": "2025-06-19 22:00:53",
+      "album": {
         "name": "Regnv\u00e5de sale",
         "url": "https://open.spotify.com/album/39MIeSjYinvOiTFxmURm0h"
       },
@@ -1095,6 +1111,26 @@
       "duration_ms": 196653,
       "name": "N\u00e6rmest en ven",
       "url": "https://open.spotify.com/track/0InIYe8cvUQ5TWopZKBsgO"
+    },
+    {
+      "added_at": "2025-06-19 22:00:53",
+      "album": {
+        "name": "Dans I Morgen",
+        "url": "https://open.spotify.com/album/5q2qW7AKv8q6ke68KsLBc7"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
+        },
+        {
+          "name": "Wads",
+          "url": "https://open.spotify.com/artist/3WpiiMu5szsvN2jSBHCxNu"
+        }
+      ],
+      "duration_ms": 192783,
+      "name": "Dans I Morgen (feat. Wads)",
+      "url": "https://open.spotify.com/track/2spwCio5MgRx2U4hEfRGaf"
     },
     {
       "added_at": "2025-06-19 22:00:53",
@@ -1123,26 +1159,6 @@
     {
       "added_at": "2025-06-19 22:00:53",
       "album": {
-        "name": "Dans I Morgen",
-        "url": "https://open.spotify.com/album/5q2qW7AKv8q6ke68KsLBc7"
-      },
-      "artists": [
-        {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
-        },
-        {
-          "name": "Wads",
-          "url": "https://open.spotify.com/artist/3WpiiMu5szsvN2jSBHCxNu"
-        }
-      ],
-      "duration_ms": 192783,
-      "name": "Dans I Morgen (feat. Wads)",
-      "url": "https://open.spotify.com/track/2spwCio5MgRx2U4hEfRGaf"
-    },
-    {
-      "added_at": "2025-06-19 22:00:53",
-      "album": {
         "name": "HOT (feat. Papa E)",
         "url": "https://open.spotify.com/album/57MfySDOa1Z3M0R2aaZxUa"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 159531,
       "name": "HOT (feat. Papa E)",
       "url": "https://open.spotify.com/track/6ZrzenY5yEFciqcIUmZSYS"
-    },
-    {
-      "added_at": "2025-06-19 22:00:53",
-      "album": {
-        "name": "Kun for os",
-        "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
-      },
-      "artists": [
-        {
-          "name": "KEDDE",
-          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
-        }
-      ],
-      "duration_ms": 200674,
-      "name": "Kun for os",
-      "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
     }
   ],
   "unique_name": "ung kniv ",

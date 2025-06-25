@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > pop is SO back, shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>.
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 79,713 likes - 107 songs - 5 hr 51 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 79,704 likes - 107 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t?si=zEuIA1S6SgW8IOr8GD0HFA">George FitzGerald</a>
 
-1,392 songs - 3 day 22 hr 54 min
+1,393 songs - 3 day 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Bubble Guts \- Braxe + Falcon Remix](https://open.spotify.com/track/6la7L4Q1gUg7tvuDT5wMXI) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Bubble Guts \(Braxe + Falcon Remix\) \[feat\. Alan Braxe & DJ Falcon\]](https://open.spotify.com/album/64bSE3p846wtptM5cIaoAn) | 4:01 | 2022-06-16 | 2022-07-14 |
 | [Bug](https://open.spotify.com/track/0MXmiqd7zoXxv6Gqn9ahhQ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:02 | 2024-08-28 | 2024-10-03 |
 | [Bugs Life](https://open.spotify.com/track/4VRF0KHa0PpS7qGaga9oym) | [Rắn Cạp Đuôi](https://open.spotify.com/artist/0iak64YD6N2iatxR5wBQl9) | [\*1](https://open.spotify.com/album/6wCBTlewEYkiAFNjLAipAo) | 4:26 | 2023-04-26 | 2023-06-01 |
+| [Build It Up](https://open.spotify.com/track/7nWXlyjVnkmpMPNEatNtuc) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [Build It Up / Hooked Live](https://open.spotify.com/album/2MBfpe4qX08Q6bv0xhAVnO) | 3:02 | 2025-06-24 |  |
 | [Building 650](https://open.spotify.com/track/2JOreCTFKLM5c67J4nneKr) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Building 650](https://open.spotify.com/album/1H58kI6UqlnmxQTS5rmBSK) | 3:51 | 2025-01-15 | 2025-02-27 |
 | [Bullet of Dignity](https://open.spotify.com/track/0bd1oHZdvi2DHUGPVhdOAI) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Bullet of Dignity](https://open.spotify.com/album/40gq5eFnNQbQ7EEvO6V2ja) | 2:59 | 2024-01-24 | 2024-03-21 |
 | [Bullet Of Dignity \- Acid Arab Remix](https://open.spotify.com/track/3xniPXJTPnMuSapsVBp1RK) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4), [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7) | [Bullet of Dignity \(Acid Arab Remix\)](https://open.spotify.com/album/6xEZAlxVfwmyxUWXT3BnCH) | 4:58 | 2024-05-22 | 2024-07-04 |

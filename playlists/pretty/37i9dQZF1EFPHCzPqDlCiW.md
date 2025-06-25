@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 31 | [Greatest Hits](https://open.spotify.com/track/05X87wvljNPBdU0Ix1L5QF) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/0b4Skg0UskddlJ9v4XRQ0S) | 3:17 |
 | 32 | [High Road](https://open.spotify.com/track/10G9kHt4j2G1tsFgc07NCr) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [High Road](https://open.spotify.com/album/7wpI9zhq75r91vvUuBg367) | 2:35 |
 | 33 | [Haze](https://open.spotify.com/track/2sZKbJC6xWNga34dTe9S0v) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [For A Moment, I Was Lost](https://open.spotify.com/album/0oY3tTEWLMF2x0pXbST0wn) | 1:57 |
-| 34 | [Sober](https://open.spotify.com/track/50q9LhyTypeDoio0yifveS) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Sober](https://open.spotify.com/album/0zuVpWisDhrMnPVRxPYsUd) | 3:14 |
-| 35 | [Never Forget You](https://open.spotify.com/track/2j5qmVNEUwsdOWeSIAYWUT) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Never Forget You](https://open.spotify.com/album/5AI1a7reUwdeJZRS5h9LcR) | 3:04 |
+| 34 | [Never Forget You](https://open.spotify.com/track/2j5qmVNEUwsdOWeSIAYWUT) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Never Forget You](https://open.spotify.com/album/5AI1a7reUwdeJZRS5h9LcR) | 3:04 |
+| 35 | [Sober](https://open.spotify.com/track/50q9LhyTypeDoio0yifveS) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Sober](https://open.spotify.com/album/0zuVpWisDhrMnPVRxPYsUd) | 3:14 |
 | 36 | [THE REASON \(feat\. John Newman\)](https://open.spotify.com/track/1H7izUQD8BKZgcUTIG0t6o) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [PULSE](https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt) | 3:17 |
 | 37 | [Better Off Alone](https://open.spotify.com/track/2jwsv7yOKwI4nd0UmrAnVq) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Better Off Alone](https://open.spotify.com/album/4ItBkJk85xH97hBZdlycIh) | 3:20 |
 | 38 | [Foolish](https://open.spotify.com/track/1vf2fGxOHfMF1N4DdYLezO) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Foolish](https://open.spotify.com/album/460TrK0D9edU86CAKWJu3x) | 3:32 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 147 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 148 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `Ab08MgAAAACvnD1nWr+Cv1U9UbHqMEtq`
+Snapshot ID: `Ab1B0gAAAADfOhkF8sztr6/qsc3nLPSw`

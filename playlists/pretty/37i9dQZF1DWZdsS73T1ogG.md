@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: SAIKO
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,268 likes - 168 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,197 likes - 168 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

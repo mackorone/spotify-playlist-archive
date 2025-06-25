@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own\. chloe moriondo on the cover.
 
-576 songs - 1 day 8 hr 15 min
+577 songs - 1 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Pieces of Us \(feat\. King Princess\)](https://open.spotify.com/track/0fQf209axFXyMsV5pAhfzf) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:26 | 2019-06-24 | 2022-04-19 |
 | [Pillow In My Arms](https://open.spotify.com/track/63PcfAO5WaHp89H0CVKBVT) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [ver2igo vol\. 2](https://open.spotify.com/album/1pKYkFrxb7RiJuCfSszdav) | 3:16 | 2024-04-05 | 2024-07-13 |
 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 | 2021-10-27 | 2022-04-21 |
+| [Plastic Box](https://open.spotify.com/track/7zPfFxH8WxUUffU8rqB4kU) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Plastic Box](https://open.spotify.com/album/1G7QhWDD2FgO8Rcmt7BYSj) | 3:21 | 2025-06-24 |  |
 | [Plastic Hearts](https://open.spotify.com/track/6qCsKKS7Ol63SJW3LOIX5R) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:25 | 2023-02-07 | 2023-02-25 |
 | [Please Don't Leave Me](https://open.spotify.com/track/3BaEK0XWsJ4Ss9qODrpdTz) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse](https://open.spotify.com/album/7lrj1NTTnc22UG6IY2hDGW) | 3:51 | 2019-07-27 | 2020-08-07 |
 | [Please Don’t Touch](https://open.spotify.com/track/16eNwSoWmJh5GSjN8ECmIp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Please Don’t Touch](https://open.spotify.com/album/2L0kDBJ2d6aThU4egKkoDk) | 3:38 | 2019-12-17 | 2021-10-02 |
@@ -428,7 +429,7 @@
 | [Sad Songs \(feat\. L Devine\)](https://open.spotify.com/track/3JsmrruMp8AWcbEZ4342JY) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Sad Songs \(feat\. L Devine\)](https://open.spotify.com/album/1WvYz2Mzs8j8cAFmSynXX5) | 3:11 | 2021-01-08 | 2021-10-23 |
 | [Sad Together](https://open.spotify.com/track/586bDV7NhZOAfjMdER1cYc) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [The Results Of My Poor Judgement](https://open.spotify.com/album/0qXVEBzNL34X3NgqmI8hH4) | 2:50 | 2020-02-13 | 2022-06-02 |
 | [Sad Tonight](https://open.spotify.com/track/1X8mgsS7R6lcKLjDPeQWum) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [How To Be Human](https://open.spotify.com/album/3vlDmQ83joVKRD13pq8GhP) | 2:59 | 2020-01-19 | 2022-05-27 |
-| [Same Again \(For Love\)](https://open.spotify.com/track/5gbVnjdHLilM1rCoXMiaKT) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Same Again \(For Love\)](https://open.spotify.com/album/2wgTwcm3eDWKgCkr33nTnR) | 3:19 | 2023-06-16 |  |
+| [Same Again \(For Love\)](https://open.spotify.com/track/5gbVnjdHLilM1rCoXMiaKT) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Same Again \(For Love\)](https://open.spotify.com/album/2wgTwcm3eDWKgCkr33nTnR) | 3:19 | 2023-06-16 | 2025-06-25 |
 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2022-01-27 |  |
 | [Say Something Loving](https://open.spotify.com/track/728zbo72kOoYdGR3AhNsyF) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/2PXy9USZAoTSdtrxfkPBnl) | 3:58 | 2019-07-30 | 2020-08-07 |
 | [Say You Love Me \- Shura Remix](https://open.spotify.com/track/2s2lBXFmlUgB7Shmi2ZgGr) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Say You Love Me \(Remixes\)](https://open.spotify.com/album/2iHpwDCnvcoItzxYa8RCGc) | 4:12 | 2019-07-27 | 2019-08-10 |

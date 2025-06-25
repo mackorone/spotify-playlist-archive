@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo en música tropical 📸 The La Planta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,809 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,817 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 40 | [Lo He Intentado](https://open.spotify.com/track/42pdqGAwsktamupd7pdcSw) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Lo He Intentado](https://open.spotify.com/album/70TyzivvbjyYJQG5Tcy5c5) | 3:00 |
 | 41 | [Ya No Queda Amor](https://open.spotify.com/track/4NvtjTQF5PCMf8KI236uPp) | [Jorge Carmona](https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX) | [Ya No Queda Amor](https://open.spotify.com/album/0xROIdroImk48KFVO7Cjzk) | 4:22 |
 | 42 | [SDLM](https://open.spotify.com/track/4ERWsdJoLGLpa5am0P1YSc) | [LA GURU](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [SDLM](https://open.spotify.com/album/2fc2IhHVc9meBpn9uR8HHZ) | 2:59 |
-| 43 | [Otra Vez](https://open.spotify.com/track/4F66egyK6cEY9NSUdPCaQC) | [Amaury Gutiérrez](https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D), [Jorge Antonio Oñate](https://open.spotify.com/artist/590pkVSqpEAduJBRLqjwIs) | [Otra Vez](https://open.spotify.com/album/28pe4M9CTwh6A2i1LS4GhN) | 3:41 |
+| 43 | [Otra Vez](https://open.spotify.com/track/4F66egyK6cEY9NSUdPCaQC) | [Amaury Gutiérrez](https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D), [Jorge Antonio Oñate](https://open.spotify.com/artist/590pkVSqpEAduJBRLqjwIs), [Premium Live](https://open.spotify.com/artist/0qDUZ3tOWEzAUwNjSUSVIB) | [Otra Vez](https://open.spotify.com/album/28pe4M9CTwh6A2i1LS4GhN) | 3:41 |
 | 44 | [Latidos](https://open.spotify.com/track/2BV9cUhl5HVBpn6nUudnlT) | [Cumbia Club](https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x), [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [El Club de la Cumbia](https://open.spotify.com/artist/1WTE076oMv3AL15Ics0qnU) | [Rambla De Montevideo](https://open.spotify.com/album/2FLqOZNLJdS9zT5L2iB41l) | 2:57 |
 | 45 | [Daniela \- En Vivo Festival del Huaso de Olmué](https://open.spotify.com/track/6nWsQdGJCR6OQD2Kz1ED4X) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD), [La Sonora De Tommy Rey](https://open.spotify.com/artist/0gOdu2BvlfycjQlrtk0CQv) | [Daniela \(En Vivo Festival del Huaso de Olmué\)](https://open.spotify.com/album/01vWubtCLDyJmoDHpSfFvz) | 3:46 |
 | 46 | [Eternidad](https://open.spotify.com/track/5SfJc9CVJJ2S83cWRwejG2) | [Mario Baro](https://open.spotify.com/artist/4svxKljLyMB1HaLbJainKP), [Felix](https://open.spotify.com/artist/35EqXzVgqCrz0oIJ0Tyo0u) | [Eternidad](https://open.spotify.com/album/3qQaq63lHAQ8mzqKULJeim) | 3:14 |

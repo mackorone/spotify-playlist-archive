@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-119 songs - 6 hr 38 min
+120 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Fool & The Thief](https://open.spotify.com/track/5ciOOIdA1BkqEK9kbNm80n) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Fool & The Thief](https://open.spotify.com/album/61yQsAjmpQZGqwnB0AaRn2) | 2:57 | 2024-06-13 |  |
 | [Funeral](https://open.spotify.com/track/7tkzxMzgewgVqGahS69F1X) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [How To Be Human](https://open.spotify.com/album/1HS3YNocpXpYUwcaqTcaht) | 3:37 | 2024-06-13 |  |
 | [Get Up](https://open.spotify.com/track/0hfEbuqdlZFAABHTsWTpKz) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Get Up](https://open.spotify.com/album/2BjmJnuWuSxXQQUbQuwDl9) | 3:26 | 2024-06-13 |  |
+| [Golden](https://open.spotify.com/track/0gA1D52otr2u5Hd88sOWJW) | [MEDUN](https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI) | [Golden](https://open.spotify.com/album/47or3xJvbmeAke8qPSlejF) | 2:43 | 2025-06-24 |  |
 | [Harmless Heart](https://open.spotify.com/track/07xH1WaaxQzAZkO1GNYk8u) | [Tom Martin](https://open.spotify.com/artist/4P0KP5wunIHTElWsbeCow2), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Harmless Heart](https://open.spotify.com/album/5tHq9K9LPFVltgNnQuL554) | 3:03 | 2024-06-13 |  |
 | [Helpless](https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Helpless](https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1) | 3:30 | 2024-08-18 |  |
 | [Hindsight](https://open.spotify.com/track/1LY3wORUYTg8t2lZ1v6wHq) | [Tom Martin](https://open.spotify.com/artist/4P0KP5wunIHTElWsbeCow2), [SHOR](https://open.spotify.com/artist/7FJqyPALMKAfnwfVAaia1P) | [Hindsight](https://open.spotify.com/album/0g7v1hN2NKpX2act4kuEqv) | 3:42 | 2024-06-13 |  |

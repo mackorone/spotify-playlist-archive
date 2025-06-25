@@ -1,79 +1,15 @@
 {
-  "description": "Future K-Pop hits! (Cover: Hearts2Hearts)",
-  "num_followers": 853391,
+  "description": "Future K-Pop hits! (Cover: Baby DONT Cry)",
+  "num_followers": 853710,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFkYOAAAAADg5QAAIl0j3QUWbz404clo",
+  "snapshot_id": "aFtSKgAAAAArjVbrYrZQZfYvQaTbil3/",
   "tracks": [
     {
-      "added_at": "2025-06-23 09:02:48",
-      "album": {
-        "name": "STYLE",
-        "url": "https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 209671,
-      "name": "STYLE",
-      "url": "https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ"
-    },
-    {
-      "added_at": "2025-06-23 09:02:48",
-      "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 181192,
-      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
-      "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
-    },
-    {
-      "added_at": "2025-06-23 09:02:48",
-      "album": {
-        "name": "Gabriela",
-        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "Gabriela",
-      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
-    },
-    {
-      "added_at": "2025-06-23 09:02:48",
-      "album": {
-        "name": "FAMOUS",
-        "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
-      },
-      "artists": [
-        {
-          "name": "ALLDAY PROJECT",
-          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
-        }
-      ],
-      "duration_ms": 157191,
-      "name": "WICKED",
-      "url": "https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn"
-    },
-    {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "F Girl",
         "url": "https://open.spotify.com/album/6z3A3qvpEVKsG1pvIqEyqP"
@@ -89,7 +25,71 @@
       "url": "https://open.spotify.com/track/5HaVN6uKNnLu3GVEmbrSBd"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
+      "album": {
+        "name": "FAMOUS",
+        "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "duration_ms": 157191,
+      "name": "WICKED",
+      "url": "https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn"
+    },
+    {
+      "added_at": "2025-06-25 01:34:34",
+      "album": {
+        "name": "STYLE",
+        "url": "https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 209671,
+      "name": "STYLE",
+      "url": "https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ"
+    },
+    {
+      "added_at": "2025-06-25 01:34:34",
+      "album": {
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
+    },
+    {
+      "added_at": "2025-06-25 01:34:34",
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 181192,
+      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+      "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
+    },
+    {
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "Girls Will Be Girls",
         "url": "https://open.spotify.com/album/0bVAPVpPL25nIfko4O1G4J"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/373C7aTyGRJw7sVT4UG6Fh"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "WORLD OF STREET WOMAN FIGHTER(WSWF) Original Vol.2 (Class Mission)",
         "url": "https://open.spotify.com/album/7zY5lldzF6MgRVfRajSS4f"
@@ -121,23 +121,39 @@
       "url": "https://open.spotify.com/track/2ZmjUVTEA6UjJmqyiRGBBd"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
-        "name": "Dare to Crave",
-        "url": "https://open.spotify.com/album/5dsLiHjDY0eNIN8iEhNuy5"
+        "name": "Head over Heels, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1gCYdqywMDYyYLn9xZh6Df"
       },
       "artists": [
         {
-          "name": "CRAVITY",
-          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
         }
       ],
-      "duration_ms": 165013,
-      "name": "SET NET G0?!",
-      "url": "https://open.spotify.com/track/1RsaPPE4HELB8slPTI9SO8"
+      "duration_ms": 191013,
+      "name": "D-DAY",
+      "url": "https://open.spotify.com/track/6NmLAub5n0Ol4hwYlGVdiw"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
+      "album": {
+        "name": "GOOD BOY (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/3qC8aLtNt0GYp1ALDBFVL3"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Brand New Day",
+      "url": "https://open.spotify.com/track/0MbmPT6btZ8e3oMGkAAA00"
+    },
+    {
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "224",
         "url": "https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR"
@@ -153,23 +169,7 @@
       "url": "https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
-      "album": {
-        "name": "F Girl",
-        "url": "https://open.spotify.com/album/6z3A3qvpEVKsG1pvIqEyqP"
-      },
-      "artists": [
-        {
-          "name": "Baby DONT Cry",
-          "url": "https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs"
-        }
-      ],
-      "duration_ms": 130840,
-      "name": "Bet You\u2019ll Regret It",
-      "url": "https://open.spotify.com/track/2bVH1pUiX20bp2VAm5JcHj"
-    },
-    {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "bomb",
         "url": "https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp"
@@ -185,7 +185,55 @@
       "url": "https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
+      "album": {
+        "name": "BEEP",
+        "url": "https://open.spotify.com/album/29pYd9dV0UpmOmeoYGuj4e"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "duration_ms": 164884,
+      "name": "BEEP",
+      "url": "https://open.spotify.com/track/21LesVOMCk5j8LqsFBvCc5"
+    },
+    {
+      "added_at": "2025-06-25 01:34:34",
+      "album": {
+        "name": "F Girl",
+        "url": "https://open.spotify.com/album/6z3A3qvpEVKsG1pvIqEyqP"
+      },
+      "artists": [
+        {
+          "name": "Baby DONT Cry",
+          "url": "https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs"
+        }
+      ],
+      "duration_ms": 130840,
+      "name": "Bet You\u2019ll Regret It",
+      "url": "https://open.spotify.com/track/2bVH1pUiX20bp2VAm5JcHj"
+    },
+    {
+      "added_at": "2025-06-25 01:34:34",
+      "album": {
+        "name": "Dare to Crave",
+        "url": "https://open.spotify.com/album/5dsLiHjDY0eNIN8iEhNuy5"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "duration_ms": 165013,
+      "name": "SET NET G0?!",
+      "url": "https://open.spotify.com/track/1RsaPPE4HELB8slPTI9SO8"
+    },
+    {
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "Glow to Haze",
         "url": "https://open.spotify.com/album/1y9IjyEYyMaoxKCgGrHS1o"
@@ -201,7 +249,7 @@
       "url": "https://open.spotify.com/track/7H9e5GKSY1PQTW1edqvHb9"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "Fly to the youth (feat. YUQI)",
         "url": "https://open.spotify.com/album/5laYcYQaoQDxegUrGBwVD0"
@@ -221,23 +269,7 @@
       "url": "https://open.spotify.com/track/4bBAhOKM5yayK3z5y2wL6J"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
-      "album": {
-        "name": "BEEP",
-        "url": "https://open.spotify.com/album/29pYd9dV0UpmOmeoYGuj4e"
-      },
-      "artists": [
-        {
-          "name": "izna",
-          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
-        }
-      ],
-      "duration_ms": 164884,
-      "name": "BEEP",
-      "url": "https://open.spotify.com/track/21LesVOMCk5j8LqsFBvCc5"
-    },
-    {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "Interlunar",
         "url": "https://open.spotify.com/album/37h2a00dYA02FN9eyAAN8O"
@@ -253,7 +285,7 @@
       "url": "https://open.spotify.com/track/1VPIkehzQNPo6syFKXLL1F"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "Soar - The 2nd Album",
         "url": "https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9"
@@ -269,7 +301,7 @@
       "url": "https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "WORLD OF STREET WOMAN FIGHTER(WSWF) Original Vol.2 (Class Mission)",
         "url": "https://open.spotify.com/album/7zY5lldzF6MgRVfRajSS4f"
@@ -293,7 +325,7 @@
       "url": "https://open.spotify.com/track/4bGMm3NwFM8q8YC3Y6VLOE"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "ICY BBY",
         "url": "https://open.spotify.com/album/58G2sRHq3C0Z1srLSRzwuV"
@@ -309,7 +341,7 @@
       "url": "https://open.spotify.com/track/7aQY8ckcvqNu0X20Wac4Zz"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "3rd Mini Album 'In a million noises, I'll be your harmony'",
         "url": "https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV"
@@ -325,7 +357,7 @@
       "url": "https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "Kick Out, Flip Now!",
         "url": "https://open.spotify.com/album/4BonBofCFd9r6PRTSA0blD"
@@ -341,7 +373,7 @@
       "url": "https://open.spotify.com/track/3eCsrRgvTNzCSrGUESA5OX"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "WORLD OF STREET WOMAN FIGHTER(WSWF) Original Vol.2 (Class Mission)",
         "url": "https://open.spotify.com/album/7zY5lldzF6MgRVfRajSS4f"
@@ -361,7 +393,7 @@
       "url": "https://open.spotify.com/track/6RZMwZQkoTLoPkwkA9rurA"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "TILT - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/706xdC5SJBOk85HoJSFJeq"
@@ -377,7 +409,7 @@
       "url": "https://open.spotify.com/track/1etiDVN61JMXErlRMia2oR"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "Resident Playbook, Pt. 9 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2gZ7EtpMiM5cEtQIHzOCLo"
@@ -393,7 +425,7 @@
       "url": "https://open.spotify.com/track/60DwXD4XZgBGMRwViDqBm6"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "<ASSEMBLE25>",
         "url": "https://open.spotify.com/album/4MGXby5GGnly4aVwdZuwak"
@@ -409,7 +441,7 @@
       "url": "https://open.spotify.com/track/0hRr7x68aApt0TX1AIAA9W"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "We are",
         "url": "https://open.spotify.com/album/4vj008nVDYfO4m75ZT1VBu"
@@ -425,7 +457,7 @@
       "url": "https://open.spotify.com/track/6d8DgvFxp6lbdfOw9BVkLS"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "DESIRE : UNLEASH",
         "url": "https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B"
@@ -441,7 +473,7 @@
       "url": "https://open.spotify.com/track/1hZqz3w2FFdQekLLLFEa0T"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "Playlist #You Are You",
         "url": "https://open.spotify.com/album/0Z9CrKIgLP09vWer1NGZBJ"
@@ -457,7 +489,23 @@
       "url": "https://open.spotify.com/track/1ayDPLiUj3blLqVkVufY0X"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
+      "album": {
+        "name": "Confidence",
+        "url": "https://open.spotify.com/album/2xOcWwEpjMzDYg3aCePFQy"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "duration_ms": 144013,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/2RCUFR6B5EBeclhSSrIW0m"
+    },
+    {
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "Keep It Sexy (MOMMAE 2)",
         "url": "https://open.spotify.com/album/74Xun3jkHLajFFz2ymcsRs"
@@ -477,7 +525,7 @@
       "url": "https://open.spotify.com/track/349vRUzitG48j0mYch7Ega"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "Essence of Reverie",
         "url": "https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB"
@@ -493,7 +541,7 @@
       "url": "https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "A flower bookmark, Pt. 3",
         "url": "https://open.spotify.com/album/4TeDL95L9OTCpYnuQwlrwY"
@@ -509,7 +557,7 @@
       "url": "https://open.spotify.com/track/3iJxBDym1SeqNqJqnvreHK"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "WORLD OF STREET WOMAN FIGHTER(WSWF) Original Vol.1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4GYvM3EbRUpbeen0zCIGaK"
@@ -525,7 +573,7 @@
       "url": "https://open.spotify.com/track/3i4uRxBpIrI6xb6CHLvh9p"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "ODYSSEY - The 1st Album",
         "url": "https://open.spotify.com/album/4YqJnxf3dYKhosGRrfoQQo"
@@ -541,7 +589,7 @@
       "url": "https://open.spotify.com/track/4rRDmXBKB2X2Jnb8yLzAKZ"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "SPEED ZONE",
         "url": "https://open.spotify.com/album/6eWgaSgtuchEdVEuJ5TOiX"
@@ -557,7 +605,7 @@
       "url": "https://open.spotify.com/track/5koizuWzXgVvvJxeToiU1t"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "WONDERLAND",
         "url": "https://open.spotify.com/album/6kAIg4on5PAYArTdNvywdV"
@@ -577,7 +625,7 @@
       "url": "https://open.spotify.com/track/7MbtHBj17NTiuk6jYJGExd"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "Oh My",
         "url": "https://open.spotify.com/album/5wSh6Aw0IamviaLSPnW7vV"
@@ -593,7 +641,7 @@
       "url": "https://open.spotify.com/track/1rTMIstU7GaHqRyYlPrHGd"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "No Genre",
         "url": "https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL"
@@ -609,7 +657,7 @@
       "url": "https://open.spotify.com/track/1klePVubVctBqhlKJvibil"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "MY EYES OPEN VVIDE",
         "url": "https://open.spotify.com/album/4n3pIffNB5CVVBmfhATTo8"
@@ -625,7 +673,7 @@
       "url": "https://open.spotify.com/track/63gioPx2WipyXiigLMf1nB"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "EVE: ROMANCE",
         "url": "https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y"
@@ -641,7 +689,7 @@
       "url": "https://open.spotify.com/track/53bnkcyDpei0ZlC30au1t7"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "Gnarly",
         "url": "https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5"
@@ -657,7 +705,7 @@
       "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "WORLD OF STREET WOMAN FIGHTER(WSWF) Original Vol.1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4GYvM3EbRUpbeen0zCIGaK"
@@ -673,7 +721,7 @@
       "url": "https://open.spotify.com/track/436iPWnOsW8l3JApUJFttv"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "Beauty in Chaos",
         "url": "https://open.spotify.com/album/4LDlunHDfi9E2pIwMZmC1a"
@@ -689,7 +737,7 @@
       "url": "https://open.spotify.com/track/1NUT3jWF3J9rDfd7WHzOos"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "To Reach You",
         "url": "https://open.spotify.com/album/6cSbfbsVtQpnvFcRsYru1P"
@@ -705,7 +753,7 @@
       "url": "https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "The 2nd Mini Album 'SWICY'",
         "url": "https://open.spotify.com/album/3S4N457QDAQonUfQU2ACj9"
@@ -721,7 +769,7 @@
       "url": "https://open.spotify.com/track/3owGQ1rmtKXpvwHmF0S2CZ"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "Stargazers",
         "url": "https://open.spotify.com/album/3UENaS6UmhRQ5blgKC8JQ5"
@@ -737,7 +785,7 @@
       "url": "https://open.spotify.com/track/5ddJtDFlVL9GwdWNdnEDGL"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "TWS 3rd Mini Album 'TRY WITH US'",
         "url": "https://open.spotify.com/album/5JfdYZ1OTue80fQxp2rE6y"
@@ -753,7 +801,23 @@
       "url": "https://open.spotify.com/track/0ti0CEUPplsI7AZDyexrXy"
     },
     {
-      "added_at": "2025-06-23 09:02:48",
+      "added_at": "2025-06-25 01:34:34",
+      "album": {
+        "name": "Simple dance",
+        "url": "https://open.spotify.com/album/2yfiCCI8uzybr8Gv67tBnH"
+      },
+      "artists": [
+        {
+          "name": "Jang Wooyoung",
+          "url": "https://open.spotify.com/artist/16iaWzk4PHL4GCjzyT6zZn"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Simple dance",
+      "url": "https://open.spotify.com/track/5me0cL5wzrEZJFej7Vn7rw"
+    },
+    {
+      "added_at": "2025-06-25 01:34:34",
       "album": {
         "name": "ERLU BLUE",
         "url": "https://open.spotify.com/album/1FCqBar1R2jOcwcR7TyVTS"
@@ -767,70 +831,6 @@
       "duration_ms": 192386,
       "name": "NERDY",
       "url": "https://open.spotify.com/track/6maRkcBnkwVL0uwjjGazFT"
-    },
-    {
-      "added_at": "2025-06-23 09:02:48",
-      "album": {
-        "name": "SIGN",
-        "url": "https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd"
-      },
-      "artists": [
-        {
-          "name": "izna",
-          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
-        }
-      ],
-      "duration_ms": 166612,
-      "name": "SIGN",
-      "url": "https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX"
-    },
-    {
-      "added_at": "2025-06-23 09:02:48",
-      "album": {
-        "name": "Moon",
-        "url": "https://open.spotify.com/album/7glgOEdjzN4zKY9D6pmkpq"
-      },
-      "artists": [
-        {
-          "name": "ASTRO",
-          "url": "https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8"
-        }
-      ],
-      "duration_ms": 284360,
-      "name": "Moon(with VIVIZ, MINHYUK, KIHYUN, I.M of MONSTA X, HOSHI, WONWOO, MINGYU, DK, SEUNGKWAN of SEVENTEEN, HELLO GLOOM, ROCKY, CHOI YOOJUNG, KIM DOYEON, CHA NI (SF9), Bang Chan (Stray Kids), MOON SUA of Billlie)",
-      "url": "https://open.spotify.com/track/2gu6fOPHZVG0GzjCvnxlBA"
-    },
-    {
-      "added_at": "2025-06-23 09:02:48",
-      "album": {
-        "name": "Lucky=One",
-        "url": "https://open.spotify.com/album/1Evh1hzbbUwjBHFoaVQLBq"
-      },
-      "artists": [
-        {
-          "name": "cosmosy",
-          "url": "https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn"
-        }
-      ],
-      "duration_ms": 194013,
-      "name": "Lucky=One",
-      "url": "https://open.spotify.com/track/0KUXg1wu5jnK5YzvF6cryR"
-    },
-    {
-      "added_at": "2025-06-23 09:02:48",
-      "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/6oUWprZ8FqceLL4TuS4LTW"
-      },
-      "artists": [
-        {
-          "name": "SAAY",
-          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
-        }
-      ],
-      "duration_ms": 233040,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/54KfrrBokq4OPAhzkmru2h"
     }
   ],
   "unique_name": "K-Pop Rising",

@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 94007,
+  "num_followers": 94040,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
+        "name": "Jala Jala y Boogaloo",
+        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
+      },
+      "artists": [
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        }
+      ],
+      "duration_ms": 272253,
+      "name": "Lo Atar\u00e1 la Arache",
+      "url": "https://open.spotify.com/track/6dlLkD6H0L72KPZVsQgVhV"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
         "name": "Barretto",
         "url": "https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 338520,
       "name": "Guarar\u00e9",
       "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
-        "name": "Jala Jala y Boogaloo",
-        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
-      },
-      "artists": [
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
-        }
-      ],
-      "duration_ms": 272253,
-      "name": "Lo Atar\u00e1 la Arache",
-      "url": "https://open.spotify.com/track/6dlLkD6H0L72KPZVsQgVhV"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "La Cuna",
-        "url": "https://open.spotify.com/album/3vcEuGjhuMh3BKNWYBFFqy"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        }
-      ],
-      "duration_ms": 514866,
-      "name": "Pastime Paradise",
-      "url": "https://open.spotify.com/track/36LpijZOR2wl2hGmVL1EN0"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
         "name": "Ag\u00fazate",
         "url": "https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 381240,
       "name": "Guaguanc\u00f3 Raro",
       "url": "https://open.spotify.com/track/2p4JCDisy82i1dhZW4v0Pr"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
+        "name": "La Cuna",
+        "url": "https://open.spotify.com/album/3vcEuGjhuMh3BKNWYBFFqy"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "duration_ms": 514866,
+      "name": "Pastime Paradise",
+      "url": "https://open.spotify.com/track/36LpijZOR2wl2hGmVL1EN0"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Barretto Power",
-        "url": "https://open.spotify.com/album/5RxIBMJ5ZrQo1YmD1bk9k7"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        }
-      ],
-      "duration_ms": 167533,
-      "name": "Right On",
-      "url": "https://open.spotify.com/track/4V0PNNaNA9PgFC3zVlw8no"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
         "name": "Mr. Watermelon Man",
         "url": "https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 238053,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/39DgsVDftJOLDqOdFmX7tf"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
+        "name": "Barretto Power",
+        "url": "https://open.spotify.com/album/5RxIBMJ5ZrQo1YmD1bk9k7"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "duration_ms": 167533,
+      "name": "Right On",
+      "url": "https://open.spotify.com/track/4V0PNNaNA9PgFC3zVlw8no"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Exitos de Oro (Golden Hits)",
-        "url": "https://open.spotify.com/album/1ujwAoQz5zOF8ikwkaSTTH"
-      },
-      "artists": [
-        {
-          "name": "Joe Quijano",
-          "url": "https://open.spotify.com/artist/7EXzlOmGLgyPnduF7UfFp4"
-        }
-      ],
-      "duration_ms": 147236,
-      "name": "En Puerta de Tierra",
-      "url": "https://open.spotify.com/track/0tGw4jBmEu5PwJcjqmZc3g"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
         "name": "Mongo Santamaria's Greatest Hits",
         "url": "https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 182240,
       "name": "We Got Latin Soul",
       "url": "https://open.spotify.com/track/6WFxCGBI5ybkoEKr5sJEfv"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
+        "name": "Exitos de Oro (Golden Hits)",
+        "url": "https://open.spotify.com/album/1ujwAoQz5zOF8ikwkaSTTH"
+      },
+      "artists": [
+        {
+          "name": "Joe Quijano",
+          "url": "https://open.spotify.com/artist/7EXzlOmGLgyPnduF7UfFp4"
+        }
+      ],
+      "duration_ms": 147236,
+      "name": "En Puerta de Tierra",
+      "url": "https://open.spotify.com/track/0tGw4jBmEu5PwJcjqmZc3g"
     },
     {
       "added_at": "2024-07-18 20:57:58",

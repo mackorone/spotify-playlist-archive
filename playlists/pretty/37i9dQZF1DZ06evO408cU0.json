@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 61165,
+  "num_followers": 61176,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFdHgAAAAADte7CNTTdFaJyDrd4SvgGe",
+  "snapshot_id": "aFiZAAAAAAAewupd7sNwp8L4dxvN4tqX",
   "tracks": [
     {
       "added_at": null,
@@ -891,6 +891,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Porque As\u00ed Ten\u00eda Que Ser",
+        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 153640,
+      "name": "Porque As\u00ed Ten\u00eda Que Ser",
+      "url": "https://open.spotify.com/track/0pmmaDa3lIHX5YoAv29WMZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vuela Alto",
         "url": "https://open.spotify.com/album/2EJM2bCVNoQdZkdBIAvUzw"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 158742,
       "name": "Vuela Alto",
       "url": "https://open.spotify.com/track/6zAbof3A0ZOt0J7PNF3sIx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Porque As\u00ed Ten\u00eda Que Ser",
-        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 153640,
-      "name": "Porque As\u00ed Ten\u00eda Que Ser",
-      "url": "https://open.spotify.com/track/0pmmaDa3lIHX5YoAv29WMZ"
     }
   ],
   "unique_name": "This Is Banda Carnaval",

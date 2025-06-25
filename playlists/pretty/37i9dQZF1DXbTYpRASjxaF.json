@@ -1,6 +1,6 @@
 {
   "description": "todos pro alto, cada um com o seu. Foto: Mc Luki, Rincon Sapi\u00eancia",
-  "num_followers": 133112,
+  "num_followers": 133105,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -95,38 +95,6 @@
     {
       "added_at": "2025-06-20 03:01:30",
       "album": {
-        "name": "Mixtape Supernova Vol.1",
-        "url": "https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb"
-      },
-      "artists": [
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "Ghard",
-          "url": "https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf"
-        },
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Niink",
-          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
-        }
-      ],
-      "duration_ms": 164223,
-      "name": "Tango (feat. Veigh & Niink)",
-      "url": "https://open.spotify.com/track/6dWGBv0DMNa7sa2y7bGS2r"
-    },
-    {
-      "added_at": "2025-06-20 03:01:30",
-      "album": {
         "name": "Veterano",
         "url": "https://open.spotify.com/album/215PUKKoEsit8HmWhUhcnl"
       },
@@ -159,6 +127,38 @@
       "duration_ms": 240000,
       "name": "Veterano",
       "url": "https://open.spotify.com/track/0RkL3poajWMDLB7Q90cpjr"
+    },
+    {
+      "added_at": "2025-06-20 03:01:30",
+      "album": {
+        "name": "Mixtape Supernova Vol.1",
+        "url": "https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb"
+      },
+      "artists": [
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Ghard",
+          "url": "https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf"
+        },
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        }
+      ],
+      "duration_ms": 164223,
+      "name": "Tango (feat. Veigh & Niink)",
+      "url": "https://open.spotify.com/track/6dWGBv0DMNa7sa2y7bGS2r"
     },
     {
       "added_at": "2025-06-20 03:01:30",
@@ -1111,30 +1111,6 @@
     {
       "added_at": "2025-06-20 03:01:30",
       "album": {
-        "name": "Vou Nessa",
-        "url": "https://open.spotify.com/album/4huR5dw6AO0rq92G6xMdcq"
-      },
-      "artists": [
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
-        },
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        }
-      ],
-      "duration_ms": 226875,
-      "name": "Vou Nessa",
-      "url": "https://open.spotify.com/track/3tXT3n0NHFJo0MswFlzJAl"
-    },
-    {
-      "added_at": "2025-06-20 03:01:30",
-      "album": {
         "name": "Dialeto Delinquente",
         "url": "https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB"
       },
@@ -1155,6 +1131,30 @@
       "duration_ms": 142784,
       "name": "Santo de Casa",
       "url": "https://open.spotify.com/track/3lkfsOQnDbaOeIYSBp0kUB"
+    },
+    {
+      "added_at": "2025-06-20 03:01:30",
+      "album": {
+        "name": "Vou Nessa",
+        "url": "https://open.spotify.com/album/4huR5dw6AO0rq92G6xMdcq"
+      },
+      "artists": [
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        }
+      ],
+      "duration_ms": 226875,
+      "name": "Vou Nessa",
+      "url": "https://open.spotify.com/track/3tXT3n0NHFJo0MswFlzJAl"
     },
     {
       "added_at": "2025-06-20 03:01:30",

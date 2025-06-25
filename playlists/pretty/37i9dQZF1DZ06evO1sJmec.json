@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2048337,
+  "num_followers": 2048599,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFdHgAAAAACHGF6WF6iBuLnp2VOauqUS",
+  "snapshot_id": "aFiZAAAAAAClD75i2wKvQXcnfb5ooDiy",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Magnetic",
-        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 466586,
-      "name": "The Unforgiven III",
-      "url": "https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hardwired\u2026To Self-Destruct",
         "url": "https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7"
       },
@@ -543,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metallica (Remastered 2021)",
-        "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
       },
       "artists": [
         {
@@ -552,9 +536,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 227573,
-      "name": "Holier Than Thou - Remastered 2021",
-      "url": "https://open.spotify.com/track/6c5Ft6sEfLjVxL2wkgxBtv"
+      "duration_ms": 466586,
+      "name": "The Unforgiven III",
+      "url": "https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI"
     },
     {
       "added_at": null,
@@ -575,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kill 'Em All (Deluxe / Remastered)",
-        "url": "https://open.spotify.com/album/3m69LQokz6DaKB3yw4BH6n"
+        "name": "Metallica (Remastered 2021)",
+        "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
       },
       "artists": [
         {
@@ -584,9 +568,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 432546,
-      "name": "The Four Horsemen - Remastered",
-      "url": "https://open.spotify.com/track/2YTwVDQOSGclX2N3AKetOP"
+      "duration_ms": 227573,
+      "name": "Holier Than Thou - Remastered 2021",
+      "url": "https://open.spotify.com/track/6c5Ft6sEfLjVxL2wkgxBtv"
     },
     {
       "added_at": null,
@@ -607,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metallica (Remastered 2021)",
-        "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
+        "name": "Kill 'Em All (Deluxe / Remastered)",
+        "url": "https://open.spotify.com/album/3m69LQokz6DaKB3yw4BH6n"
       },
       "artists": [
         {
@@ -616,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 256573,
-      "name": "Of Wolf and Man - Remastered 2021",
-      "url": "https://open.spotify.com/track/3bxHy4sUXEWjI9kXG1DH5K"
+      "duration_ms": 432546,
+      "name": "The Four Horsemen - Remastered",
+      "url": "https://open.spotify.com/track/2YTwVDQOSGclX2N3AKetOP"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
       "duration_ms": 585506,
       "name": "...And Justice for All",
       "url": "https://open.spotify.com/track/4a47TNOfJ9vbpbmU31wpgT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Metallica (Remastered 2021)",
+        "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 256573,
+      "name": "Of Wolf and Man - Remastered 2021",
+      "url": "https://open.spotify.com/track/3bxHy4sUXEWjI9kXG1DH5K"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metallica (Remastered 2021)",
-        "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 244533,
-      "name": "Through the Never - Remastered 2021",
-      "url": "https://open.spotify.com/track/5pPYLYTIBVJAz7iZRPufqw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Master Of Puppets (Remastered)",
         "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 496626,
       "name": "Disposable Heroes",
       "url": "https://open.spotify.com/track/4tPHBRIPsB55nssjvKDbjj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Metallica (Remastered 2021)",
+        "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 244533,
+      "name": "Through the Never - Remastered 2021",
+      "url": "https://open.spotify.com/track/5pPYLYTIBVJAz7iZRPufqw"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+        "name": "Load",
+        "url": "https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 371880,
-      "name": "Shadows Follow",
-      "url": "https://open.spotify.com/track/5iG1GycXpheJ5xMW0gNvKv"
+      "duration_ms": 304400,
+      "name": "Ain't My Bitch",
+      "url": "https://open.spotify.com/track/3QWzxUE2WA5WoSi82KCODk"
     }
   ],
   "unique_name": "This Is Metallica",

@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 249495,
+  "num_followers": 249520,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFdHgAAAAADRNk+Yxi/7rIHjEXe+1csj",
+  "snapshot_id": "aFiZAAAAAACLdwpyGkgoR8mTHuaOC3Bk",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 253240,
-      "name": "Home Ain't Where His Heart Is (Anymore)",
-      "url": "https://open.spotify.com/track/43C32gFFER5nS4LJffpEPZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't!",
         "url": "https://open.spotify.com/album/79a6iHklq4kX2PKvxKPri3"
       },
@@ -603,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 253240,
+      "name": "Home Ain't Where His Heart Is (Anymore)",
+      "url": "https://open.spotify.com/track/43C32gFFER5nS4LJffpEPZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Up!",
         "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
       },
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 240533,
-      "name": "Thank You Baby! (For Makin' Someday Come So Soon) - Red Version",
-      "url": "https://open.spotify.com/track/6Hlr4MQ98pLjc9R3zKnsdW"
+      "duration_ms": 248866,
+      "name": "Nah! - Red Version",
+      "url": "https://open.spotify.com/track/4etvQadS9nSmBNAWrwJod6"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 248866,
-      "name": "Nah! - Red Version",
-      "url": "https://open.spotify.com/track/4etvQadS9nSmBNAWrwJod6"
+      "duration_ms": 240533,
+      "name": "Thank You Baby! (For Makin' Someday Come So Soon) - Red Version",
+      "url": "https://open.spotify.com/track/6Hlr4MQ98pLjc9R3zKnsdW"
     },
     {
       "added_at": null,

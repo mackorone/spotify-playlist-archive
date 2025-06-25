@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "6 Figures",
+        "url": "https://open.spotify.com/album/35ARyGdTF2FCOV6dsjyRYW"
+      },
+      "artists": [
+        {
+          "name": "Dylan Charbeneau",
+          "url": "https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185538,
+      "name": "6 Figures",
+      "url": "https://open.spotify.com/track/3iZwmqUWy35ytJI9mSNWG9"
+    },
+    {
+      "album": {
         "name": "A brand new day",
         "url": "https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6"
       },
@@ -531,6 +549,24 @@
     },
     {
       "album": {
+        "name": "At Last, The Sun",
+        "url": "https://open.spotify.com/album/7e3Z92QeOzqJoPJzkoRxM6"
+      },
+      "artists": [
+        {
+          "name": "Jasper van Dijk",
+          "url": "https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217114,
+      "name": "At Last, The Sun",
+      "url": "https://open.spotify.com/track/4Zw5XvWWG0RcMZrCexbgTR"
+    },
+    {
+      "album": {
         "name": "Atmosphere",
         "url": "https://open.spotify.com/album/3GYeeFdeoxLMMBe5kg8fby"
       },
@@ -650,7 +686,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 209137,
       "name": "Been Here Before",
       "url": "https://open.spotify.com/track/3QBLDkUTJ7brEiZbPBhf9K"
@@ -956,7 +992,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 166000,
       "name": "Clear-Headed",
       "url": "https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu"

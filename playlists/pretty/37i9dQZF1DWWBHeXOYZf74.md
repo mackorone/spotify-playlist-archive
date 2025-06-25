@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Four Tet
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336,613 likes - 135 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,611 likes - 135 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 108 | [Close Range](https://open.spotify.com/track/7cHlNnLJD0RPhALmesnneD) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Close Range](https://open.spotify.com/album/4USUstWxap4sq9pHQPbVPI) | 3:18 |
 | 109 | [Crash \(feat\. Raphael Saadiq and Kelly Rowland\)](https://open.spotify.com/track/4BWd7seTOURluar6C8RqYG) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [From The Private Collection of Saba and No ID](https://open.spotify.com/album/7ha6zD0XRzUxAxxfXDLYfq) | 3:28 |
 | 110 | [Needless](https://open.spotify.com/track/61oB8XLJgOs6b1RIhL4f6Y) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT), [Lily Juniper](https://open.spotify.com/artist/45kZYjtuhpFuzQC7l2odVP) | [Needless](https://open.spotify.com/album/0K16nL5ksc8qlsAxwnbgJo) | 3:26 |
-| 111 | [father](https://open.spotify.com/track/0PQ33KiYJD1XPsP6oA1GYn) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [father](https://open.spotify.com/album/3fjGRYQv5YtTTyqviMYN3v) | 1:45 |
+| 111 | [father](https://open.spotify.com/track/0PQ33KiYJD1XPsP6oA1GYn) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [father](https://open.spotify.com/album/3fjGRYQv5YtTTyqviMYN3v) | 1:46 |
 | 112 | [If Only I Could Wait](https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Danielle Haim](https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9) | [If Only I Could Wait b/w Walk Home](https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh) | 3:22 |
 | 113 | [Babylon](https://open.spotify.com/track/40dyQB7OvOTRlMi3Q2lsPe) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8) | [Babylon](https://open.spotify.com/album/23A8uhcRtjZienf3cNLc0l) | 3:06 |
 | 114 | [The Person You’d Like To Be](https://open.spotify.com/track/7645Cs9rO3J1OD2O3CQ10P) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [The Person You’d Like To Be](https://open.spotify.com/album/6bQfgbOwJIs6taCSyyA2XQ) | 3:17 |

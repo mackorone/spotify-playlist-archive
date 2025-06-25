@@ -4,7 +4,7 @@
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: Kyle Sturrock
 
-506 songs - 1 day 3 hr 21 min
+507 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [My Best Friend](https://open.spotify.com/track/2vYAKGRyybrFQL1rdHXxM2) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [My Best Friend](https://open.spotify.com/album/5eZNZwivm3Ux6EHvLfK3ba) | 3:16 | 2024-01-22 | 2024-03-01 |
 | [My Body](https://open.spotify.com/track/49npp7I6HCRmwcp8l1W7mI) | [Sarah Walk](https://open.spotify.com/artist/4RX6VSUokwl9GVujjrnR7u) | [My Body](https://open.spotify.com/album/1bKfLOMlaUMUwPxRQMCzqT) | 2:46 | 2024-01-22 | 2024-03-01 |
 | [My Body's My Buddy](https://open.spotify.com/track/1Ra2A7WtslDs3V6bEwpVkO) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [My Body's My Buddy](https://open.spotify.com/album/1IumCl0HdwL0UcDVkGdY2u) | 3:28 | 2024-08-28 | 2024-12-07 |
+| [My Room](https://open.spotify.com/track/2ZziF1vDOlGND8E2fn755w) | [Alex Bloom](https://open.spotify.com/artist/76Q3mwreqsUh3yL5YL3tLt) | [My Room](https://open.spotify.com/album/4vp2DWLV5Lhe5tUGhbwRvL) | 2:36 | 2025-06-04 |  |
 | [N.A.S.C.A.R](https://open.spotify.com/track/2vCFmMJoVuxNiSKSRGCY8R) | [DINER](https://open.spotify.com/artist/7dvHlnKgD5EWy243QylvvC) | [N.A.S.C.A.R](https://open.spotify.com/album/77VoWt51gxY9sj167WZ8CB) | 1:53 | 2024-08-28 | 2024-10-05 |
 | [Never Far From Paradise](https://open.spotify.com/track/5yJDj9ppmBA3FANgQMA24D) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Never Far From Paradise](https://open.spotify.com/album/1jyjlTXKLKlZ2WGAbmqQGG) | 3:07 | 2024-06-07 | 2024-07-06 |
 | [New York](https://open.spotify.com/track/0hYdZ4x8b3bEbc9Bpn2pQh) | [Crybabyamy](https://open.spotify.com/artist/6dHqmYlpk4oGwRwSxGmc6e) | [New York](https://open.spotify.com/album/7bzdQyFdF4kjk6KgjD9R6W) | 2:46 | 2025-05-01 | 2025-06-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,043,104 likes - 170 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,043,362 likes - 170 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 62 | [Cherished](https://open.spotify.com/track/0FlUS5nOWAuv1X4pEOG4kw) | [Stillgarden](https://open.spotify.com/artist/6NKUqC8TcyhtHenPgTRTvt) | [Cherished](https://open.spotify.com/album/3C1vQcBUMpohPkGIjWTlZ4) | 2:37 |
 | 63 | [Cloud Jumping](https://open.spotify.com/track/00bauDnMAMynuMfOA9nGiq) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Cloud Jumping](https://open.spotify.com/album/3uNISiwQRief8WXrJt4qXd) | 3:11 |
 | 64 | [Energy Flow](https://open.spotify.com/track/40h00jcXu8OP6xdoyh2ocf) | [Celestros](https://open.spotify.com/artist/67aZiwEIyJelBQiBjcvZ6V) | [Energy Flow](https://open.spotify.com/album/7lUZbR3ktavR7OQOktECGO) | 2:34 |
-| 65 | [Mirach Dreams](https://open.spotify.com/track/5umpsNomhsOB2T9a0b2OCP) | [Endless Space](https://open.spotify.com/artist/7HHVt02XZTOf0FQ6YhZtG5) | [Mirach Dreams](https://open.spotify.com/album/6FaeqpfJfrut5YAf3vZImm) | 3:10 |
+| 65 | [Mirach Dreams](https://open.spotify.com/track/5umpsNomhsOB2T9a0b2OCP) | [Endless Space](https://open.spotify.com/artist/4SnAG3DMYmxqUwelTO2Y5A) | [Mirach Dreams](https://open.spotify.com/album/6FaeqpfJfrut5YAf3vZImm) | 3:10 |
 | 66 | [Nirodha](https://open.spotify.com/track/7fXQ7GgVHQqXKuJpN5M4Bv) | [Suevite](https://open.spotify.com/artist/2aiIFnAcGlUnGaWCZfirBp) | [Nirodha](https://open.spotify.com/album/5BijvuN75sGoV4wio1iKGa) | 2:46 |
 | 67 | [Clear Sky](https://open.spotify.com/track/4k5oOvK8WX8P2JGYycYBgV) | [Tristan Axvall](https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1) | [Clear Sky](https://open.spotify.com/album/3wW4kOfb8zOKHkRmC4iddj) | 2:38 |
 | 68 | [Floating, Flying](https://open.spotify.com/track/30UGQxzuYRKOziYOLFbYUY) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Floating, Flying](https://open.spotify.com/album/16qRN4iUK8DJVO9A9juBlV) | 3:36 |

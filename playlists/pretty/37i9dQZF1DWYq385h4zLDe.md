@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYq385h4zLDe.md) - [plain]
 
 > It’s a call from the ancestors\. Listen to new music from Moana 2, now streaming on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,894 likes - 84 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,944 likes - 84 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Beyond \(End Credit Version\) \- From "Moana 2"](https://open.spotify.com/track/3fzqWttckvSJS7KPGPiWAg) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Beyond \(End Credit Version\) \[From "Moana 2"\]](https://open.spotify.com/album/6uCyNThgUieE9elUSd4SuP) | 3:16 |
-| 2 | [We're Back](https://open.spotify.com/track/7rzMGJGXXkuw2IbyHqdZlp) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Villagers of Motunui](https://open.spotify.com/artist/5IxJyEUqhBte1rRbViGjNm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YhhgjB9TychuTpq3vsN9y) | 3:11 |
+| 2 | [We're Back](https://open.spotify.com/track/7rzMGJGXXkuw2IbyHqdZlp) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Villagers of Motunui](https://open.spotify.com/artist/5IxJyEUqhBte1rRbViGjNm), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YhhgjB9TychuTpq3vsN9y) | 3:11 |
 | 3 | [Can I Get A Chee Hoo?](https://open.spotify.com/track/09002VzEaxqBuwzdY2KQv2) | [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YhhgjB9TychuTpq3vsN9y) | 2:49 |
 | 4 | [Tulou Tagaloa \(Sei e Va'ai Mai\)](https://open.spotify.com/track/0CAHRA1Lzk6zq5Vfetyjxh) | [Olivia Foa'i](https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YhhgjB9TychuTpq3vsN9y) | 1:07 |
 | 5 | [Beyond](https://open.spotify.com/track/28NuQOBWZGX9jG647T6vWV) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Rachel House](https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU) | [Moana 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YhhgjB9TychuTpq3vsN9y) | 3:50 |

@@ -2894,7 +2894,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 159709,
       "name": "Hoogtevrees",
       "url": "https://open.spotify.com/track/7G5Wad9RvRKetR3icB6SOD"
@@ -4664,7 +4664,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 173816,
       "name": "narcose",
       "url": "https://open.spotify.com/track/2im7VTECz19mDtYI5NkVg6"
@@ -7063,6 +7063,36 @@
     },
     {
       "album": {
+        "name": "Wereldwonder",
+        "url": "https://open.spotify.com/album/3rmTpJlbHeChLSFdItMpY7"
+      },
+      "artists": [
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        },
+        {
+          "name": "Poke",
+          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
+        },
+        {
+          "name": "John West",
+          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151714,
+      "name": "Wereldwonder",
+      "url": "https://open.spotify.com/track/4NZ15Gn3KJrmflE8jwiMBU"
+    },
+    {
+      "album": {
         "name": "What Are You Waiting For?",
         "url": "https://open.spotify.com/album/1BTeZsZoB5PK480kmZew8t"
       },
@@ -7194,6 +7224,32 @@
       "duration_ms": 203229,
       "name": "Zachte Landing",
       "url": "https://open.spotify.com/track/5J9BrWf45n2uTcGcrrwcQ3"
+    },
+    {
+      "album": {
+        "name": "Ze Komt Uit Amsterdam",
+        "url": "https://open.spotify.com/album/5YXzV37JGcqHOMlg3SFM1F"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Andr\u00e9 Hazes Jr.",
+          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
+        },
+        {
+          "name": "Tabitha",
+          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Ze Komt Uit Amsterdam",
+      "url": "https://open.spotify.com/track/3JzuluW7MzrmMkNpfZwtyp"
     },
     {
       "album": {

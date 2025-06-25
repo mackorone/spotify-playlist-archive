@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: \ubc15\ucc2c\uc601) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
+  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: \uc9c0\uc724\ud574) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
   "name": "K-Folk/Acoustic",
   "tracks": [
     {
@@ -3368,7 +3368,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 181087,
       "name": "home town",
       "url": "https://open.spotify.com/track/0UM7QmLlgoMOgwohLPtXbB"
@@ -4452,7 +4452,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "It\u2032s You",
       "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
@@ -7324,7 +7324,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 294869,
       "name": "Slowly, I Fall For you",
       "url": "https://open.spotify.com/track/3othkA3vUpgOBeOyQ7i97z"
@@ -8043,6 +8043,24 @@
     },
     {
       "album": {
+        "name": "summer youth",
+        "url": "https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB"
+      },
+      "artists": [
+        {
+          "name": "Baek A",
+          "url": "https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217026,
+      "name": "summer youth",
+      "url": "https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa"
+    },
+    {
+      "album": {
         "name": "summerless",
         "url": "https://open.spotify.com/album/15UTXE6WIeQZsKt1qJALsL"
       },
@@ -8054,7 +8072,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 186155,
       "name": "summerless",
       "url": "https://open.spotify.com/track/5mK4gz7F6zRv0cJP4HlWRl"
@@ -8708,6 +8726,24 @@
       "duration_ms": 226825,
       "name": "Time\u2019s Up",
       "url": "https://open.spotify.com/track/68OeJN8El9Yc5EOmVP9MFa"
+    },
+    {
+      "album": {
+        "name": "tinker-ton",
+        "url": "https://open.spotify.com/album/2avC99Nl5Mg0BvJwn6mYgZ"
+      },
+      "artists": [
+        {
+          "name": "Woo Ye Rin",
+          "url": "https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207013,
+      "name": "tinker-ton",
+      "url": "https://open.spotify.com/track/40eL9mTzbnH0LAdBdygzra"
     },
     {
       "album": {

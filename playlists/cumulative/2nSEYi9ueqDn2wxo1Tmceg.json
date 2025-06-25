@@ -3401,6 +3401,28 @@
     },
     {
       "album": {
+        "name": "Build It Up / Hooked Live",
+        "url": "https://open.spotify.com/album/2MBfpe4qX08Q6bv0xhAVnO"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        },
+        {
+          "name": "Johnny Marr",
+          "url": "https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182756,
+      "name": "Build It Up",
+      "url": "https://open.spotify.com/track/7nWXlyjVnkmpMPNEatNtuc"
+    },
+    {
+      "album": {
         "name": "Building 650",
         "url": "https://open.spotify.com/album/1H58kI6UqlnmxQTS5rmBSK"
       },

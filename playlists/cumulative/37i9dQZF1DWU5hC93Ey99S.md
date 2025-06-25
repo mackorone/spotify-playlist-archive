@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-873 songs - 1 day 22 hr 26 min
+874 songs - 1 day 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Believe In Myself](https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Believe In Myself](https://open.spotify.com/album/5ngmMrPiCbLRleKZXj3zqV) | 3:41 | 2023-11-23 |  |
 | [Believe It \- Babsy\. Remix](https://open.spotify.com/track/7GxDAsr8db1c9ab21m92Uj) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Believe It \(feat\. Madeon\) \[Babsy\. Remix\]](https://open.spotify.com/album/6ZpIPRFdSTrEfJRajnQExy) | 2:10 | 2024-11-07 |  |
 | [Beside Me](https://open.spotify.com/track/0CxBI3tA8ZOUYTS0pPX45g) | [Jend](https://open.spotify.com/artist/56WlN4e9YbaEI8KdXaFgTN) | [Beside Me](https://open.spotify.com/album/7muAHpfi1dzcITcDKnjdAc) | 2:20 | 2023-06-08 | 2024-01-06 |
+| [Beside Of Me](https://open.spotify.com/track/58o0HSUXC0oHTU7UvhyWuI) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Beside Of Me](https://open.spotify.com/album/2e03J5UadYijtdrdEfBLFL) | 3:27 | 2025-06-24 |  |
 | [Best Time](https://open.spotify.com/track/1VV6FPTNAj2G8c60lpOCcP) | [AV AV AV](https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM) | [Best Time](https://open.spotify.com/album/5RGfCAYmNeON0h8B2lXNPB) | 3:15 | 2024-09-19 |  |
 | [Better](https://open.spotify.com/track/6gD10TawLGxl9PCIwRMsNt) | [Iaco](https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg), [Gali](https://open.spotify.com/artist/5fi0rOMvvx3YGwpkOfkPWm) | [Better](https://open.spotify.com/album/4VbUhn1TOBMlIqq5hgSdZx) | 2:36 | 2024-09-26 |  |
 | [Better](https://open.spotify.com/track/1cw4mrBVhHbYzLzzKXOUxb) | [Lavish](https://open.spotify.com/artist/2FyuJ5Gi4pbwZz2PzHcfmf) | [Better](https://open.spotify.com/album/5O8u0rEbfov9YKgTh5Khay) | 4:46 | 2024-01-18 |  |

@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Atomic",
+        "url": "https://open.spotify.com/album/7GIYvXj0WMNJ73Nvim7yVt"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229800,
+      "name": "Atomic",
+      "url": "https://open.spotify.com/track/1agoWz2axt0R9alvenDXB0"
+    },
+    {
+      "album": {
         "name": "Atomic/Atomix",
         "url": "https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6"
       },
@@ -124,7 +142,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 230156,
       "name": "Atomic",
       "url": "https://open.spotify.com/track/1hO5PM8f3DwiDRkM57cG1b"

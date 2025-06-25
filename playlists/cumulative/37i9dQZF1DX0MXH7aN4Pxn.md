@@ -4,7 +4,7 @@
 
 > 
 
-578 songs - 1 day 5 hr 35 min
+579 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Everything You Wanna](https://open.spotify.com/track/099isUDP1vIEB7AFop99kk) | [DITVAK](https://open.spotify.com/artist/3DsKm3aOWYCjlSWONxnnOX), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ), [VILNYY](https://open.spotify.com/artist/3YnO6a9t47vgLsT8NAWjkz) | [Everything You Wanna](https://open.spotify.com/album/4KjRZ9PbLHaWXO09gQTW7V) | 2:25 | 2024-01-12 | 2024-01-18 |
 | [Everything You Wanna](https://open.spotify.com/track/7rz5D1KAVtQ9Qd41Hh3h3U) | [DITVAK](https://open.spotify.com/artist/3DsKm3aOWYCjlSWONxnnOX), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ), [VILNYY](https://open.spotify.com/artist/3YnO6a9t47vgLsT8NAWjkz) | [Everything You Wanna](https://open.spotify.com/album/38ZybSRMfeYgQmUxHrIV6J) | 2:25 | 2022-04-15 | 2022-07-02 |
 | [Excuses](https://open.spotify.com/track/2gvIIpYdM9x1rdekmQMXCL) | [MENTIS](https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Excuses](https://open.spotify.com/album/5IgB6Fk5htrX4vQAcmw4ga) | 2:52 | 2022-04-15 | 2023-11-10 |
+| [eye2eye](https://open.spotify.com/track/4MvAYkzdJjzZnmmgTBXeai) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [eye2eye](https://open.spotify.com/album/5cdNLvhFw398LMAmuL4uyg) | 3:15 | 2025-06-12 |  |
 | [Eyes](https://open.spotify.com/track/0Zx3np2HJ3He2QJS0wG9Ex) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Eyes](https://open.spotify.com/album/5n40WLofQwmG7dsgewDyzR) | 2:47 | 2024-09-19 | 2024-12-08 |
 | [Fair](https://open.spotify.com/track/7f9fJAUu3EXbzzOmZA4QRC) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Betsy](https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp) | [Fair](https://open.spotify.com/album/0IbbybOy5vCGIbRHf8yHRO) | 3:28 | 2024-07-13 |  |
 | [Faith](https://open.spotify.com/track/6pvWQ658tA5tXa07TGAb0i) | [Jamie Unknown](https://open.spotify.com/artist/36R06i2wVdVfHNfyyGtrzF) | [Faith](https://open.spotify.com/album/1fWvjg33oklUf7Y9qzhpJp) | 3:35 | 2023-09-08 | 2023-11-23 |
@@ -446,7 +447,7 @@
 | [Riverside MF](https://open.spotify.com/track/3ptLW4fzupzNrzbO7Hneam) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g), [PAJANE](https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q) | [Riverside MF](https://open.spotify.com/album/7AD6baGevfjYSyirJ1inGZ) | 2:35 | 2024-02-23 | 2024-05-17 |
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 | 2022-06-20 | 2023-09-08 |
 | [Run To You](https://open.spotify.com/track/7xxCKRR8IV1Qm7MeqqCrBv) | [Sam Bird](https://open.spotify.com/artist/797a8TrmcDlhNiozB7pm8N), [Papa Zeus](https://open.spotify.com/artist/34Q1USAO0pv4gNxcnOKNav) | [Run To You](https://open.spotify.com/album/0OP42FZbU1WY9mZuNZlerB) | 2:59 | 2022-04-15 | 2022-07-29 |
-| [Runnin'](https://open.spotify.com/track/1PcJZFKTbgVjIozoJufyJy) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI), [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [Runnin'](https://open.spotify.com/album/3sXeRvShh6kRd8E61X5icn) | 3:09 | 2025-03-28 |  |
+| [Runnin'](https://open.spotify.com/track/1PcJZFKTbgVjIozoJufyJy) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI), [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [Runnin'](https://open.spotify.com/album/3sXeRvShh6kRd8E61X5icn) | 3:09 | 2025-03-28 | 2025-06-25 |
 | [Running Around](https://open.spotify.com/track/4cJXHfk3oZ7hX2MgVMsTNC) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6ix5Z3jcKpO5l6FExztvuc) | 2:04 | 2025-03-14 |  |
 | [Sad Songs \(feat\. L Devine\)](https://open.spotify.com/track/3JsmrruMp8AWcbEZ4342JY) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Sad Songs \(feat\. L Devine\)](https://open.spotify.com/album/1WvYz2Mzs8j8cAFmSynXX5) | 3:11 | 2022-04-15 | 2022-08-14 |
 | [Satellite](https://open.spotify.com/track/3tHCG0ISOA0pXscIdNrJml) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Satellite](https://open.spotify.com/album/07VhUtgyRdGGmMeo5lN5CW) | 3:25 | 2024-04-19 | 2025-06-13 |

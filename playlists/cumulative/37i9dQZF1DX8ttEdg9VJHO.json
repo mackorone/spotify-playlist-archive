@@ -955,6 +955,24 @@
     },
     {
       "album": {
+        "name": "Hail Mary",
+        "url": "https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn"
+    },
+    {
+      "album": {
         "name": "Happy Tears",
         "url": "https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf"
       },
@@ -1734,7 +1752,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 214239,
       "name": "Nur die Musik",
       "url": "https://open.spotify.com/track/4zbjLM7jut3CaojmphTOdG"

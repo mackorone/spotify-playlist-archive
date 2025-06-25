@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rahul Dit\-O
 
-517 songs - 1 day 5 hr 2 min
+518 songs - 1 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [FREE STYLE](https://open.spotify.com/track/4niYNBF9Y0L39KRtEEtjTg) | [It's me plk](https://open.spotify.com/artist/5MzgfdVaUb1uux2LZBahP3) | [FREE STYLE](https://open.spotify.com/album/6zPG6hSKKscA8n7EdDi5JF) | 1:15 | 2024-02-14 | 2024-02-20 |
 | [Freedom](https://open.spotify.com/track/09ECyJMbdmo1i1Lq7yxArW) | [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5), [Eshani](https://open.spotify.com/artist/4CQMCs1zM49VQiI6Og0VWg) | [Freedom](https://open.spotify.com/album/4iUJ0WsPHxFt71g5oMpSlQ) | 3:05 | 2023-07-28 | 2024-02-09 |
 | [Full Charge](https://open.spotify.com/track/3uArz7gKhSuwSkTzFUlKBo) | [H18](https://open.spotify.com/artist/1Eh2sOlDATyNUt19twP1x3) | [Full Charge](https://open.spotify.com/album/6beHIG9uQMKnBduxEM9kO1) | 2:26 | 2024-01-31 | 2024-02-17 |
+| [Gaanji](https://open.spotify.com/track/0nTl1C6WCW2yv5P2G8eK87) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk) | [Gaanji](https://open.spotify.com/album/2GClnG0LY6hIqv3CmLMznO) | 2:27 | 2025-06-24 |  |
 | [Gadda](https://open.spotify.com/track/5NMcqtJ4MKHpFsHIvgWs7p) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [Chikkesh Hamsabhimani](https://open.spotify.com/artist/4UT07rarVsghjWlBzj7iU9) | [Gadda](https://open.spotify.com/album/5HeVSXTlmUq9Rw8BuOZiGv) | 4:32 | 2023-02-13 | 2023-09-01 |
 | [Gangster](https://open.spotify.com/track/7tE7nbWLxB5RoEEeObzYok) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Gangster](https://open.spotify.com/album/5zlEYofw1IqVKhcaMvp7tT) | 2:39 | 2025-03-04 |  |
 | [Geejaga Hakki](https://open.spotify.com/track/1u6vTH5nUSKaSTPJZJC81s) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Charan Raj](https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi), [Prassanna Hegde](https://open.spotify.com/artist/0GXTpJPW41OHk5rTZCRDDy) | [Geejaga Hakki](https://open.spotify.com/album/330gRfCGukj4u4WpucNpP4) | 3:25 | 2023-06-08 | 2023-07-22 |
@@ -368,7 +369,7 @@
 | [Never Ever Follow The Girl](https://open.spotify.com/track/7Idjqfzp8LRN0EbX3HxK2E) | [Style King Kumar](https://open.spotify.com/artist/2cpe8d5uD4KkfPA4mJ7uFY) | [Never Ever Follow The Girl](https://open.spotify.com/album/6T1XrCJFma60INvzYDEubT) | 3:14 | 2023-02-17 | 2023-06-08 |
 | [Never Love Again](https://open.spotify.com/track/1B8McCxEmyLM7Xv64zx0Qc) | [Aryamanu Baloji](https://open.spotify.com/artist/2Udj46YBjkjfds4hjRLMcp), [Shubhangini](https://open.spotify.com/artist/08XZ4vBBklbpgX2tvDbN9Q) | [Never Love Again](https://open.spotify.com/album/2rNtWzYqaHhzUiNpngNEz6) | 3:41 | 2023-10-25 | 2024-06-26 |
 | [Never Stop](https://open.spotify.com/track/50n0fBqMzFSirqd0ohbO7s) | [MC DILIP](https://open.spotify.com/artist/1BVzEsmuO2qJm8rRisIKOy), [Nandan V R](https://open.spotify.com/artist/7L27ObjW3EkD2VXQcPWL7a) | [Never Stop](https://open.spotify.com/album/26rK8IlCY5eF9JKB8RUyIV) | 2:02 | 2023-01-12 | 2023-08-19 |
-| [New Year Party](https://open.spotify.com/track/0CLeumt8dQq1FA7oZjnwet) | [Lokesh](https://open.spotify.com/artist/1pt6sORY72y0gAnBQTCU67), [Sagar](https://open.spotify.com/artist/4uABnNRBR5deOEFP4L9pbV) | [New Year Party](https://open.spotify.com/album/5lPHdXPoERuYwERbxwg7YV) | 3:22 | 2025-01-31 |  |
+| [New Year Party](https://open.spotify.com/track/0CLeumt8dQq1FA7oZjnwet) | [Lokesh](https://open.spotify.com/artist/1pt6sORY72y0gAnBQTCU67), [Sagar](https://open.spotify.com/artist/4uABnNRBR5deOEFP4L9pbV) | [New Year Party](https://open.spotify.com/album/5lPHdXPoERuYwERbxwg7YV) | 3:22 | 2025-01-31 | 2025-06-25 |
 | [Nilla Byada Sarada](https://open.spotify.com/track/7f0ztwwJq1fj1cfaNb5bJz) | [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx) | [Nilla Byada Sarada](https://open.spotify.com/album/4jIzN5BGkHqsn3ZQd1YG9w) | 6:42 | 2025-03-17 |  |
 | [Nillabeda](https://open.spotify.com/track/7qVi80lroccYuNZc6KVDPR) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk) | [Nillabeda](https://open.spotify.com/album/4B9MrDD7PSJPcaniCbUPce) | 3:39 | 2024-11-05 | 2025-04-08 |
 | [Nilladu Ninna Kanasugalu](https://open.spotify.com/track/0qUFTz8zMhY4s1tVlfIrH2) | [Gayathri Prabhu](https://open.spotify.com/artist/1aW8ffhA2JA3XL6er86jJa), [Kiran Manjunath](https://open.spotify.com/artist/0aeYsI55Nh78rT5xnI5Pxz) | [Nilladu Ninna Kanasugalu](https://open.spotify.com/album/2BaYQQfhXTzkqv7lVVoM1E) | 4:26 | 2024-08-12 | 2025-03-12 |

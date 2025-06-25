@@ -1,83 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Latvia.",
-  "num_followers": 15192,
+  "num_followers": 15190,
   "original_name": "Top 50 - Latvia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L+zFeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L+4W+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "Ra\u0137e\u0161u Zin\u0101tne",
-        "url": "https://open.spotify.com/album/612UnblsUD7GRWTbLlPwlU"
-      },
-      "artists": [
-        {
-          "name": "Fi\u0146\u0137is",
-          "url": "https://open.spotify.com/artist/6jAmGa0ssb0T7yCsDCvMvk"
-        },
-        {
-          "name": "Patrisha",
-          "url": "https://open.spotify.com/artist/7shMk1uQMXeODDEGmbC8IL"
-        }
-      ],
-      "duration_ms": 206315,
-      "name": "Ra\u0137e\u0161u Zin\u0101tne",
-      "url": "https://open.spotify.com/track/3IZUwm8nYtVN6zqw9fa9W4"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "T\u0101 bija, t\u0101 b\u016bs...",
-        "url": "https://open.spotify.com/album/5wsaUsUtmg5MdQtTHo5iV0"
-      },
-      "artists": [
-        {
-          "name": "Apvedce\u013c\u0161",
-          "url": "https://open.spotify.com/artist/3i3ntBQKUAXTxBj3yEVNsl"
-        }
-      ],
-      "duration_ms": 224068,
-      "name": "Zemenes",
-      "url": "https://open.spotify.com/track/5qSCOV54U5CItn2gEb4Ek1"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
+      "added_at": "2025-06-24 13:06:33",
       "album": {
         "name": "Dziesmu kr\u016bze #1",
         "url": "https://open.spotify.com/album/1EeRZ9rQCFIU4UIbw5xRLQ"
@@ -93,283 +25,23 @@
       "url": "https://open.spotify.com/track/1XIIlQJN0acfB45WvtWhTL"
     },
     {
-      "added_at": "2025-06-23 13:10:32",
+      "added_at": "2025-06-24 13:06:33",
       "album": {
-        "name": "LUKSUS STONKS",
-        "url": "https://open.spotify.com/album/3whiYXcPJw7mjnTM9mR9NV"
+        "name": "T\u0101 bija, t\u0101 b\u016bs...",
+        "url": "https://open.spotify.com/album/5wsaUsUtmg5MdQtTHo5iV0"
       },
       "artists": [
-        {
-          "name": "Singap\u016bras Sat\u012bns",
-          "url": "https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb"
-        },
-        {
-          "name": "A-Europa",
-          "url": "https://open.spotify.com/artist/4Oa84NTjAiJwpRMRMnMqlY"
-        }
-      ],
-      "duration_ms": 204255,
-      "name": "Uz Seen",
-      "url": "https://open.spotify.com/track/3HsWEpUnpzEITFJnbTyLTM"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "M\u016bsu m\u012blest\u012bba",
-        "url": "https://open.spotify.com/album/6DLgyEpL17lDoKdLyUpjHN"
-      },
-      "artists": [
-        {
-          "name": "Sudden Lights",
-          "url": "https://open.spotify.com/artist/3hUQbGcka7Ta13TPySOZ0O"
-        }
-      ],
-      "duration_ms": 271067,
-      "name": "M\u016bsu m\u012blest\u012bba",
-      "url": "https://open.spotify.com/track/0OkU8xnHpHmbfrgdJa0NFs"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 268840,
-      "name": "Rock That Body",
-      "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "N\u0101rnija",
-        "url": "https://open.spotify.com/album/6I8CTB1bo3lJ1ZW4FLnBsC"
-      },
-      "artists": [
-        {
-          "name": "OLAS",
-          "url": "https://open.spotify.com/artist/4qvH4YJ2ESxPSJ2sLMHxM5"
-        },
-        {
-          "name": "Esmeralda",
-          "url": "https://open.spotify.com/artist/2cPtOqq7n3pjJF1XGiKM4I"
-        },
-        {
-          "name": "heywhosthatkid",
-          "url": "https://open.spotify.com/artist/3SxmEaVKj3dXh5HsMzOQ8g"
-        }
-      ],
-      "duration_ms": 169680,
-      "name": "N\u0101rnija",
-      "url": "https://open.spotify.com/track/6tbEF9YpayX9uqAA5ezx1j"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "undressed",
-        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "Vasaras V\u012bns",
-        "url": "https://open.spotify.com/album/7LqkIDP8AEbJsyy8auNzVc"
-      },
-      "artists": [
-        {
-          "name": "\u017dor\u017es Siksna",
-          "url": "https://open.spotify.com/artist/75tMZ7m95gXjJGRehUm5O1"
-        }
-      ],
-      "duration_ms": 245733,
-      "name": "\u0122enoveva",
-      "url": "https://open.spotify.com/track/4ZZb9HmlvxqjTQXgCEuwGz"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "Garast\u0101voklis",
-        "url": "https://open.spotify.com/album/5zWwuV71CPoMDL7S9w86KN"
-      },
-      "artists": [
-        {
-          "name": "Jauns M\u0113ness",
-          "url": "https://open.spotify.com/artist/7GIvsDVOV1bjghuisC9opx"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Ai, jel manu vieglu pr\u0101tu",
-      "url": "https://open.spotify.com/track/59MD2NDaTT0ZvOELrOCthn"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "Ku\u0161 Ku\u0161",
-        "url": "https://open.spotify.com/album/7p5bYPbqjGSlwnrJ5B977h"
-      },
-      "artists": [
-        {
-          "name": "Astro'n'out",
-          "url": "https://open.spotify.com/artist/6EsCOzWimM6d3bNd7EXmYW"
-        }
-      ],
-      "duration_ms": 242720,
-      "name": "Da\u013ca R\u012bgas",
-      "url": "https://open.spotify.com/track/6oVyceHNCHCuZlRXXJ1HBY"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "Dien\u0101s, kad lidlauks p\u0101r\u0101k t\u0101ls",
-        "url": "https://open.spotify.com/album/2AihyMZ2N6D9cUJQFgAk2u"
-      },
-      "artists": [
-        {
-          "name": "Pr\u0101ta V\u0113tra",
-          "url": "https://open.spotify.com/artist/52SusfPq6EW5PgrjUqMHSy"
-        }
-      ],
-      "duration_ms": 219986,
-      "name": "Plaukstas lieluma pavasaris",
-      "url": "https://open.spotify.com/track/7qIV9g3fbu56fkEUg6nIAH"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "Vid\u0113ji Gl\u012bts",
-        "url": "https://open.spotify.com/album/16QeEKcXdEb3uzKVZ91drK"
-      },
-      "artists": [
-        {
-          "name": "Bermudu Divst\u016bris",
-          "url": "https://open.spotify.com/artist/7hkFOXZNtMKGG8QXTRSQcT"
-        },
         {
           "name": "Apvedce\u013c\u0161",
           "url": "https://open.spotify.com/artist/3i3ntBQKUAXTxBj3yEVNsl"
         }
       ],
-      "duration_ms": 173217,
-      "name": "Br\u0101l' Ar Dz\u012bvi Nekaul\u0113",
-      "url": "https://open.spotify.com/track/6IHo6KA0JW6FEHT0hdkx7s"
+      "duration_ms": 224068,
+      "name": "Zemenes",
+      "url": "https://open.spotify.com/track/5qSCOV54U5CItn2gEb4Ek1"
     },
     {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "Ne Jau Atkal",
-        "url": "https://open.spotify.com/album/6wuiCkzj5FtKNK0JvQDHc0"
-      },
-      "artists": [
-        {
-          "name": "Singap\u016bras Sat\u012bns",
-          "url": "https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb"
-        },
-        {
-          "name": "Horens Stalbe",
-          "url": "https://open.spotify.com/artist/1el9n4RafRlBufvBxyRYYR"
-        }
-      ],
-      "duration_ms": 260348,
-      "name": "Piededzini Mann",
-      "url": "https://open.spotify.com/track/0q3QoeqUKLIiHz7d43nvGb"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "Naivais ku-k\u016b",
-        "url": "https://open.spotify.com/album/6w1cpF3yXl10K3m44gwu16"
-      },
-      "artists": [
-        {
-          "name": "Carnival Youth",
-          "url": "https://open.spotify.com/artist/1OZcpETfzoPuEHJN5Y9qUc"
-        }
-      ],
-      "duration_ms": 234736,
-      "name": "Dzeguzes balss",
-      "url": "https://open.spotify.com/track/1I3qG35qZPrO7soaQ1OiGO"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "Tavs st\u0101sts",
-        "url": "https://open.spotify.com/album/7sP7yiBxFhir4L6MSWTncR"
-      },
-      "artists": [
-        {
-          "name": "The Sound Poets",
-          "url": "https://open.spotify.com/artist/1PMOOPtmiOf4TQqEixoagE"
-        }
-      ],
-      "duration_ms": 229359,
-      "name": "Kalniem p\u0101ri",
-      "url": "https://open.spotify.com/track/3hgSqoZLV1dAkE1x8W7LsU"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "80-tie Vol.1",
-        "url": "https://open.spotify.com/album/69pSCn9oKB2Y5jWhzAkbW4"
-      },
-      "artists": [
-        {
-          "name": "Ferrum",
-          "url": "https://open.spotify.com/artist/32eyFLD9oPqVqr3CDlThRS"
-        }
-      ],
-      "duration_ms": 222706,
-      "name": "Dz\u0113rven\u012bte",
-      "url": "https://open.spotify.com/track/3Yypq95ytj4GWQPR6nQfuE"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
+      "added_at": "2025-06-24 13:06:33",
       "album": {
         "name": "L\u012bgo dziesmas jaun\u0101s ska\u0146\u0101s 6",
         "url": "https://open.spotify.com/album/3hwJGvOgkMLggia32EP2wZ"
@@ -385,7 +57,71 @@
       "url": "https://open.spotify.com/track/7ljllL5bpQWsclzxRuiQIz"
     },
     {
-      "added_at": "2025-06-23 13:10:32",
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Garast\u0101voklis",
+        "url": "https://open.spotify.com/album/5zWwuV71CPoMDL7S9w86KN"
+      },
+      "artists": [
+        {
+          "name": "Jauns M\u0113ness",
+          "url": "https://open.spotify.com/artist/7GIvsDVOV1bjghuisC9opx"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Ai, jel manu vieglu pr\u0101tu",
+      "url": "https://open.spotify.com/track/59MD2NDaTT0ZvOELrOCthn"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "80-tie Vol.1",
+        "url": "https://open.spotify.com/album/69pSCn9oKB2Y5jWhzAkbW4"
+      },
+      "artists": [
+        {
+          "name": "Ferrum",
+          "url": "https://open.spotify.com/artist/32eyFLD9oPqVqr3CDlThRS"
+        }
+      ],
+      "duration_ms": 222706,
+      "name": "Dz\u0113rven\u012bte",
+      "url": "https://open.spotify.com/track/3Yypq95ytj4GWQPR6nQfuE"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Nauk\u0161\u0113nu Disko",
+        "url": "https://open.spotify.com/album/47Glqmc2RE0i2qZmk9zOXm"
+      },
+      "artists": [
+        {
+          "name": "Labv\u0113l\u012bgais Tips",
+          "url": "https://open.spotify.com/artist/6lCjsH7dRjXIbYHdRJHAc1"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "M\u016bsu Limuz\u012bns",
+      "url": "https://open.spotify.com/track/3NCyLyOfyNXFweZkCkjSjD"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Vasaras V\u012bns",
+        "url": "https://open.spotify.com/album/7LqkIDP8AEbJsyy8auNzVc"
+      },
+      "artists": [
+        {
+          "name": "\u017dor\u017es Siksna",
+          "url": "https://open.spotify.com/artist/75tMZ7m95gXjJGRehUm5O1"
+        }
+      ],
+      "duration_ms": 245733,
+      "name": "\u0122enoveva",
+      "url": "https://open.spotify.com/track/4ZZb9HmlvxqjTQXgCEuwGz"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
       "album": {
         "name": "In memoriam",
         "url": "https://open.spotify.com/album/2vbzBTo5OrdZPgd9f7BGAd"
@@ -401,323 +137,7 @@
       "url": "https://open.spotify.com/track/4vTziyx3Va1x0DgXuOp4NA"
     },
     {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "The Days (NOTION Remix)",
-        "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
-      },
-      "artists": [
-        {
-          "name": "Chrystal",
-          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
-        },
-        {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
-        }
-      ],
-      "duration_ms": 233229,
-      "name": "The Days - NOTION Remix",
-      "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "In memoriam",
-        "url": "https://open.spotify.com/album/2vbzBTo5OrdZPgd9f7BGAd"
-      },
-      "artists": [
-        {
-          "name": "Menuets",
-          "url": "https://open.spotify.com/artist/0h1p71bc1FlcECoZPbKNXf"
-        }
-      ],
-      "duration_ms": 160266,
-      "name": "Alvas zald\u0101ti\u0146i",
-      "url": "https://open.spotify.com/track/6Cuz6JPlLILA0vpzsXPK7y"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "suburban daredevil",
-        "url": "https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK"
-      },
-      "artists": [
-        {
-          "name": "wifiskeleton",
-          "url": "https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62"
-        },
-        {
-          "name": "i wanna be a jack-o-lantern",
-          "url": "https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg"
-        }
-      ],
-      "duration_ms": 90067,
-      "name": "Nope your too late i already died",
-      "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "\u0136\u0113ni\u0146u",
-        "url": "https://open.spotify.com/album/299fww4qd1kVrkpOmuH57Z"
-      },
-      "artists": [
-        {
-          "name": "Sudrabu Sirds",
-          "url": "https://open.spotify.com/artist/5IxWv5qXFhkzRt91O4i6gU"
-        }
-      ],
-      "duration_ms": 264545,
-      "name": "V\u0113lvienreiz",
-      "url": "https://open.spotify.com/track/5DzO7UTlmA6O6J0GLsTxGy"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "Walking On A Dream (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 267373,
-      "name": "We Are The People",
-      "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 207347,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "Espresso Macchiato",
-        "url": "https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns"
-      },
-      "artists": [
-        {
-          "name": "Tommy Cash",
-          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
-        }
-      ],
-      "duration_ms": 173746,
-      "name": "Espresso Macchiato",
-      "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "Labu Vakar - Klus\u0101 Daba Ar Perspekt\u012bvu",
-        "url": "https://open.spotify.com/album/4ynyqPXGKQEgUhYKTeYgNu"
-      },
-      "artists": [
-        {
-          "name": "P\u0113rkons",
-          "url": "https://open.spotify.com/artist/0vr0zXChKgWdimahgBF8U4"
-        }
-      ],
-      "duration_ms": 281200,
-      "name": "Gandr\u012bz Tautasdziesma",
-      "url": "https://open.spotify.com/track/3OWgntwKHNoilNy4FvHvsj"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "Tas Ir Igo 1981-1997 Vol.2",
-        "url": "https://open.spotify.com/album/4PxXXSNL0tGyMFbEVyvB9o"
-      },
-      "artists": [
-        {
-          "name": "IGO",
-          "url": "https://open.spotify.com/artist/4icoz2e4mkyQaZbGH4cjwy"
-        }
-      ],
-      "duration_ms": 282506,
-      "name": "Tikai T\u0101",
-      "url": "https://open.spotify.com/track/62OgS4p4gVDjUqXX3iljNd"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "Ir Kl\u0101t",
-        "url": "https://open.spotify.com/album/1mI2V8uZOGrMeoUS4JQnj5"
-      },
-      "artists": [
-        {
-          "name": "OLAS",
-          "url": "https://open.spotify.com/artist/4qvH4YJ2ESxPSJ2sLMHxM5"
-        },
-        {
-          "name": "J\u0101nis Kr\u016bmi\u0146\u0161",
-          "url": "https://open.spotify.com/artist/5vZYVk3rDHwmsoTvTeDRxS"
-        }
-      ],
-      "duration_ms": 206032,
-      "name": "P\u0101ri Oke\u0101nam (feat. J\u0101nis Kr\u016bmi\u0146\u0161)",
-      "url": "https://open.spotify.com/track/57sTCFCVOHwG2hsXWUYv6l"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "\u041b\u0435\u0442\u043e \u0431\u0435\u0437 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442\u0430",
-        "url": "https://open.spotify.com/album/6U7G5Tcpv7jCDJGsfFD2aL"
-      },
-      "artists": [
-        {
-          "name": "Carnival Youth",
-          "url": "https://open.spotify.com/artist/1OZcpETfzoPuEHJN5Y9qUc"
-        }
-      ],
-      "duration_ms": 186825,
-      "name": "Vasara bez internetiem",
-      "url": "https://open.spotify.com/track/3maYYnfz7XjjUvI9uwWLVv"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "Fianchetto",
-        "url": "https://open.spotify.com/album/2ReJznpAYwe5dbIj2j7ncM"
-      },
-      "artists": [
-        {
-          "name": "Wiesulis",
-          "url": "https://open.spotify.com/artist/7u9HzYQPhBC92mdvpzGqu8"
-        },
-        {
-          "name": "sangvn",
-          "url": "https://open.spotify.com/artist/6eG66XVFe7u2IX3NOmEX9R"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "It\u0101lija",
-      "url": "https://open.spotify.com/track/3Ah0Zwh5MURTocMQtIgfLm"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "\u0100r\u0101",
-        "url": "https://open.spotify.com/album/1iY3TtQPw01K4VfRkBCzHP"
-      },
-      "artists": [
-        {
-          "name": "Oran\u017e\u0101s Br\u012bvdienas",
-          "url": "https://open.spotify.com/artist/5GaHEMndrj37L7dBrQrZbJ"
-        }
-      ],
-      "duration_ms": 209783,
-      "name": "Debesis Va\u013c\u0101",
-      "url": "https://open.spotify.com/track/0FiPtBSIPZspuJNOgxILQi"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
-        "url": "https://open.spotify.com/album/3eb4GbFzAMjgoRAuuSkoLo"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
-        },
-        {
-          "name": "Clams Casino",
-          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
-        }
-      ],
-      "duration_ms": 190285,
-      "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
-      "url": "https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "Plan\u0113ta: Pritons",
-        "url": "https://open.spotify.com/album/3bOxhqe9gJFp1ZCjelY9Sk"
-      },
-      "artists": [
-        {
-          "name": "Singap\u016bras Sat\u012bns",
-          "url": "https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb"
-        }
-      ],
-      "duration_ms": 241258,
-      "name": "Plan\u0113ta: Pritons",
-      "url": "https://open.spotify.com/track/5SmpCD8NJSFnJa6NeAl88J"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "SUPER",
-        "url": "https://open.spotify.com/album/3e2kBXojxipDi0ItyCNx4e"
-      },
-      "artists": [
-        {
-          "name": "Singap\u016bras Sat\u012bns",
-          "url": "https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "DEGVIELA",
-      "url": "https://open.spotify.com/track/1qlXfJNWyNwIXYnlqmqV6u"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "Zemes stunda",
-        "url": "https://open.spotify.com/album/4nCNCiIO2fNHt4BsaCIQ3E"
-      },
-      "artists": [
-        {
-          "name": "ansis",
-          "url": "https://open.spotify.com/artist/7tkMUE1aCZQssaTYKdgmry"
-        },
-        {
-          "name": "Krist\u012bne P\u0101\u017ee",
-          "url": "https://open.spotify.com/artist/268zxDGpI4vbTQCPHwjgWm"
-        }
-      ],
-      "duration_ms": 182796,
-      "name": "Zemes stunda",
-      "url": "https://open.spotify.com/track/6XUfSHZjqEaFNDeyxcYRi4"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "88 - 90",
-        "url": "https://open.spotify.com/album/77pgSxID9erNEF4Q6vWqfy"
-      },
-      "artists": [
-        {
-          "name": "Jumprava",
-          "url": "https://open.spotify.com/artist/3soQ1XLiOVs9DtXdRtJlzD"
-        }
-      ],
-      "duration_ms": 278786,
-      "name": "Peld\u0113t\u0101js",
-      "url": "https://open.spotify.com/track/3KEJyTTJ3lqG1XVCKI8pGQ"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
+      "added_at": "2025-06-24 13:06:33",
       "album": {
         "name": "Latvie\u0161u Tautas M\u016bzikas Kolekcija / Skaist\u0101k\u0101s Dziesmas",
         "url": "https://open.spotify.com/album/2CK0f6mdswitAwqdldxISI"
@@ -741,131 +161,39 @@
       "url": "https://open.spotify.com/track/1dNi1AJxYu9C5tf8pcyWuE"
     },
     {
-      "added_at": "2025-06-23 13:10:32",
+      "added_at": "2025-06-24 13:06:33",
       "album": {
-        "name": "80-tie Vol.1",
-        "url": "https://open.spotify.com/album/69pSCn9oKB2Y5jWhzAkbW4"
+        "name": "Labu Vakar - Klus\u0101 Daba Ar Perspekt\u012bvu",
+        "url": "https://open.spotify.com/album/4ynyqPXGKQEgUhYKTeYgNu"
       },
       "artists": [
         {
-          "name": "Metronoms",
-          "url": "https://open.spotify.com/artist/1cVGAwkX729RCVXoWddfuL"
+          "name": "P\u0113rkons",
+          "url": "https://open.spotify.com/artist/0vr0zXChKgWdimahgBF8U4"
         }
       ],
-      "duration_ms": 237200,
-      "name": "N\u0101k Nakts!",
-      "url": "https://open.spotify.com/track/6w1SIyENF9Fz8PgcfbszI4"
+      "duration_ms": 281200,
+      "name": "Gandr\u012bz Tautasdziesma",
+      "url": "https://open.spotify.com/track/3OWgntwKHNoilNy4FvHvsj"
     },
     {
-      "added_at": "2025-06-23 13:10:32",
+      "added_at": "2025-06-24 13:06:33",
       "album": {
-        "name": "Klaido\u0146a pasakas",
-        "url": "https://open.spotify.com/album/1Hc6UQl749OkXpd7AfaT7m"
+        "name": "In memoriam",
+        "url": "https://open.spotify.com/album/2vbzBTo5OrdZPgd9f7BGAd"
       },
       "artists": [
         {
-          "name": "Dakota",
-          "url": "https://open.spotify.com/artist/3MwsTOtzM5Xv79LHgCAY3T"
+          "name": "Menuets",
+          "url": "https://open.spotify.com/artist/0h1p71bc1FlcECoZPbKNXf"
         }
       ],
-      "duration_ms": 304213,
-      "name": "Kurtiz\u0101\u0146u ugunskurs",
-      "url": "https://open.spotify.com/track/5KtT2LNzPmCugwNMTurZkT"
+      "duration_ms": 160266,
+      "name": "Alvas zald\u0101ti\u0146i",
+      "url": "https://open.spotify.com/track/6Cuz6JPlLILA0vpzsXPK7y"
     },
     {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
-      },
-      "artists": [
-        {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        },
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
-        }
-      ],
-      "duration_ms": 176965,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "Lab\u0101ko dziesmu izlase",
-        "url": "https://open.spotify.com/album/2Sh3BHdZ5z1vmJW9BAVsNM"
-      },
-      "artists": [
-        {
-          "name": "Bru\u0123is",
-          "url": "https://open.spotify.com/artist/1FXOOmvw8QVXOXwxvAZ1ok"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Kaija",
-      "url": "https://open.spotify.com/track/1QaxZZbP7JzRiXcMjUAeC5"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "Ko t\u0101?",
-        "url": "https://open.spotify.com/album/3DMxE0tH24FEzYMmhXsZiW"
-      },
-      "artists": [
-        {
-          "name": "Wiesulis",
-          "url": "https://open.spotify.com/artist/7u9HzYQPhBC92mdvpzGqu8"
-        },
-        {
-          "name": "sangvn",
-          "url": "https://open.spotify.com/artist/6eG66XVFe7u2IX3NOmEX9R"
-        }
-      ],
-      "duration_ms": 152805,
-      "name": "Ko t\u0101?",
-      "url": "https://open.spotify.com/track/6wB3XstB0c2yO2iMLKnCDg"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "STONKS",
-        "url": "https://open.spotify.com/album/6s3RiLpdAKOoFhOWskFYEo"
-      },
-      "artists": [
-        {
-          "name": "Singap\u016bras Sat\u012bns",
-          "url": "https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb"
-        },
-        {
-          "name": "Samanta Tina",
-          "url": "https://open.spotify.com/artist/7pivhgzLZSku2ixQRxQ5BK"
-        }
-      ],
-      "duration_ms": 153028,
-      "name": "Pl\u0101ksteris",
-      "url": "https://open.spotify.com/track/1oGmFrMqitiA38yJZnvWin"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
-      "album": {
-        "name": "Ballpl\u0113sis",
-        "url": "https://open.spotify.com/album/1JeygrHOHs9LJj3nhwehb8"
-      },
-      "artists": [
-        {
-          "name": "Bermudu Divst\u016bris",
-          "url": "https://open.spotify.com/artist/7hkFOXZNtMKGG8QXTRSQcT"
-        }
-      ],
-      "duration_ms": 172280,
-      "name": "Roku Oke\u0101ns",
-      "url": "https://open.spotify.com/track/7qfisxNvTUxlD6mvrw8673"
-    },
-    {
-      "added_at": "2025-06-23 13:10:32",
+      "added_at": "2025-06-24 13:06:33",
       "album": {
         "name": "Zelta 75 2",
         "url": "https://open.spotify.com/album/3WaIoDSBMo25S9wMol1ZMf"
@@ -883,6 +211,678 @@
       "duration_ms": 234746,
       "name": "Mu\u013c\u0137e sirds",
       "url": "https://open.spotify.com/track/030zL05q4n5QU2TvM5IMaq"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Vid\u0113ji Gl\u012bts",
+        "url": "https://open.spotify.com/album/16QeEKcXdEb3uzKVZ91drK"
+      },
+      "artists": [
+        {
+          "name": "Bermudu Divst\u016bris",
+          "url": "https://open.spotify.com/artist/7hkFOXZNtMKGG8QXTRSQcT"
+        },
+        {
+          "name": "Apvedce\u013c\u0161",
+          "url": "https://open.spotify.com/artist/3i3ntBQKUAXTxBj3yEVNsl"
+        }
+      ],
+      "duration_ms": 173217,
+      "name": "Br\u0101l' Ar Dz\u012bvi Nekaul\u0113",
+      "url": "https://open.spotify.com/track/6IHo6KA0JW6FEHT0hdkx7s"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Lai skan L\u012bgo!",
+        "url": "https://open.spotify.com/album/0l636pkMHMN5BEy7XwI6aJ"
+      },
+      "artists": [
+        {
+          "name": "Inese",
+          "url": "https://open.spotify.com/artist/2hQ1A0Zv7Gh6sCZh1aqqrr"
+        }
+      ],
+      "duration_ms": 234960,
+      "name": "\u0160ai J\u0101\u0146u vakar\u0101",
+      "url": "https://open.spotify.com/track/5NEUf58N1J0F5YcbOg7z2F"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "80-tie Vol.1",
+        "url": "https://open.spotify.com/album/69pSCn9oKB2Y5jWhzAkbW4"
+      },
+      "artists": [
+        {
+          "name": "Metronoms",
+          "url": "https://open.spotify.com/artist/1cVGAwkX729RCVXoWddfuL"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "N\u0101k Nakts!",
+      "url": "https://open.spotify.com/track/6w1SIyENF9Fz8PgcfbszI4"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Ra\u0137e\u0161u Zin\u0101tne",
+        "url": "https://open.spotify.com/album/612UnblsUD7GRWTbLlPwlU"
+      },
+      "artists": [
+        {
+          "name": "Fi\u0146\u0137is",
+          "url": "https://open.spotify.com/artist/6jAmGa0ssb0T7yCsDCvMvk"
+        },
+        {
+          "name": "Patrisha",
+          "url": "https://open.spotify.com/artist/7shMk1uQMXeODDEGmbC8IL"
+        }
+      ],
+      "duration_ms": 206315,
+      "name": "Ra\u0137e\u0161u Zin\u0101tne",
+      "url": "https://open.spotify.com/track/3IZUwm8nYtVN6zqw9fa9W4"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Tas Ir Igo 1981-1997 Vol.2",
+        "url": "https://open.spotify.com/album/4PxXXSNL0tGyMFbEVyvB9o"
+      },
+      "artists": [
+        {
+          "name": "IGO",
+          "url": "https://open.spotify.com/artist/4icoz2e4mkyQaZbGH4cjwy"
+        }
+      ],
+      "duration_ms": 282506,
+      "name": "Tikai T\u0101",
+      "url": "https://open.spotify.com/track/62OgS4p4gVDjUqXX3iljNd"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "K.M.K.V.P.",
+        "url": "https://open.spotify.com/album/5g3JEbdSNIQW0QpVCTR2Ez"
+      },
+      "artists": [
+        {
+          "name": "L\u012bvi",
+          "url": "https://open.spotify.com/artist/63Lsz5HoQTimVCH9iCy9eW"
+        }
+      ],
+      "duration_ms": 238426,
+      "name": "Meitene, Zeltene - Bonus track, 1994",
+      "url": "https://open.spotify.com/track/3xTH6HCLRY52ey85hGj9KK"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Dien\u0101s, kad lidlauks p\u0101r\u0101k t\u0101ls",
+        "url": "https://open.spotify.com/album/2AihyMZ2N6D9cUJQFgAk2u"
+      },
+      "artists": [
+        {
+          "name": "Pr\u0101ta V\u0113tra",
+          "url": "https://open.spotify.com/artist/52SusfPq6EW5PgrjUqMHSy"
+        }
+      ],
+      "duration_ms": 219986,
+      "name": "Plaukstas lieluma pavasaris",
+      "url": "https://open.spotify.com/track/7qIV9g3fbu56fkEUg6nIAH"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Pikant\u0101s L\u012bgo zi\u0146\u0123es",
+        "url": "https://open.spotify.com/album/1XxcbgyLoC7Gbfgjciknso"
+      },
+      "artists": [
+        {
+          "name": "Ugun\u012bg\u0101 Gunta",
+          "url": "https://open.spotify.com/artist/2OAWOMZ2ufDX3Tawi5Yyjf"
+        },
+        {
+          "name": "Negantais Porgants",
+          "url": "https://open.spotify.com/artist/6vxGnr1cVoeKnQvHUoA80H"
+        }
+      ],
+      "duration_ms": 223320,
+      "name": "J\u0101\u0146u nakt\u012b v\u0101ver\u012btes",
+      "url": "https://open.spotify.com/track/1QALTCsNllBPUgXWFIoiR5"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Lab\u0101ko dziesmu izlase",
+        "url": "https://open.spotify.com/album/2Sh3BHdZ5z1vmJW9BAVsNM"
+      },
+      "artists": [
+        {
+          "name": "Bru\u0123is",
+          "url": "https://open.spotify.com/artist/1FXOOmvw8QVXOXwxvAZ1ok"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Kaija",
+      "url": "https://open.spotify.com/track/1QaxZZbP7JzRiXcMjUAeC5"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "88 - 90",
+        "url": "https://open.spotify.com/album/77pgSxID9erNEF4Q6vWqfy"
+      },
+      "artists": [
+        {
+          "name": "Jumprava",
+          "url": "https://open.spotify.com/artist/3soQ1XLiOVs9DtXdRtJlzD"
+        }
+      ],
+      "duration_ms": 278786,
+      "name": "Peld\u0113t\u0101js",
+      "url": "https://open.spotify.com/track/3KEJyTTJ3lqG1XVCKI8pGQ"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Klaido\u0146a pasakas",
+        "url": "https://open.spotify.com/album/1Hc6UQl749OkXpd7AfaT7m"
+      },
+      "artists": [
+        {
+          "name": "Dakota",
+          "url": "https://open.spotify.com/artist/3MwsTOtzM5Xv79LHgCAY3T"
+        }
+      ],
+      "duration_ms": 304213,
+      "name": "Kurtiz\u0101\u0146u ugunskurs",
+      "url": "https://open.spotify.com/track/5KtT2LNzPmCugwNMTurZkT"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Ku\u0161 Ku\u0161",
+        "url": "https://open.spotify.com/album/7p5bYPbqjGSlwnrJ5B977h"
+      },
+      "artists": [
+        {
+          "name": "Astro'n'out",
+          "url": "https://open.spotify.com/artist/6EsCOzWimM6d3bNd7EXmYW"
+        }
+      ],
+      "duration_ms": 242720,
+      "name": "Da\u013ca R\u012bgas",
+      "url": "https://open.spotify.com/track/6oVyceHNCHCuZlRXXJ1HBY"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Nauk\u0161\u0113nu Disko",
+        "url": "https://open.spotify.com/album/47Glqmc2RE0i2qZmk9zOXm"
+      },
+      "artists": [
+        {
+          "name": "Labv\u0113l\u012bgais Tips",
+          "url": "https://open.spotify.com/artist/6lCjsH7dRjXIbYHdRJHAc1"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Nauk\u0161\u0113nu Disko",
+      "url": "https://open.spotify.com/track/3ujJ6h5ElONBUw4vPJj3o4"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Liel\u0101 L\u012bgo izlase",
+        "url": "https://open.spotify.com/album/4M8SvFWidTN7uTp9mtKqa6"
+      },
+      "artists": [
+        {
+          "name": "Kantoris 04",
+          "url": "https://open.spotify.com/artist/0dd5dVNLB3inxBkgobuFd6"
+        }
+      ],
+      "duration_ms": 144990,
+      "name": "L\u012bgos Latvij\u0101",
+      "url": "https://open.spotify.com/track/1dgG6RxLUh2xzPCamjKnFc"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Imanta Kalni\u0146a dziesmu sp\u0113les",
+        "url": "https://open.spotify.com/album/2cH4hzktzJjm6onNEHLMJl"
+      },
+      "artists": [
+        {
+          "name": "Autobuss debesis",
+          "url": "https://open.spotify.com/artist/3O6llRbFlmcZgHJ9kEIVri"
+        }
+      ],
+      "duration_ms": 254973,
+      "name": "Lilioma dziesma",
+      "url": "https://open.spotify.com/track/3GuvLTH6JldBP7Ctk1B82Q"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Naivais ku-k\u016b",
+        "url": "https://open.spotify.com/album/6w1cpF3yXl10K3m44gwu16"
+      },
+      "artists": [
+        {
+          "name": "Carnival Youth",
+          "url": "https://open.spotify.com/artist/1OZcpETfzoPuEHJN5Y9qUc"
+        }
+      ],
+      "duration_ms": 234736,
+      "name": "Dzeguzes balss",
+      "url": "https://open.spotify.com/track/1I3qG35qZPrO7soaQ1OiGO"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Aktu\u0101k\u0101s L\u012bgo zi\u0146\u0123es",
+        "url": "https://open.spotify.com/album/3Ondilq7p37NvuzB732YTP"
+      },
+      "artists": [
+        {
+          "name": "Ugun\u012bg\u0101 Gunta",
+          "url": "https://open.spotify.com/artist/2OAWOMZ2ufDX3Tawi5Yyjf"
+        },
+        {
+          "name": "Negantais Porgants",
+          "url": "https://open.spotify.com/artist/6vxGnr1cVoeKnQvHUoA80H"
+        }
+      ],
+      "duration_ms": 255293,
+      "name": "Uzdzied\u0101sim J\u0101\u0146u dziesmas",
+      "url": "https://open.spotify.com/track/0nxDeDneAIlTW2L96eVLkE"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Aktieru Balle, Vol.1",
+        "url": "https://open.spotify.com/album/5xx5P72i528lT0elCqoKlN"
+      },
+      "artists": [
+        {
+          "name": "Harijs Spanovskis",
+          "url": "https://open.spotify.com/artist/4L737cB0IsQOCf7EkesAIy"
+        },
+        {
+          "name": "J\u0101nis Pauk\u0161tello",
+          "url": "https://open.spotify.com/artist/0hkraaVyVR1KpCmYhn3yVg"
+        },
+        {
+          "name": "Pa\u017earnieku P\u016bt\u0113ju Or\u0137estris",
+          "url": "https://open.spotify.com/artist/6wiidcrNQRSzP6zVBXkqHt"
+        }
+      ],
+      "duration_ms": 236826,
+      "name": "Pie Dzintara J\u016bras",
+      "url": "https://open.spotify.com/track/179fUdN62MySa2h92KqNfF"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Tavs st\u0101sts",
+        "url": "https://open.spotify.com/album/7sP7yiBxFhir4L6MSWTncR"
+      },
+      "artists": [
+        {
+          "name": "The Sound Poets",
+          "url": "https://open.spotify.com/artist/1PMOOPtmiOf4TQqEixoagE"
+        }
+      ],
+      "duration_ms": 229359,
+      "name": "Kalniem p\u0101ri",
+      "url": "https://open.spotify.com/track/3hgSqoZLV1dAkE1x8W7LsU"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Ne Jau Atkal",
+        "url": "https://open.spotify.com/album/6wuiCkzj5FtKNK0JvQDHc0"
+      },
+      "artists": [
+        {
+          "name": "Singap\u016bras Sat\u012bns",
+          "url": "https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb"
+        },
+        {
+          "name": "Horens Stalbe",
+          "url": "https://open.spotify.com/artist/1el9n4RafRlBufvBxyRYYR"
+        }
+      ],
+      "duration_ms": 260348,
+      "name": "Piededzini Mann",
+      "url": "https://open.spotify.com/track/0q3QoeqUKLIiHz7d43nvGb"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Nauk\u0161\u0113nu Disko",
+        "url": "https://open.spotify.com/album/47Glqmc2RE0i2qZmk9zOXm"
+      },
+      "artists": [
+        {
+          "name": "Labv\u0113l\u012bgais Tips",
+          "url": "https://open.spotify.com/artist/6lCjsH7dRjXIbYHdRJHAc1"
+        }
+      ],
+      "duration_ms": 190746,
+      "name": "P\u012br\u0101dzi\u0146' N\u0101c \u0100r\u0101!",
+      "url": "https://open.spotify.com/track/4oi2ErWblGp70MVNO9c3Sn"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Tipa Lab\u0101k\u0101s Dziesmas",
+        "url": "https://open.spotify.com/album/2fQInz5PTYya0w7TL34wro"
+      },
+      "artists": [
+        {
+          "name": "Labv\u0113l\u012bgais Tips",
+          "url": "https://open.spotify.com/artist/6lCjsH7dRjXIbYHdRJHAc1"
+        }
+      ],
+      "duration_ms": 216080,
+      "name": "Lai",
+      "url": "https://open.spotify.com/track/1W4r5aR8ZFIy6RQOolTs0E"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "\u010caka Ielas Dziesmas",
+        "url": "https://open.spotify.com/album/3dNYVZUNYjBQQEYkP4oFtt"
+      },
+      "artists": [
+        {
+          "name": "Harijs Spanovskis",
+          "url": "https://open.spotify.com/artist/4L737cB0IsQOCf7EkesAIy"
+        },
+        {
+          "name": "Raimonds Pauls",
+          "url": "https://open.spotify.com/artist/01pSsqt7FLdq2SC6UqjER3"
+        }
+      ],
+      "duration_ms": 221026,
+      "name": "Tr\u012bs Lietas",
+      "url": "https://open.spotify.com/track/4RaOteBi2Tk3SFBDrQJvoA"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "M\u016bsu m\u012blest\u012bba",
+        "url": "https://open.spotify.com/album/6DLgyEpL17lDoKdLyUpjHN"
+      },
+      "artists": [
+        {
+          "name": "Sudden Lights",
+          "url": "https://open.spotify.com/artist/3hUQbGcka7Ta13TPySOZ0O"
+        }
+      ],
+      "duration_ms": 271067,
+      "name": "M\u016bsu m\u012blest\u012bba",
+      "url": "https://open.spotify.com/track/0OkU8xnHpHmbfrgdJa0NFs"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "D\u0101vana vientu\u013cai sievietei",
+        "url": "https://open.spotify.com/album/4Tjtvsp2qQopgx0iFNzb6V"
+      },
+      "artists": [
+        {
+          "name": "Nora Bumbiere",
+          "url": "https://open.spotify.com/artist/4CYZRz0HWS20cTgIhD8Vy0"
+        },
+        {
+          "name": "Viktors Lap\u010denoks",
+          "url": "https://open.spotify.com/artist/3PaCz9DDjeSdse2rSFttko"
+        }
+      ],
+      "duration_ms": 121453,
+      "name": "Autobrauc\u0113ju dziesmi\u0146a",
+      "url": "https://open.spotify.com/track/25rLn2wBOb5pni0PeTh75o"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Laternu Stund\u0101",
+        "url": "https://open.spotify.com/album/5DPn2ijbNMMe9mxXqXEyDj"
+      },
+      "artists": [
+        {
+          "name": "Raimonds Pauls",
+          "url": "https://open.spotify.com/artist/01pSsqt7FLdq2SC6UqjER3"
+        },
+        {
+          "name": "Nora Bumbiere",
+          "url": "https://open.spotify.com/artist/4CYZRz0HWS20cTgIhD8Vy0"
+        },
+        {
+          "name": "Viktors Lap\u010denoks",
+          "url": "https://open.spotify.com/artist/3PaCz9DDjeSdse2rSFttko"
+        }
+      ],
+      "duration_ms": 167600,
+      "name": "Laternu Stund\u0101",
+      "url": "https://open.spotify.com/track/4qckh0OAI09cpMhgHC1XYi"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Kolekcija",
+        "url": "https://open.spotify.com/album/3lCPCBjs07DQYj7qbLdjIj"
+      },
+      "artists": [
+        {
+          "name": "Eolika",
+          "url": "https://open.spotify.com/artist/7ibABXkd3udA7QNPrSSWnL"
+        }
+      ],
+      "duration_ms": 665653,
+      "name": "R. Paula Dziesmu Pop\u016brijs",
+      "url": "https://open.spotify.com/track/6R1tJJ8QpnN1wGjVlqShAI"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Bab\u0146iks",
+        "url": "https://open.spotify.com/album/02YSpKLkoHlEvNcjwTTmyo"
+      },
+      "artists": [
+        {
+          "name": "Ko\u013ca",
+          "url": "https://open.spotify.com/artist/7LflKlYjv6xJZLQ3PtMLrq"
+        }
+      ],
+      "duration_ms": 223653,
+      "name": "Ko\u013cas dz\u0113r\u0101jdziesma",
+      "url": "https://open.spotify.com/track/47dzrGzc8PFJsPteCbpMPi"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "N\u0101rnija",
+        "url": "https://open.spotify.com/album/6I8CTB1bo3lJ1ZW4FLnBsC"
+      },
+      "artists": [
+        {
+          "name": "OLAS",
+          "url": "https://open.spotify.com/artist/4qvH4YJ2ESxPSJ2sLMHxM5"
+        },
+        {
+          "name": "Esmeralda",
+          "url": "https://open.spotify.com/artist/2cPtOqq7n3pjJF1XGiKM4I"
+        },
+        {
+          "name": "heywhosthatkid",
+          "url": "https://open.spotify.com/artist/3SxmEaVKj3dXh5HsMzOQ8g"
+        }
+      ],
+      "duration_ms": 169680,
+      "name": "N\u0101rnija",
+      "url": "https://open.spotify.com/track/6tbEF9YpayX9uqAA5ezx1j"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "L\u012bgo dziesmas Jaun\u0101s ska\u0146\u0101s 10",
+        "url": "https://open.spotify.com/album/22fJ7qRvAfmvhcX6bU5N2v"
+      },
+      "artists": [
+        {
+          "name": "Ko\u013ca",
+          "url": "https://open.spotify.com/artist/7LflKlYjv6xJZLQ3PtMLrq"
+        }
+      ],
+      "duration_ms": 235760,
+      "name": "Za\u013cumball\u0113",
+      "url": "https://open.spotify.com/track/1TtaVzn2TTzqENAdWvZGW0"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Spe\u010duks",
+        "url": "https://open.spotify.com/album/4h5lXP1Ic5YMuWbpeYAVX3"
+      },
+      "artists": [
+        {
+          "name": "Ko\u013ca",
+          "url": "https://open.spotify.com/artist/7LflKlYjv6xJZLQ3PtMLrq"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "Lauku idille",
+      "url": "https://open.spotify.com/track/0SxJvU1lz6oXMRo2frd9uP"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Tautumeitas",
+        "url": "https://open.spotify.com/album/0OsBpKj2nbZKoygws7kpBn"
+      },
+      "artists": [
+        {
+          "name": "Tautumeitas",
+          "url": "https://open.spotify.com/artist/65Q6uD7cHhu4QYbGxEU9dF"
+        }
+      ],
+      "duration_ms": 190100,
+      "name": "Raganu Nakts",
+      "url": "https://open.spotify.com/track/1goKool6enlNDiX7ruBmT6"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "J\u0101\u0146u nakts ball\u012bte",
+        "url": "https://open.spotify.com/album/39OOgeFeMEQzhxcRIDxoaI"
+      },
+      "artists": [
+        {
+          "name": "Raimonds Pauls",
+          "url": "https://open.spotify.com/artist/01pSsqt7FLdq2SC6UqjER3"
+        },
+        {
+          "name": "Koris",
+          "url": "https://open.spotify.com/artist/3shMUz9TYx29PQUjhsgwES"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "T\u0101 es tevi m\u012bl\u0113\u0161u",
+      "url": "https://open.spotify.com/track/7ueu4dRgkC7ufv5pOT9Khl"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Eolika",
+        "url": "https://open.spotify.com/album/5XU1lDNEyiyqNKAlkm21s1"
+      },
+      "artists": [
+        {
+          "name": "Eolika",
+          "url": "https://open.spotify.com/artist/7ibABXkd3udA7QNPrSSWnL"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Pasaule, Pasaul\u012bt",
+      "url": "https://open.spotify.com/track/0VF7QXytxKEoSP6o7DNiZh"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Le\u0123endas",
+        "url": "https://open.spotify.com/album/6m49wkg7Yuelz8PWZYM0MD"
+      },
+      "artists": [
+        {
+          "name": "\u017dor\u017es Siksna",
+          "url": "https://open.spotify.com/artist/75tMZ7m95gXjJGRehUm5O1"
+        }
+      ],
+      "duration_ms": 189986,
+      "name": "Jel, dod man bu\u010di\u0146'",
+      "url": "https://open.spotify.com/track/0GsldqHE1Rwtm5IrXsm0ob"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Imants Kalni\u0146\u0161 Dziesmu Izlase",
+        "url": "https://open.spotify.com/album/25CyKvCVWmDm2Hh524f7to"
+      },
+      "artists": [
+        {
+          "name": "Imants Kalni\u0146\u0161",
+          "url": "https://open.spotify.com/artist/3OHvq5nAhR4XavjPpadB2X"
+        },
+        {
+          "name": "Autobuss debesis",
+          "url": "https://open.spotify.com/artist/3O6llRbFlmcZgHJ9kEIVri"
+        }
+      ],
+      "duration_ms": 302053,
+      "name": "Sitiet bungas, mani m\u012b\u013cie",
+      "url": "https://open.spotify.com/track/5DF2gQpe0PweM3JJlDfUlL"
+    },
+    {
+      "added_at": "2025-06-24 13:06:33",
+      "album": {
+        "name": "Teic, kur zeme t\u0101",
+        "url": "https://open.spotify.com/album/54s6T3VwuSnASnaIDKSHFL"
+      },
+      "artists": [
+        {
+          "name": "Raimonds Pauls",
+          "url": "https://open.spotify.com/artist/01pSsqt7FLdq2SC6UqjER3"
+        },
+        {
+          "name": "Nora Bumbiere",
+          "url": "https://open.spotify.com/artist/4CYZRz0HWS20cTgIhD8Vy0"
+        }
+      ],
+      "duration_ms": 160586,
+      "name": "Ar mani atkal run\u0101 kaijas",
+      "url": "https://open.spotify.com/track/4IIwEJPzz7bJOTnvhvBFnf"
     }
   ],
   "unique_name": "Top 50 - Latvia",

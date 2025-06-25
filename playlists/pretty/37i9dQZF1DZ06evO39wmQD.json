@@ -1,12 +1,12 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 3150,
+  "num_followers": 3152,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFdHgAAAAAD2S3gM1nSoRAbbpLUyEuzG",
+  "snapshot_id": "aFiZAAAAAACH9nAWmgB4kkhZN0oNCxRi",
   "tracks": [
     {
       "added_at": null,
@@ -138,6 +138,10 @@
         {
           "name": "Villagers of Motunui",
           "url": "https://open.spotify.com/artist/5IxJyEUqhBte1rRbViGjNm"
+        },
+        {
+          "name": "Te Vaka",
+          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
         },
         {
           "name": "Disney",
@@ -560,9 +564,9 @@
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         }
       ],
-      "duration_ms": 178166,
-      "name": "The Future's in My Hands - Theme from \"Hailey's On It!\"",
-      "url": "https://open.spotify.com/track/2EDhyd2FMEeV1P0iwA1eWt"
+      "duration_ms": 167590,
+      "name": "Born for This",
+      "url": "https://open.spotify.com/track/79ifABR18J1kNepjRhWeCh"
     },
     {
       "added_at": null,
@@ -642,11 +646,31 @@
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Manny Jacinto",
+          "url": "https://open.spotify.com/artist/1fGRFzOGmJH0BtpXvQ8NPz"
         }
       ],
-      "duration_ms": 167590,
-      "name": "Born for This",
-      "url": "https://open.spotify.com/track/79ifABR18J1kNepjRhWeCh"
+      "duration_ms": 88284,
+      "name": "You Fit Me Perfectly",
+      "url": "https://open.spotify.com/track/1J7H4msE4xhXAdCNPMfB6i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Future's in My Hands (Theme from \"Hailey's On It!\")",
+        "url": "https://open.spotify.com/album/1zQH2ZPY82Mul0Ki3tYRKj"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "duration_ms": 178166,
+      "name": "The Future's in My Hands - Theme from \"Hailey's On It!\"",
+      "url": "https://open.spotify.com/track/4Fn5xfalnbwbxv0Km0Vhhh"
     },
     {
       "added_at": null,
@@ -675,34 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise Season 1: The Album (Music from the TV Series)",
-        "url": "https://open.spotify.com/album/3NWC9vku8Robbe7tyVWJi1"
-      },
-      "artists": [
-        {
-          "name": "Rise Cast",
-          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
-        },
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Damon J. Gillespie",
-          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
-        },
-        {
-          "name": "Ellie Desautels",
-          "url": "https://open.spotify.com/artist/71Vw9QsO329HcPRMksPlDe"
-        }
-      ],
-      "duration_ms": 111160,
-      "name": "Those You've Known - Rise Cast Version",
-      "url": "https://open.spotify.com/track/3XSIH7n9qyqY7PS3HzDYNx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
         "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
       },
@@ -727,22 +723,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hailey's On It! (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
+        "name": "Rise Season 1: The Album (Music from the TV Series)",
+        "url": "https://open.spotify.com/album/3NWC9vku8Robbe7tyVWJi1"
       },
       "artists": [
+        {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        },
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         },
         {
-          "name": "Manny Jacinto",
-          "url": "https://open.spotify.com/artist/1fGRFzOGmJH0BtpXvQ8NPz"
+          "name": "Damon J. Gillespie",
+          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
+        },
+        {
+          "name": "Ellie Desautels",
+          "url": "https://open.spotify.com/artist/71Vw9QsO329HcPRMksPlDe"
         }
       ],
-      "duration_ms": 88284,
-      "name": "You Fit Me Perfectly",
-      "url": "https://open.spotify.com/track/1J7H4msE4xhXAdCNPMfB6i"
+      "duration_ms": 111160,
+      "name": "Those You've Known - Rise Cast Version",
+      "url": "https://open.spotify.com/track/3XSIH7n9qyqY7PS3HzDYNx"
     },
     {
       "added_at": null,

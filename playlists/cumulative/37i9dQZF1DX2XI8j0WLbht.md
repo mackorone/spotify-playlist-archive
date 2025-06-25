@@ -2,9 +2,9 @@
 
 ### [Folk Mexicano](https://open.spotify.com/playlist/37i9dQZF1DX2XI8j0WLbht)
 
-> una guitarra y mucho sentimiento para cantar\. Silvana Estrada en portada.
+> una guitarra y mucho sentimiento para cantar\. Macario Martínez en portada.
 
-222 songs - 14 hr 43 min
+227 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [El Diablo y la Bruja](https://open.spotify.com/track/2UQhZFHl6kRUd9E99wC4mR) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [El Diablo y la Bruja](https://open.spotify.com/album/1gD56P1cbXWLpCrFt0j4Ll) | 3:53 | 2022-03-04 | 2025-05-31 |
 | [El Lobo](https://open.spotify.com/track/3c0gASoWobykbZXSNrDAXM) | [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [El Lobo](https://open.spotify.com/album/0dfl6KXvh91ccYVZ3uExB0) | 3:40 | 2022-03-04 | 2025-05-31 |
 | [El lugar correcto](https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 3:51 | 2025-05-30 |  |
+| [EL MUNDO SE VA A ACABAR](https://open.spotify.com/track/1EsKliwEB0F9cy8JT9qbzr) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy), [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [EL MUNDO SE VA A ACABAR](https://open.spotify.com/album/6gRP2tO49B56rkcLzrBSpq) | 2:29 | 2025-06-24 |  |
 | [El Pantalón Blue Jean](https://open.spotify.com/track/5ssDbtA9UgQz8hBgbA2VTP) | [The Mexican Standoff](https://open.spotify.com/artist/5FFjAQNzQf5Nnyl0eG2Rts), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M), [Los Texmaniacs](https://open.spotify.com/artist/1CMRsisCxvV0fXDzxUbiwV) | [El Pantalón Blue Jean](https://open.spotify.com/album/50jPfEfaUjR2NqFmD2yekn) | 2:49 | 2024-08-23 | 2025-05-31 |
 | [El Pájaro Cú](https://open.spotify.com/track/0d7B2tUlBpaTfm4UufYpPD) | [Sonex](https://open.spotify.com/artist/2xA9FhJKzvCKxxGvwnVyMK) | [Madre Natura](https://open.spotify.com/album/7qqzSgpINycbcdZmRnzl8G) | 3:47 | 2022-03-04 | 2025-05-31 |
 | [El Pájaro Cú](https://open.spotify.com/track/7GBKatFFO8xPt9cgT0H74D) | [Sonex](https://open.spotify.com/artist/2xA9FhJKzvCKxxGvwnVyMK) | [Madre Natura](https://open.spotify.com/album/6emglSRi7jlfog1ZDBkXBh) | 3:51 | 2022-03-04 | 2024-04-19 |
@@ -109,6 +110,7 @@
 | [La Bruja](https://open.spotify.com/track/4qKhQkzaHv2JjuOwTjqeQV) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa) | [La Bruja](https://open.spotify.com/album/7DkmzX4YfIgH13348gjXST) | 3:39 | 2022-03-04 | 2022-11-14 |
 | [La Canícula](https://open.spotify.com/track/5kQ2OzJ6OJZgkc3u7P65ey) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [La Canícula](https://open.spotify.com/album/5fw1tmc1GBEunY8wjXgGBA) | 3:07 | 2022-03-04 | 2025-05-31 |
 | [La Canícula](https://open.spotify.com/track/5ltGrLgjwhLk5o0yGP1WXL) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 3:07 | 2025-05-30 |  |
+| [La Ciudad](https://open.spotify.com/track/2WkdQRVKSpQR7m8ADRgen5) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [La Ciudad](https://open.spotify.com/album/6Kg0WYwrz6on4qEPJLGuWO) | 3:33 | 2025-06-24 |  |
 | [La Corriente](https://open.spotify.com/track/40Zju5o9KUlk51Vvwqa7mB) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL) | 3:31 | 2025-05-30 |  |
 | [La Distancia](https://open.spotify.com/track/00PlbGbxatNx4FdF7WiSXS) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [La Distancia](https://open.spotify.com/album/5YSQOfpviTDmkNEbOytKJE) | 3:33 | 2025-01-10 |  |
 | [La llorona](https://open.spotify.com/track/4Mq73FvzLlMdy0VuOvVzjN) | [Alexandra Gravas](https://open.spotify.com/artist/3jDJ5r0kU32EeVl2Dd5uYv), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Songbook 3 El Amor Es Vida](https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT) | 6:44 | 2022-03-04 | 2025-05-31 |
@@ -151,6 +153,7 @@
 | [Navegar](https://open.spotify.com/track/1BTzmYpxAtpJ18ql2mP82s) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Navegar](https://open.spotify.com/album/2nNzpj5R1xuqeu7yLtP4tb) | 3:08 | 2023-02-22 | 2025-05-31 |
 | [Ni una Gota de Amor](https://open.spotify.com/track/0bhDlHFULrnJgbTnh8B9x3) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Ni una Gota de Amor](https://open.spotify.com/album/5LgML12Rb7QlWZ9OzPd97y) | 2:31 | 2022-03-04 | 2025-05-31 |
 | [no me culpes por sentir](https://open.spotify.com/track/2XgCopGQ3HzMhxNPOYrW85) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [ULTRA SODADE](https://open.spotify.com/album/3xZTQbbpRayiu75DmCNYNH) | 3:48 | 2025-05-30 |  |
+| [No Me Importa](https://open.spotify.com/track/3ha1HwC1ka0IPcIepD50HO) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [No me Importa](https://open.spotify.com/album/6aXNeXAKR45CmOLgcGEuCb) | 2:57 | 2025-06-24 |  |
 | [No sé](https://open.spotify.com/track/3f82CTFrfRUQcFnPcOBhU4) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:09 | 2024-05-31 | 2025-05-31 |
 | [No te lo Puedo Decir](https://open.spotify.com/track/6HPGVIIKxxgC8oeJ6W29BO) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Esperanza](https://open.spotify.com/album/2WCRs6p1ApJ6XlaBXX2QKq) | 2:51 | 2023-06-09 | 2025-05-31 |
 | [Noche Sensacional](https://open.spotify.com/track/6L2rOHvZAwPCp2FqYmyvZ5) | [Chabuco](https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl), [Dayhan Díaz](https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa) | [Noche Sensacional](https://open.spotify.com/album/7zWTzor9FhwJC513rjjMda) | 3:17 | 2022-04-20 | 2023-06-10 |
@@ -185,6 +188,7 @@
 | [Senor Presidente](https://open.spotify.com/track/0cbrL5ApWdHZLGfgzQ0Zwa) | [Los Mocosos](https://open.spotify.com/artist/3iZwn8c4lsHa2r6M4BKVAT) | [Latin Revolution](https://open.spotify.com/album/3QR2sMtztC1wn2FN4AbZuJ) | 4:52 | 2022-03-04 | 2025-01-11 |
 | [Señor Presidente](https://open.spotify.com/track/6z3BlkIqrvrHBn2nPJVJFh) | [Los Mocosos](https://open.spotify.com/artist/3iZwn8c4lsHa2r6M4BKVAT) | [American Us](https://open.spotify.com/album/39hfHdufLFVsNpymfhyrsh) | 4:52 | 2022-03-04 | 2024-04-19 |
 | [si me esperas](https://open.spotify.com/track/0SXCN08q2ixC3pgWYqLmn3) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u) | [si me esperas](https://open.spotify.com/album/4QOth8IwUwVPWblM8AdO5r) | 3:00 | 2025-05-30 |  |
+| [Si te mentí](https://open.spotify.com/track/5wFWF4ykbDm9mXdLY5qmdc) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Si te mentí](https://open.spotify.com/album/1h5Ms3dB19s0Ne5bWT6Gqq) | 2:53 | 2025-06-24 |  |
 | [Siempre Simón y Nunca Nel](https://open.spotify.com/track/3jE7MBxIJgBPD28W10UKpe) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Últimamente me acuerdo mucho de tu casa](https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf) | 4:01 | 2025-05-30 |  |
 | [Siempre Te Busqué](https://open.spotify.com/track/7a75CWRq82AGSHdL5Qw515) | [Monocordio](https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU) | [El Primer Rayo de Sol \- EP](https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ) | 4:25 | 2025-05-30 |  |
 | [siempre te voy a querer](https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [los días en la sala](https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE) | 2:43 | 2025-05-30 |  |
@@ -195,6 +199,7 @@
 | [Son Tus Ojos Tranquilos](https://open.spotify.com/track/1nrTJhwBJcoxKdtyqSXUJl) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Mon de León](https://open.spotify.com/artist/5NejWF2yqY4C5ZWlfIGOcG), [Mixe Represent](https://open.spotify.com/artist/5qrOGN6UnfGEE9VgznHrBF) | [Son Tus Ojos Tranquilos](https://open.spotify.com/album/6aUP0uecjAjkY7kIZ0bpl2) | 4:56 | 2023-06-09 | 2025-05-31 |
 | [Soñar Contigo](https://open.spotify.com/track/0i1W9QxdJKLZjxbgBKYv82) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/2u8JTAoZvB8ypIGy52V1AB) | 2:48 | 2025-05-30 |  |
 | [Still I Wake Up In The Morning Thinking Of You \- demo](https://open.spotify.com/track/2Hp8RvXk33BjydwgJrtb7X) | [Goma](https://open.spotify.com/artist/0DAsx2InZwMNTnfkd4GXa4) | [Happy\-fi Compilación Vol\. 2](https://open.spotify.com/album/1SctU0rJACQseZrrc9IEGE) | 4:01 | 2025-05-30 |  |
+| [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 | 2025-06-24 |  |
 | [Te Extraño De Un Extraño](https://open.spotify.com/track/6IS3wlL3HC1CjpClyTKfWM) | [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh), [Besasa](https://open.spotify.com/artist/7K3q9xfxjmU07gyu0MdFOS), [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Te Extraño De Un Extraño](https://open.spotify.com/album/2IhqjrAZueaJpXA3eK4fdp) | 3:05 | 2025-05-30 |  |
 | [Te Guardo](https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:21 | 2022-03-04 |  |
 | [Te Guardo](https://open.spotify.com/track/5fGIyvtxYc7BiijDvqOFGN) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/0R07UR8xJxMDwx6PCvp4XT) | 3:21 | 2022-03-04 | 2025-05-31 |

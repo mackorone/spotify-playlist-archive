@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: VOUS Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,586 likes - 75 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,620 likes - 75 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

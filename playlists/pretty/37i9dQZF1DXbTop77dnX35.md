@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Olamide, Amaarae, Victony and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,347 likes - 77 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,409 likes - 77 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

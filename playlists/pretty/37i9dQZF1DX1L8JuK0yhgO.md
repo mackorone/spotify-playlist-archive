@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,893 likes - 71 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,895 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,6 +78,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 68 | [Naiad Pump](https://open.spotify.com/track/4Lfj0ZBiRRz0cPeXgzW9pt) | [gai seki](https://open.spotify.com/artist/0k0RcuWdEsMo7LoyNn1Dd9) | [Naiad Pump](https://open.spotify.com/album/7EYdJIxOND0kteWUpik5Ru) | 3:08 |
 | 69 | [EchoMe](https://open.spotify.com/track/0DJgSc6avCU6ux625P55Ft) | [Kopy](https://open.spotify.com/artist/5CKkkXj7Shx7nYRWkY2GmB) | [EchoMe](https://open.spotify.com/album/7bpY7vFIDYn1UhQfpyAEkH) | 2:56 |
 | 70 | [Into Dust \(Still Falling\)](https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Into Dust \(Still Falling\)](https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0) | 5:33 |
-| 71 | [Fake \(feat\. ウソノ晴臣, 雅マモル, 上白石まね\)](https://open.spotify.com/track/5CwZsG2oudRaqfBwT3iN6T) | [ニセ 明](https://open.spotify.com/artist/58U158L5GKGbo0pCwKUNWI), [ウソノ晴臣](https://open.spotify.com/artist/3ZToXzItb43mfxu0bHQalB), [雅マモル](https://open.spotify.com/artist/2WuvmyELGPX30kBAiWWUgH), [上白石まね](https://open.spotify.com/artist/7xTPim6AHguco645YIe4XC) | [Fake](https://open.spotify.com/album/2slWK5pRETk85Y0OJrSFWl) | 4:33 |
 
-Snapshot ID: `aFj03gAAAACeM6ZXxbJnrNX93TrkVXdm`
+Snapshot ID: `aFtOgAAAAAA+tqmyHOXwzK6bRaaAEr3V`

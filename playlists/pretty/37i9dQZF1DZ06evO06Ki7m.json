@@ -1,12 +1,12 @@
 {
   "description": "This is Metro Boomin. The essential tracks, all in one playlist.",
-  "num_followers": 405775,
+  "num_followers": 405824,
   "original_name": "This Is Metro Boomin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFdHgAAAAAAH0ZYoLVWFOQT/ZJcYthxQ",
+  "snapshot_id": "aFiZAAAAAAA7KONXVCB2wi2f0cmJHCDc",
   "tracks": [
     {
       "added_at": null,
@@ -918,11 +918,15 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 184733,
-      "name": "Streets Made Me A King",
-      "url": "https://open.spotify.com/track/4Orf7Hvci6SZrPIoUjGuFY"
+      "duration_ms": 246666,
+      "name": "Always Be My Fault",
+      "url": "https://open.spotify.com/track/1FIwzmULOKGNmo5bOJqW0P"
     },
     {
       "added_at": null,
@@ -1006,15 +1010,11 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 246666,
-      "name": "Always Be My Fault",
-      "url": "https://open.spotify.com/track/1FIwzmULOKGNmo5bOJqW0P"
+      "duration_ms": 184733,
+      "name": "Streets Made Me A King",
+      "url": "https://open.spotify.com/track/4Orf7Hvci6SZrPIoUjGuFY"
     },
     {
       "added_at": null,

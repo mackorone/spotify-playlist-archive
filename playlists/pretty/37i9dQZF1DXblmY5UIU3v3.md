@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,154 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,235 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 3 | [badboysound](https://open.spotify.com/track/3m1bWZZblIpYjQzrOSl0Oe) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Sanjin](https://open.spotify.com/artist/4eubQnUM4b5sGZoi3fSRV3) | [badboysound](https://open.spotify.com/album/2Yfz4UEkDcgrsvUFkHHUVS) | 2:49 |
 | 4 | [Pullin Up](https://open.spotify.com/track/48tI68zHn3r3uHmGxdkKDd) | [Soda](https://open.spotify.com/artist/3hnbNJJnN1jFk3MmBvcn9Z) | [Pullin Up](https://open.spotify.com/album/5uCLVj0095GwMv7tjt3IRX) | 1:55 |
 | 5 | [Lowkey \(LDN Drift\) \[feat\. Takura\]](https://open.spotify.com/track/308JcmNsqtkEZaAkcZrCT2) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Takura](https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ) | [Lowkey \(LDN Drift\) \[feat\. Takura\]](https://open.spotify.com/album/5rGnxRc5WOwevqYSLNMdkp) | 2:37 |
-| 6 | [leavemealone](https://open.spotify.com/track/6QbVPP02QcJICAo7giDqwh) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone \(Nia Archives Remix\)](https://open.spotify.com/album/6y2wI0mDStpCnKGjdkFxQZ) | 3:42 |
-| 7 | [Cursed Midnight \- Radio Edit](https://open.spotify.com/track/0narfFv6R0EDNbwZecDtEQ) | [GLWKMOD](https://open.spotify.com/artist/49WTsslK1g6frRdr895unr) | [Cursed Midnight \(Radio Edit\)](https://open.spotify.com/album/1pLG8WdonN508rhKLfQyaa) | 1:28 |
+| 6 | [Cursed Midnight \- Radio Edit](https://open.spotify.com/track/0narfFv6R0EDNbwZecDtEQ) | [GLWKMOD](https://open.spotify.com/artist/49WTsslK1g6frRdr895unr) | [Cursed Midnight \(Radio Edit\)](https://open.spotify.com/album/1pLG8WdonN508rhKLfQyaa) | 1:28 |
+| 7 | [leavemealone](https://open.spotify.com/track/6QbVPP02QcJICAo7giDqwh) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone \(Nia Archives Remix\)](https://open.spotify.com/album/6y2wI0mDStpCnKGjdkFxQZ) | 3:42 |
 | 8 | [Dope Track](https://open.spotify.com/track/4Z38jEv7REm9di26vAAO6A) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Beat Tape 3](https://open.spotify.com/album/15DkAowq0NYedaw8ieeepT) | 2:30 |
 | 9 | [SNEAKY](https://open.spotify.com/track/7sorNP9VLdnIRIjIwUq5g7) | [WYR GEMI](https://open.spotify.com/artist/3Qubu5zXcOh0EIb2bDwMdB) | [SNEAKY](https://open.spotify.com/album/5LEr15ggG2zjjQm7KrASpj) | 2:05 |
 | 10 | [MHITR \(Semi\-Automatic\) \[feat\. Eksman\]](https://open.spotify.com/track/11Gypesywvx4AnUeYxeLaY) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [MHITR \(Semi\-Automatic\) \[feat\. Eksman\]](https://open.spotify.com/album/0mXlKN5XvrL9olOdYSrTio) | 2:54 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 26 | [Spaceship](https://open.spotify.com/track/7GWXjklWJA0kjWWf9sNw1k) | [OLZXVS](https://open.spotify.com/artist/1tqvR13suC3SB24Ngd0zVI) | [Spaceship](https://open.spotify.com/album/6s22PosumlZIKoqu2pjyzy) | 2:54 |
 | 27 | [Tricky Trippy](https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu) | [Demeter](https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz) | [Tricky Trippy](https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5) | 2:58 |
 | 28 | [Ethnic](https://open.spotify.com/track/5j5dVqtX2YESmIy5T45EHq) | [SINDICVT](https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf) | [Ethnic](https://open.spotify.com/album/1OElQtPbcZZYj9NN5gphXj) | 3:37 |
-| 29 | [Solovey](https://open.spotify.com/track/29ofWO96svTbZaVWB9reSb) | [Dj Quba](https://open.spotify.com/artist/3jKI2rCmeJNIwW4duG0sQJ), [Sandra K](https://open.spotify.com/artist/4hq99FkPtYKcdc2RQ6QDDx) | [Solovey](https://open.spotify.com/album/2e27TfVReB4lDRAtzlVbW2) | 2:05 |
-| 30 | [My Skyline](https://open.spotify.com/track/6EXYMLHG0Xhe1aNFphyayQ) | [Obzkure](https://open.spotify.com/artist/2A0Vr6jboum6XRvVfMD3Tl) | [My Skyline](https://open.spotify.com/album/7v9aoGWmGNRFwgwHQTr6ya) | 2:24 |
+| 29 | [My Skyline](https://open.spotify.com/track/6EXYMLHG0Xhe1aNFphyayQ) | [Obzkure](https://open.spotify.com/artist/2A0Vr6jboum6XRvVfMD3Tl) | [My Skyline](https://open.spotify.com/album/7v9aoGWmGNRFwgwHQTr6ya) | 2:24 |
+| 30 | [Solovey](https://open.spotify.com/track/29ofWO96svTbZaVWB9reSb) | [Dj Quba](https://open.spotify.com/artist/3jKI2rCmeJNIwW4duG0sQJ), [Sandra K](https://open.spotify.com/artist/4hq99FkPtYKcdc2RQ6QDDx) | [Solovey](https://open.spotify.com/album/2e27TfVReB4lDRAtzlVbW2) | 2:05 |
 | 31 | [Vandal](https://open.spotify.com/track/3o0uDe47R1wByG9IXIvkSH) | [OsMan](https://open.spotify.com/artist/5yTQ5Ik2Bllbc5hRLeoRkN) | [Vandal](https://open.spotify.com/album/27DyW3vuWYxvbrw2InADaz) | 2:16 |
 | 32 | [Versace](https://open.spotify.com/track/2yWkgyMnfojm7iPzRwBzn2) | [J&K](https://open.spotify.com/artist/6dE7gniQuPD7nsIhI4UYsN), [AINI](https://open.spotify.com/artist/14IWRqA1PTpEeGcrIW8WTg) | [Versace](https://open.spotify.com/album/43uDfBBdjkWnRQEkDuNPPW) | 1:51 |
 | 33 | [Combo](https://open.spotify.com/track/1QxvF7sykEILCrINRMovoM) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o) | [Combo](https://open.spotify.com/album/3CxZRCqXlPnYjF84w77ogX) | 3:22 |

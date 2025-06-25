@@ -1301,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "Breakfast Club",
+        "url": "https://open.spotify.com/album/0AsdszbgP1JzLCpQhCmDh5"
+      },
+      "artists": [
+        {
+          "name": "Hausward",
+          "url": "https://open.spotify.com/artist/23v5l9Xt9MklrDy9475aW0"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169517,
+      "name": "Breakfast Club",
+      "url": "https://open.spotify.com/track/4NhCSHy52ObFUbwxDNglye"
+    },
+    {
+      "album": {
         "name": "Breakups Are Hard",
         "url": "https://open.spotify.com/album/2cRJ1TWmG6e7cU91md5ymn"
       },
@@ -1748,6 +1766,24 @@
       "duration_ms": 161013,
       "name": "Chi-town",
       "url": "https://open.spotify.com/track/6IlUL7y90tJ87q4f37egWZ"
+    },
+    {
+      "album": {
+        "name": "ChillBoat",
+        "url": "https://open.spotify.com/album/19yz1jjJ3TWMoBA97CXTAs"
+      },
+      "artists": [
+        {
+          "name": "rigii",
+          "url": "https://open.spotify.com/artist/7mKI3t5igUWeoSgBNCdQIU"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168576,
+      "name": "ChillBoat",
+      "url": "https://open.spotify.com/track/3if2xlLwa4wuqRx5pDAgvQ"
     },
     {
       "album": {
@@ -2602,7 +2638,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 154041,
       "name": "Dolphins",
       "url": "https://open.spotify.com/track/33WvgfekFMoqgiO7c1ktv6"
@@ -3382,7 +3418,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 154354,
       "name": "Excellerator",
       "url": "https://open.spotify.com/track/11M7ebTCTSmTaFLUfF3zob"
@@ -3422,7 +3458,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 140810,
       "name": "Far More Effect",
       "url": "https://open.spotify.com/track/7gmlnMeEI7XH2W5Yye4krQ"
@@ -3494,7 +3530,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 171300,
       "name": "Feel Free",
       "url": "https://open.spotify.com/track/6NTuoC7UYtJ3sZYfXYQGHs"
@@ -3620,7 +3656,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 185457,
       "name": "Finding Shelter",
       "url": "https://open.spotify.com/track/7uNKXBRlV4WHkKWFP2vfNJ"
@@ -3844,7 +3880,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 138000,
       "name": "fly away",
       "url": "https://open.spotify.com/track/51srHVilMntmFnywwVVVOU"
@@ -4824,7 +4860,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 161169,
       "name": "Honeybee",
       "url": "https://open.spotify.com/track/3hzqjAhpuqSvoYUwn18WV6"
@@ -4860,7 +4896,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 187812,
       "name": "Horizons",
       "url": "https://open.spotify.com/track/4lI218MmKYC8MGCyI1h8dH"
@@ -5256,7 +5292,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 138666,
       "name": "Inner Peace",
       "url": "https://open.spotify.com/track/6rvX0JYhkqJivixXp40sJn"
@@ -7826,7 +7862,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 157779,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5uIenunrFU6khy80tPYxKL"
@@ -8334,7 +8370,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 150465,
       "name": "Pitch Control",
       "url": "https://open.spotify.com/track/5dejK4xs8617r5vPh2Crzx"
@@ -9004,6 +9040,24 @@
       "duration_ms": 102439,
       "name": "Roads",
       "url": "https://open.spotify.com/track/6Dqyy9LSqS8DBBYGJm9iy7"
+    },
+    {
+      "album": {
+        "name": "Rolling",
+        "url": "https://open.spotify.com/album/2N9Xpho8AMeUzFNpRRtG2a"
+      },
+      "artists": [
+        {
+          "name": "Niriko",
+          "url": "https://open.spotify.com/artist/249Q1LZa29XL7XIatTN45M"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152083,
+      "name": "Rolling",
+      "url": "https://open.spotify.com/track/0jpN8guBfVMeSoKhpEr7Kc"
     },
     {
       "album": {
@@ -9691,6 +9745,24 @@
     },
     {
       "album": {
+        "name": "Simmer",
+        "url": "https://open.spotify.com/album/6Ss5rIWTlbcpSFFOZ1bZ8Q"
+      },
+      "artists": [
+        {
+          "name": "Robinson Roe",
+          "url": "https://open.spotify.com/artist/5IjUr7lUdZ1mOUluaYpKZE"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151415,
+      "name": "Simmer",
+      "url": "https://open.spotify.com/track/0D8dzxPNbYA0Ck2auTnWGS"
+    },
+    {
+      "album": {
         "name": "ski",
         "url": "https://open.spotify.com/album/3qNwujX4830cwz74lpksQA"
       },
@@ -10332,7 +10404,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 170100,
       "name": "Spin",
       "url": "https://open.spotify.com/track/3SYVkFt9xCEivtpHlia9yT"
@@ -10541,6 +10613,24 @@
     },
     {
       "album": {
+        "name": "Submerge",
+        "url": "https://open.spotify.com/album/3yMjoLQgkX3nuQS3iNrKeU"
+      },
+      "artists": [
+        {
+          "name": "Rick Groove",
+          "url": "https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159166,
+      "name": "Submerge",
+      "url": "https://open.spotify.com/track/5DIRSKcJSR3TVNCv1jHo67"
+    },
+    {
+      "album": {
         "name": "Summer Right",
         "url": "https://open.spotify.com/album/3VgihfMkwj432VOQBGGWNJ"
       },
@@ -10552,7 +10642,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 185377,
       "name": "Summer Right",
       "url": "https://open.spotify.com/track/1m1s63EvtvXuLSHR6GdBQD"
@@ -12406,7 +12496,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 221404,
       "name": "We'll Find A Way Through",
       "url": "https://open.spotify.com/track/31EnI88lj1SaCEshkj7YAQ"

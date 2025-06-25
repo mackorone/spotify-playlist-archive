@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 박찬영\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 지윤해\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-583 songs - 1 day 10 hr 28 min
+585 songs - 1 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Hide And Seek \(with Cho Jung Chi\)](https://open.spotify.com/track/40YR1sAECqtYHaiN4wzQ9e) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Hide And Seek \(with Cho Jung Chi\)](https://open.spotify.com/album/7ttphjk6H0f6fQ95WyOp5b) | 1:28 | 2022-03-31 | 2022-04-18 |
 | [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 | 2022-03-07 | 2022-07-29 |
 | [HOME](https://open.spotify.com/track/5TgEh8iGP5sfusUa1R5Z0H) | [HANUM](https://open.spotify.com/artist/6VniDsTqx9dE63GYUWM5AH) | [HOME](https://open.spotify.com/album/4iXVWGwbnDMI78HAx5WRT0) | 2:53 | 2022-12-20 | 2023-01-11 |
-| [home town](https://open.spotify.com/track/0UM7QmLlgoMOgwohLPtXbB) | [iseo](https://open.spotify.com/artist/1sJcgK5qmEdJzFtw7EGKHy) | [hometown](https://open.spotify.com/album/251GBeMnMBt09acRMBsOKb) | 3:01 | 2025-06-09 |  |
+| [home town](https://open.spotify.com/track/0UM7QmLlgoMOgwohLPtXbB) | [iseo](https://open.spotify.com/artist/1sJcgK5qmEdJzFtw7EGKHy) | [hometown](https://open.spotify.com/album/251GBeMnMBt09acRMBsOKb) | 3:01 | 2025-06-09 | 2025-06-25 |
 | [hometown](https://open.spotify.com/track/7MOMJntlnsDH95Q9KBbpGh) | [HAEBIN](https://open.spotify.com/artist/79e9aBzsPX9kSAqUxMNKQL) | [hometown](https://open.spotify.com/album/2OQOLKNqzQJAaRgEsQC3z3) | 3:13 | 2022-03-31 | 2022-04-20 |
 | [Hometown](https://open.spotify.com/track/40uuLH4QBKPL7JzhopBihc) | [The One](https://open.spotify.com/artist/3eAsBHDYXtCSn67Zynq3Qd) | [Hometown Sounds Samcheok Part.1](https://open.spotify.com/album/3Z72JdjTIYAepQl1yYdKyj) | 3:55 | 2022-03-31 | 2022-04-20 |
 | [HONEY](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 | 2021-12-10 |  |
@@ -246,7 +246,7 @@
 | [It's Love](https://open.spotify.com/track/5orHjvcyt71Sv1O4M1GSHf) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:57 | 2022-04-12 | 2023-09-20 |
 | [it's you](https://open.spotify.com/track/19VPsz9u0PnHoIJoTPnIZz) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z), [colin](https://open.spotify.com/artist/23ILHWqZRWApKJZMSCEdty) | [it's you](https://open.spotify.com/album/5Vz21Tl66jUraTeMUT5vH5) | 3:02 | 2025-02-18 | 2025-03-15 |
 | [It’s Okay To Cry](https://open.spotify.com/track/5JxWTxU8trBOfLmeHReKHZ) | [LIM HEON IL](https://open.spotify.com/artist/1NaPFRqmf4eMTGfIR3eXwR), [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [It’s Okay To Cry](https://open.spotify.com/album/3fcD3HSeakYnWjFc1wNoXy) | 4:26 | 2022-03-31 | 2022-04-09 |
-| [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 | 2021-12-10 | 2025-06-18 |
+| [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 | 2021-12-10 |  |
 | [I′m Coming Home](https://open.spotify.com/track/0dfK89MvMnBQcpdbW5f9tx) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Jirisan \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/77YNd9Ym3wycCakmOaKfAp) | 4:06 | 2022-04-12 | 2022-06-12 |
 | [joe](https://open.spotify.com/track/5xK6rTa5KDTIbmWDnat1O9) | [kimujoo](https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf) | [joe](https://open.spotify.com/album/0zNgEt5hOx9QdyteuMjw7G) | 3:11 | 2023-06-13 | 2023-07-08 |
 | [Journey](https://open.spotify.com/track/3A2DT3EiyTm6RuB1nfmqBQ) | [Lilynote](https://open.spotify.com/artist/4QcKjUGzgENQ612RgZHjQH) | [Journey](https://open.spotify.com/album/35yc9Ib7M8Gy0KrFI67SdO) | 4:00 | 2022-03-31 | 2022-04-18 |
@@ -400,7 +400,7 @@
 | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd) | 3:40 | 2022-03-18 | 2022-07-29 |
 | [Slowly](https://open.spotify.com/track/1DSjB1I3OSvAPp9GXLj1Mm) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Slowly](https://open.spotify.com/album/7mCNiQanfqb34Bru9mCsLU) | 3:37 | 2022-04-12 | 2022-04-16 |
 | [Slowly Surely \- Acoustic Ver.](https://open.spotify.com/track/6EgDfIawG7x5957YCAzfB5) | [moderniq](https://open.spotify.com/artist/3m6WVewMgiOVsskjmELMKY) | [Slowly Surely](https://open.spotify.com/album/6LFmHBHFTo9p61n5f4DbjW) | 3:09 | 2022-03-31 | 2022-04-12 |
-| [Slowly, I Fall For you](https://open.spotify.com/track/3othkA3vUpgOBeOyQ7i97z) | [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Slowly, I Fall For you](https://open.spotify.com/album/1iNg2HlUkxiOcYF8EXO3UG) | 4:54 | 2025-06-09 |  |
+| [Slowly, I Fall For you](https://open.spotify.com/track/3othkA3vUpgOBeOyQ7i97z) | [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Slowly, I Fall For you](https://open.spotify.com/album/1iNg2HlUkxiOcYF8EXO3UG) | 4:54 | 2025-06-09 | 2025-06-25 |
 | [Smile \(웃으며 넘길래\)](https://open.spotify.com/track/6CqSP1I9RPOWxWxXnSWSlD) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [Looking Around](https://open.spotify.com/album/4hV2bO3zsWbnwKEv1aCFCV) | 3:55 | 2022-03-31 | 2022-04-06 |
 | [Snowflake](https://open.spotify.com/track/5EQjiY74P2KPjWbuTjTnkx) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS), [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [Snowflake](https://open.spotify.com/album/5zKyL00osBKjChWdhEEgzf) | 3:21 | 2022-01-13 | 2022-04-14 |
 | [So life goes on](https://open.spotify.com/track/046Gh1kXtPynYPaKep5M8E) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [So life goes on](https://open.spotify.com/album/3r8ikIUe63N5vhmqzqzi36) | 3:14 | 2022-01-10 |  |
@@ -439,7 +439,8 @@
 | [Summer gone by \(Feat\. MORI\)](https://open.spotify.com/track/6XYNKhfq3bucZVrP8kp0DO) | [1014](https://open.spotify.com/artist/6DrNvtiDIKjnRsb7S67iKx), [Mori](https://open.spotify.com/artist/1BNvKAHE63KEhzYHDarlpT) | [Summer gone by \(Feat\. MORI\)](https://open.spotify.com/album/4jW8sXbG23vSJe1qxgh5vx) | 3:27 | 2022-03-31 | 2022-04-11 |
 | [Summer night](https://open.spotify.com/track/5jAmRmTCrSueBF2O7mqI1I) | [for\_the\_poet](https://open.spotify.com/artist/4LzAduZVy0eNJxbe4fwbuX) | [Summer night](https://open.spotify.com/album/0J25ZbYJdZOIa1nDoYCJTP) | 3:19 | 2022-08-19 | 2022-09-03 |
 | [Summer Night](https://open.spotify.com/track/4SPSIlALa6SJMay3SQi7Mp) | [Kim Kyu Jong](https://open.spotify.com/artist/3WMXYNpeC5Z5POJdES9VDp) | [Summer Night](https://open.spotify.com/album/66r2jNtBUScalDYJOtbDG8) | 3:34 | 2022-03-31 | 2022-04-05 |
-| [summerless](https://open.spotify.com/track/5mK4gz7F6zRv0cJP4HlWRl) | [본하](https://open.spotify.com/artist/26oPZPY5H08ViuL52JDqKS) | [summerless](https://open.spotify.com/album/15UTXE6WIeQZsKt1qJALsL) | 3:06 | 2025-05-26 |  |
+| [summer youth](https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [summer youth](https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB) | 3:37 | 2025-06-24 |  |
+| [summerless](https://open.spotify.com/track/5mK4gz7F6zRv0cJP4HlWRl) | [본하](https://open.spotify.com/artist/26oPZPY5H08ViuL52JDqKS) | [summerless](https://open.spotify.com/album/15UTXE6WIeQZsKt1qJALsL) | 3:06 | 2025-05-26 | 2025-06-25 |
 | [Sunny Days, Summer Nights](https://open.spotify.com/track/4fi9IIcjYzxRTRwJUyFO6Q) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 4:09 | 2021-12-10 |  |
 | [SUPERCAR](https://open.spotify.com/track/49OWLslwYgeMZlTflhmgzR) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:42 | 2022-07-04 | 2022-08-10 |
 | [Sweet dream](https://open.spotify.com/track/1DP9vgW2iuSzP2Krk1JkiY) | [MIND U](https://open.spotify.com/artist/4qV3XiR4FiExupNDZ4HeYN) | [Someone's playlist \#6](https://open.spotify.com/album/3VbivLC3qr9JCqAEAx5PqW) | 4:22 | 2022-06-18 | 2022-07-05 |
@@ -475,6 +476,7 @@
 | [Though I Want To Complain \(feat\. Lee Min Hyuk\)](https://open.spotify.com/track/0KSO2jskXjBIZqfutot8VT) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [GODAK](https://open.spotify.com/artist/1ul4BJWyGZ6DGJcQ2LoFrn), [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Though I Want To Complain \(feat\. Lee Min Hyuk\)](https://open.spotify.com/album/5ACynX9ZoIGr9qJydtRaiU) | 3:07 | 2022-03-31 | 2022-04-20 |
 | [Through the Night](https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Through the Night](https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld) | 4:13 | 2021-12-10 |  |
 | [Time’s Up](https://open.spotify.com/track/68OeJN8El9Yc5EOmVP9MFa) | [Hajin](https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu) | [The Interest of Love \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/0mdnc4j51htd1nPCgJs2ao) | 3:46 | 2023-01-25 | 2025-02-07 |
+| [tinker\-ton](https://open.spotify.com/track/40eL9mTzbnH0LAdBdygzra) | [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [tinker\-ton](https://open.spotify.com/album/2avC99Nl5Mg0BvJwn6mYgZ) | 3:27 | 2025-06-24 |  |
 | [To All 서른에게 \- Guitar Ver](https://open.spotify.com/track/5ssqQrQJMNCXhp6F1gXd6r) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jeon So Hyun](https://open.spotify.com/artist/3jMgodiEy9ze7ksHxPkc9v) | [To All 서른에게](https://open.spotify.com/album/63M6yzXRbwWH3nW8ZdRlOZ) | 4:27 | 2022-03-31 | 2022-04-12 |
 | [To Love You More](https://open.spotify.com/track/0wnFLe7zakzjBcw12cuyyP) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [To Love You More](https://open.spotify.com/album/7Kkti9u35dqFzI9rhqTLJn) | 4:06 | 2025-01-14 | 2025-01-25 |
 | [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 | 2021-12-10 | 2022-05-15 |

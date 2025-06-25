@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- Utsavi Jha
 
-270 songs - 14 hr 51 min
+271 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [jaaye na tu](https://open.spotify.com/track/6dCpB0vj7xrBMyOH0mDuNN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Nishu](https://open.spotify.com/artist/0BoaYtrYdoKJ4khvk3KRJJ) | [Genesis 1:1](https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f) | 2:23 | 2023-05-02 | 2024-05-09 |
 | [Jab Mila Tu](https://open.spotify.com/track/6y7GIEEmOatGnxZzVdGd8W) | [Arya Salvi](https://open.spotify.com/artist/4qDaKljCW1TrVRkOK3sXHF) | [Jab Mila Tu](https://open.spotify.com/album/5H76HdKdMHZKElVD6k3bHU) | 2:38 | 2025-05-30 |  |
 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 | 2023-05-02 |  |
+| [Jhoom Jhoom](https://open.spotify.com/track/0rdoFMxuzx24AsnvfHjBEx) | [Priyakshi Pachani](https://open.spotify.com/artist/5Mm8IaGkfrjF4ZF6eIjj1P), [Ayesha Mukherjee](https://open.spotify.com/artist/6UmnySzyIpaZjAu6Rs5lA0), [Arnab Bashistha](https://open.spotify.com/artist/0nLfD8OW4b380nSxUKB12t) | [Jhoom Jhoom](https://open.spotify.com/album/1DNtCbU6N2lKue5fNTqbQT) | 3:15 | 2025-06-24 |  |
 | [Ji Huzoor](https://open.spotify.com/track/39ggRcAkMFo9V1dFDVFBNr) | [Sparsh Shrivastava](https://open.spotify.com/artist/1y8VAILCAHObUlajKTm2mv) | [Ji Huzoor](https://open.spotify.com/album/3PFgdRRFP4QjH7LX7XrUah) | 2:46 | 2025-05-13 |  |
 | [Jogan](https://open.spotify.com/track/0Szj0LBTvfXmxgIXFGqg4H) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Devashri Manohar](https://open.spotify.com/artist/3RZPXSfPo0Fqr18tVXeuW1) | [Jogan / Preet](https://open.spotify.com/album/7wLuY53xqzFDf52LvxW4qS) | 2:38 | 2023-12-15 | 2024-01-25 |
 | [Jogiya](https://open.spotify.com/track/7MU4WVkk08iWn61vLxGU9C) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Chandreyee Bhattacharya](https://open.spotify.com/artist/3mH3uFlFhSCBJ9iJRrTtxy), [Nilanjan Samadder](https://open.spotify.com/artist/534gzAUm9B9d5jFkWR0y4A) | [Jogiya](https://open.spotify.com/album/3HDp3VjwowVEIkWkVpP15W) | 3:16 | 2023-10-11 | 2023-11-07 |
@@ -161,7 +162,7 @@
 | [Mazaakiyan](https://open.spotify.com/track/6k7NmvQ4K4v2b9ZqOZ9GYz) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Mazaakiyan](https://open.spotify.com/album/4K8RsN4S41LAP7XAIpuMSM) | 2:28 | 2023-10-11 | 2023-11-16 |
 | [Mera Ishq](https://open.spotify.com/track/0mIpoTx5eetKSdr6YEbu3H) | [Sagar Bhatia](https://open.spotify.com/artist/6KmhY2pDjTTdRpSB59etA4), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9) | [Mera Ishq](https://open.spotify.com/album/0Q953EBSXukY8hQAP8DtHr) | 3:57 | 2023-12-15 | 2025-01-21 |
 | [Mera Yaar Purana](https://open.spotify.com/track/6cairzZ63nzUUJaxllcIgs) | [Mansa Jimmy](https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Mera Yaar Purana](https://open.spotify.com/album/6ZKiRrv89ejlY25O0VQ8v8) | 5:19 | 2024-09-20 | 2024-10-12 |
-| [Mere Ranjhana](https://open.spotify.com/track/04Oswb5okIbIzMyKVBSbMH) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Mere Ranjhana](https://open.spotify.com/album/2F8arPSNA94kkSPTyShIoj) | 3:42 | 2023-12-15 |  |
+| [Mere Ranjhana](https://open.spotify.com/track/04Oswb5okIbIzMyKVBSbMH) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Mere Ranjhana](https://open.spotify.com/album/2F8arPSNA94kkSPTyShIoj) | 3:42 | 2023-12-15 | 2025-06-25 |
 | [Meri Baari](https://open.spotify.com/track/0XdDE6lmn5srPDUDBq5xcg) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Meri Baari](https://open.spotify.com/album/6CZIFpN6kaO3BRnlZoACbB) | 3:19 | 2023-05-02 |  |
 | [Meri Baaton Mein Tu](https://open.spotify.com/track/5nTbPFqLKmQdIg1SD8KgG4) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Meri Baaton Mein Tu](https://open.spotify.com/album/4L79tNWi1gfRrbuzW0Vwfn) | 3:33 | 2023-05-02 | 2023-10-13 |
 | [Meri Baaton Mein Tu](https://open.spotify.com/track/1xSKxa1J5NHMQBX4wMZW2g) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Meri Baaton Mein Tu](https://open.spotify.com/album/2Cm69fZkrq4zy0Yun0M54G) | 3:34 | 2023-10-11 | 2024-04-19 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Angie Stone. The essential tracks, all in one playlist.",
-  "num_followers": 25457,
+  "num_followers": 25461,
   "original_name": "This Is Angie Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFdHgAAAAABNoucf6Q9RmPDfST721GRA",
+  "snapshot_id": "aFiZAAAAAADLRJQ+sZMpTxuGyFJz87We",
   "tracks": [
     {
       "added_at": null,
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets - Love & Soul",
-        "url": "https://open.spotify.com/album/69XGRDK4bcb0pSEgIV05tC"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        },
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 289271,
-      "name": "Love TKO",
-      "url": "https://open.spotify.com/track/37ap6nCrkAew8dPVsGj1QD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 199893,
       "name": "The Gym",
       "url": "https://open.spotify.com/track/5aCV1ShX2YWtYICZc1qBTK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duets - Love & Soul",
+        "url": "https://open.spotify.com/album/69XGRDK4bcb0pSEgIV05tC"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        },
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 289271,
+      "name": "Love TKO",
+      "url": "https://open.spotify.com/track/37ap6nCrkAew8dPVsGj1QD"
     },
     {
       "added_at": null,

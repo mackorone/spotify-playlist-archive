@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 새소년 \(SE SO NEON\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-973 songs - 2 day 11 hr 25 min
+974 songs - 2 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [first flight \(feat\. GARTENG\)](https://open.spotify.com/track/3gCP1AG9SDjFgcnmKOK4Cj) | [A ro](https://open.spotify.com/artist/3EnmdxPuVgad4oxe2RTiOq), [GARTENG](https://open.spotify.com/artist/7LjPkPjxQH5o4h2QLp11wZ) | [first flight](https://open.spotify.com/album/1V6KyBbnQbrJsgMTyYHVcz) | 4:26 | 2024-11-06 | 2024-11-13 |
 | [First love](https://open.spotify.com/track/5e0asTvcPu6sOXJOdtP8kU) | [Kim Bada](https://open.spotify.com/artist/5OBvrcugjadLmcYy3ecTXW) | [KIMBADA First love](https://open.spotify.com/album/61lqcDSHMhOTSFmcbxeU2k) | 3:49 | 2025-01-30 | 2025-03-18 |
 | [First Love](https://open.spotify.com/track/3yQgMtun8ilpM9Rba4RBMo) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [First Love](https://open.spotify.com/album/6bq0dbGHprWjuunLfdrcxf) | 3:14 | 2025-05-21 | 2025-05-26 |
+| [First Sight](https://open.spotify.com/track/5hQRt83sxBT4nNHF8ux8iQ) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [First Sight](https://open.spotify.com/album/6zQpQHGZZA6OZcF1meqpUI) | 3:33 | 2025-06-24 |  |
 | [Flame](https://open.spotify.com/track/1Qg4qHeb1DK1FdwjxgbGt6) | [김한겸](https://open.spotify.com/artist/01qikWSwB9BtwXkxXyBcWJ) | [Military Prosecutor Doberman, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/5ruhTOVA7QJSkaNuLC4Xp2) | 3:22 | 2022-05-24 | 2022-05-30 |
 | [Flare](https://open.spotify.com/track/5qvCcpVLeYGwJSIP2aU5uP) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [PANORAMA](https://open.spotify.com/album/5KCwE9Ev3dhkvQOzPCR6Yx) | 6:03 | 2022-04-22 | 2022-07-27 |
 | [Flash](https://open.spotify.com/track/20jlpOzNCCZzqkeVAQm8rV) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Cape](https://open.spotify.com/album/626dbHFyezrT6lBxvjN6iq) | 4:57 | 2024-11-29 | 2025-01-02 |
@@ -564,7 +565,7 @@
 | [NOIZY](https://open.spotify.com/track/7Achen2ErZs7RQxd32oP20) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [FL1P](https://open.spotify.com/album/743UGdLJrUkteIeP1un8X2) | 3:23 | 2022-05-11 | 2022-05-17 |
 | [Normal Love](https://open.spotify.com/track/5S3kJyqUmYgF0sbD00Ao8K) | [wYte](https://open.spotify.com/artist/6ku0yqiBqUvtZ16Pi3soDC) | [Normal Love](https://open.spotify.com/album/1Y2OnLgXy5Pa7m0YHY5PGQ) | 3:24 | 2024-05-02 | 2024-05-10 |
 | [Nostalgia](https://open.spotify.com/track/2dneZ2MsPvw8NH1XOFX5gF) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [The Earth](https://open.spotify.com/album/7geKrP223ZpIZp6yJPtFFr) | 3:30 | 2024-12-18 | 2025-03-07 |
-| [Not But Disco](https://open.spotify.com/track/0zYh96PnOBI8zFCHedpSzc) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Not But Disco](https://open.spotify.com/album/0maHyVb700DeV5b76MdpeG) | 3:44 | 2025-05-13 |  |
+| [Not But Disco](https://open.spotify.com/track/0zYh96PnOBI8zFCHedpSzc) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Not But Disco](https://open.spotify.com/album/0maHyVb700DeV5b76MdpeG) | 3:44 | 2025-05-13 | 2025-06-25 |
 | [not even close](https://open.spotify.com/track/1jITrOKQdU6LbaosTXCt0i) | [isnotequalto](https://open.spotify.com/artist/2wDEeSb27uMLqlT8Bx9TuF) | [not even close](https://open.spotify.com/album/6udZp5kz6Qs86hCjjRy1zN) | 2:53 | 2022-06-18 | 2022-06-21 |
 | [not gonna love](https://open.spotify.com/track/0scY0FycWIn2ut429xuMja) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:12 | 2022-06-23 | 2022-06-26 |
 | [not me not mine](https://open.spotify.com/track/0q7lWRi07OMLWSwm0vHIwJ) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [not me not mine](https://open.spotify.com/album/09VUrzSER2CE0geP6odR1y) | 5:16 | 2024-01-31 | 2024-05-10 |

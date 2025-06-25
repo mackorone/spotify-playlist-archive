@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 4350,
+  "num_followers": 4354,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFdHgAAAAADCF17G1TU21Dk8GKZK7nAK",
+  "snapshot_id": "aFiZAAAAAADeVXQDjs9ipIfYpNc/AHhe",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deflector",
-        "url": "https://open.spotify.com/album/093ZXKn597MVIth3gvqcKh"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Green",
-      "url": "https://open.spotify.com/track/7Elxs3hCKEiHfOv7rb6F70"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lament",
         "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 200871,
       "name": "Lament",
       "url": "https://open.spotify.com/track/2W6o5dI0sfWRafsusPWZHJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deflector",
+        "url": "https://open.spotify.com/album/093ZXKn597MVIth3gvqcKh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/7Elxs3hCKEiHfOv7rb6F70"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 92976,
-      "name": "History Reshits Itself",
-      "url": "https://open.spotify.com/track/68bm9z3WOGCnnqmOrm6PeT"
+      "duration_ms": 98517,
+      "name": "Suckerfish",
+      "url": "https://open.spotify.com/track/24GkGstdibYrnnhfZWsFE4"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 98517,
-      "name": "Suckerfish",
-      "url": "https://open.spotify.com/track/24GkGstdibYrnnhfZWsFE4"
+      "duration_ms": 92976,
+      "name": "History Reshits Itself",
+      "url": "https://open.spotify.com/track/68bm9z3WOGCnnqmOrm6PeT"
     },
     {
       "added_at": null,

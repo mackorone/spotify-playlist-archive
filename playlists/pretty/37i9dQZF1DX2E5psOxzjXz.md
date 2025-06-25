@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Omar Mukhtar
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,566 likes - 98 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,572 likes - 98 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

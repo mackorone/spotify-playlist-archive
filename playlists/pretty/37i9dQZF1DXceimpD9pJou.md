@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Mireyli Rosa y Dariann González
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,696 likes - 100 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,695 likes - 100 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 15 | [Deja](https://open.spotify.com/track/5iAm9R4AJzOEIzZJS4E5pd) | [Aline Souza](https://open.spotify.com/artist/0BHCwfUMWR6sfefxO9H0rI) | [Deja](https://open.spotify.com/album/6YYi2v0hBC2SXZfs51BGhl) | 4:09 |
 | 16 | [Yo Te Voy A Amar \- Versión Acústica \(Piano & Voz\)](https://open.spotify.com/track/68r5HNyXEIOLF6NOe9jfnU) | [Edson Nuñez](https://open.spotify.com/artist/3dBVADVw0S1wdv0PKbDaMT) | [Yo Te Voy A Amar \[Versión Acústica \(Piano & Voz\)\]](https://open.spotify.com/album/2JwL7O3c3KZpS1lL4LXi73) | 4:30 |
 | 17 | [Nuestro Dios Es Fiel \- En Vivo](https://open.spotify.com/track/6OXPcHNL0Y4GHe8EImPOOf) | [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Nuestro Dios Es Fiel \(En Vivo\)](https://open.spotify.com/album/2aVa1BUvnd5DppqSEDCzR8) | 5:43 |
-| 18 | [Todo lo entrego a Ti](https://open.spotify.com/track/7jwcIVhWVZINSsHaLjDEuK) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Cuánto Te Amo](https://open.spotify.com/album/5RAfoek4jngJ5JXhDdRbdn) | 4:28 |
+| 18 | [Todo lo entrego a Ti](https://open.spotify.com/track/7jwcIVhWVZINSsHaLjDEuK) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Cuánto Te Amo](https://open.spotify.com/album/5RAfoek4jngJ5JXhDdRbdn) | 4:28 |
 | 19 | [All Hail King Jesus/Gloria A Cristo \- En Vivo](https://open.spotify.com/track/1nZzKLbuxZhxcyefxBDnks) | [Emi Valenzuela](https://open.spotify.com/artist/0GJt3brt5lgw3o9bmeD0Ux), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [All Hail King Jesus/Gloria A Cristo \(En Vivo\)](https://open.spotify.com/album/7suttvAFC5CQCRWsrignVX) | 7:21 |
 | 20 | [Holy Forever \- Español \(feat\. Miel San Marcos\)](https://open.spotify.com/track/18uc7CE54coTBtZ9OXKkb2) | [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Holy Forever \- Español \(feat\. Miel San Marcos\)](https://open.spotify.com/album/1tn8OCv830LdTI1G6GGZPF) | 5:08 |
 | 21 | [Este Es Mi Dios](https://open.spotify.com/track/7E33H5cyU0C9OsnfKHnlOE) | [Eric Bustamante](https://open.spotify.com/artist/18l3k6ykopWuzk0Z3yrhyW), [Factor de Cambio](https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb) | [Este Es Mi Dios](https://open.spotify.com/album/4ijfT3tkh9AL4NeSC6DzKH) | 3:57 |

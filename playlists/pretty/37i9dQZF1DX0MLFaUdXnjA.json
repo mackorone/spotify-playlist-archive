@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to the chillest pop.  Cover: Addison Rae",
-  "num_followers": 1842423,
+  "num_followers": 1842360,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFTc5QAAAABDrCzWMP/FR3m6f+YLHlB/",
+  "snapshot_id": "aFoaAQAAAAAifJqLHDkQ1LCt96wOYkxy",
   "tracks": [
     {
       "added_at": "2025-06-20 04:00:37",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/6H2PoOGLifwRBm9TmkHriB"
     },
     {
+      "added_at": "2025-04-04 04:00:24",
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/3TqBGTBmONLgkO3OxDipkg"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg"
+    },
+    {
       "added_at": "2025-03-18 21:44:08",
       "album": {
         "name": "Ordinary",
@@ -105,20 +121,20 @@
       "url": "https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC"
     },
     {
-      "added_at": "2025-04-04 04:00:24",
+      "added_at": "2025-06-24 03:22:41",
       "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/3TqBGTBmONLgkO3OxDipkg"
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/1vuq0WLHEMPZ1xRcMWJkiM"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
         }
       ],
-      "duration_ms": 197533,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg"
+      "duration_ms": 178857,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/1kybBeFkZLhwkEDipwQWVL"
     },
     {
       "added_at": "2025-06-06 04:00:19",
@@ -143,6 +159,22 @@
       "duration_ms": 201284,
       "name": "The Little Mess You Made",
       "url": "https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX"
+    },
+    {
+      "added_at": "2025-01-10 05:00:33",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 180746,
+      "name": "BMF",
+      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
     },
     {
       "added_at": "2024-08-31 03:39:11",
@@ -191,22 +223,6 @@
       "duration_ms": 215200,
       "name": "Nobody New",
       "url": "https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg"
-    },
-    {
-      "added_at": "2025-01-10 05:00:33",
-      "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 180746,
-      "name": "BMF",
-      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
     },
     {
       "added_at": "2025-03-21 04:00:41",

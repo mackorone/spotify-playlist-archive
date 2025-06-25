@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-562 songs - 1 day 13 hr 16 min
+563 songs - 1 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,7 +415,7 @@
 | [Pretty Slick](https://open.spotify.com/track/0yI3CQlUABw6ZH8g6Dg0Uu) | [Oya Paya](https://open.spotify.com/artist/4HHt0NMWW2JEUosUiiPVNz) | [Pretty Slick](https://open.spotify.com/album/33poKu2pJAyrUfO7Ni3ncW) | 2:45 | 2022-01-14 | 2022-05-25 |
 | [Promised Land](https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR) | 5:31 | 2022-04-15 | 2022-04-20 |
 | [Promises](https://open.spotify.com/track/6e9QdWYdMbVAZVDpG8apU3) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Promises](https://open.spotify.com/album/4IOamu4brK3tYLkXIaPsZK) | 2:43 | 2025-04-10 |  |
-| [Pure Shores](https://open.spotify.com/track/1qLEtiVIMaYmUOeGJUSoPQ) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Pure Shores](https://open.spotify.com/album/2ExKBieLvOEDmm3gjlTGn2) | 3:59 | 2025-06-19 |  |
+| [Pure Shores](https://open.spotify.com/track/1qLEtiVIMaYmUOeGJUSoPQ) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Pure Shores](https://open.spotify.com/album/2ExKBieLvOEDmm3gjlTGn2) | 3:59 | 2025-06-19 | 2025-06-25 |
 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 | 2023-05-22 |  |
 | [Rainbow](https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Rainbow](https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1) | 2:56 | 2024-05-10 | 2024-11-05 |
 | [Rainbow Road](https://open.spotify.com/track/3MJXbFkCPJhu0i7tsiOXJa) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Rainbow Road](https://open.spotify.com/album/2qO9xeTX6Saig34VZtdg3g) | 5:27 | 2021-12-03 | 2022-04-20 |
@@ -448,6 +448,7 @@
 | [Saying Goodbye is Exhausting \- YSKWN! Sad Dancefloor Version](https://open.spotify.com/track/2m0v5XhphM2JCqUEOTI8qR) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [Justin Vivian Bond](https://open.spotify.com/artist/7BeTLKIHLguUVyIrFP92jY) | [Saying Goodbye is Exhausting](https://open.spotify.com/album/4NhTXrbFoCKhjMnGGswnIu) | 4:55 | 2022-04-06 | 2022-04-09 |
 | [Seasoning \(feat\. 2b.Frank\)](https://open.spotify.com/track/0kIim0efkAEH8y0AUctVDt) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn), [2b.Frank](https://open.spotify.com/artist/3CGeuME9z3whBbGdMNn2hS) | [Seasoning](https://open.spotify.com/album/4oGm7MGGkXCtWH7H2phRfI) | 3:23 | 2024-01-05 | 2025-06-16 |
 | [Second Story Sunlight](https://open.spotify.com/track/0Eo3XP7EprBsturqNahuJ7) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Second Story Sunlight](https://open.spotify.com/album/3PhyRzz7sT2tqp05ebeoK6) | 3:59 | 2021-12-03 | 2022-06-13 |
+| [See It As A Sign](https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [See It As A Sign](https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp) | 2:54 | 2025-06-19 |  |
 | [Self Love](https://open.spotify.com/track/5489cZv0Sf24kOWN8sModo) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Self Love](https://open.spotify.com/album/1QhEe7Dg2og3MpyEq2YNF1) | 2:52 | 2025-02-14 |  |
 | [Sensual Loving](https://open.spotify.com/track/6Kifb1yWQg8BmM4QdgLwiv) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA) | [Sensual Loving](https://open.spotify.com/album/6Wq6nQZP24QbCrlLuM61vm) | 2:52 | 2022-04-06 | 2022-04-19 |
 | [September](https://open.spotify.com/track/0vO9JzWoVdo7T9BKDvTGvY) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs), [Family Habits](https://open.spotify.com/artist/7yxQ5wpTnQNvwNHYOplK0Y) | [September](https://open.spotify.com/album/2Xd3UdUqCoxKeHvFFDW6N5) | 3:24 | 2021-12-03 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-145 songs - 6 hr 33 min
+146 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Free Leaf](https://open.spotify.com/track/0giQ1pVFNHkPqdwzlQlXfZ) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Aint Feeling You \(Bonus Edition\)](https://open.spotify.com/album/5fYuVzVAC9wS0m6rOEvwua) | 1:27 | 2025-02-11 | 2025-06-04 |
 | [Free Rico](https://open.spotify.com/track/7bgfvzEIufDUgwhqIBrmBb) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Aint Feeling You](https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa) | 2:33 | 2025-02-02 | 2025-06-17 |
 | [Free Smoke](https://open.spotify.com/track/5WrxbSuC1hRIsLWmVQ1ryr) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Free Smoke](https://open.spotify.com/album/10PpqGGtkcCGf9DCuPgrtp) | 3:01 | 2023-01-09 | 2023-03-06 |
-| [Free The Shiners](https://open.spotify.com/track/7f0jidOh8lBPZRZpANOEER) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 2:05 | 2022-10-28 | 2025-06-23 |
+| [Free The Shiners](https://open.spotify.com/track/7f0jidOh8lBPZRZpANOEER) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 2:05 | 2022-10-28 |  |
 | [Free Z5](https://open.spotify.com/track/6mAzAx2H1vYWZm83OdsCQO) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Aint Feeling You \(Bonus Edition\)](https://open.spotify.com/album/5fYuVzVAC9wS0m6rOEvwua) | 2:36 | 2025-02-11 | 2025-06-15 |
 | [Gang Nem \(feat\. EST Gee\)](https://open.spotify.com/track/6t4OP550372zgiAof928AR) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Survivor Of The Trenches](https://open.spotify.com/album/41HpilA0zyDdHoAYhS9V13) | 2:23 | 2022-12-04 | 2024-12-07 |
 | [Gangsta Art \(Yo Gotti, Moneybagg Yo feat\. 42 Dugg, EST Gee, Mozzy, Lehla Samia, Blac Youngsta\)](https://open.spotify.com/track/63u4taM8CTklMQhrcV3via) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Lehla Samia](https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb), [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 4:58 | 2022-10-28 | 2023-09-03 |
@@ -136,7 +136,7 @@
 | [Take my time Geeski SH Feb 23](https://open.spotify.com/track/5HX3m4LUWtDjFBtTLd8PHo) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Take my time Geeski SH Feb 23](https://open.spotify.com/album/0cH8XPlr5xRwUWABrGEye6) | 2:54 | 2025-06-07 |  |
 | [THE BIGGEST](https://open.spotify.com/track/7Fr5xo3GHRrJ1Q5kacxrGv) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:15 | 2023-08-21 | 2023-09-19 |
 | [The King](https://open.spotify.com/track/5L4xGFT1D0F9Pp2rL5oXos) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [El Toro](https://open.spotify.com/album/5Toh6bfdNUnxAZHlTbe1b3) | 2:11 | 2024-03-19 | 2025-01-05 |
-| [THE ONE & ONLY](https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:19 | 2023-03-19 |  |
+| [THE ONE & ONLY](https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:19 | 2023-03-19 | 2025-06-25 |
 | [The Realest \(feat\. Jeezy\)](https://open.spotify.com/track/4NMsGNHtpsNJVmKVCkKrnc) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 3:15 | 2022-10-28 |  |
 | [The Streets](https://open.spotify.com/track/0xPmveE21wGQuSdn37iUEo) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [The Streets](https://open.spotify.com/album/3syLZZbG83gE5Jb8zUycBR) | 3:00 | 2024-11-29 | 2024-12-27 |
 | [The Streets](https://open.spotify.com/track/51d7KKWvsuw44mTsghBCMB) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [The Streets](https://open.spotify.com/album/58mHMtgKlzQRnpcW3u06Wn) | 3:00 | 2024-12-27 | 2025-02-05 |
@@ -144,6 +144,7 @@
 | [Thump Shit](https://open.spotify.com/track/4XAQVDjEXZriZR9pe2tdQQ) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Thump Shit](https://open.spotify.com/album/7vDFwwEDt6ftQ0P7izyxAk) | 3:46 | 2022-10-28 |  |
 | [TOAST](https://open.spotify.com/track/5PkN8WUr8NIivKX6uNo61r) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 3:30 | 2023-08-25 | 2023-09-19 |
 | [Trust Nun \(feat\. EST Gee\)](https://open.spotify.com/track/0D77ULkdHxpfbu0NsDLeRL) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Gas God](https://open.spotify.com/album/2Bz7FAQGKk464rBl9oxaVj) | 2:22 | 2022-10-28 | 2025-05-27 |
+| [Tug of War March17](https://open.spotify.com/track/5Ol3Ltzg948mZyNVSacwhx) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 2:37 | 2025-06-25 |  |
 | [TURN THE STREETS UP](https://open.spotify.com/track/0A5fRjPHOLznxrx7dVEpx5) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:42 | 2023-09-15 | 2025-04-21 |
 | [TURN THE STREETS UP](https://open.spotify.com/track/3irk5ecKiBYSIB0350rH87) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Turn The Streets Up](https://open.spotify.com/album/4aCmTJ5xk0O2aVNvciRkoR) | 2:42 | 2023-06-23 | 2023-09-10 |
 | [Turn The Streets Up](https://open.spotify.com/track/7gf04Ez0ffBu5avR2IwK9N) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Turn The Streets Up](https://open.spotify.com/album/0rqgVUSQyjEG0H5WJ89liZ) | 2:42 | 2023-05-27 | 2023-06-24 |
@@ -151,7 +152,7 @@
 | [UNDEFEATED](https://open.spotify.com/track/0LHbGkO5BhmwzeDT8MDdpe) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [UNDEFEATED](https://open.spotify.com/album/7G3dcoDfkZAsCrK3iffaHx) | 2:45 | 2023-02-26 | 2023-05-01 |
 | [UNDEFEATED](https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:45 | 2023-04-30 |  |
 | [US](https://open.spotify.com/track/3mvFjK0yCPMupea0v9MzmT) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:03 | 2023-03-19 | 2023-05-01 |
-| [What Im On Now v1 oct15](https://open.spotify.com/track/0wAiy4PRzYJiytL3kYrzhG) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 3:43 | 2025-06-16 |  |
+| [What Im On Now v1 oct15](https://open.spotify.com/track/0wAiy4PRzYJiytL3kYrzhG) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 3:43 | 2025-06-16 | 2025-06-25 |
 | [XXL](https://open.spotify.com/track/0JdXWoF5EjmFfDQaUFvaov) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:42 | 2023-08-25 | 2024-01-28 |
 
 \*This playlist was first scraped on 2022-10-29. Prior content cannot be recovered.

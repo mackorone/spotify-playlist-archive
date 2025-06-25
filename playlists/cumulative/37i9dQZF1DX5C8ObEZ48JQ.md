@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb?si=I3LD\_dX5RrKdubQlHWqEbw">Anabel Rose</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH?si=oXL6Gyy0R2G7KZZOWcEEIg">Mavo</a>\. Artwork: Isu Kim.
 
-1,335 songs - 2 day 18 hr 45 min
+1,338 songs - 2 day 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Blest](https://open.spotify.com/track/4LAO2eKtesEscel4u76ShJ) | [Yamiko](https://open.spotify.com/artist/6MafTIO7KWHWHXx1L39BDx) | [Rear View Mirror](https://open.spotify.com/album/7oVrQL1uzRnPL9wHmoNbXu) | 3:07 | 2024-09-04 | 2024-10-05 |
 | [Blind](https://open.spotify.com/track/05nQi9vhgIRdm4U3Ibt5Ae) | [Jahplaka](https://open.spotify.com/artist/7LHtDuHQxPma5xK94mexGk) | [Blind](https://open.spotify.com/album/5x9iKmrB20VHunQSud1vy6) | 2:27 | 2023-03-29 | 2023-06-06 |
 | [BLINDED](https://open.spotify.com/track/4x4CAq67HsMLRa0lEZXWhg) | [SUNS3T](https://open.spotify.com/artist/5W3JLL9j3Xwn9wScCLFHSt), [Geejo Hero](https://open.spotify.com/artist/3WMccd0KGHrT5pInPbaVK5), [AUGUST IV](https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T) | [BLINDED](https://open.spotify.com/album/5CgV5HnHNIQFA06FiHzvZP) | 3:05 | 2025-04-02 |  |
+| [Blue Line](https://open.spotify.com/track/7rgPWoN9kVjKdu0aFvfm0t) | [Director P](https://open.spotify.com/artist/52065XdcbWFe2iZZTifhkG), [Rita Ange Kagaju](https://open.spotify.com/artist/0XyKZ2Hdalo52uSA26XY0L) | [Curiosity](https://open.spotify.com/album/4A0QZUDlpQLAee9eCaFX6K) | 2:55 | 2025-06-24 |  |
 | [Blueprint](https://open.spotify.com/track/4mwq55DaCkiptwx1UljRvB) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [The Third Kind](https://open.spotify.com/album/5RswtvkaBBt1KivjwF3Hl4) | 3:28 | 2023-10-10 | 2023-10-26 |
 | [Blues](https://open.spotify.com/track/6hofzLNwXx1PfubLUaLLKG) | [Abi.Deen](https://open.spotify.com/artist/7jzUnmpVSltSJ99j6gX0Sh), [S3kyerewaa](https://open.spotify.com/artist/11hUTgOvMopsRpP3JzXsub) | [Blues](https://open.spotify.com/album/0Drhz709vGb3KuzToVxDKT) | 3:15 | 2023-02-22 | 2023-03-30 |
 | [Blues](https://open.spotify.com/track/6uoyzoymKumUx2oQwHvVd6) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [Kold Szn](https://open.spotify.com/album/5wpQuIHSrmQR5OkFSuDf9D) | 3:01 | 2023-02-22 | 2023-03-30 |
@@ -656,6 +657,7 @@
 | [Lifestyle](https://open.spotify.com/track/6YuC0er4QTtapTlAamM74d) | [Randommuzik](https://open.spotify.com/artist/4OeKf1TH79nu7kW1e82NHk) | [Lifestyle / Tattoo](https://open.spotify.com/album/7mU7DGQe5o3U3yYls1Zr5I) | 3:00 | 2024-10-04 | 2024-11-07 |
 | [Lifestyle](https://open.spotify.com/track/6eSGQKbYnEt2AKFnoopN4J) | [Rhedi](https://open.spotify.com/artist/6i90MGejsqG2b8XgqDlTUI) | [Lifestyle](https://open.spotify.com/album/5zQyxdhWhXtxcc7DbTE7Bx) | 2:16 | 2023-10-25 | 2023-11-30 |
 | [LiFTED](https://open.spotify.com/track/2EdEJviN1641PvVaRAn8oL) | [nova](https://open.spotify.com/artist/4qaGEV5oKKPCawe2qqO8jE) | [LiFTED](https://open.spotify.com/album/1nfeSoe23xqsPbdzU8JL65) | 1:36 | 2023-01-25 | 2023-02-23 |
+| [Light Up](https://open.spotify.com/track/7cPQvg01xbNol5bxhkU5QS) | [GRRRL](https://open.spotify.com/artist/0LFaqcs0KjYIkJTeO8i8lv) | [Light Up](https://open.spotify.com/album/6hdMCMQXidycWKY0QfN7n8) | 3:09 | 2025-06-24 |  |
 | [Lights Down Low](https://open.spotify.com/track/7l5k2x7gv3mWPSTa84AmjE) | [OSO](https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2), [Riunga](https://open.spotify.com/artist/5p6jlUhwtOoesY5LJ2awoN) | [R\-/LBT](https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc) | 3:50 | 2022-10-28 | 2023-01-26 |
 | [Like the Clouds](https://open.spotify.com/track/4LUQ2UIIxSgq9tTcqu7q9e) | [Tai Murape](https://open.spotify.com/artist/0qCwWQGWUw3YyYPjaFCltG) | [Like the Clouds](https://open.spotify.com/album/17kpu9XPvVthKOTH8eunCt) | 5:52 | 2023-06-27 | 2023-07-27 |
 | [LIKE THIS](https://open.spotify.com/track/2DDHFzK8hrJnyBICEft8sT) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR) | [LIKE THIS](https://open.spotify.com/album/19ZbPQ20CWfBWsBnr80VGj) | 4:07 | 2024-02-06 | 2024-03-06 |
@@ -983,7 +985,7 @@
 | [quiet face](https://open.spotify.com/track/0x2GowE3BwQCG7ZAYwiTxC) | [Nyokabi Kariuki](https://open.spotify.com/artist/04vacT34stkfP2TFkNvDf2) | [FEELING BODY](https://open.spotify.com/album/3D2gBvOa2KhfW0qXjN0lHj) | 3:10 | 2023-06-05 | 2023-06-28 |
 | [Qul \(Say\)](https://open.spotify.com/track/76zudB8JWvLYxIsxMOV4MC) | [Tekunbi](https://open.spotify.com/artist/6WHUUUrDpFfo2ru3WN7p2g) | [Qul \(Say\)](https://open.spotify.com/album/52XLdfmkLaBpgYlw07bqQ1) | 2:35 | 2022-09-30 | 2022-10-29 |
 | [radio silence.](https://open.spotify.com/track/71v4C5FtIcJqs2soLAJ6dO) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [what's different\. // radio silence.](https://open.spotify.com/album/56qcks4i9fQqwdrga7QCDR) | 2:10 | 2023-06-27 | 2023-07-27 |
-| [raindrops](https://open.spotify.com/track/3Z7rF416fvZeDiJHbYDRzb) | [Afamefuna](https://open.spotify.com/artist/77xX6GTfHs4OBEBGUtxOuG), [Terrianne Iraki](https://open.spotify.com/artist/2IQSH6zp92t5AaGMx2PltM) | [i.r.l](https://open.spotify.com/album/1bbOePBd59aRiqNV9wvJPH) | 3:29 | 2025-04-02 |  |
+| [raindrops](https://open.spotify.com/track/3Z7rF416fvZeDiJHbYDRzb) | [Afamefuna](https://open.spotify.com/artist/77xX6GTfHs4OBEBGUtxOuG), [Terrianne Iraki](https://open.spotify.com/artist/2IQSH6zp92t5AaGMx2PltM) | [i.r.l](https://open.spotify.com/album/1bbOePBd59aRiqNV9wvJPH) | 3:29 | 2025-04-02 | 2025-06-25 |
 | [Ready](https://open.spotify.com/track/4ymW2EhwtZiVTZiadMC0uW) | [Cathy Matete](https://open.spotify.com/artist/1HwWig74b2zj1B37LeiXfX), [Killah Keys](https://open.spotify.com/artist/0twRdNvSsfwr8m8SKVgr9s) | [Ready](https://open.spotify.com/album/3XgMMmxbWm2ZxaiuuBGWpW) | 3:51 | 2023-09-27 | 2023-10-26 |
 | [Ready 4 Ya](https://open.spotify.com/track/3bcTkS4knT6qBGRVqPnOW9) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI), [Majessty](https://open.spotify.com/artist/0y91S0mvM0OnHcvAuL7mMr) | [Ready 4 Ya](https://open.spotify.com/album/7BffRev7gyTHbzrgEnd8sO) | 3:24 | 2025-03-11 | 2025-04-03 |
 | [Real](https://open.spotify.com/track/1SSNPCkF6rf9hfYWed08Ak) | [Thandi Marie](https://open.spotify.com/artist/2Q85aPuDzcZP8QSSH9tykf) | [Real / Not Your Type](https://open.spotify.com/album/6LbE49EaLhap39A267FPtP) | 2:04 | 2025-01-23 | 2025-03-06 |
@@ -1099,6 +1101,7 @@
 | [Somebody To Love](https://open.spotify.com/track/53lt9sMOPHmFxVy1hDP48J) | [Frank Ireri](https://open.spotify.com/artist/0O1bN5IbSQHpPT5MKXtoDu) | [Somebody To Love](https://open.spotify.com/album/2W024XLRrHAHoxXQfAIuaE) | 2:55 | 2025-05-27 |  |
 | [Someone Like U](https://open.spotify.com/track/1ajm4Ad9ysWgvq9JFf5kwT) | [Her Revenge](https://open.spotify.com/artist/5SrjPqmZawRld9MZNRpmvC) | [Someone Like U](https://open.spotify.com/album/0Kp7jIA0Y4iInpXibMT21X) | 2:22 | 2024-10-04 | 2024-11-07 |
 | [Something Deeper](https://open.spotify.com/track/5TFTu5CiVN0JZsiPIg4Hbv) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [TUNJI JAY](https://open.spotify.com/artist/6OoPKae3UVq8ECQR1OgtM5) | [Something Deeper](https://open.spotify.com/album/1nNZxrErO63HorTg71ejmm) | 3:10 | 2025-03-05 | 2025-03-12 |
+| [SOMETHNG](https://open.spotify.com/track/2O678oKDJdqwbZ7DUbdNA7) | [ATEE BRN](https://open.spotify.com/artist/6pDSMcvvjO5dJP6eutcPQW), [Iddo WurLd](https://open.spotify.com/artist/2J2Fy550EQH639CPpZkFKw), [BadmanQuba](https://open.spotify.com/artist/6a878fm2eYAWD3stiITfxM) | [SOMETHNG](https://open.spotify.com/album/5Hre17S9HoUV1lIP6U04rj) | 2:43 | 2025-06-24 |  |
 | [Sometimes](https://open.spotify.com/track/0q4CRMVCf5o6V1d6c6pVK3) | [Mist'riii](https://open.spotify.com/artist/2ET4fikSmaataNBz8cJM4e) | [Sometimes](https://open.spotify.com/album/4K8SHozX9PLHi2Dst9kCpx) | 3:43 | 2022-09-30 | 2023-01-26 |
 | [Song Of G](https://open.spotify.com/track/6Ug28Tl6LJs2V9fmBmKfeT) | [Meryl Paige](https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [DEDICATED](https://open.spotify.com/album/2INHWNycenPaECsaTPKnbJ) | 4:56 | 2023-03-29 | 2023-06-06 |
 | [SONTO](https://open.spotify.com/track/4BSBfuzVm4G0j9mnslMFgV) | [Solidstar](https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX) | [SONTO](https://open.spotify.com/album/2xNiOmXrK7ntorywRn8OE7) | 3:05 | 2024-04-03 | 2024-05-02 |

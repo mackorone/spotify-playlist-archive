@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 103509,
+  "num_followers": 103532,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-06-20 07:08:02",
       "album": {
+        "name": "Oldskool Sound",
+        "url": "https://open.spotify.com/album/3KYWio1C7RF0lNDR1IRGdx"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "duration_ms": 216363,
+      "name": "Oldskool Sound",
+      "url": "https://open.spotify.com/track/5ksP9EBpgskbG5XpvBDodL"
+    },
+    {
+      "added_at": "2025-06-20 07:08:02",
+      "album": {
         "name": "Let Me Think About It Again",
         "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 195813,
       "name": "Let Me Think About It Again",
       "url": "https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY"
-    },
-    {
-      "added_at": "2025-06-20 07:08:02",
-      "album": {
-        "name": "Oldskool Sound",
-        "url": "https://open.spotify.com/album/3KYWio1C7RF0lNDR1IRGdx"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        }
-      ],
-      "duration_ms": 216363,
-      "name": "Oldskool Sound",
-      "url": "https://open.spotify.com/track/5ksP9EBpgskbG5XpvBDodL"
     },
     {
       "added_at": "2025-06-20 07:08:02",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-06-20 07:08:02",
       "album": {
+        "name": "Waste Your Love",
+        "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 167630,
+      "name": "Waste Your Love",
+      "url": "https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g"
+    },
+    {
+      "added_at": "2025-06-20 07:08:02",
+      "album": {
         "name": "Cross Your Heart",
         "url": "https://open.spotify.com/album/5MaPvkxRrsE9HhrRBacY1l"
       },
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2025-06-20 07:08:02",
       "album": {
-        "name": "Waste Your Love",
-        "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 167630,
-      "name": "Waste Your Love",
-      "url": "https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g"
-    },
-    {
-      "added_at": "2025-06-20 07:08:02",
-      "album": {
         "name": "2:M",
         "url": "https://open.spotify.com/album/7MLuUXFHdDcGHRshuBATOs"
       },
@@ -1379,26 +1379,6 @@
       "duration_ms": 220157,
       "name": "Look Into My Eyes",
       "url": "https://open.spotify.com/track/1fHVz3ffi5k4kASyAITzpN"
-    },
-    {
-      "added_at": "2025-06-20 07:08:02",
-      "album": {
-        "name": "PEGASUS",
-        "url": "https://open.spotify.com/album/0mA286b0mXmbRDSxy2W7P1"
-      },
-      "artists": [
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 180462,
-      "name": "Pegasus",
-      "url": "https://open.spotify.com/track/3m32ApgNXyT8qmON7oSK9U"
     },
     {
       "added_at": "2025-06-20 07:08:02",
@@ -1423,6 +1403,26 @@
       "duration_ms": 142700,
       "name": "Lost My Way",
       "url": "https://open.spotify.com/track/5jPFtwxkrKbpsqFgVE1czX"
+    },
+    {
+      "added_at": "2025-06-20 07:08:02",
+      "album": {
+        "name": "PEGASUS",
+        "url": "https://open.spotify.com/album/0mA286b0mXmbRDSxy2W7P1"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 180462,
+      "name": "Pegasus",
+      "url": "https://open.spotify.com/track/3m32ApgNXyT8qmON7oSK9U"
     },
     {
       "added_at": "2025-06-20 07:08:02",
@@ -1535,22 +1535,22 @@
     {
       "added_at": "2025-06-20 07:08:02",
       "album": {
-        "name": "Don't Fall For Me",
-        "url": "https://open.spotify.com/album/0rOOc8U67BGLXCBxiBKpoJ"
+        "name": "When You're Lonely",
+        "url": "https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW"
       },
       "artists": [
         {
-          "name": "RSCL",
-          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         },
         {
-          "name": "Dastic",
-          "url": "https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A"
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
         }
       ],
-      "duration_ms": 174888,
-      "name": "Don't Fall For Me",
-      "url": "https://open.spotify.com/track/0MYnMotI9017FjYVszNswj"
+      "duration_ms": 159016,
+      "name": "When You're Lonely",
+      "url": "https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc"
     },
     {
       "added_at": "2025-06-20 07:08:02",
@@ -1575,22 +1575,22 @@
     {
       "added_at": "2025-06-20 07:08:02",
       "album": {
-        "name": "When You're Lonely",
-        "url": "https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW"
+        "name": "Don't Fall For Me",
+        "url": "https://open.spotify.com/album/0rOOc8U67BGLXCBxiBKpoJ"
       },
       "artists": [
         {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+          "name": "RSCL",
+          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
         },
         {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+          "name": "Dastic",
+          "url": "https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A"
         }
       ],
-      "duration_ms": 159016,
-      "name": "When You're Lonely",
-      "url": "https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc"
+      "duration_ms": 174888,
+      "name": "Don't Fall For Me",
+      "url": "https://open.spotify.com/track/0MYnMotI9017FjYVszNswj"
     },
     {
       "added_at": "2025-06-20 07:08:02",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2025-06-20 07:08:02",
       "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/0IqYzpvrq2ptT6HDEPwrbF"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 159411,
+      "name": "Lifted",
+      "url": "https://open.spotify.com/track/7stoqVp7FS8Q8g26UCQZX9"
+    },
+    {
+      "added_at": "2025-06-20 07:08:02",
+      "album": {
         "name": "I DON'T KNOW",
         "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 171304,
       "name": "Good Lie",
       "url": "https://open.spotify.com/track/4kkKKawDhsFj37ulsYRFOl"
-    },
-    {
-      "added_at": "2025-06-20 07:08:02",
-      "album": {
-        "name": "Lifted",
-        "url": "https://open.spotify.com/album/0IqYzpvrq2ptT6HDEPwrbF"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 159411,
-      "name": "Lifted",
-      "url": "https://open.spotify.com/track/7stoqVp7FS8Q8g26UCQZX9"
     },
     {
       "added_at": "2025-06-20 07:08:02",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2025-06-20 07:08:02",
       "album": {
-        "name": "Combo",
-        "url": "https://open.spotify.com/album/6stJfQJm5ooEJJoufO41Mn"
-      },
-      "artists": [
-        {
-          "name": "Karma Child",
-          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Combo",
-      "url": "https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS"
-    },
-    {
-      "added_at": "2025-06-20 07:08:02",
-      "album": {
         "name": "Guiding Light",
         "url": "https://open.spotify.com/album/58sgLN9OAebaaf0J1ntW8E"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 163155,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/4Arnh7J9U6YzysVBUNZcR0"
+    },
+    {
+      "added_at": "2025-06-20 07:08:02",
+      "album": {
+        "name": "Combo",
+        "url": "https://open.spotify.com/album/6stJfQJm5ooEJJoufO41Mn"
+      },
+      "artists": [
+        {
+          "name": "Karma Child",
+          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Combo",
+      "url": "https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS"
     }
   ],
   "unique_name": "Dance Workout",

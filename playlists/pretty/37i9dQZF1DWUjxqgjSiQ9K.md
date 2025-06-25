@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Mosaic MSC
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,066 likes - 90 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,208 likes - 90 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Todo lo entrego a Ti](https://open.spotify.com/track/7jwcIVhWVZINSsHaLjDEuK) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Cuánto Te Amo](https://open.spotify.com/album/5RAfoek4jngJ5JXhDdRbdn) | 4:28 |
+| 1 | [Todo lo entrego a Ti](https://open.spotify.com/track/7jwcIVhWVZINSsHaLjDEuK) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Cuánto Te Amo](https://open.spotify.com/album/5RAfoek4jngJ5JXhDdRbdn) | 4:28 |
 | 2 | [Eterno Dios](https://open.spotify.com/track/4Us4fYaik1qi2KsTPDp1S4) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Eterno Dios](https://open.spotify.com/album/4C1H7azlbjrDwK2mVwZVpX) | 5:19 |
 | 3 | [PALABRA \(LA NIÑA DE TUS OJOS\)](https://open.spotify.com/track/0cpoIIX1bxx3om4aa1a1Ju) | [Johan y Sofi](https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [PALABRA \(LA NIÑA DE TUS OJOS\)](https://open.spotify.com/album/4GUlse54pykmZnSm42k9ae) | 9:12 |
 | 4 | [Escucharte Hablar / Dios Ha Sido Bueno](https://open.spotify.com/track/502fS8luNIQWgkvsBFu7a0) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Dariana](https://open.spotify.com/artist/1YFjpz13AtgmLfEo3CX8wv) | [Legado](https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId) | 4:58 |

@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-12",
+      "date_removed": null,
       "duration_ms": 215106,
       "name": "Before You Go",
       "url": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
@@ -3349,6 +3349,24 @@
     },
     {
       "album": {
+        "name": "Diamonds in the Rough",
+        "url": "https://open.spotify.com/album/4jWQAKbHLfGTNafIFnHJdc"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Sayers",
+          "url": "https://open.spotify.com/artist/7HVUS0mQzqTJycdr8SWrwM"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179550,
+      "name": "Diamonds in the Rough",
+      "url": "https://open.spotify.com/track/3yK0tIvWjmnyT4uHEnB9h8"
+    },
+    {
+      "album": {
         "name": "Diet Pepsi",
         "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
       },
@@ -4383,6 +4401,24 @@
     },
     {
       "album": {
+        "name": "Saviours",
+        "url": "https://open.spotify.com/album/6Ympmv3nJhvZGgaG9MsnPl"
+      },
+      "artists": [
+        {
+          "name": "OMENS",
+          "url": "https://open.spotify.com/artist/3eSnI3czh6aPOO49PvNsZ5"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231913,
+      "name": "Firestorm",
+      "url": "https://open.spotify.com/track/0VsQzHb8tkk02Lvqbv0LbA"
+    },
+    {
+      "album": {
         "name": "Flawless",
         "url": "https://open.spotify.com/album/6dIK7kYIYkjRy5qrjaoA6x"
       },
@@ -5247,6 +5283,24 @@
     },
     {
       "album": {
+        "name": "Going Under",
+        "url": "https://open.spotify.com/album/24O2B4BLnUniqKnUBeEDsm"
+      },
+      "artists": [
+        {
+          "name": "Boundary Run",
+          "url": "https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Going Under",
+      "url": "https://open.spotify.com/track/6CnmAXyFJcbF5MgRCBTUF8"
+    },
+    {
+      "album": {
         "name": "this is what falling in love feels like (554Hz)",
         "url": "https://open.spotify.com/album/2uiQo0DIcriQKVm5ivXuDO"
       },
@@ -5540,7 +5594,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-12",
+      "date_removed": null,
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -12772,6 +12826,24 @@
       "duration_ms": 128067,
       "name": "Something's Goin' Down (Boom Boom)",
       "url": "https://open.spotify.com/track/0AW7rAwS604I0qxlIDxcOC"
+    },
+    {
+      "album": {
+        "name": "Somewhere to Go",
+        "url": "https://open.spotify.com/album/6bo3drzOSDnYUdum3Mu7s1"
+      },
+      "artists": [
+        {
+          "name": "Adrian Lyles",
+          "url": "https://open.spotify.com/artist/3R5yFx0z6UkzAiNHCeBqUY"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212259,
+      "name": "Somewhere to Go",
+      "url": "https://open.spotify.com/track/4pGQG1MwAdpU98ed0rCryJ"
     },
     {
       "album": {

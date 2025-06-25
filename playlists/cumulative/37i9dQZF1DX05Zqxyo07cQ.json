@@ -9373,6 +9373,24 @@
     },
     {
       "album": {
+        "name": "Predetermined",
+        "url": "https://open.spotify.com/album/5gitXZTrajp0xyWUkojeTB"
+      },
+      "artists": [
+        {
+          "name": "Luune",
+          "url": "https://open.spotify.com/artist/7CPclBDt5moKFAwjPTvLRM"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155211,
+      "name": "Predetermined",
+      "url": "https://open.spotify.com/track/50ugrXieNRkklm9dVwOCEY"
+    },
+    {
+      "album": {
         "name": "Presence",
         "url": "https://open.spotify.com/album/37Izr0igRkZEUUto8T2OC6"
       },
@@ -13532,7 +13550,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 160000,
       "name": "Waves of Eternity",
       "url": "https://open.spotify.com/track/4rin1uFnoE4y6NhM2YQylb"

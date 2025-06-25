@@ -2878,7 +2878,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 365426,
       "name": "Circle of Trust",
       "url": "https://open.spotify.com/track/76x9lsvahKXzPQVIJQLhDp"
@@ -3610,7 +3610,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 147413,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
@@ -6815,6 +6815,32 @@
     },
     {
       "album": {
+        "name": "City View / Her",
+        "url": "https://open.spotify.com/album/1nVJNJhvhnTZGUlDKQDyfW"
+      },
+      "artists": [
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        },
+        {
+          "name": "Slom",
+          "url": "https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176125,
+      "name": "Her (Feat. Zion.T)",
+      "url": "https://open.spotify.com/track/2ZzrfN3WJf8oKopPshisl1"
+    },
+    {
+      "album": {
         "name": "Hibi no Tezawari",
         "url": "https://open.spotify.com/album/2M9nbcQSeIYQbis8zj48Xz"
       },
@@ -7266,7 +7292,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 250400,
       "name": "I Like It I Like It",
       "url": "https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO"
@@ -9674,7 +9700,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 268799,
       "name": "Luv Myself (feat. AKLO & KEIJU)",
       "url": "https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx"
@@ -17436,6 +17462,32 @@
       "duration_ms": 152253,
       "name": "UMPA",
       "url": "https://open.spotify.com/track/470IhQSaAri29VEf2BZq7s"
+    },
+    {
+      "album": {
+        "name": "UNDERCOVER (feat. Ayumu Imazu)",
+        "url": "https://open.spotify.com/album/7BILgDToMWjowQ6K9q0xz7"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "UNDERCOVER - feat. Ayumu Imazu",
+      "url": "https://open.spotify.com/track/1eeVTulIBfhvIJdjtz5zAf"
     },
     {
       "album": {

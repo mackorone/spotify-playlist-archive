@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jake Worthington
 
-697 songs - 1 day 17 hr 28 min
+698 songs - 1 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [Goodbye Horses](https://open.spotify.com/track/4dM6n7StQUjohoWk0JFLw4) | [Joshua Ray Walker](https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr) | [What Is It Even?](https://open.spotify.com/album/7pOByvaZQPALod9AwZJi3j) | 3:41 | 2023-08-04 | 2023-10-21 |
 | [Grain of Salt](https://open.spotify.com/track/0Kv4Y5oOn41W93IFXsvcpY) | [Kin Faux](https://open.spotify.com/artist/5bbkKY1uKarzJOS1CMsfQu) | [Grain of Salt](https://open.spotify.com/album/11fYmLaOYK0KKoj77tliqj) | 3:49 | 2022-07-15 | 2022-07-18 |
 | [Green Eyes Blue](https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Green Eyes Blue](https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq) | 3:37 | 2023-03-24 |  |
-| [Green in Colorado](https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Green in Colorado](https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2) | 3:16 | 2024-08-23 |  |
+| [Green in Colorado](https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Green in Colorado](https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2) | 3:16 | 2024-08-23 | 2025-06-25 |
 | [Growing Up](https://open.spotify.com/track/0OQBDgDbMM9eJITeGwZusI) | [Jacob Stelly](https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41) | [Growing Up](https://open.spotify.com/album/5RKdHUALvM0KCNPwsHRO1V) | 3:44 | 2022-07-08 | 2022-07-30 |
 | [Guess Some Dreams Come True](https://open.spotify.com/track/3huD0tFdSCq5NZ6rM5G1Ug) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Guess Some Dreams Come True](https://open.spotify.com/album/26WPzOLfAPiBfTd3NLI0l8) | 4:19 | 2022-02-25 | 2022-07-19 |
 | [Haggard Blues](https://open.spotify.com/track/36h7sbu4iGnHkQg7KlOrcW) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Haggard Blues](https://open.spotify.com/album/5v2BdBLvdMc3gUj6plY9lK) | 3:07 | 2025-01-10 | 2025-04-19 |
@@ -338,6 +338,7 @@
 | [jackson](https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [What Else Can She Do](https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX) | 3:54 | 2022-08-19 |  |
 | [January](https://open.spotify.com/track/4l7frKzWhjH6jPtBm99hcy) | [Teague Brothers Band](https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH) | [January](https://open.spotify.com/album/0Dxsw5DUGrP4qb1cQE0bV2) | 4:13 | 2022-02-04 | 2022-07-10 |
 | [Jesus in a Bar](https://open.spotify.com/track/4XBKMHoWOIJMqKol7VhWDk) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Jesus in a Bar](https://open.spotify.com/album/7dyXRT0wtewOg9jyKqm4WN) | 3:58 | 2023-08-25 | 2024-03-30 |
+| [Joe Sure Knows How to Live](https://open.spotify.com/track/42MmHPDXTOUtor5IJerT6n) | [DOS BORRACHOS](https://open.spotify.com/artist/0wsounF7ieP10sdEiLLkPy), [Kevin Fowler](https://open.spotify.com/artist/6NKQIkHTjxD5Ovj6znGV1n), [Roger Creager](https://open.spotify.com/artist/1DyywGnuzXGEzlZMXBcc0j) | [Uno Mas](https://open.spotify.com/album/4zcZXQAPAmIlA8m41pr8ZK) | 3:30 | 2025-06-18 |  |
 | [John Wayne](https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [John Wayne](https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M) | 3:08 | 2022-04-22 | 2024-08-23 |
 | [Just Had to Be There](https://open.spotify.com/track/5GvKGncDYOEWjW4dmmblM3) | [Colton Venner](https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L) | [Just Had to Be There](https://open.spotify.com/album/18K5EcNoicY0KI6mlAXIAC) | 3:45 | 2021-12-17 | 2022-03-19 |
 | [Keep Lookin' Down The Road](https://open.spotify.com/track/2I6GzticU6dxwZOAN8bG9d) | [Reckless Kelly](https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg) | [Keep Lookin' Down The Road](https://open.spotify.com/album/3UZyPuO9Kl8dVBLw4ruJDU) | 3:04 | 2024-06-21 | 2024-09-30 |

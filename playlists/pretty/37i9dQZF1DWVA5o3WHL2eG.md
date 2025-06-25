@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Zsá Zsá
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,296 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,305 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 8 | [Ärger](https://open.spotify.com/track/2ZpNVf05uVzubaPX6Sd2VK) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Ärger](https://open.spotify.com/album/0MJuSV0gjcCU5Cel4SziGO) | 1:43 |
 | 9 | [ICH GEH MIT MIR](https://open.spotify.com/track/21dfwDOI57dqW8LLqV5Ypk) | [LORI](https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x) | [ICH GEH MIT MIR](https://open.spotify.com/album/5XVnX6GnATq2EgjfNlVjvb) | 3:07 |
 | 10 | [FSK \(ficken saufen kotzen\)](https://open.spotify.com/track/1DYnNZmmGbZ02Ok0QPM8ig) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va), [snoid](https://open.spotify.com/artist/6UjcyqJVaoBpUlpbUjzMkT) | [FSK \(ficken saufen kotzen\)](https://open.spotify.com/album/6k2e9mpEoH2aA6JAQ6oY1g) | 2:05 |
-| 11 | [Schlimmster Mensch der Welt](https://open.spotify.com/track/5BSwfudT5otTmLorKncQdi) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Schlimmster Mensch der Welt](https://open.spotify.com/album/6BNJB42hjoBQaG3swmFuVt) | 2:37 |
-| 12 | [Arschloch](https://open.spotify.com/track/7zrONlmULDcVEi5Z1yrHkz) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [Arschloch](https://open.spotify.com/album/4Kr76gbMDTFr2uFVEyB3nQ) | 3:16 |
+| 11 | [Arschloch](https://open.spotify.com/track/7zrONlmULDcVEi5Z1yrHkz) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [Arschloch](https://open.spotify.com/album/4Kr76gbMDTFr2uFVEyB3nQ) | 3:16 |
+| 12 | [Schlimmster Mensch der Welt](https://open.spotify.com/track/5BSwfudT5otTmLorKncQdi) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Schlimmster Mensch der Welt](https://open.spotify.com/album/6BNJB42hjoBQaG3swmFuVt) | 2:37 |
 | 13 | [wenn's am schönsten ist](https://open.spotify.com/track/4fZYJSpK32o3CeWPByulUj) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [wenn's am schönsten ist](https://open.spotify.com/album/1O9pMaZ82BwU6cb7nCO9WG) | 2:16 |
 | 14 | [Knoppers](https://open.spotify.com/track/42nG2hVZIVNfPBQ8RiOCAj) | [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W), [Traya](https://open.spotify.com/artist/0bo1LMgTEg5qpicrIee54M) | [Knoppers](https://open.spotify.com/album/0RzlcFXkk0MJmcQhYxwcwR) | 2:06 |
 | 15 | [hungerspiele](https://open.spotify.com/track/5EnJNlBSbircsRkFlpINQ0) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [hungerspiele](https://open.spotify.com/album/0XD2A1SUf0gl6LkWBNzQ2R) | 2:57 |

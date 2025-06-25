@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BeS7oLnHFo.md) - [plain]
 
 > Kali\-B: قلي قلي كييييييف\. الغلاف
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,088 likes - 41 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,091 likes - 41 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BeS7oLnHFo.md) - [plain]
 | 6 | [KUNG FU](https://open.spotify.com/track/1fBF7Bn3QYK53XHpttpoyl) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP), [LBandy](https://open.spotify.com/artist/0KgDFmrEx0ezsgblUjCxoA) | [KUNG FU](https://open.spotify.com/album/4nNge4R3KOJ3FXgUrclICp) | 2:26 |
 | 7 | [Ma Ydroon](https://open.spotify.com/track/66ORRrUEo7gJCspSanwRtM) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT) | [Meelad](https://open.spotify.com/album/0f7N1SG0Qx7ch6s2D85MyQ) | 3:45 |
 | 8 | [صح](https://open.spotify.com/track/7mHSueNmkXUzHCv4JPgNsc) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw) | [صح](https://open.spotify.com/album/4eGrg3GVEalY2zyXtXV7e0) | 1:46 |
-| 9 | [\( Saudi \) حزين الوقت](https://open.spotify.com/track/0DfpLTGoLeQAU8zj4La5Jf) | [Rap Shar3](https://open.spotify.com/artist/2i6J4zodeqpwK4ZMs1ir3M), [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [\( Saudi \) حزين الوقت](https://open.spotify.com/album/5fUE8SvrynJU3oJFCcIlhn) | 3:30 |
+| 9 | [7azeen Elwat \(Saudi\)](https://open.spotify.com/track/0DfpLTGoLeQAU8zj4La5Jf) | [Rap Shar3](https://open.spotify.com/artist/2i6J4zodeqpwK4ZMs1ir3M), [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [7azeen Elwat \(Saudi\)](https://open.spotify.com/album/5fUE8SvrynJU3oJFCcIlhn) | 3:30 |
 | 10 | [Fat Mat](https://open.spotify.com/track/7wbPRhgplVbjlTCprcLgl7) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI), [Ruhmvn](https://open.spotify.com/artist/5cRscGfILoBPh338Cmikjn) | [Fat Mat](https://open.spotify.com/album/41gPrdRfvW8yEjGFFWQGrX) | 2:44 |
 | 11 | [Barcelona \(Freedom Music\)](https://open.spotify.com/track/2KoOkiq0tNszGh8QcpP6ES) | [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randar](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [Barcelona \(Freedom Music\)](https://open.spotify.com/album/22TUuXdegJvCmxNbDMuxls) | 3:14 |
 | 12 | [الجلسة الاولى : فريستايل](https://open.spotify.com/track/4dvz8mbfDaERCEFa1gt9fV) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [الجلسة الاولى : فريستايل](https://open.spotify.com/album/0UA4g53jHzmPvYdQM0EKEe) | 2:16 |

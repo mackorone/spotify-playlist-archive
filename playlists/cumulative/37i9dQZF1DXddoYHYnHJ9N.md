@@ -2,9 +2,9 @@
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: Mario
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: Beton.Hofi
 
-122 songs - 6 hr 4 min
+124 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-10 | 2025-06-10 |
 | [Afro Beat](https://open.spotify.com/track/1Y9crZGy8iOyCPxFBPfMDP) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [Megáll Az Idő](https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg) | 3:12 | 2024-07-01 |  |
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-07-15 | 2025-01-14 |
+| [ANGYALOK](https://open.spotify.com/track/5VzhASm2474qyIwDbDQjFw) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [ANGYALOK](https://open.spotify.com/album/7El982ts9FR1auscPCNLr6) | 3:31 | 2025-06-24 |  |
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-10 | 2025-06-10 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-21 | 2025-05-27 |
 | [Apály](https://open.spotify.com/track/156AeYPPIRgeYJWmC3JUbO) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Apály](https://open.spotify.com/album/1Mh4B5kMXU35AexkEjOlSX) | 2:10 | 2024-07-01 | 2024-08-07 |
@@ -21,7 +22,7 @@
 | [Barbi Baba](https://open.spotify.com/track/2XHqalPmKugChuhFtMBErf) | [Fehér Krisztián](https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX) | [Barbi Baba](https://open.spotify.com/album/07MLMgLbx7wUeKUlPeA0fb) | 2:30 | 2024-12-02 | 2025-05-06 |
 | [BE VAGYOK ZÁRVA](https://open.spotify.com/track/7ovp4mzdzQJHTrRiTyaaAY) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [BE VAGYOK ZÁRVA](https://open.spotify.com/album/7EUW3MZBp2wgcUQYuPnHb5) | 2:11 | 2025-05-08 |  |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-07-01 |  |
-| [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-07-01 |  |
+| [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-07-01 | 2025-06-25 |
 | [Boldogtalanság](https://open.spotify.com/track/1NJqCgWaY3kwdt2f7M1iui) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Boldogtalanság](https://open.spotify.com/album/61nJQwXqRRvAcvWWsclK18) | 3:06 | 2024-07-01 | 2024-08-20 |
 | [CARTIER](https://open.spotify.com/track/65zjjkUwz8KIPNypaHRX9m) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [NINCS HOLNAP](https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd) | 2:30 | 2024-07-01 | 2025-04-01 |
 | [Cigány\-ügy](https://open.spotify.com/track/4fzbwV7qglR3mPit64hXse) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Rytmus](https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI), [Érdi Baba](https://open.spotify.com/artist/5CPKLSKScYKTRdr491KCJu) | [Cigány\-ügy](https://open.spotify.com/album/4wsF3ZBcwC74KWDMiWFjui) | 3:39 | 2024-07-01 | 2024-08-14 |
@@ -36,6 +37,7 @@
 | [Don't Turn The Bass Down](https://open.spotify.com/track/70xt0VZFShxSbfhTg3NcmF) | [L'Entourloop](https://open.spotify.com/artist/63vMehdxxRWq9HBZHskapk), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Don't Turn The Bass Down](https://open.spotify.com/album/0CiOjI1XyhoRhyvdq1icOh) | 3:22 | 2024-07-01 | 2024-10-08 |
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-20 | 2025-03-25 |
 | [díva](https://open.spotify.com/track/52kBWybNy033009vfeYu5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:15 | 2024-08-13 |  |
+| [Egy éjszaka](https://open.spotify.com/track/7fttxh2ROKLw4rVQMyYbm7) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Talpra cigányok](https://open.spotify.com/album/2Ql5DaKsixp6Oev9vRKlak) | 2:06 | 2025-06-24 |  |
 | [EGY/KETTŐ](https://open.spotify.com/track/7g4EKsrNrdZ4WzUxf4beOw) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [EGY/KETTŐ](https://open.spotify.com/album/4ZGTtTBhvo82ptO3YcTno4) | 4:59 | 2024-11-18 |  |
 | [egyszerű](https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:50 | 2024-08-13 | 2024-12-03 |
 | [Entitás](https://open.spotify.com/track/3mZBqTbxSpyY5cZfbj5reu) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Orgonabokor \(Part 2\)](https://open.spotify.com/album/3NKZ2rRG5MGpdF897X3zr2) | 2:53 | 2025-02-03 |  |
@@ -115,7 +117,7 @@
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 | 2024-11-04 | 2025-03-25 |
 | [SÖTÉT](https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [SÖTÉT](https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z) | 2:24 | 2025-05-19 |  |
 | [Talpra cigányok](https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Talpra cigányok](https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU) | 2:26 | 2025-05-12 |  |
-| [Taxi](https://open.spotify.com/track/49ZZaqFCTTmSnOQGBzKZp9) | [Wellhello](https://open.spotify.com/artist/4URlJ0EofF5gUvCGDtxr3m), [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee) | [Taxi](https://open.spotify.com/album/3lkXm481QaqMSRr85oxokl) | 2:25 | 2025-05-19 |  |
+| [Taxi](https://open.spotify.com/track/49ZZaqFCTTmSnOQGBzKZp9) | [Wellhello](https://open.spotify.com/artist/4URlJ0EofF5gUvCGDtxr3m), [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee) | [Taxi](https://open.spotify.com/album/3lkXm481QaqMSRr85oxokl) | 2:25 | 2025-05-19 | 2025-06-25 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-12-16 | 2025-05-20 |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-09 | 2024-12-03 |
 | [The First Time](https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:38 | 2025-05-26 |  |

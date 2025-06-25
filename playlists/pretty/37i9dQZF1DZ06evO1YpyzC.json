@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 264420,
+  "num_followers": 264434,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFdHgAAAAABd+IqKolG6HpPAyINp7KRE",
+  "snapshot_id": "aFiZAAAAAABeJd6SwKMgshSFxOiNcyUc",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "2 Pair",
+        "url": "https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 151534,
+      "name": "2 Pair",
+      "url": "https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Famous Friends",
         "url": "https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 166506,
       "name": "Famous Friends",
       "url": "https://open.spotify.com/track/00KyYtT6NaXwbPecina5Pj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2 Pair",
-        "url": "https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 151534,
-      "name": "2 Pair",
-      "url": "https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Experiment Extended",
-        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 201730,
-      "name": "Like a Rodeo",
-      "url": "https://open.spotify.com/track/7z3dPHwGxeK4fD6fYFDwiS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cool Again",
         "url": "https://open.spotify.com/album/2uqdv3ixmTDSnH1sZFk3y9"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 164668,
       "name": "Cool Again",
       "url": "https://open.spotify.com/track/5P3oaNpPDVLRJsL3152SEs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 201730,
+      "name": "Like a Rodeo",
+      "url": "https://open.spotify.com/track/7z3dPHwGxeK4fD6fYFDwiS"
     },
     {
       "added_at": null,

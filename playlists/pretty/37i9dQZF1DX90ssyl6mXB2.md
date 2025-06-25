@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off\. cover: OVI WOOD
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,296 likes - 172 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,453 likes - 172 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

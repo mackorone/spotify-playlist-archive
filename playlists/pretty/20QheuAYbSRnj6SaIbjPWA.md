@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 
 > 2021
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 130 songs - 8 hr 45 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 132 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,5 +138,7 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 | 128 | [Melancholy Man](https://open.spotify.com/track/55RBi5R0DUxk085tAN1TI6) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Come Ahead](https://open.spotify.com/album/69oeXCLAa7NA3CfrCRFHlT) | 5:15 |
 | 129 | [Knights Of Cydonia \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3MMhtroreghawB4y14vaUP) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Spotify Singles](https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD) | 4:37 |
 | 130 | [No Rain, No Flowers](https://open.spotify.com/track/4zjDrOkMHobQcUFvkOdEha) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Man On A Mission](https://open.spotify.com/album/3gXvlO1pTEgCQlQ3O3oOPJ) | 3:16 |
+| 131 | [strangers](https://open.spotify.com/track/664GJ3Q68nj89RyDsDQZvM) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [hopefully !](https://open.spotify.com/album/3QiiMhk65fgCPOKThjZ8iK) | 2:35 |
+| 132 | [Home](https://open.spotify.com/track/1ZAJkFiMMjRIX8mNqtQd6R) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt), [Vocaal Ensemble Cordier](https://open.spotify.com/artist/6NygXaRWfywdXsaafqqoQr), [Ruben Jeyasundaram](https://open.spotify.com/artist/4FgCaEkgBLDRxRsKpxc3Q2) | [Home](https://open.spotify.com/album/7A6v2isTzFfC5z60taBwmu) | 3:19 |
 
-Snapshot ID: `AAAA+Sv+bE07hPy51lMiCAd/aUD//miW`
+Snapshot ID: `AAAA+7iUFTKjjm5HW6n/oBco8R3HrRrW`

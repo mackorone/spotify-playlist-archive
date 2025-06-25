@@ -4,7 +4,7 @@
 
 > This is Biosphere\. The essential tracks, all in one playlist.
 
-181 songs - 15 hr 10 min
+182 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Addio](https://open.spotify.com/track/3FBwcr5rTOj47URzCGRDpc) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [L'incoronazione Di Poppea](https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA) | 1:30 | 2022-10-21 | 2025-04-07 |
 | [Algae and Fungi part 1](https://open.spotify.com/track/0K7TAxOoj5mLt1IuC1Gogs) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 5:43 | 2022-06-23 | 2022-09-19 |
 | [Algae and Fungi part 2](https://open.spotify.com/track/0qveDw5Qx1zn1StsX81HvJ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 5:17 | 2022-06-03 | 2022-10-09 |
-| [All Stars Have Names \- Edit](https://open.spotify.com/track/7pwBOIIrYmqMRxtB5mel5z) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [All Stars Have Names](https://open.spotify.com/album/2gQ51gRzLY8bVAMzlPbxBE) | 6:50 | 2025-05-16 |  |
+| [All Stars Have Names](https://open.spotify.com/track/3yDJ88EzE4ubtc2ANlTdoL) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Way Of Time](https://open.spotify.com/album/1cNQwur61lzMiVdZyYoTA0) | 8:09 | 2025-06-25 |  |
+| [All Stars Have Names \- Edit](https://open.spotify.com/track/7pwBOIIrYmqMRxtB5mel5z) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [All Stars Have Names](https://open.spotify.com/album/2gQ51gRzLY8bVAMzlPbxBE) | 6:50 | 2025-05-16 | 2025-06-25 |
 | [Alla Diletta Mia](https://open.spotify.com/track/1BdIyQmy1CUbsKBKExN9Kq) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [L'incoronazione Di Poppea](https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA) | 3:36 | 2022-09-01 | 2024-04-04 |
 | [Alteret](https://open.spotify.com/track/0PDeLl4GJv7BSRv8xMMYuP) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Senja Recordings](https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9) | 2:54 | 2023-04-02 | 2023-12-15 |
 | [Ancient Campfire](https://open.spotify.com/track/0s5EmEIfm5BGHSfVL76TfM) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 7:42 | 2022-06-16 | 2022-09-22 |

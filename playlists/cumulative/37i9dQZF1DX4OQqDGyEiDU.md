@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-619 songs - 1 day 10 hr 45 min
+620 songs - 1 day 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Aunnobeats](https://open.spotify.com/track/4JPcF81HVIbndg6KNFQNg6) | [Maigo Hanyuu](https://open.spotify.com/artist/1IYW6az2BfL10WNlNlRcRc) | [Ukiyomeguri](https://open.spotify.com/album/4JVCGjIksgYgMhXKHz5fbC) | 3:26 | 2023-11-28 | 2024-02-14 |
 | [Awake Now](https://open.spotify.com/track/14NNOtVmIhGHLcwaluyoHn) | [Yunosuke](https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks) | [Awake Now](https://open.spotify.com/album/0pivFXtrPhKw6TZvksvBVO) | 3:16 | 2022-07-26 | 2022-08-17 |
 | [Awake Now](https://open.spotify.com/track/7MBhcb9p4z70uofoNxGXkG) | [Yunosuke](https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks) | [Awake Now](https://open.spotify.com/album/73AKllCZLqEq5kVsn4cdDW) | 3:16 | 2022-06-09 | 2022-07-29 |
+| [B.B.M\. \(feat\. ピノキオピー\)](https://open.spotify.com/track/73PSS7LzOveJNlOp7Z3q55) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [GRAND POP](https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H) | 3:06 | 2025-06-24 |  |
 | [Bad ∞ End ∞ Night](https://open.spotify.com/track/6NOVN6EGoqaKqqa3EwHa09) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [After the partY](https://open.spotify.com/album/0b6bP73xLMUe33k8xkPzRw) | 4:08 | 2022-11-24 | 2022-12-14 |
 | [Bakrom](https://open.spotify.com/track/3NV8rXGmXkmwnUb4XEx6aF) | [HiiragiKirai](https://open.spotify.com/artist/2GRRmz1dTswdlbdmpsveqK) | [Bakrom](https://open.spotify.com/album/7LwH7kDmcnOP5L6NcTVEW0) | 3:24 | 2022-06-23 | 2022-07-14 |
 | [Beyond the way](https://open.spotify.com/track/26I5UfjfxqsUAB2Ryr4utP) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS) | [Beyond the way](https://open.spotify.com/album/72mmKlShf9SvsGGQuOLi6u) | 3:00 | 2024-01-18 |  |
@@ -281,7 +282,7 @@
 | [エゴロック \- long ver.](https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [エゴロック \(long ver.\)](https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ) | 2:49 | 2022-07-19 |  |
 | [エバ](https://open.spotify.com/track/6R84deEuce44rWKc7jHINJ) | [柊キライ](https://open.spotify.com/artist/6enAUr8uYLFYHKDcnRUst2) | [ヘイトフル](https://open.spotify.com/album/6AK0ZWjL1tdCfYM2p8mRJM) | 3:49 | 2022-06-14 | 2022-07-19 |
 | [エリート](https://open.spotify.com/track/0QxUDD87uCY6G9hcWGVMMu) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [エリート](https://open.spotify.com/album/4EOxLSVoMcDeqiwUcoszwN) | 2:49 | 2022-06-09 | 2022-07-26 |
-| [エンヴィーベイビー](https://open.spotify.com/track/02vOyaNCKGX8uhjggOIH83) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [エンヴィーベイビー](https://open.spotify.com/album/6NG4Ztq0KcNdsKYRu2RNOA) | 2:15 | 2022-06-09 |  |
+| [エンヴィーベイビー](https://open.spotify.com/track/02vOyaNCKGX8uhjggOIH83) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [エンヴィーベイビー](https://open.spotify.com/album/6NG4Ztq0KcNdsKYRu2RNOA) | 2:15 | 2022-06-09 | 2025-06-25 |
 | [オトモシマス \(feat\. 鏡音リン&鏡音レン\)](https://open.spotify.com/track/5xLlGLrsymJiK1tSiMfZ9Y) | [Wonderful★opportunity!](https://open.spotify.com/artist/114kd9ePvOgHBUp18vMF4B) | [ワン☆オポ!VOL.17](https://open.spotify.com/album/3EOBJ5Qf4Qgg4hBmJcipKC) | 3:46 | 2022-07-14 | 2022-07-20 |
 | [オルターエゴ](https://open.spotify.com/track/7kR5u7rrajGzBuCiJjdOyU) | [Misumi](https://open.spotify.com/artist/79WesJjDmCUqObjbE0mNyA) | [オルターエゴ](https://open.spotify.com/album/0gZwTh7C2gc4kTCLDe7JvC) | 3:42 | 2022-06-09 | 2023-06-08 |
 | [オーダー、仰せのままに](https://open.spotify.com/track/1GTQREQXX8mpaJEVOTjbLy) | [卯花ロク](https://open.spotify.com/artist/2IVqSBc264wMKlgTTFZN2r) | [オーダー、仰せのままに](https://open.spotify.com/album/0RqLOe3uPr25RAnR7IVTnk) | 2:42 | 2022-06-09 | 2022-07-07 |

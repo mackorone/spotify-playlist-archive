@@ -3169,6 +3169,24 @@
     },
     {
       "album": {
+        "name": "eye2eye",
+        "url": "https://open.spotify.com/album/5cdNLvhFw398LMAmuL4uyg"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "eye2eye",
+      "url": "https://open.spotify.com/track/4MvAYkzdJjzZnmmgTBXeai"
+    },
+    {
+      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/5n40WLofQwmG7dsgewDyzR"
       },
@@ -9452,7 +9470,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 189197,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/1PcJZFKTbgVjIozoJufyJy"

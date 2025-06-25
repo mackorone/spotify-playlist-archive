@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 38870,
+  "num_followers": 38895,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFdHgAAAAACTKTCI9CUVPJ3K3k5SRMYC",
+  "snapshot_id": "aFiZAAAAAABpcdpRSvWXH6dd4Ru42cLL",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DISTORSI\u00d3N",
+        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Mexican Flan",
+      "url": "https://open.spotify.com/track/5EnoBLm3M7rN7XWQ1nfhXv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Somos Leyenda",
         "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
       },
@@ -287,22 +307,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISTORSI\u00d3N",
-        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
+        "name": "C.H.S.M",
+        "url": "https://open.spotify.com/album/6WhE39eYeHUcjNuvjoRRVg"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         },
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 178500,
-      "name": "Mexican Flan",
-      "url": "https://open.spotify.com/track/5EnoBLm3M7rN7XWQ1nfhXv"
+      "duration_ms": 138533,
+      "name": "C.H.S.M",
+      "url": "https://open.spotify.com/track/11gvUHIxBEnsCn8sAltFmf"
     },
     {
       "added_at": null,
@@ -343,30 +367,6 @@
       "duration_ms": 271541,
       "name": "D.M.8.",
       "url": "https://open.spotify.com/track/5FlA2DSMSewJsrR00Q9IdZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "C.H.S.M",
-        "url": "https://open.spotify.com/album/6WhE39eYeHUcjNuvjoRRVg"
-      },
-      "artists": [
-        {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 138533,
-      "name": "C.H.S.M",
-      "url": "https://open.spotify.com/track/11gvUHIxBEnsCn8sAltFmf"
     },
     {
       "added_at": null,

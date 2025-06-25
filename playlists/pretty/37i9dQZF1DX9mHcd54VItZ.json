@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Sophia Frank",
-  "num_followers": 23715,
+  "num_followers": 23724,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -354,10 +354,6 @@
         {
           "name": "Cinema",
           "url": "https://open.spotify.com/artist/4Q8o2gYMN8p6nSzw1YqTxT"
-        },
-        {
-          "name": "Matthew Fink",
-          "url": "https://open.spotify.com/artist/1g7RMDZoSY4f9txxcrG4Jw"
         }
       ],
       "duration_ms": 209983,
@@ -527,22 +523,6 @@
     {
       "added_at": "2025-05-31 11:08:01",
       "album": {
-        "name": "Black Book",
-        "url": "https://open.spotify.com/album/2ZhCAotYBPm0EfTOAyfTvg"
-      },
-      "artists": [
-        {
-          "name": "Our Bodies",
-          "url": "https://open.spotify.com/artist/1WROvbRgHUv2btWps6WzGW"
-        }
-      ],
-      "duration_ms": 176202,
-      "name": "Black Book",
-      "url": "https://open.spotify.com/track/1vTbBTzLzLKz6TVmRIwIBK"
-    },
-    {
-      "added_at": "2025-05-31 11:08:01",
-      "album": {
         "name": "Die Ruimte",
         "url": "https://open.spotify.com/album/7Evf8SmwVgb9vUxuvkSRql"
       },
@@ -555,6 +535,22 @@
       "duration_ms": 178239,
       "name": "Die Ruimte",
       "url": "https://open.spotify.com/track/2dJNS220dOuB5taOM56DsG"
+    },
+    {
+      "added_at": "2025-05-31 11:08:01",
+      "album": {
+        "name": "Black Book",
+        "url": "https://open.spotify.com/album/2ZhCAotYBPm0EfTOAyfTvg"
+      },
+      "artists": [
+        {
+          "name": "Our Bodies",
+          "url": "https://open.spotify.com/artist/1WROvbRgHUv2btWps6WzGW"
+        }
+      ],
+      "duration_ms": 176202,
+      "name": "Black Book",
+      "url": "https://open.spotify.com/track/1vTbBTzLzLKz6TVmRIwIBK"
     },
     {
       "added_at": "2025-05-31 11:08:01",
@@ -639,22 +635,6 @@
     {
       "added_at": "2025-05-31 11:08:01",
       "album": {
-        "name": "Fantasy Factory",
-        "url": "https://open.spotify.com/album/2eDfOklG1zGZsiLPgTIdce"
-      },
-      "artists": [
-        {
-          "name": "The Tazers",
-          "url": "https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce"
-        }
-      ],
-      "duration_ms": 172813,
-      "name": "Fantasy Factory",
-      "url": "https://open.spotify.com/track/79i1iB5GYqIHaZGMh14uS6"
-    },
-    {
-      "added_at": "2025-05-31 11:08:01",
-      "album": {
         "name": "Against All Odds",
         "url": "https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu"
       },
@@ -667,22 +647,6 @@
       "duration_ms": 175746,
       "name": "Against All Odds",
       "url": "https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW"
-    },
-    {
-      "added_at": "2025-05-31 11:08:01",
-      "album": {
-        "name": "Sonskyn Vrou",
-        "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
-      },
-      "artists": [
-        {
-          "name": "Hendr\u00e9 Baard",
-          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
-        }
-      ],
-      "duration_ms": 266868,
-      "name": "Sonskyn Vrou",
-      "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
     },
     {
       "added_at": "2025-05-31 11:08:01",
@@ -703,34 +667,34 @@
     {
       "added_at": "2025-05-31 11:08:01",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/3RFMCxQUQxxL3lydudnfah"
+        "name": "Sonskyn Vrou",
+        "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
       },
       "artists": [
         {
-          "name": "GRANGE",
-          "url": "https://open.spotify.com/artist/3E82Y3u4xMJqadI1AkzvSb"
+          "name": "Hendr\u00e9 Baard",
+          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
         }
       ],
-      "duration_ms": 239258,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/6C4VkYbuUh13rTCrnrYfyv"
+      "duration_ms": 266868,
+      "name": "Sonskyn Vrou",
+      "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
     },
     {
       "added_at": "2025-05-31 11:08:01",
       "album": {
-        "name": "Little Witch",
-        "url": "https://open.spotify.com/album/6jTSxywhwAkrxJXSilVUhT"
+        "name": "Fantasy Factory",
+        "url": "https://open.spotify.com/album/2eDfOklG1zGZsiLPgTIdce"
       },
       "artists": [
         {
-          "name": "The Cinematic Rejects",
-          "url": "https://open.spotify.com/artist/0PY9NkUN8qsYGfAI4DqSsd"
+          "name": "The Tazers",
+          "url": "https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce"
         }
       ],
-      "duration_ms": 217156,
-      "name": "Little Witch",
-      "url": "https://open.spotify.com/track/2op43ss71AgXOzo5zVdo6M"
+      "duration_ms": 172813,
+      "name": "Fantasy Factory",
+      "url": "https://open.spotify.com/track/79i1iB5GYqIHaZGMh14uS6"
     },
     {
       "added_at": "2025-05-31 11:08:01",
@@ -751,34 +715,34 @@
     {
       "added_at": "2025-05-31 11:08:01",
       "album": {
-        "name": "Modo",
-        "url": "https://open.spotify.com/album/5Rt0j3oFothc5SZpeQQmMZ"
+        "name": "Little Witch",
+        "url": "https://open.spotify.com/album/6jTSxywhwAkrxJXSilVUhT"
       },
       "artists": [
         {
-          "name": "FREDDY L",
-          "url": "https://open.spotify.com/artist/6UisYsxBIJxT8NGZvmzXsm"
+          "name": "The Cinematic Rejects",
+          "url": "https://open.spotify.com/artist/0PY9NkUN8qsYGfAI4DqSsd"
         }
       ],
-      "duration_ms": 217263,
-      "name": "Modo",
-      "url": "https://open.spotify.com/track/6O7rJqVltHSlHccxKgJrqZ"
+      "duration_ms": 217156,
+      "name": "Little Witch",
+      "url": "https://open.spotify.com/track/2op43ss71AgXOzo5zVdo6M"
     },
     {
       "added_at": "2025-05-31 11:08:01",
       "album": {
-        "name": "Cordelia",
-        "url": "https://open.spotify.com/album/2IcJNDGSfsD0mIEWzuiPTC"
+        "name": "Change",
+        "url": "https://open.spotify.com/album/3RFMCxQUQxxL3lydudnfah"
       },
       "artists": [
         {
-          "name": "Lavender Acres",
-          "url": "https://open.spotify.com/artist/4vfYlcoXm4h6lgzArlVfhG"
+          "name": "GRANGE",
+          "url": "https://open.spotify.com/artist/3E82Y3u4xMJqadI1AkzvSb"
         }
       ],
-      "duration_ms": 204206,
-      "name": "Cordelia",
-      "url": "https://open.spotify.com/track/6d16sOs45vdNnd8UZfUT0Z"
+      "duration_ms": 239258,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/6C4VkYbuUh13rTCrnrYfyv"
     },
     {
       "added_at": "2025-05-31 11:08:01",
@@ -799,18 +763,50 @@
     {
       "added_at": "2025-05-31 11:08:01",
       "album": {
-        "name": "Wie's Bang",
-        "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
+        "name": "Cordelia",
+        "url": "https://open.spotify.com/album/2IcJNDGSfsD0mIEWzuiPTC"
       },
       "artists": [
         {
-          "name": "Van Coke Kartel",
-          "url": "https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw"
+          "name": "Lavender Acres",
+          "url": "https://open.spotify.com/artist/4vfYlcoXm4h6lgzArlVfhG"
         }
       ],
-      "duration_ms": 212573,
-      "name": "Dis 'N Land",
-      "url": "https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV"
+      "duration_ms": 204206,
+      "name": "Cordelia",
+      "url": "https://open.spotify.com/track/6d16sOs45vdNnd8UZfUT0Z"
+    },
+    {
+      "added_at": "2025-05-31 11:08:01",
+      "album": {
+        "name": "Modo",
+        "url": "https://open.spotify.com/album/5Rt0j3oFothc5SZpeQQmMZ"
+      },
+      "artists": [
+        {
+          "name": "FREDDY L",
+          "url": "https://open.spotify.com/artist/6UisYsxBIJxT8NGZvmzXsm"
+        }
+      ],
+      "duration_ms": 217263,
+      "name": "Modo",
+      "url": "https://open.spotify.com/track/6O7rJqVltHSlHccxKgJrqZ"
+    },
+    {
+      "added_at": "2025-05-31 11:08:01",
+      "album": {
+        "name": "Travellers (Special Edition)",
+        "url": "https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z"
+      },
+      "artists": [
+        {
+          "name": "The Narrow",
+          "url": "https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3"
+        }
+      ],
+      "duration_ms": 243720,
+      "name": "Lonely-lonely",
+      "url": "https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a"
     },
     {
       "added_at": "2025-05-31 11:08:01",

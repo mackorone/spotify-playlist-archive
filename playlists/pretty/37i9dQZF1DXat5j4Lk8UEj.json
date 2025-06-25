@@ -1,6 +1,6 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & The Night Sweats",
-  "num_followers": 487547,
+  "num_followers": 487529,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
+        "name": "Drive You Home",
+        "url": "https://open.spotify.com/album/5N626BClwWdlR9Ks3vOgRX"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "duration_ms": 180782,
+      "name": "Drive You Home",
+      "url": "https://open.spotify.com/track/6DKqCfULlm9Fa7Cb9E8daQ"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 257117,
       "name": "Hands On The Wheel (Feat. Particle Kid) (Recorded at Luck Reunion) - Spotify Singles",
       "url": "https://open.spotify.com/track/1c0PPeV09JNqhLsM4mC7Mx"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
-        "name": "Drive You Home",
-        "url": "https://open.spotify.com/album/5N626BClwWdlR9Ks3vOgRX"
-      },
-      "artists": [
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        }
-      ],
-      "duration_ms": 180782,
-      "name": "Drive You Home",
-      "url": "https://open.spotify.com/track/6DKqCfULlm9Fa7Cb9E8daQ"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/7ewBMKLhrJ21P2nlAgUuPW"
-      },
-      "artists": [
-        {
-          "name": "Grace Potter",
-          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
-        }
-      ],
-      "duration_ms": 333280,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/5vKzUzEaNEH6iLfQAAXGcP"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Oh Dear Brother",
         "url": "https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 238306,
       "name": "Oh Dear Brother",
       "url": "https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/7ewBMKLhrJ21P2nlAgUuPW"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "duration_ms": 333280,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/5vKzUzEaNEH6iLfQAAXGcP"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC"
-      },
-      "artists": [
-        {
-          "name": "Boy Named Banjo",
-          "url": "https://open.spotify.com/artist/4muVBshUHExGQvQlNnKRW5"
-        }
-      ],
-      "duration_ms": 215759,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/1wUPDxnbQCUh3zv6SiAFhI"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 210113,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/0U8YpnqPkTeA9v9FRwmomq"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC"
+      },
+      "artists": [
+        {
+          "name": "Boy Named Banjo",
+          "url": "https://open.spotify.com/artist/4muVBshUHExGQvQlNnKRW5"
+        }
+      ],
+      "duration_ms": 215759,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Way Back",
-        "url": "https://open.spotify.com/album/19HLhs8Ey6wysibfosbk0q"
-      },
-      "artists": [
-        {
-          "name": "The Lighthouse And The Whaler",
-          "url": "https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3"
-        }
-      ],
-      "duration_ms": 258058,
-      "name": "Way Back",
-      "url": "https://open.spotify.com/track/6Jt5iBTXNyW4fpG6W26K0G"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Starting from Scratch",
         "url": "https://open.spotify.com/album/3ajBFaN4FRuRgmzLrvUFVk"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 189425,
       "name": "Starting from Scratch",
       "url": "https://open.spotify.com/track/3pM19Q0sIoPc3SLLAaJrcs"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Way Back",
+        "url": "https://open.spotify.com/album/19HLhs8Ey6wysibfosbk0q"
+      },
+      "artists": [
+        {
+          "name": "The Lighthouse And The Whaler",
+          "url": "https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3"
+        }
+      ],
+      "duration_ms": 258058,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/6Jt5iBTXNyW4fpG6W26K0G"
     },
     {
       "added_at": "2025-02-07 05:00:32",

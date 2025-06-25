@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSThc8QnzIme.md) - [plain]
 
 > Breeze through your commute with these pop favorites\. Cover: Alex Warren
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,870 likes - 95 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,052 likes - 95 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

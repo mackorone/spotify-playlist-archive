@@ -919,6 +919,32 @@
     },
     {
       "album": {
+        "name": "Bair Jaat Ke",
+        "url": "https://open.spotify.com/album/3J8wtHwGUhgNRpiZYMZc49"
+      },
+      "artists": [
+        {
+          "name": "Parv Dahiya",
+          "url": "https://open.spotify.com/artist/7kMapJs8YANqYWoc9VqZQ2"
+        },
+        {
+          "name": "Thinker",
+          "url": "https://open.spotify.com/artist/4z0Bf2YeD1KwppI69OTFA2"
+        },
+        {
+          "name": "Mavy Hooda",
+          "url": "https://open.spotify.com/artist/6Spst1sp7fIbwEOUFFTkiN"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172045,
+      "name": "Bair Jaat Ke",
+      "url": "https://open.spotify.com/track/2vbc9OopdVgitvWCFxXow1"
+    },
+    {
+      "album": {
         "name": "Bairan Begani",
         "url": "https://open.spotify.com/album/3CkULetzT3bpHtc2uEZcW1"
       },
@@ -5372,7 +5398,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 224842,
       "name": "Kiso Toyo",
       "url": "https://open.spotify.com/track/66PMnbtXRgMwx2WvlsYfIW"
@@ -5858,6 +5884,32 @@
       "duration_ms": 199784,
       "name": "MAHAKAAL",
       "url": "https://open.spotify.com/track/6bwmcJiXjx2297D0mgdeFF"
+    },
+    {
+      "album": {
+        "name": "Makhan Malayi",
+        "url": "https://open.spotify.com/album/2t1tl1YFo2uDK0BFl2dPIl"
+      },
+      "artists": [
+        {
+          "name": "MC Amrit",
+          "url": "https://open.spotify.com/artist/2lpADbyLFY22NUTqVMhtLt"
+        },
+        {
+          "name": "Inferno",
+          "url": "https://open.spotify.com/artist/1nwJl0IkOYNR5oVCDTumZw"
+        },
+        {
+          "name": "Baidh",
+          "url": "https://open.spotify.com/artist/50oSPwBHdQSFkHYtX7wXpx"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146621,
+      "name": "Makhan Malayi",
+      "url": "https://open.spotify.com/track/3TewPR3JGuHN1nbiYMc3na"
     },
     {
       "album": {
@@ -8148,7 +8200,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 164000,
       "name": "Starboi",
       "url": "https://open.spotify.com/track/3zD7R5lLWTftChvT4mArsb"

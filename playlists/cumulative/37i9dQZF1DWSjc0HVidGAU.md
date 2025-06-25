@@ -4,13 +4,14 @@
 
 > Listen to the soundtracks of GOOD BOY\. \(굿보이의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-21 songs - 1 hr 5 min
+22 songs - 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Another Level](https://open.spotify.com/track/52yUIbj0YVqxyz9cA0WSPA) | [Oh The Larceny](https://open.spotify.com/artist/3p5nfUyEYsxx8izMCym07n) | [Blood Is Rebel](https://open.spotify.com/album/7kxBdemipQPenifFWr9943) | 3:10 | 2025-06-11 |  |
 | [Antifreeze](https://open.spotify.com/track/1osW08ygBwopWmjWzqWbfJ) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Love, Yerin](https://open.spotify.com/album/5a3LnwhYHFlx82Do9iuU8t) | 4:05 | 2025-06-11 |  |
 | [Are You Gonna Be My Girl](https://open.spotify.com/track/72zZfHPYx43shcP3eKkYi5) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born \(Deluxe Edition\)](https://open.spotify.com/album/6svS1vGX5qyK9mhz8ijzxs) | 3:33 | 2025-06-11 |  |
+| [Brand New Day](https://open.spotify.com/track/0MbmPT6btZ8e3oMGkAAA00) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/3qC8aLtNt0GYp1ALDBFVL3) | 3:26 | 2025-06-24 |  |
 | [Curated by Kim So Hyun](https://open.spotify.com/track/2UDUKVonk2Kim37IYMfx3G) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [GOOD BOY Audio Liners](https://open.spotify.com/album/3grD5SwF8EnihKQj4w6YzI) | 0:33 | 2025-06-11 |  |
 | [Curated by Lee Sang Yi](https://open.spotify.com/track/3hMnZWXl22gUK8hnASz07f) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [GOOD BOY Audio Liners](https://open.spotify.com/album/3grD5SwF8EnihKQj4w6YzI) | 0:43 | 2025-06-11 |  |
 | [Curated by Park Bo Gum](https://open.spotify.com/track/4m6vDF74Kz326BPzacyQsd) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [GOOD BOY Audio Liners](https://open.spotify.com/album/3grD5SwF8EnihKQj4w6YzI) | 0:41 | 2025-06-11 |  |

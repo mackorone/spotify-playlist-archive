@@ -4,11 +4,12 @@
 
 > Meet the future of music around the world\. Cover: Maahi.
 
-2,031 songs - 4 day 13 hr 44 min
+2,033 songs - 4 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\# umakeme \(feat\. KNY & Ox The Moron\)](https://open.spotify.com/track/3xCgPTnLgOYoGoRbnH7zxv) | [Xuân Nghi](https://open.spotify.com/artist/09TbfG9329V26zqpb7IQT5), [kny](https://open.spotify.com/artist/2K0m61hiNInpCGF4eat1t7), [Ox The Moron](https://open.spotify.com/artist/1ZShGZFqI0vv1dXum6C72j) | [\# umakeme \(feat\. KNY & Ox The Moron\)](https://open.spotify.com/album/3ZE3pusHOfUT2oDtBYXhzA) | 4:07 | 2022-02-03 | 2022-12-15 |
+| [\#sexy](https://open.spotify.com/track/0o657Agp57aIJX64yOFMVr) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [\#sexy](https://open.spotify.com/album/5qiSHRg4ipJODavlKOgdYp) | 2:14 | 2025-06-20 |  |
 | ['Sapababy](https://open.spotify.com/track/3VppPV6mcNB0W6Jd0fGvMJ) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD) | ['Sapababy](https://open.spotify.com/album/1lJ2R5PuJSDXLrzdX4dAPZ) | 3:58 | 2025-04-04 | 2025-04-18 |
 | [\(Chyba\) Ostatni Dzień](https://open.spotify.com/track/2gp67Tm8jYHSP7Pg6y9CHf) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [\(Chyba\) Ostatni Dzień](https://open.spotify.com/album/6p7FZUkev82iOCQkyHaVDX) | 2:48 | 2023-05-22 | 2023-09-02 |
 | [\(if\) only](https://open.spotify.com/track/15BLMoHLOBy9XDc5iDc0ax) | [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei) | [amber's playlist](https://open.spotify.com/album/10dLMvINSliOIpydkbpUPY) | 3:12 | 2023-10-13 | 2024-03-16 |
@@ -621,7 +622,7 @@
 | [GINGER JUICE](https://open.spotify.com/track/5N2YFIStAASpM38DAYoCMO) | [Jeune Lion](https://open.spotify.com/artist/4tTvRdLVGAsJyk9lEEx3Xb) | [RULE MI HEART](https://open.spotify.com/album/6c1OAicLapz9uBk0MGxuNt) | 2:25 | 2024-11-22 | 2025-05-17 |
 | [Girasol](https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Girasol](https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd) | 3:24 | 2022-02-10 | 2022-12-15 |
 | [girl of the earth](https://open.spotify.com/track/4yLWk1DIcgBihCDFD7MshU) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [innerchild](https://open.spotify.com/album/72jZtqNaiAbUmcU5OqVgp9) | 3:50 | 2022-04-07 | 2022-08-02 |
-| [Girl on the Run](https://open.spotify.com/track/0vs3aUZFrub43yKs0lXUoV) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [Girl on the Run](https://open.spotify.com/album/10sVj48b0wtFRrLY0rY40t) | 3:19 | 2025-04-18 |  |
+| [Girl on the Run](https://open.spotify.com/track/0vs3aUZFrub43yKs0lXUoV) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [Girl on the Run](https://open.spotify.com/album/10sVj48b0wtFRrLY0rY40t) | 3:19 | 2025-04-18 | 2025-06-25 |
 | [GIRLFRIEND](https://open.spotify.com/track/4fVa3oskSSMCsKyvlAGMPv) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [GIRLFRIEND](https://open.spotify.com/album/6G4udJxDgLFrXnsNm8hSs5) | 3:24 | 2024-06-28 | 2025-01-11 |
 | [Girls](https://open.spotify.com/track/71YIkTYcNzEfQKq4E3CImH) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Girls](https://open.spotify.com/album/6dXVpOLGM4QJPLCPiY3QLG) | 3:13 | 2025-02-14 | 2025-06-09 |
 | [Girls Night](https://open.spotify.com/track/5X5FVp16eymvPgpozLX5Vt) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Girls Night](https://open.spotify.com/album/5SQMqplTnx2JC1SgNbdPT4) | 3:17 | 2024-02-09 | 2024-05-20 |
@@ -877,7 +878,7 @@
 | [Kele Kele](https://open.spotify.com/track/2iJVEBnGX2QW41fUIyyhLe) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Kele Kele \- Spotify Singles](https://open.spotify.com/album/6uTuS5g5Vhq3IqrT6VJj9c) | 2:10 | 2023-07-04 | 2024-02-14 |
 | [Kelede](https://open.spotify.com/track/0ZZdfogjRhEGVI0ouw35tL) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Kelede](https://open.spotify.com/album/4ERN7SaxV36wlu9rZJFmwb) | 2:39 | 2022-03-24 | 2022-09-16 |
 | [kelepçe](https://open.spotify.com/track/0m6ph12BbDXzfgNPwA83ne) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [kelepçe](https://open.spotify.com/album/0VVAz2skQSINs9D64ODr6w) | 2:19 | 2024-04-12 | 2024-05-25 |
-| [key to my heart](https://open.spotify.com/track/0sDjX3fzrHZtQY1bCrH245) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [key to my heart](https://open.spotify.com/album/6ZsjsSPy1TRvsWG8tEXJYQ) | 2:38 | 2025-01-31 |  |
+| [key to my heart](https://open.spotify.com/track/0sDjX3fzrHZtQY1bCrH245) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [key to my heart](https://open.spotify.com/album/6ZsjsSPy1TRvsWG8tEXJYQ) | 2:38 | 2025-01-31 | 2025-06-25 |
 | [Khaali Khaali](https://open.spotify.com/track/3zwsBUs35djOOrXrOsgVoS) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Khaali Khaali](https://open.spotify.com/album/32RNCaT9ixK8yoFvTT7Mgb) | 2:57 | 2024-06-21 | 2024-08-03 |
 | [Khamakhaa](https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khamakhaa](https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs) | 2:59 | 2023-09-01 | 2024-03-16 |
 | [Killin' Me \(aNueNue MC色彩吉他宣傳曲\)](https://open.spotify.com/track/5PpPbVrs8A420BrabyPOGa) | [Gail](https://open.spotify.com/artist/6l81JeOQ3usizemdSG6mP7) | [Killin' Me \(aNueNue MC色彩吉他宣傳曲\)](https://open.spotify.com/album/15g03MvPSXzmvra2cLxvgc) | 2:36 | 2022-02-10 | 2022-03-01 |
@@ -1996,6 +1997,7 @@
 | [生活復常](https://open.spotify.com/track/3cMG9t7dzGwcFs4vnU5Xa0) | [Aiden Hung 洪助昇](https://open.spotify.com/artist/7GkuBhIVejk4CThUIuW392) | [生活復常](https://open.spotify.com/album/0kjVZySk9kDsn9nhybF8cL) | 3:49 | 2023-05-30 | 2023-10-06 |
 | [男孩子不要流淚](https://open.spotify.com/track/49JnTU209Y3NCNMzOIdxaB) | [Rover](https://open.spotify.com/artist/7chGhfZr3Es6GiMqJ55bcB) | [男孩子不要流淚](https://open.spotify.com/album/1jOVX6H4BIZaVTDq95b1ML) | 4:39 | 2025-04-04 | 2025-04-07 |
 | [癡情暈船仔](https://open.spotify.com/track/6gQxAyQipWUhobGyC24k7P) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [癡情暈船仔](https://open.spotify.com/album/58Enk3Puo9RZJUW2XcyDf2) | 3:45 | 2025-04-25 |  |
+| [發誓](https://open.spotify.com/track/392uOW06pUt3MrI9yQDVCT) | [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [發誓](https://open.spotify.com/album/4W7jsnJXcwUlvM432VC2MK) | 3:16 | 2025-06-20 |  |
 | [皮外傷](https://open.spotify.com/track/67e3Jd8pMdEOGdV7XGUkQQ) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [皮外傷](https://open.spotify.com/album/0DK2EbDRBTkJpFhJWv4yo2) | 3:09 | 2022-03-24 | 2022-04-26 |
 | [相逢實驗](https://open.spotify.com/track/6eblAIsM4cnlGAdxFKJFwY) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [相逢實驗](https://open.spotify.com/album/6lRE98Vlhmr7TzZ4jgc8ay) | 4:05 | 2024-04-19 | 2024-05-18 |
 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 | 2022-08-26 | 2023-05-31 |

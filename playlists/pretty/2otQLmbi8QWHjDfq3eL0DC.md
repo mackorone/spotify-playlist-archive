@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2025 / 2024!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,329,321 likes - 100 songs - 4 hr 42 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,329,267 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 99 | [Peaches](https://open.spotify.com/track/743qi98yKf7rLdhKnHbrMf) | [Menrva](https://open.spotify.com/artist/3IEywb1OSLIXEbNpfhqKE8) | [Peaches](https://open.spotify.com/album/7H8H3LcqXvHvt7ZzPtPJyX) | 3:13 |
 | 100 | [Rodeo \- Alle Farben Remix](https://open.spotify.com/track/4Vg274edGbGkmpbrj7zhkG) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Rodeo \(Alle Farben Remix\)](https://open.spotify.com/album/4fpTsguedJ1S8CSGms6p3h) | 2:20 |
 
-Snapshot ID: `AAAQUKZt2tGMWUEJX2Cwc3ollu1Dka7c`
+Snapshot ID: `AAAQUlkuS9S64RQR9mnn9Sny9EI/Xl3I`

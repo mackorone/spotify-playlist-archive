@@ -4,7 +4,7 @@
 
 > Sit back and relax to the chillest pop\.  Cover: Addison Rae
 
-2,276 songs - 5 day 2 hr 26 min
+2,277 songs - 5 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1980,6 +1980,7 @@
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-07-29 | 2023-12-09 |
 | [The Plan](https://open.spotify.com/track/24TBDnrH9ampHrkCGNmHJg) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [12 Notes \(Deluxe\) \[16 Notes\]](https://open.spotify.com/album/6ul4W8XzkvOeS1YgPfY3TF) | 2:49 | 2024-09-20 | 2024-11-09 |
 | [The Problem](https://open.spotify.com/track/1Fi7uWkIRqqhQDYhikP4lk) | [Adam Turley](https://open.spotify.com/artist/0clfID6QXqVAUhgm7QHpwF), [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [The Problem](https://open.spotify.com/album/3YbdZfUltFTmiUBFzKvP0m) | 3:23 | 2020-04-26\* | 2020-09-11 |
+| [The Promise](https://open.spotify.com/track/1kybBeFkZLhwkEDipwQWVL) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [The Promise](https://open.spotify.com/album/1vuq0WLHEMPZ1xRcMWJkiM) | 2:58 | 2025-06-24 |  |
 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 | 2023-07-07 | 2024-03-16 |
 | [The Same](https://open.spotify.com/track/4x7OnXtzFvsPIqdmQq2Pao) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:53 | 2021-02-19 | 2021-04-03 |
 | [The scientist](https://open.spotify.com/track/45G5DwgpBq8Sr6o1dFuO2I) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [The scientist](https://open.spotify.com/album/6sZtwWiBa5s3c4ypElSEkN) | 4:27 | 2024-12-06 | 2025-02-22 |

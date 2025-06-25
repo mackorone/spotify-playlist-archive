@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,010 songs - 2 day 8 hr 46 min
+1,011 songs - 2 day 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Calling](https://open.spotify.com/track/2rqlbwqcQBzuaI3DTlRiEP) | [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w), [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Matt Sky](https://open.spotify.com/artist/08FqNRAfeLHLh96BdNHljC) | [Calling](https://open.spotify.com/album/7eE9VGf46QBOuY4BkzTo3N) | 3:21 | 2023-07-31 | 2023-12-14 |
 | [Calling Us](https://open.spotify.com/track/7maTcRghSDNPyXuP9szRiW) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [David Feldman](https://open.spotify.com/artist/53WoIbwTPs856mU10SR5D4), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Calling Us](https://open.spotify.com/album/6IDx39By9m2pJ62cAAj019) | 4:10 | 2023-01-25 | 2023-04-11 |
 | [Can We Be Free \- KDrew Remix](https://open.spotify.com/track/6z8jYJCzgBCNgbMTwvvnFy) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [KDrew](https://open.spotify.com/artist/1DLsogyGi0pwPtwV78D8uZ) | [Can We Be Free \(KDrew Remix\)](https://open.spotify.com/album/3po4Lcgb6oUUksB3d6xrt9) | 2:28 | 2022-12-03 | 2023-03-02 |
+| [Can You](https://open.spotify.com/track/1IViMQ0Ifl0N9Gbkwdifso) | [MXV](https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Can You](https://open.spotify.com/album/5mCqlZt0A5PjgtmFd82dHV) | 3:20 | 2025-06-24 |  |
 | [Canal Street Crook](https://open.spotify.com/track/4uNO3gJ1u3PYuaZjYbqU7P) | [Codd Dubz](https://open.spotify.com/artist/3SsxYsQwnhws0qW0fsO1s5) | [Canal Street Crook](https://open.spotify.com/album/5I2bOAOVhJmJ5MR8fnLzMf) | 2:16 | 2024-08-23 | 2024-11-15 |
 | [Carbonara](https://open.spotify.com/track/1e4VuceNyO8lxcrA0nX0MW) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi) | [Carbonara](https://open.spotify.com/album/1VxhQYQGPWGOrH2l61pYG8) | 2:52 | 2021-11-19 | 2022-02-22 |
 | [Carousel](https://open.spotify.com/track/2vP8axvS6mqgnPwwxMARPs) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [E.L.E \(Extinction Level Event\)](https://open.spotify.com/album/6dwrAsvDJ3qpogoK1jxzAE) | 2:46 | 2022-03-03 | 2022-05-14 |

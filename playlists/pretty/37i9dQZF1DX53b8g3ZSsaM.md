@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53b8g3ZSsaM.md) - [plain]
 
 > Las canciones de reggaeton que marcaron el año\. Foto: FloyyMenor & Cris MJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,190 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,271 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

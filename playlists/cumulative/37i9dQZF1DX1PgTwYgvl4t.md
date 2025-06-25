@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso?si=NuTJ7\-ipTYCwsypXy3z40A>Victoria Orenze</a>
 
-204 songs - 1 day 0 hr 22 min
+205 songs - 1 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/track/5denxHwiQxVrZSANjsDh8C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/album/5vFoKYEWSSMEiSEra8Mq6J) | 9:34 | 2025-04-25 |  |
 | [Yahweh \- Live](https://open.spotify.com/track/17JCFTaxVL74FTHZQhTvtj) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Yahweh \(Live\)](https://open.spotify.com/album/5gfXo9c2wtj5CTsbWmFc1D) | 16:28 | 2024-11-15 | 2025-02-28 |
 | [YESHUA](https://open.spotify.com/track/04Qt7m7pOUmOPFM3ivDtkR) | [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [YESHUA](https://open.spotify.com/album/65AzitOWZVn6TG7M2DYZYq) | 9:27 | 2025-03-21 | 2025-03-28 |
+| [Yeshua \- Live](https://open.spotify.com/track/5cAhcefkbJ98RPfHeQfyfB) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Hunger \- From Our Heart to Yours \(Live\)](https://open.spotify.com/album/5mvzsp0rnXmZYDKqVa88ac) | 4:46 | 2025-06-24 |  |
 | [You Are Always There](https://open.spotify.com/track/2u1XE762ploDotScizdgh5) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [In His Presence, Vol\. 2](https://open.spotify.com/album/3I2lS8vcbdBS76PfAJ4fDP) | 8:25 | 2024-05-09 |  |
 | [You Are Big](https://open.spotify.com/track/67b6GI1kkVALLH5O5IWQb7) | [Joshua Adedeji](https://open.spotify.com/artist/31BZDZpornRbe3joXJ35vh) | [You Are Big](https://open.spotify.com/album/7IuHbchUxKM8jXuwV9D3sX) | 6:20 | 2024-10-25 | 2024-12-13 |
 | [You Are Here \- Live](https://open.spotify.com/track/0O5gv3GXR0CACUU2RMPQBu) | [FIDEL E\. William](https://open.spotify.com/artist/3ZtLx9dt1d6OMirAEMMToe) | [You Are Here \(Live\)](https://open.spotify.com/album/4ohxMX3C1PR5OkO5vVsEbf) | 5:08 | 2024-09-13 | 2024-11-08 |

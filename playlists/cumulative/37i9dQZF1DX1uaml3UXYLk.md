@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-734 songs - 1 day 19 hr 18 min
+736 songs - 1 day 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Ease](https://open.spotify.com/track/6CIivwfmcmCVUYDmGibkys) | [Niriko](https://open.spotify.com/artist/249Q1LZa29XL7XIatTN45M) | [Ease](https://open.spotify.com/album/007qQcEbdC0mZFJZcQEMJS) | 2:58 | 2024-11-19 |  |
 | [Easy Living](https://open.spotify.com/track/71SNVJxqOEZdG9cSvHWk2D) | [I Can East](https://open.spotify.com/artist/7Mrt8ANdFz3SlbMsD6GICP) | [Easy Living](https://open.spotify.com/album/10WJanvowjMB3sktk90S1g) | 6:30 | 2020-11-13 | 2021-01-15 |
 | [Easy Walker](https://open.spotify.com/track/1KsV7SV875mBfBlb40wYLU) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [A Welcome Escape](https://open.spotify.com/album/6MNnXxeWGTY6Sc1u6SxgQJ) | 5:57 | 2021-06-04 | 2023-08-19 |
-| [Eladio](https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Eladio](https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM) | 2:18 | 2022-12-16 |  |
+| [Eladio](https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Eladio](https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM) | 2:18 | 2022-12-16 | 2025-06-25 |
 | [Electric Moments](https://open.spotify.com/track/3T24DOXoiTHkzRxgnSX0SI) | [Reza Solhi](https://open.spotify.com/artist/1Tm9n1qxzzLEpXGSu3nWIJ) | [Electric Moments](https://open.spotify.com/album/10wIuQ7caZKzB0fXSmKzRk) | 2:35 | 2021-05-13 |  |
 | [Electric Moon](https://open.spotify.com/track/1vAORWsOWbYpFyxUjWIvRP) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Electric Moon](https://open.spotify.com/album/3FV2nTiKyWzRATZ1ghgeP6) | 3:16 | 2021-05-13 | 2021-08-25 |
 | [ELEVATION](https://open.spotify.com/track/3DFOAbgOCHhCUgbE6qGvrJ) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [ELEVATION](https://open.spotify.com/album/6Yb7McoGs3cfavlfKlvJgd) | 3:12 | 2025-02-14 | 2025-04-26 |
@@ -423,6 +423,7 @@
 | [never ever ever](https://open.spotify.com/track/2MnxU9rlvV1MLATXGPB6xo) | [Ollton](https://open.spotify.com/artist/6LCyJL9b14HUBcAt8A3Wbk) | [never ever ever](https://open.spotify.com/album/79jO39cMwRC9P5BnJagqTF) | 3:25 | 2023-08-04 |  |
 | [New Angeles](https://open.spotify.com/track/5y0tN7T4fu7fNnHp4RYcpH) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [New Angeles](https://open.spotify.com/album/4cSf0FF9F9yqMVwmV9vY1A) | 2:21 | 2023-06-23 |  |
 | [New Beginnings](https://open.spotify.com/track/1Lsx4eua3B2rf3lAU0xoHE) | [Mandy Mars](https://open.spotify.com/artist/2TfKQgp7fc193rRreQDRP9) | [New Beginnings](https://open.spotify.com/album/2zXM779KLdXrsNJAnpF3IF) | 3:09 | 2024-12-20 |  |
+| [New Beginnings](https://open.spotify.com/track/4koz4IhwGvSYlFhrYej6yr) | [Pello Esso](https://open.spotify.com/artist/4Bxpz0ttb5aP5b7rIc81J6) | [New Beginnings](https://open.spotify.com/album/5eboemT7dTxu8VnCGkaM57) | 3:03 | 2025-06-24 |  |
 | [New Frontier](https://open.spotify.com/track/6hkZ974ZJcWY6NorsnIFIV) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [New Frontier](https://open.spotify.com/album/3cSuL271dmIfPhrzwbcCvE) | 3:30 | 2020-10-20\* | 2021-03-25 |
 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 | 2021-06-23 | 2021-10-16 |
 | [Newark](https://open.spotify.com/track/3VSL6qzD1jjXGzp99rncwE) | [Pedro Amblar](https://open.spotify.com/artist/4X2KYm3AxSmnslRkjs0A22) | [Newark](https://open.spotify.com/album/3RHjkM61EmiEOie5CLSEaq) | 2:22 | 2024-03-26 |  |
@@ -462,7 +463,7 @@
 | [Orion](https://open.spotify.com/track/6UcE4k2auErKMMCutuTJoC) | [Milky Road](https://open.spotify.com/artist/44s2EGhne0PJcJqpp5PnVS) | [Orion](https://open.spotify.com/album/1LTSRgOvF9GazbVQMbP6RY) | 2:16 | 2023-11-17 | 2025-01-18 |
 | [Overflowing](https://open.spotify.com/track/2LF4aG0VkCWkdbON0s6wF0) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Overflowing](https://open.spotify.com/album/5CHsncImviOauUPe5bRAhF) | 2:57 | 2024-12-06 | 2025-04-26 |
 | [Overseas](https://open.spotify.com/track/1BfcslI8bC66wOEYLqmA54) | [Marcel Janssen](https://open.spotify.com/artist/3LeDFQTB2L2bu32qCK2Pxo) | [Overseas](https://open.spotify.com/album/4aO1OAB0EEduHKBuVnxv0R) | 2:44 | 2021-02-12 | 2022-04-15 |
-| [Paint](https://open.spotify.com/track/3aQ7Zu6BKPMcj6kkHAmt4z) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Concrete Miracle EP](https://open.spotify.com/album/0XO6KvzYky6tmlQQAyqnME) | 4:00 | 2021-11-10 |  |
+| [Paint](https://open.spotify.com/track/3aQ7Zu6BKPMcj6kkHAmt4z) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Concrete Miracle EP](https://open.spotify.com/album/0XO6KvzYky6tmlQQAyqnME) | 4:00 | 2021-11-10 | 2025-06-25 |
 | [Palm Tree](https://open.spotify.com/track/6nalAQtGzYV2PGBdHLrz9p) | [I Can East](https://open.spotify.com/artist/7Mrt8ANdFz3SlbMsD6GICP) | [Palm Tree](https://open.spotify.com/album/1iQXVdRUs2eJ0wDwpvStIl) | 5:48 | 2021-02-24 | 2021-08-25 |
 | [Parabola \- Edit](https://open.spotify.com/track/695FXM9HsfmTF4nJ84UlVF) | [Hammer](https://open.spotify.com/artist/3KtaBB3asBs44O4h3xx2V0) | [Parabola](https://open.spotify.com/album/7BCpwazCgnPVBybhYOiNCc) | 4:09 | 2020-10-20\* | 2020-10-30 |
 | [Paradisio](https://open.spotify.com/track/7GbmFwC2i0P5kqkDdMPmhz) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Paradisio](https://open.spotify.com/album/4E6olUhJDgeSKnXPDTsTd7) | 2:51 | 2021-08-25 | 2022-02-11 |
@@ -646,6 +647,7 @@
 | [tagada](https://open.spotify.com/track/0dZF0uYtRqO8jiomWHPaaI) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [tagada](https://open.spotify.com/album/47wnVoEyYSQHT1zKMbJkAN) | 2:26 | 2022-05-20 | 2025-01-18 |
 | [Take Me Away \- Edit](https://open.spotify.com/track/1YgJO76UTJIy4z5xOsqCgC) | [Bon Lui](https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg) | [Take Me Away \(Edit\)](https://open.spotify.com/album/5oEZBJrcsENQHwjiPkfGyV) | 2:59 | 2021-01-07 | 2021-01-15 |
 | [Take My Time](https://open.spotify.com/track/0JAYqGAXpGQ2LZoUso7XVu) | [Archie Wells](https://open.spotify.com/artist/41DGrcpJmTy48eilLb8MGl) | [Take My Time](https://open.spotify.com/album/2YXnmNBMusJUBG8U3ifMjI) | 2:16 | 2024-12-20 |  |
+| [Talking About Love](https://open.spotify.com/track/1VbOPDTkUyS54qP61ZRQMg) | [Aneto](https://open.spotify.com/artist/2NN1Bm3UcCgDZEjXPt3ACs) | [Talking About Love](https://open.spotify.com/album/5XHOQiwXpdsVsgSOFthb5Y) | 2:30 | 2025-06-24 |  |
 | [Tall Lines](https://open.spotify.com/track/3cVipzP2GCyV4PeX7uY0oJ) | [Unific](https://open.spotify.com/artist/3e2vf1hRenEilhFGQpduOA) | [Tall Lines](https://open.spotify.com/album/3vJ18kW7V19GzWO8MYiPAp) | 3:07 | 2024-12-06 |  |
 | [Tekapo \- Edit](https://open.spotify.com/track/7nvTywXHEfa4Kb6W9cUhqJ) | [Walter Woods](https://open.spotify.com/artist/1k1WrqbhNylomjfqZ0lq4D) | [Tekapo \(Edit\)](https://open.spotify.com/album/4M8lta7iSWNHxh7eHMpY8Y) | 2:28 | 2021-01-07 | 2022-04-15 |
 | [Telemagenta](https://open.spotify.com/track/6dIZ5m5HodQA0dv43zFbaQ) | [Mystic Maroon](https://open.spotify.com/artist/6OZYmsIeL1bCzCEgavYXXO) | [Telemagenta](https://open.spotify.com/album/1T42FTkfEl38GaONIK8qkh) | 3:02 | 2021-11-10 | 2024-12-21 |

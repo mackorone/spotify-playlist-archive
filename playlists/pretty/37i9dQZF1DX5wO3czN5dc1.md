@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover:  <a href="https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX?si=4oG0oUqBTAusfdxEgG63QQ">Shimza</a>, <a href="https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7?si=G4I4YmHbTrm1\_oRzK6b8zw">AR/CO</a>, <a href="https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r?si=woRWh8gwTUWfCUUPQK1TYw">Kasango</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,319 likes - 60 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,373 likes - 60 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 36787,
+  "num_followers": 36791,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFdHgAAAAABSvV0eRl5PmEh3f2Mr49jp",
+  "snapshot_id": "aFiZAAAAAABbHHe77PoARmKRGOHRXUAW",
   "tracks": [
     {
       "added_at": null,
@@ -219,30 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soon And Very Soon",
-        "url": "https://open.spotify.com/album/6lCOAL1VyOJF5pcCDwKRxs"
-      },
-      "artists": [
-        {
-          "name": "Children Of God",
-          "url": "https://open.spotify.com/artist/7M649YaEUgAnKaIW48vbcZ"
-        },
-        {
-          "name": "Chicco",
-          "url": "https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f"
-        },
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Soon And Very Soon",
-      "url": "https://open.spotify.com/track/6moVmCVeuTE9kVkLqb4LOs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Republik",
         "url": "https://open.spotify.com/album/4EPyqparNEvWk2gbHgXPzO"
       },
@@ -263,6 +239,30 @@
       "duration_ms": 236379,
       "name": "Mamgobhozi",
       "url": "https://open.spotify.com/track/4SJW5gKYzROFzzgsJlVFov"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soon And Very Soon",
+        "url": "https://open.spotify.com/album/6lCOAL1VyOJF5pcCDwKRxs"
+      },
+      "artists": [
+        {
+          "name": "Children Of God",
+          "url": "https://open.spotify.com/artist/7M649YaEUgAnKaIW48vbcZ"
+        },
+        {
+          "name": "Chicco",
+          "url": "https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f"
+        },
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Soon And Very Soon",
+      "url": "https://open.spotify.com/track/6moVmCVeuTE9kVkLqb4LOs"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 290613,
-      "name": "Uyang'Embarasa",
-      "url": "https://open.spotify.com/track/2sYRByVFwMQAx6K0CTWizr"
+      "duration_ms": 298906,
+      "name": "Ngohlala Ngi Nje",
+      "url": "https://open.spotify.com/track/5oV9NjG1DzywliYzg1CLaS"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 298906,
-      "name": "Ngohlala Ngi Nje",
-      "url": "https://open.spotify.com/track/5oV9NjG1DzywliYzg1CLaS"
+      "duration_ms": 290613,
+      "name": "Uyang'Embarasa",
+      "url": "https://open.spotify.com/track/2sYRByVFwMQAx6K0CTWizr"
     },
     {
       "added_at": null,

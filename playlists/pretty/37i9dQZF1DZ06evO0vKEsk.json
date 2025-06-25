@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 133125,
+  "num_followers": 133119,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFdHgAAAAAA8zbuMWwWPUzvaW0T2yEZA",
+  "snapshot_id": "aFiZAAAAAABleBz91PHbHpFiRLN2wBzn",
   "tracks": [
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Advogado Fiel",
+        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 266286,
+      "name": "Que Bom Voc\u00ea Chegou",
+      "url": "https://open.spotify.com/track/5huHLhDKhr8AGktePPSowf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Forma de Cuidado (Ao Vivo)",
         "url": "https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 244285,
       "name": "Forma de Cuidado (Ao Vivo)",
       "url": "https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Advogado Fiel",
-        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 266286,
-      "name": "Que Bom Voc\u00ea Chegou",
-      "url": "https://open.spotify.com/track/5huHLhDKhr8AGktePPSowf"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 301720,
-      "name": "Deus Vem me Socorrer",
-      "url": "https://open.spotify.com/track/6o8o7Nt2q7793HJxA586BT"
+      "duration_ms": 331070,
+      "name": "Pai Eu Confiarei",
+      "url": "https://open.spotify.com/track/1C1cSdN9oPaKINILtzgqao"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 331070,
-      "name": "Pai Eu Confiarei",
-      "url": "https://open.spotify.com/track/1C1cSdN9oPaKINILtzgqao"
+      "duration_ms": 301720,
+      "name": "Deus Vem me Socorrer",
+      "url": "https://open.spotify.com/track/6o8o7Nt2q7793HJxA586BT"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Incompar\u00e1vel",
+        "url": "https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 224769,
+      "name": "F\u00e9 e a Raz\u00e3o",
+      "url": "https://open.spotify.com/track/0zWJggve8BGN44iUC5MxLP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Marca da Promessa (Ao Vivo)",
         "url": "https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 291363,
       "name": "Jamais Deixarei Voc\u00ea",
       "url": "https://open.spotify.com/track/6AfCnl74vwdljXyxwkni83"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Incompar\u00e1vel",
-        "url": "https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 224769,
-      "name": "F\u00e9 e a Raz\u00e3o",
-      "url": "https://open.spotify.com/track/0zWJggve8BGN44iUC5MxLP"
     },
     {
       "added_at": null,

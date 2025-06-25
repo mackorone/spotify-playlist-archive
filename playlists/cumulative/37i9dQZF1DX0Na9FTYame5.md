@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: CIVO
 
-228 songs - 10 hr 20 min
+229 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Interstellar](https://open.spotify.com/track/6kmPczo7Je768spiarAo71) | [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt), [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Interstellar](https://open.spotify.com/album/3tNv4yVxXiqHdAaTlpJSoI) | 2:22 | 2025-03-10 | 2025-05-09 |
 | [Irgendwas klopft](https://open.spotify.com/track/4IjCVfzb1JQJ8KKkhXllVl) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Irgendwas klopft](https://open.spotify.com/album/3sFYYuRzNlpUH3Q6ZcZZhD) | 2:06 | 2024-06-28 | 2024-10-25 |
 | [Jasmin](https://open.spotify.com/track/6rjpIgtN4FOujp5DbZZnCh) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Jasmin](https://open.spotify.com/album/7KWdJbywMgQKrRiMq4YCAm) | 2:37 | 2025-02-03 |  |
+| [Junimond](https://open.spotify.com/track/1VVXleOdSTlRz9jrvPMLYh) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Junimond](https://open.spotify.com/album/5NsPGR69Y7ucREdsdmsrYs) | 2:30 | 2025-06-24 |  |
 | [KAPUTTE NIKES](https://open.spotify.com/track/0PRn0wppJozInSVkjEpK8Z) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [KAPUTTE NIKES](https://open.spotify.com/album/57tkUG6UbznOuHYz4GukL2) | 2:48 | 2024-06-28 | 2024-08-29 |
 | [Kein Auge zu](https://open.spotify.com/track/16J16IGdl3TJrIibIUdM91) | [Paves 16](https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM) | [Kein Auge zu](https://open.spotify.com/album/72B7l6QPzUkbS5vRpks9Mg) | 2:31 | 2025-05-27 |  |
 | [Keine Helden](https://open.spotify.com/track/3hvT7LmndHeQ8dIPFXe4HU) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG) | [Keine Helden](https://open.spotify.com/album/11AkC0fCpMYZ6Ef4NK0wHK) | 3:05 | 2025-06-09 |  |
@@ -113,7 +114,7 @@
 | [Keiner weiß](https://open.spotify.com/track/1D5V4wJKfGBaWDOZBbhBX7) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Keiner weiß](https://open.spotify.com/album/4WD7NqPkS0lVnQ3kjbwkRi) | 2:21 | 2025-01-16 | 2025-03-21 |
 | [Kind](https://open.spotify.com/track/4kiW0MeoisXxwQ4przGEF1) | [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1) | [Kind](https://open.spotify.com/album/7HB6s9e5ZXDu0LXbgliSXl) | 2:25 | 2025-01-20 | 2025-02-21 |
 | [King](https://open.spotify.com/track/3N0KdzIP3kDCm4SPSIl7CT) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [Alies](https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4) | [King](https://open.spotify.com/album/6DTa2fvtiupcS2fBzPfpo1) | 2:49 | 2024-06-28 |  |
-| [Kopf aus](https://open.spotify.com/track/5Th2Rs48Gz3iqfcGMXG5PC) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Kopf aus](https://open.spotify.com/album/12K0tzbbpEgWtjmzN31nop) | 2:16 | 2024-06-28 |  |
+| [Kopf aus](https://open.spotify.com/track/5Th2Rs48Gz3iqfcGMXG5PC) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Kopf aus](https://open.spotify.com/album/12K0tzbbpEgWtjmzN31nop) | 2:16 | 2024-06-28 | 2025-06-25 |
 | [Lamborghini Pink](https://open.spotify.com/track/3BHtvqkiJwrI1AZwiKs90U) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Lamborghini Pink](https://open.spotify.com/album/5I73xqCOth2YG4eixevKZr) | 2:48 | 2024-06-28 | 2024-08-21 |
 | [Langweilig](https://open.spotify.com/track/2xi78SPNsrUSB5vXXCapx3) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Langweilig](https://open.spotify.com/album/4zgYsk2xg8UrEUPA4VXNNP) | 2:05 | 2025-06-09 |  |
 | [Larger than Life](https://open.spotify.com/track/5d1L98CM3w4ouxP9QQ4udD) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [Larger than Life](https://open.spotify.com/album/54AnB7UXKB7RHR46Xs6xI3) | 3:31 | 2024-06-28 | 2024-08-13 |

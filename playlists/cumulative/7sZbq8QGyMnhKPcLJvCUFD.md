@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-721 songs - 1 day 12 hr 23 min
+723 songs - 1 day 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [Need You](https://open.spotify.com/track/2qtyIWqX6LwB5AZwu708wp) | [DigEx](https://open.spotify.com/artist/1fkyWtQzPTsS3Vj6kRtKi0) | [Need You](https://open.spotify.com/album/4WLmLqCxKAIVKGIhHPpEeN) | 2:53 | 2023-01-25 | 2023-04-28 |
 | [Need You](https://open.spotify.com/track/2sUAvG1FJX14GCr3LAp73P) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [Sam Riley](https://open.spotify.com/artist/7tZsqMkZU0zAdwnGHg2MB5) | [Need You](https://open.spotify.com/album/5YdJ8jI8bEauFCvk9q7hLv) | 2:36 | 2023-02-10 | 2023-08-10 |
 | [Need You](https://open.spotify.com/track/6SrzmgeSOjNoSv1BkTPz6A) | [Yonexx](https://open.spotify.com/artist/1qSxzYgUuAxLbHuzCXXvmm), [lunar](https://open.spotify.com/artist/6ba0gaC9S69uLIwRyRvdMr) | [Need You](https://open.spotify.com/album/4DzkeyUJipyGcl8h1kvGuz) | 2:49 | 2023-01-31 | 2023-04-28 |
+| [Need You Again](https://open.spotify.com/track/5pk9UVSYYJawxl6D2g9HgL) | [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Need You Again](https://open.spotify.com/album/3I9CFa50uQSVc7dosPzNsQ) | 3:56 | 2025-06-24 |  |
 | [Nekozilla](https://open.spotify.com/track/5hZiyMZRVChO3RwfypsU6M) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx) | [NCS: Infinity](https://open.spotify.com/album/3AZ2LKHjvsXF3xEGUQ65Q3) | 2:48 | 2023-08-08 | 2024-01-19 |
 | [Neomorph](https://open.spotify.com/track/6W6mHDZCAcdRdFFavmru6u) | [NO QVLT](https://open.spotify.com/artist/4KhqCc2m8ZmB3fraLwK4fg) | [Neomorph](https://open.spotify.com/album/68jkhRlVn7skH09QaF5AzL) | 2:46 | 2022-10-26 | 2023-04-28 |
 | [Never Have I Felt This \- VIP](https://open.spotify.com/track/6WSwigBgXcpDVkEZ05cWuH) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Never Have I Felt This \(VIP\)](https://open.spotify.com/album/1YCHXGgn9HrKsZMHXLMbw6) | 3:12 | 2023-12-13 | 2024-08-28 |
@@ -601,7 +602,7 @@
 | [Strobe](https://open.spotify.com/track/6FHfBEyswVtz99hB9o5QsT) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Strobe](https://open.spotify.com/album/7EvWL9Eemss4ttsG2K9uxL) | 3:17 | 2024-12-08 |  |
 | [Stronger](https://open.spotify.com/track/6L49pJuPwkiSjYFcwK19SA) | [Prismo](https://open.spotify.com/artist/23ostNBoB9z6GMXLtHdg7y) | [Stronger](https://open.spotify.com/album/7aHMPHIbu3sQb6IF5pAt9E) | 3:32 | 2023-08-08 | 2024-01-04 |
 | [Stuck](https://open.spotify.com/track/52EEswA1EqXKDuyzcsbgZV) | [Ripple](https://open.spotify.com/artist/1bNSQdcS5Z0qpyqR9dpbjW) | [Stuck](https://open.spotify.com/album/7fs01eUoFmk6R0ar9AzqS3) | 4:11 | 2024-05-21 | 2025-01-08 |
-| [stuckinmyhead!](https://open.spotify.com/track/34TL9VeKTtvn3cPB6dzp8p) | [youth®](https://open.spotify.com/artist/6RTuy4V5njTbQmHlhpnst7) | [stuckinmyhead!](https://open.spotify.com/album/6iQCYurOp956o4CRQgJ1u3) | 1:31 | 2025-06-13 |  |
+| [STUCKINMYHEAD!](https://open.spotify.com/track/34TL9VeKTtvn3cPB6dzp8p) | [youth®](https://open.spotify.com/artist/6RTuy4V5njTbQmHlhpnst7) | [STUCKINMYHEAD!](https://open.spotify.com/album/6iQCYurOp956o4CRQgJ1u3) | 1:31 | 2025-06-13 |  |
 | [Stutterfly](https://open.spotify.com/track/1o0yHeedgdJc5gnFqja4di) | [Spektrem](https://open.spotify.com/artist/1bNEG4iSClCqQRyZgho3YV) | [Stutterfly](https://open.spotify.com/album/0FH0qU4BYEeL2VorGlJBJ6) | 4:13 | 2025-02-28 |  |
 | [SUN](https://open.spotify.com/track/3ss6ur5xJD1weR8QRYgT3f) | [KEELA](https://open.spotify.com/artist/7rWlbS9hZvqhjYRDgMkY2l) | [SUN](https://open.spotify.com/album/0WsOV2WePPv73OB5XRfyga) | 2:53 | 2024-01-24 | 2024-08-28 |
 | [Sunrise](https://open.spotify.com/track/5bOYGAj0x8UaqA9GxELXzi) | [Leat'eq](https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD) | [Sunrise](https://open.spotify.com/album/0N16seYtml6g0DXWo9Ff25) | 2:25 | 2022-07-05 | 2023-04-28 |
@@ -625,6 +626,7 @@
 | [Taking It Slow](https://open.spotify.com/track/2QEcMk01oiYdAd0Lq4MKBL) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Taking It Slow](https://open.spotify.com/album/6ndnVrxgFH5zjvzjhIxA2r) | 2:40 | 2024-06-27 |  |
 | [Talk That Way](https://open.spotify.com/track/190BbArduRGJbvuZsdRWBh) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [Talk That Way](https://open.spotify.com/album/6dBRpROjaS4RQ7TzV9FU8F) | 3:16 | 2022-09-07 | 2023-04-28 |
 | [techno on my mind](https://open.spotify.com/track/0LzVIF2KHflGWw0IoICeJI) | [speedboys](https://open.spotify.com/artist/76hBRyDANNijjY0veLBwc9) | [techno on my mind](https://open.spotify.com/album/66mlUUwwYRyKmfbq7ib9g0) | 2:57 | 2023-07-28 | 2023-08-10 |
+| [tell me why](https://open.spotify.com/track/5NEQfRhATRpgW13dEM9hZ8) | [youth®](https://open.spotify.com/artist/6RTuy4V5njTbQmHlhpnst7) | [tell me why](https://open.spotify.com/album/5xkdPkP1kSyY8llMdnEUxn) | 2:42 | 2025-06-24 |  |
 | [Tension](https://open.spotify.com/track/3PqHYu8WVkYgzvXuuUPiAr) | [EXXO](https://open.spotify.com/artist/1BxtvQL2w4dn5CnbtkYsGb) | [Tension](https://open.spotify.com/album/4Dy2wATW6kv9fRrjiG5ljD) | 2:40 | 2023-01-11 | 2023-04-28 |
 | [Testify](https://open.spotify.com/track/41aahVnQ5oRhIU5LEc9hfh) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [EXYT](https://open.spotify.com/artist/19ykklbtr7n55Ix9klgevw) | [Testify](https://open.spotify.com/album/2shXXyUgDDl14LykrpWewi) | 3:23 | 2023-05-26 | 2023-08-10 |
 | [The Feeling](https://open.spotify.com/track/5O3ulpsbyoXtjyVdC7Xip4) | [Paul Flint](https://open.spotify.com/artist/7daAovtbFBvpYCDg18wSU1) | [The Feeling](https://open.spotify.com/album/31geBMaHgWPfzWmvGuykNz) | 2:28 | 2022-07-22 | 2023-04-28 |

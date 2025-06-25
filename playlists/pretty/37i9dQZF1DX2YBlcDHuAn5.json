@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33386,
+  "num_followers": 33385,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-06-19 22:00:40",
       "album": {
-        "name": "Can A Heart Take",
-        "url": "https://open.spotify.com/album/4DqEQtnae4LHwyUO6xKF4O"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Can A Heart Take",
-      "url": "https://open.spotify.com/track/755k9yt98SLiS13p5fNbAE"
-    },
-    {
-      "added_at": "2025-06-19 22:00:40",
-      "album": {
         "name": "Purple Gas",
         "url": "https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 180152,
       "name": "Purple Gas",
       "url": "https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx"
+    },
+    {
+      "added_at": "2025-06-19 22:00:40",
+      "album": {
+        "name": "Can A Heart Take",
+        "url": "https://open.spotify.com/album/4DqEQtnae4LHwyUO6xKF4O"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Can A Heart Take",
+      "url": "https://open.spotify.com/track/755k9yt98SLiS13p5fNbAE"
     },
     {
       "added_at": "2025-06-19 22:00:40",
@@ -803,6 +803,26 @@
     {
       "added_at": "2025-06-19 22:00:40",
       "album": {
+        "name": "Overpass Graffiti",
+        "url": "https://open.spotify.com/album/0lz2zuY0L8gcJKGTWyw0q9"
+      },
+      "artists": [
+        {
+          "name": "The Road",
+          "url": "https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA"
+        },
+        {
+          "name": "Elske DeWall",
+          "url": "https://open.spotify.com/artist/3iORog227J0qlfKXYHdR6M"
+        }
+      ],
+      "duration_ms": 234237,
+      "name": "Overpass Graffiti",
+      "url": "https://open.spotify.com/track/0HDQnAQQa0NrKt4q6SqF6a"
+    },
+    {
+      "added_at": "2025-06-19 22:00:40",
+      "album": {
         "name": "You Still Got Me",
         "url": "https://open.spotify.com/album/3kP5jq5rPOdI8yStZ944Pa"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 194741,
       "name": "The Machine - Radio Edit",
       "url": "https://open.spotify.com/track/3kGWfGkDJ11WFqOK2AkYRE"
-    },
-    {
-      "added_at": "2025-06-19 22:00:40",
-      "album": {
-        "name": "Overpass Graffiti",
-        "url": "https://open.spotify.com/album/0lz2zuY0L8gcJKGTWyw0q9"
-      },
-      "artists": [
-        {
-          "name": "The Road",
-          "url": "https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA"
-        },
-        {
-          "name": "Elske DeWall",
-          "url": "https://open.spotify.com/artist/3iORog227J0qlfKXYHdR6M"
-        }
-      ],
-      "duration_ms": 234237,
-      "name": "Overpass Graffiti",
-      "url": "https://open.spotify.com/track/0HDQnAQQa0NrKt4q6SqF6a"
     },
     {
       "added_at": "2025-06-19 22:00:40",

@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 149136,
+  "num_followers": 149158,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,26 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
+        "name": "Cobra (Rock Remix) [feat. Spiritbox]",
+        "url": "https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 186521,
+      "name": "Cobra (Rock Remix) [feat. Spiritbox]",
+      "url": "https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
         "name": "How Do You Love Somebody",
         "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
       },
@@ -631,22 +651,6 @@
       "duration_ms": 180065,
       "name": "How Do You Love Somebody",
       "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
-    },
-    {
-      "added_at": "2025-05-23 18:59:09",
-      "album": {
-        "name": "Risk",
-        "url": "https://open.spotify.com/album/2MhsKJ1ZkRWbRkUrx0eWyH"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 179814,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/54q1XgXR2y7JMRBEzTxA4l"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -669,24 +673,20 @@
       "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
     },
     {
-      "added_at": "2025-02-14 18:48:51",
+      "added_at": "2025-05-23 18:59:09",
       "album": {
-        "name": "Cobra (Rock Remix) [feat. Spiritbox]",
-        "url": "https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y"
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/2MhsKJ1ZkRWbRkUrx0eWyH"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
         }
       ],
-      "duration_ms": 186521,
-      "name": "Cobra (Rock Remix) [feat. Spiritbox]",
-      "url": "https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS"
+      "duration_ms": 179814,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/54q1XgXR2y7JMRBEzTxA4l"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 182746,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "Cinderella Snapped",
         "url": "https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 173103,
       "name": "Cinderella Snapped",
       "url": "https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
+        "name": "DUMB",
+        "url": "https://open.spotify.com/album/1MaFdxIKzqXy265q2Od2YD"
+      },
+      "artists": [
+        {
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "DUMB",
+      "url": "https://open.spotify.com/track/2Yj6AZv4L4mwbq6ghLjIHm"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
         "name": "THE OUTSIDE (OUTSIDERS VERSION)",
         "url": "https://open.spotify.com/album/14kvTa7vi9xBLZqg6lc1Km"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 244648,
       "name": "THE OUTSIDE - OUTSIDERS VERSION",
       "url": "https://open.spotify.com/track/4iGlMhSSuRHUlNAknDjvT8"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
-        "name": "DUMB",
-        "url": "https://open.spotify.com/album/1MaFdxIKzqXy265q2Od2YD"
-      },
-      "artists": [
-        {
-          "name": "People R Ugly",
-          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "DUMB",
-      "url": "https://open.spotify.com/track/2Yj6AZv4L4mwbq6ghLjIHm"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2035,18 +2035,22 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "MESS",
-        "url": "https://open.spotify.com/album/07qQ4rz57acImkDO3GZ5BA"
+        "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
+        "url": "https://open.spotify.com/album/7E9rdvLTWHLxkk1dg3tZno"
       },
       "artists": [
         {
-          "name": "Nightly",
-          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        },
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
         }
       ],
-      "duration_ms": 150530,
-      "name": "MESS",
-      "url": "https://open.spotify.com/track/4pL5Mw5esC7qlR4gcZkXzX"
+      "duration_ms": 214735,
+      "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
+      "url": "https://open.spotify.com/track/4hothXhcXn6OmMXmN9A2cU"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2067,22 +2071,18 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
-        "url": "https://open.spotify.com/album/7E9rdvLTWHLxkk1dg3tZno"
+        "name": "MESS",
+        "url": "https://open.spotify.com/album/07qQ4rz57acImkDO3GZ5BA"
       },
       "artists": [
         {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
-        },
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
         }
       ],
-      "duration_ms": 214735,
-      "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
-      "url": "https://open.spotify.com/track/4hothXhcXn6OmMXmN9A2cU"
+      "duration_ms": 150530,
+      "name": "MESS",
+      "url": "https://open.spotify.com/track/4pL5Mw5esC7qlR4gcZkXzX"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Those Were The Days",
-        "url": "https://open.spotify.com/album/3qp8EVIXBDr8Ah2A9XFh6U"
-      },
-      "artists": [
-        {
-          "name": "True North",
-          "url": "https://open.spotify.com/artist/6E8FJvFB2KBbNyAWUUH155"
-        }
-      ],
-      "duration_ms": 143995,
-      "name": "Those Were The Days",
-      "url": "https://open.spotify.com/track/4QUpenmTaYWx0HCq2zx060"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "Maybe You Saved Me",
         "url": "https://open.spotify.com/album/1T4ojqgTOhuLDEeMPvz3BY"
       },
@@ -2171,18 +2155,18 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Dead To Me",
-        "url": "https://open.spotify.com/album/1mwyZwRToR8k5V7ADCT31H"
+        "name": "Those Were The Days",
+        "url": "https://open.spotify.com/album/3qp8EVIXBDr8Ah2A9XFh6U"
       },
       "artists": [
         {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+          "name": "True North",
+          "url": "https://open.spotify.com/artist/6E8FJvFB2KBbNyAWUUH155"
         }
       ],
-      "duration_ms": 157504,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/1cEml7iH5h7cqd8Dn4HzdF"
+      "duration_ms": 143995,
+      "name": "Those Were The Days",
+      "url": "https://open.spotify.com/track/4QUpenmTaYWx0HCq2zx060"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2199,6 +2183,22 @@
       "duration_ms": 147000,
       "name": "Red Lights",
       "url": "https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/1mwyZwRToR8k5V7ADCT31H"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 157504,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/1cEml7iH5h7cqd8Dn4HzdF"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Sonder",
-        "url": "https://open.spotify.com/album/7uBt3oKpPnAENHAu4g6ipU"
-      },
-      "artists": [
-        {
-          "name": "The Wrecks",
-          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
-        }
-      ],
-      "duration_ms": 200210,
-      "name": "Sonder",
-      "url": "https://open.spotify.com/track/1mvVtX5dLGPe1teRz5ERZV"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "Death Grip",
         "url": "https://open.spotify.com/album/1J71Jvi9ZrCg1prlKhtMOI"
       },
@@ -2287,18 +2271,18 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "RAT TRAP 5: the beginning",
-        "url": "https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn"
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/7uBt3oKpPnAENHAu4g6ipU"
       },
       "artists": [
         {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
         }
       ],
-      "duration_ms": 178260,
-      "name": "American Spirit",
-      "url": "https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c"
+      "duration_ms": 200210,
+      "name": "Sonder",
+      "url": "https://open.spotify.com/track/1mvVtX5dLGPe1teRz5ERZV"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2315,6 +2299,22 @@
       "duration_ms": 186506,
       "name": "Two Friends",
       "url": "https://open.spotify.com/track/7KqNayeKNptUTwqL57uvBd"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "RAT TRAP 5: the beginning",
+        "url": "https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 178260,
+      "name": "American Spirit",
+      "url": "https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2353,20 +2353,20 @@
       "url": "https://open.spotify.com/track/2aU60JTvtQOPQ7CPkpJrnz"
     },
     {
-      "added_at": "2025-02-14 18:48:51",
+      "added_at": "2025-06-13 14:45:07",
       "album": {
-        "name": "Love Bites",
-        "url": "https://open.spotify.com/album/3tKC0vwrBcx2GSzxWzGG15"
+        "name": "FEVER",
+        "url": "https://open.spotify.com/album/0TE9DjZPAVT9LFtpjUhi6F"
       },
       "artists": [
         {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+          "name": "BEAUTY SCHOOL DROPOUT",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
         }
       ],
-      "duration_ms": 208450,
-      "name": "Love Bites",
-      "url": "https://open.spotify.com/track/3viXIhTdaNjxxvaMKdcsNw"
+      "duration_ms": 193000,
+      "name": "ON YOUR LIPS",
+      "url": "https://open.spotify.com/track/6Yc3Jz75oRKoA0abpy3eB3"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2387,6 +2387,22 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
+        "name": "Love Bites",
+        "url": "https://open.spotify.com/album/3tKC0vwrBcx2GSzxWzGG15"
+      },
+      "artists": [
+        {
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+        }
+      ],
+      "duration_ms": 208450,
+      "name": "Love Bites",
+      "url": "https://open.spotify.com/track/3viXIhTdaNjxxvaMKdcsNw"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
         "name": "DUMB",
         "url": "https://open.spotify.com/album/3pNjQuJygUNCQhfmkNzbc1"
       },
@@ -2399,22 +2415,6 @@
       "duration_ms": 148433,
       "name": "DUMB",
       "url": "https://open.spotify.com/track/0O354383OL3XXPICUiHOkl"
-    },
-    {
-      "added_at": "2025-06-13 14:45:07",
-      "album": {
-        "name": "FEVER",
-        "url": "https://open.spotify.com/album/0TE9DjZPAVT9LFtpjUhi6F"
-      },
-      "artists": [
-        {
-          "name": "BEAUTY SCHOOL DROPOUT",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "ON YOUR LIPS",
-      "url": "https://open.spotify.com/track/6Yc3Jz75oRKoA0abpy3eB3"
     },
     {
       "added_at": "2025-02-14 18:48:51",

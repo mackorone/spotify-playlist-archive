@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: Superfly",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u690e\u540d\u6797\u6a8e",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 158156,
       "name": "addicted",
       "url": "https://open.spotify.com/track/6pbFoDKhAFfnlGy63ob2mf"
@@ -2246,7 +2246,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 209402,
       "name": "Angel",
       "url": "https://open.spotify.com/track/191F1vd7Gk40CiiS4QIccM"
@@ -3416,7 +3416,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 188426,
       "name": "Battened Ships",
       "url": "https://open.spotify.com/track/0ZjaqdqObWrJNch55W8pFj"
@@ -7848,7 +7848,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 267840,
       "name": "Driving Summer",
       "url": "https://open.spotify.com/track/4WHMEWCwKOlBGNABFoj5Fg"
@@ -8094,7 +8094,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 215073,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/6b2KRSiAOIDrGUSgfuv4iP"
@@ -10688,7 +10688,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 216452,
       "name": "good morning me",
       "url": "https://open.spotify.com/track/5u6ZVYgX2DZvAyVh6KblMp"
@@ -11110,6 +11110,24 @@
       "duration_ms": 231088,
       "name": "Hank",
       "url": "https://open.spotify.com/track/2goChbIPuZYwE4AweOXNKd"
+    },
+    {
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/3jqGi1n11HFBscBMDS2sVZ"
+      },
+      "artists": [
+        {
+          "name": "UA",
+          "url": "https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263946,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/3IiMNkpbU0zjXggH3hwits"
     },
     {
       "album": {
@@ -12908,7 +12926,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 231990,
       "name": "I Hope",
       "url": "https://open.spotify.com/track/5YBJDqrtT9YDObtvIpQ5yI"
@@ -17948,7 +17966,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 195590,
       "name": "Marry You",
       "url": "https://open.spotify.com/track/6cQxdnfEg5IL6C5FCOvGXu"
@@ -28368,7 +28386,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 168571,
       "name": "Summer Love",
       "url": "https://open.spotify.com/track/0ny48ucaT7xrXu8Ne1wKnS"
@@ -31654,6 +31672,28 @@
       "duration_ms": 156266,
       "name": "UnSaid",
       "url": "https://open.spotify.com/track/3ywmjRImJp7Mc6p54cineY"
+    },
+    {
+      "album": {
+        "name": "SO FAR, SO GOOD",
+        "url": "https://open.spotify.com/album/2xIBYwvLWwaISrBwlzriXw"
+      },
+      "artists": [
+        {
+          "name": "\u8c61\u7720\u820e",
+          "url": "https://open.spotify.com/artist/7KSV9OZfpTakHP1o9uPFG6"
+        },
+        {
+          "name": "Toko Miura",
+          "url": "https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278991,
+      "name": "Unseen - feat. \u4e09\u6d66\u900f\u5b50",
+      "url": "https://open.spotify.com/track/2jUxrhF6uvXks0Qg9mD3pa"
     },
     {
       "album": {
@@ -36812,7 +36852,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 205733,
       "name": "\u3059\u306a\u3044\u3071\u30fc\u3002",
       "url": "https://open.spotify.com/track/0taluMnYokviw9ujgOslXV"
@@ -44332,7 +44372,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-29",
+      "date_removed": null,
       "duration_ms": 179400,
       "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/7fcEOJGsOOVyz8XeDwvLRZ"
@@ -50621,6 +50661,24 @@
     },
     {
       "album": {
+        "name": "ALL TIME BEST 25th Anniversary",
+        "url": "https://open.spotify.com/album/75IGzSRH14XeN321B1F46B"
+      },
+      "artists": [
+        {
+          "name": "Crystal Kay",
+          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267721,
+      "name": "\u604b\u306b\u304a\u3061\u305f\u3089 - Re-recording",
+      "url": "https://open.spotify.com/track/6iywS3OQUo4hYJBjk9XEdx"
+    },
+    {
+      "album": {
         "name": "\u604b\u306b\u304a\u3061\u3066 -Fall in love-",
         "url": "https://open.spotify.com/album/35Tpz494g4I6Q5VDhpIme7"
       },
@@ -50834,7 +50892,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-29",
+      "date_removed": null,
       "duration_ms": 245900,
       "name": "\u604b\u3092\u3072\u305d\u3081\u3066",
       "url": "https://open.spotify.com/track/7KfcUxHjapiDyb2nGXF0Lr"
@@ -52124,7 +52182,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-29",
+      "date_removed": null,
       "duration_ms": 201764,
       "name": "\u661f\u3081\u3050\u308b\u8a69",
       "url": "https://open.spotify.com/track/30aPCMAtkH6Cf5ejzY4cE4"
@@ -53344,7 +53402,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 219903,
       "name": "\u6771\u4eac\u306e\u591c",
       "url": "https://open.spotify.com/track/78NozSBr0IBcXBWnYwbIPN"
@@ -53442,6 +53500,24 @@
       "duration_ms": 251923,
       "name": "\u6771\u96f2\u306e\u7a7a",
       "url": "https://open.spotify.com/track/6a7YhzN8mpMGUvpznqAD2x"
+    },
+    {
+      "album": {
+        "name": "\u8292\u306b\u6708",
+        "url": "https://open.spotify.com/album/14Mamzg3Id7WcUtkbT3umL"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "\u677e\u306b\u9db4",
+      "url": "https://open.spotify.com/track/32eU3Iod2SBL0C7sJaIdYf"
     },
     {
       "album": {
@@ -53998,7 +54074,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 193226,
       "name": "\u6d6e\u6c17\u3057\u305f\u3089\u3042\u304b\u3093\u3067",
       "url": "https://open.spotify.com/track/2Ttoq33zOFH1eMmDhSgvQ0"
@@ -56572,6 +56648,24 @@
       "duration_ms": 350673,
       "name": "\u821f",
       "url": "https://open.spotify.com/track/1tlte6ejoIblaWzWUOw7aA"
+    },
+    {
+      "album": {
+        "name": "\u8292\u306b\u6708",
+        "url": "https://open.spotify.com/album/0JBEQWnr0hXmVo69J4de6H"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378000,
+      "name": "\u8292\u306b\u6708",
+      "url": "https://open.spotify.com/track/2Ydg2XLkYUGXsNvtJmTqj2"
     },
     {
       "album": {

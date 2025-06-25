@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-665 songs - 1 day 10 hr 16 min
+666 songs - 1 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Die For You](https://open.spotify.com/track/2lz3zjQ5QCVXiyOzIk02vW) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Die For You](https://open.spotify.com/album/4O7Fn6jEB5xN1HXjMALCHp) | 3:32 | 2022-05-06 | 2023-07-19 |
 | [Do It To It \- Andrew Rayel Remix](https://open.spotify.com/track/47FkgO7LWJD8rBovCn41oI) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Andrew Rayel Remix\)](https://open.spotify.com/album/2DOUM1xLtHBULOstCoXFFq) | 2:26 | 2022-05-06 | 2022-07-29 |
 | [don't come back](https://open.spotify.com/track/3tPrgyExznmJs4wA51yXlJ) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [don't come back](https://open.spotify.com/album/11cbxbrYCNcdzRMAbbKZop) | 3:09 | 2024-07-26 |  |
+| [Don't Mess With The Fire](https://open.spotify.com/track/1BFtsk36BEI4OZuylBirW3) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Don't Mess With The Fire](https://open.spotify.com/album/4FgD2SnL81w4MSReXxhXsV) | 2:47 | 2025-06-20 |  |
 | [Don't Wake Me Up](https://open.spotify.com/track/5ieyP4fDwxueOeQ6kwUnwm) | [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp) | [Don't Wake Me Up](https://open.spotify.com/album/5iL66rtAS4BMstugxgWA9M) | 4:14 | 2022-05-06 | 2022-07-29 |
 | [Don't Wanna Let Myself Down](https://open.spotify.com/track/24Dz4BuswUpKX4eSTQ7yTj) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Addict](https://open.spotify.com/album/73KJ30g0if8oRKwSGiLZd4) | 2:35 | 2022-05-06 | 2022-07-29 |
 | [Don't You Hold Me Down](https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Don't You Hold Me Down](https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ) | 2:12 | 2022-05-06 |  |
@@ -268,7 +269,7 @@
 | [Hiding](https://open.spotify.com/track/1LI8RWdVS2RWTn3GPPhVsA) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [Hiding](https://open.spotify.com/album/1oFiCEgZ9T89OZmnej5tjf) | 2:45 | 2024-07-05 | 2024-08-02 |
 | [Higher Calling](https://open.spotify.com/track/3wZXYxSl00Yp59fvXSvjiC) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Julia Sanina](https://open.spotify.com/artist/0efc3nE6FItdogB7HGWlst) | [Higher Calling](https://open.spotify.com/album/2EwBTFIpaCDny9RDaVROyr) | 3:37 | 2025-04-18 | 2025-05-31 |
 | [Highest Building \(feat\. Oklou\)](https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:36 | 2022-05-20 | 2022-10-02 |
-| [Hijack](https://open.spotify.com/track/0GHfI7rdYSibiQTR8D1lTl) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Hijack](https://open.spotify.com/album/4Tzxhm1EfOEUu6VelOuS3h) | 2:35 | 2025-05-23 |  |
+| [Hijack](https://open.spotify.com/track/0GHfI7rdYSibiQTR8D1lTl) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Hijack](https://open.spotify.com/album/4Tzxhm1EfOEUu6VelOuS3h) | 2:35 | 2025-05-23 | 2025-06-25 |
 | [Hit The Road Jack](https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV) | [Bisken](https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf), [Millows](https://open.spotify.com/artist/5GQeYhFPfFWauYWJXMJ1BG) | [Hit The Road Jack](https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu) | 2:06 | 2024-03-01 | 2024-06-25 |
 | [Hold On](https://open.spotify.com/track/2ovGnmrSBfwTSXKhf5dvZv) | [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9), [James Burki](https://open.spotify.com/artist/4G8wfydMXBt8bJQNitLqMM) | [Hold On](https://open.spotify.com/album/1FAMnk7iSLxkm91LJJy6Ra) | 3:29 | 2022-05-30 | 2022-06-08 |
 | [Holding On \- Kompany Remix](https://open.spotify.com/track/4kbzXzMXEjPYVqpnRsE4Xk) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Drown/Holding On \(Remixes\)](https://open.spotify.com/album/6Hs3Ge3zoT6G75akPaB27p) | 3:12 | 2022-05-13 | 2022-07-28 |

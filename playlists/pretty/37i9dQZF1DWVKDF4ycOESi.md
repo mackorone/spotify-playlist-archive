@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Fabri Fibra, BLANCO, Giorgia, Tony Boy e Lazza, Frah Quintale, Central Cee e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,422 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,431 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

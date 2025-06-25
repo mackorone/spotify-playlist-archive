@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt \. Ảnh bìa: Cầm
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,869 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,873 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 42 | [Đi Giữa Trời Rực Rỡ \- From "Đi Giữa Trời Rực Rỡ"](https://open.spotify.com/track/62bwj2FZsr0ljcap1FEf8g) | [Ngô Lan Hương](https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC) | [Đi Giữa Trời Rực Rỡ \(From "Đi Giữa Trời Rực Rỡ"\)](https://open.spotify.com/album/3bbkxOcKHeyfk2UnZbXu5J) | 3:40 |
 | 43 | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU) | [Olew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/album/1gCpFjhvdR27Pgw5TljbFl) | 4:38 |
 | 44 | [Một Người Đánh Mất Một Người](https://open.spotify.com/track/00be0bf1yiRaJB8PMXG9uj) | [Olew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Một Người Đánh Mất Một Người](https://open.spotify.com/album/2E6ZljmtzzHy1oxv1Yoaht) | 4:17 |
-| 45 | [Một Cú Lừa](https://open.spotify.com/track/16YX7SfThwFHdSYYWO6VaL) | [Bích Phương](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [tâm trạng tan hơi chậm một chút](https://open.spotify.com/album/56sZf01q5Ih5jXICYyslq7) | 3:28 |
+| 45 | [Một Cú Lừa](https://open.spotify.com/track/16YX7SfThwFHdSYYWO6VaL) | [Bích Phương](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [tâm trạng tan hơi chậm một chút](https://open.spotify.com/album/56sZf01q5Ih5jXICYyslq7) | 2:32 |
 | 46 | [Real Love \- The Heroes Version](https://open.spotify.com/track/2Gazl1MAVX8vmo8E659Vq8) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [Khắc Hưng](https://open.spotify.com/artist/2mx5AAdmlMxMcrcd7AQh1j) | [Real Love \(The Heroes Version\)](https://open.spotify.com/album/1QkxoTESjfTccBQqMG08Bb) | 4:03 |
 | 47 | [24H](https://open.spotify.com/track/4UC3NBjtqbYcqPqRq1s57D) | [Lyly](https://open.spotify.com/artist/4POahBr8YCPNKGErIiofyx), [Magazine](https://open.spotify.com/artist/6sMgWEav2BrXWMRmP56oRS) | [24H](https://open.spotify.com/album/21hmaZuO1aUc7PZCfRJ7cN) | 4:16 |
 | 48 | [Anh \- Uyên Linh Version](https://open.spotify.com/track/1EaROPDCbTXXbThq7uMpPC) | [Uyên Linh](https://open.spotify.com/artist/2KUMXzsDcJqXZW0CRh07zP) | [Anh](https://open.spotify.com/album/0P91wcAcNdrsYUJnWYXggD) | 3:02 |

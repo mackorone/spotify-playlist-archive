@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las escenas en M\u00e9xico en compa\u00f1\u00eda de Doony Graff ",
-  "num_followers": 91230,
+  "num_followers": 91256,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,26 @@
     {
       "added_at": "2025-06-20 06:00:35",
       "album": {
+        "name": "MONICA",
+        "url": "https://open.spotify.com/album/0TS7Hux0Ie6cv7x8zP3ST3"
+      },
+      "artists": [
+        {
+          "name": "Doony Graff",
+          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
+        },
+        {
+          "name": "Ezya",
+          "url": "https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F"
+        }
+      ],
+      "duration_ms": 131134,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/6HoSGc6iNoXHByugz9eMAz"
+    },
+    {
+      "added_at": "2025-06-20 06:00:35",
+      "album": {
         "name": "\u00d1ero Session 17",
         "url": "https://open.spotify.com/album/4UDoV0gSbWnoVVYUW2XmYB"
       },
@@ -219,26 +239,6 @@
       "duration_ms": 170863,
       "name": "\u00d1ero Session 17",
       "url": "https://open.spotify.com/track/28sOcy3NXj7ga0JMEHauIU"
-    },
-    {
-      "added_at": "2025-06-20 06:00:35",
-      "album": {
-        "name": "MONICA",
-        "url": "https://open.spotify.com/album/0TS7Hux0Ie6cv7x8zP3ST3"
-      },
-      "artists": [
-        {
-          "name": "Doony Graff",
-          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
-        },
-        {
-          "name": "Ezya",
-          "url": "https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F"
-        }
-      ],
-      "duration_ms": 131134,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/6HoSGc6iNoXHByugz9eMAz"
     },
     {
       "added_at": "2025-06-20 06:00:35",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-06-20 06:00:35",
       "album": {
-        "name": "FLOR marchita",
-        "url": "https://open.spotify.com/album/22F1ZtDQdfNB8Ak1PH1MXh"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9rida",
-          "url": "https://open.spotify.com/artist/40mr1p17oA1QhgK0IoJZkj"
-        }
-      ],
-      "duration_ms": 209473,
-      "name": "FLOR marchita",
-      "url": "https://open.spotify.com/track/7BgxOXanBzh7HTGHOgFCku"
-    },
-    {
-      "added_at": "2025-06-20 06:00:35",
-      "album": {
         "name": "Bellako Loner Club",
         "url": "https://open.spotify.com/album/4cM9FzKuYIyD8kXakMLsbw"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 180679,
       "name": "Que pretendes",
       "url": "https://open.spotify.com/track/0FAqZhz6FO4SoNN5wSXgn1"
+    },
+    {
+      "added_at": "2025-06-20 06:00:35",
+      "album": {
+        "name": "FLOR marchita",
+        "url": "https://open.spotify.com/album/22F1ZtDQdfNB8Ak1PH1MXh"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9rida",
+          "url": "https://open.spotify.com/artist/40mr1p17oA1QhgK0IoJZkj"
+        }
+      ],
+      "duration_ms": 209473,
+      "name": "FLOR marchita",
+      "url": "https://open.spotify.com/track/7BgxOXanBzh7HTGHOgFCku"
     },
     {
       "added_at": "2025-06-20 06:00:35",
@@ -843,18 +843,22 @@
     {
       "added_at": "2025-06-20 06:00:35",
       "album": {
-        "name": "REGGAETON CUTE (VOL. 2)",
-        "url": "https://open.spotify.com/album/0kjy8jkLfjNuLpsD0IYcC7"
+        "name": "DAYDRMN / MOTION",
+        "url": "https://open.spotify.com/album/7oFZh6cjdHo33sIXaIUjz9"
       },
       "artists": [
         {
-          "name": "Roby Damian",
-          "url": "https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5"
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        },
+        {
+          "name": "luvKMI",
+          "url": "https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO"
         }
       ],
-      "duration_ms": 158571,
-      "name": "MI D",
-      "url": "https://open.spotify.com/track/78UCRREwnCspGmSX6njy35"
+      "duration_ms": 139500,
+      "name": "DAYDRMN",
+      "url": "https://open.spotify.com/track/28RmOkcdFjj96dUKy5U9aP"
     },
     {
       "added_at": "2025-06-20 06:00:35",
@@ -883,22 +887,18 @@
     {
       "added_at": "2025-06-20 06:00:35",
       "album": {
-        "name": "DAYDRMN / MOTION",
-        "url": "https://open.spotify.com/album/7oFZh6cjdHo33sIXaIUjz9"
+        "name": "REGGAETON CUTE (VOL. 2)",
+        "url": "https://open.spotify.com/album/0kjy8jkLfjNuLpsD0IYcC7"
       },
       "artists": [
         {
-          "name": "day2k",
-          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
-        },
-        {
-          "name": "luvKMI",
-          "url": "https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO"
+          "name": "Roby Damian",
+          "url": "https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5"
         }
       ],
-      "duration_ms": 139500,
-      "name": "DAYDRMN",
-      "url": "https://open.spotify.com/track/28RmOkcdFjj96dUKy5U9aP"
+      "duration_ms": 158571,
+      "name": "MI D",
+      "url": "https://open.spotify.com/track/78UCRREwnCspGmSX6njy35"
     },
     {
       "added_at": "2025-06-20 06:00:35",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-06-20 06:00:35",
       "album": {
-        "name": "Voz en el Mar",
-        "url": "https://open.spotify.com/album/0h2WlyrHox0ZH2Jlxs7Obb"
-      },
-      "artists": [
-        {
-          "name": "Ele Suarez",
-          "url": "https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU"
-        }
-      ],
-      "duration_ms": 194694,
-      "name": "Voz en el Mar",
-      "url": "https://open.spotify.com/track/6PxW6AGMLOetOyHF7gjVAH"
-    },
-    {
-      "added_at": "2025-06-20 06:00:35",
-      "album": {
         "name": "Cumbia Psic\u00f3pata",
         "url": "https://open.spotify.com/album/3kmi764fRGYOBYEY5AZrfL"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 180908,
       "name": "Cumbia Psic\u00f3pata",
       "url": "https://open.spotify.com/track/5O9v2v8maQtg6s4J1mjuPY"
+    },
+    {
+      "added_at": "2025-06-20 06:00:35",
+      "album": {
+        "name": "Voz en el Mar",
+        "url": "https://open.spotify.com/album/0h2WlyrHox0ZH2Jlxs7Obb"
+      },
+      "artists": [
+        {
+          "name": "Ele Suarez",
+          "url": "https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU"
+        }
+      ],
+      "duration_ms": 194694,
+      "name": "Voz en el Mar",
+      "url": "https://open.spotify.com/track/6PxW6AGMLOetOyHF7gjVAH"
     },
     {
       "added_at": "2025-06-20 06:00:35",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-06-20 06:00:35",
       "album": {
+        "name": "tragaperras",
+        "url": "https://open.spotify.com/album/0SfLaf6FpAAvsgMUi8O1p6"
+      },
+      "artists": [
+        {
+          "name": "unperro andaluz",
+          "url": "https://open.spotify.com/artist/33lAD1kEfIjRuF6nt94u5k"
+        }
+      ],
+      "duration_ms": 208634,
+      "name": "caratrapo",
+      "url": "https://open.spotify.com/track/6SE1BADGvQIrHOb87nqyPi"
+    },
+    {
+      "added_at": "2025-06-20 06:00:35",
+      "album": {
         "name": "AYER (Remix)",
         "url": "https://open.spotify.com/album/0zWRTUiPOrinD7h0CJZjG1"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 268448,
       "name": "AYER - Remix",
       "url": "https://open.spotify.com/track/5UdCKes1hghYGBGUNdT6YT"
-    },
-    {
-      "added_at": "2025-06-20 06:00:35",
-      "album": {
-        "name": "tragaperras",
-        "url": "https://open.spotify.com/album/0SfLaf6FpAAvsgMUi8O1p6"
-      },
-      "artists": [
-        {
-          "name": "unperro andaluz",
-          "url": "https://open.spotify.com/artist/33lAD1kEfIjRuF6nt94u5k"
-        }
-      ],
-      "duration_ms": 208634,
-      "name": "caratrapo",
-      "url": "https://open.spotify.com/track/6SE1BADGvQIrHOb87nqyPi"
     },
     {
       "added_at": "2025-06-20 06:00:35",

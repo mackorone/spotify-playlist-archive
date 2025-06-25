@@ -4,34 +4,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Biffy Clyro
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,164 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,167 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:07 |
-| 2 | [jupiter](https://open.spotify.com/track/2R9tRDrSrKgfO3UgicExI4) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [DIVE \(deluxe\)](https://open.spotify.com/album/7rte7WibgnQAyx25NhYJp6) | 3:02 |
-| 3 | [we never dated](https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [we never dated](https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez) | 3:16 |
-| 4 | [Natural Woman](https://open.spotify.com/track/3s382wKMe6FvXmwTS1bWmN) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Muscle Shoals](https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt) | 3:05 |
-| 5 | [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 |
+| 2 | [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 |
+| 3 | [jupiter](https://open.spotify.com/track/2R9tRDrSrKgfO3UgicExI4) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [DIVE \(deluxe\)](https://open.spotify.com/album/7rte7WibgnQAyx25NhYJp6) | 3:02 |
+| 4 | [we never dated](https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [we never dated](https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez) | 3:16 |
+| 5 | [Natural Woman](https://open.spotify.com/track/3s382wKMe6FvXmwTS1bWmN) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Muscle Shoals](https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt) | 3:05 |
 | 6 | [The Rope](https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [The Rope](https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId) | 3:10 |
 | 7 | [Red Flag Magician](https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Red Flag Magician](https://open.spotify.com/album/1gRciLdgJ2GetUgTSher9p) | 5:28 |
 | 8 | [Ghosts](https://open.spotify.com/track/6FVK5UcCwZ3k34vT2wenhd) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Idols](https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE) | 6:26 |
 | 9 | [Cutthroat](https://open.spotify.com/track/5cQmKBhv5Ui17M4hopt2TX) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/6C4fHqAWoZdy7A4o07euoP) | 3:14 |
-| 10 | [Want](https://open.spotify.com/track/596Nd1HxYf2YsnB9py9kWe) | [the.king.lost](https://open.spotify.com/artist/4vVV7Gm1SONBG9xgF4WYt0) | [Want](https://open.spotify.com/album/64sLeAU2vjbQhf6OUzdGxG) | 3:29 |
-| 11 | [Backseat](https://open.spotify.com/track/60jhw0sIOSTjVmb9SkuA4s) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Backseat](https://open.spotify.com/album/6gz8kYsgYsH46YpWsZtGTa) | 6:23 |
-| 12 | [All over me](https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6) | 3:22 |
-| 13 | [The Contract](https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Contract](https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J) | 3:48 |
-| 14 | [Paint A Picture](https://open.spotify.com/track/4utuVAGRIGr2rZ4RNOsToh) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Paint A Picture](https://open.spotify.com/album/6GAwsYJC09D75uOSpkAdWM) | 2:48 |
-| 15 | [Nothing On Me](https://open.spotify.com/track/0Javk02TRcIDmL6aYv7VAj) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [Nothing On Me](https://open.spotify.com/album/603CwAyUDL1CurqYiYltjM) | 2:44 |
-| 16 | [The Jamie Oliver Petrol Station](https://open.spotify.com/track/3zTqj90l1JdCzBBhxk5Z7U) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [The Jamie Oliver Petrol Station](https://open.spotify.com/album/1HbenZ8GM8vwvmkwGRLbmM) | 5:23 |
-| 17 | [I CARE](https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:53 |
-| 18 | [Will I Ever Feel Again](https://open.spotify.com/track/2L25gWxEcBTLxCI8vuENuI) | [CIEL](https://open.spotify.com/artist/419lBVMZC4wFzJg8evBZ4g) | [Will I Ever Feel Again](https://open.spotify.com/album/06kzLE3sups1GQVxUqapMo) | 3:07 |
-| 19 | [Wake Me Up](https://open.spotify.com/track/1tenXdRDmbXA1spfbDSxmc) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [21st Century Fiction](https://open.spotify.com/album/6PXuxQUn7Ar2AKt2BSseX2) | 5:20 |
-| 20 | [Winged Seeds](https://open.spotify.com/track/2Pe8YBKX04g0JprDskz1ty) | [The Radar Station](https://open.spotify.com/artist/3Vp5u3UjIcleE3GSU5DSLs) | [Winged Seeds](https://open.spotify.com/album/2OMsUTk3gRWGrtBQDEopHI) | 4:19 |
-| 21 | [No Rain, No Flowers](https://open.spotify.com/track/2aCRmuNL8RaBi8h7BbmTsT) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/23zADDjNU8SsruJg2Fcg88) | 3:16 |
-| 22 | [Wound Up Here \(By Holdin On\)](https://open.spotify.com/track/4R7VfFjWXa62I3nDmiwAso) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Wound Up Here \(By Holdin On\)](https://open.spotify.com/album/4wnZf8zsBvVItY3kAqzXLP) | 3:28 |
-| 23 | [Easier Said Than Done](https://open.spotify.com/track/4bmFe4XlRDAvx0BW5Lc3bd) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Easier Said Than Done](https://open.spotify.com/album/53sHMpu1fjrLTFBwPJZ8lC) | 3:05 |
-| 24 | [All Gold](https://open.spotify.com/track/2QzKvSwXbc4vTTUMzT1GXS) | [SONS](https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S) | [All Gold](https://open.spotify.com/album/3hmbEGGc8lvW2GY5W3yYUh) | 3:07 |
+| 10 | [All Gold](https://open.spotify.com/track/2QzKvSwXbc4vTTUMzT1GXS) | [SONS](https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S) | [All Gold](https://open.spotify.com/album/3hmbEGGc8lvW2GY5W3yYUh) | 3:07 |
+| 11 | [Want](https://open.spotify.com/track/596Nd1HxYf2YsnB9py9kWe) | [the.king.lost](https://open.spotify.com/artist/4vVV7Gm1SONBG9xgF4WYt0) | [Want](https://open.spotify.com/album/64sLeAU2vjbQhf6OUzdGxG) | 3:29 |
+| 12 | [Backseat](https://open.spotify.com/track/60jhw0sIOSTjVmb9SkuA4s) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Backseat](https://open.spotify.com/album/6gz8kYsgYsH46YpWsZtGTa) | 6:23 |
+| 13 | [All over me](https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6) | 3:22 |
+| 14 | [The Contract](https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Contract](https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J) | 3:48 |
+| 15 | [Paint A Picture](https://open.spotify.com/track/4utuVAGRIGr2rZ4RNOsToh) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Paint A Picture](https://open.spotify.com/album/6GAwsYJC09D75uOSpkAdWM) | 2:48 |
+| 16 | [Nothing On Me](https://open.spotify.com/track/0Javk02TRcIDmL6aYv7VAj) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [Nothing On Me](https://open.spotify.com/album/603CwAyUDL1CurqYiYltjM) | 2:44 |
+| 17 | [The Jamie Oliver Petrol Station](https://open.spotify.com/track/3zTqj90l1JdCzBBhxk5Z7U) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [The Jamie Oliver Petrol Station](https://open.spotify.com/album/1HbenZ8GM8vwvmkwGRLbmM) | 5:23 |
+| 18 | [I CARE](https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:53 |
+| 19 | [Will I Ever Feel Again](https://open.spotify.com/track/2L25gWxEcBTLxCI8vuENuI) | [CIEL](https://open.spotify.com/artist/419lBVMZC4wFzJg8evBZ4g) | [Will I Ever Feel Again](https://open.spotify.com/album/06kzLE3sups1GQVxUqapMo) | 3:07 |
+| 20 | [Wake Me Up](https://open.spotify.com/track/1tenXdRDmbXA1spfbDSxmc) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [21st Century Fiction](https://open.spotify.com/album/6PXuxQUn7Ar2AKt2BSseX2) | 5:20 |
+| 21 | [Winged Seeds](https://open.spotify.com/track/2Pe8YBKX04g0JprDskz1ty) | [The Radar Station](https://open.spotify.com/artist/3Vp5u3UjIcleE3GSU5DSLs) | [Winged Seeds](https://open.spotify.com/album/2OMsUTk3gRWGrtBQDEopHI) | 4:19 |
+| 22 | [No Rain, No Flowers](https://open.spotify.com/track/2aCRmuNL8RaBi8h7BbmTsT) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/23zADDjNU8SsruJg2Fcg88) | 3:16 |
+| 23 | [Wound Up Here \(By Holdin On\)](https://open.spotify.com/track/4R7VfFjWXa62I3nDmiwAso) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Wound Up Here \(By Holdin On\)](https://open.spotify.com/album/4wnZf8zsBvVItY3kAqzXLP) | 3:28 |
+| 24 | [Easier Said Than Done](https://open.spotify.com/track/4bmFe4XlRDAvx0BW5Lc3bd) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Easier Said Than Done](https://open.spotify.com/album/53sHMpu1fjrLTFBwPJZ8lC) | 3:05 |
 | 25 | [Remember?](https://open.spotify.com/track/5RMlKxmmHbbalI8q7qg9IX) | [ise](https://open.spotify.com/artist/5jx0P9PxMMiVmeTBSIEofH) | [Remember?](https://open.spotify.com/album/6tgI1ImweeRVAhWlLQesxj) | 4:13 |
 | 26 | [Stronger](https://open.spotify.com/track/7wnZ0ccUMn79s9JMTPRkH1) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [Stronger](https://open.spotify.com/album/7AicglcIa2LDkVNzhhFqTI) | 3:13 |
 | 27 | [FUCK IT UP](https://open.spotify.com/track/3ufKaFKr8xbk0QJDqooHAK) | [FUZZY TEETH](https://open.spotify.com/artist/1xcEmLnArCFePsauK1EYuE) | [FUCK IT UP](https://open.spotify.com/album/3CHrnLadhESg6r2NIit9rt) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 99 | [IMAGINE](https://open.spotify.com/track/4WTqC5TIHvLuixfQPBMYey) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IMAGINE](https://open.spotify.com/album/7IEua4tyaqNGlJkeh96kgH) | 2:20 |
 | 100 | [DH22](https://open.spotify.com/track/5xcnLJP6j5p9JNZhLvAcPD) | [Marathon](https://open.spotify.com/artist/4AmPhWuKz1UIdx2Mvt4yAw) | [Fading Image](https://open.spotify.com/album/3T6bNRPa8Ltm1xWYaFxvaO) | 3:56 |
 
-Snapshot ID: `aFh8/AAAAAAgHd76FgTzS+C20dzGNDue`
+Snapshot ID: `aFpYnwAAAAB9ZCF+xYUN/Fkp5T2AseWv`

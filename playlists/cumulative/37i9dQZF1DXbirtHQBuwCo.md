@@ -2,7 +2,7 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: Seori & Paul Blanco\)
+> Trendy & Chill Korean R&B music\. \(Cover: BIG Naughty & LEE CHANHYUK\)
 
 833 songs - 1 day 20 hr 12 min
 

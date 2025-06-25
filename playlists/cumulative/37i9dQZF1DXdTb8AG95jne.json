@@ -2923,6 +2923,24 @@
     },
     {
       "album": {
+        "name": "Cry or Sway",
+        "url": "https://open.spotify.com/album/3zaqQrqOhFBkUk44dHl7Ya"
+      },
+      "artists": [
+        {
+          "name": "OKDAL",
+          "url": "https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231594,
+      "name": "Cry or Sway",
+      "url": "https://open.spotify.com/track/2ziVXEkhQdzQFSB0w8078k"
+    },
+    {
+      "album": {
         "name": "Crystal Trees",
         "url": "https://open.spotify.com/album/2FLy8XWsPbZ6NLF3YbzIao"
       },
@@ -6722,7 +6740,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 180026,
       "name": "Hunting",
       "url": "https://open.spotify.com/track/6d6YI0cNTUjq0ojDurXKjD"
@@ -12320,7 +12338,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 212808,
       "name": "Remember!",
       "url": "https://open.spotify.com/track/0sQ7Ej7deFPs7dQeScxVgZ"
@@ -14610,6 +14628,24 @@
       "duration_ms": 177744,
       "name": "Summer breeze",
       "url": "https://open.spotify.com/track/5C8xuGNeqqTCJ4cw9jx6Mh"
+    },
+    {
+      "album": {
+        "name": "summer youth",
+        "url": "https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB"
+      },
+      "artists": [
+        {
+          "name": "Baek A",
+          "url": "https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217026,
+      "name": "summer youth",
+      "url": "https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa"
     },
     {
       "album": {

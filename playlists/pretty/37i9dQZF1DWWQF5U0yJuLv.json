@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 44363,
+  "num_followers": 44428,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -189,22 +189,6 @@
       "url": "https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq"
     },
     {
-      "added_at": "2023-02-17 01:29:01",
-      "album": {
-        "name": "LemonJelly.ky",
-        "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
-      },
-      "artists": [
-        {
-          "name": "Lemon Jelly",
-          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
-        }
-      ],
-      "duration_ms": 405866,
-      "name": "A Tune For Jack",
-      "url": "https://open.spotify.com/track/1AKHclGKFc3fjv0V9qnZ3w"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Parallel",
@@ -219,6 +203,22 @@
       "duration_ms": 306970,
       "name": "Parallel 6",
       "url": "https://open.spotify.com/track/3rI6J22xq3t8RDpxIOBo1C"
+    },
+    {
+      "added_at": "2023-02-17 01:29:01",
+      "album": {
+        "name": "LemonJelly.ky",
+        "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
+      },
+      "artists": [
+        {
+          "name": "Lemon Jelly",
+          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
+        }
+      ],
+      "duration_ms": 405866,
+      "name": "A Tune For Jack",
+      "url": "https://open.spotify.com/track/1AKHclGKFc3fjv0V9qnZ3w"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -549,22 +549,6 @@
       "url": "https://open.spotify.com/track/7nT24kprAb4l7tI5FSd9zU"
     },
     {
-      "added_at": "2023-05-09 02:40:07",
-      "album": {
-        "name": "Three Drums",
-        "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 495858,
-      "name": "Three Drums",
-      "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "3D Reworks 001",
@@ -579,6 +563,22 @@
       "duration_ms": 296250,
       "name": "Resynthesis 3D (Binaural Version - Headphones Only)",
       "url": "https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg"
+    },
+    {
+      "added_at": "2023-05-09 02:40:07",
+      "album": {
+        "name": "Three Drums",
+        "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 495858,
+      "name": "Three Drums",
+      "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2"
     },
     {
-      "added_at": "2023-03-03 04:01:23",
-      "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Dragonfly",
-      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Mahi Mahi",
@@ -1167,6 +1151,22 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
+    },
+    {
+      "added_at": "2023-03-03 04:01:23",
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Comfort Chain",
-        "url": "https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK"
-      },
-      "artists": [
-        {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
-        }
-      ],
-      "duration_ms": 184363,
-      "name": "Comfort Chain",
-      "url": "https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "Comma",
         "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 223750,
       "name": "Summer Places",
       "url": "https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Comfort Chain",
+        "url": "https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK"
+      },
+      "artists": [
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        }
+      ],
+      "duration_ms": 184363,
+      "name": "Comfort Chain",
+      "url": "https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Iaora Tahiti",
-        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        }
-      ],
-      "duration_ms": 278493,
-      "name": "Stereomission",
-      "url": "https://open.spotify.com/track/2bEFcAISP2KpoWCiWI6Pzc"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "Yes! Come Parade With Us",
         "url": "https://open.spotify.com/album/0DGVDqsHo3NiZk59BnkMMz"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 400160,
       "name": "Doing The Beeston Bump",
       "url": "https://open.spotify.com/track/3RBhQ7D3w60wUdt98R7SUB"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Iaora Tahiti",
+        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 278493,
+      "name": "Stereomission",
+      "url": "https://open.spotify.com/track/2bEFcAISP2KpoWCiWI6Pzc"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1785,6 +1785,22 @@
       "url": "https://open.spotify.com/track/5sw0c6FmdTgXlUyfy7YSc4"
     },
     {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Body Riddle (Remastered)",
+        "url": "https://open.spotify.com/album/4bH9Kc6e6sRxGoMrX1NUup"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Ted",
+      "url": "https://open.spotify.com/track/3IjaYRvTNhDP48KFGtBldN"
+    },
+    {
       "added_at": "2024-08-14 16:50:39",
       "album": {
         "name": "Frutaria Electr\u200b\u00f3\u200bnica",
@@ -1817,20 +1833,20 @@
       "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
+      "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Body Riddle (Remastered)",
-        "url": "https://open.spotify.com/album/4bH9Kc6e6sRxGoMrX1NUup"
+        "name": "Puzzlewood",
+        "url": "https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq"
       },
       "artists": [
         {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+          "name": "Plone",
+          "url": "https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41"
         }
       ],
-      "duration_ms": 174560,
-      "name": "Ted",
-      "url": "https://open.spotify.com/track/3IjaYRvTNhDP48KFGtBldN"
+      "duration_ms": 208983,
+      "name": "Red Kite",
+      "url": "https://open.spotify.com/track/3I7n1t3f3mSJWeHAxILqSP"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1847,22 +1863,6 @@
       "duration_ms": 256570,
       "name": "St. Tropez - Instrumental",
       "url": "https://open.spotify.com/track/2gvfkfi3BvbFcDiW6c4Wos"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Puzzlewood",
-        "url": "https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq"
-      },
-      "artists": [
-        {
-          "name": "Plone",
-          "url": "https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41"
-        }
-      ],
-      "duration_ms": 208983,
-      "name": "Red Kite",
-      "url": "https://open.spotify.com/track/3I7n1t3f3mSJWeHAxILqSP"
     },
     {
       "added_at": "2024-08-14 16:50:39",
@@ -1937,22 +1937,6 @@
       "url": "https://open.spotify.com/track/1ihvgQmJUbKpDpebjGVS9E"
     },
     {
-      "added_at": "2023-12-22 15:58:35",
-      "album": {
-        "name": "Ciutat de sorra",
-        "url": "https://open.spotify.com/album/13kC4ZFHI7cl31iBomSpEA"
-      },
-      "artists": [
-        {
-          "name": "Hidrogenesse",
-          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
-        }
-      ],
-      "duration_ms": 704651,
-      "name": "Ciutat de sorra - Instrumental",
-      "url": "https://open.spotify.com/track/43mIM61mitnuRzxRgttpek"
-    },
-    {
       "added_at": "2023-03-29 03:24:26",
       "album": {
         "name": "Bubbles",
@@ -1967,6 +1951,22 @@
       "duration_ms": 266284,
       "name": "Bubbles",
       "url": "https://open.spotify.com/track/7s7vBGH4EDmq2WUAQPOOM8"
+    },
+    {
+      "added_at": "2023-12-22 15:58:35",
+      "album": {
+        "name": "Ciutat de sorra",
+        "url": "https://open.spotify.com/album/13kC4ZFHI7cl31iBomSpEA"
+      },
+      "artists": [
+        {
+          "name": "Hidrogenesse",
+          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
+        }
+      ],
+      "duration_ms": 704651,
+      "name": "Ciutat de sorra - Instrumental",
+      "url": "https://open.spotify.com/track/43mIM61mitnuRzxRgttpek"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "Kpm 1000 Series: Atmospheres",
-        "url": "https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u"
-      },
-      "artists": [
-        {
-          "name": "Ron Geesin",
-          "url": "https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa"
-        }
-      ],
-      "duration_ms": 129549,
-      "name": "Jolly Pranks",
-      "url": "https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
         "name": "The Gone Away",
         "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 228289,
       "name": "Fol-de-rol",
       "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Kpm 1000 Series: Atmospheres",
+        "url": "https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u"
+      },
+      "artists": [
+        {
+          "name": "Ron Geesin",
+          "url": "https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa"
+        }
+      ],
+      "duration_ms": 129549,
+      "name": "Jolly Pranks",
+      "url": "https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K"
     },
     {
       "added_at": "2023-02-17 01:10:22",

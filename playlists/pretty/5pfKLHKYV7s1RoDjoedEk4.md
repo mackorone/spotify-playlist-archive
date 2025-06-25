@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5pfKLHKYV7s1RoDjoedEk4.md) - [plain]
 
 > 
 
-[Maslame](https://open.spotify.com/user/blg0aay1oftz0eev110eckeao) - 1 like - 284 songs - 15 hr 56 min
+[Maslame](https://open.spotify.com/user/blg0aay1oftz0eev110eckeao) - 1 like - 285 songs - 15 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -292,5 +292,6 @@ pretty - [cumulative](/playlists/cumulative/5pfKLHKYV7s1RoDjoedEk4.md) - [plain]
 | 282 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 |
 | 283 | [Mrs Magic \(Strings Version\)](https://open.spotify.com/track/4iVj0UxqLlgrFWNdOnCwFS) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [F Song & Mrs Magic \(Strings Versions\)](https://open.spotify.com/album/0dmvkvTV6y5J58ejixsOQH) | 3:41 |
 | 284 | [Anyone Else But You](https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy) | [The Moldy Peaches](https://open.spotify.com/artist/7GGv4mV9JTJK9e7nIzUliU) | [The Moldy Peaches](https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236) | 3:00 |
+| 285 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 2:41 |
 
-Snapshot ID: `AAABRb4JBsOi1ehcoSPWI6AJz5DLAqfq`
+Snapshot ID: `AAABRpfqW/aAlNoqxkeE6UQKPweg0LOR`

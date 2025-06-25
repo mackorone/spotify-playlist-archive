@@ -4,7 +4,7 @@
 
 > Dance anthems from the club to your ears!
 
-234 songs - 16 hr 13 min
+235 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Bax](https://open.spotify.com/track/4x0WzGuKSqZkDKi0N69CLd) | [Mosca](https://open.spotify.com/artist/09w4rprrROhfc0yevxXCGg) | [Done Me Wrong / Bax](https://open.spotify.com/album/30mWh7iOWxTJTLExLXCS1t) | 5:33 | 2020-11-06 | 2022-07-19 |
 | [Be Sharp Say Nowt](https://open.spotify.com/track/6TvYtabYoc5plSB9kJpgOs) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Be Sharp Say Nowt](https://open.spotify.com/album/1Wx6VPrYYhN56cBE99izlc) | 3:48 | 2020-11-06 | 2023-11-05 |
 | [Be Sharp Say Nowt \- Edit](https://open.spotify.com/track/0j7O38949INodwi5ppDvFe) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Be Sharp Say Nowt](https://open.spotify.com/album/2Oc9mE5qOn4ft9hym2XJMw) | 3:48 | 2020-11-06 | 2024-04-19 |
-| [Beat Up The Drum](https://open.spotify.com/track/1akN2rCH2Nj2PRe12MFnaW) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [Beat Up The Drum](https://open.spotify.com/album/0XW8vBrV29BhdbAqTTiiAz) | 3:17 | 2025-06-20 |  |
+| [Beat Up The Drum](https://open.spotify.com/track/1akN2rCH2Nj2PRe12MFnaW) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [Beat Up The Drum](https://open.spotify.com/album/0XW8vBrV29BhdbAqTTiiAz) | 3:19 | 2025-06-20 |  |
 | [Benediction](https://open.spotify.com/track/5RJc9Ex116Dx1zHGUOZGgX) | [Hot Natured](https://open.spotify.com/artist/4aKZ8rfdsQeR7YSskFu9V3) | [Different Sides Of The Sun](https://open.spotify.com/album/5w2vOtzeCbWhxcrHTzkwO6) | 6:39 | 2020-11-06 | 2024-03-01 |
 | [Best Be Believing \- Shadow Child Remix](https://open.spotify.com/track/4ZOuB9nVbvyeEIYKbm55O4) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [Body Music \(Remixed\)](https://open.spotify.com/album/02ia0xYRyujnMk3AuCUqoR) | 5:51 | 2020-11-06 | 2024-01-18 |
 | [Bigger Than Prince \- Hot Since 82 Remix](https://open.spotify.com/track/3PW35Q7BLZ4xoHgCRxUZ4f) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [The Chapters of Green Velvet](https://open.spotify.com/album/1hn0CRNZw1u16Jd2Vvopt4) | 6:34 | 2020-11-06 | 2025-02-21 |
@@ -74,7 +74,7 @@
 | [Get Out My Head](https://open.spotify.com/track/07xO3NvI2Aq37mY59p0g9a) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [House Party 2023](https://open.spotify.com/album/29n2PIJYZqNSVb1Y0kD6h2) | 3:44 | 2023-12-05 | 2024-01-13 |
 | [Get Out My Head](https://open.spotify.com/track/1LC6p9xSpZBogQMqlWZ5SZ) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Get Out My Head](https://open.spotify.com/album/6DwTQ5IU3Tp9YGIyzZwjNw) | 3:44 | 2020-11-06 | 2022-12-02 |
 | [Get Out My Head](https://open.spotify.com/track/3EGbEEe2M6CNFpF8vf8dgW) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [New Year's Eve Party 2022](https://open.spotify.com/album/4SKjR5h4bkN68UlkdSnF6j) | 3:44 | 2020-11-06 | 2023-12-16 |
-| [Get Stupid](https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Get Stupid](https://open.spotify.com/album/1dwyGuNYnXdHnwhfDmdIgK) | 3:02 | 2024-04-05 |  |
+| [Get Stupid](https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Get Stupid](https://open.spotify.com/album/1dwyGuNYnXdHnwhfDmdIgK) | 3:02 | 2024-04-05 | 2025-06-25 |
 | [God Made Me Phunky \- Jess Bays Remix](https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [God Made Me Phunky \(Jess Bays Remix\)](https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl) | 3:40 | 2024-01-12 |  |
 | [Gold Touch](https://open.spotify.com/track/3uyVVGJZxiTL2CkfufthDP) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz) | [Gold Touch](https://open.spotify.com/album/1luUub9pWlHNLOKojdhFFN) | 2:25 | 2024-10-25 | 2025-05-31 |
 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 | 2024-01-12 |  |
@@ -222,6 +222,7 @@
 | [TWOSTEP](https://open.spotify.com/track/1Gm9mRYaqU7VpJBsZsWbgQ) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [TWOSTEP](https://open.spotify.com/album/0OEb0RiJNNvmldvwXoCJWT) | 3:12 | 2025-05-09 |  |
 | [U Should Not Be Doing That](https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That](https://open.spotify.com/album/7mxUMtwfCoClzqAB7a4wh3) | 3:42 | 2025-02-14 |  |
 | [Underground Ways](https://open.spotify.com/track/3gdGg8aoZ0rVStKAOSCPff) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Chesster](https://open.spotify.com/artist/6YCbSjTwizmHBUBNjaqXlj), [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Underground Ways](https://open.spotify.com/album/2Ygx3tuwzLxSL5nWFZoIeI) | 3:17 | 2025-05-09 |  |
+| [Up Front](https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Up Front](https://open.spotify.com/album/6eLVBuH7e14JC1pRR09kzP) | 3:27 | 2025-06-20 |  |
 | [Veins](https://open.spotify.com/track/3KUoiySr90tw8XSW8Ezmx4) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Damage / Veins](https://open.spotify.com/album/1zp3B8DVDey7KPwEjziZMF) | 7:23 | 2020-11-06 | 2023-01-05 |
 | [Voicemail \- Original Mix](https://open.spotify.com/track/2IhRmHI7pDzhpF9c8iCT6x) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [The Chapters of Green Velvet](https://open.spotify.com/album/1hn0CRNZw1u16Jd2Vvopt4) | 7:16 | 2020-11-06 | 2022-11-13 |
 | [Watercolour \- Full Version; Single](https://open.spotify.com/track/5ami95W9OOWQPwrBb5tud5) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Immersion](https://open.spotify.com/album/3XtEGVx9uh7J46nBzEc1VS) | 5:04 | 2020-11-06 | 2024-01-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 
 > From the shower to the car, Disney songs that make you want to sing along, including songs from Disney's Lilo & Stitch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,094,387 likes - 164 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,094,557 likes - 164 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 | 14 | [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
 | 15 | [You Get Me \- From "Talking Friends"](https://open.spotify.com/track/3w8Rsid0CYMkPilk1oWIaO) | [Tom and Angela](https://open.spotify.com/artist/50r2NlQ72aS0VyAZxIr1Rw) | [You Get Me \(From "Talking Friends"\)](https://open.spotify.com/album/4SuhqcaWPQxMhK9Cq1bwCs) | 2:45 |
 | 16 | [You'll Always Find Your Way Back Home](https://open.spotify.com/track/12wSL3tGk3MtbDEhfG7xy3) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:44 |
-| 17 | [We're Back](https://open.spotify.com/track/7rzMGJGXXkuw2IbyHqdZlp) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Villagers of Motunui](https://open.spotify.com/artist/5IxJyEUqhBte1rRbViGjNm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YhhgjB9TychuTpq3vsN9y) | 3:11 |
+| 17 | [We're Back](https://open.spotify.com/track/7rzMGJGXXkuw2IbyHqdZlp) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Villagers of Motunui](https://open.spotify.com/artist/5IxJyEUqhBte1rRbViGjNm), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YhhgjB9TychuTpq3vsN9y) | 3:11 |
 | 18 | [Where You Are](https://open.spotify.com/track/2bwSCIuNtVrQPVddCi8sOW) | [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj), [Rachel House](https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Louise Bush](https://open.spotify.com/artist/6pItJ6ijL7bMCneuwqRreN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 3:30 |
 | 19 | [Summer Is Starting Right Now \- From "Phineas and Ferb: Season 5"](https://open.spotify.com/track/0zUJ4YrWiHeWmfmAfqDYte) | [The Cast of Phineas and Ferb](https://open.spotify.com/artist/3j6JwnGGXEJArJwgEt3iXi) | [Summer Is Starting Right Now \(From "Phineas and Ferb: Season 5"\)](https://open.spotify.com/album/0RiuMP9zliBj4uP4WKboBW) | 2:03 |
 | 20 | [Can You Feel the Love Tonight](https://open.spotify.com/track/63BZR6Dtvag8JSLYO0kiok) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [A Whole New Sound](https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP) | 2:53 |

@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 551904,
+  "num_followers": 551844,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -1111,30 +1111,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Forget About Me",
-        "url": "https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5"
-      },
-      "artists": [
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Durante",
-          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
-        }
-      ],
-      "duration_ms": 177637,
-      "name": "Forget About Me",
-      "url": "https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/2pNtsyHd2CL7XM6PtwoOyG"
       },
@@ -1155,6 +1131,30 @@
       "duration_ms": 201176,
       "name": "Promises",
       "url": "https://open.spotify.com/track/50YQaQXog18lS11wGCl77u"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "Forget About Me",
+        "url": "https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        }
+      ],
+      "duration_ms": 177637,
+      "name": "Forget About Me",
+      "url": "https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq"
     },
     {
       "added_at": "2025-02-07 03:01:15",

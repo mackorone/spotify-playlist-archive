@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 154314,
+  "num_followers": 154326,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFdHgAAAAAAvp7rrV0E7LrAV0FVOJ20A",
+  "snapshot_id": "aFiZAAAAAAD4AnYVLLBZ1ASTFacty1L0",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Canciones de Amor",
-        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 193317,
-      "name": "Adi\u00f3s, Adi\u00f3s",
-      "url": "https://open.spotify.com/track/3DeS3HVYR3hhb2WkomDsEU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Noche Cualquiera",
         "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 215446,
       "name": "Mi Gran Problema",
       "url": "https://open.spotify.com/track/4j5VHWOKzsdaWl4b31Aes4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 193317,
+      "name": "Adi\u00f3s, Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3DeS3HVYR3hhb2WkomDsEU"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Canciones de Amor",
-        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 212462,
-      "name": "La Reyna De Mi Hogar",
-      "url": "https://open.spotify.com/track/5XJRpYdbXxef7by5M4OcAm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya Se Fue",
         "url": "https://open.spotify.com/album/6ELneqe2qiMyINLBS28cCH"
       },
@@ -735,22 +719,6 @@
       "duration_ms": 206169,
       "name": "Compa\u00f1era M\u00eda",
       "url": "https://open.spotify.com/track/7evRe8RAam9sUjPKe46C2Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mas Fuerte Que Nunca",
-        "url": "https://open.spotify.com/album/0KGj7OkeA9Rm6yZ0pVhZZL"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 157175,
-      "name": "Nunca Cambies",
-      "url": "https://open.spotify.com/track/2aZkwq6MoLBdSDcm8L09mP"
     },
     {
       "added_at": null,
@@ -783,6 +751,38 @@
       "duration_ms": 254368,
       "name": "Ac\u00e1 Entre Nos (En Vivo)",
       "url": "https://open.spotify.com/track/6SHXtSKhx53gMd4V9zK5QS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mas Fuerte Que Nunca",
+        "url": "https://open.spotify.com/album/0KGj7OkeA9Rm6yZ0pVhZZL"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 157175,
+      "name": "Nunca Cambies",
+      "url": "https://open.spotify.com/track/2aZkwq6MoLBdSDcm8L09mP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 212462,
+      "name": "La Reyna De Mi Hogar",
+      "url": "https://open.spotify.com/track/5XJRpYdbXxef7by5M4OcAm"
     },
     {
       "added_at": null,
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Amo Y Te Amar\u00e9",
-        "url": "https://open.spotify.com/album/2Znp7ihFVi0PFm2Csq5wKS"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 226580,
-      "name": "Siempre Te Voy A Recordar",
-      "url": "https://open.spotify.com/track/03Ger3TJI5fd5KFDYvZQfP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inv\u00e9ntame Un Amor",
         "url": "https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 241359,
       "name": "Inv\u00e9ntame Un Amor",
       "url": "https://open.spotify.com/track/0TsfSmAtQig4YnIlISqVmw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Amo Y Te Amar\u00e9",
+        "url": "https://open.spotify.com/album/2Znp7ihFVi0PFm2Csq5wKS"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 226580,
+      "name": "Siempre Te Voy A Recordar",
+      "url": "https://open.spotify.com/track/03Ger3TJI5fd5KFDYvZQfP"
     }
   ],
   "unique_name": "This Is Pancho Barraza",

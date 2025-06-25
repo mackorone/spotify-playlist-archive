@@ -1,6 +1,6 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 148698,
+  "num_followers": 148768,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
+        "name": "Volver a Triunfar",
+        "url": "https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 297413,
+      "name": "Quiero Saber de Ti",
+      "url": "https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
         "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
         "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 238892,
       "name": "Se\u00f1ora",
       "url": "https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "Sue\u00f1os de Colombia",
-        "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 317760,
-      "name": "Entregame Tu Amor",
-      "url": "https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
+        "name": "Sue\u00f1os de Colombia",
+        "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 317760,
+      "name": "Entregame Tu Amor",
+      "url": "https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
         "name": "Grandes Hits",
         "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 308040,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/3sMUVwOyhOuQYFmpHfzBZn"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "Volver a Triunfar",
-        "url": "https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 297413,
-      "name": "Quiero Saber de Ti",
-      "url": "https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Grandes Hits",
-        "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 297120,
-      "name": "C\u00f3mo Expresar Lo Que Siento",
-      "url": "https://open.spotify.com/track/1hiLdH32AVthQQkDAVXdiz"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
         "name": "Presente y Futuro",
         "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 300346,
       "name": "Nunca Niegues Que Te Amo",
       "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
+        "name": "Grandes Hits",
+        "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 297120,
+      "name": "C\u00f3mo Expresar Lo Que Siento",
+      "url": "https://open.spotify.com/track/1hiLdH32AVthQQkDAVXdiz"
     },
     {
       "added_at": "2024-05-28 19:20:48",

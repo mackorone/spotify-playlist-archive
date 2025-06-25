@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Spirituals In Rhythm",
+        "url": "https://open.spotify.com/album/0m04XubMVnvu8oKgGSgTT9"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135302,
+      "name": "Blow Ye The Trumpet In Zion",
+      "url": "https://open.spotify.com/track/5JsBbXQT8IHxVJDrYcC7Vw"
+    },
+    {
+      "album": {
         "name": "Rock Me",
         "url": "https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0"
       },
@@ -450,7 +468,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 150866,
       "name": "Don't You Weep, o Mary, Don't You Weep - Remastered",
       "url": "https://open.spotify.com/track/6qrYJC67AjKIdQT2ocorYa"

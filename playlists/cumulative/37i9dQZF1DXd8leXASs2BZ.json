@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: MIKADO",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Tete",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -24,6 +24,28 @@
       "duration_ms": 128250,
       "name": "\"23freestyle\"",
       "url": "https://open.spotify.com/track/5INsevpkX2eEBTe6Wsz8ZZ"
+    },
+    {
+      "album": {
+        "name": "$$$",
+        "url": "https://open.spotify.com/album/0FfnOQdY4N0hRLIbOjKi4w"
+      },
+      "artists": [
+        {
+          "name": "SEIJU",
+          "url": "https://open.spotify.com/artist/3SsUvY5AjXGvBiGe1JulyK"
+        },
+        {
+          "name": "Adem",
+          "url": "https://open.spotify.com/artist/0piNpexdBU84sjLSvbFI9b"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "$$$",
+      "url": "https://open.spotify.com/track/48vj4qmnSRXTGc5OcfTnLe"
     },
     {
       "album": {
@@ -255,6 +277,28 @@
     },
     {
       "album": {
+        "name": "1drop (feat. ENEL)",
+        "url": "https://open.spotify.com/album/3n18XfQMEApcloe2Pr5lRf"
+      },
+      "artists": [
+        {
+          "name": "Harka",
+          "url": "https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze"
+        },
+        {
+          "name": "ENEL",
+          "url": "https://open.spotify.com/artist/5UyerN25hRt7bD2tnAvxdg"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161999,
+      "name": "1drop (feat. ENEL)",
+      "url": "https://open.spotify.com/track/3Fdi2CuSST497cOYXWkr7Z"
+    },
+    {
+      "album": {
         "name": "1X1",
         "url": "https://open.spotify.com/album/7E95N86lPUfvENxJuHYzXX"
       },
@@ -426,7 +470,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 149533,
       "name": "24/7",
       "url": "https://open.spotify.com/track/0I3uR1uafbPIExTyPVKO2m"
@@ -560,7 +604,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 175613,
       "name": "4:44",
       "url": "https://open.spotify.com/track/3NX1I4wkHZNX0RLEZRKpfK"
@@ -4887,6 +4931,24 @@
     },
     {
       "album": {
+        "name": "DROWN",
+        "url": "https://open.spotify.com/album/5CyTW4WoD8Jbaj638B0F3B"
+      },
+      "artists": [
+        {
+          "name": "Viz Boy",
+          "url": "https://open.spotify.com/artist/2bYUJLvO3ZpwI1O6KL794p"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184592,
+      "name": "DROWN",
+      "url": "https://open.spotify.com/track/2cKsLUyFsF5zZPR2oJEBdO"
+    },
+    {
+      "album": {
         "name": "Drugs",
         "url": "https://open.spotify.com/album/2jGY1bc5vXDXgzICPue6KT"
       },
@@ -7152,6 +7214,28 @@
       "duration_ms": 108000,
       "name": "Goofy",
       "url": "https://open.spotify.com/track/1oY5ZxYdICMef7DkjrXQPa"
+    },
+    {
+      "album": {
+        "name": "GOOFY AH",
+        "url": "https://open.spotify.com/album/5rqawpVzqFnH9Z1EtlsX1T"
+      },
+      "artists": [
+        {
+          "name": "Kaikun",
+          "url": "https://open.spotify.com/artist/2yXYV0qNsatMoSA2B5uKSj"
+        },
+        {
+          "name": "ANH",
+          "url": "https://open.spotify.com/artist/1kmyK4B8GpPz1nHI2MvOSO"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "GOOFY AH",
+      "url": "https://open.spotify.com/track/43q1CbpPN9pZDrSLuXHGfs"
     },
     {
       "album": {
@@ -12344,7 +12428,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 130500,
       "name": "Nottin' Broken (feat. ACE COOL)",
       "url": "https://open.spotify.com/track/1HBgwKxhJ3PMpHVFrjwjbs"
@@ -12672,7 +12756,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 187692,
       "name": "OOKINI",
       "url": "https://open.spotify.com/track/6V88hTnum6ywAWbyUh0YbU"
@@ -14196,7 +14280,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 142285,
       "name": "Replica",
       "url": "https://open.spotify.com/track/6odb7KPjBEnejJxzRM1RPU"
@@ -15597,6 +15681,28 @@
     },
     {
       "album": {
+        "name": "siren (feat. hyunis1000)",
+        "url": "https://open.spotify.com/album/3JTXF9mdEXJRn2DjtjydF9"
+      },
+      "artists": [
+        {
+          "name": "MK woop",
+          "url": "https://open.spotify.com/artist/3AUCOiwJCLQmRotHBdCW7j"
+        },
+        {
+          "name": "hyunis1000",
+          "url": "https://open.spotify.com/artist/5kg1VfX43k7uJ1mLHXmkRF"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "siren (feat. hyunis1000)",
+      "url": "https://open.spotify.com/track/3wQWj0VmSV3J45I4OXGhwj"
+    },
+    {
+      "album": {
         "name": "sissy",
         "url": "https://open.spotify.com/album/0nXRDkWHaBzXhKFBj4a0FS"
       },
@@ -15739,6 +15845,24 @@
     },
     {
       "album": {
+        "name": "Snow Dancing In The Dark",
+        "url": "https://open.spotify.com/album/4XnKdL76V53Lu8K2MTshnx"
+      },
+      "artists": [
+        {
+          "name": "\u51cc\u5e73",
+          "url": "https://open.spotify.com/artist/22k7ubWx0mA0rPUPvAWs5p"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195750,
+      "name": "Snow Dancing In The Dark",
+      "url": "https://open.spotify.com/track/0qtsTPJx64022RRwXPdnSt"
+    },
+    {
+      "album": {
         "name": "said goodbye to type beat",
         "url": "https://open.spotify.com/album/6a23CmuFaZm3oJehvIpVj9"
       },
@@ -15754,6 +15878,24 @@
       "duration_ms": 123870,
       "name": "Sorry, I'm late.",
       "url": "https://open.spotify.com/track/4aOVAVyrHE3NBq3xiM4Bil"
+    },
+    {
+      "album": {
+        "name": "soul speed tape",
+        "url": "https://open.spotify.com/album/1qV3HgGorfzVuFKSS8LTzO"
+      },
+      "artists": [
+        {
+          "name": "Tete",
+          "url": "https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121945,
+      "name": "soul speed",
+      "url": "https://open.spotify.com/track/6NychmpGVFH0KnVULw0fHM"
     },
     {
       "album": {
@@ -17536,7 +17678,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 145074,
       "name": "Undeveloped freestyle",
       "url": "https://open.spotify.com/track/5Rhca0bZgMLn8d7YFOh3Dl"
@@ -18806,7 +18948,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 139714,
       "name": "You hate me so I hate you",
       "url": "https://open.spotify.com/track/3C6W5lS23vLKx8eKgvKYIv"

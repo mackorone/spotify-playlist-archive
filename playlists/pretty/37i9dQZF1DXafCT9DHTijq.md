@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafCT9DHTijq.md) - [plain]
 
 > A spine\-chilling selection of classical favourites and supernatural soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,782 likes - 58 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,771 likes - 58 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Toccata and Fugue in D Minor, BWV 565: I\. Toccata](https://open.spotify.com/track/4HE2Ex0bjbj3YNXmV01OoM) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Simon Preston](https://open.spotify.com/artist/2w0dRPpzDTNYZmV9AplCD0) | [Bach, J.S.: Toccata and Fugue BWV 565; Organ Works BWV 572, 590, 532, 769 & 552](https://open.spotify.com/album/55QLnZs735inLUYGNBkti5) | 2:30 |
+| 1 | [Toccata & Fugue in D Minor, BWV 565: I\. Toccata](https://open.spotify.com/track/4HE2Ex0bjbj3YNXmV01OoM) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Simon Preston](https://open.spotify.com/artist/2w0dRPpzDTNYZmV9AplCD0) | [Bach, J.S.: Toccata and Fugue BWV 565; Organ Works BWV 572, 590, 532, 769 & 552](https://open.spotify.com/album/55QLnZs735inLUYGNBkti5) | 2:30 |
 | 2 | [Hedwig's Theme](https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 5:09 |
 | 3 | [Danse Macabre, Op\. 40, R.171](https://open.spotify.com/track/4PRnYCH5hoxypKVcOBvx3a) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Orchestre Symphonique de Montréal](https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd), [Andrew Wan](https://open.spotify.com/artist/5uzHTiIlBm52CfvHki0BXF), [Kent Nagano](https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x) | [Danse Macabre](https://open.spotify.com/album/2hRaFLIC2ge5ZDoThJZaMU) | 7:22 |
 | 4 | [This Is Halloween](https://open.spotify.com/track/61OAY1Rtoc80jfqUwYI9qM) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs the Nightmare Before Christmas](https://open.spotify.com/album/1kQbCezHW2WISK4pcXl8Fi) | 3:18 |

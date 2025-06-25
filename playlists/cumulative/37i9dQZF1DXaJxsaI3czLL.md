@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-479 songs - 1 day 9 hr 49 min
+480 songs - 1 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [おあいこ](https://open.spotify.com/track/0ekuGQhxcrmTsFJbwNnNX6) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [What are you looking for](https://open.spotify.com/album/1eRBqVnEPDWja7FBpfgFIh) | 6:41 | 2022-10-20 |  |
 | [おもひで!おもひで!!](https://open.spotify.com/track/29x80laUbw6aoAr1VpDWrW) | [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [OMOIDE OVER DRIVE](https://open.spotify.com/album/7pREruCkwxrLQAWjt5NQY9) | 4:37 | 2023-07-25 | 2023-08-09 |
 | [おやすみ](https://open.spotify.com/track/7bEkYuWe7CIt7LITsTjxKI) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Tokyo State Of Mind](https://open.spotify.com/album/6Acj6DqPEt4LLYoXAHzzQQ) | 3:10 | 2022-10-25 | 2023-12-09 |
+| [おやすみなさい](https://open.spotify.com/track/3fGUorfiin7I5V8YvTaoFK) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [秋 そばにいるよ](https://open.spotify.com/album/3VWtvGEGzET3ztfQSKTkUc) | 5:59 | 2025-06-11 |  |
 | [お家へ帰ろう](https://open.spotify.com/track/4iQrfpgyQGOxpJsNS48I1Q) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [ムスヒ](https://open.spotify.com/album/0MvWp84fGgQhRUUMCkXE9u) | 3:58 | 2023-06-13 | 2023-06-21 |
 | [きみとわたしのうた（featuring LIBERA）](https://open.spotify.com/track/2vvgDDC4fIEQCicXApxX9z) | [Hiroko Yakushimaru](https://open.spotify.com/artist/1QXFMGfCga8qSyUtVmjXrE), [LIBERA](https://open.spotify.com/artist/0wHSkXXRiwrmE9MzF8e4sK) | [きみとわたしのうた（featuring LIBERA）](https://open.spotify.com/album/6VKCpAHanLbNbb96BDLpgt) | 5:01 | 2024-01-09 | 2024-01-11 |
 | [きれいだ](https://open.spotify.com/track/3AUERt8iOPlZ2ruHQMDAVh) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [夜はそのまなざしの先に流れる](https://open.spotify.com/album/2nHykm1RdbUDW4ImLANpUb) | 6:13 | 2022-10-20 | 2023-07-12 |
@@ -294,7 +295,7 @@
 | [この日のこと](https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 4:34 | 2022-10-20 |  |
 | [さもありなん](https://open.spotify.com/track/5D5K3Giyp427zPZ6cOQmv6) | [Naotaro Moriyama](https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued) | [さもありなん](https://open.spotify.com/album/6B8yGpKG4hIATtbS3ibsHA) | 5:50 | 2023-02-28 | 2024-01-02 |
 | [それでは、](https://open.spotify.com/track/5qGpsL9fCOr1sGYNMmFFtI) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 3:50 | 2022-10-20 | 2022-11-11 |
-| [それでも家族](https://open.spotify.com/track/4iqy8c3PaPQreAfeROJg1E) | [yuma yamaguchi](https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8) | [映画「おじいちゃん、死んじゃったって。」　オリジナル・サウンドトラック](https://open.spotify.com/album/0rI3aaQ2Ij6uKwDWyIald8) | 2:02 | 2023-12-12 |  |
+| [それでも家族](https://open.spotify.com/track/4iqy8c3PaPQreAfeROJg1E) | [yuma yamaguchi](https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8) | [映画「おじいちゃん、死んじゃったって。」　オリジナル・サウンドトラック](https://open.spotify.com/album/0rI3aaQ2Ij6uKwDWyIald8) | 2:02 | 2023-12-12 | 2025-06-25 |
 | [たとえ・ばさ](https://open.spotify.com/track/7J13ZqrHTqZPI6rzeZS0jz) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [Double Rift](https://open.spotify.com/album/4GlJPeO448wfQ5E1BDir2Y) | 4:15 | 2024-03-05 |  |
 | [ため息の行方](https://open.spotify.com/track/6GSVtgBJ2bNRicSqQcXg99) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ゆめ](https://open.spotify.com/album/4d0nnBfxKBJt3evaV4Yssh) | 4:28 | 2022-10-20 | 2023-01-27 |
 | [つぐみ](https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [THUNDERBIRD](https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg) | 3:58 | 2022-10-20 |  |

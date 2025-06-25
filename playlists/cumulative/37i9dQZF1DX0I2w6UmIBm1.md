@@ -4,7 +4,7 @@
 
 > Uplift your spirit with these faith\-filled folk melodies\. Cover: Henrik
 
-70 songs - 3 hr 57 min
+71 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Cascade View](https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Cascade View](https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW) | 2:45 | 2025-06-13 |  |
 | [Codependent](https://open.spotify.com/track/6AkCoW5ThOoN8t3ki63oYD) | [Meyta](https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc) | [Codependent](https://open.spotify.com/album/5UKsdjtvdZQ6a8ndTGKnl5) | 2:40 | 2025-06-13 |  |
 | [Dopamine and Jesus](https://open.spotify.com/track/4iVq3rMJb1QnJXFoSphDy7) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [Dopamine and Jesus](https://open.spotify.com/album/4Y4rMsVeJAuiICzHEngfEN) | 3:24 | 2025-06-13 |  |
+| [Dusty Bibles](https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Dusty Bibles](https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO) | 3:10 | 2025-06-24 |  |
 | [Fight Of My Life](https://open.spotify.com/track/6lifMzePK6K5c5AnfvGMVt) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Fight Of My LIfe](https://open.spotify.com/album/4Dz2LjpgWN5CnGBPAC0Dxp) | 2:58 | 2025-06-13 |  |
 | [For Your Glory](https://open.spotify.com/track/0NOlyAgdrlf2qqa6RDE56W) | [Caleb King](https://open.spotify.com/artist/0gqn0LqsZGIUUILzA2cXmy) | [For Your Glory](https://open.spotify.com/album/0OW0ANECV9MUIUt2FEwspQ) | 3:40 | 2025-06-13 |  |
 | [Forgive Me](https://open.spotify.com/track/6aTpxJdbj3pvt7oGyLwpK0) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Forgive Me](https://open.spotify.com/album/5afgmQVu390m7xUvgFz7Je) | 3:47 | 2025-06-13 |  |

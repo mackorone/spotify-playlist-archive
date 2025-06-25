@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 2,185 likes - 87 songs - 5 hr 15 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 2,187 likes - 87 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 63 | [High horse](https://open.spotify.com/track/2MwjIe9DuoJPVTCbHjcQ5S) | [Proper Monday Number](https://open.spotify.com/artist/5jz5puwcHD8JeF8AMi6N7o) | [Deep clean your house EP](https://open.spotify.com/album/6ny7e8vayR98D99fahSnLP) | 3:25 |
 | 64 | [DO U RIDE](https://open.spotify.com/track/4GXAvavmKZsmbPWL93BLBV) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [DO U RIDE](https://open.spotify.com/album/4hYZ7lyxWWuaHEaJuvcz3j) | 3:16 |
 | 65 | [Friend Collector](https://open.spotify.com/track/3MUeJ5rkkUYfHdGsvn4KBs) | [Ryli](https://open.spotify.com/artist/4qlvrrjM0KxkKvguzstZoi) | [Friend Collector](https://open.spotify.com/album/4eeCCpOaYTqp0nsJIhvtYv) | 3:05 |
-| 66 | [Standing on Air](https://open.spotify.com/track/3cc5OLGlhE29K5wV8zUOCF) | [Safe Mind](https://open.spotify.com/artist/4adzRTzhsBKFneEkLp2sts), [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Standing on Air](https://open.spotify.com/album/3UhCrxbdgv7FWxTdKePhXD) | 4:05 |
+| 66 | [Standing on Air](https://open.spotify.com/track/3cc5OLGlhE29K5wV8zUOCF) | [Safe Mind](https://open.spotify.com/artist/4adzRTzhsBKFneEkLp2sts), [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [Standing on Air](https://open.spotify.com/album/3UhCrxbdgv7FWxTdKePhXD) | 4:05 |
 | 67 | [More Than Love](https://open.spotify.com/track/0pTyguYHJKhgafgIh5vgos) | [Samantha Schmütz](https://open.spotify.com/artist/2d5jpxKopvlhzQ2UneuilJ), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [More Than Love](https://open.spotify.com/album/7fEuSKqTUhfLu2SI9RKQpu) | 2:58 |
 | 68 | [A baby girl named Heaven](https://open.spotify.com/track/5LTek6R8jsAbEcUAHecIBB) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [The woods, vol\. 1](https://open.spotify.com/album/28LD28enRzXd3e0V5zDypI) | 2:21 |
 | 69 | [Cut & Rewind](https://open.spotify.com/track/0zd8Gnt95fYRQmRmheItft) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Cut & Rewind](https://open.spotify.com/album/50tyh4co58xNd1C1N4mq4k) | 2:55 |

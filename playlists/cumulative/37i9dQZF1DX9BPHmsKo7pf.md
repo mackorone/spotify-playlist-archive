@@ -2,9 +2,9 @@
 
 ### [Hot Hits România](https://open.spotify.com/playlist/37i9dQZF1DX9BPHmsKo7pf)
 
-> Cele mai de succes 50 de hituri în România\. Cover: Denis Ramniceanu
+> Cele mai de succes 50 de hituri în România\. Cover: Babasha
 
-188 songs - 9 hr 3 min
+190 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Africa](https://open.spotify.com/track/0MrBR6EVORoHjexRl6OJRP) | [Gya](https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm) | [Africa](https://open.spotify.com/album/0bkQHkezQPiBWDJRdB7Tys) | 2:25 | 2024-07-01 | 2024-08-27 |
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-07-01 | 2025-05-21 |
 | [ALL RED](https://open.spotify.com/track/3WQfLuSH0Az2tzVoCz6OCE) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/65TLpR9CjyYqBL8Os2pmlY) | 2:28 | 2024-09-23 | 2024-10-01 |
-| [Alo, mama](https://open.spotify.com/track/07WyoFDoUjxDHLa0dMFcb5) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Alo, mama](https://open.spotify.com/album/423TPlB5hQpIDYC6BMJ9Tp) | 2:49 | 2025-02-03 |  |
+| [Alo, mama](https://open.spotify.com/track/07WyoFDoUjxDHLa0dMFcb5) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Alo, mama](https://open.spotify.com/album/423TPlB5hQpIDYC6BMJ9Tp) | 2:49 | 2025-02-03 | 2025-06-25 |
 | [Am un secret](https://open.spotify.com/track/2jE6IfnXw4P4lfgixOADk6) | [Alessandra](https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV), [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Am un secret](https://open.spotify.com/album/2pJSJIH3T0uNSAzteVl8eV) | 2:50 | 2025-03-03 |  |
 | [Amo, Amo](https://open.spotify.com/track/0gOjMBj92rLOX6M134LMMh) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Amo, Amo](https://open.spotify.com/album/0XyqaA2Aox5hnUJ6UlJTIh) | 2:27 | 2024-07-08 |  |
 | [Amore](https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Amore](https://open.spotify.com/album/7l4nAOqwA7tHCQ7qdJtAR9) | 2:38 | 2024-07-01 | 2024-12-03 |
@@ -65,11 +65,12 @@
 | [De la dela](https://open.spotify.com/track/4qQDJp46yZj6xz8mwq91v7) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [De la dela](https://open.spotify.com/album/6pba5ksDHtVywuKyhlpzmy) | 3:23 | 2024-07-01 | 2024-10-08 |
 | [Decibeli](https://open.spotify.com/track/0ogZ6EecrYbNQhKIQCCXyz) | [Alex Botea](https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz) | [Decibeli](https://open.spotify.com/album/5jylDMNyLWXD1Jcgt4GKgA) | 3:54 | 2024-07-01 | 2024-07-16 |
 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr) | 1:58 | 2024-07-15 | 2024-08-08 |
-| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-26 |  |
+| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-26 | 2025-06-25 |
 | [Don't Be Shy](https://open.spotify.com/track/2bI6cO5Aunv8O50kJQ3Ai0) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [millforlife](https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Don't Be Shy](https://open.spotify.com/album/1viRLvWGXRMCmZwSwnd1dF) | 2:39 | 2025-05-12 | 2025-06-10 |
 | [Dragoste nouă](https://open.spotify.com/track/4mffuuMam2bBlx1c4PtfjJ) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [Dragoste nouă](https://open.spotify.com/album/5vNFpcjvfKiRrGph2sfUwt) | 2:45 | 2025-04-03 | 2025-05-13 |
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-20 | 2025-03-18 |
 | [E Adevărat](https://open.spotify.com/track/6PxNbn9eM5SIDTBBZfG9PX) | [Gya](https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm) | [E Adevărat](https://open.spotify.com/album/47NVLn2ih1vv0rFyljSsQa) | 2:47 | 2024-09-23 | 2025-06-17 |
+| [E Mult, E Greu!](https://open.spotify.com/track/6OfGAcaOGhkgXWWrSsRpzj) | [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [E Mult, E Greu!](https://open.spotify.com/album/2MO3K0AD3WGrjgL3Knfql2) | 2:21 | 2025-06-24 |  |
 | [Echo](https://open.spotify.com/track/61qMlEw96KJJluJx1ANYbH) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Echo](https://open.spotify.com/album/7mYcHs6sJgYiVmAOBTgemf) | 2:58 | 2025-04-14 | 2025-06-10 |
 | [Eee Aaa \| Burj Khalifa](https://open.spotify.com/track/1XnSv4BUz58CBzioQap0V1) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Sheik](https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW) | [Eee Aaa \| Burj Khalifa](https://open.spotify.com/album/2VU7IC0UMSavJkd7mbpr7P) | 2:31 | 2024-07-01 | 2025-03-11 |
 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 | 2024-09-30 | 2025-01-08 |
@@ -79,6 +80,7 @@
 | [Fana](https://open.spotify.com/track/1eln2C07r6xDo06kErYrFn) | [Jador](https://open.spotify.com/artist/6o6jMpcBBv4jMOEE1Z4tlJ), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Fana](https://open.spotify.com/album/0HKQiYtP7btvohl2Bby3Xg) | 2:38 | 2024-07-01 | 2024-10-22 |
 | [FARMACISTA](https://open.spotify.com/track/0QGHB3naWsYs9Sz70RjkZ2) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9) | [Z PRINT](https://open.spotify.com/album/0W76I80KanqoAZe1Sg5bso) | 2:22 | 2025-05-20 |  |
 | [FLY](https://open.spotify.com/track/0hknUmR1ujZ9DTV2BfjIhK) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9) | [FLY](https://open.spotify.com/album/6SKsIwxPmmAjBeyhIjXCgb) | 3:18 | 2025-04-14 |  |
+| [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 | 2025-06-24 |  |
 | [Gang Baby](https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT SZN](https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke) | 2:18 | 2024-12-09 | 2025-02-18 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-07-01 | 2024-11-26 |
 | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 | 2025-01-27 | 2025-02-11 |

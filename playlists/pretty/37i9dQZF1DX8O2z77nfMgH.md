@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Jerry Di, Danny Ocean, Corina Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,346 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,162 likes - 55 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 49 | [Por Mucho Tiempo](https://open.spotify.com/track/3GaWTQ1vKqjGjSSaau0khU) | [Toda la Vida](https://open.spotify.com/artist/53jbiFLW9kVxcklTZKZ1oy), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Por Mucho Tiempo](https://open.spotify.com/album/4XeRGkZPzvBmpohrCTD55f) | 3:02 |
 | 50 | [Otra Luna](https://open.spotify.com/track/5CB6dr05t4RcZ9yRmwhC8y) | [Sagel](https://open.spotify.com/artist/7stGvcPB65torqIdCalvG5), [JRIZ](https://open.spotify.com/artist/78YGd5cZmUMsAV1LEbYxeV), [castleurbano](https://open.spotify.com/artist/1jS17bkQpQzybCKZ04CTws) | [Otra Luna](https://open.spotify.com/album/5aohza9M5zeiEY0PyIvJfc) | 2:42 |
 | 51 | [uno de prueba](https://open.spotify.com/track/5sn6g2N55J9UHdO5bDsRY2) | [Eiby](https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn), [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf), [Real Boss](https://open.spotify.com/artist/5Tt8mIEodxHYHf4UZPZohf) | [uno de prueba](https://open.spotify.com/album/0Krv6KtbugjtstQwXPL5z3) | 3:08 |
-| 52 | [Pal Infierno](https://open.spotify.com/track/1J9kdOvK2q5fh4Jgzv0TSk) | [GlorySixVain](https://open.spotify.com/artist/79lATyc2ODajhNfsqcNnzw), [Lil Mess](https://open.spotify.com/artist/6eUMkeHdqGrQWPBCxGP297) | [MUSIKITA DE XXXINGOTEO](https://open.spotify.com/album/6Xli0lbgir2AeS7YfmfgBQ) | 2:54 |
+| 52 | [Pal Infierno](https://open.spotify.com/track/1J9kdOvK2q5fh4Jgzv0TSk) | [GlorySixVain](https://open.spotify.com/artist/79lATyc2ODajhNfsqcNnzw), [Lil Mess](https://open.spotify.com/artist/6eUMkeHdqGrQWPBCxGP297), [Aft3rlife](https://open.spotify.com/artist/61JqIRJIESqiK9QV8Emsvp) | [MUSIKITA DE XXXINGOTEO](https://open.spotify.com/album/6Xli0lbgir2AeS7YfmfgBQ) | 2:54 |
 | 53 | [Mami](https://open.spotify.com/track/5DIKFMFBiVkh9JDbfoTPMl) | [Ochy](https://open.spotify.com/artist/1Ca0XeiVvKBPIhhWNq1Tp7) | [Mami](https://open.spotify.com/album/4FxblP2DFxqyCuaVVca2Uz) | 2:20 |
 | 54 | [No Me Importa](https://open.spotify.com/track/3ha1HwC1ka0IPcIepD50HO) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [No me Importa](https://open.spotify.com/album/6aXNeXAKR45CmOLgcGEuCb) | 2:57 |
 | 55 | [No Me Mires Así](https://open.spotify.com/track/47ksOyGaKedXvXqp8bWQY3) | [Gletcher](https://open.spotify.com/artist/1koh2JIk9Q42FNn0llOpdi) | [Los Últimos Glaciares](https://open.spotify.com/album/3jhAfuqITr7l9pYlQ2EmwQ) | 4:15 |

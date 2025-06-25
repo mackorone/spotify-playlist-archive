@@ -3080,7 +3080,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 148714,
       "name": "Killin' It Girl (feat. GloRilla)",
       "url": "https://open.spotify.com/track/2GzwtXPlI0gZEOS6xFOZ2j"
@@ -3102,7 +3102,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-19",
+      "date_removed": null,
       "duration_ms": 148714,
       "name": "Killin' It Girl (feat. GloRilla)",
       "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
@@ -3356,7 +3356,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-23",
+      "date_removed": null,
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -4460,7 +4460,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 140676,
       "name": "OCG",
       "url": "https://open.spotify.com/track/1wz0imYNaHwJbkDrA9GfKR"
@@ -5286,7 +5286,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-23",
+      "date_removed": null,
       "duration_ms": 188399,
       "name": "Slow Dance (feat. Sofia Carson)",
       "url": "https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH"
@@ -5646,7 +5646,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
@@ -6504,7 +6504,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-24",
+      "date_removed": null,
       "duration_ms": 171995,
       "name": "Who (Rock Remix)",
       "url": "https://open.spotify.com/track/1MC8JLPV4fbvVBqvGSLoDf"
@@ -6522,7 +6522,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-23",
+      "date_removed": null,
       "duration_ms": 166809,
       "name": "Who (Shibuyakei Remix)",
       "url": "https://open.spotify.com/track/1ySWoGgrduSzvtJ3PUzO41"
@@ -9280,7 +9280,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 179752,
       "name": "\u041c\u043e\u0441\u043a\u0432\u0430 - \u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a",
       "url": "https://open.spotify.com/track/3mvqKKyF6rgYd52bBSCTza"
@@ -9302,7 +9302,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 174000,
       "name": "\u041c\u043e\u0441\u043a\u0432\u0430 - \u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a",
       "url": "https://open.spotify.com/track/37V7zlROrZ9VQLd3zv2C85"
@@ -11664,7 +11664,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 134400,
       "name": "\u0421\u044b\u043d \u043e\u0442 \u0447\u0451\u0440\u043d\u044b\u0445 \u043a\u043e\u0440\u043e\u043b\u0435\u0432",
       "url": "https://open.spotify.com/track/6nzvwdvEPOI6RMFjmTVe4X"
@@ -12498,6 +12498,24 @@
       "duration_ms": 151714,
       "name": "\u0426\u0432\u0435\u0442\u0430\u0435\u0432\u0430",
       "url": "https://open.spotify.com/track/5ACebyVVWdxEpU8kpd12j9"
+    },
+    {
+      "album": {
+        "name": "\u043c\u0440\u0430\u0447\u043d\u044b\u0435 \u0442\u0440\u0435\u0434\u044b",
+        "url": "https://open.spotify.com/album/7CQpALyPsLg8aXe6sHxiMx"
+      },
+      "artists": [
+        {
+          "name": "\u0442\u0451\u043c\u043d\u044b\u0439 \u043f\u0440\u0438\u043d\u0446",
+          "url": "https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98029,
+      "name": "\u0446\u0432\u0435\u0442\u044b",
+      "url": "https://open.spotify.com/track/5GoC9yZ1KAqzV9V3Oxornv"
     },
     {
       "album": {

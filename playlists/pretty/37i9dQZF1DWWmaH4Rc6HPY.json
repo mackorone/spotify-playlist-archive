@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! babas tutsipop en portada.",
-  "num_followers": 35589,
+  "num_followers": 35598,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,26 @@
     {
       "added_at": "2025-06-13 06:00:20",
       "album": {
+        "name": "La Salvaci\u00f3n",
+        "url": "https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        },
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 285480,
+      "name": "La Salvaci\u00f3n",
+      "url": "https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ"
+    },
+    {
+      "added_at": "2025-06-13 06:00:20",
+      "album": {
         "name": "Qu\u00e9 Bien Se Te Ve",
         "url": "https://open.spotify.com/album/1PrHdsonw7QUGrOLmekfsN"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 151747,
       "name": "Qu\u00e9 Bien Se Te Ve",
       "url": "https://open.spotify.com/track/2Qu7k75pTkO1swHgMoHDus"
-    },
-    {
-      "added_at": "2025-06-13 06:00:20",
-      "album": {
-        "name": "La Salvaci\u00f3n",
-        "url": "https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC"
-      },
-      "artists": [
-        {
-          "name": "Arde Bogot\u00e1",
-          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
-        },
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 285480,
-      "name": "La Salvaci\u00f3n",
-      "url": "https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ"
     },
     {
       "added_at": "2025-06-13 06:00:20",
@@ -823,26 +823,6 @@
     {
       "added_at": "2025-06-13 06:00:20",
       "album": {
-        "name": "Ciudad Amurallada",
-        "url": "https://open.spotify.com/album/35zUzylSXNgPJmllVbw6sS"
-      },
-      "artists": [
-        {
-          "name": "Ariza",
-          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 169545,
-      "name": "Ciudad Amurallada",
-      "url": "https://open.spotify.com/track/5O4wXY57eFdXZzKwpjo38A"
-    },
-    {
-      "added_at": "2025-06-13 06:00:20",
-      "album": {
         "name": "Igual de gris",
         "url": "https://open.spotify.com/album/01ue76B6p752PENdJ6eurO"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 196395,
       "name": "Igual de gris",
       "url": "https://open.spotify.com/track/4cScSwuQMKmvAsJmwQt4E0"
+    },
+    {
+      "added_at": "2025-06-13 06:00:20",
+      "album": {
+        "name": "Ciudad Amurallada",
+        "url": "https://open.spotify.com/album/35zUzylSXNgPJmllVbw6sS"
+      },
+      "artists": [
+        {
+          "name": "Ariza",
+          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 169545,
+      "name": "Ciudad Amurallada",
+      "url": "https://open.spotify.com/track/5O4wXY57eFdXZzKwpjo38A"
     },
     {
       "added_at": "2025-06-13 06:00:20",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2025-06-13 06:00:20",
       "album": {
-        "name": "EL DIABLO",
-        "url": "https://open.spotify.com/album/5iF9vS6KQNnJjDXJPQI5CN"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 193181,
-      "name": "EL DIABLO",
-      "url": "https://open.spotify.com/track/5Zinmdnrq6Gp8ho1VS4zAg"
-    },
-    {
-      "added_at": "2025-06-13 06:00:20",
-      "album": {
         "name": "Contradicci\u00f3n",
         "url": "https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 296613,
       "name": "Contradicci\u00f3n",
       "url": "https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc"
+    },
+    {
+      "added_at": "2025-06-13 06:00:20",
+      "album": {
+        "name": "EL DIABLO",
+        "url": "https://open.spotify.com/album/5iF9vS6KQNnJjDXJPQI5CN"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 193181,
+      "name": "EL DIABLO",
+      "url": "https://open.spotify.com/track/5Zinmdnrq6Gp8ho1VS4zAg"
     },
     {
       "added_at": "2025-06-13 06:00:20",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-06-13 06:00:20",
       "album": {
-        "name": "EL PEOR",
-        "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "EL PEOR",
-      "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
-    },
-    {
-      "added_at": "2025-06-13 06:00:20",
-      "album": {
         "name": "Narvarte",
         "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 193906,
       "name": "Prometimos",
       "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
+    },
+    {
+      "added_at": "2025-06-13 06:00:20",
+      "album": {
+        "name": "EL PEOR",
+        "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "EL PEOR",
+      "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
     },
     {
       "added_at": "2025-06-13 06:00:20",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2025-06-13 06:00:20",
       "album": {
+        "name": "sin nada",
+        "url": "https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 154514,
+      "name": "sin nada",
+      "url": "https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI"
+    },
+    {
+      "added_at": "2025-06-13 06:00:20",
+      "album": {
         "name": "Nuestra postal (feat. No Te Va Gustar)",
         "url": "https://open.spotify.com/album/307Merdz0VF2RKcncEMJUM"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 212918,
       "name": "Nuestra postal (feat. No Te Va Gustar)",
       "url": "https://open.spotify.com/track/0F3mmEvyJ0fnA0PJKCLrAK"
-    },
-    {
-      "added_at": "2025-06-13 06:00:20",
-      "album": {
-        "name": "sin nada",
-        "url": "https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD"
-      },
-      "artists": [
-        {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
-        }
-      ],
-      "duration_ms": 154514,
-      "name": "sin nada",
-      "url": "https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI"
     },
     {
       "added_at": "2025-06-13 06:00:20",

@@ -501,6 +501,28 @@
     },
     {
       "album": {
+        "name": "GRAND POP",
+        "url": "https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H"
+      },
+      "artists": [
+        {
+          "name": "PAS TASTA",
+          "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
+        },
+        {
+          "name": "PinocchioP",
+          "url": "https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186293,
+      "name": "B.B.M. (feat. \u30d4\u30ce\u30ad\u30aa\u30d4\u30fc)",
+      "url": "https://open.spotify.com/track/73PSS7LzOveJNlOp7Z3q55"
+    },
+    {
+      "album": {
         "name": "After the partY",
         "url": "https://open.spotify.com/album/0b6bP73xLMUe33k8xkPzRw"
       },
@@ -5286,7 +5308,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 135789,
       "name": "\u30a8\u30f3\u30f4\u30a3\u30fc\u30d9\u30a4\u30d3\u30fc",
       "url": "https://open.spotify.com/track/02vOyaNCKGX8uhjggOIH83"

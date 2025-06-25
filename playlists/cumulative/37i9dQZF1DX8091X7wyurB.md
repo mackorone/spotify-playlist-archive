@@ -4,7 +4,7 @@
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-570 songs - 2 day 7 hr 54 min
+571 songs - 2 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Defe Defe](https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 6:46 | 2024-05-17 |  |
 | [Devotion](https://open.spotify.com/track/633CYHYMJgB8nSfR5HfSaL) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [DEVOTION](https://open.spotify.com/album/06NDllV67evIX6wBSJSKLX) | 5:32 | 2025-06-20 |  |
 | [Do It Again](https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 6:38 | 2024-09-20 | 2025-06-06 |
-| [Doing Of The Lord](https://open.spotify.com/track/4r966NZHJtBkOpfhXVFdxY) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Doing Of The Lord](https://open.spotify.com/album/0Ff26WWIzgkiSxWVemAtxD) | 4:19 | 2025-01-10 |  |
+| [Doing Of The Lord](https://open.spotify.com/track/4r966NZHJtBkOpfhXVFdxY) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Doing Of The Lord](https://open.spotify.com/album/0Ff26WWIzgkiSxWVemAtxD) | 4:19 | 2025-01-10 | 2025-06-25 |
 | [Dominus Omnium](https://open.spotify.com/track/2kdo5mGHAYdg0slwaabLV0) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Dominus Omnium](https://open.spotify.com/album/4Y7FbmpRm5boVCtwHq4Erl) | 4:15 | 2023-04-13 | 2023-06-08 |
 | [E Ti Tobi to \(Live\)](https://open.spotify.com/track/6CyvOdf4V0PM8mU3ktVzsh) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Choir](https://open.spotify.com/artist/3anQm3u8qGQyPeAOh0bAzb), [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx), [BBO](https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd) | [E Ti Tobi to \(Live\)](https://open.spotify.com/album/5mY52gjoMuJsiLybLRQR3J) | 13:46 | 2024-10-11 | 2024-12-09 |
 | [East To West](https://open.spotify.com/track/4Af0nbwppQs3hc5ga2mzby) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [East To West](https://open.spotify.com/album/2mppFezAfFbXwrthx4HKnR) | 4:11 | 2023-08-04 | 2023-12-15 |
@@ -555,6 +555,7 @@
 | [Yellow Soul](https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yellow Soul](https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd) | 2:42 | 2022-06-30 | 2023-07-14 |
 | [Yes, Lord!](https://open.spotify.com/track/6qBObB4fdVeswPpu1tJFGg) | [Buchi](https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS) | [Yes, Lord!](https://open.spotify.com/album/5cSDcoxm30scAAdvCTUaPn) | 5:09 | 2022-06-30 | 2023-01-28 |
 | [Yeshua \(Worship Rendition\)](https://open.spotify.com/track/6KxgjgVDbiAnRB2SZhcu0h) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Yeshua \(Worship Rendition\)](https://open.spotify.com/album/0KTOUGmGuoO81AVc4ro4EO) | 3:36 | 2024-04-05 | 2024-12-07 |
+| [Yeshua \- Live](https://open.spotify.com/track/5cAhcefkbJ98RPfHeQfyfB) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Hunger \- From Our Heart to Yours \(Live\)](https://open.spotify.com/album/5mvzsp0rnXmZYDKqVa88ac) | 4:46 | 2025-06-24 |  |
 | [Yesterday, Today And Forever \- Live From Passion 2022](https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 5:40 | 2025-01-27 | 2025-02-02 |
 | [Yesu Mo](https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Yesu Mo](https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG) | 4:01 | 2022-06-30 | 2023-06-08 |
 | [YET \(feat\. Ashley Hess & the King will come\)](https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Ashley Hess](https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N), [the King will come](https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8) | [YET \(feat\. Ashley Hess & the King will come\)](https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb) | 5:50 | 2023-10-06 |  |

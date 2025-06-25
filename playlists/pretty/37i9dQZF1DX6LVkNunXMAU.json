@@ -1,6 +1,6 @@
 {
   "description": "indie folk latino de estaci\u00f3n. Foto: Paz Carrara y Raly Barrionuevo",
-  "num_followers": 60557,
+  "num_followers": 60566,
   "original_name": "folk & oto\u00f1o",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,26 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
+        "name": "Suerte para m\u00ed",
+        "url": "https://open.spotify.com/album/6CW5eGVqBR2o3EmF7Ti8iX"
+      },
+      "artists": [
+        {
+          "name": "Roki Fernandez",
+          "url": "https://open.spotify.com/artist/2MCfICN62faLf6aDJZhlx6"
+        },
+        {
+          "name": "Mailen Pankonin",
+          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
+        }
+      ],
+      "duration_ms": 183786,
+      "name": "Suerte para m\u00ed",
+      "url": "https://open.spotify.com/track/464idwypVzujFVCo6XdgeI"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
         "name": "Lesbiandrama",
         "url": "https://open.spotify.com/album/2oY9USTDYbnQtcy5bRa2DR"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 243501,
       "name": "Bolero",
       "url": "https://open.spotify.com/track/3yz96oTI0rHUaXruFziWBS"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
-        "name": "Suerte para m\u00ed",
-        "url": "https://open.spotify.com/album/6CW5eGVqBR2o3EmF7Ti8iX"
-      },
-      "artists": [
-        {
-          "name": "Roki Fernandez",
-          "url": "https://open.spotify.com/artist/2MCfICN62faLf6aDJZhlx6"
-        },
-        {
-          "name": "Mailen Pankonin",
-          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
-        }
-      ],
-      "duration_ms": 183786,
-      "name": "Suerte para m\u00ed",
-      "url": "https://open.spotify.com/track/464idwypVzujFVCo6XdgeI"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -811,6 +811,26 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
+        "name": "Particular",
+        "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
+      },
+      "artists": [
+        {
+          "name": "LE TORO",
+          "url": "https://open.spotify.com/artist/399hFqtRXcXAUU8F4x2BkN"
+        },
+        {
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+        }
+      ],
+      "duration_ms": 165808,
+      "name": "Particular",
+      "url": "https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
         "name": "Agua Viva",
         "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
       },
@@ -867,22 +887,6 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "cuidar el mango",
-        "url": "https://open.spotify.com/album/4SUdavkGS6dTcKCCr2IIQp"
-      },
-      "artists": [
-        {
-          "name": "lisandro skar",
-          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
-        }
-      ],
-      "duration_ms": 136320,
-      "name": "cuidar el mango",
-      "url": "https://open.spotify.com/track/7wktHW9MlxOYsvxJoAmdsM"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
         "name": "El Vals",
         "url": "https://open.spotify.com/album/1I0GlSP3diYHVYtDaXFyrN"
       },
@@ -919,22 +923,18 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "Particular",
-        "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
+        "name": "cuidar el mango",
+        "url": "https://open.spotify.com/album/4SUdavkGS6dTcKCCr2IIQp"
       },
       "artists": [
         {
-          "name": "LE TORO",
-          "url": "https://open.spotify.com/artist/399hFqtRXcXAUU8F4x2BkN"
-        },
-        {
-          "name": "INE",
-          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
         }
       ],
-      "duration_ms": 165808,
-      "name": "Particular",
-      "url": "https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi"
+      "duration_ms": 136320,
+      "name": "cuidar el mango",
+      "url": "https://open.spotify.com/track/7wktHW9MlxOYsvxJoAmdsM"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -951,6 +951,22 @@
       "duration_ms": 212444,
       "name": "Ancla",
       "url": "https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
+        "name": "Ser\u00e9 m\u00eda",
+        "url": "https://open.spotify.com/album/1QGEjpTaJ64tSx3CsQqbkU"
+      },
+      "artists": [
+        {
+          "name": "Kurmi",
+          "url": "https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W"
+        }
+      ],
+      "duration_ms": 194611,
+      "name": "Ser\u00e9 m\u00eda",
+      "url": "https://open.spotify.com/track/6ztXazDxjvxifJMWRAGkKn"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -987,22 +1003,6 @@
       "duration_ms": 213112,
       "name": "Tur Blues",
       "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
-        "name": "Ser\u00e9 m\u00eda",
-        "url": "https://open.spotify.com/album/1QGEjpTaJ64tSx3CsQqbkU"
-      },
-      "artists": [
-        {
-          "name": "Kurmi",
-          "url": "https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W"
-        }
-      ],
-      "duration_ms": 194611,
-      "name": "Ser\u00e9 m\u00eda",
-      "url": "https://open.spotify.com/track/6ztXazDxjvxifJMWRAGkKn"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "Caminito",
-        "url": "https://open.spotify.com/album/6K3521IAJJFcPu0cY0d0V4"
-      },
-      "artists": [
-        {
-          "name": "Coco Green",
-          "url": "https://open.spotify.com/artist/2KZq8iWAr0lZ0L1Ua6HgQs"
-        },
-        {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Caminito",
-      "url": "https://open.spotify.com/track/1nLPGf1saHtgUgHEDWBjMP"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
         "name": "Sentado Esperando",
         "url": "https://open.spotify.com/album/5j39PJXUoATpOofTtr8JX2"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 257564,
       "name": "Sentado Esperando",
       "url": "https://open.spotify.com/track/4Df4BpSE9IsdGNoMkNRqVb"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
+        "name": "Caminito",
+        "url": "https://open.spotify.com/album/6K3521IAJJFcPu0cY0d0V4"
+      },
+      "artists": [
+        {
+          "name": "Coco Green",
+          "url": "https://open.spotify.com/artist/2KZq8iWAr0lZ0L1Ua6HgQs"
+        },
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Caminito",
+      "url": "https://open.spotify.com/track/1nLPGf1saHtgUgHEDWBjMP"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
+        "name": "De Viaje",
+        "url": "https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU"
+      },
+      "artists": [
+        {
+          "name": "Cata Raybaud",
+          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
+        }
+      ],
+      "duration_ms": 202956,
+      "name": "De Viaje",
+      "url": "https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
         "name": "Lo Que Hicimos",
         "url": "https://open.spotify.com/album/5M7QbPWs7IZbZ7GgwucHwh"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 157725,
       "name": "Lo Que Hicimos",
       "url": "https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
-        "name": "De Viaje",
-        "url": "https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU"
-      },
-      "artists": [
-        {
-          "name": "Cata Raybaud",
-          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
-        }
-      ],
-      "duration_ms": 202956,
-      "name": "De Viaje",
-      "url": "https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "Simona a Guitarra y Voz (Lado A)",
-        "url": "https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC"
-      },
-      "artists": [
-        {
-          "name": "Mauro Samaniego",
-          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
-        }
-      ],
-      "duration_ms": 247636,
-      "name": "Paredes Finas",
-      "url": "https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
         "name": "Barquinho",
         "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 223349,
       "name": "Sigo Llorando",
       "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
+        "name": "Simona a Guitarra y Voz (Lado A)",
+        "url": "https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC"
+      },
+      "artists": [
+        {
+          "name": "Mauro Samaniego",
+          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
+        }
+      ],
+      "duration_ms": 247636,
+      "name": "Paredes Finas",
+      "url": "https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -1627,42 +1627,6 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "Un besito",
-        "url": "https://open.spotify.com/album/6a7Gm9RqJp1fNypiMAfL5y"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1o Etc.",
-          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Un besito",
-      "url": "https://open.spotify.com/track/3Mgj1UCxUVjQ7YpSNEh0f3"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
-        "name": "Disfon\u00eda",
-        "url": "https://open.spotify.com/album/6O1TAFDVgBj9d04MltQQ9b"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Lombilla",
-          "url": "https://open.spotify.com/artist/4SB2xVfkvR6IZqTPRoQnjV"
-        },
-        {
-          "name": "Sim\u00f3n Altgelt",
-          "url": "https://open.spotify.com/artist/4mkyTjyoJuHvEq8Mr6suBz"
-        }
-      ],
-      "duration_ms": 149364,
-      "name": "Disfon\u00eda",
-      "url": "https://open.spotify.com/track/0uJDoMbRcfmojaIOqOOMs7"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
         "name": "Empate",
         "url": "https://open.spotify.com/album/2uoKUJILAJXhOsAWbutwLg"
       },
@@ -1683,6 +1647,22 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
+        "name": "Un besito",
+        "url": "https://open.spotify.com/album/6a7Gm9RqJp1fNypiMAfL5y"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1o Etc.",
+          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Un besito",
+      "url": "https://open.spotify.com/track/3Mgj1UCxUVjQ7YpSNEh0f3"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
         "name": "Nuestras Formas",
         "url": "https://open.spotify.com/album/30TBSDnmG0b4mjZHuUeXYE"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 151653,
       "name": "Nuestras Formas",
       "url": "https://open.spotify.com/track/3FsYdqpzwud7ZRjLRHi21S"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
+        "name": "Disfon\u00eda",
+        "url": "https://open.spotify.com/album/6O1TAFDVgBj9d04MltQQ9b"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Lombilla",
+          "url": "https://open.spotify.com/artist/4SB2xVfkvR6IZqTPRoQnjV"
+        },
+        {
+          "name": "Sim\u00f3n Altgelt",
+          "url": "https://open.spotify.com/artist/4mkyTjyoJuHvEq8Mr6suBz"
+        }
+      ],
+      "duration_ms": 149364,
+      "name": "Disfon\u00eda",
+      "url": "https://open.spotify.com/track/0uJDoMbRcfmojaIOqOOMs7"
     },
     {
       "added_at": "2025-04-25 03:00:33",

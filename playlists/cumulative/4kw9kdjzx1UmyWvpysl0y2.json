@@ -2975,6 +2975,28 @@
     },
     {
       "album": {
+        "name": "Can You",
+        "url": "https://open.spotify.com/album/5mCqlZt0A5PjgtmFd82dHV"
+      },
+      "artists": [
+        {
+          "name": "MXV",
+          "url": "https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG"
+        },
+        {
+          "name": "Courtney Storm",
+          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Can You",
+      "url": "https://open.spotify.com/track/1IViMQ0Ifl0N9Gbkwdifso"
+    },
+    {
+      "album": {
         "name": "Canal Street Crook",
         "url": "https://open.spotify.com/album/5I2bOAOVhJmJ5MR8fnLzMf"
       },

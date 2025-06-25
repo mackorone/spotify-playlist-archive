@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-116 songs - 5 hr 33 min
+118 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,8 @@
 | [He Say She Say](https://open.spotify.com/track/2DOwIiI5L9lWsoUnZQlUqr) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 2:24 | 2023-12-16 |  |
 | [He Say She Say](https://open.spotify.com/track/7uJHdZPYExYDB6c23qjSrL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [He Say She Say \(Official Video\)](https://open.spotify.com/album/7o8mAtcvmvKJwEpZVXJRrB) | 2:26 | 2023-12-13 | 2024-01-31 |
 | [HICCUP](https://open.spotify.com/track/3xO0JG5aeKca9gp9SYcljz) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Chapter 01: The Show Must Go On](https://open.spotify.com/album/6dqubyVt3aC3niJDXkSB5Q) | 2:10 | 2023-12-13 |  |
+| [Honestly](https://open.spotify.com/track/4UlcyqEAKetKwxTq4EXvwp) | [Lindasson](https://open.spotify.com/artist/6DXbnRlv1UgusrKOxc39j7) | [Honestly](https://open.spotify.com/album/7Bw7ts6BuO8Yz9IrRWfaTI) | 2:00 | 2025-06-24 |  |
+| [i like it \(feat\. Yo\-Sea, LEX & IO\)](https://open.spotify.com/track/09aO4VPeWw46qecXpHXEV5) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [i like it \(feat\. Yo\-Sea, LEX & IO\)](https://open.spotify.com/album/5NATm6ps7E8oOSmroG4eFv) | 3:04 | 2025-06-24 |  |
 | [I Like That](https://open.spotify.com/track/61SUnUdIUeY4ixS970eQnb) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Chapter 03: Mr\. Independent](https://open.spotify.com/album/6ONtu6CXex6rakxf5icamp) | 2:19 | 2023-12-13 |  |
 | [I'm Ready For You](https://open.spotify.com/track/1zmv0tPVWdbCuvBw90MYwO) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A N N I V E R S A R Y](https://open.spotify.com/album/5KpXxX7OUDXRs25qLyN8NA) | 2:54 | 2023-12-13 |  |
 | [INTRO](https://open.spotify.com/track/254e1d9X2yuvBvDt6Xnbay) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/5TjZaOPz0Jk38bfPR2UojD) | 0:14 | 2023-12-13 |  |

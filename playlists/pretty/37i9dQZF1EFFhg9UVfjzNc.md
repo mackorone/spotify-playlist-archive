@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 779 likes - 93 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 779 likes - 94 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 55 | [Te Amei](https://open.spotify.com/track/1YbBxALDLie4GPX7wXIgHs) | [Chris Duran](https://open.spotify.com/artist/1cuygaMWRUavQ2vfL4v5ex) | [Eloim.](https://open.spotify.com/album/5rhzweel8RzjEvwndIfgJa) | 4:09 |
 | 56 | [Simples Canção](https://open.spotify.com/track/3uAqfeX191qTIoB5N2vNWp) | [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Simples Canção](https://open.spotify.com/album/03q3oGwLsPD8pxwEAbcLNw) | 3:26 |
 | 57 | [Eu Vou](https://open.spotify.com/track/7bBZWejBWjegNDZpdK5GkK) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Eu Vou](https://open.spotify.com/album/3VwjA6TL1mFL87K3My04VA) | 2:13 |
-| 58 | [O Nome De Jesus](https://open.spotify.com/track/1Nh1b72PjsmA6HNyOIQzhe) | [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [O Nome De Jesus](https://open.spotify.com/album/12FFt5SxPV8GXDvhGFOled) | 3:59 |
-| 59 | [Quem é Ele \- Ao Vivo](https://open.spotify.com/track/7sbw0RaD6nxalNUtjAcKnB) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Quem é Ele \(Ao Vivo\)](https://open.spotify.com/album/7kWHlrt0U9mKj9cUzbFwqu) | 6:39 |
+| 58 | [Quem é Ele \- Ao Vivo](https://open.spotify.com/track/7sbw0RaD6nxalNUtjAcKnB) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Quem é Ele \(Ao Vivo\)](https://open.spotify.com/album/7kWHlrt0U9mKj9cUzbFwqu) | 6:39 |
+| 59 | [O Nome De Jesus](https://open.spotify.com/track/1Nh1b72PjsmA6HNyOIQzhe) | [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [O Nome De Jesus](https://open.spotify.com/album/12FFt5SxPV8GXDvhGFOled) | 3:59 |
 | 60 | [Vem Me Consumir \- Acústico](https://open.spotify.com/track/6DSgDbw6imY1A1g0RnQ4wg) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh) | [YESHUA \(Ao Vivo\)](https://open.spotify.com/album/5tnaxda44kE1nD11u9sJh8) | 4:38 |
 | 61 | [Céu na Terra](https://open.spotify.com/track/6HAO8Q2k218ts5zpw6qCp7) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 5:07 |
 | 62 | [Deus Emanuel \- Ao Vivo](https://open.spotify.com/track/3zGs1XkgJi8hGyghm4Xrlf) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Deus Emanuel \(Ao Vivo\)](https://open.spotify.com/album/1H23z2CJY83kUWzEGpG59r) | 5:12 |
@@ -101,5 +101,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 91 | [Esperança \(feat\. Davidson Silva\)](https://open.spotify.com/track/1CiCxfOQ10xtiQIaTBDCeQ) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5), [Davidson Silva](https://open.spotify.com/artist/0OdUgZgZEJmXDCkHYqh05z) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 6:29 |
 | 92 | [Yahweh \- Ao Vivo](https://open.spotify.com/track/02HlnHZ1sYv5W52Tyc5OI2) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Daiana Celano](https://open.spotify.com/artist/0A7O8vWr8zmjwcZrmswa9o) | [Yahweh \(Ao Vivo\)](https://open.spotify.com/album/6TL5BxQ3bttcye1lmPtTjc) | 6:09 |
 | 93 | [Saudade](https://open.spotify.com/track/4Gu2dzEAkpM9Yz8OqVT0eQ) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/02g50GmJy1bCMrMTE9V9Rb) | 3:52 |
+| 94 | [O Grande Eu Sou](https://open.spotify.com/track/2IzQ2AStmrCIAaFehDIetF) | [Luiza Gomes](https://open.spotify.com/artist/0NbsghSxR8ckzFpJoZVSGB) | [O Grande Eu Sou](https://open.spotify.com/album/6POcry86OqWkWGwOTVmhHr) | 4:26 |
 
-Snapshot ID: `Ab079gAAAAA84HZhDH713979ptFlR5x/`
+Snapshot ID: `Ab1BvgAAAACywQKrnLCSc0Mf904tvc5G`

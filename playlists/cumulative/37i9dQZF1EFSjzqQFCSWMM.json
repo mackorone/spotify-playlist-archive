@@ -941,6 +941,54 @@
     },
     {
       "album": {
+        "name": "Honestly",
+        "url": "https://open.spotify.com/album/7Bw7ts6BuO8Yz9IrRWfaTI"
+      },
+      "artists": [
+        {
+          "name": "Lindasson",
+          "url": "https://open.spotify.com/artist/6DXbnRlv1UgusrKOxc39j7"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120685,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/4UlcyqEAKetKwxTq4EXvwp"
+    },
+    {
+      "album": {
+        "name": "i like it (feat. Yo-Sea, LEX & IO)",
+        "url": "https://open.spotify.com/album/5NATm6ps7E8oOSmroG4eFv"
+      },
+      "artists": [
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        },
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+        },
+        {
+          "name": "IO",
+          "url": "https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184290,
+      "name": "i like it (feat. Yo-Sea, LEX & IO)",
+      "url": "https://open.spotify.com/track/09aO4VPeWw46qecXpHXEV5"
+    },
+    {
+      "album": {
         "name": "Chapter 03: Mr. Independent",
         "url": "https://open.spotify.com/album/6ONtu6CXex6rakxf5icamp"
       },

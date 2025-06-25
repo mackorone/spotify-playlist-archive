@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 738,997 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 739,131 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 59 | [Bario](https://open.spotify.com/track/3ImW0NV13wLhQRubxfAcET) | [El Khatib](https://open.spotify.com/artist/4JPMPLzlLruCet2AyqfB9y) | [Bario](https://open.spotify.com/album/0VdiyqmzArPlic5pjGE3Ts) | 2:38 |
 | 60 | [Parara \(Out Of My Mind\)](https://open.spotify.com/track/3bcp0Y8uvKiidRwXeEZcNi) | [Daniel Etienne](https://open.spotify.com/artist/0HS4eQaqJ9tjYwXUPF7SsS) | [Parara \(Out Of My Mind\)](https://open.spotify.com/album/1Juw9Zx51Zkr5VuBMRKAua) | 3:30 |
 
-Snapshot ID: `aFSIlwAAAAC6rFPBRbpD5yQ1QMi1HK+2`
+Snapshot ID: `aFpt0QAAAAAbfej8abkuCr2x89WYYLRB`

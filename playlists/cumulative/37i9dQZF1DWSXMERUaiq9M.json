@@ -493,6 +493,28 @@
     },
     {
       "album": {
+        "name": "Alte Keks",
+        "url": "https://open.spotify.com/album/6YrSgCGaLLFG5yyJIVwr4C"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Mo-Do",
+          "url": "https://open.spotify.com/artist/3Y42QTbwNJeqEVmrMknG0f"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178964,
+      "name": "Alte Keks",
+      "url": "https://open.spotify.com/track/58RBR8PTEQBHyUaiAz5fGH"
+    },
+    {
+      "album": {
         "name": "Anybody Out There",
         "url": "https://open.spotify.com/album/5SRLMR7GftfOdciVf9DjKM"
       },
@@ -7344,7 +7366,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-25",
       "duration_ms": 119225,
       "name": "Rave Call (HELLO B!TCH)",
       "url": "https://open.spotify.com/track/4F2zrADYSpWcMBhNcDXRl3"

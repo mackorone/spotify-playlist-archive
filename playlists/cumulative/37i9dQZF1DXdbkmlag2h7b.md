@@ -4,11 +4,12 @@
 
 > Drift away with enthralling instrumentals.
 
-282 songs - 14 hr 38 min
+284 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [432hz Rays of Life](https://open.spotify.com/track/2cGbys5Hw56TAWWIHg5Ynk) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [432hz Healing Sounds from the Middle East](https://open.spotify.com/album/7b9a4k1YkKNFFreXM6Z6Jn) | 4:18 | 2021-12-09 | 2022-07-29 |
+| [6 Figures](https://open.spotify.com/track/3iZwmqUWy35ytJI9mSNWG9) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [6 Figures](https://open.spotify.com/album/35ARyGdTF2FCOV6dsjyRYW) | 3:05 | 2025-06-03 |  |
 | [A brand new day](https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [A brand new day](https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6) | 2:55 | 2022-05-26 |  |
 | [A Clear Dream](https://open.spotify.com/track/5kqOBRvLgMLNTtwKDLlw8u) | [Osman Almasi](https://open.spotify.com/artist/3XcHOrPFdXk3YTCvqspoSm) | [A Clear Dream](https://open.spotify.com/album/5XQErTCMUrJxgiyIbg9INH) | 2:59 | 2024-07-12 | 2025-03-06 |
 | [A Higher Presence](https://open.spotify.com/track/5ZQ2hn58jULkkRLCbEH0ZY) | [Drift Far Away](https://open.spotify.com/artist/05QqQCiZ0kiF1jRCm6YRT2) | [Open Sky](https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD) | 2:15 | 2021-12-09 | 2022-07-29 |
@@ -37,13 +38,14 @@
 | [Ascending Journy](https://open.spotify.com/track/0Dudid2JOAtq9Nt0Dg0OfT) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF) | [Ascending Journey](https://open.spotify.com/album/0MGjvTelcOSXHZ7RhIQzWW) | 3:22 | 2022-07-06 | 2024-02-07 |
 | [Ashes](https://open.spotify.com/track/4SSEGcMR6QGz6U0vRQ8Lsk) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Ashes](https://open.spotify.com/album/7vJco1Uvoefx2kbHsY8yHb) | 2:23 | 2025-03-05 |  |
 | [Aspire](https://open.spotify.com/track/4QOXTDBIYl5Kzblrv4LrRv) | [Karim Diaz](https://open.spotify.com/artist/6PYmLrxgwgHBjWexkXGmgK) | [Aspire](https://open.spotify.com/album/7mfLZZbZe6hH81ul9NNNIQ) | 2:30 | 2025-06-03 |  |
+| [At Last, The Sun](https://open.spotify.com/track/4Zw5XvWWG0RcMZrCexbgTR) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [At Last, The Sun](https://open.spotify.com/album/7e3Z92QeOzqJoPJzkoRxM6) | 3:37 | 2025-06-03 |  |
 | [Atmosphere](https://open.spotify.com/track/70qrjTSITI223cRd3vplUI) | [Ventura Lumi](https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4) | [Atmosphere](https://open.spotify.com/album/3GYeeFdeoxLMMBe5kg8fby) | 2:32 | 2024-11-14 | 2025-01-29 |
 | [Aurora Line](https://open.spotify.com/track/1zuGL74HX3yHU0UNFoW1pX) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Aurora Line](https://open.spotify.com/album/4ZJXs5rAbVlDCbpECFFEq6) | 2:32 | 2024-04-29 | 2024-12-29 |
 | [Aurora Sky](https://open.spotify.com/track/3zRrJfbjE6HzOyC6IpUgnL) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Aurora Sky](https://open.spotify.com/album/76RszMekO2HnL64AQPF5vL) | 2:56 | 2025-01-14 |  |
 | [Awakening](https://open.spotify.com/track/5MVVGFVHWhjGpg2ZKPxWHh) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Awakening](https://open.spotify.com/album/6G9t6knI1NlkFAYsNzGYLH) | 3:11 | 2021-12-09 |  |
 | [Backwaters](https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Inch Of You](https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ) | 2:27 | 2021-12-09 | 2025-01-29 |
 | [Becker's](https://open.spotify.com/track/4HPiuEOyFCBZzp5mugj0o7) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Memory Canvas](https://open.spotify.com/album/5k803G97CKyWSiClt8UMnF) | 3:35 | 2022-11-22 | 2023-10-13 |
-| [Been Here Before](https://open.spotify.com/track/3QBLDkUTJ7brEiZbPBhf9K) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [Been Here Before](https://open.spotify.com/album/2kRu3wgWly78Ds4gJ5lXm9) | 3:29 | 2025-06-03 |  |
+| [Been Here Before](https://open.spotify.com/track/3QBLDkUTJ7brEiZbPBhf9K) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [Been Here Before](https://open.spotify.com/album/2kRu3wgWly78Ds4gJ5lXm9) | 3:29 | 2025-06-03 | 2025-06-25 |
 | [Behind Your Eyes](https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Behind Your Eyes](https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh) | 3:17 | 2021-12-09 | 2025-06-15 |
 | [Beyond](https://open.spotify.com/track/0tfMURtsB63Q3F6CVwAXyn) | [Koen Parker](https://open.spotify.com/artist/53uV0zzGfjaht3NaIiepwB) | [Beyond](https://open.spotify.com/album/57bF9UXUsV3Fczqi4vleLJ) | 2:30 | 2024-03-07 | 2025-03-10 |
 | [Biochronology](https://open.spotify.com/track/2pnRMiWB04QS4737ZQrpY6) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Biochronology](https://open.spotify.com/album/1RkzLanW9bqfB3RIHgB1Gl) | 3:08 | 2025-03-05 |  |
@@ -60,7 +62,7 @@
 | [Celestial](https://open.spotify.com/track/1FPjiDSqB5qYzLy77eQqMU) | [Lake Nebula](https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU) | [Celestial](https://open.spotify.com/album/42vrYOv2bbFPQp9pku4loa) | 2:51 | 2025-04-01 |  |
 | [Chapters](https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB) | [Zen Wuan](https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY) | [Yoga Meditation](https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo) | 2:43 | 2021-12-09 | 2025-01-15 |
 | [Circles](https://open.spotify.com/track/4fAEpM1T03i85vmAYtk6mM) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Circles](https://open.spotify.com/album/14Bw4U2d0aDlOS1pw4B2lR) | 1:20 | 2025-01-28 | 2025-03-06 |
-| [Clear\-Headed](https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu) | [Zonyoh](https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx) | [Theta Sleep](https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ) | 2:46 | 2023-03-14 |  |
+| [Clear\-Headed](https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu) | [Zonyoh](https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx) | [Theta Sleep](https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ) | 2:46 | 2023-03-14 | 2025-06-25 |
 | [Closer](https://open.spotify.com/track/3A2qFGe7UPTd7G6KbNZjCw) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Closer](https://open.spotify.com/album/0xFhKcMfVpMaKd9OK8GNq5) | 5:11 | 2021-12-09 | 2022-07-29 |
 | [Closer \- Stripped](https://open.spotify.com/track/59ear5ueSaAwD24en6HlIP) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Closer](https://open.spotify.com/album/0xFhKcMfVpMaKd9OK8GNq5) | 5:03 | 2021-12-09 | 2022-05-20 |
 | [Conifer](https://open.spotify.com/track/6gVrAqhSIPSh9iVRa6lgPH) | [Permaculti](https://open.spotify.com/artist/0uHSkfvCjMNDIW6DKaixo4) | [Conifer](https://open.spotify.com/album/2DFrfDDsktqqW94ZgPFEtS) | 3:22 | 2021-12-09 | 2023-10-11 |

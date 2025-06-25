@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 
 > Groove to music from your Netflix Kids favorites! Cover: Spellbound
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,166 likes - 60 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,208 likes - 60 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 | 55 | [Hello World \- from "Back to the Outback" soundtrack](https://open.spotify.com/track/3O4FgcbCzg3Wm7Pg0ezMzM) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [Hello World \(from "Back to the Outback" soundtrack\)](https://open.spotify.com/album/7obvzZVywrczcOAnSaOS91) | 2:36 |
 | 56 | [You Belong \(from Spirit Untamed\)](https://open.spotify.com/track/2xkqOhP6nPUdYqZpiA9wO9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Spirit Untamed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0yvRvgLR5RJe3i8R7Cfve0) | 3:16 |
 | 57 | [My Frankenstein \(from the Netflix Series "Dead End: Paranormal Park"\)](https://open.spotify.com/track/2iy3ZDCVJW2JAF2Jg69uk7) | [Kody Kavitha](https://open.spotify.com/artist/2NuXQfDlfJvqowQuCninFj) | [My Frankenstein \(from the Netflix Series "Dead End: Paranormal Park"\)](https://open.spotify.com/album/45JlKj9dEb3cHiEnrlk6XQ) | 2:36 |
-| 58 | [Head Shoulders Knees And Toes](https://open.spotify.com/track/6xfOJl9l0Gc5WxjmBAvQsA) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Essentials](https://open.spotify.com/album/6dj7EyztDD42IJqsxZ1XMz) | 2:07 |
+| 58 | [Head, Shoulders, Knees And Toes \- Classic Version](https://open.spotify.com/track/6xfOJl9l0Gc5WxjmBAvQsA) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Essentials](https://open.spotify.com/album/6dj7EyztDD42IJqsxZ1XMz) | 2:07 |
 | 59 | [Wheels on the Bus](https://open.spotify.com/track/6YQ7aPJhk0MGpwoKfFAEbS) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 1](https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs) | 3:27 |
 | 60 | [Chicken Bop](https://open.spotify.com/track/2QOMKKlrxxJIiQBilxov0B) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh) | 1:03 |
 

@@ -2,9 +2,9 @@
 
 ### [Hot Hits Deutschland](https://open.spotify.com/playlist/37i9dQZF1DX4jP4eebSWR9)
 
-> 50 Hits in einer Playlist! Cover: YUNG SAINT PAUL
+> 50 Hits in einer Playlist! Cover: Aymen, Amo
 
-218 songs - 10 hr 24 min
+220 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-03-25 | 2025-04-09 |
 | [Lilien](https://open.spotify.com/track/3ovTEUMYEoiT8ikEMVXBmS) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [In Liebe](https://open.spotify.com/album/3cB6tCOD8fqXuYwbpcrcdV) | 2:40 | 2024-09-10 | 2025-02-05 |
 | [Location](https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Location](https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1) | 2:28 | 2025-05-13 |  |
-| [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-04-01 |  |
+| [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-04-01 | 2025-06-25 |
 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2024-11-26 | 2024-12-18 |
 | [LV](https://open.spotify.com/track/1d4VELKuRjmSWWXSssqLjL) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [LV / C ME NOW](https://open.spotify.com/album/5uTbmXAlq0U4ccP9vesebZ) | 2:20 | 2025-02-11 | 2025-02-26 |
 | [Ma Baby](https://open.spotify.com/track/4495xO2HkmqoYIxQO2FvAH) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Ma Baby](https://open.spotify.com/album/4iflwnxuZ3RUUsnR2q0XzA) | 2:18 | 2024-11-12 | 2025-01-22 |
@@ -152,6 +152,7 @@
 | [Out Of The Dark](https://open.spotify.com/track/5tJVkABJRZkTq7Dqjv6xiz) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Out Of The Dark](https://open.spotify.com/album/15DqWPxOLxClMpeKXhDGSP) | 2:47 | 2024-09-10 | 2025-01-17 |
 | [PALERMO](https://open.spotify.com/track/1AzhkL1zTo5NJ1oBOp0Hhe) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [PALERMO](https://open.spotify.com/album/3pVxSNFr5i2QyEdS8QvHOi) | 2:17 | 2025-06-03 |  |
 | [Panama](https://open.spotify.com/track/3qcreqi8RaGqahtJSQDxNI) | [GReeeN](https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd) | [Glückskind](https://open.spotify.com/album/2J3En8aAFnHAT3rgsobCoI) | 2:37 | 2024-09-10 | 2025-01-29 |
+| [PARFUM](https://open.spotify.com/track/7f4L1SHhVir0UxPC2sKidp) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [PARFUM](https://open.spotify.com/album/6IJCERv7XJRidC0wCqPmBq) | 2:40 | 2025-06-24 |  |
 | [Pazifik](https://open.spotify.com/track/3dDaZtrQzWW9IPJz4Az2oY) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Pazifik](https://open.spotify.com/album/0gEde8rFCDJYdovwdVRKtq) | 3:01 | 2024-10-01 | 2024-11-13 |
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2025-02-11 | 2025-03-05 |
 | [PLAYBOYBUNNIES](https://open.spotify.com/track/77p59nG1oU5pzd20rPxBwC) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [PLAYBOYBUNNIES](https://open.spotify.com/album/4lDrSQvca6n6iTHqY60Px3) | 2:27 | 2024-10-08 | 2024-11-13 |
@@ -167,7 +168,7 @@
 | [S&S](https://open.spotify.com/track/1GgETB3Ixe8suRgOG5BmFT) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE) | [S&S](https://open.spotify.com/album/49jrlmAqaz0lHnsfgz2fcg) | 2:36 | 2024-12-04 | 2024-12-31 |
 | [SABÍA QUE NO](https://open.spotify.com/track/61lNxSCj38lvmZjJZuhXSt) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [SABÍA QUE NO](https://open.spotify.com/album/4WszholwoxRZHWYkRgsXKs) | 3:02 | 2025-01-14 | 2025-05-21 |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-10-01 | 2025-06-11 |
-| [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 | 2025-06-10 |  |
+| [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 | 2025-06-10 | 2025-06-25 |
 | [Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Die Sterne](https://open.spotify.com/album/0kNVaaf3tP7xq74JG2iHo2) | 2:51 | 2025-02-04 | 2025-02-26 |
 | [Schau mal herein](https://open.spotify.com/track/0f6pPvxwkvBFaIpfhAQHgt) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W), [Florian Silbereisen](https://open.spotify.com/artist/4zgxsfsKRmAn6Wj2HXRYcq) | [Schau mal herein](https://open.spotify.com/album/69m1H2ksabmBn4oCQzYut7) | 3:03 | 2025-02-11 | 2025-03-19 |
 | [Schief in jedem Chor](https://open.spotify.com/track/4FSWg1YKFu0XN3oli8RisN) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Schief in jedem Chor](https://open.spotify.com/album/0YFjjHLZMzsnvRak9BNpDI) | 3:06 | 2025-06-10 |  |
@@ -219,6 +220,7 @@
 | [WENN DU DUMM BiST](https://open.spotify.com/track/6IFqLvemScAOurr8RxZ50B) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [WENN DU DUMM BiST](https://open.spotify.com/album/2vh0CBECdbufukqBXpT9fP) | 2:43 | 2025-01-28 | 2025-03-05 |
 | [Wer liebt dich jetzt ?](https://open.spotify.com/track/6CRKyj9tYGcZHt5lxuc1hT) | [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Wer liebt dich jetzt ?](https://open.spotify.com/album/1m7MCqOuh9Xf9SCrmRIXPp) | 2:43 | 2025-05-01 | 2025-05-28 |
 | [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-04-29 | 2025-05-28 |
+| [WHO'S THAT](https://open.spotify.com/track/4H0ly29pj5g6vMKum5kkhu) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [WHO'S THAT](https://open.spotify.com/album/5uI4pkcf0BN2KwKbFxMcXL) | 2:20 | 2025-06-24 |  |
 | [Wie?](https://open.spotify.com/track/36w8f4Cl7JqTbFDamAdq8Q) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Wie?](https://open.spotify.com/album/3WjhvJaQYvDdud4lPBtrlH) | 2:53 | 2025-02-20 |  |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-11-05 | 2024-12-05 |
 | [Wunder](https://open.spotify.com/track/16f4ZN6XOfrIO8fJkm28HM) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1), [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Wunder](https://open.spotify.com/album/5O4Ps6WmC2nFKpUP5TIIMa) | 2:56 | 2024-09-10 | 2025-02-21 |

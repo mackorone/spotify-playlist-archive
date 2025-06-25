@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaKgOqDv3HpW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaKgOqDv3HpW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaKgOqDv3HpW)
 
-### [Meditação e Relaxamento](https://open.spotify.com/playlist/37i9dQZF1DXaKgOqDv3HpW)
+### [Meditação Profunda](https://open.spotify.com/playlist/37i9dQZF1DXaKgOqDv3HpW)
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
@@ -209,7 +209,7 @@
 | [Mellowing](https://open.spotify.com/track/4bmEAG2pyu2h70Wu7ZamWn) | [Robin Laureli](https://open.spotify.com/artist/30nCX93T9DmENsEgm1tetr) | [Mellowing](https://open.spotify.com/album/5MeWH6c1ydvsTzSF1m63IM) | 2:52 | 2022-02-18 | 2025-06-13 |
 | [Mindfulness](https://open.spotify.com/track/0flCZDZoSDZeKLvIDqYf9E) | [Iridaceae Fields](https://open.spotify.com/artist/6pmTFeAL5pQmrE3jZ3HMW1) | [Mindfulness](https://open.spotify.com/album/327NuLOFnlZTdMKdScvtiI) | 2:55 | 2023-05-19 | 2025-01-08 |
 | [Mindfulness](https://open.spotify.com/track/3y2vuPzdZrOVlWaZgMqjfT) | [Zen Rest](https://open.spotify.com/artist/44J133ErzlofUDbs26uCo4) | [Mindfulness](https://open.spotify.com/album/68aa1oOZu1aUOj4EGWj9W9) | 3:25 | 2024-06-10 |  |
-| [Mirach Dreams](https://open.spotify.com/track/5umpsNomhsOB2T9a0b2OCP) | [Endless Space](https://open.spotify.com/artist/7HHVt02XZTOf0FQ6YhZtG5) | [Mirach Dreams](https://open.spotify.com/album/6FaeqpfJfrut5YAf3vZImm) | 3:10 | 2025-02-14 |  |
+| [Mirach Dreams](https://open.spotify.com/track/5umpsNomhsOB2T9a0b2OCP) | [Endless Space](https://open.spotify.com/artist/4SnAG3DMYmxqUwelTO2Y5A) | [Mirach Dreams](https://open.spotify.com/album/6FaeqpfJfrut5YAf3vZImm) | 3:10 | 2025-02-14 |  |
 | [Miraculous](https://open.spotify.com/track/39klOrreaNPjsYeh1zTFjh) | [Muh Re](https://open.spotify.com/artist/4FimVNSfsYDIj9JdNq1gXe) | [Miraculous](https://open.spotify.com/album/5uiAQcotkaF94TIP8cIlR1) | 3:27 | 2022-02-18 | 2025-06-24 |
 | [Mist](https://open.spotify.com/track/7oUxWZteexoZDiFXxnPfrm) | [Melanitta Perspicillata](https://open.spotify.com/artist/3wFCsw8ioaujwxcRwbEFi4) | [Mist](https://open.spotify.com/album/7C5hApE1qc1BDNFekhDbPt) | 3:05 | 2024-11-11 |  |
 | [Misty Mountains](https://open.spotify.com/track/3OYqmJugZrAI14hfjnZsRN) | [Tone Jacobs](https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT) | [Misty Mountains](https://open.spotify.com/album/5rY37ktpYD5yOJK6CdTCSZ) | 2:51 | 2024-07-12 | 2025-02-15 |

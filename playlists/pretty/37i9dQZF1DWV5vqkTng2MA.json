@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: 54 Ultra",
-  "num_followers": 425426,
+  "num_followers": 425500,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-06-13 04:00:49",
       "album": {
-        "name": "More Than a Love Song",
-        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "More Than a Love Song",
-      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
-    },
-    {
-      "added_at": "2025-06-13 04:00:49",
-      "album": {
         "name": "Burn It Down",
         "url": "https://open.spotify.com/album/0zklM830YV4KCwY2Oc3RxN"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 146520,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/3We5tUcKQ3CW6r8K9kvwxG"
+    },
+    {
+      "added_at": "2025-06-13 04:00:49",
+      "album": {
+        "name": "More Than a Love Song",
+        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "More Than a Love Song",
+      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
     },
     {
       "added_at": "2025-06-13 04:00:49",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-06-13 04:00:49",
       "album": {
-        "name": "Logan Ledger",
-        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
-      },
-      "artists": [
-        {
-          "name": "Logan Ledger",
-          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
-        }
-      ],
-      "duration_ms": 321400,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe"
-    },
-    {
-      "added_at": "2025-06-13 04:00:49",
-      "album": {
         "name": "Dance For Love",
         "url": "https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 169076,
       "name": "In and Out of Love",
       "url": "https://open.spotify.com/track/44WS4ss6Rh3tbTkVwttvpV"
+    },
+    {
+      "added_at": "2025-06-13 04:00:49",
+      "album": {
+        "name": "Logan Ledger",
+        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
+      },
+      "artists": [
+        {
+          "name": "Logan Ledger",
+          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
+        }
+      ],
+      "duration_ms": 321400,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe"
     },
     {
       "added_at": "2025-06-13 04:00:49",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-06-13 04:00:49",
       "album": {
-        "name": "Have a Seat",
-        "url": "https://open.spotify.com/album/0F6xm3rQ5sANn76KdVGQrJ"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rose",
-          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
-        }
-      ],
-      "duration_ms": 231506,
-      "name": "For Your Consideration",
-      "url": "https://open.spotify.com/track/4CbSiue28BxbRsUqdpYgTp"
-    },
-    {
-      "added_at": "2025-06-13 04:00:49",
-      "album": {
         "name": "Cosmos",
         "url": "https://open.spotify.com/album/41l2ycLtJCAM4yogQXjBfS"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 219880,
       "name": "Will I Ever Know",
       "url": "https://open.spotify.com/track/0mh8G6ZSyKa7v6TqMHgcKD"
+    },
+    {
+      "added_at": "2025-06-13 04:00:49",
+      "album": {
+        "name": "Have a Seat",
+        "url": "https://open.spotify.com/album/0F6xm3rQ5sANn76KdVGQrJ"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rose",
+          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+        }
+      ],
+      "duration_ms": 231506,
+      "name": "For Your Consideration",
+      "url": "https://open.spotify.com/track/4CbSiue28BxbRsUqdpYgTp"
     },
     {
       "added_at": "2025-06-13 04:00:49",
@@ -981,12 +981,28 @@
       "artists": [
         {
           "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+          "url": "https://open.spotify.com/artist/19KpAubI0RsVw5AZjvnDGk"
         }
       ],
       "duration_ms": 207613,
       "name": "Don't Please Yourself",
       "url": "https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt"
+    },
+    {
+      "added_at": "2025-06-13 04:00:49",
+      "album": {
+        "name": "Something In The Water",
+        "url": "https://open.spotify.com/album/4F6r0ZQAOMukT5HIhZJGkM"
+      },
+      "artists": [
+        {
+          "name": "Pokey LaFarge",
+          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
+        }
+      ],
+      "duration_ms": 203986,
+      "name": "Something In The Water",
+      "url": "https://open.spotify.com/track/5mSZyyhus6o620qkJbZ8yG"
     },
     {
       "added_at": "2025-06-13 04:00:49",
@@ -1007,22 +1023,6 @@
       "duration_ms": 215986,
       "name": "I'll Be Your Fool (feat. The McCrary Sisters)",
       "url": "https://open.spotify.com/track/43zk0iEDzsjOBOzJmEx6Nv"
-    },
-    {
-      "added_at": "2025-06-13 04:00:49",
-      "album": {
-        "name": "Something In The Water",
-        "url": "https://open.spotify.com/album/4F6r0ZQAOMukT5HIhZJGkM"
-      },
-      "artists": [
-        {
-          "name": "Pokey LaFarge",
-          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "Something In The Water",
-      "url": "https://open.spotify.com/track/5mSZyyhus6o620qkJbZ8yG"
     },
     {
       "added_at": "2025-06-13 04:00:49",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-06-13 04:00:49",
       "album": {
-        "name": "Grace Love and the True Loves",
-        "url": "https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK"
-      },
-      "artists": [
-        {
-          "name": "Grace Love and the True Loves",
-          "url": "https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "Nobody Sweeter",
-      "url": "https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4"
-    },
-    {
-      "added_at": "2025-06-13 04:00:49",
-      "album": {
         "name": "Sister Andre",
         "url": "https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 185583,
       "name": "Sister Andre",
       "url": "https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn"
+    },
+    {
+      "added_at": "2025-06-13 04:00:49",
+      "album": {
+        "name": "Grace Love and the True Loves",
+        "url": "https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK"
+      },
+      "artists": [
+        {
+          "name": "Grace Love and the True Loves",
+          "url": "https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Nobody Sweeter",
+      "url": "https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4"
     },
     {
       "added_at": "2025-06-13 04:00:49",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-06-13 04:00:49",
       "album": {
-        "name": "Live at Electric Lady",
-        "url": "https://open.spotify.com/album/1TVFtJvROCsgKFQZHuBR4M"
-      },
-      "artists": [
-        {
-          "name": "Natalie Bergman",
-          "url": "https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC"
-        }
-      ],
-      "duration_ms": 237613,
-      "name": "Shine Your Light on Me - Recorded at Electric Lady Studios",
-      "url": "https://open.spotify.com/track/3r53RSkovLRgkLFeAWUzHm"
-    },
-    {
-      "added_at": "2025-06-13 04:00:49",
-      "album": {
         "name": "How Do You Get By",
         "url": "https://open.spotify.com/album/698NNT71NehpuCIDRFXWic"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 250614,
       "name": "How Do You Get By",
       "url": "https://open.spotify.com/track/5sYG1duOFihEPSqvZEJzlQ"
+    },
+    {
+      "added_at": "2025-06-13 04:00:49",
+      "album": {
+        "name": "Live at Electric Lady",
+        "url": "https://open.spotify.com/album/1TVFtJvROCsgKFQZHuBR4M"
+      },
+      "artists": [
+        {
+          "name": "Natalie Bergman",
+          "url": "https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC"
+        }
+      ],
+      "duration_ms": 237613,
+      "name": "Shine Your Light on Me - Recorded at Electric Lady Studios",
+      "url": "https://open.spotify.com/track/3r53RSkovLRgkLFeAWUzHm"
     },
     {
       "added_at": "2025-06-13 04:00:49",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-06-13 04:00:49",
       "album": {
-        "name": "The Dark Of The Morning EP",
-        "url": "https://open.spotify.com/album/6SWg5ON0UMQCNzSHxulEgy"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "When We Were On Fire",
-      "url": "https://open.spotify.com/track/6YTWCuGPAYmgKc5jZJ97OJ"
-    },
-    {
-      "added_at": "2025-06-13 04:00:49",
-      "album": {
         "name": "Here You Come Again (with Max Abrams)",
         "url": "https://open.spotify.com/album/71a6eZrAINJtg9PXcp7cWb"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 210826,
       "name": "Here You Come Again (with Max Abrams)",
       "url": "https://open.spotify.com/track/2YLLW5WnSLXgYbChmaP2kJ"
+    },
+    {
+      "added_at": "2025-06-13 04:00:49",
+      "album": {
+        "name": "The Dark Of The Morning EP",
+        "url": "https://open.spotify.com/album/6SWg5ON0UMQCNzSHxulEgy"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "When We Were On Fire",
+      "url": "https://open.spotify.com/track/6YTWCuGPAYmgKc5jZJ97OJ"
     },
     {
       "added_at": "2025-06-13 04:00:49",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-06-13 04:00:49",
       "album": {
-        "name": "Who's Gonna Love You When I'm Gone",
-        "url": "https://open.spotify.com/album/3UmOFxs2sglqh0XuFez1iy"
-      },
-      "artists": [
-        {
-          "name": "Josh Farrow",
-          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
-        }
-      ],
-      "duration_ms": 219920,
-      "name": "Who's Gonna Love You When I'm Gone",
-      "url": "https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw"
-    },
-    {
-      "added_at": "2025-06-13 04:00:49",
-      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/58m6x0iCKILGzU5jNlN2C0"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 213733,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/4vmgP10TH0YYqJkzr8yLW0"
+    },
+    {
+      "added_at": "2025-06-13 04:00:49",
+      "album": {
+        "name": "Who's Gonna Love You When I'm Gone",
+        "url": "https://open.spotify.com/album/3UmOFxs2sglqh0XuFez1iy"
+      },
+      "artists": [
+        {
+          "name": "Josh Farrow",
+          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
+        }
+      ],
+      "duration_ms": 219920,
+      "name": "Who's Gonna Love You When I'm Gone",
+      "url": "https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw"
     },
     {
       "added_at": "2025-06-13 04:00:49",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2025-06-13 04:00:49",
       "album": {
-        "name": "Strange Time To Be Alive (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6jVGqA0LXYLY5AGwBXI2bh"
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/2GO7e9574zybPdj3bU3Kav"
       },
       "artists": [
         {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+          "name": "MICKY",
+          "url": "https://open.spotify.com/artist/52vHOZO0ka2MTl3zmpB6HH"
         }
       ],
-      "duration_ms": 207018,
-      "name": "The Trouble With Redemption",
-      "url": "https://open.spotify.com/track/3CDP6MxdBXEtBbFxS9SaYv"
+      "duration_ms": 209248,
+      "name": "Candid",
+      "url": "https://open.spotify.com/track/6cB1RVjwsO9v5quck4NZR3"
     }
   ],
   "unique_name": "the new retro",
