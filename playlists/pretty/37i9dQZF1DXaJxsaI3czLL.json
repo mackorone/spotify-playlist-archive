@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 135924,
+  "num_followers": 135931,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,30 @@
     {
       "added_at": "2025-06-11 13:10:10",
       "album": {
+        "name": "THE UNION",
+        "url": "https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "BIM",
+          "url": "https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG"
+        }
+      ],
+      "duration_ms": 286366,
+      "name": "Twinkle Stars",
+      "url": "https://open.spotify.com/track/56fKMuyvHEhjJctUljeO4D"
+    },
+    {
+      "added_at": "2025-06-11 13:10:10",
+      "album": {
         "name": "19\u2103",
         "url": "https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS"
       },
@@ -999,30 +1023,6 @@
       "duration_ms": 340573,
       "name": "Beautiful World",
       "url": "https://open.spotify.com/track/3x9fmCeM7CRiB3NwrVZxvM"
-    },
-    {
-      "added_at": "2025-06-11 13:10:10",
-      "album": {
-        "name": "THE UNION",
-        "url": "https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh"
-      },
-      "artists": [
-        {
-          "name": "Awich",
-          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
-        },
-        {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
-        },
-        {
-          "name": "BIM",
-          "url": "https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG"
-        }
-      ],
-      "duration_ms": 286366,
-      "name": "Twinkle Stars",
-      "url": "https://open.spotify.com/track/56fKMuyvHEhjJctUljeO4D"
     },
     {
       "added_at": "2025-06-11 13:10:10",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2025-06-11 13:10:10",
       "album": {
-        "name": "THUNDERBIRD",
-        "url": "https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg"
+        "name": "\u6c88\u9ed9\u306e\u604b\u4eba",
+        "url": "https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo"
       },
       "artists": [
         {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+          "name": "Fuyumi Abe",
+          "url": "https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej"
         }
       ],
-      "duration_ms": 238800,
-      "name": "\u3064\u3050\u307f",
-      "url": "https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ"
+      "duration_ms": 245746,
+      "name": "\u5e0c\u671b\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl"
     },
     {
       "added_at": "2025-06-11 13:10:10",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2025-06-11 13:10:10",
       "album": {
-        "name": "\u6c88\u9ed9\u306e\u604b\u4eba",
-        "url": "https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo"
+        "name": "THUNDERBIRD",
+        "url": "https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg"
       },
       "artists": [
         {
-          "name": "Fuyumi Abe",
-          "url": "https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej"
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
         }
       ],
-      "duration_ms": 245746,
-      "name": "\u5e0c\u671b\u306e\u3046\u305f",
-      "url": "https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl"
+      "duration_ms": 238800,
+      "name": "\u3064\u3050\u307f",
+      "url": "https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ"
     },
     {
       "added_at": "2025-06-11 13:10:10",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-06-11 13:10:10",
       "album": {
-        "name": "Letters",
-        "url": "https://open.spotify.com/album/4U7dNrhS6ITV4wb7A464nK"
-      },
-      "artists": [
-        {
-          "name": "Emerald",
-          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
-        }
-      ],
-      "duration_ms": 274426,
-      "name": "Letters",
-      "url": "https://open.spotify.com/track/1tekdibfeOlht2yBU11s4Y"
-    },
-    {
-      "added_at": "2025-06-11 13:10:10",
-      "album": {
         "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
         "url": "https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 280786,
       "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
       "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
+    },
+    {
+      "added_at": "2025-06-11 13:10:10",
+      "album": {
+        "name": "Letters",
+        "url": "https://open.spotify.com/album/4U7dNrhS6ITV4wb7A464nK"
+      },
+      "artists": [
+        {
+          "name": "Emerald",
+          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
+        }
+      ],
+      "duration_ms": 274426,
+      "name": "Letters",
+      "url": "https://open.spotify.com/track/1tekdibfeOlht2yBU11s4Y"
     },
     {
       "added_at": "2025-06-11 13:10:10",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-06-11 13:10:10",
       "album": {
-        "name": "BLUEHARLEM",
-        "url": "https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ"
-      },
-      "artists": [
-        {
-          "name": "Yogee New Waves",
-          "url": "https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh"
-        }
-      ],
-      "duration_ms": 327173,
-      "name": "Good Night Station",
-      "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"
-    },
-    {
-      "added_at": "2025-06-11 13:10:10",
-      "album": {
         "name": "\u306f\u3058\u307e\u308a\u306e\u591c",
         "url": "https://open.spotify.com/album/2a4fbJxLjZzfTlSloBMJxL"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 250110,
       "name": "\u671d\u65e5\u306e\u306c\u304f\u3082\u308a",
       "url": "https://open.spotify.com/track/0945XJg88Eu5VUu7Lchpig"
+    },
+    {
+      "added_at": "2025-06-11 13:10:10",
+      "album": {
+        "name": "BLUEHARLEM",
+        "url": "https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ"
+      },
+      "artists": [
+        {
+          "name": "Yogee New Waves",
+          "url": "https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh"
+        }
+      ],
+      "duration_ms": 327173,
+      "name": "Good Night Station",
+      "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"
     },
     {
       "added_at": "2025-06-11 13:10:10",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2025-06-11 13:10:10",
       "album": {
+        "name": "\u79cb \u305d\u3070\u306b\u3044\u308b\u3088",
+        "url": "https://open.spotify.com/album/3VWtvGEGzET3ztfQSKTkUc"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "duration_ms": 359693,
+      "name": "\u304a\u3084\u3059\u307f\u306a\u3055\u3044",
+      "url": "https://open.spotify.com/track/3fGUorfiin7I5V8YvTaoFK"
+    },
+    {
+      "added_at": "2025-06-11 13:10:10",
+      "album": {
         "name": "\u3070\u304b\u306e\u3046\u305f",
         "url": "https://open.spotify.com/album/0Q8mx1yHMWGG69vXrpiDrX"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 263720,
       "name": "\u307b\u3057\u307c\u3057\u306e\u306f\u3089",
       "url": "https://open.spotify.com/track/3GCetWwiWvkIl8sn2QYgcY"
-    },
-    {
-      "added_at": "2025-06-11 13:10:10",
-      "album": {
-        "name": "\u79cb \u305d\u3070\u306b\u3044\u308b\u3088",
-        "url": "https://open.spotify.com/album/3VWtvGEGzET3ztfQSKTkUc"
-      },
-      "artists": [
-        {
-          "name": "aiko",
-          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
-        }
-      ],
-      "duration_ms": 359693,
-      "name": "\u304a\u3084\u3059\u307f\u306a\u3055\u3044",
-      "url": "https://open.spotify.com/track/3fGUorfiin7I5V8YvTaoFK"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

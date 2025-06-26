@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana, featuring Dikshant and other exciting artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,491 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,507 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 23 | [Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aashiyan](https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq) | 2:54 |
 | 24 | [Kya Batayein](https://open.spotify.com/track/15WruziiMBbDObB8K0bnWp) | [Samyak Prasana](https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Kya Batayein](https://open.spotify.com/album/0yI5u4TLl0Gw3nfj1LQnZ7) | 3:00 |
 | 25 | [TERA PATA](https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [TERA PATA](https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z) | 2:46 |
-| 26 | [Bhool Bhulaiya](https://open.spotify.com/track/5En9zOsP5wURF47Fxzh66o) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Bhool Bhulaiya](https://open.spotify.com/album/5UdtpbfhTvDSz6x78eCSNy) | 3:32 |
-| 27 | [car keys](https://open.spotify.com/track/4N7LGbba3i05Ymt3lUN4IT) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Venserto](https://open.spotify.com/artist/1XP2X3oBsy9YpLvLF7puHE), [lil help](https://open.spotify.com/artist/3plLTzhqKbNQZAVxxnSDOs) | [car keys](https://open.spotify.com/album/2q6jSnuwOqjZAN27G56Z7c) | 2:37 |
+| 26 | [car keys](https://open.spotify.com/track/4N7LGbba3i05Ymt3lUN4IT) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Venserto](https://open.spotify.com/artist/1XP2X3oBsy9YpLvLF7puHE), [lil help](https://open.spotify.com/artist/3plLTzhqKbNQZAVxxnSDOs) | [car keys](https://open.spotify.com/album/2q6jSnuwOqjZAN27G56Z7c) | 2:37 |
+| 27 | [Bhool Bhulaiya](https://open.spotify.com/track/5En9zOsP5wURF47Fxzh66o) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Bhool Bhulaiya](https://open.spotify.com/album/5UdtpbfhTvDSz6x78eCSNy) | 3:32 |
 | 28 | [Dheere Dheere](https://open.spotify.com/track/2UqZKzgUmm7StpSPx050t4) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT), [rohh](https://open.spotify.com/artist/2ZRhDLITL8RK1IbK9dDGhf) | [Bemisaal](https://open.spotify.com/album/3AtuHjZeRoHty99elMAmn2) | 2:48 |
 | 29 | [Tera Yaar](https://open.spotify.com/track/3tkNHs9hFAnMmCxWsUOpN9) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Tera Yaar](https://open.spotify.com/album/4paEMiAQuvK0tgsXhXNFFr) | 3:45 |
 | 30 | [Peeche Mudke](https://open.spotify.com/track/1H35qSJKvmYlVDycuvBWVq) | [SidB](https://open.spotify.com/artist/1y6bxUL1fVTzt3YSVBf0FG), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Peeche Mudke](https://open.spotify.com/album/1Q5uXL243RxNPyfGVPHB8i) | 3:32 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 40 | [The Lovey Dovey Song](https://open.spotify.com/track/5nqZmbB3xB0RO0RooubM4n) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [The Lovey Dovey Song](https://open.spotify.com/album/30SZowhZ6LpoAl0UyTbWYX) | 2:50 |
 | 41 | [Aadhi Chai](https://open.spotify.com/track/10Mbwe81neb7Q3AATNwUBr) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Aadhi Chai](https://open.spotify.com/album/0u5P8rVA9QOeBtkQYyZ66b) | 3:37 |
 | 42 | [Ranjheya](https://open.spotify.com/track/3EyFLvf2phMoveVeyHjYtl) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [REHAT](https://open.spotify.com/artist/4Zg2ou2uzzlXFhudJt7qpo) | [Ranjheya](https://open.spotify.com/album/6GEYYn428QWQmyfFXApn1s) | 2:38 |
-| 43 | [Aahista](https://open.spotify.com/track/2zNh45mWOtcjqR7ngX5oTJ) | [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [Aahista](https://open.spotify.com/album/3veutYP2aHnBgmSbtI61t1) | 2:13 |
-| 44 | [Hum Dono](https://open.spotify.com/track/09wRRnGNVkBFBVvUdatj7i) | [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Hum Dono](https://open.spotify.com/album/6yMsDsBz0KHlcuusvN8blz) | 2:37 |
+| 43 | [Hum Dono](https://open.spotify.com/track/09wRRnGNVkBFBVvUdatj7i) | [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Hum Dono](https://open.spotify.com/album/6yMsDsBz0KHlcuusvN8blz) | 2:37 |
+| 44 | [Aahista](https://open.spotify.com/track/2zNh45mWOtcjqR7ngX5oTJ) | [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [Aahista](https://open.spotify.com/album/3veutYP2aHnBgmSbtI61t1) | 2:13 |
 | 45 | [Seelan Ki Khushboo](https://open.spotify.com/track/4JVPOE1vSL9qAl4L0rW9TG) | [Mansa Jimmy](https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu) | [Seelan Ki Khushboo](https://open.spotify.com/album/1kJ15kEGmmzgzlZc2MvY6f) | 3:32 |
 | 46 | [Piya Ji](https://open.spotify.com/track/020y6Y5I0VaZUqUIYcm8oF) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w), [Priyasi](https://open.spotify.com/artist/2DOqWohzAkzacGdn1CIpdp), [Anil Jeengar](https://open.spotify.com/artist/7xdJzHsvoouTNFqEVPOdew) | [Piya Ji](https://open.spotify.com/album/7AE8QLLjz2eRVwLwlF2pvO) | 2:48 |
 | 47 | [Tu Sab Vekheya](https://open.spotify.com/track/33wXzWYLd3kJWh4WVZyaIU) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Tu Sab Vekheya](https://open.spotify.com/album/35ldZRrH83VXMtjooYmXjk) | 3:19 |

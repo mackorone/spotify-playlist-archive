@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 69126,
+  "num_followers": 69136,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFiZAAAAAAAi9K1Kv1ZhVG8qbq4XHGMR",
+  "snapshot_id": "aFnqgAAAAACGUAZ4CgnorWmM/Q8ubdf7",
   "tracks": [
     {
       "added_at": null,
@@ -307,26 +307,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Grita",
-        "url": "https://open.spotify.com/album/2u7bagLM4VjgeZX7WJYrrX"
+        "name": "La Boca (Remix)",
+        "url": "https://open.spotify.com/album/5LiT3OZKgkgEeInFxUEObJ"
       },
       "artists": [
         {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        },
-        {
-          "name": "J Abdiel",
-          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
         }
       ],
-      "duration_ms": 232720,
-      "name": "Me Grita",
-      "url": "https://open.spotify.com/track/0Rn5qV6bpDflAhc16fpxkr"
+      "duration_ms": 188467,
+      "name": "La Boca - Remix",
+      "url": "https://open.spotify.com/track/2EEmzqzM70CybVspgM7YRT"
     },
     {
       "added_at": null,
@@ -351,26 +351,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Boca (Remix)",
-        "url": "https://open.spotify.com/album/5LiT3OZKgkgEeInFxUEObJ"
+        "name": "Me Grita",
+        "url": "https://open.spotify.com/album/2u7bagLM4VjgeZX7WJYrrX"
       },
       "artists": [
         {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "J Abdiel",
+          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
         }
       ],
-      "duration_ms": 188467,
-      "name": "La Boca - Remix",
-      "url": "https://open.spotify.com/track/2EEmzqzM70CybVspgM7YRT"
+      "duration_ms": 232720,
+      "name": "Me Grita",
+      "url": "https://open.spotify.com/track/0Rn5qV6bpDflAhc16fpxkr"
     },
     {
       "added_at": null,
@@ -699,6 +699,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "WLGS",
+        "url": "https://open.spotify.com/album/3qbKnuefZWSTgmQxlvDKVb"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Baby (with Lunay)",
+      "url": "https://open.spotify.com/track/6ugjN0o83xmdkU0wePmFfw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Condado",
         "url": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 232813,
       "name": "Condado",
       "url": "https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WLGS",
-        "url": "https://open.spotify.com/album/3qbKnuefZWSTgmQxlvDKVb"
-      },
-      "artists": [
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Baby (with Lunay)",
-      "url": "https://open.spotify.com/track/6ugjN0o83xmdkU0wePmFfw"
     },
     {
       "added_at": null,
@@ -923,6 +923,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Epapale",
+        "url": "https://open.spotify.com/album/4k6S5m540VlY0vEndzTq1u"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 120115,
+      "name": "Epapale",
+      "url": "https://open.spotify.com/track/6dtFt3R68lSQUUHLPjBTS2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bandida",
         "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 229955,
       "name": "Mi Favorita",
       "url": "https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Epapale",
-        "url": "https://open.spotify.com/album/4k6S5m540VlY0vEndzTq1u"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 120115,
-      "name": "Epapale",
-      "url": "https://open.spotify.com/track/6dtFt3R68lSQUUHLPjBTS2"
     },
     {
       "added_at": null,

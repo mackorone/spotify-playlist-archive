@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 
 > muZikiiTa RaRa 100pre sÄd t oDiiO bye 👾 Easykid en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,067 likes - 107 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,081 likes - 107 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

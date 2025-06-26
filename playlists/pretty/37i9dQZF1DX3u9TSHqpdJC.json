@@ -1,13 +1,77 @@
 {
-  "description": "The best new pop music from new, independent artists.  Cover: Jacklyn. Artwork by Paola Saliby",
-  "num_followers": 228110,
+  "description": "The best new pop music from new, independent artists.  Cover: VINI. Artwork by Paola Saliby",
+  "num_followers": 228177,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFI50AAAAABi0/4J5dKOBLQ9OueylB0g",
+  "snapshot_id": "aFt87wAAAABkkdiEjKCLO8kMZekxVFpo",
   "tracks": [
+    {
+      "added_at": "2025-06-25 04:00:08",
+      "album": {
+        "name": "messy love",
+        "url": "https://open.spotify.com/album/4104zR85gbdiLuMwAW4mmr"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/1QzHMnO2CsyqS7EgZ5fRoW"
+        }
+      ],
+      "duration_ms": 202545,
+      "name": "messy love",
+      "url": "https://open.spotify.com/track/5QZUBYPYjmAqk7AWbHpRhq"
+    },
+    {
+      "added_at": "2025-06-25 04:00:08",
+      "album": {
+        "name": "Glide",
+        "url": "https://open.spotify.com/album/1exJ4zN191WcU3Ok2OeOOT"
+      },
+      "artists": [
+        {
+          "name": "ALZZY",
+          "url": "https://open.spotify.com/artist/7AO0PhHfvJgyp71cMqusc7"
+        }
+      ],
+      "duration_ms": 158250,
+      "name": "Glide",
+      "url": "https://open.spotify.com/track/7e2polOF7Yjrs3eGiexCVW"
+    },
+    {
+      "added_at": "2025-06-25 04:00:08",
+      "album": {
+        "name": "think of you / 2am",
+        "url": "https://open.spotify.com/album/60Rxi2DpHZsdupaoh5RZKb"
+      },
+      "artists": [
+        {
+          "name": "NEW YORK",
+          "url": "https://open.spotify.com/artist/6SLzOcVFLuSRuJ0DNOpz0Z"
+        }
+      ],
+      "duration_ms": 247055,
+      "name": "think of you",
+      "url": "https://open.spotify.com/track/7jgd0zFYBzmtg9gTVc7W1x"
+    },
+    {
+      "added_at": "2025-06-25 04:00:08",
+      "album": {
+        "name": "WHEN A GIRL CRIES",
+        "url": "https://open.spotify.com/album/3y62OSh5mxYZXFrJ3SWujS"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "duration_ms": 198775,
+      "name": "WHEN A GIRL CRIES",
+      "url": "https://open.spotify.com/track/1BvoyAEN3HjaLmaMVa8lel"
+    },
     {
       "added_at": "2025-06-11 04:00:17",
       "album": {
@@ -23,6 +87,166 @@
       "duration_ms": 174315,
       "name": "Right Back",
       "url": "https://open.spotify.com/track/0LMzUyxzVuW4UwfVQXdfBY"
+    },
+    {
+      "added_at": "2025-06-25 04:35:25",
+      "album": {
+        "name": "happy 4 u",
+        "url": "https://open.spotify.com/album/4XM28g2GoNUXkYSV1rvMHe"
+      },
+      "artists": [
+        {
+          "name": "Dani Marchio",
+          "url": "https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT"
+        }
+      ],
+      "duration_ms": 196718,
+      "name": "happy 4 u",
+      "url": "https://open.spotify.com/track/2OwvgYtIVUT65olr13imQ1"
+    },
+    {
+      "added_at": "2025-06-25 04:00:08",
+      "album": {
+        "name": "Illegally Blonde",
+        "url": "https://open.spotify.com/album/0YAVRMBEnZDOIGIJ722sIm"
+      },
+      "artists": [
+        {
+          "name": "Disco Shrine",
+          "url": "https://open.spotify.com/artist/1IkijWWvTvWKuZ90kHwdHA"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Illegally Blonde",
+      "url": "https://open.spotify.com/track/3IETf0HzHAXxMqgzISVgfW"
+    },
+    {
+      "added_at": "2025-06-25 04:00:08",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/64cUjD0SLAcBAwGvzPNfDS"
+      },
+      "artists": [
+        {
+          "name": "Ola Poskrop",
+          "url": "https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy"
+        }
+      ],
+      "duration_ms": 181227,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/17oskAb302jfK8VU1pTFkA"
+    },
+    {
+      "added_at": "2025-06-25 04:00:08",
+      "album": {
+        "name": "Ice Cold",
+        "url": "https://open.spotify.com/album/56LDkwR6QPFUQIsjhBUNPy"
+      },
+      "artists": [
+        {
+          "name": "Crybabyamy",
+          "url": "https://open.spotify.com/artist/6dHqmYlpk4oGwRwSxGmc6e"
+        }
+      ],
+      "duration_ms": 169666,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/7n1kmYMdmhMPXxMNRfXfTy"
+    },
+    {
+      "added_at": "2025-06-25 04:00:08",
+      "album": {
+        "name": "Doomsday",
+        "url": "https://open.spotify.com/album/1K5kNi4wFnmw1VihVAbtmW"
+      },
+      "artists": [
+        {
+          "name": "Darcie Haven",
+          "url": "https://open.spotify.com/artist/4z5Ea2f21AVA18kbjWp0Ni"
+        }
+      ],
+      "duration_ms": 237273,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/6BGHWRkl23oGOgmqssf1WG"
+    },
+    {
+      "added_at": "2025-06-25 04:00:08",
+      "album": {
+        "name": "B.I.T.E Me",
+        "url": "https://open.spotify.com/album/6wTv43avTJpBQ7KwSAjew2"
+      },
+      "artists": [
+        {
+          "name": "POLLY",
+          "url": "https://open.spotify.com/artist/0wXM6da1sfZlrXOzIgwCwH"
+        }
+      ],
+      "duration_ms": 163875,
+      "name": "B.I.T.E Me",
+      "url": "https://open.spotify.com/track/7pk7muB7UCXr8s3pCKlngE"
+    },
+    {
+      "added_at": "2025-06-25 04:00:08",
+      "album": {
+        "name": "remember winter",
+        "url": "https://open.spotify.com/album/2gBzgzgg0mcgyDsA4p1VOd"
+      },
+      "artists": [
+        {
+          "name": "go4broke",
+          "url": "https://open.spotify.com/artist/0B7eexcdtWm3ckbSKAb25R"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "remember winter",
+      "url": "https://open.spotify.com/track/1OYcrys98raZ1rHyI6eNYo"
+    },
+    {
+      "added_at": "2025-06-25 04:00:08",
+      "album": {
+        "name": "cool, calm and collected",
+        "url": "https://open.spotify.com/album/5ajutQW6cInAa2twYWxN6q"
+      },
+      "artists": [
+        {
+          "name": "Monica Lalut",
+          "url": "https://open.spotify.com/artist/3eFwtxzPKmIoc6GLjrfyxT"
+        }
+      ],
+      "duration_ms": 192284,
+      "name": "cool, calm and collected",
+      "url": "https://open.spotify.com/track/4akBeMezHwcSH1xhxJAxrC"
+    },
+    {
+      "added_at": "2025-06-25 04:37:03",
+      "album": {
+        "name": "IDK her anymore",
+        "url": "https://open.spotify.com/album/1565ih3sfBehX6fvY0Mqoc"
+      },
+      "artists": [
+        {
+          "name": "gottsy",
+          "url": "https://open.spotify.com/artist/2P30CnCVzy8gHQeWqr9nMb"
+        }
+      ],
+      "duration_ms": 142375,
+      "name": "IDK her anymore",
+      "url": "https://open.spotify.com/track/05KEXFBghfRnC8yibxjfFA"
+    },
+    {
+      "added_at": "2025-06-25 04:00:08",
+      "album": {
+        "name": "Dancing In My Room",
+        "url": "https://open.spotify.com/album/24MRmqbx8V1Xe05FwuKOf2"
+      },
+      "artists": [
+        {
+          "name": "Belle Tatum",
+          "url": "https://open.spotify.com/artist/279LHcMAzS6XS2kkk9O5cV"
+        }
+      ],
+      "duration_ms": 196899,
+      "name": "Dancing In My Room",
+      "url": "https://open.spotify.com/track/3boa8aWd4E5MGYz12bLL7Y"
     },
     {
       "added_at": "2025-06-18 04:00:16",
@@ -939,22 +1163,6 @@
     {
       "added_at": "2025-05-21 04:00:26",
       "album": {
-        "name": "Trampoline",
-        "url": "https://open.spotify.com/album/3zydVUwHpv30kPKdJd4SfK"
-      },
-      "artists": [
-        {
-          "name": "Ruby Roberts",
-          "url": "https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD"
-        }
-      ],
-      "duration_ms": 274455,
-      "name": "Trampoline",
-      "url": "https://open.spotify.com/track/1xMOdQOD7bDhkRHG04FHDX"
-    },
-    {
-      "added_at": "2025-05-21 04:00:26",
-      "album": {
         "name": "Till the Sun Comes Up",
         "url": "https://open.spotify.com/album/1P4kytlTj9436utfvnQ9c9"
       },
@@ -967,22 +1175,6 @@
       "duration_ms": 223000,
       "name": "Till the Sun Comes Up",
       "url": "https://open.spotify.com/track/3PE4TOJQ5NlP21Xc1Ptqig"
-    },
-    {
-      "added_at": "2025-05-21 04:00:26",
-      "album": {
-        "name": "HOT",
-        "url": "https://open.spotify.com/album/0Nm6jUNMUkx9lNBtSfhr8Z"
-      },
-      "artists": [
-        {
-          "name": "Deja Vu",
-          "url": "https://open.spotify.com/artist/7xlTHJPp1iz42tYEn24Ce4"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "HOT",
-      "url": "https://open.spotify.com/track/7B3VxwSXoFuf423ky7PgIJ"
     },
     {
       "added_at": "2025-05-21 04:00:26",
@@ -1115,22 +1307,6 @@
     {
       "added_at": "2025-05-07 04:00:36",
       "album": {
-        "name": "u+me",
-        "url": "https://open.spotify.com/album/3mnASupEG1eVQyVQRF3EY4"
-      },
-      "artists": [
-        {
-          "name": "Disco Shrine",
-          "url": "https://open.spotify.com/artist/1IkijWWvTvWKuZ90kHwdHA"
-        }
-      ],
-      "duration_ms": 135465,
-      "name": "u+me",
-      "url": "https://open.spotify.com/track/4iGyFHws2ol6owstTPNe0x"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
         "name": "I'm Not Your Punchbag",
         "url": "https://open.spotify.com/album/1npzO7WsfJ3MHwFNic1RCV"
       },
@@ -1195,38 +1371,6 @@
     {
       "added_at": "2025-05-07 04:00:36",
       "album": {
-        "name": "harder to reach than god",
-        "url": "https://open.spotify.com/album/6M7FmoochZnpEhbwJ0ruaG"
-      },
-      "artists": [
-        {
-          "name": "Avalon",
-          "url": "https://open.spotify.com/artist/5qLjCUKw1qrmVyeVAqKOub"
-        }
-      ],
-      "duration_ms": 173939,
-      "name": "Harder To Reach Than God",
-      "url": "https://open.spotify.com/track/0qwXn6abuWsTT3lSqDkEaq"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "a green light",
-        "url": "https://open.spotify.com/album/0aFdRy0kEmY8rOKrU5pzbI"
-      },
-      "artists": [
-        {
-          "name": "yergurl",
-          "url": "https://open.spotify.com/artist/256Y9onrKClLcW4xSDtbwo"
-        }
-      ],
-      "duration_ms": 158843,
-      "name": "a green light",
-      "url": "https://open.spotify.com/track/2QlTtHM87EDM5E1H8RqiYQ"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
         "name": "Stubborn",
         "url": "https://open.spotify.com/album/3kauZetUUHb6umQ400nKe8"
       },
@@ -1255,118 +1399,6 @@
       "duration_ms": 164717,
       "name": "Next to You",
       "url": "https://open.spotify.com/track/1gqPIp3IpI2suAFp5ZN67J"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "Lost My Place",
-        "url": "https://open.spotify.com/album/1CUJ4gSu2A57CtATaglEVz"
-      },
-      "artists": [
-        {
-          "name": "KAKI",
-          "url": "https://open.spotify.com/artist/7fYJ4gU0iESJPUYdUIuk7G"
-        }
-      ],
-      "duration_ms": 201769,
-      "name": "Lost My Place",
-      "url": "https://open.spotify.com/track/0Bsy9PFpfFcvxe3kGd3NOm"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "Cute Aggression",
-        "url": "https://open.spotify.com/album/5Vt49ybgEjx7mdNdYkgFCC"
-      },
-      "artists": [
-        {
-          "name": "Gracie Moller",
-          "url": "https://open.spotify.com/artist/4ZjWH3iesGTCHe6WB2EMbs"
-        }
-      ],
-      "duration_ms": 138506,
-      "name": "Cute Aggression",
-      "url": "https://open.spotify.com/track/3oUn9PH9ZsnD8BiEKBJ2un"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "New York",
-        "url": "https://open.spotify.com/album/7bzdQyFdF4kjk6KgjD9R6W"
-      },
-      "artists": [
-        {
-          "name": "Crybabyamy",
-          "url": "https://open.spotify.com/artist/6dHqmYlpk4oGwRwSxGmc6e"
-        }
-      ],
-      "duration_ms": 166784,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/0hYdZ4x8b3bEbc9Bpn2pQh"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "He Wants Me",
-        "url": "https://open.spotify.com/album/1T2Rmm0ey67cVxLsg1oQHg"
-      },
-      "artists": [
-        {
-          "name": "Lois Sedgwick",
-          "url": "https://open.spotify.com/artist/62uQPDcUGnFbDHPYP5THhD"
-        }
-      ],
-      "duration_ms": 148663,
-      "name": "He Wants Me",
-      "url": "https://open.spotify.com/track/1UFxORofbm4OYWRDfZYCRB"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/44M9lOyoZhot1Ij0TKVPAK"
-      },
-      "artists": [
-        {
-          "name": "Libby",
-          "url": "https://open.spotify.com/artist/1RILUcAHfRWLligq9zTdF0"
-        }
-      ],
-      "duration_ms": 170849,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/0a8vnp5Q2UUXzoKvXZ4poN"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/4fKMzsz02ZwCXrfFN5dhuh"
-      },
-      "artists": [
-        {
-          "name": "Clara Lars",
-          "url": "https://open.spotify.com/artist/49JmAjGLpf6BkXCvvLC2kY"
-        }
-      ],
-      "duration_ms": 184961,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/2iIZuBf9fyp0chx3bm6bzz"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "Your Touch",
-        "url": "https://open.spotify.com/album/7dF4EFGQj0L72Si0jMNQwK"
-      },
-      "artists": [
-        {
-          "name": "Jordan Richard",
-          "url": "https://open.spotify.com/artist/4tsHHKIYe1DejnJF9a1xDZ"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Your Touch",
-      "url": "https://open.spotify.com/track/60ZhpnUMRj5VjSuhcjHjzY"
     },
     {
       "added_at": "2025-04-30 04:00:29",
@@ -1417,22 +1449,6 @@
       "url": "https://open.spotify.com/track/1zGONdLGdhquiPP5dOYDoO"
     },
     {
-      "added_at": "2025-04-02 12:38:39",
-      "album": {
-        "name": "Listen to this when you buy a house",
-        "url": "https://open.spotify.com/album/6BTJS3CE6lcSSIT0md7Byv"
-      },
-      "artists": [
-        {
-          "name": "Josie Oliver",
-          "url": "https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan"
-        }
-      ],
-      "duration_ms": 219857,
-      "name": "Do you really have to go?",
-      "url": "https://open.spotify.com/track/2Aq88M9sEPxN8VaFCx88Ii"
-    },
-    {
       "added_at": "2025-03-26 04:00:08",
       "album": {
         "name": "neophyte",
@@ -1463,22 +1479,6 @@
       "duration_ms": 200250,
       "name": "going under",
       "url": "https://open.spotify.com/track/3ZHya5rTwM1t3oG7zyPjtn"
-    },
-    {
-      "added_at": "2025-03-26 04:00:08",
-      "album": {
-        "name": "U Want Me Anyway",
-        "url": "https://open.spotify.com/album/1voy9mRdneNwKnaBgIjLh4"
-      },
-      "artists": [
-        {
-          "name": "Dani Marchio",
-          "url": "https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT"
-        }
-      ],
-      "duration_ms": 200323,
-      "name": "U Want Me Anyway",
-      "url": "https://open.spotify.com/track/2NZpYLv014p6rfl2CYxDX6"
     },
     {
       "added_at": "2025-03-19 04:00:08",

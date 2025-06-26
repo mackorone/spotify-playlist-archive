@@ -1,6 +1,6 @@
 {
   "description": "\uc13c\uce58\ud55c \uac10\uc815\uc744 \ub178\ub798\ud558\ub294 \uac10\uc131\uc801\uc778 \uace1\ub4e4\uacfc \ud568\uaed8 \ubb3c \uba4d\uc5d0 \uc7a0\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 5580,
+  "num_followers": 5625,
   "original_name": "\ubb3c \uba4d",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-06-19 07:55:43",
       "album": {
-        "name": "Dead To Me",
-        "url": "https://open.spotify.com/album/3wwd2L3ATRhjkbmnGUhsJG"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/5BxC04q61icn0SHinQCBeR"
-    },
-    {
-      "added_at": "2025-06-19 07:55:43",
-      "album": {
         "name": "dosii",
         "url": "https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 231709,
       "name": "lovememore.",
       "url": "https://open.spotify.com/track/0P9XwjnnIPQFTwdqvu01Mf"
+    },
+    {
+      "added_at": "2025-06-19 07:55:43",
+      "album": {
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/3wwd2L3ATRhjkbmnGUhsJG"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/5BxC04q61icn0SHinQCBeR"
     },
     {
       "added_at": "2025-06-19 07:55:43",

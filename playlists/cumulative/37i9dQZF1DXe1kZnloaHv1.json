@@ -413,6 +413,24 @@
     },
     {
       "album": {
+        "name": "Purple Heart",
+        "url": "https://open.spotify.com/album/50zXa5ZUy6undYjdVKUSSS"
+      },
+      "artists": [
+        {
+          "name": "JAURIM",
+          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242200,
+      "name": "Deviation",
+      "url": "https://open.spotify.com/track/6GmhZmhssEDCW9gSC6oDqz"
+    },
+    {
+      "album": {
         "name": "Do / Do or Don't",
         "url": "https://open.spotify.com/album/3se0GBdgs53DJXR7CJb9l6"
       },
@@ -500,6 +518,24 @@
       "duration_ms": 171866,
       "name": "Drive mE cRaZy",
       "url": "https://open.spotify.com/track/1dWCQTQeAHZQhAKUVsWOg6"
+    },
+    {
+      "album": {
+        "name": "everything is bothersome",
+        "url": "https://open.spotify.com/album/3DNC7ASLsa73bC1oCtwmQh"
+      },
+      "artists": [
+        {
+          "name": "0415",
+          "url": "https://open.spotify.com/artist/49EamolQqzPhub6zY9By4A"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220351,
+      "name": "everything is bothersome",
+      "url": "https://open.spotify.com/track/37M5iTQTitE9a9RE909yAJ"
     },
     {
       "album": {
@@ -996,6 +1032,28 @@
       "duration_ms": 199053,
       "name": "MAGIC",
       "url": "https://open.spotify.com/track/6ceAPjFnKNifeGlOTRTi1X"
+    },
+    {
+      "album": {
+        "name": "Melting Me (feat. jeebanoff)",
+        "url": "https://open.spotify.com/album/6bhiH3vAfNmoJquHpK9PWY"
+      },
+      "artists": [
+        {
+          "name": "GiiANA",
+          "url": "https://open.spotify.com/artist/2tlkwgkfFxWSmjFPv9czcN"
+        },
+        {
+          "name": "jeebanoff",
+          "url": "https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216565,
+      "name": "Melting me (feat. jeebanoff)",
+      "url": "https://open.spotify.com/track/4WCQkour1ibROVIjZMAHFy"
     },
     {
       "album": {

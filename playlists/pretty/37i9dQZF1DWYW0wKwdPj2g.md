@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Minister GUC
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,358 likes - 100 songs - 14 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,441 likes - 100 songs - 14 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 6 | [Nita Amini \- Live](https://open.spotify.com/track/0MmeFIEKNgYpw1cHWgBMJd) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Nita Amini \(Live\)](https://open.spotify.com/album/3yDmAg043NqgSAml9wAQs9) | 12:59 |
 | 7 | [Defe Defe](https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 6:46 |
 | 8 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
-| 9 | [The Reason \- Live](https://open.spotify.com/track/6lWEDYrm4CXpfMCHYQOu9n) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd), [The Remnant](https://open.spotify.com/artist/1hpPyofpQgZVXFftbcehka) | [The Reason](https://open.spotify.com/album/2VeoT5lhd5WAE2YYri6ZqL) | 11:18 |
+| 9 | [The Reason \- Live](https://open.spotify.com/track/6lWEDYrm4CXpfMCHYQOu9n) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd), [The Remnant](https://open.spotify.com/artist/1hpPyofpQgZVXFftbcehka) | [The Reason \(Live\)](https://open.spotify.com/album/2VeoT5lhd5WAE2YYri6ZqL) | 11:18 |
 | 10 | [O a Ntwanela](https://open.spotify.com/track/4EVC7OZPtsPJAnCy87bW2a) | [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG), [Mapula Phaho](https://open.spotify.com/artist/4YPCvpnbif4gubfTUCCK8K) | [Heart of Gratitude \(Live At The Pretoria State Theatre\)](https://open.spotify.com/album/4wGsUQ95NzDjG0s3wY4wRQ) | 9:33 |
 | 11 | [Majina Yote Jehovah](https://open.spotify.com/track/7L5JyeVQzmhpbjpZcoIDWn) | [Dedo Dieumerci](https://open.spotify.com/artist/4t8dpDtvEUucCvmEMLYUuR), [Naomi Mugiraneza](https://open.spotify.com/artist/4awEqX0MSvBqpwBfSMCiMm) | [Hymnos 2](https://open.spotify.com/album/4lQaSOEJAMWQf7ecxmj3RE) | 9:42 |
 | 12 | [Ebenezer \- Live](https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [VICTORIA ORENZE](https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ season in full swing!
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,029 likes - 486 songs - 1 day 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,204 likes - 486 songs - 1 day 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 58 | [Fired Up](https://open.spotify.com/track/59Zh2cPqIZSPjadFpUr5iF) | [Hoax \(BE\)](https://open.spotify.com/artist/7fpk8jTMiMnCWKnEAu62C9), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA) | [Fired Up](https://open.spotify.com/album/2lsPTHNG4ot3c33R3qN06E) | 3:48 |
 | 59 | [Don't Let Me Down](https://open.spotify.com/track/3fAnnlaTKtnq5F87jbwmUh) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Ridges](https://open.spotify.com/artist/199tThI1DV4Y9yQT49z5Rt) | [Don't Let Me Down](https://open.spotify.com/album/6EbIpYfCkF33KKuhFo7b53) | 2:18 |
 | 60 | [Float \(feat\. BAYLI\)](https://open.spotify.com/track/20fWv7580PvwdmWnVqHPDc) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Float \(feat\. BAYLI\)](https://open.spotify.com/album/7oGQVPQR0LNdBcGpFaDag5) | 2:54 |
-| 61 | [I Am Free](https://open.spotify.com/track/6iHFanVnZvK8g9OJlbkkkD) | [CARTFISH](https://open.spotify.com/artist/3w1wNgMXNtM48xdYNCXWgC), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [CARTFISH](https://open.spotify.com/album/5tzqzDJhJ9bKuDY5xMUkLj) | 3:51 |
+| 61 | [I Am Free](https://open.spotify.com/track/6iHFanVnZvK8g9OJlbkkkD) | [CARTFISH](https://open.spotify.com/artist/3w1wNgMXNtM48xdYNCXWgC), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [I Am Free](https://open.spotify.com/album/5tzqzDJhJ9bKuDY5xMUkLj) | 3:51 |
 | 62 | [Yangu \- Samm Edit](https://open.spotify.com/track/6xAnX1qVSNIwkq8ELsLK9k) | [Roo \(JO\)](https://open.spotify.com/artist/1MDcfE7XhDXPCyyZYW4WU0), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Yangu \(Samm Edit\)](https://open.spotify.com/album/3xEVuak0y1B1YjHgmDSTnE) | 5:48 |
 | 63 | [Inner Wars](https://open.spotify.com/track/2rHIFv8iIZCpPPTqUkHrgs) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8), [Miguel Ante](https://open.spotify.com/artist/0yLnk8vkyAvMHmEqAsmPKR), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Inner Wars](https://open.spotify.com/album/2fKFnbJnUOt3fVcCs1TnnW) | 3:36 |
 | 64 | [Skill Of Love](https://open.spotify.com/track/28YQJfxcZyuvdsNrDLDbik) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Skill Of Love](https://open.spotify.com/album/3ftzMiu27n3wyDLAuFQZiR) | 3:58 |

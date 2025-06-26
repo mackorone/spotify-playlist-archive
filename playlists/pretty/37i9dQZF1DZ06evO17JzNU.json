@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 28420,
+  "num_followers": 28433,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFiZAAAAAABZ6kRtmqB4mO8w5FzYG94d",
+  "snapshot_id": "aFnqgAAAAABKqYFo4cISW8AXrs1T6O3f",
   "tracks": [
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Chakalosos",
-        "url": "https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 188778,
-      "name": "La Vida Recia",
-      "url": "https://open.spotify.com/track/5GswRJyyhV5shlbJzBG4Os"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Padre Nuestro",
         "url": "https://open.spotify.com/album/6MErFrcJuktzkFqjVZsYD9"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 208213,
       "name": "Padre Nuestro",
       "url": "https://open.spotify.com/track/4smyDUpUfEmAWdC4uHvsMJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Chakalosos",
+        "url": "https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 188778,
+      "name": "La Vida Recia",
+      "url": "https://open.spotify.com/track/5GswRJyyhV5shlbJzBG4Os"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos y Sentimientos",
-        "url": "https://open.spotify.com/album/6rcVo1GNdKxs6JDwHth5QH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 184882,
-      "name": "Dinero Voy Ganado",
-      "url": "https://open.spotify.com/track/4VGJUzHyzJjT91oVBc1b1U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bola De Corrientes",
         "url": "https://open.spotify.com/album/2tNhLu2M1RbCYkmeNA9hCm"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 219697,
       "name": "Bola De Corrientes",
       "url": "https://open.spotify.com/track/08HwbgBTGQ59H1ppLn4AxW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos y Sentimientos",
+        "url": "https://open.spotify.com/album/6rcVo1GNdKxs6JDwHth5QH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 184882,
+      "name": "Dinero Voy Ganado",
+      "url": "https://open.spotify.com/track/4VGJUzHyzJjT91oVBc1b1U"
     },
     {
       "added_at": null,

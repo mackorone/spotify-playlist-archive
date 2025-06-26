@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,641 likes - 79 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,639 likes - 79 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 47 | [Pamiętam Cię](https://open.spotify.com/track/2GmyBjFYiWaErfxzd3Uefl) | [KĘPIŃSKI KOWALONEK](https://open.spotify.com/artist/3z84Fsj4Ob6F940y1FwXnk), [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK), [Miro Kepinski](https://open.spotify.com/artist/4zM4iShKy7fOtcBQCJf3wG), [Michał Kowalonek](https://open.spotify.com/artist/3oIZFLMAjPpJjv74YpRl5O), [Prosta Sprawa](https://open.spotify.com/artist/3y9r1d2DF2zxxbC0eTBxdT) | [Prosta Sprawa \(Muzyka i piosenki z serialu\)](https://open.spotify.com/album/2aMLfHtrSlYr7SD8j2CBcr) | 3:16 |
 | 48 | [Królowa łez](https://open.spotify.com/track/2G5CtSf8XZNk4tLfDBPwl9) | [Agnieszka Chylińska](https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO) | [30 lat Agnieszki Chylińskiej \- Kiedyś do Ciebie wrócę](https://open.spotify.com/album/3rRPuSwqV70j9SeR3rsuky) | 5:10 |
 | 49 | [Siwa zezulejko](https://open.spotify.com/track/7LyMeBM8btmryr8eSB6hYG) | [Warsaw Village Band](https://open.spotify.com/artist/2TQwsunAFHqQuIGG4kegie), [Bassałyki](https://open.spotify.com/artist/7zc32OGpApsqnOXhGvUs1y) | [Sploty](https://open.spotify.com/album/5t1TVckkkBuj1vYKH28NNV) | 6:21 |
-| 50 | [Ballada o Niej \(Live, 92'\)](https://open.spotify.com/track/5I4mvKqIljirw2PC7wSOvK) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx) | [Ballada o Niej](https://open.spotify.com/album/7h0D9tTxbdy41v52chuWKK) | 4:29 |
-| 51 | [Cursed Angel of Doom \- Live](https://open.spotify.com/track/14yjHvuMk4qEcdXnuKvVjF) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [XXX Years Ov Blasphemy](https://open.spotify.com/album/4SNgCerS7obje1M8pIcdXf) | 3:00 |
+| 50 | [Cursed Angel of Doom \- Live](https://open.spotify.com/track/14yjHvuMk4qEcdXnuKvVjF) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [XXX Years Ov Blasphemy](https://open.spotify.com/album/4SNgCerS7obje1M8pIcdXf) | 3:00 |
+| 51 | [Ballada o Niej \(Live, 92'\)](https://open.spotify.com/track/5I4mvKqIljirw2PC7wSOvK) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx) | [Ballada o Niej](https://open.spotify.com/album/7h0D9tTxbdy41v52chuWKK) | 4:29 |
 | 52 | [Better Off](https://open.spotify.com/track/0ZzE5aySLbUQpb71oRjCCs) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH), [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [United Kingdom Of Anxiety](https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID) | 3:50 |
 | 53 | [Edi](https://open.spotify.com/track/44KoYpJ0kv0CpZzU5NWuuL) | [Grzegorz Kupczyk](https://open.spotify.com/artist/3lkaXtLLG1tXxxN50g3Rgu) | [Edi](https://open.spotify.com/album/2eVNqBKwSgxSpMnuFFGXKv) | 3:23 |
 | 54 | [Nie pamiętam siebie](https://open.spotify.com/track/6SO9q12ayT1nobYScq4zb6) | [Dom Zły](https://open.spotify.com/artist/4Yy4iPTGC2iFfqxPGiv5Lt) | [Ku pogrzebaniu serc](https://open.spotify.com/album/4dDWNi52Fl8CUyStWGz6e9) | 6:54 |

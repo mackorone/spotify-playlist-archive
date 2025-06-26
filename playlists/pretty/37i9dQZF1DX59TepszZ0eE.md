@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd?si=\_S9SDVpeQaqDmtWHrGf99Q>Oncemore Six</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,022 likes - 100 songs - 10 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,063 likes - 100 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 9 | [Moyongcwele](https://open.spotify.com/track/7EGJk2dluf3ahwKa9Ognkc) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Moyongcwele](https://open.spotify.com/album/3Md7jFJCda78uhck7VfPJC) | 5:09 |
 | 10 | [Aneliswe Osweleyo](https://open.spotify.com/track/6ZgClg41sq8pnx8d0oIR4W) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3), [Mphostoli We Keyboard](https://open.spotify.com/artist/1lgM1mjTHzMVjWZv08fTIN) | [Aneliswe Osweleyo](https://open.spotify.com/album/4QAnQG6yJgyqxIni00sRGK) | 4:14 |
 | 11 | [Ngena Noah](https://open.spotify.com/track/2ZPtBDzHnuT7CJMVX5ILG7) | [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Gospel Africa \- A Joyous Easter Celebration With Top Gospel Stars](https://open.spotify.com/album/6idKZfHxl854ucNRHqIEoc) | 4:31 |
-| 12 | [The Reason \- Live](https://open.spotify.com/track/6lWEDYrm4CXpfMCHYQOu9n) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd), [The Remnant](https://open.spotify.com/artist/1hpPyofpQgZVXFftbcehka) | [The Reason](https://open.spotify.com/album/2VeoT5lhd5WAE2YYri6ZqL) | 11:18 |
+| 12 | [The Reason \- Live](https://open.spotify.com/track/6lWEDYrm4CXpfMCHYQOu9n) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd), [The Remnant](https://open.spotify.com/artist/1hpPyofpQgZVXFftbcehka) | [The Reason \(Live\)](https://open.spotify.com/album/2VeoT5lhd5WAE2YYri6ZqL) | 11:18 |
 | 13 | [Banaka Nako Ea Me E Haufi](https://open.spotify.com/track/3rtv6UeFWYOAbegjRrrGCB) | [Solly Moholo](https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z) | [Motlhang Ke Kolobetswa 'Die Poppe Sal Dans'](https://open.spotify.com/album/6OIg6NwgtsE7kfcPH3PL23) | 5:28 |
 | 14 | [Yibanathi](https://open.spotify.com/track/4rPSpeKJekm5pJNabHi0MK) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Yibanathi](https://open.spotify.com/album/76un37X1FHebVoU6wUzTcm) | 5:07 |
 | 15 | [Thixo Wamadinga Ethu \(Live\)](https://open.spotify.com/track/5Y0EPmCymKYHOCJD2B04gi) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0yq9apfBkBDmT9I74n0ABX) | 9:49 |

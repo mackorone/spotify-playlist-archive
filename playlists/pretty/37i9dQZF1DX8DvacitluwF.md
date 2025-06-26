@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ?si=kaPi9CvdQcicRbNmXRKSqg"> Khamari</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,440 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,448 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 12 | [Ecstasy \(Remix\) \[feat\. Teyana Taylor\]](https://open.spotify.com/track/23WBvFOEKE7KYae5H1usrA) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Ecstasy \(Remix\) \[feat\. Teyana Taylor\]](https://open.spotify.com/album/305yIXU97c0Sa68bjQNSTz) | 3:30 |
 | 13 | [Smaak To Love \(Lamza\)](https://open.spotify.com/track/4o8T5mUyp77nDbM1UkDRd3) | [ZULO](https://open.spotify.com/artist/5nWYsE0N983XcI3qsU55bp) | [Smaak To Love \(Lamza\)](https://open.spotify.com/album/0IDXfOJbWNw4LbWEPWrc1F) | 2:45 |
 | 14 | [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 |
-| 15 | [Nini Na Nini](https://open.spotify.com/track/0lWcGhpwSDziCmlDeHn8ER) | [S\-Que](https://open.spotify.com/artist/0vQFWM1zpxvMVOwTdvtWjP), [Earldridge](https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6) | [Nini Na Nini](https://open.spotify.com/album/0c22zd13Z4VgySTGxhizXo) | 3:15 |
+| 15 | [Nini Na Nini](https://open.spotify.com/track/0lWcGhpwSDziCmlDeHn8ER) | [S\-Que](https://open.spotify.com/artist/0vQFWM1zpxvMVOwTdvtWjP), [Earldridge](https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6), [Jiggy Stapes](https://open.spotify.com/artist/5UmLJwx1DBDKGJIaYfoXDa) | [Nini Na Nini](https://open.spotify.com/album/0c22zd13Z4VgySTGxhizXo) | 3:15 |
 | 16 | [Safe](https://open.spotify.com/track/6tPzBJptprIjA8hk4ir3rz) | [Kotrell](https://open.spotify.com/artist/1k3uh1cWemPuWEYV2lcMPS) | [Safe](https://open.spotify.com/album/41y0S7UNgrEpuMeCOavaR0) | 3:33 |
 | 17 | [Company](https://open.spotify.com/track/0BPKZETsuOOHB7UHFDEGzk) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Company](https://open.spotify.com/album/16US5VNFARXZp8J4DjPHvT) | 3:39 |
 | 18 | [You4Me](https://open.spotify.com/track/6HGL76EoYOTR2ETqucHxPA) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [You4Me](https://open.spotify.com/album/0mpmJp3sKifYKvOPiAcjtL) | 2:37 |

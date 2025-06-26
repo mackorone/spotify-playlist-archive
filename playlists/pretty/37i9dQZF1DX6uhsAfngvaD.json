@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 318072,
+  "num_followers": 318108,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "Last Day On Earth",
+        "url": "https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 222357,
+      "name": "Last Day On Earth",
+      "url": "https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "DJ-Kicks: Logic1000",
         "url": "https://open.spotify.com/album/6TTv31Q89IYhRzxTVrENNx"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 169997,
       "name": "Lurk - Mixed",
       "url": "https://open.spotify.com/track/064kl8lbsGVBN07jKkl014"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "Last Day On Earth",
-        "url": "https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 222357,
-      "name": "Last Day On Earth",
-      "url": "https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Selene",
-        "url": "https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 294640,
-      "name": "Selene",
-      "url": "https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Boyhood",
         "url": "https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 189624,
       "name": "Boyhood",
       "url": "https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Selene",
+        "url": "https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 294640,
+      "name": "Selene",
+      "url": "https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Two Vines",
-        "url": "https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 208426,
-      "name": "There\u2019s No Need",
-      "url": "https://open.spotify.com/track/27gswQEl27hwpnwfiTyjN7"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Tell Me How",
         "url": "https://open.spotify.com/album/6eyqtiXZ28uTVsIwAcmZnv"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 197389,
       "name": "Tell Me How",
       "url": "https://open.spotify.com/track/01CMi6BTasSxDv2sSDqv6q"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Two Vines",
+        "url": "https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 208426,
+      "name": "There\u2019s No Need",
+      "url": "https://open.spotify.com/track/27gswQEl27hwpnwfiTyjN7"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "I've Been Dreaming Of You",
-        "url": "https://open.spotify.com/album/5JBMkxhLl4894CjX2O9jEO"
-      },
-      "artists": [
-        {
-          "name": "HEIGHTS",
-          "url": "https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH"
-        }
-      ],
-      "duration_ms": 148523,
-      "name": "I've Been Dreaming of You",
-      "url": "https://open.spotify.com/track/1QefCoXtVK3wY1KDTt93Ei"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Quite Like You",
         "url": "https://open.spotify.com/album/5mja6AsqxnYjorZZ9eG77X"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 179839,
       "name": "Quite Like You",
       "url": "https://open.spotify.com/track/7B6jRQYFeJR4eUe2LBZfr4"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "I've Been Dreaming Of You",
+        "url": "https://open.spotify.com/album/5JBMkxhLl4894CjX2O9jEO"
+      },
+      "artists": [
+        {
+          "name": "HEIGHTS",
+          "url": "https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH"
+        }
+      ],
+      "duration_ms": 148523,
+      "name": "I've Been Dreaming of You",
+      "url": "https://open.spotify.com/track/1QefCoXtVK3wY1KDTt93Ei"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Heaven Sent (Between Heavens B-Sides)",
-        "url": "https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I"
-      },
-      "artists": [
-        {
-          "name": "Ruby Haunt",
-          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
-        }
-      ],
-      "duration_ms": 199413,
-      "name": "Nadine",
-      "url": "https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Cabin Fever Dreams",
         "url": "https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 206134,
       "name": "Loverboy",
       "url": "https://open.spotify.com/track/3iDJgLUiMqMdk1UOLG4VWf"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Heaven Sent (Between Heavens B-Sides)",
+        "url": "https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I"
+      },
+      "artists": [
+        {
+          "name": "Ruby Haunt",
+          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
+        }
+      ],
+      "duration_ms": 199413,
+      "name": "Nadine",
+      "url": "https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Lost In A Rush Of Emptiness",
-        "url": "https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU"
-      },
-      "artists": [
-        {
-          "name": "Bleach Lab",
-          "url": "https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8"
-        }
-      ],
-      "duration_ms": 198767,
-      "name": "Nothing Left To Lose",
-      "url": "https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "what if love isn't enough",
         "url": "https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 228522,
       "name": "what if love isn't enough",
       "url": "https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Lost In A Rush Of Emptiness",
+        "url": "https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU"
+      },
+      "artists": [
+        {
+          "name": "Bleach Lab",
+          "url": "https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8"
+        }
+      ],
+      "duration_ms": 198767,
+      "name": "Nothing Left To Lose",
+      "url": "https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x"
     },
     {
       "added_at": "2025-05-01 21:52:32",

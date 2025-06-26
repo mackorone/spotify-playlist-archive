@@ -1,6 +1,6 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 143345,
+  "num_followers": 143368,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2025-06-25 02:11:39",
       "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 181481,
+      "name": "One Of Your Girls",
+      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
+    },
+    {
+      "added_at": "2025-06-25 02:11:39",
+      "album": {
         "name": "Everybody Gets Down",
         "url": "https://open.spotify.com/album/2itGQCqttw47maPiLdncOM"
       },
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2025-06-25 02:11:39",
       "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 181481,
-      "name": "One Of Your Girls",
-      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
-    },
-    {
-      "added_at": "2025-06-25 02:11:39",
-      "album": {
         "name": "Baddy On The Floor",
         "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-06-25 02:11:39",
       "album": {
-        "name": "Requiem (Bonus Edition)",
-        "url": "https://open.spotify.com/album/0ResBXlOIf8Bqsf6W9swJx"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 161967,
-      "name": "Kiss Me Right",
-      "url": "https://open.spotify.com/track/4fXmBERnR3SDk053aqQqwa"
-    },
-    {
-      "added_at": "2025-06-25 02:11:39",
-      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/3nKKFRuqnq2V1iIYFTCEgV"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 234204,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/7bH0QVI7g7kxRN7jN20NyE"
+    },
+    {
+      "added_at": "2025-06-25 02:11:39",
+      "album": {
+        "name": "Requiem (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0ResBXlOIf8Bqsf6W9swJx"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 161967,
+      "name": "Kiss Me Right",
+      "url": "https://open.spotify.com/track/4fXmBERnR3SDk053aqQqwa"
     },
     {
       "added_at": "2025-06-25 02:11:39",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2025-06-25 02:11:39",
       "album": {
-        "name": "Call It Off",
-        "url": "https://open.spotify.com/album/5eLFx3qaedNQ1VOYdQZf7V"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        },
-        {
-          "name": "JAEHYUN",
-          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Call It Off",
-      "url": "https://open.spotify.com/track/0CVfsusVjjnR7CfDAlp25o"
-    },
-    {
-      "added_at": "2025-06-25 02:11:39",
-      "album": {
         "name": "Nagisa",
         "url": "https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 190266,
       "name": "GBAD",
       "url": "https://open.spotify.com/track/3OxVaGUYKdSAXqIp8x7VgC"
+    },
+    {
+      "added_at": "2025-06-25 02:11:39",
+      "album": {
+        "name": "Call It Off",
+        "url": "https://open.spotify.com/album/5eLFx3qaedNQ1VOYdQZf7V"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "JAEHYUN",
+          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Call It Off",
+      "url": "https://open.spotify.com/track/0CVfsusVjjnR7CfDAlp25o"
     },
     {
       "added_at": "2025-06-25 02:11:39",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-06-25 02:11:39",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
-    },
-    {
-      "added_at": "2025-06-25 02:11:39",
-      "album": {
         "name": "Head Over Heels",
         "url": "https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 228842,
       "name": "Head Over Heels",
       "url": "https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g"
+    },
+    {
+      "added_at": "2025-06-25 02:11:39",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
     },
     {
       "added_at": "2025-06-25 02:11:39",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2025-06-25 02:11:39",
       "album": {
+        "name": "\u611b\u3068U",
+        "url": "https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl"
+      },
+      "artists": [
+        {
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+        }
+      ],
+      "duration_ms": 202535,
+      "name": "\u611b\u3068U",
+      "url": "https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ"
+    },
+    {
+      "added_at": "2025-06-25 02:11:39",
+      "album": {
         "name": "Golden Wolf",
         "url": "https://open.spotify.com/album/5aa9sxMdhMppfnRWJQNT9C"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 194265,
       "name": "She's All Time - feat. Nina Nesbitt",
       "url": "https://open.spotify.com/track/29ZL829h4DMexvDZu1Ef1B"
-    },
-    {
-      "added_at": "2025-06-25 02:11:39",
-      "album": {
-        "name": "\u611b\u3068U",
-        "url": "https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl"
-      },
-      "artists": [
-        {
-          "name": "Mega Shinnosuke",
-          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
-        }
-      ],
-      "duration_ms": 202535,
-      "name": "\u611b\u3068U",
-      "url": "https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ"
     },
     {
       "added_at": "2025-06-25 02:11:39",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2025-06-25 02:11:39",
       "album": {
+        "name": "MIRROR",
+        "url": "https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "MIRROR",
+      "url": "https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23"
+    },
+    {
+      "added_at": "2025-06-25 02:11:39",
+      "album": {
         "name": "Say",
         "url": "https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 181602,
       "name": "Say",
       "url": "https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg"
-    },
-    {
-      "added_at": "2025-06-25 02:11:39",
-      "album": {
-        "name": "Spend My Nights",
-        "url": "https://open.spotify.com/album/4r4KOVmcgTNU3rT6YNFPPX"
-      },
-      "artists": [
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        }
-      ],
-      "duration_ms": 150250,
-      "name": "Spend My Nights",
-      "url": "https://open.spotify.com/track/74qReKzsc3H2TcJaXIEZpa"
     },
     {
       "added_at": "2025-06-25 02:11:39",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2025-06-25 02:11:39",
       "album": {
-        "name": "MIRROR",
-        "url": "https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ"
+        "name": "Spend My Nights",
+        "url": "https://open.spotify.com/album/4r4KOVmcgTNU3rT6YNFPPX"
       },
       "artists": [
         {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
         }
       ],
-      "duration_ms": 178000,
-      "name": "MIRROR",
-      "url": "https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23"
+      "duration_ms": 150250,
+      "name": "Spend My Nights",
+      "url": "https://open.spotify.com/track/74qReKzsc3H2TcJaXIEZpa"
     },
     {
       "added_at": "2025-06-25 02:11:39",
@@ -1747,6 +1747,30 @@
     {
       "added_at": "2025-06-25 02:11:39",
       "album": {
+        "name": "Luv Myself (feat. AKLO & KEIJU)",
+        "url": "https://open.spotify.com/album/3Oz0Tx9z3PMNMX3Owo2CGA"
+      },
+      "artists": [
+        {
+          "name": "Kvi Baba",
+          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+        },
+        {
+          "name": "AKLO",
+          "url": "https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb"
+        },
+        {
+          "name": "KEIJU",
+          "url": "https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL"
+        }
+      ],
+      "duration_ms": 268799,
+      "name": "Luv Myself (feat. AKLO & KEIJU)",
+      "url": "https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx"
+    },
+    {
+      "added_at": "2025-06-25 02:11:39",
+      "album": {
         "name": "Do What You Do",
         "url": "https://open.spotify.com/album/0CgqDCy5Lig3nFwJlwW45S"
       },
@@ -1799,30 +1823,6 @@
       "duration_ms": 172294,
       "name": "You",
       "url": "https://open.spotify.com/track/7lv0grRnvqhmnERdn320PX"
-    },
-    {
-      "added_at": "2025-06-25 02:11:39",
-      "album": {
-        "name": "Luv Myself (feat. AKLO & KEIJU)",
-        "url": "https://open.spotify.com/album/3Oz0Tx9z3PMNMX3Owo2CGA"
-      },
-      "artists": [
-        {
-          "name": "Kvi Baba",
-          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
-        },
-        {
-          "name": "AKLO",
-          "url": "https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb"
-        },
-        {
-          "name": "KEIJU",
-          "url": "https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL"
-        }
-      ],
-      "duration_ms": 268799,
-      "name": "Luv Myself (feat. AKLO & KEIJU)",
-      "url": "https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx"
     }
   ],
   "unique_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",

@@ -1,6 +1,6 @@
 {
   "description": "music to get fly to ft. Erykah Badu",
-  "num_followers": 565997,
+  "num_followers": 565983,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Just Sayin' Shit",
-        "url": "https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa"
-      },
-      "artists": [
-        {
-          "name": "Flower in Bloom",
-          "url": "https://open.spotify.com/artist/0Qo3BPiai9OuVq6zojWALA"
-        }
-      ],
-      "duration_ms": 61717,
-      "name": "Just Sayin' Shit",
-      "url": "https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3"
       },
@@ -1495,22 +1479,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "BACKWARDS",
-        "url": "https://open.spotify.com/album/51WjoBBCY3wZ8Cbqy8TDrQ"
+        "name": "Just Sayin' Shit",
+        "url": "https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa"
       },
       "artists": [
         {
-          "name": "RUNNER BOY",
-          "url": "https://open.spotify.com/artist/3ZymIpT2ZdBAUCaDncvdBv"
-        },
-        {
-          "name": "Babebee",
-          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+          "name": "Flower in Bloom",
+          "url": "https://open.spotify.com/artist/0Qo3BPiai9OuVq6zojWALA"
         }
       ],
-      "duration_ms": 106046,
-      "name": "BACKWARDS",
-      "url": "https://open.spotify.com/track/7zuSn410s3z8Ki7iuO6ZSO"
+      "duration_ms": 61717,
+      "name": "Just Sayin' Shit",
+      "url": "https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1543,6 +1523,26 @@
       "duration_ms": 134556,
       "name": "Gonna Bleach My Eyebrows",
       "url": "https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "BACKWARDS",
+        "url": "https://open.spotify.com/album/51WjoBBCY3wZ8Cbqy8TDrQ"
+      },
+      "artists": [
+        {
+          "name": "RUNNER BOY",
+          "url": "https://open.spotify.com/artist/3ZymIpT2ZdBAUCaDncvdBv"
+        },
+        {
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+        }
+      ],
+      "duration_ms": 106046,
+      "name": "BACKWARDS",
+      "url": "https://open.spotify.com/track/7zuSn410s3z8Ki7iuO6ZSO"
     },
     {
       "added_at": "2024-08-23 04:00:00",

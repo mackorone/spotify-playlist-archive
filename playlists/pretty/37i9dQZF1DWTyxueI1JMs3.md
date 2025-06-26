@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyxueI1JMs3.md) - [plain]
 
 > Music from “A3!”, Japan’s top anime style mobile games.©Liber Entertainment Inc\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,057 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,064 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyxueI1JMs3.md) - [plain]
 | 47 | [エモーション](https://open.spotify.com/track/5NxOxDgcMJSbsGKsfgaxwq) | [有栖川誉\(CV:豊永利行\)](https://open.spotify.com/artist/2PW2GKX6MHXvUzHknb2Vwo) | [A3! SUNNY WINTER EP](https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP) | 2:50 |
 | 48 | [餓鬼扱い](https://open.spotify.com/track/3Z18XcDKq3etDT07IrK1bm) | [泉田莇\(CV:小西成弥\)](https://open.spotify.com/artist/6vs80AhrELN6M47kwfpfCA) | [A3! VIVID AUTUMN EP](https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS) | 4:17 |
 | 49 | [ナハトムジクと白月](https://open.spotify.com/track/5laQ9JOIhLHeCbK7ytvjp2) | [御影密\(CV:寺島惇太\)](https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn) | [A3! SUNNY WINTER EP](https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP) | 4:31 |
-| 50 | [Bouquet](https://open.spotify.com/track/1LKSGe8I1w4Myv32mOP4wj) | [東風牡丹\[御影 密\(CV:寺島惇太\)\]](https://open.spotify.com/artist/14g1jNb4iNUNFVC9CWeaAh), [冬野水仙\[月岡 紬\(CV:田丸篤志\)\]](https://open.spotify.com/artist/7nvKZml6ZUbP1s2CflnBBB) | [A3! 冬組第九回公演曲「Bouquet」](https://open.spotify.com/album/6N8HygzF3TLJDRUSIq5K4g) | 3:27 |
+| 50 | [グラン・ステイの続きを](https://open.spotify.com/track/7J35LjuK6wxl8R1aBaT31n) | [尾張&津々木](https://open.spotify.com/artist/0KgMzgTCOGwIeknvJvN1Tt), [雪白東\(CV:柿原徹也\)](https://open.spotify.com/artist/5jOsh9ZDyWonTu56jdXrlp), [ガイ\(CV:日野聡\)](https://open.spotify.com/artist/7EZcJktHiIdBdcpL6sNOTc) | [A3! EVER LASTING LP](https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA) | 3:49 |
 
 Snapshot ID: `aAfoOwAAAADoqr/w7WEDasMqr/f8RWG6`

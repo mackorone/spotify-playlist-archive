@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Anendlessocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,569 likes - 98 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,574 likes - 98 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 20 | [Spiritual Healing](https://open.spotify.com/track/0xuRhLMOTmp7wYRiMYOr4r) | [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye), [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv) | [Spiritual Healing](https://open.spotify.com/album/2gYkpTDhwIfFP6N8vliKeC) | 2:11 |
 | 21 | [Prayer](https://open.spotify.com/track/6kESTNY3rhbE5yDFQJ0kEh) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Prayer](https://open.spotify.com/album/6RsJ8zdUYTTUZ2OVavjxpb) | 2:26 |
 | 22 | [Look To Me](https://open.spotify.com/track/1VFaJ2a2yVPbjTAkDBxSdn) | [ayomidetPh](https://open.spotify.com/artist/34escoJykaA5AGb5USdHiK) | [Look To Me](https://open.spotify.com/album/2VEonLO0sutdBL8cDtLjOZ) | 3:21 |
-| 23 | [The Reason \- Live](https://open.spotify.com/track/6lWEDYrm4CXpfMCHYQOu9n) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd), [The Remnant](https://open.spotify.com/artist/1hpPyofpQgZVXFftbcehka) | [The Reason](https://open.spotify.com/album/2VeoT5lhd5WAE2YYri6ZqL) | 11:18 |
+| 23 | [The Reason \- Live](https://open.spotify.com/track/6lWEDYrm4CXpfMCHYQOu9n) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd), [The Remnant](https://open.spotify.com/artist/1hpPyofpQgZVXFftbcehka) | [The Reason \(Live\)](https://open.spotify.com/album/2VeoT5lhd5WAE2YYri6ZqL) | 11:18 |
 | 24 | [Fuji Rush](https://open.spotify.com/track/4OzILFRWUZbds3B1JAYQm0) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK), [Hessking](https://open.spotify.com/artist/6MKmSHK4rcJGhdtQTvAsqh) | [Fuji Rush](https://open.spotify.com/album/3LqvJrHQDLZPUomgl4T9uw) | 5:36 |
 | 25 | [Standing with God](https://open.spotify.com/track/0IjJfbaR6GPnXekNzyU2aC) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Standing with God](https://open.spotify.com/album/0amrBLErPuWAUmHWMcxqXN) | 1:51 |
 | 26 | [Halleluya](https://open.spotify.com/track/25ymsjbR025pCqSJjAL3W1) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Halleluya](https://open.spotify.com/album/2WqU7vDpaVwNvjRZ7ljIwb) | 3:00 |

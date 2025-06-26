@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: Daou Pittaya
 
-713 songs - 1 day 18 hr 5 min
+714 songs - 1 day 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -629,7 +629,7 @@
 | [เสียใจไม่เสียดาย \(No Love\)](https://open.spotify.com/track/4XjY4hGqiLjZQnlxCemA9F) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [เสียใจไม่เสียดาย \(No Love\)](https://open.spotify.com/album/2R4hww1wYXvKb5Yu3EGL2n) | 3:23 | 2023-06-01 | 2023-06-16 |
 | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/track/7jLdjsFuLefnYSkDYxfDu9) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/album/24KFghzsx4qWrq6B9U9ZOI) | 3:15 | 2022-07-07 | 2022-07-23 |
 | [เส้นเรื่องเดิม \(RERUN\)](https://open.spotify.com/track/7kYkOkwL7644XyOdjQ9zo5) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [เส้นเรื่องเดิม \(RERUN\)](https://open.spotify.com/album/26LY4e9rP1alRPyBwokxsW) | 3:31 | 2023-09-13 | 2024-03-15 |
-| [เหตุผลของวันนี้ \(Flower\)](https://open.spotify.com/track/3PabyxIj11p70zsuEcNaFK) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [เหตุผลของวันนี้ \(Flower\)](https://open.spotify.com/album/3YXge7R4yMJitwAJhHaPxu) | 3:53 | 2025-06-02 |  |
+| [เหตุผลของวันนี้ \(Flower\)](https://open.spotify.com/track/3PabyxIj11p70zsuEcNaFK) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [เหตุผลของวันนี้ \(Flower\)](https://open.spotify.com/album/3YXge7R4yMJitwAJhHaPxu) | 3:53 | 2025-06-02 | 2025-06-26 |
 | [เหตุผลข้อเดียว \(I Mean\)](https://open.spotify.com/track/7mhv19fY8rvuuIey7mrwD2) | [NEVONE](https://open.spotify.com/artist/04iMi6PaEHR1pbgh5LK8nZ) | [เหตุผลข้อเดียว \(I Mean\)](https://open.spotify.com/album/3GQ88RTjXv4YvbdzUsX7nl) | 3:18 | 2024-07-11 | 2024-07-19 |
 | [เหนือฟ้า \(ABOVE\) \- Ost\. ข้ามฟ้าเคียงเธอ The Next Prince Series](https://open.spotify.com/track/3u6ehLHBIe0SiwR0amlskf) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [เหนือฟ้า \(ABOVE\) \[Ost\. ข้ามฟ้าเคียงเธอ The Next Prince Series\]](https://open.spotify.com/album/0cJSCTNljetysSWUYORnUU) | 3:50 | 2025-05-01 | 2025-05-23 |
 | [เหนื่อยหน่อยนะ \(SOMEONE LIKE ME\)](https://open.spotify.com/track/1iB4DlhihIiLpXB6rTDtkO) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เหนื่อยหน่อยนะ \(SOMEONE LIKE ME\) \- Single](https://open.spotify.com/album/083WVo2isnQjzo2Z0IiYHZ) | 2:56 | 2024-08-15 | 2024-11-15 |
@@ -666,6 +666,7 @@
 | [แลกเลยปะ \(Hoo Whee Hoo\)](https://open.spotify.com/track/70Sn9wy03VYM7iChqD8DXQ) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T), [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [แลกเลยปะ \(Hoo Whee Hoo\)](https://open.spotify.com/album/2r0WfMHwNvl5hDVtettnet) | 3:12 | 2022-05-26 | 2022-07-08 |
 | [แล้วยังไงต่อ](https://open.spotify.com/track/2qjarpGRrdp2IkGjvvfftb) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [แล้วยังไงต่อ](https://open.spotify.com/album/3Iqn3Dv3ku88Lyu748tV6B) | 3:07 | 2024-04-11 | 2024-05-24 |
 | [แวร์อิสความรัก \(WRU?\)](https://open.spotify.com/track/5iAIWIINkZvPUMcPce3CvX) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [แวร์อิสความรัก \(WRU?\) \- Single](https://open.spotify.com/album/3C6QK26Me1kKgR50TCQpwy) | 3:16 | 2024-05-16 | 2024-06-01 |
+| [แสร้ง \(ALL FAKE\)](https://open.spotify.com/track/5qKVcFs2MZWb118aw3ZKup) | [Offroad Kantapon](https://open.spotify.com/artist/1n1qyKoHL2ZeVUpGVYrZsL) | [แสร้ง \(ALL FAKE\)](https://open.spotify.com/album/6Oky5zfZ5VnsxDr1r7M2A8) | 3:28 | 2025-06-25 |  |
 | [โกหกเธอทั้งนั้น \(Pinocchio\)](https://open.spotify.com/track/5NbtMfwNbWlJXF9LoUOS4F) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [โกหกเธอทั้งนั้น \(Pinocchio\)](https://open.spotify.com/album/1Mvq5q3RhBlclPsiLEcjvB) | 4:10 | 2024-07-26 | 2024-08-23 |
 | [โคตรชอบเลยอ่ะ \(Hey ! I Like You\)](https://open.spotify.com/track/42sFJN5a3knoZyUCXdiNEy) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [โคตรชอบเลยอ่ะ \(Hey! I Like You\)](https://open.spotify.com/album/2uTtW63FLOmwcr5zo8yH7u) | 3:54 | 2024-06-27 | 2024-08-02 |
 | [โคตรพิเศษ \- \(From “แปลรักฉันด้วยใจเธอ”\)](https://open.spotify.com/track/6MVbuOWvXHbPHtVwScK6M1) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [โคตรพิเศษ \(From “แปลรักฉันด้วยใจเธอ”\)](https://open.spotify.com/album/4nNKCt3VWdqn3nv5nW396p) | 3:58 | 2022-05-26 | 2022-07-29 |

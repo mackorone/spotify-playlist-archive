@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Erykah Badu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,090,977 likes - 296 songs - 15 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,091,002 likes - 296 songs - 15 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 26 | [Good Love Forever](https://open.spotify.com/track/6Tm1yRBcWrG9noOic54e2Q) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [Good Love Forever](https://open.spotify.com/album/0zNV2GZaCy2o65tq6mBL6B) | 2:46 |
 | 27 | [room](https://open.spotify.com/track/3Axvtm1vjiq7tMh3VnORtI) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [room](https://open.spotify.com/album/1I9suPDLb37gaBvqFnJLXQ) | 3:29 |
 | 28 | [Two to Tango](https://open.spotify.com/track/6NXuqTLgPlY0bwjDsI5Piy) | [Michaela Jaé](https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5) | [Two to Tango](https://open.spotify.com/album/3IxihJxl3moR6IWgLuJ3h0) | 2:24 |
-| 29 | [If I Say I Hate U I Mean It](https://open.spotify.com/track/6IumWBzpQyBCIkxo0aKZo3) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ), [SAHXL](https://open.spotify.com/artist/3XCaZ6eGvtiroxXdACE9HH) | [If I Say I Hate U I Mean It](https://open.spotify.com/album/1PJ74qpU6fHxEUuHCA5w0O) | 2:35 |
+| 29 | [If I Say I Hate U I Mean It](https://open.spotify.com/track/6IumWBzpQyBCIkxo0aKZo3) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ), [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [If I Say I Hate U I Mean It](https://open.spotify.com/album/1PJ74qpU6fHxEUuHCA5w0O) | 2:35 |
 | 30 | [Goodness Baby](https://open.spotify.com/track/06KVZDJUAzEEwI5hTa54wf) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Nic Nac](https://open.spotify.com/artist/3JUt8Eb39ikWDdahCinDwB), [Bobby Brackins](https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc) | [Goodness Baby](https://open.spotify.com/album/6QHGyuHxU30FaW0vii1wDz) | 1:48 |
 | 31 | [380](https://open.spotify.com/track/6JYcyZgnY4ZUQ8UJLTSClH) | [Saint Lamaar](https://open.spotify.com/artist/16AXQHqAloZDByAlQ99xNN) | [380](https://open.spotify.com/album/6qzcnwT6S1mL4OPYMQhS0L) | 2:11 |
 | 32 | [Holy Blindfold](https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Holy Blindfold](https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9) | 2:50 |

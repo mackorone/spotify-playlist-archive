@@ -1,63 +1,15 @@
 {
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: \uc0c8\uc18c\ub144 (SE SO NEON)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 240663,
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: can\u2019t be blue (\uce94\ud2b8\ube44\ube14\ub8e8)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "num_followers": 240641,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFprbAAAAABMXKTN+NgtrnEQf70JbcZb",
+  "snapshot_id": "aFyZwgAAAABr35rkCeG48cAjTcKu1QMH",
   "tracks": [
     {
-      "added_at": "2025-06-24 09:10:04",
-      "album": {
-        "name": "Remember!",
-        "url": "https://open.spotify.com/album/11EGNnLOAlNLUXysHvuH2t"
-      },
-      "artists": [
-        {
-          "name": "SE SO NEON",
-          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
-        }
-      ],
-      "duration_ms": 212808,
-      "name": "Remember!",
-      "url": "https://open.spotify.com/track/0sQ7Ej7deFPs7dQeScxVgZ"
-    },
-    {
-      "added_at": "2025-06-24 09:10:04",
-      "album": {
-        "name": "All About Blue",
-        "url": "https://open.spotify.com/album/68bPbXzJiC73kBZzXu9jmX"
-      },
-      "artists": [
-        {
-          "name": "YOOK SUNGJAE",
-          "url": "https://open.spotify.com/artist/7mFGOWJEkdlJBCXcJ5EWi9"
-        }
-      ],
-      "duration_ms": 225013,
-      "name": "at last",
-      "url": "https://open.spotify.com/track/2U50ylcJ8KwDS1lZlb91wI"
-    },
-    {
-      "added_at": "2025-06-24 09:10:04",
-      "album": {
-        "name": "Hospital",
-        "url": "https://open.spotify.com/album/3Nj0yXmZnHRu4MMP31sUVK"
-      },
-      "artists": [
-        {
-          "name": "Redoor",
-          "url": "https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS"
-        }
-      ],
-      "duration_ms": 263962,
-      "name": "Syringe",
-      "url": "https://open.spotify.com/track/1vZiEInBCBapB6wGhZX9YB"
-    },
-    {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "First Sight",
         "url": "https://open.spotify.com/album/6zQpQHGZZA6OZcF1meqpUI"
@@ -73,27 +25,71 @@
       "url": "https://open.spotify.com/track/5hQRt83sxBT4nNHF8ux8iQ"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
-        "name": "Shoulda Loved You Less",
-        "url": "https://open.spotify.com/album/5TFPshhDOxqLtkx5TKDZB7"
+        "name": "All About Blue",
+        "url": "https://open.spotify.com/album/68bPbXzJiC73kBZzXu9jmX"
       },
       "artists": [
         {
-          "name": "YongYong",
-          "url": "https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK"
-        },
-        {
-          "name": "LEE HONG GI",
-          "url": "https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4"
+          "name": "YOOK SUNGJAE",
+          "url": "https://open.spotify.com/artist/7mFGOWJEkdlJBCXcJ5EWi9"
         }
       ],
-      "duration_ms": 210146,
-      "name": "Shoulda Loved You Less (with LEE HONG GI of FTISLAND)",
-      "url": "https://open.spotify.com/track/1HDEDQDYnWBwyD8ynf4Uux"
+      "duration_ms": 225013,
+      "name": "at last",
+      "url": "https://open.spotify.com/track/2U50ylcJ8KwDS1lZlb91wI"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
+      "album": {
+        "name": "Hospital",
+        "url": "https://open.spotify.com/album/3Nj0yXmZnHRu4MMP31sUVK"
+      },
+      "artists": [
+        {
+          "name": "Redoor",
+          "url": "https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS"
+        }
+      ],
+      "duration_ms": 263962,
+      "name": "Syringe",
+      "url": "https://open.spotify.com/track/1vZiEInBCBapB6wGhZX9YB"
+    },
+    {
+      "added_at": "2025-06-26 00:52:18",
+      "album": {
+        "name": "Remember!",
+        "url": "https://open.spotify.com/album/11EGNnLOAlNLUXysHvuH2t"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "duration_ms": 212808,
+      "name": "Remember!",
+      "url": "https://open.spotify.com/track/0sQ7Ej7deFPs7dQeScxVgZ"
+    },
+    {
+      "added_at": "2025-06-26 00:52:18",
+      "album": {
+        "name": "HOW i WiSH!",
+        "url": "https://open.spotify.com/album/0OKjkBRNuAfKWndRtR7oDL"
+      },
+      "artists": [
+        {
+          "name": "WhiteUsedSocks",
+          "url": "https://open.spotify.com/artist/6DOPRiywZshVyewhu0XTbY"
+        }
+      ],
+      "duration_ms": 225932,
+      "name": "HOW i WiSH!",
+      "url": "https://open.spotify.com/track/2BuqLW1JazhHDiJ7FmmVeK"
+    },
+    {
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
@@ -109,7 +105,7 @@
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "OO-LI",
         "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
@@ -125,7 +121,7 @@
       "url": "https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "GOOD BOY (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/3qC8aLtNt0GYp1ALDBFVL3"
@@ -141,7 +137,7 @@
       "url": "https://open.spotify.com/track/0MbmPT6btZ8e3oMGkAAA00"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "Maybe Tomorrow",
         "url": "https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6"
@@ -157,7 +153,7 @@
       "url": "https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "Soar - The 2nd Album",
         "url": "https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9"
@@ -173,7 +169,7 @@
       "url": "https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "summer flows 0.02",
         "url": "https://open.spotify.com/album/3NRNR4txhuRLhnQUUlqWXH"
@@ -189,7 +185,7 @@
       "url": "https://open.spotify.com/track/5VBjyOQzqlPNgdRPMM6prF"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "WRLD",
         "url": "https://open.spotify.com/album/3TCF95qK3XaMBjmEuXwQHQ"
@@ -205,7 +201,7 @@
       "url": "https://open.spotify.com/track/3znyY1uJaVlB8DBypreIhP"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "Panic",
         "url": "https://open.spotify.com/album/0sUxlp7O7SrVU6I1Ol6J5H"
@@ -221,7 +217,7 @@
       "url": "https://open.spotify.com/track/3PTQ2rPfaPDxqpXOcRlTsZ"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "Demons [The Seasons: Cantabile of Park Bo Gum]",
         "url": "https://open.spotify.com/album/5azuOkskQCiqXx7SYiHsMa"
@@ -237,7 +233,7 @@
       "url": "https://open.spotify.com/track/30oEeJE3bxNMODjscH9Scl"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "0.1 flaws and all.",
         "url": "https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML"
@@ -253,7 +249,7 @@
       "url": "https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "Caligo Pt.1",
         "url": "https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep"
@@ -269,7 +265,7 @@
       "url": "https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
         "url": "https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN"
@@ -285,7 +281,7 @@
       "url": "https://open.spotify.com/track/0z2DWFjnHhuWjlMFqAH4GN"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "eight",
         "url": "https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt"
@@ -305,7 +301,7 @@
       "url": "https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
@@ -321,39 +317,7 @@
       "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
-      "album": {
-        "name": "Still Life",
-        "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 188369,
-      "name": "Still Life",
-      "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
-    },
-    {
-      "added_at": "2025-06-24 09:10:04",
-      "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 224968,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/20Ahyv93KKjMuDHAVy2yjr"
-    },
-    {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "3rd Mini Album 'In a million noises, I'll be your harmony'",
         "url": "https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV"
@@ -369,7 +333,39 @@
       "url": "https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
+      "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 224968,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/20Ahyv93KKjMuDHAVy2yjr"
+    },
+    {
+      "added_at": "2025-06-26 00:52:18",
+      "album": {
+        "name": "Still Life",
+        "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 188369,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
+    },
+    {
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "To Reach You",
         "url": "https://open.spotify.com/album/6cSbfbsVtQpnvFcRsYru1P"
@@ -385,7 +381,7 @@
       "url": "https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
@@ -401,7 +397,7 @@
       "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
@@ -417,7 +413,7 @@
       "url": "https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "Resident Playbook, Pt. 7 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6V21UD13g0tZrqe5UCps16"
@@ -433,7 +429,7 @@
       "url": "https://open.spotify.com/track/2XtNYB72kf5QEhYDdPZdc7"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "Void",
         "url": "https://open.spotify.com/album/7MVDBgukYtYUtFA9a5QKYn"
@@ -449,55 +445,7 @@
       "url": "https://open.spotify.com/track/7w4uUETSzQHNItfRI8w2MA"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
-      "album": {
-        "name": "Shoot Me : Youth Part 1",
-        "url": "https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 175836,
-      "name": "Shoot Me",
-      "url": "https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ"
-    },
-    {
-      "added_at": "2025-06-24 09:10:04",
-      "album": {
-        "name": "Really Like You",
-        "url": "https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu"
-      },
-      "artists": [
-        {
-          "name": "Gyubin",
-          "url": "https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Really Like You",
-      "url": "https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox"
-    },
-    {
-      "added_at": "2025-06-24 09:10:04",
-      "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
-      },
-      "artists": [
-        {
-          "name": "HYUKOH",
-          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "Wi Ing Wi Ing",
-      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
-    },
-    {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "1st Mini Album 'MANITO'",
         "url": "https://open.spotify.com/album/58749dw7F011CU9lRmX0MO"
@@ -513,7 +461,55 @@
       "url": "https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
+      "album": {
+        "name": "Shoot Me : Youth Part 1",
+        "url": "https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 175836,
+      "name": "Shoot Me",
+      "url": "https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ"
+    },
+    {
+      "added_at": "2025-06-26 00:52:18",
+      "album": {
+        "name": "Really Like You",
+        "url": "https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu"
+      },
+      "artists": [
+        {
+          "name": "Gyubin",
+          "url": "https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS"
+        }
+      ],
+      "duration_ms": 178133,
+      "name": "Really Like You",
+      "url": "https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox"
+    },
+    {
+      "added_at": "2025-06-26 00:52:18",
+      "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        }
+      ],
+      "duration_ms": 194866,
+      "name": "Wi Ing Wi Ing",
+      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
+    },
+    {
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "YOUTH - The 1st Album",
         "url": "https://open.spotify.com/album/06VXjmfFLNhkSLEe94ROXj"
@@ -529,7 +525,7 @@
       "url": "https://open.spotify.com/track/1Y5D7m2QtyBdvwvY3gAVNQ"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/4Zd5O0llwgfmpJoZOeKWiQ"
@@ -545,23 +541,7 @@
       "url": "https://open.spotify.com/track/43NeZM2TbrQr6djoAnDyVo"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
-      "album": {
-        "name": "The Book of Us : The Demon",
-        "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 209259,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
-    },
-    {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "ASTERUM : 134-1",
         "url": "https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS"
@@ -577,23 +557,7 @@
       "url": "https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
-      "album": {
-        "name": "Resident Playbook, Pt. 8 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5iuDI9yIR5v8ayzQ4poPCu"
-      },
-      "artists": [
-        {
-          "name": "Mido and Falasol",
-          "url": "https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq"
-        }
-      ],
-      "duration_ms": 288868,
-      "name": "Someday It\u2032s Time to Shine",
-      "url": "https://open.spotify.com/track/5HFrbl4QXzy8lgNj60YZqR"
-    },
-    {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "Youth",
         "url": "https://open.spotify.com/album/3Tt2lX8MvtFWaFhVKYhKIO"
@@ -609,39 +573,23 @@
       "url": "https://open.spotify.com/track/2ZTU8atPwouhoQSvxv9aQj"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/1ifwystmHNV1dbgLni1hNA"
+        "name": "The Book of Us : The Demon",
+        "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
       },
       "artists": [
         {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
         }
       ],
-      "duration_ms": 176466,
-      "name": "RED",
-      "url": "https://open.spotify.com/track/6kcXrU60QTkMRBRd3O0Rrq"
+      "duration_ms": 209259,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
-      "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B"
-      },
-      "artists": [
-        {
-          "name": "HYUKOH",
-          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
-        }
-      ],
-      "duration_ms": 241692,
-      "name": "TOMBOY",
-      "url": "https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng"
-    },
-    {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "UNSTABLE MINDSET",
         "url": "https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s"
@@ -661,23 +609,71 @@
       "url": "https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
-        "name": "Fourever",
-        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
+        "name": "RED",
+        "url": "https://open.spotify.com/album/1ifwystmHNV1dbgLni1hNA"
       },
       "artists": [
         {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 217067,
-      "name": "Welcome to the Show",
-      "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"
+      "duration_ms": 176466,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/6kcXrU60QTkMRBRd3O0Rrq"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
+      "album": {
+        "name": "Resident Playbook, Pt. 8 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5iuDI9yIR5v8ayzQ4poPCu"
+      },
+      "artists": [
+        {
+          "name": "Mido and Falasol",
+          "url": "https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq"
+        }
+      ],
+      "duration_ms": 288868,
+      "name": "Someday It\u2032s Time to Shine",
+      "url": "https://open.spotify.com/track/5HFrbl4QXzy8lgNj60YZqR"
+    },
+    {
+      "added_at": "2025-06-26 00:52:18",
+      "album": {
+        "name": "If I have you only (My love X Nerd Connection)",
+        "url": "https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b"
+      },
+      "artists": [
+        {
+          "name": "Nerd Connection",
+          "url": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "If I have you only (My love X Nerd Connection)",
+      "url": "https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL"
+    },
+    {
+      "added_at": "2025-06-26 00:52:18",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        }
+      ],
+      "duration_ms": 241692,
+      "name": "TOMBOY",
+      "url": "https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng"
+    },
+    {
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "Sound of Music pt.1",
         "url": "https://open.spotify.com/album/0MszgvODJojjzJCNmlWWGu"
@@ -697,23 +693,7 @@
       "url": "https://open.spotify.com/track/4dA19AW8ehIYVOScdWu4IT"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
-      "album": {
-        "name": "If I have you only (My love X Nerd Connection)",
-        "url": "https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b"
-      },
-      "artists": [
-        {
-          "name": "Nerd Connection",
-          "url": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
-        }
-      ],
-      "duration_ms": 250573,
-      "name": "If I have you only (My love X Nerd Connection)",
-      "url": "https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL"
-    },
-    {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "Pump Up The Volume!",
         "url": "https://open.spotify.com/album/2umFPxDbxvmTOnGjfGcttm"
@@ -729,7 +709,7 @@
       "url": "https://open.spotify.com/track/34DtDWmIUacoop6Md298vE"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "Beautiful Mind",
         "url": "https://open.spotify.com/album/0h4U9eKaISbwP93lglW6s6"
@@ -745,7 +725,7 @@
       "url": "https://open.spotify.com/track/14nP0U50fCX3F3PjSgE4lb"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "when the rain stopped following me",
         "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
@@ -761,7 +741,23 @@
       "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
+      "album": {
+        "name": "Fourever",
+        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 217067,
+      "name": "Welcome to the Show",
+      "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"
+    },
+    {
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "Forever Has Always Been",
         "url": "https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df"
@@ -777,7 +773,7 @@
       "url": "https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "Traffic light",
         "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
@@ -793,7 +789,7 @@
       "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
         "name": "\ub098\ubb34",
         "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
@@ -809,20 +805,20 @@
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
     },
     {
-      "added_at": "2025-06-24 09:10:04",
+      "added_at": "2025-06-26 00:52:18",
       "album": {
-        "name": "ENTITY",
-        "url": "https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E"
+        "name": "\u200eGood Night Good Dream",
+        "url": "https://open.spotify.com/album/4VLZnvJ9dnuEnF57Pbashc"
       },
       "artists": [
         {
-          "name": "Cha Eun-Woo",
-          "url": "https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU"
+          "name": "Nerd Connection",
+          "url": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
         }
       ],
-      "duration_ms": 173986,
-      "name": "STAY",
-      "url": "https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY"
+      "duration_ms": 265983,
+      "name": "\u200eGood Night Good Dream",
+      "url": "https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

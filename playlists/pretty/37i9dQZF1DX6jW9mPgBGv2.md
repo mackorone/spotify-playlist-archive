@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Eladio Carrion plantando cara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,152 likes - 103 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,222 likes - 103 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

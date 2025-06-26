@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162181,
+  "num_followers": 162179,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFiZAAAAAACa8yb6Th7dR02CKrdg5Vqy",
+  "snapshot_id": "aFnqgAAAAACSNsO8E2w9IYxow7cQCBF1",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jesus Cristo Basta (Jesucristo Basta) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw"
+      },
+      "artists": [
+        {
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Jesus Cristo Basta (Jesucristo Basta) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ele Vem / A Cidade Santa (Ao Vivo)",
         "url": "https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 329586,
       "name": "Ele Vem / A Cidade Santa - Ao Vivo",
       "url": "https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jesus Cristo Basta (Jesucristo Basta) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw"
-      },
-      "artists": [
-        {
-          "name": "Mari Borges",
-          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
-        },
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Jesus Cristo Basta (Jesucristo Basta) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Sempre (Forever)",
-        "url": "https://open.spotify.com/album/6NLD0fV3Bc9Huw2kxmeW2s"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 402500,
-      "name": "Pra Sempre (Forever)",
-      "url": "https://open.spotify.com/track/2Bqo9gax65ExHellyl2qZM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Som de Adoradores",
         "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 394924,
       "name": "Te Adorar \u00e9 o Meu Prazer",
       "url": "https://open.spotify.com/track/3tzl7KLt2URgiPTgqHf7uS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pra Sempre (Forever)",
+        "url": "https://open.spotify.com/album/6NLD0fV3Bc9Huw2kxmeW2s"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 402500,
+      "name": "Pra Sempre (Forever)",
+      "url": "https://open.spotify.com/track/2Bqo9gax65ExHellyl2qZM"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia 2",
-        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 189939,
-      "name": "Pedro, Tiago e Jo\u00e3o no Barquinho",
-      "url": "https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Minha Ora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 307250,
       "name": "Refinador (Refiner)",
       "url": "https://open.spotify.com/track/2zMg5jNFn6cv6imFPrYuBR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aline Barros e Cia 2",
+        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 189939,
+      "name": "Pedro, Tiago e Jo\u00e3o no Barquinho",
+      "url": "https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia 3",
-        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 202524,
-      "name": "Pisa na Muralha",
-      "url": "https://open.spotify.com/track/73lX64r9ZjNbprMuwrxznZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Firme Fundamento",
         "url": "https://open.spotify.com/album/02HmXXgKPXyy7IrKpNQ5bI"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 387779,
       "name": "Vem Fluir (Fall Like Rain)",
       "url": "https://open.spotify.com/track/73GBRTMrYpZu9XBxhwDpzu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aline Barros e Cia 3",
+        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 202524,
+      "name": "Pisa na Muralha",
+      "url": "https://open.spotify.com/track/73lX64r9ZjNbprMuwrxznZ"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia 3",
-        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 250543,
-      "name": "Eu Li na B\u00edblia",
-      "url": "https://open.spotify.com/track/73ACUt1xfsU6HAolULv9Fp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Firme Fundamento",
         "url": "https://open.spotify.com/album/02HmXXgKPXyy7IrKpNQ5bI"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 297082,
       "name": "1 Cor\u00edntios 13",
       "url": "https://open.spotify.com/track/0Re0Xx7XqRJqXyjQStX48Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aline Barros e Cia 3",
+        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 250543,
+      "name": "Eu Li na B\u00edblia",
+      "url": "https://open.spotify.com/track/73ACUt1xfsU6HAolULv9Fp"
     },
     {
       "added_at": null,

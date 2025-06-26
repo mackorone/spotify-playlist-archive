@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off\. cover: OVI WOOD
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,453 likes - 172 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,756 likes - 172 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [If I Say I Hate U I Mean It](https://open.spotify.com/track/6IumWBzpQyBCIkxo0aKZo3) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ), [SAHXL](https://open.spotify.com/artist/3XCaZ6eGvtiroxXdACE9HH) | [If I Say I Hate U I Mean It](https://open.spotify.com/album/1PJ74qpU6fHxEUuHCA5w0O) | 2:35 |
+| 1 | [If I Say I Hate U I Mean It](https://open.spotify.com/track/6IumWBzpQyBCIkxo0aKZo3) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ), [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [If I Say I Hate U I Mean It](https://open.spotify.com/album/1PJ74qpU6fHxEUuHCA5w0O) | 2:35 |
 | 2 | [On The Low](https://open.spotify.com/track/3h4t0ZP2mzTPYyiyERgtVR) | [Aaron Page](https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ) | [Before I Go](https://open.spotify.com/album/366XvcUJsBFppuOhYRvsLW) | 4:16 |
 | 3 | [expensive taste](https://open.spotify.com/track/5O9RKqCOHDm8uCFhsnObTU) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [TWENTY TWENTY TYDE](https://open.spotify.com/album/3ES7lXUgaCTijTgNlspi5s) | 2:31 |
 | 4 | [Just Like Me](https://open.spotify.com/track/2uD06ODYnSoHFNbskqXIn5) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Just Like Me](https://open.spotify.com/album/5FcEHDCPADtQwrz4gw9wnh) | 3:24 |

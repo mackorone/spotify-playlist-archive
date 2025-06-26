@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Just a broken machine
 
-1,449 songs - 3 day 9 hr 43 min
+1,450 songs - 3 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1079,6 +1079,7 @@
 | [只想有人令我呼叫 \(feat\. 絵麗奈 Erena So\)](https://open.spotify.com/track/5uEstLfRPUgShflpMbh0ON) | [P.R.O.J.E.C.T\. 9](https://open.spotify.com/artist/5vXHFDWT0spUFXucafkyV7), [絵麗奈 Erena So](https://open.spotify.com/artist/14SH1hZNtnwtiX9P7hHezA) | [只想有人令我呼叫 \(feat\. 絵麗奈 Erena So\)](https://open.spotify.com/album/6TGMTWPg3jC81Y5yC4occr) | 3:24 | 2023-09-07 | 2023-12-01 |
 | [可否一起寂寞到最後](https://open.spotify.com/track/3KtINGlRBFf8MFHPEmm1OP) | [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [可否一起寂寞到最後](https://open.spotify.com/album/4jII8Ll5dJ3XxSpHvvWk3t) | 3:48 | 2024-01-25 | 2024-05-10 |
 | [可惜夜](https://open.spotify.com/track/2GZN7n3HbuQXaX5dq8NCPZ) | [SADJAY](https://open.spotify.com/artist/5BRK53kNRxF6YesUpRSv9v) | [可惜夜](https://open.spotify.com/album/7lzKwKSHFYfbOU3QcXUugN) | 3:11 | 2024-09-26 | 2025-02-14 |
+| [名為自然的告別](https://open.spotify.com/track/5qlCDx2eZXGnWxAtbxeSzW) | [Gordon Ho](https://open.spotify.com/artist/1k0HqYv6UVaBu3spRZcSTn) | [名為自然的告別](https://open.spotify.com/album/2pAw8PCv8qwKhU8NSZQaIG) | 5:40 | 2025-06-25 |  |
 | [向日葵](https://open.spotify.com/track/0s0AMmGegwVirk3CivLCnt) | [風正](https://open.spotify.com/artist/4bJ89gRIHM14T4ZIzaBoEp) | [向日葵](https://open.spotify.com/album/5zlP3tHloRKnMO5wKEyUqm) | 2:22 | 2025-03-27 |  |
 | [君莫問](https://open.spotify.com/track/0aTRqpyXgGs3yfnlRR4IBF) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [君莫問](https://open.spotify.com/album/5jCsCSxXDojiRu92WdoXFG) | 3:07 | 2023-05-25 | 2023-09-01 |
 | [吟鈴](https://open.spotify.com/track/27ytVYZJ0OWpMz3DxnOj2h) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [吟鈴](https://open.spotify.com/album/54iUsAIGzduKUSMwCMKYpF) | 2:58 | 2023-02-09 | 2023-07-14 |

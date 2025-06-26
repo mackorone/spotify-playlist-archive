@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover:  Planetshakers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,030,921 likes - 95 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,030,908 likes - 95 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 54 | [I Look To The Hills \(I Love You Lord\)](https://open.spotify.com/track/75gzk1oz80UeqkpXbEzq6V) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [I Look To The Hills \(I Love You Lord\)](https://open.spotify.com/album/1rfYcJez8IuocKuOc5nPWk) | 4:26 |
 | 55 | [Only the Father Remains](https://open.spotify.com/track/3BgTM3gsJWA6nd1EELUdsp) | [Austin Ludwig](https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL), [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [Only the Father Remains](https://open.spotify.com/album/1yj7Q4IEkqv4kUxdtCa260) | 4:27 |
 | 56 | [Jesus I Will Worship You](https://open.spotify.com/track/7fGOHYkVSMlfsYvugh1JqH) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [Higher Name \(Deluxe\)](https://open.spotify.com/album/5IbU47chqJIif2YZRXWcQh) | 3:59 |
-| 57 | [Even If Extended Version](https://open.spotify.com/track/54Jo9jId9m4vcLhdW988ob) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Even If Extended Version](https://open.spotify.com/album/6jyiAFxEifoKfwjBmcjVFU) | 9:27 |
+| 57 | [Even If Extended Version \(Live\)](https://open.spotify.com/track/54Jo9jId9m4vcLhdW988ob) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Even If Extended Version \(Live\)](https://open.spotify.com/album/6jyiAFxEifoKfwjBmcjVFU) | 9:27 |
 | 58 | [Remember Christ](https://open.spotify.com/track/6BuzWDphO9StRX45gLCCRf) | [CXMMXNS](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa), [David Ware](https://open.spotify.com/artist/7u4dUkbQ3gqCiVNge3xUc7) | [Remember Christ](https://open.spotify.com/album/1Bt6HpkfPaNGpASQR3u4RZ) | 3:10 |
 | 59 | [In The Name of Jesus \(feat\. Chandler Moore\)](https://open.spotify.com/track/4O2mQtteYmGU173GcZjn6C) | [JWLKRS Worship](https://open.spotify.com/artist/0wczmL4iUleqcy10Ek5Eyh), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [In The Name of Jesus \(feat\. Chandler Moore\)](https://open.spotify.com/album/489O9Hpa91OGXlYOoodr8o) | 4:58 |
 | 60 | [Walk With You \- Live](https://open.spotify.com/track/2aJKHm8dq5EJ2qJbD9dUBA) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq) | [Walk With You \(Live from LO Conference\)](https://open.spotify.com/album/1FDPTLQm3vOPlIXZRljbs8) | 6:45 |

@@ -4,7 +4,7 @@
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-367 songs - 22 hr 35 min
+370 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [City Drive](https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [City Drive](https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1) | 3:27 | 2022-05-11 | 2024-09-14 |
 | [City Girl City Boy](https://open.spotify.com/track/6mWRDboiaEyDHFehyjEAPX) | [The Night Of Seokyo](https://open.spotify.com/artist/6vrBuDdSYNTK6CwCVflTnx), [Dawon](https://open.spotify.com/artist/0L4d5EwDWqTEOTjztWF0mw) | [City Girl City Boy](https://open.spotify.com/album/3cvNrNF9w8NfFbGF4gPw4x) | 3:42 | 2022-05-11 | 2022-07-27 |
 | [City Light](https://open.spotify.com/track/4pVqvBttw55NmUSqishQXH) | [JD](https://open.spotify.com/artist/6BJ76jC5b2bwoRVKrJg2qW) | [City Light](https://open.spotify.com/album/1tDEBYIEhLQiaru9SQ7S15) | 3:19 | 2022-05-11 | 2022-07-29 |
+| [City light](https://open.spotify.com/track/1tLIU48UtU6AWg2NLyUUeV) | [Jeong Jinwoon](https://open.spotify.com/artist/0TP4BhbuNVvO5aIPJlTFjh) | [City light](https://open.spotify.com/album/4xynt37Ufrv0VGhymWidGW) | 4:23 | 2025-06-26 |  |
 | [City Night \(feat\. Jisun\)](https://open.spotify.com/track/7rYsqkzEoRAVFLYnOXBw8J) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Jisun](https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0) | [EGO 90'S PART 3](https://open.spotify.com/album/5550oPn3XJSepXsVjXlKAQ) | 3:40 | 2024-08-01 |  |
 | [City View](https://open.spotify.com/track/4di5ecJU8Rl40CgNvsV98Z) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD) | [City View / Her](https://open.spotify.com/album/1nVJNJhvhnTZGUlDKQDyfW) | 3:28 | 2025-06-17 |  |
 | [Cocktail love](https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Cocktail love](https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws) | 3:24 | 2024-09-13 |  |
@@ -89,6 +90,7 @@
 | [Come With Me \(feat\. Aden & H!\)](https://open.spotify.com/track/5cyfnscoiwhmGnOZYvR9QJ) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [H!](https://open.spotify.com/artist/0VwH1YpRJDhqULKTKjPWX0) | [Seoul Vibes, Oceanic](https://open.spotify.com/album/4DqKZBow5uuKTQQiDoSjTF) | 3:11 | 2022-05-11 | 2022-12-16 |
 | [Cream Dream](https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj) | [TrophyCat](https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK) | [Cream Dream](https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj) | 3:16 | 2022-05-11 |  |
 | [Cristal Love](https://open.spotify.com/track/056ve9qgYBqfAadX29x9ds) | [En Sokum](https://open.spotify.com/artist/3RjGXbgDR40y0ZzZhCACfF) | [Cristal Love](https://open.spotify.com/album/5sIhEUT8XBrUpdIsFkXkjK) | 3:37 | 2022-12-21 | 2025-06-19 |
+| [Dance](https://open.spotify.com/track/0u0kDz1dSN9jIaUltUHUTe) | [Yunjin](https://open.spotify.com/artist/4v1XwaMgeiN8T1wrxG6Gfq) | [Tiny Confessions](https://open.spotify.com/album/4akatM2ROnos5S3iY7pyqf) | 3:07 | 2025-06-26 |  |
 | [Dance with me](https://open.spotify.com/track/5FjWYxObr9sutnoyn0zFg2) | [Yein](https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ) | [Dance with me](https://open.spotify.com/album/5Sc06S5Xx70hzYNyOlUT68) | 3:30 | 2024-09-11 |  |
 | [Dancing in the dark](https://open.spotify.com/track/4thTe1la1ryfo1aDqpg1xy) | [Yeo Jin](https://open.spotify.com/artist/6T1L8TS6LeXIDHYnDAMHFe) | [Dancing in the dark](https://open.spotify.com/album/1demoaTSF4LmwjuzgbMvzF) | 2:48 | 2025-06-12 |  |
 | [Dawn](https://open.spotify.com/track/7mE4LGndCfJwJLAzd6KU5M) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Dawn](https://open.spotify.com/album/3vFZZ2VReaSF8S1IaoyYZA) | 4:01 | 2022-07-04 | 2024-05-16 |
@@ -170,8 +172,8 @@
 | [I’m not good at](https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS) | [Mitty](https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ) | [I’m not good at](https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc) | 3:43 | 2024-02-07 |  |
 | [I′m Alright](https://open.spotify.com/track/1EmSHvEUIwjzJOHXSXNhzj) | [QUDO](https://open.spotify.com/artist/5tlKesRTuMzjFhGMxoDRqf), [Sehwan Hong](https://open.spotify.com/artist/3djMK9mGuqKGYH4h9putId) | [INCHEON CITYPOP Vol\. 1](https://open.spotify.com/album/73rd6npj17FEsbxfNfEdJH) | 3:46 | 2022-05-11 | 2025-05-09 |
 | [Jam Jam](https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 3:38 | 2022-05-11 |  |
-| [Key](https://open.spotify.com/track/6WXk1j2C4bmFcPUCJi6yUp) | [MIYAO](https://open.spotify.com/artist/3b9hFfDY5qpvvBDKinaJss) | [Key](https://open.spotify.com/album/2yt2Xk0ySai7UGWIXmDtfJ) | 3:29 | 2025-04-17 |  |
-| [Kona \(feat\. Jennifer Choi\)](https://open.spotify.com/track/2gw0RI5FJUgLHZuyLFYAvx) | [90yonge St.](https://open.spotify.com/artist/1eJGTmb81YxxbykvAezg2r), [Jennifer Choi](https://open.spotify.com/artist/3W2mgO6CNMSZc9qD4J6nJQ) | [Kona \(feat\. Jennifer Choi\)](https://open.spotify.com/album/2O6Q3bYc8H7mi2NkED3LA7) | 3:35 | 2022-05-11 |  |
+| [Key](https://open.spotify.com/track/6WXk1j2C4bmFcPUCJi6yUp) | [MIYAO](https://open.spotify.com/artist/3b9hFfDY5qpvvBDKinaJss) | [Key](https://open.spotify.com/album/2yt2Xk0ySai7UGWIXmDtfJ) | 3:29 | 2025-04-17 | 2025-06-26 |
+| [Kona \(feat\. Jennifer Choi\)](https://open.spotify.com/track/2gw0RI5FJUgLHZuyLFYAvx) | [90yonge St.](https://open.spotify.com/artist/1eJGTmb81YxxbykvAezg2r), [Jennifer Choi](https://open.spotify.com/artist/3W2mgO6CNMSZc9qD4J6nJQ) | [Kona \(feat\. Jennifer Choi\)](https://open.spotify.com/album/2O6Q3bYc8H7mi2NkED3LA7) | 3:35 | 2022-05-11 | 2025-06-26 |
 | [Ladies Night](https://open.spotify.com/track/73pkNaWK4N5QfkjabwW40s) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Day 2](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) | 3:56 | 2022-05-11 |  |
 | [Landed](https://open.spotify.com/track/1BH2UbAeAVTcODPFQjX5gw) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing Can Tear Us Apart](https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc) | 3:55 | 2022-05-11 | 2023-06-07 |
 | [Landed](https://open.spotify.com/track/6qLjAAxNEoJvZJiAREQubY) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing can tear us apart](https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq) | 3:55 | 2023-05-05 | 2024-04-19 |
@@ -280,7 +282,7 @@
 | [Someone like U](https://open.spotify.com/track/4TmLdQlOV37Xp6mlyQAGBA) | [Dalshabet](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) | [Naturalness](https://open.spotify.com/album/2cKoCocQwbuvCRhGs9T2tW) | 3:20 | 2023-02-14 | 2023-08-08 |
 | [Someone like U](https://open.spotify.com/track/5MVO70G8Eqip01bvrrQHSg) | [Dalshabet](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) | [Naturalness](https://open.spotify.com/album/1KIV6HQCntQVl792TVfVCA) | 3:20 | 2023-07-13 | 2024-04-19 |
 | [Someone like U](https://open.spotify.com/track/5zbxw72g850H4fNMFEO7PC) | [Dalshabet](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) | [The 9th Mini Album 'Naturalness'](https://open.spotify.com/album/7ajKOgmGaCCrqSVIgxbnNf) | 3:20 | 2022-07-04 | 2023-03-03 |
-| [Something](https://open.spotify.com/track/6hsefiVeZtpyExvPcI1Rt3) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [Something](https://open.spotify.com/album/64hw34kgQuqdjf5NidMHoo) | 4:40 | 2023-05-05 |  |
+| [Something](https://open.spotify.com/track/6hsefiVeZtpyExvPcI1Rt3) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [Something](https://open.spotify.com/album/64hw34kgQuqdjf5NidMHoo) | 4:40 | 2023-05-05 | 2025-06-26 |
 | [Sorrow](https://open.spotify.com/track/0XwGln1yachgJd8PMrfzZ5) | [kursor](https://open.spotify.com/artist/1E72qKtO7O98IKj51642TR) | [Sorrow](https://open.spotify.com/album/4j7fShY9MfyKPgq5czbii0) | 3:28 | 2022-05-11 |  |
 | [SOUL LADY](https://open.spotify.com/track/30QkQEqjW4U7PEtRHRsPOX) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/16yrp3d9pCJgQK2RMBTtd1) | 3:35 | 2022-05-11 | 2022-07-28 |
 | [SOUL LADY](https://open.spotify.com/track/6at6MpTibyLqAYnBee95Ev) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF) | 3:35 | 2022-07-22 |  |
@@ -373,6 +375,7 @@
 | [우리 둘만 특별하게](https://open.spotify.com/track/7k5i9hzO4rq5Qk3NOTdjo2) | [Sugarbowl](https://open.spotify.com/artist/0SzEYg3WelMs62HakSDhPH) | [lovers 4/6](https://open.spotify.com/album/2heqZChEg4UgSBjLYjQ0UW) | 3:37 | 2022-06-09 | 2022-06-30 |
 | [우리 사랑이 툭 끝나면](https://open.spotify.com/track/4ZXn6hhRmyNTkTcYuiQY3O) | [해인](https://open.spotify.com/artist/6ytR9OnLd6GKqUbY1PyFiS) | [우리 사랑이 툭 끝나면](https://open.spotify.com/album/1Zo5lA52LwDkOCqIh1i53K) | 3:17 | 2024-09-13 | 2024-12-26 |
 | [이 순간 Remember](https://open.spotify.com/track/5RJWYPiBiEtqKDWLfHHr9B) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/3qVG71ED0PeWluJVoJaROJ) | 3:45 | 2022-05-11 | 2022-07-26 |
+| [지켜줄게](https://open.spotify.com/track/0FfGs47PNQ81c01ceX8kdL) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our love is great](https://open.spotify.com/album/3u7AUa79VCbxgikKvwlLyJ) | 3:44 | 2025-06-26 |  |
 | [코코넛 러브 Coconut Love](https://open.spotify.com/track/5f1RLYrL4272Gm5lHxuLFD) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [코코넛 러브 Coconut Love](https://open.spotify.com/album/2TDl3weGAb7UUd8xf5CyYk) | 3:14 | 2022-09-05 | 2023-10-05 |
 | [트리트먼트](https://open.spotify.com/track/5Myuon0t8Z4nvlynUaXj64) | [박세웅](https://open.spotify.com/artist/0qsmcnZcse4RGtukiCpvgQ) | [트리트먼트](https://open.spotify.com/album/5l2AccjDSZ93NNqwjH64E1) | 3:17 | 2025-05-30 | 2025-06-05 |
 

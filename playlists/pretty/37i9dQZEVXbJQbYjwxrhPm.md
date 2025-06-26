@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 997 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 999 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [К'ъв съм як](https://open.spotify.com/track/6z6PaDoMisMAHCB2OKwsrf) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [К'ъв съм як](https://open.spotify.com/album/7j3nIj23kSaqcZ0bYaWswl) | 3:15 |
 | 50 | [Нашата](https://open.spotify.com/track/1fTNb11PK6Ode6hx4bC8pl) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai), [Lidia](https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN), [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ), [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq), [Adam](https://open.spotify.com/artist/696J4fiOALx5ifVKv10VbK), [Costi](https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw) | [Нашата](https://open.spotify.com/album/4Wbs7T5xkCSeCv7tgugC4C) | 3:16 |
 
-Snapshot ID: `L+4W+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L+9oeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

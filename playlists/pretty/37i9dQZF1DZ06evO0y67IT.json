@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 8792,
+  "num_followers": 8795,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFiZAAAAAAAZJUreYVJ7Y7vn6k1YX1ag",
+  "snapshot_id": "aFnqgAAAAAD20OtcZMXKwG7KcEo4CK37",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 186653,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hawthorne Heights / Emery",
         "url": "https://open.spotify.com/album/0R46evZSMibVrQooZN69xg"
       },
@@ -527,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Frequencies",
-        "url": "https://open.spotify.com/album/1Nlnc7r6wgmpnUFKQ9gEAf"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "The Perfect Way to Fall Apart",
-      "url": "https://open.spotify.com/track/1PLqYyRbCsteMhCLMn4g2X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rain Just Follows Me",
         "url": "https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG"
       },
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+        "name": "Bad Frequencies",
+        "url": "https://open.spotify.com/album/1Nlnc7r6wgmpnUFKQ9gEAf"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 186653,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
+      "duration_ms": 249000,
+      "name": "The Perfect Way to Fall Apart",
+      "url": "https://open.spotify.com/track/1PLqYyRbCsteMhCLMn4g2X"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Frequencies",
-        "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 217113,
-      "name": "Pet Sematary",
-      "url": "https://open.spotify.com/track/2JSJ8qYk6Kvzmb87pTRsjn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nine Reasons To Say Goodbye",
         "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lost Frequencies",
+        "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 217113,
+      "name": "Pet Sematary",
+      "url": "https://open.spotify.com/track/2JSJ8qYk6Kvzmb87pTRsjn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hate",
         "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
       },
@@ -687,6 +687,22 @@
       "duration_ms": 266314,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/7vDSpbz16ylQ6tnUFpfIB6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost Lights",
+        "url": "https://open.spotify.com/album/7rt4AToj7D1GTIuBM1LDyv"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 224762,
+      "name": "We Were Never Lost",
+      "url": "https://open.spotify.com/track/6oNQdqeYRMHi3ywjbrpoyB"
     },
     {
       "added_at": null,
@@ -711,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Lights",
-        "url": "https://open.spotify.com/album/7rt4AToj7D1GTIuBM1LDyv"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 224762,
-      "name": "We Were Never Lost",
-      "url": "https://open.spotify.com/track/6oNQdqeYRMHi3ywjbrpoyB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nine Reasons To Say Goodbye",
         "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lucerne Valley",
-        "url": "https://open.spotify.com/album/1fOyNLMEMixVgnwph2IdDy"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 207899,
-      "name": "Lucerne Valley",
-      "url": "https://open.spotify.com/track/26aXw0iAdIepJSw9vWn9ZF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hate",
         "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
       },
@@ -779,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fragile Future",
-        "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
+        "name": "Lucerne Valley",
+        "url": "https://open.spotify.com/album/1fOyNLMEMixVgnwph2IdDy"
       },
       "artists": [
         {
@@ -788,9 +772,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 226826,
-      "name": "The Business Of Paper Stars",
-      "url": "https://open.spotify.com/track/4XS6rBFtB8gZ2DQe3RFrLP"
+      "duration_ms": 207899,
+      "name": "Lucerne Valley",
+      "url": "https://open.spotify.com/track/26aXw0iAdIepJSw9vWn9ZF"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 182378,
       "name": "Studying Politics",
       "url": "https://open.spotify.com/track/60gIh4WWldcXdpWubK5Ntj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fragile Future",
+        "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 226826,
+      "name": "The Business Of Paper Stars",
+      "url": "https://open.spotify.com/track/4XS6rBFtB8gZ2DQe3RFrLP"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 
 > Prominent Indian independent music creators\. Cover \- Lucky Ali
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,614 likes - 40 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,632 likes - 40 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 | 39 | [But It Rained \(Deluxe\)](https://open.spotify.com/track/2t50GB1d3Ua4WmdsIotmM5) | [Parikrama](https://open.spotify.com/artist/5I6pG3raoZlKYMjgGa6eFn) | [But It Rained \(Deluxe\)](https://open.spotify.com/album/1wtXVpD1T2swmcbgJLbFof) | 7:05 |
 | 40 | [Kandisa](https://open.spotify.com/track/2wQqVbWE7FI47lEXPEoocc) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Kandisa](https://open.spotify.com/album/4MBagMMRFRIvXGcg0Ph6rI) | 7:40 |
 
-Snapshot ID: `aCLuZgAAAAAYEGMRdabMB4lONAHAnn15`
+Snapshot ID: `aFufpQAAAACegmlj8EfXRhzUgZ5Am8PB`

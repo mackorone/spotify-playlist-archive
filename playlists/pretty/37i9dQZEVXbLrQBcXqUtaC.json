@@ -6,10 +6,26 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L+4W+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L+9oeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
+      "album": {
+        "name": "James Arthur (Deluxe)",
+        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/5yVIlYEHZxQVLyInCdldoS"
+    },
+    {
+      "added_at": "2025-06-25 13:12:46",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
       "album": {
         "name": "\u0639\u0641\u062a\u0646\u064a",
         "url": "https://open.spotify.com/album/6zNPnvXdp0lpC4Kj73yp3d"
@@ -41,23 +57,7 @@
       "url": "https://open.spotify.com/track/5WFEeDclrtcviUwnbpHiiF"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
-      "album": {
-        "name": "James Arthur",
-        "url": "https://open.spotify.com/album/7pzwt3MlcxBDbLwfKXpOuW"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/6skGMlljk0s5yeBKZ7sN5n"
-    },
-    {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
       "album": {
         "name": "\u0634\u0644\u0648\u0646 \u0628\u064a\u0629",
         "url": "https://open.spotify.com/album/0J0RqERed7yk2EIcnJlX9P"
@@ -73,23 +73,7 @@
       "url": "https://open.spotify.com/track/4QlbWOnT3ZoR2mTsyg362u"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
-      "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
-    },
-    {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -105,7 +89,39 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
+      "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
+    {
+      "added_at": "2025-06-25 13:12:46",
+      "album": {
+        "name": "\u0627\u0644\u0643 \u0627\u0644\u0643 \u06af\u0644\u0628\u064a \u064a\u062d\u0646",
+        "url": "https://open.spotify.com/album/1Md98V783M9Nuzhu2lQP8u"
+      },
+      "artists": [
+        {
+          "name": "\u0633\u062c\u0627\u062f \u062d\u0642\u064a",
+          "url": "https://open.spotify.com/artist/0hbX3CLGvUFpNGKXHQLe8g"
+        }
+      ],
+      "duration_ms": 81200,
+      "name": "\u0627\u0644\u0643 \u0627\u0644\u0643 \u06af\u0644\u0628\u064a \u064a\u062d\u0646",
+      "url": "https://open.spotify.com/track/1E73FAX1FA1U1BNU71eZmh"
+    },
+    {
+      "added_at": "2025-06-25 13:12:46",
       "album": {
         "name": "DIA DEL\u00cdCIA",
         "url": "https://open.spotify.com/album/3bT53CJPMsSXSn0vDAX2Do"
@@ -129,7 +145,7 @@
       "url": "https://open.spotify.com/track/094IjHeVUviN4aBnSXYsuj"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
       "album": {
         "name": "\u064a\u0627 \u0648\u0637\u0646 \u0637\u0627\u0647\u0631 \u062a\u0631\u0627\u0628\u0643",
         "url": "https://open.spotify.com/album/5InYQzgp3pBKF3LshKqjp0"
@@ -145,23 +161,23 @@
       "url": "https://open.spotify.com/track/0F2yNZOLXPtIV4k2kQgkjA"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
       "album": {
-        "name": "\u0627\u0644\u0643 \u0627\u0644\u0643 \u06af\u0644\u0628\u064a \u064a\u062d\u0646",
-        "url": "https://open.spotify.com/album/1Md98V783M9Nuzhu2lQP8u"
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
       },
       "artists": [
         {
-          "name": "\u0633\u062c\u0627\u062f \u062d\u0642\u064a",
-          "url": "https://open.spotify.com/artist/0hbX3CLGvUFpNGKXHQLe8g"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 81200,
-      "name": "\u0627\u0644\u0643 \u0627\u0644\u0643 \u06af\u0644\u0628\u064a \u064a\u062d\u0646",
-      "url": "https://open.spotify.com/track/1E73FAX1FA1U1BNU71eZmh"
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
       "album": {
         "name": "LUNA BALA",
         "url": "https://open.spotify.com/album/2acEAXK1zIr0cPBkIDDJgz"
@@ -181,23 +197,39 @@
       "url": "https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
       "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+        "name": "\u0645\u064a\u062a \u0627\u0646\u064a",
+        "url": "https://open.spotify.com/album/2RH0Lx9crTxiY0iEVaZ5sk"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Sabah Mahmod",
+          "url": "https://open.spotify.com/artist/6DPTJXd1omQ1oTiR1Vy9CZ"
         }
       ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
+      "duration_ms": 246021,
+      "name": "\u0645\u064a\u062a \u0627\u0646\u064a",
+      "url": "https://open.spotify.com/track/3MyX3ndru7RTKvLkMZJJeJ"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
+      "album": {
+        "name": "\u0627\u0644\u0639\u064a\u0646 \u0639\u0644\u0649 \u0627\u0644\u062d\u0627\u062c\u0628",
+        "url": "https://open.spotify.com/album/0FOQdZnzuckbtldRYTLM9N"
+      },
+      "artists": [
+        {
+          "name": "\u0627\u0645\u064a\u0645\u0647 \u0637\u0627\u0644\u0628",
+          "url": "https://open.spotify.com/artist/35vbgqhRyBC3sxA4XUrkdt"
+        }
+      ],
+      "duration_ms": 215076,
+      "name": "\u0627\u0644\u0639\u064a\u0646 \u0639\u0644\u0649 \u0627\u0644\u062d\u0627\u062c\u0628",
+      "url": "https://open.spotify.com/track/4CU10WzYSGCfx1EEOHFoRK"
+    },
+    {
+      "added_at": "2025-06-25 13:12:46",
       "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
@@ -217,7 +249,39 @@
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
+      "album": {
+        "name": "Ahki Ya Tareekh",
+        "url": "https://open.spotify.com/album/54nwniswDwMHFi7HKn6Rb4"
+      },
+      "artists": [
+        {
+          "name": "Safaa Saad",
+          "url": "https://open.spotify.com/artist/48i3mDZOjCQqUHRtVRRD0D"
+        }
+      ],
+      "duration_ms": 369359,
+      "name": "Ahki Ya Tareekh",
+      "url": "https://open.spotify.com/track/2yjOEcmukC84C56uEoDn3k"
+    },
+    {
+      "added_at": "2025-06-25 13:12:46",
+      "album": {
+        "name": "Hassan El Rassam Collection",
+        "url": "https://open.spotify.com/album/2qnmr040iyjZeNh6ldxghJ"
+      },
+      "artists": [
+        {
+          "name": "Hassan El Rassam",
+          "url": "https://open.spotify.com/artist/6nJJCgVQZCwUDgKsIwWNjM"
+        }
+      ],
+      "duration_ms": 319399,
+      "name": "Alak Alak",
+      "url": "https://open.spotify.com/track/5okjGjbI5S9GON1fM0delO"
+    },
+    {
+      "added_at": "2025-06-25 13:12:46",
       "album": {
         "name": "\u0648\u064a\u0644\u064a",
         "url": "https://open.spotify.com/album/61LYs7oRCvygjy8iPbV12M"
@@ -237,39 +301,7 @@
       "url": "https://open.spotify.com/track/3h4kEr2cagLR0HlqMyMS2H"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
-      "album": {
-        "name": "Hassan El Rassam Collection",
-        "url": "https://open.spotify.com/album/2qnmr040iyjZeNh6ldxghJ"
-      },
-      "artists": [
-        {
-          "name": "Hassan El Rassam",
-          "url": "https://open.spotify.com/artist/6nJJCgVQZCwUDgKsIwWNjM"
-        }
-      ],
-      "duration_ms": 319399,
-      "name": "Alak Alak",
-      "url": "https://open.spotify.com/track/5okjGjbI5S9GON1fM0delO"
-    },
-    {
-      "added_at": "2025-06-24 13:06:31",
-      "album": {
-        "name": "\u0627\u0644\u0639\u064a\u0646 \u0639\u0644\u0649 \u0627\u0644\u062d\u0627\u062c\u0628",
-        "url": "https://open.spotify.com/album/0FOQdZnzuckbtldRYTLM9N"
-      },
-      "artists": [
-        {
-          "name": "\u0627\u0645\u064a\u0645\u0647 \u0637\u0627\u0644\u0628",
-          "url": "https://open.spotify.com/artist/35vbgqhRyBC3sxA4XUrkdt"
-        }
-      ],
-      "duration_ms": 215076,
-      "name": "\u0627\u0644\u0639\u064a\u0646 \u0639\u0644\u0649 \u0627\u0644\u062d\u0627\u062c\u0628",
-      "url": "https://open.spotify.com/track/4CU10WzYSGCfx1EEOHFoRK"
-    },
-    {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
       "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
@@ -285,7 +317,23 @@
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
+      "album": {
+        "name": "\u0645\u0627 \u0627\u0633\u0645\u0639\u0643 \u0627\u063a\u0627\u0646\u064a",
+        "url": "https://open.spotify.com/album/7IOmmYMW0dfs0oTlpO5yAu"
+      },
+      "artists": [
+        {
+          "name": "Saif Khayoon",
+          "url": "https://open.spotify.com/artist/4DPcYHW913KavtnntssZy8"
+        }
+      ],
+      "duration_ms": 268084,
+      "name": "\u0645\u0627 \u0627\u0633\u0645\u0639\u0643 \u0627\u063a\u0627\u0646\u064a",
+      "url": "https://open.spotify.com/track/0LH7rtfnkQy7XuybDKW2iI"
+    },
+    {
+      "added_at": "2025-06-25 13:12:46",
       "album": {
         "name": "PASSO BEM SOLTO",
         "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
@@ -301,55 +349,71 @@
       "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
       "album": {
-        "name": "\u0645\u064a\u062a \u0627\u0646\u064a",
-        "url": "https://open.spotify.com/album/2RH0Lx9crTxiY0iEVaZ5sk"
+        "name": "\u0645\u0627 \u062a\u0628\u062a",
+        "url": "https://open.spotify.com/album/4F8ZXTY7PYyNYjwSiNVpQR"
       },
       "artists": [
         {
-          "name": "Sabah Mahmod",
-          "url": "https://open.spotify.com/artist/6DPTJXd1omQ1oTiR1Vy9CZ"
+          "name": "Khaled AlHaneen",
+          "url": "https://open.spotify.com/artist/1JUDMlJogaEcAsIEn6X13E"
         }
       ],
-      "duration_ms": 246021,
-      "name": "\u0645\u064a\u062a \u0627\u0646\u064a",
-      "url": "https://open.spotify.com/track/3MyX3ndru7RTKvLkMZJJeJ"
+      "duration_ms": 340192,
+      "name": "\u0645\u0627 \u062a\u0628\u062a",
+      "url": "https://open.spotify.com/track/3dygbYXKwcqOQtqctzq9rs"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
+        "name": "\u0647\u0630\u0627 \u062f\u0645\u0639\u0643",
+        "url": "https://open.spotify.com/album/0l2Eu4K6rnobVzoRiXQZo9"
       },
       "artists": [
         {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+          "name": "Tayseer Al Safeer",
+          "url": "https://open.spotify.com/artist/4PQeohrT8GInzKC3wJFGLa"
         }
       ],
-      "duration_ms": 180716,
-      "name": "Don\u2019t Say You Love Me",
-      "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
+      "duration_ms": 291657,
+      "name": "\u0647\u0630\u0627 \u062f\u0645\u0639\u0643",
+      "url": "https://open.spotify.com/track/6RodD6CVu4mHQRrQJD8XhP"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
       "album": {
-        "name": "\u062e\u0627\u0644\u062a\u0643 \u0645\u0648 \u0632\u064a\u0646\u0629",
-        "url": "https://open.spotify.com/album/7G7ebYZHh8qCPXrehI3jff"
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
       },
       "artists": [
         {
-          "name": "Nasrat Al Bader",
-          "url": "https://open.spotify.com/artist/3LTg1uDlzgeNpapZviVVAF"
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 291224,
-      "name": "\u062e\u0627\u0644\u062a\u0643 \u0645\u0648 \u0632\u064a\u0646\u0629",
-      "url": "https://open.spotify.com/track/2dwrEM3ri4JSc0NOULYo8a"
+      "duration_ms": 235893,
+      "name": "Bring Me To Life",
+      "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
+      "album": {
+        "name": "\u0627\u064a\u0628\u0627\u0647 (\u0631\u064a\u0645\u0643\u0633)",
+        "url": "https://open.spotify.com/album/6wjOfiDcjkO8pofRooD13G"
+      },
+      "artists": [
+        {
+          "name": "Bee Remix",
+          "url": "https://open.spotify.com/artist/3zdzuFF7IkJWWKLsIwAlzf"
+        }
+      ],
+      "duration_ms": 159168,
+      "name": "\u0627\u064a\u0628\u0627\u0647 (\u0631\u064a\u0645\u0643\u0633)",
+      "url": "https://open.spotify.com/track/0vGAjG4vLZmyZvnCWKW0WG"
+    },
+    {
+      "added_at": "2025-06-25 13:12:46",
       "album": {
         "name": "Vem Vem",
         "url": "https://open.spotify.com/album/5fvUS8yHMCkTZj4sJ0FHDV"
@@ -369,71 +433,71 @@
       "url": "https://open.spotify.com/track/2FnkrCrbXJuebXxnVtXiHI"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
       "album": {
-        "name": "Ahki Ya Tareekh",
-        "url": "https://open.spotify.com/album/54nwniswDwMHFi7HKn6Rb4"
+        "name": "\u0645\u0627\u062e\u0633\u0631\u062a\u0643",
+        "url": "https://open.spotify.com/album/3Gj6ddGd3HS8JZKhlIBnDU"
       },
       "artists": [
         {
-          "name": "Safaa Saad",
-          "url": "https://open.spotify.com/artist/48i3mDZOjCQqUHRtVRRD0D"
+          "name": "\u062c\u0639\u0641\u0631 \u0627\u0644\u063a\u0632\u0627\u0644",
+          "url": "https://open.spotify.com/artist/5C15GvkSz7byudgqb5rczb"
         }
       ],
-      "duration_ms": 369359,
-      "name": "Ahki Ya Tareekh",
-      "url": "https://open.spotify.com/track/2yjOEcmukC84C56uEoDn3k"
+      "duration_ms": 371258,
+      "name": "\u0645\u0627\u062e\u0633\u0631\u062a\u0643",
+      "url": "https://open.spotify.com/track/77HQd3SxG4dsHkFB6hwG9E"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
       "album": {
-        "name": "\u0645\u0627 \u0627\u0633\u0645\u0639\u0643 \u0627\u063a\u0627\u0646\u064a",
-        "url": "https://open.spotify.com/album/7IOmmYMW0dfs0oTlpO5yAu"
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/63yRRBtLX8eqbOLD6f0y9U"
       },
       "artists": [
         {
-          "name": "Saif Khayoon",
-          "url": "https://open.spotify.com/artist/4DPcYHW913KavtnntssZy8"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 268084,
-      "name": "\u0645\u0627 \u0627\u0633\u0645\u0639\u0643 \u0627\u063a\u0627\u0646\u064a",
-      "url": "https://open.spotify.com/track/0LH7rtfnkQy7XuybDKW2iI"
+      "duration_ms": 256799,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/7mDTvYD2ieE4Q28XFziMfJ"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
+        "name": "Walla Haram",
+        "url": "https://open.spotify.com/album/7sX9kURDq3OXthAoAxBWD0"
       },
       "artists": [
         {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          "name": "Habeeb Ali",
+          "url": "https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj"
         }
       ],
-      "duration_ms": 235893,
-      "name": "Bring Me To Life",
-      "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"
+      "duration_ms": 273475,
+      "name": "Walla Haram",
+      "url": "https://open.spotify.com/track/2FP3VlH0UT5cXxqlFiAGu4"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
       "album": {
-        "name": "\u0627\u064a\u0628\u0627\u0647 (\u0631\u064a\u0645\u0643\u0633)",
-        "url": "https://open.spotify.com/album/6wjOfiDcjkO8pofRooD13G"
+        "name": "Ghartk El Donyia",
+        "url": "https://open.spotify.com/album/3FRI4ZgYIMGkv1yh92Bvzu"
       },
       "artists": [
         {
-          "name": "Bee Remix",
-          "url": "https://open.spotify.com/artist/3zdzuFF7IkJWWKLsIwAlzf"
+          "name": "Farkd El Lourans",
+          "url": "https://open.spotify.com/artist/0jEOQyPsHBQD6YhFcNfLBk"
         }
       ],
-      "duration_ms": 159168,
-      "name": "\u0627\u064a\u0628\u0627\u0647 (\u0631\u064a\u0645\u0643\u0633)",
-      "url": "https://open.spotify.com/track/0vGAjG4vLZmyZvnCWKW0WG"
+      "duration_ms": 289413,
+      "name": "Ghartk El Donyia (2)",
+      "url": "https://open.spotify.com/track/0drVi1UxWlH70g2LkTrkUm"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
       "album": {
         "name": "suburban daredevil",
         "url": "https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK"
@@ -453,23 +517,7 @@
       "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
-      "album": {
-        "name": "\u0647\u0630\u0627 \u062f\u0645\u0639\u0643",
-        "url": "https://open.spotify.com/album/0l2Eu4K6rnobVzoRiXQZo9"
-      },
-      "artists": [
-        {
-          "name": "Tayseer Al Safeer",
-          "url": "https://open.spotify.com/artist/4PQeohrT8GInzKC3wJFGLa"
-        }
-      ],
-      "duration_ms": 291657,
-      "name": "\u0647\u0630\u0627 \u062f\u0645\u0639\u0643",
-      "url": "https://open.spotify.com/track/6RodD6CVu4mHQRrQJD8XhP"
-    },
-    {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
       "album": {
         "name": "Hay El Zalayl",
         "url": "https://open.spotify.com/album/23LI78ZPOMCVobdxvbRF1H"
@@ -485,67 +533,7 @@
       "url": "https://open.spotify.com/track/5gNAluu4a5nDClPI5pDAoV"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
-      "album": {
-        "name": "Hbnah Antaha",
-        "url": "https://open.spotify.com/album/73B6jAxkcAopkWl3GSOXTc"
-      },
-      "artists": [
-        {
-          "name": "Mohamad Abdel Jabar",
-          "url": "https://open.spotify.com/artist/1cWnsJEnx8LcSFJrsCqa0x"
-        },
-        {
-          "name": "Ali Bader",
-          "url": "https://open.spotify.com/artist/74UVX9PGjQ3Hw5ZvDCKcM8"
-        }
-      ],
-      "duration_ms": 400320,
-      "name": "Hbnah Antaha",
-      "url": "https://open.spotify.com/track/1CduYZngHRf3rlSpn5sdB7"
-    },
-    {
-      "added_at": "2025-06-24 13:06:31",
-      "album": {
-        "name": "\u0645\u0627 \u062a\u0628\u062a",
-        "url": "https://open.spotify.com/album/4F8ZXTY7PYyNYjwSiNVpQR"
-      },
-      "artists": [
-        {
-          "name": "Khaled AlHaneen",
-          "url": "https://open.spotify.com/artist/1JUDMlJogaEcAsIEn6X13E"
-        }
-      ],
-      "duration_ms": 340192,
-      "name": "\u0645\u0627 \u062a\u0628\u062a",
-      "url": "https://open.spotify.com/track/3dygbYXKwcqOQtqctzq9rs"
-    },
-    {
-      "added_at": "2025-06-24 13:06:31",
-      "album": {
-        "name": "LOS VOLTAJE",
-        "url": "https://open.spotify.com/album/7CWmZcjCHJWd7detYptzAX"
-      },
-      "artists": [
-        {
-          "name": "Sayfalse",
-          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
-        },
-        {
-          "name": "Yb Wasg'ood",
-          "url": "https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE"
-        },
-        {
-          "name": "Ariis",
-          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
-        }
-      ],
-      "duration_ms": 99285,
-      "name": "LOS VOLTAJE",
-      "url": "https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx"
-    },
-    {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
       "album": {
         "name": "NUNCA MUDA?",
         "url": "https://open.spotify.com/album/6xUYw5goKIoyJQi9C27UBy"
@@ -569,7 +557,39 @@
       "url": "https://open.spotify.com/track/5EIjpM1B1VsLoKvv2iwd0P"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
+      "album": {
+        "name": "\u0642\u0644\u0648 \u0646\u0648\u0632 - Gole naz",
+        "url": "https://open.spotify.com/album/3dO82KPRpaoIUL5UIaAtIN"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u0627\u0631\u0641\u0646",
+          "url": "https://open.spotify.com/artist/3tMD5804sTYpLEMZkrFD4v"
+        }
+      ],
+      "duration_ms": 216944,
+      "name": "\u0642\u0644\u0648 \u0646\u0648\u0632 - Gole naz",
+      "url": "https://open.spotify.com/track/64bLrZFkl9wQ4sbvuXdzTg"
+    },
+    {
+      "added_at": "2025-06-25 13:12:46",
+      "album": {
+        "name": "\u062e\u0627\u0644\u062a\u0643 \u0645\u0648 \u0632\u064a\u0646\u0629",
+        "url": "https://open.spotify.com/album/7G7ebYZHh8qCPXrehI3jff"
+      },
+      "artists": [
+        {
+          "name": "Nasrat Al Bader",
+          "url": "https://open.spotify.com/artist/3LTg1uDlzgeNpapZviVVAF"
+        }
+      ],
+      "duration_ms": 291224,
+      "name": "\u062e\u0627\u0644\u062a\u0643 \u0645\u0648 \u0632\u064a\u0646\u0629",
+      "url": "https://open.spotify.com/track/2dwrEM3ri4JSc0NOULYo8a"
+    },
+    {
+      "added_at": "2025-06-25 13:12:46",
       "album": {
         "name": "MONTAGEM BAIL\u00c3O",
         "url": "https://open.spotify.com/album/2VW8krMRkhGJmdlcHbyTfZ"
@@ -593,71 +613,7 @@
       "url": "https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
-      "album": {
-        "name": "\u0645\u0627\u062e\u0633\u0631\u062a\u0643",
-        "url": "https://open.spotify.com/album/3Gj6ddGd3HS8JZKhlIBnDU"
-      },
-      "artists": [
-        {
-          "name": "\u062c\u0639\u0641\u0631 \u0627\u0644\u063a\u0632\u0627\u0644",
-          "url": "https://open.spotify.com/artist/5C15GvkSz7byudgqb5rczb"
-        }
-      ],
-      "duration_ms": 371258,
-      "name": "\u0645\u0627\u062e\u0633\u0631\u062a\u0643",
-      "url": "https://open.spotify.com/track/77HQd3SxG4dsHkFB6hwG9E"
-    },
-    {
-      "added_at": "2025-06-24 13:06:31",
-      "album": {
-        "name": "Ghartk El Donyia",
-        "url": "https://open.spotify.com/album/3FRI4ZgYIMGkv1yh92Bvzu"
-      },
-      "artists": [
-        {
-          "name": "Farkd El Lourans",
-          "url": "https://open.spotify.com/artist/0jEOQyPsHBQD6YhFcNfLBk"
-        }
-      ],
-      "duration_ms": 289413,
-      "name": "Ghartk El Donyia (2)",
-      "url": "https://open.spotify.com/track/0drVi1UxWlH70g2LkTrkUm"
-    },
-    {
-      "added_at": "2025-06-24 13:06:31",
-      "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw"
-    },
-    {
-      "added_at": "2025-06-24 13:06:31",
-      "album": {
-        "name": "\u0642\u0644\u0648 \u0646\u0648\u0632 - Gole naz",
-        "url": "https://open.spotify.com/album/3dO82KPRpaoIUL5UIaAtIN"
-      },
-      "artists": [
-        {
-          "name": "\u0645\u0627\u0631\u0641\u0646",
-          "url": "https://open.spotify.com/artist/3tMD5804sTYpLEMZkrFD4v"
-        }
-      ],
-      "duration_ms": 216944,
-      "name": "\u0642\u0644\u0648 \u0646\u0648\u0632 - Gole naz",
-      "url": "https://open.spotify.com/track/64bLrZFkl9wQ4sbvuXdzTg"
-    },
-    {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
       "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
@@ -673,7 +629,31 @@
       "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
+      "album": {
+        "name": "LOS VOLTAJE",
+        "url": "https://open.spotify.com/album/7CWmZcjCHJWd7detYptzAX"
+      },
+      "artists": [
+        {
+          "name": "Sayfalse",
+          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
+        },
+        {
+          "name": "Yb Wasg'ood",
+          "url": "https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE"
+        },
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "duration_ms": 99285,
+      "name": "LOS VOLTAJE",
+      "url": "https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx"
+    },
+    {
+      "added_at": "2025-06-25 13:12:46",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -689,39 +669,7 @@
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
-      "album": {
-        "name": "Walla Haram",
-        "url": "https://open.spotify.com/album/7sX9kURDq3OXthAoAxBWD0"
-      },
-      "artists": [
-        {
-          "name": "Habeeb Ali",
-          "url": "https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj"
-        }
-      ],
-      "duration_ms": 273475,
-      "name": "Walla Haram",
-      "url": "https://open.spotify.com/track/2FP3VlH0UT5cXxqlFiAGu4"
-    },
-    {
-      "added_at": "2025-06-24 13:06:31",
-      "album": {
-        "name": "Warqa",
-        "url": "https://open.spotify.com/album/07zRmuNmkCA3B0n9ABzMU0"
-      },
-      "artists": [
-        {
-          "name": "Saif Amer",
-          "url": "https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq"
-        }
-      ],
-      "duration_ms": 193515,
-      "name": "Warqa",
-      "url": "https://open.spotify.com/track/7hO4FVqKF2nsSXTtPqLsaR"
-    },
-    {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
       "album": {
         "name": "\u0628\u0627\u0639\u0646\u064a \u0648\u0631\u0627\u062d",
         "url": "https://open.spotify.com/album/33D6aKbHYSMPzc2UwW1Ulh"
@@ -737,7 +685,123 @@
       "url": "https://open.spotify.com/track/2yiFdwIL1K2KR20wKZxxFM"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
+      "album": {
+        "name": "Hbnah Antaha",
+        "url": "https://open.spotify.com/album/73B6jAxkcAopkWl3GSOXTc"
+      },
+      "artists": [
+        {
+          "name": "Mohamad Abdel Jabar",
+          "url": "https://open.spotify.com/artist/1cWnsJEnx8LcSFJrsCqa0x"
+        },
+        {
+          "name": "Ali Bader",
+          "url": "https://open.spotify.com/artist/74UVX9PGjQ3Hw5ZvDCKcM8"
+        }
+      ],
+      "duration_ms": 400320,
+      "name": "Hbnah Antaha",
+      "url": "https://open.spotify.com/track/1CduYZngHRf3rlSpn5sdB7"
+    },
+    {
+      "added_at": "2025-06-25 13:12:46",
+      "album": {
+        "name": "Law Sabrah",
+        "url": "https://open.spotify.com/album/5b8sdziA8oY88D0A5sZOVf"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Alsultan",
+          "url": "https://open.spotify.com/artist/0bi5RUX7QwU8yOVliycRz8"
+        }
+      ],
+      "duration_ms": 260022,
+      "name": "Law Sabrah",
+      "url": "https://open.spotify.com/track/4ahP7eXPoreEVMEh5IpOHh"
+    },
+    {
+      "added_at": "2025-06-25 13:12:46",
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 290146,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/1oAwsWBovWRIp7qLMGPIet"
+    },
+    {
+      "added_at": "2025-06-25 13:12:46",
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 123517,
+      "name": "like JENNIE",
+      "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
+    },
+    {
+      "added_at": "2025-06-25 13:12:46",
+      "album": {
+        "name": "Be My First One",
+        "url": "https://open.spotify.com/album/05jJHKDTHfyOe8RM89HxJt"
+      },
+      "artists": [
+        {
+          "name": "TalkinToys",
+          "url": "https://open.spotify.com/artist/4HDTeSTvhHcxmdeKGKmCJy"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Be My First One",
+      "url": "https://open.spotify.com/track/4jQj2GzSDoaibN5qTrQh0c"
+    },
+    {
+      "added_at": "2025-06-25 13:12:46",
+      "album": {
+        "name": "Warqa",
+        "url": "https://open.spotify.com/album/07zRmuNmkCA3B0n9ABzMU0"
+      },
+      "artists": [
+        {
+          "name": "Saif Amer",
+          "url": "https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq"
+        }
+      ],
+      "duration_ms": 193515,
+      "name": "Warqa",
+      "url": "https://open.spotify.com/track/7hO4FVqKF2nsSXTtPqLsaR"
+    },
+    {
+      "added_at": "2025-06-25 13:12:46",
+      "album": {
+        "name": "\u0631\u0627\u0647 \u0642\u0644\u0628\u064a \u064a\u0628\u0643\u064a \u0648\u064a\u0646\u0648\u062d",
+        "url": "https://open.spotify.com/album/2VANlmSthxvgwaV4yNNFtC"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u0627\u0631\u0641\u0646",
+          "url": "https://open.spotify.com/artist/3tMD5804sTYpLEMZkrFD4v"
+        }
+      ],
+      "duration_ms": 366666,
+      "name": "\u0631\u0627\u0647 \u0642\u0644\u0628\u064a \u064a\u0628\u0643\u064a \u0648\u064a\u0646\u0648\u062d",
+      "url": "https://open.spotify.com/track/6DnNRsHBfsldXFRsk0chTF"
+    },
+    {
+      "added_at": "2025-06-25 13:12:46",
       "album": {
         "name": "Hurry Up Tomorrow",
         "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
@@ -757,23 +821,23 @@
       "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
       "album": {
-        "name": "Be My First One",
-        "url": "https://open.spotify.com/album/05jJHKDTHfyOe8RM89HxJt"
+        "name": "MONTAGEM TOMADA",
+        "url": "https://open.spotify.com/album/40m2KxQUQNQANattrHt9vZ"
       },
       "artists": [
         {
-          "name": "TalkinToys",
-          "url": "https://open.spotify.com/artist/4HDTeSTvhHcxmdeKGKmCJy"
+          "name": "MXZI",
+          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Be My First One",
-      "url": "https://open.spotify.com/track/4jQj2GzSDoaibN5qTrQh0c"
+      "duration_ms": 84901,
+      "name": "MONTAGEM TOMADA - Slowed",
+      "url": "https://open.spotify.com/track/2HJQm4T3Pk2zvxoFhlnGjR"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
       "album": {
         "name": "Ayed 2025 - \u0639\u0627\u064a\u0636 \u0662\u0660\u0662\u0665",
         "url": "https://open.spotify.com/album/6CKUiiaHgkhNidqi3MGLYe"
@@ -789,84 +853,20 @@
       "url": "https://open.spotify.com/track/1UGaliIKCl7MOWzvzh5chs"
     },
     {
-      "added_at": "2025-06-24 13:06:31",
+      "added_at": "2025-06-25 13:12:46",
       "album": {
-        "name": "Law Sabrah",
-        "url": "https://open.spotify.com/album/5b8sdziA8oY88D0A5sZOVf"
+        "name": "Khaled El Hanin Collection",
+        "url": "https://open.spotify.com/album/284cY1mjACukRixm14NsW7"
       },
       "artists": [
         {
-          "name": "Ahmad Alsultan",
-          "url": "https://open.spotify.com/artist/0bi5RUX7QwU8yOVliycRz8"
+          "name": "Khaled El Hanin",
+          "url": "https://open.spotify.com/artist/1GxEMITSJRTL4GitOkbffW"
         }
       ],
-      "duration_ms": 260022,
-      "name": "Law Sabrah",
-      "url": "https://open.spotify.com/track/4ahP7eXPoreEVMEh5IpOHh"
-    },
-    {
-      "added_at": "2025-06-24 13:06:31",
-      "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 290146,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/1oAwsWBovWRIp7qLMGPIet"
-    },
-    {
-      "added_at": "2025-06-24 13:06:31",
-      "album": {
-        "name": "Ruby",
-        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 123517,
-      "name": "like JENNIE",
-      "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
-    },
-    {
-      "added_at": "2025-06-24 13:06:31",
-      "album": {
-        "name": "Speak for Yourself (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM"
-      },
-      "artists": [
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
-        }
-      ],
-      "duration_ms": 215338,
-      "name": "Headlock",
-      "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
-    },
-    {
-      "added_at": "2025-06-24 13:06:31",
-      "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 268840,
-      "name": "Rock That Body",
-      "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
+      "duration_ms": 251305,
+      "name": "Enta Be Damy",
+      "url": "https://open.spotify.com/track/35mpZGgYviI4KXOeBQj2qO"
     }
   ],
   "unique_name": "Top 50 - Saudi Arabia",

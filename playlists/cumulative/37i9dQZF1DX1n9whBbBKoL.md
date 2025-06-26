@@ -4,7 +4,7 @@
 
 > Ambient drone to make you feel weightless.
 
-510 songs - 1 day 1 hr 0 min
+511 songs - 1 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Colosseum](https://open.spotify.com/track/74ADgkVXxijtJ59BH6omlM) | [Dorian Froste](https://open.spotify.com/artist/70eqTmilvlPutXBD4hp0Ss) | [Colosseum](https://open.spotify.com/album/7vXmotO4afUVy2tQkBiMgS) | 2:43 | 2024-11-06 |  |
 | [Convergence](https://open.spotify.com/track/6u6mjHCd8ULdqYYmkRJeeS) | [SleepTherapy](https://open.spotify.com/artist/6lmrCOEWctZj9LghJ9wxuv) | [Convergence](https://open.spotify.com/album/1095m41z6UPcurOL35ybPa) | 3:14 | 2022-08-12 | 2024-07-16 |
 | [Cosmic Colours](https://open.spotify.com/track/66QCksfh4IAU0ElpZ7yMXu) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Cosmic Colours](https://open.spotify.com/album/4p1JQDTfGIvf4cIwiM4GX8) | 2:51 | 2021-11-10 | 2024-02-08 |
+| [Cosmic Serenity](https://open.spotify.com/track/2XOa9xja8Y2XbNdLo2r9K1) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Cosmic Serenity](https://open.spotify.com/album/0dGVYifzfmg7omX98OPVp4) | 3:24 | 2025-06-25 |  |
 | [cottonwood](https://open.spotify.com/track/2IRlcu8iQGfrPNqPXJx086) | [Aquas](https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej) | [cottonwood](https://open.spotify.com/album/4DELHO2birqYTscokSRzH0) | 3:33 | 2025-03-19 |  |
 | [Crevice](https://open.spotify.com/track/5DH1vidFEjKOWjpwEoI8CS) | [Juhani Ahonen](https://open.spotify.com/artist/4ZZFTeqpq5hugMfAdDh4oZ) | [Crevice](https://open.spotify.com/album/2W1qEH10UNw2IXkXLmRdTb) | 2:39 | 2021-11-10 | 2024-04-06 |
 | [Curves](https://open.spotify.com/track/50dqV0dmuAMzLtEbt09SCp) | [Norrona](https://open.spotify.com/artist/0A4UAFw5R9u5z9doUYX0WM) | [Curves](https://open.spotify.com/album/3hWEeTtdq80mcLvCt73koZ) | 3:14 | 2021-11-10 | 2024-02-08 |
@@ -499,7 +500,7 @@
 | [Waves of the Unconscious Mind](https://open.spotify.com/track/3eb7YLFzZGU7caNDQbZDfh) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Waves of the Unconscious Mind](https://open.spotify.com/album/1Q07jPNOIw81BxZKlGdZeS) | 2:53 | 2024-05-04 | 2024-07-16 |
 | [we are here](https://open.spotify.com/track/0AmWizHZxla0JyvrOX4Cqj) | [fragile eyes](https://open.spotify.com/artist/0nM9BcwyEiW5nroAbt9tBf) | [we are here](https://open.spotify.com/album/2we0mUjMYZBeABUUYdb89Q) | 3:23 | 2021-11-10 | 2022-09-07 |
 | [We Dream](https://open.spotify.com/track/3npnieFhPJITVCDNMCOKgG) | [Air Balloon Road](https://open.spotify.com/artist/7Mvq4bstt4JZKZo03zqrg8) | [We Dream](https://open.spotify.com/album/1plBdA7VPmgpmi6kPZhdbu) | 2:42 | 2023-03-14 | 2023-08-25 |
-| [We Were There](https://open.spotify.com/track/14qdPKsnd3yifarqYFREzX) | [Aniaras](https://open.spotify.com/artist/6giPu3LI4VQbyWGGHHVpfj) | [We Were There](https://open.spotify.com/album/57G7cX52RrJBJ9dlYqc0WH) | 3:06 | 2024-02-07 |  |
+| [We Were There](https://open.spotify.com/track/14qdPKsnd3yifarqYFREzX) | [Aniaras](https://open.spotify.com/artist/6giPu3LI4VQbyWGGHHVpfj) | [We Were There](https://open.spotify.com/album/57G7cX52RrJBJ9dlYqc0WH) | 3:06 | 2024-02-07 | 2025-06-26 |
 | [Weightless Echoes](https://open.spotify.com/track/1aejBWe9OIjh34IqKcDayI) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [Weightless Echoes](https://open.spotify.com/album/28hoaBT6C14YwltsFZLl4f) | 2:20 | 2024-05-20 | 2024-07-10 |
 | [Weightlessly Drifting](https://open.spotify.com/track/3Cj542A7pRieF9x19YYrE8) | [Rah Moon](https://open.spotify.com/artist/2ZTWRQ0L4s7UuB55QBxOfN) | [Weightlessly Drifting](https://open.spotify.com/album/2n4iqSyKHptpwMHqW7wwwN) | 2:41 | 2024-07-09 |  |
 | [Welkin](https://open.spotify.com/track/3hqnqpefPxDGTtLwGuaRG6) | [Amber Twilight](https://open.spotify.com/artist/2YihGzUlFb7MxHElA2IZDd) | [Welkin](https://open.spotify.com/album/2KRfYojhz1PPzElLtf5P4z) | 4:08 | 2021-11-10 | 2022-04-22 |

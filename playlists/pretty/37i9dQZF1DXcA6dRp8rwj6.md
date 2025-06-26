@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Cardi B\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,208 likes - 109 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,238 likes - 109 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 4 | [Where To Start](https://open.spotify.com/track/260EW8FU6e45oZ6sylXrfS) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Where To Start](https://open.spotify.com/album/55wb82Be19wprPto18OIX6) | 3:34 |
 | 5 | [Bodies \(with JID\)](https://open.spotify.com/track/2PcZiMr9bRNtRikrN7s6bL) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Bodies \(with JID\)](https://open.spotify.com/album/5TGnWZlJnWF3erh4nVG9l3) | 2:58 |
 | 6 | [STAMINA](https://open.spotify.com/track/40i7vkc0iEaNXpFwppz8q3) | [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z) | [STAMINA](https://open.spotify.com/album/0351ZKuJpwc1xnSvSAOWVU) | 2:22 |
-| 7 | [Champagne Campaign \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/0JcS4b9ol8GtyOWnDScfcy) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Pria](https://open.spotify.com/artist/3cpIQxX4uvGhuvERtR6f38), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Champagne Campaign \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/7mTBG685KY77kghmLk2CNQ) | 3:10 |
+| 7 | [Champagne Campaign \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/0JcS4b9ol8GtyOWnDScfcy) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Pria](https://open.spotify.com/artist/5tBXHEV8R9NTK39HhAPr3j), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Champagne Campaign \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/7mTBG685KY77kghmLk2CNQ) | 3:10 |
 | 8 | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h) | 2:33 |
 | 9 | [Choosin'](https://open.spotify.com/track/53PdxRXw8rIm4dOzfZW6no) | [AiZack](https://open.spotify.com/artist/1GG45fl2LYpdywitayCzGs) | [Pretty Girls Love AiZack](https://open.spotify.com/album/1ziRyOwSSVHD6t1DZOcTMY) | 3:04 |
 | 10 | [Santa Monica](https://open.spotify.com/track/5XMKcvFZ2UI1DinRNKX3N4) | [CHISEKO](https://open.spotify.com/artist/5Z7R9YTOZFv7zC9Ns1gPMS) | [Santa Monica](https://open.spotify.com/album/0YNrPeyxTrSLinHG0E4xPU) | 2:52 |

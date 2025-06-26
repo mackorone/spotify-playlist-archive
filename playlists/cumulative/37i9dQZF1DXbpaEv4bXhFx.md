@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-238 songs - 14 hr 30 min
+239 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Egg Flower](https://open.spotify.com/track/1EcjPaf8Hwoc4XIF7bn5za) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [youth](https://open.spotify.com/album/2qyRTNUHodWjs2FrP7tAYv) | 3:16 | 2022-06-20 | 2022-07-29 |
 | [Empty Cup](https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 2:19 | 2022-06-20 |  |
 | [Ending \(Prod\. LAZY\)](https://open.spotify.com/track/5fGGdRkZSosJZSLXL0Mppd) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [Ending](https://open.spotify.com/album/0PZ63QeOhEi3NUk6rNoglc) | 3:13 | 2024-07-02 | 2024-08-19 |
+| [Endless Rain](https://open.spotify.com/track/4YcPfv5Wef00nAkjLk3gy2) | [LEE BORAM](https://open.spotify.com/artist/6SFvlarNwNCJVr7p5ZHPp3) | [IONY : Project \#01](https://open.spotify.com/album/1bDv2zeRqSgKRqXZCK8w6I) | 3:26 | 2025-06-26 |  |
 | [Even When I Smile](https://open.spotify.com/track/48QPNybu3JkiUfCwG11Moq) | [blah](https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg) | [Even When I Smile](https://open.spotify.com/album/7n8sQzaxWJdHZJtpMrPTsE) | 3:36 | 2025-02-10 | 2025-05-07 |
 | [Everything](https://open.spotify.com/track/58oHUm7jyaVlcRnB9Z75ZC) | [kennytheking](https://open.spotify.com/artist/4693A2I2TyU25cJJLJXgYS) | [Everything](https://open.spotify.com/album/6NQwGZ8CGt28dy5EcyNRn0) | 5:00 | 2022-06-20 | 2022-07-23 |
 | [Excuse](https://open.spotify.com/track/4uzZyA3YeQAZYmDPXUcU1h) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 3:07 | 2022-06-20 | 2022-07-23 |
@@ -100,7 +101,7 @@
 | [Jay’ll Be Happier](https://open.spotify.com/track/2UvYgOGimT0KKGCQN8z7Jz) | [ABOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Jay'll Be Happier](https://open.spotify.com/album/0OT6vQdaEAbExz2OCZCDwG) | 3:13 | 2022-06-20 | 2022-07-28 |
 | [Joker \(Feat\. JAMIE\)](https://open.spotify.com/track/7GLn0324YKGYxbYN7GH8Ip) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Bucket List](https://open.spotify.com/album/0lviZJTZcp60rZnT5vYdqB) | 3:19 | 2022-06-20 | 2022-06-30 |
 | [just wind](https://open.spotify.com/track/0hLM8oXFNxzRNWQmLxIAC1) | [Bluepaprika](https://open.spotify.com/artist/5UsQ1MY9PhBPfYkbb1cC0z) | [just wind](https://open.spotify.com/album/0k2E3GwW72XzVBxXPOLEmr) | 3:38 | 2022-06-20 | 2022-07-13 |
-| [Kiss The Rain](https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Tale of the Nine Tailed 1938, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd) | 2:32 | 2023-07-17 |  |
+| [Kiss The Rain](https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Tale of the Nine Tailed 1938, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd) | 2:32 | 2023-07-17 | 2025-06-26 |
 | [Last Letter](https://open.spotify.com/track/4TkBTwAQvAYQFuslKFcWLp) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [JEMINN](https://open.spotify.com/artist/1PuPoF4cUFMhb9xbzeKpg2) | [Last Letter](https://open.spotify.com/album/2E66RIJxDgKQIhKvSm6lQD) | 4:01 | 2022-06-20 | 2022-06-30 |
 | [Late Night Movie](https://open.spotify.com/track/4W54GPjAxFS1KVAnPCnc18) | [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS), [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc) | [OZ Land](https://open.spotify.com/album/3LNjqzURAuyxC1dfMO9FnL) | 3:02 | 2022-06-20 | 2022-06-30 |
 | [LET IT RAIN](https://open.spotify.com/track/6BBBU2oQsKb7TydvGTzjZP) | [SWRY](https://open.spotify.com/artist/67F3N58scf1KzBhMcA0Lcs) | [2 4 8 2](https://open.spotify.com/album/5EJxhjUavcjZKjhla9agvg) | 3:30 | 2022-06-20 | 2022-06-23 |

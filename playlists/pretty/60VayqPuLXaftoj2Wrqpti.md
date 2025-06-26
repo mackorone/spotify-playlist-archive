@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 2,187 likes - 87 songs - 5 hr 15 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 2,189 likes - 87 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 47 | [The Man](https://open.spotify.com/track/7zH1G8gZtSFYtL8ThQ1hv6) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [The Man](https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI) | 3:03 |
 | 48 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 |
 | 49 | [Over Fee](https://open.spotify.com/track/0yIU0r8yxFYgy1b2ZzeER2) | [Kx9000](https://open.spotify.com/artist/3HVmCZTPQmaMi5GH0mPj4J), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Dream Log](https://open.spotify.com/album/0Vy8hq8vbWvGITzLBulpiD) | 5:04 |
-| 50 | [Lean Into Your Own Breath](https://open.spotify.com/track/1vFVSRMBjqVM6Og5lJK5Lr) | [Land Of Echo](https://open.spotify.com/artist/02PragaQEHFnhhdGnX4KGl), [Ayana Homma](https://open.spotify.com/artist/1NFF7UapER59NGCbfl0IN0) | [Lean Into Your Own Breath](https://open.spotify.com/album/7MSDkFtgoPNEXt2t5sKrLI) | 3:53 |
+| 50 | [Lean into Your Own Breath](https://open.spotify.com/track/1vFVSRMBjqVM6Og5lJK5Lr) | [Land Of Echo](https://open.spotify.com/artist/02PragaQEHFnhhdGnX4KGl), [Ayana Homma](https://open.spotify.com/artist/1NFF7UapER59NGCbfl0IN0) | [Lean Into Your Own Breath](https://open.spotify.com/album/7MSDkFtgoPNEXt2t5sKrLI) | 3:53 |
 | 51 | [Wearing Black](https://open.spotify.com/track/64WyR2OOqHbd3uQA3LH4wn) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Wearing Black](https://open.spotify.com/album/2TPOpoI8YI71QD4Y0Ziq9O) | 3:00 |
 | 52 | [RUN](https://open.spotify.com/track/6prwB6AAU7BnZPGW0a8NBp) | [L'Eclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX), [Gelli Haha](https://open.spotify.com/artist/4O0acxqHYUQGGMqOICiSeI) | [CLOUD DRIFTER](https://open.spotify.com/album/4eDp3T5D63zGCFbm10pJUM) | 2:06 |
 | 53 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 |

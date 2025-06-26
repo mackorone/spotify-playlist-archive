@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Celebrating 10 years of the best new music by independent artists! Cover: Ryan Hylton | Artwork: Laina Deene",
+  "description": "Celebrating 10 years of the best new music by independent artists! Cover: DC3 | Artwork: Laina Deene",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -1017,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "Bad Distraction",
+        "url": "https://open.spotify.com/album/69HkYm4t8yyZnAlbTntcdh"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148959,
+      "name": "Bad Distraction",
+      "url": "https://open.spotify.com/track/1vFh516tf3QbUZxjbNbZ9v"
+    },
+    {
+      "album": {
         "name": "Bailo en la Tormenta",
         "url": "https://open.spotify.com/album/1nheH5kN0hLEFxfBOxZykC"
       },
@@ -1781,6 +1799,24 @@
     },
     {
       "album": {
+        "name": "Changing",
+        "url": "https://open.spotify.com/album/2muS3LljDCT5GXUEKOvjv3"
+      },
+      "artists": [
+        {
+          "name": "Ethan Nathaniel",
+          "url": "https://open.spotify.com/artist/5tGobqZ8J0XMtFl3H589Sv"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196074,
+      "name": "Changing",
+      "url": "https://open.spotify.com/track/5or03kuEpIYfBst6oZ6647"
+    },
+    {
+      "album": {
         "name": "Chasing After God",
         "url": "https://open.spotify.com/album/0h6XYaV9idYSMV8lxQaE0R"
       },
@@ -1944,7 +1980,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 120000,
       "name": "Cold Case",
       "url": "https://open.spotify.com/track/4aV92cIDfxNE7fH9ZYlWyy"
@@ -2812,6 +2848,24 @@
       "duration_ms": 160000,
       "name": "D\u00edas Buenos :)",
       "url": "https://open.spotify.com/track/51xp0if6i0fqsbcksIg4if"
+    },
+    {
+      "album": {
+        "name": "Ease Your Mind",
+        "url": "https://open.spotify.com/album/2tcYrqRgthQ8DDEIRz0XhI"
+      },
+      "artists": [
+        {
+          "name": "NAOMI",
+          "url": "https://open.spotify.com/artist/30JZwBAgqINdgg2zefqwha"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Ease Your Mind",
+      "url": "https://open.spotify.com/track/6ITMqdUBqzCtPX5mhiOkhb"
     },
     {
       "album": {
@@ -4344,7 +4398,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 261918,
       "name": "Gutter Punk",
       "url": "https://open.spotify.com/track/45A5UqTo2EEWJU9U2XpvVy"
@@ -4674,6 +4728,24 @@
       "duration_ms": 235125,
       "name": "Hell Shakes",
       "url": "https://open.spotify.com/track/0scBHifr0L7FtMHrVuhjXl"
+    },
+    {
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/4u6ZgyWkJWC9FegugiD2SD"
+      },
+      "artists": [
+        {
+          "name": "Maddi Jane",
+          "url": "https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180606,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/24DWJW3mIzlgSIvaEC3BdF"
     },
     {
       "album": {
@@ -6628,7 +6700,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 177809,
       "name": "Loose Ends",
       "url": "https://open.spotify.com/track/6Wcxe2Ha7NIyPY6wJAJWFQ"
@@ -8869,6 +8941,24 @@
     },
     {
       "album": {
+        "name": "Red Eye",
+        "url": "https://open.spotify.com/album/69pvXJZEww45vJclEUIAgO"
+      },
+      "artists": [
+        {
+          "name": "Mary-Clair",
+          "url": "https://open.spotify.com/artist/7s5zxVWcnecsbEJDNIIQfo"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150250,
+      "name": "Red Eye",
+      "url": "https://open.spotify.com/track/01X7nLixs4V2ewl9yYqYru"
+    },
+    {
+      "album": {
         "name": "Red Letters",
         "url": "https://open.spotify.com/album/2MwmuplCN5OHVF8M7L7L9R"
       },
@@ -9140,7 +9230,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 249713,
       "name": "Running",
       "url": "https://open.spotify.com/track/5FZxmDOCN6CJZN2dlcnPJy"
@@ -9520,7 +9610,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 243267,
       "name": "Shoulder Of The Lord",
       "url": "https://open.spotify.com/track/0UYna7KQJM5dEVBjao3F3o"
@@ -9829,6 +9919,28 @@
     },
     {
       "album": {
+        "name": "Southern Delight",
+        "url": "https://open.spotify.com/album/4K0vlY8TRP06eHWgNSW02y"
+      },
+      "artists": [
+        {
+          "name": "MEEZO!",
+          "url": "https://open.spotify.com/artist/7i6g2SHe4VMA8nAW7Ljc2G"
+        },
+        {
+          "name": "Essence Natay",
+          "url": "https://open.spotify.com/artist/6CBOrBHVUHNz4sMFic0Tux"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182270,
+      "name": "Southern Delight",
+      "url": "https://open.spotify.com/track/1zowF1c6YgxcoGvO5FXyeC"
+    },
+    {
+      "album": {
         "name": "Speak",
         "url": "https://open.spotify.com/album/7iYoUb3wTE112IX12irwR0"
       },
@@ -10094,7 +10206,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 182564,
       "name": "Suficiente",
       "url": "https://open.spotify.com/track/46HrrsEUanqQVLzanLLUEq"
@@ -10380,6 +10492,28 @@
       "duration_ms": 208968,
       "name": "Taste Another Day",
       "url": "https://open.spotify.com/track/2Pezb5u4BHTGCCaTafDML6"
+    },
+    {
+      "album": {
+        "name": "POV",
+        "url": "https://open.spotify.com/album/2nu5e8MySYb6Iu5eaDlvX9"
+      },
+      "artists": [
+        {
+          "name": "Mireyli Rosa",
+          "url": "https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC"
+        },
+        {
+          "name": "Dariann Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198974,
+      "name": "Te Cuido",
+      "url": "https://open.spotify.com/track/0o8ATIApthe067wFY5wG2B"
     },
     {
       "album": {
@@ -11578,7 +11712,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 193000,
       "name": "What A Friend We Have In Jesus - Acoustic",
       "url": "https://open.spotify.com/track/4MwBgUEdwy17nlrKu2EXEE"
@@ -11726,7 +11860,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 106901,
       "name": "When I'm With You",
       "url": "https://open.spotify.com/track/56bXpId99F737gwsIAIQWz"
@@ -12450,6 +12584,28 @@
       "duration_ms": 180000,
       "name": "ZION (NEVER CHANGING)",
       "url": "https://open.spotify.com/track/3DMitTZDqxQhnma2n2kbBG"
+    },
+    {
+      "album": {
+        "name": "\u00a1RUIDO!",
+        "url": "https://open.spotify.com/album/6ZHISMBt3iTl5zCG3bk697"
+      },
+      "artists": [
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        },
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189773,
+      "name": "\u00a1RUIDO!",
+      "url": "https://open.spotify.com/track/2XTFltfNEENsCMSQuZ7SQ3"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX82qPOvdCxxq"

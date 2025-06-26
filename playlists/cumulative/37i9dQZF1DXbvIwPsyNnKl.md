@@ -2,9 +2,9 @@
 
 ### [KALYE](https://open.spotify.com/playlist/37i9dQZF1DXbvIwPsyNnKl)
 
-> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Realest Cram, Young Blood Neet
+> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: SAJKA
 
-267 songs - 15 hr 10 min
+268 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [4u](https://open.spotify.com/track/5KzreODVITXVze4HkoMhhZ) | [RB Slatt](https://open.spotify.com/artist/1mp3obA5hrR8GjHx95Wlrk) | [4u](https://open.spotify.com/album/0RkWVWCivVaatlwqwErefx) | 3:38 | 2023-10-18 | 2023-12-14 |
 | [6LOCK](https://open.spotify.com/track/4kaRV5iUm7GxeJX7z4Yzif) | [OJ River](https://open.spotify.com/artist/2qvzM4GTevp3cEcfAnCPMF), [Buddahbeads](https://open.spotify.com/artist/2LyJIIc4eWoftOZ0kFaEDQ), [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [6LOCK](https://open.spotify.com/album/32R0fB78SY19ipjoD5c2Sp) | 4:23 | 2024-07-17 | 2024-12-12 |
 | [911](https://open.spotify.com/track/4HB03HtBWjgkDjbpGY50vW) | [GHR](https://open.spotify.com/artist/2CiqTtIxC5APYM10TLosCs), [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Tu$ Brother$](https://open.spotify.com/artist/7IECoRDgYFidTg3vhiL0sC), [Wing Goods](https://open.spotify.com/artist/23NRuMfzEnH4qMODcsaE6E), [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B), [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc), [SUPAFLY](https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih) | [911](https://open.spotify.com/album/3VSQyP9w2j2Z5Q77O6xE0D) | 4:30 | 2024-01-03 | 2024-03-28 |
+| [99% SWAG](https://open.spotify.com/track/1Q6fWYoKuAF6DhZNoXdJow) | [NIO](https://open.spotify.com/artist/2xx4CyNSY4QFkS2lFkMKIP) | [99% SWAG](https://open.spotify.com/album/6agM127I2kQ73CW20UiIad) | 2:05 | 2025-06-26 |  |
 | [A to Z \(Drop It\)](https://open.spotify.com/track/1KRUDPUO1tSLRRwqcdcaBU) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX), [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD) | [A to Z \(Drop It\)](https://open.spotify.com/album/15H5ozOeeDQ1MvgqIfG2Pk) | 3:30 | 2024-12-11 | 2025-02-13 |
 | [Aanhin](https://open.spotify.com/track/2M8kxHDUokVYpusBRjh6PX) | [Juan Caoile](https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd), [Kyleswish](https://open.spotify.com/artist/1EMaB1ZnRpeXWruJZMtaUa), [Jawz](https://open.spotify.com/artist/6zCxAxzt79PCyDcFIJRfyg) | [Aanhin](https://open.spotify.com/album/1dozfRfM92Ye6AXjsiejnA) | 3:30 | 2025-02-27 | 2025-05-01 |
 | [Aba Ginoong Napupuno Ng Swag](https://open.spotify.com/track/7jQ3w6hGY8mdf87wLMAhC7) | [NIO](https://open.spotify.com/artist/2xx4CyNSY4QFkS2lFkMKIP) | [Aba Ginoong Napupuno Ng Swag](https://open.spotify.com/album/2Jocl1kQS4Bn5EZFGhFcmR) | 2:58 | 2024-03-13 | 2024-12-05 |
@@ -251,7 +252,7 @@
 | [That's My Type](https://open.spotify.com/track/492GiJVNa4nrriNWTwz876) | [K\-Lv](https://open.spotify.com/artist/1wr7qGmInj8AOIJbeOG7qq), [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2), [Ryouji](https://open.spotify.com/artist/0LxWnRbSp4xZBKzNYjc3V4) | [That's My Type](https://open.spotify.com/album/1szCrEWSjK5j5NcH4zleb4) | 3:10 | 2025-06-04 |  |
 | [Thug](https://open.spotify.com/track/0PTYkBpalg3l8p3ABlfVNE) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [DRUGS](https://open.spotify.com/album/5g7qNOVyfZA3sZIFIcb6ia) | 2:44 | 2024-06-05 | 2024-07-25 |
 | [Top Secret](https://open.spotify.com/track/5E37bVbBKQaV28JFaCNZVp) | [Buddahbeads](https://open.spotify.com/artist/2LyJIIc4eWoftOZ0kFaEDQ), [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Daarth](https://open.spotify.com/artist/32xQ6EBQOP6dIGDbJ7cSAH), [MSTRYOVERSE](https://open.spotify.com/artist/5UrbDafjmKdIIZirS8zM3I), [Madman Stan](https://open.spotify.com/artist/274hw9Yas8mzmwLkbpsvLR), [SCOOP DOGG](https://open.spotify.com/artist/5RLP1KKuSvzYTWDujE3bi2), [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [Top Secret](https://open.spotify.com/album/14z1WtpGIfD9rhHTWJr9mr) | 3:34 | 2024-09-26 | 2025-01-02 |
-| [TOTOO AKO SAYO](https://open.spotify.com/track/4UiVDSYeN25r6g6JMDbjud) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [TOTOO AKO SAYO](https://open.spotify.com/album/4znLtpPaynVJ8MxEme8Lsr) | 2:43 | 2025-01-01 |  |
+| [TOTOO AKO SAYO](https://open.spotify.com/track/4UiVDSYeN25r6g6JMDbjud) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [TOTOO AKO SAYO](https://open.spotify.com/album/4znLtpPaynVJ8MxEme8Lsr) | 2:43 | 2025-01-01 | 2025-06-26 |
 | [Tugmang Preso](https://open.spotify.com/track/3iF6qURjmUsozda5wS6nkz) | [Loonie](https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc) | [Meron Na](https://open.spotify.com/album/4EIkAGjXLeIjP2IWzAQbDW) | 6:54 | 2024-01-17 | 2024-03-21 |
 | [Tunay](https://open.spotify.com/track/0AmBI2yu9dnXlcN6EHqSBB) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT), [Daarth](https://open.spotify.com/artist/32xQ6EBQOP6dIGDbJ7cSAH) | [Tunay](https://open.spotify.com/album/2uRCDRopSMgjCUnZZdysJG) | 2:48 | 2025-04-16 |  |
 | [Umaga \- Spotify Singles](https://open.spotify.com/track/0qOqU6GpnwY1ElwUQMpwnA) | [Gloc\-9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD), [Hero](https://open.spotify.com/artist/0zF89Z0aMZSGZlgEBX0uvm), [Ramdiss](https://open.spotify.com/artist/6Tfk9MrJjusZ8mvmwHegR6) | [Umaga \- Spotify Singles](https://open.spotify.com/album/6d5kDZ9af7LFXe4UcAazj1) | 4:03 | 2023-11-01 | 2024-01-18 |

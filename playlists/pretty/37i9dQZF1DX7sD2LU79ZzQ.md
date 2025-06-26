@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Perunggu
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,815 likes - 110 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,847 likes - 110 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

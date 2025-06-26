@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Thauane
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,240 likes - 69 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,229 likes - 69 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 3 | [Onde Eu Vou Eu Tô](https://open.spotify.com/track/6NvEhHlbkKYJERbmpIACtS) | [Junior Marques](https://open.spotify.com/artist/5Q3lDwHhgRwL4pBWgXUSu3), [Breno e Bernardo](https://open.spotify.com/artist/2gsNxDIZmMfEF4LIr2QDF0) | [Onde Eu Vou Eu Tô](https://open.spotify.com/album/4tTJbtUWO3SgHV3NY8GVZi) | 2:25 |
 | 4 | [Metade Metade](https://open.spotify.com/track/0OY7BxpMe9ERUIqfF94aSe) | [Rafael Garcez](https://open.spotify.com/artist/3lwHsx9Dt9Th00WtxIhAth), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Metade Metade](https://open.spotify.com/album/0KqXyxBWrxiZiMVGfQweYH) | 2:40 |
 | 5 | [Estatística \- Ao Vivo](https://open.spotify.com/track/0mNUOT5kFPui5ghdqy0mAE) | [Débora & Daniela](https://open.spotify.com/artist/3O4oCrI8bsnuk5X6mrjjb7), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Encontro, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/7zc32T4pEa1YRtGtiBX04W) | 2:35 |
-| 6 | [Bate e Volta](https://open.spotify.com/track/6bWIGsHaPL4gfOCDpzn0SF) | [Matheus Marcolino](https://open.spotify.com/artist/2XQpug45cVZnFbLlpe58HQ), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Bate e Volta](https://open.spotify.com/album/1nKommPLM7t2AIzRU5TIot) | 2:38 |
+| 6 | [Bate\-Volta](https://open.spotify.com/track/6bWIGsHaPL4gfOCDpzn0SF) | [Matheus Marcolino](https://open.spotify.com/artist/2XQpug45cVZnFbLlpe58HQ), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Bate\-Volta](https://open.spotify.com/album/1nKommPLM7t2AIzRU5TIot) | 2:38 |
 | 7 | [Choro Involuntário \- Ao Vivo](https://open.spotify.com/track/14l14AeA5AZk9Cdyat09xp) | [Júnior e Cézar](https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk) | [Simplesmente \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/2blX6DRC3yxMoUBTzzdW0S) | 2:39 |
 | 8 | [Dois Pé no Peito \- Ao Vivo](https://open.spotify.com/track/46vgRBlaFOiyfCyYk2xBDr) | [Abel e Benício](https://open.spotify.com/artist/53ealWeLbd46JtRUBRBJlE), [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Dois Pé no Peito \(Ao Vivo\)](https://open.spotify.com/album/5JBlm5DyZxfFlvmTadfVsS) | 2:57 |
 | 9 | [Coração Tem Lei](https://open.spotify.com/track/37lVQEks1MubkdoxU1md9d) | [Reddy Allor](https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S), [Roberta Miranda](https://open.spotify.com/artist/6pRYBBHNsZYnZ8w2xjkAgP) | [Coração Tem Lei](https://open.spotify.com/album/6QIDjqI4aJvLWYGeH1MKLE) | 2:37 |

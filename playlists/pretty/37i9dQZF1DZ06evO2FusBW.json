@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 10929,
+  "num_followers": 10930,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFiZAAAAAAC8+gBSoht4mGXine7xVZ6l",
+  "snapshot_id": "aFnqgAAAAAAMM5ZSn1p21Szw7KuO1kOI",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Way of Light",
-        "url": "https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 196906,
-      "name": "My Way of Light",
-      "url": "https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thrive",
         "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 205760,
       "name": "Essence of Light",
       "url": "https://open.spotify.com/track/2dpATRXkRpyuIrnZalU1x7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Way of Light",
+        "url": "https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 196906,
+      "name": "My Way of Light",
+      "url": "https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz"
     },
     {
       "added_at": null,
@@ -319,18 +319,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "[extended] BLISS",
-        "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
+        "name": "Meditation 66",
+        "url": "https://open.spotify.com/album/62VLkrAkCtoMehAQSelT13"
       },
       "artists": [
+        {
+          "name": "TUNE YOUR MIND",
+          "url": "https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1"
+        },
         {
           "name": "RIOPY",
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 202105,
-      "name": "Human Compassion",
-      "url": "https://open.spotify.com/track/61XRtaSvEcC52h4RAYP4hx"
+      "duration_ms": 144725,
+      "name": "Habibi (Love)",
+      "url": "https://open.spotify.com/track/2FAPfnVnC5rLtXSGReURmp"
     },
     {
       "added_at": null,
@@ -367,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation 66",
-        "url": "https://open.spotify.com/album/62VLkrAkCtoMehAQSelT13"
-      },
-      "artists": [
-        {
-          "name": "TUNE YOUR MIND",
-          "url": "https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1"
-        },
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 144725,
-      "name": "Habibi (Love)",
-      "url": "https://open.spotify.com/track/2FAPfnVnC5rLtXSGReURmp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "[extended] BLISS",
         "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
       },
@@ -396,25 +380,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 170346,
-      "name": "La Vernatelle",
-      "url": "https://open.spotify.com/track/1uZfUDfJEWrpjFAtGbosU1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tree of Light",
-        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 310240,
-      "name": "Summer Night",
-      "url": "https://open.spotify.com/track/4udQdukrhegqWhqdprQtbx"
+      "duration_ms": 202105,
+      "name": "Human Compassion",
+      "url": "https://open.spotify.com/track/61XRtaSvEcC52h4RAYP4hx"
     },
     {
       "added_at": null,
@@ -431,6 +399,22 @@
       "duration_ms": 252160,
       "name": "Ever After",
       "url": "https://open.spotify.com/track/7FcOEkthAu7DrEKJt4qqYB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tree of Light",
+        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 310240,
+      "name": "Summer Night",
+      "url": "https://open.spotify.com/track/4udQdukrhegqWhqdprQtbx"
     },
     {
       "added_at": null,
@@ -460,9 +444,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 197573,
-      "name": "Sweet Dream",
-      "url": "https://open.spotify.com/track/2hFqgROkIJaQ25re3xTQ8w"
+      "duration_ms": 170346,
+      "name": "La Vernatelle",
+      "url": "https://open.spotify.com/track/1uZfUDfJEWrpjFAtGbosU1"
     },
     {
       "added_at": null,
@@ -524,9 +508,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 155946,
-      "name": "Sweet awakening",
-      "url": "https://open.spotify.com/track/4OMHYzumgLL8hqugPLf5dw"
+      "duration_ms": 197573,
+      "name": "Sweet Dream",
+      "url": "https://open.spotify.com/track/2hFqgROkIJaQ25re3xTQ8w"
     },
     {
       "added_at": null,
@@ -547,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation 111",
-        "url": "https://open.spotify.com/album/418PRzkbwMn1lsbNtBWHeC"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 142083,
-      "name": "Meditation 111",
-      "url": "https://open.spotify.com/track/4OpzaBPXTZkBKyiQVYxMag"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thrive",
         "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },
@@ -579,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Meditation 111",
+        "url": "https://open.spotify.com/album/418PRzkbwMn1lsbNtBWHeC"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 142083,
+      "name": "Meditation 111",
+      "url": "https://open.spotify.com/track/4OpzaBPXTZkBKyiQVYxMag"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "[extended] BLISS",
         "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
       },
@@ -588,9 +572,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 167880,
-      "name": "Noah",
-      "url": "https://open.spotify.com/track/28VLOsb8NVYCfGgXvZF7Lq"
+      "duration_ms": 155946,
+      "name": "Sweet awakening",
+      "url": "https://open.spotify.com/track/4OMHYzumgLL8hqugPLf5dw"
     },
     {
       "added_at": null,
@@ -607,22 +591,6 @@
       "duration_ms": 1354080,
       "name": "Meditation 22",
       "url": "https://open.spotify.com/track/2zyt5VHuSeLPBfUjl9uDNx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/55pCEgcgrUOP9ifcNXf1vw"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Epiphany",
-      "url": "https://open.spotify.com/track/698yyux04kySM0ezqzIQhD"
     },
     {
       "added_at": null,
@@ -659,6 +627,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "[extended] BLISS",
+        "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 167880,
+      "name": "Noah",
+      "url": "https://open.spotify.com/track/28VLOsb8NVYCfGgXvZF7Lq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/55pCEgcgrUOP9ifcNXf1vw"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/698yyux04kySM0ezqzIQhD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meditation 432",
         "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
       },
@@ -691,18 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation 432",
-        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/6nfzwVlb6qBc4I1XeDKNH1"
       },
       "artists": [
+        {
+          "name": "TUNE YOUR MIND",
+          "url": "https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1"
+        },
         {
           "name": "RIOPY",
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 278958,
-      "name": "A BIRD'S TALE",
-      "url": "https://open.spotify.com/track/0BQSiWiaW8UvRUVSELnAVh"
+      "duration_ms": 145500,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/5MC9eD8alc4LwxAmhrOfF9"
     }
   ],
   "unique_name": "This Is RIOPY",

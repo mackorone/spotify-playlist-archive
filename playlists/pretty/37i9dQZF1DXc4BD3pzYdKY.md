@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  Aaron Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,536 likes - 103 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,573 likes - 103 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 2 | [June 13th](https://open.spotify.com/track/3iHuAhP89Z1d50rBTdjyoa) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H) | [June 13th](https://open.spotify.com/album/3itU5IMx1xNr76TPtOq9me) | 2:51 |
 | 3 | [One You](https://open.spotify.com/track/079uRy9uPL2zkBzIeyUdPA) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [One You](https://open.spotify.com/album/1ewkCMESWXafZayQNBsSiN) | 2:27 |
 | 4 | [NOBODY BUT GOD \(feat\. Jon Keith\)](https://open.spotify.com/track/0PgnIPWS1eQh1SbneVtFDB) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [NOBODY BUT GOD \(feat\. Jon Keith\)](https://open.spotify.com/album/73L8hD7WvFt2wqzvbxvyh5) | 2:38 |
-| 5 | [Alright](https://open.spotify.com/track/3yrhr8lDXzx83tfhwvp7wy) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Baby Truth](https://open.spotify.com/artist/3JSZUZkyZbG583ywTOr4tD) | [Alright](https://open.spotify.com/album/3SHL8OJzYcVZxStR0NOH1c) | 3:19 |
+| 5 | [Alright](https://open.spotify.com/track/3yrhr8lDXzx83tfhwvp7wy) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [Baby Truth](https://open.spotify.com/artist/3JSZUZkyZbG583ywTOr4tD), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Alright](https://open.spotify.com/album/3SHL8OJzYcVZxStR0NOH1c) | 3:19 |
 | 6 | [Falling \- Extended Cut](https://open.spotify.com/track/4dWQaRkCPZGB3iRFxGY6dk) | [Phathom](https://open.spotify.com/artist/10AoUbJ3QTDEeClAkolQRN), [Chris Rivers](https://open.spotify.com/artist/4TCqgEIWd5RsCKItJqt8PL), [Datin](https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4), [Pastor Charles A.R.](https://open.spotify.com/artist/6k6t8U8gfxooRFD6Vu6V0j), [Sly Boogie](https://open.spotify.com/artist/3XIaQDNiwvJWOKojIyAK4r), [Jered Sanders](https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e) | [The What If Project](https://open.spotify.com/album/4UgbfRZnONZLZ9JOu9G14m) | 4:32 |
 | 7 | [DIABÓLICO](https://open.spotify.com/track/6q4eT83HHReQYdTbFK1y5z) | [Don Ryvcko](https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D) | [DIABÓLICO](https://open.spotify.com/album/6gLXyyiuHLFwp9UgmzpRhG) | 1:36 |
 | 8 | [WAR READY](https://open.spotify.com/track/6voa3fKUWRg2uV9o6jeE87) | [Kijan Boone](https://open.spotify.com/artist/3dAXZ2iCLGeHz5IMhAi12V) | [MAD 4 GOD 2](https://open.spotify.com/album/3qB85gunFcaAQEABpsFcIw) | 2:17 |

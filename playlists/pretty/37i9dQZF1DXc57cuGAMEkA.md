@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Benson Boone, Ed Sheeran, Lola Young, sombr and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,068 likes - 92 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,067 likes - 92 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

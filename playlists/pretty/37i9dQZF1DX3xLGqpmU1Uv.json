@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico! Alberto V\u00e1zquez en portada.",
-  "num_followers": 171256,
+  "num_followers": 171308,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Rock - Lo Mejor De Los Locos Del Ritmo - Pioneros Del Rock En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK"
-      },
-      "artists": [
-        {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
-        }
-      ],
-      "duration_ms": 114800,
-      "name": "El Rock De La C\u00e1rcel",
-      "url": "https://open.spotify.com/track/43ciCW4nNa2x17L8Ts3Csf"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Peerless 80 Aniversario - 24 Exitos Vol. 1",
         "url": "https://open.spotify.com/album/4OfBy9NPNwl1pYoIjNLBhU"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 164093,
       "name": "Atras de la Raya",
       "url": "https://open.spotify.com/track/0QvKb8DrkSzvSDxBRJxK7K"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Rock - Lo Mejor De Los Locos Del Ritmo - Pioneros Del Rock En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "duration_ms": 114800,
+      "name": "El Rock De La C\u00e1rcel",
+      "url": "https://open.spotify.com/track/43ciCW4nNa2x17L8Ts3Csf"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -697,22 +697,6 @@
       "url": "https://open.spotify.com/track/68YJoKueqWtsL5co2VCRjN"
     },
     {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
-        "name": "Los Exitos De: Los Juniors y Su Cantante Arturo",
-        "url": "https://open.spotify.com/album/1MD6zyg3BVVPLSOGvRq3cI"
-      },
-      "artists": [
-        {
-          "name": "Los Juniors",
-          "url": "https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf"
-        }
-      ],
-      "duration_ms": 179173,
-      "name": "La Perla",
-      "url": "https://open.spotify.com/track/3fcpAFDPHKsr8ZuayXWTLm"
-    },
-    {
       "added_at": "2024-07-12 13:46:41",
       "album": {
         "name": "100% Mexican Groovy: Batalla Estelar",
@@ -727,6 +711,22 @@
       "duration_ms": 111211,
       "name": "Tema Del Elefantito",
       "url": "https://open.spotify.com/track/58sFSHe9jClg9giSmlG1rH"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Los Exitos De: Los Juniors y Su Cantante Arturo",
+        "url": "https://open.spotify.com/album/1MD6zyg3BVVPLSOGvRq3cI"
+      },
+      "artists": [
+        {
+          "name": "Los Juniors",
+          "url": "https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf"
+        }
+      ],
+      "duration_ms": 179173,
+      "name": "La Perla",
+      "url": "https://open.spotify.com/track/3fcpAFDPHKsr8ZuayXWTLm"
     },
     {
       "added_at": "2024-07-12 13:46:41",

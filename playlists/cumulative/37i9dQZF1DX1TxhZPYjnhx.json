@@ -4545,6 +4545,24 @@
     },
     {
       "album": {
+        "name": "Girl of Your Dreams",
+        "url": "https://open.spotify.com/album/7lH9AcAtACrcYMKC6aLoGA"
+      },
+      "artists": [
+        {
+          "name": "Eli",
+          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "Girl of Your Dreams",
+      "url": "https://open.spotify.com/track/7AVZ2T5nku3TKyZlPPXLEd"
+    },
+    {
+      "album": {
         "name": "GIRLS",
         "url": "https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC"
       },

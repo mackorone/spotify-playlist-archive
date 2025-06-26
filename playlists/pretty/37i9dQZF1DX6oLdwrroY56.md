@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 
 > pinoy alternative music \. Cover: ena mori
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,767 likes - 58 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,763 likes - 58 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-666 songs - 1 day 10 hr 19 min
+667 songs - 1 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Don't Mess With The Fire](https://open.spotify.com/track/1BFtsk36BEI4OZuylBirW3) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Don't Mess With The Fire](https://open.spotify.com/album/4FgD2SnL81w4MSReXxhXsV) | 2:47 | 2025-06-20 |  |
 | [Don't Wake Me Up](https://open.spotify.com/track/5ieyP4fDwxueOeQ6kwUnwm) | [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp) | [Don't Wake Me Up](https://open.spotify.com/album/5iL66rtAS4BMstugxgWA9M) | 4:14 | 2022-05-06 | 2022-07-29 |
 | [Don't Wanna Let Myself Down](https://open.spotify.com/track/24Dz4BuswUpKX4eSTQ7yTj) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Addict](https://open.spotify.com/album/73KJ30g0if8oRKwSGiLZd4) | 2:35 | 2022-05-06 | 2022-07-29 |
-| [Don't You Hold Me Down](https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Don't You Hold Me Down](https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ) | 2:12 | 2022-05-06 |  |
+| [Don't You Hold Me Down](https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Don't You Hold Me Down](https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ) | 2:12 | 2022-05-06 | 2025-06-26 |
 | [Dope Track](https://open.spotify.com/track/4Z38jEv7REm9di26vAAO6A) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Beat Tape 3](https://open.spotify.com/album/15DkAowq0NYedaw8ieeepT) | 2:30 | 2024-08-02 | 2025-01-10 |
 | [Dreamer](https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Dreamer](https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU) | 2:35 | 2023-05-05 | 2023-07-19 |
 | [Dreaming](https://open.spotify.com/track/7K0tKZGP9mi4oqJSOJj29Q) | [Rootkit](https://open.spotify.com/artist/01olvHW7uzIInQx9VTNuJm), [Cammie Robinson](https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe) | [Dreaming \(ft\. Cammie Robinson\)](https://open.spotify.com/album/64AMbWwmxSBhXDwlKpOMBA) | 3:50 | 2022-05-06 | 2022-07-29 |
@@ -613,6 +613,7 @@
 | [u.](https://open.spotify.com/track/0J7oHYxjF6Oln61wy0kP2i) | [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW) | [u.](https://open.spotify.com/album/4zilHatAUeMby2Lh1pEHpS) | 2:54 | 2022-07-14 | 2022-08-25 |
 | [u.](https://open.spotify.com/track/22vZPUxE05ELFeIO0Wipj2) | [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW) | [u.](https://open.spotify.com/album/44EIn5KIXSE1GLD46ngPml) | 2:54 | 2022-08-12 | 2022-08-21 |
 | [u.](https://open.spotify.com/track/3bwIVaOlLSX4rInoLgB3uX) | [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW) | [u.](https://open.spotify.com/album/3R8Yfbc9k1aNH6kTqaYLyj) | 2:54 | 2022-08-26 | 2023-03-04 |
+| [uhm?](https://open.spotify.com/track/25dKoA2z4fHXHlZux3XrJm) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [uhm?](https://open.spotify.com/album/6q8C1btD0CTSWvjSheZItc) | 2:49 | 2025-06-25 |  |
 | [Under Pressure](https://open.spotify.com/track/7q887Wj7xbhsSKhHct5xKM) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Ben Samama](https://open.spotify.com/artist/3MICPvsOVZdedC4KnDT0S4) | [Under Pressure](https://open.spotify.com/album/22RgvmuvHeXfiXozVioC2Q) | 3:15 | 2022-09-23 | 2025-03-20 |
 | [Unholy \(feat\. Kim Petras\) \- Disclosure Remix](https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Unholy \(feat\. Kim Petras\) \[Disclosure Remix\]](https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj) | 3:54 | 2022-10-14 | 2023-08-19 |
 | [Unholy \- Dxrk ダークRemix](https://open.spotify.com/track/7ipO6ItNDXUiY9wjo4HvJr) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [Unholy \(Dxrk ダークRemix\)](https://open.spotify.com/album/7lK6WEgAKqQ4bzSwfpZ7UF) | 2:09 | 2022-12-02 | 2023-01-06 |

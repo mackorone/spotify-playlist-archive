@@ -4,7 +4,7 @@
 
 > \#fyp
 
-791 songs - 1 day 17 hr 33 min
+792 songs - 1 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,7 +579,7 @@
 | [Parle en sah](https://open.spotify.com/track/1xysbkgOGqOBgyVqNeSMla) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Focus](https://open.spotify.com/album/6ny3VhgjCxyIkGAJk7TjsK) | 2:41 | 2025-04-18 |  |
 | [Parler tout bas](https://open.spotify.com/track/78llSmtimcWfFlybSZlmJz) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Parler tout bas](https://open.spotify.com/album/0cISJv7xclDDO4wKFH8ldc) | 3:21 | 2024-04-26 | 2024-08-22 |
 | [PAS DE REMORDS](https://open.spotify.com/track/7l2BGF9fCc6hmhGfNjbKit) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [AMBITION](https://open.spotify.com/album/48JSJ6nOB4SegSt9Gs2cZY) | 2:53 | 2024-01-05 | 2024-03-07 |
-| [pas différent](https://open.spotify.com/track/5p0yASvfzEmGvFMB9M8R7I) | [MP404](https://open.spotify.com/artist/78H2pO7f0OzfsKvT5VqofA) | [pas différent](https://open.spotify.com/album/5WkpNZFiU82YeeqXqTJtcu) | 2:47 | 2025-05-22 |  |
+| [pas différent](https://open.spotify.com/track/5p0yASvfzEmGvFMB9M8R7I) | [MP404](https://open.spotify.com/artist/78H2pO7f0OzfsKvT5VqofA) | [pas différent](https://open.spotify.com/album/5WkpNZFiU82YeeqXqTJtcu) | 2:47 | 2025-05-22 | 2025-06-26 |
 | [Passe ton chemin](https://open.spotify.com/track/1edPU5OOn4YCWn9lR0nesC) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Passe ton chemin](https://open.spotify.com/album/4oZy6v3nyTXCE2pX4Vv8m0) | 2:49 | 2024-06-21 | 2024-11-16 |
 | [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 | 2025-03-21 |  |
 | [PAY!](https://open.spotify.com/track/1qXKTMEUNkTuYBH6kauxW6) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [PAY!](https://open.spotify.com/album/4V0w5wniprh3z99zFbMPnI) | 2:10 | 2025-05-09 |  |
@@ -638,6 +638,7 @@
 | [Rose noire](https://open.spotify.com/track/70EV0Zz3Q0xcc3eEJl4kC5) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D) | [Fantôme](https://open.spotify.com/album/2l9Mji9qRvRY8JdX8MZMia) | 3:01 | 2024-07-12 | 2024-09-19 |
 | [Rouge et bleu](https://open.spotify.com/track/4PkQpqSjCxenpqJbFViK6b) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Kaos](https://open.spotify.com/album/1eFiIv1SqrUJHOFf54U27W) | 4:13 | 2024-08-08 | 2025-01-18 |
 | [Roule un autre \- A COLORS SHOW](https://open.spotify.com/track/7FKZix4pk2qf4SZVMOYich) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Roule un autre \(A COLORS SHOW\)](https://open.spotify.com/album/0ddT6KMNHM7qXZQww6yZWx) | 2:56 | 2023-10-13 | 2024-01-27 |
+| [RUINART](https://open.spotify.com/track/0vZyOrmcNCzkz73HSEMfLk) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [RUINART](https://open.spotify.com/album/6DDz77QqTYGIWIj9g4fUN1) | 2:54 | 2025-06-25 |  |
 | [ruiné \(comme un dj\)](https://open.spotify.com/track/73QO4ZPYZOm2t3F1kTC62j) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [6TR9C9](https://open.spotify.com/album/0UE21vCQWLqiruKJmX4Ihg) | 2:07 | 2025-06-11 |  |
 | [Run Boy Run](https://open.spotify.com/track/5yrlYkRg9QBnMZsrTbHLV9) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [The Golden Age](https://open.spotify.com/album/4xnYue1MP5wspZzWyzEkmQ) | 3:33 | 2024-09-20 | 2024-12-14 |
 | [Sabry Aalil](https://open.spotify.com/track/7qLXBcYW78is9LygQBziAU) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Garh Tany](https://open.spotify.com/album/7iykGeMdxOdYtNRtYCNaMA) | 4:49 | 2024-01-08 | 2024-03-02 |

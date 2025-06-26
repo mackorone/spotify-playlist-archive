@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,359 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,382 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 58 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 |
 | 59 | [Praise \(feat\. Brandon Lake, Chris Brown & Chandler Moore\)](https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:04 |
 | 60 | [ALL GLORY](https://open.spotify.com/track/1Mn47EQ5DcXJNejuxyBBo3) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [ALL GLORY](https://open.spotify.com/album/6iD2jnGlZmKJBSMnUWULNR) | 2:51 |
-| 61 | [The Reason \- Live](https://open.spotify.com/track/6lWEDYrm4CXpfMCHYQOu9n) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd), [The Remnant](https://open.spotify.com/artist/1hpPyofpQgZVXFftbcehka) | [The Reason](https://open.spotify.com/album/2VeoT5lhd5WAE2YYri6ZqL) | 11:18 |
+| 61 | [The Reason \- Live](https://open.spotify.com/track/6lWEDYrm4CXpfMCHYQOu9n) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd), [The Remnant](https://open.spotify.com/artist/1hpPyofpQgZVXFftbcehka) | [The Reason \(Live\)](https://open.spotify.com/album/2VeoT5lhd5WAE2YYri6ZqL) | 11:18 |
 | 62 | [Shabach Praise Vol\. 2](https://open.spotify.com/track/0UvxIunl1BhnAgVUc9QJ2c) | [Adetoun](https://open.spotify.com/artist/4N43Qov0D7UPN0Whxw6Gee) | [Shabach Praise Vol\. 2](https://open.spotify.com/album/3iouQTUUfqnFwmTXlNUEbu) | 18:50 |
 | 63 | [Overdo](https://open.spotify.com/track/7qlJKujY7TFrretwydfJAA) | [Millicent Yankey](https://open.spotify.com/artist/3deqTqS9xbjPEQ92Dy5teL), [Scott Evans](https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r) | [Overdo](https://open.spotify.com/album/5sovl7DBuBTG5ttgieKYDe) | 3:18 |
 | 64 | [Ngozi \(Blessings fall like rain\)](https://open.spotify.com/track/5EW0tamzcrRRFDJ0hmBkBh) | [King GreatLight](https://open.spotify.com/artist/7CNnBtVHuRg05DyAZQjRF5) | [Ngozi \(Blessings fall like rain\)](https://open.spotify.com/album/01KNNZpSxTVvSHvPmwushE) | 3:42 |

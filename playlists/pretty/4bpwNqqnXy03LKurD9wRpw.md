@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bpwNqqnXy03LKurD9wRpw.md) - [plain]
 
 > a collation of music recommendations from at random.
 
-[Jess Green](https://open.spotify.com/user/1231146893) - 1 like - 33 songs - 1 hr 48 min
+[Jess Green](https://open.spotify.com/user/1231146893) - 1 like - 35 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,5 +41,7 @@ pretty - [cumulative](/playlists/cumulative/4bpwNqqnXy03LKurD9wRpw.md) - [plain]
 | 31 | [Lucky stars](https://open.spotify.com/track/5kceyl4cE1TJCOI3AOK09g) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6) | 3:18 |
 | 32 | [Hammer](https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Hammer](https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU) | 3:13 |
 | 33 | [i'll still feel for you](https://open.spotify.com/track/0qNOicj66xgqIEf6h5FHc7) | [PRETTY BLEAK](https://open.spotify.com/artist/6x0YBTahRdiFIVlZt9ilLx) | [i'll still feel for you](https://open.spotify.com/album/2AdHx4C7q8AczjzuwNEyEQ) | 3:31 |
+| 34 | [Late To The Party](https://open.spotify.com/track/0E5ZrgbRKXwGvNhwzRaDGL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 3:37 |
+| 35 | [Good Ol' Boys Club](https://open.spotify.com/track/4CHyDw5J56I0x40MFk5f2V) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 3:16 |
 
-Snapshot ID: `AAAAJ9J/3r0bzFESp4HDkZI+MMhRd9OA`
+Snapshot ID: `AAAAKTeaJpK9pnIlHp6/dTi8oz8HbFiE`

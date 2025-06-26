@@ -1057,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "IONY : Project #01",
+        "url": "https://open.spotify.com/album/1bDv2zeRqSgKRqXZCK8w6I"
+      },
+      "artists": [
+        {
+          "name": "LEE BORAM",
+          "url": "https://open.spotify.com/artist/6SFvlarNwNCJVr7p5ZHPp3"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206013,
+      "name": "Endless Rain",
+      "url": "https://open.spotify.com/track/4YcPfv5Wef00nAkjLk3gy2"
+    },
+    {
+      "album": {
         "name": "Even When I Smile",
         "url": "https://open.spotify.com/album/7n8sQzaxWJdHZJtpMrPTsE"
       },
@@ -1744,7 +1762,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 152963,
       "name": "Kiss The Rain",
       "url": "https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7"

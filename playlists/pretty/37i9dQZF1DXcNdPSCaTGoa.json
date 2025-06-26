@@ -1,6 +1,6 @@
 {
   "description": "South African gems across the decades. Cover: <a href=\"https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli?si=2VnM_9GqSrCkUNwtfpaCPQ\">Pro Kid</a> ",
-  "num_followers": 88844,
+  "num_followers": 88882,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-04-24 22:10:13",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/084jtk8aAbHaOgd2hWOfSd"
-      },
-      "artists": [
-        {
-          "name": "Yvonne Chaka Chaka",
-          "url": "https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH"
-        }
-      ],
-      "duration_ms": 296080,
-      "name": "Umqombothi",
-      "url": "https://open.spotify.com/track/3JPrTUwhK3Utti9ilI75fB"
-    },
-    {
-      "added_at": "2025-04-24 22:10:13",
-      "album": {
         "name": "Ibutho",
         "url": "https://open.spotify.com/album/5l4OrBtOd4rGfpCEzWrfi2"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 311400,
       "name": "Lwandle",
       "url": "https://open.spotify.com/track/6UQCZ9wUMdDX87eVYAqJy4"
+    },
+    {
+      "added_at": "2025-04-24 22:10:13",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/084jtk8aAbHaOgd2hWOfSd"
+      },
+      "artists": [
+        {
+          "name": "Yvonne Chaka Chaka",
+          "url": "https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH"
+        }
+      ],
+      "duration_ms": 296080,
+      "name": "Umqombothi",
+      "url": "https://open.spotify.com/track/3JPrTUwhK3Utti9ilI75fB"
     },
     {
       "added_at": "2025-04-24 22:10:13",

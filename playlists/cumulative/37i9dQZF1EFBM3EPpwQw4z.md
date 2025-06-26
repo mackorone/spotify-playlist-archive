@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-136 songs - 7 hr 59 min
+137 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Changes](https://open.spotify.com/track/7oLDuG0A70H4v8WTmGALiV) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Changes](https://open.spotify.com/album/2fnf0nNu49HtXi0JYCaJ2e) | 3:09 | 2023-12-30 |  |
 | [Cleopatra](https://open.spotify.com/track/1USrzze2kdc2ES3lybfy6Y) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Cleopatra](https://open.spotify.com/album/5My6UodXlnLhQNl66eTxDL) | 3:20 | 2023-12-30 |  |
 | [Closer](https://open.spotify.com/track/7yO6s90XJGvMTpb2ZIPp1N) | [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ) | [Closer](https://open.spotify.com/album/7gFbABIINSSKKftlkOR1bf) | 4:19 | 2024-06-21 |  |
+| [Come Closer](https://open.spotify.com/track/0dZJlgZhbXr1PVC4FFhGMX) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Come Closer](https://open.spotify.com/album/0RfCEgu8lzzV77ciyrqnVV) | 3:26 | 2025-06-25 |  |
 | [Come Thru](https://open.spotify.com/track/0hn8lFibQnnruBtfjOTmTO) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Alter EP](https://open.spotify.com/album/1cNtoofX8TnCb3ExzRg86J) | 3:17 | 2024-10-08 |  |
 | [Dance Silly](https://open.spotify.com/track/2Cg4El69vtJaIEZyc9ARMl) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 3:04 | 2023-12-30 |  |
 | [Death Drive](https://open.spotify.com/track/356fWfOPJxJ6ffowduEn19) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Gemini\- EP](https://open.spotify.com/album/0zzetjBCgwYJyIyksv0hCQ) | 4:32 | 2023-12-30 |  |

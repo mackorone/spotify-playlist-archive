@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Cover: Neffa",
-  "num_followers": 46661,
+  "num_followers": 46680,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -8,26 +8,6 @@
   },
   "snapshot_id": "aFSWygAAAAAq36KOGXnM2Fhn+1ATsYkj",
   "tracks": [
-    {
-      "added_at": "2025-06-19 23:01:30",
-      "album": {
-        "name": "Kepler",
-        "url": "https://open.spotify.com/album/4ylUcWOFP2UR8of9Pw0kog"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        },
-        {
-          "name": "MadMan",
-          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
-        }
-      ],
-      "duration_ms": 187615,
-      "name": "Blue Sky",
-      "url": "https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV"
-    },
     {
       "added_at": "2025-06-19 23:01:30",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 253360,
       "name": "Panico",
       "url": "https://open.spotify.com/track/0q8XaTJ1MzlEb9q7YdStT1"
+    },
+    {
+      "added_at": "2025-06-19 23:01:30",
+      "album": {
+        "name": "Kepler",
+        "url": "https://open.spotify.com/album/4ylUcWOFP2UR8of9Pw0kog"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        }
+      ],
+      "duration_ms": 187615,
+      "name": "Blue Sky",
+      "url": "https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV"
     },
     {
       "added_at": "2025-06-19 23:01:30",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2025-06-19 23:01:30",
       "album": {
-        "name": "Madreperla",
-        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        }
-      ],
-      "duration_ms": 205186,
-      "name": "Da 1k In Su (feat. Benny The Butcher)",
-      "url": "https://open.spotify.com/track/4FnTFBGLLkSFuyT40g6djx"
-    },
-    {
-      "added_at": "2025-06-19 23:01:30",
-      "album": {
         "name": "60 Hz",
         "url": "https://open.spotify.com/album/3KQwNJg8LJTJ4ES4OmAblt"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 233786,
       "name": "Bolo By Night (feat. Royal Mehdi)",
       "url": "https://open.spotify.com/track/4gK772wfiVeCFHNVGLsHfF"
+    },
+    {
+      "added_at": "2025-06-19 23:01:30",
+      "album": {
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "duration_ms": 205186,
+      "name": "Da 1k In Su (feat. Benny The Butcher)",
+      "url": "https://open.spotify.com/track/4FnTFBGLLkSFuyT40g6djx"
     },
     {
       "added_at": "2025-06-19 23:01:30",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-06-19 23:01:30",
       "album": {
-        "name": "Riproduzione Vietata",
-        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
-      },
-      "artists": [
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        }
-      ],
-      "duration_ms": 253683,
-      "name": "L'Anima Giusta",
-      "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
-    },
-    {
-      "added_at": "2025-06-19 23:01:30",
-      "album": {
         "name": "Musica Cicatrene",
         "url": "https://open.spotify.com/album/2lT5pe1rUrrhzLY0AYvu5d"
       },
@@ -1139,22 +1123,42 @@
     {
       "added_at": "2025-06-19 23:01:30",
       "album": {
-        "name": "KLOAKA",
-        "url": "https://open.spotify.com/album/6ptTGB6ZAA2QIBJwe0iZBF"
+        "name": "Riproduzione Vietata",
+        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
       },
       "artists": [
         {
-          "name": "En?gma",
-          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
         }
       ],
-      "duration_ms": 150749,
-      "name": "IL BUIO NELLE MANI",
-      "url": "https://open.spotify.com/track/7JAnEkBz3SrjZRU77RQvC1"
+      "duration_ms": 253683,
+      "name": "L'Anima Giusta",
+      "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
+    },
+    {
+      "added_at": "2025-06-19 23:01:30",
+      "album": {
+        "name": "Struggle Music",
+        "url": "https://open.spotify.com/album/0yzj3wIn7Lx9m6ZbQgVY29"
+      },
+      "artists": [
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Frank Siciliano",
+          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 216086,
+      "name": "Con i soldi in testa",
+      "url": "https://open.spotify.com/track/0gwqVCPx5Yezme7Ny6wzMt"
     },
     {
       "added_at": "2025-06-19 23:01:30",
@@ -1183,6 +1187,26 @@
       "duration_ms": 202666,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/4o7olxYueLIX4Kzy4tfg4a"
+    },
+    {
+      "added_at": "2025-06-19 23:01:30",
+      "album": {
+        "name": "KLOAKA",
+        "url": "https://open.spotify.com/album/6ptTGB6ZAA2QIBJwe0iZBF"
+      },
+      "artists": [
+        {
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 150749,
+      "name": "IL BUIO NELLE MANI",
+      "url": "https://open.spotify.com/track/7JAnEkBz3SrjZRU77RQvC1"
     },
     {
       "added_at": "2025-06-19 23:01:30",
@@ -1267,30 +1291,6 @@
     {
       "added_at": "2025-06-19 23:01:30",
       "album": {
-        "name": "Struggle Music",
-        "url": "https://open.spotify.com/album/0yzj3wIn7Lx9m6ZbQgVY29"
-      },
-      "artists": [
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Frank Siciliano",
-          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 216086,
-      "name": "Con i soldi in testa",
-      "url": "https://open.spotify.com/track/0gwqVCPx5Yezme7Ny6wzMt"
-    },
-    {
-      "added_at": "2025-06-19 23:01:30",
-      "album": {
         "name": "Fritz",
         "url": "https://open.spotify.com/album/71OwUP6CTR5Kzsv6T9jcl0"
       },
@@ -1315,26 +1315,6 @@
       "duration_ms": 290128,
       "name": "Never",
       "url": "https://open.spotify.com/track/3nIoWJulA29AQ7DtkUkNrF"
-    },
-    {
-      "added_at": "2025-06-19 23:01:30",
-      "album": {
-        "name": "ALHAMBRA",
-        "url": "https://open.spotify.com/album/0e4RNAX5GnP0hx6GctdaO1"
-      },
-      "artists": [
-        {
-          "name": "En?gma",
-          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 137941,
-      "name": "ALHAMBRA",
-      "url": "https://open.spotify.com/track/3sXz09jHZvaW0efN5Fo3fm"
     },
     {
       "added_at": "2025-06-19 23:01:30",
@@ -1367,6 +1347,26 @@
       "duration_ms": 291757,
       "name": "Poeti estinti",
       "url": "https://open.spotify.com/track/5tz7hOlCqP7hYeLfLaT9pk"
+    },
+    {
+      "added_at": "2025-06-19 23:01:30",
+      "album": {
+        "name": "ALHAMBRA",
+        "url": "https://open.spotify.com/album/0e4RNAX5GnP0hx6GctdaO1"
+      },
+      "artists": [
+        {
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 137941,
+      "name": "ALHAMBRA",
+      "url": "https://open.spotify.com/track/3sXz09jHZvaW0efN5Fo3fm"
     },
     {
       "added_at": "2025-06-19 23:01:30",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2025-06-19 23:01:30",
       "album": {
+        "name": "Rapper Italiano",
+        "url": "https://open.spotify.com/album/7oOyCIvKK3sfPXLaAPwGs0"
+      },
+      "artists": [
+        {
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+        }
+      ],
+      "duration_ms": 205226,
+      "name": "Rapper italiano",
+      "url": "https://open.spotify.com/track/3cjrqaNO6bDnnoraiZbJPw"
+    },
+    {
+      "added_at": "2025-06-19 23:01:30",
+      "album": {
         "name": "SCATTO RUBATO",
         "url": "https://open.spotify.com/album/75usAyt5XLtVDkVJBG4aTW"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 118320,
       "name": "SCATTO RUBATO",
       "url": "https://open.spotify.com/track/0pQ1Kd5yu4sjSNQQ3oVHQZ"
-    },
-    {
-      "added_at": "2025-06-19 23:01:30",
-      "album": {
-        "name": "Rapper Italiano",
-        "url": "https://open.spotify.com/album/7oOyCIvKK3sfPXLaAPwGs0"
-      },
-      "artists": [
-        {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
-        }
-      ],
-      "duration_ms": 205226,
-      "name": "Rapper italiano",
-      "url": "https://open.spotify.com/track/3cjrqaNO6bDnnoraiZbJPw"
     },
     {
       "added_at": "2025-06-19 23:01:30",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2025-06-19 23:01:30",
       "album": {
-        "name": "Manchi solo tu",
-        "url": "https://open.spotify.com/album/4CxE3NYwqmUVXec7Ve35SZ"
-      },
-      "artists": [
-        {
-          "name": "DJ Gruff",
-          "url": "https://open.spotify.com/artist/6CaMYv7NbgNHh8npP6rzdi"
-        }
-      ],
-      "duration_ms": 274500,
-      "name": "Manchi solo tu",
-      "url": "https://open.spotify.com/track/3dMyOpfVug1nDRpVZj5yPN"
-    },
-    {
-      "added_at": "2025-06-19 23:01:30",
-      "album": {
         "name": "Payback",
         "url": "https://open.spotify.com/album/05dBxSbBWiQo2IRtfkXWnG"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 162151,
       "name": "Still From The '90s (The Manifesto) - Reloaded Version",
       "url": "https://open.spotify.com/track/7M8ITVNCWKcUTGGKvrsFCc"
+    },
+    {
+      "added_at": "2025-06-19 23:01:30",
+      "album": {
+        "name": "Manchi solo tu",
+        "url": "https://open.spotify.com/album/4CxE3NYwqmUVXec7Ve35SZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Gruff",
+          "url": "https://open.spotify.com/artist/6CaMYv7NbgNHh8npP6rzdi"
+        }
+      ],
+      "duration_ms": 274500,
+      "name": "Manchi solo tu",
+      "url": "https://open.spotify.com/track/3dMyOpfVug1nDRpVZj5yPN"
     },
     {
       "added_at": "2025-06-19 23:01:30",

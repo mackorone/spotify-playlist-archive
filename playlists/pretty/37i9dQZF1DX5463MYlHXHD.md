@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 
 > Vieja escuela y de ahora 📸 La Repandilla & Sound De Barrio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,297 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,314 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,11 +74,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 | 64 | [La Marca de la Gorra](https://open.spotify.com/track/6kNeYwH3KdumwIAkeAxZCR) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [Ritmo Sustancia](https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1) | 3:40 |
 | 65 | [Vengo de la casa de ella](https://open.spotify.com/track/3wyLQdYYslrohkFNitbtgD) | [Escucha!](https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp) | [Triste Palomita](https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7) | 3:55 |
 | 66 | [Entre Vos Yo y el Cielo](https://open.spotify.com/track/4YchG5vZOhKYTnZh5Lj5WB) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Gracia Divina](https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz) | 4:23 |
-| 67 | [La Pollera de Jimmy](https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD) | [Jimmy Y Su Combo Negro](https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY) | [Homenaje a Colombia](https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7) | 3:52 |
-| 68 | [Duraznito](https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 5:08 |
-| 69 | [BM \| DJ TAO Turreo Sessions \#17](https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [BM](https://open.spotify.com/artist/43bRAoXHmsKR7rt92ciFU3) | [BM \| DJ TAO Turreo Sessions \#17](https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ) | 2:56 |
-| 70 | [CALLEJERO FINO \| Mission 10](https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [CALLEJERO FINO \| Mission 10](https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB) | 2:48 |
-| 71 | [Traigo Una Rosa](https://open.spotify.com/track/4CVezbl39jn7YIDcid9eXI) | [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [KaKa Nene](https://open.spotify.com/album/02LewP3z5YibPTMFArcXmF) | 4:06 |
+| 67 | [Duraznito](https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 5:08 |
+| 68 | [Traigo Una Rosa](https://open.spotify.com/track/4CVezbl39jn7YIDcid9eXI) | [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [KaKa Nene](https://open.spotify.com/album/02LewP3z5YibPTMFArcXmF) | 4:06 |
+| 69 | [La Pollera de Jimmy](https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD) | [Jimmy Y Su Combo Negro](https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY) | [Homenaje a Colombia](https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7) | 3:52 |
+| 70 | [BM \| DJ TAO Turreo Sessions \#17](https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [BM](https://open.spotify.com/artist/43bRAoXHmsKR7rt92ciFU3) | [BM \| DJ TAO Turreo Sessions \#17](https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ) | 2:56 |
+| 71 | [CALLEJERO FINO \| Mission 10](https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [CALLEJERO FINO \| Mission 10](https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB) | 2:48 |
 | 72 | [A Chillar a Otra Parte](https://open.spotify.com/track/6rbRGG6KLfSCLW5EN4VlsI) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH) | [Único en Su Especie](https://open.spotify.com/album/1wU7LHfFlihSDZUJ6EU1Tf) | 3:45 |
 | 73 | [GUSTY DJ I Alejo Isakk Session en el Barrio \#5](https://open.spotify.com/track/3EuhCgpwvuxzpVRKerf9UN) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ) | [GUSTY DJ I Alejo Isakk Session en el Barrio \#5](https://open.spotify.com/album/4jeXKUAhhCVQm5qefqqjfT) | 2:45 |
 | 74 | [Sentado en la Esquina](https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Los Maleantes](https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q) | 2:44 |

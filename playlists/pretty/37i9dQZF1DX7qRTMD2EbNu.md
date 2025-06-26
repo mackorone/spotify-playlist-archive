@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Sarkodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,022 likes - 84 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,036 likes - 84 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

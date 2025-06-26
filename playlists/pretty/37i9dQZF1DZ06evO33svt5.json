@@ -1,12 +1,12 @@
 {
   "description": "This is Doja Cat. The essential tracks, all in one playlist.",
-  "num_followers": 1071723,
+  "num_followers": 1071778,
   "original_name": "This Is Doja Cat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFiZAAAAAACee60e5xGVXBxSzkGw/43c",
+  "snapshot_id": "aFnqgAAAAACOYBD4SpDwdupeW9WbdUl2",
   "tracks": [
     {
       "added_at": null,
@@ -747,18 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planet Her (Deluxe)",
-        "url": "https://open.spotify.com/album/4XLPYMERZZaBzkJg0mkdvO"
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
       "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
         {
           "name": "Doja Cat",
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 176733,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/4jw87bP3TuCGm15g9kc64g"
+      "duration_ms": 174164,
+      "name": "SCOOP (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ"
     },
     {
       "added_at": null,
@@ -779,22 +783,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+        "name": "Planet Her (Deluxe)",
+        "url": "https://open.spotify.com/album/4XLPYMERZZaBzkJg0mkdvO"
       },
       "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
         {
           "name": "Doja Cat",
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 174164,
-      "name": "SCOOP (feat. Doja Cat)",
-      "url": "https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ"
+      "duration_ms": 176733,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/4jw87bP3TuCGm15g9kc64g"
     },
     {
       "added_at": null,

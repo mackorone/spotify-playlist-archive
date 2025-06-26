@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 483871,
+  "num_followers": 483864,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFiZAAAAAAD+6w86rqkAhiylwOV2etuE",
+  "snapshot_id": "aFnqgAAAAABEOkEUS8xC5O+xIrZ+QPpv",
   "tracks": [
     {
       "added_at": null,
@@ -703,30 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VS. (Other People\u2019s Heartache, Pt. III)",
-        "url": "https://open.spotify.com/album/1YXsPGQingGkJZLA8uuQNL"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        },
-        {
-          "name": "GRADES",
-          "url": "https://open.spotify.com/artist/5xtS6AoBUHhaAhxC1JN3PY"
-        },
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 61796,
-      "name": "Torn Apart, Pt II (Bastille Vs. GRADES Vs. Lizzo)",
-      "url": "https://open.spotify.com/track/6Gy30w4ebJg02BjLdULdNm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Iko",
         "url": "https://open.spotify.com/album/6AsMEkH3Q2mZnh5KYguzDC"
       },
@@ -747,6 +723,30 @@
       "duration_ms": 211952,
       "name": "Iko",
       "url": "https://open.spotify.com/track/4OEXz8a1uvD1oDH7E3TQo7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VS. (Other People\u2019s Heartache, Pt. III)",
+        "url": "https://open.spotify.com/album/1YXsPGQingGkJZLA8uuQNL"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "GRADES",
+          "url": "https://open.spotify.com/artist/5xtS6AoBUHhaAhxC1JN3PY"
+        },
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 61796,
+      "name": "Torn Apart, Pt II (Bastille Vs. GRADES Vs. Lizzo)",
+      "url": "https://open.spotify.com/track/6Gy30w4ebJg02BjLdULdNm"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lizzobangers",
+        "url": "https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 185659,
+      "name": "W.E.R.K. Pt. II",
+      "url": "https://open.spotify.com/track/5kiLPzjGbAb5CmE1xXSRZn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Basement Queens",
         "url": "https://open.spotify.com/album/4eu9RYtdnxNJJWr9cW84nV"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 183362,
       "name": "Basement Queens",
       "url": "https://open.spotify.com/track/6TbfAkoPe5RJztOFaAl4cG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lizzobangers",
-        "url": "https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 185659,
-      "name": "W.E.R.K. Pt. II",
-      "url": "https://open.spotify.com/track/5kiLPzjGbAb5CmE1xXSRZn"
     },
     {
       "added_at": null,

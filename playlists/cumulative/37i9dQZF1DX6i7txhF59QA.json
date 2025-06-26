@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694! (\ucee4\ubc84: \uc548\uc131\ud6c8)\nLet's party with cheerful Korean trot medley.",
+  "description": "\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694! (\ucee4\ubc84: \uc5d0\ub179)\nLet's party with cheerful Korean trot medley.",
   "name": "K-\ud2b8\ub86f \uc2a4\ud0c0 (K-Trot Stars)",
   "tracks": [
     {
@@ -6726,7 +6726,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 208426,
       "name": "I pray",
       "url": "https://open.spotify.com/track/5VAFigj8ONaIEV77I4V3X4"
@@ -7744,6 +7744,24 @@
       "duration_ms": 200625,
       "name": "Just Smile",
       "url": "https://open.spotify.com/track/5PLChOnTLu2oNErIPd5CzW"
+    },
+    {
+      "album": {
+        "name": "Kimi wa Bara yori Utsukushii",
+        "url": "https://open.spotify.com/album/7ltdVjb8d1qLecakI5VeWj"
+      },
+      "artists": [
+        {
+          "name": "Enoch",
+          "url": "https://open.spotify.com/artist/1KcnBJQnU9D8NHEMZaBkVh"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217013,
+      "name": "Kimi wa Bara yori Utsukushii",
+      "url": "https://open.spotify.com/track/1JGrMnWSRoSRwsEipc7uM1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: The Purge & The Saints
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,060 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,147 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 7 | [Disconnect](https://open.spotify.com/track/3LeTcnGRg5ILdhL4EcxnL4) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Disconnect](https://open.spotify.com/album/2gtzZ5nD1vbXCDysX6XJt1) | 3:16 |
 | 8 | [Blow Ya Mind](https://open.spotify.com/track/1IkE1saSXrs3IgDnlZeX3M) | [Lock 'N Load](https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9), [Ruthless](https://open.spotify.com/artist/0xMCuSqF7uPefaatWnEx7F), [Potato](https://open.spotify.com/artist/6qMNbZcFG1ibrUM4QhUsQV) | [Blow Ya Mind](https://open.spotify.com/album/6WyKSr06KqwjYGYgLHIXzk) | 2:47 |
 | 9 | [The Forces Of Darkness](https://open.spotify.com/track/1NMVs5ejrSyJdRjnfmZOwD) | [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C) | [The Forces Of Darkness](https://open.spotify.com/album/5KIPGjZ47KwjzJMpwUjguJ) | 2:59 |
-| 10 | [DUM](https://open.spotify.com/track/7KWoLziT19cWQ96sfU4wFk) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Nasty](https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB) | [DUM](https://open.spotify.com/album/02ILoeaATivGrXQFJsmFtJ) | 4:01 |
+| 10 | [DUM](https://open.spotify.com/track/7KWoLziT19cWQ96sfU4wFk) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Nasty](https://open.spotify.com/artist/04XCSc7kkhqpnBQ5lFpRrJ) | [DUM](https://open.spotify.com/album/02ILoeaATivGrXQFJsmFtJ) | 4:01 |
 | 11 | [AVERAGE SUMMER SONG](https://open.spotify.com/track/0PA3FPOMFGAW9ie4a2XW8G) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8), [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [AVERAGE SUMMER SONG](https://open.spotify.com/album/3w5RVJTnI9Jqf99S07kAII) | 2:48 |
 | 12 | [Holding On For Life](https://open.spotify.com/track/253lGgOK6eDVUSYAEfYTKA) | [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [Holding On For Life](https://open.spotify.com/album/0HQ8SLnATVroszOY401GaH) | 2:43 |
 | 13 | [Clarity](https://open.spotify.com/track/3y1Y5AFYiQP3ipHGuEqr3t) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Clarity](https://open.spotify.com/album/4gObEv4tTskEaxHdmwbS13) | 3:09 |

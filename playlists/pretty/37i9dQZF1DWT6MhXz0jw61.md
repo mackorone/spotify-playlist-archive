@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,366,532 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,366,785 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 3 | [Stoned](https://open.spotify.com/track/1e3AdX6I8gaQKjQMONn9tA) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:03 |
 | 4 | [Nice Try Wrong Guy](https://open.spotify.com/track/7wcLBb0HGtz40QuApXpEh8) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Nice Try Wrong Guy](https://open.spotify.com/album/11WKI3s5WpRkf5YzmNFKfv) | 3:06 |
 | 5 | [I Hate You\. I Love You](https://open.spotify.com/track/5ZsqqGuSlJ6l4YUIihDFbo) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [I Love You Again \(Extended\)](https://open.spotify.com/album/52byopOwUnZnKRbxKWg2pZ) | 2:14 |
-| 6 | [Champagne Campaign \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/0JcS4b9ol8GtyOWnDScfcy) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Pria](https://open.spotify.com/artist/3cpIQxX4uvGhuvERtR6f38), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Champagne Campaign \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/7mTBG685KY77kghmLk2CNQ) | 3:10 |
+| 6 | [Champagne Campaign \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/0JcS4b9ol8GtyOWnDScfcy) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Pria](https://open.spotify.com/artist/5tBXHEV8R9NTK39HhAPr3j), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Champagne Campaign \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/7mTBG685KY77kghmLk2CNQ) | 3:10 |
 | 7 | [hnic](https://open.spotify.com/track/4txLt5JH43Sa5mQiBoCYib) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Lei Keli ft\. 47 / For Promotional Use Only](https://open.spotify.com/album/2KACVAPmuBiD7GGcGwndKq) | 2:19 |
 | 8 | [Karuna](https://open.spotify.com/track/1t9PrdWXSdLkU0GS2yHDym) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy) | [Karuna](https://open.spotify.com/album/15vTkYwgJ0M4uDKhCTJNmE) | 3:21 |
 | 9 | [JANKY moral COMPASS \(feat\. Samara Cyn & Sydney Leona\)](https://open.spotify.com/track/4Sfl1Hhi7adLW7IsHP4itc) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg), [Sydney Leona](https://open.spotify.com/artist/4sWc3NPfHM8tgq3C1gASa4), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [The Good The Bad The Dollar Menu](https://open.spotify.com/album/3Uh6x05rLt3AIQJMzA50vw) | 5:09 |

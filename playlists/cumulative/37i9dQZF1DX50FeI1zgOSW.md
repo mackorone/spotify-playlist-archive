@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Bebhumika
 
-554 songs - 1 day 7 hr 33 min
+555 songs - 1 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,6 +550,7 @@
 | [Without You](https://open.spotify.com/track/4vsmUOSYq1RkeSKJXRKr7S) | [Parth Sapphire](https://open.spotify.com/artist/5m3eU2BVDTAKz6Lm9MBpDr), [Niriksha Manoj](https://open.spotify.com/artist/2ZShEPlbOdm7sfbKuPIuaZ), [Vaaheesan Rasaiya](https://open.spotify.com/artist/10SpEg9HhR7vQzNRUhHdye) | [Without You](https://open.spotify.com/album/5i75qd9PvfHvZlSZwaQs20) | 3:07 | 2023-07-25 | 2024-01-24 |
 | [Written By Holy Cow!](https://open.spotify.com/track/0dy7bIOZTmu9SdHygEUvdU) | [Imman Vijay](https://open.spotify.com/artist/5I0kqjiVuNcomVmnFVhvX3), [Meiarivu](https://open.spotify.com/artist/0hCIMGzjKCTxoHrfbJ17jw) | [Written By Holy Cow!](https://open.spotify.com/album/3Ubf6xEUMzT0HqKsGy3Q6B) | 3:23 | 2024-08-01 | 2024-09-21 |
 | [Yaar Aval](https://open.spotify.com/track/1lRjcMkN73vOAgwaSzNKme) | [Elan Hits](https://open.spotify.com/artist/13dpvM6NpIToJA4LIkBUx3) | [Yaar Aval](https://open.spotify.com/album/5Vz3Eju82OgxEmotHRcOJ7) | 4:45 | 2024-01-02 | 2024-07-30 |
+| [Yaarivalo](https://open.spotify.com/track/2dI2cj3XRES5nsWz0hyLf6) | [Sujith Benjamin](https://open.spotify.com/artist/4pMarcdDh8UzUNRvBwQqJz), [Fahad Rahman](https://open.spotify.com/artist/4e1wH2L6P8CVWq1z4kdCif), [Ahamed Shyam](https://open.spotify.com/artist/2QKYiDTmS5WeuE3VmahlLn), [Kavya S Chandra](https://open.spotify.com/artist/39ZeUmal47Ovg1oksPfyCj) | [Yaarivalo](https://open.spotify.com/album/1fYNpp6rZy6KsyZhOalgOf) | 5:05 | 2025-06-25 |  |
 | [Yaathe](https://open.spotify.com/track/6NYYe7z6RTefuWAZGMfDFM) | [Umashankar Kannaiyan](https://open.spotify.com/artist/72pRNBy0ISQbOnjR5SX80T), [Darshana K.T.](https://open.spotify.com/artist/69PTuf4WpmquWtR8AU6mKt) | [Yaathe](https://open.spotify.com/album/6KrD2dY3GJenynSsNrCOMD) | 2:52 | 2025-06-11 |  |
 | [Yaavum Mogamull \(Niyamaa...\)](https://open.spotify.com/track/6jlpZu8KzEOxQlNqHCBSJe) | [Nanthaa SRISKANTHARAJAH](https://open.spotify.com/artist/6vYtOgkXRZxSarw7zyyeuR), [Santhosh Hariharan](https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n), [Jeevan Thurai](https://open.spotify.com/artist/0IYB87T8otxvegXuKGXiil) | [Yaavum Mogamull \(Niyamaa...\)](https://open.spotify.com/album/55Y0HwVMQAKhScophtvO9f) | 5:04 | 2024-04-26 | 2024-10-15 |
 | [Yarumillai](https://open.spotify.com/track/3AAwye5jD5qVfE1ybv8sg2) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y) | [Yarumillai](https://open.spotify.com/album/14fJS35SXPwpaaec15IWwo) | 3:33 | 2024-02-22 | 2024-03-13 |

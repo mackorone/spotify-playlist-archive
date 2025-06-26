@@ -969,6 +969,32 @@
     },
     {
       "album": {
+        "name": "Chikitu (From \"Coolie\") (Tamil)",
+        "url": "https://open.spotify.com/album/3P9Jdtp9NVxqWVEusCbw5K"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "T. Rajendar",
+          "url": "https://open.spotify.com/artist/4UDzzsfKqZUs5bDy3cisle"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216081,
+      "name": "Chikitu (From \"Coolie\") (Tamil)",
+      "url": "https://open.spotify.com/track/5L9BSBipkfupud0335Mhjj"
+    },
+    {
+      "album": {
         "name": "Chill Bro (From \"Pattas\")",
         "url": "https://open.spotify.com/album/5DWitBJCdllzJuIXDVrRO5"
       },
@@ -2354,7 +2380,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 214495,
       "name": "Naattu Koothu",
       "url": "https://open.spotify.com/track/7IV5c9eF72Y9FxRQaHJ0bd"

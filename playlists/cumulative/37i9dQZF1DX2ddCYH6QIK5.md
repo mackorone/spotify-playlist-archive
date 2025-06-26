@@ -2,9 +2,9 @@
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> Celebrating 10 years of  the best new music by independent artists and labels, updated every Wednesday\. Cover: Julie, Artwork: Isu Kim
+> Celebrating 10 years of  the best new music by independent artists and labels, updated every Wednesday\. Cover: LOKI, Artwork: Isu Kim
 
-1,412 songs - 3 day 7 hr 52 min
+1,416 songs - 3 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Blue Burden](https://open.spotify.com/track/1AiQg6dRd99inBHXzeVLAl) | [Noah Parks](https://open.spotify.com/artist/1W47ZQbSjqKQiyBDOtlr0p) | [Blue Burden](https://open.spotify.com/album/0RYBIqEnOIyCu5K0hSKQD3) | 3:28 | 2025-02-05 | 2025-06-19 |
 | [Blue Butterflies](https://open.spotify.com/track/3u0WrXUaRq88ala7J9zpjL) | [Kadie](https://open.spotify.com/artist/74iqmv9Nhl5ibN1XaTuSyy), [Gold Donkey](https://open.spotify.com/artist/5SxIFg9pAoGxvqQUYJLyXJ) | [Blue Butterflies](https://open.spotify.com/album/18CDkoxhCoQ3dTcK12yy7T) | 2:38 | 2022-01-05 | 2022-01-20 |
 | [Blueberry Lips](https://open.spotify.com/track/44G9bqx6q9QVnGJ4mDAGMD) | [Kabinett](https://open.spotify.com/artist/4g3sHIRJ8uTKA7IHkKrQet) | [Blueberry Lips](https://open.spotify.com/album/6mKIyI36ygWQ7iIpSd3ipY) | 3:35 | 2022-04-27 | 2022-06-09 |
+| [Bluff](https://open.spotify.com/track/36BJVu4hY1DKGPuEL3BRyH) | [Kings & Pills](https://open.spotify.com/artist/6LcYIldO2Bw0r4u213sESe) | [Feast on Us](https://open.spotify.com/album/5YdyGfNSdW2nKwXKMUKluN) | 2:57 | 2025-06-25 |  |
 | [Blumen auf meiner Haut](https://open.spotify.com/track/56TP62SmsPdbGDcRmkP1ze) | [Anton Verzani](https://open.spotify.com/artist/0EdR71Cjo7i162DzwAmaBc) | [Blumen auf meiner Haut](https://open.spotify.com/album/6WmNK68Ew5OhWx8Z07RffV) | 3:22 | 2023-07-12 | 2023-08-10 |
 | [Blumen aus Glas](https://open.spotify.com/track/0yR0KtOEKhttTs8KFcgavc) | [Bley](https://open.spotify.com/artist/0mqQIoe6iQzBPlzVtvJqXl) | [Blumen aus Glas](https://open.spotify.com/album/6w8sa70pj1BQCsEbFwWcdX) | 2:17 | 2024-02-14 | 2024-03-28 |
 | [Blunts Rolled](https://open.spotify.com/track/3vm1jM6fXaWPXoNaLq8tH6) | [Guzy](https://open.spotify.com/artist/1kAgfGexswhVsFKGRrcIMB) | [Blunts Rolled](https://open.spotify.com/album/4HP2yvRRSp8Recvoq8XiBt) | 4:27 | 2023-09-20 | 2024-03-21 |
@@ -537,7 +538,7 @@
 | [Hands / Trees](https://open.spotify.com/track/016uLcvrFGSOuXdoER26C9) | [Almost Twins](https://open.spotify.com/artist/7xe5zbkg4tKrRQAAmscgQg) | [Hands / Trees](https://open.spotify.com/album/3QMOytePrNdnXvijYm9nnL) | 3:54 | 2023-11-22 | 2024-05-23 |
 | [happy ends](https://open.spotify.com/track/5ECb6DEyh2hbSpEqqT9bZc) | [LUZIFA](https://open.spotify.com/artist/5dPueMzzmUFtOCsg3nK2KD) | [happy ends](https://open.spotify.com/album/2gKI7afkh94wMOQo1rxoIM) | 2:24 | 2025-03-05 | 2025-05-22 |
 | [Happy Pills](https://open.spotify.com/track/5joyUy4gvzWYfOxxVOM9QF) | [Sophie Lindinger](https://open.spotify.com/artist/3b3qQWQgIMIyHcYSMY4P3g) | [Happy Pills](https://open.spotify.com/album/5cHne2h2Xcm1qjq3bGdgFE) | 3:36 | 2022-06-29 | 2022-08-25 |
-| [Happy Songs](https://open.spotify.com/track/4fbqvqbH7OyPwoGfhawOca) | [Solong](https://open.spotify.com/artist/5iXNhXMhenY5CglSJGTd6v) | [Happy Songs](https://open.spotify.com/album/5PBQJzcYGZacJ9Ao9NRJ4U) | 4:16 | 2025-04-30 |  |
+| [Happy Songs](https://open.spotify.com/track/4fbqvqbH7OyPwoGfhawOca) | [Solong](https://open.spotify.com/artist/5iXNhXMhenY5CglSJGTd6v) | [Happy Songs](https://open.spotify.com/album/5PBQJzcYGZacJ9Ao9NRJ4U) | 4:16 | 2025-04-30 | 2025-06-26 |
 | [Haunted House](https://open.spotify.com/track/18JqSyuus5FmJOqQSDJRUr) | [Colleen Livingston](https://open.spotify.com/artist/2GgHodVQ1M7JzLWf3T9vrv) | [Haunted House](https://open.spotify.com/album/59Z8SnPLseWyHdzvVIOoNj) | 2:27 | 2024-11-13 | 2025-02-13 |
 | [Haunting Ghosts](https://open.spotify.com/track/6tI9Mzeizbc7aiDoUrHml4) | [KALK¥L](https://open.spotify.com/artist/0HLpuExsDRXljCjwHX0bwl) | [Haunting Ghosts](https://open.spotify.com/album/6zyhYoKAS8V0Y4I3pmUfHf) | 3:04 | 2024-11-13 | 2025-02-13 |
 | [Hausdach](https://open.spotify.com/track/0b3p4cbyZGpuj33vtqHkg3) | [Drima](https://open.spotify.com/artist/0AwzWan8NE7QssrQWbnCcB) | [Fast Verworfen](https://open.spotify.com/album/0XwQfflRASAHKGxszBz1w8) | 3:05 | 2024-07-03 | 2025-05-22 |
@@ -549,7 +550,7 @@
 | [heart on fire \(feat\. Amistat\)](https://open.spotify.com/track/2VDpNDRJP7Lb9kHkxS6dQm) | [Ginger And The Alchemists](https://open.spotify.com/artist/1DEV00pe1Rb7qVbCdMLzHa), [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [heart on fire \(feat\. Amistat\)](https://open.spotify.com/album/0GxssjelqkS6pmRFDgS22w) | 3:30 | 2022-04-13 | 2022-05-19 |
 | [Heart Still Beats 4 U](https://open.spotify.com/track/4TJBP4HTaJyujk0L0Yf8h7) | [Martha Rose](https://open.spotify.com/artist/2to0DT3S4QZofED8qsAcnO) | [Heart Still Beats 4 U](https://open.spotify.com/album/6fTpXItb9bHDwD5J7R7aDb) | 3:38 | 2024-04-24 | 2024-06-27 |
 | [HEARTCUTS](https://open.spotify.com/track/6ZkY9T0grwX995JkKyiNw9) | [Eveline](https://open.spotify.com/artist/2QrM4CoNNTfbNZ7e8yvzR0) | [HEARTCUTS](https://open.spotify.com/album/6QGvdvqSpVmfEcpS2nYBxH) | 2:15 | 2025-03-05 |  |
-| [Hearts](https://open.spotify.com/track/2e5hQSDJdqRHt16WXL5APx) | [REYAS](https://open.spotify.com/artist/3yDFcHwsp5EnO8CFzFlBxp) | [Hearts](https://open.spotify.com/album/3UrqjC92EgHYmXyqbLGH69) | 2:44 | 2025-05-28 |  |
+| [Hearts](https://open.spotify.com/track/2e5hQSDJdqRHt16WXL5APx) | [REYAS](https://open.spotify.com/artist/3yDFcHwsp5EnO8CFzFlBxp) | [Hearts](https://open.spotify.com/album/3UrqjC92EgHYmXyqbLGH69) | 2:44 | 2025-05-28 | 2025-06-26 |
 | [heat](https://open.spotify.com/track/4OHyPU40HNe3qHMqk2S169) | [Cossmo](https://open.spotify.com/artist/0wxtbXn34Qg45YLDZEyxuz) | [airplane mode](https://open.spotify.com/album/4qEVH8Dt5AruQvQpU7w3iL) | 3:10 | 2024-03-27 | 2024-09-26 |
 | [Heatwaves](https://open.spotify.com/track/7H47hCbksZASXp2VjXTgr5) | [King Pigeon](https://open.spotify.com/artist/4hP2RPQSRdJe3GBQGexJBj) | [Heatwaves](https://open.spotify.com/album/68D8P38DgAG8JxgrQNyukI) | 3:59 | 2022-01-26 | 2022-03-08 |
 | [Heaven and Hell](https://open.spotify.com/track/1J4QufSZU86M4YJkH2W2nG) | [Simon Lewis](https://open.spotify.com/artist/69xq82RL8JoW7DcKP9Q0kD) | [Heaven and Hell](https://open.spotify.com/album/1UpuBvLxt5DjIvtjZXwCBt) | 3:17 | 2022-06-29 | 2022-08-04 |
@@ -642,6 +643,7 @@
 | [Immer Da](https://open.spotify.com/track/5LeZQN2oYx0bi1BtYCUkDJ) | [Luna Simao](https://open.spotify.com/artist/7zXcUC3oYfken45edomJZC) | [Immer Da](https://open.spotify.com/album/1j6Z8zlFVFl6yo3jtPCaXJ) | 2:24 | 2022-04-06 | 2022-05-05 |
 | [IMMER IM RAUCH](https://open.spotify.com/track/2ZQD2mC0tODTbmQ6nlsxdA) | [NILS KEPPEL](https://open.spotify.com/artist/2JHbUwHlQfrl8PqJiGGIcY) | [IMMER IM RAUCH](https://open.spotify.com/album/7qRxYf4OfCjwb8cTZGEfxS) | 3:08 | 2022-01-12 | 2022-02-17 |
 | [In A Dress](https://open.spotify.com/track/3xFuUawZfrjPdZZR9hJeJd) | [Stina Holmquist](https://open.spotify.com/artist/5PimmrUrpvEgfhh1ZJwmpY) | [In A Dress](https://open.spotify.com/album/6mxuaAsmg4aD2d0b7XXdPN) | 3:41 | 2022-11-23 | 2023-03-16 |
+| [In einem anderen Leben](https://open.spotify.com/track/2Bh7tlnlHltYBSgAAfpN92) | [Luis Domingo](https://open.spotify.com/artist/5ZlX3MkuP2qTnp8QF77Mw8) | [In einem anderen Leben](https://open.spotify.com/album/3RzByjeIKYSe43KagKgELR) | 3:33 | 2025-06-25 |  |
 | [In Gloom](https://open.spotify.com/track/0IE4mDW8nFSLbgrUX68Lpr) | [Zanshin](https://open.spotify.com/artist/7fGjoZiCDPz4fSBauKn2Ks) | [In Any Case By Any Chance](https://open.spotify.com/album/6OIlalBqWdX0VBrcbXWS2L) | 4:00 | 2022-06-22 | 2022-06-30 |
 | [In Her Kitchen](https://open.spotify.com/track/5bNWVGD2PzgK04z1PpHSR3) | [Duxius](https://open.spotify.com/artist/6Dy5qLD5AEFFuC5K0SfaG9), [Sarah Sordid](https://open.spotify.com/artist/5MuMOdjhQUTTuapmVEt7Xq) | [In Her Kitchen](https://open.spotify.com/album/7dxJdVqum74qw4xQ43HKOS) | 3:43 | 2025-03-26 | 2025-06-19 |
 | [In Love](https://open.spotify.com/track/37S9ee9UHb59zl2QNggf9J) | [Dominic Donner](https://open.spotify.com/artist/2azURZe6SsoMze6CQa4NSN) | [In Love](https://open.spotify.com/album/2xzSt9luR3DuVUGyHOiQBK) | 2:18 | 2022-07-13 | 2022-08-11 |
@@ -662,7 +664,7 @@
 | [Island](https://open.spotify.com/track/4rCFE6QdmNcPjRPr0uYHQz) | [MIBLU](https://open.spotify.com/artist/3HoYVojQrcPcPHFiO26sJh) | [Island](https://open.spotify.com/album/4cYz3DPXtRUse4uziYKMKw) | 1:57 | 2023-07-05 | 2023-07-27 |
 | [Isny](https://open.spotify.com/track/5iKBVKD5QtKxdB6tz6tclW) | [Flieder](https://open.spotify.com/artist/0cbhFBCTTxNRhRnF9QiP3i) | [Encore](https://open.spotify.com/album/3fGHCwjNsuak1BMnymnD5f) | 4:42 | 2022-01-05 | 2022-02-24 |
 | [It's Alright](https://open.spotify.com/track/4fvTClWxZdGYNHjoHu7zXl) | [PYROHEART](https://open.spotify.com/artist/5HfpFnDGFsRY0fhvHfAIiH) | [The Last Time We'll Be Young](https://open.spotify.com/album/59vPbL4La2DWCUbiFPG9dP) | 4:06 | 2022-01-05 | 2022-03-08 |
-| [It's Fine](https://open.spotify.com/track/37aMREVDR0UxvOMjWJoIAY) | [Junes](https://open.spotify.com/artist/5PiZjZsPnzVtfoF3m3L0uv) | [It's Fine](https://open.spotify.com/album/1p20UtXFNNv5DQDTsp1D4R) | 4:00 | 2025-04-02 |  |
+| [It's Fine](https://open.spotify.com/track/37aMREVDR0UxvOMjWJoIAY) | [Junes](https://open.spotify.com/artist/5PiZjZsPnzVtfoF3m3L0uv) | [It's Fine](https://open.spotify.com/album/1p20UtXFNNv5DQDTsp1D4R) | 4:00 | 2025-04-02 | 2025-06-26 |
 | [It’s Time](https://open.spotify.com/track/6xXJbCnmFvvHGg0L9fTUpD) | [Palinstar](https://open.spotify.com/artist/22ahSri8JRQLhq7DYkIbHw) | [It’s Time](https://open.spotify.com/album/6Xy1nJBXfZH3p6hXhzXNpI) | 3:17 | 2024-07-03 | 2025-06-13 |
 | [Jagen](https://open.spotify.com/track/3SoRTfoCmMsGbmJro8YT2I) | [Die Gruppe König](https://open.spotify.com/artist/2G6TxtGYxSQreE5jk6w3eO) | [ALTARE](https://open.spotify.com/album/2C5JN9X6sONdXFgRwk0aOF) | 4:14 | 2023-02-15 | 2023-03-16 |
 | [Jeden Tag](https://open.spotify.com/track/1XglgN350hjk3Ermt2RElS) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Jeden Tag](https://open.spotify.com/album/2eleZ2TnP62ssipTw6PXQ5) | 2:17 | 2022-04-20 | 2022-05-12 |
@@ -710,7 +712,7 @@
 | [Kommst du mit?](https://open.spotify.com/track/0CdXC4Jg7ZBaDplObNSedz) | [NIKRA](https://open.spotify.com/artist/4KMMyH96yGknUQZZ6MDFmt) | [Kommst du mit?](https://open.spotify.com/album/6A8F9XM9ASRnUnqSq6abqX) | 2:47 | 2022-04-20 | 2022-06-01 |
 | [Krähen](https://open.spotify.com/track/4Cj3RYwYJ0dWffSNyHogeC) | [Ari Faro](https://open.spotify.com/artist/0fPvrmNC1kmixeIHNHbO0q) | [Krähen](https://open.spotify.com/album/7JgTDFtmmKY5KopI3MmE3E) | 3:52 | 2024-11-27 | 2025-02-13 |
 | [Kulturadel](https://open.spotify.com/track/4kE6r707tBYw1lYT3pVPPQ) | [Dima Braune](https://open.spotify.com/artist/0mXA9EBAQuEfh27bMMKyoc) | [Kulturadel](https://open.spotify.com/album/1mVn4803vcx68Wtf5GeATB) | 4:01 | 2025-06-04 |  |
-| [Kurt Vibe](https://open.spotify.com/track/4cJDg4qLHJcmimDkbmNTgg) | [Cori Nora](https://open.spotify.com/artist/0S4A04FqluuvEBf4XEfx7u) | [Kurt Vibe](https://open.spotify.com/album/08DFTTBKQjFJycWgGK3lqE) | 3:32 | 2025-06-12 |  |
+| [Kurt Vibe](https://open.spotify.com/track/4cJDg4qLHJcmimDkbmNTgg) | [Cori Nora](https://open.spotify.com/artist/0S4A04FqluuvEBf4XEfx7u) | [Kurt Vibe](https://open.spotify.com/album/08DFTTBKQjFJycWgGK3lqE) | 3:32 | 2025-06-12 | 2025-06-26 |
 | [Kölle am Meer](https://open.spotify.com/track/2wXYWJuAF5ZmnBLjFbKipb) | [STRESS](https://open.spotify.com/artist/0v8izqyNv1dc7FN7xEyLJb) | [Kölle am Meer](https://open.spotify.com/album/4PK1mgSWTQE3wg1cnpOIgI) | 2:56 | 2023-10-04 | 2023-11-30 |
 | [Künstliche Intelligenz](https://open.spotify.com/track/31FVHxuw0Q34rcSVYROia6) | [H.i.T.](https://open.spotify.com/artist/4VQtc1kGvvi5LPbvioiGlD) | [Künstliche Intelligenz](https://open.spotify.com/album/1GhHWoaEBW1qlKuoMEkwzb) | 1:16 | 2024-02-14 | 2024-03-14 |
 | [L.O.V.E](https://open.spotify.com/track/6I4P3TCNgY8tjWhFTZj9wZ) | [Borka & The Gang](https://open.spotify.com/artist/2O74Wk7BgjWPMXNbDKApwi) | [L.O.V.E EP](https://open.spotify.com/album/7KDBRLmNkSvRfGpO4wERsD) | 5:11 | 2023-07-05 | 2023-08-17 |
@@ -792,6 +794,7 @@
 | [Mad](https://open.spotify.com/track/682PIF5yaDJ32zxxqusK18) | [May Roze](https://open.spotify.com/artist/3XTrQMCzWBFMGUXlQ94hCa) | [Mad](https://open.spotify.com/album/4zMT8egvuqwvcKuMrmgRoD) | 3:27 | 2022-03-07 | 2022-04-28 |
 | [Madame LeSoleil Levant](https://open.spotify.com/track/3UrPCrJGLaBZGj9w8EzT62) | [Oum Shatt](https://open.spotify.com/artist/3lQXHxiyVJnxHfRznEpgAT) | [Madame LeSoleil Levant](https://open.spotify.com/album/6hnyJngfietKnPS1sSvsUx) | 3:34 | 2024-01-03 | 2024-01-25 |
 | [Magic Man](https://open.spotify.com/track/18H0rgW6T6Y9X21CgZKhfi) | [NNHMN](https://open.spotify.com/artist/3PFLYlaguMd2AXu1i3UAKt) | [Magic Man](https://open.spotify.com/album/5f6kSldDQYfkAbYqHY0JSg) | 5:21 | 2022-01-05 | 2022-01-20 |
+| [Make it hurt a little longer](https://open.spotify.com/track/0F4I1sJ5S63WHV6s2mZj3I) | [LOKI](https://open.spotify.com/artist/71EJ8oMfR3a20cqp3VrhRe) | [Make it Hurt a Little Longer](https://open.spotify.com/album/35H5lsjqb36qLi5DWyhbqb) | 3:21 | 2025-06-25 |  |
 | [make you feel](https://open.spotify.com/track/51n6MZLNvAqkc30ifgcUba) | [palffi](https://open.spotify.com/artist/4htu2hjJJSAVQ8lRpZ07PC) | [S.a.L.L.Y](https://open.spotify.com/album/5tcOSsl0H3WARLw5Xjl85r) | 3:30 | 2022-11-30 | 2023-01-05 |
 | [make you feel](https://open.spotify.com/track/7tltcvB3SJcvxq7VCMMmp4) | [palffi](https://open.spotify.com/artist/4htu2hjJJSAVQ8lRpZ07PC) | [make you feel](https://open.spotify.com/album/33uld99180XHljxAhQiPNs) | 3:30 | 2022-01-26 | 2022-06-23 |
 | [Malibu](https://open.spotify.com/track/02PhpSVOVkxsfFXZb4XP8s) | [Christin Nichols](https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0) | [Malibu](https://open.spotify.com/album/4jQeMmYRrxNXZAGMYqaCr9) | 4:03 | 2022-01-05 | 2022-02-24 |
@@ -999,6 +1002,7 @@
 | [Randomness](https://open.spotify.com/track/5XJU7SbMCHCcH9JOs26MDh) | [BLYNE](https://open.spotify.com/artist/3B6ECroeS4yEP8xKx5zyDD) | [Randomness](https://open.spotify.com/album/3iaOpaP0VB2jwc7GVM3ohO) | 2:19 | 2022-01-05 | 2022-01-27 |
 | [RAPSTAR](https://open.spotify.com/track/4k1NDIbiXQK78QfVH6kadP) | [Die Cigaretten](https://open.spotify.com/artist/45Qy3mVXEp1rhTUhfAOqb5) | [RAPSTAR](https://open.spotify.com/album/7xhlcSQKs1U0B0Vb5QsJ7r) | 2:52 | 2023-05-24 | 2023-06-08 |
 | [Rauch](https://open.spotify.com/track/02YOcaXI86clPG29BTvcxI) | [ANIKA](https://open.spotify.com/artist/0i85ZVHgU9GmXkyn9tQRpg) | [Rauch](https://open.spotify.com/album/2MdeebVrs3cpKFaq1JmQ7S) | 3:13 | 2022-10-12 | 2022-10-27 |
+| [Raum und Zeit](https://open.spotify.com/track/4rdEXlnzDuFl4YG3LCJN3u) | [Noah Juan](https://open.spotify.com/artist/6SdE2ZFnEGOXdi4D6ahqQv) | [Villa Capri \- EP](https://open.spotify.com/album/4XuGw1hYvOalxamf5MRq2Z) | 4:02 | 2025-06-25 |  |
 | [RAUS](https://open.spotify.com/track/0LwqO52Dy99EAP9fvPqw1s) | [zwanzignullvier](https://open.spotify.com/artist/7b2YyCNNfUDxyDOb2KGE80) | [RAUS](https://open.spotify.com/album/56PQBozC5ENhFrZxNMmXJd) | 3:16 | 2024-01-03 | 2024-07-04 |
 | [Raus aus dem Grau](https://open.spotify.com/track/4MQ2SCsheIoSzVUioxx26D) | [Ludwig](https://open.spotify.com/artist/7gFR5bwKA6nfOTHSDAmMkI) | [Raus aus dem Grau](https://open.spotify.com/album/1u9fmhS3c7ytb1uLgNmom0) | 2:22 | 2025-02-26 | 2025-04-17 |
 | [rave](https://open.spotify.com/track/0WeKatiC22TXaZ5wds00cN) | [Saiya Tiaw](https://open.spotify.com/artist/59p191nMLthshvixS3w3x3) | [tränen von dir](https://open.spotify.com/album/1aYuxGbeXAKWpr1gw6rIa3) | 2:10 | 2022-04-06 | 2022-05-19 |

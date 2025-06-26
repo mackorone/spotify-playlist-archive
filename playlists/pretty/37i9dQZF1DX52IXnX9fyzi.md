@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,265 likes - 178 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,326 likes - 178 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 12 | [Concepts](https://open.spotify.com/track/5zQA5HeJ6KfWSgwAGZRxUh) | [Richard Noé](https://open.spotify.com/artist/5WxEK0rCJfxI9TN0dbVoWp) | [Concepts](https://open.spotify.com/album/5DHW9iPdqzWyrQuaI4sv3j) | 2:12 |
 | 13 | [From the Window](https://open.spotify.com/track/5VTpbaOoBcayvUxmI7IGug) | [Gia](https://open.spotify.com/artist/2EF6KwiVbFHUsL53LQ2y4R) | [From the Window](https://open.spotify.com/album/3rq8yzc28vT3W4FmHzNBUf) | 2:32 |
 | 14 | [In Presence](https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [In Presence](https://open.spotify.com/album/3a25R9D7Qz4uHXkJqAAV1A) | 2:53 |
-| 15 | [Still Dreaming of You](https://open.spotify.com/track/1cJH9KgGIgrDSllmLluzoV) | [Giulia Romano](https://open.spotify.com/artist/6cY3BzJkIM9w8lvi4U12LI) | [Still Dreaming of You](https://open.spotify.com/album/7tZTHyu9KKLnKNK4D1GRLq) | 2:26 |
+| 15 | [Still Dreaming of You](https://open.spotify.com/track/1cJH9KgGIgrDSllmLluzoV) | [Giulia Romano](https://open.spotify.com/artist/65ClySy2jTVQdbXwhb6GkC) | [Still Dreaming of You](https://open.spotify.com/album/7tZTHyu9KKLnKNK4D1GRLq) | 2:26 |
 | 16 | [Amaryllis](https://open.spotify.com/track/2QqKVdveZUhGN5KXi4hUPS) | [Iris Emmanuelle](https://open.spotify.com/artist/5JCKrEmMJlkxsBLjiBBmzn) | [Amaryllis](https://open.spotify.com/album/4aKGW6CZeppKUVLhxsBhgc) | 2:42 |
 | 17 | [Light As A Feather](https://open.spotify.com/track/3U30zuvNNHUUMSI954bWZk) | [Viro Marix](https://open.spotify.com/artist/0dSIbheAKaFJ9K2TxRJ3vv) | [Light As A Feather](https://open.spotify.com/album/1Ug8cU7eAWPnyMcr7GGocA) | 2:36 |
 | 18 | [Chanceux](https://open.spotify.com/track/5wgH8YJwzSVVWM8a1bfcq0) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Chanceux](https://open.spotify.com/album/3VqA48JuoaMtT5OJReQ6X0) | 3:16 |

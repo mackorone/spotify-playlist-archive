@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Studio Murena",
-  "num_followers": 32908,
+  "num_followers": 32921,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-06-12 22:01:31",
       "album": {
+        "name": "Tindouf",
+        "url": "https://open.spotify.com/album/3PlUQMqx4bI4Z6eMuPVUxq"
+      },
+      "artists": [
+        {
+          "name": "Savana Funk",
+          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
+        }
+      ],
+      "duration_ms": 230173,
+      "name": "Kontiki Blues",
+      "url": "https://open.spotify.com/track/5SpNHoB5ZZMe1o4HMThnmL"
+    },
+    {
+      "added_at": "2025-06-12 22:01:31",
+      "album": {
         "name": "Afrobeat Makers, Vol. 3 (The Tony Allen Experiments)",
         "url": "https://open.spotify.com/album/1GjbremREcqamlsdqM3gEI"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 241318,
       "name": "Howls",
       "url": "https://open.spotify.com/track/0h51tz4qtVPvygXm291ceN"
-    },
-    {
-      "added_at": "2025-06-12 22:01:31",
-      "album": {
-        "name": "Tindouf",
-        "url": "https://open.spotify.com/album/3PlUQMqx4bI4Z6eMuPVUxq"
-      },
-      "artists": [
-        {
-          "name": "Savana Funk",
-          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
-        }
-      ],
-      "duration_ms": 230173,
-      "name": "Kontiki Blues",
-      "url": "https://open.spotify.com/track/5SpNHoB5ZZMe1o4HMThnmL"
     },
     {
       "added_at": "2025-06-12 22:01:31",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-06-12 22:01:31",
       "album": {
-        "name": "The Jazzness",
-        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 248089,
-      "name": "Ripartire Da Zero 2025",
-      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
-    },
-    {
-      "added_at": "2025-06-12 22:01:31",
-      "album": {
         "name": "Rivelazioni di un maniaco sessuale a capo della squadra mobile (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2bu5QRAoFBgSryv8LQODxI"
       },
@@ -879,6 +863,22 @@
     {
       "added_at": "2025-06-12 22:01:31",
       "album": {
+        "name": "The Jazzness",
+        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "duration_ms": 248089,
+      "name": "Ripartire Da Zero 2025",
+      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
+    },
+    {
+      "added_at": "2025-06-12 22:01:31",
+      "album": {
         "name": "Amalia Gr\u00e8",
         "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
       },
@@ -891,26 +891,6 @@
       "duration_ms": 235506,
       "name": "Io Cammino Di Notte Da Sola",
       "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
-    },
-    {
-      "added_at": "2025-06-12 22:01:31",
-      "album": {
-        "name": "IMMA TATARANNI Sostituto Procuratore, Seconda Stagione (Colonna sonora originale della Serie TV)",
-        "url": "https://open.spotify.com/album/73FP2aV57Q08P4HlV2QdYN"
-      },
-      "artists": [
-        {
-          "name": "Andrea Farri",
-          "url": "https://open.spotify.com/artist/53UG4rUlSm5H3F8C9pXls2"
-        },
-        {
-          "name": "Chiara Civello",
-          "url": "https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk"
-        }
-      ],
-      "duration_ms": 177124,
-      "name": "Perdiamoci",
-      "url": "https://open.spotify.com/track/6Gl9tNQtgzQwAcFg17KcqA"
     },
     {
       "added_at": "2025-06-12 22:01:31",
@@ -951,6 +931,26 @@
       "duration_ms": 457360,
       "name": "You can't go home again",
       "url": "https://open.spotify.com/track/64OrUDaxPFxPuwKzeUW6vA"
+    },
+    {
+      "added_at": "2025-06-12 22:01:31",
+      "album": {
+        "name": "IMMA TATARANNI Sostituto Procuratore, Seconda Stagione (Colonna sonora originale della Serie TV)",
+        "url": "https://open.spotify.com/album/73FP2aV57Q08P4HlV2QdYN"
+      },
+      "artists": [
+        {
+          "name": "Andrea Farri",
+          "url": "https://open.spotify.com/artist/53UG4rUlSm5H3F8C9pXls2"
+        },
+        {
+          "name": "Chiara Civello",
+          "url": "https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk"
+        }
+      ],
+      "duration_ms": 177124,
+      "name": "Perdiamoci",
+      "url": "https://open.spotify.com/track/6Gl9tNQtgzQwAcFg17KcqA"
     },
     {
       "added_at": "2025-06-12 22:01:31",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-06-12 22:01:31",
       "album": {
-        "name": "Maison Maravilha",
-        "url": "https://open.spotify.com/album/6Q7qzoGfTHFMHMQBoPa7Yj"
-      },
-      "artists": [
-        {
-          "name": "Joe Barbieri",
-          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
-        }
-      ],
-      "duration_ms": 310466,
-      "name": "Normalmente",
-      "url": "https://open.spotify.com/track/4wymTjjL8l8KOS70s7b6IX"
-    },
-    {
-      "added_at": "2025-06-12 22:01:31",
-      "album": {
         "name": "Freaky People",
         "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 348375,
       "name": "Here We Gong",
       "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
+    },
+    {
+      "added_at": "2025-06-12 22:01:31",
+      "album": {
+        "name": "Maison Maravilha",
+        "url": "https://open.spotify.com/album/6Q7qzoGfTHFMHMQBoPa7Yj"
+      },
+      "artists": [
+        {
+          "name": "Joe Barbieri",
+          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
+        }
+      ],
+      "duration_ms": 310466,
+      "name": "Normalmente",
+      "url": "https://open.spotify.com/track/4wymTjjL8l8KOS70s7b6IX"
     },
     {
       "added_at": "2025-06-12 22:01:31",
@@ -1307,18 +1307,22 @@
     {
       "added_at": "2025-06-12 22:01:31",
       "album": {
-        "name": "Le mie donne",
-        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
+        "name": "Gigi",
+        "url": "https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a"
       },
       "artists": [
         {
-          "name": "Sade Mangiaracina",
-          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
+          "name": "Fabio Concato",
+          "url": "https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za"
+        },
+        {
+          "name": "Paolo Di Sabatino Trio",
+          "url": "https://open.spotify.com/artist/2CvzltIoHXR8Dm74R2olgV"
         }
       ],
-      "duration_ms": 236881,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
+      "duration_ms": 434413,
+      "name": "Gigi",
+      "url": "https://open.spotify.com/track/0En4rr7N50o78ENfLnMptQ"
     },
     {
       "added_at": "2025-06-12 22:01:31",
@@ -1339,22 +1343,18 @@
     {
       "added_at": "2025-06-12 22:01:31",
       "album": {
-        "name": "Gigi",
-        "url": "https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a"
+        "name": "Le mie donne",
+        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
       },
       "artists": [
         {
-          "name": "Fabio Concato",
-          "url": "https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za"
-        },
-        {
-          "name": "Paolo Di Sabatino Trio",
-          "url": "https://open.spotify.com/artist/2CvzltIoHXR8Dm74R2olgV"
+          "name": "Sade Mangiaracina",
+          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
         }
       ],
-      "duration_ms": 434413,
-      "name": "Gigi",
-      "url": "https://open.spotify.com/track/0En4rr7N50o78ENfLnMptQ"
+      "duration_ms": 236881,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
     },
     {
       "added_at": "2025-06-12 22:01:31",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2025-06-12 22:01:31",
       "album": {
-        "name": "Opera prima (Including Ice One Remix)",
-        "url": "https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf"
-      },
-      "artists": [
-        {
-          "name": "Loop Therapy",
-          "url": "https://open.spotify.com/artist/53d3BP6XLXNEtoCTfff5jN"
-        },
-        {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
-        }
-      ],
-      "duration_ms": 278773,
-      "name": "Musica e fumo (featuring Colle Der Fomento)",
-      "url": "https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn"
-    },
-    {
-      "added_at": "2025-06-12 22:01:31",
-      "album": {
         "name": "Moon Kin",
         "url": "https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 156838,
       "name": "Samo",
       "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
+    },
+    {
+      "added_at": "2025-06-12 22:01:31",
+      "album": {
+        "name": "Opera prima (Including Ice One Remix)",
+        "url": "https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf"
+      },
+      "artists": [
+        {
+          "name": "Loop Therapy",
+          "url": "https://open.spotify.com/artist/53d3BP6XLXNEtoCTfff5jN"
+        },
+        {
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        }
+      ],
+      "duration_ms": 278773,
+      "name": "Musica e fumo (featuring Colle Der Fomento)",
+      "url": "https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn"
     },
     {
       "added_at": "2025-06-12 22:01:31",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2025-06-12 22:01:31",
       "album": {
-        "name": "Kair\u00f2s",
-        "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
-      },
-      "artists": [
-        {
-          "name": "Amalafede",
-          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
-        }
-      ],
-      "duration_ms": 255441,
-      "name": "Mezcal",
-      "url": "https://open.spotify.com/track/5kB1hOGw1bqN98jbheIwA7"
-    },
-    {
-      "added_at": "2025-06-12 22:01:31",
-      "album": {
         "name": "Correspondence",
         "url": "https://open.spotify.com/album/27Bwh5V6QhP7W40ZhV2kyB"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 342447,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/5zbZtQukFdYtsxuxdFUUlv"
+    },
+    {
+      "added_at": "2025-06-12 22:01:31",
+      "album": {
+        "name": "Kair\u00f2s",
+        "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
+      },
+      "artists": [
+        {
+          "name": "Amalafede",
+          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
+        }
+      ],
+      "duration_ms": 255441,
+      "name": "Mezcal",
+      "url": "https://open.spotify.com/track/5kB1hOGw1bqN98jbheIwA7"
     },
     {
       "added_at": "2025-06-12 22:01:31",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2025-06-12 22:01:31",
       "album": {
-        "name": "La Valle Dei Templi",
-        "url": "https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z"
-      },
-      "artists": [
-        {
-          "name": "Perigeo",
-          "url": "https://open.spotify.com/artist/0UB7tnXqRLUWF9dyktuA6e"
-        }
-      ],
-      "duration_ms": 184213,
-      "name": "Looping",
-      "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
-    },
-    {
-      "added_at": "2025-06-12 22:01:31",
-      "album": {
         "name": "For Those I Never Knew",
         "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 269139,
       "name": "How Far Can You Fly? (Ladder) - Original Version",
       "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
+    },
+    {
+      "added_at": "2025-06-12 22:01:31",
+      "album": {
+        "name": "La Valle Dei Templi",
+        "url": "https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z"
+      },
+      "artists": [
+        {
+          "name": "Perigeo",
+          "url": "https://open.spotify.com/artist/0UB7tnXqRLUWF9dyktuA6e"
+        }
+      ],
+      "duration_ms": 184213,
+      "name": "Looping",
+      "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
     }
   ],
   "unique_name": "Jazz Italia",

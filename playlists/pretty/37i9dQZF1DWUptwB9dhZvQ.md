@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : Coolie
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,302 likes - 75 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,344 likes - 75 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 3 | [Twin Fish Walter \- From "Benz"](https://open.spotify.com/track/1uLRlKNoXLVeoc1cB25mva) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc) | [Twin Fish Walter \(From "Benz"\)](https://open.spotify.com/album/1ScLNCoLnooOF78ozrByRp) | 2:47 |
 | 4 | [Mankatha Theme Music](https://open.spotify.com/track/1A1YlVucS5hugYaeWXfCA8) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Mankatha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SV5Wjj3CH23kMOg4VrO33) | 3:04 |
 | 5 | [Dub Theri Step](https://open.spotify.com/track/3ZUAuDavYW0KrYf1Q3fBDP) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Theri \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/57PZ81n80Hwh4fNLdsx7vp) | 1:59 |
-| 6 | [Chikitu Vibe \(From "Coolie"\)](https://open.spotify.com/track/5mLQsi5t349Wdm9sB07so0) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [T\. Rajendar](https://open.spotify.com/artist/4UDzzsfKqZUs5bDy3cisle), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Chikitu Vibe \(From "Coolie"\)](https://open.spotify.com/album/3rawORcH9av8a4xPpPqWEG) | 0:56 |
+| 6 | [Chikitu Vibe Promo \(From "Coolie"\)](https://open.spotify.com/track/5mLQsi5t349Wdm9sB07so0) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [T\. Rajendar](https://open.spotify.com/artist/4UDzzsfKqZUs5bDy3cisle) | [Chikitu Vibe Promo \(From "Coolie"\)](https://open.spotify.com/album/3rawORcH9av8a4xPpPqWEG) | 0:56 |
 | 7 | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/track/3Feda69zjFHpUaJtJskq7N) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/album/3ef08KVjQfE97k9qFvybCh) | 2:48 |
 | 8 | [Benz In The Universe Theme \- From "Benz"](https://open.spotify.com/track/0fHJMPTfOZX4ief6dp8UgO) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc) | [Benz In The Universe Theme \(From "Benz"\)](https://open.spotify.com/album/4QYeVQr1Uvy5Pm2G5iPclD) | 2:00 |
 | 9 | [Bigil Bigil Bigiluma](https://open.spotify.com/track/71MYQe743EBq3RvLqidTLi) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Bigil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2G7JyChJHrZYCBb0jL2N5t) | 2:02 |

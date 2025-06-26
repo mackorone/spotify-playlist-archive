@@ -1295,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "Brighter Dawn",
+        "url": "https://open.spotify.com/album/3eSQDoYcWiKB8O9jpXeYOg"
+      },
+      "artists": [
+        {
+          "name": "Emberlace",
+          "url": "https://open.spotify.com/artist/7a7GAIop7VfMQgWiSphyQC"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167120,
+      "name": "Brighter Dawn",
+      "url": "https://open.spotify.com/track/5aBNxo8xRYDT7mEfzkK5AU"
+    },
+    {
+      "album": {
         "name": "Bring You Home",
         "url": "https://open.spotify.com/album/2CWJts4Z3ZCOgTHYbNo6a1"
       },
@@ -7218,6 +7236,24 @@
       "duration_ms": 175037,
       "name": "Night Shadows",
       "url": "https://open.spotify.com/track/2KSQYtfavJ5aCX5EaEyRgG"
+    },
+    {
+      "album": {
+        "name": "Night Sky",
+        "url": "https://open.spotify.com/album/7sOJ1SGwr2poy20SL55vno"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rembrandt",
+          "url": "https://open.spotify.com/artist/42o9XvYCWagpauD2sbHOPY"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167357,
+      "name": "Night Sky",
+      "url": "https://open.spotify.com/track/3gacDsXDzyrkASLN7vA6bD"
     },
     {
       "album": {

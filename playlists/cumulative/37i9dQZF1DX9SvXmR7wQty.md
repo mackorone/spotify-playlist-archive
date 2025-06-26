@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Benny Adam
 
-3,364 songs - 7 day 10 hr 5 min
+3,365 songs - 7 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1577,7 +1577,7 @@
 | [La Masia](https://open.spotify.com/track/2jnRmXdb2b9hPMdT1vWS33) | [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On) | [La Masia](https://open.spotify.com/album/74c7CluPdWcpjVuYcn85XS) | 2:22 | 2023-03-24 | 2023-04-22 |
 | [La mauvaise question](https://open.spotify.com/track/6KYNFAa4z1GJYnAkDf9Gyw) | [Stéphanie Boulay](https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0) | [Si l'essentiel c'est d'être aimé / La mauvaise question](https://open.spotify.com/album/7vaSzxNrZe41hcNtz472qu) | 3:49 | 2025-01-17 | 2025-01-25 |
 | [La Maxance](https://open.spotify.com/track/6yP8ZNACztmI2UfAfw9sQO) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [La Maxance](https://open.spotify.com/album/3EdRFF6vufkL9fjyoZWqFu) | 2:31 | 2022-05-20 | 2022-06-04 |
-| [LA MEILLEURE](https://open.spotify.com/track/4zoWirwGFfX4Jj9n4mmUg0) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [LA MEILLEURE](https://open.spotify.com/album/2xEKZQHGihbX8MY1kfJARS) | 2:09 | 2025-05-23 |  |
+| [LA MEILLEURE](https://open.spotify.com/track/4zoWirwGFfX4Jj9n4mmUg0) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [LA MEILLEURE](https://open.spotify.com/album/2xEKZQHGihbX8MY1kfJARS) | 2:09 | 2025-05-23 | 2025-06-26 |
 | [La Meilleure](https://open.spotify.com/track/5fEC4YAZALInwKuqwHytir) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [La Meilleure](https://open.spotify.com/album/3J0wjJ5gzCsWdCtWXm9xUK) | 2:45 | 2022-03-25 | 2022-04-09 |
 | [La mer rose](https://open.spotify.com/track/4DnUtxeDsHam1KdvdOgBVv) | [Orlanda](https://open.spotify.com/artist/23nY5K8uRicVSFQDOovHTe) | [Fantaisie](https://open.spotify.com/album/3VYyrIlSdin2xd7MQKxvtG) | 2:27 | 2025-02-07 | 2025-02-22 |
 | [La missive](https://open.spotify.com/track/1gyz0BM3BISwLNfyviZGpz) | [Paradox](https://open.spotify.com/artist/6A3k4n3B2NbltmxGZ1SW4y), [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3) | [La missive](https://open.spotify.com/album/2E6aVszzBEf0ewHrcmgEAy) | 3:23 | 2023-03-24 | 2023-04-16 |
@@ -2689,6 +2689,7 @@
 | [Saigne](https://open.spotify.com/track/1asVdZ0iYxCfmlIZ97C9z1) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Cullinan](https://open.spotify.com/album/5ChxUxNLebxMXdHGtveexw) | 2:44 | 2022-11-11 | 2022-11-29 |
 | [Sains et saufs](https://open.spotify.com/track/0c5qGXsXbPjQtbhyLsfUWi) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Sains et saufs](https://open.spotify.com/album/6KHXtoIhJns1xTGYg6EwRZ) | 3:41 | 2025-03-21 | 2025-05-31 |
 | [Sainte\-Rita](https://open.spotify.com/track/2H8XayBXl4ju8RbJMXXzx5) | [Rick et les Bons Moments](https://open.spotify.com/artist/3ZTHWlS8bpAA446rY8ntVQ) | [Sainte\-Rita](https://open.spotify.com/album/0HbcKi9jIdUOg38c1r6BzJ) | 3:13 | 2022-01-21 | 2022-02-05 |
+| [Saisons](https://open.spotify.com/track/5uXpyuCdaYp5OMI4WK5Obj) | [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Saisons](https://open.spotify.com/album/0eetodKHmfPcQsKODvqATz) | 2:54 | 2025-06-20 |  |
 | [SAL Tour](https://open.spotify.com/track/7zduvebDa9IjEXrONa09qx) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [SAL Tour](https://open.spotify.com/album/4sNa8HLLS8mfIYJlVUcQe7) | 2:30 | 2023-10-13 | 2023-10-21 |
 | [salades](https://open.spotify.com/track/5hbBxh7gYyVRMotreleFyp) | [Miro Chino](https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI) | [Bons Times Bad Times](https://open.spotify.com/album/3e1Ie4LcLqAXk7HWN2kDj9) | 4:01 | 2023-10-13 | 2023-10-21 |
 | [Salam](https://open.spotify.com/track/0wtOmVPHBHB9vzsa7e35yS) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU), [Art de rue](https://open.spotify.com/artist/1b27lFoOmpecfaxZGgprtA) | [Salam](https://open.spotify.com/album/4BWW57WutgY0Nlb9Sq7E2s) | 3:06 | 2022-03-18 | 2022-03-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! XXXTENTACION, Money Man, Rio Da Yung Og,  Peezy &amp; Tyga.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 39,337 likes - 78 songs - 3 hr 33 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 39,296 likes - 78 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

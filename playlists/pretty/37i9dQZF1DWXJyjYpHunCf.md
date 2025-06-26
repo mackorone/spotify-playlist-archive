@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Vincent Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,472 likes - 110 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,542 likes - 110 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

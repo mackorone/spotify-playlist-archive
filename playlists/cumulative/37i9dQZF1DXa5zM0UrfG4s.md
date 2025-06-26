@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-403 songs - 18 hr 29 min
+404 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Aldri tilbake](https://open.spotify.com/track/6qBJhWis1EGlcDvC74PTyS) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Aldri tilbake](https://open.spotify.com/album/2MkG4qjOniaUJCUbmIPE3O) | 3:21 | 2021-12-16 | 2024-03-04 |
 | [Aleine over fjell](https://open.spotify.com/track/3hTueanE6FImv3heUnvow8) | [Bråtabrann](https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71) | [Aleine over fjell](https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL) | 2:53 | 2025-03-27 |  |
 | [All øllen eg drikke](https://open.spotify.com/track/2kMUeVstP7rQIgJmJ5Aho8) | [Kapteinen](https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9) | [All øllen eg drikke](https://open.spotify.com/album/1J1GkO6nEllNVn0Rc4YfCW) | 2:28 | 2023-08-17 | 2023-08-25 |
-| [Alt det der](https://open.spotify.com/track/7qQmbSx16gAj5j8eR1Pn6d) | [Landeveiens Helter](https://open.spotify.com/artist/4q4aWx2s5KS9s0FA8MTRn7), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY), [Lars Erik Blokkhus](https://open.spotify.com/artist/6wMcOYgBlkGB7Vj888cNGr), [Dag Ingebrigtsen](https://open.spotify.com/artist/65Sh6fBb85Hm3uLuETK3Ux) | [Alt det der](https://open.spotify.com/album/645DPvuuUPRDfKiyEyq5uo) | 2:57 | 2021-12-16 |  |
+| [Alt det der](https://open.spotify.com/track/7qQmbSx16gAj5j8eR1Pn6d) | [Landeveiens Helter](https://open.spotify.com/artist/4q4aWx2s5KS9s0FA8MTRn7), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY), [Lars Erik Blokkhus](https://open.spotify.com/artist/6wMcOYgBlkGB7Vj888cNGr), [Dag Ingebrigtsen](https://open.spotify.com/artist/65Sh6fBb85Hm3uLuETK3Ux) | [Alt det der](https://open.spotify.com/album/645DPvuuUPRDfKiyEyq5uo) | 2:57 | 2021-12-16 | 2025-06-26 |
 | [Alt det der \(feat\. Lars\-Erik Blokkhus & Dag Ingebrigtsen\)](https://open.spotify.com/track/255CixwgWFfqHB1liw1LPE) | [Landeveiens Helter](https://open.spotify.com/artist/4q4aWx2s5KS9s0FA8MTRn7), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY), [Lars Erik Blokkhus](https://open.spotify.com/artist/6wMcOYgBlkGB7Vj888cNGr), [Dag Ingebrigtsen](https://open.spotify.com/artist/65Sh6fBb85Hm3uLuETK3Ux) | [Alt det der \(feat\. Lars\-Erik Blokkhus & Dag Ingebrigtsen\)](https://open.spotify.com/album/3juWqAxnKuVVCNQHxOVAAl) | 2:57 | 2024-02-15 | 2024-04-19 |
 | [Alt du vil ha](https://open.spotify.com/track/0gSJWzYKV9mjwO0pBs5ZXB) | [Sie Gubba](https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6) | [Alt du vil ha](https://open.spotify.com/album/2QRyTA27H57KmItlwy9LNR) | 3:00 | 2021-12-16 | 2024-09-20 |
 | [Alt Er Bedre \(Tequila\)](https://open.spotify.com/track/4Alebf4eKgEPfw57mmHrul) | [Thomassen & Berg](https://open.spotify.com/artist/2h3XAFvVOB0uIWDcucNzv2) | [Alt Er Bedre \(Tequila\)](https://open.spotify.com/album/2St3li8WTdpkqQ8BO0gygn) | 2:21 | 2022-06-23 | 2022-07-17 |
@@ -342,6 +342,7 @@
 | [SKÅL FOR OSS](https://open.spotify.com/track/46Z4qHlwxf1u7ReYjf7xHx) | [Sie Gubba](https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6) | [SKÅL FOR OSS](https://open.spotify.com/album/5zOWf6BPzBpHhOBrMKdit0) | 3:19 | 2025-02-27 | 2025-03-28 |
 | [Snakkes](https://open.spotify.com/track/3gApFQhR9CEqjkCFG1WlKM) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Snakkes](https://open.spotify.com/album/3tf842G9r8jBlGl6ZVdbDp) | 2:43 | 2021-12-16 | 2022-07-14 |
 | [Sofa fra IKEA](https://open.spotify.com/track/02YrJmoMxJEzpede9KDnu6) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Sofa fra IKEA](https://open.spotify.com/album/7HSWhHfsWZf8EbFrq3fGtG) | 2:34 | 2021-12-16 | 2022-07-24 |
+| [Sol, snaps & skandaler](https://open.spotify.com/track/17pKdphlthkMsnSzOOBX9E) | [SEDET](https://open.spotify.com/artist/0eoCAkhtLKhh09q4DFoM4I) | [Sol, snaps & skandaler](https://open.spotify.com/album/6SEWMGvhntZlxRa4r4g2XI) | 3:04 | 2025-06-25 |  |
 | [Sommar i hardangerfjord](https://open.spotify.com/track/58fywUsgOwg80CV71OrJrO) | [Gunslingers](https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX) | [Sommar i hardangerfjord](https://open.spotify.com/album/1xaOuqjb9QvqhM3DpOidxD) | 3:22 | 2022-01-27 | 2022-04-21 |
 | [Sova när vi dör](https://open.spotify.com/track/6Z0Hi1lWsMHFUbIYqzt4Zl) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Sova när vi dör](https://open.spotify.com/album/4em6rNBe95z9RM1JaWB6Eo) | 3:25 | 2021-12-16 | 2022-10-16 |
 | [Splitter Pine](https://open.spotify.com/track/1JLdVHnYAGqr2tUD3LVN2c) | [Dumdum Boys](https://open.spotify.com/artist/4Eqk6wvSaia7pwOzPaqEQv) | [Splitter Pine \(Remastered 2015\)](https://open.spotify.com/album/4VdqkutDQsMtV4S4Jvliee) | 4:27 | 2022-03-24 | 2024-02-09 |

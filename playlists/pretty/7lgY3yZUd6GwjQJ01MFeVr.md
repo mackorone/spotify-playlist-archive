@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain](/playlists/plain/7lgY3yZUd6GwjQJ01MFeVr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7lgY3yZUd6GwjQJ01MFeVr)
 
-### [Top Country Hits 2025](https://open.spotify.com/playlist/7lgY3yZUd6GwjQJ01MFeVr)
+### [Top Country Hits \- Summer 2025](https://open.spotify.com/playlist/7lgY3yZUd6GwjQJ01MFeVr)
 
 > Today's top country music!
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,140 likes - 98 songs - 5 hr 11 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,137 likes - 98 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 | 97 | [Betrayal](https://open.spotify.com/track/7uWM2ITKJdXGA6jjv50N0V) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Betrayal](https://open.spotify.com/album/3Q6tNsnuWm0bpYS5RAJlYc) | 3:00 |
 | 98 | [Lonely Cowboy](https://open.spotify.com/track/4b4qenweAK0E90SiuUtrLy) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 4:53 |
 
-Snapshot ID: `AAAbusM+nymkVD2IuZpJ4JjiKct/0vQc`
+Snapshot ID: `AAAbuzfQep5kFQ0iEf9IpD1G5fURCjz2`

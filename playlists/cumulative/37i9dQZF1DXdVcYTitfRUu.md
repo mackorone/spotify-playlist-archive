@@ -4,7 +4,7 @@
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-196 songs - 12 hr 2 min
+199 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Dream](https://open.spotify.com/track/5DIooJbJaNbxidKBMbk2ts) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Welcome to Samdal\-ri \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/6zQirDfbwXQbtdPJta5Xx3) | 3:58 | 2024-08-10 |  |
 | [Dreaming](https://open.spotify.com/track/0KAe8Hh67OXolVlcsZDCIy) | [ANYUJIN](https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE) | [Dreaming : WEBTOON 'The Great X ANYUJIN \(IVE\)](https://open.spotify.com/album/58QAs8YSamH7yhU1VrHn3L) | 3:23 | 2024-11-21 | 2025-04-25 |
 | [DrunKen Confession](https://open.spotify.com/track/0hqngwyh8WnPuYlLYHRQqp) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [DrunKen Confession](https://open.spotify.com/album/0IwBuSyXreDfgarE0TaAix) | 3:47 | 2024-08-10 |  |
+| [Endless Rain](https://open.spotify.com/track/4YcPfv5Wef00nAkjLk3gy2) | [LEE BORAM](https://open.spotify.com/artist/6SFvlarNwNCJVr7p5ZHPp3) | [IONY : Project \#01](https://open.spotify.com/album/1bDv2zeRqSgKRqXZCK8w6I) | 3:26 | 2025-06-26 |  |
 | [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 | 2023-11-03 |  |
 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 | 2024-08-10 |  |
 | [Every moment of you](https://open.spotify.com/track/2tY05I4MCH2eKnWTITUspC) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [My Love From the Star Part 7](https://open.spotify.com/album/76Ke9tCgKmlQTG2Nb810O0) | 4:03 | 2024-08-10 |  |
@@ -124,7 +125,7 @@
 | [Love, Maybe](https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Love, Maybe \(A Business Proposal OST Special Track\)](https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk) | 3:05 | 2023-11-03 |  |
 | [Love, the common word](https://open.spotify.com/track/2h0wEmZvW6cmMr0Fw1Tc7m) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [Love, the common word](https://open.spotify.com/album/28aUeLxxvhM6ouWQz7IDgL) | 4:53 | 2025-05-16 | 2025-05-23 |
 | [Love..What is it](https://open.spotify.com/track/1q9TLiBIGcjEchuhPSIz8c) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Love..What is it](https://open.spotify.com/album/4tJCXCEaUtRo4J6XaOZdb4) | 3:45 | 2023-12-06 | 2025-05-26 |
-| [Love…Leaves Its Scent](https://open.spotify.com/track/2oOi4yJOChPbmSVfiKILH7) | [Yoon Hyun Sang](https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2) | [Love…Leaves Its Scent](https://open.spotify.com/album/3U22FVxBjCTbJf6FZc7E0j) | 4:22 | 2025-06-19 |  |
+| [Love…Leaves Its Scent](https://open.spotify.com/track/2oOi4yJOChPbmSVfiKILH7) | [Yoon Hyun Sang](https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2) | [Love…Leaves Its Scent](https://open.spotify.com/album/3U22FVxBjCTbJf6FZc7E0j) | 4:22 | 2025-06-19 | 2025-06-26 |
 | [Lullaby](https://open.spotify.com/track/5btyWod77lGbqKjEGRBvGw) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [Lullaby](https://open.spotify.com/album/7LbNOe1dTRHpP9hh48Merc) | 3:49 | 2024-03-20 | 2024-06-21 |
 | [Me After You](https://open.spotify.com/track/3gucipmp9z0bf7pjEbtTX0) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/3Zvz3DnPC7UgRyiO8LprUt) | 4:40 | 2024-03-05 | 2024-04-19 |
 | [Me After You](https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh) | 4:40 | 2023-11-03 | 2024-03-02 |
@@ -171,9 +172,9 @@
 | [Sudden Shower](https://open.spotify.com/track/1OhIn0L6iofnk5bjalWfHq) | [ECLIPSE](https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve) | [Lovely Runner, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0yaxMWGvOI7jSirSsKQj37) | 3:53 | 2024-08-10 |  |
 | [T's Romance](https://open.spotify.com/track/2y7gIe8OxxVFcnA6lTNZ43) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [T's Romance](https://open.spotify.com/album/32CToDkpNb9atIHaGRfWh2) | 2:54 | 2024-08-10 | 2024-09-20 |
 | [Tell Me It's Not a Dream](https://open.spotify.com/track/7nxoUuqcsDfv3PsPGeciWy) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Queen of Tears \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0hJiHeURXoUEZMjiUxpbc6) | 3:55 | 2024-03-20 |  |
-| [That means love is over \(To you who breaking up\)](https://open.spotify.com/track/6IG7MaqTnMoqrHg3ZrVWlm) | [Hong Kyung\-min](https://open.spotify.com/artist/6CeGrlHkhTuqMVLDQRQ4qy) | [That means love is over \(To you who breaking up\)](https://open.spotify.com/album/6Aixl6bfeVw5cdPElFv5Ml) | 4:05 | 2025-06-19 |  |
+| [That means love is over \(To you who breaking up\)](https://open.spotify.com/track/6IG7MaqTnMoqrHg3ZrVWlm) | [Hong Kyung\-min](https://open.spotify.com/artist/6CeGrlHkhTuqMVLDQRQ4qy) | [That means love is over \(To you who breaking up\)](https://open.spotify.com/album/6Aixl6bfeVw5cdPElFv5Ml) | 4:05 | 2025-06-19 | 2025-06-26 |
 | [That's You](https://open.spotify.com/track/2UysjEVKnL55ywc6TuvcQI) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Destined with You \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/37BzsG0I20mbX2CFipkt3A) | 3:51 | 2023-11-03 | 2024-02-22 |
-| [The Look In Your Eyes](https://open.spotify.com/track/0Cg4pZkNpOYNUXxmEYzuAd) | [Yoo Hwe Seung](https://open.spotify.com/artist/5ENwCCr5vpgcwr4HgTmWGs) | [Spring of Youth \(Original Soundtrack\) Part.7](https://open.spotify.com/album/5mAsdROsHGDlu1FK9sdOkM) | 3:45 | 2025-06-12 |  |
+| [The Look In Your Eyes](https://open.spotify.com/track/0Cg4pZkNpOYNUXxmEYzuAd) | [Yoo Hwe Seung](https://open.spotify.com/artist/5ENwCCr5vpgcwr4HgTmWGs) | [Spring of Youth \(Original Soundtrack\) Part.7](https://open.spotify.com/album/5mAsdROsHGDlu1FK9sdOkM) | 3:45 | 2025-06-12 | 2025-06-26 |
 | [The Moment You Arrive](https://open.spotify.com/track/74jC2OHiPnRCCCSdBGXHVo) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Tell Me That You Love Me, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3c6lzwgHhaIDSjPRz9zjCq) | 4:10 | 2024-01-31 | 2024-08-11 |
 | [The Moon \(Feat\. TAEIL of NCT\)](https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [The Moon \(Feat\. TAEIL of NCT\)](https://open.spotify.com/album/6NfkVXBrjpR9JG69VOg52G) | 2:42 | 2023-11-03 | 2024-11-12 |
 | [The Reasons of My Smiles](https://open.spotify.com/track/1amowbJ9HHFFSFdg2ubM7G) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [Queen of Tears \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/79h63Z1mzFq1ssg3tCXyzF) | 3:33 | 2024-03-20 |  |
@@ -202,6 +203,8 @@
 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 | 2023-11-03 |  |
 | [Yoonseul](https://open.spotify.com/track/6nB4wOUWBnvAMJvHb8BNc5) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Yoonseul](https://open.spotify.com/album/2Ur4NrDdVubOUCBR4pfhOM) | 2:34 | 2024-05-09 | 2024-08-11 |
 | [거리에서](https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [The Ballads](https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac) | 4:39 | 2023-11-03 |  |
+| [미래의 너에게 고마워 \(Thank you, future you.\)](https://open.spotify.com/track/5pjvvATx7UKmp2k7Vh5y7j) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [미래의 너에게 고마워 \(Thank you, future you.\)](https://open.spotify.com/album/4O9mh9UvVDrl2PCA1V6QEL) | 5:00 | 2025-06-26 |  |
+| [사랑했지만](https://open.spotify.com/track/53pfvWjnZVSLgp97QjsBPm) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [7th X 독수리 5형제를 부탁해!](https://open.spotify.com/album/1aURZoBC382M0jpiQQ34KH) | 4:45 | 2025-06-26 |  |
 | [시작의 아이 ハジマリのコ \(Starting With You\)](https://open.spotify.com/track/2GMKQPMXdOGXsQkDYBN6wF) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [시작의 아이 ハジマリのコ \(Starting With You\)](https://open.spotify.com/album/7zt4FeVEYc2QuMPI11WIoO) | 4:16 | 2025-02-10 |  |
 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 | 2023-11-03 |  |
 

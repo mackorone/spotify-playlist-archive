@@ -4,7 +4,7 @@
 
 > 
 
-1,059 songs - 2 day 4 hr 55 min
+1,061 songs - 2 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -980,6 +980,7 @@
 | [Twisting Fingers \(with Moneybagg Yo\)](https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Texas Technician](https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR) | 2:06 | 2024-05-06 | 2024-11-06 |
 | [U could stay](https://open.spotify.com/track/3oFN3jn3MmKnxOc2I6TKC6) | [Lunchbox](https://open.spotify.com/artist/4yBk76oymBKTd7fs3XpbId) | [U could stay](https://open.spotify.com/album/0tAfKliYLaHyTceAVUQnQz) | 1:36 | 2023-06-02 | 2023-12-14 |
 | [U could tëll](https://open.spotify.com/track/0k4Xxpf3Ml9e0UFYacCIDO) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:28 | 2022-12-16 | 2023-12-14 |
+| [U Say \(feat\. Tyler, The Creator & Jay Prince\)](https://open.spotify.com/track/2p37Mfy2PWajgOS3i2aaep) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [Diaspora](https://open.spotify.com/album/790qROmQ1y4aPEYLcSkScH) | 3:21 | 2025-06-25 |  |
 | [U Should Know](https://open.spotify.com/track/17vVm6v7GE2tP2KRVbCwqv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:06 | 2024-02-16 | 2024-04-24 |
 | [U Should Know](https://open.spotify.com/track/5bfKhDxMWi5Yd2B4OBYdHg) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/0cLGXgec8fFV7YPFQ96SUG) | 3:06 | 2024-02-16 | 2024-02-22 |
 | [Umm Hmm](https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:12 | 2024-12-05 |  |
@@ -1024,6 +1025,7 @@
 | [Werkin](https://open.spotify.com/track/251bqAhih1Yn6m9Eqw3Z1n) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Osama Season](https://open.spotify.com/album/1gbR6hQTGdJ8PH3BXgmcdg) | 2:02 | 2023-12-09 |  |
 | [WHARF TALK \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3u9PAti8muEXXvEjeFpQK0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:24 | 2023-04-04 | 2023-12-14 |
 | [WHAT A DAY](https://open.spotify.com/track/3v3gyQkwRQGwDUZ7V2q2lF) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:36 | 2023-04-04 | 2023-12-14 |
+| [What a Fool Believes](https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Minute by Minute](https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB) | 3:43 | 2025-06-25 |  |
 | [What Am I To Do](https://open.spotify.com/track/4TXPbHOeQE0Az7T71uybPu) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [What Am I To Do](https://open.spotify.com/album/3dyRrIw0NzRFi26EwfZo6V) | 2:55 | 2024-01-29 | 2024-04-24 |
 | [What Goes Around.../...Comes Around \(Interlude\)](https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [FutureSex/LoveSounds](https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3) | 7:28 | 2025-06-03 |  |
 | [WHAT KIND OF RAPPIN' IS THIS?](https://open.spotify.com/track/2dvgoGTEjoPWou8KdL9h1g) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [LP!](https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh) | 1:52 | 2024-03-26 | 2024-11-06 |

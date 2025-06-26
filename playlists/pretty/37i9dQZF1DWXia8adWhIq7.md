@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Rapha Gonçalves
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,066 likes - 85 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,107 likes - 85 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 58 | [Tudo Novo \- Acústico](https://open.spotify.com/track/77uSoHkw1ot5r6JdfvtTmi) | [DJ Roger Vale](https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Tudo Novo \(Acústico\)](https://open.spotify.com/album/3gWsO95tq0c0qTAyogPlHk) | 2:59 |
 | 59 | [Rota](https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4) | [Isabella Lopes](https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds) | [Rota](https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH) | 3:16 |
 | 60 | [Pai Nosso \- Our Father](https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp) | [Welcson](https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN) | [Pai Nosso](https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl) | 4:21 |
-| 61 | [Selo do Perdão \(Legado\)](https://open.spotify.com/track/4CPCxW7WZUUKyOrMNfERFA) | [Carlinhos Félix](https://open.spotify.com/artist/4fKC35zqqRm5Xs8hINEKf4) | [Selo do Perdão \(Legado\)](https://open.spotify.com/album/4JJ0Zaa6iXKKMkMQfVNd7Q) | 4:10 |
+| 61 | [Contigo](https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV) | [Contigo](https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0) | 3:19 |
 | 62 | [Pra Onde Vou Correr](https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Pra Onde Vou Correr](https://open.spotify.com/album/0RQmuhQgvKDgqlHsGLLcmq) | 3:35 |
-| 63 | [Contigo](https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV) | [Contigo](https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0) | 3:19 |
+| 63 | [Selo do Perdão \(Legado\)](https://open.spotify.com/track/4CPCxW7WZUUKyOrMNfERFA) | [Carlinhos Félix](https://open.spotify.com/artist/4fKC35zqqRm5Xs8hINEKf4) | [Selo do Perdão \(Legado\)](https://open.spotify.com/album/4JJ0Zaa6iXKKMkMQfVNd7Q) | 4:10 |
 | 64 | [Casulo](https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs) | [Isabella Lopes](https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds) | [Casulo](https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva) | 3:39 |
 | 65 | [Ponto de Paz](https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Ponto de Paz](https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP) | 3:00 |
 | 66 | [Do Meu Lado](https://open.spotify.com/track/1H1f46vLGZTa3c5JLvFbWb) | [Bruno Coutinho](https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO), [Coutinho Records](https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS) | [Do Meu Lado](https://open.spotify.com/album/4cscdogWJaGUU1h9AemC6E) | 3:21 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 70 | [Te Vejo](https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Te Vejo](https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv) | 3:30 |
 | 71 | [Teu Calor](https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Teu Calor](https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm) | 3:44 |
 | 72 | [Enganoso Coração](https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i) | [Enganoso Coração](https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx) | 3:10 |
-| 73 | [Pense Bem](https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Pense Bem](https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ) | 4:00 |
-| 74 | [Voltar](https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM) | [Eric Cortes](https://open.spotify.com/artist/7Mvuu6yhnhyYtZATxe5C8F) | [Voltar](https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw) | 4:16 |
+| 73 | [Voltar](https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM) | [Eric Cortes](https://open.spotify.com/artist/7Mvuu6yhnhyYtZATxe5C8F) | [Voltar](https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw) | 4:16 |
+| 74 | [Pense Bem](https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Pense Bem](https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ) | 4:00 |
 | 75 | [Mostra\-Me Tua Glória](https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Mostra\-Me Tua Glória](https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK) | 3:50 |
 | 76 | [Me Chamar de Filho](https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0) | [Ana Canhoto](https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y) | [Me Chamar de Filho](https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM) | 3:07 |
 | 77 | [Me Leva Além](https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC) | [Geovanne Oliveira](https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR) | [Me Leva Além](https://open.spotify.com/album/2iwdXuyuljCkNwooRrWCIU) | 3:35 |

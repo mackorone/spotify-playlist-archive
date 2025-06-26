@@ -1,12 +1,12 @@
 {
   "description": "New music by the heaviest independent artists every Wednesday. Cover: Chained Saint",
-  "num_followers": 22582,
+  "num_followers": 22654,
   "original_name": "Fresh Finds Heavy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFTc3QAAAAAzv4sHrP89vXpwLxli/fGU",
+  "snapshot_id": "aFt0SAAAAAB0reVYe1pHKRUCjg4kDr6p",
   "tracks": [
     {
       "added_at": "2025-06-20 04:00:29",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-06-20 04:00:29",
       "album": {
-        "name": "drown",
-        "url": "https://open.spotify.com/album/3PYL7TAV9FIaKTyFclcD4S"
-      },
-      "artists": [
-        {
-          "name": "Shallow Truths",
-          "url": "https://open.spotify.com/artist/132H63dzJPRFR7Ckc1Gedg"
-        }
-      ],
-      "duration_ms": 198160,
-      "name": "drown",
-      "url": "https://open.spotify.com/track/6kXWQ9AqYQ6p04P5BBH4m6"
-    },
-    {
-      "added_at": "2025-06-20 04:00:29",
-      "album": {
         "name": "U(phoria)",
         "url": "https://open.spotify.com/album/56N7Ywq4IWoVuQuvNS3cZg"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 213333,
       "name": "U(phoria)",
       "url": "https://open.spotify.com/track/1N1btMf2cMZFiGFTHPL3yj"
+    },
+    {
+      "added_at": "2025-06-25 04:00:08",
+      "album": {
+        "name": "Elated",
+        "url": "https://open.spotify.com/album/2inbqm5YYvaHUE0qYDvhqs"
+      },
+      "artists": [
+        {
+          "name": "Sienna Skies",
+          "url": "https://open.spotify.com/artist/4BwB9qh4daa8ecVPY9Qlo3"
+        }
+      ],
+      "duration_ms": 242571,
+      "name": "Elated",
+      "url": "https://open.spotify.com/track/4pHlVnvaYF6P5Mrj1yDKLn"
     },
     {
       "added_at": "2025-06-20 04:00:29",

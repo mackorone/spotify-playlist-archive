@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 
 > Quer fazer aquele exercício empolgante e sem estresse? Fizemos uma playlist com o som certo para você alcançar novas metas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,844 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,784 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 | 77 | [Be Okay \(with HRVY\)](https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Be Okay \(with HRVY\)](https://open.spotify.com/album/7IWsyF6IuJ4jLdRTLxVw3v) | 2:21 |
 | 78 | [Waiting for the Summer](https://open.spotify.com/track/6yDVzSw6ADBAQNgBSkkdw6) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou) | [Waiting for the Summer](https://open.spotify.com/album/4mVZbOPDbTF6alY0EhdAE7) | 2:48 |
 | 79 | [Swing](https://open.spotify.com/track/0Hb1y5PXdcuhNmLC1iytPw) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [Swing](https://open.spotify.com/album/3j2j7DAJq56gRsWXgJgWmN) | 2:59 |
-| 80 | [Flashing Lights](https://open.spotify.com/track/2yUkOwIdYRvV86ngAQg9Am) | [Daxten](https://open.spotify.com/artist/1uwGIdDsv9rhyzuqgYhOuS) | [You Got Me](https://open.spotify.com/album/0w7epNYKk5RTukZ7ZocIbA) | 2:57 |
+| 80 | [Afrofuturista](https://open.spotify.com/track/35d6akAv0HQFb21Ooifwvi) | [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2) | [Afrofuturista](https://open.spotify.com/album/1BWtvpZIQkHY9CwG49QcWs) | 2:04 |
 
 Snapshot ID: `Z6V3ewAAAADZQJlrGkMHrUYg2qQ1sLs3`

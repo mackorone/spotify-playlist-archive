@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 262515,
+  "num_followers": 262534,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFiZAAAAAACKex/ECJ9HbGAhbdv/8Yb3",
+  "snapshot_id": "aFnqgAAAAABd7hQDEtkcwtT+pW0RbTKo",
   "tracks": [
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 76248,
-      "name": "Campo De Morango",
-      "url": "https://open.spotify.com/track/2exu569k07hUulN9CoPnMH"
+      "duration_ms": 124455,
+      "name": "A Dona Aranha",
+      "url": "https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 124455,
-      "name": "A Dona Aranha",
-      "url": "https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A"
+      "duration_ms": 76248,
+      "name": "Campo De Morango",
+      "url": "https://open.spotify.com/track/2exu569k07hUulN9CoPnMH"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mari Fernandez Ao Vivo Em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/4GBXBjWiyAfZiKph3ThZTZ"
-      },
-      "artists": [
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 201856,
-      "name": "Deixa Eu Viver - Ao Vivo",
-      "url": "https://open.spotify.com/track/0P0k5KoLcxi0kf1jik4v8X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tudo de bom",
         "url": "https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 164760,
       "name": "Tudo de bom",
       "url": "https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mari Fernandez Ao Vivo Em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/4GBXBjWiyAfZiKph3ThZTZ"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 201856,
+      "name": "Deixa Eu Viver - Ao Vivo",
+      "url": "https://open.spotify.com/track/0P0k5KoLcxi0kf1jik4v8X"
     },
     {
       "added_at": null,

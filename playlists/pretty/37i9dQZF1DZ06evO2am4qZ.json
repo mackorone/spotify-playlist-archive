@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFiZAAAAAADX8ZMF69CCAfDjZiVaizjA",
+  "snapshot_id": "aFnqgAAAAAC6WKtkR52AkC3aOsgLauKZ",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baby Tate Presents - Sexploration: The Musical",
+        "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 196610,
+      "name": "Grip",
+      "url": "https://open.spotify.com/track/1tHYeRTwPlHkKV3uOY0uSm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Billion Dollar Bitch (feat. Yung Baby Tate)",
         "url": "https://open.spotify.com/album/3fuXDz3sxWe8k9Ny9iqB0O"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 188442,
       "name": "Billion Dollar Bitch (feat. Yung Baby Tate)",
       "url": "https://open.spotify.com/track/2ERxhNVMT1Fd5fNyX6CIcW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baby Tate Presents - Sexploration: The Musical",
-        "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 196610,
-      "name": "Grip",
-      "url": "https://open.spotify.com/track/1tHYeRTwPlHkKV3uOY0uSm"
     },
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Stranger",
-        "url": "https://open.spotify.com/album/06ll4nWlQ2P2keJ2ULSOIR"
-      },
-      "artists": [
-        {
-          "name": "Emmy Meli",
-          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 180174,
-      "name": "Aura (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/0zAWAPj6mqQquTdur7Vrxx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "zer0",
         "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 192697,
       "name": "Like We",
       "url": "https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello Stranger",
+        "url": "https://open.spotify.com/album/06ll4nWlQ2P2keJ2ULSOIR"
+      },
+      "artists": [
+        {
+          "name": "Emmy Meli",
+          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 180174,
+      "name": "Aura (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/0zAWAPj6mqQquTdur7Vrxx"
     },
     {
       "added_at": null,
@@ -479,18 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby Tate Presents - Sexploration: The Musical",
-        "url": "https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no"
+        "name": "FINE",
+        "url": "https://open.spotify.com/album/3cXA1skgfeePscQgcLaw3P"
       },
       "artists": [
+        {
+          "name": "Izye",
+          "url": "https://open.spotify.com/artist/73fhQEN7dIjU6svM8ez3yv"
+        },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 167833,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/0p1Ei2H706y4ynYaGGJxaY"
+      "duration_ms": 171431,
+      "name": "FINE",
+      "url": "https://open.spotify.com/track/70YrYj7TOzfd00NX7Ynlrt"
     },
     {
       "added_at": null,
@@ -511,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "FINE",
-        "url": "https://open.spotify.com/album/3cXA1skgfeePscQgcLaw3P"
+        "name": "Baby Tate Presents - Sexploration: The Musical",
+        "url": "https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no"
       },
       "artists": [
-        {
-          "name": "Izye",
-          "url": "https://open.spotify.com/artist/73fhQEN7dIjU6svM8ez3yv"
-        },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 171431,
-      "name": "FINE",
-      "url": "https://open.spotify.com/track/70YrYj7TOzfd00NX7Ynlrt"
+      "duration_ms": 167833,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/0p1Ei2H706y4ynYaGGJxaY"
     },
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "oOo that's my type (feat. Yung Baby Tate)",
-        "url": "https://open.spotify.com/album/12MXzGTIgDokAvCMR0qXHN"
-      },
-      "artists": [
-        {
-          "name": "Marian Hill",
-          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 161595,
-      "name": "oOo that's my type (feat. Yung Baby Tate)",
-      "url": "https://open.spotify.com/track/3hafGbhod5a1pRxeUrVD1O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KLUBFETISH",
         "url": "https://open.spotify.com/album/0YWta22ockLSMT0EA4I07s"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 166392,
       "name": "Bitches luv Kunt",
       "url": "https://open.spotify.com/track/79dFiwDYTb0w5xq0TWxaQl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "oOo that's my type (feat. Yung Baby Tate)",
+        "url": "https://open.spotify.com/album/12MXzGTIgDokAvCMR0qXHN"
+      },
+      "artists": [
+        {
+          "name": "Marian Hill",
+          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 161595,
+      "name": "oOo that's my type (feat. Yung Baby Tate)",
+      "url": "https://open.spotify.com/track/3hafGbhod5a1pRxeUrVD1O"
     },
     {
       "added_at": null,

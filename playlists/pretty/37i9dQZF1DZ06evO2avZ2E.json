@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFiZAAAAAAB1y7ppic2baTw55z5RaD+n",
+  "snapshot_id": "aFnqgAAAAAAEkR02kftynw9GXulLJqlP",
   "tracks": [
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encontr\u00e9",
-        "url": "https://open.spotify.com/album/5ddBTNmz3PTFRRvW3mmcZJ"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "Paulino Monroy",
-          "url": "https://open.spotify.com/artist/2a15NvJ0ASGPEuWgGCCIJC"
-        }
-      ],
-      "duration_ms": 196207,
-      "name": "Encontr\u00e9",
-      "url": "https://open.spotify.com/track/7aCYpJHSFGGFYP5e0hEcfe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Out Cold (Deluxe Version)",
         "url": "https://open.spotify.com/album/0qQ5zadXGyGteQKihv2hl7"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 240266,
       "name": "Out Cold - Deluxe Version",
       "url": "https://open.spotify.com/track/1sWBKj4C5KwSawtCNxLKFg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Encontr\u00e9",
+        "url": "https://open.spotify.com/album/5ddBTNmz3PTFRRvW3mmcZJ"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "Paulino Monroy",
+          "url": "https://open.spotify.com/artist/2a15NvJ0ASGPEuWgGCCIJC"
+        }
+      ],
+      "duration_ms": 196207,
+      "name": "Encontr\u00e9",
+      "url": "https://open.spotify.com/track/7aCYpJHSFGGFYP5e0hEcfe"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,398 likes - 80 songs - 11 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,498 likes - 80 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 48 | [There Is a Place](https://open.spotify.com/track/1kYq99JJMTYdGDtsaG3ZPR) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [In His Presence, Vol\. 2](https://open.spotify.com/album/3I2lS8vcbdBS76PfAJ4fDP) | 8:47 |
 | 49 | [When God Walks In](https://open.spotify.com/track/38NkJdwVwSzezWnenSYR4A) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 12:58 |
 | 50 | [My Heart Sings](https://open.spotify.com/track/5splIOrU4UvxMrOYvMQGw0) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [Withholding Nothing](https://open.spotify.com/album/79pY0CI3DHjpjrM330xPNH) | 5:25 |
-| 51 | [Adua Ke \(Cover\)](https://open.spotify.com/track/19m3PKmrtknv7pBQVySo5j) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Adua Ke \(Cover\)](https://open.spotify.com/album/4ERejtj6c9RXkAZxExOWif) | 5:00 |
-| 52 | [Oji Oku Eri Ajah](https://open.spotify.com/track/1MJ3oZLUAgjI9rK63EMYoM) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Oji Oku Eri Ajah](https://open.spotify.com/album/3EiHk4Jztk0jj4Q12Fcemv) | 11:15 |
+| 51 | [Oji Oku Eri Ajah](https://open.spotify.com/track/1MJ3oZLUAgjI9rK63EMYoM) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Oji Oku Eri Ajah](https://open.spotify.com/album/3EiHk4Jztk0jj4Q12Fcemv) | 11:15 |
+| 52 | [Adua Ke \(Cover\)](https://open.spotify.com/track/19m3PKmrtknv7pBQVySo5j) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Adua Ke \(Cover\)](https://open.spotify.com/album/4ERejtj6c9RXkAZxExOWif) | 5:00 |
 | 53 | [Flaunt Your Fire \(Holy Ghost\)](https://open.spotify.com/track/2zwltlr42APbCR1rnAsoOU) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Flaunt Your Fire \(Holy Ghost\)](https://open.spotify.com/album/754CwsqnhdY5y1EZKQqKPd) | 7:10 |
 | 54 | [Agbara Olorun po](https://open.spotify.com/track/6oxBpuu7Ac3xjtrZgvSfyy) | [Clement whyte](https://open.spotify.com/artist/4UuoX5tY9U0Qf9dO66EStT) | [Agbara Olorun po](https://open.spotify.com/album/7ruTymGcJDzgnveU9ZOAsA) | 5:01 |
 | 55 | [Burning with the Holy Ghost](https://open.spotify.com/track/6etwAw9xwGZzr9Te2Mp9Dw) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 5:29 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 75 | [Let Me Want What You Want](https://open.spotify.com/track/78QThdGhUVsZVq1ieC2Wm8) | [The Paul\-Enenche Family](https://open.spotify.com/artist/2L3tUlLwhfO1RkbdxmX6bT) | [Let Me Want What You Want](https://open.spotify.com/album/3AKHczXx1uCi5gyMYUAk2Q) | 8:03 |
 | 76 | [Hallelujah Chant \(Ruach Hakodesh\)](https://open.spotify.com/track/39sTVazPHh5IB8SdWNgLha) | [Noble G](https://open.spotify.com/artist/5QMR3QbX1ufqYCWPsphyUm), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Hallelujah Chant](https://open.spotify.com/album/6wWdwa33ovvntJ35BADYRv) | 4:55 |
 | 77 | [Iwo Loba\(Chant\)](https://open.spotify.com/track/7DWMCsJ0Vb7Dx3Q1Zr2y7I) | [Hugo David](https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo) | [Tongues and Melodies](https://open.spotify.com/album/4KKbio6RtPiANVNYFAQwnK) | 2:14 |
-| 78 | [Give Me You](https://open.spotify.com/track/4zaOQLod9QNPbGTBaUQBBh) | [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Give Me You](https://open.spotify.com/album/6qLhvbyZ5r1goVQzNS4GSu) | 17:00 |
-| 79 | [Song of Angels](https://open.spotify.com/track/3JMh7EqWmxzguJaSCqQuwc) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Kingdom Now](https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn) | 12:11 |
+| 78 | [Song of Angels](https://open.spotify.com/track/3JMh7EqWmxzguJaSCqQuwc) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Kingdom Now](https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn) | 12:11 |
+| 79 | [Give Me You](https://open.spotify.com/track/4zaOQLod9QNPbGTBaUQBBh) | [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Give Me You](https://open.spotify.com/album/6qLhvbyZ5r1goVQzNS4GSu) | 17:00 |
 | 80 | [Kabiyesi](https://open.spotify.com/track/2qQz5I3VxBWjXDHNqMg6UB) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:18 |
 
 Snapshot ID: `aFSkyAAAAACvxXNp1+qPdq7+Xx6509Hf`

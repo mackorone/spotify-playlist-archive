@@ -18601,6 +18601,28 @@
     },
     {
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/0WUO3pEDeG6WEGI1hcJj0z"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "Hakmadafack",
+          "url": "https://open.spotify.com/artist/3zR5ehEa2HIlUB9oRGF0lz"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151219,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/4AYQ2g9IwGlRwqb0MzRZ1K"
+    },
+    {
+      "album": {
         "name": "Move Ya Body (Remix)",
         "url": "https://open.spotify.com/album/1UPwNqmPMBRZEdcxzJC3Nd"
       },

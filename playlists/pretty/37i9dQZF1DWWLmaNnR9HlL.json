@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 407803,
+  "num_followers": 407750,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2024-11-28 14:50:35",
       "album": {
-        "name": "Getz/Gilberto (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 248013,
-      "name": "Desafinado",
-      "url": "https://open.spotify.com/track/2tcfbkABIwzpepPyaFsYF4"
-    },
-    {
-      "added_at": "2024-11-28 14:50:35",
-      "album": {
         "name": "Bossa Covers",
         "url": "https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 250575,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/4zGap9GhyeMN1QleAmvR1F"
+    },
+    {
+      "added_at": "2024-11-28 14:50:35",
+      "album": {
+        "name": "Getz/Gilberto (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 248013,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/2tcfbkABIwzpepPyaFsYF4"
     },
     {
       "added_at": "2024-11-28 14:50:35",

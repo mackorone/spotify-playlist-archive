@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/7lgY3yZUd6GwjQJ01MFeVr.md) - cumulative - [plain](/playlists/plain/7lgY3yZUd6GwjQJ01MFeVr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7lgY3yZUd6GwjQJ01MFeVr)
 
-### [Top Country Hits 2025](https://open.spotify.com/playlist/7lgY3yZUd6GwjQJ01MFeVr)
+### [Top Country Hits \- Summer 2025](https://open.spotify.com/playlist/7lgY3yZUd6GwjQJ01MFeVr)
 
 > Today's top country music!
 

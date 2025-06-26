@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: BIG Naughty)",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: homezone)",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -864,6 +864,28 @@
       "duration_ms": 267857,
       "name": "Baby I Know",
       "url": "https://open.spotify.com/track/6Qrz1XYQHe0yTVZw5r3KCs"
+    },
+    {
+      "album": {
+        "name": "Baby Step",
+        "url": "https://open.spotify.com/album/2mZfRTmfhY6eQXYcfIqxRq"
+      },
+      "artists": [
+        {
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+        },
+        {
+          "name": "siso",
+          "url": "https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181395,
+      "name": "Baby Step (feat. siso)",
+      "url": "https://open.spotify.com/track/2s32yDDsDOnDAuIQ24h1QP"
     },
     {
       "album": {
@@ -2022,7 +2044,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 214000,
       "name": "Closure",
       "url": "https://open.spotify.com/track/0owSnuNM561WS2dSicHJxw"
@@ -2194,6 +2216,24 @@
       "duration_ms": 240000,
       "name": "CONFEXXION",
       "url": "https://open.spotify.com/track/5s3opyN6LAoYAxs3158KuP"
+    },
+    {
+      "album": {
+        "name": "Confidence",
+        "url": "https://open.spotify.com/album/2xOcWwEpjMzDYg3aCePFQy"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144013,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/2RCUFR6B5EBeclhSSrIW0m"
     },
     {
       "album": {
@@ -2710,7 +2750,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 199411,
       "name": "Do I?",
       "url": "https://open.spotify.com/track/7eT5goUS3XVK8VU3p0vXNW"

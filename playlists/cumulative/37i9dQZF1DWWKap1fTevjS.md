@@ -4,7 +4,7 @@
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-832 songs - 1 day 16 hr 26 min
+835 songs - 1 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,12 +220,12 @@
 | [Dreamplay](https://open.spotify.com/track/2LkRhuE955ZZ5QLCYNU1HM) | [Fabuluxe](https://open.spotify.com/artist/4MwFbGn1PGHhaKAkhtEVDP) | [Dreamplay](https://open.spotify.com/album/0Dr78N59UGKGci0dtR5Xoj) | 2:50 | 2025-02-14 |  |
 | [Dreams of the Milky Way](https://open.spotify.com/track/55MCIV8vcsHVz2ECaveJpT) | [Zarobi](https://open.spotify.com/artist/6Z65n1gThYKu7yuFqF5XmB) | [Dreams of the Milky Way](https://open.spotify.com/album/0KVbigs9HOU9c16GRmrZew) | 2:05 | 2023-10-20 | 2024-02-09 |
 | [Dreamscape Calmitude](https://open.spotify.com/track/1gnYXbQ7MVciBMO5MtXIfN) | [Ephermal Nights](https://open.spotify.com/artist/4MAkMNGGrVdSVVhNKLZGeV) | [Dreamscape Calmitude](https://open.spotify.com/album/3qE5BgBOSVtKefkKbJNFtl) | 3:07 | 2025-05-07 |  |
-| [Dreamwalker](https://open.spotify.com/track/52ahkUIhePPGiz4lvI4Ah9) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Dreamwalker](https://open.spotify.com/album/3tWedrnHrVXerXmF2Euion) | 2:48 | 2024-03-20 |  |
+| [Dreamwalker](https://open.spotify.com/track/52ahkUIhePPGiz4lvI4Ah9) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Dreamwalker](https://open.spotify.com/album/3tWedrnHrVXerXmF2Euion) | 2:48 | 2024-03-20 | 2025-06-26 |
 | [Dreyma](https://open.spotify.com/track/4k1kHU7F4Y2rJFkDJrtcuk) | [Aether Deem](https://open.spotify.com/artist/38RiqzbbLOb7GIVzcEcmy4) | [Dreyma](https://open.spotify.com/album/1Y6RbEzGoaZptjqC2vF6YQ) | 2:47 | 2025-03-05 |  |
 | [Driftwood](https://open.spotify.com/track/5IOSHTjNe5zUAGyfcsHcWy) | [Puddle of Head](https://open.spotify.com/artist/1PKiNVaiRPXCXRF3gqbMqi) | [Driftwood](https://open.spotify.com/album/3DXYDlXzdP8haFrB38a8aO) | 3:06 | 2024-02-08 | 2025-01-23 |
 | [Droplets](https://open.spotify.com/track/1LUljKZFZcHctU5OBMqFmG) | [Orion's Passage](https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf) | [Droplets](https://open.spotify.com/album/4jztVXUzJmvVITmF509pPu) | 2:50 | 2025-01-22 |  |
 | [Drømme](https://open.spotify.com/track/2QjHg0IKNKgURtYuRaOSVh) | [Etheral Gust](https://open.spotify.com/artist/3SFHOYvNfR3lK8EskFk4PV) | [Drømme](https://open.spotify.com/album/3D9tYGhMOv7qrgs7lBAJQf) | 2:12 | 2023-10-20 | 2024-02-28 |
-| [Dusk's Embrace](https://open.spotify.com/track/0GRGJ6N5wWFpDTDqYJCzWU) | [Celestial Whisperer](https://open.spotify.com/artist/7xJlH4dRZABxHqqBaA9Pac) | [Dusk's Embrace](https://open.spotify.com/album/6FhmpveNERkdoEs6zRmVaR) | 2:46 | 2024-03-06 |  |
+| [Dusk's Embrace](https://open.spotify.com/track/0GRGJ6N5wWFpDTDqYJCzWU) | [Celestial Whisperer](https://open.spotify.com/artist/7xJlH4dRZABxHqqBaA9Pac) | [Dusk's Embrace](https://open.spotify.com/album/6FhmpveNERkdoEs6zRmVaR) | 2:46 | 2024-03-06 | 2025-06-26 |
 | [Duskveil](https://open.spotify.com/track/5PHG6zIU3TVPkrhjxfIndk) | [Harmonic Reverie](https://open.spotify.com/artist/5MQgVlRZZAASmBxSk6bbqi) | [Duskveil](https://open.spotify.com/album/3arZlYaEzG23SpaWDM9kwO) | 3:04 | 2025-05-14 |  |
 | [Earthy Vibes](https://open.spotify.com/track/1InWzGbLaqF6HVmAzDTrKJ) | [Puddle of Head](https://open.spotify.com/artist/1PKiNVaiRPXCXRF3gqbMqi) | [Earthy Vibes](https://open.spotify.com/album/75yfdMKQEm7b0PKat1lC0e) | 3:45 | 2024-07-09 |  |
 | [Eclipsar](https://open.spotify.com/track/0oqHzecOQrrHFYEERCTeqT) | [Adrian Stenhammar](https://open.spotify.com/artist/6ho3Q9yBtL0CHlJwV9TKCr) | [Eclipsar](https://open.spotify.com/album/4LaQ5ISifbwQorG1TL253l) | 3:21 | 2024-02-08 | 2025-03-20 |
@@ -417,6 +417,7 @@
 | [Light Being](https://open.spotify.com/track/6VoHNgFuX8ElVxU2gjU8Yr) | [Xoj Litran](https://open.spotify.com/artist/1sEC1KPQBzaV3v3ArtEcOZ) | [Surrender to the Light](https://open.spotify.com/album/1S7LKwsCiD0CXgtZmM6XvV) | 2:56 | 2023-10-20 | 2024-02-09 |
 | [Lighthouse](https://open.spotify.com/track/0LNiw2LKUcJG80ciSFQnLu) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Lighthouse](https://open.spotify.com/album/0NiwXfCPPctznzw3f3rOkH) | 2:27 | 2024-11-05 | 2025-02-15 |
 | [Lihnida](https://open.spotify.com/track/6lRUeAsKuo25bXplm2EPqi) | [Alsephina](https://open.spotify.com/artist/2EFJqbmRZS645xeescnjp6) | [Lihnida](https://open.spotify.com/album/1zWgumSEFMiooZwuCU7HnS) | 2:42 | 2025-03-27 |  |
+| [Limitless](https://open.spotify.com/track/5PPIGcWAaYcSJaITVgTmrC) | [luminique Revox](https://open.spotify.com/artist/1x102Y2kSACtCX5MsNyIGX) | [Limitless](https://open.spotify.com/album/37vaeK75NjbyVT4qYh3plN) | 2:44 | 2025-06-25 |  |
 | [Linea Degli Alberi](https://open.spotify.com/track/7pSiVCrdIbpIvn8oNH3XPY) | [Giulia De Serio](https://open.spotify.com/artist/51lfmojViPJ0XrAghn70IC) | [Linea Degli Alberi](https://open.spotify.com/album/4fFXVfJEGlld0nASf5kGHr) | 3:56 | 2023-10-20 | 2024-02-09 |
 | [Linearity](https://open.spotify.com/track/0Ci8JFzz4gsoDRY7aUau5o) | [Hypertime](https://open.spotify.com/artist/2h8Lzun0E6Ei7JeGW6Hlcc) | [Linearity](https://open.spotify.com/album/0pgMpYSMvMZtoLDl9EWeHW) | 3:11 | 2023-10-20 | 2024-02-09 |
 | [Ljusa Drömmar](https://open.spotify.com/track/5HkG3ZdLOVZQI4rpUdGZCa) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Ljusa Drömmar](https://open.spotify.com/album/2384yojNT2lobdTrGBbzuA) | 2:38 | 2023-10-20 | 2023-11-25 |
@@ -689,7 +690,7 @@
 | [Soft Touch](https://open.spotify.com/track/54cRF683yoAMcfefg1Drfu) | [Rama Fiore](https://open.spotify.com/artist/4HbW8yezxZojUF2usZY366) | [Soft Touch](https://open.spotify.com/album/3lktgmWsTCNDHafXOj7D1V) | 2:39 | 2024-03-06 |  |
 | [Solange](https://open.spotify.com/track/7CrjRJEOLkJ5oD7TTHpqZi) | [Neil Mansella](https://open.spotify.com/artist/6R6OzpQPL5Mh9ulcQy6CET) | [Solange](https://open.spotify.com/album/0X2iA43edDtNT5UJZCVZUt) | 3:02 | 2024-02-08 | 2024-03-21 |
 | [Solis Occasum](https://open.spotify.com/track/0ODkj1yVyLoiejNJWA58p3) | [Volta Celeste](https://open.spotify.com/artist/6dQx2H9bZ0X8UdyjkNAmNI) | [Solis Occasum](https://open.spotify.com/album/5ysHQe4159wtlULqeDyGdR) | 2:32 | 2025-02-14 |  |
-| [Solitaire](https://open.spotify.com/track/1dpmYcSMBDCr2EPUxMTdyA) | [Calming Lesmo](https://open.spotify.com/artist/5acenmixbZVmxdHn0Je47D) | [Solitaire](https://open.spotify.com/album/7BIDbqxwFJ9v30pxGqnToR) | 3:21 | 2024-03-06 |  |
+| [Solitaire](https://open.spotify.com/track/1dpmYcSMBDCr2EPUxMTdyA) | [Calming Lesmo](https://open.spotify.com/artist/5acenmixbZVmxdHn0Je47D) | [Solitaire](https://open.spotify.com/album/7BIDbqxwFJ9v30pxGqnToR) | 3:21 | 2024-03-06 | 2025-06-26 |
 | [Solitude](https://open.spotify.com/track/2KG1GeGd8YFSbaz7panbAL) | [Astral Tides](https://open.spotify.com/artist/1cdgWAGKwSdNvftvPz273S) | [Solitude](https://open.spotify.com/album/0G9JMEFi9KFTKn7abGgsa2) | 2:24 | 2025-05-27 |  |
 | [Solitude](https://open.spotify.com/track/4hmBfrGNlsVhZRHHiHwqB5) | [Ed Stanley](https://open.spotify.com/artist/5MHC495Xm9U5sxKFQ25Eba) | [Solitude](https://open.spotify.com/album/0tfDok0b70Ytqt6pX7vKQE) | 3:06 | 2024-05-04 |  |
 | [Solsten](https://open.spotify.com/track/5rDK66Zorl6x02BmupEFbM) | [Ganlas](https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago) | [Solsten](https://open.spotify.com/album/49GVq2UFbm0PK962WsRcxB) | 3:32 | 2024-07-09 |  |
@@ -699,6 +700,7 @@
 | [Somniantes](https://open.spotify.com/track/2oRPG3rScsUtAwJ5W0Ij6m) | [Enma](https://open.spotify.com/artist/65t1qirLuVn4JyCfkiPUIc) | [Somniantes](https://open.spotify.com/album/6oXKW8Jaida4M5Y0A9rQRI) | 2:41 | 2024-07-09 | 2025-05-21 |
 | [somniferous](https://open.spotify.com/track/0d6wnnh8fXYjI9GQL6yg0m) | [Rosetta Arroyo](https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg) | [somniferous](https://open.spotify.com/album/142QcXlQvCfgkotp1fxEyw) | 3:40 | 2023-10-20 | 2024-02-09 |
 | [Somnisonic](https://open.spotify.com/track/5AQQYMkVL7216ZVuPytjwL) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Somnisonic](https://open.spotify.com/album/09sd9ZHGWdZn4fgFOTta4D) | 2:22 | 2024-01-17 | 2024-03-21 |
+| [Somnolence](https://open.spotify.com/track/0tC5fBzBASYQGoMtIZJ38I) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Somnolence](https://open.spotify.com/album/2Jsc7fJFeqZMFMoNw5OBfN) | 2:47 | 2025-06-25 |  |
 | [Somnolent Mori](https://open.spotify.com/track/7dl6vG0X75fB9J5l7b494p) | [Umi no Yume](https://open.spotify.com/artist/2CbTni1UIAt2eoi6jMWaaQ) | [Somnolent Mori](https://open.spotify.com/album/1czqzODAZjH1TClXpW61qz) | 3:39 | 2025-03-27 |  |
 | [Somnora](https://open.spotify.com/track/5wiNVXnW8DSSAZqAeJhZyp) | [ẹmi](https://open.spotify.com/artist/3Ls5y8kRsJNOb5OvljWQaU) | [Somnora](https://open.spotify.com/album/4tNRwVakvzrlSsN1bcWL56) | 2:44 | 2025-05-27 |  |
 | [somnus state](https://open.spotify.com/track/6mVQDQzb0msscfSVhVwp7g) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [somnus state](https://open.spotify.com/album/71t1pesucp5VobQLTKOqhI) | 4:40 | 2023-10-20 | 2024-02-09 |
@@ -815,6 +817,7 @@
 | [Vrangø](https://open.spotify.com/track/1GQZvfanSWqKStXmGVQb18) | [Ganlas](https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago) | [Vrangø](https://open.spotify.com/album/2N55QpvsyobZS4YEqwypcs) | 2:58 | 2024-02-27 | 2025-01-23 |
 | [Waves in Space](https://open.spotify.com/track/5Koyh28MrUGgBKCNz8BXvu) | [Spacewaves](https://open.spotify.com/artist/6uYUVrY7fY9B99v4uEqWvZ) | [Asterism](https://open.spotify.com/album/2bOfrSmQlFUl2WYMckL1n7) | 3:10 | 2023-10-20 | 2024-02-09 |
 | [Waves of Eternity](https://open.spotify.com/track/4rin1uFnoE4y6NhM2YQylb) | [Tranquil Nova](https://open.spotify.com/artist/1arRPBqUsxPJ0YxL7eZ1QY) | [Waves of Eternity](https://open.spotify.com/album/2msrHKpBqJ4BGr1Vs4yEH9) | 2:40 | 2025-01-08 |  |
+| [Weightless Dreams](https://open.spotify.com/track/3ruyqcT2OOhu1RjNRxdvt5) | [Moon Lit](https://open.spotify.com/artist/75jx9HI2w6eOB1ZcWLky5D) | [Weightless Dreams](https://open.spotify.com/album/3d2qBapHwvc0BVRDzyicWL) | 3:13 | 2025-06-25 |  |
 | [West End](https://open.spotify.com/track/0ksnXmC80iQhmGHBbvxhyt) | [Universal Balance](https://open.spotify.com/artist/3RMsxLGaCe4mvHEzJER31q) | [Wings](https://open.spotify.com/album/6PKDTP1CGwVP27ERSpD9Fe) | 2:15 | 2023-10-20 | 2024-02-09 |
 | [When The Day Fades](https://open.spotify.com/track/2zmweAUpApR2KRZV9Xca8v) | [Salomon Isle](https://open.spotify.com/artist/48J1kuqZgr2pNtsN8BxhZu) | [When The Day Fades](https://open.spotify.com/album/7eqQS1uXmbwUk9weF1Cps4) | 2:31 | 2024-02-27 | 2024-03-21 |
 | [When We Touch](https://open.spotify.com/track/6QNrpzKEYLzQsBqQQphfue) | [Rain Wonder](https://open.spotify.com/artist/4HLiKb2yZbSKwi3Uflpp36) | [Into the Night](https://open.spotify.com/album/7wlueDU2PxSRaEUbf9dXMl) | 2:05 | 2023-10-20 | 2024-02-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76 likes - 82 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 38 likes - 82 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 12 | [Pelota \(Cut a Rug Mix\)](https://open.spotify.com/track/380cW88WvjXFmX3wzK1NOf) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Pelota \(Cut a Rug Mix\)](https://open.spotify.com/album/2cvz3KTomD5JNGIBnCfiGD) | 5:01 |
 | 13 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 |
 | 14 | [Fade Out](https://open.spotify.com/track/763qocahHIWNeEHDPawzSl) | [Adesse Versions](https://open.spotify.com/artist/2UMMVkgNVl50GCP1goIBRe) | [Pulp Fusion](https://open.spotify.com/album/0yE9A5jrX02pZBHjfLKjYq) | 5:49 |
-| 15 | [Petrichor](https://open.spotify.com/track/5x9lHf7tOGELFHRtMhVzrN) | [Maelstrom](https://open.spotify.com/artist/44HA9IE6zax0FzP9vYM7yo) | [Eskimonde \- A Decade Of Eskimo Recordings](https://open.spotify.com/album/3NJcjY0anDtTcxOUxrPoMP) | 4:45 |
+| 15 | [Petrichor](https://open.spotify.com/track/5x9lHf7tOGELFHRtMhVzrN) | [Maelstrom](https://open.spotify.com/artist/62rM1SLSmG7US6wZ4xzus5) | [Eskimonde \- A Decade Of Eskimo Recordings](https://open.spotify.com/album/3NJcjY0anDtTcxOUxrPoMP) | 4:45 |
 | 16 | [Feel Your Weight \- Poolside Remix](https://open.spotify.com/track/5heenx8v6qCOumRI9jpRBS) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Blood Remixed](https://open.spotify.com/album/1NAMSrLzMJw5BlVeHn8Nqy) | 5:10 |
 | 17 | [Heaven \- Nicolas Jaar Remix](https://open.spotify.com/track/4WXIcBXdNAvsFKSMMqettI) | [Kasper Bjørke](https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp), [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Remix Crusades \(2007\-2013\)](https://open.spotify.com/album/3ebvYDbbG9vfNFpyPlCf1A) | 5:17 |
 | 18 | [Bambro Koyo Ganda](https://open.spotify.com/track/5EGJ7e7frJjYja6H4afzoT) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Innov Gnawa](https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 5:02 |

@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 34157,
+  "num_followers": 34164,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFiZAAAAAADhRNvIbfLaYlmCP7DrOg3Y",
+  "snapshot_id": "aFnqgAAAAAAARiYeamSUlLTmAwi3y3Pj",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Strictly 4 My Fans",
+        "url": "https://open.spotify.com/album/5XLw4dnwqajOACwT2MN2d0"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 208422,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/4QgtGpNXs1v2UFz1VuCvWB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Welcome to Fazoland",
         "url": "https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 179444,
       "name": "Kill Shit (feat. Lil Bibby) (Bonus Track)",
       "url": "https://open.spotify.com/track/4DLO89J3G62BcXy6coIukw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strictly 4 My Fans",
-        "url": "https://open.spotify.com/album/5XLw4dnwqajOACwT2MN2d0"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 208422,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/4QgtGpNXs1v2UFz1VuCvWB"
     },
     {
       "added_at": null,
@@ -751,22 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Pages",
-        "url": "https://open.spotify.com/album/2dtaX61cm2HUJlOn5MSsMs"
+        "name": "Welcome to Fazoland (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
       },
       "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 206643,
-      "name": "Mine (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/5sPGxuVfQkJSCpc8extKFB"
+      "duration_ms": 153329,
+      "name": "Still Dangerous",
+      "url": "https://open.spotify.com/track/5vc2kF0dDGa4zJ3bKFR6LP"
     },
     {
       "added_at": null,
@@ -791,38 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome to Fazoland (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
+        "name": "Lost Pages",
+        "url": "https://open.spotify.com/album/2dtaX61cm2HUJlOn5MSsMs"
       },
       "artists": [
         {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 153329,
-      "name": "Still Dangerous",
-      "url": "https://open.spotify.com/track/5vc2kF0dDGa4zJ3bKFR6LP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peter Piper (feat. G Herbo)",
-        "url": "https://open.spotify.com/album/032JQb782ZO6JgoyOMwbps"
-      },
-      "artists": [
-        {
-          "name": "Chicken P",
-          "url": "https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr"
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Peter Piper (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/1LtfT4iJrlISYbYc2yLkqT"
+      "duration_ms": 206643,
+      "name": "Mine (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/5sPGxuVfQkJSCpc8extKFB"
     },
     {
       "added_at": null,
@@ -879,6 +859,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peter Piper (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/032JQb782ZO6JgoyOMwbps"
+      },
+      "artists": [
+        {
+          "name": "Chicken P",
+          "url": "https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Peter Piper (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/1LtfT4iJrlISYbYc2yLkqT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Humble Beast (Deluxe)",
         "url": "https://open.spotify.com/album/46Shwm91xl9opm3MadNEGn"
       },
@@ -915,6 +915,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "WTHELLY (with G Herbo) [Remix]",
+        "url": "https://open.spotify.com/album/0U0fU3UenstnWf7CLdr5Cf"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 176791,
+      "name": "WTHELLY (with G Herbo) - Remix",
+      "url": "https://open.spotify.com/track/3agFWjopIFGnZx7WTNj4Wa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "#FreeMyHoodFuckYoHood: Bounce Out Edition",
         "url": "https://open.spotify.com/album/2ROAftc11A5ptP94CNoPrD"
       },
@@ -931,6 +951,22 @@
       "duration_ms": 190511,
       "name": "U Know Dat (feat. G Herbo)",
       "url": "https://open.spotify.com/track/6iKSh4ElPgyGlA5DY7ljLk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Swerv",
+        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 176981,
+      "name": "Influence",
+      "url": "https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7"
     },
     {
       "added_at": null,
@@ -955,46 +991,6 @@
       "duration_ms": 244853,
       "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
       "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Swerv",
-        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 176981,
-      "name": "Influence",
-      "url": "https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beyond Bulletproof",
-        "url": "https://open.spotify.com/album/3Ud5r7QHfMF1UhH8a5M1cH"
-      },
-      "artists": [
-        {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
-        },
-        {
-          "name": "King Von",
-          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 243530,
-      "name": "Body Count (feat. King Von & G Herbo)",
-      "url": "https://open.spotify.com/track/30AW1wD8qK1Bqw3Z44xs3f"
     }
   ],
   "unique_name": "This Is G Herbo",

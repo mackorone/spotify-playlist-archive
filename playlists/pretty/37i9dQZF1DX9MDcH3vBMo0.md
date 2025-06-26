@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,006 likes - 159 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,196 likes - 159 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 63 | [Stepwise](https://open.spotify.com/track/3R3snF0ylFymhJnFvrbvEQ) | [Haupu](https://open.spotify.com/artist/4MmKQsRQZ1bHFIhYxMJOv0) | [Stepwise](https://open.spotify.com/album/29BNH4O5STyfHl2Wfj03qz) | 3:09 |
 | 64 | [Childhood Reflections](https://open.spotify.com/track/69kq36hUTBoyw2CEN4zaBp) | [Sven Derler](https://open.spotify.com/artist/036A3W6TFwg70pEuEQsgNb) | [Childhood Reflections](https://open.spotify.com/album/0SXqC7MnsWS4afj9fQoo6q) | 2:50 |
 | 65 | [Gentle Morning](https://open.spotify.com/track/32kCP87rC5wzCycheIyPnx) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Gentle Morning](https://open.spotify.com/album/50o6xq1hW5RUe33YEKo4gV) | 2:50 |
-| 66 | [Still Dreaming of You](https://open.spotify.com/track/1cJH9KgGIgrDSllmLluzoV) | [Giulia Romano](https://open.spotify.com/artist/6cY3BzJkIM9w8lvi4U12LI) | [Still Dreaming of You](https://open.spotify.com/album/7tZTHyu9KKLnKNK4D1GRLq) | 2:26 |
+| 66 | [Still Dreaming of You](https://open.spotify.com/track/1cJH9KgGIgrDSllmLluzoV) | [Giulia Romano](https://open.spotify.com/artist/65ClySy2jTVQdbXwhb6GkC) | [Still Dreaming of You](https://open.spotify.com/album/7tZTHyu9KKLnKNK4D1GRLq) | 2:26 |
 | 67 | [Arches](https://open.spotify.com/track/4cyhuoZvaQcdF2hXqduc36) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Arches](https://open.spotify.com/album/1LSloEl1e5sfaBZECpkgr0) | 2:42 |
 | 68 | [Escallonia](https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Escallonia](https://open.spotify.com/album/2wY3ju9AoeMmFDyATPzBSh) | 2:09 |
 | 69 | [Silent Nightfall](https://open.spotify.com/track/56hknlblBK16mkzaxu3Iyg) | [Javier Escudero](https://open.spotify.com/artist/6A92FyWQLVbUdIjQJjge6N) | [Silent Nightfall](https://open.spotify.com/album/3UuXJyZYyIr27rQ6VDhnYZ) | 2:08 |

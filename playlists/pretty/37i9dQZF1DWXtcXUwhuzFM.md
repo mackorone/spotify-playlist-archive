@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia DAVIlta & Arekselta,  Ed Sheeranilta, helmi marleenalta, Benson Boonelta ja monelta muulta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,703 likes - 107 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,691 likes - 107 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 35 | [Off The Rails](https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Off The Rails](https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw) | 1:47 |
 | 36 | [Bonde do Brunão](https://open.spotify.com/track/4mOWnjz30frv1pKMM6DNfv) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Bonde do Brunão](https://open.spotify.com/album/49avguRc9qHbWv5Gjmj4nQ) | 0:57 |
 | 37 | [GANGSTA](https://open.spotify.com/track/4hfnNBI18GlSn9Bd7lRlKh) | [SMURDHY](https://open.spotify.com/artist/6bSsc7d3xjgKCIaoRe9QtR), [KJ](https://open.spotify.com/artist/6IXtpEXkAm1JJ5UFcafsOE) | [GANGSTA](https://open.spotify.com/album/2Cse95585ZsogHqDW5cH6j) | 2:24 |
-| 38 | [TOMA TOMA \(feat\. Benny Benassi & Nfasis\)](https://open.spotify.com/track/7mKuFtTJtE1pl3MhKv2GU1) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [TOMA TOMA \(feat\. Benny Benassi & Nfasis\)](https://open.spotify.com/album/4c0LDguP0im6WNGEindyuY) | 1:55 |
+| 38 | [TOMA TOMA \(ft\. Nfasis\)](https://open.spotify.com/track/7mKuFtTJtE1pl3MhKv2GU1) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [TOMA TOMA \(ft\. Nfasis\)](https://open.spotify.com/album/4c0LDguP0im6WNGEindyuY) | 1:55 |
 | 39 | [A Little Bit Wild](https://open.spotify.com/track/7rZmBZLfhgh000Zcureczx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [A Little Bit Wild](https://open.spotify.com/album/2f0s9vLtRtfpLvvvbRPMze) | 3:16 |
 | 40 | [Now and at the Hour of Our Death \(feat\. BONES\)](https://open.spotify.com/track/5g3PPNIHL5yMci2pio9ZoI) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Now and at the Hour of Our Death \(feat\. BONES\)](https://open.spotify.com/album/6pqnNGhTMgWt2nvMIn7QlD) | 4:14 |
 | 41 | [Starlight \(The Fame\)](https://open.spotify.com/track/2Rr9a2sxcTIe9xhfaEmFTL) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Starlight \(The Fame\)](https://open.spotify.com/album/6GNKUJR0OQtwR9xUK6OVE4) | 3:02 |

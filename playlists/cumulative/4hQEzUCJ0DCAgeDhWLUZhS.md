@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-510 songs - 1 day 5 hr 55 min
+513 songs - 1 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Don't You Die](https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [In The Shade](https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne) | 3:13 | 2024-09-20 | 2025-06-04 |
 | [Dreaming](https://open.spotify.com/track/2c5y2QB5qY6S84MoJTJYzE) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dreaming](https://open.spotify.com/album/2WApmrlB4VgT8Mz0zEMrty) | 3:07 | 2020-10-10\* | 2021-05-13 |
 | [Dregs of the Wine](https://open.spotify.com/track/1NLuc6L2PhmFiSJK1zoFb6) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Dregs of the Wine](https://open.spotify.com/album/7AqFnCeN3Q3wvSuw36cAfD) | 3:29 | 2022-09-09 | 2025-06-04 |
+| [Drive \(From F1® The Movie\)](https://open.spotify.com/track/0iIcuwia47B5bzjVpyUwyI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Drive \(From F1® The Movie\)](https://open.spotify.com/album/5Jd8G9DMwnwK7YVlFTvdnc) | 3:07 | 2025-06-25 |  |
 | [drivers license](https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [drivers license](https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT) | 3:57 | 2021-01-21 | 2022-03-18 |
 | [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 | 2023-03-03 | 2025-06-04 |
 | [Dust On My Brain](https://open.spotify.com/track/5E9l77EjYGfMEQvjCDc1qX) | [Bakers Eddy](https://open.spotify.com/artist/5jfNarQg6Z53zgEOzsDswD) | [Dust On My Brain](https://open.spotify.com/album/4ZxzVGsD6E2OM89NFe6rPH) | 3:11 | 2025-05-20 |  |
@@ -161,6 +162,7 @@
 | [Going Clear](https://open.spotify.com/track/6gFWTzrUMawFAyqCpThoUA) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Going Clear](https://open.spotify.com/album/4aGDnDxBgkJrzdUS7xxqTX) | 3:21 | 2022-01-21 | 2025-05-28 |
 | [Going Down South](https://open.spotify.com/track/1Bm1YppuoO7oTAJ7s0Eyma) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Going Down South](https://open.spotify.com/album/5TeN9UapR2EHe4UDBW9lsh) | 3:48 | 2021-05-08 | 2022-03-18 |
 | [Good Times Bad Times](https://open.spotify.com/track/2Y9vBlthOtlpUkafR9jRAE) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Good Times Bad Times](https://open.spotify.com/album/6quGCuC6rPXfMAN9UT2ZAU) | 2:49 | 2021-11-12 | 2025-05-28 |
+| [Goodnight](https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l) | 3:13 | 2025-06-25 |  |
 | [Graveyard Love](https://open.spotify.com/track/6CxSCda7mkSetFnBpFpZ8f) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Graveyard Love](https://open.spotify.com/album/02vvZsSjHWwJ6FDOTNb6NN) | 3:14 | 2022-07-08 | 2025-06-04 |
 | [Grow Wings and Fly](https://open.spotify.com/track/6hQDM3GCZ1mxV0jLyUpoyd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Grow Wings and Fly](https://open.spotify.com/album/1nNQXEVoIOeQ2lvGItoB8c) | 5:08 | 2025-06-03 |  |
 | [Growing Up](https://open.spotify.com/track/01MGjcd27q8hqHiv3jztV3) | [Alex the Astronaut](https://open.spotify.com/artist/42NjRVKqEGe2DkGvlUd5qM) | [Growing Up](https://open.spotify.com/album/3Edg3KMG3X3IqQUvO2tQEl) | 4:50 | 2021-11-19 | 2025-05-28 |
@@ -470,6 +472,7 @@
 | [Typhoons](https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn) | 3:56 | 2021-01-23 | 2022-03-18 |
 | [U Should Not Be Doing That](https://open.spotify.com/track/6zfVBdPDopmP36NeHd4O2m) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Cartoon Darkness](https://open.spotify.com/album/6yubtXRtg07Pd4REHb6lc7) | 3:24 | 2025-06-03 |  |
 | [Unknown Male 01](https://open.spotify.com/track/768wF93WAaExWS57CzNg45) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Unknown Male 01](https://open.spotify.com/album/3lV4G0BqDur5G7vZwlimpQ) | 6:08 | 2021-09-04 | 2025-05-28 |
+| [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 | 2025-06-25 |  |
 | [Unsainted](https://open.spotify.com/track/2093eVNfimjmNjU1gk1ES7) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Unsainted](https://open.spotify.com/album/6OmUwiZBss5csDAD3IAhdD) | 4:20 | 2020-10-10\* | 2021-02-25 |
 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 | 2025-03-28 |  |
 | [V.I.S.](https://open.spotify.com/track/2EUp86hKB1fsdr3Mf5y2dN) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [V.I.S.](https://open.spotify.com/album/3QJDKsdfBMlx3LI6GNgMdd) | 3:45 | 2025-06-03 |  |

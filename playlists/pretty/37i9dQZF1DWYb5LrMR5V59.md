@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYb5LrMR5V59.md) - [plain]
 
 > Guitarras relajantes para descansar y recuperar fuerzas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,389 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,390 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

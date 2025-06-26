@@ -33625,28 +33625,6 @@
     },
     {
       "album": {
-        "name": "Bate e Volta",
-        "url": "https://open.spotify.com/album/1nKommPLM7t2AIzRU5TIot"
-      },
-      "artists": [
-        {
-          "name": "Matheus Marcolino",
-          "url": "https://open.spotify.com/artist/2XQpug45cVZnFbLlpe58HQ"
-        },
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "date_added": "2025-06-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 158106,
-      "name": "Bate e Volta",
-      "url": "https://open.spotify.com/track/6bWIGsHaPL4gfOCDpzn0SF"
-    },
-    {
-      "album": {
         "name": "Bate Macumba",
         "url": "https://open.spotify.com/album/6F6X3MjxvpIDp8n1C9rIoh"
       },
@@ -33706,6 +33684,28 @@
       "duration_ms": 161504,
       "name": "Bate Palma",
       "url": "https://open.spotify.com/track/4TQ8JoHjdIGnaCJTcNXoPx"
+    },
+    {
+      "album": {
+        "name": "Bate-Volta",
+        "url": "https://open.spotify.com/album/1nKommPLM7t2AIzRU5TIot"
+      },
+      "artists": [
+        {
+          "name": "Matheus Marcolino",
+          "url": "https://open.spotify.com/artist/2XQpug45cVZnFbLlpe58HQ"
+        },
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158106,
+      "name": "Bate-Volta",
+      "url": "https://open.spotify.com/track/6bWIGsHaPL4gfOCDpzn0SF"
     },
     {
       "album": {
@@ -297267,7 +297267,7 @@
     },
     {
       "album": {
-        "name": "TOMA TOMA (feat. Benny Benassi & Nfasis)",
+        "name": "TOMA TOMA (ft. Nfasis)",
         "url": "https://open.spotify.com/album/4c0LDguP0im6WNGEindyuY"
       },
       "artists": [
@@ -297288,7 +297288,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 115312,
-      "name": "TOMA TOMA (feat. Benny Benassi & Nfasis)",
+      "name": "TOMA TOMA (ft. Nfasis)",
       "url": "https://open.spotify.com/track/7mKuFtTJtE1pl3MhKv2GU1"
     },
     {

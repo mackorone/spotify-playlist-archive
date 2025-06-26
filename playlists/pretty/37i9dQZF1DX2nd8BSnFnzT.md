@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Raimundos
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,252 likes - 74 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,197 likes - 74 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 16 | [Gigante](https://open.spotify.com/track/50RIHpnMyCjRLrFXoVbvsM) | [Dona Cislene](https://open.spotify.com/artist/5y1NGDU4pRq4WRT3ZGP1tz) | [Gigante](https://open.spotify.com/album/6JiDLzuNVsMHO7qoePgoRZ) | 3:57 |
 | 17 | [Por que a gente é assim?](https://open.spotify.com/track/6r5MJTD9mUworfbzTS1Riz) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj), [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Barão 40 \(Clássicos\)](https://open.spotify.com/album/1Q1yWO18Uc16tYa9jNd3la) | 3:41 |
 | 18 | [Mágoas Passadas](https://open.spotify.com/track/02B1IKMtl384QRV2KydzEu) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP) | [Enfrente](https://open.spotify.com/album/5vwVHEMflft9bYfPnZFLeH) | 4:20 |
-| 19 | [Não Vá](https://open.spotify.com/track/6hurdo0fzNhApT20XVDAoV) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz), [Ivy Martins](https://open.spotify.com/artist/3476OGjD0Wy1AKp6wJ7xtV), [Milton Guedes](https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU) | [Não Vá](https://open.spotify.com/album/67iqFpAbgZ1MjWKqCx9zR4) | 3:15 |
+| 19 | [Não Vá](https://open.spotify.com/track/6hurdo0fzNhApT20XVDAoV) | [Cali](https://open.spotify.com/artist/0vlCODSAJQr1Zxh6ZzrPMR), [Ivy Martins](https://open.spotify.com/artist/3476OGjD0Wy1AKp6wJ7xtV), [Milton Guedes](https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU) | [Não Vá](https://open.spotify.com/album/67iqFpAbgZ1MjWKqCx9zR4) | 3:15 |
 | 20 | [Admirável Chip Novo \- Ao Vivo](https://open.spotify.com/track/0xOLW52lNZdUssAMxgcTn5) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [ACNXX Ao Vivo em Salvador](https://open.spotify.com/album/6gNktSnoD3M0KFIecwOBeJ) | 3:43 |
 | 21 | [Vital E Sua Moto 2024](https://open.spotify.com/track/24JnBtwF07WzODgJtTYyKN) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Vital E Sua Moto 2024](https://open.spotify.com/album/1ivFEPEPpN10pc2JQlMZay) | 3:25 |
 | 22 | [Tempo de Tela](https://open.spotify.com/track/2kHdQMiVVY3rlYo6H3x2Np) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Tempo de Tela](https://open.spotify.com/album/3pK1obFYj3IV7HgEDhww6g) | 3:20 |

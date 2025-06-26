@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 30951,
+  "num_followers": 30955,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFiZAAAAAADsvBmr4MShL7EnGyQEu3u6",
+  "snapshot_id": "aFnqgAAAAADRI+jKmDqDs8c/nmOhagTm",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Tenda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 470263,
-      "name": "A Tenda (Ao Vivo)",
-      "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mega Hits - Damares",
         "url": "https://open.spotify.com/album/4f79ee5SBaI30R1oyl6P9J"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 287106,
       "name": "De Repente",
       "url": "https://open.spotify.com/track/5Rgysd1u5SyTmSFT6E0X7B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Tenda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 470263,
+      "name": "A Tenda (Ao Vivo)",
+      "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamante (2010)",
-        "url": "https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R"
+        "name": "Deixa Senhor",
+        "url": "https://open.spotify.com/album/1vOizfnBsBejbnHvGbYpp6"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 271586,
-      "name": "Derrama Shekin\u00e1h",
-      "url": "https://open.spotify.com/track/1oyCby60fRcl15uEGLuggq"
+      "duration_ms": 362987,
+      "name": "Deixa Senhor",
+      "url": "https://open.spotify.com/track/06z7qj0dpj7xdl6rFvbgiO"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deixa Senhor",
-        "url": "https://open.spotify.com/album/1vOizfnBsBejbnHvGbYpp6"
+        "name": "Diamante (2010)",
+        "url": "https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 362987,
-      "name": "Deixa Senhor",
-      "url": "https://open.spotify.com/track/06z7qj0dpj7xdl6rFvbgiO"
+      "duration_ms": 271586,
+      "name": "Derrama Shekin\u00e1h",
+      "url": "https://open.spotify.com/track/1oyCby60fRcl15uEGLuggq"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
-        }
-      ],
-      "duration_ms": 286400,
-      "name": "Escondido Nele",
-      "url": "https://open.spotify.com/track/6ETboA32KhqdiuaQFym7jb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Damares (Ao Vivo)",
         "url": "https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 358640,
       "name": "Yeshua (Ao Vivo)",
       "url": "https://open.spotify.com/track/2b9sOPTgLige26J50aINp9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
+        }
+      ],
+      "duration_ms": 286400,
+      "name": "Escondido Nele",
+      "url": "https://open.spotify.com/track/6ETboA32KhqdiuaQFym7jb"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 316159,
-      "name": "O Processo",
-      "url": "https://open.spotify.com/track/2aQxomfu4HA5aHikGvgCjm"
+      "duration_ms": 315930,
+      "name": "Me Leva",
+      "url": "https://open.spotify.com/track/7ctEwNQ442ScQp273q3KiG"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 315930,
-      "name": "Me Leva",
-      "url": "https://open.spotify.com/track/7ctEwNQ442ScQp273q3KiG"
+      "duration_ms": 316159,
+      "name": "O Processo",
+      "url": "https://open.spotify.com/track/2aQxomfu4HA5aHikGvgCjm"
     },
     {
       "added_at": null,

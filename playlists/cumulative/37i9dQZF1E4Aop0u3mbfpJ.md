@@ -2,7 +2,7 @@
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With Britney Spears, Rihanna, Kesha and more
+> With Britney Spears, Rihanna, Miley Cyrus and more
 
 1,987 songs - 4 day 23 hr 3 min
 
@@ -1311,7 +1311,7 @@
 | [Perfection \- Radio Edit](https://open.spotify.com/track/12TXCxka1WBrWzv2gGUuiV) | [Dannii Minogue](https://open.spotify.com/artist/6XCS9JCn56Q252cMOTbeq6), [Soulseekerz](https://open.spotify.com/artist/2w3odFHYxnYfu5WoAmmefy) | [Perfection](https://open.spotify.com/album/11UxQR279EKcywN2JeGtSn) | 3:31 | 2023-04-12 | 2023-05-04 |
 | [Phantom](https://open.spotify.com/track/05oWEBOfaX4WWRzyl3hTzY) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 4:25 | 2022-10-27 | 2022-11-04 |
 | [Phantom](https://open.spotify.com/track/14wSiOY3ZjskXuFj4xiEAD) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Phantom](https://open.spotify.com/album/4wJcxxuS21izYigHCM58gr) | 4:25 | 2022-09-13 | 2022-09-15 |
-| [Physical](https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:13 | 2020-10-16\* |  |
+| [Physical](https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:13 | 2020-10-16\* | 2025-06-26 |
 | [Physical \(feat\. Hwa Sa\)](https://open.spotify.com/track/23jEeXRyrjFbfs2Q8tBwdI) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Physical \(feat\. Hwa Sa\)](https://open.spotify.com/album/6apIJi4hf7U6cBOFwIqq1b) | 3:13 | 2022-10-10 | 2022-10-16 |
 | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/track/1SdQjKRW52cHg2SEesQLvH) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/album/6I0FquHLCtYJqAgQMmtyr7) | 3:12 | 2025-04-04 | 2025-05-13 |
 | [Physical \- Ofenbach Remix](https://open.spotify.com/track/2bKkSPdLPRwEPXulBKTdGl) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Physical \(Remixes\)](https://open.spotify.com/album/7jZt48FNrqTEO8SFaZHwl7) | 2:53 | 2022-05-18 | 2023-06-08 |
@@ -1778,7 +1778,7 @@
 | [TiK ToK](https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:19 | 2020-10-16\* |  |
 | [TiK ToK \- Fred Falke Club Remix](https://open.spotify.com/track/3VzVwhsTODtBVyq1z56iVL) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 6:41 | 2022-04-10 | 2022-05-08 |
 | [Till the World Ends](https://open.spotify.com/track/38iU2jg98IZZEIJPrP7aWD) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:57 | 2022-05-05 | 2023-06-08 |
-| [Timber](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:24 | 2023-06-03 | 2025-06-25 |
+| [Timber](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:24 | 2023-06-03 |  |
 | [Titanic \(MSTR\)](https://open.spotify.com/track/3cJJW0yWxW6abP7PssaJuJ) | [The Cast of RuPaul's Drag Race All Stars, Season 7](https://open.spotify.com/artist/2bCC8inBfFLKEu0HOGCoil) | [Titanic \(MSTR\)](https://open.spotify.com/album/0bUDmIXZVYrGqNsDX4sSjN) | 2:54 | 2022-07-09 | 2023-03-14 |
 | [Titanium \(feat\. Sia\)](https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 4:05 | 2023-12-16 |  |
 | [Together](https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Together](https://open.spotify.com/album/4TM7wmWEakp4xk1ZffVkL8) | 3:25 | 2020-10-16\* | 2021-11-09 |

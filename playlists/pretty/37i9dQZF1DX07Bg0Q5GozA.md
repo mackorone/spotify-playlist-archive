@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Monolink, Sam Shure
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,846 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,802 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 28 | [Green Lights](https://open.spotify.com/track/2Ei88nNdS8u8U7W2eDQ9ht) | [Holly North](https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p), [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Green Lights](https://open.spotify.com/album/07tMXxjf1ldSFWcS86a5bM) | 3:27 |
 | 29 | [Teacher](https://open.spotify.com/track/3aq4ToT5qo5PW5xzZzDRLx) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq), [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Teacher](https://open.spotify.com/album/090IwHxNrQckis3foQgJ3C) | 4:25 |
 | 30 | [Felt Bat](https://open.spotify.com/track/6Uc4kBXn3RiR9HK20s8J2U) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [seventy seven zero zero seventy seven](https://open.spotify.com/album/6njWHvo8CWRJ2avlbY2gfQ) | 5:13 |
-| 31 | [Bike in L.A\. \- Remix](https://open.spotify.com/track/7b0RdqkZKkSZZDSrnEVZRS) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Bike in L.A\. \(Remix\)](https://open.spotify.com/album/2lkzxdUkdfM6icTQcX0Ecv) | 3:23 |
+| 31 | [Bike in L.A\. \- Roosevelt Remix](https://open.spotify.com/track/7b0RdqkZKkSZZDSrnEVZRS) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Bike in L.A\. \(Remix\)](https://open.spotify.com/album/2lkzxdUkdfM6icTQcX0Ecv) | 3:23 |
 | 32 | [your love](https://open.spotify.com/track/1TMMQi589Us8RtorHffrO6) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl), [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [your love](https://open.spotify.com/album/1bsPkjL5lhR3QeuaOWZDfs) | 3:27 |
 | 33 | [Everybody](https://open.spotify.com/track/5nRaLv8g2AAtEf92IuQJyG) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM), [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) | [Everybody](https://open.spotify.com/album/2QRzc3cbXi3DjaVk30t5Vj) | 6:34 |
 | 34 | [1 DAY 2 LATE](https://open.spotify.com/track/5akUW2aUdnNs3Y0Ohn560G) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [GEMINI](https://open.spotify.com/album/43s8J7Tru8j2shoOtFs0N8) | 3:37 |

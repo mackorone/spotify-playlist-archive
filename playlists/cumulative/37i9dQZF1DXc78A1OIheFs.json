@@ -1521,6 +1521,32 @@
     },
     {
       "album": {
+        "name": "FEEL GOOD AURA",
+        "url": "https://open.spotify.com/album/3T6oSRejjNgNcuoq4vd0nz"
+      },
+      "artists": [
+        {
+          "name": "MELODOWNZ",
+          "url": "https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H"
+        },
+        {
+          "name": "Caru",
+          "url": "https://open.spotify.com/artist/2W3HtoJXnap6BDGYr8PRuv"
+        },
+        {
+          "name": "Romi Wrights",
+          "url": "https://open.spotify.com/artist/0NW11rIYIi5R9bTax6kv9J"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208019,
+      "name": "FEEL GOOD AURA",
+      "url": "https://open.spotify.com/track/2i43SUgkp5g1W5rze9awuF"
+    },
+    {
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/7sfCegKZtfF5c3PtrF6VP4"
       },
@@ -2448,7 +2474,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 236011,
       "name": "juliet & juliet",
       "url": "https://open.spotify.com/track/1NUsYYGE0O3SI8CxZrNhCm"

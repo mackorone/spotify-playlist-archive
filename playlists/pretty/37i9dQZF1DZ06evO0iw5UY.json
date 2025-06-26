@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 27920,
+  "num_followers": 27924,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFiZAAAAAABCO7lkHcGl3FdXIrOsAA37",
+  "snapshot_id": "aFnqgAAAAABWcDHjIyKmyN4vLoVJyOVI",
   "tracks": [
     {
       "added_at": null,
@@ -131,26 +131,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love // Chaos",
-        "url": "https://open.spotify.com/album/3Iz1TViTuDQ6C7Cyn5CD7k"
+        "name": "Say Goodbye",
+        "url": "https://open.spotify.com/album/5qKmiYTrzLRMw2DgqxdcGZ"
       },
       "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
         {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 186853,
-      "name": "Next Life (feat. Krewella)",
-      "url": "https://open.spotify.com/track/1s9PSUpePBIkHH1hKjFQ32"
+      "duration_ms": 233133,
+      "name": "Say Goodbye",
+      "url": "https://open.spotify.com/track/2Hlfm48wmDNFHTZM7qqEWV"
     },
     {
       "added_at": null,
@@ -171,18 +163,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say Goodbye",
-        "url": "https://open.spotify.com/album/5qKmiYTrzLRMw2DgqxdcGZ"
+        "name": "Love // Chaos",
+        "url": "https://open.spotify.com/album/3Iz1TViTuDQ6C7Cyn5CD7k"
       },
       "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
         {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 233133,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/2Hlfm48wmDNFHTZM7qqEWV"
+      "duration_ms": 186853,
+      "name": "Next Life (feat. Krewella)",
+      "url": "https://open.spotify.com/track/1s9PSUpePBIkHH1hKjFQ32"
     },
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New World Pt. 1",
-        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 190077,
-      "name": "Calm Down",
-      "url": "https://open.spotify.com/track/6BRtWlr1VmsiPjIFnvg9Qv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/7BWKPZiH5qqYX6nZxKBnu9"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 179014,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/0lzwqIfqmTXRl5mpM6zSiY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New World Pt. 1",
+        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 190077,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/6BRtWlr1VmsiPjIFnvg9Qv"
     },
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "zer0",
-        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
+        "name": "Ammunition",
+        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 186965,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/1Nd3uXANYEAy9z30IlzIWF"
+      "duration_ms": 195480,
+      "name": "Surrender The Throne",
+      "url": "https://open.spotify.com/track/6609cCUb8ayZkTUvkJ03Rm"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "zer0",
+        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 186965,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/1Nd3uXANYEAy9z30IlzIWF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alarm",
         "url": "https://open.spotify.com/album/6CCEPNPiwlWdgs571YhWf5"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 225428,
       "name": "Alarm",
       "url": "https://open.spotify.com/track/6ZRenQ13CN0GaOnuKL9QNQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ammunition",
-        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "Surrender The Throne",
-      "url": "https://open.spotify.com/track/6609cCUb8ayZkTUvkJ03Rm"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "zer0",
+        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 227539,
+      "name": "zer0",
+      "url": "https://open.spotify.com/track/7nMBN3eKuRfcQGEnzDeNKP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "zer0 (The Remixes, Pt. 1)",
         "url": "https://open.spotify.com/album/1tKNZiieRvhgkQce7FufKC"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 156190,
       "name": "Good On You - MOTi Remix",
       "url": "https://open.spotify.com/track/30PysXbn5cVodLBPGV2FWb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "zer0",
-        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 227539,
-      "name": "zer0",
-      "url": "https://open.spotify.com/track/7nMBN3eKuRfcQGEnzDeNKP"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Body Never Lies",
-        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 277500,
-      "name": "War Forever",
-      "url": "https://open.spotify.com/track/6zlI38isRH6Ix7LoPSrHiJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play Hard EP",
         "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 219026,
       "name": "Can't Control Myself",
       "url": "https://open.spotify.com/track/16tUjfbOz2vzcOC9KlMMfz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Body Never Lies",
+        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 277500,
+      "name": "War Forever",
+      "url": "https://open.spotify.com/track/6zlI38isRH6Ix7LoPSrHiJ"
     },
     {
       "added_at": null,
@@ -963,22 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Body Never Lies",
-        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Traces",
-      "url": "https://open.spotify.com/track/7kOpxtjJU6cwm88LYpyHUY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ain't That Why (Skytech Remix)",
         "url": "https://open.spotify.com/album/5SBbYFv2EbBbZh9GqX7CJi"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 162400,
       "name": "Ain't That Why - Skytech Remix",
       "url": "https://open.spotify.com/track/6Nz6JvBuOSAx8381IDiJGE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Body Never Lies",
+        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "Traces",
+      "url": "https://open.spotify.com/track/7kOpxtjJU6cwm88LYpyHUY"
     }
   ],
   "unique_name": "This Is Krewella",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Aminé
 
-[Spotify](https://open.spotify.com/user/spotify) - 964,779 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 964,753 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 5 | [Vacay](https://open.spotify.com/track/2Z94scAOu1QPc9JBy4x44S) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Vacay](https://open.spotify.com/album/6g4FBDcga66XtqlchM1alX) | 2:22 |
 | 6 | [famous](https://open.spotify.com/track/2rtnfFuSvrnH8RD1OzbBSu) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Lei Keli ft\. 47 / For Promotional Use Only](https://open.spotify.com/album/2KACVAPmuBiD7GGcGwndKq) | 3:00 |
 | 7 | [Big Dawgs \(Remix\) \[with A$AP Rocky\]](https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Big Dawgs \(Remix\) \[with A$AP Rocky\]](https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6) | 3:56 |
-| 8 | [DUMB SHIT](https://open.spotify.com/track/04vrwY17rgvbUP8Mtfj1Ea) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [DUMB SHIT](https://open.spotify.com/album/2dL1auHnm4IxVGvfDShbWO) | 2:46 |
+| 8 | [DUMBSHIT](https://open.spotify.com/track/04vrwY17rgvbUP8Mtfj1Ea) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [DUMB SHIT](https://open.spotify.com/album/2dL1auHnm4IxVGvfDShbWO) | 2:46 |
 | 9 | [CLOVER](https://open.spotify.com/track/0ceAnr7yV1CO6Hseca0vrB) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [CLOVER](https://open.spotify.com/album/5Qd57v5SWaP70VXJBzmu1j) | 3:10 |
 | 10 | [STACEY DASH](https://open.spotify.com/track/0J9YLQGnB9cFavyuUNeQED) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo), [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [KEEP YOUR EYE ON THE SPARROW](https://open.spotify.com/album/1Lpe2J6iS42mPh7yoQGr6o) | 3:06 |
 | 11 | [Jeep \(feat\. Terror Reid\)](https://open.spotify.com/track/6EZOHEegsRf5kp4pLfkTjt) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq), [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA) | [Jeep \(feat\. Terror Reid\)](https://open.spotify.com/album/29cSXGzONKVj5qcODEbzfl) | 2:00 |

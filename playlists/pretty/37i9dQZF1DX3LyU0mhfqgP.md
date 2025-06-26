@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: RUSLANA
+> Songs from LGBTQIA+ artists\. Cover: Sophie and the Giants
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,079,622 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079,606 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LOKADEMÁS](https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [LOKADEMÁS](https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB) | 3:13 |
-| 2 | [Reina Leona](https://open.spotify.com/track/4ZvX5haKXaawEVvKtArV4X) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Reina Leona](https://open.spotify.com/album/6mH7ns15s68fnpdvM22kLE) | 3:07 |
-| 3 | [Bad Friends](https://open.spotify.com/track/22h0LkzTFMbj4WzDOpSGI1) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Bad Friends](https://open.spotify.com/album/0RylQ7ZJMfvxSZeNLJQ423) | 3:02 |
+| 1 | [Bad Friends](https://open.spotify.com/track/22h0LkzTFMbj4WzDOpSGI1) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Bad Friends](https://open.spotify.com/album/0RylQ7ZJMfvxSZeNLJQ423) | 3:02 |
+| 2 | [LOKADEMÁS](https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [LOKADEMÁS](https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB) | 3:13 |
+| 3 | [Reina Leona](https://open.spotify.com/track/4ZvX5haKXaawEVvKtArV4X) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Reina Leona](https://open.spotify.com/album/6mH7ns15s68fnpdvM22kLE) | 3:07 |
 | 4 | [Amore viscerale \(charnel\)](https://open.spotify.com/track/34R0X1WwO2D3Sl3nJr8ayz) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Pas facile](https://open.spotify.com/album/1j3iGC3DHnfA9D2UsWNona) | 2:08 |
 | 5 | [Big Ol' Hammer](https://open.spotify.com/track/0KC3gdNQmZcNmGUJg4iXEV) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Big Ol' Hammer](https://open.spotify.com/album/6tnp1KpDg5ZCAxkHnk3hhX) | 2:27 |
 | 6 | [PRIDE](https://open.spotify.com/track/7DFBKsaJieWr5DgWezzlOO) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [PRIDE](https://open.spotify.com/album/7Cve4BzHjBQx7JdXURxpaN) | 2:38 |
 | 7 | [Might](https://open.spotify.com/track/22TuYSlssJg05MtcMbGfkT) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Blurring Time](https://open.spotify.com/album/7iHvF3IovjYiDrDyq1uTpw) | 4:20 |
 | 8 | [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 |
-| 9 | [G.A.Y o\(T^T\)o](https://open.spotify.com/track/5k9SawAzVj4c0IhFy5F3xs) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [G.A.Y](https://open.spotify.com/album/67EgkQPXGlckGrsPGAOOQH) | 3:47 |
-| 10 | [The Beat](https://open.spotify.com/track/3sSvL4QtYlXAae7TyUgCzh) | [Mandidextrous](https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp), [GEA](https://open.spotify.com/artist/3OHl7zl5cliNK2ADa18ZxL) | [The Beat](https://open.spotify.com/album/3sgObgnVBBMppg1qMoVP7i) | 3:26 |
+| 9 | [The Beat](https://open.spotify.com/track/3sSvL4QtYlXAae7TyUgCzh) | [Mandidextrous](https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp), [GEA](https://open.spotify.com/artist/3OHl7zl5cliNK2ADa18ZxL) | [The Beat](https://open.spotify.com/album/3sgObgnVBBMppg1qMoVP7i) | 3:26 |
+| 10 | [G.A.Y o\(T^T\)o](https://open.spotify.com/track/5k9SawAzVj4c0IhFy5F3xs) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [G.A.Y](https://open.spotify.com/album/67EgkQPXGlckGrsPGAOOQH) | 3:47 |
 | 11 | [Mini Pony](https://open.spotify.com/track/2GhTxFgt38iqze9F7uMghv) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Sébastien Delage](https://open.spotify.com/artist/5h0ORvr8vGIg2fkQAu9m5M) | [Mini Pony](https://open.spotify.com/album/2CCMRVYIgWLMF276c00oi7) | 3:29 |
 | 12 | [Hunger](https://open.spotify.com/track/4ymrDw34Yx1oxU1R5yNdeR) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Hunger](https://open.spotify.com/album/0hqTGruzlfIeA1xoPDF52W) | 2:48 |
 | 13 | [SERVING \- Eurovision Official Version](https://open.spotify.com/track/2lide7NEaVQGRtiHm61uCW) | [Miriana Conte](https://open.spotify.com/artist/0yuQFQjDi5q4Osqrcu5DqN) | [SERVING](https://open.spotify.com/album/3bnzrOEyxpuUauqASHwGoR) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 |
 | 50 | [Number One Girl](https://open.spotify.com/track/1UByYvpTpvueuqVgnTnZX3) | [Pablo Brooks](https://open.spotify.com/artist/7lZT5zwsgfFltYmlqC3gra) | [Number One Girl](https://open.spotify.com/album/5wioteha5XfZxmE2Vhz3Gh) | 3:38 |
 
-Snapshot ID: `aFLPkgAAAACK6P0bLzRksDvKaIkGZ806`
+Snapshot ID: `aFyNggAAAAAA9mixuDRr6jRwydFgmGN+`

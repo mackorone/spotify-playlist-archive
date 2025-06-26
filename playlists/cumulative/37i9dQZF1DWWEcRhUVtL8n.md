@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Olivia Dean
 
-2,141 songs - 4 day 17 hr 18 min
+2,142 songs - 4 day 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Bottle Rocket](https://open.spotify.com/track/68gaqJVyRXTE5qanrZ9hZN) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Nothing Gold Can Stay](https://open.spotify.com/album/6yxiHB4TtWMLSpvnvlxSDW) | 3:25 | 2024-01-12 | 2024-04-24 |
 | [Boundary Street](https://open.spotify.com/track/30DKmospmuSgNijNNQGXeb) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Something To Feel Good About](https://open.spotify.com/album/4NmIlEuCTrJvOEJRKuLAYV) | 3:05 | 2020-11-27 | 2021-01-31 |
 | [Bowie](https://open.spotify.com/track/5tm0PjvJrLgWlePHirgmo2) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Bowie](https://open.spotify.com/album/3WZEjiV5Zl6lYT2CIlYS80) | 4:41 | 2021-09-24 | 2022-04-13 |
+| [Bowling alley](https://open.spotify.com/track/47I8eRmRwU4EUX3HUqhFfp) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Bowling alley](https://open.spotify.com/album/3d9Fsp7MNINAFJDTdQ5x4k) | 2:34 | 2025-06-20 |  |
 | [Boxes](https://open.spotify.com/track/3OWi7ov1nFXhjnf1wvegcZ) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Boxes](https://open.spotify.com/album/4cZg53uayQfgOH5wcUisBN) | 2:50 | 2022-04-15 | 2022-07-29 |
 | [Boy Bi](https://open.spotify.com/track/3OWK4KWwpo7prKUk8ytwCp) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [Boy Bi](https://open.spotify.com/album/1l2hi6hUws5BHtf7ILgdsm) | 2:22 | 2022-03-18 | 2022-04-21 |
 | [Boy Scout](https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Boy Scout](https://open.spotify.com/album/5IyUVUACxYS7DE1URy80jv) | 3:20 | 2023-09-08 | 2023-12-21 |
@@ -442,7 +443,7 @@
 | [Crazy Sexy Dream Girl](https://open.spotify.com/track/7hoWwNa00H6yxrphgy0JsT) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Crazy Sexy Dream Girl](https://open.spotify.com/album/51AT6z6XtArrpKzYq3cnbz) | 2:26 | 2022-10-28 | 2022-10-30 |
 | [Cream Shirt](https://open.spotify.com/track/0FeXe1ip5JvofSszofHYIQ) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Cream Shirt](https://open.spotify.com/album/0krr7Z6jLgFaj613S6ZNjK) | 2:43 | 2021-06-02 | 2022-01-06 |
 | [Creases](https://open.spotify.com/track/4ootnwx6kNm9jRd3hu0qRr) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Creases](https://open.spotify.com/album/6GX28PQPkjog77dchhS7dp) | 2:26 | 2021-03-01 | 2021-03-21 |
-| [Creatures in Heaven](https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Creatures In Heaven](https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3) | 3:41 | 2024-04-05 |  |
+| [Creatures in Heaven](https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Creatures In Heaven](https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3) | 3:41 | 2024-04-05 | 2025-06-26 |
 | [cross my heart](https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA) | 2:26 | 2023-09-22 | 2023-09-30 |
 | [crowd](https://open.spotify.com/track/4b0Z35o4ScmuFPTFdmFMEs) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [crowd](https://open.spotify.com/album/5unb3zadaEdorA9NLtoim8) | 2:46 | 2020-10-16 | 2021-08-17 |
 | [crowded room](https://open.spotify.com/track/6e3ASsTnmBCD9Xc8yozBDu) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [crowded room](https://open.spotify.com/album/03zDUuyCoXfI0uPNdgshjK) | 2:52 | 2020-10-20 | 2021-05-25 |

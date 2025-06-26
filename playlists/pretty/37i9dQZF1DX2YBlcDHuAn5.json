@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33385,
+  "num_followers": 33391,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-06-19 22:00:40",
       "album": {
+        "name": "You Still Got Me",
+        "url": "https://open.spotify.com/album/3kP5jq5rPOdI8yStZ944Pa"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 201453,
+      "name": "Wanna Be Big Bad Johnny Cash",
+      "url": "https://open.spotify.com/track/2y9M80NOexKa9iaNFvqlWq"
+    },
+    {
+      "added_at": "2025-06-19 22:00:40",
+      "album": {
         "name": "Overpass Graffiti",
         "url": "https://open.spotify.com/album/0lz2zuY0L8gcJKGTWyw0q9"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 234237,
       "name": "Overpass Graffiti",
       "url": "https://open.spotify.com/track/0HDQnAQQa0NrKt4q6SqF6a"
-    },
-    {
-      "added_at": "2025-06-19 22:00:40",
-      "album": {
-        "name": "You Still Got Me",
-        "url": "https://open.spotify.com/album/3kP5jq5rPOdI8yStZ944Pa"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 201453,
-      "name": "Wanna Be Big Bad Johnny Cash",
-      "url": "https://open.spotify.com/track/2y9M80NOexKa9iaNFvqlWq"
     },
     {
       "added_at": "2025-06-19 22:00:40",

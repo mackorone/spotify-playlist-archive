@@ -1,6 +1,6 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Panter B\u00e9lico, Gabito Ballesteros",
-  "num_followers": 809327,
+  "num_followers": 809364,
   "original_name": "Sierre\u00f1o 2025",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2025-06-20 04:00:50",
       "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 189408,
+      "name": "Ya Acabo",
+      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
+    },
+    {
+      "added_at": "2025-06-20 04:00:50",
+      "album": {
         "name": "Ya Fue",
         "url": "https://open.spotify.com/album/73bfayCFQWsMsU2Y9IsU1S"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 194805,
       "name": "Ya Fue",
       "url": "https://open.spotify.com/track/5ZTPaP0AYqHhf8txyfGb2i"
-    },
-    {
-      "added_at": "2025-06-20 04:00:50",
-      "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 189408,
-      "name": "Ya Acabo",
-      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
     },
     {
       "added_at": "2025-06-20 04:00:50",
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-06-20 04:00:50",
       "album": {
+        "name": "CH\u00daPAME",
+        "url": "https://open.spotify.com/album/6OuPkRpsvOOFKskRVj21ti"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 151520,
+      "name": "CH\u00daPAME",
+      "url": "https://open.spotify.com/track/7ohPHTA0A3CSMgAVFX7Iph"
+    },
+    {
+      "added_at": "2025-06-20 04:00:50",
+      "album": {
         "name": "En El Radio Un Cochinero",
         "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
       },
@@ -923,26 +939,6 @@
       "duration_ms": 223431,
       "name": "En El Radio Un Cochinero",
       "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
-    },
-    {
-      "added_at": "2025-06-20 04:00:50",
-      "album": {
-        "name": "LOU LOU",
-        "url": "https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "LOU LOU",
-      "url": "https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8"
     },
     {
       "added_at": "2025-06-20 04:00:50",
@@ -963,18 +959,22 @@
     {
       "added_at": "2025-06-20 04:00:50",
       "album": {
-        "name": "CH\u00daPAME",
-        "url": "https://open.spotify.com/album/6OuPkRpsvOOFKskRVj21ti"
+        "name": "LOU LOU",
+        "url": "https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn"
       },
       "artists": [
         {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 151520,
-      "name": "CH\u00daPAME",
-      "url": "https://open.spotify.com/track/7ohPHTA0A3CSMgAVFX7Iph"
+      "duration_ms": 188000,
+      "name": "LOU LOU",
+      "url": "https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8"
     },
     {
       "added_at": "2025-06-20 04:00:50",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-06-20 04:00:50",
       "album": {
-        "name": "Peda en la Banqueta",
-        "url": "https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS"
-      },
-      "artists": [
-        {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
-        }
-      ],
-      "duration_ms": 185173,
-      "name": "Ya Te Supere - En Vivo",
-      "url": "https://open.spotify.com/track/788e0doWXCkDlnufoDndcy"
-    },
-    {
-      "added_at": "2025-06-20 04:00:50",
-      "album": {
         "name": "Las 745",
         "url": "https://open.spotify.com/album/7n51uT7Fh9ck9ysRCyxftg"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 163073,
       "name": "Las 745",
       "url": "https://open.spotify.com/track/2qYB75lMyKTsejklUVuxSH"
+    },
+    {
+      "added_at": "2025-06-20 04:00:50",
+      "album": {
+        "name": "Peda en la Banqueta",
+        "url": "https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS"
+      },
+      "artists": [
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "duration_ms": 185173,
+      "name": "Ya Te Supere - En Vivo",
+      "url": "https://open.spotify.com/track/788e0doWXCkDlnufoDndcy"
     },
     {
       "added_at": "2025-06-20 04:00:50",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2025-06-20 04:00:50",
       "album": {
-        "name": "Corridos Metaf\u00edsicos",
-        "url": "https://open.spotify.com/album/7wtaCv2CF3R8at9Ecq9CLw"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        }
-      ],
-      "duration_ms": 226065,
-      "name": "El Poder De La Palabra",
-      "url": "https://open.spotify.com/track/1kAYKWWCTLky4bqHQDocTJ"
-    },
-    {
-      "added_at": "2025-06-20 04:00:50",
-      "album": {
         "name": "Hoy la Vi Con \u00c9l (En Vivo)",
         "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 223200,
       "name": "Hoy la Vi Con \u00c9l - En Vivo",
       "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
+    },
+    {
+      "added_at": "2025-06-20 04:00:50",
+      "album": {
+        "name": "Corridos Metaf\u00edsicos",
+        "url": "https://open.spotify.com/album/7wtaCv2CF3R8at9Ecq9CLw"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "duration_ms": 226065,
+      "name": "El Poder De La Palabra",
+      "url": "https://open.spotify.com/track/1kAYKWWCTLky4bqHQDocTJ"
     },
     {
       "added_at": "2025-06-20 04:00:50",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2025-06-20 04:00:50",
       "album": {
-        "name": "Yo No Tengo Ex",
-        "url": "https://open.spotify.com/album/5QIhmDkhNCfLavoHIgTb7o"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 157672,
-      "name": "Yo No Tengo Ex",
-      "url": "https://open.spotify.com/track/3WDhe3EqrhPpbGQa3jm7SJ"
-    },
-    {
-      "added_at": "2025-06-20 04:00:50",
-      "album": {
         "name": "Pisteando En El Rancho",
         "url": "https://open.spotify.com/album/4VeyhffKkQ30n8NroxsEWF"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 247062,
       "name": "El Rengo Del Gallo Giro",
       "url": "https://open.spotify.com/track/31yKkZ5xrfwE5kPfeAdBkK"
+    },
+    {
+      "added_at": "2025-06-20 04:00:50",
+      "album": {
+        "name": "Yo No Tengo Ex",
+        "url": "https://open.spotify.com/album/5QIhmDkhNCfLavoHIgTb7o"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 157672,
+      "name": "Yo No Tengo Ex",
+      "url": "https://open.spotify.com/track/3WDhe3EqrhPpbGQa3jm7SJ"
     },
     {
       "added_at": "2025-06-20 04:00:50",

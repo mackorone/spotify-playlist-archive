@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Hanna Ferm, Benson Boone, Swedish House Mafia och sombr med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,153 likes - 107 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,155 likes - 107 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 96 | [Succé](https://open.spotify.com/track/5kjdLSdIBq9oNrhxCRIG8Z) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Succé](https://open.spotify.com/album/7kgdVpQUvHY4FCDAvDBW8r) | 4:00 |
 | 97 | [Perfect Lover \- alt version](https://open.spotify.com/track/29UxCgMTUJDwlrFweDGDUC) | [Isac Halldin](https://open.spotify.com/artist/3DvEEc12DMy5peHWgSw2UF) | [These Days \(alt version\)](https://open.spotify.com/album/3zuGUGWVaMGA2WgNlzj1nA) | 3:07 |
 | 98 | [You Still Got It](https://open.spotify.com/track/13tMf761hDpFCGUiSZcNhk) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [2.0](https://open.spotify.com/album/4cHDMUgQiIMYMe3QjWFgi7) | 3:27 |
-| 99 | [TOMA TOMA \(feat\. Benny Benassi & Nfasis\)](https://open.spotify.com/track/7mKuFtTJtE1pl3MhKv2GU1) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [TOMA TOMA \(feat\. Benny Benassi & Nfasis\)](https://open.spotify.com/album/4c0LDguP0im6WNGEindyuY) | 1:55 |
+| 99 | [TOMA TOMA \(ft\. Nfasis\)](https://open.spotify.com/track/7mKuFtTJtE1pl3MhKv2GU1) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [TOMA TOMA \(ft\. Nfasis\)](https://open.spotify.com/album/4c0LDguP0im6WNGEindyuY) | 1:55 |
 | 100 | [9\-5](https://open.spotify.com/track/5i7r0yNdanDUE1q8UuBJT1) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Kordell](https://open.spotify.com/artist/4sgRsyw4vSJ7fOqU3V8SJY) | [9\-5](https://open.spotify.com/album/7hRf94KqdRWgafI2RxGAnh) | 2:28 |
 | 101 | [HELA MIG](https://open.spotify.com/track/5ONyyje0cGthN9hbV7H2ME) | [GG](https://open.spotify.com/artist/5NxuYq2W1QB6qpPxNYVumI) | [HELA MIG](https://open.spotify.com/album/06vxjB6YjhRfGqCIrCFdm4) | 2:21 |
 | 102 | [Infinite mass \- Radio Edit](https://open.spotify.com/track/2EZItQXydZMNQHptScAP2w) | [Finess](https://open.spotify.com/artist/4PcgIWHeqqLmAi7kCGiNet) | [Infinite mass \(Radio Edit\)](https://open.spotify.com/album/2CJdEPa6uXfgdRcIqS4tVv) | 3:11 |

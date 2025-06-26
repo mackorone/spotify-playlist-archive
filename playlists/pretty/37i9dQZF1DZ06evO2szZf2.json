@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFiZAAAAAAC5s1vPbN+nOpc/ddr7KOD3",
+  "snapshot_id": "aFnqgAAAAAAX/6Q2110X34mQRyGw98zY",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Festa na Marina",
+        "url": "https://open.spotify.com/album/50Lm8KlJ9bD92SYvvimBBX"
+      },
+      "artists": [
+        {
+          "name": "Bonde do gato preto",
+          "url": "https://open.spotify.com/artist/5A6NOdTbk43Jnr0GxFZQei"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 135047,
+      "name": "Festa na Marina (feat. Mc Dricka)",
+      "url": "https://open.spotify.com/track/5SDbIKvFDRTy45WsXsgyxD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Neymar Mudou",
         "url": "https://open.spotify.com/album/4Wu6b5zgLWWdMC078UF4jO"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 198000,
       "name": "Neymar Mudou",
       "url": "https://open.spotify.com/track/6NgcQrj5PrQhE0ayrLyliD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Festa na Marina",
-        "url": "https://open.spotify.com/album/50Lm8KlJ9bD92SYvvimBBX"
-      },
-      "artists": [
-        {
-          "name": "Bonde do gato preto",
-          "url": "https://open.spotify.com/artist/5A6NOdTbk43Jnr0GxFZQei"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 135047,
-      "name": "Festa na Marina (feat. Mc Dricka)",
-      "url": "https://open.spotify.com/track/5SDbIKvFDRTy45WsXsgyxD"
     },
     {
       "added_at": null,
@@ -599,30 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Cara do Abacaxi Classic",
-        "url": "https://open.spotify.com/album/7xjGnuFfv0wD4w8CBcwzGn"
-      },
-      "artists": [
-        {
-          "name": "Patrick DJ",
-          "url": "https://open.spotify.com/artist/3GqXVw652gT1gSj8B3P27Y"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Empurra Empurra",
-      "url": "https://open.spotify.com/track/40Q00sx5nHOqSgS7qABdYG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu N\u00e3o Sou Dif\u00edcil",
         "url": "https://open.spotify.com/album/6jp08LLT5XnQtHDFI69J6f"
       },
@@ -643,6 +619,30 @@
       "duration_ms": 131081,
       "name": "Eu N\u00e3o Sou Dif\u00edcil",
       "url": "https://open.spotify.com/track/688RlI3w1TOy4Ib1oZNOw8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Cara do Abacaxi Classic",
+        "url": "https://open.spotify.com/album/7xjGnuFfv0wD4w8CBcwzGn"
+      },
+      "artists": [
+        {
+          "name": "Patrick DJ",
+          "url": "https://open.spotify.com/artist/3GqXVw652gT1gSj8B3P27Y"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Empurra Empurra",
+      "url": "https://open.spotify.com/track/40Q00sx5nHOqSgS7qABdYG"
     },
     {
       "added_at": null,
@@ -1099,30 +1099,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quem Quer F1 Com o G?",
-        "url": "https://open.spotify.com/album/4fkmsXc6PvWwgNJJ5yzW4E"
-      },
-      "artists": [
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "T\u00e1 Jogando Demais",
-      "url": "https://open.spotify.com/track/62ehb7GLAwFpHCtzP96k4f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vida do Crime",
         "url": "https://open.spotify.com/album/7fclUkVg10L6zMAgtuW2v8"
       },
@@ -1159,6 +1135,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quem Quer F1 Com o G?",
+        "url": "https://open.spotify.com/album/4fkmsXc6PvWwgNJJ5yzW4E"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "T\u00e1 Jogando Demais",
+      "url": "https://open.spotify.com/track/62ehb7GLAwFpHCtzP96k4f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rol\u00ea Play",
         "url": "https://open.spotify.com/album/4F5scwJVY2RhSXrYToDbay"
       },
@@ -1183,26 +1183,6 @@
       "duration_ms": 144000,
       "name": "Rol\u00ea Play",
       "url": "https://open.spotify.com/track/2ny0JBN2Q4AK0LxoDZWC6p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "3 Movimentos",
-        "url": "https://open.spotify.com/album/0cdXMXRvHR0EgFFLELxnmY"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "John Johnis",
-          "url": "https://open.spotify.com/artist/2s3XhkYhy3bag3w84FBJdv"
-        }
-      ],
-      "duration_ms": 107301,
-      "name": "3 Movimentos",
-      "url": "https://open.spotify.com/track/1W9TY5WnTcAloDl3l6KkRG"
     },
     {
       "added_at": null,
@@ -1259,22 +1239,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seu Bigodin",
-        "url": "https://open.spotify.com/album/1i2GBSSt27S0AdeZMyJlk4"
+        "name": "3 Movimentos",
+        "url": "https://open.spotify.com/album/0cdXMXRvHR0EgFFLELxnmY"
       },
       "artists": [
         {
-          "name": "Dj Kevin Armstrong",
-          "url": "https://open.spotify.com/artist/0RZudE84DAw3sGrpLNAnDX"
-        },
-        {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "John Johnis",
+          "url": "https://open.spotify.com/artist/2s3XhkYhy3bag3w84FBJdv"
         }
       ],
-      "duration_ms": 113777,
-      "name": "Seu Bigodin",
-      "url": "https://open.spotify.com/track/4zmbRguBOA4QEf1ehps1l1"
+      "duration_ms": 107301,
+      "name": "3 Movimentos",
+      "url": "https://open.spotify.com/track/1W9TY5WnTcAloDl3l6KkRG"
     },
     {
       "added_at": null,
@@ -1331,6 +1311,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seu Bigodin",
+        "url": "https://open.spotify.com/album/1i2GBSSt27S0AdeZMyJlk4"
+      },
+      "artists": [
+        {
+          "name": "Dj Kevin Armstrong",
+          "url": "https://open.spotify.com/artist/0RZudE84DAw3sGrpLNAnDX"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 113777,
+      "name": "Seu Bigodin",
+      "url": "https://open.spotify.com/track/4zmbRguBOA4QEf1ehps1l1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De 38 Carregado",
+        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
+      },
+      "artists": [
+        {
+          "name": "Dj Ray Lais",
+          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 155145,
+      "name": "De 38 Carregado",
+      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mellokillaz",
         "url": "https://open.spotify.com/album/4Tl9UDO3kyio8srwAu4Jnd"
       },
@@ -1359,22 +1379,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "De 38 Carregado",
-        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
+        "name": "Mochila nas Costas / Empurra Empurra",
+        "url": "https://open.spotify.com/album/2lbGOLA9bXoP8dGElcKBZ9"
       },
       "artists": [
         {
-          "name": "Dj Ray Lais",
-          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
+          "name": "DJ Felipe \u00danico",
+          "url": "https://open.spotify.com/artist/4SWOPPVmBsxVY8MZxXkk2S"
         },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Topre",
+          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
         }
       ],
-      "duration_ms": 155145,
-      "name": "De 38 Carregado",
-      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
+      "duration_ms": 241777,
+      "name": "Mochila nas Costas / Empurra Empurra",
+      "url": "https://open.spotify.com/track/49N07rRWNp03L2HPCogaF0"
     },
     {
       "added_at": null,
@@ -1439,26 +1463,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mochila nas Costas / Empurra Empurra",
-        "url": "https://open.spotify.com/album/2lbGOLA9bXoP8dGElcKBZ9"
+        "name": "Arrocha da Treta",
+        "url": "https://open.spotify.com/album/2dddrN2lOTk8UJR42WhUdQ"
       },
       "artists": [
         {
-          "name": "DJ Felipe \u00danico",
-          "url": "https://open.spotify.com/artist/4SWOPPVmBsxVY8MZxXkk2S"
+          "name": "Nen\u00ea DJ",
+          "url": "https://open.spotify.com/artist/7aYfvqdPOA5AGSXi10b982"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Magrinho",
+          "url": "https://open.spotify.com/artist/7tTInKzPELyaWbm4ciVSEB"
         },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Topre",
-          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
         }
       ],
-      "duration_ms": 241777,
-      "name": "Mochila nas Costas / Empurra Empurra",
-      "url": "https://open.spotify.com/track/49N07rRWNp03L2HPCogaF0"
+      "duration_ms": 144013,
+      "name": "Arrocha da Treta (feat. Mc Dricka)",
+      "url": "https://open.spotify.com/track/6BN7IIhBaALS4Nw6XkYfJL"
     },
     {
       "added_at": null,
@@ -1491,34 +1519,6 @@
       "duration_ms": 125769,
       "name": "Quer Sair Da Minha Vida, Pode Sair",
       "url": "https://open.spotify.com/track/7A0ZHoT5x6DHACj8Dpnz13"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arrocha da Treta",
-        "url": "https://open.spotify.com/album/2dddrN2lOTk8UJR42WhUdQ"
-      },
-      "artists": [
-        {
-          "name": "Nen\u00ea DJ",
-          "url": "https://open.spotify.com/artist/7aYfvqdPOA5AGSXi10b982"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "Mc Magrinho",
-          "url": "https://open.spotify.com/artist/7tTInKzPELyaWbm4ciVSEB"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 144013,
-      "name": "Arrocha da Treta (feat. Mc Dricka)",
-      "url": "https://open.spotify.com/track/6BN7IIhBaALS4Nw6XkYfJL"
     },
     {
       "added_at": null,

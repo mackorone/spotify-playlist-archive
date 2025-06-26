@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 102588,
+  "num_followers": 102610,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
+        "name": "Les femmes id\u00e9ales",
+        "url": "https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO"
+      },
+      "artists": [
+        {
+          "name": "Ben Mazu\u00e9",
+          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+        }
+      ],
+      "duration_ms": 171480,
+      "name": "Nous deux contre le reste du monde - Version Acoustique",
+      "url": "https://open.spotify.com/track/7hwdkcVXdn0NjMJHWFtVl8"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
         "name": "Fredericks, Goldman, Jones : Du New Morning au Z\u00e9nith (Live)",
         "url": "https://open.spotify.com/album/2VXif8oyxvqZ8EMnhBbp2S"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 323093,
       "name": "Pas toi - au New Morning 1994 (concert acoustique)",
       "url": "https://open.spotify.com/track/2i3ZEXYOanRZlariHUfSLN"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
-        "name": "Les femmes id\u00e9ales",
-        "url": "https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO"
-      },
-      "artists": [
-        {
-          "name": "Ben Mazu\u00e9",
-          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
-        }
-      ],
-      "duration_ms": 171480,
-      "name": "Nous deux contre le reste du monde - Version Acoustique",
-      "url": "https://open.spotify.com/track/7hwdkcVXdn0NjMJHWFtVl8"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -1239,18 +1239,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Ma vie d'artiste Unplugged",
-        "url": "https://open.spotify.com/album/2U1EgqDwFduHWAEizJ9L1Y"
+        "name": "Loin des yeux",
+        "url": "https://open.spotify.com/album/5u3mERrsCPzvwICP88yNil"
       },
       "artists": [
         {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+          "name": "Boulevard des Airs",
+          "url": "https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx"
+        },
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
         }
       ],
-      "duration_ms": 268306,
-      "name": "Il est o\u00f9 le bonheur - Unplugged",
-      "url": "https://open.spotify.com/track/2km8TyuZxULf2rsmasgma4"
+      "duration_ms": 167933,
+      "name": "Allez reste (feat. Vianney)",
+      "url": "https://open.spotify.com/track/3heHzzI6Grlj4xTeoLOO56"
     }
   ],
   "unique_name": "Douce France",

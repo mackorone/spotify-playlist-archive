@@ -1,12 +1,12 @@
 {
   "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
-  "num_followers": 1646671,
+  "num_followers": 1646742,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFiZAAAAAAA5tN4VQwzeNubX0wm92vng",
+  "snapshot_id": "aFnqgAAAAADVdZ65KwjquGUKjjmIvCuF",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let Me Know (I Wonder Why Freestyle)",
+        "url": "https://open.spotify.com/album/5wi0oKiF99ZVACf6oTTsp2"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 215380,
+      "name": "Let Me Know (I Wonder Why Freestyle)",
+      "url": "https://open.spotify.com/track/3wwo0bJvDSorOpNfzEkfXx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Love You Tecca",
         "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 171253,
       "name": "Ransom (with Juice WRLD) - Remix",
       "url": "https://open.spotify.com/track/2WsuSYJNXGKXVYkHPnq2yp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let Me Know (I Wonder Why Freestyle)",
-        "url": "https://open.spotify.com/album/5wi0oKiF99ZVACf6oTTsp2"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 215380,
-      "name": "Let Me Know (I Wonder Why Freestyle)",
-      "url": "https://open.spotify.com/track/3wwo0bJvDSorOpNfzEkfXx"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Party Never Ends 2.0",
-        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 159029,
-      "name": "Misfit",
-      "url": "https://open.spotify.com/track/4oFhT5d5TDTJnkc22hiczk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Goodbye & Good Riddance",
         "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 186945,
       "name": "Black & White",
       "url": "https://open.spotify.com/track/1fCeXjoRExPP2qwSBh2aST"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Party Never Ends 2.0",
+        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 159029,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/4oFhT5d5TDTJnkc22hiczk"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-98 songs - 5 hr 12 min
+101 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,11 +30,13 @@
 | [CCTV](https://open.spotify.com/track/7abn4PohR1BrcqjYgPQxkg) | [Lil tachi](https://open.spotify.com/artist/4uqXu5Qybes6RYP8ThjoEV), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Show Me the Money 8 Episode 3](https://open.spotify.com/album/7DtSNR96NQXIumEOWMnPM7) | 3:11 | 2023-11-09 |  |
 | [Daydrinking](https://open.spotify.com/track/2Zw8rlCM3tEWGl2ZlSpTeJ) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [Daydrinking](https://open.spotify.com/album/1LzTssDA9JdPiqUgO21lDV) | 3:13 | 2025-04-23 |  |
 | [dear heart](https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:06 | 2023-11-09 |  |
+| [Deviation](https://open.spotify.com/track/6GmhZmhssEDCW9gSC6oDqz) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Purple Heart](https://open.spotify.com/album/50zXa5ZUy6undYjdVKUSSS) | 4:02 | 2025-06-25 |  |
 | [Do](https://open.spotify.com/track/6tStqbjbMdMRzRWWNvlnqI) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Do / Do or Don't](https://open.spotify.com/album/3se0GBdgs53DJXR7CJb9l6) | 3:41 | 2023-11-09 | 2025-05-15 |
 | [Don't](https://open.spotify.com/track/6mrkGFFpfmfaQtuXnH9jGx) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Something Feelings](https://open.spotify.com/album/0EaQUB1OjML1b3Ufj7hU2k) | 3:07 | 2025-05-28 |  |
 | [Don't do anything](https://open.spotify.com/track/0AVuw4TYNnfVlu7ajvOSrN) | [saram tto saram](https://open.spotify.com/artist/4khhm4gbowkhdIbNWxWXgT) | [Don't do anything](https://open.spotify.com/album/1jQH4eSSrMN7bQgBpY0xIv) | 2:36 | 2023-11-09 |  |
 | [Drink it, Girls!](https://open.spotify.com/track/1iJX2WMpUpYsuxkKLPhVH8) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Work Later Drink Now S2, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0eYBfC57JfL2mZgcBTEZnh) | 2:56 | 2023-11-09 |  |
 | [Drive mE cRaZy](https://open.spotify.com/track/1dWCQTQeAHZQhAKUVsWOg6) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Drive mE cRaZy](https://open.spotify.com/album/2vckNenVlFyIZDN3UTQYZA) | 2:51 | 2024-03-08 |  |
+| [everything is bothersome](https://open.spotify.com/track/37M5iTQTitE9a9RE909yAJ) | [0415](https://open.spotify.com/artist/49EamolQqzPhub6zY9By4A) | [everything is bothersome](https://open.spotify.com/album/3DNC7ASLsa73bC1oCtwmQh) | 3:40 | 2025-06-25 |  |
 | [Fake Flower \(feat\. Nucksal\)](https://open.spotify.com/track/4neR5Hz4WBcC2WN3anYvZx) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [THE SOLOEST](https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T) | 2:59 | 2023-11-09 |  |
 | [Forever Dumb \(feat\. SAM KIM\)](https://open.spotify.com/track/3V9eMQIX6COtvoRUXLoZe9) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [So!YoON!](https://open.spotify.com/album/07hwLp0d8O69sKwdKqOSdM) | 3:52 | 2023-11-09 |  |
 | [Friday to Monday](https://open.spotify.com/track/4Krv5sqJVJ3jrSP15bC6mU) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [Friday to Monday](https://open.spotify.com/album/7okamLcUdT1FpqHEW9231G) | 3:02 | 2023-11-09 |  |
@@ -61,6 +63,7 @@
 | [Live My Life](https://open.spotify.com/track/3ybJERCKs3Jf3aT7xU1Vs4) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 2:39 | 2024-07-02 |  |
 | [Love and hatred \(feat\. Jae Woo AN\)](https://open.spotify.com/track/0Ye13DeMM6YgKbZJNv5pq7) | [Bas Bao](https://open.spotify.com/artist/0hKuWSrSFMRRNAh6t8wGXT), [Jae Woo AN](https://open.spotify.com/artist/4xDwz6SwDRIFKshWYRjIL3) | [Love and hatred](https://open.spotify.com/album/3WO6ObA3MkjiGR6TmhUwtM) | 2:34 | 2024-05-09 |  |
 | [MAGIC](https://open.spotify.com/track/6ceAPjFnKNifeGlOTRTi1X) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [MAGIC](https://open.spotify.com/album/4R6JJEwoyqf7737pEdR0iK) | 3:19 | 2024-09-04 |  |
+| [Melting me \(feat\. jeebanoff\)](https://open.spotify.com/track/4WCQkour1ibROVIjZMAHFy) | [GiiANA](https://open.spotify.com/artist/2tlkwgkfFxWSmjFPv9czcN), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [Melting Me \(feat\. jeebanoff\)](https://open.spotify.com/album/6bhiH3vAfNmoJquHpK9PWY) | 3:36 | 2025-06-25 |  |
 | [Myself](https://open.spotify.com/track/08GrGvZfn5yHsfSjyP5Jal) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Myself](https://open.spotify.com/album/29izPD2H1NDTySqBFuLBzH) | 3:18 | 2025-04-08 |  |
 | [NAPAL BAJI](https://open.spotify.com/track/3A5djNQe8IW4XPWQaplZO7) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 7TH ALBUM](https://open.spotify.com/album/1aHmoh8Iog2xqwVk9A77yc) | 3:43 | 2023-11-09 | 2025-04-09 |
 | [naps!](https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [naps!](https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq) | 3:25 | 2025-04-08 |  |

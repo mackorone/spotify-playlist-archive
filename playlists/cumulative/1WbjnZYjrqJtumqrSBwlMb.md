@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,109 songs - 2 day 20 hr 3 min
+1,111 songs - 2 day 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [2015](https://open.spotify.com/track/42oBtzPU4fA5Vtfw2Xilgf) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 3:01 | 2022-03-04 |  |
 | [24](https://open.spotify.com/track/68RhNM8ehkarnEKnCkqlsp) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:17 | 2022-08-08 |  |
 | [24.19](https://open.spotify.com/track/3IB89bAf5k60jLUFoWAmn1) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [3.15.20](https://open.spotify.com/album/600ClrWRsAr7jZ0qjaBLHz) | 7:59 | 2022-02-01 |  |
+| [26](https://open.spotify.com/track/18yJkeJ2fvBDal8O2lEeWx) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 3:39 | 2025-06-26 |  |
 | [3001](https://open.spotify.com/track/7JRwdwgeTrYkJvwmecrPSW) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:37 | 2024-04-06 |  |
 | [4 In The Morning](https://open.spotify.com/track/4YSYzelIzckY5oTIXGU3lc) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe) | 2:07 | 2024-09-08 |  |
 | [47.48](https://open.spotify.com/track/7l8qR2ndOxgE9hbfQf6gxA) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [3.15.20](https://open.spotify.com/album/600ClrWRsAr7jZ0qjaBLHz) | 6:00 | 2022-02-07 |  |
@@ -173,6 +174,7 @@
 | [City of Gods](https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods](https://open.spotify.com/album/0Nzff60OICCUBrtr980elH) | 4:16 | 2022-02-11 |  |
 | [City of Gods \(Part II\)](https://open.spotify.com/track/33pp6wXPrz46pIwsBrG3HS) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods \(Part II\)](https://open.spotify.com/album/0KfUWcVGtomJOLrhIpGT7J) | 3:12 | 2022-08-24 |  |
 | [Cocoon](https://open.spotify.com/track/069mlD5el7f9hcN4Wh4YXb) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:21 | 2022-06-11 |  |
+| [Cocoon](https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 3:56 | 2025-06-26 |  |
 | [Colder Than Ice](https://open.spotify.com/track/7aBqUj0JLpd7JcoNzsWL6G) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [The Weather](https://open.spotify.com/album/6qvWzoGkU310CqOrUNm5sQ) | 3:10 | 2024-06-17 |  |
 | [Coldest Winter](https://open.spotify.com/track/3Oa5mzKpQM8MrpcylcnnNJ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [808s & Heartbreak](https://open.spotify.com/album/5ykOQlHaE5ZRxMibfI75YW) | 2:44 | 2022-04-18 |  |
 | [Colors V2/Music](https://open.spotify.com/track/4PiGIo0pD4kBnTjrnnXYgZ) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Easy Listening](https://open.spotify.com/album/7tC9rKANwW84UPxA22zbzo) | 2:01 | 2023-06-29 |  |

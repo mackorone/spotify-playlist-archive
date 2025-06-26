@@ -4,7 +4,7 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-172 songs - 9 hr 44 min
+173 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Love Simulation](https://open.spotify.com/track/0mJvHsIWnq6EfXiNa3JPAG) | [TOFUKU](https://open.spotify.com/artist/3hg9J1p0uyzhuLwMic8pvW) | [Frequency Blitz 6](https://open.spotify.com/album/50esKbs7DktpRYUs4FBOyn) | 5:16 | 2025-01-25 |  |
 | [Make It Bun Dem](https://open.spotify.com/track/0mlf3yOGzVnIVxjybDQL3h) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Make It Bun Dem After Hours EP](https://open.spotify.com/album/3ipNtzV1LNGEBWu4VSsmjP) | 3:33 | 2018-12-06 |  |
 | [Memoirs of a Broken Heart](https://open.spotify.com/track/44C8FYheNySeFlFB237FGb) | [Fendi](https://open.spotify.com/artist/13WJi88MJHlOwbcw116QwI) | [Memoirs of a Broken Heart](https://open.spotify.com/album/1xWhpeTqIWE8dzgduk7Yli) | 2:53 | 2019-11-21 |  |
+| [Minecraft: Lava Chicken \(Original Game Soundtrack\)](https://open.spotify.com/track/6iCoY53P4R77dumdFyic9H) | [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h), [Hyper Potions](https://open.spotify.com/artist/1KkjjsBwGqU2YjS9OIucZV) | [Minecraft: Lava Chicken \(Original Game Soundtrack\)](https://open.spotify.com/album/41A9LlTh3wWwS4JjolfaBZ) | 2:14 | 2025-06-25 |  |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2024-02-27 |  |
 | [Mr\. Clean](https://open.spotify.com/track/5GxnROd93Y7NGt2ci0TwBw) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Snow Cougar](https://open.spotify.com/album/5JzxLWdYLLpZTE6kaBLooY) | 3:31 | 2019-11-12 |  |
 | [Mr\. Please](https://open.spotify.com/track/2CmbRvQvLiNoYb7MCNwnUb) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [The Human Animal](https://open.spotify.com/album/25o0yLGRjV45PhksQjxvAD) | 2:33 | 2025-01-01 |  |

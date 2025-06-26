@@ -1895,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "Before We Let Go",
+        "url": "https://open.spotify.com/album/1QQR5mZq9B1kzeafpdVd1K"
+      },
+      "artists": [
+        {
+          "name": "Molnskimmer",
+          "url": "https://open.spotify.com/artist/3xcro7wN9hWfgxcy0LPusg"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124354,
+      "name": "Before We Let Go",
+      "url": "https://open.spotify.com/track/7I57eQOGNGWd4OZZCg12ex"
+    },
+    {
+      "album": {
         "name": "Bela adormecida",
         "url": "https://open.spotify.com/album/68lqrfMKELldWPve5nu9he"
       },
@@ -16512,6 +16530,24 @@
       "duration_ms": 184000,
       "name": "Wind Over Water",
       "url": "https://open.spotify.com/track/1188SS0K9sKmuPTJKFFeFN"
+    },
+    {
+      "album": {
+        "name": "Winding Roads",
+        "url": "https://open.spotify.com/album/1SaM1c7RHOFn3akZMY7XSQ"
+      },
+      "artists": [
+        {
+          "name": "Horizon Mind",
+          "url": "https://open.spotify.com/artist/41m8fOzMoMLMU5MfO3AUnp"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Winding Roads",
+      "url": "https://open.spotify.com/track/4b8nkGkEVaxytOYtdD6XpS"
     },
     {
       "album": {

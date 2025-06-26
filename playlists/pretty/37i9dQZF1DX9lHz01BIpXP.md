@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: Mr Heinz
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,725 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,726 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 40 | [Hewig](https://open.spotify.com/track/7MyJTqPXQodlXvecsMhuxz) | [Nate Johnson SA](https://open.spotify.com/artist/7rE5IrzOqCnHwi2ePZ6FDN), [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Hewig](https://open.spotify.com/album/3aA38orHnU25drrbkGit6J) | 3:42 |
 | 41 | [Need Her](https://open.spotify.com/track/3bTMH68VT3u8oFniwyIUiq) | [Don Capo](https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF), [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt) | [Need Her](https://open.spotify.com/album/6reGgktpHIyvE4WMvRpl7A) | 1:47 |
 | 42 | [Wiggy](https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Gan Se Jou Mense](https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy) | 3:01 |
-| 43 | [SOMS](https://open.spotify.com/track/56KNLWoTjcewPvVDeBoZzt) | [BARZX](https://open.spotify.com/artist/1sfLbppjFJohHRV1Z2I0RK) | [SOMS](https://open.spotify.com/album/1FSjDN78KMdDc5AkKUQdO5) | 2:02 |
+| 43 | [Praat meer bollie](https://open.spotify.com/track/0mO8vuAiK6ZzHvHMxzEfW4) | [Brasse Vannie Kaap](https://open.spotify.com/artist/0oBKGv7rr9OtiEI9rbj0un), [DJ Azuhl](https://open.spotify.com/artist/2jUdKSmS6qhZDwk9mXXWNF) | [Praat meer bollie](https://open.spotify.com/album/2MUsxuNywU4caM9VmJuFrN) | 4:09 |
 | 44 | [Goated](https://open.spotify.com/track/01GAA3iShKuYdQB3rqbp4R) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Goated](https://open.spotify.com/album/2x3H5EeJV52IfkLSuiNQfP) | 2:11 |
-| 45 | [Don](https://open.spotify.com/track/5ZgA7T4JNxagkTWrdMPdMc) | [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Profit CPT](https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq) | [Don](https://open.spotify.com/album/1Mc6atryEO6LZZAhVlwgS5) | 2:59 |
-| 46 | [Praat meer bollie](https://open.spotify.com/track/0mO8vuAiK6ZzHvHMxzEfW4) | [Brasse Vannie Kaap](https://open.spotify.com/artist/0oBKGv7rr9OtiEI9rbj0un), [DJ Azuhl](https://open.spotify.com/artist/2jUdKSmS6qhZDwk9mXXWNF) | [Praat meer bollie](https://open.spotify.com/album/2MUsxuNywU4caM9VmJuFrN) | 4:09 |
-| 47 | [Dubble G's](https://open.spotify.com/track/2VYYkJDDcK2FJdrWPHdd9d) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [ceiling on tha deck](https://open.spotify.com/artist/6KNNk3hqbEktQfIRBGHpbC) | [Dubble G's](https://open.spotify.com/album/2Qe1foItp17ymshvUdGQpH) | 2:19 |
-| 48 | [Hie Kom Ons](https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Hie Kom Ons](https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me) | 2:44 |
+| 45 | [SOMS](https://open.spotify.com/track/56KNLWoTjcewPvVDeBoZzt) | [BARZX](https://open.spotify.com/artist/1sfLbppjFJohHRV1Z2I0RK) | [SOMS](https://open.spotify.com/album/1FSjDN78KMdDc5AkKUQdO5) | 2:02 |
+| 46 | [Don](https://open.spotify.com/track/5ZgA7T4JNxagkTWrdMPdMc) | [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Profit CPT](https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq) | [Don](https://open.spotify.com/album/1Mc6atryEO6LZZAhVlwgS5) | 2:59 |
+| 47 | [Hie Kom Ons](https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Hie Kom Ons](https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me) | 2:44 |
+| 48 | [Dubble G's](https://open.spotify.com/track/2VYYkJDDcK2FJdrWPHdd9d) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [ceiling on tha deck](https://open.spotify.com/artist/6KNNk3hqbEktQfIRBGHpbC) | [Dubble G's](https://open.spotify.com/album/2Qe1foItp17ymshvUdGQpH) | 2:19 |
 | 49 | [Nikes & Jordans \(Original\)](https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Nikes & Jordans \(Original\)](https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ) | 3:14 |
 | 50 | [Violence \- Afrikaans Drill](https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og) | [SwiinkBEATS.Ltd](https://open.spotify.com/artist/1CgMsuCR1kJBIHfmj2obaG), [KG Lucas](https://open.spotify.com/artist/0EapRyIBol6qpPBm7hPd9l) | [Violence \(Afrikaans Drill\)](https://open.spotify.com/album/0jObNX3R2nb3iYkuTDN8MN) | 3:40 |
 

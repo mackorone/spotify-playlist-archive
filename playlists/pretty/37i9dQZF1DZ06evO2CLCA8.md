@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 
 > This is Tom Petty and the Heartbreakers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 979 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 981 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 49 | [Have Love, Will Travel](https://open.spotify.com/track/6712My4wA0OcvobBeTJttw) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Last DJ](https://open.spotify.com/album/3lS4vVIHslBZgLituEQz5i) | 4:05 |
 | 50 | [I Won't Back Down \- Live at the Fillmore, 1997](https://open.spotify.com/track/0IXin8XHw7ikscCycdCZwa) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [I Won't Back Down \(Live at the Fillmore, 1997\)](https://open.spotify.com/album/0OmDmOf0kDHw2RXxjeaMLf) | 3:42 |
 
-Snapshot ID: `aFiZAAAAAABwwcDqFwTeZwxRuOuUQ9Ks`
+Snapshot ID: `aFnqgAAAAADW5R4/4xM2q5QFyPvOuJHB`

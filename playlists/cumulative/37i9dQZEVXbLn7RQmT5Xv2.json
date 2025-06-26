@@ -15297,6 +15297,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0644\u062c\u0627\u064a \u0628\u062a\u0627\u0639\u064a",
+        "url": "https://open.spotify.com/album/0qYlJKhHgr0h7vaxfFBD3Q"
+      },
+      "artists": [
+        {
+          "name": "Houda",
+          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197777,
+      "name": "\u0627\u0644\u062c\u0627\u064a \u0628\u062a\u0627\u0639\u064a",
+      "url": "https://open.spotify.com/track/1TcblBVtkEEbH0kL67kIC3"
+    },
+    {
+      "album": {
         "name": "\u0627\u0644\u062d\u0628 \u0627\u0644\u062d\u0628 \u0633\u0646\u064a\u0648\u0631\u064a\u062a\u0627",
         "url": "https://open.spotify.com/album/5Y3xlqjyJEApstMeAqWMkT"
       },
@@ -15748,7 +15766,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 266213,
       "name": "\u0627\u0646\u0627 \u0644\u0633\u0647 \u0639\u0644\u064a \u0648\u0636\u0639\u064a",
       "url": "https://open.spotify.com/track/13Jz0eiEwpHJMCIVaqkFpf"
@@ -18132,7 +18150,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 227878,
       "name": "\u0639\u0634\u0631\u064a \u0628\u064a\u0639\u0646\u064a \u0627\u0646\u0627",
       "url": "https://open.spotify.com/track/77KkVJB8SLW6mZvYOxYWV6"
@@ -19344,7 +19362,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 175200,
       "name": "\u0645\u0631\u0632\u0645\u0646",
       "url": "https://open.spotify.com/track/3cAy5RMw6iT1Nxit3Z3Q9b"

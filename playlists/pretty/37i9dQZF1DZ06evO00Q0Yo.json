@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 19445,
+  "num_followers": 19453,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFiZAAAAAADvCQDc7uoZMUxq/F/p4Asc",
+  "snapshot_id": "aFnqgAAAAABF5bp+p9VU+ba9fa7RC9bw",
   "tracks": [
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ATLANTA",
-        "url": "https://open.spotify.com/album/42DbAMmiiuIPyBuEB4P1FD"
-      },
-      "artists": [
-        {
-          "name": "PlaqueBoyMax",
-          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 105605,
-      "name": "oncam",
-      "url": "https://open.spotify.com/track/5GkGInIqn2RFKkKWZHaWjR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tomioka (with Flo Milli) [Remix]",
         "url": "https://open.spotify.com/album/6QHk5oVO7cTdQeBhVuh0qK"
       },
@@ -439,6 +419,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ATLANTA",
+        "url": "https://open.spotify.com/album/42DbAMmiiuIPyBuEB4P1FD"
+      },
+      "artists": [
+        {
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 105605,
+      "name": "oncam",
+      "url": "https://open.spotify.com/track/5GkGInIqn2RFKkKWZHaWjR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Still Here, Ho ?",
         "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
       },
@@ -451,26 +451,6 @@
       "duration_ms": 168451,
       "name": "Bed Time",
       "url": "https://open.spotify.com/track/1WGIqE7rCmrsERtlIpCGyM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Coldest",
-        "url": "https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st"
-      },
-      "artists": [
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 146341,
-      "name": "Whole Package (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/3W8LZctsNYqn2DQCJTrLB4"
     },
     {
       "added_at": null,
@@ -491,6 +471,26 @@
       "duration_ms": 176000,
       "name": "Edible (feat. Gunna)",
       "url": "https://open.spotify.com/track/0PloZ9T7XT9NSVwzf56u8f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Coldest",
+        "url": "https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "Whole Package (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/3W8LZctsNYqn2DQCJTrLB4"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ho, why is you here ?",
-        "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 234991,
-      "name": "Not Friendly",
-      "url": "https://open.spotify.com/track/2le8xbpMJ1aA0SpJZRMbRw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fine Ho, Stay",
         "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
       },
@@ -571,6 +555,70 @@
       "duration_ms": 157192,
       "name": "Neva (feat. Monaleo)",
       "url": "https://open.spotify.com/track/5mjAXptfZ8yCVHTRpelvos"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ho, why is you here ?",
+        "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 234991,
+      "name": "Not Friendly",
+      "url": "https://open.spotify.com/track/2le8xbpMJ1aA0SpJZRMbRw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BGC",
+        "url": "https://open.spotify.com/album/6Cc9Uzkovy0wEyUiazE5qR"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 156877,
+      "name": "BGC",
+      "url": "https://open.spotify.com/track/6j8rjIqqZkKnc0VzLjIN3J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/2u3hKhl5ltq0gbFo8ivsbB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fine Ho, Stay",
+        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 122790,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/0g1im1B9PnwuSexz7BogHb"
     },
     {
       "added_at": null,
@@ -595,54 +643,6 @@
       "duration_ms": 231898,
       "name": "Plain (feat. Lily Allen & Flo Milli)",
       "url": "https://open.spotify.com/track/4CwcIiZQvy4d9SxAUn5OaJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Still Here, Ho ?",
-        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 138240,
-      "name": "Pretty Girls",
-      "url": "https://open.spotify.com/track/2u3hKhl5ltq0gbFo8ivsbB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BGC",
-        "url": "https://open.spotify.com/album/6Cc9Uzkovy0wEyUiazE5qR"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 156877,
-      "name": "BGC",
-      "url": "https://open.spotify.com/track/6j8rjIqqZkKnc0VzLjIN3J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fine Ho, Stay",
-        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 122790,
-      "name": "Understand",
-      "url": "https://open.spotify.com/track/0g1im1B9PnwuSexz7BogHb"
     },
     {
       "added_at": null,
@@ -687,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fine Ho, Stay",
+        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "duration_ms": 173858,
+      "name": "New Me (feat. Anycia)",
+      "url": "https://open.spotify.com/track/3b1r6l4SX8j4TSN8f4OogB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Snatched (Remix)",
         "url": "https://open.spotify.com/album/1FT1bJftmXeooNZqBUANZG"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 159820,
       "name": "Snatched (with Flo Milli & Saucy Santana) - Remix",
       "url": "https://open.spotify.com/track/214gn7n7rA6KbRIYpznXJT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fine Ho, Stay",
-        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "Anycia",
-          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
-        }
-      ],
-      "duration_ms": 173858,
-      "name": "New Me (feat. Anycia)",
-      "url": "https://open.spotify.com/track/3b1r6l4SX8j4TSN8f4OogB"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fine Ho, Stay",
+        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 150293,
+      "name": "Toast",
+      "url": "https://open.spotify.com/track/5djffOhSkIRnKAtZ2bMoqv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clap For 'Em (feat. Flo Milli & Sada Baby)",
         "url": "https://open.spotify.com/album/7nYMFoZJEsTdliAf5MUQvJ"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fine Ho, Stay",
-        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 150293,
-      "name": "Toast",
-      "url": "https://open.spotify.com/track/5djffOhSkIRnKAtZ2bMoqv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ho, why is you here ?",
         "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
       },
@@ -815,34 +815,6 @@
       "duration_ms": 203043,
       "name": "Like That Bitch",
       "url": "https://open.spotify.com/track/7zoZd2MuTaQEdF1rlq6Vv1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pretty Girls Cry Too (feat. Lay Bankz, Saweetie & Flo Milli)",
-        "url": "https://open.spotify.com/album/4EPslQriJfV1wLD1NS49IU"
-      },
-      "artists": [
-        {
-          "name": "Culture Jam",
-          "url": "https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Pretty Girls Cry Too (feat. Lay Bankz, Saweetie & Flo Milli)",
-      "url": "https://open.spotify.com/track/1xIUzmnbBGks5bWZjngTIH"
     },
     {
       "added_at": null,
@@ -883,6 +855,34 @@
       "duration_ms": 124808,
       "name": "B.T.W",
       "url": "https://open.spotify.com/track/3oBZ28fHxN2N3MHhUCav0M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretty Girls Cry Too (feat. Lay Bankz, Saweetie & Flo Milli)",
+        "url": "https://open.spotify.com/album/4EPslQriJfV1wLD1NS49IU"
+      },
+      "artists": [
+        {
+          "name": "Culture Jam",
+          "url": "https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Pretty Girls Cry Too (feat. Lay Bankz, Saweetie & Flo Milli)",
+      "url": "https://open.spotify.com/track/1xIUzmnbBGks5bWZjngTIH"
     },
     {
       "added_at": null,

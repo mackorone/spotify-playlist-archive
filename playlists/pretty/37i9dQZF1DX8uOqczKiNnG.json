@@ -1,6 +1,6 @@
 {
   "description": "Los m\u00e1s grandes \u00e9xitos de los 70 en Argentina.",
-  "num_followers": 99160,
+  "num_followers": 99168,
   "original_name": "Los 70 Argentina",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-06-12 23:42:51",
       "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/1zGXaWkMGLV1rkJbxJwCkp"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 209253,
-      "name": "Para Amarnos M\u00e1s",
-      "url": "https://open.spotify.com/track/5VstdEyGsUzyS4UXtKGAMG"
-    },
-    {
-      "added_at": "2024-06-12 23:42:51",
-      "album": {
         "name": "Bajo Belgrano",
         "url": "https://open.spotify.com/album/3pFMaPwaHb6D0EkMtRlaO9"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 155466,
       "name": "Maribel Se Durmi\u00f3",
       "url": "https://open.spotify.com/track/5BaqCOW8FaahrXIRIvU6Ad"
+    },
+    {
+      "added_at": "2024-06-12 23:42:51",
+      "album": {
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/1zGXaWkMGLV1rkJbxJwCkp"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 209253,
+      "name": "Para Amarnos M\u00e1s",
+      "url": "https://open.spotify.com/track/5VstdEyGsUzyS4UXtKGAMG"
     },
     {
       "added_at": "2024-06-12 23:42:51",

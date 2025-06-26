@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTp4cr7PRsK.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/ogchaseb/">Chase B</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,095 likes - 31 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,099 likes - 31 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTp4cr7PRsK.md) - [plain]
 | 25 | [CASINO](https://open.spotify.com/track/4gnPzSCKecLy9WJeHeJBrk) | [Ashton Travis](https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8), [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD) | [CASINO](https://open.spotify.com/album/2ei8Qi53hzaa0c7BXrRIW4) | 3:34 |
 | 26 | [Love Is Gangster](https://open.spotify.com/track/4zAGbKyTxOUUEovHovHMJU) | [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [Rap N Roll](https://open.spotify.com/album/1K1x5xDGJoPrZVitY4H7Iu) | 2:52 |
 | 27 | [Training Day](https://open.spotify.com/track/4S0oaxUJqJQVytyxcHNm0h) | [Dougie F](https://open.spotify.com/artist/4pBG47zWhJbDw7mpsg68PJ) | [Without A Smile](https://open.spotify.com/album/50lVvEUE53is3DbDazGMHr) | 2:37 |
-| 28 | [Prospect \(ft\. Lil Baby\)](https://open.spotify.com/track/4Zjdzxx0dsavsr7Ehr8fGE) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Prospect \(feat\. Lil Baby\)](https://open.spotify.com/album/0EmINljXosug1gnqewNqnn) | 3:46 |
-| 29 | [Lemonade \- Remix](https://open.spotify.com/track/57FNYz14MjKVoRTbxtv4A1) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [B4 The Storm \(Complete Edition\)](https://open.spotify.com/album/21rCymkjqfD8yeyeoPbJMS) | 3:01 |
+| 28 | [Lemonade \- Remix](https://open.spotify.com/track/57FNYz14MjKVoRTbxtv4A1) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [B4 The Storm \(Complete Edition\)](https://open.spotify.com/album/21rCymkjqfD8yeyeoPbJMS) | 3:01 |
+| 29 | [Prospect \(ft\. Lil Baby\)](https://open.spotify.com/track/4Zjdzxx0dsavsr7Ehr8fGE) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Prospect \(feat\. Lil Baby\)](https://open.spotify.com/album/0EmINljXosug1gnqewNqnn) | 3:46 |
 | 30 | [Almost There](https://open.spotify.com/track/4IfowS5OhB5DDYtuKmoo4v) | [Ashton Travis](https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8) | [PHOENIX MODE](https://open.spotify.com/album/3gp0vjA9L16pBIs0vrWzL9) | 3:15 |
 | 31 | [Luka/New President](https://open.spotify.com/track/0OIXxIL4UmAU0vO30lwEUY) | [Dougie F](https://open.spotify.com/artist/4pBG47zWhJbDw7mpsg68PJ) | [Without A Smile](https://open.spotify.com/album/50lVvEUE53is3DbDazGMHr) | 3:04 |
 

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RTTLdL3NCtCsfLjytOimU">Timbaland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-479 songs - 1 day 7 hr 8 min
+480 songs - 1 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Cowboy Capone](https://open.spotify.com/track/57pR0VkO0rLLUZCsyhpg8k) | [Colt Graves](https://open.spotify.com/artist/26YgSVVJxvx1LQsollyBjQ), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Cowboy Capone](https://open.spotify.com/album/0Cy64A0Me95BhPop86hQFl) | 3:11 | 2024-01-29 | 2024-11-22 |
 | [cut](https://open.spotify.com/track/74QKHL5SM3W0g4wAgtA0Nh) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:56 | 2024-01-29 |  |
 | [Cut Off Time](https://open.spotify.com/track/4HAhuoVCbF7HglevCLndWU) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Kat Deluna](https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP) | [Cut Off Time](https://open.spotify.com/album/5VZKdMsglhxmDGRMIF6Dpd) | 3:27 | 2024-01-29 |  |
+| [Damage \(HOSHI Solo\) \(feat\. Timbaland\)](https://open.spotify.com/track/6zfIQ48qCIugcDsrdC5tyn) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 2:43 | 2025-06-25 |  |
 | [Dance 2night](https://open.spotify.com/track/7aXh9HCf8DGdBHoWzgteIe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hard Candy](https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu) | 5:03 | 2024-01-29 |  |
 | [Desire \(with VITA\)](https://open.spotify.com/track/6aCFpO6fjm5FTEsvqJtALr) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB) | [Desire](https://open.spotify.com/album/5rrC3LhLmzUkQQC5mqO5AY) | 2:58 | 2024-01-29 |  |
 | [Devil Wouldn't Recognize You](https://open.spotify.com/track/3ZK5PBHArculftJqTO3pxA) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hard Candy](https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu) | 5:08 | 2024-01-29 |  |

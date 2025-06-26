@@ -2,9 +2,9 @@
 
 ### [Popronde 2025](https://open.spotify.com/playlist/37i9dQZF1DXcTSvDxgY1oa)
 
-> Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten\. Cover: Bens
+> Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten\. Cover: Trxnz
 
-219 songs - 11 hr 51 min
+220 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [My disguise](https://open.spotify.com/track/1BpSr89lqd2Nl3FHUii20O) | [Olaf Putker & the Scenic Sound](https://open.spotify.com/artist/1lJ56naouJ73pb6k1cJl89) | [My disguise](https://open.spotify.com/album/1e9vJcj6Obgifb0pg9TKEL) | 3:42 | 2024-07-01 | 2025-05-08 |
 | [My Mind](https://open.spotify.com/track/09AsbZCJfiybFmWIfki6xL) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa) | [Rêverie](https://open.spotify.com/album/5Kiks4Noq6GA4sbCfzn2W8) | 1:15 | 2024-07-01 | 2025-05-08 |
 | [My Old Friend](https://open.spotify.com/track/1yI9R2L2y1AsuxfRNGqfpy) | [Wortel](https://open.spotify.com/artist/3RiUJH3gqK11PH3k4rd3Sz) | [My Old Friend](https://open.spotify.com/album/62311EXoHOGTVNh6kINUHM) | 3:12 | 2024-10-21 | 2025-05-08 |
+| [Nee Man](https://open.spotify.com/track/6AvqTncKDtZrFtL0c1cc7u) | [SKINC](https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6) | [Nee Man](https://open.spotify.com/album/1S3MgHn1vZOLvBMgJEBuJ4) | 2:43 | 2025-06-25 |  |
 | [Never Be Alone](https://open.spotify.com/track/6Gw0b1gHF7Q0868haihE6T) | [Julia Adriana](https://open.spotify.com/artist/2EiAH8EU1rWo8ZWaivtwvc) | [Never Be Alone](https://open.spotify.com/album/2FmqNHHpTiGXPy6DUcSerW) | 3:08 | 2025-05-07 |  |
 | [Nightmare$](https://open.spotify.com/track/7kbbzpV34lJ2ESBrluZcTL) | [Bens](https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7) | [Nightmare$](https://open.spotify.com/album/10bJOsNcNWOBqvRvICq33Q) | 2:06 | 2025-05-08 |  |
 | [Niks Doen](https://open.spotify.com/track/1Np2YDk3Ti4DnMV3tTrSOJ) | [Gijsjaradijsja](https://open.spotify.com/artist/7JOfgcKsCDFyGrgIOFDxZZ) | [Niks Doen](https://open.spotify.com/album/4F6tgYvqXPDj6r5eQmhEkZ) | 2:08 | 2024-07-01 | 2025-05-08 |
@@ -224,7 +225,7 @@
 | [Zoete Verleiding](https://open.spotify.com/track/7bYmSmshiAPYhrYrZMfywU) | [Jesse Hydro](https://open.spotify.com/artist/2r9Lzj8IpPYpSqu47KYngJ) | [Zoete Verleiding](https://open.spotify.com/album/1XbhxmewR0fZfncqBARZTD) | 2:39 | 2024-07-01 | 2025-05-08 |
 | [Zoete Wraak](https://open.spotify.com/track/4GzHTJnakHILedjVW3DqHy) | [Renee Rose](https://open.spotify.com/artist/6DjAfOheehIKX6VdcJpLDI) | [Zoete Wraak](https://open.spotify.com/album/1VH4qOWlhRAAeYK2ys6BUZ) | 2:18 | 2025-05-07 |  |
 | [Zwemmen In Het Geld](https://open.spotify.com/track/0GKRQlXAFUEFWi2mc5eqb3) | [Zeevlinder](https://open.spotify.com/artist/1SQxjouaMdQ33xLh15463l) | [Zwemmen In Het Geld](https://open.spotify.com/album/0jZgZPtXtb0EnLxNeH9qlj) | 2:50 | 2024-07-01 | 2025-05-08 |
-| [Zweven](https://open.spotify.com/track/2qnoCyCrUcDv5kbMdYU1V3) | [SKINC](https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6) | [Zweven](https://open.spotify.com/album/5LK3XRokE2RQITs5CmLkoO) | 3:12 | 2025-05-07 |  |
+| [Zweven](https://open.spotify.com/track/2qnoCyCrUcDv5kbMdYU1V3) | [SKINC](https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6) | [Zweven](https://open.spotify.com/album/5LK3XRokE2RQITs5CmLkoO) | 3:12 | 2025-05-07 | 2025-06-26 |
 | [Çıkmaz](https://open.spotify.com/track/2uNKzvaqXIcSFROPVlJ3ez) | [Karnabahar](https://open.spotify.com/artist/5OHL4KH5rSYYESINdMXaDt) | [Insurrecci​ó​n de los Incontentables](https://open.spotify.com/album/2R098kap4WCtwKhkr5VJiq) | 2:33 | 2025-05-07 |  |
 | [Éclat du Jour \(Brightness of Day\)](https://open.spotify.com/track/09U0q9Nriba5j8HlcoI3vH) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Les Heures du Jour](https://open.spotify.com/album/4QyIqQYLvj7AXXBiZQ2Mzg) | 3:02 | 2024-07-01 | 2024-10-22 |
 

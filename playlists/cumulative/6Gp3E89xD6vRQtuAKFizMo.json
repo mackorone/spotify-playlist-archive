@@ -1057,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "Blue Monday",
+        "url": "https://open.spotify.com/album/346bb2plydLoZExh5yQiqw"
+      },
+      "artists": [
+        {
+          "name": "Thomas Gold",
+          "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165230,
+      "name": "Blue Monday",
+      "url": "https://open.spotify.com/track/0APEHjtJaozCuGPLomsClT"
+    },
+    {
+      "album": {
         "name": "Body To The Beat",
         "url": "https://open.spotify.com/album/7qUkn7eWn3sZTnYJA3ffs4"
       },
@@ -3722,6 +3740,28 @@
       "duration_ms": 140806,
       "name": "Headlights",
       "url": "https://open.spotify.com/track/3OLuiRmi5DtpHq8SZiCtW3"
+    },
+    {
+      "album": {
+        "name": "Heart Already Broken",
+        "url": "https://open.spotify.com/album/2LmgVWaLfAGjMx1CT1IinH"
+      },
+      "artists": [
+        {
+          "name": "Crumb Pit",
+          "url": "https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I"
+        },
+        {
+          "name": "Amanda Joy",
+          "url": "https://open.spotify.com/artist/0nWFxqxClqiIvjQvjyi4Gi"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147461,
+      "name": "Heart Already Broken",
+      "url": "https://open.spotify.com/track/24tuWE14clPAH5cSjLesAT"
     },
     {
       "album": {

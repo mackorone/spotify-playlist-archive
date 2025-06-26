@@ -7029,6 +7029,28 @@
     },
     {
       "album": {
+        "name": "Telescope",
+        "url": "https://open.spotify.com/album/6AezZU7MtrlRjxSZd0xIOz"
+      },
+      "artists": [
+        {
+          "name": "Tres Leches",
+          "url": "https://open.spotify.com/artist/2xjYjo0XaziIp1rq3MewJd"
+        },
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207900,
+      "name": "Telescope",
+      "url": "https://open.spotify.com/track/69Jq9eecbxEk5J6NsnuC0l"
+    },
+    {
+      "album": {
         "name": "Flowers At Your Feet",
         "url": "https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd"
       },

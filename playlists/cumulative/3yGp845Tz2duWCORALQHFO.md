@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,217 songs - 7 day 6 hr 55 min
+3,219 songs - 7 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Boost Up](https://open.spotify.com/track/5qDawntZqMqDKJdM5QVSdC) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Boost Up](https://open.spotify.com/album/76u0teJxmuTXfNZLNws7Ub) | 3:31 | 2024-08-08 | 2024-08-16 |
 | [Born Again \(Babylonia\)](https://open.spotify.com/track/0fJw9HbKlmMw0aytiws7x7) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH), [Widemode](https://open.spotify.com/artist/1oB55C2OgosjV7fLfhNoMS) | [Born Again \(Babylonia\)](https://open.spotify.com/album/6DY7rUZFXHoOQRdXZVKdTq) | 2:17 | 2025-02-06 | 2025-02-14 |
 | [Born To Love](https://open.spotify.com/track/7IB3u6v0wDwEYEVVQ2lKoD) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Born To Love](https://open.spotify.com/album/4jBr0mykHs1Yeqj6ojOxKj) | 2:53 | 2025-04-08 | 2025-04-12 |
+| [Bounce](https://open.spotify.com/track/7DfJXbnxQsdfZjbyF2Ip9D) | [Scotto](https://open.spotify.com/artist/6q3h177WOeL9HBhJbckmYf) | [Bounce EP](https://open.spotify.com/album/75jSEDxdx6mDytu0XtxarS) | 3:57 | 2025-06-25 |  |
 | [Bounce In The Brass](https://open.spotify.com/track/73BnD0wHXmoxR6tuOWrjN5) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [FEYI](https://open.spotify.com/artist/2E41RSTUOR7CBYbfzXYI2t) | [Bounce In The Brass](https://open.spotify.com/album/5vatQzDCLPcmLIAb8Wr3MY) | 2:35 | 2025-02-06 | 2025-02-14 |
 | [Bounce It](https://open.spotify.com/track/2nDW6RRvpzsC6vBgBatwTf) | [Reblok](https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn) | [Bae & Bounce It](https://open.spotify.com/album/2wvFnq1M01S8leQAGpZkJG) | 4:36 | 2025-01-10 | 2025-01-18 |
 | [Boundary \- VIP](https://open.spotify.com/track/3ObKCCrt8oQhEmSoTisTT0) | [Ravenscoon](https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ) | [PERIPHERY \(Remix LP\)](https://open.spotify.com/album/0UUCwVDcLMXeh40CoFZkk5) | 3:46 | 2024-05-17 | 2024-05-25 |
@@ -575,6 +576,7 @@
 | [Cry for You](https://open.spotify.com/track/1YyFsHtaVX8Ra5gQzIKq6N) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Tineway](https://open.spotify.com/artist/06pAeCc5gtHxKRnRNPpso4), [Dani Doucette](https://open.spotify.com/artist/2alhJ7s3IXafk9N2mGHYF2) | [Cry for You](https://open.spotify.com/album/2nK0DzcI9W8DBgES0WrbA2) | 2:56 | 2025-04-08 | 2025-04-12 |
 | [Crystal Caverns](https://open.spotify.com/track/662oFyO4FT0Q4SpeduaiqL) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb) | [Crystal Caverns](https://open.spotify.com/album/5VMGpB2EyGwD7E8Bc27nvx) | 3:25 | 2025-04-24 | 2025-05-03 |
 | [Crystal Cove](https://open.spotify.com/track/3xlNewG05ubK3IbjCfK8ee) | [ZOYA](https://open.spotify.com/artist/5eqThkuR9VjiLuYfzESTp7) | [Crystal Cove](https://open.spotify.com/album/6VLac1uN4AiMsxSFG0asjh) | 3:26 | 2024-09-26 | 2024-10-05 |
+| [Cthulhu Beckons!](https://open.spotify.com/track/5H5QHBakoXAXhJuOg71Khj) | [Demien Sixx](https://open.spotify.com/artist/5D1fk08eJboaAHmo7WrZXT) | [Maximum Overdrive](https://open.spotify.com/album/1m0VV3OkRR6dzhsrJMpWvr) | 4:21 | 2025-06-25 |  |
 | [Cuanto Te Amo](https://open.spotify.com/track/5u9RLFGEjgc3rYrywJRdSv) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK) | [Cuanto Te Amo](https://open.spotify.com/album/7HYlNnpxkAdvyQGGkbUFYQ) | 2:57 | 2024-09-26 | 2024-10-05 |
 | [Culture](https://open.spotify.com/track/6fdpZQDiQR9ELbYmUQmbfr) | [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR), [AWaken](https://open.spotify.com/artist/1fLJTGgJm7CxwLSwOw3siL) | [Culture](https://open.spotify.com/album/1CKf7JhC6wQO4pLBxd81iO) | 3:07 | 2025-01-23 | 2025-02-01 |
 | [Culture](https://open.spotify.com/track/5grtQoJDMxKFIO9QyGLCE0) | [Avilo](https://open.spotify.com/artist/0vBN46VECxgdkVfeRDJc6E), [Ufberg](https://open.spotify.com/artist/1FrmK4hWRiW2jMddzENLRR) | [Culture/ Desire](https://open.spotify.com/album/5Tuy2JNhSfr7eroQdaiODe) | 3:11 | 2025-02-21 | 2025-03-01 |

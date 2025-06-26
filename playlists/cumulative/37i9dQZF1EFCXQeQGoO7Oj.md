@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-618 songs - 1 day 13 hr 2 min
+619 songs - 1 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,8 @@
 | [It's Gonna Be Me](https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:12 | 2024-01-29 |  |
 | [It's Gotta Be You](https://open.spotify.com/track/2vZALCthE0GRzGXXGK67Qt) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 2:57 | 2024-01-29 |  |
 | [It's My Life](https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Crush](https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69) | 3:44 | 2024-01-29 |  |
-| [It's My Life / Confessions Part II](https://open.spotify.com/track/5bxDbhozwbW0iDm7OYAtY5) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee LGBTQIA+ Pride](https://open.spotify.com/album/6ndWxNXkozcZLcsCAVBctE) | 1:51 | 2024-01-29 |  |
+| [It's My Life / Confessions Part II](https://open.spotify.com/track/3b1dQnuWWK9akAQmaEnFoP) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee Hits de Verão](https://open.spotify.com/album/3ICdjxnNAoUCWScc9PYElm) | 1:51 | 2025-06-25 |  |
+| [It's My Life / Confessions Part II](https://open.spotify.com/track/5bxDbhozwbW0iDm7OYAtY5) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee LGBTQIA+ Pride](https://open.spotify.com/album/6ndWxNXkozcZLcsCAVBctE) | 1:51 | 2024-01-29 | 2025-06-26 |
 | [It's the Things You Do](https://open.spotify.com/track/2BGFAgQJMzPhXyIeNehfjP) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG), [Tim Lever](https://open.spotify.com/artist/21DDunKoUpOWBax5LIULe5), [Michael Percy](https://open.spotify.com/artist/1PWS3ACXatxz3XOb6vvdja) | [5ive](https://open.spotify.com/album/1GJlrr97zfdxa3l4jpP47A) | 3:36 | 2024-01-29 | 2025-06-23 |
 | [It's the Things You Do](https://open.spotify.com/track/6DX7WBxe3wpUb2wyTXMVH0) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG), [Tim Lever](https://open.spotify.com/artist/21DDunKoUpOWBax5LIULe5), [Michael Percy](https://open.spotify.com/artist/1PWS3ACXatxz3XOb6vvdja) | [Five](https://open.spotify.com/album/5qNfTjXiyNX9abxpcpR1jO) | 3:36 | 2025-06-22 |  |
 | [It's True](https://open.spotify.com/track/53PfD1XKQFSswX2wOmKLd1) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 4:13 | 2024-01-29 |  |

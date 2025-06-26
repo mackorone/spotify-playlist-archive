@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hDC7HCAEdb.md) - [plain]
 
 > The best new alternative sounds from Scotland\. Cover: VUKOVI
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,983 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,987 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hDC7HCAEdb.md) - [plain]
 | 51 | [3:10 To Paisley](https://open.spotify.com/track/3WlKNgJ3nn25mB50YaRW62) | [The Noise Club](https://open.spotify.com/artist/7MSrsKO1nkDPphYIggPfCB) | [3:10 To Paisley](https://open.spotify.com/album/5KtCHcrpsa5YePiJHD2Dmj) | 4:06 |
 | 52 | [Spirit Folio](https://open.spotify.com/track/6N2yszPeZBE2SAhZEgKIjH) | [Stock Manager](https://open.spotify.com/artist/24MkNjcQpzxj2W4QQrOmI3) | [Spirit Folio](https://open.spotify.com/album/6qAUxmEqxdEYpYTmlNkqN4) | 4:04 |
 | 53 | [So Sick](https://open.spotify.com/track/1rmogF9pGNdGKmug9rpW17) | [DAYTIME TV](https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8) | [Island.](https://open.spotify.com/album/0xLzITpCXsu6fgGUfXCGaZ) | 2:28 |
-| 54 | [jUST tRYING tO rELAX](https://open.spotify.com/track/1aviRHvfIKAi4Ms4TFptWA) | [rEDOLENT](https://open.spotify.com/artist/19rA63hvJkczptt2FWeneT) | [jUST tRYING tO rELAX](https://open.spotify.com/album/3pLVtJHixqJLWLFZxE4cJw) | 3:27 |
+| 54 | [jUST tRYING tO rELAX](https://open.spotify.com/track/1aviRHvfIKAi4Ms4TFptWA) | [redolent](https://open.spotify.com/artist/19rA63hvJkczptt2FWeneT) | [jUST tRYING tO rELAX](https://open.spotify.com/album/3pLVtJHixqJLWLFZxE4cJw) | 3:27 |
 | 55 | [Left Off](https://open.spotify.com/track/0bdyWwmNeQMIaN7G8R7ZLU) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Left Off](https://open.spotify.com/album/125ROOxxg7yBtVrSoKAHWV) | 3:32 |
-| 56 | [dinny greet](https://open.spotify.com/track/3W2BGT9fKhRKLAgbxhJ3P0) | [rEDOLENT](https://open.spotify.com/artist/19rA63hvJkczptt2FWeneT) | [dinny greet](https://open.spotify.com/album/4OTEThnooBoMB4l8BqWhto) | 3:44 |
+| 56 | [dinny greet](https://open.spotify.com/track/3W2BGT9fKhRKLAgbxhJ3P0) | [redolent](https://open.spotify.com/artist/19rA63hvJkczptt2FWeneT) | [dinny greet](https://open.spotify.com/album/4OTEThnooBoMB4l8BqWhto) | 3:44 |
 | 57 | [Wash Your Wounds](https://open.spotify.com/track/01VMDmyPy8jxYXIThTQhbx) | [Gallus](https://open.spotify.com/artist/3DTAfcWpBw0deOabOAtNVC) | [Wash Your Wounds](https://open.spotify.com/album/0ShtuJHE4I5R6mFfBfmQy8) | 2:21 |
 | 58 | [Lighter](https://open.spotify.com/track/2NetoIJAYJiDdZRMDNYn0z) | [pedalo](https://open.spotify.com/artist/1fqIzizZUwYjMHQfjOj7Bk) | [Lighter](https://open.spotify.com/album/49oFGfNyeP24UkUxqqVQoM) | 3:35 |
 | 59 | [Fear](https://open.spotify.com/track/2Hz1N22RNvK1UHfm6B3CwQ) | [DAYTIME TV](https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8) | [Fear](https://open.spotify.com/album/36DMhXaQy689fWYty7Q51I) | 2:48 |

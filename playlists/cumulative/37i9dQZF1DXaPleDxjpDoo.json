@@ -971,6 +971,24 @@
     },
     {
       "album": {
+        "name": "Enchanted Forest",
+        "url": "https://open.spotify.com/album/16zVI5oXnlaIb1ckR2qWVq"
+      },
+      "artists": [
+        {
+          "name": "Intentional Vibes",
+          "url": "https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Enchanted Forest",
+      "url": "https://open.spotify.com/track/2cAKQEhLmkRmKKBk2a2Bm7"
+    },
+    {
+      "album": {
         "name": "Equity Diversity",
         "url": "https://open.spotify.com/album/1l5ZAy94wwHd3upfB8Ado3"
       },

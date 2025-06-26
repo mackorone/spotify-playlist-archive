@@ -20601,6 +20601,28 @@
     },
     {
       "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/6xOIqG0yH0Ejwg6wROcPDc"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        },
+        {
+          "name": "WELON",
+          "url": "https://open.spotify.com/artist/0fegs2UgMTsicSZ00z3HJQ"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182291,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/6ZcnuLd0mWgqseSnxTFMRF"
+    },
+    {
+      "album": {
         "name": "Wish You Stayed",
         "url": "https://open.spotify.com/album/2UYUKxWI2OjPG3eW0nf0Rg"
       },

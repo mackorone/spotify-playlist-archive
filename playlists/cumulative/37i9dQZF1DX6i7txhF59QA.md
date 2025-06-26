@@ -2,9 +2,9 @@
 
 ### [K\-트롯 스타 \(K\-Trot Stars\)](https://open.spotify.com/playlist/37i9dQZF1DX6i7txhF59QA)
 
-> 신나는 트로트 멜로디를 즐겨보세요! \(커버: 안성훈\)<br/>Let's party with cheerful Korean trot medley.
+> 신나는 트로트 멜로디를 즐겨보세요! \(커버: 에녹\)<br/>Let's party with cheerful Korean trot medley.
 
-1,024 songs - 2 day 10 hr 38 min
+1,025 songs - 2 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,7 +353,7 @@
 | [I miss you](https://open.spotify.com/track/5FncF5OtRdh6cubblocqcl) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Bongsungah school PART7](https://open.spotify.com/album/03aZK99AztPHiwh4XMta3i) | 4:00 | 2022-04-07 | 2022-07-21 |
 | [I only know love](https://open.spotify.com/track/5If8nZzi85yLy2hvQgrWJ4) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [Love call center PART1](https://open.spotify.com/album/37u0R2yo6C6LkVnaLsQ3Bh) | 3:02 | 2022-05-03 | 2022-07-29 |
 | [I owe you](https://open.spotify.com/track/6PQGmlg2VkRF4ccytdM8qv) | [Nam Seung Min](https://open.spotify.com/artist/0wRrz9KJtITKteZdPuDfJA) | [I owe you](https://open.spotify.com/album/4SXkrPFN4t8hithSnd1YXP) | 3:11 | 2023-10-16 | 2023-10-18 |
-| [I pray](https://open.spotify.com/track/5VAFigj8ONaIEV77I4V3X4) | [Nam Seung Min](https://open.spotify.com/artist/0wRrz9KJtITKteZdPuDfJA) | [Music Source of Mr\. Trot3 final Best](https://open.spotify.com/album/5xyACB0eKVNpErYIooVf2H) | 3:28 | 2025-03-28 |  |
+| [I pray](https://open.spotify.com/track/5VAFigj8ONaIEV77I4V3X4) | [Nam Seung Min](https://open.spotify.com/artist/0wRrz9KJtITKteZdPuDfJA) | [Music Source of Mr\. Trot3 final Best](https://open.spotify.com/album/5xyACB0eKVNpErYIooVf2H) | 3:28 | 2025-03-28 | 2025-06-26 |
 | [I really like you \(Shim Subong ver.\)](https://open.spotify.com/track/1nj2HesqkOUGUJ7glx3JYd) | [Saeun Kim](https://open.spotify.com/artist/6WUbQxe9Wzo5zFEr5iRNKz) | [MISS TROT2 Death match PART1](https://open.spotify.com/album/6YCn2HNNSVLOnG31b0BTaT) | 2:51 | 2022-04-07 | 2022-06-14 |
 | [I Really Liked It](https://open.spotify.com/track/5T2e2Y4Yqgkn1byETsKjT0) | [Jung Soo ra](https://open.spotify.com/artist/0bRnVJF5HozBTl4o8etuos) | [Love call center PART27](https://open.spotify.com/album/2DU9d9af7JUSwchkA6gBTs) | 3:24 | 2022-05-03 | 2022-05-18 |
 | [I Will Always Love You](https://open.spotify.com/track/4704UuBsSz22md2bumqRWu) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART12](https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H) | 2:28 | 2022-05-03 | 2022-07-28 |
@@ -407,6 +407,7 @@
 | [Just Like First Sight](https://open.spotify.com/track/2BlBbt4NcYfDep0N2pCkJy) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART32](https://open.spotify.com/album/2ILRXQMJw8fGbuz7vhvShU) | 3:18 | 2022-04-07 | 2022-07-19 |
 | [Just smile](https://open.spotify.com/track/28LN8F4kzIIrT1GSA7ItFv) | [Kim Da Hyun](https://open.spotify.com/artist/1ndks5hJNX9FpfenPSq2hf) | [Chapter 2 of Sound Flower](https://open.spotify.com/album/7jh0LvLmH5C6I0tbTv4Bln) | 3:39 | 2022-04-07 | 2022-07-29 |
 | [Just Smile](https://open.spotify.com/track/5PLChOnTLu2oNErIPd5CzW) | [Youngki](https://open.spotify.com/artist/2u6u4hr9H1B70v4m5CKq1R), [HAUBI](https://open.spotify.com/artist/7lRCndss9u3tg2zPQJaBR8) | [Just Smile](https://open.spotify.com/album/2axxwA4f2fjNBgJbgfvtQY) | 3:20 | 2022-04-22 | 2022-07-26 |
+| [Kimi wa Bara yori Utsukushii](https://open.spotify.com/track/1JGrMnWSRoSRwsEipc7uM1) | [Enoch](https://open.spotify.com/artist/1KcnBJQnU9D8NHEMZaBkVh) | [Kimi wa Bara yori Utsukushii](https://open.spotify.com/album/7ltdVjb8d1qLecakI5VeWj) | 3:37 | 2025-06-25 |  |
 | [Kkondae Latte](https://open.spotify.com/track/2Ff3LQRkRuCSdyOy80dfwh) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Kkondae Intern \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/3dPfuzpbPmsxGJf6DS6l6p) | 3:09 | 2022-04-07 | 2022-07-27 |
 | [Kkondae Latte](https://open.spotify.com/track/37cMBBGLgg0mRiqs01wcwP) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Kkondae Intern OST Part 1](https://open.spotify.com/album/2QHH1GCZwF4jbCLsKQe9Yn) | 3:09 | 2023-05-10 | 2023-11-14 |
 | [KyungAh](https://open.spotify.com/track/6zRDe84eEjxzgQI4JpIqwK) | [Sim Su Ho](https://open.spotify.com/artist/16Q15DdJC7nu2VTSYtBuqR), [Moon Tae Jun](https://open.spotify.com/artist/2HLTuzSKcLotietgZJI44b), [KIMHONGNAM](https://open.spotify.com/artist/75apiwYKKC4hBOKhCDMrnZ), [FunkyLocals](https://open.spotify.com/artist/3l1w3rbQJk3G9lJ3ypxX6t) | [Music Source of Mr\. Trot3 Team Battle by Genre Best PART2](https://open.spotify.com/album/4ZglJuelhgO9sqoL2G87gN) | 3:08 | 2025-02-20 | 2025-06-03 |

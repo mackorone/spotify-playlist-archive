@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-163 songs - 11 hr 1 min
+165 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [6 PACK PARADISE \~序章\~](https://open.spotify.com/track/2NNCbGDY0yIYf90ynJY3gr) | [Fischer’s](https://open.spotify.com/artist/6jzUFgPUi6cl92JOaM6gbF) | [Last Restart](https://open.spotify.com/album/0CembaiBBmxs0Ab9FFJFoB) | 4:41 | 2023-08-17 |  |
 | [6 PACK PARADISE \~序章\~](https://open.spotify.com/track/1q6XN7vHKWJ3SvGlIi4Dfc) | [Fischer’s](https://open.spotify.com/artist/6jzUFgPUi6cl92JOaM6gbF) | [6 PACK PARADISE \~序章\~](https://open.spotify.com/album/2Rm7PgT6eEPPXggyaaPY0s) | 4:44 | 2022-03-08 | 2025-02-05 |
 | [99は終わらない](https://open.spotify.com/track/6PghaG4oeqk5mBOWWpRDgq) | [Hiromi Go](https://open.spotify.com/artist/0MYnDCY3ae0nSzoCmQiKzh) | [99は終わらない](https://open.spotify.com/album/0BPzi7foQ4P0jA7pg1jzBk) | 4:20 | 2022-03-08 |  |
+| [Ayaka Ohashi, \(calling herself\) ISTJ World Representative](https://open.spotify.com/track/6h5qpbKfVpbSwY5h65kSOW) | [Ayaka Ohashi](https://open.spotify.com/artist/6Xfmz0DidhUYWspg6R2cXH) | [Ayaka Ohashi, \(calling herself\) ISTJ World Representative](https://open.spotify.com/album/5tpql0xYscb7SQUf1TioQV) | 4:04 | 2025-06-25 |  |
 | [canvas](https://open.spotify.com/track/343kCGzVLTw4PsqqjweJIX) | [小野大輔](https://open.spotify.com/artist/4Zhv2MWk8LmJHgy1qSyss0) | [ヒーロー](https://open.spotify.com/album/66NumpiSIw7X07nSObB3ti) | 5:04 | 2022-03-08 | 2025-04-30 |
 | [Changes](https://open.spotify.com/track/02Ik0DMcCN2TMDGKY9JnUL) | [石田裕子](https://open.spotify.com/artist/1SNm8XI0sfrS0q0l4IuXOH) | [Changes](https://open.spotify.com/album/4K33360b8TthyAVug4xtKd) | 3:36 | 2022-03-08 |  |
 | [Chase the Light ! \- hyadain Rererere☆Remix](https://open.spotify.com/track/2V5clBeUzdz7UDji2CAKN2) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Rave\-up Tonight](https://open.spotify.com/album/6x6IU6jrgiC6syaY45kqMs) | 4:18 | 2023-05-16 | 2023-12-08 |
@@ -76,6 +77,7 @@
 | [SING!!!!!](https://open.spotify.com/track/3a7f747Xv3UGGvRbhKKvpv) | [The Gospellers](https://open.spotify.com/artist/4MRHdjH8xf7OH0utAw4air) | [G20](https://open.spotify.com/album/6YcYx94kcYhcXuumKVrwhU) | 4:13 | 2022-03-08 |  |
 | [SOUTHPAW](https://open.spotify.com/track/6B0ufMIM7BXqleQk7pB3DV) | [MEG](https://open.spotify.com/artist/625iOFWwsLZyMXt7mx5L2X) | [WEAR I AM](https://open.spotify.com/album/6EBuvTf7SZKFBFwvjXDxMz) | 5:15 | 2022-03-08 |  |
 | [Start it right away](https://open.spotify.com/track/12SzyDBVh8aXwBSe6Oc0A1) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [Start it right away](https://open.spotify.com/album/2k10P8MlYRilFTw1vVyt5o) | 4:08 | 2022-03-08 | 2025-04-30 |
+| [SUSHI PARTY](https://open.spotify.com/track/4076q1yf4r7aKqhGxangO9) | [DA PUMP](https://open.spotify.com/artist/3NRXKeatDxKe4apH6XawKX) | [BACK 2 DA UNITY\(Pre\-02\)](https://open.spotify.com/album/4XKCtu3j6cXjEDOdm02Ydc) | 3:13 | 2025-06-25 |  |
 | [TAKOYAKI in my heart](https://open.spotify.com/track/1wr3UGHoVeONKB1ZD0uKvO) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [JUKE BOX](https://open.spotify.com/album/45WScaFWvuSyWSPBq0c9cK) | 4:57 | 2024-01-23 |  |
 | [thx!!](https://open.spotify.com/track/3H4aN2ueNg6e9DGZpmPfme) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [Tinkling Smile](https://open.spotify.com/album/4lWHXHPkz9SwdNjWGJBMel) | 4:13 | 2022-03-08 |  |
 | [TOP SECRET](https://open.spotify.com/track/0WXqtcLh7Q6V1587YcQiZ0) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [10th Anniversary ALL TIME BEST / Yellow \[2010\-2020\]](https://open.spotify.com/album/717Bk7GgGixXrprqK5CtWZ) | 3:47 | 2022-07-12 | 2024-04-19 |

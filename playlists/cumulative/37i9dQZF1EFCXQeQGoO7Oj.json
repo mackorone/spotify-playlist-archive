@@ -5743,6 +5743,24 @@
     },
     {
       "album": {
+        "name": "Glee Hits de Ver\u00e3o",
+        "url": "https://open.spotify.com/album/3ICdjxnNAoUCWScc9PYElm"
+      },
+      "artists": [
+        {
+          "name": "Glee Cast",
+          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111333,
+      "name": "It's My Life / Confessions Part II",
+      "url": "https://open.spotify.com/track/3b1dQnuWWK9akAQmaEnFoP"
+    },
+    {
+      "album": {
         "name": "Glee LGBTQIA+ Pride",
         "url": "https://open.spotify.com/album/6ndWxNXkozcZLcsCAVBctE"
       },
@@ -5754,7 +5772,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 111333,
       "name": "It's My Life / Confessions Part II",
       "url": "https://open.spotify.com/track/5bxDbhozwbW0iDm7OYAtY5"

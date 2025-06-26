@@ -443,6 +443,28 @@
     },
     {
       "album": {
+        "name": "Come Closer",
+        "url": "https://open.spotify.com/album/0RfCEgu8lzzV77ciyrqnVV"
+      },
+      "artists": [
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        },
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206461,
+      "name": "Come Closer",
+      "url": "https://open.spotify.com/track/0dZJlgZhbXr1PVC4FFhGMX"
+    },
+    {
+      "album": {
         "name": "Alter EP",
         "url": "https://open.spotify.com/album/1cNtoofX8TnCb3ExzRg86J"
       },

@@ -6,13 +6,13 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFiZAAAAAAAr7tsbs86DT1/fwRBTB9tw",
+  "snapshot_id": "aFnqgAAAAAD8EfF6GNW2IpYTa23NZ7BR",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Coast to Coast",
-        "url": "https://open.spotify.com/album/4QYGe28cbzf7IgQb8wDBmB"
+        "name": "My Hero",
+        "url": "https://open.spotify.com/album/0O5W6tuMyLcLBnLMSk8qj8"
       },
       "artists": [
         {
@@ -20,17 +20,13 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         },
         {
-          "name": "Nicholas Aquilino",
-          "url": "https://open.spotify.com/artist/19W88XiqODfaExksbWpU86"
-        },
-        {
-          "name": "Shayne Holland",
-          "url": "https://open.spotify.com/artist/31boEXN1loQ6XgSoCiiGa4"
+          "name": "\u30dd\u30c3\u30d7\u2606\u30b9\u30c6\u30c3\u30d7",
+          "url": "https://open.spotify.com/artist/4acDr2jLgAGAFtRDeTr4cq"
         }
       ],
-      "duration_ms": 97213,
-      "name": "Coast to Coast",
-      "url": "https://open.spotify.com/track/57glf24AnERvt2SqXeLaSH"
+      "duration_ms": 182600,
+      "name": "My Hero",
+      "url": "https://open.spotify.com/track/48e3cG4Zr2XT7v8E7rIu92"
     },
     {
       "added_at": null,
@@ -475,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2",
-        "url": "https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "\u795e\u696d\u901f\u653b",
-      "url": "https://open.spotify.com/track/78PkKrhnqhbiYWOyPRYD3E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f2018 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw"
       },
@@ -507,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo"
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2",
+        "url": "https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78"
       },
       "artists": [
         {
@@ -516,15 +496,15 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 208000,
-      "name": "\u76ee\u6a19",
-      "url": "https://open.spotify.com/track/1bnHb1q8DePjvo7sH20ugT"
+      "duration_ms": 173000,
+      "name": "\u795e\u696d\u901f\u653b",
+      "url": "https://open.spotify.com/track/78PkKrhnqhbiYWOyPRYD3E"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Death Parade Original Soundtrack",
-        "url": "https://open.spotify.com/album/22MVfh0OuAn8dv8nWn438G"
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6756\u3068\u5263\u306e\u30a6\u30a3\u30b9\u30c8\u30ea\u30a2\u300f\u97f3\u697d\u6284\u9332 \u5176\u306e\u58f1",
+        "url": "https://open.spotify.com/album/78nqHhROUNGaF7HG6buFdD"
       },
       "artists": [
         {
@@ -532,9 +512,9 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 280760,
-      "name": "moonlit night",
-      "url": "https://open.spotify.com/track/6ebH5PH2IzMkAx2aLoh1dJ"
+      "duration_ms": 243906,
+      "name": "Wistoria: Wand and Sword",
+      "url": "https://open.spotify.com/track/3IHDAxWfAlM2FQ8Pp31AHO"
     },
     {
       "added_at": null,
@@ -580,15 +560,15 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 98226,
-      "name": "\u671f\u5f85",
-      "url": "https://open.spotify.com/track/4ASsDGGb3MlMOebE4jNiEp"
+      "duration_ms": 208000,
+      "name": "\u76ee\u6a19",
+      "url": "https://open.spotify.com/track/1bnHb1q8DePjvo7sH20ugT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300e\u6756\u3068\u5263\u306e\u30a6\u30a3\u30b9\u30c8\u30ea\u30a2\u300f\u97f3\u697d\u6284\u9332 \u5176\u306e\u58f1",
-        "url": "https://open.spotify.com/album/78nqHhROUNGaF7HG6buFdD"
+        "name": "My Hero Academia: World Heroes' Mission (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25LhTa5jwYofUu9qMLrijW"
       },
       "artists": [
         {
@@ -596,9 +576,25 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 243906,
-      "name": "Wistoria: Wand and Sword",
-      "url": "https://open.spotify.com/track/3IHDAxWfAlM2FQ8Pp31AHO"
+      "duration_ms": 113100,
+      "name": "Go Straight!",
+      "url": "https://open.spotify.com/track/6FB9Fhfjx5NJETCcCyzRgb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death Parade Original Soundtrack",
+        "url": "https://open.spotify.com/album/22MVfh0OuAn8dv8nWn438G"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "duration_ms": 280760,
+      "name": "moonlit night",
+      "url": "https://open.spotify.com/track/6ebH5PH2IzMkAx2aLoh1dJ"
     },
     {
       "added_at": null,
@@ -619,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Hero Academia: World Heroes' Mission (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25LhTa5jwYofUu9qMLrijW"
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo"
       },
       "artists": [
         {
@@ -628,9 +624,9 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 113100,
-      "name": "Go Straight!",
-      "url": "https://open.spotify.com/track/6FB9Fhfjx5NJETCcCyzRgb"
+      "duration_ms": 98226,
+      "name": "\u671f\u5f85",
+      "url": "https://open.spotify.com/track/4ASsDGGb3MlMOebE4jNiEp"
     },
     {
       "added_at": null,
@@ -747,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u9cf4\u7fbd\u7530\u6155\u60c5",
-        "url": "https://open.spotify.com/album/0oxtGg6puN7SA3ZaVwyiFc"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        },
-        {
-          "name": "\u5357\u5317\u6625\u4e09\u90ce",
-          "url": "https://open.spotify.com/artist/3Jz6A3JyIg90I4MoqULKXe"
-        }
-      ],
-      "duration_ms": 35840,
-      "name": "\u9cf4\u7fbd\u7530\u6155\u60c5",
-      "url": "https://open.spotify.com/track/3EmRQwra4EE3KwpAzIJcAN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300c\u98a8\u304c\u5f37\u304f\u5439\u3044\u3066\u3044\u308b\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/15qSa1T6OKegsLuFcvh7nW"
       },
@@ -792,9 +768,25 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 91973,
-      "name": "\u9802\u306e\u666f\u8272",
-      "url": "https://open.spotify.com/track/3TQq78O1tjqaAvEusTDh4s"
+      "duration_ms": 164000,
+      "name": "\u5316\u5b66\u5909\u5316",
+      "url": "https://open.spotify.com/track/4Hgr3afG2PcXmIIsEIaBJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Hero Academia: Season 7 (Original Pre-Release Soundtrack)",
+        "url": "https://open.spotify.com/album/5RWOdk6MQhq7EQYRdbt3cy"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "duration_ms": 190426,
+      "name": "The Demon Lord",
+      "url": "https://open.spotify.com/track/6gsulI9GDDaXrBRChQdmOj"
     },
     {
       "added_at": null,
@@ -815,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Hero Academia: Season 7 (Original Pre-Release Soundtrack)",
-        "url": "https://open.spotify.com/album/5RWOdk6MQhq7EQYRdbt3cy"
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u98a8\u304c\u5f37\u304f\u5439\u3044\u3066\u3044\u308b\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/15qSa1T6OKegsLuFcvh7nW"
       },
       "artists": [
         {
@@ -824,9 +816,9 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 190426,
-      "name": "The Demon Lord",
-      "url": "https://open.spotify.com/track/6gsulI9GDDaXrBRChQdmOj"
+      "duration_ms": 375266,
+      "name": "We Must Go",
+      "url": "https://open.spotify.com/track/04a6Tuzc3LHgM0I0IVh0aw"
     }
   ],
   "unique_name": "This Is Yuki Hayashi",

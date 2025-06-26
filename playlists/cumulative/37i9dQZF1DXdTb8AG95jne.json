@@ -1373,6 +1373,28 @@
     },
     {
       "album": {
+        "name": "Baby Step",
+        "url": "https://open.spotify.com/album/2mZfRTmfhY6eQXYcfIqxRq"
+      },
+      "artists": [
+        {
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+        },
+        {
+          "name": "siso",
+          "url": "https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181395,
+      "name": "Baby Step (feat. siso)",
+      "url": "https://open.spotify.com/track/2s32yDDsDOnDAuIQ24h1QP"
+    },
+    {
+      "album": {
         "name": "Default",
         "url": "https://open.spotify.com/album/4P8nciEu4ohngeo77oex4u"
       },
@@ -11210,7 +11232,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 152277,
       "name": "Origin Of Error",
       "url": "https://open.spotify.com/track/4i0eMMIu0uwJb1bE4bHG7R"

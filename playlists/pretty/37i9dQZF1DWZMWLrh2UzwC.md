@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Misha Omar, Benson Boone, SonaOne, Ed Sheeran, sombr, ILLIT, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,249 likes - 120 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,251 likes - 120 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 83 | [gut feeling](https://open.spotify.com/track/0AHoTRKg4LjIRRJgJsFqpu) | [desthemess](https://open.spotify.com/artist/3kylCL6jUWlEECElJhtmqw) | [gut feeling](https://open.spotify.com/album/4Mwdnhcz0hQqwTTD7evQxQ) | 3:08 |
 | 84 | [Limbo](https://open.spotify.com/track/1i85jdCH4ExUseOLtsk0n7) | [AIJOU](https://open.spotify.com/artist/3YLOuVG28q7yiUXwz18PM2) | [Limbo](https://open.spotify.com/album/3cZIhyiM0YU2P9Q7wtwS6E) | 2:25 |
 | 85 | [STUNNA](https://open.spotify.com/track/1iL2uRWwqccaNqqMePIcOq) | [TRIBOCITY](https://open.spotify.com/artist/7IeAg5P36pFl8ndmGMlHS6), [Kurt Haikal](https://open.spotify.com/artist/7y1dlZbc8hNoEcJizYSYI4), [DannyBoii](https://open.spotify.com/artist/1t6OsqkEh0iMtG8mgiYiQ6), [SEE](https://open.spotify.com/artist/6V4pwVHBxESVAFjBXfIaIy) | [STUNNA](https://open.spotify.com/album/5SlvlJcuzsr8WiSNTnBirM) | 3:13 |
-| 86 | [原諒有用](https://open.spotify.com/track/1ogee7tRj3S9oIiYi9YZnN) | [龚柯允](https://open.spotify.com/artist/76bGZuKoq7LD2JjDbZynmX) | [原諒有用](https://open.spotify.com/album/2GixqjL1ukahK4GcO74j0y) | 4:00 |
+| 86 | [原諒有用](https://open.spotify.com/track/1ogee7tRj3S9oIiYi9YZnN) | [Karen Kong](https://open.spotify.com/artist/76bGZuKoq7LD2JjDbZynmX) | [原諒有用](https://open.spotify.com/album/2GixqjL1ukahK4GcO74j0y) | 4:00 |
 | 87 | [千千阕歌](https://open.spotify.com/track/745YkRDCZQ38brsxguISFj) | [JSY 九十壹](https://open.spotify.com/artist/5S8d47H2l7106BuyPmLoap) | [千千阕歌](https://open.spotify.com/album/7dwSe3Zw3WnMLkKpv1g13k) | 5:32 |
 | 88 | [TAKNAK](https://open.spotify.com/track/4SCV6JOLANNBshRcQhjNTi) | [A\-Jin](https://open.spotify.com/artist/66cUbiHT6jTOYzxzaeBD2U) | [TAKNAK](https://open.spotify.com/album/1bxgUFjM143dMwqcPO8UAw) | 2:55 |
 | 89 | [Cinta Sekali Lagi](https://open.spotify.com/track/3a2TIP2G68WQjCtiiEDLLY) | [Nazuwan Amran](https://open.spotify.com/artist/6d36PRHJPESlBc9jiqO4H3) | [Cinta Sekali Lagi](https://open.spotify.com/album/2AHVpxlGqT8RF8FcDNDMAH) | 3:21 |

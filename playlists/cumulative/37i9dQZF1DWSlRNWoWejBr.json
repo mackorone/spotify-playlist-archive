@@ -1303,6 +1303,28 @@
     },
     {
       "album": {
+        "name": "BROTA THM TAPES",
+        "url": "https://open.spotify.com/album/2KPyIyufIhKwkezxWNWt0Q"
+      },
+      "artists": [
+        {
+          "name": "Thom",
+          "url": "https://open.spotify.com/artist/3eLdEEgwYabHkzVUxllbF4"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118906,
+      "name": "BROTA THM TAPES",
+      "url": "https://open.spotify.com/track/5Z8jwajQxNj3SNt3NxOQip"
+    },
+    {
+      "album": {
         "name": "Cachorrinha de Madame",
         "url": "https://open.spotify.com/album/06fSZFT0pKrscGNYz0mWUa"
       },
@@ -1616,7 +1638,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 151384,
       "name": "Chapa M\u00e1xima",
       "url": "https://open.spotify.com/track/3yCtRV7LMeGBpvSHDR8uMV"

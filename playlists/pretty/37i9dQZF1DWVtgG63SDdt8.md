@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Sondae
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,684 likes - 99 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,703 likes - 99 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 26 | [Breakthrough's Coming \(Live\)](https://open.spotify.com/track/5v72l8JTXfKDbJzjQ9FY0m) | [VIVE Worship](https://open.spotify.com/artist/6qKHvs6N15YORScDTh84vy) | [Holy Fire \(Live\)](https://open.spotify.com/album/5OUA12v5UPHqAHDJiONuT1) | 4:54 |
 | 27 | [Hallelujah Everyday](https://open.spotify.com/track/0qKwz58QAzQU5QeIBP2Lpb) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8) | [Hallelujah Everyday](https://open.spotify.com/album/2yep0nxeQFJznZIDBxNvkK) | 3:36 |
 | 28 | [Real](https://open.spotify.com/track/7brRFdTSwwq1xeYXnXP5O8) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Real](https://open.spotify.com/album/134ohkHTVB4T6erW8wmcMP) | 2:56 |
-| 29 | [Sweet Spot](https://open.spotify.com/track/5TLbvhYY9obqA6LLtn6Xa5) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [The Hero](https://open.spotify.com/album/0zXL1ExI5cnlyKrqUdW198) | 3:02 |
+| 29 | [Sweet Spot](https://open.spotify.com/track/5TLbvhYY9obqA6LLtn6Xa5) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [The Hero](https://open.spotify.com/album/0zXL1ExI5cnlyKrqUdW198) | 3:16 |
 | 30 | [The Cup](https://open.spotify.com/track/0OouVwS1spKD2Qr1LMmAje) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [The Cup](https://open.spotify.com/album/79D1zXbD0awfHKVAL3LE9E) | 3:07 |
 | 31 | [Rescue](https://open.spotify.com/track/1CkUPrALf6ID60tY0TmkEG) | [One Common](https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9) | [Rescue](https://open.spotify.com/album/2hRvaI20GTXxJ0T8wjs8uF) | 2:41 |
 | 32 | [GOOD OLD DAYS](https://open.spotify.com/track/7a8uaMUNHoyVLQnhMDQqSK) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC) | [GOOD OLD DAYS](https://open.spotify.com/album/0V9AJwlZxaBVd30fZRVAQC) | 2:49 |

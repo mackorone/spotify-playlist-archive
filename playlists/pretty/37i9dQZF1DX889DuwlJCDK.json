@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: Chilli Beans.",
-  "num_followers": 19741,
+  "num_followers": 19764,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-06-24 17:34:43",
       "album": {
+        "name": "\u9752\u7a7a",
+        "url": "https://open.spotify.com/album/2lzkVnmmTJeAfRgijw9SER"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30eb\u30b7\u30a3",
+          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
+        }
+      ],
+      "duration_ms": 238160,
+      "name": "\u9752\u7a7a",
+      "url": "https://open.spotify.com/track/1iBGMFMIZ3JerD7tAFPxPJ"
+    },
+    {
+      "added_at": "2025-06-24 17:34:43",
+      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/5Nepx5m7eUkT6cGPfZw5P1"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 247692,
       "name": "Night Kids",
       "url": "https://open.spotify.com/track/5Wd6H1N0ZmdFXovqs60tDH"
-    },
-    {
-      "added_at": "2025-06-24 17:34:43",
-      "album": {
-        "name": "\u9752\u7a7a",
-        "url": "https://open.spotify.com/album/2lzkVnmmTJeAfRgijw9SER"
-      },
-      "artists": [
-        {
-          "name": "\u30de\u30eb\u30b7\u30a3",
-          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
-        }
-      ],
-      "duration_ms": 238160,
-      "name": "\u9752\u7a7a",
-      "url": "https://open.spotify.com/track/1iBGMFMIZ3JerD7tAFPxPJ"
     },
     {
       "added_at": "2025-06-24 17:34:43",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-06-24 17:34:43",
       "album": {
-        "name": "\u5357\u65b0\u753a",
-        "url": "https://open.spotify.com/album/7HiWvQwmkiS9lPUUMNq02N"
-      },
-      "artists": [
-        {
-          "name": "Haku.",
-          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
-        }
-      ],
-      "duration_ms": 247226,
-      "name": "\u5357\u65b0\u753a",
-      "url": "https://open.spotify.com/track/04UGIlD1giQFI4vwgZS6IS"
-    },
-    {
-      "added_at": "2025-06-24 17:34:43",
-      "album": {
         "name": "POP OUT! \u2162",
         "url": "https://open.spotify.com/album/4s9LtekCnehmTAAGV2Y8Ts"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 210470,
       "name": "\u50d5\u3089\u306e\u884c\u9032\u66f2",
       "url": "https://open.spotify.com/track/0U8htexvwrGW6rdG4BMr1E"
+    },
+    {
+      "added_at": "2025-06-24 17:34:43",
+      "album": {
+        "name": "\u5357\u65b0\u753a",
+        "url": "https://open.spotify.com/album/7HiWvQwmkiS9lPUUMNq02N"
+      },
+      "artists": [
+        {
+          "name": "Haku.",
+          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
+        }
+      ],
+      "duration_ms": 247226,
+      "name": "\u5357\u65b0\u753a",
+      "url": "https://open.spotify.com/track/04UGIlD1giQFI4vwgZS6IS"
     },
     {
       "added_at": "2025-06-24 17:34:43",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-06-24 17:34:43",
       "album": {
-        "name": "\u6708\u306b\u9858\u3046",
-        "url": "https://open.spotify.com/album/7AxVbYRfuXJQ6zV1wWDZym"
-      },
-      "artists": [
-        {
-          "name": "sorato",
-          "url": "https://open.spotify.com/artist/5PJX4HycJJooJ50iJduQH5"
-        }
-      ],
-      "duration_ms": 158751,
-      "name": "\u6708\u306b\u9858\u3046",
-      "url": "https://open.spotify.com/track/70fkoVXkPUtJXFjjFWlX7c"
-    },
-    {
-      "added_at": "2025-06-24 17:34:43",
-      "album": {
         "name": "Planetary",
         "url": "https://open.spotify.com/album/08PXW0KjcLUccvIsZBvomW"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 177489,
       "name": "Planetary",
       "url": "https://open.spotify.com/track/5v2bUbn70jpJcPkWL3EYwF"
+    },
+    {
+      "added_at": "2025-06-24 17:34:43",
+      "album": {
+        "name": "\u6708\u306b\u9858\u3046",
+        "url": "https://open.spotify.com/album/7AxVbYRfuXJQ6zV1wWDZym"
+      },
+      "artists": [
+        {
+          "name": "sorato",
+          "url": "https://open.spotify.com/artist/5PJX4HycJJooJ50iJduQH5"
+        }
+      ],
+      "duration_ms": 158751,
+      "name": "\u6708\u306b\u9858\u3046",
+      "url": "https://open.spotify.com/track/70fkoVXkPUtJXFjjFWlX7c"
     },
     {
       "added_at": "2025-06-24 17:34:43",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2025-06-24 17:34:43",
       "album": {
+        "name": "more than love",
+        "url": "https://open.spotify.com/album/3lwIqSagsvVt30wjgHJVE8"
+      },
+      "artists": [
+        {
+          "name": "SIX LOUNGE",
+          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
+        }
+      ],
+      "duration_ms": 225213,
+      "name": "\u6b7b\u306c\u307b\u3069\u3042\u3044\u305f\u3044\u304b\u3089\u3001\u3060\u304b\u3089\u3042\u3044\u306b\u884c\u304f\u3088",
+      "url": "https://open.spotify.com/track/2Iz75qsbWrWMsV381lqmhy"
+    },
+    {
+      "added_at": "2025-06-24 17:34:43",
+      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/5eaoO38FXRWLcrxwrtaNlW"
       },
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2025-06-24 17:34:43",
       "album": {
-        "name": "more than love",
-        "url": "https://open.spotify.com/album/3lwIqSagsvVt30wjgHJVE8"
+        "name": "ZERO",
+        "url": "https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0"
       },
       "artists": [
         {
-          "name": "SIX LOUNGE",
-          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
         }
       ],
-      "duration_ms": 225213,
-      "name": "\u6b7b\u306c\u307b\u3069\u3042\u3044\u305f\u3044\u304b\u3089\u3001\u3060\u304b\u3089\u3042\u3044\u306b\u884c\u304f\u3088",
-      "url": "https://open.spotify.com/track/2Iz75qsbWrWMsV381lqmhy"
+      "duration_ms": 191666,
+      "name": "\u30ab\u30b2\u30ed\u30a6",
+      "url": "https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH"
     },
     {
       "added_at": "2025-06-24 17:34:43",
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2025-06-24 17:34:43",
       "album": {
-        "name": "ZERO",
-        "url": "https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0"
+        "name": "\u50d5\u306e\u305d\u3070\u306b",
+        "url": "https://open.spotify.com/album/5mg81ijm6sM3Jg7hoRcNwJ"
       },
       "artists": [
         {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+          "name": "shytaupe",
+          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
         }
       ],
-      "duration_ms": 191666,
-      "name": "\u30ab\u30b2\u30ed\u30a6",
-      "url": "https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH"
+      "duration_ms": 274533,
+      "name": "\u50d5\u306e\u305d\u3070\u306b",
+      "url": "https://open.spotify.com/track/6VtxsPL1saMDWf2dzuJLKJ"
     },
     {
       "added_at": "2025-06-24 17:34:43",
@@ -1263,18 +1279,18 @@
     {
       "added_at": "2025-06-24 17:34:43",
       "album": {
-        "name": "\u50d5\u306e\u305d\u3070\u306b",
-        "url": "https://open.spotify.com/album/5mg81ijm6sM3Jg7hoRcNwJ"
+        "name": "\u30cf\u30a4\u30a8\u30fc\u30b9\u30ca\u30f3\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/4ZHJRDBCYVAazMCS0SO56e"
       },
       "artists": [
         {
-          "name": "shytaupe",
-          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
         }
       ],
-      "duration_ms": 274533,
-      "name": "\u50d5\u306e\u305d\u3070\u306b",
-      "url": "https://open.spotify.com/track/6VtxsPL1saMDWf2dzuJLKJ"
+      "duration_ms": 188130,
+      "name": "\u30cf\u30a4\u30a8\u30fc\u30b9\u30ca\u30f3\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/6DuWwQPRJwbfTygikrxOJv"
     },
     {
       "added_at": "2025-06-24 17:34:43",
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2025-06-24 17:34:43",
       "album": {
-        "name": "\u30cf\u30a4\u30a8\u30fc\u30b9\u30ca\u30f3\u30d0\u30fc",
-        "url": "https://open.spotify.com/album/4ZHJRDBCYVAazMCS0SO56e"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
-          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
-        }
-      ],
-      "duration_ms": 188130,
-      "name": "\u30cf\u30a4\u30a8\u30fc\u30b9\u30ca\u30f3\u30d0\u30fc",
-      "url": "https://open.spotify.com/track/6DuWwQPRJwbfTygikrxOJv"
-    },
-    {
-      "added_at": "2025-06-24 17:34:43",
-      "album": {
         "name": "\u5143\u6c17\u3067\u3044\u3066\u306d\u3002",
         "url": "https://open.spotify.com/album/7DRmTIvDfwHPjSGzZraS9x"
       },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-06-24 17:34:43",
       "album": {
-        "name": "\u7d19\u98a8\u8239",
-        "url": "https://open.spotify.com/album/1rdUrzr2C2iTVjdvBO9zPI"
-      },
-      "artists": [
-        {
-          "name": "CLAN QUEEN",
-          "url": "https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY"
-        }
-      ],
-      "duration_ms": 194534,
-      "name": "\u7d19\u98a8\u8239",
-      "url": "https://open.spotify.com/track/6PnVH4Baj1g8Dyy1XwG0xx"
-    },
-    {
-      "added_at": "2025-06-24 17:34:43",
-      "album": {
         "name": "\u30a2\u30af\u30b7\u30e7\u30f3\uff01",
         "url": "https://open.spotify.com/album/0Qe5TTbno7M0N61aIg0VcY"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 190600,
       "name": "\u30a2\u30af\u30b7\u30e7\u30f3\uff01",
       "url": "https://open.spotify.com/track/6q6GQ80tEo8yZdq8yUiG6w"
+    },
+    {
+      "added_at": "2025-06-24 17:34:43",
+      "album": {
+        "name": "\u7d19\u98a8\u8239",
+        "url": "https://open.spotify.com/album/1rdUrzr2C2iTVjdvBO9zPI"
+      },
+      "artists": [
+        {
+          "name": "CLAN QUEEN",
+          "url": "https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY"
+        }
+      ],
+      "duration_ms": 194534,
+      "name": "\u7d19\u98a8\u8239",
+      "url": "https://open.spotify.com/track/6PnVH4Baj1g8Dyy1XwG0xx"
     },
     {
       "added_at": "2025-06-24 17:34:43",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-06-24 17:34:43",
       "album": {
-        "name": "\u30b2\u30eb\u30cb\u30ab",
-        "url": "https://open.spotify.com/album/5SVwbcUEN25Jz9IlW0Ral6"
-      },
-      "artists": [
-        {
-          "name": "CLAN QUEEN",
-          "url": "https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "\u30b2\u30eb\u30cb\u30ab",
-      "url": "https://open.spotify.com/track/5HS5UodfHqBq09VZG3unuk"
-    },
-    {
-      "added_at": "2025-06-24 17:34:43",
-      "album": {
         "name": "\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8 (Reproduced 2025)",
         "url": "https://open.spotify.com/album/3qbnAZagfEhj89YL5oz5jv"
       },
@@ -1439,18 +1423,34 @@
     {
       "added_at": "2025-06-24 17:34:43",
       "album": {
-        "name": "antique",
-        "url": "https://open.spotify.com/album/19DOjKHojimvNBrzI7rpNI"
+        "name": "\u30b2\u30eb\u30cb\u30ab",
+        "url": "https://open.spotify.com/album/5SVwbcUEN25Jz9IlW0Ral6"
       },
       "artists": [
         {
-          "name": "Oisicle Melonpan",
-          "url": "https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh"
+          "name": "CLAN QUEEN",
+          "url": "https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY"
         }
       ],
-      "duration_ms": 225233,
-      "name": "\u65e7\u4e16\u754c\u3088\u308a",
-      "url": "https://open.spotify.com/track/4r428hWKE7Br4LKKfpYFvi"
+      "duration_ms": 230506,
+      "name": "\u30b2\u30eb\u30cb\u30ab",
+      "url": "https://open.spotify.com/track/5HS5UodfHqBq09VZG3unuk"
+    },
+    {
+      "added_at": "2025-06-24 17:34:43",
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/0dvWzXRKOKHHb0ODMg92x6"
+      },
+      "artists": [
+        {
+          "name": "\u5bb6\u4e3b",
+          "url": "https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB"
+        }
+      ],
+      "duration_ms": 283678,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/14SqqKBjTXkF7Z8pkwYGGw"
     },
     {
       "added_at": "2025-06-24 17:34:43",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2025-06-24 17:34:43",
       "album": {
+        "name": "antique",
+        "url": "https://open.spotify.com/album/19DOjKHojimvNBrzI7rpNI"
+      },
+      "artists": [
+        {
+          "name": "Oisicle Melonpan",
+          "url": "https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh"
+        }
+      ],
+      "duration_ms": 225233,
+      "name": "\u65e7\u4e16\u754c\u3088\u308a",
+      "url": "https://open.spotify.com/track/4r428hWKE7Br4LKKfpYFvi"
+    },
+    {
+      "added_at": "2025-06-24 17:34:43",
+      "album": {
         "name": "\u305a\u3063\u3068\u524d\u304b\u3089\u541b\u306b\u604b\u3057\u3066\u308b",
         "url": "https://open.spotify.com/album/062n4VMq8mOi5SHYHL34CX"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 248027,
       "name": "\u305a\u3063\u3068\u524d\u304b\u3089\u541b\u306b\u604b\u3057\u3066\u308b",
       "url": "https://open.spotify.com/track/3yU9LJ8C3szUxYxoXZixBJ"
-    },
-    {
-      "added_at": "2025-06-24 17:34:43",
-      "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/0dvWzXRKOKHHb0ODMg92x6"
-      },
-      "artists": [
-        {
-          "name": "\u5bb6\u4e3b",
-          "url": "https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB"
-        }
-      ],
-      "duration_ms": 283678,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/14SqqKBjTXkF7Z8pkwYGGw"
     },
     {
       "added_at": "2025-06-24 17:34:43",

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists every Wednesday\. Cover: Chained Saint
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,582 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,654 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [1000 Tons](https://open.spotify.com/track/0naGnDg0TAf08RptWY9F1Q) | [Chained Saint](https://open.spotify.com/artist/6JChzL9HQEspINhiTqSURd) | [1000 Tons](https://open.spotify.com/album/5TrOsdUOjhRluNLFkiOygo) | 2:59 |
 | 2 | [Foster](https://open.spotify.com/track/51JhUIPBPMkICrTvp77Sh1) | [Swollen Teeth](https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ) | [Foster](https://open.spotify.com/album/4V1RGimOugozD9K8PjRzZ7) | 4:19 |
 | 3 | [subjects](https://open.spotify.com/track/7dXnA1Bo45j8ktMZphrV50) | [st.sinner](https://open.spotify.com/artist/3OeX9lekdj5s9FByuNxW8G) | [subjects](https://open.spotify.com/album/2dOTy2hZMbzz6nmZYoThmA) | 3:59 |
-| 4 | [drown](https://open.spotify.com/track/6kXWQ9AqYQ6p04P5BBH4m6) | [Shallow Truths](https://open.spotify.com/artist/132H63dzJPRFR7Ckc1Gedg) | [drown](https://open.spotify.com/album/3PYL7TAV9FIaKTyFclcD4S) | 3:18 |
-| 5 | [U\(phoria\)](https://open.spotify.com/track/1N1btMf2cMZFiGFTHPL3yj) | [Mirrorcell](https://open.spotify.com/artist/18MQzgqh7Afpja2i3phf4j) | [U\(phoria\)](https://open.spotify.com/album/56N7Ywq4IWoVuQuvNS3cZg) | 3:33 |
+| 4 | [U\(phoria\)](https://open.spotify.com/track/1N1btMf2cMZFiGFTHPL3yj) | [Mirrorcell](https://open.spotify.com/artist/18MQzgqh7Afpja2i3phf4j) | [U\(phoria\)](https://open.spotify.com/album/56N7Ywq4IWoVuQuvNS3cZg) | 3:33 |
+| 5 | [Elated](https://open.spotify.com/track/4pHlVnvaYF6P5Mrj1yDKLn) | [Sienna Skies](https://open.spotify.com/artist/4BwB9qh4daa8ecVPY9Qlo3) | [Elated](https://open.spotify.com/album/2inbqm5YYvaHUE0qYDvhqs) | 4:02 |
 | 6 | [Parasite](https://open.spotify.com/track/30K7aglIX7OcAN8AOtUtdi) | [Daedra](https://open.spotify.com/artist/4Bl3FXav6VIDmSpaHLwpon) | [Parasite](https://open.spotify.com/album/0lNMiKTRk6If56xgUN4fMG) | 3:26 |
 | 7 | [Bitter Seeds](https://open.spotify.com/track/7MOoiJGuFT3EDpWzClCVXJ) | [LASTELLE](https://open.spotify.com/artist/2BB6OyMcGIRSwJQfsmpjKJ) | [Bitter Seeds](https://open.spotify.com/album/32K5uCnkgj4RGRNo5mDOkB) | 4:31 |
 | 8 | [Lie Alone For The Spirits To Mold](https://open.spotify.com/track/5p7OMwE9yZ51iogUilhLxf) | [CELL](https://open.spotify.com/artist/4YQNVGQ28HK3g68Su40onJ) | [Lie Alone For The Spirits To Mold](https://open.spotify.com/album/4EImzPeaJXXlxLF4Oq17Z7) | 3:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 74 | [STAIN](https://open.spotify.com/track/6xcoa669YknFFOICTWrca1) | [Wither//Bloom](https://open.spotify.com/artist/2Zx7gOdSeToesLI2cDQnfd) | [STAIN](https://open.spotify.com/album/5SDokcHTkrn34sa3ljA2As) | 3:18 |
 | 75 | [Dying Wisdom](https://open.spotify.com/track/1HcrY7PKXdn7xGAAtByqff) | [Between The Lakes](https://open.spotify.com/artist/7uLa4LuYx19XT2ssR0zzEp) | [Dying Wisdom](https://open.spotify.com/album/1XPcgHjPblSz9ED1tLKANC) | 4:03 |
 
-Snapshot ID: `aFTc3QAAAAAzv4sHrP89vXpwLxli/fGU`
+Snapshot ID: `aFt0SAAAAAB0reVYe1pHKRUCjg4kDr6p`

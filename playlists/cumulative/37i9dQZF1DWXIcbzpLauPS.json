@@ -13813,6 +13813,28 @@
     },
     {
       "album": {
+        "name": "Nails",
+        "url": "https://open.spotify.com/album/1ajwTG2LVOTs6AZkb19mUR"
+      },
+      "artists": [
+        {
+          "name": "Nathan James",
+          "url": "https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS"
+        },
+        {
+          "name": "Orgy",
+          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Nails",
+      "url": "https://open.spotify.com/track/7aGxbkuTFkAF7HP0DNnuIT"
+    },
+    {
+      "album": {
         "name": "Needle Eye",
         "url": "https://open.spotify.com/album/0KLkR2sswQ1WaUzkTXmFvJ"
       },
@@ -21672,7 +21694,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 232631,
       "name": "Two-Headed Trout",
       "url": "https://open.spotify.com/track/1PYMTjGi39pXt8AkUkdKIA"
@@ -22796,7 +22818,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-16",
+      "date_removed": null,
       "duration_ms": 223746,
       "name": "We Are The Dead (feat. Alex Terrible, Tom Barber)",
       "url": "https://open.spotify.com/track/5dxYpCEtdy4koK4ziTRqma"
@@ -22886,7 +22908,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 233127,
       "name": "What A Time",
       "url": "https://open.spotify.com/track/2mwccIl24NkxUzUyGJJbxA"

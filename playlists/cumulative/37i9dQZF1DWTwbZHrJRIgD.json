@@ -1607,6 +1607,32 @@
     },
     {
       "album": {
+        "name": "Kaalidhar Laapata (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/48IZ9vTK3JTOjZ5wZOMOpf"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Raghav Chaitanya",
+          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
+        },
+        {
+          "name": "Geet Sagar",
+          "url": "https://open.spotify.com/artist/2794Yv56Ut2J2gFz1p7uce"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218724,
+      "name": "Dil Banjaara - From \"Kaalidhar Laapata\"",
+      "url": "https://open.spotify.com/track/7ef4CiVjsaAi6YKIQSrQhR"
+    },
+    {
+      "album": {
         "name": "Dil Behkaaye",
         "url": "https://open.spotify.com/album/2WginyYdZBd5opfBW38Cy0"
       },
@@ -3734,7 +3760,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 210659,
       "name": "Love & Light",
       "url": "https://open.spotify.com/track/5KzNPA2iuR6wXDcwIkmf8t"

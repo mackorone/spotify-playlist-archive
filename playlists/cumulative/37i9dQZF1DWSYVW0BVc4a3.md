@@ -2,7 +2,7 @@
 
 ### [Open Air](https://open.spotify.com/playlist/37i9dQZF1DWSYVW0BVc4a3)
 
-> Rossi & Jazzy with the ID we've been craving!
+> Interplanetary Criminal with the tune of the summer!!
 
 1,270 songs - 3 day 22 hr 37 min
 

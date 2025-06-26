@@ -4,13 +4,13 @@
 
 > Music from “A3!”, Japan’s top anime style mobile games.©Liber Entertainment Inc\. All Rights Reserved.
 
-63 songs - 4 hr 15 min
+64 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Act! Addict! Actors!](https://open.spotify.com/track/71bCzyoEyJYw2A7qN1FBk7) | [A3ders!](https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv) | [Act! Addict! Actors!](https://open.spotify.com/album/1FsYzmUDEFHOmAoymlGDZK) | 3:44 | 2024-07-10 |  |
 | [Beyond The Wall](https://open.spotify.com/track/2UkvxQ8bVgmAFtmqRRNamH) | [高遠丞\(CV:佐藤拓也\)](https://open.spotify.com/artist/3gYjY17THD6OTumZ38dwQr) | [A3! First WINTER EP](https://open.spotify.com/album/4oahcbvpn3vLFvp97Xk8lH) | 4:06 | 2024-08-27 | 2025-02-18 |
-| [Bouquet](https://open.spotify.com/track/1LKSGe8I1w4Myv32mOP4wj) | [東風牡丹\[御影 密\(CV:寺島惇太\)\]](https://open.spotify.com/artist/14g1jNb4iNUNFVC9CWeaAh), [冬野水仙\[月岡 紬\(CV:田丸篤志\)\]](https://open.spotify.com/artist/7nvKZml6ZUbP1s2CflnBBB) | [A3! 冬組第九回公演曲「Bouquet」](https://open.spotify.com/album/6N8HygzF3TLJDRUSIq5K4g) | 3:27 | 2024-07-10 |  |
+| [Bouquet](https://open.spotify.com/track/1LKSGe8I1w4Myv32mOP4wj) | [東風牡丹\[御影 密\(CV:寺島惇太\)\]](https://open.spotify.com/artist/14g1jNb4iNUNFVC9CWeaAh), [冬野水仙\[月岡 紬\(CV:田丸篤志\)\]](https://open.spotify.com/artist/7nvKZml6ZUbP1s2CflnBBB) | [A3! 冬組第九回公演曲「Bouquet」](https://open.spotify.com/album/6N8HygzF3TLJDRUSIq5K4g) | 3:27 | 2024-07-10 | 2025-06-26 |
 | [Bouquet](https://open.spotify.com/track/0EnlY5t4ydwv2dcvks324J) | [東風牡丹\[御影 密\(CV:寺島惇太\)\]](https://open.spotify.com/artist/14g1jNb4iNUNFVC9CWeaAh), [冬野水仙\[月岡 紬\(CV:田丸篤志\)\]](https://open.spotify.com/artist/7nvKZml6ZUbP1s2CflnBBB) | [A3! INNOCENT WINTER EP](https://open.spotify.com/album/37bgwauy7qgeDHkK4YaPE8) | 3:27 | 2025-03-26 | 2025-04-23 |
 | [Circle of Seasons](https://open.spotify.com/track/0INHmCFlkg3oI1vSlonQ0C) | [A3ders!](https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv) | [Circle of Seasons](https://open.spotify.com/album/4wfAkeE04rz5KflrwYW75N) | 3:27 | 2024-07-10 |  |
 | [CROSS LINES](https://open.spotify.com/track/324VYrR88xs3T3Q3f57rhY) | [月岡紬\(CV:田丸篤志\)](https://open.spotify.com/artist/4VaShRsxkpIJRszVDJAXpt) | [A3! SUNNY WINTER EP](https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP) | 3:46 | 2024-07-10 |  |
@@ -52,6 +52,7 @@
 | [むつのはな](https://open.spotify.com/track/1grTVwp3p0V2lXVY8nCDTh) | [冬組](https://open.spotify.com/artist/22TokuezpjqIqb51lUUjah) | [A3! NEW BLOOMING](https://open.spotify.com/album/39v9H4Lc7AGWjkN4PXqOZ0) | 2:42 | 2025-04-22 |  |
 | [エモーション](https://open.spotify.com/track/5NxOxDgcMJSbsGKsfgaxwq) | [有栖川誉\(CV:豊永利行\)](https://open.spotify.com/artist/2PW2GKX6MHXvUzHknb2Vwo) | [A3! SUNNY WINTER EP](https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP) | 2:50 | 2024-07-10 |  |
 | [オレンジ・ハート](https://open.spotify.com/track/6tVi6nk18XyHRwU5p7EDJl) | [夏組](https://open.spotify.com/artist/7wLIjyiaTCF6Cl72GzZuKk) | [Home/オレンジ・ハート](https://open.spotify.com/album/2pFVPFnX4H94kpwM63sLcG) | 4:28 | 2024-07-10 |  |
+| [グラン・ステイの続きを](https://open.spotify.com/track/7J35LjuK6wxl8R1aBaT31n) | [尾張&津々木](https://open.spotify.com/artist/0KgMzgTCOGwIeknvJvN1Tt), [雪白東\(CV:柿原徹也\)](https://open.spotify.com/artist/5jOsh9ZDyWonTu56jdXrlp), [ガイ\(CV:日野聡\)](https://open.spotify.com/artist/7EZcJktHiIdBdcpL6sNOTc) | [A3! EVER LASTING LP](https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA) | 3:49 | 2025-04-22 |  |
 | [ゲキ夏☆Go My Way!](https://open.spotify.com/track/3Au4alj3n6RDNMrKCWXTik) | [夏組](https://open.spotify.com/artist/7wLIjyiaTCF6Cl72GzZuKk) | [A3! NEW BLOOMING](https://open.spotify.com/album/39v9H4Lc7AGWjkN4PXqOZ0) | 3:51 | 2025-04-22 |  |
 | [スーパーウルトライージーモード](https://open.spotify.com/track/6LNAwYwpjOlLRB0FSqk98m) | [摂津万里\(CV:沢城千春\)](https://open.spotify.com/artist/1tQ0ttx4p0OGK374aMxqFh) | [A3! First AUTUMN EP](https://open.spotify.com/album/3Z9ByrJdBMKn4jQVMq7CEn) | 3:58 | 2024-07-10 | 2025-06-04 |
 | [トロイメライと空白](https://open.spotify.com/track/5gP2A1oGmHxGZl1bJ2H9vp) | [御影密\(CV:寺島惇太\)](https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn) | [A3! Blooming WINTER EP](https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT) | 4:19 | 2024-07-10 |  |

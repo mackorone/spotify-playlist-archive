@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Cardi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,343 likes - 49 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,358 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 13 | [Banned From NO \(with Nicki Minaj\) \- Remix](https://open.spotify.com/track/0w6Y7dbsjByFQ8C8LUktto) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tha Carter VI \(Bonus\)](https://open.spotify.com/album/5eczdMiRvq3ZB0ogylQOLD) | 3:23 |
 | 14 | [Stutter](https://open.spotify.com/track/2D4EMFpcXjfQfjxNM5RP96) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Stutter](https://open.spotify.com/album/2nJr8dGQ9LAJ8GJ7LkkCs8) | 2:49 |
 | 15 | [2 Mazza \(feat\. Drake\)](https://open.spotify.com/track/2rKNlxKBZvpSpuIChBdHts) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Don't Box Me In](https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT) | 3:11 |
-| 16 | [Champagne Campaign \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/0JcS4b9ol8GtyOWnDScfcy) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Pria](https://open.spotify.com/artist/3cpIQxX4uvGhuvERtR6f38), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Champagne Campaign \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/7mTBG685KY77kghmLk2CNQ) | 3:10 |
+| 16 | [Champagne Campaign \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/0JcS4b9ol8GtyOWnDScfcy) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Pria](https://open.spotify.com/artist/5tBXHEV8R9NTK39HhAPr3j), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Champagne Campaign \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/7mTBG685KY77kghmLk2CNQ) | 3:10 |
 | 17 | [What I Might Say Next...](https://open.spotify.com/track/1ZET57CP96mEbJCt819OOb) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO) | [Patio Season](https://open.spotify.com/album/7MIBpn1fx9271xk70OtSRk) | 2:54 |
 | 18 | [Four Walls](https://open.spotify.com/track/413Pc87SwoEUIui4hFyGOU) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [The Hics](https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo) | [Melanchronica](https://open.spotify.com/album/3O8PFNPk6h4MIvV6nxPT9k) | 3:56 |
 | 19 | [Won't Stop](https://open.spotify.com/track/4ugKUZExbqbkKXEmbTrTRW) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Won't Stop](https://open.spotify.com/album/1TRulQDa3GYTurukQ91HGB) | 3:01 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten. Cover: Bens ",
+  "description": "Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten. Cover: Trxnz ",
   "name": "Popronde 2025",
   "tracks": [
     {
@@ -2371,6 +2371,24 @@
     },
     {
       "album": {
+        "name": "Nee Man",
+        "url": "https://open.spotify.com/album/1S3MgHn1vZOLvBMgJEBuJ4"
+      },
+      "artists": [
+        {
+          "name": "SKINC",
+          "url": "https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163268,
+      "name": "Nee Man",
+      "url": "https://open.spotify.com/track/6AvqTncKDtZrFtL0c1cc7u"
+    },
+    {
+      "album": {
         "name": "Never Be Alone",
         "url": "https://open.spotify.com/album/2FmqNHHpTiGXPy6DUcSerW"
       },
@@ -4020,7 +4038,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 192387,
       "name": "Zweven",
       "url": "https://open.spotify.com/track/2qnoCyCrUcDv5kbMdYU1V3"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: JERGE
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,751 likes - 99 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,795 likes - 99 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 98 | [Di Mawari](https://open.spotify.com/track/3iDayfbbCjkyfRI1YJFRJu) | [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X), [Yden](https://open.spotify.com/artist/3TrbbmtvHwXSKbBc1tClSV) | [Di Mawari](https://open.spotify.com/album/5JQnL7Dz9Ss6yweEchC3Nq) | 2:53 |
 | 99 | [Kalul’wa](https://open.spotify.com/track/0h8VHbUeVsIaCKlPLIhYDE) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [Kalul’wa](https://open.spotify.com/album/7FGbcJcmn2tXjuaYaoW5BN) | 3:11 |
 
-Snapshot ID: `aFT2qQAAAAAQ7BjJ/XGG869rR2NBY71Z`
+Snapshot ID: `aFuhEgAAAACPSWVoTLgboen/WPtB6rnv`

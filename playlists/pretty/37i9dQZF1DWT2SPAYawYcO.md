@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from The Kid LAROI, Lorde, Benson Boone, sombr, Fred again.., Skepta, PlaqueBoyMax, Benee + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,729 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,738 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

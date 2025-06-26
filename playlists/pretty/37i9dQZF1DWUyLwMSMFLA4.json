@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Asadito a pura cumbia con toques de cuarteto!",
-  "num_followers": 618124,
+  "num_followers": 618166,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2025-06-10 18:11:41",
       "album": {
+        "name": "Rodrigo - Lo mejor del amor",
+        "url": "https://open.spotify.com/album/3mQDJMTkoGWlpOryHdlvlJ"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "duration_ms": 228173,
+      "name": "Lo mejor del amor",
+      "url": "https://open.spotify.com/track/2POTQjCiCtUyUZFNQYlM7z"
+    },
+    {
+      "added_at": "2025-06-10 18:11:41",
+      "album": {
         "name": "Intento (En Vivo)",
         "url": "https://open.spotify.com/album/3UUuCRlQaX3HWZ1HkVuKpb"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 227103,
       "name": "Intento - En Vivo",
       "url": "https://open.spotify.com/track/0YI5vG7XmhB7IAcMJZjvS2"
-    },
-    {
-      "added_at": "2025-06-10 18:11:41",
-      "album": {
-        "name": "Rodrigo - Lo mejor del amor",
-        "url": "https://open.spotify.com/album/3mQDJMTkoGWlpOryHdlvlJ"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "Lo mejor del amor",
-      "url": "https://open.spotify.com/track/2POTQjCiCtUyUZFNQYlM7z"
     },
     {
       "added_at": "2025-06-10 18:11:41",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-06-10 18:11:41",
       "album": {
-        "name": "Con S\u00edndrome de Abstinencia",
-        "url": "https://open.spotify.com/album/7i95yEmVhQq9CaBpwBF2hJ"
-      },
-      "artists": [
-        {
-          "name": "Los Gedes",
-          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "Berretines de Verduga",
-      "url": "https://open.spotify.com/track/0admIwLf8RAXI1l6RyNgh4"
-    },
-    {
-      "added_at": "2025-06-10 18:11:41",
-      "album": {
         "name": "Ll\u00e1mala",
         "url": "https://open.spotify.com/album/2xccm4dQwntRtI0wOlcyel"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 193670,
       "name": "Ll\u00e1mala",
       "url": "https://open.spotify.com/track/2tAMohYwMQEHJxK778NE4o"
+    },
+    {
+      "added_at": "2025-06-10 18:11:41",
+      "album": {
+        "name": "Con S\u00edndrome de Abstinencia",
+        "url": "https://open.spotify.com/album/7i95yEmVhQq9CaBpwBF2hJ"
+      },
+      "artists": [
+        {
+          "name": "Los Gedes",
+          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "Berretines de Verduga",
+      "url": "https://open.spotify.com/track/0admIwLf8RAXI1l6RyNgh4"
     },
     {
       "added_at": "2025-06-10 18:11:41",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-06-10 18:11:41",
       "album": {
-        "name": "Homenaje a Colombia",
-        "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Y Su Combo Negro",
-          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
-        }
-      ],
-      "duration_ms": 493933,
-      "name": "Megaenganchados Dj Tero's",
-      "url": "https://open.spotify.com/track/6XGSD3OQZg7I6tcsOftG34"
-    },
-    {
-      "added_at": "2025-06-10 18:11:41",
-      "album": {
         "name": "En Vivo en el Gran Rex",
         "url": "https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 316993,
       "name": "Ahora Te Vas / Hojita Seca - En Vivo",
       "url": "https://open.spotify.com/track/7vPCMSroBVL5SHTNF3TsxG"
+    },
+    {
+      "added_at": "2025-06-10 18:11:41",
+      "album": {
+        "name": "Homenaje a Colombia",
+        "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Y Su Combo Negro",
+          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
+        }
+      ],
+      "duration_ms": 493933,
+      "name": "Megaenganchados Dj Tero's",
+      "url": "https://open.spotify.com/track/6XGSD3OQZg7I6tcsOftG34"
     },
     {
       "added_at": "2025-06-10 18:11:41",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-06-10 18:11:41",
       "album": {
-        "name": "Grupo Green: 20 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0ERSrEFkJifI5qZzC1oR7h"
-      },
-      "artists": [
-        {
-          "name": "Grupo Green",
-          "url": "https://open.spotify.com/artist/3OSozwQXzKD9PY3M4hfkEW"
-        }
-      ],
-      "duration_ms": 236626,
-      "name": "Fue Un Error",
-      "url": "https://open.spotify.com/track/3ZJPaE87o6BNBujjuSV2f3"
-    },
-    {
-      "added_at": "2025-06-10 18:11:41",
-      "album": {
         "name": "Tu Carcel",
         "url": "https://open.spotify.com/album/14RnASbUlU4WwIl7a4JwFe"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 199898,
       "name": "Tu Carcel",
       "url": "https://open.spotify.com/track/3WA6w55SBpzOfOBjWHDxAG"
+    },
+    {
+      "added_at": "2025-06-10 18:11:41",
+      "album": {
+        "name": "Grupo Green: 20 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0ERSrEFkJifI5qZzC1oR7h"
+      },
+      "artists": [
+        {
+          "name": "Grupo Green",
+          "url": "https://open.spotify.com/artist/3OSozwQXzKD9PY3M4hfkEW"
+        }
+      ],
+      "duration_ms": 236626,
+      "name": "Fue Un Error",
+      "url": "https://open.spotify.com/track/3ZJPaE87o6BNBujjuSV2f3"
     },
     {
       "added_at": "2025-06-10 18:11:41",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-06-10 18:11:41",
       "album": {
+        "name": "25 A\u00f1os (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5Br3icgpgWZFf9Z4pKM7qx"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cali",
+          "url": "https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k"
+        }
+      ],
+      "duration_ms": 123419,
+      "name": "Amor de chat",
+      "url": "https://open.spotify.com/track/0tsgY4lyqRz1mHeUNqL1Ld"
+    },
+    {
+      "added_at": "2025-06-10 18:11:41",
+      "album": {
         "name": "CHAU - ME PUEDO EQUIVOCAR",
         "url": "https://open.spotify.com/album/0KxXrRGHFioyE9zxsMbsw8"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 166228,
       "name": "CHAU - ME PUEDO EQUIVOCAR",
       "url": "https://open.spotify.com/track/136S30OIqASMPolggdlhs1"
-    },
-    {
-      "added_at": "2025-06-10 18:11:41",
-      "album": {
-        "name": "25 A\u00f1os (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5Br3icgpgWZFf9Z4pKM7qx"
-      },
-      "artists": [
-        {
-          "name": "Grupo Cali",
-          "url": "https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k"
-        }
-      ],
-      "duration_ms": 123419,
-      "name": "Amor de chat",
-      "url": "https://open.spotify.com/track/0tsgY4lyqRz1mHeUNqL1Ld"
     },
     {
       "added_at": "2025-06-10 18:11:41",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-06-10 18:11:41",
       "album": {
-        "name": "En Directo - Piel Con Piel",
-        "url": "https://open.spotify.com/album/6AsaITRESy0yBVHxo7GNtQ"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 97466,
-      "name": "Conmigo Te Gust\u00f3",
-      "url": "https://open.spotify.com/track/43DJZnMU894sjYBDx6HHO8"
-    },
-    {
-      "added_at": "2025-06-10 18:11:41",
-      "album": {
         "name": "Sin Miedo: Un Tiro - Ra\u00fal Ramirez (Sessiones con P\u00fablico) [En Vivo]",
         "url": "https://open.spotify.com/album/6EwZ8CnSFgD8IKvwbhToc0"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 116579,
       "name": "El Humo del Cigarrillo - En Vivo",
       "url": "https://open.spotify.com/track/1d3bKbNVwO3YgXPAi3YrI9"
+    },
+    {
+      "added_at": "2025-06-10 18:11:41",
+      "album": {
+        "name": "En Directo - Piel Con Piel",
+        "url": "https://open.spotify.com/album/6AsaITRESy0yBVHxo7GNtQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 97466,
+      "name": "Conmigo Te Gust\u00f3",
+      "url": "https://open.spotify.com/track/43DJZnMU894sjYBDx6HHO8"
     },
     {
       "added_at": "2025-06-10 18:11:41",

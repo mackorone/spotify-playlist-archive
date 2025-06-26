@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125237,
+  "num_followers": 125238,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUPqQXmtbw/hCtwD1HTNwsAiWxq15m",
+  "snapshot_id": "AAAUPxEU0Yp0FCzWZG5UgFXE6W+GvxCX",
   "tracks": [
+    {
+      "added_at": "2025-06-25 14:05:14",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/6xOIqG0yH0Ejwg6wROcPDc"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        },
+        {
+          "name": "WELON",
+          "url": "https://open.spotify.com/artist/0fegs2UgMTsicSZ00z3HJQ"
+        }
+      ],
+      "duration_ms": 182291,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/6ZcnuLd0mWgqseSnxTFMRF"
+    },
     {
       "added_at": "2025-06-24 14:53:26",
       "album": {

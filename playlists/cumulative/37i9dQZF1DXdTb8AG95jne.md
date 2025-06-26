@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Zior Park\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-979 songs - 2 day 11 hr 36 min
+980 songs - 2 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [ATS](https://open.spotify.com/track/4awYkzuPq6RjFvg1DdZrkh) | [Doorlesshouse](https://open.spotify.com/artist/0SxSWgWdwhijvB7pMMRdKy) | [ATS](https://open.spotify.com/album/2jM0XGWTsQAF6RKn4dQ5RN) | 3:29 | 2025-06-11 | 2025-06-13 |
 | [BABEL](https://open.spotify.com/track/5uzR8Dr8tGWWasQbHKBOoC) | [Ahn Dayoung](https://open.spotify.com/artist/3YaTzrZaXXljeI8vpvzyBX) | [BABEL](https://open.spotify.com/album/3CApRJRL9vFGado5MZCExF) | 4:48 | 2022-12-30 | 2023-01-05 |
 | [Baby I Need You](https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Baby I Need You](https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf) | 3:35 | 2022-03-31 |  |
+| [Baby Step \(feat\. siso\)](https://open.spotify.com/track/2s32yDDsDOnDAuIQ24h1QP) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Baby Step](https://open.spotify.com/album/2mZfRTmfhY6eQXYcfIqxRq) | 3:01 | 2025-06-26 |  |
 | [Bad Person](https://open.spotify.com/track/3IAHKvtU56oGcp2dagV3pS) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Default](https://open.spotify.com/album/4P8nciEu4ohngeo77oex4u) | 3:16 | 2024-03-20 | 2024-05-10 |
 | [Bad Thinkin'](https://open.spotify.com/track/6LaJ5XmWySED10xKG3edR7) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs) | [Bad Thinkin'](https://open.spotify.com/album/7xKsX3msABCAOOpcl7j6HQ) | 2:44 | 2024-06-06 | 2024-06-19 |
 | [Balance](https://open.spotify.com/track/03uTYVaTJWVvxYcnysHrtr) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [Balance](https://open.spotify.com/album/1jh1crUoD4vl5c0KangkX4) | 3:03 | 2022-03-31 | 2022-04-21 |
@@ -605,7 +606,7 @@
 | [Orange, You’re Not a Joke to Me!](https://open.spotify.com/track/6eAVfkbRov3Md8RmQJrZb9) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Orange, You’re Not a Joke to Me!](https://open.spotify.com/album/1dmR4oRQ2rGx8uOVN0Ml6o) | 3:40 | 2023-06-22 | 2024-05-01 |
 | [Ordinary Loneliness](https://open.spotify.com/track/5O4VdhbB1PY0P0t9VyB98G) | [MOVNING](https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn) | [Ordinary Loneliness](https://open.spotify.com/album/5b2HkRfL1LVo0ygJRg9XaN) | 3:04 | 2024-04-30 | 2024-05-10 |
 | [Ore Ore](https://open.spotify.com/track/117iiDCER0g58tWunlfR57) | [Se.A](https://open.spotify.com/artist/68Jz1SO82dTTPJyfdg6MBp) | [Ore Ore](https://open.spotify.com/album/3ylsJVPXRGtb5PQhSyjjGo) | 2:44 | 2022-03-31 | 2022-07-07 |
-| [Origin Of Error](https://open.spotify.com/track/4i0eMMIu0uwJb1bE4bHG7R) | [nuni](https://open.spotify.com/artist/1v331qSkk6mjVs9DVy4wOc) | [Origin Of Error](https://open.spotify.com/album/7pgvqdVuPAQ4zLdo0kePaI) | 2:32 | 2025-06-17 |  |
+| [Origin Of Error](https://open.spotify.com/track/4i0eMMIu0uwJb1bE4bHG7R) | [nuni](https://open.spotify.com/artist/1v331qSkk6mjVs9DVy4wOc) | [Origin Of Error](https://open.spotify.com/album/7pgvqdVuPAQ4zLdo0kePaI) | 2:32 | 2025-06-17 | 2025-06-26 |
 | [Our Forgiveness](https://open.spotify.com/track/6xVlRWDlQDna2yVCwOPE30) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Our Forgiveness](https://open.spotify.com/album/1K8aYJrq8a8WiwNniSuzrw) | 3:19 | 2022-09-05 | 2022-09-21 |
 | [Over \(feat\. Minna Seo\)](https://open.spotify.com/track/73yIDUabO9HGpA71KsMwIP) | [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq), [Minna Seo](https://open.spotify.com/artist/783H2R3PrEaeM1WHym8B4R) | [Over \(feat\. Minna Seo\)](https://open.spotify.com/album/0Hh6ZWhJU9WzsN8PMEscEh) | 3:49 | 2024-04-30 | 2024-05-10 |
 | [Over and Over](https://open.spotify.com/track/2yMc8rJg9XROTMtfaTgHuw) | [MOTIP](https://open.spotify.com/artist/20qBalVGALu6sj3UseuAcr) | [Over and Over](https://open.spotify.com/album/3NkbXALAlXHCwTZhx35wVm) | 3:23 | 2021-12-21 | 2022-07-10 |

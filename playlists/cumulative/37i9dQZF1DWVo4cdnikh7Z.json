@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New Music from Kollywood.\nCover : Thug Life",
+  "description": "New Music from Kollywood.\nCover : Coolie",
   "name": "Latest Tamil",
   "tracks": [
     {
@@ -240,7 +240,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 205920,
       "name": "Aachaley - From \"Tourist Family\"",
       "url": "https://open.spotify.com/track/703V6M54kSw0NISPns5wWD"
@@ -6731,6 +6731,32 @@
     },
     {
       "album": {
+        "name": "Chikitu (From \"Coolie\") (Tamil)",
+        "url": "https://open.spotify.com/album/3P9Jdtp9NVxqWVEusCbw5K"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "T. Rajendar",
+          "url": "https://open.spotify.com/artist/4UDzzsfKqZUs5bDy3cisle"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216081,
+      "name": "Chikitu (From \"Coolie\") (Tamil)",
+      "url": "https://open.spotify.com/track/5L9BSBipkfupud0335Mhjj"
+    },
+    {
+      "album": {
         "name": "Chikitu Vibe (From \"Coolie\")",
         "url": "https://open.spotify.com/album/3rawORcH9av8a4xPpPqWEG"
       },
@@ -12444,7 +12470,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 205838,
       "name": "I'll Be There For You - From \"Sweetheart\"",
       "url": "https://open.spotify.com/track/67nTWJ1sWKw0xJRWkRD1NV"
@@ -16666,7 +16692,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 209538,
       "name": "Kanavellam - From \"3BHK\"",
       "url": "https://open.spotify.com/track/2uaVmUsrF5bGQFd7zn65gk"
@@ -33106,6 +33132,36 @@
       "duration_ms": 279512,
       "name": "Rishivanamthane (From \"Shaakuntalam\") [Tamil]",
       "url": "https://open.spotify.com/track/2lT6aZj64hnsR4epxNrOZ4"
+    },
+    {
+      "album": {
+        "name": "Roar Of Narsimha (Tamil) [From \"Mahavatar Narsimha\"]",
+        "url": "https://open.spotify.com/album/0S73ax3hmHVRZNuqh58jEj"
+      },
+      "artists": [
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "D. Mohan Dev",
+          "url": "https://open.spotify.com/artist/2Lc6Q39MTMjdBvTmgI98Nd"
+        },
+        {
+          "name": "D.Mohan Kumar",
+          "url": "https://open.spotify.com/artist/1ZNjvrF2WSxwtLYrPIPfQQ"
+        },
+        {
+          "name": "the shloka",
+          "url": "https://open.spotify.com/artist/6oo6QIEtGBm3SGMogP5YAl"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128142,
+      "name": "Roar Of Narsimha (Tamil) - From \"Mahavatar Narasimha\"",
+      "url": "https://open.spotify.com/track/6mhnzBPPxszAn92QyhskSo"
     },
     {
       "album": {

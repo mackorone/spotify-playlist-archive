@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: Childlike CiCi
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,762 likes - 280 songs - 12 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,774 likes - 280 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Party In The Heavens](https://open.spotify.com/track/1EyepB7ICIhTcpClRqfiwE) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [All We Like Sheep](https://open.spotify.com/album/0uai0ffJo9dW1cjw4h9Gw6) | 3:14 |
-| 2 | [Alright](https://open.spotify.com/track/3yrhr8lDXzx83tfhwvp7wy) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Baby Truth](https://open.spotify.com/artist/3JSZUZkyZbG583ywTOr4tD) | [Alright](https://open.spotify.com/album/3SHL8OJzYcVZxStR0NOH1c) | 3:19 |
+| 2 | [Alright](https://open.spotify.com/track/3yrhr8lDXzx83tfhwvp7wy) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [Baby Truth](https://open.spotify.com/artist/3JSZUZkyZbG583ywTOr4tD), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Alright](https://open.spotify.com/album/3SHL8OJzYcVZxStR0NOH1c) | 3:19 |
 | 3 | [Family](https://open.spotify.com/track/3pVA1oLz2jBMAOMkYptPUc) | [MTM Isaiah](https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy), [Shawndy](https://open.spotify.com/artist/78ZSK6zK7PhCnupbcNaTht) | [Family](https://open.spotify.com/album/4dKAm72LKleIlPvGFsDH1S) | 2:33 |
 | 4 | [SEEK](https://open.spotify.com/track/1apkmCkiKMYizWGJLIHrF9) | [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [SEEK](https://open.spotify.com/album/3kOXgl4oYG8SdmijpfEAOp) | 2:41 |
 | 5 | [R U READY?](https://open.spotify.com/track/5eL9PVJaMcfQbRShRyFgmq) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [BURKS](https://open.spotify.com/artist/3xSb1IsvobiCiuhtKokzqr) | [R U READY?](https://open.spotify.com/album/3UNYERSMlwdq7lJCqQTJBD) | 3:21 |

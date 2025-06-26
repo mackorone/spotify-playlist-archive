@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-4,426 songs - 10 day 4 hr 53 min
+4,427 songs - 10 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4264,6 +4264,7 @@
 | [When He's Not There \(feat\. Lucky Daye\)](https://open.spotify.com/track/0uYBQGchK3LIkNpxnrA6k7) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [While We Wait 2](https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA) | 4:28 | 2024-08-29 | 2024-09-07 |
 | [When I Feel It](https://open.spotify.com/track/2Pz1LM9mjuGUscM4gk6GME) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation Of Mimi \(20th Anniversary Edition\)](https://open.spotify.com/album/0O4U8aVbBcWrq38ax0T6AO) | 3:09 | 2025-05-30 | 2025-06-07 |
 | [When the Light Goes \(feat\. Portugal\. The Man\)](https://open.spotify.com/track/42LosPywlCAQnvtZf4hK46) | [Marcin](https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dragon in Harmony](https://open.spotify.com/album/7BiKEf58x9WCD7ysIWCLYC) | 3:18 | 2024-09-13 | 2024-09-21 |
+| [When This Is Over](https://open.spotify.com/track/7xPVO9T4tnz7SFGGbHc7s5) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [When This Is Over](https://open.spotify.com/album/64s9ludX1CjfPAlCdmmBWa) | 4:24 | 2025-06-25 |  |
 | [When We Kiss](https://open.spotify.com/track/2OlFA7WMfBtr1JvONddJaI) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [When We Kiss](https://open.spotify.com/album/1GPY2MwnSFIT0zVyKaeO0L) | 3:32 | 2025-01-10 | 2025-01-18 |
 | [When You're Outside](https://open.spotify.com/track/1fLmcPjLoj1igBjEzCORep) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG) | [When You're Outside](https://open.spotify.com/album/2S4CHxXlNxM2b54Jwh8TfO) | 3:03 | 2024-05-09 | 2024-05-18 |
 | [Whenever](https://open.spotify.com/track/4oVUfLx1BVgXbPXc0MlPkr) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Whenever](https://open.spotify.com/album/72PmiHAfjlwVxpWWgiHowx) | 2:45 | 2025-04-25 | 2025-05-10 |

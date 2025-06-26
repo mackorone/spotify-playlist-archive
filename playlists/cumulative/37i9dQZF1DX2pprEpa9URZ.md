@@ -4,7 +4,7 @@
 
 > Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-485 songs - 2 day 1 hr 7 min
+486 songs - 2 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Me Gusta \- AMÉMÉ Remix](https://open.spotify.com/track/4RQjpPh7CNR14YyZAwVB1o) | [AZZUR](https://open.spotify.com/artist/4hCr8iPcZafmAQ8quCnqm2), [Meloko](https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg), [Baron \(FR\)](https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3), [Selim Sivade](https://open.spotify.com/artist/6zQCqwr5oCLdfbvY3n3LIn), [Konvex \(FR\)](https://open.spotify.com/artist/39vERtaB8quqGRumGCILC3), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Me Gusta \(AMÉMÉ Remix\)](https://open.spotify.com/album/0qjrSdCW8LITJxRxAqkiE0) | 3:29 | 2025-01-15 | 2025-01-28 |
 | [Med Cezir](https://open.spotify.com/track/3IORFEefvy2wyFtvih96Xd) | [Derun](https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo) | [Med Cezir](https://open.spotify.com/album/50yjQLitPNv4AIUbn8b0vs) | 7:32 | 2022-02-04 | 2022-04-21 |
 | [Meigallo \(Matias Aguayo Remix\)](https://open.spotify.com/track/7tDbFscaADIXxZJKV3se7a) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [Lilaina](https://open.spotify.com/artist/0tyBq40GhIuFlZERtHbONh), [Matias Aguayo](https://open.spotify.com/artist/7daexEpVdKDbvlUHZ2rWbe) | [Meigallo \(Matias Aguayo Remix\)](https://open.spotify.com/album/1CqPXmacI6CoVz7m5gAiyf) | 5:26 | 2022-04-04 | 2022-04-18 |
+| [Meka](https://open.spotify.com/track/6YPiDqUt8ITVVOqMBabOSB) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Meka](https://open.spotify.com/album/49ZzIScqGDeC3Hno8pS5jz) | 3:14 | 2025-06-23 |  |
 | [Memphis](https://open.spotify.com/track/5xVCf8z2hgLCa7Vmp7L9c7) | [Anton Ishutin](https://open.spotify.com/artist/0RhuWNLtoucVMRmsSkCgWl) | [Memphis](https://open.spotify.com/album/2gLRbGdOqB0o67CGffy25z) | 6:57 | 2022-11-25 | 2023-02-01 |
 | [Mencitaimu](https://open.spotify.com/track/0pivFXWc9scNbb0HChzrRq) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [Mencitaimu](https://open.spotify.com/album/6gfwj35LdW08bmGXxNXvYf) | 8:08 | 2021-10-16 | 2022-07-28 |
 | [Mendy](https://open.spotify.com/track/5Q7qGtuvkWMyx0P3wlDIWp) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Mendy](https://open.spotify.com/album/036KVUHoYSZvCHZMoH561d) | 5:54 | 2025-06-09 | 2025-06-13 |
@@ -465,7 +466,7 @@
 | [War](https://open.spotify.com/track/4tFSTI3avUHyBZHeTcCB7r) | [Peré Oudav](https://open.spotify.com/artist/0SUtMyEoZZCh59W23tlR51) | [Penta](https://open.spotify.com/album/775U4UaxMqynHWGH5SEBjQ) | 3:37 | 2019-08-02\* | 2021-07-10 |
 | [Warbler](https://open.spotify.com/track/50nAU2kkU1ztMzZa2MBbC8) | [Atish](https://open.spotify.com/artist/78RY8tWBNtm7UkMImOTpjT) | [Warbler](https://open.spotify.com/album/0AtY5Eiapkqn7cOh1rAaCs) | 6:48 | 2019-12-31 | 2020-01-01 |
 | [Wawanko](https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Limbo EP](https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m) | 6:41 | 2023-03-25 | 2025-03-25 |
-| [Way Back](https://open.spotify.com/track/7cfFMlr9FEIc3WVBZwpnJJ) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Way Back EP](https://open.spotify.com/album/4APn6rJ9usEWuxf6LDYdZF) | 6:18 | 2025-05-19 |  |
+| [Way Back](https://open.spotify.com/track/7cfFMlr9FEIc3WVBZwpnJJ) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Way Back EP](https://open.spotify.com/album/4APn6rJ9usEWuxf6LDYdZF) | 6:18 | 2025-05-19 | 2025-06-26 |
 | [Welch](https://open.spotify.com/track/35CulkdeOp56VVBE4dWcQm) | [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq), [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h) | [Lost Desert & Friends](https://open.spotify.com/album/4rN0SCNvUGxf1STQFXTKJR) | 9:14 | 2020-06-29 | 2022-06-04 |
 | [When The Interlude Sounds Like Falling Rain](https://open.spotify.com/track/5lWVqc9kPplvlDmLtFls02) | [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [What Are You Into EP](https://open.spotify.com/album/183EsSJ8hyU265cYqlqIue) | 5:00 | 2019-08-02\* | 2022-02-25 |
 | [When the Saints Go Marching Out](https://open.spotify.com/track/3dcXQbk2KsM5pPjqF3KXyg) | [Noema](https://open.spotify.com/artist/3jSvMIKT2Eo5mNvYN9ownN), [Dandara](https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4) | [Mind at Large \(Compiled by Noema\)](https://open.spotify.com/album/47vGjE4xrYvTGwr6c3KLP7) | 6:39 | 2021-10-05 | 2022-07-20 |

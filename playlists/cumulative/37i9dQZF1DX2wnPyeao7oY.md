@@ -4,7 +4,7 @@
 
 > New music by the heaviest independent artists every Wednesday\. Cover: Chained Saint
 
-304 songs - 17 hr 59 min
+305 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,11 +98,12 @@
 | [Dopamine](https://open.spotify.com/track/7a957bW9KUpPX1mSS8d0gX) | [TheCityIsOurs](https://open.spotify.com/artist/5Zsmx4eGounUJ1Hqq6tIQs) | [Dopamine](https://open.spotify.com/album/4RATESTmyJlh2WatpjnVSI) | 3:43 | 2025-01-22 | 2025-04-24 |
 | [Dreamers](https://open.spotify.com/track/4oWEx37CIWFR77DOWNBRIs) | [Paradise Slaves](https://open.spotify.com/artist/1EuNDbf2DWqsa9cSgHT1Mm) | [Dreamers](https://open.spotify.com/album/1qHPriX7LHRbmHGipxiejc) | 3:40 | 2025-02-05 |  |
 | [Dreamless Error](https://open.spotify.com/track/6A0SzjxLOVvYkOfcOmgqEa) | [Collapsed Skull](https://open.spotify.com/artist/4U7G6juzid1EvmQDCSehhM), [Brody King](https://open.spotify.com/artist/00kwyTyFLJgTFcT4o5jaA4) | [Dreamless Error](https://open.spotify.com/album/6Gz6dpMOlMJkxk44VB4zsx) | 1:15 | 2024-08-14 | 2024-09-12 |
-| [drown](https://open.spotify.com/track/6kXWQ9AqYQ6p04P5BBH4m6) | [Shallow Truths](https://open.spotify.com/artist/132H63dzJPRFR7Ckc1Gedg) | [drown](https://open.spotify.com/album/3PYL7TAV9FIaKTyFclcD4S) | 3:18 | 2025-03-19 |  |
+| [drown](https://open.spotify.com/track/6kXWQ9AqYQ6p04P5BBH4m6) | [Shallow Truths](https://open.spotify.com/artist/132H63dzJPRFR7Ckc1Gedg) | [drown](https://open.spotify.com/album/3PYL7TAV9FIaKTyFclcD4S) | 3:18 | 2025-03-19 | 2025-06-26 |
 | [dub driving](https://open.spotify.com/track/0KQDSpucaDhVKHxQGfdHgQ) | [Petit Brabancon](https://open.spotify.com/artist/0hS6BAggi7bO0BrnJLg8Ad) | [Seven Garbage Born of Hatred](https://open.spotify.com/album/0ABjbNJguBMmTbwBc1dN1c) | 3:30 | 2024-08-14 | 2024-09-26 |
 | [dub driving](https://open.spotify.com/track/3ItSI6Dlhs5S1sBR0PrIxA) | [Petit Brabancon](https://open.spotify.com/artist/0hS6BAggi7bO0BrnJLg8Ad) | [Seven Garbage Born of Hatred](https://open.spotify.com/album/6RSowKOO6WD9dYx5C60oqI) | 3:30 | 2024-08-21 | 2024-08-29 |
 | [Dying Wisdom](https://open.spotify.com/track/1HcrY7PKXdn7xGAAtByqff) | [Between The Lakes](https://open.spotify.com/artist/7uLa4LuYx19XT2ssR0zzEp) | [Dying Wisdom](https://open.spotify.com/album/1XPcgHjPblSz9ED1tLKANC) | 4:03 | 2025-02-19 |  |
 | [EARN YOUR FLOWERS](https://open.spotify.com/track/7phSReNlStY9XckxYd7ZnB) | [Monument Of A Memory](https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ) | [CYNICAL SAVIOR](https://open.spotify.com/album/3HT9dHaFwzou0WDz0dn98m) | 3:04 | 2025-05-09 | 2025-06-07 |
+| [Elated](https://open.spotify.com/track/4pHlVnvaYF6P5Mrj1yDKLn) | [Sienna Skies](https://open.spotify.com/artist/4BwB9qh4daa8ecVPY9Qlo3) | [Elated](https://open.spotify.com/album/2inbqm5YYvaHUE0qYDvhqs) | 4:02 | 2025-06-25 |  |
 | [Enemy](https://open.spotify.com/track/00ceuiRFVp7cPUql3uuzT0) | [Death Reapers](https://open.spotify.com/artist/4eqGcsDsxOgKwrzKweWhdb) | [Enemy](https://open.spotify.com/album/4Tuji7aho6GeRQ9dZKd1K6) | 4:33 | 2025-05-23 | 2025-05-31 |
 | [Erased](https://open.spotify.com/track/7yf0LDU3t1O66WaK0vhA3n) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [Mono No Aware](https://open.spotify.com/album/3GEwDcMpCEbF7u5LpWnOyn) | 3:36 | 2024-08-07 | 2025-01-23 |
 | [Ethereal](https://open.spotify.com/track/04oKNMlc4YYWGRXS8NOdGt) | [Prospective](https://open.spotify.com/artist/0HV13XD3wrHiWmP0vnLeuS) | [Ethereal](https://open.spotify.com/album/1yw62H3IO5aBAjNy4HpySd) | 3:02 | 2024-10-25 | 2024-12-05 |

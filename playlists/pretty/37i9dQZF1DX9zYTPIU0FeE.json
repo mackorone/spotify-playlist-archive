@@ -1,6 +1,6 @@
 {
   "description": "In loving memory of the legendary Bra Feya Faku. ",
-  "num_followers": 11112,
+  "num_followers": 11144,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2025-06-24 13:36:01",
       "album": {
+        "name": "The Beyond",
+        "url": "https://open.spotify.com/album/5xTKYO7RjVCdaROa9kvBcN"
+      },
+      "artists": [
+        {
+          "name": "Shane Cooper",
+          "url": "https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ"
+        }
+      ],
+      "duration_ms": 105500,
+      "name": "The Beyond",
+      "url": "https://open.spotify.com/track/1CFaQyXq0nSHSBQ9AAALDQ"
+    },
+    {
+      "added_at": "2025-06-24 13:36:01",
+      "album": {
         "name": "Ndilapha",
         "url": "https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 346924,
       "name": "kulungile feat. Nduduzo Makhathini",
       "url": "https://open.spotify.com/track/3jL3VTSda3kOBlTkQdd6aL"
-    },
-    {
-      "added_at": "2025-06-24 13:36:01",
-      "album": {
-        "name": "The Beyond",
-        "url": "https://open.spotify.com/album/5xTKYO7RjVCdaROa9kvBcN"
-      },
-      "artists": [
-        {
-          "name": "Shane Cooper",
-          "url": "https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ"
-        }
-      ],
-      "duration_ms": 105500,
-      "name": "The Beyond",
-      "url": "https://open.spotify.com/track/1CFaQyXq0nSHSBQ9AAALDQ"
     },
     {
       "added_at": "2025-06-24 13:36:01",
@@ -287,6 +287,26 @@
     {
       "added_at": "2025-06-24 13:36:01",
       "album": {
+        "name": "When We Love",
+        "url": "https://open.spotify.com/album/6Unyfiu2vf5ylGeSOuQm4S"
+      },
+      "artists": [
+        {
+          "name": "Tutu Puoane",
+          "url": "https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        }
+      ],
+      "duration_ms": 338800,
+      "name": "When We Love",
+      "url": "https://open.spotify.com/track/0xJhuT46JCo3KcE8EECp4e"
+    },
+    {
+      "added_at": "2025-06-24 13:36:01",
+      "album": {
         "name": "Sankofa",
         "url": "https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy"
       },
@@ -303,6 +323,22 @@
       "duration_ms": 243046,
       "name": "xandibona wena feat. Thandi Ntuli",
       "url": "https://open.spotify.com/track/2i34qxXLo879bdRYDwyhQN"
+    },
+    {
+      "added_at": "2025-06-24 13:36:01",
+      "album": {
+        "name": "Our People",
+        "url": "https://open.spotify.com/album/2wyTG0UqnHXTJ4FffxJ9PS"
+      },
+      "artists": [
+        {
+          "name": "NLite.",
+          "url": "https://open.spotify.com/artist/1LtjSJhBTIHe7auEuEg7VZ"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "Our People",
+      "url": "https://open.spotify.com/track/4knK9nXhnH4k01cVOo33jj"
     },
     {
       "added_at": "2025-06-24 13:36:01",
@@ -339,58 +375,6 @@
     {
       "added_at": "2025-06-24 13:36:01",
       "album": {
-        "name": "Our People",
-        "url": "https://open.spotify.com/album/2wyTG0UqnHXTJ4FffxJ9PS"
-      },
-      "artists": [
-        {
-          "name": "NLite.",
-          "url": "https://open.spotify.com/artist/1LtjSJhBTIHe7auEuEg7VZ"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "Our People",
-      "url": "https://open.spotify.com/track/4knK9nXhnH4k01cVOo33jj"
-    },
-    {
-      "added_at": "2025-06-24 13:36:01",
-      "album": {
-        "name": "When We Love",
-        "url": "https://open.spotify.com/album/6Unyfiu2vf5ylGeSOuQm4S"
-      },
-      "artists": [
-        {
-          "name": "Tutu Puoane",
-          "url": "https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH"
-        },
-        {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
-        }
-      ],
-      "duration_ms": 338800,
-      "name": "When We Love",
-      "url": "https://open.spotify.com/track/0xJhuT46JCo3KcE8EECp4e"
-    },
-    {
-      "added_at": "2025-06-24 13:36:01",
-      "album": {
-        "name": "Sankofa",
-        "url": "https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy"
-      },
-      "artists": [
-        {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
-        }
-      ],
-      "duration_ms": 273676,
-      "name": "Biko speaks",
-      "url": "https://open.spotify.com/track/3DO5GGvpcfOkqIOG68trdd"
-    },
-    {
-      "added_at": "2025-06-24 13:36:01",
-      "album": {
         "name": "The Crossover II",
         "url": "https://open.spotify.com/album/3jyWT4o0KD5VMAuUAJM5BE"
       },
@@ -415,18 +399,18 @@
     {
       "added_at": "2025-06-24 13:36:01",
       "album": {
-        "name": "iLadi",
-        "url": "https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL"
+        "name": "Sankofa",
+        "url": "https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy"
       },
       "artists": [
         {
-          "name": "Linda Sikhakhane",
-          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
         }
       ],
-      "duration_ms": 414587,
-      "name": "iGosa",
-      "url": "https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK"
+      "duration_ms": 273676,
+      "name": "Biko speaks",
+      "url": "https://open.spotify.com/track/3DO5GGvpcfOkqIOG68trdd"
     },
     {
       "added_at": "2025-06-24 13:36:01",
@@ -443,6 +427,22 @@
       "duration_ms": 418730,
       "name": "Clarion Call",
       "url": "https://open.spotify.com/track/5GIVW2BPGiHThDoCaMpWmq"
+    },
+    {
+      "added_at": "2025-06-24 13:36:01",
+      "album": {
+        "name": "iLadi",
+        "url": "https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL"
+      },
+      "artists": [
+        {
+          "name": "Linda Sikhakhane",
+          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
+        }
+      ],
+      "duration_ms": 414587,
+      "name": "iGosa",
+      "url": "https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK"
     },
     {
       "added_at": "2025-06-24 13:36:01",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-06-24 13:36:01",
       "album": {
-        "name": "The Seed",
-        "url": "https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8"
-      },
-      "artists": [
-        {
-          "name": "Rorisang Sechele",
-          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
-        }
-      ],
-      "duration_ms": 271705,
-      "name": "The Anchor",
-      "url": "https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89"
-    },
-    {
-      "added_at": "2025-06-24 13:36:01",
-      "album": {
         "name": "Water from an Ancient Well",
         "url": "https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 244278,
       "name": "Water from an Ancient Well - Single Edit",
       "url": "https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj"
+    },
+    {
+      "added_at": "2025-06-24 13:36:01",
+      "album": {
+        "name": "The Seed",
+        "url": "https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8"
+      },
+      "artists": [
+        {
+          "name": "Rorisang Sechele",
+          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
+        }
+      ],
+      "duration_ms": 271705,
+      "name": "The Anchor",
+      "url": "https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89"
     },
     {
       "added_at": "2025-06-24 13:36:01",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-06-24 13:36:01",
       "album": {
-        "name": "Born Coloured, not Born-Free",
-        "url": "https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Jephta",
-          "url": "https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W"
-        }
-      ],
-      "duration_ms": 334300,
-      "name": "Gadija (Pt. 1)",
-      "url": "https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh"
-    },
-    {
-      "added_at": "2025-06-24 13:36:01",
-      "album": {
         "name": "Africa",
         "url": "https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 236202,
       "name": "Africa",
       "url": "https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP"
+    },
+    {
+      "added_at": "2025-06-24 13:36:01",
+      "album": {
+        "name": "Born Coloured, not Born-Free",
+        "url": "https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Jephta",
+          "url": "https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W"
+        }
+      ],
+      "duration_ms": 334300,
+      "name": "Gadija (Pt. 1)",
+      "url": "https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh"
     },
     {
       "added_at": "2025-06-24 13:36:01",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-06-24 13:36:01",
       "album": {
-        "name": "A Dance More Sweetly Played",
-        "url": "https://open.spotify.com/album/46foYmXHYg5B9s8F1tg9J7"
-      },
-      "artists": [
-        {
-          "name": "Kyle Shepherd Trio",
-          "url": "https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx"
-        }
-      ],
-      "duration_ms": 348186,
-      "name": "For Oumou Sangar\u00e9",
-      "url": "https://open.spotify.com/track/1Xhykv3oYhzPW178eqA6X7"
-    },
-    {
-      "added_at": "2025-06-24 13:36:01",
-      "album": {
         "name": "Wrapped in Rhythm, Vol. 1",
         "url": "https://open.spotify.com/album/1QkGdyJI5qlYxUcwTTna8i"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 210280,
       "name": "Together",
       "url": "https://open.spotify.com/track/1m3FOsWgYb3bSdWTT7ts2a"
+    },
+    {
+      "added_at": "2025-06-24 13:36:01",
+      "album": {
+        "name": "A Dance More Sweetly Played",
+        "url": "https://open.spotify.com/album/46foYmXHYg5B9s8F1tg9J7"
+      },
+      "artists": [
+        {
+          "name": "Kyle Shepherd Trio",
+          "url": "https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx"
+        }
+      ],
+      "duration_ms": 348186,
+      "name": "For Oumou Sangar\u00e9",
+      "url": "https://open.spotify.com/track/1Xhykv3oYhzPW178eqA6X7"
     },
     {
       "added_at": "2025-06-24 13:36:01",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-06-24 13:36:01",
       "album": {
+        "name": "Inkehli",
+        "url": "https://open.spotify.com/album/5HSsIxH98Ic7Mw0k12cmSm"
+      },
+      "artists": [
+        {
+          "name": "Linda Sikhakhane",
+          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
+        }
+      ],
+      "duration_ms": 413864,
+      "name": "Inkehli",
+      "url": "https://open.spotify.com/track/2sCSm8uWxprJbkwqk4roTs"
+    },
+    {
+      "added_at": "2025-06-24 13:36:01",
+      "album": {
         "name": "Rainbow Revisited",
         "url": "https://open.spotify.com/album/4AQs1TiZ7g8HMTMz1DakM5"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 262373,
       "name": "Piano Edit",
       "url": "https://open.spotify.com/track/3S9Hy5ymQZyVDVS6OabuZC"
-    },
-    {
-      "added_at": "2025-06-24 13:36:01",
-      "album": {
-        "name": "Inkehli",
-        "url": "https://open.spotify.com/album/5HSsIxH98Ic7Mw0k12cmSm"
-      },
-      "artists": [
-        {
-          "name": "Linda Sikhakhane",
-          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
-        }
-      ],
-      "duration_ms": 413864,
-      "name": "Inkehli",
-      "url": "https://open.spotify.com/track/2sCSm8uWxprJbkwqk4roTs"
     },
     {
       "added_at": "2025-06-24 13:36:01",

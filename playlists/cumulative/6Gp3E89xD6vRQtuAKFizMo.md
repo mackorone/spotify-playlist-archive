@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-464 songs - 22 hr 20 min
+466 songs - 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Blade](https://open.spotify.com/track/2xfuUnHrsftleiNvhxrBis) | [Fox Beach](https://open.spotify.com/artist/3oscL02LJvKEkbxByDKRGs) | [Blade](https://open.spotify.com/album/3mfFOwMkEYMwZqKwu7su28) | 2:18 | 2022-09-13 | 2022-11-05 |
 | [Blink](https://open.spotify.com/track/3ivU4AKYS5NgBpodGp61IQ) | [Austin Atlas](https://open.spotify.com/artist/4TkDe8MLTpt4FcOCKxl1WC), [.dru](https://open.spotify.com/artist/3Uhwyjj7LKNzEfWhAT0u9L), [Jackson](https://open.spotify.com/artist/63S5cwgY5HmZyuqKlwP1BE) | [Blink](https://open.spotify.com/album/5dLDAqx33v36RkZ7cg81fl) | 3:21 | 2022-05-06 | 2022-08-13 |
 | [Blow The Socket](https://open.spotify.com/track/3o9c2W2OrQe4i1KE0QjQdW) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK) | [Blow The Socket](https://open.spotify.com/album/6Vg0yJzjpsJdwlrAN0dyzh) | 3:12 | 2022-09-09 | 2023-01-14 |
+| [Blue Monday](https://open.spotify.com/track/0APEHjtJaozCuGPLomsClT) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe) | [Blue Monday](https://open.spotify.com/album/346bb2plydLoZExh5yQiqw) | 2:45 | 2025-06-25 |  |
 | [Body To The Beat](https://open.spotify.com/track/01a8kndu3BGQOBvMJk9HHK) | [Riggi & Piros](https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH) | [Body To The Beat](https://open.spotify.com/album/7qUkn7eWn3sZTnYJA3ffs4) | 2:19 | 2024-06-07 | 2025-04-27 |
 | [Boomerang \(feat\. Hadar Adora & Lazā\)](https://open.spotify.com/track/0mJDDuQJdJI4xqfHHJdoM2) | [shndō](https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH), [Hadar Adora](https://open.spotify.com/artist/2HdmDZZKSZQPSpyKDb0T7w), [Lazā](https://open.spotify.com/artist/7KWbU8vlvkICzAOXsiRLal) | [Boomerang \(feat\. Hadar Adora & Lazā\)](https://open.spotify.com/album/1jF3BkQZEUl69JIoajBPMy) | 3:10 | 2023-11-22 | 2025-04-27 |
 | [Bring It Back](https://open.spotify.com/track/1pSmm42A3SSpoUKBcFWHia) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Bring It Back](https://open.spotify.com/album/0Ukf13MY7qeWtQB0SY8iod) | 2:24 | 2024-02-02 | 2025-04-27 |
@@ -182,6 +183,7 @@
 | [HARIKĒN](https://open.spotify.com/track/3rC44MszjGBcK7gYRHWFDh) | [shndō](https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH) | [HARIKĒN](https://open.spotify.com/album/1b7O6M1X2z1ZGv3KbwKw2e) | 2:40 | 2023-08-04 | 2025-04-27 |
 | [Haunted](https://open.spotify.com/track/6OhmXq1u2nB8Wrm5wuPrqs) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Haunted](https://open.spotify.com/album/25az9xpMDxpmAzCTCwX7hf) | 2:35 | 2023-11-22 | 2025-04-27 |
 | [Headlights](https://open.spotify.com/track/3OLuiRmi5DtpHq8SZiCtW3) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [John Alto](https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj) | [Headlights](https://open.spotify.com/album/7Fixp63EZJVwpQduqCJCBi) | 2:20 | 2023-11-22 | 2025-04-27 |
+| [Heart Already Broken](https://open.spotify.com/track/24tuWE14clPAH5cSjLesAT) | [Crumb Pit](https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I), [Amanda Joy](https://open.spotify.com/artist/0nWFxqxClqiIvjQvjyi4Gi) | [Heart Already Broken](https://open.spotify.com/album/2LmgVWaLfAGjMx1CT1IinH) | 2:27 | 2025-06-25 |  |
 | [heavy metals](https://open.spotify.com/track/4sI100hB4VQQqHQonPq9I2) | [plumpy](https://open.spotify.com/artist/50OV9n9Rnrf8BqUdzEVZMI), [daisy maize](https://open.spotify.com/artist/6SAsm9v5Z1fJpbrXGvuQu4) | [heavy metals](https://open.spotify.com/album/1l3e0TB5IdVOwFuOleUmjo) | 3:21 | 2022-05-10 | 2022-11-19 |
 | [Higher \(feat\. Eso.XO.Supreme\)](https://open.spotify.com/track/5SETcigvLiz4rQ3eUjR0k4) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J), [Eso.XO.Supreme](https://open.spotify.com/artist/12VfdgL4i9hoFoaIFdE7qV) | [Higher \(feat\. Eso.XO.Supreme\)](https://open.spotify.com/album/5sMgGok0VfV3zg5uhopzXj) | 3:25 | 2023-03-17 | 2025-04-27 |
 | [Hold My Love \(feat\. Piper Byers\)](https://open.spotify.com/track/6DagmGXA13lYuPCI2ZUDRt) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Piper Byers](https://open.spotify.com/artist/2m0Pc2TS4246t620Ut4Dk3) | [Hold My Love \(feat\. Piper Byers\)](https://open.spotify.com/album/5UtWnVXS5XFXJU8geS49K6) | 2:44 | 2024-08-02 | 2025-04-27 |

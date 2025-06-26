@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: BIG Naughty\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: homezone\)
 
-536 songs - 1 day 4 hr 59 min
+538 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [B.T](https://open.spotify.com/track/176b8YUipX6fJi4SQNmMoK) | [YUN HYUN JI](https://open.spotify.com/artist/0zmxxS5g5lmEfxak05ciq2) | [B.T](https://open.spotify.com/album/7dvR8XmzzhP2zJBuuuR1m1) | 3:17 | 2023-07-14 | 2023-11-03 |
 | [Baby Cat \(Feat\. Qim Isle\)](https://open.spotify.com/track/0NCwPwdrCymcGGciPNT9jp) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [Qim Isle](https://open.spotify.com/artist/3pDs57Od1KfGb0RmmWhGtK) | [Baby Cat \(Feat\. Qim Isle\)](https://open.spotify.com/album/5gVo2KB5ImTregsSpUk08A) | 3:06 | 2024-08-16 | 2024-10-15 |
 | [Baby I Know](https://open.spotify.com/track/6Qrz1XYQHe0yTVZw5r3KCs) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [WOOOF!](https://open.spotify.com/album/1y4t87ut2gkVbmGfNjaPyV) | 4:27 | 2023-11-16 | 2024-05-01 |
+| [Baby Step \(feat\. siso\)](https://open.spotify.com/track/2s32yDDsDOnDAuIQ24h1QP) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Baby Step](https://open.spotify.com/album/2mZfRTmfhY6eQXYcfIqxRq) | 3:01 | 2025-06-25 |  |
 | [Back and forth](https://open.spotify.com/track/7s6NmtSMMwoHDYCTgFsqD7) | [Kinn](https://open.spotify.com/artist/1xjybRUDl1NlkiSFXatruo) | [Back and forth](https://open.spotify.com/album/1asKs3DCbn3dKd7RYcKnIY) | 2:44 | 2025-03-13 |  |
 | [backroom 2025](https://open.spotify.com/track/31rLxCWKdplzfFR2UQq9wn) | [SZN](https://open.spotify.com/artist/0SPzRZVsUUzgOXjibr7PEj) | [FREE MYSELF](https://open.spotify.com/album/3csmdF5kqdquJHIb6yjRkY) | 2:04 | 2025-04-02 |  |
 | [Backstage Singer](https://open.spotify.com/track/2dNYJJalVImtpa07cGKmqv) | [Park Se Jung](https://open.spotify.com/artist/4NegBbNnbzZqSOWOKpRpyx) | [Step to Dream](https://open.spotify.com/album/2mUVvRFw9QabFerpyCaKIf) | 2:44 | 2025-01-24 | 2025-05-21 |
@@ -109,7 +110,7 @@
 | [Circle \(Feat\. Demian Love\)](https://open.spotify.com/track/4p3CNPNKYOqzCBd8uQKqA9) | [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [Demian Love](https://open.spotify.com/artist/39ilK8sp48AGEp3Zd3mBf6) | [Circle](https://open.spotify.com/album/2nlTltFuBMgB5dDsuf6dEF) | 2:40 | 2024-01-08 | 2024-05-01 |
 | [City Night \(feat\. Jisun\)](https://open.spotify.com/track/7rYsqkzEoRAVFLYnOXBw8J) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Jisun](https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0) | [EGO 90'S PART 3](https://open.spotify.com/album/5550oPn3XJSepXsVjXlKAQ) | 3:40 | 2024-08-01 | 2024-09-14 |
 | [City!](https://open.spotify.com/track/6FaSGjSSORmLRw8ElPHJbM) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [i ex you](https://open.spotify.com/album/5Om0xEIVmWFirP4WLSTykj) | 3:42 | 2022-08-18 | 2023-01-21 |
-| [Closure](https://open.spotify.com/track/0owSnuNM561WS2dSicHJxw) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [Closure](https://open.spotify.com/album/2dkVQHxDEujqrfrfJUlP06) | 3:34 | 2025-03-13 |  |
+| [Closure](https://open.spotify.com/track/0owSnuNM561WS2dSicHJxw) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [Closure](https://open.spotify.com/album/2dkVQHxDEujqrfrfJUlP06) | 3:34 | 2025-03-13 | 2025-06-26 |
 | [Clumsy](https://open.spotify.com/track/6Ugempi5fDLDHBRLNFPUem) | [XAVII](https://open.spotify.com/artist/0bzd5X6kSjFkawI5uba7xh) | [Boy Story](https://open.spotify.com/album/6AMr72xtY2whLGWXCFKiUA) | 2:41 | 2024-08-10 | 2024-10-15 |
 | [COLORLESS \(Feat\. Sunnie\) \(Goddess of Victory: NIKKE Original Soundtrack\)](https://open.spotify.com/track/3GUcwsSSt0kGzNbKr6PAHR) | [LEVEL NINE](https://open.spotify.com/artist/4Q4MsHUCFTMr4Nnca9qChC), [Cosmograph](https://open.spotify.com/artist/4en0H7iE6PqEnZnWGmtWuK), [Sunnie](https://open.spotify.com/artist/0v5xONZJ2N9zcriZXfzFK5) | [COLORLESS \(Feat\. Sunnie\) \(Goddess of Victory: NIKKE Original Soundtrack\)](https://open.spotify.com/album/3Gni8Kq2mlijC5Im1LNkr7) | 3:54 | 2024-08-10 | 2024-10-15 |
 | [Come Back Home \(feat\. Yeeun\)](https://open.spotify.com/track/6Vl5W40Ve7mvbmPxKRhR94) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Yeeun](https://open.spotify.com/artist/4hMhbcPHd2nsZFhY1TNp8Y) | [Come Back Home](https://open.spotify.com/album/0itIaXewMbaWbViMKNstF9) | 3:26 | 2022-11-22 | 2023-07-08 |
@@ -118,6 +119,7 @@
 | [Complications \(ft\. SOLE\)](https://open.spotify.com/track/1XGtdNHscboubm98Ajuh7R) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [dopamine](https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76) | 2:52 | 2024-06-23 | 2024-08-22 |
 | [compromise \(feat\. Soo\-Yeony & bluewoods\)](https://open.spotify.com/track/5Uy0nfGGfNP3NN6ElzJi5f) | [DJ Sparrow](https://open.spotify.com/artist/2D3tLAHBKITd7X6ys2Lz1N), [Soo\-Yeony](https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki), [Bluewoods](https://open.spotify.com/artist/2zjQ03r51skqNDg0kUjAMV) | [compromise \(feat\. Soo\-Yeony & bluewoods\)](https://open.spotify.com/album/2x7ql8FguTwmA6PhesCUOS) | 2:40 | 2023-07-07 | 2023-11-03 |
 | [CONFEXXION](https://open.spotify.com/track/5s3opyN6LAoYAxs3158KuP) | [YooShin](https://open.spotify.com/artist/2EzuG4WW4xOYNjMIxVddHn) | [CONFEXXION](https://open.spotify.com/album/7Jd0Fcoc8aLSrtWqNYQ4WO) | 4:00 | 2023-02-28 | 2023-04-28 |
+| [Confidence](https://open.spotify.com/track/2RCUFR6B5EBeclhSSrIW0m) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [Confidence](https://open.spotify.com/album/2xOcWwEpjMzDYg3aCePFQy) | 2:24 | 2025-06-25 |  |
 | [Crossroad \(Prod\. TII\)](https://open.spotify.com/track/41kobftscgCdRBcMaa2DjG) | [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX), [INJAE](https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD) | [Monthly AP \- July, 2024](https://open.spotify.com/album/5BCngzkElUQIXCYhDT4qhY) | 3:21 | 2024-08-01 | 2024-09-14 |
 | [Ctrl](https://open.spotify.com/track/3BxWRi8BjQquBqW6zbpQxJ) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [3:33](https://open.spotify.com/album/1AzP7NB0qSSJJSLX9ZQe98) | 2:22 | 2024-11-29 | 2025-03-13 |
 | [D\-day \(Feat\. GIRIBOY\)](https://open.spotify.com/track/15LVXIWDmQA7mLUnLJn1AF) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [D\-day](https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt) | 3:31 | 2022-05-28 | 2022-06-10 |
@@ -143,7 +145,7 @@
 | [Diving \(Piano by Seokwon Lee\)](https://open.spotify.com/track/76BHfwrmbjxqHiUFdJS4zL) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Heaven](https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W) | 3:32 | 2023-02-10 | 2023-08-18 |
 | [dlTwksgdk](https://open.spotify.com/track/7ezo6D87hjNvCppZu0Adjb) | [Sinae](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [dlTwksgdk](https://open.spotify.com/album/6qC7XYjWzqYmdLjjtzTmNB) | 3:40 | 2024-09-27 | 2025-02-21 |
 | [DO \(Feat\. LeeHi\)](https://open.spotify.com/track/2MVEiDjCneHRZxmv10rb5l) | [Padi](https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Answer Answer](https://open.spotify.com/album/0r7yewj1OlyCzhDk2tmYjP) | 3:04 | 2023-05-24 | 2023-10-21 |
-| [Do I?](https://open.spotify.com/track/7eT5goUS3XVK8VU3p0vXNW) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Do I?](https://open.spotify.com/album/5jhPILTYGNnLhGCDWho3wX) | 3:19 | 2025-03-13 |  |
+| [Do I?](https://open.spotify.com/track/7eT5goUS3XVK8VU3p0vXNW) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Do I?](https://open.spotify.com/album/5jhPILTYGNnLhGCDWho3wX) | 3:19 | 2025-03-13 | 2025-06-26 |
 | [DOMINO](https://open.spotify.com/track/3HZwxfaiby2jaWKL7hrzD4) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [DOMINO](https://open.spotify.com/album/7e4ypxtFCm1wIkerQLcS6B) | 3:14 | 2024-06-12 | 2024-09-14 |
 | [Don't Ever Leave Me](https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Seoul Check\-in OST Part 8](https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5) | 2:58 | 2022-06-18 | 2022-10-05 |
 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 | 2023-10-13 | 2024-03-09 |

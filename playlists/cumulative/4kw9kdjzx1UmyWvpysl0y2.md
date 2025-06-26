@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,011 songs - 2 day 8 hr 49 min
+1,012 songs - 2 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -994,6 +994,7 @@
 | [Wide Open](https://open.spotify.com/track/0ICvgo8qnBYhVUqGAycdqG) | [Topi](https://open.spotify.com/artist/6WP0h3qR0awvIWPMvE72F8) | [Wide Open](https://open.spotify.com/album/27xkRKbfs3scIzNeO3lgRQ) | 3:04 | 2024-12-09 | 2025-03-19 |
 | [Wild Time](https://open.spotify.com/track/0YX38wDVtPkk7FAOO3wU64) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Wild Time](https://open.spotify.com/album/1ye5cB0yJ8wLlGoNv4s2qN) | 3:51 | 2022-05-12 | 2022-07-23 |
 | [Wildfire](https://open.spotify.com/track/49Y95L9PEgmiU8grfUF2el) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Wildfire](https://open.spotify.com/album/3XFyWwB4yXHSjoRHqNq98y) | 3:40 | 2024-08-07 | 2024-10-29 |
+| [Wish](https://open.spotify.com/track/6ZcnuLd0mWgqseSnxTFMRF) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [WELON](https://open.spotify.com/artist/0fegs2UgMTsicSZ00z3HJQ) | [Wish](https://open.spotify.com/album/6xOIqG0yH0Ejwg6wROcPDc) | 3:02 | 2025-06-25 |  |
 | [Wish You Stayed](https://open.spotify.com/track/3swA7H6ohhJomFrC5YOiG2) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Wish You Stayed](https://open.spotify.com/album/2UYUKxWI2OjPG3eW0nf0Rg) | 3:00 | 2022-09-06 | 2022-11-05 |
 | [Wish You Stayed](https://open.spotify.com/track/5Ab3nqZshtBT3LthZf9Kix) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 3:00 | 2022-11-19 | 2022-11-22 |
 | [wish.](https://open.spotify.com/track/6sWsz6pnVxJmyAw4XsOAMR) | [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp), [Ellii](https://open.spotify.com/artist/3tWLnX4ZbP9FJfwMykic5e) | [wish.](https://open.spotify.com/album/1jxhvgeN0ZYfYogPpRSVwJ) | 3:26 | 2024-07-10 | 2024-10-03 |

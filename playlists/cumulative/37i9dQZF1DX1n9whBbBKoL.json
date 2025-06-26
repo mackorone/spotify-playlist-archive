@@ -1935,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "Cosmic Serenity",
+        "url": "https://open.spotify.com/album/0dGVYifzfmg7omX98OPVp4"
+      },
+      "artists": [
+        {
+          "name": "Warmth of Muba",
+          "url": "https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204137,
+      "name": "Cosmic Serenity",
+      "url": "https://open.spotify.com/track/2XOa9xja8Y2XbNdLo2r9K1"
+    },
+    {
+      "album": {
         "name": "cottonwood",
         "url": "https://open.spotify.com/album/4DELHO2birqYTscokSRzH0"
       },
@@ -8866,7 +8884,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 186223,
       "name": "We Were There",
       "url": "https://open.spotify.com/track/14qdPKsnd3yifarqYFREzX"

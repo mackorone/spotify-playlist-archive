@@ -4,7 +4,7 @@
 
 > Motion & good vibes met Jonna Fraser ✨
 
-1,406 songs - 2 day 14 hr 49 min
+1,407 songs - 2 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -846,6 +846,7 @@
 | [MORE PRETTY GIRLS](https://open.spotify.com/track/5cXQQa5G0hyc6m5Mk1rM2i) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [MORE PRETTY GIRLS](https://open.spotify.com/album/4WwnvAPqTcwcBBd4kuMkx0) | 3:18 | 2024-06-13 | 2024-09-13 |
 | [Moscato](https://open.spotify.com/track/0O0qqeFUMjMgusToxLWXFh) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Moscato](https://open.spotify.com/album/5KAfXsur99a2zCDVublp40) | 2:36 | 2023-06-07 | 2023-07-21 |
 | [MOTC \(feat\. Menga & Stylez\)](https://open.spotify.com/track/1K5eGqraDCjooLajVQBKpl) | [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4), [Menga](https://open.spotify.com/artist/1nMz9I5KVfBb5ay108LFJu), [Stylez](https://open.spotify.com/artist/6Ff3sJoKEyLJvKq2SnjtXT) | [SALVZEBIG](https://open.spotify.com/album/4xlKeokSguiYBUnUVosYxn) | 2:24 | 2024-04-11 | 2024-06-01 |
+| [Motion](https://open.spotify.com/track/4AYQ2g9IwGlRwqb0MzRZ1K) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Hakmadafack](https://open.spotify.com/artist/3zR5ehEa2HIlUB9oRGF0lz) | [Motion](https://open.spotify.com/album/0WUO3pEDeG6WEGI1hcJj0z) | 2:31 | 2025-06-25 |  |
 | [Move Ya Body \- Remix](https://open.spotify.com/track/6WJtPnYy2HHhVx6Pb9pU7v) | [Nina Sky](https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6), [CHAMOS](https://open.spotify.com/artist/2HEwUTzrG0SLQLLSQQGBWi) | [Move Ya Body \(Remix\)](https://open.spotify.com/album/1UPwNqmPMBRZEdcxzJC3Nd) | 1:37 | 2023-07-27 | 2023-10-31 |
 | [Moving](https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV) | 2:20 | 2024-08-29 | 2025-01-31 |
 | [Mozer Is Nijba](https://open.spotify.com/track/3GUs0BS7fxbSOZHez5ow9O) | [Keess](https://open.spotify.com/artist/6Dhjz5IwumzpmeyPCT0jBp), [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4), [D\-opss](https://open.spotify.com/artist/3ZDMIHGxzbwFWWhSMBKSHJ) | [Mozer Is Nijba](https://open.spotify.com/album/0MsLTaEtDN9U6Hhm5bdGui) | 2:25 | 2023-07-06 | 2023-07-28 |

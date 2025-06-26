@@ -11833,6 +11833,36 @@
     },
     {
       "album": {
+        "name": "Yaarivalo",
+        "url": "https://open.spotify.com/album/1fYNpp6rZy6KsyZhOalgOf"
+      },
+      "artists": [
+        {
+          "name": "Sujith Benjamin",
+          "url": "https://open.spotify.com/artist/4pMarcdDh8UzUNRvBwQqJz"
+        },
+        {
+          "name": "Fahad Rahman",
+          "url": "https://open.spotify.com/artist/4e1wH2L6P8CVWq1z4kdCif"
+        },
+        {
+          "name": "Ahamed Shyam",
+          "url": "https://open.spotify.com/artist/2QKYiDTmS5WeuE3VmahlLn"
+        },
+        {
+          "name": "Kavya S Chandra",
+          "url": "https://open.spotify.com/artist/39ZeUmal47Ovg1oksPfyCj"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305986,
+      "name": "Yaarivalo",
+      "url": "https://open.spotify.com/track/2dI2cj3XRES5nsWz0hyLf6"
+    },
+    {
+      "album": {
         "name": "Yaathe",
         "url": "https://open.spotify.com/album/6KrD2dY3GJenynSsNrCOMD"
       },

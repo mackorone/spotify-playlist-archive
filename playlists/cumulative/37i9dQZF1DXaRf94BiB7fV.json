@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Dridha, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Pratiksha Vashishtha, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -2334,7 +2334,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 179305,
       "name": "Baarishana",
       "url": "https://open.spotify.com/track/3Bk3W8yCL65w7z36KoUsmD"
@@ -7589,6 +7589,24 @@
     },
     {
       "album": {
+        "name": "Ecstasy",
+        "url": "https://open.spotify.com/album/4y2HUqpB0aCHV8QDVlonVr"
+      },
+      "artists": [
+        {
+          "name": "Ritvik Virmani",
+          "url": "https://open.spotify.com/artist/17995AEqJbY1uNmzmgw1xr"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248620,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/1ZFAlPkgLCQNR1LueGR3bE"
+    },
+    {
+      "album": {
         "name": "ecstasy",
         "url": "https://open.spotify.com/album/1ovG3bOQvtbjNl9UC3dNcf"
       },
@@ -10508,7 +10526,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 214294,
       "name": "How would you feel",
       "url": "https://open.spotify.com/track/0X00dy8vGEDuqngdR89Rpk"
@@ -12308,7 +12326,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 178823,
       "name": "Jaaneya",
       "url": "https://open.spotify.com/track/3lnU0XJXrurnY9QY9OaZ1Q"
@@ -14712,6 +14730,28 @@
       "duration_ms": 174953,
       "name": "Karwaan",
       "url": "https://open.spotify.com/track/44omThOKpKQVLCgTmX2YAA"
+    },
+    {
+      "album": {
+        "name": "Kashti",
+        "url": "https://open.spotify.com/album/22ZJNBzqzgU4zzmFpBgBT9"
+      },
+      "artists": [
+        {
+          "name": "Priyanshi Srivastava",
+          "url": "https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo"
+        },
+        {
+          "name": "Priyanshu Soni",
+          "url": "https://open.spotify.com/artist/6MB9eP64yx5KQ12VLrXo6p"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204240,
+      "name": "Kashti",
+      "url": "https://open.spotify.com/track/7fWRKH9M4LUAdNc7XttRge"
     },
     {
       "album": {
@@ -22412,6 +22452,28 @@
       "duration_ms": 222610,
       "name": "Piya Bin",
       "url": "https://open.spotify.com/track/4YywWFs8sY6RTmrG6LtLbS"
+    },
+    {
+      "album": {
+        "name": "Piyaa",
+        "url": "https://open.spotify.com/album/3tng4hiwOUSDXZTrQnc9hs"
+      },
+      "artists": [
+        {
+          "name": "Pratiksha Vashishtha",
+          "url": "https://open.spotify.com/artist/1kkz7GtycrTZlHi5bvwFmS"
+        },
+        {
+          "name": "Udit Saxena",
+          "url": "https://open.spotify.com/artist/69BwX40UDcRRhksPIX43q5"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208330,
+      "name": "Piyaa",
+      "url": "https://open.spotify.com/track/51NhjAUdntk5CKxw83OlnO"
     },
     {
       "album": {
@@ -32038,7 +32100,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 170909,
       "name": "Ye Waadiyan",
       "url": "https://open.spotify.com/track/04vlWhJFQtQ5mVrAm7T4zp"
@@ -32606,6 +32668,28 @@
       "duration_ms": 202105,
       "name": "Zinda Hu",
       "url": "https://open.spotify.com/track/69Y4FcgXnKNDx8lEjyScJf"
+    },
+    {
+      "album": {
+        "name": "Waah",
+        "url": "https://open.spotify.com/album/3QgSZkyHYcGlC2QKPUQWfR"
+      },
+      "artists": [
+        {
+          "name": "Aakash Aman",
+          "url": "https://open.spotify.com/artist/0QO3f7rvsqC3tw1KnHu8oK"
+        },
+        {
+          "name": "SHUNYA",
+          "url": "https://open.spotify.com/artist/6LUT2HGIg8CFMShdEeHsbZ"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237548,
+      "name": "Zindagi",
+      "url": "https://open.spotify.com/track/4vIiRQsu0Lre5SS4EaCedW"
     },
     {
       "album": {

@@ -3615,6 +3615,24 @@
     },
     {
       "album": {
+        "name": "Glee Orgulho LGBTQIA+",
+        "url": "https://open.spotify.com/album/3JltLkM5HazRh3bHH2H280"
+      },
+      "artists": [
+        {
+          "name": "Glee Cast",
+          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125013,
+      "name": "Halo / Walking On Sunshine",
+      "url": "https://open.spotify.com/track/0XZsKn1Ic8ODCYxcSEOyEu"
+    },
+    {
+      "album": {
         "name": "Glee LGBTQIA+ Pride",
         "url": "https://open.spotify.com/album/6ndWxNXkozcZLcsCAVBctE"
       },
@@ -3626,7 +3644,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-26",
       "duration_ms": 125013,
       "name": "Halo / Walking On Sunshine",
       "url": "https://open.spotify.com/track/12yh28UqX6hrOcu8YO0cH6"

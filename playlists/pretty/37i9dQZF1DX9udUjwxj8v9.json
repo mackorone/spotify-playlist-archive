@@ -1,6 +1,6 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 153066,
+  "num_followers": 153063,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Ao Vivo",
-        "url": "https://open.spotify.com/album/5pRG4SxFRIp5QZPczn1Ngx"
-      },
-      "artists": [
-        {
-          "name": "Ara Ketu",
-          "url": "https://open.spotify.com/artist/6NqIUh0cpaygBWUUAjBaog"
-        }
-      ],
-      "duration_ms": 263266,
-      "name": "Mal Acostumada - Ao Vivo",
-      "url": "https://open.spotify.com/track/7vjXPjtvm9IjoPKGVyfg10"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Amor Festa Devo\u00e7\u00e3o Ao Vivo",
         "url": "https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 300333,
       "name": "Reconvexo - Ao Vivo",
       "url": "https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "Ao Vivo",
+        "url": "https://open.spotify.com/album/5pRG4SxFRIp5QZPczn1Ngx"
+      },
+      "artists": [
+        {
+          "name": "Ara Ketu",
+          "url": "https://open.spotify.com/artist/6NqIUh0cpaygBWUUAjBaog"
+        }
+      ],
+      "duration_ms": 263266,
+      "name": "Mal Acostumada - Ao Vivo",
+      "url": "https://open.spotify.com/track/7vjXPjtvm9IjoPKGVyfg10"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
         }
       ],
-      "duration_ms": 189040,
-      "name": "Swing de Campo Grande",
-      "url": "https://open.spotify.com/track/5V0HmhGqwjoDq0cHlI05GS"
+      "duration_ms": 235106,
+      "name": "Brasil Pandeiro",
+      "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
+        "name": "Nada Sem Ela",
+        "url": "https://open.spotify.com/album/15NX1MFPiauDujhbHQKk44"
+      },
+      "artists": [
+        {
+          "name": "Academia da Berlinda",
+          "url": "https://open.spotify.com/artist/2pG3gLX9VMIXtbSRxvNKjC"
+        }
+      ],
+      "duration_ms": 306520,
+      "name": "Dorival",
+      "url": "https://open.spotify.com/track/6OXilF9moyWn0YHX0iyKtr"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
         "name": "Ax\u00e9 Bahia",
         "url": "https://open.spotify.com/album/63VoP8enjIIB5EBNAwx4OZ"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 194533,
       "name": "A Luz De Tieta",
       "url": "https://open.spotify.com/track/2QC8Y1mUL709fOZWO8okcR"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
-        "name": "Nada Sem Ela",
-        "url": "https://open.spotify.com/album/15NX1MFPiauDujhbHQKk44"
-      },
-      "artists": [
-        {
-          "name": "Academia da Berlinda",
-          "url": "https://open.spotify.com/artist/2pG3gLX9VMIXtbSRxvNKjC"
-        }
-      ],
-      "duration_ms": 306520,
-      "name": "Dorival",
-      "url": "https://open.spotify.com/track/6OXilF9moyWn0YHX0iyKtr"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
         }
       ],
-      "duration_ms": 235106,
-      "name": "Brasil Pandeiro",
-      "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
+      "duration_ms": 189040,
+      "name": "Swing de Campo Grande",
+      "url": "https://open.spotify.com/track/5V0HmhGqwjoDq0cHlI05GS"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "A M\u00fasica Do Olodum - 20 Anos",
-        "url": "https://open.spotify.com/album/0EBLPCgXWUYtb5F4ApxTdd"
-      },
-      "artists": [
-        {
-          "name": "Olodum",
-          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Nossa Gente (Avisa L\u00e1)",
-      "url": "https://open.spotify.com/track/1QluL2jd49QDy4TTKusBav"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Sambas De Enredo Das Escolas De Samba 2019",
         "url": "https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 331853,
       "name": "Xang\u00f4",
       "url": "https://open.spotify.com/track/19K67ARK51RFvi3CDdB69g"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "A M\u00fasica Do Olodum - 20 Anos",
+        "url": "https://open.spotify.com/album/0EBLPCgXWUYtb5F4ApxTdd"
+      },
+      "artists": [
+        {
+          "name": "Olodum",
+          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Nossa Gente (Avisa L\u00e1)",
+      "url": "https://open.spotify.com/track/1QluL2jd49QDy4TTKusBav"
     },
     {
       "added_at": "2023-03-06 22:48:04",

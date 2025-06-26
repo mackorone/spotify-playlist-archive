@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: NEZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,320 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,335 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 21 | [Paradise](https://open.spotify.com/track/441ccqwRNDOt7MIKN2kAYh) | [Val Fleury](https://open.spotify.com/artist/2Ql2PvnHtaP4FL8nI13mSv), [Res](https://open.spotify.com/artist/56YiNz2C704YPpRtPvMBg7) | [Paradise](https://open.spotify.com/album/1L4CwZqL8i4ZmkY7aCyeXS) | 3:54 |
 | 22 | [PAPARAZZI](https://open.spotify.com/track/1AdJ7n7C3R2CtiQjJfKHuH) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [DGTL ANML](https://open.spotify.com/album/5NcVLMZkt5T1K0PdD2hyeQ) | 3:46 |
 | 23 | [Colorbone](https://open.spotify.com/track/1ar9BD5AVXuzpg0nnu8ysz) | [ROZET](https://open.spotify.com/artist/4LyGWqMGeTHfJXbKQmk6YY) | [Colorbone](https://open.spotify.com/album/5lKeI82tnoWrF4tzTc0ho4) | 3:27 |
-| 24 | [Symbolical](https://open.spotify.com/track/2jRzj7VqYZN1ZGIakSR8fr) | [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [e\-Dancer](https://open.spotify.com/album/1DOxhcW2H1Hj1C9KIHKe6n) | 4:04 |
+| 24 | [Symbolical](https://open.spotify.com/track/2jRzj7VqYZN1ZGIakSR8fr) | [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma), [Ava Sofia](https://open.spotify.com/artist/4d7cGoWZlEhScjDRdjsa0F) | [e\-Dancer](https://open.spotify.com/album/1DOxhcW2H1Hj1C9KIHKe6n) | 4:04 |
 | 25 | [Azure \- Carl Craig C2 Remix](https://open.spotify.com/track/2ugBKRsUJ8ooqxAEI4Bx4H) | [Slam](https://open.spotify.com/artist/3dvQNG65MMzLa0Cosf6Ztq), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [Desire: The Carl Craig Story](https://open.spotify.com/album/6RtLpopFitxjRgeqfy0Xn0) | 10:26 |
 | 26 | [Lipsync](https://open.spotify.com/track/0KBBHOGtufMl66CpoUlZsc) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [Lipsync](https://open.spotify.com/album/6aaxvD1ddFiPcwvN8BkXbD) | 2:43 |
 | 27 | [Crave](https://open.spotify.com/track/75ZvCtDorLfeaaTKyX7s1z) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Crave](https://open.spotify.com/album/6bC4wS1VnIVFhlks2Wx0XX) | 3:26 |

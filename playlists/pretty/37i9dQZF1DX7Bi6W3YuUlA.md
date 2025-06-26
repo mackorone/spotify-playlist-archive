@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Inspirational hip\-hop\. Cover: Miles Minnick and Lecrae
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,774 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,792 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lord Please](https://open.spotify.com/track/4ThwaFCGRYzpquKHFxAqvC) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Scarred B4 Fame](https://open.spotify.com/album/2QhUE3nQN7lYRFZ2yOfzXJ) | 3:52 |
 | 2 | [The Method](https://open.spotify.com/track/0dFH3oc8wikiyi5p5gLUlP) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Get Well Soon!](https://open.spotify.com/album/1v7XLUz7h8OYrxGjb9n2tA) | 3:16 |
 | 3 | [SEOUL BROTHER](https://open.spotify.com/track/5HfAfh5qtZNtfvnVo4f4Bi) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Kato On The Track](https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB) | [SEOUL BROTHER](https://open.spotify.com/album/4gvQYalAihiks44m2oP8Zp) | 2:09 |
-| 4 | [Alright](https://open.spotify.com/track/3yrhr8lDXzx83tfhwvp7wy) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Baby Truth](https://open.spotify.com/artist/3JSZUZkyZbG583ywTOr4tD) | [Alright](https://open.spotify.com/album/3SHL8OJzYcVZxStR0NOH1c) | 3:19 |
+| 4 | [Alright](https://open.spotify.com/track/3yrhr8lDXzx83tfhwvp7wy) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [Baby Truth](https://open.spotify.com/artist/3JSZUZkyZbG583ywTOr4tD), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Alright](https://open.spotify.com/album/3SHL8OJzYcVZxStR0NOH1c) | 3:19 |
 | 5 | [Aretha](https://open.spotify.com/track/0Clatxwq8QuhcTTRQgxS7z) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Aretha](https://open.spotify.com/album/7JXd9Aqk4jPIX6wgIZVuYd) | 2:15 |
 | 6 | [Glory To The Lord](https://open.spotify.com/track/2vR6N7Zd4SkVQtdvgOJzfl) | [Jered Sanders](https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e) | [Glory To The Lord](https://open.spotify.com/album/5J1amY47Ds99rNlLUCOCBQ) | 2:32 |
 | 7 | [Spirit Rich](https://open.spotify.com/track/2c299IzzVhir4EsPswCJyz) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Spirit Rich](https://open.spotify.com/album/4jDaCHNKQHoHUO905d9Wvl) | 2:39 |

@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,625 songs - 7 day 10 hr 1 min
+2,626 songs - 7 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2513,7 +2513,7 @@
 | [Where Do We Go From Here? \- Fairlane Remix](https://open.spotify.com/track/4VbnOwZ0CcBeDpr8t9dH54) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Where Do We Go From Here? The Remixes EP](https://open.spotify.com/album/0cS2hbnw0DfRqDHyqycEAm) | 3:42 | 2024-11-08 | 2024-11-17 |
 | [Where Do You Think You’re Going? \- Live At The Rainbow / Dec 1979](https://open.spotify.com/track/4Hy3YVSJAhUSDGUF9ASh69) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Live 1978 \- 1992](https://open.spotify.com/album/14EWYgtvXZSz0pzvpUCsbL) | 4:39 | 2023-11-24 | 2023-12-03 |
 | [Wherever You Are](https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Wherever You Are](https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK) | 3:27 | 2024-06-07 | 2024-07-07 |
-| [Wherever you are](https://open.spotify.com/track/6EKqcmNpxe5crltSFFDiLh) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Amazing](https://open.spotify.com/album/507pIlwxQwhwWRBtprCJFV) | 4:57 | 2025-06-20 |  |
+| [Wherever you are](https://open.spotify.com/track/6EKqcmNpxe5crltSFFDiLh) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Amazing](https://open.spotify.com/album/507pIlwxQwhwWRBtprCJFV) | 4:57 | 2025-06-20 | 2025-06-26 |
 | [Whiplash](https://open.spotify.com/track/4I5QRJ0vpMpnzR23Lpm3k9) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Whiplash](https://open.spotify.com/album/5jZlF2NrtoynqVzAx541B3) | 3:46 | 2024-11-22 | 2024-12-07 |
 | [Whispers of Restful Green](https://open.spotify.com/track/7vLGm0KSyT3jQYC1cVgJtF) | [CANCIONES DE CUNA](https://open.spotify.com/artist/0Jc8fJzaMqC5bb0hWhH9Xb), [Forest Sounds](https://open.spotify.com/artist/3DCUYm4ife62EAKya2fULx), [Meditación](https://open.spotify.com/artist/1CXnoUdfelMmk8FPXwPtb7) | [50 Relaxing Nature & Sleepy Sounds](https://open.spotify.com/album/61JSKfy1W6pHrAFRrdPg3Y) | 3:16 | 2024-11-22 | 2024-11-30 |
 | [White Bikes](https://open.spotify.com/track/2oLgt8U9rEkAtt1XqAs6Lf) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [White Bikes](https://open.spotify.com/album/2GomwAQWCvL5KhnlkXQMwz) | 4:25 | 2024-12-06 | 2025-01-04 |
@@ -2629,6 +2629,7 @@
 | [ライフ イズ ビューティフル](https://open.spotify.com/track/1SRJVcxArjAIkFtCNIMfVw) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ライフ イズ ビューティフル](https://open.spotify.com/album/746QUwPqyePL3oPmE9IMDi) | 4:17 | 2025-01-17 | 2025-02-09 |
 | [ヴァイオリン協奏曲 ニ長調 作品35: 第2楽章: Canzonetta\. Andante](https://open.spotify.com/track/1y57JRMZD3t4mqgj6uGPsC) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Mariko Senju](https://open.spotify.com/artist/2MkoLewykoUQinAGtZdF9W), [Japan Philharmonic Orchestra](https://open.spotify.com/artist/2mRcW1hyPk87K7KiBdLyc6), [岩村 力](https://open.spotify.com/artist/0lkaqeGgAK5WAcCU01z2Kq) | [チャイコフスキー：ヴァイオリン協奏曲 ニ長調 作品35: 第2楽章: Canzonetta\. Andante](https://open.spotify.com/album/1W8kNhp3EEBlXIH7LzyrBW) | 6:27 | 2025-02-28 | 2025-03-03 |
 | [江ノ島エスカー \(2023 ver.\)](https://open.spotify.com/track/12WtyFfw4w7BAbbWcTeiE4) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [サーフ ブンガク カマクラ \(完全版\)](https://open.spotify.com/album/3RJRauD27BwXHYI19CqwHu) | 2:40 | 2023-07-07 | 2023-07-30 |
+| [渚](https://open.spotify.com/track/3ncRVSTTZNPtwpzMc0jnxy) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Amazing](https://open.spotify.com/album/507pIlwxQwhwWRBtprCJFV) | 4:39 | 2025-06-20 |  |
 | [西方コーストストーリー](https://open.spotify.com/track/1YH7Rv0BpvNyjtno88MxXY) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [サーフ ブンガク カマクラ \(半カートン\)](https://open.spotify.com/album/6O5gIlE93Ym8DeAlyJI4P3) | 3:41 | 2023-06-16 | 2023-07-08 |
 | [転がる岩、君に朝が降る \- From THE FIRST TAKE](https://open.spotify.com/track/335mREcIWAsekmrCZuuIJQ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [転がる岩、君に朝が降る \- From THE FIRST TAKE](https://open.spotify.com/album/7yCKZEfFik3HVtIIpqfno2) | 5:06 | 2024-12-20 | 2025-01-01 |
 | [遥か彼方 \(2024 ver.\)](https://open.spotify.com/track/5mZGmMnM99YI70hvqBlViY) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [遥か彼方 \(2024 ver.\)](https://open.spotify.com/album/4dWjVtltGW5YsDIqegCcAM) | 4:02 | 2024-07-05 | 2024-07-27 |

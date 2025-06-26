@@ -1,6 +1,6 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Fred again..",
-  "num_followers": 842498,
+  "num_followers": 842555,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2025-06-19 22:00:47",
       "album": {
+        "name": "u & i",
+        "url": "https://open.spotify.com/album/6ej3V6vE3Xd6hWQbHzQjiM"
+      },
+      "artists": [
+        {
+          "name": "Distant Matter",
+          "url": "https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn"
+        },
+        {
+          "name": "fkblnde",
+          "url": "https://open.spotify.com/artist/5UZvfnCX1JUXy90IjseIbl"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "u & i",
+      "url": "https://open.spotify.com/track/4UrvsThnqGTyuqSKnxw0kK"
+    },
+    {
+      "added_at": "2025-06-19 22:00:47",
+      "album": {
         "name": "Out Of Bounds",
         "url": "https://open.spotify.com/album/5rZixCKsdcBlEvzwnEv5Yk"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 235909,
       "name": "Out Of Bounds",
       "url": "https://open.spotify.com/track/3xgcNkLwNfYxbK8w9MlLlk"
-    },
-    {
-      "added_at": "2025-06-19 22:00:47",
-      "album": {
-        "name": "u & i",
-        "url": "https://open.spotify.com/album/6ej3V6vE3Xd6hWQbHzQjiM"
-      },
-      "artists": [
-        {
-          "name": "Distant Matter",
-          "url": "https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn"
-        },
-        {
-          "name": "fkblnde",
-          "url": "https://open.spotify.com/artist/5UZvfnCX1JUXy90IjseIbl"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "u & i",
-      "url": "https://open.spotify.com/track/4UrvsThnqGTyuqSKnxw0kK"
     },
     {
       "added_at": "2025-06-19 22:00:47",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2025-06-19 22:00:47",
       "album": {
+        "name": "LIKE ME",
+        "url": "https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "duration_ms": 207964,
+      "name": "LIKE ME",
+      "url": "https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5"
+    },
+    {
+      "added_at": "2025-06-19 22:00:47",
+      "album": {
         "name": "Entangled",
         "url": "https://open.spotify.com/album/1QEb39IfozGparLKKYjPel"
       },
@@ -1487,42 +1503,6 @@
     {
       "added_at": "2025-06-19 22:00:47",
       "album": {
-        "name": "LIKE ME",
-        "url": "https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        }
-      ],
-      "duration_ms": 207964,
-      "name": "LIKE ME",
-      "url": "https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5"
-    },
-    {
-      "added_at": "2025-06-19 22:00:47",
-      "album": {
-        "name": "Stampede",
-        "url": "https://open.spotify.com/album/0AgVq85MSX0QDbsppdDe8l"
-      },
-      "artists": [
-        {
-          "name": "Pola & Bryson",
-          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
-        },
-        {
-          "name": "Jelani Blackman",
-          "url": "https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo"
-        }
-      ],
-      "duration_ms": 228965,
-      "name": "Stampede",
-      "url": "https://open.spotify.com/track/13wc1JCW2FmxT1niR2LrXc"
-    },
-    {
-      "added_at": "2025-06-19 22:00:47",
-      "album": {
         "name": "On & On (nimino Remix)",
         "url": "https://open.spotify.com/album/1kU0TUOmumAwURhV8V9be0"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 179399,
       "name": "On & On - nimino Remix",
       "url": "https://open.spotify.com/track/1tx4NjqrgzaEKmaPECXMgZ"
+    },
+    {
+      "added_at": "2025-06-19 22:00:47",
+      "album": {
+        "name": "Stampede",
+        "url": "https://open.spotify.com/album/0AgVq85MSX0QDbsppdDe8l"
+      },
+      "artists": [
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        },
+        {
+          "name": "Jelani Blackman",
+          "url": "https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo"
+        }
+      ],
+      "duration_ms": 228965,
+      "name": "Stampede",
+      "url": "https://open.spotify.com/track/13wc1JCW2FmxT1niR2LrXc"
     },
     {
       "added_at": "2025-06-19 22:00:47",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2025-06-19 22:00:47",
       "album": {
-        "name": "Still Fading",
-        "url": "https://open.spotify.com/album/2gziIdEYaL37zcgcdgTMJX"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        },
-        {
-          "name": "Alecc Crisostomo",
-          "url": "https://open.spotify.com/artist/0K8VpMGpOGfQeqoAx5hSef"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Still Fading",
-      "url": "https://open.spotify.com/track/4QecB7Q334BITuDDErAAya"
-    },
-    {
-      "added_at": "2025-06-19 22:00:47",
-      "album": {
         "name": "Talking Too Much",
         "url": "https://open.spotify.com/album/5DlqOm7mN0iuJs9k5r16Ii"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 234666,
       "name": "Talking Too Much",
       "url": "https://open.spotify.com/track/60O3TTCYh6LZFNKiicBodq"
+    },
+    {
+      "added_at": "2025-06-19 22:00:47",
+      "album": {
+        "name": "Still Fading",
+        "url": "https://open.spotify.com/album/2gziIdEYaL37zcgcdgTMJX"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        },
+        {
+          "name": "Alecc Crisostomo",
+          "url": "https://open.spotify.com/artist/0K8VpMGpOGfQeqoAx5hSef"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "Still Fading",
+      "url": "https://open.spotify.com/track/4QecB7Q334BITuDDErAAya"
     },
     {
       "added_at": "2025-06-19 22:00:47",
@@ -1803,18 +1803,22 @@
     {
       "added_at": "2025-06-19 22:00:47",
       "album": {
-        "name": "CHROMA 001",
-        "url": "https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ"
+        "name": "PUT IT DOWN (Killen. Remix)",
+        "url": "https://open.spotify.com/album/55kZU8pNkW7GEjUi7sse7C"
       },
       "artists": [
         {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        },
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
         }
       ],
-      "duration_ms": 287447,
-      "name": "CHROMA 001 HELIUM",
-      "url": "https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm"
+      "duration_ms": 156831,
+      "name": "PUT IT DOWN - Killen. Remix",
+      "url": "https://open.spotify.com/track/5ynb0P042k0EEIxdqzcsOW"
     },
     {
       "added_at": "2025-06-19 22:00:47",
@@ -1831,6 +1835,22 @@
       "duration_ms": 162210,
       "name": "FALLING",
       "url": "https://open.spotify.com/track/2SqokKkZV5nliQXZiXx9kJ"
+    },
+    {
+      "added_at": "2025-06-19 22:00:47",
+      "album": {
+        "name": "CHROMA 001",
+        "url": "https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 287447,
+      "name": "CHROMA 001 HELIUM",
+      "url": "https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm"
     },
     {
       "added_at": "2025-06-19 22:00:47",
@@ -1871,26 +1891,6 @@
       "duration_ms": 176516,
       "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
       "url": "https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j"
-    },
-    {
-      "added_at": "2025-06-19 22:00:47",
-      "album": {
-        "name": "PUT IT DOWN (Killen. Remix)",
-        "url": "https://open.spotify.com/album/55kZU8pNkW7GEjUi7sse7C"
-      },
-      "artists": [
-        {
-          "name": "Angrybaby",
-          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
-        },
-        {
-          "name": "Killen.",
-          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
-        }
-      ],
-      "duration_ms": 156831,
-      "name": "PUT IT DOWN - Killen. Remix",
-      "url": "https://open.spotify.com/track/5ynb0P042k0EEIxdqzcsOW"
     },
     {
       "added_at": "2025-06-19 22:00:47",
@@ -1995,26 +1995,26 @@
     {
       "added_at": "2025-06-19 22:00:47",
       "album": {
-        "name": "Yapa Yapa (Shut It Pls)",
-        "url": "https://open.spotify.com/album/3Z9MUVPl8LX8k61pp53zdz"
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/2G8OZPlwKrzWxkEEfWbbFV"
       },
       "artists": [
         {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
         },
         {
-          "name": "Big Shaq",
-          "url": "https://open.spotify.com/artist/7mnAzEmgquhrVtGob81SmO"
+          "name": "Fred V",
+          "url": "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
         },
         {
-          "name": "Dr Ofori",
-          "url": "https://open.spotify.com/artist/4jsOeCZLQG1ygXCF2pMqvp"
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
         }
       ],
-      "duration_ms": 114158,
-      "name": "Yapa Yapa (Shut It Pls)",
-      "url": "https://open.spotify.com/track/6j2ahxtJ0tzWX6ElZUGiHj"
+      "duration_ms": 145116,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/5Hp4Q5prxVLlWi0GcUApIM"
     }
   ],
   "unique_name": "creamy",

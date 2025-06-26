@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-284 songs - 16 hr 21 min
+285 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Faery King](https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Eldest Daughter Of An Eldest Daughter](https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55) | 4:26 | 2024-10-18 |  |
 | [Faithfully](https://open.spotify.com/track/2UIkqoTk5YyvRpEEUIeoVg) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Faithfully](https://open.spotify.com/album/0uSrvD5hS9m0j9Ldhlyg31) | 4:11 | 2024-05-20 | 2024-08-16 |
 | [Falling For You](https://open.spotify.com/track/7A88nTuJXs45pD7Y1miTQX) | [Kora](https://open.spotify.com/artist/5lc3ISF4CNThZEtJ2N4ZH6) | [Falling For You](https://open.spotify.com/album/5ub2Bf8lPIsARvvDDfsD0M) | 3:58 | 2024-05-20 | 2024-08-16 |
+| [FEEL GOOD AURA](https://open.spotify.com/track/2i43SUgkp5g1W5rze9awuF) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Caru](https://open.spotify.com/artist/2W3HtoJXnap6BDGYr8PRuv), [Romi Wrights](https://open.spotify.com/artist/0NW11rIYIi5R9bTax6kv9J) | [FEEL GOOD AURA](https://open.spotify.com/album/3T6oSRejjNgNcuoq4vd0nz) | 3:28 | 2025-06-12 |  |
 | [Fever](https://open.spotify.com/track/4yzWBU2W6fUWHHshQLEwdi) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Fever](https://open.spotify.com/album/7sfCegKZtfF5c3PtrF6VP4) | 2:35 | 2025-01-30 | 2025-03-08 |
 | [FFS](https://open.spotify.com/track/4bfWDJBebYt4IttaK1pk3m) | [Lucian Rice](https://open.spotify.com/artist/2xxHXXg3zOxOsdb3cODhgs) | [right now, forever](https://open.spotify.com/album/0hxvUFor8krta7TpudUW1U) | 3:24 | 2024-10-18 | 2024-11-27 |
 | [Flames](https://open.spotify.com/track/3RoWTD2S5NNKlIP6gd6ipV) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Flames](https://open.spotify.com/album/6mKaHSnyautSaaiYsFKEpc) | 2:47 | 2024-09-26 | 2025-02-25 |
@@ -136,7 +137,7 @@
 | [It's You](https://open.spotify.com/track/4lTgTn4FTzk3IJWy7icNLL) | [STNDRD](https://open.spotify.com/artist/5LMAyDoKihkMcAGUhMqUYf), [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [It's You](https://open.spotify.com/album/72Lzi9kZu2JrXBSkvw367X) | 3:41 | 2024-05-20 | 2025-02-21 |
 | [It's You \- Remix](https://open.spotify.com/track/0zH0pGgXTM0pqiQXWOJ1sE) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [STNDRD](https://open.spotify.com/artist/5LMAyDoKihkMcAGUhMqUYf), [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [It's You \(Remix\)](https://open.spotify.com/album/1R64RCl0nW49PHsOaCpbC6) | 2:55 | 2024-05-20 | 2025-06-13 |
 | [Jeremy](https://open.spotify.com/track/1uISXy3URFhS0yu5WXanT8) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [Jeremy](https://open.spotify.com/album/3quHOAYylf3eOrnwPr5UoW) | 3:18 | 2024-05-20 | 2024-11-08 |
-| [juliet & juliet](https://open.spotify.com/track/1NUsYYGE0O3SI8CxZrNhCm) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [juliet & juliet](https://open.spotify.com/album/60bkLTXrxVVqiR5G9YtcnQ) | 3:56 | 2025-03-20 |  |
+| [juliet & juliet](https://open.spotify.com/track/1NUsYYGE0O3SI8CxZrNhCm) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [juliet & juliet](https://open.spotify.com/album/60bkLTXrxVVqiR5G9YtcnQ) | 3:56 | 2025-03-20 | 2025-06-26 |
 | [Just Don't Know](https://open.spotify.com/track/67CX9hiqAJtGjDIyhOPoEf) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Just Don't Know](https://open.spotify.com/album/1zzwqgeeOuzSIjzoFVRQrc) | 3:07 | 2024-11-28 | 2025-01-21 |
 | [KAVAFIED](https://open.spotify.com/track/78Mrv1y0tVzrhNRpv9BcXj) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Revus](https://open.spotify.com/artist/2bvztHh7wnuRLZAwLZwpBa) | [KAVAFIED](https://open.spotify.com/album/6XXFEoCUDmrONzj2qLNGgq) | 3:04 | 2025-04-03 | 2025-04-21 |
 | [Keep Calling](https://open.spotify.com/track/01xOq1y8KJhitTuoq59NNi) | [Jackson Owens](https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke) | [Now Forever](https://open.spotify.com/album/0geaFx2oD4MQuy46l2akmu) | 2:58 | 2024-05-20 | 2024-11-08 |

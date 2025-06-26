@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Calm and quiet piano music for reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,333,466 likes - 144 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,333,759 likes - 144 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 71 | [Crimson Skies](https://open.spotify.com/track/43qZorUUAipduGWksDmZUM) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [Crimson Skies](https://open.spotify.com/album/7cVAB3ystjfhiE9lcPHk4l) | 2:14 |
 | 72 | [Aún Te Veo](https://open.spotify.com/track/3fB2azt4qGQTs2KbSsEmjH) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Aún Te Veo](https://open.spotify.com/album/5ZG2B564RbdcYWLEjheU77) | 2:30 |
 | 73 | [Dim](https://open.spotify.com/track/4ux5NLToXWFBWzJHyGdqLM) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Dim](https://open.spotify.com/album/4TSU2w7UkbhAcs7Oz731kM) | 2:47 |
-| 74 | [Still Dreaming of You](https://open.spotify.com/track/1cJH9KgGIgrDSllmLluzoV) | [Giulia Romano](https://open.spotify.com/artist/6cY3BzJkIM9w8lvi4U12LI) | [Still Dreaming of You](https://open.spotify.com/album/7tZTHyu9KKLnKNK4D1GRLq) | 2:26 |
+| 74 | [Still Dreaming of You](https://open.spotify.com/track/1cJH9KgGIgrDSllmLluzoV) | [Giulia Romano](https://open.spotify.com/artist/65ClySy2jTVQdbXwhb6GkC) | [Still Dreaming of You](https://open.spotify.com/album/7tZTHyu9KKLnKNK4D1GRLq) | 2:26 |
 | 75 | [Arches](https://open.spotify.com/track/4cyhuoZvaQcdF2hXqduc36) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Arches](https://open.spotify.com/album/1LSloEl1e5sfaBZECpkgr0) | 2:42 |
 | 76 | [Les pages du matin](https://open.spotify.com/track/4fKPpJFzHdVNgWtaZVXZV5) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Les pages du matin](https://open.spotify.com/album/05dCBl52DYEDEQSORYZrTa) | 2:42 |
 | 77 | [Celadon Hill](https://open.spotify.com/track/5uLoyV8cLAngL0i2ETQEM7) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Celadon Hill](https://open.spotify.com/album/2HagBRf04kanZj0pf2cLIt) | 2:27 |

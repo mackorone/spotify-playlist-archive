@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 20174,
+  "num_followers": 20180,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFiZAAAAAADATRdgqhu/un6UNfHl8t1X",
+  "snapshot_id": "aFnqgAAAAABwWRsEr6cD0DsSVcdyqv8/",
   "tracks": [
     {
       "added_at": null,
@@ -1075,30 +1075,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oh My Gawd",
-        "url": "https://open.spotify.com/album/5P5MvJc13ZQcxfMzyk60d0"
+        "name": "Tall Shade",
+        "url": "https://open.spotify.com/album/1ot4OOnFQfD7FtoQAU3qKS"
       },
       "artists": [
+        {
+          "name": "Patrice",
+          "url": "https://open.spotify.com/artist/1fBcQOi8yEfWN7fknMoqIE"
+        },
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "K4mo",
-          "url": "https://open.spotify.com/artist/7IziQIyiq8TGse0Mc1laYi"
+          "name": "Jugglerz",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Oh My Gawd",
-      "url": "https://open.spotify.com/track/2YPt00iweeNvS9qDu0X48d"
+      "duration_ms": 179750,
+      "name": "Tall Shade",
+      "url": "https://open.spotify.com/track/4pACPCpLl5vqvrToSE161d"
     }
   ],
   "unique_name": "This Is Mr Eazi",

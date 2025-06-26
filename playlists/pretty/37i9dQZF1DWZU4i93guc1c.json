@@ -1,6 +1,6 @@
 {
   "description": "\u0410\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0456 \u0445\u0456\u0442\u0438 \u0442\u0430 \u043f\u0440\u043e\u0440\u0438\u0432\u043d\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u043d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u043e\u0457 \u043c\u0456\u0441\u0446\u0435\u0432\u043e\u0457 \u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Blooms Corda",
-  "num_followers": 38602,
+  "num_followers": 38601,
   "original_name": "\u0456\u043d\u0434\u0456",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-06-19 21:18:17",
       "album": {
-        "name": "\u041b\u0456\u0444\u0442",
-        "url": "https://open.spotify.com/album/7o0KiXHau0bjiaqy9PbN7H"
-      },
-      "artists": [
-        {
-          "name": "\u0416\u0435\u043d\u044f \u0413\u0430\u043b\u0438\u0447",
-          "url": "https://open.spotify.com/artist/2UF0JmW4D3B0bXeAZMidyD"
-        }
-      ],
-      "duration_ms": 149280,
-      "name": "\u041b\u0456\u0444\u0442",
-      "url": "https://open.spotify.com/track/14tNEzKUco8Uxt8zCrFW5r"
-    },
-    {
-      "added_at": "2025-06-19 21:18:17",
-      "album": {
         "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u043d\u0435 \u0431\u0440\u0435\u0448\u0438",
         "url": "https://open.spotify.com/album/6IqttDgQZHC05pcI1WTa3k"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 125217,
       "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u043d\u0435 \u0431\u0440\u0435\u0448\u0438",
       "url": "https://open.spotify.com/track/1nBKQvdtCQB6vt4x69qSL0"
+    },
+    {
+      "added_at": "2025-06-19 21:18:17",
+      "album": {
+        "name": "\u041b\u0456\u0444\u0442",
+        "url": "https://open.spotify.com/album/7o0KiXHau0bjiaqy9PbN7H"
+      },
+      "artists": [
+        {
+          "name": "\u0416\u0435\u043d\u044f \u0413\u0430\u043b\u0438\u0447",
+          "url": "https://open.spotify.com/artist/2UF0JmW4D3B0bXeAZMidyD"
+        }
+      ],
+      "duration_ms": 149280,
+      "name": "\u041b\u0456\u0444\u0442",
+      "url": "https://open.spotify.com/track/14tNEzKUco8Uxt8zCrFW5r"
     },
     {
       "added_at": "2025-06-19 21:18:17",
@@ -887,26 +887,6 @@
     {
       "added_at": "2025-06-19 21:18:17",
       "album": {
-        "name": "\u0427\u0422\u041c\u0421",
-        "url": "https://open.spotify.com/album/2X5rrbpYHpy0ab5imfSYPS"
-      },
-      "artists": [
-        {
-          "name": "GRABAR",
-          "url": "https://open.spotify.com/artist/3oTWXfqg8nmS0nlSkYDiYK"
-        },
-        {
-          "name": "YUVI",
-          "url": "https://open.spotify.com/artist/6l6Oqj9SmzFR81eaVmyhB9"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "\u0427\u0422\u041c\u0421",
-      "url": "https://open.spotify.com/track/4DIAfmFZWw2ygROPNyqEwj"
-    },
-    {
-      "added_at": "2025-06-19 21:18:17",
-      "album": {
         "name": "\u0423\u043b\u044e\u0431\u043b\u0435\u043d\u0456 \u0440\u0435\u0447\u0456",
         "url": "https://open.spotify.com/album/2yLB5xxHwr2sfcFgcFUK8O"
       },
@@ -955,26 +935,22 @@
     {
       "added_at": "2025-06-19 21:18:17",
       "album": {
-        "name": "\u0423\u0441\u0456 \u043c\u0438 \u043f\u0440\u0430\u0433\u043d\u0435\u043c\u043e \u043b\u044e\u0431\u043e\u0432\u0456",
-        "url": "https://open.spotify.com/album/7uq7GMPRLgSIM7Hz5qndQe"
+        "name": "\u0427\u0422\u041c\u0421",
+        "url": "https://open.spotify.com/album/2X5rrbpYHpy0ab5imfSYPS"
       },
       "artists": [
         {
-          "name": "\u041a\u0440\u0438\u0445\u0456\u0442\u043a\u0430",
-          "url": "https://open.spotify.com/artist/3GvCDEg7s8LxI3FNS1CWRK"
+          "name": "GRABAR",
+          "url": "https://open.spotify.com/artist/3oTWXfqg8nmS0nlSkYDiYK"
         },
         {
-          "name": "ULIA LORD",
-          "url": "https://open.spotify.com/artist/5SSvKZ0783cGZgR0yYC6i9"
-        },
-        {
-          "name": "Qarpa",
-          "url": "https://open.spotify.com/artist/6E1zNg2zYhqKErKzkrb9em"
+          "name": "YUVI",
+          "url": "https://open.spotify.com/artist/6l6Oqj9SmzFR81eaVmyhB9"
         }
       ],
-      "duration_ms": 228078,
-      "name": "\u0423\u0441\u0456 \u043c\u0438 \u043f\u0440\u0430\u0433\u043d\u0435\u043c\u043e \u043b\u044e\u0431\u043e\u0432\u0456",
-      "url": "https://open.spotify.com/track/7oiIq24JR3715PeHFndzxm"
+      "duration_ms": 225000,
+      "name": "\u0427\u0422\u041c\u0421",
+      "url": "https://open.spotify.com/track/4DIAfmFZWw2ygROPNyqEwj"
     },
     {
       "added_at": "2025-06-19 21:18:17",
@@ -1011,22 +987,26 @@
     {
       "added_at": "2025-06-19 21:18:17",
       "album": {
-        "name": "\u0421\u041c\u0423\u0413\u0418",
-        "url": "https://open.spotify.com/album/5oePjlSoDXJgfHXgsjPu8C"
+        "name": "\u0423\u0441\u0456 \u043c\u0438 \u043f\u0440\u0430\u0433\u043d\u0435\u043c\u043e \u043b\u044e\u0431\u043e\u0432\u0456",
+        "url": "https://open.spotify.com/album/7uq7GMPRLgSIM7Hz5qndQe"
       },
       "artists": [
         {
-          "name": "badactress",
-          "url": "https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV"
+          "name": "\u041a\u0440\u0438\u0445\u0456\u0442\u043a\u0430",
+          "url": "https://open.spotify.com/artist/3GvCDEg7s8LxI3FNS1CWRK"
         },
         {
-          "name": "SAGE",
-          "url": "https://open.spotify.com/artist/2ItrYNZZmNn7hQaWlfReC4"
+          "name": "ULIA LORD",
+          "url": "https://open.spotify.com/artist/5SSvKZ0783cGZgR0yYC6i9"
+        },
+        {
+          "name": "Qarpa",
+          "url": "https://open.spotify.com/artist/6E1zNg2zYhqKErKzkrb9em"
         }
       ],
-      "duration_ms": 217428,
-      "name": "\u0421\u041c\u0423\u0413\u0418",
-      "url": "https://open.spotify.com/track/61QVw84uXhjAsbM7GKyvP0"
+      "duration_ms": 228078,
+      "name": "\u0423\u0441\u0456 \u043c\u0438 \u043f\u0440\u0430\u0433\u043d\u0435\u043c\u043e \u043b\u044e\u0431\u043e\u0432\u0456",
+      "url": "https://open.spotify.com/track/7oiIq24JR3715PeHFndzxm"
     },
     {
       "added_at": "2025-06-19 21:18:17",
@@ -1043,6 +1023,26 @@
       "duration_ms": 138095,
       "name": "\u041c\u0440\u0456\u044e",
       "url": "https://open.spotify.com/track/5z8UhrDbS53B49qlkJJxgy"
+    },
+    {
+      "added_at": "2025-06-19 21:18:17",
+      "album": {
+        "name": "\u0421\u041c\u0423\u0413\u0418",
+        "url": "https://open.spotify.com/album/5oePjlSoDXJgfHXgsjPu8C"
+      },
+      "artists": [
+        {
+          "name": "badactress",
+          "url": "https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV"
+        },
+        {
+          "name": "SAGE",
+          "url": "https://open.spotify.com/artist/2ItrYNZZmNn7hQaWlfReC4"
+        }
+      ],
+      "duration_ms": 217428,
+      "name": "\u0421\u041c\u0423\u0413\u0418",
+      "url": "https://open.spotify.com/track/61QVw84uXhjAsbM7GKyvP0"
     },
     {
       "added_at": "2025-06-19 21:18:17",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-06-19 21:18:17",
       "album": {
+        "name": "Waste My Time",
+        "url": "https://open.spotify.com/album/2Xoh8NgrbX3cjbBE793Zfo"
+      },
+      "artists": [
+        {
+          "name": "Future Culture",
+          "url": "https://open.spotify.com/artist/5zf2b6LzO85Q1FFPbFi16Z"
+        }
+      ],
+      "duration_ms": 169105,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/45C5eFl2X5KKYDZYGiYaye"
+    },
+    {
+      "added_at": "2025-06-19 21:18:17",
+      "album": {
         "name": "\u0414\u0440\u0456-\u0442\u0430-\u0442\u0430",
         "url": "https://open.spotify.com/album/5YAH8DAHCjdcoveHbA1B6U"
       },
@@ -1327,18 +1343,18 @@
     {
       "added_at": "2025-06-19 21:18:17",
       "album": {
-        "name": "Waste My Time",
-        "url": "https://open.spotify.com/album/2Xoh8NgrbX3cjbBE793Zfo"
+        "name": "La petite mort",
+        "url": "https://open.spotify.com/album/7wXLK5FwExwbz8zkjj5lo1"
       },
       "artists": [
         {
-          "name": "Future Culture",
-          "url": "https://open.spotify.com/artist/5zf2b6LzO85Q1FFPbFi16Z"
+          "name": "Granat Garden",
+          "url": "https://open.spotify.com/artist/2KMR2HzUel7KoNvJaTjt5L"
         }
       ],
-      "duration_ms": 169105,
-      "name": "Waste My Time",
-      "url": "https://open.spotify.com/track/45C5eFl2X5KKYDZYGiYaye"
+      "duration_ms": 275257,
+      "name": "La petite mort",
+      "url": "https://open.spotify.com/track/2N3EvX5a9jvMy4KF0IGjZO"
     },
     {
       "added_at": "2025-06-19 21:18:17",
@@ -1355,22 +1371,6 @@
       "duration_ms": 226206,
       "name": "\u0434\u0456\u043c \u043d\u0430 \u043f\u0456\u0441\u043a\u0443",
       "url": "https://open.spotify.com/track/5f1Gb8XoBHKNhP9cZcDTUU"
-    },
-    {
-      "added_at": "2025-06-19 21:18:17",
-      "album": {
-        "name": "La petite mort",
-        "url": "https://open.spotify.com/album/7wXLK5FwExwbz8zkjj5lo1"
-      },
-      "artists": [
-        {
-          "name": "Granat Garden",
-          "url": "https://open.spotify.com/artist/2KMR2HzUel7KoNvJaTjt5L"
-        }
-      ],
-      "duration_ms": 275257,
-      "name": "La petite mort",
-      "url": "https://open.spotify.com/track/2N3EvX5a9jvMy4KF0IGjZO"
     },
     {
       "added_at": "2025-06-19 21:18:17",
