@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Madness\n",
-  "num_followers": 61091,
+  "num_followers": 61126,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-06-20 06:00:32",
       "album": {
-        "name": "Summer Disease",
-        "url": "https://open.spotify.com/album/31yE7CRqw1tN12Shn6zhxi"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 197525,
-      "name": "Summer Disease",
-      "url": "https://open.spotify.com/track/46oLm0kJKk5KtNpMxfjVRh"
-    },
-    {
-      "added_at": "2025-06-20 06:00:32",
-      "album": {
         "name": "Los Rabanes",
         "url": "https://open.spotify.com/album/388hQ9HODVgaonBXDEznFh"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 184533,
       "name": "My Commanding Wife",
       "url": "https://open.spotify.com/track/1Yioe436ryeIRmiEzsrzVv"
+    },
+    {
+      "added_at": "2025-06-20 06:00:32",
+      "album": {
+        "name": "All The Moon Stompers",
+        "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "I Wanna Riot",
+      "url": "https://open.spotify.com/track/3prgCqodybVT758HNY2SXW"
     },
     {
       "added_at": "2025-06-20 06:00:32",
@@ -959,18 +959,18 @@
     {
       "added_at": "2025-06-20 06:00:32",
       "album": {
-        "name": "All The Moon Stompers",
-        "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
+        "name": "Summer Disease",
+        "url": "https://open.spotify.com/album/31yE7CRqw1tN12Shn6zhxi"
       },
       "artists": [
         {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
         }
       ],
-      "duration_ms": 191666,
-      "name": "I Wanna Riot",
-      "url": "https://open.spotify.com/track/3prgCqodybVT758HNY2SXW"
+      "duration_ms": 197525,
+      "name": "Summer Disease",
+      "url": "https://open.spotify.com/track/46oLm0kJKk5KtNpMxfjVRh"
     },
     {
       "added_at": "2025-06-20 06:00:32",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2025-06-20 06:00:32",
       "album": {
-        "name": "Salida 32",
-        "url": "https://open.spotify.com/album/236QUbOHOXCb4gosnr1gsD"
-      },
-      "artists": [
-        {
-          "name": "Funambulista",
-          "url": "https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U"
-        },
-        {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "Salida 32",
-      "url": "https://open.spotify.com/track/6tWkhkZ7SHR3fDyX058p2s"
-    },
-    {
-      "added_at": "2025-06-20 06:00:32",
-      "album": {
         "name": "Shellshock",
         "url": "https://open.spotify.com/album/1UWTes4uVkRcGJeEKCBw4x"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 248370,
       "name": "Sleepin' on the Couch (with The Elovaters)",
       "url": "https://open.spotify.com/track/7hshPrDYRXYIpOCmHRMBhM"
+    },
+    {
+      "added_at": "2025-06-20 06:00:32",
+      "album": {
+        "name": "Salida 32",
+        "url": "https://open.spotify.com/album/236QUbOHOXCb4gosnr1gsD"
+      },
+      "artists": [
+        {
+          "name": "Funambulista",
+          "url": "https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U"
+        },
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "Salida 32",
+      "url": "https://open.spotify.com/track/6tWkhkZ7SHR3fDyX058p2s"
     },
     {
       "added_at": "2025-06-20 06:00:32",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-06-20 06:00:32",
       "album": {
-        "name": "Jolly Good Fellas - Best of Broilers 1994-2024",
-        "url": "https://open.spotify.com/album/6QGv5jv9VH7oRFF5is69mv"
-      },
-      "artists": [
-        {
-          "name": "Broilers",
-          "url": "https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "In 80 Tagen um die Welt - Birthday Rerecordings '24",
-      "url": "https://open.spotify.com/track/4JABU1W26SfKdMloYWs1TW"
-    },
-    {
-      "added_at": "2025-06-20 06:00:32",
-      "album": {
         "name": "The Sound Of Revolution",
         "url": "https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 205527,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw"
+    },
+    {
+      "added_at": "2025-06-20 06:00:32",
+      "album": {
+        "name": "Jolly Good Fellas - Best of Broilers 1994-2024",
+        "url": "https://open.spotify.com/album/6QGv5jv9VH7oRFF5is69mv"
+      },
+      "artists": [
+        {
+          "name": "Broilers",
+          "url": "https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "In 80 Tagen um die Welt - Birthday Rerecordings '24",
+      "url": "https://open.spotify.com/track/4JABU1W26SfKdMloYWs1TW"
     },
     {
       "added_at": "2025-06-20 06:00:32",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-06-20 06:00:32",
       "album": {
-        "name": "Zombiler",
-        "url": "https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z"
-      },
-      "artists": [
-        {
-          "name": "Second",
-          "url": "https://open.spotify.com/artist/0hB4oP2Xs7bmAb3W5dHwsi"
-        }
-      ],
-      "duration_ms": 206129,
-      "name": "Zombiler",
-      "url": "https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz"
-    },
-    {
-      "added_at": "2025-06-20 06:00:32",
-      "album": {
         "name": "Inflammable",
         "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 171693,
       "name": "La Manifestacion",
       "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
+    },
+    {
+      "added_at": "2025-06-20 06:00:32",
+      "album": {
+        "name": "Zombiler",
+        "url": "https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z"
+      },
+      "artists": [
+        {
+          "name": "Second",
+          "url": "https://open.spotify.com/artist/0hB4oP2Xs7bmAb3W5dHwsi"
+        }
+      ],
+      "duration_ms": 206129,
+      "name": "Zombiler",
+      "url": "https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz"
     },
     {
       "added_at": "2025-06-20 06:00:32",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2025-06-20 06:00:32",
       "album": {
+        "name": "El \u00c1tico",
+        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
+      },
+      "artists": [
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "El \u00c1tico",
+      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
+    },
+    {
+      "added_at": "2025-06-20 06:00:32",
+      "album": {
         "name": "Feliz",
         "url": "https://open.spotify.com/album/5oD73yHwxR4UJhXsBFXLuk"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 176500,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/1y1a1nJZ3ycvXwNR3ycFe1"
-    },
-    {
-      "added_at": "2025-06-20 06:00:32",
-      "album": {
-        "name": "El \u00c1tico",
-        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
-      },
-      "artists": [
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "El \u00c1tico",
-      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
     },
     {
       "added_at": "2025-06-20 06:00:32",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2025-06-20 06:00:32",
       "album": {
-        "name": "Mudik",
-        "url": "https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ"
+        "name": "Return Of The Ugly",
+        "url": "https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD"
       },
       "artists": [
         {
-          "name": "Shaggydog",
-          "url": "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
+          "name": "Bad Manners",
+          "url": "https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx"
         }
       ],
-      "duration_ms": 255500,
-      "name": "Mudik",
-      "url": "https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR"
+      "duration_ms": 182600,
+      "name": "Sally Brown",
+      "url": "https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE"
     }
   ],
   "unique_name": "Ska Around The Globe",

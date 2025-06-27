@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Miserable",
+        "url": "https://open.spotify.com/album/4207P6ZEsU5nqCCHRhBUcA"
+      },
+      "artists": [
+        {
+          "name": "Vicky Chen",
+          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193693,
+      "name": "Miserable",
+      "url": "https://open.spotify.com/track/2hRVNcJYwOHEXZJPMJUuEz"
+    },
+    {
+      "album": {
         "name": "9522",
         "url": "https://open.spotify.com/album/3B7O6oexiw9IFi3OAsWerb"
       },
@@ -6694,7 +6712,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-25",
+      "date_removed": null,
       "duration_ms": 280097,
       "name": "\u6c92\u6709\u7b2c\u4e09\u8005\u7684\u5206\u624b",
       "url": "https://open.spotify.com/track/3kRvEriTtPqbwRNhI9cQDw"
@@ -8144,7 +8162,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 288995,
       "name": "\u8309\u8389\u82b1\u9999",
       "url": "https://open.spotify.com/track/5bwXCWiCaAXJEpqS782DT6"
@@ -8462,7 +8480,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 225281,
       "name": "\u89aa\u611b\u7684\u4f60\u5feb\u6a02\u55ce",
       "url": "https://open.spotify.com/track/05X4MUEsxGhEqgDFgAypoz"

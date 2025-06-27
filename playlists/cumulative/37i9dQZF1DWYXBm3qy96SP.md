@@ -2,9 +2,9 @@
 
 ### [Rock The World](https://open.spotify.com/playlist/37i9dQZF1DWYXBm3qy96SP)
 
-> 世界中のロックシーンを彩る話題曲をチェック。Cover: Muse
+> 世界中のロックシーンを彩る話題曲をチェック。Cover: Royel Otis
 
-1,615 songs - 3 day 21 hr 4 min
+1,619 songs - 3 day 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Bad Remake](https://open.spotify.com/track/5UH4N852wbIVUcMfPGquu1) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens \(5th Anniversary Edition\)](https://open.spotify.com/album/3GbofUquULdgvfmK83AXVz) | 3:08 | 2024-07-18 | 2024-08-02 |
 | [Bad Time](https://open.spotify.com/track/3ybguBEEMkpKz07SBefKW3) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Bad Time](https://open.spotify.com/album/3QgyHF06SLRbdwjk1cBxty) | 2:55 | 2023-11-30 | 2023-12-08 |
 | [BADMAN](https://open.spotify.com/track/1pCyTcaqP56AiGqMSwdN12) | [RAT BOY](https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC) | [BADMAN](https://open.spotify.com/album/2PAbdMKsxkev1Xt8E2xmLt) | 2:48 | 2024-07-18 | 2024-08-10 |
+| [Bag Of Bones](https://open.spotify.com/track/1M2AqYT4Y6X0zRboZgIw8K) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Bag Of Bones](https://open.spotify.com/album/4tWOuqMX9aMpFxvNU1WkYl) | 4:04 | 2025-06-26 |  |
 | [ballad of a homeschooled girl](https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:23 | 2023-12-21 | 2024-02-09 |
 | [Ballyhoo](https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Ballyhoo](https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3) | 2:45 | 2025-05-01 | 2025-06-16 |
 | [Balu](https://open.spotify.com/track/5zCxHFdFyn3bi9hA9EQ6u3) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Balu](https://open.spotify.com/album/0k3Iu4vn19MBPYtefVrJPX) | 3:52 | 2024-02-29 | 2024-05-03 |
@@ -280,6 +281,7 @@
 | [Candy Pink](https://open.spotify.com/track/0fhDu7tCzkKEsWvwAZYHLH) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Pulp](https://open.spotify.com/album/3jGK6MR6SNkw4j78MFQ1I2) | 2:53 | 2023-05-25 | 2023-06-09 |
 | [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 | 2024-02-15 | 2024-05-10 |
 | [Capricorn](https://open.spotify.com/track/4oAGV7IADPWfkpk6aGQqZt) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:09 | 2024-04-12 | 2024-04-19 |
+| [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 | 2025-06-26 |  |
 | [Caramel](https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Caramel](https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m) | 4:50 | 2025-04-03 |  |
 | [Carnavoyeur](https://open.spotify.com/track/11VOYtYJ0Bstb7QOCDDs5e) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Carnavoyeur](https://open.spotify.com/album/2UB1sEIK8wEhikbkcsIcIn) | 3:56 | 2023-06-01 | 2023-06-22 |
 | [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 | 2025-03-27 | 2025-06-13 |
@@ -366,6 +368,7 @@
 | [Dark Matter](https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF) | 3:31 | 2024-02-15 | 2024-06-09 |
 | [Dark Skies](https://open.spotify.com/track/72mLqLvPHY8RU0noE9CpKs) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [Dark Skies](https://open.spotify.com/album/5NodXs8mlXnrAA0P6yu8n4) | 3:27 | 2024-01-11 | 2024-01-26 |
 | [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 | 2023-10-12 | 2024-02-09 |
+| [davina mccall](https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [davina mccall](https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf) | 3:47 | 2025-06-26 |  |
 | [Day Job](https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN) | [Jayden Seeley](https://open.spotify.com/artist/6gzW91j6PTJlXTpshZGSQy), [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Day Job](https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi) | 2:38 | 2023-09-28 | 2023-10-13 |
 | [De Selby \(Part 2\)](https://open.spotify.com/track/20kkA2JHtAF5J7iz89iOuB) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [De Selby \(Part 2\)](https://open.spotify.com/album/3XhPF8KnqNLkSPbNbBqMw6) | 3:47 | 2023-07-20 | 2023-07-22 |
 | [De Selby \(Part 2\)](https://open.spotify.com/track/3SRtygyWBQnoxuOPtdBPm2) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 3:47 | 2023-08-24 | 2024-01-19 |
@@ -411,7 +414,7 @@
 | [Dog](https://open.spotify.com/track/1MwBrXBadrxeRBC6wr1aFG) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Piggy](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:27 | 2023-08-10 | 2023-08-18 |
 | [Dog Song](https://open.spotify.com/track/3X610Y3QXfGMKc5zG45EJ4) | [Dolo Tonight](https://open.spotify.com/artist/3ED1AG2E67Epo3MBFVOFj9) | [Dog Song](https://open.spotify.com/album/05hpBiCDUiQ2R8tmTCLXKl) | 1:43 | 2023-12-07 | 2023-12-15 |
 | [Doll](https://open.spotify.com/track/718j4dLgigKSHiRYiHuhMC) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Doll](https://open.spotify.com/album/233GhcZaDayKcSfRtx5rW3) | 3:31 | 2024-04-11 | 2024-07-19 |
-| [Don't Forget You Love Me](https://open.spotify.com/track/3M8QCvzsGSQE0gBXltnWr1) | [Calum Hood](https://open.spotify.com/artist/663fZd6uEkPKLwBzPj50S3) | [ORDER chaos ORDER](https://open.spotify.com/album/0O0OCwx5K3WRMrfqwVMR2f) | 3:37 | 2025-06-19 |  |
+| [Don't Forget You Love Me](https://open.spotify.com/track/3M8QCvzsGSQE0gBXltnWr1) | [Calum Hood](https://open.spotify.com/artist/663fZd6uEkPKLwBzPj50S3) | [ORDER chaos ORDER](https://open.spotify.com/album/0O0OCwx5K3WRMrfqwVMR2f) | 3:37 | 2025-06-19 | 2025-06-27 |
 | [Don't Get Me Started](https://open.spotify.com/track/7i5M9mb2gF9VvuNSlUsAaz) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Don't Get Me Started](https://open.spotify.com/album/477uxPlEAq7OPmwF4zS1Wi) | 5:55 | 2024-08-29 | 2024-09-22 |
 | [Don't Get Me Wrong](https://open.spotify.com/track/386DEQx94L5LVXKw4HtSdN) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Don't Get Me Wrong](https://open.spotify.com/album/4uPRhzjEpqcKAHCFMW3YSm) | 2:53 | 2023-05-04 | 2023-05-12 |
 | [DON'T KILL ME](https://open.spotify.com/track/6JDsYqbQFdHb7xK0L5kvLG) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk), [Of Virtue](https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA) | [DON'T KILL ME](https://open.spotify.com/album/2lZ4vKKM3D9alxwFMcvKvS) | 3:29 | 2024-07-26 | 2024-09-20 |
@@ -1127,7 +1130,7 @@
 | [QUIT!!](https://open.spotify.com/track/6GIXiA6ERSW78r9Vz0ps5n) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [QUIT!!](https://open.spotify.com/album/2bnrdd634hDSjoqbOSmNqm) | 2:46 | 2024-01-11 | 2024-02-23 |
 | [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 | 2024-04-11 | 2024-06-09 |
 | [Raging Fire](https://open.spotify.com/track/3X8OVMSDJdaI9dmSQJBNL5) | [DURAN](https://open.spotify.com/artist/0xJrq1b8p7EYC9aDVF9tHP) | [Electric Man](https://open.spotify.com/album/6bwdq1YGGRsDEXNhJQ50iC) | 3:22 | 2023-11-30 | 2023-12-08 |
-| [Rain in the River](https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Rain in the River](https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P) | 3:12 | 2025-04-03 |  |
+| [Rain in the River](https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Rain in the River](https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P) | 3:12 | 2025-04-03 | 2025-06-27 |
 | [Rain on the Graves](https://open.spotify.com/track/2DYquEUcjmMjxZYFKPON4L) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Rain on the Graves](https://open.spotify.com/album/13hB30MBr9lEVogRpiNBav) | 5:04 | 2024-01-25 | 2024-02-02 |
 | [Rainbow](https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:15 | 2024-05-16 | 2025-05-23 |
 | [RAINBOWS](https://open.spotify.com/track/0kXgnZe4a43OUzt5y6lHUt) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [RAINBOWS](https://open.spotify.com/album/3eCS3qFlYjSPYhJCV8UTdj) | 3:44 | 2024-02-29 | 2024-05-03 |
@@ -1140,6 +1143,7 @@
 | [red \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2D3JfPyY2LkzXgNOb7qziR) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 3:25 | 2023-03-16 | 2024-02-09 |
 | [Red Flags](https://open.spotify.com/track/4rINATFnopomhiBQfGPTR1) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Red Flags](https://open.spotify.com/album/6YGzHWAxYqFbZusxEF7xL3) | 3:39 | 2023-09-07 | 2023-09-22 |
 | [Rehab](https://open.spotify.com/track/3b1WgrrZodxXASonmXLqTS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 4:11 | 2023-09-08 | 2023-09-22 |
+| [Rejects](https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Rejects](https://open.spotify.com/album/78grezRlmscONkCdIIvkQa) | 2:54 | 2025-06-26 |  |
 | [replica](https://open.spotify.com/track/2ZLdeyeaIQdP4mqcMCB9yR) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 5:13 | 2023-11-16 | 2023-11-24 |
 | [Rescued](https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 4:18 | 2023-06-22 | 2023-09-25 |
 | [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 | 2023-04-20 | 2023-06-23 |
@@ -1312,10 +1316,10 @@
 | [Stray Dog](https://open.spotify.com/track/4Fjlyizev6rOx3rVo6JQIC) | [Amigo the Devil](https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv) | [Yours Until the War is Over](https://open.spotify.com/album/3Uf2ioZXjv71usXs8NZZ7M) | 4:10 | 2024-02-22 | 2024-03-01 |
 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 | 2023-05-11 | 2023-10-06 |
 | [Stuck](https://open.spotify.com/track/483ngpflrHCLnkBSXsSnsb) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [It’s The End Of The World But It’s A Beautiful Day](https://open.spotify.com/album/08qd1EHSPOu0RHlIOgyYDf) | 3:02 | 2023-10-05 | 2024-02-09 |
-| [Stuck In My Head](https://open.spotify.com/track/35N9LmzkCjMd2ZmAATzG6U) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Stuck In My Head](https://open.spotify.com/album/10e9Xt5aK3eye5TyNb8vx1) | 3:17 | 2024-07-26 |  |
+| [Stuck In My Head](https://open.spotify.com/track/35N9LmzkCjMd2ZmAATzG6U) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Stuck In My Head](https://open.spotify.com/album/10e9Xt5aK3eye5TyNb8vx1) | 3:17 | 2024-07-26 | 2025-06-27 |
 | [Stuck In The Heat](https://open.spotify.com/track/765LpfOB7pBklA0X34LbHB) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [At Least I Tried](https://open.spotify.com/album/2SEw3hXvE9tlEPh3ki3LiU) | 2:03 | 2023-11-30 | 2023-12-08 |
 | [SUBURBIA CALLING](https://open.spotify.com/track/0sRMZbWkH1G5XVFt3NZbE1) | [RAT BOY](https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC) | [SUBURBIA CALLING](https://open.spotify.com/album/5GEpjub1ldAz72kvL6kyVh) | 2:49 | 2024-04-25 | 2024-06-21 |
-| [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 | 2025-02-06 |  |
+| [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 | 2025-02-06 | 2025-06-27 |
 | [Sucker \(from the series Arcane League of Legends\)](https://open.spotify.com/track/540k1IRl5UPMhVhpu1LRQ3) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Sucker \(from the series Arcane League of Legends\)](https://open.spotify.com/album/7hQaRZQoy3R7ni0PzKajXT) | 3:44 | 2024-11-07 |  |
 | [SUCKERPUNCH](https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [SUCKERPUNCH](https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ) | 2:52 | 2025-06-12 |  |
 | [Sugar Babies](https://open.spotify.com/track/6V58G3yLOvUNI4TFuJzkbw) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Sugar Babies](https://open.spotify.com/album/4u8VfWQis8Lq1EMi0wQlSv) | 5:45 | 2023-05-18 | 2023-06-09 |

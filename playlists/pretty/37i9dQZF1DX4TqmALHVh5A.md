@@ -2,33 +2,33 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène francophone branchée sur courant alternatif\. Photo : Axel Bauer & Brigitte Fontaine
+> La scène francophone branchée sur courant alternatif\. Photo : MDNS
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,551 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,558 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Merde à La Mer](https://open.spotify.com/track/0mb9NIxnBNpWAKPbaL4FBC) | [Axel Bauer](https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd), [Brigitte Fontaine](https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1) | [Merde à La Mer](https://open.spotify.com/album/4Y0qxZssGRDLxtUEO4obK4) | 2:52 |
-| 2 | [Romy](https://open.spotify.com/track/57LPD03prhGgH8SlJ7Tndg) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Romy](https://open.spotify.com/album/77gs1qTyEAOzhET2vsD3ED) | 3:19 |
-| 3 | [Les Chevaux Blancs](https://open.spotify.com/track/6y0yMswC3BLtp5VQ41lxJD) | [Mon cher Guy](https://open.spotify.com/artist/6KwKwfx3DSMOYDfHo1GcK2), [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Cowboy Circus](https://open.spotify.com/album/0LeNAzIxVwsSVrvUq28HPD) | 2:38 |
-| 4 | [ne pas regarder en bas](https://open.spotify.com/track/4aZjNBd7e3HI6w3kkHwGEA) | [nous étions une armée](https://open.spotify.com/artist/2GT9RRFupyQile63whfk0t) | [ne pas regarder en bas](https://open.spotify.com/album/4j9nAsPRUp5HQfexdBKN97) | 2:52 |
-| 5 | [ENCORE!](https://open.spotify.com/track/5HEAExffQ9taEhirCvDKZS) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [ENCORE!](https://open.spotify.com/album/65SZnjdnG7PQt6HruiqQUY) | 2:06 |
-| 6 | [Dania](https://open.spotify.com/track/4PjbnxON54kfrRtur51R8L) | [Sans Lactose](https://open.spotify.com/artist/5o9bgsy6gISpQ7FJszf34L) | [Dania](https://open.spotify.com/album/5zBWA42QHQwCuroHrhwCCB) | 2:15 |
-| 7 | [miki cowboy](https://open.spotify.com/track/641fgTSsoeAYNkgR3m7HMU) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/2BMT7xu97SvpVB20ciDNFW) | 2:18 |
-| 8 | [Dans quelques années](https://open.spotify.com/track/7iTKzfE7lcUMPfqNyeKQcE) | [Arca M](https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg) | [Dans quelques années](https://open.spotify.com/album/4XYeMFN1EkDkn3BMDrZACn) | 3:19 |
-| 9 | [Allons Voir](https://open.spotify.com/track/7jDBI4HB9zYxySDAbN54iW) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Allons Voir](https://open.spotify.com/album/14J8yvy5eUlDnxN266550W) | 3:49 |
-| 10 | [Maisons vides](https://open.spotify.com/track/5xcpjChubYvUHXS5M9MFFB) | [KCIDY](https://open.spotify.com/artist/7rOzcz6BWm7gwp4LMpdkSO) | [Maisons vides](https://open.spotify.com/album/1hgVIIJBeoAcy96jPMS3Xx) | 4:02 |
-| 11 | [Jour vert](https://open.spotify.com/track/5nacc9dNvHHUCzYZJxQnME) | [Barbet](https://open.spotify.com/artist/7rN8I3x8rAW7gGFYLCK03E), [Cesar](https://open.spotify.com/artist/20m6HbvQBjsXKPC0S5WVKS) | [Sous l'orage](https://open.spotify.com/album/6p52nGu2VCACb7n45Ry0Y0) | 3:24 |
-| 12 | [PAS SI MAL](https://open.spotify.com/track/69VxTSW7uFiJDHPg01rk73) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [PAS SI MAL](https://open.spotify.com/album/1eHIUJ3FyTVwxa4Xx0uBg7) | 2:37 |
-| 13 | [Humain](https://open.spotify.com/track/1I7q4Nvn6hRTb2lyHTVcWR) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Plastique](https://open.spotify.com/album/0LzO13HzLPa3soZILnIkQc) | 2:45 |
-| 14 | [Vie de rêve](https://open.spotify.com/track/5hiomyDdmSY5uITlR75LmK) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI), [Zenzile](https://open.spotify.com/artist/3W9EL2Dp6yptDXJUCrd68X) | [Vie de rêve](https://open.spotify.com/album/225dAvG6EOybII03gUtrOJ) | 4:09 |
-| 15 | [Pas Bourré](https://open.spotify.com/track/0OY34cEFCVlUogk5ZCpC2a) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Pas Bourré](https://open.spotify.com/album/6yjzDLjWfSejFLZFVZgM97) | 3:50 |
-| 16 | [Keskia](https://open.spotify.com/track/4bXWo43kD5yjlQ3oFCGVWo) | [Odezenne](https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp) | [DOULA \(des couloirs des portières\)](https://open.spotify.com/album/7IVZQAZQiJ1JoDAjsjfbYU) | 2:57 |
-| 17 | [Banquise](https://open.spotify.com/track/2xKdaB6C978wvUyHk8AO3M) | [Pétrole Brut](https://open.spotify.com/artist/2lcekukdiTHK6ZgxWxWyc7) | [Banquise](https://open.spotify.com/album/1bUxpEkgZbG5elvPVQmhpF) | 3:29 |
-| 18 | [casse\-toi](https://open.spotify.com/track/35kqz8xHX5TqbTEzahFIqh) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [casse\-toi](https://open.spotify.com/album/69GGNe1eRUmwJKtublYwVu) | 3:01 |
-| 19 | [RÊVES](https://open.spotify.com/track/0cvQgykWnezK58jPRB8kBe) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW) | [RÊVES](https://open.spotify.com/album/1uBZ6ZYFcFFP26QuX06Bmu) | 2:08 |
-| 20 | [en ce moment](https://open.spotify.com/track/4FPNM0pmF28TTWsj4h7MZi) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [en ce moment](https://open.spotify.com/album/2RQjiqh0iZdSOtn6m95eBK) | 1:50 |
-| 21 | [ODYSS\_X](https://open.spotify.com/track/6hrSdAk3Z4gCb97LDfcsqs) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [BLAST.](https://open.spotify.com/album/76Pdmv0CzrIY14nzw6Qdcf) | 2:52 |
+| 1 | [ENCORE!](https://open.spotify.com/track/5HEAExffQ9taEhirCvDKZS) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [ENCORE!](https://open.spotify.com/album/65SZnjdnG7PQt6HruiqQUY) | 2:06 |
+| 2 | [ne pas regarder en bas](https://open.spotify.com/track/4aZjNBd7e3HI6w3kkHwGEA) | [nous étions une armée](https://open.spotify.com/artist/2GT9RRFupyQile63whfk0t) | [ne pas regarder en bas](https://open.spotify.com/album/4j9nAsPRUp5HQfexdBKN97) | 2:52 |
+| 3 | [miki cowboy](https://open.spotify.com/track/641fgTSsoeAYNkgR3m7HMU) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/2BMT7xu97SvpVB20ciDNFW) | 2:18 |
+| 4 | [Moonlight](https://open.spotify.com/track/3DvCNyGQmVziATGRqe9sjk) | [La parade](https://open.spotify.com/artist/5Avirxj77qzqN9LEjnOZHj) | [Moonlight](https://open.spotify.com/album/3Jr4eSbA81gwaoh81FAT5P) | 3:08 |
+| 5 | [Dans quelques années](https://open.spotify.com/track/7iTKzfE7lcUMPfqNyeKQcE) | [Arca M](https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg) | [Dans quelques années](https://open.spotify.com/album/4XYeMFN1EkDkn3BMDrZACn) | 3:19 |
+| 6 | [Pas Bourré](https://open.spotify.com/track/0OY34cEFCVlUogk5ZCpC2a) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Pas Bourré](https://open.spotify.com/album/6yjzDLjWfSejFLZFVZgM97) | 3:50 |
+| 7 | [Merde à La Mer](https://open.spotify.com/track/0mb9NIxnBNpWAKPbaL4FBC) | [Axel Bauer](https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd), [Brigitte Fontaine](https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1) | [Merde à La Mer](https://open.spotify.com/album/4Y0qxZssGRDLxtUEO4obK4) | 2:52 |
+| 8 | [Romy](https://open.spotify.com/track/57LPD03prhGgH8SlJ7Tndg) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Romy](https://open.spotify.com/album/77gs1qTyEAOzhET2vsD3ED) | 3:19 |
+| 9 | [Les Chevaux Blancs](https://open.spotify.com/track/6y0yMswC3BLtp5VQ41lxJD) | [Mon cher Guy](https://open.spotify.com/artist/6KwKwfx3DSMOYDfHo1GcK2), [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Cowboy Circus](https://open.spotify.com/album/0LeNAzIxVwsSVrvUq28HPD) | 2:38 |
+| 10 | [Dania](https://open.spotify.com/track/4PjbnxON54kfrRtur51R8L) | [Sans Lactose](https://open.spotify.com/artist/5o9bgsy6gISpQ7FJszf34L) | [Dania](https://open.spotify.com/album/5zBWA42QHQwCuroHrhwCCB) | 2:15 |
+| 11 | [Allons Voir](https://open.spotify.com/track/7jDBI4HB9zYxySDAbN54iW) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Allons Voir](https://open.spotify.com/album/14J8yvy5eUlDnxN266550W) | 3:49 |
+| 12 | [Maisons vides](https://open.spotify.com/track/5xcpjChubYvUHXS5M9MFFB) | [KCIDY](https://open.spotify.com/artist/7rOzcz6BWm7gwp4LMpdkSO) | [Maisons vides](https://open.spotify.com/album/1hgVIIJBeoAcy96jPMS3Xx) | 4:02 |
+| 13 | [Jour vert](https://open.spotify.com/track/5nacc9dNvHHUCzYZJxQnME) | [Barbet](https://open.spotify.com/artist/7rN8I3x8rAW7gGFYLCK03E), [Cesar](https://open.spotify.com/artist/20m6HbvQBjsXKPC0S5WVKS) | [Sous l'orage](https://open.spotify.com/album/6p52nGu2VCACb7n45Ry0Y0) | 3:24 |
+| 14 | [PAS SI MAL](https://open.spotify.com/track/69VxTSW7uFiJDHPg01rk73) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [PAS SI MAL](https://open.spotify.com/album/1eHIUJ3FyTVwxa4Xx0uBg7) | 2:37 |
+| 15 | [Humain](https://open.spotify.com/track/1I7q4Nvn6hRTb2lyHTVcWR) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Plastique](https://open.spotify.com/album/0LzO13HzLPa3soZILnIkQc) | 2:45 |
+| 16 | [Vie de rêve](https://open.spotify.com/track/5hiomyDdmSY5uITlR75LmK) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI), [Zenzile](https://open.spotify.com/artist/3W9EL2Dp6yptDXJUCrd68X) | [Vie de rêve](https://open.spotify.com/album/225dAvG6EOybII03gUtrOJ) | 4:09 |
+| 17 | [Keskia](https://open.spotify.com/track/4bXWo43kD5yjlQ3oFCGVWo) | [Odezenne](https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp) | [DOULA \(des couloirs des portières\)](https://open.spotify.com/album/7IVZQAZQiJ1JoDAjsjfbYU) | 2:57 |
+| 18 | [Banquise](https://open.spotify.com/track/2xKdaB6C978wvUyHk8AO3M) | [Pétrole Brut](https://open.spotify.com/artist/2lcekukdiTHK6ZgxWxWyc7) | [Banquise](https://open.spotify.com/album/1bUxpEkgZbG5elvPVQmhpF) | 3:29 |
+| 19 | [casse\-toi](https://open.spotify.com/track/35kqz8xHX5TqbTEzahFIqh) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [casse\-toi](https://open.spotify.com/album/69GGNe1eRUmwJKtublYwVu) | 3:01 |
+| 20 | [RÊVES](https://open.spotify.com/track/0cvQgykWnezK58jPRB8kBe) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW) | [RÊVES](https://open.spotify.com/album/1uBZ6ZYFcFFP26QuX06Bmu) | 2:08 |
+| 21 | [en ce moment](https://open.spotify.com/track/4FPNM0pmF28TTWsj4h7MZi) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [en ce moment](https://open.spotify.com/album/2RQjiqh0iZdSOtn6m95eBK) | 1:50 |
 | 22 | [Californie](https://open.spotify.com/track/5cWBcAnMNCBVV0UAIO6tRj) | [EMILE](https://open.spotify.com/artist/2zcvrNK2SY1epxOBTgfEF4) | [Californie](https://open.spotify.com/album/1lBRedKhEOs13Zr8ZOb1Ax) | 2:23 |
 | 23 | [Vieille meuf](https://open.spotify.com/track/6s1IyWxMYJ1QDKX4xNmlGw) | [Louisadonna](https://open.spotify.com/artist/6KeEXdNCF2wHQ1kT3seHO1) | [Vieille meuf](https://open.spotify.com/album/1YhDSshOmKGlqx9inijlvu) | 2:57 |
 | 24 | [MOURIR POUR MIEUX RENAITRE](https://open.spotify.com/track/5Lg3qeO2tE4mgADlzDsn6t) | [NAEKO](https://open.spotify.com/artist/0pyq140jTsiXoxlv1KKYzK) | [MOURIR POUR MIEUX RENAITRE](https://open.spotify.com/album/1LrbtJgbcgtDa5BmG8t90r) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [Tempelhof](https://open.spotify.com/track/3Rc2TbS9dGOFpjaJPbhxlc) | [Odezenne](https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp) | [Tempelhof](https://open.spotify.com/album/1Z38hWEC9zgrud0SsKFTtX) | 3:19 |
 | 50 | [zombi](https://open.spotify.com/track/5gxrevOrqNW1IPPtZaKJZt) | [Pierre Pleure](https://open.spotify.com/artist/4LdNhzvsIrPK2c7QPhYw6h) | [zombi](https://open.spotify.com/album/7dBhWvpu5RbV60WZPOGArl) | 2:21 |
 
-Snapshot ID: `aFSIiQAAAADtL/zdQSikhZ72J6VV2cL/`
+Snapshot ID: `aF3C7gAAAADXEt+47ojxnbq4bwvZK/X2`

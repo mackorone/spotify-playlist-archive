@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Rifki Soeria, Natasya Elvira",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: ArumtaLa",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -1417,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "Embraceable You",
+        "url": "https://open.spotify.com/album/1GrxQBJFYVkFuvlmFW8cBX"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Shavonne",
+          "url": "https://open.spotify.com/artist/4ITvgKI1DUW1wDPkWEycP9"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325250,
+      "name": "Embraceable You",
+      "url": "https://open.spotify.com/track/3J0xvBAilIc8RbeNRcTIOj"
+    },
+    {
+      "album": {
         "name": "Sisi Lain",
         "url": "https://open.spotify.com/album/49VL4XUeqZHjzOiWOxzi8R"
       },
@@ -1786,6 +1804,28 @@
       "duration_ms": 487734,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/5ylKg6kcyKk0m6QeEpVDvG"
+    },
+    {
+      "album": {
+        "name": "Dua Empat",
+        "url": "https://open.spotify.com/album/0nmHEa9VVgpkEAAaAxypqm"
+      },
+      "artists": [
+        {
+          "name": "Dua Empat",
+          "url": "https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L"
+        },
+        {
+          "name": "Pepita",
+          "url": "https://open.spotify.com/artist/7dwjCFo7cfTvB1ZtBxyaJa"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199875,
+      "name": "From Friendship to Lovers",
+      "url": "https://open.spotify.com/track/36rsfY9ByznHgeKPucXBQH"
     },
     {
       "album": {
@@ -2514,7 +2554,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 349000,
       "name": "Jeje",
       "url": "https://open.spotify.com/track/51C65PJIu5tC1369pCd8YJ"
@@ -3007,6 +3047,32 @@
     },
     {
       "album": {
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/2Xbhp3BaYjZlAg9gSxa1uo"
+      },
+      "artists": [
+        {
+          "name": "Donny Suhendra",
+          "url": "https://open.spotify.com/artist/2uU9BWmJcTzd8EeVh6V8Le"
+        },
+        {
+          "name": "Adi Darmawan",
+          "url": "https://open.spotify.com/artist/4tf4XhhTlovrEj01je6ozX"
+        },
+        {
+          "name": "Demas Narawangsa",
+          "url": "https://open.spotify.com/artist/1YRn1rD5gEoNZUMXjuwtyQ"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224373,
+      "name": "Los Feliz",
+      "url": "https://open.spotify.com/track/2j1ZS4MtTGhtNXtWNaA5GG"
+    },
+    {
+      "album": {
         "name": "Love In Peace",
         "url": "https://open.spotify.com/album/72PHHKpw2zuBHrDgPx0Mfl"
       },
@@ -3316,7 +3382,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 283346,
       "name": "Music To My Soul (Special)",
       "url": "https://open.spotify.com/track/1YXlBYdTsy0pWvRHi9ScVF"
@@ -3618,7 +3684,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 104303,
       "name": "Opening a New Door",
       "url": "https://open.spotify.com/track/1ch8swW6xldwsUsxvQP7DF"
@@ -4804,6 +4870,24 @@
       "duration_ms": 220500,
       "name": "The Way You Make Me Feel",
       "url": "https://open.spotify.com/track/7sncCClNIeE5i54JrkirGI"
+    },
+    {
+      "album": {
+        "name": "Til The End of Time",
+        "url": "https://open.spotify.com/album/3A0HkDBiUQZlNYspOmleIh"
+      },
+      "artists": [
+        {
+          "name": "Aul Persneling",
+          "url": "https://open.spotify.com/artist/5xIs5rD7iC31J8ZcpCj0kb"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234973,
+      "name": "Til The End of Time",
+      "url": "https://open.spotify.com/track/0Xb2tDzOibuMtXFeutMflf"
     },
     {
       "album": {

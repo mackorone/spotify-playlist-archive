@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Banda Mix & Eugenia Quevedo.
 
-570 songs - 1 day 10 hr 48 min
+571 songs - 1 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,7 @@
 | [No Crezcas Más](https://open.spotify.com/track/5VkysexsdLqb39MgkINrEz) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Alma Bueno](https://open.spotify.com/artist/2OfmsQjxmLy3toFzK8rKAW) | [No Crezcas Más](https://open.spotify.com/album/5zhSodzLmtC82W0eLjQEKF) | 2:35 | 2025-04-25 | 2025-05-24 |
 | [No Dire Que Si](https://open.spotify.com/track/0FJIMGhZs0KgL2tiEgeYlV) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p), [Pia Ka](https://open.spotify.com/artist/6cvXeCH32OR5AITdGlcoix) | [No Dire Que Si](https://open.spotify.com/album/6D9PhAmtEItNJZXHZHJoRj) | 3:33 | 2022-11-11 | 2025-06-06 |
 | [No Es Cierto](https://open.spotify.com/track/5iMQjwcMNYQYUxTIZSa2u7) | [CÓMO DICE](https://open.spotify.com/artist/0kKSgKccwCUSqdNr4ovJDz) | [No Es Cierto](https://open.spotify.com/album/4csALsYcKamfcEsMl1xGNd) | 3:23 | 2022-06-03 | 2022-08-18 |
-| [No Es Lo Que Dices](https://open.spotify.com/track/1pWmkpmMmzuiFBSY5A4Tb9) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [No Es Lo Que Dices](https://open.spotify.com/album/7wD751cbpMxpXPwJriTfJi) | 3:12 | 2024-06-14 |  |
+| [No Es Lo Que Dices](https://open.spotify.com/track/1pWmkpmMmzuiFBSY5A4Tb9) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [No Es Lo Que Dices](https://open.spotify.com/album/7wD751cbpMxpXPwJriTfJi) | 3:12 | 2024-06-14 | 2025-06-27 |
 | [No Estas Aqui](https://open.spotify.com/track/73i28XzPQ6IvzcSYawYpPO) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [No Estas Aqui](https://open.spotify.com/album/6y6jUwOWQZiiZ5tSix6mnV) | 3:02 | 2023-09-15 | 2023-09-23 |
 | [No Me Dejas Verla](https://open.spotify.com/track/2ENXszqOKxtExOhIkzxqYk) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Pasión Cuartetera](https://open.spotify.com/album/5XExEXYKY3ON16D9HStCRs) | 3:24 | 2022-01-21 | 2022-07-27 |
 | [No Me Enseñaste](https://open.spotify.com/track/3TuVuXJAEhajh7BfWY9Ad9) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [No Me Enseñaste](https://open.spotify.com/album/2uqxph6GlzZTfrbclmvixl) | 3:12 | 2025-04-18 |  |
@@ -453,6 +453,7 @@
 | [Si Fuera Tan Fácil](https://open.spotify.com/track/6JydEAAm5heqWFpxCWIsuI) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Si Fuera Tan Fácil](https://open.spotify.com/album/7J5XvlmUNC5X6Di4tpY6aQ) | 3:27 | 2023-11-14 |  |
 | [Si Me Dices Que Si \(Estadio Vélez\)](https://open.spotify.com/track/1bfjDohijZVRKHWT53QNFk) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Si Me Dices Que Si \(Estadio Vélez\)](https://open.spotify.com/album/5MFQ2u5jkOxOmZ2IsrK3pf) | 2:52 | 2023-09-01 | 2023-10-07 |
 | [Si Me Disculpo Ahora](https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Si Me Disculpo Ahora](https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi) | 2:00 | 2023-11-10 |  |
+| [Si No Es Muy Tarde \- Versión Cuarteto \- En Vivo](https://open.spotify.com/track/2CA90OaChbXSogYGJJsfcr) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Si No Es Muy Tarde \- Versión Cuarteto \(En Vivo\)](https://open.spotify.com/album/57h1QBTv4UCjBz6uhf7BYE) | 3:43 | 2025-06-27 |  |
 | [Si Pudiera](https://open.spotify.com/track/5ZovhgjwXVdhIdRHfCu9lf) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [El Vecino](https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt) | [Si Pudiera](https://open.spotify.com/album/2yfl1SMfsO58DgHZzRKcCD) | 3:06 | 2023-12-29 | 2024-08-04 |
 | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR) | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9) | 5:48 | 2022-09-23 | 2023-12-11 |
 | [Si Te Vas](https://open.spotify.com/track/1GU0RxGm8tUSBlaq0mtDOa) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Si Te Vas](https://open.spotify.com/album/6Pi2x8NLs6yYA4DxxHglmj) | 3:12 | 2023-10-13 | 2023-12-14 |

@@ -4,7 +4,7 @@
 
 > Las que no sabes que te sabes\. 🤳🏽
 
-535 songs - 1 day 5 hr 6 min
+536 songs - 1 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [PA QUE LO BAILES \(BAILALO ROCKY\)](https://open.spotify.com/track/6LAE0cwzbk9Gr1uexKnA2B) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [PA QUE LO BAILES \(BAILALO ROCKY\)](https://open.spotify.com/album/7tVOXoCZ8ijQRRE4FsSRoS) | 2:05 | 2025-04-02 | 2025-05-22 |
 | [Pa Ti \(feat\. Yailin La Más Viral\)](https://open.spotify.com/track/5itNf8xltQ82ecZQZbO3F6) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Leyenda Viva](https://open.spotify.com/album/0Rkriaro8MWPbMwW6X6uzo) | 2:50 | 2023-06-20 | 2023-07-12 |
 | [Pacto \(feat\. Luar La L\)](https://open.spotify.com/track/1nrYvSP0xgsD1pBcLju1R0) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Pacto \(feat\. Luar La L\)](https://open.spotify.com/album/74YXkj0wtAt2vIslobYqjt) | 4:44 | 2023-06-08 | 2023-07-27 |
+| [Papasito](https://open.spotify.com/track/64zQbQTwu4ppBEfWyhst9t) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:47 | 2025-06-26 |  |
 | [Pareja Del Año](https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Pareja Del Año](https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ) | 3:15 | 2021-12-14 | 2022-05-20 |
 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 | 2021-12-14 | 2022-07-26 |
 | [Parte & Choke](https://open.spotify.com/track/0STW8nw4lNN4TEQ8KmNer6) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Alex Krack](https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [Parte & Choke](https://open.spotify.com/album/2rzk1ZW9Lpj3SilWEL31pg) | 3:25 | 2025-01-16 | 2025-02-12 |

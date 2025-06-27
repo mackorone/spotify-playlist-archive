@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Marseaux, DJ.Silence",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Billie Kark",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -800,7 +800,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 189122,
       "name": "Bournazi",
       "url": "https://open.spotify.com/track/5IRAu9axePDXXKWsDiDm1K"
@@ -1596,6 +1596,24 @@
       "duration_ms": 203760,
       "name": "Glossa Tou Mualou",
       "url": "https://open.spotify.com/track/54SLiEQDM6d7stFqB1OF04"
+    },
+    {
+      "album": {
+        "name": "Gremos",
+        "url": "https://open.spotify.com/album/5WMCQnseeaKn9Cq3fJ9MCJ"
+      },
+      "artists": [
+        {
+          "name": "Billie Kark",
+          "url": "https://open.spotify.com/artist/6hDmweft2NBTVSnCPJ5pMc"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180642,
+      "name": "Gremos",
+      "url": "https://open.spotify.com/track/3srqDkqUYOt6aEtB0hY9Pt"
     },
     {
       "album": {
@@ -2947,6 +2965,24 @@
     },
     {
       "album": {
+        "name": "Sandre",
+        "url": "https://open.spotify.com/album/7EJvATvEOha99lim8HugpM"
+      },
+      "artists": [
+        {
+          "name": "Anna Vissi",
+          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244264,
+      "name": "Sandre",
+      "url": "https://open.spotify.com/track/7KJ9nLbKJ1LRs3XSQAxdXb"
+    },
+    {
+      "album": {
         "name": "Se Mia Stigmi",
         "url": "https://open.spotify.com/album/6JG6ZymOscG7SsvhD1SSqr"
       },
@@ -3126,7 +3162,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 159743,
       "name": "Taxe Mou",
       "url": "https://open.spotify.com/track/5JqUN0Xf0fqsAhUasXeAVU"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 
 > アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover: Ave Mujica
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,569 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,585 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 | 36 | [Light Maker](https://open.spotify.com/track/5K81RTZRNdVjTB06gn9ftm) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [Light Maker](https://open.spotify.com/album/6iqAiNPAAZsROJfCaGz7ti) | 3:13 |
 | 37 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 |
 | 38 | [真昼の月](https://open.spotify.com/track/5Ke9p9V0159qyBaDei0TiX) | [seiza](https://open.spotify.com/artist/4NRSYB2qS3BZCcaddIzylY) | [真昼の月](https://open.spotify.com/album/4JRpz7l9I9p8CqC1LtDbMT) | 3:38 |
-| 39 | [TAIDADA](https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [TAIDADA](https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6) | 3:46 |
+| 39 | [LOST IN PARADISE](https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [LOST IN PARADISE](https://open.spotify.com/album/6Jp8BbweVonPWAP5Qyn56J) | 5:27 |
 | 40 | [スピード \- Speed](https://open.spotify.com/track/2D3jMiMkKMmvchLMLXLG4T) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [スピード \- Speed](https://open.spotify.com/album/1b468g18LpNbntgka81SCM) | 3:38 |
 | 41 | [PARAGON <MODv>](https://open.spotify.com/track/6LuEZKaqyrQNlG9KWLcMOu) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Benjamin](https://open.spotify.com/artist/3hUQrVzWSjbHu7USOygIaz), [mpi](https://open.spotify.com/artist/0udboBeiQhCskhYBLMbx9K) | [INERTIA](https://open.spotify.com/album/34GmsyuS83U4p1YQMROfs3) | 2:46 |
 | 42 | [Kanojo wa Ima Meikyu no Naka](https://open.spotify.com/track/4cXFmHKM9BRpDwvTOYvA0I) | [MARUMOCHI from HoneyWorks](https://open.spotify.com/artist/6SE42YkzK2iVXMph1a3Hbp), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [Kanojo wa Ima Meikyu no Naka](https://open.spotify.com/album/451nYjcCpDxQSeZUz3aMZZ) | 3:29 |
-| 43 | [LOST IN PARADISE](https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [LOST IN PARADISE](https://open.spotify.com/album/6Jp8BbweVonPWAP5Qyn56J) | 5:27 |
+| 43 | [TAIDADA](https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [TAIDADA](https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6) | 3:46 |
 | 44 | [夢幻](https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [夢幻](https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ) | 4:01 |
 | 45 | [Red Swan](https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX) | [Yoshiki](https://open.spotify.com/artist/2EWIKpC6npt0GTe1Cq1KDm), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [Red Swan](https://open.spotify.com/album/6I13Z2eInmybf3WZl4wduL) | 4:23 |
 | 46 | [ポラリス](https://open.spotify.com/track/28DlaPydCnrs8NxYOnUPZ8) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Q.E.D](https://open.spotify.com/album/4DifEg0usPQvzxk6K9H04Z) | 3:44 |

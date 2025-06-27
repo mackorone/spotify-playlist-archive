@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[wyattzaboschuk](https://open.spotify.com/user/skillstreet) - 3 likes - 853 songs - 1 day 19 hr 33 min
+[wyattzaboschuk](https://open.spotify.com/user/skillstreet) - 3 likes - 854 songs - 1 day 19 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -861,5 +861,6 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 851 | [Can't Have Everything](https://open.spotify.com/track/5f5r2N4Lp9WoULWPH9zp2W) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:48 |
 | 852 | [Won't Stop](https://open.spotify.com/track/4ugKUZExbqbkKXEmbTrTRW) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Won't Stop](https://open.spotify.com/album/1TRulQDa3GYTurukQ91HGB) | 3:01 |
 | 853 | [](https://open.spotify.com/track/6BJRGULyx1DbFJLBj3fbx3) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [DONDA 2](https://open.spotify.com/album/1ZkGNUz1un0b3Z7EsJl3ci) | 0:00 |
+| 854 | [Outfit \(with 21 Savage\)](https://open.spotify.com/track/6mxKWahJzbv7SVF8nkZwLT) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Outfit \(with 21 Savage\)](https://open.spotify.com/album/6w8kBHoOsT1tvoNO05BTwj) | 2:57 |
 
-Snapshot ID: `AAAEGAvTioFm2BNazGJy+xEXILrTk4zc`
+Snapshot ID: `AAAEGW+q6M/2Pkjyz1PqCw1siL1Z2kVw`

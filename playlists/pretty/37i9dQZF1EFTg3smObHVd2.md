@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 13 | [Light The Sky](https://open.spotify.com/track/6C3Q9rs5FsafL2VHNCCRqJ) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Perfectly Imperfect \(Japan Version\)](https://open.spotify.com/album/58CpIUMD6axObdLxxTIGGB) | 3:49 |
 | 14 | [Gossip Girl](https://open.spotify.com/track/2maAcOeKbRN6zSmwQcGA7G) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Perfectly Imperfect \(Japan Version\)](https://open.spotify.com/album/58CpIUMD6axObdLxxTIGGB) | 3:23 |
 | 15 | [Superbad](https://open.spotify.com/track/60LfuzAmQLWsIeepbx5vCp) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [In Technicolor](https://open.spotify.com/album/0a6jDwbxe5To2k3EXLVe9d) | 2:57 |
-| 16 | [Love's Just A Feeling](https://open.spotify.com/track/1foYfeVd8HVex402aOJN4o) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Brave Enough \(Deluxe Edition\)](https://open.spotify.com/album/4EBp4auyuzkB2Zl8IEdIai) | 3:49 |
+| 16 | [Love's Just a Feeling \(feat\. Rooty\)](https://open.spotify.com/track/0uFwdpkVJzpyUxlu9reTWK) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Brave Enough](https://open.spotify.com/album/5EH0A5mhsGNCOPPpvi3RfF) | 3:49 |
 | 17 | [Good Girl](https://open.spotify.com/track/6Ezv9qNo4S1SqsGlWrGGNl) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Alexis Jordan](https://open.spotify.com/album/05Zdabhi19HHmjdD40uJBP) | 3:56 |
 | 18 | [Don't Wanna Dance Alone](https://open.spotify.com/track/0PqzweEfZz6CFduasBimQQ) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 3:50 |
 | 19 | [Keep Dancing](https://open.spotify.com/track/4qqIuSEkjZhXHQ7cGCKZq8) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Cognition](https://open.spotify.com/album/6T8lsInCHvVedcVchEBS2l) | 3:40 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 81 | [Like The First Time](https://open.spotify.com/track/3ILRrgErUM2ffPmT6cJiQW) | [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [Emotional \(Bonus Track Version\)](https://open.spotify.com/album/6OtZ98sd2pn9qaFr5NLUdG) | 3:08 |
 | 82 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 
-Snapshot ID: `Ab1HVAAAAADcav6aMWBeYjcGI3z/CE1/`
+Snapshot ID: `Ab1NEgAAAAAvYoXs1SEh2V0tGbLWLGup`

@@ -4,7 +4,7 @@
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-178 songs - 11 hr 30 min
+180 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [BREAK LAW](https://open.spotify.com/track/223t7TwvWm5PuE1IuWpRZM) | [Dog Blood](https://open.spotify.com/artist/2amyu5pkgYMYdNQZmB3GgY), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Turn Off The Lights](https://open.spotify.com/album/1Pg5Ot24fhSbQbxqV5OTZS) | 4:02 | 2023-08-18 |  |
 | [Butter Naan](https://open.spotify.com/track/3fW7xHUOA7YjXFsGnmo3p3) | [Gandhar](https://open.spotify.com/artist/1O2R7BToibJ1yOuExGY1Q2) | [Butter Naan](https://open.spotify.com/album/2MJzH9n3EDGIdp00O1VB4x) | 2:30 | 2023-08-18 |  |
 | [Chaiyya II](https://open.spotify.com/track/450p7t2OoCHUtPuvGLIZXu) | [Kahani](https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb), [Jeff Veliz](https://open.spotify.com/artist/3fazPObARcI13mwk9KGgqo), [Indo Warehouse](https://open.spotify.com/artist/0NSnLQRiWg2ZgnfrXaQ9P2) | [Chaiyya II](https://open.spotify.com/album/2gn0oNiCMcwxuPjPzZ2nuN) | 3:33 | 2024-11-29 | 2025-03-21 |
+| [Chalo Chalo](https://open.spotify.com/track/2SGstv7MXy37wAuK82jLmr) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8), [Baalti](https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN), [Stunt Doubles](https://open.spotify.com/artist/1ahVS2kBsugjETX6enVfPH) | [Stunt Doubles \(Pt.1\)](https://open.spotify.com/album/5IojwjmyW2P4khwkyMmHlA) | 4:00 | 2025-06-26 |  |
 | [channo](https://open.spotify.com/track/2sPwFSESO5uF4h013k1RTo) | [Maraasim](https://open.spotify.com/artist/7stUMpaIH3pVscxYmlcvqv) | [channo](https://open.spotify.com/album/6INyQJqdMPQ8DJXpnx4QMm) | 1:36 | 2023-08-18 | 2024-03-23 |
 | [Chayn](https://open.spotify.com/track/1XdeHskCYmIwqBiotoyUDo) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [TURBO](https://open.spotify.com/album/2Rnc46rrppQJeRnaK80GFP) | 2:47 | 2023-10-03 | 2023-11-02 |
 | [Chidiya](https://open.spotify.com/track/5YBz5gtNazOtbkQjUYWTjY) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Chidiya](https://open.spotify.com/album/7aVh40LYkpShPxOeGqRJis) | 6:08 | 2023-08-18 | 2025-01-14 |
@@ -83,6 +84,7 @@
 | [Kamli](https://open.spotify.com/track/4m7ZauqQCGa5Orb0oUfFh7) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Kamli](https://open.spotify.com/album/7DEz0UNmc8eQgUOdztSj2u) | 5:55 | 2024-05-05 |  |
 | [Katha](https://open.spotify.com/track/37e0qpDfqBtWNMVgPUcG0i) | [Fake Shamans](https://open.spotify.com/artist/3EI9a3jBhsXHQPFYZXJzQi) | [Katha](https://open.spotify.com/album/6DaadUzNYS3jHO6GEZNlYC) | 5:29 | 2023-08-18 | 2023-11-02 |
 | [Khushboo](https://open.spotify.com/track/6jCdGmypAOe6o60FzDvMfU) | [Lost Boy](https://open.spotify.com/artist/6yukRPg1yk3DN6AiDYk48a) | [Khushboo](https://open.spotify.com/album/6e9cvzosWQiiUbnQ3kZmvJ) | 6:12 | 2023-08-18 |  |
+| [Kiun Na](https://open.spotify.com/track/5ycN85kxxqArzAXrxQADeA) | [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm) | [Kiun Na](https://open.spotify.com/album/0UJUULwPJzSfbwrj8UySH2) | 4:06 | 2025-06-26 |  |
 | [Kolkata '78](https://open.spotify.com/track/22R8hUcFoNWSffnZWdiGso) | [Baalti](https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN) | [Kolkata' 78](https://open.spotify.com/album/7wLthfVEMqhCrJZUuxLHOT) | 5:39 | 2023-08-18 | 2023-12-09 |
 | [Lata](https://open.spotify.com/track/3lvEVor4a7vrewXmbmPA79) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Bollywood Super Hits!](https://open.spotify.com/album/4E8Z8tAqCxz884FxZX8xsY) | 3:53 | 2025-02-05 |  |
 | [Locura](https://open.spotify.com/track/7AlnBnY5M8aTJgLIe89B6s) | [Outlandish](https://open.spotify.com/artist/5tqMW5dSAlvh0GvgD3XfDy) | [The Cornershop Carnival](https://open.spotify.com/album/4W7FO6XF2gV6hghCFxya5p) | 2:28 | 2023-10-27 |  |

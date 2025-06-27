@@ -3891,6 +3891,24 @@
     },
     {
       "album": {
+        "name": "My Love is a Quickscope",
+        "url": "https://open.spotify.com/album/2fm2HpEwNWqdsqLcCE4D0H"
+      },
+      "artists": [
+        {
+          "name": "Vylet Pony",
+          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227250,
+      "name": "My Love is a Quickscope",
+      "url": "https://open.spotify.com/track/7hBjYecLIxghERxBAH02Fz"
+    },
+    {
+      "album": {
         "name": "my world",
         "url": "https://open.spotify.com/album/0BDh7Z4ckWU3FK7q94Ovyk"
       },

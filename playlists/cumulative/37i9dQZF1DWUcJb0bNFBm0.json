@@ -697,6 +697,24 @@
     },
     {
       "album": {
+        "name": "Drift Away",
+        "url": "https://open.spotify.com/album/0ui3IumxlAW8dIuW31WvcY"
+      },
+      "artists": [
+        {
+          "name": "Modern Guns",
+          "url": "https://open.spotify.com/artist/5Xe1EJV713SoJ2RiZHJbPH"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202373,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/480Mt8YPjKLUHdU5LOxcAU"
+    },
+    {
+      "album": {
         "name": "Driven By Wanderlust",
         "url": "https://open.spotify.com/album/2MHaK1TaauTVrW6eGd4DyL"
       },

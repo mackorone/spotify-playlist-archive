@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-95 songs - 5 hr 35 min
+96 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Light The Sky](https://open.spotify.com/track/6C3Q9rs5FsafL2VHNCCRqJ) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Perfectly Imperfect \(Japan Version\)](https://open.spotify.com/album/58CpIUMD6axObdLxxTIGGB) | 3:49 | 2024-02-27 |  |
 | [Like The First Time](https://open.spotify.com/track/3ILRrgErUM2ffPmT6cJiQW) | [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [Emotional \(Bonus Track Version\)](https://open.spotify.com/album/6OtZ98sd2pn9qaFr5NLUdG) | 3:08 | 2024-02-27 |  |
 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 | 2024-02-27 |  |
-| [Love's Just A Feeling](https://open.spotify.com/track/1foYfeVd8HVex402aOJN4o) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Brave Enough \(Deluxe Edition\)](https://open.spotify.com/album/4EBp4auyuzkB2Zl8IEdIai) | 3:49 | 2024-02-27 |  |
+| [Love's Just A Feeling](https://open.spotify.com/track/1foYfeVd8HVex402aOJN4o) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Brave Enough \(Deluxe Edition\)](https://open.spotify.com/album/4EBp4auyuzkB2Zl8IEdIai) | 3:49 | 2024-02-27 | 2025-06-27 |
+| [Love's Just a Feeling \(feat\. Rooty\)](https://open.spotify.com/track/0uFwdpkVJzpyUxlu9reTWK) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Brave Enough](https://open.spotify.com/album/5EH0A5mhsGNCOPPpvi3RfF) | 3:49 | 2025-06-26 |  |
 | [Mean Girls](https://open.spotify.com/track/3VJ18D4rUe0KCACLWU8gtB) | [Rachel Crow](https://open.spotify.com/artist/4TIHghOOQ0f8sxHvaV5LOx) | [Rachel Crow](https://open.spotify.com/album/3WnBI3PHFuP3iFWy6CnOUH) | 3:09 | 2024-02-27 |  |
 | [ONE](https://open.spotify.com/track/1cHPuNybXYunaoRttk3dgJ) | [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg) | [Complexxx](https://open.spotify.com/album/3HEpWC29VtEdFm9GF1rCYy) | 3:20 | 2024-02-27 |  |
 | [Only Ones To Know \(feat\. Leona Lewis\)](https://open.spotify.com/track/64XOpjIAmHElXLV1OqhaOH) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Climate Change](https://open.spotify.com/album/4jtKPpBQ5eneMwEI94f5Y0) | 3:50 | 2024-02-27 |  |

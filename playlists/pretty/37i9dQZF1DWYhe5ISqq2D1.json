@@ -1,6 +1,6 @@
 {
   "description": "\u305f\u3063\u305f\u72ec\u308a\u3067\u30e1\u30ed\u30c7\u30a3\u30fc\u3068\u8a00\u8449\u3092\u7d21\u3050\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3002Cover: Tele",
-  "num_followers": 62682,
+  "num_followers": 62709,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-06-24 16:51:40",
       "album": {
-        "name": "DON'T FORGET MY NAME",
-        "url": "https://open.spotify.com/album/2fCJiH9OvWuVVz75C9A5UQ"
-      },
-      "artists": [
-        {
-          "name": "Shota Shimizu",
-          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
-        }
-      ],
-      "duration_ms": 201880,
-      "name": "DON'T FORGET MY NAME",
-      "url": "https://open.spotify.com/track/1q4yrx2dy6o11kkYgPfwKh"
-    },
-    {
-      "added_at": "2025-06-24 16:51:40",
-      "album": {
         "name": "\u51ac\u7d05\u8449",
         "url": "https://open.spotify.com/album/6Rbxlqa85aufeMcK2SKvyD"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 322600,
       "name": "\u51ac\u7d05\u8449",
       "url": "https://open.spotify.com/track/0HN7REoMzRrdRfeZUZGXck"
+    },
+    {
+      "added_at": "2025-06-24 16:51:40",
+      "album": {
+        "name": "DON'T FORGET MY NAME",
+        "url": "https://open.spotify.com/album/2fCJiH9OvWuVVz75C9A5UQ"
+      },
+      "artists": [
+        {
+          "name": "Shota Shimizu",
+          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
+        }
+      ],
+      "duration_ms": 201880,
+      "name": "DON'T FORGET MY NAME",
+      "url": "https://open.spotify.com/track/1q4yrx2dy6o11kkYgPfwKh"
     },
     {
       "added_at": "2025-06-24 16:51:40",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-06-24 16:51:40",
       "album": {
-        "name": "\u5b8c\u74a7\u306a\u4e8c\u4eba\u3002",
-        "url": "https://open.spotify.com/album/0sb9NUT39xYPQqJyqXBSmt"
-      },
-      "artists": [
-        {
-          "name": "HIRAIDAI",
-          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
-        }
-      ],
-      "duration_ms": 191822,
-      "name": "\u5b8c\u74a7\u306a\u4e8c\u4eba\u3002",
-      "url": "https://open.spotify.com/track/6TGma0ABg2gHXDxMzovlwt"
-    },
-    {
-      "added_at": "2025-06-24 16:51:40",
-      "album": {
         "name": "Pick you up",
         "url": "https://open.spotify.com/album/5ec6P46lMezGX5zBzpHRvy"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2025-06-24 16:51:40",
       "album": {
-        "name": "\u521d\u590f",
-        "url": "https://open.spotify.com/album/1XQ717SnraQRSj55p2F79F"
+        "name": "\u50d5\u304c\u305a\u3063\u3068\u6b32\u3057\u304b\u3063\u305f\u3082\u306e",
+        "url": "https://open.spotify.com/album/2IkFiW8Ch8T8dtNJvIBLmh"
       },
       "artists": [
         {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
         }
       ],
-      "duration_ms": 228466,
-      "name": "\u521d\u590f",
-      "url": "https://open.spotify.com/track/1VzOqNIocvr1fEePNNKt5G"
+      "duration_ms": 194871,
+      "name": "\u50d5\u304c\u305a\u3063\u3068\u6b32\u3057\u304b\u3063\u305f\u3082\u306e",
+      "url": "https://open.spotify.com/track/4qffZjwVx88z1fBGaW5zr7"
     },
     {
       "added_at": "2025-06-24 16:51:40",
@@ -1363,6 +1347,22 @@
       "duration_ms": 272587,
       "name": "\u591c\u901a\u3057",
       "url": "https://open.spotify.com/track/3GzJacz20gcWlrHBcL6dJE"
+    },
+    {
+      "added_at": "2025-06-24 16:51:40",
+      "album": {
+        "name": "\u521d\u590f",
+        "url": "https://open.spotify.com/album/1XQ717SnraQRSj55p2F79F"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "\u521d\u590f",
+      "url": "https://open.spotify.com/track/1VzOqNIocvr1fEePNNKt5G"
     },
     {
       "added_at": "2025-06-24 16:51:40",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2025-06-24 16:51:40",
       "album": {
-        "name": "Today -\u80f8\u3044\u3063\u3071\u3044\u306e\u611b\u3092-",
-        "url": "https://open.spotify.com/album/1La6hRkmXbxrpZfzwiBPmA"
+        "name": "Baby Steps",
+        "url": "https://open.spotify.com/album/7iyuhZV5145lbgkvwkqAy2"
       },
       "artists": [
         {
-          "name": "Hiroji Miyamoto",
-          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
+          "name": "Swagcky",
+          "url": "https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj"
         }
       ],
-      "duration_ms": 238318,
-      "name": "Today -\u80f8\u3044\u3063\u3071\u3044\u306e\u611b\u3092-",
-      "url": "https://open.spotify.com/track/1y5dvIVaZEkx1QcKXZewMo"
+      "duration_ms": 166933,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/3GHBPdLwu6yy60XBrRXaAQ"
     },
     {
       "added_at": "2025-06-24 16:51:40",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2025-06-24 16:51:40",
       "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/5eaoO38FXRWLcrxwrtaNlW"
+        "name": "Today -\u80f8\u3044\u3063\u3071\u3044\u306e\u611b\u3092-",
+        "url": "https://open.spotify.com/album/1La6hRkmXbxrpZfzwiBPmA"
       },
       "artists": [
         {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+          "name": "Hiroji Miyamoto",
+          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
         }
       ],
-      "duration_ms": 228197,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/4oym4UJGVd6l70PXHeMcha"
+      "duration_ms": 238318,
+      "name": "Today -\u80f8\u3044\u3063\u3071\u3044\u306e\u611b\u3092-",
+      "url": "https://open.spotify.com/track/1y5dvIVaZEkx1QcKXZewMo"
     }
   ],
   "unique_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",

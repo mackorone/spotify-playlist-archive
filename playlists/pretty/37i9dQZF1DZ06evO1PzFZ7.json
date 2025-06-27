@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152925,
+  "num_followers": 152926,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAABqxZFUPdWWl9Uds092oPif",
+  "snapshot_id": "aFs8AAAAAAD/RZnAWCUdW5l4x08lA+7B",
   "tracks": [
     {
       "added_at": null,
@@ -39,22 +39,6 @@
       "duration_ms": 205236,
       "name": "En Realidad",
       "url": "https://open.spotify.com/track/0yig7Mn3nsz17bRgyeameH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nadie Se Va Como Lleg\u00f3",
-        "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 189628,
-      "name": "A Dos De Borrarte",
-      "url": "https://open.spotify.com/track/3jYascbB2wNuSgKmQfLyxI"
     },
     {
       "added_at": null,
@@ -380,9 +364,25 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 160867,
-      "name": "Coraz\u00f3n De Piedra",
-      "url": "https://open.spotify.com/track/39mVA9QegitCKVdSxTEvij"
+      "duration_ms": 189628,
+      "name": "A Dos De Borrarte",
+      "url": "https://open.spotify.com/track/3jYascbB2wNuSgKmQfLyxI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 490762,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
       "duration_ms": 226032,
       "name": "Maldita Primavera",
       "url": "https://open.spotify.com/track/2PKd8lbXAp9LJaysyEtGuE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRIMERO SOY MEXICANA",
-        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 490762,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om"
     },
     {
       "added_at": null,
@@ -456,9 +440,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 186460,
-      "name": "Libre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6kmXRPVlr9k085Dfseqed9"
+      "duration_ms": 160867,
+      "name": "Coraz\u00f3n De Piedra",
+      "url": "https://open.spotify.com/track/39mVA9QegitCKVdSxTEvij"
     },
     {
       "added_at": null,
@@ -532,9 +516,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 151204,
-      "name": "Yo Pago Mi Parte",
-      "url": "https://open.spotify.com/track/7xeZbvj1811b5PJnreaudk"
+      "duration_ms": 186460,
+      "name": "Libre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6kmXRPVlr9k085Dfseqed9"
     },
     {
       "added_at": null,
@@ -604,9 +588,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 169818,
-      "name": "Un Minuto De Silencio",
-      "url": "https://open.spotify.com/track/6jcHa1XfPDtG0Qco0wICXl"
+      "duration_ms": 151204,
+      "name": "Yo Pago Mi Parte",
+      "url": "https://open.spotify.com/track/7xeZbvj1811b5PJnreaudk"
     },
     {
       "added_at": null,
@@ -935,6 +919,26 @@
       "duration_ms": 186840,
       "name": "Nada M\u00e1s Dec\u00eddete",
       "url": "https://open.spotify.com/track/5kO0DN979g7zybB5jqEOiI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Trio Los Panchos",
+          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
+        }
+      ],
+      "duration_ms": 193773,
+      "name": "Quiz\u00e1s Quiz\u00e1s Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/2fHuEEJMbtXsw5BitInQzA"
     }
   ],
   "unique_name": "This Is \u00c1ngela Aguilar",

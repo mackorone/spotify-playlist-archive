@@ -4,7 +4,7 @@
 
 > Lo mejor del folclore nacional 📸  Los Nocheros
 
-259 songs - 15 hr 6 min
+260 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Para Cantar He Nacido](https://open.spotify.com/track/447ORDEfYxu77edFodcfr6) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Para Cantar He Nacido](https://open.spotify.com/album/38hLzv8jhDNS99eGb8d3XR) | 3:26 | 2021-07-23 |  |
 | [Para los Ojos Más Bellos](https://open.spotify.com/track/4w9ax8d0trOBzXX36a9rEe) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [30 Años Con el Canto](https://open.spotify.com/album/10WOUoHlzhyTLKhMJdVP0x) | 2:53 | 2021-07-23 |  |
 | [Pedro Canoero](https://open.spotify.com/track/5EGWO5XHAdLsTjsXva5wbO) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Sin Estribos \(Vol\. 4\)](https://open.spotify.com/album/4SjktbPWYfGC3m8f9uPOb8) | 1:50 | 2021-07-23 |  |
+| [Perfume de Carnaval \(En Vivo Gran Rex\)](https://open.spotify.com/track/2Wdw8YYwX8k4QFUXS0GpUD) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Perfume de Carnaval \(En Vivo Gran Rex\)](https://open.spotify.com/album/3QJ9WQhUIeyr1FNacIgmwv) | 4:16 | 2025-06-27 |  |
 | [Piel Morena \- En Vivo](https://open.spotify.com/track/2tmJ206DoSptCiJmPfdvQR) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Sole y Horacio juntos por Única Vez \(Grabado en Vivo en el Luna Park\)](https://open.spotify.com/album/3H8CgdJTlIrZ5QIJFssYVc) | 2:35 | 2021-07-23 | 2022-07-29 |
 | [Piensa En Mí](https://open.spotify.com/track/2v7aIHpPiLEaZE7Yarx0XQ) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Folklore](https://open.spotify.com/album/6jUZ2Z1kHaDQQIESJ0GXj1) | 3:34 | 2021-07-23 |  |
 | [Por Hacer la América](https://open.spotify.com/track/1hCPK4befzCeLDdNQuYKtc) | [Los 4 De Cordoba](https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2) | [Por Hacer la América \(Vol\. 1\)](https://open.spotify.com/album/3JA3dlrGcOEaPf2ExetHIU) | 3:58 | 2024-05-03 | 2024-11-12 |

@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-802 songs - 1 day 12 hr 11 min
+803 songs - 1 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -563,6 +563,7 @@
 | [Rainbowtime Boy](https://open.spotify.com/track/5sA0YSGNDKCV6rf4WLMCwD) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7), [Tiny Griffi](https://open.spotify.com/artist/3s3iwtc7ZcxbC9obdM5Tc0) | [Rainbowtime Boy](https://open.spotify.com/album/5xrmWCCYOJnDQgBB2dRqF8) | 2:29 | 2023-08-31 | 2024-01-19 |
 | [Rainbowtime の少年](https://open.spotify.com/track/0xenlRTiDOY6tXRRwQYCcF) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Rainbowtime の少年](https://open.spotify.com/album/5xDJyL2yCMHRnIYtkmHLws) | 2:29 | 2023-08-31 | 2023-09-02 |
 | [Raincoat](https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Raincoat](https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o) | 3:24 | 2022-10-13 |  |
+| [Raincoat \(Paul Grant Remix\)](https://open.spotify.com/track/7qTS3XAGwebfMgFWgQcB1i) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [tender Remix](https://open.spotify.com/album/6UxnjFQfPhF7OqkgDZUUVi) | 3:13 | 2025-06-27 |  |
 | [Raining](https://open.spotify.com/track/2COYh59wnIaHLKjth7pM19) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Raining](https://open.spotify.com/album/1e4TMOBtDEiKHSLe0JtZFS) | 1:45 | 2022-01-13 | 2022-07-10 |
 | [Rainydays](https://open.spotify.com/track/6EanWbtCMZrDPgDza9DQBC) | [NARISK](https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV) | [MY EMOTION](https://open.spotify.com/album/0LCgkMgJ97oKmX4HMIzckz) | 2:24 | 2021-12-23 | 2022-07-11 |
 | [Re/Make \- Instrumental](https://open.spotify.com/track/5utiaVyir3pVH2iCFgkDKx) | [Pack3](https://open.spotify.com/artist/79HBbVB3ebJhK9q7gjcHW5) | [PACKQAGE \(Instrumentals\)](https://open.spotify.com/album/4GripUr5ToelZpSxPWwiU6) | 2:58 | 2021-12-23 | 2022-07-19 |
@@ -709,7 +710,7 @@
 | [The Color of Your Heart](https://open.spotify.com/track/5oIdUGVkz7UjsZTWl71jQk) | [Kojoe](https://open.spotify.com/artist/3yP8JwasYIrAxRT2Dw1xZu) | [The Color of Your Heart](https://open.spotify.com/album/1dQ2W2w3AnGpDWkIVwKmiu) | 4:28 | 2021-12-23 | 2022-07-27 |
 | [The Train Ride Home](https://open.spotify.com/track/0I9Sb0yl3ygzcmcW6sDl16) | [Taiyo Ky](https://open.spotify.com/artist/0MxSQxHSbd0E7RgmqDZ1DA) | [The Train Ride Home](https://open.spotify.com/album/2dphwqQhCUNDGrAX9ncfN2) | 3:04 | 2021-12-23 | 2022-04-21 |
 | [The Way I Feel](https://open.spotify.com/track/2SDIyQgY55oWZOqRmMWE3h) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [The Way I Feel](https://open.spotify.com/album/5duFo9fLgha403PX3005QI) | 1:36 | 2021-12-23 | 2022-01-22 |
-| [The Way of the Rain](https://open.spotify.com/track/2Ir8dmGIHvP6Kh0iyaWRNU) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [The Way of the Rain](https://open.spotify.com/album/0jBaVGpOlblBDJTQni1n0u) | 3:10 | 2021-12-23 |  |
+| [The Way of the Rain](https://open.spotify.com/track/2Ir8dmGIHvP6Kh0iyaWRNU) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [The Way of the Rain](https://open.spotify.com/album/0jBaVGpOlblBDJTQni1n0u) | 3:10 | 2021-12-23 | 2025-06-27 |
 | [this time](https://open.spotify.com/track/1uGZzKxDdi4Um0lORt6bZe) | [Tokoyo](https://open.spotify.com/artist/1uRrPMRitqSxmERD5N5NWF) | [this time](https://open.spotify.com/album/3IPFVDh9DogTkFAo8seeW4) | 2:30 | 2021-12-23 | 2022-07-27 |
 | [Time Flies](https://open.spotify.com/track/1TzTFDuSoePewojzuxejAh) | [Mr\. Shirai](https://open.spotify.com/artist/6nndu85w7OaaggJul6H0GH) | [Time Flies](https://open.spotify.com/album/6VBSLYVKCFMoMBqtVm942G) | 2:22 | 2021-12-23 | 2022-04-20 |
 | [Time Goes by](https://open.spotify.com/track/6dWrxCIZ0sIs4dJPC9jRNR) | [sophisticated silence](https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH) | [Time Goes by](https://open.spotify.com/album/4zaWiFt9HasPkIXAjieEuo) | 1:53 | 2024-09-25 | 2024-12-24 |

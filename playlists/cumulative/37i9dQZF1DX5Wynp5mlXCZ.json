@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Benson Boone",
+  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Golubenko",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2025",
   "tracks": [
     {
@@ -252,6 +252,24 @@
       "duration_ms": 162029,
       "name": "Azizam",
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
+    },
+    {
+      "album": {
+        "name": "BALAMUT",
+        "url": "https://open.spotify.com/album/28TG8RXtzpt6bhqgBXY9PG"
+      },
+      "artists": [
+        {
+          "name": "KHAYAT",
+          "url": "https://open.spotify.com/artist/1YHTEJ3H4Qop7qxN5hZ5jK"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128780,
+      "name": "BALAMUT",
+      "url": "https://open.spotify.com/track/3fGpH0PONVw8mIy8Ch1hzB"
     },
     {
       "album": {
@@ -2893,6 +2911,24 @@
     },
     {
       "album": {
+        "name": "Virgin",
+        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257065,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m"
+    },
+    {
+      "album": {
         "name": "Silverlines - prod. Labrinth",
         "url": "https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4"
       },
@@ -2962,7 +2998,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 280800,
       "name": "Smoking Cherry",
       "url": "https://open.spotify.com/track/5hmQADC08TeCTQaeKhltnY"
@@ -3016,7 +3052,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 180000,
       "name": "Sound of Bloom",
       "url": "https://open.spotify.com/track/1EcSuTMIVcLNnqq4TrPaTe"
@@ -3982,7 +4018,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 207533,
       "name": "ZVIR",
       "url": "https://open.spotify.com/track/3jQKEEgQTOCjNavi4iaKrr"
@@ -4414,6 +4450,24 @@
       "duration_ms": 167142,
       "name": "\u0412\u0456\u0442\u0435\u0440",
       "url": "https://open.spotify.com/track/44Luf8j9ZAKiA0d3QCI0OD"
+    },
+    {
+      "album": {
+        "name": "\u0413\u043e\u0432\u043e\u0440\u0438\u043b\u0438",
+        "url": "https://open.spotify.com/album/56m2oahXxWbrwzsZWLSfWX"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149763,
+      "name": "\u0413\u043e\u0432\u043e\u0440\u0438\u043b\u0438",
+      "url": "https://open.spotify.com/track/36CrigOJBiD1PPsfWYMWxq"
     },
     {
       "album": {
@@ -5808,7 +5862,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 141459,
       "name": "\u043d\u0435\u0431\u0435\u0437\u043f\u0435\u0447\u043d\u0430",
       "url": "https://open.spotify.com/track/2KKJ5H1LM8F3aMjigiEDkX"
@@ -6782,6 +6836,24 @@
       "duration_ms": 120000,
       "name": "\u0423\u0431\u0435\u0440",
       "url": "https://open.spotify.com/track/65zc8JAIiF5vfdccKfE5Y1"
+    },
+    {
+      "album": {
+        "name": "\u0423\u0434\u0432\u043e\u0445",
+        "url": "https://open.spotify.com/album/4kO8ZzqjiLQHJUHO5Z2Tzk"
+      },
+      "artists": [
+        {
+          "name": "Golubenko",
+          "url": "https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160677,
+      "name": "\u0423\u0434\u0432\u043e\u0445",
+      "url": "https://open.spotify.com/track/2w2K1ezT7oZAQDbWzmqVZ6"
     },
     {
       "album": {

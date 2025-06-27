@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: can’t be blue \(캔트비블루\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,641 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,677 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [First Sight](https://open.spotify.com/track/5hQRt83sxBT4nNHF8ux8iQ) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [First Sight](https://open.spotify.com/album/6zQpQHGZZA6OZcF1meqpUI) | 3:33 |
 | 2 | [at last](https://open.spotify.com/track/2U50ylcJ8KwDS1lZlb91wI) | [YOOK SUNGJAE](https://open.spotify.com/artist/7mFGOWJEkdlJBCXcJ5EWi9) | [All About Blue](https://open.spotify.com/album/68bPbXzJiC73kBZzXu9jmX) | 3:45 |
 | 3 | [Syringe](https://open.spotify.com/track/1vZiEInBCBapB6wGhZX9YB) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Hospital](https://open.spotify.com/album/3Nj0yXmZnHRu4MMP31sUVK) | 4:23 |
-| 4 | [Remember!](https://open.spotify.com/track/0sQ7Ej7deFPs7dQeScxVgZ) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Remember!](https://open.spotify.com/album/11EGNnLOAlNLUXysHvuH2t) | 3:32 |
+| 4 | [Remember!](https://open.spotify.com/track/0sQ7Ej7deFPs7dQeScxVgZ) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Remember!](https://open.spotify.com/album/11EGNnLOAlNLUXysHvuH2t) | 3:31 |
 | 5 | [HOW i WiSH!](https://open.spotify.com/track/2BuqLW1JazhHDiJ7FmmVeK) | [WhiteUsedSocks](https://open.spotify.com/artist/6DOPRiywZshVyewhu0XTbY) | [HOW i WiSH!](https://open.spotify.com/album/0OKjkBRNuAfKWndRtR7oDL) | 3:45 |
 | 6 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 |
 | 7 | [Drowning](https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 4:04 |

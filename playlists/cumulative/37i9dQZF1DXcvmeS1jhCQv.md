@@ -2,9 +2,9 @@
 
 ### [A Breath of Fresh Éire](https://open.spotify.com/playlist/37i9dQZF1DXcvmeS1jhCQv)
 
-> New tunes from Ireland for your discovery\. Cover: Florence Road
+> New tunes from Ireland for your discovery\. Cover: KNEECAP, Mozey
 
-323 songs - 17 hr 30 min
+327 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Anywhere](https://open.spotify.com/track/62uoKWHWnKh7VSRWnHpXUm) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7), [Gaptoof](https://open.spotify.com/artist/4I6A3EOnjIx9tjVHwDSJzZ) | [Anywhere](https://open.spotify.com/album/1N13pnjvDsVWLFW9gpalx2) | 2:47 | 2025-05-30 |  |
 | [AppleBottomCigarets](https://open.spotify.com/track/642SEZ5hpoVs5TAg5hTadC) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [AppleBottomCigarets](https://open.spotify.com/album/44zWEXs4rEHQotlWwVZKV1) | 2:26 | 2025-01-31 |  |
 | [Asha's Waltz](https://open.spotify.com/track/6wzp4booSJKX2CO2d8Ctho) | [Pebbledash](https://open.spotify.com/artist/5nXn4Aa9Cifzc2mdJqqrIL) | [Asha's Waltz](https://open.spotify.com/album/75UrgQ54va1o2GWrlGUTk9) | 6:25 | 2025-05-30 |  |
+| [at my knees yeah](https://open.spotify.com/track/4MNPhtDVpy3UB7MTojNt8J) | [Badscandal](https://open.spotify.com/artist/29kaubgb6Esvwu0idVndGy) | [friendly](https://open.spotify.com/album/6BgBexfL93XS2JpetgXaVw) | 2:24 | 2025-06-26 |  |
 | [atrophy](https://open.spotify.com/track/7cQwMwIBNkGYvPQUzMj1pn) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [atrophy](https://open.spotify.com/album/1yhIQQhcuRHOzermd4P6Iq) | 3:08 | 2025-01-31 |  |
 | [Attention](https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Attention](https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH) | 4:11 | 2024-03-01 | 2024-07-05 |
 | [Baker](https://open.spotify.com/track/0W6nT0cnGAVf7PDSAzg3wh) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [Baker](https://open.spotify.com/album/0z2ucrChRvTLD6mIld3DsQ) | 2:49 | 2024-07-19 | 2025-02-28 |
@@ -82,8 +83,9 @@
 | [Daylight Savings](https://open.spotify.com/track/1Op1ZYMmDFvxOEY2HGuq1a) | [Reevah](https://open.spotify.com/artist/0vreRJnfkwQlxI2KQarKGQ) | [Daylight Savings](https://open.spotify.com/album/0gEzE0fSM4PbGYfNm28ZOC) | 3:37 | 2024-02-02 | 2024-02-06 |
 | [Dead Ends](https://open.spotify.com/track/0QqgVlrgMLDepJQIyOlNzD) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Dead Ends](https://open.spotify.com/album/4CXUYoywuie0J8b8Iw4bW2) | 4:09 | 2024-03-29 | 2024-05-17 |
 | [DECAY](https://open.spotify.com/track/7ujHwnDCjSx77is9AI1tdR) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [ROCK 'N' RAVE](https://open.spotify.com/album/3oRlu91UUBH536qpdagyNQ) | 2:26 | 2024-02-02 | 2024-04-12 |
-| [defiance](https://open.spotify.com/track/7HSuDocrUEMvTa20ocNEWO) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [defiance](https://open.spotify.com/album/5qt9UjTYqbue5NfngVWD8O) | 4:06 | 2024-10-10 |  |
+| [defiance](https://open.spotify.com/track/7HSuDocrUEMvTa20ocNEWO) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [defiance](https://open.spotify.com/album/5qt9UjTYqbue5NfngVWD8O) | 4:06 | 2024-10-10 | 2025-06-27 |
 | [Demons In The Liffey](https://open.spotify.com/track/3Mv8R1kGCoykiQaIUnX7bU) | [Qbanaa](https://open.spotify.com/artist/7oDpJIKtPKyH5LY7xLi7EZ) | [Demons In The Liffey](https://open.spotify.com/album/1IrzUMpXkUBPGa2Qn8Aryy) | 3:41 | 2024-10-18 | 2025-05-31 |
+| [Descartes](https://open.spotify.com/track/1VOBsB3ozaoQv3i6Uts3O1) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Descartes](https://open.spotify.com/album/048eF8cmJqqF36fEvJABBY) | 3:13 | 2025-06-26 |  |
 | [Discovery](https://open.spotify.com/track/0telt43FI47tAzJUB5oaPG) | [Niamh Bury](https://open.spotify.com/artist/44VP4ZxUIYVngSNENOGRme) | [Discovery](https://open.spotify.com/album/1RxKY5Gd6rn86pHiP5P6QY) | 4:20 | 2024-02-02 | 2024-03-08 |
 | [DISPLAY](https://open.spotify.com/track/58hWXAnbdtwNPa6Pefwkyn) | [Tanaka](https://open.spotify.com/artist/0RPM0FcHKPOu6ToI6bN4PE) | [DISPLAY](https://open.spotify.com/album/1K7E9YZcJOH7IR7Pe1XTt6) | 2:32 | 2025-04-23 |  |
 | [DM:AM](https://open.spotify.com/track/7sJQG7BjDIj3DWLUdqsNKH) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [DM:AM](https://open.spotify.com/album/26BvD7KR2R6SXD0qFSXDGt) | 2:11 | 2025-03-07 |  |
@@ -181,7 +183,7 @@
 | [Make Me Smile](https://open.spotify.com/track/6ozqkNSPFNjaAaqDgiJPXV) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [Make Me Smile](https://open.spotify.com/album/0ZGLCy4MswnlYMzUYAEToR) | 3:18 | 2024-02-02 | 2024-02-16 |
 | [Make Ya Go](https://open.spotify.com/track/5mMwWxN340JYPqnpQ5UVLD) | [Celaviedmai](https://open.spotify.com/artist/4c61VuJuumv26ISGZ4VzcO), [Ben Bix](https://open.spotify.com/artist/3rGwqjv5MH8zmWIaVaENOP), [Qbanaa](https://open.spotify.com/artist/7oDpJIKtPKyH5LY7xLi7EZ), [Plantain Papi](https://open.spotify.com/artist/4n2PDqvYZGbA6jEUl9Oim4) | [ISSA NEW ERA!](https://open.spotify.com/album/2SilrGAaibjxRpebuPoDdO) | 3:08 | 2024-03-15 | 2024-08-23 |
 | [Marlay Park](https://open.spotify.com/track/4Uh27w3SzvO8EPOk42xe9z) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Reverie](https://open.spotify.com/album/16QA9SMR24G6Jf5GvJBJB8) | 3:44 | 2025-06-19 |  |
-| [Master Shifu](https://open.spotify.com/track/0E4f4nXeXT7yjvwLBnPr13) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly) | [Master Shifu](https://open.spotify.com/album/6LFmUBFDPffLxylzW6Lcad) | 1:57 | 2024-12-06 |  |
+| [Master Shifu](https://open.spotify.com/track/0E4f4nXeXT7yjvwLBnPr13) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly) | [Master Shifu](https://open.spotify.com/album/6LFmUBFDPffLxylzW6Lcad) | 1:57 | 2024-12-06 | 2025-06-27 |
 | [meanie](https://open.spotify.com/track/6xivQSZmwJQu6aLT3fSk8r) | [Kayleigh Noble](https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH) | [Just a Girl](https://open.spotify.com/album/2PFDKgHpiUWafkfpUdKYz9) | 4:01 | 2024-02-02 | 2024-03-29 |
 | [Memories](https://open.spotify.com/track/6lxkrfiRqN7EN0VxnduNvj) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt), [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Memories](https://open.spotify.com/album/4ZLD6CAOjtG4u93ar72ZVP) | 2:13 | 2025-01-10 |  |
 | [mercury](https://open.spotify.com/track/066GOqmEF3x8tIeQbv9Bgc) | [kleio](https://open.spotify.com/artist/11e9KWi4xzznWbBrOzkPpT) | [mercury](https://open.spotify.com/album/6eyW0ajwUcgoujd1mgkVL5) | 3:17 | 2024-07-25 | 2024-12-07 |
@@ -213,7 +215,7 @@
 | [Old Friend](https://open.spotify.com/track/08PEMd5eezf6t55FXX7CSt) | [Lemoncello](https://open.spotify.com/artist/3TzSVg2vePWnfYCTNo3Mx6) | [Old Friend](https://open.spotify.com/album/2g4ZTUmr2X7gI7zVUmgVIu) | 5:13 | 2024-03-15 | 2024-05-17 |
 | [Only Human](https://open.spotify.com/track/7KRaAp2EwSxCLYAASWbbNV) | [Nealo](https://open.spotify.com/artist/0HR90wEU7v0pQRVsltcQKO) | [Only Human](https://open.spotify.com/album/0qvFjAc5SvaBExJ65LeWMr) | 2:34 | 2024-02-02 | 2024-03-15 |
 | [Open Ended](https://open.spotify.com/track/5SlEyBuGTGWvCCY7igLmny) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Open Ended](https://open.spotify.com/album/0ofMe7xxj2EZiFR9YVmBrw) | 3:24 | 2024-02-02 | 2024-02-23 |
-| [Open Wide](https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk) | 4:48 | 2024-12-06 |  |
+| [Open Wide](https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk) | 4:48 | 2024-12-06 | 2025-06-27 |
 | [Our Flame](https://open.spotify.com/track/2iikKdXFUIqrel0hprg8e8) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [Our Flame](https://open.spotify.com/album/24kqVC0u0YggHJRqPUia8o) | 3:12 | 2025-06-19 |  |
 | [Our Time](https://open.spotify.com/track/0m3rJzSC3u0DAgRp8V5y0b) | [Luke Dunleavy](https://open.spotify.com/artist/2hrlyfscnm84Inpkn8hpga) | [Our Time](https://open.spotify.com/album/7uNkcvXJxHH3roLYAjBixB) | 2:30 | 2024-02-23 | 2024-07-05 |
 | [Out of Style](https://open.spotify.com/track/1yYHHDEniESPk9iNFr5nyR) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Out of Style](https://open.spotify.com/album/4GWriL3zDCxyzpD2ZIpBjC) | 2:44 | 2024-04-25 | 2024-11-16 |
@@ -275,7 +277,7 @@
 | [Taken Out By The Wind](https://open.spotify.com/track/0d4krr4O0gFMnBCncqKNbS) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Taken Out By The Wind](https://open.spotify.com/album/1HP8SGPqIvgcmOEqiwKFz2) | 2:51 | 2024-02-02 | 2024-03-22 |
 | [Teeth](https://open.spotify.com/track/368TV7O9qxwJcDilBt68iz) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Teeth](https://open.spotify.com/album/0rOsqiiI0Ek08YYv3jEm3U) | 3:52 | 2024-02-02 | 2024-03-02 |
 | [Tell My Ma](https://open.spotify.com/track/03odXEDawI38O9WZF764jR) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [Tell My Ma](https://open.spotify.com/album/1noBYErYgt21Gt9cqhgtBP) | 1:26 | 2024-09-19 | 2025-04-24 |
-| [Thank you](https://open.spotify.com/track/542z0dx4XkE7zFyXtUyYPj) | [Sweetlemondae](https://open.spotify.com/artist/7wW3N1chCIWsrSNM3K28nv) | [Thank you](https://open.spotify.com/album/2zHhWY8HcmDc6sIvxYBBfA) | 2:52 | 2024-11-15 |  |
+| [Thank you](https://open.spotify.com/track/542z0dx4XkE7zFyXtUyYPj) | [Sweetlemondae](https://open.spotify.com/artist/7wW3N1chCIWsrSNM3K28nv) | [Thank you](https://open.spotify.com/album/2zHhWY8HcmDc6sIvxYBBfA) | 2:52 | 2024-11-15 | 2025-06-27 |
 | [That Sound \(Remix\)](https://open.spotify.com/track/74d4xa0cCOO6n0KYGocP1z) | [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA), [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [That Sound \(Remix\)](https://open.spotify.com/album/2oSszLSsDSdh09truw76O4) | 2:32 | 2024-08-22 | 2025-03-08 |
 | [The Car](https://open.spotify.com/track/4Qx3YoTw0ZyNbqDCUgboqz) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [Annie\-Dog](https://open.spotify.com/album/2Gbd9jVGdt4xbLXNywrs69) | 3:23 | 2024-07-04 | 2025-01-10 |
 | [The Commons](https://open.spotify.com/track/5PfJka4aeWTPLTpzUaxVrb) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [The Commons](https://open.spotify.com/album/4K8gqz3BWiZBfkGeoWdg6d) | 5:24 | 2024-10-10 | 2025-05-31 |
@@ -285,6 +287,7 @@
 | [The Moment](https://open.spotify.com/track/0Cm3GLhnwLN7C5p3gvoF0F) | [Elaine Mai](https://open.spotify.com/artist/0wRHsCARScopB5WmbQzMcy), [soft centre](https://open.spotify.com/artist/3Aq9mGuowzDwPP8Go1FHZy) | [The Moment](https://open.spotify.com/album/4H1qLDeGdpoQFdpZjiX5MR) | 2:46 | 2024-02-02 | 2024-02-23 |
 | [The Night The School Burnt Down](https://open.spotify.com/track/1nfmD2TVBma9E9k5Zszes8) | [Pa Sheehy](https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX) | [Maybe It Was All For This](https://open.spotify.com/album/64nxWU5wIxftHZFIqqb3Ui) | 4:02 | 2024-10-10 | 2025-04-24 |
 | [The Pressures of the Heart](https://open.spotify.com/track/0dBhs5Aw3NO9gAVIWrnmLZ) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [The Pressures of the Heart](https://open.spotify.com/album/2jd3oX3uh1wbhpGvPOfsFe) | 2:54 | 2024-03-01 | 2024-04-05 |
+| [THE RECAP](https://open.spotify.com/track/2MqtHEaoMmfVMe3gjg7rQz) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [THE RECAP](https://open.spotify.com/album/5mJPfSEKnCAjpfuknVQwol) | 2:29 | 2025-06-26 |  |
 | [The Saviour](https://open.spotify.com/track/3HKIcz3YOVdLVaydRVmSC2) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [The Saviour](https://open.spotify.com/album/23fDS1YhmFSeZUptFFshoA) | 3:38 | 2024-10-18 |  |
 | [The State](https://open.spotify.com/track/2z8W8Wyfy2XMU7kSnDTPNF) | [Fynch](https://open.spotify.com/artist/0IKMnBuBLJuHcrTejKmrtx) | [Youngfella](https://open.spotify.com/album/1RRioAfHKB6wujcoO1Zi3p) | 3:07 | 2024-03-01 | 2024-07-05 |
 | [The What](https://open.spotify.com/track/6Z5j8pnqs9zlezmdFJcWSa) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [The What](https://open.spotify.com/album/5BpDfN45G6hpGdwjnD8TZZ) | 2:26 | 2024-10-10 | 2025-05-31 |
@@ -294,6 +297,7 @@
 | [Top Of The Bill](https://open.spotify.com/track/5Nk0fgUhD5DwwjCjN7erYh) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Top Of The Bill](https://open.spotify.com/album/30mkZmbGPyvicNPNjC8xyz) | 3:53 | 2024-08-02 | 2024-09-13 |
 | [Travel Size](https://open.spotify.com/track/3Z3wrUVY4ct2PozNaPB5hv) | [Rachael Lavelle](https://open.spotify.com/artist/6fB2D85hn56JzRBTlCG0nw) | [Travel Size](https://open.spotify.com/album/2GU2ufSlyZx18xc6Ri3X5Y) | 3:30 | 2024-02-02 | 2024-02-23 |
 | [Tree Sap](https://open.spotify.com/track/1gE8YjNMyYbcuBpY6aIQrM) | [Curtisy](https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35) | [Tree Sap](https://open.spotify.com/album/3UEJYN35NOShY9pY7wyAvM) | 2:25 | 2024-02-02 | 2024-02-16 |
+| [TRUTH](https://open.spotify.com/track/4C9BuBuYgYlOvLh6QzMpqb) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [TRUTH](https://open.spotify.com/album/514vLGRIoCZV3WFoo61QIl) | 2:03 | 2025-06-26 |  |
 | [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 | 2024-02-02 | 2024-07-19 |
 | [twin flame](https://open.spotify.com/track/3CVr8uzhhUguJUdI17ZKkF) | [how r u](https://open.spotify.com/artist/3vGe1PnnVqY1wS1hbs80Bv) | [twin flame](https://open.spotify.com/album/10qMmgkmgspyaR23TVyqqr) | 1:49 | 2024-10-18 | 2025-05-31 |
 | [TWO SIDES](https://open.spotify.com/track/2obagAOY1SvYnEtSb9Q1a4) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [TWO SIDES](https://open.spotify.com/album/0DDHRnjZHVSgrlvrM9R4f5) | 4:07 | 2025-01-31 |  |

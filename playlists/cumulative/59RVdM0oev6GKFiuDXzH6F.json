@@ -5325,6 +5325,24 @@
     },
     {
       "album": {
+        "name": "Feel So Good",
+        "url": "https://open.spotify.com/album/3MFDDyUqEuMne5UpkHZcCC"
+      },
+      "artists": [
+        {
+          "name": "Alure",
+          "url": "https://open.spotify.com/artist/2at01aWUeF5RX0bm7M7LjP"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178625,
+      "name": "Feel So Good",
+      "url": "https://open.spotify.com/track/3A5ChH4cZ0TKcN9dNT9ua0"
+    },
+    {
+      "album": {
         "name": "Feel The Need",
         "url": "https://open.spotify.com/album/3eBcoTjDLcgkVo6xBFn3Wj"
       },

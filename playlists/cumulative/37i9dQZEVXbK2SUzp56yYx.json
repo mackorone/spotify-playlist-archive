@@ -10340,7 +10340,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 222000,
       "name": "Lumi\u00e8re",
       "url": "https://open.spotify.com/track/1A1XuDIYZxSKrQ6mzkWwAT"
@@ -10384,7 +10384,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 124110,
       "name": "LUNA BALA - Slowed",
       "url": "https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj"
@@ -10960,7 +10960,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-24",
+      "date_removed": null,
       "duration_ms": 75302,
       "name": "MENTE M\u00c1",
       "url": "https://open.spotify.com/track/11gZL0HigsqfzjTHOpdFjE"
@@ -20985,6 +20985,24 @@
     },
     {
       "album": {
+        "name": "\u0441\u0430\u0443\u043d\u0434\u043a\u043b\u0430\u0443\u0434 \u043f\u0430\u043a",
+        "url": "https://open.spotify.com/album/3vvHeN07ySuHHcubVvhgyw"
+      },
+      "artists": [
+        {
+          "name": "\u0443\u0440\u0430\u043b \u0433\u0430\u0439\u0441\u0438\u043d",
+          "url": "https://open.spotify.com/artist/6CGetCSvhKrqmeKnsaI4Bm"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117678,
+      "name": "\u0431\u043b\u044e\u0437",
+      "url": "https://open.spotify.com/track/78uUo0Beh7ugFOyKks8JFt"
+    },
+    {
+      "album": {
         "name": "\u0411\u043b\u044f\u0434\u0441\u043a\u0430\u044f \u043d\u0430\u0442\u0443\u0440\u0430",
         "url": "https://open.spotify.com/album/3E027SSiFdfWJ8DiVqXCZz"
       },
@@ -26478,7 +26496,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-25",
+      "date_removed": null,
       "duration_ms": 196935,
       "name": "\u041d\u0435\u0436\u043d\u0430\u044f \u041b\u044e\u0431\u043e\u0432\u044c",
       "url": "https://open.spotify.com/track/6hCZqjIrd68aT1Ce9lpF8e"
@@ -30464,7 +30482,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 108000,
       "name": "\u0442\u0430\u043a \u043f\u043e\u0445\u0443\u0439",
       "url": "https://open.spotify.com/track/1dpHnn6eh4Pz55UproSdJv"

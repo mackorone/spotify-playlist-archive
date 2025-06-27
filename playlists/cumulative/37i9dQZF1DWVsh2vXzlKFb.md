@@ -4,7 +4,7 @@
 
 > Songs for the warm pavement, cracked windows, and falling in love with music in the sun.
 
-588 songs - 1 day 8 hr 54 min
+589 songs - 1 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,7 @@
 | [Made for Mermaid](https://open.spotify.com/track/2kLTL9QiAF0PDCuSKFAYYI) | [Orange Ocean](https://open.spotify.com/artist/3xcaXZYFSV0iRmgu9defBW), [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Made for Mermaid](https://open.spotify.com/album/7rH5xf3APNtGGUZz6bMr16) | 4:42 | 2022-03-24 | 2022-05-03 |
 | [Magic](https://open.spotify.com/track/3QEYYJTIEd6Tv0HCrgHvri) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC) | 6:48 | 2022-07-14 | 2023-05-16 |
 | [Magic](https://open.spotify.com/track/4XsrQYCU60mBHzjFVImgFf) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/46vqvAYDetWqC04lXDzTmc) | 6:48 | 2021-08-13 | 2022-07-14 |
-| [MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [MAKKA](https://open.spotify.com/album/6HJ61LT8zJuNdv0Va9WRjB) | 3:00 | 2025-05-15 |  |
+| [MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [MAKKA](https://open.spotify.com/album/6HJ61LT8zJuNdv0Va9WRjB) | 3:00 | 2025-05-15 | 2025-06-27 |
 | [Maniac](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:05 | 2023-07-24 | 2023-08-01 |
 | [Marlboro Nights](https://open.spotify.com/track/755inykyaG4w22GWAsA3MX) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz) | 1:08 | 2023-07-24 | 2023-08-01 |
 | [May Ninth](https://open.spotify.com/track/5yVGW2o9LXaiiS4I3HUM3k) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:12 | 2024-05-17 |  |
@@ -525,6 +525,7 @@
 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 | 2022-07-14 | 2023-05-20 |
 | [The Old Style Raiders](https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [The Theory Of Whatever](https://open.spotify.com/album/5kyMgf8ogldA8iLY9ppyAV) | 3:55 | 2023-05-19 | 2023-05-26 |
 | [The Only Heartbreaker](https://open.spotify.com/track/4VYNZbmI3ixv9mlTTd9NKc) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:04 | 2022-03-24 | 2024-05-18 |
+| [The Rope](https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [The Rope](https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId) | 3:10 | 2025-06-20 |  |
 | [The Spins](https://open.spotify.com/track/51pshtuYkgUQnt5huMPbKL) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/0WzOtZBpXvWdNdH7hCJ4qo) | 3:15 | 2021-08-13 | 2023-04-24 |
 | [The Spins](https://open.spotify.com/track/7BcOUi4FQ3wBLmNTW0yfCR) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 3:15 | 2023-03-11 | 2023-04-27 |
 | [The Spins](https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S\. \(Deluxe\)](https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R) | 3:15 | 2023-03-11 | 2023-08-01 |

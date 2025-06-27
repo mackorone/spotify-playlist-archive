@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 134020,
+  "num_followers": 134050,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-06-20 03:00:22",
       "album": {
+        "name": "Curyman",
+        "url": "https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8"
+      },
+      "artists": [
+        {
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "Pra Vida",
+      "url": "https://open.spotify.com/track/7z9ygQkhE50EGYMuZfbEFq"
+    },
+    {
+      "added_at": "2025-06-20 03:00:22",
+      "album": {
         "name": "Sambabook Beth Carvalho",
         "url": "https://open.spotify.com/album/6n2DZ90JnfaXLij3cqfLye"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 256888,
       "name": "Ainda \u00c9 Tempo pra Ser Feliz",
       "url": "https://open.spotify.com/track/08hIFSxQLvmSCwgECBLLBv"
-    },
-    {
-      "added_at": "2025-06-20 03:00:22",
-      "album": {
-        "name": "Curyman",
-        "url": "https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8"
-      },
-      "artists": [
-        {
-          "name": "Rog\u00ea",
-          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "Pra Vida",
-      "url": "https://open.spotify.com/track/7z9ygQkhE50EGYMuZfbEFq"
     },
     {
       "added_at": "2025-06-20 03:00:22",
@@ -743,26 +743,6 @@
     {
       "added_at": "2025-06-20 03:00:22",
       "album": {
-        "name": "Trevo, Figuinha e Suor na Camisa",
-        "url": "https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "Trevo, Figuinha e Suor na Camisa",
-      "url": "https://open.spotify.com/track/5XlSsxpTi0usJnQSUwBORk"
-    },
-    {
-      "added_at": "2025-06-20 03:00:22",
-      "album": {
         "name": "Andar Sozinho (feat. J\u00e3o)",
         "url": "https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 180213,
       "name": "Andar Sozinho (feat. J\u00e3o)",
       "url": "https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS"
+    },
+    {
+      "added_at": "2025-06-20 03:00:22",
+      "album": {
+        "name": "Trevo, Figuinha e Suor na Camisa",
+        "url": "https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "Trevo, Figuinha e Suor na Camisa",
+      "url": "https://open.spotify.com/track/5XlSsxpTi0usJnQSUwBORk"
     },
     {
       "added_at": "2025-06-20 03:00:22",

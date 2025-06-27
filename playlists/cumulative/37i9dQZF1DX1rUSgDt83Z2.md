@@ -4,7 +4,7 @@
 
 > Mooi van eigen bodem 🇳🇱
 
-174 songs - 9 hr 1 min
+175 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Op Jou Heb Ik Gewacht](https://open.spotify.com/track/0uOc3SO3ZkrNeL5khr4GUn) | [De Poema's](https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh), [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Op Jou Heb Ik Gewacht](https://open.spotify.com/album/2FNg6ZrAoDT0KxI1sy97b2) | 2:55 | 2025-03-06 |  |
 | [Patronen](https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh) | 2:53 | 2024-08-29 |  |
 | [Perfect Voor Mij](https://open.spotify.com/track/5pkPQQaYEoHbSnVQoVbXs6) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Perfect Voor Mij](https://open.spotify.com/album/0jUWx66cMwXl4l7gDDgZIS) | 3:00 | 2025-03-13 | 2025-05-16 |
+| [PROBLEEM](https://open.spotify.com/track/6PewFCIzngTW7laJZEJmOn) | [Soline](https://open.spotify.com/artist/6Kwf7dSZo0i3T91FJErLG7) | [PROBLEEM](https://open.spotify.com/album/1lGYPZ9dYPqm1NxlUWJQlp) | 2:44 | 2025-06-26 |  |
 | [Queen of my Castle](https://open.spotify.com/track/5xvL8aAtHOj0R7Fpz4eAVS) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Queen of my Castle](https://open.spotify.com/album/4RRplsBhzIVuwUeFcQnDJr) | 3:12 | 2024-06-24 | 2024-11-05 |
 | [Regenhart](https://open.spotify.com/track/2MIpqsKokjAnNbJKgdKC0e) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [Regenhart](https://open.spotify.com/album/1IPe5pTccIVX5WBxFYbm1C) | 3:29 | 2024-06-24 | 2024-09-20 |
 | [Ritme Van De Regen](https://open.spotify.com/track/0oTSfcejWrvhfldw0xmeii) | [SUITZ](https://open.spotify.com/artist/7sZAH6hluU8RaOpMHERmSu) | [Ritme Van De Regen](https://open.spotify.com/album/372KnSx5mluz4QVrEpwchS) | 2:54 | 2024-11-21 | 2025-02-21 |
@@ -133,7 +134,7 @@
 | [Samen](https://open.spotify.com/track/1pwrVAT0Ks9gGCRwrdXaf6) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Samen](https://open.spotify.com/album/7drCw1YJM30pRxnPrkSFja) | 3:20 | 2024-06-24 | 2024-09-13 |
 | [Samen Één](https://open.spotify.com/track/00WpTUpQKUgqhGSm1RNd8V) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Samen Één](https://open.spotify.com/album/7jn0vf2mnFQADgZIMcqdSc) | 2:10 | 2024-06-24 | 2024-09-20 |
 | [Say Goodbye](https://open.spotify.com/track/58h6HSRIKJeArYdGNUhKQJ) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Say Goodbye](https://open.spotify.com/album/5oQqzWjvn2XvuF2NE0C7PV) | 3:04 | 2024-06-24 | 2024-09-13 |
-| [Scherven](https://open.spotify.com/track/14h13moB369WHcbOOjOY0z) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Scherven](https://open.spotify.com/album/2cTSiHcoaa6cUvTiD0Bgew) | 2:59 | 2025-03-06 |  |
+| [Scherven](https://open.spotify.com/track/14h13moB369WHcbOOjOY0z) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Scherven](https://open.spotify.com/album/2cTSiHcoaa6cUvTiD0Bgew) | 2:59 | 2025-03-06 | 2025-06-27 |
 | [Schijnbaar Niet Waar](https://open.spotify.com/track/1WITbzl4lGLokvRBIqKWVj) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Schijnbaar Niet Waar](https://open.spotify.com/album/18SrsVBd4z2Y7duRaDdvVS) | 2:31 | 2024-06-24 | 2024-12-13 |
 | [Schreeuwen](https://open.spotify.com/track/2xn7cPoNGK74i52b5whZ7A) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Samen Één](https://open.spotify.com/album/0F2Oyz1BS2A5xTU7iCvzxf) | 2:55 | 2024-11-04 |  |
 | [Seizoenen](https://open.spotify.com/track/4GrHcWRKOwq3DWu8F9OryT) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Seizoenen](https://open.spotify.com/album/6O6pOwgtsdIF0CioNutqV0) | 3:07 | 2025-04-10 |  |

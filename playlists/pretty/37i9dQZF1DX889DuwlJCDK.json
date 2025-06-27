@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: Chilli Beans.",
-  "num_followers": 19764,
+  "num_followers": 19779,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2025-06-24 17:34:43",
       "album": {
+        "name": "\u9752\u7a7a",
+        "url": "https://open.spotify.com/album/2lzkVnmmTJeAfRgijw9SER"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30eb\u30b7\u30a3",
+          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
+        }
+      ],
+      "duration_ms": 238160,
+      "name": "\u9752\u7a7a",
+      "url": "https://open.spotify.com/track/1iBGMFMIZ3JerD7tAFPxPJ"
+    },
+    {
+      "added_at": "2025-06-24 17:34:43",
+      "album": {
         "name": "\u3044\u307e\u62b1\u304d\u3057\u3081\u308b \u8db3\u308a\u306a\u3044\u3060\u3051\u3092",
         "url": "https://open.spotify.com/album/7tYOSkIUCpatWifNfQhYDS"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 211200,
       "name": "\u9ec4\u8272\u4fe1\u53f7",
       "url": "https://open.spotify.com/track/6oActeQQvrK8TzNkapQ18W"
-    },
-    {
-      "added_at": "2025-06-24 17:34:43",
-      "album": {
-        "name": "\u9752\u7a7a",
-        "url": "https://open.spotify.com/album/2lzkVnmmTJeAfRgijw9SER"
-      },
-      "artists": [
-        {
-          "name": "\u30de\u30eb\u30b7\u30a3",
-          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
-        }
-      ],
-      "duration_ms": 238160,
-      "name": "\u9752\u7a7a",
-      "url": "https://open.spotify.com/track/1iBGMFMIZ3JerD7tAFPxPJ"
     },
     {
       "added_at": "2025-06-24 17:34:43",
@@ -939,18 +939,18 @@
     {
       "added_at": "2025-06-24 17:34:43",
       "album": {
-        "name": "\u633f\u5165\u6b4c",
-        "url": "https://open.spotify.com/album/59CltZlhPEnyJDJzL9sUL2"
+        "name": "tragedy",
+        "url": "https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9"
       },
       "artists": [
         {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
         }
       ],
-      "duration_ms": 177722,
-      "name": "\u633f\u5165\u6b4c",
-      "url": "https://open.spotify.com/track/1fVv4ryroKX1SjibfjdwQn"
+      "duration_ms": 163322,
+      "name": "tragedy",
+      "url": "https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd"
     },
     {
       "added_at": "2025-06-24 17:34:43",
@@ -971,34 +971,18 @@
     {
       "added_at": "2025-06-24 17:34:43",
       "album": {
-        "name": "tragedy",
-        "url": "https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9"
+        "name": "\u633f\u5165\u6b4c",
+        "url": "https://open.spotify.com/album/59CltZlhPEnyJDJzL9sUL2"
       },
       "artists": [
         {
-          "name": "Chilli Beans.",
-          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
         }
       ],
-      "duration_ms": 163322,
-      "name": "tragedy",
-      "url": "https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd"
-    },
-    {
-      "added_at": "2025-06-24 17:34:43",
-      "album": {
-        "name": "Catch",
-        "url": "https://open.spotify.com/album/5BDVlDH6vXjXNTAvMropw6"
-      },
-      "artists": [
-        {
-          "name": "Haku.",
-          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
-        }
-      ],
-      "duration_ms": 211019,
-      "name": "\u5965\u4e8c\u91cd\u3067\u898b\u308b",
-      "url": "https://open.spotify.com/track/5OT7zL5hxwq9K0nGEYKS05"
+      "duration_ms": 177722,
+      "name": "\u633f\u5165\u6b4c",
+      "url": "https://open.spotify.com/track/1fVv4ryroKX1SjibfjdwQn"
     },
     {
       "added_at": "2025-06-24 17:34:43",
@@ -1015,6 +999,22 @@
       "duration_ms": 177443,
       "name": "\u8133\u5185\u544a\u767d",
       "url": "https://open.spotify.com/track/47PGCHrBrpUWhAHeUrfMBV"
+    },
+    {
+      "added_at": "2025-06-24 17:34:43",
+      "album": {
+        "name": "Catch",
+        "url": "https://open.spotify.com/album/5BDVlDH6vXjXNTAvMropw6"
+      },
+      "artists": [
+        {
+          "name": "Haku.",
+          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
+        }
+      ],
+      "duration_ms": 211019,
+      "name": "\u5965\u4e8c\u91cd\u3067\u898b\u308b",
+      "url": "https://open.spotify.com/track/5OT7zL5hxwq9K0nGEYKS05"
     },
     {
       "added_at": "2025-06-24 17:34:43",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-06-24 17:34:43",
       "album": {
-        "name": "\u79c1\u3060\u3063\u3066\u3001",
-        "url": "https://open.spotify.com/album/3jNKtpbMK2vQgyLInlEI7B"
-      },
-      "artists": [
-        {
-          "name": "YUTORI-SEDAI",
-          "url": "https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G"
-        }
-      ],
-      "duration_ms": 224432,
-      "name": "\u79c1\u3060\u3063\u3066\u3001",
-      "url": "https://open.spotify.com/track/7hCkAoD0OWoytiPMs0l550"
-    },
-    {
-      "added_at": "2025-06-24 17:34:43",
-      "album": {
         "name": "\u30c8\u30e9\u30c3\u30d7",
         "url": "https://open.spotify.com/album/2D3D5GaaGnwsmOOxt2VO1x"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 171666,
       "name": "\u30c8\u30e9\u30c3\u30d7",
       "url": "https://open.spotify.com/track/3S1yxFHXYxMA7oVNJhJast"
+    },
+    {
+      "added_at": "2025-06-24 17:34:43",
+      "album": {
+        "name": "\u79c1\u3060\u3063\u3066\u3001",
+        "url": "https://open.spotify.com/album/3jNKtpbMK2vQgyLInlEI7B"
+      },
+      "artists": [
+        {
+          "name": "YUTORI-SEDAI",
+          "url": "https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G"
+        }
+      ],
+      "duration_ms": 224432,
+      "name": "\u79c1\u3060\u3063\u3066\u3001",
+      "url": "https://open.spotify.com/track/7hCkAoD0OWoytiPMs0l550"
     },
     {
       "added_at": "2025-06-24 17:34:43",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-06-24 17:34:43",
       "album": {
-        "name": "Fix",
-        "url": "https://open.spotify.com/album/0eMLVjKMHBMMO1Z5SKmmko"
-      },
-      "artists": [
-        {
-          "name": "Brandy Senki",
-          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
-        }
-      ],
-      "duration_ms": 212062,
-      "name": "Fix",
-      "url": "https://open.spotify.com/track/1q3FcImsV2oy3hNtyVkH3d"
-    },
-    {
-      "added_at": "2025-06-24 17:34:43",
-      "album": {
         "name": "ZERO",
         "url": "https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 239454,
       "name": "\u30bb\u30f3\u30ab",
       "url": "https://open.spotify.com/track/3TIy0kAq4wJpPJkLsZsb6m"
+    },
+    {
+      "added_at": "2025-06-24 17:34:43",
+      "album": {
+        "name": "Fix",
+        "url": "https://open.spotify.com/album/0eMLVjKMHBMMO1Z5SKmmko"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "duration_ms": 212062,
+      "name": "Fix",
+      "url": "https://open.spotify.com/track/1q3FcImsV2oy3hNtyVkH3d"
     },
     {
       "added_at": "2025-06-24 17:34:43",

@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Omar Mukhtar
 
-372 songs - 20 hr 37 min
+374 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Intezaar](https://open.spotify.com/track/3H4sTrJAYCXvtcBteQn4O7) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Zahra Paracha](https://open.spotify.com/artist/3g76TAx9tdF5YZpsSwqL0K) | [Intezaar](https://open.spotify.com/album/5ozneiz9CThETspoy1xJiJ) | 4:02 | 2022-09-05 | 2023-04-09 |
 | [Intezaar](https://open.spotify.com/track/4UnGkYXLwj8cgWYN2EBA3F) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Zahra Paracha](https://open.spotify.com/artist/3g76TAx9tdF5YZpsSwqL0K) | [Day 5](https://open.spotify.com/album/1IOyOJS5q1mLur1y0rSoyU) | 4:02 | 2023-12-30 | 2024-01-13 |
 | [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 | 2022-04-29 |  |
+| [Isharey](https://open.spotify.com/track/4vesRDC89hU1W0xWLm6R2R) | [Sultan Baloch](https://open.spotify.com/artist/3mjCkfVH1cLVVzGXdZTfTa), [Qazzi](https://open.spotify.com/artist/6gs3BP1rQHvg8lCOsrYGAk) | [Isharey](https://open.spotify.com/album/3Sb04IiQiaPPgEUT8zAWH0) | 3:22 | 2025-06-26 |  |
 | [Ishq \- From "Lost;Found"](https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js), [Amir Ameer](https://open.spotify.com/artist/6MPuzz9hPrs4TwxeHh4cEj) | [Ishq \(From "Lost;Found"\)](https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ) | 3:48 | 2024-04-12 |  |
 | [Jaagay Hain](https://open.spotify.com/track/3vCWWOxmJHHl25fjf38znc) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Saazish](https://open.spotify.com/album/1xZxe1HTPiMJlKZ5NJATpc) | 3:48 | 2021-12-06 | 2022-01-29 |
 | [JAANA](https://open.spotify.com/track/3E9OBZwjtVywWzwYY8oQBS) | [Hamza Jahangir](https://open.spotify.com/artist/6JIeeCINgVPeCxowfoOBmo), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [JAANA](https://open.spotify.com/album/4xakIV95Mvfm9W8kxx2AN4) | 3:17 | 2025-04-11 |  |
@@ -360,6 +361,7 @@
 | [Under The Stars](https://open.spotify.com/track/7DOCxixTYTuiSGhgICXXk5) | [Jawad](https://open.spotify.com/artist/5KIc7lniuLWhlXVOuhvvN8) | [Under The Stars](https://open.spotify.com/album/25bhlDywM1xsm2854OPfC1) | 2:20 | 2023-08-09 | 2024-09-10 |
 | [Until We Meet](https://open.spotify.com/track/7j0YOebrohxBaXp0bCFbnK) | [Shareh](https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Until We Meet](https://open.spotify.com/album/3en5RU3ddo7fUZahK6rc1i) | 2:55 | 2022-01-28 | 2023-04-09 |
 | [Wajah](https://open.spotify.com/track/1TuLMjGiPzleVi88fApvHg) | [Hatim](https://open.spotify.com/artist/12LDre0wZLJUqjlk92lli8) | [Wajah](https://open.spotify.com/album/5tzzJpdENg3qgUEM7IbY3T) | 2:50 | 2025-02-26 | 2025-05-19 |
+| [We Met Again](https://open.spotify.com/track/25xhJNicABIUsDiJdXKkjR) | [Zouqan](https://open.spotify.com/artist/2IMwndXSonTHhlmMYpAlh6), [SQLN](https://open.spotify.com/artist/28HGPCdVbJ7ThQNDojdY3P) | [We Met Again](https://open.spotify.com/album/4xNKuiXY4bRhWwITT4ge2u) | 3:16 | 2025-06-26 |  |
 | [Weli Ho](https://open.spotify.com/track/3xoeyCTIlvBaLuTmewPRwL) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Weli Ho](https://open.spotify.com/album/7CgXTd6AhH7tNNBq8soFu7) | 3:20 | 2022-03-15 | 2023-01-11 |
 | [What a Man](https://open.spotify.com/track/5ChrWAc3mGRrRcKP3wBIPz) | [Niomí](https://open.spotify.com/artist/16rklq8X2KwUNb7D51VvhQ) | [What a Man](https://open.spotify.com/album/7kh5DqndbncrTfaoIeBmdk) | 4:22 | 2021-12-06 | 2022-03-05 |
 | [Wife You](https://open.spotify.com/track/5A7uVk7orEzrR9NA8ppFus) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 4:16 | 2023-09-08 |  |

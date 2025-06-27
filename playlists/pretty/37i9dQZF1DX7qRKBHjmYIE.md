@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con rusowsky.
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,940 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,944 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 23 | [Simple](https://open.spotify.com/track/2xQIb4ZLQLAiWAZejlmOoR) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS PARTE 2 \(Deluxe\)](https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS) | 3:22 |
 | 24 | [1960](https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 6:10 |
 | 25 | [PA K](https://open.spotify.com/track/3YOKeu2skm73rfn4bGPQHz) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PA K](https://open.spotify.com/album/1tBbZo85SaUh3jMkoKjOnv) | 3:41 |
-| 26 | [PUERTA DEL SOL](https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [ALTER EGO](https://open.spotify.com/album/6usRXLPp6yfNrzYrnLxXQ8) | 3:40 |
-| 27 | [LO QUE ME CAUSA](https://open.spotify.com/track/3r5mTZiiECjgezzeI9bqgq) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [LO QUE ME CAUSA](https://open.spotify.com/album/1SLeBd72xTXyMOJ4KRInc2) | 3:00 |
+| 26 | [LO QUE ME CAUSA](https://open.spotify.com/track/3r5mTZiiECjgezzeI9bqgq) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [LO QUE ME CAUSA](https://open.spotify.com/album/1SLeBd72xTXyMOJ4KRInc2) | 3:00 |
+| 27 | [PUERTA DEL SOL](https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [ALTER EGO](https://open.spotify.com/album/6usRXLPp6yfNrzYrnLxXQ8) | 3:40 |
 | 28 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 |
 | 29 | [OTROS LUGARES](https://open.spotify.com/track/2UmxXelTCIFuaUF8TGuaJj) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [UGH / OTROS LUGARES](https://open.spotify.com/album/0XhIxz89H75DGG7ku4T1FU) | 3:21 |
 | 30 | [uwu ^^](https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [uwu ^^](https://open.spotify.com/album/456sHRfRmScVZJlobwx3gB) | 2:42 |
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 62 | [Destrucción \- Remix](https://open.spotify.com/track/40MuEd09WYnN6ogHFZSFB1) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Destrucción \(Remix\)](https://open.spotify.com/album/0qXAi0Z9RfLIwDADnQ9OUM) | 3:20 |
 | 63 | [Au](https://open.spotify.com/track/5KSaFynbMoGkXfCQ6Fbp3f) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Au](https://open.spotify.com/album/0pUsa6Z0V47tmN6Hswy2vt) | 2:13 |
 | 64 | [1000 cartas](https://open.spotify.com/track/7Hw9wfTO1svTy8yjpV9sL7) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [1000 cartas / dsps de un faje](https://open.spotify.com/album/7LOo3kTsO24pNoLDzo7DWG) | 2:25 |
-| 65 | [Alma Bendita](https://open.spotify.com/track/1whL85mReYAcv9xbpIST9p) | [Velaviee](https://open.spotify.com/artist/6yBqeacW7mGI4DkiNsYmaq) | [Alma Bendita](https://open.spotify.com/album/6KADxWkA1nPZo3g8t9iCHE) | 2:24 |
-| 66 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 |
-| 67 | [Life Is A Movie](https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Life Is A Movie](https://open.spotify.com/album/3IJhzIBopdSE70xsu1RthO) | 3:01 |
-| 68 | [Valió la pena](https://open.spotify.com/track/22uPAzwESHmS4OkGt9hXrE) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq), [St Woods](https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI) | [PARA QUE TE QUIERAS QUEDAR](https://open.spotify.com/album/3GKQF08kDwWHLjWSYUW1N4) | 3:14 |
+| 65 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 |
+| 66 | [Alma Bendita](https://open.spotify.com/track/1whL85mReYAcv9xbpIST9p) | [Velaviee](https://open.spotify.com/artist/6yBqeacW7mGI4DkiNsYmaq) | [Alma Bendita](https://open.spotify.com/album/6KADxWkA1nPZo3g8t9iCHE) | 2:24 |
+| 67 | [Valió la pena](https://open.spotify.com/track/22uPAzwESHmS4OkGt9hXrE) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq), [St Woods](https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI) | [PARA QUE TE QUIERAS QUEDAR](https://open.spotify.com/album/3GKQF08kDwWHLjWSYUW1N4) | 3:14 |
+| 68 | [Life Is A Movie](https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Life Is A Movie](https://open.spotify.com/album/3IJhzIBopdSE70xsu1RthO) | 3:01 |
 | 69 | [Wow](https://open.spotify.com/track/2rfO0s9au8QDxnVaFCAYJ1) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [Wow](https://open.spotify.com/album/0cUhlDIjDtXr1JOQzOKtNC) | 3:02 |
 | 70 | [mami let go](https://open.spotify.com/track/1mYYOEfTcFzlc3fGDkoQ9I) | [Guzmen](https://open.spotify.com/artist/7hF6UMdXdBUOtQbYJtxGtd) | [mami let go](https://open.spotify.com/album/0hL0rgPIY2rYTn0ldVihM4) | 2:19 |
 | 71 | [Tengo Una Nota](https://open.spotify.com/track/4JuwOGVCbYwoA9qWerWs5g) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Toda Época Tiene Su Encanto](https://open.spotify.com/album/2F0JiAg0l7v8Oxr9c7kylt) | 2:38 |

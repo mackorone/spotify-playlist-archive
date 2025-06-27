@@ -1,6 +1,6 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 308788,
+  "num_followers": 308819,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
+        "name": "Before The Next Teardrop Falls",
+        "url": "https://open.spotify.com/album/3gy2ynEvSm1yV3gydcPWxd"
+      },
+      "artists": [
+        {
+          "name": "Freddy Fender",
+          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
+        }
+      ],
+      "duration_ms": 171761,
+      "name": "Wasted Days And Wasted Nights",
+      "url": "https://open.spotify.com/track/3xPer22ZLDCRQtb6Z03ykt"
+    },
+    {
+      "added_at": "2024-11-04 17:53:04",
+      "album": {
         "name": "Ultimate Waylon Jennings",
         "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 178733,
       "name": "Good Hearted Woman",
       "url": "https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6"
-    },
-    {
-      "added_at": "2024-11-04 17:53:04",
-      "album": {
-        "name": "Before The Next Teardrop Falls",
-        "url": "https://open.spotify.com/album/3gy2ynEvSm1yV3gydcPWxd"
-      },
-      "artists": [
-        {
-          "name": "Freddy Fender",
-          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
-        }
-      ],
-      "duration_ms": 171761,
-      "name": "Wasted Days And Wasted Nights",
-      "url": "https://open.spotify.com/track/3xPer22ZLDCRQtb6Z03ykt"
     },
     {
       "added_at": "2024-11-04 17:53:04",

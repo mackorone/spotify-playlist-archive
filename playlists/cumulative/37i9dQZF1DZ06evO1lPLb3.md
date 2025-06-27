@@ -4,7 +4,7 @@
 
 > This is Peggy Gou\. The essential tracks, all in one playlist.
 
-49 songs - 4 hr 3 min
+50 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [All That](https://open.spotify.com/track/2iMuxgCe0aR2DYeXkDl43u) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 3:53 | 2024-06-09 |  |
 | [Back To One](https://open.spotify.com/track/1kOg8OXkYhsoaCuDppNyxF) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 4:58 | 2024-06-09 |  |
 | [Can't Get You out of My Head \- Peggy Gou’s Midnight Remix](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Can't Get You out of My Head \(Peggy Gou’s Midnight Remix\)](https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3) | 4:31 | 2023-05-02 |  |
+| [D.A.N.C.E \- From F1® The Movie](https://open.spotify.com/track/15cIdgwfMw0YRunjzxtui9) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [D.A.N.C.E \(From F1® The Movie\)](https://open.spotify.com/album/2AgQHiCnhTpiOwZ29rrZ6v) | 3:15 | 2025-06-27 |  |
 | [Day Without Yesterday](https://open.spotify.com/track/0OhEIJc0H8ZbRtQbeVBpaz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Day Without Yesterday / Six O Six](https://open.spotify.com/album/6mVEU0cBrcGxhlE55d96H3) | 5:39 | 2023-12-13 |  |
 | [Day Without Yesterday \- Original Mix](https://open.spotify.com/track/3XZkzkdXOiw2DjvB6X50vV) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Day Without Yesterday / Six O Six](https://open.spotify.com/album/3bxRoWmQKerV0JjO0TxfDa) | 5:39 | 2023-05-02 | 2023-12-14 |
 | [Find The Way](https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Find The Way](https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN) | 3:57 | 2024-08-18 |  |

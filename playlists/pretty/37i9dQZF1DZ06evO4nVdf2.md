@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 
 > This is Ximena Sariñana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,826 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,838 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 26 | [Sin Ti No Puede Estar Tan Mal](https://open.spotify.com/track/6GIQckKtzHYA8MHoRWRkcy) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [No todo lo puedes dar](https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld) | 4:35 |
 | 27 | [Voy a Volver](https://open.spotify.com/track/6OFOeuN0AZ0SER0Hglxi7P) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Voy a Volver](https://open.spotify.com/album/57CJ8jeEFUi6Xh8dS4FzAb) | 3:55 |
 | 28 | [Fetiche](https://open.spotify.com/track/0x1QQhfXdWPv8GizKQuEgm) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Malcriado](https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3) | 3:15 |
-| 29 | [N.I.T.](https://open.spotify.com/track/6YkjeXjD4WHs2tVsoiDSwM) | [Mikel Izal](https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [N.I.T.](https://open.spotify.com/album/2LrRxe5gOKn43mAUWqcAnr) | 3:29 |
-| 30 | [Amor, Amor de Mis Amores \(with Ximena Sariñana\) \- En Vivo \[Sala Telefónica del Centro Cultural Roberto Cantoral\]](https://open.spotify.com/track/1xUUwulH27eH1TPa1faebX) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mujer Divina \- Homenaje a Agustín Lara \[En Vivo\]](https://open.spotify.com/album/2pYAi581eUrOxSGWMuN5dH) | 4:31 |
+| 29 | [Amor, Amor de Mis Amores \(with Ximena Sariñana\) \- En Vivo \[Sala Telefónica del Centro Cultural Roberto Cantoral\]](https://open.spotify.com/track/1xUUwulH27eH1TPa1faebX) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mujer Divina \- Homenaje a Agustín Lara \[En Vivo\]](https://open.spotify.com/album/2pYAi581eUrOxSGWMuN5dH) | 4:31 |
+| 30 | [N.I.T.](https://open.spotify.com/track/6YkjeXjD4WHs2tVsoiDSwM) | [Mikel Izal](https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [N.I.T.](https://open.spotify.com/album/2LrRxe5gOKn43mAUWqcAnr) | 3:29 |
 | 31 | [Diosa](https://open.spotify.com/track/2ME99qrLtxZRaCwGKdEY3O) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Diosa](https://open.spotify.com/album/0WG2OF3Lzwm9uOH79quIAd) | 2:55 |
 | 32 | [Mediocre](https://open.spotify.com/track/5076rB7ftd19k0jFNhWr7f) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre](https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g) | 4:16 |
 | 33 | [Si Tú Te Vas](https://open.spotify.com/track/5fncLNZgQmsV3535P2k5RP) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 49 | [Cosita Guapa](https://open.spotify.com/track/4bWWbbGILCHfpVx8zDGHaR) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cumbia y Amor](https://open.spotify.com/album/5DGuCQcoaVK1Vems5uswJ0) | 2:55 |
 | 50 | [Chispa Roja](https://open.spotify.com/track/5XHks592LnELvf20Ny43EZ) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Chispa Roja](https://open.spotify.com/album/4YzuHCvwT5mz6Ga7GccbWn) | 3:31 |
 
-Snapshot ID: `aFnqgAAAAAA0oyQu6Qlwdixfg9ayj7kE`
+Snapshot ID: `aFs8AAAAAAChK+LRlFuFyiAevtD7xb3/`

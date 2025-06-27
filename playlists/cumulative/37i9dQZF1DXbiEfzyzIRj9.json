@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: camoufly, okgiorgio",
+  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Peggy Gou",
   "name": "Altar JP",
   "tracks": [
     {
@@ -962,6 +962,28 @@
       "duration_ms": 437087,
       "name": "All I Need - Goose Reimagined",
       "url": "https://open.spotify.com/track/4uYxpCByrw0Nh0n9Y7fiqX"
+    },
+    {
+      "album": {
+        "name": "ALL IN (feat. Rimarkable)",
+        "url": "https://open.spotify.com/album/3phS7NrP1dng9uLLl6qsd2"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        },
+        {
+          "name": "Rimarkable",
+          "url": "https://open.spotify.com/artist/4t1z5s4veUPuhIwzvAvTle"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240160,
+      "name": "ALL IN - feat. Rimarkable",
+      "url": "https://open.spotify.com/track/6bz1pfPhwMYdRixP1oHxyZ"
     },
     {
       "album": {
@@ -5318,7 +5340,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 161495,
       "name": "Cops & Robbers",
       "url": "https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi"
@@ -5652,6 +5674,28 @@
       "duration_ms": 517977,
       "name": "CYGNUS - Another Take",
       "url": "https://open.spotify.com/track/5z32XED6Qp2ed7xZRIEKZ4"
+    },
+    {
+      "album": {
+        "name": "D.A.N.C.E (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/2AgQHiCnhTpiOwZ29rrZ6v"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195404,
+      "name": "D.A.N.C.E - From F1\u00ae The Movie",
+      "url": "https://open.spotify.com/track/15cIdgwfMw0YRunjzxtui9"
     },
     {
       "album": {
@@ -12689,6 +12733,28 @@
     },
     {
       "album": {
+        "name": "Hypnotised",
+        "url": "https://open.spotify.com/album/1KeOKmz86ujYQKPcmVO8SO"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Linden Jay",
+          "url": "https://open.spotify.com/artist/0re1X3yAM2CTtG9nnGhxnC"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202787,
+      "name": "Hypnotised (feat. Linden Jay)",
+      "url": "https://open.spotify.com/track/67N1PtpuY7DgemawuzioIz"
+    },
+    {
+      "album": {
         "name": "Kilometro Quinze",
         "url": "https://open.spotify.com/album/0Brk8w8KmdrB7wSuMnTHW6"
       },
@@ -15570,6 +15636,32 @@
       "duration_ms": 195382,
       "name": "Limes",
       "url": "https://open.spotify.com/track/7Fk3cnNt5gzDevwKx5YSlR"
+    },
+    {
+      "album": {
+        "name": "Lippy",
+        "url": "https://open.spotify.com/album/2WGssUw0jZ4RzRpi2lxN5P"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        },
+        {
+          "name": "Skiifall",
+          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175990,
+      "name": "Lippy",
+      "url": "https://open.spotify.com/track/5ReIuSLbXCAUYkg9v0NR7b"
     },
     {
       "album": {
@@ -21598,7 +21690,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 500394,
       "name": "Resonances From The D - Bonus Track",
       "url": "https://open.spotify.com/track/2qza3GP3Bp4dowRBd6lk1Y"
@@ -24016,7 +24108,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 214000,
       "name": "Sonic Pulse (feat. Joe Cupertino & Daz)",
       "url": "https://open.spotify.com/track/2o88fsIOvBBmFTdxhCP2Zz"
@@ -26434,7 +26526,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 158240,
       "name": "Thunder Punch!!!",
       "url": "https://open.spotify.com/track/3rgLPbOdfQJOsKPw31Itz9"

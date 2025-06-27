@@ -1,6 +1,6 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 73714,
+  "num_followers": 73717,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2025-06-23 01:24:18",
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 255143,
+      "name": "Growing Sideways",
+      "url": "https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2"
+    },
+    {
+      "added_at": "2025-06-23 01:24:18",
+      "album": {
         "name": "Rearrange My World / There\u2019s a Field (That's Only Yours)",
         "url": "https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn"
       },
@@ -95,18 +111,18 @@
     {
       "added_at": "2025-06-23 01:24:18",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+        "name": "Touching Toes",
+        "url": "https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 255143,
-      "name": "Growing Sideways",
-      "url": "https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2"
+      "duration_ms": 132000,
+      "name": "Touching Toes",
+      "url": "https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY"
     },
     {
       "added_at": "2025-06-23 01:24:18",
@@ -123,22 +139,6 @@
       "duration_ms": 194543,
       "name": "Boyfriends",
       "url": "https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ"
-    },
-    {
-      "added_at": "2025-06-23 01:24:18",
-      "album": {
-        "name": "Touching Toes",
-        "url": "https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Touching Toes",
-      "url": "https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY"
     },
     {
       "added_at": "2025-06-23 01:24:18",
@@ -255,22 +255,6 @@
     {
       "added_at": "2025-06-23 01:24:18",
       "album": {
-        "name": "Intentions (Acoustic)",
-        "url": "https://open.spotify.com/album/5CkGOdgj9Ajwt2yeoAVRhc"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 160611,
-      "name": "Intentions - Acoustic",
-      "url": "https://open.spotify.com/track/6VkmdRz8YgHFQV3ZNTJAWU"
-    },
-    {
-      "added_at": "2025-06-23 01:24:18",
-      "album": {
         "name": "Deeper Well",
         "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 177293,
       "name": "The Architect",
       "url": "https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm"
+    },
+    {
+      "added_at": "2025-06-23 01:24:18",
+      "album": {
+        "name": "Intentions (Acoustic)",
+        "url": "https://open.spotify.com/album/5CkGOdgj9Ajwt2yeoAVRhc"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 160611,
+      "name": "Intentions - Acoustic",
+      "url": "https://open.spotify.com/track/6VkmdRz8YgHFQV3ZNTJAWU"
     },
     {
       "added_at": "2025-06-23 01:24:18",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-06-23 01:24:18",
       "album": {
+        "name": "Six Feet Apart",
+        "url": "https://open.spotify.com/album/0sW48R4zooMyCQyYQSt8xi"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 173705,
+      "name": "Six Feet Apart",
+      "url": "https://open.spotify.com/track/22AJMMJMaQ3qtTwlegrKcm"
+    },
+    {
+      "added_at": "2025-06-23 01:24:18",
+      "album": {
         "name": "No Fun / Lucky for You",
         "url": "https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 211500,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/6IGq3RtjQ7o25MvImbKzRQ"
-    },
-    {
-      "added_at": "2025-06-23 01:24:18",
-      "album": {
-        "name": "Six Feet Apart",
-        "url": "https://open.spotify.com/album/0sW48R4zooMyCQyYQSt8xi"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 173705,
-      "name": "Six Feet Apart",
-      "url": "https://open.spotify.com/track/22AJMMJMaQ3qtTwlegrKcm"
     },
     {
       "added_at": "2025-06-23 01:24:18",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-06-23 01:24:18",
       "album": {
-        "name": "I Make Sparks",
-        "url": "https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 218573,
-      "name": "I Make Sparks",
-      "url": "https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo"
-    },
-    {
-      "added_at": "2025-06-23 01:24:18",
-      "album": {
         "name": "Grow As We Go (feat. Sara Bareilles)",
         "url": "https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 249937,
       "name": "Grow as We Go (feat. Sara Bareilles)",
       "url": "https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi"
+    },
+    {
+      "added_at": "2025-06-23 01:24:18",
+      "album": {
+        "name": "I Make Sparks",
+        "url": "https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 218573,
+      "name": "I Make Sparks",
+      "url": "https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo"
     },
     {
       "added_at": "2025-06-23 01:24:18",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-06-23 01:24:18",
       "album": {
-        "name": "We Were Here",
-        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 203773,
-      "name": "Winter",
-      "url": "https://open.spotify.com/track/4VuHWU01C36BUaN1adNi5M"
-    },
-    {
-      "added_at": "2025-06-23 01:24:18",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 206100,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL"
+    },
+    {
+      "added_at": "2025-06-23 01:24:18",
+      "album": {
+        "name": "We Were Here",
+        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 203773,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/4VuHWU01C36BUaN1adNi5M"
     },
     {
       "added_at": "2025-06-23 01:24:18",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-06-23 01:24:18",
       "album": {
-        "name": "Do Better",
-        "url": "https://open.spotify.com/album/2QYZygsguJwAV82gvVfJu8"
-      },
-      "artists": [
-        {
-          "name": "sunkis",
-          "url": "https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr"
-        }
-      ],
-      "duration_ms": 178751,
-      "name": "Do Better",
-      "url": "https://open.spotify.com/track/2JpAVv75QD6hRrpNm0Zr5h"
-    },
-    {
-      "added_at": "2025-06-23 01:24:18",
-      "album": {
         "name": "loml",
         "url": "https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 201908,
       "name": "loml",
       "url": "https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK"
+    },
+    {
+      "added_at": "2025-06-23 01:24:18",
+      "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/2QYZygsguJwAV82gvVfJu8"
+      },
+      "artists": [
+        {
+          "name": "sunkis",
+          "url": "https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr"
+        }
+      ],
+      "duration_ms": 178751,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/2JpAVv75QD6hRrpNm0Zr5h"
     },
     {
       "added_at": "2025-06-23 01:24:18",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-06-23 01:24:18",
       "album": {
-        "name": "The Phosphorescent Blues",
-        "url": "https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 326493,
-      "name": "Julep",
-      "url": "https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt"
-    },
-    {
-      "added_at": "2025-06-23 01:24:18",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/1JMNVtOFxycRM2IR2ZxFYH"
       },
@@ -1119,38 +1103,18 @@
     {
       "added_at": "2025-06-23 01:24:18",
       "album": {
-        "name": "Sadness As A Gift",
-        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
+        "name": "The Phosphorescent Blues",
+        "url": "https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j"
       },
       "artists": [
         {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
         }
       ],
-      "duration_ms": 259015,
-      "name": "Sadness As A Gift",
-      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
-    },
-    {
-      "added_at": "2025-06-23 01:24:18",
-      "album": {
-        "name": "Breaking Into Acting",
-        "url": "https://open.spotify.com/album/2qXpq3oE0EZB9LMmckSxbb"
-      },
-      "artists": [
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
-        },
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 214093,
-      "name": "Breaking Into Acting",
-      "url": "https://open.spotify.com/track/6SxRzxiueXTwb7K07i9Ga3"
+      "duration_ms": 326493,
+      "name": "Julep",
+      "url": "https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt"
     },
     {
       "added_at": "2025-06-23 01:24:18",
@@ -1187,26 +1151,6 @@
     {
       "added_at": "2025-06-23 01:24:18",
       "album": {
-        "name": "Scared Of Loving You",
-        "url": "https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        }
-      ],
-      "duration_ms": 110221,
-      "name": "Scared Of Loving You",
-      "url": "https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct"
-    },
-    {
-      "added_at": "2025-06-23 01:24:18",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/327yl27iCBZAr48CauikQb"
       },
@@ -1219,6 +1163,42 @@
       "duration_ms": 184915,
       "name": "For You - Acoustic",
       "url": "https://open.spotify.com/track/1cZyjXi4MvSVlm0DRevIhc"
+    },
+    {
+      "added_at": "2025-06-23 01:24:18",
+      "album": {
+        "name": "Breaking Into Acting",
+        "url": "https://open.spotify.com/album/2qXpq3oE0EZB9LMmckSxbb"
+      },
+      "artists": [
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+        },
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 214093,
+      "name": "Breaking Into Acting",
+      "url": "https://open.spotify.com/track/6SxRzxiueXTwb7K07i9Ga3"
+    },
+    {
+      "added_at": "2025-06-23 01:24:18",
+      "album": {
+        "name": "Sadness As A Gift",
+        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 259015,
+      "name": "Sadness As A Gift",
+      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
     },
     {
       "added_at": "2025-06-23 01:24:18",
@@ -1255,6 +1235,26 @@
       "duration_ms": 199144,
       "name": "You Belong To Somebody Else",
       "url": "https://open.spotify.com/track/20R40KmQrdwKES14PmDwaf"
+    },
+    {
+      "added_at": "2025-06-23 01:24:18",
+      "album": {
+        "name": "Scared Of Loving You",
+        "url": "https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "duration_ms": 110221,
+      "name": "Scared Of Loving You",
+      "url": "https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct"
     },
     {
       "added_at": "2025-06-23 01:24:18",

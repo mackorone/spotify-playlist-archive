@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Are You Sorry Now?",
+        "url": "https://open.spotify.com/album/5JGuqtgOld0j5KsQiNtujG"
+      },
+      "artists": [
+        {
+          "name": "SERA",
+          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170981,
+      "name": "Are You Sorry Now?",
+      "url": "https://open.spotify.com/track/3YaiC0QULDTj6VqpWWNcce"
+    },
+    {
+      "album": {
         "name": "Less Is More",
         "url": "https://open.spotify.com/album/57AJ70IWVE0pmPwNYBa4PT"
       },
@@ -676,7 +694,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 204108,
       "name": "Begin Again",
       "url": "https://open.spotify.com/track/0KHNcNfG3vYvW67f664TtO"
@@ -4002,7 +4020,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 203813,
       "name": "I Wasn\u2019t Gonna",
       "url": "https://open.spotify.com/track/7M3zFT6CPIQmCwpPhyzRIp"
@@ -8120,7 +8138,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 207760,
       "name": "Stranger I Once Knew",
       "url": "https://open.spotify.com/track/3qyL58GhGGIEOYfBUGeit9"
@@ -10190,6 +10208,42 @@
       "duration_ms": 227666,
       "name": "Word's Out",
       "url": "https://open.spotify.com/track/5hfI4QZTb4KgGO358YWh6J"
+    },
+    {
+      "album": {
+        "name": "I WILL.",
+        "url": "https://open.spotify.com/album/2BYVPJNyBUltJDH4rrxvwl"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171391,
+      "name": "World At My Feet",
+      "url": "https://open.spotify.com/track/1wvqFqy2sYYQN7Eyrnva2S"
+    },
+    {
+      "album": {
+        "name": "World's Worst Girlfriend",
+        "url": "https://open.spotify.com/album/4VQtiwqwug58DnnejHvGv6"
+      },
+      "artists": [
+        {
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "World's Worst Girlfriend",
+      "url": "https://open.spotify.com/track/22NOtyVXO6HsxpmEZFHdMh"
     },
     {
       "album": {

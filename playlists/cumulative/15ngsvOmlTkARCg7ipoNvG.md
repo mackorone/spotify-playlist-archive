@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,986 songs - 1 day 16 hr 13 min
+1,987 songs - 1 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1960,6 +1960,7 @@
 | [Wishful Thinking Arr\. For Cello](https://open.spotify.com/track/23pEXZJ2cgTEmQ1R73RRab) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Wishful Thinking Arr\. For Cello](https://open.spotify.com/album/0WV2Dz8L8TmOYIv5L9iZl2) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Wishful Thinking Arr\. For Strings](https://open.spotify.com/track/1776aBLsaZC9jh1NtMeese) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Wishful Thinking Arr\. For Strings](https://open.spotify.com/album/1sepyY20Bf3tMGcuEsLRZQ) | 1:02 | 2023-07-31 | 2024-02-13 |
 | [Wishing And Wondering](https://open.spotify.com/track/51EqceFp6qCBfSWeGaWEYt) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Ambient Trios, Vol\. 2](https://open.spotify.com/album/61EfeMvitQ0F6lSdE4ILT2) | 1:08 | 2024-01-29 |  |
+| [Wistful Arr\. For Piano](https://open.spotify.com/track/2QtlOSiQBy5BWtrC2mzC4Y) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Wistful](https://open.spotify.com/album/2Mb87AfePEb2fWLjzKLBO8) | 1:00 | 2025-06-26 |  |
 | [With Love Arr\. For Felt Piano](https://open.spotify.com/track/5h58jT2UNz7lMcspB6uZoG) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Felt Piano Lullabies](https://open.spotify.com/album/32PpJ7q4DdWKYEiy0EtRLw) | 1:00 | 2023-07-06 | 2024-01-30 |
 | [With You](https://open.spotify.com/track/2DdVnSKkZIM94Eajw4nMEn) | [Aleny](https://open.spotify.com/artist/0LYecxWe8fj0fM2FBlqjTr) | [With You](https://open.spotify.com/album/1OUFsMikUmipWlpoJJbOUO) | 3:25 | 2022-01-12 | 2023-04-09 |
 | [With You Again \- Cello Version](https://open.spotify.com/track/368W87hmvNyzCGPhTPNXBS) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [With You Again](https://open.spotify.com/album/05s9YvzgcMw2s24UhgwKm0) | 1:04 | 2024-02-09 | 2024-02-13 |

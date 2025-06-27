@@ -4,12 +4,13 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-345 songs - 20 hr 2 min
+346 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#1](https://open.spotify.com/track/3QVIpLqfwgGhJAs5enPfFT) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/059i5tLNW2ASf1qoVn6LSX) | 4:31 | 2024-02-07 |  |
 | [+82 Pressin'](https://open.spotify.com/track/1gh9hWNAzDR46rn52uyoiV) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O), [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [+82 Pressin'](https://open.spotify.com/album/4BHK4cuYnptvcw0yOCzh8Y) | 3:22 | 2025-03-29 | 2025-04-12 |
+| [+82 Pressin'](https://open.spotify.com/track/4LNSkM5pU80uYmyYXzuaGJ) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O), [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 3:22 | 2025-06-26 |  |
 | [11:11PM](https://open.spotify.com/track/5xQO59AHSaIIsNNDDGNaZt) | [11:11](https://open.spotify.com/artist/5gsyao2Qm21EKylbVIuRQ3) | [The Night Before The Morning After](https://open.spotify.com/album/2Jp7UxZewhRXrvcSvz37b1) | 3:00 | 2025-01-09 | 2025-04-12 |
 | [2 in Luv](https://open.spotify.com/track/3PcYvM7QUw4ewCg4skZu6X) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [CiCi](https://open.spotify.com/album/37B5Zjn3VTORs1APCtOsRY) | 2:58 | 2025-01-09 | 2025-04-12 |
 | [23](https://open.spotify.com/track/20FZrLl9zSbO9b3DhaqO6M) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [23](https://open.spotify.com/album/5r7L8DlTsIKoDwSSiRf5M7) | 4:12 | 2024-02-07 |  |

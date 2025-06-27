@@ -4,7 +4,7 @@
 
 > All songs made for furs, by furs\.  Check top 25 @ spotify.furrest.net
 
-353 songs - 18 hr 36 min
+354 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Mt Gael](https://open.spotify.com/track/0VF8Dzogq3YQ8ZMGmRbB9k) | [Anthemics](https://open.spotify.com/artist/5Resf7AxjXHnKIYgsDgPlv) | [Hiraeth](https://open.spotify.com/album/6adnvm6S8BEKBn6AsyHWd5) | 5:14 | 2023-12-15 |  |
 | [My Future](https://open.spotify.com/track/2XdlvoezoK7qp94SLmIkmW) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [My Future](https://open.spotify.com/album/79mIn0EK43ln8TJ3OSbOkv) | 2:13 | 2023-06-14 |  |
 | [my love](https://open.spotify.com/track/1g2cDX0MK9QuVlKQeR2YWq) | [TWYLIGHT](https://open.spotify.com/artist/4T0Dnr9Bf9u7Pg8Kd4QtnO) | [my love](https://open.spotify.com/album/2BOhD08DhC2tnQDLgX5FQU) | 3:48 | 2025-02-28 |  |
+| [My Love is a Quickscope](https://open.spotify.com/track/7hBjYecLIxghERxBAH02Fz) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [My Love is a Quickscope](https://open.spotify.com/album/2fm2HpEwNWqdsqLcCE4D0H) | 3:47 | 2025-06-27 |  |
 | [my world](https://open.spotify.com/track/0S0Sc5ynDo0RC2mJRhUOXG) | [Ivory Rasmus](https://open.spotify.com/artist/01mSRpKFT1xUPcIWCMnVwo) | [my world](https://open.spotify.com/album/0BDh7Z4ckWU3FK7q94Ovyk) | 3:41 | 2024-05-28 |  |
 | [N.B.F.](https://open.spotify.com/track/6l3DJKWBAf4HtKLRuimEm2) | [mammalfriend](https://open.spotify.com/artist/1soXXPru4RPo5CvGbvQeA5) | [Who Said That](https://open.spotify.com/album/3SPgSAt8hTqInA7pLKid4h) | 3:14 | 2025-01-25 |  |
 | [nap by the summit](https://open.spotify.com/track/3PsJTcsUEw1Vi5mVgIKoOw) | [robin's ghost](https://open.spotify.com/artist/7wluTUzWSlXbe33U5TC94G), [dis](https://open.spotify.com/artist/5q0eSYbfVtgJ5V8YqOHPrD) | [deadWorld\(s\)](https://open.spotify.com/album/2rsHf3qGt1bBI5WXsWbptV) | 1:58 | 2024-08-15 |  |

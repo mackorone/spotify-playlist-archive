@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Pop bops for the saints!  Cover: bodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,487 likes - 79 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,488 likes - 79 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 25 | [Tee It Up](https://open.spotify.com/track/5lbEEcGksMwi4ztAqCvvtA) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Tee It Up](https://open.spotify.com/album/2alSpUG97rWhumWaIAmsp0) | 2:29 |
 | 26 | [The Cup](https://open.spotify.com/track/0OouVwS1spKD2Qr1LMmAje) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [The Cup](https://open.spotify.com/album/79D1zXbD0awfHKVAL3LE9E) | 3:07 |
 | 27 | [Rescue](https://open.spotify.com/track/1CkUPrALf6ID60tY0TmkEG) | [One Common](https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9) | [Rescue](https://open.spotify.com/album/2hRvaI20GTXxJ0T8wjs8uF) | 2:41 |
-| 28 | [Sweet Spot](https://open.spotify.com/track/5TLbvhYY9obqA6LLtn6Xa5) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [The Hero](https://open.spotify.com/album/0zXL1ExI5cnlyKrqUdW198) | 3:16 |
+| 28 | [Sweet Spot](https://open.spotify.com/track/5TLbvhYY9obqA6LLtn6Xa5) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [The Hero](https://open.spotify.com/album/0zXL1ExI5cnlyKrqUdW198) | 3:02 |
 | 29 | [Everything\_](https://open.spotify.com/track/7sHDETwhnQzR7GSdyBGUbq) | [Jon](https://open.spotify.com/artist/7jn0JOlixG25zuQWLov22q) | [Everything\_](https://open.spotify.com/album/7kWN8T1wKhybkmiPan2ky1) | 3:51 |
 | 30 | [Lord Prepare Me](https://open.spotify.com/track/77wM3kgidnHhbQrDntomdi) | [Ferris](https://open.spotify.com/artist/0kxKR9utzILx97Vjj6bA4r) | [Lord Prepare Me](https://open.spotify.com/album/0LEZRRT2aTnAHv5rJZAqOn) | 2:20 |
 | 31 | [Pray](https://open.spotify.com/track/1Y8gh35V82l4IaZkJ1P3f5) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Pray](https://open.spotify.com/album/6XKnHLSnKFxgTT5Pmrl0kh) | 3:23 |

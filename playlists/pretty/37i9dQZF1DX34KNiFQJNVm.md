@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem KAROL G, Felipe Amorim, Simone Mendes e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,107,106 likes - 89 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,107,019 likes - 89 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

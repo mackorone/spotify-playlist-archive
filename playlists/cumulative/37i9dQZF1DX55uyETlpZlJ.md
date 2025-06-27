@@ -2,9 +2,9 @@
 
 ### [Kannada Indie](https://open.spotify.com/playlist/37i9dQZF1DX55uyETlpZlJ)
 
-> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rahul Dit\-O
+> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Chandan Shetty
 
-518 songs - 1 day 5 hr 4 min
+519 songs - 1 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Area Boi](https://open.spotify.com/track/3X0crnUSLCoulnYSB1p7Ir) | [Stoney Rhino](https://open.spotify.com/artist/1pduTHsOHofmFHHM2ONTKc) | [Area Boi](https://open.spotify.com/album/4gGm1zFxkZUOnUX5QqUSkr) | 3:06 | 2025-06-23 |  |
 | [Arere](https://open.spotify.com/track/4wO1kzkn6gmKAFOt48EaPh) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Arere](https://open.spotify.com/album/2NAKOi8TeqzEJZDcwdaP61) | 3:58 | 2023-10-06 | 2024-01-07 |
 | [Arere](https://open.spotify.com/track/5e7ESBZeOLQCbqtvWaS7Y2) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Arere](https://open.spotify.com/album/6s8OIlhZixQ2D9IsZUBrRm) | 3:58 | 2023-10-06 | 2024-02-17 |
-| [Ariyade Maadida Thappu](https://open.spotify.com/track/3MvcoixOyjIyPyRZDrfMEU) | [Annapurna Chalageri](https://open.spotify.com/artist/6BRGRsI7IQMvUBmJpg5w5q), [Raghav Aio](https://open.spotify.com/artist/6eP56zC6A37cj4kwL64QDO) | [Ariyade Maadida Thappu](https://open.spotify.com/album/0wGaiqGfcqO0CMR1tLMGNR) | 4:14 | 2025-02-11 |  |
+| [Ariyade Maadida Thappu](https://open.spotify.com/track/3MvcoixOyjIyPyRZDrfMEU) | [Annapurna Chalageri](https://open.spotify.com/artist/6BRGRsI7IQMvUBmJpg5w5q), [Raghav Aio](https://open.spotify.com/artist/6eP56zC6A37cj4kwL64QDO) | [Ariyade Maadida Thappu](https://open.spotify.com/album/0wGaiqGfcqO0CMR1tLMGNR) | 4:14 | 2025-02-11 | 2025-06-27 |
 | [Asali Banna](https://open.spotify.com/track/0cRfO2sZOvRj5j1OwsVvak) | [Eshani](https://open.spotify.com/artist/4CQMCs1zM49VQiI6Og0VWg), [DJ Lethal A](https://open.spotify.com/artist/6RVM49jvPqk6em0FMPZQ8X) | [Asali Banna](https://open.spotify.com/album/3f36xHYgOHnm652MFWCyBP) | 3:50 | 2024-09-13 | 2025-03-27 |
 | [ASHANA \- From Ashana](https://open.spotify.com/track/1GjvOhYzIJBr4pv7oZcfWP) | [Alva Kuuto](https://open.spotify.com/artist/2VxZ8TbLCCmfaDJGVyi5TA) | [ASHANA \(From Ashana\)](https://open.spotify.com/album/5ZTACQ9W17RnhzxsYPqO2O) | 3:19 | 2025-02-26 | 2025-04-29 |
 | [Avarisu \- SKODA Deccan Beats](https://open.spotify.com/track/3XBolYD5LpZ0ayiuRJPt1a) | [Neehar Kiran Dabade](https://open.spotify.com/artist/7HoTwBEDd1pZucJ0ntVVlQ), [Sunil Nakod](https://open.spotify.com/artist/5b6rKTAj1FD4aaerrJ8nay), [Nivas](https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O) | [Avarisu \(SKODA Deccan Beats\)](https://open.spotify.com/album/1tHo4gHFxWE1ZjxCqXhhrd) | 3:42 | 2022-09-27 | 2023-06-21 |
@@ -521,6 +521,7 @@
 | [Yarig Bek E Jeevana](https://open.spotify.com/track/7JTOGxj0yVSjy9QMIXhkd1) | [Shree Natana](https://open.spotify.com/artist/0v3N5Wa2w1em8ni3fxnHSy) | [Yarig Bek E Jeevana](https://open.spotify.com/album/1Ptw3Okj7fR17TY3f3T1qJ) | 3:15 | 2025-03-11 |  |
 | [Yelladi Nanna Gelati 2](https://open.spotify.com/track/7vvVvF2haaaBRikZEQh57P) | [Yathish Appu](https://open.spotify.com/artist/39wBCKdd0Dm32NcWVG04Rz) | [Yelladi Nanna Gelati 2](https://open.spotify.com/album/3o1CraR30nGxVff7l54x21) | 5:29 | 2025-03-11 |  |
 | [Yello Saagidhe](https://open.spotify.com/track/5GMw5NQLxl7A9bYrSpWmml) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Yello Saagidhe](https://open.spotify.com/album/1UEGhdSV0i83EqS03iwsZv) | 3:03 | 2023-08-16 | 2023-09-07 |
+| [Yello Saagidhe](https://open.spotify.com/track/2N2hCq7Y9zjrNLRDFuvFQY) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N), [Sachin S Jannur](https://open.spotify.com/artist/2LNuWmANUCqYcJsPaNpCfj) | [Yello Saagidhe](https://open.spotify.com/album/7yvC4BCoMlyzOpwOmcczAN) | 3:06 | 2025-06-26 |  |
 | [Yenaagide](https://open.spotify.com/track/2iO7QR9TKXGECiozwKR9yP) | [Swaroop](https://open.spotify.com/artist/0KnRzWyUIlpEw1yYrVWZum), [Bats Creations](https://open.spotify.com/artist/2kRPjoyqvRX2t4J3WvDwHp) | [Yenaagide](https://open.spotify.com/album/18gnmJSKZfTc8Pdkk1OrsE) | 3:36 | 2023-07-10 | 2023-07-25 |
 | [YENO AGIDHE\-2](https://open.spotify.com/track/4hnEJMQNmphymiCNEtmx7N) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [YENO AGIDHE\-2](https://open.spotify.com/album/4qrvxKZpcx8gEcCTJTteAi) | 2:48 | 2024-03-01 | 2024-07-13 |
 | [YETHAKE](https://open.spotify.com/track/3WLAXeHYLcmsIQrS9EUOXR) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [YETHAKE](https://open.spotify.com/album/1osvJxXuOInCyOKbBJuH2C) | 3:07 | 2025-02-06 | 2025-06-07 |

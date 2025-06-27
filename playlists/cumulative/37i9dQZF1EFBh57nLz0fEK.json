@@ -194,7 +194,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-26",
+      "date_removed": null,
       "duration_ms": 269740,
       "name": "Big Wheel Whippin'",
       "url": "https://open.spotify.com/track/3gSsZVKLIzKzQit8weYbm1"
@@ -1979,6 +1979,24 @@
     },
     {
       "album": {
+        "name": "No Guest List",
+        "url": "https://open.spotify.com/album/2xTeGaKSGR9TG8JWjA4HOx"
+      },
+      "artists": [
+        {
+          "name": "B Jack$",
+          "url": "https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113736,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/0gqcPH08FOqIqumcDQrw3C"
+    },
+    {
+      "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/7kcVgPWrS6twn9s8GbbtZA"
       },
@@ -1990,7 +2008,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 113736,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/2WVt8kpHSmldTufFnA2m3B"

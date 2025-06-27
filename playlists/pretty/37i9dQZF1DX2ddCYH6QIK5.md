@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > Celebrating 10 years of  the best new music by independent artists and labels, updated every Wednesday\. Cover: LOKI, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,529 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,530 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Make it hurt a little longer](https://open.spotify.com/track/0F4I1sJ5S63WHV6s2mZj3I) | [LOKI](https://open.spotify.com/artist/71EJ8oMfR3a20cqp3VrhRe) | [Make it Hurt a Little Longer](https://open.spotify.com/album/35H5lsjqb36qLi5DWyhbqb) | 3:21 |
+| 1 | [Make it Hurt a Little Longer](https://open.spotify.com/track/0F4I1sJ5S63WHV6s2mZj3I) | [LOKI](https://open.spotify.com/artist/71EJ8oMfR3a20cqp3VrhRe) | [Make it Hurt a Little Longer](https://open.spotify.com/album/35H5lsjqb36qLi5DWyhbqb) | 3:21 |
 | 2 | [Raum und Zeit](https://open.spotify.com/track/4rdEXlnzDuFl4YG3LCJN3u) | [Noah Juan](https://open.spotify.com/artist/6SdE2ZFnEGOXdi4D6ahqQv) | [Villa Capri \- EP](https://open.spotify.com/album/4XuGw1hYvOalxamf5MRq2Z) | 4:02 |
 | 3 | [Bluff](https://open.spotify.com/track/36BJVu4hY1DKGPuEL3BRyH) | [Kings & Pills](https://open.spotify.com/artist/6LcYIldO2Bw0r4u213sESe) | [Feast on Us](https://open.spotify.com/album/5YdyGfNSdW2nKwXKMUKluN) | 2:57 |
 | 4 | [In einem anderen Leben](https://open.spotify.com/track/2Bh7tlnlHltYBSgAAfpN92) | [Luis Domingo](https://open.spotify.com/artist/5ZlX3MkuP2qTnp8QF77Mw8) | [In einem anderen Leben](https://open.spotify.com/album/3RzByjeIKYSe43KagKgELR) | 3:33 |

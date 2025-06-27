@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 271259,
+  "num_followers": 271371,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
+        "name": "Por Eso...Gracias",
+        "url": "https://open.spotify.com/album/7Lghu5Zrr9HtzUzVVPwQ3a"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 210733,
+      "name": "Sin \u00c9l",
+      "url": "https://open.spotify.com/track/58QwiUXiVnFtH1582jV2CM"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
         "name": "Para Dejarte de Querer",
         "url": "https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 197933,
       "name": "Como Fui A Enamorarme De Ti",
       "url": "https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
-        "name": "Por Eso...Gracias",
-        "url": "https://open.spotify.com/album/7Lghu5Zrr9HtzUzVVPwQ3a"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 210733,
-      "name": "Sin \u00c9l",
-      "url": "https://open.spotify.com/track/58QwiUXiVnFtH1582jV2CM"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
-        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/6QS4U3vPuZbORCJSMYdea3"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1067,18 +1051,34 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Antes de Que Te Vayas",
-        "url": "https://open.spotify.com/album/5OGiLCGjLUNy0e9gI6S4E0"
+        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
+        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
       },
       "artists": [
         {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
         }
       ],
-      "duration_ms": 205983,
-      "name": "Antes de Que Te Vayas",
-      "url": "https://open.spotify.com/track/6VawoBcyNbK7tV9SOZQcwk"
+      "duration_ms": 249626,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/6QS4U3vPuZbORCJSMYdea3"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Victor Garc\u00eda",
+        "url": "https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1"
+      },
+      "artists": [
+        {
+          "name": "Victor Garcia",
+          "url": "https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e"
+        }
+      ],
+      "duration_ms": 234586,
+      "name": "Y Ahora Te Vas",
+      "url": "https://open.spotify.com/track/396g7zTRCn3HzZ3vK434Xe"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Victor Garc\u00eda",
-        "url": "https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1"
+        "name": "Antes de Que Te Vayas",
+        "url": "https://open.spotify.com/album/5OGiLCGjLUNy0e9gI6S4E0"
       },
       "artists": [
         {
-          "name": "Victor Garcia",
-          "url": "https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e"
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
         }
       ],
-      "duration_ms": 234586,
-      "name": "Y Ahora Te Vas",
-      "url": "https://open.spotify.com/track/396g7zTRCn3HzZ3vK434Xe"
+      "duration_ms": 205983,
+      "name": "Antes de Que Te Vayas",
+      "url": "https://open.spotify.com/track/6VawoBcyNbK7tV9SOZQcwk"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Como Este Loco",
-        "url": "https://open.spotify.com/album/7bocxXAgzQYgSYwS2AIM2f"
-      },
-      "artists": [
-        {
-          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
-          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Sigue Sin Mi",
-      "url": "https://open.spotify.com/track/0AVLg8enpkzc7cypGu1wYQ"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 234920,
       "name": "Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/3r0FRf0nVEpKA3OcMVjZiO"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Como Este Loco",
+        "url": "https://open.spotify.com/album/7bocxXAgzQYgSYwS2AIM2f"
+      },
+      "artists": [
+        {
+          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
+          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Sigue Sin Mi",
+      "url": "https://open.spotify.com/track/0AVLg8enpkzc7cypGu1wYQ"
     },
     {
       "added_at": "2025-01-23 17:30:18",

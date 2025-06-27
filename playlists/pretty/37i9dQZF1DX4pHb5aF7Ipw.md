@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by  Khan Bhaini, Sultaan, Tarsem Jassar and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,681 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,700 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 6 | [Aitbaar](https://open.spotify.com/track/77xXkrWVEVbB08YH4c1Phx) | [Sabat Batin](https://open.spotify.com/artist/3Q10GP2eLMD5yS7sczpwju), [Rackstar](https://open.spotify.com/artist/1z6QfwtDxMcgo7VMrKgwnT) | [Aitbaar](https://open.spotify.com/album/1htnh54RnvUv0sGU9f7Xd0) | 2:34 |
 | 7 | [Aar Ya Paar](https://open.spotify.com/track/6FR9OA3KA8TNVpM8oW1ALE) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Aar Ya Paar](https://open.spotify.com/album/586EQTFpH8IgibIzjJLNX8) | 2:36 |
 | 8 | [MAYBACH](https://open.spotify.com/track/6UNmt17z26AMY1sALiNqrC) | [GAGG E](https://open.spotify.com/artist/1bLhM3jn76Q9wKJSF23x8R), [Deep Dhaliwal](https://open.spotify.com/artist/49rpuSgVLanEVfk2vuAKEU) | [MAYBACH](https://open.spotify.com/album/5vBQMSNvNHdk08BUzRyxiy) | 3:41 |
-| 9 | [Full Support](https://open.spotify.com/track/6BmUXNUpTNsr2FswP8jMN2) | [VK VIRK](https://open.spotify.com/artist/4XVCRRoSrTCzYUMbXXBem1), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Full Support](https://open.spotify.com/album/7IAQIWAU27dytr4Q5fRq18) | 3:06 |
+| 9 | [Full Support](https://open.spotify.com/track/6BmUXNUpTNsr2FswP8jMN2) | [VK VIRK](https://open.spotify.com/artist/4XVCRRoSrTCzYUMbXXBem1), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [FREEZZY BEATZ](https://open.spotify.com/artist/5eMuqVgMZ4fFnkSKjpMEs1) | [Full Support](https://open.spotify.com/album/7IAQIWAU27dytr4Q5fRq18) | 3:06 |
 | 10 | [Kabza](https://open.spotify.com/track/2nz1xuIvnnBty3ldBrVDa3) | [Jhindi](https://open.spotify.com/artist/79KhzCVesY368au6fdOaj2), [Bull Music](https://open.spotify.com/artist/2MTEA52tqsE4Pke2kYjkL5) | [Rags To Riches](https://open.spotify.com/album/1T3HGW7XQolnKCxjHxGnZl) | 1:30 |
 | 11 | [Goli Gatta](https://open.spotify.com/track/4UiXwT3n0N68cPNy0X770X) | [Baghdadi Music](https://open.spotify.com/artist/4tYgeYn2sHNyRzWqZMyMr0), [Trip Beats](https://open.spotify.com/artist/7tDPPascbZXHqvtye9tXrb) | [Goli Gatta](https://open.spotify.com/album/0YHz8ruV0lN8ta8ahc1hwu) | 2:13 |
 | 12 | [GLORY DAYS](https://open.spotify.com/track/2mAqJ7AGC4A0mGEku3lm8M) | [Jot](https://open.spotify.com/artist/68bGf9PINZrMbxLMctVeNs) | [GLORY DAYS](https://open.spotify.com/album/0qwSOYvVYfZPZXJtQtU0oG) | 2:42 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u30ec\u30b8\u30a7\u30f3\u30c9\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc/\u30d6\u30eb\u30fc\u30ce\u30fc\u30c8\u30ec\u30b3\u30fc\u30c9\u793e\u9577\n Don Was\u304c\u5192\u982d\u306e4\u66f2\u3092\u30bb\u30ec\u30af\u30c8 //\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Don Was",
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Norah Jones",
   "name": "X-Over \u30b8\u30e3\u30ba!",
   "tracks": [
     {
@@ -346,7 +346,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 269813,
       "name": "Another New Day - Little Big Beat Studio Live Session",
       "url": "https://open.spotify.com/track/1hh06VO8rHnqp6sFRvkziz"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 297759,
       "name": "bamboo - Radio Edit",
       "url": "https://open.spotify.com/track/4nRRgkj2Mz06rKszlAKVwc"
@@ -886,7 +886,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 195782,
       "name": "Brainstorm",
       "url": "https://open.spotify.com/track/07qtSLcfDBeajxXXkfM5I9"
@@ -1443,6 +1443,28 @@
     },
     {
       "album": {
+        "name": "Cuckoo Goes The Clock",
+        "url": "https://open.spotify.com/album/5E4Ikrl6oe7vroUAl0E5jJ"
+      },
+      "artists": [
+        {
+          "name": "Steven Bamidele",
+          "url": "https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6"
+        },
+        {
+          "name": "Cam Thomas",
+          "url": "https://open.spotify.com/artist/5c3fIb9ddx79HLNnl99grZ"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194880,
+      "name": "Cuckoo Goes The Clock",
+      "url": "https://open.spotify.com/track/2XCtvfU4fX6fv16msgmErg"
+    },
+    {
+      "album": {
         "name": "Halfway Somewhere",
         "url": "https://open.spotify.com/album/0dZQ5a3iDoioa5wYeSc04E"
       },
@@ -1632,7 +1654,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 213240,
       "name": "Domino feat.\u5bfa\u4e45\u4fdd\u4f36\u77e2",
       "url": "https://open.spotify.com/track/32csPJCStCpG9Y6zHulGax"
@@ -2017,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "Flor de Lis (Upside Down)",
+        "url": "https://open.spotify.com/album/0OwNT4Lv1ViODTp9lI9r1K"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337083,
+      "name": "Flor de Lis (Upside Down)",
+      "url": "https://open.spotify.com/track/1NUy3QgtzwdxaQ1beWHSK1"
+    },
+    {
+      "album": {
         "name": "Flowers and Butterfly",
         "url": "https://open.spotify.com/album/0a4ChujBi0qpoWUmu405J4"
       },
@@ -2220,7 +2260,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 285567,
       "name": "Gadabout Season",
       "url": "https://open.spotify.com/track/3CbgZjjdLxd1tr5p4Gt6Q9"
@@ -2694,6 +2734,40 @@
       "duration_ms": 256911,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/7s0wCxjksOoFTcfp7Ikk3t"
+    },
+    {
+      "album": {
+        "name": "Words Fall Short",
+        "url": "https://open.spotify.com/album/2toluYLW38SlSkSYLHscpR"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Skylar Tang",
+          "url": "https://open.spotify.com/artist/3i5LkHN45PzgWWyNkzh3nl"
+        },
+        {
+          "name": "Paul Cornish",
+          "url": "https://open.spotify.com/artist/6Buu7N5lG1P2yRirqj9UON"
+        },
+        {
+          "name": "Philip Norris",
+          "url": "https://open.spotify.com/artist/2im20up8riHLPljFBfanoV"
+        },
+        {
+          "name": "Nazir Ebo",
+          "url": "https://open.spotify.com/artist/0Y86ZcmGk1xTdaHbMHCBtI"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384243,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/2gzXIH2zuVQ6omwQBvpeas"
     },
     {
       "album": {
@@ -3680,7 +3754,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 213838,
       "name": "Made In New York",
       "url": "https://open.spotify.com/track/5e7KO7EvjJ3aSzEDGlSJEZ"
@@ -3830,7 +3904,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 11874,
       "name": "Message from Don Was pt.1",
       "url": "https://open.spotify.com/track/3VGjn5dWcZSlbNMkxP9SB5"
@@ -3848,7 +3922,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 9000,
       "name": "Message from Don Was pt.2",
       "url": "https://open.spotify.com/track/59dv9b5pIdMiMBb4Q3mH33"
@@ -3866,7 +3940,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 11500,
       "name": "Message from Don Was pt.3",
       "url": "https://open.spotify.com/track/6oKhmnHjbrk3mRnqrbV4St"
@@ -3884,7 +3958,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 8000,
       "name": "Message from Don Was pt.4",
       "url": "https://open.spotify.com/track/431mOAtKamewwR8RENdlny"
@@ -3902,7 +3976,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 8874,
       "name": "Message from Don Was pt.5",
       "url": "https://open.spotify.com/track/7eKHcRyOTN1BDFH747iwgB"
@@ -4136,7 +4210,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 223820,
       "name": "Must Have Known",
       "url": "https://open.spotify.com/track/3TlVcT7gmTbwB3607URmTL"
@@ -4503,6 +4577,28 @@
     },
     {
       "album": {
+        "name": "Oganesson (Makaya McCraven Remix)",
+        "url": "https://open.spotify.com/album/5OLbOBwC5UnnmRwgoFKsKN"
+      },
+      "artists": [
+        {
+          "name": "Tortoise",
+          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
+        },
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291472,
+      "name": "Oganesson - Makaya McCraven Remix",
+      "url": "https://open.spotify.com/track/19G9CxdiQA4zyaAKGCSQIm"
+    },
+    {
+      "album": {
         "name": "Oh My God",
         "url": "https://open.spotify.com/album/2CqlzqET3jM9r5y7nUgIdn"
       },
@@ -4734,7 +4830,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 357346,
       "name": "Pendulum [Feat. Sonicwonder & Michelle Willis]",
       "url": "https://open.spotify.com/track/0JwQJRLM0Kwvs1CFWhufhj"
@@ -5609,6 +5705,28 @@
     },
     {
       "album": {
+        "name": "Summertime Blue",
+        "url": "https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210296,
+      "name": "Summertime Blue",
+      "url": "https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts"
+    },
+    {
+      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4"
       },
@@ -5787,6 +5905,28 @@
     },
     {
       "album": {
+        "name": "Taste",
+        "url": "https://open.spotify.com/album/59dhgrnqqMQMA0yTcGcCAz"
+      },
+      "artists": [
+        {
+          "name": "FiJA",
+          "url": "https://open.spotify.com/artist/37yszP4OZkNSupZFSPGtKl"
+        },
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240492,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/7mZx7xNcvXStILZCTy8Fsh"
+    },
+    {
+      "album": {
         "name": "TAXI",
         "url": "https://open.spotify.com/album/1kDbUfS7ad8KOFxrSPOX2W"
       },
@@ -5958,7 +6098,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 337578,
       "name": "Thousand Knives - ver.Rawment",
       "url": "https://open.spotify.com/track/2eDazC1X5NUITWXcV3jWqN"
@@ -6092,7 +6232,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 144741,
       "name": "Tokyo Lift (5am)",
       "url": "https://open.spotify.com/track/3nNHdtE7GDHCBwt6mA1D4M"
@@ -6205,6 +6345,24 @@
     },
     {
       "album": {
+        "name": "Ukiyo",
+        "url": "https://open.spotify.com/album/27Nw2e7uHq8ygmWJzBsm5U"
+      },
+      "artists": [
+        {
+          "name": "Blu-Swing",
+          "url": "https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160661,
+      "name": "Ukiyo",
+      "url": "https://open.spotify.com/track/7AQRTXj5AlvysxMSLJHahh"
+    },
+    {
+      "album": {
         "name": "Unafraid",
         "url": "https://open.spotify.com/album/2TJnVAEd5NwNtji0NOWCtc"
       },
@@ -6224,7 +6382,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 321323,
       "name": "Unafraid",
       "url": "https://open.spotify.com/track/4y9X3vl2VYtSzhlrhiK93s"
@@ -6264,7 +6422,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 223100,
       "name": "URAH",
       "url": "https://open.spotify.com/track/0Yb57OXbeD7SLeYlfWcTCr"

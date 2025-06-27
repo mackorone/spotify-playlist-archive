@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [3.5](https://open.spotify.com/track/6YvCWIlMBJgQEm6i0POVbZ) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Goodbye Horses](https://open.spotify.com/album/0I3cC1B19vTlERLgrYkeU9) | 2:36 | 2025-01-09 | 2025-04-12 |
+| [3.5](https://open.spotify.com/track/6YvCWIlMBJgQEm6i0POVbZ) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Goodbye Horses](https://open.spotify.com/album/0I3cC1B19vTlERLgrYkeU9) | 2:36 | 2025-01-09 |  |
 | [4 Da Kidz](https://open.spotify.com/track/2ZDRkJrKbceJRgLKkuex14) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 3:04 | 2023-12-13 |  |
 | [90210](https://open.spotify.com/track/6EmxGRHI2BTV62BtF3z0Ct) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [90210](https://open.spotify.com/album/0tKcCIB1S0KkDAL7TqGCS4) | 5:04 | 2023-12-15 | 2024-02-01 |
 | [90210 \(feat\. Kacy Hill\)](https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:39 | 2023-12-13 |  |

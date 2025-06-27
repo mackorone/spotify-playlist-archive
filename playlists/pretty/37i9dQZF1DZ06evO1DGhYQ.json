@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 8982,
+  "num_followers": 8985,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAAB4KC1GP2lfPFQOUNwKJaLH",
+  "snapshot_id": "aFs8AAAAAAC0Sn1BWrbs/xfndFFDwkOG",
   "tracks": [
     {
       "added_at": null,
@@ -344,17 +344,13 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         },
         {
-          "name": "J-Rexxx",
-          "url": "https://open.spotify.com/artist/5RNhX2Lm64fQpfcHwOWSbx"
-        },
-        {
-          "name": "RUEED",
-          "url": "https://open.spotify.com/artist/4iIx9O5HVTda3EyChrHkTK"
+          "name": "Shing02",
+          "url": "https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9"
         }
       ],
-      "duration_ms": 241133,
-      "name": "FIGHT DUB CLUB",
-      "url": "https://open.spotify.com/track/2Jgq2YG8bYFnwqFFFr0rbx"
+      "duration_ms": 243000,
+      "name": "DAZE N SUNSHINE",
+      "url": "https://open.spotify.com/track/4AbZXj7bkhxmnhFab2Ej8l"
     },
     {
       "added_at": null,
@@ -420,13 +416,17 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         },
         {
-          "name": "Shing02",
-          "url": "https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9"
+          "name": "J-Rexxx",
+          "url": "https://open.spotify.com/artist/5RNhX2Lm64fQpfcHwOWSbx"
+        },
+        {
+          "name": "RUEED",
+          "url": "https://open.spotify.com/artist/4iIx9O5HVTda3EyChrHkTK"
         }
       ],
-      "duration_ms": 243000,
-      "name": "DAZE N SUNSHINE",
-      "url": "https://open.spotify.com/track/4AbZXj7bkhxmnhFab2Ej8l"
+      "duration_ms": 241133,
+      "name": "FIGHT DUB CLUB",
+      "url": "https://open.spotify.com/track/2Jgq2YG8bYFnwqFFFr0rbx"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tokyo Pharaoh",
-        "url": "https://open.spotify.com/album/3wJMXwks4RkMQfnVrO23n0"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 213406,
-      "name": "Tokyo Pharaoh",
-      "url": "https://open.spotify.com/track/2ddh4hVyDNFt6gBvqOmTW7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u8e0a\u6551\u6025\u7bb1",
         "url": "https://open.spotify.com/album/6h4DnOV7gOz7jvVy1MhoXr"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 166850,
       "name": "KID feat. LEO (ALI)",
       "url": "https://open.spotify.com/track/7iNdSSdLG2X06P9c9WNHrb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tokyo Pharaoh",
+        "url": "https://open.spotify.com/album/3wJMXwks4RkMQfnVrO23n0"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 213406,
+      "name": "Tokyo Pharaoh",
+      "url": "https://open.spotify.com/track/2ddh4hVyDNFt6gBvqOmTW7"
     },
     {
       "added_at": null,

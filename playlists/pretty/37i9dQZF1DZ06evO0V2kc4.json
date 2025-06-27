@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 71851,
+  "num_followers": 71859,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAAAurP4xbvY/zHFCt7/v/AbM",
+  "snapshot_id": "aFs8AAAAAAAoEGXqyWiFiGd1N0ThqUcf",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 139240,
-      "name": "Daddy, You Been On My Mind",
-      "url": "https://open.spotify.com/track/1M20O2xfTLnrLtURrbZsAM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits And Others",
         "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
       },
@@ -403,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Baez",
-        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
       },
       "artists": [
         {
@@ -412,25 +396,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 105973,
-      "name": "Girl Of Constant Sorrow",
-      "url": "https://open.spotify.com/track/3WZl07ITusPN7bQY3vzGdx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Joan Baez",
-        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Joe Hill - Live",
-      "url": "https://open.spotify.com/track/7i6UrbfRiRaR6L7eDdEARY"
+      "duration_ms": 139240,
+      "name": "Daddy, You Been On My Mind",
+      "url": "https://open.spotify.com/track/1M20O2xfTLnrLtURrbZsAM"
     },
     {
       "added_at": null,
@@ -451,6 +419,38 @@
       "duration_ms": 215240,
       "name": "Diamonds & Rust",
       "url": "https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Joan Baez",
+        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Joe Hill - Live",
+      "url": "https://open.spotify.com/track/7i6UrbfRiRaR6L7eDdEARY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 105973,
+      "name": "Girl Of Constant Sorrow",
+      "url": "https://open.spotify.com/track/3WZl07ITusPN7bQY3vzGdx"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come From The Shadows",
-        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
+        "name": "Baez Sings Dylan",
+        "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 241226,
-      "name": "To Bobby",
-      "url": "https://open.spotify.com/track/7BCPRW68OQu98UXC5qDOGe"
+      "duration_ms": 273506,
+      "name": "Boots Of Spanish Leather",
+      "url": "https://open.spotify.com/track/25XW58aLYsUZeANkXhvO7P"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baez Sings Dylan",
-        "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
+        "name": "Come From The Shadows",
+        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 273506,
-      "name": "Boots Of Spanish Leather",
-      "url": "https://open.spotify.com/track/25XW58aLYsUZeANkXhvO7P"
+      "duration_ms": 241226,
+      "name": "To Bobby",
+      "url": "https://open.spotify.com/track/7BCPRW68OQu98UXC5qDOGe"
     },
     {
       "added_at": null,
@@ -687,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall",
-        "url": "https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY"
+        "name": "The Complete A&M Recordings",
+        "url": "https://open.spotify.com/album/1R5up0FfwnF2ZABN9ff85L"
       },
       "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        },
         {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 185400,
-      "name": "Mama, You Been on My Mind - Live at Philharmonic Hall, New York, NY - October 1964",
-      "url": "https://open.spotify.com/track/48p7zj5Ief2UIzbNWAMfPN"
+      "duration_ms": 232800,
+      "name": "Forever Young - Single Version",
+      "url": "https://open.spotify.com/track/5q5UESTbbcTM1vEyheQA4u"
     },
     {
       "added_at": null,
@@ -723,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete A&M Recordings",
-        "url": "https://open.spotify.com/album/1R5up0FfwnF2ZABN9ff85L"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Forever Young - Single Version",
-      "url": "https://open.spotify.com/track/5q5UESTbbcTM1vEyheQA4u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If I Wrote You: Favorite Songs By Some Of My Favorite Songwriters",
         "url": "https://open.spotify.com/album/5pyD4MonVyt9h9tcgoYpBM"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 208893,
       "name": "If I Wrote You",
       "url": "https://open.spotify.com/track/2kJfMLleWp1UgC5HlGBHi1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall",
+        "url": "https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Mama, You Been on My Mind - Live at Philharmonic Hall, New York, NY - October 1964",
+      "url": "https://open.spotify.com/track/48p7zj5Ief2UIzbNWAMfPN"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Baez",
-        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "Wildwood Flower",
-      "url": "https://open.spotify.com/track/1eZTRfESsrayUmRKGIuory"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If I Wrote You: Favorite Songs By Some Of My Favorite Songwriters",
         "url": "https://open.spotify.com/album/5pyD4MonVyt9h9tcgoYpBM"
       },
@@ -819,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Joan Baez",
-        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
       },
       "artists": [
         {
@@ -828,9 +812,25 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 212226,
-      "name": "We Shall Overcome - Live",
-      "url": "https://open.spotify.com/track/3lM2es3TbqmWjOGAx35fyh"
+      "duration_ms": 157160,
+      "name": "Wildwood Flower",
+      "url": "https://open.spotify.com/track/1eZTRfESsrayUmRKGIuory"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete Gold Castle Masters",
+        "url": "https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "No Woman No Cry - Live",
+      "url": "https://open.spotify.com/track/7FNv4PwUHxtGkadOGAwdDy"
     }
   ],
   "unique_name": "This Is Joan Baez",

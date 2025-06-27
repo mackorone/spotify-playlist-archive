@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-233 songs - 13 hr 51 min
+235 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 | 2025-02-03 |  |
 | [Ballad Of Easy Rider](https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Ballad Of Easy Rider](https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS) | 2:05 | 2023-02-23 | 2024-09-13 |
 | [Be My Guest](https://open.spotify.com/track/7HvwU0z0my31zUwSDCrD1x) | [Erik Neimeijer](https://open.spotify.com/artist/4Y1VPXX1ycKSVMhri1VeCB) | [Be My Guest](https://open.spotify.com/album/4kaDJDpkLVM4SbzftQk1WH) | 3:19 | 2024-02-29 | 2025-01-17 |
+| [Before I Lose You](https://open.spotify.com/track/0VZTOeRdGxV3veEUVgveFJ) | [The Martial](https://open.spotify.com/artist/4BHKObtnIJsk0jcli22C5L) | [Before I Lose You](https://open.spotify.com/album/1fA8rLSaOaCrRgCyJEDmS3) | 3:37 | 2025-06-26 |  |
 | [Before The Storm](https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Before The Storm](https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP) | 3:11 | 2023-05-18 | 2024-10-23 |
 | [Big Grey Boxes](https://open.spotify.com/track/59xbc8TCvpkgVoo9ldOpLz) | [Timo de Jong](https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x) | [Big Grey Boxes](https://open.spotify.com/album/3yRIBEQNXCCikZuuHSYprK) | 4:19 | 2023-02-23 | 2024-09-13 |
 | [Big Time](https://open.spotify.com/track/3RZ5VvBcCQgrRl8XaKZLa4) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Big Time](https://open.spotify.com/album/5UsuKQY3qOMAYyuwaxH4Lx) | 4:07 | 2023-02-23 | 2024-06-28 |
@@ -73,6 +74,7 @@
 | [For The Better Of Me](https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ) | [Yentl](https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE) | [For The Better Of Me](https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg) | 3:50 | 2023-03-30 | 2024-08-30 |
 | [For Tomorrow's Sake](https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [For Tomorrow's Sake](https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi) | 3:24 | 2025-05-15 |  |
 | [Forever a Prisoner](https://open.spotify.com/track/5UEffWajlacLxVJd2jODNX) | [Them Dirty Dimes](https://open.spotify.com/artist/5ALoTX7C68nChnuiz2loRP), [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Forever a Prisoner](https://open.spotify.com/album/489krjRSaaFyODbOscNedG) | 3:19 | 2023-08-31 | 2023-10-06 |
+| [Frozen \- Live from Best of Pop](https://open.spotify.com/track/2ALhSY3Su4JB7vXJUORY34) | [Yori](https://open.spotify.com/artist/0Bwzh9IY161vYCi4pAT02u) | [Frozen \(Live from Best of Pop\)](https://open.spotify.com/album/3akNEfhr26BayeUYvZHhnk) | 2:57 | 2025-06-26 |  |
 | [Frozen In Time](https://open.spotify.com/track/7qoc1IZ1k6FXlF5KrPqAXe) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Frozen In Time](https://open.spotify.com/album/2Xd0nXYllq7usaXQ99UXlA) | 2:58 | 2023-10-05 | 2023-10-31 |
 | [Fruits Of My Labor](https://open.spotify.com/track/3Un8AiGf6AmPY5YGzdrzJP) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Fruits Of My Labor](https://open.spotify.com/album/5f8FA5nXO3K4idqU1mAFuO) | 3:36 | 2023-11-02 | 2025-01-19 |
 | [Going Home](https://open.spotify.com/track/79Y9I1GYMaNEfVwEDmWh28) | [Robbert Duijf](https://open.spotify.com/artist/479RX3LATApuM30lH2cemD), [Maud Knubben](https://open.spotify.com/artist/109tzSrdsNx4IQJvJBTRXV) | [Dangers Mood](https://open.spotify.com/album/2vwbTmsYqcMqePxrfPRV4z) | 3:12 | 2023-04-27 | 2023-09-01 |
@@ -88,7 +90,7 @@
 | [Hear My Dear](https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: I\. Crescent](https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq) | 5:34 | 2023-02-23 | 2024-06-28 |
 | [Heartless](https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Heartless](https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm) | 3:18 | 2024-04-18 |  |
 | [Heat of the Moment](https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [A Heightened Sense of Everything](https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng) | 3:28 | 2023-08-29 | 2024-11-15 |
-| [Heavy](https://open.spotify.com/track/0aw9eYHRnhcOCKRGUmg8mB) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk), [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Heavy](https://open.spotify.com/album/53vlkY1WXAW0MWRgGqR74z) | 3:34 | 2024-07-19 |  |
+| [Heavy](https://open.spotify.com/track/0aw9eYHRnhcOCKRGUmg8mB) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk), [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Heavy](https://open.spotify.com/album/53vlkY1WXAW0MWRgGqR74z) | 3:34 | 2024-07-19 | 2025-06-27 |
 | [High Heels](https://open.spotify.com/track/4M3uKxjhfTLfQidMDgEEgC) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Country Coming Down](https://open.spotify.com/album/3hYtvhC4TBoNfoWgtioNMR) | 3:22 | 2023-02-23 | 2023-04-28 |
 | [Highway Queen](https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Highway Queen](https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv) | 3:32 | 2024-03-07 |  |
 | [Highway Queen \(feat\. Maren Morris\)](https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Highway Queen \(feat\. Maren Morris\)](https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb) | 3:31 | 2024-09-12 |  |
@@ -188,7 +190,7 @@
 | [Songs About You](https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Songs About You](https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq) | 3:22 | 2023-02-23 | 2024-03-13 |
 | [Southern Star](https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Southern Star](https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24) | 5:05 | 2024-06-27 |  |
 | [Stop Walking In The Rain](https://open.spotify.com/track/43rhjLzYcgSKqpDCZ4W8rw) | [MISTER & MRS](https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS) | [Stop Walking In The Rain](https://open.spotify.com/album/2VtOOyw4qRsdZVGtDCRScH) | 3:04 | 2024-10-03 | 2025-02-16 |
-| [Stranger's Lullaby](https://open.spotify.com/track/3CMg9ukW5Nahx6SOQADqne) | [Blanko](https://open.spotify.com/artist/2Dk2jkQQYILtFAG09Vjvux) | [Stranger's Lullaby](https://open.spotify.com/album/1DnadWVWWYsvX7emPoTllF) | 2:58 | 2025-05-22 |  |
+| [Stranger's Lullaby](https://open.spotify.com/track/3CMg9ukW5Nahx6SOQADqne) | [Blanko](https://open.spotify.com/artist/2Dk2jkQQYILtFAG09Vjvux) | [Stranger's Lullaby](https://open.spotify.com/album/1DnadWVWWYsvX7emPoTllF) | 2:58 | 2025-05-22 | 2025-06-27 |
 | [Streetcorner Hero](https://open.spotify.com/track/2ojmF50JPKFhUsSQHeCTfP) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Streetcorner Hero](https://open.spotify.com/album/4NKsexEU2O5L06mER89LOd) | 3:06 | 2024-07-25 | 2025-02-04 |
 | [Sugah Rush](https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Sugah Rush](https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm) | 2:40 | 2023-09-29 | 2025-05-28 |
 | [Sugar in the Tank](https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sugar in the Tank](https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar) | 3:42 | 2025-02-03 |  |

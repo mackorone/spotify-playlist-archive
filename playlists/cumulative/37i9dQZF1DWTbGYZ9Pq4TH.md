@@ -4,7 +4,7 @@
 
 > Le canzoni d'amore italiane più romantiche di sempre ❤️
 
-254 songs - 16 hr 23 min
+255 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Destri](https://open.spotify.com/track/0WBg2If3H9nN9RFl2xO2SZ) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Destri](https://open.spotify.com/album/6xIlY5dzwgDm4dVeTteILC) | 3:05 | 2021-09-26 | 2023-02-25 |
 | [Destri](https://open.spotify.com/track/7nRFsITVaSHko2Fw2Gcy59) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [OK](https://open.spotify.com/album/7eVkAghlrN31cqwiVvuCT0) | 3:05 | 2023-02-20 | 2024-04-19 |
 | [Domenica](https://open.spotify.com/track/2tVNMtgZ2CQpTx7vgcuTkL) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy) | 3:21 | 2021-09-26 | 2025-05-29 |
+| [Domenica](https://open.spotify.com/track/7qtE9zyA03AewO2GcRWVPA) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T) | 3:21 | 2025-05-28 |  |
 | [Dove e quando](https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Good Vibes](https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg) | 3:10 | 2021-09-26 |  |
 | [DUE ALTALENE](https://open.spotify.com/track/6m4z69VDQ7zB2JQzTeWNom) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [DUE ALTALENE](https://open.spotify.com/album/7EylvV3blFKLH2ZQDW6CWl) | 3:17 | 2024-06-25 | 2025-04-28 |
 | [Due Destini](https://open.spotify.com/track/2fJRnKGYgrjYArwgMYv8Wv) | [Tiromancino](https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5) | [La Descrizione Di Un Attimo](https://open.spotify.com/album/1LNHff1GCfPDzxoYpRpSHj) | 4:38 | 2021-09-26 | 2022-06-30 |
@@ -128,7 +129,7 @@
 | [La prima cosa bella](https://open.spotify.com/track/4VbK4kLSKzJ5sgsdZWmAJ9) | [Malika Ayane](https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5) | [Grovigli](https://open.spotify.com/album/2n64YwFYEsVx4cmKmFFDZW) | 3:37 | 2021-09-26 | 2022-07-29 |
 | [La Prima Volta](https://open.spotify.com/track/1Kfzmp5K4glWRKzsyQL9pI) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Amore Che Torni](https://open.spotify.com/album/1K4sRqrwNiPf51cjIDjc8J) | 3:58 | 2024-02-13 | 2024-04-03 |
 | [La prima volta](https://open.spotify.com/track/3kIxACxR2tDPtKCWWa16lq) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Amore che torni](https://open.spotify.com/album/3tG9l5R3MTk4hWUEHoPCYc) | 3:58 | 2021-09-26 | 2022-07-29 |
-| [La ragazza con il cuore di latta](https://open.spotify.com/track/0NmyHZZMfVBiUSOfDmz9Bf) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Giovani per sempre](https://open.spotify.com/album/3zV92qqfkqOO30bMkyoiKE) | 3:42 | 2024-02-13 |  |
+| [La ragazza con il cuore di latta](https://open.spotify.com/track/0NmyHZZMfVBiUSOfDmz9Bf) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Giovani per sempre](https://open.spotify.com/album/3zV92qqfkqOO30bMkyoiKE) | 3:42 | 2024-02-13 | 2025-06-27 |
 | [La stessa](https://open.spotify.com/track/0x7pHyBX8Ph2j4knBp1he9) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [La stessa](https://open.spotify.com/album/6CSM8IX1E61Sfh9uX6J5iU) | 3:45 | 2021-09-26 | 2022-06-29 |
 | [La storia infinita](https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:27 | 2021-09-26 |  |
 | [La tua canzone](https://open.spotify.com/track/17ctLiAYSfZkL8ksjtSchO) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T) | 3:12 | 2025-05-28 |  |

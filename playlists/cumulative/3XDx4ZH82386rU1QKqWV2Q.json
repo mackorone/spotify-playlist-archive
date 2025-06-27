@@ -3563,6 +3563,24 @@
     },
     {
       "album": {
+        "name": "Don't Mess With The Fire",
+        "url": "https://open.spotify.com/album/4FgD2SnL81w4MSReXxhXsV"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167621,
+      "name": "Don't Mess With The Fire",
+      "url": "https://open.spotify.com/track/1BFtsk36BEI4OZuylBirW3"
+    },
+    {
+      "album": {
         "name": "Arsenal EP",
         "url": "https://open.spotify.com/album/5KIB8Z5rzeWPi3KE1v1gk8"
       },
@@ -3878,7 +3896,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 104418,
       "name": "Embrace It",
       "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
@@ -4669,6 +4687,24 @@
     },
     {
       "album": {
+        "name": "FLEX",
+        "url": "https://open.spotify.com/album/5p6VJ9JaBeVucubJzTvri3"
+      },
+      "artists": [
+        {
+          "name": "THXNDER",
+          "url": "https://open.spotify.com/artist/1MywEWpHx2er6FPxYBephm"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "FLEX",
+      "url": "https://open.spotify.com/track/7KGZ1eLq6bKUUDhV7sqLlm"
+    },
+    {
+      "album": {
         "name": "Thank Myself",
         "url": "https://open.spotify.com/album/7sGLohKI1DTLK3cwzZRwG8"
       },
@@ -5076,7 +5112,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 253521,
       "name": "GANGSTAS",
       "url": "https://open.spotify.com/track/2nwt7Zy0lA1uK8mv8GBEoP"
@@ -5112,7 +5148,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 177189,
       "name": "Gaze",
       "url": "https://open.spotify.com/track/65HM1mEfjfuLZlsgUu64M8"
@@ -6080,7 +6116,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 174648,
       "name": "Hip Tropical",
       "url": "https://open.spotify.com/track/2uH0bEwYBUl5XXgg5mitgI"
@@ -6932,6 +6968,28 @@
       "duration_ms": 86506,
       "name": "It's okay to feel down",
       "url": "https://open.spotify.com/track/54yMNA6TlsBlSkhXYB2AUi"
+    },
+    {
+      "album": {
+        "name": "IV Hearts",
+        "url": "https://open.spotify.com/album/64Dp9H1jYyRgWAPnDl1ieg"
+      },
+      "artists": [
+        {
+          "name": "SyKo",
+          "url": "https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2"
+        },
+        {
+          "name": "qori.",
+          "url": "https://open.spotify.com/artist/7C8EeuCECRY3gIL5mNBppc"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142949,
+      "name": "IV Hearts",
+      "url": "https://open.spotify.com/track/2SccSQAPoK27nUg6nh5jRg"
     },
     {
       "album": {
@@ -8488,7 +8546,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 124283,
       "name": "meds.",
       "url": "https://open.spotify.com/track/0LjmSYBlNutmshhq9Pq4sr"
@@ -8782,7 +8840,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 93387,
       "name": "miss you a little.",
       "url": "https://open.spotify.com/track/0mkdduwha3MzU7aqCN9PEE"
@@ -8956,7 +9014,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 138260,
       "name": "MOON BONK",
       "url": "https://open.spotify.com/track/3eNkDLeVLYdPgoVcRvZkCw"
@@ -10776,7 +10834,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 172160,
       "name": "REBORN",
       "url": "https://open.spotify.com/track/2Yl9S2IamNW0hVmhClSYcp"
@@ -10794,7 +10852,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 152275,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/21cLg4Qhy6xSmYSgvAkqDA"
@@ -12522,7 +12580,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 180924,
       "name": "Sparkles",
       "url": "https://open.spotify.com/track/6cIu7LGwnDaQMmwznFJpDo"
@@ -13854,7 +13912,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 77538,
       "name": "unhinged",
       "url": "https://open.spotify.com/track/6zBGVU0ujMxmR9Yh0UPHkt"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 739 likes - 129 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 740 likes - 129 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 88 | [Are You Ready](https://open.spotify.com/track/2t5Kn4vb94PCv7RdMI5MuL) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Anna Abreu](https://open.spotify.com/album/44a95yxs0qAlbgxBcPi3f3) | 3:11 |
 | 89 | [Love You To Death](https://open.spotify.com/track/1pJq3eCDAf9z0hy7rcJjof) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:29 |
 | 90 | [Trust Myself \(feat\. Gallant\)](https://open.spotify.com/track/4toChdeQFhnq2hngxaOKvm) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Trust Myself \(feat\. Gallant\)](https://open.spotify.com/album/1GVE8WmZmTLYLmawzSmeWv) | 3:37 |
-| 91 | [Over & Out](https://open.spotify.com/track/36ZNcCYaeDPevPPruIZ6xS) | [Newton Faulkner](https://open.spotify.com/artist/0pf1lcBxh6HiiHQAIzhTI5) | [Rebuilt By Humans](https://open.spotify.com/album/6A8INtDOXLCgJCyCePFfSm) | 3:19 |
-| 92 | [Runaway Train \(feat\. RuthAnne\)](https://open.spotify.com/track/6wE4dMcWmaEvDcQGGjYHZc) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Runaway Train \(feat\. RuthAnne\)](https://open.spotify.com/album/4coGBdg0K0f6SSttAa4OXI) | 2:16 |
+| 91 | [Runaway Train \(feat\. RuthAnne\)](https://open.spotify.com/track/6wE4dMcWmaEvDcQGGjYHZc) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Runaway Train \(feat\. RuthAnne\)](https://open.spotify.com/album/4coGBdg0K0f6SSttAa4OXI) | 2:16 |
+| 92 | [Over & Out](https://open.spotify.com/track/36ZNcCYaeDPevPPruIZ6xS) | [Newton Faulkner](https://open.spotify.com/artist/0pf1lcBxh6HiiHQAIzhTI5) | [Rebuilt By Humans](https://open.spotify.com/album/6A8INtDOXLCgJCyCePFfSm) | 3:19 |
 | 93 | [World Still Turns](https://open.spotify.com/track/0eqt82y3bYXdkXpMeYOKyK) | [Devlin](https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68) | [bud, sweat & beers](https://open.spotify.com/album/4s90kMJuWDQNx2X6mHjm9Z) | 3:00 |
 | 94 | [Searching](https://open.spotify.com/track/18NWFWxhITcw2s6SNfbRlJ) | [Lost + Found](https://open.spotify.com/artist/5mRE8kKA1XzOkZpPSiF5yv) | [Searching](https://open.spotify.com/album/26tGOB7aNjpOYPBvYZwCe8) | 2:48 |
 | 95 | [Ghosted \- Zac Samuel Remix](https://open.spotify.com/track/1DCSbC1KGolxOh2jBKhBUC) | [Lost + Found](https://open.spotify.com/artist/5mRE8kKA1XzOkZpPSiF5yv), [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0) | [Ghosted \(Remixes\)](https://open.spotify.com/album/2s0Zp40uEuirxptvvuKtLQ) | 3:27 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 128 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha Lee](https://open.spotify.com/artist/3dT9AnyUKXdrXCzGsJjx7H) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 129 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `Ab1HVAAAAADewMLWSLCiL5hZw16xfirI`
+Snapshot ID: `Ab1NCAAAAACnxOvYywbpvBFehxSSTN1H`

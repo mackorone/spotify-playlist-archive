@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE8LjSfhK2S.md) - [plain]
 
 > He's back by popular demand...Listen to the music from Beverly Hills Cop: Axel F, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,903 likes - 29 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,907 likes - 29 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE8LjSfhK2S.md) - [plain]
 | 9 | [energy](https://open.spotify.com/track/0SWt9XzD4kOjzPJGt0nTAY) | [iZNiiK](https://open.spotify.com/artist/6jB9IkEbgX38EWUmDqLgmR) | [EP 3](https://open.spotify.com/album/1Hz8lcEdta6cqi7Smx5JXe) | 4:05 |
 | 10 | [Helen](https://open.spotify.com/track/49QulDfYu6yJilaX6BaRPV) | [Qasim Naqvi](https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D) | [Helen](https://open.spotify.com/album/5Yy7NYLptBuM0grySrkgkf) | 1:22 |
 | 11 | [Milkshake](https://open.spotify.com/track/4LmzPJDil70LpiApWfOI6O) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [The Hits](https://open.spotify.com/album/2pPNC9cSF3mhMZcT7t3iw7) | 3:02 |
-| 12 | [Do You Really \(Want My Love\)](https://open.spotify.com/track/3DqKxDLPcmbTdYv4TLC1Vo) | [Junior](https://open.spotify.com/artist/5g3B6vce2x5AGRetu3ViYv) | [The Best of Junior \- Mama Used to Say](https://open.spotify.com/album/5j1OAW5C9jqOls60eTaH2s) | 4:00 |
+| 12 | [Do You Really \(Want My Love\) \(Rerecorded\)](https://open.spotify.com/track/3DqKxDLPcmbTdYv4TLC1Vo) | [Junior](https://open.spotify.com/artist/5g3B6vce2x5AGRetu3ViYv) | [The Best of Junior \- Mama Used to Say \(Rerecorded Version\)](https://open.spotify.com/album/5j1OAW5C9jqOls60eTaH2s) | 4:00 |
 | 13 | [Stir It Up \- From "Beverly Hills Cop" Soundtrack](https://open.spotify.com/track/6MTfCWmGgxPxAT8ttAhnaU) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Patti LaBelle's Greatest Hits](https://open.spotify.com/album/12ENRe4Pw9qXVXz10nng3R) | 3:38 |
 | 14 | [Axel F](https://open.spotify.com/track/6fB7UGACHkBXoVjbjdppA0) | [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Richard Hilton](https://open.spotify.com/artist/6NBLO0BLeCN5AcqL20gUZi) | [Beverly Hills Cop III \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5aTdthxlvQO8SjFTN0AWE4) | 2:57 |
 | 15 | [The Place Where You Belong](https://open.spotify.com/track/3GkutMXAvzRXF4alDnLfpm) | [Shai](https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3) | [Beverly Hills Cop III \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5aTdthxlvQO8SjFTN0AWE4) | 4:22 |

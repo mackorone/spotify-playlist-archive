@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Queen of Tears\(눈물의 여왕\)\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,256 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,284 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 16 | [The way to lose you \(Inst.\)](https://open.spotify.com/track/3M67uOxfgPzOcpBVj92gSn) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [10CM X MY DEMON](https://open.spotify.com/album/75T4CuttGSiyjXZyKHvh3d) | 4:21 |
 | 17 | [Give You My Heart \(Inst.\)](https://open.spotify.com/track/5TDu5bIw976Qhkp5tWhpbH) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 |
 | 18 | [I WANNA KNOW \- Instrumental](https://open.spotify.com/track/7FylkkBopzdD6eyK0NC0rF) | [ZHANG HAO](https://open.spotify.com/artist/19Vc3zeXWnOUUsAYiXgjCX) | [EXchange3, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/0IgxB341S7p4sTGH29uTg4) | 2:44 |
-| 19 | [Nevertheless \- Instrumental](https://open.spotify.com/track/6R48opWMUfBcb1TNuN21wR) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Nevertheless, \(Original Television Sound Track, Pt\. 2\)](https://open.spotify.com/album/5TQex521jmVvoNG9FHi0Zo) | 3:32 |
-| 20 | [Butterfly \- Instrumental](https://open.spotify.com/track/3J4AXtGxqaVg9A9RihPdbd) | [JUNHA PARK](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Nevertheless, \(Original Drama Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4HevCYW0zYM4luVtmXWFNy) | 3:14 |
+| 19 | [Butterfly \- Instrumental](https://open.spotify.com/track/3J4AXtGxqaVg9A9RihPdbd) | [JUNHA PARK](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Nevertheless, \(Original Drama Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4HevCYW0zYM4luVtmXWFNy) | 3:14 |
+| 20 | [Nevertheless \- Instrumental](https://open.spotify.com/track/6R48opWMUfBcb1TNuN21wR) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Nevertheless, \(Original Television Sound Track, Pt\. 2\)](https://open.spotify.com/album/5TQex521jmVvoNG9FHi0Zo) | 3:32 |
 | 21 | [Wish \- Instrumental](https://open.spotify.com/track/3jxYOo3LSBsJjv1GYvNJpi) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Guardian \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/2taCIMO9i00u0euzw9av9h) | 3:56 |
 | 22 | [Wishes \- Instrumental](https://open.spotify.com/track/4juTgLIgRUGofcqA5JgKJi) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Snowdrop \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2rR3MvjhEL8Cd0IauUCZTg) | 3:59 |
 | 23 | [Stardust love song \(Inst.\)](https://open.spotify.com/track/3Sd6eeuWD0nRikKMaGFFtJ) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Twenty\-Five Twenty\-One OST Part 6](https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3) | 4:11 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 47 | [Melting \- Inst.](https://open.spotify.com/track/5zx2UcgNu7CIpczUCgYghY) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/3Rble1wgbwvGEqvpOaZ63b) | 3:06 |
 | 48 | [Did you wake up? \(one and only romance X Hello Ga\-Young, WONPIL\(DAY6\)\) \(Inst.\)](https://open.spotify.com/track/0zsXqqadMTxZItJZeQcNIz) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Did you wake up? \(one and only romance X Hello Ga\-Young, WONPIL\(DAY6\)\)](https://open.spotify.com/album/3LKDYgN60NINDo6HBynrq0) | 3:19 |
 | 49 | [Cloud \- Instrumental](https://open.spotify.com/track/4fInoTsJPZR6gU0H3OpJf5) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [The Beauty Inside Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4XZOS3rxwwrG4EVDJ3LdLf) | 3:03 |
-| 50 | [Shine On You \- Instrumental](https://open.spotify.com/track/5YulRNwiJWA0XbTr08D5fx) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Record of Youth \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/0RXkfsaEQIeOyAfC5Im2hY) | 4:30 |
+| 50 | [All Night Long \(She is My Type♡ X Car, the garden\) \(Inst.\)](https://open.spotify.com/track/1PPsrKwN648zNLcDyVHZVG) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm) | 3:19 |
 
 Snapshot ID: `ZgQzhQAAAACz6Wi4FQtkFm/7ZlCaYEJc`

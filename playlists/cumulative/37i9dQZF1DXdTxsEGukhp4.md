@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 紫 今
 
-512 songs - 1 day 5 hr 11 min
+513 songs - 1 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [そんな人生を堪能したい](https://open.spotify.com/track/0dj1xrFO8n4Ln4iU1cnOlr) | [虎鷹](https://open.spotify.com/artist/3tYCVKXyZ05qXTvYNmt9ou) | [そんな人生を堪能したい](https://open.spotify.com/album/5vJmr7z9UoxG5p0UpuKSq5) | 3:54 | 2023-10-05 | 2024-04-26 |
 | [ただそれだけのことがさ](https://open.spotify.com/track/3B6vc2GvuGBmoNESYzpkze) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ただそれだけのことがさ](https://open.spotify.com/album/2xO7qPcley2aBcIy0Lf6mK) | 4:13 | 2023-04-27 | 2023-05-26 |
 | [ため息](https://open.spotify.com/track/68dzvMqn6qNTbLDIJ0levZ) | [東京、君がいない街](https://open.spotify.com/artist/2f6Qo8o3wF0ZEpHaMt6Cal) | [23春](https://open.spotify.com/album/1KGEUbiIrHnuN18SQ9LKOF) | 1:03 | 2024-04-18 | 2024-05-01 |
+| [だけど僕は](https://open.spotify.com/track/3kenAyozcSKh83nRsaGqru) | [Gesu No Kiwami Otome](https://open.spotify.com/artist/1ieluXFoq2RRxMXZIQksTz) | [猟奇的なキスを私にして](https://open.spotify.com/album/5Qy4KEySDLkh5xnRK325D5) | 3:07 | 2025-06-26 |  |
 | [ちゅ、多様性。](https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [ちゅ、多様性。](https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x) | 3:05 | 2023-01-26 | 2023-06-23 |
 | [つよがるガール](https://open.spotify.com/track/3GxZpsOr0vFZfU30PYULgU) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo), [もっさ](https://open.spotify.com/artist/7a7uhcdZvYg4IGcD9tUB3g) | [つよがるガール](https://open.spotify.com/album/2udxqBTrnKaqPzRLzC5w9K) | 3:09 | 2024-08-01 | 2024-09-02 |
 | [どうでもいい話がしたい](https://open.spotify.com/track/2XSRtBSiJK1MpJrIGizsBF) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [どうでもいい話がしたい](https://open.spotify.com/album/4eLTAkwR2aCbADYfSRBwlS) | 3:21 | 2024-04-18 | 2024-04-26 |
@@ -401,7 +402,7 @@
 | [ハピチョコ](https://open.spotify.com/track/77iP0sExSNCUd6D33YLnXu) | [FRUITS ZIPPER](https://open.spotify.com/artist/4v5IVXt3oH0iNuxW9O36BV) | [ハピチョコ](https://open.spotify.com/album/6YuRTXMTLyw27w13yU9UPy) | 4:01 | 2023-02-09 | 2023-03-31 |
 | [バズ恋 \(BUZZ LOVE\)](https://open.spotify.com/track/1d7qKfnqojJoZ4W0xvH9AY) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : ME](https://open.spotify.com/album/3jqV1FFra3A2179rdtiNdo) | 3:11 | 2023-01-26 | 2023-02-02 |
 | [バナナボート \(feat\. Elle Teresa\)](https://open.spotify.com/track/4QixHRVeMuE10nZ42DyzPD) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [激アツ](https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl) | 2:42 | 2025-04-03 | 2025-06-13 |
-| [バレンタイン決戦 \- Sped Up](https://open.spotify.com/track/2jAcF1P6jVhHo5ApALkoQC) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [バレンタイン決戦](https://open.spotify.com/album/7cIIvrxI6MPsrdzo2gB1S7) | 2:54 | 2025-02-20 |  |
+| [バレンタイン決戦 \- Sped Up](https://open.spotify.com/track/2jAcF1P6jVhHo5ApALkoQC) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [バレンタイン決戦](https://open.spotify.com/album/7cIIvrxI6MPsrdzo2gB1S7) | 2:54 | 2025-02-20 | 2025-06-27 |
 | [バービーギャル!!](https://open.spotify.com/track/74DQoWIJNeRqo42fj4JjNr) | [PAIN](https://open.spotify.com/artist/3KaeBQyUIIn9LWaAn9kkG0), [PIEC3 POPPO](https://open.spotify.com/artist/0MGvVcbeJWxtEdx1IxcO1X) | [バービーギャル!!](https://open.spotify.com/album/7gvsEKyLF7ekWeK0bmW5Wk) | 2:02 | 2024-09-19 | 2024-12-06 |
 | [パイパイ仮面でどうかしらん？](https://open.spotify.com/track/7iCS0o1iK0gs9PDRqIfVls) | [宝鐘マリン](https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk) | [パイパイ仮面でどうかしらん？](https://open.spotify.com/album/3bo99qytJ9NlbYNxRfVacG) | 4:51 | 2024-10-10 | 2025-02-14 |
 | [ビジュがレベチ](https://open.spotify.com/track/7vi2Wh16kaoy9MXTa7V7hP) | [anna calla](https://open.spotify.com/artist/5Kjfw00jyKFzU8IwAmwAy0) | [ビジュがレベチ](https://open.spotify.com/album/3hXsYOcrMxpvmd7nt1VKHw) | 3:10 | 2025-05-08 |  |

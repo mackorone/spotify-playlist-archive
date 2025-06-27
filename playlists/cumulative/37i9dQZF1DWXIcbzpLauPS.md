@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Killswitch Engage
 
-1,262 songs - 3 day 5 hr 23 min
+1,263 songs - 3 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Aeons of Oblivion](https://open.spotify.com/track/6HcXTUJEOpTbiCPyGtU1sA) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Adam Warren](https://open.spotify.com/artist/7COUdKrNnwWJGxif3XxLDr) | [Aeons of Oblivion](https://open.spotify.com/album/2qplxtai1BdGPrjIjUo1Hr) | 3:41 | 2022-07-13 | 2022-07-23 |
 | [Afterimage \(feat\. Ian Kenny, Karnivool\)](https://open.spotify.com/track/1MHCrrThxRZaWLNDo7bEjC) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Afterimage \(feat\. Ian Kenny, Karnivool\)](https://open.spotify.com/album/5DPtedtBLcjXS2skojck70) | 4:14 | 2024-03-08 | 2025-04-26 |
 | [Aira](https://open.spotify.com/track/3AQ9qXLY9FsXin9SpZ9H2c) | [Solitaris](https://open.spotify.com/artist/3FsxQTz4NBLf2ABqDIghzM) | [Aira](https://open.spotify.com/album/2o71ejnhNl0xXz0KTHuqZs) | 2:29 | 2024-11-22 | 2024-12-19 |
+| [Alchemical](https://open.spotify.com/track/6VbWEo0DX1ZrRFBLUBYVxu) | [Jamie's Elsewhere](https://open.spotify.com/artist/2mJ7eHB7MKBYzxt0TC2NZ0) | [Alchemical](https://open.spotify.com/album/23AtBDKFqx8N9iU9FpVrsH) | 3:24 | 2025-06-20 |  |
 | [Alien](https://open.spotify.com/track/68jpsRP9mKCcgCcf7j5wwF) | [Caliban](https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL) | [Dystopia](https://open.spotify.com/album/2PGnrN0ACDEByVDGj1wNHL) | 3:34 | 2022-04-22 | 2022-07-01 |
 | [Alien Skin](https://open.spotify.com/track/4St2IFIdSw38TsHKXFs9wX) | [Daedric](https://open.spotify.com/artist/7bPZIHM9End5CqPcCrOqBf) | [Alien Skin](https://open.spotify.com/album/3pWMkkZtYJDtJGD3ee92mS) | 3:36 | 2025-06-06 |  |
 | [Alive](https://open.spotify.com/track/6PiXGMP8INLluk86wUoGt2) | [Solitaris](https://open.spotify.com/artist/3FsxQTz4NBLf2ABqDIghzM) | [Alive](https://open.spotify.com/album/7imjw43mx7csgzKzNF0Bsa) | 2:52 | 2022-07-13 | 2022-07-19 |
@@ -1001,7 +1002,7 @@
 | [Something In The Way](https://open.spotify.com/track/3V28Eb87Y8du002uxsxUDn) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [Something In The Way](https://open.spotify.com/album/1ZyprDf0216EbtcBS48cjz) | 3:39 | 2025-03-31 | 2025-04-26 |
 | [Song 3](https://open.spotify.com/track/7eDUTBIo76AMC5UYqkkzDL) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Song 3](https://open.spotify.com/album/0Cxa2LwLEBIpVglPWwiias) | 3:34 | 2025-05-30 |  |
 | [Soul Chasm](https://open.spotify.com/track/66fCFGrX5XQD69VumC1sZA) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Soul Chasm](https://open.spotify.com/album/4zkhWlE1kPQbgd4qJPxOUA) | 3:24 | 2023-11-27 | 2024-06-05 |
-| [Soul Drown](https://open.spotify.com/track/0eKzIDG9gSnnwfT6ZoCeHB) | [As The Structure Fails](https://open.spotify.com/artist/12A5ksM0yYvX6ULrJmIvQN) | [Soul Drown](https://open.spotify.com/album/3AZRPLiZlufomxOHGYAkNk) | 2:44 | 2025-05-23 |  |
+| [Soul Drown](https://open.spotify.com/track/0eKzIDG9gSnnwfT6ZoCeHB) | [As The Structure Fails](https://open.spotify.com/artist/12A5ksM0yYvX6ULrJmIvQN) | [Soul Drown](https://open.spotify.com/album/3AZRPLiZlufomxOHGYAkNk) | 2:44 | 2025-05-23 | 2025-06-27 |
 | [Souls Devoured](https://open.spotify.com/track/74Z3FMsY0mXzN8MpkXcvB7) | [Shadows Fall](https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0) | [Souls Devoured](https://open.spotify.com/album/56sumLuEYimoOtQb1KKnWr) | 4:15 | 2025-05-02 | 2025-06-13 |
 | [SOWHAT1999](https://open.spotify.com/track/2YkYYob6zFTXzcjLv2mg9q) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [ODDWORLD](https://open.spotify.com/album/5RrM7e9rjhJIom1673RnRF) | 3:00 | 2024-11-22 | 2025-02-22 |
 | [Spaceman \(feat\. FiNCH\)](https://open.spotify.com/track/6OXlb1FnbySxMPPhbwiXic) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Spaceman \(feat\. FiNCH\)](https://open.spotify.com/album/5bbrawfeXG2MHOYw0OSTyK) | 3:10 | 2022-04-08 | 2022-07-22 |

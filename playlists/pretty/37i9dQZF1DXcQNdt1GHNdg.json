@@ -1,6 +1,6 @@
 {
   "description": "Pump up your adrenaline with Punjabi hits!",
-  "num_followers": 184256,
+  "num_followers": 184627,
   "original_name": "Punjabi Pump",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "aFylBwAAAAC+RHUSkafDWrl2i2Q5iaBP",
   "tracks": [
+    {
+      "added_at": "2025-06-26 01:40:22",
+      "album": {
+        "name": "At Peace",
+        "url": "https://open.spotify.com/album/0BPCmxmfJM9Msh8MwT0eEL"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "duration_ms": 164042,
+      "name": "At Peace",
+      "url": "https://open.spotify.com/track/1Ae2O8GhTe5KiDrrurzm41"
+    },
     {
       "added_at": "2025-06-26 01:40:22",
       "album": {

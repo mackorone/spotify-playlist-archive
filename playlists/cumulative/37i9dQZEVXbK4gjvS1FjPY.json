@@ -696,7 +696,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR"
@@ -8472,10 +8472,28 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 180353,
       "name": "FAMOUS",
       "url": "https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA"
+    },
+    {
+      "album": {
+        "name": "FAMOUS",
+        "url": "https://open.spotify.com/album/4j4GhnVPaa3uQFD0LX3sbx"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/6qgyV1yYLRAuK6UfDPKmOs"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188778,
+      "name": "FAMOUS",
+      "url": "https://open.spotify.com/track/0AQEShePVSsxMTM6a8ik6t"
     },
     {
       "album": {
@@ -9345,7 +9363,7 @@
         },
         {
           "name": "Jinu",
-          "url": "https://open.spotify.com/artist/6VQpkpIih4pQKoC5ErCBd6"
+          "url": "https://open.spotify.com/artist/0rIiNDJUesrgFPkYesJmKl"
         },
         {
           "name": "EJAE",
@@ -17922,7 +17940,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-26",
+      "date_removed": null,
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
@@ -23478,7 +23496,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 247160,
       "name": "Something Just Like This",
       "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
@@ -28752,6 +28770,24 @@
       "duration_ms": 165748,
       "name": "We got so much",
       "url": "https://open.spotify.com/track/5fCKBIJ7BwaCpxxwZCbS5X"
+    },
+    {
+      "album": {
+        "name": "we never dated",
+        "url": "https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196931,
+      "name": "we never dated",
+      "url": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
     },
     {
       "album": {

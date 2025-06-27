@@ -2423,6 +2423,28 @@
     },
     {
       "album": {
+        "name": "Cash Out",
+        "url": "https://open.spotify.com/album/3JijfF3CowsE5EUUmQQftR"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Bobby Shmurda",
+          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182225,
+      "name": "Cash Out",
+      "url": "https://open.spotify.com/track/7qHSfKzilTsXJuuWcjX1vZ"
+    },
+    {
+      "album": {
         "name": "Caught A Body (with Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
       },
@@ -6820,7 +6842,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 175113,
       "name": "house in the streetlight",
       "url": "https://open.spotify.com/track/2oKH22tSUiqdjDSUhnWz0t"

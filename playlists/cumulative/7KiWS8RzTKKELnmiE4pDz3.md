@@ -4,7 +4,7 @@
 
 > 
 
-1,061 songs - 2 day 5 hr 2 min
+1,063 songs - 2 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [FOMDJ](https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:20 | 2025-06-01 |  |
 | [Fools Gold](https://open.spotify.com/track/3GrmuJIlhZs8O6SpVhR8yx) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Bars Mitzvah](https://open.spotify.com/album/3Fc5H7NJ2V8SNrUHnpBvV2) | 2:55 | 2025-06-18 |  |
 | [For Da Flex](https://open.spotify.com/track/1U2XsDhee3a0uJayBKA6dy) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Flex Musix](https://open.spotify.com/album/075lV4wdtLwFvIvCUdSYhL) | 1:57 | 2023-12-08 |  |
+| [Forever Eva](https://open.spotify.com/track/2RBhWftEVVxY2J1AHWh5su) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Beast Mode](https://open.spotify.com/album/02Mp4Q83TVhpe8VeCpMZjZ) | 3:36 | 2025-06-26 |  |
 | [Forget Me Nots \- Remastered](https://open.spotify.com/track/5ERZGchTi6sysVmA913Ryx) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 4:44 | 2025-06-03 |  |
 | [Forëally / 4Ly](https://open.spotify.com/track/1aztkqMhtL4XSuGASmEeCo) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/26LsyqIbRQJzO1TPE5icl2) | 3:11 | 2024-03-04 | 2024-04-24 |
 | [Foux \(feat\. Ab\-Soul\)](https://open.spotify.com/track/6UqgBwNMKmhjDuN0OcVJA0) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 4:41 | 2024-03-04 | 2024-11-06 |
@@ -583,6 +584,7 @@
 | [Money Piling](https://open.spotify.com/track/5uqwEl9dOaplxosHJuUH8t) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Mr\. Davis](https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ) | 2:56 | 2025-02-22 |  |
 | [Money Twërk](https://open.spotify.com/track/29Z5qdYEYNFxly8n6Dt7kp) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 2:19 | 2022-08-26 | 2023-12-14 |
 | [Moneybags](https://open.spotify.com/track/75wojwz55E8iWfUHreFEg8) | [Larry League](https://open.spotify.com/artist/1s2VYzJ4Z4vFnp2yLYaLQe), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb), [RichPoSlim](https://open.spotify.com/artist/2qY9jco1b25sKtNR3u8K8f) | [Dirty Dingy](https://open.spotify.com/album/2T9pnP03f4v6XMVb1VAJcT) | 3:36 | 2024-02-22 | 2024-11-06 |
+| [Monks](https://open.spotify.com/track/0msrDPXxZpts4FRnoX0bFr) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 | 2025-06-26 |  |
 | [Montego Slay](https://open.spotify.com/track/6WBzCRqjK96aKBvKiIyiZO) | [People Under The Stairs](https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh) | [Acid Raindrops](https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo) | 3:58 | 2024-07-29 | 2024-11-06 |
 | [More Motions](https://open.spotify.com/track/0X8zrNBc4gHbONk7pwLRs6) | [Summrs Vault](https://open.spotify.com/artist/1U6kpZ2mr1ikdfTjRYpI0D) | [More Motions](https://open.spotify.com/album/5vFWVuAPayG2OJV6kt980Z) | 2:12 | 2025-05-16 |  |
 | [Movie](https://open.spotify.com/track/56nMxD5Hz0gI2E1lDmC0kk) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W), [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [3vil Reflection](https://open.spotify.com/album/17DbwNYaf8YjmLXSwiKG3M) | 2:16 | 2025-05-08 |  |

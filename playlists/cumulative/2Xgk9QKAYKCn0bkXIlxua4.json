@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "A Jaguar's Dream",
+        "url": "https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "305",
+      "url": "https://open.spotify.com/track/494f07w2ArJNlkwnWWZViK"
+    },
+    {
+      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
       },

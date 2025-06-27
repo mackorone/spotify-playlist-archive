@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,444 songs - 3 day 11 hr 20 min
+1,445 songs - 3 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,7 +522,7 @@
 | [Helium](https://open.spotify.com/track/4F6l1g7UMasHnEgzrRP9e5) | [Maryn](https://open.spotify.com/artist/4H4iHbG7nopmzvkwsglVkM), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Helium](https://open.spotify.com/album/6X5lWXIfJG8ty2jpXEFldJ) | 3:11 | 2023-06-16 | 2025-01-18 |
 | [Help Me Lose My Mind](https://open.spotify.com/track/0yKlFaSKtA5wdF8pWgyoo1) | [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc) | [Help Me Lose My Mind](https://open.spotify.com/album/5QF6Mk1pJl9H5mikpQNtpa) | 2:52 | 2024-11-29 |  |
 | [Here](https://open.spotify.com/track/1rAlHGfpnHz3kF2WwLGXw6) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa) | [Here](https://open.spotify.com/album/4hQ3OP8m5ZIV7IlqfSiwmC) | 3:14 | 2021-09-25 | 2022-05-14 |
-| [Here By Now \(feat\. Lilly Ahlberg\)](https://open.spotify.com/track/6LXoxSbn5NB07w0QqvbeNJ) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Here By Now \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/3qmMgA7FVycxNIkZsn4gMG) | 3:31 | 2024-05-31 |  |
+| [Here By Now \(feat\. Lilly Ahlberg\)](https://open.spotify.com/track/6LXoxSbn5NB07w0QqvbeNJ) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Here By Now \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/3qmMgA7FVycxNIkZsn4gMG) | 3:31 | 2024-05-31 | 2025-06-27 |
 | [Here For You \(feat\. sad alex\)](https://open.spotify.com/track/3PIjrbCjKKNmR84vPf172R) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [For You](https://open.spotify.com/album/7rcgjzm6DOL7GiHws7Gmb3) | 2:47 | 2019-08-09\* | 2020-03-29 |
 | [Here With Me](https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Here With Me](https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd) | 2:36 | 2019-08-20 | 2020-10-30 |
 | [Here With Me \(feat\. Nevve\)](https://open.spotify.com/track/14BmGOdWFMkxiyQ7f4s03L) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Here With Me \(feat\. Nevve\)](https://open.spotify.com/album/4cBVizWVamVwH4v5g6zTto) | 3:25 | 2020-02-21 | 2021-09-25 |
@@ -909,6 +909,7 @@
 | [Nobody \(feat\. PollyAnna\)](https://open.spotify.com/track/6JVJveEV6OIdHNQ7byExRh) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [HiROQUEST: Genesis](https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg) | 3:01 | 2022-09-30 | 2023-09-10 |
 | [Nobody Compares To You \(feat\. Katie Pearlman\)](https://open.spotify.com/track/17ejRbr6B8l9zdqgCZsn4m) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Gravity](https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75) | 3:51 | 2020-03-29 | 2021-09-11 |
 | [Nobody Compares To You \(feat\. Katie Pearlman\)](https://open.spotify.com/track/2Un9MGFwpGdGU9yl9KOvXx) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Gravity Pt\. 1](https://open.spotify.com/album/4VOj6KgAaOqAUS9bp6z6jp) | 3:51 | 2019-08-09\* | 2020-03-29 |
+| [north star](https://open.spotify.com/track/4RjJWMbeijZfnLlkpHVqQX) | [glittr](https://open.spotify.com/artist/2a5e4bQS4bNov080O3zTFJ), [sunbreather](https://open.spotify.com/artist/7G1VXGABzXWI1DEZ8iDImS) | [north star](https://open.spotify.com/album/09rlM00CJL0s1Er5PJifP8) | 3:41 | 2025-06-13 |  |
 | [not givin up on love](https://open.spotify.com/track/1lyTccAApsKxAIXIvs8j0R) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp), [SUNDROME](https://open.spotify.com/artist/58LZzidRTK7yRFgxr7J3MP) | [not givin up on love](https://open.spotify.com/album/7ejHr5olbURJYlxnbbd3AH) | 3:54 | 2024-07-02 | 2025-02-15 |
 | [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 | 2024-03-15 |  |
 | [Not Like Them](https://open.spotify.com/track/3YszuC9hP35EXZNAeAEiEq) | [DJ Mayson](https://open.spotify.com/artist/0yfPh6KmtnI0XLwu1oh1hP) | [Not Like Them](https://open.spotify.com/album/1xM9hGk3ltzwIsyFLQwI3v) | 3:41 | 2019-08-09\* | 2020-03-29 |

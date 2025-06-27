@@ -2,9 +2,9 @@
 
 ### [HOTPOP](https://open.spotify.com/playlist/37i9dQZF1DXcklpCH5705e)
 
-> Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: G.E.M\. 鄧紫棋
+> Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Tyson Yoshi
 
-207 songs - 13 hr 38 min
+210 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Crazy for you](https://open.spotify.com/track/4PKWGR4LoNll7GXII66Cjn) | [sino R fine](https://open.spotify.com/artist/7sMfrVvoWbVIeLKkn9cxoO) | [Crazy for you](https://open.spotify.com/album/4ZwDbtFEE7G6zcowuWTBzx) | 3:50 | 2022-03-10 | 2023-02-03 |
 | [Destiny](https://open.spotify.com/track/4JB289q4SM1ZypASnGvg75) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [Jirisan \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/2y71iGGq3MxDcshtswRaWY) | 3:37 | 2022-03-10 | 2022-07-29 |
 | [Destiny](https://open.spotify.com/track/5kX6Y5BBThQoqN3P0eLPlR) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [Jirisan \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/4L4zlnoYjdovofJDu8oRSE) | 3:37 | 2022-03-10 | 2023-02-03 |
+| [DIY](https://open.spotify.com/track/396C5MhxOw8DYPQwmvahe7) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [DIY](https://open.spotify.com/album/1OPQJNIhyAS8tGOe7nyy2b) | 3:04 | 2025-06-26 |  |
 | [Drive My Car](https://open.spotify.com/track/2tFwftU9bB8WIS1spfZPIf) | [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Drive My Car Original Soundtrack](https://open.spotify.com/album/5UX8iI2DhriBFsAJ7Hz8lM) | 5:04 | 2022-03-10 | 2023-02-03 |
 | [Falling](https://open.spotify.com/track/42YkFuZwQnlvxjvsGjNy0X) | [Kim Jong Wan](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Jirisan \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/0oGqo4x9KW38VsW65vwzIc) | 4:00 | 2022-03-10 | 2022-07-29 |
 | [Falling](https://open.spotify.com/track/2ZT0lkRQIl0SX3v5S8NpoS) | [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Jirisan \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/6d5Kzy3fo9Mk5iA7eZ4tGl) | 4:00 | 2022-03-10 | 2023-02-03 |
@@ -28,9 +29,11 @@
 | [Hey Girl \- Netflix影集《影后》片尾曲](https://open.spotify.com/track/2kLuVbzpjnRAOwaTnp7C2J) | [小男孩樂團](https://open.spotify.com/artist/4N9mUjAWoNCkLN0kCxzaL5) | [Hey Girl \(Netflix影集《影后》片尾曲\)](https://open.spotify.com/album/0zjat7kW5egfijiLoWZ43j) | 3:50 | 2025-04-03 |  |
 | [Is It Still Beautiful \- Drama Version](https://open.spotify.com/track/2DiqAs6DCPEtubPIxlNjhk) | [Mido and Falasol](https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq) | [HOSPITAL PLAYLIST Season2 \(Original Television Soundtrack\)](https://open.spotify.com/album/46NPb9fH3T2zU2hsy1N0g3) | 4:19 | 2022-03-10 | 2023-02-03 |
 | [Jumping Machine \(跳楼机\)](https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [Jumping Machine \(跳楼机\)](https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM) | 3:21 | 2025-04-03 |  |
+| [Jumping Machine跳楼机 \- with Tyson Yoshi](https://open.spotify.com/track/0R3Gc2vLh5XFSWeU1r6wYY) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [Jumping Machine跳樓機 \(with Tyson Yoshi\)](https://open.spotify.com/album/1cDrpSotPL2IRtKAe4xHkO) | 3:25 | 2025-06-26 |  |
 | [Just Look Up \(From Don’t Look Up\)](https://open.spotify.com/track/3QPBocWfIcOCdFFvmqn60F) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Just Look Up \(From Don’t Look Up\)](https://open.spotify.com/album/1geA7d12ed5LXsBns7ONB4) | 3:21 | 2022-03-10 | 2023-02-03 |
 | [Last One Standing \(feat\. Polo G, Mozzy & Eminem\) \- From Venom: Let There Be Carnage](https://open.spotify.com/track/5W8HXMOMLtXLz0RGKUtnlZ) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Last One Standing \(feat\. Polo G, Mozzy & Eminem\) \[From Venom: Let There Be Carnage\]](https://open.spotify.com/album/2ZaFqYD9a3U6qJhyS2LDRf) | 4:17 | 2022-03-10 | 2023-02-03 |
 | [My Dear（电视剧《难哄》重逢曲）](https://open.spotify.com/track/3Xmq8F4nfVBd0hgJWiBush) | [張洢豪](https://open.spotify.com/artist/5kzjeV6bqyVmLPQfx5kfL1) | [电视剧《难哄》影视原声带·只喜欢你Love Moments](https://open.spotify.com/album/7hcotSWQZpoxnAmA04vCOr) | 4:03 | 2025-04-03 |  |
+| [my light](https://open.spotify.com/track/6Tz1omWIrOk7Ly9SOG69l3) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [my light](https://open.spotify.com/album/17VOoXeticR0qLGOoplBTz) | 3:18 | 2025-06-26 |  |
 | [Nevertheless](https://open.spotify.com/track/6fG9JVdUx4Ttks3tDwQMRs) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Nevertheless, \(Original Television Sound Track, Pt\. 2\)](https://open.spotify.com/album/5TQex521jmVvoNG9FHi0Zo) | 3:32 | 2022-03-10 | 2023-02-03 |
 | [No Time To Die](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [No Time To Die](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) | 4:02 | 2022-03-10 | 2023-02-03 |
 | [O.O](https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:52 | 2022-03-10 | 2023-02-03 |

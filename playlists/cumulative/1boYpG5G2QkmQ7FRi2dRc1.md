@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-2,425 songs - 6 day 4 hr 38 min
+2,426 songs - 6 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1616,6 +1616,7 @@
 | [Payday](https://open.spotify.com/track/4gpOjiawQcmFqRSwtp7Ppt) | [Aguava](https://open.spotify.com/artist/2va26iLf6XkexHsCnKWOid), [majestic](https://open.spotify.com/artist/5pfrwvctp6ywcc9a0C1cwH) | [Payday](https://open.spotify.com/album/3GZR4EhYtJT2u13WWAb82b) | 4:01 | 2023-06-30 | 2023-07-08 |
 | [Peace](https://open.spotify.com/track/4LnptvZdn9cjDYBO2yFMlI) | [Ceci](https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4) | [Peace](https://open.spotify.com/album/6uNeETpQNdEyPqB8TBikUy) | 2:49 | 2023-04-21 | 2023-04-29 |
 | [Peace & Blessings \(feat\. Arnold Jarvis\)](https://open.spotify.com/track/2JY5zfH20OUEKrl7m1B26p) | [Joseph Capriati](https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf), [Arnold Jarvis](https://open.spotify.com/artist/7KWmHJx8szSRWhzUHluYC5) | [Peace & Blessings \(feat\. Arnold Jarvis\)](https://open.spotify.com/album/3O6fuITkuS10FOAA1OzS2c) | 4:33 | 2024-05-25 | 2024-07-13 |
+| [Peace Of Mind](https://open.spotify.com/track/1Ju9Tb5R1vsUu1Ir8sO6vX) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Citadelle](https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8) | [Peace Of Mind](https://open.spotify.com/album/22V3MT04FxMnr8RxzhbIve) | 2:28 | 2025-06-26 |  |
 | [Peaces \(2013 Archive\)](https://open.spotify.com/track/6F5HBAZVVigueSH4irTJ4k) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Music For The Uninvited \(10 Year Anniversary\)](https://open.spotify.com/album/0XgEABVNkID09NOh1bG4n9) | 5:19 | 2024-07-12 | 2024-07-20 |
 | [Peach](https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Peach](https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh) | 5:45 | 2023-03-31 | 2023-04-15 |
 | [Peach \- Thys Remix](https://open.spotify.com/track/0Jc6RAqy8fgsPgUwRfSySE) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR) | [Peach Remixes](https://open.spotify.com/album/4bOaqD7xJbdO1QOSjszZ1g) | 5:28 | 2023-09-22 | 2023-09-30 |

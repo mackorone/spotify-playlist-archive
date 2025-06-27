@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,227 likes - 100 songs - 5 hr 6 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,224 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 89 | [All My Friends \- Eden Prince Remix](https://open.spotify.com/track/5WaXMQMlQpq8pwIdaFP43L) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [All My Friends \(Eden Prince Remix\)](https://open.spotify.com/album/4lXBBbiEgwTzcfAkqdXJV1) | 2:53 |
 | 90 | [Hands Up](https://open.spotify.com/track/25qhCdtNV7jCiAbcxFxZgx) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU) | [Hands Up](https://open.spotify.com/album/70wX919JuPiZprpB6qZYOs) | 2:50 |
 | 91 | [More Than Friends](https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [More Than Friends](https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M) | 2:20 |
-| 92 | [Comes Down](https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd) | [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Comes Down](https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP) | 2:21 |
+| 92 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 |
 | 93 | [Comes Down](https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd) | [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Comes Down](https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP) | 2:21 |
-| 94 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 |
+| 94 | [Comes Down](https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd) | [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Comes Down](https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP) | 2:21 |
 | 95 | [Another Day In Paradise](https://open.spotify.com/track/0HjogmklU56Soh2HNhbWer) | [House Arrest](https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6), [Bikini Bandits](https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr), [Lumin8](https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp) | [Another Day In Paradise](https://open.spotify.com/album/46qdwgGcHUVjHFvGuq9Ld8) | 2:07 |
 | 96 | [To Die For \- Madism Remix](https://open.spotify.com/track/0lV1nrpDhrDtCQNsnjIr3v) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [To Die For \(Madism Remix\)](https://open.spotify.com/album/3xJHO62lLfAXbOu4t1z14c) | 2:41 |
 | 97 | [Torn](https://open.spotify.com/track/6IrZcWFFvMF0UzUKyeUpwn) | [Bikini Bandits](https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr), [Lumin8](https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp), [Evan Cole](https://open.spotify.com/artist/1xmWaOWc9DJRJYZvWPG6vO) | [Torn](https://open.spotify.com/album/6ufrnLeCiplvdCyV5oNLxl) | 2:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 99 | [I Wouldn't Know](https://open.spotify.com/track/2UobzZv0qAgAsz01YGHVxg) | [MOLOW](https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [I Wouldn't Know](https://open.spotify.com/album/7johj2E7I1HA3cD7Rxvz0j) | 2:28 |
 | 100 | [Better](https://open.spotify.com/track/0QdjuCUA97rPLFj6MBoS82) | [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1), [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk) | [Better](https://open.spotify.com/album/2qi7v3iROtakEK15bLJ0Zb) | 2:13 |
 
-Snapshot ID: `AAAIEQsaveD78bcZJ42UYUHhgUAPLab1`
+Snapshot ID: `AAAIEgDJOx0FLOO+15Ol8peEVVGSeFwR`

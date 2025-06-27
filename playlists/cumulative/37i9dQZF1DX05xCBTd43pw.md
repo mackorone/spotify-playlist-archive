@@ -2,9 +2,9 @@
 
 ### [Swiss Made](https://open.spotify.com/playlist/37i9dQZF1DX05xCBTd43pw)
 
-> Grüezi! This is 100% made in Switzerland\.  Cover: Eileen Alister
+> Grüezi! This is 100% made in Switzerland\.  Cover: Cachita, Gigi
 
-368 songs - 18 hr 57 min
+371 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [bad times](https://open.spotify.com/track/72hh4nkhvz4iC6mXpJZ9oL) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [bad times](https://open.spotify.com/album/47I2gUQL7qdI0iYfY5DNxo) | 3:03 | 2024-06-27 | 2024-07-14 |
 | [BAILE](https://open.spotify.com/track/1HGGDFIzafXyVgLIGZjfPY) | [Buds](https://open.spotify.com/artist/3WWwaNIedCv5YRyZ4eIhZd) | [DYSTOPIA](https://open.spotify.com/album/7sNSRre76uN0sHUncagUQ9) | 2:14 | 2025-04-24 | 2025-05-02 |
 | [Balloons](https://open.spotify.com/track/1V47lbZfZhqeSHpj8I8rDU) | [Bart Derylo](https://open.spotify.com/artist/1mEfrWaDu40DnLLC6s9ofw), [Gjon's Tears](https://open.spotify.com/artist/0RIwEP1SaALlxn9jOVqHfA), [Szymon Justyński](https://open.spotify.com/artist/3bO4mpY93N6E0dFcsClKKi) | [Balloons](https://open.spotify.com/album/2lP6OqzWUHRpdzaKyrTL1c) | 3:35 | 2025-02-07 |  |
-| [Beautiful Day](https://open.spotify.com/track/24m4OLGaRuelACY0k1SbqP) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V) | [Beautiful Day](https://open.spotify.com/album/7m3bKbUMuXUsACiThMLwHy) | 3:05 | 2024-06-27 |  |
+| [Beautiful Day](https://open.spotify.com/track/24m4OLGaRuelACY0k1SbqP) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V) | [Beautiful Day](https://open.spotify.com/album/7m3bKbUMuXUsACiThMLwHy) | 3:05 | 2024-06-27 | 2025-06-27 |
 | [Bergerac](https://open.spotify.com/track/2uMSZtOUJF900a0X6pvk3x) | [Slimka](https://open.spotify.com/artist/3JudvZnY94AkCzfAVXzawN) | [Bergerac](https://open.spotify.com/album/6xdUzfA8gxRKeKQ0A1DYXx) | 2:33 | 2025-05-15 | 2025-05-23 |
 | [Best I Can Do](https://open.spotify.com/track/0Tu3El3HOpkbD18g5sqw7t) | [DANA](https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr) | [Best I Can Do](https://open.spotify.com/album/04QmZasEti9O75l6JrjPFc) | 3:10 | 2024-08-19 | 2024-08-30 |
 | [Bet You Hate Me](https://open.spotify.com/track/1dODh44Qk9r93fM3uhNUUH) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Bet You Hate Me](https://open.spotify.com/album/5mib7HFPRrZf9clcURyL6y) | 3:27 | 2025-04-17 | 2025-04-25 |
@@ -270,6 +270,7 @@
 | [rabbit holes](https://open.spotify.com/track/1DIwckc1SPLX99Z0WdNGGi) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [rabbit holes](https://open.spotify.com/album/3phEbmy3JlzoSijThN3gzE) | 3:36 | 2024-06-27 | 2024-10-04 |
 | [Ready For It All](https://open.spotify.com/track/0oIlZ9KBMQnhHOw9uFAJm8) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Amanda Wilson](https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1) | [Ready For It All](https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8) | 2:32 | 2024-06-27 | 2025-03-29 |
 | [redwhite \(Offical Swiss Women’s National Team Song\)](https://open.spotify.com/track/4BkvyubYBez4o0uHGkhE71) | [LOU KAENA](https://open.spotify.com/artist/69Tf6ABMtbfliXm4FHNhUH), [Soukey](https://open.spotify.com/artist/5opdTjPNqjz4eHPyYbpoZ6), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [redwhite \(Offical Swiss Women’s National Team Song\)](https://open.spotify.com/album/09GIdZLuPhRNZAJIuIW2yr) | 3:26 | 2025-06-05 |  |
+| [Release Me](https://open.spotify.com/track/3urxkVanctj4z2LjME3Yb8) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Release Me](https://open.spotify.com/album/0zEDzgkc06V4vaoITIHieR) | 3:10 | 2025-06-26 |  |
 | [Remind Me \(feat\. Amanda Collis\) \- Radio Edit](https://open.spotify.com/track/1RLbLGxjESkAspZVcAJtev) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [Remind Me \(feat\. Amanda Collis\) \[Radio Edit\]](https://open.spotify.com/album/3zWmOFP23qGMU82VObTE16) | 3:07 | 2024-07-04 | 2024-07-23 |
 | [Rhythm Of The Unknown](https://open.spotify.com/track/6MEwcrixWzNWHrZ8H5Se4C) | [Dominic Strike](https://open.spotify.com/artist/022hDFiSTA1SSbykVp8D09) | [Rhythm Of The Unknown](https://open.spotify.com/album/3oNfvvqzDF1pMJpuNSkdog) | 2:44 | 2024-07-04 | 2024-08-10 |
 | [Roccastrada](https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Roccastrada](https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2) | 4:32 | 2025-04-17 | 2025-04-25 |
@@ -288,6 +289,7 @@
 | [Sauvage](https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv) | [Julie Meletta](https://open.spotify.com/artist/6dtKZZx0OeZgjHzrTLm8z1) | [Sauvage](https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL) | 2:57 | 2024-08-26 | 2025-03-16 |
 | [Scars On Your Heart](https://open.spotify.com/track/3EUjGScwQwLvq27r9nhVU1) | [Ladina](https://open.spotify.com/artist/3NutXQr2Yvx6R2aUbkQXEo) | [Scars On Your Heart](https://open.spotify.com/album/1cSh4EZu0FpUYxJGzayK0n) | 2:53 | 2025-02-14 | 2025-02-28 |
 | [Schlüssu](https://open.spotify.com/track/0NYYj56OODUg2Gz0reX5ZQ) | [Soukey](https://open.spotify.com/artist/5opdTjPNqjz4eHPyYbpoZ6) | [Schlüssu](https://open.spotify.com/album/51wb8H7NqVok5rhnSmhhdp) | 2:42 | 2025-04-24 | 2025-05-02 |
+| [Schön](https://open.spotify.com/track/1swGr7I8NjsAu8iZ6MT1Hx) | [Cachita](https://open.spotify.com/artist/6CzgU7GybLlPawV1SVBc1V), [Gigi](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [Schön](https://open.spotify.com/album/6SgeUyLbCBVSgohKv8x1Ir) | 2:45 | 2025-06-26 |  |
 | [Scorpio](https://open.spotify.com/track/02mBTUzWaTyUQAvoJZ1470) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [WHERE WERE YOU ?!](https://open.spotify.com/album/5YbEYcrhyGVXIRZtxuKRkb) | 2:29 | 2024-09-06 | 2024-11-07 |
 | [September Skies](https://open.spotify.com/track/2MQ6lxKWTVglCe88CDK7Xv) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [September Skies](https://open.spotify.com/album/1A5hVwUNgtvJudlzsnBKdV) | 3:25 | 2025-04-17 | 2025-04-25 |
 | [she calls me daddy](https://open.spotify.com/track/12ZuYk6Tx3BMQIaDW6fNHI) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [she calls me daddy](https://open.spotify.com/album/52dHlZgYvDv9BVaISE95hQ) | 2:29 | 2024-07-19 | 2024-10-04 |
@@ -311,7 +313,7 @@
 | [Spinning](https://open.spotify.com/track/6duDke7M2I6XeXa6VqcMTD) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [The Movie](https://open.spotify.com/album/2Hl58qQYSxGfAYb9dNIvLi) | 3:47 | 2025-04-24 | 2025-05-02 |
 | [Stabhochspringe](https://open.spotify.com/track/3sz6jUYOTT3hhYO2iG3vUJ) | [Dachs](https://open.spotify.com/artist/04LdKPNs0taDflOxwGZCGe) | [Stabhochspringe](https://open.spotify.com/album/6druqWQ7NJiOMmjS6Ez6Cc) | 3:32 | 2025-05-15 | 2025-05-23 |
 | [Starcrossed](https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Starcrossed](https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC) | 3:03 | 2025-03-21 |  |
-| [Stay With Me](https://open.spotify.com/track/5BsHkqrEgTvMjLChE7nFoI) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ), [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Stay With Me](https://open.spotify.com/album/6ssTOfG6Bq2vnhAsnbOx73) | 2:57 | 2024-06-27 |  |
+| [Stay With Me](https://open.spotify.com/track/5BsHkqrEgTvMjLChE7nFoI) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ), [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Stay With Me](https://open.spotify.com/album/6ssTOfG6Bq2vnhAsnbOx73) | 2:57 | 2024-06-27 | 2025-06-27 |
 | [Stranger](https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Stranger](https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL) | 2:42 | 2024-11-01 |  |
 | [SucieriaZH](https://open.spotify.com/track/1n5vXSrZ0xbFRG1JFi1L7t) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [SucieriaZH](https://open.spotify.com/album/0HOt4Q0nybLug5MreioV5j) | 2:54 | 2024-06-27 | 2024-10-04 |
 | [Sunday Service](https://open.spotify.com/track/06R8rfdCxvNg42Cn43PImw) | [Vernisage](https://open.spotify.com/artist/4leNLJ04hEVBqGEUZneALa), [Z The Freshman](https://open.spotify.com/artist/3YshwEx2EoJtYkJILG1Bl0), [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Sunday Service](https://open.spotify.com/album/6hc1wiRYsqUFifBOmCV5ki) | 2:26 | 2025-04-24 | 2025-05-02 |
@@ -339,7 +341,7 @@
 | [Trade Hearts](https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Trade Hearts](https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28) | 2:54 | 2024-06-27 | 2025-05-30 |
 | [Tribut](https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Tribut](https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP) | 3:17 | 2024-06-27 |  |
 | [Träumer](https://open.spotify.com/track/3zZT2tVOOvoeXhCXHXwLxe) | [Megawatt](https://open.spotify.com/artist/1OXgQIrgvp6L46akQ5lBey) | [Träumer](https://open.spotify.com/album/2yxljgT0voJDYx4vQUq7Hi) | 3:29 | 2025-05-08 | 2025-05-16 |
-| [Tú y Yo](https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Tú y Yo](https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e) | 2:44 | 2024-06-27 |  |
+| [Tú y Yo](https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Tú y Yo](https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e) | 2:44 | 2024-06-27 | 2025-06-27 |
 | [Underwater](https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Underwater](https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I) | 2:44 | 2025-02-07 |  |
 | [Unexplainable](https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Unexplainable](https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG) | 4:01 | 2025-05-15 |  |
 | [Vibe](https://open.spotify.com/track/0K8zPoD9XCfHt1Q2qVGmq2) | [Marc Sway](https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w) | [Vibe](https://open.spotify.com/album/1aglfhSGUMbBBU3OGkw5y0) | 3:00 | 2024-07-04 | 2024-08-28 |
@@ -359,6 +361,7 @@
 | [Watergun](https://open.spotify.com/track/4ih4oGbMt9b6PbKhTPbAmw) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Watergun](https://open.spotify.com/album/6aBXNHeyTnhy5PooV2izJT) | 2:52 | 2024-06-27 |  |
 | [We Got Love](https://open.spotify.com/track/6o2HzZfazmewxdXpYufWRx) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [We Got Love](https://open.spotify.com/album/2KBis9Of82TXR9ZDtwGrpL) | 2:20 | 2024-06-27 | 2024-10-20 |
 | [Weekend](https://open.spotify.com/track/3XiLkVWxjafBq4YcvtCqq8) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Été sans fin](https://open.spotify.com/album/5ya3DUeWCWz2gtftAC3tLH) | 2:24 | 2025-04-24 | 2025-05-02 |
+| [Weird Kid](https://open.spotify.com/track/6ChiiuzwA5FV2Szt22nJ7s) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [Weird Kid](https://open.spotify.com/album/5YBiuHnpqXl0UBC3tthNj6) | 3:45 | 2025-06-26 |  |
 | [Wenn Du Das Lied Ghörsch](https://open.spotify.com/track/4Iu56eMBRx5CN6l5m4M16o) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Fürs Volk](https://open.spotify.com/album/5LMk7KjAHAhOqEna4GNqZG) | 3:33 | 2025-05-01 | 2025-05-09 |
 | [Wer hats erfunden](https://open.spotify.com/track/0QDZw9cs0VnQzEol2DfGJh) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Wer hats erfunden](https://open.spotify.com/album/52JBA7u2pkfcovbX91KTpm) | 2:12 | 2025-05-22 |  |
 | [What Went Wrong](https://open.spotify.com/track/09LPMQYwT0rv2OleNUJajK) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [April](https://open.spotify.com/album/6g2f5WpDL8hYf8zvrXMiUW) | 2:08 | 2025-05-22 | 2025-06-01 |

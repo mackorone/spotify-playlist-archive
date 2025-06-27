@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 
 > This is Prof\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,549 likes - 48 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,559 likes - 48 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 19 | [Spellbound \(The Beginning\)](https://open.spotify.com/track/6cIprowHIA9CtkA9Bgxk7g) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:16 |
 | 20 | [Pack a Lunch \(with Redman\)](https://open.spotify.com/track/3p8PQDGkgwIhp5fyeNypgo) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 4:18 |
 | 21 | [Zoo](https://open.spotify.com/track/6GQXk4Du3qkiswJ6hUoGiW) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Zoo](https://open.spotify.com/album/3xgyaF318Csc2nu1xPjjlC) | 2:53 |
-| 22 | [Windows](https://open.spotify.com/track/4ilUS5TveEEr0KFgWyYvyb) | [Atmosphere](https://open.spotify.com/artist/1GAS0rb4L8VTPvizAx2O9J), [Slug](https://open.spotify.com/artist/6Lz3nv3y0hhdKkyrApFCZD), [Ant](https://open.spotify.com/artist/71C1AXi9lDQXnSKZjeTYiI), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Windows](https://open.spotify.com/album/7g16JXCVFnNqKH5VVOoRLK) | 3:33 |
-| 23 | [The Season](https://open.spotify.com/track/5zvPlnOXaOoknahmh69RiI) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [King Gampo](https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2) | 3:25 |
+| 22 | [The Season](https://open.spotify.com/track/5zvPlnOXaOoknahmh69RiI) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [King Gampo](https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2) | 3:25 |
+| 23 | [Windows](https://open.spotify.com/track/4ilUS5TveEEr0KFgWyYvyb) | [Atmosphere](https://open.spotify.com/artist/1GAS0rb4L8VTPvizAx2O9J), [Slug](https://open.spotify.com/artist/6Lz3nv3y0hhdKkyrApFCZD), [Ant](https://open.spotify.com/artist/71C1AXi9lDQXnSKZjeTYiI), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Windows](https://open.spotify.com/album/7g16JXCVFnNqKH5VVOoRLK) | 3:33 |
 | 24 | [Vulnerable God](https://open.spotify.com/track/1rns1Sea7RI4wCNHtkkthQ) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Vulnerable God](https://open.spotify.com/album/2Px80IZqOMRP6E6kjM2wie) | 2:04 |
 | 25 | [Snake Skin Leather](https://open.spotify.com/track/521mlZAo2XcA5lvFgN4tUT) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:26 |
 | 26 | [Feed the Dogs](https://open.spotify.com/track/21Nuz8C7Ou8B7U7RUxhTR1) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Feed the Dogs](https://open.spotify.com/album/6MIpSgb65ovU5136ui8udW) | 3:23 |
-| 27 | [Gampo](https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [King Gampo](https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2) | 3:58 |
-| 28 | [I Dry Heave](https://open.spotify.com/track/12bZrnYJpqXNCN8545LDIz) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Project Gampo](https://open.spotify.com/album/6cyh4kHkJVOlLGx6LFElwJ) | 3:43 |
+| 27 | [I Dry Heave](https://open.spotify.com/track/12bZrnYJpqXNCN8545LDIz) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Project Gampo](https://open.spotify.com/album/6cyh4kHkJVOlLGx6LFElwJ) | 3:43 |
+| 28 | [Gampo](https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [King Gampo](https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2) | 3:58 |
 | 29 | [Gasoline](https://open.spotify.com/track/6hZwGfbZLn5i8VTPhw9nZw) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 4:17 |
 | 30 | [Treat You Right](https://open.spotify.com/track/1FFsglwdgas5NKXkGioEcF) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Dizzy Wright](https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq) | [Treat You Right](https://open.spotify.com/album/2NJdKzl6B6Vu2TP4YYugue) | 3:24 |
 | 31 | [Time Bomb](https://open.spotify.com/track/2ynJ4wHuFcfTXk1bkv8JgL) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:31 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 37 | [Standout](https://open.spotify.com/track/08rc36f68zr2bZlZXpsBcN) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 3:44 |
 | 38 | [Whiskey](https://open.spotify.com/track/2P4otq5puB0C9ZqDJVveQt) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [King Gampo](https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2) | 2:55 |
 | 39 | [Butter \(with Baby Tate\)](https://open.spotify.com/track/7s8nNvuxQyAobdOcaJNJVv) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Ghosttown](https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf) | [Butter \(with Baby Tate\)](https://open.spotify.com/album/1AcQ5sph3JVQ9lPMwDaHax) | 3:47 |
-| 40 | [Chitty Bang](https://open.spotify.com/track/14EUifm44d6gODebTIEDSn) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Devin The Dude](https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi), [Jarren Benton](https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP) | [Chitty Bang](https://open.spotify.com/album/6bTXdnnsOOgsWdxxNGnwPA) | 3:28 |
+| 40 | [Pookie Baby](https://open.spotify.com/track/1GLZpvlLj1nMrn2Ld2ehhK) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:31 |
 | 41 | [Motel](https://open.spotify.com/track/1NDvfh4tQgcXUTn033LtEe) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 3:28 |
-| 42 | [Pookie Baby](https://open.spotify.com/track/1GLZpvlLj1nMrn2Ld2ehhK) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:31 |
+| 42 | [Chitty Bang](https://open.spotify.com/track/14EUifm44d6gODebTIEDSn) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Devin The Dude](https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi), [Jarren Benton](https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP) | [Chitty Bang](https://open.spotify.com/album/6bTXdnnsOOgsWdxxNGnwPA) | 3:28 |
 | 43 | [Cousins](https://open.spotify.com/track/5GgieBASQgXvkaAJhk2XOi) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Cashinova](https://open.spotify.com/artist/7esS6SDpFk34861XWk17kn) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:50 |
 | 44 | [Penny Nickel Dime](https://open.spotify.com/track/30rmz7OJYaDnYrgxkzpsS1) | [Amp Live](https://open.spotify.com/artist/4WoeMzXhDQyoFCKdji4FlL), [Anya](https://open.spotify.com/artist/1Y2BbSdBwvfln12Otq7XTk), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Headphone Concerto](https://open.spotify.com/album/5UbbNvHn4onGGOmD4rpkMT) | 3:52 |
 | 45 | [Permission](https://open.spotify.com/track/2KZ0GMuXz3EOOSzi0XIAk4) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 2:57 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 47 | [On My Way](https://open.spotify.com/track/3In2mNIEIptPqnooOBxYcR) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [King Gampo](https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2) | 4:03 |
 | 48 | [Farout](https://open.spotify.com/track/11yDV9YCkT5hyKVc0L5Vfp) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 2:56 |
 
-Snapshot ID: `aFnqgAAAAABcHkw6X73N35Xzm+JyYtyI`
+Snapshot ID: `aFs8AAAAAADX4jnSuxS4rgkjIHyunDWH`

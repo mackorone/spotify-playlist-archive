@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u30b0\u30ed\u30fc\u30d0\u30eb\u3067\u6d3b\u8e8d\u3059\u308b\u30ac\u30fc\u30eb\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Girls groups/solo artists shining beyond borders. Cover: HANA",
+  "description": "\u30b0\u30ed\u30fc\u30d0\u30eb\u3067\u6d3b\u8e8d\u3059\u308b\u30ac\u30fc\u30eb\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Girls groups/solo artists shining beyond borders. Cover: KATSEYE",
   "name": "Stargirl vibes",
   "tracks": [
     {
@@ -4646,7 +4646,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 187939,
       "name": "COLD (feat. 10CM)",
       "url": "https://open.spotify.com/track/7KwA7QwaYalNY1UCHwkSvD"
@@ -8112,7 +8112,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 212734,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/7a6vvAM1cjAuyVQpqv9pmu"
@@ -8476,7 +8476,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -8498,6 +8498,24 @@
       "duration_ms": 188253,
       "name": "Galileo",
       "url": "https://open.spotify.com/track/2nehY8ewjt4clnD40SclwM"
+    },
+    {
+      "album": {
+        "name": "BEAUTIFUL CHAOS",
+        "url": "https://open.spotify.com/album/4Bd27JFKxVcDPYGUkLHKPi"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185598,
+      "name": "Gameboy",
+      "url": "https://open.spotify.com/track/2HMvIK2S3oC6OABl2YXAx1"
     },
     {
       "album": {
@@ -9072,7 +9090,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-21",
+      "date_removed": null,
       "duration_ms": 137316,
       "name": "Gnarly",
       "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
@@ -12934,7 +12952,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 192466,
       "name": "Like A Flower",
       "url": "https://open.spotify.com/track/2ivhjourUwztR3kmz575KV"
@@ -17082,7 +17100,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 212960,
       "name": "PainDrop (by SeoYeon, JiWoo, YuBin, SoHyun)",
       "url": "https://open.spotify.com/track/0lBpd8IbpD4m7BydKwNPqk"
@@ -21764,7 +21782,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 201760,
       "name": "Strategy (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
@@ -22184,6 +22202,24 @@
       "duration_ms": 153500,
       "name": "Summer Potion - Summer Breeze Mix",
       "url": "https://open.spotify.com/track/4z3uEfiE0CvSr2SQhcm6Ho"
+    },
+    {
+      "album": {
+        "name": "H1-KEY 4th Mini Album [Lovestruck]",
+        "url": "https://open.spotify.com/album/21oMWx3BnmfTOy2zqzxJwt"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192040,
+      "name": "Summer Was You",
+      "url": "https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1"
     },
     {
       "album": {
@@ -22722,6 +22758,24 @@
       "duration_ms": 229953,
       "name": "Take Two",
       "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
+    },
+    {
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181192,
+      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+      "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
     },
     {
       "album": {

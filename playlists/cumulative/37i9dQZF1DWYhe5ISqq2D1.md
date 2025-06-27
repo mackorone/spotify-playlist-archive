@@ -4,7 +4,7 @@
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: Tele
 
-710 songs - 1 day 20 hr 46 min
+711 songs - 1 day 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Automatic \- 2024 Mix](https://open.spotify.com/track/0PUl467MODwUpD7Vd9kebB) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Automatic \(2024 Mix\)](https://open.spotify.com/album/1OmZj0yNDdykFxrPJiqegq) | 4:55 | 2024-07-02 | 2024-07-10 |
 | [AYATORI](https://open.spotify.com/track/37VbsDNGPIB91tVP1LIzNx) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [Good Night Mare](https://open.spotify.com/album/5ZhCH7yVP61EAHDZcqkMun) | 3:41 | 2024-09-24 | 2025-01-15 |
 | [Azalea](https://open.spotify.com/track/7kJBYHytiARJlRygfg5VCn) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Azalea](https://open.spotify.com/album/6YzdMduoJRWor9B5xqGKUm) | 3:28 | 2024-11-19 |  |
+| [Baby Steps](https://open.spotify.com/track/3GHBPdLwu6yy60XBrRXaAQ) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [Baby Steps](https://open.spotify.com/album/7iyuhZV5145lbgkvwkqAy2) | 2:46 | 2025-06-24 |  |
 | [BAE](https://open.spotify.com/track/5KP6D8Y8BwRX0bPsb77vpW) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [BAE](https://open.spotify.com/album/47CdPAjUmbyY4rpq3zsGic) | 3:19 | 2024-07-23 | 2024-09-18 |
 | [BAE](https://open.spotify.com/track/7xi1q1cQkrsNDjYn4MLRBa) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [BAE](https://open.spotify.com/album/5kgPfV3smpy7jWTuwW06Xh) | 4:06 | 2024-10-01 | 2025-03-26 |
 | [BANDAGE](https://open.spotify.com/track/14A4jC5UJzjqr8nWW5jFqe) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [BANDAGE](https://open.spotify.com/album/6n2pGYbSxV3RtXgJHcqMxz) | 3:08 | 2024-07-02 | 2024-12-25 |
@@ -71,7 +72,7 @@
 | [Dear stranger](https://open.spotify.com/track/7cWfA4LLhvNq2l2KPOlSi4) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [Dear stranger](https://open.spotify.com/album/06kTnjCMXpv7EfI1g4zPc5) | 3:58 | 2024-10-08 | 2025-01-15 |
 | [Deep Inside](https://open.spotify.com/track/5dKUNd4Maxq32qDgIhirGN) | [GooDee](https://open.spotify.com/artist/7aneteJsZGNuXV2ZgIkq5v) | [Deep Inside](https://open.spotify.com/album/69LdwRkc49IXEghOXTaZmO) | 2:43 | 2025-02-18 | 2025-02-26 |
 | [DiNA](https://open.spotify.com/track/4ga5kO7qacjGkYZQYCK9Og) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [DiNA](https://open.spotify.com/album/02hQy084ewZMZCKLtxwg6c) | 4:23 | 2025-01-14 |  |
-| [DNA](https://open.spotify.com/track/4oym4UJGVd6l70PXHeMcha) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [DNA](https://open.spotify.com/album/5eaoO38FXRWLcrxwrtaNlW) | 3:48 | 2025-04-01 |  |
+| [DNA](https://open.spotify.com/track/4oym4UJGVd6l70PXHeMcha) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [DNA](https://open.spotify.com/album/5eaoO38FXRWLcrxwrtaNlW) | 3:48 | 2025-04-01 | 2025-06-27 |
 | [Dolphin Kick](https://open.spotify.com/track/56xDdcJgCpfAbeVCdjeLQY) | [Shimizu Bonnou](https://open.spotify.com/artist/5cOIrWBIepCzxuXh03X5zb) | [Dolphin Kick](https://open.spotify.com/album/6GU7Eo6NXZFOFnQzkbCzB2) | 3:59 | 2024-09-17 | 2024-09-25 |
 | [Don't cry, Glory Moon](https://open.spotify.com/track/3q5zEQH0LtRCV8ckJTszDu) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [Don't cry, Glory Moon](https://open.spotify.com/album/5zUUjb9K1o5Hbv9QE7Z9OZ) | 4:38 | 2024-10-22 | 2024-11-13 |
 | [DON'T FORGET MY NAME](https://open.spotify.com/track/1q4yrx2dy6o11kkYgPfwKh) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [DON'T FORGET MY NAME](https://open.spotify.com/album/2fCJiH9OvWuVVz75C9A5UQ) | 3:21 | 2025-05-27 |  |
@@ -530,7 +531,7 @@
 | [伝言](https://open.spotify.com/track/7uUVK6nOtPPazkG8OEtnZs) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [×L×C×A×](https://open.spotify.com/album/7EJIvSY1MzWygiuQn6o02a) | 2:50 | 2025-06-03 |  |
 | [何色でもない花](https://open.spotify.com/track/50tPNAlIyAbQtixQQ0huP5) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [何色でもない花](https://open.spotify.com/album/6cX6EIVlZ8fpJvWbPF0jmk) | 4:03 | 2024-07-02 | 2024-10-09 |
 | [健康](https://open.spotify.com/track/4CdOgSayTISkQ76ZcUdG6l) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [健康](https://open.spotify.com/album/6luPQvr9mjz1kB2X1EOgeE) | 3:02 | 2025-01-21 | 2025-01-29 |
-| [僕がずっと欲しかったもの](https://open.spotify.com/track/4qffZjwVx88z1fBGaW5zr7) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [僕がずっと欲しかったもの](https://open.spotify.com/album/2IkFiW8Ch8T8dtNJvIBLmh) | 3:14 | 2024-11-19 | 2025-06-18 |
+| [僕がずっと欲しかったもの](https://open.spotify.com/track/4qffZjwVx88z1fBGaW5zr7) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [僕がずっと欲しかったもの](https://open.spotify.com/album/2IkFiW8Ch8T8dtNJvIBLmh) | 3:14 | 2024-11-19 |  |
 | [僕が暮らした街](https://open.spotify.com/track/3wbZ2kpWSCcnMsI986UckG) | [小林柊矢](https://open.spotify.com/artist/0DcIlk5wRoT8icLCpFOwox) | [ドラマ / 僕が暮らした街](https://open.spotify.com/album/7ajBQz8KNAwHe4j5ff4oge) | 4:51 | 2024-12-17 | 2025-01-15 |
 | [僕らしさ](https://open.spotify.com/track/2ZwS4OtnNImLucRnYQRMH6) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [僕らしさ](https://open.spotify.com/album/3CKYnctlDRNi4XqHGSfSqL) | 4:08 | 2024-10-08 |  |
 | [僕らの色](https://open.spotify.com/track/3jqem17BagxxZOuTGWUHyl) | [LEN](https://open.spotify.com/artist/5RQVWliy9XIXz0MIbWOxcQ) | [僕らの色](https://open.spotify.com/album/4fkezXZZxNKD1SoWwJMGrg) | 5:00 | 2025-04-08 | 2025-04-16 |
@@ -572,7 +573,7 @@
 | [大金持ちのあなたと貧乏な私](https://open.spotify.com/track/5DSI2QfYMfkSWl980jX8Yo) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [King Of Everything](https://open.spotify.com/album/6STIGUizJUhGprqXZBJL04) | 4:02 | 2024-07-26 | 2024-08-21 |
 | [奇跡のかたまり](https://open.spotify.com/track/6KtvbISrR6vdQmpy9Z6hsZ) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [奇跡のかたまり](https://open.spotify.com/album/0DoZupQF6n4JUGJtQPYyYT) | 4:56 | 2025-02-25 | 2025-03-05 |
 | [孤独と海](https://open.spotify.com/track/2DErHJwf8vLOk0k240XQxi) | [ヤスエでんじゃらすおじさん](https://open.spotify.com/artist/6lp8w0tjywJNjT6GUWf7m1) | [孤独と海](https://open.spotify.com/album/7krLTOXFlOEmoFEUYK8B3u) | 3:38 | 2025-06-24 |  |
-| [完璧な二人。](https://open.spotify.com/track/6TGma0ABg2gHXDxMzovlwt) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [完璧な二人。](https://open.spotify.com/album/0sb9NUT39xYPQqJyqXBSmt) | 3:11 | 2025-04-29 |  |
+| [完璧な二人。](https://open.spotify.com/track/6TGma0ABg2gHXDxMzovlwt) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [完璧な二人。](https://open.spotify.com/album/0sb9NUT39xYPQqJyqXBSmt) | 3:11 | 2025-04-29 | 2025-06-27 |
 | [宝者](https://open.spotify.com/track/1htuhBLEvnY2s2k9juFQJG) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [宝者](https://open.spotify.com/album/4urlo8qlVk7bwSKlwcDIc2) | 4:17 | 2024-07-02 | 2024-09-18 |
 | [寵愛族](https://open.spotify.com/track/6OZ8w9AASDDRdLVJwqSEId) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy) | [寵愛族](https://open.spotify.com/album/2HeAgHWH154wSvhlWhlQYa) | 3:18 | 2024-10-08 | 2025-01-22 |
 | [小市民イーア](https://open.spotify.com/track/2hyGHwdUhrCEvVUqrONRIN) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [小市民イーア](https://open.spotify.com/album/77DueOvyt3iXD8I0Rzu1Ts) | 3:41 | 2025-04-01 | 2025-05-13 |

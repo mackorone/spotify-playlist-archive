@@ -4,7 +4,7 @@
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: GRACE.
 
-127 songs - 7 hr 40 min
+129 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Esok kan Masih Ada](https://open.spotify.com/track/1LVWMYXct2PoMvnn2I4ViD) | [Opie Batfeny](https://open.spotify.com/artist/275CbE2Fh9fcErSLQrhHVF), [Utha Likumahuwa](https://open.spotify.com/artist/5CqfTDAytUttoCHfln3Wl9) | [Esok kan Masih Ada](https://open.spotify.com/album/3410T0CgNw9YeIB7Y7fvmN) | 3:52 | 2024-10-03 | 2025-05-02 |
 | [Falling in Love in Jakarta](https://open.spotify.com/track/0QteQ3SwYCkPGAoQ6YfQKZ) | [Alvin Jo](https://open.spotify.com/artist/3MnsmeScJneDmgu8u3OeNL) | [Falling in Love in Jakarta](https://open.spotify.com/album/5dAAPRXAiD8bKPeKa3Yo5X) | 4:17 | 2024-10-03 | 2025-05-02 |
 | [Gadisku](https://open.spotify.com/track/4cJ0rC60m1KNCq9Ie0rGje) | [Mike Mohede](https://open.spotify.com/artist/0uGUpFXAdhKMgiHwbueiuf), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Gadisku](https://open.spotify.com/album/6WbER6eqWKwSJCP2Tt1Cs9) | 3:29 | 2024-11-07 |  |
+| [Game 4 2](https://open.spotify.com/track/7CbXF4RZUPoQyEdAlY3QkZ) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Game 4 2](https://open.spotify.com/album/6WZkKEJEhTO1F8kP81flBp) | 5:01 | 2025-06-26 |  |
 | [Game For Two](https://open.spotify.com/track/1F5Oci0fJkRxcIFNMuHoJn) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA), [Ezra Kunze](https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm) | [Game For Two](https://open.spotify.com/album/5KYHeW8EoSYqFXji9DuV4c) | 3:38 | 2025-03-20 |  |
 | [Gelora Bertemu](https://open.spotify.com/track/3nErXdVzREIXdSxxMuPaYL) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Gelora Bertemu](https://open.spotify.com/album/309Xx2lM5PhrOk3pBaNXt9) | 4:02 | 2024-10-03 | 2025-05-02 |
 | [Hanya Harapku](https://open.spotify.com/track/4CXS1Bnuk0xzPd3zP7Jmsb) | [Fourtune](https://open.spotify.com/artist/0MLJ6wDKP8xAPYeXjisC7k) | [Hanya Harapku](https://open.spotify.com/album/6pLzF6GCDzqmFIpi4GZuGw) | 3:30 | 2024-11-15 |  |
@@ -115,6 +116,7 @@
 | [Somebody's Pleasure \(Extended Version\)](https://open.spotify.com/track/4y5HTa0xfMGORsMhy26n3X) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure \(Extended Version\)](https://open.spotify.com/album/2XgJC0WVIe0cyDvdIQO19u) | 4:41 | 2024-12-13 |  |
 | [Someday Somewhere Someplace Somehow](https://open.spotify.com/track/5iW3qqHG5YUOA2cM2Aw23h) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [Someday Somewhere Someplace Somehow](https://open.spotify.com/album/5RkP7eRvPKleO6u6GHbrAP) | 4:22 | 2024-10-03 |  |
 | [Something New \(feat\. Afgan\)](https://open.spotify.com/track/3lZXsYZgaXodwSALy5cR6B) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Something New](https://open.spotify.com/album/5Lu8ASQ4x4b4u9yQCDreAb) | 2:38 | 2025-05-29 |  |
+| [Soulless Blues](https://open.spotify.com/track/1p5SEMVpbUdQtvFMEqjTTt) | [Arya Novanda](https://open.spotify.com/artist/7bQ37VC8fmdF36yIIOVIlc), [Gugun Blues Shelter](https://open.spotify.com/artist/5sIvntdXv3HcJucbkLNePp) | [Soulless Blues](https://open.spotify.com/album/6Cmj3kEEH6TXtFt3lcCVy5) | 4:40 | 2025-06-26 |  |
 | [Space & Time](https://open.spotify.com/track/18QQ9VWkuxEMU7gWSuVaLU) | [tjdika](https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7), [Tommy Pratomo](https://open.spotify.com/artist/7EmZD2HfyAxEpo3JzvNLoQ) | [Space & Time](https://open.spotify.com/album/6QLBLw5ACRI0tII9hDr9Ir) | 2:53 | 2025-01-23 | 2025-05-30 |
 | [Status Palsu](https://open.spotify.com/track/2Q0glA9LEusp3MlGl26VNS) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [status palsu](https://open.spotify.com/album/5WQQrEyQu8ylwVuWPojX5v) | 3:58 | 2024-10-03 |  |
 | [Sujud](https://open.spotify.com/track/6W6ouayFyOk3ugWzMzs0jK) | [Matter Mos](https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL), [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Sujud](https://open.spotify.com/album/0485ThYj1iYy1yGaa0oUm6) | 3:33 | 2025-02-27 |  |

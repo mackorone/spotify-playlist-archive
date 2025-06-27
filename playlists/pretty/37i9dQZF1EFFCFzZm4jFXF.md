@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 19 | [We’ll Be United](https://open.spotify.com/track/6gfWIbbvg58sGwn9xs0HW6) | [Romeo Blanco](https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ), [Brad Mair](https://open.spotify.com/artist/4wE9wGzadw1jAgPXXSga8D) | [We’ll Be United](https://open.spotify.com/album/7FStOXLKUI6RKt61k4SEgF) | 2:58 |
 | 20 | [Start Again](https://open.spotify.com/track/7HlkPqRO6iYyWsUYX4l4gq) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Tomorrow Never Came](https://open.spotify.com/album/0sDmEPP86YEUsNu3f2y7D7) | 3:35 |
 | 21 | [Fade Away](https://open.spotify.com/track/7thOGpKaWpPotq2U37UItx) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Fade Away](https://open.spotify.com/album/0XyAR5FCmnhX4LgLHjLnTP) | 3:45 |
-| 22 | [Backing Down](https://open.spotify.com/track/69Rnbe26tmlQSQUgRFvneJ) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Volume One](https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm) | 3:48 |
-| 23 | [Crazy Bitch](https://open.spotify.com/track/1ALb2cQBsy82S5kmBVkpxD) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Crazy Bitch](https://open.spotify.com/album/3nTpGSWw548JAYpwVJS4jZ) | 3:02 |
+| 22 | [Crazy Bitch](https://open.spotify.com/track/1ALb2cQBsy82S5kmBVkpxD) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Crazy Bitch](https://open.spotify.com/album/3nTpGSWw548JAYpwVJS4jZ) | 3:02 |
+| 23 | [Backing Down](https://open.spotify.com/track/69Rnbe26tmlQSQUgRFvneJ) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Volume One](https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm) | 3:48 |
 | 24 | [Get Up](https://open.spotify.com/track/0hfEbuqdlZFAABHTsWTpKz) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Get Up](https://open.spotify.com/album/2BjmJnuWuSxXQQUbQuwDl9) | 3:26 |
 | 25 | [Following My Heart](https://open.spotify.com/track/2yWZcMqbjL1qAaDbH37tC5) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 4:19 |
 | 26 | [Losing Me](https://open.spotify.com/track/0JvrNx0h9vHzwQpip0vx2m) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Volume One](https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm) | 4:19 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 111 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 112 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `Ab1HcgAAAABC4SdmpLBIkkt1b4OU5WAB`
+Snapshot ID: `Ab1NCAAAAACmhLYuFqvlGZx+yZRfbOF3`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"J'avoue\" de Linh est le Grand Hit de la semaine.",
+  "description": "\"Me Enamore\" de RIDSA est le Grand Hit de la semaine.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 188333,
       "name": "Adieu, nous deux",
       "url": "https://open.spotify.com/track/6y8LXTxgfWkU6kGhLnK2XH"
@@ -356,6 +356,24 @@
       "duration_ms": 177876,
       "name": "boomerang",
       "url": "https://open.spotify.com/track/1MDGRQiCy0bOIsh3wo2ReD"
+    },
+    {
+      "album": {
+        "name": "Bouquet final",
+        "url": "https://open.spotify.com/album/4zUl5CXivJ1XMd3qAafDKA"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193106,
+      "name": "Bouquet final",
+      "url": "https://open.spotify.com/track/17VfUy9CJiUZ9uighESFoM"
     },
     {
       "album": {
@@ -700,7 +718,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 186461,
       "name": "CIEL",
       "url": "https://open.spotify.com/track/78FNSZkI1968KTtyf2s315"
@@ -740,7 +758,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 202280,
       "name": "Comme des loups (feat. Zaoui)",
       "url": "https://open.spotify.com/track/4M5GHCgdNcIk4I2tdXhLia"
@@ -1965,6 +1983,24 @@
     },
     {
       "album": {
+        "name": "Je pars mais je reste",
+        "url": "https://open.spotify.com/album/0kDJiwDaDXUhhmXAFL06qu"
+      },
+      "artists": [
+        {
+          "name": "Charles Dor\u00e9",
+          "url": "https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200106,
+      "name": "Je pars mais je reste",
+      "url": "https://open.spotify.com/track/6XZpJESt5Hb0GM6BpAJGN4"
+    },
+    {
+      "album": {
         "name": "C\u0153ur parapluie",
         "url": "https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG"
       },
@@ -2754,7 +2790,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 198546,
       "name": "Le monde demain - Version radio",
       "url": "https://open.spotify.com/track/3CTORI6KzDw02wXe9uaiU6"
@@ -3518,6 +3554,24 @@
       "duration_ms": 236013,
       "name": "Ne saute pas",
       "url": "https://open.spotify.com/track/52PntWUVJcnAWm1lk0XYnU"
+    },
+    {
+      "album": {
+        "name": "Nous",
+        "url": "https://open.spotify.com/album/1is67cSsBtCg203117l5QH"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155290,
+      "name": "Nous",
+      "url": "https://open.spotify.com/track/4YTZaCj7GuS1s0IG56aPcq"
     },
     {
       "album": {
@@ -4310,6 +4364,28 @@
       "duration_ms": 165978,
       "name": "SOIS PAS TIMIDE",
       "url": "https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo"
+    },
+    {
+      "album": {
+        "name": "Soleil Bleu",
+        "url": "https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA"
+      },
+      "artists": [
+        {
+          "name": "Bleu Soleil",
+          "url": "https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf"
+        },
+        {
+          "name": "LUIZA",
+          "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Soleil Bleu",
+      "url": "https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new music from Kablito and TDJ, plus the latest cuts from Eartheater and ALCATRAZ.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,886 likes - 100 songs - 5 hr 36 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,885 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

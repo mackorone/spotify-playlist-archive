@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Phina
+> What is your love language? Say it in Swahili\.  Cover: Harmonize
 
-303 songs - 17 hr 4 min
+304 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,11 +36,12 @@
 | [Be My Rescue](https://open.spotify.com/track/5MUyb4L8hZ37XgaQG8uaXo) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24) | [Sweet Sour Serenade](https://open.spotify.com/album/5vpuiuqaKIxzCDAzjXCS3t) | 3:08 | 2024-11-07 | 2025-02-07 |
 | [Beautiful \(Worth Living\) \[feat\. Barnaba\]](https://open.spotify.com/track/28EDIv29TAG4NvhfoIJPCJ) | [Cedo](https://open.spotify.com/artist/4XnL8ClOo3yWrWU4VJWa6q), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Ceduction](https://open.spotify.com/album/72CVdgTmhjPyGh78LRv1Gy) | 3:06 | 2022-09-08 | 2023-01-13 |
 | [Because Of Love](https://open.spotify.com/track/6HAygKbSMRxHARvjRkX6jK) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS) | [Silver](https://open.spotify.com/album/6S8IiiuJOaVUBK6jwRQGIW) | 2:30 | 2025-06-19 |  |
+| [Best Couple \(feat\. Rudeboy\)](https://open.spotify.com/track/55rxNs9Drmu7u2oC6skJP2) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT) | [Best Couple \(feat\. Rudeboy\)](https://open.spotify.com/album/2zNmjbJMq3G0TLzruDHjBt) | 2:54 | 2025-06-26 |  |
 | [Boda](https://open.spotify.com/track/4hfhjbfhRTBpvOYXJfC1YL) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Boda](https://open.spotify.com/album/1htUwvLb7Y834xXsMEKibn) | 3:03 | 2025-02-27 |  |
 | [Body](https://open.spotify.com/track/5CLaOLPBVMYezpGZgHIAeV) | [Fama](https://open.spotify.com/artist/31gxuhZWlaTdq7awtYBkeE), [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv) | [Body](https://open.spotify.com/album/4kzlFWiEEVzSV2x6HY7RwP) | 2:50 | 2025-06-05 |  |
 | [Buruda](https://open.spotify.com/track/2iGBUGhHFUsEQHdxnH7tTd) | [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Buruda](https://open.spotify.com/album/0eLIVpi2YJkWmABLUrxbt3) | 3:44 | 2024-03-14 | 2024-03-22 |
 | [Butterfly \(feat\. Phina\)](https://open.spotify.com/track/3XHus2H79mt1LjHTqu1jN2) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Butterfly \(feat\. Phina\)](https://open.spotify.com/album/7uAArCR4SL1PZZnCVSpRvu) | 3:00 | 2024-01-18 | 2024-05-24 |
-| [Bye Bye \(feat\. Harmonize\)](https://open.spotify.com/track/6ZWjQChIMWzChj1yDsi30e) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Bye Bye \(feat\. Harmonize\)](https://open.spotify.com/album/16e0cDT5TScFTG3w0OJKxL) | 3:04 | 2024-12-19 |  |
+| [Bye Bye \(feat\. Harmonize\)](https://open.spotify.com/track/6ZWjQChIMWzChj1yDsi30e) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Bye Bye \(feat\. Harmonize\)](https://open.spotify.com/album/16e0cDT5TScFTG3w0OJKxL) | 3:04 | 2024-12-19 | 2025-06-27 |
 | [Calm Down](https://open.spotify.com/track/0y1v9W7ngxhLqQBcsWL7pN) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Miss P](https://open.spotify.com/artist/47oczcod6F5RvQVXD7hDV0) | [Calm Down](https://open.spotify.com/album/6LrYNVo234UYbCjg99juWU) | 3:08 | 2023-11-30 | 2024-02-16 |
 | [Cham Thum \(Atoti\)](https://open.spotify.com/track/1BmwbhNlcgVsv8eSp4E0sJ) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Double Treble](https://open.spotify.com/album/2JheMlR0zti0sznMydH2rJ) | 4:13 | 2024-04-18 |  |
 | [Chapati](https://open.spotify.com/track/1HILIVRnXkORHqLYzRbRaG) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Chapati](https://open.spotify.com/album/4pcHseb6o0Gv6ZUVmGW33d) | 3:20 | 2024-03-14 | 2024-03-22 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Peter Napo, LILCR ed Enny P in cover della playlist con il futuro del rap italiano.",
+  "description": "Don Pero e N\u00e9za in cover della playlist con il futuro del rap italiano.",
   "name": "Raptopia",
   "tracks": [
     {
@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 128000,
       "name": "Altitudine",
       "url": "https://open.spotify.com/track/4riAC36P3s72GYBDo3k9VO"
@@ -3478,7 +3478,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 176250,
       "name": "BAD (TEMPO)",
       "url": "https://open.spotify.com/track/0oGUjQkQG86zDtmBG3KwrL"
@@ -5540,7 +5540,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 167111,
       "name": "Borse Celine",
       "url": "https://open.spotify.com/track/0KaovTt3gPJDsbV9YXlqIc"
@@ -5780,7 +5780,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 132193,
       "name": "BRATZ",
       "url": "https://open.spotify.com/track/5I3FJAEbsA6wHrCoNb5fhs"
@@ -9227,6 +9227,28 @@
     },
     {
       "album": {
+        "name": "CUGGI (feat. RRARI DAL TACCO)",
+        "url": "https://open.spotify.com/album/1wfReIyjoQORblbexsWtpp"
+      },
+      "artists": [
+        {
+          "name": "Lil Parta",
+          "url": "https://open.spotify.com/artist/4pgBWoILMJ7xYW34wcPCmP"
+        },
+        {
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163373,
+      "name": "CUGGI (feat. RRARI DAL TACCO)",
+      "url": "https://open.spotify.com/track/5NtuNcgwko8TYkSFGSW2RF"
+    },
+    {
+      "album": {
         "name": "Cugino",
         "url": "https://open.spotify.com/album/1JZEbWvE21FBzVtf4wFfSw"
       },
@@ -12003,6 +12025,24 @@
     },
     {
       "album": {
+        "name": "FASHION KILLA",
+        "url": "https://open.spotify.com/album/1fNslbRjAzMYVappolWo30"
+      },
+      "artists": [
+        {
+          "name": "Flaco G",
+          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151111,
+      "name": "FASHION KILLA",
+      "url": "https://open.spotify.com/track/6Sas0SSRy5DXEVOTzrXGRI"
+    },
+    {
+      "album": {
         "name": "fashion killa \u00a1!",
         "url": "https://open.spotify.com/album/6ItPYoJAqSLBXYVILYcnGS"
       },
@@ -13711,6 +13751,24 @@
     },
     {
       "album": {
+        "name": "Game over",
+        "url": "https://open.spotify.com/album/0iD1jUZpuSFKdEnMRHPFYe"
+      },
+      "artists": [
+        {
+          "name": "AKLEVRAI",
+          "url": "https://open.spotify.com/artist/0T21j8LLFpesIgn82u8KMo"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113219,
+      "name": "Game over",
+      "url": "https://open.spotify.com/track/5ECCilZ9xHRHGZmSsHvUyW"
+    },
+    {
+      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/12gN8jxbq9WohnOVqc8opK"
       },
@@ -14637,6 +14695,28 @@
     },
     {
       "album": {
+        "name": "GOTTI",
+        "url": "https://open.spotify.com/album/79dt9XYgzco3QEoYukK5pg"
+      },
+      "artists": [
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        },
+        {
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137946,
+      "name": "GOTTI",
+      "url": "https://open.spotify.com/track/6rN2wG1mw83UckLIdaiVcm"
+    },
+    {
+      "album": {
         "name": "GRA",
         "url": "https://open.spotify.com/album/0EPDrZtlH0TSj42kpu7Tnx"
       },
@@ -14988,6 +15068,24 @@
       "duration_ms": 150857,
       "name": "Guai (feat. Fre_nky)",
       "url": "https://open.spotify.com/track/0gkuPf9a7MRecMn2GVc2uX"
+    },
+    {
+      "album": {
+        "name": "guai stasera #191",
+        "url": "https://open.spotify.com/album/3A1a3aPDR7LpN6LVW7q3dl"
+      },
+      "artists": [
+        {
+          "name": "dedde",
+          "url": "https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "guai stasera #191",
+      "url": "https://open.spotify.com/track/7oyI4cWVLD59L1uSJmn7zm"
     },
     {
       "album": {
@@ -15421,6 +15519,24 @@
     },
     {
       "album": {
+        "name": "HEAD",
+        "url": "https://open.spotify.com/album/76VYETZl59whjEQgfu2svk"
+      },
+      "artists": [
+        {
+          "name": "R1MKA",
+          "url": "https://open.spotify.com/artist/2KiPQlUFO56wDrtmDth3Mc"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "HEAD",
+      "url": "https://open.spotify.com/track/32wLjkfKWHdgyxVfK82nwE"
+    },
+    {
+      "album": {
         "name": "HEART THIEF",
         "url": "https://open.spotify.com/album/2EnsVKUvR4JM4enTIbXfHx"
       },
@@ -15644,7 +15760,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 109411,
       "name": "Holly e Benji",
       "url": "https://open.spotify.com/track/6e1p4pfCdd7Q55czaruBzl"
@@ -17152,7 +17268,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 149700,
       "name": "KALASH",
       "url": "https://open.spotify.com/track/35FTD83taz3YO6WdAWkVWM"
@@ -18680,6 +18796,24 @@
       "duration_ms": 180480,
       "name": "Lasciami andare",
       "url": "https://open.spotify.com/track/6X5bqRKUhw297ZdR1UsoPh"
+    },
+    {
+      "album": {
+        "name": "Lasciami Solo",
+        "url": "https://open.spotify.com/album/7DHXpkbEga1QlSXH9YJfT3"
+      },
+      "artists": [
+        {
+          "name": "Alert",
+          "url": "https://open.spotify.com/artist/1PnEw4LWPugQEGLQu0xcjh"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147589,
+      "name": "Lasciami Solo",
+      "url": "https://open.spotify.com/track/5PIwqQifRrIK3ICjIMC252"
     },
     {
       "album": {
@@ -27325,6 +27459,24 @@
     },
     {
       "album": {
+        "name": "Per Un Attimo",
+        "url": "https://open.spotify.com/album/7xsfbbg9Xser2PjiZD1daA"
+      },
+      "artists": [
+        {
+          "name": "Due G",
+          "url": "https://open.spotify.com/artist/7ICNoOv4dBRG72UaFP5Aba"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "Per Un Attimo",
+      "url": "https://open.spotify.com/track/4EkExLkKBdKe3tDZwOK6BY"
+    },
+    {
+      "album": {
         "name": "Cultura Italiana Pt.1",
         "url": "https://open.spotify.com/album/1b3MZM1zZG8yRK4Hpcf8pJ"
       },
@@ -27538,6 +27690,28 @@
       "duration_ms": 145102,
       "name": "Piani",
       "url": "https://open.spotify.com/track/7vW0AJr24dhKscPD4tQsQP"
+    },
+    {
+      "album": {
+        "name": "PIAZZA AFFARI (EHYEHYEHYEHY)",
+        "url": "https://open.spotify.com/album/66oNCK9DX3OPj3jARfbIzq"
+      },
+      "artists": [
+        {
+          "name": "LUCHITOS",
+          "url": "https://open.spotify.com/artist/1q4ioEGGMSQFjAt24zkXkX"
+        },
+        {
+          "name": "Draw Ice",
+          "url": "https://open.spotify.com/artist/7bBsqA3ckjPt7nl9F2ETNG"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "PIAZZA AFFARI (EHYEHYEHYEHY)",
+      "url": "https://open.spotify.com/track/4Yve3S6OlYxS2CxABwNCzH"
     },
     {
       "album": {
@@ -28215,6 +28389,28 @@
     },
     {
       "album": {
+        "name": "Live.Survive.Die (LSD)",
+        "url": "https://open.spotify.com/album/2qnHfYuTAwnAIdKDqiyDlB"
+      },
+      "artists": [
+        {
+          "name": "azael",
+          "url": "https://open.spotify.com/artist/0ka5NilkDyElonlI22xaJk"
+        },
+        {
+          "name": "Thrilljard",
+          "url": "https://open.spotify.com/artist/1hU5tCFqrPp0suz17uIC2t"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160769,
+      "name": "Portofino",
+      "url": "https://open.spotify.com/track/3n7264padQj0oUlXwixVsT"
+    },
+    {
+      "album": {
         "name": "Possessivo",
         "url": "https://open.spotify.com/album/0m2q33Rwf9bgzJVIishvPN"
       },
@@ -28503,6 +28699,24 @@
     },
     {
       "album": {
+        "name": "PRESTITO",
+        "url": "https://open.spotify.com/album/6OyHOxfxLfDpJ4nnzydYco"
+      },
+      "artists": [
+        {
+          "name": "DALAI XV",
+          "url": "https://open.spotify.com/artist/54qf1p4GvCN28bNLkutNn6"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130323,
+      "name": "PRESTITO",
+      "url": "https://open.spotify.com/track/4PhwUiayVsTPXUbnYuCb7c"
+    },
+    {
+      "album": {
         "name": "Pretty Girls Love Sardinia (feat. Razer.Rah, Sgribaz, Low-Red, Rico Pmf, Enomoney & ilovethisbeat)",
         "url": "https://open.spotify.com/album/5RXYg3SPqwOFyf8mPN13Wl"
       },
@@ -28742,7 +28956,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 177837,
       "name": "PROBLEMI X TE",
       "url": "https://open.spotify.com/track/24GYyqPjzpdPPywD0mikbE"
@@ -30014,7 +30228,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 152192,
       "name": "RESTA",
       "url": "https://open.spotify.com/track/3urkb8sNrNeIT1TfwMAgxj"
@@ -30150,6 +30364,28 @@
       "duration_ms": 168000,
       "name": "Ridendo Nella Banca",
       "url": "https://open.spotify.com/track/59wVqn7bVIAgwDTvoSIj9m"
+    },
+    {
+      "album": {
+        "name": "Rifugio Carlo Franchetti",
+        "url": "https://open.spotify.com/album/1MsttQZUzFQH9jkGmPS2pn"
+      },
+      "artists": [
+        {
+          "name": "Storma",
+          "url": "https://open.spotify.com/artist/0QXvmypdjGuSTB4pWYBdvI"
+        },
+        {
+          "name": "Khalo",
+          "url": "https://open.spotify.com/artist/6e1AZ3NGsMuDlMpxgh53n8"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105303,
+      "name": "Rifugio Carlo Franchetti",
+      "url": "https://open.spotify.com/track/3Jx2UkRfIJn6mN9xkjyRcH"
     },
     {
       "album": {
@@ -31378,6 +31614,36 @@
       "duration_ms": 155843,
       "name": "SATELLITE",
       "url": "https://open.spotify.com/track/1MqHe5cxVODW8l3JiJUYmZ"
+    },
+    {
+      "album": {
+        "name": "SAVANA (feat. Passa Lzn & Deza JR)",
+        "url": "https://open.spotify.com/album/60FepBH13mqiiXIcHSneun"
+      },
+      "artists": [
+        {
+          "name": "Benii",
+          "url": "https://open.spotify.com/artist/2BPa4q78epq6JYvtGBn0IF"
+        },
+        {
+          "name": "NiceKidd",
+          "url": "https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX"
+        },
+        {
+          "name": "Passa Lzn",
+          "url": "https://open.spotify.com/artist/6xMSpxOkrzrQgWu3fOSKBB"
+        },
+        {
+          "name": "Deza JR",
+          "url": "https://open.spotify.com/artist/68iSzOq0nN0hvxjO58j7PH"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161060,
+      "name": "SAVANA (feat. Passa Lzn & Deza JR)",
+      "url": "https://open.spotify.com/track/33BixDGFsCEHUq0TT11RuZ"
     },
     {
       "album": {
@@ -33128,7 +33394,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 136813,
       "name": "Sola",
       "url": "https://open.spotify.com/track/5R60S5QjCZmAM7xnH3Xrxw"
@@ -33241,6 +33507,32 @@
     },
     {
       "album": {
+        "name": "Simmetria",
+        "url": "https://open.spotify.com/album/15SV0kOi1rhPFVsl37p0IY"
+      },
+      "artists": [
+        {
+          "name": "Goya",
+          "url": "https://open.spotify.com/artist/6SXFxaY2Eurl3rkwgJtjjv"
+        },
+        {
+          "name": "NIKENINJA",
+          "url": "https://open.spotify.com/artist/1KoV9yk84kwbSefb2zr1Ty"
+        },
+        {
+          "name": "No Label",
+          "url": "https://open.spotify.com/artist/7eSQIwqpU7HGvEQVgcMqQx"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225886,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2bb4acPdB8EXjUW2V7nRKc"
+    },
+    {
+      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/4WmbPhczkJM6eXJOcNI7Xj"
       },
@@ -33344,7 +33636,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 158714,
       "name": "Sonniferi",
       "url": "https://open.spotify.com/track/6TL9R4jDm8rSaK33Y97wQj"
@@ -35614,7 +35906,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 160483,
       "name": "Tony & Riko",
       "url": "https://open.spotify.com/track/1srTuaLp0mi7iONNAZCugR"
@@ -37684,7 +37976,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 147500,
       "name": "Vieni via con me",
       "url": "https://open.spotify.com/track/7j0viunhUTLs1Aphspvi6n"
@@ -38961,6 +39253,28 @@
     },
     {
       "album": {
+        "name": "YEAAAH (feat. EXXIA)",
+        "url": "https://open.spotify.com/album/5rW1E8TC3rBZ304C8j4p54"
+      },
+      "artists": [
+        {
+          "name": "Luchetto",
+          "url": "https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z"
+        },
+        {
+          "name": "EXXIA",
+          "url": "https://open.spotify.com/artist/2YJcNIoAmRFFdVcvhMZHDr"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127430,
+      "name": "YEAAAH (feat. EXXIA)",
+      "url": "https://open.spotify.com/track/2c3CG9SaDrrMIKn2AwSKx2"
+    },
+    {
+      "album": {
         "name": "YELAH (feat. Caesar, MarZa, BRESCO, Flus Brain & TOLKA)",
         "url": "https://open.spotify.com/album/31cBdGeBsmh8lLDgq9I2ao"
       },
@@ -39326,6 +39640,28 @@
       "duration_ms": 174166,
       "name": "\u00c7a tue",
       "url": "https://open.spotify.com/track/5H3zvEIPBrZcnQg7pfEQjm"
+    },
+    {
+      "album": {
+        "name": "\u00c8 ANDATA BENE",
+        "url": "https://open.spotify.com/album/3mzXa6AwnY7fbnhiVavNds"
+      },
+      "artists": [
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+        },
+        {
+          "name": "IDUA",
+          "url": "https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "\u00c8 ANDATA BENE",
+      "url": "https://open.spotify.com/track/0TiGLMzXrkKDY86nSrxpUA"
     },
     {
       "album": {

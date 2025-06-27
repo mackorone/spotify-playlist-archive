@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 
 > Congratulations to all the winners and nominees of the 39th <a href="https://www.thestellarawards.com/index.html">Stellar Awards!</a> Cover: <a href="spotify:artist:1aNtFg4D7HdF8jOppyKpUS">Pastor Mike Jr.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,025 likes - 54 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,024 likes - 54 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

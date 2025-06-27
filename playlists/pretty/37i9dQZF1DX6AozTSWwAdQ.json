@@ -1,6 +1,6 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 60988,
+  "num_followers": 60987,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-06-23 01:03:00",
       "album": {
-        "name": "FUNNY little FEARS",
-        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 188952,
-      "name": "Zombie Lady",
-      "url": "https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV"
-    },
-    {
-      "added_at": "2025-06-23 01:03:00",
-      "album": {
         "name": "No Sound Without Silence",
         "url": "https://open.spotify.com/album/6yd9yk8nFcHalXzy7mgaDx"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 245466,
       "name": "Superheroes",
       "url": "https://open.spotify.com/track/37sINbJZcFdHFAsVNsPq1i"
+    },
+    {
+      "added_at": "2025-06-23 01:03:00",
+      "album": {
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 188952,
+      "name": "Zombie Lady",
+      "url": "https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV"
     },
     {
       "added_at": "2025-06-23 01:03:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-06-23 01:03:00",
       "album": {
-        "name": "Typical Ways",
-        "url": "https://open.spotify.com/album/5Y14cixHokMWgW9SvXMcsX"
-      },
-      "artists": [
-        {
-          "name": "Culture Wars",
-          "url": "https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf"
-        }
-      ],
-      "duration_ms": 158576,
-      "name": "Typical Ways",
-      "url": "https://open.spotify.com/track/6LXafqEcSO7Ud2aXJxjnTl"
-    },
-    {
-      "added_at": "2025-06-23 01:03:00",
-      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 200645,
       "name": "Let's Love",
       "url": "https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS"
+    },
+    {
+      "added_at": "2025-06-23 01:03:00",
+      "album": {
+        "name": "Typical Ways",
+        "url": "https://open.spotify.com/album/5Y14cixHokMWgW9SvXMcsX"
+      },
+      "artists": [
+        {
+          "name": "Culture Wars",
+          "url": "https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf"
+        }
+      ],
+      "duration_ms": 158576,
+      "name": "Typical Ways",
+      "url": "https://open.spotify.com/track/6LXafqEcSO7Ud2aXJxjnTl"
     },
     {
       "added_at": "2025-06-23 01:03:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-06-23 01:03:00",
       "album": {
-        "name": "Saviors",
-        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 224310,
-      "name": "Bobby Sox",
-      "url": "https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl"
-    },
-    {
-      "added_at": "2025-06-23 01:03:00",
-      "album": {
         "name": "fleabag",
         "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 176988,
       "name": "fleabag",
       "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
+    },
+    {
+      "added_at": "2025-06-23 01:03:00",
+      "album": {
+        "name": "Saviors",
+        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 224310,
+      "name": "Bobby Sox",
+      "url": "https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl"
     },
     {
       "added_at": "2025-06-23 01:03:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-06-23 01:03:00",
       "album": {
-        "name": "Ballyhoo",
-        "url": "https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 165974,
-      "name": "Ballyhoo",
-      "url": "https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ"
-    },
-    {
-      "added_at": "2025-06-23 01:03:00",
-      "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 216504,
       "name": "Fallin\u2019 (Adrenaline)",
       "url": "https://open.spotify.com/track/5GhJIMWAw0uMLgkdbt6uMz"
+    },
+    {
+      "added_at": "2025-06-23 01:03:00",
+      "album": {
+        "name": "Ballyhoo",
+        "url": "https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 165974,
+      "name": "Ballyhoo",
+      "url": "https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ"
     },
     {
       "added_at": "2025-06-23 01:03:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-06-23 01:03:00",
       "album": {
-        "name": "Smash It Like Belushi",
-        "url": "https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 168554,
-      "name": "Smash It Like Belushi",
-      "url": "https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz"
-    },
-    {
-      "added_at": "2025-06-23 01:03:00",
-      "album": {
         "name": "Dead Club City",
         "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 238442,
       "name": "Tomorrow Is Closed",
       "url": "https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS"
+    },
+    {
+      "added_at": "2025-06-23 01:03:00",
+      "album": {
+        "name": "Smash It Like Belushi",
+        "url": "https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 168554,
+      "name": "Smash It Like Belushi",
+      "url": "https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz"
     },
     {
       "added_at": "2025-06-23 01:03:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-06-23 01:03:00",
       "album": {
-        "name": "Good Side",
-        "url": "https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii"
-      },
-      "artists": [
-        {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
-        }
-      ],
-      "duration_ms": 164286,
-      "name": "Good Side",
-      "url": "https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv"
-    },
-    {
-      "added_at": "2025-06-23 01:03:00",
-      "album": {
         "name": "Lighthouse",
         "url": "https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 191963,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb"
+    },
+    {
+      "added_at": "2025-06-23 01:03:00",
+      "album": {
+        "name": "Good Side",
+        "url": "https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "duration_ms": 164286,
+      "name": "Good Side",
+      "url": "https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv"
     },
     {
       "added_at": "2025-06-23 01:03:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-06-23 01:03:00",
       "album": {
-        "name": "Troubled Waters",
-        "url": "https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 197775,
-      "name": "Troubled Waters",
-      "url": "https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v"
-    },
-    {
-      "added_at": "2025-06-23 01:03:00",
-      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/3b8s7uA0RjzJlP3WfIpdsa"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 201153,
       "name": "Higher",
       "url": "https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT"
+    },
+    {
+      "added_at": "2025-06-23 01:03:00",
+      "album": {
+        "name": "Troubled Waters",
+        "url": "https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 197775,
+      "name": "Troubled Waters",
+      "url": "https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v"
     }
   ],
   "unique_name": "\u5fc3\u60c5\u5927\u632f",

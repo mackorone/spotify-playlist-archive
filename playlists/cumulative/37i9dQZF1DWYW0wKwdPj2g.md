@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Minister GUC
 
-239 songs - 1 day 7 hr 45 min
+240 songs - 1 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Every Word \(Live\)](https://open.spotify.com/track/3u2H4kWt3fuoKpXDGN6OlC) | [Manuel Bless](https://open.spotify.com/artist/2Q5np0NykqxfWBMQXD2zFq) | [Rts Live Sessions](https://open.spotify.com/album/0uHbTECEgQpAkWrl2Dl8g5) | 4:23 | 2025-02-21 | 2025-05-16 |
 | [Excess Love \(feat\. JJ Hairston & Youthful Praise\) \- Remix](https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 8:27 | 2024-02-23 | 2024-04-19 |
 | [Excess Love \- Remix](https://open.spotify.com/track/6Iv1BDGnzb7MnTfqYS8iNV) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [SATISFIED](https://open.spotify.com/album/6ob1gwzBctp5HnzXhyBH3b) | 8:27 | 2024-02-23 |  |
-| [Far Above All \- Live Version](https://open.spotify.com/track/3zvyQ75g2PxmYaQxkN4QJO) | [Uzo Oachi](https://open.spotify.com/artist/3UlV06XcGOAy8dL0QYVHu3) | [Far Above All \(Live Version\)](https://open.spotify.com/album/1HFjY6Uw4lyONKyQ0kjml7) | 9:31 | 2025-05-16 |  |
+| [Far Above All \- Live Version](https://open.spotify.com/track/3zvyQ75g2PxmYaQxkN4QJO) | [Uzo Oachi](https://open.spotify.com/artist/3UlV06XcGOAy8dL0QYVHu3) | [Far Above All \(Live Version\)](https://open.spotify.com/album/1HFjY6Uw4lyONKyQ0kjml7) | 9:31 | 2025-05-16 | 2025-06-27 |
 | [Fear Not \- Live](https://open.spotify.com/track/6JNOrgmjEmlIkJGLPak4hO) | [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Live at Soweto Theater](https://open.spotify.com/album/7e0vBGk87YGodfK0eFnho2) | 7:53 | 2024-02-23 | 2024-12-20 |
 | [Fire \- Live](https://open.spotify.com/track/21qtkRxWRYazoctM8bxsQC) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx) | [Fire \(Live\)](https://open.spotify.com/album/2cfh0AgpP7j7ZSfPLYyCoE) | 9:39 | 2025-01-17 |  |
 | [Fragrance to Fire](https://open.spotify.com/track/7eGDM90StP3QFkcwJPaLRg) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 10:57 | 2024-02-23 |  |
@@ -127,6 +127,7 @@
 | [Lord You are Beautiful](https://open.spotify.com/track/3qaeqyOZfezV0M0dUgQJmy) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI), [Pastor Isaiah Fosu Kwakye Jnr](https://open.spotify.com/artist/0Pl2UadAMjRxVXD1YiVU1R) | [Lord You are Beautiful](https://open.spotify.com/album/3q9KsM7PD2M67L1tsIvzY1) | 9:21 | 2024-06-07 | 2024-11-08 |
 | [LOVE LETTER \- Live](https://open.spotify.com/track/1DWwUpjkxLjBKiioxibJ84) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT), [Noble G](https://open.spotify.com/artist/5QMR3QbX1ufqYCWPsphyUm) | [LOVE LETTER \(Live\)](https://open.spotify.com/album/2XzxlGhn4CESGnHGbPkpUm) | 13:23 | 2025-04-18 |  |
 | [Loved by You \- Live](https://open.spotify.com/track/6Cr1CDE0TTzcDXgGYyUN51) | [Dr TJ](https://open.spotify.com/artist/1QtVmlYLcmOnMOQFZX0T7A), [Victoria Israel](https://open.spotify.com/artist/5LcTR3uqIuwM3RKAs7mEcA), [Maio](https://open.spotify.com/artist/0uufu8f9gj5MoDOEtHrAc4) | [Loved by You \(Live\)](https://open.spotify.com/album/0pLh2OzBlZp8w6hCZIYY4G) | 6:03 | 2025-01-31 | 2025-02-21 |
+| [Made Me Holy \- Live](https://open.spotify.com/track/2afPk8bJAErfQHX8Fp3vYZ) | [Lily Perez](https://open.spotify.com/artist/4q1WSwssICii8AJOeFd5KD) | [Made Me Holy \(Live\)](https://open.spotify.com/album/0TazG5KbyI3c2ikU73TYlC) | 7:26 | 2025-06-27 |  |
 | [Maisha Yangu / Baba Yangu, Baba Yangu \- Live in Kenya](https://open.spotify.com/track/0FBvsqVV4egLLgn9NIH4xT) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Maisha Yangu / Baba Yangu, Baba Yangu \(Live in Kenya\)](https://open.spotify.com/album/09oMzJiQ4rr6Q84fLXRFR7) | 9:02 | 2024-08-16 | 2024-10-04 |
 | [Majina Yote Jehovah](https://open.spotify.com/track/7L5JyeVQzmhpbjpZcoIDWn) | [Dedo Dieumerci](https://open.spotify.com/artist/4t8dpDtvEUucCvmEMLYUuR), [Naomi Mugiraneza](https://open.spotify.com/artist/4awEqX0MSvBqpwBfSMCiMm) | [Hymnos 2](https://open.spotify.com/album/4lQaSOEJAMWQf7ecxmj3RE) | 9:42 | 2024-02-23 |  |
 | [Mama](https://open.spotify.com/track/4P5IbGcw0P3Xsdeg4tiIAD) | [Puleng Phoofolo](https://open.spotify.com/artist/4PV6IJwluKGjXmKLhKFa0E) | [Mama](https://open.spotify.com/album/2HQr7391j3Ejce2D981CJ2) | 3:46 | 2024-06-28 |  |

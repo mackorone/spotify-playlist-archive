@@ -56,7 +56,7 @@
 | [Who's That Girl](https://open.spotify.com/track/16cb7NuPz7j0BrQGXKo3zd) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:58 | 2013-06-27 |  |
 | [Will You Still Love Me? \- 2003 Remaster](https://open.spotify.com/track/3dn6qXlHYAQpOqMTWxkGOR) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Love Songs](https://open.spotify.com/album/6CttJqwyQqtUbElzGjNrHa) | 4:12 | 2013-06-27 |  |
 | [With Or Without You](https://open.spotify.com/track/3bcYb4HwWlytUFLny0e0Q1) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/586ZRfgsIckfcKvHVcGM4V) | 4:56 | 2013-06-27 |  |
-| [You Got It All](https://open.spotify.com/track/2tjPr1eN1bQIYn7APY0YjR) | [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [The Greatest Valentine's Day Love Songs of the 70's & 80's](https://open.spotify.com/album/122YsLqJbIpDqkVRcAGSYu) | 4:21 | 2013-06-27 |  |
+| [You Got It All \(Rerecorded\)](https://open.spotify.com/track/2tjPr1eN1bQIYn7APY0YjR) | [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [The Greatest Valentine's Day Love Songs of the 70's & 80's](https://open.spotify.com/album/122YsLqJbIpDqkVRcAGSYu) | 4:21 | 2013-06-27 |  |
 | [You Keep Me Hangin' On](https://open.spotify.com/track/06zAcTERy6OnugGpX21apj) | [Kim Wilde](https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo) | [Radio Waves Of The 80's \- Pop Hits](https://open.spotify.com/album/5jyYlJdBiy75c2SBe0xq9K) | 4:11 | 2013-06-27 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

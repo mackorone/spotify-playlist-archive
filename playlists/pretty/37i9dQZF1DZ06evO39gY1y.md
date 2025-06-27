@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 
 > This is Charles Ans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,751 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,801 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 42 | [La Que Se Fue](https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [La Que Se Fue](https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26) | 2:46 |
 | 43 | [Cada Vez](https://open.spotify.com/track/63Fb4Ug0IreGmhoKf6PVrt) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cada Vez](https://open.spotify.com/album/4eNiNe8uTe8LK410C4OOTJ) | 3:27 |
 | 44 | [No Se Sobrepase](https://open.spotify.com/track/0mj2pvcThmx2CPb798jm84) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 3:03 |
-| 45 | [El Tiempo Cura](https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Adan Golden Ganga](https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH) | [El Tiempo Cura](https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0) | 3:28 |
-| 46 | [Ruego](https://open.spotify.com/track/2QcwDtAaq2bVfDgTNgV79R) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 3:58 |
+| 45 | [Ruego](https://open.spotify.com/track/2QcwDtAaq2bVfDgTNgV79R) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 3:58 |
+| 46 | [El Tiempo Cura](https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Adan Golden Ganga](https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH) | [El Tiempo Cura](https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0) | 3:28 |
 | 47 | [Suave](https://open.spotify.com/track/60Q52tRITuGCBbbt6zQPqQ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Suave](https://open.spotify.com/album/5MYr57wJSDfVi4DnvSwPPv) | 3:34 |
 | 48 | [Desde Que Te Bese](https://open.spotify.com/track/79aqsG5pFczwipwIHJIZDI) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [LDCR: Los Del Corazón Roto](https://open.spotify.com/album/2Bsf3oexDX6pAk6Za4iEhW) | 3:02 |
-| 49 | [Graciela / "Carta a Mi Abuela"](https://open.spotify.com/track/1yZZsjAwvLfeHdOIEdlHGR) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Brujas y Otros Hábitos](https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd) | 2:52 |
-| 50 | [Vamos a Dar el Roll](https://open.spotify.com/track/16GzftkFYQk71qlyYjFLhZ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 4:40 |
+| 49 | [Vamos a Dar el Roll](https://open.spotify.com/track/16GzftkFYQk71qlyYjFLhZ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 4:40 |
+| 50 | [Graciela / "Carta a Mi Abuela"](https://open.spotify.com/track/1yZZsjAwvLfeHdOIEdlHGR) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Brujas y Otros Hábitos](https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd) | 2:52 |
 
-Snapshot ID: `aFnqgAAAAAAMJlFGbsIcLCZdZwFcYkqZ`
+Snapshot ID: `aFs8AAAAAACuhk1kT0x7pTN8K31/hL8F`

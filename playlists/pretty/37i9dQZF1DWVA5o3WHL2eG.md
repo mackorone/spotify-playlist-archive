@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Zsá Zsá
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,324 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,338 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [bad bunnies](https://open.spotify.com/track/4aAZTaXHlm625nZhF6Zr12) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [bad bunnies](https://open.spotify.com/album/3O1nygq0m8rJvP1G8a8uHN) | 2:17 |
+| 1 | [bad bunnies](https://open.spotify.com/track/4aAZTaXHlm625nZhF6Zr12) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [bad bunnies](https://open.spotify.com/album/3O1nygq0m8rJvP1G8a8uHN) | 2:17 |
 | 2 | [Schmetterling](https://open.spotify.com/track/5E3BK90EQQxmrDz3zLG2l9) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Schmetterling](https://open.spotify.com/album/18LPHcIbr5G6oFx9Mf3lU3) | 2:00 |
 | 3 | [Gerade aus](https://open.spotify.com/track/6RXYuVDMvzJlK9Doe4HHxV) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Gerade aus](https://open.spotify.com/album/353KwFNHIOFqN4WlsCTJFc) | 2:11 |
 | 4 | [Zahide Did It Better](https://open.spotify.com/track/6Nt7EMuRkZxoG3B1MDdzpz) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd) | [Zahide Did It Better](https://open.spotify.com/album/5KMN9yXTsSokxwaWSx7eAW) | 1:56 |
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 14 | [Knoppers](https://open.spotify.com/track/42nG2hVZIVNfPBQ8RiOCAj) | [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W), [Traya](https://open.spotify.com/artist/0bo1LMgTEg5qpicrIee54M) | [Knoppers](https://open.spotify.com/album/0RzlcFXkk0MJmcQhYxwcwR) | 2:06 |
 | 15 | [hungerspiele](https://open.spotify.com/track/5EnJNlBSbircsRkFlpINQ0) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [hungerspiele](https://open.spotify.com/album/0XD2A1SUf0gl6LkWBNzQ2R) | 2:57 |
 | 16 | [Vespa](https://open.spotify.com/track/4cQXzeob93WskDrYumvoqn) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [Vespa](https://open.spotify.com/album/6pUSfO8PGUDlUFWh8SMZJQ) | 2:17 |
-| 17 | [Feuerkind](https://open.spotify.com/track/56ldjSVqZJ332ntiGLSPvW) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Feuerkind](https://open.spotify.com/album/5zwr0tXhxtJmfvgL1G8BK0) | 3:40 |
-| 18 | [Bitte sag](https://open.spotify.com/track/5rj7ExuHtdyVGtUMuprZqe) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ) | [Bitte sag](https://open.spotify.com/album/7GV5MAj4vGJ6UBwpUcKmnX) | 2:11 |
+| 17 | [Bitte sag](https://open.spotify.com/track/5rj7ExuHtdyVGtUMuprZqe) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ) | [Bitte sag](https://open.spotify.com/album/7GV5MAj4vGJ6UBwpUcKmnX) | 2:11 |
+| 18 | [Feuerkind](https://open.spotify.com/track/56ldjSVqZJ332ntiGLSPvW) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Feuerkind](https://open.spotify.com/album/5zwr0tXhxtJmfvgL1G8BK0) | 3:40 |
 | 19 | [Daddy](https://open.spotify.com/track/5UEdzLdq8tICr6x0abO4gM) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Daddy](https://open.spotify.com/album/4sQdg2DCe4J2ZJbOEZ615l) | 2:34 |
-| 20 | [Er kriegt mich nicht](https://open.spotify.com/track/3QlqPRUCScMH9SRdRSPhid) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Er kriegt mich nicht](https://open.spotify.com/album/32KQ2dKaKl0XXalzDj9b5U) | 1:29 |
+| 20 | [Er kriegt mich nicht](https://open.spotify.com/track/3QlqPRUCScMH9SRdRSPhid) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [Er kriegt mich nicht](https://open.spotify.com/album/32KQ2dKaKl0XXalzDj9b5U) | 1:29 |
 | 21 | [215 fehlstunden](https://open.spotify.com/track/3X4DZ9xR9ASP2mApkmOWg3) | [chiara](https://open.spotify.com/artist/4WimfwqguLTlWfpNaaonvG) | [215 fehlstunden](https://open.spotify.com/album/46Vbi8Z2yGVDa3D1k9ZRmD) | 2:31 |
 | 22 | [Hey Chatty](https://open.spotify.com/track/5v1cAVbBR0v5Gev5NF1GZd) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Hey Chatty](https://open.spotify.com/album/0Bvd5BIjtgxoAvg3F7OTla) | 2:47 |
 | 23 | [paradox](https://open.spotify.com/track/7caBLs17zpDr8qfRPoTPw3) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [paradox](https://open.spotify.com/album/3pexxVelQfabVmGJNTmq24) | 5:09 |

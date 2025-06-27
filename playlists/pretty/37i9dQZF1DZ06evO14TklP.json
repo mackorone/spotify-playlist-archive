@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 13354,
+  "num_followers": 13361,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAAC3lQT3V5QMvu72SdRbTt8N",
+  "snapshot_id": "aFs8AAAAAAD+eXHkrd6/S9BCts3s2kkT",
   "tracks": [
     {
       "added_at": null,
@@ -376,17 +376,13 @@
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        },
-        {
-          "name": "Heavy Baile",
-          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
         }
       ],
-      "duration_ms": 142500,
-      "name": "Hentai",
-      "url": "https://open.spotify.com/track/4WASSSbTnOr8upRdiFy0Iz"
+      "duration_ms": 108249,
+      "name": "Lei da Atra\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3pUHsvEu7VbILDCWpHM23J"
     },
     {
       "added_at": null,
@@ -460,13 +456,17 @@
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "AG Beatz",
-          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
         }
       ],
-      "duration_ms": 108249,
-      "name": "Lei da Atra\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3pUHsvEu7VbILDCWpHM23J"
+      "duration_ms": 142500,
+      "name": "Hentai",
+      "url": "https://open.spotify.com/track/4WASSSbTnOr8upRdiFy0Iz"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
-        "url": "https://open.spotify.com/album/7wOOzGXDZFNlM35vwKCRQd"
-      },
-      "artists": [
-        {
-          "name": "Afrodite Bxd",
-          "url": "https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 147119,
-      "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
-      "url": "https://open.spotify.com/track/3KkmOuhoMzJJxLWDwQFSH8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vis\u00e3o Perif\u00e9rica",
         "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 164941,
       "name": "P\u00f3dio",
       "url": "https://open.spotify.com/track/1rfDQtL6vMfUD0aBuVR1Jk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
+        "url": "https://open.spotify.com/album/7wOOzGXDZFNlM35vwKCRQd"
+      },
+      "artists": [
+        {
+          "name": "Afrodite Bxd",
+          "url": "https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 147119,
+      "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
+      "url": "https://open.spotify.com/track/3KkmOuhoMzJJxLWDwQFSH8"
     },
     {
       "added_at": null,
@@ -755,6 +755,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vis\u00e3o Perif\u00e9rica",
+        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "BENO",
+          "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 194338,
+      "name": "Camarim",
+      "url": "https://open.spotify.com/track/3EX9khxUXGS1YFmM6WcWP0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fresh Stars 2020 Pnpl",
         "url": "https://open.spotify.com/album/3wyMe21JdM7MjyoHaYChHE"
       },
@@ -791,30 +815,6 @@
       "duration_ms": 280000,
       "name": "Fresh Stars 2020 Pnpl",
       "url": "https://open.spotify.com/track/1VEuZhIan3IQiZUxJihA8H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vis\u00e3o Perif\u00e9rica",
-        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "BENO",
-          "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 194338,
-      "name": "Camarim",
-      "url": "https://open.spotify.com/track/3EX9khxUXGS1YFmM6WcWP0"
     },
     {
       "added_at": null,
@@ -879,6 +879,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vis\u00e3o Perif\u00e9rica",
+        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        }
+      ],
+      "duration_ms": 132213,
+      "name": "After",
+      "url": "https://open.spotify.com/track/40D3BjcNrKXsn1dUNBGGJC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Condessa",
         "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 115999,
       "name": "Bugatti",
       "url": "https://open.spotify.com/track/6uhGUFjFRG1dZnWq7s14Qs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vis\u00e3o Perif\u00e9rica",
-        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        }
-      ],
-      "duration_ms": 132213,
-      "name": "After",
-      "url": "https://open.spotify.com/track/40D3BjcNrKXsn1dUNBGGJC"
     },
     {
       "added_at": null,
@@ -975,30 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Condessa",
-        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Celo1st",
-          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
-        }
-      ],
-      "duration_ms": 134569,
-      "name": "Disco",
-      "url": "https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vis\u00e3o Perif\u00e9rica",
         "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
       },
@@ -1019,6 +995,30 @@
       "duration_ms": 188581,
       "name": "Caneta",
       "url": "https://open.spotify.com/track/6pivmOyA8mAoCkhSE4H5rL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        }
+      ],
+      "duration_ms": 134569,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU"
     },
     {
       "added_at": null,

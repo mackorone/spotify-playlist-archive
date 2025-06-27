@@ -1,12 +1,12 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19062,
+  "num_followers": 19066,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFQX+QAAAADlpiVkmKn9J2hhQ98a5w2b",
+  "snapshot_id": "aF1ShgAAAABMk4oRp2IW0/vWZfeEOOgp",
   "tracks": [
     {
       "added_at": "2025-06-19 14:00:25",
@@ -25,10 +25,10 @@
       "url": "https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv"
     },
     {
-      "added_at": "2025-06-19 14:00:25",
+      "added_at": "2025-04-24 14:00:10",
       "album": {
-        "name": "Hammer",
-        "url": "https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU"
+        "name": "What Was That",
+        "url": "https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o"
       },
       "artists": [
         {
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 193443,
-      "name": "Hammer",
-      "url": "https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW"
+      "duration_ms": 209286,
+      "name": "What Was That",
+      "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
     },
     {
       "added_at": "2025-06-19 14:00:25",
@@ -169,10 +169,10 @@
       "url": "https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay"
     },
     {
-      "added_at": "2025-04-24 14:00:10",
+      "added_at": "2025-05-29 23:24:52",
       "album": {
-        "name": "What Was That",
-        "url": "https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o"
+        "name": "Man Of The Year",
+        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 209286,
-      "name": "What Was That",
-      "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
+      "duration_ms": 180433,
+      "name": "Man Of The Year",
+      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
     },
     {
       "added_at": "2025-04-17 14:00:17",
@@ -233,22 +233,6 @@
       "url": "https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg"
     },
     {
-      "added_at": "2025-05-29 23:24:52",
-      "album": {
-        "name": "Blister",
-        "url": "https://open.spotify.com/album/1j6EOOgb7OtwaTPu1aA0gi"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 179866,
-      "name": "Blister",
-      "url": "https://open.spotify.com/track/3InSQjWvh4fKQx1BBiA4Nl"
-    },
-    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "SENESCENCE 05 + 06",
@@ -263,6 +247,22 @@
       "duration_ms": 170235,
       "name": "Grin",
       "url": "https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7"
+    },
+    {
+      "added_at": "2025-05-29 23:24:52",
+      "album": {
+        "name": "Blister",
+        "url": "https://open.spotify.com/album/1j6EOOgb7OtwaTPu1aA0gi"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 179866,
+      "name": "Blister",
+      "url": "https://open.spotify.com/track/3InSQjWvh4fKQx1BBiA4Nl"
     },
     {
       "added_at": "2025-05-01 14:00:27",
@@ -333,10 +333,10 @@
       "url": "https://open.spotify.com/track/0DqMDEZk9dFM631sQOPVJh"
     },
     {
-      "added_at": "2025-05-29 23:24:52",
+      "added_at": "2025-06-19 14:00:25",
       "album": {
-        "name": "Man Of The Year",
-        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
+        "name": "Hammer",
+        "url": "https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 180433,
-      "name": "Man Of The Year",
-      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
+      "duration_ms": 193443,
+      "name": "Hammer",
+      "url": "https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW"
     },
     {
       "added_at": "2025-03-20 14:42:12",
@@ -929,6 +929,22 @@
       "url": "https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4"
     },
     {
+      "added_at": "2025-06-26 14:00:38",
+      "album": {
+        "name": "No Joy",
+        "url": "https://open.spotify.com/album/1HbbRnWZ0mMVKHj9PsCUk7"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "No Joy",
+      "url": "https://open.spotify.com/track/3p1UaNpImYT3nrIy1reGJ6"
+    },
+    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "Gravity",
@@ -985,22 +1001,6 @@
       "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
     },
     {
-      "added_at": "2025-04-03 13:00:16",
-      "album": {
-        "name": "Slow Crush",
-        "url": "https://open.spotify.com/album/0g0bAZkZDREcGkAo5jzuYU"
-      },
-      "artists": [
-        {
-          "name": "Alisa Xayalith",
-          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
-        }
-      ],
-      "duration_ms": 210926,
-      "name": "Alone With You",
-      "url": "https://open.spotify.com/track/4twZYaycgkHGouSHWd6coG"
-    },
-    {
       "added_at": "2025-05-08 14:00:23",
       "album": {
         "name": "kissing under an (almost) full moon",
@@ -1017,24 +1017,20 @@
       "url": "https://open.spotify.com/track/3LSnjjRclQUlY3H94wuTc1"
     },
     {
-      "added_at": "2024-10-24 13:00:00",
+      "added_at": "2025-04-03 13:00:16",
       "album": {
-        "name": "Under One Roof",
-        "url": "https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3"
+        "name": "Slow Crush",
+        "url": "https://open.spotify.com/album/0g0bAZkZDREcGkAo5jzuYU"
       },
       "artists": [
         {
-          "name": "Flowidus",
-          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
-        },
-        {
-          "name": "Sam Welch",
-          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
+          "name": "Alisa Xayalith",
+          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
         }
       ],
-      "duration_ms": 254281,
-      "name": "Under One Roof",
-      "url": "https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64"
+      "duration_ms": 210926,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/4twZYaycgkHGouSHWd6coG"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1071,6 +1067,26 @@
       "duration_ms": 178062,
       "name": "Crazy Dream - Edit",
       "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Under One Roof",
+        "url": "https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3"
+      },
+      "artists": [
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
+        {
+          "name": "Sam Welch",
+          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
+        }
+      ],
+      "duration_ms": 254281,
+      "name": "Under One Roof",
+      "url": "https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64"
     },
     {
       "added_at": "2025-05-29 23:24:52",
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Harmless",
-        "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
-      },
-      "artists": [
-        {
-          "name": "Will Swinton",
-          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
-        }
-      ],
-      "duration_ms": 145445,
-      "name": "Harmless",
-      "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz"
       },
@@ -1167,6 +1167,22 @@
       "duration_ms": 107232,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Harmless",
+        "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "duration_ms": 145445,
+      "name": "Harmless",
+      "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
     },
     {
       "added_at": "2024-11-28 13:00:00",
@@ -1247,30 +1263,6 @@
       "duration_ms": 172879,
       "name": "That's Life, Baby!",
       "url": "https://open.spotify.com/track/6eCL5F6TCHTwDZ2QnlZj3c"
-    },
-    {
-      "added_at": "2025-06-12 14:00:32",
-      "album": {
-        "name": "FEEL GOOD AURA",
-        "url": "https://open.spotify.com/album/3T6oSRejjNgNcuoq4vd0nz"
-      },
-      "artists": [
-        {
-          "name": "MELODOWNZ",
-          "url": "https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H"
-        },
-        {
-          "name": "Caru",
-          "url": "https://open.spotify.com/artist/2W3HtoJXnap6BDGYr8PRuv"
-        },
-        {
-          "name": "Romi Wrights",
-          "url": "https://open.spotify.com/artist/0NW11rIYIi5R9bTax6kv9J"
-        }
-      ],
-      "duration_ms": 208019,
-      "name": "FEEL GOOD AURA",
-      "url": "https://open.spotify.com/track/2i43SUgkp5g1W5rze9awuF"
     }
   ],
   "unique_name": "The Local List Aotearoa",

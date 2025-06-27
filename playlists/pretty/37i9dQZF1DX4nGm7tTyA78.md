@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 
 > Reggaeton pero al sabor de Cristo! Foto: Jay Kalyl
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,407 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,463 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 | 6 | [LOVEO](https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LOVEO](https://open.spotify.com/album/00lZ4WPWOw5BdLJAPMtvrr) | 2:53 |
 | 7 | [Misericordia](https://open.spotify.com/track/45kBRk3OOKJNKJJFO0h1OJ) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Misericordia](https://open.spotify.com/album/0Y29ylAB8U61Jfb1O719IS) | 3:38 |
 | 8 | [Vitamina](https://open.spotify.com/track/2lieDq6yRePGNBKLTcKe39) | [CSHALOM](https://open.spotify.com/artist/5SnxvQmYVN1duOHPQpequL), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Vitamina](https://open.spotify.com/album/3eGLkulNSikRUYnkEN2yRV) | 3:41 |
-| 9 | [Colores](https://open.spotify.com/track/0NB8PzSYEgOXkIoGnRXvAn) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [UNO \(Live\)](https://open.spotify.com/album/5vdYMnnCJmO7SfznAbalil) | 3:34 |
+| 9 | [Colores \- Live](https://open.spotify.com/track/0NB8PzSYEgOXkIoGnRXvAn) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [UNO \(Live\)](https://open.spotify.com/album/5vdYMnnCJmO7SfznAbalil) | 3:34 |
 | 10 | [Cuando Me Ves](https://open.spotify.com/track/0jRyIKI1afOiFsaOxwx63E) | [Junior Delgado Music](https://open.spotify.com/artist/0cVT6RdWUCUZIDu2PN1Brb), [Obedoyoque](https://open.spotify.com/artist/0ZV3RlJLxlSiCjiWO2WFXS), [l3tter](https://open.spotify.com/artist/3B0n8UdEg8Eo2OMUvhrlZt), [La Qadra Music](https://open.spotify.com/artist/2bTPXV9qqB8r1ujLb7K19m) | [Cuando Me Ves](https://open.spotify.com/album/2j0dWJIWZjxynM4uBnH2BO) | 2:39 |
 | 11 | [De Buenas](https://open.spotify.com/track/4aza6ni2rG8tp6MiBKAeCe) | [Josh Gamez](https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [De Buenas](https://open.spotify.com/album/5xCwBhSdQoC3TKY98ApcD0) | 3:25 |
 | 12 | [Ganas de Vivir](https://open.spotify.com/track/6367glu3JEfj7oJ03oAe7L) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Ganas de Vivir](https://open.spotify.com/album/1LX6lEi66BNQEV4GgxcvXk) | 3:57 |

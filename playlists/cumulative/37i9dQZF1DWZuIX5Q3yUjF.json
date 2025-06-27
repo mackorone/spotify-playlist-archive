@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "STE in cover della playlist dell'R&B italiano \ud83c\udfa7",
+  "description": "Aka 7even in cover della playlist dell'R&B italiano \ud83c\udfa7",
   "name": "anima R&B",
   "tracks": [
+    {
+      "album": {
+        "name": "\"solo a guardarti mi annoio\"",
+        "url": "https://open.spotify.com/album/5GLqhxGjKrb6LJcN2l9sOq"
+      },
+      "artists": [
+        {
+          "name": "sara j jones",
+          "url": "https://open.spotify.com/artist/7I3cZK2UEuNOwZAHov9z9o"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152928,
+      "name": "\"solo a guardarti mi annoio\"",
+      "url": "https://open.spotify.com/track/2BBDcNUVBewdGGkKOsLkzQ"
+    },
     {
       "album": {
         "name": "RNBBOY",
@@ -826,7 +844,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 174545,
       "name": "Amore Dejav\u00f9",
       "url": "https://open.spotify.com/track/0occr1ZWlEXM5C63eoRNaO"
@@ -1341,6 +1359,24 @@
     },
     {
       "album": {
+        "name": "Baby Daddy",
+        "url": "https://open.spotify.com/album/1ITJyQG8Tph2gcP79lqMbq"
+      },
+      "artists": [
+        {
+          "name": "Feliciana",
+          "url": "https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107500,
+      "name": "Baby Daddy",
+      "url": "https://open.spotify.com/track/0lrlU8PSGuZmI1cjs4D5cb"
+    },
+    {
+      "album": {
         "name": "baci baci",
         "url": "https://open.spotify.com/album/32vXmKVBTSPluwU7nyRMYr"
       },
@@ -1502,7 +1538,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 207403,
       "name": "BASTA SESSION N\u00b05 (feat. Mecna, Rare\u015f, fenoaltea, Goedi)",
       "url": "https://open.spotify.com/track/6MSh1Q7ljD3bTtLv5mTns9"
@@ -1904,7 +1940,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 190471,
       "name": "Brixia",
       "url": "https://open.spotify.com/track/2Kgai7MbbCzZBd1sGuVQBf"
@@ -2104,6 +2140,24 @@
       "duration_ms": 152361,
       "name": "caff\u00e8",
       "url": "https://open.spotify.com/track/6iInfKrLxmpg9t801MuBA0"
+    },
+    {
+      "album": {
+        "name": "Cafu (Pendolino)",
+        "url": "https://open.spotify.com/album/47la1csrJ56VACm81H9JZn"
+      },
+      "artists": [
+        {
+          "name": "Folcast",
+          "url": "https://open.spotify.com/artist/1PWmqY7ed9o6dgpAYYWZmS"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159409,
+      "name": "Cafu (Pendolino)",
+      "url": "https://open.spotify.com/track/2ZmIX96W2Y6qeskPzhJUXx"
     },
     {
       "album": {
@@ -7451,6 +7505,28 @@
     },
     {
       "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/34AA6adf7MYb5Jnp6PeNWo"
+      },
+      "artists": [
+        {
+          "name": "ram\u00e9",
+          "url": "https://open.spotify.com/artist/1h29htfGANrZucDHYItP7U"
+        },
+        {
+          "name": "Kabvki",
+          "url": "https://open.spotify.com/artist/4nS14korvlcnH1zXKgSwmw"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210285,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/4ZedKxVWDVsKwp6cEMxsh8"
+    },
+    {
+      "album": {
         "name": "Le Cose",
         "url": "https://open.spotify.com/album/4wimb8jyQFyFETvLlffqmZ"
       },
@@ -7858,7 +7934,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 178586,
       "name": "Lontano da qui",
       "url": "https://open.spotify.com/track/0GF055XwCDyHJ7NevXpCZR"
@@ -7898,7 +7974,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 155362,
       "name": "Loop",
       "url": "https://open.spotify.com/track/5fnFiMUnsdfRsAhp6LHgg5"
@@ -8706,7 +8782,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 150000,
       "name": "Mi Fai Sentire",
       "url": "https://open.spotify.com/track/3GTuHlDQ0rch650sMsrtpv"
@@ -10611,6 +10687,24 @@
     },
     {
       "album": {
+        "name": "ORA O MAI",
+        "url": "https://open.spotify.com/album/6TuAwEoJZYkNoMWx4a94qE"
+      },
+      "artists": [
+        {
+          "name": "Jenny Matai",
+          "url": "https://open.spotify.com/artist/1i1Xyj0U5Ktd3sKjDwAV0j"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "ORA O MAI",
+      "url": "https://open.spotify.com/track/6Fc7NHvErUCZ0zTrNsiRn6"
+    },
+    {
+      "album": {
         "name": "Ora per Ora",
         "url": "https://open.spotify.com/album/5j9Kj5bVHBqJEen9YbYgiK"
       },
@@ -11654,6 +11748,32 @@
       "duration_ms": 159592,
       "name": "r()t()nda (feat. Tiziano Ferro)",
       "url": "https://open.spotify.com/track/7FsuMwalG48ZfjklkSkuJa"
+    },
+    {
+      "album": {
+        "name": "Ragione e Follia",
+        "url": "https://open.spotify.com/album/1CBt7d71THAwB6RL2d3Yio"
+      },
+      "artists": [
+        {
+          "name": "Aka 7even",
+          "url": "https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc"
+        },
+        {
+          "name": "Tormento",
+          "url": "https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L"
+        },
+        {
+          "name": "Junior K",
+          "url": "https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Ragione e Follia",
+      "url": "https://open.spotify.com/track/3AKqs2n900YLNiayeLnTUJ"
     },
     {
       "album": {
@@ -13236,7 +13356,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 160534,
       "name": "SOLA",
       "url": "https://open.spotify.com/track/3jPYg5QCXu9gXeSSMvHXjQ"
@@ -15788,7 +15908,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 160000,
       "name": "voce",
       "url": "https://open.spotify.com/track/1FDhFlvgowZCuSrkO3wYb6"
@@ -16064,6 +16184,24 @@
       "duration_ms": 163346,
       "name": "Yakuza",
       "url": "https://open.spotify.com/track/6Q4I5oIDhnRwNhbLwW7dN1"
+    },
+    {
+      "album": {
+        "name": "Yozakura",
+        "url": "https://open.spotify.com/album/0RZ4Jzl28gySm7i68qA60z"
+      },
+      "artists": [
+        {
+          "name": "Mocci",
+          "url": "https://open.spotify.com/artist/2k3kU5QX62dpTrIUaTQPBe"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Yozakura",
+      "url": "https://open.spotify.com/track/5hwELcEGzY9PAFfOhFdfKn"
     },
     {
       "album": {

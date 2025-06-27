@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 256019,
+  "num_followers": 256052,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAADsYl61Knnb6XE8DdRmYv27",
+  "snapshot_id": "aFs8AAAAAAAVvhnsrwfIpvJ0/52tuKvD",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Baddest",
-        "url": "https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "Sharp Dressed Man",
-      "url": "https://open.spotify.com/track/7aXgo7vAHDjHR0JrCX2qJv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recycler",
         "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 236200,
       "name": "Doubleback",
       "url": "https://open.spotify.com/track/5do2NQzjriskVEaFM2z4ge"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Baddest",
+        "url": "https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "Sharp Dressed Man",
+      "url": "https://open.spotify.com/track/7aXgo7vAHDjHR0JrCX2qJv"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ZZ Top's First Album",
-        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 250120,
-      "name": "Just Got Back from Baby's",
-      "url": "https://open.spotify.com/track/2L72UXO13cFevWxF3Q1xFx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Loco",
         "url": "https://open.spotify.com/album/4iQeNxZ5xlP9TirtiSfisY"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 244826,
       "name": "Pearl Necklace",
       "url": "https://open.spotify.com/track/5ZgnPqNvtMFeLpahZUuLf3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ZZ Top's First Album",
+        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "Just Got Back from Baby's",
+      "url": "https://open.spotify.com/track/2L72UXO13cFevWxF3Q1xFx"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tejas",
-        "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 209626,
-      "name": "Asleep in the Desert (Instrumental)",
-      "url": "https://open.spotify.com/track/4PCPSEEKOsqr7vhX19dExv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ZZ Top's First Album",
         "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 203613,
       "name": "Goin' Down to Mexico",
       "url": "https://open.spotify.com/track/0Pm15uaCb1apAbVG1c1FY1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tejas",
+        "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 209626,
+      "name": "Asleep in the Desert (Instrumental)",
+      "url": "https://open.spotify.com/track/4PCPSEEKOsqr7vhX19dExv"
     },
     {
       "added_at": null,

@@ -313,6 +313,24 @@
     },
     {
       "album": {
+        "name": "the wind is picking up",
+        "url": "https://open.spotify.com/album/0zo7swJcqnoxLTWvBAtl19"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189213,
+      "name": "end of the world",
+      "url": "https://open.spotify.com/track/1ZoCqQEuhoOEW4PQhVDovL"
+    },
+    {
+      "album": {
         "name": "immer nur liebe",
         "url": "https://open.spotify.com/album/2D1YT6jEDEITABsSXuU0MY"
       },

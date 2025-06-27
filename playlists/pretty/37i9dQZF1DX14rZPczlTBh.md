@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,394 likes - 50 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,429 likes - 50 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 16 | [Waltair Veerayya \(Title Theme\) \[From "Waltair Veerayya"\]](https://open.spotify.com/track/07ilkGOCkZ9Biv0lfbhpgX) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Waltair Veerayya \(Title Theme\) \[From "Waltair Veerayya"\]](https://open.spotify.com/album/5pQSVnmsMDGzlOqrYguxmM) | 1:39 |
 | 17 | [The Rage Of Bhimaa \(From "Bhimaa"\)](https://open.spotify.com/track/4LHXR8UqVGecuGqoMPgbaG) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q) | [The Rage Of Bhimaa \(From "Bhimaa"\)](https://open.spotify.com/album/5mlwbbVoh2IAu5anQ7TVYw) | 2:02 |
 | 18 | [Train Station Scene](https://open.spotify.com/track/5HhXKkr32mR7zWqSDlajGy) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jersey \(Original Background Score\)](https://open.spotify.com/album/44f9oPlMaeYuApesdVp658) | 2:52 |
-| 19 | [Ram Ram Ram Theme \(From "HanuMan"\)](https://open.spotify.com/track/2x3zExs91f1xC862CTRcUI) | [Saicharan and Chorus](https://open.spotify.com/artist/3DoPWHwSbHThFQV2u0vJvt), [GowraHari](https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Ram Ram Ram Theme \(From "HanuMan"\)](https://open.spotify.com/album/6UmuhgdVEvhHw3crgrV4PR) | 0:55 |
-| 20 | [Theme of Gharshanaa](https://open.spotify.com/track/4uGnRhL3ZKDyTmLaDD0kMP) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l) | [Gharshanaa](https://open.spotify.com/album/1UjRLzKzCJqmrZK9Drt6Zx) | 2:17 |
+| 19 | [Theme of Gharshanaa](https://open.spotify.com/track/4uGnRhL3ZKDyTmLaDD0kMP) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l) | [Gharshanaa](https://open.spotify.com/album/1UjRLzKzCJqmrZK9Drt6Zx) | 2:17 |
+| 20 | [Ram Ram Ram Theme \(From "HanuMan"\)](https://open.spotify.com/track/2x3zExs91f1xC862CTRcUI) | [Saicharan and Chorus](https://open.spotify.com/artist/3DoPWHwSbHThFQV2u0vJvt), [GowraHari](https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Ram Ram Ram Theme \(From "HanuMan"\)](https://open.spotify.com/album/6UmuhgdVEvhHw3crgrV4PR) | 0:55 |
 | 21 | [Mass Theme Of Pushpa](https://open.spotify.com/track/4kyFdoTanak2xGGLvxQE7u) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Pushpa The Rise \- OST](https://open.spotify.com/album/64Vs6t5DycA8LzjeIGDSHk) | 1:55 |
 | 22 | [Mirapakai](https://open.spotify.com/track/5XzWkd0hxTesChmAs2o00G) | [Ranjith Govind](https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth), [Rita Thyagarajan](https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF) | [Mirapakay](https://open.spotify.com/album/7jsaQdNi0QERa22Wm7NVq7) | 1:16 |
 | 23 | [Arjun & Nani’s Theme](https://open.spotify.com/track/3AxmlfbUYBjL2N7BRAAY8l) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jersey \(Original Background Score\)](https://open.spotify.com/album/44f9oPlMaeYuApesdVp658) | 2:19 |

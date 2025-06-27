@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: Lijadu Sisters",
-  "num_followers": 117797,
+  "num_followers": 117833,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-03-14 05:25:23",
       "album": {
+        "name": "Best of The Black President",
+        "url": "https://open.spotify.com/album/7325GfKum2hDK231i3LqA7"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "duration_ms": 591706,
+      "name": "Water No Get Enemy - Edit",
+      "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
+    },
+    {
+      "added_at": "2025-03-14 05:25:23",
+      "album": {
         "name": "Horizon Unlimted",
         "url": "https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 415090,
       "name": "Love and Death",
       "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
-    },
-    {
-      "added_at": "2025-03-14 05:25:23",
-      "album": {
-        "name": "Best of The Black President",
-        "url": "https://open.spotify.com/album/7325GfKum2hDK231i3LqA7"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        }
-      ],
-      "duration_ms": 591706,
-      "name": "Water No Get Enemy - Edit",
-      "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
     },
     {
       "added_at": "2025-03-14 05:25:23",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-03-14 05:25:23",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 182226,
-      "name": "Pata Pata",
-      "url": "https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j"
-    },
-    {
-      "added_at": "2025-03-14 05:25:23",
-      "album": {
         "name": "Zombie",
         "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
       },
@@ -655,18 +639,34 @@
     {
       "added_at": "2025-03-14 05:25:23",
       "album": {
-        "name": "Mango Groove",
-        "url": "https://open.spotify.com/album/5snC2QWALNCAMl7FW521yb"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r"
       },
       "artists": [
         {
-          "name": "Mango Groove",
-          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
         }
       ],
-      "duration_ms": 353266,
-      "name": "Special Star",
-      "url": "https://open.spotify.com/track/1xMFHgilbKXS02lMSBlDvZ"
+      "duration_ms": 182226,
+      "name": "Pata Pata",
+      "url": "https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j"
+    },
+    {
+      "added_at": "2025-03-14 05:25:23",
+      "album": {
+        "name": "Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973-77 (Soundway Records)",
+        "url": "https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj"
+      },
+      "artists": [
+        {
+          "name": "The Funkees",
+          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
+        }
+      ],
+      "duration_ms": 448914,
+      "name": "Akula Owu Onyeara",
+      "url": "https://open.spotify.com/track/5mpjIvDq4cgQFyZviKwSRP"
     }
   ],
   "unique_name": "Classic Afropop",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Al cien para un buen ejercicio!",
-  "num_followers": 187485,
+  "num_followers": 187649,
   "original_name": "Bien Mach\u00edn",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "R\u00e1fagas al Viento",
-        "url": "https://open.spotify.com/album/7igjrxQ40Pjvbe3R7Weqpl"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "R\u00e1fagas al Viento",
-      "url": "https://open.spotify.com/track/5GIrmSQBxO9LTunilbwMWw"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
         "name": "MIRADA",
         "url": "https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 253909,
       "name": "Atenci\u00f3n",
       "url": "https://open.spotify.com/track/51sN3VDJBVmKJVgp0trc7M"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
+        "name": "R\u00e1fagas al Viento",
+        "url": "https://open.spotify.com/album/7igjrxQ40Pjvbe3R7Weqpl"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "R\u00e1fagas al Viento",
+      "url": "https://open.spotify.com/track/5GIrmSQBxO9LTunilbwMWw"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "PERDIDO",
-        "url": "https://open.spotify.com/album/1bySzNQNPElENKhS564NkO"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 156470,
-      "name": "PERDIDO",
-      "url": "https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
         "name": "El Amigo",
         "url": "https://open.spotify.com/album/6OySc3pqPzPDePgD017baK"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 189040,
       "name": "El Amigo",
       "url": "https://open.spotify.com/track/0MoIJDuJ2Q7XphYMIxWvRB"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
+        "name": "PERDIDO",
+        "url": "https://open.spotify.com/album/1bySzNQNPElENKhS564NkO"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 156470,
+      "name": "PERDIDO",
+      "url": "https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "Boneless",
-        "url": "https://open.spotify.com/album/3nPgilvMmwz5AjXZ8XBj4B"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 173618,
-      "name": "Boneless",
-      "url": "https://open.spotify.com/track/1RYO67KLXoKM5hTpMevbaN"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
         "name": "SANTAL 33",
         "url": "https://open.spotify.com/album/0shplQLEuJb5ycfUS7Ngli"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 190303,
       "name": "SANTAL 33",
       "url": "https://open.spotify.com/track/3VpJtbVmm4GN0UIb4WqNF9"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
+        "name": "Boneless",
+        "url": "https://open.spotify.com/album/3nPgilvMmwz5AjXZ8XBj4B"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 173618,
+      "name": "Boneless",
+      "url": "https://open.spotify.com/track/1RYO67KLXoKM5hTpMevbaN"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "Que Pedo",
-        "url": "https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Eddy",
-          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
-        }
-      ],
-      "duration_ms": 194062,
-      "name": "Que Pedo",
-      "url": "https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
         "name": "\u00c1lbum JGL",
         "url": "https://open.spotify.com/album/3T4dCPP3hciPkPDsN9EFcL"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 170435,
       "name": "\u00c1lbum JGL",
       "url": "https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
+        "name": "Que Pedo",
+        "url": "https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        }
+      ],
+      "duration_ms": 194062,
+      "name": "Que Pedo",
+      "url": "https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -1687,18 +1687,22 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/0vCLnUAU6odhQC7c5zla9O"
+        "name": "Una Amenaza",
+        "url": "https://open.spotify.com/album/49vzqdS8FB5hFm4QUiz19P"
       },
       "artists": [
         {
-          "name": "Kane Rodriguez",
-          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        },
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
         }
       ],
-      "duration_ms": 175271,
-      "name": "Se Volvieron Locos",
-      "url": "https://open.spotify.com/track/0elyegsqzW6UHenMeIJiOR"
+      "duration_ms": 155467,
+      "name": "Una Amenaza",
+      "url": "https://open.spotify.com/track/73E6NlBIxB7PR97hAqTkeP"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -1723,26 +1727,6 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "Una Amenaza",
-        "url": "https://open.spotify.com/album/49vzqdS8FB5hFm4QUiz19P"
-      },
-      "artists": [
-        {
-          "name": "Chuyin",
-          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
-        },
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 155467,
-      "name": "Una Amenaza",
-      "url": "https://open.spotify.com/track/73E6NlBIxB7PR97hAqTkeP"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
         "name": "Mustangson",
         "url": "https://open.spotify.com/album/7MwlQpqH0gjRaLQyLRoTCQ"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 171973,
       "name": "Mustangson",
       "url": "https://open.spotify.com/track/4cigPi41A3NvCqgOjD5znn"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/0vCLnUAU6odhQC7c5zla9O"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        }
+      ],
+      "duration_ms": 175271,
+      "name": "Se Volvieron Locos",
+      "url": "https://open.spotify.com/track/0elyegsqzW6UHenMeIJiOR"
     },
     {
       "added_at": "2025-05-27 18:54:46",

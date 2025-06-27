@@ -1,6 +1,6 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 106541,
+  "num_followers": 106536,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Episode ll",
-        "url": "https://open.spotify.com/album/52ttYpaN6OzZLAcqpjVhyh"
-      },
-      "artists": [
-        {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
-        }
-      ],
-      "duration_ms": 405693,
-      "name": "Played-A-Live (The Bongo Song)",
-      "url": "https://open.spotify.com/track/7uuo02BIR76qZ6ZXQhz7Ys"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 246786,
       "name": "Live in the Moment",
       "url": "https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Episode ll",
+        "url": "https://open.spotify.com/album/52ttYpaN6OzZLAcqpjVhyh"
+      },
+      "artists": [
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        }
+      ],
+      "duration_ms": 405693,
+      "name": "Played-A-Live (The Bongo Song)",
+      "url": "https://open.spotify.com/track/7uuo02BIR76qZ6ZXQhz7Ys"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "seaside_demo",
-        "url": "https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT"
-      },
-      "artists": [
-        {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "seaside_demo",
-      "url": "https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Omen (Radio Edit)",
         "url": "https://open.spotify.com/album/2Vd3aVbpKUyRq42B7xd2HW"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 196817,
       "name": "Omen - Radio Edit",
       "url": "https://open.spotify.com/track/78EQ5LZGgviMU9k0zrqv1r"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "seaside_demo",
+        "url": "https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "seaside_demo",
+      "url": "https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
-      },
-      "artists": [
-        {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
-        }
-      ],
-      "duration_ms": 594453,
-      "name": "Fools Gold - Remastered 2009",
-      "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "This Is Happening",
         "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 352003,
       "name": "I Can Change",
       "url": "https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+      },
+      "artists": [
+        {
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+        }
+      ],
+      "duration_ms": 594453,
+      "name": "Fools Gold - Remastered 2009",
+      "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Be Your Love",
-        "url": "https://open.spotify.com/album/0IdLqHPv9Ac4YdEGyMD4YZ"
-      },
-      "artists": [
-        {
-          "name": "Bishop Briggs",
-          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
-        }
-      ],
-      "duration_ms": 194066,
-      "name": "Be Your Love",
-      "url": "https://open.spotify.com/track/1Taq7PrHRF7dLCcHTRh2aj"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "The Boy With No Name",
         "url": "https://open.spotify.com/album/0uR1cnrej7aGnRIptQxVaR"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 240626,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7jP2937OACDPrN53DzO0Ye"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Be Your Love",
+        "url": "https://open.spotify.com/album/0IdLqHPv9Ac4YdEGyMD4YZ"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        }
+      ],
+      "duration_ms": 194066,
+      "name": "Be Your Love",
+      "url": "https://open.spotify.com/track/1Taq7PrHRF7dLCcHTRh2aj"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -975,26 +975,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Ahora y Siempre",
-        "url": "https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Linton",
-          "url": "https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S"
-        }
-      ],
-      "duration_ms": 149275,
-      "name": "Ahora y Siempre",
-      "url": "https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Me Gusta (with Cardi B & Myke Towers)",
         "url": "https://open.spotify.com/album/5J7bWCachL4Q662xAfzyJd"
       },
@@ -1035,6 +1015,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "A Deeper Understanding",
+        "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 350893,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Oliver Twist",
         "url": "https://open.spotify.com/album/6d8MlD2NJyzLtnRSprliO5"
       },
@@ -1051,18 +1047,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "A Deeper Understanding",
-        "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
+        "name": "Ahora y Siempre",
+        "url": "https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD"
       },
       "artists": [
         {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Linton",
+          "url": "https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S"
         }
       ],
-      "duration_ms": 350893,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i"
+      "duration_ms": 149275,
+      "name": "Ahora y Siempre",
+      "url": "https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y"
-      },
-      "artists": [
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        }
-      ],
-      "duration_ms": 168654,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Evil Friends",
         "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
       },
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 168654,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Supermodel",
         "url": "https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0"
       },
@@ -1147,22 +1147,6 @@
       "duration_ms": 270840,
       "name": "Are You What You Want to Be?",
       "url": "https://open.spotify.com/track/3CVPyuuD6HxWXgPbbGqbg6"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Emergency EP",
-        "url": "https://open.spotify.com/album/1hZkAUxHrsteOYTCnrdD6J"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 169617,
-      "name": "Emergency",
-      "url": "https://open.spotify.com/track/6E7oFW7xTK6Ghucsq6tMUj"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Ticket To Ride",
-        "url": "https://open.spotify.com/album/12uAbTxdZt1fKkHZVx5iCq"
+        "name": "Emergency EP",
+        "url": "https://open.spotify.com/album/1hZkAUxHrsteOYTCnrdD6J"
       },
       "artists": [
         {
-          "name": "KAWALA",
-          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
         }
       ],
-      "duration_ms": 182066,
-      "name": "Ticket To Ride",
-      "url": "https://open.spotify.com/track/4AGjD3R8ch6JmvDLAwFw7P"
+      "duration_ms": 169617,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/6E7oFW7xTK6Ghucsq6tMUj"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1215,6 +1199,22 @@
       "duration_ms": 197352,
       "name": "Big Talk",
       "url": "https://open.spotify.com/track/39W9pHDCfUcw3zJSYb3HNJ"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Ticket To Ride",
+        "url": "https://open.spotify.com/album/12uAbTxdZt1fKkHZVx5iCq"
+      },
+      "artists": [
+        {
+          "name": "KAWALA",
+          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
+        }
+      ],
+      "duration_ms": 182066,
+      "name": "Ticket To Ride",
+      "url": "https://open.spotify.com/track/4AGjD3R8ch6JmvDLAwFw7P"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 245533,
-      "name": "Postpone",
-      "url": "https://open.spotify.com/track/1IMtCtSqlw3VJv3IvCxkaz"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 194453,
       "name": "Let It Roll",
       "url": "https://open.spotify.com/track/0W0FFzJ1lhTxt0JLrsiULh"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 245533,
+      "name": "Postpone",
+      "url": "https://open.spotify.com/track/1IMtCtSqlw3VJv3IvCxkaz"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Talkie Walkie",
-        "url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        }
-      ],
-      "duration_ms": 223373,
-      "name": "Surfing on a Rocket",
-      "url": "https://open.spotify.com/track/0RFduQOfkrP1jhoV0m8US2"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Some Cities",
         "url": "https://open.spotify.com/album/1b8wM8rrNJzdxHykdygy9V"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 255413,
       "name": "Black And White Town",
       "url": "https://open.spotify.com/track/3KoJckjaWGPpqfyVLrLjVS"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Talkie Walkie",
+        "url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "duration_ms": 223373,
+      "name": "Surfing on a Rocket",
+      "url": "https://open.spotify.com/track/0RFduQOfkrP1jhoV0m8US2"
     },
     {
       "added_at": "2022-11-02 14:00:00",

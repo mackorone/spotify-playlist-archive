@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Muse",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Good Charlotte",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -310,6 +310,28 @@
       "duration_ms": 202987,
       "name": "A Sky Full of Stars",
       "url": "https://open.spotify.com/track/46ugCVn6XqZKNDE2lLQzOm"
+    },
+    {
+      "album": {
+        "name": "A WIFE. A WHORE.",
+        "url": "https://open.spotify.com/album/46pKIioYD8ARKFZ6AhhNU0"
+      },
+      "artists": [
+        {
+          "name": "Letters Sent Home",
+          "url": "https://open.spotify.com/artist/6VS6UnMmEtkcyYumRHZUI1"
+        },
+        {
+          "name": "Pentastone",
+          "url": "https://open.spotify.com/artist/2Ga7dFa3QASOZpORTAUD8l"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "A WIFE. A WHORE.",
+      "url": "https://open.spotify.com/track/147mFah1EuPCCmueW3HxSG"
     },
     {
       "album": {
@@ -1434,7 +1456,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-25",
+      "date_removed": null,
       "duration_ms": 215640,
       "name": "Blind Spot",
       "url": "https://open.spotify.com/track/1G9NKmN4q6KG9lT6p7Q3Cu"
@@ -1495,6 +1517,28 @@
     },
     {
       "album": {
+        "name": "BRAINDEAD (feat. Toby Morse)",
+        "url": "https://open.spotify.com/album/6K484LDhrNh4mzq95WMPbv"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        },
+        {
+          "name": "Toby Morse",
+          "url": "https://open.spotify.com/artist/3bUT7vUCfASm9rKV19DAjd"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191129,
+      "name": "BRAINDEAD (feat. Toby Morse)",
+      "url": "https://open.spotify.com/track/4lSXxf1buHPHRqz4otuxde"
+    },
+    {
+      "album": {
         "name": "Breathe It In",
         "url": "https://open.spotify.com/album/393W0entp1fwHBKk1XLqb2"
       },
@@ -1528,6 +1572,24 @@
       "duration_ms": 211000,
       "name": "Bright Eyes",
       "url": "https://open.spotify.com/track/6IGMSe8YVg5O2YfvD7KW1G"
+    },
+    {
+      "album": {
+        "name": "Broken Halo",
+        "url": "https://open.spotify.com/album/04j1OTKs16Db2n40x6Hrh4"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176213,
+      "name": "Broken Halo",
+      "url": "https://open.spotify.com/track/3Gg8RDjN0ewyQ2mFWPpIYH"
     },
     {
       "album": {
@@ -1640,7 +1702,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 168000,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/7J5zrmSVeayUtEr8VMDljA"
@@ -2405,6 +2467,24 @@
     },
     {
       "album": {
+        "name": "Dead_Alive",
+        "url": "https://open.spotify.com/album/5jPF4nRhSoj1vsl1GX81qc"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190906,
+      "name": "Dead_Alive",
+      "url": "https://open.spotify.com/track/4pZJXU5qsZfWj5Gnp5UgSR"
+    },
+    {
+      "album": {
         "name": "Death by a Thousand Cuts (Feat. Lucas Woodland)",
         "url": "https://open.spotify.com/album/7t6lpHcNeLELIK4kuygGXg"
       },
@@ -2684,7 +2764,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 157728,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/0xViB5062UH9t8aJFYPp6O"
@@ -6332,7 +6412,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 191010,
       "name": "No Breakout",
       "url": "https://open.spotify.com/track/71aDYOdm1wB69ObSLrTzm3"
@@ -6786,7 +6866,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 168555,
       "name": "Paint A Picture",
       "url": "https://open.spotify.com/track/4utuVAGRIGr2rZ4RNOsToh"
@@ -7266,7 +7346,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 170543,
       "name": "Rainn",
       "url": "https://open.spotify.com/track/2uPzynt7lhaZDQVkiiWSSv"
@@ -7306,6 +7386,24 @@
       "duration_ms": 241739,
       "name": "Regeneration",
       "url": "https://open.spotify.com/track/3QfvsNPck9ax7SyZVyO341"
+    },
+    {
+      "album": {
+        "name": "Rejects",
+        "url": "https://open.spotify.com/album/78grezRlmscONkCdIIvkQa"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174634,
+      "name": "Rejects",
+      "url": "https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq"
     },
     {
       "album": {
@@ -7486,7 +7584,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 192500,
       "name": "Rising High",
       "url": "https://open.spotify.com/track/61seLcHUDSr6ysOCmeTrQr"

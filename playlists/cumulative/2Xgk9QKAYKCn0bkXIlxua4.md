@@ -4,12 +4,13 @@
 
 > 
 
-422 songs - 1 day 4 hr 14 min
+423 songs - 1 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1942](https://open.spotify.com/track/6kocpmzJWIjY7PW0adFFBR) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 5:41 | 2023-03-09 |  |
 | [2AM](https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 4:02 | 2022-11-20 |  |
+| [305](https://open.spotify.com/track/494f07w2ArJNlkwnWWZViK) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A Jaguar's Dream](https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP) | 2:33 | 2025-06-26 |  |
 | [6 Inch \(feat\. The Weeknd\)](https://open.spotify.com/track/0pxNyJJiL2zZZ5GgJ4JhsQ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 4:20 | 2021-12-16 |  |
 | [A Lesser Man](https://open.spotify.com/track/4bPsiRqWPFPgLiPQR7jNo4) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [The Idol Episode 3 \(Music from the HBO Original Series\)](https://open.spotify.com/album/5aX2plzPm0m6zk4ZFuqbuI) | 4:58 | 2023-06-19 |  |
 | [A Lonely Night](https://open.spotify.com/track/0ifooM33X1iBxVYyOkSbXW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:40 | 2021-12-16 |  |

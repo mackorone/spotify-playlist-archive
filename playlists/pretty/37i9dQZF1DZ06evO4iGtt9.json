@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 8198,
+  "num_followers": 8206,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAACaJ7HOCQImHMs9Iyu2HIpL",
+  "snapshot_id": "aFs8AAAAAABA+HBoXyDnXQEuzLJjFwyJ",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLADIATOR",
-        "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "SWEET US",
-      "url": "https://open.spotify.com/track/56lY57uPh4k8yw8TkQgwNZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Concur",
         "url": "https://open.spotify.com/album/1J5Y60QXsJxW7qRyoHlPUg"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 245960,
       "name": "I Concur",
       "url": "https://open.spotify.com/track/2rPRTmhTRoYBCataK79gfM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GLADIATOR",
+        "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "SWEET US",
+      "url": "https://open.spotify.com/track/56lY57uPh4k8yw8TkQgwNZ"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Man on Duty",
-        "url": "https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx"
-      },
-      "artists": [
-        {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Man on Duty",
-      "url": "https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bam Bam",
         "url": "https://open.spotify.com/album/1wpspq0ag31exULhDaG16S"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 220235,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/6ZDCQ5POJp2ijoguRxqYRx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Man on Duty",
+        "url": "https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Man on Duty",
+      "url": "https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ah Blem Blem",
-        "url": "https://open.spotify.com/album/4hK4A6Fhhb5cKywlX0XQ7N"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Ah Blem Blem",
-      "url": "https://open.spotify.com/track/3FLmb7sK9KJeMoQtdq85QL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 199546,
       "name": "Iberibe",
       "url": "https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ah Blem Blem",
+        "url": "https://open.spotify.com/album/4hK4A6Fhhb5cKywlX0XQ7N"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Ah Blem Blem",
+      "url": "https://open.spotify.com/track/3FLmb7sK9KJeMoQtdq85QL"
     },
     {
       "added_at": null,

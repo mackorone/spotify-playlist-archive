@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,172 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,457 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 44 | [Satellite \- Above & Beyond Mix \(Edit\)](https://open.spotify.com/track/29xhHp7I079jDveVcoShIk) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [OceanLab](https://open.spotify.com/artist/0aTdKgInKeMlNnwWSa1YPT) | [Satellite](https://open.spotify.com/album/0ZtQgsteaWjFMPwGQm2B6c) | 3:29 |
 | 45 | [Not Over Yet '99 \(feat\. Grace\) \- Radio Edit](https://open.spotify.com/track/3gYUvf0BzPsPky2y3oBf3d) | [Planet Perfecto](https://open.spotify.com/artist/3Q9P0SbpaP9xsBtLUVK0Be), [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet '99 \(feat\. Grace\)](https://open.spotify.com/album/2P3GrMALjeCYAbFvuFFsFH) | 3:34 |
 | 46 | [1998](https://open.spotify.com/track/0ZcJZSx8cZndVwZrudIFy9) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe) | [1998](https://open.spotify.com/album/6yp67msJDZJIkki3TGzhmq) | 3:53 |
-| 47 | [Southern Sun](https://open.spotify.com/track/6GZO2jSzaULhCH30DakBhu) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Carla Werner](https://open.spotify.com/artist/3SMF5D7b8NM3YFSsgu9WQ9) | [Southern Sun / Ready Steady Go](https://open.spotify.com/album/10vaUmlTOpclr1x7xjYS8h) | 3:55 |
-| 48 | [ResuRection \- Paul Oakenfold Full On Fluoro Mix](https://open.spotify.com/track/7yLvQTsNQALncCJdFdzqB2) | [Planet Perfecto Knights](https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq) | [A State Of Trance 1000 \- Celebration Mix \(Selected by Armin van Buuren\)](https://open.spotify.com/album/5uaA8MAWIlzcvaH3770kaX) | 3:56 |
+| 47 | [ResuRection \- Paul Oakenfold Full On Fluoro Mix](https://open.spotify.com/track/7yLvQTsNQALncCJdFdzqB2) | [Planet Perfecto Knights](https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq) | [A State Of Trance 1000 \- Celebration Mix \(Selected by Armin van Buuren\)](https://open.spotify.com/album/5uaA8MAWIlzcvaH3770kaX) | 3:56 |
+| 48 | [Southern Sun](https://open.spotify.com/track/6GZO2jSzaULhCH30DakBhu) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Carla Werner](https://open.spotify.com/artist/3SMF5D7b8NM3YFSsgu9WQ9) | [Southern Sun / Ready Steady Go](https://open.spotify.com/album/10vaUmlTOpclr1x7xjYS8h) | 3:55 |
 | 49 | [Offshore](https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Offshore](https://open.spotify.com/album/201vsPXufpD68a7bulnr5O) | 4:28 |
 | 50 | [Can't Sleep \- Radio Edit](https://open.spotify.com/track/7imdlxmN8ORoiwbje4KcDy) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Can't Sleep](https://open.spotify.com/album/5KW0519bHDR5rjyGzcGYbB) | 3:12 |
 

@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. R\u00d8Z y Peso Pluma en portada.",
-  "num_followers": 65284,
+  "num_followers": 65312,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,30 @@
     {
       "added_at": "2025-06-20 16:33:58",
       "album": {
+        "name": "Quemando Papel",
+        "url": "https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9"
+      },
+      "artists": [
+        {
+          "name": "Sangre X Sangre",
+          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Joe Parra",
+          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
+        }
+      ],
+      "duration_ms": 194645,
+      "name": "Quemando Papel",
+      "url": "https://open.spotify.com/track/3tiaqn4MVRX9prDxiBNgHA"
+    },
+    {
+      "added_at": "2025-06-20 16:33:58",
+      "album": {
         "name": "Bien Loco",
         "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
       },
@@ -435,30 +459,6 @@
       "duration_ms": 169062,
       "name": "Bien Loco",
       "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
-    },
-    {
-      "added_at": "2025-06-20 16:33:58",
-      "album": {
-        "name": "Quemando Papel",
-        "url": "https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9"
-      },
-      "artists": [
-        {
-          "name": "Sangre X Sangre",
-          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "Joe Parra",
-          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
-        }
-      ],
-      "duration_ms": 194645,
-      "name": "Quemando Papel",
-      "url": "https://open.spotify.com/track/3tiaqn4MVRX9prDxiBNgHA"
     },
     {
       "added_at": "2025-06-20 16:33:58",
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-06-20 16:33:58",
       "album": {
+        "name": "Alucina2",
+        "url": "https://open.spotify.com/album/2hrlJjc9jmA4fy9olFThQm"
+      },
+      "artists": [
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+        }
+      ],
+      "duration_ms": 133793,
+      "name": "Alucina2",
+      "url": "https://open.spotify.com/track/44Wu7JwP8ZjdSOFwxTRZZB"
+    },
+    {
+      "added_at": "2025-06-20 16:33:58",
+      "album": {
         "name": "Cooler Than Me",
         "url": "https://open.spotify.com/album/7LKF88fJJvIQIUVhTFXAl6"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 192000,
       "name": "Cooler Than Me",
       "url": "https://open.spotify.com/track/2o1ryWmt2wp521jtflMiYq"
-    },
-    {
-      "added_at": "2025-06-20 16:33:58",
-      "album": {
-        "name": "Alucina2",
-        "url": "https://open.spotify.com/album/2hrlJjc9jmA4fy9olFThQm"
-      },
-      "artists": [
-        {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
-        }
-      ],
-      "duration_ms": 133793,
-      "name": "Alucina2",
-      "url": "https://open.spotify.com/track/44Wu7JwP8ZjdSOFwxTRZZB"
     },
     {
       "added_at": "2025-06-20 16:33:58",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-06-20 16:33:58",
       "album": {
-        "name": "La Diabla (Electro Remix)",
-        "url": "https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa"
-      },
-      "artists": [
-        {
-          "name": "8onthebeat",
-          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
-        }
-      ],
-      "duration_ms": 136477,
-      "name": "La Diabla (Electro Remix)",
-      "url": "https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m"
-    },
-    {
-      "added_at": "2025-06-20 16:33:58",
-      "album": {
         "name": "Star Love",
         "url": "https://open.spotify.com/album/7hwYh5om26zH1pgmCvHrjs"
       },
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2025-06-20 16:33:58",
       "album": {
+        "name": "La Diabla (Electro Remix)",
+        "url": "https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa"
+      },
+      "artists": [
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+        }
+      ],
+      "duration_ms": 136477,
+      "name": "La Diabla (Electro Remix)",
+      "url": "https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m"
+    },
+    {
+      "added_at": "2025-06-20 16:33:58",
+      "album": {
         "name": "EXTAPHORIC!",
         "url": "https://open.spotify.com/album/3Z6XgTOnmv6jXg8Aus1Oxr"
       },
@@ -1119,6 +1119,26 @@
       "duration_ms": 85520,
       "name": "THIRST FOR ME!",
       "url": "https://open.spotify.com/track/0x6ZS33oQQFyUMRjap4NXf"
+    },
+    {
+      "added_at": "2025-06-20 16:33:58",
+      "album": {
+        "name": "Afuera Que Tengan Miedo (Jayrick Remix)",
+        "url": "https://open.spotify.com/album/3Oxo5otS6sHMaa06uPUGxp"
+      },
+      "artists": [
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 166110,
+      "name": "Afuera Que Tengan Miedo - Jayrick Remix",
+      "url": "https://open.spotify.com/track/3Sualy9gkVDHDgOKcTJgFd"
     },
     {
       "added_at": "2025-06-20 16:33:58",
@@ -1143,26 +1163,6 @@
       "duration_ms": 161378,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/319XgEPeEfhMw276p5wzg3"
-    },
-    {
-      "added_at": "2025-06-20 16:33:58",
-      "album": {
-        "name": "Afuera Que Tengan Miedo (Jayrick Remix)",
-        "url": "https://open.spotify.com/album/3Oxo5otS6sHMaa06uPUGxp"
-      },
-      "artists": [
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 166110,
-      "name": "Afuera Que Tengan Miedo - Jayrick Remix",
-      "url": "https://open.spotify.com/track/3Sualy9gkVDHDgOKcTJgFd"
     },
     {
       "added_at": "2025-06-20 16:33:58",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2025-06-20 16:33:58",
       "album": {
+        "name": "PVTIVUELTA",
+        "url": "https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 143798,
+      "name": "PVTIVUELTA",
+      "url": "https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA"
+    },
+    {
+      "added_at": "2025-06-20 16:33:58",
+      "album": {
         "name": "adondevamos??",
         "url": "https://open.spotify.com/album/7F766sekcvwWXK5YVp7eJf"
       },
@@ -1223,26 +1243,6 @@
       "duration_ms": 231724,
       "name": "adondevamos??",
       "url": "https://open.spotify.com/track/7137vD0rMEEK3Qoy3G9Sp7"
-    },
-    {
-      "added_at": "2025-06-20 16:33:58",
-      "album": {
-        "name": "PVTIVUELTA",
-        "url": "https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E"
-      },
-      "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 143798,
-      "name": "PVTIVUELTA",
-      "url": "https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA"
     },
     {
       "added_at": "2025-06-20 16:33:58",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2025-06-20 16:33:58",
       "album": {
+        "name": "Sin Sentir",
+        "url": "https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "Dr Babe",
+          "url": "https://open.spotify.com/artist/71jdgeFR4FEYo6oB2Qb4FW"
+        }
+      ],
+      "duration_ms": 219098,
+      "name": "Sin Sentir",
+      "url": "https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx"
+    },
+    {
+      "added_at": "2025-06-20 16:33:58",
+      "album": {
         "name": "Exclusive",
         "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 148292,
       "name": "MENTA",
       "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
-    },
-    {
-      "added_at": "2025-06-20 16:33:58",
-      "album": {
-        "name": "Sin Sentir",
-        "url": "https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7"
-      },
-      "artists": [
-        {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        },
-        {
-          "name": "Dr Babe",
-          "url": "https://open.spotify.com/artist/71jdgeFR4FEYo6oB2Qb4FW"
-        }
-      ],
-      "duration_ms": 219098,
-      "name": "Sin Sentir",
-      "url": "https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx"
     },
     {
       "added_at": "2025-06-20 16:33:58",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2025-06-20 16:33:58",
       "album": {
+        "name": "MiDNiGHT",
+        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 186595,
+      "name": "MiDNiGHT",
+      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
+    },
+    {
+      "added_at": "2025-06-20 16:33:58",
+      "album": {
         "name": "Serena",
         "url": "https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom"
       },
@@ -1435,18 +1451,18 @@
     {
       "added_at": "2025-06-20 16:33:58",
       "album": {
-        "name": "MiDNiGHT",
-        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
+        "name": "CAJETA",
+        "url": "https://open.spotify.com/album/0uYZaczNoETjWCLYFQVhbH"
       },
       "artists": [
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "Fend",
+          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
         }
       ],
-      "duration_ms": 186595,
-      "name": "MiDNiGHT",
-      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
+      "duration_ms": 146976,
+      "name": "CAJETA",
+      "url": "https://open.spotify.com/track/3gtlrOxwdsrreHMqH1heyw"
     },
     {
       "added_at": "2025-06-20 16:33:58",
@@ -1463,22 +1479,6 @@
       "duration_ms": 149186,
       "name": "Que se Joda",
       "url": "https://open.spotify.com/track/74mIVTboKy9j3qlJcFz7kA"
-    },
-    {
-      "added_at": "2025-06-20 16:33:58",
-      "album": {
-        "name": "CAJETA",
-        "url": "https://open.spotify.com/album/0uYZaczNoETjWCLYFQVhbH"
-      },
-      "artists": [
-        {
-          "name": "Fend",
-          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
-        }
-      ],
-      "duration_ms": 146976,
-      "name": "CAJETA",
-      "url": "https://open.spotify.com/track/3gtlrOxwdsrreHMqH1heyw"
     },
     {
       "added_at": "2025-06-20 16:33:58",

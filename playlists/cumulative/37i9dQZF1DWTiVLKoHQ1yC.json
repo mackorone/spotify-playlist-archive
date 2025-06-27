@@ -224,7 +224,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 195121,
       "name": "All We Ever Do",
       "url": "https://open.spotify.com/track/1J0k2Hz5YkuMwpUG2bOxjw"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 194395,
       "name": "BADO",
       "url": "https://open.spotify.com/track/54ThjvbWJnmRSKI7Jp82cA"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-18",
+      "date_removed": null,
       "duration_ms": 369798,
       "name": "Before The Storm",
       "url": "https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p"
@@ -1113,6 +1113,28 @@
     },
     {
       "album": {
+        "name": "Diamonds (Further Than I Ever Was)",
+        "url": "https://open.spotify.com/album/2UpwdJFrDOlYt6Na23mIV6"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "The Boxer Rebellion",
+          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296597,
+      "name": "Diamonds (Further Than I Ever Was)",
+      "url": "https://open.spotify.com/track/25Zv9R5lGEZIQkUtERSFeo"
+    },
+    {
+      "album": {
         "name": "Dream of You",
         "url": "https://open.spotify.com/album/43K4hlaKhlSAIRgUb5zMPg"
       },
@@ -1208,7 +1230,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 217377,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP"
@@ -1494,10 +1516,36 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 199160,
       "name": "Felt (feat. Henry Green)",
       "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
+    },
+    {
+      "album": {
+        "name": "Fire Fire",
+        "url": "https://open.spotify.com/album/7rIqdKsiVJ2ZAHtxFJm6jf"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150480,
+      "name": "Fire Fire",
+      "url": "https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ"
     },
     {
       "album": {
@@ -1538,6 +1586,28 @@
       "duration_ms": 197560,
       "name": "Five",
       "url": "https://open.spotify.com/track/1AyWOwYZStmF5jtgNThUWd"
+    },
+    {
+      "album": {
+        "name": "Flames",
+        "url": "https://open.spotify.com/album/7AODiIsKeDZNsymwEO7Wxe"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180472,
+      "name": "Flames",
+      "url": "https://open.spotify.com/track/1vXP30hzwXVis2zTQI10MY"
     },
     {
       "album": {
@@ -1695,6 +1765,24 @@
     },
     {
       "album": {
+        "name": "Fugitive Edit",
+        "url": "https://open.spotify.com/album/57cHpoWVM5d7n3uoFjQtiQ"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Fugitive Edit",
+      "url": "https://open.spotify.com/track/3PROZvtegx6DFuJoXE7oxs"
+    },
+    {
+      "album": {
         "name": "Futuregate EP",
         "url": "https://open.spotify.com/album/2144wrwR6t8gSTZWIkAYSZ"
       },
@@ -1772,7 +1860,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 211191,
       "name": "Glad I Found You",
       "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
@@ -1838,7 +1926,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 227117,
       "name": "Healing",
       "url": "https://open.spotify.com/track/1tRD1LXAAy2VPKwdVoHIMI"
@@ -1864,7 +1952,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 174705,
       "name": "Heard It All Before",
       "url": "https://open.spotify.com/track/0myWiaL4haQPN2uPZvVwc2"
@@ -2036,7 +2124,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 222092,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
@@ -2146,7 +2234,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-26",
+      "date_removed": null,
       "duration_ms": 229520,
       "name": "Hold Me - HUGEL Remix",
       "url": "https://open.spotify.com/track/0seRK4ZwnDsM2mNhbjmA3e"
@@ -2176,6 +2264,28 @@
       "duration_ms": 230035,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6PhDLktpvEInsEyJlStBdf"
+    },
+    {
+      "album": {
+        "name": "Hold You",
+        "url": "https://open.spotify.com/album/3tVg0WYwk5drh3NyXqJm8l"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        },
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217216,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/42sEy8EwRIzAMQk5pACbcr"
     },
     {
       "album": {
@@ -2396,7 +2506,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-09",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "Hyperreal (Middle of the Night)",
       "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
@@ -2426,7 +2536,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
@@ -2506,6 +2616,28 @@
       "duration_ms": 275655,
       "name": "I Started A Fire",
       "url": "https://open.spotify.com/track/2uJHnCeUc7aqiGwjHel34e"
+    },
+    {
+      "album": {
+        "name": "Iajo",
+        "url": "https://open.spotify.com/album/00D70fYsAp00LqwJuh6214"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        },
+        {
+          "name": "Fejk\u00e1",
+          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278217,
+      "name": "Iajo",
+      "url": "https://open.spotify.com/track/6fWaPTrp9PnPwd9l3U3Keo"
     },
     {
       "album": {
@@ -3444,7 +3576,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 244285,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq"
@@ -3502,7 +3634,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-09",
+      "date_removed": null,
       "duration_ms": 213000,
       "name": "More than you could give",
       "url": "https://open.spotify.com/track/5fbbmByDHyc65qietqLMvZ"
@@ -3902,7 +4034,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 226048,
       "name": "Nothing Ever Changes",
       "url": "https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI"
@@ -3928,7 +4060,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 219768,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/6nuqo0u5Ex03YMRL0SdyLs"
@@ -3950,7 +4082,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 256859,
       "name": "One Last Call",
       "url": "https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq"
@@ -4144,7 +4276,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 211278,
       "name": "Places",
       "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
@@ -4228,7 +4360,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 435000,
       "name": "Quezacotl",
       "url": "https://open.spotify.com/track/24jPquymYcAxmOUXwjJwLk"
@@ -4570,7 +4702,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 202893,
       "name": "Shallow Water",
       "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
@@ -4840,7 +4972,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 273170,
       "name": "Stay Still",
       "url": "https://open.spotify.com/track/1tM2jivvLKpF5TNtwKKyEB"
@@ -5030,7 +5162,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 211547,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/595mcofiqQr4E0Ihpr5ZMA"
@@ -5052,7 +5184,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 236270,
       "name": "Tears (with Paige Cavell)",
       "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
@@ -5290,7 +5422,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-24",
+      "date_removed": null,
       "duration_ms": 219678,
       "name": "Throwing Stones",
       "url": "https://open.spotify.com/track/1IWIcqxOyoCDnzRHKTc1F5"
@@ -5677,6 +5809,24 @@
     },
     {
       "album": {
+        "name": "Waiting on the World",
+        "url": "https://open.spotify.com/album/1gTzdnIENgVnXUCPd2zaPz"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233574,
+      "name": "Waiting on the World",
+      "url": "https://open.spotify.com/track/3iP2Rwtbe5zBYSqI4ORAaN"
+    },
+    {
+      "album": {
         "name": "Was It the Wind That Stirred The Trees",
         "url": "https://open.spotify.com/album/0e9kIrv9PyjGWubMLQXJyY"
       },
@@ -5998,7 +6148,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 208524,
       "name": "You & Me - Rivo Remix",
       "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"

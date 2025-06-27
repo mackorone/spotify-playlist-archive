@@ -2,9 +2,9 @@
 
 ### [Telugu Indie](https://open.spotify.com/playlist/37i9dQZF1DX3I9bqAkK5Dr)
 
-> Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
+> Check out the emerging independent tracks from these Telugu Artists!! Cover : Jagdish, Ayaan, Damini
 
-371 songs - 22 hr 15 min
+372 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Needhe Aakasam](https://open.spotify.com/track/5xaEg9oOpoFlzSg2vgwte4) | [Yamini Ghantasala](https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0) | [Needhe Aakasam](https://open.spotify.com/album/5Ntckz3IDYKwyVIvEra0Zh) | 3:13 | 2022-11-30 | 2023-06-21 |
 | [Neeli Aakasam](https://open.spotify.com/track/5NX12uXVaHHIu0gKzojX7g) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN), [Vivek Sagar](https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3) | [Neeli Aakasam](https://open.spotify.com/album/5OWXAvlVHNtOBgu0tgy9Ro) | 3:31 | 2024-01-10 | 2024-10-24 |
 | [Neelo Cherela](https://open.spotify.com/track/7HNVLIZginOyHJvlChvsqm) | [Pavani Vasa](https://open.spotify.com/artist/1D0MDMO4NBt3Fk2T3tCzbS), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Vijay Bhanu](https://open.spotify.com/artist/3kGye1N1zSbmdG81klESLO) | [Neelo Cherela](https://open.spotify.com/album/3KCR9M9ELkSP5r3MnguSnU) | 3:13 | 2023-02-09 | 2023-05-23 |
+| [Neetho](https://open.spotify.com/track/2JWW2XxFTitx26C0YzaNEE) | [Jagdish Chintala](https://open.spotify.com/artist/1Ll6Pj8fy7R3e6ghT2lzVC), [Ayaan](https://open.spotify.com/artist/6spST6ycDQVKJ7ErwvDsjS), [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB) | [Neetho](https://open.spotify.com/album/3fpTbL64j34pTYS2rloKOJ) | 3:06 | 2025-06-26 |  |
 | [Neetho](https://open.spotify.com/track/1Y0S1FwDVaIYI9l9ekESgS) | [The Non Violinist Project](https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb), [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L) | [Neetho](https://open.spotify.com/album/3y6i5WWXLRBlVAoUGO3SmF) | 4:25 | 2022-07-18 |  |
 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 | 2022-07-18 | 2024-03-27 |
 | [Nene ila](https://open.spotify.com/track/5DpLSzttzURdtjRqiqhuLx) | [Shravan Pakalapati](https://open.spotify.com/artist/0BWC5EnVELcjkDBbsI2mtZ), [Ayaan](https://open.spotify.com/artist/1MMBkicGbEkW5M1UimzBuP), [Stanley Sajeev](https://open.spotify.com/artist/48ZCF46lcsGvMQ3keWLY44), [Srirag Vadlakonda](https://open.spotify.com/artist/35nglePPpoof0Yl8rIOpXX) | [Nene ila](https://open.spotify.com/album/5sy2tWFF8emaC4E7s3NiYS) | 3:34 | 2024-08-02 | 2024-11-26 |

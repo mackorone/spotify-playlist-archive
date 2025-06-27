@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,626 songs - 7 day 10 hr 6 min
+2,627 songs - 7 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2111,7 +2111,8 @@
 | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u) | 4:17 | 2025-01-03 | 2025-01-26 |
 | [Talkin to the Trees](https://open.spotify.com/track/6OwAcjV6LxKFI3BYQxkidp) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [neil young and the chrome hearts](https://open.spotify.com/artist/35S7T09aV4E9CC0R2RgTXK) | [Talkin to the Trees](https://open.spotify.com/album/4LY9uu39o04XPJN7cDaZsH) | 3:52 | 2025-05-23 | 2025-06-14 |
 | [Tania](https://open.spotify.com/track/4V20WzU9yI3Zrvbgkrcvmq) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Tania](https://open.spotify.com/album/6Boi6nNfxwJz0mfXSbqzXy) | 4:03 | 2023-10-06 | 2023-10-28 |
-| [Taphephobia](https://open.spotify.com/track/06IhSNQeoWnzEThNAu0GAX) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Taphephobia](https://open.spotify.com/album/3nsvLJadE0giMIxYB7tYpH) | 3:42 | 2025-06-06 |  |
+| [Taphephobia](https://open.spotify.com/track/06IhSNQeoWnzEThNAu0GAX) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Taphephobia](https://open.spotify.com/album/3nsvLJadE0giMIxYB7tYpH) | 3:42 | 2025-06-06 | 2025-06-27 |
+| [Taphephobia](https://open.spotify.com/track/536XnlSuHdxoEcdQFFwAka) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [The Arsonist](https://open.spotify.com/album/0n8CNMEoXFrvm9IfSYoGgv) | 3:44 | 2025-06-20 |  |
 | [Taranoías](https://open.spotify.com/track/3tTut0HcZUP8mHblq466Y0) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Ànv](https://open.spotify.com/album/3KFYzt4rTw5x8YUjtTz1sp) | 3:26 | 2025-04-25 | 2025-05-25 |
 | [Taste It \- Youth 12" Mix](https://open.spotify.com/track/1oqEoGfHYE6LxS3xoz7mFh) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv), [Youth](https://open.spotify.com/artist/1zf3mY5ZJ69hlt5W24EvYq) | [Taste It \(Youth 12'' Mix\)](https://open.spotify.com/album/0ldXBTOnBTGcKDWJJtB62X) | 4:40 | 2024-02-16 | 2024-03-10 |
 | [Tchaikovsky: Children's Album \- Mama \- Excerpt](https://open.spotify.com/track/5uGqJPkUFOCrx0bE61jb7F) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) | [Tchaikovsky: Children's Album \- Mama \(Excerpt\)](https://open.spotify.com/album/2Sba2rEozEqdMvavQTNL6g) | 1:05 | 2025-04-11 | 2025-04-26 |

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "In The Den",
+        "url": "https://open.spotify.com/album/2sGwO85qThVJZtR18mIdvZ"
+      },
+      "artists": [
+        {
+          "name": "Mpho.Wav",
+          "url": "https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462000,
+      "name": "016 Road",
+      "url": "https://open.spotify.com/track/4DFjJ8hZEKyDJYAbSe9bkL"
+    },
+    {
+      "album": {
         "name": "2G2 EP",
         "url": "https://open.spotify.com/album/2zpQ8uHxH9O2vYQIZb300I"
       },
@@ -402,7 +420,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 359817,
       "name": "All Alone (feat. Argento Dust)",
       "url": "https://open.spotify.com/track/5TxEZgAUddBRlcgqehFci9"
@@ -638,7 +656,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 448620,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/2SfuL6MWdfHkI00BnJvHyl"
@@ -720,6 +738,28 @@
       "duration_ms": 313026,
       "name": "Andifuni Ngawe",
       "url": "https://open.spotify.com/track/5owaEYXYYnTvw15uOl5E6S"
+    },
+    {
+      "album": {
+        "name": "Angel Kisses",
+        "url": "https://open.spotify.com/album/5GXrbG6jwcGLQLtsgBbHds"
+      },
+      "artists": [
+        {
+          "name": "Sibu Manzini",
+          "url": "https://open.spotify.com/artist/06lcg3NhdknOrlKIVTTy9S"
+        },
+        {
+          "name": "Velemseni",
+          "url": "https://open.spotify.com/artist/0ISG0GfKgnqTFRGG6VsMtW"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469375,
+      "name": "Angel Kisses",
+      "url": "https://open.spotify.com/track/2D4d0aSwn61o80WTiaF4E5"
     },
     {
       "album": {
@@ -1503,6 +1543,28 @@
     },
     {
       "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/69gAnjWH83Zoc52yzqZa9o"
+      },
+      "artists": [
+        {
+          "name": "Tyler Brodie",
+          "url": "https://open.spotify.com/artist/5GXgdDdsOVJd9cDXapkc3Z"
+        },
+        {
+          "name": "Tyla Jade",
+          "url": "https://open.spotify.com/artist/1R6WXCChivjE0pqA2ZEtAt"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257704,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/38vds0aXYWi851PXpHsXVv"
+    },
+    {
+      "album": {
         "name": "Femi & Gene",
         "url": "https://open.spotify.com/album/36bZm5DN8KTCBXyRnaSBR7"
       },
@@ -1762,7 +1824,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 368429,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3uSSEJShIOgk2h0apyvbSR"
@@ -2048,7 +2110,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 362020,
       "name": "Imithandazo",
       "url": "https://open.spotify.com/track/0A4jDbgV8Y1dSmQsURjONR"
@@ -2226,6 +2288,32 @@
       "duration_ms": 449964,
       "name": "IQHAWE",
       "url": "https://open.spotify.com/track/30RylevGyD4EFyV4VYbPj3"
+    },
+    {
+      "album": {
+        "name": "Isaka (6am) - In Joburg",
+        "url": "https://open.spotify.com/album/2pSnEC7Cf4IhMSUrXPjrUN"
+      },
+      "artists": [
+        {
+          "name": "CIZA",
+          "url": "https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33"
+        },
+        {
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+        },
+        {
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204998,
+      "name": "Isaka (6am) - In Joburg",
+      "url": "https://open.spotify.com/track/5ncLgVY26bAfHhUjTm7Sz4"
     },
     {
       "album": {
@@ -2416,7 +2504,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 436687,
       "name": "Kaneba",
       "url": "https://open.spotify.com/track/01dnvO2H3SxeUxFgUtY7sM"
@@ -2530,7 +2618,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 430867,
       "name": "Kitchen",
       "url": "https://open.spotify.com/track/2Kksd9ZgBAb31BzKrC47HL"
@@ -2706,7 +2794,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 428886,
       "name": "Lavitate",
       "url": "https://open.spotify.com/track/6U8jVzGNxE3IXE2jYGrrgO"
@@ -2746,7 +2834,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 453439,
       "name": "Lie Machine",
       "url": "https://open.spotify.com/track/08UK8zOXlcz8SpswskT533"
@@ -2920,7 +3008,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 473500,
       "name": "Lost and Found",
       "url": "https://open.spotify.com/track/6Rvv07VtrQK4ETd28tf5qn"
@@ -3686,7 +3774,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 422950,
       "name": "Nkolwa - Caiiro Remix",
       "url": "https://open.spotify.com/track/7mvbodkdCOyyc7JtwX0NOv"
@@ -4311,6 +4399,32 @@
     },
     {
       "album": {
+        "name": "House 116",
+        "url": "https://open.spotify.com/album/0F4AvBkaubLbPfMHS2N0dd"
+      },
+      "artists": [
+        {
+          "name": "Lebza TheVillain",
+          "url": "https://open.spotify.com/artist/0IBbki2AxG9X2cjaqrSGP3"
+        },
+        {
+          "name": "Hypesoul",
+          "url": "https://open.spotify.com/artist/4jyzeXKboAkzAeKgUSHrZu"
+        },
+        {
+          "name": "Jalipeno",
+          "url": "https://open.spotify.com/artist/3ELDqJ2q4NgANcMAKPTKDg"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359407,
+      "name": "Qula",
+      "url": "https://open.spotify.com/track/3mHlbe9Q6Ib83KZwzsf0nm"
+    },
+    {
+      "album": {
         "name": "Spring 2025 (DJ Mix)",
         "url": "https://open.spotify.com/album/4fY51yNFAN31WWK4kbPuUg"
       },
@@ -4408,7 +4522,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 213559,
       "name": "Replay",
       "url": "https://open.spotify.com/track/5EJGNjrRsfgwgFj7hvf7fR"
@@ -4434,6 +4548,28 @@
       "duration_ms": 406000,
       "name": "Rite",
       "url": "https://open.spotify.com/track/0irc8BoY8OzrzQXpPSBQ6S"
+    },
+    {
+      "album": {
+        "name": "Rumble",
+        "url": "https://open.spotify.com/album/7yuYs5TGpWXMRMQA0E5bPP"
+      },
+      "artists": [
+        {
+          "name": "Xavier Dragner",
+          "url": "https://open.spotify.com/artist/25DLgS5KimLaA06q3NOh1u"
+        },
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337854,
+      "name": "Rumble",
+      "url": "https://open.spotify.com/track/24CkZHMUwGHeIJgn1m6EoM"
     },
     {
       "album": {
@@ -4564,7 +4700,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 452015,
       "name": "Shikiria - Zakem, Yescene Remix",
       "url": "https://open.spotify.com/track/65yxCD6MLeTiTiMLCENRhN"
@@ -4742,6 +4878,28 @@
       "duration_ms": 463522,
       "name": "Sina",
       "url": "https://open.spotify.com/track/68wvH1g0T6yOUQlk95xKkT"
+    },
+    {
+      "album": {
+        "name": "Sinergia",
+        "url": "https://open.spotify.com/album/2NsyJJmMjXUO7AzimshXaH"
+      },
+      "artists": [
+        {
+          "name": "Danni Gato",
+          "url": "https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy"
+        },
+        {
+          "name": "Drumetic Boyz",
+          "url": "https://open.spotify.com/artist/2NQ0f4GcMFHv5rwZIoyQyB"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437172,
+      "name": "Sinergia",
+      "url": "https://open.spotify.com/track/4pHZwclXvLi5oCyGQD8huD"
     },
     {
       "album": {
@@ -4932,6 +5090,32 @@
       "duration_ms": 387884,
       "name": "Tefillah",
       "url": "https://open.spotify.com/track/5PWeX5914fChzC5PbIew3t"
+    },
+    {
+      "album": {
+        "name": "The Cradle Of Art",
+        "url": "https://open.spotify.com/album/0sSMJHFf9UMYfIqSvLLx4a"
+      },
+      "artists": [
+        {
+          "name": "Black Motion",
+          "url": "https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7"
+        },
+        {
+          "name": "Spice Drums",
+          "url": "https://open.spotify.com/artist/2t94pHkpQ9heBi98hoeD7b"
+        },
+        {
+          "name": "Drip Gogo",
+          "url": "https://open.spotify.com/artist/34OZxmMzGYIx0VSQ8NaUOP"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393308,
+      "name": "Thaa 3 Way Chant",
+      "url": "https://open.spotify.com/track/5CmEZVVPmR0V7c5MNIZGFo"
     },
     {
       "album": {
@@ -5895,6 +6079,28 @@
     },
     {
       "album": {
+        "name": "Finally Famous Too",
+        "url": "https://open.spotify.com/album/2fJHuylS0WyxccTNW1nwU9"
+      },
+      "artists": [
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        },
+        {
+          "name": "Goldmax",
+          "url": "https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392542,
+      "name": "VAR",
+      "url": "https://open.spotify.com/track/72V7ipYJNBUkLWc2ZR49z0"
+    },
+    {
+      "album": {
         "name": "Vaudzeyi Vanamate",
         "url": "https://open.spotify.com/album/27Zl6RHfLP9hDmzpEkZUVN"
       },
@@ -6160,7 +6366,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 413114,
       "name": "Waves - Enoo Napa Remix",
       "url": "https://open.spotify.com/track/0VaHtlHiUEWPAHqrRIHkYt"

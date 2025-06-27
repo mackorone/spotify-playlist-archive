@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-285 songs - 16 hr 24 min
+286 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Faery King](https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Eldest Daughter Of An Eldest Daughter](https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55) | 4:26 | 2024-10-18 |  |
 | [Faithfully](https://open.spotify.com/track/2UIkqoTk5YyvRpEEUIeoVg) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Faithfully](https://open.spotify.com/album/0uSrvD5hS9m0j9Ldhlyg31) | 4:11 | 2024-05-20 | 2024-08-16 |
 | [Falling For You](https://open.spotify.com/track/7A88nTuJXs45pD7Y1miTQX) | [Kora](https://open.spotify.com/artist/5lc3ISF4CNThZEtJ2N4ZH6) | [Falling For You](https://open.spotify.com/album/5ub2Bf8lPIsARvvDDfsD0M) | 3:58 | 2024-05-20 | 2024-08-16 |
-| [FEEL GOOD AURA](https://open.spotify.com/track/2i43SUgkp5g1W5rze9awuF) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Caru](https://open.spotify.com/artist/2W3HtoJXnap6BDGYr8PRuv), [Romi Wrights](https://open.spotify.com/artist/0NW11rIYIi5R9bTax6kv9J) | [FEEL GOOD AURA](https://open.spotify.com/album/3T6oSRejjNgNcuoq4vd0nz) | 3:28 | 2025-06-12 |  |
+| [FEEL GOOD AURA](https://open.spotify.com/track/2i43SUgkp5g1W5rze9awuF) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Caru](https://open.spotify.com/artist/2W3HtoJXnap6BDGYr8PRuv), [Romi Wrights](https://open.spotify.com/artist/0NW11rIYIi5R9bTax6kv9J) | [FEEL GOOD AURA](https://open.spotify.com/album/3T6oSRejjNgNcuoq4vd0nz) | 3:28 | 2025-06-12 | 2025-06-27 |
 | [Fever](https://open.spotify.com/track/4yzWBU2W6fUWHHshQLEwdi) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Fever](https://open.spotify.com/album/7sfCegKZtfF5c3PtrF6VP4) | 2:35 | 2025-01-30 | 2025-03-08 |
 | [FFS](https://open.spotify.com/track/4bfWDJBebYt4IttaK1pk3m) | [Lucian Rice](https://open.spotify.com/artist/2xxHXXg3zOxOsdb3cODhgs) | [right now, forever](https://open.spotify.com/album/0hxvUFor8krta7TpudUW1U) | 3:24 | 2024-10-18 | 2024-11-27 |
 | [Flames](https://open.spotify.com/track/3RoWTD2S5NNKlIP6gd6ipV) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Flames](https://open.spotify.com/album/6mKaHSnyautSaaiYsFKEpc) | 2:47 | 2024-09-26 | 2025-02-25 |
@@ -195,6 +195,7 @@
 | [Next Stop](https://open.spotify.com/track/1THi2wFMXol0p3lOpX9fZd) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [MC Slave](https://open.spotify.com/artist/1C5mWM86XaAjaX5fiNm5O1) | [Next Stop](https://open.spotify.com/album/6i5wh97IMqnO8A3MIo1DA9) | 6:11 | 2024-09-12 | 2024-12-13 |
 | [Night Like This](https://open.spotify.com/track/6qaRzZs9xEN9BpJ9qxmaKh) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Night Like This](https://open.spotify.com/album/4wI3VU8L0pgcKBFi3Xa0E3) | 2:59 | 2024-05-20 | 2024-11-08 |
 | [No God](https://open.spotify.com/track/4xGdSzhHX2RBazPCOHezeI) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [No God](https://open.spotify.com/album/3U3C86jnUyvNbqbML8o2uC) | 2:44 | 2024-10-18 | 2024-11-08 |
+| [No Joy](https://open.spotify.com/track/3p1UaNpImYT3nrIy1reGJ6) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [No Joy](https://open.spotify.com/album/1HbbRnWZ0mMVKHj9PsCUk7) | 3:17 | 2025-06-26 |  |
 | [Not This Time](https://open.spotify.com/track/325Y0u0dmETOSwgdM4fLAj) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Not This Time](https://open.spotify.com/album/5EW8gVkac63mqb7X8qwqJe) | 3:21 | 2024-09-12 | 2024-11-08 |
 | [Nothing's Gonna Fill You Up](https://open.spotify.com/track/6F85gPTuhhUSBhAMyj3yLN) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF) | [While I'm Distracted](https://open.spotify.com/album/0FQHwsbrTKnBDeSHzGDtuO) | 6:06 | 2025-05-08 | 2025-06-02 |
 | [Ocean Demon](https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE) | 4:20 | 2024-05-20 |  |

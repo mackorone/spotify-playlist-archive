@@ -1,6 +1,6 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 207042,
+  "num_followers": 207051,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Ocean Dreams",
+        "url": "https://open.spotify.com/album/6yZrvjkD4SOJSwOoXwGK3E"
+      },
+      "artists": [
+        {
+          "name": "Aquarian Summer",
+          "url": "https://open.spotify.com/artist/5MzxA9B0PIgViurDxRhJh0"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "Ocean Dreams",
+      "url": "https://open.spotify.com/track/4ugKXZBeBMF3hUZjwhwDbh"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Static Discos 100",
         "url": "https://open.spotify.com/album/5BE3SX8n0vQ2rEWzsqdS9q"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 100019,
       "name": "Static Discos 100",
       "url": "https://open.spotify.com/track/1ruo1XspKEfAEJthJg9UI7"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Ocean Dreams",
-        "url": "https://open.spotify.com/album/6yZrvjkD4SOJSwOoXwGK3E"
-      },
-      "artists": [
-        {
-          "name": "Aquarian Summer",
-          "url": "https://open.spotify.com/artist/5MzxA9B0PIgViurDxRhJh0"
-        }
-      ],
-      "duration_ms": 113000,
-      "name": "Ocean Dreams",
-      "url": "https://open.spotify.com/track/4ugKXZBeBMF3hUZjwhwDbh"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "The Deep End",
+        "url": "https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm"
+      },
+      "artists": [
+        {
+          "name": "Saloli",
+          "url": "https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj"
+        }
+      ],
+      "duration_ms": 282680,
+      "name": "Barcarolle",
+      "url": "https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Cycles",
         "url": "https://open.spotify.com/album/6b0k4pryDUm5lneoKhX8mD"
       },
@@ -479,22 +495,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "The Deep End",
-        "url": "https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm"
-      },
-      "artists": [
-        {
-          "name": "Saloli",
-          "url": "https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj"
-        }
-      ],
-      "duration_ms": 282680,
-      "name": "Barcarolle",
-      "url": "https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Migration",
         "url": "https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63"
       },
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Any Coop Will Do",
-        "url": "https://open.spotify.com/album/1z2WI1OrzLND1pUG5K40xF"
+        "name": "Nothing Is Objective",
+        "url": "https://open.spotify.com/album/5zampteQ8wridsIc1jU4pu"
       },
       "artists": [
         {
-          "name": "Dream Trees",
-          "url": "https://open.spotify.com/artist/6YjDIchrKX5ndRLIdjfaFY"
+          "name": "Suso Saiz",
+          "url": "https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh"
         }
       ],
-      "duration_ms": 197614,
-      "name": "Ichneumonidae",
-      "url": "https://open.spotify.com/track/1ZMD7KBROBCUtym3Tmn1PY"
+      "duration_ms": 386853,
+      "name": "Nothing Ends 2018",
+      "url": "https://open.spotify.com/track/7gKirx9P6EHXNR6mMOSgvP"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Nothing Is Objective",
-        "url": "https://open.spotify.com/album/5zampteQ8wridsIc1jU4pu"
+        "name": "Any Coop Will Do",
+        "url": "https://open.spotify.com/album/1z2WI1OrzLND1pUG5K40xF"
       },
       "artists": [
         {
-          "name": "Suso Saiz",
-          "url": "https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh"
+          "name": "Dream Trees",
+          "url": "https://open.spotify.com/artist/6YjDIchrKX5ndRLIdjfaFY"
         }
       ],
-      "duration_ms": 386853,
-      "name": "Nothing Ends 2018",
-      "url": "https://open.spotify.com/track/7gKirx9P6EHXNR6mMOSgvP"
+      "duration_ms": 197614,
+      "name": "Ichneumonidae",
+      "url": "https://open.spotify.com/track/1ZMD7KBROBCUtym3Tmn1PY"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Tilting On Windmills",
+        "url": "https://open.spotify.com/album/0EUkYGPFu3duNURukbpleg"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        }
+      ],
+      "duration_ms": 498065,
+      "name": "Tilting On Windmills",
+      "url": "https://open.spotify.com/track/7mvnU6KO4nC2C37BrbF4YL"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Kwaidan",
         "url": "https://open.spotify.com/album/0COOSP2TWDQQLdLE1HdGlO"
       },
@@ -813,20 +829,20 @@
       "url": "https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp"
     },
     {
-      "added_at": "2023-04-21 14:41:23",
+      "added_at": "2024-08-12 17:58:23",
       "album": {
-        "name": "Tilting On Windmills",
-        "url": "https://open.spotify.com/album/0EUkYGPFu3duNURukbpleg"
+        "name": "Sky Hooks",
+        "url": "https://open.spotify.com/album/1cRRoju0uC7dKI0DShRofp"
       },
       "artists": [
         {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
         }
       ],
-      "duration_ms": 498065,
-      "name": "Tilting On Windmills",
-      "url": "https://open.spotify.com/track/7mvnU6KO4nC2C37BrbF4YL"
+      "duration_ms": 363483,
+      "name": "Sky Hooks",
+      "url": "https://open.spotify.com/track/6KqOFPJTgkSXWmKkjstNWC"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -843,22 +859,6 @@
       "duration_ms": 299892,
       "name": "Our New Order",
       "url": "https://open.spotify.com/track/71kdBwFjBFIMn4ZBsFOlYa"
-    },
-    {
-      "added_at": "2024-08-12 17:58:23",
-      "album": {
-        "name": "Sky Hooks",
-        "url": "https://open.spotify.com/album/1cRRoju0uC7dKI0DShRofp"
-      },
-      "artists": [
-        {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
-        }
-      ],
-      "duration_ms": 363483,
-      "name": "Sky Hooks",
-      "url": "https://open.spotify.com/track/6KqOFPJTgkSXWmKkjstNWC"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Ventricular Beats",
+        "url": "https://open.spotify.com/album/6fqSZwvHnBFe25MQVJ0yFD"
+      },
+      "artists": [
+        {
+          "name": "Dean Valentine",
+          "url": "https://open.spotify.com/artist/4G43eq2dV3QIfSHIIGycxq"
+        }
+      ],
+      "duration_ms": 211080,
+      "name": "A Thin Place",
+      "url": "https://open.spotify.com/track/4hkBBETgY4EWr98jdoDPyx"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Repair Techniques",
         "url": "https://open.spotify.com/album/43Ut1iwUFTz52uVQPh8BIJ"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 232000,
       "name": "Sugi",
       "url": "https://open.spotify.com/track/7hRCR3RepAA1LEK0iJfRoS"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Ventricular Beats",
-        "url": "https://open.spotify.com/album/6fqSZwvHnBFe25MQVJ0yFD"
-      },
-      "artists": [
-        {
-          "name": "Dean Valentine",
-          "url": "https://open.spotify.com/artist/4G43eq2dV3QIfSHIIGycxq"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "A Thin Place",
-      "url": "https://open.spotify.com/track/4hkBBETgY4EWr98jdoDPyx"
     },
     {
       "added_at": "2024-01-11 03:32:09",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Shadows (The Light of Light)",
-        "url": "https://open.spotify.com/album/2iGsHH8dXl9VHM0JtGiDo2"
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/4PL0vCcUTMBli1DuLJa8ge"
       },
       "artists": [
         {
-          "name": "Ibukun Sunday",
-          "url": "https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI"
+          "name": "m.0",
+          "url": "https://open.spotify.com/artist/1Gc6C6mp22uQYKzXAZ6bme"
         }
       ],
-      "duration_ms": 274800,
-      "name": "Shadows (The Light of Light)",
-      "url": "https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv"
+      "duration_ms": 401149,
+      "name": "Understanding",
+      "url": "https://open.spotify.com/track/2JXPq9pvPiQo2edh6ikySv"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/4PL0vCcUTMBli1DuLJa8ge"
+        "name": "Shadows (The Light of Light)",
+        "url": "https://open.spotify.com/album/2iGsHH8dXl9VHM0JtGiDo2"
       },
       "artists": [
         {
-          "name": "m.0",
-          "url": "https://open.spotify.com/artist/1Gc6C6mp22uQYKzXAZ6bme"
+          "name": "Ibukun Sunday",
+          "url": "https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI"
         }
       ],
-      "duration_ms": 401149,
-      "name": "Understanding",
-      "url": "https://open.spotify.com/track/2JXPq9pvPiQo2edh6ikySv"
+      "duration_ms": 274800,
+      "name": "Shadows (The Light of Light)",
+      "url": "https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Whisper Fold Brush",
-        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 1190161,
-      "name": "Whisper Fold Brush, Pt. One",
-      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Sublunar Oracles",
         "url": "https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 566333,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/4sBqFcXxQEfyqNYA7tDNwq"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Whisper Fold Brush",
+        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 1190161,
+      "name": "Whisper Fold Brush, Pt. One",
+      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "The Long Count",
+        "url": "https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN"
+      },
+      "artists": [
+        {
+          "name": "Debit",
+          "url": "https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "1st Day",
+      "url": "https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Light Splitting",
         "url": "https://open.spotify.com/album/1amD8zqzlpSivemeUCIylU"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 596119,
       "name": "Ellipsoid",
       "url": "https://open.spotify.com/track/2KfQdB1IzvRQFNdB7RbTua"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "The Long Count",
-        "url": "https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN"
-      },
-      "artists": [
-        {
-          "name": "Debit",
-          "url": "https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "1st Day",
-      "url": "https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb"
     }
   ],
   "unique_name": "Exospheres",

@@ -1,12 +1,12 @@
 {
   "description": "This is Rina Sawayama. The essential tracks, all in one playlist.",
-  "num_followers": 37798,
+  "num_followers": 37803,
   "original_name": "This Is Rina Sawayama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAABVtlcuoCSn8Gi4a4GyIO6A",
+  "snapshot_id": "aFs8AAAAAAAJTxV2TQ3yEY+IRqZyOMtT",
   "tracks": [
     {
       "added_at": null,
@@ -251,18 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "RINA",
-        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+        "name": "Eve, Psyche & the Bluebeard\u2019s wife (Rina Sawayama Remix)",
+        "url": "https://open.spotify.com/album/4snDidl0spOeD55YeH3HGh"
       },
       "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
         {
           "name": "Rina Sawayama",
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 60321,
-      "name": "Time Out - Interlude",
-      "url": "https://open.spotify.com/track/0jdI2PmzYM9neGpK4AtYkx"
+      "duration_ms": 174173,
+      "name": "Eve, Psyche & the Bluebeard\u2019s wife (Rina Sawayama Remix)",
+      "url": "https://open.spotify.com/track/7y2WZKii5EQkpGUef37XkR"
     },
     {
       "added_at": null,
@@ -299,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eve, Psyche & the Bluebeard\u2019s wife (Rina Sawayama Remix)",
-        "url": "https://open.spotify.com/album/4snDidl0spOeD55YeH3HGh"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        },
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 174173,
-      "name": "Eve, Psyche & the Bluebeard\u2019s wife (Rina Sawayama Remix)",
-      "url": "https://open.spotify.com/track/7y2WZKii5EQkpGUef37XkR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]",
         "url": "https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 249280,
       "name": "Beg for You (feat. Rina Sawayama) - A. G. Cook & VERNON OF SEVENTEEN Remix",
       "url": "https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 60321,
+      "name": "Time Out - Interlude",
+      "url": "https://open.spotify.com/track/0jdI2PmzYM9neGpK4AtYkx"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RINA",
-        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 221880,
-      "name": "Cyber Stockholm Syndrome",
-      "url": "https://open.spotify.com/track/7I9bSsqqIA0cV1nL0igGLm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dawn Of Chromatica",
         "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 233901,
       "name": "Free Woman - Rina Sawayama & Clarence Clarity Remix",
       "url": "https://open.spotify.com/track/1zF2enE35rzozF1Qu7rLKH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 221880,
+      "name": "Cyber Stockholm Syndrome",
+      "url": "https://open.spotify.com/track/7I9bSsqqIA0cV1nL0igGLm"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RINA",
-        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 205573,
-      "name": "Take Me as I Am",
-      "url": "https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where U Are",
         "url": "https://open.spotify.com/album/0wfyoAtPlgWuxo26vPPttJ"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 232946,
       "name": "Where U Are",
       "url": "https://open.spotify.com/track/30tie454RN2304xzAu5Din"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 205573,
+      "name": "Take Me as I Am",
+      "url": "https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RINA",
-        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 227037,
-      "name": "Ordinary Superstar",
-      "url": "https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enter Sandman",
         "url": "https://open.spotify.com/album/793qi8UfJPDiJNWHEdkXW1"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 333880,
       "name": "Enter Sandman",
       "url": "https://open.spotify.com/track/4ZELmUxqI93dMrnSD4eUqc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 227037,
+      "name": "Ordinary Superstar",
+      "url": "https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK"
     },
     {
       "added_at": null,

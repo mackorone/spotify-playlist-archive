@@ -463,6 +463,24 @@
     },
     {
       "album": {
+        "name": "Clover",
+        "url": "https://open.spotify.com/album/2qMQmSseamd7D1EaywOo2Z"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210050,
+      "name": "Clover",
+      "url": "https://open.spotify.com/track/072IesDWOkpw6SKWz21reJ"
+    },
+    {
+      "album": {
         "name": "confession",
         "url": "https://open.spotify.com/album/20leNPAVftANfsWCY2hCfJ"
       },
@@ -640,7 +658,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 182733,
       "name": "doing my best",
       "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
@@ -1429,6 +1447,24 @@
     },
     {
       "album": {
+        "name": "Keep On Keeping On",
+        "url": "https://open.spotify.com/album/0kivW345iYRWhl8LYC2PC0"
+      },
+      "artists": [
+        {
+          "name": "Tommy W\u00c1",
+          "url": "https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268582,
+      "name": "Keep On Keeping On",
+      "url": "https://open.spotify.com/track/6slN1qecSOImyahsP3Z8Mu"
+    },
+    {
+      "album": {
         "name": "OCEANS",
         "url": "https://open.spotify.com/album/3KGHjN5me5TTvO3KTNVWsZ"
       },
@@ -1458,7 +1494,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 209680,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/3NpeqhzTU37SFnYaEQfKa1"

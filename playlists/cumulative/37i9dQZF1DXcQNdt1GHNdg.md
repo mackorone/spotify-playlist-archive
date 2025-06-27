@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-230 songs - 11 hr 3 min
+231 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K) | 3:02 | 2023-11-18 | 2024-04-07 |
 | [Assault](https://open.spotify.com/track/373YKVi1jskf5VEOQLHe2y) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Kanji Porh](https://open.spotify.com/artist/1b98mtrHsQw4TsaFTZTNFt), [Sobit](https://open.spotify.com/artist/0IHV9OaDBM0RQ4I3ZBrVv4) | [Assault](https://open.spotify.com/album/5Bcvt4DnYTfJUrrq1aRvYt) | 2:17 | 2024-10-24 | 2024-11-28 |
 | [Assin Munde Aan Punjab De \- From "Kanneda"](https://open.spotify.com/track/40L5DfAjir9sc90D7NbQkK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE) | [Kanneda \(Original Series Soundtrack\)](https://open.spotify.com/album/2HF4aHW9ZSlzbLhidUnDLJ) | 2:06 | 2025-04-01 | 2025-05-07 |
+| [At Peace](https://open.spotify.com/track/1Ae2O8GhTe5KiDrrurzm41) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [At Peace](https://open.spotify.com/album/0BPCmxmfJM9Msh8MwT0eEL) | 2:44 | 2025-06-26 |  |
 | [Aukhe Saukhe](https://open.spotify.com/track/0JNOGqfKGQ7zbcNhrSfQ6v) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV) | [Aukhe Saukhe](https://open.spotify.com/album/3Y6tIiGDHeZTQjGjYzQspr) | 2:19 | 2025-01-06 | 2025-02-08 |
 | [Aura Jatt Da](https://open.spotify.com/track/1CirVTLXTUdZKnabJCc611) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Jaymeet](https://open.spotify.com/artist/1DU68vYYJqrO7fXt6X7ZkJ) | [Aura Jatt Da](https://open.spotify.com/album/0AsG4YqUQMLiDHB2e54ihR) | 3:22 | 2025-02-18 | 2025-03-14 |
 | [BACKLASH](https://open.spotify.com/track/0xc2yPEA9mijAN6T1Jq4Z3) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [BACKLASH](https://open.spotify.com/album/2RkPZfb697jIKJlwWXEiMM) | 3:13 | 2025-04-16 | 2025-06-04 |

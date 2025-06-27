@@ -4613,6 +4613,24 @@
     },
     {
       "album": {
+        "name": "Something Good",
+        "url": "https://open.spotify.com/album/7uHDUPls4X3mraMagaEw99"
+      },
+      "artists": [
+        {
+          "name": "FRIDAY",
+          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157198,
+      "name": "Sleepless City",
+      "url": "https://open.spotify.com/track/6BZVXqng1IJ5PRNUjKFlIC"
+    },
+    {
+      "album": {
         "name": "...As Heard In",
         "url": "https://open.spotify.com/album/0jtVQYmLnOjF6YsanisKct"
       },

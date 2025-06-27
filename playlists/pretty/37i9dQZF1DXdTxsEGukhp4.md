@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 紫 今
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,837 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,853 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,36 +20,36 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 10 | [アイサレタイ](https://open.spotify.com/track/0HJ4bOxL3wvJIk5a0j5OMm) | [Yumcha](https://open.spotify.com/artist/2xZeyR38yb0Wru7qwAeT1g) | [アイサレタイ](https://open.spotify.com/album/0OgFvzaWhbU9ey9gniMzWi) | 1:44 |
 | 11 | [StaRt](https://open.spotify.com/track/0ubEkvxVE1Sh4QTBN6b92a) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Variety](https://open.spotify.com/album/4JNYlZqgs8wSdgvwlaQbHR) | 3:31 |
 | 12 | [愛とU](https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [愛とU](https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl) | 3:22 |
-| 13 | [イイじゃん](https://open.spotify.com/track/4FuK1Rt4Ug1PXKNFvFaHaO) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [イイじゃん](https://open.spotify.com/album/7dYOkmiQ8NzC9PttH0PQ75) | 3:18 |
-| 14 | [I wonder](https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [I wonder](https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je) | 2:37 |
-| 15 | [名前は片想い](https://open.spotify.com/track/1qwE94iwDll2rydJWHTm3I) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [哀愁演劇](https://open.spotify.com/album/1wB0GF3mOb21xgSTuHBZ80) | 3:36 |
-| 16 | [Never Grow Up](https://open.spotify.com/track/5aDgM8rYPT15CqjkN1EIKq) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Never Grow Up](https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH) | 3:16 |
-| 17 | [キテル](https://open.spotify.com/track/6hCD2M9zRNsmFtVPjNnoKy) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [キテル](https://open.spotify.com/album/0I4nSg6CEHKzwsLBLUP5jP) | 1:45 |
-| 18 | [ぷんぷん](https://open.spotify.com/track/1ZQjslTPziwyz9BioIBBSI) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [サマラブ](https://open.spotify.com/album/7eUgZkOJL1L3N8mxKC9XOq) | 3:16 |
-| 19 | [ビジュがレベチ](https://open.spotify.com/track/7vi2Wh16kaoy9MXTa7V7hP) | [anna calla](https://open.spotify.com/artist/5Kjfw00jyKFzU8IwAmwAy0) | [ビジュがレベチ](https://open.spotify.com/album/3hXsYOcrMxpvmd7nt1VKHw) | 3:10 |
-| 20 | [ラッキーカラー](https://open.spotify.com/track/2iNLH2YkRdplxPA09jndW6) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [猫にジェラシー](https://open.spotify.com/album/10bxrO3VcayVLsFF30JFxO) | 3:38 |
-| 21 | [合法的トビ方ノススメ](https://open.spotify.com/track/1YjB7JgaWxUSOAsuCBOQEM) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [たりないふたり](https://open.spotify.com/album/31hLSqnLaBag5p2BmvCnOs) | 3:58 |
-| 22 | [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 |
-| 23 | [かわいいだけじゃだめですか？](https://open.spotify.com/track/3KtwMkj9gml6BDeYlyS8nG) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [かわいいだけじゃだめですか？](https://open.spotify.com/album/1cJaqr9y6AvJqQgNpwVNRD) | 4:11 |
-| 24 | [地獄恋文 \- Inferno Love Letter](https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [地獄恋文 \- Inferno Love Letter](https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs) | 2:47 |
-| 25 | [一目惚れ](https://open.spotify.com/track/08xsN4IJlXiJOc3C7jWNaZ) | [舟津真翔](https://open.spotify.com/artist/01O1K2of8wkNZJhWRlRFcT) | [一目惚れ](https://open.spotify.com/album/6HTYjgKJEQdvrOIB8WGeGN) | 3:21 |
-| 26 | [すないぱー。](https://open.spotify.com/track/2aaahig7w9q4485WWnkpur) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [紺色に憧れて](https://open.spotify.com/album/43SWQqd7vTaZNecVGqYuc6) | 3:28 |
-| 27 | [おつかれSUMMER](https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [ハルカリベーコン](https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c) | 3:59 |
-| 28 | [野良猫](https://open.spotify.com/track/208BzJ6J8QKcmvRt77hOtv) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [YUKAKO](https://open.spotify.com/album/6LOKVxFzL25htq0rK4z1oI) | 4:01 |
-| 29 | [MUSE](https://open.spotify.com/track/0KBawRsiH5aUNgFy6H4mIv) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [MUSE](https://open.spotify.com/album/4ejHEQ41IAEtaZuXEPqeCv) | 2:53 |
-| 30 | [八月の夜](https://open.spotify.com/track/0nwBcHgGSsIYSUmFDywTIH) | [SILENT SIREN](https://open.spotify.com/artist/11FVEsg4m3QWzNfaK7vykQ) | [S](https://open.spotify.com/album/1kBkRBJy4w7MAkJJewZnHl) | 4:19 |
-| 31 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
-| 32 | [恋愛後遺症](https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [恋愛後遺症](https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr) | 2:47 |
-| 33 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 |
-| 34 | [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 |
-| 35 | [Life is Romance](https://open.spotify.com/track/1ZVECsyPiW5IBpzEsGplE9) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:10 |
-| 36 | [電車の窓から](https://open.spotify.com/track/7eED5ZjvphcEaQjxkzsvBP) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [アンコール](https://open.spotify.com/album/4BciHYMbN5HlyO899tmMc9) | 4:52 |
-| 37 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 |
-| 38 | [Giri Giri](https://open.spotify.com/track/2D5TDcdWIZLMKZ5xPYXRwq) | [KOMOREBI](https://open.spotify.com/artist/1T7UDf2UKWE7gsvwvsuxRD) | [Giri Giri](https://open.spotify.com/album/5u7gdArPPixjWZlD34MntD) | 2:14 |
-| 39 | [Shopping Bag](https://open.spotify.com/track/7tBm772bkeFyOFpcasf3UB) | [ピラフ星人](https://open.spotify.com/artist/7LCvObtg5MA10WBd4DiK1E) | [Dream Taxi](https://open.spotify.com/album/5v9C5LaLIO2MsjCJIBPFXM) | 2:07 |
-| 40 | [愛♡スクリ～ム！](https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [愛♡スクリ～ム！](https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ) | 4:22 |
-| 41 | [After Rain](https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [After Rain](https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e) | 2:54 |
-| 42 | [バレンタイン決戦 \- Sped Up](https://open.spotify.com/track/2jAcF1P6jVhHo5ApALkoQC) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [バレンタイン決戦](https://open.spotify.com/album/7cIIvrxI6MPsrdzo2gB1S7) | 2:54 |
+| 13 | [だけど僕は](https://open.spotify.com/track/3kenAyozcSKh83nRsaGqru) | [Gesu No Kiwami Otome](https://open.spotify.com/artist/1ieluXFoq2RRxMXZIQksTz) | [猟奇的なキスを私にして](https://open.spotify.com/album/5Qy4KEySDLkh5xnRK325D5) | 3:07 |
+| 14 | [イイじゃん](https://open.spotify.com/track/4FuK1Rt4Ug1PXKNFvFaHaO) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [イイじゃん](https://open.spotify.com/album/7dYOkmiQ8NzC9PttH0PQ75) | 3:18 |
+| 15 | [I wonder](https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [I wonder](https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je) | 2:37 |
+| 16 | [名前は片想い](https://open.spotify.com/track/1qwE94iwDll2rydJWHTm3I) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [哀愁演劇](https://open.spotify.com/album/1wB0GF3mOb21xgSTuHBZ80) | 3:36 |
+| 17 | [Never Grow Up](https://open.spotify.com/track/5aDgM8rYPT15CqjkN1EIKq) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Never Grow Up](https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH) | 3:16 |
+| 18 | [キテル](https://open.spotify.com/track/6hCD2M9zRNsmFtVPjNnoKy) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [キテル](https://open.spotify.com/album/0I4nSg6CEHKzwsLBLUP5jP) | 1:45 |
+| 19 | [ぷんぷん](https://open.spotify.com/track/1ZQjslTPziwyz9BioIBBSI) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [サマラブ](https://open.spotify.com/album/7eUgZkOJL1L3N8mxKC9XOq) | 3:16 |
+| 20 | [ビジュがレベチ](https://open.spotify.com/track/7vi2Wh16kaoy9MXTa7V7hP) | [anna calla](https://open.spotify.com/artist/5Kjfw00jyKFzU8IwAmwAy0) | [ビジュがレベチ](https://open.spotify.com/album/3hXsYOcrMxpvmd7nt1VKHw) | 3:10 |
+| 21 | [ラッキーカラー](https://open.spotify.com/track/2iNLH2YkRdplxPA09jndW6) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [猫にジェラシー](https://open.spotify.com/album/10bxrO3VcayVLsFF30JFxO) | 3:38 |
+| 22 | [合法的トビ方ノススメ](https://open.spotify.com/track/1YjB7JgaWxUSOAsuCBOQEM) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [たりないふたり](https://open.spotify.com/album/31hLSqnLaBag5p2BmvCnOs) | 3:58 |
+| 23 | [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 |
+| 24 | [かわいいだけじゃだめですか？](https://open.spotify.com/track/3KtwMkj9gml6BDeYlyS8nG) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [かわいいだけじゃだめですか？](https://open.spotify.com/album/1cJaqr9y6AvJqQgNpwVNRD) | 4:11 |
+| 25 | [地獄恋文 \- Inferno Love Letter](https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [地獄恋文 \- Inferno Love Letter](https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs) | 2:47 |
+| 26 | [一目惚れ](https://open.spotify.com/track/08xsN4IJlXiJOc3C7jWNaZ) | [舟津真翔](https://open.spotify.com/artist/01O1K2of8wkNZJhWRlRFcT) | [一目惚れ](https://open.spotify.com/album/6HTYjgKJEQdvrOIB8WGeGN) | 3:21 |
+| 27 | [すないぱー。](https://open.spotify.com/track/2aaahig7w9q4485WWnkpur) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [紺色に憧れて](https://open.spotify.com/album/43SWQqd7vTaZNecVGqYuc6) | 3:28 |
+| 28 | [おつかれSUMMER](https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [ハルカリベーコン](https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c) | 3:59 |
+| 29 | [野良猫](https://open.spotify.com/track/208BzJ6J8QKcmvRt77hOtv) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [YUKAKO](https://open.spotify.com/album/6LOKVxFzL25htq0rK4z1oI) | 4:01 |
+| 30 | [MUSE](https://open.spotify.com/track/0KBawRsiH5aUNgFy6H4mIv) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [MUSE](https://open.spotify.com/album/4ejHEQ41IAEtaZuXEPqeCv) | 2:53 |
+| 31 | [八月の夜](https://open.spotify.com/track/0nwBcHgGSsIYSUmFDywTIH) | [SILENT SIREN](https://open.spotify.com/artist/11FVEsg4m3QWzNfaK7vykQ) | [S](https://open.spotify.com/album/1kBkRBJy4w7MAkJJewZnHl) | 4:19 |
+| 32 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
+| 33 | [恋愛後遺症](https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [恋愛後遺症](https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr) | 2:47 |
+| 34 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 |
+| 35 | [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 |
+| 36 | [Life is Romance](https://open.spotify.com/track/1ZVECsyPiW5IBpzEsGplE9) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:10 |
+| 37 | [電車の窓から](https://open.spotify.com/track/7eED5ZjvphcEaQjxkzsvBP) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [アンコール](https://open.spotify.com/album/4BciHYMbN5HlyO899tmMc9) | 4:52 |
+| 38 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 |
+| 39 | [Giri Giri](https://open.spotify.com/track/2D5TDcdWIZLMKZ5xPYXRwq) | [KOMOREBI](https://open.spotify.com/artist/1T7UDf2UKWE7gsvwvsuxRD) | [Giri Giri](https://open.spotify.com/album/5u7gdArPPixjWZlD34MntD) | 2:14 |
+| 40 | [Shopping Bag](https://open.spotify.com/track/7tBm772bkeFyOFpcasf3UB) | [ピラフ星人](https://open.spotify.com/artist/7LCvObtg5MA10WBd4DiK1E) | [Dream Taxi](https://open.spotify.com/album/5v9C5LaLIO2MsjCJIBPFXM) | 2:07 |
+| 41 | [愛♡スクリ～ム！](https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [愛♡スクリ～ム！](https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ) | 4:22 |
+| 42 | [After Rain](https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [After Rain](https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e) | 2:54 |
 | 43 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
 | 44 | [Whiplash](https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/6RRuiUup6Z0Y0MxkCXOGyU) | 3:03 |
 | 45 | [Friends, Family & God \(feat\. G\-k.i.d & KEIJU\)](https://open.spotify.com/track/2ot7Di8yxbJ01vGdJmdQ4L) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [G\-k.i.d](https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Friends, Family & God \(feat\. G\-k.i.d & KEIJU\)](https://open.spotify.com/album/0NFLbdYg7vCwWYSE7OiRpZ) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [PARALLEL](https://open.spotify.com/track/6t2hernNP059dFBRyBKLKT) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [PARALLEL](https://open.spotify.com/album/0YRmYvCo1yyHgmMdWC7I7c) | 1:44 |
 | 50 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
 
-Snapshot ID: `aFQmEgAAAADk4kjvBFn+ahxa6dtbAgxR`
+Snapshot ID: `aF1geQAAAACt3r8TAXbI8ylWfCEJ2RR8`

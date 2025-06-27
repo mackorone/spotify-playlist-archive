@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,126 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,139 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 45 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 |
 | 46 | [Steve's Lava Chicken](https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 0:34 |
 | 47 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
-| 48 | [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 |
-| 49 | [Deslocado](https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Deslocado](https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R) | 2:59 |
+| 48 | [Deslocado](https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Deslocado](https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R) | 2:59 |
+| 49 | [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 |
 | 50 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 |
 | 51 | [P\*RNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 |
 | 52 | [ss](https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 3:04 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 81 | [Afacere](https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Afacere](https://open.spotify.com/album/6nH1LSD2E4k6O1eeDNSaFJ) | 2:27 |
 | 82 | [Vorba Francezului \- From "Buzz House" The Movie](https://open.spotify.com/track/1lb1SBZXMocgE9O93dfxRr) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Sheik](https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW) | [Vorba Francezului \(From "Buzz House" The Movie\)](https://open.spotify.com/album/5JAP6CrNvHpfmD29ml9wB6) | 2:39 |
 | 83 | [Ancora](https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Ancora](https://open.spotify.com/album/0jqONN6IGgRduCbg0Oyuan) | 3:25 |
-| 84 | [A venit poliția \- From "Candidatul perfect" The Movie](https://open.spotify.com/track/4ltU2MHw7l9Mbr7NhbNjLV) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [A venit poliția \(From "Candidatul perfect" The Movie\)](https://open.spotify.com/album/60yReiUgnULTHtH4aZduQY) | 2:24 |
-| 85 | [Love Is The Answer](https://open.spotify.com/track/6mleVuvGjiH9rEJ7jMAdN6) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Love Is The Answer](https://open.spotify.com/album/6E0StAsD48K97p78ytR0yD) | 3:32 |
+| 84 | [Love Is The Answer](https://open.spotify.com/track/6mleVuvGjiH9rEJ7jMAdN6) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Love Is The Answer](https://open.spotify.com/album/6E0StAsD48K97p78ytR0yD) | 3:32 |
+| 85 | [A venit poliția \- From "Candidatul perfect" The Movie](https://open.spotify.com/track/4ltU2MHw7l9Mbr7NhbNjLV) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [A venit poliția \(From "Candidatul perfect" The Movie\)](https://open.spotify.com/album/60yReiUgnULTHtH4aZduQY) | 2:24 |
 | 86 | [Spania](https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ) | [Dani Mocanu](https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI) | [Spania](https://open.spotify.com/album/6of64Cn0GSvyv3lxXMNIzc) | 2:39 |
 | 87 | [Macarena](https://open.spotify.com/track/3U7EsmefcBOb33o1pWVuOT) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq), [Cristina Pucean](https://open.spotify.com/artist/2KqNGJVeLw5RqpyHEw7lGZ) | [Macarena](https://open.spotify.com/album/1uKLZaJkX4E5G757MNRyKN) | 2:41 |
 | 88 | [Alo, mama](https://open.spotify.com/track/07WyoFDoUjxDHLa0dMFcb5) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Alo, mama](https://open.spotify.com/album/423TPlB5hQpIDYC6BMJ9Tp) | 2:49 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 96 | [2 Stickere](https://open.spotify.com/track/6UqAQ2xZSFQxb2p89rvvVN) | [Jador](https://open.spotify.com/artist/6o6jMpcBBv4jMOEE1Z4tlJ), [Sheik](https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW) | [2 Stickere](https://open.spotify.com/album/2yHy27oGwEJWwxVaI216e0) | 2:38 |
 | 97 | [ANGELINA JOLIE](https://open.spotify.com/track/14NwdA5jpFrLI4LCs2GBtp) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ANGELINA JOLIE](https://open.spotify.com/album/6b6tDxSxIkIf8XP6p3PUNQ) | 3:07 |
 | 98 | [Așa Ceva](https://open.spotify.com/track/1Wk5ilzwTDcEG1lM2WmGl4) | [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Așa Ceva](https://open.spotify.com/album/1gVqVksFrxJe1wr8lnEMO7) | 3:24 |
-| 99 | [Habibi](https://open.spotify.com/track/4EBATplQoU295eNOeONlAP) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Habibi](https://open.spotify.com/album/3pzaeGJg6nQExvJazlHbyy) | 2:10 |
+| 99 | [RACHETA](https://open.spotify.com/track/7ErF2tYFVi8lK9BZih9ghx) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq), [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Costel Biju](https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY) | [RACHETA](https://open.spotify.com/album/7tUJjS8TC01UNE3dvvJtHR) | 2:31 |
 | 100 | [De la dela](https://open.spotify.com/track/4qQDJp46yZj6xz8mwq91v7) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [De la dela](https://open.spotify.com/album/6pba5ksDHtVywuKyhlpzmy) | 3:23 |
 
 Snapshot ID: `aFUdrgAAAABuqyym0hhAdqXdnQhmyUDI`

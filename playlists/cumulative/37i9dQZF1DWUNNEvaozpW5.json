@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Loquillo.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Robe y Leiva.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -836,7 +836,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 146462,
       "name": "Atardecer",
       "url": "https://open.spotify.com/track/7AK0rgL0T6AsCxFT7J3wBw"
@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 237325,
       "name": "Besos robados (feat. Coque Malla)",
       "url": "https://open.spotify.com/track/06sDS7TIJDylCGfJvnhUVI"
@@ -1660,7 +1660,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 169773,
       "name": "Cien gaviotas",
       "url": "https://open.spotify.com/track/5i07tC6hV5AtYTr0tsP0Uy"
@@ -2680,7 +2680,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 164669,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/511ZMyXhrPlJvQSYtBWDy3"
@@ -3615,6 +3615,28 @@
     },
     {
       "album": {
+        "name": "El Mejor de Tus D\u00edas",
+        "url": "https://open.spotify.com/album/6DF1X2lk1CivK58aTlYUze"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Piedrafita",
+          "url": "https://open.spotify.com/artist/0Y93RnnfowqScS5INK5EUi"
+        },
+        {
+          "name": "Barricada",
+          "url": "https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236520,
+      "name": "El Mejor de Tus D\u00edas",
+      "url": "https://open.spotify.com/track/6WeR33uTcbiXI52aEU24bx"
+    },
+    {
+      "album": {
         "name": "El mundo contra ti",
         "url": "https://open.spotify.com/album/0ZfYydICBvFHerYyVKAMn6"
       },
@@ -4118,7 +4140,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 245533,
       "name": "En Blanco Y Negro",
       "url": "https://open.spotify.com/track/0FJBWXOa9tYcJCxv1YxP9H"
@@ -6071,6 +6093,24 @@
     },
     {
       "album": {
+        "name": "La tierra de nunca jam\u00e1s",
+        "url": "https://open.spotify.com/album/0Y9ccsrydKJIjbVVxkttzc"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4go de Oz",
+          "url": "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331916,
+      "name": "La tierra de nunca jam\u00e1s",
+      "url": "https://open.spotify.com/track/3HkCyhn2NUospRJFQHtW9U"
+    },
+    {
+      "album": {
         "name": "La Torre Picasso",
         "url": "https://open.spotify.com/album/090Jo9iBjpgrcBwezLFTYq"
       },
@@ -7599,6 +7639,24 @@
     },
     {
       "album": {
+        "name": "Mis Viejos Discos de Jazz",
+        "url": "https://open.spotify.com/album/3oBRgu0l8adsMhi1WXjkZq"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos de tu Hermana",
+          "url": "https://open.spotify.com/artist/6W9iQV4Bx7YFjf0ak5FF8R"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287659,
+      "name": "Mis Viejos Discos de Jazz",
+      "url": "https://open.spotify.com/track/6FPcpTRYUbsxonVwDXbzKk"
+    },
+    {
+      "album": {
         "name": "Mitos del R&R",
         "url": "https://open.spotify.com/album/1IYXzhKmnZaNw5OjMxxsqx"
       },
@@ -7688,6 +7746,24 @@
       "duration_ms": 234800,
       "name": "Mucho mejor (feat. Coque Malla)",
       "url": "https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL"
+    },
+    {
+      "album": {
+        "name": "Mundo en Ruinas",
+        "url": "https://open.spotify.com/album/0qKAI9Kb6dydMWMkwF6ssu"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/4pNlsYEjhnTIVPNZRlRx1h"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149532,
+      "name": "Mundo en Ruinas",
+      "url": "https://open.spotify.com/track/5CoUuRhc8nxg4a3dAINzOc"
     },
     {
       "album": {
@@ -11346,6 +11422,44 @@
       "duration_ms": 221270,
       "name": "Vaya Bendici\u00f3n",
       "url": "https://open.spotify.com/track/0O0lQBsfuXsmpNrusHVAb8"
+    },
+    {
+      "album": {
+        "name": "El que quiera dormir que se compre una colchoneta",
+        "url": "https://open.spotify.com/album/73vbxixzfYUnlLozVpptrn"
+      },
+      "artists": [
+        {
+          "name": "G-5",
+          "url": "https://open.spotify.com/artist/0oeVpLiVypb1RhMZPYqpWK"
+        },
+        {
+          "name": "Kiko Veneno",
+          "url": "https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP"
+        },
+        {
+          "name": "El Canijo de Jerez",
+          "url": "https://open.spotify.com/artist/1F1UN5rQ0UCxM8A8ZDE6k7"
+        },
+        {
+          "name": "Muchachito Bombo Infierno",
+          "url": "https://open.spotify.com/artist/6529KpSlnP8S0kXhx7ayBb"
+        },
+        {
+          "name": "Tomasito",
+          "url": "https://open.spotify.com/artist/0odnUZ4km1b1V4wGwDeBVJ"
+        },
+        {
+          "name": "Rat\u00f3n",
+          "url": "https://open.spotify.com/artist/0WxQt7sDK0GY3nDNjLJuNX"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280435,
+      "name": "Vaya sarao",
+      "url": "https://open.spotify.com/track/3NdwDuxeYrhJQeFkM1a6ij"
     },
     {
       "album": {

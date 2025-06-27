@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Luis Mexia, El Rabbanito en portada.",
-  "num_followers": 214395,
+  "num_followers": 214521,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
+        "name": "El Se\u00f1or De La Monta\u00f1a (Live)",
+        "url": "https://open.spotify.com/album/6ADjYjAhIbCuWOLj8uDF97"
+      },
+      "artists": [
+        {
+          "name": "Canelos Jrs",
+          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 240292,
+      "name": "El Se\u00f1or De La Monta\u00f1a - Live",
+      "url": "https://open.spotify.com/track/1eWdYjw95seoa2kSlEaLQE"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
         "name": "Los Brothers (09/19)",
         "url": "https://open.spotify.com/album/0A5XLLKJ8Z7G6AM7uL4WzI"
       },
@@ -1419,26 +1439,6 @@
       "duration_ms": 216310,
       "name": "Los Brothers (09/19)",
       "url": "https://open.spotify.com/track/0c8WcRLJRUuQfQIdmXAzpA"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
-        "name": "El Se\u00f1or De La Monta\u00f1a (Live)",
-        "url": "https://open.spotify.com/album/6ADjYjAhIbCuWOLj8uDF97"
-      },
-      "artists": [
-        {
-          "name": "Canelos Jrs",
-          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 240292,
-      "name": "El Se\u00f1or De La Monta\u00f1a - Live",
-      "url": "https://open.spotify.com/track/1eWdYjw95seoa2kSlEaLQE"
     },
     {
       "added_at": "2025-03-28 18:15:05",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
-        "name": "Mis Metas",
-        "url": "https://open.spotify.com/album/3CrhHPWRoAwnHZ0h1oMK5s"
-      },
-      "artists": [
-        {
-          "name": "Grupo Descarga Del 3030",
-          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
-        }
-      ],
-      "duration_ms": 151981,
-      "name": "Mis Metas",
-      "url": "https://open.spotify.com/track/0xn4FZY8rcdLKoZ7YDkQYS"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
         "name": "Yo Soy Serafin",
         "url": "https://open.spotify.com/album/6gl5yLhjGsSgZJG0Hu80KM"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 161703,
       "name": "Yo Soy Serafin",
       "url": "https://open.spotify.com/track/5eAiuGaZcQ8ckwSMLSDIBu"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
+        "name": "Mis Metas",
+        "url": "https://open.spotify.com/album/3CrhHPWRoAwnHZ0h1oMK5s"
+      },
+      "artists": [
+        {
+          "name": "Grupo Descarga Del 3030",
+          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
+        }
+      ],
+      "duration_ms": 151981,
+      "name": "Mis Metas",
+      "url": "https://open.spotify.com/track/0xn4FZY8rcdLKoZ7YDkQYS"
     },
     {
       "added_at": "2025-03-28 18:15:05",

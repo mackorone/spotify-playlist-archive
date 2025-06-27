@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: rares ",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: IRAIDA",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 165906,
       "name": "Dragoste nou\u0103",
       "url": "https://open.spotify.com/track/4mffuuMam2bBlx1c4PtfjJ"
@@ -2701,6 +2701,24 @@
     },
     {
       "album": {
+        "name": "Lume, Lume",
+        "url": "https://open.spotify.com/album/6wMoTxZxyBP5yy91h1Iykp"
+      },
+      "artists": [
+        {
+          "name": "IRAIDA",
+          "url": "https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Lume, Lume",
+      "url": "https://open.spotify.com/track/4cIvBXueYjHnD27zCLFKLh"
+    },
+    {
+      "album": {
         "name": "Lumea mea",
         "url": "https://open.spotify.com/album/0PYxCYbxahfOkLVKok1KMq"
       },
@@ -2834,12 +2852,12 @@
           "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
         },
         {
-          "name": "Alex Velea",
-          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
-        },
-        {
           "name": "Smiley",
           "url": "https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH"
+        },
+        {
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
         }
       ],
       "date_added": "2025-06-05",
@@ -3145,6 +3163,24 @@
     },
     {
       "album": {
+        "name": "Nimeni",
+        "url": "https://open.spotify.com/album/3Yie8WT2g1oqcddK6ABrJw"
+      },
+      "artists": [
+        {
+          "name": "Nicole Cherry",
+          "url": "https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Nimeni",
+      "url": "https://open.spotify.com/track/7vW00drwifTzdfBkBmtFyl"
+    },
+    {
+      "album": {
         "name": "Nimic mai mult",
         "url": "https://open.spotify.com/album/4Opx2erfG2SADIomOPqX2x"
       },
@@ -3302,7 +3338,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 186375,
       "name": "Nu M\u0103 Ia",
       "url": "https://open.spotify.com/track/6H0QfyYMYKmb0CfSX8DGTW"
@@ -4372,7 +4408,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 145696,
       "name": "Str\u0103ine",
       "url": "https://open.spotify.com/track/3WOIbuF1QoBlH1zlrLLiRd"
@@ -4608,6 +4644,28 @@
       "duration_ms": 203195,
       "name": "Te strig",
       "url": "https://open.spotify.com/track/5JmvuBgj4ODK4pLH7NQVlb"
+    },
+    {
+      "album": {
+        "name": "Te-am desenat",
+        "url": "https://open.spotify.com/album/0m71zzWghJaJW8r44YQaGb"
+      },
+      "artists": [
+        {
+          "name": "Doddy",
+          "url": "https://open.spotify.com/artist/5j11BMuSj9oaTlYqHKAjqB"
+        },
+        {
+          "name": "Olivia Addams",
+          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196909,
+      "name": "Te-am desenat",
+      "url": "https://open.spotify.com/track/0Cuc3pVieq02jC2l7ReUwK"
     },
     {
       "album": {

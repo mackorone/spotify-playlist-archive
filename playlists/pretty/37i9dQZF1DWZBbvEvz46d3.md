@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,375 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,381 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 7 | [Piosenka księżycowa \(Acoustic Version\)](https://open.spotify.com/track/05NKgpBkS8YiN1bqNfFwSW) | [Varius Manx / Kasia Stankiewicz](https://open.spotify.com/artist/1B3OoaIxfCpdui7lvW2Yu2) | [ENT](https://open.spotify.com/album/0PClVbELnvZL2fnAVeJlWt) | 4:01 |
 | 8 | [Długość dźwięku samotności](https://open.spotify.com/track/5ytkHKps6RVVDFZwAqVDCB) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [Miłość w czasach popkultury](https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ) | 4:11 |
 | 9 | [Dla Ciebie](https://open.spotify.com/track/4gDG78TaA7RYH17odwTXwS) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [Miłość w czasach popkultury](https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ) | 3:45 |
-| 10 | [O Pani!](https://open.spotify.com/track/12BwVTLEvpQREU9mmb8H3C) | [Grzegorz Hyży](https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm) | [Momenty](https://open.spotify.com/album/1JZJaY1HGGVOpui0YhFsMr) | 2:58 |
+| 10 | [I Ciebie też, bardzo \(feat\. Daria Zawiałow, Dawid Podsiadło & Vito Bambino\)](https://open.spotify.com/track/64F1Z2LAsf04V346A75hi1) | [Męskie Granie Orkiestra](https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG), [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [I Ciebie też, bardzo \(feat\. Daria Zawiałow, Dawid Podsiadło & Vito Bambino\)](https://open.spotify.com/album/01018kIpMNDTe0WrYornLN) | 3:29 |
 | 11 | [Im Wiecej Ciebie Tym Mniej](https://open.spotify.com/track/3o27KMyW0hyzCsWZr8Mxes) | [Natalia Kukulska](https://open.spotify.com/artist/71ADVpJx1rN662ENAJIcUZ) | [Puls](https://open.spotify.com/album/17OqmEqHKm76hZ1z9n5LeF) | 4:44 |
 | 12 | [Zanim pójdę](https://open.spotify.com/track/6LuOCaMHFBfaR1MLKNHhMA) | [Happysad](https://open.spotify.com/artist/4NkE5k5xSRm6eVE7vMhqD6) | [Wszystko jedno](https://open.spotify.com/album/6TOdt5yYuI7ympn1TmYiZr) | 4:13 |
-| 13 | [I Ciebie też, bardzo \(feat\. Daria Zawiałow, Dawid Podsiadło & Vito Bambino\)](https://open.spotify.com/track/64F1Z2LAsf04V346A75hi1) | [Męskie Granie Orkiestra](https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG), [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [I Ciebie też, bardzo \(feat\. Daria Zawiałow, Dawid Podsiadło & Vito Bambino\)](https://open.spotify.com/album/01018kIpMNDTe0WrYornLN) | 3:29 |
+| 13 | [O Pani!](https://open.spotify.com/track/12BwVTLEvpQREU9mmb8H3C) | [Grzegorz Hyży](https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm) | [Momenty](https://open.spotify.com/album/1JZJaY1HGGVOpui0YhFsMr) | 2:58 |
 | 14 | [Kryzysowa narzeczona](https://open.spotify.com/track/55IzVZdFOu4gS5U5RDO4g8) | [Lady Pank](https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j) | [Lady Pank](https://open.spotify.com/album/1HrCTAe0ejQtd7xIGuwMTN) | 4:00 |
 | 15 | [O miłości](https://open.spotify.com/track/5gWIF2Rqa9rXufl7696JoU) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Kaprysy](https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY) | 2:57 |
 | 16 | [Oczko w głowie](https://open.spotify.com/track/6O7znyZyyqRaovT8eLYmCh) | [Tymek](https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I), [Urbanski](https://open.spotify.com/artist/7Myky2n7ro7FEMaf0HyHtE) | [Oczko w głowie](https://open.spotify.com/album/5UIDP3PjvYxT9nHMthYyg1) | 2:56 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 72 | [Mimo Wszystko](https://open.spotify.com/track/7moJD0KpZeO0HVD99chZLw) | [Hey](https://open.spotify.com/artist/3z5O1IzrnIQfWHAMuQEeZB) | [Echosystem](https://open.spotify.com/album/654oAfMw4DmmTmIzlsnlnd) | 4:16 |
 | 73 | [Dobrze, że Cię mam](https://open.spotify.com/track/3zkRnBtA9RYxjkwEdDdfXF) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Mój dom](https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ) | 3:32 |
 | 74 | [Silacz](https://open.spotify.com/track/2anIL8mQb31ZlxLMEjwhG9) | [Marcin Rozynek](https://open.spotify.com/artist/0K0Sa7amVwCmQKz7ZHRRim) | [Ksiega Urodzaju](https://open.spotify.com/album/5OWhE19fiFeQLFY9mD0UQr) | 3:59 |
-| 75 | [Dwa serca, dwa smutki](https://open.spotify.com/track/0hmuqBnZVaud5KU7lMRJlE) | [Bajm](https://open.spotify.com/artist/1ckVZCWKKoeh5GhtidoU4D) | [Ballady](https://open.spotify.com/album/7odRFyosv4azI3uenvDJq0) | 5:19 |
+| 75 | [Świat się pomylił](https://open.spotify.com/track/3o9ZcjNqDxa6HGdHew2AaH) | [Patrycja Markowska](https://open.spotify.com/artist/0Jl6TFKAJR7zIv2kvA1RNf) | [Świat się pomylił](https://open.spotify.com/album/1HUlehVstUZpB4DenSLVTf) | 3:30 |
 
 Snapshot ID: `Z6YmyAAAAACrw3C4NUKQyo404RsZWENu`

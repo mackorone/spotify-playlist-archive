@@ -1,12 +1,12 @@
 {
   "description": "Irama R&B tanah air yang merasuk jiwa. Cover: GRACE.",
-  "num_followers": 12903,
+  "num_followers": 12910,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSmEwAAAAAZM2+/y3m0Q2ytVi4FCr6Z",
+  "snapshot_id": "aF2YygAAAABh5B4H1XPfH4A6p/sMtWg+",
   "tracks": [
     {
       "added_at": "2025-06-20 00:06:43",
@@ -23,6 +23,42 @@
       "duration_ms": 255618,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/5E3upQeg47ZTnpNkk7DjsM"
+    },
+    {
+      "added_at": "2025-06-26 19:00:26",
+      "album": {
+        "name": "Soulless Blues",
+        "url": "https://open.spotify.com/album/6Cmj3kEEH6TXtFt3lcCVy5"
+      },
+      "artists": [
+        {
+          "name": "Arya Novanda",
+          "url": "https://open.spotify.com/artist/7bQ37VC8fmdF36yIIOVIlc"
+        },
+        {
+          "name": "Gugun Blues Shelter",
+          "url": "https://open.spotify.com/artist/5sIvntdXv3HcJucbkLNePp"
+        }
+      ],
+      "duration_ms": 280257,
+      "name": "Soulless Blues",
+      "url": "https://open.spotify.com/track/1p5SEMVpbUdQtvFMEqjTTt"
+    },
+    {
+      "added_at": "2025-06-26 19:00:26",
+      "album": {
+        "name": "Game 4 2",
+        "url": "https://open.spotify.com/album/6WZkKEJEhTO1F8kP81flBp"
+      },
+      "artists": [
+        {
+          "name": "Briellebeth",
+          "url": "https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu"
+        }
+      ],
+      "duration_ms": 301714,
+      "name": "Game 4 2",
+      "url": "https://open.spotify.com/track/7CbXF4RZUPoQyEdAlY3QkZ"
     },
     {
       "added_at": "2025-06-20 00:06:43",

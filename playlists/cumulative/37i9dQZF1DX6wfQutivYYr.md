@@ -2,9 +2,9 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> ANNA sulla cover della playlist più grande in Italia 🏆
+> Annalisa sulla cover della playlist più grande in Italia 🏆
 
-217 songs - 11 hr 14 min
+219 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Feeling](https://open.spotify.com/track/2fwe8oxvNUUvvEDAth54jN) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY), [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Feeling](https://open.spotify.com/album/4sNOezg86EAOcM3iAEHy3d) | 2:40 | 2024-11-07 | 2025-01-24 |
 | [FENTANYL \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/4kDi7X5sgqF0aM74aPBWSc) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:08 | 2024-09-20 | 2024-12-03 |
 | [Fino All'Alba](https://open.spotify.com/track/5nvVV6XRIWs4DNVAQfxElX) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [Fino All'Alba](https://open.spotify.com/album/38LPofTed054HS3S5VyoeT) | 2:37 | 2024-07-18 | 2024-11-16 |
-| [fuorilegge](https://open.spotify.com/track/2C46EwfXY2ijlt7BfBY5mi) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [fuorilegge](https://open.spotify.com/album/0AUY58T6LbtiJ0CuY4E7qu) | 3:41 | 2025-02-12 |  |
+| [fuorilegge](https://open.spotify.com/track/2C46EwfXY2ijlt7BfBY5mi) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [fuorilegge](https://open.spotify.com/album/0AUY58T6LbtiJ0CuY4E7qu) | 3:41 | 2025-02-12 | 2025-06-27 |
 | [FW/SS25 \(Freestyle\)](https://open.spotify.com/track/1mErhpOIVgy2JPLO7KlI60) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:56 | 2025-05-01 | 2025-05-16 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-06-28 | 2024-11-08 |
 | [GHETTO LOVE \(feat\. CLARA\)](https://open.spotify.com/track/5JEAwqy2UQebOWrE0Sc4Fs) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [GHETTO LOVE \(feat\. CLARA\)](https://open.spotify.com/album/79TRrzyyW28JYQ9eNIeHey) | 2:24 | 2024-06-28 | 2024-09-11 |
@@ -128,6 +128,7 @@
 | [MAI PER SEMPRE](https://open.spotify.com/track/7u4Y70JYM5AO3Q45whDJbB) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [MAI PER SEMPRE](https://open.spotify.com/album/4OwHctFxCYeak7VrPSLXjV) | 3:40 | 2024-11-21 | 2025-01-19 |
 | [Mal di te](https://open.spotify.com/track/4OkzRJ7eaAtIeaRZEqDLaz) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Mal di te](https://open.spotify.com/album/6xHBZ21IhmGakzi2Vd1OtA) | 2:59 | 2025-01-18 | 2025-03-14 |
 | [MALAVITA](https://open.spotify.com/track/49tdZnvKAnJP6Xb3PUucPD) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [MALAVITA](https://open.spotify.com/album/0uPO1QkqyQi4aw1LcbMntE) | 2:46 | 2024-06-28 | 2024-12-06 |
+| [Maledetta Rabbia](https://open.spotify.com/track/0GeIXUfthmnfMLfPRdDiVt) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Maledetta Rabbia](https://open.spotify.com/album/5hJ80aNRyLVqXoQhN4qMmy) | 2:35 | 2025-06-26 |  |
 | [MAMMAMÌ](https://open.spotify.com/track/5ewubv7hwvNzi43bQ191Ix) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [MAMMAMÌ](https://open.spotify.com/album/4GQgb01NvO5hV7qgLe5Bc9) | 3:03 | 2024-06-28 | 2024-09-21 |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-12 |  |
 | [Maschio](https://open.spotify.com/track/1gIahX2xZu1ir2qLmALtUc) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Maschio](https://open.spotify.com/album/226WGnFxk9frinhGY4Uhwy) | 3:24 | 2025-05-08 |  |
@@ -192,6 +193,7 @@
 | [Soldi Arrotolati \(feat\. ANNA\)](https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 2:31 | 2024-06-28 | 2024-07-19 |
 | [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 | 2024-11-25 | 2024-12-13 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-07-18 | 2025-02-04 |
+| [Sto bene al mare \(feat\. Sayf & Rkomi\)](https://open.spotify.com/track/7bozAK8PtroF5owUL01coy) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Sto bene al mare \(feat\. Sayf & Rkomi\)](https://open.spotify.com/album/4NQBEzQomU36U3oaXTgKj4) | 2:47 | 2025-06-26 |  |
 | [STORIE BREVI](https://open.spotify.com/track/5GZupy8zByqFmXvpwZ4JOC) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [STORIE BREVI](https://open.spotify.com/album/6c4p2PNyp5Ek43s2IDX5Vh) | 2:55 | 2024-06-28 | 2024-11-26 |
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 | 2024-11-04 | 2024-11-29 |
 | [Take 5](https://open.spotify.com/track/6H1DuBy9TBVECpECPCzm03) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 5](https://open.spotify.com/album/2phJY3CjRbyx4DUaPY7lRO) | 3:11 | 2024-08-29 | 2024-10-11 |
@@ -218,7 +220,7 @@
 | [Vecchio stampo & West Coast](https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [Vecchio stampo & West Coast](https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa) | 3:03 | 2024-09-05 | 2024-10-12 |
 | [VELENO](https://open.spotify.com/track/2K7bv4Q0FNNKPt4PPPCjOi) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [VELENO](https://open.spotify.com/album/5yyaogWQcARbLR0FGz1wel) | 3:18 | 2024-06-28 | 2024-08-23 |
 | [VERTEBRE](https://open.spotify.com/track/1CGqE43Inhm54oPCMrgF7S) | [SETTEMBRE](https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2) | [VERTEBRE](https://open.spotify.com/album/3NALtxk7mVSDJNdMiRKD1m) | 2:50 | 2024-12-05 | 2025-01-22 |
-| [Vibe](https://open.spotify.com/track/6cGhVnQAJRxGVsltCU06vF) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:31 | 2025-01-23 |  |
+| [Vibe](https://open.spotify.com/track/6cGhVnQAJRxGVsltCU06vF) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:31 | 2025-01-23 | 2025-06-27 |
 | [Video hot \(feat\. Geolier\)](https://open.spotify.com/track/3o9OeBX0vgh51r15Ta7Dok) | [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Startuffo](https://open.spotify.com/artist/6rlRsGkuYPz1ssHFa4lm4N), [D\-Ross](https://open.spotify.com/artist/0GKNWhzf7koQl9HuUJnz1T) | [MAI PIÙ FORSE](https://open.spotify.com/album/31zOPRV9kLjtyq3eqiAMvj) | 3:06 | 2024-11-13 | 2025-02-07 |
 | [Volevo essere un duro](https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Volevo essere un duro](https://open.spotify.com/album/3bq0Zk9IMKngHA7QnefTxT) | 3:05 | 2025-02-13 | 2025-04-22 |
 | [VVS CARTIER](https://open.spotify.com/track/3FrbT8aqk9xHtTfQc9Z3IR) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 3:00 | 2025-05-08 |  |

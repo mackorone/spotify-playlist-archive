@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-288 songs - 15 hr 5 min
+289 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Crumble](https://open.spotify.com/track/4g8ibMfOiniXqYVwzMl8gK) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [Swizznife](https://open.spotify.com/artist/4OB8hmrCayrQknTkqJH20a), [May Li](https://open.spotify.com/artist/6RLHdjo56l1wGdJg2pTwun) | [Crumble](https://open.spotify.com/album/0Ma9ophXBUdVuwUqrG0t6g) | 2:12 | 2025-03-28 | 2025-04-28 |
 | [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 | 2024-02-23 | 2024-04-19 |
 | [Crusade \- Club Edit](https://open.spotify.com/track/7x3ni6d5mJRS2QwrbO1ktr) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/5qzhVqrg6xV9Ex18ZuKD6A) | 2:59 | 2024-04-19 | 2025-01-11 |
+| [Daddy](https://open.spotify.com/track/4a7A0BmJVVk7dFNj9Qkelk) | [t e s t p r e s s](https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u), [Teletech](https://open.spotify.com/artist/30tToHC6q3nB7Lious0MZW) | [Daddy](https://open.spotify.com/album/2BXDW1T6kuNHNCpCb0Q2tg) | 2:45 | 2025-06-26 |  |
 | [Damage](https://open.spotify.com/track/3uYo9KXhl2N2RAAKA9XN9h) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Damage](https://open.spotify.com/album/5N1qmRfrSS7gCfZLcps7tI) | 2:57 | 2023-09-15 | 2023-10-28 |
 | [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\)](https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY) | 2:27 | 2023-10-06 | 2025-05-19 |
 | [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K) | 2:27 | 2023-10-13 | 2024-04-19 |
@@ -111,7 +112,7 @@
 | [Home Alone \(with Marnik\)](https://open.spotify.com/track/7zyvQ8sb72g4RuwBpcuGUP) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [Home Alone \(with Marnik\)](https://open.spotify.com/album/4PX1HXUcKRTNYEQOcBfpsc) | 2:08 | 2023-12-08 |  |
 | [how do you like your tea?](https://open.spotify.com/track/3srbgx3cDhxpDFEQlsb3qk) | [✧BRAINDAAMAGE✧](https://open.spotify.com/artist/0Pn6XyvS2qCahtBOwcqsNf) | [how do you like your tea?](https://open.spotify.com/album/5dcBBwqX1IVf5poUqSCiqY) | 3:58 | 2024-05-17 | 2024-05-19 |
 | [How You Move \- Edit](https://open.spotify.com/track/1biKqdOsiIo2JekJ8UPX1x) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [How You Move](https://open.spotify.com/album/4niVd6YJlKn3EST1SUoOwn) | 2:49 | 2024-06-21 | 2024-11-30 |
-| [Hype Boy](https://open.spotify.com/track/4I4LIjM7gHmIFQ210Ycx2j) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hype Boy](https://open.spotify.com/album/1SPxEjHts5HlArNh5saCm2) | 3:16 | 2024-12-20 |  |
+| [Hype Boy](https://open.spotify.com/track/4I4LIjM7gHmIFQ210Ycx2j) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hype Boy](https://open.spotify.com/album/1SPxEjHts5HlArNh5saCm2) | 3:16 | 2024-12-20 | 2025-06-27 |
 | [Hyperreal](https://open.spotify.com/track/3NxY6I8zzqT2F2Ue2G8BRZ) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [It's All Fiction](https://open.spotify.com/album/1ftZpkTqPl2OIM6QCRb8u7) | 4:16 | 2023-08-11 | 2023-08-23 |
 | [I AM A GOD](https://open.spotify.com/track/25v3NCfgs0QGwcZ4cekGhg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [I AM A GOD](https://open.spotify.com/album/6IQ6Bt4HuUqE8MXZS9hwMk) | 2:08 | 2024-08-30 | 2024-09-22 |
 | [I Am Machine](https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [I Am Machine](https://open.spotify.com/album/3m4demyPqalmJXRsKInCKi) | 6:17 | 2023-08-11 | 2023-09-28 |

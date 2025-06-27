@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 56595,
+  "num_followers": 56596,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAAA1QTbq28i5Me0m7k2i/AJY",
+  "snapshot_id": "aFs8AAAAAAAua/YBWi6iEsN5Dy9HnG2+",
   "tracks": [
     {
       "added_at": null,
@@ -495,18 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "VHS",
-        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2"
       },
       "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
         {
           "name": "X Ambassadors",
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 197040,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw"
+      "duration_ms": 287893,
+      "name": "Bad Husband (feat. X Ambassadors)",
+      "url": "https://open.spotify.com/track/3GOjD8hwXOxbTF3apTqSqX"
     },
     {
       "added_at": null,
@@ -527,22 +531,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2"
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
       "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
         {
           "name": "X Ambassadors",
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 287893,
-      "name": "Bad Husband (feat. X Ambassadors)",
-      "url": "https://open.spotify.com/track/3GOjD8hwXOxbTF3apTqSqX"
+      "duration_ms": 197040,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
-        "url": "https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
-      "url": "https://open.spotify.com/track/20xiB92NDhWtM4sqXUreQU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "X Ambassadors | OurVinyl Sessions",
         "url": "https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
+        "url": "https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
+      "url": "https://open.spotify.com/track/20xiB92NDhWtM4sqXUreQU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don\u2019t Stay",
         "url": "https://open.spotify.com/album/44rJLmL9vpqTN4ChPT4aHT"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 189800,
       "name": "Don't Stay",
       "url": "https://open.spotify.com/track/1JFWbktZpqwU37UX5MzjwR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Strings",
-        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "No Strings",
-      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
     },
     {
       "added_at": null,
@@ -735,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Strings",
+        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 213080,
+      "name": "No Strings",
+      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -751,26 +751,6 @@
       "duration_ms": 280813,
       "name": "Low Life",
       "url": "https://open.spotify.com/track/6rXKkGRJQspRVNcGdcmsGy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "X Ambassadors | OurVinyl Sessions",
-        "url": "https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        },
-        {
-          "name": "OurVinyl",
-          "url": "https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae"
-        }
-      ],
-      "duration_ms": 338282,
-      "name": "Follow the Sound of My Voice (OurVinyl Sessions)",
-      "url": "https://open.spotify.com/track/4eFuusfxsqiKxbkd1IrlBw"
     },
     {
       "added_at": null,
@@ -795,6 +775,26 @@
       "duration_ms": 242213,
       "name": "Transmission",
       "url": "https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X Ambassadors | OurVinyl Sessions",
+        "url": "https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "OurVinyl",
+          "url": "https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae"
+        }
+      ],
+      "duration_ms": 338282,
+      "name": "Follow the Sound of My Voice (OurVinyl Sessions)",
+      "url": "https://open.spotify.com/track/4eFuusfxsqiKxbkd1IrlBw"
     },
     {
       "added_at": null,
@@ -919,22 +919,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "X Ambassadors | OurVinyl Sessions",
-        "url": "https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O"
+        "name": "why does everything make me cry?",
+        "url": "https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm"
       },
       "artists": [
+        {
+          "name": "Sam Nelson Harris",
+          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
+        },
         {
           "name": "X Ambassadors",
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         },
         {
-          "name": "OurVinyl",
-          "url": "https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae"
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
         }
       ],
-      "duration_ms": 292933,
-      "name": "Your Town (OurVinyl Sessions)",
-      "url": "https://open.spotify.com/track/1vjPsWcTGJmBf7slcjSMul"
+      "duration_ms": 184666,
+      "name": "give me hell",
+      "url": "https://open.spotify.com/track/2VAMExmfFMj4XC3swc9AD9"
     }
   ],
   "unique_name": "This Is X Ambassadors",

@@ -1,12 +1,12 @@
 {
   "description": "Listen to Kitsun\u00e9\u2019s essential tracks from historic label artists to up-and-coming music gems.",
-  "num_followers": 49644,
+  "num_followers": 49648,
   "original_name": "Kitsun\u00e9 Musique Essential",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "AAAMNK6H+rugqSZzN6WyXR7v4y8vW12l",
+  "snapshot_id": "AAAMNXVIZJPq6FW3WDkRcI7Ch9ARwJKm",
   "tracks": [
     {
       "added_at": "2025-06-03 10:04:47",
@@ -919,6 +919,54 @@
       "duration_ms": 219858,
       "name": "Be with You Tonight",
       "url": "https://open.spotify.com/track/2opgPV5Slxx13Cu9bIaArt"
+    },
+    {
+      "added_at": "2025-06-26 22:21:14",
+      "album": {
+        "name": "Liquid Bodies",
+        "url": "https://open.spotify.com/album/6HRNxOIua8QIrQcQJo6khj"
+      },
+      "artists": [
+        {
+          "name": "2FA",
+          "url": "https://open.spotify.com/artist/5aNRQu2IzF90FAIXbFQq4n"
+        },
+        {
+          "name": "Adana Twins",
+          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
+        },
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "duration_ms": 365714,
+      "name": "Liquid Bodies",
+      "url": "https://open.spotify.com/track/5IqpiBuuTzdDeI0OSa4Y5f"
+    },
+    {
+      "added_at": "2025-06-26 22:21:14",
+      "album": {
+        "name": "Liquid Bodies",
+        "url": "https://open.spotify.com/album/6HRNxOIua8QIrQcQJo6khj"
+      },
+      "artists": [
+        {
+          "name": "2FA",
+          "url": "https://open.spotify.com/artist/5aNRQu2IzF90FAIXbFQq4n"
+        },
+        {
+          "name": "Adana Twins",
+          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
+        },
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "duration_ms": 365714,
+      "name": "Orbit",
+      "url": "https://open.spotify.com/track/4Chh48sJvF2SF0ROHaRo30"
     }
   ],
   "unique_name": "Kitsun\u00e9 Musique Essential",

@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: CIVO
 
-229 songs - 10 hr 23 min
+230 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Keiner weiß](https://open.spotify.com/track/1D5V4wJKfGBaWDOZBbhBX7) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Keiner weiß](https://open.spotify.com/album/4WD7NqPkS0lVnQ3kjbwkRi) | 2:21 | 2025-01-16 | 2025-03-21 |
 | [Kind](https://open.spotify.com/track/4kiW0MeoisXxwQ4przGEF1) | [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1) | [Kind](https://open.spotify.com/album/7HB6s9e5ZXDu0LXbgliSXl) | 2:25 | 2025-01-20 | 2025-02-21 |
 | [King](https://open.spotify.com/track/3N0KdzIP3kDCm4SPSIl7CT) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [Alies](https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4) | [King](https://open.spotify.com/album/6DTa2fvtiupcS2fBzPfpo1) | 2:49 | 2024-06-28 |  |
-| [Kopf aus](https://open.spotify.com/track/5Th2Rs48Gz3iqfcGMXG5PC) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Kopf aus](https://open.spotify.com/album/12K0tzbbpEgWtjmzN31nop) | 2:16 | 2024-06-28 |  |
+| [Kopf aus](https://open.spotify.com/track/5Th2Rs48Gz3iqfcGMXG5PC) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Kopf aus](https://open.spotify.com/album/12K0tzbbpEgWtjmzN31nop) | 2:16 | 2024-06-28 | 2025-06-27 |
 | [Lamborghini Pink](https://open.spotify.com/track/3BHtvqkiJwrI1AZwiKs90U) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Lamborghini Pink](https://open.spotify.com/album/5I73xqCOth2YG4eixevKZr) | 2:48 | 2024-06-28 | 2024-08-21 |
 | [Langweilig](https://open.spotify.com/track/2xi78SPNsrUSB5vXXCapx3) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Langweilig](https://open.spotify.com/album/4zgYsk2xg8UrEUPA4VXNNP) | 2:05 | 2025-06-09 |  |
 | [Larger than Life](https://open.spotify.com/track/5d1L98CM3w4ouxP9QQ4udD) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [Larger than Life](https://open.spotify.com/album/54AnB7UXKB7RHR46Xs6xI3) | 3:31 | 2024-06-28 | 2024-08-13 |
@@ -169,6 +169,7 @@
 | [Passion \(feat\. Paula Hartmann\)](https://open.spotify.com/track/0npHflJzLWZ6svbq5Abnfo) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Majestic](https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o) | 2:40 | 2024-06-28 |  |
 | [Pflaster](https://open.spotify.com/track/62rSz1cp8u66zl9CkieV7v) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo), [Kurdo](https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i) | [Pflaster](https://open.spotify.com/album/6C8d69W6aVlkUg9cDbqkw2) | 2:13 | 2024-11-25 | 2025-02-04 |
 | [Plastikblumen](https://open.spotify.com/track/3xlGxCgwVwU08zL3Hrna95) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Helldunkel](https://open.spotify.com/album/2zGXSLw6MPbYn5eyUAkbaa) | 1:48 | 2024-08-26 | 2024-11-13 |
+| [Pole Dance](https://open.spotify.com/track/67gESpBbdx0duQfJrR2S5D) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Pole Dance](https://open.spotify.com/album/0yRJlNI1sT5b58S1ItIGv8) | 2:15 | 2025-06-24 |  |
 | [Princess Treatment](https://open.spotify.com/track/16QzeM0c7wf4TgyXSVFlji) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Princess Treatment](https://open.spotify.com/album/0mF21ARJoYWYQ1mQ62viCC) | 2:15 | 2024-10-10 | 2024-12-10 |
 | [Pusteblume](https://open.spotify.com/track/2exlK2N3UXrw5fVsAhSimu) | [GReeeN](https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd) | [Pusteblume](https://open.spotify.com/album/5vDviDx5Q5pgQpR7NpIAT9) | 2:48 | 2025-01-20 |  |
 | [Rauch \- Piano Version](https://open.spotify.com/track/1W7ZQflfoD7RPcDMDL0B0M) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Rauch \(Piano Version\)](https://open.spotify.com/album/4ucb4q7JjfLH7TuZkrLohi) | 2:19 | 2025-02-06 | 2025-03-27 |

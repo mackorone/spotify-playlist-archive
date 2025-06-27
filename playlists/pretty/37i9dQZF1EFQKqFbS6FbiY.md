@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302 likes - 547 songs - 1 day 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 303 likes - 547 songs - 1 day 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -344,8 +344,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 334 | [Choque \- Ao Vivo](https://open.spotify.com/track/2r2jOMsV1B1ohRlIihgz5A) | [Gabriel Gava](https://open.spotify.com/artist/01WrcqajqftNjrRuSqgyQA), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Made In Goiânia, Completo \(Ao Vivo\)](https://open.spotify.com/album/5CUQV7ZN1RmnEJgqZ7g1qK) | 2:37 |
 | 335 | [Fim de Papo](https://open.spotify.com/track/4mzfyvDHWS1Xm8oi4SsCUM) | [Léo Nascimento](https://open.spotify.com/artist/0MCWeUxunb4KJxPTDO6iX8) | [Fim de Papo \(Ao Vivo\)](https://open.spotify.com/album/3lkhRDXtbBUtVwu7bHAuH4) | 3:25 |
 | 336 | [Acompanhante de Luxo \- Ao Vivo](https://open.spotify.com/track/5GFZCIr6vpa2e6HG6DfY8p) | [Gabriel Gava](https://open.spotify.com/artist/01WrcqajqftNjrRuSqgyQA) | [Acompanhante de Luxo \(Ao Vivo\)](https://open.spotify.com/album/6wMQT86L1sjHhQdjUJgdQx) | 2:42 |
-| 337 | [Ele Não Te Ama \- Ao Vivo](https://open.spotify.com/track/0zSiucJnwr4Jbu3N2RXxv6) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [Do Jeito Que Você Gosta \- EP 02 \(Ao Vivo\)](https://open.spotify.com/album/4NbrLoMTZwYeEIXmsRMOEN) | 2:37 |
-| 338 | [Enquanto Ele Dorme](https://open.spotify.com/track/68wAihrDvEPukfpO02f1jp) | [Allanzinho](https://open.spotify.com/artist/73qBqoOL5FnxUSdtTl5JQ0) | [O Repertório Que Você Confia!](https://open.spotify.com/album/3F1W8aNkBgOVkjHZFiDwUr) | 2:22 |
+| 337 | [Enquanto Ele Dorme](https://open.spotify.com/track/68wAihrDvEPukfpO02f1jp) | [Allanzinho](https://open.spotify.com/artist/73qBqoOL5FnxUSdtTl5JQ0) | [O Repertório Que Você Confia!](https://open.spotify.com/album/3F1W8aNkBgOVkjHZFiDwUr) | 2:22 |
+| 338 | [Ele Não Te Ama \- Ao Vivo](https://open.spotify.com/track/0zSiucJnwr4Jbu3N2RXxv6) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [Do Jeito Que Você Gosta \- EP 02 \(Ao Vivo\)](https://open.spotify.com/album/4NbrLoMTZwYeEIXmsRMOEN) | 2:37 |
 | 339 | [Mulher que ama \- Ao vivo](https://open.spotify.com/track/0b2lytyqjzZd47t0V0Kvyj) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Traços \(Ao vivo\)](https://open.spotify.com/album/5YmcNWq3bfoOH4n39nM9Ua) | 3:01 |
 | 340 | [Nem Me Visto e Vou \- Ao Vivo](https://open.spotify.com/track/1xRbcQdnLNAktKYdpr2Y06) | [Valéria Barros](https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv), [Vinni e Rafa](https://open.spotify.com/artist/3PYn6gCpzKJNfiaOLeRhrw) | [Emendando Cachaça, Vol.01 \(Ao Vivo\)](https://open.spotify.com/album/4OVaYGDSwhdYAHjcQjwfIl) | 2:49 |
 | 341 | [Casquinha da Ferida](https://open.spotify.com/track/5tDEE0xISZ8mCKCHDdZYxg) | [Rodrigo Freitas](https://open.spotify.com/artist/3wB9jAUYvJVcOHJLda8twf) | [Mentirosa](https://open.spotify.com/album/2nBG37oTmypMFRDO59TITw) | 3:27 |
@@ -556,4 +556,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 546 | [Vontadezinha](https://open.spotify.com/track/53SHolQrZOGAEAdlLIJBph) | [Caio & Breno](https://open.spotify.com/artist/7JLrcwPWOrZTMEErSpwlRL) | [Vontadezinha](https://open.spotify.com/album/1ZbOsEaXSBdSyQreVmq2IV) | 2:42 |
 | 547 | [Atriz](https://open.spotify.com/track/1MQpRk7UufrJcbGaZz0bAO) | [Raffaow](https://open.spotify.com/artist/0sKN6JacROezQegp6odXKB), [DJ mussa](https://open.spotify.com/artist/2pCvidAw5BIyIdpaYJose1) | [Atriz](https://open.spotify.com/album/2nhQW4WrGNgKN9XIhbLEY4) | 2:16 |
 
-Snapshot ID: `Ab1HVAAAAACQbGiDGfc3vzS9v1dYPt2K`
+Snapshot ID: `Ab1NEgAAAADtOHTaUPpwTfaeSQBv9mEM`

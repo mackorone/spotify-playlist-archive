@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-723 songs - 1 day 12 hr 29 min
+724 songs - 1 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -602,7 +602,7 @@
 | [Strobe](https://open.spotify.com/track/6FHfBEyswVtz99hB9o5QsT) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Strobe](https://open.spotify.com/album/7EvWL9Eemss4ttsG2K9uxL) | 3:17 | 2024-12-08 |  |
 | [Stronger](https://open.spotify.com/track/6L49pJuPwkiSjYFcwK19SA) | [Prismo](https://open.spotify.com/artist/23ostNBoB9z6GMXLtHdg7y) | [Stronger](https://open.spotify.com/album/7aHMPHIbu3sQb6IF5pAt9E) | 3:32 | 2023-08-08 | 2024-01-04 |
 | [Stuck](https://open.spotify.com/track/52EEswA1EqXKDuyzcsbgZV) | [Ripple](https://open.spotify.com/artist/1bNSQdcS5Z0qpyqR9dpbjW) | [Stuck](https://open.spotify.com/album/7fs01eUoFmk6R0ar9AzqS3) | 4:11 | 2024-05-21 | 2025-01-08 |
-| [STUCKINMYHEAD!](https://open.spotify.com/track/34TL9VeKTtvn3cPB6dzp8p) | [youth®](https://open.spotify.com/artist/6RTuy4V5njTbQmHlhpnst7) | [STUCKINMYHEAD!](https://open.spotify.com/album/6iQCYurOp956o4CRQgJ1u3) | 1:31 | 2025-06-13 |  |
+| [stuckinmyhead!](https://open.spotify.com/track/34TL9VeKTtvn3cPB6dzp8p) | [youth®](https://open.spotify.com/artist/6RTuy4V5njTbQmHlhpnst7) | [stuckinmyhead!](https://open.spotify.com/album/6iQCYurOp956o4CRQgJ1u3) | 1:31 | 2025-06-13 |  |
 | [Stutterfly](https://open.spotify.com/track/1o0yHeedgdJc5gnFqja4di) | [Spektrem](https://open.spotify.com/artist/1bNEG4iSClCqQRyZgho3YV) | [Stutterfly](https://open.spotify.com/album/0FH0qU4BYEeL2VorGlJBJ6) | 4:13 | 2025-02-28 |  |
 | [SUN](https://open.spotify.com/track/3ss6ur5xJD1weR8QRYgT3f) | [KEELA](https://open.spotify.com/artist/7rWlbS9hZvqhjYRDgMkY2l) | [SUN](https://open.spotify.com/album/0WsOV2WePPv73OB5XRfyga) | 2:53 | 2024-01-24 | 2024-08-28 |
 | [Sunrise](https://open.spotify.com/track/5bOYGAj0x8UaqA9GxELXzi) | [Leat'eq](https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD) | [Sunrise](https://open.spotify.com/album/0N16seYtml6g0DXWo9Ff25) | 2:25 | 2022-07-05 | 2023-04-28 |
@@ -644,6 +644,7 @@
 | [Thought It Was U](https://open.spotify.com/track/3cakt86V0NLaQNFqiN5MvS) | [JJL](https://open.spotify.com/artist/41QZ7uWNkyqF0PbJsd5nXv) | [Thought It Was U](https://open.spotify.com/album/28j7q90iOylNg6QhifQEso) | 3:05 | 2023-08-02 | 2023-08-20 |
 | [Throne](https://open.spotify.com/track/1DbjGwT77l5Ph0N89lo8Hy) | [Tomatow](https://open.spotify.com/artist/1FzBO5erQh8xC6qT6tY3tO), [SagaB](https://open.spotify.com/artist/7hSyeMWPot9g32PhU808zU), [Adam Putra](https://open.spotify.com/artist/1PdEYf0awBJvZHoOJu0LtS) | [Throne](https://open.spotify.com/album/6Bfrj9X2sXA8omh8yW5uVi) | 3:20 | 2024-02-15 | 2024-08-28 |
 | [Tidal Wave](https://open.spotify.com/track/0Y2ql9hjIhpYx2fuYMeeB3) | [KHEMIS](https://open.spotify.com/artist/3bhEBhrSsz74SsgjRe1z6d), [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Tidal Wave](https://open.spotify.com/album/1VFSM94LH8MrNV9AYKjYzH) | 2:21 | 2023-12-13 | 2024-04-06 |
+| [Time](https://open.spotify.com/track/1sZdf5EwJkQLqYdfkLtBxC) | [wayudance](https://open.spotify.com/artist/44UkTI8wjUYTLqBFFgI19u) | [Time](https://open.spotify.com/album/1a1P1frECQENj4GKbEdClT) | 1:50 | 2025-06-26 |  |
 | [Time Is Eating](https://open.spotify.com/track/3qzghUDEnx78gNAjQEnRiw) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Time Is Eating](https://open.spotify.com/album/5bCRiMVBL4UVBpSJHv73K3) | 3:04 | 2024-08-01 |  |
 | [Time Of Our Lives](https://open.spotify.com/track/3CCgPjFKM32ixEM9Wpcv6z) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c) | [Time Of Our Lives](https://open.spotify.com/album/3p6bZWLfpenoRaOufvcAWy) | 3:25 | 2023-12-13 | 2024-07-19 |
 | [Time With You](https://open.spotify.com/track/7owjIHHAhLVgYUPfSQI0tI) | [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv), [RVLE](https://open.spotify.com/artist/3NuBjDTnxJ5OHh0Xz3hzxy) | [Time With You](https://open.spotify.com/album/6PRofmoxaY2ZMETIBxyRYf) | 2:36 | 2023-12-26 | 2024-07-19 |

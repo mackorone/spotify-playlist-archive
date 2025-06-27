@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 132,893 likes - 129 songs - 6 hr 35 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 132,886 likes - 129 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 | 8 | [Sirens](https://open.spotify.com/track/6FVWvpApDE9hSbWDcPhfb3) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [Amber Jay](https://open.spotify.com/artist/7DLxDPwjWekXl5meKBu2Ob) | [Sirens](https://open.spotify.com/album/4y1FYMRG7RWebnQuACdKDw) | 4:34 |
 | 9 | [X2](https://open.spotify.com/track/3GfnnZhCeysVePlfV25cZU) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [X2](https://open.spotify.com/album/59vtXVIPN7Q3VYHAg2TcRc) | 1:58 |
 | 10 | [Can't Heal You](https://open.spotify.com/track/4nOrzKUogxxtpy1Rel3Nl5) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Can't Heal You](https://open.spotify.com/album/1VYJf6H97llhC98jNrbdkT) | 3:22 |
-| 11 | [STUCKINMYHEAD!](https://open.spotify.com/track/34TL9VeKTtvn3cPB6dzp8p) | [youth®](https://open.spotify.com/artist/6RTuy4V5njTbQmHlhpnst7) | [STUCKINMYHEAD!](https://open.spotify.com/album/6iQCYurOp956o4CRQgJ1u3) | 1:31 |
+| 11 | [stuckinmyhead!](https://open.spotify.com/track/34TL9VeKTtvn3cPB6dzp8p) | [youth®](https://open.spotify.com/artist/6RTuy4V5njTbQmHlhpnst7) | [stuckinmyhead!](https://open.spotify.com/album/6iQCYurOp956o4CRQgJ1u3) | 1:31 |
 | 12 | [Royalty Funk](https://open.spotify.com/track/50y5VdjFgPlB9lFmxIubpL) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs) | [Royalty Funk](https://open.spotify.com/album/2g60Hy7fXxHvuHaiiq78Bj) | 2:57 |
 | 13 | [Hit The Ground](https://open.spotify.com/track/0AB8w8esboIuj2qAiVaQBU) | [KAYA!](https://open.spotify.com/artist/4HuCkhcxK4l0G1xwQMAyNY), [LULO](https://open.spotify.com/artist/1SPCD4LuDZ1AHZdC6Ybtk7) | [Hit The Ground](https://open.spotify.com/album/3V9EAWy4cbnDGdOzU2bV66) | 3:04 |
 | 14 | [Montagem Toma](https://open.spotify.com/track/1ukD6B5zhWdi7KM8ECFspS) | [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y), [SK3TCH01](https://open.spotify.com/artist/0NakXcxWSSLTMHvJsDWPVC), [X972](https://open.spotify.com/artist/0ShRIzN5hJDUBGPmn1rt50) | [Montagem Toma](https://open.spotify.com/album/2hYJXuu5zfVZqBmzwLBaJs) | 2:02 |

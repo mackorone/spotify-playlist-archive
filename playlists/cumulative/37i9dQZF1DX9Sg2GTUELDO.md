@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: Cath黃妍
+> 感受女聲力量。Cover: 連詩雅
 
-514 songs - 1 day 6 hr 41 min
+518 songs - 1 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [DiDiDiva](https://open.spotify.com/track/782efJyJ61Ul7caPXTgCFm) | [阿正](https://open.spotify.com/artist/0rCBTMt7H9EnjzeT2IeSBh) | [DiDiDiva](https://open.spotify.com/album/7LguJrPMX4ynOYHRZK6X4Z) | 3:25 | 2024-08-29 |  |
 | [Diff.](https://open.spotify.com/track/7tHj56Fzxz6L5I1S6ZYidK) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Diff.](https://open.spotify.com/album/0ZUtqYz3DP2fm3oFBUUUUq) | 2:18 | 2024-06-27 |  |
 | [Dizzy](https://open.spotify.com/track/7M79OcQyAjDlUp38qx7tgA) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [Dizzy](https://open.spotify.com/album/6UARsSmrrQSex8qNvXYeBl) | 3:07 | 2024-06-27 |  |
+| [doll](https://open.spotify.com/track/4f9i8PcyIjIFtHV0Sy2PbM) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [doll](https://open.spotify.com/album/3HkgkY7W5bjOkYeVlDa9T8) | 2:59 | 2025-06-26 |  |
 | [Don't Text Him \(Just Kiss Him\)](https://open.spotify.com/track/24XFrHZRTT96SiAojljvT8) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Don't Text Him \(Just Kiss Him\)](https://open.spotify.com/album/6PA2ObDsGpLAHeKnbuFGTg) | 4:00 | 2024-06-27 |  |
 | [Dont Wanna Be Like Me](https://open.spotify.com/track/1UjE8vwh6hA8jr7Nk4qCNz) | [章尾而](https://open.spotify.com/artist/15lQfNMoKWIjKGF0UQsy0M) | [Dont Wanna Be Like Me](https://open.spotify.com/album/7ll6sd3ehHb0aIvLISqX1p) | 2:59 | 2024-06-27 |  |
 | [Dreamscape](https://open.spotify.com/track/2sUF6C4FyUWTPjJPPfopQW) | [Chantel 姚焯菲](https://open.spotify.com/artist/1MlkzLE28NFMVQZpydkBsq) | [Dreamscape](https://open.spotify.com/album/5yThGh5FENQ7Epoe5aCbJp) | 3:03 | 2024-06-27 |  |
@@ -109,6 +110,7 @@
 | [Live for You](https://open.spotify.com/track/539H6Lr9wJMOUPy4UGe1wK) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Live for You](https://open.spotify.com/album/26IUr9oTn5LtNm3A1q1SI6) | 3:47 | 2025-02-20 |  |
 | [Look into my eyes](https://open.spotify.com/track/22A9vU5ZK7nuwySBtwNZFT) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Look into my eyes](https://open.spotify.com/album/34j4lPhObPKCVIgI8V0ZYD) | 2:58 | 2024-06-27 |  |
 | [Lost in Between](https://open.spotify.com/track/407HZCSxQUhks2BW0MyRzv) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9), [Anniina](https://open.spotify.com/artist/44aOM1DNwPKGb0ticurbPT) | [Lost in Between](https://open.spotify.com/album/6f6a0nmZpwbKJrPeCNvv7N) | 2:43 | 2024-08-22 |  |
+| [Love Me Down](https://open.spotify.com/track/5bABSoAvttNy56MKQyFCe0) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [Love Me Down](https://open.spotify.com/album/1e3CHEB19hTskI9svWJECp) | 3:07 | 2025-06-26 |  |
 | [Mad](https://open.spotify.com/track/1coCAB4dyoJQBapGAvS3Co) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Mad](https://open.spotify.com/album/5TkvoT5zEYhBoQA7bnK7g5) | 4:11 | 2024-06-27 |  |
 | [make a move \(feat\. CHANKA\)](https://open.spotify.com/track/6n0m6HskU72buMlHnLjfuh) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [make a move \(feat\. CHANKA\)](https://open.spotify.com/album/3ayaPhJLmTMPsmbgnAhqlS) | 3:27 | 2025-04-17 | 2025-05-02 |
 | [Make my day](https://open.spotify.com/track/6rtVaAz5fMtcTAhwmi6tl5) | [Liza Wang](https://open.spotify.com/artist/1ev4Cp6tdX1PImrinbyLIl) | [Make my day](https://open.spotify.com/album/3UOL7IIB14UFldtK57R7nN) | 3:00 | 2024-09-12 |  |
@@ -213,6 +215,7 @@
 | [二人限定故事](https://open.spotify.com/track/2LfrOjRAXQz4wdTbUXpsEu) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [二人限定故事](https://open.spotify.com/album/6paffDqSD3W1HIQMjA7xmu) | 3:14 | 2024-06-27 |  |
 | [二十五圓舞曲](https://open.spotify.com/track/4ZkqCDbol3xuC2ejpD6dX3) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [二十五圓舞曲](https://open.spotify.com/album/6PMQ1ZJUYwRznehhGyJ7r2) | 3:56 | 2025-01-16 |  |
 | [五瓣玫瑰](https://open.spotify.com/track/3DyvkGveb7MCJgwlUo1VH7) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [五瓣玫瑰](https://open.spotify.com/album/0HfLp4LA5G3QAbrb8JLr8p) | 3:31 | 2024-07-11 |  |
+| [人生使用說明](https://open.spotify.com/track/1VMjKAlstScXNlJgbc7NCn) | [Shiga Lin](https://open.spotify.com/artist/5Uw3hCC51pNjdsD2MOs72K) | [人生使用說明](https://open.spotify.com/album/2Tb6hmrPOSgx7FjaubK599) | 4:12 | 2025-06-26 |  |
 | [人若海](https://open.spotify.com/track/3OkPxR6SOO8QKGS1brNmWN) | [dorothy 劉君冬](https://open.spotify.com/artist/1qjsjBF6F451KY2MB5tSKQ) | [人若海](https://open.spotify.com/album/0t5tBgasdVVPco3oTbhyJb) | 3:09 | 2024-06-27 |  |
 | [今年煙花特別多](https://open.spotify.com/track/5R60xmTx4XzH4Co3ZgIG2F) | [Apple 凌雪怡](https://open.spotify.com/artist/3k01I6i5Vdf4fxSCzCdZvp) | [今年煙花特別多](https://open.spotify.com/album/4VIS7XglZQEMxSodj6U0aK) | 4:39 | 2024-08-01 |  |
 | [今期不流行](https://open.spotify.com/track/7x74wZMW5dUZqNsib2eR98) | [Winka 陳泳伽](https://open.spotify.com/artist/1wmTLcYhwwD3GbNoI2Vwls) | [今期不流行](https://open.spotify.com/album/1iPwlWCcyPKHCsEbewbpJx) | 4:23 | 2025-05-09 |  |
@@ -492,6 +495,7 @@
 | [路仍長](https://open.spotify.com/track/0xVlqxxhxKsLWythPiUsM7) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [路仍長](https://open.spotify.com/album/7jc7ZJtv12tt4P5bVbKr23) | 3:19 | 2024-06-27 |  |
 | [輪迴德己立街](https://open.spotify.com/track/0GnS1rJNpc8PEfRhIifTO2) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [輪迴德己立街](https://open.spotify.com/album/1hEqBNDQAEZNmDm3y3tsIs) | 3:04 | 2024-11-07 |  |
 | [轉個身擁抱](https://open.spotify.com/track/4Lr6oJWXDw4dH9j6Gx9DKr) | [何佩](https://open.spotify.com/artist/3aRY5Cw7kIXQlcEnmSnhTo) | [轉個身擁抱](https://open.spotify.com/album/4Bxi1DFRqMZ4ZgZup60baS) | 3:57 | 2024-06-27 |  |
+| [轉彎到](https://open.spotify.com/track/2XDAqsZYKRaVmQiwLPFZFW) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [My Story, Your Song](https://open.spotify.com/album/4lzD9h8YEzPvx0AdZpZuT9) | 3:29 | 2025-06-26 |  |
 | [迷途時發吽哣](https://open.spotify.com/track/3yXwxlWDJt9TR4SY0rkPjP) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [迷途時發吽哣](https://open.spotify.com/album/2oQ3D4hIQeyRsKN9js6rBI) | 3:25 | 2025-05-29 |  |
 | [逃生門](https://open.spotify.com/track/0ziKtZzRh1Hsc8JzlCOOum) | [JW](https://open.spotify.com/artist/5YsDFZYpkNgiIxfDW6rXlu) | [逃生門](https://open.spotify.com/album/1NtG7yUcB3PXsDLSARal9h) | 4:43 | 2024-06-27 |  |
 | [逃避雖可恥但有用](https://open.spotify.com/track/3QOiaqeWH44Hu1koIgdNrj) | [蘇麗珊](https://open.spotify.com/artist/2qIeMjTqaIOFJYftPN4me7) | [metamorphosis](https://open.spotify.com/album/0H8GE8cqeWl3dYUIonVTBs) | 3:55 | 2024-06-27 |  |

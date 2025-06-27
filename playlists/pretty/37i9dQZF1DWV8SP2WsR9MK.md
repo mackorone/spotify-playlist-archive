@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,464 likes - 100 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,508 likes - 100 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 61 | [Polka Dots and Moonbeams](https://open.spotify.com/track/5VRDZxFLIIjGTH2Q33Aq14) | [Lenny Breau](https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or), [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [Standard Brands](https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e) | 5:48 |
 | 62 | [The Nearness Of You \- Instrumental](https://open.spotify.com/track/118oSpIpxvMlnpeX2TOiKr) | [George Van Eps](https://open.spotify.com/artist/6QL3lIEWRff6Nn0Iy1yIps), [Howard Alden](https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR) | [Hand\-Crafted Swing](https://open.spotify.com/album/1qb8YfycUTV28M85dBT5kZ) | 6:10 |
 | 63 | [Wholly Cats \(feat\. Charlie Christian\)](https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS) | [Benny Goodman Sextet](https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1), [Charlie Christian](https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6) | [The Essential Benny Goodman](https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK) | 3:02 |
-| 64 | [Ralph's Piano Waltz](https://open.spotify.com/track/6eldKsQmwvE8W8RJvE4bF8) | [John Abercrombie](https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa), [Jan Hammer](https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Timeless](https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW) | 4:52 |
-| 65 | [Giant Steps](https://open.spotify.com/track/74c8OtmpOrPtwjroiriM54) | [Steve Smith](https://open.spotify.com/artist/7pnpCbCBCIHvkCqrXSib0z), [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [Vital Techtones](https://open.spotify.com/album/6d7fOKSVvPBoTVIWPJB2Ed) | 5:45 |
+| 64 | [Giant Steps](https://open.spotify.com/track/74c8OtmpOrPtwjroiriM54) | [Steve Smith](https://open.spotify.com/artist/7pnpCbCBCIHvkCqrXSib0z), [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [Vital Techtones](https://open.spotify.com/album/6d7fOKSVvPBoTVIWPJB2Ed) | 5:45 |
+| 65 | [Ralph's Piano Waltz](https://open.spotify.com/track/6eldKsQmwvE8W8RJvE4bF8) | [John Abercrombie](https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa), [Jan Hammer](https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Timeless](https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW) | 4:52 |
 | 66 | [Moonlight In Vermont](https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV) | [Jimmy Bruno](https://open.spotify.com/artist/1oTIG44ppYw0nUBqFvZ5Q5) | [Burnin'](https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K) | 8:12 |
 | 67 | [Shape Of Things That Are And Were](https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Shape Of Things To Come](https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B) | 5:47 |
 | 68 | [Have You Met Miss Jones?](https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl) | [Tal Farlow](https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf) | [The Artistry Of Tal Farlow](https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO) | 4:56 |

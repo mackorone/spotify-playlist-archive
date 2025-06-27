@@ -2,9 +2,9 @@
 
 ### [Next Wave Soul](https://open.spotify.com/playlist/37i9dQZF1DX44dZ4p5QLf4)
 
-> New releases in modern soul\. Cover: BOY SODA
+> New releases in modern soul\. Cover: Illnoledge
 
-555 songs - 1 day 8 hr 19 min
+556 songs - 1 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Ego](https://open.spotify.com/track/7uB6KGAyiz2fNmsYY2NdsX) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 5:50 | 2022-04-08 | 2023-03-31 |
 | [Envy](https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 4:07 | 2022-05-19 | 2023-07-08 |
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-10-06 | 2023-12-12 |
+| [Everlasting](https://open.spotify.com/track/0LjUKLciUAPkmBFx5vB9dr) | [Illnoledge](https://open.spotify.com/artist/6fm0ZSzd0zHjXjjLuEDXX5) | [Everlasting](https://open.spotify.com/album/4SPRyirXToSTtvWkBJsqrh) | 4:17 | 2025-06-26 |  |
 | [Every Part of Me \(feat\. Ari Lennox\)](https://open.spotify.com/track/3fo5i7RCEyLycp8dsn7Pa1) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [BLK2LIFE \|\| A FUTURE PAST](https://open.spotify.com/album/5ULA4LSxoFzpCPERRiNuRT) | 3:10 | 2021-12-16 | 2022-10-15 |
 | [Everybody Love](https://open.spotify.com/track/6iVl0KVT87kMRqYxAMstSN) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Posdnuos](https://open.spotify.com/artist/4OydvmAsJa7r6W8Q0xwkI7) | [Black Radio III](https://open.spotify.com/album/54TcbHrolA5VaPXZNKx4du) | 5:03 | 2022-02-24 | 2022-07-07 |
 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 | 2021-12-16 | 2022-04-09 |

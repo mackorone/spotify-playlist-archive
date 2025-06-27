@@ -1691,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288453,
+      "name": "Getting In Tune",
+      "url": "https://open.spotify.com/track/0M7tdKXvtrEk26j8nXFtvC"
+    },
+    {
+      "album": {
         "name": "Castle Rock",
         "url": "https://open.spotify.com/album/4hMfnrM2BPDK9SHSUAcK3Q"
       },
@@ -5656,7 +5674,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 195440,
       "name": "Whip My Hair",
       "url": "https://open.spotify.com/track/4Dio1t8RHzLv1nfPJTSZyP"

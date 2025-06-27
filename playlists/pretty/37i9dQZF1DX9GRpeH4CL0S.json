@@ -1,6 +1,6 @@
 {
   "description": "The greatest alternative rock songs through the decades. Cover: Weezer",
-  "num_followers": 788418,
+  "num_followers": 788596,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "White Pony",
-        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 299533,
-      "name": "Change (In the House of Flies)",
-      "url": "https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "Brand New Eyes",
         "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 267653,
       "name": "The Only Exception",
       "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "White Pony",
+        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 299533,
+      "name": "Change (In the House of Flies)",
+      "url": "https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        }
-      ],
-      "duration_ms": 170906,
-      "name": "What I Got",
-      "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 258826,
       "name": "Say It Ain't So - Original Mix",
       "url": "https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "duration_ms": 170906,
+      "name": "What I Got",
+      "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -1863,18 +1863,18 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Mer De Noms",
-        "url": "https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO"
+        "name": "This Is War (Deluxe)",
+        "url": "https://open.spotify.com/album/5nI4Eo1vWUWXzeT4WrzTGL"
       },
       "artists": [
         {
-          "name": "A Perfect Circle",
-          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
         }
       ],
-      "duration_ms": 219640,
-      "name": "3 Libras",
-      "url": "https://open.spotify.com/track/5kHkaBN8OEQlmXfQkACxSt"
+      "duration_ms": 347666,
+      "name": "Kings And Queens",
+      "url": "https://open.spotify.com/track/4z21jCYxdhnEfvgqGSKByQ"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -1895,18 +1895,18 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "This Is War (Deluxe)",
-        "url": "https://open.spotify.com/album/5nI4Eo1vWUWXzeT4WrzTGL"
+        "name": "Mer De Noms",
+        "url": "https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO"
       },
       "artists": [
         {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
         }
       ],
-      "duration_ms": 347666,
-      "name": "Kings And Queens",
-      "url": "https://open.spotify.com/track/4z21jCYxdhnEfvgqGSKByQ"
+      "duration_ms": 219640,
+      "name": "3 Libras",
+      "url": "https://open.spotify.com/track/5kHkaBN8OEQlmXfQkACxSt"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
+        "name": "Thirteenth Step",
+        "url": "https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9"
+      },
+      "artists": [
+        {
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Weak And Powerless",
+      "url": "https://open.spotify.com/track/7gDVjl5fEw2OPAtjbW4LzR"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
         "name": "LCD Soundsystem",
         "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
       },
@@ -2019,22 +2035,6 @@
       "duration_ms": 199759,
       "name": "Hate To Say I Told You So",
       "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
-        "name": "Thirteenth Step",
-        "url": "https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9"
-      },
-      "artists": [
-        {
-          "name": "A Perfect Circle",
-          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Weak And Powerless",
-      "url": "https://open.spotify.com/track/7gDVjl5fEw2OPAtjbW4LzR"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -2391,8 +2391,8 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/4o3dOaZVQ56I9YdmUarlDR"
+        "name": "Kasabian",
+        "url": "https://open.spotify.com/album/3SpGiJhdi0BIALt1zFh9Oo"
       },
       "artists": [
         {
@@ -2400,9 +2400,9 @@
           "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
         }
       ],
-      "duration_ms": 251946,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/7K2vo9oSUzFgmtIXNYegzP"
+      "duration_ms": 214373,
+      "name": "Club Foot",
+      "url": "https://open.spotify.com/track/5wx5aqVGgv1jWLoGFKFdWM"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -2455,22 +2455,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Conditions",
-        "url": "https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 230800,
-      "name": "Sweet Disposition",
-      "url": "https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w"
       },
@@ -2483,6 +2467,22 @@
       "duration_ms": 222586,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/7oK9VyNzrYvRFo7nQEYkWN"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "Conditions",
+        "url": "https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 230800,
+      "name": "Sweet Disposition",
+      "url": "https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -2551,8 +2551,8 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Kasabian",
-        "url": "https://open.spotify.com/album/3SpGiJhdi0BIALt1zFh9Oo"
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/4o3dOaZVQ56I9YdmUarlDR"
       },
       "artists": [
         {
@@ -2560,9 +2560,9 @@
           "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
         }
       ],
-      "duration_ms": 214373,
-      "name": "Club Foot",
-      "url": "https://open.spotify.com/track/5wx5aqVGgv1jWLoGFKFdWM"
+      "duration_ms": 251946,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/7K2vo9oSUzFgmtIXNYegzP"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -2599,22 +2599,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Megalithic Symphony Deluxe",
-        "url": "https://open.spotify.com/album/6dMfMvS3hyk3ZCl4yljEDD"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 259102,
-      "name": "Sail",
-      "url": "https://open.spotify.com/track/5xhQChGGhKLWqBqX4XhtYE"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "Hounds of Love (2018 Remaster)",
         "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
       },
@@ -2631,18 +2615,18 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Hot Fuss",
-        "url": "https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w"
+        "name": "Megalithic Symphony Deluxe",
+        "url": "https://open.spotify.com/album/6dMfMvS3hyk3ZCl4yljEDD"
       },
       "artists": [
         {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 197160,
-      "name": "Somebody Told Me",
-      "url": "https://open.spotify.com/track/7HGTkn2aX7MNdKs7nV2xBt"
+      "duration_ms": 259102,
+      "name": "Sail",
+      "url": "https://open.spotify.com/track/5xhQChGGhKLWqBqX4XhtYE"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -2659,6 +2643,22 @@
       "duration_ms": 237039,
       "name": "Time is Running Out",
       "url": "https://open.spotify.com/track/2takcwOaAZWiXQijPHIx7B"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/7HGTkn2aX7MNdKs7nV2xBt"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -3207,18 +3207,18 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/1OK3EaOczawmZZSTNJAphZ"
+        "name": "Broken Boy Soldiers",
+        "url": "https://open.spotify.com/album/4o1jHCrMnkiRMdFpyCnNaH"
       },
       "artists": [
         {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          "name": "The Raconteurs",
+          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
         }
       ],
-      "duration_ms": 212666,
-      "name": "When The Sun Goes Down",
-      "url": "https://open.spotify.com/track/2iuIqCjjPKg3DYwHHAo0kJ"
+      "duration_ms": 215293,
+      "name": "Steady, as She Goes",
+      "url": "https://open.spotify.com/track/2i37Y95xkPhHtoYBywVBUm"
     }
   ],
   "unique_name": "Essential Alternative",

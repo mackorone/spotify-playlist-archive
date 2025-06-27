@@ -4,7 +4,7 @@
 
 > Songs from LGBTQIA+ artists\. Cover: Sophie and the Giants
 
-1,538 songs - 3 day 11 hr 10 min
+1,540 songs - 3 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,6 +488,7 @@
 | [ghosts](https://open.spotify.com/track/7Ei5XSaRRBMl92xujvRgOy) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [inferno](https://open.spotify.com/album/5nEnJBGqhO81HTESoWTnq7) | 3:40 | 2023-09-12 | 2023-09-26 |
 | [Gimme](https://open.spotify.com/track/2M220rNo8EQw2qp0HWtlPf) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Gimme](https://open.spotify.com/album/3pio7v2Ug2K4qt4lIRFnza) | 2:24 | 2024-03-12 | 2024-05-01 |
 | [Girl From The Internet](https://open.spotify.com/track/2mKCMCSH5bNulbg8mU4E2c) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Girl From The Internet](https://open.spotify.com/album/3LjOdj3EPCm6UdyIwzXRnm) | 3:06 | 2021-12-17 | 2022-01-29 |
+| [Girl of Your Dreams](https://open.spotify.com/track/7AVZ2T5nku3TKyZlPPXLEd) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Girl of Your Dreams](https://open.spotify.com/album/7lH9AcAtACrcYMKC6aLoGA) | 3:09 | 2025-06-27 |  |
 | [GIRLS](https://open.spotify.com/track/4qXXw4xhTLGS7UR5l9Lbnr) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [GIRLS](https://open.spotify.com/album/4PGTZhtRo9xokQYxGmBNue) | 3:24 | 2021-12-17 | 2022-01-29 |
 | [Girls](https://open.spotify.com/track/0zZcMcF9JQ6OXuT9BVG4lC) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Unthinkable](https://open.spotify.com/album/1Nvd2bGAy6ofku8h1kOt16) | 2:31 | 2022-05-20 | 2022-07-22 |
 | [girls \(feat\. phem\)](https://open.spotify.com/track/4Y1cqXFt1JgdzodgqqQskd) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [searching for nirvana](https://open.spotify.com/album/6KvpjWttWb04l9Goe07g28) | 2:06 | 2021-12-17 | 2022-01-29 |
@@ -589,7 +590,7 @@
 | [Hindsight](https://open.spotify.com/track/228Ehll19oYwpJMdKyRRsF) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Hindsight](https://open.spotify.com/album/3bGlbyvgK45mjAHZSqAk9c) | 2:25 | 2022-10-07 | 2022-12-01 |
 | [His car](https://open.spotify.com/track/1COQ1NcGoreiQRKnxQkWXA) | [Matt Terry](https://open.spotify.com/artist/2JLqTvFXmC87BksiCsBezV) | [His car](https://open.spotify.com/album/1HPvXQcys0sKb8KMxFXGHq) | 3:06 | 2024-04-09 | 2024-06-06 |
 | [Hold](https://open.spotify.com/track/6gHSghdESsKPS80t5DDYxb) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Jesus At The Gay Bar](https://open.spotify.com/album/5ysXcSOiSf2pSPGjuZRh7K) | 3:05 | 2023-04-25 | 2023-05-17 |
-| [hold on!](https://open.spotify.com/track/0XKQ1R0PW1Rv2iBg5ni9RV) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [hold on!](https://open.spotify.com/album/48VMqiCGrtac9dxZ8UVwlf) | 3:00 | 2025-04-08 |  |
+| [hold on!](https://open.spotify.com/track/0XKQ1R0PW1Rv2iBg5ni9RV) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [hold on!](https://open.spotify.com/album/48VMqiCGrtac9dxZ8UVwlf) | 3:00 | 2025-04-08 | 2025-06-27 |
 | [Hold The Girl](https://open.spotify.com/track/3Scmiyh1EaCkOmi3Ru86F1) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0ua112UCbolB2roGsqtsXw) | 4:05 | 2022-07-31 | 2022-12-01 |
 | [Holiday](https://open.spotify.com/track/47FQ1T5hp4JdF9Kp18dBy4) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [This Wasteland](https://open.spotify.com/album/1aI37UoJ0bqeUyG42Vhl3u) | 2:31 | 2023-07-11 | 2023-08-09 |
 | [hollow](https://open.spotify.com/track/1zywHRyySoMnvKJGdT6b02) | [boy jones](https://open.spotify.com/artist/5fJ65ad5oG6eKLXI1NgKSu), [GOLDSPACE](https://open.spotify.com/artist/0lEmirHWEpNY1GtqLk7rLx) | [hollow](https://open.spotify.com/album/3lWQoZnSHbo3kMKZWC7oB4) | 2:43 | 2023-03-07 | 2023-04-01 |
@@ -974,7 +975,7 @@
 | [Nu](https://open.spotify.com/track/12ARjD86nzGo7FKyXlvwhD) | [Assucena](https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8) | [Nu](https://open.spotify.com/album/4ZgFjhLIlsHIrqlqdKJbEh) | 3:55 | 2023-03-31 | 2023-04-26 |
 | [Nuit](https://open.spotify.com/track/7zIfcuvWSAxE4LjEwadMnH) | [Yndi](https://open.spotify.com/artist/31yVSehp4XZiCSlb1sOSpq) | [Noir Brésil](https://open.spotify.com/album/4dk8HjZCAwv5PPkEgjtZp2) | 3:17 | 2023-03-31 | 2023-04-14 |
 | [Number One](https://open.spotify.com/track/7ysjfyBKvnO2iX1vWqhn4X) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [Number One](https://open.spotify.com/album/3fVQZx5dGqz2QmOeScqhMM) | 3:02 | 2022-01-21 | 2022-05-31 |
-| [Number One Girl](https://open.spotify.com/track/1UByYvpTpvueuqVgnTnZX3) | [Pablo Brooks](https://open.spotify.com/artist/7lZT5zwsgfFltYmlqC3gra) | [Number One Girl](https://open.spotify.com/album/5wioteha5XfZxmE2Vhz3Gh) | 3:38 | 2025-05-19 |  |
+| [Number One Girl](https://open.spotify.com/track/1UByYvpTpvueuqVgnTnZX3) | [Pablo Brooks](https://open.spotify.com/artist/7lZT5zwsgfFltYmlqC3gra) | [Number One Girl](https://open.spotify.com/album/5wioteha5XfZxmE2Vhz3Gh) | 3:38 | 2025-05-19 | 2025-06-27 |
 | [Nunca Fue](https://open.spotify.com/track/1yoDprcj9nMx1kq9ZRRsG5) | [Una Típica Francisca](https://open.spotify.com/artist/7mCCpnILGKRMZ4RCA9e4lG), [La Peluquera](https://open.spotify.com/artist/2Y8ZTw3lEypiF5jpINYgGr) | [Nunca Fue](https://open.spotify.com/album/0NexOUhIG5wHThaul9GwPG) | 4:42 | 2023-01-24 | 2023-04-01 |
 | [Obvious](https://open.spotify.com/track/3mHiyFqlw2ERmQCiXkmaXM) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Quarter Life Crisis \(Deluxe\)](https://open.spotify.com/album/71mcDUoyViKC1i3kmAvJiI) | 4:18 | 2023-11-14 | 2023-11-30 |
 | [Ocean Eyes](https://open.spotify.com/track/1o7o97ha9xsNq0RlH0IFwu) | [Monoir](https://open.spotify.com/artist/0TmLIfQje5MdX2ovu4yQKz), [wrs](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Ocean Eyes](https://open.spotify.com/album/1OgVbQBOpabtNxJmHfMick) | 3:40 | 2023-07-11 | 2023-08-09 |
@@ -998,6 +999,7 @@
 | [One More Night](https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [One More Night](https://open.spotify.com/album/5pxTLRkOvxwalmPF2xxdng) | 2:44 | 2024-03-12 | 2024-04-19 |
 | [One More Night](https://open.spotify.com/track/7h3SmdSMPWiqeMJdX1YKLO) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [One More Night](https://open.spotify.com/album/25XqmGzypcKDWVpwqZ5cIZ) | 2:44 | 2024-04-16 | 2024-05-01 |
 | [One More Time \(feat\. Popstar\)](https://open.spotify.com/track/4PhMG4S7fjl8kSQz2JrC30) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Popstar](https://open.spotify.com/artist/5eyBd6IpSj8pNySFhx9vZy) | [One More Time \(feat\. Popstar\)](https://open.spotify.com/album/48C00vxVerIm0i3hbd4NkW) | 3:20 | 2024-09-10 | 2024-12-05 |
+| [one of those days](https://open.spotify.com/track/6WEyLKV2YjfZdz5iu2uhup) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [OUTLAW](https://open.spotify.com/album/4O90aA3CFxs2WRs3DuKV37) | 3:00 | 2025-06-27 |  |
 | [One Of Us](https://open.spotify.com/track/5CqrCMMhS8QzBfzks0vel8) | [Goodwerks](https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Broken Glass, Vol\. 5](https://open.spotify.com/album/1GNtlaf1suRPWz351bNiVc) | 3:34 | 2023-08-08 | 2023-09-13 |
 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 | 2023-10-24 | 2025-04-09 |
 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 | 2023-05-09 | 2023-06-02 |

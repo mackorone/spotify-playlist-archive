@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 684866,
+  "num_followers": 685014,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAABpO7lsbGR6WIcbuwbj+eDM",
+  "snapshot_id": "aFs8AAAAAAAnznj0rTJF873wlt5thiuS",
   "tracks": [
     {
       "added_at": null,
@@ -223,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 231720,
+      "name": "Devil Always Made Me Think Twice",
+      "url": "https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dangerous: The Double Album",
         "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 196706,
       "name": "Only Thing That\u2019s Gone (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/0CfPMZ1DSdzglsMRpLDM2H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 231720,
-      "name": "Devil Always Made Me Think Twice",
-      "url": "https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX"
     },
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 309853,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/24nhOvYX2gk3txBbMzXeUB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 228076,
       "name": "Sweet Symphony (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/4N1QzEzQudrgGMWjPZhaX2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 309853,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/24nhOvYX2gk3txBbMzXeUB"
     },
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gentle Giants: The Songs of Don Williams",
-        "url": "https://open.spotify.com/album/4Fa6HWiSqDPsa7E27BOUdt"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        },
-        {
-          "name": "Morgane Stapleton",
-          "url": "https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX"
-        }
-      ],
-      "duration_ms": 182333,
-      "name": "Amanda (feat. Morgane Stapleton)",
-      "url": "https://open.spotify.com/track/31N3agcx1BKlLkYBXAx1Ax"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Threads",
         "url": "https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 296933,
       "name": "Tell Me When It\u2019s Over",
       "url": "https://open.spotify.com/track/4hx9NTugoBdIG8MkAi2fzI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gentle Giants: The Songs of Don Williams",
+        "url": "https://open.spotify.com/album/4Fa6HWiSqDPsa7E27BOUdt"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        },
+        {
+          "name": "Morgane Stapleton",
+          "url": "https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX"
+        }
+      ],
+      "duration_ms": 182333,
+      "name": "Amanda (feat. Morgane Stapleton)",
+      "url": "https://open.spotify.com/track/31N3agcx1BKlLkYBXAx1Ax"
     },
     {
       "added_at": null,

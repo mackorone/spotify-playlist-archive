@@ -2,9 +2,9 @@
 
 ### [New Pakistani Pop](https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX)
 
-> Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- HAVI
+> Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Maanu, Ali Sethi
 
-236 songs - 12 hr 30 min
+240 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [DISCONNECT](https://open.spotify.com/track/2bA3xbeJ31KAFhprR44BZR) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [STRING THEORY](https://open.spotify.com/album/2Tnj9kg8mNpLS7SdSdLlxu) | 3:04 | 2025-06-06 |  |
 | [DND](https://open.spotify.com/track/5K6hFTg151Bzlaq39hjctn) | [AHSAN](https://open.spotify.com/artist/74NqyFriwNs6QJWkJmGvYR), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [FADED SI YAADAIN](https://open.spotify.com/album/6XSdsKHPY65FFIyGeNlYeE) | 2:55 | 2024-11-07 | 2025-01-17 |
 | [Don't Go](https://open.spotify.com/track/6zVXNOehHZrjAej1xJyZon) | [Shokey](https://open.spotify.com/artist/2wEwBichxhdvnFOMaDzWBf), [Prod.S41F](https://open.spotify.com/artist/7K1GRJOvTEuCMDh07x4mNe) | [Don't Go](https://open.spotify.com/album/5SranRWC0N3rm1Fft43DCz) | 3:17 | 2025-01-17 | 2025-06-06 |
+| [Drowning](https://open.spotify.com/track/1kVDIxmgLdMv4tZ6GhWQJ5) | [Zaira Ali](https://open.spotify.com/artist/1FooeGICOzdQGc2rT7fFJ6) | [Drowning](https://open.spotify.com/album/0vhiM9wzuueZPDWckRjLzV) | 3:47 | 2025-06-26 |  |
 | [echoes of us](https://open.spotify.com/track/3RyyouypVpQpTeBVK1Q32r) | [Ali Raza](https://open.spotify.com/artist/522dF8hRyQ3b0jypJfUDQW), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [echoes of us](https://open.spotify.com/album/1pCoejoGcsv8wM6rUMsP6T) | 2:44 | 2024-06-28 | 2025-01-17 |
 | [Faasley](https://open.spotify.com/track/30K7OCqhAQWUM3xdIbb0Sy) | [Essa Barlas](https://open.spotify.com/artist/2Nk96lbrQs5R0OsqeBsxfZ) | [Faasley](https://open.spotify.com/album/5WUkYLdVUFljRP9ReHHprm) | 3:38 | 2024-09-09 | 2025-01-17 |
 | [Fana](https://open.spotify.com/track/5ll2XFNltQ7WFh8QCsJORp) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [1 2 3 4 5](https://open.spotify.com/album/41NSZy9hW6WWrHYpIqyH0a) | 3:04 | 2024-08-16 | 2024-09-14 |
@@ -178,6 +179,7 @@
 | [Rang Likha \- From "Vadakkan"](https://open.spotify.com/track/1ApTwJTO8cBhaB9oO9iL9l) | [Zeb Bangash](https://open.spotify.com/artist/0QuAJhN4N4LgXtdU3yUS24), [Shellee](https://open.spotify.com/artist/5DJ2ZMr3PC7eTtYAZLOP4n), [Bijibal](https://open.spotify.com/artist/09Swfzp0iwV8Yxe1Ngzf6v) | [Rang Likha \(From "Vadakkan"\)](https://open.spotify.com/album/5uL5X23t9MHbdZxap4sBwz) | 2:11 | 2025-03-28 |  |
 | [Rangrasiya](https://open.spotify.com/track/4QLIRTVyCqhUHJT8wl0gWk) | [Nirmala Maghani](https://open.spotify.com/artist/0jzxT5aCMdsjU2QHtIEGS3) | [Rangrasiya](https://open.spotify.com/album/3iwqspTZHMhQPy2z2weVvZ) | 3:10 | 2024-11-07 | 2025-01-17 |
 | [Regardless](https://open.spotify.com/track/1N5IwvKPg7PZeGi9Pvzvdo) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Regardless](https://open.spotify.com/album/6vbJkwWBaS7iKBHfQJM9ua) | 3:44 | 2025-06-23 |  |
+| [Rocket Launcher](https://open.spotify.com/track/1oHlhSevYO99K6RG2w0RXN) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Rocket Launcher](https://open.spotify.com/album/0A65EHDQRYwVEB19JOhMKw) | 2:48 | 2025-06-26 |  |
 | [ROCKIT](https://open.spotify.com/track/3DAiQK6TbhTbF7pEDEdqL1) | [Hamza Jahangir](https://open.spotify.com/artist/6JIeeCINgVPeCxowfoOBmo), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [ROCKIT](https://open.spotify.com/album/5JJLVNrPvXcwOqcUIZNksw) | 2:10 | 2025-05-16 |  |
 | [ROOP](https://open.spotify.com/track/51EAvQ6RYU14VwUaMJHsnD) | [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [ROOP](https://open.spotify.com/album/4SkBxlilZZsloBNShyEXuE) | 2:32 | 2025-01-17 | 2025-06-06 |
 | [ROOP](https://open.spotify.com/track/77vCk9lni7MVjwCGSW7MmO) | [Sohail Shahzad](https://open.spotify.com/artist/6KgDK2ubUwfKLwgh9uCSKb), [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn) | [ROOP](https://open.spotify.com/album/70Alq65Mojr6AVKafE3mOE) | 2:22 | 2025-01-17 | 2025-04-19 |
@@ -231,8 +233,10 @@
 | [Umeedon Ki](https://open.spotify.com/track/23Vg7dTsvIsja2PLeZ3awF) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Umeedon Ki](https://open.spotify.com/album/4odGDsUGaQx1CR62FmviWH) | 4:50 | 2025-01-17 | 2025-06-06 |
 | [Unapologetic](https://open.spotify.com/track/1viQyM3abUTDVb7K7QuF8O) | [Zaira Ali](https://open.spotify.com/artist/1FooeGICOzdQGc2rT7fFJ6) | [Unapologetic](https://open.spotify.com/album/1rocZcmlehL2i0tlh6IERD) | 3:44 | 2024-09-09 | 2025-01-17 |
 | [Under The Stars](https://open.spotify.com/track/7DOCxixTYTuiSGhgICXXk5) | [Jawad](https://open.spotify.com/artist/5KIc7lniuLWhlXVOuhvvN8) | [Under The Stars](https://open.spotify.com/album/25bhlDywM1xsm2854OPfC1) | 2:20 | 2024-06-28 | 2025-01-17 |
+| [Vivid](https://open.spotify.com/track/5YN3eEM3izFGUQeNa3bZZQ) | [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF), [HASEEB](https://open.spotify.com/artist/6VTBfUo6LQmVKxat82WXNA) | [Vivid](https://open.spotify.com/album/0mqtpO0sWodTAMNcvc3JZH) | 3:34 | 2025-06-26 |  |
 | [Wakhho Wakhh](https://open.spotify.com/track/3m0hOi6eCHfOqXhhFPE3q1) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Wakhho Wakhh](https://open.spotify.com/album/6tW0fyCXKvbp3ZIMrsaEjY) | 3:22 | 2025-05-16 | 2025-05-31 |
 | [Wareya](https://open.spotify.com/track/0VbahfN4qUJf1gwPJnrnjq) | [Nimra Mehra](https://open.spotify.com/artist/54CllblgtvRRY3etlxRSq2), [Arbaz Khan](https://open.spotify.com/artist/3v11KxRGgmPimlyBeiajTJ) | [Wareya](https://open.spotify.com/album/58RvDaeVRZWrHjnLdcaTAa) | 3:27 | 2025-04-11 | 2025-04-19 |
+| [We Met Again](https://open.spotify.com/track/25xhJNicABIUsDiJdXKkjR) | [Zouqan](https://open.spotify.com/artist/2IMwndXSonTHhlmMYpAlh6), [SQLN](https://open.spotify.com/artist/28HGPCdVbJ7ThQNDojdY3P) | [We Met Again](https://open.spotify.com/album/4xNKuiXY4bRhWwITT4ge2u) | 3:16 | 2025-06-26 |  |
 | [Wehem](https://open.spotify.com/track/6kEKN4ZmOJ6GA2p8PmVO9z) | [Anonymoux](https://open.spotify.com/artist/4HBodn8r0T8FcmBjubMDsM) | [Wehem](https://open.spotify.com/album/1TIbqe3nRHOAGAOU8PCJNN) | 3:51 | 2024-11-07 | 2025-01-17 |
 | [when i took a pill](https://open.spotify.com/track/1JIW92EAv9SRMiAeuN9YcZ) | [bitrees](https://open.spotify.com/artist/1yPiZF9ZTUZImr0zBoNogb) | [common illness](https://open.spotify.com/album/4EmGdQ2AGNhbVNYDoq7Qn7) | 3:11 | 2024-06-28 | 2024-08-10 |
 | [Wishes](https://open.spotify.com/track/5rpCUsEfBLIumvrxrahnKF) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 3:38 | 2024-06-28 | 2024-11-08 |

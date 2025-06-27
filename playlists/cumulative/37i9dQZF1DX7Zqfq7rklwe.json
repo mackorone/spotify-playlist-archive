@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-12",
-  "description": "Suomen suurin ja paras rock-soittolista. \u26a1\ufe0fKannessa AC/DC:n Angus Young.\u26a1\ufe0f",
+  "description": "Suomen suurin ja paras rock-soittolista. \u26a1\ufe0fKannessa Sleep Token.\u26a1\ufe0f",
   "name": "VOLUME SUOMI",
   "tracks": [
     {
@@ -558,6 +558,28 @@
       "duration_ms": 168933,
       "name": "Brain Dead",
       "url": "https://open.spotify.com/track/4xU77b6HKv2IwES1drr3J5"
+    },
+    {
+      "album": {
+        "name": "BRAINDEAD (feat. Toby Morse)",
+        "url": "https://open.spotify.com/album/6K484LDhrNh4mzq95WMPbv"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        },
+        {
+          "name": "Toby Morse",
+          "url": "https://open.spotify.com/artist/3bUT7vUCfASm9rKV19DAjd"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191129,
+      "name": "BRAINDEAD (feat. Toby Morse)",
+      "url": "https://open.spotify.com/track/4lSXxf1buHPHRqz4otuxde"
     },
     {
       "album": {
@@ -2676,7 +2698,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 262045,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/747GeWvELWeEc7VFFIo7eJ"

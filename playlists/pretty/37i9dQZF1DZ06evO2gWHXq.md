@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 
 > This is MC Davo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,332 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,344 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 16 | [Adiós](https://open.spotify.com/track/5Axt9lZg5tqQir8U12ocQU) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis](https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p) | 3:21 |
 | 17 | [Te Acostumbraste](https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Te Acostumbraste](https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U) | 3:02 |
 | 18 | [Ella Es Una Amenaza](https://open.spotify.com/track/1lhlIrjvx7855s8JXZg5pF) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis 2](https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO) | 3:25 |
-| 19 | [Round 2](https://open.spotify.com/track/3CVEOynsYT7V9lrNFPaZ8Y) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Round 2 \(feat\. MC Davo\) \- Single](https://open.spotify.com/album/6gEG4NR9X1VbaSv0lz5ETB) | 3:21 |
-| 20 | [Debes de saber](https://open.spotify.com/track/06T04xn5eDNWfzblgZ88P8) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:00 |
+| 19 | [Debes de saber](https://open.spotify.com/track/06T04xn5eDNWfzblgZ88P8) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:00 |
+| 20 | [Round 2](https://open.spotify.com/track/3CVEOynsYT7V9lrNFPaZ8Y) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Round 2 \(feat\. MC Davo\) \- Single](https://open.spotify.com/album/6gEG4NR9X1VbaSv0lz5ETB) | 3:21 |
 | 21 | [Todo menso](https://open.spotify.com/track/5jTyfDxDgdCFLmqzT1UM1e) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Canciones Mamalonas 3](https://open.spotify.com/album/2sLUDN7rY8R4groR12KFbL) | 3:11 |
 | 22 | [TRAPPERZ A Mafia Da Sicilia \(feat\. MC Davo & Fuego\)](https://open.spotify.com/track/1KfIZjptrvN6jUpUzzRYiD) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [TRAPPERZ A Mafia Da Sicilia \(feat\. MC Davo & Fuego\)](https://open.spotify.com/album/6yhlebu0jF2fxxdfk1oDon) | 5:02 |
 | 23 | [Mijo… ¿y la novia?](https://open.spotify.com/track/27Qf1TpvAk59kURJkoOuJB) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Mijo… ¿y la novia?](https://open.spotify.com/album/4EXuUB10jPvlUnmQ28Iv2u) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 49 | [Andamos De Parranda](https://open.spotify.com/track/1s5vd2FOQj34P5vfRRoPHT) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:41 |
 | 50 | [Vitamina](https://open.spotify.com/track/1oc6FW18hQEUgDr25MePTB) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Dave Garsía](https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf) | [Vitamina](https://open.spotify.com/album/2wkRViFOuLVi5TvUl5rwKE) | 2:54 |
 
-Snapshot ID: `aFnqgAAAAAAuNJAhl1UihpvmXKQFb5uZ`
+Snapshot ID: `aFs8AAAAAAD9Yq3jNXRr9N9+mNyv5Cap`

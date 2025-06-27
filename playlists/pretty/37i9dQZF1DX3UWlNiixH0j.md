@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: ラッキーオールドサン Lucky Old Sun
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,257 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,305 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 44 | [Goodnight](https://open.spotify.com/track/6I4DdTw4emHFtKRga5HX3C) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [Goodnight](https://open.spotify.com/album/50Vd83jb4Q90L39y7ANVxX) | 3:31 |
 | 45 | [淡雪](https://open.spotify.com/track/4MtS7gCstq3BrVINPW444c) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [淡雪](https://open.spotify.com/album/2RIcS21eGsyF3OhWgKFbYW) | 3:22 |
 | 46 | [花粉](https://open.spotify.com/track/3zMFEGYHWW8W0dkcEd7qsC) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [花粉](https://open.spotify.com/album/612j2yQlcZ3I58paV1Iosj) | 4:19 |
-| 47 | [24](https://open.spotify.com/track/31KcaweNPqlnEOYjE5CnGa) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2) | [24](https://open.spotify.com/album/4oe0cD7X88Cn2G5AISfqLD) | 3:50 |
-| 48 | [Passing](https://open.spotify.com/track/44t7cEmazmGE1tvpYI9ubE) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Passing](https://open.spotify.com/album/0rTi7onngxwm1XYUI5bsbu) | 2:53 |
+| 47 | [Passing](https://open.spotify.com/track/44t7cEmazmGE1tvpYI9ubE) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Passing](https://open.spotify.com/album/0rTi7onngxwm1XYUI5bsbu) | 2:53 |
+| 48 | [24](https://open.spotify.com/track/31KcaweNPqlnEOYjE5CnGa) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2) | [24](https://open.spotify.com/album/4oe0cD7X88Cn2G5AISfqLD) | 3:50 |
 | 49 | [meaning](https://open.spotify.com/track/23rFnCXBIlKpxuKSorAyeL) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meaning](https://open.spotify.com/album/1eNXkTH3nkNUcWbacD6zyW) | 3:44 |
 | 50 | [芒果](https://open.spotify.com/track/5Xjpo1WzoZVfBMdsnZSnEp) | [Summer Eye](https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy) | [芒果](https://open.spotify.com/album/7tQoofYpcZf451VQxzXzrY) | 2:53 |
 | 51 | [sekisei inko](https://open.spotify.com/track/4FHOYNRL2EylpvuE8J27KQ) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [sekisei inko](https://open.spotify.com/album/0g29LUL1xGSveMd5C3dCT9) | 3:27 |
@@ -67,15 +67,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 57 | [Warumono](https://open.spotify.com/track/5RsCECjqGekDQvFbbxz5zg) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [内なる惑星](https://open.spotify.com/album/75LAVq4NjYN5z0zjNCPTkH) | 4:01 |
 | 58 | [Can we do it again?](https://open.spotify.com/track/1RytrvNto1GzocVV1RHkLn) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Can we do it again?](https://open.spotify.com/album/0q1ONmYW3OMq8ZfkIOm3Yr) | 3:30 |
 | 59 | [Ethos](https://open.spotify.com/track/0n3ooBHGE7eIgw4clwaJng) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Pathway](https://open.spotify.com/album/4dHbnwsdpchOW8gOhN13ku) | 3:51 |
-| 60 | [Departure](https://open.spotify.com/track/7LK9OuKMy5hCY7zO5PC3ow) | [ゆうらん船](https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm) | [Departure / Letter to Flowers](https://open.spotify.com/album/3JKlDs7sbWPHqag0stXfLI) | 4:02 |
-| 61 | [My Mutant Ride \(feat\. 柴田聡子 & TAKU INOUE\)](https://open.spotify.com/track/2jXy46Txmlx5cSzKrTHzna) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU), [TAKU INOUE](https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0) | [GRAND POP](https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H) | 3:03 |
+| 60 | [My Mutant Ride \(feat\. 柴田聡子 & TAKU INOUE\)](https://open.spotify.com/track/2jXy46Txmlx5cSzKrTHzna) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU), [TAKU INOUE](https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0) | [GRAND POP](https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H) | 3:03 |
+| 61 | [Departure](https://open.spotify.com/track/7LK9OuKMy5hCY7zO5PC3ow) | [ゆうらん船](https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm) | [Departure / Letter to Flowers](https://open.spotify.com/album/3JKlDs7sbWPHqag0stXfLI) | 4:02 |
 | 62 | [WINDSDAY](https://open.spotify.com/track/3P0mTFl9aQJg2KU3QgIt0n) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WINDSDAY](https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh) | 3:05 |
 | 63 | [Fleeting](https://open.spotify.com/track/5g9CvT45CSD10sEm5aUwoN) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [Fleeting](https://open.spotify.com/album/7gX18yup62JNjr4M0rC4eP) | 3:56 |
-| 64 | [渦中ロック](https://open.spotify.com/track/1gc2ol4PmQW6AnV8YJeYLu) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [風がはやい](https://open.spotify.com/album/1eYyKE1EYQzjuynSBzCqf1) | 1:52 |
-| 65 | [Inaho](https://open.spotify.com/track/5JLqMwyDoRbz6CVelTmDsZ) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [NB2](https://open.spotify.com/album/4UgfLy59honQPg5GVZgaXi) | 3:24 |
-| 66 | [AWAKE](https://open.spotify.com/track/0Mou1LRIG7KRfFtfcJfnJv) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [AWAKE](https://open.spotify.com/album/75E4yuPqN4aAfLpfZu0TME) | 3:53 |
-| 67 | [HAPPY \(feat\. chelmico\)](https://open.spotify.com/track/7CwhZPmyGTZdQqg28BIHSl) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [THANKS EP](https://open.spotify.com/album/2DYR6nJRNi2juI0fBlNRFI) | 4:20 |
-| 68 | [GENOCIDE FUCK OFF](https://open.spotify.com/track/0IR8MVfOD3tJUMtOqq55wm) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [GENOCIDE FUCK OFF](https://open.spotify.com/album/4uH5I97dPW2T6II8Q5FzoA) | 0:43 |
+| 64 | [GENOCIDE FUCK OFF](https://open.spotify.com/track/0IR8MVfOD3tJUMtOqq55wm) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [GENOCIDE FUCK OFF](https://open.spotify.com/album/4uH5I97dPW2T6II8Q5FzoA) | 0:43 |
+| 65 | [AWAKE](https://open.spotify.com/track/0Mou1LRIG7KRfFtfcJfnJv) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [AWAKE](https://open.spotify.com/album/75E4yuPqN4aAfLpfZu0TME) | 3:53 |
+| 66 | [渦中ロック](https://open.spotify.com/track/1gc2ol4PmQW6AnV8YJeYLu) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [風がはやい](https://open.spotify.com/album/1eYyKE1EYQzjuynSBzCqf1) | 1:52 |
+| 67 | [Inaho](https://open.spotify.com/track/5JLqMwyDoRbz6CVelTmDsZ) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [NB2](https://open.spotify.com/album/4UgfLy59honQPg5GVZgaXi) | 3:24 |
+| 68 | [HAPPY \(feat\. chelmico\)](https://open.spotify.com/track/7CwhZPmyGTZdQqg28BIHSl) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [THANKS EP](https://open.spotify.com/album/2DYR6nJRNi2juI0fBlNRFI) | 4:20 |
 | 69 | [Swim](https://open.spotify.com/track/1B9IotUsdKzHZYRdmc99fn) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Swim](https://open.spotify.com/album/6KTZ7NAPmZP64DN0Mh9b6M) | 3:23 |
 | 70 | [Take a Look \- Ftlframe Remix](https://open.spotify.com/track/5r2Z801NMhhl8B9xykon4f) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL), [Ftlframe](https://open.spotify.com/artist/6ueZc2xAm12Ib0e90Bx7P0) | [Take a Look \(Ftlframe Remix\)](https://open.spotify.com/album/1kYAxyDQRCiwEB22T4uJDi) | 2:00 |
 | 71 | [Passing \- PAS TASTA Remix](https://open.spotify.com/track/1lXCUs6VzMKZO7p5dm2QhK) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU), [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS) | [Passing \(PAS TASTA Remix\)](https://open.spotify.com/album/04pxdk6Ky7i3MF2JZ3c7dM) | 3:11 |

@@ -1,6 +1,6 @@
 {
   "description": "indie folk latino de estaci\u00f3n. Foto: Paz Carrara y Raly Barrionuevo",
-  "num_followers": 60572,
+  "num_followers": 60580,
   "original_name": "folk & oto\u00f1o",
   "owner": {
     "name": "Spotify",
@@ -183,18 +183,18 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "Abril",
-        "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
+        "name": "La Capital",
+        "url": "https://open.spotify.com/album/1P3OUooECLJYVUj8NJ1IUJ"
       },
       "artists": [
         {
-          "name": "Abril Olivera",
-          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+          "name": "Ciao Marina",
+          "url": "https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo"
         }
       ],
-      "duration_ms": 159741,
-      "name": "Por el Bien de los Dos",
-      "url": "https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy"
+      "duration_ms": 178439,
+      "name": "La Capital",
+      "url": "https://open.spotify.com/track/138AMAxJawuLPkPlxgHsHq"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -215,34 +215,18 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "La Capital",
-        "url": "https://open.spotify.com/album/1P3OUooECLJYVUj8NJ1IUJ"
+        "name": "Abril",
+        "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
       },
       "artists": [
         {
-          "name": "Ciao Marina",
-          "url": "https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo"
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
         }
       ],
-      "duration_ms": 178439,
-      "name": "La Capital",
-      "url": "https://open.spotify.com/track/138AMAxJawuLPkPlxgHsHq"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
-        "name": "Vapor",
-        "url": "https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 182599,
-      "name": "Vapor",
-      "url": "https://open.spotify.com/track/0EYQhfsTUtViwb0BgygGHF"
+      "duration_ms": 159741,
+      "name": "Por el Bien de los Dos",
+      "url": "https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -259,6 +243,22 @@
       "duration_ms": 223142,
       "name": "me hace bien amar(te)",
       "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
+        "name": "Vapor",
+        "url": "https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 182599,
+      "name": "Vapor",
+      "url": "https://open.spotify.com/track/0EYQhfsTUtViwb0BgygGHF"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -511,6 +511,22 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
+        "name": "Quemarropa",
+        "url": "https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9"
+      },
+      "artists": [
+        {
+          "name": "Juku Ares",
+          "url": "https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw"
+        }
+      ],
+      "duration_ms": 180891,
+      "name": "Porque",
+      "url": "https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
         "name": "tal vez, no s\u00e9",
         "url": "https://open.spotify.com/album/6fYLb4o4jJFam1UbdKKhla"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 224599,
       "name": "tal vez, no s\u00e9",
       "url": "https://open.spotify.com/track/4JUb6pkv9qrz0oZfuiZ8Gj"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
-        "name": "Quemarropa",
-        "url": "https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9"
-      },
-      "artists": [
-        {
-          "name": "Juku Ares",
-          "url": "https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw"
-        }
-      ],
-      "duration_ms": 180891,
-      "name": "Porque",
-      "url": "https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -583,26 +583,6 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "Suerte para m\u00ed",
-        "url": "https://open.spotify.com/album/6CW5eGVqBR2o3EmF7Ti8iX"
-      },
-      "artists": [
-        {
-          "name": "Roki Fernandez",
-          "url": "https://open.spotify.com/artist/2MCfICN62faLf6aDJZhlx6"
-        },
-        {
-          "name": "Mailen Pankonin",
-          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
-        }
-      ],
-      "duration_ms": 183786,
-      "name": "Suerte para m\u00ed",
-      "url": "https://open.spotify.com/track/464idwypVzujFVCo6XdgeI"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
         "name": "Lesbiandrama",
         "url": "https://open.spotify.com/album/2oY9USTDYbnQtcy5bRa2DR"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 243501,
       "name": "Bolero",
       "url": "https://open.spotify.com/track/3yz96oTI0rHUaXruFziWBS"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
+        "name": "Suerte para m\u00ed",
+        "url": "https://open.spotify.com/album/6CW5eGVqBR2o3EmF7Ti8iX"
+      },
+      "artists": [
+        {
+          "name": "Roki Fernandez",
+          "url": "https://open.spotify.com/artist/2MCfICN62faLf6aDJZhlx6"
+        },
+        {
+          "name": "Mailen Pankonin",
+          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
+        }
+      ],
+      "duration_ms": 183786,
+      "name": "Suerte para m\u00ed",
+      "url": "https://open.spotify.com/track/464idwypVzujFVCo6XdgeI"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
+        "name": "Ser\u00e9 m\u00eda",
+        "url": "https://open.spotify.com/album/1QGEjpTaJ64tSx3CsQqbkU"
+      },
+      "artists": [
+        {
+          "name": "Kurmi",
+          "url": "https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W"
+        }
+      ],
+      "duration_ms": 194611,
+      "name": "Ser\u00e9 m\u00eda",
+      "url": "https://open.spotify.com/track/6ztXazDxjvxifJMWRAGkKn"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
         "name": "Ganas de Dejarte",
         "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
       },
@@ -755,26 +771,6 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "Comida China",
-        "url": "https://open.spotify.com/album/5C7cBSWs7ANBAjCdPuv4x5"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        },
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 162993,
-      "name": "Comida China",
-      "url": "https://open.spotify.com/track/5oWz29Lp0mLiA9d0wPJNsG"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
         "name": "INFRUTESCENCIA",
         "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
       },
@@ -791,22 +787,22 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "Particular",
-        "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
+        "name": "Comida China",
+        "url": "https://open.spotify.com/album/5C7cBSWs7ANBAjCdPuv4x5"
       },
       "artists": [
         {
-          "name": "LE TORO",
-          "url": "https://open.spotify.com/artist/399hFqtRXcXAUU8F4x2BkN"
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
         },
         {
-          "name": "INE",
-          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
         }
       ],
-      "duration_ms": 165808,
-      "name": "Particular",
-      "url": "https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi"
+      "duration_ms": 162993,
+      "name": "Comida China",
+      "url": "https://open.spotify.com/track/5oWz29Lp0mLiA9d0wPJNsG"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -831,18 +827,22 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "Ser\u00e9 m\u00eda",
-        "url": "https://open.spotify.com/album/1QGEjpTaJ64tSx3CsQqbkU"
+        "name": "Particular",
+        "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
       },
       "artists": [
         {
-          "name": "Kurmi",
-          "url": "https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W"
+          "name": "LE TORO",
+          "url": "https://open.spotify.com/artist/399hFqtRXcXAUU8F4x2BkN"
+        },
+        {
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
         }
       ],
-      "duration_ms": 194611,
-      "name": "Ser\u00e9 m\u00eda",
-      "url": "https://open.spotify.com/track/6ztXazDxjvxifJMWRAGkKn"
+      "duration_ms": 165808,
+      "name": "Particular",
+      "url": "https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "cuidar el mango",
-        "url": "https://open.spotify.com/album/4SUdavkGS6dTcKCCr2IIQp"
-      },
-      "artists": [
-        {
-          "name": "lisandro skar",
-          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
-        }
-      ],
-      "duration_ms": 136320,
-      "name": "cuidar el mango",
-      "url": "https://open.spotify.com/track/7wktHW9MlxOYsvxJoAmdsM"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
         "name": "Ancla",
         "url": "https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 212444,
       "name": "Ancla",
       "url": "https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
+        "name": "cuidar el mango",
+        "url": "https://open.spotify.com/album/4SUdavkGS6dTcKCCr2IIQp"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "duration_ms": 136320,
+      "name": "cuidar el mango",
+      "url": "https://open.spotify.com/track/7wktHW9MlxOYsvxJoAmdsM"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "Simona a Guitarra y Voz (Lado A)",
-        "url": "https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC"
-      },
-      "artists": [
-        {
-          "name": "Mauro Samaniego",
-          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
-        }
-      ],
-      "duration_ms": 247636,
-      "name": "Paredes Finas",
-      "url": "https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
         "name": "Sigo Llorando",
         "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 223349,
       "name": "Sigo Llorando",
       "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
+        "name": "Simona a Guitarra y Voz (Lado A)",
+        "url": "https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC"
+      },
+      "artists": [
+        {
+          "name": "Mauro Samaniego",
+          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
+        }
+      ],
+      "duration_ms": 247636,
+      "name": "Paredes Finas",
+      "url": "https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -1455,6 +1455,22 @@
       "duration_ms": 241810,
       "name": "Trance",
       "url": "https://open.spotify.com/track/6DLb7WbfYJmIu2f40B9G4T"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
+        "name": "Mi lugar en el mundo",
+        "url": "https://open.spotify.com/album/2himgHYphRMFHgrzRKkYDC"
+      },
+      "artists": [
+        {
+          "name": "Agustina Pampin",
+          "url": "https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Mi lugar en el mundo",
+      "url": "https://open.spotify.com/track/7JM0yDtd6hu6jKg1adX3hU"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -1503,22 +1519,6 @@
       "duration_ms": 109000,
       "name": "La Melancol\u00eda",
       "url": "https://open.spotify.com/track/0rYCv51RoAHWVxkISDgXyU"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
-        "name": "Mi lugar en el mundo",
-        "url": "https://open.spotify.com/album/2himgHYphRMFHgrzRKkYDC"
-      },
-      "artists": [
-        {
-          "name": "Agustina Pampin",
-          "url": "https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv"
-        }
-      ],
-      "duration_ms": 212250,
-      "name": "Mi lugar en el mundo",
-      "url": "https://open.spotify.com/track/7JM0yDtd6hu6jKg1adX3hU"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "Marcas",
-        "url": "https://open.spotify.com/album/0w38eh7Mri9G90T8h6E90r"
-      },
-      "artists": [
-        {
-          "name": "Lucio Mantel",
-          "url": "https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk"
-        }
-      ],
-      "duration_ms": 222721,
-      "name": "Marcas",
-      "url": "https://open.spotify.com/track/0gMJWL100Hky7I4awRPAof"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
         "name": "Color De Flor",
         "url": "https://open.spotify.com/album/1dwjMu59OWGbhF4UNfBKnF"
       },
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
+        "name": "Marcas",
+        "url": "https://open.spotify.com/album/0w38eh7Mri9G90T8h6E90r"
+      },
+      "artists": [
+        {
+          "name": "Lucio Mantel",
+          "url": "https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk"
+        }
+      ],
+      "duration_ms": 222721,
+      "name": "Marcas",
+      "url": "https://open.spotify.com/track/0gMJWL100Hky7I4awRPAof"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
         "name": "Un besito",
         "url": "https://open.spotify.com/album/6a7Gm9RqJp1fNypiMAfL5y"
       },
@@ -1659,26 +1659,6 @@
       "duration_ms": 178500,
       "name": "Un besito",
       "url": "https://open.spotify.com/track/3Mgj1UCxUVjQ7YpSNEh0f3"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
-        "name": "Empate",
-        "url": "https://open.spotify.com/album/2uoKUJILAJXhOsAWbutwLg"
-      },
-      "artists": [
-        {
-          "name": "niniom\u00e1quina",
-          "url": "https://open.spotify.com/artist/7bvnxCbFjrEbiHQgksovJd"
-        },
-        {
-          "name": "Mart\u00edn Buscaglia",
-          "url": "https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W"
-        }
-      ],
-      "duration_ms": 178067,
-      "name": "Empate",
-      "url": "https://open.spotify.com/track/1ltnHwKy5jFgnJGtW056F0"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -1699,6 +1679,26 @@
       "duration_ms": 149364,
       "name": "Disfon\u00eda",
       "url": "https://open.spotify.com/track/0uJDoMbRcfmojaIOqOOMs7"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
+        "name": "Empate",
+        "url": "https://open.spotify.com/album/2uoKUJILAJXhOsAWbutwLg"
+      },
+      "artists": [
+        {
+          "name": "niniom\u00e1quina",
+          "url": "https://open.spotify.com/artist/7bvnxCbFjrEbiHQgksovJd"
+        },
+        {
+          "name": "Mart\u00edn Buscaglia",
+          "url": "https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W"
+        }
+      ],
+      "duration_ms": 178067,
+      "name": "Empate",
+      "url": "https://open.spotify.com/track/1ltnHwKy5jFgnJGtW056F0"
     },
     {
       "added_at": "2025-04-25 03:00:33",

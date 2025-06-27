@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Benny The Butcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,587,911 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,587,814 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 25 | [Lalala](https://open.spotify.com/track/36u1dV1zt17N8Cv7Ptct4u) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Muddy Waters Too](https://open.spotify.com/album/5aahGTQnyEzNwR8Wy2lEpi) | 3:18 |
 | 26 | [Friendly Hallucinations](https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:45 |
 | 27 | [MICHIGAN](https://open.spotify.com/track/6k1cc8PaQCA0HUVImhYBcn) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [MICHIGAN](https://open.spotify.com/album/1Tju3BMSIKB61FBSZWM5n7) | 2:57 |
-| 28 | [EGYPT](https://open.spotify.com/track/5yD5MO0jgjIfKPXanAtRi6) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [HEELS HAVE EYES](https://open.spotify.com/album/1T5LMO1wKzfY6oCdiQRpr3) | 2:10 |
-| 29 | [Champagne Campaign \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/0JcS4b9ol8GtyOWnDScfcy) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Pria](https://open.spotify.com/artist/5tBXHEV8R9NTK39HhAPr3j), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Champagne Campaign \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/7mTBG685KY77kghmLk2CNQ) | 3:10 |
+| 28 | [Champagne Campaign \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/0JcS4b9ol8GtyOWnDScfcy) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Pria](https://open.spotify.com/artist/5tBXHEV8R9NTK39HhAPr3j), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Champagne Campaign \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/7mTBG685KY77kghmLk2CNQ) | 3:10 |
+| 29 | [EGYPT](https://open.spotify.com/track/5yD5MO0jgjIfKPXanAtRi6) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [HEELS HAVE EYES](https://open.spotify.com/album/1T5LMO1wKzfY6oCdiQRpr3) | 2:10 |
 | 30 | [Studio Fit Riddim](https://open.spotify.com/track/5WIA9zkaaOuAKW0JOO36di) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Studio Fit Riddim](https://open.spotify.com/album/0uxSyHjE8eS5ng2poPpgEv) | 1:42 |
 | 31 | [Die Together](https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:44 |
 | 32 | [LLC](https://open.spotify.com/track/4JI768EyJBdmpQdc4oL9uP) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:18 |
-| 33 | [EINSTEIN KITCHEN](https://open.spotify.com/track/6dA7M8QPaOH5nvsH1qf5DF) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [HEELS HAVE EYES](https://open.spotify.com/album/1T5LMO1wKzfY6oCdiQRpr3) | 1:22 |
-| 34 | [Nice Try Wrong Guy](https://open.spotify.com/track/7wcLBb0HGtz40QuApXpEh8) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Nice Try Wrong Guy](https://open.spotify.com/album/11WKI3s5WpRkf5YzmNFKfv) | 3:06 |
+| 33 | [Nice Try Wrong Guy](https://open.spotify.com/track/7wcLBb0HGtz40QuApXpEh8) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Nice Try Wrong Guy](https://open.spotify.com/album/11WKI3s5WpRkf5YzmNFKfv) | 3:06 |
+| 34 | [EINSTEIN KITCHEN](https://open.spotify.com/track/6dA7M8QPaOH5nvsH1qf5DF) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [HEELS HAVE EYES](https://open.spotify.com/album/1T5LMO1wKzfY6oCdiQRpr3) | 1:22 |
 | 35 | [Pipeline](https://open.spotify.com/track/4SJNTcvRNneF6B210XyqLu) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [Pipeline](https://open.spotify.com/album/5lYViAIS1MLIXpYPWp4UbS) | 3:39 |
 | 36 | [Palaces](https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e) | 3:45 |
 | 37 | [3333](https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [3333](https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D) | 2:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pcjIHtCtNOL6UG7yMKv1k">SECH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,058 likes - 174 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,059 likes - 174 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 81 | [Playa](https://open.spotify.com/track/243jb092tx4s5UZntX2xhC) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:12 |
 | 82 | [Me Gustaría](https://open.spotify.com/track/54SVSLkZTLxmGGlvhxTt4I) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [Me Gustaría](https://open.spotify.com/album/0njxbT6uDUmE2TxTGlZsp6) | 3:39 |
 | 83 | [La Vida](https://open.spotify.com/track/7uOCu5eahcVWVAuObNzwZC) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [The Sensation](https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU) | 3:40 |
-| 84 | [X Ti](https://open.spotify.com/track/65mhesg9E1dT45P5DYX4wV) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 2:53 |
-| 85 | [Gym Girl](https://open.spotify.com/track/6Kg5oP7ERvrElz7zuHITAb) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:42 |
+| 84 | [Gym Girl](https://open.spotify.com/track/6Kg5oP7ERvrElz7zuHITAb) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:42 |
+| 85 | [X Ti](https://open.spotify.com/track/65mhesg9E1dT45P5DYX4wV) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 2:53 |
 | 86 | [La Discusión](https://open.spotify.com/track/5mzp5B1FA5e4fsvnkqyvm1) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:05 |
 | 87 | [La Niña](https://open.spotify.com/track/7AMzFTeQSS2FBjMCYb6zxs) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 2:43 |
 | 88 | [Tus Labios](https://open.spotify.com/track/20nypsN67nLGOfE4nGebns) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 2:55 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 173 | [Interludio](https://open.spotify.com/track/6I2aC9x6YVtBh07da38dbN) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 0:48 |
 | 174 | [Sin DJ](https://open.spotify.com/track/7hwkJDetmwkoVMnG7xoCSu) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [GHETTO CHILD](https://open.spotify.com/album/58pf971AkkgVetgudNWweN) | 2:03 |
 
-Snapshot ID: `Ab1HcgAAAADCbPCr3pRJDAYAg6t1GxpA`
+Snapshot ID: `Ab1NCAAAAAB+qTFKoVpTNVh8UY3DEwPr`

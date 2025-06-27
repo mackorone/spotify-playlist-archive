@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist.
 
-5,061 songs - 11 day 19 hr 16 min
+5,065 songs - 11 day 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [A Place For Me At Home \- Radio Edit](https://open.spotify.com/track/1LFqgeykMpjhKn38NPxMHS) | [The Real Doug Lane](https://open.spotify.com/artist/2Ziza1qqIu4SaDoyxMivkd) | [A Place For Me At Home \(Radio Edit\)](https://open.spotify.com/album/605eOP0Y25BSD2SDCM2D58) | 4:25 | 2023-07-24 | 2023-08-20 |
 | [A Place I've Never Known](https://open.spotify.com/track/07tFD7MxymzMAUovws86ji) | [Lewis Dalgliesh](https://open.spotify.com/artist/5rhY8rWa0UZqSdfy2Fqc7Z) | [A Place I've Never Known](https://open.spotify.com/album/77pSzSttZGZAY0nmUE3qeS) | 1:48 | 2021-07-31 | 2021-08-15 |
 | [A Place To Lie](https://open.spotify.com/track/5KFS9MC8czFqXczPjaOi7R) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [A Place To Lie](https://open.spotify.com/album/4CinlAbdXopU8pbdDjuiqM) | 5:23 | 2023-03-03 | 2023-03-29 |
+| [A Reason](https://open.spotify.com/track/37OtGOVznyoQlQ0kKB92HJ) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [A Reason](https://open.spotify.com/album/2D6RV1zSfolD0CcikWlrp4) | 4:21 | 2025-06-26 |  |
 | [A Reason](https://open.spotify.com/track/2Gzmuok7vpan3CMZNBGsmy) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [A Reason](https://open.spotify.com/album/0ucr8nG4ZeL3IS9jxcdRMg) | 6:27 | 2021-01-09 | 2021-01-18 |
 | [a song to quit your job to](https://open.spotify.com/track/0mfGFeYDeO4mOIuiAqPxBU) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [a song to quit your job to](https://open.spotify.com/album/3eC2bNmztzh8ALa5g8FcZB) | 2:46 | 2022-01-08 | 2022-01-30 |
 | [A Thousand Days](https://open.spotify.com/track/0I4J0EAyOfEl9j8IdNjYCt) | [Friday Skye](https://open.spotify.com/artist/50X3rdrvet8wWM4PNtLhQj) | [A Thousand Days](https://open.spotify.com/album/3lzjkGuVhJ9O3DvIXUejYo) | 2:09 | 2024-05-20 | 2024-06-01 |
@@ -1737,6 +1738,7 @@
 | [God Alone](https://open.spotify.com/track/4xzHR0uLauc5VTpXCcqrg0) | [Jude Chery](https://open.spotify.com/artist/1cmQMGIEHfxIo6CyzlnZ9F) | [God Alone](https://open.spotify.com/album/4Fvgd5pcvSsGbPzwHfUBHE) | 3:50 | 2024-09-13 | 2024-09-24 |
 | [God Bite](https://open.spotify.com/track/6PRkr8Z1mwcGShsQvZFGxF) | [Paul Spring](https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew) | [God Bite](https://open.spotify.com/album/24B0BXWc6ThbbwmdMwefRV) | 2:45 | 2022-11-11 | 2022-12-03 |
 | [God Gave Me Feet For Dancing \- feat\. Yazmin Lacey](https://open.spotify.com/track/27gBxsxac6Y7ed7dLVIAjQ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 3:59 | 2024-12-21 | 2025-02-09 |
+| [Going Away](https://open.spotify.com/track/4hOg1VoQ9ij2QQKGCnzVVT) | [SEGG](https://open.spotify.com/artist/6LVzUrTVwDlZvmu0MANvi1) | [Going Away](https://open.spotify.com/album/59hFVEmjaCNGQJWXEgMewn) | 4:26 | 2025-06-26 |  |
 | [Going Gone](https://open.spotify.com/track/6urszTKH70CCgyx4olwMeh) | [The Famillian](https://open.spotify.com/artist/0xxeA8tQmQtYpCe2IHmi2a), [Calixte](https://open.spotify.com/artist/5PYXKU2PUFplxNjbE3pYU5) | [Going Gone](https://open.spotify.com/album/0m8rvL27OIRlNnz45N7TYD) | 3:00 | 2021-12-24 | 2022-01-19 |
 | [Gold Coast](https://open.spotify.com/track/7oFuhAAM6OK0pdHkD4NsXB) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Gold Coast](https://open.spotify.com/album/352183p8jEPAkKCt4UPa1x) | 3:40 | 2024-12-21 | 2025-02-09 |
 | [Golden](https://open.spotify.com/track/7xzUaI3BQ1hYVVZnugm0ie) | [GONEBYMORNING](https://open.spotify.com/artist/0BDw5VUOQjr0eXvI6LU6jk) | [1998](https://open.spotify.com/album/6S1bqvX7E3OJViQsC7jdZx) | 4:03 | 2025-04-29 | 2025-05-17 |
@@ -3631,6 +3633,7 @@
 | [Right Now](https://open.spotify.com/track/1HJpqiER8rSK7EvGyyWlyb) | [Pandariza](https://open.spotify.com/artist/6CncvXUf8gONynDezyZ6ay) | [Right Now](https://open.spotify.com/album/0gH23ovOTblBlbJoetTIBG) | 3:00 | 2022-08-19 | 2022-09-04 |
 | [Right Through You](https://open.spotify.com/track/5gK5DfGGAvMz5vd0FgmvWd) | [D'Lala](https://open.spotify.com/artist/6hrmbeKkVwAep25tX9dgW6), [Bopert](https://open.spotify.com/artist/5Rag9HXm2RpUTrleOvZK8D) | [Right Through You](https://open.spotify.com/album/7asgkFuN0VTmRhk4KBCfgY) | 2:36 | 2024-11-18 | 2024-11-30 |
 | [Right Where I Belong](https://open.spotify.com/track/5zcCSH73gVVGtJtBuPzC7B) | [Hannah Stokes](https://open.spotify.com/artist/0VFXVciHQhitOVfXQxQ5jo) | [Right Where I Belong](https://open.spotify.com/album/3u4J3LqTF750DIhBq1S5MA) | 3:19 | 2025-06-16 |  |
+| [Right Where I’ve Been](https://open.spotify.com/track/7KrEBS2ao69WtbNGbwqPqY) | [DSYG](https://open.spotify.com/artist/3zc7Vpu3e393y4CoCzukQN), [imlunamusic1](https://open.spotify.com/artist/19XJ2zVuAvRTvC1cPiLmIx) | [Right Where I’ve Been](https://open.spotify.com/album/0H6RYq8QAWVTc8MP4x3sVL) | 2:58 | 2025-06-26 |  |
 | [Ring Ring](https://open.spotify.com/track/4jVI4bfpGUG8F7zdWI9onQ) | [Marelle](https://open.spotify.com/artist/6s3BBh2IX6IGopBTA8fwGq) | [One Day at a Time](https://open.spotify.com/album/0HRIQLGIr1zNrngGQzY3MH) | 2:39 | 2024-04-15 | 2024-04-27 |
 | [RIPPLES](https://open.spotify.com/track/7v35K1s5i5smRRHQkUq8xJ) | [BANTA.](https://open.spotify.com/artist/67cC7FAq0g7QBM0AtxLrxl), [Snory](https://open.spotify.com/artist/0dqFBXDxYVSrc3UfXzAYaT) | [RIPPLES](https://open.spotify.com/album/20BoMnXQO82zPVROkpCv7N) | 2:59 | 2022-08-28 | 2022-09-15 |
 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 | 2025-03-10 |  |
@@ -3817,6 +3820,7 @@
 | [Shades of Red](https://open.spotify.com/track/32gfcttbZKV36VW3SKw7fG) | [telco](https://open.spotify.com/artist/6M6obxInga7XUzdpC7irmd) | [My Name Is Not Kaiser](https://open.spotify.com/album/4HVdgHNTCh47P0UAen7MwU) | 3:35 | 2020-09-05 | 2020-09-16 |
 | [Shadow](https://open.spotify.com/track/1keltSbtxb5JeAiCfcVYeh) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Shadow](https://open.spotify.com/album/7n4NbaMVbblA9sIMzVXaej) | 2:51 | 2024-07-12 | 2024-08-11 |
 | [Shadows and Illusions](https://open.spotify.com/track/2PS8qQwAfL7xt3LWsQ13cy) | [Farah Camille](https://open.spotify.com/artist/2oGN4zBzijzBIYvcTNTMZ2) | [Shadows and Illusions](https://open.spotify.com/album/2Uq1c6OE441UdGGafFBUKD) | 3:50 | 2023-03-09 | 2023-04-02 |
+| [Shake](https://open.spotify.com/track/0NDBXpGQaF4DhDGzFZyMc0) | [Meagher](https://open.spotify.com/artist/2CTpu5JuIZ0hWInDZ5JfA1) | [Shake](https://open.spotify.com/album/3dI7Nme7IkKWwdWJzYQafK) | 2:03 | 2025-06-26 |  |
 | [Shake Me](https://open.spotify.com/track/5DVptkujQ0eKD1nyTQbIMV) | [The Wonderlands](https://open.spotify.com/artist/5d9MnG7M9Kj02Aa8XQ06mA) | [Shake Me](https://open.spotify.com/album/22E36tAop2YOoHehVdp7dG) | 4:11 | 2023-02-24 | 2023-03-20 |
 | [Shake What Your Mama](https://open.spotify.com/track/4KLiNPRah1bWQyisb2NtoS) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [I'll Be Fine](https://open.spotify.com/album/1MPItEak5Jl1DOupPmKsjj) | 2:47 | 2021-08-31 | 2021-09-16 |
 | [Shakedown](https://open.spotify.com/track/1wViRHIhsserH8zdNqhZtb) | [Sofi Gev](https://open.spotify.com/artist/6YL1DZY3FftdLcZwocsPbd) | [Shakedown](https://open.spotify.com/album/2xiLegcNVLVPL8u1LtzN65) | 3:26 | 2021-03-27 | 2021-04-17 |

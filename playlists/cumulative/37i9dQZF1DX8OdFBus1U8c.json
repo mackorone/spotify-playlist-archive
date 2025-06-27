@@ -972,7 +972,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-26",
+      "date_removed": null,
       "duration_ms": 179478,
       "name": "Beevi",
       "url": "https://open.spotify.com/track/4JgRTf5gf9DtWFeeaOAZ5V"
@@ -1824,7 +1824,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 218559,
       "name": "Ekalavyan",
       "url": "https://open.spotify.com/track/7MTSHX9CYLH81IxdyU62m4"
@@ -5464,7 +5464,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 152392,
       "name": "PARATTA SONG",
       "url": "https://open.spotify.com/track/0ocgMbg427kQwsyjmKNTBe"
@@ -5867,6 +5867,24 @@
     },
     {
       "album": {
+        "name": "Pullithuni",
+        "url": "https://open.spotify.com/album/0J2J15GKwcKSx9CyhSqw16"
+      },
+      "artists": [
+        {
+          "name": "Kuttippa",
+          "url": "https://open.spotify.com/artist/4xS2zvc8jaoQwhzBgiQTvL"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Pullithuni",
+      "url": "https://open.spotify.com/track/44MLTvKPe47TGEoSGmJZz2"
+    },
+    {
+      "album": {
         "name": "Puthen Kodi",
         "url": "https://open.spotify.com/album/0mQhdxGMYb1q7DnZOXd7Yz"
       },
@@ -6024,7 +6042,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-26",
+      "date_removed": null,
       "duration_ms": 224810,
       "name": "SAMBAR",
       "url": "https://open.spotify.com/track/4fGVuqgcERFN92zNeUbvAp"
@@ -7142,7 +7160,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 212550,
       "name": "Umma",
       "url": "https://open.spotify.com/track/7cQ2G31gtRTEPiUtsM0VHm"

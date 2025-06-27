@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-1,536 songs - 3 day 6 hr 34 min
+1,537 songs - 3 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [A Lua](https://open.spotify.com/track/5yKXn2WXISKovZSzczhBI9) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:35 | 2021-06-27 | 2021-06-28 |
 | [A Maior Saudade \- Ao Vivo](https://open.spotify.com/track/14JKzKrJbPDflw8XyATMey) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/3qL1ZV5aLsA2U0lVdIadau) | 3:10 | 2021-12-12 | 2022-08-25 |
 | [A Maior Saudade \- Ao Vivo](https://open.spotify.com/track/5Q0ZnQjk4lQpScX7ujswun) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [A Maior Saudade \(Ao Vivo\)](https://open.spotify.com/album/5t3C6hF6FRHj0kHJOT9vKW) | 3:10 | 2021-09-05 | 2021-12-12 |
-| [A Morte do Autotune](https://open.spotify.com/track/4MF0VMffyxHsy3GZwwUnAs) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [A Morte do Autotune](https://open.spotify.com/album/3wtW4Pv6ED7nUpQL5GY5Vx) | 3:36 | 2024-11-05 |  |
+| [A Morte do Autotune](https://open.spotify.com/track/4MF0VMffyxHsy3GZwwUnAs) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [A Morte do Autotune](https://open.spotify.com/album/3wtW4Pv6ED7nUpQL5GY5Vx) | 3:36 | 2024-11-05 | 2025-06-27 |
 | [A Mulher Mais Foda do Brasil \- Ao Vivo](https://open.spotify.com/track/2fjEpLQpG0Ey7icNV4Dl8P) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Se Joga \(Ao Vivo\)](https://open.spotify.com/album/3uyCAKNUG2xNsLDjSz7CZd) | 2:23 | 2024-05-24 | 2024-05-26 |
 | [A Mulher Mais Foda do Brasil \- Ao Vivo](https://open.spotify.com/track/60JOVAVMWEl4JgYHwaVx8l) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Se Joga \(Deluxe\)](https://open.spotify.com/album/18sftFYNsEQomDlRzldTIY) | 2:23 | 2024-06-03 | 2024-06-07 |
 | [A Noite \(La Notte\) \- Ao Vivo](https://open.spotify.com/track/2D0C1CYWKdyau002ZtcTHW) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Embaixador Acústico \(Ao Vivo\)](https://open.spotify.com/album/0f016CECNxj4rrQfHH4Z0Q) | 3:21 | 2024-08-30 | 2024-10-26 |
@@ -520,6 +520,7 @@
 | [Eu Tenho Você \(Ao Vivo\)](https://open.spotify.com/track/2FG6DJRP9URLUHWn8GDYex) | [Incendiários](https://open.spotify.com/artist/2jEIa3BLL1ZFailXlZGm0x), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Eu Tenho Você \(Ao Vivo\)](https://open.spotify.com/album/28YHRkBPCjYKUx3Yn7G00T) | 7:51 | 2025-04-23 | 2025-05-25 |
 | [Eu Vou Cair na Noite](https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO) | [DJ RENAN DA BL](https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc), [Dj Jl Do Tp](https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Mc Menor Thalis](https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn) | [Eu Vou Cair na Noite](https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW) | 2:05 | 2024-04-03 | 2024-04-08 |
 | [EU VOU COM CARINHO ELA QUER COM FORÇA](https://open.spotify.com/track/7qD2vjd3btuOgwpQPEY7ci) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [EU VOU COM CARINHO ELA QUER COM FORÇA](https://open.spotify.com/album/4PNdseKOViclyZdCEzTmfv) | 2:24 | 2022-05-25 | 2022-11-01 |
+| [Eu Vou na Sua Casa](https://open.spotify.com/track/2GylVVMD21R4SqgAt8gGC5) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Vitão](https://open.spotify.com/artist/3obZRipWBuXC5bD2yFtZcI), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [RomantiDog](https://open.spotify.com/album/00kVv1eVa8WDdhUrGg9yAW) | 2:59 | 2025-06-26 |  |
 | [Eu Vou Sentar \- Ao Vivo em São Paulo](https://open.spotify.com/track/2pilqAMqJMjbIQSnQVNdMv) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Estilo Nattanzinho \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/2NZDGGCTDkmll9tzbbddEO) | 2:34 | 2024-10-15 | 2024-11-11 |
 | [eu vou ser rico](https://open.spotify.com/track/3RKxR4ylugvzHU0S8AhVaz) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [tempo.zip](https://open.spotify.com/album/3AJvminfxx0wpM3dpF3vaY) | 3:01 | 2025-01-17 | 2025-01-19 |
 | [Eu Vou Te Deixar Ir](https://open.spotify.com/track/7c7MSxSjue7jKtdxl2lHDP) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Destino, Vol\. 2](https://open.spotify.com/album/1gilju6x25IA4Caw6o1vVl) | 2:45 | 2025-04-26 | 2025-04-28 |

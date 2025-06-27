@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ?si=kaPi9CvdQcicRbNmXRKSqg"> Khamari</a>
+> The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf?si=RdeehQ3VSg2NorWLeHscFw"> Sasha Keable</a>
 
-571 songs - 1 day 6 hr 38 min
+572 songs - 1 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Fear](https://open.spotify.com/track/5lntfXi9Feo5T1xR6mTnvR) | [Lastee](https://open.spotify.com/artist/02fHk4FBRa87bllGfMAf15) | [Fear](https://open.spotify.com/album/4wLHbwdD3Kc5nt73qOFixR) | 2:24 | 2023-10-12 | 2023-10-27 |
 | [Feel Everything](https://open.spotify.com/track/2WnuvdvPMAl8pW5Fb1iiBV) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Feel Everything](https://open.spotify.com/album/6UiuPmxZFWTWrxFW0TcAXt) | 3:41 | 2024-10-11 | 2024-11-29 |
 | [Feel Love](https://open.spotify.com/track/6ll7qHgdALQu5P6Q2uBNOG) | [Mothers Favorite Child](https://open.spotify.com/artist/10i2TorF3ZcaKiVi0UmcwT) | [Feel Love](https://open.spotify.com/album/5le02tYRlcqPQD8NFXqbWV) | 2:56 | 2025-04-18 | 2025-04-25 |
+| [Feel Something](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Feel Something](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 | 2025-06-27 |  |
 | [feeling lonely](https://open.spotify.com/track/724JoIfyLE80Ctr29UhHvV) | [Obembe](https://open.spotify.com/artist/3BtuRQMNvyNMsXQneahybl), [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Blicbee](https://open.spotify.com/artist/4js9YFDtEQAB96RAktFmv5) | [feeling lonely](https://open.spotify.com/album/3CsUunOj0HJ45lwS5TfigX) | 2:10 | 2023-12-08 | 2024-03-22 |
 | [Feels](https://open.spotify.com/track/5vzJPhwKhhrU1Ot8ojbRvP) | [Neya](https://open.spotify.com/artist/7BkjHbT4VYLvWbtnZK8bcg) | [Feels](https://open.spotify.com/album/6fC6B0e3QNTanhxe7FhEyS) | 2:46 | 2024-02-14 | 2024-02-23 |
 | [feels like](https://open.spotify.com/track/2TFkOtXeYj8a83uix6DjvM) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [feels like](https://open.spotify.com/album/568CQpVk56eTiOBI0vebVe) | 3:24 | 2023-10-12 | 2023-10-20 |

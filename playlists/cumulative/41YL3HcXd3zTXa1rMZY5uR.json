@@ -477,24 +477,6 @@
     },
     {
       "album": {
-        "name": "Silly Songs",
-        "url": "https://open.spotify.com/album/4bfuWs6kXqznE52XabQOeC"
-      },
-      "artists": [
-        {
-          "name": "Sam The Sham & The Pharaohs",
-          "url": "https://open.spotify.com/artist/05sRO4JdAtJGyZQOTb6kSL"
-        }
-      ],
-      "date_added": "2013-06-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 162960,
-      "name": "Li'l Red Riding Hood (Rerecorded)",
-      "url": "https://open.spotify.com/track/14hKozniqwV7Fad3ZI9H2C"
-    },
-    {
-      "album": {
         "name": "60s Classics",
         "url": "https://open.spotify.com/album/3w6MFLPPc56ilMeY4zwoim"
       },
@@ -510,6 +492,24 @@
       "duration_ms": 174093,
       "name": "Lightnin' Strikes (Re-Recorded)",
       "url": "https://open.spotify.com/track/4EmnbjGWk5kOnK50l61JVo"
+    },
+    {
+      "album": {
+        "name": "Silly Songs",
+        "url": "https://open.spotify.com/album/4bfuWs6kXqznE52XabQOeC"
+      },
+      "artists": [
+        {
+          "name": "Sam The Sham & The Pharaohs",
+          "url": "https://open.spotify.com/artist/05sRO4JdAtJGyZQOTb6kSL"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162960,
+      "name": "Lil' Red Riding Hood (Rerecorded)",
+      "url": "https://open.spotify.com/track/14hKozniqwV7Fad3ZI9H2C"
     },
     {
       "album": {

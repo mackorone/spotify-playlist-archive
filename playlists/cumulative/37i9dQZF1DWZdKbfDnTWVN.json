@@ -746,7 +746,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 249685,
       "name": "BM 100",
       "url": "https://open.spotify.com/track/6DPLjYUkqLZIRpvZJDmTwN"
@@ -2508,7 +2508,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 161632,
       "name": "Hustle Figure",
       "url": "https://open.spotify.com/track/04jbJq2AuE35VuAe55gVuI"
@@ -3862,6 +3862,32 @@
       "duration_ms": 238889,
       "name": "Mc Mca",
       "url": "https://open.spotify.com/track/0wAgvKKxVwqJghZtNOa4GY"
+    },
+    {
+      "album": {
+        "name": "Mekatilili",
+        "url": "https://open.spotify.com/album/1JkfCKCNoEuLyu6uPqQ5MC"
+      },
+      "artists": [
+        {
+          "name": "Shmu",
+          "url": "https://open.spotify.com/artist/1tPfPce3ADyn6HRc3IAPGa"
+        },
+        {
+          "name": "Ziller Bas",
+          "url": "https://open.spotify.com/artist/7egikbEShB41Y4iozId8PO"
+        },
+        {
+          "name": "June on the Moon",
+          "url": "https://open.spotify.com/artist/4D7fnI4k0SwiiH1v9u6l1j"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241907,
+      "name": "Mekatilili",
+      "url": "https://open.spotify.com/track/41kBW9MDevID9wQHLgjdOv"
     },
     {
       "album": {
@@ -5492,6 +5518,24 @@
       "duration_ms": 161996,
       "name": "Sijui",
       "url": "https://open.spotify.com/track/4F31mkMANyrqjeaGGO0cuP"
+    },
+    {
+      "album": {
+        "name": "Sikujui",
+        "url": "https://open.spotify.com/album/7fx6hYDxSRicroSqTi8PCC"
+      },
+      "artists": [
+        {
+          "name": "8th Street Gang",
+          "url": "https://open.spotify.com/artist/2dBpYnIr6v0mfiMIFMkHIO"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157611,
+      "name": "Sikujui",
+      "url": "https://open.spotify.com/track/2Qv7yBfqY8CNfBdVzgISWv"
     },
     {
       "album": {

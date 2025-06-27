@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Odetto",
+  "description": "The best French indie tracks right now. Cover : BLOWSOM",
   "name": "Made in France",
   "tracks": [
     {
@@ -8206,7 +8206,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 152485,
       "name": "Off The Ground",
       "url": "https://open.spotify.com/track/3yIGWpmhul23xz9C3PXPQ2"
@@ -9344,6 +9344,28 @@
       "duration_ms": 161419,
       "name": "RESONATE",
       "url": "https://open.spotify.com/track/78FD0s97huTKxCw7Q2tM6J"
+    },
+    {
+      "album": {
+        "name": "Revenant du Nord",
+        "url": "https://open.spotify.com/album/0GDJ31tKJWzRuba176idJB"
+      },
+      "artists": [
+        {
+          "name": "Orchestre Tout Puissant Marcel Duchamp",
+          "url": "https://open.spotify.com/artist/7L8bsKFWYTMJj9c5HIPNtR"
+        },
+        {
+          "name": "Fr\u00e0n\u00e7ois & The Altlas Mountains",
+          "url": "https://open.spotify.com/artist/5ZGiZdfaYeJIXKuLKBEj8K"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190341,
+      "name": "Revenant du Nord",
+      "url": "https://open.spotify.com/track/6LzQGdaszVI58YLZrmSDPU"
     },
     {
       "album": {
@@ -10620,7 +10642,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 191466,
       "name": "TA LETTRE",
       "url": "https://open.spotify.com/track/23VcYslv7rlmMdVzzxGrUJ"
@@ -11753,6 +11775,24 @@
     },
     {
       "album": {
+        "name": "Vertical Life",
+        "url": "https://open.spotify.com/album/2eLwJXkVQwEJmXt1a787VI"
+      },
+      "artists": [
+        {
+          "name": "Astral Bakers",
+          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214360,
+      "name": "Vertical Life",
+      "url": "https://open.spotify.com/track/18xrN9c6ONI6RkcuKPUl9Y"
+    },
+    {
+      "album": {
         "name": "Vid\u00e9odrome",
         "url": "https://open.spotify.com/album/6wvnzv5Y9xg6SH14Q598xe"
       },
@@ -11876,7 +11916,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 164082,
       "name": "Voyeurisme",
       "url": "https://open.spotify.com/track/4wkoMRbuxd07GbA7ZDy3fi"

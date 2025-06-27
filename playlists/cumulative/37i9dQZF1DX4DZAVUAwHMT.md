@@ -2,9 +2,9 @@
 
 ### [The Rock List](https://open.spotify.com/playlist/37i9dQZF1DX4DZAVUAwHMT)
 
-> The UK's biggest rock playlist\. Cover: Muse
+> The UK's biggest rock playlist\. Cover: Twenty One Pilots
 
-994 songs - 2 day 7 hr 18 min
+997 songs - 2 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [All The Love Is Gone](https://open.spotify.com/track/5YSEFmTZBt1Ne3p0S9ZQMr) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [All The Love Is Gone](https://open.spotify.com/album/3ak5P45tjuLYZehqjruTez) | 3:02 | 2025-02-14 | 2025-05-09 |
 | [All the Noise](https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [All the Noise](https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc) | 2:59 | 2025-01-17 | 2025-04-04 |
 | [All The Problems](https://open.spotify.com/track/0yMBgZk0AkUKBqx4noEW19) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [All The Problems](https://open.spotify.com/album/5tApkeDzogxfZB7DOoukd2) | 2:56 | 2023-04-27 | 2023-06-09 |
+| [All The Rage](https://open.spotify.com/track/7j3wkOWJzTylQrZ85CsaPf) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [There's Love In This World If You Want It](https://open.spotify.com/album/2yFT16aiGIbFbeCTYVsmw7) | 4:00 | 2025-06-26 |  |
 | [Alone](https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Alone](https://open.spotify.com/album/5Fe0AaIdua2BPx5cTXMM4M) | 6:48 | 2024-09-26 | 2024-10-11 |
 | [Already Over](https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [Already Over](https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih) | 2:40 | 2023-10-06 | 2023-12-15 |
 | [alright \(feat\. The Kid LAROI\)](https://open.spotify.com/track/1uQ5oCjZvQsMZaBFAdkSuF) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [EKKSTACY](https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC) | 2:09 | 2024-01-19 | 2024-02-23 |
@@ -183,7 +184,7 @@
 | [Choose Your Fighter](https://open.spotify.com/track/6tL8gSH1BWB5noSIac3uGZ) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Supernova](https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ) | 2:15 | 2023-03-08 | 2024-03-09 |
 | [Chow](https://open.spotify.com/track/17bP2StnSZYGTmkFbKiytm) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Chow](https://open.spotify.com/album/1WJBLXYjqnWTlHO5auebXh) | 2:49 | 2024-09-05 | 2024-09-27 |
 | [Cinderella](https://open.spotify.com/track/5OLMwH0OXQigJThzKIjOAG) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Cinderella](https://open.spotify.com/album/6mWBwBpmYagDahWvlsiIzh) | 4:34 | 2025-02-28 | 2025-04-04 |
-| [Circe](https://open.spotify.com/track/7DYxpQ56aG3VPsBT6ukYDW) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [How To Be Cool At Parties/Circe](https://open.spotify.com/album/1gIfxtuS78kUBTxS6P9gXe) | 3:20 | 2025-04-17 |  |
+| [Circe](https://open.spotify.com/track/7DYxpQ56aG3VPsBT6ukYDW) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [How To Be Cool At Parties/Circe](https://open.spotify.com/album/1gIfxtuS78kUBTxS6P9gXe) | 3:20 | 2025-04-17 | 2025-06-27 |
 | [Circle Pit](https://open.spotify.com/track/7cY80346hpJqWsZICV8AP2) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Circle Pit // Bad Seed](https://open.spotify.com/album/3ZGdn6hqBaOA1Kp89J51st) | 2:55 | 2024-10-17 | 2025-03-07 |
 | [Circles](https://open.spotify.com/track/2Wr5ZcuK4MXLZu49rl2djK) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millennials](https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF) | 4:06 | 2024-02-23 | 2024-03-22 |
 | [City Lights](https://open.spotify.com/track/0EeqdkR4Wec3YlSaupYv6X) | [The WAEVE](https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rose Elinor Dougall](https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC) | [City Lights](https://open.spotify.com/album/02BmWPTStBXitd8WJkbWQA) | 4:20 | 2024-05-02 | 2024-05-24 |
@@ -204,7 +205,7 @@
 | [Control](https://open.spotify.com/track/4kGdweO4IGJABy06tHmyUO) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Control](https://open.spotify.com/album/4UxoHfjjtwF80vX2sSXPAS) | 3:41 | 2024-10-10 | 2025-01-31 |
 | [Control](https://open.spotify.com/track/0pdoZhLBiQccQ4Lbd8yGzO) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Control](https://open.spotify.com/album/55LPwJ8TYpTkKqFDgDRaOT) | 3:08 | 2024-08-22 | 2024-11-15 |
 | [Cowbella](https://open.spotify.com/track/4yiQrkO2yqBhjJbBkxexpu) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Cowbella](https://open.spotify.com/album/34RBWMX9yxMRJ95r1mSEdH) | 4:23 | 2025-06-19 |  |
-| [CRASH](https://open.spotify.com/track/2oqoX9JB9mjK9Aomw61kM2) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL](https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4) | 2:42 | 2025-05-15 |  |
+| [CRASH](https://open.spotify.com/track/2oqoX9JB9mjK9Aomw61kM2) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL](https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4) | 2:42 | 2025-05-15 | 2025-06-27 |
 | [CREEP HEAT](https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [CREEP HEAT](https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5) | 3:25 | 2023-08-03 | 2023-11-17 |
 | [CRIMINAL](https://open.spotify.com/track/4i8U1t123TAsAgwudp0a3X) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [CRIMINAL](https://open.spotify.com/album/6tYOhX9KBCYw780fKofaW5) | 3:47 | 2024-06-20 | 2024-09-06 |
 | [cross to bear](https://open.spotify.com/track/11BRXZcnIfqbxcrsPD9xWO) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [cross to bear](https://open.spotify.com/album/1ILIo9V6c1Vz8KQzyTTXT2) | 4:32 | 2024-05-31 | 2024-10-04 |
@@ -233,6 +234,7 @@
 | [deep fake](https://open.spotify.com/track/7mfMTQ21RSVhUw778ymlyV) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:33 | 2023-01-13 | 2023-03-18 |
 | [delirious](https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [delirious](https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C) | 2:51 | 2023-02-03 | 2023-08-25 |
 | [Delusions of Grandeur](https://open.spotify.com/track/1PhnLoIh8emLvQ7mUM1CyJ) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Delusions of Grandeur](https://open.spotify.com/album/0ehJqGshc3gcqVjJeo6hy1) | 2:58 | 2023-02-10 | 2023-05-05 |
+| [Descartes](https://open.spotify.com/track/1VOBsB3ozaoQv3i6Uts3O1) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Descartes](https://open.spotify.com/album/048eF8cmJqqF36fEvJABBY) | 3:13 | 2025-06-26 |  |
 | [DESERT RAP](https://open.spotify.com/track/3AJS1eZLyHUSUFq4RU2Jan) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [DESERT RAP](https://open.spotify.com/album/0VCDFicjr02GvApktZoPO8) | 3:12 | 2024-09-05 | 2024-12-13 |
 | [Detroit](https://open.spotify.com/track/2hmc0k5WWlDBmhRhDbpi9o) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [Detroit](https://open.spotify.com/album/0kn58aoB2rFG0oYWGXUUd0) | 5:39 | 2024-11-15 | 2025-02-21 |
 | [Died in My Twenties](https://open.spotify.com/track/5jugjQMGL2QNFdxfl12o5G) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Died in My Twenties](https://open.spotify.com/album/53dbOtnbcErPBsWtvaVFM2) | 3:07 | 2023-01-20 | 2023-04-21 |
@@ -444,7 +446,7 @@
 | [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 | 2025-05-15 |  |
 | [In the Name of the Father](https://open.spotify.com/track/3xQSG1eYo06kXI3JkPKllf) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [In the Name of the Father](https://open.spotify.com/album/7ln0zD3JhrEECP9um8u1ui) | 3:47 | 2025-05-15 | 2025-06-06 |
 | [In The Silence](https://open.spotify.com/track/1klDKOUmMD566cwy91pqEO) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Reflections](https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3) | 3:32 | 2023-08-10 | 2023-10-27 |
-| [In Too Deep](https://open.spotify.com/track/0oOmvjUwty6SzGqUhwlE99) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [In Too Deep](https://open.spotify.com/album/2SDpVychsWa7E65pM61pjL) | 2:26 | 2025-04-03 |  |
+| [In Too Deep](https://open.spotify.com/track/0oOmvjUwty6SzGqUhwlE99) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [In Too Deep](https://open.spotify.com/album/2SDpVychsWa7E65pM61pjL) | 2:26 | 2025-04-03 | 2025-06-27 |
 | [Incubator \(V2000\)](https://open.spotify.com/track/3kqTKerp9ZIPTLLPjZXeJj) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Carpe Diem, Moonman](https://open.spotify.com/album/16GtmNPUFAfLM3l3pZFNye) | 3:18 | 2025-05-15 |  |
 | [Insulin](https://open.spotify.com/track/27Mqha03Zh4DrrV89Qu1dM) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Insulin](https://open.spotify.com/album/5Uyc9rz7uEHFClJIzvr6Er) | 2:25 | 2025-05-15 |  |
 | [International Hide and Seek Champions](https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Undefeated](https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9) | 2:25 | 2024-05-02 | 2024-06-01 |
@@ -488,7 +490,7 @@
 | [Kool](https://open.spotify.com/track/2lgUEHBeAM9b0gpkwzLW6H) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Kool](https://open.spotify.com/album/4AERPveWzXsS4SIBWBVIsv) | 2:11 | 2023-02-24 | 2023-03-10 |
 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 | 2024-01-08 | 2024-04-19 |
 | [La fiesta](https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [La fiesta](https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw) | 2:38 | 2024-10-03 | 2024-11-22 |
-| [LA Runaway](https://open.spotify.com/track/3RHpo59t2CgyKlUGH2EXqX) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [Night Life](https://open.spotify.com/album/3L09yca8KWKT7vNzVHKyQA) | 5:06 | 2025-03-21 |  |
+| [LA Runaway](https://open.spotify.com/track/3RHpo59t2CgyKlUGH2EXqX) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [Night Life](https://open.spotify.com/album/3L09yca8KWKT7vNzVHKyQA) | 5:06 | 2025-03-21 | 2025-06-27 |
 | [Landmines](https://open.spotify.com/track/05FEHgvSVpx3jnM2zNeSo9) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR) | 2:55 | 2023-09-29 | 2023-11-05 |
 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 | 2023-11-03 | 2023-12-01 |
 | [Lawn Tennis](https://open.spotify.com/track/2NYND3Ka9Y4DW6IfaAPDHG) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Lawn Tennis](https://open.spotify.com/album/5hqZp53v4abJUoZLRAkCSx) | 2:25 | 2025-05-08 | 2025-06-20 |
@@ -918,6 +920,7 @@
 | [Under You](https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Under You](https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8) | 3:39 | 2023-05-18 | 2023-10-06 |
 | [Uno II](https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Uno II](https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg) | 2:15 | 2025-02-28 |  |
 | [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 | 2025-06-19 |  |
+| [UNSCARRED](https://open.spotify.com/track/4NCCOQLzOJxor8Jv7nTEGx) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [UNSCARRED](https://open.spotify.com/album/6czRU4J9bxMfsn2NFKPrId) | 3:01 | 2025-06-26 |  |
 | [Up Against It](https://open.spotify.com/track/4cwhDJiQ3vhbcxOapza2MB) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Up Against It](https://open.spotify.com/album/5qpNqPxwizc4AKeVjAPPpD) | 3:06 | 2023-01-20 | 2023-02-24 |
 | [Up and Comer](https://open.spotify.com/track/469d5BNae99knRggeaqA0n) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:46 | 2024-03-08 | 2024-03-09 |
 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 | 2025-03-28 |  |

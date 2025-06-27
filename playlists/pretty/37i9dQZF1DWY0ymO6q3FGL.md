@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ymO6q3FGL.md) - [plain]
 
 > All your favorite Minecraft tracks in one essential playlist – with music from every game, remixes, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,432 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,780 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

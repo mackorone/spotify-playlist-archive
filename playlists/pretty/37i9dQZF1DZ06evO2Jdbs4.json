@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 29670,
+  "num_followers": 29676,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAACtKF1cX+HqCDiw8CrDqAct",
+  "snapshot_id": "aFs8AAAAAAAk3ywBER3JmTdOP06u1aYj",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,26 @@
       "duration_ms": 199513,
       "name": "La Rosa - En Vivo",
       "url": "https://open.spotify.com/track/4X2AthO6hkjmkAjnkmdWOG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vive (En Vivo)",
+        "url": "https://open.spotify.com/album/2OxL3r7i2vU7e1YnHWkJfP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Jennifer Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/7FOLqljSYieJbPEpq3I5Qf"
+        }
+      ],
+      "duration_ms": 253186,
+      "name": "Vive - En Vivo",
+      "url": "https://open.spotify.com/track/4kZrZYBSENlxX3zouRM2zL"
     },
     {
       "added_at": null,
@@ -343,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vive",
-        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 254440,
-      "name": "Vive",
-      "url": "https://open.spotify.com/track/6ljSbHWwuUsDfOswRHlomj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/6VB3iQvl5osGIQyaJv7vqm"
       },
@@ -379,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cazador",
-        "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 174973,
-      "name": "Cantarle a Ella",
-      "url": "https://open.spotify.com/track/6LyX5OTvWeJP2Sio5BfuDg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cu-Cu-Cu Cumbia!",
         "url": "https://open.spotify.com/album/7lvrww6BQ2UadzpdQBoEVH"
       },
@@ -411,6 +399,22 @@
       "duration_ms": 228306,
       "name": "Otra Como T\u00fa",
       "url": "https://open.spotify.com/track/055pJYboqVEcECyQQnANFY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Cazador",
+        "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 174973,
+      "name": "Cantarle a Ella",
+      "url": "https://open.spotify.com/track/6LyX5OTvWeJP2Sio5BfuDg"
     },
     {
       "added_at": null,
@@ -447,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 201960,
+      "name": "Se Me Olvid\u00f3 Olvidarte",
+      "url": "https://open.spotify.com/track/08N4oh208BCKzkVfNV7FIQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Triste Recuerdo (En Vivo)",
         "url": "https://open.spotify.com/album/00iE6vaOpZFNBohCo83MiI"
       },
@@ -463,22 +483,6 @@
       "duration_ms": 274320,
       "name": "Triste Recuerdo - En Vivo",
       "url": "https://open.spotify.com/track/549yunuC38OgTpTfYzZpsW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 201960,
-      "name": "Se Me Olvid\u00f3 Olvidarte",
-      "url": "https://open.spotify.com/track/08N4oh208BCKzkVfNV7FIQ"
     },
     {
       "added_at": null,
@@ -519,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cazador",
-        "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "Como Dos Extra\u00f1os",
-      "url": "https://open.spotify.com/track/6zpbZkfhTuywWpHcJVYOm5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desvelado",
         "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
       },
@@ -547,6 +535,22 @@
       "duration_ms": 236466,
       "name": "Te Voy A Amar",
       "url": "https://open.spotify.com/track/7H9BJi45b1XJwYiC1vajfc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Cazador",
+        "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Como Dos Extra\u00f1os",
+      "url": "https://open.spotify.com/track/6zpbZkfhTuywWpHcJVYOm5"
     },
     {
       "added_at": null,
@@ -676,13 +680,13 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         },
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
         }
       ],
-      "duration_ms": 194874,
-      "name": "Separarnos - En Vivo",
-      "url": "https://open.spotify.com/track/2feKOqeb6bpYP8ocGMzgzF"
+      "duration_ms": 238387,
+      "name": "D\u00edgale - En Vivo",
+      "url": "https://open.spotify.com/track/60ETioGGVj5Tb8bk4SCuR5"
     },
     {
       "added_at": null,
@@ -703,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Desde las Vegas",
+        "url": "https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 296255,
+      "name": "Intro / Se Muri\u00f3 de Amor - En Vivo",
+      "url": "https://open.spotify.com/track/3Pwpg0uNftcanpfFwhcIlu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Siempre Pensando en Ti",
         "url": "https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH"
       },
@@ -719,18 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde las Vegas",
-        "url": "https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J"
+        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
+        "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
       },
       "artists": [
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 296255,
-      "name": "Intro / Se Muri\u00f3 de Amor - En Vivo",
-      "url": "https://open.spotify.com/track/3Pwpg0uNftcanpfFwhcIlu"
+      "duration_ms": 194874,
+      "name": "Separarnos - En Vivo",
+      "url": "https://open.spotify.com/track/2feKOqeb6bpYP8ocGMzgzF"
     },
     {
       "added_at": null,
@@ -751,42 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contra El Tiempo (En Vivo)",
-        "url": "https://open.spotify.com/album/0wpA6OJp9b0PycfxfSqcBQ"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 241560,
-      "name": "Contra El Tiempo - En Vivo",
-      "url": "https://open.spotify.com/track/4ngBpSBbgLDopT16rgOvOY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
-        "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        },
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 238387,
-      "name": "D\u00edgale - En Vivo",
-      "url": "https://open.spotify.com/track/60ETioGGVj5Tb8bk4SCuR5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dias de Ayer",
         "url": "https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg"
       },
@@ -799,6 +787,22 @@
       "duration_ms": 206213,
       "name": "Dias de Ayer",
       "url": "https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contra El Tiempo (En Vivo)",
+        "url": "https://open.spotify.com/album/0wpA6OJp9b0PycfxfSqcBQ"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 241560,
+      "name": "Contra El Tiempo - En Vivo",
+      "url": "https://open.spotify.com/track/4ngBpSBbgLDopT16rgOvOY"
     },
     {
       "added_at": null,
@@ -819,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ojal\u00e1 Te Animes (En Vivo)",
-        "url": "https://open.spotify.com/album/70WWJVjL1HfCied7kpwJwL"
-      },
-      "artists": [
-        {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 181906,
-      "name": "Ojal\u00e1 Te Animes - En Vivo",
-      "url": "https://open.spotify.com/track/6Qw7aGWA26qKYSO8qNUpAD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
         "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
       },
@@ -855,6 +839,26 @@
       "duration_ms": 182533,
       "name": "Sergio El Bailador - En Vivo",
       "url": "https://open.spotify.com/track/00xknCK33lxS24N0Nf4vaO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ojal\u00e1 Te Animes (En Vivo)",
+        "url": "https://open.spotify.com/album/70WWJVjL1HfCied7kpwJwL"
+      },
+      "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 181906,
+      "name": "Ojal\u00e1 Te Animes - En Vivo",
+      "url": "https://open.spotify.com/track/6Qw7aGWA26qKYSO8qNUpAD"
     },
     {
       "added_at": null,
@@ -891,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si No Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/6cxGEtFscvOD8xNYIMncQY"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 194021,
-      "name": "Si No Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/2XCYJ9eUSpPPNhgaGpKYP5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
         "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
       },
@@ -927,8 +915,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+        "name": "Si No Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/6cxGEtFscvOD8xNYIMncQY"
       },
       "artists": [
         {
@@ -936,9 +924,25 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 199973,
-      "name": "Quiero Decirte",
-      "url": "https://open.spotify.com/track/26ljxPYYQaVOMvTBxEifEG"
+      "duration_ms": 194021,
+      "name": "Si No Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/2XCYJ9eUSpPPNhgaGpKYP5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inesperadamente",
+        "url": "https://open.spotify.com/album/3t8iVE3ZSqgl7MRR3MfSYu"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 189618,
+      "name": "Inesperadamente",
+      "url": "https://open.spotify.com/track/4GAqqobic0kTtK3mfAP6Am"
     }
   ],
   "unique_name": "This Is Bobby Pulido",

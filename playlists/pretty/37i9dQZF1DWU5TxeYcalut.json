@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Azymuth",
-  "num_followers": 163595,
+  "num_followers": 163590,
   "original_name": "Jazz BR",
   "owner": {
     "name": "Spotify",
@@ -87,6 +87,22 @@
     {
       "added_at": "2025-06-06 23:34:12",
       "album": {
+        "name": "Zabumbe-Bum-A (Remasterizado)",
+        "url": "https://open.spotify.com/album/62BT0ckrJPXXb3CCEkRryj"
+      },
+      "artists": [
+        {
+          "name": "Hermeto Pascoal",
+          "url": "https://open.spotify.com/artist/5COT5dVPZHSd0ZFyCQCm7s"
+        }
+      ],
+      "duration_ms": 228173,
+      "name": "Suite norte, sul, leste, oeste",
+      "url": "https://open.spotify.com/track/4kGkjdNxSkx31r2c4HXnKs"
+    },
+    {
+      "added_at": "2025-06-06 23:34:12",
+      "album": {
         "name": "Hamilton de Holanda Trio - Live in NYC",
         "url": "https://open.spotify.com/album/3hhYEaJfx4hOOePCxlH3Yr"
       },
@@ -107,22 +123,6 @@
     {
       "added_at": "2025-06-06 23:34:12",
       "album": {
-        "name": "Zabumbe-Bum-A (Remasterizado)",
-        "url": "https://open.spotify.com/album/62BT0ckrJPXXb3CCEkRryj"
-      },
-      "artists": [
-        {
-          "name": "Hermeto Pascoal",
-          "url": "https://open.spotify.com/artist/5COT5dVPZHSd0ZFyCQCm7s"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "Suite norte, sul, leste, oeste",
-      "url": "https://open.spotify.com/track/4kGkjdNxSkx31r2c4HXnKs"
-    },
-    {
-      "added_at": "2025-06-06 23:34:12",
-      "album": {
         "name": "Bossa De Urso",
         "url": "https://open.spotify.com/album/3s8B4suX6KzEx4ApdR5gZO"
       },
@@ -135,22 +135,6 @@
       "duration_ms": 191181,
       "name": "O Maior Sol",
       "url": "https://open.spotify.com/track/63wRyjLypeKCjDIKZjdRM4"
-    },
-    {
-      "added_at": "2025-06-06 23:34:12",
-      "album": {
-        "name": "Fantasy '82",
-        "url": "https://open.spotify.com/album/2fvvYZrVlJWLnBfjih849T"
-      },
-      "artists": [
-        {
-          "name": "Azymuth",
-          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
-        }
-      ],
-      "duration_ms": 366596,
-      "name": "Fantasy '82",
-      "url": "https://open.spotify.com/track/4qTu0YIRBY2MBE4AUSpFt9"
     },
     {
       "added_at": "2025-06-06 23:34:12",
@@ -175,22 +159,18 @@
     {
       "added_at": "2025-06-06 23:34:12",
       "album": {
-        "name": "Casa de Bituca",
-        "url": "https://open.spotify.com/album/1JREFC3PoEC0VWaBIPzTQF"
+        "name": "Fantasy '82",
+        "url": "https://open.spotify.com/album/2fvvYZrVlJWLnBfjih849T"
       },
       "artists": [
         {
-          "name": "Hamilton De Holanda",
-          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
-        },
-        {
-          "name": "Hamilton De Holanda Quinteto",
-          "url": "https://open.spotify.com/artist/2skIu2semP0UdBPDstqYA6"
+          "name": "Azymuth",
+          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
         }
       ],
-      "duration_ms": 238406,
-      "name": "Clube da Esquina No. 2",
-      "url": "https://open.spotify.com/track/4vIRje27r7P2HMoZFGucH5"
+      "duration_ms": 366596,
+      "name": "Fantasy '82",
+      "url": "https://open.spotify.com/track/4qTu0YIRBY2MBE4AUSpFt9"
     },
     {
       "added_at": "2025-06-06 23:34:12",
@@ -207,6 +187,26 @@
       "duration_ms": 183106,
       "name": "Coisa N\u00ba 10",
       "url": "https://open.spotify.com/track/7IDT1CPTBq6B8zpgbqVZYG"
+    },
+    {
+      "added_at": "2025-06-06 23:34:12",
+      "album": {
+        "name": "Casa de Bituca",
+        "url": "https://open.spotify.com/album/1JREFC3PoEC0VWaBIPzTQF"
+      },
+      "artists": [
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        },
+        {
+          "name": "Hamilton De Holanda Quinteto",
+          "url": "https://open.spotify.com/artist/2skIu2semP0UdBPDstqYA6"
+        }
+      ],
+      "duration_ms": 238406,
+      "name": "Clube da Esquina No. 2",
+      "url": "https://open.spotify.com/track/4vIRje27r7P2HMoZFGucH5"
     },
     {
       "added_at": "2025-06-06 23:34:12",
@@ -299,42 +299,6 @@
     {
       "added_at": "2025-06-06 23:34:12",
       "album": {
-        "name": "Encontro",
-        "url": "https://open.spotify.com/album/5xxHuhQzVrlAvZqR0W3c9t"
-      },
-      "artists": [
-        {
-          "name": "Benjamim Taubkin",
-          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
-        },
-        {
-          "name": "Ivan Vilela",
-          "url": "https://open.spotify.com/artist/4Bt3JkryrujFrIJQKIPsrp"
-        }
-      ],
-      "duration_ms": 511760,
-      "name": "Sert\u00e3o",
-      "url": "https://open.spotify.com/track/3Z5j1r3OEWnv1cL8krW9AI"
-    },
-    {
-      "added_at": "2025-06-06 23:34:12",
-      "album": {
-        "name": "Bruma: Celebrating Milton Nascimento",
-        "url": "https://open.spotify.com/album/5SN0MQBy1iyHIjbYyl7J0e"
-      },
-      "artists": [
-        {
-          "name": "Antonio Adolfo",
-          "url": "https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9"
-        }
-      ],
-      "duration_ms": 296346,
-      "name": "Caxanga",
-      "url": "https://open.spotify.com/track/00zXlQzPHRh1rwq7v2CvC5"
-    },
-    {
-      "added_at": "2025-06-06 23:34:12",
-      "album": {
         "name": "Sess\u00f5es Selo Sesc #7: Jo\u00e3o Donato + Projeto Coisa Fina",
         "url": "https://open.spotify.com/album/0JM3ipLsc4OhCGknNlvPrg"
       },
@@ -359,6 +323,42 @@
     {
       "added_at": "2025-06-06 23:34:12",
       "album": {
+        "name": "Bruma: Celebrating Milton Nascimento",
+        "url": "https://open.spotify.com/album/5SN0MQBy1iyHIjbYyl7J0e"
+      },
+      "artists": [
+        {
+          "name": "Antonio Adolfo",
+          "url": "https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9"
+        }
+      ],
+      "duration_ms": 296346,
+      "name": "Caxanga",
+      "url": "https://open.spotify.com/track/00zXlQzPHRh1rwq7v2CvC5"
+    },
+    {
+      "added_at": "2025-06-06 23:34:12",
+      "album": {
+        "name": "Encontro",
+        "url": "https://open.spotify.com/album/5xxHuhQzVrlAvZqR0W3c9t"
+      },
+      "artists": [
+        {
+          "name": "Benjamim Taubkin",
+          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
+        },
+        {
+          "name": "Ivan Vilela",
+          "url": "https://open.spotify.com/artist/4Bt3JkryrujFrIJQKIPsrp"
+        }
+      ],
+      "duration_ms": 511760,
+      "name": "Sert\u00e3o",
+      "url": "https://open.spotify.com/track/3Z5j1r3OEWnv1cL8krW9AI"
+    },
+    {
+      "added_at": "2025-06-06 23:34:12",
+      "album": {
         "name": "Afro+sambas",
         "url": "https://open.spotify.com/album/2E4n2bzp40z1akpP3EmRZA"
       },
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-06-06 23:34:12",
       "album": {
+        "name": "A Ma\u00e7\u00e3",
+        "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
+      },
+      "artists": [
+        {
+          "name": "Carlos Buzelin",
+          "url": "https://open.spotify.com/artist/3LRki4zLTVbYzI6R1kwcsB"
+        }
+      ],
+      "duration_ms": 225184,
+      "name": "Porto Rio",
+      "url": "https://open.spotify.com/track/4cju6IU8utozhyEHYrPua9"
+    },
+    {
+      "added_at": "2025-06-06 23:34:12",
+      "album": {
         "name": "Sabor",
         "url": "https://open.spotify.com/album/3iFHfXFv7XfjZhC1cIjQo9"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 355012,
       "name": "Sabor",
       "url": "https://open.spotify.com/track/2wPJ5HMGp3TftsxL3puIMT"
-    },
-    {
-      "added_at": "2025-06-06 23:34:12",
-      "album": {
-        "name": "A Ma\u00e7\u00e3",
-        "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
-      },
-      "artists": [
-        {
-          "name": "Carlos Buzelin",
-          "url": "https://open.spotify.com/artist/3LRki4zLTVbYzI6R1kwcsB"
-        }
-      ],
-      "duration_ms": 225184,
-      "name": "Porto Rio",
-      "url": "https://open.spotify.com/track/4cju6IU8utozhyEHYrPua9"
     },
     {
       "added_at": "2025-06-06 23:34:12",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-06-06 23:34:12",
       "album": {
-        "name": "Pimenta - Tributo a Elis Regina",
-        "url": "https://open.spotify.com/album/0GD98aEIFGilBEC8Ld8qjL"
-      },
-      "artists": [
-        {
-          "name": "Carlos Malta",
-          "url": "https://open.spotify.com/artist/5gxBb5QQrdwYzKMtP3KlyM"
-        }
-      ],
-      "duration_ms": 90760,
-      "name": "Fascina\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/48atPa1H0RXxJeGe79D6IE"
-    },
-    {
-      "added_at": "2025-06-06 23:34:12",
-      "album": {
         "name": "Mano a Mano Trio Toca Jo\u00e3o Bosco",
         "url": "https://open.spotify.com/album/61W48IvRqMEkSGTmg6KbWP"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 244074,
       "name": "Cobra Criada",
       "url": "https://open.spotify.com/track/2w8B70jJCeITnYLDPaQiJh"
+    },
+    {
+      "added_at": "2025-06-06 23:34:12",
+      "album": {
+        "name": "Pimenta - Tributo a Elis Regina",
+        "url": "https://open.spotify.com/album/0GD98aEIFGilBEC8Ld8qjL"
+      },
+      "artists": [
+        {
+          "name": "Carlos Malta",
+          "url": "https://open.spotify.com/artist/5gxBb5QQrdwYzKMtP3KlyM"
+        }
+      ],
+      "duration_ms": 90760,
+      "name": "Fascina\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/48atPa1H0RXxJeGe79D6IE"
     },
     {
       "added_at": "2025-06-06 23:34:12",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2025-06-06 23:34:12",
       "album": {
+        "name": "Reviravolta",
+        "url": "https://open.spotify.com/album/7gyPUqSn2UEK5WZ9NoYWFb"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9li Silva",
+          "url": "https://open.spotify.com/artist/4jio39DG0XFxnaScND06to"
+        },
+        {
+          "name": "Z\u00e9li Silva Quarteto",
+          "url": "https://open.spotify.com/artist/5X8d8k9Va0BBjVTRUFAn3E"
+        }
+      ],
+      "duration_ms": 266226,
+      "name": "Novidade",
+      "url": "https://open.spotify.com/track/1IsM9rXpKG4AXBBu1u5RfP"
+    },
+    {
+      "added_at": "2025-06-06 23:34:12",
+      "album": {
         "name": "CasaBrancaBrinCadeira",
         "url": "https://open.spotify.com/album/3tqXcipTksGPAWJbqVvN48"
       },
@@ -1435,26 +1455,6 @@
     {
       "added_at": "2025-06-06 23:34:12",
       "album": {
-        "name": "Reviravolta",
-        "url": "https://open.spotify.com/album/7gyPUqSn2UEK5WZ9NoYWFb"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9li Silva",
-          "url": "https://open.spotify.com/artist/4jio39DG0XFxnaScND06to"
-        },
-        {
-          "name": "Z\u00e9li Silva Quarteto",
-          "url": "https://open.spotify.com/artist/5X8d8k9Va0BBjVTRUFAn3E"
-        }
-      ],
-      "duration_ms": 266226,
-      "name": "Novidade",
-      "url": "https://open.spotify.com/track/1IsM9rXpKG4AXBBu1u5RfP"
-    },
-    {
-      "added_at": "2025-06-06 23:34:12",
-      "album": {
         "name": "Can\u00e7\u00e3o da Odalisca",
         "url": "https://open.spotify.com/album/1OZtzAd1bGvkgwI4gz0LCh"
       },
@@ -1467,6 +1467,22 @@
       "duration_ms": 365120,
       "name": "Can\u00e7\u00e3o da Odalisca",
       "url": "https://open.spotify.com/track/7m81jgiqOawSB9F7eP8wpn"
+    },
+    {
+      "added_at": "2025-06-06 23:34:12",
+      "album": {
+        "name": "Heran\u00e7a",
+        "url": "https://open.spotify.com/album/3o5Z7YO1rwBzAT04rvVdtV"
+      },
+      "artists": [
+        {
+          "name": "Henrique Mota",
+          "url": "https://open.spotify.com/artist/44Rvh9A69zR6MtWxx3UGhI"
+        }
+      ],
+      "duration_ms": 407033,
+      "name": "Influ\u00eancia",
+      "url": "https://open.spotify.com/track/6uqoJ3moFgpHqeDAmWDLTv"
     },
     {
       "added_at": "2025-06-06 23:34:12",
@@ -1503,22 +1519,6 @@
       "duration_ms": 266538,
       "name": "Poinciana",
       "url": "https://open.spotify.com/track/53wgkplpSRXUvtW3YQscTc"
-    },
-    {
-      "added_at": "2025-06-06 23:34:12",
-      "album": {
-        "name": "Heran\u00e7a",
-        "url": "https://open.spotify.com/album/3o5Z7YO1rwBzAT04rvVdtV"
-      },
-      "artists": [
-        {
-          "name": "Henrique Mota",
-          "url": "https://open.spotify.com/artist/44Rvh9A69zR6MtWxx3UGhI"
-        }
-      ],
-      "duration_ms": 407033,
-      "name": "Influ\u00eancia",
-      "url": "https://open.spotify.com/track/6uqoJ3moFgpHqeDAmWDLTv"
     },
     {
       "added_at": "2025-06-06 23:34:12",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-06-06 23:34:12",
       "album": {
-        "name": "Funktastic",
-        "url": "https://open.spotify.com/album/56R5wcChDUvvcZGwF56GS0"
-      },
-      "artists": [
-        {
-          "name": "Hammond Grooves",
-          "url": "https://open.spotify.com/artist/5m68N3CcLGw2VOzMrqlrhO"
-        }
-      ],
-      "duration_ms": 355961,
-      "name": "Funktastic",
-      "url": "https://open.spotify.com/track/1wpmyzpjVRNxEjShO5Aymz"
-    },
-    {
-      "added_at": "2025-06-06 23:34:12",
-      "album": {
         "name": "Factotum",
         "url": "https://open.spotify.com/album/1KgnJrYa8yeHxILCZT8xS0"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 396106,
       "name": "Factotum",
       "url": "https://open.spotify.com/track/0u59iLhNCn8r6lKuENwSVz"
+    },
+    {
+      "added_at": "2025-06-06 23:34:12",
+      "album": {
+        "name": "Funktastic",
+        "url": "https://open.spotify.com/album/56R5wcChDUvvcZGwF56GS0"
+      },
+      "artists": [
+        {
+          "name": "Hammond Grooves",
+          "url": "https://open.spotify.com/artist/5m68N3CcLGw2VOzMrqlrhO"
+        }
+      ],
+      "duration_ms": 355961,
+      "name": "Funktastic",
+      "url": "https://open.spotify.com/track/1wpmyzpjVRNxEjShO5Aymz"
     },
     {
       "added_at": "2025-06-06 23:34:12",
@@ -1775,30 +1775,6 @@
     {
       "added_at": "2025-06-06 23:34:12",
       "album": {
-        "name": "Mirada Pervertida (Bossa Guitar)",
-        "url": "https://open.spotify.com/album/1FOofSDQ5Vcy7LF5TS3ZPP"
-      },
-      "artists": [
-        {
-          "name": "Rio Bossa Trio",
-          "url": "https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu"
-        },
-        {
-          "name": "Bossasonic",
-          "url": "https://open.spotify.com/artist/1rMrvKch63UbSVbU3DwlLv"
-        },
-        {
-          "name": "Taryn Szpilman",
-          "url": "https://open.spotify.com/artist/0ciHYgiBCJR0vpWalvaMKC"
-        }
-      ],
-      "duration_ms": 218174,
-      "name": "Nadie Tiene El Alma Pura",
-      "url": "https://open.spotify.com/track/4GxOPQmmCLZ393WupYhhlQ"
-    },
-    {
-      "added_at": "2025-06-06 23:34:12",
-      "album": {
         "name": "Boa Not\u00edcia",
         "url": "https://open.spotify.com/album/23rv5VhO6TwM24YCe74SYj"
       },
@@ -1831,6 +1807,30 @@
       "duration_ms": 261073,
       "name": "L\u00e2mina",
       "url": "https://open.spotify.com/track/78lwAylCLHLfhC21j96FGt"
+    },
+    {
+      "added_at": "2025-06-06 23:34:12",
+      "album": {
+        "name": "Mirada Pervertida (Bossa Guitar)",
+        "url": "https://open.spotify.com/album/1FOofSDQ5Vcy7LF5TS3ZPP"
+      },
+      "artists": [
+        {
+          "name": "Rio Bossa Trio",
+          "url": "https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu"
+        },
+        {
+          "name": "Bossasonic",
+          "url": "https://open.spotify.com/artist/1rMrvKch63UbSVbU3DwlLv"
+        },
+        {
+          "name": "Taryn Szpilman",
+          "url": "https://open.spotify.com/artist/0ciHYgiBCJR0vpWalvaMKC"
+        }
+      ],
+      "duration_ms": 218174,
+      "name": "Nadie Tiene El Alma Pura",
+      "url": "https://open.spotify.com/track/4GxOPQmmCLZ393WupYhhlQ"
     },
     {
       "added_at": "2025-06-06 23:34:12",

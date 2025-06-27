@@ -2,9 +2,9 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші пісні сьогодення\. Обкладинка: IVAN LIULENOV & DAMNITSKYI
+> Найпопулярніші пісні сьогодення\. Обкладинка: Шугар
 
-130 songs - 6 hr 26 min
+131 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [ВИМОЛИВ](https://open.spotify.com/track/50TDvOruXEGPPgyfn0jWck) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q), [Evgeny Khmara](https://open.spotify.com/artist/1zJK2aIQTlvLYcq7qrtUc3) | [ВИМОЛИВ](https://open.spotify.com/album/6eKUX8WOlayrj5zTWuZmRc) | 3:32 | 2025-03-13 |  |
 | [Врубай](https://open.spotify.com/track/41hRWgoaw67f4VGMbNSfoZ) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Врубай](https://open.spotify.com/album/2mVqd1fBBrN4aFQ083mB9X) | 2:30 | 2024-11-04 |  |
 | [Втомлена стріт](https://open.spotify.com/track/26802wfiqGepM44lMErxuF) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [Втомлена стріт](https://open.spotify.com/album/5maWszGHyI4ZZiFNj5KByk) | 3:17 | 2024-09-19 | 2024-10-29 |
-| [Відбита](https://open.spotify.com/track/7up5yrdcA43KBEAnKFf1HB) | [Шугар](https://open.spotify.com/artist/5RRa1AAPROhlvdJHweQdWI) | [Відбита](https://open.spotify.com/album/40Lkvs73YMDRjAy7cu0Jm9) | 2:46 | 2025-06-23 |  |
+| [Відбита](https://open.spotify.com/track/7up5yrdcA43KBEAnKFf1HB) | [Шугар](https://open.spotify.com/artist/5RRa1AAPROhlvdJHweQdWI) | [Відбита](https://open.spotify.com/album/40Lkvs73YMDRjAy7cu0Jm9) | 2:46 | 2025-06-23 | 2025-06-27 |
 | [Відриваючись](https://open.spotify.com/track/0vByMmR3Y8MBorEEE5Pmie) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Відриваючись](https://open.spotify.com/album/2nUr5oj4NmZsvTK6u3ug3g) | 2:29 | 2024-06-27 |  |
 | [Гаї шумлять \(1913\)](https://open.spotify.com/track/4bZDub9rMMoJqyLHSlZUgu) | [Пиріг і Батіг](https://open.spotify.com/artist/72WPri6uCSfr6l9WdgZ2D6) | [Поетичний](https://open.spotify.com/album/1kMqjTYQPAw2fTDdmCIY72) | 2:13 | 2024-06-27 |  |
 | [Грушка](https://open.spotify.com/track/3nGKzV2k4C3BcbLxeydqHr) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Грушка](https://open.spotify.com/album/387Yb2P64xMmoqQnGaYE6g) | 2:57 | 2025-04-24 |  |
@@ -105,6 +105,7 @@
 | [Ніченька](https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9) | [OKS](https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4) | [Ніченька](https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT) | 3:09 | 2024-06-27 | 2025-05-09 |
 | [О, Панно!](https://open.spotify.com/track/1eiBQEjw6BgDiD8lyJT0HE) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [The Вуса](https://open.spotify.com/artist/6W817ZKFLn9Mu3vY56FkpH), [Дурнєв](https://open.spotify.com/artist/0U7GOwja5bDKwD4LwayB16), [Леви На Джипі](https://open.spotify.com/artist/2W23I9OgbcfinS9qOLKLpW), [Куцевалов](https://open.spotify.com/artist/5C8scyH0BxWq3CZBZm79OF) | [О, Панно!](https://open.spotify.com/album/59Tat8dLMpsK6MvVmg0G5Y) | 2:44 | 2024-06-27 | 2024-08-06 |
 | [Обиратиму себе](https://open.spotify.com/track/5MR4WYVpjpvjjpsjRwdwxJ) | [MELOVIN](https://open.spotify.com/artist/4nym9MDEPnWmPfuWwsyKeL), [iSKra](https://open.spotify.com/artist/2eaguEJBVEQVZhim3JryHD) | [Обиратиму себе](https://open.spotify.com/album/12QG9ZiJbsT0kHEsks4Ylm) | 3:12 | 2024-09-30 | 2025-02-18 |
+| [Олєг](https://open.spotify.com/track/40y6wpbyTXB2DGzaBrLC7f) | [Шугар](https://open.spotify.com/artist/5RRa1AAPROhlvdJHweQdWI) | [Олєг](https://open.spotify.com/album/6lOzQGmj0BlD3fz5YDY3o2) | 2:57 | 2025-06-26 |  |
 | [Особистий рай](https://open.spotify.com/track/75LJxqoSy5MSM2xCFzQp8F) | [Геля Зозуля](https://open.spotify.com/artist/5NR8eODM4CQ2X6rBuGpZ2B), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Особистий рай](https://open.spotify.com/album/1O8gbNfK8cIQ0DT0RK9KzY) | 3:05 | 2024-11-04 |  |
 | [Повільно](https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Повільно](https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv) | 2:46 | 2024-06-27 | 2025-01-31 |
 | [Погляд](https://open.spotify.com/track/66Xj2OpnDALdW0G509b9yY) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog), [SOBOL'](https://open.spotify.com/artist/2tzrAdVhSe0qIQBpedBCHh) | [Погляд](https://open.spotify.com/album/2U3ecGQPqMwXz4vSOps8Td) | 2:56 | 2024-06-27 | 2024-12-13 |

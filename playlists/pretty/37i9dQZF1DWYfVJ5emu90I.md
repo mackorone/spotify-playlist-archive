@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,083 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,108 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 37 | [Don't](https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Don't](https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h) | 3:02 |
 | 38 | [POP KILLERS \(feat\. ralph\)](https://open.spotify.com/track/6tjAXcxgDNtkvaXFUXDUQC) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [POP KILLERS \(feat\. ralph\)](https://open.spotify.com/album/06l8AppEOLd6MaxxqAcLf5) | 2:39 |
 | 39 | [Hot Rodder](https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Hot Rodder](https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85) | 2:57 |
-| 40 | [EDO](https://open.spotify.com/track/7qdVue4d2eL78VYdl4BXdZ) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Chawalit](https://open.spotify.com/album/1QpwzysSvWVFZR3Lkr2lPH) | 3:00 |
-| 41 | [Money Trees \(feat\. eyden & Kohjiya\)](https://open.spotify.com/track/2JaEYhyKiufEazcC51QhWC) | [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Money Trees \(feat\. eyden & Kohjiya\)](https://open.spotify.com/album/4HZHWJbiZt59LEGbBKPoph) | 3:23 |
+| 40 | [Money Trees \(feat\. eyden & Kohjiya\)](https://open.spotify.com/track/2JaEYhyKiufEazcC51QhWC) | [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Money Trees \(feat\. eyden & Kohjiya\)](https://open.spotify.com/album/4HZHWJbiZt59LEGbBKPoph) | 3:23 |
+| 41 | [EDO](https://open.spotify.com/track/7qdVue4d2eL78VYdl4BXdZ) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Chawalit](https://open.spotify.com/album/1QpwzysSvWVFZR3Lkr2lPH) | 3:00 |
 | 42 | [Very Very Rare](https://open.spotify.com/track/6bJZtj9x7G9VNVB2VslkQJ) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez) | [New Stars Swag](https://open.spotify.com/album/78MusSj7gCs8daCm2CRfS1) | 3:16 |
 | 43 | [SUSUME \(feat\. NENE & JP THE WAVY\)](https://open.spotify.com/track/7j6oAHpOU0k0sszlMK8ioQ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [SUSUME \(feat\. NENE & JP THE WAVY\)](https://open.spotify.com/album/4zUGmG0XwbpEw67ArG1oFh) | 3:18 |
 | 44 | [Psycho](https://open.spotify.com/track/2IVuU4LByPrwUky12rk3Bw) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3) | [Psycho](https://open.spotify.com/album/5lnX2L4TLYkW4e57oGOdI1) | 2:37 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 46 | [For Real \(feat\. Fuji Taito & SIMON\)](https://open.spotify.com/track/2zxHqRUVGPbngtOWdzwqSE) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [Fuji Taito](https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f), [SIMON](https://open.spotify.com/artist/6CcuEcSETRxpybrEt14OSx) | [Type 1 Diabetes](https://open.spotify.com/album/5WGu4r5gfIA5sZeVQGSyg8) | 3:17 |
 | 47 | [Rainy Day](https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM) | [D3adStock](https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd) | [Rainy Day](https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9) | 1:50 |
 | 48 | [RAKURAI](https://open.spotify.com/track/1w062ZFlKViaWMFkbxJRF3) | [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [GUNJO](https://open.spotify.com/album/4B1SD47qfhR8pDJIPd97V6) | 2:44 |
-| 49 | [FEEL THE RAIN \(feat\. Ralph\)](https://open.spotify.com/track/6ZB93YnsCgJjfxQ6cCwVhS) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [BRAIN RUSH](https://open.spotify.com/album/7mL8jpozxu6trsgcNC76jW) | 3:27 |
-| 50 | [Do this shit 4 me](https://open.spotify.com/track/5HpyU3XaO7jvoF1sJLWsfJ) | [CFN MALIK](https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX) | [Do this shit 4 me](https://open.spotify.com/album/5ZxOT7lhdOKSDa0AMYJchE) | 2:31 |
+| 49 | [Do this shit 4 me](https://open.spotify.com/track/5HpyU3XaO7jvoF1sJLWsfJ) | [CFN MALIK](https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX) | [Do this shit 4 me](https://open.spotify.com/album/5ZxOT7lhdOKSDa0AMYJchE) | 2:31 |
+| 50 | [FEEL THE RAIN \(feat\. Ralph\)](https://open.spotify.com/track/6ZB93YnsCgJjfxQ6cCwVhS) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [BRAIN RUSH](https://open.spotify.com/album/7mL8jpozxu6trsgcNC76jW) | 3:27 |
 
 Snapshot ID: `aFtg/wAAAACVmvxvPphoEF9P6twCwyAo`

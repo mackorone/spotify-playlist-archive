@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Nicole Moudaber
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,799 likes - 120 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,839 likes - 120 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 25 | [Ping Pong](https://open.spotify.com/track/1Ow0gWt8pNrjPUZUrm7v40) | [Alex Farell](https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I) | [Ping Pong](https://open.spotify.com/album/1AQo3goanwNgSTVf6nhKUL) | 2:58 |
 | 26 | [Love Is A Drug](https://open.spotify.com/track/7C5S4bJtm48HJDL0bAjaYs) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Charlie Sparks \(UK\)](https://open.spotify.com/artist/1lsjQdGrRe2D1nmvCVB7JZ) | [Love Is A Drug](https://open.spotify.com/album/5riiWgRqgHk8QzhuufwyBR) | 3:07 |
 | 27 | [Explorer](https://open.spotify.com/track/5yIH0jItIzbjKLFg5RfH4n) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Explorer](https://open.spotify.com/album/3Z61UlrZhASq7RPyDVu4Sh) | 4:12 |
-| 28 | [Loops & Tings 2025](https://open.spotify.com/track/43FEfefyXyK4SHeW6eCDBX) | [Jens](https://open.spotify.com/artist/1ijg7R0Fw3gbM6aHov3TXn), [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Loops & Tings 2025](https://open.spotify.com/album/0xJtvLoJkPD2KjZaDmN2SA) | 5:52 |
+| 28 | [Loops & Tings 2025](https://open.spotify.com/track/43FEfefyXyK4SHeW6eCDBX) | [Jens](https://open.spotify.com/artist/3KiUu3DLFZzSXGvrNBHRAu), [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Loops & Tings 2025](https://open.spotify.com/album/0xJtvLoJkPD2KjZaDmN2SA) | 5:52 |
 | 29 | [Nothing Left To Say](https://open.spotify.com/track/0wciYagUZgO1F13ZddNdgA) | [Meg McHugh](https://open.spotify.com/artist/3IrrhCEglQLNuayeXNP6MV) | [Nothing Left To Say](https://open.spotify.com/album/7xCawKKMBUazkMpOoQXHKC) | 2:42 |
 | 30 | [Party Don’t Stop](https://open.spotify.com/track/0wHvrVW47PQORaLEwjsGup) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Ad\-Apt](https://open.spotify.com/artist/4IjVi2fLGbBTpnxXfGoatD) | [Party Don’t Stop](https://open.spotify.com/album/4edYdG2DNar0u4Yi2GdjAy) | 3:21 |
 | 31 | [AERO](https://open.spotify.com/track/0yoiOfWyakMBJ6JSAjUPmo) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [AERO](https://open.spotify.com/album/5mUOeHNB77gCeusu63A5zJ) | 3:22 |

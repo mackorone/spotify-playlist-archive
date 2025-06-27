@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > ¡Mujeres mexicanas a todo volumen! Yeri Mua en portada 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,549 likes - 65 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,579 likes - 65 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,14 +60,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 50 | [Marea](https://open.spotify.com/track/2yoSFkWsRSXdIhcix9JfMI) | [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [Marea](https://open.spotify.com/album/0O69TYjXVjDbS5o9WWdv5i) | 3:59 |
 | 51 | [Qué Más Da](https://open.spotify.com/track/50Pc5KFPuVOTP3ME6bkshQ) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Temporadas](https://open.spotify.com/album/18bGucE5pro0qxUak7XZjA) | 3:33 |
 | 52 | [Circo](https://open.spotify.com/track/7dWMsrAFKOzuluyKYgz6dG) | [Kenya Saiz](https://open.spotify.com/artist/1t17ROTZ0TP1T8NxDhLkfB) | [Circo](https://open.spotify.com/album/2SOUnVPONGuEtPVjRRhmsn) | 2:27 |
-| 53 | [lo que pudo ser](https://open.spotify.com/track/7IlzDvXBqlJJm1cXmESoxl) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u), [Eduardo León](https://open.spotify.com/artist/0UDKLndtK8FHdiUN92bMds) | [lo que pudo ser](https://open.spotify.com/album/2iZtp0joGUHtEmIVT7oRyi) | 3:39 |
-| 54 | [Mi Gente](https://open.spotify.com/track/4svWjx3gEgpeYw9u4ljl6E) | [Mare Advertencia](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Mi Gente](https://open.spotify.com/album/0xrJVYEH13WdLtW9gqgpnV) | 2:52 |
+| 53 | [Mi Gente](https://open.spotify.com/track/4svWjx3gEgpeYw9u4ljl6E) | [Mare Advertencia](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Mi Gente](https://open.spotify.com/album/0xrJVYEH13WdLtW9gqgpnV) | 2:52 |
+| 54 | [lo que pudo ser](https://open.spotify.com/track/7IlzDvXBqlJJm1cXmESoxl) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u), [Eduardo León](https://open.spotify.com/artist/0UDKLndtK8FHdiUN92bMds) | [lo que pudo ser](https://open.spotify.com/album/2iZtp0joGUHtEmIVT7oRyi) | 3:39 |
 | 55 | [NENA FINA](https://open.spotify.com/track/6pXXIesYJq1Tr5rt1H0sRG) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK) | [25 \(B\)](https://open.spotify.com/album/77swNZiaINOqmwrIFffpvi) | 3:49 |
 | 56 | [Yo Pienso Todo el Tiempo](https://open.spotify.com/track/6YjxQ9MVtFsLewvreZXHxq) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [Yo Pienso Todo el Tiempo](https://open.spotify.com/album/50H7MyA9yqIorR7JiwvOaM) | 3:02 |
 | 57 | [Veneno](https://open.spotify.com/track/7GPJwGLRZvt0MaQvuB7sv5) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [SAGA](https://open.spotify.com/album/72NVbldrz1OwqbKUqv0kbq) | 2:50 |
-| 58 | [Vórtice 333](https://open.spotify.com/track/0XuyxnE04jvfOou9qiOoWw) | [ERRE TRES](https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb), [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM) | [SUEÑOS](https://open.spotify.com/album/7cuMNHqR2QsVrXv8QeEDBv) | 3:00 |
-| 59 | [K.O.S.](https://open.spotify.com/track/6jaQeKMc3YkRuRmqgClfig) | [Las Fokin Biches](https://open.spotify.com/artist/57PVit02jqmX3h5SL0XnHa) | [K.O.S.](https://open.spotify.com/album/31hsUj3XcDLtFEhMjsm8JM) | 2:43 |
-| 60 | [Atravesar](https://open.spotify.com/track/4ZQayHfIOdtvi2jYPO90XC) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Atravesar](https://open.spotify.com/album/5lDzwFabeBOxYtLIB2ZYIS) | 3:45 |
+| 58 | [Atravesar](https://open.spotify.com/track/4ZQayHfIOdtvi2jYPO90XC) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Atravesar](https://open.spotify.com/album/5lDzwFabeBOxYtLIB2ZYIS) | 3:45 |
+| 59 | [Vórtice 333](https://open.spotify.com/track/0XuyxnE04jvfOou9qiOoWw) | [ERRE TRES](https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb), [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM) | [SUEÑOS](https://open.spotify.com/album/7cuMNHqR2QsVrXv8QeEDBv) | 3:00 |
+| 60 | [K.O.S.](https://open.spotify.com/track/6jaQeKMc3YkRuRmqgClfig) | [Las Fokin Biches](https://open.spotify.com/artist/57PVit02jqmX3h5SL0XnHa) | [K.O.S.](https://open.spotify.com/album/31hsUj3XcDLtFEhMjsm8JM) | 2:43 |
 | 61 | [Yugular](https://open.spotify.com/track/625BTeiei7heRnOqwwDysv) | [Cuauh](https://open.spotify.com/artist/3nVY2YFUkLFklG2qTfbPVc), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [Yugular](https://open.spotify.com/album/6ZM0mrJlNSnvDKe1MS7TRm) | 3:35 |
 | 62 | [mentira </3](https://open.spotify.com/track/7wolOtNrxn9f2MU4NJ1tV2) | [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA) | [123 HYPE!!!](https://open.spotify.com/album/2wCOagrfilkWKnlzukDI9r) | 2:16 |
 | 63 | [La Saga](https://open.spotify.com/track/0ao7cGrjRmABcZOfRjNetB) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [La Cuervo](https://open.spotify.com/artist/2OZl4ZTJKKT7aSXfFGlEyZ), [Ana MC](https://open.spotify.com/artist/2EkkbCt71bH9XvmgZY5ZBX) | [La Saga](https://open.spotify.com/album/1IkNmSv4OaOKboGY6eIkXS) | 4:41 |

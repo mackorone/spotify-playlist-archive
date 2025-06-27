@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-910 songs - 1 day 15 hr 29 min
+911 songs - 1 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [I‘m so tired…](https://open.spotify.com/track/3IMseMABkQy4BLMRwyQQZD) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [I‘m so tired…](https://open.spotify.com/album/0jzhFCgAacGLOgmhK1Ey36) | 2:38 | 2024-09-20 | 2025-05-05 |
 | [Jump](https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC) | [Jump](https://open.spotify.com/album/6RyWbtser6LYefUpnemhIO) | 2:33 | 2024-05-26 | 2024-07-05 |
 | [June](https://open.spotify.com/track/1xfj8i1OvEhqJmWncOV2d5) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb) | [June](https://open.spotify.com/album/5R8lqTv6VUfTgPyuA3vScp) | 2:43 | 2024-04-29 | 2024-08-26 |
+| [Jungle](https://open.spotify.com/track/4OjdjSC3daLXsixkIU4FGM) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD) | [Jungle](https://open.spotify.com/album/4KKZTPFuhaYhUVwbTz7xBa) | 2:28 | 2025-06-26 |  |
 | [Just For A Moment](https://open.spotify.com/track/2u2crwMRf9iUvo4JR89Cax) | [SAINT.](https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK) | [Just For A Moment](https://open.spotify.com/album/2ZL28OmYk450SU38r3M6PQ) | 2:26 | 2024-07-30 |  |
 | [Just Friends](https://open.spotify.com/track/0UPIhq9mzhuSfQEPsjphii) | [Summer Martin](https://open.spotify.com/artist/3ofHJOpy368pHMZB5QeCS9), [RÆ](https://open.spotify.com/artist/4Tyf5eR5dtPiPFM2WaME4h) | [Just Friends](https://open.spotify.com/album/3wj3N7vSiBTuqcm1tX2idv) | 2:37 | 2025-03-07 | 2025-06-03 |
 | [Just Let Go](https://open.spotify.com/track/1KBsbmPy8GLz90TTvTaoSU) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Just Let Go](https://open.spotify.com/album/4bchuimjnR9IeoeNZMAQoq) | 2:17 | 2023-09-22 | 2024-10-09 |

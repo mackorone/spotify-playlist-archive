@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Autumn Rain",
+        "url": "https://open.spotify.com/album/1B5lpPLBPgHI0lYUdIiSA6"
+      },
+      "artists": [
+        {
+          "name": "Rain Inc",
+          "url": "https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Autumn Rain",
+      "url": "https://open.spotify.com/track/3kWteyOjUnjJbm8W78KuLO"
+    },
+    {
+      "album": {
         "name": "Bajo el paraguas",
         "url": "https://open.spotify.com/album/3Ic7NfvpRKX8lpksj0pqiQ"
       },
@@ -178,7 +196,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 174000,
       "name": "Calmed By The Rain",
       "url": "https://open.spotify.com/track/1tYJSbl1q93xx9eQrrzsVF"

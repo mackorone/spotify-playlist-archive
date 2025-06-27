@@ -4,7 +4,7 @@
 
 > The Soca hits we all love from back then til right now\. Cover: Kes
 
-378 songs - 20 hr 36 min
+379 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Hello](https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob) | 3:18 | 2021-08-26 | 2022-02-27 |
 | [Hello](https://open.spotify.com/track/3cmdQZ2yzUjtKTedabLjqu) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/48nubh7FCkPvIG8DqHdLbm) | 3:18 | 2023-02-21 | 2025-06-06 |
 | [Hello \(Iced Heart Riddim\)](https://open.spotify.com/track/6coofViEiuNH9OT1T1piL1) | [muddy](https://open.spotify.com/artist/1sjktWGrxErKEMVpB6QKgM) | [Hello \(Iced Heart Riddim\)](https://open.spotify.com/album/6zVypAXMxiDbknsJ5dK0N4) | 2:54 | 2025-06-20 |  |
+| [Hi & Bye](https://open.spotify.com/track/5gJIue3f58TO6RHRxEAIgJ) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [MSK MUSIK](https://open.spotify.com/artist/4aTixGagm92W36uvmXVhxo) | [Hi & Bye](https://open.spotify.com/album/1r6F0umKEM8d10C8L4Sa3y) | 4:07 | 2025-06-20 |  |
 | [High Mass](https://open.spotify.com/track/4JESRfIwcr6xACaP4lUgeH) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Best of J.W\. Colllections](https://open.spotify.com/album/35QG2dkD2Bu1FksvC3nF2T) | 1:24 | 2021-08-26 | 2022-02-25 |
 | [Higher Than High](https://open.spotify.com/track/6fRxxDIFHyBO1sAJFrYPHm) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [The Book of Angels](https://open.spotify.com/album/2a5ZeVoFt7vhiHqtoPBp40) | 5:42 | 2021-08-26 | 2022-02-25 |
 | [Holiday](https://open.spotify.com/track/47n2t64cDRtk4SHJ6j5DQU) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU), [Jus Jay King](https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V), [Nelieux](https://open.spotify.com/artist/0gMDsodMcZUuum1iXNMVge) | [Black Keys Riddim](https://open.spotify.com/album/22UudBXkxd66PvwCHPLA3g) | 2:16 | 2023-07-11 | 2024-07-25 |
@@ -237,7 +238,7 @@
 | [Oh Yay](https://open.spotify.com/track/69vJqBlRXJZFhhwl6l4Qln) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Awakening](https://open.spotify.com/album/57CnbcO4WG5ZhmR41jpUmB) | 3:31 | 2023-02-21 | 2025-06-06 |
 | [Ola](https://open.spotify.com/track/4zqFb7uP9rcYmrg5sjxzp3) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Awakening](https://open.spotify.com/album/57CnbcO4WG5ZhmR41jpUmB) | 3:06 | 2023-02-21 | 2025-06-06 |
 | [Ola](https://open.spotify.com/track/60pyY398ZW4YAt2onJXy09) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Awakening](https://open.spotify.com/album/4mulptpng0JbhJANmFo9x4) | 3:06 | 2021-08-26 | 2022-02-25 |
-| [Ou Dou](https://open.spotify.com/track/0hx2SCwOW2EdYduP1UhMsO) | [Shemmy J](https://open.spotify.com/artist/4FqeF4EINBD7lE3ulmExh2), [edwin](https://open.spotify.com/artist/5ju2xyIcFLh5T5vEeTkPBT) | [Ou Dou](https://open.spotify.com/album/0eyr7aKHXVnThe3r8pZD9k) | 2:40 | 2025-06-05 |  |
+| [Ou Dou](https://open.spotify.com/track/0hx2SCwOW2EdYduP1UhMsO) | [Shemmy J](https://open.spotify.com/artist/4FqeF4EINBD7lE3ulmExh2), [edwin](https://open.spotify.com/artist/5ju2xyIcFLh5T5vEeTkPBT) | [Ou Dou](https://open.spotify.com/album/0eyr7aKHXVnThe3r8pZD9k) | 2:40 | 2025-06-05 | 2025-06-27 |
 | [Out and Bad](https://open.spotify.com/track/2ycagZcHEqX3rPC44TIf5P) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Out and Bad](https://open.spotify.com/album/3yOplnxQdhPRwwv2IXH9kJ) | 3:24 | 2022-02-24 | 2025-06-02 |
 | [Overdue](https://open.spotify.com/track/2WrTWu4NveSrw7rrzP8rjs) | [Erphaan Alves](https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w) | [Overdue](https://open.spotify.com/album/4FegSpedKbzfPkmhjUbzd3) | 2:57 | 2021-08-26 |  |
 | [P.A.L.A.N.C.E](https://open.spotify.com/track/3gQxrXakugcKhPfLaRUQuQ) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki) | [For the Culture](https://open.spotify.com/album/71YAE4VCS9kDVKbRr4jIE6) | 2:03 | 2021-08-26 | 2022-02-25 |

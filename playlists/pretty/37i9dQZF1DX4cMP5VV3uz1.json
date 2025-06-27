@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 163985,
+  "num_followers": 163997,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,30 @@
     {
       "added_at": "2025-06-12 23:00:11",
       "album": {
+        "name": "Yeah Yeah",
+        "url": "https://open.spotify.com/album/2p9GM8iVsMDpgDk2dQSPoK"
+      },
+      "artists": [
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        },
+        {
+          "name": "Dave Aud\u00e9",
+          "url": "https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "Yeah Yeah",
+      "url": "https://open.spotify.com/track/3cYTnUooCbwikxo74eKc5Q"
+    },
+    {
+      "added_at": "2025-06-12 23:00:11",
+      "album": {
         "name": "Stop & Search",
         "url": "https://open.spotify.com/album/1tcqS2dDfgCNfSDnBeMbPa"
       },
@@ -355,26 +379,22 @@
     {
       "added_at": "2025-06-12 23:00:11",
       "album": {
-        "name": "Yeah Yeah",
-        "url": "https://open.spotify.com/album/2p9GM8iVsMDpgDk2dQSPoK"
+        "name": "Stone",
+        "url": "https://open.spotify.com/album/4qXErNvcgrnFSwEN2bw6Aa"
       },
       "artists": [
         {
-          "name": "1991",
-          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+          "name": "Andromedik",
+          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
         },
         {
-          "name": "Luciana",
-          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
-        },
-        {
-          "name": "Dave Aud\u00e9",
-          "url": "https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9"
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
         }
       ],
-      "duration_ms": 204137,
-      "name": "Yeah Yeah",
-      "url": "https://open.spotify.com/track/3cYTnUooCbwikxo74eKc5Q"
+      "duration_ms": 209000,
+      "name": "Stone",
+      "url": "https://open.spotify.com/track/250zOPOsHbZPEIeXmmipTR"
     },
     {
       "added_at": "2025-06-12 23:00:11",
@@ -395,26 +415,6 @@
       "duration_ms": 186400,
       "name": "No One Does It Like",
       "url": "https://open.spotify.com/track/3tX4wGJbMYgNGZC0Tr5V3t"
-    },
-    {
-      "added_at": "2025-06-12 23:00:11",
-      "album": {
-        "name": "Stone",
-        "url": "https://open.spotify.com/album/4qXErNvcgrnFSwEN2bw6Aa"
-      },
-      "artists": [
-        {
-          "name": "Andromedik",
-          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Stone",
-      "url": "https://open.spotify.com/track/250zOPOsHbZPEIeXmmipTR"
     },
     {
       "added_at": "2025-06-12 23:00:11",
@@ -475,22 +475,18 @@
     {
       "added_at": "2025-06-12 23:00:11",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/0UzMLcEabs37Ba6XC5X8Ij"
+        "name": "Hit The Brakes",
+        "url": "https://open.spotify.com/album/1M3Tea37phD8cgP4Sy3NGz"
       },
       "artists": [
         {
           "name": "Subsonic",
           "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
-        },
-        {
-          "name": "Ekko & Sidetrack",
-          "url": "https://open.spotify.com/artist/7IVvHpo698q6w0VadlUxCL"
         }
       ],
-      "duration_ms": 226206,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/3R4WdX1bQ5S8QPZankvZxa"
+      "duration_ms": 223213,
+      "name": "Hit The Brakes",
+      "url": "https://open.spotify.com/track/3tsKYr9yzgUbH6RCWlbAkX"
     },
     {
       "added_at": "2025-06-12 23:00:11",
@@ -575,18 +571,22 @@
     {
       "added_at": "2025-06-12 23:00:11",
       "album": {
-        "name": "Hit The Brakes",
-        "url": "https://open.spotify.com/album/1M3Tea37phD8cgP4Sy3NGz"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/0UzMLcEabs37Ba6XC5X8Ij"
       },
       "artists": [
         {
           "name": "Subsonic",
           "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+        },
+        {
+          "name": "Ekko & Sidetrack",
+          "url": "https://open.spotify.com/artist/7IVvHpo698q6w0VadlUxCL"
         }
       ],
-      "duration_ms": 223213,
-      "name": "Hit The Brakes",
-      "url": "https://open.spotify.com/track/3tsKYr9yzgUbH6RCWlbAkX"
+      "duration_ms": 226206,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3R4WdX1bQ5S8QPZankvZxa"
     },
     {
       "added_at": "2025-06-12 23:00:11",
@@ -647,74 +647,6 @@
     {
       "added_at": "2025-06-12 23:00:11",
       "album": {
-        "name": "We Love Drum & Bass",
-        "url": "https://open.spotify.com/album/29z2vONpk9RyvPueUGwTNF"
-      },
-      "artists": [
-        {
-          "name": "Teddy Killerz",
-          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
-        },
-        {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        }
-      ],
-      "duration_ms": 165257,
-      "name": "We Love Drum & Bass",
-      "url": "https://open.spotify.com/track/31DqPeaEO0tiYLz4u1U4mb"
-    },
-    {
-      "added_at": "2025-06-12 23:00:11",
-      "album": {
-        "name": "Flex / Who Pree",
-        "url": "https://open.spotify.com/album/6aIiR6OUlH3NLuif02zW0Q"
-      },
-      "artists": [
-        {
-          "name": "Gray",
-          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
-        },
-        {
-          "name": "Stush",
-          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
-        }
-      ],
-      "duration_ms": 177613,
-      "name": "Flex",
-      "url": "https://open.spotify.com/track/43iYOEIWFCAmffD6Xs7Blz"
-    },
-    {
-      "added_at": "2025-06-12 23:00:11",
-      "album": {
-        "name": "Yapa Yapa (Shut It Pls)",
-        "url": "https://open.spotify.com/album/3Z9MUVPl8LX8k61pp53zdz"
-      },
-      "artists": [
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        },
-        {
-          "name": "Big Shaq",
-          "url": "https://open.spotify.com/artist/7mnAzEmgquhrVtGob81SmO"
-        },
-        {
-          "name": "Dr Ofori",
-          "url": "https://open.spotify.com/artist/4jsOeCZLQG1ygXCF2pMqvp"
-        }
-      ],
-      "duration_ms": 114158,
-      "name": "Yapa Yapa (Shut It Pls)",
-      "url": "https://open.spotify.com/track/6j2ahxtJ0tzWX6ElZUGiHj"
-    },
-    {
-      "added_at": "2025-06-12 23:00:11",
-      "album": {
         "name": "Bang Bang (feat. Stylo G, Riko Dan & Frisco)",
         "url": "https://open.spotify.com/album/4US7XENYjIouFj9wniTQR5"
       },
@@ -743,6 +675,50 @@
     {
       "added_at": "2025-06-12 23:00:11",
       "album": {
+        "name": "Flex / Who Pree",
+        "url": "https://open.spotify.com/album/6aIiR6OUlH3NLuif02zW0Q"
+      },
+      "artists": [
+        {
+          "name": "Gray",
+          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
+        },
+        {
+          "name": "Stush",
+          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
+        }
+      ],
+      "duration_ms": 177613,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/43iYOEIWFCAmffD6Xs7Blz"
+    },
+    {
+      "added_at": "2025-06-12 23:00:11",
+      "album": {
+        "name": "We Love Drum & Bass",
+        "url": "https://open.spotify.com/album/29z2vONpk9RyvPueUGwTNF"
+      },
+      "artists": [
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        },
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "duration_ms": 165257,
+      "name": "We Love Drum & Bass",
+      "url": "https://open.spotify.com/track/31DqPeaEO0tiYLz4u1U4mb"
+    },
+    {
+      "added_at": "2025-06-12 23:00:11",
+      "album": {
         "name": "Slumber",
         "url": "https://open.spotify.com/album/4iX57BmbUQ6UyFvZ18YTdI"
       },
@@ -759,6 +735,30 @@
       "duration_ms": 180689,
       "name": "Slumber",
       "url": "https://open.spotify.com/track/4lGEf5Lfh2T5MYT4H5Atr6"
+    },
+    {
+      "added_at": "2025-06-12 23:00:11",
+      "album": {
+        "name": "Yapa Yapa (Shut It Pls)",
+        "url": "https://open.spotify.com/album/3Z9MUVPl8LX8k61pp53zdz"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "Big Shaq",
+          "url": "https://open.spotify.com/artist/7mnAzEmgquhrVtGob81SmO"
+        },
+        {
+          "name": "Dr Ofori",
+          "url": "https://open.spotify.com/artist/4jsOeCZLQG1ygXCF2pMqvp"
+        }
+      ],
+      "duration_ms": 114158,
+      "name": "Yapa Yapa (Shut It Pls)",
+      "url": "https://open.spotify.com/track/6j2ahxtJ0tzWX6ElZUGiHj"
     },
     {
       "added_at": "2025-06-12 23:00:11",
@@ -811,26 +811,6 @@
     {
       "added_at": "2025-06-12 23:00:11",
       "album": {
-        "name": "Orchid",
-        "url": "https://open.spotify.com/album/1H7kMYpmTl0M3bzpVlY941"
-      },
-      "artists": [
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "LYNY",
-          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
-        }
-      ],
-      "duration_ms": 240017,
-      "name": "Orchid",
-      "url": "https://open.spotify.com/track/02NXaNtoScXGndO3Zj1MNA"
-    },
-    {
-      "added_at": "2025-06-12 23:00:11",
-      "album": {
         "name": "Beamin\u2019",
         "url": "https://open.spotify.com/album/11sXnogjgJ8nlpwwpHrsEa"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 140724,
       "name": "Beamin\u2019",
       "url": "https://open.spotify.com/track/7LUftIuD039hNS4CevDHdn"
+    },
+    {
+      "added_at": "2025-06-12 23:00:11",
+      "album": {
+        "name": "Orchid",
+        "url": "https://open.spotify.com/album/1H7kMYpmTl0M3bzpVlY941"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "LYNY",
+          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
+        }
+      ],
+      "duration_ms": 240017,
+      "name": "Orchid",
+      "url": "https://open.spotify.com/track/02NXaNtoScXGndO3Zj1MNA"
     },
     {
       "added_at": "2025-06-12 23:00:11",
@@ -983,26 +983,6 @@
     {
       "added_at": "2025-06-12 23:00:11",
       "album": {
-        "name": "Outta Order",
-        "url": "https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Riko Dan",
-          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
-        }
-      ],
-      "duration_ms": 235885,
-      "name": "Outta Order",
-      "url": "https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq"
-    },
-    {
-      "added_at": "2025-06-12 23:00:11",
-      "album": {
         "name": "THE WAY I ROLL",
         "url": "https://open.spotify.com/album/7D50ajSo5ltD3MPQVksYlC"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 188965,
       "name": "THE WAY I ROLL",
       "url": "https://open.spotify.com/track/4Hiddy4c4DbTR0HyBycuQQ"
+    },
+    {
+      "added_at": "2025-06-12 23:00:11",
+      "album": {
+        "name": "Outta Order",
+        "url": "https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        }
+      ],
+      "duration_ms": 235885,
+      "name": "Outta Order",
+      "url": "https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq"
     },
     {
       "added_at": "2025-06-12 23:00:11",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2025-06-12 23:00:11",
       "album": {
+        "name": "PURPOSE",
+        "url": "https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU"
+      },
+      "artists": [
+        {
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
+        },
+        {
+          "name": "Maksim MC",
+          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
+        }
+      ],
+      "duration_ms": 167314,
+      "name": "PURPOSE",
+      "url": "https://open.spotify.com/track/35mele207P8xoKXOsTh52L"
+    },
+    {
+      "added_at": "2025-06-12 23:00:11",
+      "album": {
         "name": "Waited All Night (Nia Archives Remix)",
         "url": "https://open.spotify.com/album/6DhaPcMB6Xl6cEDdzRLhF5"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 189249,
       "name": "Waited All Night - Nia Archives Remix",
       "url": "https://open.spotify.com/track/5sTF9aVNyUwum4xHMHnmSX"
-    },
-    {
-      "added_at": "2025-06-12 23:00:11",
-      "album": {
-        "name": "PURPOSE",
-        "url": "https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU"
-      },
-      "artists": [
-        {
-          "name": "Blooom",
-          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
-        },
-        {
-          "name": "Maksim MC",
-          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
-        }
-      ],
-      "duration_ms": 167314,
-      "name": "PURPOSE",
-      "url": "https://open.spotify.com/track/35mele207P8xoKXOsTh52L"
     },
     {
       "added_at": "2025-06-12 23:00:11",
@@ -1187,6 +1187,30 @@
     {
       "added_at": "2025-06-12 23:00:11",
       "album": {
+        "name": "99 Octane",
+        "url": "https://open.spotify.com/album/2Nk6wy0nWd7uAsi6X0bVr0"
+      },
+      "artists": [
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Whiney",
+          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
+        },
+        {
+          "name": "hayve",
+          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
+        }
+      ],
+      "duration_ms": 180147,
+      "name": "99 Octane",
+      "url": "https://open.spotify.com/track/7L3a1pYYJ6eJGUgZyxnLYQ"
+    },
+    {
+      "added_at": "2025-06-12 23:00:11",
+      "album": {
         "name": "Mob Deep",
         "url": "https://open.spotify.com/album/2TjLCvrgccR5RjdACRDZgC"
       },
@@ -1211,30 +1235,6 @@
       "duration_ms": 237267,
       "name": "Mob Deep",
       "url": "https://open.spotify.com/track/0WpgioIi0lNOaYHrMaRn2S"
-    },
-    {
-      "added_at": "2025-06-12 23:00:11",
-      "album": {
-        "name": "99 Octane",
-        "url": "https://open.spotify.com/album/2Nk6wy0nWd7uAsi6X0bVr0"
-      },
-      "artists": [
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        },
-        {
-          "name": "Whiney",
-          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
-        },
-        {
-          "name": "hayve",
-          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
-        }
-      ],
-      "duration_ms": 180147,
-      "name": "99 Octane",
-      "url": "https://open.spotify.com/track/7L3a1pYYJ6eJGUgZyxnLYQ"
     },
     {
       "added_at": "2025-06-12 23:00:11",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2025-06-12 23:00:11",
       "album": {
-        "name": "Wicked & Bad",
-        "url": "https://open.spotify.com/album/4T5Q0KhJLcB7PwtQJCm2NT"
-      },
-      "artists": [
-        {
-          "name": "Krakota",
-          "url": "https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Wicked & Bad",
-      "url": "https://open.spotify.com/track/29Q5RgWKJFf2SvlKuMgqWV"
-    },
-    {
-      "added_at": "2025-06-12 23:00:11",
-      "album": {
         "name": "Bad Boy Horns",
         "url": "https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 252342,
       "name": "Bad Boy Horns",
       "url": "https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8"
+    },
+    {
+      "added_at": "2025-06-12 23:00:11",
+      "album": {
+        "name": "Wicked & Bad",
+        "url": "https://open.spotify.com/album/4T5Q0KhJLcB7PwtQJCm2NT"
+      },
+      "artists": [
+        {
+          "name": "Krakota",
+          "url": "https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Wicked & Bad",
+      "url": "https://open.spotify.com/track/29Q5RgWKJFf2SvlKuMgqWV"
     },
     {
       "added_at": "2025-06-12 23:00:11",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2025-06-12 23:00:11",
       "album": {
+        "name": "All You Need",
+        "url": "https://open.spotify.com/album/3z7Y1mksmDZGk7Cvk3TVQl"
+      },
+      "artists": [
+        {
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
+        },
+        {
+          "name": "Maksim MC",
+          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
+        }
+      ],
+      "duration_ms": 233023,
+      "name": "All You Need",
+      "url": "https://open.spotify.com/track/0LwOLrPH6AM9Kd82rm1v4B"
+    },
+    {
+      "added_at": "2025-06-12 23:00:11",
+      "album": {
         "name": "Flame Unbroken",
         "url": "https://open.spotify.com/album/2psp0vA8OuZJAR8QMbAmA9"
       },
@@ -1475,26 +1495,6 @@
       "duration_ms": 248479,
       "name": "Flame Unbroken",
       "url": "https://open.spotify.com/track/3hQzFyxBdw1jWjGp42cBZ9"
-    },
-    {
-      "added_at": "2025-06-12 23:00:11",
-      "album": {
-        "name": "All You Need",
-        "url": "https://open.spotify.com/album/3z7Y1mksmDZGk7Cvk3TVQl"
-      },
-      "artists": [
-        {
-          "name": "Blooom",
-          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
-        },
-        {
-          "name": "Maksim MC",
-          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
-        }
-      ],
-      "duration_ms": 233023,
-      "name": "All You Need",
-      "url": "https://open.spotify.com/track/0LwOLrPH6AM9Kd82rm1v4B"
     },
     {
       "added_at": "2025-06-12 23:00:11",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2025-06-12 23:00:11",
       "album": {
-        "name": "Loud Enuff",
-        "url": "https://open.spotify.com/album/25qNcSGObLXHH3xu76ZmPR"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        }
-      ],
-      "duration_ms": 177977,
-      "name": "Loud Enuff",
-      "url": "https://open.spotify.com/track/10sy3wFzQSZGUyFZ60quBP"
-    },
-    {
-      "added_at": "2025-06-12 23:00:11",
-      "album": {
         "name": "Vibe Check",
         "url": "https://open.spotify.com/album/6j168iu9mAEX6Kr683E2Ra"
       },
@@ -1991,22 +1975,18 @@
     {
       "added_at": "2025-06-12 23:00:11",
       "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/08X4CBD7KhJyTeYTSCEi94"
+        "name": "Loud Enuff",
+        "url": "https://open.spotify.com/album/25qNcSGObLXHH3xu76ZmPR"
       },
       "artists": [
         {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
         }
       ],
-      "duration_ms": 199090,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/212snhBRVS4zmxEILBd7K1"
+      "duration_ms": 177977,
+      "name": "Loud Enuff",
+      "url": "https://open.spotify.com/track/10sy3wFzQSZGUyFZ60quBP"
     },
     {
       "added_at": "2025-06-12 23:00:11",
@@ -2031,6 +2011,26 @@
       "duration_ms": 169755,
       "name": "Hang Up The Mic",
       "url": "https://open.spotify.com/track/2yQX3c895hXfHD2slRYLuH"
+    },
+    {
+      "added_at": "2025-06-12 23:00:11",
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/08X4CBD7KhJyTeYTSCEi94"
+      },
+      "artists": [
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/212snhBRVS4zmxEILBd7K1"
     }
   ],
   "unique_name": "Proper Naughty ",

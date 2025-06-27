@@ -4,7 +4,7 @@
 
 > 
 
-866 songs - 1 day 20 hr 10 min
+867 songs - 1 day 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,6 +568,7 @@
 | [Our Time](https://open.spotify.com/track/2WxUIiq06XXPYWl9YcRJnD) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 1:38 | 2023-01-20 |  |
 | [Out The Mud](https://open.spotify.com/track/2wZjsbwmWfNVslgV5afl1L) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Out The Mud](https://open.spotify.com/album/1LGwG4vhQIOwCBZhyEtL4u) | 2:37 | 2023-03-21 |  |
 | [OUT WEST \(feat\. Young Thug\)](https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 2:37 | 2022-12-21 | 2025-06-13 |
+| [Outfit \(with 21 Savage\)](https://open.spotify.com/track/6mxKWahJzbv7SVF8nkZwLT) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Outfit \(with 21 Savage\)](https://open.spotify.com/album/6w8kBHoOsT1tvoNO05BTwj) | 2:57 | 2025-06-26 |  |
 | [Outfit \(with 21 Savage\)](https://open.spotify.com/track/7ffZyi3DyQr8Q2612gcqwr) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 2:57 | 2025-01-08 |  |
 | [Outro](https://open.spotify.com/track/5mlPARhG0SStiNoQHNl8B1) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [GMTO Vol\. 1 \(Get Money Take Over\)](https://open.spotify.com/album/4UDPZgxZy3VnIFQ8os0G29) | 2:14 | 2022-05-26 |  |
 | [Outside \(100 MPH\)](https://open.spotify.com/track/67lvhLT01Fq3GEIrt5RpPn) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 3:18 | 2023-10-15 |  |

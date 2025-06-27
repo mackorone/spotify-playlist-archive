@@ -1,12 +1,12 @@
 {
   "description": "Our favourite new music, curated by the XL team. ",
-  "num_followers": 16505,
+  "num_followers": 16508,
   "original_name": "XL Play",
   "owner": {
     "name": "XL Recordings",
     "url": "https://open.spotify.com/user/xlrecordings"
   },
-  "snapshot_id": "AAAY/5iRGYT8I8OXUnHBxikV1gUB4EAJ",
+  "snapshot_id": "AAAZCK/hFsnvTW9DLK/ZXG/K0GDzaSzS",
   "tracks": [
     {
       "added_at": "2025-06-25 13:47:20",
@@ -23,6 +23,30 @@
       "duration_ms": 269933,
       "name": "9 2 5",
       "url": "https://open.spotify.com/track/4zz49nB3rFzVPrEQmwuSrU"
+    },
+    {
+      "added_at": "2025-06-25 13:54:20",
+      "album": {
+        "name": "Lippy",
+        "url": "https://open.spotify.com/album/2WGssUw0jZ4RzRpi2lxN5P"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        },
+        {
+          "name": "Skiifall",
+          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
+        }
+      ],
+      "duration_ms": 175990,
+      "name": "Lippy",
+      "url": "https://open.spotify.com/track/5ReIuSLbXCAUYkg9v0NR7b"
     },
     {
       "added_at": "2025-06-25 13:47:20",
@@ -133,28 +157,56 @@
       "url": "https://open.spotify.com/track/5Sk2OqwOCNKUuTe2u3WCeB"
     },
     {
-      "added_at": "2025-06-25 13:54:20",
+      "added_at": "2025-06-26 09:43:03",
       "album": {
-        "name": "Lippy",
-        "url": "https://open.spotify.com/album/2WGssUw0jZ4RzRpi2lxN5P"
+        "name": "stick",
+        "url": "https://open.spotify.com/album/0DCxiHGqRaq1HuIcaSVBRq"
       },
       "artists": [
         {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        },
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        },
-        {
-          "name": "Skiifall",
-          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
         }
       ],
-      "duration_ms": 175990,
-      "name": "Lippy",
-      "url": "https://open.spotify.com/track/5ReIuSLbXCAUYkg9v0NR7b"
+      "duration_ms": 139207,
+      "name": "stick",
+      "url": "https://open.spotify.com/track/0BMiAWhG8u5JZ9GeDCFxu5"
+    },
+    {
+      "added_at": "2025-06-26 09:43:16",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/15t5pAZbc5EAnu3Uc2BKHX"
+      },
+      "artists": [
+        {
+          "name": "Standing On The Corner",
+          "url": "https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx"
+        }
+      ],
+      "duration_ms": 393000,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/37bY677poQAFeSdBNTN7Ik"
+    },
+    {
+      "added_at": "2025-06-26 09:43:32",
+      "album": {
+        "name": "Found A Light (Beale Street)",
+        "url": "https://open.spotify.com/album/3bryfCCYVWa9IpMyObn3PN"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "V.C.R",
+          "url": "https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw"
+        }
+      ],
+      "duration_ms": 436130,
+      "name": "Found A Light (Beale Street)",
+      "url": "https://open.spotify.com/track/09Btkoj4YIm36KVJqomiCE"
     },
     {
       "added_at": "2025-06-25 13:47:20",

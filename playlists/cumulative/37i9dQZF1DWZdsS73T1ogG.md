@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: SAIKO
 
-1,927 songs - 4 day 4 hr 31 min
+1,928 songs - 4 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -686,6 +686,7 @@
 | [GANGSTERS Y PISTOLAS](https://open.spotify.com/track/2GOnlLJqDMvlXlEqD8AQqn) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:50 | 2023-10-06 | 2023-12-09 |
 | [GANGSTERS Y PISTOLAS](https://open.spotify.com/track/6pdo6bxRLh7ELtuchVgyjx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:50 | 2023-09-29 | 2023-10-12 |
 | [Gas Gas](https://open.spotify.com/track/5pwypqvaS8HOtMoNOY40Eb) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Gas Gas](https://open.spotify.com/album/4A6oBgOVEeMBSCZyIbpID3) | 3:41 | 2025-01-03 | 2025-02-08 |
+| [GASTAR](https://open.spotify.com/track/6kejWIS75SB4JqRM0BWZDc) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Opi the Hit Machine](https://open.spotify.com/artist/5VHv8HRkyW4zmhoYXu476k) | [GASTAR](https://open.spotify.com/album/4Xswo5x65ZQdQN8ca3uoet) | 2:59 | 2025-06-20 |  |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-02-16 | 2024-05-25 |
 | [Gata Only \(Remix\)](https://open.spotify.com/track/0JGTfiC4Z41GEEpMYLbWwO) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Gata Only \(Remix\)](https://open.spotify.com/album/3j6Hr2FWIsjgTKWbfRx0tu) | 3:50 | 2024-06-07 | 2024-08-17 |
 | [Gatando la Funda](https://open.spotify.com/track/3eadQDgUDkKCPy2TgfPvuc) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [Sam Diem](https://open.spotify.com/artist/30mf4QuWQgYhbwf4bj8pGn), [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI) | [Gatando la Funda](https://open.spotify.com/album/2hsgCqphv4KLN3P2BlkUs4) | 2:50 | 2023-09-08 | 2023-12-02 |

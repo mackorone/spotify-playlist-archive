@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 53892,
+  "num_followers": 53900,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAAAAgnS5qJSLHnUIXP8Huudh",
+  "snapshot_id": "aFs8AAAAAACWEBICtoyQsI6OABAFLvJd",
   "tracks": [
     {
       "added_at": null,
@@ -243,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soy Lo Que Soy",
+        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Queda Restringido",
+      "url": "https://open.spotify.com/track/3ipC7qMwC2TN4zNucgJYTB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tres Botes",
         "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
       },
@@ -259,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Lo Que Soy",
-        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
+        "name": "No La Hagas Sufrir",
+        "url": "https://open.spotify.com/album/0Ti9OKOhKoZ56iWmUVK0As"
       },
       "artists": [
         {
@@ -268,9 +284,9 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 247200,
-      "name": "Queda Restringido",
-      "url": "https://open.spotify.com/track/3ipC7qMwC2TN4zNucgJYTB"
+      "duration_ms": 213670,
+      "name": "No La Hagas Sufrir",
+      "url": "https://open.spotify.com/track/30cVv2focHPXf37kpTJkfV"
     },
     {
       "added_at": null,
@@ -319,22 +335,6 @@
       "duration_ms": 168127,
       "name": "Parrandero (Remix)",
       "url": "https://open.spotify.com/track/62W6epdy8GM2uthWuelzFV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No La Hagas Sufrir",
-        "url": "https://open.spotify.com/album/0Ti9OKOhKoZ56iWmUVK0As"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 213670,
-      "name": "No La Hagas Sufrir",
-      "url": "https://open.spotify.com/track/30cVv2focHPXf37kpTJkfV"
     },
     {
       "added_at": null,
@@ -731,22 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Medias Negras",
-        "url": "https://open.spotify.com/album/47un1dVrmVaaNT1PGvEU2d"
+        "name": "Dar\u00eda Todo Por Ti",
+        "url": "https://open.spotify.com/album/3mvFCw4U3GRlGEfljcgZWw"
       },
       "artists": [
         {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+          "name": "La Adixi\u00f3n",
+          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
         },
         {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 187324,
-      "name": "Medias Negras",
-      "url": "https://open.spotify.com/track/36aWKc0gB1dt2bh9YLlUD6"
+      "duration_ms": 174911,
+      "name": "Dar\u00eda Todo Por Ti",
+      "url": "https://open.spotify.com/track/1LRLWF1pMWCboN4u4xIBOv"
     },
     {
       "added_at": null,
@@ -771,22 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dar\u00eda Todo Por Ti",
-        "url": "https://open.spotify.com/album/3mvFCw4U3GRlGEfljcgZWw"
+        "name": "Medias Negras",
+        "url": "https://open.spotify.com/album/47un1dVrmVaaNT1PGvEU2d"
       },
       "artists": [
         {
-          "name": "La Adixi\u00f3n",
-          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
         },
         {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 174911,
-      "name": "Dar\u00eda Todo Por Ti",
-      "url": "https://open.spotify.com/track/1LRLWF1pMWCboN4u4xIBOv"
+      "duration_ms": 187324,
+      "name": "Medias Negras",
+      "url": "https://open.spotify.com/track/36aWKc0gB1dt2bh9YLlUD6"
     },
     {
       "added_at": null,

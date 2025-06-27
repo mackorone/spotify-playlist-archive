@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy?si=FfcOtSRrQiCxivwrvrofWA">  تامر حسني و   <a href="https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k?si=BZx8j7OJRe23ahe63YqC4Q"> الشامي
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,568 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,733 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 19 | [مش سالكين](https://open.spotify.com/track/5qvVsntT1YqYUFdnhtvZBc) | [Alhassan Adel](https://open.spotify.com/artist/1rSKg6fabB8hw5y1rcxYdk) | [مش سالكين](https://open.spotify.com/album/1524gRI219NvKNVJe7Kdc2) | 2:24 |
 | 20 | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/track/2aZNUu6LFLD0nsppiw8f0p) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/album/3nHHSUiPdf5V88OgBsUSXA) | 2:38 |
 | 21 | [مرجعليش](https://open.spotify.com/track/7JTf7bVijxgDdkmozrswvE) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672), [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [مرجعليش](https://open.spotify.com/album/7aKK7jGo8ONkv0HX0vrisi) | 5:04 |
-| 22 | [Mesh Shayfenhom \( Coke Studio Egypt 2023 \)](https://open.spotify.com/track/7a4fFS88i5CiAn3zCkfoGk) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Bosy](https://open.spotify.com/artist/3wREoMa2oI5qs6NsmQcsKb), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Mesh Shayfenhom \( Coke Studio Egypt 2023 \)](https://open.spotify.com/album/3wYZey6tv0VrSgpYUkCLQs) | 3:42 |
+| 22 | [Mesh Shayfenhom \( Coke Studio Egypt 2023 \)](https://open.spotify.com/track/7a4fFS88i5CiAn3zCkfoGk) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Mesh Shayfenhom \( Coke Studio Egypt 2023 \)](https://open.spotify.com/album/3wYZey6tv0VrSgpYUkCLQs) | 3:42 |
 | 23 | [Inta El Haz](https://open.spotify.com/track/0647xnQGtzAulUlJC8s4r4) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Inta El Haz](https://open.spotify.com/album/0xhjjrdum8xbJwEuQyJUid) | 2:50 |
 | 24 | [Wahshak](https://open.spotify.com/track/5QVN7a9quXpdKgYKPgmVsf) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Wahshak](https://open.spotify.com/album/6COX98TbK2BoUMw6e3Oc6x) | 3:48 |
 | 25 | [Makrehtosh](https://open.spotify.com/track/01O9Ijz8tcyllso5VJ6w75) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/4ovMza1WebamIyWDRupshi) | 3:32 |

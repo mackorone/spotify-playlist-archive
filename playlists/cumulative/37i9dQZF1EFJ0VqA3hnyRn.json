@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "The Firstfruit - The 1st Album",
+        "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
+      },
+      "artists": [
+        {
+          "name": "MARK",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        },
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202400,
+      "name": "+82 Pressin'",
+      "url": "https://open.spotify.com/track/4LNSkM5pU80uYmyYXzuaGJ"
+    },
+    {
+      "album": {
         "name": "The Night Before The Morning After",
         "url": "https://open.spotify.com/album/2Jp7UxZewhRXrvcSvz37b1"
       },

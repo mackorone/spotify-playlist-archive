@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-18",
-  "description": "Your new favourite songs! Cover: Olivia Dean",
+  "description": "Your new favourite songs! Cover: ONEFOUR",
   "name": "Breaking Hits",
   "tracks": [
     {
@@ -610,7 +610,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 182099,
       "name": "All I Am",
       "url": "https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT"
@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 249302,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
@@ -4103,6 +4103,28 @@
     },
     {
       "album": {
+        "name": "Dior (feat. Chrystal)",
+        "url": "https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169159,
+      "name": "Dior (feat. Chrystal)",
+      "url": "https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX"
+    },
+    {
+      "album": {
         "name": "Dirty",
         "url": "https://open.spotify.com/album/7pUbm4cVWzOkXKuy4rzAjK"
       },
@@ -5522,7 +5544,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 239720,
       "name": "Garden Of Eden",
       "url": "https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd"
@@ -7720,6 +7742,24 @@
       "duration_ms": 163433,
       "name": "INTERSTATE",
       "url": "https://open.spotify.com/track/6AZVpiYWlRSo3LxiuAQ0BR"
+    },
+    {
+      "album": {
+        "name": "iPod Touch",
+        "url": "https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196524,
+      "name": "iPod Touch",
+      "url": "https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s"
     },
     {
       "album": {
@@ -12827,6 +12867,24 @@
     },
     {
       "album": {
+        "name": "Virgin",
+        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257065,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m"
+    },
+    {
+      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/2RbomusWGFOXiXMC1rnHoQ"
       },
@@ -14106,6 +14164,24 @@
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
+    },
+    {
+      "album": {
+        "name": "Survive",
+        "url": "https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225211,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
     },
     {
       "album": {
@@ -16100,7 +16176,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 248821,
       "name": "We Hug Now",
       "url": "https://open.spotify.com/track/1In22zMILdinxdZng26irr"
@@ -16326,7 +16402,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 209286,
       "name": "What Was That",
       "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"

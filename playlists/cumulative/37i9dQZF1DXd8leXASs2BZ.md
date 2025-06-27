@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Tete
 
-997 songs - 1 day 22 hr 10 min
+998 songs - 1 day 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -808,7 +808,7 @@
 | [Swimmin'](https://open.spotify.com/track/2EaUOcIWFNjk0JRIMJG58N) | [It\-Works](https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0) | [Swimmin'](https://open.spotify.com/album/792WmNACWSv7I50kTvj5Ol) | 2:53 | 2025-01-08 | 2025-04-02 |
 | [syuzinkou](https://open.spotify.com/track/6NTWzrWaqpVqsa9yhhnhbe) | [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf) | [DREAM HORIZON](https://open.spotify.com/album/5xQGl6jalMEKuQefCWiCR8) | 2:19 | 2024-06-04 | 2024-08-21 |
 | [TAKE\-OFF](https://open.spotify.com/track/5ZPsgg1WhMxoovwZVYHbIB) | [KOSÉ 8ROCKS](https://open.spotify.com/artist/4xPnkzn7b7oxBNhk8hYfZz), [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [TAKE\-OFF](https://open.spotify.com/album/6xrdQXU1LXphoBAOk5oFQT) | 2:40 | 2024-10-01 | 2025-01-22 |
-| [Talk shit \(feat\. MELLMWOR1D\)](https://open.spotify.com/track/16ulmt1s9Xajg1prLeeghs) | [vivi](https://open.spotify.com/artist/2bRJAlkOHlUi3nK2jUpFtx), [MELLMWOR1D](https://open.spotify.com/artist/2ntpUnudJuitrCi950QadZ) | [CULT](https://open.spotify.com/album/21qfKAFM1bul7f89ehClWi) | 2:20 | 2025-03-11 |  |
+| [Talk shit \(feat\. MELLMWOR1D\)](https://open.spotify.com/track/16ulmt1s9Xajg1prLeeghs) | [vivi](https://open.spotify.com/artist/2bRJAlkOHlUi3nK2jUpFtx), [MELLMWOR1D](https://open.spotify.com/artist/2ntpUnudJuitrCi950QadZ) | [CULT](https://open.spotify.com/album/21qfKAFM1bul7f89ehClWi) | 2:20 | 2025-03-11 | 2025-06-27 |
 | [TANSAN](https://open.spotify.com/track/5il0S6qRr96qEOBXEAQpGC) | [hyunis1000](https://open.spotify.com/artist/5kg1VfX43k7uJ1mLHXmkRF) | [TANSAN](https://open.spotify.com/album/6R4BuIHSxxbXtngI530fmy) | 3:06 | 2024-01-25 | 2024-02-23 |
 | [Tears](https://open.spotify.com/track/7MawmVRLEexXh4FpxhaAUU) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [Tears](https://open.spotify.com/album/5F4uqHJWWvtr6pHmcFVwDu) | 2:27 | 2024-07-10 | 2024-08-21 |
 | [Tempest](https://open.spotify.com/track/5iH2odZG4xXiv31RQcXCUC) | [関谷拳四郎](https://open.spotify.com/artist/4vw8u8lnueJjSQlySU3XmL) | [Love.zip](https://open.spotify.com/album/2PDzV1cEfjbsgClZYCivgs) | 3:31 | 2025-04-08 |  |
@@ -820,6 +820,7 @@
 | [The End of the F\*\*\*ing World](https://open.spotify.com/track/3XBOj9bYUMuQH7WFty0x6d) | [関谷拳四郎](https://open.spotify.com/artist/4vw8u8lnueJjSQlySU3XmL) | [The End of the F\*\*\*ing World](https://open.spotify.com/album/6iL6XohwNVwl1vGcPU0UuT) | 2:00 | 2025-01-28 | 2025-03-05 |
 | [The first snowfall](https://open.spotify.com/track/49XnF4NRLNMImT1qKAmH9o) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [Tade Dust](https://open.spotify.com/artist/2pxHWQNVmLCr3HnSqFk5IH) | [The first snowfall](https://open.spotify.com/album/4B4pZcXibJxmeJiOICB0gK) | 2:57 | 2024-02-15 | 2024-04-03 |
 | [The Grey Day](https://open.spotify.com/track/4sVY9y1XhILG2EsJZ9lOP8) | [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [BudaMunk](https://open.spotify.com/artist/1yWuJDLSCfY5Zrjv6JmtWC) | [The Grey Day](https://open.spotify.com/album/5jPUg2HF7R6F3AO1Nwtblg) | 3:12 | 2024-08-07 | 2024-09-11 |
+| [The Living Proof](https://open.spotify.com/track/1nwZJJI3qirdrAKgdmaMzw) | [SWANN](https://open.spotify.com/artist/3hWevbXc9AnJqJVzvTBZC0) | [The Living Proof](https://open.spotify.com/album/79dFdoIRuyU5d9awutTv2W) | 2:33 | 2025-06-26 |  |
 | [The Rose](https://open.spotify.com/track/1yzvhrIJOCUylHFcDsNKSO) | [Godzilla East](https://open.spotify.com/artist/4u8gYY3ubYwelf5UbzqZg5) | [The Rose](https://open.spotify.com/album/33vXyhcCKDrXQqA89mBlD7) | 2:32 | 2025-06-17 |  |
 | [Think About It](https://open.spotify.com/track/1OkWbRGkwVpAYgX4UFYMZc) | [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf) | [Think About It](https://open.spotify.com/album/2WB7SY5SxIskb9Ju9uekRB) | 4:01 | 2024-05-15 | 2024-07-24 |
 | [Thinkin' Bout](https://open.spotify.com/track/3ixe4HbrqNa0SeFmgcmSBP) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Just A Girl](https://open.spotify.com/album/117D508aR41dD1h85xxLiL) | 2:36 | 2024-12-20 | 2025-04-02 |

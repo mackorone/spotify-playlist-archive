@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Shi Shi (\u5b6b\u76db\u5e0c)",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: LIU KOI",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -1369,6 +1369,24 @@
     },
     {
       "album": {
+        "name": "don't trust all those voices",
+        "url": "https://open.spotify.com/album/5glOQatOckeojlKVzDOXlJ"
+      },
+      "artists": [
+        {
+          "name": "LIU KOI",
+          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "don't trust all those voices",
+      "url": "https://open.spotify.com/track/4IBF9cchbriy0hCfbTXi91"
+    },
+    {
+      "album": {
         "name": "People In My Mind",
         "url": "https://open.spotify.com/album/6Obtw6DnxJsR0Nik3tO64W"
       },
@@ -1514,7 +1532,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 205333,
       "name": "everything feels sad when you're sad",
       "url": "https://open.spotify.com/track/6TdiGwTZEIcrRap9qif7jp"
@@ -2405,6 +2423,36 @@
     },
     {
       "album": {
+        "name": "Half-Full (Remix Ft. moon tang, Wade Dao)",
+        "url": "https://open.spotify.com/album/0UvTSBZ8z8AHMdx8xUweRH"
+      },
+      "artists": [
+        {
+          "name": "\u6211\u662f\u6a5f\u8eca\u5c11\u5973",
+          "url": "https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl"
+        },
+        {
+          "name": "Flowstrong",
+          "url": "https://open.spotify.com/artist/3KgKUvLzPtJSiXz0WC71YH"
+        },
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        },
+        {
+          "name": "WADE DAO",
+          "url": "https://open.spotify.com/artist/5cccFQ9v0HLpikzMg8AtEH"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220370,
+      "name": "Half-Full - Remix Ft. moon tang, Wade Dao",
+      "url": "https://open.spotify.com/track/5jfnXiBmFq7wrFq2sS3pZe"
+    },
+    {
+      "album": {
         "name": "HANSEL AND GRETEL",
         "url": "https://open.spotify.com/album/3QoHlrglPtVHUcqJnr51mI"
       },
@@ -3290,7 +3338,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 188750,
       "name": "Love me too",
       "url": "https://open.spotify.com/track/2VCQE1tVVJjbBG7LwYMriI"
@@ -3646,6 +3694,28 @@
       "duration_ms": 221177,
       "name": "music",
       "url": "https://open.spotify.com/track/1my6WsRdwWkB8rNRL9U0wi"
+    },
+    {
+      "album": {
+        "name": "MY MESSAGE (feat. Shing02)",
+        "url": "https://open.spotify.com/album/0pzHd5dOUyYHyvgceAVXG3"
+      },
+      "artists": [
+        {
+          "name": "PUZZLEMAN",
+          "url": "https://open.spotify.com/artist/5cqDJ1LV02tRyfWJoijkpZ"
+        },
+        {
+          "name": "Shing02",
+          "url": "https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202586,
+      "name": "MY MESSAGE (feat. Shing02)",
+      "url": "https://open.spotify.com/track/0Ku3K1LUNxdjI1gvDrB9Nt"
     },
     {
       "album": {
@@ -6532,7 +6602,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 212906,
       "name": "You know how",
       "url": "https://open.spotify.com/track/6KpedOLJFQcp2n9evsr6Q3"

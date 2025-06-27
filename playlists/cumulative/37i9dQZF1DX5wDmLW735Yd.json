@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Sigma, Stefflon Don, Yung Saber",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Sub Focus, Culture Shock",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -468,7 +468,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 203500,
       "name": "Air",
       "url": "https://open.spotify.com/track/7LYBggXKDQtXKbdcK0eL7m"
@@ -996,7 +996,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 146371,
       "name": "Arctic",
       "url": "https://open.spotify.com/track/4tNkhfKqbJSzOTKX6D276Q"
@@ -2838,7 +2838,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 169431,
       "name": "Call The Hurse",
       "url": "https://open.spotify.com/track/0G3ONeSlmFgHtw1ft1kg1k"
@@ -6468,7 +6468,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 208092,
       "name": "From The Dirt",
       "url": "https://open.spotify.com/track/3vqnAH6SerB5wzpbo8Gccb"
@@ -8636,6 +8636,28 @@
       "duration_ms": 217931,
       "name": "If You Want It",
       "url": "https://open.spotify.com/track/7H7AUeAy7rTG0fCCa1cGtm"
+    },
+    {
+      "album": {
+        "name": "Illegal (Nia Archives Remix)",
+        "url": "https://open.spotify.com/album/57V3Ec9fpJEUZkFyW2axtx"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Illegal - Nia Archives Remix",
+      "url": "https://open.spotify.com/track/0c1s95bO4ZqOOmFl8mfsro"
     },
     {
       "album": {
@@ -11402,6 +11424,28 @@
       "duration_ms": 250500,
       "name": "Mosh Pit (feat. Haribo)",
       "url": "https://open.spotify.com/track/2g3NNzNps6fCjsbcA91yH6"
+    },
+    {
+      "album": {
+        "name": "MOTION",
+        "url": "https://open.spotify.com/album/2nbddblRCfy4MTsOwVoutS"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        },
+        {
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193103,
+      "name": "MOTION",
+      "url": "https://open.spotify.com/track/3zOHSTVeWT8qwTESyFdZoy"
     },
     {
       "album": {
@@ -17713,6 +17757,28 @@
     },
     {
       "album": {
+        "name": "THE RECAP",
+        "url": "https://open.spotify.com/album/5mJPfSEKnCAjpfuknVQwol"
+      },
+      "artists": [
+        {
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+        },
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149657,
+      "name": "THE RECAP",
+      "url": "https://open.spotify.com/track/2MqtHEaoMmfVMe3gjg7rQz"
+    },
+    {
+      "album": {
         "name": "The Siege",
         "url": "https://open.spotify.com/album/23nExcjIloWviNdxMFEZWW"
       },
@@ -20166,6 +20232,24 @@
       "duration_ms": 197142,
       "name": "Y'all Ready For Dis",
       "url": "https://open.spotify.com/track/02dS31GgrNuZzwVOtf5uom"
+    },
+    {
+      "album": {
+        "name": "Sunk Cost Fallacy",
+        "url": "https://open.spotify.com/album/5t5Vchn9fBp2Gq5YORDxZZ"
+      },
+      "artists": [
+        {
+          "name": "Fox Stevenson",
+          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224278,
+      "name": "YAS!",
+      "url": "https://open.spotify.com/track/6UqnxAz29loo7p0n0YtCTl"
     },
     {
       "album": {

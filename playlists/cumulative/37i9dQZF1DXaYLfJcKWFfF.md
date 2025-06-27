@@ -2,9 +2,9 @@
 
 ### [Afro Indie](https://open.spotify.com/playlist/37i9dQZF1DXaYLfJcKWFfF)
 
-> Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Obongjayar
+> Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Lagos in Paris
 
-243 songs - 14 hr 27 min
+244 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Fall](https://open.spotify.com/track/3F9tYNM8ssz7cCVDqDkSZz) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Fall](https://open.spotify.com/album/2WxjpVtftn4jmB8mcDBJpK) | 5:43 | 2024-10-04 |  |
 | [Fall](https://open.spotify.com/track/2PE70oh4iy1VCSxG9H1vdu) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [ROOTS](https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF) | 3:05 | 2020-08-28 | 2023-01-28 |
 | [Fallo Fall](https://open.spotify.com/track/04BumdOBKWl5LcGkUAMZTU) | [Afro Begue](https://open.spotify.com/artist/00WVDGi6uKfbfd97rreoQA) | [Lou Bess Dioudouna](https://open.spotify.com/album/3whvMDSCMRddEOXqENyP7l) | 5:06 | 2022-11-04 | 2022-12-09 |
+| [Faya](https://open.spotify.com/track/6bS5s8LrmKI5ZV7RxyFmlm) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Faya](https://open.spotify.com/album/43ohjP5OkrsrlmewjaDkqk) | 3:56 | 2025-06-26 |  |
 | [Feel Something](https://open.spotify.com/track/0EozgtHJL578iobhVcodiS) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Feel Something](https://open.spotify.com/album/6Zs16k742zGTAsJMrFww6C) | 2:02 | 2025-05-16 | 2025-06-20 |
 | [Fire Everywhere](https://open.spotify.com/track/4BGv3EsfJL6wLbQ56BaY5X) | [NATAB](https://open.spotify.com/artist/5sk7DMYabyF7C12HgIG5QF) | [There's A Fire On The Mountain](https://open.spotify.com/album/7AHm7GvOwa5PY8Q22tMuHl) | 4:59 | 2024-10-04 |  |
 | [For You](https://open.spotify.com/track/37cZqoXsZiqJ4JN82lNthD) | [Dolapo Martins](https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT) | [For You](https://open.spotify.com/album/3mXWpQc1yhsTIJKon60KFr) | 2:19 | 2023-04-27 | 2024-01-19 |
@@ -161,7 +162,7 @@
 | [OYA](https://open.spotify.com/track/2SklWzNh4XgOuRoAvWI4mF) | [Mádé Kuti](https://open.spotify.com/artist/1ZeiiasZFdLdliVe0TJI7b) | [OYA](https://open.spotify.com/album/7AMlIKwmVYGfhXxJ3hTZPC) | 3:19 | 2022-12-18 | 2023-01-28 |
 | [Paradise](https://open.spotify.com/track/6BOqdJL8QaAEZHY2EruTyb) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [ACT 3](https://open.spotify.com/album/4qcKBpbjvMZFJIZwDSs1ez) | 3:40 | 2023-05-04 | 2023-07-01 |
 | [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 | 2022-09-23 | 2023-03-18 |
-| [People Don't Stop](https://open.spotify.com/track/2RhGqawopVGPm7tsPekplT) | [Wiyaala](https://open.spotify.com/artist/0Ttf480Uumk6ylOAokG2h7) | [People Don't Stop](https://open.spotify.com/album/5eM2Zt3wmwXcx8pFFM5OpH) | 4:22 | 2024-06-07 |  |
+| [People Don't Stop](https://open.spotify.com/track/2RhGqawopVGPm7tsPekplT) | [Wiyaala](https://open.spotify.com/artist/0Ttf480Uumk6ylOAokG2h7) | [People Don't Stop](https://open.spotify.com/album/5eM2Zt3wmwXcx8pFFM5OpH) | 4:22 | 2024-06-07 | 2025-06-27 |
 | [Polished Masks](https://open.spotify.com/track/4ost2G6dIe7SQpbPrqSDOh) | [S3kyerewaa](https://open.spotify.com/artist/11hUTgOvMopsRpP3JzXsub) | [TWO II](https://open.spotify.com/album/0LxizsZ3vRcN4KwXuShA83) | 3:38 | 2023-06-16 | 2024-03-29 |
 | [PRAY](https://open.spotify.com/track/4elqMh9ojfxBzk77bCZHcy) | [Aramide](https://open.spotify.com/artist/3MnR60ldjXYo42lHIZEPvo) | [PRAY](https://open.spotify.com/album/43zdGbhiT6Rx2rV2ZkALxB) | 2:45 | 2024-03-15 | 2025-05-16 |
 | [Present](https://open.spotify.com/track/0qL6DFrJO5Ep1Q7wRjlpQE) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Worry <](https://open.spotify.com/album/2a7v6mAjcRSKp5GVdhEW93) | 2:48 | 2022-03-03 | 2024-02-02 |

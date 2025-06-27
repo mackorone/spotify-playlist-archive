@@ -829,6 +829,28 @@
     },
     {
       "album": {
+        "name": "C\u00ednico",
+        "url": "https://open.spotify.com/album/02bj2uqV5LxRDwLt3mn2lj"
+      },
+      "artists": [
+        {
+          "name": "David Yune",
+          "url": "https://open.spotify.com/artist/3qqheoFCeDrss96Ku756uP"
+        },
+        {
+          "name": "Jeff Leonard",
+          "url": "https://open.spotify.com/artist/1w7GqrKUmIDWu1pb2g6ySL"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200588,
+      "name": "C\u00ednico",
+      "url": "https://open.spotify.com/track/6ZcT4Jl8j0LWi7xF5O1odK"
+    },
+    {
+      "album": {
         "name": "Dark Side Of The Moon",
         "url": "https://open.spotify.com/album/14wH4mIm2pKnZ9ti5co81U"
       },

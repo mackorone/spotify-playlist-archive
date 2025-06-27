@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-874 songs - 1 day 22 hr 30 min
+878 songs - 1 day 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Cruel Love](https://open.spotify.com/track/10NDK7nxUJzG4Csso2zxJM) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU), [Beau Nox](https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq) | [Cruel Love](https://open.spotify.com/album/5uPvGiPcHdEqwtFolFtru1) | 4:39 | 2025-06-19 |  |
 | [Cruise](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Cruise](https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U) | 2:55 | 2024-07-25 |  |
 | [crush](https://open.spotify.com/track/6KGsHohZ5ohVgr5N9l7kAY) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [what is a heart?](https://open.spotify.com/album/2CUFj3Cn9v4MSvQdvFnysG) | 2:36 | 2024-09-12 |  |
+| [Cry](https://open.spotify.com/track/0kL4tQLRGQeYD57CikCx4E) | [19Clouds](https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF) | [Cry](https://open.spotify.com/album/0PMWvvmG8cJYKuHD1Dmo6M) | 2:52 | 2025-06-26 |  |
 | [Crying Out Loud](https://open.spotify.com/track/7dhqFnDuo9l9ZOvJTWoG2u) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Naliya](https://open.spotify.com/artist/6n4qDgsuoohAN5Q7HebLvU) | [Noise Pollution](https://open.spotify.com/album/2Bj2CNQUurTkMIhy4gero9) | 2:20 | 2024-12-05 |  |
 | [Cut](https://open.spotify.com/track/2y8USOrYuvaz4BqN9guAt4) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Healers Vol\. 1](https://open.spotify.com/album/2Ll1j6O1ipT0z9w5VBymq8) | 1:58 | 2023-11-09 |  |
 | [Cycles \- Darby Remix](https://open.spotify.com/track/4P95ys389gp7LR9Al5RbDx) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [Isaiah](https://open.spotify.com/artist/3gsYxd24CST6We4T6MAtwT) | [Cycles \(Darby Remix\)](https://open.spotify.com/album/2KMCFCIxT45zypf9SGaZpT) | 2:58 | 2023-08-03 | 2024-01-06 |
@@ -269,6 +270,7 @@
 | [gone for life](https://open.spotify.com/track/5eYt43KKoozTGthKRNQ6JW) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F) | [gone for life](https://open.spotify.com/album/3Y8lizmTldfb0CNv3zylFQ) | 2:57 | 2025-01-23 |  |
 | [Good Times](https://open.spotify.com/track/5FWfJSPotjdGUat9bL5bZu) | [Love,Shaun](https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu) | [Good Times](https://open.spotify.com/album/1wkaDOeP0t8MzulEqn3pex) | 3:24 | 2024-05-30 |  |
 | [Goodbyes](https://open.spotify.com/track/3CoTxjHzLNzuSceVoPly5U) | [Peace Bringa](https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM) | [Goodbyes](https://open.spotify.com/album/4RgU7Z5O3vXfxrqmiJKocf) | 4:09 | 2024-01-05 |  |
+| [Gorgeous](https://open.spotify.com/track/1nS8N96n8G4fFUG8RijrzU) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Gorgeous](https://open.spotify.com/album/0Cfra82asXBC16xqQ0HdjQ) | 3:06 | 2025-06-26 |  |
 | [Gravity](https://open.spotify.com/track/2J9jWkE2NUeULlJ7OSIZ3G) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lauren Nicole](https://open.spotify.com/artist/372yikzGlwhP86LfFwZqrX) | [Gravity](https://open.spotify.com/album/7lrpAdRWokKcAqlGUb7erv) | 3:15 | 2025-03-06 |  |
 | [Gravity](https://open.spotify.com/track/2wi2zCS4dz5a3yOcZ1u3Hd) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Gravity](https://open.spotify.com/album/5wn1hHXo5llTUY3vaahWfd) | 2:50 | 2024-12-05 |  |
 | [Greed \- Radio Edit](https://open.spotify.com/track/5iU0vZYbjDbq6JJiOwe6Af) | [Peace Bringa](https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM) | [Greed \(Radio Edit\)](https://open.spotify.com/album/19l8CyTUsMvhVrDXITgi9V) | 3:30 | 2024-10-17 |  |
@@ -319,6 +321,7 @@
 | [How Do U Feel](https://open.spotify.com/track/1LjJjkKtr7N7zGGfyBl3M1) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [How Do U Feel](https://open.spotify.com/album/71NytofTYW4F5hBuDLMPY7) | 3:04 | 2023-12-14 | 2024-01-06 |
 | [How I Feel](https://open.spotify.com/track/20ZM010DgP7NYaLWIbaEMF) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [How I Feel](https://open.spotify.com/album/42f5IWubZit8UWi9dMUA9H) | 5:23 | 2024-05-16 |  |
 | [how2fly](https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [kidsgonemad!](https://open.spotify.com/album/2rMP8tQaoWn14zQM2zUOzG) | 4:01 | 2023-10-19 |  |
+| [Human](https://open.spotify.com/track/3QV6KLr9VXTDMRLW0OSMUA) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Human](https://open.spotify.com/album/572MbsTP9h95W06jzXL1W2) | 2:35 | 2025-06-26 |  |
 | [Human](https://open.spotify.com/track/7mXA7ig1a2eIFSU7i3dmdp) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Human](https://open.spotify.com/album/7h055YeG299pK2UGR9Wm4U) | 2:38 | 2023-07-28 | 2024-01-06 |
 | [Human](https://open.spotify.com/track/6Kl0BmROA5CAwtQOEFd99y) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Human](https://open.spotify.com/album/2Lp9nUToblWF8nbzeMVzjA) | 2:13 | 2023-10-12 | 2024-01-06 |
 | [Hurricane \- Ryan Case Remix](https://open.spotify.com/track/5146r6RrR2ElhlrGr64Fuq) | [Koastle](https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g), [Talia Rose](https://open.spotify.com/artist/6eYjrfBSmbl3b8TijVnW3T), [Ryan Case](https://open.spotify.com/artist/2MCUmcEXeY80S0aSucQsXn) | [Hurricane \(Ryan Case Remix\)](https://open.spotify.com/album/6J62BG8YytAQ5zhRgOEb61) | 2:54 | 2023-06-22 | 2024-01-06 |
@@ -648,6 +651,7 @@
 | [see u](https://open.spotify.com/track/6Fg0fOsCwdIKmJzuFJWekp) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [see u](https://open.spotify.com/album/5CuHiWXqJGGzU4UFKL9IDy) | 2:10 | 2023-12-14 |  |
 | [See You](https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [See You / Feel So Lonely](https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q) | 4:43 | 2023-04-13 |  |
 | [SEE YOU AGAIN](https://open.spotify.com/track/6Az70eTFLGsu3KWFB2mYHh) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [OXY2\*](https://open.spotify.com/album/2oaTK2Y4tGP9s6eSE3GtuL) | 2:43 | 2025-02-27 |  |
+| [Self Control](https://open.spotify.com/track/1vfBfRJaHRFVRRYMoJNg7N) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lilly](https://open.spotify.com/artist/4d6vYcZhMIvOLuCHA7Y6Wb) | [Self Control](https://open.spotify.com/album/03xh8sZqJDe50mUiEqk7Ni) | 2:52 | 2025-06-26 |  |
 | [SENSATIONS](https://open.spotify.com/track/0VLOrgzhF7tzlXLzN19u1Z) | [BOMBAYS](https://open.spotify.com/artist/7A4VOBpGKQHvPpbdNqQHmC) | [SENSATIONS](https://open.spotify.com/album/1QKqAirMDjFJtL2hwogEG7) | 3:40 | 2023-06-22 | 2024-01-06 |
 | [SET ME FREE](https://open.spotify.com/track/5kVwOShLwLmUq0s1NrsRvy) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [SET ME FREE](https://open.spotify.com/album/50KKLoh0MofHPUqaJkYnVm) | 3:07 | 2023-10-05 | 2024-01-06 |
 | [SET ME FREE](https://open.spotify.com/track/2M7S8QWAYNkYiA6lSl47YB) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [SET ME FREE](https://open.spotify.com/album/1y5ZBGShGAM5JxDOE1LNrW) | 2:58 | 2024-01-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > slap house on repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,503 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,524 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 26 | [Afterparty](https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6) | 2:40 |
 | 27 | [Big Hoops](https://open.spotify.com/track/29jqFjb8D3GvGjWcCnl4IJ) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv), [LEOWI](https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y) | [Big Hoops](https://open.spotify.com/album/4tBx7yPE2YtUqXrLldEghH) | 2:19 |
 | 28 | [Somebody To Love](https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ) | [Axel Black & White](https://open.spotify.com/artist/3OexsqL65OHjNt8oeFn0fN) | [Somebody To Love](https://open.spotify.com/album/7FzaGZqU7lXtba0UkfoIEc) | 2:21 |
-| 29 | [Gangsta's Paradise](https://open.spotify.com/track/6Cm7r5U5igaAnwKOWjFhTq) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [Bodybangers](https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA), [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b) | [Gangsta's Paradise](https://open.spotify.com/album/5miAnRqv7eWbmgY4nK7jU9) | 2:48 |
-| 30 | [1001 Arabian Nights](https://open.spotify.com/track/3YmiKv5z67ZV8tiW1eNHCM) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ), [Chipz](https://open.spotify.com/artist/770rU18or2uAGT21xyvpzp) | [1001 Arabian Nights](https://open.spotify.com/album/6yGgrWVZENV6IQCCpxZQRI) | 2:54 |
+| 29 | [1001 Arabian Nights](https://open.spotify.com/track/3YmiKv5z67ZV8tiW1eNHCM) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ), [Chipz](https://open.spotify.com/artist/770rU18or2uAGT21xyvpzp) | [1001 Arabian Nights](https://open.spotify.com/album/6yGgrWVZENV6IQCCpxZQRI) | 2:54 |
+| 30 | [Gangsta's Paradise](https://open.spotify.com/track/6Cm7r5U5igaAnwKOWjFhTq) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [Bodybangers](https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA), [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b) | [Gangsta's Paradise](https://open.spotify.com/album/5miAnRqv7eWbmgY4nK7jU9) | 2:48 |
 | 31 | [Mask Off](https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Mask Off](https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl) | 2:31 |
 | 32 | [Sweet Dreams \(feat\. Imanbek\)](https://open.spotify.com/track/5mnidOH84oGj82xBcypP2j) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams \(feat\. Imanbek\) \[Remixes\]](https://open.spotify.com/album/5LKrGd8oU56PLe793imghr) | 2:20 |
 | 33 | [Outta Love](https://open.spotify.com/track/0oLBr0Knuo63yDvnq3f5U3) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [TEN TONNE SKELETON](https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA) | [Outta Love](https://open.spotify.com/album/59FlDwNsfaskGibimitsIm) | 2:44 |

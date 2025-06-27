@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 44161,
+  "num_followers": 44172,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAABqATYpaqqZGKJFlydkorBx",
+  "snapshot_id": "aFs8AAAAAABKDZM/gMJe0lic9GqbcVse",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Soy Criminal",
+        "url": "https://open.spotify.com/album/5nE243Nz85r4rkOorklyLG"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "duration_ms": 217263,
+      "name": "No Soy Criminal",
+      "url": "https://open.spotify.com/track/2l4jKCwRh2so8aKPckRUPz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Al Sur de la Noche",
         "url": "https://open.spotify.com/album/20k8vslpDovsribWcjDFX3"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 163100,
       "name": "Azul",
       "url": "https://open.spotify.com/track/7tBRS4vt64l7LSFRco8Ycz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Soy Criminal",
-        "url": "https://open.spotify.com/album/5nE243Nz85r4rkOorklyLG"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        }
-      ],
-      "duration_ms": 217263,
-      "name": "No Soy Criminal",
-      "url": "https://open.spotify.com/track/2l4jKCwRh2so8aKPckRUPz"
     },
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Borracha De Amor",
+        "url": "https://open.spotify.com/album/1YMVH8pp65AHdVpxnahXIr"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 219941,
+      "name": "Borracha De Amor",
+      "url": "https://open.spotify.com/track/0rHQ2ijSFoBusXBYQA8HQR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alzypher Vol. 1",
         "url": "https://open.spotify.com/album/4DUkuTeI0yoBSvFaj1YKDH"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 288000,
       "name": "Alzypher Vol. 1",
       "url": "https://open.spotify.com/track/4tepeG09xywMIaQ9zKezfH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Borracha De Amor",
-        "url": "https://open.spotify.com/album/1YMVH8pp65AHdVpxnahXIr"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 219941,
-      "name": "Borracha De Amor",
-      "url": "https://open.spotify.com/track/0rHQ2ijSFoBusXBYQA8HQR"
     },
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Tu Piel",
-        "url": "https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "Por Tu Piel",
-      "url": "https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monstruos",
         "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 151604,
       "name": "No Me Marques Pedo",
       "url": "https://open.spotify.com/track/4XhxL3yq18qWSLxqaYargW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Tu Piel",
+        "url": "https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "Por Tu Piel",
+      "url": "https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Quiero Verte",
-        "url": "https://open.spotify.com/album/711cIsL3jwCkosLTeycAg8"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Ya No Quiero Verte",
-      "url": "https://open.spotify.com/track/6m77XYqqnVxfREQsiUi7O9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Me Pas\u00f3",
         "url": "https://open.spotify.com/album/3JrWWDWTNdrsHX9QZf2ya3"
       },
@@ -715,6 +695,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya No Quiero Verte",
+        "url": "https://open.spotify.com/album/711cIsL3jwCkosLTeycAg8"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Ya No Quiero Verte",
+      "url": "https://open.spotify.com/track/6m77XYqqnVxfREQsiUi7O9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Terremoto",
         "url": "https://open.spotify.com/album/6jSnmwRfQxofOlRzKEFBAa"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 207000,
       "name": "Terremoto",
       "url": "https://open.spotify.com/track/2RiEHEoEOKk4v3pKb522RR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00fa",
-        "url": "https://open.spotify.com/album/29zNxf58MwcAz9lY7LaIUA"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/0DN0nP4u5jjfgbSUp6hf3O"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/29zNxf58MwcAz9lY7LaIUA"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/0DN0nP4u5jjfgbSUp6hf3O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aqu\u00ed Estamos",
         "url": "https://open.spotify.com/album/3ZFGpnouTmOuER9kTaom0s"
       },
@@ -795,6 +795,26 @@
       "duration_ms": 183771,
       "name": "Aqu\u00ed Estamos",
       "url": "https://open.spotify.com/track/7AQGYyve2qTrEiIUitZhqy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Retumbando en la Ciudad",
+        "url": "https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 214736,
+      "name": "Retumbando en la Ciudad",
+      "url": "https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb"
     },
     {
       "added_at": null,
@@ -827,26 +847,6 @@
       "duration_ms": 207483,
       "name": "Alzypher Vol. 9",
       "url": "https://open.spotify.com/track/4VgKKuLoLAcgNvJ8d0hKlA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Retumbando en la Ciudad",
-        "url": "https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 214736,
-      "name": "Retumbando en la Ciudad",
-      "url": "https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb"
     },
     {
       "added_at": null,
@@ -971,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Ti Me Olvid\u00e9",
-        "url": "https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp"
-      },
-      "artists": [
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "De Ti Me Olvid\u00e9",
-      "url": "https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ma\u00f1ana Ser\u00e1 Otro D\u00eda",
         "url": "https://open.spotify.com/album/6LOpEa2PQnIhwMzeE9levS"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 213818,
       "name": "\u2060 \u2060\u2060La Luz",
       "url": "https://open.spotify.com/track/25pDTDC3mcCHVEXwNICGDQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Ti Me Olvid\u00e9",
+        "url": "https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp"
+      },
+      "artists": [
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "De Ti Me Olvid\u00e9",
+      "url": "https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb"
     },
     {
       "added_at": null,
@@ -1051,30 +1051,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dos Extra\u00f1os",
-        "url": "https://open.spotify.com/album/6rxxhbHjt4bwvrbm660BZ7"
-      },
-      "artists": [
-        {
-          "name": "Adehese",
-          "url": "https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 196216,
-      "name": "Dos Extra\u00f1os",
-      "url": "https://open.spotify.com/track/4H6yrTlUFFtFe1qwHp2gOL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chip S (Metal Version)",
         "url": "https://open.spotify.com/album/5NvCktcLMOIlYHK8lnK7De"
       },
@@ -1111,6 +1087,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dos Extra\u00f1os",
+        "url": "https://open.spotify.com/album/6rxxhbHjt4bwvrbm660BZ7"
+      },
+      "artists": [
+        {
+          "name": "Adehese",
+          "url": "https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 196216,
+      "name": "Dos Extra\u00f1os",
+      "url": "https://open.spotify.com/track/4H6yrTlUFFtFe1qwHp2gOL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Roll",
         "url": "https://open.spotify.com/album/6a8vWL0w3KFrSw7DqpPxSa"
       },
@@ -1127,26 +1127,6 @@
       "duration_ms": 226666,
       "name": "De Roll",
       "url": "https://open.spotify.com/track/2sdKmNpQJmgVSPoiyXcq0t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00e1melo",
-        "url": "https://open.spotify.com/album/3YUn7HRgQj6c8R0WeXpmpC"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "D\u00e1melo",
-      "url": "https://open.spotify.com/track/5C1YeWx8HhUnkWOuWvGxi2"
     },
     {
       "added_at": null,
@@ -1187,6 +1167,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entre Mis Manos",
+        "url": "https://open.spotify.com/album/1l2ELHhHYUZOLjunbwWRJK"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Adehese",
+          "url": "https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "Entre Mis Manos",
+      "url": "https://open.spotify.com/track/41WuR767LDesQv7lwU8biR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/4ss4Hp44BnnJxCQua0TuSk"
       },
@@ -1211,22 +1211,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Mis Manos",
-        "url": "https://open.spotify.com/album/1l2ELHhHYUZOLjunbwWRJK"
+        "name": "Lo Que Qued\u00f3",
+        "url": "https://open.spotify.com/album/1rSjJvh3GZ9c4xjAdS2LkN"
       },
       "artists": [
         {
           "name": "Yoss Bones",
           "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Adehese",
-          "url": "https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi"
         }
       ],
-      "duration_ms": 220500,
-      "name": "Entre Mis Manos",
-      "url": "https://open.spotify.com/track/41WuR767LDesQv7lwU8biR"
+      "duration_ms": 207464,
+      "name": "Lo Que Qued\u00f3",
+      "url": "https://open.spotify.com/track/1SU9MrVBKY2CZXWZP1F3BC"
     }
   ],
   "unique_name": "This Is Yoss Bones",

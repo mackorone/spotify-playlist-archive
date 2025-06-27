@@ -1,13 +1,29 @@
 {
   "description": "All songs made for furs, by furs.  Check top 25 @ spotify.furrest.net",
-  "num_followers": 598,
+  "num_followers": 599,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADnhGYTEab3RB4PuSl6K0QqeY+vW9x",
+  "snapshot_id": "AAADn2OIa4QDCMKqukotQK3xCtBMOOYn",
   "tracks": [
+    {
+      "added_at": "2025-06-27 03:27:02",
+      "album": {
+        "name": "My Love is a Quickscope",
+        "url": "https://open.spotify.com/album/2fm2HpEwNWqdsqLcCE4D0H"
+      },
+      "artists": [
+        {
+          "name": "Vylet Pony",
+          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
+        }
+      ],
+      "duration_ms": 227250,
+      "name": "My Love is a Quickscope",
+      "url": "https://open.spotify.com/track/7hBjYecLIxghERxBAH02Fz"
+    },
     {
       "added_at": "2025-06-16 02:33:42",
       "album": {

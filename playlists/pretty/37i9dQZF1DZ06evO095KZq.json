@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 443504,
+  "num_followers": 443518,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAABPr9tCAFR7CVhg2LaS5P6D",
+  "snapshot_id": "aFs8AAAAAAB5bYJhiwvjIPIsFJJ4hm7A",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En El Camino",
+        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 153428,
+      "name": "En Esta Vida",
+      "url": "https://open.spotify.com/track/7joCaTxiKe7olUY4aQRSN4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "10 Kilates (Con Norte\u00f1o)",
         "url": "https://open.spotify.com/album/3bTNvG7R2BbLUE9zyaLCPt"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 155416,
       "name": "Hombre de Rancho",
       "url": "https://open.spotify.com/track/59IyKRSgCwLyKS3e46TlYM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En El Camino",
-        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 153428,
-      "name": "En Esta Vida",
-      "url": "https://open.spotify.com/track/7joCaTxiKe7olUY4aQRSN4"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hay pa' Toro",
+        "url": "https://open.spotify.com/album/1sFW62xlG5S3d5PrM0H7Cp"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 159597,
+      "name": "De Puntitas",
+      "url": "https://open.spotify.com/track/5krlcKy4xFlCQbJ75rhNJ9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Al Rey Jos\u00e9 Alfredo Jim\u00e9nez Vol. 2",
         "url": "https://open.spotify.com/album/2OSScqwUyJf5gtMfj93T2b"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 156307,
       "name": "Cuatro Caminos",
       "url": "https://open.spotify.com/track/3ZRed7OJLXiSvfl0Ikv0qH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hay pa' Toro",
-        "url": "https://open.spotify.com/album/1sFW62xlG5S3d5PrM0H7Cp"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 159597,
-      "name": "De Puntitas",
-      "url": "https://open.spotify.com/track/5krlcKy4xFlCQbJ75rhNJ9"
     },
     {
       "added_at": null,

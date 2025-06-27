@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 211 songs - 11 hr 38 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 213 songs - 11 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,5 +219,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 209 | [Seven Days in Sunny June](https://open.spotify.com/track/2bwxqGKS5GPXfNanAIRe2p) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Dynamite](https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW) | 3:57 |
 | 210 | [U Say \(feat\. Tyler, The Creator & Jay Prince\)](https://open.spotify.com/track/2p37Mfy2PWajgOS3i2aaep) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [Diaspora](https://open.spotify.com/album/790qROmQ1y4aPEYLcSkScH) | 3:21 |
 | 211 | [What a Fool Believes](https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Minute by Minute](https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB) | 3:43 |
+| 212 | [Monks](https://open.spotify.com/track/0msrDPXxZpts4FRnoX0bFr) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 |
+| 213 | [Forever Eva](https://open.spotify.com/track/2RBhWftEVVxY2J1AHWh5su) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Beast Mode](https://open.spotify.com/album/02Mp4Q83TVhpe8VeCpMZjZ) | 3:36 |
 
-Snapshot ID: `AAAenFe/1P0IDMJFpVNVxxbEqJhV9QQv`
+Snapshot ID: `AAAenrCFEpId6BoMfFUTYR3wdjPQRVtz`

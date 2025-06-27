@@ -11852,7 +11852,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-17",
+      "date_removed": null,
       "duration_ms": 166760,
       "name": "El chapo",
       "url": "https://open.spotify.com/track/08J3tcESmdRb8IjT12FG50"
@@ -14994,7 +14994,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 188355,
       "name": "Gipsy Style",
       "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
@@ -17310,7 +17310,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
@@ -23230,7 +23230,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 150000,
       "name": "MAZDA",
       "url": "https://open.spotify.com/track/1rphOlDQNt1BrIvc4zn5uq"
@@ -26581,6 +26581,24 @@
     },
     {
       "album": {
+        "name": "Ochii astia verzi",
+        "url": "https://open.spotify.com/album/4zMEH6d5Hi3lyq27qU5pkM"
+      },
+      "artists": [
+        {
+          "name": "Jamarr",
+          "url": "https://open.spotify.com/artist/2Roz50myt3fs26y6i2EDq0"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139234,
+      "name": "Ochii astia verzi",
+      "url": "https://open.spotify.com/track/7Isb8NSK7ILGDWYJr9mFZq"
+    },
+    {
+      "album": {
         "name": "ultima noapte de dragoste",
         "url": "https://open.spotify.com/album/5sJ2mae4ntm9IQejfepkPO"
       },
@@ -27356,7 +27374,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -27874,7 +27892,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 210811,
       "name": "Papusa Barbie",
       "url": "https://open.spotify.com/track/5hlKmxQyK8TXVsuUBY0ZLo"
@@ -36688,7 +36706,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-25",
+      "date_removed": null,
       "duration_ms": 125333,
       "name": "Talento Bari",
       "url": "https://open.spotify.com/track/2Mdle8X7tJ2CXCNztsm3Me"

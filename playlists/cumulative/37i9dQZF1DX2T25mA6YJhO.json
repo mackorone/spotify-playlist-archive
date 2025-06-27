@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Casero.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: vangoura, Repion.",
   "name": "Rock 2025",
   "tracks": [
     {
@@ -78,6 +78,28 @@
       "duration_ms": 207124,
       "name": "4 Impulsos M\u00e1s",
       "url": "https://open.spotify.com/track/2UEWhrxIRlZJeObLrwhhE2"
+    },
+    {
+      "album": {
+        "name": "40 de mayo",
+        "url": "https://open.spotify.com/album/3DCSQJL7BOBeCgoEpIOmYr"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        },
+        {
+          "name": "Repion",
+          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173297,
+      "name": "40 de mayo",
+      "url": "https://open.spotify.com/track/05HBqcSM1SeixtdrWrp3Dm"
     },
     {
       "album": {
@@ -710,7 +732,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 192162,
       "name": "Baila",
       "url": "https://open.spotify.com/track/4FsFuSar5EQ6YFcBlMWeuH"
@@ -1050,7 +1072,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 164722,
       "name": "Catafalco",
       "url": "https://open.spotify.com/track/3fJ0ARIzQ9hn2IbUs7tdls"
@@ -1740,7 +1762,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 185565,
       "name": "Dos Gusanos",
       "url": "https://open.spotify.com/track/0QCThVo6CAQ85b8a8yCaxM"
@@ -2036,6 +2058,24 @@
       "duration_ms": 199700,
       "name": "El sue\u00f1o de Dios",
       "url": "https://open.spotify.com/track/13jUfFSW21PY88QfBLdxuc"
+    },
+    {
+      "album": {
+        "name": "Ella quiere tocarme el pelo",
+        "url": "https://open.spotify.com/album/3ZsloSV4M7bd7IKef9BxwJ"
+      },
+      "artists": [
+        {
+          "name": "Dear Joanne",
+          "url": "https://open.spotify.com/artist/2JIPw69fHWYALCdZDDphpa"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138900,
+      "name": "Ella quiere tocarme el pelo",
+      "url": "https://open.spotify.com/track/492XllyzXEuDxlgsjHsGx5"
     },
     {
       "album": {
@@ -2433,6 +2473,24 @@
     },
     {
       "album": {
+        "name": "Frases de mierda",
+        "url": "https://open.spotify.com/album/7xyoRzfAvpFzVIea0IlKm2"
+      },
+      "artists": [
+        {
+          "name": "piti y me voy",
+          "url": "https://open.spotify.com/artist/334ZIJVugvR3DZxCXNnusx"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168872,
+      "name": "Frases de mierda",
+      "url": "https://open.spotify.com/track/6G9R42pAMZuC4sxA1V6wz5"
+    },
+    {
+      "album": {
         "name": "Fuera De Lugar",
         "url": "https://open.spotify.com/album/00yW3R9E734W48i9Umcz1t"
       },
@@ -2516,7 +2574,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 163995,
       "name": "Ganas de verte",
       "url": "https://open.spotify.com/track/2XmWFMAvrpztGKmRtQX4AH"
@@ -2838,7 +2896,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 197253,
       "name": "Huella de ti",
       "url": "https://open.spotify.com/track/6SmYVKgtUd4jsZdkAnnA1b"
@@ -3514,6 +3572,24 @@
       "duration_ms": 114545,
       "name": "LOPE DE VEGA",
       "url": "https://open.spotify.com/track/5mbv9VI6wt8NqC6phjC10P"
+    },
+    {
+      "album": {
+        "name": "Lorazepam",
+        "url": "https://open.spotify.com/album/4GCRYaMud1KDfwdkYHU2Xf"
+      },
+      "artists": [
+        {
+          "name": "Amante Laff\u00f3n",
+          "url": "https://open.spotify.com/artist/73nKf9LdEfuRB5TJRkai1T"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185985,
+      "name": "Lorazepam",
+      "url": "https://open.spotify.com/track/7a1daYbxR6nYJcRYP4HXuv"
     },
     {
       "album": {
@@ -4551,6 +4627,24 @@
     },
     {
       "album": {
+        "name": "No era esto a lo que ven\u00edamos",
+        "url": "https://open.spotify.com/album/5cpTiFYB37nyHvEnme2XLa"
+      },
+      "artists": [
+        {
+          "name": "destellos*",
+          "url": "https://open.spotify.com/artist/64lSN5YYxoqLJB1dC3HS3C"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196851,
+      "name": "No era esto a lo que ven\u00edamos",
+      "url": "https://open.spotify.com/track/19yuL7xgX4vYVPh4mdImWG"
+    },
+    {
+      "album": {
         "name": "no hemos aprendido nada",
         "url": "https://open.spotify.com/album/1N0cwHh53KG07ittN6rwoD"
       },
@@ -4912,7 +5006,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 219617,
       "name": "otra vez pensando en todo esto",
       "url": "https://open.spotify.com/track/0r9fVCpNOnIbvKTCjah1kz"
@@ -5612,7 +5706,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 194000,
       "name": "Regla y purpurina",
       "url": "https://open.spotify.com/track/5vZx86TYr9NSY8IRjng270"
@@ -5673,6 +5767,28 @@
     },
     {
       "album": {
+        "name": "Robo Tu Tiempo",
+        "url": "https://open.spotify.com/album/6oBeelEQ2XT22hpmgmhMjW"
+      },
+      "artists": [
+        {
+          "name": "Tri\u00e1ngulo de Amor Bizarro",
+          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
+        },
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164358,
+      "name": "Robo Tu Tiempo",
+      "url": "https://open.spotify.com/track/4OMZMYLWGpM10z2cwGEXa1"
+    },
+    {
+      "album": {
         "name": "Romance Extremo",
         "url": "https://open.spotify.com/album/1kN9S9rysBtLdkh9sdzHj5"
       },
@@ -5684,7 +5800,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 144179,
       "name": "Romance Extremo",
       "url": "https://open.spotify.com/track/2MA3xS8Jeyg4TRqTESwEwp"

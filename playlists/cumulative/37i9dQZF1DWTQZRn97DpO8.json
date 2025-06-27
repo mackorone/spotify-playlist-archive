@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Ehla",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Nilusi",
   "name": "le miel",
   "tracks": [
     {
@@ -316,7 +316,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 230755,
       "name": "Apr\u00e8s toi",
       "url": "https://open.spotify.com/track/3D1yHZ6rA4hCHjSEOJwNQ8"
@@ -388,7 +388,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 135000,
       "name": "Aupr\u00e8s de moi",
       "url": "https://open.spotify.com/track/3a9OCDaEgxew2f8cpiGrqV"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 191518,
       "name": "Avant la guerre",
       "url": "https://open.spotify.com/track/4RmPwMap5mUmZdqMlTbeXB"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 197933,
       "name": "BESOIN",
       "url": "https://open.spotify.com/track/22F8Vg0iI9oInR8xE5EXjS"
@@ -720,6 +720,24 @@
       "duration_ms": 159585,
       "name": "Boru Kata",
       "url": "https://open.spotify.com/track/4l9N7iqG2TiTfMcY3CF1op"
+    },
+    {
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/21CTrD6XB9J14u9TnKGpH8"
+      },
+      "artists": [
+        {
+          "name": "Nka",
+          "url": "https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201426,
+      "name": "Boucle infinie",
+      "url": "https://open.spotify.com/track/6A33TYqsomqbEZnvprkIPJ"
     },
     {
       "album": {
@@ -992,6 +1010,24 @@
       "duration_ms": 195692,
       "name": "CIN\u00c9",
       "url": "https://open.spotify.com/track/2QwBM6L5t8yuEwaC2FXid7"
+    },
+    {
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/21CTrD6XB9J14u9TnKGpH8"
+      },
+      "artists": [
+        {
+          "name": "Nka",
+          "url": "https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197211,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/3oVuO5NMqQIM8S12g18T4j"
     },
     {
       "album": {
@@ -2247,6 +2283,24 @@
     },
     {
       "album": {
+        "name": "CUXI BOY PART II (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/3giyRav3BLrfm9zZG8gYCr"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186493,
+      "name": "FOLIE",
+      "url": "https://open.spotify.com/track/5cK2OUsnaThmFpUKfnyHEA"
+    },
+    {
+      "album": {
         "name": "TOUT BR\u00dbLE SAUF MOI",
         "url": "https://open.spotify.com/album/2gvFuE72tJBglPdowmjeLW"
       },
@@ -3031,6 +3085,28 @@
     },
     {
       "album": {
+        "name": "Jardin Secret",
+        "url": "https://open.spotify.com/album/3Dkh7X4mHBCFZSYe5XrDUi"
+      },
+      "artists": [
+        {
+          "name": "Drey Karper",
+          "url": "https://open.spotify.com/artist/0Wq0NJJ9rtXjmM6EWyYWUd"
+        },
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Jardin Secret",
+      "url": "https://open.spotify.com/track/0c3Y2vXu5M43JHFQHwH0QK"
+    },
+    {
+      "album": {
         "name": "ROOM 96",
         "url": "https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1"
       },
@@ -3656,6 +3732,24 @@
       "duration_ms": 198698,
       "name": "Les yeux ne mentent jamais",
       "url": "https://open.spotify.com/track/7y1cfgGTIjVhij8Yh1sQcs"
+    },
+    {
+      "album": {
+        "name": "Lettre \u00e0 l'Univers",
+        "url": "https://open.spotify.com/album/01wqFQmJuBRCDLAP3gvJxm"
+      },
+      "artists": [
+        {
+          "name": "Nilusi",
+          "url": "https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357141,
+      "name": "Lettre \u00e0 l'Univers",
+      "url": "https://open.spotify.com/track/0wqwl5GYK5KLHWqzjgM0sb"
     },
     {
       "album": {
@@ -4728,7 +4822,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 168000,
       "name": "On verra",
       "url": "https://open.spotify.com/track/1jOdu8jG3RYcQZgDxOTtd0"
@@ -5376,7 +5470,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 166000,
       "name": "QUE LES MOTS",
       "url": "https://open.spotify.com/track/538ptGcDqDlvEsXhgPCGzC"
@@ -7276,6 +7370,24 @@
       "duration_ms": 196973,
       "name": "\u00c2me soeur (feat. Enchant\u00e9e Julia)",
       "url": "https://open.spotify.com/track/0IiSb11VIooz2JYGDBFXo8"
+    },
+    {
+      "album": {
+        "name": "\u00e7a faisait longtemps",
+        "url": "https://open.spotify.com/album/6IRU3qCQtdUh3QJRojG4eA"
+      },
+      "artists": [
+        {
+          "name": "Malter",
+          "url": "https://open.spotify.com/artist/3FDn3vsowXE4E7NNQn4fqq"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161176,
+      "name": "\u00e7a faisait longtemps",
+      "url": "https://open.spotify.com/track/5JnMo7Vp5XgsHU06xYBSfZ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8"

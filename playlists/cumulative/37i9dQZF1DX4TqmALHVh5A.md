@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène francophone branchée sur courant alternatif\. Photo : Axel Bauer & Brigitte Fontaine
+> La scène francophone branchée sur courant alternatif\. Photo : MDNS
 
-314 songs - 16 hr 47 min
+315 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Modern Love](https://open.spotify.com/track/61rputyFcUsC1ldct1OKRr) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Modern Love](https://open.spotify.com/album/436QZpEOWnh4wVphHHYbrA) | 3:54 | 2024-05-30 | 2025-01-24 |
 | [Moins seul sans eux](https://open.spotify.com/track/1c56S0vX15OA4H8X64ziJl) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Moins seul sans eux](https://open.spotify.com/album/02dlfpLJyHZ5uONzXyQcDp) | 2:11 | 2023-12-08 | 2024-09-13 |
 | [Monumental](https://open.spotify.com/track/7tJlVzsLzzmA7bLI9ytgS9) | [Juniore](https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH) | [Trois, Deux, Un](https://open.spotify.com/album/20yAmWJJUpuJpB3qkkWCng) | 3:11 | 2024-09-12 | 2024-10-25 |
+| [Moonlight](https://open.spotify.com/track/3DvCNyGQmVziATGRqe9sjk) | [La parade](https://open.spotify.com/artist/5Avirxj77qzqN9LEjnOZHj) | [Moonlight](https://open.spotify.com/album/3Jr4eSbA81gwaoh81FAT5P) | 3:08 | 2025-06-26 |  |
 | [More Love](https://open.spotify.com/track/2u61bnDMLxqboFAZLin2XL) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [More Love](https://open.spotify.com/album/20hbGMg4Xyaa9sJ0HC3lSH) | 2:40 | 2024-08-15 | 2024-10-18 |
 | [MOURIR POUR MIEUX RENAITRE](https://open.spotify.com/track/5Lg3qeO2tE4mgADlzDsn6t) | [NAEKO](https://open.spotify.com/artist/0pyq140jTsiXoxlv1KKYzK) | [MOURIR POUR MIEUX RENAITRE](https://open.spotify.com/album/1LrbtJgbcgtDa5BmG8t90r) | 2:13 | 2025-05-15 |  |
 | [Mouvement](https://open.spotify.com/track/7GbsZEZ8zLcCU8TAbG6K7a) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Mouvement](https://open.spotify.com/album/3y809BPCmRsly2fQFKXDt3) | 2:38 | 2025-02-20 | 2025-06-20 |
@@ -207,7 +208,7 @@
 | [Nobody's Wife](https://open.spotify.com/track/3b0XPLMM0anvaKPumGyDoW) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Nobody's Wife](https://open.spotify.com/album/0JGgXJR6ZJES8IQ1bYEg8W) | 3:39 | 2023-09-28 | 2023-10-06 |
 | [NON!](https://open.spotify.com/track/0Exg9zdCIzf5oxraD55Hvx) | [Moyà](https://open.spotify.com/artist/1Xvap7Au9MqLcUJUCPcJp1) | [NON!](https://open.spotify.com/album/0QN2wl4FJrYBnug6pADlWq) | 1:41 | 2024-04-25 | 2024-06-07 |
 | [Nothing Ever Changes](https://open.spotify.com/track/2OL7obe1J70lqOitrZKHQw) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [OUT OF CONTROL, INTO THE WALL](https://open.spotify.com/album/3eBWV87VNtnMg6myhRbeYe) | 5:04 | 2024-11-21 | 2025-05-16 |
-| [ODYSS\_X](https://open.spotify.com/track/6hrSdAk3Z4gCb97LDfcsqs) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [BLAST.](https://open.spotify.com/album/76Pdmv0CzrIY14nzw6Qdcf) | 2:52 | 2025-02-20 |  |
+| [ODYSS\_X](https://open.spotify.com/track/6hrSdAk3Z4gCb97LDfcsqs) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [BLAST.](https://open.spotify.com/album/76Pdmv0CzrIY14nzw6Qdcf) | 2:52 | 2025-02-20 | 2025-06-27 |
 | [ON EST LES MÊMES](https://open.spotify.com/track/4yWpqptuVmPra8Ua8Huwg8) | [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ) | [ON EST LES MÊMES](https://open.spotify.com/album/4R937d2jBEIEij9ANYh7go) | 3:38 | 2023-11-23 | 2024-09-06 |
 | [On Fait du Rock](https://open.spotify.com/track/3Y6MKj7jBrXqPve2DyoWqO) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [On Fait du Rock](https://open.spotify.com/album/2vAq1Kmv81GC3GfkSg9neE) | 4:13 | 2023-09-28 | 2023-10-06 |
 | [Opening](https://open.spotify.com/track/6JlZNJP7EKJIxXPaeDQcrz) | [Talisco](https://open.spotify.com/artist/0ZR3khgseh3xy3s8iBYWrI) | [Opening](https://open.spotify.com/album/03BSJyijRZPzlCiPbTcHFC) | 2:04 | 2023-11-02 | 2024-01-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: Mark Van Hoen
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,782 likes - 103 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,893 likes - 103 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 20 | [Openness](https://open.spotify.com/track/4UoPQ2JPcVLpb3J45ddOyK) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X), [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Openness](https://open.spotify.com/album/5fThzHVAwnDedRdlqsQQTc) | 3:19 |
 | 21 | [Afterlight](https://open.spotify.com/track/0lU68D5QYhaxcaqXKRniSq) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Eagle Rock, March 21st](https://open.spotify.com/album/1M5s83rhV9NzmIX7fIXazS) | 5:19 |
 | 22 | [What Got Us To Our Feet](https://open.spotify.com/track/2nGZp9lOtY6dOt3pnzXHA9) | [Almost An Island](https://open.spotify.com/artist/0eqkViQMmHYvTpSesY7DjH), [marine eyes](https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25), [Kenneth James Gibson](https://open.spotify.com/artist/02YQpuCkgfk5jhZJSqjQdG), [James Bernard](https://open.spotify.com/artist/6d20guq0wJ6Z4sQGucU85q) | [What Got Us To Our Feet](https://open.spotify.com/album/2IemsgH7h1tYIIRk7vNwMC) | 4:53 |
-| 23 | [Luminal](https://open.spotify.com/track/7jHa6a3QRlJ9VM4sFzb9pn) | [Sorekara](https://open.spotify.com/artist/1iKVCznm9JPkYn8x9xjQw7), [Tim Hecker](https://open.spotify.com/artist/7pRm73J9e3cXI88k78J17V), [Helios](https://open.spotify.com/artist/0v9JoDixRtVMxQMxuM1r78) | [Luminal](https://open.spotify.com/album/3ItdFSJyglno2X3FvmKnCq) | 3:49 |
+| 23 | [Luminal](https://open.spotify.com/track/7jHa6a3QRlJ9VM4sFzb9pn) | [Sorekara](https://open.spotify.com/artist/1iKVCznm9JPkYn8x9xjQw7), [Tanarouge](https://open.spotify.com/artist/565GKMj0rrNhGBPyNR4RUT) | [Luminal](https://open.spotify.com/album/3ItdFSJyglno2X3FvmKnCq) | 3:49 |
 | 24 | [Bloom](https://open.spotify.com/track/0ABXrEh01Opz2xLiFBcPBM) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Bloom](https://open.spotify.com/album/1U9BDCSBfNXDf7DG2RD7Rf) | 2:59 |
 | 25 | [Open Shadow](https://open.spotify.com/track/4g0HhFBcBhPU4bkuhhGVEg) | [7038634357](https://open.spotify.com/artist/2k55GlZ4XckJwuYEQ4HJAO) | [Waterfall Horizon](https://open.spotify.com/album/78qlomYI4uQHUSVOJETLud) | 4:02 |
 | 26 | [As If A Phantom](https://open.spotify.com/track/2Q9b2xSGbf3KxptWbrDSLk) | [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [As If A Phantom](https://open.spotify.com/album/7MlHtNNmVzegLkGK7geVJh) | 3:44 |

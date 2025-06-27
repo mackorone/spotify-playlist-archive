@@ -4,7 +4,7 @@
 
 > Music from "Demon Slayer"\. © 吾峠呼世晴／集英社・アニプレックス・ufotable
 
-13 songs - 46 min 48 sec
+14 songs - 50 min 47 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [煉󠄁獄杏寿郎からのスペシャルメッセージ！](https://open.spotify.com/track/3clycLcEQJj6UTCKZr4Kox) | [アニメ『鬼滅の刃』](https://open.spotify.com/artist/676pVWYrnO5W0OswIifHH3) | [アニメ『鬼滅の刃』煉󠄁獄杏寿郎からのスペシャルメッセージ！](https://open.spotify.com/album/6hDXCJNfam0wceCXjlBUEX) | 0:36 | 2025-05-09 |  |
 | [白銀](https://open.spotify.com/track/0f5hcKLCRgpdVV424X4XDQ) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [白銀](https://open.spotify.com/album/3Y8xaDUTu15VRCE9TblUOy) | 4:24 | 2025-04-03 |  |
 | [竈門炭治郎からのスペシャルメッセージ！](https://open.spotify.com/track/368lNWCxahPu7knjKiFiPT) | [アニメ『鬼滅の刃』](https://open.spotify.com/artist/676pVWYrnO5W0OswIifHH3) | [アニメ『鬼滅の刃』竈門炭治郎からのスペシャルメッセージ！](https://open.spotify.com/album/3K4xydXnttfKb9IVRh1upw) | 0:25 | 2025-04-03 |  |
-| [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 | 2025-04-03 |  |
+| [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 | 2025-04-03 | 2025-06-27 |
+| [紅蓮華](https://open.spotify.com/track/0nUKU6e9COOCgO5tAUtlST) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [紅蓮華](https://open.spotify.com/album/03dTdtI7lVRiD2D3D9R4Be) | 3:58 | 2025-06-26 |  |
 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 | 2025-04-03 |  |
 
 \*This playlist was first scraped on 2025-04-04. Prior content cannot be recovered.

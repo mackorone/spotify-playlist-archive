@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11245,
+  "num_followers": 11244,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAADpnZnTMcJMoQeDmTCzV+v9",
+  "snapshot_id": "aFs8AAAAAAAnVaJ6grjQxreYTJgaU1dB",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parachute Remixes",
-        "url": "https://open.spotify.com/album/6JdKGPp0ITpogQQkkqayjR"
+        "name": "Hikikomori",
+        "url": "https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa"
       },
       "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        },
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 249360,
-      "name": "Drivin Thru the Night - Jai Wolf Remix",
-      "url": "https://open.spotify.com/track/1kfP0mK3HLu0VDMrspxIvr"
+      "duration_ms": 162171,
+      "name": "Hikikomori - Demo",
+      "url": "https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO"
     },
     {
       "added_at": null,
@@ -407,18 +403,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hikikomori",
-        "url": "https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa"
+        "name": "Parachute Remixes",
+        "url": "https://open.spotify.com/album/6JdKGPp0ITpogQQkkqayjR"
       },
       "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        },
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 162171,
-      "name": "Hikikomori - Demo",
-      "url": "https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO"
+      "duration_ms": 249360,
+      "name": "Drivin Thru the Night - Jai Wolf Remix",
+      "url": "https://open.spotify.com/track/1kfP0mK3HLu0VDMrspxIvr"
     },
     {
       "added_at": null,

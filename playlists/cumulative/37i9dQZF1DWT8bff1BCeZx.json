@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "ALL I WANT",
+        "url": "https://open.spotify.com/album/1ZdTVup0DzP4t5rrPmzERY"
+      },
+      "artists": [
+        {
+          "name": "Macjosh",
+          "url": "https://open.spotify.com/artist/4BqqI6vV1XdB5UbH2qhXak"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "ALL I WANT",
+      "url": "https://open.spotify.com/track/5H4XvFQKWdHGtUNBf282kz"
+    },
+    {
+      "album": {
         "name": "All Over",
         "url": "https://open.spotify.com/album/79wEgi2kCI7htaw5Ola48H"
       },
@@ -724,7 +742,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 108000,
       "name": "Answer",
       "url": "https://open.spotify.com/track/1liqEKrzalRTKwdw9NYnAs"
@@ -1766,7 +1784,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 161454,
       "name": "Confer",
       "url": "https://open.spotify.com/track/6IuFtTvnnNZm6DnhSPdcnu"
@@ -2251,6 +2269,24 @@
     },
     {
       "album": {
+        "name": "Dike",
+        "url": "https://open.spotify.com/album/1lyOTU8sBHyKjshkdbYqNn"
+      },
+      "artists": [
+        {
+          "name": "SONOJ ONOJA",
+          "url": "https://open.spotify.com/artist/6zHRpFSVzYf53NzQ74UCpM"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283559,
+      "name": "Dike",
+      "url": "https://open.spotify.com/track/6eu2QBwKajebnVcH7o815n"
+    },
+    {
+      "album": {
         "name": "DODOnDAWA",
         "url": "https://open.spotify.com/album/7G2DFgAbRSJ8HCWajXUNEp"
       },
@@ -2596,10 +2632,32 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 225958,
       "name": "Eternal",
       "url": "https://open.spotify.com/track/1pFFPEQN4EzdcbeMpF8P45"
+    },
+    {
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/3IxSBGvSLluNNMDyf2UOP3"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203265,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/1t3XeFBLr8zbx3rArQobfi"
     },
     {
       "album": {
@@ -3092,7 +3150,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 124489,
       "name": "FOUNTAIN",
       "url": "https://open.spotify.com/track/02h7yGsIosbSIvcAlwf0oZ"
@@ -4275,6 +4333,24 @@
     },
     {
       "album": {
+        "name": "How Can I Forget?",
+        "url": "https://open.spotify.com/album/4AHvbn1Co6cKRVGVf0k8is"
+      },
+      "artists": [
+        {
+          "name": "Yadah",
+          "url": "https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198668,
+      "name": "How Can I Forget?",
+      "url": "https://open.spotify.com/track/5qKnVUFrx6xwuaPFs0eUhm"
+    },
+    {
+      "album": {
         "name": "I Can Never Fail (Extended Version)",
         "url": "https://open.spotify.com/album/0CxKyFl2sGqzQ8hH7w1PUS"
       },
@@ -5300,7 +5376,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 200689,
       "name": "Kumama",
       "url": "https://open.spotify.com/track/0T1976UbQjxp4gp529DmQ7"
@@ -6178,7 +6254,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 163636,
       "name": "Na Who You Be",
       "url": "https://open.spotify.com/track/5HeTS1sl4kfR8IC34EvQPK"
@@ -8647,6 +8723,32 @@
     },
     {
       "album": {
+        "name": "Strong Name",
+        "url": "https://open.spotify.com/album/5dnpgK3bNK6xQVQXDOCfpy"
+      },
+      "artists": [
+        {
+          "name": "Paul-Emmanuel",
+          "url": "https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3"
+        },
+        {
+          "name": "Wiffi Drips",
+          "url": "https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7"
+        },
+        {
+          "name": "Awesome's Music Group",
+          "url": "https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170721,
+      "name": "Strong Name",
+      "url": "https://open.spotify.com/track/0D5BHSCWARuKw6Pc15Xdpm"
+    },
+    {
+      "album": {
         "name": "Sweet Daddy",
         "url": "https://open.spotify.com/album/0zGtpFvyA14opPOGUJCsAJ"
       },
@@ -8830,7 +8932,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 154124,
       "name": "Testify",
       "url": "https://open.spotify.com/track/03B6wjiG0kuJlWCv3neYcg"
@@ -9351,6 +9453,28 @@
     },
     {
       "album": {
+        "name": "Twakulumba (We Praise You)",
+        "url": "https://open.spotify.com/album/3bmZg76PXA1B4NpduLENDX"
+      },
+      "artists": [
+        {
+          "name": "Overland Missions Music",
+          "url": "https://open.spotify.com/artist/3p3D7GwSbpQHvzw7nUz8cf"
+        },
+        {
+          "name": "Racheal",
+          "url": "https://open.spotify.com/artist/2HjgUAOfmS92knyncXjXYJ"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246787,
+      "name": "Twakulumba (We Praise You)",
+      "url": "https://open.spotify.com/track/6ygbkOBN2EhCb6k4c4ABMY"
+    },
+    {
+      "album": {
         "name": "Umbrella",
         "url": "https://open.spotify.com/album/5oAg51Z7DMqZvqnuW4390Z"
       },
@@ -9441,6 +9565,28 @@
     },
     {
       "album": {
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/6XHM4gKUXfRwPpO1XIRPA5"
+      },
+      "artists": [
+        {
+          "name": "Anna Makula",
+          "url": "https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44"
+        },
+        {
+          "name": "JOSHUA LAZER",
+          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150508,
+      "name": "Undercover",
+      "url": "https://open.spotify.com/track/5cBWaDfCIFEvTnUF73urP6"
+    },
+    {
+      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/5gxghaLdPLVS5jqgLnA4SH"
       },
@@ -9478,6 +9624,28 @@
       "duration_ms": 484374,
       "name": "W.O.W (Walking On Water) - Reprise",
       "url": "https://open.spotify.com/track/1xpO4efGhPiVhXMdxGfV29"
+    },
+    {
+      "album": {
+        "name": "Wabwino",
+        "url": "https://open.spotify.com/album/1qgfsNnYLjJRs6tQk5HjKL"
+      },
+      "artists": [
+        {
+          "name": "Rudo Chakwera",
+          "url": "https://open.spotify.com/artist/7sFPtEKL22dH7skEk2Zjt2"
+        },
+        {
+          "name": "Abel Chungu Musuka",
+          "url": "https://open.spotify.com/artist/49LXAemdmdSqQ6yCo3UNlt"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219620,
+      "name": "Wabwino",
+      "url": "https://open.spotify.com/track/2CnBRKSQmsH87eU0nZylci"
     },
     {
       "album": {
@@ -10546,7 +10714,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 140369,
       "name": "You Do",
       "url": "https://open.spotify.com/track/5A6h9Hqw2iCVSRCuSsslWw"

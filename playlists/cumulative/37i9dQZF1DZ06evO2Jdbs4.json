@@ -624,7 +624,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-26",
+      "date_removed": null,
       "duration_ms": 189618,
       "name": "Inesperadamente",
       "url": "https://open.spotify.com/track/4GAqqobic0kTtK3mfAP6Am"
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 199973,
       "name": "Quiero Decirte",
       "url": "https://open.spotify.com/track/26ljxPYYQaVOMvTBxEifEG"
@@ -1858,10 +1858,32 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 254440,
       "name": "Vive",
       "url": "https://open.spotify.com/track/6ljSbHWwuUsDfOswRHlomj"
+    },
+    {
+      "album": {
+        "name": "Vive (En Vivo)",
+        "url": "https://open.spotify.com/album/2OxL3r7i2vU7e1YnHWkJfP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Jennifer Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/7FOLqljSYieJbPEpq3I5Qf"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253186,
+      "name": "Vive - En Vivo",
+      "url": "https://open.spotify.com/track/4kZrZYBSENlxX3zouRM2zL"
     },
     {
       "album": {

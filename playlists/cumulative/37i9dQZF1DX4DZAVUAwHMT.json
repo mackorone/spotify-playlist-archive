@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Muse",
+  "description": "The UK's biggest rock playlist. Cover: Twenty One Pilots",
   "name": "The Rock List",
   "tracks": [
     {
@@ -1152,6 +1152,24 @@
       "duration_ms": 176907,
       "name": "All The Problems",
       "url": "https://open.spotify.com/track/0yMBgZk0AkUKBqx4noEW19"
+    },
+    {
+      "album": {
+        "name": "There's Love In This World If You Want It",
+        "url": "https://open.spotify.com/album/2yFT16aiGIbFbeCTYVsmw7"
+      },
+      "artists": [
+        {
+          "name": "Higher Power",
+          "url": "https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240282,
+      "name": "All The Rage",
+      "url": "https://open.spotify.com/track/7j3wkOWJzTylQrZ85CsaPf"
     },
     {
       "album": {
@@ -3202,7 +3220,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 200653,
       "name": "Circe",
       "url": "https://open.spotify.com/track/7DYxpQ56aG3VPsBT6ukYDW"
@@ -3592,7 +3610,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 162000,
       "name": "CRASH",
       "url": "https://open.spotify.com/track/2oqoX9JB9mjK9Aomw61kM2"
@@ -4116,6 +4134,24 @@
       "duration_ms": 178863,
       "name": "Delusions of Grandeur",
       "url": "https://open.spotify.com/track/1PhnLoIh8emLvQ7mUM1CyJ"
+    },
+    {
+      "album": {
+        "name": "Descartes",
+        "url": "https://open.spotify.com/album/048eF8cmJqqF36fEvJABBY"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193197,
+      "name": "Descartes",
+      "url": "https://open.spotify.com/track/1VOBsB3ozaoQv3i6Uts3O1"
     },
     {
       "album": {
@@ -8020,7 +8056,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 146483,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/0oOmvjUwty6SzGqUhwlE99"
@@ -8828,7 +8864,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 306954,
       "name": "LA Runaway",
       "url": "https://open.spotify.com/track/3RHpo59t2CgyKlUGH2EXqX"
@@ -16670,6 +16706,24 @@
       "duration_ms": 238002,
       "name": "Unravelling",
       "url": "https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9"
+    },
+    {
+      "album": {
+        "name": "UNSCARRED",
+        "url": "https://open.spotify.com/album/6czRU4J9bxMfsn2NFKPrId"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181559,
+      "name": "UNSCARRED",
+      "url": "https://open.spotify.com/track/4NCCOQLzOJxor8Jv7nTEGx"
     },
     {
       "album": {

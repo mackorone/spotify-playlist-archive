@@ -4,7 +4,7 @@
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: KISS OF LIFE\)
 
-374 songs - 20 hr 25 min
+376 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Lullaby](https://open.spotify.com/track/1aDarBap4uQgOt9k4fxWd8) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/7h09nVKw1n6H86mPRBTzEL) | 3:37 | 2021-11-17 | 2022-05-16 |
 | [Lullaby](https://open.spotify.com/track/2iXvnjL5CH66UpnGjXHDmZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD) | 3:37 | 2022-07-27 | 2023-08-06 |
 | [Magic \(Feat\. JULIE of KISS OF LIFE\)](https://open.spotify.com/track/6pLYWcPnBdFJShuUARDIwj) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [JULIE](https://open.spotify.com/artist/3ZMTicGYs90UxyTEIScT5h) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:26 | 2024-07-31 |  |
-| [MAMMA MIA](https://open.spotify.com/track/65eBRMPIMrQVndALJMc4fX) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [SF9 4th Mini Album \[ MAMMA MIA! \]](https://open.spotify.com/album/1sJh6MN85EcJAxnfRt6YvV) | 3:24 | 2021-11-17 |  |
+| [MAMMA MIA](https://open.spotify.com/track/65eBRMPIMrQVndALJMc4fX) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [SF9 4th Mini Album \[ MAMMA MIA! \]](https://open.spotify.com/album/1sJh6MN85EcJAxnfRt6YvV) | 3:24 | 2021-11-17 | 2025-06-27 |
 | [Mango](https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Keep on Going \- The 11th Album Vol.1](https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp) | 3:19 | 2022-07-27 |  |
 | [ME ME WE \(feat\. Aizat Amdan, Chillies, PAAM, Quest & Rahmania Astrini\)](https://open.spotify.com/track/08Oq0ODihIEHHU9Y0JRi0W) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF), [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [NewKidd](https://open.spotify.com/artist/1ASod2UqIYzO1NGvj1zTgW), [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu), [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4), [PAM ANSHISA](https://open.spotify.com/artist/5Y84b3jX9aGpTr4F1CMNnP), [Quest](https://open.spotify.com/artist/4N7VMCvYd9Reh5bJLnRVzY), [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [ME ME WE \(feat\. Aizat Amdan, Chillies, PAAM, Quest & Rahmania Astrini\)](https://open.spotify.com/album/4PrWleaxfuvZ3plIJJxm8J) | 3:24 | 2021-11-17 | 2022-07-29 |
 | [Melt Down](https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:45 | 2024-09-04 |  |
@@ -236,6 +236,7 @@
 | [My Move](https://open.spotify.com/track/5PyfW50o3iKQ1rfvBNIYPC) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [My Move](https://open.spotify.com/album/7fcDWzalNj9GIV3D17DJIH) | 3:40 | 2022-07-04 | 2022-07-28 |
 | [My My](https://open.spotify.com/track/2ofZmsQptNzgUfmbNlnPYI) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3tWstxfjHMtqt2ZsRvhlYy) | 3:05 | 2021-11-17 | 2022-07-29 |
 | [My My](https://open.spotify.com/track/4rnvC8St4YDHGuQdBEByRz) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) | 3:05 | 2022-07-27 | 2024-04-19 |
+| [My Summer Manual](https://open.spotify.com/track/6xf2mjjNwa89MePZVfcjIE) | [JAESSBEE](https://open.spotify.com/artist/17RX24onuwf8gksn9Xa8hq) | [My Summer Manual](https://open.spotify.com/album/0HeWeUU85DRgIVpSxu9r6d) | 2:35 | 2025-06-27 |  |
 | [MY WAY](https://open.spotify.com/track/6J0X6cmz8etKQQ6IRdWBvD) | [Kyung dasom](https://open.spotify.com/artist/6ye5C0aCtNApMSefJTzdj1) | [MY WAY](https://open.spotify.com/album/46YfprnVuCrpeEIFXhyiVn) | 3:13 | 2021-11-17 | 2022-06-30 |
 | [NEGA DOLA](https://open.spotify.com/track/5OXGY1pFAAnxGSkqhZ4C6c) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [NEGA DOLA](https://open.spotify.com/album/4NCjScNfYn9jCnYSX86U2G) | 2:56 | 2022-01-09 | 2022-04-21 |
 | [Neverland](https://open.spotify.com/track/4bUOvMzcR9G6qE3qqIMgmd) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Romance in the House \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/4JmbCcuAGJm10DtWJRUMrY) | 2:55 | 2024-08-13 | 2025-02-26 |
@@ -332,6 +333,7 @@
 | [Summer night](https://open.spotify.com/track/0E2MxOyjc4l5lh4IkX2bZO) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Summer](https://open.spotify.com/album/6UOZ5T5xRdaNitOLDv5hXD) | 3:36 | 2022-07-11 | 2022-07-19 |
 | [Summer or Summer](https://open.spotify.com/track/6tU92qp9bJWAW86IHUggUa) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [DASOM](https://open.spotify.com/artist/6xxFNpc17jiiVZzOCgdLyv) | [Summer or Summer](https://open.spotify.com/album/5Sxd8gbumDCdcmq6M24eJV) | 3:19 | 2021-11-17 | 2024-06-17 |
 | [SUMMER PUNCH!](https://open.spotify.com/track/1DS55QyHMFDkNySaPe7hB5) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [BLUE PUNCH](https://open.spotify.com/album/1V1QotYL18t1kflVEcVLxd) | 3:15 | 2021-11-17 | 2022-06-13 |
+| [Summer Was You](https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 4th Mini Album \[Lovestruck\]](https://open.spotify.com/album/21oMWx3BnmfTOy2zqzxJwt) | 3:12 | 2025-06-27 |  |
 | [SUMMERIDE](https://open.spotify.com/track/4M9NbNJnOpVCN5jbNln2TJ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SUMMERIDE](https://open.spotify.com/album/5mZSzANMkDsJlbTTxugNNo) | 3:38 | 2021-11-17 | 2025-06-26 |
 | [Summertime \(feat\. Ashley Alisha\)](https://open.spotify.com/track/7Iik4joMVkfqrMMCDwFe3W) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [Summertime](https://open.spotify.com/album/0r9E2hgF8kZ4k9zDk72CbK) | 3:01 | 2022-06-18 | 2024-06-15 |
 | [Summertime \(Feat\. Keem Hyoeun\)](https://open.spotify.com/track/7oK8KEekZqC9aHmFiKS1i9) | [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p) | [Summertime](https://open.spotify.com/album/4NrnglBZ27dnRl3VCTpG3B) | 3:44 | 2021-11-17 | 2022-07-28 |
@@ -380,7 +382,7 @@
 | [You Are My Ocean](https://open.spotify.com/track/6687p4sFLPEzWL6YxsbkCT) | [EB](https://open.spotify.com/artist/5dTfHslH6PS97tNNgDwYaC) | [You Are My Ocean](https://open.spotify.com/album/35rbs0HMwzDGJQ4EI4qwga) | 2:58 | 2021-11-17 | 2022-06-29 |
 | [Your Song](https://open.spotify.com/track/59yoeKUIiRIFNxlA13AlDt) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [SPECIAL ALBUM \[Storage of ONF\]](https://open.spotify.com/album/4DMNgwsMFZzefb1HBAmHwG) | 3:40 | 2022-08-18 | 2022-10-06 |
 | [ZERO](https://open.spotify.com/track/7pWYbXXcXaDenC0yQylDmQ) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [COUNTDOWN \- The 1st Album](https://open.spotify.com/album/7yNv0QElHZXnh6wMac0cx3) | 3:26 | 2021-11-17 | 2024-06-15 |
-| [Zoo](https://open.spotify.com/track/7sEwz6PjhQ1bbSSWb6IBid) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:24 | 2021-11-17 |  |
+| [Zoo](https://open.spotify.com/track/7sEwz6PjhQ1bbSSWb6IBid) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:24 | 2021-11-17 | 2025-06-27 |
 | [해야 \(HEYA\)](https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) | 3:09 | 2024-05-09 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

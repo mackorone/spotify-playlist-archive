@@ -1,6 +1,6 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Alison Hinds",
-  "num_followers": 127775,
+  "num_followers": 127823,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
+        "name": "Folklore Riddim",
+        "url": "https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
         "name": "Famalay",
         "url": "https://open.spotify.com/album/0br9N1t4whHPB4Ad7DfHX6"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 199020,
       "name": "Famalay",
       "url": "https://open.spotify.com/track/48OrQFkuuFtlQHtq35xjJ9"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Folklore Riddim",
-        "url": "https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "The Purple Heart Riddim",
-        "url": "https://open.spotify.com/album/06m6nNsRzCFsb84ULwgdiZ"
-      },
-      "artists": [
-        {
-          "name": "Nadia Batson",
-          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
-        }
-      ],
-      "duration_ms": 183490,
-      "name": "So Long",
-      "url": "https://open.spotify.com/track/3VMqM5ryQlsQEH3CWSLLhQ"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Savannah Grass",
         "url": "https://open.spotify.com/album/6PBFX1vkmiHtd04gcsXGVA"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 179520,
       "name": "Savannah Grass",
       "url": "https://open.spotify.com/track/7aWK2UmGXMeOAfcVMxj8NX"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "The Purple Heart Riddim",
+        "url": "https://open.spotify.com/album/06m6nNsRzCFsb84ULwgdiZ"
+      },
+      "artists": [
+        {
+          "name": "Nadia Batson",
+          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
+        }
+      ],
+      "duration_ms": 183490,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/3VMqM5ryQlsQEH3CWSLLhQ"
     },
     {
       "added_at": "2024-08-06 01:00:53",

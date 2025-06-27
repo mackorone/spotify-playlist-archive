@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Brett Young, Megan Moroney, Noah Cyrus with Blake Shelton and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,239 likes - 81 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,324 likes - 81 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 49 | [Small Town Does](https://open.spotify.com/track/5xx8iJA0LC5WEMjW9TV50H) | [Noah Hicks](https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO) | [Small Town Does](https://open.spotify.com/album/1N6ejzwf9kwEZuX9W02ukU) | 2:51 |
 | 50 | [Growin' Up](https://open.spotify.com/track/6HwcXJzhS0utWLUV2R2Osc) | [Brandon Wisham](https://open.spotify.com/artist/51b8vVMeSaO3MAMfatptRu) | [Growin' Up](https://open.spotify.com/album/2JFPzLqBc7uS6qAOiz1wtL) | 3:12 |
 | 51 | [Instead Of](https://open.spotify.com/track/2YvFKh3ggX7e8NK0jJT3Dz) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr) | [Instead Of](https://open.spotify.com/album/38AQ5BOkpmwoG76lUlL6qd) | 3:30 |
-| 52 | [Looking For Us](https://open.spotify.com/track/49yT7QjszqNoZELnjqnOTp) | [Jas Von](https://open.spotify.com/artist/3e8Hd1noAoVXhnoTgClAXr), [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Looking For Us / Drunk Drinkin’](https://open.spotify.com/album/3UaAXqZnKBUq4RxBfUswkP) | 2:40 |
+| 52 | [Looking For Us](https://open.spotify.com/track/49yT7QjszqNoZELnjqnOTp) | [Jas Von](https://open.spotify.com/artist/3e8Hd1noAoVXhnoTgClAXr), [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Looking For Us / Drunk Drinkin’](https://open.spotify.com/album/3UaAXqZnKBUq4RxBfUswkP) | 2:38 |
 | 53 | [Somebody Believed](https://open.spotify.com/track/38fRdFniDfJCkvjtdIIwts) | [Austin Brown](https://open.spotify.com/artist/6cpT40sKg2vCnQsHDLxrxk) | [Somebody Believed](https://open.spotify.com/album/07lpivW0ZVlwBNTGebMgz7) | 3:12 |
 | 54 | [Bad Habits](https://open.spotify.com/track/0zzA7A6btrf9ah4bdpuiqr) | [Noah Brigden](https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub) | [Bad Habits](https://open.spotify.com/album/5jWs2Me9Jf6pQtMKh379hF) | 3:14 |
 | 55 | [Lonely Over You](https://open.spotify.com/track/3w8nAX5JC6PwNrlMcdz2Ee) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Whiskey Lies & Alibis](https://open.spotify.com/album/3tCP2Wh5OQo6iUHqaWdPhY) | 3:37 |

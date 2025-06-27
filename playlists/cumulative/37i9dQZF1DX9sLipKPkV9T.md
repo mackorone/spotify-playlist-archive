@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: עדן גולן
 
-374 songs - 19 hr 44 min
+375 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [גיבורי על](https://open.spotify.com/track/6Xg2Ir8Go9giAzRxW4Jaze) | [Hatikva 6](https://open.spotify.com/artist/3umXlcgiDTcCRkvPVobeJc) | [גיבורי על](https://open.spotify.com/album/51I9fo6Ywk6O8vMnq4Oige) | 3:07 | 2024-06-27 | 2024-07-27 |
 | [גלגול נשמה](https://open.spotify.com/track/6CC7qsyB7J9Jc0tqpiUhJs) | [גיא אמר](https://open.spotify.com/artist/0FMlZ5r0VSyb1xsdCZonDs), [Narkis](https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6) | [גלגול נשמה](https://open.spotify.com/album/1fmSFJPJZhqmACqLhyxWCg) | 2:59 | 2025-01-09 | 2025-04-11 |
 | [גלים גלים](https://open.spotify.com/track/41n1aASQlGMsPylHEwI1wo) | [Dikla](https://open.spotify.com/artist/02XPYZHiiXvgdluCi3Esxg) | [גלים גלים](https://open.spotify.com/album/3DI0vAaS7ZrhbvEC4JZkga) | 3:13 | 2024-06-27 | 2024-07-05 |
+| [גלעד](https://open.spotify.com/track/1zlAI5I8uPdL7ADPQbqqig) | [נוגה](https://open.spotify.com/artist/6HW3QANBDKr3G55gTxLUxc) | [גלעד](https://open.spotify.com/album/6J2vx4w5pYL2u7SYvIxNaG) | 2:56 | 2025-06-26 |  |
 | [גרם שמחה](https://open.spotify.com/track/4MwYf4SJbPaKb4cqL0yfNv) | [Aviv Bahar](https://open.spotify.com/artist/2gZQhTge4L8kMEDp4w3U4R) | [גרם שמחה](https://open.spotify.com/album/26N9gdqWMkTvyVnS6jkQ7w) | 3:07 | 2024-08-08 | 2024-08-23 |
 | [גשם](https://open.spotify.com/track/5rXrkwBBm4exQSMA7ay2Wa) | [Ben El Tavori](https://open.spotify.com/artist/1oluYiPAw86NzrruZvKfcy) | [גשם](https://open.spotify.com/album/4PieaONsAO2DtNoWCkU28F) | 3:17 | 2024-06-27 | 2024-07-19 |
 | [גשם במדבר](https://open.spotify.com/track/4RSmqXhNu3EuJBjovPmIsy) | [Omri Sabach](https://open.spotify.com/artist/3Mfj0eEUcnEo0fGZ2MTkA1) | [גשם במדבר](https://open.spotify.com/album/1BUh31VZeuw5s4bKznO6qG) | 3:18 | 2025-01-30 | 2025-02-28 |
@@ -160,7 +161,7 @@
 | [הלוך ושוב](https://open.spotify.com/track/1LWXYCFfhJBeeNhQw6io2j) | [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W), [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [לחיות](https://open.spotify.com/album/6uPKNwK4o6QokRH0I7z7cL) | 4:16 | 2024-09-05 | 2024-09-20 |
 | [המחלה שלי](https://open.spotify.com/track/4KvXDIhFUlVLvyXMg1LBa2) | [Tohar](https://open.spotify.com/artist/6AGauzgDfrDTQA8ezvCiaS) | [המחלה שלי](https://open.spotify.com/album/4uC06N3kCx2ngbZZAqDkvA) | 3:48 | 2024-09-12 | 2024-09-27 |
 | [המים הקדושים](https://open.spotify.com/track/5DqxfeM3LYqSTiiB1NORSu) | [Tohar](https://open.spotify.com/artist/6AGauzgDfrDTQA8ezvCiaS), [ATAR MAYNER](https://open.spotify.com/artist/1oTaLSazZlqH2azlemNZOm) | [המים הקדושים](https://open.spotify.com/album/3UvWQrHP5tTPLU9wc36FX0) | 3:45 | 2024-06-27 | 2024-07-05 |
-| [הנה באו הימים](https://open.spotify.com/track/2s1PM8EQ6E6cwNyXaRbFgh) | [Yuval Dayan](https://open.spotify.com/artist/4iWsyISSQEYGxdqBNVwqtA) | [הנה באו הימים](https://open.spotify.com/album/5Y0qcSsmz7oMROJuhAQBAT) | 3:24 | 2025-03-20 |  |
+| [הנה באו הימים](https://open.spotify.com/track/2s1PM8EQ6E6cwNyXaRbFgh) | [Yuval Dayan](https://open.spotify.com/artist/4iWsyISSQEYGxdqBNVwqtA) | [הנה באו הימים](https://open.spotify.com/album/5Y0qcSsmz7oMROJuhAQBAT) | 3:24 | 2025-03-20 | 2025-06-27 |
 | [הנשיקה הראשונה](https://open.spotify.com/track/5Ytxwuer8DjnpL7tyxkGY7) | [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp) | [הנשיקה הראשונה](https://open.spotify.com/album/16lV5OZVKj9UWIOLDnLZ0Z) | 3:18 | 2025-01-30 | 2025-05-09 |
 | [הסוד שלי ממך \(ישראל מיוזיק\)](https://open.spotify.com/track/6x9vvVtySmtQRh16pqd8f7) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [ישראל בידור](https://open.spotify.com/artist/3v9RYe2J8eJLUlggkXxmZL) | [הסוד שלי ממך \(ישראל מיוזיק\)](https://open.spotify.com/album/4lkgTJCSSQRS7vH1Ge3ZEb) | 3:11 | 2024-09-19 | 2025-01-31 |
 | [הסיבה שאין בי פחד](https://open.spotify.com/track/0UHE1MUY1JzKzRmmaC2PcL) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [הסיבה שאין בי פחד](https://open.spotify.com/album/7djHUmUI5lVrXZ1o528KXc) | 3:27 | 2025-01-16 | 2025-05-09 |
@@ -270,7 +271,7 @@
 | [מילים אהבה ויין](https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [מילים אהבה ויין](https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ) | 6:48 | 2025-01-09 | 2025-02-21 |
 | [מישהו אחד](https://open.spotify.com/track/53dNDMTgxyha4yEU34igbG) | [עטרה אוריה](https://open.spotify.com/artist/2B5CIVuJLzMYbtw6ViL85R) | [עטרה](https://open.spotify.com/album/6enOHeEgHM1at01SqvOrqH) | 2:48 | 2024-11-07 | 2024-11-15 |
 | [מכשפה](https://open.spotify.com/track/2WDgnb44mEO7gWUtECuNLJ) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE), [Adi Bity](https://open.spotify.com/artist/6wmkSxRAKlQl86DzjXRUMh) | [להרים](https://open.spotify.com/album/5d2zNtTFTHLMOmSZw3SFCC) | 2:18 | 2024-06-27 | 2024-09-13 |
-| [מלאך](https://open.spotify.com/track/4wBhdxlmwV8gta2zTUv24x) | [Benaia Barabi](https://open.spotify.com/artist/0WjQnf1rQ0tY84gGgjrQQ9) | [מלאך](https://open.spotify.com/album/5x63WjLomoR7ZfgQk2xpnr) | 3:09 | 2025-05-29 |  |
+| [מלאך](https://open.spotify.com/track/4wBhdxlmwV8gta2zTUv24x) | [בניה ברבי](https://open.spotify.com/artist/0WjQnf1rQ0tY84gGgjrQQ9) | [מלאך](https://open.spotify.com/album/5x63WjLomoR7ZfgQk2xpnr) | 3:09 | 2025-05-29 |  |
 | [מניפות](https://open.spotify.com/track/0qznNEs9s1HG5eZiI76TvS) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo), [מתן דינו](https://open.spotify.com/artist/5dg6DDe43hau7pXT54sDZM) | [מניפות](https://open.spotify.com/album/6xgy5aA6AT8U6eVJhSXfsV) | 2:25 | 2025-06-12 |  |
 | [מפרש לבן](https://open.spotify.com/track/4GzV9XajF9E8rSLAZa9WVA) | [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu) | [מפרש לבן](https://open.spotify.com/album/2Rklq8xzKHOGa64ZuKSDKZ) | 4:10 | 2025-03-20 |  |
 | [מקום בחייך](https://open.spotify.com/track/3odiIlhzbc43pFUiUXQSwH) | [Yam Refaeli](https://open.spotify.com/artist/0VWxCUPjwYC1haUA2kCrp6) | [מקום בחייך](https://open.spotify.com/album/2JoZx4ITfjtsyT1IZ0ObZ2) | 2:56 | 2024-06-27 | 2024-08-02 |

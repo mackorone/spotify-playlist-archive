@@ -4,7 +4,7 @@
 
 > Öll bestu lögin í augnablikinu!
 
-186 songs - 9 hr 46 min
+188 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Aldrei of seint](https://open.spotify.com/track/64G6LcehgioFPs03gzbIv0) | [HubbaBubba](https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma), [Þórunn Antonía](https://open.spotify.com/artist/6100Rwk1ypJpElhvxSKju4) | [Stórasta plata í heimi](https://open.spotify.com/album/528NSNCGZ4V2rAj4DZRYkq) | 2:15 | 2024-10-21 | 2025-03-22 |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-04 | 2025-02-04 |
 | [Andvaka](https://open.spotify.com/track/5p8cnx65q4YJPGeCNlBbdI) | [Izleifur](https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6), [Daniil](https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU) | [Andvaka](https://open.spotify.com/album/7Dq9vXLX3tDD256JjbdrN9) | 2:26 | 2024-08-16 | 2025-01-17 |
-| [APT.](https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:49 | 2025-01-31 |  |
+| [APT.](https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:49 | 2025-01-31 | 2025-06-27 |
 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 | 2025-01-10 | 2025-01-25 |
 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-06-21 | 2024-10-11 |
 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 | 2025-04-04 |  |
@@ -116,10 +116,11 @@
 | [LOKUÐ AUGU](https://open.spotify.com/track/6aS0Tex633d2JYjjk42yvy) | [Maron Birnir](https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK), [Egill Airi](https://open.spotify.com/artist/1Z6jWlrcsGs0e3NzYAT8ys), [Tónhylur Akademía](https://open.spotify.com/artist/5acbJzGy5hnfgdksb989Hu) | [KAPITAL](https://open.spotify.com/album/3IjIgOi1J5699O5Diz4AkJ) | 2:17 | 2025-01-17 | 2025-03-14 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-21 | 2024-11-22 |
 | [LXS](https://open.spotify.com/track/4fCJv65IdSElmOyjsDEvRO) | [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [LXS](https://open.spotify.com/album/4vl1NroeMspg0dBvg19dnt) | 3:32 | 2025-03-28 |  |
+| [LYFTESSU](https://open.spotify.com/track/3TK7rt91upRhyDFScYcAn9) | [Luigi](https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN), [Saint Pete](https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd) | [LYFTESSU](https://open.spotify.com/album/4SCGIctVtHj4PP5rLCacih) | 2:05 | 2025-06-27 |  |
 | [Man Of The Year](https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Man Of The Year](https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW) | 3:00 | 2025-05-30 |  |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-06 |  |
 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 | 2025-01-17 | 2025-04-04 |
-| [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2025-01-03 |  |
+| [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2025-01-03 | 2025-06-27 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-06-21 | 2024-10-11 |
 | [MONNÍ](https://open.spotify.com/track/25dFPWFPt3OVvDsOSybenL) | [Aron Can](https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW) | [MONNÍ](https://open.spotify.com/album/29Z4fN5F8ZumIsfrfH0Krf) | 3:01 | 2024-06-21 | 2024-10-11 |
 | [Mr Electric Blue](https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:10 | 2025-06-20 |  |
@@ -181,6 +182,7 @@
 | [UPPI](https://open.spotify.com/track/3cDe5VRkx6SznwOqZ6rIYq) | [Joey Christ](https://open.spotify.com/artist/76MhNEhAVHSwifZFFr7khX), [Daniil](https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU) | [UPPI](https://open.spotify.com/album/7hYTBpfgGHbGdoKnpVt0PS) | 2:34 | 2025-06-20 |  |
 | [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 | 2025-03-07 | 2025-03-08 |
 | [Veit ekki með þig](https://open.spotify.com/track/5BsvubZKwChZFcNRkxlOgD) | [Luigi](https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN), [ORIO](https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn) | [Veit ekki með þig](https://open.spotify.com/album/4080PUV38C8ZVnEE65s7EO) | 2:42 | 2024-06-21 | 2024-09-27 |
+| [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 | 2025-06-27 |  |
 | [Vitamin](https://open.spotify.com/track/2bk8MeKPbwWc9Iwv4qjz7U) | [ISSI](https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL), [Emilia Hugrun](https://open.spotify.com/artist/0AiC3SnI4tn1XTyVCuF6A3) | [Vitamin](https://open.spotify.com/album/5sFMfwuYslfFAH4PgJ30br) | 2:49 | 2025-05-02 |  |
 | [Vopn](https://open.spotify.com/track/7fc5fotKDfgeD8v0NPEG3g) | [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z), [Aron Can](https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW) | [Dyrnar](https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo) | 3:20 | 2025-05-30 |  |
 | [Wait So Long](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Wait So Long](https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl) | 3:19 | 2025-06-20 |  |

@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Somethin 'Bout Kreay",
+        "url": "https://open.spotify.com/album/3vLsCsD7k1yiuTZysDOM2a"
+      },
+      "artists": [
+        {
+          "name": "Kreayshawn",
+          "url": "https://open.spotify.com/artist/51xJF4OqJPHWop1fv0VVyd"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187840,
+      "name": "Gucci Gucci",
+      "url": "https://open.spotify.com/track/1ea97AUSazu2QZw9BnHJqK"
+    },
+    {
+      "album": {
         "name": "it boy",
         "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
       },
@@ -110,6 +128,24 @@
       "duration_ms": 161760,
       "name": "IT GIRL",
       "url": "https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP"
+    },
+    {
+      "album": {
+        "name": "Job Application",
+        "url": "https://open.spotify.com/album/2ASRrpD3VUJqSmyBJGBKmq"
+      },
+      "artists": [
+        {
+          "name": "Chase Icon",
+          "url": "https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110222,
+      "name": "Job Application",
+      "url": "https://open.spotify.com/track/7Fj59i8igCD0s1dLRSe3ae"
     },
     {
       "album": {

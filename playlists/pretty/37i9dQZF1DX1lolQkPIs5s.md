@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > ディズニーの人気曲を集めた公式プレイリスト♪<br/>ディズニー・アニメーション最新作『モアナと伝説の海2』の楽曲から、『アナと雪の女王』、『アラジン』、『ライオン・キング』等をセレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,479 likes - 104 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,473 likes - 104 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: The Kid LAROI
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,428 likes - 91 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,606 likes - 91 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 74 | [The Beginning of Us](https://open.spotify.com/track/2qnNiVC07rM5gxzL9f0mgE) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [The Beginning of Us](https://open.spotify.com/album/4MeY1nCrurVL8oCRNWCBzm) | 2:18 |
 | 75 | [His LA Girl](https://open.spotify.com/track/5wA2hUAniDVKkcyhnY1IKs) | [Ren Martinez](https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf) | [His LA Girl](https://open.spotify.com/album/5ZmQqhcyWuVecfOSqpf5rY) | 4:46 |
 | 76 | [LIAR](https://open.spotify.com/track/7AdSqDJ0cEciEAGs3Tnnvn) | [Conor Matthews](https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq) | [LIAR](https://open.spotify.com/album/6Yd4B2RFsR4TTB3rgAgi3o) | 2:33 |
-| 77 | [Kintsugi](https://open.spotify.com/track/3x6gA8SG2NB2XQ9gmgggT9) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Kintsugi](https://open.spotify.com/album/4EWfIhYmj4618XFcsFG6UW) | 3:27 |
+| 77 | [kintsugi](https://open.spotify.com/track/3x6gA8SG2NB2XQ9gmgggT9) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [kintsugi](https://open.spotify.com/album/4EWfIhYmj4618XFcsFG6UW) | 3:27 |
 | 78 | [Did I Miss It](https://open.spotify.com/track/0ff81sUg456fJ8vkBsO2ty) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Did I Miss It](https://open.spotify.com/album/3EaNFBhuTUR4yEas5QM5gl) | 3:02 |
 | 79 | [KEROSENE](https://open.spotify.com/track/26HftovBgcNKjYAF08vFws) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [PRETTY EVIL DELUXE](https://open.spotify.com/album/3fnmvGTyF9OVaroHgDeBMT) | 2:33 |
 | 80 | [Lemon Drop](https://open.spotify.com/track/0mTBjqI2rG7Tv8nVzdj3gH) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3](https://open.spotify.com/album/2KEjfNac9Fmnq1elvjR6DA) | 2:59 |

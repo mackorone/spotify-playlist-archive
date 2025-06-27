@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 167848,
       "name": "Kardelen",
       "url": "https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh"
@@ -1752,6 +1752,28 @@
       "duration_ms": 128766,
       "name": "Nocturnal Waltz",
       "url": "https://open.spotify.com/track/1cyZIM22N8kmBqdATPBmI7"
+    },
+    {
+      "album": {
+        "name": "Chopin: The Complete Pr\u00e9ludes",
+        "url": "https://open.spotify.com/album/1rBvFJvaHtmVmMdBFO8Te7"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Rafa\u0142 Blechacz",
+          "url": "https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339026,
+      "name": "Nocturne No. 18 in E Major, Op. 62 No. 2",
+      "url": "https://open.spotify.com/track/10uRxefFamrk6OGym4JLlS"
     },
     {
       "album": {

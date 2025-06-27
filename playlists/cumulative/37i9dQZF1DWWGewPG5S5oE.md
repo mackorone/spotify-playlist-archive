@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 桑原あい
 
-420 songs - 1 day 9 hr 58 min
+421 songs - 1 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Highway](https://open.spotify.com/track/25BXE8InZQK5CBhP1n7mFm) | [田中さとこ](https://open.spotify.com/artist/79fINByBtobHwIrMTeHn7N) | [Piano Scenes](https://open.spotify.com/album/7q4sFyc7TjG2gUIql8O837) | 3:36 | 2024-01-31 | 2024-04-19 |
 | [Hilarious](https://open.spotify.com/track/4Dv7ZG44TPxxRDJyf8X5W4) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Hilarious](https://open.spotify.com/album/2baMPvKUmxUghuOUqKm9AL) | 4:03 | 2024-01-09 | 2024-01-11 |
 | [Hilarious](https://open.spotify.com/track/4MCR0GMtMnryCukxwl3ilp) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Hilarious](https://open.spotify.com/album/2nalZQ0dRQRMjwZySTpLK4) | 4:03 | 2024-01-10 | 2024-02-14 |
-| [How Deep Is Your Love](https://open.spotify.com/track/4rrKjivpzmyc40tatIxWiD) | [Seiko Matsuda](https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h) | [SEIKO JAZZ 3](https://open.spotify.com/album/5xohvyPtGGW1wks4Z4qzbR) | 5:37 | 2024-02-13 |  |
+| [How Deep Is Your Love](https://open.spotify.com/track/4rrKjivpzmyc40tatIxWiD) | [Seiko Matsuda](https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h) | [SEIKO JAZZ 3](https://open.spotify.com/album/5xohvyPtGGW1wks4Z4qzbR) | 5:37 | 2024-02-13 | 2025-06-27 |
 | [I Am, Because You Are](https://open.spotify.com/track/1wj3FHoR0swq6HCWxiGyeS) | [海野 雅威](https://open.spotify.com/artist/21xCR4SZh2XrwLsloXp6vx) | [I Am, Because You Are](https://open.spotify.com/album/0iuOHpxqkPyAzEokYTpge5) | 6:49 | 2023-05-23 | 2023-07-12 |
 | [IDEA](https://open.spotify.com/track/5MZ9qKKkXY4yekcGDyCuyh) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Into My System](https://open.spotify.com/album/44TqGExh3o6ucPOPsokHRt) | 5:37 | 2024-03-05 | 2025-02-05 |
 | [If Sea Could Sing](https://open.spotify.com/track/2NGtsSSgjvq2ZbFxDDnAUT) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [Betsu No Jikan](https://open.spotify.com/album/6osbGxXryMZUWTlysq7Tcu) | 5:45 | 2022-09-06 | 2022-10-02 |
@@ -284,6 +284,7 @@
 | [Someday My Prince Will Come \- Live at 100Ban Hall, Kobe, 2022](https://open.spotify.com/track/6H1gpUbzY2NGPpWdADWXn4) | [Hiro Kimura](https://open.spotify.com/artist/0qMjX7Df9jLTDJu4mggBoI), [Kazuhiko Takeda](https://open.spotify.com/artist/4dz95tAaThmn1OI31rMkhU), [Miki Hirose](https://open.spotify.com/artist/1HCCpOwaRMg0YNT0GFRSPx), [Naoko Tanaka](https://open.spotify.com/artist/2CfxaAgevavjDFRRghjSVt), [Yuji Ito](https://open.spotify.com/artist/7nwmT6Ckut3gaKlyfL45NF) | [Someday My Prince Will Come \(Live at 100Ban Hall, Kobe, 2022\)](https://open.spotify.com/album/4kT6XpWuPM5q7lnevRGMNY) | 6:36 | 2023-03-07 | 2023-04-05 |
 | [Sonicwonderland](https://open.spotify.com/track/7gc3pcQOvzAgpNtY5y6SbB) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [Sonicwonderland](https://open.spotify.com/album/7IWueag5hUcfCqB6AS6Ky2) | 8:15 | 2023-08-25 | 2023-09-24 |
 | [Spain](https://open.spotify.com/track/2MAcJ1Z0ShlQPDXPWsZwwc) | [Iori Kimura](https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO), [木村仁星](https://open.spotify.com/artist/6ok0SyTEykPHk0V41lBBj8) | [Spain](https://open.spotify.com/album/3LOZ21HBgvxGVdytLCdkoE) | 5:11 | 2022-10-04 | 2022-11-16 |
+| [Spark](https://open.spotify.com/track/1pO3Nm1ybqXXEXvWHLTIg3) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Spark](https://open.spotify.com/album/2lm4DxOkkRU5oIKz85u4rj) | 2:45 | 2025-06-24 |  |
 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 | 2022-09-06 | 2024-12-18 |
 | [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 | 2023-04-04 |  |
 | [Squall](https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Squall](https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj) | 3:56 | 2022-09-06 | 2023-08-17 |

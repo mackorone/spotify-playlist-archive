@@ -2291,6 +2291,24 @@
     },
     {
       "album": {
+        "name": "\u00dcbermensch",
+        "url": "https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234772,
+      "name": "DRAMA",
+      "url": "https://open.spotify.com/track/5Pixk2d6ey48MKVq5W6HWt"
+    },
+    {
+      "album": {
         "name": "So Natural",
         "url": "https://open.spotify.com/album/2LD5bvxCjhrtNEFRjfMUjR"
       },

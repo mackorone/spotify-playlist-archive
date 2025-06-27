@@ -4,7 +4,7 @@
 
 > All of it
 
-873 songs - 2 day 6 hr 31 min
+874 songs - 2 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Homecoming](https://open.spotify.com/track/6vxU64pcIuQ38O015Zy4qj) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake](https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m) | 3:33 | 2025-06-02 |  |
 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 | 2025-06-02 |  |
 | [Honestly](https://open.spotify.com/track/20OWXyuRI4Dt1S2JCdajEh) | [THØRNS](https://open.spotify.com/artist/0lqcP7gTyHsPEGyUSUV5g3), [Kasane Teto](https://open.spotify.com/artist/4JX0GdKx8EduY2Ck7qac4H) | [Honestly](https://open.spotify.com/album/1EtThAdOqCsyrVa9d1PeAV) | 3:37 | 2025-06-02 |  |
+| [HOODLUMZ \(with PlayThatBoiZay & A$AP Rocky\)](https://open.spotify.com/track/6GkAi85HSZGqJwzYC2qXyI) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [King Of The Mischievous South Vol\. 2](https://open.spotify.com/album/6LoDd1G8en4TcqdSg7yqrV) | 2:09 | 2025-06-27 |  |
 | [Hope Is the Thing With Feathers](https://open.spotify.com/track/3FUaNR2HD1XaeOmw4puhkz) | [Robin](https://open.spotify.com/artist/55NononxYKjAdaLpphQ4JD), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg), [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [INSIDE](https://open.spotify.com/album/0max2UoPzegnhjwv1yhyEC) | 3:49 | 2025-06-02 |  |
 | [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 | 2025-06-02 |  |
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2025-06-02 |  |

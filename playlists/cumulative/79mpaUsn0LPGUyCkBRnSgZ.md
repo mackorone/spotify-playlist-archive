@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-840 songs - 2 day 8 hr 2 min
+841 songs - 2 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,6 +459,7 @@
 | [Love Songs on the Radio](https://open.spotify.com/track/3FzK2g50oLcx8vqETwOn07) | [Mojave 3](https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio) | [Ask Me Tomorrow](https://open.spotify.com/album/3fjeFLyo8FY1Appkw4Mrvy) | 5:48 | 2024-04-02 |  |
 | [Love Sosa](https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 4:06 | 2022-08-11 |  |
 | [Love's In Need Of Love Today](https://open.spotify.com/track/39sdlCugrGBsoC4Flos0HO) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 7:05 | 2024-01-08 |  |
+| [Lowland](https://open.spotify.com/track/0hl2a5R1FlvPmdDexANFjp) | [Oldstar](https://open.spotify.com/artist/65EcXsR7j4l6Thkrr5a1AX) | [Of the Highway](https://open.spotify.com/album/2iyY4MTX9NiO05hQN221cC) | 4:07 | 2025-06-26 |  |
 | [LSD](https://open.spotify.com/track/76u71tQ2GALnwY0VJyOu83) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 1:45 | 2024-03-11 |  |
 | [Lust For Life](https://open.spotify.com/track/2aN0YiOoQwe4Sjcu8Sgijw) | [Girls](https://open.spotify.com/artist/6eO95BjZhrWHREMfwC4vVN) | [Album](https://open.spotify.com/album/3jo1GRqnwVlN23KUgcaCL9) | 2:25 | 2025-05-11 |  |
 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 | 2023-11-19 |  |
@@ -659,7 +660,7 @@
 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 | 2022-09-25 | 2024-01-30 |
 | [SOFT GIRL SUMMER](https://open.spotify.com/track/3PXhooQtCnYZXLaWr7KSmG) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [FROM FLORIDA'S FINEST](https://open.spotify.com/album/4KUlLprpCrNpRDsXC4MOAV) | 2:32 | 2025-06-18 |  |
 | [Solar Pilgrim](https://open.spotify.com/track/1UhfqG8us3X5rygBwy4POa) | [Twain](https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW) | [Rare Feeling](https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt) | 5:20 | 2024-03-11 |  |
-| [Something That Feels Like Love](https://open.spotify.com/track/363tIu3XPLPKBpYpIfTQ8b) | [Joel Haver](https://open.spotify.com/artist/08fBiIiUIv7aWqPAlhLBIG) | [talk to me when you're ready if you want to please](https://open.spotify.com/album/3h6E2h1RbjJwv8HjNfjmJu) | 1:58 | 2023-07-20 |  |
+| [Something That Feels Like Love](https://open.spotify.com/track/363tIu3XPLPKBpYpIfTQ8b) | [Joel Haver](https://open.spotify.com/artist/08fBiIiUIv7aWqPAlhLBIG) | [talk to me when you're ready if you want to please](https://open.spotify.com/album/3h6E2h1RbjJwv8HjNfjmJu) | 1:58 | 2023-07-20 | 2025-06-27 |
 | [Something To Believe In](https://open.spotify.com/track/6IUqxINlPXvKHIkKMeumwY) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Eat The Acid](https://open.spotify.com/album/5hOFWwfkeWetTEnMTbX4q9) | 3:29 | 2024-02-15 |  |
 | [Sorrow Tears and Blood](https://open.spotify.com/track/7GtuZhIQ6EEpBQrJu05nIh) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Sorrow Tears and Blood](https://open.spotify.com/album/6rQL5co6IZLuTGxD5qsBmx) | 10:15 | 2023-06-14 | 2023-06-17 |
 | [Soulo Ho3 \(feat\. Jhene Aiko\)](https://open.spotify.com/track/15acC6GzjmD5NvpoS5jRdN) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Control System](https://open.spotify.com/album/26RLXRJA7aOOffZJGjUaSW) | 3:57 | 2022-12-29 |  |

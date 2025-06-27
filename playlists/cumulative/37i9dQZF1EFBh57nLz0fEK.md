@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-121 songs - 6 hr 34 min
+122 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [ASOBO \-English ver.\-](https://open.spotify.com/track/4bxx8e12FbY0x77AuqOjPu) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [ASOBO \-English ver.\-](https://open.spotify.com/album/3HrYO8vY7K3pAQ59pFrZaV) | 3:01 | 2024-06-07 |  |
 | [Bat Phone](https://open.spotify.com/track/0rLhCmGwVdTnhpDtckZ1dC) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [The Loading EP](https://open.spotify.com/album/3v7EwnT9vSwdkHKhyNqZbq) | 3:24 | 2024-09-20 |  |
 | [Better Than Ever \(feat\. Rod Wave\)](https://open.spotify.com/track/7KeM63RotkWiGnHKkboz4t) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Decided 2](https://open.spotify.com/album/5kK8oDrnJr64xQhyaHFjtQ) | 4:03 | 2024-06-07 |  |
-| [Big Wheel Whippin'](https://open.spotify.com/track/3gSsZVKLIzKzQit8weYbm1) | [Playaz Circle](https://open.spotify.com/artist/5gV9T9VSwhHBlHcRMojEZw) | [Flight 360: The Takeoff](https://open.spotify.com/album/4jCIFGa5tGSh7LeTmPwcS2) | 4:29 | 2024-06-07 | 2025-06-26 |
+| [Big Wheel Whippin'](https://open.spotify.com/track/3gSsZVKLIzKzQit8weYbm1) | [Playaz Circle](https://open.spotify.com/artist/5gV9T9VSwhHBlHcRMojEZw) | [Flight 360: The Takeoff](https://open.spotify.com/album/4jCIFGa5tGSh7LeTmPwcS2) | 4:29 | 2024-06-07 |  |
 | [bleach](https://open.spotify.com/track/0D8UqYcz7ePwma5o3XAQnh) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:19 | 2024-08-11 |  |
 | [Bloodline](https://open.spotify.com/track/2qvrRtYFN7MGRokO77TZKK) | [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [The Birth of a Nation: The Inspired By Album](https://open.spotify.com/album/6miimmKAefrNxnErwCTGmj) | 4:12 | 2024-06-07 |  |
 | [Calm Like Kim](https://open.spotify.com/track/7lyuDIBBgZFEB2eouXnq5X) | [Spencer Elmer](https://open.spotify.com/artist/79hHMv2Abnf54m7Nuc5v6c) | [Calm Like Kim](https://open.spotify.com/album/4I74n0c8VFwnoezOr9qSMO) | 2:22 | 2024-12-11 |  |
@@ -107,7 +107,8 @@
 | [Stressed \(with J\. Cole & T\-Shyne\)](https://open.spotify.com/track/0uqsdBw9KvD8jSWmfMmMAp) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [T\-Shyne](https://open.spotify.com/artist/14qypx78D3Jd1mm7c2BqQb) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 3:40 | 2024-06-07 |  |
 | [Strongest Woman I Know](https://open.spotify.com/track/4JsPASwBKWutGo84Na2oQ8) | [Rob Markman](https://open.spotify.com/artist/2bUUwnuZ9pezPvPzGwanok), [Dj Money](https://open.spotify.com/artist/5Gqwy9rFNhFIlgk3rCUiN7) | [If You Don't You'll Regret It](https://open.spotify.com/album/4CRWN3kSdIc7U2qo4SUXFH) | 3:38 | 2024-06-07 |  |
 | [Sugar Daddy](https://open.spotify.com/track/44ROJAxh2jBDQpxgMMIiCC) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 3:38 | 2024-06-07 |  |
-| [Sunday](https://open.spotify.com/track/2WVt8kpHSmldTufFnA2m3B) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [Sunday](https://open.spotify.com/album/7kcVgPWrS6twn9s8GbbtZA) | 1:53 | 2024-12-21 |  |
+| [Sunday](https://open.spotify.com/track/0gqcPH08FOqIqumcDQrw3C) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [No Guest List](https://open.spotify.com/album/2xTeGaKSGR9TG8JWjA4HOx) | 1:53 | 2025-06-26 |  |
+| [Sunday](https://open.spotify.com/track/2WVt8kpHSmldTufFnA2m3B) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [Sunday](https://open.spotify.com/album/7kcVgPWrS6twn9s8GbbtZA) | 1:53 | 2024-12-21 | 2025-06-27 |
 | [Tale Of 2 Legends](https://open.spotify.com/track/0AxEBo30NXf2NhZa1GEwxC) | [Humble Soles](https://open.spotify.com/artist/0js1ol9cMZymg0PcJdAbmv), [DJ Clue](https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf), [Tyre Hakim](https://open.spotify.com/artist/330cgYbAbvsjcSQPrhPwLJ), [RJAE](https://open.spotify.com/artist/0PnrpdWmz1aJYJfNPUejmk) | [Humble Soles](https://open.spotify.com/album/7ByYlJNaU5HDMX4McPX4DR) | 2:56 | 2024-06-07 |  |
 | [The Blood](https://open.spotify.com/track/6C3SlmDAFt8jkqKXVN2Ewq) | [Jackie Hill Perry](https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0) | [Practice](https://open.spotify.com/album/12lqoAlRSEuk75PSe1xAmm) | 2:38 | 2025-02-28 | 2025-04-12 |
 | [The Disco Song](https://open.spotify.com/track/6oxEm1YTTY3UdHl287wbyR) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022), [Jhonni Blaze](https://open.spotify.com/artist/1TPNC8TFcyC8s5TeSmQT23), [Maiya Sykes](https://open.spotify.com/artist/0f1RHEeWvaJDxBPY3UZ6Z4) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 3:57 | 2024-08-28 |  |

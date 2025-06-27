@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 
 > Best of Hindi Hip\-Hop! Cover: Karma
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,437 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,460 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 8 | [Bhai Hai](https://open.spotify.com/track/0z2xoirJvVGRDXoBxaH9h8) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Bhai Hai](https://open.spotify.com/album/030XdUEQhiS5NI7hgvgLap) | 2:24 |
 | 9 | [Vartmaan](https://open.spotify.com/track/20slSXvCF6j6Zp3WMqmyfQ) | [UNIYAL](https://open.spotify.com/artist/0EdBUkJHdLP4GGx3EN8AH0), [Soumya Rawat](https://open.spotify.com/artist/7m8OhaTNCBhSp616MhhOMY) | [Nanda Devi Express](https://open.spotify.com/album/00fpo2S0GkfGGpk0dpm19b) | 1:58 |
 | 10 | [MR\. RAMBO](https://open.spotify.com/track/3YVxblHOR89srfFJ30liuz) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [MR\. RAMBO](https://open.spotify.com/album/03Mg1MxsoIbNZMeso2Zc3L) | 2:14 |
-| 11 | [Mere Jaisa Nai](https://open.spotify.com/track/6eyLbYbuvO5kP3GUbZ8e1X) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Untitled 01](https://open.spotify.com/album/5QgfYpZAPAJZBqnAunLLSQ) | 2:07 |
+| 11 | [Mere Jaisa Nai](https://open.spotify.com/track/6eyLbYbuvO5kP3GUbZ8e1X) | [Karma](https://open.spotify.com/artist/1BG6teVM1jRNPLD4ymgsfU), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Untitled 01](https://open.spotify.com/album/5QgfYpZAPAJZBqnAunLLSQ) | 2:07 |
 | 12 | [BAAWE](https://open.spotify.com/track/6AhYiJyXQTOjuytJ0khZBD) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [HARD DRIVE Vol\. 2](https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9) | 2:39 |
 | 13 | [Sad Gaana](https://open.spotify.com/track/6JLbMP9MeGB7Odhw8PO1QB) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [AN1K8T](https://open.spotify.com/artist/5l6xz8pt97llr2djkMdPc6) | [Kala Khatta](https://open.spotify.com/album/2Q8cshgnazmxzQbvBGv043) | 2:29 |
 | 14 | [Ep\. 2 \- Medusa Sedusa](https://open.spotify.com/track/3hV7Gs5MYYP9vB0Vmmsny5) | [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp) | [Freeverse Friday 2.0 \(Side A\)](https://open.spotify.com/album/0hhtkjhrujSauKMc8JTZ4q) | 1:02 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 27 | [Jawab De](https://open.spotify.com/track/6jOdcTcVmg9WD5y92fSY0s) | [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy), [DEETOCX](https://open.spotify.com/artist/47NZwnzAbq5fRaObML4tn3) | [Alif Laila \(Part 2\)](https://open.spotify.com/album/3MUSOdDUE4NojtZZauRh0i) | 3:15 |
 | 28 | [Raat Ki Rani](https://open.spotify.com/track/1alInstEk6TQMuPyjCgI4K) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [SHAKTI](https://open.spotify.com/album/6Mwca6sXGKb25VkAc1e6X3) | 3:31 |
 | 29 | [The Last Talk](https://open.spotify.com/track/6Aq4cO87R2tW0pvEaJudhH) | [The Singh](https://open.spotify.com/artist/5dFkHVAGFrmhjPwvfIQg14) | [The Last Talk](https://open.spotify.com/album/0JZrr1iTr7TK2C5YIqAaEm) | 3:00 |
-| 30 | [STILL THE SAME](https://open.spotify.com/track/7GcCYw4d5Z8akmEOBj4876) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [STILL THE SAME](https://open.spotify.com/album/3Plp851iYv9SGH6Fjp6xV9) | 2:45 |
+| 30 | [STILL THE SAME](https://open.spotify.com/track/7GcCYw4d5Z8akmEOBj4876) | [KING](https://open.spotify.com/artist/2D6VatUrBCa9y4vmZNm3BI), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [STILL THE SAME](https://open.spotify.com/album/3Plp851iYv9SGH6Fjp6xV9) | 2:45 |
 | 31 | [Badshah](https://open.spotify.com/track/1hfRfTfumpDvDtMtXMRY81) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Badshah](https://open.spotify.com/album/3n3QUJtIq37gy0Lfa5D1lb) | 2:43 |
 | 32 | [RAAT KHATAM](https://open.spotify.com/track/5ouEJmTeRmpnE3jDcUalQ4) | [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL), [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p) | [POLARIS](https://open.spotify.com/album/3tM5tWzzX8LZpk7iTH5p3o) | 3:16 |
 | 33 | [Bt Ho Gayi](https://open.spotify.com/track/0TzpHT6hJ5pb3P6CqIduh3) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/0eNoZ7pnoeiq2iF7scY3ss) | 2:40 |

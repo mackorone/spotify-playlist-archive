@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Arya Dhayal
 
-349 songs - 22 hr 13 min
+350 songs - 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Kunji Penne](https://open.spotify.com/track/1hA3nNa0T0J49ZE4vYgLKV) | [E3Y](https://open.spotify.com/artist/1kfF1kkbyruQ6Abd540tNL) | [Kunji Penne](https://open.spotify.com/album/2iN9DI5qa6cylJKIUmDhAy) | 1:54 | 2024-07-04 | 2025-02-19 |
 | [Kunnolam anenikishtam](https://open.spotify.com/track/3Q41RloLb0lCjh52gLIKeZ) | [Prem Krishnan](https://open.spotify.com/artist/6iFo1ZetMJsCWzE25uoEOJ) | [Kunnolam anenikishtam](https://open.spotify.com/album/4RuQccxjGRPk54B0KZ06EC) | 3:45 | 2023-07-18 | 2023-07-28 |
 | [Kurumulaku](https://open.spotify.com/track/5NQeWPrbqmZT63u0Zx0tyU) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Kurumulaku](https://open.spotify.com/album/5xKzpwO123l51uDepXDX7m) | 4:20 | 2025-04-25 |  |
-| [Kuzhiyaana](https://open.spotify.com/track/2wRdUfBdx5LiDs09h4YsaL) | [Alpha Laps](https://open.spotify.com/artist/6ezdtGKvFcS1U9VKcWExk9), [R Sivas](https://open.spotify.com/artist/5NH8lE0Vn5RNUrlEncZp7m), [Sanoop.S](https://open.spotify.com/artist/1ta9W23chi8q5VHMLLkEH1), [Jinusha Mahesh](https://open.spotify.com/artist/3hcydeAnkec05nhIsrMJle) | [Kuzhiyaana](https://open.spotify.com/album/6nBOsy1LWl0ddZzwHDVOba) | 3:49 | 2025-02-19 |  |
+| [Kuzhiyaana](https://open.spotify.com/track/2wRdUfBdx5LiDs09h4YsaL) | [Alpha Laps](https://open.spotify.com/artist/6ezdtGKvFcS1U9VKcWExk9), [R Sivas](https://open.spotify.com/artist/5NH8lE0Vn5RNUrlEncZp7m), [Sanoop.S](https://open.spotify.com/artist/1ta9W23chi8q5VHMLLkEH1), [Jinusha Mahesh](https://open.spotify.com/artist/3hcydeAnkec05nhIsrMJle) | [Kuzhiyaana](https://open.spotify.com/album/6nBOsy1LWl0ddZzwHDVOba) | 3:49 | 2025-02-19 | 2025-06-27 |
 | [La](https://open.spotify.com/track/7foXuC1skz2laRHRCWumCA) | [electronic kili](https://open.spotify.com/artist/6S9pxoEBK0Mczr3qE8H0GX) | [La](https://open.spotify.com/album/1YrVcFs6J5uegJtRMYY0vS) | 3:56 | 2024-10-21 | 2025-02-27 |
 | [Laare](https://open.spotify.com/track/6wNkbLcCCtoYEsAxmXC3yt) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Laare](https://open.spotify.com/album/4oMcRv0ujnIqp0AevqBlxT) | 3:10 | 2024-09-03 | 2025-06-24 |
 | [Lathiri Poothiri](https://open.spotify.com/track/2hGsJ2HbSJo2Bu9UEHmCqL) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Lathiri Poothiri](https://open.spotify.com/album/4dm5XmOa1mE0LFTzKFbjtz) | 2:14 | 2022-09-06 | 2023-07-28 |
@@ -351,6 +351,7 @@
 | [Vettam](https://open.spotify.com/track/4gt0eAORr5xdgr9bhRvH9f) | [Vocal Dude](https://open.spotify.com/artist/6e7toXPTMHFuuQpnQgoHqI), [Irshad\_dri](https://open.spotify.com/artist/5fuaNrsoNucHTxysU3bnoJ), [Sourav Suresh](https://open.spotify.com/artist/4bl4dLgJ5NQezTcREd7ECu) | [Vettam](https://open.spotify.com/album/5TJaD6iQG8fSQebrEOZokD) | 2:47 | 2025-02-03 | 2025-05-09 |
 | [Vettam Reprised](https://open.spotify.com/track/1VKqe5jwgqdmFLkxxTdx4x) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz) | [Vettam Reprised](https://open.spotify.com/album/1YowHOWsfSiRVrgWFI05n4) | 3:11 | 2023-12-10 | 2024-06-19 |
 | [Veyil](https://open.spotify.com/track/2JgpqEHj0uO7s45Fg7womt) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Veyil](https://open.spotify.com/album/5WyjHb4OPKvSBJje60DtZU) | 3:05 | 2023-08-03 | 2024-06-25 |
+| [Veyil](https://open.spotify.com/track/26v8z8eV1Z4hhpk6oEHEgC) | [Thanveer Zaman](https://open.spotify.com/artist/0C4C8ElFOrWVKqWFwssLXH), [Shiyaz Mhmd](https://open.spotify.com/artist/3Woy8AbDUnbuquWZnc0ez9) | [Veyil](https://open.spotify.com/album/46mEHWBOQAyQHjnFhiVS1g) | 2:52 | 2025-06-26 |  |
 | [When Nature Calls](https://open.spotify.com/track/4VI98l8ORvSMPjIrROndfc) | [Shanka Tribe](https://open.spotify.com/artist/1m3UtqSI99YxZy9ysamF7T), [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ) | [When Nature Calls](https://open.spotify.com/album/1MraQsbPfSly4llApBNHae) | 5:12 | 2023-08-03 | 2024-10-01 |
 | [Wrath](https://open.spotify.com/track/4aO8R0YzvBJIi0Z2GRzXC0) | [DREAMCODE](https://open.spotify.com/artist/7mnOxPNja4UnbCqdnyQBKB), [DROPAMINE](https://open.spotify.com/artist/3dXaLhqxBIE9RVug1gv9bd) | [Wrath](https://open.spotify.com/album/6s1pHJtpNLnFrsv7VMl1Ha) | 4:03 | 2025-04-21 |  |
 | [Yaanam](https://open.spotify.com/track/2k0m3S5y6J3RPBEwrYAHrU) | [Sangeeth Vijayan](https://open.spotify.com/artist/2TPRb7Pr2jsn9U2QL9RQut) | [Yaanam](https://open.spotify.com/album/2MN3tPfDAg2PsBBb78uLCs) | 3:20 | 2023-11-06 | 2024-01-04 |

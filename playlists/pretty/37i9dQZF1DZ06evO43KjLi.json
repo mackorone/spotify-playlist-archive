@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAAAmzdLjx5SaYxOlHCdrfO/K",
+  "snapshot_id": "aFs8AAAAAABlUWTJLDu40Fm6+VoApdcn",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tirando la H",
-        "url": "https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 119333,
-      "name": "Tirando la H",
-      "url": "https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bajo Efecto Del Alcohol",
         "url": "https://open.spotify.com/album/6rtYoViAmt2WvS55wt1nop"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 184615,
       "name": "Bajo Efecto Del Alcohol",
       "url": "https://open.spotify.com/track/1oxTXnbKs7l9s73H2fJXF6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tirando la H",
+        "url": "https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 119333,
+      "name": "Tirando la H",
+      "url": "https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 150244,
-      "name": "Dejate Llevar",
-      "url": "https://open.spotify.com/track/5Hh6zlLBx8LUkQoN8b2fq9"
+      "duration_ms": 157494,
+      "name": "En Tus Brazos",
+      "url": "https://open.spotify.com/track/6lKbxSmm8KQ6tnkjBSGcDB"
     },
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 157494,
-      "name": "En Tus Brazos",
-      "url": "https://open.spotify.com/track/6lKbxSmm8KQ6tnkjBSGcDB"
+      "duration_ms": 150244,
+      "name": "Dejate Llevar",
+      "url": "https://open.spotify.com/track/5Hh6zlLBx8LUkQoN8b2fq9"
     },
     {
       "added_at": null,

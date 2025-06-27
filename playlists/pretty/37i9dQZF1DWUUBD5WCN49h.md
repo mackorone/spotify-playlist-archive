@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Braye
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,165 likes - 79 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,173 likes - 79 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 46 | [6:35](https://open.spotify.com/track/0YSP6Fkh8wWEhvZYGEUqId) | [Layefa](https://open.spotify.com/artist/7MkQpNkd549FwPBbgkGyE8) | [Tobolayefa + 6: 35](https://open.spotify.com/album/3pEzOFG1M7X9lOStge0xQr) | 2:55 |
 | 47 | [From Softie to You \(Dey There\)](https://open.spotify.com/track/0900x6zcJZ93gRi11xutc7) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [From Softie to You \(Dey There\)](https://open.spotify.com/album/6oGKVPLpN29GUsfKT1zega) | 2:33 |
 | 48 | [Sade](https://open.spotify.com/track/2AXGzJKUM7y9rFM4LHUVmz) | [Dera](https://open.spotify.com/artist/0fm0WfnKaOf2C8rdvnHlnj) | [Sade + Any Other Day](https://open.spotify.com/album/5qI89bdgXp4h8XfxXSFGOi) | 3:04 |
-| 49 | [Nufftime](https://open.spotify.com/track/0pMwoHmBn1QG6vsbTP2Ipa) | [Jaylon](https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4), [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ), [Remy Baggins](https://open.spotify.com/artist/6Pj7ddulM4dzUOGR3sERaX), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Baby Boy](https://open.spotify.com/album/3JNMIrtiqa028JR0XoG7xw) | 3:06 |
+| 49 | [Nufftime](https://open.spotify.com/track/0pMwoHmBn1QG6vsbTP2Ipa) | [Jaylon](https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4), [PHAEMOUS](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ), [Remy Baggins](https://open.spotify.com/artist/6Pj7ddulM4dzUOGR3sERaX), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Baby Boy](https://open.spotify.com/album/3JNMIrtiqa028JR0XoG7xw) | 3:06 |
 | 50 | [Grizzly](https://open.spotify.com/track/6l1AkbIl0zgzEEU2CvWFBp) | [Apple Gule](https://open.spotify.com/artist/6qQiyy1hXfRttZvgHqdwM1), [Anzo](https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv) | [Grizzly](https://open.spotify.com/album/49ybIWZtk46KKSRyOr2N8n) | 2:42 |
 | 51 | [Fool Me Once](https://open.spotify.com/track/2MGB1GwWIX0MZMvy5eGFOi) | [Joyce Olong](https://open.spotify.com/artist/60SeWhyUgLfPOiRnZwrzVj) | [Fool Me Once](https://open.spotify.com/album/2KEKoEZzlzfhlkS4SkM3NX) | 3:53 |
 | 52 | [Recovery](https://open.spotify.com/track/30ExC7bZ2Kfn6Vq3uuigaU) | [Esoterica](https://open.spotify.com/artist/4D0epRNi8OyA8rR7dEoB3y) | [Recovery](https://open.spotify.com/album/4x4RDCyzsUAIktzrYftG8D) | 2:36 |

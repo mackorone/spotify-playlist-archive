@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-324 songs - 20 hr 3 min
+326 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Immigration To The Trap](https://open.spotify.com/track/5bePAvg3OIBTCmWB9j430m) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Mumble Rap](https://open.spotify.com/album/04XJbeTbd7CvN0eXwe4K8P) | 1:53 | 2023-12-13 |  |
 | [Interlude](https://open.spotify.com/track/46rwzQddRNFojL5gLXPaYB) | [Starrah](https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu) | [The Longest Interlude](https://open.spotify.com/album/7pec82DONDwfIeTXJAnFys) | 2:01 | 2023-12-13 |  |
 | [Isis \(feat\. Logic\)](https://open.spotify.com/track/4h7qcXBtaOJnmrapxoWxGf) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [ADHD](https://open.spotify.com/album/5qkWpkGMULLVnSHb3Sej4X) | 3:56 | 2023-12-13 |  |
-| [It's Been a Pleasure](https://open.spotify.com/track/7upxcSIbWaeiS3mom33Bee) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Trill O.G\. \(Amended\)](https://open.spotify.com/album/2NT0ecLaL4wtjmK5SdvjEs) | 5:45 | 2023-12-13 |  |
+| [It's Been a Pleasure](https://open.spotify.com/track/7upxcSIbWaeiS3mom33Bee) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Trill O.G\. \(Amended\)](https://open.spotify.com/album/2NT0ecLaL4wtjmK5SdvjEs) | 5:45 | 2023-12-13 | 2025-06-27 |
+| [It's Been a Pleasure](https://open.spotify.com/track/5AOb2Cwv3DJHmHaMSYa5m1) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Trill O.G.](https://open.spotify.com/album/6ikFBgbHUMhgUkRe1thKuD) | 5:45 | 2025-06-26 |  |
 | [It's Better This Way](https://open.spotify.com/track/1bNOdjMdGUH59zsWl93IEu) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Don't Let Them See You Cry](https://open.spotify.com/album/3jJg20HwumSwJH0GcG5VbC) | 2:37 | 2023-12-13 |  |
 | [Jesus Piece](https://open.spotify.com/track/1yIhFZoPNT8LcIz7n1MVHn) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Jesus Piece \(Deluxe\)](https://open.spotify.com/album/5IBNSiR9VYaGIxOfcOJ2LB) | 3:53 | 2023-12-13 |  |
 | [Just Like You](https://open.spotify.com/track/1QDcKeZQcAdF6vnYqGqAjJ) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [508\-507\-2209](https://open.spotify.com/album/5FNiUh6rfgogAensmq4c81) | 4:16 | 2023-12-13 |  |
@@ -239,7 +240,8 @@
 | [PROUD](https://open.spotify.com/track/365wwIjijQdlRJEjUWTidq) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [The Play Don’t Care Who Makes It](https://open.spotify.com/album/5C3uZS83u9pXWFEpl47hWb) | 3:54 | 2023-12-13 |  |
 | [Psychopath Killer](https://open.spotify.com/track/41waH7ObCldjMZ90i6HY3A) | [Slaughterhouse](https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [SHADYXV](https://open.spotify.com/album/6wdSf72duVewXTqhYU3Z87) | 5:19 | 2023-12-13 |  |
 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-07-18 |  |
-| [Put It Down](https://open.spotify.com/track/5qKETQwkxK8I05yYfg13Az) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Trill O.G\. \(Amended\)](https://open.spotify.com/album/2NT0ecLaL4wtjmK5SdvjEs) | 4:32 | 2023-12-13 |  |
+| [Put It Down](https://open.spotify.com/track/5qKETQwkxK8I05yYfg13Az) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Trill O.G\. \(Amended\)](https://open.spotify.com/album/2NT0ecLaL4wtjmK5SdvjEs) | 4:32 | 2023-12-13 | 2025-06-27 |
+| [Put It Down](https://open.spotify.com/track/4TExSQ69GkXwxbfBzToc2c) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Trill O.G.](https://open.spotify.com/album/6ikFBgbHUMhgUkRe1thKuD) | 4:32 | 2025-06-26 |  |
 | [R.G.](https://open.spotify.com/track/1wg7lAk7YpKA90pFwSERZS) | [Rich Gang](https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS), [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5) | [Rich Gang \(Deluxe Version\)](https://open.spotify.com/album/2uhiqri87eC7Xe0tg9p7fB) | 2:53 | 2023-12-13 |  |
 | [R.O.D.](https://open.spotify.com/track/5AmzfSxCIOPxPmppoHrr12) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 3:34 | 2023-12-13 |  |
 | [Ransom](https://open.spotify.com/track/0u307EvhnL3mgRqFlQMnFb) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Ransom](https://open.spotify.com/album/2RinbD4aNlPQpd7H5mccjK) | 3:30 | 2023-12-13 |  |

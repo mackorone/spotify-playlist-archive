@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 46336,
+  "num_followers": 46344,
   "original_name": "When depression hits hard",
   "owner": {
     "name": "ada",
     "url": "https://open.spotify.com/user/adadoro"
   },
-  "snapshot_id": "AAACS94+pLncEw2RGwTQtBLEjNa9+N9Z",
+  "snapshot_id": "AAACTxUPv1hm40mqbyVZI446QnVdvNh9",
   "tracks": [
     {
       "added_at": "2023-01-13 09:23:19",
@@ -775,6 +775,26 @@
       "duration_ms": 200551,
       "name": "under my...",
       "url": "https://open.spotify.com/track/2ORqB5CJDSbt08oHQ5rWvB"
+    },
+    {
+      "added_at": "2025-06-26 20:48:54",
+      "album": {
+        "name": "C\u00ednico",
+        "url": "https://open.spotify.com/album/02bj2uqV5LxRDwLt3mn2lj"
+      },
+      "artists": [
+        {
+          "name": "David Yune",
+          "url": "https://open.spotify.com/artist/3qqheoFCeDrss96Ku756uP"
+        },
+        {
+          "name": "Jeff Leonard",
+          "url": "https://open.spotify.com/artist/1w7GqrKUmIDWu1pb2g6ySL"
+        }
+      ],
+      "duration_ms": 200588,
+      "name": "C\u00ednico",
+      "url": "https://open.spotify.com/track/6ZcT4Jl8j0LWi7xF5O1odK"
     },
     {
       "added_at": "2025-05-25 11:49:14",

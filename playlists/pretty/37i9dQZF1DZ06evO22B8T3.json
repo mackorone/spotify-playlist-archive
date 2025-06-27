@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1309541,
+  "num_followers": 1309560,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAADg2PaMfjnd5C3SEDUQMoND",
+  "snapshot_id": "aFs8AAAAAADI2SUaOZa6Vc5zKFS9M+PX",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To The Game",
-        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/6S9Hg5Ie8LHYTpCxUFZl1S"
       },
       "artists": [
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 191186,
-      "name": "A Veces (feat. Feid)",
-      "url": "https://open.spotify.com/track/1O9FJyTicBMSqIv0RLRy4i"
+      "duration_ms": 233169,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/7kkpwLgPSYzGWq3sM25Rvv"
     },
     {
       "added_at": null,
@@ -639,18 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/6S9Hg5Ie8LHYTpCxUFZl1S"
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
       "artists": [
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 233169,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/7kkpwLgPSYzGWq3sM25Rvv"
+      "duration_ms": 191186,
+      "name": "A Veces (feat. Feid)",
+      "url": "https://open.spotify.com/track/1O9FJyTicBMSqIv0RLRy4i"
     },
     {
       "added_at": null,
@@ -671,22 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To The Game",
-        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+        "name": "Julieta",
+        "url": "https://open.spotify.com/album/5RDldxr07UBheof8XWO0x1"
       },
       "artists": [
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
         }
       ],
-      "duration_ms": 218840,
-      "name": "Necio (feat. LIT killah)",
-      "url": "https://open.spotify.com/track/4Bn4JToBJGy47OEqB4AWtq"
+      "duration_ms": 185217,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/2vHcT753gq1ADTPFcDuwSI"
     },
     {
       "added_at": null,
@@ -707,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Julieta",
-        "url": "https://open.spotify.com/album/5RDldxr07UBheof8XWO0x1"
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
       "artists": [
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
         }
       ],
-      "duration_ms": 185217,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/2vHcT753gq1ADTPFcDuwSI"
+      "duration_ms": 218840,
+      "name": "Necio (feat. LIT killah)",
+      "url": "https://open.spotify.com/track/4Bn4JToBJGy47OEqB4AWtq"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To The Game",
-        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Tenso",
-      "url": "https://open.spotify.com/track/6qjVwfPtN73Rj7vSAaAuF2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noche Complicada",
         "url": "https://open.spotify.com/album/22QmmZD4By3nzjlvRiQV7Q"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 211208,
       "name": "Noche Complicada",
       "url": "https://open.spotify.com/track/4f9vS74fLCma9Tc93iTQbR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Tenso",
+      "url": "https://open.spotify.com/track/6qjVwfPtN73Rj7vSAaAuF2"
     },
     {
       "added_at": null,

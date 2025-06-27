@@ -4,7 +4,7 @@
 
 > 
 
-216 songs - 11 hr 17 min
+217 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [confused](https://open.spotify.com/track/1gRrsqKstdPRlpaiBPg5Bh) | [TileKid](https://open.spotify.com/artist/7HaSqpaqnOWSaqvezpdhX4) | [confused](https://open.spotify.com/album/4d7kGM4v4ExSAyAsJoRd97) | 1:33 | 2024-01-01 |  |
 | [Constellations](https://open.spotify.com/track/1MXOWbSCEjoGwivtIMnlBV) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 3:43 | 2024-01-22 |  |
 | [Count to Five](https://open.spotify.com/track/4ynqq6nbZUPI0fsD5ooALh) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Stray](https://open.spotify.com/album/2cB3JYraRPrxqIODugyL6M) | 3:04 | 2023-09-21 |  |
+| [Cínico](https://open.spotify.com/track/6ZcT4Jl8j0LWi7xF5O1odK) | [David Yune](https://open.spotify.com/artist/3qqheoFCeDrss96Ku756uP), [Jeff Leonard](https://open.spotify.com/artist/1w7GqrKUmIDWu1pb2g6ySL) | [Cínico](https://open.spotify.com/album/02bj2uqV5LxRDwLt3mn2lj) | 3:20 | 2025-06-26 |  |
 | [Dark Side Of The Moon](https://open.spotify.com/track/33iv4ikGd0KboI6xNPL80i) | [suisside](https://open.spotify.com/artist/79oXnSqjYH5WW260RhSHzZ) | [Dark Side Of The Moon](https://open.spotify.com/album/14wH4mIm2pKnZ9ti5co81U) | 2:48 | 2023-01-13 |  |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2024-01-07 |  |
 | [dial tone](https://open.spotify.com/track/4jDA1sI60uTBKTFOS6x2RP) | [Gloria Laing](https://open.spotify.com/artist/3aO4DL5c2uBGD8EUuP7sxi) | [dial tone](https://open.spotify.com/album/6AsbwoaM8vQor7AXpShvur) | 3:36 | 2025-03-11 | 2025-04-18 |

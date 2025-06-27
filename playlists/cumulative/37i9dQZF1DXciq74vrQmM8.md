@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. YUNGBLUD
+> welcome to our universe ft\. Nova Twins
 
-1,149 songs - 2 day 8 hr 15 min
+1,150 songs - 2 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -612,6 +612,7 @@
 | [KSALOL KRAZY](https://open.spotify.com/track/1mGLc2hq1aiGuuL9qed8WS) | [Kid Trash](https://open.spotify.com/artist/4etrehjW9pvA2SuBIt56Eh) | [KSALOL KRAZY](https://open.spotify.com/album/4bojr9kRXvJ6tD3nVyIAA4) | 3:21 | 2023-05-19 | 2023-06-09 |
 | [KSALOL KRAZY](https://open.spotify.com/track/4DsZninoUAg6pNfKtCquml) | [Kid Trash](https://open.spotify.com/artist/4etrehjW9pvA2SuBIt56Eh) | [DISTURRRBIA](https://open.spotify.com/album/3CZOUFl1SSNANvGwdqvGLQ) | 3:21 | 2023-09-28 | 2023-10-13 |
 | [KURAMA](https://open.spotify.com/track/2YknhdcajS4sXAKfGdDFSe) | [Frozemode](https://open.spotify.com/artist/2BhOQjsvbHRatFkBLkjmu5) | [KURAMA](https://open.spotify.com/album/59YcMu5XXdEjiQMuOrxEfO) | 2:38 | 2024-07-11 | 2024-08-23 |
+| [L\-Shaped Couch](https://open.spotify.com/track/3jEm2Y48MPMJwIZYUQE7HZ) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [L\-Shaped Couch](https://open.spotify.com/album/3kj8rTxgst0kYAeA2w5PRr) | 3:09 | 2025-06-26 |  |
 | [L.E.E.C.H.E.S](https://open.spotify.com/track/30sAUjr9XR0cp9MuILHNsL) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [SEWERSTAR](https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp) | 4:04 | 2023-09-07 | 2024-03-01 |
 | [Labyrinth \- Edit](https://open.spotify.com/track/1fMkGdFXENT9ndRjNr04u0) | [Cryalot](https://open.spotify.com/artist/5MAbo7Vj1N532cmkSN4YIY) | [Labyrinth](https://open.spotify.com/album/3v7JIKBV8gO8KNXxLqLPL0) | 3:32 | 2022-09-01 | 2022-09-23 |
 | [Lacrimosa](https://open.spotify.com/track/75GyAwEPoofJvjq6oZo22s) | [Huxlxy](https://open.spotify.com/artist/2hPnGJ5lirFEwDW38GM2eS) | [Lacrimosa](https://open.spotify.com/album/2rezRedcnS60CY419b5HAR) | 4:17 | 2023-02-17 | 2023-06-16 |

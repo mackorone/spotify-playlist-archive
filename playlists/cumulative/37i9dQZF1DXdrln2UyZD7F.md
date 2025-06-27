@@ -2,7 +2,7 @@
 
 ### [La vie est belle](https://open.spotify.com/playlist/37i9dQZF1DXdrln2UyZD7F)
 
-> Le meilleur de la musique d'hier et d'aujourd'hui pour une journée parfaite.
+> Le meilleur de la musique d'hier et d'aujourd'hui pour un été parfait.
 
 366 songs - 21 hr 9 min
 

@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Just a broken machine
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Almond Milk
 
-1,450 songs - 3 day 9 hr 49 min
+1,457 songs - 3 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Be You](https://open.spotify.com/track/4YA05pFBqNtqYe9NasRpEm) | [Zuk1](https://open.spotify.com/artist/3dFXqnNcQHliJjmTwI4Rr9) | [Be You](https://open.spotify.com/album/7xwOuaf0bp3EBG9tXpz32a) | 3:32 | 2022-08-11 | 2022-11-04 |
 | [Be Your Man](https://open.spotify.com/track/64reYNJXjQhPvvV4xqUw9I) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Be Your Man](https://open.spotify.com/album/5jtwRgJGrZGi1u9rMRnyK8) | 3:59 | 2024-12-12 | 2025-05-30 |
 | [Be Your STAR](https://open.spotify.com/track/25AnRoj0RQA72f9s8t1Khc) | [VVVOXY](https://open.spotify.com/artist/6a3B8XY5girw0XST4hcmcY) | [Be Your STAR](https://open.spotify.com/album/1fIWD0DrNjeToRBJzZouhP) | 2:34 | 2025-02-14 | 2025-05-30 |
+| [bedroom eyes](https://open.spotify.com/track/41aenxC4HT4z0fL6YKr9Iu) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [bedroom eyes](https://open.spotify.com/album/7EmfPTRwAlSufRmi9KGFjW) | 3:10 | 2025-06-26 |  |
 | [Better Days](https://open.spotify.com/track/1eBAncEA6SXHGwD5kL248j) | [Slimjongun](https://open.spotify.com/artist/1LsJXW9nCYGMqUdYhrttyI) | [Better Days](https://open.spotify.com/album/6mtrX5Ak54H6syJhGl6ZlV) | 2:59 | 2023-02-09 | 2023-07-14 |
 | [Birds of a Feather](https://open.spotify.com/track/4DG3IzN5U3inciYBjO2bms) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu), [Grey Brisson](https://open.spotify.com/artist/7th9azSFAuJoeGRCrh6OMS) | [Birds of a Feather](https://open.spotify.com/album/1O3NSXKqzKEY2CeyNwfu4m) | 2:15 | 2024-08-01 | 2024-11-15 |
 | [Black Horse](https://open.spotify.com/track/1i9pEMeun3QyzPivGCfm0l) | [Delf](https://open.spotify.com/artist/3ZVZi0IyNLH18rZsmA8SfO), [YEHAIYAHAN](https://open.spotify.com/artist/2rGUDp8wG9hqDm5BHbyy88), [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9) | [Black Horse](https://open.spotify.com/album/0pT7jmsLoupuUukTdq35Ln) | 3:14 | 2024-02-22 | 2024-06-07 |
@@ -728,7 +729,9 @@
 | [Scrolling \('till the end of the world\)](https://open.spotify.com/track/0xgs9uhySy9oPi9KM0RL2d) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Scrolling \(‘till the end of the world\)](https://open.spotify.com/album/47AKZxWEa3tfLrYzwEzHD1) | 3:36 | 2024-09-26 | 2025-02-14 |
 | [Sea](https://open.spotify.com/track/2mvlTkWNYuY1ADkYhu9swW) | [Lucid Fuzzy](https://open.spotify.com/artist/5d9ViTf7DQ0PBUHN3JTQu5) | [Sea](https://open.spotify.com/album/1eMTHBNaOPa3KWhJSWaL75) | 3:47 | 2024-01-11 | 2024-05-10 |
 | [Secret 秘密](https://open.spotify.com/track/3NAYkyQnYImDoYE0Kl80E5) | [Big Spoon](https://open.spotify.com/artist/4O4oSMu51Qqcd2YR2MTMNz) | [Secret 秘密](https://open.spotify.com/album/5bv7vHJVhkPx9HtLzBkZOF) | 3:19 | 2022-05-26 | 2022-07-29 |
+| [see you around](https://open.spotify.com/track/0KMAWGl5nOHcQt836HF60a) | [3yu](https://open.spotify.com/artist/24YFtVdmWcLitGppFlfPEP) | [see you around](https://open.spotify.com/album/5IyeYInL8NBceR5Z8xZHAK) | 3:40 | 2025-06-26 |  |
 | [Selenian Dream](https://open.spotify.com/track/5HEBYRE2QhH5WxAow4EvVA) | [Kurtosis Bc](https://open.spotify.com/artist/3GP4uWBY6ktJTjGatMmRPW) | [Selenian Dream](https://open.spotify.com/album/3d6gEtvGFdwjxSmgCWg8II) | 4:28 | 2022-05-26 | 2022-07-29 |
+| [selfish](https://open.spotify.com/track/1dRYOcpnYbiC3DbDxfMhzs) | [ben chow](https://open.spotify.com/artist/3O9Vari0d5odpXVPlRT04w) | [selfish](https://open.spotify.com/album/4Oy7WSypCJnsouRM66lZ27) | 2:14 | 2025-06-26 |  |
 | [SELFISH](https://open.spotify.com/track/7y73GJQDozxvtPDx0VTzXO) | [melatonin boy](https://open.spotify.com/artist/66vheDPkCTxEfvcqxPZR19) | [SELFISH](https://open.spotify.com/album/203K7mIwNixbwsD41xwshx) | 3:01 | 2024-02-22 | 2024-06-07 |
 | [Sense](https://open.spotify.com/track/608FQp5ctipsoxKUHtkbM5) | [Drotoch](https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U) | [Sense](https://open.spotify.com/album/0zM3NbWbcsXurYGe5XFpir) | 4:00 | 2023-12-21 | 2024-05-10 |
 | [SENSEI](https://open.spotify.com/track/1oPi24IjvMDKHQP2BQgnWb) | [WinWin 楊安妮](https://open.spotify.com/artist/2AndESNVeA7nBIvYfv5BD9) | [SENSEI](https://open.spotify.com/album/0Xv6s2zMbZDTWgPUHa95cf) | 2:54 | 2023-07-20 | 2023-11-03 |
@@ -790,6 +793,7 @@
 | [Streets of Helsinki](https://open.spotify.com/track/5Nuje8nvNyMTr1rV73ZmtY) | [erdocia](https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX) | [Streets of Helsinki](https://open.spotify.com/album/7wocbT7ZB498TXgICEPrjQ) | 4:01 | 2024-11-28 | 2025-05-30 |
 | [Strolling Sheep \(feat\. Bryan Li\)](https://open.spotify.com/track/58iPpoqLEQJigBtxAdx1a0) | [Oh! Sheep](https://open.spotify.com/artist/6J1qygxBY60B6lwIBTYTTU), [Bryan Li](https://open.spotify.com/artist/0hiM4aE6IRnwyfkO3lECrM) | [Strolling Sheep \(feat\. Bryan Li\)](https://open.spotify.com/album/1PcfKCsh3bOKTFRtvH1Eqx) | 5:01 | 2024-08-15 | 2024-12-13 |
 | [Stuck in my dream](https://open.spotify.com/track/6FRQGRaRgCBMiV1od1ZJAG) | [Science Noodles](https://open.spotify.com/artist/4cqVlLy4QV2KwAojyE7KHR) | [Noodles](https://open.spotify.com/album/1ExTXmIeooEWgFxQoiFCka) | 3:44 | 2022-07-07 | 2022-11-04 |
+| [Stupefied](https://open.spotify.com/track/4W8ZloZDeY01EwvnWZASLp) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Stupefied](https://open.spotify.com/album/6SO2nPUIEM1QyajFjqigUw) | 3:05 | 2025-06-26 |  |
 | [stupidlittlegirl](https://open.spotify.com/track/3eA0lnEfEf3DmNAWn9IsVt) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [stupidlittlegirl](https://open.spotify.com/album/75OPV2NFqRnPpwc5bmsEmo) | 2:59 | 2024-01-11 | 2024-05-10 |
 | [stupidlittlegirl](https://open.spotify.com/track/48dGspOoVv7a9HtHSgPQuh) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [stupidlittlegirl](https://open.spotify.com/album/1I8xMmaGJ6f17RDdN0ZhGN) | 2:59 | 2024-01-25 | 2024-04-19 |
 | [suburban crush](https://open.spotify.com/track/5uY9J7hSvVqzTcEejI2hiw) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [suburban crush](https://open.spotify.com/album/6Krpx8rHDfDEPfzENdVOmb) | 4:48 | 2022-05-26 | 2022-07-29 |
@@ -1378,11 +1382,13 @@
 | [荒謬](https://open.spotify.com/track/2ffz1KYTxcH0szaFI7FPyv) | [Lester Chong](https://open.spotify.com/artist/1r19EpaTIboSLEJFgJ4Y4p) | [ZiNG!](https://open.spotify.com/album/238I1dAZg6aMYIazEk4eiv) | 3:48 | 2022-05-26 | 2022-07-29 |
 | [落](https://open.spotify.com/track/6y7fatGRm0Z8aPA4lg137f) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [落](https://open.spotify.com/album/6a4yDv2n8sz3xFBOETb6BF) | 3:54 | 2023-10-26 | 2024-01-05 |
 | [落雨一齊留係屋企](https://open.spotify.com/track/79bMWIVziDRCDF85zta9Zb) | [NatS](https://open.spotify.com/artist/367T9M6uiP4jr6u5DtMD1l), [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [落雨一齊留係屋企](https://open.spotify.com/album/00ckJrDa0KH5gDjZjDAIkE) | 3:19 | 2023-10-19 | 2024-01-05 |
+| [蓬萊 penglai](https://open.spotify.com/track/3822MdjXUaPytPhS3ooIoN) | [王和平](https://open.spotify.com/artist/0QZFObHsPNvgQzKquyuVvt) | [怪咖啡因 blame it on the caffeine](https://open.spotify.com/album/5Gmq6pkXrngE8BVnEWEqOZ) | 5:51 | 2025-06-26 |  |
 | [藍](https://open.spotify.com/track/5pP7LtLlmcqikkA7COCHB4) | [Alexmalism](https://open.spotify.com/artist/2UwJTbVVDgt5KKRK5i94zD) | [藍](https://open.spotify.com/album/6WfbXwRDkl91BEXVuDWuaG) | 3:28 | 2023-03-30 | 2023-07-14 |
 | [藍色時期](https://open.spotify.com/track/41SLYJForXFleyuyKHqm7k) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO) | [藍色時期](https://open.spotify.com/album/1jSDKKhHUaLjq4JbiWYOtX) | 3:25 | 2022-07-21 | 2022-11-04 |
 | [藏](https://open.spotify.com/track/1Q1ekVK1qbKvoqKXS1vSYs) | [Hidy Dear](https://open.spotify.com/artist/2ELf7wGy8b9xpRwOscjnJJ), [Slo Mance](https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs) | [藏](https://open.spotify.com/album/6wrbg7F6Yd1JW53ZMZpqa7) | 3:23 | 2022-11-03 | 2023-03-18 |
 | [藏顏](https://open.spotify.com/track/6fOZDtsqjvOm9ylil1E9Me) | [NOSmke](https://open.spotify.com/artist/5UEvJoDztX8J2LFmBCHyxb) | [藏顏](https://open.spotify.com/album/1S5ssd5xRgGgdpL6ITbDPK) | 2:38 | 2024-07-04 | 2024-11-15 |
 | [蘋果樹下](https://open.spotify.com/track/1hZGlDhhkGdNCAo5TBL7hG) | [HeartShine](https://open.spotify.com/artist/2N77bYeH8lzQ2jfhSiqNDB) | [蘋果樹下](https://open.spotify.com/album/59Dt1xdXS8HE6z7f22or8T) | 4:25 | 2022-05-26 | 2022-06-10 |
+| [虛擬說唱部落 \(feat\. Chefwest & ZODI\)](https://open.spotify.com/track/3EfnsYGvQBrqxwXucOrTBl) | [Slept Kid](https://open.spotify.com/artist/411AHO70iqEDqL3ezTF7PP), [Chefwest](https://open.spotify.com/artist/76X04R0YI3EKzZ957qJeee), [ZODI](https://open.spotify.com/artist/0RVLAAfjPbd7PADAu886hv) | [虛擬說唱部落 \(feat\. Chefwest & ZODI\)](https://open.spotify.com/album/1LkT36CU0GWn7Q4IVaKtlP) | 2:42 | 2025-06-26 |  |
 | [蜘蛛](https://open.spotify.com/track/3KdThk86RRZoVCVwidyS3A) | [Pyrotechnics](https://open.spotify.com/artist/6pzXFIbEnIlksa2bH7TZsP) | [燎原](https://open.spotify.com/album/6fcjL2VMAQX2KVq3MHAzjd) | 1:54 | 2023-07-21 | 2023-11-03 |
 | [街角抱起](https://open.spotify.com/track/31YJdwjzMcW8A7sqQDiPsg) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [街角抱起](https://open.spotify.com/album/4lKgKxdrLqxw0ldFmpER5p) | 3:20 | 2023-02-16 | 2023-05-26 |
 | [褐色的眼睛](https://open.spotify.com/track/2ih823m7ZUJg9omTJXlSJX) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [dy](https://open.spotify.com/artist/11dkaOJSGGuwn9QsItqyzm) | [褐色的眼睛](https://open.spotify.com/album/3A2uWD7yUHzoBmKHdu3Xud) | 3:22 | 2022-05-26 | 2022-06-10 |
@@ -1431,6 +1437,7 @@
 | [離開的感覺](https://open.spotify.com/track/2bzbEJY3xfGkFJdy509uRP) | [AP潘宇謙](https://open.spotify.com/artist/6KXppww2ejV1wfMVOkY3tZ) | [離開的感覺](https://open.spotify.com/album/3w8OUJKYhA2AAPhltni2QG) | 3:30 | 2022-10-27 | 2023-02-03 |
 | [雪白的愛](https://open.spotify.com/track/3gIemVYnj4E5tLWIrGf7Sw) | [kkisnotemo](https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls) | [雪白的愛](https://open.spotify.com/album/1qboE3FINCTo5AJvJeD76A) | 3:22 | 2023-02-16 | 2023-03-18 |
 | [雷公](https://open.spotify.com/track/0TEuWQfz9iMdjD6Q21PXRq) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT), [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [雷公](https://open.spotify.com/album/6JDauC0CXDtwXujYRschuK) | 2:06 | 2022-06-09 | 2022-07-29 |
+| [靈魂伴侶](https://open.spotify.com/track/3nDIImUmb9iIlKUVvof5HO) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [murmur](https://open.spotify.com/album/7JQzj25vVtOQu3GRPEDg6D) | 4:04 | 2025-06-26 |  |
 | [非如此不可](https://open.spotify.com/track/4lCntWwCXxXYNw8PQZvPhz) | [BEAT FRIDAY](https://open.spotify.com/artist/4kVEF1XkJrrgDFA209drro) | [非如此不可](https://open.spotify.com/album/58r9j7HMNHgwzeDQm1TmzM) | 2:12 | 2022-05-26 | 2022-07-29 |
 | [音魂不散](https://open.spotify.com/track/36Wgl4JNyYnVsNO6sO8f7N) | [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [音魂不散](https://open.spotify.com/album/4QLXftWFp47188dsZt4hQQ) | 2:29 | 2023-11-02 | 2024-01-05 |
 | [領跑](https://open.spotify.com/track/1Bm5H9QiBm4Mm1qDlQUhzy) | [薛德勇 Monkey](https://open.spotify.com/artist/3JwDfxWk8xVPg2ia8CN3MS) | [領跑](https://open.spotify.com/album/6US9zybEL3MmatjMVaK2B4) | 3:42 | 2024-01-18 | 2024-05-10 |

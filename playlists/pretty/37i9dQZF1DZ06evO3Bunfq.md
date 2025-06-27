@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 
 > This is Dharius\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,045 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,069 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 14 | [ALV TODOS](https://open.spotify.com/track/76akywa2I8JChhWVpGQv01) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [ALV TODOS](https://open.spotify.com/album/02lhVJUr51n29j8BesGnUM) | 4:05 |
 | 15 | [No te puedo olvidar](https://open.spotify.com/track/6nFI6MLsdCrRgK81aPOge6) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [No te puedo olvidar](https://open.spotify.com/album/69sIAVejtXSmSZsO18V5Q8) | 3:34 |
 | 16 | [Serenata Rap](https://open.spotify.com/track/2RhZI0Ljg8nnouhwPIOHWc) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:27 |
-| 17 | [Para Olvidarme De Tus Besos](https://open.spotify.com/track/4CB7M0J9NNubspCy0WDlNL) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Una Historia Mal Contada](https://open.spotify.com/album/5lYcalORluIjuBEKJflc88) | 3:17 |
-| 18 | [Liga Malandra 3](https://open.spotify.com/track/6fAGdSZyZO3uKF0wdVOuVd) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [El Jincho](https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw), [Sinful El Pecador](https://open.spotify.com/artist/0CtBJEWIKkU8CzxJCBLmSi) | [Liga Malandra 3](https://open.spotify.com/album/6dcUWslTmKR3ymSgSQ1nzy) | 6:11 |
+| 17 | [Liga Malandra 3](https://open.spotify.com/track/6fAGdSZyZO3uKF0wdVOuVd) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [El Jincho](https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw), [Sinful El Pecador](https://open.spotify.com/artist/0CtBJEWIKkU8CzxJCBLmSi) | [Liga Malandra 3](https://open.spotify.com/album/6dcUWslTmKR3ymSgSQ1nzy) | 6:11 |
+| 18 | [Para Olvidarme De Tus Besos](https://open.spotify.com/track/4CB7M0J9NNubspCy0WDlNL) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Una Historia Mal Contada](https://open.spotify.com/album/5lYcalORluIjuBEKJflc88) | 3:17 |
 | 19 | [Hey Morra](https://open.spotify.com/track/0q7l3V8Hlbwvs2u9UN6w6P) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 3:53 |
 | 20 | [Lírica Onírica](https://open.spotify.com/track/5mqq5G8HU0Ep1PUCE4dh31) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:15 |
 | 21 | [VNDO](https://open.spotify.com/track/62lcIAirqahXFb9EM2gNjP) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [VNDO](https://open.spotify.com/album/6IMVC2fXSxKfLJ8FI2rYp3) | 3:51 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 47 | [Si la muerte pregunta](https://open.spotify.com/track/75q22frRWs67LW2ltg7PLC) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 3:29 |
 | 48 | [\#LQMQ](https://open.spotify.com/track/2U05xDmQBWf3nY01ZUTLPp) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [\#LQMQ](https://open.spotify.com/album/2wlQGKcIoJ2rm7dvgmTanP) | 3:31 |
 | 49 | [Todo El Barrio](https://open.spotify.com/track/2Q102D8aRguZjaq4m6NqpA) | [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb), [Dj Flippp](https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Da Street Album](https://open.spotify.com/album/19SohNpEp4BqtdZrRhcr5z) | 2:20 |
-| 50 | [Oro en la Medalla](https://open.spotify.com/track/2TYVh81Hg2FyNq8MRkTd5H) | [Nash](https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [AYWA](https://open.spotify.com/artist/6GEVw5yA5Oe5UxuiN2YOIO) | [Oro en la Medalla](https://open.spotify.com/album/7ldWaPET5zr62xHpJCVZWO) | 2:35 |
+| 50 | [Broche De Oro](https://open.spotify.com/track/6bomSYIzgSeymVS1sdUhsu) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Esquina](https://open.spotify.com/album/1AUCWNSatHgDBNYvfthnNa) | 4:27 |
 
-Snapshot ID: `aFnqgAAAAAAerNLXEF1HOFesTUCUMpNQ`
+Snapshot ID: `aFs8AAAAAACJG5f44tRCabFWsLagw121`

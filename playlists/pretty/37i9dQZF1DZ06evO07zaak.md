@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07zaak.md) - [plain]
 
 > This is Pink Floyd\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,521,000 likes - 44 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,521,155 likes - 43 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07zaak.md) - [plain]
 | 37 | [Wot's...Uh the Deal](https://open.spotify.com/track/6zGFOp6rJZbYSp9DQO5AHY) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 5:09 |
 | 38 | [Terminal Frost](https://open.spotify.com/track/4hO2y5DRbeMppklIroS1O8) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 6:15 |
 | 39 | [One of the Few](https://open.spotify.com/track/2rcpqbAf0ZXdgddldbu1sU) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 1:17 |
-| 40 | [Pompeii Intro \- Live at Pompeii \- MCMLXXII \- 2025 Mix](https://open.spotify.com/track/0vQtlq80NMVGAh2EgzQg1C) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Pink Floyd at Pompeii \- MCMLXXII \(2025 Mix\)](https://open.spotify.com/album/0ptvgHrZARlAZFmbg0WvDI) | 3:30 |
-| 41 | [Childhood's End](https://open.spotify.com/track/4fnJmewCdmTfErfSYSysyM) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 4:33 |
-| 42 | [A New Machine, Pt\. 2](https://open.spotify.com/track/1gqS8bomGckIqmfDbavdHD) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 0:39 |
-| 43 | [Your Possible Pasts](https://open.spotify.com/track/1IAiDrvZCOx8AHlNZGY5yU) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 4:26 |
-| 44 | [Obscured by Clouds](https://open.spotify.com/track/3c8LKbUsjW9lMYQzVScXQT) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 3:04 |
+| 40 | [Childhood's End](https://open.spotify.com/track/4fnJmewCdmTfErfSYSysyM) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 4:33 |
+| 41 | [A New Machine, Pt\. 2](https://open.spotify.com/track/1gqS8bomGckIqmfDbavdHD) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 0:39 |
+| 42 | [Your Possible Pasts](https://open.spotify.com/track/1IAiDrvZCOx8AHlNZGY5yU) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 4:26 |
+| 43 | [Obscured by Clouds](https://open.spotify.com/track/3c8LKbUsjW9lMYQzVScXQT) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 3:04 |
 
-Snapshot ID: `aFnqgAAAAABUhorjWn5OrRXBZbvXQm9I`
+Snapshot ID: `aFs8AAAAAAAjVPhF/1fgCA6uKPOfZRR9`

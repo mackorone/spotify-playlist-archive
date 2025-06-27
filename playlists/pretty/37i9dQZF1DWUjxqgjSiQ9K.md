@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Mosaic MSC
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,259 likes - 90 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,353 likes - 90 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 43 | [Vengo A Decir](https://open.spotify.com/track/6fNghwZtCQEeL8n4fsbt3K) | [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Vengo A Decir](https://open.spotify.com/album/4lDXUGvykG2h8Vy729SfNF) | 3:05 |
 | 44 | [Es Perfecto](https://open.spotify.com/track/3qxNVoyBha3n4if8DNMG1o) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Es Perfecto](https://open.spotify.com/album/01DnsGke4f0gUMpRDW8QSo) | 3:38 |
 | 45 | [Lejos](https://open.spotify.com/track/55N34N8Xnl6V6ZcMricxe4) | [Tommy Bueno](https://open.spotify.com/artist/5bQOdNLAjlUqoiNHbvfknR), [Lisan Beat](https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi) | [Lejos](https://open.spotify.com/album/1M5i0l6WJgLJtvJvkLj07A) | 2:59 |
-| 46 | [Colores](https://open.spotify.com/track/0NB8PzSYEgOXkIoGnRXvAn) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [UNO \(Live\)](https://open.spotify.com/album/5vdYMnnCJmO7SfznAbalil) | 3:34 |
+| 46 | [Colores \- Live](https://open.spotify.com/track/0NB8PzSYEgOXkIoGnRXvAn) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [UNO \(Live\)](https://open.spotify.com/album/5vdYMnnCJmO7SfznAbalil) | 3:34 |
 | 47 | [Mate](https://open.spotify.com/track/1uS5OSVYqTpZNTpDdJiCOk) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [No Soy El Mismo \(El Album\)](https://open.spotify.com/album/6AtjWHHQAHTAG4HxMfXqd5) | 3:11 |
 | 48 | [Gracias](https://open.spotify.com/track/1vbxljUiVWuKTsbt04VFQx) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Gracias](https://open.spotify.com/album/5LhnKDEfNXW2fZoRXusH4w) | 5:23 |
 | 49 | [Cantaré de tu Amor](https://open.spotify.com/track/7gdABl8DcNsz8KyKrjN8gM) | [MISSION MUSICA](https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Cantaré de tu Amor](https://open.spotify.com/album/5qblGELHjLgR6dKwPQdMBv) | 5:21 |

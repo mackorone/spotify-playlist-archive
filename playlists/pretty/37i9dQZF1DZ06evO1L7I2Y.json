@@ -1,13 +1,29 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3362,
+  "num_followers": 3360,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAAAN7gTg7fROVcWRRvL0COf0",
+  "snapshot_id": "aFs8AAAAAAD5RwFK5BL0Ky6kcxm91cOS",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "N.I.N.A: Ao Vivo no Palco Supernova - Rock in Rio Brasil 2024",
+        "url": "https://open.spotify.com/album/3Ofs1zckDbskSUyGKrY3BQ"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 195929,
+      "name": "A Bruta, A Braba, A Forte - Ao Vivo no Palco Supernova - Rock in Rio Brasil 2024",
+      "url": "https://open.spotify.com/track/4F4ge3uyxZvdO0v2uaWV4M"
+    },
     {
       "added_at": null,
       "album": {
@@ -163,18 +179,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Bruta, a Braba, a Forte",
-        "url": "https://open.spotify.com/album/64hkZLym75f49YAmQvke70"
+        "name": "Contram\u00e3o",
+        "url": "https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2"
       },
       "artists": [
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
         }
       ],
-      "duration_ms": 164572,
-      "name": "A Bruta, a Braba, a Forte",
-      "url": "https://open.spotify.com/track/0j531pQwzTDW0z72QJ7Zod"
+      "duration_ms": 222857,
+      "name": "Contram\u00e3o",
+      "url": "https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo"
     },
     {
       "added_at": null,
@@ -203,26 +223,6 @@
       "duration_ms": 160000,
       "name": "Prece",
       "url": "https://open.spotify.com/track/6UmJjde5JUyvqMm2lqvPyD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contram\u00e3o",
-        "url": "https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Contram\u00e3o",
-      "url": "https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo"
     },
     {
       "added_at": null,
@@ -851,30 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fed Tracks #14: Recado",
-        "url": "https://open.spotify.com/album/2bdqJbDmCUaTVyN1AaUCDJ"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        },
-        {
-          "name": "Baratapai",
-          "url": "https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY"
-        }
-      ],
-      "duration_ms": 161095,
-      "name": "Fed Tracks #14: Recado",
-      "url": "https://open.spotify.com/track/1AzsKMkoDCBhbOw5OU1Ii1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trono de Vidro",
         "url": "https://open.spotify.com/album/5478asny0EoVp8jWQ0DAX7"
       },
@@ -899,6 +875,30 @@
       "duration_ms": 161896,
       "name": "Paz Terr\u00edvel",
       "url": "https://open.spotify.com/track/7vpLD8SnpMWi3D6WJc0hme"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fed Tracks #14: Recado",
+        "url": "https://open.spotify.com/album/2bdqJbDmCUaTVyN1AaUCDJ"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        },
+        {
+          "name": "Baratapai",
+          "url": "https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY"
+        }
+      ],
+      "duration_ms": 161095,
+      "name": "Fed Tracks #14: Recado",
+      "url": "https://open.spotify.com/track/1AzsKMkoDCBhbOw5OU1Ii1"
     },
     {
       "added_at": null,

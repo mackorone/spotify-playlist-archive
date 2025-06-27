@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-392 songs - 1 day 0 hr 8 min
+393 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [A Step You Can’t Take Back](https://open.spotify.com/track/6LLUiWmVoiPm27QNzBNc3j) | [Keira Knightley](https://open.spotify.com/artist/2MG46ekjBSFwPgzoIZvHFU) | [Begin Again \- Music From And Inspired By The Original Motion Picture](https://open.spotify.com/album/2fKvStJ1UkXMkf5kzBp3DQ) | 3:21 | 2024-02-15 | 2024-04-19 |
 | [A Trick of the Light](https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The Art Of Pretending To Swim](https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU) | 4:08 | 2022-11-25 |  |
 | [Above the Clouds of Pompeii](https://open.spotify.com/track/4WFh8KiLmaCLu7QwFgTzA2) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Above the Clouds of Pompeii](https://open.spotify.com/album/5dFQx8kMykeP970uW0zlNq) | 4:00 | 2024-10-04 | 2024-12-10 |
+| [Afuera \(with Ed Maverick\)](https://open.spotify.com/track/0MXIDtvwmzNawJuLI5wBuv) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Afuera \(with Ed Maverick\)](https://open.spotify.com/album/6hiACuXRbybv7MYNzyx88R) | 3:11 | 2025-06-26 |  |
 | [Ain't Nobody \(Loves Me Better\) \- Acoustic](https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Ain't Nobody \(Loves Me Better\) \[Acoustic\] \[Acoustic Version\]](https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m) | 2:58 | 2022-11-25 | 2023-02-22 |
 | [Alaska](https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:08 | 2022-11-25 | 2024-04-19 |
 | [All I Need To Hear](https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [All I Need To Hear](https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s) | 3:30 | 2022-11-25 | 2024-05-14 |
@@ -69,7 +70,7 @@
 | [Call You Home](https://open.spotify.com/track/13fKofkr63VqPpBCwv5D1j) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [Stop the Moment \(Deluxe\)](https://open.spotify.com/album/31up7nR5ex0xB1e3fFvmG4) | 2:54 | 2022-11-25 | 2024-04-19 |
 | [Can't Be By Myself](https://open.spotify.com/track/0VRGtZN4LDRqxMP3HeDtqN) | [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Red\-Eye Effect](https://open.spotify.com/album/1lmmfQayZ9x0mVbLn2Fn53) | 2:55 | 2023-05-25 | 2023-12-14 |
 | [Can't Be By Myself](https://open.spotify.com/track/30d5RsO6WvseuBB1UXQGM4) | [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P), [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Can't Be By Myself](https://open.spotify.com/album/6GGqDtR8l4sebnwl7Zcqdj) | 2:55 | 2023-03-02 | 2023-05-28 |
-| [Carried Away](https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Caballus](https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3) | 3:27 | 2025-05-08 |  |
+| [Carried Away](https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Caballus](https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3) | 3:27 | 2025-05-08 | 2025-06-27 |
 | [Carry You](https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:33 | 2022-11-25 |  |
 | [Chariot](https://open.spotify.com/track/1eOuuW7VHBrIpwQ8drsPQN) | [Mega](https://open.spotify.com/artist/5KJO8SHDZrO7mvLq0FKu7b) | [Chariot](https://open.spotify.com/album/4WJwUq7DPoEgmfsR2fAQXl) | 3:36 | 2022-11-25 | 2024-04-29 |
 | [Chariot](https://open.spotify.com/track/6GRx9KtB1BhKDelUtsxzvT) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Chariot](https://open.spotify.com/album/4IQcmXCLlNwsEyT8sWK17I) | 3:36 | 2024-02-15 | 2024-04-19 |

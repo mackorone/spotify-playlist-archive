@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Keo
+> Discover your new favourite artists from UK&IE\. Cover: F3miii
 
-316 songs - 17 hr 3 min
+317 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [too much tv](https://open.spotify.com/track/5ZhW39tJKPDZRphsTknUHR) | [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [too much tv](https://open.spotify.com/album/3to4TxLLUr4iQ3uOyW6XLW) | 3:13 | 2024-08-29 |  |
 | [Touch You](https://open.spotify.com/track/1yHA6PUuNPGxlNIy7gQ6bH) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [What I made with Joe](https://open.spotify.com/album/2D1gXzXVm3wbcjf3sEQjwV) | 2:53 | 2025-05-22 |  |
 | [Trouble](https://open.spotify.com/track/0LdhrpQQXy9t2jwidxgOwL) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [The Butterfly Club](https://open.spotify.com/album/0RIR5ufR003FyTIywzPMCB) | 4:28 | 2022-02-18 |  |
+| [TRUTH](https://open.spotify.com/track/4C9BuBuYgYlOvLh6QzMpqb) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [TRUTH](https://open.spotify.com/album/514vLGRIoCZV3WFoo61QIl) | 2:03 | 2025-06-26 |  |
 | [Use You](https://open.spotify.com/track/7LHdg8zRyjdwiV2RpBKL8x) | [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [cry.baby](https://open.spotify.com/album/4cPb0Ej857PhMEXh0YmrCM) | 2:54 | 2022-02-18 |  |
 | [Void](https://open.spotify.com/track/1KpTRAQKZuZS21myWlTuRu) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Ember](https://open.spotify.com/album/4TdkbM2pBTKg4mKppswtyN) | 3:16 | 2023-03-24 |  |
 | [Wanna Chill Baby?](https://open.spotify.com/track/1OYgZHegbK7PS1WwWeWOa1) | [G!ft](https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm) | [Wanna Chill Baby?](https://open.spotify.com/album/1624ryqTdABHLSmeOMHMsy) | 1:56 | 2023-04-13 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "All the new indie tracks worth knowing about. Cover: Unknown Mortal Orchestra",
+  "description": "All the new indie tracks worth knowing about. Cover: Blood Orange",
   "name": "Indie Arrivals",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 188575,
       "name": "300 dreams",
       "url": "https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL"
@@ -236,6 +236,28 @@
       "duration_ms": 202617,
       "name": "92 Purebred",
       "url": "https://open.spotify.com/track/5rQH27Qh7corQhEXPbXfka"
+    },
+    {
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169344,
+      "name": "97 Jag",
+      "url": "https://open.spotify.com/track/6k4FnXiMy4pjcK7cIw2X6z"
     },
     {
       "album": {
@@ -924,7 +946,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 161571,
       "name": "Animaru",
       "url": "https://open.spotify.com/track/1SkY6npvIxrTAU1cP4XMIg"
@@ -2022,7 +2044,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 227586,
       "name": "Bloom Baby Bloom",
       "url": "https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA"
@@ -2662,7 +2684,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 220600,
       "name": "Call Me When You Know Better",
       "url": "https://open.spotify.com/track/7HjsWvIfbmPXVljKNBz1Av"
@@ -2778,6 +2800,24 @@
       "duration_ms": 184205,
       "name": "Can\u2019t Dance",
       "url": "https://open.spotify.com/track/7lgHOk4WsZ4YDik6zz3Yon"
+    },
+    {
+      "album": {
+        "name": "car",
+        "url": "https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197396,
+      "name": "car",
+      "url": "https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx"
     },
     {
       "album": {
@@ -3668,7 +3708,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 190000,
       "name": "Creature Skin",
       "url": "https://open.spotify.com/track/3uuewLm16NAXIWWu1yy9jq"
@@ -3814,6 +3854,24 @@
       "duration_ms": 190817,
       "name": "Darkest Lullaby",
       "url": "https://open.spotify.com/track/3MV0SFjUcQYUGmAQv6o7Q2"
+    },
+    {
+      "album": {
+        "name": "davina mccall",
+        "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227794,
+      "name": "davina mccall",
+      "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
     },
     {
       "album": {
@@ -5181,6 +5239,24 @@
     },
     {
       "album": {
+        "name": "Falling on my Sword",
+        "url": "https://open.spotify.com/album/6hNodCtj6sGpBT3a0VxF6c"
+      },
+      "artists": [
+        {
+          "name": "TOPS",
+          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147597,
+      "name": "Falling on my Sword",
+      "url": "https://open.spotify.com/track/3t6xrRUy8FmhH7XH86RO1O"
+    },
+    {
+      "album": {
         "name": "Falling out of Touch",
         "url": "https://open.spotify.com/album/7be7aajivvusaA65WdhpZQ"
       },
@@ -5300,7 +5376,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 163228,
       "name": "feeling good",
       "url": "https://open.spotify.com/track/2ZJGMZhwIh5VV9ksQLElTS"
@@ -5608,7 +5684,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 221681,
       "name": "fold the edges",
       "url": "https://open.spotify.com/track/0JNSh5UXjJihB95odFRIeC"
@@ -6396,7 +6472,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 308424,
       "name": "Grow Wings and Fly",
       "url": "https://open.spotify.com/track/6hQDM3GCZ1mxV0jLyUpoyd"
@@ -6742,7 +6818,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 121343,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/4gpeMWDRheQIhw0EjVmIrY"
@@ -7090,6 +7166,24 @@
       "duration_ms": 185346,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/1jit8yRaXz50OZNINPxtym"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6iB29E0Lo8vM1F0Hg5KTmR"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131898,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5LqHalawZqviSYyhq4KxMf"
     },
     {
       "album": {
@@ -7444,7 +7538,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 250400,
       "name": "I Like It I Like It",
       "url": "https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO"
@@ -7581,6 +7675,24 @@
     },
     {
       "album": {
+        "name": "My Star (Deluxe)",
+        "url": "https://open.spotify.com/album/3jXRErosrQELn4XWbP4Ucw"
+      },
+      "artists": [
+        {
+          "name": "Junior Varsity",
+          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116571,
+      "name": "I'm Not Crazy",
+      "url": "https://open.spotify.com/track/4SRBf3sLhp0vmiuN4AQSZy"
+    },
+    {
+      "album": {
         "name": "Goodbye to the Valley Low (Side B)",
         "url": "https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ"
       },
@@ -7628,7 +7740,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 171343,
       "name": "I'm Your Dirt, I'm Your Love",
       "url": "https://open.spotify.com/track/72CUf7pWNkykpZ5dUxdGlb"
@@ -8224,6 +8336,24 @@
       "duration_ms": 191484,
       "name": "Jumping the Gun",
       "url": "https://open.spotify.com/track/5TosBXH7iNMMn1Z5dc2FzZ"
+    },
+    {
+      "album": {
+        "name": "June Guitar",
+        "url": "https://open.spotify.com/album/7x28LDVChhkBuYz87lTuuC"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232213,
+      "name": "June Guitar",
+      "url": "https://open.spotify.com/track/04D3vlBBu49iC0XP7ys1i5"
     },
     {
       "album": {
@@ -10045,6 +10175,24 @@
     },
     {
       "album": {
+        "name": "Moth Song",
+        "url": "https://open.spotify.com/album/15tDiSE6EpMxDxUDkRXKwN"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303902,
+      "name": "Moth Song",
+      "url": "https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6"
+    },
+    {
+      "album": {
         "name": "Motorcycle",
         "url": "https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g"
       },
@@ -10670,6 +10818,24 @@
       "duration_ms": 107266,
       "name": "Off The Rails",
       "url": "https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv"
+    },
+    {
+      "album": {
+        "name": "Oh Well",
+        "url": "https://open.spotify.com/album/14xNv08MTYuYXp0fzrdeco"
+      },
+      "artists": [
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204846,
+      "name": "Oh Well",
+      "url": "https://open.spotify.com/track/1ZPCP9A99sslhQoGbYE4Mm"
     },
     {
       "album": {
@@ -12165,6 +12331,28 @@
     },
     {
       "album": {
+        "name": "Sail The Seas",
+        "url": "https://open.spotify.com/album/3VZTcaDEBpn0txSOdkCYaw"
+      },
+      "artists": [
+        {
+          "name": "Teenager",
+          "url": "https://open.spotify.com/artist/4vXxxiqmySa5LxGESBj5PB"
+        },
+        {
+          "name": "Ladyhawke",
+          "url": "https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181770,
+      "name": "Sail The Seas",
+      "url": "https://open.spotify.com/track/4C3kdudsN4n2cZobHj2l7j"
+    },
+    {
+      "album": {
         "name": "Kansas Anymore (The Longest Goodbye)",
         "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
       },
@@ -12580,7 +12768,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 336241,
       "name": "Silver Star",
       "url": "https://open.spotify.com/track/5Fg79Q0XdmUxfWBCL0iKn2"
@@ -13410,7 +13598,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 220422,
       "name": "Strobe",
       "url": "https://open.spotify.com/track/3Gbte7C9NyAmMCZDPWhooG"
@@ -14247,6 +14435,40 @@
     },
     {
       "album": {
+        "name": "The Field (feat. The Durutti Column, Tariq Al-Sabir, Caroline Polachek & Daniel Caesar)",
+        "url": "https://open.spotify.com/album/1ui8ZfiEmEZSGB2K4OPNYc"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        },
+        {
+          "name": "Tariq Al-Sabir",
+          "url": "https://open.spotify.com/artist/6EScxZAPeNmf1U8TB4Hk2h"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "The Durutti Column",
+          "url": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199256,
+      "name": "The Field (feat. The Durutti Column, Tariq Al-Sabir, Caroline Polachek & Daniel Caesar)",
+      "url": "https://open.spotify.com/track/5GVyBn2zUEweqnS6oeXlMp"
+    },
+    {
+      "album": {
         "name": "The Flood",
         "url": "https://open.spotify.com/album/5dhxOuPRt7O3Bgk0jLHhXv"
       },
@@ -14630,6 +14852,24 @@
       "duration_ms": 187817,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/0jRa46cR41F2r5liiHQblD"
+    },
+    {
+      "album": {
+        "name": "this very thing",
+        "url": "https://open.spotify.com/album/6zDg8b92jQHQ4ac8APNQRF"
+      },
+      "artists": [
+        {
+          "name": "FELIVAND",
+          "url": "https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223823,
+      "name": "this very thing",
+      "url": "https://open.spotify.com/track/11JLMABcN1aHTQtCVnfzf1"
     },
     {
       "album": {
@@ -15440,7 +15680,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 271497,
       "name": "What is ashwagandha",
       "url": "https://open.spotify.com/track/59abjui3aifvPewKh2siLY"
@@ -15588,6 +15828,24 @@
       "duration_ms": 137878,
       "name": "when my wings are cut off",
       "url": "https://open.spotify.com/track/4FLzbyklBSxPgU1PW82UUj"
+    },
+    {
+      "album": {
+        "name": "When This Is Over",
+        "url": "https://open.spotify.com/album/64s9ludX1CjfPAlCdmmBWa"
+      },
+      "artists": [
+        {
+          "name": "Cut Copy",
+          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264131,
+      "name": "When This Is Over",
+      "url": "https://open.spotify.com/track/7xPVO9T4tnz7SFGGbHc7s5"
     },
     {
       "album": {

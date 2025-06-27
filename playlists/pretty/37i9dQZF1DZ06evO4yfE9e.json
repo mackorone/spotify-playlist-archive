@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2394,
+  "num_followers": 2396,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAADpx6tyVDbMQwui7x/L2hv7",
+  "snapshot_id": "aFs8AAAAAADrzozCL0qqp48LpTDoRmw/",
   "tracks": [
     {
       "added_at": null,
@@ -227,26 +227,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRACE",
-        "url": "https://open.spotify.com/album/7iT2FObD258Tu1W2YUHZg5"
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/09cG6BcdEtyjjbeLFG7TvS"
       },
       "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        },
         {
           "name": "bludnymph",
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 224541,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/2qovhIwmJitHmE9D8P9EjK"
+      "duration_ms": 158996,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/5DcYAGea9lp1MQh1V293tr"
     },
     {
       "added_at": null,
@@ -275,18 +267,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "End Of The World",
-        "url": "https://open.spotify.com/album/09cG6BcdEtyjjbeLFG7TvS"
+        "name": "GRACE",
+        "url": "https://open.spotify.com/album/7iT2FObD258Tu1W2YUHZg5"
       },
       "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        },
         {
           "name": "bludnymph",
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 158996,
-      "name": "End Of The World",
-      "url": "https://open.spotify.com/track/5DcYAGea9lp1MQh1V293tr"
+      "duration_ms": 224541,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/2qovhIwmJitHmE9D8P9EjK"
     },
     {
       "added_at": null,

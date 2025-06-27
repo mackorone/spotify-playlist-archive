@@ -1,6 +1,6 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 136563,
+  "num_followers": 136641,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
+        "name": "The Real... Toots Thielemans",
+        "url": "https://open.spotify.com/album/45kY69KnMtysdft3o07LiZ"
+      },
+      "artists": [
+        {
+          "name": "Toots Thielemans",
+          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
+        }
+      ],
+      "duration_ms": 193160,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/2F0cAwp8zmQ8McgBzjFWO0"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
         "name": "Stan Getz & Bill Evans",
         "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 405853,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/6pxtYyPZ0bRGknKlughfXL"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
-        "name": "The Real... Toots Thielemans",
-        "url": "https://open.spotify.com/album/45kY69KnMtysdft3o07LiZ"
-      },
-      "artists": [
-        {
-          "name": "Toots Thielemans",
-          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
-        }
-      ],
-      "duration_ms": 193160,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/2F0cAwp8zmQ8McgBzjFWO0"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Cliff Craft",
-        "url": "https://open.spotify.com/album/4kj58OYHsFRP69N2576yDp"
-      },
-      "artists": [
-        {
-          "name": "Clifford Jordan",
-          "url": "https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn"
-        }
-      ],
-      "duration_ms": 407266,
-      "name": "Sophisticated Lady - Remastered 1997",
-      "url": "https://open.spotify.com/track/4MOg9akJ30Hz8ox8NBw2j1"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Sony Jazz Collection",
         "url": "https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 323226,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Cliff Craft",
+        "url": "https://open.spotify.com/album/4kj58OYHsFRP69N2576yDp"
+      },
+      "artists": [
+        {
+          "name": "Clifford Jordan",
+          "url": "https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn"
+        }
+      ],
+      "duration_ms": 407266,
+      "name": "Sophisticated Lady - Remastered 1997",
+      "url": "https://open.spotify.com/track/4MOg9akJ30Hz8ox8NBw2j1"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Moon Beams",
-        "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 299760,
-      "name": "Polka Dots And Moonbeams",
-      "url": "https://open.spotify.com/track/3mciMzCg5pWvadcQxIwi0q"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Go! (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 245906,
       "name": "I Cover The Waterfront",
       "url": "https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Moon Beams",
+        "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 299760,
+      "name": "Polka Dots And Moonbeams",
+      "url": "https://open.spotify.com/track/3mciMzCg5pWvadcQxIwi0q"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 309253,
+      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
         "name": "Pres and Teddy",
         "url": "https://open.spotify.com/album/7BsTlBs92PJa4mTPKTi8Nq"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 410666,
       "name": "Love Me Or Leave Me",
       "url": "https://open.spotify.com/track/03zs6lKk7xwsdIusCnwXL9"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
-        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 309253,
-      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
+        "name": "Waltz For Debby (Original Jazz Classics Remaster 2010)",
+        "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 432040,
+      "name": "My Romance (take 2) - Alternate Take",
+      "url": "https://open.spotify.com/track/4Ui4x5HkS80awaZRdjdGXd"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
         "name": "The President Plays With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 199573,
       "name": "I Can't Give You Anything But Love",
       "url": "https://open.spotify.com/track/2Bu0UMTRHqwEQlXzHl6wQr"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
-        "name": "Waltz For Debby (Original Jazz Classics Remaster 2010)",
-        "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 432040,
-      "name": "My Romance (take 2) - Alternate Take",
-      "url": "https://open.spotify.com/track/4Ui4x5HkS80awaZRdjdGXd"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Introducing Nat Adderley",
-        "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
-      },
-      "artists": [
-        {
-          "name": "Nat Adderley",
-          "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
-        }
-      ],
-      "duration_ms": 267560,
-      "name": "I Should Care",
-      "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Criss-Cross (Expanded Edition)",
         "url": "https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 424933,
       "name": "Don't Blame Me (Retake 1)",
       "url": "https://open.spotify.com/track/6E1mWJa8tjLvPOn47CTVeb"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Introducing Nat Adderley",
+        "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
+      },
+      "artists": [
+        {
+          "name": "Nat Adderley",
+          "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
+        }
+      ],
+      "duration_ms": 267560,
+      "name": "I Should Care",
+      "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
+        "name": "Cosmopolite: The Oscar Peterson Verve Sessions",
+        "url": "https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN"
+      },
+      "artists": [
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 237333,
+      "name": "You Took Advantage Of Me",
+      "url": "https://open.spotify.com/track/1QpoiqlsaMLOfxfcnjIpuy"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
         "name": "The Best Of Art Tatum",
         "url": "https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms"
       },
@@ -1511,26 +1531,6 @@
       "duration_ms": 285533,
       "name": "Have You Met Miss Jones?",
       "url": "https://open.spotify.com/track/1e9NygW5Cd1T37OmQOz3ro"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
-        "name": "Cosmopolite: The Oscar Peterson Verve Sessions",
-        "url": "https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN"
-      },
-      "artists": [
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "You Took Advantage Of Me",
-      "url": "https://open.spotify.com/track/1QpoiqlsaMLOfxfcnjIpuy"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Small Groups: 1941-1945",
-        "url": "https://open.spotify.com/album/2hcioj7Ylhau26ffRy9WE4"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman Quintet",
-          "url": "https://open.spotify.com/artist/1IIqlqFBKcgfsY0KOfe3vq"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/4leHEk0wS3rLsdfHz3ZItX"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "See You At The Fair",
         "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
       },
@@ -1647,18 +1631,34 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Chet Baker Sextet",
-        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
+        "name": "Small Groups: 1941-1945",
+        "url": "https://open.spotify.com/album/2hcioj7Ylhau26ffRy9WE4"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Benny Goodman Quintet",
+          "url": "https://open.spotify.com/artist/1IIqlqFBKcgfsY0KOfe3vq"
         }
       ],
-      "duration_ms": 235560,
-      "name": "Stella By Starlight - Remaster/2004",
-      "url": "https://open.spotify.com/track/4k23sI0AfmO1SxR6NDYmuj"
+      "duration_ms": 183160,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/4leHEk0wS3rLsdfHz3ZItX"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 339160,
+      "name": "Our Love Is Here To Stay - Rudy Van Gelder Edition / 2003 Remaster",
+      "url": "https://open.spotify.com/track/3WBOCI8zM5SKfTXq41wM4e"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
+        "name": "Chet Baker Sextet",
+        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 339160,
-      "name": "Our Love Is Here To Stay - Rudy Van Gelder Edition / 2003 Remaster",
-      "url": "https://open.spotify.com/track/3WBOCI8zM5SKfTXq41wM4e"
+      "duration_ms": 235560,
+      "name": "Stella By Starlight - Remaster/2004",
+      "url": "https://open.spotify.com/track/4k23sI0AfmO1SxR6NDYmuj"
     },
     {
       "added_at": "2024-07-08 06:51:47",

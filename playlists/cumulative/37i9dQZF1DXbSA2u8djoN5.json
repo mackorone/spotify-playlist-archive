@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Deliric",
+  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Alduts Sherdley",
   "name": "Suflet + Sunet",
   "tracks": [
     {
@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 122000,
       "name": "Fierbe",
       "url": "https://open.spotify.com/track/4Gya3VF9e3oYKreBxPl0KO"
@@ -2012,7 +2012,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 181714,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/4B7LGlce3KhmzIbGtgyVWx"
@@ -2506,10 +2506,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 152000,
       "name": "Poate",
       "url": "https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu"
+    },
+    {
+      "album": {
+        "name": "Poseidon",
+        "url": "https://open.spotify.com/album/4o3Qn53H6XlU1KSDM1YaYV"
+      },
+      "artists": [
+        {
+          "name": "Cortes",
+          "url": "https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Poseidon",
+      "url": "https://open.spotify.com/track/1DWHungfvvL0Olwu1tSrBO"
     },
     {
       "album": {
@@ -2572,6 +2590,28 @@
       "duration_ms": 168500,
       "name": "Prietena ta",
       "url": "https://open.spotify.com/track/5CVzlpSX7O8InwOvubCBXd"
+    },
+    {
+      "album": {
+        "name": "pune-ma pe raft",
+        "url": "https://open.spotify.com/album/2aovtAJC944PYZVdURgOKu"
+      },
+      "artists": [
+        {
+          "name": "Alduts Sherdley",
+          "url": "https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF"
+        },
+        {
+          "name": "Killa Fonic",
+          "url": "https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "pune-ma pe raft",
+      "url": "https://open.spotify.com/track/4U2IMH491AJCZPCI17x0vZ"
     },
     {
       "album": {
@@ -3400,6 +3440,24 @@
       "duration_ms": 149000,
       "name": "X6",
       "url": "https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF"
+    },
+    {
+      "album": {
+        "name": "X6 V2",
+        "url": "https://open.spotify.com/album/5hJXqN5HEht3cPoKpHvged"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "X6 V2",
+      "url": "https://open.spotify.com/track/6hrkmWVqgogA0ySohfzCUv"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo: Amel Bent",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo: Julien Lieb",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -670,7 +670,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 160573,
       "name": "Coeur maladroit",
       "url": "https://open.spotify.com/track/6ISdHQpFruwETuKGMumaaM"
@@ -1399,6 +1399,24 @@
     },
     {
       "album": {
+        "name": "Falbala",
+        "url": "https://open.spotify.com/album/2EA2AKC2rCIsHZGhgcJyeL"
+      },
+      "artists": [
+        {
+          "name": "Carbonne",
+          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148363,
+      "name": "Falbala",
+      "url": "https://open.spotify.com/track/3zDHDOpx6NhjLamk3F4kPP"
+    },
+    {
+      "album": {
         "name": "Fashionista",
         "url": "https://open.spotify.com/album/2zoBNbOH6Yx6UTBEEvj2jo"
       },
@@ -1727,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "Hors du temps",
+        "url": "https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59"
+      },
+      "artists": [
+        {
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173887,
+      "name": "Hors du temps",
+      "url": "https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg"
+    },
+    {
+      "album": {
         "name": "15h22",
         "url": "https://open.spotify.com/album/5KKMlk879ZC5yHDMsNpMq1"
       },
@@ -1828,7 +1864,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 190104,
       "name": "Internet",
       "url": "https://open.spotify.com/track/6CTF67PhXCjejoVdw9H0Yg"
@@ -2736,7 +2772,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 179280,
       "name": "les filles, les meufs",
       "url": "https://open.spotify.com/track/1aLHvqPB5CxGYzhJB7Hzo1"
@@ -4203,6 +4239,24 @@
     },
     {
       "album": {
+        "name": "Coeur maladroit",
+        "url": "https://open.spotify.com/album/0xHoPDymexPOYSzzkk7xUJ"
+      },
+      "artists": [
+        {
+          "name": "Marine",
+          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186506,
+      "name": "Restes d'averses",
+      "url": "https://open.spotify.com/track/1PZrVhxFJet31mkr10HmHx"
+    },
+    {
+      "album": {
         "name": "Cr\u00e8vecoeur",
         "url": "https://open.spotify.com/album/0WgY5ocBEP23tJiAMgawBv"
       },
@@ -5012,7 +5066,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 154969,
       "name": "Tu l'oublieras",
       "url": "https://open.spotify.com/track/6aaTiVuGVBENAhGgl6O1zN"
@@ -5348,6 +5402,28 @@
       "duration_ms": 141576,
       "name": "Z\u00c9RO PAR MOIS",
       "url": "https://open.spotify.com/track/2NnB2R2wQgOrkOvnJWV4eM"
+    },
+    {
+      "album": {
+        "name": "\u00c0 qui le tour",
+        "url": "https://open.spotify.com/album/7vgUh9mWDMtSboczXCDYxG"
+      },
+      "artists": [
+        {
+          "name": "Jeck",
+          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
+        },
+        {
+          "name": "Carla",
+          "url": "https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162247,
+      "name": "\u00c0 qui le tour",
+      "url": "https://open.spotify.com/track/4kdkyOmEnSHMdWO242OPiU"
     },
     {
       "album": {

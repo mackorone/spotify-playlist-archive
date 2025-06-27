@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno al mando de AQUA VS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,826 likes - 108 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,836 likes - 108 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

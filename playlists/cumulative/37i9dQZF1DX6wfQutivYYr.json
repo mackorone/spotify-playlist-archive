@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "ANNA sulla cover della playlist pi\u00f9 grande in Italia \ud83c\udfc6",
+  "description": "Annalisa sulla cover della playlist pi\u00f9 grande in Italia \ud83c\udfc6",
   "name": "Hot Hits Italia",
   "tracks": [
     {
@@ -1600,7 +1600,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 221403,
       "name": "fuorilegge",
       "url": "https://open.spotify.com/track/2C46EwfXY2ijlt7BfBY5mi"
@@ -2494,6 +2494,24 @@
       "duration_ms": 166725,
       "name": "MALAVITA",
       "url": "https://open.spotify.com/track/49tdZnvKAnJP6Xb3PUucPD"
+    },
+    {
+      "album": {
+        "name": "Maledetta Rabbia",
+        "url": "https://open.spotify.com/album/5hJ80aNRyLVqXoQhN4qMmy"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155307,
+      "name": "Maledetta Rabbia",
+      "url": "https://open.spotify.com/track/0GeIXUfthmnfMLfPRdDiVt"
     },
     {
       "album": {
@@ -3841,6 +3859,32 @@
     },
     {
       "album": {
+        "name": "Sto bene al mare (feat. Sayf & Rkomi)",
+        "url": "https://open.spotify.com/album/4NQBEzQomU36U3oaXTgKj4"
+      },
+      "artists": [
+        {
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+        },
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167362,
+      "name": "Sto bene al mare (feat. Sayf & Rkomi)",
+      "url": "https://open.spotify.com/track/7bozAK8PtroF5owUL01coy"
+    },
+    {
+      "album": {
         "name": "STORIE BREVI",
         "url": "https://open.spotify.com/album/6c4p2PNyp5Ek43s2IDX5Vh"
       },
@@ -4368,7 +4412,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 151586,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/6cGhVnQAJRxGVsltCU06vF"

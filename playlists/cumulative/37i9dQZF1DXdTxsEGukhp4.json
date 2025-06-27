@@ -6537,6 +6537,24 @@
     },
     {
       "album": {
+        "name": "\u731f\u5947\u7684\u306a\u30ad\u30b9\u3092\u79c1\u306b\u3057\u3066",
+        "url": "https://open.spotify.com/album/5Qy4KEySDLkh5xnRK325D5"
+      },
+      "artists": [
+        {
+          "name": "Gesu No Kiwami Otome",
+          "url": "https://open.spotify.com/artist/1ieluXFoq2RRxMXZIQksTz"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187266,
+      "name": "\u3060\u3051\u3069\u50d5\u306f",
+      "url": "https://open.spotify.com/track/3kenAyozcSKh83nRsaGqru"
+    },
+    {
+      "album": {
         "name": "\u3061\u3085\u3001\u591a\u69d8\u6027\u3002",
         "url": "https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x"
       },
@@ -7626,7 +7644,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 174119,
       "name": "\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3\u6c7a\u6226 - Sped Up",
       "url": "https://open.spotify.com/track/2jAcF1P6jVhHo5ApALkoQC"

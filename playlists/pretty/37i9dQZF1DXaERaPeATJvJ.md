@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: The Morning After
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,340 likes - 123 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,354 likes - 123 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

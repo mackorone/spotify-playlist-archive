@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour. ",
-  "num_followers": 24387,
+  "num_followers": 24393,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,26 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
+        "name": "Los Aires de Buenos Aires",
+        "url": "https://open.spotify.com/album/02asZQe7YMRP1bYozhWe2q"
+      },
+      "artists": [
+        {
+          "name": "Todos los Martes",
+          "url": "https://open.spotify.com/artist/5esSh8neIrdmhnHHGjmx5P"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 277882,
+      "name": "Los Aires de Buenos Aires",
+      "url": "https://open.spotify.com/track/0t1ZWfgJjVZrB9KLllAKfc"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
         "name": "Muerde",
         "url": "https://open.spotify.com/album/3s4KfDYzx43oz29SdLdkAc"
       },
@@ -331,26 +351,6 @@
       "duration_ms": 179428,
       "name": "Muerde",
       "url": "https://open.spotify.com/track/52UEFtf0kXBjjzCJgqsC19"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
-        "name": "Los Aires de Buenos Aires",
-        "url": "https://open.spotify.com/album/02asZQe7YMRP1bYozhWe2q"
-      },
-      "artists": [
-        {
-          "name": "Todos los Martes",
-          "url": "https://open.spotify.com/artist/5esSh8neIrdmhnHHGjmx5P"
-        },
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
-        }
-      ],
-      "duration_ms": 277882,
-      "name": "Los Aires de Buenos Aires",
-      "url": "https://open.spotify.com/track/0t1ZWfgJjVZrB9KLllAKfc"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Y Nada Sirve",
-        "url": "https://open.spotify.com/album/6uciJQidm2CY2M127Ei5Vq"
-      },
-      "artists": [
-        {
-          "name": "Catalina Ammaturo",
-          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "Y Nada Sirve",
-      "url": "https://open.spotify.com/track/4NtSf2833RafoCkuKrrSEi"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Una Comedia Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 224031,
       "name": "Son\u00e1mbulos",
       "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Y Nada Sirve",
+        "url": "https://open.spotify.com/album/6uciJQidm2CY2M127Ei5Vq"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "Y Nada Sirve",
+      "url": "https://open.spotify.com/track/4NtSf2833RafoCkuKrrSEi"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -607,6 +607,22 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
+        "name": "Romance Con la Luna",
+        "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "duration_ms": 171882,
+      "name": "Romance Con la Luna",
+      "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
         "name": "de la primavera",
         "url": "https://open.spotify.com/album/6fZoeGXByVt4ziEO5Qq16y"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 205589,
       "name": "de la primavera",
       "url": "https://open.spotify.com/track/5IIT3mioxX2tfHW1tRJGfU"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
-        "name": "Romance Con la Luna",
-        "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 171882,
-      "name": "Romance Con la Luna",
-      "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "A Veces Casi",
-        "url": "https://open.spotify.com/album/38wSM3BSPWuQDjVudCPawT"
-      },
-      "artists": [
-        {
-          "name": "Viva Elastico",
-          "url": "https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ"
-        }
-      ],
-      "duration_ms": 180163,
-      "name": "A Veces Casi",
-      "url": "https://open.spotify.com/track/2C2xrk4D9xZTtnQHaBeSyj"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Caminar en Cristal",
         "url": "https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 144071,
       "name": "Caminar en Cristal",
       "url": "https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "A Veces Casi",
+        "url": "https://open.spotify.com/album/38wSM3BSPWuQDjVudCPawT"
+      },
+      "artists": [
+        {
+          "name": "Viva Elastico",
+          "url": "https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ"
+        }
+      ],
+      "duration_ms": 180163,
+      "name": "A Veces Casi",
+      "url": "https://open.spotify.com/track/2C2xrk4D9xZTtnQHaBeSyj"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Losers' Paradise",
-        "url": "https://open.spotify.com/album/0nWLiIqkHQ2LmgkUJ9SwhJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Vin",
-          "url": "https://open.spotify.com/artist/11LJcIdoTUeF7PtDwd5TUc"
-        }
-      ],
-      "duration_ms": 210750,
-      "name": "Losers' Paradise",
-      "url": "https://open.spotify.com/track/529Hflo1AuaNdEoOmA0ELu"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Lpm",
         "url": "https://open.spotify.com/album/5075qDaJzBwk4IcxhrR5Tf"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 158934,
       "name": "ME FUI DE LA FIESTA",
       "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Losers' Paradise",
+        "url": "https://open.spotify.com/album/0nWLiIqkHQ2LmgkUJ9SwhJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Vin",
+          "url": "https://open.spotify.com/artist/11LJcIdoTUeF7PtDwd5TUc"
+        }
+      ],
+      "duration_ms": 210750,
+      "name": "Losers' Paradise",
+      "url": "https://open.spotify.com/track/529Hflo1AuaNdEoOmA0ELu"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Mir\u00e1 mam\u00e1",
-        "url": "https://open.spotify.com/album/4WxNg5MCIE7qRkjfiER9cz"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 182056,
-      "name": "Mir\u00e1 mam\u00e1",
-      "url": "https://open.spotify.com/track/195ZLpeP6FKxSQXo7uvdL4"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Destruyo Mi Guitarra",
         "url": "https://open.spotify.com/album/3xVTNIz26kYKfuwjPMomn9"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 117087,
       "name": "Destruyo Mi Guitarra",
       "url": "https://open.spotify.com/track/5Dj8AXxfscyjkgO3M5jiJq"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Mir\u00e1 mam\u00e1",
+        "url": "https://open.spotify.com/album/4WxNg5MCIE7qRkjfiER9cz"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 182056,
+      "name": "Mir\u00e1 mam\u00e1",
+      "url": "https://open.spotify.com/track/195ZLpeP6FKxSQXo7uvdL4"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Exquisito como el Disgusto",
-        "url": "https://open.spotify.com/album/1pLNDIEklJcbcE4fbbuihP"
-      },
-      "artists": [
-        {
-          "name": "Socorro",
-          "url": "https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "Boca de Dama",
-      "url": "https://open.spotify.com/track/1h748vZtNsAfYFsH8iJPBi"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Pol\u00edtico o Rolling Stone",
         "url": "https://open.spotify.com/album/1tVa6RRL4alQsyRpw21gR1"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 246001,
       "name": "Pol\u00edtico o Rolling Stone",
       "url": "https://open.spotify.com/track/4c30sAt9qwApsKflh7aKcO"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Exquisito como el Disgusto",
+        "url": "https://open.spotify.com/album/1pLNDIEklJcbcE4fbbuihP"
+      },
+      "artists": [
+        {
+          "name": "Socorro",
+          "url": "https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Boca de Dama",
+      "url": "https://open.spotify.com/track/1h748vZtNsAfYFsH8iJPBi"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/3YrjpZoeTshiFMkXlwG4Yr"
-      },
-      "artists": [
-        {
-          "name": "La Memoria de Funes",
-          "url": "https://open.spotify.com/artist/196UkdPtwBYw7eJeZ7W8GF"
-        }
-      ],
-      "duration_ms": 137887,
-      "name": "Revoluci\u00f3n",
-      "url": "https://open.spotify.com/track/5CNE2KaVa7x3H5lGJOM132"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Vivo La Plata",
         "url": "https://open.spotify.com/album/4YwDTYXtEJOK4HJhN8IZtA"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 216770,
       "name": "El Dato - Vivo La Plata",
       "url": "https://open.spotify.com/track/2SWPX0mV4nKYIKaywDV3W7"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/3YrjpZoeTshiFMkXlwG4Yr"
+      },
+      "artists": [
+        {
+          "name": "La Memoria de Funes",
+          "url": "https://open.spotify.com/artist/196UkdPtwBYw7eJeZ7W8GF"
+        }
+      ],
+      "duration_ms": 137887,
+      "name": "Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/5CNE2KaVa7x3H5lGJOM132"
     },
     {
       "added_at": "2025-05-09 15:00:14",

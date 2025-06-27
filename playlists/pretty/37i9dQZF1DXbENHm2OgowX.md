@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,522 likes - 69 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,684 likes - 69 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,18 +64,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 54 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 |
 | 55 | [haunted, but it's ambient](https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [haunted, but it's ambient](https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl) | 2:16 |
 | 56 | [cry \- Slowed](https://open.spotify.com/track/3mMI0ZM6VM2qmWb75kbgzY) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Kol](https://open.spotify.com/artist/0U6V8CeBBv9tQPBLBCircp) | [cry](https://open.spotify.com/album/3ZuOU00dKlfWPcK5maio5I) | 2:26 |
-| 57 | [4AM ambient version](https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0) | [Late Era](https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN) | [4AM ambient version](https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn) | 1:52 |
-| 58 | [The Promise of Snakes](https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D) | [The Angelic Process](https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W) | [Weighing Souls With Sand](https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl) | 9:32 |
-| 59 | [Inertia](https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Inertia](https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm) | 2:48 |
-| 60 | [Waiting for Your Train](https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R) | [Wreath](https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX) | [Green Wall](https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE) | 2:02 |
+| 57 | [The Promise of Snakes](https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D) | [The Angelic Process](https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W) | [Weighing Souls With Sand](https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl) | 9:32 |
+| 58 | [4AM ambient version](https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0) | [Late Era](https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN) | [4AM ambient version](https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn) | 1:52 |
+| 59 | [Waiting for Your Train](https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R) | [Wreath](https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX) | [Green Wall](https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE) | 2:02 |
+| 60 | [Inertia](https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Inertia](https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm) | 2:48 |
 | 61 | [Maple Seed](https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5) | [Benoît Pioulard](https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl) | [Eidetic](https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI) | 2:21 |
 | 62 | [Canneto](https://open.spotify.com/track/6hx5tz1VTta0cnTLcvCSaI) | [Tomat](https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa), [G.U.P\. Alcaro](https://open.spotify.com/artist/698WCVYYS0hvtwy40a91LJ) | [Canneto](https://open.spotify.com/album/5yPvFSDxdzszBMr3lF3t5N) | 1:54 |
-| 63 | [Night Sculpture \- Deconstructed](https://open.spotify.com/track/4vLMviupOxDFAj7XjvMIKA) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Bolted \(Deconstructed\)](https://open.spotify.com/album/5C1vnZNznr20cvonTDcQyG) | 1:31 |
-| 64 | [Squatter's Quarters](https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF) | [Gryphon Rue](https://open.spotify.com/artist/6jyMM1uTcdiCwsLfWAWlHP) | [I Keep My Diamond Necklace in a Pond of Sparkling Water](https://open.spotify.com/album/0uiBZUXcFQpqBVKUKnS8LJ) | 4:36 |
+| 63 | [Squatter's Quarters](https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF) | [Gryphon Rue](https://open.spotify.com/artist/6jyMM1uTcdiCwsLfWAWlHP) | [I Keep My Diamond Necklace in a Pond of Sparkling Water](https://open.spotify.com/album/0uiBZUXcFQpqBVKUKnS8LJ) | 4:36 |
+| 64 | [Night Sculpture \- Deconstructed](https://open.spotify.com/track/4vLMviupOxDFAj7XjvMIKA) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Bolted \(Deconstructed\)](https://open.spotify.com/album/5C1vnZNznr20cvonTDcQyG) | 1:31 |
 | 65 | [Below the House](https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 3:41 |
 | 66 | [Bardo Landscape](https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e) | [Alicia Enstrom](https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa) | [Bardo Landscape](https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f) | 3:23 |
 | 67 | [Perpetual Care](https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e) | [Vile Karimi](https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL) | [Womb Trails](https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG) | 3:20 |
-| 68 | [The Monolith](https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar](https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9) | 4:32 |
+| 68 | [its never enough](https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l) | [les](https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi) | [its never enough](https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE) | 1:38 |
 | 69 | [And They Will Fall](https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG) | [Nik Sudan](https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD) | [And They Will Fall](https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk) | 4:01 |
 
 Snapshot ID: `aFTc6AAAAACHZm1Dq4VwzW2LC873GNXn`

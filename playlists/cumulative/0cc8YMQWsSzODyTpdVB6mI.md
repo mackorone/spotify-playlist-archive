@@ -4,7 +4,7 @@
 
 > Listen to Kitsuné’s essential tracks from historic label artists to up\-and\-coming music gems.
 
-148 songs - 8 hr 24 min
+150 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Leather Free Seats](https://open.spotify.com/track/3j0BVE17Uq6nW9XYJRfXAf) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O) | [Leather Free Seats](https://open.spotify.com/album/3GZvFemzsIFVRjayknmOEl) | 3:33 | 2022-06-15 | 2022-09-03 |
 | [Leather Free Seats \- Mosey Remix](https://open.spotify.com/track/77tGVhgSQbOopj3qSDKhZm) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [Mosey](https://open.spotify.com/artist/3HzwQ0PpRbsyKSzFMXobLJ) | [Leather Free Seats \(Mosey Remix\)](https://open.spotify.com/album/4Aehq0oOw4WgMeWEaOr36R) | 2:58 | 2023-01-11 | 2023-05-31 |
 | [Lifeboat](https://open.spotify.com/track/5bRuN9292QEQbwPXvbAWEf) | [Gallago](https://open.spotify.com/artist/1fhwDatVdLS9Y7IpP0jfK6) | [Lifeboat](https://open.spotify.com/album/1qsHZAJBNUvYZ1GcWGf96Y) | 4:46 | 2021-11-05 |  |
+| [Liquid Bodies](https://open.spotify.com/track/5IqpiBuuTzdDeI0OSa4Y5f) | [2FA](https://open.spotify.com/artist/5aNRQu2IzF90FAIXbFQq4n), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Liquid Bodies](https://open.spotify.com/album/6HRNxOIua8QIrQcQJo6khj) | 6:05 | 2025-06-26 |  |
 | [Lisztomania \- Classixx Version](https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [Kitsuné: Lisztomania \(Remixes\)](https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT) | 5:04 | 2021-11-05 |  |
 | [Lluvia](https://open.spotify.com/track/5FzLZd5k2yQ0euepil3ndS) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Lluvia](https://open.spotify.com/album/3tsviyEAfWJxgzqyR6OYvf) | 4:19 | 2023-05-30 |  |
 | [Long Way Up \- Mixed](https://open.spotify.com/track/6tFqRbhUPbLbyIityAAA1l) | [Courage](https://open.spotify.com/artist/1kGMaFXRovFOZJqxbVdnHq) | [Café Kitsuné Mixed by Young Franco \(Day\)](https://open.spotify.com/album/5i1BngTCStALybm8vtOFyN) | 2:17 | 2023-05-30 |  |
@@ -98,6 +99,7 @@
 | [On E \- BVRLY Remix](https://open.spotify.com/track/2AdFk3FltZs4IJ33HoMl4d) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [Ívan Frey](https://open.spotify.com/artist/6WG66UQJB2RFMfEMr2SbXh), [BVRLY](https://open.spotify.com/artist/7jVQkSC4lWncicyGQ7kZg6) | [On E \(BVRLY Remix\)](https://open.spotify.com/album/4qSsr8Dd5R5r6i1c9Cz1yv) | 2:46 | 2023-02-16 | 2023-05-31 |
 | [Only One](https://open.spotify.com/track/3y8UYe62ldlvxRgAFGovZq) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ) | [Only One](https://open.spotify.com/album/2KMexrqmHK600SRQNJykVb) | 3:01 | 2021-11-05 |  |
 | [Opposites](https://open.spotify.com/track/3h3QqLaFYJR4XlIROuFkb1) | [Ade](https://open.spotify.com/artist/2QpgfGNDMwaugmjkVNEWtb) | [Opposites](https://open.spotify.com/album/2O7ykDuK6mv9nh4UQttmJW) | 3:39 | 2022-07-11 | 2022-10-07 |
+| [Orbit](https://open.spotify.com/track/4Chh48sJvF2SF0ROHaRo30) | [2FA](https://open.spotify.com/artist/5aNRQu2IzF90FAIXbFQq4n), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Liquid Bodies](https://open.spotify.com/album/6HRNxOIua8QIrQcQJo6khj) | 6:05 | 2025-06-26 |  |
 | [OVERDOSE](https://open.spotify.com/track/7J1idk8GVjvHVh76gMRQtl) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [FALL: OVERDOSE x RUMBA](https://open.spotify.com/album/7Hg7lABFu1peV1dnG4nNJN) | 2:33 | 2021-11-05 |  |
 | [PALM SPRINGS](https://open.spotify.com/track/0KWDPINXq2YWsHjlC22flO) | [Distance Learning](https://open.spotify.com/artist/0QYMpYHo80SIAEdOJ70GPd) | [PALM SPRINGS](https://open.spotify.com/album/2TbX2nyWZdxlyMI9CgUmRn) | 2:51 | 2022-05-09 | 2022-07-14 |
 | [Passion Controller](https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Passion Controller](https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL) | 2:52 | 2023-05-30 |  |

@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 
 > Aquelas pra começar o dia de alma leve
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,712 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,793 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lisboa](https://open.spotify.com/track/2o2xhyri4aJUtgMGkf5P0J) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 3:39 |
 | 2 | [Lembrei de Nós](https://open.spotify.com/track/3MZasYL4eB4Tm2U2LZ58tj) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [Mestrinho](https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Dominguinho](https://open.spotify.com/album/6laUDBtyfu4ngRbOsblhfS) | 3:16 |
-| 3 | [Meu Abrigo](https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:51 |
-| 4 | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM) | 2:56 |
+| 3 | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM) | 2:56 |
+| 4 | [Meu Abrigo](https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:51 |
 | 5 | [A noite](https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Esmeraldas \(Álbum Comentado\)](https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII) | 3:38 |
 | 6 | [Preciso Dizer Que Te Amo](https://open.spotify.com/track/5dRTiI1Gxex5Rr83iivf3L) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Preciso Dizer Que Te Amo](https://open.spotify.com/album/1aMO6kMWrJdvNEDnHFOi4y) | 2:47 |
 | 7 | [Beija Flor](https://open.spotify.com/track/6c6brFif6MTMSq0sVwgMAT) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [Mestrinho](https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Dominguinho](https://open.spotify.com/album/6laUDBtyfu4ngRbOsblhfS) | 3:43 |
-| 8 | [Coisa Linda](https://open.spotify.com/track/6o0rGxp5tdtX8cmqXwVIwE) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Troco Likes](https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH) | 2:58 |
-| 9 | [A Cidade](https://open.spotify.com/track/6chCkT8RkDC0kM66HKfPQb) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [As Cores, as Curvas e as Dores do Mundo](https://open.spotify.com/album/7LHPGpPZV2duyGmI2KthiX) | 2:43 |
+| 8 | [A Cidade](https://open.spotify.com/track/6chCkT8RkDC0kM66HKfPQb) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [As Cores, as Curvas e as Dores do Mundo](https://open.spotify.com/album/7LHPGpPZV2duyGmI2KthiX) | 2:43 |
+| 9 | [Coisa Linda](https://open.spotify.com/track/6o0rGxp5tdtX8cmqXwVIwE) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Troco Likes](https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH) | 2:58 |
 | 10 | [FEBRE](https://open.spotify.com/track/1xwvLAIPpG8qQJyWRLi4F3) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:58 |
 | 11 | [Partilhar](https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Partilhar](https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN) | 4:22 |
 | 12 | [4 da manhã](https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [4 da manhã](https://open.spotify.com/album/4pbbrNIhUdWxLYmd46lhVl) | 3:36 |

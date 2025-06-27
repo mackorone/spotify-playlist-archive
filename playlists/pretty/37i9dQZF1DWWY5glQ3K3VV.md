@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > SPINGERE
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,843 likes - 98 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,880 likes - 98 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 49 | [Milly \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/0ksqA7waEGNDkGkmRz0Gwj) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:05 |
 | 50 | [TAXI SULLA LUNA](https://open.spotify.com/track/0JONs2ETXIHvYVxNris8Bf) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [TAXI SULLA LUNA](https://open.spotify.com/album/1Q2gs2NTXULiFqwCiv5JdG) | 2:23 |
 | 51 | [Fino All'Alba](https://open.spotify.com/track/3twPYZvOOoVjLx5BclA2mT) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [FERITE](https://open.spotify.com/album/1mpy3NJNqmNhzKNorb6pkl) | 2:37 |
-| 52 | [WAO](https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [WAO](https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD) | 2:29 |
-| 53 | [Mattone \(feat\. Kuremino, Nerissima Serpe\)](https://open.spotify.com/track/3TE8sw3fWmWficRYKRKkqx) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Trap Fatta Bene](https://open.spotify.com/album/6zOYd3ULQWAauhgVyCL143) | 2:22 |
+| 52 | [Mattone \(feat\. Kuremino, Nerissima Serpe\)](https://open.spotify.com/track/3TE8sw3fWmWficRYKRKkqx) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Trap Fatta Bene](https://open.spotify.com/album/6zOYd3ULQWAauhgVyCL143) | 2:22 |
+| 53 | [WAO](https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [WAO](https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD) | 2:29 |
 | 54 | [HO PAURA DI USCIRE 2 \- prod\. Mace](https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM) | [MACHETE](https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [MACHETE MIXTAPE 4](https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz) | 2:57 |
 | 55 | [ON FIRE \- paid in full](https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 2:56 |
 | 56 | [Suavemente](https://open.spotify.com/track/7Bz5B6hEU5TS145QYTfc3k) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Suavemente](https://open.spotify.com/album/6RfOBcxexu6ZYIUS9HG9Al) | 2:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,103 likes - 236 songs - 12 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,107 likes - 236 songs - 12 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,8 +160,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 150 | [Slow Dancing](https://open.spotify.com/track/4lTdKQV6oaSZRQTmhnK1CU) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 2:24 |
 | 151 | [Woman](https://open.spotify.com/track/6fWBVn4vwRnaOZiu5292Gd) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Woman](https://open.spotify.com/album/34Ya6PWAG8aOVRjUNIkmzq) | 2:36 |
 | 152 | [Fixerupper](https://open.spotify.com/track/1VKQWXyl22hSstnrxUywW4) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:34 |
-| 153 | [Ahead of Myself](https://open.spotify.com/track/4wZxKVfyQUk47Y4Rr6pfnD) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Healer](https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI) | 3:49 |
-| 154 | [Best For Me](https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:27 |
+| 153 | [Best For Me](https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:27 |
+| 154 | [Ahead of Myself](https://open.spotify.com/track/4wZxKVfyQUk47Y4Rr6pfnD) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Healer](https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI) | 3:49 |
 | 155 | [Where It Hurts \(feat\. Tayla Parx\)](https://open.spotify.com/track/51a3Q5SzGHFvCwVnrGX3JF) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [What's The 1174? Side 1](https://open.spotify.com/album/64wWGauCcGFiuXr9RkjgHd) | 2:17 |
 | 156 | [System](https://open.spotify.com/track/3AxeDtEkCMGKDK2Jyrk7nj) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 3:02 |
 | 157 | [Lakshmi](https://open.spotify.com/track/5CqKqUCdNFokseAt9KhvDg) | [Electric Universe](https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD) | [Lakshmi](https://open.spotify.com/album/4XlgYZiY45DumQpau4dSh8) | 7:50 |
@@ -178,8 +178,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 168 | [Dirt](https://open.spotify.com/track/6xI8eeGVkYfaZ02dxNiIJJ) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/6JHzz5eTPAcY7QkZRWVBFv) | 2:37 |
 | 169 | [Act Right](https://open.spotify.com/track/4HrzHPy0T96QY6oOwtK5pN) | [Taylor Girlz](https://open.spotify.com/artist/2CCqizWr7RQhtABnxW9epA) | [Act Right](https://open.spotify.com/album/6HH95w2rb4C79Awy1cPAF5) | 2:22 |
 | 170 | [Disconnected \(feat\. Cautious Clay\)](https://open.spotify.com/track/4NxtjbMmgceMzVVBDPYzA9) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 1:16 |
-| 171 | [Two Left Feet](https://open.spotify.com/track/379QoKTkUc3F6ExpDZBl3m) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL) | [Ivy + Bean \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5iuHz2BuwFvyf7nTLTWzn0) | 2:30 |
-| 172 | [Loneliness](https://open.spotify.com/track/0dPQXzKfYSVPCoTftltoiC) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [Loneliness](https://open.spotify.com/album/0rtgFB3NTb4M2hjJcU05zJ) | 4:14 |
+| 171 | [Loneliness](https://open.spotify.com/track/0dPQXzKfYSVPCoTftltoiC) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [Loneliness](https://open.spotify.com/album/0rtgFB3NTb4M2hjJcU05zJ) | 4:14 |
+| 172 | [Two Left Feet](https://open.spotify.com/track/379QoKTkUc3F6ExpDZBl3m) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL) | [Ivy + Bean \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5iuHz2BuwFvyf7nTLTWzn0) | 2:30 |
 | 173 | [Mother Nature](https://open.spotify.com/track/0Cyp9kufRZOCwvcTLLIuWq) | [Femme It Forward](https://open.spotify.com/artist/3rw1MKkbLTZw46AqC7gRpH), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Big Femme Energy Volume 1](https://open.spotify.com/album/7mRnNfdDMiu6xuLNzXgcHB) | 2:11 |
 | 174 | [Afraid To Fall](https://open.spotify.com/track/0YlyEicyEhlWU1z6rKrWqT) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 2:10 |
 | 175 | [Windows](https://open.spotify.com/track/2sDjAcLzPYZYUYOtfk5R4x) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:16 |
@@ -245,4 +245,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 235 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 | 236 | [SummerTime](https://open.spotify.com/track/364fkWjCvOvHzCUBTHvU3I) | [KE](https://open.spotify.com/artist/1OQbZJyFhZMWGINxNBCUzB), [LAGITT](https://open.spotify.com/artist/1OhNC7ULDsgId5WEKsNsMY) | [SummerTime](https://open.spotify.com/album/0KgWqv4TZlwGCk3M7E6E7j) | 3:40 |
 
-Snapshot ID: `Ab1HSgAAAAAQH68u9yBY+fUfm+eqc4IG`
+Snapshot ID: `Ab1NEgAAAABoooq8KlTdmcM0iBgbS51p`

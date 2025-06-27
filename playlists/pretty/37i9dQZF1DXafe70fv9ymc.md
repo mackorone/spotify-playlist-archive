@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 
 > sexy afrobeats
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,351 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,354 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 | 12 | [Bend](https://open.spotify.com/track/4LN7BAe5snUpAqFffvxQZE) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Out of the Blue](https://open.spotify.com/album/6C2f1XaNPB75cqr1eR7lbb) | 3:12 |
 | 13 | [weight](https://open.spotify.com/track/6Xs0BBQGIRCQxQwL0zt7lD) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Ashref](https://open.spotify.com/artist/5VlCWMebGynSUIx6dRxaPe) | [Dear Z](https://open.spotify.com/album/5yYCqkCxYnXFLqApA98Ltv) | 2:54 |
 | 14 | [PAST MYSELF](https://open.spotify.com/track/7dHrE8omPpvgst2M9ZEQmf) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [PAST MYSELF](https://open.spotify.com/album/0ZXOuk6KcYEGrYoXTlh3y2) | 2:40 |
-| 15 | [Nufftime](https://open.spotify.com/track/0pMwoHmBn1QG6vsbTP2Ipa) | [Jaylon](https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4), [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ), [Remy Baggins](https://open.spotify.com/artist/6Pj7ddulM4dzUOGR3sERaX), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Baby Boy](https://open.spotify.com/album/3JNMIrtiqa028JR0XoG7xw) | 3:06 |
+| 15 | [Nufftime](https://open.spotify.com/track/0pMwoHmBn1QG6vsbTP2Ipa) | [Jaylon](https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4), [PHAEMOUS](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ), [Remy Baggins](https://open.spotify.com/artist/6Pj7ddulM4dzUOGR3sERaX), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Baby Boy](https://open.spotify.com/album/3JNMIrtiqa028JR0XoG7xw) | 3:06 |
 | 16 | [Beg For It](https://open.spotify.com/track/62toM9v7NsspHYCfaudxHZ) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Beg For It](https://open.spotify.com/album/1BinKRne8TTTTp8PHojN8l) | 2:53 |
 | 17 | [Temptress](https://open.spotify.com/track/6ZSlsP0RI2qQZ8IXRXLFrp) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Temptress](https://open.spotify.com/album/2k8lsJUwNL2ikePfYmp3PG) | 2:56 |
 | 18 | [Horniwell](https://open.spotify.com/track/5JCtLt4IBW4xPqkCQbAd8h) | [Fazil](https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq) | [Horniwell](https://open.spotify.com/album/1THuhe8DKeitDiHGrbo0Dn) | 3:03 |

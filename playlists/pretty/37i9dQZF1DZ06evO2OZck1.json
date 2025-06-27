@@ -1,12 +1,12 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 54498,
+  "num_followers": 54503,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAAAh0f4nuJOMUlKD7cuk6msU",
+  "snapshot_id": "aFs8AAAAAABms5imXr5DsQAaYK+mpvpe",
   "tracks": [
     {
       "added_at": null,
@@ -59,18 +59,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tokyo Calling",
-        "url": "https://open.spotify.com/album/3utC1QAo17IiIIkQZe7XO6"
+        "name": "Narani Narani (feat. ATARASHII GAKKO!)",
+        "url": "https://open.spotify.com/album/35sSZefnCfHDR4rGtKj9yw"
       },
       "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        },
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 191180,
-      "name": "Tokyo Calling",
-      "url": "https://open.spotify.com/track/2WNjQidYVQO0oFFlTuF8fo"
+      "duration_ms": 224297,
+      "name": "Narani Narani (feat. ATARASHII GAKKO!)",
+      "url": "https://open.spotify.com/track/1g528rQTLYwfqtVtl2uyOJ"
     },
     {
       "added_at": null,
@@ -107,22 +111,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Narani Narani (feat. ATARASHII GAKKO!)",
-        "url": "https://open.spotify.com/album/35sSZefnCfHDR4rGtKj9yw"
+        "name": "Tokyo Calling",
+        "url": "https://open.spotify.com/album/3utC1QAo17IiIIkQZe7XO6"
       },
       "artists": [
-        {
-          "name": "Balming Tiger",
-          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
-        },
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 224297,
-      "name": "Narani Narani (feat. ATARASHII GAKKO!)",
-      "url": "https://open.spotify.com/track/1g528rQTLYwfqtVtl2uyOJ"
+      "duration_ms": 191180,
+      "name": "Tokyo Calling",
+      "url": "https://open.spotify.com/track/2WNjQidYVQO0oFFlTuF8fo"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SNACKTIME",
-        "url": "https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 165354,
-      "name": "CANDY",
-      "url": "https://open.spotify.com/track/61TJ4Gr1Erkmai1Y5R9XUN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ICHIJIKIKOKU",
         "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 256306,
       "name": "OTOME NO BIGAKU",
       "url": "https://open.spotify.com/track/2EFaT09Ufx9xOKxt6nc5Q8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SNACKTIME",
+        "url": "https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 165354,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/61TJ4Gr1Erkmai1Y5R9XUN"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "maenarawanai",
-        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 248666,
-      "name": "kimiwaina'17",
-      "url": "https://open.spotify.com/track/28VG246EG1xZaKB8iQ0tXX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HELLO (from The Tiger's Apprentice)",
         "url": "https://open.spotify.com/album/4eCOedqcXqpKnu3wsRRVdf"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 153065,
       "name": "HELLO (from The Tiger's Apprentice)",
       "url": "https://open.spotify.com/track/6tmP2DtGTamdlOK7t5rjNB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "maenarawanai",
+        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 248666,
+      "name": "kimiwaina'17",
+      "url": "https://open.spotify.com/track/28VG246EG1xZaKB8iQ0tXX"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "maenarawanai",
-        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "saisyu jinrui",
-      "url": "https://open.spotify.com/track/1kKh9DQIjd0ncdP6S2VJXI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "wakage ga itaru",
         "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 258333,
       "name": "shiken zenya",
       "url": "https://open.spotify.com/track/6JNvwvaHG3T2nuLRSI53Vr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "maenarawanai",
+        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "saisyu jinrui",
+      "url": "https://open.spotify.com/track/1kKh9DQIjd0ncdP6S2VJXI"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "maenarawanai",
-        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 253866,
-      "name": "zzz",
-      "url": "https://open.spotify.com/track/6AFyBKENjWJBxwjcFTtEpo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "wakage ga itaru",
         "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 278266,
       "name": "rakuen nite watashi jigoku",
       "url": "https://open.spotify.com/track/25NLUXr2EgWnyWckSfMUzG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "maenarawanai",
+        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 253866,
+      "name": "zzz",
+      "url": "https://open.spotify.com/track/6AFyBKENjWJBxwjcFTtEpo"
     },
     {
       "added_at": null,

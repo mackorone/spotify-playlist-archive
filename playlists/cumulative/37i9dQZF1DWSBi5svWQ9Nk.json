@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De 50 grootste hits in NL. Cover: Roeland Beelen & Lil Kleine",
+  "description": "De 50 grootste hits in NL. Cover: Samuel Welten (<a href=\"spotify:genre:0JQ5DAqbMKFOOxftoKZxod\">RADAR</a>-artiest)",
   "name": "Hot Hits NL",
   "tracks": [
     {
@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Alles Kan Kapot",
+        "url": "https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT"
+      },
+      "artists": [
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172211,
+      "name": "Alles Kan Kapot",
+      "url": "https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA"
+    },
+    {
+      "album": {
         "name": "Alles Op Gevoel",
         "url": "https://open.spotify.com/album/0NSk5echypu0j5gJ8x2MNp"
       },
@@ -1016,7 +1034,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 148965,
       "name": "Batterij",
       "url": "https://open.spotify.com/track/2MoLobj6hxy9NdH59TImPL"
@@ -2938,7 +2956,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -3764,6 +3782,32 @@
       "duration_ms": 195859,
       "name": "Hier Mag Alles",
       "url": "https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq"
+    },
+    {
+      "album": {
+        "name": "Hit me up (feat. Chavant\u00e9 & Kleine John)",
+        "url": "https://open.spotify.com/album/7FSH6pSfUO5wCZpFnszXV1"
+      },
+      "artists": [
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        },
+        {
+          "name": "Chavant\u00e9",
+          "url": "https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN"
+        },
+        {
+          "name": "Kleine John",
+          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152615,
+      "name": "Hit me up (feat. Chavant\u00e9 & Kleine John)",
+      "url": "https://open.spotify.com/track/4IunKjJY3tOuERmzYufNcL"
     },
     {
       "album": {
@@ -4799,6 +4843,32 @@
     },
     {
       "album": {
+        "name": "La Plena (W Sound 05)",
+        "url": "https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150001,
+      "name": "La Plena - W Sound 05",
+      "url": "https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5"
+    },
+    {
+      "album": {
         "name": "La Pression",
         "url": "https://open.spotify.com/album/1nkmjcR3wg4w4rbjoGbWiX"
       },
@@ -5018,7 +5088,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 155208,
       "name": "Liefste",
       "url": "https://open.spotify.com/track/03rS8yQDtIHaDuUewAbEe7"
@@ -7430,7 +7500,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 156582,
       "name": "Sorry I'm Here For Someone Else",
       "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
@@ -9536,6 +9606,32 @@
       "duration_ms": 156080,
       "name": "ZAAZAA",
       "url": "https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj"
+    },
+    {
+      "album": {
+        "name": "Ze Komt Uit Amsterdam",
+        "url": "https://open.spotify.com/album/5YXzV37JGcqHOMlg3SFM1F"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Andr\u00e9 Hazes Jr.",
+          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
+        },
+        {
+          "name": "Tabitha",
+          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Ze Komt Uit Amsterdam",
+      "url": "https://open.spotify.com/track/3JzuluW7MzrmMkNpfZwtyp"
     },
     {
       "album": {

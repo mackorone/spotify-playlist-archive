@@ -1,13 +1,45 @@
 {
   "description": " \u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
-  "num_followers": 40792,
+  "num_followers": 40824,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFKSDQAAAABmSxghghCBJtLAJnI3j2E2",
+  "snapshot_id": "aFz4TAAAAACTqcf48JD8tufHQn71jezk",
   "tracks": [
+    {
+      "added_at": "2025-06-26 07:35:40",
+      "album": {
+        "name": "\u064a\u0627 \u062d\u0631\u0627\u0645",
+        "url": "https://open.spotify.com/album/7uZmpAgIoN2DUUrfoFtLEH"
+      },
+      "artists": [
+        {
+          "name": "Rashed Al-Majed",
+          "url": "https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX"
+        }
+      ],
+      "duration_ms": 377391,
+      "name": "\u064a\u0627 \u062d\u0631\u0627\u0645",
+      "url": "https://open.spotify.com/track/0pQNzmaUQljZWycAUabOHj"
+    },
+    {
+      "added_at": "2025-06-26 07:35:40",
+      "album": {
+        "name": "\u0623\u0646\u0627 \u0648\u0627\u0644\u0635\u064a\u0641",
+        "url": "https://open.spotify.com/album/0tXa6bUAByCjlMzbwhHiim"
+      },
+      "artists": [
+        {
+          "name": "Nawal",
+          "url": "https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ"
+        }
+      ],
+      "duration_ms": 248299,
+      "name": "\u0648\u0633\u0637 \u062c\u062f\u0629",
+      "url": "https://open.spotify.com/track/68e7dpS9AuM7XY2wUAlNQq"
+    },
     {
       "added_at": "2025-06-18 10:16:45",
       "album": {
@@ -779,38 +811,6 @@
       "duration_ms": 288909,
       "name": "Kif Ansa",
       "url": "https://open.spotify.com/track/3RR66lZhoGeghO8CHr3SXV"
-    },
-    {
-      "added_at": "2025-06-18 10:16:45",
-      "album": {
-        "name": "Ana Mawjoud",
-        "url": "https://open.spotify.com/album/3RkXdZFfg2OuhuY9NGzHO3"
-      },
-      "artists": [
-        {
-          "name": "Fahad Al Kubaisi",
-          "url": "https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ"
-        }
-      ],
-      "duration_ms": 302107,
-      "name": "Ana Mawjoud",
-      "url": "https://open.spotify.com/track/2mwRZnhBHSuUhQdrJN4D8P"
-    },
-    {
-      "added_at": "2025-06-18 10:16:45",
-      "album": {
-        "name": "Taraf Wahed",
-        "url": "https://open.spotify.com/album/0eIinkQDLHDD8hxoerZt8O"
-      },
-      "artists": [
-        {
-          "name": "Abdulaziz Louis",
-          "url": "https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk"
-        }
-      ],
-      "duration_ms": 194755,
-      "name": "Taraf Wahed",
-      "url": "https://open.spotify.com/track/1p9RcdO0iNFyj0Cz29MBHo"
     }
   ],
   "unique_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",

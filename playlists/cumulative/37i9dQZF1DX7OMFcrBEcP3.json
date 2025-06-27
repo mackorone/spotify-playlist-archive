@@ -1759,6 +1759,24 @@
     },
     {
       "album": {
+        "name": "Puros Corridos Bravos",
+        "url": "https://open.spotify.com/album/0F2bQsoxjJktGPTFsvwxg1"
+      },
+      "artists": [
+        {
+          "name": "El As De La Sierra",
+          "url": "https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "Entre Perico Y Perico",
+      "url": "https://open.spotify.com/track/69SnfiYjygFVUH8fSKx8y7"
+    },
+    {
+      "album": {
         "name": "Narco Corridos",
         "url": "https://open.spotify.com/album/0eFkLgjzIQj3RuIXdXoCSe"
       },
@@ -3680,7 +3698,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 151213,
       "name": "Sanguinarios Del M1",
       "url": "https://open.spotify.com/track/5GTtj2q0psedXHdUnFG4z3"

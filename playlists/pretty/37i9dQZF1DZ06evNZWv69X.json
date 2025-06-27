@@ -1,12 +1,12 @@
 {
   "description": "This is Mar de Copas. The essential tracks, all in one playlist.",
-  "num_followers": 8382,
+  "num_followers": 8383,
   "original_name": "This Is Mar de Copas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAAAy570v/vIzKuKPL7pYXbPW",
+  "snapshot_id": "aFs8AAAAAABCBjvaJuqttHUJhHBQPPUg",
   "tracks": [
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suna",
-        "url": "https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI"
+        "name": "Lado B",
+        "url": "https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 199453,
-      "name": "Enloqueciendo",
-      "url": "https://open.spotify.com/track/56L3CCrj0ceiAU3lPbw8G4"
+      "duration_ms": 193093,
+      "name": "Lisa en el Espejo",
+      "url": "https://open.spotify.com/track/0fp20PQabJAHeXBu8UkniG"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lado B",
-        "url": "https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t"
+        "name": "Suna",
+        "url": "https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 193093,
-      "name": "Lisa en el Espejo",
-      "url": "https://open.spotify.com/track/0fp20PQabJAHeXBu8UkniG"
+      "duration_ms": 199453,
+      "name": "Enloqueciendo",
+      "url": "https://open.spotify.com/track/56L3CCrj0ceiAU3lPbw8G4"
     },
     {
       "added_at": null,
@@ -667,38 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
-      },
-      "artists": [
-        {
-          "name": "Mar de Copas",
-          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
-        }
-      ],
-      "duration_ms": 163173,
-      "name": "A Dios",
-      "url": "https://open.spotify.com/track/7tcimL9ijjO5XFoH74eskd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Soundtrack de una Vida",
-        "url": "https://open.spotify.com/album/11Hk6UODnh7sWurat5D7Jt"
-      },
-      "artists": [
-        {
-          "name": "Mar de Copas",
-          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
-        }
-      ],
-      "duration_ms": 201453,
-      "name": "El Dolor del Amor",
-      "url": "https://open.spotify.com/track/0dbg6Rzu2hhXrvn6bwT39n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre los \u00c1rboles",
         "url": "https://open.spotify.com/album/5a63uy7tHDugATtAijhS7p"
       },
@@ -711,6 +679,38 @@
       "duration_ms": 165360,
       "name": "Blu Ice",
       "url": "https://open.spotify.com/track/32AwM8oVT5LMZ4v9MGYaEf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suna",
+        "url": "https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "duration_ms": 273120,
+      "name": "El Rumbo del Mar",
+      "url": "https://open.spotify.com/track/3DJ3U63ZMcyDto3nT4yLTO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "duration_ms": 163173,
+      "name": "A Dios",
+      "url": "https://open.spotify.com/track/7tcimL9ijjO5XFoH74eskd"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suna",
-        "url": "https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI"
+        "name": "El Soundtrack de una Vida",
+        "url": "https://open.spotify.com/album/11Hk6UODnh7sWurat5D7Jt"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 273120,
-      "name": "El Rumbo del Mar",
-      "url": "https://open.spotify.com/track/3DJ3U63ZMcyDto3nT4yLTO"
+      "duration_ms": 201453,
+      "name": "El Dolor del Amor",
+      "url": "https://open.spotify.com/track/0dbg6Rzu2hhXrvn6bwT39n"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Soundtrack de una Vida",
-        "url": "https://open.spotify.com/album/11Hk6UODnh7sWurat5D7Jt"
+        "name": "De Tierra",
+        "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 260825,
-      "name": "Prisi\u00f3n",
-      "url": "https://open.spotify.com/track/355ocef7U2x53fgZBaPWXl"
+      "duration_ms": 210946,
+      "name": "Ni para Rogar un Beso",
+      "url": "https://open.spotify.com/track/7ahXvgKXKHbLLDcf6F9adS"
     }
   ],
   "unique_name": "This Is Mar de Copas",

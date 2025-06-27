@@ -1,163 +1,15 @@
 {
-  "description": "Robbie Williams au top des meilleurs morceaux rock du moment.",
-  "num_followers": 563880,
+  "description": "Avril Lavigne & Simple Plan au top des meilleurs morceaux rock du moment.",
+  "num_followers": 563865,
   "original_name": "Top of the Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSIhwAAAADwMoM+wAQQ3L+vGIb0fxyT",
+  "snapshot_id": "aF3C7QAAAABkPQZyPuiQL+ocPZQYMpUO",
   "tracks": [
     {
-      "added_at": "2025-06-19 22:00:39",
-      "album": {
-        "name": "Rocket",
-        "url": "https://open.spotify.com/album/41ttBc7j535fXQkAUbRZzB"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        },
-        {
-          "name": "Tony Iommi",
-          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
-        }
-      ],
-      "duration_ms": 166432,
-      "name": "Rocket",
-      "url": "https://open.spotify.com/track/1LmOToT3RH1OEZsQ6Q4Jfb"
-    },
-    {
-      "added_at": "2025-06-19 22:00:39",
-      "album": {
-        "name": "CPR",
-        "url": "https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 170337,
-      "name": "CPR",
-      "url": "https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv"
-    },
-    {
-      "added_at": "2025-06-19 22:00:39",
-      "album": {
-        "name": "Peacefield",
-        "url": "https://open.spotify.com/album/5vNvNASfnf2MVIrnoLr1OE"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 286142,
-      "name": "Peacefield - Single Version",
-      "url": "https://open.spotify.com/track/6j9GJGI7sogofbagE6za5E"
-    },
-    {
-      "added_at": "2025-06-19 22:00:39",
-      "album": {
-        "name": "Up From the Bottom",
-        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 183223,
-      "name": "Up From the Bottom",
-      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
-    },
-    {
-      "added_at": "2025-06-19 22:00:39",
-      "album": {
-        "name": "moody",
-        "url": "https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 175833,
-      "name": "moody",
-      "url": "https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH"
-    },
-    {
-      "added_at": "2025-06-19 22:00:39",
-      "album": {
-        "name": "Venus",
-        "url": "https://open.spotify.com/album/1YdRhdv1ZIbl021MJqH87j"
-      },
-      "artists": [
-        {
-          "name": "Royal Republic",
-          "url": "https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/5Q3Ak6PPL11xyWURXLwYUb"
-    },
-    {
-      "added_at": "2025-06-19 22:00:39",
-      "album": {
-        "name": "DIVE",
-        "url": "https://open.spotify.com/album/0jfgGNDWmjcBLPKMyIMLYP"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 142351,
-      "name": "she likes sports",
-      "url": "https://open.spotify.com/track/0PksrXlYvVJ3gG5wwG1oKx"
-    },
-    {
-      "added_at": "2025-06-19 22:00:39",
-      "album": {
-        "name": "SEEIN\u2019 STARS / BIRDS",
-        "url": "https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 186277,
-      "name": "SEEIN\u2019 STARS",
-      "url": "https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR"
-    },
-    {
-      "added_at": "2025-06-19 22:00:39",
-      "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/52iIfDstVzVMMAuOsFJ2YA"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 152506,
-      "name": "if i had a gun",
-      "url": "https://open.spotify.com/track/4rYoirkxujHEP1hhKZcMrl"
-    },
-    {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "Young & Dumb (feat. Simple Plan)",
         "url": "https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV"
@@ -177,55 +29,55 @@
       "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
-        "name": "clich\u00e9",
-        "url": "https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi"
+        "name": "Unravelling",
+        "url": "https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh"
       },
       "artists": [
         {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 176242,
-      "name": "clich\u00e9",
-      "url": "https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu"
+      "duration_ms": 238002,
+      "name": "Unravelling",
+      "url": "https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
-        "name": "Fireworks",
-        "url": "https://open.spotify.com/album/6qIRq3dwaZUUvi2bcfsS84"
+        "name": "SEEIN\u2019 STARS / BIRDS",
+        "url": "https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX"
       },
       "artists": [
         {
-          "name": "No Money Kids",
-          "url": "https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF"
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 164264,
-      "name": "Fireworks",
-      "url": "https://open.spotify.com/track/5i7UP3wyBJLgX9egW6A7ym"
+      "duration_ms": 186277,
+      "name": "SEEIN\u2019 STARS",
+      "url": "https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv"
+        "name": "DIVE",
+        "url": "https://open.spotify.com/album/0jfgGNDWmjcBLPKMyIMLYP"
       },
       "artists": [
         {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
         }
       ],
-      "duration_ms": 246946,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"
+      "duration_ms": 142351,
+      "name": "she likes sports",
+      "url": "https://open.spotify.com/track/0PksrXlYvVJ3gG5wwG1oKx"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "Cartoon Darkness",
         "url": "https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k"
@@ -241,23 +93,39 @@
       "url": "https://open.spotify.com/track/6d5F8T8SS44UMB2Nz8IMGe"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
-        "name": "People Watching",
-        "url": "https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7"
+        "name": "Fireworks",
+        "url": "https://open.spotify.com/album/6qIRq3dwaZUUvi2bcfsS84"
       },
       "artists": [
         {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+          "name": "No Money Kids",
+          "url": "https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF"
         }
       ],
-      "duration_ms": 234560,
-      "name": "Little Bit Closer",
-      "url": "https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq"
+      "duration_ms": 164264,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/5i7UP3wyBJLgX9egW6A7ym"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
+      "album": {
+        "name": "Lovesick Lullaby",
+        "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 175134,
+      "name": "Lovesick Lullaby",
+      "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
+    },
+    {
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "HIGH FLYING KIND",
         "url": "https://open.spotify.com/album/0z0j4ljhAYphuoJkqBFCEa"
@@ -273,7 +141,155 @@
       "url": "https://open.spotify.com/track/5FWGMYg8C4GrZnxxXnBLK7"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
+      "album": {
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/41ttBc7j535fXQkAUbRZzB"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        },
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        }
+      ],
+      "duration_ms": 166432,
+      "name": "Rocket",
+      "url": "https://open.spotify.com/track/1LmOToT3RH1OEZsQ6Q4Jfb"
+    },
+    {
+      "added_at": "2025-06-26 22:00:13",
+      "album": {
+        "name": "CPR",
+        "url": "https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 170337,
+      "name": "CPR",
+      "url": "https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv"
+    },
+    {
+      "added_at": "2025-06-26 22:00:13",
+      "album": {
+        "name": "Peacefield",
+        "url": "https://open.spotify.com/album/5vNvNASfnf2MVIrnoLr1OE"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 286142,
+      "name": "Peacefield - Single Version",
+      "url": "https://open.spotify.com/track/6j9GJGI7sogofbagE6za5E"
+    },
+    {
+      "added_at": "2025-06-26 22:00:13",
+      "album": {
+        "name": "Up From the Bottom",
+        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 183223,
+      "name": "Up From the Bottom",
+      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
+    },
+    {
+      "added_at": "2025-06-26 22:00:13",
+      "album": {
+        "name": "Venus",
+        "url": "https://open.spotify.com/album/1YdRhdv1ZIbl021MJqH87j"
+      },
+      "artists": [
+        {
+          "name": "Royal Republic",
+          "url": "https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/5Q3Ak6PPL11xyWURXLwYUb"
+    },
+    {
+      "added_at": "2025-06-26 22:00:13",
+      "album": {
+        "name": "moody",
+        "url": "https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 175833,
+      "name": "moody",
+      "url": "https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH"
+    },
+    {
+      "added_at": "2025-06-26 22:00:13",
+      "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/52iIfDstVzVMMAuOsFJ2YA"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 152506,
+      "name": "if i had a gun",
+      "url": "https://open.spotify.com/track/4rYoirkxujHEP1hhKZcMrl"
+    },
+    {
+      "added_at": "2025-06-26 22:00:13",
+      "album": {
+        "name": "clich\u00e9",
+        "url": "https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 176242,
+      "name": "clich\u00e9",
+      "url": "https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu"
+    },
+    {
+      "added_at": "2025-06-26 22:00:13",
+      "album": {
+        "name": "Tyrants",
+        "url": "https://open.spotify.com/album/2J5LhXxCmpSFkg8OA3BLTW"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "Tyrants",
+      "url": "https://open.spotify.com/track/7oTvcGyX0llNf9X3pFy8sd"
+    },
+    {
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "Paws",
         "url": "https://open.spotify.com/album/2WTsBo00ik6uknNsm09K9v"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/73bLtrWnmMu15zgkwgxIft"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "There's Always Gonna Be Something",
         "url": "https://open.spotify.com/album/0JfaJAEBTdTVlfczvCZYdl"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/5jBqfgzHTLUEFswjvWrIjD"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/5VFCZaivqUDRJq34ylEbt5"
@@ -321,7 +337,23 @@
       "url": "https://open.spotify.com/track/3tlw6dqv2qejTGLnVaEsgb"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
+      "album": {
+        "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
+        "url": "https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 249960,
+      "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
+      "url": "https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"
+    },
+    {
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "Trippin On You",
         "url": "https://open.spotify.com/album/3yJ92arutMATlvf04rOLsk"
@@ -341,23 +373,23 @@
       "url": "https://open.spotify.com/track/1obg77TuT5XYRwguK43NoK"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
-        "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
-        "url": "https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY"
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv"
       },
       "artists": [
         {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 249960,
-      "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
-      "url": "https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"
+      "duration_ms": 246946,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "Bloom Baby Bloom",
         "url": "https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8"
@@ -373,7 +405,7 @@
       "url": "https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "Even In Arcadia",
         "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
@@ -389,7 +421,7 @@
       "url": "https://open.spotify.com/track/4IixOTCzviJgIigKleiVbo"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
@@ -405,7 +437,7 @@
       "url": "https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "Smash It Like Belushi",
         "url": "https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU"
@@ -421,7 +453,7 @@
       "url": "https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "catch these fists",
         "url": "https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496"
@@ -437,7 +469,7 @@
       "url": "https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "Break These Chains (feat. Niko Vilhelm of Blind Channel)",
         "url": "https://open.spotify.com/album/7ouCL5sH19AwXq1VMHhXmV"
@@ -457,7 +489,7 @@
       "url": "https://open.spotify.com/track/03epNQcpWbIg6kWRIWLfN7"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "There's No Future In Optimism",
         "url": "https://open.spotify.com/album/3kw1Gtzo54hTyF50BgLbXY"
@@ -473,7 +505,7 @@
       "url": "https://open.spotify.com/track/6cNr04UeJaxfRXPjxWOt6U"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "Year of the Snake",
         "url": "https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25"
@@ -489,7 +521,7 @@
       "url": "https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "KIDS",
         "url": "https://open.spotify.com/album/2uvIjj6OWipQPpVwLAgUVG"
@@ -505,7 +537,7 @@
       "url": "https://open.spotify.com/track/1IkRLNPbQaoBZoyAyhGrIg"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "Romance (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy"
@@ -521,7 +553,7 @@
       "url": "https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "Unshatter",
         "url": "https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7"
@@ -537,23 +569,7 @@
       "url": "https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
-      "album": {
-        "name": "Lovesick Lullaby",
-        "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 175134,
-      "name": "Lovesick Lullaby",
-      "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
-    },
-    {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "Cheers",
         "url": "https://open.spotify.com/album/34r9RSSfxVG5pDXbfcuE8u"
@@ -569,7 +585,7 @@
       "url": "https://open.spotify.com/track/2bPm2KgdHwttB2ZRdL0jdZ"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "Enough Is Enough",
         "url": "https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "NEGATIVE SKILLS",
         "url": "https://open.spotify.com/album/6KwIxtTGMQIKnGkv97TgCW"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/4HFus0VtxPA5GgN0ylCd2R"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "The Night Before",
         "url": "https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "Stare At The Void",
         "url": "https://open.spotify.com/album/7MsTZUHYSSRsjLT7TX5ljY"
@@ -633,7 +649,7 @@
       "url": "https://open.spotify.com/track/6hMfBQep2z22t7jKxY9sEF"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "Rushmere",
         "url": "https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "Cocktail Exil",
         "url": "https://open.spotify.com/album/2j1wHDfKctiHqofLSxqib5"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/4qMaU5EKvolDkA25rrpNTa"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "A Modern Day Distraction",
         "url": "https://open.spotify.com/album/6mQQg0TOprhR2mCpMb5Kl2"
@@ -681,7 +697,7 @@
       "url": "https://open.spotify.com/track/019IPf1J7LiN9yBUBp0f8d"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "Satanized",
         "url": "https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX"
@@ -697,7 +713,7 @@
       "url": "https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "Uno II",
         "url": "https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg"
@@ -713,7 +729,7 @@
       "url": "https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY"
@@ -729,27 +745,7 @@
       "url": "https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
-      "album": {
-        "name": "Prisoner of Beauty",
-        "url": "https://open.spotify.com/album/0FQawKjtZ22suCj37hO2EJ"
-      },
-      "artists": [
-        {
-          "name": "The Limi\u00f1anas",
-          "url": "https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n"
-        },
-        {
-          "name": "Bobby Gillespie",
-          "url": "https://open.spotify.com/artist/77aJXR27gzqvC7CEko5h3o"
-        }
-      ],
-      "duration_ms": 292757,
-      "name": "Prisoner of Beauty",
-      "url": "https://open.spotify.com/track/5Yvhku4TRlkZ1AHJQFqthr"
-    },
-    {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "Can't Say No",
         "url": "https://open.spotify.com/album/0eXqzpHZp49CthfRA4ggtN"
@@ -765,7 +761,7 @@
       "url": "https://open.spotify.com/track/2fzc6So1P2MYJ2YtokLgLU"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "D\u00e9sol\u00e9 (feat. JJ Wilde)",
         "url": "https://open.spotify.com/album/7rc8TzbmpfblcaKQ3M4hh4"
@@ -785,7 +781,7 @@
       "url": "https://open.spotify.com/track/79JYhum5bquBcCQdwNc1Xm"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "Delete Ya",
         "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
@@ -801,7 +797,23 @@
       "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
     },
     {
-      "added_at": "2025-06-19 22:00:39",
+      "added_at": "2025-06-26 22:00:13",
+      "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "Little Bit Closer",
+      "url": "https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq"
+    },
+    {
+      "added_at": "2025-06-26 22:00:13",
       "album": {
         "name": "It's Amazing To Be Young",
         "url": "https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs"
@@ -815,22 +827,6 @@
       "duration_ms": 210803,
       "name": "It's Amazing To Be Young",
       "url": "https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf"
-    },
-    {
-      "added_at": "2025-06-19 22:00:39",
-      "album": {
-        "name": "Open Wide",
-        "url": "https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 222667,
-      "name": "A Question Of You",
-      "url": "https://open.spotify.com/track/5cmZ1viuOQc93xV7fYV5SV"
     }
   ],
   "unique_name": "Top of the Rock",

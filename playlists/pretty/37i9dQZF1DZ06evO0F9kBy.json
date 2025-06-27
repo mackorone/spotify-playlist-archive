@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 27023,
+  "num_followers": 27026,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAACq6cQQgON5K5vaNMdMK8v4",
+  "snapshot_id": "aFs8AAAAAACClq/6bC34TDkO5QqD/Sol",
   "tracks": [
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPACE",
-        "url": "https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 298640,
-      "name": "Bless The One - Live",
-      "url": "https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Counting My Blessings",
         "url": "https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P"
       },
@@ -423,6 +403,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SPACE",
+        "url": "https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 298640,
+      "name": "Bless The One - Live",
+      "url": "https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Give Thanks To God",
         "url": "https://open.spotify.com/album/4sp4pvAi81nztpcuPWNa3g"
       },
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joyful Noise (feat. DOE) [Live]",
-        "url": "https://open.spotify.com/album/0sCjoeW4EhfoMApELYKFOr"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 278375,
-      "name": "Joyful Noise (feat. DOE) - Live",
-      "url": "https://open.spotify.com/track/5sn2NVwXGfGEQDBbkAIXj6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God, Turn It Around",
         "url": "https://open.spotify.com/album/7MUAMw8GcvLQmtDZ6mADWU"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 280086,
       "name": "God, Turn It Around (feat. Matt Maher) - Live Version",
       "url": "https://open.spotify.com/track/3h6jF4dFCELdphlOk0wlFc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joyful Noise (feat. DOE) [Live]",
+        "url": "https://open.spotify.com/album/0sCjoeW4EhfoMApELYKFOr"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 278375,
+      "name": "Joyful Noise (feat. DOE) - Live",
+      "url": "https://open.spotify.com/track/5sn2NVwXGfGEQDBbkAIXj6"
     },
     {
       "added_at": null,
@@ -575,6 +575,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Leaning (feat. Lizzie Morgan)",
+        "url": "https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
+        }
+      ],
+      "duration_ms": 219213,
+      "name": "Leaning (feat. Lizzie Morgan)",
+      "url": "https://open.spotify.com/track/5i4eapszFQYMycVSOiBxHG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Never Lose Sight (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 231586,
       "name": "Kyrie Eleison",
       "url": "https://open.spotify.com/track/29pV4KdhjtBuBu9KapmseW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Leaning (feat. Lizzie Morgan)",
-        "url": "https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Lizzie Morgan",
-          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
-        }
-      ],
-      "duration_ms": 219213,
-      "name": "Leaning (feat. Lizzie Morgan)",
-      "url": "https://open.spotify.com/track/5i4eapszFQYMycVSOiBxHG"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 365880,
-      "name": "Your Grace Is Enough/Here I Am Lord (Live)",
-      "url": "https://open.spotify.com/track/27TeIT5tc6vORm23A1gA4h"
+      "duration_ms": 359973,
+      "name": "Adoration (Live)",
+      "url": "https://open.spotify.com/track/5PfnaRjEsPfNOd7AdJmd2N"
     },
     {
       "added_at": null,
@@ -724,37 +724,9 @@
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 359973,
-      "name": "Adoration (Live)",
-      "url": "https://open.spotify.com/track/5PfnaRjEsPfNOd7AdJmd2N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Joy of Jesus (feat. Matt Maher, Mac Powell & Ellie Holcomb) (feat. Matt Maher, Mac Powell & Ellie Holcomb)",
-        "url": "https://open.spotify.com/album/2LeVGsWiMyhdTpiNctU5LZ"
-      },
-      "artists": [
-        {
-          "name": "Rich Mullins",
-          "url": "https://open.spotify.com/artist/13UhfW7GPizrArBwq7ugps"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Mac Powell",
-          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
-        },
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 157615,
-      "name": "The Joy of Jesus (feat. Matt Maher, Mac Powell & Ellie Holcomb) (feat. Matt Maher, Mac Powell & Ellie Holcomb)",
-      "url": "https://open.spotify.com/track/39fnCT2BL54nizLunoGOzQ"
+      "duration_ms": 365880,
+      "name": "Your Grace Is Enough/Here I Am Lord (Live)",
+      "url": "https://open.spotify.com/track/27TeIT5tc6vORm23A1gA4h"
     },
     {
       "added_at": null,
@@ -787,18 +759,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abide With Me (Radio Version)",
-        "url": "https://open.spotify.com/album/6e6e5QP2FBLMKAMn5my95t"
+        "name": "The Joy of Jesus (feat. Matt Maher, Mac Powell & Ellie Holcomb) (feat. Matt Maher, Mac Powell & Ellie Holcomb)",
+        "url": "https://open.spotify.com/album/2LeVGsWiMyhdTpiNctU5LZ"
       },
       "artists": [
         {
+          "name": "Rich Mullins",
+          "url": "https://open.spotify.com/artist/13UhfW7GPizrArBwq7ugps"
+        },
+        {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
         }
       ],
-      "duration_ms": 221546,
-      "name": "Abide With Me - Radio Version",
-      "url": "https://open.spotify.com/track/5rsERw80XgOfKW98hLTYET"
+      "duration_ms": 157615,
+      "name": "The Joy of Jesus (feat. Matt Maher, Mac Powell & Ellie Holcomb) (feat. Matt Maher, Mac Powell & Ellie Holcomb)",
+      "url": "https://open.spotify.com/track/39fnCT2BL54nizLunoGOzQ"
     },
     {
       "added_at": null,
@@ -835,6 +819,22 @@
       "duration_ms": 233080,
       "name": "Baptized",
       "url": "https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abide With Me (Radio Version)",
+        "url": "https://open.spotify.com/album/6e6e5QP2FBLMKAMn5my95t"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 221546,
+      "name": "Abide With Me - Radio Version",
+      "url": "https://open.spotify.com/track/5rsERw80XgOfKW98hLTYET"
     },
     {
       "added_at": null,

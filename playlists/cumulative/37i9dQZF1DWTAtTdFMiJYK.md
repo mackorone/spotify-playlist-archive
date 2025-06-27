@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover: Divyam Sodhi
 
-359 songs - 20 hr 17 min
+360 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [free](https://open.spotify.com/track/6AZFB9yD5kyahBrPhv9i4E) | [GrapeGuitarBox](https://open.spotify.com/artist/0KDH3OhkatkzhqJcf4m8DR) | [free](https://open.spotify.com/album/6x5uvmf4EOslQGWPOREQEf) | 3:06 | 2021-12-06 | 2022-01-11 |
 | [Gaate Jao](https://open.spotify.com/track/0RWbkXSfIYIQo0g8JvrXIh) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Gaate Jao](https://open.spotify.com/album/3EJqU9rYyYgrgoNDQIxIGS) | 3:27 | 2021-12-06 | 2022-01-11 |
 | [Gaayab](https://open.spotify.com/track/6yxyxncMxTxyU05fD5lRMk) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Gaayab](https://open.spotify.com/album/3qGhJwL6Y2tY2t9lJNHiOS) | 4:22 | 2022-09-10 | 2023-09-23 |
-| [Gallan Mithiyaan](https://open.spotify.com/track/4RUABRzEPjA12w5AG2x6dy) | [SHATAKSHI SHARMA](https://open.spotify.com/artist/36uwUovmBWyAw7dJyhQRcO) | [Gallan Mithiyaan](https://open.spotify.com/album/1Hx3H2cG3Q3q2LkIN3kGAZ) | 3:06 | 2025-02-10 |  |
+| [Gallan Mithiyaan](https://open.spotify.com/track/4RUABRzEPjA12w5AG2x6dy) | [SHATAKSHI SHARMA](https://open.spotify.com/artist/36uwUovmBWyAw7dJyhQRcO) | [Gallan Mithiyaan](https://open.spotify.com/album/1Hx3H2cG3Q3q2LkIN3kGAZ) | 3:06 | 2025-02-10 | 2025-06-27 |
 | [Gehraiyaan](https://open.spotify.com/track/1h5bMRo0WZ6L6E2a9ndiQ1) | [Aryan Katoch](https://open.spotify.com/artist/4gAmleqQJI116NpfqkMxha) | [Gehraiyaan](https://open.spotify.com/album/0tQJ5GTvAMRX7vZ8umFUzO) | 3:38 | 2022-01-31 | 2022-02-05 |
 | [Ghanan](https://open.spotify.com/track/62y0vkPVjLKqcl03BPRClh) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Ghanan](https://open.spotify.com/album/2QnzLREoXTbjpSBCoe64Vu) | 3:06 | 2024-08-30 | 2025-04-10 |
 | [Ghoome](https://open.spotify.com/track/2S8g6nlwCih4u4GAn14GqE) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Ghoome](https://open.spotify.com/album/4u73oMykwBdkhBuJ9ufJjT) | 2:49 | 2023-07-24 | 2025-01-22 |
@@ -285,6 +285,7 @@
 | [Saara Jahaan](https://open.spotify.com/track/6PCFM6hZ5CZb6MZhNXvX92) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Saara Jahaan](https://open.spotify.com/album/16kYRDEJT3bwQ5StFGCGPV) | 2:37 | 2023-04-07 |  |
 | [Saawan](https://open.spotify.com/track/5cFZPjthvr0T4bgGX1BVsF) | [RITWIKA BHATTACHARYA](https://open.spotify.com/artist/4jR1uB3GxQHJmqj5hYfSUo) | [Saawan](https://open.spotify.com/album/5mJuxVoryQM1tKkq8GvYNp) | 5:06 | 2021-12-06 | 2022-01-11 |
 | [Saawariya](https://open.spotify.com/track/4WUjl8l3t5yg2JCGeYa7DV) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Saawariya](https://open.spotify.com/album/1PRfv8sVJ5hIxwN2nunPha) | 3:22 | 2023-02-03 | 2024-06-22 |
+| [Saawariya](https://open.spotify.com/track/4iHO9d5IT1Jc0EgMVBROG0) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Bandana Datta](https://open.spotify.com/artist/6EATxS3z3eO59uPyDpt4rp) | [Saawariya](https://open.spotify.com/album/2cynpDKsuIrlveQmx2sOEY) | 2:02 | 2025-06-26 |  |
 | [Safar](https://open.spotify.com/track/69o9DthSQrg5Dy50OJ3Ly0) | [Usman Shaikh](https://open.spotify.com/artist/2YyTy4oKKkjKlRg0MKQsOl) | [Safar](https://open.spotify.com/album/7sTEKrKGCXyMFcfvZj4gFC) | 3:54 | 2022-03-22 | 2023-01-11 |
 | [Sahaare](https://open.spotify.com/track/0QPecwAlW2oX98JC0hGUV0) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Sahaare](https://open.spotify.com/album/3QzEFXJSJmKvraUIjfvoWf) | 3:08 | 2023-05-18 |  |
 | [Saiyaare](https://open.spotify.com/track/3e82KBCnq2RWzyt1QlCJrZ) | [Ankkit Singh](https://open.spotify.com/artist/3UXS7C1BeRwPNkwj5DNvxd), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep) | [Saiyaare](https://open.spotify.com/album/2L67cAFcd093MAvmKokSc9) | 1:54 | 2025-01-21 |  |

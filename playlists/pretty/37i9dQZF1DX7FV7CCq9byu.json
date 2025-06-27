@@ -1,15 +1,31 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n svensk & internationell pop.",
-  "num_followers": 175118,
+  "num_followers": 175114,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFlJlwAAAAC0KT8/dqxTh22F/U4QeUAV",
+  "snapshot_id": "aF3C/QAAAABE0Fa26AXr5lnRm5vIB9Kl",
   "tracks": [
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
+      "album": {
+        "name": "Virgin",
+        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 257065,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m"
+    },
+    {
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
@@ -25,7 +41,55 @@
       "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
+      "album": {
+        "name": "Ramla",
+        "url": "https://open.spotify.com/album/39OJYOVxta0JzTODnefED9"
+      },
+      "artists": [
+        {
+          "name": "Anis Don Demina",
+          "url": "https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P"
+        }
+      ],
+      "duration_ms": 154156,
+      "name": "Ramla",
+      "url": "https://open.spotify.com/track/5L8ZRVUZOgQMlz5jsKjCTE"
+    },
+    {
+      "added_at": "2025-06-26 22:00:29",
+      "album": {
+        "name": "Jag \u00c4r",
+        "url": "https://open.spotify.com/album/5NEqWuMn9w5H0VVxg7gwnB"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "Magk\u00e4nsla",
+      "url": "https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd"
+    },
+    {
+      "added_at": "2025-06-26 22:00:29",
+      "album": {
+        "name": "Survive",
+        "url": "https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 225211,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
+    },
+    {
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Strawberry Blonde",
         "url": "https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk"
@@ -41,7 +105,23 @@
       "url": "https://open.spotify.com/track/2JHpFobSp0WktxCod6MEIy"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
+      "album": {
+        "name": "Big Girl",
+        "url": "https://open.spotify.com/album/22KMS4Y8oPVAMdD4XUywkx"
+      },
+      "artists": [
+        {
+          "name": "Peg Parnevik",
+          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
+        }
+      ],
+      "duration_ms": 105553,
+      "name": "Big Girl",
+      "url": "https://open.spotify.com/track/2YsXM60MZXGKudblp4UL2Z"
+    },
+    {
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "American Heart",
         "url": "https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw"
@@ -57,7 +137,31 @@
       "url": "https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
+      "album": {
+        "name": "Ist\u00e4llet",
+        "url": "https://open.spotify.com/album/6vDdKX71uPjQbbhCHbCerh"
+      },
+      "artists": [
+        {
+          "name": "Reyn",
+          "url": "https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB"
+        },
+        {
+          "name": "Newkid",
+          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
+        },
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Ist\u00e4llet",
+      "url": "https://open.spotify.com/track/6owXSHo7XvqG97VZ6A22B3"
+    },
+    {
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Ta Mig Aldrig H\u00e4rifr\u00e5n",
         "url": "https://open.spotify.com/album/1gW17dHNYR0aDviEo3krRQ"
@@ -77,7 +181,23 @@
       "url": "https://open.spotify.com/track/63FjDlco0BQXJuPZeQ70CZ"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
+      "album": {
+        "name": "Slott av luft",
+        "url": "https://open.spotify.com/album/41jolTTrQSFIW0H7PuXr0n"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 161447,
+      "name": "Slott av luft",
+      "url": "https://open.spotify.com/track/4KDSCPNo7yPOLnAKIcX3jm"
+    },
+    {
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Sommarland",
         "url": "https://open.spotify.com/album/7q9mqWT3bEfgLhGbpPSwjo"
@@ -93,7 +213,23 @@
       "url": "https://open.spotify.com/track/3pOjWUQShXxf03rfThapNZ"
     },
     {
-      "added_at": "2025-06-23 12:33:27",
+      "added_at": "2025-06-26 22:00:29",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 165107,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI"
+    },
+    {
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Sue me",
         "url": "https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq"
@@ -109,23 +245,7 @@
       "url": "https://open.spotify.com/track/6ah4mee54hPyycKICthl5B"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "P\u00e5 Dig",
-        "url": "https://open.spotify.com/album/6yCsYhO9QmpJbByBQiVq8p"
-      },
-      "artists": [
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        }
-      ],
-      "duration_ms": 168733,
-      "name": "P\u00e5 Dig",
-      "url": "https://open.spotify.com/track/3TSSHkhMjsRHIJCsdElQAb"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Nice To Each Other",
         "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
@@ -141,7 +261,23 @@
       "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
+      "album": {
+        "name": "Lover Girl",
+        "url": "https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
+    },
+    {
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "sju sorters blommor",
         "url": "https://open.spotify.com/album/5ajK8iJ1fWEOAIIq5m8hTW"
@@ -157,39 +293,23 @@
       "url": "https://open.spotify.com/track/63GQIIUToDU9IMu11CZGFR"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
-        "name": "Hail Mary",
-        "url": "https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU"
+        "name": "4L",
+        "url": "https://open.spotify.com/album/3NX60E3tiZN3Xx3U14xYdd"
       },
       "artists": [
         {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+          "name": "Mondo",
+          "url": "https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv"
         }
       ],
-      "duration_ms": 166400,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn"
+      "duration_ms": 151730,
+      "name": "4L",
+      "url": "https://open.spotify.com/track/13EHxr8bqdfqwXtyp411bf"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "Hammer",
-        "url": "https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 193443,
-      "name": "Hammer",
-      "url": "https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Plastic Box",
         "url": "https://open.spotify.com/album/1G7QhWDD2FgO8Rcmt7BYSj"
@@ -205,7 +325,71 @@
       "url": "https://open.spotify.com/track/7zPfFxH8WxUUffU8rqB4kU"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
+      "album": {
+        "name": "Boys will be Boys",
+        "url": "https://open.spotify.com/album/5HJuTYYesC7B2ewqFf8zBV"
+      },
+      "artists": [
+        {
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+        }
+      ],
+      "duration_ms": 169447,
+      "name": "Boys will be Boys",
+      "url": "https://open.spotify.com/track/0kqLJ1b7GlMjBEXb8yAQXK"
+    },
+    {
+      "added_at": "2025-06-26 22:00:29",
+      "album": {
+        "name": "Hail Mary",
+        "url": "https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn"
+    },
+    {
+      "added_at": "2025-06-26 22:00:29",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Complete Edition)",
+        "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 190124,
+      "name": "Need You More",
+      "url": "https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro"
+    },
+    {
+      "added_at": "2025-06-26 22:00:29",
+      "album": {
+        "name": "P\u00e5 Dig",
+        "url": "https://open.spotify.com/album/6yCsYhO9QmpJbByBQiVq8p"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 168733,
+      "name": "P\u00e5 Dig",
+      "url": "https://open.spotify.com/track/3TSSHkhMjsRHIJCsdElQAb"
+    },
+    {
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Manchild",
         "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
@@ -221,7 +405,39 @@
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
+      "album": {
+        "name": "Mad",
+        "url": "https://open.spotify.com/album/1jqgdLTganjzL121lxeusU"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 174969,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/1uq1pf0UdjGmfbPqIpPg5K"
+    },
+    {
+      "added_at": "2025-06-26 22:00:29",
+      "album": {
+        "name": "F1 The Album (Cinematic Edition)",
+        "url": "https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 154617,
+      "name": "All At Once",
+      "url": "https://open.spotify.com/track/3Jd3aTezMFWeuDcUkANdQQ"
+    },
+    {
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "we never dated",
         "url": "https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez"
@@ -237,7 +453,23 @@
       "url": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
+      "album": {
+        "name": "Heroin",
+        "url": "https://open.spotify.com/album/4haogKoKcT5t0vGVJkBBY2"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 256079,
+      "name": "Heroin",
+      "url": "https://open.spotify.com/track/5LkXpdUpSCHOO1yJI5aLbV"
+    },
+    {
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Sv\u00e5rt",
         "url": "https://open.spotify.com/album/1wmxJgIRdw1f25WCCf6Oj9"
@@ -253,7 +485,7 @@
       "url": "https://open.spotify.com/track/40TOlWGgY4Yjwbx6cXeE5P"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Not Like That Anymore",
         "url": "https://open.spotify.com/album/3ff8F0Upi70Lo0i26CYGHn"
@@ -269,23 +501,71 @@
       "url": "https://open.spotify.com/track/6ugu9WpCEHXmns0PiqYTU1"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
-        "name": "Mitt hj\u00e4rta av guld",
-        "url": "https://open.spotify.com/album/0q9XvbSVVLkA8F14Oqaz0i"
+        "name": "Girl of Your Dreams",
+        "url": "https://open.spotify.com/album/7lH9AcAtACrcYMKC6aLoGA"
       },
       "artists": [
         {
-          "name": "Lia Lindst\u00e9n",
-          "url": "https://open.spotify.com/artist/4GnwFUXajKqpZ9cOnIIUnM"
+          "name": "Eli",
+          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
         }
       ],
-      "duration_ms": 170918,
-      "name": "Mitt hj\u00e4rta av guld",
-      "url": "https://open.spotify.com/track/7Ma4xWMBilJP90yLC5H3ZY"
+      "duration_ms": 189090,
+      "name": "Girl of Your Dreams",
+      "url": "https://open.spotify.com/track/7AVZ2T5nku3TKyZlPPXLEd"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
+      "album": {
+        "name": "Level Up",
+        "url": "https://open.spotify.com/album/60Kb7iVoNXoC84HnTMcqzj"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 202491,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/1oJJQpxFMz0A0h4MngHQi1"
+    },
+    {
+      "added_at": "2025-06-26 22:00:29",
+      "album": {
+        "name": "Sommarsinnet",
+        "url": "https://open.spotify.com/album/6UalaLmHz7dB6yx3AC3wgk"
+      },
+      "artists": [
+        {
+          "name": "lovad",
+          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
+        }
+      ],
+      "duration_ms": 169723,
+      "name": "Sommarsinnet",
+      "url": "https://open.spotify.com/track/4PbUCjJb3tohMQFgXLIuJv"
+    },
+    {
+      "added_at": "2025-06-26 22:00:29",
+      "album": {
+        "name": "Hammer",
+        "url": "https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 193443,
+      "name": "Hammer",
+      "url": "https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW"
+    },
+    {
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "All Gas No Brakes (feat. BigXthaPlug)",
         "url": "https://open.spotify.com/album/541bm0KL5yWslIgIis3jPi"
@@ -305,23 +585,7 @@
       "url": "https://open.spotify.com/track/5OdPAqU4a0EZq8LOJgO5og"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "Level Up",
-        "url": "https://open.spotify.com/album/60Kb7iVoNXoC84HnTMcqzj"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 202491,
-      "name": "Level Up",
-      "url": "https://open.spotify.com/track/1oJJQpxFMz0A0h4MngHQi1"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Drive (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/5Jd8G9DMwnwK7YVlFTvdnc"
@@ -341,23 +605,23 @@
       "url": "https://open.spotify.com/track/0iIcuwia47B5bzjVpyUwyI"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
-        "name": "Sommarsinnet",
-        "url": "https://open.spotify.com/album/6UalaLmHz7dB6yx3AC3wgk"
+        "name": "Mitt hj\u00e4rta av guld",
+        "url": "https://open.spotify.com/album/0q9XvbSVVLkA8F14Oqaz0i"
       },
       "artists": [
         {
-          "name": "lovad",
-          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
+          "name": "Lia Lindst\u00e9n",
+          "url": "https://open.spotify.com/artist/4GnwFUXajKqpZ9cOnIIUnM"
         }
       ],
-      "duration_ms": 169723,
-      "name": "Sommarsinnet",
-      "url": "https://open.spotify.com/track/4PbUCjJb3tohMQFgXLIuJv"
+      "duration_ms": 170918,
+      "name": "Mitt hj\u00e4rta av guld",
+      "url": "https://open.spotify.com/track/7Ma4xWMBilJP90yLC5H3ZY"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
@@ -377,7 +641,7 @@
       "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Happier Now",
         "url": "https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr"
@@ -393,7 +657,7 @@
       "url": "https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "k\u00e4nna det igen",
         "url": "https://open.spotify.com/album/5vzCIN20OYgpflQNSH9566"
@@ -409,7 +673,7 @@
       "url": "https://open.spotify.com/track/2IzwU2LnVFlCGl7IHtYNJk"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Think They\u2019re Looking, Let's Perform",
         "url": "https://open.spotify.com/album/3J4dEQWW7RnP3VyiYFY7Et"
@@ -425,7 +689,7 @@
       "url": "https://open.spotify.com/track/1aumaeh5sU4VbH1ESkWaPO"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "WHEN A GIRL CRIES",
         "url": "https://open.spotify.com/album/3y62OSh5mxYZXFrJ3SWujS"
@@ -441,7 +705,7 @@
       "url": "https://open.spotify.com/track/1BvoyAEN3HjaLmaMVa8lel"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Sapphire",
         "url": "https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t"
@@ -457,7 +721,7 @@
       "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Vinnare (Sveriges Officiella EM-l\u00e5t 2025)",
         "url": "https://open.spotify.com/album/7lcnQfN5l9sYkrxcwWQIOJ"
@@ -477,7 +741,7 @@
       "url": "https://open.spotify.com/track/262s4Kpu1fhQpaYn3aVJSP"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "HOW DOES IT FEEL?",
         "url": "https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15"
@@ -493,7 +757,7 @@
       "url": "https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Strawberry Blonde",
         "url": "https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk"
@@ -509,7 +773,7 @@
       "url": "https://open.spotify.com/track/3LeBBt5XxBAlheoX9K4AV4"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Bon Voyage",
         "url": "https://open.spotify.com/album/59423YD9JZdvJsFSICrsfg"
@@ -525,7 +789,7 @@
       "url": "https://open.spotify.com/track/5Y9UJiXsJSXWlOOJl2FRLW"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "2CB",
         "url": "https://open.spotify.com/album/0x9hyJIBVJewDqzPnWQApB"
@@ -541,7 +805,7 @@
       "url": "https://open.spotify.com/track/4v4544m9rPttWudGucbzAc"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "A Little Bit Wild",
         "url": "https://open.spotify.com/album/2f0s9vLtRtfpLvvvbRPMze"
@@ -557,7 +821,7 @@
       "url": "https://open.spotify.com/track/7rZmBZLfhgh000Zcureczx"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Close to you",
         "url": "https://open.spotify.com/album/0kSsLJiSSakbOSZrHGlVRP"
@@ -573,7 +837,7 @@
       "url": "https://open.spotify.com/track/6CBurTHmYJhIcDD72Qgjnm"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Akvamarin",
         "url": "https://open.spotify.com/album/5pzzdh1mBlGjN2Yfzz0cv2"
@@ -589,7 +853,7 @@
       "url": "https://open.spotify.com/track/6BgHjGcCalBlzdnjoner4p"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Lys p\u00e5 mig",
         "url": "https://open.spotify.com/album/3WzL7EQg84unvvF8q3Cq5M"
@@ -605,7 +869,7 @@
       "url": "https://open.spotify.com/track/3kbNesyQPnUreP6bD7aADS"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Skyddar mig fr\u00e5n dig",
         "url": "https://open.spotify.com/album/2P30uc37KVrUgKCkLvBeB9"
@@ -621,7 +885,7 @@
       "url": "https://open.spotify.com/track/6PdHWKjgo6lGmI84OJfJOg"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Missing Out",
         "url": "https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0"
@@ -637,7 +901,7 @@
       "url": "https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Just Keep Watching (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
@@ -657,7 +921,7 @@
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "ATTENTION!",
         "url": "https://open.spotify.com/album/0pS9ssUJeUKdOD3hTrRhUM"
@@ -681,7 +945,7 @@
       "url": "https://open.spotify.com/track/3roiUw3YFNlKE3u8qMmVmw"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Toscana",
         "url": "https://open.spotify.com/album/490sRKuNegyMGAe9gPvI1Q"
@@ -697,7 +961,7 @@
       "url": "https://open.spotify.com/track/7rQxgwpo7sS77Yv0oVYG81"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Jag har allt vid 25",
         "url": "https://open.spotify.com/album/4QO1aYaGP6lodyhPQrpN6t"
@@ -713,7 +977,7 @@
       "url": "https://open.spotify.com/track/73ZkFKmVvpvjskyEfUgdWi"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/5fFCRUivqEhsNPd5A2rcVG"
@@ -729,7 +993,7 @@
       "url": "https://open.spotify.com/track/6H2PoOGLifwRBm9TmkHriB"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "t-shirt",
         "url": "https://open.spotify.com/album/2aQapySjt6qoKV0r62NkjD"
@@ -745,7 +1009,7 @@
       "url": "https://open.spotify.com/track/1u5B8XNodVpXjwz5VIr7qo"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "F\u00f6r Sverige i tiden",
         "url": "https://open.spotify.com/album/2fNNdBuMKVptGEgFI62UiE"
@@ -761,7 +1025,7 @@
       "url": "https://open.spotify.com/track/0o5CvM5KZLzCTfDGkv3Vcv"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Camels",
         "url": "https://open.spotify.com/album/19rY6ztabf3ENfAonVHeDa"
@@ -777,7 +1041,7 @@
       "url": "https://open.spotify.com/track/1t30x389swdoiG08U2X2fz"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Konfetti",
         "url": "https://open.spotify.com/album/4aWHBRPvgHpM39DUrvCMTR"
@@ -797,7 +1061,7 @@
       "url": "https://open.spotify.com/track/57ilwMdNXbsbVaP8GtfEIB"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Lavalampan (feat. Daniela Rathana)",
         "url": "https://open.spotify.com/album/4dNFgXp6cFalLQuMxlPUhE"
@@ -817,7 +1081,7 @@
       "url": "https://open.spotify.com/track/7azXG1dwVdLmGPmNP1zo51"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Okay",
         "url": "https://open.spotify.com/album/2vUbpXF7UY8dWL6d3Y3CpY"
@@ -833,7 +1097,7 @@
       "url": "https://open.spotify.com/track/0PZqKacVnXfPTvEfiMzOue"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Do You Love Me",
         "url": "https://open.spotify.com/album/20mAlA3bsGhvDFPKgpLD3I"
@@ -849,7 +1113,7 @@
       "url": "https://open.spotify.com/track/5lMiSTRHgJWp16KUCjef9y"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Hej d\u00e4r mitt hj\u00e4rta",
         "url": "https://open.spotify.com/album/1ttH6BHuYoqCiOzn84Sb9p"
@@ -865,7 +1129,7 @@
       "url": "https://open.spotify.com/track/1oBZzUV7j9zivts8gfZXNR"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Kransen",
         "url": "https://open.spotify.com/album/1fzz8Ae1OyMwuh5mcnISbr"
@@ -881,7 +1145,7 @@
       "url": "https://open.spotify.com/track/14iMujU8chd9Vac9vpjuVe"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Konstig",
         "url": "https://open.spotify.com/album/6Y5EpVWxV6Fn3vEEAdNKNQ"
@@ -897,7 +1161,7 @@
       "url": "https://open.spotify.com/track/78IoQCso4Czg6mL2Lis59F"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "N\u00e4stan d\u00e4r (men aldrig fri)",
         "url": "https://open.spotify.com/album/5YauyqJ0gzOYmj8G8zsx90"
@@ -913,7 +1177,7 @@
       "url": "https://open.spotify.com/track/2E05ZVK7zLOvrc383jqBE0"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Under Different Skies",
         "url": "https://open.spotify.com/album/3bGEbZfduDw6irXvNiD2qL"
@@ -929,7 +1193,7 @@
       "url": "https://open.spotify.com/track/66bfRDJ4opMOviIi6esyYV"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Take A Sexy Picture Of Me",
         "url": "https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB"
@@ -945,7 +1209,7 @@
       "url": "https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Meri Jaan",
         "url": "https://open.spotify.com/album/53pdOr0g9OKj2Ytq5Onfp9"
@@ -961,7 +1225,7 @@
       "url": "https://open.spotify.com/track/7EOFRODQyV3kqx0zbVKEQG"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Okej att d\u00f6",
         "url": "https://open.spotify.com/album/2N6zGSJKBKGOLMUwxnwx2B"
@@ -977,7 +1241,7 @@
       "url": "https://open.spotify.com/track/61E9a3TY4BNTBOuTa5jqJK"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Addison",
         "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
@@ -993,7 +1257,7 @@
       "url": "https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Call me when you need me",
         "url": "https://open.spotify.com/album/5DgDuWTZ8cFgfUsymQvD9P"
@@ -1009,7 +1273,7 @@
       "url": "https://open.spotify.com/track/5sJ7YLGwsOP7pmwGTz2Osu"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Swedish Girl",
         "url": "https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo"
@@ -1025,7 +1289,7 @@
       "url": "https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/4TN4aY61CdCWDqCSIxFsSn"
@@ -1041,7 +1305,7 @@
       "url": "https://open.spotify.com/track/5KnH8nLgUCWDQ9vIfFz7V0"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Is It Love?",
         "url": "https://open.spotify.com/album/70WeBMKxVg8C06c68o1661"
@@ -1057,7 +1321,7 @@
       "url": "https://open.spotify.com/track/1Fk3ebdShXVtWlZCi41oh1"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Why Why Why",
         "url": "https://open.spotify.com/album/2s02TARBneDJSDw36o9wmg"
@@ -1073,7 +1337,7 @@
       "url": "https://open.spotify.com/track/1lpoamZ7AhyXq8VukIU8eM"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Touch Me Like a Gangster",
         "url": "https://open.spotify.com/album/5lOPOloxHL7wP2Dp5Wyk2D"
@@ -1089,7 +1353,7 @@
       "url": "https://open.spotify.com/track/6fYcQVXEuqmyS3HqSZ6rTd"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Sommarkatt",
         "url": "https://open.spotify.com/album/17jcApM4Eibe8do5pJTNCD"
@@ -1105,7 +1369,7 @@
       "url": "https://open.spotify.com/track/57AHVmaxTYWoBBB5CFr9Ts"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Lovin Myself",
         "url": "https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp"
@@ -1121,7 +1385,7 @@
       "url": "https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Tusen sp\u00e4nn",
         "url": "https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL"
@@ -1141,7 +1405,7 @@
       "url": "https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "clich\u00e9",
         "url": "https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi"
@@ -1157,7 +1421,7 @@
       "url": "https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "ALL I WANT IS YOU",
         "url": "https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl"
@@ -1173,7 +1437,7 @@
       "url": "https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Chameleon",
         "url": "https://open.spotify.com/album/5ME2rABxMciklKhCnrWYaY"
@@ -1193,7 +1457,7 @@
       "url": "https://open.spotify.com/track/1EcXdrJ3qgbgHiPR2wZyRe"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Spring Rush (a hot platonic subatomic crush)",
         "url": "https://open.spotify.com/album/38giCJV9UkDE9U3059Ev4e"
@@ -1209,7 +1473,7 @@
       "url": "https://open.spotify.com/track/19luLEZUisg9MQtfLz489o"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/4sh3Yk0ITqd0brs7mmFL1T"
@@ -1225,7 +1489,7 @@
       "url": "https://open.spotify.com/track/1GRwEsNUPJ8iTUyeYy0YQM"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Suddiga tankar",
         "url": "https://open.spotify.com/album/51iXYtZyNGHWc9HXx9vZjR"
@@ -1241,7 +1505,7 @@
       "url": "https://open.spotify.com/track/4WUgzuDPuG37Fcm8sx0hdU"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Something Beautiful",
         "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
@@ -1257,7 +1521,7 @@
       "url": "https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Dance Cry Laugh Smile",
         "url": "https://open.spotify.com/album/3pAfBKkU6qQczBcS8X11MD"
@@ -1273,7 +1537,7 @@
       "url": "https://open.spotify.com/track/2jOLY3Sjp1DzsMxxvBS5l9"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "BALENCIAGA COVERED EYES",
         "url": "https://open.spotify.com/album/65keRrrRODi48zyrWoS949"
@@ -1289,7 +1553,7 @@
       "url": "https://open.spotify.com/track/3KokqGsGKwLNjHxLbRIBQt"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Caroline",
         "url": "https://open.spotify.com/album/3YKj6eNHkDjsDlSXiBw1Dj"
@@ -1305,7 +1569,7 @@
       "url": "https://open.spotify.com/track/1kzd1siJdw7QMix3uPQB45"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Hate To Love",
         "url": "https://open.spotify.com/album/5AXLTxMpHICBifTJXDESzS"
@@ -1321,7 +1585,7 @@
       "url": "https://open.spotify.com/track/0FQrZ9z8qTnG6teIZhb3EY"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Man Of The Year",
         "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
@@ -1337,7 +1601,7 @@
       "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "GUNSHOT TO THE SOUL",
         "url": "https://open.spotify.com/album/5hDrZdwZGSbfdqGu8zZntx"
@@ -1353,7 +1617,7 @@
       "url": "https://open.spotify.com/track/6LTRolW9WtkPM5kh4is8Sj"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Hemingway",
         "url": "https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus"
@@ -1369,7 +1633,7 @@
       "url": "https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Fame is a Gun",
         "url": "https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm"
@@ -1385,7 +1649,7 @@
       "url": "https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Trubbel & Kaos",
         "url": "https://open.spotify.com/album/4CH6ktJkCRBzMBcmpgEuMS"
@@ -1401,7 +1665,7 @@
       "url": "https://open.spotify.com/track/0F9XxIEX9ETweXamPrdCgO"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Avicii Forever",
         "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
@@ -1421,7 +1685,7 @@
       "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Shades of Blue",
         "url": "https://open.spotify.com/album/7IzlLkqdAibLpnesmvwknW"
@@ -1437,7 +1701,7 @@
       "url": "https://open.spotify.com/track/14TaOx6s12JuJ3DhJCrj8P"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Walk",
         "url": "https://open.spotify.com/album/7aoFAfqHjoHj8SyKR8lJEQ"
@@ -1453,7 +1717,7 @@
       "url": "https://open.spotify.com/track/35zaTORnMc0IqYbgOAeZGN"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Jag har h\u00f6rt (hahaha)",
         "url": "https://open.spotify.com/album/7c0z1WRR2XXs2C6DWZLbD6"
@@ -1469,7 +1733,7 @@
       "url": "https://open.spotify.com/track/5o1xTXO39jqeXhieh98rPa"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Ingen garanti",
         "url": "https://open.spotify.com/album/59DbW4BL5Yo0etEUE8QqJR"
@@ -1485,7 +1749,7 @@
       "url": "https://open.spotify.com/track/3USDJqWIstDheez4sJDODG"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Music For People Who Believe In Love (Deluxe)",
         "url": "https://open.spotify.com/album/4yo87qxXaDkzncFiujO60E"
@@ -1501,7 +1765,7 @@
       "url": "https://open.spotify.com/track/2bII2VIUZ1jI2MvBoDzfKZ"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Momma Song",
         "url": "https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE"
@@ -1517,7 +1781,7 @@
       "url": "https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5"
     },
     {
-      "added_at": "2025-06-19 22:00:48",
+      "added_at": "2025-06-26 22:00:29",
       "album": {
         "name": "Hitta n\u00e5gon",
         "url": "https://open.spotify.com/album/4zt7rMMlgz1YMvkSGOzVna"
@@ -1531,426 +1795,6 @@
       "duration_ms": 137391,
       "name": "Hitta n\u00e5gon",
       "url": "https://open.spotify.com/track/4ynlOOjOoEU6mGveaHNJQ8"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "Andra sidan (vi \u00e4r klara)",
-        "url": "https://open.spotify.com/album/5Enp8TTAJW8rI59xbBdNb9"
-      },
-      "artists": [
-        {
-          "name": "Lukas S\u00f6derholm",
-          "url": "https://open.spotify.com/artist/6H3bChd6nBuQ7bzGzYSDqB"
-        }
-      ],
-      "duration_ms": 155486,
-      "name": "Andra sidan (vi \u00e4r klara)",
-      "url": "https://open.spotify.com/track/4zShxXNfJ8QuBo0KOzg3lV"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "Why Keep Trying?",
-        "url": "https://open.spotify.com/album/1ru0RHTdao2mgYC8iJ5yBx"
-      },
-      "artists": [
-        {
-          "name": "Aggy Ally",
-          "url": "https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs"
-        }
-      ],
-      "duration_ms": 155314,
-      "name": "Can't Go Back",
-      "url": "https://open.spotify.com/track/2u5JUUkazRj0CCfYt4uZSO"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "Bloodline (with Jelly Roll)",
-        "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 182008,
-      "name": "Bloodline (with Jelly Roll)",
-      "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/5iRT4669x6nim2INHF7wyI"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 192593,
-      "name": "Carpe Diem",
-      "url": "https://open.spotify.com/track/1LJFTgkr5UeYU2vUX4MAvp"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "Storstads\u00e5ngest (jag beh\u00f6ver dig Sabrina)",
-        "url": "https://open.spotify.com/album/282V3114CXhdwxHdVDWpE3"
-      },
-      "artists": [
-        {
-          "name": "Ella Tiritiello",
-          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
-        }
-      ],
-      "duration_ms": 172053,
-      "name": "Storstads\u00e5ngest (jag beh\u00f6ver dig Sabrina)",
-      "url": "https://open.spotify.com/track/0gEMFfHYQXxjRp1bVIllVa"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/1PoebRqjvlN71Tjdwg6I37"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 207661,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/4mSDOE2kImbodUtKFLmcqm"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "A Minute, A Moment...",
-        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "Mimosa",
-        "url": "https://open.spotify.com/album/3RdhNTewFtkvWj5z2gxZpp"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
-        }
-      ],
-      "duration_ms": 192575,
-      "name": "Mimosa",
-      "url": "https://open.spotify.com/track/00oneQN4fZEl3tbhiNMExE"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "FUNNY little FEARS",
-        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "The First Time",
-      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "Super Love Me",
-        "url": "https://open.spotify.com/album/6C2W7lY57Nhm01DDjXMJxa"
-      },
-      "artists": [
-        {
-          "name": "Grace Davies",
-          "url": "https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK"
-        }
-      ],
-      "duration_ms": 266500,
-      "name": "Super Love Me",
-      "url": "https://open.spotify.com/track/5l3Qcbmd6fCmMIgA50eAJH"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "Andarna",
-        "url": "https://open.spotify.com/album/7xzfbsn3XlOxsemWxzykqY"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 226124,
-      "name": "Andarna",
-      "url": "https://open.spotify.com/track/3LbU3hQgMSyRHqYcGXVFLx"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "Take It! Take It!",
-        "url": "https://open.spotify.com/album/1jzob45PzKBXnvQ6fQpNTC"
-      },
-      "artists": [
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        }
-      ],
-      "duration_ms": 196730,
-      "name": "Take It! Take It!",
-      "url": "https://open.spotify.com/track/11Uoi1YLyhhhf8BgEpQ4dh"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "One Thing",
-        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 208829,
-      "name": "One Thing",
-      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "Bella Notte",
-        "url": "https://open.spotify.com/album/2cr5JLkfWtOGPbbf7sUkyR"
-      },
-      "artists": [
-        {
-          "name": "Simon Superti",
-          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
-        }
-      ],
-      "duration_ms": 140223,
-      "name": "Bella Notte",
-      "url": "https://open.spotify.com/track/7otGQbrdl9RGn9MEyfxE3M"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "Leave Me Alone",
-        "url": "https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 141738,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/1T38okUZknebljidMNSvfJ"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 205270,
-      "name": "Friend Of Mine - from the Smurfs Movie Soundtrack",
-      "url": "https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "Music For People Who Believe In Love",
-        "url": "https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE"
-      },
-      "artists": [
-        {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        }
-      ],
-      "duration_ms": 198460,
-      "name": "Honey Blonde",
-      "url": "https://open.spotify.com/track/4A2jbfMjTwAbqf5rJ0BTLh"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "I Believed",
-        "url": "https://open.spotify.com/album/60yZlBnmsGBEW2YG9QTeYe"
-      },
-      "artists": [
-        {
-          "name": "Maria Jane Smith",
-          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
-        }
-      ],
-      "duration_ms": 179266,
-      "name": "I Believed",
-      "url": "https://open.spotify.com/track/2f1UuqZvtbNHRxEIzFXRf4"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "Tom Cruisin'",
-        "url": "https://open.spotify.com/album/1pTvDS8e4LoB0l5BaydhDL"
-      },
-      "artists": [
-        {
-          "name": "JUNG",
-          "url": "https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO"
-        }
-      ],
-      "duration_ms": 172432,
-      "name": "Tom Cruisin'",
-      "url": "https://open.spotify.com/track/3um7ZBlvt2VoLICwBYIyx3"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "Second Self",
-        "url": "https://open.spotify.com/album/7wamK6t2NizBz3HScDpRY0"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 163054,
-      "name": "Try Your Luck",
-      "url": "https://open.spotify.com/track/4OeHwa1G1CXBnbqZokaMwk"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "Push Back My Alarm",
-        "url": "https://open.spotify.com/album/4x0XHoXRE1cbZHcyqrPlox"
-      },
-      "artists": [
-        {
-          "name": "Goldielocks",
-          "url": "https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Push Back My Alarm",
-      "url": "https://open.spotify.com/track/50r9KXsXIlmea4s6D33r5o"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "Life Or Death",
-        "url": "https://open.spotify.com/album/6vEjNyuLahcJWnPgsyz4g6"
-      },
-      "artists": [
-        {
-          "name": "Magnus Ferrell",
-          "url": "https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe"
-        }
-      ],
-      "duration_ms": 189447,
-      "name": "Life Or Death",
-      "url": "https://open.spotify.com/track/1Z6GBZOuKQIVGpb5An51Up"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "Som i en dr\u00f6m",
-        "url": "https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM"
-      },
-      "artists": [
-        {
-          "name": "Herman Silow",
-          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
-        }
-      ],
-      "duration_ms": 145568,
-      "name": "Fr\u00e5n & med nu",
-      "url": "https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "...Japanese pancakes",
-        "url": "https://open.spotify.com/album/3iypo05QDm3aB2ACqM8FS9"
-      },
-      "artists": [
-        {
-          "name": "Jackie Mere",
-          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
-        }
-      ],
-      "duration_ms": 133852,
-      "name": "...Japanese pancakes",
-      "url": "https://open.spotify.com/track/0a0EM7KSt1fHRSmfCN8stf"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "Arcade (Spotify Singles)",
-        "url": "https://open.spotify.com/album/3XccOYlrax3mtRQXKwdYTy"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 159143,
-      "name": "Arcade (Spotify Singles)",
-      "url": "https://open.spotify.com/track/0kY9Xp9GHh6uuCXpKncOxi"
-    },
-    {
-      "added_at": "2025-06-19 22:00:48",
-      "album": {
-        "name": "PRESSURE",
-        "url": "https://open.spotify.com/album/4vIzHHL3D8TacHTRQzYIYe"
-      },
-      "artists": [
-        {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
-        }
-      ],
-      "duration_ms": 133714,
-      "name": "Kill You Off",
-      "url": "https://open.spotify.com/track/3Z66u0yqHKVX8NwZuWsg3B"
     }
   ],
   "unique_name": "Ny Pop",

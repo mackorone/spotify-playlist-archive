@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8489,
+  "num_followers": 8493,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAABWEaMkkxM6BKPZpbEhjiwV",
+  "snapshot_id": "aFs8AAAAAAAjyxWEF3tEY2j5ncQw3Y2L",
   "tracks": [
     {
       "added_at": null,
@@ -195,26 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loved By U",
-        "url": "https://open.spotify.com/album/4taO2kN0bh4dQ2EgiTL4Nm"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "MORGXN",
-          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
-        }
-      ],
-      "duration_ms": 207813,
-      "name": "Loved By U",
-      "url": "https://open.spotify.com/track/0TRXeJE4GjC6hpX3WovRP9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oasis Nocturno (Remixed)",
         "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
       },
@@ -235,22 +215,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real Life",
-        "url": "https://open.spotify.com/album/12U0Y5Wm08gdsrd92i50vI"
+        "name": "Loved By U",
+        "url": "https://open.spotify.com/album/4taO2kN0bh4dQ2EgiTL4Nm"
       },
       "artists": [
         {
-          "name": "Attacca Quartet",
-          "url": "https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF"
-        },
-        {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "MORGXN",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
         }
       ],
-      "duration_ms": 168213,
-      "name": "Remind U (feat. TOKiMONSTA)",
-      "url": "https://open.spotify.com/track/6ZpBVrJWKsgTNSoZs4BbSI"
+      "duration_ms": 207813,
+      "name": "Loved By U",
+      "url": "https://open.spotify.com/track/0TRXeJE4GjC6hpX3WovRP9"
     },
     {
       "added_at": null,
@@ -267,6 +247,26 @@
       "duration_ms": 264733,
       "name": "Rose's Thorn",
       "url": "https://open.spotify.com/track/3r3XSRtRcpoQ87vcpYbP5h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/12U0Y5Wm08gdsrd92i50vI"
+      },
+      "artists": [
+        {
+          "name": "Attacca Quartet",
+          "url": "https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 168213,
+      "name": "Remind U (feat. TOKiMONSTA)",
+      "url": "https://open.spotify.com/track/6ZpBVrJWKsgTNSoZs4BbSI"
     },
     {
       "added_at": null,
@@ -819,18 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Chorus",
-        "url": "https://open.spotify.com/album/3uPpKcsjnkBwb44qudcJDZ"
+        "name": "Oasis Nocturno (Remixed)",
+        "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
         }
       ],
-      "duration_ms": 139426,
-      "name": "Dream Chorus",
-      "url": "https://open.spotify.com/track/0kIpJOynQACVOaafTMOM3M"
+      "duration_ms": 214588,
+      "name": "Love That Never - IMANU Remix",
+      "url": "https://open.spotify.com/track/7xEonmjoDgWkRCzlofalul"
     },
     {
       "added_at": null,
@@ -851,22 +855,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno (Remixed)",
-        "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
+        "name": "Dream Chorus",
+        "url": "https://open.spotify.com/album/3uPpKcsjnkBwb44qudcJDZ"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
         }
       ],
-      "duration_ms": 214588,
-      "name": "Love That Never - IMANU Remix",
-      "url": "https://open.spotify.com/track/7xEonmjoDgWkRCzlofalul"
+      "duration_ms": 139426,
+      "name": "Dream Chorus",
+      "url": "https://open.spotify.com/track/0kIpJOynQACVOaafTMOM3M"
     },
     {
       "added_at": null,

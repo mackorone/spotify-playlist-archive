@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-731 songs - 1 day 12 hr 55 min
+733 songs - 1 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 | 2024-12-12 | 2025-03-06 |
 | [Industry Plant](https://open.spotify.com/track/31EsbpCFl01yQtLncNdjSz) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Industry Plant](https://open.spotify.com/album/2pTk2jxZu1vnVybVRyBToh) | 2:20 | 2024-09-19 | 2024-11-12 |
 | [Intro](https://open.spotify.com/track/5XCdD3ctuEP5PcirLvhvVN) | [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn) | [R.A.P.](https://open.spotify.com/album/0rCJcTS4ROCxbkO5N4RvOJ) | 2:07 | 2024-04-08 | 2024-04-17 |
+| [Investeren In De Liefde](https://open.spotify.com/track/2wLap85rkCeiacx6QhXdF7) | [SFB](https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [New Wave](https://open.spotify.com/album/11YiKYULtpVKbNGdpKjaj0) | 2:57 | 2025-06-26 |  |
 | [Investeren In De Liefde](https://open.spotify.com/track/4gNUmFwSGsZNjzxsjcE0aM) | [SFB](https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [New Wave](https://open.spotify.com/album/6yNagpRsQLiEsNts3ft9Ow) | 2:57 | 2024-07-10 | 2024-11-28 |
 | [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-26 | 2024-02-15 |
 | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/track/0mNi3gEjt1CmZVhXFFjx8d) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB), [Jermaine Edwards](https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K) | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/album/5y16jXfwpM8ZrZ2nnNRVlP) | 2:42 | 2023-02-23 | 2023-10-03 |
@@ -546,6 +547,7 @@
 | [Ride Like the Wind](https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:35 | 2024-06-26 | 2024-07-04 |
 | [Ride Or Die, Pt\. 2 \(with Villano Antillano & Tokischa\)](https://open.spotify.com/track/5oYVxFt2k4SkVp6wzVsFWN) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Ride Or Die, Pt\. 2](https://open.spotify.com/album/0KSwPzRWwU14SH8QUCwfM0) | 2:38 | 2024-04-25 | 2024-05-24 |
 | [Rim Tim Tagi Dim](https://open.spotify.com/track/5TswDbxMnxptgFTf6ZxvXQ) | [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [Rim Tim Tagi Dim](https://open.spotify.com/album/2avxqhpSlNfsj5yPw32L7t) | 2:59 | 2024-05-09 | 2024-05-24 |
+| [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 | 2025-06-26 |  |
 | [Rocketship](https://open.spotify.com/track/5q2zRUEMUMh51Ipd97bmAa) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Rocketship](https://open.spotify.com/album/4za3vqGRKS1vFTQAhYnLwQ) | 2:36 | 2023-05-18 | 2023-09-07 |
 | [Rodeo \(Remix\)](https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo \(Remix\)](https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq) | 4:05 | 2023-04-18 | 2023-06-27 |
 | [Roi 2 cœur \(feat\. Indila\)](https://open.spotify.com/track/6nYW5D9TyWomuS9hW6wDuY) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:29 | 2023-02-23 | 2023-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,074 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,114 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 15 | [Blast Your Stereo](https://open.spotify.com/track/30C1mHFD8gnf2Q4i177DcQ) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Blast Your Stereo](https://open.spotify.com/album/6hLniqxTHOc1OOIesBdfZE) | 2:11 |
 | 16 | [Noise Tempo](https://open.spotify.com/track/3enXqcSAVAKpO6ACvEAB6J) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Noiseflow](https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3) | [Noise Tempo](https://open.spotify.com/album/2NT3CpZhBkuEhHF3OdQyCl) | 2:34 |
 | 17 | [Oh My \(Dimitri K Remix\)](https://open.spotify.com/track/1lfvrXoptVANYD3sR0X00b) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Oh My \(Dimitri K Remix\)](https://open.spotify.com/album/1KZRqlmGwcZzO0FsBGTrTF) | 2:33 |
-| 18 | [Danse Macabre](https://open.spotify.com/track/4hZYHWCGvKPR74DgPK8jZ9) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Mr\. Ivex](https://open.spotify.com/artist/4rjpzgu5YnVodi62T50yjV) | [Danse Macabre](https://open.spotify.com/album/4dzIrm27bFhZw4rTEagMKJ) | 2:28 |
+| 18 | [Bad To The Bone!!](https://open.spotify.com/track/5pptbJFvpxSlIjMjy9aqsf) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73), [EZG](https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4) | [Bad To The Bone!!](https://open.spotify.com/album/0PJo9SFqLIgvwQ8dYMCloy) | 2:41 |
 | 19 | [Hate Destroyer](https://open.spotify.com/track/1UAN6xmk080TVBfGlRyNA0) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Hate Destroyer](https://open.spotify.com/album/7xAeX8mHtj2AadeIX856Mb) | 2:55 |
 | 20 | [Temple Of Resonance \(Official Masters Of Hardcore 2025 Anthem\)](https://open.spotify.com/track/7gZEZc68gYpSPK2GvPPChc) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Temple Of Resonance \(Official Masters Of Hardcore 2025 Anthem\)](https://open.spotify.com/album/6IVbGHJN8o7BNTuXlaoRfG) | 4:33 |
-| 21 | [Straight To The Core](https://open.spotify.com/track/2ajb1wQhU6yjmHyktCqnox) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [Straight To The Core](https://open.spotify.com/album/0qGohB6U4hU6e0lNovxQKH) | 2:51 |
-| 22 | [Major Bounce](https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Major Bounce](https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB) | 2:35 |
-| 23 | [Bad To The Bone!!](https://open.spotify.com/track/5pptbJFvpxSlIjMjy9aqsf) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73), [EZG](https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4) | [Bad To The Bone!!](https://open.spotify.com/album/0PJo9SFqLIgvwQ8dYMCloy) | 2:41 |
+| 21 | [Danse Macabre](https://open.spotify.com/track/4hZYHWCGvKPR74DgPK8jZ9) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Mr\. Ivex](https://open.spotify.com/artist/4rjpzgu5YnVodi62T50yjV) | [Danse Macabre](https://open.spotify.com/album/4dzIrm27bFhZw4rTEagMKJ) | 2:28 |
+| 22 | [Straight To The Core](https://open.spotify.com/track/2ajb1wQhU6yjmHyktCqnox) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [Straight To The Core](https://open.spotify.com/album/0qGohB6U4hU6e0lNovxQKH) | 2:51 |
+| 23 | [Major Bounce](https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Major Bounce](https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB) | 2:35 |
 | 24 | [Run 4 Your Life](https://open.spotify.com/track/3whJILCwMY1kfqs4jTTJeY) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Run 4 Your Life](https://open.spotify.com/album/4r7nj19kZAO5GaiXXFNtew) | 2:44 |
 | 25 | [Rip City](https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Rip City](https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh) | 2:41 |
 | 26 | [The End](https://open.spotify.com/track/4jpAxGPufc1MqjgzcLKbMu) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [The End](https://open.spotify.com/album/1WyfmLkloGkMcrFke9UIej) | 2:56 |

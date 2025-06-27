@@ -1,12 +1,12 @@
 {
   "description": "This is Avril Lavigne. The essential tracks, all in one playlist.",
-  "num_followers": 737616,
+  "num_followers": 737693,
   "original_name": "This Is Avril Lavigne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAABuVFNlyopMVb3gq6rlGrNh",
+  "snapshot_id": "aFs8AAAAAADxw02c7EU8TDjQAKdbVQlj",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "77 (feat. Avril Lavigne)",
-        "url": "https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt"
+        "name": "Nobody's Home",
+        "url": "https://open.spotify.com/album/3lcqYhgY599FdXetGtNElV"
       },
       "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        },
         {
           "name": "Avril Lavigne",
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 173842,
-      "name": "77 - feat. Avril Lavigne",
-      "url": "https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j"
+      "duration_ms": 170533,
+      "name": "Knockin' on Heaven's Door - Studio Version",
+      "url": "https://open.spotify.com/track/6xF5RkVUNl7YkNapPCk2Ds"
     },
     {
       "added_at": null,
@@ -647,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody's Home",
-        "url": "https://open.spotify.com/album/3lcqYhgY599FdXetGtNElV"
+        "name": "77 (feat. Avril Lavigne)",
+        "url": "https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt"
       },
       "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        },
         {
           "name": "Avril Lavigne",
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 170533,
-      "name": "Knockin' on Heaven's Door - Studio Version",
-      "url": "https://open.spotify.com/track/6xF5RkVUNl7YkNapPCk2Ds"
+      "duration_ms": 173842,
+      "name": "77 - feat. Avril Lavigne",
+      "url": "https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j"
     },
     {
       "added_at": null,

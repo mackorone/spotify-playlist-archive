@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "Aan het strand van Porto Rico",
+        "url": "https://open.spotify.com/album/22xxynlCMZmu9fe48Q4GQr"
+      },
+      "artists": [
+        {
+          "name": "Jannes",
+          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195249,
+      "name": "Aan het strand van Porto Rico",
+      "url": "https://open.spotify.com/track/47qKUg1zUm6UdHvR8JIz7W"
+    },
+    {
+      "album": {
         "name": "Aan Van Jou",
         "url": "https://open.spotify.com/album/2E4bDW6YmSI0ti9LQAxTir"
       },
@@ -442,7 +460,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 188769,
       "name": "Altijd Altijd 2.0",
       "url": "https://open.spotify.com/track/6PO8kt1r1k0f4yJkNUEPTz"
@@ -876,6 +894,28 @@
       "duration_ms": 195692,
       "name": "Ciao Ciao Amore",
       "url": "https://open.spotify.com/track/6skK7RPjQOZ02HlKgvAoMK"
+    },
+    {
+      "album": {
+        "name": "Corry Konings",
+        "url": "https://open.spotify.com/album/11SGzQT6L3M1fsZ7aT1xF4"
+      },
+      "artists": [
+        {
+          "name": "Sven Versteeg",
+          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
+        },
+        {
+          "name": "Corry Konings",
+          "url": "https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158932,
+      "name": "Corry Konings",
+      "url": "https://open.spotify.com/track/79ykiAUGpJsiHY8b5A8RMg"
     },
     {
       "album": {
@@ -2760,7 +2800,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 137673,
       "name": "In Amsterdam",
       "url": "https://open.spotify.com/track/2jXZIL7zp6lbvkcNGJYtIm"
@@ -3622,7 +3662,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 191574,
       "name": "Lang Leve De Lol",
       "url": "https://open.spotify.com/track/1Do8jxwE6zBMHinAEjvfjQ"
@@ -4519,6 +4559,24 @@
     },
     {
       "album": {
+        "name": "Overal 'n Feestje",
+        "url": "https://open.spotify.com/album/01K2WzpyOCBHaOZ6r08zT8"
+      },
+      "artists": [
+        {
+          "name": "Rutger van Barneveld",
+          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175450,
+      "name": "Overal 'n Feestje",
+      "url": "https://open.spotify.com/track/2SVH9uThkw8Qkxfrkl8GMB"
+    },
+    {
+      "album": {
         "name": "Pak me vast",
         "url": "https://open.spotify.com/album/74xxchSozwAV6nzQy6kTxX"
       },
@@ -4949,6 +5007,24 @@
     },
     {
       "album": {
+        "name": "Stap In Mijn Bootje",
+        "url": "https://open.spotify.com/album/2FwiuA25iO9010pEPkhbs2"
+      },
+      "artists": [
+        {
+          "name": "Robin van Herwijnen",
+          "url": "https://open.spotify.com/artist/6DSV2sKcDI7lJHmNqBTkRG"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181415,
+      "name": "Stap In Mijn Bootje",
+      "url": "https://open.spotify.com/track/10xHzSmXDU9GAVQxnUGKx2"
+    },
+    {
+      "album": {
         "name": "Stapelgek Op Jou",
         "url": "https://open.spotify.com/album/7c9rzkiEHY8QLShd4J92ry"
       },
@@ -5296,7 +5372,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 182745,
       "name": "Vanavond zijn we hier",
       "url": "https://open.spotify.com/track/5QdaMBEwFiOOFMxOIMGbLZ"

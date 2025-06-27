@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 886611,
+  "num_followers": 886640,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAAAeFRcrp/iRxvMBvpNmfzoX",
+  "snapshot_id": "aFs8AAAAAAB1RYDE6e5vGxA6zCN8TcOl",
   "tracks": [
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pinkprint (International Deluxe Explicit)",
-        "url": "https://open.spotify.com/album/40XGTQ7FN6Y3dZXJhKBe96"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 260239,
-      "name": "Anaconda",
-      "url": "https://open.spotify.com/track/5eqiMMbaeUZ32Q7sS00H35"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
         "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 218746,
       "name": "High School",
       "url": "https://open.spotify.com/track/3UrNOHCzVxX2KZbNcKQAyu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Pinkprint (International Deluxe Explicit)",
+        "url": "https://open.spotify.com/album/40XGTQ7FN6Y3dZXJhKBe96"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 260239,
+      "name": "Anaconda",
+      "url": "https://open.spotify.com/track/5eqiMMbaeUZ32Q7sS00H35"
     },
     {
       "added_at": null,
@@ -959,6 +959,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pink Friday",
+        "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 212920,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/2E1RGgFtr1X4H6glXOtABo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 234413,
       "name": "Flawless Remix (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/0zVMzJ37VQNFUNvdxxat2E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Friday",
-        "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 212920,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/2E1RGgFtr1X4H6glXOtABo"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: MAY-A",
+  "description": "New and local indie noise. Cover: Lotte Gallagher",
   "name": "Local Noise",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 233034,
       "name": "'Til Kingdom Come",
       "url": "https://open.spotify.com/track/4zR1HXnD4sqt1UGf7dFsgn"
+    },
+    {
+      "album": {
+        "name": "100% PURE POISON",
+        "url": "https://open.spotify.com/album/2DTnBPRXFSIwoBE5PN5doe"
+      },
+      "artists": [
+        {
+          "name": "Dead Mall",
+          "url": "https://open.spotify.com/artist/4gQc96YtGmZ6IQkdzmRzqV"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202812,
+      "name": "100% PURE POISON",
+      "url": "https://open.spotify.com/track/0hm17IdBc4UM0pUuph3lmV"
     },
     {
       "album": {
@@ -222,6 +240,24 @@
       "duration_ms": 198786,
       "name": "A Little More",
       "url": "https://open.spotify.com/track/102ije0G4zfAUBsLV5wVkW"
+    },
+    {
+      "album": {
+        "name": "Accomplice",
+        "url": "https://open.spotify.com/album/6vPCMylSb8OVpdTj1VWwCb"
+      },
+      "artists": [
+        {
+          "name": "The Vanns",
+          "url": "https://open.spotify.com/artist/7CFtg726anbQC3CY0glRDG"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283160,
+      "name": "Accomplice",
+      "url": "https://open.spotify.com/track/46ywwjXiSMwkQb2VP78Uqi"
     },
     {
       "album": {
@@ -600,7 +636,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 192615,
       "name": "Ashamed That You Hate It",
       "url": "https://open.spotify.com/track/4dqbCKCkSXFPqBy2yNmMlw"
@@ -1180,7 +1216,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 214640,
       "name": "Bread & Buttered Leather",
       "url": "https://open.spotify.com/track/1GhToq4YPDfh4a75LIThIY"
@@ -1828,7 +1864,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 244000,
       "name": "Coast Is Clear",
       "url": "https://open.spotify.com/track/5dbLTvBFljxGLHnuxrUKck"
@@ -4621,6 +4657,24 @@
     },
     {
       "album": {
+        "name": "Inspired To Do Nothing",
+        "url": "https://open.spotify.com/album/0ZAtlrTaINcscNU9mHB9YQ"
+      },
+      "artists": [
+        {
+          "name": "Pur\u00e9e",
+          "url": "https://open.spotify.com/artist/4wBguEl200jafxtVjWKPwa"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161658,
+      "name": "Inspired To Do Nothing",
+      "url": "https://open.spotify.com/track/16Qz0r7dMIeUaehBX0NwH3"
+    },
+    {
+      "album": {
         "name": "Into The Sun",
         "url": "https://open.spotify.com/album/6OElbL5ap50DU21ARoo1zJ"
       },
@@ -5054,7 +5108,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 211705,
       "name": "LCD",
       "url": "https://open.spotify.com/track/2uR01tcAXfzD99eaKQJvBT"
@@ -5256,6 +5310,24 @@
       "duration_ms": 163489,
       "name": "Living Less",
       "url": "https://open.spotify.com/track/5d9xpprlYS5lLRTFebBCJE"
+    },
+    {
+      "album": {
+        "name": "Loki Horror Picture Show",
+        "url": "https://open.spotify.com/album/5rowQI2ySKjc7ojzi7lYel"
+      },
+      "artists": [
+        {
+          "name": "Selve",
+          "url": "https://open.spotify.com/artist/033lztbwXp7jXxOGHAkZOL"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222642,
+      "name": "Loki Horror Picture Show",
+      "url": "https://open.spotify.com/track/76qexjWA6zwpxYgiUBtsFj"
     },
     {
       "album": {
@@ -6239,6 +6311,24 @@
     },
     {
       "album": {
+        "name": "No Joy",
+        "url": "https://open.spotify.com/album/1HbbRnWZ0mMVKHj9PsCUk7"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197280,
+      "name": "No Joy",
+      "url": "https://open.spotify.com/track/3p1UaNpImYT3nrIy1reGJ6"
+    },
+    {
+      "album": {
         "name": "ONLY ONE MODE",
         "url": "https://open.spotify.com/album/6oAIXc1WpYw66bMdyYNcu9"
       },
@@ -6452,7 +6542,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 210729,
       "name": "On Fire",
       "url": "https://open.spotify.com/track/1u13t9rjkFTxG61LuYu1Wf"
@@ -6614,7 +6704,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 207609,
       "name": "One Way Ticket",
       "url": "https://open.spotify.com/track/3E7cZPWJA0qfZgZjzSEW8U"
@@ -7277,6 +7367,24 @@
     },
     {
       "album": {
+        "name": "PTRCK",
+        "url": "https://open.spotify.com/album/5GyYnIKSicvq3ogUg15Lev"
+      },
+      "artists": [
+        {
+          "name": "Lotte Gallagher",
+          "url": "https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152511,
+      "name": "PTRCK",
+      "url": "https://open.spotify.com/track/0IhSSRDZyXYZ63KK83O8Fn"
+    },
+    {
+      "album": {
         "name": "Pyromaniac",
         "url": "https://open.spotify.com/album/7qVcvexLdcv1E632W9UWbD"
       },
@@ -7540,7 +7648,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 187417,
       "name": "Restless",
       "url": "https://open.spotify.com/track/6Y8CQEn4cPaMa0VpHQqTql"
@@ -8747,6 +8855,24 @@
     },
     {
       "album": {
+        "name": "Strange Place",
+        "url": "https://open.spotify.com/album/4RejF2vhT7y1NwE080Hy0i"
+      },
+      "artists": [
+        {
+          "name": "The Living End",
+          "url": "https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170939,
+      "name": "Strange Place",
+      "url": "https://open.spotify.com/track/0mz5SWYPnVLjReRyOB5ItI"
+    },
+    {
+      "album": {
         "name": "Strategic Living",
         "url": "https://open.spotify.com/album/001KfZOxEZMsbUQFTSDPj8"
       },
@@ -8992,7 +9118,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 175714,
       "name": "Sweet And Slow",
       "url": "https://open.spotify.com/track/63aIDsVrBdXBng6Rd9dLkH"
@@ -9864,7 +9990,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 218026,
       "name": "Torn to Shreds",
       "url": "https://open.spotify.com/track/12sDyBT4yMSYmfDvB77k8l"
@@ -10034,6 +10160,24 @@
       "duration_ms": 218204,
       "name": "Uncharted Waters",
       "url": "https://open.spotify.com/track/4twKmUEECPq706wh3UK0iy"
+    },
+    {
+      "album": {
+        "name": "UNSCARRED",
+        "url": "https://open.spotify.com/album/6czRU4J9bxMfsn2NFKPrId"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181559,
+      "name": "UNSCARRED",
+      "url": "https://open.spotify.com/track/4NCCOQLzOJxor8Jv7nTEGx"
     },
     {
       "album": {
@@ -10397,6 +10541,28 @@
     },
     {
       "album": {
+        "name": "Without A Leash",
+        "url": "https://open.spotify.com/album/1PoVxeILFRcHEiYOCqe7fm"
+      },
+      "artists": [
+        {
+          "name": "Seaside",
+          "url": "https://open.spotify.com/artist/12A9HO7R8JCU46t4HiVQqH"
+        },
+        {
+          "name": "Baden Donegal",
+          "url": "https://open.spotify.com/artist/01pVW0ud23Z7IbehPQzwGs"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207167,
+      "name": "Without A Leash",
+      "url": "https://open.spotify.com/track/09ke253nvh377Jm3tATZVT"
+    },
+    {
+      "album": {
         "name": "WOLFGANG",
         "url": "https://open.spotify.com/album/3mJP6hRjQNjKBVMSh3sN6n"
       },
@@ -10426,7 +10592,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 187304,
       "name": "Worth My Time",
       "url": "https://open.spotify.com/track/0JAuDzXHjs0hn960PRWBv2"

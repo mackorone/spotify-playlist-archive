@@ -4,7 +4,7 @@
 
 > Switzerland's biggest hits right now\. Cover: Hecht
 
-251 songs - 12 hr 32 min
+252 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Stars Will Align](https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Stars Will Align](https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj) | 3:54 | 2024-10-01 | 2024-12-18 |
 | [STORIE BREVI](https://open.spotify.com/track/5GZupy8zByqFmXvpwZ4JOC) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [STORIE BREVI](https://open.spotify.com/album/6c4p2PNyp5Ek43s2IDX5Vh) | 2:55 | 2024-08-27 | 2024-09-18 |
 | [Stäffisburg](https://open.spotify.com/track/50rtbFg8mURiWLHrddBc1K) | [Patent Ochsner](https://open.spotify.com/artist/4Cfx9c45o8GigUIYzDie9B) | [Stäffisburg](https://open.spotify.com/album/5uU2oneRjOxbus8C48tuLF) | 4:17 | 2025-02-04 | 2025-03-05 |
+| [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 | 2025-06-26 |  |
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 | 2024-11-05 | 2025-05-16 |
 | [Ta Dish](https://open.spotify.com/track/1wsPoRgq7YHynxICyD6ynT) | [Dafina Zeqiri](https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ) | [Ta Dish](https://open.spotify.com/album/1gytUcD72JIBO4iL1EDiPv) | 3:01 | 2024-10-22 | 2024-12-31 |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-08-27 | 2024-11-20 |
@@ -230,7 +231,7 @@
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-09 | 2024-09-18 |
 | [Triple V](https://open.spotify.com/track/130LHCKVY5eg7srkPoMOnm) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Triple V](https://open.spotify.com/album/1E7lp3WzdiQxLeuuqbgaaE) | 3:13 | 2025-04-16 | 2025-05-08 |
 | [Tu Menu](https://open.spotify.com/track/0JR4GYzq9rcnD4uaHp8szM) | [Butrint Imeri](https://open.spotify.com/artist/3oo88ul6DPnYZwZG4CZBTY) | [Tu Menu](https://open.spotify.com/album/0dmyhAlQeH2wDAqXzD0aWT) | 2:48 | 2024-07-02 | 2024-08-28 |
-| [Tutto Bene](https://open.spotify.com/track/7iOadzb2kNGSR0vuZk1DD9) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Tutto Bene](https://open.spotify.com/album/6hp9ryEwD5QwQ7uztaEcMD) | 3:39 | 2025-06-13 |  |
+| [Tutto Bene](https://open.spotify.com/track/7iOadzb2kNGSR0vuZk1DD9) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Tutto Bene](https://open.spotify.com/album/6hp9ryEwD5QwQ7uztaEcMD) | 3:39 | 2025-06-13 | 2025-06-27 |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-04-02 | 2025-05-08 |
 | [Underwater](https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Underwater](https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I) | 2:44 | 2025-03-18 | 2025-06-04 |
 | [Unsicher](https://open.spotify.com/track/2GN2pbQi4Yz7Qp99Wbp2vZ) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Unsicher](https://open.spotify.com/album/4YRMSEy1QmyGeUUxiZyk8S) | 2:18 | 2025-04-08 | 2025-06-04 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Bull Brigade e Giancane in cover ",
+  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Sofia Gobbi in cover ",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -3291,6 +3291,24 @@
     },
     {
       "album": {
+        "name": "Bugie",
+        "url": "https://open.spotify.com/album/09GBBtn7rgAVCigN6nb0Fk"
+      },
+      "artists": [
+        {
+          "name": "Feava",
+          "url": "https://open.spotify.com/artist/3SfiU1vN892diMx36GOJFW"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201053,
+      "name": "Bugie",
+      "url": "https://open.spotify.com/track/7KNUKFijQMWdPJVdi07RKe"
+    },
+    {
+      "album": {
         "name": "Buianotte",
         "url": "https://open.spotify.com/album/4B8gH29xs7bQ4mk2ll1SwP"
       },
@@ -3310,7 +3328,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 228885,
       "name": "Buianotte",
       "url": "https://open.spotify.com/track/1bqoLYddCR5bEglt5AV0hY"
@@ -3778,6 +3796,24 @@
       "duration_ms": 190843,
       "name": "CAMALEONTI",
       "url": "https://open.spotify.com/track/3abXTive6mnRQ9b1GdlJBq"
+    },
+    {
+      "album": {
+        "name": "Cambio Di Scena",
+        "url": "https://open.spotify.com/album/3t6tgc9xYZ9wTJpnIyFNx3"
+      },
+      "artists": [
+        {
+          "name": "SPEAKEASY",
+          "url": "https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190285,
+      "name": "Cambio Di Scena",
+      "url": "https://open.spotify.com/track/0nXGXJD1kRrJCmPHWLjqIX"
     },
     {
       "album": {
@@ -10033,6 +10069,24 @@
     },
     {
       "album": {
+        "name": "Giobbe",
+        "url": "https://open.spotify.com/album/7lQ8wfvbVUpDwvIa3it2Gz"
+      },
+      "artists": [
+        {
+          "name": "Bouganville",
+          "url": "https://open.spotify.com/artist/5wcaCE2ZVnSUamt3lzm3uI"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228040,
+      "name": "Giobbe",
+      "url": "https://open.spotify.com/track/22SxdMqyK2YgAT7THwh32a"
+    },
+    {
+      "album": {
         "name": "Antenne (feat. Crookers)",
         "url": "https://open.spotify.com/album/4MiELIzDhy1Wkg3P8ctCE3"
       },
@@ -10899,6 +10953,24 @@
     },
     {
       "album": {
+        "name": "hold you down",
+        "url": "https://open.spotify.com/album/2KlUcXnIxf7bA7AimMzUPB"
+      },
+      "artists": [
+        {
+          "name": "Orbit Service",
+          "url": "https://open.spotify.com/artist/1Ebw2dMuB90FgMsddepveL"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298166,
+      "name": "hold you down",
+      "url": "https://open.spotify.com/track/6AssdoPaRJS8VzmgK1L7w1"
+    },
+    {
+      "album": {
         "name": "Windows of My House (Pastimes Vol. III)",
         "url": "https://open.spotify.com/album/5ZULctCGzLPmsTUFXtwC4T"
       },
@@ -11465,6 +11537,28 @@
     },
     {
       "album": {
+        "name": "QUATTRO",
+        "url": "https://open.spotify.com/album/6qJcWI2d8ngvgjRRrRpMw4"
+      },
+      "artists": [
+        {
+          "name": "Captain Quentin",
+          "url": "https://open.spotify.com/artist/7IMh6BewwMs6j7dYkkTjFm"
+        },
+        {
+          "name": "Max Collini",
+          "url": "https://open.spotify.com/artist/3tOrLl8dmGYZyrAfid0Gqd"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184693,
+      "name": "IL FANTASMA",
+      "url": "https://open.spotify.com/track/5GHXpgAkQOTYwyt6o99Jfp"
+    },
+    {
+      "album": {
         "name": "Il fondo",
         "url": "https://open.spotify.com/album/1V8RFgIucDguNn7nIpqBsi"
       },
@@ -11924,7 +12018,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 209763,
       "name": "In mio fratello \u00e8 tutto a posto",
       "url": "https://open.spotify.com/track/4IBYpO3ilZXMZuTMYs5OvM"
@@ -16868,7 +16962,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 152239,
       "name": "Nella regione della notte infinita",
       "url": "https://open.spotify.com/track/6ue9LNm3XGMtpR2Xprqc8y"
@@ -17461,6 +17555,28 @@
     },
     {
       "album": {
+        "name": "Non ho pi\u00f9 sangue per te",
+        "url": "https://open.spotify.com/album/3t59zpqiH1n5EIj7Q3fTso"
+      },
+      "artists": [
+        {
+          "name": "Gardenia",
+          "url": "https://open.spotify.com/artist/5N8nI9X3kxma1F7KV6AMFx"
+        },
+        {
+          "name": "Le Endrigo",
+          "url": "https://open.spotify.com/artist/19iWcNNkOaOpcFtSRF7q5a"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228654,
+      "name": "Non ho pi\u00f9 sangue per te",
+      "url": "https://open.spotify.com/track/13CRRDcmr1NivSs4dG5izX"
+    },
+    {
+      "album": {
         "name": "Ansia Capitale (Deluxe)",
         "url": "https://open.spotify.com/album/4oX0npmfoZDVSyTbvQec4h"
       },
@@ -17863,6 +17979,24 @@
     },
     {
       "album": {
+        "name": "Nu Crash",
+        "url": "https://open.spotify.com/album/7h6AwEkfQM9OuquYFUNErF"
+      },
+      "artists": [
+        {
+          "name": "i.blame",
+          "url": "https://open.spotify.com/artist/2rVTrj50dRoFFeV5ePxjfb"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "Nu Crash",
+      "url": "https://open.spotify.com/track/7AIvdcvikbJphZ663gp1Xe"
+    },
+    {
+      "album": {
         "name": "Nubifragio",
         "url": "https://open.spotify.com/album/5L9oWRa76veQN7AFo0KQhX"
       },
@@ -18040,7 +18174,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 141490,
       "name": "oblivious",
       "url": "https://open.spotify.com/track/6p8uIkWuQc4H4F1kYmJ86h"
@@ -19278,7 +19412,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 292750,
       "name": "Per te, che non ci sarai pi\u00f9",
       "url": "https://open.spotify.com/track/409DmlqsE3ofDL9y7DLPwA"
@@ -19520,7 +19654,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 206778,
       "name": "pigmalione",
       "url": "https://open.spotify.com/track/2yS8bF50zVlCXQfFpwU10N"
@@ -23061,6 +23195,24 @@
     },
     {
       "album": {
+        "name": "slow down",
+        "url": "https://open.spotify.com/album/5eBEcVzClWn1sL4yzfdDSg"
+      },
+      "artists": [
+        {
+          "name": "georgia, georgia",
+          "url": "https://open.spotify.com/artist/08O0sKRCrDDxVnduKUQNH6"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143079,
+      "name": "slow down",
+      "url": "https://open.spotify.com/track/5tdSu7tH9X8VmLHh0oiFa0"
+    },
+    {
+      "album": {
         "name": "Lila / Smelly Floor",
         "url": "https://open.spotify.com/album/2uSXyCD1uHUiDRA1Jb6dRa"
       },
@@ -23180,7 +23332,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 179026,
       "name": "Sole zingaro",
       "url": "https://open.spotify.com/track/3qUB1vQkBzjOjxpsaKhc4e"
@@ -23256,6 +23408,24 @@
       "duration_ms": 218186,
       "name": "Son of the Rambling Dawn",
       "url": "https://open.spotify.com/track/5ff4r3TKIiDmrSu1yrSqRo"
+    },
+    {
+      "album": {
+        "name": "Sono Buono / AI Jagwari",
+        "url": "https://open.spotify.com/album/32ymfiq8aMgYpitV70aNo3"
+      },
+      "artists": [
+        {
+          "name": "JAGWARI",
+          "url": "https://open.spotify.com/artist/7lEA9nHCMpZmdjHjKaZFns"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129459,
+      "name": "Sono buono",
+      "url": "https://open.spotify.com/track/5DEwa64FhVBNhyRtSsKijA"
     },
     {
       "album": {
@@ -23422,7 +23592,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 214146,
       "name": "spacco tutto (feat. Meg)",
       "url": "https://open.spotify.com/track/3wbuxp0jrSNbgHn6pIeAYG"
@@ -26327,6 +26497,24 @@
     },
     {
       "album": {
+        "name": "ULTIMA",
+        "url": "https://open.spotify.com/album/0xxewYw210JQu9WI39AXFf"
+      },
+      "artists": [
+        {
+          "name": "LACRIMA",
+          "url": "https://open.spotify.com/artist/4uGw3tYUWqQiIaOWEEwW14"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "ULTIMA",
+      "url": "https://open.spotify.com/track/0OFsFGe3yGqGsCvFpKJq53"
+    },
+    {
+      "album": {
         "name": "Ultima canzone",
         "url": "https://open.spotify.com/album/63FOlSOwRjcw1eAhml9p2i"
       },
@@ -27634,6 +27822,24 @@
       "duration_ms": 220312,
       "name": "Vortice",
       "url": "https://open.spotify.com/track/6RA1qE9WbVXmWdLWmjN8Z3"
+    },
+    {
+      "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/77HX95KM7WtzjkeIEnRbJL"
+      },
+      "artists": [
+        {
+          "name": "BRX!T",
+          "url": "https://open.spotify.com/artist/6kBpa0gW1AJobWbaKOoi6Z"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202285,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/4rYYY9DPDLDr2NWwxLSh1k"
     },
     {
       "album": {

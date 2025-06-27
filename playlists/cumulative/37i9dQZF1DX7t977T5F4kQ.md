@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest and recent Ghana party starters\. Cover: AratheJay
+> The hottest and recent Ghana party starters\. Cover: RCEE
 
-512 songs - 1 day 2 hr 34 min
+513 songs - 1 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Affairs](https://open.spotify.com/track/7jbLmF56d83iYzKZMnwP8a) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx) | [Affairs](https://open.spotify.com/album/4G7HCFjj6K39ELUmXSO49G) | 2:44 | 2023-04-20 | 2023-06-23 |
 | [Afrafranto](https://open.spotify.com/track/4Nr8zmrAdnJBnFs4CpMxnr) | [Limuel](https://open.spotify.com/artist/3NBnMiLgFDVmRmPEFTaWT8) | [Afrafranto](https://open.spotify.com/album/6eaqs8ArRnHL7kpSeqj4mK) | 3:21 | 2024-01-12 | 2024-02-23 |
 | [Africa Money](https://open.spotify.com/track/6kQlDRYfRhzjfisBceYJkJ) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Africa Money](https://open.spotify.com/album/7kpWSh8UcAGkcxZVUibqCh) | 2:23 | 2023-10-27 | 2023-11-10 |
+| [Agenda](https://open.spotify.com/track/6GRVM5wxyW45UMpgreSWW6) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb) | [Agenda](https://open.spotify.com/album/1WJBC1VH6AkS5JXChdxcf1) | 2:16 | 2025-06-27 |  |
 | [Agya](https://open.spotify.com/track/3mkxopCUD9KXldJJ1c743w) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Agya](https://open.spotify.com/album/5RRH1A3hPL1TvcOseyuEOn) | 2:18 | 2025-03-14 | 2025-04-08 |
 | [Ahoufe](https://open.spotify.com/track/4XU0t33ITYzP8D0YroWBRV) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mamba Sounds](https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN) | [Ahoufe](https://open.spotify.com/album/6eYHMWlLzFeUZChXI7raVY) | 2:58 | 2023-08-11 | 2023-09-15 |
 | [Akohwie](https://open.spotify.com/track/1d51OuwXfGfc6PwWezrwTS) | [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P) | [Akohwie](https://open.spotify.com/album/5YHo8SQnebWXMA43Qoos51) | 2:54 | 2023-05-12 | 2023-05-20 |

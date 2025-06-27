@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,427,653 likes - 156 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,427,316 likes - 156 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aragonese](https://open.spotify.com/track/3bN2VEtYuFV2GjEHmfxTI3) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Aragonese](https://open.spotify.com/album/7xumXPGEwMrYVOb4pk6ANG) | 2:14 |
 | 2 | [L'or du temps](https://open.spotify.com/track/4GLHnYC81ZvMcQuChl19gk) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [L'or du temps](https://open.spotify.com/album/6Tab6Rsk2duWXaPseT2GHp) | 2:18 |
 | 3 | [The inner core](https://open.spotify.com/track/6a2tb8bOrFn6S5jbdt5f3j) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [The inner core](https://open.spotify.com/album/7jBoh80XYgDNl8RVL0txEq) | 2:13 |
-| 4 | [Catching the Wind](https://open.spotify.com/track/5F6eiRwJQyVl8TLtNhGL3k) | [Börn Visor](https://open.spotify.com/artist/6MWFWTJoRkiPVQzwvmrXai) | [Catching the Wind](https://open.spotify.com/album/7kYsXRcPUW3sckQsgySIUI) | 2:01 |
-| 5 | [Waiting](https://open.spotify.com/track/2Op8mcs875f93h8KjjtBlA) | [Erinthe](https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M) | [Waiting](https://open.spotify.com/album/7fw4WuMN09PVhrGjcqOLAL) | 2:05 |
-| 6 | [Proposals](https://open.spotify.com/track/5pKBj0c5JXnzq8NBGTcsuE) | [M\. Ljungström](https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR) | [Proposals](https://open.spotify.com/album/3TJwMwAI6ZKk7Mnc2ogwK0) | 2:17 |
+| 4 | [Proposals](https://open.spotify.com/track/5pKBj0c5JXnzq8NBGTcsuE) | [M\. Ljungström](https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR) | [Proposals](https://open.spotify.com/album/3TJwMwAI6ZKk7Mnc2ogwK0) | 2:17 |
+| 5 | [Catching the Wind](https://open.spotify.com/track/5F6eiRwJQyVl8TLtNhGL3k) | [Börn Visor](https://open.spotify.com/artist/6MWFWTJoRkiPVQzwvmrXai) | [Catching the Wind](https://open.spotify.com/album/7kYsXRcPUW3sckQsgySIUI) | 2:01 |
+| 6 | [Waiting](https://open.spotify.com/track/2Op8mcs875f93h8KjjtBlA) | [Erinthe](https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M) | [Waiting](https://open.spotify.com/album/7fw4WuMN09PVhrGjcqOLAL) | 2:05 |
 | 7 | [Hope 希望](https://open.spotify.com/track/3urizsCookzGTWmwl5zS3M) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Hope 希望](https://open.spotify.com/album/388eJjJEdCAnY07p4xHRYy) | 3:14 |
 | 8 | [Skyward](https://open.spotify.com/track/2qFujpWVqfb1kXJaMouLWr) | [Finley Rhone](https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V) | [Skyward](https://open.spotify.com/album/4vSY1jflRK7V4o13WC92f1) | 2:19 |
 | 9 | [Rewind](https://open.spotify.com/track/6vNeLU4DFoFbCihyqYYjKa) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Rewind](https://open.spotify.com/album/33b3wSOh9CZ4oex91USFX1) | 2:26 |
 | 10 | [Rivers Wide](https://open.spotify.com/track/6CKxNZvRKtUSCmumhtmI6r) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Rivers Wide](https://open.spotify.com/album/23SAyFDy3jUqDNArqcJ87k) | 2:57 |
-| 11 | [Bølgene](https://open.spotify.com/track/2AkfsWt3ZtzqkvMN6q3g2t) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Bølgene](https://open.spotify.com/album/4gBUCW3OYJTPtpiKK9nIGa) | 2:50 |
-| 12 | [Viaggio](https://open.spotify.com/track/6fr5ojni7gVUkfLafVXb2R) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Viaggio](https://open.spotify.com/album/3Kq2tqhyD2bGvp78aQkxsH) | 2:38 |
-| 13 | [wiser](https://open.spotify.com/track/08Pl5hHpZcYdeh1LvME7Tk) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [wiser](https://open.spotify.com/album/7iQrGXKP4T0N1c6wRfHU3L) | 2:30 |
-| 14 | [Lost in the Library](https://open.spotify.com/track/6OegSW1Xm2gyfwU9zZUkwU) | [Claude Leon](https://open.spotify.com/artist/6CaYrWBRxJNLRd95uQ6uLC) | [Lost in the Library](https://open.spotify.com/album/1y2cH530QIZ5EAveiJZOlP) | 2:34 |
-| 15 | [A Scene From a Memory](https://open.spotify.com/track/4FdFpWv4nrAMzrtZ6gnNPM) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [A Scene From a Memory](https://open.spotify.com/album/149K4TCTEEYy3PsGC2gpc2) | 2:15 |
+| 11 | [wiser](https://open.spotify.com/track/08Pl5hHpZcYdeh1LvME7Tk) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [wiser](https://open.spotify.com/album/7iQrGXKP4T0N1c6wRfHU3L) | 2:30 |
+| 12 | [Bølgene](https://open.spotify.com/track/2AkfsWt3ZtzqkvMN6q3g2t) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Bølgene](https://open.spotify.com/album/4gBUCW3OYJTPtpiKK9nIGa) | 2:50 |
+| 13 | [Viaggio](https://open.spotify.com/track/6fr5ojni7gVUkfLafVXb2R) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Viaggio](https://open.spotify.com/album/3Kq2tqhyD2bGvp78aQkxsH) | 2:38 |
+| 14 | [A Scene From a Memory](https://open.spotify.com/track/4FdFpWv4nrAMzrtZ6gnNPM) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [A Scene From a Memory](https://open.spotify.com/album/149K4TCTEEYy3PsGC2gpc2) | 2:15 |
+| 15 | [Lost in the Library](https://open.spotify.com/track/6OegSW1Xm2gyfwU9zZUkwU) | [Claude Leon](https://open.spotify.com/artist/6CaYrWBRxJNLRd95uQ6uLC) | [Lost in the Library](https://open.spotify.com/album/1y2cH530QIZ5EAveiJZOlP) | 2:34 |
 | 16 | [Token](https://open.spotify.com/track/0hB3bysyufVO1pUCj1rYwS) | [Farsjön](https://open.spotify.com/artist/1JVGbsUCqcTgrQP6qc3LEe) | [Token](https://open.spotify.com/album/4uL1RDBqy4Ji6D8UaEUwlE) | 3:16 |
 | 17 | [Quickly](https://open.spotify.com/track/6GeD8T4CuI2ifhJ2GXB4Jx) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Quickly](https://open.spotify.com/album/3yaJ6o9vfgfnuUacHrzego) | 2:10 |
 | 18 | [Lost in Motion](https://open.spotify.com/track/2QGLeDJPGvdu9wZgyYOxHx) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Lost in Motion](https://open.spotify.com/album/2gRYWqDlxWKCDcHFO0jMCf) | 3:12 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 155 | [Wild Horses Run Free](https://open.spotify.com/track/3XMWBL5SaKwYyuxXcEXJF1) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Wild Horses Run Free](https://open.spotify.com/album/0B4k5ZQpiRRVXhwYXF9Sni) | 2:34 |
 | 156 | [Awakening](https://open.spotify.com/track/7IwHCgH4i9MiJxT7jEhZ31) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Awakening](https://open.spotify.com/album/5oaWGoZ0WMSEQolzeQzeer) | 2:02 |
 
-Snapshot ID: `aEf/BQAAAAAGntNJ2NTh8hmT22xSgYy7`
+Snapshot ID: `aFz35gAAAAAZDBXBROMRnQdYrD8QMyni`

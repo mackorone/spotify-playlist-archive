@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 
 > Listen to Kitsuné’s essential tracks from historic label artists to up\-and\-coming music gems.
 
-[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 49,644 likes - 53 songs - 3 hr 4 min
+[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 49,648 likes - 55 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,5 +61,7 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 | 51 | [I Love London](https://open.spotify.com/track/7j6HqLDQMddPZmONOcVhkZ) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Kitsuné: I Love London \(Bonus Track Version\)](https://open.spotify.com/album/2J24W5mcPK5ovDehJA2fPr) | 2:50 |
 | 52 | [Gypsy Woman \(She's Homeless\) \- House Kitsuné America](https://open.spotify.com/track/4mCk2GnFtnSGN8qzaV8xKu) | [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [Gypsy Woman \(She's Homeless\) \[House Kitsuné America\]](https://open.spotify.com/album/0b1ex0LTG3T89fdnzDveVF) | 4:29 |
 | 53 | [Be with You Tonight](https://open.spotify.com/track/2opgPV5Slxx13Cu9bIaArt) | [Valère](https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs), [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [Be with You Tonight](https://open.spotify.com/album/5ekFu16M8ZCHl1zsLFqd6o) | 3:39 |
+| 54 | [Liquid Bodies](https://open.spotify.com/track/5IqpiBuuTzdDeI0OSa4Y5f) | [2FA](https://open.spotify.com/artist/5aNRQu2IzF90FAIXbFQq4n), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Liquid Bodies](https://open.spotify.com/album/6HRNxOIua8QIrQcQJo6khj) | 6:05 |
+| 55 | [Orbit](https://open.spotify.com/track/4Chh48sJvF2SF0ROHaRo30) | [2FA](https://open.spotify.com/artist/5aNRQu2IzF90FAIXbFQq4n), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Liquid Bodies](https://open.spotify.com/album/6HRNxOIua8QIrQcQJo6khj) | 6:05 |
 
-Snapshot ID: `AAAMNK6H+rugqSZzN6WyXR7v4y8vW12l`
+Snapshot ID: `AAAMNXVIZJPq6FW3WDkRcI7Ch9ARwJKm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 873 songs - 2 day 6 hr 31 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 874 songs - 2 day 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -881,5 +881,6 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 871 | [Tidal Wave](https://open.spotify.com/track/0htLu08TAzKUzPg3zeZPn1) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Getting Into Knives](https://open.spotify.com/album/7vc7yVbrVGVAT22WbtLSyd) | 5:25 |
 | 872 | [Pez Dorado](https://open.spotify.com/track/3egp2XXVJqXsUDXCitx4Tf) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Getting Into Knives](https://open.spotify.com/album/7vc7yVbrVGVAT22WbtLSyd) | 4:56 |
 | 873 | [Watching Him Fade Away](https://open.spotify.com/track/2QzKAF0y1BQhxwg8N05Uog) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 2:23 |
+| 874 | [HOODLUMZ \(with PlayThatBoiZay & A$AP Rocky\)](https://open.spotify.com/track/6GkAi85HSZGqJwzYC2qXyI) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [King Of The Mischievous South Vol\. 2](https://open.spotify.com/album/6LoDd1G8en4TcqdSg7yqrV) | 2:09 |
 
-Snapshot ID: `AAAHDgKLAQt5HshU1tZ2WsPX8ImDY3DY`
+Snapshot ID: `AAAHD9FsfAe70bwdmRrRGG1E/RZgMUIf`

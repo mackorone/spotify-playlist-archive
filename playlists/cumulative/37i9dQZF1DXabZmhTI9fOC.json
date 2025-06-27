@@ -3784,7 +3784,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-12",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -4080,6 +4080,24 @@
       "duration_ms": 202173,
       "name": "Ex's & Oh's",
       "url": "https://open.spotify.com/track/70eDxAyAraNTiD6lx2ZEnH"
+    },
+    {
+      "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159400,
+      "name": "exes",
+      "url": "https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8"
     },
     {
       "album": {
@@ -5670,6 +5688,24 @@
       "duration_ms": 183546,
       "name": "HARD TO LOVE",
       "url": "https://open.spotify.com/track/5ZgvPYl6HLt6lkSayklTHR"
+    },
+    {
+      "album": {
+        "name": "HARD",
+        "url": "https://open.spotify.com/album/3b1SWPjpkf4jEDtnNQdfu4"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172468,
+      "name": "Hardcore",
+      "url": "https://open.spotify.com/track/1LtyzRMTIWgcfnOAMfrZ3a"
     },
     {
       "album": {
@@ -9157,6 +9193,28 @@
     },
     {
       "album": {
+        "name": "Love Me Back",
+        "url": "https://open.spotify.com/album/26tNi6v3WgUXYEvmYq5u2M"
+      },
+      "artists": [
+        {
+          "name": "RITUAL",
+          "url": "https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68"
+        },
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178233,
+      "name": "Love Me Back",
+      "url": "https://open.spotify.com/track/6D8WgDaIuyirn6egGauzVK"
+    },
+    {
+      "album": {
         "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
       },
@@ -10328,7 +10386,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-03",
+      "date_removed": null,
       "duration_ms": 170632,
       "name": "Nothing Left To Say",
       "url": "https://open.spotify.com/track/0MmWWotTfX3P0hRuSzOOkb"
@@ -10368,7 +10426,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 198315,
       "name": "Obsesionada Contigo (Say My Name) - Instrumental",
       "url": "https://open.spotify.com/track/4oTZQruw2bjmqysjcGuZIM"
@@ -11340,6 +11398,24 @@
       "duration_ms": 187958,
       "name": "Proof",
       "url": "https://open.spotify.com/track/3cC5hwcjXlVOrgTpnoc44o"
+    },
+    {
+      "album": {
+        "name": "Pure Imagination",
+        "url": "https://open.spotify.com/album/75bP8N7pTdbW5ytfGQpxmg"
+      },
+      "artists": [
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131531,
+      "name": "Pure Imagination",
+      "url": "https://open.spotify.com/track/4nt1Z3zsqdicx13hXJHKzF"
     },
     {
       "album": {
@@ -14792,7 +14868,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-12",
+      "date_removed": null,
       "duration_ms": 245978,
       "name": "True Romance",
       "url": "https://open.spotify.com/track/3DSIQ2SCR25VwYqkpImpmb"

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-956 songs - 3 day 9 hr 11 min
+957 songs - 3 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,6 +476,7 @@
 | [Lioness \- Francis Mercier Remix](https://open.spotify.com/track/6TgpTpkYneftsKfovhWQiq) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf) | [Lioness \(Francis Mercier Remix\)](https://open.spotify.com/album/3M4JloqZM4lhiM2TTEaeNf) | 3:13 | 2024-08-23 |  |
 | [Little Darling](https://open.spotify.com/track/7nA4uczx7vIhEDoBCUBnT0) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Little Darling](https://open.spotify.com/album/5BgYwykiqPeG8bHdl5WFlA) | 3:40 | 2021-05-26 | 2023-09-30 |
 | [Little Darling \- Joris Voorn Remix](https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Little Darling \(Joris Voorn Remix\)](https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU) | 3:20 | 2023-03-31 | 2024-04-13 |
+| [Lokole](https://open.spotify.com/track/43heTUpqTPKcFZfxyNnPF5) | [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [MANU \(UK\)](https://open.spotify.com/artist/7GHIqxeRBx0oXdgxwkPbu5), [Shammalee](https://open.spotify.com/artist/0YW1YZUJNiGAZLtJ5ytDG2) | [Lokole](https://open.spotify.com/album/2dVgvRKiVAfl0OHeUlHWtF) | 3:55 | 2025-06-13 |  |
 | [Longlivedad](https://open.spotify.com/track/6Lsem2KDi7v69fMRa2xsKC) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Longlivedad](https://open.spotify.com/album/2Ubsb9Ad7pMtEufauD1Kbs) | 3:35 | 2024-08-23 | 2025-02-10 |
 | [Looking at Your Pager \- Solomun Remix](https://open.spotify.com/track/3SrLEavYNM4QQ8IaTySHGT) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Looking At Your Pager \(Solomun Remix\)](https://open.spotify.com/album/7HhVsiE0RjoBhLvE3P1O6u) | 4:28 | 2022-11-18 | 2023-07-30 |
 | [Looking In The Sky \- Radio Edit](https://open.spotify.com/track/4o7tMl7CwHMKKCUDgbZCC9) | [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij), [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE), [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX), [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Paul Brenning](https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6) | [Looking In The Sky](https://open.spotify.com/album/2On5ucuoSWhuQwU5qZcM2Z) | 4:31 | 2022-12-02 | 2023-01-26 |
@@ -688,7 +689,7 @@
 | [Push Me](https://open.spotify.com/track/7GgtQOS5ZySXkzw2Qsl21y) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Push Me](https://open.spotify.com/album/5iPPHGZzzZJYk4rbI2MWAd) | 5:24 | 2023-09-15 | 2024-08-24 |
 | [Pyxis](https://open.spotify.com/track/4VfESynVjdqW2aXQk4SMKs) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Pyxis EP](https://open.spotify.com/album/4HFq51XXEP4uPzcCACtYyT) | 7:44 | 2022-03-11 | 2022-07-26 |
 | [Quetzal](https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Quetzal](https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK) | 7:37 | 2021-04-21 | 2023-02-01 |
-| [Radiance](https://open.spotify.com/track/26Ei09sNb2GAUlKhSMb6n4) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [PÆDE](https://open.spotify.com/artist/0q9ulkly0h5gV9BLdyQGnQ) | [Radiance](https://open.spotify.com/album/1YhHRHvLm1M7gb2vzrGgeQ) | 3:30 | 2025-05-30 |  |
+| [Radiance](https://open.spotify.com/track/26Ei09sNb2GAUlKhSMb6n4) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [PÆDE](https://open.spotify.com/artist/0q9ulkly0h5gV9BLdyQGnQ) | [Radiance](https://open.spotify.com/album/1YhHRHvLm1M7gb2vzrGgeQ) | 3:30 | 2025-05-30 | 2025-06-27 |
 | [Rainchecks In Montreal \- Roy Rosenfeld Remix](https://open.spotify.com/track/5GkhUSAoSz7Pp4F6VIUbVw) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [Roy Rosenfeld](https://open.spotify.com/artist/4YklksA8yDtpluCCh945Sk) | [Rainchecks In Montreal](https://open.spotify.com/album/7hyqsbXob3bcwk8Jml4rfP) | 8:00 | 2023-09-22 | 2024-08-20 |
 | [Ramona](https://open.spotify.com/track/1EroNKATh80TwDZLtPKPNN) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Ramona](https://open.spotify.com/album/25bJfT3QJehxDxwSAOkKIc) | 7:03 | 2021-10-15 | 2022-07-17 |
 | [Rational Utopia](https://open.spotify.com/track/1zZrBI8daxuMRJQqE0CkaO) | [Toto Chiavetta](https://open.spotify.com/artist/0DBwNrdGSluzJl24pHRiOk) | [Rational Utopia](https://open.spotify.com/album/0FFLuWqNeJc2HxROaNDH99) | 8:18 | 2022-06-10 | 2022-08-04 |

@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/60emWBk5kYEXwYqoM20mco"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/2xqI4s8TsrOhhGoWZYoDS2"
+    },
+    {
+      "album": {
         "name": "All My Life",
         "url": "https://open.spotify.com/album/2TLYWMHBDYn3Qor0pC0Rjp"
       },
@@ -536,6 +554,24 @@
       "duration_ms": 187537,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR"
+    },
+    {
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165107,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI"
     },
     {
       "album": {
@@ -1488,7 +1524,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 217183,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/7yD18NJa58SJnzjMTlPRU0"
@@ -2076,7 +2112,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 167000,
       "name": "Dance In The Sunlight",
       "url": "https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F"
@@ -2868,7 +2904,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 171622,
       "name": "D\u00e5rligt Match",
       "url": "https://open.spotify.com/track/432EcFkV6If93xvxEx2Rim"
@@ -4160,7 +4196,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 183670,
       "name": "Glide",
       "url": "https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K"
@@ -6061,6 +6097,28 @@
     },
     {
       "album": {
+        "name": "Katte (feat. Artigeardit)",
+        "url": "https://open.spotify.com/album/7FG45mLhsw5ejuaCg6Folx"
+      },
+      "artists": [
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        },
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130087,
+      "name": "Katte (feat. Artigeardit)",
+      "url": "https://open.spotify.com/track/2jBvbnYDmG01ocNv1AZhHM"
+    },
+    {
+      "album": {
         "name": "Keep It Exciting",
         "url": "https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL"
       },
@@ -6167,6 +6225,24 @@
     },
     {
       "album": {
+        "name": "Kogeplade",
+        "url": "https://open.spotify.com/album/7jRZjDNlJewGL6dbYFP70I"
+      },
+      "artists": [
+        {
+          "name": "Katinka",
+          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156086,
+      "name": "Kogeplade",
+      "url": "https://open.spotify.com/track/3CSmqvgWBYmGUnGqLeXYLC"
+    },
+    {
+      "album": {
         "name": "Koldblodet Killer",
         "url": "https://open.spotify.com/album/4dWDbcViP22VJEBNn4RC57"
       },
@@ -6218,7 +6294,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 173333,
       "name": "Kun Os",
       "url": "https://open.spotify.com/track/43iOu7xPRhZdnKXDgCwyz9"
@@ -6496,7 +6572,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 220978,
       "name": "light years (feat. In\u00e9z)",
       "url": "https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x"
@@ -7494,6 +7570,24 @@
       "duration_ms": 190320,
       "name": "Mr Electric Blue",
       "url": "https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd"
+    },
+    {
+      "album": {
+        "name": "Mr. Cool",
+        "url": "https://open.spotify.com/album/0WWOtu5YJdA6KPxZj9Z6dn"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229868,
+      "name": "Mr. Cool",
+      "url": "https://open.spotify.com/track/5vRvTccr05SrSnqVvNAmVX"
     },
     {
       "album": {
@@ -8756,7 +8850,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-24",
+      "date_removed": null,
       "duration_ms": 184346,
       "name": "Ryggen Mod Muren",
       "url": "https://open.spotify.com/track/5kCbaKeAqsStnSE4QXsvTo"
@@ -9860,7 +9954,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 197796,
       "name": "Sunshine & Rain...",
       "url": "https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo"
@@ -9922,6 +10016,24 @@
       "duration_ms": 202207,
       "name": "Surprise Party",
       "url": "https://open.spotify.com/track/2YXTDtcDhQUiszqGlrF1Iv"
+    },
+    {
+      "album": {
+        "name": "Survive",
+        "url": "https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225211,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
     },
     {
       "album": {
@@ -10772,7 +10884,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 198320,
       "name": "twilight zone",
       "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"
@@ -10928,7 +11040,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 183223,
       "name": "Up From the Bottom",
       "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
@@ -11051,6 +11163,28 @@
     },
     {
       "album": {
+        "name": "Verdens Volume Skruet Op (Peter Sommer X HUGORM)",
+        "url": "https://open.spotify.com/album/0QJ2nSyPkTyVEDADT0dKDI"
+      },
+      "artists": [
+        {
+          "name": "Peter Sommer",
+          "url": "https://open.spotify.com/artist/5EXeUuYgGRA1RnXHqALLDL"
+        },
+        {
+          "name": "HUGORM",
+          "url": "https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Verdens Volume Skruet Op (Peter Sommer X HUGORM)",
+      "url": "https://open.spotify.com/track/5gD5VS7jX349VDIS8ozwZF"
+    },
+    {
+      "album": {
         "name": "Verona",
         "url": "https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9"
       },
@@ -11120,7 +11254,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 206745,
       "name": "Vi ku' g\u00e5 hele vejen",
       "url": "https://open.spotify.com/track/4BXLTcYVt63AL28pQXnxp4"
@@ -11142,7 +11276,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 190000,
       "name": "Vilde \u00d8jne",
       "url": "https://open.spotify.com/track/5hJIRRLXYauzGrqKNXqxux"
@@ -11654,7 +11788,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 162113,
       "name": "You You You",
       "url": "https://open.spotify.com/track/1mAyIS5bC2xrRjsJ6xM86h"

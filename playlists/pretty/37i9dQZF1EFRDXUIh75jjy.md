@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 639 likes - 225 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 640 likes - 225 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 122 | [Bubbles](https://open.spotify.com/track/2Z1hvUB3unIudQSRVGTBC2) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:38 |
 | 123 | [Bad Luck Looks Good On Me](https://open.spotify.com/track/3Blrv2JhHEPT5JFzVAelll) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [What Not To](https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl) | 2:47 |
 | 124 | [Hate It Here](https://open.spotify.com/track/4ppkdy0KDApHApfR5R4OIL) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:46 |
-| 125 | [Plastic Purse](https://open.spotify.com/track/51XzyvRLe38bouIZCv5itX) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:23 |
-| 126 | [Part Time Lover](https://open.spotify.com/track/5swD4enZDl1r6ynQsTGHJa) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Part Time Lover](https://open.spotify.com/album/0OcjuVP8kAUL2LnNUZwjLa) | 2:53 |
+| 125 | [Part Time Lover](https://open.spotify.com/track/5swD4enZDl1r6ynQsTGHJa) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Part Time Lover](https://open.spotify.com/album/0OcjuVP8kAUL2LnNUZwjLa) | 2:53 |
+| 126 | [Plastic Purse](https://open.spotify.com/track/51XzyvRLe38bouIZCv5itX) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:23 |
 | 127 | [Can't Stay Mad](https://open.spotify.com/track/2caU93YaWxERJpGB0ZXnUw) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:27 |
 | 128 | [on my way](https://open.spotify.com/track/2D9VGKzODKblwcTxaxZhIt) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Tulip Drive](https://open.spotify.com/album/20dZqC8aUO4ip6aqAPymYL) | 2:57 |
 | 129 | [I Wanna](https://open.spotify.com/track/1IXfNzFG3JdrjBt8VPDjC6) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Marginalia](https://open.spotify.com/album/6XO4LrNz9pugcgr8K6yh4a) | 3:30 |
@@ -192,9 +192,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 182 | [How Can I Ever Get Over You?](https://open.spotify.com/track/69xgSicH4XO1MqEUyHjGyp) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [How Can I Ever Get Over You?](https://open.spotify.com/album/2oi54SD01JIVD2Y6Ml0J5k) | 2:59 |
 | 183 | [Tell Me](https://open.spotify.com/track/2DDlpZmYVGlkVBJHN2YgSP) | [Chuck Wicks](https://open.spotify.com/artist/696fbyLHSMBSYjDrDU5yiK) | [Turning Point](https://open.spotify.com/album/4M9Twnws1UtTJJvNR60BmG) | 4:00 |
 | 184 | [It's Over For Me](https://open.spotify.com/track/5hKJVvNU3DOsB5bYOA0WKU) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:21 |
-| 185 | [wrong girl](https://open.spotify.com/track/5h5gQnX1FaFVYRhReyGQUV) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [heart theory](https://open.spotify.com/album/4aWrYo1HHAwk367y7PJzIm) | 2:36 |
-| 186 | [Hero](https://open.spotify.com/track/08EDi0A3IRyNO6gQqTeHiG) | [Evermore](https://open.spotify.com/artist/5VWIuZAPbBdtFHdbDyYeHQ) | [Follow The Sun](https://open.spotify.com/album/5m2vLCSE7zvvuMHKJwjSx5) | 4:01 |
-| 187 | [YoYo](https://open.spotify.com/track/2Buz2pUvqM5xT28KuCGZJ7) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [Bodyology](https://open.spotify.com/album/5qok8IPBfEexiGz31oz3H6) | 3:08 |
+| 185 | [YoYo](https://open.spotify.com/track/2Buz2pUvqM5xT28KuCGZJ7) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [Bodyology](https://open.spotify.com/album/5qok8IPBfEexiGz31oz3H6) | 3:08 |
+| 186 | [wrong girl](https://open.spotify.com/track/5h5gQnX1FaFVYRhReyGQUV) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [heart theory](https://open.spotify.com/album/4aWrYo1HHAwk367y7PJzIm) | 2:36 |
+| 187 | [Hero](https://open.spotify.com/track/08EDi0A3IRyNO6gQqTeHiG) | [Evermore](https://open.spotify.com/artist/5VWIuZAPbBdtFHdbDyYeHQ) | [Follow The Sun](https://open.spotify.com/album/5m2vLCSE7zvvuMHKJwjSx5) | 4:01 |
 | 188 | [The Hopefuls](https://open.spotify.com/track/5Gj9gSkK5UggPA9rqKOSsD) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [The Diary of Living](https://open.spotify.com/album/1TnFGuknfiulSWC69uDq3r) | 3:25 |
 | 189 | [better off](https://open.spotify.com/track/6Wey3WDGWqwOJ4b5acKh1u) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 3:04 |
 | 190 | [All That Matters](https://open.spotify.com/track/1t6vYFo0SKUwFlw61yqgzV) | [Nashville Cast](https://open.spotify.com/artist/2NvmDZar6FF2CICK1yBS4I), [Jenny Leigh](https://open.spotify.com/artist/7u5Rv5EbPxXwt5liLsO02O) | [Nashville, Season 6: Episode 16 \(Music from the Original TV Series\)](https://open.spotify.com/album/0cPbP2k3C4sagc9D0J9Zut) | 2:46 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 224 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
 | 225 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `Ab1HcgAAAAAjhG3RIjBC+N0gKeElGG87`
+Snapshot ID: `Ab1NCAAAAAAODmyzelWlKDyPVDsJfTvv`

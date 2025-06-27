@@ -1,13 +1,37 @@
 {
-  "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra",
-  "num_followers": 40408,
+  "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Jagdish, Ayaan, Damini",
+  "num_followers": 40422,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFUpUQAAAAD6bH2QpaFRpoQ9O1Y2J1PX",
+  "snapshot_id": "aF1WjgAAAAC+IV5zWYrfohQuMN97fDJK",
   "tracks": [
+    {
+      "added_at": "2025-06-26 14:17:50",
+      "album": {
+        "name": "Neetho",
+        "url": "https://open.spotify.com/album/3fpTbL64j34pTYS2rloKOJ"
+      },
+      "artists": [
+        {
+          "name": "Jagdish Chintala",
+          "url": "https://open.spotify.com/artist/1Ll6Pj8fy7R3e6ghT2lzVC"
+        },
+        {
+          "name": "Ayaan",
+          "url": "https://open.spotify.com/artist/6spST6ycDQVKJ7ErwvDsjS"
+        },
+        {
+          "name": "Damini Bhatla",
+          "url": "https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Neetho",
+      "url": "https://open.spotify.com/track/2JWW2XxFTitx26C0YzaNEE"
+    },
     {
       "added_at": "2025-04-11 08:27:10",
       "album": {

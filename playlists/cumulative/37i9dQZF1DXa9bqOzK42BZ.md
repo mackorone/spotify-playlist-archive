@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=xhSC5\_ylRBGOp8h5jv25BQ">Joel Lwaga</a>
 
-239 songs - 20 hr 54 min
+240 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Uniongoze Yesu](https://open.spotify.com/track/2V5Bn7Mazl8A7jNQ4fdyTy) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Uniongoze Yesu, Vol.4](https://open.spotify.com/album/01mAHADPk1dOnHMBb1ILbx) | 8:10 | 2022-06-24 | 2023-05-12 |
 | [Unitembeze](https://open.spotify.com/track/2oBx3ML3o6KPiMNz5f2XcL) | [Anitha Musoki](https://open.spotify.com/artist/3y4i8BE5rQEfmjXid5kcmf) | [Unitembeze](https://open.spotify.com/album/2IFh10dWlXvgSvUmLMCeMg) | 4:08 | 2023-07-14 | 2024-10-04 |
 | [Usichelewe](https://open.spotify.com/track/5x8QDSx5hM7esdrYctNlmY) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [Usichelewe](https://open.spotify.com/album/6PpM4u4Xv6dFitIVEJezSq) | 3:36 | 2025-03-14 | 2025-04-18 |
+| [Usikubali](https://open.spotify.com/track/5gBgut3hVjharEPQOnqriU) | [Karura Voices](https://open.spotify.com/artist/1d5SkVdPJfoutTu1HdhpYT) | [Usikubali](https://open.spotify.com/album/0JWlr7UlSqz2Hm44js2e92) | 6:24 | 2025-06-27 |  |
 | [Usiniache \- Remix](https://open.spotify.com/track/44mdd5TPUmYqrir91xg9bX) | [Mr Seed](https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw), [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Usiniache \(Remix\)](https://open.spotify.com/album/2uzf8hKInIrYTMqqbLmez2) | 4:30 | 2023-05-12 | 2023-06-16 |
 | [Utukuzwe](https://open.spotify.com/track/1v2QEyebDcGuDyhfJPpInb) | [Grace Mwai](https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ) | [Kirathimo](https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa) | 4:53 | 2022-06-24 | 2023-05-05 |
 | [Uwezo](https://open.spotify.com/track/2CSXfQMjtbCi0bzPN8JqfM) | [Adawnage](https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3) | [Safari: The Journey](https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy) | 4:41 | 2023-06-16 |  |

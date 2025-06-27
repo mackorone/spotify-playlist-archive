@@ -1,8 +1,52 @@
 {
   "date_first_scraped": "2022-06-15",
-  "description": "Electr\u00f3nica nacional. Portada: Peces Raros.",
+  "description": "Electr\u00f3nica nacional. Portada: Hernan Cattaneo",
   "name": "(AR)",
   "tracks": [
+    {
+      "album": {
+        "name": "2009 EP",
+        "url": "https://open.spotify.com/album/0h1wLzIwrFFFRv1V5kVj6r"
+      },
+      "artists": [
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        },
+        {
+          "name": "Mercurio",
+          "url": "https://open.spotify.com/artist/3RigQlXMmrbr1aJ9w2ujxs"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504935,
+      "name": "2009",
+      "url": "https://open.spotify.com/track/5lPnUd0gsk708DCpqGJCuJ"
+    },
+    {
+      "album": {
+        "name": "2MG",
+        "url": "https://open.spotify.com/album/3Wb3cdp16eMgVKjrbhs9eL"
+      },
+      "artists": [
+        {
+          "name": "METAL DJ CREW",
+          "url": "https://open.spotify.com/artist/0t2wOT0ZQeQdeM97nVF5Yd"
+        },
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "2MG",
+      "url": "https://open.spotify.com/track/1jv0VQexOi8GwEPiHoov0t"
+    },
     {
       "album": {
         "name": "Balance presents The Soundgarden (Unmixed Version)",
@@ -152,6 +196,24 @@
       "duration_ms": 286727,
       "name": "A380",
       "url": "https://open.spotify.com/track/2f7oUjeoSNw64PRWEdGi5S"
+    },
+    {
+      "album": {
+        "name": "Radio From 99",
+        "url": "https://open.spotify.com/album/6Ls5LSA7ZxG6fUyaXrQK5A"
+      },
+      "artists": [
+        {
+          "name": "CCINNI",
+          "url": "https://open.spotify.com/artist/7BgfHp3OpzJmQGUGRXf5wp"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267540,
+      "name": "Acid Morning",
+      "url": "https://open.spotify.com/track/6mu8usH9A5WQejJ1kDSqlI"
     },
     {
       "album": {
@@ -657,6 +719,32 @@
     },
     {
       "album": {
+        "name": "Bitters & Bread (Agustin Giri Remix)",
+        "url": "https://open.spotify.com/album/495LrYqhTXVoZ9IT9gBDEp"
+      },
+      "artists": [
+        {
+          "name": "Agustin Giri",
+          "url": "https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5"
+        },
+        {
+          "name": "AFFKT",
+          "url": "https://open.spotify.com/artist/1VCo9PBRImHKuQyiubNSqF"
+        },
+        {
+          "name": "Island Hill",
+          "url": "https://open.spotify.com/artist/5kClp5xtCJqb9oYkCZN96g"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314543,
+      "name": "Bitters and Bread - Agustin Giri Remix",
+      "url": "https://open.spotify.com/track/5HK9Tcv2G4Fa37O7b55YaF"
+    },
+    {
+      "album": {
         "name": "Black Eleven / Unstoppable",
         "url": "https://open.spotify.com/album/4adC8BXuTnR3HNlNSaPaiL"
       },
@@ -752,7 +840,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 262146,
       "name": "Burning Out",
       "url": "https://open.spotify.com/track/5nCJMCIHpv4rFqSkDWomK0"
@@ -877,6 +965,24 @@
     },
     {
       "album": {
+        "name": "Campe\u00f3n",
+        "url": "https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy"
+      },
+      "artists": [
+        {
+          "name": "ZULAN",
+          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173777,
+      "name": "Campe\u00f3n",
+      "url": "https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0"
+    },
+    {
+      "album": {
         "name": "Can't Breathe (Remixes)",
         "url": "https://open.spotify.com/album/4KDHxYxJ9hfRVpICFKNt6o"
       },
@@ -958,7 +1064,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 380471,
       "name": "Cerca",
       "url": "https://open.spotify.com/track/1hbK6LHdQBxgtVJIOLnbVl"
@@ -1104,7 +1210,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 312000,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/1DOHyT1tEtZYh8J9jvLGzq"
@@ -1224,7 +1330,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 184615,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/2TwTdjD7lHnozBQQryPoyT"
@@ -1361,6 +1467,28 @@
     },
     {
       "album": {
+        "name": "Don't Say",
+        "url": "https://open.spotify.com/album/6RzYVGcgoGb5fZmB2A40Dd"
+      },
+      "artists": [
+        {
+          "name": "Abuk",
+          "url": "https://open.spotify.com/artist/4kYAGDsAQjBYuWNNBJNnNv"
+        },
+        {
+          "name": "Amancay",
+          "url": "https://open.spotify.com/artist/4eHQBG8Mao5Gbwt8dHKX2l"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399344,
+      "name": "Don't Say",
+      "url": "https://open.spotify.com/track/4dDwzooJin3uzoqYsmSEny"
+    },
+    {
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/1CllJIvSgkCwh7CnJXis1G"
       },
@@ -1394,7 +1522,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 458536,
       "name": "Drop",
       "url": "https://open.spotify.com/track/280MAieXlafXYfF6C7lhIl"
@@ -1456,7 +1584,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 392000,
       "name": "El Deseo (Original Mix)",
       "url": "https://open.spotify.com/track/2Pb7uSQ6oDJnejWT7Sgyc4"
@@ -1548,7 +1676,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 260786,
       "name": "En la Ciudad de la Furia (Hernan Cattaneo & Verlk Remix)",
       "url": "https://open.spotify.com/track/6lkkT05V2Vcv9qkt13M8oW"
@@ -1698,7 +1826,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 377380,
       "name": "Faith",
       "url": "https://open.spotify.com/track/0l3VNxrPLf39D79rDcixoE"
@@ -1958,7 +2086,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 534247,
       "name": "Freebird - Emi Galvan Remix",
       "url": "https://open.spotify.com/track/657T8RyBAOE47nqlSvJTZf"
@@ -2429,6 +2557,28 @@
     },
     {
       "album": {
+        "name": "It's a Fact",
+        "url": "https://open.spotify.com/album/7LyViX8VskJdtrLUX4gGkP"
+      },
+      "artists": [
+        {
+          "name": "This & That",
+          "url": "https://open.spotify.com/artist/66kf3vcvdUC9ew1GSb1VC6"
+        },
+        {
+          "name": "Amancay",
+          "url": "https://open.spotify.com/artist/4eHQBG8Mao5Gbwt8dHKX2l"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355680,
+      "name": "It's a Fact",
+      "url": "https://open.spotify.com/track/3aJSp4vpoifHifMOtDDclb"
+    },
+    {
+      "album": {
         "name": "Itaewon",
         "url": "https://open.spotify.com/album/6dfyyA3nH77j2MiFIsnV4R"
       },
@@ -2462,7 +2612,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 470000,
       "name": "Joyride - Matias Chilano Remix",
       "url": "https://open.spotify.com/track/56uP20SR1BHfYp4uoVwpdT"
@@ -2716,10 +2866,28 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 328002,
       "name": "Look Around",
       "url": "https://open.spotify.com/track/1ZiQeSPg0Z47wEJoZB4bFZ"
+    },
+    {
+      "album": {
+        "name": "Knitting",
+        "url": "https://open.spotify.com/album/0T7ePeVsNlQfbuMzVD75Hs"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Tobar",
+          "url": "https://open.spotify.com/artist/5aluWpnmEPLnzbQs691RJM"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367524,
+      "name": "Los Siblings",
+      "url": "https://open.spotify.com/track/4igeY6Vcaf8NZEI6fRpkju"
     },
     {
       "album": {
@@ -2832,10 +3000,32 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 236199,
       "name": "Lullaby of the Seraphim",
       "url": "https://open.spotify.com/track/6wOP3IG5mrLCh4DH0K3VjF"
+    },
+    {
+      "album": {
+        "name": "Manada",
+        "url": "https://open.spotify.com/album/7KNYpYrWUDEH7KGzveOOYi"
+      },
+      "artists": [
+        {
+          "name": "Malena Narvay",
+          "url": "https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i"
+        },
+        {
+          "name": "Oh My Pop!",
+          "url": "https://open.spotify.com/artist/3bagGeYp0001yDSzrxmv6J"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164427,
+      "name": "Manada",
+      "url": "https://open.spotify.com/track/7cPTErYBnaeCq4BRMOCoqB"
     },
     {
       "album": {
@@ -3018,7 +3208,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 306000,
       "name": "Miracle Mornings",
       "url": "https://open.spotify.com/track/0duqkUFhZCaZIT5VCCCf90"
@@ -3233,6 +3423,32 @@
     },
     {
       "album": {
+        "name": "Noche Galactica, Vol. 11 (DJ Mix)",
+        "url": "https://open.spotify.com/album/6higzHaZhDAVNtZSLKVDfD"
+      },
+      "artists": [
+        {
+          "name": "goodkidmadcity",
+          "url": "https://open.spotify.com/artist/3TsQkwBefRbM07sSS8fpSR"
+        },
+        {
+          "name": "Gast\u00f3n Rodr\u00edguez (AR)",
+          "url": "https://open.spotify.com/artist/1AK2nEhsVnIzaV74hVsAtm"
+        },
+        {
+          "name": "VegaZ SL",
+          "url": "https://open.spotify.com/artist/35TmmeuoCIFr1xEP8DazE0"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315965,
+      "name": "Mushrooms - VegaZ SL Remix - Mixed",
+      "url": "https://open.spotify.com/track/4ah25aaGmCtfPI2Q4qP34X"
+    },
+    {
+      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/3i27h5xJ1lwMMdFigWvoVD"
       },
@@ -3385,6 +3601,24 @@
     },
     {
       "album": {
+        "name": "New Opportunity",
+        "url": "https://open.spotify.com/album/7gDd4lGvy8TjfbS0AjJp2S"
+      },
+      "artists": [
+        {
+          "name": "Exile (AR)",
+          "url": "https://open.spotify.com/artist/76yPOLInkrF7cHu6szf0df"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401951,
+      "name": "New Opportunity",
+      "url": "https://open.spotify.com/track/66y15ETMtB3mzKo78fGJIW"
+    },
+    {
+      "album": {
         "name": "Nico Valdi produciendo a Ruggero y Bernardita",
         "url": "https://open.spotify.com/album/33ekTyVf1xcrbvEof3WClm"
       },
@@ -3408,6 +3642,24 @@
       "duration_ms": 163124,
       "name": "Nico Valdi produciendo a Ruggero y Bernardita",
       "url": "https://open.spotify.com/track/08S5L7YbAGwNxDJJ9yU9ZK"
+    },
+    {
+      "album": {
+        "name": "Been Here Before",
+        "url": "https://open.spotify.com/album/6K7h5Fl6Jtu3kAicTlH6lO"
+      },
+      "artists": [
+        {
+          "name": "Cristian Hidalgo",
+          "url": "https://open.spotify.com/artist/6SkhEYWmCaNbsiNv87HzfQ"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483902,
+      "name": "No Explanation Needed",
+      "url": "https://open.spotify.com/track/50dt4blYipSqcesDYgn4Kq"
     },
     {
       "album": {
@@ -3530,7 +3782,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 481000,
       "name": "Out of Mind",
       "url": "https://open.spotify.com/track/41T06CLFEf09tUQSa1ln2m"
@@ -3672,7 +3924,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 512000,
       "name": "Prana Vayu",
       "url": "https://open.spotify.com/track/3QknknkTXnwcy8gEOiTxQY"
@@ -3785,6 +4037,28 @@
     },
     {
       "album": {
+        "name": "Right Place, Right Time",
+        "url": "https://open.spotify.com/album/0twzm14CGnFeRwn1tJpPvS"
+      },
+      "artists": [
+        {
+          "name": "Gowzer",
+          "url": "https://open.spotify.com/artist/2ke98avmWic1zSYheNlWj8"
+        },
+        {
+          "name": "Nicholas Van Orton",
+          "url": "https://open.spotify.com/artist/0z9QG2nBkTjwy6w60xjX5u"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447999,
+      "name": "Right Place, Right Time - Nicholas Van Orton Remix",
+      "url": "https://open.spotify.com/track/4MmRVFNwsCYmIqYo0TImAj"
+    },
+    {
+      "album": {
         "name": "Ringaro",
         "url": "https://open.spotify.com/album/3g6APTOvHsTLFdirpGWtez"
       },
@@ -3872,7 +4146,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 415578,
       "name": "Rival",
       "url": "https://open.spotify.com/track/7nTusO2SiV0C2elBhQuN0H"
@@ -4042,7 +4316,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 241935,
       "name": "Serenade Of",
       "url": "https://open.spotify.com/track/6W4MGvqou0stPjsGDRmFEC"
@@ -4934,7 +5208,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 346134,
       "name": "Undertones 2",
       "url": "https://open.spotify.com/track/4p6A0iRwk566yuZysJdv7z"

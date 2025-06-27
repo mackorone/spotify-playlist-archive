@@ -4,7 +4,7 @@
 
 > 🍾
 
-229 songs - 13 hr 22 min
+230 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Payback](https://open.spotify.com/track/07q1dePaFwOwlx1QSqpWZu) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Payback b/w Into The Blue](https://open.spotify.com/album/64x5zlmwoaVBxV7hd5jPOA) | 3:03 | 2024-05-03 |  |
 | [Petite Etoile](https://open.spotify.com/track/0y0k5s6TpzkTmNxx0r5HDP) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [22:22](https://open.spotify.com/album/6753teQnmjiQTbYlJMajYo) | 4:35 | 2025-03-27 |  |
 | [Peur des filles \- Montmartre Remix](https://open.spotify.com/track/6xRK103p6gJYRMf1knKanW) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Montmartre](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Peur des filles \(Montmartre Remix\)](https://open.spotify.com/album/1vzib5ra2r5t2laFnvgJfO) | 2:46 | 2022-12-08 | 2023-01-28 |
-| [Phases](https://open.spotify.com/track/5nXT7uZL7xCEBnFCpa2uYh) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Phases](https://open.spotify.com/album/35Pjy1frpTpW1UZXLRcgt0) | 3:03 | 2025-04-03 |  |
+| [Phases](https://open.spotify.com/track/5nXT7uZL7xCEBnFCpa2uYh) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Phases](https://open.spotify.com/album/35Pjy1frpTpW1UZXLRcgt0) | 3:03 | 2025-04-03 | 2025-06-27 |
 | [Poundland Anthem](https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Manifesto](https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY) | 5:55 | 2023-06-09 | 2025-03-14 |
 | [Praja Magia](https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS) | 3:20 | 2022-12-08 | 2024-03-23 |
 | [Prayer in C \- Robin Schulz Radio Edit](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Prayer in C](https://open.spotify.com/album/6Ps0kbvAjuz75uK0uuZzWa) | 3:09 | 2022-12-08 | 2023-09-23 |
@@ -197,6 +197,7 @@
 | [Sugar \(feat\. Francesco Yates\)](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:39 | 2023-03-24 |  |
 | [Sugar Rush \(Late Night Snacks\)](https://open.spotify.com/track/5IWO7pAg0tfthWbgicUahc) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw), [Pongo](https://open.spotify.com/artist/17MjqHVqjHRfIKAKen6o34) | [Sugar Rush \(Late Night Snacks\)](https://open.spotify.com/album/6CKfs5bseJw5KZH2WBw7La) | 3:35 | 2025-02-20 |  |
 | [Sundown](https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 3:04 | 2025-04-25 |  |
+| [Sunshine](https://open.spotify.com/track/1u73X4Z35xAanZNuWIdkUZ) | [Kitty Mack](https://open.spotify.com/artist/4uoSIZh3PyGU7NeRX0S28v) | [Sunshine](https://open.spotify.com/album/2S6aowhjHKwLC1x564lC0O) | 1:58 | 2025-06-26 |  |
 | [Sup](https://open.spotify.com/track/4FSJFUkcuOeL7PxcZ7m08C) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz), [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [Sup](https://open.spotify.com/album/2qH04f0258XtW0AGdmqtex) | 3:40 | 2025-02-27 | 2025-06-06 |
 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 | 2022-12-08 | 2023-03-25 |
 | [The Edge of Light](https://open.spotify.com/track/35cYKUPuED9RTI2GaQI3dl) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Golden Bay](https://open.spotify.com/album/4AlegZ2nupO33LjHg09HuW) | 3:58 | 2025-01-16 | 2025-05-30 |

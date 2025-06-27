@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u2600\ufe0f \u0393\u03b9\u03b1\u03c4\u03af \u03b4\u03b5\u03bd \u03bd\u03bf\u03b5\u03af\u03c4\u03b1\u03b9 \u03ba\u03b1\u03bb\u03bf\u03ba\u03b1\u03af\u03c1\u03b9 \u03c7\u03c9\u03c1\u03af\u03c2 \u03c4\u03b9\u03c2 \u03b1\u03b3\u03b1\u03c0\u03b7\u03bc\u03ad\u03bd\u03b5\u03c2 \u03c3\u03bf\u03c5 \u03bb\u03b1\u0399\u03ba\u03ad\u03c2 \u03c6\u03c9\u03bd\u03ad\u03c2 \u2600\ufe0f\u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Giorgos Kakosaios",
+  "description": "\u2600\ufe0f \u0393\u03b9\u03b1\u03c4\u03af \u03b4\u03b5\u03bd \u03bd\u03bf\u03b5\u03af\u03c4\u03b1\u03b9 \u03ba\u03b1\u03bb\u03bf\u03ba\u03b1\u03af\u03c1\u03b9 \u03c7\u03c9\u03c1\u03af\u03c2 \u03c4\u03b9\u03c2 \u03b1\u03b3\u03b1\u03c0\u03b7\u03bc\u03ad\u03bd\u03b5\u03c2 \u03c3\u03bf\u03c5 \u03bb\u03b1\u0399\u03ba\u03ad\u03c2 \u03c6\u03c9\u03bd\u03ad\u03c2 \u2600\ufe0f\u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Dimos Anastasiadis",
   "name": "K\u03b1\u03bb\u03bf\u03ba\u03b1\u03b9\u03c1\u03b9\u03bd\u03ac \u039b\u03b1\u03ca\u03ba\u03ac ",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 171666,
       "name": "7 Lepta",
       "url": "https://open.spotify.com/track/5Y94M6vQo2d3aUyYZREddU"
@@ -278,7 +278,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 283520,
       "name": "Anasa",
       "url": "https://open.spotify.com/track/6QraIKM78nFy6sVIedXVOs"
@@ -662,7 +662,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 201434,
       "name": "Efyge?",
       "url": "https://open.spotify.com/track/30OqNOqaoqKrzg2ZcmHz83"
@@ -950,7 +950,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 252957,
       "name": "Exo Emena",
       "url": "https://open.spotify.com/track/7ixBF0Qf9jkJMsHtcK9KWd"
@@ -972,6 +972,24 @@
       "duration_ms": 227542,
       "name": "Ferte Tin Piso",
       "url": "https://open.spotify.com/track/2OexVDpovkx2sW5nKIDfg9"
+    },
+    {
+      "album": {
+        "name": "Fevgo Me To Scania",
+        "url": "https://open.spotify.com/album/4Lwk2tRk0zo64H6qxSVGfz"
+      },
+      "artists": [
+        {
+          "name": "Giannis Kapsalis",
+          "url": "https://open.spotify.com/artist/58WqE7Zmf9WGMZVHfIAjFo"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188955,
+      "name": "Fevgo Me To Scania",
+      "url": "https://open.spotify.com/track/2DcZLjw0tc2kCDxHpy1xDM"
     },
     {
       "album": {
@@ -1715,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "Tora Milao Ego",
+        "url": "https://open.spotify.com/album/1nGIMaZ5Zwqoh7TUW4U2Mu"
+      },
+      "artists": [
+        {
+          "name": "Dimos Anastasiadis",
+          "url": "https://open.spotify.com/artist/55N3GeGZvjQNpesIjCTZpq"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219214,
+      "name": "Mera Nyxta",
+      "url": "https://open.spotify.com/track/41EAUp153DEo7fPRzE0FFK"
+    },
+    {
+      "album": {
         "name": "Mia Paraligo Eftihia",
         "url": "https://open.spotify.com/album/7jofAsrpiagoKCxDkMNUjZ"
       },
@@ -2070,6 +2106,24 @@
       "duration_ms": 169497,
       "name": "Ola Pigenoun Kalytera",
       "url": "https://open.spotify.com/track/4E14OOlsmU5hTnPfYyEJGB"
+    },
+    {
+      "album": {
+        "name": "Olethria Sxesi",
+        "url": "https://open.spotify.com/album/3KzhjjBhH4XL5KYUrbuUDI"
+      },
+      "artists": [
+        {
+          "name": "Giannis Ploutarhos",
+          "url": "https://open.spotify.com/artist/152y903Cqyk9GVl6amOtuD"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211123,
+      "name": "Olethria Sxesi",
+      "url": "https://open.spotify.com/track/2AH486DE2L37HT7kU4VGbe"
     },
     {
       "album": {
@@ -2459,6 +2513,24 @@
     },
     {
       "album": {
+        "name": "San To Louloudi",
+        "url": "https://open.spotify.com/album/0VpYXMMuOPkwBVXTSaxwS2"
+      },
+      "artists": [
+        {
+          "name": "Ivi Adamou",
+          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193274,
+      "name": "San To Louloudi",
+      "url": "https://open.spotify.com/track/0JEqBTl49nSulh9InK43AS"
+    },
+    {
+      "album": {
         "name": "Savvato Vrady",
         "url": "https://open.spotify.com/album/2pwZE1wMOiMYZpPpBNIYpk"
       },
@@ -2510,6 +2582,24 @@
       "duration_ms": 202889,
       "name": "Se Pira Sovara",
       "url": "https://open.spotify.com/track/728qx78UuEMdvq3UD25Ztc"
+    },
+    {
+      "album": {
+        "name": "Se Thelo Apopse",
+        "url": "https://open.spotify.com/album/2QRxS3zVNLrHlxk0pBiUvU"
+      },
+      "artists": [
+        {
+          "name": "Christos Menidiatis",
+          "url": "https://open.spotify.com/artist/4SU6LvM9nyvqJqycIt1M0X"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185040,
+      "name": "Se Thelo Apopse",
+      "url": "https://open.spotify.com/track/5Fm6ze814EE970GW0Tr8tf"
     },
     {
       "album": {
@@ -2680,7 +2770,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 252415,
       "name": "Sta Logia Meiname",
       "url": "https://open.spotify.com/track/2hXyNWr0wVh7qoraVXOrB1"

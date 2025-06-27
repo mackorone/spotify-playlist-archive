@@ -1,12 +1,12 @@
 {
   "description": "This is Teenage Wrist. The essential tracks, all in one playlist.",
-  "num_followers": 1381,
+  "num_followers": 1383,
   "original_name": "This Is Teenage Wrist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAAALT7UoI+ho5dLJBzjei1Di",
+  "snapshot_id": "aFs8AAAAAABhIyLsa0VCu2Y8O9cbhGDg",
   "tracks": [
     {
       "added_at": null,
@@ -147,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Counting Flies",
-        "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
       },
       "artists": [
         {
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 226088,
-      "name": "Mary",
-      "url": "https://open.spotify.com/track/1NsZudLIW1RwsQCytCQoGt"
+      "duration_ms": 247640,
+      "name": "Slide Away",
+      "url": "https://open.spotify.com/track/24YzEA9JBtgTUgLdOMW7nS"
     },
     {
       "added_at": null,
@@ -195,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
+        "name": "Counting Flies",
+        "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 247640,
-      "name": "Slide Away",
-      "url": "https://open.spotify.com/track/24YzEA9JBtgTUgLdOMW7nS"
+      "duration_ms": 226088,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/1NsZudLIW1RwsQCytCQoGt"
     },
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chrome Neon Jesus",
-        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 238588,
-      "name": "Black Flamingo",
-      "url": "https://open.spotify.com/track/44OapuhaxBVQqdXQYeTKPs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dazed",
         "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 284104,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/2BIbQW7IHxJhE6J8i5PM9V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chrome Neon Jesus",
+        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 238588,
+      "name": "Black Flamingo",
+      "url": "https://open.spotify.com/track/44OapuhaxBVQqdXQYeTKPs"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chrome Neon Jesus",
-        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 223875,
-      "name": "Chrome Neon Jesus",
-      "url": "https://open.spotify.com/track/5sGU6CsPHoY0xngEjsBPkQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dazed",
         "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 247170,
       "name": "Mirror Talk",
       "url": "https://open.spotify.com/track/5FXNdpyVlUObWx7jLDor5s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chrome Neon Jesus",
+        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 223875,
+      "name": "Chrome Neon Jesus",
+      "url": "https://open.spotify.com/track/5sGU6CsPHoY0xngEjsBPkQ"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chrome Neon Jesus",
-        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 227820,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/3NFESrMYBdTbsKVtIpg2Sz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Counting Flies",
         "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 339212,
       "name": "Sparkle / Fade",
       "url": "https://open.spotify.com/track/54pcxTH4RzzfvTq7f2vWem"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chrome Neon Jesus",
+        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 227820,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/3NFESrMYBdTbsKVtIpg2Sz"
     },
     {
       "added_at": null,

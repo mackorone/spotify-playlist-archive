@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 116115,
+  "num_followers": 116168,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAAAo6nJPf27k3U9GizTRGHVi",
+  "snapshot_id": "aFs8AAAAAACzIjRGCnulU9CARYFbNiWI",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Please Don\u2019t Touch",
+        "url": "https://open.spotify.com/album/2L0kDBJ2d6aThU4egKkoDk"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 218626,
+      "name": "Please Don\u2019t Touch",
+      "url": "https://open.spotify.com/track/16eNwSoWmJh5GSjN8ECmIp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tipsy (feat. RAYE)",
         "url": "https://open.spotify.com/album/5vTEYsgyE0C0ADqZo0Qy3F"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 208893,
       "name": "Tipsy (feat. RAYE)",
       "url": "https://open.spotify.com/track/5Wt7ngK753xBhSjb9lRfSR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Please Don\u2019t Touch",
-        "url": "https://open.spotify.com/album/2L0kDBJ2d6aThU4egKkoDk"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 218626,
-      "name": "Please Don\u2019t Touch",
-      "url": "https://open.spotify.com/track/16eNwSoWmJh5GSjN8ECmIp"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-622 songs - 1 day 6 hr 14 min
+623 songs - 1 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 | 2024-04-26 | 2024-11-22 |
 | [f.u.](https://open.spotify.com/track/7cTUvwei61Gfa6PKPczdfu) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [By Any Minz](https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP) | 3:12 | 2024-10-04 |  |
 | [Faaji](https://open.spotify.com/track/1I1UC0ljqNUEHTfVsZNJCU) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Lazy Girl](https://open.spotify.com/album/79qFfx2Gmq4UAotRx6V0AW) | 2:32 | 2024-02-02 | 2024-02-16 |
-| [FaceCard \(Only Me\)](https://open.spotify.com/track/1oVqMHVxQNyHqZk9Kf2APO) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [FaceCard \(Only Me\)](https://open.spotify.com/album/1UDFtcP2BNJRORKx2pXAHJ) | 2:55 | 2024-08-25 |  |
+| [FaceCard \(Only Me\)](https://open.spotify.com/track/1oVqMHVxQNyHqZk9Kf2APO) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [FaceCard \(Only Me\)](https://open.spotify.com/album/1UDFtcP2BNJRORKx2pXAHJ) | 2:55 | 2024-08-25 | 2025-06-27 |
 | [Fall In Love \(feat\. Ayo Jay\)](https://open.spotify.com/track/4GdnJEbOxXMJMSzdkql8X3) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Ayo Jay](https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY) | [Fall In Love \(feat\. Ayo Jay\)](https://open.spotify.com/album/6Df2qCBg6t8oSSpqWkb5pE) | 3:25 | 2024-12-16 |  |
 | [Fallen Angel](https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:20 | 2024-01-05 | 2024-11-22 |
 | [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 | 2023-03-30 | 2023-08-05 |
@@ -372,6 +372,7 @@
 | [No Woman No Cry](https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 3:33 | 2022-07-28 | 2023-09-29 |
 | [No Worries](https://open.spotify.com/track/4VqmxWZGBRnWk810ttwDtT) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [No Worries](https://open.spotify.com/album/7BaYGyvQegrKi73TX10Mhu) | 2:21 | 2024-04-12 | 2024-05-06 |
 | [Nobody](https://open.spotify.com/track/2Woou7ZB8SrnnpMey9ulxc) | [Tia](https://open.spotify.com/artist/3JAdD9AfJI9QymrEo49Qhp) | [Nobody](https://open.spotify.com/album/7uW3vWcXXhIqLSjHuH677g) | 2:30 | 2024-09-06 | 2024-09-20 |
+| [Nostalgia](https://open.spotify.com/track/1IOOLV6bwrN4uH4KWHei0R) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Nostalgia](https://open.spotify.com/album/3RA0A7RkflJudveefNw8H7) | 3:36 | 2025-06-20 |  |
 | [Nothing Compares](https://open.spotify.com/track/5GBJVbsYC9sp5d9onpZAYu) | [UAX](https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT), [TMXO](https://open.spotify.com/artist/6FKZZfl6Jbfyjd8DPChyCk) | [LOVE & HUSTLE](https://open.spotify.com/album/28UnTAsmLHRV708ogPuL4D) | 2:31 | 2024-04-26 | 2024-05-03 |
 | [nwayi](https://open.spotify.com/track/7guk0rwtRbpnNVraNaIpfL) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [nwayi](https://open.spotify.com/album/2ytwmK8ETbEVZKueoNYKIQ) | 3:04 | 2023-06-02 | 2023-08-04 |
 | [nwayi](https://open.spotify.com/track/7iD3LM5BcWm5yZbNPpIhnE) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance \(Deluxe\)](https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ) | 3:04 | 2023-08-03 | 2024-04-19 |

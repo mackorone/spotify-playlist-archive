@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > Happy Black Music Month! Cover: <a href="spotify:artist:3X6c2uu6yXYP4XnprvDg11">DAMEDAME\*</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,093,611 likes - 200 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,093,574 likes - 200 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 104 | [sundays](https://open.spotify.com/track/1Wvl7G2pzy53umhn3RC05u) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [sundays](https://open.spotify.com/album/5oIO3BuotbdFVpulc9NUDi) | 3:51 |
 | 105 | [Tin](https://open.spotify.com/track/6WP6C3Rw4HjOBPve8i9uWo) | [sounds mint](https://open.spotify.com/artist/5hx1tP4Egp1xNgI1c5cLcK) | [Tin](https://open.spotify.com/album/2nyS97z2MP4oVUZYrx7dib) | 3:04 |
 | 106 | [vitamin](https://open.spotify.com/track/0yNrKZfMskOElmuadLTI55) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [vitamin](https://open.spotify.com/album/0nP3FfwgJAXHSMgRTQzlkd) | 2:52 |
-| 107 | [Paradise](https://open.spotify.com/track/0AWhMKE3kqZ2HBvvu5v60f) | [Apollo Liberace](https://open.spotify.com/artist/5vCTDPfvLQeyH3jurwXMxN), [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [Paradise](https://open.spotify.com/album/7nuEx5zDN6kJaWOAQlaDEA) | 3:47 |
+| 107 | [Paradise](https://open.spotify.com/track/0AWhMKE3kqZ2HBvvu5v60f) | [Apollo Liberace](https://open.spotify.com/artist/5vCTDPfvLQeyH3jurwXMxN) | [Paradise](https://open.spotify.com/album/7nuEx5zDN6kJaWOAQlaDEA) | 3:47 |
 | 108 | [Real](https://open.spotify.com/track/7brRFdTSwwq1xeYXnXP5O8) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Real](https://open.spotify.com/album/134ohkHTVB4T6erW8wmcMP) | 2:56 |
 | 109 | [Hallelujah \(I Don't Think About You\)](https://open.spotify.com/track/0vM4LQCV9TsBH8hvTWsow9) | [Kevin Olusola](https://open.spotify.com/artist/4RPUSziPHrjcBUEfIUcb2I) | [Dawn of a Misfit](https://open.spotify.com/album/4yAcfYYfi03HIp0aG0MkSb) | 2:55 |
 | 110 | [A Pilot](https://open.spotify.com/track/1dsRcCs406K8w44u1xpiXp) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [A Pilot](https://open.spotify.com/album/4X8mKzXCtbcp5NhzXCymX2) | 1:59 |

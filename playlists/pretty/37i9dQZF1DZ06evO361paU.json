@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 284969,
+  "num_followers": 285004,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAADaWjCSDAxeH/dIQw3JInR4",
+  "snapshot_id": "aFs8AAAAAACu23QRjPZn9Z8+q3fZfqiK",
   "tracks": [
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 317026,
+      "name": "If You Can't Say No",
+      "url": "https://open.spotify.com/track/5J221XVh7Kxg2bC4IWQ19n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Hear You",
         "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 176524,
       "name": "I Believe In Love Again",
       "url": "https://open.spotify.com/track/1xYsgHPHiR3IIdpRzkfKcE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 317026,
-      "name": "If You Can't Say No",
-      "url": "https://open.spotify.com/track/5J221XVh7Kxg2bC4IWQ19n"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strut",
-        "url": "https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 382722,
-      "name": "New York City",
-      "url": "https://open.spotify.com/track/7ucAUu2oTX2P0xvcIwVSUg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Are You Gonna Go My Way",
         "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 238226,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/4TmBle7wip2pjeScZPJftc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strut",
+        "url": "https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 382722,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/7ucAUu2oTX2P0xvcIwVSUg"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 92338,
+  "num_followers": 92383,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Conto de Areia",
-        "url": "https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 178613,
-      "name": "O Mar Serenou",
-      "url": "https://open.spotify.com/track/1N10tJPyQ70QcMLxhobSbJ"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Marisa Monte MM (Ao Vivo)",
         "url": "https://open.spotify.com/album/0ClnK9rwAeCZkW5Kda2dzv"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 250400,
       "name": "Lenda das Sereias, Rainha do Mar - Ao Vivo",
       "url": "https://open.spotify.com/track/1ymzRzXjkmIgI8K5LQHsfe"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Conto de Areia",
+        "url": "https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 178613,
+      "name": "O Mar Serenou",
+      "url": "https://open.spotify.com/track/1N10tJPyQ70QcMLxhobSbJ"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Ligeiro",
-        "url": "https://open.spotify.com/album/0j8GlFLqVlDkKKAzH9G2cp"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 211588,
-      "name": "Ligeiro",
-      "url": "https://open.spotify.com/track/3GDHgdo1Ahn7fe5h2yh2aY"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Gal Tropical",
         "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
       },
@@ -959,22 +943,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Roda de Funk",
-        "url": "https://open.spotify.com/album/3AKNwgDdWfEDrPM384eY3S"
+        "name": "Ligeiro",
+        "url": "https://open.spotify.com/album/0j8GlFLqVlDkKKAzH9G2cp"
       },
       "artists": [
         {
-          "name": "Funk Como Le Gusta",
-          "url": "https://open.spotify.com/artist/4EdK5PbxoQyOAJFWpc8xLg"
-        },
-        {
-          "name": "BiD",
-          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
         }
       ],
-      "duration_ms": 191560,
-      "name": "16 Toneladas",
-      "url": "https://open.spotify.com/track/1CocWJfxH8sVh7tTYzszLe"
+      "duration_ms": 211588,
+      "name": "Ligeiro",
+      "url": "https://open.spotify.com/track/3GDHgdo1Ahn7fe5h2yh2aY"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -999,6 +979,26 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Roda de Funk",
+        "url": "https://open.spotify.com/album/3AKNwgDdWfEDrPM384eY3S"
+      },
+      "artists": [
+        {
+          "name": "Funk Como Le Gusta",
+          "url": "https://open.spotify.com/artist/4EdK5PbxoQyOAJFWpc8xLg"
+        },
+        {
+          "name": "BiD",
+          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
+        }
+      ],
+      "duration_ms": 191560,
+      "name": "16 Toneladas",
+      "url": "https://open.spotify.com/track/1CocWJfxH8sVh7tTYzszLe"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Maria Rita",
         "url": "https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw"
       },
@@ -1011,26 +1011,6 @@
       "duration_ms": 204093,
       "name": "Agora s\u00f3 falta voc\u00ea",
       "url": "https://open.spotify.com/track/3impd3fNYkpLlklzuOfyVZ"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Pequim",
-        "url": "https://open.spotify.com/album/2P0MrtKOyBigDAn4JhYafz"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        },
-        {
-          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
-          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
-        }
-      ],
-      "duration_ms": 198897,
-      "name": "Pequim",
-      "url": "https://open.spotify.com/track/5ns6G2OgmkJLc5iti69ute"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1051,6 +1031,26 @@
       "duration_ms": 237426,
       "name": "Cabe\u00e7a de N\u00eago",
       "url": "https://open.spotify.com/track/0yhXCGfLaFycBWrgLK5ZpO"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Pequim",
+        "url": "https://open.spotify.com/album/2P0MrtKOyBigDAn4JhYafz"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        },
+        {
+          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
+          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
+        }
+      ],
+      "duration_ms": 198897,
+      "name": "Pequim",
+      "url": "https://open.spotify.com/track/5ns6G2OgmkJLc5iti69ute"
     },
     {
       "added_at": "2022-09-22 18:13:04",

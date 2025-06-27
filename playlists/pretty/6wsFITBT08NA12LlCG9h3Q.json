@@ -1,28 +1,28 @@
 {
   "description": "A <a href=\"http://www.digster.fm/decades\">classic playlist</a> with the best hits of the 90s featuring No Doubt, Nirvana, and more.",
-  "num_followers": 149571,
+  "num_followers": 149543,
   "original_name": "90s",
   "owner": {
     "name": "uDiscover Playlists",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "AAAEuiFSAe01tDWErRJBf1tzvtO7vliP",
+  "snapshot_id": "AAAEvJXMeKIvAtlvNYB1rnrD2KcOBSTP",
   "tracks": [
     {
-      "added_at": "2025-06-13 20:24:35",
+      "added_at": "2025-04-22 23:10:10",
       "album": {
-        "name": "Static & Silence",
-        "url": "https://open.spotify.com/album/00Z7sMv2YhKb49u10ajvy4"
+        "name": "Janet",
+        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
       },
       "artists": [
         {
-          "name": "The Sundays",
-          "url": "https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7"
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
         }
       ],
-      "duration_ms": 213493,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/4TwaeQT1YTeBUBRB8NeSCo"
+      "duration_ms": 265106,
+      "name": "That's The Way Love Goes",
+      "url": "https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg"
     },
     {
       "added_at": "2025-06-20 23:30:45",
@@ -41,20 +41,20 @@
       "url": "https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG"
     },
     {
-      "added_at": "2025-04-22 23:10:10",
+      "added_at": "2025-06-13 20:24:35",
       "album": {
-        "name": "Janet",
-        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
+        "name": "Static & Silence",
+        "url": "https://open.spotify.com/album/00Z7sMv2YhKb49u10ajvy4"
       },
       "artists": [
         {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+          "name": "The Sundays",
+          "url": "https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7"
         }
       ],
-      "duration_ms": 265106,
-      "name": "That's The Way Love Goes",
-      "url": "https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg"
+      "duration_ms": 213493,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/4TwaeQT1YTeBUBRB8NeSCo"
     },
     {
       "added_at": "2025-04-22 23:10:10",

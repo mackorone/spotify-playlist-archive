@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > feel the magic with the gems in r&b right now
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,395 likes - 92 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,396 likes - 92 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 28 | [Back To You](https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Back To You](https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89) | 3:30 |
 | 29 | [No One Else \(feat\. Jeremih\)](https://open.spotify.com/track/5zr6snM3WQRoYC0QfnD9n7) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [No One Else \(feat\. Jeremih\)](https://open.spotify.com/album/68eKgnFOq19PENZkcJ5grM) | 2:42 |
 | 30 | [YES IT IS \- \(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA](https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [YES IT IS \[\(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA\]](https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd) | 3:16 |
-| 31 | [Need U To Need Me](https://open.spotify.com/track/7naZGbc2BHQC4m3pM5IbJ1) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Need U To Need Me](https://open.spotify.com/album/2AUG4FkivRXmWKyH9pf7yE) | 2:47 |
+| 31 | [SANASA](https://open.spotify.com/track/1YQ7UbplDV4LGXeLvWVwRj) | [Amazone](https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46) | [SANASA](https://open.spotify.com/album/3UoYIWj5tFDxbxeh8VqIU8) | 2:35 |
 | 32 | [JUST LIKE THAT \(with Ari Lennox\)](https://open.spotify.com/track/2eCIT1yhrYfWdfC5VahUrt) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [JUST LIKE THAT \(with Ari Lennox\)](https://open.spotify.com/album/04paAyoEdoSL1nSUdoMSp1) | 2:43 |
-| 33 | [SANASA](https://open.spotify.com/track/1YQ7UbplDV4LGXeLvWVwRj) | [Amazone](https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46) | [SANASA](https://open.spotify.com/album/3UoYIWj5tFDxbxeh8VqIU8) | 2:35 |
+| 33 | [Need U To Need Me](https://open.spotify.com/track/7naZGbc2BHQC4m3pM5IbJ1) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Need U To Need Me](https://open.spotify.com/album/2AUG4FkivRXmWKyH9pf7yE) | 2:47 |
 | 34 | [The Only Love We Know](https://open.spotify.com/track/16h8BuxfNtEqGI1C8WNo1z) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/32yofsJDutpcH21hGOLslE) | 4:34 |
 | 35 | [Driving Me Wild](https://open.spotify.com/track/7uVfTZjuVxiQah7iDnUrgU) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Driving Me Wild](https://open.spotify.com/album/2sClfYTlQ4XeDKox9QCVxG) | 3:02 |
 | 36 | [YOU](https://open.spotify.com/track/55PqkTMHwesuVYLQQsbM44) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw) | [TWIN FLAME](https://open.spotify.com/album/5UcPHCArjQd3IQaIxIEcKm) | 2:16 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 50 | [AAA](https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [AAA](https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B) | 3:24 |
 | 51 | [Club](https://open.spotify.com/track/272N2DUGzyVe1gEV7heCxE) | [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [Club](https://open.spotify.com/album/7BB6EpP6vIMHCiTbC3ztll) | 2:39 |
 | 52 | [Options](https://open.spotify.com/track/5bikU6p8V41T1bkBAXbu6o) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Options](https://open.spotify.com/album/3U5R7PhkRZSx41ZUFjMQdn) | 2:18 |
-| 53 | [Two Cents](https://open.spotify.com/track/4J3vgENXvPF4BVYxztyEyq) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Two Cents](https://open.spotify.com/album/1goONdBC2HFSWV8PXT0tRW) | 2:58 |
-| 54 | [Good Day](https://open.spotify.com/track/6Go0mbl0KkPgQ5lCU4rT06) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Good Day](https://open.spotify.com/album/1dmyYsIIRVePvCLhFb7Dd1) | 4:35 |
+| 53 | [Good Day](https://open.spotify.com/track/6Go0mbl0KkPgQ5lCU4rT06) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Good Day](https://open.spotify.com/album/1dmyYsIIRVePvCLhFb7Dd1) | 4:35 |
+| 54 | [Two Cents](https://open.spotify.com/track/4J3vgENXvPF4BVYxztyEyq) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Two Cents](https://open.spotify.com/album/1goONdBC2HFSWV8PXT0tRW) | 2:58 |
 | 55 | [Heaven](https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Heaven](https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco) | 2:32 |
 | 56 | [Watch You Leave](https://open.spotify.com/track/71H62uTyeyqMwIvtCispPT) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Watch You Leave](https://open.spotify.com/album/6k3Dsk5NOsGhXx78guGx1y) | 4:23 |
 | 57 | [Never Return](https://open.spotify.com/track/26C5uk4xXownqyI03PtJs1) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Never Return](https://open.spotify.com/album/7L8IOBKMIKNFcaBAdV9ku3) | 2:52 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 79 | [Tell Me](https://open.spotify.com/track/2J9Xgx7JglqXO21ACuWVsQ) | [Eloy](https://open.spotify.com/artist/6kJHsntY0ntExby5khqBTV) | [Tell Me](https://open.spotify.com/album/2WdsqipnJWOJLdwWwkyGl3) | 2:49 |
 | 80 | [Aphrodite](https://open.spotify.com/track/4SJcnSTonIkghW0OTmhu2J) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Aphrodite](https://open.spotify.com/album/70Jbxy4UWzsZ7xYyecbjoK) | 3:12 |
 | 81 | [ANTICIPATE](https://open.spotify.com/track/6cKh9bgXR4BYPIgnSLDSbp) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Cait Harris](https://open.spotify.com/artist/1mE23Pc6sUgdxyAj0zCjp0) | [ANTICIPATE](https://open.spotify.com/album/0sbrQMVmzrWVpjwau4A2QK) | 2:32 |
-| 82 | [Major Minor](https://open.spotify.com/track/2CnlAkb4mPrB4VSiySdqEA) | [Donna Lugassy](https://open.spotify.com/artist/2HzqUEj9ykyhata2BiX2Pm) | [Major Minor](https://open.spotify.com/album/75Tf1IlXMklktZHEu31nMT) | 2:29 |
-| 83 | [Good Day](https://open.spotify.com/track/6UzeqhR2HzAp71r7FToxaP) | [ROMAN S](https://open.spotify.com/artist/6tuerTyQCwlUIhVdfmQGKE), [Zachery V](https://open.spotify.com/artist/4aYcKpn8h3uilaFJ9Lbnqd) | [Good Day](https://open.spotify.com/album/5e62sirP6DFfV8Hx2J5tVP) | 2:48 |
+| 82 | [Good Day](https://open.spotify.com/track/6UzeqhR2HzAp71r7FToxaP) | [ROMAN S](https://open.spotify.com/artist/6tuerTyQCwlUIhVdfmQGKE), [Zachery V](https://open.spotify.com/artist/4aYcKpn8h3uilaFJ9Lbnqd) | [Good Day](https://open.spotify.com/album/5e62sirP6DFfV8Hx2J5tVP) | 2:48 |
+| 83 | [Major Minor](https://open.spotify.com/track/2CnlAkb4mPrB4VSiySdqEA) | [Donna Lugassy](https://open.spotify.com/artist/2HzqUEj9ykyhata2BiX2Pm) | [Major Minor](https://open.spotify.com/album/75Tf1IlXMklktZHEu31nMT) | 2:29 |
 | 84 | [So Fresh So Clean](https://open.spotify.com/track/59QfKeNapjJA7A7A3UKSWU) | [Ruskey](https://open.spotify.com/artist/6ERpZaxy8S2ZWlpYbXG1aK) | [Baby Boy 2](https://open.spotify.com/album/1HSVRYzepxAx4FAwysjKn7) | 2:15 |
 | 85 | [Not Enough](https://open.spotify.com/track/6J3cHBb0hLCsoDnTRU8m7h) | [Yael Daila](https://open.spotify.com/artist/4qKEr51BeenT8ZAcwnUsWT) | [Not Enough](https://open.spotify.com/album/4SuVgQ3GNezJ3tHpbKg0JC) | 2:07 |
 | 86 | [RICH PEOPLE PROBLEMS](https://open.spotify.com/track/52HmUb7L6Sfe6PsTpXNLYS) | [Kenrae](https://open.spotify.com/artist/3KItEFAeVO2hK3WSSU36Zf) | [RICH PEOPLE PROBLEMS](https://open.spotify.com/album/4ZFwvSZvKUDKkXmlP5s94y) | 3:00 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 88 | [Shades Prayer](https://open.spotify.com/track/3wpFi89CVt5zFkDqhZHoKH) | [Giefa Sparkle](https://open.spotify.com/artist/3mqzTvW2KgKL0cVKtFMwyh) | [SHADES](https://open.spotify.com/album/3Ig7EPokyOuhMGzF0JQyty) | 2:28 |
 | 89 | [Happier Song](https://open.spotify.com/track/176QZKsUDHCf2Vp8wUZeI9) | [Elodie Jeannette](https://open.spotify.com/artist/1S8dJy0rk4PoWBW59sxNXp), [ATLouis](https://open.spotify.com/artist/2y2lLr1nFfcyDCSwNIZtWa) | [Happier Song](https://open.spotify.com/album/0Xvx3N7EyvkQCdo41XVk7w) | 2:24 |
 | 90 | [fuck me up](https://open.spotify.com/track/7qL69LAFLrBefDRZJExeCN) | [On The Fence](https://open.spotify.com/artist/1ASJWCVSy6XXLbRIr8cCMw) | [fuck me up](https://open.spotify.com/album/6u2JZWYwuu4WtypJP8Ipob) | 2:21 |
-| 91 | [Lately Remix \(feat\. Craig David\)](https://open.spotify.com/track/7nshQSTwWcJpat2oSUzck3) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wGJaNajgijDuLmoQKqsAf) | 2:06 |
-| 92 | [Regrets](https://open.spotify.com/track/5lRyRnZUIwVfEgzOyeT7ZV) | [ROMAN S](https://open.spotify.com/artist/6tuerTyQCwlUIhVdfmQGKE), [TWENTYFiVE SOUNDSYSTEM](https://open.spotify.com/artist/6TeDTJbTwET9KRACfHnjc7) | [Regrets](https://open.spotify.com/album/19FBgiQpcYHjboNHmQMy5P) | 2:57 |
+| 91 | [Regrets](https://open.spotify.com/track/5lRyRnZUIwVfEgzOyeT7ZV) | [ROMAN S](https://open.spotify.com/artist/6tuerTyQCwlUIhVdfmQGKE), [TWENTYFiVE SOUNDSYSTEM](https://open.spotify.com/artist/6TeDTJbTwET9KRACfHnjc7) | [Regrets](https://open.spotify.com/album/19FBgiQpcYHjboNHmQMy5P) | 2:57 |
+| 92 | [Lately Remix \(feat\. Craig David\)](https://open.spotify.com/track/7nshQSTwWcJpat2oSUzck3) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wGJaNajgijDuLmoQKqsAf) | 2:06 |
 
 Snapshot ID: `aFJ88gAAAABV/Xd2p+2Ae7EpwVM4WktX`

@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Souly
 
-408 songs - 21 hr 5 min
+410 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [besoffen in den spiegel schauen](https://open.spotify.com/track/4xEfMKxaESmdTTAuu2GHK1) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9) | [2022 war film gewesen](https://open.spotify.com/album/7lOlLrkcD0F2SXIqyVxL43) | 2:38 | 2022-12-01 | 2023-02-10 |
 | [besonders](https://open.spotify.com/track/0qZ38h6vARmBn1dLPo5qIU) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [besonders](https://open.spotify.com/album/14iHxk7M0XCEgoZPiYn8Rg) | 3:00 | 2022-01-13 | 2022-07-15 |
 | [Big Girls Don't Cry](https://open.spotify.com/track/1kfAz9hp0Tlc9G1777jutL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Big Girls Don't Cry](https://open.spotify.com/album/3DgJwUnwxTutt0MIi7H9rd) | 2:49 | 2024-08-08 | 2024-11-08 |
-| [Bite me](https://open.spotify.com/track/1ZJ4HJwoWvruY8QQDeWx6i) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Bite me](https://open.spotify.com/album/1t4dt2sernqUnKEJTb2I6K) | 3:08 | 2025-02-27 |  |
+| [Bite me](https://open.spotify.com/track/1ZJ4HJwoWvruY8QQDeWx6i) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Bite me](https://open.spotify.com/album/1t4dt2sernqUnKEJTb2I6K) | 3:08 | 2025-02-27 | 2025-06-27 |
 | [Blaue Stunde](https://open.spotify.com/track/3hdluTsPx0vbVdLZsZPE2K) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Blaue Stunde](https://open.spotify.com/album/10L1i38qodCnhxdvg7LxQZ) | 3:17 | 2023-07-11 | 2024-04-19 |
 | [Blaue Stunde](https://open.spotify.com/track/5OJDNeu3CDWxgfxu2BNown) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Blaue Stunde](https://open.spotify.com/album/48VSW134REUVskHHy2laF0) | 3:17 | 2023-07-06 |  |
 | [BLESSED](https://open.spotify.com/track/2cPqx00sDnkXgxHg9fSZQj) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [BLESSED](https://open.spotify.com/album/1wL7610e4VBIR2iTziwnHv) | 2:51 | 2024-02-15 | 2024-10-25 |
@@ -235,6 +235,7 @@
 | [Mehr](https://open.spotify.com/track/1S4mtaq6HkZLJhlExIXLQd) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [Mehr](https://open.spotify.com/album/5RPCnWqpCMGm9GZdw3Pf8M) | 2:43 | 2023-09-21 | 2023-12-01 |
 | [mein Bestes](https://open.spotify.com/track/1jZRoK2NYNfJ714ZCUejZQ) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Wind](https://open.spotify.com/album/2y7fLVS5J30B7CxzwDSdDf) | 3:01 | 2022-10-27 | 2023-08-11 |
 | [Mein Hass tritt dir die Haustür ein](https://open.spotify.com/track/7lQdJEWeNuZO8mlUUCfPMj) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Mein Hass tritt dir die Haustür ein](https://open.spotify.com/album/07k1Sn3IKG5YSVtEaWnJgp) | 3:12 | 2024-09-26 |  |
+| [Mein schönstes Kleid](https://open.spotify.com/track/7CJFf6MhxIPd1UAEb3J0v3) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Mein schönstes Kleid](https://open.spotify.com/album/74TPidIDXSIp7Fq4hcVeW0) | 2:44 | 2025-06-26 |  |
 | [Mensch](https://open.spotify.com/track/1lBMr23YxosiMyKhVeRIJB) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also bin ich](https://open.spotify.com/album/0HICsKReOoeoblyeiLClEd) | 2:50 | 2023-10-05 | 2024-02-09 |
 | [Mercurial Vapor](https://open.spotify.com/track/5hWmJ3vuMbBHdJYpKXGdm3) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Mercurial Vapor](https://open.spotify.com/album/5PlEkgdwrcOFk7n9OPajCZ) | 3:05 | 2022-12-08 | 2023-04-07 |
 | [Mercy Stroke](https://open.spotify.com/track/45Me6oIEz4AlHq7E8cNfcF) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Mercy Stroke](https://open.spotify.com/album/2gIICHzjGClgUbObjPauqK) | 2:45 | 2022-03-17 | 2022-06-10 |
@@ -334,6 +335,7 @@
 | [sterne \(sehen\)](https://open.spotify.com/track/3T89eCrITaSdRKovtzqzUR) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [sterne \(sehen\)](https://open.spotify.com/album/14zt5jp4HcpFO5ulBfmK08) | 2:35 | 2024-10-24 |  |
 | [STILL](https://open.spotify.com/track/1Vp0bkf6uEF72RMiPdsdn3) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [STILL](https://open.spotify.com/album/7fDHX5PvCaeZd9RYdhwB25) | 2:16 | 2024-08-16 | 2024-10-25 |
 | [Strategie](https://open.spotify.com/track/48jWQ1HB4VPLMUyUulRxo9) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Strategie](https://open.spotify.com/album/34eP5UA9AbhmLKQWge5TiM) | 2:38 | 2024-06-27 | 2024-09-06 |
+| [Summer Affair](https://open.spotify.com/track/2cr0fZFpNvzp9cBaIkld6Q) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Summer affair](https://open.spotify.com/album/1M4FYcP7I3Zv4jvDHGjsoV) | 3:26 | 2025-06-26 |  |
 | [Summertime Love](https://open.spotify.com/track/1E9EYbxszlcWOzJcl5ZCDC) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Summertime Love](https://open.spotify.com/album/6EwEfoNXHySH3y02pMYxAb) | 2:35 | 2023-08-31 | 2025-06-20 |
 | [Survival Mode \(Intro\)](https://open.spotify.com/track/6xfjR5HmYHnabfSKvjoh0M) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Survival Mode \(Intro\)](https://open.spotify.com/album/7D9np0pd16reMo5ajg1WE0) | 3:33 | 2022-08-04 | 2023-06-16 |
 | [sweatshop](https://open.spotify.com/track/1NbSzuTZwGgTgGpIq4ljHZ) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [sweatshop](https://open.spotify.com/album/4zcnApdR65SRUbftcGRyvS) | 2:29 | 2023-11-16 | 2024-11-22 |
@@ -397,7 +399,7 @@
 | [Wieder](https://open.spotify.com/track/0ZBxJRpsvY53vphDtoi4FI) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc), [2sick](https://open.spotify.com/artist/1FQkPQ3IrjRAny1OXdGX8S) | [Wieder](https://open.spotify.com/album/6Gvc1zMQanZDbbupEAEgHe) | 2:12 | 2024-07-04 |  |
 | [Wien](https://open.spotify.com/track/65caFJtNCC6xdSBUXZivw2) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [MINI](https://open.spotify.com/album/7w1GycA2X3co1x2JLj1G6e) | 2:16 | 2023-03-02 | 2023-09-15 |
 | [Wild Ones](https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones](https://open.spotify.com/album/2JSwcjpkanFKfT3ev3eDQr) | 3:26 | 2023-10-05 | 2024-02-16 |
-| [Willst du](https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ), [emi x](https://open.spotify.com/artist/5kDJnYkE7Xm5zgEsJHb23u) | [Willst du](https://open.spotify.com/album/3v6PmEA3aZhxeG1Y62nmS3) | 2:56 | 2024-03-14 |  |
+| [Willst du](https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ), [emi x](https://open.spotify.com/artist/5kDJnYkE7Xm5zgEsJHb23u) | [Willst du](https://open.spotify.com/album/3v6PmEA3aZhxeG1Y62nmS3) | 2:56 | 2024-03-14 | 2025-06-27 |
 | [wir haben's überlebt](https://open.spotify.com/track/4N2xigWIV1NWcMe6HRdalt) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [wir haben's überlebt](https://open.spotify.com/album/7tUlb7DaDpS3PJT7t8X5DY) | 2:20 | 2024-10-10 | 2024-10-25 |
 | [Wir machen das](https://open.spotify.com/track/45qb6m1SimXHGVp8s5UTHn) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [GO TIME](https://open.spotify.com/album/2v46Uqtl1mZWr3CUzZLXnP) | 2:53 | 2023-11-30 |  |
 | [WITCH](https://open.spotify.com/track/06JsKnlqdAYvbhWWwzXyM4) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [WITCH](https://open.spotify.com/album/12kAESgAld7orprsv64J0k) | 2:31 | 2023-10-12 | 2023-11-17 |

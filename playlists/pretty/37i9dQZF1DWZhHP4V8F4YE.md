@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits right here
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,819 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,902 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 18 | [Arike](https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Arike](https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw) | 2:04 |
 | 19 | [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 |
 | 20 | [Vuma dlozi lami](https://open.spotify.com/track/5brPPINztdtbkZG2HrB14G) | [Issa sisdoh](https://open.spotify.com/artist/1ccVv6sg5vGPpJ77qAt6yI), [Ancestral Rituals](https://open.spotify.com/artist/00GORbFeDmlAUD96S9joup) | [Vuma dlozi lami](https://open.spotify.com/album/3ZoThYnijWEV30wJ10Nyja) | 6:20 |
-| 21 | [Uzizwa Kanjan \(feat\. GL\_Ceejay\)](https://open.spotify.com/track/73MJ65QLIfsU2GyCt5KQ3a) | [Jazzworx](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh) | [Uzizwa Kanjan \(feat\. GL\_ceejay\)](https://open.spotify.com/album/6XBxAPLYWGJ1QOhKuZqDhZ) | 7:47 |
+| 21 | [Uzizwa Kanjan](https://open.spotify.com/track/73MJ65QLIfsU2GyCt5KQ3a) | [Jazzworx](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh) | [Uzizwa Kanjan](https://open.spotify.com/album/6XBxAPLYWGJ1QOhKuZqDhZ) | 7:47 |
 | 22 | [Awuke](https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Awuke](https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL) | 2:52 |
 | 23 | [OZEBA](https://open.spotify.com/track/7ySC0IjVS1PMEdsZOvsUK2) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:17 |
 | 24 | [US](https://open.spotify.com/track/1xonJzRr8OL83dQdxMOqRU) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es) | [US](https://open.spotify.com/album/0ESCKKZ7PjrVPaKeP3too3) | 1:16 |

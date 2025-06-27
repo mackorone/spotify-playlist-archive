@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: RACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,897 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,015 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 38 | [MCMG](https://open.spotify.com/track/77Wm22dAxuoUaanH6Rx7aT) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [MCMG](https://open.spotify.com/album/6qmiCrOXBSVeP6ZTg4UF9K) | 2:57 |
 | 39 | [O Adelfos Mou](https://open.spotify.com/track/2AkQ6gjugPoQWIJNZK58OX) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou) | [O Adelfos Mou](https://open.spotify.com/album/15qxgWc7VhtBgiXawteFbA) | 2:53 |
 | 40 | [SIN PLIN](https://open.spotify.com/track/1pZO75V7j80d1mgsQgnjJe) | [DAIMA](https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN), [Stanley](https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75) | [SIN PLIN](https://open.spotify.com/album/6WbBTOHSCSD603ym4WfURh) | 2:13 |
-| 41 | [AUTOS](https://open.spotify.com/track/0EwKlAawFATYjR7Od5ps6k) | [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV) | [AUTOS](https://open.spotify.com/album/5zBsIrSYkD7pa4XYLAOqLs) | 3:11 |
+| 41 | [AUTOS](https://open.spotify.com/track/0EwKlAawFATYjR7Od5ps6k) | [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [AUTOS](https://open.spotify.com/album/5zBsIrSYkD7pa4XYLAOqLs) | 3:11 |
 | 42 | [Kathreftis](https://open.spotify.com/track/4azlWSauf9tzq8otYeEM5U) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Kathreftis](https://open.spotify.com/album/3owgXHYu8c8hp8B0S0LtkR) | 3:09 |
 | 43 | [MOU ZITAS](https://open.spotify.com/track/3Q3e0KMeCinQONCLJyO69X) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [ILEGAL](https://open.spotify.com/album/0XIVH728KNI7KdI19fHeaF) | 2:57 |
 | 44 | [Antigonidon](https://open.spotify.com/track/5XoBIF0Y6zaHjMnf2aZsMh) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy), [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1) | [Fthina Tricks 3](https://open.spotify.com/album/7KA4oKgG0mzJ62dzs9SlyK) | 4:34 |

@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Brand\u00e3o85",
-  "num_followers": 147248,
+  "num_followers": 147253,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,26 @@
     {
       "added_at": "2025-06-20 03:01:31",
       "album": {
+        "name": "Direto da Selva",
+        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Neyriellen Ferreira",
+          "url": "https://open.spotify.com/artist/0FhGKwqvB6mvHxJB2n3fYl"
+        }
+      ],
+      "duration_ms": 200757,
+      "name": "Amanheceu",
+      "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
+    },
+    {
+      "added_at": "2025-06-20 03:01:31",
+      "album": {
         "name": "Emit\u00ea \u00danico On the Radar Freestyle",
         "url": "https://open.spotify.com/album/09ScvVzN0hafQWry6N9kb7"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 138657,
       "name": "Emit\u00ea \u00danico On the Radar Freestyle",
       "url": "https://open.spotify.com/track/6zUCh9am6gzewamg135d9J"
-    },
-    {
-      "added_at": "2025-06-20 03:01:31",
-      "album": {
-        "name": "Direto da Selva",
-        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Neyriellen Ferreira",
-          "url": "https://open.spotify.com/artist/0FhGKwqvB6mvHxJB2n3fYl"
-        }
-      ],
-      "duration_ms": 200757,
-      "name": "Amanheceu",
-      "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
     },
     {
       "added_at": "2025-06-20 03:01:31",

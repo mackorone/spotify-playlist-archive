@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 375020,
+  "num_followers": 375134,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/7KjkVkrQ2FpCySvsn4RiyU"
+      },
+      "artists": [
+        {
+          "name": "Land of Color",
+          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
+        }
+      ],
+      "duration_ms": 238153,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/0MXrQzGM4sD9de2FTRIi8x"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "L E P E R S",
         "url": "https://open.spotify.com/album/2H0tX8aY7tv7oEZIUElWBg"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 250555,
       "name": "L E P E R S",
       "url": "https://open.spotify.com/track/2HWybNOk657p30rPcjBDK7"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Brother",
-        "url": "https://open.spotify.com/album/7KjkVkrQ2FpCySvsn4RiyU"
-      },
-      "artists": [
-        {
-          "name": "Land of Color",
-          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
-        }
-      ],
-      "duration_ms": 238153,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/0MXrQzGM4sD9de2FTRIi8x"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -583,22 +583,18 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "In Bloom",
-        "url": "https://open.spotify.com/album/1p2mOtXzL6GZV5NMuap85T"
+        "name": "SURVEY: Part 1",
+        "url": "https://open.spotify.com/album/4uZlAuQbVCZr4LN8ZOzyg0"
       },
       "artists": [
         {
-          "name": "Jon Foreman",
-          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
         }
       ],
-      "duration_ms": 193000,
-      "name": "In Bloom",
-      "url": "https://open.spotify.com/track/2TNhDjD4wb5XFO2Z7FFWve"
+      "duration_ms": 350783,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/68JEeLG2HrM2jNakDd6YlK"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -619,18 +615,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "SURVEY: Part 1",
-        "url": "https://open.spotify.com/album/4uZlAuQbVCZr4LN8ZOzyg0"
+        "name": "In Bloom",
+        "url": "https://open.spotify.com/album/1p2mOtXzL6GZV5NMuap85T"
       },
       "artists": [
         {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 350783,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/68JEeLG2HrM2jNakDd6YlK"
+      "duration_ms": 193000,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/2TNhDjD4wb5XFO2Z7FFWve"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "Just As I Am (Nothing to Prove)",
+        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Tripodi",
+          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
+        }
+      ],
+      "duration_ms": 316946,
+      "name": "Just As I Am (Nothing to Prove)",
+      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "Taste And See",
         "url": "https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 261000,
       "name": "Taste And See",
       "url": "https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Just As I Am (Nothing to Prove)",
-        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
-      },
-      "artists": [
-        {
-          "name": "Taylor Tripodi",
-          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
-        }
-      ],
-      "duration_ms": 316946,
-      "name": "Just As I Am (Nothing to Prove)",
-      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "The Longing",
-        "url": "https://open.spotify.com/album/6IpXfQ3ZV5OPxtfIUqvgMj"
-      },
-      "artists": [
-        {
-          "name": "Ben Ford",
-          "url": "https://open.spotify.com/artist/10WbhRSfvwdGvzcOx0Ezgi"
-        }
-      ],
-      "duration_ms": 289048,
-      "name": "I Never Knew",
-      "url": "https://open.spotify.com/track/3nEEv82nVunaz0kGgyFWV8"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "The Antidote",
         "url": "https://open.spotify.com/album/1t8xLME4vn0Ev7PtLJ4bL3"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 231773,
       "name": "Open My Eyes",
       "url": "https://open.spotify.com/track/6OtT5Foz3yt1uipoxLYuHo"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "The Longing",
+        "url": "https://open.spotify.com/album/6IpXfQ3ZV5OPxtfIUqvgMj"
+      },
+      "artists": [
+        {
+          "name": "Ben Ford",
+          "url": "https://open.spotify.com/artist/10WbhRSfvwdGvzcOx0Ezgi"
+        }
+      ],
+      "duration_ms": 289048,
+      "name": "I Never Knew",
+      "url": "https://open.spotify.com/track/3nEEv82nVunaz0kGgyFWV8"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "\u2020 (just the cross)",
-        "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
-      },
-      "artists": [
-        {
-          "name": "Futures",
-          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
-        }
-      ],
-      "duration_ms": 398333,
-      "name": "\u2020 (just the cross) - Live",
-      "url": "https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 289411,
       "name": "Hanging onto Every Word That You Say",
       "url": "https://open.spotify.com/track/58qzGFYaVi2EHSldZryfVw"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "\u2020 (just the cross)",
+        "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
+      },
+      "artists": [
+        {
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+        }
+      ],
+      "duration_ms": 398333,
+      "name": "\u2020 (just the cross) - Live",
+      "url": "https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/1gQS21Tf0ahs1o0jhX7Fbz"
+      },
+      "artists": [
+        {
+          "name": "Faith Rose",
+          "url": "https://open.spotify.com/artist/364y53omHupjImsnsOJkpp"
+        }
+      ],
+      "duration_ms": 229617,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/569CqUlVdNPKC5FOfiXiwJ"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "Stained Glass",
         "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 121363,
       "name": "peacefully",
       "url": "https://open.spotify.com/track/0ElI3XRqlLozGrHzMhTkAM"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/1gQS21Tf0ahs1o0jhX7Fbz"
-      },
-      "artists": [
-        {
-          "name": "Faith Rose",
-          "url": "https://open.spotify.com/artist/364y53omHupjImsnsOJkpp"
-        }
-      ],
-      "duration_ms": 229617,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/569CqUlVdNPKC5FOfiXiwJ"
     },
     {
       "added_at": "2024-08-03 00:38:12",

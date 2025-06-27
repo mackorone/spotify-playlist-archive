@@ -476,7 +476,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 197538,
       "name": "Always Hurts",
       "url": "https://open.spotify.com/track/7fj1Ny96E195t9mKIYYXFy"
@@ -3298,7 +3298,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-12",
+      "date_removed": null,
       "duration_ms": 194360,
       "name": "Hola",
       "url": "https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj"
@@ -9047,6 +9047,24 @@
     },
     {
       "album": {
+        "name": "\u30b7\u30e3\u30ca\u30ca",
+        "url": "https://open.spotify.com/album/6odirUSwzxPXuyGzOOkaxz"
+      },
+      "artists": [
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217979,
+      "name": "\u30b7\u30e3\u30ca\u30ca",
+      "url": "https://open.spotify.com/track/0AsbrhosvIDAMdTGgbbGjP"
+    },
+    {
+      "album": {
         "name": "\u30b9\u30fc\u30b5\u30a4\u30c9:) (acoustic ver.)",
         "url": "https://open.spotify.com/album/5NvYd9nWBWJlY2zM3fQK2S"
       },
@@ -9554,7 +9572,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 270660,
       "name": "\u85cd",
       "url": "https://open.spotify.com/track/3MWKiEOWIaZlJCNaGJodpX"

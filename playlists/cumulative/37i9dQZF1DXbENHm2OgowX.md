@@ -4,7 +4,7 @@
 
 > wandering the forest as the fog floats through the trees
 
-169 songs - 14 hr 17 min
+170 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [If I Let Him In](https://open.spotify.com/track/6kpzNYqt7X3r3aMXDyZgHe) | [Black Wing](https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo) | [...Is Doomed](https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP) | 8:25 | 2022-02-11 | 2025-05-27 |
 | [Inertia](https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Inertia](https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm) | 2:48 | 2025-06-05 |  |
 | [Inside Out](https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 2:21 | 2022-11-09 | 2023-01-10 |
+| [its never enough](https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l) | [les](https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi) | [its never enough](https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE) | 1:38 | 2025-06-20 |  |
 | [Kaiten](https://open.spotify.com/track/6JQoJ1mnw5nK9zR6UP8umm) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Kaiten](https://open.spotify.com/album/2witCrY38mr4JAfMSDKkty) | 2:48 | 2024-05-28 | 2024-12-13 |
 | [Lie Beneath the Stars](https://open.spotify.com/track/1zSuezypJNKfab1FnC83HG) | [Rokkr](https://open.spotify.com/artist/3SbX2Y0sQD6w8KmbJhXQZs) | [Lie Beneath the Stars](https://open.spotify.com/album/4hIXAm8DjhWViiAvruMVaj) | 6:29 | 2022-11-09 | 2024-04-19 |
 | [Lie Beneath the Stars](https://open.spotify.com/track/7ILPkivkaRXqU3A2cZdFAl) | [Rokkr](https://open.spotify.com/artist/3SbX2Y0sQD6w8KmbJhXQZs) | [Lie Beneath the Stars](https://open.spotify.com/album/4hTYTkctuDjDJNm5C52kOm) | 6:29 | 2022-02-25 | 2022-07-29 |
@@ -159,7 +160,7 @@
 | [The Haunting Presence](https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V) | [Giles Corey](https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv) | [Giles Corey](https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu) | 7:57 | 2022-02-11 | 2025-06-21 |
 | [The Marble Eye](https://open.spotify.com/track/3AoQFwWETVhTYaM7dzcuoe) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Dead Magic](https://open.spotify.com/album/29haLrvX37jDkDfwVk4FKV) | 5:18 | 2022-02-11 | 2024-01-12 |
 | [The Marble Eye](https://open.spotify.com/track/5tWSQ1cXoMBafYnEwmSVkS) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Dead Magic](https://open.spotify.com/album/6TwIgTmp0ntCzuc846KoXB) | 5:18 | 2023-09-22 | 2024-04-19 |
-| [The Monolith](https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar](https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9) | 4:32 | 2025-03-14 |  |
+| [The Monolith](https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar](https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9) | 4:32 | 2025-03-14 | 2025-06-27 |
 | [The Mysterious Vanishing of Electra](https://open.spotify.com/track/6y1hWuNQjq0x4qqVqfpp1Q) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Dead Magic](https://open.spotify.com/album/29haLrvX37jDkDfwVk4FKV) | 6:08 | 2022-02-11 | 2023-01-10 |
 | [The Promise of Snakes](https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D) | [The Angelic Process](https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W) | [Weighing Souls With Sand](https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl) | 9:32 | 2022-02-11 |  |
 | [They'll Only Miss You When You Leave](https://open.spotify.com/track/3FmLbfanuf7XgtBypPWWcS) | [Carissa's Wierd](https://open.spotify.com/artist/5VnYwYnG7QmpzQtxyubIwh) | [Songs About Leaving](https://open.spotify.com/album/0DUYAw29meoZyNTJIbXKkf) | 4:46 | 2022-02-11 |  |

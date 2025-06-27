@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Sylwia Grzeszczak",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Sarsa",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -64,6 +64,24 @@
       "duration_ms": 197333,
       "name": "12 zmys\u0142\u00f3w",
       "url": "https://open.spotify.com/track/3SSFzI5YpojR8fzirESKBj"
+    },
+    {
+      "album": {
+        "name": "3 miesi\u0105ce",
+        "url": "https://open.spotify.com/album/1dxdAf7bnlWEepfGzghnDN"
+      },
+      "artists": [
+        {
+          "name": "Maja Krzy\u017cewska",
+          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172213,
+      "name": "3 miesi\u0105ce",
+      "url": "https://open.spotify.com/track/0iKPBfpv6Iy9swjYfAWXde"
     },
     {
       "album": {
@@ -226,6 +244,24 @@
       "duration_ms": 169163,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4ffFByoICCx9gKDQKLJK0M"
+    },
+    {
+      "album": {
+        "name": "Amnezja",
+        "url": "https://open.spotify.com/album/37nJyQdT1nsfvdh4zykzFC"
+      },
+      "artists": [
+        {
+          "name": "Bletka",
+          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Amnezja",
+      "url": "https://open.spotify.com/track/121aZPZQAEPqcdFVJ2z3U8"
     },
     {
       "album": {
@@ -392,7 +428,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 164869,
       "name": "bar",
       "url": "https://open.spotify.com/track/2bQ13mtxi4q94lETwm3rln"
@@ -738,7 +774,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 184778,
       "name": "Bucket list",
       "url": "https://open.spotify.com/track/5rhwoZ4ODqBk0LkGGzfbqH"
@@ -1336,7 +1372,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 171063,
       "name": "Czere\u015bnie",
       "url": "https://open.spotify.com/track/5UiQQZALNKpofBDXzpRcfp"
@@ -2398,7 +2434,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 157660,
       "name": "Fa\u0142szywy Alarm",
       "url": "https://open.spotify.com/track/3LD6yLhUAuuL5blEvO3CAz"
@@ -2598,7 +2634,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 180553,
       "name": "GAJA - Eurovision Edit",
       "url": "https://open.spotify.com/track/0wNpA89DLOyKlZZVJ7wCac"
@@ -2762,7 +2798,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 159193,
       "name": "Halny wietrze",
       "url": "https://open.spotify.com/track/7KcbXAQ9KKeNzwxwIYSEPk"
@@ -3347,6 +3383,24 @@
     },
     {
       "album": {
+        "name": "Jeszcze raz",
+        "url": "https://open.spotify.com/album/1RsZtOTCP3XVv240LxDrhb"
+      },
+      "artists": [
+        {
+          "name": "Briela",
+          "url": "https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152481,
+      "name": "Jeszcze raz",
+      "url": "https://open.spotify.com/track/6n6sEKy1885BNIXiapog4E"
+    },
+    {
+      "album": {
         "name": "Kalejdoskop",
         "url": "https://open.spotify.com/album/55ZJO1R3deCKe2aDItl9e3"
       },
@@ -3872,10 +3926,36 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 184500,
       "name": "LABUBU",
       "url": "https://open.spotify.com/track/4BY3ThfL9Mo43cz6GkrIO3"
+    },
+    {
+      "album": {
+        "name": "Lady",
+        "url": "https://open.spotify.com/album/6BReBXP1hP11WomYpiG2rg"
+      },
+      "artists": [
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        },
+        {
+          "name": "Smolasty",
+          "url": "https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP"
+        },
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166854,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/66jx90gh2IIepaFfiYiU8m"
     },
     {
       "album": {
@@ -4080,6 +4160,24 @@
       "duration_ms": 165900,
       "name": "Let it burn",
       "url": "https://open.spotify.com/track/4hzaKHbkdIUCjfV0IOi8UA"
+    },
+    {
+      "album": {
+        "name": "Letni",
+        "url": "https://open.spotify.com/album/5W1OECvmOy8qTp3FAYdYWj"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148847,
+      "name": "Letni",
+      "url": "https://open.spotify.com/track/1jjkob4b4R34GxNVHSvg0X"
     },
     {
       "album": {
@@ -4364,7 +4462,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 198868,
       "name": "Marysia Kowalska",
       "url": "https://open.spotify.com/track/5iEVXQqsIhT3e7BnMtgq53"
@@ -4830,6 +4928,24 @@
       "duration_ms": 188076,
       "name": "Moje miejsce",
       "url": "https://open.spotify.com/track/7KZQWqYf18O2hZrMQJGvgy"
+    },
+    {
+      "album": {
+        "name": "Moje usta",
+        "url": "https://open.spotify.com/album/4BnbOtqERxaROsF8jLuquX"
+      },
+      "artists": [
+        {
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170869,
+      "name": "Moje usta",
+      "url": "https://open.spotify.com/track/5Rqf5RRQiWCLfS1ak50Vo6"
     },
     {
       "album": {
@@ -5300,7 +5416,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 176271,
       "name": "Naucz mnie (od nowa)",
       "url": "https://open.spotify.com/track/0ZpQAccSmmhehQKQ7qduLI"
@@ -6753,6 +6869,24 @@
     },
     {
       "album": {
+        "name": "Pierwszy mit",
+        "url": "https://open.spotify.com/album/5gtyQBfikKO7eMrNtQMAbK"
+      },
+      "artists": [
+        {
+          "name": "WOLSKA",
+          "url": "https://open.spotify.com/artist/6W535X9Sk4zYwdMeXQ8LwM"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Pierwszy mit",
+      "url": "https://open.spotify.com/track/67OsNKKQAYHgBcLfT1iPgD"
+    },
+    {
+      "album": {
         "name": "Pies",
         "url": "https://open.spotify.com/album/0WTzlIv8TWQ0EA6Xbu6xtP"
       },
@@ -6812,6 +6946,24 @@
       "duration_ms": 152000,
       "name": "Piosenka o ko\u0144cu \u015bwiata",
       "url": "https://open.spotify.com/track/6EG5wyQNe9IQcA1r9G25Qc"
+    },
+    {
+      "album": {
+        "name": "o smutnych ludziach",
+        "url": "https://open.spotify.com/album/5UMxjPRWqpHWjceBhznKop"
+      },
+      "artists": [
+        {
+          "name": "Norbert Wronka",
+          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157621,
+      "name": "piosenka o smutnych ludziach",
+      "url": "https://open.spotify.com/track/1EXS8qtTTCUZlwfyXiqMSn"
     },
     {
       "album": {
@@ -7416,6 +7568,28 @@
     {
       "album": {
         "name": "P\u00f3\u0142 na p\u00f3\u0142",
+        "url": "https://open.spotify.com/album/38Em77JCMZU75UwzAzFvgQ"
+      },
+      "artists": [
+        {
+          "name": "Klaudia \u017bak",
+          "url": "https://open.spotify.com/artist/2YC1N4rpefPYAhn94AOypT"
+        },
+        {
+          "name": "samunowak",
+          "url": "https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153120,
+      "name": "P\u00f3\u0142 na p\u00f3\u0142",
+      "url": "https://open.spotify.com/track/2GzjuAfzhtuopReDL6FuCI"
+    },
+    {
+      "album": {
+        "name": "P\u00f3\u0142 na p\u00f3\u0142",
         "url": "https://open.spotify.com/album/3hyEeIghFGbEf9YU33qNkl"
       },
       "artists": [
@@ -7898,7 +8072,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 161189,
       "name": "Stan skupienia",
       "url": "https://open.spotify.com/track/6MtBJw60KRI5A1K8fHDydB"
@@ -7938,6 +8112,28 @@
       "duration_ms": 153600,
       "name": "STER",
       "url": "https://open.spotify.com/track/6O7nUzSVBfMAIF5hJo6dDw"
+    },
+    {
+      "album": {
+        "name": "sticky rice",
+        "url": "https://open.spotify.com/album/7sfA7avZWjCLToSLhteWBF"
+      },
+      "artists": [
+        {
+          "name": "Fausti",
+          "url": "https://open.spotify.com/artist/6A1ynRvP3mW9mlLkWcSnlx"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187428,
+      "name": "sticky rice",
+      "url": "https://open.spotify.com/track/11pYSQjxJ57i6tsu1OIzOk"
     },
     {
       "album": {
@@ -8398,7 +8594,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 195093,
       "name": "Tam s\u0142o\u0144ce, gdzie my",
       "url": "https://open.spotify.com/track/1Wh2SwNbe3OQCoskPc3fD8"
@@ -8686,6 +8882,28 @@
       "duration_ms": 234666,
       "name": "To tylko wiosna",
       "url": "https://open.spotify.com/track/7lK3S48dLraP8kZ18XPTSO"
+    },
+    {
+      "album": {
+        "name": "Tom Yum (feat. Kacperczyk)",
+        "url": "https://open.spotify.com/album/0nbSOtW1FW0yZTBDi9g54D"
+      },
+      "artists": [
+        {
+          "name": "Daria Zawia\u0142ow",
+          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
+        },
+        {
+          "name": "Kacperczyk",
+          "url": "https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160457,
+      "name": "Tom Yum (feat. Kacperczyk)",
+      "url": "https://open.spotify.com/track/6ryyTwboF5cgbx9uUMLhSY"
     },
     {
       "album": {
@@ -9062,7 +9280,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 141103,
       "name": "W Moim Ogr\u00f3decku (feat. Diiya)",
       "url": "https://open.spotify.com/track/2482lGws4T8u6t5kNLBbi8"
@@ -10394,6 +10612,24 @@
       "duration_ms": 150620,
       "name": "Z\u0142oty piasek",
       "url": "https://open.spotify.com/track/0KxGw0LdY2SM0OISevzACW"
+    },
+    {
+      "album": {
+        "name": "lekko",
+        "url": "https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "Z\u0141Y",
+      "url": "https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6"
     },
     {
       "album": {

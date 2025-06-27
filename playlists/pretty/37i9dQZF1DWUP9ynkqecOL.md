@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,659 likes - 80 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,666 likes - 80 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 54 | [Noche \- Remix](https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt) | [Bosquemar](https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY) | [Dia Y Noche](https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv) | 7:05 |
 | 55 | [Quita La Pena](https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d) | [Terraplén](https://open.spotify.com/artist/3o1PqOdaqzmzkYtYdUQxNe) | [Terraplén](https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q) | 3:56 |
 | 56 | [Antikuna Anqa](https://open.spotify.com/track/2B9mD5rMhk1WQgs3AM3sgO) | [Nintu](https://open.spotify.com/artist/6fhBqhLVgzSRQAvGxm4yt5), [Mauricio Arratia](https://open.spotify.com/artist/42h2ekeqZDzgo6IcfiPpai), [Pao Pamaki](https://open.spotify.com/artist/6vqF9GI9o8la8YpvWQaWbz) | [Antikuna Anqa](https://open.spotify.com/album/5OjIJkbPTPDdOy8n7Fb2UD) | 7:36 |
-| 57 | [Truenatruena](https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a) | [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G) | [Truenatruena](https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0) | 4:32 |
-| 58 | [Tierra Natal \- Barzo Remix](https://open.spotify.com/track/61rdpohhquc8kcD1VBZSY0) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [Tierra Natal \(Barzo Remix\)](https://open.spotify.com/album/33JGt2tM21JG75Sf0dzpmI) | 3:19 |
+| 57 | [Tierra Natal \- Barzo Remix](https://open.spotify.com/track/61rdpohhquc8kcD1VBZSY0) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [Tierra Natal \(Barzo Remix\)](https://open.spotify.com/album/33JGt2tM21JG75Sf0dzpmI) | 3:19 |
+| 58 | [Truenatruena](https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a) | [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G) | [Truenatruena](https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0) | 4:32 |
 | 59 | [Cuando Oigo Sonar la Caja \(Ruido Selecto Remix\)](https://open.spotify.com/track/48pUSL891H5B5dGOFjhuiV) | [Soema Montenegro](https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO), [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Ruido Selecto](https://open.spotify.com/artist/0KF0b0vIeTNPIzYSIAOAPu) | [Cuando Oigo Sonar la Caja \(Ruido Selecto Remix\)](https://open.spotify.com/album/3n3CKxAnNg216UAyDogzeQ) | 3:20 |
 | 60 | [Carnabailito](https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK) | [Gaby Kerpel](https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4) | [CARNABAILITO](https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB) | 5:25 |
 | 61 | [Carnabailito](https://open.spotify.com/track/2cVzbNbNXg0NlWyqefuYix) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Magnetismo](https://open.spotify.com/album/3gCfM35GYz3JC4nLcr9RyU) | 4:01 |

@@ -4,7 +4,7 @@
 
 > You're warm and cozy inside, listening to the sound of the rain outside\. <br/>Get into the flow, there's nowhere else you need to go.
 
-160 songs - 7 hr 34 min
+161 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,12 +12,13 @@
 | [Always Raining](https://open.spotify.com/track/1q2KP0U1lQ7MzCTNwC1zpb) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [Rain over Cornwall](https://open.spotify.com/album/2UdIfBZWnq0uNMvkPEirzy) | 3:28 | 2022-11-21 |  |
 | [Amber Leaves \(Rain\)](https://open.spotify.com/track/4fCsvCujFVP1AEcO9Yp24d) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Cloud Nine \(Rain\)](https://open.spotify.com/album/10XlnRF1Wd9PDMYgLVwSZU) | 2:59 | 2022-11-21 | 2024-03-25 |
 | [August Rain \- Green Noise](https://open.spotify.com/track/1Ll6DbRDeyQTkNdW0AbnmL) | [JBE Noise Factory](https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb) | [Green Noise Vol\. 1](https://open.spotify.com/album/5ZSsHlWLo7Zginr7ig47Pw) | 2:27 | 2023-10-11 |  |
+| [Autumn Rain](https://open.spotify.com/track/3kWteyOjUnjJbm8W78KuLO) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Autumn Rain](https://open.spotify.com/album/1B5lpPLBPgHI0lYUdIiSA6) | 2:09 | 2024-08-23 |  |
 | [Bajo el paraguas](https://open.spotify.com/track/03LAJ7B7jCiLthiT3higCE) | [Weather Modifier](https://open.spotify.com/artist/3K7OgYrxkpevhaJugrGYSN) | [Bajo el paraguas](https://open.spotify.com/album/3Ic7NfvpRKX8lpksj0pqiQ) | 2:03 | 2022-11-21 |  |
 | [Beautiful Rain \- 3.15 kHz](https://open.spotify.com/track/780Nf8Vlcagyf1SAzMrJE5) | [Lissabon Spring Rain](https://open.spotify.com/artist/6Yw7xTCv06irrYjEXsX4F3) | [More Algarve Rain Sounds](https://open.spotify.com/album/3NKXyOKPVvzmvNU31o9QgU) | 2:21 | 2022-11-21 |  |
 | [Big Droppa feat Lil Rumble](https://open.spotify.com/track/4SyLIMUAIxuKQR50mSNwZA) | [Aquaplasm](https://open.spotify.com/artist/54uoUg5UaYhb1MFVz3Q5Jq) | [Waterscapes pt\. 2](https://open.spotify.com/album/3fCF3TkpMh1rh9q4Vs9r4z) | 2:02 | 2023-10-11 |  |
 | [Blue Rain](https://open.spotify.com/track/0KtkTIJkUzDrpCuloUxwpS) | [Kings Rain](https://open.spotify.com/artist/4r5tD2tk051ly22Q6eVura) | [Blue Rain](https://open.spotify.com/album/5De22XRwH7FGhcT20r4kJx) | 2:46 | 2022-11-21 |  |
 | [Breeze Rain](https://open.spotify.com/track/7DT43PWmrMGgPLYlP1CIey) | [Wet Rain 3AM](https://open.spotify.com/artist/4IdG84VRCzsDUbDTaLZT2d) | [More Rain](https://open.spotify.com/album/0Q1B0Feeqyc8rwoDQ6CVK9) | 3:15 | 2022-11-21 |  |
-| [Calmed By The Rain](https://open.spotify.com/track/1tYJSbl1q93xx9eQrrzsVF) | [naturae](https://open.spotify.com/artist/4paf9aJz5xldJSOCLfJKez) | [Calmed By The Rain](https://open.spotify.com/album/4M5R3F1Dl8bUL2jaVZAOmR) | 2:54 | 2022-11-21 |  |
+| [Calmed By The Rain](https://open.spotify.com/track/1tYJSbl1q93xx9eQrrzsVF) | [naturae](https://open.spotify.com/artist/4paf9aJz5xldJSOCLfJKez) | [Calmed By The Rain](https://open.spotify.com/album/4M5R3F1Dl8bUL2jaVZAOmR) | 2:54 | 2022-11-21 | 2025-06-27 |
 | [Calming Drizzle](https://open.spotify.com/track/02WdLBG087ZR478yCXy6o8) | [Rainy Windows](https://open.spotify.com/artist/32EhyFcKSpZ2akw9gwrnWo) | [Zen Drops](https://open.spotify.com/album/1qMAKKaFFshtUgg43sYNwn) | 2:42 | 2023-10-11 |  |
 | [Calming Rain Forest](https://open.spotify.com/track/6w5nfQXceDxyzCSC90Vate) | [Mind & Body](https://open.spotify.com/artist/6JYtJJDafQm9bjAm5zRxbz) | [Calming Rain Forest](https://open.spotify.com/album/3FONPWCDZuVg3n5izU4dXg) | 2:52 | 2023-10-11 |  |
 | [Calming Rain Harmony](https://open.spotify.com/track/6xKZISN8TVnIM0PRHs6Vqu) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Calming Rain Harmony](https://open.spotify.com/album/7DRdQShYrQikRl9Vyggemq) | 3:01 | 2023-10-11 |  |

@@ -2,7 +2,7 @@
 
 ### [Chill Dance](https://open.spotify.com/playlist/37i9dQZF1DX6Z0nWFAx7KL)
 
-> easy breezy dance music
+> easy breezy summer 2025 ☀️☺️
 
 320 songs - 15 hr 48 min
 

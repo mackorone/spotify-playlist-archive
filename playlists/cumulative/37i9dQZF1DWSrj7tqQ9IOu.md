@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Odetto
+> The best French indie tracks right now\. Cover : BLOWSOM
 
-658 songs - 1 day 11 hr 36 min
+660 songs - 1 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,7 +437,7 @@
 | [Oddy](https://open.spotify.com/track/4oCzdV9GagnXw40awTB99H) | [Fellini Félin](https://open.spotify.com/artist/1FTFy5sAOlZpN6GY6s9VLh) | [Oddy](https://open.spotify.com/album/1FWvTmqkkjyCTYDEIqMOMA) | 3:32 | 2023-11-30 | 2024-11-22 |
 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 | 2023-07-27 | 2023-09-15 |
 | [Odyssey](https://open.spotify.com/track/3ULSfbtXLBo4AehHye9ft9) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/69TTmajR0erSyTATVPd4cK) | 3:46 | 2023-06-22 | 2023-07-28 |
-| [Off The Ground](https://open.spotify.com/track/3yIGWpmhul23xz9C3PXPQ2) | [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Off The Ground](https://open.spotify.com/album/689JJdi5MRiutt90NzEVOv) | 2:32 | 2025-06-05 |  |
+| [Off The Ground](https://open.spotify.com/track/3yIGWpmhul23xz9C3PXPQ2) | [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Off The Ground](https://open.spotify.com/album/689JJdi5MRiutt90NzEVOv) | 2:32 | 2025-06-05 | 2025-06-27 |
 | [Oh Why](https://open.spotify.com/track/43uSB7AO2UNDR6fx3NDhs1) | [Jil Is Lucky](https://open.spotify.com/artist/4O82966S46TGCDsAzRFlku) | [Oh Why](https://open.spotify.com/album/45Z8Fq7iWwQdcHzIOgMhyf) | 2:47 | 2024-09-19 | 2025-01-31 |
 | [Oiseau de Paradis](https://open.spotify.com/track/2lPuLP88b7BUiJuh1jurXV) | [Montmartre](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Oiseau de Paradis](https://open.spotify.com/album/5FKhkWVXjUjJZXFQlSkh4b) | 2:53 | 2022-06-30 | 2022-09-02 |
 | [On My Own](https://open.spotify.com/track/6p5gfF0VxadWM9elzdlvG6) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [On My Own](https://open.spotify.com/album/4f8GQzuYbXucqnwltQqYXQ) | 2:26 | 2023-09-28 | 2023-10-27 |
@@ -499,6 +499,7 @@
 | [Rengaine](https://open.spotify.com/track/11oSV1uWeXCF4jSzwpZffA) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [11 mai 2020](https://open.spotify.com/album/0BoigvsL13ZlJ54rbTryoq) | 2:50 | 2022-06-30 | 2023-03-25 |
 | [rentrer chez moi](https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rentrer chez moi](https://open.spotify.com/album/3d8yIiEx11x64VMAbpoQcU) | 3:39 | 2024-04-25 | 2024-09-13 |
 | [RESONATE](https://open.spotify.com/track/78FD0s97huTKxCw7Q2tM6J) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [RESONATE](https://open.spotify.com/album/6RhSScp7LgXmw9vikoALss) | 2:41 | 2023-08-24 | 2023-09-29 |
+| [Revenant du Nord](https://open.spotify.com/track/6LzQGdaszVI58YLZrmSDPU) | [Orchestre Tout Puissant Marcel Duchamp](https://open.spotify.com/artist/7L8bsKFWYTMJj9c5HIPNtR), [Frànçois & The Altlas Mountains](https://open.spotify.com/artist/5ZGiZdfaYeJIXKuLKBEj8K) | [Revenant du Nord](https://open.spotify.com/album/0GDJ31tKJWzRuba176idJB) | 3:10 | 2025-06-26 |  |
 | [Reviens](https://open.spotify.com/track/2lfuJC4pd1zF9op7fL5qdr) | [Mezzanine](https://open.spotify.com/artist/5jzf34Dm3S5hnp9iwPxVBw) | [Reviens](https://open.spotify.com/album/6B0BFESRyFXWGEjjMxGS7Y) | 3:19 | 2022-06-02 | 2022-09-16 |
 | [rien dire](https://open.spotify.com/track/7nAU7YNFqUCb91FkTDVEUD) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rien dire](https://open.spotify.com/album/2Kl3eV9Yo13AR4mgAXgWQu) | 3:02 | 2022-09-29 | 2022-11-18 |
 | [Riverside](https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Riverside](https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i) | 4:43 | 2024-12-12 | 2025-03-21 |
@@ -566,7 +567,7 @@
 | [Série B](https://open.spotify.com/track/0aUOoC8yi2GkWEb3styxmO) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Série B](https://open.spotify.com/album/7a2Pfndpa3oxlHwJTfKiEb) | 3:21 | 2023-03-09 | 2023-07-07 |
 | [T PAS SI BO](https://open.spotify.com/track/2vA0ne4qtPRdQelgpOd33j) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [T PAS SI BO](https://open.spotify.com/album/7lkIqJwjswavQGu4eW0KNz) | 2:11 | 2024-12-05 | 2025-01-10 |
 | [T'étais pas là](https://open.spotify.com/track/46OzY465Q9H3j1OQ0l8UCO) | [BRÖ](https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5), [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu) | [Grande](https://open.spotify.com/album/4qz9mg45ugo0PxWSBxSdR7) | 3:46 | 2023-03-30 | 2023-04-21 |
-| [TA LETTRE](https://open.spotify.com/track/23VcYslv7rlmMdVzzxGrUJ) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [TA LETTRE](https://open.spotify.com/album/1lhkv34eWTxdXYvRmdz7l1) | 3:11 | 2025-05-15 |  |
+| [TA LETTRE](https://open.spotify.com/track/23VcYslv7rlmMdVzzxGrUJ) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [TA LETTRE](https://open.spotify.com/album/1lhkv34eWTxdXYvRmdz7l1) | 3:11 | 2025-05-15 | 2025-06-27 |
 | [Tactile](https://open.spotify.com/track/4mhQB2RbdTafiNaw6mIYnX) | [Fhin](https://open.spotify.com/artist/5bvwbAyrx6Yk8oLHqOnJ9p), [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [Tactile](https://open.spotify.com/album/5QJW7EAwmX2dNIttVMPkt6) | 3:37 | 2022-11-17 | 2022-12-02 |
 | [Tandem](https://open.spotify.com/track/6EpXkYDIjzUnJlXzJuQIXE) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Tandem](https://open.spotify.com/album/0xW35d2VzLZaCiIeG4BLRs) | 3:19 | 2022-04-28 | 2022-11-11 |
 | [Tata](https://open.spotify.com/track/5toHaNWeaCf5cw9Jfn6yK4) | [Johan Papaconstantino](https://open.spotify.com/artist/7xuc5o2ysVzV0UDiGordzO) | [Tata](https://open.spotify.com/album/6D2bRl9q3zF2Rt3hcSQaRu) | 3:58 | 2021-12-16 | 2022-02-25 |
@@ -626,13 +627,14 @@
 | [Vendredi](https://open.spotify.com/track/4t4yg2KLRIJtM4dzU277LW) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Vivant](https://open.spotify.com/album/3DwFd9rWKeSNKhYeBgRfbD) | 3:14 | 2025-01-09 | 2025-03-21 |
 | [VENUS](https://open.spotify.com/track/6pWVce5c6JXqFfl7JfJBnl) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [LONGO MAÏ](https://open.spotify.com/album/1e6H42WI9oJ8rOSYDjrIcf) | 3:03 | 2022-06-02 | 2022-09-16 |
 | [Venus](https://open.spotify.com/track/0XVfjgNXQN5TFZM5tODTSk) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Rock Machine](https://open.spotify.com/album/0DmfmHvNTUhaCXKY3JlceI) | 3:02 | 2024-10-10 |  |
+| [Vertical Life](https://open.spotify.com/track/18xrN9c6ONI6RkcuKPUl9Y) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Vertical Life](https://open.spotify.com/album/2eLwJXkVQwEJmXt1a787VI) | 3:34 | 2025-06-26 |  |
 | [Vidéodrome](https://open.spotify.com/track/6o9QXLoLe1SBmufPo5Dyu4) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Vidéodrome](https://open.spotify.com/album/6wvnzv5Y9xg6SH14Q598xe) | 3:07 | 2022-07-21 | 2023-01-27 |
 | [Viens on prend le temps](https://open.spotify.com/track/4DzyOw0ACdOdOqzh6suSWj) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Viens on prend le temps](https://open.spotify.com/album/7q3GG7E7Lf3Dlvk5XZ9MYA) | 2:56 | 2024-07-18 | 2024-12-06 |
 | [Virus X \- SAGE Rework \- radio edit](https://open.spotify.com/track/0Yr1TfeacyGFyDe0aWDla9) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk), [Italoconnection](https://open.spotify.com/artist/2H89jjAoarp9VqMxT8W0et) | [Virus X](https://open.spotify.com/album/4KIibT2LzfY64VxJWWABJc) | 2:45 | 2021-12-16 | 2022-01-07 |
 | [Vitesse](https://open.spotify.com/track/4DhlB9yRUYEyIFluBInAtX) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Vitesse](https://open.spotify.com/album/1OZCPkSN0TafKv9x5ScGyz) | 2:48 | 2022-05-06 | 2022-11-11 |
 | [Voices In Your Head](https://open.spotify.com/track/4HBWcKtybdLFvFQpE2kQuy) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Voices In Your Head](https://open.spotify.com/album/06JI1wmYUr0aXc4mI74EnP) | 4:15 | 2022-12-08 | 2023-01-20 |
 | [Vous !](https://open.spotify.com/track/2nHe5UGcgaKpNue5w9ddXa) | [Moussa](https://open.spotify.com/artist/5szBKM0Zc5bKmQvkiO1NDS) | [Vous !](https://open.spotify.com/album/1R6fcOqHQGp02MpUY4DSBN) | 2:16 | 2025-04-17 | 2025-05-16 |
-| [Voyeurisme](https://open.spotify.com/track/4wkoMRbuxd07GbA7ZDy3fi) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Voyeurisme](https://open.spotify.com/album/13cOuw1n2MIymW6G8Fvnrt) | 2:44 | 2025-02-06 |  |
+| [Voyeurisme](https://open.spotify.com/track/4wkoMRbuxd07GbA7ZDy3fi) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Voyeurisme](https://open.spotify.com/album/13cOuw1n2MIymW6G8Fvnrt) | 2:44 | 2025-02-06 | 2025-06-27 |
 | [Végétal](https://open.spotify.com/track/2xTXlI2LSQSVmXD7NjKG7i) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Végétal](https://open.spotify.com/album/6iJIfQv03arV8wBZYFDKtQ) | 3:53 | 2024-06-06 | 2024-10-11 |
 | [Walking On the Line](https://open.spotify.com/track/11TRPmEZ4xhgwPpBOb19bu) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Walking On the Line](https://open.spotify.com/album/0IzRb9JqkitCfJaayIBkf4) | 4:38 | 2023-03-16 | 2023-04-07 |
 | [Wasting Time](https://open.spotify.com/track/3WpHDeAOuLc8J2vnnnwvey) | [Gurth](https://open.spotify.com/artist/3Jp2CVbWo0yJs60rPyIlTb), [Diane Sagnier](https://open.spotify.com/artist/7grNqGVCIRH4ZM3UR1QAay), [Pangol](https://open.spotify.com/artist/24GK68qM53IIPkK3NEYHd4) | [Wasting Time](https://open.spotify.com/album/5ThfqHk4kjrciX3uGZNods) | 3:08 | 2024-01-18 | 2024-02-24 |

@@ -913,6 +913,24 @@
     },
     {
       "album": {
+        "name": "hometown",
+        "url": "https://open.spotify.com/album/4RBJ0zVVsPuekjktaVNyeQ"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174546,
+      "name": "hometown",
+      "url": "https://open.spotify.com/track/19E4xm8OhtXeQ93ccRCeJJ"
+    },
+    {
+      "album": {
         "name": "Honeycrash",
         "url": "https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo"
       },
@@ -1220,7 +1238,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 266026,
       "name": "Mary Boone",
       "url": "https://open.spotify.com/track/6OjwIdLlkjCLuOThOwODEY"
@@ -1699,6 +1717,28 @@
     },
     {
       "album": {
+        "name": "TWO",
+        "url": "https://open.spotify.com/album/2O0QmR1oXCc70QLwYDn03z"
+      },
+      "artists": [
+        {
+          "name": "O3ohn",
+          "url": "https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI"
+        },
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124479,
+      "name": "PURE",
+      "url": "https://open.spotify.com/track/5NFaJjMuxjlzQWAetRr37C"
+    },
+    {
+      "album": {
         "name": "Neon Pill",
         "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
       },
@@ -1714,6 +1754,24 @@
       "duration_ms": 195760,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x"
+    },
+    {
+      "album": {
+        "name": "Remember!",
+        "url": "https://open.spotify.com/album/11EGNnLOAlNLUXysHvuH2t"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212333,
+      "name": "Remember! (English Version)",
+      "url": "https://open.spotify.com/track/4EreVLFkdXdo3kdgZAnV0V"
     },
     {
       "album": {
@@ -1998,7 +2056,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 183133,
       "name": "Spectator",
       "url": "https://open.spotify.com/track/0W9jWMTASe0JmydIrXwSEz"
@@ -2448,7 +2506,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 250148,
       "name": "What Are You Looking for?",
       "url": "https://open.spotify.com/track/67MxXviUVpL6GoJ1h4tgFk"

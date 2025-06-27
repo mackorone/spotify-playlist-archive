@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: \uc721\uc131\uc7ac) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 376529,
+  "num_followers": 376534,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-06-19 09:06:13",
       "album": {
-        "name": "Bye",
-        "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
-      },
-      "artists": [
-        {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
-        }
-      ],
-      "duration_ms": 290960,
-      "name": "Soju Hanjan",
-      "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
-    },
-    {
-      "added_at": "2025-06-19 09:06:13",
-      "album": {
         "name": "\ucc9c\uad6d\uc758 \uacc4\ub2e8 OST",
         "url": "https://open.spotify.com/album/5uZtiEhZmVROQk8dsiOrwq"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 244128,
       "name": "\ubcf4\uace0\uc2f6\ub2e4",
       "url": "https://open.spotify.com/track/4i39vkBJzBnYvBMua65Rwi"
+    },
+    {
+      "added_at": "2025-06-19 09:06:13",
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "duration_ms": 290960,
+      "name": "Soju Hanjan",
+      "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
     },
     {
       "added_at": "2025-06-19 09:06:13",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-06-19 09:06:13",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM"
-      },
-      "artists": [
-        {
-          "name": "DOYOUNG",
-          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
-        }
-      ],
-      "duration_ms": 170533,
-      "name": "17",
-      "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
-    },
-    {
-      "added_at": "2025-06-19 09:06:13",
-      "album": {
         "name": "Stay Here",
         "url": "https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw"
       },
@@ -871,6 +855,22 @@
     {
       "added_at": "2025-06-19 09:06:13",
       "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "duration_ms": 170533,
+      "name": "17",
+      "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
+    },
+    {
+      "added_at": "2025-06-19 09:06:13",
+      "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
       },
@@ -883,22 +883,6 @@
       "duration_ms": 234000,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
-    },
-    {
-      "added_at": "2025-06-19 09:06:13",
-      "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 144960,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
     },
     {
       "added_at": "2025-06-19 09:06:13",
@@ -931,6 +915,22 @@
       "duration_ms": 267280,
       "name": "Breath",
       "url": "https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl"
+    },
+    {
+      "added_at": "2025-06-19 09:06:13",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 144960,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
     },
     {
       "added_at": "2025-06-19 09:06:13",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-06-19 09:06:13",
       "album": {
-        "name": "Family by Choice (Original Television Soundtrack) Pt. 4",
-        "url": "https://open.spotify.com/album/4lZPOXajtPXz2lOvpzLPNT"
-      },
-      "artists": [
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 288046,
-      "name": "All Our Days",
-      "url": "https://open.spotify.com/track/6SCzQNXZpExdFIJ5vsX04y"
-    },
-    {
-      "added_at": "2025-06-19 09:06:13",
-      "album": {
         "name": "Destined with You (Original Television Soundtrack), Pt.7",
         "url": "https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 216013,
       "name": "I'll Always Be With You",
       "url": "https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7"
+    },
+    {
+      "added_at": "2025-06-19 09:06:13",
+      "album": {
+        "name": "Family by Choice (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/4lZPOXajtPXz2lOvpzLPNT"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 288046,
+      "name": "All Our Days",
+      "url": "https://open.spotify.com/track/6SCzQNXZpExdFIJ5vsX04y"
     },
     {
       "added_at": "2025-06-19 09:06:13",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-06-19 09:06:13",
       "album": {
-        "name": "\ucc98\uc74c\ucc98\ub7fc",
-        "url": "https://open.spotify.com/album/2Pgvz4Apdr3ORROIaW2ZdH"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 239480,
-      "name": "\ub0b4\uac8c \uc624\ub294 \uae38 - Bonus Track",
-      "url": "https://open.spotify.com/track/5rfOHC8IMqyvqAi4TUrnsn"
-    },
-    {
-      "added_at": "2025-06-19 09:06:13",
-      "album": {
         "name": "Back In Time (The Moon during the Day X K.will)",
         "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 225120,
       "name": "Back In Time (The Moon during the Day X K.will)",
       "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
+    },
+    {
+      "added_at": "2025-06-19 09:06:13",
+      "album": {
+        "name": "\ucc98\uc74c\ucc98\ub7fc",
+        "url": "https://open.spotify.com/album/2Pgvz4Apdr3ORROIaW2ZdH"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 239480,
+      "name": "\ub0b4\uac8c \uc624\ub294 \uae38 - Bonus Track",
+      "url": "https://open.spotify.com/track/5rfOHC8IMqyvqAi4TUrnsn"
     },
     {
       "added_at": "2025-06-19 09:06:13",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-06-19 09:06:13",
       "album": {
-        "name": "Red Moon: Beyond The Light",
-        "url": "https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6"
-      },
-      "artists": [
-        {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
-        }
-      ],
-      "duration_ms": 244173,
-      "name": "The Eternal Moment",
-      "url": "https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8"
-    },
-    {
-      "added_at": "2025-06-19 09:06:13",
-      "album": {
         "name": "Moving Away",
         "url": "https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 264069,
       "name": "Moving Away",
       "url": "https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3"
+    },
+    {
+      "added_at": "2025-06-19 09:06:13",
+      "album": {
+        "name": "Red Moon: Beyond The Light",
+        "url": "https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6"
+      },
+      "artists": [
+        {
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        }
+      ],
+      "duration_ms": 244173,
+      "name": "The Eternal Moment",
+      "url": "https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8"
     },
     {
       "added_at": "2025-06-19 09:06:13",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-06-19 09:06:13",
       "album": {
+        "name": "Like Yesterday",
+        "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Like Yesterday",
+      "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
+    },
+    {
+      "added_at": "2025-06-19 09:06:13",
+      "album": {
         "name": "Ode To The Stars",
         "url": "https://open.spotify.com/album/5AYHR2HOnxZuZJnXTvJaGA"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 282853,
       "name": "Ode To The Stars",
       "url": "https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK"
-    },
-    {
-      "added_at": "2025-06-19 09:06:13",
-      "album": {
-        "name": "Like Yesterday",
-        "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Like Yesterday",
-      "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
     },
     {
       "added_at": "2025-06-19 09:06:13",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-06-19 09:06:13",
       "album": {
-        "name": "TO...",
-        "url": "https://open.spotify.com/album/2kpy6VCOSDfuus42rg7Ic6"
-      },
-      "artists": [
-        {
-          "name": "Lim Jae Beum",
-          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
-        }
-      ],
-      "duration_ms": 225436,
-      "name": "\uc774 \ub610\ud55c \uc9c0\ub098\uac00\ub9ac\ub77c",
-      "url": "https://open.spotify.com/track/5xpJOKLD5Zsm8ihVxpeK1N"
-    },
-    {
-      "added_at": "2025-06-19 09:06:13",
-      "album": {
         "name": "My Liberation Notes OST Part 1",
         "url": "https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 241640,
       "name": "Looking For Love (Man Ver.)",
       "url": "https://open.spotify.com/track/0sN3z4fwRL8HmO96rCOm3A"
+    },
+    {
+      "added_at": "2025-06-19 09:06:13",
+      "album": {
+        "name": "TO...",
+        "url": "https://open.spotify.com/album/2kpy6VCOSDfuus42rg7Ic6"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Beum",
+          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
+        }
+      ],
+      "duration_ms": 225436,
+      "name": "\uc774 \ub610\ud55c \uc9c0\ub098\uac00\ub9ac\ub77c",
+      "url": "https://open.spotify.com/track/5xpJOKLD5Zsm8ihVxpeK1N"
     },
     {
       "added_at": "2025-06-19 09:06:13",

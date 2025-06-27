@@ -1,6 +1,6 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 52842,
+  "num_followers": 52867,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-09-03 09:46:32",
       "album": {
-        "name": "A Man and His Trombone",
-        "url": "https://open.spotify.com/album/1F4BlMdj4N0qXXM11Of6GI"
-      },
-      "artists": [
-        {
-          "name": "Tommy Dorsey",
-          "url": "https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG"
-        }
-      ],
-      "duration_ms": 168442,
-      "name": "Silk Stockings",
-      "url": "https://open.spotify.com/track/5iRLpKazu6D8zoNz1RzCmp"
-    },
-    {
-      "added_at": "2024-09-03 09:46:32",
-      "album": {
         "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 9",
         "url": "https://open.spotify.com/album/0QkSQIesTKSWIhtWOq2nvj"
       },
@@ -887,6 +871,22 @@
     {
       "added_at": "2024-09-03 09:46:32",
       "album": {
+        "name": "A Man and His Trombone",
+        "url": "https://open.spotify.com/album/1F4BlMdj4N0qXXM11Of6GI"
+      },
+      "artists": [
+        {
+          "name": "Tommy Dorsey",
+          "url": "https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG"
+        }
+      ],
+      "duration_ms": 168442,
+      "name": "Silk Stockings",
+      "url": "https://open.spotify.com/track/5iRLpKazu6D8zoNz1RzCmp"
+    },
+    {
+      "added_at": "2024-09-03 09:46:32",
+      "album": {
         "name": "Easy To Love: The Songs Of Cole Porter",
         "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
       },
@@ -899,22 +899,6 @@
       "duration_ms": 189906,
       "name": "Goodbye Little Dream, Goodbye",
       "url": "https://open.spotify.com/track/28oUQEAgmiZX5LhZTYXqQW"
-    },
-    {
-      "added_at": "2024-09-03 09:46:32",
-      "album": {
-        "name": "Swedish Vocal Collection",
-        "url": "https://open.spotify.com/album/1uju5fPXQCF7PcnKUpQcoM"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Get Out Of Town (Med Andra Ord...)",
-      "url": "https://open.spotify.com/track/1CDWZYK3qVTuzjq6kFuI6m"
     },
     {
       "added_at": "2024-09-03 09:46:32",
@@ -947,6 +931,22 @@
       "duration_ms": 159000,
       "name": "Rap Tap on Wood",
       "url": "https://open.spotify.com/track/7cds5KV5fDScPBvhbHWlpJ"
+    },
+    {
+      "added_at": "2024-09-03 09:46:32",
+      "album": {
+        "name": "Swedish Vocal Collection",
+        "url": "https://open.spotify.com/album/1uju5fPXQCF7PcnKUpQcoM"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Get Out Of Town (Med Andra Ord...)",
+      "url": "https://open.spotify.com/track/1CDWZYK3qVTuzjq6kFuI6m"
     },
     {
       "added_at": "2024-09-03 09:46:32",

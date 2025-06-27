@@ -2,9 +2,9 @@
 
 ### [Top of the Rock](https://open.spotify.com/playlist/37i9dQZF1DWWSuZL7uNdVA)
 
-> Robbie Williams au top des meilleurs morceaux rock du moment.
+> Avril Lavigne & Simple Plan au top des meilleurs morceaux rock du moment.
 
-390 songs - 22 hr 6 min
+392 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Fragile Thing](https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [A Fragile Thing](https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l) | 4:43 | 2025-01-09 | 2025-04-25 |
 | [A Little Bit Happy](https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [A Little Bit Happy](https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh) | 3:15 | 2023-09-28 | 2024-05-03 |
 | [A Moment](https://open.spotify.com/track/6QOSsq9F1yR9ka8ZbgAYmI) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [A Moment](https://open.spotify.com/album/5QqwK8Qf8W4hoVkuCzBtMa) | 3:23 | 2025-01-30 | 2025-04-25 |
-| [A Question Of You](https://open.spotify.com/track/5cmZ1viuOQc93xV7fYV5SV) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:42 | 2025-02-13 |  |
+| [A Question Of You](https://open.spotify.com/track/5cmZ1viuOQc93xV7fYV5SV) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:42 | 2025-02-13 | 2025-06-27 |
 | [A Stone Only Rolls Downhill](https://open.spotify.com/track/3yWzAjSDqXPeMSWVTW3F4V) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [A Stone Only Rolls Downhill](https://open.spotify.com/album/4qK3agJUAyLAA7XiFka1SW) | 3:22 | 2025-01-16 | 2025-03-14 |
 | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 | 2024-04-03 | 2024-04-24 |
 | [Ache In My Heart](https://open.spotify.com/track/6a2tRke4g8upaxXAMOWN1H) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Ache In My Heart](https://open.spotify.com/album/0rSqsLxcwMMKNgM4fBqHuL) | 3:08 | 2024-08-08 | 2024-09-13 |
@@ -257,7 +257,7 @@
 | [Playing With Fire](https://open.spotify.com/track/6Du6wbMKta7bWKuFeT2dVi) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Playing With Fire / ELF](https://open.spotify.com/album/5S0CnSM5Ni9l7W7xhdhhqF) | 3:23 | 2023-10-19 | 2023-12-08 |
 | [Power](https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Power](https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn) | 2:22 | 2024-05-23 | 2024-07-27 |
 | [Pretty Vicious](https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8) | 5:10 | 2023-10-26 | 2024-02-09 |
-| [Prisoner of Beauty](https://open.spotify.com/track/5Yvhku4TRlkZ1AHJQFqthr) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n), [Bobby Gillespie](https://open.spotify.com/artist/77aJXR27gzqvC7CEko5h3o) | [Prisoner of Beauty](https://open.spotify.com/album/0FQawKjtZ22suCj37hO2EJ) | 4:52 | 2025-04-03 |  |
+| [Prisoner of Beauty](https://open.spotify.com/track/5Yvhku4TRlkZ1AHJQFqthr) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n), [Bobby Gillespie](https://open.spotify.com/artist/77aJXR27gzqvC7CEko5h3o) | [Prisoner of Beauty](https://open.spotify.com/album/0FQawKjtZ22suCj37hO2EJ) | 4:52 | 2025-04-03 | 2025-06-27 |
 | [Punisher](https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [MONO](https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM) | 3:14 | 2023-09-28 | 2024-02-16 |
 | [Pyromane](https://open.spotify.com/track/7fpg6UBygCX0UR93lBPATO) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [11:11](https://open.spotify.com/album/0jfiAUw1sZ8EyNYaNMTe7T) | 2:58 | 2023-12-15 | 2024-10-04 |
 | [Raisonne \- Rework](https://open.spotify.com/track/7prpIB1Nd53Wmu0ByJcblu) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7) | [Superspectives \(Édition Deluxe\)](https://open.spotify.com/album/5URqlkRZeP4keKeyJv4iWR) | 3:13 | 2025-03-27 | 2025-04-25 |
@@ -362,9 +362,11 @@
 | [Trop](https://open.spotify.com/track/4qMaU5EKvolDkA25rrpNTa) | [ASPHALT](https://open.spotify.com/artist/0HejIKqzSycSFSqO501hhh) | [Cocktail Exil](https://open.spotify.com/album/2j1wHDfKctiHqofLSxqib5) | 2:28 | 2025-04-24 |  |
 | [Tunnel Vision](https://open.spotify.com/track/7iQNDl6b48HkG3riOcF5rm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Tunnel Vision](https://open.spotify.com/album/2DVKqtyckfMyE6ypDePXjM) | 2:43 | 2025-02-20 | 2025-05-02 |
 | [Two Faced](https://open.spotify.com/track/6i5qhmmF9UNUBRyrPSGn4m) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:03 | 2024-11-21 | 2025-02-07 |
+| [Tyrants](https://open.spotify.com/track/7oTvcGyX0llNf9X3pFy8sd) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Tyrants](https://open.spotify.com/album/2J5LhXxCmpSFkg8OA3BLTW) | 3:14 | 2025-06-26 |  |
 | [Under You](https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:39 | 2023-09-28 | 2023-11-24 |
 | [Unhappier](https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [Unhappier](https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5) | 3:17 | 2023-09-28 | 2023-10-13 |
 | [Uno II](https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Uno II](https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg) | 2:15 | 2025-03-13 |  |
+| [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 | 2025-06-26 |  |
 | [Unshatter](https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Unshatter](https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7) | 3:16 | 2025-04-24 |  |
 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 | 2025-03-27 |  |
 | [Venus](https://open.spotify.com/track/5Q3Ak6PPL11xyWURXLwYUb) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [Venus](https://open.spotify.com/album/1YdRhdv1ZIbl021MJqH87j) | 3:08 | 2025-06-19 |  |

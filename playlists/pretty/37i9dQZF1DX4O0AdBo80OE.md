@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Rimas cremosas, tan necesarias como tu café\. Paulo Londra en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,053 likes - 103 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,075 likes - 103 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

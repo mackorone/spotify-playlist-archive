@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37482,
+  "num_followers": 37485,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAAD8Cmndx7SLM/gUxm4xz3Op",
+  "snapshot_id": "aFs8AAAAAAA8PxGQ+T3S+GbO3YRTrYpJ",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here Come the Runts",
+        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 246304,
+      "name": "Seven Sticks of Dynamite",
+      "url": "https://open.spotify.com/track/4Zpq56sTzSWbeO03WL6XBp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 241499,
       "name": "Take A Chance On Me (feat. Jewel)",
       "url": "https://open.spotify.com/track/2QZpV3KZnDfqrvOfJNcvCY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here Come the Runts",
-        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 246304,
-      "name": "Seven Sticks of Dynamite",
-      "url": "https://open.spotify.com/track/4Zpq56sTzSWbeO03WL6XBp"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Come the Runts",
-        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
+        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 199307,
-      "name": "Here Come the Runts",
-      "url": "https://open.spotify.com/track/5HWpx5Pjj9wFROhreH612d"
+      "duration_ms": 191200,
+      "name": "Shoestrings",
+      "url": "https://open.spotify.com/track/0QvqrTGC7FSolbg8rQbHGa"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
+        "name": "Here Come the Runts",
+        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 191200,
-      "name": "Shoestrings",
-      "url": "https://open.spotify.com/track/0QvqrTGC7FSolbg8rQbHGa"
+      "duration_ms": 199307,
+      "name": "Here Come the Runts",
+      "url": "https://open.spotify.com/track/5HWpx5Pjj9wFROhreH612d"
     },
     {
       "added_at": null,
@@ -867,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Come the Runts",
-        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
+        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 203835,
-      "name": "Miracle Man",
-      "url": "https://open.spotify.com/track/6yE6AL3D5lq25jtTAESkVu"
+      "duration_ms": 292439,
+      "name": "Some Kind of Joke",
+      "url": "https://open.spotify.com/track/2VlHWRniOo0XzzXOfovzIA"
     }
   ],
   "unique_name": "This Is AWOLNATION",

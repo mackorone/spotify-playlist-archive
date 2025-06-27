@@ -4,7 +4,7 @@
 
 > 센치한 감정을 노래하는 감성적인 곡들과 함께 물 멍에 잠겨보세요.
 
-146 songs - 9 hr 11 min
+149 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [High In Low Places](https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [High In Low Places](https://open.spotify.com/album/3LGeTs25E1Emefp9Johfq9) | 3:10 | 2024-08-05 | 2025-05-02 |
 | [Holidays](https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Holidays](https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2) | 3:41 | 2025-05-30 |  |
 | [homesick](https://open.spotify.com/track/2FZIabCRMEWAYfN69Ijn1U) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 5:06 | 2025-05-30 |  |
+| [hometown](https://open.spotify.com/track/19E4xm8OhtXeQ93ccRCeJJ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [hometown](https://open.spotify.com/album/4RBJ0zVVsPuekjktaVNyeQ) | 2:54 | 2025-06-26 |  |
 | [Honeycrash](https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Honeycrash](https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo) | 3:08 | 2024-08-05 | 2025-04-02 |
 | [I'm Watching a Loneliness Just Arisen](https://open.spotify.com/track/2xfoFuQxQeEkQRgY3tF1JU) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Summer Plumage](https://open.spotify.com/album/4hGJv9dB3hlzFXZJQmKdpq) | 3:49 | 2024-08-05 | 2025-04-02 |
 | [Inner Eden](https://open.spotify.com/track/3WUq4X29XbjWDDN3i6ALnk) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt) | 4:21 | 2024-08-05 | 2025-04-02 |
@@ -74,7 +75,7 @@
 | [lovememore.](https://open.spotify.com/track/0P9XwjnnIPQFTwdqvu01Mf) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 3:51 | 2024-08-05 |  |
 | [Lunch Time 점심시간](https://open.spotify.com/track/44dmYTBkcvpNxWjCwpiKgc) | [DASUTT](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Lunch Time 점심시간](https://open.spotify.com/album/3NphZwsDlKagZk5IGyUWNp) | 4:36 | 2024-08-05 | 2025-04-02 |
 | [M Television](https://open.spotify.com/track/0F2d4rttCd24RQ0CA5enHl) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:27 | 2024-08-05 | 2025-06-06 |
-| [Mary Boone](https://open.spotify.com/track/6OjwIdLlkjCLuOThOwODEY) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:26 | 2024-08-05 |  |
+| [Mary Boone](https://open.spotify.com/track/6OjwIdLlkjCLuOThOwODEY) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:26 | 2024-08-05 | 2025-06-27 |
 | [Medicate Me](https://open.spotify.com/track/1EusMjYm7PZftlZn87vPWE) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Medicate Me](https://open.spotify.com/album/5IVuTn7LffwxIzCx2Ii3Bp) | 2:47 | 2024-08-05 |  |
 | [Mosaic](https://open.spotify.com/track/7Mvc5V2fXicfkhlBWZU56P) | [off the menu](https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb) | [Contact](https://open.spotify.com/album/1ZmpZDCqmWlMFhnDxsfvfT) | 5:03 | 2024-08-05 | 2025-04-02 |
 | [Mouse](https://open.spotify.com/track/3bFpFHcK5cbg93FyKUTNWs) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Mouse](https://open.spotify.com/album/3BLdWzAtpi6No30f2m1okJ) | 3:58 | 2024-08-05 | 2025-04-02 |
@@ -101,7 +102,9 @@
 | [Photograph 사진첩](https://open.spotify.com/track/0NH2J0S8HK56jq5YUwVL22) | [DASUTT](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Photograph 사진첩](https://open.spotify.com/album/6zdxKx3yMTontzE3Mfg8oc) | 4:14 | 2024-08-05 | 2025-04-02 |
 | [Pistol](https://open.spotify.com/track/36pMQRacz9p99OevARrvVs) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/5nvVm89VAndk8QoIwKBB3I) | 3:54 | 2025-05-01 |  |
 | [Puppet](https://open.spotify.com/track/29Ly25xhELC1ps9JqVkkK6) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [COLOR PAPER HOTEL](https://open.spotify.com/album/4oqDAgsdYAQGaZu6QtmHsQ) | 1:09 | 2024-08-05 | 2025-04-02 |
+| [PURE](https://open.spotify.com/track/5NFaJjMuxjlzQWAetRr37C) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI), [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [TWO](https://open.spotify.com/album/2O0QmR1oXCc70QLwYDn03z) | 2:04 | 2025-06-26 |  |
 | [Rainbow](https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:15 | 2024-08-05 |  |
+| [Remember! \(English Version\)](https://open.spotify.com/track/4EreVLFkdXdo3kdgZAnV0V) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Remember!](https://open.spotify.com/album/11EGNnLOAlNLUXysHvuH2t) | 3:32 | 2025-06-26 |  |
 | [ride](https://open.spotify.com/track/43ap1ds3F1o8Fmz6b29NoG) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/2FxzArH5KLx18yasYHuVE4) | 3:48 | 2024-08-05 | 2025-04-02 |
 | [Rollover](https://open.spotify.com/track/39HDwkTjW1KfzqqvcZ9Ytg) | [The Poles](https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q) | [The High Tide Club](https://open.spotify.com/album/5q0iAwNwPXjXfatRJ2sdYs) | 3:20 | 2024-08-05 | 2025-04-02 |
 | [Run With Me](https://open.spotify.com/track/1m8b3KFsAiGyjRc90ZfEB9) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Serenade](https://open.spotify.com/album/2McJE8dHLru3MgR1bcxdyF) | 4:30 | 2025-06-05 | 2025-06-20 |
@@ -117,7 +120,7 @@
 | [Snow](https://open.spotify.com/track/6tVKPxx1xz5Ve4yPS4sD5H) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Aren't You?](https://open.spotify.com/album/1pyBgBOQTAvZcIEcCluNj6) | 4:34 | 2024-08-05 | 2025-04-02 |
 | [so real](https://open.spotify.com/track/6Y3DptA1KtLCr0ii61x2Sl) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0) | 4:33 | 2024-08-05 | 2025-04-02 |
 | [Something Special](https://open.spotify.com/track/06vyBAqzokvXjw3b7FPcZi) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 4:06 | 2024-08-05 | 2025-05-31 |
-| [Spectator](https://open.spotify.com/track/0W9jWMTASe0JmydIrXwSEz) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Nowhere](https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO) | 3:03 | 2024-08-05 |  |
+| [Spectator](https://open.spotify.com/track/0W9jWMTASe0JmydIrXwSEz) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Nowhere](https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO) | 3:03 | 2024-08-05 | 2025-06-27 |
 | [Starfish on your head](https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 3:12 | 2024-08-05 |  |
 | [Strawberry Jam](https://open.spotify.com/track/2ANtjCxEa3I883stgWh5Mz) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Strawberry Jam](https://open.spotify.com/album/3WtWzLerFbkjmu2Uh2f2k9) | 3:32 | 2024-08-05 | 2025-06-20 |
 | [Sunny Days, Summer Nights](https://open.spotify.com/track/4fi9IIcjYzxRTRwJUyFO6Q) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 4:09 | 2025-04-17 | 2025-05-02 |
@@ -142,7 +145,7 @@
 | [We Don't Wanna Talk](https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Nowhere](https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO) | 2:39 | 2024-08-05 |  |
 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 | 2025-03-14 |  |
 | [Wednesday Afternoon](https://open.spotify.com/track/71QuZsn6oeJz1hV8TOQQLJ) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Wednesday Afternoon](https://open.spotify.com/album/43xJu9O3OvpJsxfLerJhIZ) | 3:39 | 2024-08-05 | 2025-04-02 |
-| [What Are You Looking for?](https://open.spotify.com/track/67MxXviUVpL6GoJ1h4tgFk) | [KIDO3008](https://open.spotify.com/artist/2SHgCtwY30kRZcgtuyjqyj) | [What Are You Looking for?](https://open.spotify.com/album/4PlHepUdKFjBqIqb7UPWOM) | 4:10 | 2025-06-19 |  |
+| [What Are You Looking for?](https://open.spotify.com/track/67MxXviUVpL6GoJ1h4tgFk) | [KIDO3008](https://open.spotify.com/artist/2SHgCtwY30kRZcgtuyjqyj) | [What Are You Looking for?](https://open.spotify.com/album/4PlHepUdKFjBqIqb7UPWOM) | 4:10 | 2025-06-19 | 2025-06-27 |
 | [Where am i right now!](https://open.spotify.com/track/3uAZIOmiESli35v3sHdXaP) | [Born In March](https://open.spotify.com/artist/5Q6hLfOPSUR25OhEIUHTvO) | [Where am i right now!](https://open.spotify.com/album/11n9Qvjc98AT38nPyQkv2Y) | 4:59 | 2024-08-05 | 2025-04-02 |
 | [wish i was a robot](https://open.spotify.com/track/4tnGc7m25Bnr4OahPYOLGn) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [falling for robots and wishing i was one](https://open.spotify.com/album/2Wz2sTkSMVLQpQt4mnhKAg) | 2:57 | 2024-08-05 | 2025-04-02 |
 | [Wish You Were Here](https://open.spotify.com/track/3HogHsEJ32SRjGghQo5XIH) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View XXIII](https://open.spotify.com/album/7klngx9L0dt47tEgiNFY0Z) | 3:32 | 2024-08-05 | 2025-05-02 |

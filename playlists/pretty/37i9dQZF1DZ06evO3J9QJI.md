@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3J9QJI.md) - [plain]
 
 > This is Irv Gotti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128 likes - 15 songs - 53 min 53 sec
+[Spotify](https://open.spotify.com/user/spotify) - 129 likes - 15 songs - 53 min 53 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3J9QJI.md) - [plain]
 | 14 | [Boss \- Skit](https://open.spotify.com/track/2x81bnQVQEqhV0IWIbsMQk) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 0:42 |
 | 15 | [Poverlous](https://open.spotify.com/track/71xeqdNfrcUdBMAOA2YdRX) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF), [Caddillac Tah](https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 3:49 |
 
-Snapshot ID: `aFnqgAAAAACBayLE5yIRO4Tg8vqc9Ty0`
+Snapshot ID: `aFs8AAAAAABb43PI1L8EhFQwPV0vTsMv`

@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 94261,
+  "num_followers": 94283,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAACVa7LmP3oI/baLxkOYmsVB",
+  "snapshot_id": "aFs8AAAAAABRsijlPV0v93RV4+x1LmPi",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Va Por Todos",
-        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 174556,
-      "name": "Para Ser Respetado",
-      "url": "https://open.spotify.com/track/3OtWHaaJVAQpEpaiUhWO4K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Prometido Es Deuda Vol.2",
         "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 197463,
       "name": "Calles De S.D.",
       "url": "https://open.spotify.com/track/7qjrn67d14U8XDsnwOL0Nr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 174556,
+      "name": "Para Ser Respetado",
+      "url": "https://open.spotify.com/track/3OtWHaaJVAQpEpaiUhWO4K"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se\u00f1or 80",
-        "url": "https://open.spotify.com/album/5xWFLe8Tlnhe6HVmqHQsrf"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 143357,
-      "name": "Se\u00f1or 80",
-      "url": "https://open.spotify.com/track/2sMftXn8VzkVO2KdduINnd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Quiero Agarrar El Rollo",
         "url": "https://open.spotify.com/album/46KXJipvIK5dbK6PyltADi"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 121209,
       "name": "No Quiero Agarrar El Rollo",
       "url": "https://open.spotify.com/track/5cM3YFGrnT7EdFNW4kPWv6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se\u00f1or 80",
+        "url": "https://open.spotify.com/album/5xWFLe8Tlnhe6HVmqHQsrf"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 143357,
+      "name": "Se\u00f1or 80",
+      "url": "https://open.spotify.com/track/2sMftXn8VzkVO2KdduINnd"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 
 > Pop music driving the current, every week\.  Cover: Ravyn Lenae
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,183 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,191 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 | 14 | [TATTOOS & U](https://open.spotify.com/track/7EYLUgc5aIc5r5sfzjJd2E) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [CYCLES](https://open.spotify.com/album/1T1eS3I0K7NC7BmnHQ7PL4) | 1:58 |
 | 15 | [Let It Go](https://open.spotify.com/track/1bkKjMzqeMG3knxBhDaKc0) | [JERUB](https://open.spotify.com/artist/2eG0Kf7mNIbn0SMiA2LjBd) | [Let It Go](https://open.spotify.com/album/0P0bQxGrg25KzgvDY1vVC3) | 2:29 |
 | 16 | [Raincheck](https://open.spotify.com/track/1DqLq5cD2XxJBDNiOtxnGM) | [Madison Bailey](https://open.spotify.com/artist/6zKQkyAftzejXrwviDjz1S), [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Raincheck](https://open.spotify.com/album/2c03XLPfXgI5TlglXkGX1i) | 3:49 |
-| 17 | [Kintsugi](https://open.spotify.com/track/3x6gA8SG2NB2XQ9gmgggT9) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Kintsugi](https://open.spotify.com/album/4EWfIhYmj4618XFcsFG6UW) | 3:27 |
+| 17 | [kintsugi](https://open.spotify.com/track/3x6gA8SG2NB2XQ9gmgggT9) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [kintsugi](https://open.spotify.com/album/4EWfIhYmj4618XFcsFG6UW) | 3:27 |
 | 18 | [Best For Me](https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:27 |
 | 19 | [More Me Than Ever](https://open.spotify.com/track/3gDHwH3XIzqsFlk3N7MQV9) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [More Me Than Ever](https://open.spotify.com/album/1pcrLuaZJBDRmTQiVdeqSY) | 2:21 |
 | 20 | [Hallelujah \(I Don't Think About You\)](https://open.spotify.com/track/0vM4LQCV9TsBH8hvTWsow9) | [Kevin Olusola](https://open.spotify.com/artist/4RPUSziPHrjcBUEfIUcb2I) | [Dawn of a Misfit](https://open.spotify.com/album/4yAcfYYfi03HIp0aG0MkSb) | 2:55 |

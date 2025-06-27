@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-147 songs - 8 hr 16 min
+151 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,10 +64,12 @@
 | [GIRLS](https://open.spotify.com/track/3Fra5SMXXDTSRXVoDf8Xwd) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:32 | 2025-05-26 |  |
 | [Gotta Luv It](https://open.spotify.com/track/5BwvaW05K2lLDUcli2uzUU) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Gotta Luv It](https://open.spotify.com/album/2OdkWu9PJKbmjUSMIyye1z) | 3:13 | 2022-06-04 |  |
 | [Guap](https://open.spotify.com/track/7G0PgkkbavF7Rh4zNrUxH0) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 4:31 | 2022-06-04 |  |
+| [Heaven](https://open.spotify.com/track/6npZ8fQgQqvXwqzLzFhkhb) | [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Heaven](https://open.spotify.com/album/6qgCzcQfYKGv15NnFCoY2K) | 3:24 | 2025-06-26 |  |
 | [Here It Is \(feat\. Chris Brown\)](https://open.spotify.com/track/0lQ08hbjK1umHjCYvUrmCp) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [My House](https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH) | 3:12 | 2022-06-04 |  |
 | [Hey Cutie](https://open.spotify.com/track/0Pz9dgxYc4TDYN7V9zLTjc) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [The DeAndre Way](https://open.spotify.com/album/1BQ2jL54CPTIrtDHbJL4xi) | 3:15 | 2022-06-04 | 2022-10-19 |
 | [Hey Cutie](https://open.spotify.com/track/4eUJJtvEwDn45jG0gZdLdZ) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [The DeAndre Way \(Deluxe Explicit Version\)](https://open.spotify.com/album/0uOv76Q0q8w5PtiazPiq5z) | 3:15 | 2022-10-18 |  |
 | [Hide My Gun \(Feat\. HARDY\)](https://open.spotify.com/track/6nf4oqFOsVKLwJPEliYVwT) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:40 | 2025-05-26 |  |
+| [Highway](https://open.spotify.com/track/7sLMmKtHjYlx8GzasuvtlO) | [Paradise](https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto) | [Highway](https://open.spotify.com/album/6AXcwiuRsobBSa8Fw6gFHy) | 2:41 | 2025-06-26 |  |
 | [Hips Don't Lie](https://open.spotify.com/track/0E7AHMdJL4XMOuRShGs23D) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [LP1](https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm) | 3:28 | 2022-06-04 |  |
 | [Home](https://open.spotify.com/track/5GI96fTs0xkKXfgShNn975) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [At Home](https://open.spotify.com/album/27y7LkojjT5POmnZeWIttg) | 2:30 | 2022-06-04 |  |
 | [HOROSCOPE \(feat\. Pharrell Williams\)](https://open.spotify.com/track/4RV1L0LPC962g0Ig6ly8eS) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:57 | 2025-06-06 |  |
@@ -87,6 +89,7 @@
 | [Lay Your Head on Me](https://open.spotify.com/track/2TkHnzYwHEoTVgoyqf6UJ2) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Lay Your Head on Me](https://open.spotify.com/album/3PrNEdp1ddGqaQiboDir4A) | 3:01 | 2022-06-04 | 2023-02-04 |
 | [Lay Your Head On Me](https://open.spotify.com/track/4tzfm1U4YgBzJe4sUxsK13) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Ferdinand \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JCNm5gXgKMKWrNtnYezXu) | 3:16 | 2023-02-03 | 2024-04-14 |
 | [Lay Your Head On Me](https://open.spotify.com/track/6ToFgoFy8Lx5T5OOpdJFZa) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Olé el viaje de Ferdinand \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1DdHSJKH7HD2sdaG0HA7DW) | 3:16 | 2024-04-13 |  |
+| [Little Light](https://open.spotify.com/track/6SHau4eC5m5Eo5Gwti5upF) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:00 | 2025-06-26 |  |
 | [Lost](https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P) | 2:52 | 2022-06-04 |  |
 | [Lost](https://open.spotify.com/track/4uDXJSGlet5KBJQHPKVxGc) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Lost](https://open.spotify.com/album/10uiCzkT1939NyhrD2Rl55) | 3:07 | 2023-12-18 | 2024-02-01 |
 | [Love These Days](https://open.spotify.com/track/2cXu6oGXOieNkFViXTHBEi) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [It’s The End Of The World But It’s A Beautiful Day](https://open.spotify.com/album/08qd1EHSPOu0RHlIOgyYDf) | 3:00 | 2025-05-26 |  |
@@ -107,6 +110,7 @@
 | [No Love Allowed](https://open.spotify.com/track/2fv47VVvysXZPpT7xsdg7b) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 4:09 | 2022-06-04 |  |
 | [No Part of You](https://open.spotify.com/track/1pbQKVrX2JrKhSpFaPbybg) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [2.0](https://open.spotify.com/album/79KbYTbpyMU9QYJvc7dr7A) | 3:45 | 2022-06-04 | 2023-12-24 |
 | [No Part of You](https://open.spotify.com/track/5jGkSsAYEDo5gkew6qvUai) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [2.0](https://open.spotify.com/album/17CswT0NOi5y8ReJx589aE) | 3:45 | 2023-12-23 |  |
+| [Not Done Yet](https://open.spotify.com/track/43xjMIpJBtPsCd8QdVTyf7) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:20 | 2025-06-26 |  |
 | [Not for Long \(feat\. Trey Songz\)](https://open.spotify.com/track/6H75Ki32BRrJFQeDNR05s1) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Not for Long \(feat\. Trey Songz\)](https://open.spotify.com/album/7cSNv0vamfGt9BN0ISHmOn) | 3:35 | 2022-06-04 |  |
 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 | 2022-06-04 |  |
 | [Nothing Is Stopping You](https://open.spotify.com/track/2YhBJbeXBz2VsthtV5O4bY) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 5:03 | 2022-06-04 |  |

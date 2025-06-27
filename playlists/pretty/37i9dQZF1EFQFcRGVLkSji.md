@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56 likes - 144 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 57 likes - 144 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 38 | [Blessings \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/1bMgK96LX39zjqW7AW5o3w) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Pink Friday 2](https://open.spotify.com/album/3YOMkR4iUo3bmEIApbWmsa) | 3:34 |
 | 39 | [WHAT WENT WRONG???](https://open.spotify.com/track/4eD4CdjhBrdXr88GRiljiL) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:37 |
 | 40 | [Bury me \(feat\. Kelela\)](https://open.spotify.com/track/3tPH2C0umk9pjLBMmz0D9M) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:04 |
-| 41 | [Now \(feat\. Luh geeky\)](https://open.spotify.com/track/4j3sLMVOMeJKnW7dhSBbJZ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Luh geeky](https://open.spotify.com/artist/5HkVNXsvk9Nvt0eoWF9v4C) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 4:32 |
-| 42 | [Sweet \(feat\. Fousheé\)](https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 2:12 |
+| 41 | [Sweet \(feat\. Fousheé\)](https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 2:12 |
+| 42 | [Now \(feat\. Luh geeky\)](https://open.spotify.com/track/4j3sLMVOMeJKnW7dhSBbJZ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Luh geeky](https://open.spotify.com/artist/5HkVNXsvk9Nvt0eoWF9v4C) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 4:32 |
 | 43 | [Forëally / 4Ly](https://open.spotify.com/track/1aztkqMhtL4XSuGASmEeCo) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/26LsyqIbRQJzO1TPE5icl2) | 3:11 |
 | 44 | [Dëmon tied](https://open.spotify.com/track/00G8RCi9pouKt0K5vQQmzE) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:43 |
 | 45 | [HARDSTONE NATIONAL ANTHEM](https://open.spotify.com/track/72mqSiSQNHHNYSM6dOJYGr) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 2:41 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 99 | [No More](https://open.spotify.com/track/6T3Yt7O6rxpeiRF1dxODQL) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [No More](https://open.spotify.com/album/4UCY9M6aQm4RikN8BsptLI) | 3:06 |
 | 100 | [Morgan](https://open.spotify.com/track/6ippwBq8wypdrSqqvn56Wg) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Out The Blue](https://open.spotify.com/album/0VHFW4XiYdVxfUzfjkUkIc) | 1:49 |
 | 101 | [Olive \(feat\. Zelooperz\)](https://open.spotify.com/track/4CGM56g4eHDSjW97Psi9aW) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [Almost There](https://open.spotify.com/album/2Zi2oIVwrNddAmeqeO96ig) | 2:04 |
-| 102 | [Uptown](https://open.spotify.com/track/5aAVu1wOi2hmMdT1DNYrkP) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Flight Plan 001](https://open.spotify.com/album/5WqMgmDRifpGVoMdtlmuC0) | 2:47 |
-| 103 | [RESURRECT](https://open.spotify.com/track/3GwQckO6X8Hixea9Z8PBhr) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [LEATHER PARK \(VOL\. 1\)](https://open.spotify.com/album/714sz0U1nuTsGFbQiyMFfN) | 2:54 |
+| 102 | [RESURRECT](https://open.spotify.com/track/3GwQckO6X8Hixea9Z8PBhr) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [LEATHER PARK \(VOL\. 1\)](https://open.spotify.com/album/714sz0U1nuTsGFbQiyMFfN) | 2:54 |
+| 103 | [Uptown](https://open.spotify.com/track/5aAVu1wOi2hmMdT1DNYrkP) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Flight Plan 001](https://open.spotify.com/album/5WqMgmDRifpGVoMdtlmuC0) | 2:47 |
 | 104 | [CLARITY](https://open.spotify.com/track/3z1z0Rjwhi6U71yv0qy85D) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [FIRST DEGREE](https://open.spotify.com/album/3xXhMQ8hGvs9hHwowUo7Wf) | 2:44 |
 | 105 | [1\-2 Step](https://open.spotify.com/track/58jI1b5IGROC4x3uCOvJ3V) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Out The Blue](https://open.spotify.com/album/0VHFW4XiYdVxfUzfjkUkIc) | 1:26 |
 | 106 | [smile](https://open.spotify.com/track/1o5PIcmxZ6Hl6kiLAljn8U) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/7iCr8Y0ct09AJ44RANcHNe) | 2:35 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 143 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 144 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `Ab1HcgAAAADUd1t3e37/L0W+vtkgsBkh`
+Snapshot ID: `Ab1NCAAAAACihKDlz/P33tgh5y/Yhlh0`

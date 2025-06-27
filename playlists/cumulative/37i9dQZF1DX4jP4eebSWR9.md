@@ -4,7 +4,7 @@
 
 > 50 Hits in einer Playlist! Cover: Aymen, Amo
 
-220 songs - 10 hr 29 min
+221 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Aye](https://open.spotify.com/track/6DbfhN2HIColQgffTlInqh) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [OnTouRage \- EP](https://open.spotify.com/album/4aYXzIUkoPjX7bY07Bk2xL) | 3:02 | 2025-04-08 | 2025-06-04 |
 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 | 2025-04-04 |  |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-03-25 | 2025-04-09 |
-| [bad bunnies](https://open.spotify.com/track/4aAZTaXHlm625nZhF6Zr12) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [bad bunnies](https://open.spotify.com/album/3O1nygq0m8rJvP1G8a8uHN) | 2:17 | 2025-05-06 |  |
+| [bad bunnies](https://open.spotify.com/track/4aAZTaXHlm625nZhF6Zr12) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [bad bunnies](https://open.spotify.com/album/3O1nygq0m8rJvP1G8a8uHN) | 2:17 | 2025-05-06 |  |
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2024-11-12 | 2025-05-14 |
 | [Baddies](https://open.spotify.com/track/66Bup3CXgRRl8z91EDHUIf) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Baddies](https://open.spotify.com/album/5d9hiyIU2IDdzuAL24hjUn) | 2:18 | 2024-09-10 | 2024-09-26 |
 | [Baller](https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD) | [Abor & Tynna](https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP) | [Bittersüß](https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2) | 2:39 | 2025-03-04 |  |
@@ -65,7 +65,7 @@
 | [Delale](https://open.spotify.com/track/2sbg1omBXnFOeHvbWyR1Vv) | [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO), [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Delale](https://open.spotify.com/album/4cVsNCWTpWwIvGOXPX8nAs) | 2:35 | 2025-02-18 | 2025-03-19 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-10 | 2025-05-07 |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-10-16 | 2024-11-27 |
-| [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-14 |  |
+| [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-14 | 2025-06-27 |
 | [eehhhyyy](https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [dafür bin ich frei EP](https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW) | 2:15 | 2024-09-10 | 2025-01-29 |
 | [EIN TEIL VON MIR](https://open.spotify.com/track/0JtDPZDAIEIZbE1y7aSjTB) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [EIN TEIL VON MIR](https://open.spotify.com/album/04NdFbXkgiLxxemKACJIHd) | 2:45 | 2025-02-04 | 2025-04-30 |
 | [ELLA](https://open.spotify.com/track/07B2CmYPHTjI6Cv5z4dazl) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [ELLA](https://open.spotify.com/album/6i9CQKkqBHumFjUaW5XHF9) | 2:10 | 2025-04-01 | 2025-05-21 |
@@ -168,7 +168,7 @@
 | [S&S](https://open.spotify.com/track/1GgETB3Ixe8suRgOG5BmFT) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE) | [S&S](https://open.spotify.com/album/49jrlmAqaz0lHnsfgz2fcg) | 2:36 | 2024-12-04 | 2024-12-31 |
 | [SABÍA QUE NO](https://open.spotify.com/track/61lNxSCj38lvmZjJZuhXSt) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [SABÍA QUE NO](https://open.spotify.com/album/4WszholwoxRZHWYkRgsXKs) | 3:02 | 2025-01-14 | 2025-05-21 |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-10-01 | 2025-06-11 |
-| [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 | 2025-06-10 | 2025-06-25 |
+| [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 | 2025-06-10 |  |
 | [Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Die Sterne](https://open.spotify.com/album/0kNVaaf3tP7xq74JG2iHo2) | 2:51 | 2025-02-04 | 2025-02-26 |
 | [Schau mal herein](https://open.spotify.com/track/0f6pPvxwkvBFaIpfhAQHgt) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W), [Florian Silbereisen](https://open.spotify.com/artist/4zgxsfsKRmAn6Wj2HXRYcq) | [Schau mal herein](https://open.spotify.com/album/69m1H2ksabmBn4oCQzYut7) | 3:03 | 2025-02-11 | 2025-03-19 |
 | [Schief in jedem Chor](https://open.spotify.com/track/4FSWg1YKFu0XN3oli8RisN) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Schief in jedem Chor](https://open.spotify.com/album/0YFjjHLZMzsnvRak9BNpDI) | 3:06 | 2025-06-10 |  |
@@ -185,6 +185,7 @@
 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-01-28 | 2025-02-26 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-09-10 | 2024-11-20 |
 | [STREIT](https://open.spotify.com/track/2uj2UZwhooohVKQREM7Wx8) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [STREIT](https://open.spotify.com/album/7eLC3rF5nbATqQQrA2zUYz) | 3:32 | 2025-03-12 | 2025-06-11 |
+| [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 | 2025-06-26 |  |
 | [Swim](https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Chase Atlantic](https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd) | 3:48 | 2025-01-14 | 2025-02-05 |
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 | 2024-11-05 | 2025-02-05 |
 | [Tanzalarm](https://open.spotify.com/track/1wtXpsjzyFyCh4mOtHbZTl) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg) | [Kinder der Nacht](https://open.spotify.com/album/03ZSs84M2XclxatHoirtDv) | 2:55 | 2024-09-17 | 2024-11-20 |
@@ -226,7 +227,7 @@
 | [Wunder](https://open.spotify.com/track/16f4ZN6XOfrIO8fJkm28HM) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1), [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Wunder](https://open.spotify.com/album/5O4Ps6WmC2nFKpUP5TIIMa) | 2:56 | 2024-09-10 | 2025-02-21 |
 | [Zahide Did It Better](https://open.spotify.com/track/6Nt7EMuRkZxoG3B1MDdzpz) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd) | [Zahide Did It Better](https://open.spotify.com/album/5KMN9yXTsSokxwaWSx7eAW) | 1:56 | 2025-05-27 |  |
 | [ZEIT, DASS SICH WAS DREHT](https://open.spotify.com/track/1NifMX1JqCz9caJowG8dxq) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [ZEIT, DASS SICH WAS DREHT](https://open.spotify.com/album/3kGCNaXI68tIspcsuWQ1yy) | 2:33 | 2024-09-10 | 2024-10-02 |
-| [Zwischenphase](https://open.spotify.com/track/5svicODBSeMb67wuBeqW5T) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Zwischenphase](https://open.spotify.com/album/191TZlivZyXydwrNA3vl04) | 2:30 | 2025-03-25 |  |
+| [Zwischenphase](https://open.spotify.com/track/5svicODBSeMb67wuBeqW5T) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Zwischenphase](https://open.spotify.com/album/191TZlivZyXydwrNA3vl04) | 2:30 | 2025-03-25 | 2025-06-27 |
 | [Überfall](https://open.spotify.com/track/7JsnoYblq5NEalHG1Le6T9) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Überfall](https://open.spotify.com/album/2AY9kbFNCXWj76WrEyMEU8) | 2:24 | 2025-05-27 |  |
 
 \*This playlist was first scraped on 2024-09-13. Prior content cannot be recovered.

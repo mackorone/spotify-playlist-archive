@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 
 > This is Kaliii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,581 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,585 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 37 | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7) | 3:38 |
 | 38 | [Blow It \(feat\. Kaliii\)](https://open.spotify.com/track/6dGrg1FaSIuplGe01CkL2I) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Blow It \(feat\. Kaliii\)](https://open.spotify.com/album/5EmxmoOuOzwi2sMH6kLiP9) | 2:43 |
 | 39 | [Nasty Bitch](https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 2:24 |
-| 40 | [ill nana \(feat\. Kali\)](https://open.spotify.com/track/0Ve9hRPGD8xtQZfVpUNLSR) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Keep It Playa](https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS) | 3:12 |
-| 41 | [Bad Little Thing \(feat\. Kaliii\)](https://open.spotify.com/track/6RyWnQyBhjcfBsZyRTo9it) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bad Little Thing \(feat\. Kaliii\)](https://open.spotify.com/album/636r6Fd2dfuot0iCcK4KfJ) | 2:23 |
-| 42 | [New Day](https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 2:34 |
+| 40 | [Dat Girl](https://open.spotify.com/track/25Yec8hwjxT2YZbpSrDyBT) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Dat Girl](https://open.spotify.com/album/6BVqqZYdMGRuixm5myTorO) | 2:35 |
+| 41 | [ill nana \(feat\. Kali\)](https://open.spotify.com/track/0Ve9hRPGD8xtQZfVpUNLSR) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Keep It Playa](https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS) | 3:12 |
+| 42 | [Bad Little Thing \(feat\. Kaliii\)](https://open.spotify.com/track/6RyWnQyBhjcfBsZyRTo9it) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bad Little Thing \(feat\. Kaliii\)](https://open.spotify.com/album/636r6Fd2dfuot0iCcK4KfJ) | 2:23 |
 | 43 | [Big Body](https://open.spotify.com/track/44KCsHCsd0yQnyOm71XHQJ) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 1:46 |
-| 44 | [Not Yours \(Remix\)](https://open.spotify.com/track/3wMUF96HtzkjviWxFRQUVn) | [Vae Vanilla](https://open.spotify.com/artist/5C41pFQJ6ht276z97Wh6xb), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Not Yours \(Remix\)](https://open.spotify.com/album/58Qs8SIVW4lM8t9ma66Aw0) | 2:10 |
+| 44 | [New Day](https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 2:34 |
 | 45 | [SIZZLE \(feat\. Kaliii\)](https://open.spotify.com/track/6jd95tB1LclPetfFMNe3as) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [HOOD AVANT\-GARDE \(Deluxe\)](https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k) | 2:15 |
-| 46 | [Street Nigga \(feat\. Kaliii\)](https://open.spotify.com/track/0enS3HzQvOcZcQARcPQdK2) | [Symba](https://open.spotify.com/artist/6qWkHLpJ0T1fQGbqN1HWtD), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Results Take Time](https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9) | 2:35 |
+| 46 | [Not Yours \(Remix\)](https://open.spotify.com/track/3wMUF96HtzkjviWxFRQUVn) | [Vae Vanilla](https://open.spotify.com/artist/5C41pFQJ6ht276z97Wh6xb), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Not Yours \(Remix\)](https://open.spotify.com/album/58Qs8SIVW4lM8t9ma66Aw0) | 2:10 |
 | 47 | [Spend Dat](https://open.spotify.com/track/3BketpGVPLcisLVw9ttWc5) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 2:18 |
 | 48 | [Ouuhh!!](https://open.spotify.com/track/6R5pp1Yant3DhEuHtJJGZl) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Famous Uno](https://open.spotify.com/artist/4Y9LZIhP41oVQFjoyJ3Gga), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Ouuhh!!](https://open.spotify.com/album/5R7RaffbuuCgJ8rB9qC0P8) | 3:17 |
-| 49 | [Chainzzz \(feat\. Muni Long\)](https://open.spotify.com/track/52BxodVhthsoiy2zrhh7SR) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Chainzzz \(feat\. Muni Long\)](https://open.spotify.com/album/5qQgXzZjX0hfAQxdjgRsBw) | 2:33 |
+| 49 | [Street Nigga \(feat\. Kaliii\)](https://open.spotify.com/track/0enS3HzQvOcZcQARcPQdK2) | [Symba](https://open.spotify.com/artist/6qWkHLpJ0T1fQGbqN1HWtD), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Results Take Time](https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9) | 2:35 |
 | 50 | [Bout U](https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bout U](https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX) | 2:39 |
 
-Snapshot ID: `aFnqgAAAAAD+/zrlMzt2aqi5G2Eb9x9N`
+Snapshot ID: `aFs8AAAAAABW2niaj4zWwVBYXfCdpNQN`

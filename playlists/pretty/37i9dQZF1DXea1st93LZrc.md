@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea1st93LZrc.md) - [plain]
 
 > Οι καλλιτέχνες που ακούστηκαν περισσότερο μέσα στο 2024\. Εξώφυλλο: TOQUEL, RACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,970 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,980 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea1st93LZrc.md) - [plain]
 | 36 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 |
 | 37 | [Xiliometra](https://open.spotify.com/track/2acUYxCZbgndtm70LgCCbS) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Xiliometra](https://open.spotify.com/album/09fNBzRHU6hyLCgX2XJK5I) | 2:37 |
 | 38 | [KOPRITIS](https://open.spotify.com/track/26iieiRiqhzXfBquk8sm6N) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [ALEQUAN](https://open.spotify.com/album/18ZNsVDZpZC9xyi7eAmvPl) | 2:44 |
-| 39 | [AUTOS](https://open.spotify.com/track/0EwKlAawFATYjR7Od5ps6k) | [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV) | [AUTOS](https://open.spotify.com/album/5zBsIrSYkD7pa4XYLAOqLs) | 3:11 |
+| 39 | [AUTOS](https://open.spotify.com/track/0EwKlAawFATYjR7Od5ps6k) | [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [AUTOS](https://open.spotify.com/album/5zBsIrSYkD7pa4XYLAOqLs) | 3:11 |
 | 40 | [Lebron](https://open.spotify.com/track/5LveNwV4aDPCWAclJpaLBg) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Lebron](https://open.spotify.com/album/3vtNYVA89ySfe7X1ZPzVZW) | 2:57 |
 | 41 | [Liberta](https://open.spotify.com/track/08OtH6bcjVBRaQJbCyXjVd) | [Block 93](https://open.spotify.com/artist/6lLBwuarTgj4GxTykLYCLo), [Yanek](https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5), [Sp93](https://open.spotify.com/artist/70BVuSoIusPEV52Fyi3RlK), [Tanto](https://open.spotify.com/artist/2mn8rZRXusYSE0pwQkVN7t) | [Liberta](https://open.spotify.com/album/1eN5OlumPzwl2BGDly1Meh) | 4:24 |
 | 42 | [APANTISE MOU](https://open.spotify.com/track/4uktdfRAk27x0QGGgl1X6S) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH) | [APANTISE MOU](https://open.spotify.com/album/75shodJPn0S5SQ3xr7SDzM) | 2:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=S7rW\-ybNQ0euvpo\_ledLaQ">Lwah Ndlunkulu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,215 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,332 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

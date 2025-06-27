@@ -8849,6 +8849,24 @@
     },
     {
       "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/4KKZTPFuhaYhUVwbTz7xBa"
+      },
+      "artists": [
+        {
+          "name": "The kid in blue",
+          "url": "https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148187,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/4OjdjSC3daLXsixkIU4FGM"
+    },
+    {
+      "album": {
         "name": "Just For A Moment",
         "url": "https://open.spotify.com/album/2ZL28OmYk450SU38r3M6PQ"
       },

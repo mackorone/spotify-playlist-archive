@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 123045,
+  "num_followers": 123069,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAAAerNLXEF1HOFesTUCUMpNQ",
+  "snapshot_id": "aFs8AAAAAACJG5f44tRCabFWsLagw121",
   "tracks": [
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Historia Mal Contada",
-        "url": "https://open.spotify.com/album/5lYcalORluIjuBEKJflc88"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 197373,
-      "name": "Para Olvidarme De Tus Besos",
-      "url": "https://open.spotify.com/track/4CB7M0J9NNubspCy0WDlNL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liga Malandra 3",
         "url": "https://open.spotify.com/album/6dcUWslTmKR3ymSgSQ1nzy"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 371162,
       "name": "Liga Malandra 3",
       "url": "https://open.spotify.com/track/6fAGdSZyZO3uKF0wdVOuVd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Historia Mal Contada",
+        "url": "https://open.spotify.com/album/5lYcalORluIjuBEKJflc88"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 197373,
+      "name": "Para Olvidarme De Tus Besos",
+      "url": "https://open.spotify.com/track/4CB7M0J9NNubspCy0WDlNL"
     },
     {
       "added_at": null,
@@ -1047,26 +1047,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oro en la Medalla",
-        "url": "https://open.spotify.com/album/7ldWaPET5zr62xHpJCVZWO"
+        "name": "La Esquina",
+        "url": "https://open.spotify.com/album/1AUCWNSatHgDBNYvfthnNa"
       },
       "artists": [
         {
-          "name": "Nash",
-          "url": "https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3"
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
         },
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "AYWA",
-          "url": "https://open.spotify.com/artist/6GEVw5yA5Oe5UxuiN2YOIO"
         }
       ],
-      "duration_ms": 155700,
-      "name": "Oro en la Medalla",
-      "url": "https://open.spotify.com/track/2TYVh81Hg2FyNq8MRkTd5H"
+      "duration_ms": 267897,
+      "name": "Broche De Oro",
+      "url": "https://open.spotify.com/track/6bomSYIzgSeymVS1sdUhsu"
     }
   ],
   "unique_name": "This Is Dharius",

@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 141676,
+  "num_followers": 141697,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAADt7cn86/K8HO69oIe/Kix4",
+  "snapshot_id": "aFs8AAAAAAClcT1uTSTXuaCsJDikBlBu",
   "tracks": [
     {
       "added_at": null,
@@ -607,46 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard to Handle",
-        "url": "https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX"
-      },
-      "artists": [
-        {
-          "name": "Foco De Atelier",
-          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
-        },
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 190632,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/2c6xK3rRQQT95DaTnjQYCF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Que viva el rocanrol - En vivo",
-      "url": "https://open.spotify.com/track/21vlXzWrTG8PaMcBgPIIiZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Va el Amor",
         "url": "https://open.spotify.com/album/39b4OTzmUcmjX0E6UeXWqf"
       },
@@ -671,6 +631,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "Que viva el rocanrol - En vivo",
+      "url": "https://open.spotify.com/track/21vlXzWrTG8PaMcBgPIIiZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hard to Handle",
+        "url": "https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX"
+      },
+      "artists": [
+        {
+          "name": "Foco De Atelier",
+          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 190632,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/2c6xK3rRQQT95DaTnjQYCF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Otra tocada m\u00e1s",
         "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
       },
@@ -687,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miguel R\u00edos y las estrellas del Rock latino",
-        "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
+        "name": "25 a\u00f1os",
+        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
       },
       "artists": [
-        {
-          "name": "Miguel R\u00edos",
-          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
-        },
         {
           "name": "El Tri",
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 203573,
-      "name": "Triste canci\u00f3n de amor (con El Tri)",
-      "url": "https://open.spotify.com/track/5mYa4SjEvkrQmHNyEIwXTb"
+      "duration_ms": 170026,
+      "name": "El hablador",
+      "url": "https://open.spotify.com/track/7CmVmboIpe4bgIQJi4hk5v"
     },
     {
       "added_at": null,
@@ -723,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 a\u00f1os",
-        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
+        "name": "Miguel R\u00edos y las estrellas del Rock latino",
+        "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
       },
       "artists": [
+        {
+          "name": "Miguel R\u00edos",
+          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
+        },
         {
           "name": "El Tri",
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 170026,
-      "name": "El hablador",
-      "url": "https://open.spotify.com/track/7CmVmboIpe4bgIQJi4hk5v"
+      "duration_ms": 203573,
+      "name": "Triste canci\u00f3n de amor (con El Tri)",
+      "url": "https://open.spotify.com/track/5mYa4SjEvkrQmHNyEIwXTb"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAAAT1I7CmiMEb5UJWoAhC98q",
+  "snapshot_id": "aFs8AAAAAAAqQBSKSePohXz4yJlg/2a5",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "POTLUCK",
-        "url": "https://open.spotify.com/album/1WwIvrNfaFQdAu82XAs7Fh"
+        "name": "Unreal",
+        "url": "https://open.spotify.com/album/6UEImviFrAqrlOJTznObgc"
       },
       "artists": [
         {
-          "name": "Bruiser Wolf",
-          "url": "https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67"
-        },
-        {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
         }
       ],
-      "duration_ms": 157290,
-      "name": "Beat The Charge",
-      "url": "https://open.spotify.com/track/51nexOgdmWUAbfIY6rdQDI"
+      "duration_ms": 128291,
+      "name": "Unreal",
+      "url": "https://open.spotify.com/track/3CeVm8Lr9sb9o4FhJGlyMl"
     },
     {
       "added_at": null,
@@ -191,26 +195,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unreal",
-        "url": "https://open.spotify.com/album/6UEImviFrAqrlOJTznObgc"
+        "name": "POTLUCK",
+        "url": "https://open.spotify.com/album/1WwIvrNfaFQdAu82XAs7Fh"
       },
       "artists": [
         {
+          "name": "Bruiser Wolf",
+          "url": "https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67"
+        },
+        {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        },
-        {
-          "name": "Stove God Cooks",
-          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
         }
       ],
-      "duration_ms": 128291,
-      "name": "Unreal",
-      "url": "https://open.spotify.com/track/3CeVm8Lr9sb9o4FhJGlyMl"
+      "duration_ms": 157290,
+      "name": "Beat The Charge",
+      "url": "https://open.spotify.com/track/51nexOgdmWUAbfIY6rdQDI"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 184910,
-      "name": "Eyes Wide Shut",
-      "url": "https://open.spotify.com/track/7AkHHkRNWLc9Ytz60MH8lW"
+      "duration_ms": 188414,
+      "name": "Final Destination",
+      "url": "https://open.spotify.com/track/4OAEMH3QS3o69ww6wKrNQS"
     },
     {
       "added_at": null,
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 188414,
-      "name": "Final Destination",
-      "url": "https://open.spotify.com/track/4OAEMH3QS3o69ww6wKrNQS"
+      "duration_ms": 184910,
+      "name": "Eyes Wide Shut",
+      "url": "https://open.spotify.com/track/7AkHHkRNWLc9Ytz60MH8lW"
     },
     {
       "added_at": null,

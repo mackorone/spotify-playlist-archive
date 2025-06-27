@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-325 songs - 16 hr 49 min
+326 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,8 @@
 | [Pleasant Valley Sunday \- 2007 Remaster](https://open.spotify.com/track/2HqB3VSdiYmDkTTCPzVHOf) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Pisces, Aquarius, Capricorn & Jones Ltd\. \(Deluxe Edition\)](https://open.spotify.com/album/0hYCs5ttzuQcu86VPCEsXF) | 3:14 | 2023-12-30 |  |
 | [Please Hurt Me](https://open.spotify.com/track/6cEhla9GaxwIL31U2SYZSd) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Twist Uptown](https://open.spotify.com/album/1u6OEiAZAyZPCLE9frkKBZ) | 2:14 | 2023-12-30 |  |
 | [Pocket Money](https://open.spotify.com/track/42A8Z3UJbg0nTp6SOzaGJb) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King: The Ode Collection](https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp) | 2:44 | 2023-12-30 |  |
-| [Point of No Return](https://open.spotify.com/track/1SeZac1HSpWFBfXv1MUZ3H) | [Geto Boys](https://open.spotify.com/artist/3f5fB1YUbkUnW7cf7I0R48) | [The Resurrection](https://open.spotify.com/album/06BLB0YP19RZgiqvYwho9A) | 3:05 | 2023-12-30 |  |
+| [Point of No Return](https://open.spotify.com/track/1SeZac1HSpWFBfXv1MUZ3H) | [Geto Boys](https://open.spotify.com/artist/3f5fB1YUbkUnW7cf7I0R48) | [The Resurrection](https://open.spotify.com/album/06BLB0YP19RZgiqvYwho9A) | 3:05 | 2023-12-30 | 2025-06-27 |
+| [Point of No Return](https://open.spotify.com/track/4bNIcTaMnyfQe4vpZTQ15L) | [Geto Boys](https://open.spotify.com/artist/3f5fB1YUbkUnW7cf7I0R48) | [The Resurrection](https://open.spotify.com/album/7koTftbLvHVpVgPBl9WAe8) | 3:05 | 2025-06-26 |  |
 | [Poor Little Rich Girl \- 1990 Remix / Remaster](https://open.spotify.com/track/2apoUc9GqR0fymKxc8d5QD) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Tristan Powell](https://open.spotify.com/artist/2UOqj3OfNn5lE6npQ6eQql) | [Basie Swings, Bennett Sings](https://open.spotify.com/album/7JmMDmIkkiGpf2YFpYG1Jm) | 3:33 | 2023-12-30 |  |
 | [Porpoise Song](https://open.spotify.com/track/02tiurLpJcKS0aFVsyvKz3) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Head](https://open.spotify.com/album/3xru9aQ0OwyBa4JxfziloH) | 2:40 | 2023-12-30 |  |
 | [Quiero Quedarme Aqui](https://open.spotify.com/track/6imwmUReqU5Sl7gZm3fLrO) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Mateo](https://open.spotify.com/artist/3ZSqOgN2W2NrJ0kDoMj2g0) | [Atrevete A Soñar](https://open.spotify.com/album/4YQ7hShKeFJQKC4tgYenmb) | 2:42 | 2023-12-30 |  |

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,012 songs - 2 day 8 hr 52 min
+1,013 songs - 2 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -595,6 +595,7 @@
 | [Never Enough](https://open.spotify.com/track/0OIHK8vvOTnjg4dtBH34qX) | [Manu Zain](https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7) | [Never Enough](https://open.spotify.com/album/4GN1ATNzGkfuhGDgcnKgKJ) | 3:17 | 2022-02-04 | 2022-04-15 |
 | [Never Fall](https://open.spotify.com/track/0HMU8V4GlxxkhLIGD7bLJF) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [BOTCASH](https://open.spotify.com/artist/2ohZgLU6lCv55yV3d05nMv), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Never Fall](https://open.spotify.com/album/62QNsprfPKxxwXpGY2Hjab) | 3:41 | 2024-11-14 | 2025-02-21 |
 | [Never Let You Down](https://open.spotify.com/track/3HnGSgsJA5KkXAnVthERri) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Miles Away](https://open.spotify.com/artist/3V8H59FqUdudlO1Fl019tg), [RYYZN](https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f) | [Never Let You Down](https://open.spotify.com/album/6fQJLkZUzXXynBgMXKoA8n) | 3:13 | 2023-04-12 | 2023-07-09 |
+| [never mine](https://open.spotify.com/track/1fNFVjK6tIpDNwUA0QucXI) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [never mine](https://open.spotify.com/album/4M3yKgmuuIRtstbx40GJel) | 2:50 | 2025-06-26 |  |
 | [New Age \- Bossfight Remix](https://open.spotify.com/track/5aCABFeoSwL2Ux0c1gW2QL) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ), [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [New Age \(Bossfight Remix\)](https://open.spotify.com/album/4wUzPAPk50YZRRxMcCRPPX) | 3:10 | 2022-02-23 | 2022-05-05 |
 | [NEW HEIGHTS](https://open.spotify.com/track/4foDugtrBpG8suDqXiXY5n) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [NEW HEIGHTS](https://open.spotify.com/album/1Zz4OoaOCNZbfQV7ZJxays) | 3:12 | 2025-04-28 |  |
 | [New Sound](https://open.spotify.com/track/4l5ipa1fcZnPlKWHmRHvoS) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Smoakland](https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs), [Era Harris](https://open.spotify.com/artist/0LblmjSaHxJvyBMDCWLr3f) | [Requiem for a Riot](https://open.spotify.com/album/1nqOabFas9FCqKVEaRad52) | 2:39 | 2025-06-06 |  |

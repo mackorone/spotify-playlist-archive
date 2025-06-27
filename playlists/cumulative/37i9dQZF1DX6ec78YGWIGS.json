@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Yami Safdie & Rusherking.",
+  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: K4OS.",
   "name": "POP FLOW",
   "tracks": [
     {
@@ -532,7 +532,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 144500,
       "name": "Alguien Como Yo",
       "url": "https://open.spotify.com/track/7JpxGqgHVu4pH9qFkJvD2C"
@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 196000,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/6xtwjW4Z7JwnbGVRh36U4I"
@@ -2794,7 +2794,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -2960,7 +2960,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 200454,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
@@ -3120,7 +3120,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 196336,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/7KMFDij7TKaTE6pCTX1eLh"
@@ -4327,6 +4327,28 @@
     },
     {
       "album": {
+        "name": "Lo que sientes x mi",
+        "url": "https://open.spotify.com/album/20WhkvLIEV6lBcjVbjtO04"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "LUCHI",
+          "url": "https://open.spotify.com/artist/7GaQCl2FevnMBFnE9IpRwj"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140399,
+      "name": "Lo que sientes x mi",
+      "url": "https://open.spotify.com/track/6QH8or66g5QayPdHr3UdUi"
+    },
+    {
+      "album": {
         "name": "Obsesionario",
         "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
       },
@@ -5126,7 +5148,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 192625,
       "name": "mi mundo entero",
       "url": "https://open.spotify.com/track/0mf6B7NGBjDE6ujdoIjT7c"
@@ -6776,6 +6798,24 @@
       "duration_ms": 137142,
       "name": "Puntos Claves",
       "url": "https://open.spotify.com/track/2qaUa6vPtYqUcD2woI0LON"
+    },
+    {
+      "album": {
+        "name": "PUSH4FUN",
+        "url": "https://open.spotify.com/album/1OOqUyG6p5wmXH5RfnOHRE"
+      },
+      "artists": [
+        {
+          "name": "K4OS",
+          "url": "https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202568,
+      "name": "PUSH4FUN",
+      "url": "https://open.spotify.com/track/7BYgwR65lD2iL2eAiuU4GS"
     },
     {
       "album": {

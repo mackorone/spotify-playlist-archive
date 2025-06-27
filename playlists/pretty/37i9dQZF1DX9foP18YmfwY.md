@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Herrison Pontes, Jessica Dias
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,036 likes - 70 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,087 likes - 70 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 26 | [Só por Ti, Jesus](https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 4](https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f) | 3:55 |
 | 27 | [Nada Temerei](https://open.spotify.com/track/0Az43n8eLEaGhnayh3MBK2) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK) | [Nada Temerei](https://open.spotify.com/album/66tSxggLjDFU9NX7AYoGHQ) | 4:46 |
 | 28 | [Muito Mais pra Mim](https://open.spotify.com/track/3QnxAvMEX7d2clCxJPH2pc) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt) | [Não Vou Desistir](https://open.spotify.com/album/4wSxDhTezDWQ1kEGmy5zrf) | 5:34 |
-| 29 | [Levanta e Anda \- Ao Vivo](https://open.spotify.com/track/2jycVbKMZWU5raNSWkdxxe) | [Padre Marcelo Rossi](https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9) | [Ágape Amor Divino \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/57hepB3nk9cMT0FHeXtkYm) | 5:24 |
-| 30 | [Ainda Bem](https://open.spotify.com/track/1wmJX9qbdcx6uzVn9YAlQ0) | [GBA Worship](https://open.spotify.com/artist/4t6soZWVyBgyasne3JFfPI), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Jessica Dias](https://open.spotify.com/artist/6nCdSWwlMM1cUfAWrHrnvD), [Herrison Pontes](https://open.spotify.com/artist/03OXiYJ3clKcB5HBC1KA2M) | [UM \- Origem](https://open.spotify.com/album/4eowyg64oQCHdhDM8GF5c0) | 4:54 |
+| 29 | [Ainda Bem](https://open.spotify.com/track/1wmJX9qbdcx6uzVn9YAlQ0) | [GBA Worship](https://open.spotify.com/artist/4t6soZWVyBgyasne3JFfPI), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Jessica Dias](https://open.spotify.com/artist/6nCdSWwlMM1cUfAWrHrnvD), [Herrison Pontes](https://open.spotify.com/artist/03OXiYJ3clKcB5HBC1KA2M) | [UM \- Origem](https://open.spotify.com/album/4eowyg64oQCHdhDM8GF5c0) | 4:54 |
+| 30 | [Levanta e Anda \- Ao Vivo](https://open.spotify.com/track/2jycVbKMZWU5raNSWkdxxe) | [Padre Marcelo Rossi](https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9) | [Ágape Amor Divino \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/57hepB3nk9cMT0FHeXtkYm) | 5:24 |
 | 31 | [Serei Tudo](https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin), [Laura Salvador](https://open.spotify.com/artist/61ebYZYHMe4kwhxnA3Evh3) | [Serei Tudo](https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms) | 4:24 |
 | 32 | [Acalma o Meu Coração](https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [Acalma o Meu Coração](https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9) | 4:22 |
 | 33 | [Milagre de Amor](https://open.spotify.com/track/5u162KDc5vVtLW8NVxvVgg) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Milagre de Amor](https://open.spotify.com/album/7GMUQjOfVNZW38ewetR7Ew) | 4:16 |

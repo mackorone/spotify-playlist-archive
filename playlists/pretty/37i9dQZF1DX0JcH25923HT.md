@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,806 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,027 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 81 | [Ferrari](https://open.spotify.com/track/4mbb7hmfDR6M9cQaLdYSFd) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 3:08 |
 | 82 | [Piso](https://open.spotify.com/track/2nxft8uvdFYovqAcaxulSz) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Piso](https://open.spotify.com/album/4Vsl4WJiebxjDwpBp7JqPQ) | 3:39 |
 | 83 | [Ahora Me Llama \- Remix](https://open.spotify.com/track/0mQD5ilmghCieAw6E6YFrd) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Ahora Me Llama \(Remix\)](https://open.spotify.com/album/3QL5SDLpu79KrQAW3jhJ8y) | 4:11 |
-| 84 | [Yelo](https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Yelo](https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi) | 3:09 |
-| 85 | [Si Te Lastimé](https://open.spotify.com/track/1NKwmnPXpm2WaZbiPBcfYY) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Si Te Lastimé](https://open.spotify.com/album/00JEveuRpUpFxB2Npr8fNa) | 2:13 |
-| 86 | [Se Terminó \(feat\. Kodigo\)](https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Se Terminó \(feat\. Kodigo\)](https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH) | 3:22 |
-| 87 | [Sigo Fresh](https://open.spotify.com/track/50KdtoOHAI2Bp15YifdP02) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [You're Welcome](https://open.spotify.com/album/1hhtQL6iADIa5DoH7qZlIJ) | 3:09 |
+| 84 | [Si Te Lastimé](https://open.spotify.com/track/1NKwmnPXpm2WaZbiPBcfYY) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Si Te Lastimé](https://open.spotify.com/album/00JEveuRpUpFxB2Npr8fNa) | 2:13 |
+| 85 | [Yelo](https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Yelo](https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi) | 3:09 |
+| 86 | [Sigo Fresh](https://open.spotify.com/track/50KdtoOHAI2Bp15YifdP02) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [You're Welcome](https://open.spotify.com/album/1hhtQL6iADIa5DoH7qZlIJ) | 3:09 |
+| 87 | [Se Terminó \(feat\. Kodigo\)](https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Se Terminó \(feat\. Kodigo\)](https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH) | 3:22 |
 | 88 | [Te Llame Borracho](https://open.spotify.com/track/3ZqYV9HnAVVdMB4TjO8RBx) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Te Llame Borracho](https://open.spotify.com/album/2y7qQImK0WUCdvYLAWpzoR) | 3:18 |
 | 89 | [Lucho SSJ: Bzrp Music Sessions, Vol\. 26](https://open.spotify.com/track/3tMNgcUfPEXTtG5vaaGi85) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Lucho SSJ: Bzrp Music Sessions, Vol\. 26](https://open.spotify.com/album/0thIkyfD115LyonQgwBhyT) | 2:22 |
 | 90 | [Perdóname](https://open.spotify.com/track/6jwcchNlcoMZFa0EwfKga6) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Perdóname](https://open.spotify.com/album/4NKcodEVVaqancpvvNYkdU) | 2:43 |

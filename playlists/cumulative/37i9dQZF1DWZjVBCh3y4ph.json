@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : DJ Kawest x Aya Nakamura",
+  "description": "Les hits zouk du moment. Photo : L\u00c9A CHURROS",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 246325,
       "name": "Emilie",
       "url": "https://open.spotify.com/track/0Jy2GTFnl7dtdC2viWzELO"
@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 209231,
       "name": "ENKONDISYON\u00c8L",
       "url": "https://open.spotify.com/track/0GvU1gb0o2cd20XYirQsun"
@@ -1518,7 +1518,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 242016,
       "name": "Faux pas",
       "url": "https://open.spotify.com/track/0sbsEv0IqIps5PCRRG5Qul"
@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 150697,
       "name": "Je Donne",
       "url": "https://open.spotify.com/track/1bol6WkjrtvcxPydk4tsGC"
@@ -2284,6 +2284,28 @@
       "duration_ms": 155400,
       "name": "La Loupe",
       "url": "https://open.spotify.com/track/6LvIvRZh3SeWGKyzM8gYJO"
+    },
+    {
+      "album": {
+        "name": "La temp\u00e9rature",
+        "url": "https://open.spotify.com/album/1xMMwPytg39U5DRs2lzXXB"
+      },
+      "artists": [
+        {
+          "name": "makita",
+          "url": "https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT"
+        },
+        {
+          "name": "Milenzi",
+          "url": "https://open.spotify.com/artist/3kUZDDyXB8aHc6Cn4lgFcU"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "La temp\u00e9rature",
+      "url": "https://open.spotify.com/track/27BWRLH34mfG5wvAA1Leij"
     },
     {
       "album": {
@@ -2757,6 +2779,24 @@
     },
     {
       "album": {
+        "name": "Mon BB",
+        "url": "https://open.spotify.com/album/3eLQpjrB5OHzAXWdZdpyI9"
+      },
+      "artists": [
+        {
+          "name": "XIV",
+          "url": "https://open.spotify.com/artist/5TYWbwBIIkfhJHUrYbatRF"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169335,
+      "name": "Mon BB",
+      "url": "https://open.spotify.com/track/1ej20IxApkQjeM0QCB4Jfa"
+    },
+    {
+      "album": {
         "name": "MON P\u00c9CH\u00c9",
         "url": "https://open.spotify.com/album/3NcbXib1tE0AgbzdeIqWhf"
       },
@@ -3211,6 +3251,32 @@
     },
     {
       "album": {
+        "name": "Ohana",
+        "url": "https://open.spotify.com/album/3rZbZbvxXs4jbxqGnz7Gvy"
+      },
+      "artists": [
+        {
+          "name": "DJ Ramses",
+          "url": "https://open.spotify.com/artist/5A1Lk3WRlRE67ua5B0zelb"
+        },
+        {
+          "name": "Jeady Jay",
+          "url": "https://open.spotify.com/artist/4hXDK6hpOhP5dW2kuWZ6my"
+        },
+        {
+          "name": "T-Gui",
+          "url": "https://open.spotify.com/artist/4qc6LLDZhaO2vOSJZ7Jrq5"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145227,
+      "name": "Ohana",
+      "url": "https://open.spotify.com/track/6uqAOPe2Wf5rY2O23Iezh8"
+    },
+    {
+      "album": {
         "name": "On a chang\u00e9",
         "url": "https://open.spotify.com/album/3zrtguwuRFGcshPO6QGON6"
       },
@@ -3558,7 +3624,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 196028,
       "name": "PARLE MOI",
       "url": "https://open.spotify.com/track/3tDhgyLUfn2uAHSPwp4bjT"
@@ -4435,6 +4501,24 @@
     },
     {
       "album": {
+        "name": "Spicy",
+        "url": "https://open.spotify.com/album/2MHBqVE1knQkujPWYKBVWh"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9A CHURROS",
+          "url": "https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178636,
+      "name": "Spicy",
+      "url": "https://open.spotify.com/track/3bLv5xvPDnSlIebugPc7sQ"
+    },
+    {
+      "album": {
         "name": "Sp\u00e9ciale",
         "url": "https://open.spotify.com/album/4sm8nPesabjg9KPhLzEGLH"
       },
@@ -4838,7 +4922,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 209834,
       "name": "Tomb\u00e9 d'amour",
       "url": "https://open.spotify.com/track/1P1ASTKk0t5cPCM73nJnCq"
@@ -4882,6 +4966,24 @@
       "duration_ms": 175280,
       "name": "TON PIED MON PIED",
       "url": "https://open.spotify.com/track/27Dsm5M4o01VCzFrTMHx7b"
+    },
+    {
+      "album": {
+        "name": "Promesse",
+        "url": "https://open.spotify.com/album/5LBgOluJZ6hot842JrFhyf"
+      },
+      "artists": [
+        {
+          "name": "Kims\u00e9",
+          "url": "https://open.spotify.com/artist/6zMl1DUlBifiJBBzVGy0wP"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194337,
+      "name": "Tou l\u00e9 jou",
+      "url": "https://open.spotify.com/track/4CEP4Um8LMBaJJ7rIsmvOB"
     },
     {
       "album": {
@@ -5002,6 +5104,28 @@
       "duration_ms": 213600,
       "name": "Tout \u00e7a",
       "url": "https://open.spotify.com/track/3FpcnvaYqXB9QgvvoY76Ib"
+    },
+    {
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/6vTkMnhW0kmJFZQeNbwcLU"
+      },
+      "artists": [
+        {
+          "name": "Elowdy.C",
+          "url": "https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt"
+        },
+        {
+          "name": "MJTX",
+          "url": "https://open.spotify.com/artist/5oYrabnj98r8zzsTsD5PbP"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185333,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/4mu20BQcDwqTRwIjXi7LgX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-649 songs - 1 day 20 hr 54 min
+650 songs - 1 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Don't Want To Live Without Your Love](https://open.spotify.com/track/185mYjhMPzy5gu6ODIkccu) | [Cocoa Tea](https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R) | [Israel's King](https://open.spotify.com/album/0FUOLix414SaW34JbJMpJN) | 3:47 | 2024-07-10 |  |
 | [Donne\-Moi Un Peu De Ta Peur](https://open.spotify.com/track/4OlrhtPFiyBhPZQtm0t5Dv) | [Martine Mai](https://open.spotify.com/artist/4QHbmOwEjkQj38G3ahoFjM) | [Voir Le Loup](https://open.spotify.com/album/06wgulZ9Uoxu2dAtWo2QuE) | 4:25 | 2024-07-10 |  |
 | [Don’t You \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4uuEGH5SVuzkkSFjo2DEiY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:28 | 2024-01-17 | 2024-02-06 |
+| [DRAMA](https://open.spotify.com/track/5Pixk2d6ey48MKVq5W6HWt) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 3:54 | 2025-06-26 |  |
 | [Dream Away \- Remastered](https://open.spotify.com/track/465LG7wvrcqgSK3RmBqR7q) | [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ian Devaney](https://open.spotify.com/artist/6Ufm4BHf4ZdolpvcvYgH2S), [Bobby Boughton](https://open.spotify.com/artist/1xA45Y8FmnDUx45z3LAAOX), [Aidan McGovern](https://open.spotify.com/artist/5OIR6yx6e1qDEIca1MIJHz) | [So Natural](https://open.spotify.com/album/2LD5bvxCjhrtNEFRjfMUjR) | 4:36 | 2023-12-30 |  |
 | [Earthbound](https://open.spotify.com/track/7ehWiVnECZg3Xt8CACblJ1) | [Moya](https://open.spotify.com/artist/1gzYTBlAMrESMPMueOZ31b) | [Earthbound](https://open.spotify.com/album/64eLQm7TkEZtowHYwDqIVG) | 4:23 | 2023-12-30 |  |
 | [Emergency..\. \(c'est juste pour rire\)](https://open.spotify.com/track/7wJvygRRDU8tWJGDw1KnVy) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Merci](https://open.spotify.com/album/1OywRJOoGaifH6Jug5zdLg) | 3:53 | 2023-12-30 |  |

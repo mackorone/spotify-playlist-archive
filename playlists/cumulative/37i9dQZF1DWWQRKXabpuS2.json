@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 302107,
       "name": "Ana Mawjoud",
       "url": "https://open.spotify.com/track/2mwRZnhBHSuUhQdrJN4D8P"
@@ -5090,7 +5090,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 194755,
       "name": "Taraf Wahed",
       "url": "https://open.spotify.com/track/1p9RcdO0iNFyj0Cz29MBHo"
@@ -7401,6 +7401,24 @@
     },
     {
       "album": {
+        "name": "\u0623\u0646\u0627 \u0648\u0627\u0644\u0635\u064a\u0641",
+        "url": "https://open.spotify.com/album/0tXa6bUAByCjlMzbwhHiim"
+      },
+      "artists": [
+        {
+          "name": "Nawal",
+          "url": "https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248299,
+      "name": "\u0648\u0633\u0637 \u062c\u062f\u0629",
+      "url": "https://open.spotify.com/track/68e7dpS9AuM7XY2wUAlNQq"
+    },
+    {
+      "album": {
         "name": "\u0648\u0635\u0644\u0646\u0627",
         "url": "https://open.spotify.com/album/1vrIcCOg50amkJ8OgdxI4a"
       },
@@ -7478,6 +7496,24 @@
       "duration_ms": 306573,
       "name": "\u0648\u064a\u0646\u0647",
       "url": "https://open.spotify.com/track/5wglb4bSdNs2bdPqCRq0iZ"
+    },
+    {
+      "album": {
+        "name": "\u064a\u0627 \u062d\u0631\u0627\u0645",
+        "url": "https://open.spotify.com/album/7uZmpAgIoN2DUUrfoFtLEH"
+      },
+      "artists": [
+        {
+          "name": "Rashed Al-Majed",
+          "url": "https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377391,
+      "name": "\u064a\u0627 \u062d\u0631\u0627\u0645",
+      "url": "https://open.spotify.com/track/0pQNzmaUQljZWycAUabOHj"
     },
     {
       "album": {

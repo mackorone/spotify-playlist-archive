@@ -2,9 +2,9 @@
 
 ### [Hot Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DXc51TI5dx7RC)
 
-> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: BLVCKHEART
+> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: YOUNGOHM
 
-177 songs - 10 hr 36 min
+178 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/track/7mVobUmGP12Y5SQJgBice3) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [VARINZ](https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ) | [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/album/69ybwJj0gIujut2fiIMQLY) | 3:06 | 2024-06-20 | 2024-07-12 |
 | [พูดเหมือนจำ ทำเหมือนเดิม \(SAME AGAIN\)](https://open.spotify.com/track/1scf7fXKBaF1PPM3ej4sxK) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [พูดเหมือนจำ ทำเหมือนเดิม \(SAME AGAIN\)](https://open.spotify.com/album/3GNuDVcOBOMm4L6TcfaFsJ) | 3:41 | 2025-05-23 |  |
 | [ยอม \(Surrender\)](https://open.spotify.com/track/6UuJgXnKGdAWeRwD8asDI3) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ยอม \(Surrender\)](https://open.spotify.com/album/4RGH9K61U4bFJ6nbtWlgcq) | 3:15 | 2024-07-20 | 2025-02-25 |
+| [ยอมอยู่แล้ว \(feat\. ปั๊บ Potato\)](https://open.spotify.com/track/4WqM7sGHLOdZasaunLPzLG) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A), [ปั๊บ Potato](https://open.spotify.com/artist/3XbhlGKpFyzOgGtbkmp9UQ) | [Hotel Room 302](https://open.spotify.com/album/1BOeIQN7MNNVhtgRlUvHKZ) | 4:20 | 2025-06-26 |  |
 | [ยินดี \- เพลงประกอบละครมาตาลดา ช่อง 3](https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ยินดี \(เพลงประกอบละครมาตาลดา ช่อง 3\)](https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK) | 3:17 | 2024-06-20 | 2024-07-15 |
 | [รถไฟบนฟ้า](https://open.spotify.com/track/6BqnE3hiqtywrLMJ3ulYDp) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [รถไฟบนฟ้า](https://open.spotify.com/album/5boT1tGdFqjrzzDSqLrrsC) | 4:16 | 2024-06-20 | 2024-09-10 |
 | [รออยู่อย่างนั้น](https://open.spotify.com/track/24wXz2WuaF02y0mrKNPMsN) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [SIMON](https://open.spotify.com/artist/6gL6AwaRQKqK9VGBqi5zDo) | [รออยู่อย่างนั้น](https://open.spotify.com/album/1pZSegpCKVMmIrPUtYcWQq) | 3:52 | 2025-04-16 |  |
@@ -184,6 +185,6 @@
 | [ไม่มีที่ไปก็ต้องไป](https://open.spotify.com/track/34bbjxV7eJWOWdHHs5ZKn7) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [ไม่มีที่ไปก็ต้องไป](https://open.spotify.com/album/3duBUGLDS0P8MpuWEeSOrR) | 3:43 | 2025-01-16 | 2025-02-07 |
 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 | 2024-06-20 | 2025-02-22 |
 | [ไม่ให้ไป](https://open.spotify.com/track/0zLFNFvbnPmWZfDewtyaVg) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ไม่ให้ไป \- Single](https://open.spotify.com/album/5mS7KW0IM3CrLf0SO9QM6P) | 4:00 | 2024-06-20 |  |
-| [ไว้ชีวิตฉันไว้ทำไม](https://open.spotify.com/track/2aoklI3ZwqWJoQd5OyVf3F) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [ไว้ชีวิตฉันไว้ทำไม](https://open.spotify.com/album/1pKbASKAb3jVQiQscVGuZR) | 5:12 | 2025-06-13 |  |
+| [ไว้ชีวิตฉันไว้ทำไม](https://open.spotify.com/track/2aoklI3ZwqWJoQd5OyVf3F) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [ไว้ชีวิตฉันไว้ทำไม](https://open.spotify.com/album/1pKbASKAb3jVQiQscVGuZR) | 5:12 | 2025-06-13 | 2025-06-27 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "description": "60s rock to fuel your ride. Cover: Jimi Hendrix",
-  "num_followers": 273723,
+  "num_followers": 273852,
   "original_name": "60s Rock Drive",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Mony Mony",
-        "url": "https://open.spotify.com/album/5X5DaYvnFqc4EatPOYSmnt"
-      },
-      "artists": [
-        {
-          "name": "Tommy James & The Shondells",
-          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "Mony Mony",
-      "url": "https://open.spotify.com/track/23xk9Rf7oIHVUU1JvmXYFn"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
         "name": "The Stooges",
         "url": "https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 188560,
       "name": "I Wanna Be Your Dog",
       "url": "https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
+        "name": "Mony Mony",
+        "url": "https://open.spotify.com/album/5X5DaYvnFqc4EatPOYSmnt"
+      },
+      "artists": [
+        {
+          "name": "Tommy James & The Shondells",
+          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Mony Mony",
+      "url": "https://open.spotify.com/track/23xk9Rf7oIHVUU1JvmXYFn"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "In-A-Gadda-Da-Vida",
-        "url": "https://open.spotify.com/album/4L1Qw49gKwFuQwQovBxsKI"
-      },
-      "artists": [
-        {
-          "name": "Iron Butterfly",
-          "url": "https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS"
-        }
-      ],
-      "duration_ms": 1024133,
-      "name": "In-A-Gadda-Da-Vida - 2006 Remaster Full-Length",
-      "url": "https://open.spotify.com/track/1exUq8aG2OMbSeZeTwz06k"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
         "name": "The Rolling Stones In Mono (Remastered 2016)",
         "url": "https://open.spotify.com/album/5nKpMsduwp5xqCKq2IbSKv"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 219466,
       "name": "Jumpin' Jack Flash - Mono",
       "url": "https://open.spotify.com/track/55LRDFmsuazr533WrtHHW9"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
+        "name": "In-A-Gadda-Da-Vida",
+        "url": "https://open.spotify.com/album/4L1Qw49gKwFuQwQovBxsKI"
+      },
+      "artists": [
+        {
+          "name": "Iron Butterfly",
+          "url": "https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS"
+        }
+      ],
+      "duration_ms": 1024133,
+      "name": "In-A-Gadda-Da-Vida - 2006 Remaster Full-Length",
+      "url": "https://open.spotify.com/track/1exUq8aG2OMbSeZeTwz06k"
     },
     {
       "added_at": "2021-03-22 17:56:31",

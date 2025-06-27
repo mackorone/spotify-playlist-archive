@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 371568,
+  "num_followers": 371684,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -911,6 +911,26 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
+        "name": "Try",
+        "url": "https://open.spotify.com/album/0ytwNH8AtDNq8FaCcOUyEJ"
+      },
+      "artists": [
+        {
+          "name": "Keaton Henson",
+          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
+        },
+        {
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+        }
+      ],
+      "duration_ms": 242333,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/1fQzbxJs5jLKcBD1jVyGj4"
+    },
+    {
+      "added_at": "2025-06-03 16:40:22",
+      "album": {
         "name": "Schumann: Myrthen, Op.25 - Version For Cello And Piano, 24. Du bist wie eine Blume",
         "url": "https://open.spotify.com/album/0nNceg0mOYKmxH1p8NhNSK"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 110000,
       "name": "Myrthen, Op. 25 - Version for Cello and Piano: XXIV. Du bist wie eine Blume",
       "url": "https://open.spotify.com/track/5dFZW6bwvbFYDHXSTQRSgC"
-    },
-    {
-      "added_at": "2025-06-03 16:40:22",
-      "album": {
-        "name": "Try",
-        "url": "https://open.spotify.com/album/0ytwNH8AtDNq8FaCcOUyEJ"
-      },
-      "artists": [
-        {
-          "name": "Keaton Henson",
-          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
-        },
-        {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
-        }
-      ],
-      "duration_ms": 242333,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/1fQzbxJs5jLKcBD1jVyGj4"
     },
     {
       "added_at": "2025-06-03 16:40:22",
@@ -1655,22 +1655,26 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
-        "name": "Clementi: Piano Sonatas",
-        "url": "https://open.spotify.com/album/66NKaW3oCWk3yrsaLgpDoy"
+        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
+        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
       },
       "artists": [
         {
-          "name": "Muzio Clementi",
-          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "Donatella Failoni",
-          "url": "https://open.spotify.com/artist/5H4JwAMeW5ztWMSbcwHIJd"
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
         }
       ],
-      "duration_ms": 148173,
-      "name": "Keyboard Sonata in D Major, Op. 25, No. 6: II. Un poco andante",
-      "url": "https://open.spotify.com/track/2EvSNELkkFmnBsoUXRjVy0"
+      "duration_ms": 261213,
+      "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: III. Minuets I & II",
+      "url": "https://open.spotify.com/track/5Olix25Y5aNqIWGDrrB0Pb"
     },
     {
       "added_at": "2025-06-03 16:40:22",
@@ -1695,26 +1699,22 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
-        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
-        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
+        "name": "Clementi: Piano Sonatas",
+        "url": "https://open.spotify.com/album/66NKaW3oCWk3yrsaLgpDoy"
       },
       "artists": [
         {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+          "name": "Muzio Clementi",
+          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
         },
         {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+          "name": "Donatella Failoni",
+          "url": "https://open.spotify.com/artist/5H4JwAMeW5ztWMSbcwHIJd"
         }
       ],
-      "duration_ms": 261213,
-      "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: III. Minuets I & II",
-      "url": "https://open.spotify.com/track/5Olix25Y5aNqIWGDrrB0Pb"
+      "duration_ms": 148173,
+      "name": "Keyboard Sonata in D Major, Op. 25, No. 6: II. Un poco andante",
+      "url": "https://open.spotify.com/track/2EvSNELkkFmnBsoUXRjVy0"
     },
     {
       "added_at": "2025-06-03 16:40:22",
@@ -1767,6 +1767,30 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
+        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
+        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        }
+      ],
+      "duration_ms": 230426,
+      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
+      "url": "https://open.spotify.com/track/0n9cHRLNSCXECfXx4cvw0D"
+    },
+    {
+      "added_at": "2025-06-03 16:40:22",
+      "album": {
         "name": "Dittersdorf: Sinfonias On Ovid's Metamorphoses, Nos. 1 - 3",
         "url": "https://open.spotify.com/album/7aymM8KHDUWfGS3kz5K7Yv"
       },
@@ -1811,30 +1835,6 @@
       "duration_ms": 153800,
       "name": "Sinfonia in F Major, Fk 67 \"Dissonant\": IV. Menuet No. 1 - Menuet No. 2",
       "url": "https://open.spotify.com/track/5CfhrXtZ1II9jl8BV1v1a2"
-    },
-    {
-      "added_at": "2025-06-03 16:40:22",
-      "album": {
-        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
-        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
-        }
-      ],
-      "duration_ms": 230426,
-      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
-      "url": "https://open.spotify.com/track/0n9cHRLNSCXECfXx4cvw0D"
     },
     {
       "added_at": "2025-06-03 16:40:22",
@@ -1895,6 +1895,30 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
+        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
+        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        }
+      ],
+      "duration_ms": 138239,
+      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: III. (b) Andante",
+      "url": "https://open.spotify.com/track/6AG7ekfWoiYTY6gyiEebCN"
+    },
+    {
+      "added_at": "2025-06-03 16:40:22",
+      "album": {
         "name": "Mozart: Night Music - Serenades Nos. 6 & 13; A Musical Joke; Adagio & Fugue",
         "url": "https://open.spotify.com/album/4nf4imwG0lfPqhoEGCazGT"
       },
@@ -1939,30 +1963,6 @@
       "duration_ms": 112440,
       "name": "Ouverture-Suite in D Minor, TWV 55:d2: V. Sarabande",
       "url": "https://open.spotify.com/track/3etJfG58ulqDBqjih4kExx"
-    },
-    {
-      "added_at": "2025-06-03 16:40:22",
-      "album": {
-        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
-        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
-        }
-      ],
-      "duration_ms": 138239,
-      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: III. (b) Andante",
-      "url": "https://open.spotify.com/track/6AG7ekfWoiYTY6gyiEebCN"
     },
     {
       "added_at": "2025-06-03 16:40:22",
@@ -2027,6 +2027,26 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
+        "name": "Klassieke Muziek voor Zondagochtend",
+        "url": "https://open.spotify.com/album/3dL5xXrW6tsjQNH6rml5Rn"
+      },
+      "artists": [
+        {
+          "name": "Enrique Granados",
+          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
+        },
+        {
+          "name": "Xavier De Maistre",
+          "url": "https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp"
+        }
+      ],
+      "duration_ms": 96786,
+      "name": "Valses Po\u00e9ticos H. 147, DLR 7:8: No. 1: Mel\u00f3dico",
+      "url": "https://open.spotify.com/track/1UT4F8DOvzM616ZTOm1z6s"
+    },
+    {
+      "added_at": "2025-06-03 16:40:22",
+      "album": {
         "name": "Telemann Collection",
         "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
       },
@@ -2047,26 +2067,6 @@
       "duration_ms": 77573,
       "name": "Ouverture-Suite in D Minor, TWV 55:d2: VIII. Menuet II. Doucement",
       "url": "https://open.spotify.com/track/2c8keEZtTmhetir5FfMRvT"
-    },
-    {
-      "added_at": "2025-06-03 16:40:22",
-      "album": {
-        "name": "Klassieke Muziek voor Zondagochtend",
-        "url": "https://open.spotify.com/album/3dL5xXrW6tsjQNH6rml5Rn"
-      },
-      "artists": [
-        {
-          "name": "Enrique Granados",
-          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
-        },
-        {
-          "name": "Xavier De Maistre",
-          "url": "https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp"
-        }
-      ],
-      "duration_ms": 96786,
-      "name": "Valses Po\u00e9ticos H. 147, DLR 7:8: No. 1: Mel\u00f3dico",
-      "url": "https://open.spotify.com/track/1UT4F8DOvzM616ZTOm1z6s"
     },
     {
       "added_at": "2025-06-03 16:40:22",

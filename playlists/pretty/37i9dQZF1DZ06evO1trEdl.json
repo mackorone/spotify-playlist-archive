@@ -1,12 +1,12 @@
 {
   "description": "This is The Three Degrees. The essential tracks, all in one playlist.",
-  "num_followers": 6369,
+  "num_followers": 6370,
   "original_name": "This Is The Three Degrees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAACNNHnpYEXETTFLghoph0fU",
+  "snapshot_id": "aFs8AAAAAAD7ABc/HIqVsc2ZxJwf33QY",
   "tracks": [
     {
       "added_at": null,
@@ -167,38 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Much Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 337946,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/2VJUb4hrOmugyRDMOJbkEK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Givin' Up Givin' In",
-      "url": "https://open.spotify.com/track/69F4BXLcsrlHg2s2mViAfG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
         "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
       },
@@ -219,6 +187,38 @@
       "duration_ms": 481640,
       "name": "When Will I See You Again / Love Train - Live Medley",
       "url": "https://open.spotify.com/track/6s59Mq2boCny0IIFPinPxT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Givin' Up Givin' In",
+      "url": "https://open.spotify.com/track/69F4BXLcsrlHg2s2mViAfG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Much Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 337946,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/2VJUb4hrOmugyRDMOJbkEK"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Roulette Years",
-        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 175680,
-      "name": "Ebb Tide",
-      "url": "https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "International (Expanded Edition)",
         "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 244866,
       "name": "Lonelier Are Fools",
       "url": "https://open.spotify.com/track/7LDmwfODaICK03XxOZri6L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 175680,
+      "name": "Ebb Tide",
+      "url": "https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Roulette Years",
-        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 153560,
-      "name": "Contact",
-      "url": "https://open.spotify.com/track/1syKOhyz2yaSD6mAiBqJZY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "International (Expanded Edition)",
         "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 203986,
       "name": "Get Your Love Back",
       "url": "https://open.spotify.com/track/02ApvI4KwIke5ykDbDzfSK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 153560,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/1syKOhyz2yaSD6mAiBqJZY"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Roulette Years",
-        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 196546,
-      "name": "I Do Take You",
-      "url": "https://open.spotify.com/track/0qxo60yGHQWWROmJXvcSCy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "International (Expanded Edition)",
         "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 244160,
       "name": "La chanson poupulaire",
       "url": "https://open.spotify.com/track/42qwcVwoXW3rQgQS4BxgkQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 196546,
+      "name": "I Do Take You",
+      "url": "https://open.spotify.com/track/0qxo60yGHQWWROmJXvcSCy"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Dimensions",
-        "url": "https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 346800,
-      "name": "Magic In The Air",
-      "url": "https://open.spotify.com/track/6130TGiRy7xaXkRQ6P6jSf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "International (Expanded Edition)",
         "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 244253,
       "name": "Distant Lover",
       "url": "https://open.spotify.com/track/4vDVb41r0ihsr6SrPuRvt8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Dimensions",
+        "url": "https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 346800,
+      "name": "Magic In The Air",
+      "url": "https://open.spotify.com/track/6130TGiRy7xaXkRQ6P6jSf"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Much Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 274480,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/6BUXiC6FX1ijEQWGf5iQoD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "International (Expanded Edition)",
         "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 234146,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/1aXaf5rZY2Me4cF9A8nREf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Much Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 274480,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/6BUXiC6FX1ijEQWGf5iQoD"
     },
     {
       "added_at": null,

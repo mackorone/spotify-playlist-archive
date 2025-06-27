@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,779 songs - 5 day 1 hr 15 min
+1,780 songs - 5 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [Divide \(feat\. Kelsey Bulkin\)](https://open.spotify.com/track/3CvMXAVFGmfq56tvUAa9ip) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Kelsey Bulkin](https://open.spotify.com/artist/3vDjFm7GgG4ph7WR1KwNvp) | [A Moment Apart](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ) | 4:01 | 2020-05-18 | 2020-07-03 |
 | [Divinity \- filous Remix](https://open.spotify.com/track/5EEb0Vm8xUKjpwH2jlftOl) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Amy Millan](https://open.spotify.com/artist/3lj7jldByrrpUgW5Je8o1p), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Divinity \(filous Remix\)](https://open.spotify.com/album/14i5IIywwM8fMuuI87M4Ap) | 4:07 | 2020-05-18 | 2020-07-03 |
 | [DJs Gotta Dance More](https://open.spotify.com/track/30HLXV5dIVOlrp2ncsUyjn) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [DJs Gotta Dance More](https://open.spotify.com/album/4IhHOv33cZ5J14gdrGbSoF) | 4:12 | 2020-05-18 | 2021-01-11 |
+| [DNA ∞ \- Seb Wildblood Remix](https://open.spotify.com/track/4gtlCdwN4mvKfddyOCehsl) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [DNA ∞ / 1 DAY 2 LATE REMIXES](https://open.spotify.com/album/15ezXCAzEqJMVyPE3mfMMT) | 4:17 | 2025-06-20 |  |
 | [Do I Go](https://open.spotify.com/track/4IyLuVGX6HpJQfUKrsk63U) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Do I Go](https://open.spotify.com/album/4SJrqffwVOdXAhuzl1subk) | 3:34 | 2023-10-20 | 2023-12-10 |
 | [Do It All Again](https://open.spotify.com/track/3th9QWkO5Rn0HbD0v4E8mT) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4), [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [hey](https://open.spotify.com/album/3HLrOVIjvjuFcaUikX5jWH) | 3:18 | 2025-05-16 |  |
 | [Do It Like You](https://open.spotify.com/track/5h1Gi50T9QxVfzvIF8vciC) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Do It Like You](https://open.spotify.com/album/4PKH86wn7Gw4iel2WD564k) | 3:10 | 2020-05-18 | 2020-07-18 |
@@ -1639,7 +1640,7 @@
 | [Turning Away \- Parra for Cuva Remix](https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Turning Away \(Parra for Cuva Remix\)](https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs) | 4:21 | 2023-04-21 | 2024-04-19 |
 | [Turtle Jazz](https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [Turtle Jazz](https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws) | 3:13 | 2024-03-22 | 2025-01-25 |
 | [U Got My Heart](https://open.spotify.com/track/752noY44yVo7eYK78VikAx) | [Clément Leroux](https://open.spotify.com/artist/3MttWEEoyq7W9MjHEBaKhG), [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [U Got My Heart](https://open.spotify.com/album/1a8afZYgO0ToDcgn2VJldN) | 3:11 | 2020-03-16 | 2022-04-20 |
-| [U REALLY HURT ME](https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy) | [LUV HRTS](https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8), [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [U REALLY HURT ME](https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5) | 2:42 | 2024-05-24 |  |
+| [U REALLY HURT ME](https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy) | [LUV HRTS](https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8), [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [U REALLY HURT ME](https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5) | 2:42 | 2024-05-24 | 2025-06-27 |
 | [Ultimatum \- Edit](https://open.spotify.com/track/0slkzFvyBWcwnjEEDtYE5E) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Ultimatum](https://open.spotify.com/album/3mKvAiTrhpJUTAFsJXmjTE) | 3:33 | 2020-05-18 | 2020-07-18 |
 | [Undecided](https://open.spotify.com/track/25CSuITuHOTUSrCx4u72UT) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Undecided](https://open.spotify.com/album/1Ybr2PycNvqre2mpj35VRD) | 4:06 | 2020-11-13 | 2022-02-19 |
 | [Under The Surface](https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Under The Surface](https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1) | 5:24 | 2023-11-24 | 2025-03-22 |

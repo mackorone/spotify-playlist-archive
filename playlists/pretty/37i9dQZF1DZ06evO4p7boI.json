@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95872,
+  "num_followers": 95867,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAABN3xEjc66S0rhPoMPbYrcY",
+  "snapshot_id": "aFs8AAAAAAB/QsjfWB0p4p5ac5AY+m0F",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/5qbcsZMwL0x46sX7VO37Ye"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meet The Woo 2 (Deluxe)",
         "url": "https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 194680,
       "name": "Wolves (with NAV)",
       "url": "https://open.spotify.com/track/1dnsojUNfvhiztcITLzruj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/5qbcsZMwL0x46sX7VO37Ye"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OMW2 REXDALE",
-        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 132213,
-      "name": "U.N.I.",
-      "url": "https://open.spotify.com/track/0JVapaUZm2Ax627wjKP8Xn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eternal Atake (Deluxe) - LUV vs. The World 2",
         "url": "https://open.spotify.com/album/0fEO7g2c5onkaXsybEtuD2"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 194843,
       "name": "Leaders (feat. NAV)",
       "url": "https://open.spotify.com/track/4D7NrSeqkTarBrJ80b2sBc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OMW2 REXDALE",
+        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 132213,
+      "name": "U.N.I.",
+      "url": "https://open.spotify.com/track/0JVapaUZm2Ax627wjKP8Xn"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OMW2 REXDALE",
-        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 125853,
-      "name": "SINKING",
-      "url": "https://open.spotify.com/track/353xLpuRSnZQG2arRj4ObG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baller",
         "url": "https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 150679,
       "name": "Baller",
       "url": "https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OMW2 REXDALE",
+        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 125853,
+      "name": "SINKING",
+      "url": "https://open.spotify.com/track/353xLpuRSnZQG2arRj4ObG"
     },
     {
       "added_at": null,

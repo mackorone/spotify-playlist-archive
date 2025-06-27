@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 
 > Best served with party jollof
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,851 likes - 61 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,865 likes - 61 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 | 52 | [love nwantiti \(ah ah ah\) \[feat\. Joeboy & Kuami Eugene\] \[Remix\]](https://open.spotify.com/track/140dx97IbJbQhIMd7AaHeb) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [love nwantiti \(ah ah ah\) \[feat\. Joeboy & Kuami Eugene\] \[Remix\]](https://open.spotify.com/album/4mI7w8746bh2UPt2LGeeEl) | 3:08 |
 | 53 | [Surrender](https://open.spotify.com/track/1pLOxV11pQRIyHnGIVZVDH) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Life is Eazi, Vol\. 2 \- Lagos To London](https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO) | 2:42 |
 | 54 | [Constantly](https://open.spotify.com/track/3MldGIMtPcupNBI4Dnxolr) | [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM) | [Constantly](https://open.spotify.com/album/6tqG51134jDxxuWMaEgn8O) | 3:13 |
-| 55 | [Kulu Kulu](https://open.spotify.com/track/10ZTG3QRqvcyJErfk2xKgQ) | [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ) | [Kulu Kulu](https://open.spotify.com/album/6xrhiS6htmyeWa1lLNrESH) | 2:55 |
+| 55 | [Kulu Kulu](https://open.spotify.com/track/10ZTG3QRqvcyJErfk2xKgQ) | [PHAEMOUS](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ) | [Kulu Kulu](https://open.spotify.com/album/6xrhiS6htmyeWa1lLNrESH) | 2:55 |
 | 56 | [Could This Be Love](https://open.spotify.com/track/2825Zwd0EnzzDxFOhDsRQC) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [\[I.N.I.T\] In Nasboi I Trust](https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt) | 2:17 |
 | 57 | [4Life](https://open.spotify.com/track/3KyDrb3w6pBUprzwwhSRRX) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [4Life](https://open.spotify.com/album/5lIrnr3s7kDi6fxsKBJV3w) | 3:12 |
 | 58 | [Lose](https://open.spotify.com/track/0QQCiP9RQJXn5FhibrS9mf) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Lose](https://open.spotify.com/album/5Npbu5A0KNYnf51FsRZ8Sz) | 3:50 |

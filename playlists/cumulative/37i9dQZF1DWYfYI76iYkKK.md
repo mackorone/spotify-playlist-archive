@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-527 songs - 1 day 10 hr 37 min
+528 songs - 1 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Maybe It’s for the Best](https://open.spotify.com/track/0xUULqd08ANKwp1u7Fh6Oz) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [Nothing is Under Control](https://open.spotify.com/album/6t6g0WbY1pim62oRUmxF2D) | 3:40 | 2022-06-10 | 2022-07-11 |
 | [Maybe Someday](https://open.spotify.com/track/5owdgqZ1tg8zj8MRLDSRer) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [Maybe Someday](https://open.spotify.com/album/1HKgU4noBniz460SpFo8dR) | 3:32 | 2022-09-08 | 2022-09-16 |
 | [Midnight Sun \- Acoustic](https://open.spotify.com/track/59g2Rii8PghTk5gwUgYwrP) | [Brian Yoong](https://open.spotify.com/artist/4lH5eW1YgDycEJoI3LHt8R), [Joel](https://open.spotify.com/artist/15VtB8EsjO97HFzbDsW129) | [Midnight Sun \(Acoustic\)](https://open.spotify.com/album/2oZbwitCD52R9ffOJN5xOe) | 4:01 | 2022-06-27 | 2022-07-01 |
+| [Miserable](https://open.spotify.com/track/2hRVNcJYwOHEXZJPMJUuEz) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Miserable](https://open.spotify.com/album/4207P6ZEsU5nqCCHRhBUcA) | 3:13 | 2025-06-26 |  |
 | [Miss missed Love](https://open.spotify.com/track/353Npsz4g0PKfmlkq0HFur) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [9522](https://open.spotify.com/album/3B7O6oexiw9IFi3OAsWerb) | 3:06 | 2022-10-06 | 2024-04-19 |
 | [Miss missed Love](https://open.spotify.com/track/6JJqzLiY0WjdxoJyl0liQN) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [Miss missed Love](https://open.spotify.com/album/6RekeuI1vTT2nkj0RYUFgr) | 3:06 | 2022-10-06 | 2022-10-16 |
 | [My Only Girl](https://open.spotify.com/track/4KJtaPHUmKLEVLMAj86oVT) | [Jeffery C](https://open.spotify.com/artist/1pu8bqVGuRDYyTOQMLqv86) | [My Only Girl](https://open.spotify.com/album/1dZuzKfVf7fQltdfkgyVz4) | 2:25 | 2023-09-07 | 2023-09-22 |
@@ -373,7 +374,7 @@
 | [沉默](https://open.spotify.com/track/6DzvjbpPRoH2vbTVvvdDcz) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [雙生火焰](https://open.spotify.com/album/2u6C7l72qZ9TmKlFz9MJzh) | 5:05 | 2024-11-14 | 2025-04-06 |
 | [沐浴阳光](https://open.spotify.com/track/0xm7zKSinoohV9sUGwOExy) | [刘雯佩](https://open.spotify.com/artist/6kjxOb3qxNublHRuNQQuw8) | [树屋 \(2021\)](https://open.spotify.com/album/3ymAY7rNpDVBzPZUe9ogfS) | 3:41 | 2022-12-15 | 2022-12-24 |
 | [沒了我你依然擁有太陽](https://open.spotify.com/track/1kdorEa0Fro4lvhFWvQIqN) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [沒了我你依然擁有太陽](https://open.spotify.com/album/7L76pG9DApHkvbfl4UVp3t) | 4:32 | 2024-08-26 | 2024-11-10 |
-| [沒有第三者的分手](https://open.spotify.com/track/3kRvEriTtPqbwRNhI9cQDw) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [給](https://open.spotify.com/album/0FTFuvuDe7qAB4HQ67J8qa) | 4:40 | 2022-07-15 | 2025-06-25 |
+| [沒有第三者的分手](https://open.spotify.com/track/3kRvEriTtPqbwRNhI9cQDw) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [給](https://open.spotify.com/album/0FTFuvuDe7qAB4HQ67J8qa) | 4:40 | 2022-07-15 |  |
 | [沙發上的白日夢 \- Acoustic Version](https://open.spotify.com/track/1pZWDGtTfWeU7LwwEzld5n) | [SoulFa 靈魂沙發](https://open.spotify.com/artist/2eJX9VONHesNkNhdVKuBTY) | [So Far](https://open.spotify.com/album/0cApqoIW6AC4GsHdTMIeNV) | 4:20 | 2023-02-23 | 2023-03-18 |
 | [活的假象 \(Acoustic Ver.\)](https://open.spotify.com/track/4yTvK88JZHwtVuAzZd0uqz) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [活的假象](https://open.spotify.com/album/4C2t4U3j5e0RUGXUInSm0K) | 3:05 | 2024-04-18 | 2024-04-26 |
 | [流浪邊際](https://open.spotify.com/track/7ddqXt0ei8YDdclnK47sP5) | [多樂園](https://open.spotify.com/artist/6mA46tStfzbPs9IyF9Nart) | [流浪邊際](https://open.spotify.com/album/6vXDYTeQ4RNJaj9P9ddoOB) | 4:29 | 2023-03-09 | 2023-03-25 |
@@ -452,7 +453,7 @@
 | [船到橋頭自然直](https://open.spotify.com/track/4Sfk5EfGrDR3b3QLCWU7CU) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [船到橋頭自然直](https://open.spotify.com/album/5gMcbYIRxCGPUAAIQ4v2XZ) | 3:51 | 2023-09-14 | 2023-09-29 |
 | [芬蘭距離](https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [《不夠善良的我們 : 戲劇音樂設計專輯》](https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC) | 5:49 | 2024-04-11 |  |
 | [英雄 \(Heroes\) \- 動畫電影《諸葛四郎\-英雄的英雄》主題曲 Acoustic Ver.](https://open.spotify.com/track/6k9i8zbLhbGRmlK5hqfkjy) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [英雄 \(Heroes\)](https://open.spotify.com/album/6Qd5JEwZU3m5STH0ovsLiz) | 3:16 | 2022-06-02 | 2022-07-29 |
-| [茉莉花香](https://open.spotify.com/track/5bwXCWiCaAXJEpqS782DT6) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg) | [茉莉花香](https://open.spotify.com/album/7e0F89LhTg2gkcioS5NHzD) | 4:48 | 2025-06-19 |  |
+| [茉莉花香](https://open.spotify.com/track/5bwXCWiCaAXJEpqS782DT6) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg) | [茉莉花香](https://open.spotify.com/album/7e0F89LhTg2gkcioS5NHzD) | 4:48 | 2025-06-19 | 2025-06-27 |
 | [茧Jian](https://open.spotify.com/track/5AtzX2REgyt6hgduniGMZX) | [Wang OK](https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP) | [茧Jian](https://open.spotify.com/album/7w8cW1IqQCo8xKhXmG6313) | 3:19 | 2024-12-26 |  |
 | [荒島](https://open.spotify.com/track/4KYWEzS8298WL2vzEaGUzy) | [多多 x 以捷](https://open.spotify.com/artist/25vtw3bkiKz9nbo7vl6qqY) | [二十歲](https://open.spotify.com/album/101LuRO1uDAjMMWI5c2Sd6) | 3:27 | 2023-11-09 | 2023-11-24 |
 | [莫忘初衷](https://open.spotify.com/track/0jZse1d0sIzWEDQI74f9KB) | [李芷婷](https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs) | [莫忘初衷](https://open.spotify.com/album/0YpUrt8Wo9SHdy3hF9BClV) | 3:57 | 2023-10-05 |  |
@@ -469,7 +470,7 @@
 | [裝幀](https://open.spotify.com/track/2BipFnJx3ko5aRiQ7ESASa) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [裝幀](https://open.spotify.com/album/04MOm8UeP2JhqiX2rsb4T6) | 4:05 | 2022-07-28 | 2024-04-19 |
 | [裝幀](https://open.spotify.com/track/39Tbme87UT3UcpnasGjLM0) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [裝幀](https://open.spotify.com/album/5Zpbs178NXCCpskPY42VG7) | 4:05 | 2022-06-16 | 2022-07-24 |
 | [裝飾音](https://open.spotify.com/track/7iC1d22Q9zG0XQZvITqetB) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [半熟理想](https://open.spotify.com/album/1qE3IWG3xPJZdLkAXB1rAs) | 4:25 | 2023-10-26 | 2023-12-01 |
-| [親愛的你快樂嗎](https://open.spotify.com/track/05X4MUEsxGhEqgDFgAypoz) | [3llery](https://open.spotify.com/artist/06fr4uvQsZQ790fWc8fMVM) | [親愛的你快樂嗎](https://open.spotify.com/album/651X0qS04JLW9BEUuSoJAl) | 3:45 | 2025-06-19 |  |
+| [親愛的你快樂嗎](https://open.spotify.com/track/05X4MUEsxGhEqgDFgAypoz) | [3llery](https://open.spotify.com/artist/06fr4uvQsZQ790fWc8fMVM) | [親愛的你快樂嗎](https://open.spotify.com/album/651X0qS04JLW9BEUuSoJAl) | 3:45 | 2025-06-19 | 2025-06-27 |
 | [親愛的寶寶](https://open.spotify.com/track/2lQmp9VH5B5bkIrnbh3hby) | [黃長俊](https://open.spotify.com/artist/7aPCuTZPyKhq4BevJfFHye) | [親愛的寶寶](https://open.spotify.com/album/2XtO93eMVdyGbw29xJlZoF) | 4:00 | 2025-03-27 | 2025-05-07 |
 | [記憶還給從前](https://open.spotify.com/track/6cn8bNIEIZn9KRakBcOeOK) | [Rose Liu](https://open.spotify.com/artist/1LGJHpsAhfP1QX26plFrFn) | [Rain](https://open.spotify.com/album/6IBMwAVKcMIgeMpbNVMldn) | 4:17 | 2025-01-09 | 2025-02-16 |
 | [許我一生 \(電視劇《玉骨遙》片頭曲\)](https://open.spotify.com/track/6xblDj9isDUK1oS4cXuy8j) | [袁婭維](https://open.spotify.com/artist/0CD82FdWwYCYcN8TrcYhIw) | [許我一生 \(電視劇《玉骨遙》片頭曲\)](https://open.spotify.com/album/0VuRLpAiMxDg4NAqUNvRES) | 3:29 | 2023-07-13 | 2023-09-03 |

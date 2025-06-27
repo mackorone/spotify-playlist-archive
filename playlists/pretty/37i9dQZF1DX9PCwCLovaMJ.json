@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Silk City",
+        "url": "https://open.spotify.com/album/3iL9ksv1iHHHROAIZrP8AV"
+      },
+      "artists": [
+        {
+          "name": "N\u00e1poles",
+          "url": "https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1"
+        }
+      ],
+      "duration_ms": 195451,
+      "name": "Tu Mirada",
+      "url": "https://open.spotify.com/track/0x4VrxnvvbSGjA3FlsofXt"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Yangtze",
         "url": "https://open.spotify.com/album/7hN7fldovxCYwcy17oLIO2"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 186333,
       "name": "Yangtze",
       "url": "https://open.spotify.com/track/6hUzIwvfD7BonU8vyLbKWk"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6YRz01Ww7ByZ3E3ZcHQhY1"
-      },
-      "artists": [
-        {
-          "name": "Club 8",
-          "url": "https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx"
-        }
-      ],
-      "duration_ms": 127104,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/21pV7pVxzTI0aKDaIxVhw8"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Silk City",
-        "url": "https://open.spotify.com/album/3iL9ksv1iHHHROAIZrP8AV"
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6YRz01Ww7ByZ3E3ZcHQhY1"
       },
       "artists": [
         {
-          "name": "N\u00e1poles",
-          "url": "https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1"
+          "name": "Club 8",
+          "url": "https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx"
         }
       ],
-      "duration_ms": 195451,
-      "name": "Tu Mirada",
-      "url": "https://open.spotify.com/track/0x4VrxnvvbSGjA3FlsofXt"
+      "duration_ms": 127104,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/21pV7pVxzTI0aKDaIxVhw8"
     },
     {
       "added_at": "2024-12-04 12:15:00",

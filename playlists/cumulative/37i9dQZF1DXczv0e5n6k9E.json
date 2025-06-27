@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Trannos",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Dirty Harry, Mente Fuerte,  Matolale",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -603,6 +603,36 @@
     },
     {
       "album": {
+        "name": "Alice",
+        "url": "https://open.spotify.com/album/7sryFHQM84d8nzJ5I26Hxj"
+      },
+      "artists": [
+        {
+          "name": "Dirty Harry",
+          "url": "https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q"
+        },
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        },
+        {
+          "name": "Matolale",
+          "url": "https://open.spotify.com/artist/4GGoNiUyRvckodCeO3MZEG"
+        },
+        {
+          "name": "WhiteShadow",
+          "url": "https://open.spotify.com/artist/0lNfBIsR4PHDhcqyNd2PXw"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184041,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/4yYjZ7ryYp5DTUnFFmJTwp"
+    },
+    {
+      "album": {
         "name": "ALITHEIA",
         "url": "https://open.spotify.com/album/2SCOVsBL1GPHm66f7FjBBA"
       },
@@ -935,6 +965,28 @@
     },
     {
       "album": {
+        "name": "AYO!",
+        "url": "https://open.spotify.com/album/0K6tU2fhIKz5aFiW3TwGtl"
+      },
+      "artists": [
+        {
+          "name": "GXHAN",
+          "url": "https://open.spotify.com/artist/6rdyRCKpxlwH5dMRYr1fUD"
+        },
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186986,
+      "name": "AYO!",
+      "url": "https://open.spotify.com/track/0wKGnQd4X0cf5WH17J7jsu"
+    },
+    {
+      "album": {
         "name": "Babe",
         "url": "https://open.spotify.com/album/35j9784z8eYM2FU8QlRBrd"
       },
@@ -1046,6 +1098,32 @@
       "duration_ms": 174117,
       "name": "Bali",
       "url": "https://open.spotify.com/track/7q3TKAaUaFpHpEgNBoHHlQ"
+    },
+    {
+      "album": {
+        "name": "Balkan",
+        "url": "https://open.spotify.com/album/4oH7FHuYgyaDxzpOifL0dm"
+      },
+      "artists": [
+        {
+          "name": "Donn",
+          "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
+        },
+        {
+          "name": "RIOS",
+          "url": "https://open.spotify.com/artist/3VukqG03L5OrsZKChWIGS3"
+        },
+        {
+          "name": "Bres",
+          "url": "https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "Balkan",
+      "url": "https://open.spotify.com/track/3w38tasao28UhiBOWLpN8g"
     },
     {
       "album": {
@@ -2291,6 +2369,28 @@
     },
     {
       "album": {
+        "name": "DnB",
+        "url": "https://open.spotify.com/album/6FynbSC0iBmJ3gxFDtwy3O"
+      },
+      "artists": [
+        {
+          "name": "ATC Nico",
+          "url": "https://open.spotify.com/artist/1uENJBsvFjDUv7OrH3DaKR"
+        },
+        {
+          "name": "Evan Spikes",
+          "url": "https://open.spotify.com/artist/6p5qNRLXkVrmKVRPMaL6qP"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "DnB",
+      "url": "https://open.spotify.com/track/5thJkbK9NcweLcnNVs8i2m"
+    },
+    {
+      "album": {
         "name": "Do Money",
         "url": "https://open.spotify.com/album/35bSvhfLbr16ZA6QUL5EsX"
       },
@@ -2592,6 +2692,28 @@
       "duration_ms": 136111,
       "name": "Eforia",
       "url": "https://open.spotify.com/track/5x2xRWcmjgkDkvShlGKkuR"
+    },
+    {
+      "album": {
+        "name": "EGEFALIKO",
+        "url": "https://open.spotify.com/album/2P8Wse74JI6ohaxhKdaKcp"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "EGEFALIKO",
+      "url": "https://open.spotify.com/track/6jhNVmFLWD5LPGrpLfCw67"
     },
     {
       "album": {
@@ -3190,7 +3312,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 160819,
       "name": "FRATELLO MIO",
       "url": "https://open.spotify.com/track/7817fzEUYcEwxjWkmbSNd3"
@@ -4219,6 +4341,32 @@
     },
     {
       "album": {
+        "name": "STREET MELODY II",
+        "url": "https://open.spotify.com/album/6WWW3ByJpXJtiIa2qV44f4"
+      },
+      "artists": [
+        {
+          "name": "Ortiz",
+          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+        },
+        {
+          "name": "Tony134",
+          "url": "https://open.spotify.com/artist/55zI6ugUYVZ6KQmKYxFj35"
+        },
+        {
+          "name": "Stepper",
+          "url": "https://open.spotify.com/artist/0TC65JpujHr8WnThBPFhiA"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55578,
+      "name": "INTRO",
+      "url": "https://open.spotify.com/track/0kibzCvdZjQRKl4ks5WslC"
+    },
+    {
+      "album": {
         "name": "SUMMER VIBES",
         "url": "https://open.spotify.com/album/1ugicj22TpnVazIyqQAFYh"
       },
@@ -4578,7 +4726,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 156875,
       "name": "Kata Gramma",
       "url": "https://open.spotify.com/track/6lPSfw96tFXUX8fIGvtgXa"
@@ -4972,7 +5120,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 192500,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/4Sfb8n4vc3tPOC5dk5A33s"
@@ -5685,6 +5833,24 @@
     },
     {
       "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/01kpClH7z0JanjmKzCXYZs"
+      },
+      "artists": [
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134766,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/0rWIlMaivrU7sGtU1G6pIa"
+    },
+    {
+      "album": {
         "name": "MNPN",
         "url": "https://open.spotify.com/album/06wUI9r00xn6SExlw1umQl"
       },
@@ -5700,7 +5866,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 185026,
       "name": "MNPN",
       "url": "https://open.spotify.com/track/2NVFxETIb3t7tmU4u0wLid"
@@ -5722,7 +5888,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 133179,
       "name": "Money Dance",
       "url": "https://open.spotify.com/track/0KW4JDVbQG4FKgUHPfdzse"
@@ -5766,7 +5932,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 285311,
       "name": "MONOI",
       "url": "https://open.spotify.com/track/2LJZudbEVvqitIfOWBewzL"
@@ -6382,7 +6548,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 172615,
       "name": "Oh Mama",
       "url": "https://open.spotify.com/track/1Q8rZrajPF6SP6casHTMVA"
@@ -6456,6 +6622,28 @@
       "duration_ms": 169696,
       "name": "OMERTA",
       "url": "https://open.spotify.com/track/3SX7Wbl2uotkaeKUJkrP85"
+    },
+    {
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/4p8qwcxivCCMmplt5HfJhZ"
+      },
+      "artists": [
+        {
+          "name": "Konilo",
+          "url": "https://open.spotify.com/artist/0oI5pi8a7dA2nxHXVfX7OU"
+        },
+        {
+          "name": "Ortiz",
+          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/69mlOlK8ZXPgi8FrEEFgCC"
     },
     {
       "album": {
@@ -6754,6 +6942,24 @@
       "duration_ms": 183272,
       "name": "Paizoun Ola",
       "url": "https://open.spotify.com/track/3qj6C8J1sKNd8lqYQ5yboj"
+    },
+    {
+      "album": {
+        "name": "PARANO\u00d3",
+        "url": "https://open.spotify.com/album/095rtat4UlMpWphQtm90MN"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186782,
+      "name": "PARANO\u00d3",
+      "url": "https://open.spotify.com/track/71Wpk4WMKsYXni1bKi1CsD"
     },
     {
       "album": {
@@ -8085,6 +8291,32 @@
     },
     {
       "album": {
+        "name": "ATH VISION",
+        "url": "https://open.spotify.com/album/4arnueWFG9OSoHgs2Rkh31"
+      },
+      "artists": [
+        {
+          "name": "Immune",
+          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
+        },
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168125,
+      "name": "Serial Skillers.",
+      "url": "https://open.spotify.com/track/0Yf9iboLbRggE5US6tBvLA"
+    },
+    {
+      "album": {
         "name": "SERVICE",
         "url": "https://open.spotify.com/album/6AU2SibYsJhVU5FWPG0dhj"
       },
@@ -8383,6 +8615,24 @@
     },
     {
       "album": {
+        "name": "SPAASTO",
+        "url": "https://open.spotify.com/album/6WgB7iG1LdmcXzcfWrzL0Z"
+      },
+      "artists": [
+        {
+          "name": "Yolte",
+          "url": "https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157966,
+      "name": "SPAASTO",
+      "url": "https://open.spotify.com/track/0CBtVtgFoE1x4Aqc6AvKJy"
+    },
+    {
+      "album": {
         "name": "Stigmes",
         "url": "https://open.spotify.com/album/0PKKVfieFUVX7ZMaBK3Sz7"
       },
@@ -8424,7 +8674,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 190769,
       "name": "Sto Finale",
       "url": "https://open.spotify.com/track/1HbuW6BOcXFJoeS0eeBxRm"
@@ -8880,7 +9130,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 151865,
       "name": "TIFFANY",
       "url": "https://open.spotify.com/track/01uZUp6CVnT0wXBebCJZlV"
@@ -9096,7 +9346,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 156375,
       "name": "TRAPJAZZ",
       "url": "https://open.spotify.com/track/5AHRlMg0RWAURqsrG5SwAV"
@@ -9586,7 +9836,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 143762,
       "name": "WAR",
       "url": "https://open.spotify.com/track/2So7VmrmwHpOcskRUFxEyS"
@@ -9758,7 +10008,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 138666,
       "name": "Ximeromata",
       "url": "https://open.spotify.com/track/3KRxG52VYF3wPC7PVCrIxH"
@@ -9940,6 +10190,40 @@
       "duration_ms": 214736,
       "name": "\u0393\u03b9\u03bd\u03cc\u03bc\u03b5\u03bd\u03bf",
       "url": "https://open.spotify.com/track/2dNeukpIb93n8bIWRB1zgm"
+    },
+    {
+      "album": {
+        "name": "\u03a4\u03bf \u03b2\u03b9\u03b2\u03bb\u03af\u03bf \u03c4\u03c9\u03bd \u03c3\u03ba\u03b9\u03ce\u03bd",
+        "url": "https://open.spotify.com/album/2sfHWI50wUVFZyi4lUvp8r"
+      },
+      "artists": [
+        {
+          "name": "\u0392\u03ad\u03b2\u03b7\u03bb\u03bf\u03c2",
+          "url": "https://open.spotify.com/artist/2paECBjEu5OjvT6tr5KQiL"
+        },
+        {
+          "name": "Eleuthero Pneuma",
+          "url": "https://open.spotify.com/artist/1ES4Fgglz6Q2ySlPsCAcgZ"
+        },
+        {
+          "name": "Saisma",
+          "url": "https://open.spotify.com/artist/5RxLjBUOX0ke1ZE4dRqFCl"
+        },
+        {
+          "name": "Logos Timis",
+          "url": "https://open.spotify.com/artist/1s3DdqnSPErYk7xQkRFZ0s"
+        },
+        {
+          "name": "Eversor",
+          "url": "https://open.spotify.com/artist/0Xk68OyHT2f2wWdKfO3juX"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249936,
+      "name": "\u03a4\u03b1\u03c5\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1",
+      "url": "https://open.spotify.com/track/0l8NhmpH4KnBT1wz4z9wcc"
     },
     {
       "album": {

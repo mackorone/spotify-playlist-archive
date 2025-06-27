@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/1BC2o2RW9sGr2NB8jXlYQv?si=H3h-SfqGQnago_PVA4l0cA\">Officixal RSA</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: Vigro Deep, Zee Nxumalo, Ch'cco",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -4960,6 +4960,32 @@
       "duration_ms": 475808,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/3OZKKgsacxHZIzgK9r1BJR"
+    },
+    {
+      "album": {
+        "name": "Bhampa",
+        "url": "https://open.spotify.com/album/66O7J1XvlMjXYgVQQJZJ23"
+      },
+      "artists": [
+        {
+          "name": "Vigro Deep",
+          "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
+        },
+        {
+          "name": "Zee Nxumalo",
+          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
+        },
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407936,
+      "name": "Bhampa",
+      "url": "https://open.spotify.com/track/1WNbXkIVNxBM8wEeZnHcun"
     },
     {
       "album": {
@@ -22856,7 +22882,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 407925,
       "name": "NDEYA NDEYA",
       "url": "https://open.spotify.com/track/2Q5e57805Ey1A4fkZGGQBO"

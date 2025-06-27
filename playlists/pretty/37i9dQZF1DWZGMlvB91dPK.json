@@ -59,22 +59,6 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Lovesongs",
-        "url": "https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi"
-      },
-      "artists": [
-        {
-          "name": "Loverman",
-          "url": "https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky"
-        }
-      ],
-      "duration_ms": 235397,
-      "name": "Differences Aside",
-      "url": "https://open.spotify.com/track/1b43aREmKyr4IvSIAXEEPZ"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
         "name": "Rejoins moi",
         "url": "https://open.spotify.com/album/2k37HZSmCNknYhYIlyotwm"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 227324,
       "name": "Rejoins moi",
       "url": "https://open.spotify.com/track/1ARdJJkOah64yR9mod4IGf"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "Lovesongs",
+        "url": "https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi"
+      },
+      "artists": [
+        {
+          "name": "Loverman",
+          "url": "https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky"
+        }
+      ],
+      "duration_ms": 235397,
+      "name": "Differences Aside",
+      "url": "https://open.spotify.com/track/1b43aREmKyr4IvSIAXEEPZ"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "L'INVERSE",
-        "url": "https://open.spotify.com/album/4eIokVQzkny1mu8c5ZtNoJ"
-      },
-      "artists": [
-        {
-          "name": "Surprise",
-          "url": "https://open.spotify.com/artist/0qvSqrreqXO98OunCDZN9r"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "L'INVERSE",
-      "url": "https://open.spotify.com/track/0IokbCkXBM9rgGELxBaqjD"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
         "name": "Toutes les filles du monde",
         "url": "https://open.spotify.com/album/4TammVPdGukFclzoOpaBPz"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 257092,
       "name": "Toutes les filles du monde",
       "url": "https://open.spotify.com/track/2Q8mLwujr7bBIv8Tffyf2e"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "L'INVERSE",
+        "url": "https://open.spotify.com/album/4eIokVQzkny1mu8c5ZtNoJ"
+      },
+      "artists": [
+        {
+          "name": "Surprise",
+          "url": "https://open.spotify.com/artist/0qvSqrreqXO98OunCDZN9r"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "L'INVERSE",
+      "url": "https://open.spotify.com/track/0IokbCkXBM9rgGELxBaqjD"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
+        "name": "Bienvenue Au Pays",
+        "url": "https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ"
+      },
+      "artists": [
+        {
+          "name": "Robert Robert",
+          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
+        }
+      ],
+      "duration_ms": 190973,
+      "name": "M'enfer",
+      "url": "https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
         "name": "L'INVERSE",
         "url": "https://open.spotify.com/album/4eIokVQzkny1mu8c5ZtNoJ"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 154172,
       "name": "LE LARGE...",
       "url": "https://open.spotify.com/track/3hsoSVaxphYBbdzTKAOoCt"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "Bienvenue Au Pays",
-        "url": "https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ"
-      },
-      "artists": [
-        {
-          "name": "Robert Robert",
-          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "M'enfer",
-      "url": "https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Do Things Right",
-        "url": "https://open.spotify.com/album/5QoRLEUibCebF1jefIwK2T"
+        "name": "Bienvenue Au Pays",
+        "url": "https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ"
       },
       "artists": [
         {
-          "name": "DITTER",
-          "url": "https://open.spotify.com/artist/2XQrzLnabbe3OLJOctSvSQ"
+          "name": "Robert Robert",
+          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
         }
       ],
-      "duration_ms": 167614,
-      "name": "Do Things Right",
-      "url": "https://open.spotify.com/track/0R9wB9ssVRhJQzsOiIQ7hS"
+      "duration_ms": 196746,
+      "name": "Alex",
+      "url": "https://open.spotify.com/track/3dArn7SqBbcAXsS4cExG7K"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Bienvenue Au Pays",
-        "url": "https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ"
+        "name": "Do Things Right",
+        "url": "https://open.spotify.com/album/5QoRLEUibCebF1jefIwK2T"
       },
       "artists": [
         {
-          "name": "Robert Robert",
-          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
+          "name": "DITTER",
+          "url": "https://open.spotify.com/artist/2XQrzLnabbe3OLJOctSvSQ"
         }
       ],
-      "duration_ms": 196746,
-      "name": "Alex",
-      "url": "https://open.spotify.com/track/3dArn7SqBbcAXsS4cExG7K"
+      "duration_ms": 167614,
+      "name": "Do Things Right",
+      "url": "https://open.spotify.com/track/0R9wB9ssVRhJQzsOiIQ7hS"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Follow No One",
-        "url": "https://open.spotify.com/album/5EWDjhLV1wSGDQw45Hx4jz"
-      },
-      "artists": [
-        {
-          "name": "DITTER",
-          "url": "https://open.spotify.com/artist/2XQrzLnabbe3OLJOctSvSQ"
-        }
-      ],
-      "duration_ms": 206637,
-      "name": "Follow No One",
-      "url": "https://open.spotify.com/track/61z91eJ0TGByK98iasB1hf"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
         "name": "HYPNOSE",
         "url": "https://open.spotify.com/album/2kUJV1HpZPsQDWcbpsnGYB"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 138962,
       "name": "NO GOZO",
       "url": "https://open.spotify.com/track/4UPV3NxT5ZAGrd8Bv2Ahuq"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "Follow No One",
+        "url": "https://open.spotify.com/album/5EWDjhLV1wSGDQw45Hx4jz"
+      },
+      "artists": [
+        {
+          "name": "DITTER",
+          "url": "https://open.spotify.com/artist/2XQrzLnabbe3OLJOctSvSQ"
+        }
+      ],
+      "duration_ms": 206637,
+      "name": "Follow No One",
+      "url": "https://open.spotify.com/track/61z91eJ0TGByK98iasB1hf"
     },
     {
       "added_at": "2024-01-15 17:31:32",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Folie",
-        "url": "https://open.spotify.com/album/10zfAail7mEa7dOw45R7Mc"
-      },
-      "artists": [
-        {
-          "name": "MIMOSA",
-          "url": "https://open.spotify.com/artist/64XUJ8nVZaAZ8U42pvw7Rl"
-        }
-      ],
-      "duration_ms": 171933,
-      "name": "Folie",
-      "url": "https://open.spotify.com/track/0Ueh3QgfcnrlBipgoWjkDW"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
         "name": "Ago Gazo",
         "url": "https://open.spotify.com/album/0wF861wBTniyfhRFT37mrg"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 307984,
       "name": "Togbui Ha",
       "url": "https://open.spotify.com/track/23aIloj60zjAp3lYzlLHo6"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "Folie",
+        "url": "https://open.spotify.com/album/10zfAail7mEa7dOw45R7Mc"
+      },
+      "artists": [
+        {
+          "name": "MIMOSA",
+          "url": "https://open.spotify.com/artist/64XUJ8nVZaAZ8U42pvw7Rl"
+        }
+      ],
+      "duration_ms": 171933,
+      "name": "Folie",
+      "url": "https://open.spotify.com/track/0Ueh3QgfcnrlBipgoWjkDW"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/5UWdTY62eyzRFfCU7E4soX"
         }
       ],
-      "duration_ms": 167517,
-      "name": "PAPILLON PIMP\u00c9 !",
-      "url": "https://open.spotify.com/track/4ZfegXIG6zkJrCyNxMKjsw"
+      "duration_ms": 139133,
+      "name": "DURAG EN CACHEMIRE !",
+      "url": "https://open.spotify.com/track/5EZxmrHRqa7MpymBOHVusR"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/5UWdTY62eyzRFfCU7E4soX"
         }
       ],
-      "duration_ms": 139133,
-      "name": "DURAG EN CACHEMIRE !",
-      "url": "https://open.spotify.com/track/5EZxmrHRqa7MpymBOHVusR"
+      "duration_ms": 167517,
+      "name": "PAPILLON PIMP\u00c9 !",
+      "url": "https://open.spotify.com/track/4ZfegXIG6zkJrCyNxMKjsw"
     }
   ],
   "unique_name": "BISE Festival 2024",

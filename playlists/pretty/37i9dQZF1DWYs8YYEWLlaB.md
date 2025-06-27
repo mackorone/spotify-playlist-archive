@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 
 > viral, trend ve yükselenler\.  Kapak: Bahadır Tatlıöz
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,522 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,625 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,17 +30,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 20 | [HUQQA](https://open.spotify.com/track/3xZxb7EIcNyRmDc8ECaWTl) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [HUQQA](https://open.spotify.com/album/0N9DqfmAxbZreJlgf8eXiU) | 2:07 |
 | 21 | [YANKI X İNTİHAR](https://open.spotify.com/track/0E1hVdXGZu0MoE77bYyjie) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [YANKI X İNTİHAR](https://open.spotify.com/album/5ldopWpksuXdFaKyvQP7gr) | 2:31 |
 | 22 | [Çatma Yarim](https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Çatma Yarim](https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG) | 2:57 |
-| 23 | [BİTMİYOR](https://open.spotify.com/track/4gqiqccm2NNQcdIUkEDEiM) | [Ben Fero](https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0) | [BİTMİYOR](https://open.spotify.com/album/3iakmZwZXRumlipk4r5D1S) | 3:24 |
-| 24 | [Kalpsiz](https://open.spotify.com/track/2ciOT2HoX5rjkARUQiO0P6) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Kalpsiz](https://open.spotify.com/album/3fxmsLLJGExHoCV9EyydhS) | 3:00 |
+| 23 | [Kalpsiz](https://open.spotify.com/track/2ciOT2HoX5rjkARUQiO0P6) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Kalpsiz](https://open.spotify.com/album/3fxmsLLJGExHoCV9EyydhS) | 3:00 |
+| 24 | [BİTMİYOR](https://open.spotify.com/track/4gqiqccm2NNQcdIUkEDEiM) | [Ben Fero](https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0) | [BİTMİYOR](https://open.spotify.com/album/3iakmZwZXRumlipk4r5D1S) | 3:24 |
 | 25 | [MERMER](https://open.spotify.com/track/4UzAPluTbjdlyyhfE00REO) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [SÖZDE KİMSELER SEVMİYOR](https://open.spotify.com/album/5ifZ1o8QqQVdtcXkuxrwhS) | 1:18 |
 | 26 | [Farzet](https://open.spotify.com/track/5mL3lm7htBJ2TOlvHm2c5S) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Ben Yaşarım](https://open.spotify.com/album/70jZNJODlWajFGhTRqwCgR) | 4:09 |
-| 27 | [Ayaza Serdim](https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Ayaza Serdim](https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF) | 3:38 |
-| 28 | [Ara Beni Lütfen](https://open.spotify.com/track/6wW7ZgvYwgOKCRLeqYEM6y) | [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI) | [Festival](https://open.spotify.com/album/6IsCf9WYDZrS0lQkFnwmCi) | 4:39 |
+| 27 | [Ara Beni Lütfen](https://open.spotify.com/track/6wW7ZgvYwgOKCRLeqYEM6y) | [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI) | [Festival](https://open.spotify.com/album/6IsCf9WYDZrS0lQkFnwmCi) | 4:39 |
+| 28 | [Ayaza Serdim](https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Ayaza Serdim](https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF) | 3:38 |
 | 29 | [GELME İSTEMEM](https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GELME İSTEMEM](https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF) | 3:06 |
-| 30 | [Son Bir Rica](https://open.spotify.com/track/5mJPC56kBRnB9rLGLs85rr) | [Zeynep Dizdar](https://open.spotify.com/artist/1XZNZT3xecy9Wt5LtMOJVk) | [Gönül Oyunu](https://open.spotify.com/album/1JBUhH4nLI6VAPSWkOELGQ) | 3:56 |
+| 30 | [Onlar Anlamaz Halden](https://open.spotify.com/track/38d47UiHhyu4wdbPYz0ZUB) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:54 |
 | 31 | [HA HA HA HA](https://open.spotify.com/track/46EVmz3fZglNWoo2uyRkMu) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [HA HA HA HA](https://open.spotify.com/album/5cQ0A1z9Xlpi2M4RLGO8Xz) | 1:42 |
-| 32 | [Onlar Anlamaz Halden](https://open.spotify.com/track/38d47UiHhyu4wdbPYz0ZUB) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:54 |
-| 33 | [Manifest](https://open.spotify.com/track/6FGbxOWr2PhOHd6N06nafP) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:29 |
+| 32 | [Manifest](https://open.spotify.com/track/6FGbxOWr2PhOHd6N06nafP) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:29 |
+| 33 | [Son Bir Rica](https://open.spotify.com/track/5mJPC56kBRnB9rLGLs85rr) | [Zeynep Dizdar](https://open.spotify.com/artist/1XZNZT3xecy9Wt5LtMOJVk) | [Gönül Oyunu](https://open.spotify.com/album/1JBUhH4nLI6VAPSWkOELGQ) | 3:56 |
 | 34 | [Seni Seven Kimdi](https://open.spotify.com/track/5M6QrHGDWdWhyq7hVz3zR8) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Seni Seven Kimdi](https://open.spotify.com/album/6x0U8MXvacaNyr070qwfML) | 4:00 |
 | 35 | [Çözemezsin](https://open.spotify.com/track/1zMcj4YDWun0XN0BCzZc4P) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Çözemezsin](https://open.spotify.com/album/3hKqpJizdFWWLQKwDKpz8a) | 4:37 |
 | 36 | [Dâr\-ı Dünya](https://open.spotify.com/track/4RJY7X7EgYVKYv0Fp1XJ3z) | [Cem Yıldız](https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr) | [Dâr\-ı Dünya](https://open.spotify.com/album/49bsD7RqEltdlrSSfFpbYC) | 3:36 |

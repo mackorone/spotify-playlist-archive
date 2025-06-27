@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-[Spotify](https://open.spotify.com/user/spotify) - 618,166 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 618,218 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 | 62 | [Tramposa y Mentirosa](https://open.spotify.com/track/2z7reNDzMj8iCgcYVrdF3y) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA), [Rolo de La Beriso](https://open.spotify.com/artist/78sgqK2zAFMMCyYscAEID1) | [Tramposa y Mentirosa Ft\. Rolo Sartorio\-La Beriso\-](https://open.spotify.com/album/5GQbb33fMz3rlCux9KIzDG) | 3:27 |
 | 63 | [Nunca Es Suficiente](https://open.spotify.com/track/4yV1J93B4CoqtBFnD5DOi2) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Nunca Es Suficiente](https://open.spotify.com/album/73GNhslDnzJTSxV4p0LRxu) | 4:22 |
 | 64 | [Porque Yo Te Amo](https://open.spotify.com/track/4exvMNAE0ne03B4PEUSknr) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF) | [Porque Yo Te Amo](https://open.spotify.com/album/3uLhu0Sgm2tacIohtSrit9) | 4:16 |
-| 65 | [Amor de chat](https://open.spotify.com/track/0tsgY4lyqRz1mHeUNqL1Ld) | [Grupo Cali](https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k) | [25 Años \(Deluxe Edition\)](https://open.spotify.com/album/5Br3icgpgWZFf9Z4pKM7qx) | 2:03 |
-| 66 | [CHAU \- ME PUEDO EQUIVOCAR](https://open.spotify.com/track/136S30OIqASMPolggdlhs1) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [CHAU \- ME PUEDO EQUIVOCAR](https://open.spotify.com/album/0KxXrRGHFioyE9zxsMbsw8) | 2:46 |
+| 65 | [CHAU \- ME PUEDO EQUIVOCAR](https://open.spotify.com/track/136S30OIqASMPolggdlhs1) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [CHAU \- ME PUEDO EQUIVOCAR](https://open.spotify.com/album/0KxXrRGHFioyE9zxsMbsw8) | 2:46 |
+| 66 | [Amor de chat](https://open.spotify.com/track/0tsgY4lyqRz1mHeUNqL1Ld) | [Grupo Cali](https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k) | [25 Años \(Deluxe Edition\)](https://open.spotify.com/album/5Br3icgpgWZFf9Z4pKM7qx) | 2:03 |
 | 67 | [Se Parece Más A Ti](https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Separece A Ti](https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw) | 4:08 |
 | 68 | [Un Montón de Estrellas \- En Vivo Gran Rex](https://open.spotify.com/track/555Op74S64KmntebD6O3wa) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Un Montón de Estrellas \(En Vivo Gran Rex\)](https://open.spotify.com/album/26n9BrsrguZZFxxLruIgNR) | 2:45 |
 | 69 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [20 Grandes Exitos](https://open.spotify.com/album/6cWj9XVKzrrayy7c6n5KiI) | 3:40 |

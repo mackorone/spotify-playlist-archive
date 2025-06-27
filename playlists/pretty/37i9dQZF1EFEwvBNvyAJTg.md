@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88 likes - 183 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 89 likes - 183 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 67 | [My Shadow](https://open.spotify.com/track/7g2m8xdym2wNCs8vHdXdv3) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp) | 3:29 |
 | 68 | [Tonight \(D.I.Y.A\) \- Pitbull Remix](https://open.spotify.com/track/5tLCZ73pEFUzxEd1W4DeCs) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Tonight \(D.I.Y.A\) \[Pitbull Remix\]](https://open.spotify.com/album/0EIZb3DTMZlZt2FLndqpSY) | 2:32 |
 | 69 | [Mrs Blue](https://open.spotify.com/track/1UdyTCCyYlEVPmLHIq2mAf) | [Tommy Down](https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg) | [21st Century Living](https://open.spotify.com/album/0twHIfNLYeDZ4Q7YAEOhUR) | 4:27 |
-| 70 | [Coffee Shop](https://open.spotify.com/track/71sZJf9VANfoML8du225Gl) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [summerovlove setlist](https://open.spotify.com/album/2A9wBQHtFOO9j0U0v6NXZ1) | 2:04 |
+| 70 | [Coffee Shop](https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Coffee Shop](https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U) | 2:04 |
 | 71 | [HOT STEPPA](https://open.spotify.com/track/3XmtcI1fONYFrGHGVpGxPa) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [HOT STEPPA](https://open.spotify.com/album/3PexIX2Jh9Dpd9ol6dBqoV) | 2:49 |
 | 72 | [Why Can’t I Have Two? \(2468\)](https://open.spotify.com/track/2yxoUbky67EEftHoYZQqT0) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 2:19 |
 | 73 | [Trippin](https://open.spotify.com/track/55ZSz4QtfzKj9Pjf7Ac6Ak) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [State of Mine](https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD) | 2:52 |
@@ -174,11 +174,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 164 | [Be With You](https://open.spotify.com/track/7LHuqudAcRuiCjhRE7DvuY) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:33 |
 | 165 | [Enjoy Youth](https://open.spotify.com/track/3fBT8ulgB2jVaOr77QEV9u) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 4:11 |
 | 166 | [MVP](https://open.spotify.com/track/3sypCr4jYSJSfOIwxNRsrD) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:21 |
-| 167 | [Correct](https://open.spotify.com/track/0T5Ni4hQkYeCMd9omRIxA8) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:44 |
-| 168 | [Don't Kill My Vibe](https://open.spotify.com/track/58tGCL2ir7M0iJDdhCsLLW) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 3:33 |
+| 167 | [Don't Kill My Vibe](https://open.spotify.com/track/58tGCL2ir7M0iJDdhCsLLW) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 3:33 |
+| 168 | [Correct](https://open.spotify.com/track/0T5Ni4hQkYeCMd9omRIxA8) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:44 |
 | 169 | [Motive](https://open.spotify.com/track/2p4s0gtr3rvRexcKALY8Oa) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [State of Mine](https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD) | 3:03 |
-| 170 | [Ugly Supermodel](https://open.spotify.com/track/5THjcRgSxBqzldH7OTGXwS) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:25 |
-| 171 | [Get Into It](https://open.spotify.com/track/1GqJ05nhtax7yuCLypwZGr) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 3:02 |
+| 170 | [Get Into It](https://open.spotify.com/track/1GqJ05nhtax7yuCLypwZGr) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 3:02 |
+| 171 | [Ugly Supermodel](https://open.spotify.com/track/5THjcRgSxBqzldH7OTGXwS) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:25 |
 | 172 | [Revived](https://open.spotify.com/track/196IEpHnMLllSSIRndFEGX) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 3:15 |
 | 173 | [Heroes](https://open.spotify.com/track/7hZ2EoSYkzmONuIKFHWu4s) | [Tommy Down](https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg) | [21st Century Living](https://open.spotify.com/album/0twHIfNLYeDZ4Q7YAEOhUR) | 3:38 |
 | 174 | [Make Yourself Over](https://open.spotify.com/track/0eLlQCo4q3CcNY8UZ25nzA) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:20 |
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 182 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
 | 183 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `Ab1HSgAAAABP19ymeV1YuzainoN3dR8x`
+Snapshot ID: `Ab1NCAAAAABXFNyse72Or9mrGLbZG6QI`

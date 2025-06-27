@@ -2,9 +2,9 @@
 
 ### [VOLUME SUOMI](https://open.spotify.com/playlist/37i9dQZF1DX7Zqfq7rklwe)
 
-> Suomen suurin ja paras rock\-soittolista\. ⚡️Kannessa AC/DC:n Angus Young.⚡️
+> Suomen suurin ja paras rock\-soittolista\. ⚡️Kannessa Sleep Token.⚡️
 
-259 songs - 16 hr 54 min
+260 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [BLOODMOON](https://open.spotify.com/track/2DTmOnUO59rxYsKOuODQZk) | [rock band from hell](https://open.spotify.com/artist/271PF7IlfHIJJ6XoOYg7cP) | [BLOODMOON](https://open.spotify.com/album/53M96kkpf7dLDnAetZ8iss) | 2:34 | 2024-09-11 | 2024-11-29 |
 | [Boulevard of Broken Dreams](https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Boulevard of Broken Dreams](https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA) | 4:21 | 2024-09-11 | 2025-06-20 |
 | [Brain Dead](https://open.spotify.com/track/4xU77b6HKv2IwES1drr3J5) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv), [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Brain Dead](https://open.spotify.com/album/3JETPcu03Ccra5Md9guFlU) | 2:48 | 2025-02-27 | 2025-03-21 |
+| [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/track/4lSXxf1buHPHRqz4otuxde) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Toby Morse](https://open.spotify.com/artist/3bUT7vUCfASm9rKV19DAjd) | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/album/6K484LDhrNh4mzq95WMPbv) | 3:11 | 2025-06-26 |  |
 | [Break These Chains \(feat\. Niko Vilhelm of Blind Channel\)](https://open.spotify.com/track/03epNQcpWbIg6kWRIWLfN7) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl), [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Break These Chains \(feat\. Niko Vilhelm of Blind Channel\)](https://open.spotify.com/album/7ouCL5sH19AwXq1VMHhXmV) | 3:43 | 2025-05-15 |  |
 | [Breakdown](https://open.spotify.com/track/4oz7h7UlHn1bFmyiPL5cYh) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Toxic Devotion](https://open.spotify.com/album/0aLWmzGP8roFLiJGxktRmw) | 2:49 | 2025-05-08 |  |
 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2024-09-11 | 2024-11-08 |
@@ -152,7 +153,7 @@
 | [Middle of a Breakdown](https://open.spotify.com/track/7pWUbvNkMapD0ZIeIvX0SA) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Middle of a Breakdown](https://open.spotify.com/album/520bhURjFQSJbwwXVtNpcs) | 3:14 | 2025-01-23 | 2025-03-07 |
 | [Minus Celsius](https://open.spotify.com/track/5CTc5YCNKT5FGe9dWvJZFd) | [Backyard Babies](https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN) | [Stockholm Syndrome](https://open.spotify.com/album/3uMfXWCv23mz4DB5wTcvw1) | 3:34 | 2024-09-11 |  |
 | [Mitä jää](https://open.spotify.com/track/3J4YG4PfgimicYyeJHzq2G) | [LÄHIÖBOTOX](https://open.spotify.com/artist/2DQUFoAlTM6TbSOabVRumg), [Jodahe](https://open.spotify.com/artist/47bHkMN3v678TKL5Tku7mF) | [Surullinen tapaus – sellaista on vapaus](https://open.spotify.com/album/55JvF5GgYdLTN7RwyfmcIB) | 2:51 | 2024-11-08 | 2024-11-29 |
-| [Monsters](https://open.spotify.com/track/747GeWvELWeEc7VFFIo7eJ) | [Fear Of Domination](https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq) | [Monsters](https://open.spotify.com/album/4Yo4Cc6YbANSJjb6BEb87g) | 4:22 | 2024-09-11 |  |
+| [Monsters](https://open.spotify.com/track/747GeWvELWeEc7VFFIo7eJ) | [Fear Of Domination](https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq) | [Monsters](https://open.spotify.com/album/4Yo4Cc6YbANSJjb6BEb87g) | 4:22 | 2024-09-11 | 2025-06-27 |
 | [Neon Noir](https://open.spotify.com/track/4jW6TlrmCQUGnNcbEdr8Ui) | [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Neon Noir](https://open.spotify.com/album/1F9QDVhcJCUz0BHcjdmqvX) | 4:56 | 2024-09-11 | 2024-12-13 |
 | [NO](https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [NO](https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc) | 2:28 | 2024-09-11 | 2025-01-17 |
 | [No Loss, No Love](https://open.spotify.com/track/3be9lEoOwbDROZViutmSgd) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [No Loss, No Love](https://open.spotify.com/album/7BhHSUylWCFLbOahXAn74K) | 2:56 | 2025-02-06 | 2025-02-28 |

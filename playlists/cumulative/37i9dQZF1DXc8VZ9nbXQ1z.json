@@ -776,7 +776,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 295000,
       "name": "All I Got",
       "url": "https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM"
@@ -816,7 +816,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 422400,
       "name": "Alligned",
       "url": "https://open.spotify.com/track/1GHbvaQCldfPDyQQ8HTwYC"
@@ -5598,7 +5598,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 246000,
       "name": "Gorah",
       "url": "https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj"
@@ -7997,6 +7997,32 @@
     },
     {
       "album": {
+        "name": "Kalabancoro",
+        "url": "https://open.spotify.com/album/3EzEdhl8VSwHjUkVvlCAA6"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Richard Bona",
+          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Kalabancoro",
+      "url": "https://open.spotify.com/track/3DidOh90QTm6XAnD40gyJv"
+    },
+    {
+      "album": {
         "name": "Kaleta",
         "url": "https://open.spotify.com/album/1DTpdbbsif7gLrpSOGDfVE"
       },
@@ -8602,7 +8628,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 458554,
       "name": "La Mezcla - Charles Websters Club Mix",
       "url": "https://open.spotify.com/track/3iSrNmprvBywstHC72L1QH"
@@ -10058,7 +10084,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 251520,
       "name": "Mine",
       "url": "https://open.spotify.com/track/3u2siEK1c5uRxLD1nu3U0O"
@@ -10760,7 +10786,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 480862,
       "name": "My Africa - Nitefreak Afro Buzz Remix",
       "url": "https://open.spotify.com/track/6Z6CC3btYzyhTE9WQSC4qc"
@@ -11608,7 +11634,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 224262,
       "name": "Nkolwa - Edit",
       "url": "https://open.spotify.com/track/7lDpzqEdh4X64LyDgD4XT5"
@@ -12359,6 +12385,24 @@
     },
     {
       "album": {
+        "name": "Osumbana",
+        "url": "https://open.spotify.com/album/3jUnKxEpNfYvxaaN3VANoZ"
+      },
+      "artists": [
+        {
+          "name": "Vinylsurfer",
+          "url": "https://open.spotify.com/artist/19apWPwppN9Akr6zXhT910"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413360,
+      "name": "Osumbana - Extended Mix",
+      "url": "https://open.spotify.com/track/0jzzCCkU9jrc6JfzbgRGsG"
+    },
+    {
+      "album": {
         "name": "Our Love",
         "url": "https://open.spotify.com/album/1OLCwtOU1ltwVRQwmMwPUg"
       },
@@ -12584,7 +12628,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 487574,
       "name": "Paradise Circus - Gui Boratto Remix",
       "url": "https://open.spotify.com/track/6rU0dLXyWbXqti69nrQP4H"
@@ -12694,7 +12738,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 481623,
       "name": "Peah",
       "url": "https://open.spotify.com/track/6oq5rfJnVMZZ3OoUY4f96d"
@@ -12914,7 +12958,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 490000,
       "name": "Phezulu - Aero Manyelo Remix",
       "url": "https://open.spotify.com/track/7tP5esHaglv0skKFnwjieG"
@@ -13556,7 +13600,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 309426,
       "name": "Rinketin",
       "url": "https://open.spotify.com/track/1g7MwlRkYZgGsMBB4am3rj"
@@ -13578,7 +13622,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 500000,
       "name": "Rise",
       "url": "https://open.spotify.com/track/71b0I1dXZDYdOEMS5IGIm0"
@@ -13629,6 +13673,28 @@
     },
     {
       "album": {
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/1VgsxkiH44lrVJtdAagxn8"
+      },
+      "artists": [
+        {
+          "name": "Urmet K",
+          "url": "https://open.spotify.com/artist/46YPQGXkvn7QooB0XJvkdb"
+        },
+        {
+          "name": "Jonatan B\u00e4ckelie",
+          "url": "https://open.spotify.com/artist/5aMXfEoZ4JiURTg8XNsfaz"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239500,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/1EmDAvW8ysv3uc551nF1jB"
+    },
+    {
+      "album": {
         "name": "DM.Recordings Presents Zazu",
         "url": "https://open.spotify.com/album/49lOmokqWPgE9gkNDBoVj1"
       },
@@ -13670,6 +13736,28 @@
       "duration_ms": 385132,
       "name": "Rongo - Kususa Remix",
       "url": "https://open.spotify.com/track/0nGzUb4VRCwjzhwRoy9Hkb"
+    },
+    {
+      "album": {
+        "name": "Rumble",
+        "url": "https://open.spotify.com/album/7yuYs5TGpWXMRMQA0E5bPP"
+      },
+      "artists": [
+        {
+          "name": "Xavier Dragner",
+          "url": "https://open.spotify.com/artist/25DLgS5KimLaA06q3NOh1u"
+        },
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337854,
+      "name": "Rumble",
+      "url": "https://open.spotify.com/track/24CkZHMUwGHeIJgn1m6EoM"
     },
     {
       "album": {
@@ -14564,7 +14652,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 273170,
       "name": "Siebel",
       "url": "https://open.spotify.com/track/4xdx2B81xoPeBxjRdTHOqH"
@@ -14730,6 +14818,28 @@
       "duration_ms": 297995,
       "name": "Since I Fell For You",
       "url": "https://open.spotify.com/track/2OCDgzHWQQfRDWxDL5RxwV"
+    },
+    {
+      "album": {
+        "name": "Sinergia",
+        "url": "https://open.spotify.com/album/2NsyJJmMjXUO7AzimshXaH"
+      },
+      "artists": [
+        {
+          "name": "Danni Gato",
+          "url": "https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy"
+        },
+        {
+          "name": "Drumetic Boyz",
+          "url": "https://open.spotify.com/artist/2NQ0f4GcMFHv5rwZIoyQyB"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437172,
+      "name": "Sinergia",
+      "url": "https://open.spotify.com/track/4pHZwclXvLi5oCyGQD8huD"
     },
     {
       "album": {
@@ -15016,7 +15126,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 428429,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/2gVy654eoz1UEah0YP9EdV"
@@ -15160,6 +15270,32 @@
       "duration_ms": 369853,
       "name": "Sound of Borders",
       "url": "https://open.spotify.com/track/1tJ5rfbC4UHnIQWMqxKw18"
+    },
+    {
+      "album": {
+        "name": "Sound Of The Police",
+        "url": "https://open.spotify.com/album/7lnn6hqB3ypCjxBtlspHi4"
+      },
+      "artists": [
+        {
+          "name": "Jats (ofc)",
+          "url": "https://open.spotify.com/artist/4dReBcPcTz4KPXF3aPKqYc"
+        },
+        {
+          "name": "Moarasi\u00e1",
+          "url": "https://open.spotify.com/artist/7lYkZI1k4eE9RULC1p99Uy"
+        },
+        {
+          "name": "Ochlea",
+          "url": "https://open.spotify.com/artist/5CxV6It5y8BdhlKw7zxYFl"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220487,
+      "name": "Sound Of The Police",
+      "url": "https://open.spotify.com/track/43ncbQpMRP5XPBIqr9SsSV"
     },
     {
       "album": {
@@ -15634,7 +15770,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 508327,
       "name": "Take Me to My Love",
       "url": "https://open.spotify.com/track/5oYZAxG1ZVy8lwVduEKYxe"
@@ -15778,7 +15914,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 421478,
       "name": "Tele - Raul Bryan s Dub",
       "url": "https://open.spotify.com/track/12DengrteZVIA7EbzLxBbp"
@@ -17015,6 +17151,28 @@
     },
     {
       "album": {
+        "name": "Trippy Yeah",
+        "url": "https://open.spotify.com/album/2kcnbaQIOOEz7zb5yWhVp3"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238400,
+      "name": "Trippy Yeah",
+      "url": "https://open.spotify.com/track/1CM0kiqrtCSHClFjTccTOb"
+    },
+    {
+      "album": {
         "name": "True To The Drum",
         "url": "https://open.spotify.com/album/1ibS5yjAK7knd7W0v6nvoq"
       },
@@ -17439,6 +17597,28 @@
     },
     {
       "album": {
+        "name": "Unify",
+        "url": "https://open.spotify.com/album/2E1Qc8G4tcauL2yiBxlZTv"
+      },
+      "artists": [
+        {
+          "name": "Mike Syntec",
+          "url": "https://open.spotify.com/artist/0rdItAe6rTLIM2z64smJ9W"
+        },
+        {
+          "name": "Toshi",
+          "url": "https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280320,
+      "name": "Unify",
+      "url": "https://open.spotify.com/track/7kV15N3BLbEvuSToRyzgTs"
+    },
+    {
+      "album": {
         "name": "Unite",
         "url": "https://open.spotify.com/album/4jptUdOTnU6m1Yfgpy4fV4"
       },
@@ -17672,6 +17852,24 @@
       "duration_ms": 200655,
       "name": "VOM - Radio Edit",
       "url": "https://open.spotify.com/track/29KQqpcRlxe1iI9S7dPzM6"
+    },
+    {
+      "album": {
+        "name": "Voulez Vous",
+        "url": "https://open.spotify.com/album/7kbtbBGVEYvdTE8ctdk6bH"
+      },
+      "artists": [
+        {
+          "name": "Cincity",
+          "url": "https://open.spotify.com/artist/2JTUg3LgzJsqxzNnPB9hen"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265500,
+      "name": "Voulez Vous",
+      "url": "https://open.spotify.com/track/7fivDCjKjcqfA9fmY1FUeh"
     },
     {
       "album": {
@@ -18046,7 +18244,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 209042,
       "name": "Wemilere",
       "url": "https://open.spotify.com/track/4LTUd0vpDURYoaPvHX9aly"
@@ -18090,7 +18288,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 232195,
       "name": "What Is Control",
       "url": "https://open.spotify.com/track/4GmpIWzcwP9Z6c9rWQGucn"
@@ -18152,7 +18350,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 650322,
       "name": "Wir",
       "url": "https://open.spotify.com/track/2Cx2WzE9G1JrKBv6TzEP7x"
@@ -18330,6 +18528,36 @@
       "duration_ms": 393060,
       "name": "Words - Cee ElAssaad Acid Remix",
       "url": "https://open.spotify.com/track/4LiIcgJzUsfCw2cA97DbZJ"
+    },
+    {
+      "album": {
+        "name": "Work (Super Flu Remix)",
+        "url": "https://open.spotify.com/album/5OxZMJjP68L2284FWFL98X"
+      },
+      "artists": [
+        {
+          "name": "Kevin McKay",
+          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
+        },
+        {
+          "name": "Pupa Nas T",
+          "url": "https://open.spotify.com/artist/4vm90zckXYAA2AZGFStkmy"
+        },
+        {
+          "name": "Super Flu",
+          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+        },
+        {
+          "name": "Denise Belfon",
+          "url": "https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207541,
+      "name": "Work - Super Flu Remix",
+      "url": "https://open.spotify.com/track/0OHEgl26njhrxDYsy9AM4C"
     },
     {
       "album": {
@@ -18515,6 +18743,28 @@
     },
     {
       "album": {
+        "name": "Yam\u00ed",
+        "url": "https://open.spotify.com/album/3XeWKvgK9b7NnQhUf3PFfc"
+      },
+      "artists": [
+        {
+          "name": "OC\u00cbR",
+          "url": "https://open.spotify.com/artist/2lr2luzsNa4F3bhq1gHKy5"
+        },
+        {
+          "name": "Mevil",
+          "url": "https://open.spotify.com/artist/1gEv29AYdZDyZxaEZEz1xW"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276393,
+      "name": "Yam\u00ed - Radio Edit",
+      "url": "https://open.spotify.com/track/6DMEvO00tdTJiB5vsVudDs"
+    },
+    {
+      "album": {
         "name": "Yana Pula",
         "url": "https://open.spotify.com/album/049Cfz2gwqDTo0FT6elOIy"
       },
@@ -18662,7 +18912,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 212682,
       "name": "You & Me - Radio Edit",
       "url": "https://open.spotify.com/track/7jXoiylcFXGGfdmu3jmHQF"

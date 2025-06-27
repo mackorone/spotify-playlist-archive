@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Damso au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "Djadja & Dinaz au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 197200,
       "name": "02:00",
       "url": "https://open.spotify.com/track/62L3acprR92NoRib0zWigG"
@@ -1863,6 +1863,28 @@
     },
     {
       "album": {
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/219t6e1VadecyjyLckRYxF"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        },
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238160,
+      "name": "DRAGONS",
+      "url": "https://open.spotify.com/track/6bhObRBG732wGeTWWR1781"
+    },
+    {
+      "album": {
         "name": "Drama queen",
         "url": "https://open.spotify.com/album/01mO9ZxpTUCroczjsauart"
       },
@@ -1936,7 +1958,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 248000,
       "name": "EL GEMANO",
       "url": "https://open.spotify.com/track/2s0ECLNrusYkBud3ZuoVrc"
@@ -2788,7 +2810,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 152571,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/2ynH9ETEo4OgLxNLJrcMKP"
@@ -3146,7 +3168,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 130000,
       "name": "J\u2019crois qu\u2019ils ont pas compris",
       "url": "https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg"
@@ -4222,6 +4244,28 @@
       "duration_ms": 188573,
       "name": "Maybach",
       "url": "https://open.spotify.com/track/2doTFAqat5o4dbFq9qUuLT"
+    },
+    {
+      "album": {
+        "name": "FARA FARA GANG - BDLM EXTENSION",
+        "url": "https://open.spotify.com/album/0IbS9cqUZDG1E8ZwkZW3mO"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229189,
+      "name": "MBIFE",
+      "url": "https://open.spotify.com/track/4ooqTbjU8YF488u6WEV8v2"
     },
     {
       "album": {
@@ -5791,6 +5835,24 @@
     },
     {
       "album": {
+        "name": "RUINART",
+        "url": "https://open.spotify.com/album/6DDz77QqTYGIWIj9g4fUN1"
+      },
+      "artists": [
+        {
+          "name": "R2",
+          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174493,
+      "name": "RUINART",
+      "url": "https://open.spotify.com/track/0vZyOrmcNCzkz73HSEMfLk"
+    },
+    {
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/45Z2w3ADwNkPE6kTRpm2P4"
       },
@@ -6592,6 +6654,24 @@
       "duration_ms": 199053,
       "name": "Troph\u00e9e",
       "url": "https://open.spotify.com/track/1n1ufFsnSU3mDuDSHroza8"
+    },
+    {
+      "album": {
+        "name": "Tu Sais",
+        "url": "https://open.spotify.com/album/6lqW7JxQYN90kAv278RRFv"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158573,
+      "name": "Tu Sais",
+      "url": "https://open.spotify.com/track/1R1deVa4LzVxzgFIpvS2O3"
     },
     {
       "album": {

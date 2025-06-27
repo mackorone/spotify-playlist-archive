@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 656687,
+  "num_followers": 656769,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAACPedzj7LH1ZMP8bdDNPC50",
+  "snapshot_id": "aFs8AAAAAADJFpqyJ18U/Lw2986+XnSH",
   "tracks": [
     {
       "added_at": null,
@@ -819,30 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uncharted",
-        "url": "https://open.spotify.com/album/6nNCnm0zCnx2CF033KpEVd"
+        "name": "Man of the Woods",
+        "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
       },
       "artists": [
-        {
-          "name": "The Piano Guys",
-          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
-        },
-        {
-          "name": "Max Martin",
-          "url": "https://open.spotify.com/artist/1rjeVTt9Ra1ldvN7SpeK0G"
-        },
         {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         },
         {
-          "name": "Shellback",
-          "url": "https://open.spotify.com/artist/268mhnkat7rZjlnOsJoZg8"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 182746,
-      "name": "Can't Stop the Feeling",
-      "url": "https://open.spotify.com/track/7LfVbcoCLy1u3zKUwO9VxN"
+      "duration_ms": 243040,
+      "name": "Morning Light (feat. Alicia Keys)",
+      "url": "https://open.spotify.com/track/3KnLHwhRhJGuQM822JVSoI"
     },
     {
       "added_at": null,
@@ -883,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Man of the Woods",
-        "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 243040,
-      "name": "Morning Light (feat. Alicia Keys)",
-      "url": "https://open.spotify.com/track/3KnLHwhRhJGuQM822JVSoI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turtleneck & Chain (Explicit Version)",
         "url": "https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP"
       },
@@ -919,6 +891,34 @@
       "duration_ms": 169506,
       "name": "Motherlover",
       "url": "https://open.spotify.com/track/2zpQ30BpR6teeCeivQoo5p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uncharted",
+        "url": "https://open.spotify.com/album/6nNCnm0zCnx2CF033KpEVd"
+      },
+      "artists": [
+        {
+          "name": "The Piano Guys",
+          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+        },
+        {
+          "name": "Max Martin",
+          "url": "https://open.spotify.com/artist/1rjeVTt9Ra1ldvN7SpeK0G"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Shellback",
+          "url": "https://open.spotify.com/artist/268mhnkat7rZjlnOsJoZg8"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "Can't Stop the Feeling",
+      "url": "https://open.spotify.com/track/7LfVbcoCLy1u3zKUwO9VxN"
     },
     {
       "added_at": null,

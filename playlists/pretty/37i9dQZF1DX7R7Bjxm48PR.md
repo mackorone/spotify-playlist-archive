@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 
 > Calming and inspiring piano music for yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,775 likes - 78 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,799 likes - 78 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 4 | [Restep](https://open.spotify.com/track/4lSVgERyr2PEVuTfw67NOl) | [Montauk Season](https://open.spotify.com/artist/1CxzUz71eYdN6LFkku1F8H) | [Restep](https://open.spotify.com/album/50XEml8T1onTvYMVIgsKCg) | 1:46 |
 | 5 | [Quiet and Peaceful](https://open.spotify.com/track/5nigxScnQg8h5b5Wdfngks) | [Leone Adam](https://open.spotify.com/artist/3nerQSvPk6QCfNedqkTDKW) | [Quiet and Peaceful](https://open.spotify.com/album/46D0IP8tuyUqrtj51Whetp) | 2:12 |
 | 6 | [Automne Nordique](https://open.spotify.com/track/2ujxJqOusPaIhbeej7zaXv) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [Automne Nordique](https://open.spotify.com/album/2CJKxKIUE2IxWHIAkVbQEo) | 1:57 |
-| 7 | [Pale Aurora](https://open.spotify.com/track/0GcX7h88UC3OnQ1dFyQaLU) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [Pale Aurora](https://open.spotify.com/album/25Rn3G4zzG5WHBBYglBh5c) | 2:38 |
-| 8 | [The Lighthouse](https://open.spotify.com/track/1SDfGb9Qeu3maDGDBxzQOT) | [Blue George](https://open.spotify.com/artist/3iXwpImyv9kqSfxcTtfou5) | [The Lighthouse](https://open.spotify.com/album/2dkf5WX3DGaTWbRAx34SX4) | 3:32 |
-| 9 | [Rainy September](https://open.spotify.com/track/4GM77rxiIkWTWFvqumrQ5M) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Rainy September](https://open.spotify.com/album/2em2EC6sy6nbSluxJC5Elc) | 2:51 |
-| 10 | [For a Moment](https://open.spotify.com/track/3LpE4XPSmS6PoyVbnPb1xh) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [For a Moment](https://open.spotify.com/album/6w8sZ0dY0c8lnkDpIKRCzq) | 2:25 |
-| 11 | [Verdicular](https://open.spotify.com/track/0Z1OMQ29VndIdWZ8UWGrak) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Verdicular](https://open.spotify.com/album/46dHHrOaAhDDxjPoL3lAay) | 2:19 |
+| 7 | [For a Moment](https://open.spotify.com/track/3LpE4XPSmS6PoyVbnPb1xh) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [For a Moment](https://open.spotify.com/album/6w8sZ0dY0c8lnkDpIKRCzq) | 2:25 |
+| 8 | [Verdicular](https://open.spotify.com/track/0Z1OMQ29VndIdWZ8UWGrak) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Verdicular](https://open.spotify.com/album/46dHHrOaAhDDxjPoL3lAay) | 2:19 |
+| 9 | [The Lighthouse](https://open.spotify.com/track/1SDfGb9Qeu3maDGDBxzQOT) | [Blue George](https://open.spotify.com/artist/3iXwpImyv9kqSfxcTtfou5) | [The Lighthouse](https://open.spotify.com/album/2dkf5WX3DGaTWbRAx34SX4) | 3:32 |
+| 10 | [Pale Aurora](https://open.spotify.com/track/0GcX7h88UC3OnQ1dFyQaLU) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [Pale Aurora](https://open.spotify.com/album/25Rn3G4zzG5WHBBYglBh5c) | 2:38 |
+| 11 | [Rainy September](https://open.spotify.com/track/4GM77rxiIkWTWFvqumrQ5M) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Rainy September](https://open.spotify.com/album/2em2EC6sy6nbSluxJC5Elc) | 2:51 |
 | 12 | [Here Again](https://open.spotify.com/track/3bT9gF3tQRVutXoN68wd1B) | [Nathan Emanuel](https://open.spotify.com/artist/6ucJzjxkziOXA00hLW3fJV) | [Here Again](https://open.spotify.com/album/20XykNXkHhHIlmqg4pFzvi) | 3:46 |
 | 13 | [Physichromie](https://open.spotify.com/track/1YFRuuXsbnVcO5uQPdrJK7) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Physichromie](https://open.spotify.com/album/7MO6O6OmNEN4Wjz6eO9t0g) | 2:30 |
 | 14 | [Vertigini](https://open.spotify.com/track/5FzjFbaz91mxF5WHM0xLGi) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Vertigini](https://open.spotify.com/album/1IfQvziChTayQGpZU6RCif) | 2:00 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 77 | [Peaceful Sleep](https://open.spotify.com/track/7bmZ6lmNpGRvVWDaQkeZAU) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Mind Flow](https://open.spotify.com/album/0XeqcbOgWxwY3cYk7MFF1H) | 2:34 |
 | 78 | [The World Within Me](https://open.spotify.com/track/6E1jXkm4vHFnCL43vkXTuM) | [Ruth Watson](https://open.spotify.com/artist/0JdKHUcyeRLXadKsimgTD1) | [The World Within Me](https://open.spotify.com/album/1KhWIRmiIM565Pb5HyY5fj) | 2:10 |
 
-Snapshot ID: `aEglZwAAAACH/PHCYRw1n23afrC6QnwO`
+Snapshot ID: `aF0RkAAAAAB4DXHiMuqwo5kesyXv0yLK`

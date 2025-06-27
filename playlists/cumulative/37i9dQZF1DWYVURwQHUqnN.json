@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Hamza",
+  "description": "Photo : Soolking x Ninho",
   "name": "Best Life",
   "tracks": [
     {
@@ -619,6 +619,28 @@
     },
     {
       "album": {
+        "name": "\u00c9difices 3",
+        "url": "https://open.spotify.com/album/4ej73jYOs6mnCw3CJ6glZP"
+      },
+      "artists": [
+        {
+          "name": "Yaro",
+          "url": "https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo"
+        },
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "Beaux Quartiers",
+      "url": "https://open.spotify.com/track/5tA0ock7OkKXpgAuhjWVK3"
+    },
+    {
+      "album": {
         "name": "Beluga",
         "url": "https://open.spotify.com/album/6pynvrRBHonKOcySil3MOL"
       },
@@ -652,6 +674,24 @@
       "duration_ms": 171692,
       "name": "Benda",
       "url": "https://open.spotify.com/track/4gGtXfBmsTlglZm6FeJ1T9"
+    },
+    {
+      "album": {
+        "name": "Rien Sans Lien",
+        "url": "https://open.spotify.com/album/3R0VtxjxbKPx06KDhFKCkK"
+      },
+      "artists": [
+        {
+          "name": "Nahir",
+          "url": "https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163853,
+      "name": "Benevole",
+      "url": "https://open.spotify.com/track/4OOazVob1di05D3v3XDKxI"
     },
     {
       "album": {
@@ -984,6 +1024,46 @@
       "duration_ms": 178640,
       "name": "C'est de la Cali",
       "url": "https://open.spotify.com/track/6i4HNKWwGmR7nGh6ZLjvdM"
+    },
+    {
+      "album": {
+        "name": "C'est Fort",
+        "url": "https://open.spotify.com/album/7n64v5dvmdTNLTvM1NzUdS"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159719,
+      "name": "C'est Fort",
+      "url": "https://open.spotify.com/track/4VSR4ZWtfYgJwldRcNNFC3"
+    },
+    {
+      "album": {
+        "name": "Dans la temp\u00eate",
+        "url": "https://open.spotify.com/album/6thkis7gLlQJUeLEvS2eBF"
+      },
+      "artists": [
+        {
+          "name": "HMZ",
+          "url": "https://open.spotify.com/artist/6pg4S5KTCPiEBp0rSWsaI6"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153402,
+      "name": "C'est pas mimi",
+      "url": "https://open.spotify.com/track/4WpTWnrlZWB5YErgUg2ULe"
     },
     {
       "album": {
@@ -1339,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "Couci-cou\u00e7a",
+        "url": "https://open.spotify.com/album/4kEZu5kCsoUKjUAcelQ7wk"
+      },
+      "artists": [
+        {
+          "name": "1D1R",
+          "url": "https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156628,
+      "name": "Couci-cou\u00e7a",
+      "url": "https://open.spotify.com/track/06AS3pqtuvDFz8KoSe3igf"
+    },
+    {
+      "album": {
         "name": "Coucou",
         "url": "https://open.spotify.com/album/6RWZB3cgbF3OEQvPd4K4rj"
       },
@@ -1562,7 +1660,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 151351,
       "name": "Des choses \u00e0 f\u00eater (feat. Soprano)",
       "url": "https://open.spotify.com/track/3Hj1lj8KTZhykYOgl6DMfo"
@@ -1962,7 +2060,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 147375,
       "name": "Fais pas \u00e7a - Bonus Track",
       "url": "https://open.spotify.com/track/6NPvUIMvVvIRkFiNzGni9N"
@@ -2759,6 +2857,28 @@
     },
     {
       "album": {
+        "name": "LA JEUNESSE DOR\u00c9E (feat. Killa Predator)",
+        "url": "https://open.spotify.com/album/6LIQ4eZMzaRcMTCBoLYPXy"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        },
+        {
+          "name": "Killa Predator",
+          "url": "https://open.spotify.com/artist/2jxihp917o7WCCEN3xZXww"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139022,
+      "name": "LA JEUNESSE DOR\u00c9E (feat. Killa Predator)",
+      "url": "https://open.spotify.com/track/4XjlNoFMggD2LK9WkCjkII"
+    },
+    {
+      "album": {
         "name": "LA M\u00caME HISTOIRE",
         "url": "https://open.spotify.com/album/1q67Fv3Ccr8yAOrtVD7F7U"
       },
@@ -2774,6 +2894,24 @@
       "duration_ms": 132682,
       "name": "LA M\u00caME HISTOIRE",
       "url": "https://open.spotify.com/track/6I6nQIBRYlQLMT58liSyWI"
+    },
+    {
+      "album": {
+        "name": "La Strada (Bonus Track)",
+        "url": "https://open.spotify.com/album/5TfDu427kiS2oPApySQQGt"
+      },
+      "artists": [
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170170,
+      "name": "La Strada - Bonus Track",
+      "url": "https://open.spotify.com/track/6maBK1kssw64JMIvAj50L2"
     },
     {
       "album": {
@@ -3105,6 +3243,28 @@
     },
     {
       "album": {
+        "name": "Madame",
+        "url": "https://open.spotify.com/album/0eGtrXExPsQnDqjkDGvE5g"
+      },
+      "artists": [
+        {
+          "name": "Rohff",
+          "url": "https://open.spotify.com/artist/32UhRcgdXO6LdLhOpfIdxp"
+        },
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181224,
+      "name": "Madame",
+      "url": "https://open.spotify.com/track/4zKQSwbfgF6K5RvigJanXu"
+    },
+    {
+      "album": {
         "name": "Madre Mia",
         "url": "https://open.spotify.com/album/30oZyeiZLVtcwlBNJaQmdd"
       },
@@ -3142,7 +3302,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 180360,
       "name": "Magic (feat. I.A.)",
       "url": "https://open.spotify.com/track/26AJYfDkqXUTOXLW7fYOZO"
@@ -3506,7 +3666,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 160000,
       "name": "Mon amour",
       "url": "https://open.spotify.com/track/1reRAKrwnfUmbNCrTUGLdn"
@@ -4480,7 +4640,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 158532,
       "name": "Piments",
       "url": "https://open.spotify.com/track/0b3us3PyUYV0pYGhgPBeXt"
@@ -5196,7 +5356,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 133358,
       "name": "SANGOTE",
       "url": "https://open.spotify.com/track/5UiZkzHdC4MXZ3Sley68VU"
@@ -5254,7 +5414,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 149323,
       "name": "Sappe Italienne",
       "url": "https://open.spotify.com/track/3oSozamQiogiek001kUUUu"
@@ -5796,7 +5956,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 149930,
       "name": "TIMINIK (feat. Yorssy)",
       "url": "https://open.spotify.com/track/0KfTxvCXxZBfYN3pvzVG2W"
@@ -5858,7 +6018,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 173445,
       "name": "TOUCH\u00c9",
       "url": "https://open.spotify.com/track/0hQqfUxxTVwYW172Ble1oD"
@@ -6510,6 +6670,24 @@
       "duration_ms": 172750,
       "name": "Z\u00e9ro Soucis",
       "url": "https://open.spotify.com/track/0eDyUBPdPjS5t2IapdVYim"
+    },
+    {
+      "album": {
+        "name": "\u00c0 MOI",
+        "url": "https://open.spotify.com/album/6SWYLmtNq4F1eweeTV0tWS"
+      },
+      "artists": [
+        {
+          "name": "WIXO & LA2S",
+          "url": "https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "\u00c0 MOI",
+      "url": "https://open.spotify.com/track/24w2m4BhUscFkHRfUSYAyD"
     },
     {
       "album": {

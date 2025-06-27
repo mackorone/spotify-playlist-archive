@@ -2,25 +2,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: LITTLE JOHN
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: BLVCKHEART
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,263 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,316 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Just Wanna Know](https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [I Just Wanna Know](https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO) | 3:46 |
-| 2 | [เจิดจรัส](https://open.spotify.com/track/3xyNRloMm2i6sNAlnnxLFA) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [เจิดจรัส](https://open.spotify.com/album/3N9qCU7JxkpNW6n5QCakNJ) | 4:21 |
-| 3 | [กุหลาบ](https://open.spotify.com/track/1uFvvFnus5WZFizuRH02Q0) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Kantong Tungngern](https://open.spotify.com/artist/5j2wM66qbeuJAygcWdMNpv), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [กุหลาบ](https://open.spotify.com/album/4E9BRdA6hdnLEdTUwJJs5V) | 3:55 |
-| 4 | [ที่ผ่านมาขอบใจจริงๆ](https://open.spotify.com/track/0Vx23Np7HAjaQIttqOAUPR) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [ที่ผ่านมาขอบใจจริงๆ](https://open.spotify.com/album/3eSVg8YOvfjrQ7p4X0PKxg) | 5:38 |
+| 1 | [เจิดจรัส](https://open.spotify.com/track/3xyNRloMm2i6sNAlnnxLFA) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [เจิดจรัส](https://open.spotify.com/album/3N9qCU7JxkpNW6n5QCakNJ) | 4:21 |
+| 2 | [กุหลาบ](https://open.spotify.com/track/1uFvvFnus5WZFizuRH02Q0) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Kantong Tungngern](https://open.spotify.com/artist/5j2wM66qbeuJAygcWdMNpv), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [กุหลาบ](https://open.spotify.com/album/4E9BRdA6hdnLEdTUwJJs5V) | 3:55 |
+| 3 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 |
+| 4 | [I Just Wanna Know](https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [I Just Wanna Know](https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO) | 3:46 |
 | 5 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 |
-| 6 | [I’m OK // Not OK \- Headphones Version](https://open.spotify.com/track/4eXfkqFZLTixR89GpkjKgE) | [BOYdPOD](https://open.spotify.com/artist/31esXlsRlVAFFGS7lx4BOS), [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [I’m OK // Not OK \(Headphones Version\)](https://open.spotify.com/album/5FqyaQKzUJtMJkXqpGMA2k) | 5:16 |
-| 7 | [Proud](https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [Proud](https://open.spotify.com/album/59iNGzAD15hYShkp2ZNmNv) | 3:45 |
-| 8 | [One Of My Life](https://open.spotify.com/track/6Mm77XGJld1QxvKyMrYbFj) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [K6Y](https://open.spotify.com/artist/0QxCgzdTynqgvj1OWRllYt) | [One Of My Life](https://open.spotify.com/album/1CoVcH5nmOxaKBc6Z6TJMQ) | 3:36 |
-| 9 | [Faded \- Special Version](https://open.spotify.com/track/5b2OC2aaioNReqHlQs1TbR) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [Faded \(Special Version\)](https://open.spotify.com/album/7J06yijTctAn2FkYe4xZOI) | 3:49 |
-| 10 | [ไม่ติด](https://open.spotify.com/track/5ARFnqIJJc9OgCRB7tEygC) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg), [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22) | [URMAN](https://open.spotify.com/album/5m5nxgIvm1W9Cp5FYoYayd) | 3:32 |
-| 11 | [Hurry up!](https://open.spotify.com/track/4qe1nS4WjshQs40dosG8Nq) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [7Vibes](https://open.spotify.com/artist/1WJ1KSMt6Yuf1cQ0MVtqTC) | [Hurry up!](https://open.spotify.com/album/0YLmjPr1cUP4JpOVbHOFfR) | 2:43 |
-| 12 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
-| 13 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 |
+| 6 | [ที่ผ่านมาขอบใจจริงๆ](https://open.spotify.com/track/0Vx23Np7HAjaQIttqOAUPR) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [ที่ผ่านมาขอบใจจริงๆ](https://open.spotify.com/album/3eSVg8YOvfjrQ7p4X0PKxg) | 5:38 |
+| 7 | [I’m OK // Not OK \- Headphones Version](https://open.spotify.com/track/4eXfkqFZLTixR89GpkjKgE) | [BOYdPOD](https://open.spotify.com/artist/31esXlsRlVAFFGS7lx4BOS), [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [I’m OK // Not OK \(Headphones Version\)](https://open.spotify.com/album/5FqyaQKzUJtMJkXqpGMA2k) | 5:16 |
+| 8 | [Proud](https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [Proud](https://open.spotify.com/album/59iNGzAD15hYShkp2ZNmNv) | 3:45 |
+| 9 | [One Of My Life](https://open.spotify.com/track/6Mm77XGJld1QxvKyMrYbFj) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [K6Y](https://open.spotify.com/artist/0QxCgzdTynqgvj1OWRllYt) | [One Of My Life](https://open.spotify.com/album/1CoVcH5nmOxaKBc6Z6TJMQ) | 3:36 |
+| 10 | [Faded \- Special Version](https://open.spotify.com/track/5b2OC2aaioNReqHlQs1TbR) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [Faded \(Special Version\)](https://open.spotify.com/album/7J06yijTctAn2FkYe4xZOI) | 3:49 |
+| 11 | [ไม่ติด](https://open.spotify.com/track/5ARFnqIJJc9OgCRB7tEygC) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg), [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22) | [URMAN](https://open.spotify.com/album/5m5nxgIvm1W9Cp5FYoYayd) | 3:32 |
+| 12 | [Hurry up!](https://open.spotify.com/track/4qe1nS4WjshQs40dosG8Nq) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [7Vibes](https://open.spotify.com/artist/1WJ1KSMt6Yuf1cQ0MVtqTC) | [Hurry up!](https://open.spotify.com/album/0YLmjPr1cUP4JpOVbHOFfR) | 2:43 |
+| 13 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
 | 14 | [วิงวอน \(ex\-change\)](https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [CHERRY](https://open.spotify.com/album/6H2DJp8R0UrJjMNU4NNAD7) | 4:11 |
 | 15 | [ยิ้มง่าย \(Better Together\) \- เพลงจากซีรีส์ "9 Years of you แต่ละปีที่มีเธอ"](https://open.spotify.com/track/51EN90GQ1JhX7n1noAB0s4) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ยิ้มง่าย \(Better Together\) \[เพลงจากซีรีส์ "9 Years of you แต่ละปีที่มีเธอ"\]](https://open.spotify.com/album/0s8Fg1llJ5cOB0XQxsicdW) | 3:00 |
 | 16 | [Just For You](https://open.spotify.com/track/1rHCpL5fzMrHwhFA5rk6wO) | [BADMIXY](https://open.spotify.com/artist/1TNuSqU0unzV0VcUxoQBZ1), [JEEP](https://open.spotify.com/artist/3SHZIwDKgpVv86LfYJNGy2) | [Just For You](https://open.spotify.com/album/0lrjJZPK1RTqGVMNyz3rhB) | 4:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 | 49 | [ใจพัง](https://open.spotify.com/track/30ho6wAl9w53sCtcqzHVMA) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [GTK](https://open.spotify.com/artist/2xe3fpDD81re4J0NN3S8LV) | [ใจพัง](https://open.spotify.com/album/5jfhFfMvJM7FaKOnc0u1J2) | 5:01 |
 | 50 | [Hotel Lobby](https://open.spotify.com/track/5ZwO6yhqNgne3juzRbHgDB) | [Tobii](https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg) | [Hotel Lobby](https://open.spotify.com/album/6V1DgWqsW0A09jYNKH8PW6) | 3:20 |
 
-Snapshot ID: `aFRdpwAAAACV2ehf6Y0hiSyE4iXWDqgF`
+Snapshot ID: `aF2QbQAAAACI83i/aZ1+Pi896A/ZJTB/`

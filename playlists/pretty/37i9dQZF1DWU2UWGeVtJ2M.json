@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 166548,
+  "num_followers": 166564,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-06-22 16:00:27",
       "album": {
+        "name": "Viva! La Woman",
+        "url": "https://open.spotify.com/album/1Sha7blBHJ2ZBK5FjVXU9W"
+      },
+      "artists": [
+        {
+          "name": "Cibo Matto",
+          "url": "https://open.spotify.com/artist/2te8VJxgUxcElC8Uq6eJs6"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Sugar Water",
+      "url": "https://open.spotify.com/track/2mQnPuVeoJXwS8p9J4JUIb"
+    },
+    {
+      "added_at": "2025-06-22 16:00:27",
+      "album": {
         "name": "Seize The Day",
         "url": "https://open.spotify.com/album/56uC55DMbvL9l8dQAoszp5"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 161512,
       "name": "Seize The Day",
       "url": "https://open.spotify.com/track/04rz2UaJqbK4aUs7TSk7Sw"
-    },
-    {
-      "added_at": "2025-06-22 16:00:27",
-      "album": {
-        "name": "Viva! La Woman",
-        "url": "https://open.spotify.com/album/1Sha7blBHJ2ZBK5FjVXU9W"
-      },
-      "artists": [
-        {
-          "name": "Cibo Matto",
-          "url": "https://open.spotify.com/artist/2te8VJxgUxcElC8Uq6eJs6"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Sugar Water",
-      "url": "https://open.spotify.com/track/2mQnPuVeoJXwS8p9J4JUIb"
     },
     {
       "added_at": "2025-06-22 16:00:27",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-06-22 16:00:27",
       "album": {
-        "name": "Underground Vibes",
-        "url": "https://open.spotify.com/album/3KbEXCBCtDk1gUIJrQirIA"
-      },
-      "artists": [
-        {
-          "name": "DJ Cam",
-          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
-        }
-      ],
-      "duration_ms": 312413,
-      "name": "Mad Blunted Jazz",
-      "url": "https://open.spotify.com/track/11mUt9hPLDxt7EsoYB2Ujc"
-    },
-    {
-      "added_at": "2025-06-22 16:00:27",
-      "album": {
         "name": "Firebabe",
         "url": "https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 220346,
       "name": "Firebabe",
       "url": "https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4"
+    },
+    {
+      "added_at": "2025-06-22 16:00:27",
+      "album": {
+        "name": "Underground Vibes",
+        "url": "https://open.spotify.com/album/3KbEXCBCtDk1gUIJrQirIA"
+      },
+      "artists": [
+        {
+          "name": "DJ Cam",
+          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
+        }
+      ],
+      "duration_ms": 312413,
+      "name": "Mad Blunted Jazz",
+      "url": "https://open.spotify.com/track/11mUt9hPLDxt7EsoYB2Ujc"
     },
     {
       "added_at": "2025-06-22 16:00:27",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-06-22 16:00:27",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3"
-    },
-    {
-      "added_at": "2025-06-22 16:00:27",
-      "album": {
         "name": "Live on Ice",
         "url": "https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 215999,
       "name": "Cheap Vacations (feat. Glassface)",
       "url": "https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP"
+    },
+    {
+      "added_at": "2025-06-22 16:00:27",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3"
     },
     {
       "added_at": "2025-06-22 16:00:27",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-06-22 16:00:27",
       "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw"
-      },
-      "artists": [
-        {
-          "name": "Sade Susanto",
-          "url": "https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3"
-        }
-      ],
-      "duration_ms": 158675,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/2HltyHR6c797UOdw42knuC"
-    },
-    {
-      "added_at": "2025-06-22 16:00:27",
-      "album": {
         "name": "walk but in a garden",
         "url": "https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 112500,
       "name": "walk but in a garden (with mxmtoon)",
       "url": "https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC"
+    },
+    {
+      "added_at": "2025-06-22 16:00:27",
+      "album": {
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw"
+      },
+      "artists": [
+        {
+          "name": "Sade Susanto",
+          "url": "https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3"
+        }
+      ],
+      "duration_ms": 158675,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/2HltyHR6c797UOdw42knuC"
     },
     {
       "added_at": "2025-06-22 16:00:27",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-06-22 16:00:27",
       "album": {
-        "name": "Take A Sip",
-        "url": "https://open.spotify.com/album/4spbnZknoM4B7n6I9MbYNG"
-      },
-      "artists": [
-        {
-          "name": "XIN LIU",
-          "url": "https://open.spotify.com/artist/3lxD7OESQHk5ESvrad8IGg"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "Take A Sip",
-      "url": "https://open.spotify.com/track/1Gk21dL0nKzuwjA34jOGs5"
-    },
-    {
-      "added_at": "2025-06-22 16:00:27",
-      "album": {
         "name": "Temporary",
         "url": "https://open.spotify.com/album/7yrx1Kt6FdZXw7CBuj24TF"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 124811,
       "name": "Temporary",
       "url": "https://open.spotify.com/track/2cRahCZ2Zg5J8AM49CsEv6"
+    },
+    {
+      "added_at": "2025-06-22 16:00:27",
+      "album": {
+        "name": "Take A Sip",
+        "url": "https://open.spotify.com/album/4spbnZknoM4B7n6I9MbYNG"
+      },
+      "artists": [
+        {
+          "name": "XIN LIU",
+          "url": "https://open.spotify.com/artist/3lxD7OESQHk5ESvrad8IGg"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "Take A Sip",
+      "url": "https://open.spotify.com/track/1Gk21dL0nKzuwjA34jOGs5"
     },
     {
       "added_at": "2025-06-22 16:00:27",
@@ -1683,22 +1683,38 @@
     {
       "added_at": "2025-06-22 16:00:27",
       "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
+        "name": "Acchordance",
+        "url": "https://open.spotify.com/album/3adRFNS6sAgApn9uuKDXYF"
       },
       "artists": [
         {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+          "name": "Doctor Flake",
+          "url": "https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK"
         },
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Malika",
+          "url": "https://open.spotify.com/artist/4kEd51gggillWwuzr1rpM6"
         }
       ],
-      "duration_ms": 316200,
-      "name": "Distractions",
-      "url": "https://open.spotify.com/track/4DGPON9kch3YXAzVsozF8R"
+      "duration_ms": 276154,
+      "name": "Lonely Road",
+      "url": "https://open.spotify.com/track/22W2hL07wNFLxoAceaEJkt"
+    },
+    {
+      "added_at": "2025-06-22 16:00:27",
+      "album": {
+        "name": "Don't Trust Myself",
+        "url": "https://open.spotify.com/album/2VOZerWeIVjsvO68fJAZ65"
+      },
+      "artists": [
+        {
+          "name": "Robinson",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+        }
+      ],
+      "duration_ms": 169434,
+      "name": "Don't Trust Myself",
+      "url": "https://open.spotify.com/track/1eiDjkNOwX9LeSkSAGCA5a"
     },
     {
       "added_at": "2025-06-22 16:00:27",
@@ -1715,22 +1731,6 @@
       "duration_ms": 190642,
       "name": "Drive",
       "url": "https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv"
-    },
-    {
-      "added_at": "2025-06-22 16:00:27",
-      "album": {
-        "name": "Headspace",
-        "url": "https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv"
-      },
-      "artists": [
-        {
-          "name": "liesl-mae",
-          "url": "https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0"
-        }
-      ],
-      "duration_ms": 187131,
-      "name": "Headspace",
-      "url": "https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

@@ -3904,7 +3904,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 197842,
       "name": "gImmE gImmE",
       "url": "https://open.spotify.com/track/4z9QQWXBmY9ARRmqWeAbjX"
@@ -5611,6 +5611,24 @@
     },
     {
       "album": {
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/26FVymIe0sDQUKpKxrKlNI"
+      },
+      "artists": [
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/0mYvq8m8AMsunXI7UVGC8R"
+    },
+    {
+      "album": {
         "name": "LaLaLa (Everybody's Up) [HEDEGAARD Edit]",
         "url": "https://open.spotify.com/album/428yRGYOE7yM4l7jBsZVwN"
       },
@@ -5674,7 +5692,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 156400,
       "name": "Late At Night",
       "url": "https://open.spotify.com/track/0sc94v4bi5XGSPSjjXK0Zh"
@@ -6870,7 +6888,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 160024,
       "name": "My Body (feat. Y&M)",
       "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
@@ -11441,6 +11459,32 @@
     },
     {
       "album": {
+        "name": "TWINKLE",
+        "url": "https://open.spotify.com/album/1wlXyNg9Mf7SHt1PmirLvi"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Matt Hawk",
+          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
+        },
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169141,
+      "name": "TWINKLE",
+      "url": "https://open.spotify.com/track/3jdBt6du0bbnOdvonxJgDr"
+    },
+    {
+      "album": {
         "name": "Under The Influence",
         "url": "https://open.spotify.com/album/6tYrC71bf7hsEqoyatM9cD"
       },
@@ -11842,6 +11886,36 @@
       "duration_ms": 118076,
       "name": "Where's Your Head At",
       "url": "https://open.spotify.com/track/7x2PN4mSDXz9SVZjucwzBg"
+    },
+    {
+      "album": {
+        "name": "White Lines",
+        "url": "https://open.spotify.com/album/0cefteG74jIUUaIiDmJ7WP"
+      },
+      "artists": [
+        {
+          "name": "DJ Kuba",
+          "url": "https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX"
+        },
+        {
+          "name": "Neitan",
+          "url": "https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG"
+        },
+        {
+          "name": "Adam De Great",
+          "url": "https://open.spotify.com/artist/1Z4FZB4BeiMb5JGoQ0QxkP"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167403,
+      "name": "White Lines",
+      "url": "https://open.spotify.com/track/0kT5PQD06NN3LYR8Besayz"
     },
     {
       "album": {

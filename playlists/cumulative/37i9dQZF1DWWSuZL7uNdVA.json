@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Robbie Williams au top des meilleurs morceaux rock du moment.",
+  "description": "Avril Lavigne & Simple Plan au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 222667,
       "name": "A Question Of You",
       "url": "https://open.spotify.com/track/5cmZ1viuOQc93xV7fYV5SV"
@@ -4574,7 +4574,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 292757,
       "name": "Prisoner of Beauty",
       "url": "https://open.spotify.com/track/5Yvhku4TRlkZ1AHJQFqthr"
@@ -6477,6 +6477,24 @@
     },
     {
       "album": {
+        "name": "Tyrants",
+        "url": "https://open.spotify.com/album/2J5LhXxCmpSFkg8OA3BLTW"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194760,
+      "name": "Tyrants",
+      "url": "https://open.spotify.com/track/7oTvcGyX0llNf9X3pFy8sd"
+    },
+    {
+      "album": {
         "name": "But Here We Are",
         "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
       },
@@ -6528,6 +6546,24 @@
       "duration_ms": 135831,
       "name": "Uno II",
       "url": "https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7"
+    },
+    {
+      "album": {
+        "name": "Unravelling",
+        "url": "https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238002,
+      "name": "Unravelling",
+      "url": "https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9"
     },
     {
       "album": {

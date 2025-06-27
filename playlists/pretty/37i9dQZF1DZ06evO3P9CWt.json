@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAACnl0my8bt/E30vF3Lm/4Pm",
+  "snapshot_id": "aFs8AAAAAACULH8+KFwvExK/AiLvW/fk",
   "tracks": [
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ba\u00fa da Taty 2, Pt. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1aSIovEpV6p1gt3LTqECJr"
-      },
-      "artists": [
-        {
-          "name": "Taty Girl",
-          "url": "https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 158664,
-      "name": "N\u00e3o \u00e9 Papel de Homem - Ao Vivo",
-      "url": "https://open.spotify.com/track/01a0s6oTQ1ZgmYCafcyu8I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quem Manda em Mim",
         "url": "https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 192000,
       "name": "Quem Manda em Mim",
       "url": "https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ba\u00fa da Taty 2, Pt. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1aSIovEpV6p1gt3LTqECJr"
+      },
+      "artists": [
+        {
+          "name": "Taty Girl",
+          "url": "https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 158664,
+      "name": "N\u00e3o \u00e9 Papel de Homem - Ao Vivo",
+      "url": "https://open.spotify.com/track/01a0s6oTQ1ZgmYCafcyu8I"
     },
     {
       "added_at": null,
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Noitada",
+        "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 168266,
+      "name": "Cadeado",
+      "url": "https://open.spotify.com/track/5jsCH1ydkfz1icE9BabgnZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ba\u00fa da Taty 2, Pt. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1aSIovEpV6p1gt3LTqECJr"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 163622,
       "name": "S\u00e3o Amores - Ao Vivo",
       "url": "https://open.spotify.com/track/3Sqo6EUQ7SSoDusy7C5oun"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Noitada",
-        "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 168266,
-      "name": "Cadeado",
-      "url": "https://open.spotify.com/track/5jsCH1ydkfz1icE9BabgnZ"
     },
     {
       "added_at": null,
@@ -1015,26 +1015,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmarElo - Ao Vivo",
-        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
       },
       "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
-        },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 338250,
-      "name": "AmarElo (Sample: Sujeito de Sorte - Belchior) - Ao Vivo",
-      "url": "https://open.spotify.com/track/7EMNOr4AZYSpSSkc8pGtzI"
+      "duration_ms": 179489,
+      "name": "\u00c2nsia",
+      "url": "https://open.spotify.com/track/3KgZPCgxOKqOeR5VEZXK43"
     }
   ],
   "unique_name": "This Is Pabllo Vittar",

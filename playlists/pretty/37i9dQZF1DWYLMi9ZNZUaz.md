@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,009 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,040 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 13 | [Simp Gái 808](https://open.spotify.com/track/5J3m0taZ0W1E9HTE0MwcSv) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Simp Gái 808](https://open.spotify.com/album/3FEwdWcv8XtzAH0Ks9zJDe) | 2:41 |
 | 14 | [nhắn nhủ](https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [nhắn nhủ](https://open.spotify.com/album/5KNYrzFkKcSl7wzRYRuFjE) | 4:01 |
 | 15 | [Yêu 5](https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS) | [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Yêu 5](https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr) | 4:00 |
-| 16 | [Don't Côi](https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy) | [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Don't Côi](https://open.spotify.com/album/2gaxwzgOYY6DxVicv6EGkC) | 2:28 |
+| 16 | [Anh Muốn Nhìn Thấy Em](https://open.spotify.com/track/5VGOYjxkEaf19LoRPIolD2) | [The Wind](https://open.spotify.com/artist/5mPRDRL2rclNaPJXOg56Jy), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI) | [Anh Muốn Nhìn Thấy Em](https://open.spotify.com/album/09A5RmcHovgfGOrvjwVpQI) | 3:32 |
 | 17 | [Hà Nội \(ft\. VSTRA\)](https://open.spotify.com/track/0SLhB9JLM4Ksz1XdwK3aQD) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 2:45 |
 | 18 | [Khi 22](https://open.spotify.com/track/6BrkVzB76maKNqcryCmd1c) | [Ricky Star](https://open.spotify.com/artist/4jQZaxfgwiUJFQagCyZNV4), [Blacka](https://open.spotify.com/artist/0JggLWdYe1p6oHZoHpyPSD) | [ĐÔI CHÂN ĐI](https://open.spotify.com/album/5RqSAt1rbN0shxXTcZkWRs) | 4:08 |
 | 19 | [NGỰA Ô](https://open.spotify.com/track/4eeflgjzTF8xN8U2E0dech) | [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [DONAL](https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ) | [NGỰA Ô](https://open.spotify.com/album/0gkv4yJzOP4UG19rm8lumW) | 3:35 |
 | 20 | [Ăn Chốt](https://open.spotify.com/track/6zqwcXPcU7hlHr1i4J8I98) | [gung0cay](https://open.spotify.com/artist/1Z3xp9Er70GeoUjeB77vJc), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d) | [Ngu Ngơ](https://open.spotify.com/album/3UCRYgx5G2eKVkGXmJ02pc) | 3:19 |
 | 21 | [Anh Chỉ Muốn](https://open.spotify.com/track/2n00rcPaXcWfFB9irOKOmh) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Anh Chỉ Muốn](https://open.spotify.com/album/2aAbN7CoNfmQaeCAXnPMFf) | 2:47 |
-| 22 | [Anh Muốn Nhìn Thấy Em](https://open.spotify.com/track/5VGOYjxkEaf19LoRPIolD2) | [The Wind](https://open.spotify.com/artist/5mPRDRL2rclNaPJXOg56Jy), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI) | [Anh Muốn Nhìn Thấy Em](https://open.spotify.com/album/09A5RmcHovgfGOrvjwVpQI) | 3:32 |
+| 22 | [Don't Côi](https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy) | [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Don't Côi](https://open.spotify.com/album/2gaxwzgOYY6DxVicv6EGkC) | 2:28 |
 | 23 | [Anh Đã Ổn Hơn](https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 3:14 |
 | 24 | [Lối Sống](https://open.spotify.com/track/457sdcnHnv9zqMfLT6OGLn) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 3:10 |
 | 25 | [Trở Về](https://open.spotify.com/track/0oL2jCTf9P9a7flY5mCpYu) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 3:14 |

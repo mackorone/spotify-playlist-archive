@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,612 likes - 50 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,624 likes - 50 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 49 | [Questions \(feat\. Todd Galberth\)](https://open.spotify.com/track/1ZEaMn36IKUNFAaXPMYww8) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Song House](https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf), [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW) | [MAVHOUSE](https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g) | 3:25 |
 | 50 | [Mi Oración \(La Niña de Tus Ojos\) \[feat\. Melody Adorno\]](https://open.spotify.com/track/7HPGVjYp7NmIEcfhPwgUB1) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Melody Adorno](https://open.spotify.com/artist/43nq5HoQm5caEU9SCaO67o) | [Simple Adoración](https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk) | 8:35 |
 
-Snapshot ID: `aFnqgAAAAACSKaR+TsOS46xPYxQQxlea`
+Snapshot ID: `aFs8AAAAAADoSHx3e6UxW/gyYvunqRnF`

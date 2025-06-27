@@ -1,12 +1,12 @@
 {
   "description": "This is Rodr\u00edguez. The essential tracks, all in one playlist.",
-  "num_followers": 41999,
+  "num_followers": 42000,
   "original_name": "This Is Rodr\u00edguez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAAA9R2JDIiJqvrcFDWBJNQF7",
+  "snapshot_id": "aFs8AAAAAADlLIhHJ9zucqVYFn8O2hjg",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,26 @@
       "duration_ms": 124653,
       "name": "Silver Words?",
       "url": "https://open.spotify.com/track/6bJJZt7goGbiTChohY5D6z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "QMusic Top 500 van de 90's",
+        "url": "https://open.spotify.com/album/6aCPo37uj2guJ8BAiW4RJB"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "duration_ms": 211920,
+      "name": "Ecuador (feat. Rodriguez) - Single Mix",
+      "url": "https://open.spotify.com/track/0e3vnSO6QNZtqtWgwPwQip"
     },
     {
       "added_at": null,

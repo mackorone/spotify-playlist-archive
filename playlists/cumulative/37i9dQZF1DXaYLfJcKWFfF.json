@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Obongjayar",
+  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Lagos in Paris",
   "name": "Afro Indie",
   "tracks": [
     {
@@ -1028,6 +1028,28 @@
       "duration_ms": 306464,
       "name": "Fallo Fall",
       "url": "https://open.spotify.com/track/04BumdOBKWl5LcGkUAMZTU"
+    },
+    {
+      "album": {
+        "name": "Faya",
+        "url": "https://open.spotify.com/album/43ohjP5OkrsrlmewjaDkqk"
+      },
+      "artists": [
+        {
+          "name": "LAGOS IN PARIS",
+          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
+        },
+        {
+          "name": "Ayisi",
+          "url": "https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236080,
+      "name": "Faya",
+      "url": "https://open.spotify.com/track/6bS5s8LrmKI5ZV7RxyFmlm"
     },
     {
       "album": {
@@ -3002,7 +3024,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 262057,
       "name": "People Don't Stop",
       "url": "https://open.spotify.com/track/2RhGqawopVGPm7tsPekplT"

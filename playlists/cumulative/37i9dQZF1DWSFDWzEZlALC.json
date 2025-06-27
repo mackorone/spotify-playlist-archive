@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Paula Engels",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Dilla",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -1804,7 +1804,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 110896,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/0k5rxeLt6sECi6Qi2YFoBX"
@@ -2734,7 +2734,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 152907,
       "name": "Blaue Augen",
       "url": "https://open.spotify.com/track/4jG4rGxEMwNGOTltNPSxYx"
@@ -3110,6 +3110,24 @@
       "duration_ms": 136700,
       "name": "Blumenregen",
       "url": "https://open.spotify.com/track/1i74FVQ9rPwW9fpE3dnIGz"
+    },
+    {
+      "album": {
+        "name": "BODEN MEINER STADT EP",
+        "url": "https://open.spotify.com/album/2MqaemosJaB0ddjMC2m2rC"
+      },
+      "artists": [
+        {
+          "name": "Rex",
+          "url": "https://open.spotify.com/artist/4oZpEOsCD2du75K8BadPSY"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131202,
+      "name": "boden meiner stadt",
+      "url": "https://open.spotify.com/track/1unJz1PIu1M6kAkQ9OiTE1"
     },
     {
       "album": {
@@ -4186,7 +4204,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 148335,
       "name": "Dein Problem",
       "url": "https://open.spotify.com/track/31NC7l105DItxREcfwPDnV"
@@ -5277,6 +5295,24 @@
     },
     {
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/2Wp9NXUnTguV7JwX7NR8gO"
+      },
+      "artists": [
+        {
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160457,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/38kyUaEzbBm3dv86WYORjS"
+    },
+    {
+      "album": {
         "name": "Don't grow up (it's a trap)",
         "url": "https://open.spotify.com/album/7wfLhaSIVv5dXwnnKvEGTf"
       },
@@ -6220,7 +6256,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 185179,
       "name": "es tut weh",
       "url": "https://open.spotify.com/track/5Id40ks3QNsSn3Pffw10vZ"
@@ -6278,6 +6314,24 @@
       "duration_ms": 180525,
       "name": "Etwas Neues beginnt",
       "url": "https://open.spotify.com/track/7LbRCCUHkWEc7tyDP7h1uz"
+    },
+    {
+      "album": {
+        "name": "ewig her",
+        "url": "https://open.spotify.com/album/1OTFYNVQg1GMvBXgtCzOp4"
+      },
+      "artists": [
+        {
+          "name": "JUDI&COCHO",
+          "url": "https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194560,
+      "name": "ewig her",
+      "url": "https://open.spotify.com/track/0QJZdVqyr4jX6WMHtrbXaa"
     },
     {
       "album": {
@@ -7119,6 +7173,24 @@
     },
     {
       "album": {
+        "name": "frei wie noch nie",
+        "url": "https://open.spotify.com/album/0Rd8jzR1b7DlgQcHijChIG"
+      },
+      "artists": [
+        {
+          "name": "TOBIAS",
+          "url": "https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166795,
+      "name": "frei wie noch nie",
+      "url": "https://open.spotify.com/track/7pGbFAXAriazGETcIzWFpG"
+    },
+    {
+      "album": {
         "name": "freier fall",
         "url": "https://open.spotify.com/album/5KUqQkMQVBolCpoJaAXW3D"
       },
@@ -7922,10 +7994,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 182199,
       "name": "Geld",
       "url": "https://open.spotify.com/track/0IW1q8WdeZCxlL9SH0xrAz"
+    },
+    {
+      "album": {
+        "name": "gelesen verlassen",
+        "url": "https://open.spotify.com/album/5EaSt5WTAmvlLyvDv2aTV0"
+      },
+      "artists": [
+        {
+          "name": "herbst",
+          "url": "https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188219,
+      "name": "gelesen verlassen",
+      "url": "https://open.spotify.com/track/1egjMsXdJ44ELxm4V5XkJQ"
     },
     {
       "album": {
@@ -8768,7 +8858,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 177359,
       "name": "Haus am Strand",
       "url": "https://open.spotify.com/track/7pug6cXur9NuSXfYkBcJbd"
@@ -9551,6 +9641,24 @@
     },
     {
       "album": {
+        "name": "Ich frag mich",
+        "url": "https://open.spotify.com/album/1j6Um50KAGT9d4NYFeIWZa"
+      },
+      "artists": [
+        {
+          "name": "skuth",
+          "url": "https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Ich frag mich",
+      "url": "https://open.spotify.com/track/2lQFgSWyB2ZKCFhAckE5FV"
+    },
+    {
+      "album": {
         "name": "Ich f\u00fchl alles",
         "url": "https://open.spotify.com/album/0UVl5ZvXuisLNeyMKj2IwA"
       },
@@ -9954,7 +10062,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 204800,
       "name": "Ich werde gelebt haben",
       "url": "https://open.spotify.com/track/61d7ucGrYIoLmVYzjokJYM"
@@ -10935,6 +11043,24 @@
     },
     {
       "album": {
+        "name": "Kaleidoskop",
+        "url": "https://open.spotify.com/album/0JvJMDsMsCwqgCDK4JDrJv"
+      },
+      "artists": [
+        {
+          "name": "CONNY",
+          "url": "https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138897,
+      "name": "Kaleidoskop",
+      "url": "https://open.spotify.com/track/5oIfb2EYBA9mKifC7RlpnM"
+    },
+    {
+      "album": {
         "name": "Kalender",
         "url": "https://open.spotify.com/album/5mgzmuiuNqfDp491jepoBJ"
       },
@@ -11254,7 +11380,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 149870,
       "name": "Kein Plan was Liebe ist",
       "url": "https://open.spotify.com/track/5cv1YnIgf2JNHmilYaYq1s"
@@ -13695,6 +13821,24 @@
     },
     {
       "album": {
+        "name": "Mein sch\u00f6nstes Kleid",
+        "url": "https://open.spotify.com/album/74TPidIDXSIp7Fq4hcVeW0"
+      },
+      "artists": [
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164413,
+      "name": "Mein sch\u00f6nstes Kleid",
+      "url": "https://open.spotify.com/track/7CJFf6MhxIPd1UAEb3J0v3"
+    },
+    {
+      "album": {
         "name": "Mein Sohn",
         "url": "https://open.spotify.com/album/02l0zeoR8JjQwm9JAbHoMe"
       },
@@ -14115,6 +14259,24 @@
     },
     {
       "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/5yWCQzEieyTdAkNZjEhF0q"
+      },
+      "artists": [
+        {
+          "name": "fyne",
+          "url": "https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201173,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/7BiS3n0pLB3ls0Oqj2Awss"
+    },
+    {
+      "album": {
         "name": "Montag",
         "url": "https://open.spotify.com/album/0XhoOk9IsZJl2flKOgfg5j"
       },
@@ -14332,7 +14494,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 155548,
       "name": "M\u00e4nner am Meer",
       "url": "https://open.spotify.com/track/50jPht9xnPxhJdPXWc7Skd"
@@ -16168,7 +16330,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 143046,
       "name": "PS.",
       "url": "https://open.spotify.com/track/4rhaKxD2QfFfoBAp06TH1l"
@@ -16248,6 +16410,24 @@
       "duration_ms": 143043,
       "name": "Randali",
       "url": "https://open.spotify.com/track/7x76MsHLcWQ4rLlHVkT7yw"
+    },
+    {
+      "album": {
+        "name": "Rasendes Herz",
+        "url": "https://open.spotify.com/album/5UWi7JLOlx3WUUINhbJTYk"
+      },
+      "artists": [
+        {
+          "name": "ok.danke.tsch\u00fcss",
+          "url": "https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247413,
+      "name": "Rasendes Herz",
+      "url": "https://open.spotify.com/track/29eXnzxpENGrWcMwc36eGN"
     },
     {
       "album": {
@@ -16841,6 +17021,24 @@
     },
     {
       "album": {
+        "name": "Rotweinlippen",
+        "url": "https://open.spotify.com/album/7b0dm1Dw3YKWjVkVCWlH2q"
+      },
+      "artists": [
+        {
+          "name": "FREDRIK",
+          "url": "https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209021,
+      "name": "Rotweinlippen",
+      "url": "https://open.spotify.com/track/3eUP4xUuEDZnuioOERvC0r"
+    },
+    {
+      "album": {
         "name": "Roxanne",
         "url": "https://open.spotify.com/album/2JzkTL1Sp5IkcqpwBMjuod"
       },
@@ -17326,7 +17524,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 172549,
       "name": "Schlalalafen",
       "url": "https://open.spotify.com/track/7xszxxMBk5CPOn0lsk02l3"
@@ -17460,6 +17658,28 @@
       "duration_ms": 138963,
       "name": "Schritt f\u00fcr Schritt",
       "url": "https://open.spotify.com/track/3uQFTCi3SuEdBO5MEZLYhz"
+    },
+    {
+      "album": {
+        "name": "Schrott",
+        "url": "https://open.spotify.com/album/23R2IRtqMtkUze6KXNsbNh"
+      },
+      "artists": [
+        {
+          "name": "Alli Neumann",
+          "url": "https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh"
+        },
+        {
+          "name": "Fuffifufzich",
+          "url": "https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150652,
+      "name": "Schrott",
+      "url": "https://open.spotify.com/track/1Rq4CScw3JNSn9FeS5ixpK"
     },
     {
       "album": {
@@ -19378,7 +19598,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 178973,
       "name": "stunts",
       "url": "https://open.spotify.com/track/14GtWdDAvZsi0q0J9nmUh4"
@@ -21324,10 +21544,28 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 166285,
       "name": "Vielleicht",
       "url": "https://open.spotify.com/track/6SdNtgmRMqLORL388GtIw4"
+    },
+    {
+      "album": {
+        "name": "Vielleicht",
+        "url": "https://open.spotify.com/album/0S0c2Zud4eGgUOtJyKjTPK"
+      },
+      "artists": [
+        {
+          "name": "Jonny Mahoro",
+          "url": "https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "Vielleicht",
+      "url": "https://open.spotify.com/track/3Lv12k5Wg80e41i9Xwdc1X"
     },
     {
       "album": {
@@ -21570,6 +21808,24 @@
       "duration_ms": 167662,
       "name": "wach",
       "url": "https://open.spotify.com/track/2WEjGIRQeAAlHktRdZUjfN"
+    },
+    {
+      "album": {
+        "name": "Wachstumsschmerzen",
+        "url": "https://open.spotify.com/album/0E13QRKmzco6XVMNh72LSL"
+      },
+      "artists": [
+        {
+          "name": "Akryl",
+          "url": "https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194875,
+      "name": "Wachstumsschmerzen",
+      "url": "https://open.spotify.com/track/0TqphWNI5JXSZOGhLB50a8"
     },
     {
       "album": {
@@ -22952,7 +23208,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 153200,
       "name": "wir heben ab",
       "url": "https://open.spotify.com/track/0rDPHtQHu7a0s3Z6yyb6vL"

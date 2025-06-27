@@ -2,9 +2,9 @@
 
 ### [Ginger Me](https://open.spotify.com/playlist/37i9dQZF1DX0SlHbqMm3vJ)
 
-> A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Yemi Alade
+> A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Gabzy & Fireboy DML
 
-784 songs - 1 day 14 hr 30 min
+785 songs - 1 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,7 +490,7 @@
 | [My Baby](https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Baby](https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2) | 3:10 | 2023-02-16 | 2023-09-15 |
 | [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 | 2024-05-17 | 2025-04-08 |
 | [My Only Baby](https://open.spotify.com/track/6ZF8NhfpndsCZeCW20i3AH) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [My Only Baby](https://open.spotify.com/album/0eWaXC5Yxcwjf4ieDMFUI9) | 2:38 | 2023-01-12 | 2023-03-11 |
-| [My Padi](https://open.spotify.com/track/4v3r8Qo2urOchL0HVZbBQn) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [My Padi](https://open.spotify.com/album/1EH9dIlkJeLraZsLBx2oWw) | 2:34 | 2025-06-20 |  |
+| [My Padi](https://open.spotify.com/track/4v3r8Qo2urOchL0HVZbBQn) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [My Padi](https://open.spotify.com/album/1EH9dIlkJeLraZsLBx2oWw) | 2:34 | 2025-06-20 | 2025-06-27 |
 | [myfavourite.mp3](https://open.spotify.com/track/6GWhGNVv8OveWv7WK0sd0l) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [the gift](https://open.spotify.com/album/7L2PvlXP8x4sGGmXDf46LV) | 2:31 | 2025-02-21 | 2025-02-28 |
 | [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 | 2022-05-19 | 2022-07-30 |
 | [NEED ME](https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [NEED ME](https://open.spotify.com/album/0TTExlXyOA6Du5EF6T4T2e) | 3:12 | 2021-10-14 | 2023-04-28 |
@@ -647,6 +647,7 @@
 | [Smooth Kriminal \(with Oxlade\)](https://open.spotify.com/track/39C3UVMIaU6XOm9iN6fhgg) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Smooth Kriminal \(with Oxlade\)](https://open.spotify.com/album/02kUmkf49XAPOWhwFF3lmt) | 2:53 | 2025-06-13 |  |
 | [Snapchat](https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave](https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD) | 3:26 | 2021-11-25 | 2022-02-25 |
 | [So Bad](https://open.spotify.com/track/0ed1N5H2xW64WEmRjF2ONv) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [So Bad](https://open.spotify.com/album/5RWXh09si3FvJUE5RSH87k) | 3:17 | 2021-12-02 | 2023-03-18 |
+| [So Much Sense](https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [So Much Sense](https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V) | 2:48 | 2025-06-27 |  |
 | [Soak Garri](https://open.spotify.com/track/3Rs0WjvcDSIbk5mx353yiQ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Soak Garri](https://open.spotify.com/album/4cDi3B2orh2LGvxnCIgSjK) | 3:31 | 2023-06-02 | 2023-06-14 |
 | [Soft Life](https://open.spotify.com/track/1BbD9IQf55q0jwZwdCF7cZ) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Chinko Ekun](https://open.spotify.com/artist/5jfQBS0O6dR6axaz0BGMgs) | [Soft Life](https://open.spotify.com/album/3Q03NHEHcLV4Omb7cacqUL) | 2:51 | 2022-06-03 | 2022-07-29 |
 | [Softies Vibe](https://open.spotify.com/track/45gohzfD4mrYZgVRkkNSRE) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Angel On The Run](https://open.spotify.com/album/2T574vuC96N9WW0bpIQzcR) | 2:45 | 2023-06-16 | 2023-12-08 |

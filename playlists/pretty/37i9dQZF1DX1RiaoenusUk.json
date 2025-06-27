@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 32536,
+  "num_followers": 32550,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -947,6 +947,22 @@
     {
       "added_at": "2025-06-13 11:45:49",
       "album": {
+        "name": "Clover",
+        "url": "https://open.spotify.com/album/5BPFjfOxGzEo7z8Ttd9g31"
+      },
+      "artists": [
+        {
+          "name": "Cami Brooks",
+          "url": "https://open.spotify.com/artist/0umsL7xYMs6A9SOaarE93x"
+        }
+      ],
+      "duration_ms": 226871,
+      "name": "Clover",
+      "url": "https://open.spotify.com/track/5po0wdASiFRcFUXydOEKye"
+    },
+    {
+      "added_at": "2025-06-13 11:45:49",
+      "album": {
         "name": "Groovin' Bohemia",
         "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
       },
@@ -963,6 +979,22 @@
     {
       "added_at": "2025-06-13 11:45:49",
       "album": {
+        "name": "Sepia",
+        "url": "https://open.spotify.com/album/7n8DQxmEU59eGsqK89zqaE"
+      },
+      "artists": [
+        {
+          "name": "Ekath\u00e9",
+          "url": "https://open.spotify.com/artist/2QodtlX1l4FWXEETTWtLvz"
+        }
+      ],
+      "duration_ms": 326661,
+      "name": "Sepia",
+      "url": "https://open.spotify.com/track/5tNssisrG10u3i8M2tuK8X"
+    },
+    {
+      "added_at": "2025-06-13 11:45:49",
+      "album": {
         "name": "One Night",
         "url": "https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P"
       },
@@ -975,6 +1007,22 @@
       "duration_ms": 274102,
       "name": "One Night",
       "url": "https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby"
+    },
+    {
+      "added_at": "2025-06-13 11:45:49",
+      "album": {
+        "name": "Los Funktasticos Genitales",
+        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 236858,
+      "name": "Alergica",
+      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
     },
     {
       "added_at": "2025-06-13 11:45:49",
@@ -999,54 +1047,6 @@
       "duration_ms": 173112,
       "name": "Volverte a Ver",
       "url": "https://open.spotify.com/track/5eFwMCx6eYjMxMKIv0wYXL"
-    },
-    {
-      "added_at": "2025-06-13 11:45:49",
-      "album": {
-        "name": "Los Funktasticos Genitales",
-        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 236858,
-      "name": "Alergica",
-      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
-    },
-    {
-      "added_at": "2025-06-13 11:45:49",
-      "album": {
-        "name": "Clover",
-        "url": "https://open.spotify.com/album/5BPFjfOxGzEo7z8Ttd9g31"
-      },
-      "artists": [
-        {
-          "name": "Cami Brooks",
-          "url": "https://open.spotify.com/artist/0umsL7xYMs6A9SOaarE93x"
-        }
-      ],
-      "duration_ms": 226871,
-      "name": "Clover",
-      "url": "https://open.spotify.com/track/5po0wdASiFRcFUXydOEKye"
-    },
-    {
-      "added_at": "2025-06-13 11:45:49",
-      "album": {
-        "name": "Sepia",
-        "url": "https://open.spotify.com/album/7n8DQxmEU59eGsqK89zqaE"
-      },
-      "artists": [
-        {
-          "name": "Ekath\u00e9",
-          "url": "https://open.spotify.com/artist/2QodtlX1l4FWXEETTWtLvz"
-        }
-      ],
-      "duration_ms": 326661,
-      "name": "Sepia",
-      "url": "https://open.spotify.com/track/5tNssisrG10u3i8M2tuK8X"
     },
     {
       "added_at": "2025-06-13 11:45:49",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-06-13 11:45:49",
       "album": {
+        "name": "Aeronave",
+        "url": "https://open.spotify.com/album/4cNSHBJGh8w2xfEpSnoJ5s"
+      },
+      "artists": [
+        {
+          "name": "Aeronave",
+          "url": "https://open.spotify.com/artist/16E1xP8EmdxO16UHGeRQG7"
+        }
+      ],
+      "duration_ms": 355506,
+      "name": "Aeronave",
+      "url": "https://open.spotify.com/track/5tcINAPrFrvnFbIuR67xNI"
+    },
+    {
+      "added_at": "2025-06-13 11:45:49",
+      "album": {
         "name": "Los Funktasticos Genitales",
         "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 246910,
       "name": "en m\u00ed",
       "url": "https://open.spotify.com/track/2U6ANiDunDYjHwFw8SY1Ff"
-    },
-    {
-      "added_at": "2025-06-13 11:45:49",
-      "album": {
-        "name": "Aeronave",
-        "url": "https://open.spotify.com/album/4cNSHBJGh8w2xfEpSnoJ5s"
-      },
-      "artists": [
-        {
-          "name": "Aeronave",
-          "url": "https://open.spotify.com/artist/16E1xP8EmdxO16UHGeRQG7"
-        }
-      ],
-      "duration_ms": 355506,
-      "name": "Aeronave",
-      "url": "https://open.spotify.com/track/5tcINAPrFrvnFbIuR67xNI"
     },
     {
       "added_at": "2025-06-13 11:45:49",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-06-13 11:45:49",
       "album": {
-        "name": "Ya Lo Estoy Deseando",
-        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 202591,
-      "name": "C\u00f3mo",
-      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
-    },
-    {
-      "added_at": "2025-06-13 11:45:49",
-      "album": {
         "name": "Env\u00e9s",
         "url": "https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 378213,
       "name": "Maybe I'm Leo",
       "url": "https://open.spotify.com/track/7gqKNXv1P6oN0KAXnjxsLW"
+    },
+    {
+      "added_at": "2025-06-13 11:45:49",
+      "album": {
+        "name": "Ya Lo Estoy Deseando",
+        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 202591,
+      "name": "C\u00f3mo",
+      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
     },
     {
       "added_at": "2025-06-13 11:45:49",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-06-13 11:45:49",
       "album": {
-        "name": "Super 8",
-        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
-      },
-      "artists": [
-        {
-          "name": "Goro Wins",
-          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Traffic (Groovin' de bondi)",
-      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
-    },
-    {
-      "added_at": "2025-06-13 11:45:49",
-      "album": {
         "name": "Ac\u00e9rcame a Tu Piel",
         "url": "https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 248832,
       "name": "Ac\u00e9rcame a Tu Piel",
       "url": "https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv"
+    },
+    {
+      "added_at": "2025-06-13 11:45:49",
+      "album": {
+        "name": "Super 8",
+        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
+      },
+      "artists": [
+        {
+          "name": "Goro Wins",
+          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Traffic (Groovin' de bondi)",
+      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
     },
     {
       "added_at": "2025-06-13 11:45:49",
@@ -1439,54 +1439,6 @@
     {
       "added_at": "2025-06-13 11:45:49",
       "album": {
-        "name": "Get Porn",
-        "url": "https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh"
-      },
-      "artists": [
-        {
-          "name": "Free Anguila",
-          "url": "https://open.spotify.com/artist/63si21bSlLuxWVfuhdzoEN"
-        }
-      ],
-      "duration_ms": 343362,
-      "name": "Get Porn",
-      "url": "https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D"
-    },
-    {
-      "added_at": "2025-06-13 11:45:49",
-      "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
-      },
-      "artists": [
-        {
-          "name": "De La Rivera",
-          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
-        }
-      ],
-      "duration_ms": 210796,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
-    },
-    {
-      "added_at": "2025-06-13 11:45:49",
-      "album": {
-        "name": "Tangible",
-        "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
-      },
-      "artists": [
-        {
-          "name": "Jasper",
-          "url": "https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG"
-        }
-      ],
-      "duration_ms": 315922,
-      "name": "Beast in You",
-      "url": "https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9"
-    },
-    {
-      "added_at": "2025-06-13 11:45:49",
-      "album": {
         "name": "Nada Ser\u00eda Igual",
         "url": "https://open.spotify.com/album/7w5eoI6jwqmr4DfNM8B5zw"
       },
@@ -1519,6 +1471,54 @@
       "duration_ms": 210566,
       "name": "Solo por Hoy",
       "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
+    },
+    {
+      "added_at": "2025-06-13 11:45:49",
+      "album": {
+        "name": "Tangible",
+        "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
+      },
+      "artists": [
+        {
+          "name": "Jasper",
+          "url": "https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG"
+        }
+      ],
+      "duration_ms": 315922,
+      "name": "Beast in You",
+      "url": "https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9"
+    },
+    {
+      "added_at": "2025-06-13 11:45:49",
+      "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
+      },
+      "artists": [
+        {
+          "name": "De La Rivera",
+          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
+        }
+      ],
+      "duration_ms": 210796,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
+    },
+    {
+      "added_at": "2025-06-13 11:45:49",
+      "album": {
+        "name": "Get Porn",
+        "url": "https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh"
+      },
+      "artists": [
+        {
+          "name": "Free Anguila",
+          "url": "https://open.spotify.com/artist/63si21bSlLuxWVfuhdzoEN"
+        }
+      ],
+      "duration_ms": 343362,
+      "name": "Get Porn",
+      "url": "https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D"
     },
     {
       "added_at": "2025-06-13 11:45:49",

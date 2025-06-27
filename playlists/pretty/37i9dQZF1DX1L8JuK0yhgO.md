@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,892 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,895 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 46 | [Sweet Home](https://open.spotify.com/track/4DvV7uAWihhq4qy7h6KFAQ) | [Dopein](https://open.spotify.com/artist/3Ad2aAlqtVBScdhET9ZPwt), [KIHU](https://open.spotify.com/artist/1II4N4IZcSoJqEen1La1dd) | [Sweet Home](https://open.spotify.com/album/72VsWj5QYcz9tekOqYhtop) | 2:23 |
 | 47 | [Dream Hacker \(feat\. Park Soeun\)](https://open.spotify.com/track/0sVoT3puMSO5d4ZImGo3XG) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB), [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [Dream Hacker \(feat\. Park Soeun\)](https://open.spotify.com/album/2HFyY8ZFo4tDK3Pbj4a0R2) | 3:48 |
 | 48 | [happy](https://open.spotify.com/track/6LUwzeiiPlUXQEO6Ke8sEt) | [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [happy](https://open.spotify.com/album/308X7VnHvLw6VLfWL1jgfD) | 3:15 |
-| 49 | [Remember!](https://open.spotify.com/track/5sCTxH9gFewWJCFJQRzNzq) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Remember!](https://open.spotify.com/album/1pkh8XlmejFjGDICQRDHJb) | 3:32 |
+| 49 | [Remember!](https://open.spotify.com/track/5sCTxH9gFewWJCFJQRzNzq) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Remember!](https://open.spotify.com/album/1pkh8XlmejFjGDICQRDHJb) | 3:31 |
 | 50 | [雪屋 / IGLOOOO \(feat\. moon tang\)](https://open.spotify.com/track/2ASxsbMkLUFglyhqZ5EXOK) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [Same Stories, Different Narratives](https://open.spotify.com/album/0r2OL5wdLUFAetMaihWFoZ) | 4:48 |
 | 51 | [Blur](https://open.spotify.com/track/6uoksVrNY1sJRSGPwbZS8O) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Yokkorio](https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg) | [Blur](https://open.spotify.com/album/7dGGUywMPNHdKpLJpoljuO) | 4:09 |
 | 52 | [925](https://open.spotify.com/track/11j072cBxwJLzYILcdKwSP) | [tyne](https://open.spotify.com/artist/0Te4G2ywwvU0lgsOjkIj29) | [925](https://open.spotify.com/album/4wZ4XusIIfSWRjDlRL5l6U) | 3:05 |

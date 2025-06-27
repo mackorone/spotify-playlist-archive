@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125238,
+  "num_followers": 125239,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUPxEU0Yp0FCzWZG5UgFXE6W+GvxCX",
+  "snapshot_id": "AAAUQHrvr+0QDL6yQ04DqPDP1V/vVqn1",
   "tracks": [
+    {
+      "added_at": "2025-06-26 13:23:44",
+      "album": {
+        "name": "never mine",
+        "url": "https://open.spotify.com/album/4M3yKgmuuIRtstbx40GJel"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "BKAYE",
+          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+        }
+      ],
+      "duration_ms": 170909,
+      "name": "never mine",
+      "url": "https://open.spotify.com/track/1fNFVjK6tIpDNwUA0QucXI"
+    },
     {
       "added_at": "2025-06-25 14:05:14",
       "album": {

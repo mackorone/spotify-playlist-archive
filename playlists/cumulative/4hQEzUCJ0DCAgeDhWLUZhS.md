@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-513 songs - 1 day 6 hr 5 min
+514 songs - 1 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [Rebellion](https://open.spotify.com/track/2vAHaeRao9MnplV6iMgDoP) | [Tumbleweed](https://open.spotify.com/artist/2w4WMdg6Y7KE43OebGxO1r) | [Rebellion](https://open.spotify.com/album/6fnVdLPeorhz9lT5Za4gzb) | 3:47 | 2020-11-20 | 2022-03-18 |
 | [Reckless Paradise](https://open.spotify.com/track/3hjCqnOScnTmhv2Xvvv8Mq) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Reckless Paradise](https://open.spotify.com/album/1zYdvy9dnTxx75KLhqZ9xD) | 3:24 | 2020-10-10\* | 2021-05-13 |
 | [Regret Me](https://open.spotify.com/track/3l5qEpePfGDv6ZFYWRNNtq) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 3:16 | 2023-03-08 | 2025-06-04 |
+| [Rejects](https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Rejects](https://open.spotify.com/album/78grezRlmscONkCdIIvkQa) | 2:54 | 2025-06-26 |  |
 | [Remote Control](https://open.spotify.com/track/5IsB2kShsBfmHZcXqcFB7Y) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [Remote Control](https://open.spotify.com/album/4DuPTIodLTC82Llh8k3Cwg) | 2:41 | 2021-02-26 | 2022-03-18 |
 | [Resentment](https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Resentment](https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO) | 3:47 | 2021-02-25 | 2022-03-18 |
 | [Rock N Roller](https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Rock N Roller](https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K) | 3:43 | 2024-06-07 | 2025-06-04 |

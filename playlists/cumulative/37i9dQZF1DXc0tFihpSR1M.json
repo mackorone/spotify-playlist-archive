@@ -1477,6 +1477,28 @@
     },
     {
       "album": {
+        "name": "Fineste Dama P\u00e5 Utestedet",
+        "url": "https://open.spotify.com/album/7pU45MsJfs2xoqC34wPKeV"
+      },
+      "artists": [
+        {
+          "name": "Vidar Villa",
+          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+        },
+        {
+          "name": "B\u00f8lgen",
+          "url": "https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164603,
+      "name": "Fineste Dama P\u00e5 Utestedet",
+      "url": "https://open.spotify.com/track/0VJAnLZlBHZIPsRcBW3kSw"
+    },
+    {
+      "album": {
         "name": "For Cryin' Out Loud!",
         "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
       },
@@ -2206,7 +2228,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-24",
+      "date_removed": null,
       "duration_ms": 198172,
       "name": "High Fashion",
       "url": "https://open.spotify.com/track/3m1LiSq0rio8k0yYlusWxV"
@@ -2224,7 +2246,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 179183,
       "name": "Hold ut",
       "url": "https://open.spotify.com/track/6b1I45GG5aaC5Wa25dRr5A"
@@ -2412,7 +2434,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 172181,
       "name": "Hundred Mile High",
       "url": "https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s"
@@ -3336,6 +3358,24 @@
       "duration_ms": 179586,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+    },
+    {
+      "album": {
+        "name": "Lys p\u00e5 mig",
+        "url": "https://open.spotify.com/album/3WzL7EQg84unvvF8q3Cq5M"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159346,
+      "name": "Lys p\u00e5 mig",
+      "url": "https://open.spotify.com/track/3kbNesyQPnUreP6bD7aADS"
     },
     {
       "album": {
@@ -5156,7 +5196,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 155706,
       "name": "Tiptoes",
       "url": "https://open.spotify.com/track/4xEB0FMkEGNf9wFOqEqO3C"
@@ -5250,7 +5290,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 166291,
       "name": "Toscana",
       "url": "https://open.spotify.com/track/7rQxgwpo7sS77Yv0oVYG81"
@@ -5446,7 +5486,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 212500,
       "name": "VESTKANTKLASSIKEREN",
       "url": "https://open.spotify.com/track/0CLp3oQhUJJmHQMDG4Gusk"

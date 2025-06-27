@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo: H\u00e9l\u00e8ne Sio",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo: Benjamin Biolay",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -1417,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "La boh\u00e8me",
+        "url": "https://open.spotify.com/album/2L6vtG68KIy1vLgCPGtPpB"
+      },
+      "artists": [
+        {
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160520,
+      "name": "La boh\u00e8me",
+      "url": "https://open.spotify.com/track/1Fv7n2VwpfN7dyhNTOYvFm"
+    },
+    {
+      "album": {
         "name": "La fresque",
         "url": "https://open.spotify.com/album/24fO1cCmRAxui3fxi3hKCh"
       },
@@ -2028,7 +2046,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 194973,
       "name": "Les battements du c\u0153ur",
       "url": "https://open.spotify.com/track/67K5HMqmUyVflF3xjQ5MpZ"
@@ -2118,7 +2136,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 197250,
       "name": "Les ratures",
       "url": "https://open.spotify.com/track/3HSSGaHoHkJK4wXxr0bdQq"
@@ -2710,6 +2728,24 @@
       "duration_ms": 187459,
       "name": "Plastique",
       "url": "https://open.spotify.com/track/7nqOy9W1AcgvPB1Ww3N44S"
+    },
+    {
+      "album": {
+        "name": "Pluie de data",
+        "url": "https://open.spotify.com/album/2iAXxsQJ0e9cT2Jy9c0amS"
+      },
+      "artists": [
+        {
+          "name": "Bertrand Belin",
+          "url": "https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288640,
+      "name": "Pluie de data",
+      "url": "https://open.spotify.com/track/3F2zj7x4wGGpWmezFy07BF"
     },
     {
       "album": {

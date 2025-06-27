@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFCj3KyU0r0.md) - [plain]
 
 > Focus with nature sounds in the background...
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,192 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,212 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFCj3KyU0r0.md) - [plain]
 | 37 | [Sleep: Soft Ocean](https://open.spotify.com/track/6HV3zhmqLZ6kL9afSxn2t9) | [Ocean Sounds ACE](https://open.spotify.com/artist/4syiBrG4nPb9SCaHgyAHL8) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 2:29 |
 | 38 | [Light Forest Rain 2](https://open.spotify.com/track/0sHQko0MGE4c2RzGQ9BjX6) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 2:26 |
 | 39 | [Birds at the Cemetery](https://open.spotify.com/track/08Rw5UMA1eQlSime6LE4Vt) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Birds](https://open.spotify.com/album/0sWItLKbPToTiiVrlYi1EX) | 2:55 |
-| 40 | [Dreamy Beach Sample](https://open.spotify.com/track/21vF00XMLwcgG6797XcvqA) | [Elements of Nature](https://open.spotify.com/artist/3r1H7zt8YmcO8Vj20uEMy5) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 3:00 |
-| 41 | [Mountain Creek](https://open.spotify.com/track/5SKs7vPBQ7UOaWsBHu7ljM) | [Coast to Coast Recordings](https://open.spotify.com/artist/0WNzUSHn04Gmm07Okzc0YC) | [Peaceful Rivers](https://open.spotify.com/album/3AQDF4HBATBzY9uVXEeVqK) | 2:29 |
+| 40 | [Mountain Creek](https://open.spotify.com/track/5SKs7vPBQ7UOaWsBHu7ljM) | [Coast to Coast Recordings](https://open.spotify.com/artist/0WNzUSHn04Gmm07Okzc0YC) | [Peaceful Rivers](https://open.spotify.com/album/3AQDF4HBATBzY9uVXEeVqK) | 2:29 |
+| 41 | [Dreamy Beach Sample](https://open.spotify.com/track/21vF00XMLwcgG6797XcvqA) | [Elements of Nature](https://open.spotify.com/artist/3r1H7zt8YmcO8Vj20uEMy5) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 3:00 |
 | 42 | [Stream Of Rain](https://open.spotify.com/track/1t2qgFuUPlkCDOy8YXQ64e) | [Mirai](https://open.spotify.com/artist/6oEZ7IsYCH7xwmb83A6eQx) | [Stream Of Rain](https://open.spotify.com/album/09vojMSSTFVj9Mi1KmW8J5) | 2:28 |
 | 43 | [Soothing River Flow on Rocks](https://open.spotify.com/track/3IXlhcZ7Xt1sQNMXLZb5XR) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Snowmelt and Rivers for Sleeping](https://open.spotify.com/album/3WomUrOQJWJknkjRYQiMIn) | 4:17 |
 | 44 | [Gentle Stream Ambience](https://open.spotify.com/track/1FCp5LjTO2YsW9zmQJ7nOk) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Soothing Nature Sounds](https://open.spotify.com/album/6vbXz5ZRueTrOsNwC8pFFv) | 3:05 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFCj3KyU0r0.md) - [plain]
 | 55 | [Soft Rain to Focus](https://open.spotify.com/track/1JKfSe2PeDG7GPKnUbZvfn) | [Universe Collectors](https://open.spotify.com/artist/2RavKkz1kkDUEVWjSrLUOu) | [Hypnotic Rain Sounds](https://open.spotify.com/album/2azcIdtzQRkCTHrDiCc3XF) | 3:37 |
 | 56 | [Rainy River](https://open.spotify.com/track/1Fb4WFrV09zRVT7EMZ0Jm9) | [Mindful Audio](https://open.spotify.com/artist/5oCUHDy7fu07K8dPo2DMNP) | [Waterways](https://open.spotify.com/album/0chQez1VOlWV1lV6hkdmgv) | 2:02 |
 | 57 | [Tight Waves Sound Fx](https://open.spotify.com/track/3YBmsELI0u50yQXNeStwpW) | [Sleep Tight](https://open.spotify.com/artist/2ispra7MLmLF7ZqmyaKwQp) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 2:51 |
-| 58 | [Swedish Ice River Stream](https://open.spotify.com/track/6ybQfDhYT6CDhN9iHHHW0n) | [In The River \(Sound FX\)](https://open.spotify.com/artist/770tI2TiIzK65YohBNGoAU) | [Swedish River Sounds](https://open.spotify.com/album/0henBYTj7A7rqO4OZ4TC7S) | 2:37 |
-| 59 | [Soothing Rain Sound](https://open.spotify.com/track/26Wq5dU0knVaquWbUFNPqP) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Forest Rain Sounds](https://open.spotify.com/album/5PBnIqFcWwIiRKQcm7XQ1i) | 2:08 |
+| 58 | [Soothing Rain Sound](https://open.spotify.com/track/26Wq5dU0knVaquWbUFNPqP) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Forest Rain Sounds](https://open.spotify.com/album/5PBnIqFcWwIiRKQcm7XQ1i) | 2:08 |
+| 59 | [Swedish Ice River Stream](https://open.spotify.com/track/6ybQfDhYT6CDhN9iHHHW0n) | [In The River \(Sound FX\)](https://open.spotify.com/artist/770tI2TiIzK65YohBNGoAU) | [Swedish River Sounds](https://open.spotify.com/album/0henBYTj7A7rqO4OZ4TC7S) | 2:37 |
 | 60 | [Shoreline Surf](https://open.spotify.com/track/5DAUIxWI8mbZKoFSX3hLe2) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Coast of Carmel](https://open.spotify.com/album/2xIw3qo8CTPqCsOSQ8qxVd) | 5:52 |
 
 Snapshot ID: `Z7SlyAAAAACmsmfOLuNUZ/decQbronhM`

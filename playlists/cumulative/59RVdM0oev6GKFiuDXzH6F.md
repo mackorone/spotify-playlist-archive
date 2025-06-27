@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-984 songs - 2 day 2 hr 19 min
+985 songs - 2 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Feel Alive](https://open.spotify.com/track/1Cea0zW0JXxT7C7riIje1w) | [Glowerz](https://open.spotify.com/artist/2cJXCtYyGvefgyCILicQ7N) | [Feel Alive](https://open.spotify.com/album/5bCH6lejb3Jgk7RU6f7mIx) | 2:51 | 2024-03-22 | 2024-04-13 |
 | [Feel Good](https://open.spotify.com/track/0f55shlytyTjhwNHxWOFPv) | [Sesco](https://open.spotify.com/artist/0pP0ClsQK7FgtbwuUcVrQV) | [Feel Good](https://open.spotify.com/album/5umybiMI6zk6Twnluw4Ewf) | 2:43 | 2023-12-08 | 2025-01-09 |
 | [Feel It](https://open.spotify.com/track/0xyFa4kQ7BMVxP6XK7gM3V) | [Per Nord](https://open.spotify.com/artist/0hGdupg5pIQ8GRSLwBuqQx), [okafuwa](https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj) | [Feel It](https://open.spotify.com/album/7AKOzUkUJK9oQ8DpcgJMC6) | 3:00 | 2024-12-05 |  |
+| [Feel So Good](https://open.spotify.com/track/3A5ChH4cZ0TKcN9dNT9ua0) | [Alure](https://open.spotify.com/artist/2at01aWUeF5RX0bm7M7LjP) | [Feel So Good](https://open.spotify.com/album/3MFDDyUqEuMne5UpkHZcCC) | 2:58 | 2025-06-26 |  |
 | [Feel The Need](https://open.spotify.com/track/2wa4S5WSyATZVQUN7fL4L0) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Feel The Need](https://open.spotify.com/album/3eBcoTjDLcgkVo6xBFn3Wj) | 3:35 | 2023-11-10 | 2024-09-26 |
 | [Feel Your Touch](https://open.spotify.com/track/4aC4m2wM7wd1uwY8XtrXq2) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg) | [Feel Your Touch](https://open.spotify.com/album/4Wmge8kAedu9UW80MC1TwL) | 3:58 | 2024-03-08 | 2024-04-26 |
 | [Fendi Gucci Vuitton](https://open.spotify.com/track/4oNaxYqoPdm6EGrJFldOx1) | [Luis Rodriguez](https://open.spotify.com/artist/3UVoBPCrKG8mz9NVFgmAPn) | [Fendi Gucci Vuitton](https://open.spotify.com/album/4qRosAmVHVjlmfLAQDgvJw) | 2:23 | 2023-05-25 | 2023-12-14 |

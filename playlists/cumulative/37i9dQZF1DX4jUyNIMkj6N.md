@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-358 songs - 21 hr 37 min
+359 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Hunting Sky](https://open.spotify.com/track/48wE4vYe6iumDianYfUAfO) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Sumie](https://open.spotify.com/album/3MJtEuh26Rm8p8cdNemiAg) | 3:15 | 2022-07-14 | 2023-09-08 |
 | [Hymn](https://open.spotify.com/track/2MXX8H5R8UMmI5oYzgqrYA) | [VELVET MOON](https://open.spotify.com/artist/0hK1aI0UAC0cflUrMqsVjZ) | [Hymn](https://open.spotify.com/album/5TXCV14ZfHcQrJTruMbQNp) | 5:35 | 2023-11-30 | 2024-03-15 |
 | [i don’t know what i saw in you](https://open.spotify.com/track/0BD4OTTInTSc9tcJwGPyT2) | [Malen](https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g) | [i don’t know what i saw in you](https://open.spotify.com/album/7vY6bUU0ZDn1X5CkEtwzyR) | 2:09 | 2024-05-23 | 2025-03-30 |
-| [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 | 2024-08-22 |  |
+| [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 | 2024-08-22 | 2025-06-27 |
 | [I Live After I Died](https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [I Live After I Died](https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i) | 2:44 | 2024-03-21 | 2025-05-09 |
 | [I Miss You](https://open.spotify.com/track/729Rt2RbcFwecV0Jo5UmNu) | [The Oldsfire Band](https://open.spotify.com/artist/35boIHWcDqOzDkVWZIgdio) | [I Miss You](https://open.spotify.com/album/0lLQNchoJCqE6R1ThbopDO) | 2:32 | 2024-09-19 |  |
 | [I Miss You, I Do](https://open.spotify.com/track/6Q6DS150kHJ3bigd3EEWh6) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/29ONymW27lZQsuZc3yKxux) | 4:06 | 2024-10-17 |  |
@@ -209,6 +209,7 @@
 | [Moon](https://open.spotify.com/track/6YebT1WtZUxbF8gzbQULlC) | [Vilde Bye](https://open.spotify.com/artist/2Z3WutA2qjveq0AHqoJ6fC) | [Moon](https://open.spotify.com/album/6Ng5W9DCk4r5SesHpInNPN) | 3:16 | 2022-03-24 | 2022-07-29 |
 | [Morgan, I might](https://open.spotify.com/track/4iVOmOgUWI6tyqKvwyINXN) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni was right](https://open.spotify.com/album/65l2iPEXg8EDMUY8lUs50z) | 3:17 | 2021-12-02 | 2022-07-28 |
 | [Morgan, I Might](https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right](https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7) | 3:17 | 2022-07-14 | 2023-11-24 |
+| [Morning Sun](https://open.spotify.com/track/1ZxNxL8fk2VlmMz4vQmBUI) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Morning Sun / Waiting Line](https://open.spotify.com/album/7EQkdll2ybgca0Ekd07haO) | 3:31 | 2025-06-26 |  |
 | [Mornings and Afternoons](https://open.spotify.com/track/4YlmenydUtibsOpCxzrwEf) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [La Comitiva](https://open.spotify.com/artist/6qfxmAre9eFDUWxAip06yh) | [Mornings and Afternoons](https://open.spotify.com/album/1duiNMdrh9VgXabofunWIF) | 2:52 | 2023-08-24 | 2024-07-27 |
 | [Most Of The Time](https://open.spotify.com/track/0l2InC8mdtw15OskL9a7id) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Most Of The Time](https://open.spotify.com/album/2J2OK7D88vrNQ9nzOiPwkS) | 4:23 | 2022-04-28 | 2022-04-29 |
 | [Most of the Time](https://open.spotify.com/track/2PixfzvK60AWzXRDLeElhb) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Most of the Time](https://open.spotify.com/album/3PLL8twrREWBIpP1aBLF5D) | 4:23 | 2022-04-29 | 2022-12-24 |

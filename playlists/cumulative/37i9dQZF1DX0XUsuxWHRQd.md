@@ -4,7 +4,7 @@
 
 > New music from Offset, Cardi B and Central Cee.
 
-2,407 songs - 5 day 4 hr 40 min
+2,408 songs - 5 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1723,6 +1723,7 @@
 | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/track/5bBzkJE9BqYTL27webAUCw) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/album/6MJPvYn6Xw3PIwUMyNXpS7) | 2:55 | 2021-11-20 | 2021-12-18 |
 | [Rock Dat \(feat\. Polo G\)](https://open.spotify.com/track/1xzDWLTZ233MPC6TuJmQOH) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Green With Envy](https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc) | 2:24 | 2021-09-18 | 2021-09-25 |
 | [Rock Out \(feat\. NLE Choppa\)](https://open.spotify.com/track/7u29dRYSOx5Xkvbb7G7VYx) | [T.R.U.](https://open.spotify.com/artist/7uwQPQsBYgrSd63xgeMyuM), [Hott LockedN](https://open.spotify.com/artist/6UCNcF9kuan6Eym0EK9MOO), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [No Face No Case](https://open.spotify.com/album/4ZZTAaaz4zrCL1q3cfTnYt) | 2:55 | 2020-02-07 | 2020-02-14 |
+| [Rock Yo Hips](https://open.spotify.com/track/76dZuMVXjIyLPRLv00skGd) | [Crime Mob](https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo) | [Hated on Mostly](https://open.spotify.com/album/0UkPbHf0xnTbNTLn6YUajE) | 3:46 | 2025-06-26 |  |
 | [ROCKSTAR \(feat\. Roddy Ricch\)](https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:01 | 2020-04-18 | 2020-09-04 |
 | [ROCKSTAR \(feat\. Roddy Ricch\) \- BLM REMIX](https://open.spotify.com/track/4Aykm3xrOFSHrAnv80KUhh) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [ROCKSTAR \(feat\. Roddy Ricch\) \[BLM REMIX\]](https://open.spotify.com/album/3xGZrrUdbVXu3CRXSSsPQZ) | 3:24 | 2020-06-12 | 2020-06-19 |
 | [Rockstar In His Prime](https://open.spotify.com/track/0v36cov6Z6aEV5ZgIlqZMk) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:00 | 2021-12-10 | 2022-03-05 |

@@ -4,7 +4,7 @@
 
 > The best voices in R&B\. Cover: kwn
 
-471 songs - 1 day 0 hr 56 min
+473 songs - 1 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Everything’s Beautiful](https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Everything’s Beautiful](https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt) | 2:50 | 2024-01-26 | 2024-11-08 |
 | [eyes wide open](https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [eyes wide open](https://open.spotify.com/album/4uCsGsDDZQbhDsb8ujwenV) | 2:33 | 2024-05-10 | 2024-09-20 |
 | [Fear When You Fly](https://open.spotify.com/track/0BDlu6AEeWxdjmKwFc0rI0) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Fear When You Fly](https://open.spotify.com/album/1Dve6i5g4D9Xw2GJCb9xOZ) | 3:40 | 2024-11-01 | 2025-05-30 |
+| [Feel Something](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Feel Something](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 | 2025-06-26 |  |
 | [FEELINGS ON SILENT \(feat\. Wale\)](https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:29 | 2024-09-26 | 2025-01-31 |
 | [Feels](https://open.spotify.com/track/1BANaaZNg6PsCv5JpSuD3z) | [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE), [Eestbound](https://open.spotify.com/artist/1k6SNxtUoIymDrXHuf3N3G) | [Feels](https://open.spotify.com/album/6pfRdR3FNPQ9O7WHQtEKwq) | 4:07 | 2023-05-14 | 2023-07-22 |
 | [feels](https://open.spotify.com/track/56O1IiX4MTIzQNxUFoBWHu) | [Raheem Bakare](https://open.spotify.com/artist/40IuUXbYWhw6UcfU7hHmpM) | [allure](https://open.spotify.com/album/4fGVenw5TmETgwm1iR4upQ) | 3:55 | 2023-09-29 | 2024-04-19 |
@@ -218,7 +219,7 @@
 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 | 2025-06-19 |  |
 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 | 2023-02-23 | 2023-05-15 |
 | [Khayaal](https://open.spotify.com/track/4Yf5yQGD3pMKhhQJn85kpR) | [Bambi Bains](https://open.spotify.com/artist/2HspNtajToyPB9hjki4CVV) | [Khayaal](https://open.spotify.com/album/4OW44suWx0p3UR6n3QGTfm) | 2:39 | 2023-02-23 | 2023-05-15 |
-| [Kidding Around](https://open.spotify.com/track/2jXMazgXiudtvru8K90VFX) | [Isabel Abbott](https://open.spotify.com/artist/0Wt4MChhuEyZbH6MAbdWFN) | [Kidding Around](https://open.spotify.com/album/6QvohFoxvdYUbfuaC2WLsg) | 3:22 | 2025-04-25 |  |
+| [Kidding Around](https://open.spotify.com/track/2jXMazgXiudtvru8K90VFX) | [Isabel Abbott](https://open.spotify.com/artist/0Wt4MChhuEyZbH6MAbdWFN) | [Kidding Around](https://open.spotify.com/album/6QvohFoxvdYUbfuaC2WLsg) | 3:22 | 2025-04-25 | 2025-06-27 |
 | [Kiki's Brown Eyes](https://open.spotify.com/track/3W0ZWcX8eAjE4kc42mgKjm) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Hope She Hears This](https://open.spotify.com/album/01aAP2WJGtq3rc6JNGJHpW) | 2:27 | 2025-05-09 |  |
 | [KOKO](https://open.spotify.com/track/0WHJJNkkCYGbDNDYUW8RA3) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Hold My Drink, Watch This.](https://open.spotify.com/album/7DTiWmmTONvedPmSiaDYEO) | 2:38 | 2024-11-08 | 2025-06-06 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2023-02-23 | 2023-05-15 |
@@ -331,7 +332,7 @@
 | [Poison](https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Poison](https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf) | 2:51 | 2023-08-18 | 2023-11-17 |
 | [POOKIE’S REQUIEM \(feat\. Summer Walker\) \- hehe look y'all I made it longer](https://open.spotify.com/track/2LIgTJnCCAtGbuPn0qN7Ny) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [POOKIE’S REQUIEM \(feat\. Summer Walker\) \[hehe look y'all I made it longer\]](https://open.spotify.com/album/5o7Wu7xeSeuey5Lwbn8Lv2) | 2:53 | 2025-01-31 | 2025-06-20 |
 | [Pressure](https://open.spotify.com/track/4DixBDzCcjzWHICnRw4FGy) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Pressure](https://open.spotify.com/album/0rs6VQv68DHwRGCkN1DlPO) | 2:38 | 2023-02-23 | 2023-05-15 |
-| [Pressure Points \(feat\. Lila Iké\)](https://open.spotify.com/track/6NqVCvwed3MKWNOtGNi02Z) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Pressure Points \(feat\. Lila Iké\)](https://open.spotify.com/album/1VER1K3F9ynMrmB8KjCCUX) | 2:50 | 2025-01-31 |  |
+| [Pressure Points \(feat\. Lila Iké\)](https://open.spotify.com/track/6NqVCvwed3MKWNOtGNi02Z) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Pressure Points \(feat\. Lila Iké\)](https://open.spotify.com/album/1VER1K3F9ynMrmB8KjCCUX) | 2:50 | 2025-01-31 | 2025-06-27 |
 | [Pride](https://open.spotify.com/track/3HiVqLksar2QNbgXOjDRYm) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Pride](https://open.spotify.com/album/7trfAzxwXmdxFnZZT3TQ5y) | 2:23 | 2024-11-01 | 2025-03-28 |
 | [PROMISE](https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [PROMISE](https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV) | 3:43 | 2025-05-15 |  |
 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 | 2023-05-24 | 2023-09-30 |
@@ -437,6 +438,7 @@
 | [Tipsy](https://open.spotify.com/track/6GR5SRiuztfur96y7mBKxK) | [Mya K](https://open.spotify.com/artist/1s6hHUCO2I3IZN4qFy0ypm) | [Tipsy](https://open.spotify.com/album/4hxgmRczO2cTh9doxACWnm) | 2:12 | 2023-10-27 | 2024-05-11 |
 | [To Be Found](https://open.spotify.com/track/2vU95jI1hFEHcKgonUcrlF) | [DHANYA](https://open.spotify.com/artist/4SWESjuSbInxK2MAbQGhbJ), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [To Be Found](https://open.spotify.com/album/4BtnAuulML7FN3rALzq7sr) | 3:40 | 2025-05-22 |  |
 | [Too Soon](https://open.spotify.com/track/4vJoaQsqgInOXfLTrKGNWE) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Too Soon](https://open.spotify.com/album/1gnbsTYrABy0pYgsuBaX9Z) | 3:01 | 2025-04-25 |  |
+| [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 |  |
 | [Troubled Ones](https://open.spotify.com/track/2TeLNVFuTEgy1BuIH7wuOS) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Troubled Ones](https://open.spotify.com/album/6ZRaiZ2f46f8THWzFr4eFn) | 2:40 | 2024-03-19 | 2025-01-31 |
 | [Try and fit in](https://open.spotify.com/track/73zDIHFRM1Uw0wvH4ck35c) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 1:56 | 2023-09-29 | 2024-01-26 |
 | [Try Peace...](https://open.spotify.com/track/26H5U6YRMbzunMgCe89r0s) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Try Peace...](https://open.spotify.com/album/3qThDnd30yCBWBmpu4nE8Y) | 3:40 | 2023-02-23 | 2023-05-15 |

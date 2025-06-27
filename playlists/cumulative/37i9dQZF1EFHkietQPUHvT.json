@@ -619,6 +619,24 @@
     },
     {
       "album": {
+        "name": "First Last Time",
+        "url": "https://open.spotify.com/album/50aXhsbgDyCQAsBynMNTBP"
+      },
+      "artists": [
+        {
+          "name": "Deeps",
+          "url": "https://open.spotify.com/artist/2Z6S0daezacaUwUukXQUqJ"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183755,
+      "name": "First Last Time",
+      "url": "https://open.spotify.com/track/5gFYe6ngpSJe0fH7snUMfe"
+    },
+    {
+      "album": {
         "name": "Freak",
         "url": "https://open.spotify.com/album/6n4FHG6BIfeQCgKejwftQP"
       },
@@ -1272,6 +1290,24 @@
       "duration_ms": 212466,
       "name": "proud of me",
       "url": "https://open.spotify.com/track/3Uzk7dsPm1kZdWqzLP0vGw"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/7hv3rn6CsQxaGdX61qkFIr"
+      },
+      "artists": [
+        {
+          "name": "Adam Klobi",
+          "url": "https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248934,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/22p47jS1KK3VFwxTk6b7Gu"
     },
     {
       "album": {

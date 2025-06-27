@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 
 > Nuestra escuela es la calle\. Gera MX en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,098 likes - 103 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,101 likes - 103 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 | 47 | [Malandron](https://open.spotify.com/track/3E4M1nM0TYXUDFjVQV14xX) | [Carlos Luengo](https://open.spotify.com/artist/3mHjgfw3MBXjD8fuSf8s6e), [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC) | [Malandron](https://open.spotify.com/album/6EuHmMamt69d4ySC8aXirm) | 3:33 |
 | 48 | [NO SON KLLE](https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [NO SON KLLE](https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y) | 3:43 |
 | 49 | [Diario en el Barrio](https://open.spotify.com/track/5Sjo6LOEK64mwVNlProGZ6) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Diario en el Barrio](https://open.spotify.com/album/0j89QJo7FWq75LlYWXtNNi) | 4:30 |
-| 50 | [Los Sicarios](https://open.spotify.com/track/5WxNLgR3Gt4Lb0y9W27eHw) | [Yeo Freko](https://open.spotify.com/artist/0soTJyiaS2s59lFcpozwOj), [Mosta Flow](https://open.spotify.com/artist/1vK5kce5mdau16ViLTtP1j) | [Los Sicarios](https://open.spotify.com/album/4wGV9iSrWRGbhRvfDWeiGy) | 3:17 |
+| 50 | [Los Sicarios](https://open.spotify.com/track/5WxNLgR3Gt4Lb0y9W27eHw) | [Yeo Freko](https://open.spotify.com/artist/0soTJyiaS2s59lFcpozwOj), [Mosta Flow](https://open.spotify.com/artist/12pvxlo0D3NVSGy283CmqX) | [Los Sicarios](https://open.spotify.com/album/4wGV9iSrWRGbhRvfDWeiGy) | 3:17 |
 | 51 | [Mis Demonios](https://open.spotify.com/track/2bt4ICyaBAmqjfSjkMcNtx) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6) | [Mis Demonios](https://open.spotify.com/album/5xXtWGBc3x0tqPSgPlmA8B) | 3:30 |
 | 52 | [Si Me Prendo](https://open.spotify.com/track/7q59DAn56U48mxeZMEtsLa) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Carlos Blanco](https://open.spotify.com/artist/11diSOIRH0z3p9XZ7hZSod) | [Si Me Prendo](https://open.spotify.com/album/5MHDUqD51GHyWL09rBiQv9) | 2:42 |
 | 53 | [Qué Pasó Ayer](https://open.spotify.com/track/4CHo1U2ItKPVayc1CUM03r) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [Cricket](https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R) | [Qué Pasó Ayer](https://open.spotify.com/album/7vu6FOKCiz1qD8GdbhNzb2) | 3:18 |

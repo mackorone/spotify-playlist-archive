@@ -8427,6 +8427,24 @@
     },
     {
       "album": {
+        "name": "Of the Highway",
+        "url": "https://open.spotify.com/album/2iyY4MTX9NiO05hQN221cC"
+      },
+      "artists": [
+        {
+          "name": "Oldstar",
+          "url": "https://open.spotify.com/artist/65EcXsR7j4l6Thkrr5a1AX"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247250,
+      "name": "Lowland",
+      "url": "https://open.spotify.com/track/0hl2a5R1FlvPmdDexANFjp"
+    },
+    {
+      "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
       },
@@ -12134,7 +12152,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 118524,
       "name": "Something That Feels Like Love",
       "url": "https://open.spotify.com/track/363tIu3XPLPKBpYpIfTQ8b"

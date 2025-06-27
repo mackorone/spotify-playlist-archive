@@ -1693,6 +1693,24 @@
     },
     {
       "album": {
+        "name": "El Retorno",
+        "url": "https://open.spotify.com/album/3wLN5TGDfK414XeVjrfvEm"
+      },
+      "artists": [
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189766,
+      "name": "El Gomoso",
+      "url": "https://open.spotify.com/track/0H6rYPbDkdMmJbedmXMqV9"
+    },
+    {
+      "album": {
         "name": "El Hurac\u00e1n",
         "url": "https://open.spotify.com/album/37Fj54Cl2Fifcc50O2OhpT"
       },
@@ -2066,7 +2084,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 267440,
       "name": "En Redondel",
       "url": "https://open.spotify.com/track/2bvP9MboEyUadosZOYC93K"
@@ -2266,7 +2284,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 168142,
       "name": "Extra\u00f1as Intenciones",
       "url": "https://open.spotify.com/track/0aGhbqph4ytMhMGycQw0rc"
@@ -3254,7 +3272,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 214090,
       "name": "Las cosas que no se tocan",
       "url": "https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT"
@@ -3754,6 +3772,24 @@
       "duration_ms": 271094,
       "name": "Malandra",
       "url": "https://open.spotify.com/track/6cKapxKpDMVewMAnbaK0N7"
+    },
+    {
+      "album": {
+        "name": "Mantra Duelo",
+        "url": "https://open.spotify.com/album/6mtEyGiXsHWnoBOXS0PDV0"
+      },
+      "artists": [
+        {
+          "name": "\u00c1deniz",
+          "url": "https://open.spotify.com/artist/4c3VOSvqlC71g9rcuO7Rl5"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Mantra Duelo",
+      "url": "https://open.spotify.com/track/0ojFaIbrcBUblZszy4B8Mv"
     },
     {
       "album": {
@@ -6410,6 +6446,24 @@
       "duration_ms": 127357,
       "name": "Valle de Valium",
       "url": "https://open.spotify.com/track/639KxyOYhHgaovDipRf4RY"
+    },
+    {
+      "album": {
+        "name": "El \u00c1ngel Que Soy",
+        "url": "https://open.spotify.com/album/6Za93DEEDEuv6W7K61UNGg"
+      },
+      "artists": [
+        {
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197298,
+      "name": "Vamos a Casarnos",
+      "url": "https://open.spotify.com/track/1ueROprUNDd0Mv8QfT49b4"
     },
     {
       "album": {

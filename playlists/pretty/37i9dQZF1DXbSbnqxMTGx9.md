@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,125,731 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,126,030 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 77 | [Gypsy Woman](https://open.spotify.com/track/4t5ARSYWg1wBOAXh6Yvr9g) | [The Uniques](https://open.spotify.com/artist/1EV3e39He1WLxcD1EjluLb) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:09 |
 | 78 | [You Don't Care \(aka You'll Want Me Back\)](https://open.spotify.com/track/2Q5lnX5AiN6P9TPbfYtsBB) | [Techniques](https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:33 |
 | 79 | [Do It Right](https://open.spotify.com/track/2JROlfSYAfoMYYOPfgOPbS) | [The Three Tops](https://open.spotify.com/artist/79kei1hSypfSpVCg1tutz8) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:28 |
-| 80 | [It Comes And Goes](https://open.spotify.com/track/4no5L40P5kscy5YwVlf3s3) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:36 |
-| 81 | [What Will Your Mama Say](https://open.spotify.com/track/5UD98Sz4F4Jl2mtUsRPnxS) | [Clancy Eccles](https://open.spotify.com/artist/0YVtA75CDCz5FYqis7Kf8v) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:21 |
+| 80 | [What Will Your Mama Say](https://open.spotify.com/track/5UD98Sz4F4Jl2mtUsRPnxS) | [Clancy Eccles](https://open.spotify.com/artist/0YVtA75CDCz5FYqis7Kf8v) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:21 |
+| 81 | [It Comes And Goes](https://open.spotify.com/track/4no5L40P5kscy5YwVlf3s3) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:36 |
 | 82 | [Watch This Sound \(For What It's Worth\)](https://open.spotify.com/track/0Hu8gNKjd1WJRY3BFp8Vf7) | [The Uniques](https://open.spotify.com/artist/1EV3e39He1WLxcD1EjluLb) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:32 |
 | 83 | [Queen Majesty \(aka Minstrel and Queen\)](https://open.spotify.com/track/7eArTFXshH2FuzC6ZptVlD) | [Techniques](https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:30 |
 | 84 | [Bad Boys \(Theme from COPS\)](https://open.spotify.com/track/0qeKzbUsW0V4ZWRJrHNiD3) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Blazzin' Fire](https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n) | 3:49 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 89 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/7kTvXtMERxvwCGcWv68ssH) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Bad To The Bone](https://open.spotify.com/album/5YEv101kdWy8liOvCZWtzy) | 3:46 |
 | 90 | [Buffalo Soldier](https://open.spotify.com/track/59ByyDNkqRGxBom9nHssxf) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/0tiPal8J7t3B9tPF7kGWDi) | 4:16 |
 | 91 | [Tenement Yard](https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Song Book: Chapter a Day](https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP) | 2:34 |
-| 92 | [Israelites](https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [The Definitive Collection: You Can Get It If You Really Want](https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3) | 2:35 |
-| 93 | [Pressure Drop](https://open.spotify.com/track/7cfILJJHW9ZSkbM2ywLhiN) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Reggae Greats \- Toots & The Maytals](https://open.spotify.com/album/3XeZ3oRelxBvhhHzfzlRMj) | 2:54 |
+| 92 | [Pressure Drop](https://open.spotify.com/track/7cfILJJHW9ZSkbM2ywLhiN) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Reggae Greats \- Toots & The Maytals](https://open.spotify.com/album/3XeZ3oRelxBvhhHzfzlRMj) | 2:54 |
+| 93 | [Israelites](https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [The Definitive Collection: You Can Get It If You Really Want](https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3) | 2:35 |
 | 94 | [The Harder They Come \- From "The Harder They Come" Soundtrack](https://open.spotify.com/track/63yKj3bpZUCWcJ4Xh6Ygl1) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 3:39 |
-| 95 | [Rivers of Babylon](https://open.spotify.com/track/3t3ef0BO5oPbaeYUJsxGWW) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:25 |
-| 96 | [Pass The Dutchie](https://open.spotify.com/track/7iWk45E2wIpFc3YUWm3VVn) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/5IdwXEZnCs41jsRzYg6IVM) | 3:24 |
-| 97 | [Night Nurse](https://open.spotify.com/track/1PHlYnuoDNtuuq6yPXbSV6) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Night Nurse](https://open.spotify.com/album/7N01iXLj1lHSaAw4Z96DcN) | 4:08 |
-| 98 | [Dream Land](https://open.spotify.com/track/1haHZa75ytryLGUOtHiGl5) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Blackheart Man](https://open.spotify.com/album/0Z3LzsnqFDWU10sTu31Cfm) | 2:45 |
+| 95 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
+| 96 | [Rivers of Babylon](https://open.spotify.com/track/3t3ef0BO5oPbaeYUJsxGWW) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:25 |
+| 97 | [Pass The Dutchie](https://open.spotify.com/track/7iWk45E2wIpFc3YUWm3VVn) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/5IdwXEZnCs41jsRzYg6IVM) | 3:24 |
+| 98 | [Night Nurse](https://open.spotify.com/track/1PHlYnuoDNtuuq6yPXbSV6) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Night Nurse](https://open.spotify.com/album/7N01iXLj1lHSaAw4Z96DcN) | 4:08 |
 | 99 | [You Can Get It If You Really Want](https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 2:38 |
-| 100 | [I Shot The Sheriff](https://open.spotify.com/track/7bnRX1ObyGzzSuOWrNFLWw) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(The Definitive Remasters\)](https://open.spotify.com/album/6axWF6fhMuB7pXAUONbGLE) | 4:41 |
+| 100 | [Dream Land](https://open.spotify.com/track/1haHZa75ytryLGUOtHiGl5) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Blackheart Man](https://open.spotify.com/album/0Z3LzsnqFDWU10sTu31Cfm) | 2:45 |
 
 Snapshot ID: `ZpD3ewAAAAAuqBXwCaQuYYvR5ZILQp2M`

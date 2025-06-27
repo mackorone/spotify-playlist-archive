@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcos Witt",
-  "num_followers": 467633,
+  "num_followers": 467787,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Si Tu No Estas",
-        "url": "https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG"
-      },
-      "artists": [
-        {
-          "name": "Luis Santiago",
-          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
-        }
-      ],
-      "duration_ms": 287268,
-      "name": "Eres Mi Dueno",
-      "url": "https://open.spotify.com/track/4bxuC1eUgKJZ5N5OkPEXl1"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "Laberinto",
         "url": "https://open.spotify.com/album/14rxyyOhgm9hgYnxSk74eE"
       },
@@ -1027,22 +1011,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "S\u00edgueme",
-        "url": "https://open.spotify.com/album/2Y8L881nR2wnwSGsY2Hp3k"
-      },
-      "artists": [
-        {
-          "name": "Danilo Montero",
-          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
-        }
-      ],
-      "duration_ms": 333360,
-      "name": "Yo Confio",
-      "url": "https://open.spotify.com/track/5W7aqluGNFolp7l8Mhank4"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "Mi Casa Y Yo / Lo Que Parte el Corazon (Doble Album)",
         "url": "https://open.spotify.com/album/1VQLKnIDbretCq2tZ7zM0D"
       },
@@ -1055,6 +1023,38 @@
       "duration_ms": 302059,
       "name": "Quiero Amarte",
       "url": "https://open.spotify.com/track/5NJMCIpzZFNkQpZmIBiPn0"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "Si Tu No Estas",
+        "url": "https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG"
+      },
+      "artists": [
+        {
+          "name": "Luis Santiago",
+          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
+        }
+      ],
+      "duration_ms": 287268,
+      "name": "Eres Mi Dueno",
+      "url": "https://open.spotify.com/track/4bxuC1eUgKJZ5N5OkPEXl1"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "S\u00edgueme",
+        "url": "https://open.spotify.com/album/2Y8L881nR2wnwSGsY2Hp3k"
+      },
+      "artists": [
+        {
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+        }
+      ],
+      "duration_ms": 333360,
+      "name": "Yo Confio",
+      "url": "https://open.spotify.com/track/5W7aqluGNFolp7l8Mhank4"
     },
     {
       "added_at": "2024-12-11 11:03:37",

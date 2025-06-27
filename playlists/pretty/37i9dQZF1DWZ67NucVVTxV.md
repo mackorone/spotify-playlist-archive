@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Money on my Mind\. Mind on my money.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,136 likes - 90 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,169 likes - 90 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 21 | [Hallelujah](https://open.spotify.com/track/3G2kltZAM8iyrUSDGJj85M) | [Demmie Vee](https://open.spotify.com/artist/4GOAIksGygyVj3KxUPXMtq), [Damo K](https://open.spotify.com/artist/2EbTRZdju2hUrMqClX4wyO), [Tia](https://open.spotify.com/artist/3JAdD9AfJI9QymrEo49Qhp) | [Hallelujah](https://open.spotify.com/album/4D7ZvDZBApebTFd8BVrFtK) | 2:43 |
 | 22 | [See Me See God \(SMSG\)](https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar Vol\. 1](https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA) | 3:12 |
 | 23 | [Applaudize \(Father's Song\)](https://open.spotify.com/track/1x4FtaeuGzzpIqLePqPYv8) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Applaudize \(Father's Song\)](https://open.spotify.com/album/6CEzk5u4GMv8E9J0x5qclR) | 2:29 |
-| 24 | [Follow who know road](https://open.spotify.com/track/0rGnXX9PwglL8bXfjlOLR5) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg) | [Take Ova](https://open.spotify.com/album/5F65XW5Q341gsQ0FAlbm8V) | 2:11 |
+| 24 | [Follow who know road](https://open.spotify.com/track/0rGnXX9PwglL8bXfjlOLR5) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg) | [Take Ova](https://open.spotify.com/album/5F65XW5Q341gsQ0FAlbm8V) | 2:13 |
 | 25 | [Till Thy Kingdom Come](https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Till Thy Kingdom Come](https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO) | 2:29 |
 | 26 | [Where I’m from](https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Timileyin 2.0](https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a) | 2:39 |
 | 27 | [EGBAMI](https://open.spotify.com/track/3mq3HujlffiS5jDqmHec5N) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [EGBAMI](https://open.spotify.com/album/1evrYcNjwbTlrNCbmfPgpW) | 2:03 |

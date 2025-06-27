@@ -547,6 +547,28 @@
     },
     {
       "album": {
+        "name": "At Peace",
+        "url": "https://open.spotify.com/album/0BPCmxmfJM9Msh8MwT0eEL"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164042,
+      "name": "At Peace",
+      "url": "https://open.spotify.com/track/1Ae2O8GhTe5KiDrrurzm41"
+    },
+    {
+      "album": {
         "name": "Aukhe Saukhe",
         "url": "https://open.spotify.com/album/3Y6tIiGDHeZTQjGjYzQspr"
       },

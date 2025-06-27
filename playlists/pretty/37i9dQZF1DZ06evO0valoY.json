@@ -1,12 +1,12 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 210299,
+  "num_followers": 210334,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAACtWUO2qmJ7uRZCJ6+2usoo",
+  "snapshot_id": "aFs8AAAAAAAholWO/ieWEysR26FiEHvo",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 229955,
+      "name": "Una Cervecita",
+      "url": "https://open.spotify.com/track/3XMFShBXPFGuqRPcVwmVtL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Que Hablen",
         "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
       },
@@ -735,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 229955,
-      "name": "Una Cervecita",
-      "url": "https://open.spotify.com/track/3XMFShBXPFGuqRPcVwmVtL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vibras de Noche",
         "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
       },
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 245911,
-      "name": "Dame Tu Calor",
-      "url": "https://open.spotify.com/track/4tKEWCeBSeiSJVB9ZURgUz"
+      "duration_ms": 239874,
+      "name": "Ganas Que Te Tengo",
+      "url": "https://open.spotify.com/track/1sS5aMT5JWYSHwrTbxGGsn"
     },
     {
       "added_at": null,
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 239874,
-      "name": "Ganas Que Te Tengo",
-      "url": "https://open.spotify.com/track/1sS5aMT5JWYSHwrTbxGGsn"
+      "duration_ms": 245911,
+      "name": "Dame Tu Calor",
+      "url": "https://open.spotify.com/track/4tKEWCeBSeiSJVB9ZURgUz"
     },
     {
       "added_at": null,

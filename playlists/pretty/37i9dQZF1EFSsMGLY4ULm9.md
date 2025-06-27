@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSsMGLY4ULm9.md) - [plain]
 | 40 | [Perdão](https://open.spotify.com/track/1JBefV6pBfI4K5KmfyNhWG) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 3:58 |
 | 41 | [Jerusalém](https://open.spotify.com/track/5UOYM3IUPFCgGGyETdFkeg) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 5:24 |
 | 42 | [Arrebatamento](https://open.spotify.com/track/0e0wRHTvtMhxErIerm1doV) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Resolvi Te Abençoar](https://open.spotify.com/album/4NYaqpow0G4q8KrI6IZYGd) | 6:29 |
-| 43 | [Deus É a Resposta](https://open.spotify.com/track/0G07BqkuPbSlgF23eqRbZd) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Resolvi Te Abençoar](https://open.spotify.com/album/4NYaqpow0G4q8KrI6IZYGd) | 5:39 |
-| 44 | [Deus Está no Controle](https://open.spotify.com/track/45IdtIJYQ9WWgSkJmPZmIG) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Seu Nome É Já](https://open.spotify.com/album/3LjAdB9njhpYvMGA9Je4Lt) | 4:46 |
+| 43 | [Deus Está no Controle](https://open.spotify.com/track/45IdtIJYQ9WWgSkJmPZmIG) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Seu Nome É Já](https://open.spotify.com/album/3LjAdB9njhpYvMGA9Je4Lt) | 4:46 |
+| 44 | [Deus É a Resposta](https://open.spotify.com/track/0G07BqkuPbSlgF23eqRbZd) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Resolvi Te Abençoar](https://open.spotify.com/album/4NYaqpow0G4q8KrI6IZYGd) | 5:39 |
 | 45 | [Deixa Que Ele Abre](https://open.spotify.com/track/6IX3QO2jSkTFS3Ae9NSJfe) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Resolvi Te Abençoar](https://open.spotify.com/album/4NYaqpow0G4q8KrI6IZYGd) | 4:07 |
 | 46 | [Deixa Jesus Entrar](https://open.spotify.com/track/2OvHz9lXTrOweJFDHHLW2d) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Seu Nome É Já](https://open.spotify.com/album/3LjAdB9njhpYvMGA9Je4Lt) | 4:35 |
 | 47 | [Milagre](https://open.spotify.com/track/4T0AOFnCjlDrsKwgmQWLPw) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Seu Nome É Já](https://open.spotify.com/album/3LjAdB9njhpYvMGA9Je4Lt) | 6:37 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSsMGLY4ULm9.md) - [plain]
 | 62 | [Glorifique & Exalte a Ele](https://open.spotify.com/track/6Z56KObDNMmrqr5G4BFb2b) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz), [Debora Torres](https://open.spotify.com/artist/3dkJrC0qUslIThb7IQOyJx) | [Glorifique & Exalte a Ele](https://open.spotify.com/album/3tUFOrv3WONr57J4La7Bw9) | 5:38 |
 | 63 | [João Viu](https://open.spotify.com/track/56xECx4qsFLwq7LFcC3hgK) | [Raquel Coutinho](https://open.spotify.com/artist/3SFmogeXtsLZ6p6HOWBRNG) | [De Bem Com Deus](https://open.spotify.com/album/0jU9n891TACEZppbJpzImE) | 5:28 |
 
-Snapshot ID: `Ab1HVAAAAADJKqRskPFQ59IyBpJ/N9o8`
+Snapshot ID: `Ab1NCAAAAADc59yEuUK0vIUkZQwRxczs`

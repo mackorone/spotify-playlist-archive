@@ -882,7 +882,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 345813,
       "name": "Garri Kasparow",
       "url": "https://open.spotify.com/track/4fiK2HSueG8QBQSbmD3h5g"
@@ -1375,6 +1375,32 @@
     },
     {
       "album": {
+        "name": "The Exxecution",
+        "url": "https://open.spotify.com/album/7D64j1CgrZMK5Zu9a5WuF5"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Ruste Juxx",
+          "url": "https://open.spotify.com/artist/34jkD9MaYCGeY9V1zqDGEP"
+        },
+        {
+          "name": "Black Moon",
+          "url": "https://open.spotify.com/artist/2yN6bq26wynQcRuPkBYTDb"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256320,
+      "name": "Let's Take a Sec",
+      "url": "https://open.spotify.com/track/4bCk5wae4jZ62SNQte71av"
+    },
+    {
+      "album": {
         "name": "Midnight Run",
         "url": "https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK"
       },
@@ -1646,7 +1672,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 198159,
       "name": "Medellin",
       "url": "https://open.spotify.com/track/34d6c3rUZ9lHqRSDx7J94H"
@@ -1826,7 +1852,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 187288,
       "name": "Nightmare on Fro Street",
       "url": "https://open.spotify.com/track/5PwQr0inF40AnQ9c3RnCuX"

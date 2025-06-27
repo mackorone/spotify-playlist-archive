@@ -10647,6 +10647,28 @@
     },
     {
       "album": {
+        "name": "tender Remix",
+        "url": "https://open.spotify.com/album/6UxnjFQfPhF7OqkgDZUUVi"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        },
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193125,
+      "name": "Raincoat (Paul Grant Remix)",
+      "url": "https://open.spotify.com/track/7qTS3XAGwebfMgFWgQcB1i"
+    },
+    {
+      "album": {
         "name": "Raining",
         "url": "https://open.spotify.com/album/1e4TMOBtDEiKHSLe0JtZFS"
       },
@@ -13462,7 +13484,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 190285,
       "name": "The Way of the Rain",
       "url": "https://open.spotify.com/track/2Ir8dmGIHvP6Kh0iyaWRNU"

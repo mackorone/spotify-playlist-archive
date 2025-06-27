@@ -4,7 +4,7 @@
 
 > Het leven is prachtig en dat verdient goede muziek
 
-151 songs - 8 hr 28 min
+154 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Carry You](https://open.spotify.com/track/7f1vgZPMtOj8g8V85pa3ld) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [A Little Light in the Dark](https://open.spotify.com/album/1lsjasOLDY9fe5MSAC1amY) | 3:22 | 2025-04-04 |  |
 | [Catch It Alive](https://open.spotify.com/track/1zGHG90IrbVAgwfvMPzhk3) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [Catch It Alive](https://open.spotify.com/album/1K3STjN129PSyjtYPpbJtV) | 3:39 | 2025-06-19 |  |
 | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/album/52cGkRluhnid41ZmzvVKm6) | 3:27 | 2024-07-01 | 2024-11-08 |
+| [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 | 2025-06-26 |  |
 | [Could Have Been Us](https://open.spotify.com/track/4YnwFg1qB2E6euEB6a9v9q) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Could Have Been Us](https://open.spotify.com/album/6MBWWDyw0JTFgbP1E14fr8) | 3:16 | 2025-05-09 |  |
 | [Country Mile](https://open.spotify.com/track/5oD7ZW1uUJL2QMQ4cQyNJ0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Country Mile / Picture Of You \(X+W\)](https://open.spotify.com/album/52GkmdDV5MIcPBgo5L4zFk) | 4:58 | 2024-11-28 | 2025-03-14 |
 | [Cowboys of Los](https://open.spotify.com/track/4sPsl1gLOaq5yiCKo1UbBc) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Cowboys of Los](https://open.spotify.com/album/218OGsKxVoDNZwue6n2yXH) | 4:03 | 2025-04-03 |  |
@@ -38,10 +39,11 @@
 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2024-07-01 | 2024-11-15 |
 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-10-21 | 2025-04-12 |
 | [Fighter](https://open.spotify.com/track/1VtdRcAoQZXo6hGJojtRKv) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Moodswings](https://open.spotify.com/album/0oJlmRx6Xnbwy9uwJy7EnA) | 2:31 | 2025-04-24 | 2025-05-23 |
-| [Forever Ayayay](https://open.spotify.com/track/5Z50CiMHjQ5bk013yfWeTU) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Sunkissed](https://open.spotify.com/album/5IxTreJqAgwytAjsGZDSNV) | 3:36 | 2024-09-19 |  |
+| [Forever Ayayay](https://open.spotify.com/track/5Z50CiMHjQ5bk013yfWeTU) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Sunkissed](https://open.spotify.com/album/5IxTreJqAgwytAjsGZDSNV) | 3:36 | 2024-09-19 | 2025-06-27 |
 | [Forget Somebody](https://open.spotify.com/track/4nTsYZHFfecWk7NPXqqVyD) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Forget Somebody](https://open.spotify.com/album/68xO5TGhgtqwNpPgxuYTCo) | 2:43 | 2024-07-01 | 2024-07-30 |
 | [Free For Another Day](https://open.spotify.com/track/3ouNQOmQUd1swZpXWFlMPe) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Free For Another Day](https://open.spotify.com/album/3aER22kJjTQAiiLNGfnuRr) | 2:42 | 2024-11-21 |  |
 | [Gloria](https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Gloria](https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw) | 3:37 | 2025-06-13 |  |
+| [Going to Mars](https://open.spotify.com/track/1nTFwSGY1ygMC2DmLa1CsM) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Going to Mars](https://open.spotify.com/album/5PrSHfxpwJDKC91aPYnftY) | 3:05 | 2025-06-26 |  |
 | [Good Enough](https://open.spotify.com/track/46CcxJGa71r6b7Kso0zCo5) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Good Enough](https://open.spotify.com/album/6RvxG9FO7YTFHJDRiEiLFH) | 2:18 | 2025-01-23 | 2025-04-12 |
 | [Good To Be](https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be](https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW) | 2:27 | 2024-09-27 | 2025-05-13 |
 | [Good To You](https://open.spotify.com/track/0c8lSIQejPTJPKJ8fgA7eW) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Good To You](https://open.spotify.com/album/3tObTrR6FqKbPYJUHRKcbg) | 3:44 | 2024-10-21 | 2024-12-21 |
@@ -57,7 +59,7 @@
 | [heat](https://open.spotify.com/track/0qB6vfLUW11bMGjz8SHvtt) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [heat](https://open.spotify.com/album/7N1nx9qGHk0KpDDgJNtG6z) | 3:06 | 2024-07-01 | 2025-01-17 |
 | [Heaven](https://open.spotify.com/track/0CE8tMkJlixcPcHSKAvTJZ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Heaven](https://open.spotify.com/album/3aBKgZS47p6bqmSuWG5Hr6) | 3:52 | 2024-07-01 | 2024-11-05 |
 | [Heavy](https://open.spotify.com/track/0aw9eYHRnhcOCKRGUmg8mB) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk), [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Heavy](https://open.spotify.com/album/53vlkY1WXAW0MWRgGqR74z) | 3:34 | 2025-01-09 |  |
-| [Hedonism](https://open.spotify.com/track/2q2dQNaDVmSeLV4UgbLGtn) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [Hedonism](https://open.spotify.com/album/4YEOVs05mZl1CC8GYwV2os) | 2:49 | 2024-11-07 |  |
+| [Hedonism](https://open.spotify.com/track/2q2dQNaDVmSeLV4UgbLGtn) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [Hedonism](https://open.spotify.com/album/4YEOVs05mZl1CC8GYwV2os) | 2:49 | 2024-11-07 | 2025-06-27 |
 | [Here To Stay](https://open.spotify.com/track/47nDxKt2bTRH1CtU8fgKnu) | [Holliz](https://open.spotify.com/artist/1GcM7yt6bCkRdj82FxVY45) | [Here To Stay](https://open.spotify.com/album/6Qun7KN1zgB4W2tCMv8mBx) | 3:11 | 2024-11-07 |  |
 | [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 | 2024-07-15 | 2025-04-18 |
 | [Higher Love](https://open.spotify.com/track/1fYN7EbQCFgz7rhy7zoUfU) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Higher Love](https://open.spotify.com/album/7MZZANSLtVsVBCXsXMdow9) | 3:00 | 2024-07-01 | 2025-01-24 |
@@ -108,7 +110,7 @@
 | [PAINFUL PARADISE](https://open.spotify.com/track/3PUMFgRmBuKqGDtNKLBPt6) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [PAINFUL PARADISE](https://open.spotify.com/album/54nuF8VIzj6ZoW5yYFHt9M) | 2:53 | 2024-07-01 | 2024-10-22 |
 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 | 2025-02-03 |  |
 | [Pink Shades](https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Pink Shades](https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv) | 3:30 | 2024-07-01 | 2024-10-23 |
-| [Queen of my Castle](https://open.spotify.com/track/5xvL8aAtHOj0R7Fpz4eAVS) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Queen of my Castle](https://open.spotify.com/album/4RRplsBhzIVuwUeFcQnDJr) | 3:12 | 2024-09-24 |  |
+| [Queen of my Castle](https://open.spotify.com/track/5xvL8aAtHOj0R7Fpz4eAVS) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Queen of my Castle](https://open.spotify.com/album/4RRplsBhzIVuwUeFcQnDJr) | 3:12 | 2024-09-24 | 2025-06-27 |
 | [Remember Me](https://open.spotify.com/track/60DTWHQSXLdOMairERdoOn) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Self Sabotage](https://open.spotify.com/album/2LMv04vlituVhg9BD2VUVL) | 3:25 | 2025-03-07 |  |
 | [Remind Me](https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Remind Me](https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt) | 3:31 | 2024-07-01 | 2024-07-27 |
 | [Rescue Me](https://open.spotify.com/track/6layeClm9iQ1xOPYZ9zbJU) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Rescue Me](https://open.spotify.com/album/2xpvAnyCde4Q20Q193vfgR) | 2:47 | 2025-03-17 |  |
@@ -144,6 +146,7 @@
 | [Wastelands](https://open.spotify.com/track/0XFPoeF4wAc2lBckxnoKdP) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Sphinx](https://open.spotify.com/album/65aaWX8pDif9qt6u4kNPpq) | 3:40 | 2025-01-06 |  |
 | [We're Gonna Be Okay](https://open.spotify.com/track/2gZ3Twqqirs6A2Xf1mBubH) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [We're Gonna Be Okay](https://open.spotify.com/album/6gGP8SyIyRCAxsMhk11HY5) | 2:59 | 2025-01-16 |  |
 | [Weak In The Knees](https://open.spotify.com/track/4iVzeNvV42xwtm4bvKJ2Iu) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Weak In The Knees](https://open.spotify.com/album/50dhdw314flh7k7IKBDP9p) | 3:06 | 2024-07-15 | 2025-04-25 |
+| [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2025-06-26 |  |
 | [Weekends](https://open.spotify.com/track/4I1hG0PHHar6Jy8WZSvHmI) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Weekends](https://open.spotify.com/album/7MY5s9z7uyS4YRy1AGL3rt) | 3:20 | 2024-07-01 | 2024-07-05 |
 | [What Do You Believe In?](https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In?](https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP) | 3:10 | 2024-10-21 | 2025-01-24 |
 | [What If I Want You Now](https://open.spotify.com/track/6yYFUkI1RitIRxGlXadb4d) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [What If I Want You Now](https://open.spotify.com/album/43fvwvfFC0F8XVLhzeXKaq) | 3:10 | 2024-12-20 |  |

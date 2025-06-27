@@ -4,7 +4,7 @@
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-81 songs - 3 hr 53 min
+82 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [No Bars](https://open.spotify.com/track/4aJYaQide0vBqT3ErvVKvp) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [No Bars](https://open.spotify.com/album/4Ad0AJ7kZ296e7wu8Ri4QJ) | 2:56 | 2023-07-15 | 2025-03-13 |
 | [Panties An Bra](https://open.spotify.com/track/5Pv2Mupc12dt63SbqkMEhP) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 1:54 | 2023-05-10 | 2025-06-14 |
 | [Pastor \(Quavo, City Girls feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4awve4McsKOqVuOpAbg6BF) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:40 | 2022-10-28 |  |
-| [Peach \(feat\. City Girls\)](https://open.spotify.com/track/1lgQjuwCLFdDIE6yKz0c5R) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [UNDER8ED](https://open.spotify.com/album/45x9T2H8aU4ckLPOYfGucD) | 2:50 | 2022-10-28 |  |
+| [Peach](https://open.spotify.com/track/43tqXfCPAL7SwGd1IoVJr7) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [UNDER8ED](https://open.spotify.com/album/3PDlbCUpbitsraP877GYTQ) | 2:51 | 2025-06-27 |  |
+| [Peach \(feat\. City Girls\)](https://open.spotify.com/track/1lgQjuwCLFdDIE6yKz0c5R) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [UNDER8ED](https://open.spotify.com/album/45x9T2H8aU4ckLPOYfGucD) | 2:50 | 2022-10-28 | 2025-06-27 |
 | [Perfect \(feat\. City Girls\)](https://open.spotify.com/track/0qJ0eDL9Szdylx4kRRCBQD) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Trying To Find My Next Thrill](https://open.spotify.com/album/3l9X9abmztD680Rs0HnT98) | 3:19 | 2022-10-28 |  |
 | [Period \(We Live\)](https://open.spotify.com/track/1FdjGON62xLxgPZW8BGeHS) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:34 | 2022-10-28 |  |
 | [Piñata](https://open.spotify.com/track/1DKwfFIKo93f2oiwZjwyMr) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Piñata](https://open.spotify.com/album/12zhNm6ybv6ouz6J8b9qWu) | 2:13 | 2023-06-11 |  |

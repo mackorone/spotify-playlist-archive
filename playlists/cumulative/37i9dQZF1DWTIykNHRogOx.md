@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française\. Photo: Hélène Sio
+> Les  meilleures nouveautés de la chanson française\. Photo: Benjamin Biolay
 
-193 songs - 10 hr 36 min
+195 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [L'inconnu en personne \- Radio Edit](https://open.spotify.com/track/69IZjDKBWn809QMckwd4Tz) | [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [L'inconnu en personne](https://open.spotify.com/album/2T5Id14bRWzmUDloWyi26O) | 3:36 | 2025-05-22 |  |
 | [L'Océan des Amoureux](https://open.spotify.com/track/2xZW4rrLzolmc9HfmnqkDP) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:56 | 2025-01-09 | 2025-06-06 |
 | [L'oiseau](https://open.spotify.com/track/50FrNM0qlOykUxfAIaYL2f) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Si on sombre ce sera beau](https://open.spotify.com/album/3F6QXyRhmIV75vrrcE7Qdv) | 3:01 | 2025-01-23 | 2025-06-20 |
+| [La bohème](https://open.spotify.com/track/1Fv7n2VwpfN7dyhNTOYvFm) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [La bohème](https://open.spotify.com/album/2L6vtG68KIy1vLgCPGtPpB) | 2:40 | 2025-06-26 |  |
 | [La fresque](https://open.spotify.com/track/2eelhSfH6dy2EpAkidvsmE) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [La fresque](https://open.spotify.com/album/24fO1cCmRAxui3fxi3hKCh) | 2:58 | 2025-03-13 | 2025-05-16 |
 | [La louve](https://open.spotify.com/track/7ib2PxnOEbqOc1GQYFSoBD) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOXX \(Nouvelle édition\)](https://open.spotify.com/album/1snFVyVzC1p0eDlyXRR1l1) | 3:43 | 2024-09-26 | 2025-01-10 |
 | [La musique à fond](https://open.spotify.com/track/7jVGaMb1XA9u88tWlouB4t) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La musique à fond](https://open.spotify.com/album/1GmHIr4LHAwuloVe5FuiVo) | 3:26 | 2025-05-15 |  |
@@ -114,12 +115,12 @@
 | [Les années lumière](https://open.spotify.com/track/0rhFDz2X2OG5QLHi4SvrS1) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63), [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Les années lumière](https://open.spotify.com/album/7nvZv8TiBjGjl6hJRckc5W) | 5:06 | 2024-10-03 | 2025-02-07 |
 | [Les astres](https://open.spotify.com/track/0hohLgH1EscBU1JDi60o8G) | [Laura Cahen](https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F) | [Les astres](https://open.spotify.com/album/1Thifz0MQKV9J6uqpz7Tbg) | 4:00 | 2024-09-26 | 2025-06-13 |
 | [Les battements du cœur](https://open.spotify.com/track/3TJb4Bi0FFec1NSf3SWQz6) | [Louis Chedid](https://open.spotify.com/artist/2rBb2WwvpcIHNiofmw22vn) | [Les battements du cœur](https://open.spotify.com/album/7i5WbGyIr7aqoGL5g673kv) | 3:14 | 2024-10-17 | 2024-10-23 |
-| [Les battements du cœur](https://open.spotify.com/track/67K5HMqmUyVflF3xjQ5MpZ) | [Louis Chedid](https://open.spotify.com/artist/2rBb2WwvpcIHNiofmw22vn) | [Rêveur, Rêveur](https://open.spotify.com/album/3kqttZxgp69ma3RYmscTdB) | 3:14 | 2025-01-23 |  |
+| [Les battements du cœur](https://open.spotify.com/track/67K5HMqmUyVflF3xjQ5MpZ) | [Louis Chedid](https://open.spotify.com/artist/2rBb2WwvpcIHNiofmw22vn) | [Rêveur, Rêveur](https://open.spotify.com/album/3kqttZxgp69ma3RYmscTdB) | 3:14 | 2025-01-23 | 2025-06-27 |
 | [Les derniers jours de pluies \- Edit Version](https://open.spotify.com/track/3DYKwNNBw82vXKTCvOuYGZ) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Les derniers jours de pluies \(Edit version\)](https://open.spotify.com/album/31hyMyNSBb4Sc3qCvNPJwT) | 2:57 | 2024-10-03 | 2025-02-07 |
 | [Les garçons](https://open.spotify.com/track/5R2vhB1BdBj517BCqGMncJ) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 2:50 | 2024-06-27 | 2024-09-27 |
 | [Les ogres](https://open.spotify.com/track/6313xKMuwpKqA2xP1Tl2wU) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Les ogres](https://open.spotify.com/album/3lutBn9xqQgjOUpj88L8mf) | 2:54 | 2024-11-28 | 2025-04-18 |
 | [Les ogres](https://open.spotify.com/track/7maKIQM9dXihvpXAJGSPiV) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Si on sombre ce sera beau](https://open.spotify.com/album/3F6QXyRhmIV75vrrcE7Qdv) | 2:54 | 2025-04-24 |  |
-| [Les ratures](https://open.spotify.com/track/3HSSGaHoHkJK4wXxr0bdQq) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Les ratures](https://open.spotify.com/album/5n4FmzmHvPzvilS26pNZJr) | 3:17 | 2025-04-24 |  |
+| [Les ratures](https://open.spotify.com/track/3HSSGaHoHkJK4wXxr0bdQq) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Les ratures](https://open.spotify.com/album/5n4FmzmHvPzvilS26pNZJr) | 3:17 | 2025-04-24 | 2025-06-27 |
 | [Les rois du désespoir](https://open.spotify.com/track/7KSWiI3gGion3Q8ufIGyDp) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [Les rois du désespoir](https://open.spotify.com/album/7eCOVuXXXrZdxSLZeEAn8s) | 2:48 | 2024-09-05 | 2024-11-22 |
 | [Les tours d'horloge](https://open.spotify.com/track/1sdUVIFiZsQkYR9zb8NCME) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM), [Trio SR9](https://open.spotify.com/artist/1sqwA17XCYCqJiAzQq0h3G) | [Les tours d'horloge](https://open.spotify.com/album/6S455vueaUSjsktIQgovkK) | 3:19 | 2025-02-06 | 2025-05-16 |
 | [LILA](https://open.spotify.com/track/5icFlrdlmnMbnvQu5HotQ3) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Lila](https://open.spotify.com/album/7AN65th2nIoDy1z5N1EDe7) | 3:08 | 2025-06-12 |  |
@@ -152,6 +153,7 @@
 | [Perdre la tête](https://open.spotify.com/track/3dFZHXcS7OrUL6A66Qfnr3) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Perdre la tête](https://open.spotify.com/album/62Mz5Fx2IrH3C0F1bE1lGQ) | 3:23 | 2024-06-27 | 2024-10-11 |
 | [PEUR DE RIEN](https://open.spotify.com/track/3nAFx9qe9yHobSF4JaV7e2) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [À TRAVERS](https://open.spotify.com/album/5XZlKtB1RmSOrDbnKVJQ6x) | 3:22 | 2024-10-03 | 2025-02-21 |
 | [Plastique](https://open.spotify.com/track/7nqOy9W1AcgvPB1Ww3N44S) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Plastique](https://open.spotify.com/album/3nRIj7ie5Fg81SmrXwCP0r) | 3:07 | 2025-02-13 | 2025-06-13 |
+| [Pluie de data](https://open.spotify.com/track/3F2zj7x4wGGpWmezFy07BF) | [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [Pluie de data](https://open.spotify.com/album/2iAXxsQJ0e9cT2Jy9c0amS) | 4:48 | 2025-06-26 |  |
 | [Plusieurs](https://open.spotify.com/track/3iSW2g3seqcGRihjkwwh6l) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Plusieurs](https://open.spotify.com/album/5R3ElE0JOCffSb7U8xM5Xz) | 3:08 | 2025-04-10 | 2025-05-23 |
 | [Pour te plaire](https://open.spotify.com/track/1btUUml5I5zktEtJlmaht1) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Pour te plaire](https://open.spotify.com/album/1GAS9ktxls3jYTnHWU31uq) | 3:04 | 2025-01-30 | 2025-06-13 |
 | [Pourquoi on pleure](https://open.spotify.com/track/5vTsiAJh3AaPQRFM3mP4qu) | [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC), [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Toi là\-bas](https://open.spotify.com/album/5nqbZQ4EKOdNoRILDLBGg8) | 2:57 | 2025-03-06 |  |

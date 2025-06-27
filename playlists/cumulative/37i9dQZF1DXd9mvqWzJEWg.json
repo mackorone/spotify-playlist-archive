@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href=\"https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon?si=DGtITNlzQeeqC5_ICWZI9A\">Kamo Mphela</a>",
+  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href=\"https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn?si=WuYDqhGOTQCrC9uq9LbGhA\">ZVRI</a>",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -320,7 +320,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 294244,
       "name": "Anger Issues",
       "url": "https://open.spotify.com/track/1fw28PvZzaP5sSXQ8aakrY"
@@ -6284,6 +6284,24 @@
     {
       "album": {
         "name": "Poison",
+        "url": "https://open.spotify.com/album/0tINZW0OD4a6FXoEfe8XTU"
+      },
+      "artists": [
+        {
+          "name": "Amatycooler",
+          "url": "https://open.spotify.com/artist/4aT1nL2qkk47Kb6yvXV1Aw"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293328,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/2GDDuKr6qgpIZD9lOOvVUl"
+    },
+    {
+      "album": {
+        "name": "Poison",
         "url": "https://open.spotify.com/album/3xj5tiCaXrg5A3Y2AGQqRJ"
       },
       "artists": [
@@ -6354,6 +6372,24 @@
       "duration_ms": 336875,
       "name": "Praise Him",
       "url": "https://open.spotify.com/track/2PKV4r3G6kh1iHJ8tAw78I"
+    },
+    {
+      "album": {
+        "name": "Relentless",
+        "url": "https://open.spotify.com/album/2E55tzIeMiNScqBLX7rF9T"
+      },
+      "artists": [
+        {
+          "name": "ZVRI",
+          "url": "https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/7mxG6tzpRVR0jfTLstFrf6"
     },
     {
       "album": {
@@ -8614,7 +8650,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 392542,
       "name": "VAR",
       "url": "https://open.spotify.com/track/72V7ipYJNBUkLWc2ZR49z0"

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-78 songs - 3 hr 39 min
+79 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Don't Wake Me Up](https://open.spotify.com/track/1CqdtosAf3DaK6HWbee2JX) | [NLSN](https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk), [JEMKA](https://open.spotify.com/artist/5eeQYpsEkVTJCXPZnp5gTt), [RED](https://open.spotify.com/artist/6UZK9xlpTAM8dUAiB2Y42b) | [Don't Wake Me Up](https://open.spotify.com/album/2DOtUcaMZeiUkQ1qB5nDBb) | 2:14 | 2024-10-23 |  |
 | [Easy](https://open.spotify.com/track/7zIAOOs39Z7913Off5G7FD) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos](https://open.spotify.com/album/51LrCn7WwuMfGwQufI1Esl) | 3:08 | 2023-06-29 |  |
 | [Easy To Love](https://open.spotify.com/track/5Bns5x2e8ypUcDVuE1uyIm) | [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [Easy To Love](https://open.spotify.com/album/708yPIVpuslXntjeYcZ2de) | 2:37 | 2025-01-09 | 2025-04-12 |
+| [end of the world](https://open.spotify.com/track/1ZoCqQEuhoOEW4PQhVDovL) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [the wind is picking up](https://open.spotify.com/album/0zo7swJcqnoxLTWvBAtl19) | 3:09 | 2025-06-26 |  |
 | [erste liebe](https://open.spotify.com/track/24p3rBwIunzXjt8WOwu3eL) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [immer nur liebe](https://open.spotify.com/album/2D1YT6jEDEITABsSXuU0MY) | 2:48 | 2023-06-29 |  |
 | [Famous for a Day](https://open.spotify.com/track/0zPUSpMCNSn1ItUPANkCCs) | [LA Vision](https://open.spotify.com/artist/02qlwM8fpqep7vX8KKEFmK), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Famous for a Day](https://open.spotify.com/album/6GmcBZbFsGYXBEKLYb5o6M) | 2:51 | 2023-06-29 |  |
 | [feuer im kamin](https://open.spotify.com/track/4wvGfjOtOBw3vxMPj35wgY) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [immer nur liebe](https://open.spotify.com/album/2D1YT6jEDEITABsSXuU0MY) | 3:01 | 2023-06-29 |  |

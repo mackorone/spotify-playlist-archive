@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 687192,
+  "num_followers": 687239,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAAAWxf6nzDEAr7CQa80Wnt4c",
+  "snapshot_id": "aFs8AAAAAADeyclpeKGIVZcFkLie4IG6",
   "tracks": [
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Skin (The Collaboration Remix Edit)",
+        "url": "https://open.spotify.com/album/0fSFAAzYxzVcJadi9hzefq"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 318853,
+      "name": "Skin - The Collaboration Remix Edit",
+      "url": "https://open.spotify.com/track/0zFNdU81Fj9EuYAOuqMQ2X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Something to Remember",
         "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 250280,
       "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
       "url": "https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skin (The Collaboration Remix Edit)",
-        "url": "https://open.spotify.com/album/0fSFAAzYxzVcJadi9hzefq"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 318853,
-      "name": "Skin - The Collaboration Remix Edit",
-      "url": "https://open.spotify.com/track/0zFNdU81Fj9EuYAOuqMQ2X"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+        "name": "Erotica (PA Version)",
+        "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 229600,
-      "name": "Cherish",
-      "url": "https://open.spotify.com/track/7BLKBIoijWCkDyOATEr5vW"
+      "duration_ms": 324733,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/3b3PnE1ROIZzILjmCGjVib"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Erotica (PA Version)",
-        "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 324733,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/3b3PnE1ROIZzILjmCGjVib"
+      "duration_ms": 229600,
+      "name": "Cherish",
+      "url": "https://open.spotify.com/track/7BLKBIoijWCkDyOATEr5vW"
     },
     {
       "added_at": null,

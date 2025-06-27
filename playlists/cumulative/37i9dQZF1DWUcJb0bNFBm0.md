@@ -4,7 +4,7 @@
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: Slowwves \(Thailand\)
 
-213 songs - 14 hr 45 min
+214 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Doll](https://open.spotify.com/track/718j4dLgigKSHiRYiHuhMC) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Doll](https://open.spotify.com/album/233GhcZaDayKcSfRtx5rW3) | 3:31 | 2024-06-27 |  |
 | [Don't Get Yourself Dry](https://open.spotify.com/track/3CKSC3Wnq38bitaDJT1scQ) | [GAZEKATE](https://open.spotify.com/artist/4F8TQLHmLbfQbaewX40glp) | [Don't Get Yourself Dry](https://open.spotify.com/album/2QE4Yfo1KiIgpN6Hng3oh6) | 4:20 | 2024-06-27 | 2024-08-09 |
 | [Dreaming Alone or Together \- Bonus Track](https://open.spotify.com/track/7LXVCqcHEXUKze1GuyHjeO) | [Precocious Neophyte](https://open.spotify.com/artist/5kPW0F59KHeCSj2dQsiqfH) | [Dreaming Alone or Together \(Bonus Track\)](https://open.spotify.com/album/32jDcy43AE0wow0QmAS7zO) | 3:52 | 2024-06-27 | 2024-08-31 |
+| [Drift Away](https://open.spotify.com/track/480Mt8YPjKLUHdU5LOxcAU) | [Modern Guns](https://open.spotify.com/artist/5Xe1EJV713SoJ2RiZHJbPH) | [Drift Away](https://open.spotify.com/album/0ui3IumxlAW8dIuW31WvcY) | 3:22 | 2025-06-26 |  |
 | [Driven By Wanderlust](https://open.spotify.com/track/0oHUkg1oE93UUqUCYZshuj) | [Drotoch](https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U) | [Driven By Wanderlust](https://open.spotify.com/album/2MHaK1TaauTVrW6eGd4DyL) | 3:24 | 2024-07-19 | 2024-12-05 |
 | [Dua Angsa \- Remastered 2023](https://open.spotify.com/track/6GEugjRX4lMrDE7B8UEuuZ) | [Hazel](https://open.spotify.com/artist/3BeR8fsabzQWl15Kx0yFO8), [Pingkan Dive Collate](https://open.spotify.com/artist/5IAsTCrRJdzSnieVaYICm5) | [Dua Angsa \(Remastered 2023\)](https://open.spotify.com/album/0kxukdm90YZsIPKgr2KSOi) | 4:22 | 2024-06-27 | 2024-11-22 |
 | [Dumb Ass Pop Song](https://open.spotify.com/track/1XbUhcGNTIYGUgMKxoCZWx) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [Dumb Ass Pop Song](https://open.spotify.com/album/3a5ZSFq5jOoDCVMbTzbXqq) | 3:41 | 2025-01-16 |  |

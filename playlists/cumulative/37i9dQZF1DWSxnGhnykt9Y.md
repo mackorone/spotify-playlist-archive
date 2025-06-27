@@ -2,9 +2,9 @@
 
 ### [Women of Afro](https://open.spotify.com/playlist/37i9dQZF1DWSxnGhnykt9Y)
 
-> Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Bloody Civilian
+> Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Darkoo
 
-140 songs - 6 hr 42 min
+142 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Bad Vibes](https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g) | 2:48 | 2024-11-29 |  |
 | [Bigger Picture](https://open.spotify.com/track/21ZDmEYeHbewO0pXOOrXKD) | [Victoria Kimani](https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf) | [Mood 4 Life](https://open.spotify.com/album/6wVGimVZZwzEE5Oxo5G2ej) | 2:28 | 2024-11-29 |  |
 | [BISOUS](https://open.spotify.com/track/1V2NorIjuRXla69SxsYIcs) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0) | [BISOUS](https://open.spotify.com/album/4yI7pgYcbAcsV9v4VlbHSH) | 2:43 | 2025-01-17 | 2025-02-14 |
+| [Bom Bom \(Shoni Kompo\)](https://open.spotify.com/track/5Ydt3VtaElebZwn9GMqt1p) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y) | [Bom Bom \(Shoni Kompo\)](https://open.spotify.com/album/3BUsFxaGLtkj753vDlQreV) | 4:03 | 2025-06-27 |  |
 | [Borrow Me Your Baby \(feat\. Falz\)](https://open.spotify.com/track/01AkBgeMy8BSiJuzDl0WXc) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Borrow Me Your Baby \(feat\. Falz\)](https://open.spotify.com/album/56Kv6uvuBbZ2ZqjaZ9vKqs) | 3:08 | 2024-11-29 |  |
 | [Boyfriend In Paris](https://open.spotify.com/track/5NArp8DOWDrK4iP8Jyh40H) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [girl](https://open.spotify.com/album/3LkN5uWcg8RbjFT1UbBTAG) | 2:55 | 2024-11-29 |  |
 | [Breathe Me](https://open.spotify.com/track/5lpeQDudD4Dns3m3UjFx0y) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 3:21 | 2024-11-29 |  |
@@ -61,7 +62,7 @@
 | [JEWO](https://open.spotify.com/track/4jO0ZoVUDh79c9fg7eFI52) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [JEWO](https://open.spotify.com/album/1NaKzEKHBXGC62MHBTgmOW) | 3:05 | 2024-12-16 |  |
 | [Journey](https://open.spotify.com/track/5ReWZfDl0ZaFdhUi617FVp) | [PholaPreye](https://open.spotify.com/artist/1SrQsw28qIWqVzZc3G2EkE) | [Journey](https://open.spotify.com/album/20r4mfuM8UzBn25OnbIogd) | 3:14 | 2025-05-16 |  |
 | [Joy](https://open.spotify.com/track/3fy1cZJ5BwRXJ44Quz9Sum) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Joy](https://open.spotify.com/album/6DyLH9VXRUxCJYoMAOhQ3V) | 2:50 | 2024-11-29 |  |
-| [Judgement](https://open.spotify.com/track/6YeOk8fCfZH9aompQ8AF6f) | [MBA FOR AFRICA](https://open.spotify.com/artist/0ulQgZCqURiSMvE3ozLcDI), [Nissi Rayn](https://open.spotify.com/artist/04QQX5J9orlHR1qnXphr8l) | [Judgement](https://open.spotify.com/album/2rLxnPmXVEcyxViY4xeEiP) | 2:50 | 2025-06-20 |  |
+| [Judgement](https://open.spotify.com/track/6YeOk8fCfZH9aompQ8AF6f) | [MBA FOR AFRICA](https://open.spotify.com/artist/0ulQgZCqURiSMvE3ozLcDI), [Nissi Rayn](https://open.spotify.com/artist/04QQX5J9orlHR1qnXphr8l) | [Judgement](https://open.spotify.com/album/2rLxnPmXVEcyxViY4xeEiP) | 2:50 | 2025-06-20 | 2025-06-27 |
 | [Jujupiano](https://open.spotify.com/track/60Rdrz0jHgjziwqpMtgHCk) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [Richiemusic](https://open.spotify.com/artist/6z955aeEwVArjBleLgPLwG) | [Jujupiano La Presido](https://open.spotify.com/album/2KeqBy1snU9zaG9zz1ewgg) | 2:09 | 2025-03-28 |  |
 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 | 2024-11-29 |  |
 | [Kalm](https://open.spotify.com/track/3D7pl4aAhin72XouISYMt5) | [April Maey](https://open.spotify.com/artist/0CyVkXQydhAi8gPILbXb99) | [Moonchild](https://open.spotify.com/album/69lCC4Yw8FZebq1OW5sOkg) | 3:02 | 2024-11-29 | 2025-05-30 |
@@ -79,7 +80,7 @@
 | [Love Na Scam](https://open.spotify.com/track/5DoU2Z4yrJtDWohxvjqlfr) | [BOII](https://open.spotify.com/artist/7JThC6ggJATjWKKrHZULVf) | [Love Na Scam](https://open.spotify.com/album/3UnAYxlUXkEZNmqPkMEas9) | 3:22 | 2024-11-29 |  |
 | [Manyana](https://open.spotify.com/track/1eDlrirBzJ2Y8yeWLTz9Bf) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [Manyana](https://open.spotify.com/album/6XuZk8r7ludHlttY9Xule5) | 3:04 | 2024-11-29 |  |
 | [Maritha](https://open.spotify.com/track/0ZZEN6PN9CTnxhmZ4Map6k) | [Bwiza](https://open.spotify.com/artist/0KaDWWyzyRd8aRJlPyFQrX) | [25 SHADES](https://open.spotify.com/album/794yUvUkCNvJWKdEAdJVdS) | 3:05 | 2025-05-15 |  |
-| [MASSOKO NA MABELE](https://open.spotify.com/track/1skF9pCBGMFDnaQGuVa0v0) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta) | [MEGA BBL](https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p) | 2:57 | 2025-05-30 |  |
+| [MASSOKO NA MABELE](https://open.spotify.com/track/1skF9pCBGMFDnaQGuVa0v0) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta) | [MEGA BBL](https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p) | 2:57 | 2025-05-30 | 2025-06-27 |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2025-04-18 |  |
 | [MEGA MONEY MEGA](https://open.spotify.com/track/0GtkFcwZrNVpkPOavG1gfZ) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [MEGA MONEY MEGA](https://open.spotify.com/album/77bphBtAaaTCuM7pkFO7YV) | 2:48 | 2024-12-16 |  |
 | [Men Are Crazy](https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Men Are Crazy](https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi) | 3:06 | 2024-11-29 | 2025-03-29 |
@@ -147,6 +148,7 @@
 | [Work Me Out \(with Wizkid\)](https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:42 | 2024-11-29 |  |
 | [YBIL \(You Believe in Love\) \(feat\. Kizz Daniel\)](https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Qing Madi \(Deluxe\)](https://open.spotify.com/album/4vxIotduGifC33fGSfxxom) | 3:15 | 2024-11-29 |  |
 | [You are](https://open.spotify.com/track/2vVtf4WoiXXU5MhJw0JHuA) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [You are](https://open.spotify.com/album/5Ujy1ZcmvbCAgP4Vux11ux) | 2:32 | 2025-03-14 |  |
+| [Your Number](https://open.spotify.com/track/63iWu3MNvYmzHbd1gaIoFL) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [$exy Girl $ummer \(Vol.1\)](https://open.spotify.com/album/68q09r65wcBidNleimVoLk) | 2:04 | 2025-06-27 |  |
 | [ZENZELE \(feat\. Royal MusiQ, Uncool MC, Xduppy, & CowBoii\)](https://open.spotify.com/track/5wYyy08pvNomxBKFa3Bfj6) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [Uncool MC](https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [CowBoii](https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1) | [4 Da Ho's](https://open.spotify.com/album/3t6qF1HL758mQiMjVHi7m6) | 4:33 | 2025-05-16 |  |
 
 \*This playlist was first scraped on 2024-12-04. Prior content cannot be recovered.

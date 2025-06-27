@@ -1,12 +1,12 @@
 {
   "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "num_followers": 678596,
+  "num_followers": 678648,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFnqgAAAAABKM3kLSo8hA274ZeqAe14K",
+  "snapshot_id": "aFs8AAAAAADXC49CO3pN5xU74HEh2PSQ",
   "tracks": [
     {
       "added_at": null,
@@ -583,22 +583,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "An American Prayer",
-        "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
+        "name": "The Soft Parade (50th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0MuuO7q58HbGU3qUjICucE"
       },
       "artists": [
-        {
-          "name": "Jim Morrison",
-          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
-        },
         {
           "name": "The Doors",
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 63773,
-      "name": "Bird of Prey",
-      "url": "https://open.spotify.com/track/0psPuObi7UupQnXjaex39e"
+      "duration_ms": 39229,
+      "name": "I Am Troubled - 2019 Remaster",
+      "url": "https://open.spotify.com/track/4jj0yIh4mBIZEwjJwDVCYZ"
     },
     {
       "added_at": null,
@@ -619,18 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Soft Parade (50th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0MuuO7q58HbGU3qUjICucE"
+        "name": "An American Prayer",
+        "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
       },
       "artists": [
+        {
+          "name": "Jim Morrison",
+          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
+        },
         {
           "name": "The Doors",
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 39229,
-      "name": "I Am Troubled - 2019 Remaster",
-      "url": "https://open.spotify.com/track/4jj0yIh4mBIZEwjJwDVCYZ"
+      "duration_ms": 63773,
+      "name": "Bird of Prey",
+      "url": "https://open.spotify.com/track/0psPuObi7UupQnXjaex39e"
     },
     {
       "added_at": null,

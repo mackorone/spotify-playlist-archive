@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Aerobics",
+        "url": "https://open.spotify.com/album/6alYHotSin9ZeOVGssuWaM"
+      },
+      "artists": [
+        {
+          "name": "Kaat Van Stralen",
+          "url": "https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167901,
+      "name": "Aerobics",
+      "url": "https://open.spotify.com/track/1OVuAEWyMXoZbsRtXqpUta"
+    },
+    {
+      "album": {
         "name": "Afterparty",
         "url": "https://open.spotify.com/album/4X6bUbNF7ZM1hNNzPSWhw6"
       },
@@ -222,6 +240,24 @@
       "duration_ms": 153608,
       "name": "Als Ik Verdwaal",
       "url": "https://open.spotify.com/track/3rOONgNCEJmrebUkMU2UB9"
+    },
+    {
+      "album": {
+        "name": "Als Ik Verdwaal",
+        "url": "https://open.spotify.com/album/6KUBPnMGDsaTNvdplPKYjb"
+      },
+      "artists": [
+        {
+          "name": "Tienson",
+          "url": "https://open.spotify.com/artist/6NuwXIFcHEYmeu6Tf9BGt8"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223213,
+      "name": "Als Ik Verdwaal",
+      "url": "https://open.spotify.com/track/2CO40n2AIdtJb0z4ZSMnHj"
     },
     {
       "album": {
@@ -860,7 +896,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 178547,
       "name": "Drijfzand",
       "url": "https://open.spotify.com/track/4FQYVoqLzGiMFMKKWu4BNs"
@@ -1376,6 +1412,24 @@
       "duration_ms": 231159,
       "name": "hou me vast",
       "url": "https://open.spotify.com/track/3mbLs5eGlWr6PYG1NksRMx"
+    },
+    {
+      "album": {
+        "name": "Huis Van Zwart en Rood / Cederhout",
+        "url": "https://open.spotify.com/album/0u3Aq3qOZpLFa9zU275XBe"
+      },
+      "artists": [
+        {
+          "name": "De Nachtwacht",
+          "url": "https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136874,
+      "name": "Huis Van Zwart en Rood",
+      "url": "https://open.spotify.com/track/01ePjjnb3JX85NDzzt4aWs"
     },
     {
       "album": {
@@ -1920,7 +1974,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 156406,
       "name": "Koortsdroom",
       "url": "https://open.spotify.com/track/1Cor9T7xkYxRBdVX3hbaPN"
@@ -1992,7 +2046,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 186600,
       "name": "Lach",
       "url": "https://open.spotify.com/track/05P1nGFVfX5YYXH51nPeeJ"
@@ -2559,6 +2613,28 @@
     },
     {
       "album": {
+        "name": "lieve monsters",
+        "url": "https://open.spotify.com/album/58hG8DHeDtvVE2IrKq7IOM"
+      },
+      "artists": [
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        },
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200921,
+      "name": "oeps",
+      "url": "https://open.spotify.com/track/4w7Zhg034GDeMYnpOoZIuu"
+    },
+    {
+      "album": {
         "name": "Onderaan",
         "url": "https://open.spotify.com/album/4AcHfI9uHulK73ES6fyE0r"
       },
@@ -2748,7 +2824,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 163197,
       "name": "Prinses Pil",
       "url": "https://open.spotify.com/track/1WrwcIHLBhnXY459ybsY6p"
@@ -3449,6 +3525,24 @@
     },
     {
       "album": {
+        "name": "v2.025",
+        "url": "https://open.spotify.com/album/1UVFHFPXrnPXiLR7bOTiFZ"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211263,
+      "name": "VOL v2.025",
+      "url": "https://open.spotify.com/track/61pq3uXW7ybCgWxBi4iAGY"
+    },
+    {
+      "album": {
         "name": "voor alles bang / h-e-l-p",
         "url": "https://open.spotify.com/album/3yVBy9LeYgznW4mA0Q6bOW"
       },
@@ -3464,7 +3558,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 182663,
       "name": "voor alles bang",
       "url": "https://open.spotify.com/track/0lC1IUZXQ6ukTQfSVqCJa3"
@@ -3616,7 +3710,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-27",
       "duration_ms": 201750,
       "name": "Weer Verliefd",
       "url": "https://open.spotify.com/track/11xGbQB9tJX9qtM9HHCDMf"
@@ -3688,7 +3782,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-21",
+      "date_removed": null,
       "duration_ms": 215184,
       "name": "Wind In De Zeilen",
       "url": "https://open.spotify.com/track/1CuunQxTRe5jL13ikuQ67Y"

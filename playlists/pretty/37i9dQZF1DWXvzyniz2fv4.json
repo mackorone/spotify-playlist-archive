@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158732,
+  "num_followers": 158750,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -223,30 +223,6 @@
     {
       "added_at": "2025-06-06 21:28:50",
       "album": {
-        "name": "Ibiza",
-        "url": "https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK"
-    },
-    {
-      "added_at": "2025-06-06 21:28:50",
-      "album": {
         "name": "Voos Internacionais, Vol. 2",
         "url": "https://open.spotify.com/album/7gzZ5z8Nd66LrjXu71Z3Bj"
       },
@@ -271,6 +247,30 @@
       "duration_ms": 143721,
       "name": "S\u00e1bado",
       "url": "https://open.spotify.com/track/6Abi9YlVMQ5iDRwIU9WYfo"
+    },
+    {
+      "added_at": "2025-06-06 21:28:50",
+      "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK"
     },
     {
       "added_at": "2025-06-06 21:28:50",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2025-06-06 21:28:50",
       "album": {
+        "name": "Sabe Qual \u00c9",
+        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
+      },
+      "artists": [
+        {
+          "name": "Nathan",
+          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
+        }
+      ],
+      "duration_ms": 150361,
+      "name": "Sabe Qual \u00c9",
+      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
+    },
+    {
+      "added_at": "2025-06-06 21:28:50",
+      "album": {
         "name": "Nossas M\u00eddias",
         "url": "https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 206769,
       "name": "Nossas M\u00eddias",
       "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
-    },
-    {
-      "added_at": "2025-06-06 21:28:50",
-      "album": {
-        "name": "Sabe Qual \u00c9",
-        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
-      },
-      "artists": [
-        {
-          "name": "Nathan",
-          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
-        }
-      ],
-      "duration_ms": 150361,
-      "name": "Sabe Qual \u00c9",
-      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
     }
   ],
   "unique_name": "Resenha na Praia",

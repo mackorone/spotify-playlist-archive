@@ -4,7 +4,7 @@
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.
 
-252 songs - 17 hr 1 min
+253 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Can’t Get Enough](https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Can’t Get Enough](https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu) | 2:11 | 2021-10-31 | 2024-06-23 |
 | [Certainly \(Live\)](https://open.spotify.com/track/7w0VUpbOxDzu0ogn7ZQkfF) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Worship Anywhere: Live from Camp NewBreed](https://open.spotify.com/album/5BCKzBSDLSpS7RHBgmgExp) | 4:54 | 2024-07-26 | 2025-04-05 |
 | [Christ The Lord Is with Me \(with Amanda Cook & Wonder Grace Gretzinger\)](https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Wonder Grace Gretzinger](https://open.spotify.com/artist/2Sh7QdDYLyKTR0SPofWKsD) | [Forever Amen](https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY) | 4:26 | 2021-10-31 | 2024-07-27 |
-| [Closer to Heaven](https://open.spotify.com/track/7ygoUlBTpmN7TAnHT4g90U) | [Gelka](https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF), [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Closer to Heaven](https://open.spotify.com/album/3t6aAyFnQDL57BHpCOKKbN) | 3:16 | 2025-04-05 |  |
+| [Closer to Heaven](https://open.spotify.com/track/7ygoUlBTpmN7TAnHT4g90U) | [Gelka](https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF), [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Closer to Heaven](https://open.spotify.com/album/3t6aAyFnQDL57BHpCOKKbN) | 3:16 | 2025-04-05 | 2025-06-27 |
 | [Clouds](https://open.spotify.com/track/2AmHhr6CvjpvYqdXy02VgU) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [Clouds](https://open.spotify.com/album/2wka6tv9YcVMl9MCHhmFii) | 3:39 | 2021-10-31 |  |
 | [Come Back \(Psalm 80\)](https://open.spotify.com/track/0pHk1i5G3ubku2jBQ1dr0z) | [Melanie Waldman](https://open.spotify.com/artist/4v8E8IXJ7pnmbQvMhQxjjd) | [Come Back \(Psalm 80\)](https://open.spotify.com/album/0yRVfrV533vgv49LSdJjJK) | 3:42 | 2024-07-26 | 2025-04-05 |
 | [Constellations](https://open.spotify.com/track/4ggf5GOKRt0BuvErp8P87t) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Canyon](https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ) | 3:40 | 2021-10-31 | 2024-04-19 |
@@ -208,6 +208,7 @@
 | [So Well](https://open.spotify.com/track/6oEH8lhWAcFZUJZRpakBpB) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [So Well](https://open.spotify.com/album/7tDMDC5zHGdawFHfFrKpwj) | 4:49 | 2021-10-31 | 2022-11-21 |
 | [So Well](https://open.spotify.com/track/7H2oCmru9QL84hO04PIffN) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [So Well](https://open.spotify.com/album/4fTsqC23xThgybhDfyjKry) | 4:49 | 2021-10-31 | 2022-09-23 |
 | [Something More](https://open.spotify.com/track/7kKN9NjsDL4C95WIjKSyQr) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Something More](https://open.spotify.com/album/4vrjC5Da5RlIXAAOF4fAYC) | 3:42 | 2025-04-05 | 2025-04-09 |
+| [Sparrows \- Acoustic](https://open.spotify.com/track/5GthXBUgkvddK66Z609MoZ) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Sparrows \(Acoustic\)](https://open.spotify.com/album/0E94vgyTNf1RpZ2veOwoSo) | 3:28 | 2025-04-05 |  |
 | [Springtime](https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Let the Ground Rest](https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7) | 4:14 | 2021-10-31 | 2024-04-19 |
 | [Start Over](https://open.spotify.com/track/6NC7f4MVisYYpVPl0I3O6p) | [Matthews Ntlele](https://open.spotify.com/artist/1fi880kqdH6Pg581Z6IEWX) | [Start Over](https://open.spotify.com/album/7ENwhMMoaNFPlIUF7XxTcr) | 3:22 | 2024-07-26 | 2025-04-05 |
 | [Steady My Heart](https://open.spotify.com/track/5RUgtcjWx3cTxHuSqlKUCl) | [METRUTH](https://open.spotify.com/artist/6vUiVJcOvGX0EhBr4GiMrb), [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [Steady My Heart](https://open.spotify.com/album/22JhHEYI0GDqojMDo1WEol) | 3:56 | 2024-07-26 | 2025-04-05 |

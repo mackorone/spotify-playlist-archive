@@ -4,7 +4,7 @@
 
 > Shake up your wake up with a selection of feel good songs that will get you bouncing out the door.
 
-1,505 songs - 3 day 13 hr 21 min
+1,506 songs - 3 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [Cruise Control \- 1994](https://open.spotify.com/track/5K6EdnevWTw6BjtIA76S0V) | [Headless Chickens](https://open.spotify.com/artist/6IYhQUa20ru5eYoFYeQurx) | [Headless Chickens](https://open.spotify.com/album/488NLhchVODXXVxwJc6QZG) | 3:47 | 2019-08-06 | 2019-08-08 |
 | [Cry About It Later](https://open.spotify.com/track/1RsD951uUUlJx0MRioZfev) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/38hfmutL8qSnflpigbMoLw) | 3:09 | 2020-08-30 | 2022-04-15 |
 | [Cry Dancing](https://open.spotify.com/track/7g2uEIBiSXUNkLmEUCv5nq) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Cry Dancing](https://open.spotify.com/album/6PLgk4A3mMtYCuYSwiQ4pl) | 2:59 | 2020-07-18 | 2022-07-29 |
-| [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-07-28 |  |
+| [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-07-28 | 2025-06-27 |
 | [Daisies](https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies](https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN) | 2:53 | 2020-05-22 | 2022-07-29 |
 | [Damn Loyal](https://open.spotify.com/track/2tId4HXBmdSjTrdj3ijAYE) | [Eves Karydas](https://open.spotify.com/artist/7MbSdIkdgkwmVxObpCg87e) | [Damn Loyal](https://open.spotify.com/album/0gIaff8hY1EgOAEgDJKI8I) | 3:29 | 2019-10-25 | 2022-04-06 |
 | [Dance All Over Me](https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:14 | 2022-06-09 | 2022-07-29 |
@@ -875,6 +875,7 @@
 | [Move](https://open.spotify.com/track/6DApUpuuyMSiGX87r9s12m) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK) | [Gela](https://open.spotify.com/album/6U4EyQWAc1wCohtIV3wBqz) | 2:46 | 2022-04-05 | 2022-04-18 |
 | [Move](https://open.spotify.com/track/60KbsT5rsDJc5R1NPGHmj7) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Move](https://open.spotify.com/album/1bYRVo276MS5FiQ0Id7wng) | 3:27 | 2021-03-14 | 2022-04-17 |
 | [Moves Like Jagger \- Studio Recording From "The Voice" Performance](https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Hands All Over \(Revised International Standard version\)](https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn) | 3:21 | 2019-08-02 |  |
+| [Mr Electric Blue](https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:10 | 2025-06-23 |  |
 | [Mr\. Brightside](https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4OHNH3sDzIxnmUADXzv2kT) | 3:42 | 2021-03-18 | 2022-04-19 |
 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 | 2022-07-28 | 2024-04-19 |
 | [Ms\. Jackson](https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:30 | 2019-07-30 | 2019-08-08 |

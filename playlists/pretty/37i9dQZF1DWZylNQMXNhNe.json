@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Boombeat, Jaloo",
-  "num_followers": 221022,
+  "num_followers": 221013,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-10-08 13:46:40",
       "album": {
+        "name": "POCPOC",
+        "url": "https://open.spotify.com/album/3nwyZyralFOdRGEyNMjSJX"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "POCPOC",
+      "url": "https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3"
+    },
+    {
+      "added_at": "2024-10-08 13:46:40",
+      "album": {
         "name": "Numanice #3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 154164,
       "name": "Falta de Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/2IGh6DnMiX408xwoJP9Lmb"
-    },
-    {
-      "added_at": "2024-10-08 13:46:40",
-      "album": {
-        "name": "POCPOC",
-        "url": "https://open.spotify.com/album/3nwyZyralFOdRGEyNMjSJX"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "POCPOC",
-      "url": "https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3"
     },
     {
       "added_at": "2024-10-08 13:46:40",

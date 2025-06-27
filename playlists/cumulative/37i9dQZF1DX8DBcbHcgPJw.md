@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Max Carra & Lira.
 
-642 songs - 1 day 7 hr 47 min
+643 songs - 1 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [La Mejor Version de Mi](https://open.spotify.com/track/0pwXUemxF0MAxHLByqQcO5) | [Las Culisueltas](https://open.spotify.com/artist/6GfDEGpIgzDdxCBpNCF4Np), [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [La Mejor Version de Mi](https://open.spotify.com/album/4sBpf2QiY1jFTSYB7kcWwV) | 1:52 | 2021-12-23 | 2022-07-29 |
 | [La Miel de tus Labios](https://open.spotify.com/track/3EDxQ3gLqiwZ8huUV7C7iw) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH), [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8), [Debora](https://open.spotify.com/artist/4MFYWIUUwy9yzkVaMSyuYk) | [La Miel de tus Labios](https://open.spotify.com/album/3QevNj68ma5ZlME2WVUmoM) | 3:10 | 2024-03-22 | 2024-03-30 |
 | [La Morocha](https://open.spotify.com/track/7yWyATh93r0zfgkgwknX1Y) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Viernes Random \#2](https://open.spotify.com/album/2HqthFTXLYEV5adxyKWqYU) | 1:32 | 2024-02-16 | 2024-02-24 |
-| [La Más Amada del País](https://open.spotify.com/track/5FkdJAMh2z0ZQfxbUZXhRn) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [La Más Amada del País](https://open.spotify.com/album/5INAZepCtHQEin7PlHYZ4S) | 2:51 | 2025-04-04 |  |
+| [La Más Amada del País](https://open.spotify.com/track/5FkdJAMh2z0ZQfxbUZXhRn) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [La Más Amada del País](https://open.spotify.com/album/5INAZepCtHQEin7PlHYZ4S) | 2:51 | 2025-04-04 | 2025-06-27 |
 | [La Niña de la Escuela](https://open.spotify.com/track/5IGCRt7HPv2A2s32Cddyhg) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [La Niña de la Escuela](https://open.spotify.com/album/1fJ1PKGAM576nQKS98dCxf) | 2:01 | 2022-01-03 | 2022-07-28 |
 | [LA NOCHE ME LLAMA](https://open.spotify.com/track/2QAlRJvK7NxJkVAC6YrhHX) | [El Mala](https://open.spotify.com/artist/1LSYfRidvKN3sUXOg8HDWC) | [LA NOCHE ME LLAMA](https://open.spotify.com/album/7yeSnlrZhNYnX1qixjnxXI) | 1:53 | 2024-05-10 | 2024-06-08 |
 | [La Noche No Es para Dormir](https://open.spotify.com/track/07ZHn1csuJvAQAZiYFds12) | [Mano Arriba](https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp) | [Cumbia Baby!](https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG) | 3:19 | 2022-07-22 | 2024-04-19 |
@@ -510,6 +510,7 @@
 | [Si Un Día Estás Sola \| CROSSOVER \#7](https://open.spotify.com/track/5AkLEnorFvb7WIJOGqKYVT) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Si Un Día Estás Sola \| CROSSOVER \#7](https://open.spotify.com/album/2nEAqrVGMybdrkN3gP9NGF) | 2:44 | 2024-09-06 |  |
 | [Sigue Bailando](https://open.spotify.com/track/6YPO4d3RbnKQZix9QcG7HT) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Sigue Bailando](https://open.spotify.com/album/7qiIuRaqtRk5PtUdzL96ZS) | 2:39 | 2021-12-23 | 2023-07-01 |
 | [Simplemente Amigos / Eclipse Total](https://open.spotify.com/track/09O1Ve5IytaVPzPGZlDe54) | [Damian Perez](https://open.spotify.com/artist/3mrlxgWaEt5MNjAoAq6IRy) | [Simplemente Amigos / Eclipse Total](https://open.spotify.com/album/1UYhKpS4A9rKS74h6ht9ug) | 3:24 | 2022-07-29 | 2022-08-07 |
+| [Sin Cadenas](https://open.spotify.com/track/44jagrCVBUPKsyTRKFX22r) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Sin Cadenas](https://open.spotify.com/album/1q8MbrlzmYGA5FzlnxiuqU) | 3:31 | 2025-06-27 |  |
 | [Sin Querer](https://open.spotify.com/track/0kVpyCPMT52a05026zHGiq) | [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Sin Querer](https://open.spotify.com/album/5crzwGAdOnMyylNrwt8fWx) | 2:21 | 2024-01-05 |  |
 | [Sin Respuestas](https://open.spotify.com/track/3INVByGTLMiv8p3Jax1w98) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Sin Respuestas](https://open.spotify.com/album/4xvUV9yLopopHIJT9x70ig) | 2:49 | 2022-01-07 | 2022-06-08 |
 | [Sin Valentín](https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Sin Valentín](https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj) | 2:41 | 2024-02-16 | 2024-12-07 |

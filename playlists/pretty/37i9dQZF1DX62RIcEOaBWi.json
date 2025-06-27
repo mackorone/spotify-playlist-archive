@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 586603,
+  "num_followers": 586550,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
@@ -515,26 +515,6 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
-        "name": "My Universe",
-        "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "My Universe",
-      "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
-    },
-    {
-      "added_at": "2024-07-12 12:21:41",
-      "album": {
         "name": "El Merengue",
         "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 189668,
       "name": "El Merengue",
       "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
+    },
+    {
+      "added_at": "2024-07-12 12:21:41",
+      "album": {
+        "name": "My Universe",
+        "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
     },
     {
       "added_at": "2024-07-12 12:21:41",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 139733,
-      "name": "Think",
-      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
-    },
-    {
-      "added_at": "2024-07-12 12:21:41",
-      "album": {
         "name": "La Extraordinaria Paradoja Del Sonido Quijano",
         "url": "https://open.spotify.com/album/5PvhfeSnVId3ZknKo9ztID"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 197320,
       "name": "La Lola",
       "url": "https://open.spotify.com/track/5hyq5k3Do9gW3HGvDg5ZEJ"
+    },
+    {
+      "added_at": "2024-07-12 12:21:41",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 139733,
+      "name": "Think",
+      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
     },
     {
       "added_at": "2024-07-12 12:21:41",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
-        "name": "Bailar El Viento",
-        "url": "https://open.spotify.com/album/62lZaizcM3SNQqs6rZG8kS"
-      },
-      "artists": [
-        {
-          "name": "Manuel Carrasco",
-          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
-        }
-      ],
-      "duration_ms": 229720,
-      "name": "Uno X Uno",
-      "url": "https://open.spotify.com/track/75K7Mczlt0zxANo8MEOaAu"
-    },
-    {
-      "added_at": "2024-07-12 12:21:41",
-      "album": {
         "name": "Some Say",
         "url": "https://open.spotify.com/album/5pCAWYym13GcQN8CXEb89m"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 175601,
       "name": "Some Say",
       "url": "https://open.spotify.com/track/4poybupy26pTWPr9zY1i7h"
+    },
+    {
+      "added_at": "2024-07-12 12:21:41",
+      "album": {
+        "name": "Bailar El Viento",
+        "url": "https://open.spotify.com/album/62lZaizcM3SNQqs6rZG8kS"
+      },
+      "artists": [
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        }
+      ],
+      "duration_ms": 229720,
+      "name": "Uno X Uno",
+      "url": "https://open.spotify.com/track/75K7Mczlt0zxANo8MEOaAu"
     },
     {
       "added_at": "2024-07-12 12:21:41",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
-        "name": "mariposas",
-        "url": "https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH"
-      },
-      "artists": [
-        {
-          "name": "sangiovanni",
-          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "mariposas",
-      "url": "https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y"
-    },
-    {
-      "added_at": "2024-07-12 12:21:41",
-      "album": {
         "name": "Estrella De Mar",
         "url": "https://open.spotify.com/album/1QGknzEMRCNdJ8v1i49SAZ"
       },
@@ -1491,18 +1471,22 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
-        "name": "Lunas rotas",
-        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
+        "name": "mariposas",
+        "url": "https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH"
       },
       "artists": [
         {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 220546,
-      "name": "A fuego lento",
-      "url": "https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a"
+      "duration_ms": 154000,
+      "name": "mariposas",
+      "url": "https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y"
     },
     {
       "added_at": "2024-07-12 12:21:41",
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
+        "name": "Lunas rotas",
+        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
+      },
+      "artists": [
+        {
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "A fuego lento",
+      "url": "https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a"
+    },
+    {
+      "added_at": "2024-07-12 12:21:41",
+      "album": {
         "name": "Sin Enchufe",
         "url": "https://open.spotify.com/album/4ek3tTygesccVT9WDCkgKj"
       },
@@ -1539,26 +1539,6 @@
       "duration_ms": 263679,
       "name": "Carolina - En directo 2000",
       "url": "https://open.spotify.com/track/4UtREbGYnd1nZLckEb5y8J"
-    },
-    {
-      "added_at": "2024-07-12 12:21:41",
-      "album": {
-        "name": "Perfecta",
-        "url": "https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 174932,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J"
     },
     {
       "added_at": "2024-07-12 12:21:41",
@@ -1579,6 +1559,26 @@
       "duration_ms": 209712,
       "name": "Porfa no te vayas",
       "url": "https://open.spotify.com/track/4J2HLNTxiVxxs6kWgTIN43"
+    },
+    {
+      "added_at": "2024-07-12 12:21:41",
+      "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 174932,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J"
     },
     {
       "added_at": "2024-07-12 12:21:41",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
-        "name": "Arena En Los Bolsillos",
-        "url": "https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf"
-      },
-      "artists": [
-        {
-          "name": "Manolo Garcia",
-          "url": "https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "Pajaros de Barro",
-      "url": "https://open.spotify.com/track/4B6ko7lt1sUtyFzBDF4yfK"
-    },
-    {
-      "added_at": "2024-07-12 12:21:41",
-      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/04Vn7ycGWmtrf9j2xXPN8E"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 164599,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/6h3U07z62eGIuyOprHwzgZ"
+    },
+    {
+      "added_at": "2024-07-12 12:21:41",
+      "album": {
+        "name": "Arena En Los Bolsillos",
+        "url": "https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf"
+      },
+      "artists": [
+        {
+          "name": "Manolo Garcia",
+          "url": "https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "Pajaros de Barro",
+      "url": "https://open.spotify.com/track/4B6ko7lt1sUtyFzBDF4yfK"
     },
     {
       "added_at": "2024-07-12 12:21:41",
@@ -2059,6 +2059,26 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
+        "name": "COBARDE",
+        "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 166081,
+      "name": "COBARDE",
+      "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
+    },
+    {
+      "added_at": "2024-07-12 12:21:41",
+      "album": {
         "name": "Resistir\u00e9",
         "url": "https://open.spotify.com/album/1j7umFpzCWkkjLFJVQBObO"
       },
@@ -2147,26 +2167,6 @@
       "duration_ms": 285610,
       "name": "Resistir\u00e9",
       "url": "https://open.spotify.com/track/5Z3eEWd02O1RekV96ohDPx"
-    },
-    {
-      "added_at": "2024-07-12 12:21:41",
-      "album": {
-        "name": "COBARDE",
-        "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 166081,
-      "name": "COBARDE",
-      "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
     },
     {
       "added_at": "2024-07-12 12:21:41",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
-        "name": "Una Noche Sin Pensar",
-        "url": "https://open.spotify.com/album/72RohnwnQyT7YbrIzDNROD"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 161173,
-      "name": "Una Noche Sin Pensar",
-      "url": "https://open.spotify.com/track/2oW52tBeJNSv93Ct5AJb8q"
-    },
-    {
-      "added_at": "2024-07-12 12:21:41",
-      "album": {
         "name": "Nuclear",
         "url": "https://open.spotify.com/album/1T2uKSyUf7DBWOABtsmYLM"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 229406,
       "name": "No Te Preocupes por Mi",
       "url": "https://open.spotify.com/track/7hv7synVPhVu30Ex2amJQc"
+    },
+    {
+      "added_at": "2024-07-12 12:21:41",
+      "album": {
+        "name": "Una Noche Sin Pensar",
+        "url": "https://open.spotify.com/album/72RohnwnQyT7YbrIzDNROD"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 161173,
+      "name": "Una Noche Sin Pensar",
+      "url": "https://open.spotify.com/track/2oW52tBeJNSv93Ct5AJb8q"
     },
     {
       "added_at": "2024-07-12 12:21:41",
@@ -2443,26 +2443,6 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
-        "name": "Vivir (with Estopa)",
-        "url": "https://open.spotify.com/album/4b0k7exKAA74bbUlKYBAi2"
-      },
-      "artists": [
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        },
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Vivir (with Estopa)",
-      "url": "https://open.spotify.com/track/0n2lJjskWdFCvLI3ExAGha"
-    },
-    {
-      "added_at": "2024-07-12 12:21:41",
-      "album": {
         "name": "Solo Si Es Contigo",
         "url": "https://open.spotify.com/album/680rsayhF1MrcsyjIzfFF7"
       },
@@ -2479,6 +2459,26 @@
       "duration_ms": 216000,
       "name": "Solo Si Es Contigo",
       "url": "https://open.spotify.com/track/0Ttqiz6DNvPkThvbnr9vYJ"
+    },
+    {
+      "added_at": "2024-07-12 12:21:41",
+      "album": {
+        "name": "Vivir (with Estopa)",
+        "url": "https://open.spotify.com/album/4b0k7exKAA74bbUlKYBAi2"
+      },
+      "artists": [
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        },
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Vivir (with Estopa)",
+      "url": "https://open.spotify.com/track/0n2lJjskWdFCvLI3ExAGha"
     },
     {
       "added_at": "2024-07-12 12:21:41",
@@ -2643,18 +2643,22 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
-        "name": "Juramento eterno de sal",
-        "url": "https://open.spotify.com/album/181dabcN6rArn5DwOYr3eP"
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/5edB3I7c5aZj1bH2obUXne"
       },
       "artists": [
         {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 205546,
-      "name": "Juramento eterno de sal",
-      "url": "https://open.spotify.com/track/23E53f3C9SJ9MqBh1f6hEw"
+      "duration_ms": 174026,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/4K8cyoCDovlc4FvtUr2Hfx"
     },
     {
       "added_at": "2024-07-12 12:21:41",
@@ -2679,22 +2683,18 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/5edB3I7c5aZj1bH2obUXne"
+        "name": "Juramento eterno de sal",
+        "url": "https://open.spotify.com/album/181dabcN6rArn5DwOYr3eP"
       },
       "artists": [
         {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
         }
       ],
-      "duration_ms": 174026,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/4K8cyoCDovlc4FvtUr2Hfx"
+      "duration_ms": 205546,
+      "name": "Juramento eterno de sal",
+      "url": "https://open.spotify.com/track/23E53f3C9SJ9MqBh1f6hEw"
     },
     {
       "added_at": "2024-07-12 12:21:41",

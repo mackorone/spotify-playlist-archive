@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 936016,
+  "num_followers": 935968,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": "2025-06-20 04:00:51",
       "album": {
+        "name": "Beat Keep Rockin'",
+        "url": "https://open.spotify.com/album/6qIpC1zUZJ1DqFbyMcQT6q"
+      },
+      "artists": [
+        {
+          "name": "Starjunk 95",
+          "url": "https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx"
+        }
+      ],
+      "duration_ms": 183857,
+      "name": "Beat Keep Rockin'",
+      "url": "https://open.spotify.com/track/11RXJgrGmyPJEtbOJ9ZFYQ"
+    },
+    {
+      "added_at": "2025-06-20 04:00:51",
+      "album": {
         "name": "Freaking You Out",
         "url": "https://open.spotify.com/album/4pYGTu5OMw0SAeW7uWIpM3"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 182968,
       "name": "Freaking You Out",
       "url": "https://open.spotify.com/track/5ndDgAqa9XNZsfdt6MVHIC"
-    },
-    {
-      "added_at": "2025-06-20 04:00:51",
-      "album": {
-        "name": "Beat Keep Rockin'",
-        "url": "https://open.spotify.com/album/6qIpC1zUZJ1DqFbyMcQT6q"
-      },
-      "artists": [
-        {
-          "name": "Starjunk 95",
-          "url": "https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx"
-        }
-      ],
-      "duration_ms": 183857,
-      "name": "Beat Keep Rockin'",
-      "url": "https://open.spotify.com/track/11RXJgrGmyPJEtbOJ9ZFYQ"
     },
     {
       "added_at": "2025-06-20 04:00:51",
@@ -187,6 +187,22 @@
     {
       "added_at": "2025-06-20 04:00:51",
       "album": {
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        }
+      ],
+      "duration_ms": 140621,
+      "name": "ENERGY",
+      "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
+    },
+    {
+      "added_at": "2025-06-20 04:00:51",
+      "album": {
         "name": "Renegade Master (Don Diablo Edit)",
         "url": "https://open.spotify.com/album/0NRlW0uReoU6nZN5Rc3xlj"
       },
@@ -207,22 +223,6 @@
     {
       "added_at": "2025-06-20 04:00:51",
       "album": {
-        "name": "ENERGY",
-        "url": "https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        }
-      ],
-      "duration_ms": 140621,
-      "name": "ENERGY",
-      "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
-    },
-    {
-      "added_at": "2025-06-20 04:00:51",
-      "album": {
         "name": "My Body (feat. Y&M)",
         "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
       },
@@ -239,26 +239,6 @@
       "duration_ms": 160024,
       "name": "My Body (feat. Y&M)",
       "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
-    },
-    {
-      "added_at": "2025-06-20 04:00:51",
-      "album": {
-        "name": "All Night & Gemini",
-        "url": "https://open.spotify.com/album/7hmuaX4utQQELTvPIovNUn"
-      },
-      "artists": [
-        {
-          "name": "Mesto",
-          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
-        },
-        {
-          "name": "Vluarr",
-          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/6wpIGFUcDUSg2l75npKFdU"
     },
     {
       "added_at": "2025-06-20 04:00:51",
@@ -303,18 +283,22 @@
     {
       "added_at": "2025-06-20 04:00:51",
       "album": {
-        "name": "GASOLINA & COCAINA",
-        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+        "name": "All Night & Gemini",
+        "url": "https://open.spotify.com/album/7hmuaX4utQQELTvPIovNUn"
       },
       "artists": [
         {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        },
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
         }
       ],
-      "duration_ms": 192390,
-      "name": "GASOLINA & COCAINA",
-      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
+      "duration_ms": 151384,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6wpIGFUcDUSg2l75npKFdU"
     },
     {
       "added_at": "2025-06-20 04:00:51",
@@ -343,6 +327,22 @@
       "duration_ms": 196876,
       "name": "Genesis - Don Diablo Edit",
       "url": "https://open.spotify.com/track/4aPh4IKYRg2fm4sqxLFo8b"
+    },
+    {
+      "added_at": "2025-06-20 04:00:51",
+      "album": {
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
     },
     {
       "added_at": "2025-06-20 04:00:51",
@@ -407,6 +407,26 @@
     {
       "added_at": "2025-06-20 04:00:51",
       "album": {
+        "name": "No Sleep (6AM) (feat. MERYLL)",
+        "url": "https://open.spotify.com/album/4UwWfFDYZcjQRnS9Rv94Ro"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 146195,
+      "name": "No Sleep (6AM) (feat. MERYLL)",
+      "url": "https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt"
+    },
+    {
+      "added_at": "2025-06-20 04:00:51",
+      "album": {
         "name": "BANG BANG POW!",
         "url": "https://open.spotify.com/album/73sdRnqkCqKqH5XtiianPO"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 155146,
       "name": "Riverside MF",
       "url": "https://open.spotify.com/track/3ptLW4fzupzNrzbO7Hneam"
-    },
-    {
-      "added_at": "2025-06-20 04:00:51",
-      "album": {
-        "name": "No Sleep (6AM) (feat. MERYLL)",
-        "url": "https://open.spotify.com/album/4UwWfFDYZcjQRnS9Rv94Ro"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 146195,
-      "name": "No Sleep (6AM) (feat. MERYLL)",
-      "url": "https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt"
     },
     {
       "added_at": "2025-06-20 04:00:51",
@@ -759,18 +759,18 @@
     {
       "added_at": "2025-06-20 04:00:51",
       "album": {
-        "name": "Charged Up",
-        "url": "https://open.spotify.com/album/4HckeGUqZQrIUCOGbNJB30"
+        "name": "F*CK THAT",
+        "url": "https://open.spotify.com/album/5myUJEhXSJHBKL4SfZPdX9"
       },
       "artists": [
         {
-          "name": "Firebeatz",
-          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
         }
       ],
-      "duration_ms": 123222,
-      "name": "Charged Up",
-      "url": "https://open.spotify.com/track/414AiThcDCEw5KDrpouSlQ"
+      "duration_ms": 191818,
+      "name": "F*CK THAT",
+      "url": "https://open.spotify.com/track/3HxaXZ9pS1r3GFgv4Eh5sI"
     },
     {
       "added_at": "2025-06-20 04:00:51",
@@ -787,6 +787,22 @@
       "duration_ms": 197812,
       "name": "What You Waiting For",
       "url": "https://open.spotify.com/track/6fTWk9wpKkE64teVqn8KkS"
+    },
+    {
+      "added_at": "2025-06-20 04:00:51",
+      "album": {
+        "name": "Charged Up",
+        "url": "https://open.spotify.com/album/4HckeGUqZQrIUCOGbNJB30"
+      },
+      "artists": [
+        {
+          "name": "Firebeatz",
+          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
+        }
+      ],
+      "duration_ms": 123222,
+      "name": "Charged Up",
+      "url": "https://open.spotify.com/track/414AiThcDCEw5KDrpouSlQ"
     },
     {
       "added_at": "2025-06-20 04:00:51",
@@ -811,22 +827,6 @@
       "duration_ms": 159090,
       "name": "Don't Be Shy",
       "url": "https://open.spotify.com/track/2bI6cO5Aunv8O50kJQ3Ai0"
-    },
-    {
-      "added_at": "2025-06-20 04:00:51",
-      "album": {
-        "name": "F*CK THAT",
-        "url": "https://open.spotify.com/album/5myUJEhXSJHBKL4SfZPdX9"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 191818,
-      "name": "F*CK THAT",
-      "url": "https://open.spotify.com/track/3HxaXZ9pS1r3GFgv4Eh5sI"
     },
     {
       "added_at": "2025-06-20 04:00:51",
@@ -935,6 +935,26 @@
     {
       "added_at": "2025-06-20 04:00:51",
       "album": {
+        "name": "The Sound",
+        "url": "https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 155147,
+      "name": "The Sound",
+      "url": "https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm"
+    },
+    {
+      "added_at": "2025-06-20 04:00:51",
+      "album": {
         "name": "Oxygen",
         "url": "https://open.spotify.com/album/62FE6CAsHHKN3E2UxwLHCi"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 166048,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/6UMhxtPmas7o2Lk21aGH9O"
-    },
-    {
-      "added_at": "2025-06-20 04:00:51",
-      "album": {
-        "name": "The Sound",
-        "url": "https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 155147,
-      "name": "The Sound",
-      "url": "https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm"
     },
     {
       "added_at": "2025-06-20 04:00:51",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2025-06-20 04:00:51",
       "album": {
+        "name": "Selecta",
+        "url": "https://open.spotify.com/album/4bq8jTnpZ8HrQ29TpE0URG"
+      },
+      "artists": [
+        {
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/63ypuogvE15L0ju8wCGJDx"
+    },
+    {
+      "added_at": "2025-06-20 04:00:51",
+      "album": {
         "name": "BUBBLEGUM",
         "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 133600,
       "name": "Fool Me",
       "url": "https://open.spotify.com/track/6fviOwXHvwwN7GdAuVaH5v"
-    },
-    {
-      "added_at": "2025-06-20 04:00:51",
-      "album": {
-        "name": "Selecta",
-        "url": "https://open.spotify.com/album/4bq8jTnpZ8HrQ29TpE0URG"
-      },
-      "artists": [
-        {
-          "name": "Kapuzen",
-          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/63ypuogvE15L0ju8wCGJDx"
     },
     {
       "added_at": "2025-06-20 04:00:51",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2025-06-20 04:00:51",
       "album": {
-        "name": "HOUSE PARTY",
-        "url": "https://open.spotify.com/album/1vUtPZOCuQuByE1TVXgA2H"
-      },
-      "artists": [
-        {
-          "name": "ESCARGOT",
-          "url": "https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3"
-        },
-        {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
-        }
-      ],
-      "duration_ms": 185280,
-      "name": "HOUSE PARTY",
-      "url": "https://open.spotify.com/track/0cdhN1HqOz9ji1sdZbqSe2"
-    },
-    {
-      "added_at": "2025-06-20 04:00:51",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/2SWKH00mLsaRmLa1f05Sox"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 186240,
       "name": "Closer",
       "url": "https://open.spotify.com/track/6bqKjzTRCFudLgD4kPpMpC"
+    },
+    {
+      "added_at": "2025-06-20 04:00:51",
+      "album": {
+        "name": "HOUSE PARTY",
+        "url": "https://open.spotify.com/album/1vUtPZOCuQuByE1TVXgA2H"
+      },
+      "artists": [
+        {
+          "name": "ESCARGOT",
+          "url": "https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3"
+        },
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "HOUSE PARTY",
+      "url": "https://open.spotify.com/track/0cdhN1HqOz9ji1sdZbqSe2"
     },
     {
       "added_at": "2025-06-20 04:00:51",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-06-20 04:00:51",
       "album": {
-        "name": "Repeating",
-        "url": "https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM"
-      },
-      "artists": [
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        }
-      ],
-      "duration_ms": 147420,
-      "name": "Repeating",
-      "url": "https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk"
-    },
-    {
-      "added_at": "2025-06-20 04:00:51",
-      "album": {
         "name": "Droppin' It (La La La)",
         "url": "https://open.spotify.com/album/7xYg6EaYOKlvp1rf1EPXX5"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 156190,
       "name": "Droppin' It (La La La)",
       "url": "https://open.spotify.com/track/2rXuuV7atcaVO4cm4UZBZU"
+    },
+    {
+      "added_at": "2025-06-20 04:00:51",
+      "album": {
+        "name": "Repeating",
+        "url": "https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        }
+      ],
+      "duration_ms": 147420,
+      "name": "Repeating",
+      "url": "https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk"
     },
     {
       "added_at": "2025-06-20 04:00:51",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2025-06-20 04:00:51",
       "album": {
+        "name": "Still Cutting Shapes",
+        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Still Cutting Shapes",
+      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
+    },
+    {
+      "added_at": "2025-06-20 04:00:51",
+      "album": {
         "name": "Beat Goes On (feat. Casey Cook)",
         "url": "https://open.spotify.com/album/1Rot8rGcIeEXCNW960nszl"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 169350,
       "name": "Beat Goes On (feat. Casey Cook)",
       "url": "https://open.spotify.com/track/1cI5uk4DpB22EixZCllbwy"
-    },
-    {
-      "added_at": "2025-06-20 04:00:51",
-      "album": {
-        "name": "Still Cutting Shapes",
-        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Still Cutting Shapes",
-      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
     },
     {
       "added_at": "2025-06-20 04:00:51",

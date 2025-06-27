@@ -4,7 +4,7 @@
 
 > Listen here for the ultimate list of original and synced songs from TV and Film\. TV Soundtrack \- Movie Soundtrack \- Hollywood Hits \- Film Score \- Movie \- TV \- Film \- Netflix \- Amazon Prime \- Disney + \- Hulu \- Max
 
-314 songs - 20 hr 15 min
+315 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Future Days](https://open.spotify.com/track/22sDLvlzAJzH0BHiMSOfRP) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 4:22 | 2025-05-12 |  |
 | [Get Back \- Rooftop Performance / Take 2](https://open.spotify.com/track/4z3RNAUb0whdaLAudM9EHE) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Get Back \(Rooftop Performance\)](https://open.spotify.com/album/6emgUTDksZyhhWmtjM9FCs) | 3:24 | 2022-05-18 | 2024-05-02 |
 | [Get Up Offa That Thing](https://open.spotify.com/track/5XeSAezNDk9tuw3viiCbZ3) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The 50th Anniversary Collection](https://open.spotify.com/album/1pHE92AvWAt4IIRUCVFnEl) | 3:59 | 2025-03-14 |  |
+| [Getting In Tune](https://open.spotify.com/track/0M7tdKXvtrEk26j8nXFtvC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 4:48 | 2025-06-26 |  |
 | [Globe Trotter](https://open.spotify.com/track/5qAKhC3r9JLm6hxDU8GirB) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Castle Rock](https://open.spotify.com/album/4hMfnrM2BPDK9SHSUAcK3Q) | 3:02 | 2025-03-21 |  |
 | [Good Old\-Fashioned Lover Boy \- Remastered 2011](https://open.spotify.com/track/1mnQiO568zXIrUncttTZGp) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Remastered Version\)](https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i) | 2:53 | 2022-05-18 | 2024-05-02 |
 | [Good Times](https://open.spotify.com/track/57pP3LvnId3txetLeBaTmV) | [Eric Burdon & the Animals](https://open.spotify.com/artist/70tMW5bZT3TJUa1CWtfVkq) | [Winds Of Change](https://open.spotify.com/album/0aeV2p7ZUhm9Q2PJAizF7a) | 2:59 | 2025-04-04 |  |
@@ -304,7 +305,7 @@
 | [What’s The Frequency, Kenneth? \- Remix](https://open.spotify.com/track/0LXoDahNUHXVx2SCTQEEhZ) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Revolution \(Demo\)](https://open.spotify.com/album/1LcdKQCPzQ9EwQLanqXmSd) | 3:39 | 2022-05-18 | 2024-05-02 |
 | [When It's Sleepy Time Down South](https://open.spotify.com/track/4PuIJl5DnSPDzQ0SpL6CAb) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Armstrong Sparks, Nevada 1964!](https://open.spotify.com/album/0ftx4EQvBU4jcu6DoQKUxm) | 3:00 | 2025-05-02 |  |
 | [Where The Streets Have No Name \- Remastered](https://open.spotify.com/track/21ex8UoVZjOw0wAXWeln5h) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3) | 5:36 | 2022-05-18 | 2024-05-02 |
-| [Whip My Hair](https://open.spotify.com/track/4Dio1t8RHzLv1nfPJTSZyP) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Whip My Hair](https://open.spotify.com/album/2RQeZABxfNPeYpLPglJ56h) | 3:15 | 2025-03-28 |  |
+| [Whip My Hair](https://open.spotify.com/track/4Dio1t8RHzLv1nfPJTSZyP) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Whip My Hair](https://open.spotify.com/album/2RQeZABxfNPeYpLPglJ56h) | 3:15 | 2025-03-28 | 2025-06-27 |
 | [White Wedding \- Pt\. 1](https://open.spotify.com/track/1gzIbdFnGJ226LTl0Cn2SX) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Billy Idol](https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k) | 4:12 | 2025-05-23 |  |
 | [Who's Your Little Who\-Zis!](https://open.spotify.com/track/56xF4XLpk3mftRvEU6RWcc) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [At The Movies](https://open.spotify.com/album/1RBtf2WFlp9BxQrsbeO3I2) | 2:21 | 2025-03-21 |  |
 | [Wicked Game](https://open.spotify.com/track/34u3Bj1KVxKWfA07yDJ2vG) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Heart Shaped World](https://open.spotify.com/album/7DJNtoXELIm2KIhEpZfEv0) | 4:49 | 2022-05-18 | 2024-05-02 |

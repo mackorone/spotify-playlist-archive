@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 
 > This is Barry White\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,638 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,665 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 16 | [It's Only Love Doing Its Thing](https://open.spotify.com/track/7huxHHCXiJDDizWoVw2o8h) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Man](https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR) | 3:57 |
 | 17 | [The Secret Garden \(Sweet Seduction Suite\)](https://open.spotify.com/track/3PZW66625MiyEmZaat7tce) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Al B\. Sure!](https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo), [El DeBarge](https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD) | [Back On The Block](https://open.spotify.com/album/5DR4gcd3fj3E6XhbPTaF82) | 6:41 |
 | 18 | [Lady, Sweet Lady](https://open.spotify.com/track/10z1bj9T7hpJ9bfIlsHF1s) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Sheet Music](https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2) | 5:40 |
-| 19 | [Come On](https://open.spotify.com/track/6aX6HU06LTnZIGjFznUchm) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Icon Is Love](https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ) | 5:49 |
-| 20 | [Playing Your Game, Baby](https://open.spotify.com/track/6dwMebV6lVtwFiecdb8aSD) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 7:13 |
+| 19 | [Playing Your Game, Baby](https://open.spotify.com/track/6dwMebV6lVtwFiecdb8aSD) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 7:13 |
+| 20 | [Come On](https://open.spotify.com/track/6aX6HU06LTnZIGjFznUchm) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Icon Is Love](https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ) | 5:49 |
 | 21 | [Practice What You Preach](https://open.spotify.com/track/5PaTu8aN7ozpFbEb0DwEbt) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Love Songs](https://open.spotify.com/album/2YjxVI9GEc7StNjU4PVhOE) | 3:59 |
 | 22 | [Don't Make Me Wait Too Long](https://open.spotify.com/track/1d9QTZFpruDdK81YlwPlmE) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 3:19 |
 | 23 | [September When I First Met You \- Single Version](https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Love's Theme: The Best Of The 20th Century Records Singles](https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3) | 3:59 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 37 | [Oh Love, Well We Finally Made It](https://open.spotify.com/track/4ylPgukQzmpX7TZ1NcxAbm) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 3:54 |
 | 38 | [I Only Want To Be With You](https://open.spotify.com/track/550wW69MCbtYYEAbKIwEnu) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Icon Is Love](https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ) | 5:01 |
 | 39 | [Honey Please, Can't Ya See](https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White's Greatest Hits](https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0) | 3:14 |
-| 40 | [You Turned My Whole World Around](https://open.spotify.com/track/1CHYcb0rNFrqf4dWsVmI82) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 7:47 |
-| 41 | [Anything You Want Me To](https://open.spotify.com/track/7wBvzcLC4iXR5UxKVvPPPm) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Complete 20th Century Records Singles \(1973\-1979\)](https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um) | 5:44 |
+| 40 | [Anything You Want Me To](https://open.spotify.com/track/7wBvzcLC4iXR5UxKVvPPPm) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Complete 20th Century Records Singles \(1973\-1979\)](https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um) | 5:44 |
+| 41 | [You Turned My Whole World Around](https://open.spotify.com/track/1CHYcb0rNFrqf4dWsVmI82) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 7:47 |
 | 42 | [Which Way is Up](https://open.spotify.com/track/0OM2jBDnZ8tkGh3GYTw2KE) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Staying Power](https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS) | 5:42 |
 | 43 | [I've Got So Much To Give](https://open.spotify.com/track/30BIQMWprmAlVae1W4BRBw) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White's Greatest Hits](https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0) | 3:10 |
 | 44 | [The Right Night](https://open.spotify.com/track/7w0DK3J2jPP6g7sZ3kPYPU) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 49 | [You're The First, The Last, My Everything \- Live](https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye) | [Peter Sterling Radcliffe](https://open.spotify.com/artist/54NMfgOhekddlihvy6VRdg), [Tony Sepe](https://open.spotify.com/artist/5OQcWjJISTnIWZT7iMGfjL), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU) | [Pavarotti \- The Greatest Hits](https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4) | 4:27 |
 | 50 | [The Erotic Garden \- After Hours Version Of Secret Garden](https://open.spotify.com/track/0gFPNhlNSgWj3O7J07zyAF) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Al B\. Sure!](https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo), [El DeBarge](https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD) | [Unlimited](https://open.spotify.com/album/6Rnik7astHNQkf29K7Ktua) | 8:52 |
 
-Snapshot ID: `aFnqgAAAAACAIFGxHnLPCTPA8yks12dJ`
+Snapshot ID: `aFs8AAAAAABIsQxLdV6q17vl8yRhF7c7`

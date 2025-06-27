@@ -505,6 +505,32 @@
     },
     {
       "album": {
+        "name": "Stunt Doubles (Pt.1)",
+        "url": "https://open.spotify.com/album/5IojwjmyW2P4khwkyMmHlA"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        },
+        {
+          "name": "Baalti",
+          "url": "https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN"
+        },
+        {
+          "name": "Stunt Doubles",
+          "url": "https://open.spotify.com/artist/1ahVS2kBsugjETX6enVfPH"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240506,
+      "name": "Chalo Chalo",
+      "url": "https://open.spotify.com/track/2SGstv7MXy37wAuK82jLmr"
+    },
+    {
+      "album": {
         "name": "channo",
         "url": "https://open.spotify.com/album/6INyQJqdMPQ8DJXpnx4QMm"
       },
@@ -1644,6 +1670,24 @@
       "duration_ms": 372452,
       "name": "Khushboo",
       "url": "https://open.spotify.com/track/6jCdGmypAOe6o60FzDvMfU"
+    },
+    {
+      "album": {
+        "name": "Kiun Na",
+        "url": "https://open.spotify.com/album/0UJUULwPJzSfbwrj8UySH2"
+      },
+      "artists": [
+        {
+          "name": "Farasat Anees",
+          "url": "https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Kiun Na",
+      "url": "https://open.spotify.com/track/5ycN85kxxqArzAXrxQADeA"
     },
     {
       "album": {

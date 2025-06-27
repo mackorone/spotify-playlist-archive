@@ -4,7 +4,7 @@
 
 > Kom maar op met de zon ☀️🌼🌻
 
-700 songs - 1 day 11 hr 24 min
+702 songs - 1 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [Layla](https://open.spotify.com/track/6w6pCi9HrZX8P4yee6Lli9) | [MiracVR](https://open.spotify.com/artist/057SJVTg46DEbNRl83KBeh), [Phiec](https://open.spotify.com/artist/1huEWeyAvL6wYs0wsJWKVI) | [Layla](https://open.spotify.com/album/1MDzGxEcn8e2JEE5OAJtiu) | 2:43 | 2023-11-09 | 2023-11-18 |
 | [Layla](https://open.spotify.com/track/5IYrw3MenTovSfbgewbpgt) | [Phiec](https://open.spotify.com/artist/1huEWeyAvL6wYs0wsJWKVI), [CATO1948](https://open.spotify.com/artist/5UWB8WQR5gxyNqfhmNbXmt) | [Layla](https://open.spotify.com/album/7rP263q8KPQ0sxQLd8mGth) | 2:43 | 2023-11-16 | 2023-12-09 |
 | [Layla](https://open.spotify.com/track/4bFtZ97olZXoCns9zMImDs) | [Phiec](https://open.spotify.com/artist/1huEWeyAvL6wYs0wsJWKVI), [CATO1948](https://open.spotify.com/artist/5UWB8WQR5gxyNqfhmNbXmt), [Erenzy](https://open.spotify.com/artist/3AP6MCvLF9oYJWYfBubRYH), [SELMAN ALTUNBAŞ](https://open.spotify.com/artist/6cN5reMOX748NGhI2KVO9h) | [Layla](https://open.spotify.com/album/1iwZqyrUQ8UqvW2iIezjVX) | 2:43 | 2023-09-29 | 2023-10-13 |
+| [Let the Sunshine In](https://open.spotify.com/track/3prIMLGVO8FEkoT7L86Vgv) | [Belle Perez](https://open.spotify.com/artist/58llsXEROa2xdy24HI6D3r) | [Let the Sunshine In](https://open.spotify.com/album/7MzNOuzAMzY47wgK68uB6B) | 3:02 | 2025-06-26 |  |
 | [Levenslang](https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Levenslang](https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s) | 3:44 | 2024-09-19 | 2025-03-14 |
 | [Life Is Simple \(Move Your Body\) \[Feat Salomé Das\]](https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1) | [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Salomé Das](https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77) | [Life Is Simple \(Move Your Body\) \[Feat Salomé Das\]](https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo) | 2:52 | 2025-06-25 |  |
 | [Lifetime](https://open.spotify.com/track/4Lij0Sql38bVQRS8nRE0yp) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Lifetime](https://open.spotify.com/album/46vjtvwAesLzAUVrhHaiyO) | 4:16 | 2025-02-07 | 2025-05-02 |
@@ -385,6 +386,7 @@
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-05-08 |  |
 | [Love Me Now \(feat\. FAST BOY\)](https://open.spotify.com/track/6VtfGGQOasBhSQOpCfIcWb) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Love Me Now \(feat\. FAST BOY\)](https://open.spotify.com/album/6kqbEWmGMdpVaJ9ZL2kCun) | 2:32 | 2023-02-23 | 2023-03-10 |
 | [Love Myself](https://open.spotify.com/track/5zxDNiK8R1nnoTrdhAUrrC) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Love Myself](https://open.spotify.com/album/02CMBTAlxSxs1X5hj8fDSf) | 2:59 | 2023-02-23 | 2023-02-28 |
+| [Love Of My Life](https://open.spotify.com/track/0Q3RbOiHt7aPTBOQDDMOw3) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Love Of My Life](https://open.spotify.com/album/5gTrlQZgwWH7WdAShMZEmP) | 2:55 | 2025-06-26 |  |
 | [Love Of My Life](https://open.spotify.com/track/0el0sWkgn2hViZJmYyJdK4) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Love Of My Life](https://open.spotify.com/album/5RSfA2mMGTU5ghYRsXtET1) | 3:36 | 2024-11-07 | 2025-06-06 |
 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 | 2024-02-26 | 2024-03-22 |
 | [Love Should Be Easy](https://open.spotify.com/track/0IjKMUZhLXpypvK4jI0rrO) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy](https://open.spotify.com/album/48VXJ1UcddBS5dYoRewoRn) | 3:22 | 2023-11-09 | 2024-03-15 |

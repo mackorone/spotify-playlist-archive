@@ -2,9 +2,9 @@
 
 ### [Blijf Luisteren](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> De mooiste liedjes van het moment\. Cover: Mark Ronson & RAYE
+> De mooiste liedjes van het moment\. Cover: KANE
 
-665 songs - 1 day 14 hr 47 min
+667 songs - 1 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,7 @@
 | [Lucky Bean](https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 2:51 | 2023-03-02 | 2023-07-07 |
 | [Ma Meilleure Ennemie ft\. Coldplay \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2FGPKZ6c4b0isCFyxLGiqv) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Arcane League of Legends: Season 2 Original Soundtrack \(Extended Edition\)](https://open.spotify.com/album/60vxf9FQqoBm0jafAK1oy5) | 3:21 | 2025-04-17 |  |
 | [Malibu](https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm) | 4:02 | 2025-02-27 |  |
-| [Man On The Moon](https://open.spotify.com/track/79Ee80FT85h56l8vzL6cUJ) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Man On The Moon](https://open.spotify.com/album/2DQVR2QaqkCVAdkEYmFuKb) | 2:39 | 2025-02-17 |  |
+| [Man On The Moon](https://open.spotify.com/track/79Ee80FT85h56l8vzL6cUJ) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Man On The Moon](https://open.spotify.com/album/2DQVR2QaqkCVAdkEYmFuKb) | 2:39 | 2025-02-17 | 2025-06-27 |
 | [Mansa Musa](https://open.spotify.com/track/5IyyWOaxJq7QgsW0lW9TBC) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Mansa Musa](https://open.spotify.com/album/3eQjhWwVHyyWPjACbIc2Tt) | 4:30 | 2024-10-14 | 2025-01-29 |
 | [Mansion on the Moon](https://open.spotify.com/track/3LNTiQaq5FRbXFQZfKTXK9) | [Meeka Kates](https://open.spotify.com/artist/24XZ9joYiC4hzMYXihqgc1) | [Mansion on the Moon](https://open.spotify.com/album/2qHgrXAiDwa7pkjwXYNvHT) | 3:23 | 2023-04-28 | 2023-09-22 |
 | [Mathematics](https://open.spotify.com/track/7qyDTnHLhucrlpblFvhjuP) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Leveller](https://open.spotify.com/album/6SfToUjflJFZiHB0gGNOZe) | 4:01 | 2023-09-21 | 2024-02-03 |
@@ -492,6 +492,7 @@
 | [Smile](https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Smile](https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX) | 3:44 | 2025-01-06 | 2025-02-04 |
 | [Smiley Virus](https://open.spotify.com/track/64NdtfJDKnhkpCik9ohh3U) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Smiley Virus](https://open.spotify.com/album/1qVxPJEMoM7g4ZNJup3iNZ) | 4:04 | 2025-05-26 |  |
 | [Smoke On the Highway](https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 4:13 | 2024-04-18 | 2024-09-25 |
+| [So High](https://open.spotify.com/track/4LJpgXI4Viy3x1q24I4nzG) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [So High](https://open.spotify.com/album/1PXXzno0EmdtuBK6AJhs1j) | 3:37 | 2025-06-26 |  |
 | [So It Goes](https://open.spotify.com/track/67rg1GtrwUAQe8ish0bQxI) | [JOHAN](https://open.spotify.com/artist/0RBuJpjFEGVDZ7CWq3UcdQ) | [So It Goes](https://open.spotify.com/album/5WZfvSI6OWzpeRaI2QXCOJ) | 2:50 | 2023-11-07 | 2024-04-05 |
 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 | 2023-09-15 | 2024-01-05 |
 | [Somebody](https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Somebody](https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT) | 3:55 | 2023-09-21 | 2024-02-03 |
@@ -533,6 +534,7 @@
 | [Stronger \(Grey's Anatomy Version\)](https://open.spotify.com/track/2h444Cn1pbZjKPD4jbjY3E) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stronger](https://open.spotify.com/album/4KrEjdnGDVtiRyZ4poxNTk) | 2:59 | 2023-03-09 | 2023-08-01 |
 | [Suddenly](https://open.spotify.com/track/49H43h8jd9pE3qy5v5NseC) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Suddenly](https://open.spotify.com/album/2ujA7Bkj0mWEWPimvJV1Iu) | 4:23 | 2023-07-31 | 2023-11-20 |
 | [Summer Song](https://open.spotify.com/track/3xQXrWF1BKYT3iDpXJ446h) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Summer Song](https://open.spotify.com/album/6RpGbfen2B1Opo0plCqxQK) | 3:52 | 2024-01-04 | 2024-05-14 |
+| [Summertime Blue](https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Summertime Blue](https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW) | 3:30 | 2025-06-26 |  |
 | [Sunshine](https://open.spotify.com/track/3YFx0SiFGSkrv5j49EkZaH) | [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Sunshine](https://open.spotify.com/album/04vovOvI3XVMJ9nGXOCQi2) | 2:46 | 2023-07-31 | 2023-11-08 |
 | [Survivor](https://open.spotify.com/track/6km2lJaj6prmDlrPnYQPzH) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Survivor](https://open.spotify.com/album/1SZfmTvRqaMEK8xS2sLcU1) | 3:10 | 2024-01-29 | 2024-05-25 |
 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 | 2025-06-13 |  |
@@ -635,7 +637,7 @@
 | [We Were Never Really Friends](https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [We Were Never Really Friends](https://open.spotify.com/album/2S7z1CuntMrp5YhDvVRQA9) | 3:24 | 2023-05-09 | 2023-09-02 |
 | [Weak In The Knees](https://open.spotify.com/track/4iVzeNvV42xwtm4bvKJ2Iu) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Weak In The Knees](https://open.spotify.com/album/50dhdw314flh7k7IKBDP9p) | 3:06 | 2024-02-22 | 2024-07-12 |
 | [Weak In The Knees](https://open.spotify.com/track/7zTQERSGQl9Xnh58ocvOQa) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Weak In The Knees](https://open.spotify.com/album/2gei2GiI0zjYuVQOaBDgUJ) | 3:02 | 2023-02-23 | 2023-03-10 |
-| [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2025-02-20 |  |
+| [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2025-02-20 | 2025-06-27 |
 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 | 2023-02-23 | 2023-06-09 |
 | [What Am I Gonna Do](https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:01 | 2023-11-09 | 2024-05-10 |
 | [What Are You Waiting For?](https://open.spotify.com/track/3hnFEjPOnP7d3eTxPGpNkX) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [What Are You Waiting For?](https://open.spotify.com/album/1BTeZsZoB5PK480kmZew8t) | 3:59 | 2023-09-28 | 2024-04-05 |

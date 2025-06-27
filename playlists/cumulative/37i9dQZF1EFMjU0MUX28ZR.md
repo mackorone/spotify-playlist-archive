@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5eENjzQVV1Oe8jaF4lni0J">Evan Blair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-107 songs - 5 hr 31 min
+108 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [madhouse](https://open.spotify.com/track/1s9e1EBT6eYbDOneeBB6r0) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:05 | 2024-09-17 |  |
 | [Make My Bed](https://open.spotify.com/track/3PRW28gQllBqdsF6lyDrqu) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Make My Bed](https://open.spotify.com/album/3GfAVqWHtGROgcjyCs1EV5) | 2:56 | 2024-09-17 |  |
 | [Moderation](https://open.spotify.com/track/72S5jajFBvcVzkiPBjn680) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Moderation](https://open.spotify.com/album/7H6kvlUzMf4bOfZXYySE6U) | 2:17 | 2024-09-17 |  |
+| [Mr Electric Blue](https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:10 | 2025-06-26 |  |
 | [Nail Gun](https://open.spotify.com/track/7CyrYDA2C74KHD6sFNmud1) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX), [Far Too Loud](https://open.spotify.com/artist/6zL4UbVtrGZPjvTTeNKyAc) | [Squirm EP](https://open.spotify.com/album/3NhpQP1U1CmiALyZw7m4aH) | 4:07 | 2024-09-17 |  |
 | [NEVER LOVED ANYONE BEFORE](https://open.spotify.com/track/4Ww8tuLk8Uc49Z6nCCdGVj) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 2:54 | 2024-09-17 |  |
 | [New Eyes](https://open.spotify.com/track/7iMfuQDXKZW27BzTbqcoP5) | [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [New Eyes](https://open.spotify.com/album/6Ts3DkmshODnrh3AuDlvHC) | 3:29 | 2024-09-17 |  |
