@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 
 > This is Nicholas Craven\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615 likes - 46 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 616 likes - 46 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Spider Webbing Windshields](https://open.spotify.com/track/3RBe4KuoUk0afmnOHW1Og5) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Spider Webbing Windshields](https://open.spotify.com/album/4Tr65sqlBul7CMsa9ygFuB) | 2:55 |
-| 2 | [Nice Try Wrong Guy](https://open.spotify.com/track/7wcLBb0HGtz40QuApXpEh8) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Nice Try Wrong Guy](https://open.spotify.com/album/11WKI3s5WpRkf5YzmNFKfv) | 3:06 |
+| 1 | [Nice Try Wrong Guy](https://open.spotify.com/track/7wcLBb0HGtz40QuApXpEh8) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Nice Try Wrong Guy](https://open.spotify.com/album/11WKI3s5WpRkf5YzmNFKfv) | 3:06 |
+| 2 | [Spider Webbing Windshields](https://open.spotify.com/track/3RBe4KuoUk0afmnOHW1Og5) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Spider Webbing Windshields](https://open.spotify.com/album/4Tr65sqlBul7CMsa9ygFuB) | 2:55 |
 | 3 | [Power Nap](https://open.spotify.com/track/7CMMfKzZ98rYOvQJpHeSv1) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Fair Exchange No Robbery](https://open.spotify.com/album/4jpTuerIpgU77hzRCfcXZj) | 3:19 |
 | 4 | [Speedy Recovery](https://open.spotify.com/track/6M8zu9ivSmUA0vhiQVfUY4) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Penalty of Leadership](https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL) | 3:16 |
 | 5 | [Otha World](https://open.spotify.com/track/1iatfY3poPxuYbvWLh8Gua) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Ultimate Dump Gawd](https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP) | 2:40 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 | 45 | [Midsommar](https://open.spotify.com/track/6n4hU8yiTKd9vdusec8auo) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 1:09 |
 | 46 | [2 Sides](https://open.spotify.com/track/23HXgFzfHAaoTqlyweimUI) | [Jimmie D](https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC) | [Good Music Hypnotizes](https://open.spotify.com/album/6gRt97VXKvCAti89oAI7LZ) | 2:09 |
 
-Snapshot ID: `aFs8AAAAAAAqQBSKSePohXz4yJlg/2a5`
+Snapshot ID: `aFyNgAAAAACLQeX4OJ/XHl0VFK7Wmzaf`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: HAPPILY",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: tAH AND FRIENDS",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -618,6 +618,24 @@
     {
       "album": {
         "name": "Summer",
+        "url": "https://open.spotify.com/album/1nUtWJ4pT2emQjQDKWVldA"
+      },
+      "artists": [
+        {
+          "name": "tAH AND FRIENDS",
+          "url": "https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273018,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/09SJ0bGwvb3qvhxBfdibqx"
+    },
+    {
+      "album": {
+        "name": "Summer",
         "url": "https://open.spotify.com/album/6GcBIH0XEQn0cnmLEuf2Pz"
       },
       "artists": [
@@ -826,7 +844,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 292000,
       "name": "\u0e01\u0e32\u0e25\u0e1a\u0e31\u0e19\u0e17\u0e36\u0e01",
       "url": "https://open.spotify.com/track/4IrJS4MilyjcmqCFZJr9uL"
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 250600,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e44\u0e21\u0e48\u0e2b\u0e21\u0e14\u0e44\u0e1b\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e04\u0e48\u0e32\u0e1e\u0e25\u0e31\u0e07\u0e43\u0e08\u0e17\u0e35\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e2d\u0e19\u0e31\u0e19\u0e15\u0e4c",
       "url": "https://open.spotify.com/track/3dbpBB3rHghndlXrXb5TF0"
@@ -2047,6 +2065,24 @@
     },
     {
       "album": {
+        "name": "\u0e1d\u0e31\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c",
+        "url": "https://open.spotify.com/album/0L6wi7PvLrPEAst3KwCgVU"
+      },
+      "artists": [
+        {
+          "name": "Cheyada",
+          "url": "https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "\u0e1d\u0e31\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c",
+      "url": "https://open.spotify.com/track/65sVaJheVJ5SX3Ow5qBEFW"
+    },
+    {
+      "album": {
         "name": "\u0e1d\u0e31\u0e19\u0e44\u0e1b - Single",
         "url": "https://open.spotify.com/album/6msuekm9iwP2z7jSl5heFs"
       },
@@ -2614,7 +2650,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 308531,
       "name": "\u0e25\u0e21\u0e23\u0e49\u0e2d\u0e19 (Blow Away)",
       "url": "https://open.spotify.com/track/0gMdJ0kK9vnG1ZL6AYe8SF"
@@ -3266,6 +3302,24 @@
       "duration_ms": 223548,
       "name": "\u0e40\u0e18\u0e2d\u0e21\u0e2d\u0e07\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32",
       "url": "https://open.spotify.com/track/2giiZU3ufvysvV6Pltqkv8"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e40\u0e1b\u0e47\u0e19\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27",
+        "url": "https://open.spotify.com/album/5dNn8oIyc0NA7hmZtQrNCz"
+      },
+      "artists": [
+        {
+          "name": "Youth Brush",
+          "url": "https://open.spotify.com/artist/6U3028szvZMKXaRSRoiSbR"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "\u0e40\u0e18\u0e2d\u0e40\u0e1b\u0e47\u0e19\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27",
+      "url": "https://open.spotify.com/track/6AU9y6tL0TrKmVZbG7LcGD"
     },
     {
       "album": {

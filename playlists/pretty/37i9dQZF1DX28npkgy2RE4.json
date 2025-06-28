@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 421783,
+  "num_followers": 421763,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -827,26 +827,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Deli Daydreams",
-        "url": "https://open.spotify.com/album/46PFhovdF7y9Q3Z7qdCohx"
-      },
-      "artists": [
-        {
-          "name": "Kojaque",
-          "url": "https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY"
-        },
-        {
-          "name": "Kean Kavanagh",
-          "url": "https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B"
-        }
-      ],
-      "duration_ms": 294296,
-      "name": "Eviction Notice",
-      "url": "https://open.spotify.com/track/2BGC8XJPFRm3f7ZX2FRPNy"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Weather Balloons [Feat. Frances Cone]",
         "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 212502,
       "name": "Weather Balloons [Feat. Frances Cone]",
       "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Deli Daydreams",
+        "url": "https://open.spotify.com/album/46PFhovdF7y9Q3Z7qdCohx"
+      },
+      "artists": [
+        {
+          "name": "Kojaque",
+          "url": "https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY"
+        },
+        {
+          "name": "Kean Kavanagh",
+          "url": "https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B"
+        }
+      ],
+      "duration_ms": 294296,
+      "name": "Eviction Notice",
+      "url": "https://open.spotify.com/track/2BGC8XJPFRm3f7ZX2FRPNy"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 218740,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Snowplow",
         "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 161776,
       "name": "Snowplow",
       "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 218740,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Cala",
-        "url": "https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW"
-      },
-      "artists": [
-        {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
-        }
-      ],
-      "duration_ms": 148773,
-      "name": "Collar of Fur",
-      "url": "https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/2Qb1mbVSoGlehiJewFUT57"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 220970,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/5cR458T2K00QovnaTO8bSj"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Cala",
+        "url": "https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "duration_ms": 148773,
+      "name": "Collar of Fur",
+      "url": "https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Begin Again - EP",
-        "url": "https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 287693,
-      "name": "Third Way",
-      "url": "https://open.spotify.com/track/3IMUCgc92c7ciudifIGkLf"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Fish Pond Fish",
         "url": "https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 172885,
       "name": "Love Is Selfish",
       "url": "https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Begin Again - EP",
+        "url": "https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 287693,
+      "name": "Third Way",
+      "url": "https://open.spotify.com/track/3IMUCgc92c7ciudifIGkLf"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Filming School",
+        "url": "https://open.spotify.com/album/3t5QsHVDqA1HCLWCZBHdLl"
+      },
+      "artists": [
+        {
+          "name": "Sidney Gish",
+          "url": "https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI"
+        }
+      ],
+      "duration_ms": 190746,
+      "name": "Filming School",
+      "url": "https://open.spotify.com/track/5Wk8ShrY6d6d43wHrAdIJr"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Speaking With Trees",
         "url": "https://open.spotify.com/album/7Am6XsfbP9x6yxCxtnKSAB"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 206960,
       "name": "Porta",
       "url": "https://open.spotify.com/track/6zfI5bLVFhDzYUBHmMA7ni"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Filming School",
-        "url": "https://open.spotify.com/album/3t5QsHVDqA1HCLWCZBHdLl"
-      },
-      "artists": [
-        {
-          "name": "Sidney Gish",
-          "url": "https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI"
-        }
-      ],
-      "duration_ms": 190746,
-      "name": "Filming School",
-      "url": "https://open.spotify.com/track/5Wk8ShrY6d6d43wHrAdIJr"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Love Without Possession",
-        "url": "https://open.spotify.com/album/3Ugdu51uh1xMeZkOoypBNL"
-      },
-      "artists": [
-        {
-          "name": "Scout Willis",
-          "url": "https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN"
-        }
-      ],
-      "duration_ms": 241681,
-      "name": "Love Without Possession",
-      "url": "https://open.spotify.com/track/738fOOmAzfEssdCzYRv6Un"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Late Bloomer",
         "url": "https://open.spotify.com/album/3s1OBLlL9gLOVl5Dtc5RHs"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 174598,
       "name": "Late Bloomer",
       "url": "https://open.spotify.com/track/0dTgjND9WVIfk9M2jHbzjr"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Love Without Possession",
+        "url": "https://open.spotify.com/album/3Ugdu51uh1xMeZkOoypBNL"
+      },
+      "artists": [
+        {
+          "name": "Scout Willis",
+          "url": "https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN"
+        }
+      ],
+      "duration_ms": 241681,
+      "name": "Love Without Possession",
+      "url": "https://open.spotify.com/track/738fOOmAzfEssdCzYRv6Un"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Strange Weather",
-        "url": "https://open.spotify.com/album/3lXZxaI5WDRQjNPSGNG7RF"
-      },
-      "artists": [
-        {
-          "name": "Slaughter Beach, Dog",
-          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
-        }
-      ],
-      "duration_ms": 208817,
-      "name": "Strange Weather",
-      "url": "https://open.spotify.com/track/12O9MpMmewwdDkxZC9uqvS"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Northsiders",
         "url": "https://open.spotify.com/album/0AKWmrRaij8YUWVxi5yAjC"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 223520,
       "name": "Northsiders",
       "url": "https://open.spotify.com/track/34g8vWL65ZOAvDWCdq8kP3"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Strange Weather",
+        "url": "https://open.spotify.com/album/3lXZxaI5WDRQjNPSGNG7RF"
+      },
+      "artists": [
+        {
+          "name": "Slaughter Beach, Dog",
+          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
+        }
+      ],
+      "duration_ms": 208817,
+      "name": "Strange Weather",
+      "url": "https://open.spotify.com/track/12O9MpMmewwdDkxZC9uqvS"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2035,18 +2035,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Growin' Down",
-        "url": "https://open.spotify.com/album/5skKCz7lFau3mYIBFDdkw9"
+        "name": "Narcissist - EP",
+        "url": "https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT"
       },
       "artists": [
         {
-          "name": "Illiterate Light",
-          "url": "https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J"
+          "name": "Cale Tyson",
+          "url": "https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Growin' Down",
-      "url": "https://open.spotify.com/track/364HspDHZe7P1vNHDiO4ic"
+      "duration_ms": 241000,
+      "name": "Not Healthy Anymore",
+      "url": "https://open.spotify.com/track/5miGESqEVwfKAdjE164WXx"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2071,18 +2071,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Narcissist - EP",
-        "url": "https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT"
+        "name": "Growin' Down",
+        "url": "https://open.spotify.com/album/5skKCz7lFau3mYIBFDdkw9"
       },
       "artists": [
         {
-          "name": "Cale Tyson",
-          "url": "https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy"
+          "name": "Illiterate Light",
+          "url": "https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J"
         }
       ],
-      "duration_ms": 241000,
-      "name": "Not Healthy Anymore",
-      "url": "https://open.spotify.com/track/5miGESqEVwfKAdjE164WXx"
+      "duration_ms": 256000,
+      "name": "Growin' Down",
+      "url": "https://open.spotify.com/track/364HspDHZe7P1vNHDiO4ic"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Slice of Life",
-        "url": "https://open.spotify.com/album/0oAdL3ENxGGow7Fy0mWdoz"
-      },
-      "artists": [
-        {
-          "name": "Liz Cooper",
-          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
-        }
-      ],
-      "duration_ms": 283922,
-      "name": "Slice of Life",
-      "url": "https://open.spotify.com/track/5oUr4PECM3gisd18Nwlrfr"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld"
       },
@@ -2187,34 +2171,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Hope Dreams",
-        "url": "https://open.spotify.com/album/2Gjb3T1btQMnGtSYl6c1HD"
+        "name": "Slice of Life",
+        "url": "https://open.spotify.com/album/0oAdL3ENxGGow7Fy0mWdoz"
       },
       "artists": [
         {
-          "name": "Piers Faccini",
-          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
+          "name": "Liz Cooper",
+          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
         }
       ],
-      "duration_ms": 282533,
-      "name": "Hope Dreams",
-      "url": "https://open.spotify.com/track/4UqOJtePJLOlG6enQq7NEE"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "100 Proof",
-        "url": "https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi"
-      },
-      "artists": [
-        {
-          "name": "Julian Taylor",
-          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
-        }
-      ],
-      "duration_ms": 238300,
-      "name": "100 Proof",
-      "url": "https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv"
+      "duration_ms": 283922,
+      "name": "Slice of Life",
+      "url": "https://open.spotify.com/track/5oUr4PECM3gisd18Nwlrfr"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2243,6 +2211,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "100 Proof",
+        "url": "https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi"
+      },
+      "artists": [
+        {
+          "name": "Julian Taylor",
+          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
+        }
+      ],
+      "duration_ms": 238300,
+      "name": "100 Proof",
+      "url": "https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Green to Gold",
         "url": "https://open.spotify.com/album/72XWeRa3UZSkxLkGs2kTHo"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 237985,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/04f6EedgUAAg2e1nSVOhyp"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Hope Dreams",
+        "url": "https://open.spotify.com/album/2Gjb3T1btQMnGtSYl6c1HD"
+      },
+      "artists": [
+        {
+          "name": "Piers Faccini",
+          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
+        }
+      ],
+      "duration_ms": 282533,
+      "name": "Hope Dreams",
+      "url": "https://open.spotify.com/track/4UqOJtePJLOlG6enQq7NEE"
     },
     {
       "added_at": "2025-02-07 05:00:36",

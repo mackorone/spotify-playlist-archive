@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. (Cover: Hearts2Hearts (\ud558\uce20\ud22c\ud558\uce20)) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. (Cover: KATSEYE) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "tracks": [
     {
@@ -286,7 +286,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 201760,
       "name": "Almond Chocolate (Korean Ver.)",
       "url": "https://open.spotify.com/track/6L2DSQ4tjyyTnPAOQDVfCr"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-17",
+      "date_removed": null,
       "duration_ms": 176854,
       "name": "Cherish (My Love)",
       "url": "https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6"
@@ -2595,6 +2595,24 @@
     },
     {
       "album": {
+        "name": "BEAUTIFUL CHAOS",
+        "url": "https://open.spotify.com/album/4llrXTk6u4QYI1j7KHIsCx"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185598,
+      "name": "Gameboy",
+      "url": "https://open.spotify.com/track/2f1WulnyiYYnseSQWI8Oi9"
+    },
+    {
+      "album": {
         "name": "Into The New World (The First Asia Tour)",
         "url": "https://open.spotify.com/album/3gQKLh7YC3VjvO3AMDVuJt"
       },
@@ -2750,7 +2768,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 188790,
       "name": "GPT",
       "url": "https://open.spotify.com/track/36qXU2yyq1JtGp05omV7bu"
@@ -2768,7 +2786,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 128026,
       "name": "GROSS",
       "url": "https://open.spotify.com/track/010b7ratgDLYeyd2RWYlhB"
@@ -3578,7 +3596,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 209040,
       "name": "KILL MA BO$$",
       "url": "https://open.spotify.com/track/2Fi5t4tvfo4jJK6MFLgUcw"
@@ -3873,6 +3891,24 @@
     },
     {
       "album": {
+        "name": "From Our 20's",
+        "url": "https://open.spotify.com/album/3jGURiEnUi4OoN879bBz0V"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185026,
+      "name": "LIKE YOU BETTER",
+      "url": "https://open.spotify.com/track/7t4Z19BqZ23ExgdiOP0nf6"
+    },
+    {
+      "album": {
         "name": "twicetagram",
         "url": "https://open.spotify.com/album/7dOZAeST5qCpfpQRAHq9sa"
       },
@@ -4054,7 +4090,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 181560,
       "name": "LOVE ATTACK",
       "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
@@ -4882,7 +4918,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 192386,
       "name": "NERDY",
       "url": "https://open.spotify.com/track/6maRkcBnkwVL0uwjjGazFT"
@@ -5834,7 +5870,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 178133,
       "name": "Really Like You",
       "url": "https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox"
@@ -6656,7 +6692,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 218293,
       "name": "Stargazers",
       "url": "https://open.spotify.com/track/5ddJtDFlVL9GwdWNdnEDGL"
@@ -6880,6 +6916,24 @@
       "duration_ms": 189017,
       "name": "Summer Dream",
       "url": "https://open.spotify.com/track/598m79JEjWwQkh4eCdV8Nx"
+    },
+    {
+      "album": {
+        "name": "H1-KEY 4th Mini Album [Lovestruck]",
+        "url": "https://open.spotify.com/album/21oMWx3BnmfTOy2zqzxJwt"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192040,
+      "name": "Summer Was You",
+      "url": "https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1"
     },
     {
       "album": {

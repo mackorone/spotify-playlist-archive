@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: DJ Gigola
 
-510 songs - 1 day 8 hr 0 min
+511 songs - 1 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Cowgirl](https://open.spotify.com/track/5wW2bmnIVn2qPbAsK6BcDU) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Cowgirl](https://open.spotify.com/album/7l4MKPgYC1veEp2bqwFcAQ) | 3:11 | 2023-06-15 | 2023-06-23 |
 | [Cringey Doll](https://open.spotify.com/track/64qvYVdK2FQ2ooddDLiaje) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q) | [Cringey Doll](https://open.spotify.com/album/03Qp6VFsWPgQ92KNtYKM5y) | 2:24 | 2024-06-13 | 2024-06-28 |
 | [Cut It \- Original Mix](https://open.spotify.com/track/6kTT8AcENWGhgbEwVeMMty) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [COLOR VA03](https://open.spotify.com/album/7hKxU851bFxIWHD8NH3XgR) | 6:43 | 2023-06-09 | 2023-06-16 |
-| [CWWDBI](https://open.spotify.com/track/5Y1PbmoHC3RPrBd4xQlz4Y) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [CWWDBI](https://open.spotify.com/album/7FlwGLtg6epGcfIeYC0wYI) | 3:19 | 2024-10-25 |  |
+| [CWWDBI](https://open.spotify.com/track/5Y1PbmoHC3RPrBd4xQlz4Y) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [CWWDBI](https://open.spotify.com/album/7FlwGLtg6epGcfIeYC0wYI) | 3:19 | 2024-10-25 | 2025-06-28 |
 | [Da Beat Goes](https://open.spotify.com/track/0c69i7dEofhykHqM9mU4Qi) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Da Beat Goes](https://open.spotify.com/album/5zxIcrySHLJFClX3lfjBS2) | 2:24 | 2024-09-16 | 2024-10-11 |
 | [Dachlatte \- Paul Seul Remix](https://open.spotify.com/track/77dFA7mUovYRHSIE0wLW2O) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [Paul Seul](https://open.spotify.com/artist/1sSdOYlIBpjKaysZ7BVVdi) | [Dachlatte \(Paul Seul Remix\)](https://open.spotify.com/album/7qPiD7ilnwVnBDyTLQs6ZM) | 2:52 | 2023-08-25 |  |
 | [Daddy's Issue](https://open.spotify.com/track/6vzN8Hr9rJ8Bk5OnHAxei0) | [L.zwo](https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1) | [Daddy's Issue](https://open.spotify.com/album/33OZ6sGO6ahdHOjr0KDls3) | 4:37 | 2024-02-22 | 2024-03-23 |
@@ -392,6 +392,7 @@
 | [S&M \(With Chacel\) \- HYPERTECHNO Edit](https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Chacel](https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep) | [S&M \(With Chacel\) \[HYPERTECHNO Edit\]](https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK) | 2:58 | 2023-06-29 |  |
 | [Sarà perché ti amo](https://open.spotify.com/track/6nQLIugrQVRZ7UKaTVdnmS) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [Sarà perché ti amo](https://open.spotify.com/album/42TliMaS2eKrHcVEzggsAh) | 2:14 | 2023-10-20 |  |
 | [Satan Was A Babyboomer](https://open.spotify.com/track/3IVrlcM5gDoj3lghHY9m7I) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Satan Was A Babyboomer](https://open.spotify.com/album/42nVxnZ0BD7Vt3sMK0t8Ss) | 7:07 | 2024-12-28 |  |
+| [Save The Last Dance](https://open.spotify.com/track/6dXtAHx10RxPkffHGrlgSs) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [Save The Last Dance](https://open.spotify.com/album/4oGVlj2GZGx5MmIVzy6WmR) | 4:23 | 2025-06-27 |  |
 | [Say My Name \- Remix](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Say My Name \(Remix\)](https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk) | 2:48 | 2024-12-09 |  |
 | [Say yes to heaven](https://open.spotify.com/track/6s5nJGUMS7g0tO8L1ejXA9) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [BAYZY](https://open.spotify.com/artist/3Bp2X5t7A5WNxBg3Kdhr6z), [Oleria](https://open.spotify.com/artist/2VhoK5L78oQvoUJIDT4eHY) | [Say yes to heaven](https://open.spotify.com/album/5xz3sjfbFqdnf9Raa1kCGa) | 1:55 | 2023-09-29 | 2023-10-05 |
 | [Scars](https://open.spotify.com/track/5nhgzZknavigy00j26edAY) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Scars](https://open.spotify.com/album/7zlXRLMuLPoYOQwPLrtvsj) | 3:30 | 2024-09-16 | 2024-10-14 |

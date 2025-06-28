@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Mzee wa Bwax",
-  "num_followers": 6155,
+  "num_followers": 6156,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -171,18 +171,22 @@
     {
       "added_at": "2025-06-26 23:59:15",
       "album": {
-        "name": "Nitafanyaje",
-        "url": "https://open.spotify.com/album/28EHJ9YuzNdVF7D8EeIpaK"
+        "name": "Peace And Money",
+        "url": "https://open.spotify.com/album/47pNTi044pGat6ihhj9Vo2"
       },
       "artists": [
         {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        },
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
         }
       ],
-      "duration_ms": 283500,
-      "name": "Nitafanyaje",
-      "url": "https://open.spotify.com/track/0hmYcBy4sTrmlU7CqVWN8I"
+      "duration_ms": 258124,
+      "name": "Hujanizidi (feat. D Voice)",
+      "url": "https://open.spotify.com/track/56nm7WvdxbOEToDrfDSS8B"
     },
     {
       "added_at": "2025-06-26 23:59:15",
@@ -203,22 +207,18 @@
     {
       "added_at": "2025-06-26 23:59:15",
       "album": {
-        "name": "Peace And Money",
-        "url": "https://open.spotify.com/album/47pNTi044pGat6ihhj9Vo2"
+        "name": "Nitafanyaje",
+        "url": "https://open.spotify.com/album/28EHJ9YuzNdVF7D8EeIpaK"
       },
       "artists": [
         {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
-        },
-        {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
         }
       ],
-      "duration_ms": 258124,
-      "name": "Hujanizidi (feat. D Voice)",
-      "url": "https://open.spotify.com/track/56nm7WvdxbOEToDrfDSS8B"
+      "duration_ms": 283500,
+      "name": "Nitafanyaje",
+      "url": "https://open.spotify.com/track/0hmYcBy4sTrmlU7CqVWN8I"
     },
     {
       "added_at": "2025-06-26 23:59:15",
@@ -311,6 +311,22 @@
     {
       "added_at": "2025-06-26 23:59:15",
       "album": {
+        "name": "Nyumba Ndogo",
+        "url": "https://open.spotify.com/album/3X3LJtY2Y3FVpZfWxTGbGb"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Nyumba Ndogo",
+      "url": "https://open.spotify.com/track/1GAmhYpbEPorhkSOecnVqj"
+    },
+    {
+      "added_at": "2025-06-26 23:59:15",
+      "album": {
         "name": "Madanga Ya Mke Wangu",
         "url": "https://open.spotify.com/album/49mM3VMjzLhG2sa4JLwLVD"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2025-06-26 23:59:15",
       "album": {
-        "name": "Toilet",
-        "url": "https://open.spotify.com/album/1bMBU9RVQysL6RTFhJCtTD"
-      },
-      "artists": [
-        {
-          "name": "Kontawa",
-          "url": "https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk"
-        }
-      ],
-      "duration_ms": 228806,
-      "name": "Toilet",
-      "url": "https://open.spotify.com/track/43BmpGqwsEieXTSo70Q1J8"
-    },
-    {
-      "added_at": "2025-06-26 23:59:15",
-      "album": {
         "name": "Simu Yangu",
         "url": "https://open.spotify.com/album/0mZCFdHM7dpKsjMTMWEUe3"
       },
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-06-26 23:59:15",
       "album": {
-        "name": "Nyumba Ndogo",
-        "url": "https://open.spotify.com/album/3X3LJtY2Y3FVpZfWxTGbGb"
-      },
-      "artists": [
-        {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Nyumba Ndogo",
-      "url": "https://open.spotify.com/track/1GAmhYpbEPorhkSOecnVqj"
-    },
-    {
-      "added_at": "2025-06-26 23:59:15",
-      "album": {
         "name": "Shemeji Yako",
         "url": "https://open.spotify.com/album/6Sxcp9nwJnY6qvC2lJJSNs"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 256350,
       "name": "Shemeji Yako",
       "url": "https://open.spotify.com/track/6h9NKoZ0O1WZlQRhC2euXa"
+    },
+    {
+      "added_at": "2025-06-26 23:59:15",
+      "album": {
+        "name": "Toilet",
+        "url": "https://open.spotify.com/album/1bMBU9RVQysL6RTFhJCtTD"
+      },
+      "artists": [
+        {
+          "name": "Kontawa",
+          "url": "https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk"
+        }
+      ],
+      "duration_ms": 228806,
+      "name": "Toilet",
+      "url": "https://open.spotify.com/track/43BmpGqwsEieXTSo70Q1J8"
     },
     {
       "added_at": "2025-06-26 23:59:15",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-06-26 23:59:15",
       "album": {
-        "name": "Hainaga Ushemeji",
-        "url": "https://open.spotify.com/album/6StWMcZ0mnlVtrNiHAf4X6"
-      },
-      "artists": [
-        {
-          "name": "Man Fongo",
-          "url": "https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4"
-        }
-      ],
-      "duration_ms": 296507,
-      "name": "Hainaga Ushemeji",
-      "url": "https://open.spotify.com/track/2OoeAMK3VrCOGEgXYGRhCv"
-    },
-    {
-      "added_at": "2025-06-26 23:59:15",
-      "album": {
         "name": "Nampakia Mkongo",
         "url": "https://open.spotify.com/album/3A347rTOQ2qQBTyXjwrtmX"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 199847,
       "name": "Nampakia Mkongo",
       "url": "https://open.spotify.com/track/4JMUGR4012eENHnulffTeN"
+    },
+    {
+      "added_at": "2025-06-26 23:59:15",
+      "album": {
+        "name": "Hainaga Ushemeji",
+        "url": "https://open.spotify.com/album/6StWMcZ0mnlVtrNiHAf4X6"
+      },
+      "artists": [
+        {
+          "name": "Man Fongo",
+          "url": "https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4"
+        }
+      ],
+      "duration_ms": 296507,
+      "name": "Hainaga Ushemeji",
+      "url": "https://open.spotify.com/track/2OoeAMK3VrCOGEgXYGRhCv"
     },
     {
       "added_at": "2025-06-26 23:59:15",
@@ -919,22 +919,18 @@
     {
       "added_at": "2025-06-26 23:59:15",
       "album": {
-        "name": "Jiangalie",
-        "url": "https://open.spotify.com/album/13ANj5VXI99symiSXYggqI"
+        "name": "Stress",
+        "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
       },
       "artists": [
         {
-          "name": "Nay Wa Mitego",
-          "url": "https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq"
-        },
-        {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL"
         }
       ],
-      "duration_ms": 229944,
-      "name": "Jiangalie",
-      "url": "https://open.spotify.com/track/70MUSJin8YD1Yt3MY6lh6Q"
+      "duration_ms": 252043,
+      "name": "Stress",
+      "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
     },
     {
       "added_at": "2025-06-26 23:59:15",
@@ -955,18 +951,38 @@
     {
       "added_at": "2025-06-26 23:59:15",
       "album": {
-        "name": "Stress",
-        "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
+        "name": "Jiangalie",
+        "url": "https://open.spotify.com/album/13ANj5VXI99symiSXYggqI"
+      },
+      "artists": [
+        {
+          "name": "Nay Wa Mitego",
+          "url": "https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq"
+        },
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        }
+      ],
+      "duration_ms": 229944,
+      "name": "Jiangalie",
+      "url": "https://open.spotify.com/track/70MUSJin8YD1Yt3MY6lh6Q"
+    },
+    {
+      "added_at": "2025-06-26 23:59:15",
+      "album": {
+        "name": "Sawa Nitaacha",
+        "url": "https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ"
       },
       "artists": [
         {
           "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL"
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
         }
       ],
-      "duration_ms": 252043,
-      "name": "Stress",
-      "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
+      "duration_ms": 218197,
+      "name": "Sawa Nitaacha",
+      "url": "https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr"
     },
     {
       "added_at": "2025-06-26 23:59:15",
@@ -987,22 +1003,6 @@
       "duration_ms": 298358,
       "name": "Sina",
       "url": "https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n"
-    },
-    {
-      "added_at": "2025-06-26 23:59:15",
-      "album": {
-        "name": "Sawa Nitaacha",
-        "url": "https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ"
-      },
-      "artists": [
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
-        }
-      ],
-      "duration_ms": 218197,
-      "name": "Sawa Nitaacha",
-      "url": "https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr"
     },
     {
       "added_at": "2025-06-26 23:59:15",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-06-26 23:59:15",
       "album": {
-        "name": "Chura",
-        "url": "https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm"
-      },
-      "artists": [
-        {
-          "name": "Snura",
-          "url": "https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Chura",
-      "url": "https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g"
-    },
-    {
-      "added_at": "2025-06-26 23:59:15",
-      "album": {
         "name": "Kijumbe",
         "url": "https://open.spotify.com/album/2iQbLXbeyFsokSg0ENz5VR"
       },
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2025-06-26 23:59:15",
       "album": {
+        "name": "Chura",
+        "url": "https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm"
+      },
+      "artists": [
+        {
+          "name": "Snura",
+          "url": "https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9"
+        }
+      ],
+      "duration_ms": 272933,
+      "name": "Chura",
+      "url": "https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g"
+    },
+    {
+      "added_at": "2025-06-26 23:59:15",
+      "album": {
         "name": "Shemeji",
         "url": "https://open.spotify.com/album/47v6siumRINvjj2CzonVxx"
       },
@@ -1235,106 +1235,6 @@
       "duration_ms": 195080,
       "name": "Shemeji",
       "url": "https://open.spotify.com/track/5nFg4Fk4GtDV9N7cjUN6A6"
-    },
-    {
-      "added_at": "2025-06-26 23:59:15",
-      "album": {
-        "name": "Niite Mbwa",
-        "url": "https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9"
-      },
-      "artists": [
-        {
-          "name": "Shilole",
-          "url": "https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6"
-        },
-        {
-          "name": "Mchina Mweusi",
-          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Niite Mbwa",
-      "url": "https://open.spotify.com/track/4QQ4T0JTPZo9r3oLKH519H"
-    },
-    {
-      "added_at": "2025-06-26 23:59:15",
-      "album": {
-        "name": "Siyo Shida Zangu",
-        "url": "https://open.spotify.com/album/44EjEEaqOQ7rKvUhkBnBwI"
-      },
-      "artists": [
-        {
-          "name": "Seneta Kilaka",
-          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
-        },
-        {
-          "name": "Mchina Mweusi",
-          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
-        }
-      ],
-      "duration_ms": 239612,
-      "name": "Siyo Shida Zangu",
-      "url": "https://open.spotify.com/track/2NBG2pKQynWx2IQ71rD2hz"
-    },
-    {
-      "added_at": "2025-06-26 23:59:15",
-      "album": {
-        "name": "Nimempost (Remix)",
-        "url": "https://open.spotify.com/album/2V5WxJD56nKXtyZWLwue2T"
-      },
-      "artists": [
-        {
-          "name": "Kidene Fighter",
-          "url": "https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA"
-        },
-        {
-          "name": "Platform",
-          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
-        }
-      ],
-      "duration_ms": 239933,
-      "name": "Nimempost - Remix",
-      "url": "https://open.spotify.com/track/65bXqAf2Vz6NUK19RkBmZ1"
-    },
-    {
-      "added_at": "2025-06-26 23:59:15",
-      "album": {
-        "name": "Kupendwa Raha",
-        "url": "https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI"
-      },
-      "artists": [
-        {
-          "name": "Sholo Mwamba",
-          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
-        },
-        {
-          "name": "Dogo Jully",
-          "url": "https://open.spotify.com/artist/1jX3XpeCyG71h63b4ZCnqJ"
-        }
-      ],
-      "duration_ms": 304986,
-      "name": "Kupendwa Raha",
-      "url": "https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU"
-    },
-    {
-      "added_at": "2025-06-26 23:59:15",
-      "album": {
-        "name": "Singeli Jungles",
-        "url": "https://open.spotify.com/album/3FLTSy9L7qepabWJlluH1n"
-      },
-      "artists": [
-        {
-          "name": "MC Palakata",
-          "url": "https://open.spotify.com/artist/6vcyi3nPfWG7KVc5zBFxq7"
-        },
-        {
-          "name": "Tom Blip",
-          "url": "https://open.spotify.com/artist/1xazZO4qWRZ29dlJfeaR6x"
-        }
-      ],
-      "duration_ms": 280393,
-      "name": "Singeli Jungles",
-      "url": "https://open.spotify.com/track/6H3EHuYWvGB0zYNt5HshDy"
     },
     {
       "added_at": "2025-06-26 23:59:15",
@@ -1363,6 +1263,106 @@
       "duration_ms": 277972,
       "name": "My Darling - Remix",
       "url": "https://open.spotify.com/track/3Byiqm0Xzb7NeRwvmLlUVw"
+    },
+    {
+      "added_at": "2025-06-26 23:59:15",
+      "album": {
+        "name": "Siyo Shida Zangu",
+        "url": "https://open.spotify.com/album/44EjEEaqOQ7rKvUhkBnBwI"
+      },
+      "artists": [
+        {
+          "name": "Seneta Kilaka",
+          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
+        },
+        {
+          "name": "Mchina Mweusi",
+          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
+        }
+      ],
+      "duration_ms": 239612,
+      "name": "Siyo Shida Zangu",
+      "url": "https://open.spotify.com/track/2NBG2pKQynWx2IQ71rD2hz"
+    },
+    {
+      "added_at": "2025-06-26 23:59:15",
+      "album": {
+        "name": "Niite Mbwa",
+        "url": "https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9"
+      },
+      "artists": [
+        {
+          "name": "Shilole",
+          "url": "https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6"
+        },
+        {
+          "name": "Mchina Mweusi",
+          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Niite Mbwa",
+      "url": "https://open.spotify.com/track/4QQ4T0JTPZo9r3oLKH519H"
+    },
+    {
+      "added_at": "2025-06-26 23:59:15",
+      "album": {
+        "name": "Kupendwa Raha",
+        "url": "https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI"
+      },
+      "artists": [
+        {
+          "name": "Sholo Mwamba",
+          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
+        },
+        {
+          "name": "Dogo Jully",
+          "url": "https://open.spotify.com/artist/1jX3XpeCyG71h63b4ZCnqJ"
+        }
+      ],
+      "duration_ms": 304986,
+      "name": "Kupendwa Raha",
+      "url": "https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU"
+    },
+    {
+      "added_at": "2025-06-26 23:59:15",
+      "album": {
+        "name": "Nimempost (Remix)",
+        "url": "https://open.spotify.com/album/2V5WxJD56nKXtyZWLwue2T"
+      },
+      "artists": [
+        {
+          "name": "Kidene Fighter",
+          "url": "https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA"
+        },
+        {
+          "name": "Platform",
+          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
+        }
+      ],
+      "duration_ms": 239933,
+      "name": "Nimempost - Remix",
+      "url": "https://open.spotify.com/track/65bXqAf2Vz6NUK19RkBmZ1"
+    },
+    {
+      "added_at": "2025-06-26 23:59:15",
+      "album": {
+        "name": "Singeli Jungles",
+        "url": "https://open.spotify.com/album/3FLTSy9L7qepabWJlluH1n"
+      },
+      "artists": [
+        {
+          "name": "MC Palakata",
+          "url": "https://open.spotify.com/artist/6vcyi3nPfWG7KVc5zBFxq7"
+        },
+        {
+          "name": "Tom Blip",
+          "url": "https://open.spotify.com/artist/1xazZO4qWRZ29dlJfeaR6x"
+        }
+      ],
+      "duration_ms": 280393,
+      "name": "Singeli Jungles",
+      "url": "https://open.spotify.com/track/6H3EHuYWvGB0zYNt5HshDy"
     },
     {
       "added_at": "2025-06-26 23:59:15",

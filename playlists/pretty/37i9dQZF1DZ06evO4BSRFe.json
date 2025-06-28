@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Machos. The essential tracks, all in one playlist.",
-  "num_followers": 65325,
+  "num_followers": 65344,
   "original_name": "This Is Banda Machos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFs8AAAAAAC1WR/FWpnWGG33BQCkz8MK",
+  "snapshot_id": "aFyNgAAAAAC4fjE8uFbB6OxmqfCS0ZYd",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los machos tambi\u00e9n lloran",
-        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "Cumbia torera",
-      "url": "https://open.spotify.com/track/4DRCXdm5KJ76R2sWG4hwcD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gracias Mujer",
         "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 160133,
       "name": "La m\u00e1s bonita de todas",
       "url": "https://open.spotify.com/track/5lSl7vLwMnC6uHFzkFLptI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los machos tambi\u00e9n lloran",
+        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "Cumbia torera",
+      "url": "https://open.spotify.com/track/4DRCXdm5KJ76R2sWG4hwcD"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los machos tambi\u00e9n lloran",
-        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 188506,
-      "name": "Motivos",
-      "url": "https://open.spotify.com/track/65lfzguWycfHortBjpZAwr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "25 Bandazos de Machos (Vol. 1) [USA]",
         "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 158080,
       "name": "El viejo joven",
       "url": "https://open.spotify.com/track/2TW92ifivpD4xUxXsEFTVp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los machos tambi\u00e9n lloran",
+        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 188506,
+      "name": "Motivos",
+      "url": "https://open.spotify.com/track/65lfzguWycfHortBjpZAwr"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me llamo Raquel",
-        "url": "https://open.spotify.com/album/6kKUMZRUFskGD5ApAkKHRu"
+        "name": "Sangre de indio",
+        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 177960,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/4LWNMFGhh76bv1Q6JIwlJu"
+      "duration_ms": 153306,
+      "name": "Mi tesoro",
+      "url": "https://open.spotify.com/track/6iYmSqPRZbd51RD5pPfTa0"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+        "name": "Me llamo Raquel",
+        "url": "https://open.spotify.com/album/6kKUMZRUFskGD5ApAkKHRu"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 152973,
-      "name": "Mi tesoro",
-      "url": "https://open.spotify.com/track/6i9F5U7UTfpA2BurGZ9FYd"
+      "duration_ms": 177960,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/4LWNMFGhh76bv1Q6JIwlJu"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
       "duration_ms": 231453,
       "name": "Vivir sin ella",
       "url": "https://open.spotify.com/track/1tGEqvzyAMUReS4zQMpZ2G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sangre de indio",
-        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 135333,
-      "name": "El biling\u00fce",
-      "url": "https://open.spotify.com/track/5aqVKwiEuXrLJK4cPUjGDt"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
       "duration_ms": 190226,
       "name": "El mandilon",
       "url": "https://open.spotify.com/track/6jLka2PiSCyGNpSTLiVB1l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rancheras de oro",
+        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 141533,
+      "name": "No compro amores",
+      "url": "https://open.spotify.com/track/3RFaoL5rTwLJN0SgG6ERdq"
     }
   ],
   "unique_name": "This Is Banda Machos",

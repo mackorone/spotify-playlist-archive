@@ -4521,6 +4521,28 @@
     },
     {
       "album": {
+        "name": "Tracks of the Blue Sky",
+        "url": "https://open.spotify.com/album/5kCSdyvAeUACIFEspLwr83"
+      },
+      "artists": [
+        {
+          "name": "Demm Deep",
+          "url": "https://open.spotify.com/artist/1MzQYOcw4DMB9ISBhZTa7g"
+        },
+        {
+          "name": "Junes UB",
+          "url": "https://open.spotify.com/artist/32nH6vaVKn3iDyEYdlcBi5"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199138,
+      "name": "Brazilian Sky",
+      "url": "https://open.spotify.com/track/5KF3ijg71YSKszvHuHdfZA"
+    },
+    {
+      "album": {
         "name": "Break My Love",
         "url": "https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y"
       },
@@ -8328,7 +8350,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 198660,
       "name": "Drunk Right Now (Na Na Na) with Akon",
       "url": "https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e"
@@ -10924,7 +10946,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 183034,
       "name": "God Went Crazy",
       "url": "https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr"
@@ -12800,6 +12822,24 @@
       "duration_ms": 145696,
       "name": "Hit the Ground",
       "url": "https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa"
+    },
+    {
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/6ZBOplOh1JPtGnBLlptWDM"
+      },
+      "artists": [
+        {
+          "name": "prodwhite",
+          "url": "https://open.spotify.com/artist/4Sc3Uhbp58kVBp0OKpKtNI"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170928,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0Yzv3wddbWOTvL9iJq5rgD"
     },
     {
       "album": {
@@ -19288,6 +19328,24 @@
       "duration_ms": 168104,
       "name": "Midnight Fiction",
       "url": "https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo"
+    },
+    {
+      "album": {
+        "name": "Midnight Life",
+        "url": "https://open.spotify.com/album/1mPhfNysAtHT6dvwm17IBR"
+      },
+      "artists": [
+        {
+          "name": "White Panda",
+          "url": "https://open.spotify.com/artist/1mOUOvOOaoTF2b3kDjrety"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234370,
+      "name": "Midnight Life",
+      "url": "https://open.spotify.com/track/7sMaxqeEIeEVCgn2JvIe2P"
     },
     {
       "album": {
@@ -31044,7 +31102,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 260320,
       "name": "Turn Heads",
       "url": "https://open.spotify.com/track/7uVg9fXqAPpRo7kdoYLKjA"

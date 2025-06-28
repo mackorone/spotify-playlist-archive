@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Delacruz
 
-292 songs - 15 hr 2 min
+293 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Mais uma Vez](https://open.spotify.com/track/5z1ilt9ZerSnXCuclChbHt) | [Gu Original](https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e), [JHXW](https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV) | [Mais uma Vez](https://open.spotify.com/album/0jhBAoUYv0xYxhXRg1MsE2) | 2:09 | 2025-04-05 |  |
 | [Mania de Você](https://open.spotify.com/track/5vSKbC3AYHMfAxT82WKAPQ) | [Gu Original](https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e) | [Mania de Você](https://open.spotify.com/album/1P3yi6mXwdmNpF5KKWscnY) | 2:17 | 2025-03-01 | 2025-05-14 |
 | [Marcas](https://open.spotify.com/track/29uluLs7czmA7gFCyyjxkS) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Izy Castelano](https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Marcas](https://open.spotify.com/album/0o45SHCsgRZeFg0MYhhtMh) | 3:46 | 2022-11-18 | 2023-07-29 |
+| [Marfim](https://open.spotify.com/track/32xPKgpBUKsGhS6wkiCJxj) | [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Meraki Nina](https://open.spotify.com/album/1DQMlqpLfEN5cZ8R2HnF6V) | 3:36 | 2025-06-28 |  |
 | [Mas Que Porra](https://open.spotify.com/track/3Yo2jWdQEjar8IayTy6B7Z) | [idontcare](https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e) | [Mas Que Porra](https://open.spotify.com/album/3nvA63FjzbjPBuXwK8M1tv) | 2:01 | 2025-05-02 |  |
 | [Me Diz](https://open.spotify.com/track/5pWI8jyJ0eaQ1EuShX6eOo) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH) | [Me Diz](https://open.spotify.com/album/1BnN8Y7gxuohSEaanKASYt) | 2:56 | 2023-05-19 | 2023-06-24 |
 | [Me Diz Que Cê Sente](https://open.spotify.com/track/61YXVtkd0EWz6qVkk51zn6) | [Gu Original](https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e) | [Me Diz Que Cê Sente](https://open.spotify.com/album/2PI5jCE7LGXJVY2Z6WEpLr) | 2:17 | 2025-03-21 | 2025-06-21 |
@@ -175,7 +176,7 @@
 | [Nossa História](https://open.spotify.com/track/1m2FR3KOBqFjMjpzdeRPf4) | [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Nossa História](https://open.spotify.com/album/5xgBu9qPQQWVYEVyslTCbm) | 3:19 | 2025-06-13 |  |
 | [Nossa Música](https://open.spotify.com/track/4vJJqJ9psCW7CKCJSEqrtL) | [Rê Barbosa](https://open.spotify.com/artist/2LdRIx27LRtTjL2PASuduX), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Nossa Música](https://open.spotify.com/album/1PvKNzwf78tHq50nNFEsmM) | 2:27 | 2025-04-01 |  |
 | [Nosso Futuro](https://open.spotify.com/track/3s4ao4kuMbya51WvYQzMn6) | [Isis Orbelli](https://open.spotify.com/artist/4rflqymMDgNe10ldH5lGCY) | [Nosso Futuro](https://open.spotify.com/album/7uqpzYwoY5m2x9lQJVkCvF) | 2:03 | 2022-12-16 | 2023-04-24 |
-| [Notificação](https://open.spotify.com/track/3ot87RehrieMlYEzKMDFPb) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Notificação](https://open.spotify.com/album/7I2tjoEMssBPwcmcQFDuJX) | 2:57 | 2024-11-04 |  |
+| [Notificação](https://open.spotify.com/track/3ot87RehrieMlYEzKMDFPb) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Notificação](https://open.spotify.com/album/7I2tjoEMssBPwcmcQFDuJX) | 2:57 | 2024-11-04 | 2025-06-28 |
 | [Novela](https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Novela](https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh) | 2:24 | 2023-07-21 |  |
 | [Não Quero Te Perder](https://open.spotify.com/track/5m2DgR3ZWv1GYwF9NPh4mP) | [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Não Quero Te Perder](https://open.spotify.com/album/5ndAdf9telWSbdHoy8IYh0) | 2:49 | 2022-11-18 | 2023-07-15 |
 | [Não quis enxergar](https://open.spotify.com/track/6QxqoEinReEb5KuWIQhQB8) | [Debbys](https://open.spotify.com/artist/1u77sNbUjAaku0o9mcpi6z), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [Não quis enxergar](https://open.spotify.com/album/2J73R8Jzjx5ILRLBxuMo9A) | 3:02 | 2022-11-18 | 2023-01-28 |

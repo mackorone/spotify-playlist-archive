@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e23\u0e48\u0e27\u0e21\u0e09\u0e25\u0e2d\u0e07 10 \u0e1b\u0e35 Fresh Finds \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c \u0e1f\u0e31\u0e07\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Shane Augustin. Artwork: Isu Kim",
+  "description": "\u0e23\u0e48\u0e27\u0e21\u0e09\u0e25\u0e2d\u0e07 10 \u0e1b\u0e35 Fresh Finds \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c \u0e1f\u0e31\u0e07\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Jigsaw Story. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "tracks": [
     {
@@ -528,6 +528,24 @@
       "duration_ms": 270296,
       "name": "Babe Come Back",
       "url": "https://open.spotify.com/track/537APMqAi1J1yrRH6uqYaD"
+    },
+    {
+      "album": {
+        "name": "Baby Girl",
+        "url": "https://open.spotify.com/album/2XYvBgx7tf1UmO9OOnQv0f"
+      },
+      "artists": [
+        {
+          "name": "Ta noppawit",
+          "url": "https://open.spotify.com/artist/3ro89xckft4em5lVjaSzSt"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164036,
+      "name": "Baby Girl",
+      "url": "https://open.spotify.com/track/5fgdWeLaqTwBje5ket7ACn"
     },
     {
       "album": {
@@ -1359,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "CLANG CLANG",
+        "url": "https://open.spotify.com/album/1ddAQY6sw9CGa9SDIEtDXz"
+      },
+      "artists": [
+        {
+          "name": "DEXX",
+          "url": "https://open.spotify.com/artist/00xcYloqQIi9MrDTP7NUuA"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172981,
+      "name": "CLANG CLANG",
+      "url": "https://open.spotify.com/track/5iAIC6pCoRSaUThmMSYZV1"
+    },
+    {
+      "album": {
         "name": "Close Fan",
         "url": "https://open.spotify.com/album/3vS06DvZ4REmTcW2sWUnuD"
       },
@@ -1446,7 +1482,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 228450,
       "name": "ColorU",
       "url": "https://open.spotify.com/track/5qxDyv49ANnFWb4vREErzv"
@@ -2248,7 +2284,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 210410,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/6oW9YuH4UZQEX9zh2MOPJd"
@@ -6993,6 +7029,24 @@
     },
     {
       "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/1nUtWJ4pT2emQjQDKWVldA"
+      },
+      "artists": [
+        {
+          "name": "tAH AND FRIENDS",
+          "url": "https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273018,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/09SJ0bGwvb3qvhxBfdibqx"
+    },
+    {
+      "album": {
         "name": "summerlove - Single",
         "url": "https://open.spotify.com/album/114IU6FaeCqYphyXWrAUBH"
       },
@@ -7258,7 +7312,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 188695,
       "name": "TAXI LOVER",
       "url": "https://open.spotify.com/track/4pBj0NcZdqeUuxwM1BwKOT"
@@ -11162,7 +11216,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 194594,
       "name": "\u0e04\u0e23\u0e31\u0e49\u0e07\u0e04\u0e23\u0e32\u0e27 - Badman",
       "url": "https://open.spotify.com/track/0ELVdeRK2UGYRQ5i6pgohl"
@@ -11562,7 +11616,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 216928,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e15\u0e32\u0e21\u0e2b\u0e32 (love and found)",
       "url": "https://open.spotify.com/track/2BN78CNjqPeKU7uaVP2yHk"
@@ -11934,7 +11988,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 348000,
       "name": "\u0e04\u0e33\u0e15\u0e2d\u0e1a\u0e02\u0e2d\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e17\u0e35\u0e48\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21 (fleck.)",
       "url": "https://open.spotify.com/track/5GU6wJbKgBOLJRrcK8DhJO"
@@ -13388,6 +13442,28 @@
       "duration_ms": 260470,
       "name": "\u0e08\u0e31\u0e01\u0e23\u0e27\u0e32\u0e25\u0e04\u0e39\u0e48\u0e02\u0e19\u0e32\u0e19 (Am I The Only One Dreaming?)",
       "url": "https://open.spotify.com/track/3QU1gDQfqdFZaaU4l9pQyk"
+    },
+    {
+      "album": {
+        "name": "\u0e08\u0e31\u0e01\u0e23\u0e27\u0e32\u0e25\u0e44\u0e2b\u0e19 (feat. MONICA)",
+        "url": "https://open.spotify.com/album/6R6wGeqTE7snGX2qR0ckHs"
+      },
+      "artists": [
+        {
+          "name": "Jigsaw Story",
+          "url": "https://open.spotify.com/artist/42Q1POTb6v0GuRPQOk85rv"
+        },
+        {
+          "name": "MONICA",
+          "url": "https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213920,
+      "name": "\u0e08\u0e31\u0e01\u0e23\u0e27\u0e32\u0e25\u0e44\u0e2b\u0e19 (feat. MONICA)",
+      "url": "https://open.spotify.com/track/6kUGR3mPqLwcnobMQA557r"
     },
     {
       "album": {
@@ -16026,6 +16102,24 @@
       "duration_ms": 240681,
       "name": "\u0e15\u0e31\u0e14\u0e1c\u0e21 (LEAVE ME)",
       "url": "https://open.spotify.com/track/3XhTnGswld0lTnujQkxps7"
+    },
+    {
+      "album": {
+        "name": "\u0e15\u0e31\u0e27 Secret",
+        "url": "https://open.spotify.com/album/6Nhw43GvjUBuP3Ddcj4szf"
+      },
+      "artists": [
+        {
+          "name": "DE GIFT'",
+          "url": "https://open.spotify.com/artist/6Q34PRPG2n1oEPAt796Q1t"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238888,
+      "name": "\u0e15\u0e31\u0e27 Secret",
+      "url": "https://open.spotify.com/track/4fFWx2Foe3bWxjaiEhkmnX"
     },
     {
       "album": {
@@ -19026,7 +19120,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 253541,
       "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32 (You)",
       "url": "https://open.spotify.com/track/6iapHtrPAWltKD3OodCTJD"
@@ -19496,6 +19590,24 @@
       "duration_ms": 213500,
       "name": "\u0e1a\u0e30\u0e1a\u0e32\u0e22",
       "url": "https://open.spotify.com/track/1rjFZAPKWdiADmH8oNqnJ8"
+    },
+    {
+      "album": {
+        "name": "\u0e1a\u0e32\u0e07\u0e17\u0e35\u0e01\u0e47\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e44\u0e1b\u0e08\u0e32\u0e01\u0e42\u0e25\u0e01\u0e19\u0e35\u0e49",
+        "url": "https://open.spotify.com/album/4M9Q2yl2yeTpOYYCwUYdxP"
+      },
+      "artists": [
+        {
+          "name": "PURE KANIN",
+          "url": "https://open.spotify.com/artist/68h0Px57IfbC6QapTqUjq3"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272543,
+      "name": "\u0e1a\u0e32\u0e07\u0e17\u0e35\u0e01\u0e47\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e44\u0e1b\u0e08\u0e32\u0e01\u0e42\u0e25\u0e01\u0e19\u0e35\u0e49",
+      "url": "https://open.spotify.com/track/6C6XD2tPsAfmPcoY8NP46B"
     },
     {
       "album": {
@@ -20666,6 +20778,24 @@
       "duration_ms": 233774,
       "name": "\u0e1d\u0e31\u0e19\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14",
       "url": "https://open.spotify.com/track/0EAXDXiDGjaA4CeUacDTRv"
+    },
+    {
+      "album": {
+        "name": "\u0e1d\u0e31\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c",
+        "url": "https://open.spotify.com/album/0L6wi7PvLrPEAst3KwCgVU"
+      },
+      "artists": [
+        {
+          "name": "Cheyada",
+          "url": "https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "\u0e1d\u0e31\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c",
+      "url": "https://open.spotify.com/track/65sVaJheVJ5SX3Ow5qBEFW"
     },
     {
       "album": {
@@ -23513,6 +23643,24 @@
     },
     {
       "album": {
+        "name": "\u0e23\u0e31\u0e01 = \u0e40\u0e17\u0e48\u0e32\u0e01\u0e31\u0e19",
+        "url": "https://open.spotify.com/album/7kHoTkTkGab9LQeAIQgxX1"
+      },
+      "artists": [
+        {
+          "name": "PURENESSLY",
+          "url": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250763,
+      "name": "\u0e23\u0e31\u0e01 = \u0e40\u0e17\u0e48\u0e32\u0e01\u0e31\u0e19",
+      "url": "https://open.spotify.com/track/3a8idLxAvdomvYJ7xxJf3U"
+    },
+    {
+      "album": {
         "name": "\u0e23\u0e31\u0e01...\u0e15\u0e2d\u0e1a (Yes...I Do)",
         "url": "https://open.spotify.com/album/3RaEyA8at7QCZwDhFhhI1l"
       },
@@ -24414,6 +24562,24 @@
       "duration_ms": 225789,
       "name": "\u0e23\u0e39\u0e1b\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e17\u0e34\u0e49\u0e07",
       "url": "https://open.spotify.com/track/6NxfzvGM8l0yINzmQxGft4"
+    },
+    {
+      "album": {
+        "name": "V3RSE",
+        "url": "https://open.spotify.com/album/44wBVZqgA2rSKJQHWPeRl6"
+      },
+      "artists": [
+        {
+          "name": "V3RSE",
+          "url": "https://open.spotify.com/artist/13oNNQ2xOgh4Iqe8rrHhHG"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294061,
+      "name": "\u0e23\u0e39\u0e1b\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 (Photograph)",
+      "url": "https://open.spotify.com/track/4qliTBSYJPmmCCumeBha17"
     },
     {
       "album": {
@@ -26268,7 +26434,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 220202,
       "name": "\u0e2a\u0e30\u0e2d\u0e2d\u0e19\u0e22\u0e39 (Jealous of You)",
       "url": "https://open.spotify.com/track/3M0e3uQ3yJD7nNj084k0fN"
@@ -26640,7 +26806,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 241842,
       "name": "\u0e2a\u0e38\u0e02\u0e2a\u0e31\u0e19\u0e15\u0e4c\u0e27\u0e31\u0e19\u0e40\u0e01\u0e34\u0e14\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/3avhz3l1mpnEkwpTJdpquq"
@@ -27816,7 +27982,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 291764,
       "name": "\u0e2b\u0e32\u0e01\u0e27\u0e48\u0e32\u0e22\u0e31\u0e07",
       "url": "https://open.spotify.com/track/5HI2p89fGWDzoXMWYVEomR"
@@ -30082,7 +30248,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 305659,
       "name": "\u0e2d\u0e4a\u0e30\u0e40\u0e1b\u0e25\u0e48\u0e32",
       "url": "https://open.spotify.com/track/4dqOTB1UpK2813eNy7sxLy"
@@ -35041,6 +35207,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e2d\u0e32\u0e41\u0e15\u0e48\u0e43\u0e08 (Spoiled)",
+        "url": "https://open.spotify.com/album/74ZHbaNfSZEwQuQ7zpV8nG"
+      },
+      "artists": [
+        {
+          "name": "DEBEST",
+          "url": "https://open.spotify.com/artist/2cFXSl4GMmdasQSdoiSLYB"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204657,
+      "name": "\u0e40\u0e2d\u0e32\u0e41\u0e15\u0e48\u0e43\u0e08 (Spoiled)",
+      "url": "https://open.spotify.com/track/4P7VxWqhaYnqYX3IbdgmHP"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e2d\u0e32\u0e44\u0e07\u0e04\u0e23\u0e31\u0e1a? (This or That?)",
         "url": "https://open.spotify.com/album/68hYOkarmeFv7zH2Rdo8ea"
       },
@@ -35708,6 +35892,24 @@
       "duration_ms": 189695,
       "name": "\u0e41\u0e04\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e23\u0e31\u0e01\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/2xyTe6SVFkMCmfxOdFXC52"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e04\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e2d\u0e49\u0e2d\u0e19 (Hug me)",
+        "url": "https://open.spotify.com/album/6VMvz0aUCWbIssajlMFFYx"
+      },
+      "artists": [
+        {
+          "name": "Chaba_bie",
+          "url": "https://open.spotify.com/artist/0v3dK8IkpnYepjSrfEJDrN"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177333,
+      "name": "\u0e41\u0e04\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e2d\u0e49\u0e2d\u0e19 (Hug me)",
+      "url": "https://open.spotify.com/track/7D29YJCNUSSKTCRbjFFB1g"
     },
     {
       "album": {

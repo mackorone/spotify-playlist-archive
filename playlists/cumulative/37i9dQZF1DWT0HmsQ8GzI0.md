@@ -4,7 +4,7 @@
 
 > Zenék, amik félreugranak a műfaji határok elől\. Cover: L.A\. Suzi
 
-247 songs - 13 hr 41 min
+248 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [KICSIKE FÉNY](https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb) | [HIPERKARMA](https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs) | [SZÓLNI KELL](https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l) | 3:43 | 2024-09-13 |  |
 | [kicsikicsikicsi](https://open.spotify.com/track/6nZoHTewF2Emh6yWR4mmTa) | [egy5egy](https://open.spotify.com/artist/7uB1gJyQgeD9idb7h2VByx) | [hova menekülnél?](https://open.spotify.com/album/3JCkfu8ZALKKoXyo7zknzG) | 2:41 | 2025-06-16 |  |
 | [Kis Kece](https://open.spotify.com/track/62MujMMhnGOJB1gGTYbCAC) | [Дeva](https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ), [Balint Boldizsar](https://open.spotify.com/artist/5xFU79pSKrEpSiTVysdTY3) | [Avar](https://open.spotify.com/album/3IIniqQIPnxvogMPs3qLek) | 4:45 | 2025-03-07 |  |
-| [KOBUCI](https://open.spotify.com/track/0rmOeozRvll8ypFCBvcV8K) | [veryraredome](https://open.spotify.com/artist/7zYwh77AsmmjXoUr8AIHTv), [Huzugha](https://open.spotify.com/artist/6DTLsLKcEsWYBdawxfMi4y) | [KOBUCI](https://open.spotify.com/album/2MhMdMO3lzP9a4uSkiv7YS) | 2:30 | 2025-06-16 |  |
+| [KOBUCI](https://open.spotify.com/track/0rmOeozRvll8ypFCBvcV8K) | [veryraredome](https://open.spotify.com/artist/7zYwh77AsmmjXoUr8AIHTv), [Huzugha](https://open.spotify.com/artist/6DTLsLKcEsWYBdawxfMi4y) | [KOBUCI](https://open.spotify.com/album/2MhMdMO3lzP9a4uSkiv7YS) | 2:30 | 2025-06-16 | 2025-06-28 |
 | [Kontakthiba](https://open.spotify.com/track/5MWMzP0Kx3aMcZXA8J0OTH) | [laurie.](https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET) | [Kontakthiba](https://open.spotify.com/album/19y6cLO0OetFxyVBRngZjV) | 3:01 | 2025-04-18 |  |
 | [kurvanagy ???](https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc) | [girlhood](https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U) | [kurvanagy ???](https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W) | 2:31 | 2024-06-28 |  |
 | [Kutatom Az Éjben](https://open.spotify.com/track/0rIaHA1ha2fniPPAr90LgE) | [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [ADHOC](https://open.spotify.com/album/3mlkatFGua2oerf8izStLv) | 3:35 | 2024-06-28 |  |
@@ -168,6 +168,7 @@
 | [nem lehet](https://open.spotify.com/track/0ceLlvlmbnIjzgp5QLmGHI) | [Pandóra Projekt](https://open.spotify.com/artist/2tPp6Lt1bM1nzGK5jcm7B8) | [nem lehet](https://open.spotify.com/album/3jyfQDwQEb3UgvrK52VnDp) | 3:26 | 2025-03-07 | 2025-03-29 |
 | [NEM SZÁZAS](https://open.spotify.com/track/4ZuMyfeLeXbL7UZtZYWnks) | [pataki](https://open.spotify.com/artist/1zPwUeeNcDP32K0CP6jy6X) | [KÖZELEBB](https://open.spotify.com/album/52LZDwlu6yWN17QPVE7w73) | 4:08 | 2024-07-19 | 2024-08-10 |
 | [Nem volt úgy még](https://open.spotify.com/track/6HlVMdhrNsjWbWYn0erUlq) | [Blahalouisiana](https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP) | [Sötét villám](https://open.spotify.com/album/2mPqC3mjQDITg2jTkpw34T) | 3:39 | 2024-06-28 |  |
+| [Nem véletlen](https://open.spotify.com/track/0vo2uKw4TOGZiAj6RNMUQ2) | [New Level Empire](https://open.spotify.com/artist/36qy5nRn7h7rrHuphonJ6y), [Herceg](https://open.spotify.com/artist/029rFJVCRchYobJ2WlKWuE) | [Nem véletlen](https://open.spotify.com/album/70kZliz6JpiLMzwzqxwrll) | 3:09 | 2025-06-16 |  |
 | [Never Enough](https://open.spotify.com/track/47gOhOOqwID1zYzPH9C6EB) | [Puzzls](https://open.spotify.com/artist/0p4n095CPa0aR6OirCbVD9) | [Pages from the Diary of a Delusional Girl](https://open.spotify.com/album/4tt3FqrStj1iRKoHlEGVcg) | 3:22 | 2024-11-08 | 2024-12-06 |
 | [Nincs harag](https://open.spotify.com/track/3BgUVYFEG8oQdzvjdZ30UU) | [Buzás Bence](https://open.spotify.com/artist/2o2LGwOqfNC1hoC4ErptYR) | [Nincs harag](https://open.spotify.com/album/6qS2mcqWYxdJNXlDpWq1oH) | 2:57 | 2024-09-02 | 2024-09-06 |
 | [Nyállámálló](https://open.spotify.com/track/1TBrCQXd9NC5Uaki3f4wQ8) | [kisbetűs ünnepnapok](https://open.spotify.com/artist/3sZtUBmiswtOEPMBwtBEGt) | [Nyállámálló](https://open.spotify.com/album/2guegatClcHZ7ZuSw7PmdQ) | 3:56 | 2024-06-28 | 2024-07-07 |

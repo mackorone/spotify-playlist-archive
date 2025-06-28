@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Valence
 
-599 songs - 1 day 10 hr 15 min
+600 songs - 1 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Highly Unrecommended](https://open.spotify.com/track/78USgwBpKW9D6sspCu5F3D) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [Highly Unrecommended](https://open.spotify.com/album/3u2yBtsdT8ZULEZiIy1Wcx) | 3:22 | 2023-04-07 | 2024-06-08 |
 | [Hold You](https://open.spotify.com/track/4gRrOMSqIVWH3og9uuIk3l) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Hold You EP](https://open.spotify.com/album/1MMSYCvxazCIppC38xNlRt) | 4:25 | 2024-08-30 |  |
 | [Hologramme](https://open.spotify.com/track/4zvTTMzKc6ANc8gpsnrgYk) | [Visrei](https://open.spotify.com/artist/6cjATtjJUrtOGS1TQoTUuu) | [Miroirs](https://open.spotify.com/album/4NjFpaxXn6DFbpYn6KoFJX) | 3:45 | 2022-03-25 | 2023-04-01 |
+| [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 | 2025-06-27 |  |
 | [Honey](https://open.spotify.com/track/2b6X2rRfDU6CEyWHnLDeS6) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Honey](https://open.spotify.com/album/0IGnonvuiQjPSlGKYcYgmk) | 2:51 | 2022-03-25 | 2022-04-02 |
 | [Hoodie du Che](https://open.spotify.com/track/1danqk02o34nZrUadi6Dw8) | [Adib Alkhalidey](https://open.spotify.com/artist/1EwYqZHaDtS8o7lHNI172L) | [Hoodie du Che](https://open.spotify.com/album/52Y2nzPohbPOpbbMSW9q6n) | 3:40 | 2025-06-13 |  |
 | [Hush Baby](https://open.spotify.com/track/4Xh6kOAE7kLReNyQ6dhox2) | [Sorry Girls](https://open.spotify.com/artist/5tMARXM4XOsODrCmJ0zI2M) | [Hush Baby](https://open.spotify.com/album/4hrEkOenp0Psy2zFXRn7Zc) | 2:53 | 2025-05-23 |  |
@@ -505,7 +506,7 @@
 | [Si tu comprends pas maintenant \(tu comprendras peut\-être jamais\)](https://open.spotify.com/track/3LjbMSSkzPjUTHh1iIBTb3) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Si tu comprends pas maintenant \(tu comprendras peut\-être jamais\)](https://open.spotify.com/album/5wqwkqiaU3okFpDYMrhuUQ) | 2:44 | 2023-01-27 | 2023-07-16 |
 | [Silencio](https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Silencio](https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg) | 4:21 | 2024-10-18 | 2025-03-08 |
 | [Sirens feat\. KALLITECHNIS](https://open.spotify.com/track/1bFgz7ALuVIYDx7cjX9mPH) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [Dapapa](https://open.spotify.com/artist/4MsFhnzGHZUXzNp5ymRZny) | [BEAUTIFUL PRESENTS: BEAUTIFUL VOL 1](https://open.spotify.com/album/7vxquNykZOqoSU3MR7UJ0G) | 2:51 | 2022-03-25 | 2022-06-11 |
-| [Snowpath](https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Snowpath](https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT) | 2:13 | 2024-10-04 |  |
+| [Snowpath](https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Snowpath](https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT) | 2:13 | 2024-10-04 | 2025-06-28 |
 | [SO DIFFERENT NOW](https://open.spotify.com/track/7vVsFIYEfHRZbBsVs1XGe4) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [SO DIFFERENT NOW](https://open.spotify.com/album/6OpPZcTKTFomxZbych3lE9) | 2:33 | 2024-10-04 | 2024-10-26 |
 | [SOFT LIFE](https://open.spotify.com/track/4fp0ypnQqHSKndK2ACcN8T) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [SOFT LIFE](https://open.spotify.com/album/0oFPB3Lo4u1nPs7jGJZQnH) | 3:25 | 2023-10-27 | 2025-04-26 |
 | [Soleil cendre](https://open.spotify.com/track/2m5p3PHZfiFLWEaeSO8Byw) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z), [David Numwami](https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel) | [Soleil cendre](https://open.spotify.com/album/4v5b5MhX9GAaBXZjFYM65s) | 2:43 | 2022-03-25 | 2022-10-01 |

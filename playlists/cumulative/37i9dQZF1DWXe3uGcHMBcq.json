@@ -2725,6 +2725,28 @@
     },
     {
       "album": {
+        "name": "Electric Bloom",
+        "url": "https://open.spotify.com/album/5ucNoJ24aPEHBIYaet31SE"
+      },
+      "artists": [
+        {
+          "name": "Electric Bloom",
+          "url": "https://open.spotify.com/artist/217c2c3FKAB33k8kBgGNnz"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166562,
+      "name": "One Little Spark",
+      "url": "https://open.spotify.com/track/7uvOC3WmxFWl48NRFgmzDB"
+    },
+    {
+      "album": {
         "name": "Hannah Montana Forever",
         "url": "https://open.spotify.com/album/6FUFS9PRGUTyVrsltg1xji"
       },
@@ -4586,6 +4608,48 @@
       "duration_ms": 225381,
       "name": "Wondering",
       "url": "https://open.spotify.com/track/6vGnPFWExk8QXcRmxaoX3e"
+    },
+    {
+      "album": {
+        "name": "Worlds Collide (From \"Disney Descendants/ZOMBIES: Worlds Collide Tour\")",
+        "url": "https://open.spotify.com/album/4Sjfn6Mkpdw1SOEKSB7Itr"
+      },
+      "artists": [
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        },
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        },
+        {
+          "name": "Malia Baker",
+          "url": "https://open.spotify.com/artist/4ALl3aeHX63UVQheaHFdPq"
+        },
+        {
+          "name": "Malachi Barton",
+          "url": "https://open.spotify.com/artist/3fknxSm9gKHsiN2C6lcRme"
+        },
+        {
+          "name": "Joshua Colley",
+          "url": "https://open.spotify.com/artist/4PDGt9weHkPqUdaBqrGzOD"
+        },
+        {
+          "name": "Mekonnen Knife",
+          "url": "https://open.spotify.com/artist/69y5psIxwqMrSRyQRShsBG"
+        },
+        {
+          "name": "Dara Rene\u00e9",
+          "url": "https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193187,
+      "name": "Worlds Collide - From \"Disney Descendants/ZOMBIES: Worlds Collide Tour\"",
+      "url": "https://open.spotify.com/track/4RcGxhH6ZSLFMtUny7tcPu"
     },
     {
       "album": {

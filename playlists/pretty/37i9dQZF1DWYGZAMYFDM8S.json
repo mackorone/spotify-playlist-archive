@@ -1,6 +1,6 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 2253223,
+  "num_followers": 2252570,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 230813,
-      "name": "Featherweight",
-      "url": "https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 304226,
       "name": "Emmylou - Spotify Sessions",
       "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 230813,
+      "name": "Featherweight",
+      "url": "https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "The Ash & Clay",
-        "url": "https://open.spotify.com/album/151a4bghgq5jgbaZt96p71"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 244520,
-      "name": "Whisper In Her Ear",
-      "url": "https://open.spotify.com/track/5YuHMfznSrE6qsKGQzcAnO"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Better Now (Acoustic)",
         "url": "https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 234551,
       "name": "Better Now - Acoustic",
       "url": "https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "The Ash & Clay",
+        "url": "https://open.spotify.com/album/151a4bghgq5jgbaZt96p71"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 244520,
+      "name": "Whisper In Her Ear",
+      "url": "https://open.spotify.com/track/5YuHMfznSrE6qsKGQzcAnO"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Cold Feet",
-        "url": "https://open.spotify.com/album/0l1Hm8MBege3nX4dAMypB8"
-      },
-      "artists": [
-        {
-          "name": "Callinsick",
-          "url": "https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Cold Feet",
-      "url": "https://open.spotify.com/track/2wVd7pvX8gbYTVOOL4eKjJ"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Bashed Out",
         "url": "https://open.spotify.com/album/7DbfCArRXJvf4cgKWPUHIv"
       },
@@ -1703,18 +1687,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Asphalt Meadows (Acoustic)",
-        "url": "https://open.spotify.com/album/6hRYTGSMlOgLU4KxcHFMJK"
+        "name": "Cold Feet",
+        "url": "https://open.spotify.com/album/0l1Hm8MBege3nX4dAMypB8"
       },
       "artists": [
         {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+          "name": "Callinsick",
+          "url": "https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb"
         }
       ],
-      "duration_ms": 167022,
-      "name": "I Miss Strangers - Acoustic",
-      "url": "https://open.spotify.com/track/53LueuvPEMgEZLzVfssBwJ"
+      "duration_ms": 200173,
+      "name": "Cold Feet",
+      "url": "https://open.spotify.com/track/2wVd7pvX8gbYTVOOL4eKjJ"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1731,6 +1715,22 @@
       "duration_ms": 227152,
       "name": "Tugboats",
       "url": "https://open.spotify.com/track/0o7UJe1SQW8kAPNSGU6FVY"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Asphalt Meadows (Acoustic)",
+        "url": "https://open.spotify.com/album/6hRYTGSMlOgLU4KxcHFMJK"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 167022,
+      "name": "I Miss Strangers - Acoustic",
+      "url": "https://open.spotify.com/track/53LueuvPEMgEZLzVfssBwJ"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 214564,
-      "name": "Green Lights - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Cherie",
         "url": "https://open.spotify.com/album/4Au5ndqAZDgpPJZUIWBslg"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 205536,
       "name": "Cherie",
       "url": "https://open.spotify.com/track/6vhrwbHQjl4klPXlPLnar4"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 214564,
+      "name": "Green Lights - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2071,18 +2071,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec"
+        "name": "Tree",
+        "url": "https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA"
       },
       "artists": [
         {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+          "name": "Anna Elizabeth Laube",
+          "url": "https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx"
         }
       ],
-      "duration_ms": 218740,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo"
+      "duration_ms": 257173,
+      "name": "All My Runnin'",
+      "url": "https://open.spotify.com/track/1NqUxePjDzASB1UbSo8sNh"
     }
   ],
   "unique_name": "Acoustic Chill",

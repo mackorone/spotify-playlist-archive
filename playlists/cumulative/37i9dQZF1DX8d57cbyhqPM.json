@@ -491,6 +491,28 @@
     },
     {
       "album": {
+        "name": "Angelina",
+        "url": "https://open.spotify.com/album/1ha61ztjmbs79MW2N3SL9N"
+      },
+      "artists": [
+        {
+          "name": "Bizzy",
+          "url": "https://open.spotify.com/artist/3tsgXW0J2AhnaKh9hTnT3W"
+        },
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159820,
+      "name": "Angelina",
+      "url": "https://open.spotify.com/track/1a7M8ofa0HFVycZDH8j1sJ"
+    },
+    {
+      "album": {
         "name": "Animation FR",
         "url": "https://open.spotify.com/album/6jgXMoDr51yRbmfZJWKKHa"
       },
@@ -3652,7 +3674,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 183939,
       "name": "Et si\u2026",
       "url": "https://open.spotify.com/track/4AZdDYLJZzucv5k1rsa8AG"
@@ -3736,7 +3758,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 168215,
       "name": "Falanga",
       "url": "https://open.spotify.com/track/0AWybPxbLUozPwkGxsj5c4"
@@ -4338,7 +4360,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 170693,
       "name": "Gimme That",
       "url": "https://open.spotify.com/track/22bO55lzLemrfNZFQmFE3q"
@@ -5275,6 +5297,24 @@
     },
     {
       "album": {
+        "name": "BON QU'\u00c0 \u00c7A",
+        "url": "https://open.spotify.com/album/6jJfAAK3H4jvjGGtzv3Axv"
+      },
+      "artists": [
+        {
+          "name": "BOLEMVN",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120902,
+      "name": "KATCHU-KATA",
+      "url": "https://open.spotify.com/track/1BAG8uKdKs1L8KOXkf60vN"
+    },
+    {
+      "album": {
         "name": "Katuka (Chily & BackRoad Gee Remix)",
         "url": "https://open.spotify.com/album/60wdpvEVT3zVAFANnkl3Ga"
       },
@@ -5565,6 +5605,28 @@
     },
     {
       "album": {
+        "name": "LA JEUNESSE DOR\u00c9E (feat. Killa Predator)",
+        "url": "https://open.spotify.com/album/6LIQ4eZMzaRcMTCBoLYPXy"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        },
+        {
+          "name": "Killa Predator",
+          "url": "https://open.spotify.com/artist/2jxihp917o7WCCEN3xZXww"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139022,
+      "name": "LA JEUNESSE DOR\u00c9E (feat. Killa Predator)",
+      "url": "https://open.spotify.com/track/4XjlNoFMggD2LK9WkCjkII"
+    },
+    {
+      "album": {
         "name": "Fr\u00e8res Ennemis",
         "url": "https://open.spotify.com/album/2BBiqL9LvtK9Dk9aYBEsGC"
       },
@@ -5602,6 +5664,24 @@
       "duration_ms": 109090,
       "name": "LA MELO EST DANS LA BOUNCE",
       "url": "https://open.spotify.com/track/6gwT3UA1hjbwT9Pfg0CMXK"
+    },
+    {
+      "album": {
+        "name": "La vie des gens",
+        "url": "https://open.spotify.com/album/2Pvtyteh6Phny6SIRJrwoa"
+      },
+      "artists": [
+        {
+          "name": "Paterne Maestro",
+          "url": "https://open.spotify.com/artist/77I75BZlpcoggeiSxUUp7r"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186950,
+      "name": "La vie des gens",
+      "url": "https://open.spotify.com/track/3EcrfT5XuWsmoVMPXJZmhQ"
     },
     {
       "album": {
@@ -8666,7 +8746,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 144022,
       "name": "On va",
       "url": "https://open.spotify.com/track/4rnXUIUfYWCvjPZczSL0a9"
@@ -11092,7 +11172,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 145512,
       "name": "Tout donner",
       "url": "https://open.spotify.com/track/3Xta6s5k5IwdTfjLwYMa7O"

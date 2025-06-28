@@ -8,6 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(3 Is\) The Magic Number](https://open.spotify.com/track/4hB8J06D2ZaGkWZDOMpYZB) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [3 Feet High and Rising](https://open.spotify.com/album/34LxHI9x14qXUOS8AWRrYD) | 3:15 | 2023-06-07 |  |
 | [AAA Powerline](https://open.spotify.com/track/3RjB6goQY4QV7wRNPY9FoE) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [E](https://open.spotify.com/album/443fOM9A1XN8A0HImpYKVT) | 4:12 | 2023-06-07 |  |
 | [Ballo\-Balla](https://open.spotify.com/track/2Ogr3hXsjLUhniT2n0WRNy) | [Roland P\. Young](https://open.spotify.com/artist/47AdLKtk98Yxeod6noeZKt) | [Hearsay I\-Land](https://open.spotify.com/album/45RR9KD5zfHM2ncE4Pukv2) | 5:42 | 2023-06-07 |  |
 | [Bite Our Style \(Interlude\)](https://open.spotify.com/track/6y1HxKKNY5iNqie88XiWl4) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 0:43 | 2023-06-07 |  |
@@ -34,7 +35,6 @@
 | [RISE! \(feat\. DAISY WORLD\)](https://open.spotify.com/track/2wQUUYQ4KOeLLuPS5nBBDK) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [DAISY WORLD](https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:23 | 2023-06-07 |  |
 | [She Lives in My Lap \(feat\. Rosario Dawson\)](https://open.spotify.com/track/6vV1NDCjh2afFgQ9Vb7i86) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Rosario Dawson](https://open.spotify.com/artist/5gGhRZgP9BJL9fsFdvTzeX) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 4:27 | 2023-06-07 |  |
 | [Softly](https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:05 | 2023-06-07 |  |
-| [The Magic Number](https://open.spotify.com/track/4hB8J06D2ZaGkWZDOMpYZB) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [3 Feet High and Rising](https://open.spotify.com/album/34LxHI9x14qXUOS8AWRrYD) | 3:15 | 2023-06-07 |  |
 | [The Number 4](https://open.spotify.com/track/0Jx3En8dPUt53P1gXyaOLZ) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Infamous Bill](https://open.spotify.com/album/5hEpJAnE6SPm4CDnjGt3OL) | 3:41 | 2023-06-07 |  |
 
 \*This playlist was first scraped on 2023-06-09. Prior content cannot be recovered.

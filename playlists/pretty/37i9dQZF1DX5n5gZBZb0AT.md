@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,203 likes - 40 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,436 likes - 40 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 33 | [Mortals Funk Remix](https://open.spotify.com/track/13vMIbppyQ6TKHeXQr9IVG) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr) | [Mortals Funk Remix](https://open.spotify.com/album/6Z5Wly0XcK7vMicO2QwsS6) | 2:26 |
 | 34 | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF) | [6YNTHMANE](https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5), [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz) | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG) | 1:58 |
 | 35 | [GHOST!](https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GHOST!](https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3) | 3:51 |
-| 36 | [z\-beta 2 \- Super Slowed](https://open.spotify.com/track/5WMrHMfkarliApsXvwUTrh) | [qaraqshy](https://open.spotify.com/artist/32Pxa55IN0QAmFtzWcT2w9), [MC LONE](https://open.spotify.com/artist/1nzIoHG5B7klgAPdwjqRDj) | [z\-beta 2](https://open.spotify.com/album/6dRJ8zaG9oTGrwpfu0Itld) | 1:34 |
-| 37 | [Live Another Day](https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Phonkageddon](https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg) | 2:13 |
+| 36 | [Live Another Day](https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Phonkageddon](https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg) | 2:13 |
+| 37 | [z\-beta 2 \- Super Slowed](https://open.spotify.com/track/5WMrHMfkarliApsXvwUTrh) | [qaraqshy](https://open.spotify.com/artist/32Pxa55IN0QAmFtzWcT2w9), [MC LONE](https://open.spotify.com/artist/1nzIoHG5B7klgAPdwjqRDj) | [z\-beta 2](https://open.spotify.com/album/6dRJ8zaG9oTGrwpfu0Itld) | 1:34 |
 | 38 | [AUTOMOTIVO EMPURRA](https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6) | [sma$her](https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx) | [AUTOMOTIVO EMPURRA](https://open.spotify.com/album/2nwhU1YBl1CCMUQeKrh2lr) | 1:12 |
-| 39 | [COM MEDO!](https://open.spotify.com/track/7wrjh1jGLkV99AhcgnGRjE) | [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB), [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX) | [COM MEDO!](https://open.spotify.com/album/6JekYwYFalK1oXttdZ9kGk) | 1:09 |
-| 40 | [HUMBLE\. \- SKRILLEX REMIX](https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [HUMBLE\. \(SKRILLEX REMIX\)](https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V) | 2:36 |
+| 39 | [HUMBLE\. \- SKRILLEX REMIX](https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [HUMBLE\. \(SKRILLEX REMIX\)](https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V) | 2:36 |
+| 40 | [CORRUPÇÃO FUNK](https://open.spotify.com/track/1t1Ko5fJw2Pbd7C65nUKbO) | [zxnc.](https://open.spotify.com/artist/0z9ZCh4EXDX3iXuw7QGiLp), [DARKANASE](https://open.spotify.com/artist/3FUCRB0hJhe9BrXW1yonDh), [NTPV](https://open.spotify.com/artist/4ln235vY1WKuyeLoGJSdwZ) | [CORRUPÇÃO FUNK](https://open.spotify.com/album/1Pp1ulBgbbDiKTr2LgPiZa) | 2:14 |
 
 Snapshot ID: `aDYMWwAAAADl/ZHpRfsmIxtYN3cXqZ9M`

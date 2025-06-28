@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 | 29 | [Smile Like You Mean It](https://open.spotify.com/track/3KANrKOFYyAxfjQJHkgBdb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:54 |
 | 30 | [Fool for Your Loving \- 2011 Remaster](https://open.spotify.com/track/1OwcckpLpQLDrAkBKYLEAX) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Ready an' Willing \(2013 Remaster\)](https://open.spotify.com/album/5lruk7x8hyzy71xskWsrmp) | 4:19 |
 
-Snapshot ID: `aFjRQAAAAAAOpaKeJsruikkkDPc2VNjS`
+Snapshot ID: `aFjRQAAAAABQv+pEZAyU//11WIhoQvTQ`

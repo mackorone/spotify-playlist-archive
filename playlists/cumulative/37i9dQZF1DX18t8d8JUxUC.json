@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "This is what folk sounds like en espa\u00f1ol. Cover: Gonza Silva",
+  "description": "This is what folk sounds like en espa\u00f1ol. Cover: Silvana Estrada",
   "name": "Latin Folk",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 180103,
       "name": "Ahi Estar\u00e9",
       "url": "https://open.spotify.com/track/2aEDaXZ9YCUxXyYVkCJGp0"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 298226,
       "name": "b\u00fascame otra vez",
       "url": "https://open.spotify.com/track/1S0yKut4XZD1ai8TefQemv"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 219807,
       "name": "Casa en el \u00e1rbol",
       "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
@@ -602,7 +602,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-26",
+      "date_removed": null,
       "duration_ms": 209326,
       "name": "Dicen Que Llora",
       "url": "https://open.spotify.com/track/4ZIwUpohs7PVmyVJDWPprt"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 217692,
       "name": "El R\u00edo",
       "url": "https://open.spotify.com/track/5IulrtbklYxOCrDEtJPtNz"
@@ -964,7 +964,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 231878,
       "name": "Extra\u00f1os",
       "url": "https://open.spotify.com/track/205CEw5i9TT3SFpVChCaNq"
@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-01",
+      "date_removed": null,
       "duration_ms": 140286,
       "name": "Ganas de Dejarte",
       "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
@@ -1481,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "Lila Alel\u00ed",
+        "url": "https://open.spotify.com/album/2if5JlMd0QhkF93PKGashv"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205767,
+      "name": "Lila Alel\u00ed",
+      "url": "https://open.spotify.com/track/1pv8kjnd68qQt0dM22reqP"
+    },
+    {
+      "album": {
         "name": "Los Chicos Tristes (El Michels Affair Remix)",
         "url": "https://open.spotify.com/album/3S7HTJw7AgnqpP5b9TeLkW"
       },
@@ -1830,7 +1848,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 230760,
       "name": "mis compas tan aqu\u00ed",
       "url": "https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X"
@@ -2718,7 +2736,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 236301,
       "name": "Te Lo Debo Contar",
       "url": "https://open.spotify.com/track/3qF89WKp5gQSabVlH1gpXj"

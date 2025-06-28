@@ -7941,6 +7941,24 @@
     },
     {
       "album": {
+        "name": "FWU",
+        "url": "https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "FWU",
+      "url": "https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT"
+    },
+    {
+      "album": {
         "name": "Game Recognize Game",
         "url": "https://open.spotify.com/album/3GUqTuQPg2KhNn3QPyfIMQ"
       },
@@ -15289,7 +15307,7 @@
     },
     {
       "album": {
-        "name": "Need This Love (feat. Moon Sujin, BLAS\u00c9, WILD)",
+        "name": "Need This Love (feat. Moon Sujin & BLAS\u00c9)",
         "url": "https://open.spotify.com/album/64odF0JpaMMQWk9joXICeQ"
       },
       "artists": [
@@ -15314,7 +15332,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 159026,
-      "name": "Need This Love (feat. Moon Sujin, BLAS\u00c9, WILD)",
+      "name": "Need This Love (feat. Moon Sujin & BLAS\u00c9)",
       "url": "https://open.spotify.com/track/6dPg93Lk861bhqGQ9ADqWJ"
     },
     {

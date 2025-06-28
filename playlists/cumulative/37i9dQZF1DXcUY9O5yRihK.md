@@ -2,9 +2,9 @@
 
 ### [bossa pop](https://open.spotify.com/playlist/37i9dQZF1DXcUY9O5yRihK)
 
-> Bossa nova vibes for the hopeless romantic daydreamers\. Cover: aron!
+> Bossa nova vibes for the hopeless romantic daydreamers\. Cover: Laufey
 
-167 songs - 8 hr 27 min
+168 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Eventually](https://open.spotify.com/track/5nyxvBwlaBpXYLFD8rUQ9n) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [Eventually](https://open.spotify.com/album/217C8pxwn8vx8wbOwZpR7v) | 2:59 | 2024-04-26 | 2025-02-15 |
 | [Everybody Loves Somebody](https://open.spotify.com/track/5I9sHwLDX28tLtzVgKLtpr) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Everybody Loves Somebody](https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q) | 2:44 | 2023-07-28 | 2025-01-11 |
 | [Fall in Love with You.](https://open.spotify.com/track/2JAiwcWRLIRI4uiroJ86U7) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Fall in Love with You.](https://open.spotify.com/album/3KceyThuQEyMcqKIXchsSe) | 2:12 | 2023-07-28 |  |
-| [Falling Behind](https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:53 | 2023-01-06 |  |
+| [Falling Behind](https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:53 | 2023-01-06 | 2025-06-28 |
 | [Falling for U](https://open.spotify.com/track/0sHFw13WH3LtSB3yP8UMYJ) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Falling for U](https://open.spotify.com/album/1XcWosLrZX4QBLJCkVR3dm) | 2:04 | 2024-04-12 | 2025-05-10 |
 | [Falling for U](https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Falling for U](https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb) | 2:04 | 2023-01-06 | 2024-04-19 |
 | [Find My Boy](https://open.spotify.com/track/2rmf4QaSE174hUEObAxLpw) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:12 | 2023-01-06 | 2024-06-29 |
@@ -95,6 +95,7 @@
 | [Love Is](https://open.spotify.com/track/6CbPF34njo6PpWYTFQrMZN) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is](https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB) | 2:35 | 2024-02-02 |  |
 | [love of my life](https://open.spotify.com/track/2ooHvit2WOf9PmptyEWfY4) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [love letters to u \(EP\)](https://open.spotify.com/album/4F1W1gMngOB4UhVF0ykpox) | 2:37 | 2023-11-10 | 2024-02-17 |
 | [Lover \(take me to the moon\) \- demo](https://open.spotify.com/track/70gFbSkpt8Yj4DhToyXzpG) | [Madylin Gilbert](https://open.spotify.com/artist/4Ul5nI6dNwODUPY8lufzk2) | [Lover \(take me to the moon\) \- demo](https://open.spotify.com/album/55uW1iNFxaYXYq3dIw8Blx) | 2:01 | 2023-08-04 | 2024-12-07 |
+| [Lover Girl](https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg) | 2:44 | 2025-06-27 |  |
 | [Lovesick](https://open.spotify.com/track/2yDWhOjZhKZ0XqPXyjNQhx) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 4:13 | 2023-01-06 | 2024-06-29 |
 | [Luna mar](https://open.spotify.com/track/6NQHukyi4qcPuC3ZfCVyLu) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Luna mar](https://open.spotify.com/album/3NtPpmzBw3Pfjn6ng3XuAa) | 3:15 | 2024-07-05 |  |
 | [Lungs](https://open.spotify.com/track/7BxzMUwuPM09XnP1wTm2z8) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA), [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV) | [Lungs](https://open.spotify.com/album/0azrQYwwoEliseBAUlBT88) | 2:40 | 2023-01-20 | 2024-02-10 |

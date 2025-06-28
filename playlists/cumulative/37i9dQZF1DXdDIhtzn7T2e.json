@@ -551,6 +551,24 @@
     },
     {
       "album": {
+        "name": "Rhinestoned",
+        "url": "https://open.spotify.com/album/5XEFMMgAByAZq8rYn6hE6t"
+      },
+      "artists": [
+        {
+          "name": "Maggie Antone",
+          "url": "https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256881,
+      "name": "High Standards",
+      "url": "https://open.spotify.com/track/66A7J1dZ2mKWXB6EODRZaH"
+    },
+    {
+      "album": {
         "name": "Pageant Material",
         "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
       },

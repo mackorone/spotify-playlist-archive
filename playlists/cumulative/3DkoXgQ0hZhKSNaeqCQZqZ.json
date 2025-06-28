@@ -561,6 +561,28 @@
     },
     {
       "album": {
+        "name": "better start",
+        "url": "https://open.spotify.com/album/1oJ8AewB8GXp2tsWobDWQg"
+      },
+      "artists": [
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        },
+        {
+          "name": "chattybaxi",
+          "url": "https://open.spotify.com/artist/5bpBEpapbvKC10RUCJWESj"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109649,
+      "name": "better start",
+      "url": "https://open.spotify.com/track/7xrtCfV4DSNoznwpxT3QrX"
+    },
+    {
+      "album": {
         "name": "Big Balls",
         "url": "https://open.spotify.com/album/0cmu1siHEV3cLivD7qw0iV"
       },
@@ -5956,7 +5978,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 227491,
       "name": "Suit Up",
       "url": "https://open.spotify.com/track/6kPDlvZumydH3olPfOEQ0s"

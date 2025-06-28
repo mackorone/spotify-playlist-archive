@@ -2,7 +2,7 @@
 
 ### [Street Culto](https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x)
 
-> Don Joe, Young Hash e Melons in cover della playlist con il top dello street rap italiano 🐐
+> Don Joe, Young Hash e Melons in cover della playlist con il top dello street rap italiano ⛓️
 
 823 songs - 1 day 13 hr 48 min
 

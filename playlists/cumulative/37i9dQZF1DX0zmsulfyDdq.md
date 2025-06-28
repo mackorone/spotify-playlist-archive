@@ -4,7 +4,7 @@
 
 > For parents and kids of all ages, add some Disney Magic to bedtime routines with soothing and relaxing renditions of timeless Disney music from Frozen, Winnie the Pooh and more.
 
-236 songs - 12 hr 6 min
+237 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Grim Grinning Ghosts](https://open.spotify.com/track/1OsxTNbKvrdaXjmoGmltiP) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX) | [Disney Guitar: Grim Grinning Ghosts](https://open.spotify.com/album/054i6SZs6LCR7hn8iVKJ0s) | 2:59 | 2024-10-04 |  |
 | [Hakuna Matata](https://open.spotify.com/track/5l5rUCU2QAA1sXTuNPlMHZ) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi Minnie: Focus](https://open.spotify.com/album/37LBLwOpwruXguw0QclQzN) | 2:48 | 2022-04-15 |  |
 | [Happy Working Song](https://open.spotify.com/track/1v4uRGAMORpaj7E8Fc4V6z) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN) | [Disney Peaceful Piano: Relax](https://open.spotify.com/album/7FNfj52JTCxxGbaX2c2ky2) | 2:34 | 2023-08-25 |  |
+| [Hawaiian Roller Coaster Ride](https://open.spotify.com/track/4PVbQBDGoaSjjq88ai5Crw) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Summer Songs](https://open.spotify.com/album/5iLT78O1EodaJ4nAeltiZy) | 2:53 | 2025-06-27 |  |
 | [Hawaiian Roller Coaster Ride](https://open.spotify.com/track/1RDQoUE3pE44TOKKKP8FQC) | [Disney Ukulele](https://open.spotify.com/artist/2L8azGZexr4bN58bhEB7wm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Ukulele: Happy](https://open.spotify.com/album/0bcbleewCHnbRNDfBls4UI) | 2:13 | 2022-04-22 |  |
 | [Hawaiian Roller Coaster Ride \- Orgel Version](https://open.spotify.com/track/6yfrjt5pxSJtOUiubztVKN) | [Disney Orgel](https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8) | [Disney Orgel/Oyasumi BGM Vol.3](https://open.spotify.com/album/2ykhS20xYBuHUk7O1HPt3A) | 4:45 | 2025-06-10 |  |
 | [He's A Pirate](https://open.spotify.com/track/6dAOMe5B3sXilEsSF4BvzA) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:56 | 2022-04-15 |  |

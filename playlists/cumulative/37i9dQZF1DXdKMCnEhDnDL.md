@@ -2,7 +2,7 @@
 
 ### [Beste van NL](https://open.spotify.com/playlist/37i9dQZF1DXdKMCnEhDnDL)
 
-> De beste Nederlandse liedjes\. Cover: Tino Martin
+> De beste Nederlandse liedjes\. Cover: Kris Kross Amsterdam, André Hazes & Tabitha
 
 386 songs - 19 hr 47 min
 

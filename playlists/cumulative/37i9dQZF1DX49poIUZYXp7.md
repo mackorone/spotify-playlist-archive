@@ -4,7 +4,7 @@
 
 > The extraordinary women making great country music today\. Cover: Tanner Adell
 
-399 songs - 21 hr 43 min
+400 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Trippin'](https://open.spotify.com/track/7hEVupgH8dwFemNPxTXscc) | [Amy Nelson](https://open.spotify.com/artist/1DN2RGLfpo8AxGwLw7Jw2w) | [Trippin'](https://open.spotify.com/album/4HEPilU7MKEtHoAzSFCT6R) | 3:23 | 2022-03-25 | 2022-04-18 |
 | [truck on fire](https://open.spotify.com/track/6KYBVkFGf21hPd01gVkJ5T) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [hummingbird](https://open.spotify.com/album/5XmOFWhZEZBR6VlQvs6dfR) | 3:08 | 2024-12-20 |  |
 | [Turn Up the Night](https://open.spotify.com/track/5OZQEBXuSyDndyhLSmfsO4) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Turn Up the Night](https://open.spotify.com/album/4567kBWJTp2BWkwczE46fy) | 3:18 | 2022-03-25 | 2022-04-18 |
+| [Unbecoming](https://open.spotify.com/track/4i8qtmA24GECXY98t8reqM) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Unbecoming](https://open.spotify.com/album/3O17GWIWMvwHsAlXtJyWG0) | 2:48 | 2025-06-27 |  |
 | [Us](https://open.spotify.com/track/4iQL5pIhMjKAS6feGjaw5t) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Us](https://open.spotify.com/album/1XixtqL2k7mcV8slS7FpAb) | 3:03 | 2021-12-01 | 2023-03-26 |
 | [vanilla](https://open.spotify.com/track/6hQteEYBl1FClREHecCyFc) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Breakup Over Breakfast](https://open.spotify.com/album/5lm3yZ7Ex7VES1rrAFjR5S) | 2:38 | 2025-01-10 | 2025-05-31 |
 | [Villain](https://open.spotify.com/track/0Fu3jq4NeOLatOXiLWVLO3) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Stronger Than I Am](https://open.spotify.com/album/1nBPIUJHyWiD0bvhQ8lGIg) | 2:56 | 2022-07-22 | 2024-04-19 |

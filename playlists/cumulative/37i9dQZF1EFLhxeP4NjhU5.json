@@ -193,6 +193,28 @@
     },
     {
       "album": {
+        "name": "Amantes de una Noche",
+        "url": "https://open.spotify.com/album/3tQhQij6o7C8IG7XUwzXOa"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225520,
+      "name": "Amantes de una Noche",
+      "url": "https://open.spotify.com/track/3BccBzVmd2t5xxktYhzYjR"
+    },
+    {
+      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -270,7 +292,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 226378,
       "name": "As\u00ed Soy Yo",
       "url": "https://open.spotify.com/track/6NfC2FKfsfzuLIF4lThw0A"
@@ -640,7 +662,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-23",
+      "date_removed": null,
       "duration_ms": 204831,
       "name": "Beb\u00e9",
       "url": "https://open.spotify.com/track/0XLmQ64LLRpUzsPjGVytZP"
@@ -706,7 +728,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 237020,
       "name": "Beb\u00e9 - (Remix)",
       "url": "https://open.spotify.com/track/28exYdxUzI15oxOeKYjDeD"
@@ -1232,7 +1254,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 226520,
       "name": "Dile Que Tu Me Quieres",
       "url": "https://open.spotify.com/track/5u5MvmVtitax9R1Mxh3reC"
@@ -2172,7 +2194,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 211480,
       "name": "La Nena del Caserio",
       "url": "https://open.spotify.com/track/5mtYDcXw5rxG5aEw6OEIrM"
@@ -2292,7 +2314,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 213041,
       "name": "Llamala",
       "url": "https://open.spotify.com/track/44G6OdODr1oVbzwZChGdV7"
@@ -3302,7 +3324,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-23",
+      "date_removed": null,
       "duration_ms": 236973,
       "name": "Pide Lo Que T\u00fa Quieras",
       "url": "https://open.spotify.com/track/7IteHlPcwD5mzvkXZmimLI"
@@ -4802,7 +4824,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 191526,
       "name": "YO VISTO AS\u00cd",
       "url": "https://open.spotify.com/track/5fROvzNghPid8mbKNDYvpJ"

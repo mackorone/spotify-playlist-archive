@@ -4,7 +4,7 @@
 
 > From the alternative scene in Ghana\. Cover: Anabel Rose
 
-205 songs - 10 hr 9 min
+206 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,11 +61,12 @@
 | [Everyday People](https://open.spotify.com/track/5yPU55tsZtLrMHdLrNQ7c1) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU), [Worlasi](https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9) | [Everyday People](https://open.spotify.com/album/1j6CF3Pq0Vuobo1rRYgpyH) | 3:37 | 2024-07-19 |  |
 | [Fallin For U](https://open.spotify.com/track/4CcEhit7ABrZaIzLSnuSmS) | [Her Revenge](https://open.spotify.com/artist/5SrjPqmZawRld9MZNRpmvC) | [Fallin For U](https://open.spotify.com/album/0pw52kEiu0azBzhd7CdpB5) | 2:05 | 2024-08-09 | 2024-10-19 |
 | [FALLING IN LOVE](https://open.spotify.com/track/5MgS2ItskwZYqXjREi74n4) | [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0) | [FALLING IN LOVE / NO PLANS](https://open.spotify.com/album/10ywfC7R74WT1uZmZCZWpu) | 3:11 | 2024-09-13 | 2024-11-08 |
+| [Faya](https://open.spotify.com/track/6bS5s8LrmKI5ZV7RxyFmlm) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Faya](https://open.spotify.com/album/43ohjP5OkrsrlmewjaDkqk) | 3:56 | 2025-06-27 |  |
 | [FEELINGS](https://open.spotify.com/track/1ksmsfxb4XCOKD0JdYaznz) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Nobody Badder](https://open.spotify.com/album/1noSivqDiu16wO4i99I9u0) | 2:40 | 2024-10-18 |  |
 | [Feels Like Magic](https://open.spotify.com/track/6hE9eQNiZDdbHpaxPcSqjD) | [ginius](https://open.spotify.com/artist/1mLnlcLJuK1VpACCwhuciw) | [Her Notions Since '97](https://open.spotify.com/album/6O0LMIl1QM7YBe4UP9Ofyw) | 2:54 | 2024-05-10 |  |
 | [Fire Everywhere](https://open.spotify.com/track/4BGv3EsfJL6wLbQ56BaY5X) | [NATAB](https://open.spotify.com/artist/5sk7DMYabyF7C12HgIG5QF) | [There's A Fire On The Mountain](https://open.spotify.com/album/7AHm7GvOwa5PY8Q22tMuHl) | 4:59 | 2024-10-04 | 2025-03-29 |
 | [Flex](https://open.spotify.com/track/45m2Q8cga0lcjRyS2cLwe5) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL), [Insvne Auggie](https://open.spotify.com/artist/2dNjqvomsDbN1XCYM6wlod) | [Flex](https://open.spotify.com/album/4aQ8zK4K5FGQUHUOM4bwwc) | 2:46 | 2024-05-17 | 2024-07-19 |
-| [Flowers](https://open.spotify.com/track/3ilP9ixF3L5wM9dJWTaSid) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [Flowers](https://open.spotify.com/album/2wHdzPoNzGCKToVOwfpVIM) | 2:18 | 2025-03-28 |  |
+| [Flowers](https://open.spotify.com/track/3ilP9ixF3L5wM9dJWTaSid) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [Flowers](https://open.spotify.com/album/2wHdzPoNzGCKToVOwfpVIM) | 2:18 | 2025-03-28 | 2025-06-28 |
 | [Fortified](https://open.spotify.com/track/3QQI0IgPr82JQr9xRAuRE9) | [Freddie Gambini](https://open.spotify.com/artist/4fuRrfCxlAdAUEB0dkLlAg) | [Fortified](https://open.spotify.com/album/25npZ3uCUPutKiwEGHalxP) | 2:44 | 2024-10-04 | 2024-11-08 |
 | [Gbonyo Party](https://open.spotify.com/track/74UDz0eNWuVPowvxAo9qTk) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Tsotsoo](https://open.spotify.com/album/57y1bzHoBIHFlMEz5APeCc) | 2:07 | 2024-05-10 | 2024-06-01 |
 | [Ghana Bop](https://open.spotify.com/track/2tB0TY5qVlyn4Zvk7d3b7Z) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [WONDERGIRL](https://open.spotify.com/album/4Dr0okleRrumtnKtuWkD5a) | 2:44 | 2024-05-10 | 2024-07-27 |

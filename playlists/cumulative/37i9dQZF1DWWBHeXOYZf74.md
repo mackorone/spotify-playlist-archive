@@ -2,9 +2,9 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre\-less\. Quality first always\. Cover: Four Tet
+> Genre\-less\. Quality first always\. Cover: Blood Orange
 
-3,040 songs - 7 day 2 hr 5 min
+3,044 songs - 7 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -673,6 +673,7 @@
 | [DAYDREAM](https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 3:01 | 2023-02-17 | 2023-03-25 |
 | [Daydream Repeat](https://open.spotify.com/track/4c7b2Ft8Br0CgJLmt3mI7Z) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Daydream Repeat](https://open.spotify.com/album/0FTFpi4DEZ8yP11kRwVsNK) | 6:08 | 2024-02-16 | 2024-05-25 |
 | [Daydreaming](https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Daydreaming](https://open.spotify.com/album/2x7bjrZNDZ7hNcosj0dS39) | 3:06 | 2023-06-02 | 2023-09-30 |
+| [Daydrinking in Springfield](https://open.spotify.com/track/1i62xypyX8sRHlyZEqiJ9F) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr) | [Speedo](https://open.spotify.com/album/6pGq5bhcv8XcHEVisUApSA) | 2:49 | 2025-06-27 |  |
 | [Daylight](https://open.spotify.com/track/2KNpdjtaAbWSoWRnkNeD3i) | [Toribio](https://open.spotify.com/artist/1pvkxX6Q1JG8rnyBZ3t2MQ), [Sharin](https://open.spotify.com/artist/5jhSsx7bl4cEWrlQswLQJQ) | [Daylight](https://open.spotify.com/album/5Q639q8OY3ZTBQnK5Jqkuc) | 4:17 | 2024-11-15 | 2025-02-22 |
 | [daylight falls](https://open.spotify.com/track/3JTXbLod8F36ErFytqlxID) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [daylight falls](https://open.spotify.com/album/4JzQ9ctOcrFaAY1Kfbq4hM) | 2:45 | 2023-09-22 | 2023-10-21 |
 | [DAYS GO BY](https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [DAYS GO BY](https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw) | 4:31 | 2023-04-07 | 2023-08-12 |
@@ -1252,6 +1253,7 @@
 | [Home \- Toro y Moi Remix](https://open.spotify.com/track/6YuKgMxa0XH6CC2khScuUV) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Suddenly Remixes](https://open.spotify.com/album/1lulYXHFBSYd8Y1hbaPXzE) | 3:11 | 2021-03-14 | 2021-04-30 |
 | [Home Maker \(Edit\)](https://open.spotify.com/track/5rFtI5SpdK3VT7vmd0GAhs) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Home Maker](https://open.spotify.com/album/65DXmlrnWyJwqelAyE4JrU) | 3:52 | 2022-03-18 | 2022-07-23 |
 | [home with you](https://open.spotify.com/track/1lofsKXY29reyN9j0doHFF) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [home with you](https://open.spotify.com/album/3nLiYcMpeEOKzb5TzQcJer) | 3:44 | 2019-10-10 | 2019-12-13 |
+| [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 | 2025-06-27 |  |
 | [Honey](https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb) | 4:22 | 2024-04-12 | 2024-04-19 |
 | [Honey](https://open.spotify.com/track/6ztI9zfPNMhocBJcXbeEqt) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/0tUmA50dII1GN946D9lUsW) | 4:22 | 2024-04-12 | 2024-07-13 |
 | [Honey](https://open.spotify.com/track/2ipbVg9oVEJ6VJMOAwZOVG) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Condition](https://open.spotify.com/album/17Z3b3zcONkAQFS1GJ6AM4) | 4:34 | 2020-12-18 | 2021-02-06 |
@@ -1288,6 +1290,7 @@
 | [Hush \- Still Woozy Remix](https://open.spotify.com/track/4dGuRldChjvboZktprNJFM) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Hush \(Still Woozy Remix\)](https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI) | 3:02 | 2021-09-24 | 2022-02-12 |
 | [Husk](https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Husk](https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS) | 3:24 | 2024-09-13 | 2025-01-18 |
 | [Hypnotherapy](https://open.spotify.com/track/1TMNFPRHGWzCaamL1J5geX) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Hypnotherapy](https://open.spotify.com/album/3BhkFDyNYLQLWjLxwuWufB) | 3:25 | 2023-09-29 | 2023-12-16 |
+| [Hypnotised \(feat\. Linden Jay\)](https://open.spotify.com/track/67N1PtpuY7DgemawuzioIz) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Linden Jay](https://open.spotify.com/artist/0re1X3yAM2CTtG9nnGhxnC) | [Hypnotised](https://open.spotify.com/album/1KeOKmz86ujYQKPcmVO8SO) | 3:22 | 2025-06-27 |  |
 | [Hypnotized \(with skaiwater\)](https://open.spotify.com/track/1QwoK3ypxUCpvyBqAkpFrn) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [Disturb The Norm](https://open.spotify.com/album/578IaPD6aBApvHPtU3JKZA) | 1:59 | 2023-02-24 | 2023-03-25 |
 | [Häagen Dazs](https://open.spotify.com/track/0i1qCBWE1JbfbCBPAofuHT) | [Ghetto Sage](https://open.spotify.com/artist/3V4S3LBWwZCQ0UkKClucoW) | [Häagen Dazs](https://open.spotify.com/album/3de7JZommOaihUk442MYPl) | 3:07 | 2019-10-18 | 2020-04-18 |
 | [I Am a Very Rude Person](https://open.spotify.com/track/4HZxkwyIGp6eHV9S4AYdve) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/5a4VSyY7zsfVVqHweYHG7R) | 3:44 | 2019-07-30\* | 2019-09-13 |
@@ -2501,6 +2504,7 @@
 | [Stay Flo](https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 | 2019-07-30\* | 2019-08-01 |
 | [Stay High \- Childish Gambino Version](https://open.spotify.com/track/6Rrehwtm21J7E6r5b2kEHq) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Stay High \(Childish Gambino Version\)](https://open.spotify.com/album/3xCcyKRPqKMFMwXYfLSYLD) | 3:38 | 2021-07-21 | 2021-11-06 |
 | [Stay High again..](https://open.spotify.com/track/2CRS1Nhp4D6ZTLVo3pfhkL) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Stay High again..](https://open.spotify.com/album/0Z09GqMFc38WlkAbw5cdrd) | 4:17 | 2021-03-06 | 2021-04-30 |
+| [Stay Together](https://open.spotify.com/track/6zRWbaaNPxaWQvHFck1n6z) | [Puffie](https://open.spotify.com/artist/20hIEDS29GBxsvYWa6pr18) | [Stay Together](https://open.spotify.com/album/1LnPcJKDDw0J9jYX1SX9dg) | 5:41 | 2025-06-27 |  |
 | [Stayback](https://open.spotify.com/track/1eaaALv53LViUGtOQ63jEn) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Stayback](https://open.spotify.com/album/2ZnoQZiVe89PHupw5S0Atk) | 2:39 | 2020-08-07 | 2021-01-23 |
 | [Stayed at the Party](https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Stayed at the Party](https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq) | 3:33 | 2022-10-14 | 2022-12-03 |
 | [stayinit](https://open.spotify.com/track/0IvsPPZCccqEMfUTUI9bUM) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 4:34 | 2024-03-01 | 2024-06-01 |

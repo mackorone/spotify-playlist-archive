@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Lorde
 
-1,190 songs - 2 day 12 hr 1 min
+1,191 songs - 2 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -770,6 +770,7 @@
 | [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 | 2025-05-01 | 2025-05-30 |
 | [old\-school kinda love](https://open.spotify.com/track/7kYQzInvcXpVgbsVxtnQ7w) | [PENNY X](https://open.spotify.com/artist/1mZDFbH4t9JsKKvbBXf4fi) | [old\-school kinda love](https://open.spotify.com/album/5oJe3JlD3t1gs6PJoVNiZF) | 2:35 | 2024-11-14 | 2024-12-13 |
 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 | 2024-09-26 | 2024-10-25 |
+| [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 | 2025-06-26 |  |
 | [On With The Show](https://open.spotify.com/track/7eCGf54RZlK7XjxfhbIsgr) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [On With The Show](https://open.spotify.com/album/35KxRfr6lCxdoMiXsjQR6D) | 2:27 | 2025-06-19 |  |
 | [One By One](https://open.spotify.com/track/1J0LAfDI6V7BXtj866wopY) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [One By One](https://open.spotify.com/album/6G4ZRThLjEGsYALCxy4xgp) | 3:44 | 2024-11-21 | 2024-12-20 |
 | [One Day](https://open.spotify.com/track/77mWGue0DTf1Aj2YzWLmoi) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [One Day](https://open.spotify.com/album/6XNZZuRxJMwpgrBqgPAgoN) | 4:54 | 2024-06-28 | 2024-07-27 |

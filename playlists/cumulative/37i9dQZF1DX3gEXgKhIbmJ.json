@@ -2325,6 +2325,32 @@
     },
     {
       "album": {
+        "name": "Aruanda",
+        "url": "https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "JECI",
+          "url": "https://open.spotify.com/artist/5vqxf5Zo460bhgO0uOjKmc"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "date_added": "2025-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Foco",
+      "url": "https://open.spotify.com/track/4HZC8iPPDSyqmoOmnHlXYN"
+    },
+    {
+      "album": {
         "name": "Medo \u00c9 S\u00f3 Ilus\u00e3o",
         "url": "https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu"
       },
@@ -5512,6 +5538,36 @@
       "duration_ms": 130285,
       "name": "Sozinho",
       "url": "https://open.spotify.com/track/6SY21SknMC22HBCG7nUITd"
+    },
+    {
+      "album": {
+        "name": "STORIES",
+        "url": "https://open.spotify.com/album/1kY9inbTQdghZWqHBoR2b7"
+      },
+      "artists": [
+        {
+          "name": "Thi",
+          "url": "https://open.spotify.com/artist/2CZqAHY1c0uw4oXmebItIr"
+        },
+        {
+          "name": "Agostinhx",
+          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
+        },
+        {
+          "name": "Avila Beatz",
+          "url": "https://open.spotify.com/artist/7xUdVOv7jgGkwdfMlvxaRf"
+        },
+        {
+          "name": "SOMOS",
+          "url": "https://open.spotify.com/artist/4RirWYVQPhtDNNwW5hmhuP"
+        }
+      ],
+      "date_added": "2025-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "STORIES",
+      "url": "https://open.spotify.com/track/2F9LV6rsZxkJRZIsDYDeWD"
     },
     {
       "album": {

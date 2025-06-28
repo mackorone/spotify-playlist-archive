@@ -649,6 +649,24 @@
     },
     {
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/3e7vBHspnYuDZsgxkyPsEA"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173239,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/4mjo9U4xfSAtTkLpvQ6QDN"
+    },
+    {
+      "album": {
         "name": "Rumble Of Thunder",
         "url": "https://open.spotify.com/album/5gqOvY9dUDP8JQygMUYPTn"
       },
@@ -1594,6 +1612,24 @@
       "duration_ms": 240689,
       "name": "Dead Inside",
       "url": "https://open.spotify.com/track/47xrDjgTsXiSczuZENqUoH"
+    },
+    {
+      "album": {
+        "name": "Dead_Alive",
+        "url": "https://open.spotify.com/album/5jPF4nRhSoj1vsl1GX81qc"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190906,
+      "name": "Dead_Alive",
+      "url": "https://open.spotify.com/track/4pZJXU5qsZfWj5Gnp5UgSR"
     },
     {
       "album": {

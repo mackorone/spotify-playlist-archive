@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-724 songs - 1 day 12 hr 31 min
+726 songs - 1 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Get Out Here](https://open.spotify.com/track/3BBvfK0J22MdJ1DSlGa8ye) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Josh Levoid](https://open.spotify.com/artist/2Pe7zH2Xz9nrhBWU7T2c6E), [Maryqueen](https://open.spotify.com/artist/76mi6FwuDiWbKgxlt8v22l) | [Get Out Here](https://open.spotify.com/album/3xOUCfvtdzODp2lwLOi4M3) | 4:04 | 2023-01-17 | 2023-04-28 |
 | [Getaway](https://open.spotify.com/track/4ButHfrRRn5shAJaMbMJq7) | [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [14/02](https://open.spotify.com/album/49L9LPfiRFp334a9If9igo) | 4:02 | 2023-12-13 | 2024-02-24 |
 | [Getting Down](https://open.spotify.com/track/608wqrJWweil3OXw7XkOSI) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [Getting Down](https://open.spotify.com/album/3cUzMivw6aQchGXpPijqPI) | 2:20 | 2023-07-26 | 2023-08-10 |
+| [ghost](https://open.spotify.com/track/5Rful38zNTk75D3KcNaJ3j) | [youth®](https://open.spotify.com/artist/6RTuy4V5njTbQmHlhpnst7) | [snake eyes](https://open.spotify.com/album/2vuH7JCmiZnZ2BpXw9PGz5) | 1:36 | 2025-06-27 |  |
 | [Ghost In The Wall](https://open.spotify.com/track/5pHfVokEQi99RAUGiazHj0) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Gaash](https://open.spotify.com/artist/6GB2Qfxc1dqkStjzIdJtg2) | [Ghost In The Wall](https://open.spotify.com/album/3wvgkQafH7J6Ekb5uMg786) | 3:23 | 2025-05-01 |  |
 | [Ghost Of Me](https://open.spotify.com/track/6Wzrjw80pgtkKhpNMRSVEi) | [Justin OH](https://open.spotify.com/artist/5x2u5vpKBhviWQlni8VM8L), [BOTCASH](https://open.spotify.com/artist/2ohZgLU6lCv55yV3d05nMv), [PRONG](https://open.spotify.com/artist/0HI56opIgWf1NPgFCkmlS8) | [Ghost Of Me](https://open.spotify.com/album/03iDVQMq1434flgqRJjDdk) | 3:00 | 2025-06-17 |  |
 | [Ghost Town](https://open.spotify.com/track/2YO54djjxe6AYyhCpYZm2s) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [ThatBehavior](https://open.spotify.com/artist/5t9XxQeHFQ0dXRbbEK7MjB), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Ghost Town](https://open.spotify.com/album/2gTAy9SOcnOWdMxxtFT3nv) | 2:32 | 2022-10-18 | 2023-04-28 |
@@ -587,6 +588,7 @@
 | [SKY BRI](https://open.spotify.com/track/7ryzeQvWJM6F6rSTcJlT3f) | [ALVYN](https://open.spotify.com/artist/3lS0YzBEO1IglsFgrAMSrE), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [SKY BRI](https://open.spotify.com/album/6dQHhOOldwSP8sZfzhDHTI) | 1:50 | 2023-08-08 | 2023-12-14 |
 | [Sky High](https://open.spotify.com/track/61k7xAKMsuvTf2j2YnieSi) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu) | [Sky High](https://open.spotify.com/album/1R34FPrGkG7Q0vDJ9xCfrF) | 3:56 | 2023-08-08 | 2024-01-04 |
 | [Skyline Pt\. II](https://open.spotify.com/track/0lr3uoQGBxdiYrhmjSat9Q) | [Kovan](https://open.spotify.com/artist/3VH7DkvWrs6jHZFrORa9tW), [Electro\-Light](https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5) | [Skyline Pt\. II](https://open.spotify.com/album/27xStxx2AghnORK2ESJhbg) | 3:15 | 2025-01-21 |  |
+| [snake eyes](https://open.spotify.com/track/5GpJ4hQliOMpemRVqrDyBy) | [youth®](https://open.spotify.com/artist/6RTuy4V5njTbQmHlhpnst7) | [snake eyes](https://open.spotify.com/album/2vuH7JCmiZnZ2BpXw9PGz5) | 2:15 | 2025-06-27 |  |
 | [So Good](https://open.spotify.com/track/0C6275GUv27JP82Vc6jXnF) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [So Good](https://open.spotify.com/album/7GuUaitLe4QQQWhwbIs000) | 2:52 | 2025-04-29 |  |
 | [Sold Dreams](https://open.spotify.com/track/0NOR0mj9h4KyIuEBROGpVA) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [Rizó](https://open.spotify.com/artist/7hyFSqlT3o7RdXFnUtJ7C2), [NØCTRIS](https://open.spotify.com/artist/3uCuNmBGWFSBuXX8xstvoz) | [Sold Dreams](https://open.spotify.com/album/5B1FEceDW5hOWDNIpnrz6U) | 1:31 | 2023-12-13 | 2024-05-08 |
 | [Somebody Like Me](https://open.spotify.com/track/7tXOUsVnja9CM4ZqpsIRyL) | [JJD](https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH), [Division One \(KR\)](https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ) | [Somebody Like Me](https://open.spotify.com/album/62Air8eIGD93v9GMmuBi1o) | 2:50 | 2022-07-29 | 2023-08-10 |

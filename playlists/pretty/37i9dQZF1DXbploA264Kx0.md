@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: LIU KOI
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,375 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,379 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [don't trust all those voices](https://open.spotify.com/track/4IBF9cchbriy0hCfbTXi91) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [don't trust all those voices](https://open.spotify.com/album/5glOQatOckeojlKVzDOXlJ) | 3:00 |
 | 2 | [MY MESSAGE \(feat\. Shing02\)](https://open.spotify.com/track/0Ku3K1LUNxdjI1gvDrB9Nt) | [PUZZLEMAN](https://open.spotify.com/artist/5cqDJ1LV02tRyfWJoijkpZ), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [MY MESSAGE \(feat\. Shing02\)](https://open.spotify.com/album/0pzHd5dOUyYHyvgceAVXG3) | 3:22 |
-| 3 | [Half\-Full \- Remix Ft\. moon tang, Wade Dao](https://open.spotify.com/track/5jfnXiBmFq7wrFq2sS3pZe) | [我是機車少女](https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl), [Flowstrong](https://open.spotify.com/artist/3KgKUvLzPtJSiXz0WC71YH), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [WADE DAO](https://open.spotify.com/artist/5cccFQ9v0HLpikzMg8AtEH) | [Half\-Full \(Remix Ft\. moon tang, Wade Dao\)](https://open.spotify.com/album/0UvTSBZ8z8AHMdx8xUweRH) | 3:40 |
+| 3 | [Half\-Full \- Remix Ft\. moon tang, WADE DAO](https://open.spotify.com/track/5jfnXiBmFq7wrFq2sS3pZe) | [我是機車少女](https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl), [Flowstrong](https://open.spotify.com/artist/3KgKUvLzPtJSiXz0WC71YH), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [WADE DAO](https://open.spotify.com/artist/5cccFQ9v0HLpikzMg8AtEH) | [Half\-Full \(Remix Ft\. moon tang, WADE DAO\)](https://open.spotify.com/album/0UvTSBZ8z8AHMdx8xUweRH) | 3:40 |
 | 4 | [on read](https://open.spotify.com/track/3UjOd2Gv8RWeo8I0iVmX0P) | [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [on read](https://open.spotify.com/album/2MiXecLp7hg5BYwgqgrw4c) | 2:57 |
 | 5 | [Countdown](https://open.spotify.com/track/4WBPb6gPaa2xad6B4010sX) | [Maderlin Weng](https://open.spotify.com/artist/4fpCZI760JLt135sUs4y5A) | [Countdown](https://open.spotify.com/album/5CGoQh0GDK2ycccVyiFIQM) | 3:57 |
 | 6 | [For a Better Day \(feat\. 連炳發\) \- 影集《化外之醫》插曲](https://open.spotify.com/track/5DAcdDEm8Ngegfi6QIv4qx) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX), [Liên Bỉnh Phát](https://open.spotify.com/artist/1vrJLalQTydLmzJwe3Lw10) | [For a Better Day \(feat\. 連炳發\) \[影集《化外之醫》插曲\]](https://open.spotify.com/album/7AubzUnyNmztdMF1z0wvTR) | 3:37 |

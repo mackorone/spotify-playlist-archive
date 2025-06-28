@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles. ¡Celebramos 10 años de Fresh Finds con Por las noches!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,037 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,043 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 25 | [Tarde](https://open.spotify.com/track/1M0QXOpBzVsm1xRujpIT4s) | [Boria](https://open.spotify.com/artist/0VpQzKw8hGkaogdUojO9j7) | [Tarde](https://open.spotify.com/album/13yqcA88S673TbqOzRu3Nd) | 2:02 |
 | 26 | [El Despegue](https://open.spotify.com/track/0EnCni54BEfQTUkZrUmOpB) | [Selvajes](https://open.spotify.com/artist/41Bkxd38yERewVUTQyOghu) | [El Despegue](https://open.spotify.com/album/5EhDrgSHlJs3e0Rl4Qx58O) | 2:51 |
 | 27 | [Ser adulta es un disfraz](https://open.spotify.com/track/1h07VjjlEUYfh9WTUG5Xai) | [Pálida Tez](https://open.spotify.com/artist/34kr1pOg9FuVxpplSeGlYF) | [Ser adulta es un disfraz](https://open.spotify.com/album/03HIstEmYNAS2yqTmUyro9) | 4:02 |
-| 28 | [LA PRESIÓN](https://open.spotify.com/track/23SCqRb7N8OZ7WpGVvs1eC) | [Orán](https://open.spotify.com/artist/31n2rnzVnUTnB56EX2M4bX) | [LA PRESIÓN](https://open.spotify.com/album/3BzFnFf0SM2RvkyR1z4x3p) | 3:11 |
+| 28 | [LA PRESIóN](https://open.spotify.com/track/23SCqRb7N8OZ7WpGVvs1eC) | [Orán](https://open.spotify.com/artist/31n2rnzVnUTnB56EX2M4bX) | [LA PRESIóN](https://open.spotify.com/album/3BzFnFf0SM2RvkyR1z4x3p) | 3:11 |
 | 29 | [Te Vi Aparecer](https://open.spotify.com/track/69wAL7AoLtdHthkCmb8U4a) | [Belarte](https://open.spotify.com/artist/2HNADS1yqggfwoMmurRRvM) | [Te Vi Aparecer](https://open.spotify.com/album/0KXdakhiAZAYtsi2XlRme3) | 3:23 |
 | 30 | [Tashirojima](https://open.spotify.com/track/3mWpGIKNxAKhMw6IvIfDPU) | [Lady Banana](https://open.spotify.com/artist/5rYapv14QGjhRGc4N59QR2), [Marina Iñesta](https://open.spotify.com/artist/00pzqxR8BFgjc4VGRYCydo) | [Tashirojima](https://open.spotify.com/album/4uTrKGeTfJXvtB19WZYBHw) | 2:50 |
 | 31 | [Acting wisely](https://open.spotify.com/track/7Jw89xLGOEgDzfFwsp2148) | [Carlota Flâneur](https://open.spotify.com/artist/3NDKht1aMpga0RvwAqDeTC) | [Acting wisely](https://open.spotify.com/album/6UjjTtnkZJbYwfTUN1H8gZ) | 2:29 |

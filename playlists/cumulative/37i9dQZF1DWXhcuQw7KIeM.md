@@ -4,7 +4,7 @@
 
 > From the very deep spirit of the almighty North.
 
-158 songs - 13 hr 53 min
+159 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Lorn and Loath](https://open.spotify.com/track/2fIMFAMxuJEwNBnsD1gI7l) | [Wolcensmen](https://open.spotify.com/artist/2valAzrV6xeHL0weVnIAp8) | [Fire in the White Stone](https://open.spotify.com/album/1ZSrG9WgZewjkbKTw1gwg6) | 7:35 | 2022-07-08 | 2024-04-19 |
 | [Lorn and Loath](https://open.spotify.com/track/73qYS0GZUcEwTagjlHt3Jd) | [Wolcensmen](https://open.spotify.com/artist/2valAzrV6xeHL0weVnIAp8) | [Lorn and Loath](https://open.spotify.com/album/4cAXLQhqL9YpxktpvuuFTF) | 7:35 | 2022-10-07 | 2022-11-13 |
 | [Lorn and Loath](https://open.spotify.com/track/7dEaI9CRR47tyamPx1lBfP) | [Wolcensmen](https://open.spotify.com/artist/2valAzrV6xeHL0weVnIAp8) | [Lorn and Loath](https://open.spotify.com/album/0jpbUfolUgPX3H4FKHdUSf) | 7:35 | 2022-05-13 | 2024-12-04 |
+| [Malströmsbrus](https://open.spotify.com/track/2iaTeZJ8QD2ZS312KQTBgV) | [Vintersorg](https://open.spotify.com/artist/6LfdGx71ZHRWgP4tBRmQf6) | [Malströmsbrus](https://open.spotify.com/album/4961f5lFlgmf38sd9K5wgl) | 6:43 | 2025-06-27 |  |
 | [Mandara](https://open.spotify.com/track/5U0awMJOLy123ikEFUIfHt) | [Vas](https://open.spotify.com/artist/7bUGU28qbm4vGTSrha1H55) | [Feast Of Silence](https://open.spotify.com/album/1QTNlTne1hb0WHJe0sF6K4) | 6:23 | 2022-05-13 |  |
 | [Midvinter](https://open.spotify.com/track/1qlSpiCwjxCsD2VVWpJV1H) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Midvinter](https://open.spotify.com/album/6OPbBT3bjSX3Md6lPIznjy) | 6:32 | 2024-07-05 |  |
 | [Noidan Nousu](https://open.spotify.com/track/680HRsVF8FqjgHH9rtefsE) | [Kallomäki](https://open.spotify.com/artist/0KYKgrKx6gPLODjybxJpn9) | [Noidan Nousu](https://open.spotify.com/album/5mbI6EOtW4ft43ske1T8CG) | 3:51 | 2025-05-16 |  |
@@ -158,7 +159,7 @@
 | [Yggdrasil](https://open.spotify.com/track/557wTI8uo48D59Caf2iM2I) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Yggdrasil](https://open.spotify.com/album/3TcQZvBmiStnfk8WXVfuu3) | 4:15 | 2022-05-13 | 2022-07-29 |
 | [Yggdrasil](https://open.spotify.com/track/6JJGu31qvtkU9sQcyouXXN) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/4aDpCHnObQX885vEPJwCYP) | 4:15 | 2023-09-08 | 2024-04-17 |
 | [Ylfa Spere](https://open.spotify.com/track/1qA1LY2FHhsCWDai6Byfsb) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [Ylfa Spere](https://open.spotify.com/album/74Waqk73z57ISc8IGhzsB3) | 3:35 | 2023-02-17 |  |
-| [Ymir](https://open.spotify.com/track/6OMd2Tyoo1t331SqqnTdKR) | [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb), [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM) | [Ymir](https://open.spotify.com/album/4nlE0mUHyiIe7Tdk6Jse5o) | 4:17 | 2022-05-13 |  |
+| [Ymir](https://open.spotify.com/track/6OMd2Tyoo1t331SqqnTdKR) | [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb), [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM) | [Ymir](https://open.spotify.com/album/4nlE0mUHyiIe7Tdk6Jse5o) | 4:17 | 2022-05-13 | 2025-06-28 |
 | [Ymir](https://open.spotify.com/track/0bgGgqsmfGk2r177BsCrSI) | [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM), [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb) | [Eptir Ragnarök](https://open.spotify.com/album/7EvtTlwudXR5ca8x18iCUY) | 4:17 | 2022-07-08 | 2024-04-19 |
 | [Zeit der Raben](https://open.spotify.com/track/2dsW7ufpe4Kzaai1oA2wR5) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [Pagan](https://open.spotify.com/album/7lN8bCpi9N1shlyZiT5Cgr) | 3:36 | 2022-05-13 | 2023-02-18 |
 | [Ég felé](https://open.spotify.com/track/4PSVK92v0jtq8NiOtgqnFe) | [The Moon & The Nightspirit](https://open.spotify.com/artist/7hm6tfDbNUdRrz2hfRpJG3) | [Ősforras](https://open.spotify.com/album/012OIS7HI85MqcAOKHL6fP) | 5:56 | 2022-05-13 | 2024-04-17 |

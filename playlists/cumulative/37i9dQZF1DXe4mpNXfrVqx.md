@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: LARINHX, Marisa Pecadora
 
-221 songs - 9 hr 49 min
+222 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Indispensável](https://open.spotify.com/track/5i8uaqyosYWLvTyNp1NWct) | [Souto MC](https://open.spotify.com/artist/4WELyrcl29LZhemUKihfB4), [Feat Saci](https://open.spotify.com/artist/3xDHxwjYq5n6xFnvNMt2ML) | [Feat Saci \#12](https://open.spotify.com/album/26T75gINhFqs4PtKnNYIk0) | 2:45 | 2023-09-08 | 2024-06-22 |
 | [Invisível](https://open.spotify.com/track/12Ue4VoNFehYCgNcFfcrFL) | [Indi Jade](https://open.spotify.com/artist/3InLZ7IdbIvIlpkMw7k9xV) | [Invisível](https://open.spotify.com/album/4q1vv6Ymy01U0oHxfcODyB) | 3:29 | 2022-03-18 | 2022-05-28 |
 | [IRREVERSÍVEL](https://open.spotify.com/track/2VNpMBY9uV6JlqEjMSUu0T) | [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [BeatzbyNolan](https://open.spotify.com/artist/6Bt5jX9ESHGTnJKGGt9YWc) | [IRREVERSÍVEL](https://open.spotify.com/album/0WZzO4lMc7tz4KpMUKNpR9) | 3:04 | 2023-11-10 | 2024-06-01 |
+| [Jogo da Vida](https://open.spotify.com/track/6jK8DJfC4wVPyfEc7SEgfe) | [Visão Records](https://open.spotify.com/artist/51jC7VpvzmZ6gN6LHrJNy5), [A.LBeats](https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Jogo da Vida](https://open.spotify.com/album/2ZcjMx3IEjStin63pGb7u2) | 2:00 | 2025-06-28 |  |
 | [Jogo de Sedução](https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Jogo de Sedução](https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX) | 3:45 | 2024-02-02 |  |
 | [Joias Caras](https://open.spotify.com/track/6qL6PbTSJYMF9waKQOWdNb) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh), [Biazotto](https://open.spotify.com/artist/6pIhlzAGpJu6YkWsG3fe3b) | [Joias Caras](https://open.spotify.com/album/6iPNo87W8FkjKyPPwsnhdG) | 1:58 | 2023-09-29 |  |
 | [Kali](https://open.spotify.com/track/4ErEw1XXvgV5SvaUtmqXgS) | [Luá Kali](https://open.spotify.com/artist/7erv73antdGnjobwarhKOv), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq) | [Kali](https://open.spotify.com/album/513Vo5nnWl40hZNpIsD3NL) | 2:20 | 2022-03-18 | 2023-04-22 |
@@ -163,7 +164,7 @@
 | [PALMAS](https://open.spotify.com/track/5vpSh0sdObC37Tyif3l5pX) | [Jenni Mosello](https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [FEMMINA](https://open.spotify.com/album/5pWWWYmyq5y3BgcGwHhFej) | 2:26 | 2023-05-26 | 2023-06-27 |
 | [Para pra Pensar](https://open.spotify.com/track/3x3k5PnejMAIRjtU59BwxP) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Para pra Pensar](https://open.spotify.com/album/0FDi3B8r4Xio6ZSfgZkcRV) | 4:04 | 2022-03-18 | 2025-04-29 |
 | [Patroa](https://open.spotify.com/track/1Uw33plA0I6BzsjBb9AI3f) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Patroa](https://open.spotify.com/album/2ojij9qTa6YUIqrAxukcwL) | 3:01 | 2022-03-18 | 2025-02-21 |
-| [Pegada de Chefona](https://open.spotify.com/track/2nHK8p9xOZCx9k28X0C1wQ) | [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym), [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX), [Mun Há](https://open.spotify.com/artist/0Ad80b0Q9txmIjJH6RqU1f) | [Pegada de Chefona](https://open.spotify.com/album/0OgRUDDTyPnYZTNwFpbgHH) | 2:56 | 2025-02-14 |  |
+| [Pegada de Chefona](https://open.spotify.com/track/2nHK8p9xOZCx9k28X0C1wQ) | [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym), [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX), [Mun Há](https://open.spotify.com/artist/0Ad80b0Q9txmIjJH6RqU1f) | [Pegada de Chefona](https://open.spotify.com/album/0OgRUDDTyPnYZTNwFpbgHH) | 2:56 | 2025-02-14 | 2025-06-28 |
 | [Pensamentos Intrusivos](https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [Terapia](https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW) | 2:13 | 2023-12-01 |  |
 | [Pensamentos Intrusivos \(Uma série Netflix "Nova Cena"\)](https://open.spotify.com/track/3KkmOuhoMzJJxLWDwQFSH8) | [Afrodite Bxd](https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Pensamentos Intrusivos \(Uma série Netflix "Nova Cena"\)](https://open.spotify.com/album/7wOOzGXDZFNlM35vwKCRQd) | 2:27 | 2024-11-22 | 2025-06-14 |
 | [Perfeito É o Mar](https://open.spotify.com/track/6KLaWP1J5jjCHYCdVaLm7R) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 3:09 | 2022-03-18 | 2025-04-20 |

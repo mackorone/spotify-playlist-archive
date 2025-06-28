@@ -4,7 +4,7 @@
 
 > Songs from LGBTQIA+ artists\. Cover: Sophie and the Giants
 
-1,540 songs - 3 day 11 hr 16 min
+1,541 songs - 3 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [A Fuego](https://open.spotify.com/track/2MNcAkHDpVqGbRsaqO7LF2) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [A Fuego](https://open.spotify.com/album/5fwB9BD3xstcl7cZpxYFmH) | 2:47 | 2023-01-24 | 2023-03-08 |
 | [A Girl Like This](https://open.spotify.com/track/69uEwXoA8PmBMvJy5Rrs8O) | [Someone Who Isn't Me](https://open.spotify.com/artist/1jLF7ClOMiAPDmilcXPe3w) | [A Girl Like This](https://open.spotify.com/album/5ep9RrcSBBPSDTgI0z0bvY) | 4:15 | 2023-06-02 | 2023-07-12 |
 | [A Good Thing](https://open.spotify.com/track/520Ri2FiyuSI9qw1XP0CA3) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Supermodels](https://open.spotify.com/album/2YszPdalHkFnXxqMPrHlhm) | 2:45 | 2023-07-18 | 2023-08-09 |
+| [A Little Bit Wild](https://open.spotify.com/track/7rZmBZLfhgh000Zcureczx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [A Little Bit Wild](https://open.spotify.com/album/2f0s9vLtRtfpLvvvbRPMze) | 3:16 | 2025-06-27 |  |
 | [ABOMINATION](https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [ABOMINATION](https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr) | 3:18 | 2024-05-06 | 2025-02-26 |
 | [Abomination](https://open.spotify.com/track/65VaPeMUYTHFkr3VsIFWYG) | [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [Heterosexuality](https://open.spotify.com/album/0DpCo0SXKnfsBx98H2qDVI) | 2:43 | 2022-02-11 | 2022-04-15 |
 | [Act Like You Know](https://open.spotify.com/track/1ZQ0Tqassjg34qHFrZ6Uac) | [Mannie Fresh](https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ), [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox) | [Act Like You Know](https://open.spotify.com/album/4qTAHBUK7yEekULiRZCMr2) | 3:28 | 2022-01-07 | 2022-04-20 |
@@ -123,7 +124,7 @@
 | [Bad At Letting Go](https://open.spotify.com/track/4uWDzzFjuB9AV1hMSTyEAJ) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Bad At Letting Go](https://open.spotify.com/album/25cBhyZGuY9xdg7QMCdc9K) | 3:20 | 2023-01-24 | 2023-03-04 |
 | [Bad At Letting Go](https://open.spotify.com/track/1AJx07ntjz0nILoa6M7xEe) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Bad At Letting Go](https://open.spotify.com/album/06mxBmKzY4C9ILn6aoTFFX) | 3:20 | 2023-03-03 | 2023-03-08 |
 | [bad friend](https://open.spotify.com/track/3Sy8kIcOglqz8TUMklgSVp) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [bad friend](https://open.spotify.com/album/0eiudXojkB4vSVOKCQKcvu) | 3:13 | 2022-01-07 | 2022-04-16 |
-| [Bad Friends](https://open.spotify.com/track/22h0LkzTFMbj4WzDOpSGI1) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Bad Friends](https://open.spotify.com/album/0RylQ7ZJMfvxSZeNLJQ423) | 3:02 | 2025-05-06 |  |
+| [Bad Friends](https://open.spotify.com/track/22h0LkzTFMbj4WzDOpSGI1) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Bad Friends](https://open.spotify.com/album/0RylQ7ZJMfvxSZeNLJQ423) | 3:02 | 2025-05-06 | 2025-06-28 |
 | [Bad Man](https://open.spotify.com/track/1dE2RgTlKPGL0Pcr8OjgrV) | [FIGHTMASTER](https://open.spotify.com/artist/3ejIpQTvOb6XjUhX96RrMw) | [Violence](https://open.spotify.com/album/6sbuipZaNdrMC3egrQTIpE) | 4:26 | 2024-01-10 | 2024-03-13 |
 | [Bad Thing](https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Bad Thing](https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI) | 3:22 | 2022-11-30 | 2023-01-25 |
 | [Baggage](https://open.spotify.com/track/1mQN7wV7P7UTzLhpBhOOZ2) | [Autumn Nicholas](https://open.spotify.com/artist/4WBJACqzmZ1BkWHyyPbRJ6) | [Baggage](https://open.spotify.com/album/6gvLq9TwxePLHCVcAyB6lH) | 2:58 | 2024-04-09 | 2024-06-06 |

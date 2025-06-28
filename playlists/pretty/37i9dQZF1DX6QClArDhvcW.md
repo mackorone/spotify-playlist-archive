@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain](/playlists/plain/37i9dQZF1DX6QClArDhvcW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6QClArDhvcW)
 
-### [Mellow Lofi Morning](https://open.spotify.com/playlist/37i9dQZF1DX6QClArDhvcW)
+### [mellow lofi morning](https://open.spotify.com/playlist/37i9dQZF1DX6QClArDhvcW)
 
-> Laid\-back beats for an easygoing morning.
+> laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,893 likes - 265 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,000 likes - 265 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -274,4 +274,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 264 | [Imagine Us There](https://open.spotify.com/track/4CsaHdE3Lcloc9pxIYCtc8) | [vhskid.](https://open.spotify.com/artist/7jqvj8jfIMreNLAN8DJWlq) | [Imagine Us There](https://open.spotify.com/album/2p9hsK7n8nTSVZZQ9RXr8A) | 2:31 |
 | 265 | [Popsicle](https://open.spotify.com/track/3YkTd9wRFuVLBn2yWm9jDm) | [LIAR.](https://open.spotify.com/artist/3WWfY5srwuTUAD85I6dQr6) | [Popsicle](https://open.spotify.com/album/3megiTdeoMiHET8bxY2g5A) | 2:02 |
 
-Snapshot ID: `Z9152wAAAACr0ax7CBNxuuO3Rj6b3XZ1`
+Snapshot ID: `aF6qJgAAAACLkQXc/wxppF3CMG9vMbH5`

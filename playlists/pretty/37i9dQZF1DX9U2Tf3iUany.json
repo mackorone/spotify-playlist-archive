@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/stevenvictor/\">Steven Victor</a>",
-  "num_followers": 58132,
+  "num_followers": 58137,
   "original_name": "Steven Victor's Taste",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Portfolio",
-        "url": "https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4"
-      },
-      "artists": [
-        {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
-        }
-      ],
-      "duration_ms": 448000,
-      "name": "La Vie en rose",
-      "url": "https://open.spotify.com/track/5yJrl2r0vr6u9BXqQXZE3V"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Gangsta Blues",
         "url": "https://open.spotify.com/album/08N10iDC2hOpj69QHaU1Dn"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 254946,
       "name": "It's A Pity",
       "url": "https://open.spotify.com/track/0oWha7OKAqQwFZymfthIEV"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Portfolio",
+        "url": "https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "duration_ms": 448000,
+      "name": "La Vie en rose",
+      "url": "https://open.spotify.com/track/5yJrl2r0vr6u9BXqQXZE3V"
     }
   ],
   "unique_name": "Steven Victor's Taste",

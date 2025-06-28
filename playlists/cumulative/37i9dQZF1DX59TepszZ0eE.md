@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd?si=\_S9SDVpeQaqDmtWHrGf99Q>Oncemore Six</a>"
 
-390 songs - 1 day 16 hr 41 min
+391 songs - 1 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Wakhazimula \- Live](https://open.spotify.com/track/7FfwSYKinjefexPoH8XSrm) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Wakhazimula \(Live\)](https://open.spotify.com/album/7G9ZPEePMWoWw4ZXcWc1hg) | 8:07 | 2022-03-24 |  |
 | [Wakrazulwa](https://open.spotify.com/track/7F1CiwICZMraSDwsRgs2wu) | [JTG Gospel Choir](https://open.spotify.com/artist/0GyDw1zJL0JJogWrT7Z7Ht), [Kholeka](https://open.spotify.com/artist/37dSM8Vh8aCBAhqGCVIfmy) | [Wakrazulwa](https://open.spotify.com/album/1ibKvJT9iJDd9E047ceYGp) | 3:20 | 2024-10-04 | 2024-12-20 |
 | [Walats3\(Life Giver\)](https://open.spotify.com/track/2ygzqWER8vIMEoMXM3nEwc) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Walats3\(Life Giver\)](https://open.spotify.com/album/5dtz3U2rv8LsBVk2YE5CXH) | 5:31 | 2023-08-04 | 2023-09-15 |
+| [Wangethula \(Live\)](https://open.spotify.com/track/1xIoMAWdjcIKhz2WSsqtEW) | [Nozipho Phiri](https://open.spotify.com/artist/7oG0byeE7vcitDrgbH2LVo) | [Wangethula \(Live\)](https://open.spotify.com/album/0QemxNOpo2FmgChieTkrfJ) | 8:40 | 2025-06-27 |  |
 | [Wash'Umlilo](https://open.spotify.com/track/0GGplcnPYWTfR7a6zSmRLS) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71) | [Wash'Umlilo](https://open.spotify.com/album/7uzInEeGb5QkR7u5K6VrI6) | 6:10 | 2024-04-05 |  |
 | [Wash'Umlilo \- Live](https://open.spotify.com/track/3ii6csjSvjYGrQhYkR5YNY) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71) | [Wash'Umlilo \(Live\)](https://open.spotify.com/album/7ifRrsq1VTtYskZrnZGXyM) | 6:10 | 2022-09-15 | 2024-04-19 |
 | [Wasithethelela \(Live\)](https://open.spotify.com/track/3Te7CCWvpqpzwMmCEeUSFG) | [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu), [Sound Of Goshen](https://open.spotify.com/artist/3mMj2jo4RXaTW2fqSoNtYW) | [Wasithethelela \(Live\)](https://open.spotify.com/album/2NYJcamLaTEr1idXWOrgiu) | 9:31 | 2023-06-23 | 2024-03-29 |

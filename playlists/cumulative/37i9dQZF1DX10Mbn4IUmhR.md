@@ -4,7 +4,7 @@
 
 > Your frequency for today's hottest pop tracks, via the South of Africa\. Cover: <a href="https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S?si=dFljFtEVTnWrRkm\-k66tUA">EASY FREAK</a>
 
-527 songs - 1 day 4 hr 14 min
+529 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [HD Memories](https://open.spotify.com/track/2kEdpEUEO1nPKArnDWvryV) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [HD Memories](https://open.spotify.com/album/1ux7cK47FYgsErEg8lGREA) | 3:10 | 2025-06-26 |  |
 | [Head Over Heels](https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Head Over Heels](https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp) | 3:48 | 2025-06-20 | 2025-06-27 |
 | [Heart of Gold](https://open.spotify.com/track/39AfsBXaRa8JZhl46bKGGN) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heart of Gold](https://open.spotify.com/album/5OFrWDpHvOkYyllO3AKPtS) | 2:51 | 2024-11-15 | 2024-11-22 |
+| [Hearts Will Know](https://open.spotify.com/track/1YfO7FJSZcP6J0u3Ug3kxE) | [Lev UFO](https://open.spotify.com/artist/3Dxu22WPSxB8cwk0IlmUSb), [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB) | [Hearts Will Know](https://open.spotify.com/album/1pAW1YQJwAYXZcGMqbiLBU) | 3:20 | 2025-06-26 |  |
 | [Heat](https://open.spotify.com/track/7gn1dVwAYxmzpj5peCAOWt) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Heat](https://open.spotify.com/album/3fAes6kOJqF8H5IumD0aik) | 2:51 | 2025-06-06 | 2025-06-21 |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2025-03-20 | 2025-04-04 |
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-10 | 2025-04-30 |
@@ -375,6 +376,7 @@
 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-07-11 | 2024-08-24 |
 | [Sax For Breakfast](https://open.spotify.com/track/75ruffF3dkhyxXW5EWzjAo) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Sax For Breakfast](https://open.spotify.com/album/6mywW38UfiwzOGHZKh967f) | 2:38 | 2024-10-10 | 2024-11-08 |
 | [Say You Won't Let Go](https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:31 | 2025-03-20 | 2025-04-18 |
+| [SEARCHING](https://open.spotify.com/track/4M7yfQzVeE0ANQRZ16y7sK) | [Mika Noble](https://open.spotify.com/artist/6dzrVFU3mirH21EyTQiBQ5) | [SEARCHING](https://open.spotify.com/album/2lQtiNPjFG2v2eW0ftU4P6) | 2:47 | 2025-06-26 |  |
 | [Seasons](https://open.spotify.com/track/5Dsuz6UsZyoWM3HOaRgQeC) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Seasons](https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ) | 3:47 | 2025-01-30 | 2025-05-09 |
 | [Seconds Away](https://open.spotify.com/track/1vxWgYimfA3RtHo41qE40i) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [Seconds Away](https://open.spotify.com/album/5d6ksxWTiDMYFR6EngSWG9) | 2:50 | 2024-06-27 | 2024-07-12 |
 | [Selfish](https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Selfish](https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy) | 3:49 | 2024-06-27 | 2024-07-12 |

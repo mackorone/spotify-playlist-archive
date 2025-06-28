@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-371 songs - 1 day 1 hr 9 min
+372 songs - 1 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Event Horizon](https://open.spotify.com/track/1hHkOBpuly0rAoFuKWy5CM) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [Event Horizon](https://open.spotify.com/album/5umDF5oA8I7SOntiv6GKWD) | 3:54 | 2025-06-04 |  |
 | [Evergreen](https://open.spotify.com/track/4CHhKeFXVwFXRtNL1vim6S) | [MIO](https://open.spotify.com/artist/7xS1kMp7pTwOKAB5jRCFRh) | [Evergreen](https://open.spotify.com/album/3JMe5yYrT8ZPKvfwiI9JAe) | 4:52 | 2022-07-27 | 2023-06-10 |
 | [Evergreen](https://open.spotify.com/track/6CkNrJGdibswnhcEjEyfIJ) | [MIO](https://open.spotify.com/artist/7xS1kMp7pTwOKAB5jRCFRh) | [Evergreen](https://open.spotify.com/album/10S8wzzcriaKK86Ea04XOb) | 4:52 | 2023-04-21 | 2024-01-12 |
+| [Far Beyond the Stars](https://open.spotify.com/track/2OnQwhAx1MweOZX35B9ARW) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX), [Shania Yan](https://open.spotify.com/artist/1bycmYZBIFs1GndFBYtlSX) | [Far Beyond the Stars](https://open.spotify.com/album/5Oqb2Ni0mAJIE5VeogHZEq) | 5:04 | 2025-06-27 |  |
 | [Fields of hope](https://open.spotify.com/track/2PslNnE0b0Shtx38S5czN1) | [Lacus Clyne \(CV: Rie Tanaka\)](https://open.spotify.com/artist/1aoUdHLSeRNO6NEM7P4RMH) | [Fields of hope](https://open.spotify.com/album/6aI9kR12kkx1YRzRoCBk6E) | 5:09 | 2024-01-11 | 2024-04-19 |
 | [Fields of hope](https://open.spotify.com/track/2MHA3CFfUDzevCObI5KNnI) | [ラクス・クライン \(CV: 田中理恵\)](https://open.spotify.com/artist/7MnUOaYaLcbvdOQ5J1cpy0) | [Fields of hope](https://open.spotify.com/album/5pcdOMEf4nheJM0K0R4QOo) | 5:09 | 2024-01-27 |  |
 | [Fighter](https://open.spotify.com/track/2VHu0O2U8EWjxBfDlzakd2) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [NAMiDA](https://open.spotify.com/album/4wmDOZJSFjcwZcLcZ9PJle) | 3:45 | 2022-07-27 |  |

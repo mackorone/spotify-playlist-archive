@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,316 songs - 2 day 19 hr 53 min
+1,318 songs - 2 day 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Clumsy Heart](https://open.spotify.com/track/1MRqpfmQtgkJArEQPRkf12) | [Alle The Dreamer](https://open.spotify.com/artist/34dP7aH5DomlGUPArhkh0B) | [Clumsy Heart](https://open.spotify.com/album/50XroDDpEBS38FecZiEt5H) | 3:42 | 2021-07-24 | 2021-10-23 |
 | [Coat Check](https://open.spotify.com/track/1B5TgBX9UxelP09rjBHEIU) | [Zach Oliver](https://open.spotify.com/artist/3mUGzseAIqVvSM5m3vJ4GX) | [Coat Check](https://open.spotify.com/album/3BUrGZn9S2edYQJVAV1hWG) | 2:56 | 2022-07-08 | 2022-12-03 |
 | [COCO PEBBLES](https://open.spotify.com/track/4ufErBvRiHTVaKHWBD332f) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [COCO PEBBLES](https://open.spotify.com/album/6MQ0WXfM4hBgjUtC5B1uOg) | 2:26 | 2021-08-07 | 2021-09-04 |
+| [Coffee's Ready](https://open.spotify.com/track/30XUPQ3sPmAN9dtLCqoeq5) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Coffee's Ready](https://open.spotify.com/album/5pidK0ZCnUOcPU5KYb4lMt) | 3:28 | 2025-06-27 |  |
 | [Cold Blood](https://open.spotify.com/track/1ah7QJ4UsxhGedu7QhmX44) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Cold Blood](https://open.spotify.com/album/7lUc1rvCShf2ydND7z6Glk) | 2:44 | 2021-04-03 | 2021-04-24 |
 | [Cold Tea \- Spotify Singles](https://open.spotify.com/track/6tLG0UWSYJSU8FscGtDqIt) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Spotify Singles](https://open.spotify.com/album/2nqXS6xc2WJyDn86KikFJ2) | 3:20 | 2023-10-06 | 2025-05-24 |
 | [Cologne](https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Our Extended Play](https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv) | 2:44 | 2021-06-26 | 2021-07-17 |
@@ -620,6 +621,7 @@
 | [In Your Mind](https://open.spotify.com/track/1pb3GpXukIdPvhwSEDLclz) | [Straats](https://open.spotify.com/artist/0higlnOzPAny6nOraITrsP) | [2 Be & In Your Mind](https://open.spotify.com/album/57mzzgh3cM00tUcFH8xeVe) | 2:35 | 2020-10-29\* | 2020-11-14 |
 | [Indecisive \(feat\. Tommy Genesis\)](https://open.spotify.com/track/2tQsKH9WgQSGbuV7GQXeP9) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Indecisive \(feat\. Tommy Genesis\)](https://open.spotify.com/album/1bmFqLkkpsfeAEZoBiV4W6) | 2:15 | 2021-08-14 | 2021-09-18 |
 | [Inhibitions / Intuitions](https://open.spotify.com/track/1Wqp5K08ASR7JcAmu1YjTI) | [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Inhibitions / Intuitions](https://open.spotify.com/album/5uBveYkzBC1RJP2pTEup1h) | 3:29 | 2022-09-23 | 2023-07-08 |
+| [Inkind](https://open.spotify.com/track/1TzQp3c2yq9G0luKUW7LU7) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Inkind](https://open.spotify.com/album/2N0JEHthdM2QBm3jinQZnL) | 3:45 | 2025-06-27 |  |
 | [Insane](https://open.spotify.com/track/3mLFCocZgUvih60frphM6l) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Insane](https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy) | 2:46 | 2021-02-06 | 2021-03-27 |
 | [Instabeat](https://open.spotify.com/track/4vH7mM5XBFyKXwDFbryT3r) | [Ludic](https://open.spotify.com/artist/6wSoQBJtmwMzGBYjF2tOPs) | [Instabeat](https://open.spotify.com/album/3kIQGJjwncGJkq2z09vN24) | 3:37 | 2022-04-08 | 2022-08-27 |
 | [Internet Stalking \(feat\. Adam Melchor\)](https://open.spotify.com/track/4BAkJk9QFtYWycVXRvhmhk) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Internet Stalking \(feat\. Adam Melchor\)](https://open.spotify.com/album/1mOoH3VAEdd0SOCpYdYw1c) | 2:30 | 2021-02-06 | 2021-03-27 |
@@ -663,7 +665,7 @@
 | [Kids Who Stole The World](https://open.spotify.com/track/5Sv2qboXJ3GZUuLMVaZtie) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Kids Who Stole The World](https://open.spotify.com/album/0KZeVw4TNjB6UMStp5B7tT) | 3:20 | 2021-10-30 | 2022-02-05 |
 | [Kill Your Pain \(with King Princess\)](https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Kill Your Pain \(with King Princess\)](https://open.spotify.com/album/3hP1YYnCmiBD9tnpA42MrA) | 2:46 | 2023-06-23 | 2024-12-21 |
 | [killer lover boy](https://open.spotify.com/track/4VWahNC3hzIZpJsb1aNBB8) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [IT’S OKAY, WE’RE DREAMING](https://open.spotify.com/album/6D4oQ9pbC7MinAd5LdLr0l) | 2:14 | 2021-07-31 | 2021-10-09 |
-| [king of loathing](https://open.spotify.com/track/0615nSzOQDbLH9FvlYm5NI) | [Jonah Zed](https://open.spotify.com/artist/4mPkv3XVHp9mMeSXp5Ix3D) | [king of loathing](https://open.spotify.com/album/2kTnPqYQxVZpF3Y2UQEPQr) | 2:45 | 2023-12-01 |  |
+| [king of loathing](https://open.spotify.com/track/0615nSzOQDbLH9FvlYm5NI) | [Jonah Zed](https://open.spotify.com/artist/4mPkv3XVHp9mMeSXp5Ix3D) | [king of loathing](https://open.spotify.com/album/2kTnPqYQxVZpF3Y2UQEPQr) | 2:45 | 2023-12-01 | 2025-06-28 |
 | [king of the nosebleeds](https://open.spotify.com/track/5CM1jEYAsLwhhQEUYwEBs7) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [king of the nosebleeds](https://open.spotify.com/album/5SBNC9CXJt023DHcVAPUJH) | 2:42 | 2021-04-10 | 2021-05-29 |
 | [kiss me before u go.](https://open.spotify.com/track/1n6wEo9WEfUHm2VcOx67dw) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [kiss me before u go.](https://open.spotify.com/album/0qXF4bLph1rkzuE1x6ZLcJ) | 4:03 | 2022-09-16 | 2024-01-27 |
 | [Kiss Me on the Floor](https://open.spotify.com/track/5wIBA1lYaBIrycozAWCqyI) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Kiss Me on the Floor](https://open.spotify.com/album/4X7CbXtYH209XThPd3sdSr) | 2:54 | 2023-11-10 | 2025-05-31 |
@@ -1010,7 +1012,7 @@
 | [Silver Lining](https://open.spotify.com/track/4tw3eWyL5mzal4LbQUCjkB) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Wish](https://open.spotify.com/album/1Qoflw9wKOPA9FLF1BBaFL) | 3:39 | 2022-11-18 | 2023-01-28 |
 | [Since I Met You](https://open.spotify.com/track/2V5rvUTRORhRqRIamSO5ZW) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Since I Met You](https://open.spotify.com/album/0wctdcNAm9vZGtGwRLYRa2) | 4:30 | 2022-03-04 | 2022-04-02 |
 | [Sit on Your Hands](https://open.spotify.com/track/1AUl49yGgselgHvW6DKQpx) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Sit on Your Hands](https://open.spotify.com/album/6MwVFr8VucrU2kVVAI3xqQ) | 2:55 | 2021-02-27 | 2021-05-03 |
-| [Sleep it Off](https://open.spotify.com/track/1slsHonIGXvJZZWPoNxYXW) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Sleep it Off](https://open.spotify.com/album/5IZvjCISbH1d0Pg9j3xY5n) | 3:02 | 2024-04-05 |  |
+| [Sleep it Off](https://open.spotify.com/track/1slsHonIGXvJZZWPoNxYXW) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Sleep it Off](https://open.spotify.com/album/5IZvjCISbH1d0Pg9j3xY5n) | 3:02 | 2024-04-05 | 2025-06-28 |
 | [sleeping on the floor](https://open.spotify.com/track/2SaMMF3gwdwTjWuR44LETg) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [sleeping on the floor](https://open.spotify.com/album/4MQRdmpYmA0GZx8XoUJLYi) | 2:33 | 2022-03-04 | 2022-04-09 |
 | [Sleepwalker](https://open.spotify.com/track/6GsHmYdV3mZZA1poF3hEuO) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Sleepwalker](https://open.spotify.com/album/5LpxCSKfeBH5lsn3R6U5bE) | 3:17 | 2021-07-17 | 2021-10-09 |
 | [Slip Away](https://open.spotify.com/track/5MRQTVKZkDu4vYGRSpq6wM) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [Mystic I.](https://open.spotify.com/artist/47FZ69r6ttcVTmVAQa1nOT) | [Slip Away](https://open.spotify.com/album/675mGNtA8j1G2FtrsCB6zb) | 3:33 | 2021-06-19 | 2021-07-04 |

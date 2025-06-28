@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: The Beaches
 
-1,590 songs - 3 day 19 hr 14 min
+1,591 songs - 3 day 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Bad Luck](https://open.spotify.com/track/6SfellStjQsIgVgQQaQGWP) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Bad Luck](https://open.spotify.com/album/1vtE0F6AF5jn4XQzpXyJRi) | 3:33 | 2025-05-29 | 2025-06-20 |
 | [Bad Luck](https://open.spotify.com/track/1Ln6nNE0NKKCEmxSkBNGsT) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Bad Luck](https://open.spotify.com/album/1nX5ipB1JDiptJyxwt4gTO) | 3:22 | 2024-06-28 | 2024-07-19 |
 | [Bad Remake](https://open.spotify.com/track/5UH4N852wbIVUcMfPGquu1) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens \(5th Anniversary Edition\)](https://open.spotify.com/album/3GbofUquULdgvfmK83AXVz) | 3:08 | 2024-07-18 | 2024-08-02 |
-| [Bag Of Bones](https://open.spotify.com/track/1M2AqYT4Y6X0zRboZgIw8K) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Bag Of Bones](https://open.spotify.com/album/4tWOuqMX9aMpFxvNU1WkYl) | 4:04 | 2025-06-26 |  |
+| [Bag of Bones](https://open.spotify.com/track/1M2AqYT4Y6X0zRboZgIw8K) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Bag of Bones](https://open.spotify.com/album/4tWOuqMX9aMpFxvNU1WkYl) | 4:04 | 2025-06-26 |  |
 | [Ballerina](https://open.spotify.com/track/1ctY8BRqB4b9VB2beSyhz7) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Ballerina](https://open.spotify.com/album/0adQNyh7TT9VQME29b0ZLn) | 2:58 | 2025-03-06 | 2025-03-21 |
 | [Bananas + Apples](https://open.spotify.com/track/49I0LFzwVyEJPf9JUIQkSv) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Bananas + Apples](https://open.spotify.com/album/1igT22OZMYOSugNkSbtLUU) | 2:35 | 2024-06-28 | 2024-07-05 |
 | [Bang Bang Bang](https://open.spotify.com/track/6SZiBRJYG3rd3yiU4PDsxZ) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Bang Bang Bang](https://open.spotify.com/album/4xxuqs9e7upJFfloA8hX4W) | 3:39 | 2025-01-09 | 2025-01-31 |
@@ -1441,6 +1441,7 @@
 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 | 2025-03-06 | 2025-04-04 |
 | [Tormenta](https://open.spotify.com/track/2a9Rtd2qgzq4A5TTJteuBI) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [East My Love](https://open.spotify.com/album/56MC7cZZaIMukrs6UaF4mg) | 3:51 | 2024-10-10 | 2024-10-25 |
 | [TOUCH](https://open.spotify.com/track/1EaLmOCWwfmvBfwlRoKUpA) | [NEEVE](https://open.spotify.com/artist/6Ais7UkieGvrmSxQ8eAull) | [TOUCH](https://open.spotify.com/album/4GazEmWfRF6yUaZ5ZI6jEj) | 3:36 | 2025-02-13 | 2025-02-28 |
+| [Touch Myself](https://open.spotify.com/track/79Ore5BQ07MSJHRjUs1K3x) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Touch Myself](https://open.spotify.com/album/1XoJB2QVjjCKRVtPNu4cnb) | 3:09 | 2025-06-27 |  |
 | [Tough Love Paradigm](https://open.spotify.com/track/2QIt3LukTeJR4DomwpcKVN) | [Laura Lee & the Jettes](https://open.spotify.com/artist/4727cuqI1mSh8LKNSjG6xr) | [Tough Love Paradigm](https://open.spotify.com/album/6ueN0TyrrYaYLqDY7XXH5L) | 2:57 | 2025-02-20 | 2025-03-21 |
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-04-25 |

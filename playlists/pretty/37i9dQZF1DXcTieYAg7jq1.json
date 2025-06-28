@@ -1,13 +1,33 @@
 {
   "description": "Featuring that new vintage. Cover: grentperez",
-  "num_followers": 417478,
+  "num_followers": 417445,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aExLHAAAAABqQyqVyqjNoRVcvSZCv6Cs",
+  "snapshot_id": "aF4XXAAAAAAEhe/ITPxO0X1KqJtZvqEM",
   "tracks": [
+    {
+      "added_at": "2025-06-27 04:00:28",
+      "album": {
+        "name": "Summertime Blue",
+        "url": "https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 210296,
+      "name": "Summertime Blue",
+      "url": "https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts"
+    },
     {
       "added_at": "2025-06-13 16:00:28",
       "album": {
@@ -1111,22 +1131,6 @@
       "duration_ms": 160500,
       "name": "Youniverse",
       "url": "https://open.spotify.com/track/7leBNpRPcy10AxJCG8UesN"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 205265,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/3pBncKks8ZvP64uXIPms7Q"
     },
     {
       "added_at": "2024-03-15 04:01:00",

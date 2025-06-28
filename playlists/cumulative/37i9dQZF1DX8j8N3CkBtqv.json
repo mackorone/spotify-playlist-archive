@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Dikshant and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Justh and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -860,7 +860,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 174222,
       "name": "Aashiyan",
       "url": "https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h"
@@ -2422,6 +2422,28 @@
       "duration_ms": 218342,
       "name": "Barbaad",
       "url": "https://open.spotify.com/track/63vqn1STGPk3GMH5QTwTyp"
+    },
+    {
+      "album": {
+        "name": "Barbaadi",
+        "url": "https://open.spotify.com/album/18sCJIWlucwrqdnazaVKKl"
+      },
+      "artists": [
+        {
+          "name": "KhoslaRaghu",
+          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
+        },
+        {
+          "name": "Jakhar",
+          "url": "https://open.spotify.com/artist/5ixfE5Gruh9c4sCudjTzNk"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183913,
+      "name": "Barbaadi",
+      "url": "https://open.spotify.com/track/7G9x4ydZVnZBASY6Y8Ey3k"
     },
     {
       "album": {
@@ -4376,7 +4398,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 225238,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/4vrm28ZaChNrYeMjs5PZuG"
@@ -5573,6 +5595,28 @@
     },
     {
       "album": {
+        "name": "Ehsaas (Acoustic)",
+        "url": "https://open.spotify.com/album/3F5bopgEP7PUYrDtDBzW3y"
+      },
+      "artists": [
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "UNPLG'd",
+          "url": "https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83181,
+      "name": "Ehsaas - Acoustic",
+      "url": "https://open.spotify.com/track/1ZFWIJZyYvsOhN2yMC9Cca"
+    },
+    {
+      "album": {
         "name": "Ek Aur Nadiya",
         "url": "https://open.spotify.com/album/0CEXBigwli6EFoYqMvGf6k"
       },
@@ -5670,7 +5714,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 179257,
       "name": "ESWY",
       "url": "https://open.spotify.com/track/1yazBO7fdWNDUcr3uuRbTr"
@@ -8570,7 +8614,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-16",
+      "date_removed": null,
       "duration_ms": 158483,
       "name": "Jab Mila Tu",
       "url": "https://open.spotify.com/track/6y7GIEEmOatGnxZzVdGd8W"
@@ -8896,7 +8940,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 195182,
       "name": "Jhoom Jhoom",
       "url": "https://open.spotify.com/track/0rdoFMxuzx24AsnvfHjBEx"
@@ -9364,7 +9408,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 154105,
       "name": "Kab Aur Kaise",
       "url": "https://open.spotify.com/track/1deiRYIJxWtk7DMDNjjgJO"
@@ -9810,7 +9854,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 218882,
       "name": "Kaise Kahun",
       "url": "https://open.spotify.com/track/1DLjYfDBS2bwdpcUyb2sHq"
@@ -10036,7 +10080,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 387500,
       "name": "Kaun Gali Gayo Shyam",
       "url": "https://open.spotify.com/track/13m2TP9UR1Ut7ngzTnFi62"
@@ -11448,6 +11492,24 @@
       "duration_ms": 174285,
       "name": "Koi Tumsa Nahi",
       "url": "https://open.spotify.com/track/3eggOTb2ZE0UvLl0U3KFq3"
+    },
+    {
+      "album": {
+        "name": "Kuch Pal Yahin",
+        "url": "https://open.spotify.com/album/3XsFxIsctoljjoiTEwLFi4"
+      },
+      "artists": [
+        {
+          "name": "Anand Bhaskar Collective",
+          "url": "https://open.spotify.com/artist/45m11y8OUyx5EgHiKvEC3c"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Kuch Pal Yahin",
+      "url": "https://open.spotify.com/track/6I2m7HjkJpRrkBp8Kah5Lm"
     },
     {
       "album": {
@@ -17137,6 +17199,28 @@
     },
     {
       "album": {
+        "name": "Saaiyaan Ve",
+        "url": "https://open.spotify.com/album/6Crw6Uzyvt4FJ4ayhYgptR"
+      },
+      "artists": [
+        {
+          "name": "Abhishek Mathur",
+          "url": "https://open.spotify.com/artist/2Mmj7hDaEvH6HhlUYKo3a3"
+        },
+        {
+          "name": "Arjit Srivastava",
+          "url": "https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180600,
+      "name": "Saaiyaan Ve",
+      "url": "https://open.spotify.com/track/6gtd37ycQvDNh3tEKRnQdS"
+    },
+    {
+      "album": {
         "name": "Saalo Se",
         "url": "https://open.spotify.com/album/4ngEajgZgykMDA11vydy0p"
       },
@@ -18572,7 +18656,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 165640,
       "name": "Simti",
       "url": "https://open.spotify.com/track/0EYrMu9FdtUTMZ8EK6cg5Q"
@@ -18742,7 +18826,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 176156,
       "name": "Space Mein",
       "url": "https://open.spotify.com/track/2k0etpq0NUhxhMy5ZvWvEO"
@@ -19452,7 +19536,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 166000,
       "name": "TERA PATA",
       "url": "https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU"
@@ -19510,7 +19594,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 225000,
       "name": "Tera Yaar",
       "url": "https://open.spotify.com/track/3tkNHs9hFAnMmCxWsUOpN9"
@@ -20110,7 +20194,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 170512,
       "name": "The Lovey Dovey Song",
       "url": "https://open.spotify.com/track/5nqZmbB3xB0RO0RooubM4n"
@@ -21161,6 +21245,24 @@
     },
     {
       "album": {
+        "name": "Pata",
+        "url": "https://open.spotify.com/album/2MYx8x9zEVAX5c99paLZ0A"
+      },
+      "artists": [
+        {
+          "name": "Akash Kaushal",
+          "url": "https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Tujhsa Na Koi",
+      "url": "https://open.spotify.com/track/5vt6phoMEMvVREJcjvcnM0"
+    },
+    {
+      "album": {
         "name": "Tum",
         "url": "https://open.spotify.com/album/4u5Rq2VRdY4OVgeqFe9cyM"
       },
@@ -21260,6 +21362,28 @@
       "duration_ms": 183847,
       "name": "Tum Jo",
       "url": "https://open.spotify.com/track/05INid8x3KFQk37uCJ4lPl"
+    },
+    {
+      "album": {
+        "name": "Tum Jo Ho Yahaan",
+        "url": "https://open.spotify.com/album/2Sc6yA2cVncUk3FIhnJ3b1"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        },
+        {
+          "name": "Akarsh Shetty",
+          "url": "https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216400,
+      "name": "Tum Jo Ho Yahaan",
+      "url": "https://open.spotify.com/track/5Cef8JeRs1fvxp4cpiej7E"
     },
     {
       "album": {
@@ -21612,6 +21736,24 @@
       "duration_ms": 323700,
       "name": "Under The Sheets",
       "url": "https://open.spotify.com/track/3JIdAllIMfaBqHfXjpw9fN"
+    },
+    {
+      "album": {
+        "name": "Unse Jaake Kehdo",
+        "url": "https://open.spotify.com/album/6fl0XZZ3Prg5rfGSjdsgAV"
+      },
+      "artists": [
+        {
+          "name": "Justh",
+          "url": "https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177105,
+      "name": "Unse Jaake Kehdo",
+      "url": "https://open.spotify.com/track/0dIx5mpqRNeddiezetQH1X"
     },
     {
       "album": {

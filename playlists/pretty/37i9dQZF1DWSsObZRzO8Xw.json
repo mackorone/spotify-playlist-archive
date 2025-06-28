@@ -1,6 +1,6 @@
 {
   "description": "Complex rhythms and mesmerizing loops. Cover: LITE",
-  "num_followers": 201056,
+  "num_followers": 201117,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-06-05 10:56:13",
       "album": {
-        "name": "The Second Floral - EP",
-        "url": "https://open.spotify.com/album/56WclCoxH3fyAe1Z8QmbKu"
-      },
-      "artists": [
-        {
-          "name": "Floral",
-          "url": "https://open.spotify.com/artist/1FVOt1XlpnaCueBolWF92k"
-        }
-      ],
-      "duration_ms": 204454,
-      "name": "Marsh Partition",
-      "url": "https://open.spotify.com/track/3NrmXanmUQKkbJEUQlgQUv"
-    },
-    {
-      "added_at": "2025-06-05 10:56:13",
-      "album": {
         "name": "TNT",
         "url": "https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 284666,
       "name": "Ten-Day Interval",
       "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
+    },
+    {
+      "added_at": "2025-06-05 10:56:13",
+      "album": {
+        "name": "The Second Floral - EP",
+        "url": "https://open.spotify.com/album/56WclCoxH3fyAe1Z8QmbKu"
+      },
+      "artists": [
+        {
+          "name": "Floral",
+          "url": "https://open.spotify.com/artist/1FVOt1XlpnaCueBolWF92k"
+        }
+      ],
+      "duration_ms": 204454,
+      "name": "Marsh Partition",
+      "url": "https://open.spotify.com/track/3NrmXanmUQKkbJEUQlgQUv"
     },
     {
       "added_at": "2025-06-05 10:56:13",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-06-05 10:56:13",
       "album": {
-        "name": "A Forest of Polarity",
-        "url": "https://open.spotify.com/album/6MUQF78jqyNY73S9XbcF8o"
-      },
-      "artists": [
-        {
-          "name": "Rooftops",
-          "url": "https://open.spotify.com/artist/4HBe2DscKcmFAjL1ml3Lx6"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "Raft Easily",
-      "url": "https://open.spotify.com/track/31jGKJm3lNbQJgUx6mnt9r"
-    },
-    {
-      "added_at": "2025-06-05 10:56:13",
-      "album": {
         "name": "Gloss Drop",
         "url": "https://open.spotify.com/album/4oX4lpSnDyqQ2oadKTlcaR"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 377493,
       "name": "Futura",
       "url": "https://open.spotify.com/track/19I9rURZV4nIGyutPTyaNL"
+    },
+    {
+      "added_at": "2025-06-05 10:56:13",
+      "album": {
+        "name": "A Forest of Polarity",
+        "url": "https://open.spotify.com/album/6MUQF78jqyNY73S9XbcF8o"
+      },
+      "artists": [
+        {
+          "name": "Rooftops",
+          "url": "https://open.spotify.com/artist/4HBe2DscKcmFAjL1ml3Lx6"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Raft Easily",
+      "url": "https://open.spotify.com/track/31jGKJm3lNbQJgUx6mnt9r"
     },
     {
       "added_at": "2025-06-05 10:56:13",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-06-05 10:56:13",
       "album": {
-        "name": "13.0.0.0.0",
-        "url": "https://open.spotify.com/album/3QQOkN9iqJJrwXohbNYRiP"
-      },
-      "artists": [
-        {
-          "name": "TTNG",
-          "url": "https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0"
-        }
-      ],
-      "duration_ms": 293986,
-      "name": "Cat Fantastic",
-      "url": "https://open.spotify.com/track/1kaWnMc0ryiFtPwWVKmZtb"
-    },
-    {
-      "added_at": "2025-06-05 10:56:13",
-      "album": {
         "name": "51\u00b031'47\"S 58\u00b007'44\"W",
         "url": "https://open.spotify.com/album/6G3EKAe7lqV1xYaLGxow6O"
       },
@@ -967,18 +951,34 @@
     {
       "added_at": "2025-06-05 10:56:13",
       "album": {
-        "name": "Puentes",
-        "url": "https://open.spotify.com/album/6W6g0kxcsUSQMBoWX4PenA"
+        "name": "13.0.0.0.0",
+        "url": "https://open.spotify.com/album/3QQOkN9iqJJrwXohbNYRiP"
       },
       "artists": [
         {
-          "name": "Helices",
-          "url": "https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28"
+          "name": "TTNG",
+          "url": "https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0"
         }
       ],
-      "duration_ms": 226173,
-      "name": "Crucemos los Puentes...",
-      "url": "https://open.spotify.com/track/0a8K9xaZzEmjoE7LemJUjE"
+      "duration_ms": 293986,
+      "name": "Cat Fantastic",
+      "url": "https://open.spotify.com/track/1kaWnMc0ryiFtPwWVKmZtb"
+    },
+    {
+      "added_at": "2025-06-05 10:56:13",
+      "album": {
+        "name": "We've Been Talking",
+        "url": "https://open.spotify.com/album/05FuPZpstZ3mjQtejnSSyO"
+      },
+      "artists": [
+        {
+          "name": "Enemies",
+          "url": "https://open.spotify.com/artist/5vfSFPrDPPBGExVLldEDOB"
+        }
+      ],
+      "duration_ms": 254320,
+      "name": "Backaches & Cardigans",
+      "url": "https://open.spotify.com/track/6PN7F72jxtLpO4xyyD245l"
     },
     {
       "added_at": "2025-06-05 10:56:13",
@@ -999,18 +999,18 @@
     {
       "added_at": "2025-06-05 10:56:13",
       "album": {
-        "name": "We've Been Talking",
-        "url": "https://open.spotify.com/album/05FuPZpstZ3mjQtejnSSyO"
+        "name": "Puentes",
+        "url": "https://open.spotify.com/album/6W6g0kxcsUSQMBoWX4PenA"
       },
       "artists": [
         {
-          "name": "Enemies",
-          "url": "https://open.spotify.com/artist/5vfSFPrDPPBGExVLldEDOB"
+          "name": "Helices",
+          "url": "https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28"
         }
       ],
-      "duration_ms": 254320,
-      "name": "Backaches & Cardigans",
-      "url": "https://open.spotify.com/track/6PN7F72jxtLpO4xyyD245l"
+      "duration_ms": 226173,
+      "name": "Crucemos los Puentes...",
+      "url": "https://open.spotify.com/track/0a8K9xaZzEmjoE7LemJUjE"
     },
     {
       "added_at": "2025-06-05 10:56:13",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2025-06-05 10:56:13",
       "album": {
+        "name": "Muted Earth",
+        "url": "https://open.spotify.com/album/6jw9yrfHNn1Yigjnlunk0L"
+      },
+      "artists": [
+        {
+          "name": "Via Luna",
+          "url": "https://open.spotify.com/artist/3qu0nHytyZet7JFUe2Afow"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "Infinite Spice",
+      "url": "https://open.spotify.com/track/40hF24KMxg9LpglA9We3As"
+    },
+    {
+      "added_at": "2025-06-05 10:56:13",
+      "album": {
         "name": "Morbid Curiosity",
         "url": "https://open.spotify.com/album/4JlMkyYC15UyfYmTRSIw71"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 126789,
       "name": "Not To Follow",
       "url": "https://open.spotify.com/track/4BtSV1NPe5gFX24IwiAHVw"
-    },
-    {
-      "added_at": "2025-06-05 10:56:13",
-      "album": {
-        "name": "Canis Allegro",
-        "url": "https://open.spotify.com/album/71YTAB1yF7RROLkgKOLFy6"
-      },
-      "artists": [
-        {
-          "name": "DJ Perro",
-          "url": "https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE"
-        }
-      ],
-      "duration_ms": 302869,
-      "name": "Jazztas",
-      "url": "https://open.spotify.com/track/6Zgvox4B5noLH83xf0ZiUC"
     },
     {
       "added_at": "2025-06-05 10:56:13",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2025-06-05 10:56:13",
       "album": {
-        "name": "Muted Earth",
-        "url": "https://open.spotify.com/album/6jw9yrfHNn1Yigjnlunk0L"
+        "name": "Canis Allegro",
+        "url": "https://open.spotify.com/album/71YTAB1yF7RROLkgKOLFy6"
       },
       "artists": [
         {
-          "name": "Via Luna",
-          "url": "https://open.spotify.com/artist/3qu0nHytyZet7JFUe2Afow"
+          "name": "DJ Perro",
+          "url": "https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE"
         }
       ],
-      "duration_ms": 251600,
-      "name": "Infinite Spice",
-      "url": "https://open.spotify.com/track/40hF24KMxg9LpglA9We3As"
+      "duration_ms": 302869,
+      "name": "Jazztas",
+      "url": "https://open.spotify.com/track/6Zgvox4B5noLH83xf0ZiUC"
     },
     {
       "added_at": "2025-06-05 10:56:13",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-06-05 10:56:13",
       "album": {
-        "name": "Asbestos Weak Hood",
-        "url": "https://open.spotify.com/album/4g3y6JrQ6Jr065jNCoWPo1"
-      },
-      "artists": [
-        {
-          "name": "Narrow / Arrow",
-          "url": "https://open.spotify.com/artist/7al8a2jU7x4H9AcA7TeyqE"
-        }
-      ],
-      "duration_ms": 182750,
-      "name": "Ruth Leslie (Cigregrets Pt. 1)",
-      "url": "https://open.spotify.com/track/6W9yjiuIczOUQlp1jG3FwE"
-    },
-    {
-      "added_at": "2025-06-05 10:56:13",
-      "album": {
         "name": "All We Need Is A Little Energon And A Lot Of Luck",
         "url": "https://open.spotify.com/album/20zLM4mMsPQVVKiaXMxylI"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 224906,
       "name": "All We Need Is A Little Energon And A Lot Of Luck",
       "url": "https://open.spotify.com/track/5Ot1YTCuTtmqfcH01kN6fT"
+    },
+    {
+      "added_at": "2025-06-05 10:56:13",
+      "album": {
+        "name": "Asbestos Weak Hood",
+        "url": "https://open.spotify.com/album/4g3y6JrQ6Jr065jNCoWPo1"
+      },
+      "artists": [
+        {
+          "name": "Narrow / Arrow",
+          "url": "https://open.spotify.com/artist/7al8a2jU7x4H9AcA7TeyqE"
+        }
+      ],
+      "duration_ms": 182750,
+      "name": "Ruth Leslie (Cigregrets Pt. 1)",
+      "url": "https://open.spotify.com/track/6W9yjiuIczOUQlp1jG3FwE"
     },
     {
       "added_at": "2025-06-05 10:56:13",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2025-06-05 10:56:13",
       "album": {
-        "name": "The Endless Shimmering",
-        "url": "https://open.spotify.com/album/5EQ5o0bmdRsKTyBaca3l9r"
+        "name": "H/O",
+        "url": "https://open.spotify.com/album/79CuH08z17MxOuRrg5tcnm"
       },
       "artists": [
         {
-          "name": "And So I Watch You from Afar",
-          "url": "https://open.spotify.com/artist/7qKMNwlACMZOUdMG3acwst"
+          "name": "Heavy Ocean",
+          "url": "https://open.spotify.com/artist/6rq67hJkJ6vGBYFzFYznhX"
         }
       ],
-      "duration_ms": 233200,
-      "name": "Mullally",
-      "url": "https://open.spotify.com/track/02tJP7k7AstDD5wLrRb16H"
+      "duration_ms": 455375,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/5rBHLH0hvxaX2oVQqBUWdb"
     },
     {
       "added_at": "2025-06-05 10:56:13",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-06-05 10:56:13",
       "album": {
-        "name": "H/O",
-        "url": "https://open.spotify.com/album/79CuH08z17MxOuRrg5tcnm"
-      },
-      "artists": [
-        {
-          "name": "Heavy Ocean",
-          "url": "https://open.spotify.com/artist/6rq67hJkJ6vGBYFzFYznhX"
-        }
-      ],
-      "duration_ms": 455375,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/5rBHLH0hvxaX2oVQqBUWdb"
-    },
-    {
-      "added_at": "2025-06-05 10:56:13",
-      "album": {
         "name": "Alexander Supertramp",
         "url": "https://open.spotify.com/album/1zxkyKlgkOYdNGMu1JKeoj"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 277300,
       "name": "Alexander Supertramp",
       "url": "https://open.spotify.com/track/0EMVbySv8ObWdQwBLfqRis"
+    },
+    {
+      "added_at": "2025-06-05 10:56:13",
+      "album": {
+        "name": "The Endless Shimmering",
+        "url": "https://open.spotify.com/album/5EQ5o0bmdRsKTyBaca3l9r"
+      },
+      "artists": [
+        {
+          "name": "And So I Watch You from Afar",
+          "url": "https://open.spotify.com/artist/7qKMNwlACMZOUdMG3acwst"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "Mullally",
+      "url": "https://open.spotify.com/track/02tJP7k7AstDD5wLrRb16H"
     },
     {
       "added_at": "2025-06-05 10:56:13",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2025-06-05 10:56:13",
       "album": {
-        "name": "Celebrities",
-        "url": "https://open.spotify.com/album/5zhLoUfVcnW5Vl7iiZ5FDt"
+        "name": "As Seen from Above",
+        "url": "https://open.spotify.com/album/4AcT3bvC9fETTGSk70doVX"
       },
       "artists": [
         {
-          "name": "Collections Of Colonies Of Bees",
-          "url": "https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp"
+          "name": "Dianogah",
+          "url": "https://open.spotify.com/artist/1VgnczxN9UlQeFTrh1S8MB"
         }
       ],
-      "duration_ms": 247426,
-      "name": "You can go again",
-      "url": "https://open.spotify.com/track/2zPPDLU1JXimTWoBkt8izs"
+      "duration_ms": 174381,
+      "name": "What Is Your Landmass",
+      "url": "https://open.spotify.com/track/1Xa7m0ox4oasvPBnXhD7ZY"
     },
     {
       "added_at": "2025-06-05 10:56:13",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2025-06-05 10:56:13",
       "album": {
-        "name": "As Seen from Above",
-        "url": "https://open.spotify.com/album/4AcT3bvC9fETTGSk70doVX"
+        "name": "Celebrities",
+        "url": "https://open.spotify.com/album/5zhLoUfVcnW5Vl7iiZ5FDt"
       },
       "artists": [
         {
-          "name": "Dianogah",
-          "url": "https://open.spotify.com/artist/1VgnczxN9UlQeFTrh1S8MB"
+          "name": "Collections Of Colonies Of Bees",
+          "url": "https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp"
         }
       ],
-      "duration_ms": 174381,
-      "name": "What Is Your Landmass",
-      "url": "https://open.spotify.com/track/1Xa7m0ox4oasvPBnXhD7ZY"
+      "duration_ms": 247426,
+      "name": "You can go again",
+      "url": "https://open.spotify.com/track/2zPPDLU1JXimTWoBkt8izs"
     },
     {
       "added_at": "2025-06-05 10:56:13",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-06-05 10:56:13",
       "album": {
-        "name": "Migraciones",
-        "url": "https://open.spotify.com/album/2qcpWhahuyWze2ZBgMs6Q1"
-      },
-      "artists": [
-        {
-          "name": "Kinder",
-          "url": "https://open.spotify.com/artist/6Pan5A16TZ1aKMIpnePAZ9"
-        }
-      ],
-      "duration_ms": 249991,
-      "name": "El Exilio de Godomar",
-      "url": "https://open.spotify.com/track/0xTQOwPqhscDPtv8xTvOUc"
-    },
-    {
-      "added_at": "2025-06-05 10:56:13",
-      "album": {
         "name": "Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 245290,
       "name": "Habanero",
       "url": "https://open.spotify.com/track/7AJzgN9RR0OJBQF8gnBaa7"
+    },
+    {
+      "added_at": "2025-06-05 10:56:13",
+      "album": {
+        "name": "Migraciones",
+        "url": "https://open.spotify.com/album/2qcpWhahuyWze2ZBgMs6Q1"
+      },
+      "artists": [
+        {
+          "name": "Kinder",
+          "url": "https://open.spotify.com/artist/6Pan5A16TZ1aKMIpnePAZ9"
+        }
+      ],
+      "duration_ms": 249991,
+      "name": "El Exilio de Godomar",
+      "url": "https://open.spotify.com/track/0xTQOwPqhscDPtv8xTvOUc"
     },
     {
       "added_at": "2025-06-05 10:56:13",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-06-05 10:56:13",
       "album": {
-        "name": "P\u00e1ramo",
-        "url": "https://open.spotify.com/album/6dvTFKqd5icLCXWLL1NlNz"
-      },
-      "artists": [
-        {
-          "name": "Def\u00f3rmica",
-          "url": "https://open.spotify.com/artist/2472MBj59UMXdRCn5zwbwF"
-        }
-      ],
-      "duration_ms": 303893,
-      "name": "Novelesco",
-      "url": "https://open.spotify.com/track/34EmVSEZKS6hrEVAVtGMdN"
-    },
-    {
-      "added_at": "2025-06-05 10:56:13",
-      "album": {
         "name": "Gagarin",
         "url": "https://open.spotify.com/album/2xzQosacFq29224Y7Ruz7t"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 188485,
       "name": "Gagarin",
       "url": "https://open.spotify.com/track/5yY29OtZoi8LoGS2HAv5dO"
+    },
+    {
+      "added_at": "2025-06-05 10:56:13",
+      "album": {
+        "name": "P\u00e1ramo",
+        "url": "https://open.spotify.com/album/6dvTFKqd5icLCXWLL1NlNz"
+      },
+      "artists": [
+        {
+          "name": "Def\u00f3rmica",
+          "url": "https://open.spotify.com/artist/2472MBj59UMXdRCn5zwbwF"
+        }
+      ],
+      "duration_ms": 303893,
+      "name": "Novelesco",
+      "url": "https://open.spotify.com/track/34EmVSEZKS6hrEVAVtGMdN"
     },
     {
       "added_at": "2025-06-05 10:56:13",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-06-05 10:56:13",
       "album": {
-        "name": "Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw"
-      },
-      "artists": [
-        {
-          "name": "FRDZ",
-          "url": "https://open.spotify.com/artist/3jNpad0kg45sRNra2vNp3t"
-        }
-      ],
-      "duration_ms": 141306,
-      "name": "Ausente",
-      "url": "https://open.spotify.com/track/5mZbQmUlpLaq5ZFSsGcVE6"
-    },
-    {
-      "added_at": "2025-06-05 10:56:13",
-      "album": {
         "name": "Patagonian Rats",
         "url": "https://open.spotify.com/album/1iJJ7eJ6xsEvmdCSHb8wp2"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 81440,
       "name": "Kelly",
       "url": "https://open.spotify.com/track/1lCNGICdfBgQXCV2Xq9nIR"
+    },
+    {
+      "added_at": "2025-06-05 10:56:13",
+      "album": {
+        "name": "Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw"
+      },
+      "artists": [
+        {
+          "name": "FRDZ",
+          "url": "https://open.spotify.com/artist/3jNpad0kg45sRNra2vNp3t"
+        }
+      ],
+      "duration_ms": 141306,
+      "name": "Ausente",
+      "url": "https://open.spotify.com/track/5mZbQmUlpLaq5ZFSsGcVE6"
     },
     {
       "added_at": "2025-06-05 10:56:13",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2025-06-05 10:56:13",
       "album": {
-        "name": "Retcon",
-        "url": "https://open.spotify.com/album/5Jc8bTdM6qeNF0debAlSjR"
-      },
-      "artists": [
-        {
-          "name": "Mylets",
-          "url": "https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR"
-        }
-      ],
-      "duration_ms": 256629,
-      "name": "Hungover Tehran",
-      "url": "https://open.spotify.com/track/4Ozb0oXQEVavh1er60QOtx"
-    },
-    {
-      "added_at": "2025-06-05 10:56:13",
-      "album": {
         "name": "X'ed Out",
         "url": "https://open.spotify.com/album/4lIHKIHcnZsAWupf7yqrxA"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 185186,
       "name": "Weird Circles",
       "url": "https://open.spotify.com/track/7nID1npv2tn9TNcoCxhSjz"
+    },
+    {
+      "added_at": "2025-06-05 10:56:13",
+      "album": {
+        "name": "Retcon",
+        "url": "https://open.spotify.com/album/5Jc8bTdM6qeNF0debAlSjR"
+      },
+      "artists": [
+        {
+          "name": "Mylets",
+          "url": "https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR"
+        }
+      ],
+      "duration_ms": 256629,
+      "name": "Hungover Tehran",
+      "url": "https://open.spotify.com/track/4Ozb0oXQEVavh1er60QOtx"
     },
     {
       "added_at": "2025-06-05 10:56:13",

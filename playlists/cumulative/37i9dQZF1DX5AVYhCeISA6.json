@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Becky G nos inspira \ud83c\udf3c",
+  "description": "KAROL G nos inspira \ud83c\udf3c",
   "name": "Inspiring Latinas",
   "tracks": [
+    {
+      "album": {
+        "name": "+ Te Vale",
+        "url": "https://open.spotify.com/album/2IfwhcfV1PJqIOUMNG8Uqs"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144731,
+      "name": "+ Te Vale",
+      "url": "https://open.spotify.com/track/0XWqcDAa5ZCmyBOYukrRoQ"
+    },
     {
       "album": {
         "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
@@ -192,6 +214,28 @@
       "duration_ms": 203546,
       "name": "AMANECER",
       "url": "https://open.spotify.com/track/1JsmV1V1IRPR44tVDHpYUZ"
+    },
+    {
+      "album": {
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224414,
+      "name": "Amiga M\u00eda",
+      "url": "https://open.spotify.com/track/1tTEcJKC5uAtIoPrWCkmXZ"
     },
     {
       "album": {
@@ -394,7 +438,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 196461,
       "name": "Bachatica",
       "url": "https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I"
@@ -619,6 +663,32 @@
     },
     {
       "album": {
+        "name": "blackout \ud83e\uddca",
+        "url": "https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182282,
+      "name": "blackout \ud83e\uddca",
+      "url": "https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6"
+    },
+    {
+      "album": {
         "name": "Bota Ni\u00f1a",
         "url": "https://open.spotify.com/album/3RCMoOMrcSNTHKPVDQRERR"
       },
@@ -634,7 +704,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 209693,
       "name": "Bota Ni\u00f1a",
       "url": "https://open.spotify.com/track/2EbRFerXy6IPM3EfAOqZkB"
@@ -1130,7 +1200,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 226946,
       "name": "dale Play",
       "url": "https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH"
@@ -1426,7 +1496,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 174053,
       "name": "Ella",
       "url": "https://open.spotify.com/track/3eyJFrhS2al1tOzcrcG1P0"
@@ -1488,7 +1558,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 211454,
       "name": "entre las piernas",
       "url": "https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg"
@@ -1688,7 +1758,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 177961,
       "name": "GOMEZX4",
       "url": "https://open.spotify.com/track/3v4zqbY7qXJTIbmlexy9Sg"
@@ -1750,6 +1820,28 @@
       "duration_ms": 233906,
       "name": "Hoy Ya Me Voy (feat. Franco de Vita)",
       "url": "https://open.spotify.com/track/7vw2L7CJS7uXSX5gOty4Nt"
+    },
+    {
+      "album": {
+        "name": "Huir",
+        "url": "https://open.spotify.com/album/58OJHw3hvgRhaoQHlmGV08"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148663,
+      "name": "Huir",
+      "url": "https://open.spotify.com/track/4F4bjPeMNJDrGK1FJW215W"
     },
     {
       "album": {
@@ -1874,6 +1966,24 @@
       "duration_ms": 216533,
       "name": "Inventas",
       "url": "https://open.spotify.com/track/48eeeHvDzNvtJiQh5XDs2N"
+    },
+    {
+      "album": {
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222458,
+      "name": "Ivonny Bonita",
+      "url": "https://open.spotify.com/track/6Sv0CzVqzydd7NYQgAG70c"
     },
     {
       "album": {
@@ -2622,7 +2732,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 210986,
       "name": "MA\u00d1ANA SER\u00c1 BONITO",
       "url": "https://open.spotify.com/track/4bycD60yZgR6anIBtmU8UH"
@@ -2684,6 +2794,32 @@
       "duration_ms": 178946,
       "name": "Minifalda",
       "url": "https://open.spotify.com/track/4cccqGxzMZXzBrdNUKjnIl"
+    },
+    {
+      "album": {
+        "name": "MiuMiu",
+        "url": "https://open.spotify.com/album/1fWk1CMAtVYbXJTUZKUohA"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179374,
+      "name": "MiuMiu",
+      "url": "https://open.spotify.com/track/06P2zNCmRsB8aQBZo78D2o"
     },
     {
       "album": {
@@ -3354,7 +3490,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 210200,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
@@ -3902,6 +4038,32 @@
       "duration_ms": 188560,
       "name": "Sin Pijama",
       "url": "https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww"
+    },
+    {
+      "album": {
+        "name": "SINTIGO",
+        "url": "https://open.spotify.com/album/0wqFd2OdyY5NgnDlTzhDZi"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        },
+        {
+          "name": "Mazzarri",
+          "url": "https://open.spotify.com/artist/5oMID6T6cW3OhZrWIDW3I9"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217614,
+      "name": "SINTIGO",
+      "url": "https://open.spotify.com/track/2xOuv7kfN1luCeosa8O6h9"
     },
     {
       "album": {
@@ -4618,6 +4780,24 @@
       "duration_ms": 195573,
       "name": "Ya T\u00fa Me Conoces",
       "url": "https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE"
+    },
+    {
+      "album": {
+        "name": "PREGUNTAS A LAS 11:11",
+        "url": "https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180949,
+      "name": "\u00bfTrato Hecho?",
+      "url": "https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5AVYhCeISA6"

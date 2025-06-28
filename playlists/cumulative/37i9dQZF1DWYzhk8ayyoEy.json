@@ -438,7 +438,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 201053,
       "name": "Brave",
       "url": "https://open.spotify.com/track/5SfQhaZTGL7IewCIvMifFJ"
@@ -763,6 +763,24 @@
     },
     {
       "album": {
+        "name": "God Knew",
+        "url": "https://open.spotify.com/album/3z6NtEH6ggpXBEj0gi0NoY"
+      },
+      "artists": [
+        {
+          "name": "Michal Leah",
+          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168308,
+      "name": "God Knew",
+      "url": "https://open.spotify.com/track/5mLchdybRi2zTQoQ7Uv7s0"
+    },
+    {
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/1sERYSzi32APhDRjLAAm7r"
       },
@@ -854,6 +872,28 @@
       "duration_ms": 173983,
       "name": "Good Day",
       "url": "https://open.spotify.com/track/5zsTxXxpVzWC9MqeNJ3Pes"
+    },
+    {
+      "album": {
+        "name": "Good Day",
+        "url": "https://open.spotify.com/album/6vXzMurEpo5CEVVyuTUVW2"
+      },
+      "artists": [
+        {
+          "name": "Ryan Mack",
+          "url": "https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt"
+        },
+        {
+          "name": "John Michael Howell",
+          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175357,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/71FIpl2ZZooTLBe0cbNrUi"
     },
     {
       "album": {
@@ -2430,7 +2470,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 187688,
       "name": "Stand Up Eight",
       "url": "https://open.spotify.com/track/0xpfVZCEELk5fD8OUmCnJ6"
@@ -2546,6 +2586,24 @@
       "duration_ms": 207489,
       "name": "Surprise",
       "url": "https://open.spotify.com/track/23yqxyylT3ksA2rLjk3SPC"
+    },
+    {
+      "album": {
+        "name": "Survive",
+        "url": "https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225211,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
     },
     {
       "album": {
@@ -3142,7 +3200,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 210000,
       "name": "World Famous",
       "url": "https://open.spotify.com/track/5sAkUcPjTGQCmPZtyj8GV7"

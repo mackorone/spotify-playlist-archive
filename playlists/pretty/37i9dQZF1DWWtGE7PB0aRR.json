@@ -1,6 +1,6 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 167786,
+  "num_followers": 167852,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
@@ -281,20 +281,20 @@
       "url": "https://open.spotify.com/track/0gHjMu0zgdBA0GcaA6B6x0"
     },
     {
-      "added_at": "2021-04-22 22:35:02",
+      "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Tattoo (Remastered 2017)",
-        "url": "https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg"
+        "name": "Wailing Again",
+        "url": "https://open.spotify.com/album/7uNZi23dwmDzuvyXw0tiL2"
       },
       "artists": [
         {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+          "name": "Steamhammer",
+          "url": "https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj"
         }
       ],
-      "duration_ms": 244557,
-      "name": "They Don't Make Them Like You Anymore",
-      "url": "https://open.spotify.com/track/5bpefadeY6xmGgkXkylqSt"
+      "duration_ms": 239036,
+      "name": "Junior's Wailing - 21st Century Version",
+      "url": "https://open.spotify.com/track/7IUA28oFz78kpRUx8rDK49"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -315,6 +315,22 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
+        "name": "Tattoo (Remastered 2017)",
+        "url": "https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 244557,
+      "name": "They Don't Make Them Like You Anymore",
+      "url": "https://open.spotify.com/track/5bpefadeY6xmGgkXkylqSt"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 291400,
       "name": "I Ain't Superstitious",
       "url": "https://open.spotify.com/track/1Hm9E70VKLq37oTLESiP6o"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Wailing Again",
-        "url": "https://open.spotify.com/album/7uNZi23dwmDzuvyXw0tiL2"
-      },
-      "artists": [
-        {
-          "name": "Steamhammer",
-          "url": "https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj"
-        }
-      ],
-      "duration_ms": 239036,
-      "name": "Junior's Wailing - 21st Century Version",
-      "url": "https://open.spotify.com/track/7IUA28oFz78kpRUx8rDK49"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "Precious Little",
-        "url": "https://open.spotify.com/album/2B4SeINqci6ufKTo3XNoCN"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Spencer",
-          "url": "https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk"
-        }
-      ],
-      "duration_ms": 289960,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
         "name": "Throw Away Your Blues",
         "url": "https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 298173,
       "name": "If You See Him",
       "url": "https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Precious Little",
+        "url": "https://open.spotify.com/album/2B4SeINqci6ufKTo3XNoCN"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Spencer",
+          "url": "https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk"
+        }
+      ],
+      "duration_ms": 289960,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0"
     },
     {
       "added_at": "2021-04-22 22:35:02",

@@ -4,7 +4,7 @@
 
 > New and local indie noise\. Cover: Lotte Gallagher
 
-594 songs - 1 day 9 hr 12 min
+595 songs - 1 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Afterthought](https://open.spotify.com/track/0BzXYvt2u33TaSbDxHdfFI) | [Coast Arcade](https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC) | [Afterthought](https://open.spotify.com/album/5HGaHnQ16xG7Xd0pyefVf2) | 3:24 | 2024-12-12 | 2025-04-04 |
 | [Again, Again](https://open.spotify.com/track/4EiZVKwcEuZVjXWpZVAoLX) | [Day Dreamers](https://open.spotify.com/artist/1jGia2OegGP0F1ZlEbgcwZ) | [Again, Again](https://open.spotify.com/album/29ZVjFtgrzfQwJXtBH8jaB) | 2:37 | 2025-01-16 | 2025-03-21 |
 | [Ahead Of Myself](https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/4476oK9dDwXluywz166CT1) | 3:44 | 2024-07-11 | 2024-10-04 |
+| [Ain’t For The Faint](https://open.spotify.com/track/6SQuxwoBbp8DlAUStjJ5vB) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Top Heavy](https://open.spotify.com/album/3rUIQo9YmO0tgg7X0tT0TT) | 3:23 | 2025-06-26 |  |
 | [All the Noise](https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [All the Noise](https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc) | 2:59 | 2025-01-16 |  |
 | [all you ever wanted](https://open.spotify.com/track/3e5Naa5Me3ayj6zdalxgh4) | [DIVEBAR YOUTH](https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT) | [all you ever wanted](https://open.spotify.com/album/0x3ctIe3xyiAUYoJbUY1db) | 3:42 | 2024-08-15 | 2024-10-25 |
 | [Already Offline](https://open.spotify.com/track/4WubJzxLtpPhcpR6dGZSjy) | [Charlie Gradon](https://open.spotify.com/artist/7vMRuONPsONKjwXBbbw2aU) | [Colours of My Daydream](https://open.spotify.com/album/4E9plP04VFwVhL4wPJLcr9) | 3:26 | 2024-09-12 | 2024-11-08 |

@@ -4,13 +4,14 @@
 
 > The best of modern blues rock\. Cover: Joe Bonamassa
 
-375 songs - 1 day 0 hr 22 min
+376 songs - 1 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1984](https://open.spotify.com/track/3fj0DAZAGzvwG1Qj59Q8eO) | [The Last Internationale](https://open.spotify.com/artist/2K9hz9205EQR7KkKNdyXFc) | [1984](https://open.spotify.com/album/6GqFl8SgvirIfO71cqh7aI) | 4:31 | 2022-05-13 |  |
 | [6AM](https://open.spotify.com/track/1KqpIJN0QHQisjKwTIQkL1) | [Kris Barras Band](https://open.spotify.com/artist/241MOvr69jR2U48FW5WbKv) | [Light It Up](https://open.spotify.com/album/6Rqox5C3LdLdqOyd1kcdy3) | 3:45 | 2020-10-16 | 2024-04-19 |
 | [6AM](https://open.spotify.com/track/2BfsuErJSI9t2TZb4kUW4h) | [Kris Barras Band](https://open.spotify.com/artist/241MOvr69jR2U48FW5WbKv) | [Light It Up](https://open.spotify.com/album/2MofpH5ZRvvVjF8MnjpqTA) | 3:45 | 2020-10-16 | 2025-02-15 |
+| [7 Generations](https://open.spotify.com/track/3Ng6V9tduQzqGJx7ABoNRz) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Preacher Kids](https://open.spotify.com/album/1fr0maIiPbbXdPyI5hLxnV) | 5:56 | 2025-06-27 |  |
 | [Ain't No Stopping Me](https://open.spotify.com/track/4wC9NoWzDl4UUBZpBwccfN) | [The Fever Dreams](https://open.spotify.com/artist/3q1sMOHeS196UgkfhWFhX0) | [Ain't No Stopping Me](https://open.spotify.com/album/7bloW4tisDJapbL2qCOO8j) | 2:52 | 2024-06-07 | 2025-02-08 |
 | [Ain't None Watered Down](https://open.spotify.com/track/3vlkTPYYJ91dZyQYAci4rD) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Ain't None Watered Down](https://open.spotify.com/album/3wdCBshRudtkeU21nlGgk2) | 3:12 | 2022-08-12 | 2023-04-15 |
 | [Ain’t Nuthin’s Gonna Be Alright](https://open.spotify.com/track/2svoL21ZppcmXbeOjqus6z) | [Jimmy Vivino](https://open.spotify.com/artist/7iofSqO1VWjI5zxIh21vOQ) | [Ain’t Nuthin’s Gonna Be Alright](https://open.spotify.com/album/2m0rIzXNuuARhhzdRkvnFp) | 4:11 | 2025-02-07 |  |
@@ -42,7 +43,7 @@
 | [Between Me and the Devil](https://open.spotify.com/track/0Dt5wjxCps2aaTJnQyt4lb) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [A Little Calamity](https://open.spotify.com/album/7clOVsfQ9IkT4GjjTbtBEZ) | 3:08 | 2021-06-18 | 2024-04-19 |
 | [Between Me and the Devil](https://open.spotify.com/track/3psWJDKW0A50XiCdqg4HVK) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Between Me and the Devil](https://open.spotify.com/album/2LElrhEghTn9zIJXhEer3z) | 3:08 | 2021-06-11 |  |
 | [Big Legged Woman](https://open.spotify.com/track/37RtOpFMu0i0wzjtK7c1bn) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Cannonball](https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu) | 4:00 | 2024-05-24 | 2024-07-06 |
-| [Big Women](https://open.spotify.com/track/2besC8P5XlSgrfx3WlAODD) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Big Women](https://open.spotify.com/album/3odHHsOy9iCoYouoOrH8Gt) | 4:59 | 2025-04-25 |  |
+| [Big Women](https://open.spotify.com/track/2besC8P5XlSgrfx3WlAODD) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Big Women](https://open.spotify.com/album/3odHHsOy9iCoYouoOrH8Gt) | 4:59 | 2025-04-25 | 2025-06-28 |
 | [Black Gold](https://open.spotify.com/track/0lUehQtxsjaamm3yaOn2cs) | [These Wicked Rivers](https://open.spotify.com/artist/0GqHJdaaT0S1kjk3zhEVKu) | [Black Gold](https://open.spotify.com/album/5aUO6j1F2xdIbBsVWNW94j) | 3:36 | 2023-09-15 |  |
 | [Black Magic](https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn) | 2:48 | 2020-10-16 | 2024-07-19 |
 | [Black Magic](https://open.spotify.com/track/6qWbdBTcF2u7zvSXLxKRZx) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/7uIZLgnTNZEJ1d0iO0qvEo) | 2:48 | 2020-10-16 | 2024-04-19 |

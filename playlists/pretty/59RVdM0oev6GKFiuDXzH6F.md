@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,259 likes - 114 songs - 6 hr 12 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,258 likes - 114 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 2 | [Feel So Good](https://open.spotify.com/track/3A5ChH4cZ0TKcN9dNT9ua0) | [Alure](https://open.spotify.com/artist/2at01aWUeF5RX0bm7M7LjP) | [Feel So Good](https://open.spotify.com/album/3MFDDyUqEuMne5UpkHZcCC) | 2:58 |
 | 3 | [Das Boom](https://open.spotify.com/track/0GI4jfqufRqXXkuatEMCsn) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Das Boom](https://open.spotify.com/album/3hGP21qtBpVpZradJOEbgu) | 2:13 |
 | 4 | [Life Is Simple \(Move Your Body\) \[Feat Salomé Das\]](https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1) | [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Salomé Das](https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77) | [Life Is Simple \(Move Your Body\) \[Feat Salomé Das\]](https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo) | 2:52 |
-| 5 | [Bad Girls](https://open.spotify.com/track/7bCfSIVQZLVMAe2Z1lxsMM) | [Juicy M](https://open.spotify.com/artist/6klooWKc13AOY1BVfE0Tm6), [AVE](https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE) | [Bad Girls](https://open.spotify.com/album/75whS2GTKoE2GkihiuFsvk) | 2:03 |
+| 5 | [Take Me Up](https://open.spotify.com/track/4TFAJcfrpSI0rxtpnZFapq) | [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa), [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf) | [Take Me Up](https://open.spotify.com/album/0B7J9NOizvdbYdJBAEAq84) | 3:07 |
 | 6 | [LIVIN' LIFE](https://open.spotify.com/track/5CPWbPYPIpHYv5PRQyijHb) | [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w), [I.D.O.](https://open.spotify.com/artist/2QYVp9xsJhOywap7dQMWHe) | [LIVIN' LIFE](https://open.spotify.com/album/4fqPL1okYPmWZnW8BiYHQt) | 2:20 |
 | 7 | [The Summer Is Magic](https://open.spotify.com/track/7lC25gUPrasUpSuRFS01bR) | [Luvstruck](https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy), [Carlprit](https://open.spotify.com/artist/0Wj6u7zMY2dOLkJGz62bEp) | [The Summer Is Magic](https://open.spotify.com/album/6MjlZdywOHPQCUSGqGPA7h) | 2:08 |
 | 8 | [Yima](https://open.spotify.com/track/74ctwrNG6tk0W2OtBsgxsU) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Yima](https://open.spotify.com/album/0A9v2FUubSROjutXm7O2Kr) | 3:54 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 113 | [Porta](https://open.spotify.com/track/1pb5puaIFpRKZljrRvUYBh) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Porta](https://open.spotify.com/album/1ypob0SleVfy9RVAzfnmIH) | 3:26 |
 | 114 | [Not Afraid](https://open.spotify.com/track/2QqQ18pnfQPGJCSbx8UYSU) | [Harmless Night](https://open.spotify.com/artist/0vGdi8zNID6cg6Ua9ksmyQ), [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Not Afraid](https://open.spotify.com/album/0qVbT7QP9GAUtJaVcftanH) | 2:56 |
 
-Snapshot ID: `AAAQi1dKEthEgYJgyKPXQaoFBTPHOOES`
+Snapshot ID: `AAAQol5J+wAGQtjglaXTdIz9a5OYxux3`

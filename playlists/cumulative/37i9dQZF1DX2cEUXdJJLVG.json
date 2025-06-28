@@ -509,6 +509,28 @@
     },
     {
       "album": {
+        "name": "Hard Work EP",
+        "url": "https://open.spotify.com/album/4Hd7GPsHrEs18SL70She2c"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        },
+        {
+          "name": "Kapote",
+          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185334,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/4RHSOhJYoftx7lLglL74Rm"
+    },
+    {
+      "album": {
         "name": "Are We Done (feat. DEHAZE)",
         "url": "https://open.spotify.com/album/53jdD0ThbI5EtTcgHaVE9L"
       },

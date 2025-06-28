@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L/C5+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L/ILeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
       "album": {
         "name": "VELKA 6STKA",
         "url": "https://open.spotify.com/album/61GocG8Ewp5ZidAbYr8uKQ"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/0QwRvr68LJ2d0njhY7t7m1"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
       "album": {
         "name": "Dr\u017e P\u00ed\u010du",
         "url": "https://open.spotify.com/album/5NlYE3vpzXpqKpLZ0bDeZm"
@@ -45,7 +45,23 @@
       "url": "https://open.spotify.com/track/2ZzfGLEbvSDoNEomyZqKvV"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
+      "album": {
+        "name": "Veveri\u010dka vrtk\u00e1",
+        "url": "https://open.spotify.com/album/2Cqh2qYXNDHaWoNEKNqnFD"
+      },
+      "artists": [
+        {
+          "name": "AI NCM Zone",
+          "url": "https://open.spotify.com/artist/2eU9zF5EqsYNaIaOMBBf3M"
+        }
+      ],
+      "duration_ms": 163017,
+      "name": "Veveri\u010dka vrtk\u00e1",
+      "url": "https://open.spotify.com/track/4ZQvdHxLZdsJAlKyinbprQ"
+    },
+    {
+      "added_at": "2025-06-27 15:34:04",
       "album": {
         "name": "Traphouse",
         "url": "https://open.spotify.com/album/5K8SJOQKB7NNxB5rSa20NA"
@@ -65,63 +81,7 @@
       "url": "https://open.spotify.com/track/4yfL2UTITpAZ7btpfl7wax"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
-      "album": {
-        "name": "brat",
-        "url": "https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp"
-      },
-      "artists": [
-        {
-          "name": "Pil C",
-          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
-        },
-        {
-          "name": "Luca Brassi10x",
-          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
-        },
-        {
-          "name": "Dollar Prync",
-          "url": "https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux"
-        }
-      ],
-      "duration_ms": 179130,
-      "name": "dole",
-      "url": "https://open.spotify.com/track/60s9qt0f9uweJvExCjHSyb"
-    },
-    {
-      "added_at": "2025-06-26 15:52:52",
-      "album": {
-        "name": "HALLELUJAH",
-        "url": "https://open.spotify.com/album/3AVb7KzXBlB3eEeracWO8Z"
-      },
-      "artists": [
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
-        }
-      ],
-      "duration_ms": 138216,
-      "name": "HALLELUJAH",
-      "url": "https://open.spotify.com/track/2l6UQIQwYpRF0GMfzyB2Xs"
-    },
-    {
-      "added_at": "2025-06-26 15:52:52",
-      "album": {
-        "name": "Veveri\u010dka vrtk\u00e1",
-        "url": "https://open.spotify.com/album/2Cqh2qYXNDHaWoNEKNqnFD"
-      },
-      "artists": [
-        {
-          "name": "AI NCM Zone",
-          "url": "https://open.spotify.com/artist/2eU9zF5EqsYNaIaOMBBf3M"
-        }
-      ],
-      "duration_ms": 163017,
-      "name": "Veveri\u010dka vrtk\u00e1",
-      "url": "https://open.spotify.com/track/4ZQvdHxLZdsJAlKyinbprQ"
-    },
-    {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
       "album": {
         "name": "brat",
         "url": "https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp"
@@ -149,7 +109,47 @@
       "url": "https://open.spotify.com/track/6GwekXZF2LdRWQ8IebcoQn"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
+      "album": {
+        "name": "HALLELUJAH",
+        "url": "https://open.spotify.com/album/3AVb7KzXBlB3eEeracWO8Z"
+      },
+      "artists": [
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "duration_ms": 138216,
+      "name": "HALLELUJAH",
+      "url": "https://open.spotify.com/track/2l6UQIQwYpRF0GMfzyB2Xs"
+    },
+    {
+      "added_at": "2025-06-27 15:34:04",
+      "album": {
+        "name": "brat",
+        "url": "https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp"
+      },
+      "artists": [
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        },
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "Dollar Prync",
+          "url": "https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux"
+        }
+      ],
+      "duration_ms": 179130,
+      "name": "dole",
+      "url": "https://open.spotify.com/track/60s9qt0f9uweJvExCjHSyb"
+    },
+    {
+      "added_at": "2025-06-27 15:34:04",
       "album": {
         "name": "Homerun",
         "url": "https://open.spotify.com/album/3aOx0BcJHnzo0STXDmhDdQ"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/59Pro01fS9Ucy2HseMArGa"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
       "album": {
         "name": "Vem Vem",
         "url": "https://open.spotify.com/album/5fvUS8yHMCkTZj4sJ0FHDV"
@@ -189,23 +189,7 @@
       "url": "https://open.spotify.com/track/2FnkrCrbXJuebXxnVtXiHI"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
-      "album": {
-        "name": "The Glen (Levi Heron Edit)",
-        "url": "https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h"
-      },
-      "artists": [
-        {
-          "name": "Levi Heron",
-          "url": "https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP"
-        }
-      ],
-      "duration_ms": 173056,
-      "name": "The Glen - Levi Heron Edit",
-      "url": "https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI"
-    },
-    {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
       "album": {
         "name": "Zub za zub",
         "url": "https://open.spotify.com/album/3wbWpJrAKp2bm6RWbAVJJB"
@@ -225,7 +209,7 @@
       "url": "https://open.spotify.com/track/2CPkBjKdmuhiSInYPqIVDZ"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
       "album": {
         "name": "suburban daredevil",
         "url": "https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK"
@@ -245,7 +229,23 @@
       "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
+      "album": {
+        "name": "The Glen (Levi Heron Edit)",
+        "url": "https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h"
+      },
+      "artists": [
+        {
+          "name": "Levi Heron",
+          "url": "https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP"
+        }
+      ],
+      "duration_ms": 173056,
+      "name": "The Glen - Levi Heron Edit",
+      "url": "https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI"
+    },
+    {
+      "added_at": "2025-06-27 15:34:04",
       "album": {
         "name": "DIA DEL\u00cdCIA",
         "url": "https://open.spotify.com/album/3bT53CJPMsSXSn0vDAX2Do"
@@ -269,27 +269,7 @@
       "url": "https://open.spotify.com/track/094IjHeVUviN4aBnSXYsuj"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
-      "album": {
-        "name": "Ma Tnsani (Yalla Habibi)",
-        "url": "https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n"
-      },
-      "artists": [
-        {
-          "name": "Vanco",
-          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
-        },
-        {
-          "name": "AYA",
-          "url": "https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Ma Tnsani (Yalla Habibi)",
-      "url": "https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm"
-    },
-    {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
       "album": {
         "name": "Tipo Nino Vs Kabrinha",
         "url": "https://open.spotify.com/album/3kdrIdpP89aiYsJW2e3BYH"
@@ -313,7 +293,27 @@
       "url": "https://open.spotify.com/track/1jxQFCC0ukN7AaUwXWK0N8"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
+      "album": {
+        "name": "Ma Tnsani (Yalla Habibi)",
+        "url": "https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n"
+      },
+      "artists": [
+        {
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+        },
+        {
+          "name": "AYA",
+          "url": "https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Ma Tnsani (Yalla Habibi)",
+      "url": "https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm"
+    },
+    {
+      "added_at": "2025-06-27 15:34:04",
       "album": {
         "name": "Wannabe's",
         "url": "https://open.spotify.com/album/0KWtnmKWOP7jD9GdzVbcM8"
@@ -333,87 +333,7 @@
       "url": "https://open.spotify.com/track/0PHjcDCfUDmAK1VahjUVuK"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
-      "album": {
-        "name": "NENI STRE$$ (Cover)",
-        "url": "https://open.spotify.com/album/3suM4zfaxihVyt4tCGGULP"
-      },
-      "artists": [
-        {
-          "name": "Kuky Band",
-          "url": "https://open.spotify.com/artist/01urjUhOjvEkuhQVlyANKv"
-        }
-      ],
-      "duration_ms": 159764,
-      "name": "NENI STRE$$ - Cover",
-      "url": "https://open.spotify.com/track/3vEkAbNhlmdvkroynOylOu"
-    },
-    {
-      "added_at": "2025-06-26 15:52:52",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/2k2k16L58tYruaaPUvcPJi"
-      },
-      "artists": [
-        {
-          "name": "Sima",
-          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
-        }
-      ],
-      "duration_ms": 174246,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/4O0dlJnPKQNRzh1J1pGpKg"
-    },
-    {
-      "added_at": "2025-06-26 15:52:52",
-      "album": {
-        "name": "Miluju riskovat",
-        "url": "https://open.spotify.com/album/0keORQotjHhzH7MhMAvCE8"
-      },
-      "artists": [
-        {
-          "name": "Chawo",
-          "url": "https://open.spotify.com/artist/3RhkM7MJYX1mann1LVLNRd"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Miluju riskovat",
-      "url": "https://open.spotify.com/track/5BZHuyNtiTcakfufIm1yG9"
-    },
-    {
-      "added_at": "2025-06-26 15:52:52",
-      "album": {
-        "name": "MHD",
-        "url": "https://open.spotify.com/album/7qPBQAVq0CscTtNmCTIzYE"
-      },
-      "artists": [
-        {
-          "name": "MHD",
-          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
-        }
-      ],
-      "duration_ms": 137133,
-      "name": "Afro Trap Pt. 3 (Champions League)",
-      "url": "https://open.spotify.com/track/0D0np8Odu1PNamKfajA6AX"
-    },
-    {
-      "added_at": "2025-06-26 15:52:52",
-      "album": {
-        "name": "Throwaways",
-        "url": "https://open.spotify.com/album/5krlMLWRwSkngP6KICvzlT"
-      },
-      "artists": [
-        {
-          "name": "G1nter",
-          "url": "https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa"
-        }
-      ],
-      "duration_ms": 130390,
-      "name": "Throwaways",
-      "url": "https://open.spotify.com/track/26FGdenXQDGekPiPfPAnto"
-    },
-    {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
       "album": {
         "name": "Por Las Buenas",
         "url": "https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1"
@@ -429,27 +349,55 @@
       "url": "https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
       "album": {
-        "name": "No Broke Boys",
-        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
+        "name": "Miluju riskovat",
+        "url": "https://open.spotify.com/album/0keORQotjHhzH7MhMAvCE8"
       },
       "artists": [
         {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+          "name": "Chawo",
+          "url": "https://open.spotify.com/artist/3RhkM7MJYX1mann1LVLNRd"
         }
       ],
-      "duration_ms": 163994,
-      "name": "No Broke Boys",
-      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+      "duration_ms": 199000,
+      "name": "Miluju riskovat",
+      "url": "https://open.spotify.com/track/5BZHuyNtiTcakfufIm1yG9"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/2k2k16L58tYruaaPUvcPJi"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "duration_ms": 174246,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/4O0dlJnPKQNRzh1J1pGpKg"
+    },
+    {
+      "added_at": "2025-06-27 15:34:04",
+      "album": {
+        "name": "MHD",
+        "url": "https://open.spotify.com/album/7qPBQAVq0CscTtNmCTIzYE"
+      },
+      "artists": [
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        }
+      ],
+      "duration_ms": 137133,
+      "name": "Afro Trap Pt. 3 (Champions League)",
+      "url": "https://open.spotify.com/track/0D0np8Odu1PNamKfajA6AX"
+    },
+    {
+      "added_at": "2025-06-27 15:34:04",
       "album": {
         "name": "Ja, S\u00e1ra",
         "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
@@ -469,31 +417,23 @@
       "url": "https://open.spotify.com/track/1XIbDyk2cYuhmPa0cO0zqN"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
       "album": {
-        "name": "brat",
-        "url": "https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp"
+        "name": "NENI STRE$$ (Cover)",
+        "url": "https://open.spotify.com/album/3suM4zfaxihVyt4tCGGULP"
       },
       "artists": [
         {
-          "name": "Pil C",
-          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
-        },
-        {
-          "name": "Luca Brassi10x",
-          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
-        },
-        {
-          "name": "Separ",
-          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+          "name": "Kuky Band",
+          "url": "https://open.spotify.com/artist/01urjUhOjvEkuhQVlyANKv"
         }
       ],
-      "duration_ms": 149538,
-      "name": "nikto ako my",
-      "url": "https://open.spotify.com/track/2M9vtafpahKq5FxGAFwAzy"
+      "duration_ms": 159764,
+      "name": "NENI STRE$$ - Cover",
+      "url": "https://open.spotify.com/track/3vEkAbNhlmdvkroynOylOu"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
       "album": {
         "name": "TY A JA",
         "url": "https://open.spotify.com/album/379fJvRCADB40d3C7Lcauk"
@@ -517,7 +457,83 @@
       "url": "https://open.spotify.com/track/2xR7lQvCRF53gYz7H8IZfD"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
+      "album": {
+        "name": "No Broke Boys",
+        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 163994,
+      "name": "No Broke Boys",
+      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
+    {
+      "added_at": "2025-06-27 15:34:04",
+      "album": {
+        "name": "Megj\u00e1tszottam magamat",
+        "url": "https://open.spotify.com/album/0FrOqtFJ2DdqwP1l4vJzOB"
+      },
+      "artists": [
+        {
+          "name": "Lakatos Dani",
+          "url": "https://open.spotify.com/artist/6RWpLnBxrQ0wpAGDNH6jqk"
+        }
+      ],
+      "duration_ms": 188023,
+      "name": "Megj\u00e1tszottam magamat",
+      "url": "https://open.spotify.com/track/1hxZhF6F4u8WJsqwiLZSLv"
+    },
+    {
+      "added_at": "2025-06-27 15:34:04",
+      "album": {
+        "name": "Throwaways",
+        "url": "https://open.spotify.com/album/5krlMLWRwSkngP6KICvzlT"
+      },
+      "artists": [
+        {
+          "name": "G1nter",
+          "url": "https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa"
+        }
+      ],
+      "duration_ms": 130390,
+      "name": "Throwaways",
+      "url": "https://open.spotify.com/track/26FGdenXQDGekPiPfPAnto"
+    },
+    {
+      "added_at": "2025-06-27 15:34:04",
+      "album": {
+        "name": "brat",
+        "url": "https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp"
+      },
+      "artists": [
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        },
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "nikto ako my",
+      "url": "https://open.spotify.com/track/2M9vtafpahKq5FxGAFwAzy"
+    },
+    {
+      "added_at": "2025-06-27 15:34:04",
       "album": {
         "name": "MIMO SIE\u0164",
         "url": "https://open.spotify.com/album/5GiFrHyXrqFU7CwUHtsddS"
@@ -537,27 +553,23 @@
       "url": "https://open.spotify.com/track/2xVgcmqFE4MJhzJeBAh68h"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
       "album": {
-        "name": "Close",
-        "url": "https://open.spotify.com/album/79UGZcdmVaWT1TR71D9Yhj"
+        "name": "HOMEMADE",
+        "url": "https://open.spotify.com/album/1zwCitjPyOowYEBkuhgEHc"
       },
       "artists": [
         {
-          "name": "G1nter",
-          "url": "https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa"
-        },
-        {
-          "name": "Deetray",
-          "url": "https://open.spotify.com/artist/5F8sPTWPCmtDGz46gOA2S9"
+          "name": "Slav\u00ed\u010dek",
+          "url": "https://open.spotify.com/artist/5GfK8A8u8ruvdFiDFS1X9l"
         }
       ],
-      "duration_ms": 189295,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/3JUNgjnP4GOjCJP3qzxPm3"
+      "duration_ms": 197489,
+      "name": "A\u017e po u\u0161i",
+      "url": "https://open.spotify.com/track/4xWFJWVX31eO9I2p2eVdS8"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
       "album": {
         "name": "Ja, S\u00e1ra",
         "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
@@ -577,7 +589,23 @@
       "url": "https://open.spotify.com/track/2C7sayl5uG8XAuTfA05WYU"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 268840,
+      "name": "Rock That Body",
+      "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
+    },
+    {
+      "added_at": "2025-06-27 15:34:04",
       "album": {
         "name": "brat",
         "url": "https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp"
@@ -601,155 +629,43 @@
       "url": "https://open.spotify.com/track/4KmnwhIOSh9zZRzTUJGsY4"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
       "album": {
-        "name": "Megj\u00e1tszottam magamat",
-        "url": "https://open.spotify.com/album/0FrOqtFJ2DdqwP1l4vJzOB"
+        "name": "Close",
+        "url": "https://open.spotify.com/album/79UGZcdmVaWT1TR71D9Yhj"
       },
       "artists": [
         {
-          "name": "Lakatos Dani",
-          "url": "https://open.spotify.com/artist/6RWpLnBxrQ0wpAGDNH6jqk"
-        }
-      ],
-      "duration_ms": 188023,
-      "name": "Megj\u00e1tszottam magamat",
-      "url": "https://open.spotify.com/track/1hxZhF6F4u8WJsqwiLZSLv"
-    },
-    {
-      "added_at": "2025-06-26 15:52:52",
-      "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 268840,
-      "name": "Rock That Body",
-      "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
-    },
-    {
-      "added_at": "2025-06-26 15:52:52",
-      "album": {
-        "name": "HOMEMADE",
-        "url": "https://open.spotify.com/album/1zwCitjPyOowYEBkuhgEHc"
-      },
-      "artists": [
-        {
-          "name": "Slav\u00ed\u010dek",
-          "url": "https://open.spotify.com/artist/5GfK8A8u8ruvdFiDFS1X9l"
-        }
-      ],
-      "duration_ms": 197489,
-      "name": "A\u017e po u\u0161i",
-      "url": "https://open.spotify.com/track/4xWFJWVX31eO9I2p2eVdS8"
-    },
-    {
-      "added_at": "2025-06-26 15:52:52",
-      "album": {
-        "name": "I LOVE YOU SO JUMPSTYLE",
-        "url": "https://open.spotify.com/album/13wMHcPH63ZmggCoKEWVCI"
-      },
-      "artists": [
-        {
-          "name": "HUSSVRX",
-          "url": "https://open.spotify.com/artist/4TgCsF3vsrTJqitJbXhHWW"
-        }
-      ],
-      "duration_ms": 243973,
-      "name": "I LOVE YOU SO JUMPSTYLE - Ultra Slowed",
-      "url": "https://open.spotify.com/track/5SsPq8I4a89sOmO9UTzfJD"
-    },
-    {
-      "added_at": "2025-06-26 15:52:52",
-      "album": {
-        "name": "brat",
-        "url": "https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp"
-      },
-      "artists": [
-        {
-          "name": "Pil C",
-          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+          "name": "G1nter",
+          "url": "https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa"
         },
         {
-          "name": "Luca Brassi10x",
-          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
-        },
-        {
-          "name": "Shimmi",
-          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
-        },
-        {
-          "name": "guapanova",
-          "url": "https://open.spotify.com/artist/3cKe8c7z8w2nyYsaVKWJaC"
+          "name": "Deetray",
+          "url": "https://open.spotify.com/artist/5F8sPTWPCmtDGz46gOA2S9"
         }
       ],
-      "duration_ms": 187924,
-      "name": "h1p h0p",
-      "url": "https://open.spotify.com/track/3LrLQlRYMFUQ4T1S7tWQpE"
+      "duration_ms": 189295,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/3JUNgjnP4GOjCJP3qzxPm3"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
       "album": {
-        "name": "Kuky Connect",
-        "url": "https://open.spotify.com/album/0Ie89T8pxxENB2f2PkwQ6A"
+        "name": "LABUBU",
+        "url": "https://open.spotify.com/album/237NBvON3K9OINc086fH7i"
       },
       "artists": [
         {
-          "name": "13K",
-          "url": "https://open.spotify.com/artist/0DXtbUJKCkHeaHPQPzFM9a"
-        },
-        {
-          "name": "Kuky Band",
-          "url": "https://open.spotify.com/artist/01urjUhOjvEkuhQVlyANKv"
+          "name": "Coke Duck",
+          "url": "https://open.spotify.com/artist/0mwuL4cAIS4ea0Wh5CZEyn"
         }
       ],
-      "duration_ms": 195200,
-      "name": "Kuky Connect",
-      "url": "https://open.spotify.com/track/627JrzhsDZGeF9H4ZPeVjB"
+      "duration_ms": 70766,
+      "name": "LABUBU",
+      "url": "https://open.spotify.com/track/7d7oNnONuTBKt0RVrfAq4Y"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
-      "album": {
-        "name": "Dior (feat. Chrystal)",
-        "url": "https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Chrystal",
-          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
-        }
-      ],
-      "duration_ms": 169159,
-      "name": "Dior (feat. Chrystal)",
-      "url": "https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX"
-    },
-    {
-      "added_at": "2025-06-26 15:52:52",
-      "album": {
-        "name": "Val\u010d\u00edk",
-        "url": "https://open.spotify.com/album/3jIcSO4DbgoBq0vM7aazzx"
-      },
-      "artists": [
-        {
-          "name": "Neny",
-          "url": "https://open.spotify.com/artist/1zh9JkZhBzTtkd2WztHgmt"
-        }
-      ],
-      "duration_ms": 175172,
-      "name": "Val\u010d\u00edk",
-      "url": "https://open.spotify.com/track/7eFpCO3ixXADJPdl5EvpRw"
-    },
-    {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
       "album": {
         "name": "KSN (PINTLICH REMIX)",
         "url": "https://open.spotify.com/album/3EBOGy4G5wEzJHfZa3stFJ"
@@ -785,7 +701,123 @@
       "url": "https://open.spotify.com/track/2K4y6LbyUOr03ktqAaMZmD"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
+      "album": {
+        "name": "I LOVE YOU SO JUMPSTYLE",
+        "url": "https://open.spotify.com/album/13wMHcPH63ZmggCoKEWVCI"
+      },
+      "artists": [
+        {
+          "name": "HUSSVRX",
+          "url": "https://open.spotify.com/artist/4TgCsF3vsrTJqitJbXhHWW"
+        }
+      ],
+      "duration_ms": 243973,
+      "name": "I LOVE YOU SO JUMPSTYLE - Ultra Slowed",
+      "url": "https://open.spotify.com/track/5SsPq8I4a89sOmO9UTzfJD"
+    },
+    {
+      "added_at": "2025-06-27 15:34:04",
+      "album": {
+        "name": "Vaitimbora",
+        "url": "https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe"
+      },
+      "artists": [
+        {
+          "name": "Mari Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        },
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        }
+      ],
+      "duration_ms": 135131,
+      "name": "Vaitimbora",
+      "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
+    },
+    {
+      "added_at": "2025-06-27 15:34:04",
+      "album": {
+        "name": "Val\u010d\u00edk",
+        "url": "https://open.spotify.com/album/3jIcSO4DbgoBq0vM7aazzx"
+      },
+      "artists": [
+        {
+          "name": "Neny",
+          "url": "https://open.spotify.com/artist/1zh9JkZhBzTtkd2WztHgmt"
+        }
+      ],
+      "duration_ms": 175172,
+      "name": "Val\u010d\u00edk",
+      "url": "https://open.spotify.com/track/7eFpCO3ixXADJPdl5EvpRw"
+    },
+    {
+      "added_at": "2025-06-27 15:34:04",
+      "album": {
+        "name": "brat",
+        "url": "https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp"
+      },
+      "artists": [
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        },
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "Shimmi",
+          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+        },
+        {
+          "name": "guapanova",
+          "url": "https://open.spotify.com/artist/3cKe8c7z8w2nyYsaVKWJaC"
+        }
+      ],
+      "duration_ms": 187924,
+      "name": "h1p h0p",
+      "url": "https://open.spotify.com/track/3LrLQlRYMFUQ4T1S7tWQpE"
+    },
+    {
+      "added_at": "2025-06-27 15:34:04",
+      "album": {
+        "name": "Kuky Connect",
+        "url": "https://open.spotify.com/album/0Ie89T8pxxENB2f2PkwQ6A"
+      },
+      "artists": [
+        {
+          "name": "13K",
+          "url": "https://open.spotify.com/artist/0DXtbUJKCkHeaHPQPzFM9a"
+        },
+        {
+          "name": "Kuky Band",
+          "url": "https://open.spotify.com/artist/01urjUhOjvEkuhQVlyANKv"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Kuky Connect",
+      "url": "https://open.spotify.com/track/627JrzhsDZGeF9H4ZPeVjB"
+    },
+    {
+      "added_at": "2025-06-27 15:34:04",
+      "album": {
+        "name": "Fireborn \u2013 Burn It All",
+        "url": "https://open.spotify.com/album/5bSKfIJtyFNyziqGahXtyf"
+      },
+      "artists": [
+        {
+          "name": "Glum Aleks",
+          "url": "https://open.spotify.com/artist/5erVxDsEUKaWVQgNLgpHv9"
+        }
+      ],
+      "duration_ms": 163759,
+      "name": "Fireborn \u2013 Burn It All",
+      "url": "https://open.spotify.com/track/1QJsBD1342aOCUZXOKQaIv"
+    },
+    {
+      "added_at": "2025-06-27 15:34:04",
       "album": {
         "name": "Manchild",
         "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
@@ -801,59 +833,7 @@
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
-      "album": {
-        "name": "LABUBU",
-        "url": "https://open.spotify.com/album/237NBvON3K9OINc086fH7i"
-      },
-      "artists": [
-        {
-          "name": "Coke Duck",
-          "url": "https://open.spotify.com/artist/0mwuL4cAIS4ea0Wh5CZEyn"
-        }
-      ],
-      "duration_ms": 70766,
-      "name": "LABUBU",
-      "url": "https://open.spotify.com/track/7d7oNnONuTBKt0RVrfAq4Y"
-    },
-    {
-      "added_at": "2025-06-26 15:52:52",
-      "album": {
-        "name": "Vaitimbora",
-        "url": "https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe"
-      },
-      "artists": [
-        {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        },
-        {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        }
-      ],
-      "duration_ms": 135131,
-      "name": "Vaitimbora",
-      "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
-    },
-    {
-      "added_at": "2025-06-26 15:52:52",
-      "album": {
-        "name": "Deslocado",
-        "url": "https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R"
-      },
-      "artists": [
-        {
-          "name": "NAPA",
-          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
-        }
-      ],
-      "duration_ms": 179996,
-      "name": "Deslocado",
-      "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j"
-    },
-    {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
       "album": {
         "name": "EMDP (The Last Album)",
         "url": "https://open.spotify.com/album/2G4T745eynlKnJdhDj3bAB"
@@ -869,39 +849,23 @@
       "url": "https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
       "album": {
-        "name": "FUNNY little FEARS",
-        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
+        "name": "Deslocado",
+        "url": "https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R"
       },
       "artists": [
         {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+          "name": "NAPA",
+          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
         }
       ],
-      "duration_ms": 218266,
-      "name": "The First Time",
-      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
+      "duration_ms": 179996,
+      "name": "Deslocado",
+      "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
-      "album": {
-        "name": "Bauchnabelpiercing",
-        "url": "https://open.spotify.com/album/1dm2sK3UmQBIyRbRgMqaBc"
-      },
-      "artists": [
-        {
-          "name": "LOKIMITDERMASKE",
-          "url": "https://open.spotify.com/artist/12sYca2Uo32YM8nzx70cnQ"
-        }
-      ],
-      "duration_ms": 108094,
-      "name": "Bauchnabelpiercing",
-      "url": "https://open.spotify.com/track/4ZKwUSQNvpU2XRIoYi4Bcg"
-    },
-    {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
       "album": {
         "name": "SEVER 4EVER",
         "url": "https://open.spotify.com/album/7q1mzkcfYaYV3mOpBGP5mi"
@@ -917,39 +881,7 @@
       "url": "https://open.spotify.com/track/3aohieAvZvK2b4GSz5H808"
     },
     {
-      "added_at": "2025-06-26 15:52:52",
-      "album": {
-        "name": "Addison",
-        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 183237,
-      "name": "Fame is a Gun",
-      "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
-    },
-    {
-      "added_at": "2025-06-26 15:52:52",
-      "album": {
-        "name": "I LOVE YOU SO JUMPSTYLE",
-        "url": "https://open.spotify.com/album/13wMHcPH63ZmggCoKEWVCI"
-      },
-      "artists": [
-        {
-          "name": "HUSSVRX",
-          "url": "https://open.spotify.com/artist/4TgCsF3vsrTJqitJbXhHWW"
-        }
-      ],
-      "duration_ms": 189147,
-      "name": "I LOVE YOU SO JUMPSTYLE - Slowed",
-      "url": "https://open.spotify.com/track/7mhsDo1g4jIVxVaHSqChQ5"
-    },
-    {
-      "added_at": "2025-06-26 15:52:52",
+      "added_at": "2025-06-27 15:34:04",
       "album": {
         "name": "NEVIEM",
         "url": "https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC"
@@ -971,6 +903,74 @@
       "duration_ms": 192533,
       "name": "Body to body",
       "url": "https://open.spotify.com/track/58Kx48jdexHfT7reFY1TVE"
+    },
+    {
+      "added_at": "2025-06-27 15:34:04",
+      "album": {
+        "name": "Dior (feat. Chrystal)",
+        "url": "https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        }
+      ],
+      "duration_ms": 169159,
+      "name": "Dior (feat. Chrystal)",
+      "url": "https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX"
+    },
+    {
+      "added_at": "2025-06-27 15:34:04",
+      "album": {
+        "name": "I LOVE YOU SO JUMPSTYLE",
+        "url": "https://open.spotify.com/album/13wMHcPH63ZmggCoKEWVCI"
+      },
+      "artists": [
+        {
+          "name": "HUSSVRX",
+          "url": "https://open.spotify.com/artist/4TgCsF3vsrTJqitJbXhHWW"
+        }
+      ],
+      "duration_ms": 189147,
+      "name": "I LOVE YOU SO JUMPSTYLE - Slowed",
+      "url": "https://open.spotify.com/track/7mhsDo1g4jIVxVaHSqChQ5"
+    },
+    {
+      "added_at": "2025-06-27 15:34:04",
+      "album": {
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "The First Time",
+      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
+    },
+    {
+      "added_at": "2025-06-27 15:34:04",
+      "album": {
+        "name": "Addison",
+        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 183237,
+      "name": "Fame is a Gun",
+      "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
     }
   ],
   "unique_name": "Viral 50 - Slovakia",

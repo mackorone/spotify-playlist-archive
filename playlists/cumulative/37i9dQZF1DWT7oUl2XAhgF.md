@@ -2,9 +2,9 @@
 
 ### [Retro Soul](https://open.spotify.com/playlist/37i9dQZF1DWT7oUl2XAhgF)
 
-> A new take on a classic sound\. Cover: Curtis Harding
+> A new take on a classic sound\. Cover: Durand Jones & The Indications
 
-518 songs - 1 day 7 hr 10 min
+520 songs - 1 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Good Times](https://open.spotify.com/track/7APfnIBMqfT1UDy7p02Yje) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Nothing at All / Good Times](https://open.spotify.com/album/56eng8fyBwWTybxiN59Jy3) | 4:04 | 2022-09-09 | 2023-02-02 |
 | [Good, Better, Best](https://open.spotify.com/track/5xJ2iRDQ7jKJl2DLsYJPYD) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX) | [Sorry You Couldn't Make It](https://open.spotify.com/album/2p5pkNlYTEAzPdNdLHLMlP) | 2:50 | 2021-12-03 | 2022-11-14 |
 | [Got You Right](https://open.spotify.com/track/1AMvRbr8thMA47fC6iNJa2) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Got You Right](https://open.spotify.com/album/11oZY5iihgl7EdaWNqEzy6) | 3:25 | 2025-02-07 |  |
+| [Grandma Calls The Boy Bad News](https://open.spotify.com/track/7taeEaTx9QbbtRDPJv3iHq) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 3:26 | 2025-06-27 |  |
 | [Great Wind](https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \(Deluxe\)](https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2) | 3:59 | 2023-07-07 | 2025-03-15 |
 | [Groceries](https://open.spotify.com/track/2h6c3yoLPhiQKcuSW7pQDX) | [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Groceries](https://open.spotify.com/album/1ECtQFMPTKqxnAXMTYrVl6) | 2:23 | 2022-04-22 | 2023-04-30 |
 | [Groceries](https://open.spotify.com/track/5KXNgbRYbqwEFIFM0AMakg) | [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Homegrown](https://open.spotify.com/album/4vAakYtJWrer6lENSAP19l) | 2:23 | 2022-04-29 | 2023-10-07 |
@@ -274,7 +275,7 @@
 | [Love's Train](https://open.spotify.com/track/2JUQ7mV1AHk2owXLydmN4Z) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 5:07 | 2023-09-01 | 2024-04-19 |
 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-02-18 | 2024-10-26 |
 | [Lover Boy](https://open.spotify.com/track/4wlEw6x7ynK4dfKk47HNtt) | [Jason Joshua](https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn) | [Lover Boy](https://open.spotify.com/album/3VL9z3tG7Wr5g8iORdtF0M) | 2:55 | 2023-02-10 | 2024-09-07 |
-| [Lovers' Holiday](https://open.spotify.com/track/6yGBX0IefuwQfBRYaaXpcV) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Lovers' Holiday](https://open.spotify.com/album/5K1exgNYjlugtrUPutVgBM) | 3:25 | 2025-05-30 |  |
+| [Lovers' Holiday](https://open.spotify.com/track/6yGBX0IefuwQfBRYaaXpcV) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Lovers' Holiday](https://open.spotify.com/album/5K1exgNYjlugtrUPutVgBM) | 3:25 | 2025-05-30 | 2025-06-28 |
 | [Loving You Is All I Want To Do](https://open.spotify.com/track/1GIf6prhwd6ESjjJ6pmiwV) | [Roseaux](https://open.spotify.com/artist/3JUUs8oZ6MRA1f2ahfusYu), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Loving You is All I Want to Do](https://open.spotify.com/album/4TJt3xetzmO9t4hQSRBQnf) | 3:39 | 2023-02-17 |  |
 | [Loving You Is Easy](https://open.spotify.com/track/4Q5uCevQDZ2dCrPq0isNPQ) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [Loving You Is Easy](https://open.spotify.com/album/7gGU9LnpOyctBMvxA1vxyx) | 3:24 | 2022-06-10 | 2022-07-02 |
 | [Lucid Girl](https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lucid Girl](https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w) | 3:22 | 2024-06-21 | 2025-06-24 |
@@ -349,6 +350,7 @@
 | [R.L.M](https://open.spotify.com/track/7xrp1M7PQfRh5fsT8dOGnj) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [R.L.M](https://open.spotify.com/album/5jk1ZbZsxdmcKNFKmDO2nF) | 3:45 | 2024-04-12 |  |
 | [Ready](https://open.spotify.com/track/2FMeFICKFtO9j4qLaPKcst) | [Teddy Grossman](https://open.spotify.com/artist/3E0jeQoIrqwpjGuhSIe7H0) | [Ready](https://open.spotify.com/album/3gNnUZO69AyHhi8fYybcyf) | 3:48 | 2022-01-28 | 2023-09-09 |
 | [Real Contender](https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Real Contender](https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9) | 3:21 | 2022-02-18 | 2022-07-29 |
+| [Really Wanna Be With You](https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Flowers](https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO) | 4:31 | 2025-06-27 |  |
 | [Reason](https://open.spotify.com/track/5llqfBYCRsB72DQACu5dpC) | [Amahla](https://open.spotify.com/artist/6IgxRCzTWMElloFPigZXdj) | [Reason](https://open.spotify.com/album/0ys2pDOE0q1gxYHaiCRtJ7) | 2:51 | 2022-08-26 | 2023-05-27 |
 | [Reasons To Stay](https://open.spotify.com/track/1wcjZRnXu86UIWh0tPY5xd) | [Tanika Charles](https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I) | [Reasons To Stay](https://open.spotify.com/album/66tOv5HJVitbCHEq52WTks) | 3:36 | 2025-05-16 |  |
 | [Recovery Time](https://open.spotify.com/track/17d1x0NWlRglnOxnAfqWMm) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO), [St Francis Hotel](https://open.spotify.com/artist/5ovQJMniNkE6D4Bwxxqin9) | [Recovery Time](https://open.spotify.com/album/2zkwPbAe8duHRZP62hmg9s) | 3:43 | 2023-02-17 | 2023-06-03 |
@@ -520,7 +522,7 @@
 | [You](https://open.spotify.com/track/1GEHrWzUGuhQ7bg97fuaGo) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [You](https://open.spotify.com/album/3z5YjcnJlmbr3Ftzu83K7u) | 3:00 | 2023-08-04 | 2024-08-31 |
 | [You](https://open.spotify.com/track/7y8xMbDt5a5XlcRUAyov8N) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Rêverie](https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO) | 3:00 | 2023-08-04 | 2024-04-19 |
 | [You Are Everything](https://open.spotify.com/track/1HL9e5uqnQg1qxJH2BisfJ) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q), [Stan Taylor](https://open.spotify.com/artist/0FLx5Ts7ydf1NuSsy334eU) | [You Are Everything](https://open.spotify.com/album/6LMTOf2XuRWmkm9O8Bvch8) | 2:59 | 2022-10-21 | 2022-11-12 |
-| [You Can Count On Me](https://open.spotify.com/track/63zB2o0u28X046oIFO2ou1) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Waiting on the Sidelines](https://open.spotify.com/album/5kABgENIqXOEWtN3o6rcPn) | 4:09 | 2023-06-02 |  |
+| [You Can Count On Me](https://open.spotify.com/track/63zB2o0u28X046oIFO2ou1) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Waiting on the Sidelines](https://open.spotify.com/album/5kABgENIqXOEWtN3o6rcPn) | 4:09 | 2023-06-02 | 2025-06-28 |
 | [You Know What It Do](https://open.spotify.com/track/1YPsvTzKTMsQjrdC88CRcT) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [No Beginning No End 2](https://open.spotify.com/album/1dwWH4m6TIepflnji3hVsG) | 3:07 | 2021-07-09 | 2022-06-11 |
 | [You Were Mine](https://open.spotify.com/track/4Q6WTLLZtYZ2OuQ4pCZH0A) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Dark Black](https://open.spotify.com/album/2eV8dXQXxJderdQEvY3ZuC) | 3:51 | 2024-03-29 |  |
 | [Your Light](https://open.spotify.com/track/6abwIudy5gCZvNuFrAmWk6) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Your Light](https://open.spotify.com/album/04U1QazlwjvnpD0QuMRsx3) | 3:54 | 2025-01-10 | 2025-02-15 |

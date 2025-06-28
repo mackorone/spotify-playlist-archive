@@ -472,7 +472,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 199418,
       "name": "Bad For Me",
       "url": "https://open.spotify.com/track/6W1z1L29NCFPV6iBrKcLrl"
@@ -800,7 +800,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 154132,
       "name": "Bloodline",
       "url": "https://open.spotify.com/track/4pKGT24NzeCv8weNz2qT2G"
@@ -876,7 +876,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 162585,
       "name": "Boys",
       "url": "https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq"
@@ -894,7 +894,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 172630,
       "name": "Boys",
       "url": "https://open.spotify.com/track/1du4tPkvJfCIuVL6WMtqSs"
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 289320,
       "name": "Come On Over",
       "url": "https://open.spotify.com/track/3DmWB8ZzUW3fhtHUtpOWVD"
@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 185991,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/31GXHFevmu4KTxqPTVnkve"
@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 182837,
       "name": "Deserve (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/0UJUZy6F5M4RxVEZCJrS6t"
@@ -1858,7 +1858,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 235333,
       "name": "Dinner and a Movie - Live in Brooklyn",
       "url": "https://open.spotify.com/track/6SfkvhDoA8IZ90zBoBaoOE"
@@ -1898,7 +1898,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 196417,
       "name": "Don't Call",
       "url": "https://open.spotify.com/track/5Leb8e1Nirv6IFHrmvJNv3"
@@ -2062,7 +2062,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-23",
+      "date_removed": null,
       "duration_ms": 222303,
       "name": "Echo [Bonus Track]",
       "url": "https://open.spotify.com/track/30iwAxqJOdYxXSHG5Be8sS"
@@ -2084,7 +2084,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 191426,
       "name": "El Tejano",
       "url": "https://open.spotify.com/track/3Wd8txJHeEkEsHvS0jIywR"
@@ -2316,7 +2316,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 268250,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/4KnOHbugojZ5Znz4SuohZ3"
@@ -3006,7 +3006,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 128823,
       "name": "Get Out Of My Head",
       "url": "https://open.spotify.com/track/3wtP6999cOPF4OrUpBuOCM"
@@ -3060,7 +3060,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 247040,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/3psN2n0AqdpDY2pyY3P6uW"
@@ -3245,6 +3245,24 @@
     },
     {
       "album": {
+        "name": "Hard for Me",
+        "url": "https://open.spotify.com/album/0igC3kSal7rmZ03GHYycq5"
+      },
+      "artists": [
+        {
+          "name": "Ivory Wings",
+          "url": "https://open.spotify.com/artist/4I9RkYzIwQ07rUrR3AiWp9"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199134,
+      "name": "Hard for Me",
+      "url": "https://open.spotify.com/track/2eiScPG1GxKO7jEY3HE7fg"
+    },
+    {
+      "album": {
         "name": "Hard For Me",
         "url": "https://open.spotify.com/album/4odaF3xBZ3Czg5yJJmpLda"
       },
@@ -3274,7 +3292,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 177946,
       "name": "Hard For Me",
       "url": "https://open.spotify.com/track/00PesUdTmC3Y5xtZbZND0p"
@@ -3774,10 +3792,32 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 653160,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5aEiDuaUkizCkfcnjIdqgG"
+    },
+    {
+      "album": {
+        "name": "Ariadna De Naxos Session",
+        "url": "https://open.spotify.com/album/2U8COMQ2zdBvTDIcTjt3hl"
+      },
+      "artists": [
+        {
+          "name": "Para Que Hacemos Canciones?",
+          "url": "https://open.spotify.com/artist/7atEHz6nWZ1UaIL65ubIre"
+        },
+        {
+          "name": "Ariadna De Naxos",
+          "url": "https://open.spotify.com/artist/36VtLgvJ9opeLmO0HXBjXz"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315789,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/7kpJyfBkBH6JuT6UfnJfXU"
     },
     {
       "album": {
@@ -4332,7 +4372,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 309400,
       "name": "It Ain't Love",
       "url": "https://open.spotify.com/track/0fBYQIDK2lGqjv67AHju5F"
@@ -4518,7 +4558,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 599041,
       "name": "Just Another Sunset",
       "url": "https://open.spotify.com/track/2NWo9thdl4q6gyHD9t4Tdz"
@@ -4836,7 +4876,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 213733,
       "name": "Let's Talk About It",
       "url": "https://open.spotify.com/track/4jAXmvknvDTGcefIwnCJbt"
@@ -4944,7 +4984,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 183629,
       "name": "Live That Life",
       "url": "https://open.spotify.com/track/1oXPGzSMtAvPmd0EZDuxOO"
@@ -5298,7 +5338,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 183989,
       "name": "Loving Nobody",
       "url": "https://open.spotify.com/track/4FnrwHQLcbOwhUjb983ifW"
@@ -5334,7 +5374,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 240517,
       "name": "Magic",
       "url": "https://open.spotify.com/track/4q8ce3VGQzroZzwrRhRwKf"
@@ -5356,6 +5396,24 @@
       "duration_ms": 209666,
       "name": "Magic",
       "url": "https://open.spotify.com/track/3hE9T8H1jzSS0SxLNtUtKl"
+    },
+    {
+      "album": {
+        "name": "Just Go",
+        "url": "https://open.spotify.com/album/6ECvDzqRjHYaH6Br2Tk7nZ"
+      },
+      "artists": [
+        {
+          "name": "Dmitry Bereza",
+          "url": "https://open.spotify.com/artist/1g8hNHEEusl7TVjaBsT70K"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369375,
+      "name": "Magic - Original Mix",
+      "url": "https://open.spotify.com/track/7BJKKfewC3ubUZkuowLVlh"
     },
     {
       "album": {
@@ -6414,7 +6472,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-15",
+      "date_removed": null,
       "duration_ms": 166267,
       "name": "Numb",
       "url": "https://open.spotify.com/track/5XMVWBm8ZILBhrWqCxQQ7R"
@@ -6468,7 +6526,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 207413,
       "name": "Older",
       "url": "https://open.spotify.com/track/0hyVcO1sh9NkHmKHs3veRz"
@@ -6490,7 +6548,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 197897,
       "name": "Older (feat. Sierra Deaton)",
       "url": "https://open.spotify.com/track/2XCrX5eufThkFcPDq4uLxG"
@@ -6690,7 +6748,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 403007,
       "name": "One By One (Silver Nikan Remix)",
       "url": "https://open.spotify.com/track/0Uu2PPV5YvadQOFntVdnRI"
@@ -7002,7 +7060,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 256523,
       "name": "Praia do Rosa - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF"
@@ -7358,7 +7416,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 183784,
       "name": "Rich Boy",
       "url": "https://open.spotify.com/track/0K7Dd9DP6fvOl0mrlX0aUa"
@@ -7528,10 +7586,32 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 191612,
       "name": "Sad Songs (feat. L Devine)",
       "url": "https://open.spotify.com/track/3JsmrruMp8AWcbEZ4342JY"
+    },
+    {
+      "album": {
+        "name": "Sad Songs (feat. L Devine) [Stripped]",
+        "url": "https://open.spotify.com/album/3L7ogksR6NT8lQqzKYs9AY"
+      },
+      "artists": [
+        {
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+        },
+        {
+          "name": "L Devine",
+          "url": "https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197025,
+      "name": "Sad Songs (feat. L Devine) - Stripped",
+      "url": "https://open.spotify.com/track/2caArnpeWW955oZL6rxgbd"
     },
     {
       "album": {
@@ -8056,7 +8136,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 113440,
       "name": "Song For Rich",
       "url": "https://open.spotify.com/track/6rrIZnAIV6jMf5RZ925NQN"
@@ -8376,7 +8456,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 168018,
       "name": "Sway With Me (with GALXARA)",
       "url": "https://open.spotify.com/track/5gqLY5H1ZyT3BScVr0nDMs"
@@ -8578,7 +8658,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 297226,
       "name": "Thanks to U",
       "url": "https://open.spotify.com/track/0fJwGPIvrNpl02dk3lrwx4"
@@ -9116,7 +9196,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 219375,
       "name": "Up to No Good",
       "url": "https://open.spotify.com/track/7sHwJwAK11n1zQHR40dWBQ"
@@ -9242,7 +9322,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 213632,
       "name": "Waste My Youth",
       "url": "https://open.spotify.com/track/4ccKliPoo6GU5qCVbss4rt"

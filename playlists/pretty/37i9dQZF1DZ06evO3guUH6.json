@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1036504,
+  "num_followers": 1036690,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFs8AAAAAACpM9ERmCqKXJK23o1rDk5S",
+  "snapshot_id": "aFyNgAAAAAD5qoWZkjRHodxsEnJkYTQ2",
   "tracks": [
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te quiero, te amo",
-        "url": "https://open.spotify.com/album/49Kkhe1jmqjWqGtP1lJCKd"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Te quiero, te amo",
-      "url": "https://open.spotify.com/track/2MyGz3SRpIRMyrOTpPQIRv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Inadaptados",
         "url": "https://open.spotify.com/album/7Fz369S1erEQYmnrbZawsB"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 175040,
       "name": "Los Inadaptados",
       "url": "https://open.spotify.com/track/15v0ra246PDmiT5Vh9YzWO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te quiero, te amo",
+        "url": "https://open.spotify.com/album/49Kkhe1jmqjWqGtP1lJCKd"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Te quiero, te amo",
+      "url": "https://open.spotify.com/track/2MyGz3SRpIRMyrOTpPQIRv"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-412 songs - 21 hr 16 min
+413 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [If The DJ Let Me](https://open.spotify.com/track/0WOr4IFzO5PX2KQoU4hslu) | [a.k.a\. skips](https://open.spotify.com/artist/4Ri7SRv1OH3ZXcY2LHIfVv) | [If The DJ Let Me](https://open.spotify.com/album/4kNlUWofwgf6KjUF6vB9pS) | 3:51 | 2023-09-06 | 2024-03-14 |
 | [In My Mind](https://open.spotify.com/track/3y5LDvgjA1pb18RsKjSOoo) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [In My Mind](https://open.spotify.com/album/4wzWrWfeDDpklQSvyH9oqK) | 3:28 | 2023-06-30 | 2024-03-14 |
 | [In The Air Tonight](https://open.spotify.com/track/6VcbHHFoOp3mflAcdevzyw) | [Pim Umenzi](https://open.spotify.com/artist/56Po1ul6iQbnVdKFoErt0b) | [In The Air Tonight](https://open.spotify.com/album/6VKyZLfCfdARfRaXYI55M9) | 3:10 | 2023-08-23 | 2024-03-14 |
+| [Intoxicated](https://open.spotify.com/track/4v6x9MA7KKWs1m3WXsjFey) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi), [Scott Forshaw](https://open.spotify.com/artist/2B3lljR6lMaymKtckOsdoy) | [Intoxicated](https://open.spotify.com/album/2uUkm6fqWs48lfnTxqimls) | 3:02 | 2025-06-27 |  |
 | [It's Not Right But It's Okay](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [It's Not Right But It's Okay](https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO) | 2:32 | 2024-04-26 |  |
 | [Jalapeño \(feat\. DIAS\)](https://open.spotify.com/track/0mssLywe7VqYH6NlvdxLhV) | [WAVES](https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ), [DIAS](https://open.spotify.com/artist/005nAN1lLc2dTLpjBQQGCq) | [Jalapeño \(feat\. DIAS\)](https://open.spotify.com/album/0FZc5utNvOQamO9PggX7jF) | 2:18 | 2023-09-22 | 2024-05-01 |
 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 | 2023-10-13 | 2024-08-03 |

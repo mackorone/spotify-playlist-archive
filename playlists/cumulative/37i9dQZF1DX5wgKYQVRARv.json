@@ -3317,6 +3317,24 @@
     },
     {
       "album": {
+        "name": "Drone",
+        "url": "https://open.spotify.com/album/7x0fnd4CBbRgf00jWks3ID"
+      },
+      "artists": [
+        {
+          "name": "Karnivool",
+          "url": "https://open.spotify.com/artist/6rX8AFY10dsJkJsv23Z9Um"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299096,
+      "name": "Drone",
+      "url": "https://open.spotify.com/track/5f0S8MYAve5k02OJaiOnv7"
+    },
+    {
+      "album": {
         "name": "Dr\u00fdsill",
         "url": "https://open.spotify.com/album/0iKkEZpsHWqoF1O5ESG2fE"
       },
@@ -6252,7 +6270,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 295866,
       "name": "Into the Light",
       "url": "https://open.spotify.com/track/0i0XScjsRN92yj56FR2N7t"
@@ -9814,7 +9832,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 290250,
       "name": "Red Letter",
       "url": "https://open.spotify.com/track/5t10PRTb216lrqwi1PPRMG"
@@ -10150,6 +10168,24 @@
       "duration_ms": 390762,
       "name": "Salamander in Two Worlds",
       "url": "https://open.spotify.com/track/3ZaIvAnZRhxLNemyyRErHH"
+    },
+    {
+      "album": {
+        "name": "Samsara",
+        "url": "https://open.spotify.com/album/4QZqkdduoJeuRi9cRpzi8S"
+      },
+      "artists": [
+        {
+          "name": "Royal Sorrow",
+          "url": "https://open.spotify.com/artist/0HadlhyA8MupHSseNEvpLK"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307386,
+      "name": "Samsara",
+      "url": "https://open.spotify.com/track/4GrDPT5VaYAQ9l0ULPk5FP"
     },
     {
       "album": {

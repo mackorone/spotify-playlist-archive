@@ -274,7 +274,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 264235,
       "name": "All I Ask Of You",
       "url": "https://open.spotify.com/track/6YBmnh6VjgCeM7grsnulWk"
@@ -2897,6 +2897,32 @@
     },
     {
       "album": {
+        "name": "The Secret Of Life: Partners, Volume 2",
+        "url": "https://open.spotify.com/album/3IWJnA5vzbaVW3LaNuftb2"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319258,
+      "name": "One Heart, One Voice (with Mariah Carey & Ariana Grande)",
+      "url": "https://open.spotify.com/track/4ZfLdr8yKKza6ZMEa5VMxI"
+    },
+    {
+      "album": {
         "name": "Highlights From Chess In Concert",
         "url": "https://open.spotify.com/album/3eQOkys4HGNdDKb4oGQsYx"
       },
@@ -3624,7 +3650,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 190480,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/6WbfBu06dfTcYdCRcbVmgb"
@@ -4600,6 +4626,28 @@
       "duration_ms": 230840,
       "name": "Whatever Lola Wants",
       "url": "https://open.spotify.com/track/6pzpfxH1hEeY8reNkL6qYJ"
+    },
+    {
+      "album": {
+        "name": "The Secret Of Life: Partners, Volume 2",
+        "url": "https://open.spotify.com/album/3IWJnA5vzbaVW3LaNuftb2"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202977,
+      "name": "Where Do I Go From You? (with Josh Groban) - from the musical, Beba's Mambo",
+      "url": "https://open.spotify.com/track/4DeOSZwYtLqRDA07gJCPib"
     },
     {
       "album": {

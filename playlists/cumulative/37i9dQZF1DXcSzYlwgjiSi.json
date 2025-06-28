@@ -731,6 +731,24 @@
     },
     {
       "album": {
+        "name": "Last Sip of Summer",
+        "url": "https://open.spotify.com/album/0XiXSefXS6syX87Z6UQ5vo"
+      },
+      "artists": [
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186217,
+      "name": "Better Off On A Beach",
+      "url": "https://open.spotify.com/track/4ZOoHIATFCuBrvQnsGbFbm"
+    },
+    {
+      "album": {
         "name": "Jalopies & Expensive Guitars",
         "url": "https://open.spotify.com/album/2OVwF1wNT8lJgiYLhjFzKT"
       },

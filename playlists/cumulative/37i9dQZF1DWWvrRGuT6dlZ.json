@@ -1163,7 +1163,25 @@
     },
     {
       "album": {
-        "name": "Arakam Attam",
+        "name": "Arigatou",
+        "url": "https://open.spotify.com/album/4YZxYVLR8B0XHWKomtxcjJ"
+      },
+      "artists": [
+        {
+          "name": "Rina-Hime",
+          "url": "https://open.spotify.com/artist/5OagyPPLWO4nClIvwis1FB"
+        }
+      ],
+      "date_added": "2025-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191333,
+      "name": "Arigatou",
+      "url": "https://open.spotify.com/track/1OJolCtzqOq6cuo0KgoBCm"
+    },
+    {
+      "album": {
+        "name": "ARKKAN ATTAM",
         "url": "https://open.spotify.com/album/5Ftzuc1iFFaPThU3nPfgP1"
       },
       "artists": [
@@ -1180,26 +1198,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 211583,
-      "name": "Arakam Attam",
+      "name": "ARKKAN ATTAM",
       "url": "https://open.spotify.com/track/3Ki1TN9bhjITGZVG9gnHPe"
-    },
-    {
-      "album": {
-        "name": "Arigatou",
-        "url": "https://open.spotify.com/album/4YZxYVLR8B0XHWKomtxcjJ"
-      },
-      "artists": [
-        {
-          "name": "Rina-Hime",
-          "url": "https://open.spotify.com/artist/5OagyPPLWO4nClIvwis1FB"
-        }
-      ],
-      "date_added": "2025-05-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 191333,
-      "name": "Arigatou",
-      "url": "https://open.spotify.com/track/1OJolCtzqOq6cuo0KgoBCm"
     },
     {
       "album": {
@@ -4470,6 +4470,24 @@
       "duration_ms": 203541,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/2a0NpvZSso8Kp2jKHdV3Ud"
+    },
+    {
+      "album": {
+        "name": "Demam",
+        "url": "https://open.spotify.com/album/2UqDXv4oiF8fbRd0BzGsXI"
+      },
+      "artists": [
+        {
+          "name": "7Evening",
+          "url": "https://open.spotify.com/artist/6QzWlmMk6hBasBSrwig2OR"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209124,
+      "name": "Demam",
+      "url": "https://open.spotify.com/track/1w5rYCgmghqAa9Q0yfspfT"
     },
     {
       "album": {
@@ -11542,6 +11560,24 @@
       "duration_ms": 194835,
       "name": "NEVER",
       "url": "https://open.spotify.com/track/7xPZnlty5gBy92kgqGtX6u"
+    },
+    {
+      "album": {
+        "name": "Never Ever Die",
+        "url": "https://open.spotify.com/album/42QdF6ND8V5sJeENxZo8bN"
+      },
+      "artists": [
+        {
+          "name": "Jemerine Chan",
+          "url": "https://open.spotify.com/artist/0KCmbIfMchkbS92OvDH5HL"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Never Ever Die",
+      "url": "https://open.spotify.com/track/7FvUZuR57aPDQ9Aczu2b1A"
     },
     {
       "album": {

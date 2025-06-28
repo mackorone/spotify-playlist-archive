@@ -4,7 +4,7 @@
 
 > Classic Disney songs reimagined by your favorite popular artists.
 
-143 songs - 7 hr 35 min
+144 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Grim Grinning Ghosts \(Dance Party\)](https://open.spotify.com/track/7raiG1962Kb1UyD8otwGXZ) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Haunted Mansion \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JNLw46VIKt7zqPxFA69l7) | 1:32 | 2025-05-21 |  |
 | [Hakuna Matata](https://open.spotify.com/track/5l5rUCU2QAA1sXTuNPlMHZ) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi Minnie: Focus](https://open.spotify.com/album/37LBLwOpwruXguw0QclQzN) | 2:48 | 2025-05-21 |  |
 | [Hawaiian Roller Coaster Ride](https://open.spotify.com/track/3pv3kFVXQYZVrXAChG7na3) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Hawaiian Roller Coaster Ride](https://open.spotify.com/album/3Yk55uGnU2uSURBOOpJ3YV) | 2:49 | 2025-05-21 |  |
+| [Hawaiian Roller Coaster Ride](https://open.spotify.com/track/4PVbQBDGoaSjjq88ai5Crw) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Summer Songs](https://open.spotify.com/album/5iLT78O1EodaJ4nAeltiZy) | 2:53 | 2025-06-27 |  |
 | [Hawaiian Roller Coaster Ride](https://open.spotify.com/track/1RDQoUE3pE44TOKKKP8FQC) | [Disney Ukulele](https://open.spotify.com/artist/2L8azGZexr4bN58bhEB7wm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Ukulele: Happy](https://open.spotify.com/album/0bcbleewCHnbRNDfBls4UI) | 2:13 | 2025-06-10 |  |
 | [Hawaiian Roller Coaster Ride](https://open.spotify.com/track/5coZgMb9D2sypM21bwEOAq) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3), [Kamehameha Schools Children's Chorus](https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Lilo & Stitch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/682Q92eLz5C2AjMv5oYt4V) | 3:29 | 2025-05-21 |  |
 | [Hawaiian Roller Coaster Ride](https://open.spotify.com/track/1NdklgLHMdP6aQ65MJjkag) | [Lehua Kalima](https://open.spotify.com/artist/49tX83nqQNmekT2XQIIg1J), [John "Duke" Mailolo](https://open.spotify.com/artist/6OLiZhtGOd9t81oPISY1ZD), [Alden Levi](https://open.spotify.com/artist/5DmULKVWfiAvw4YFwjDOAZ), [Kona Abergas](https://open.spotify.com/artist/333J7asEuKSRJCeTpppX3S), [Sara Sonomura](https://open.spotify.com/artist/7p6hwAL9jq8IIpKYezG1Dc), [Kamehameha Schools Children's Chorus](https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS) | [Mele from Aunty’s Beach House Aulani, a Disney Resort and Spa](https://open.spotify.com/album/0rd2XH5OTuhZxKmILONpoe) | 3:28 | 2025-06-10 |  |

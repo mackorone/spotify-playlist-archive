@@ -4,7 +4,7 @@
 
 > 感受女聲力量。Cover: 連詩雅
 
-518 songs - 1 day 6 hr 55 min
+519 songs - 1 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [當兵的自我修養](https://open.spotify.com/track/6ipUXVKisMDnAiQP8GmBik) | [J.Arie](https://open.spotify.com/artist/1XtqhbH2mw54S87c4d4v2v) | [當兵的自我修養](https://open.spotify.com/album/1X5cen2hFfI6V1Ul9COBBa) | 2:51 | 2024-10-17 |  |
 | [痴根鐵粉](https://open.spotify.com/track/25GXAivtvnqjrd9HxtUo4F) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [痴根鐵粉](https://open.spotify.com/album/2K2fG8bNgZws9A266d6Uue) | 2:48 | 2024-10-03 |  |
 | [白夜行](https://open.spotify.com/track/1zBbE6deJPlPmZ1A0hCUvV) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [白夜行](https://open.spotify.com/album/7xma6rcCZa9zjp98JKkthT) | 4:09 | 2025-05-01 |  |
+| [白夜行 \- 極夜版](https://open.spotify.com/track/1EOT8dg6JWsphiHgoVTDpk) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [白夜行 \(極夜版\)](https://open.spotify.com/album/1HxprN7zFU5MEqoG1eZTPZ) | 3:41 | 2025-06-27 |  |
 | [白月光](https://open.spotify.com/track/7wreJjj0j7KDurrYbeThHt) | [曾樂彤](https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU) | [白月光](https://open.spotify.com/album/4Um2qJEhmwaFWnaS9GGiXK) | 3:45 | 2025-02-20 |  |
 | [白金卡公主](https://open.spotify.com/track/12tq3AJtqWB8OcdANiG8CN) | [J.Arie](https://open.spotify.com/artist/1XtqhbH2mw54S87c4d4v2v) | [白金卡公主](https://open.spotify.com/album/7qmZp4TkhCLVF3vD6xl1d8) | 4:11 | 2025-01-02 |  |
 | [白髮齊眉](https://open.spotify.com/track/6qTqCB50JejUbmv2HFTVUP) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [白髮齊眉](https://open.spotify.com/album/12ZDGifLDgCZLEzGRBbdfQ) | 3:39 | 2024-06-27 |  |

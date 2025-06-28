@@ -4,7 +4,7 @@
 
 > Best served with party jollof
 
-174 songs - 8 hr 49 min
+175 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Iweriwe Love](https://open.spotify.com/track/7dpMNEUoyyJVpI5w5BT53i) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [Tears Of A Mad Man](https://open.spotify.com/album/6uNQxH2dfmG61h88oYcI6F) | 2:36 | 2024-10-18 | 2025-04-18 |
 | [Julie](https://open.spotify.com/track/58f9RS1Wkaapezwhu5Cu3L) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [UY Scuti](https://open.spotify.com/album/2nDH1AOBaaugSngw9Yiwyw) | 1:57 | 2022-02-11 | 2024-07-27 |
 | [Knee Down](https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:27 | 2022-08-08 |  |
-| [Kulu Kulu](https://open.spotify.com/track/10ZTG3QRqvcyJErfk2xKgQ) | [PHAEMOUS](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ) | [Kulu Kulu](https://open.spotify.com/album/6xrhiS6htmyeWa1lLNrESH) | 2:55 | 2025-02-14 |  |
+| [Kulu Kulu](https://open.spotify.com/track/10ZTG3QRqvcyJErfk2xKgQ) | [PHAEMOUS](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ) | [Kulu Kulu](https://open.spotify.com/album/6xrhiS6htmyeWa1lLNrESH) | 2:55 | 2025-02-14 | 2025-06-28 |
 | [Lagos Love Story](https://open.spotify.com/track/2Q2QZJlhGcGPV1XAdvcqob) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:35 | 2024-05-31 |  |
 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 | 2022-06-13 |  |
 | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB) | 2:30 | 2022-07-14 |  |
@@ -111,11 +111,12 @@
 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 | 2022-02-11 | 2024-06-01 |
 | [More \(Ko Ko Ko\)](https://open.spotify.com/track/7nvtZM8QQZMzX3DTUo0vmJ) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [More \(Ko Ko Ko\)](https://open.spotify.com/album/7sgeYZTkSzmMbxuLcFrzIc) | 2:39 | 2022-09-01 | 2023-05-20 |
 | [More Of You](https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [More Of You](https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic) | 3:00 | 2023-02-03 | 2023-05-20 |
+| [MORE THAN ENOUGH](https://open.spotify.com/track/62I03U8XPrpmzbNDtoVf53) | [Zugo](https://open.spotify.com/artist/2LoJyG5V1EDY2z14ex8O4E) | [More Than Enough](https://open.spotify.com/album/5yvFLn1Dex1avncZEz7CO5) | 2:35 | 2025-06-27 |  |
 | [My Darling](https://open.spotify.com/track/1EOCegpfqI77GcoJMo0NdH) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [My Darling](https://open.spotify.com/album/5kKcj1ekmHXMhqKlXIToml) | 3:19 | 2023-01-29 | 2023-11-10 |
 | [My Man](https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [My Man](https://open.spotify.com/album/2P0BnbvscGJpuGBlCUEIUA) | 3:38 | 2022-04-07 | 2023-03-31 |
 | [My Only Baby](https://open.spotify.com/track/6ZF8NhfpndsCZeCW20i3AH) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [My Only Baby](https://open.spotify.com/album/0eWaXC5Yxcwjf4ieDMFUI9) | 2:38 | 2023-01-12 | 2023-12-02 |
 | [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 | 2022-05-19 | 2023-03-25 |
-| [No Way \- Remix](https://open.spotify.com/track/2DioKnZNxHU1RoThrtFMCX) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Beyond a Guitarist \[B.A.G\]](https://open.spotify.com/album/2vR2Ch3Al6Rd3U0vxv7z00) | 2:48 | 2024-09-06 |  |
+| [No Way \- Remix](https://open.spotify.com/track/2DioKnZNxHU1RoThrtFMCX) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Beyond a Guitarist \[B.A.G\]](https://open.spotify.com/album/2vR2Ch3Al6Rd3U0vxv7z00) | 2:48 | 2024-09-06 | 2025-06-28 |
 | [Nobody](https://open.spotify.com/track/7MtpW10epOD3sUtURL5ZDu) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Nobody](https://open.spotify.com/album/0ZLCpl3DOiOgsbSssovdgt) | 2:25 | 2022-02-11 |  |
 | [obaa sima](https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Outside / obaa sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:06 | 2023-12-08 |  |
 | [Obimo](https://open.spotify.com/track/6bNyrsf16Yt9ZyYfnGoCGU) | [Chisim](https://open.spotify.com/artist/0ZXxpFOyjQPBEDYj6BXPfL) | [Obimo & Never](https://open.spotify.com/album/3Xb0QdbIIdaxiF2NCsowrA) | 2:09 | 2024-07-12 | 2024-08-02 |

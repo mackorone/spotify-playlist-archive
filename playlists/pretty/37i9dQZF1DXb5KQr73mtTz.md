@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,275 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,288 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 47 | [Lighthouse](https://open.spotify.com/track/7MtSbLLRwJQlPE3zRM6Fwy) | [YUN MIN SOO](https://open.spotify.com/artist/1chAxRqxKcAEVRmsMlXScd), [Lee Ye Joon](https://open.spotify.com/artist/0pi0UqDbdqphea7hTxQyby) | [Lighthouse](https://open.spotify.com/album/7HSDyvSeIpgDjU2FtFmCYj) | 4:10 |
 | 48 | [When I Close My Eyes](https://open.spotify.com/track/177RNC6mpCBnry2nF66rYT) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [When I Close My Eyes](https://open.spotify.com/album/4qCeoxwrJVyacT8irO3n4W) | 4:42 |
 | 49 | [last night](https://open.spotify.com/track/3WVBb9WuUsHlfPSewks6oo) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [last night](https://open.spotify.com/album/19WqNz0etWx0WvHDD6zYRR) | 3:41 |
-| 50 | [something](https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [something](https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s) | 3:38 |
+| 50 | [일기](https://open.spotify.com/track/6FPvHr4oLddJr6fpNqo6S0) | [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [일기](https://open.spotify.com/album/4xZ9zHI2Z36YEkbNeSFJHZ) | 5:03 |
 
 Snapshot ID: `aFjbGAAAAACwKpIr64hS9hrxGPTakTCb`

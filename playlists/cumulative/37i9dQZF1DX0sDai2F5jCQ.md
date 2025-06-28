@@ -4,7 +4,7 @@
 
 > Your shortcut to the best new Hip Hop\. Cover: AJ Tracey
 
-611 songs - 1 day 5 hr 48 min
+612 songs - 1 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-09-22 | 2024-03-15 |
 | [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 | 2025-01-23 | 2025-02-21 |
 | [FWG](https://open.spotify.com/track/1eoMcGLGEAeQUIjwEIytkq) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [FWG](https://open.spotify.com/album/0maPmRE6UjqadOPD06CfWZ) | 2:58 | 2024-10-04 | 2025-01-17 |
+| [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 | 2025-06-26 |  |
 | [G.U.S.U](https://open.spotify.com/track/7upRYFw7oGgCzQtqAdtsp1) | [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI) | [G.U.S.U](https://open.spotify.com/album/7nyyUB04VF3IKGERYxknoB) | 3:18 | 2025-04-03 |  |
 | [Gang Ties \(feat\. Headie One\)](https://open.spotify.com/track/24MvIfLvlRyemQX4ena9W6) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Gang Ties \(feat\. Headie One\)](https://open.spotify.com/album/7EoemSCOLGwqP6QwOly6eR) | 3:00 | 2024-09-19 | 2025-01-10 |
 | [Gangsta](https://open.spotify.com/track/49oKnEjgRSs3DMXScEU2G1) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Gangsta](https://open.spotify.com/album/1qz3r9Ys5UXaE0XToUU71b) | 3:14 | 2024-02-22 | 2024-04-19 |

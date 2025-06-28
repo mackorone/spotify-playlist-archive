@@ -1103,6 +1103,28 @@
     },
     {
       "album": {
+        "name": "Faya",
+        "url": "https://open.spotify.com/album/43ohjP5OkrsrlmewjaDkqk"
+      },
+      "artists": [
+        {
+          "name": "LAGOS IN PARIS",
+          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
+        },
+        {
+          "name": "Ayisi",
+          "url": "https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236080,
+      "name": "Faya",
+      "url": "https://open.spotify.com/track/6bS5s8LrmKI5ZV7RxyFmlm"
+    },
+    {
+      "album": {
         "name": "Nobody Badder",
         "url": "https://open.spotify.com/album/1noSivqDiu16wO4i99I9u0"
       },
@@ -1194,7 +1216,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 138762,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/3ilP9ixF3L5wM9dJWTaSid"

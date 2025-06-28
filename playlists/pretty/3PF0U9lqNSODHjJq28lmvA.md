@@ -4,25 +4,29 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,510 likes - 16 songs - 1 hr 0 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,510 likes - 20 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Love Letters In The Sand](https://open.spotify.com/track/2o55ifkvLnn2Id9dSjoN71) | [The Nielsen Valley](https://open.spotify.com/artist/3DehMW2RqC9deqyZoRuiUW), [Bilal Irshed](https://open.spotify.com/artist/4AdAvikh4ubUyy1Ds7mOZ5) | [Love Letters In The Sand](https://open.spotify.com/album/3kJHGbK2ds0uxl5yC4RIuL) | 2:51 |
-| 2 | [Molly Coddle](https://open.spotify.com/track/15YpHi1S355b5qDLktAzCJ) | [Route 500](https://open.spotify.com/artist/7KdLalL74q6v7fQA60osrz) | [Molly Coddle](https://open.spotify.com/album/1RGbCouulwVQB35YAlilRc) | 3:26 |
-| 3 | [Luminis](https://open.spotify.com/track/2gcCrmkECniUK8RzCo0HFs) | [Sirch](https://open.spotify.com/artist/5dx5ZgbJNye2gvTln814Bk) | [Luminis](https://open.spotify.com/album/5lSW91CVkXQt25UCZPXs9X) | 2:57 |
-| 4 | [i'll see \(you\)](https://open.spotify.com/track/38bK83UoER1Bp4g4GDCjwR) | [IVIX](https://open.spotify.com/artist/0CdfkXly840nzSuduDhEQF), [Varlowe](https://open.spotify.com/artist/6uMXe5fI1i6kzyASr6tmZz) | [i'll see \(you\)](https://open.spotify.com/album/6OUsWNFrxbmvqdbY1Jfhf6) | 2:49 |
-| 5 | [Run](https://open.spotify.com/track/3wxLd3RIhU4oIbtsE2y7oC) | [Dracinda](https://open.spotify.com/artist/2E22V5h9X6XRXbPfLYh20b) | [Run](https://open.spotify.com/album/519P1w7KTZNDUMZH2qrNPt) | 2:17 |
-| 6 | [Do You Think About Me?](https://open.spotify.com/track/4ORi8vAClEWXDi1ntsq1qn) | [Fantom Cat](https://open.spotify.com/artist/27MMoNNTOunZxCXt2BcvKB) | [Do You Think About Me?](https://open.spotify.com/album/6ndL9mn3iu4XXezUGI0Xd0) | 4:45 |
-| 7 | [My Father](https://open.spotify.com/track/29gO6pjOXfKjHivB5gbeE6) | [Thomas Wilson \(Templar\)](https://open.spotify.com/artist/57Sn47MVshEPlgqSdg4Lju) | [My Father](https://open.spotify.com/album/0zZtAdqiaZRyU9gG4XI7Xa) | 3:14 |
-| 8 | [Favela Vibes](https://open.spotify.com/track/1eiqVDdHodPkcowamLiKkH) | [DhuMc](https://open.spotify.com/artist/4PY1ax2dGfhq9OILqvx7HT) | [Favela Vibes](https://open.spotify.com/album/3uN2p2lJ2J17xMaK8mu2BX) | 2:07 |
-| 9 | [Inner Pain](https://open.spotify.com/track/6RJQ0BLkWrb7selc6qhHB0) | [Not The New Messiah](https://open.spotify.com/artist/5FuhiuIKHbjxfRVWOXS0WY) | [Alpha Superior](https://open.spotify.com/album/2sYmFn49ijFAvzLym2pMzd) | 3:48 |
-| 10 | [Crazy World](https://open.spotify.com/track/7Fui8qFQli8gRQMO6JKE7k) | [Jean\-Pierre Lips](https://open.spotify.com/artist/6411E2DfVvuRIOzz0VpnEv) | [Crazy World](https://open.spotify.com/album/5NNFK9gsEOTXkjR3qWL1Pc) | 5:32 |
-| 11 | [Faux Tape](https://open.spotify.com/track/0j4h1KViqWqu6Q9sS4UsRQ) | [Jaffer](https://open.spotify.com/artist/384su3vIdgFhfwb7HBObvF) | [Aftera VA, Vol\. 2](https://open.spotify.com/album/0MBhYdPaH4WP3ZRXqwD6Rz) | 5:34 |
-| 12 | [Through The Nebula](https://open.spotify.com/track/4tRP4bJlmpOqlkQkFlqhIU) | [Eon Rift](https://open.spotify.com/artist/6lNAaGeL0T2a4zF750AH95) | [Through The Nebula](https://open.spotify.com/album/0ltmfnUimnvrDglrWlkBj7) | 8:59 |
-| 13 | [Vehement](https://open.spotify.com/track/6l3t3EKRsJQLRzY4nh7GMv) | [Truful](https://open.spotify.com/artist/2glxKqJyBh0tq4NMzHMDoF) | [Rumination](https://open.spotify.com/album/3Jn9TPUtqYX6QnOs9QtEZS) | 2:12 |
-| 14 | [Holy sensommar](https://open.spotify.com/track/1qxe5ryJ6iNXmZLJjSfTS5) | [Erik Brolin](https://open.spotify.com/artist/1SBWKLOfUsey2PMDUG3r92) | [Holy sensommar](https://open.spotify.com/album/0yrdXIVnOCnyBBI3uDOl2S) | 3:19 |
-| 15 | [Taas yksin jäädä saan \(Les hommes qui passent\)](https://open.spotify.com/track/3YFNtSh1oEOBgCj6o7vRl5) | [Pirjo Lehti](https://open.spotify.com/artist/3xwRtfK52rnICUasjWaV6b) | [Kun mentiin hotelliin / Taas yksin jäädä saan](https://open.spotify.com/album/42wm7TidXL4jp36m5C1vZb) | 3:42 |
-| 16 | [cockfighters prayer](https://open.spotify.com/track/7rptE90VRSAeifr5elxINW) | [Lonnie Wilburn](https://open.spotify.com/artist/68YeB5uFu8CVunMJSYIa7s) | [Like Father, Like Son](https://open.spotify.com/album/3mNzvoezoWj8rrM8U6BXB6) | 2:37 |
+| 1 | [Timeless Me \(Origin 2004\)](https://open.spotify.com/track/49vrglEFCJsMDY77s70NIe) | [Solar Fields](https://open.spotify.com/artist/7GyhmlEy51sGUE09A5AWzc), [Krister Linder](https://open.spotify.com/artist/3FugpKpWvlo60nJebN2PJj) | [Origin \# 04](https://open.spotify.com/album/5Ea2Wf0fSY9E0V11B0Fyr1) | 9:04 |
+| 2 | [Wim Hoffing](https://open.spotify.com/track/03G014VVaIiTQDcXxNATLp) | [Sunny Suljic](https://open.spotify.com/artist/3JcGZ9gszrHCHXC9wJtNko) | [Wim Hoffing](https://open.spotify.com/album/16YP1Y9VCCFTpj3piBIgIK) | 1:53 |
+| 3 | [WASHINGTON D.C\. \- From "Subway Surfers"](https://open.spotify.com/track/5FqHI3CvGko4kAq3Nge6AN) | [Subway Surfers](https://open.spotify.com/artist/1fqpSvihFqrhpvzrTPrRMQ) | [WASHINGTON D.C\. \(From "Subway Surfers"\)](https://open.spotify.com/album/4mOiKzskXzQjudWtvrg3vC) | 2:26 |
+| 4 | [don't waste your time](https://open.spotify.com/track/1KnFXbbJW3Dl30VYyOqRQa) | [Feyesal](https://open.spotify.com/artist/6frffJSfCnyExIFDQEHnyf) | [don't waste your time](https://open.spotify.com/album/0gY9u8DBvnqt4waUUbvi77) | 2:55 |
+| 5 | [Making Moves](https://open.spotify.com/track/3iyVj3qtq4uwQvsfnVTdOg) | [glide](https://open.spotify.com/artist/4sJIxnsxciNWl602rXrfXT), [Guru Griff](https://open.spotify.com/artist/5Z5xacWm71NpXvZwLJf2B8) | [Making Moves](https://open.spotify.com/album/4HrWjflw7OiNXXND4XyQN5) | 2:04 |
+| 6 | [Heiss \(Heiss, Heiss\)](https://open.spotify.com/track/0yXLrPidFDMTrfnMpvHVJA) | [Vocabular](https://open.spotify.com/artist/7exwAcZwm33ymfwgbJSVcE) | [Heiss \(Heiss, Heiss\)](https://open.spotify.com/album/4o1aReaNHykiMxdrjHdPQV) | 3:05 |
+| 7 | [Stay Radiant](https://open.spotify.com/track/6Abhg6SdCVF8YoXVw1SNjh) | [Karli Fairbanks](https://open.spotify.com/artist/7cV1y6DM9FSgduqtR5q9x5), [Cedar & Boyer](https://open.spotify.com/artist/0dTj5yFPLBlZuPQuBJt05y) | [Stay Radiant](https://open.spotify.com/album/6WAf76idNNJJ7Kd9CDQmnh) | 3:38 |
+| 8 | [Muhlenberg County Stars](https://open.spotify.com/track/5hCQlKbAExXc24lnWupQUv) | [Jack Browning](https://open.spotify.com/artist/4yIRocVw0myaMyZ0C8ZN20) | [Muhlenberg County Stars](https://open.spotify.com/album/4EiSIwEJED9PtQYvJF084E) | 3:59 |
+| 9 | [Pearly Gates](https://open.spotify.com/track/7kTMldhIYHAsxTuif0crY7) | [The Night Parrots](https://open.spotify.com/artist/1F9tpDnuGk3WaYe4AQyILo) | [Pearly Gates](https://open.spotify.com/album/32MuYaWUXU6bWRs5M9a1fn) | 3:48 |
+| 10 | [Aika](https://open.spotify.com/track/3f7MZcInUAZNuFt63Rq0ES) | [Freija](https://open.spotify.com/artist/4xa6BWG2tjkWZt8KS6H74u) | [Aika](https://open.spotify.com/album/1zdIVZYoiJu5WYnuklgbsc) | 4:12 |
+| 11 | [Toch Wil Ik De Stad](https://open.spotify.com/track/1XoZvOgTbsm9nxlLb1w7nC) | [Samija](https://open.spotify.com/artist/46P7ib6U2AhkLntVpf6LUF), [oxar](https://open.spotify.com/artist/52ihT4QzmW1YIhyU1NoUIU) | [Toch Wil Ik De Stad](https://open.spotify.com/album/7j0OsTbVUCFvkjSebqXx5k) | 3:32 |
+| 12 | [Ghettobön](https://open.spotify.com/track/3llgwLnIavM1rSdOV6U1n8) | [Dadi Vozo](https://open.spotify.com/artist/4ZgekqvcIq5a8OTpWsWbpw) | [Ghettobön](https://open.spotify.com/album/7pU45qB3NOcBgXdiWuFWGI) | 3:37 |
+| 13 | [Safe](https://open.spotify.com/track/1MdpNoFeQjRaEyJKoLLmpL) | [Hanna Palm](https://open.spotify.com/artist/0xidPcv8HCB6WdTOShIX6Q) | [Safe](https://open.spotify.com/album/1L6jbjxtBvWbtRSdBj2yUl) | 3:58 |
+| 14 | [Time Progresses](https://open.spotify.com/track/1ciPyZKRHiRyku3pSLWBDA) | [Telephone Romeo](https://open.spotify.com/artist/2kQq9VtfaWtB8OFJn6ta1G) | [Time Progresses](https://open.spotify.com/album/5hPVhmFwuqik0AOxqJzc87) | 4:08 |
+| 15 | [Fri Fågel](https://open.spotify.com/track/634ZKPdT062s5czODVswDG) | [Kevin Larsson](https://open.spotify.com/artist/5aun2Q0UTj9a9TrlyiX8jq) | [Fri Fågel](https://open.spotify.com/album/1uPUjZmwUtpPweVgv8Ycf3) | 3:54 |
+| 16 | [No son](https://open.spotify.com/track/6tLRcqvosQfF1RnGeWUEA0) | [el negro kartiel](https://open.spotify.com/artist/5THQyRImmS4QHLJy35bqyu) | [MODO INFINITO](https://open.spotify.com/album/2Cq6CaIPTOWsedVdSZT7Nv) | 1:50 |
+| 17 | [Worthless to Me](https://open.spotify.com/track/3jjnF3tw4EWrbjBwr4fUeI) | [Isabella Delgado](https://open.spotify.com/artist/5zRi6BSdHxKKEdS2sI0dsF) | [Breathless](https://open.spotify.com/album/0CctnJ76IftOfUI1GarbRB) | 3:43 |
+| 18 | [On The Road To God Knows Where](https://open.spotify.com/track/4PU7YT73NcleAFu2r5IvTJ) | [Sune M](https://open.spotify.com/artist/25AbcddJwgop1v0CXrz4m2) | [On The Road To God Knows Where](https://open.spotify.com/album/2lwWnV0uQggvGxXCxw410z) | 3:18 |
+| 19 | [Here and Now](https://open.spotify.com/track/4kwMl6d6qXISVSin7Hzb4u) | [Local Sweetheart](https://open.spotify.com/artist/720GxkyV5L1mevKUEcsFZP) | [Here and Now](https://open.spotify.com/album/3OU8LlaHEuUJjuYJN8Dggq) | 4:25 |
+| 20 | [När själen ler](https://open.spotify.com/track/5GDf61sRocInkUlg2E8c10) | [Mats Nydahl](https://open.spotify.com/artist/3Tam7d2KLe0R19nkelIdSE) | [Som jag trodde](https://open.spotify.com/album/1AuzH1AzVQa9UutY1w9Jui) | 2:52 |
 
-Snapshot ID: `AAAEMLCl3XI9avnh2dzEshYElqw/vVNQ`
+Snapshot ID: `AAAEMsM8QlblY0pmIZyBkQQoQR1FzAFs`

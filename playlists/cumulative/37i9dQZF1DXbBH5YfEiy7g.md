@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=uGuuK6QzQtSEFeMF2uASxQ">Benjamin Dube</a>
 
-143 songs - 15 hr 23 min
+144 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Wahalalela \- Live](https://open.spotify.com/track/20dvrEZcV61nOpQrgKZTZc) | [TSHEPO LEBEPE](https://open.spotify.com/artist/06PQeyGH37N3e3SAxwJ3LG) | [Wahalalela \(Live\)](https://open.spotify.com/album/2bzH6DMsp2XeUBRXhfJtNX) | 6:40 | 2025-03-07 | 2025-04-11 |
 | [Wakhazimula \- Live](https://open.spotify.com/track/7FfwSYKinjefexPoH8XSrm) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Wakhazimula \(Live\)](https://open.spotify.com/album/7G9ZPEePMWoWw4ZXcWc1hg) | 8:07 | 2024-10-11 |  |
 | [Wakrazulwa](https://open.spotify.com/track/7F1CiwICZMraSDwsRgs2wu) | [JTG Gospel Choir](https://open.spotify.com/artist/0GyDw1zJL0JJogWrT7Z7Ht), [Kholeka](https://open.spotify.com/artist/37dSM8Vh8aCBAhqGCVIfmy) | [Wakrazulwa](https://open.spotify.com/album/1ibKvJT9iJDd9E047ceYGp) | 3:20 | 2024-10-11 | 2024-11-15 |
+| [Wangethula \(Live\)](https://open.spotify.com/track/1xIoMAWdjcIKhz2WSsqtEW) | [Nozipho Phiri](https://open.spotify.com/artist/7oG0byeE7vcitDrgbH2LVo) | [Wangethula \(Live\)](https://open.spotify.com/album/0QemxNOpo2FmgChieTkrfJ) | 8:40 | 2025-06-27 |  |
 | [Wenzile \- Live](https://open.spotify.com/track/2wQEpdV8eh06s1H5OSGhLv) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 22: All For You \(Live\)](https://open.spotify.com/album/1V8rJMpD0XtsBBCgAC4uU3) | 8:38 | 2024-10-11 |  |
 | [Wubani O zo Pepeza](https://open.spotify.com/track/13Upyibdp5rgnRkG8Jbsoy) | [Solly Moholo](https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z) | [Wubani O zo Pepeza](https://open.spotify.com/album/01XauFW5LraNVO4CP2BoNm) | 4:50 | 2024-10-15 | 2024-11-15 |
 | [Xa Ndiyekelelwa \(Live\)](https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Tshepiso](https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I), [Thando](https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 6:46 | 2024-10-04 |  |

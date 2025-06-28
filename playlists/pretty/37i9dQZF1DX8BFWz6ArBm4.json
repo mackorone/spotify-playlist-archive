@@ -1,6 +1,6 @@
 {
   "description": "\u2600\ufe0f \u0393\u03b9\u03b1\u03c4\u03af \u03b4\u03b5\u03bd \u03bd\u03bf\u03b5\u03af\u03c4\u03b1\u03b9 \u03ba\u03b1\u03bb\u03bf\u03ba\u03b1\u03af\u03c1\u03b9 \u03c7\u03c9\u03c1\u03af\u03c2 \u03c4\u03b9\u03c2 \u03b1\u03b3\u03b1\u03c0\u03b7\u03bc\u03ad\u03bd\u03b5\u03c2 \u03c3\u03bf\u03c5 \u03bb\u03b1\u0399\u03ba\u03ad\u03c2 \u03c6\u03c9\u03bd\u03ad\u03c2 \u2600\ufe0f\u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Dimos Anastasiadis",
-  "num_followers": 35406,
+  "num_followers": 35435,
   "original_name": "K\u03b1\u03bb\u03bf\u03ba\u03b1\u03b9\u03c1\u03b9\u03bd\u03ac \u039b\u03b1\u03ca\u03ba\u03ac ",
   "owner": {
     "name": "Spotify",
@@ -50,6 +50,10 @@
         {
           "name": "Ivi Adamou",
           "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
+        },
+        {
+          "name": "Stavento",
+          "url": "https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK"
         }
       ],
       "duration_ms": 193274,
@@ -527,18 +531,18 @@
     {
       "added_at": "2025-06-26 21:06:33",
       "album": {
-        "name": "Lekes",
-        "url": "https://open.spotify.com/album/32OzRuOOFSRH69LzHEK0JF"
+        "name": "Ekptotos Aggelos",
+        "url": "https://open.spotify.com/album/5H0DhhMEDdRfVACaXtZaKM"
       },
       "artists": [
         {
-          "name": "Anna Vissi",
-          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
         }
       ],
-      "duration_ms": 255430,
-      "name": "Lekes",
-      "url": "https://open.spotify.com/track/48tVeEffiTEE6v8sMMQjf8"
+      "duration_ms": 263015,
+      "name": "Ekptotos Aggelos",
+      "url": "https://open.spotify.com/track/7axy7PVFNdKylwB5JEuPV6"
     },
     {
       "added_at": "2025-06-26 21:06:33",
@@ -563,18 +567,18 @@
     {
       "added_at": "2025-06-26 21:06:33",
       "album": {
-        "name": "Ekptotos Aggelos",
-        "url": "https://open.spotify.com/album/5H0DhhMEDdRfVACaXtZaKM"
+        "name": "Lekes",
+        "url": "https://open.spotify.com/album/32OzRuOOFSRH69LzHEK0JF"
       },
       "artists": [
         {
-          "name": "Nikos Oikonomopoulos",
-          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+          "name": "Anna Vissi",
+          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
         }
       ],
-      "duration_ms": 263015,
-      "name": "Ekptotos Aggelos",
-      "url": "https://open.spotify.com/track/7axy7PVFNdKylwB5JEuPV6"
+      "duration_ms": 255430,
+      "name": "Lekes",
+      "url": "https://open.spotify.com/track/48tVeEffiTEE6v8sMMQjf8"
     },
     {
       "added_at": "2025-06-26 21:06:33",
@@ -791,6 +795,26 @@
     {
       "added_at": "2025-06-26 21:06:33",
       "album": {
+        "name": "Parea Me Tin Ioulia",
+        "url": "https://open.spotify.com/album/45Eqx4JgN9XscVcEhI1LLQ"
+      },
+      "artists": [
+        {
+          "name": "Ioulia Kallimani",
+          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
+        },
+        {
+          "name": "Michael Touratzidis",
+          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
+        }
+      ],
+      "duration_ms": 169813,
+      "name": "Anexartiti - Live Version",
+      "url": "https://open.spotify.com/track/0pb6PxjqUzjiPKSuY5l4GT"
+    },
+    {
+      "added_at": "2025-06-26 21:06:33",
+      "album": {
         "name": "Shik Shak Shock",
         "url": "https://open.spotify.com/album/3i27NwGotHd7ZOvFBVU8NL"
       },
@@ -811,26 +835,6 @@
       "duration_ms": 159664,
       "name": "Shik Shak Shock",
       "url": "https://open.spotify.com/track/6rddBYzxNSIzwMeksQKV8q"
-    },
-    {
-      "added_at": "2025-06-26 21:06:33",
-      "album": {
-        "name": "Parea Me Tin Ioulia",
-        "url": "https://open.spotify.com/album/45Eqx4JgN9XscVcEhI1LLQ"
-      },
-      "artists": [
-        {
-          "name": "Ioulia Kallimani",
-          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
-        },
-        {
-          "name": "Michael Touratzidis",
-          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
-        }
-      ],
-      "duration_ms": 169813,
-      "name": "Anexartiti - Live Version",
-      "url": "https://open.spotify.com/track/0pb6PxjqUzjiPKSuY5l4GT"
     },
     {
       "added_at": "2025-06-26 21:06:33",

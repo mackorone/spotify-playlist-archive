@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-137 songs - 8 hr 2 min
+138 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Baby Hand Clap](https://open.spotify.com/track/24pvUUQl3RrA1UZYF2T88c) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 3:06 | 2023-12-30 |  |
 | [Back In The Room](https://open.spotify.com/track/6bSwwQMzkNv9zqL5mz6o2h) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Back In The Room](https://open.spotify.com/album/2FfPsV40oxty0QL6gzyuhF) | 3:29 | 2023-12-30 |  |
 | [Before Goodbyes](https://open.spotify.com/track/6pUAlW0yIC8ySMNSaPpJZp) | [Dainty](https://open.spotify.com/artist/7qz5GofoKgs2V3bSP5quAr) | [Before Goodbyes](https://open.spotify.com/album/2STzRQPDd5oukOCsvy11jP) | 3:21 | 2023-12-30 |  |
+| [Best Believe](https://open.spotify.com/track/4mt55zXhF2IyLbVhvsOLAb) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Best Believe](https://open.spotify.com/album/2dm5OZS7bL1YCrX2lJZz0H) | 2:59 | 2025-06-27 |  |
 | [Big Emotion](https://open.spotify.com/track/2yXpN0Rz2KTny9J5BxwYFz) | [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Big Emotion](https://open.spotify.com/album/6Vaq9DZUC7HdLcyQqhNbrE) | 2:36 | 2023-12-30 |  |
 | [Birds & Cows](https://open.spotify.com/track/30mqjDr0VXmacFCg7RiuBV) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 1:18 | 2023-12-30 |  |
 | [Body Close](https://open.spotify.com/track/6RR5V7V3UGQxNpXDKb7sHH) | [KLP](https://open.spotify.com/artist/6kt5epwyP7rF3UNkTvKZZY) | [Body Close](https://open.spotify.com/album/3C1v2E4gAbTbCk71KQJCSH) | 3:39 | 2023-12-30 |  |

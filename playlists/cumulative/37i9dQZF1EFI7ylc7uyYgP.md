@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LTWvs1eqq4r0Qln13AssN">Phil Bentley</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-135 songs - 6 hr 33 min
+136 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Plain and Fancy](https://open.spotify.com/track/3w92mWSiXZYfM8wyYar7m1) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy](https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N) | 0:59 | 2024-01-29 |  |
 | [Questions](https://open.spotify.com/track/7AkG582DnvLZcLKsVQfBeS) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Twisted](https://open.spotify.com/album/33TTMnPYZcFg1QB2DfqaMA) | 3:19 | 2024-01-29 |  |
 | [RUN](https://open.spotify.com/track/7aTcUIM8CUQJK32qXCn9Jp) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [angeL \[MY NAME IS...\]](https://open.spotify.com/album/7u0uyciWEzb7t8kU2HDGKx) | 3:41 | 2024-01-29 |  |
-| [Satisfied \(Radio Edit\)](https://open.spotify.com/track/50AekvESV8GtXwAfwqra54) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Satisfied](https://open.spotify.com/album/6DwG2GveJsbyOo3ArVBRFj) | 3:41 | 2024-01-29 |  |
+| [Satisfied \(Radio Edit\)](https://open.spotify.com/track/50AekvESV8GtXwAfwqra54) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Satisfied](https://open.spotify.com/album/6DwG2GveJsbyOo3ArVBRFj) | 3:41 | 2024-01-29 | 2025-06-28 |
+| [Satisfied \- Radio Edit](https://open.spotify.com/track/5tNgqJL81WfGOrwqXZHPoZ) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Satisfied](https://open.spotify.com/album/33dMcFU6PA3XnxWxtjbIJt) | 3:41 | 2025-06-27 |  |
 | [Secrets \- Radio Edit](https://open.spotify.com/track/0a9wk9ZCwe0ONEyBXXsNpE) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [A Town Called Paradise \(Japan Special Edition\)](https://open.spotify.com/album/473olrWTIYqylqGEVlS9t7) | 3:36 | 2024-01-29 |  |
 | [Sleepover Survival Kit](https://open.spotify.com/track/3tj6EmcDiII8FMPtcuAQ5x) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy](https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N) | 0:56 | 2024-01-29 |  |
 | [Somebody New](https://open.spotify.com/track/5RzgwtW8nAjqfhjIvgLe6e) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Somebody New](https://open.spotify.com/album/3PzmHBqGIozqs3HTrKOvDS) | 2:57 | 2024-01-29 |  |

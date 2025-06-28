@@ -1,12 +1,12 @@
 {
   "description": "This is Brian Eno. The essential tracks, all in one playlist.",
-  "num_followers": 45731,
+  "num_followers": 45734,
   "original_name": "This Is Brian Eno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFs8AAAAAAC1Pl+9jgsMW+rJPkiZvsMH",
+  "snapshot_id": "aFyNgAAAAABz/f2xc1rtQiyb6L6SsRD7",
   "tracks": [
     {
       "added_at": null,
@@ -399,18 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambient 1: Music For Airports (Remastered 2004)",
-        "url": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa"
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
       "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 534213,
-      "name": "2/1 - Remastered 2004",
-      "url": "https://open.spotify.com/track/1Qr6LFKNBFNNa2y6nMDO31"
+      "duration_ms": 304111,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/0fzYA55s7e6OF1EafxOxaN"
     },
     {
       "added_at": null,
@@ -435,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ambient 1: Music For Airports (Remastered 2004)",
+        "url": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 727080,
+      "name": "1/2 - Remastered 2004",
+      "url": "https://open.spotify.com/track/5z1E46RvhI34TTM2FDMPrp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wrong Way Up [Expanded Edition]",
         "url": "https://open.spotify.com/album/0oHoEmlhtwdFFWFJIoLNy0"
       },
@@ -455,38 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secret Life",
-        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+        "name": "Evening Star",
+        "url": "https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Robert Fripp",
+          "url": "https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl"
         },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 304111,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/0fzYA55s7e6OF1EafxOxaN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ambient 1: Music For Airports (Remastered 2004)",
-        "url": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 727080,
-      "name": "1/2 - Remastered 2004",
-      "url": "https://open.spotify.com/track/5z1E46RvhI34TTM2FDMPrp"
+      "duration_ms": 193280,
+      "name": "Wind On Wind",
+      "url": "https://open.spotify.com/track/5Kp4uIt000uLfxYahTupG4"
     },
     {
       "added_at": null,
@@ -511,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evening Star",
-        "url": "https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V"
+        "name": "Ambient 1: Music For Airports (Remastered 2004)",
+        "url": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa"
       },
       "artists": [
-        {
-          "name": "Robert Fripp",
-          "url": "https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl"
-        },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 193280,
-      "name": "Wind On Wind",
-      "url": "https://open.spotify.com/track/5Kp4uIt000uLfxYahTupG4"
+      "duration_ms": 534213,
+      "name": "2/1 - Remastered 2004",
+      "url": "https://open.spotify.com/track/1Qr6LFKNBFNNa2y6nMDO31"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Their Memories - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/3FoozOVAViraoaiCQpjE2U"
+      "duration_ms": 232440,
+      "name": "Foreshadowed - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/6vo5a9n1HWYroioj7k6gZS"
     },
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
         }
       ],
-      "duration_ms": 285224,
-      "name": "Shhh",
-      "url": "https://open.spotify.com/track/6BwObvXP2GYsAIJ8lLcsxl"
+      "duration_ms": 283992,
+      "name": "My Lovely Days",
+      "url": "https://open.spotify.com/track/3ZhoLmA5tCqe4UWxz2EMFi"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 232440,
-      "name": "Foreshadowed - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/6vo5a9n1HWYroioj7k6gZS"
+      "duration_ms": 177600,
+      "name": "Their Memories - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/3FoozOVAViraoaiCQpjE2U"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
         }
       ],
-      "duration_ms": 283992,
-      "name": "My Lovely Days",
-      "url": "https://open.spotify.com/track/3ZhoLmA5tCqe4UWxz2EMFi"
+      "duration_ms": 285224,
+      "name": "Shhh",
+      "url": "https://open.spotify.com/track/6BwObvXP2GYsAIJ8lLcsxl"
     },
     {
       "added_at": null,

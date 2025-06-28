@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 
 > Finest collection of Tamil Music from the past 10 years<br/>Cover : Dragon
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,145 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,322 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 | 35 | [Vikram \- Title Track](https://open.spotify.com/track/6FQQiTpYnfc5803p84bQp1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 3:38 |
 | 36 | [Innum Konjam Naeram](https://open.spotify.com/track/5KJSI1MjQeXEBHBYMjgP41) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Maryan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NHRsm0K6U2PhxFgNhEBby) | 5:13 |
 | 37 | [Thodu Vaanam](https://open.spotify.com/track/4HDzsx1dJKbuL0YkffBuBm) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Anegan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/23xN4QBDqWomd6xxYXIxJ8) | 5:15 |
-| 38 | [Naan Un](https://open.spotify.com/track/3V2ricb6fi4OCJu2rjhL1A) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [24 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0J18JSXU6DWdqN2ud6sxHA) | 4:48 |
+| 38 | [Naan Un](https://open.spotify.com/track/3V2ricb6fi4OCJu2rjhL1A) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [24 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0J18JSXU6DWdqN2ud6sxHA) | 4:48 |
 | 39 | [Mental Manadhil](https://open.spotify.com/track/4mOmWSdTmf6fSAibGWCKp7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [O Kadhal Kanmani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6XBC9UsX48MzHICIr9m0hj) | 3:25 |
 | 40 | [Azhage](https://open.spotify.com/track/2Racq7HrXkYvF8w9zXvlTp) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Kathakali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jOBwtx1j1Y7E8awY5iom9) | 3:38 |
 | 41 | [Kadhale Kadhale](https://open.spotify.com/track/3THVNKs3bdQekA02kK1hWD) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk) | [Indru Netru Naalai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0D7AwO4x3NHyy5Fy2QVisr) | 3:27 |

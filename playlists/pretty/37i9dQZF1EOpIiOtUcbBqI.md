@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOpIiOtUcbBqI.md) - [plain]
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 21 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 21 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOpIiOtUcbBqI.md) - [plain]
 | 4 | [You, Who?](https://open.spotify.com/track/4oklfRljGkpZjzpc5vt6qj) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [You, Who?](https://open.spotify.com/album/7mVurXzE8Gs5x5UqV0BwTQ) | 3:39 |
 | 5 | [Eric Nam \- Love Die Young](https://open.spotify.com/episode/6ohwumlrcG4Or0R7Leh3KB) | [Song Exploder](https://open.spotify.com/show/10lMwCjvzLCLwth2AW6cLG) | [Song Exploder](https://open.spotify.com/album/10lMwCjvzLCLwth2AW6cLG) | 21:47 |
 | 6 | [Changes](https://open.spotify.com/track/7cDpMO5wuWgvv3j4INRBeB) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 2:40 |
-| 7 | [Can't Help Falling in Lauv \(the interview\)](https://open.spotify.com/episode/7knx5NKZHw29x0DumCviNI) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 35:45 |
+| 7 | [Can't Help Falling in Lauv \(the interview\)](https://open.spotify.com/episode/7knx5NKZHw29x0DumCviNI) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 33:56 |
 | 8 | [MORE & MORE](https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:19 |
 | 9 | [Twice is Love](https://open.spotify.com/episode/10wmKba9ZiYqvC9hVg7WwG) | [Kpopcast: for the best sounds & ideas in Kpop](https://open.spotify.com/show/3PVkEesfbyNHwjnqx0KYCA) | [Kpopcast: for the best sounds & ideas in Kpop](https://open.spotify.com/album/3PVkEesfbyNHwjnqx0KYCA) | 40:33 |
 | 10 | [Dynamite](https://open.spotify.com/track/0t1kP63rueHleOhQkYSXFY) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(DayTime Version\)](https://open.spotify.com/album/6K4chJALBBMYmXjwgvqahx) | 3:19 |

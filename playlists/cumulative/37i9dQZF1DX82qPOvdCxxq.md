@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of the best new music by independent artists! Cover: DC3 \| Artwork: Laina Deene
 
-657 songs - 1 day 13 hr 14 min
+659 songs - 1 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [Keep Finding](https://open.spotify.com/track/0m5qq57cihwu2nW78gH3z5) | [Aetrius](https://open.spotify.com/artist/4rrk9Te54Q6r6ItgBavg3l), [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [Keep Finding](https://open.spotify.com/album/5AiKY0zKOO5gmdbiUFyNCu) | 3:30 | 2024-09-26 | 2024-11-28 |
 | [KEEP GOIN](https://open.spotify.com/track/7JiUCSSulfaJJEKWiZjVNG) | [Tommy Zuko](https://open.spotify.com/artist/6GEZnFo9mFSItpAWzswBpT) | [KEEP GOIN](https://open.spotify.com/album/7CMyxd0bgCOaV3UMVkizpx) | 2:20 | 2025-04-09 | 2025-05-29 |
 | [Kingdom](https://open.spotify.com/track/5ZrVYQcBHz57P1kX7uWMe7) | [ALIA LARA](https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO) | [Kingdom](https://open.spotify.com/album/5GaqWeRvThKfnD7hPUX2df) | 3:06 | 2024-08-14 | 2025-03-13 |
+| [Kingdom II](https://open.spotify.com/track/5b10tFDfOl5YEisiPoirvW) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [Kingdom II](https://open.spotify.com/album/7IYtLO16qDk12GNZrqJImI) | 3:00 | 2025-06-25 |  |
 | [La Moneda](https://open.spotify.com/track/0N1ebsmiLKJABNTLAogNay) | [Calejandro](https://open.spotify.com/artist/59qZZ7RuILeDLzHNcBt0Ye) | [La Moneda](https://open.spotify.com/album/7KPCV9y8YB8FzkMnUs6yfA) | 3:24 | 2025-04-18 | 2025-05-08 |
 | [La Respuesta](https://open.spotify.com/track/6ArQFCsrww3gbQWFSu5Szq) | [Sophiv](https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS) | [La Respuesta](https://open.spotify.com/album/3u9UmzZ4mSV2ymIhXMOZEP) | 2:59 | 2025-01-15 | 2025-01-23 |
 | [La Samaritana](https://open.spotify.com/track/49D7WId1pycJODFu4VIANF) | [Infinitoamor](https://open.spotify.com/artist/6sd0RW2mhgFiCaPtdnSPcL) | [La Samaritana](https://open.spotify.com/album/1LMxbZZd0npHfRd5qcb6fb) | 4:02 | 2024-08-14 | 2024-09-05 |
@@ -476,6 +477,7 @@
 | [Red Eye](https://open.spotify.com/track/01X7nLixs4V2ewl9yYqYru) | [Mary\-Clair](https://open.spotify.com/artist/7s5zxVWcnecsbEJDNIIQfo) | [Red Eye](https://open.spotify.com/album/69pvXJZEww45vJclEUIAgO) | 2:30 | 2025-06-25 |  |
 | [Red Letters](https://open.spotify.com/track/65nOENuD1oVbZtMs8A3fxG) | [Matt Cooper](https://open.spotify.com/artist/3p6my89rn8STAqtZohziRM) | [Red Letters](https://open.spotify.com/album/2MwmuplCN5OHVF8M7L7L9R) | 3:03 | 2024-08-21 | 2024-10-10 |
 | [Relicario](https://open.spotify.com/track/42na5GNNjAf5h4YfqMhrkB) | [Dariana](https://open.spotify.com/artist/1YFjpz13AtgmLfEo3CX8wv) | [Relicario](https://open.spotify.com/album/6yiJI1RR01R6siTHfB8Zkf) | 3:04 | 2025-02-12 | 2025-04-10 |
+| [Renaissance](https://open.spotify.com/track/00nzVLa3NSfzJjkJVFFZCV) | [Van Buren](https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl) | [Renaissance](https://open.spotify.com/album/7gBBkJ8f63FCYzPMLJDeOU) | 2:48 | 2025-06-25 |  |
 | [Renew My Life \(He\)](https://open.spotify.com/track/3fKGMCqOdIBh0Tpj47nitd) | [Stillcreek](https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW), [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz) | [Renew My Life \(He\)](https://open.spotify.com/album/7nH5hYuaI3D0qTadXR68kR) | 3:39 | 2024-09-26 | 2025-01-16 |
 | [resolve\~](https://open.spotify.com/track/7BMymBTTpyv5eUdEo8ZB4r) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i) | [resolve\~](https://open.spotify.com/album/49aeURRkNoDukqUGy68vLo) | 2:39 | 2025-04-30 | 2025-06-05 |
 | [Rest](https://open.spotify.com/track/3VSfHpmFC7AiikDRkOpZd2) | [Jackie Legere](https://open.spotify.com/artist/10SWKFfcdzGtbmABepnobA) | [Rest](https://open.spotify.com/album/6WiNVHCXLRRRC9EPlmIWkd) | 3:03 | 2025-04-18 | 2025-05-15 |

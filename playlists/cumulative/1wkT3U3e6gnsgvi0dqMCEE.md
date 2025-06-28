@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-285 songs - 18 hr 35 min
+287 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Stubborn Love](https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 4:39 | 2023-10-16 | 2024-05-24 |
 | [Sugar, We're Goin Down](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:49 | 2023-10-16 | 2024-05-24 |
 | [Suit And Jacket](https://open.spotify.com/track/2ZYBwkmtYhgUj1A7teYAZ7) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Folk Hop N' Roll \(Deluxe\)](https://open.spotify.com/album/7vLmY8rLjLvOTQ0wk7Hqeh) | 3:42 | 2023-10-16 | 2024-05-24 |
+| [Summertime Blue](https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Summertime Blue](https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW) | 3:30 | 2025-06-27 |  |
 | [Sunday Morning \- Block Party Mix](https://open.spotify.com/track/3awbbtBEgCsuw9xLwZ96Kq) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Atlantis+](https://open.spotify.com/album/43tdaB534UJweOvbCsq1zU) | 3:54 | 2024-05-23 |  |
 | [Sweet Caroline \- Two Friends Remix](https://open.spotify.com/track/3uF7MjzSrXFKP9HshWg1ar) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes), [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh) | [Sweet Caroline \(Two Friends Remix\)](https://open.spotify.com/album/2EL5piIRbiG2BtBAOEzZfS) | 2:59 | 2025-04-11 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 | 2024-05-23 |  |
@@ -291,6 +292,7 @@
 | [You Needed Me](https://open.spotify.com/track/5d4E1hgkLyb7sXr5J3InnM) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Let's Keep It That Way](https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR) | 3:40 | 2025-04-04 |  |
 | [You're Gonna Go Far, Kid](https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 2:57 | 2023-10-16 | 2024-05-24 |
 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 | 2023-10-16 | 2024-05-24 |
+| [Zombie \- Iain Cook Remix](https://open.spotify.com/track/7KNRFIn16tlCcr3VQHFkxB) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9), [Iain Cook](https://open.spotify.com/artist/5oTYAFr7Prs5cmCumId5CQ) | [Zombie \(Iain Cook Remix\)](https://open.spotify.com/album/1hdANv5geqeptX72Ki1ena) | 4:57 | 2025-06-27 |  |
 | [Zoo Station \- ZOO TV Live In Dublin, 1993](https://open.spotify.com/track/3PB7hZJSsVJga60q9gVIuT) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [ZOO TV Live In Dublin 1993 EP](https://open.spotify.com/album/03qRoidfH8PEvybfKfWyZm) | 5:02 | 2024-08-30 |  |
 | [‘It's A Good Life If You Don't Weaken’ \- Live From ‘No Dress Rehearsal’](https://open.spotify.com/track/3e3n50pd0H0E0JsvDgSeqQ) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [‘It's A Good Life If You Don't Weaken’ \(Live From ‘No Dress Rehearsal’\)](https://open.spotify.com/album/33V5tVXf7kOU6kzFtIYRAJ) | 4:20 | 2024-12-13 |  |
 

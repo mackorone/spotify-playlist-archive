@@ -4,7 +4,7 @@
 
 > All the new indie tracks worth knowing about\. Cover: Blood Orange
 
-885 songs - 2 day 2 hr 32 min
+886 songs - 2 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Afterlife](https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Afterlife](https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i) | 3:30 | 2025-05-29 |  |
 | [Afterlife](https://open.spotify.com/track/2zs0Oae871mUHpS0iOMJ7O) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Afterlife](https://open.spotify.com/album/2qK3BwuD392XoXTqI3B6JN) | 4:08 | 2024-10-24 | 2024-12-20 |
 | [Ahead Of Myself](https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/4476oK9dDwXluywz166CT1) | 3:44 | 2024-07-11 | 2024-09-13 |
+| [Ain’t For The Faint](https://open.spotify.com/track/6SQuxwoBbp8DlAUStjJ5vB) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Top Heavy](https://open.spotify.com/album/3rUIQo9YmO0tgg7X0tT0TT) | 3:23 | 2025-06-26 |  |
 | [Akira](https://open.spotify.com/track/6jOZXCgbIsBZiYJGpRsL5O) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [Songs About You Specifically](https://open.spotify.com/album/1oRATv55WFvifmpusW6Ik6) | 2:43 | 2024-09-26 | 2024-11-08 |
 | [All 4 U](https://open.spotify.com/track/2MZfC04V2AAKaNBukhJiUf) | [Buttercats](https://open.spotify.com/artist/5uIXMYal5c0Yv0sG9DeK2Z) | [All 4 U](https://open.spotify.com/album/5Orjgjvq3GDmgjn7fR8Hju) | 3:58 | 2024-11-21 | 2025-01-31 |
 | [All I Ever Asked \(with sombr\)](https://open.spotify.com/track/3h1SACNX5U6CytntiBHEZn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [All I Ever Asked \(with sombr\)](https://open.spotify.com/album/5QJmeE6V1Rs9CdYvt7II8x) | 3:37 | 2025-02-06 | 2025-03-14 |

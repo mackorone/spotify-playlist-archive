@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4s1bdPvgsNLQZdeWUnc3bx">Young M.A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 275 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 | 8 | [Book of Rhymes \(feat\. DJ Premier\)](https://open.spotify.com/track/08ir631EiCA7xIms7JDp15) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Music To Be Murdered By \- Side B \(Deluxe Edition\)](https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B) | 4:49 |
 | 9 | [Beat Box \(feat\. Young M.A\) \- Freestyle](https://open.spotify.com/track/67RGFObGLxBAJDLrukSusE) | [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Beat Box \(feat\. Young M.A\) \[Freestyle\]](https://open.spotify.com/album/7FE3YIWEmLjcVIubyIWAS3) | 3:29 |
 | 10 | [Hello Baby feat\. Fivio Foreign](https://open.spotify.com/track/06YAQv6odmXWnR9pzMaJOm) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Off the Yak](https://open.spotify.com/album/3jS5p3u5bK0OYq9BQKa6PN) | 2:58 |
-| 11 | [Stephanie](https://open.spotify.com/track/3sh2q76qsc7yLkQNmHKfQf) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [InntRaw](https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw) | [Stephanie](https://open.spotify.com/album/1Q8iOXsn2SJGFSxUyMHjmk) | 3:08 |
+| 11 | [Stephanie \- HNTR Remix](https://open.spotify.com/track/3flWoQdYrWyqUsHbURIJby) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [InntRaw](https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Stephanie \(HNTR Remix\)](https://open.spotify.com/album/2bOMvfR44jh4eIeUB230ES) | 2:25 |
 | 12 | [Spend It](https://open.spotify.com/track/2L92bpT2vGWnvsFvnJMvM8) | [Dae Dae](https://open.spotify.com/artist/41LfjfTCcTCUdykJqNyFw8) | [Spend It](https://open.spotify.com/album/4Rk0pkogoaHVtCMTNU5aV0) | 3:27 |
 | 13 | [Trap or Cap](https://open.spotify.com/track/04WcxfTz7qwm2DZ1F3bTTt) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 3:21 |
 | 14 | [Move Like a Boss \(feat\. Young M.A\)](https://open.spotify.com/track/3T3SeUjR8NhTzSE3NSDxkK) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Move Like a Boss \(feat\. Young M.A\)](https://open.spotify.com/album/5sYO0qm9aoDF76AkcmG9Ez) | 2:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 | 79 | [Trim](https://open.spotify.com/track/3jYjgpmhz8QhvREcSzeWMc) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Trim](https://open.spotify.com/album/4f6ckq0JBmR4SzzZIlHhAn) | 3:25 |
 | 80 | [Money Counter](https://open.spotify.com/track/6RWGBw7EvCEtRunRQSMqP2) | [DJ Megan Ryte](https://open.spotify.com/artist/74ZbNtN0o4zPxTZpaWV4Q1), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [DJ Megan Ryte](https://open.spotify.com/album/4eKwiwwSHFfsrgjxGzHdd3) | 2:48 |
 
-Snapshot ID: `Ab1NEgAAAADDjY5+NodbAO/7KKIl95ac`
+Snapshot ID: `Ab1SdgAAAACv1LlYmIglv6HmeawEsbG9`

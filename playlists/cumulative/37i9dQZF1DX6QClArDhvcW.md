@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6QClArDhvcW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6QClArDhvcW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6QClArDhvcW)
 
-### [Mellow Lofi Morning](https://open.spotify.com/playlist/37i9dQZF1DX6QClArDhvcW)
+### [mellow lofi morning](https://open.spotify.com/playlist/37i9dQZF1DX6QClArDhvcW)
 
-> Laid\-back beats for an easygoing morning.
+> laid\-back beats for an easygoing morning.
 
 597 songs - 22 hr 43 min
 

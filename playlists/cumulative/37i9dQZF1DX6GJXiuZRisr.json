@@ -2221,6 +2221,32 @@
     },
     {
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0YQeE6phJTbw0RH4xrkZXs"
+      },
+      "artists": [
+        {
+          "name": "m\u00f6lly",
+          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
+        },
+        {
+          "name": "Hessian",
+          "url": "https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs"
+        },
+        {
+          "name": "Afnan Prince",
+          "url": "https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262500,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/5adS6sOA3qKVw5qxhRPowE"
+    },
+    {
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/4QopFPTULH28wBGUtdk0eb"
       },
@@ -3692,7 +3718,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 229959,
       "name": "Freyja",
       "url": "https://open.spotify.com/track/50OqVeHgPhiVsoHaqWhBPd"
@@ -4552,6 +4578,28 @@
       "duration_ms": 236160,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/5TP58ifskW32ppiGWAkSlf"
+    },
+    {
+      "album": {
+        "name": "Hold You",
+        "url": "https://open.spotify.com/album/3tVg0WYwk5drh3NyXqJm8l"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        },
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217216,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/42sEy8EwRIzAMQk5pACbcr"
     },
     {
       "album": {
@@ -11962,7 +12010,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 285000,
       "name": "Walk The Plank",
       "url": "https://open.spotify.com/track/2UOLMbCUDhHWWXxY3P8Pzk"

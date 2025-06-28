@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Aditya Rikhari
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,875 likes - 77 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,946 likes - 77 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

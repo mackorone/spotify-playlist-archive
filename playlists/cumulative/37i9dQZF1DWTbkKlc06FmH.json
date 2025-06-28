@@ -4020,7 +4020,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-30",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "DOUBT IT",
       "url": "https://open.spotify.com/track/7kud2YsUIgEO6L41B98Cih"
@@ -10628,7 +10628,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 180661,
       "name": "Movie Scene",
       "url": "https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF"
@@ -12616,6 +12616,24 @@
       "duration_ms": 169933,
       "name": "Passports & Suitcases (feat. KayCyy)",
       "url": "https://open.spotify.com/track/0A0ZpEwDk5iNNfxUSYeJCt"
+    },
+    {
+      "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/5fFCRUivqEhsNPd5A2rcVG"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156221,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/6H2PoOGLifwRBm9TmkHriB"
     },
     {
       "album": {
@@ -18638,7 +18656,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 172294,
       "name": "You",
       "url": "https://open.spotify.com/track/7lv0grRnvqhmnERdn320PX"

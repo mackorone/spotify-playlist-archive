@@ -104,7 +104,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 39145,
       "name": "... an Interlude",
       "url": "https://open.spotify.com/track/0ZisrQEomfaJiUnHnjjVjU"
@@ -384,7 +384,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 179280,
       "name": "Adaptive",
       "url": "https://open.spotify.com/track/0JMyB8P3aHQKHwzXsml7lU"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 111453,
       "name": "Always There (When I Need Her)",
       "url": "https://open.spotify.com/track/7F0Z2aHCxiPktCa7qXdHbX"
@@ -756,7 +756,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 158000,
       "name": "Az Bachegi",
       "url": "https://open.spotify.com/track/50zrInrIfJG34GtaCMyMqe"
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 308297,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/0pTmH1pcEnoP2DJpYDWYEL"
@@ -1422,6 +1422,24 @@
       "duration_ms": 171316,
       "name": "Blu",
       "url": "https://open.spotify.com/track/780Xkw5DVzWaMt1WMHYbLp"
+    },
+    {
+      "album": {
+        "name": "Volume 2",
+        "url": "https://open.spotify.com/album/12VSNCtTnuYtittZsWUkQp"
+      },
+      "artists": [
+        {
+          "name": "Original_Dinopapa",
+          "url": "https://open.spotify.com/artist/1GlFwmKCNr8uoPVhaghFkm"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213799,
+      "name": "Blutegel",
+      "url": "https://open.spotify.com/track/2vGslfwIbYnHR8ow3c8UZp"
     },
     {
       "album": {
@@ -1552,7 +1570,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 229537,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/7Bbg2pR6QsOe5TRmZaJeD5"
@@ -2020,7 +2038,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 153000,
       "name": "CLAN",
       "url": "https://open.spotify.com/track/7HW0oXNqYun7Nym1IXBDnu"
@@ -2176,7 +2194,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 153444,
       "name": "COSA APARTE",
       "url": "https://open.spotify.com/track/2aupU8JyCTXJm75kPQKm5z"
@@ -2252,7 +2270,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 228340,
       "name": "Creed",
       "url": "https://open.spotify.com/track/7hPenGR0AKp8RgsuM01udu"
@@ -3244,7 +3262,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 342857,
       "name": "Energy",
       "url": "https://open.spotify.com/track/0szyootmNHZeYFlUS032rx"
@@ -4190,7 +4208,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-21",
+      "date_removed": null,
       "duration_ms": 161906,
       "name": "Grace",
       "url": "https://open.spotify.com/track/1Lbk2D1067QeJL0Vxg3LxX"
@@ -4426,7 +4444,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 185527,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/1AnC9yTKiXGHa2NwEK8z95"
@@ -5038,7 +5056,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 172235,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/3Z33uq72730lBDrSuM9QLU"
@@ -5501,6 +5519,24 @@
     },
     {
       "album": {
+        "name": "Welcome to Lemland",
+        "url": "https://open.spotify.com/album/2nXHTtGbqVvQJV2XARDbpP"
+      },
+      "artists": [
+        {
+          "name": "LEM",
+          "url": "https://open.spotify.com/artist/7fgzKnkUKh0HTvSvC2lmw9"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147487,
+      "name": "Juiced",
+      "url": "https://open.spotify.com/track/0Qyee97v31Z2UwHs0L3VwX"
+    },
+    {
+      "album": {
         "name": "Just A Little Something",
         "url": "https://open.spotify.com/album/07gfr9bkJU9OCFYCiPiMXd"
       },
@@ -5690,7 +5726,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 130847,
       "name": "Kiss the Sky",
       "url": "https://open.spotify.com/track/6yYi2D80jEZqi6fREhxMc5"
@@ -5878,7 +5914,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 149538,
       "name": "Learn 2 Walk",
       "url": "https://open.spotify.com/track/7icMnCo4wZ3jdKfkSkIbX6"
@@ -6438,7 +6474,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 234893,
       "name": "Mal O Bueno",
       "url": "https://open.spotify.com/track/02UdfyBhxkREsdlRNfXOhf"
@@ -7138,7 +7174,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 143819,
       "name": "MOTH",
       "url": "https://open.spotify.com/track/2vXk9cgccmIOS1qdFLF8wF"
@@ -7334,7 +7370,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 195398,
       "name": "Neptune",
       "url": "https://open.spotify.com/track/62d5LzCeYazhkHzzhC8ch6"
@@ -7812,7 +7848,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 204930,
       "name": "On A Daily",
       "url": "https://open.spotify.com/track/6ZUQsfKEujd377aGZ3neHz"
@@ -8590,7 +8626,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 174768,
       "name": "R.L.S.N",
       "url": "https://open.spotify.com/track/0deVmpMxHNg1qqYIJYZPWa"
@@ -9484,7 +9520,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 177319,
       "name": "Space N Time",
       "url": "https://open.spotify.com/track/70bQbnJmEl8492pMI22thF"
@@ -10460,7 +10496,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 222669,
       "name": "Thought Slave",
       "url": "https://open.spotify.com/track/0Sg6ygrEd3wsuZ2kRwhLej"
@@ -10906,7 +10942,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-21",
+      "date_removed": null,
       "duration_ms": 216972,
       "name": "Turr\u00f3n De Coco",
       "url": "https://open.spotify.com/track/1p6kJWbTU8QbuH1P5Qjusn"
@@ -11334,7 +11370,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 184293,
       "name": "Wassup",
       "url": "https://open.spotify.com/track/3NwRd42H3xGcK7oww2tHkz"

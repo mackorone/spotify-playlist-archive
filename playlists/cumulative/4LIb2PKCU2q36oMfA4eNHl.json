@@ -669,6 +669,28 @@
     },
     {
       "album": {
+        "name": "Bigger Than All Of Us",
+        "url": "https://open.spotify.com/album/69Ci2CvI5ayPqzSVAFClos"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Justine Suissa",
+          "url": "https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262180,
+      "name": "Bigger Than All Of Us",
+      "url": "https://open.spotify.com/track/4bzdeTvjrJZK4E6kLs7zm1"
+    },
+    {
+      "album": {
         "name": "Binaural Ice",
         "url": "https://open.spotify.com/album/29TNYJxPgmNgtFXdF9m2Rg"
       },

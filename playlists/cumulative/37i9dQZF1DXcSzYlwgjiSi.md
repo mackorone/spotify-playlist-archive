@@ -4,7 +4,7 @@
 
 > The perfect soundtrack for a day on the water.
 
-309 songs - 16 hr 50 min
+310 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Beers And Sunshine \- Summer Mix](https://open.spotify.com/track/3fZ3sjzr53Yg7WJzHDwzmU) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Beers And Sunshine \(Summer Mix\)](https://open.spotify.com/album/7o5yJtOPRqdV7nk2Wcgdv7) | 2:59 | 2021-07-09 |  |
 | [Beers On Me](https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Beers On Me](https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM) | 2:54 | 2021-07-30 |  |
 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 | 2022-04-08 | 2022-08-21 |
+| [Better Off On A Beach](https://open.spotify.com/track/4ZOoHIATFCuBrvQnsGbFbm) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Last Sip of Summer](https://open.spotify.com/album/0XiXSefXS6syX87Z6UQ5vo) | 3:06 | 2025-06-27 |  |
 | [Better on the Water](https://open.spotify.com/track/1eKE1jKNvEHm4BreOJofs6) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Jalopies & Expensive Guitars](https://open.spotify.com/album/2OVwF1wNT8lJgiYLhjFzKT) | 3:01 | 2021-06-18 | 2024-02-27 |
 | [Bluebird](https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:29 | 2021-06-18 | 2024-02-24 |
 | [Boat Names](https://open.spotify.com/track/3MZkNbMbr3mut3EN9JwnMe) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Sunshine State Of Mind](https://open.spotify.com/album/2k0fbMU8bNeifFGP2TzEVO) | 3:28 | 2021-07-02 | 2022-06-22 |

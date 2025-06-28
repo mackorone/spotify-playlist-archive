@@ -4,7 +4,7 @@
 
 > Make every day feel like Sunday
 
-893 songs - 2 day 1 hr 52 min
+894 songs - 2 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Haven \(from Life Is Strange\)](https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Haven \(from Life Is Strange\)](https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE) | 2:52 | 2021-12-16 | 2022-02-17 |
 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 | 2024-09-13 |  |
 | [Head Underwater](https://open.spotify.com/track/6aVuhf1DaTNoFgpDgIQku0) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Head Underwater](https://open.spotify.com/album/52IA9m2bwmNyVWdf1QypOz) | 3:15 | 2024-02-09 | 2024-10-09 |
+| [HEADPHONES](https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [HEADPHONES](https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2) | 3:16 | 2025-05-22 |  |
 | [Healing](https://open.spotify.com/track/42cpWOkiSQPcVIYGbw8IRC) | [Caleb Kunle](https://open.spotify.com/artist/3ummHhJhcQSykZfeZlw4MY) | [Healing](https://open.spotify.com/album/3lcnhk95qdnXkvcGeVuKXo) | 5:03 | 2025-02-28 | 2025-05-23 |
 | [Hearts Break and People Change](https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Hearts Break and People Change](https://open.spotify.com/album/7jcAisouiCZza66ewku13M) | 3:29 | 2025-02-28 |  |
 | [HEAVEN](https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HEAVEN](https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h) | 2:54 | 2024-01-26 | 2024-07-27 |
@@ -372,7 +373,7 @@
 | [I Can’t Believe We Never Went Out Dancing](https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [I Can’t Believe We Never Went Out Dancing](https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE) | 3:44 | 2024-12-20 |  |
 | [I Don't Think I Love You Anymore](https://open.spotify.com/track/0TS3G3xKO8B7guR0WrfxGO) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [I Don't Think I Love You Anymore](https://open.spotify.com/album/6YmBn9Xe8Hbt0baBDxCfMF) | 2:52 | 2022-04-04 | 2022-07-29 |
 | [I Don't Wanna Dance](https://open.spotify.com/track/330ssf1QuLQjoaoyZbyrPI) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [I Don't Wanna Dance](https://open.spotify.com/album/6vEl3ZGvpUT8acpCHHxKkS) | 3:02 | 2024-03-08 | 2024-03-29 |
-| [I Don´t Feel](https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [I Don´t Feel](https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr) | 3:28 | 2025-05-02 |  |
+| [I Don´t Feel](https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [I Don´t Feel](https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr) | 3:28 | 2025-05-02 | 2025-06-28 |
 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 | 2022-11-23 | 2025-02-28 |
 | [I hate myself in <3](https://open.spotify.com/track/0yweXXrfN9PGizKifL7A78) | [MaZz](https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7) | [I hate myself in <3](https://open.spotify.com/album/4Bq7ZqDJBsWZGsENcioZjX) | 3:56 | 2022-03-29 | 2022-04-20 |
 | [I Hate That It's True](https://open.spotify.com/track/6H4stZ1AHlYnKl9iii1bvF) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [I Hate That It's True](https://open.spotify.com/album/4Bx9UDgMFGH2hyqm9Gia4P) | 2:41 | 2025-05-02 |  |

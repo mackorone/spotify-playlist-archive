@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: KAOL",
+  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Kayra Kayan",
   "name": "Ke\u015fif",
   "tracks": [
     {
@@ -1022,6 +1022,24 @@
       "duration_ms": 152307,
       "name": "Davet",
       "url": "https://open.spotify.com/track/6fXHnrfJqw3duhbf0PvrG0"
+    },
+    {
+      "album": {
+        "name": "DEL\u0130KANLI",
+        "url": "https://open.spotify.com/album/5j7qti2Qs9hmqSKMEbIlKq"
+      },
+      "artists": [
+        {
+          "name": "Kayra Kayan",
+          "url": "https://open.spotify.com/artist/4yJY7VgA3Ztk5H5oPiXzPE"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163635,
+      "name": "DEL\u0130KANLI",
+      "url": "https://open.spotify.com/track/0hOig8ipH6xHU7ui9yXQGv"
     },
     {
       "album": {
@@ -3092,7 +3110,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 209423,
       "name": "Sonumu Bile Bile",
       "url": "https://open.spotify.com/track/3ZGgkyCgxd0UqSIgrQqlVS"
@@ -3745,6 +3763,24 @@
     },
     {
       "album": {
+        "name": "Yaraland\u0131m",
+        "url": "https://open.spotify.com/album/3luIitSJNd1AChtKHlYPBj"
+      },
+      "artists": [
+        {
+          "name": "Kadir Ceyhan",
+          "url": "https://open.spotify.com/artist/5kThLVzZzoYJMKKSO5G7Ph"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Yaraland\u0131m",
+      "url": "https://open.spotify.com/track/4tqwM1FL62VTO1gPZe8h8B"
+    },
+    {
+      "album": {
         "name": "Yaram A\u00e7\u0131k",
         "url": "https://open.spotify.com/album/2FBMHsdF9ULNE8sl7hPbbu"
       },
@@ -4332,7 +4368,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 232000,
       "name": "\u00c7ocuk",
       "url": "https://open.spotify.com/track/3IKHQ0NqE18OkM283gMR6b"

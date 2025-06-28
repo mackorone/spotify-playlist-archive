@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-803 songs - 1 day 12 hr 14 min
+804 songs - 1 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,6 +581,7 @@
 | [Recollection](https://open.spotify.com/track/7a55wM8GN7WcT7UXX3zBRK) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Recollection](https://open.spotify.com/album/5hPbTTsCGBDi5XVUUBYqge) | 2:41 | 2021-12-23 |  |
 | [Reflection \(Summer Orange Beat Mix\)](https://open.spotify.com/track/7wZargiZHVSuLfgvgftqIS) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [Reflection \(Summer Orange Beat Mix\)](https://open.spotify.com/album/2sqTGAM75IiAYkgysgCaW5) | 2:57 | 2021-12-23 | 2022-07-29 |
 | [Remind Me](https://open.spotify.com/track/38geoXbCoM3ZxAV6WP0IqR) | [sequick](https://open.spotify.com/artist/2FF7FThVxHipfbsPw8g6eV), [葉山拓亮](https://open.spotify.com/artist/4Qd7rIHnVoBuB52f0pdLaz) | [Lost and Found.](https://open.spotify.com/album/6PZLs340sr4Iz0eBH3FrvB) | 3:19 | 2021-12-23 | 2022-07-27 |
+| [reminisce](https://open.spotify.com/track/33eWL7EXXttUumnaOJ95vT) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kzyboost](https://open.spotify.com/artist/4zJ19jYGUpEGwnTVEYDPil) | [reminisce](https://open.spotify.com/album/3hgNp3JLIj9YqRo3RuvWeC) | 2:49 | 2025-06-27 |  |
 | [reWind](https://open.spotify.com/track/4SzN4TmebAldb4VgW8ga8a) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [reWind](https://open.spotify.com/album/5B6yP6QUz91tkn7XEAanjR) | 2:45 | 2022-03-10 | 2022-07-29 |
 | [Reynoutria](https://open.spotify.com/track/6TWoT5pcrZRF6wtMISMgUl) | [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0), [Mayaewk](https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ) | [Reynoutria](https://open.spotify.com/album/6CNNv6FfBGNGKmR2IeBYl1) | 0:58 | 2022-03-31 | 2022-04-20 |
 | [Ria](https://open.spotify.com/track/1KzyLuUcQgG4t7gw34hOTs) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4), [Linn Mori](https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E) | [Ria](https://open.spotify.com/album/6mt1y5wy8UGR56miDxql1e) | 2:03 | 2021-12-23 | 2022-07-29 |
@@ -769,7 +770,7 @@
 | [Watermelon](https://open.spotify.com/track/5wo4xHKqCKHO7pdMVXGjRC) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 2:24 | 2022-10-13 | 2024-04-19 |
 | [Waterscape](https://open.spotify.com/track/5EzbxbknclMlwNVJlCVY9w) | [NEWLY](https://open.spotify.com/artist/30qeN6y7bk4ASVG6zPd3sQ) | [Waterscape](https://open.spotify.com/album/61UOaMKJDLBt0H5ngGadQQ) | 3:27 | 2024-10-26 | 2024-11-07 |
 | [Waves](https://open.spotify.com/track/6eW8UXV98NOJsh8GCHYgnh) | [sophisticated silence](https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH) | [Waves](https://open.spotify.com/album/21YqhQilkmREX9RKUCCPSs) | 2:13 | 2023-09-07 | 2023-10-03 |
-| [Way Home Melody](https://open.spotify.com/track/1hMLvfdNQPk5rGomvFnWb5) | [Wisperwave](https://open.spotify.com/artist/5sUf18d90tmBmvMEfRbgfr), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Lonely Girl](https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw) | [Afternoon Weather](https://open.spotify.com/album/3KwRxvjJtAuCYrvKXMwGqL) | 2:10 | 2025-05-16 |  |
+| [Way Home Melody](https://open.spotify.com/track/1hMLvfdNQPk5rGomvFnWb5) | [Wisperwave](https://open.spotify.com/artist/5sUf18d90tmBmvMEfRbgfr), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Lonely Girl](https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw) | [Afternoon Weather](https://open.spotify.com/album/3KwRxvjJtAuCYrvKXMwGqL) | 2:10 | 2025-05-16 | 2025-06-28 |
 | [We Gathered Leaves](https://open.spotify.com/track/1nTH6eMMt4MXqvu9GGLn4Y) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0) | [We Gathered Leaves](https://open.spotify.com/album/5YRDw5rO8vIUxjtgHqICji) | 1:33 | 2021-12-23 | 2023-12-08 |
 | [weather report](https://open.spotify.com/track/6hoLVkgEPTro70Me2pq8RV) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [weather report](https://open.spotify.com/album/6yG2ezI1VnnuqlpX4yOGHB) | 2:40 | 2022-05-26 | 2022-07-26 |
 | [What Is Peace 4 U](https://open.spotify.com/track/3GQSl6DYDVMK1trBd6xZUI) | [45](https://open.spotify.com/artist/7s2An89rlAjaY1HLgeLtHT) | [What Is Peace 4 U](https://open.spotify.com/album/1eNldbRjczJrgg80vWkyfI) | 3:16 | 2022-03-24 | 2022-07-29 |

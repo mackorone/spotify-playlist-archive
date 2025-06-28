@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 65576,
+  "num_followers": 65593,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFs8AAAAAABAUQzR+IlNZ4N+s+2tThgI",
+  "snapshot_id": "aFyNgAAAAAAJ17/nHCfJrx/qU/mn6eoE",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "30 Aniversario Duetos",
+        "url": "https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 240426,
+      "name": "Amigo M\u00edo - Dueto Con Lalo Mora",
+      "url": "https://open.spotify.com/track/5lJCiAk7S2WNglqzEVS3JE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PALOMAZO NORTE\u00d1O VOL. 2 (EN VIVO DESDE EL DOMO CARE)",
         "url": "https://open.spotify.com/album/5BeTB1Fl5lKcWO9NLiJVk3"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 201909,
       "name": "Avi\u00e9ntame (EN VIVO DESDE EL DOMO CARE)",
       "url": "https://open.spotify.com/track/4kk1USe5mVA2RlGCHY6Iv7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "30 Aniversario Duetos",
-        "url": "https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        },
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 240426,
-      "name": "Amigo M\u00edo - Dueto Con Lalo Mora",
-      "url": "https://open.spotify.com/track/5lJCiAk7S2WNglqzEVS3JE"
     },
     {
       "added_at": null,

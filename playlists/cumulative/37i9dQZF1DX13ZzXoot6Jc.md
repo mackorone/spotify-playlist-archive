@@ -2,7 +2,7 @@
 
 ### [Country Favourites](https://open.spotify.com/playlist/37i9dQZF1DX13ZzXoot6Jc)
 
-> Jordan Davis and Country hits that will have you singing every word.
+> Shaboozey and Country hits that will have you singing every word.
 
 460 songs - 1 day 1 hr 0 min
 

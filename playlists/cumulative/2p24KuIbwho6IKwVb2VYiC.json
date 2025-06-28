@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "The best Dance and EDM tracks right now!  Cover: Jazzy",
+  "description": "The best Dance and EDM tracks right now!  Cover: Loud Luxury",
   "name": "ALL ACCESS DANCE",
   "tracks": [
     {
@@ -3701,6 +3701,32 @@
     },
     {
       "album": {
+        "name": "Loosen Up",
+        "url": "https://open.spotify.com/album/0zVdQCWZh8j3FARvnNr6sZ"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Dawty",
+          "url": "https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe"
+        },
+        {
+          "name": "Preston Harris",
+          "url": "https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Loosen Up",
+      "url": "https://open.spotify.com/track/2jWZ9NZotZb2hN5obKx2FA"
+    },
+    {
+      "album": {
         "name": "it's Franky baby!",
         "url": "https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9"
       },
@@ -5150,6 +5176,24 @@
       "duration_ms": 181459,
       "name": "Quiver",
       "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
+    },
+    {
+      "album": {
+        "name": "R U DOWN?",
+        "url": "https://open.spotify.com/album/0U4SQdmsqFF9dEeX2lzqKd"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139911,
+      "name": "R U DOWN?",
+      "url": "https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD"
     },
     {
       "album": {

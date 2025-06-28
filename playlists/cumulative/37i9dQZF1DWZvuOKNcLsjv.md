@@ -4,7 +4,7 @@
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: Twenty One Pilots
 
-4,706 songs - 11 day 8 hr 27 min
+4,707 songs - 11 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2394,6 +2394,7 @@
 | [on & on](https://open.spotify.com/track/0SLmyaqNDmqVBakll401xr) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG), [ratiff](https://open.spotify.com/artist/7bSQ26qnH9EHvCdB7ekW14), [hyunis1000](https://open.spotify.com/artist/5kg1VfX43k7uJ1mLHXmkRF) | [ON&ON](https://open.spotify.com/album/46T3rFSu6bKD9D7ocjTe4U) | 3:08 | 2025-02-27 | 2025-03-14 |
 | [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 | 2023-09-17 | 2023-10-02 |
 | [On My Love \- New Year Hypaton Remix](https://open.spotify.com/track/0p30mMKiymrvaaeiXoU3a5) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [On My Love \(New Year Hypaton Remix\)](https://open.spotify.com/album/1CTwTz2XAKkEYxyX1t4yVU) | 3:11 | 2023-12-31 | 2024-01-08 |
+| [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 | 2025-06-26 |  |
 | [On My Mind](https://open.spotify.com/track/2REV45xgTkmZnixZyQdeCj) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [On My Mind](https://open.spotify.com/album/7d3ipgo7MFc14ktcdiM9sK) | 3:02 | 2024-02-18 | 2024-02-26 |
 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 | 2023-03-05 | 2023-04-03 |
 | [On&On](https://open.spotify.com/track/47YQIiLsGbMYH25PTQrZuE) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [On&On](https://open.spotify.com/album/228RotYYsP1zB9KNgrky21) | 3:31 | 2023-08-20 | 2023-08-28 |

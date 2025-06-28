@@ -1,6 +1,6 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 451471,
+  "num_followers": 451461,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
-      },
-      "artists": [
-        {
-          "name": "sign crushes motorist",
-          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "I'm Always Here",
-      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "Funny",
         "url": "https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 302578,
       "name": "Funny",
       "url": "https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
+      },
+      "artists": [
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "I'm Always Here",
+      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "Spirituals",
-        "url": "https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo"
-      },
-      "artists": [
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "My Horror",
-      "url": "https://open.spotify.com/track/7qaFdrjVYpKH9lFPaWBBix"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "This Could Be Texas",
         "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 281663,
       "name": "Mastermind Specialism",
       "url": "https://open.spotify.com/track/3l15uHUQYJJjtKOvOec5Xc"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "Spirituals",
+        "url": "https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 156480,
+      "name": "My Horror",
+      "url": "https://open.spotify.com/track/7qaFdrjVYpKH9lFPaWBBix"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "Serfs Up!",
-        "url": "https://open.spotify.com/album/3rCHThZSo7zO5dmmsPjTtQ"
-      },
-      "artists": [
-        {
-          "name": "Fat White Family",
-          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
-        }
-      ],
-      "duration_ms": 342538,
-      "name": "Tastes Good With The Money",
-      "url": "https://open.spotify.com/track/2PVIlhwBem76mLR9qentnl"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "It Was Gone",
         "url": "https://open.spotify.com/album/2zz9Kq8rQRdV7y9fvpG6eg"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 307069,
       "name": "It Was Gone",
       "url": "https://open.spotify.com/track/5XUpxZO6tIHpupxE97LJ7I"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "Serfs Up!",
+        "url": "https://open.spotify.com/album/3rCHThZSo7zO5dmmsPjTtQ"
+      },
+      "artists": [
+        {
+          "name": "Fat White Family",
+          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+        }
+      ],
+      "duration_ms": 342538,
+      "name": "Tastes Good With The Money",
+      "url": "https://open.spotify.com/track/2PVIlhwBem76mLR9qentnl"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1019,18 +1019,22 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "Contently Miserable",
-        "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
+        "name": "Dancing with Ghosts",
+        "url": "https://open.spotify.com/album/1yLAAVq1QqUKEhKJKkHjdl"
       },
       "artists": [
         {
-          "name": "Rory Ryan",
-          "url": "https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk"
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Contently Miserable",
-      "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
+      "duration_ms": 299400,
+      "name": "Dancing with Ghosts",
+      "url": "https://open.spotify.com/track/2vXq4DzEwtxMyc5WLOg6EY"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1047,6 +1051,22 @@
       "duration_ms": 218373,
       "name": "You are the Problem Here",
       "url": "https://open.spotify.com/track/1wSGgkDKaX5OXM7NPqJv4U"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "Contently Miserable",
+        "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
+      },
+      "artists": [
+        {
+          "name": "Rory Ryan",
+          "url": "https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Contently Miserable",
+      "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1111,26 +1131,6 @@
       "duration_ms": 240551,
       "name": "May I Comply",
       "url": "https://open.spotify.com/track/7BCv8kdJnH5NSUL8d4kzh5"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
-        "name": "Dancing with Ghosts",
-        "url": "https://open.spotify.com/album/1yLAAVq1QqUKEhKJKkHjdl"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        },
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 299400,
-      "name": "Dancing with Ghosts",
-      "url": "https://open.spotify.com/track/2vXq4DzEwtxMyc5WLOg6EY"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "Within a Dream",
-        "url": "https://open.spotify.com/album/4cK5huBF9awOCUrbx3hqNL"
-      },
-      "artists": [
-        {
-          "name": "White Flowers",
-          "url": "https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J"
-        }
-      ],
-      "duration_ms": 233556,
-      "name": "Blue May",
-      "url": "https://open.spotify.com/track/6vlN4TQsjWS6mQKvJX2ERP"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "Ecstasy Homosexuality",
         "url": "https://open.spotify.com/album/0BeMgSYDSzivSONx0du1Jz"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "sunshine~",
-        "url": "https://open.spotify.com/album/68xXHDSi3oAj6OMzz2Ln5K"
+        "name": "Within a Dream",
+        "url": "https://open.spotify.com/album/4cK5huBF9awOCUrbx3hqNL"
       },
       "artists": [
         {
-          "name": "Corbon Amodio",
-          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
+          "name": "White Flowers",
+          "url": "https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J"
         }
       ],
-      "duration_ms": 109090,
-      "name": "sunshine~",
-      "url": "https://open.spotify.com/track/5Jc4vDaFlqyCWUFINwjaTS"
+      "duration_ms": 233556,
+      "name": "Blue May",
+      "url": "https://open.spotify.com/track/6vlN4TQsjWS6mQKvJX2ERP"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1323,6 +1307,22 @@
       "duration_ms": 177801,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "sunshine~",
+        "url": "https://open.spotify.com/album/68xXHDSi3oAj6OMzz2Ln5K"
+      },
+      "artists": [
+        {
+          "name": "Corbon Amodio",
+          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
+        }
+      ],
+      "duration_ms": 109090,
+      "name": "sunshine~",
+      "url": "https://open.spotify.com/track/5Jc4vDaFlqyCWUFINwjaTS"
     },
     {
       "added_at": "2024-11-04 12:56:32",

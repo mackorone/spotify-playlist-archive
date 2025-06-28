@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-1,236 songs - 3 day 0 hr 7 min
+1,237 songs - 3 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Distance \(Mandarin Version\)](https://open.spotify.com/track/3qUObXucAc56ax5DSzcUF1) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [Distance \(Mandarin Version\)](https://open.spotify.com/album/6QOeB6q1acypIqwuDpsKkI) | 3:20 | 2023-09-02 | 2023-11-19 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-20 | 2024-01-04 |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/0247StOpd3AkeBQzANX4Zf) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It's Christmas?](https://open.spotify.com/album/0Q96oESySVI3gLFTkhttn5) | 3:42 | 2021-12-26 | 2021-12-27 |
+| [doll](https://open.spotify.com/track/4f9i8PcyIjIFtHV0Sy2PbM) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [doll](https://open.spotify.com/album/3HkgkY7W5bjOkYeVlDa9T8) | 2:59 | 2025-06-27 |  |
 | [don't wanna break up again](https://open.spotify.com/track/0o3ua5ufFK7nfRzbDUNoGA) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:54 | 2024-03-09 | 2024-03-14 |
 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 | 2025-05-17 |  |
 | [doodoodoo](https://open.spotify.com/track/0bqYvGR4vP2KstdMyemKYI) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [doodoodoo](https://open.spotify.com/album/5OxneUMRslWdTQlYpO8Wc9) | 3:23 | 2022-05-13 | 2022-09-04 |
@@ -965,7 +966,7 @@
 | [小心碰頭](https://open.spotify.com/track/4UVccKUI1aiZ17lecEfbNu) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [小心碰頭](https://open.spotify.com/album/1s43unuwwZCMAwFb6Yppwg) | 4:17 | 2024-08-21 | 2025-04-26 |
 | [小林不動產](https://open.spotify.com/track/4Mt3D6I02Pu2iv2KWW0hO6) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [小林不動產](https://open.spotify.com/album/2ECDGQbU9ra2jYK7ZbqwKb) | 3:05 | 2023-02-23 | 2023-04-10 |
 | [小諧星](https://open.spotify.com/track/4Pzi0povbtMOuVyGKGNOKu) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [小諧星](https://open.spotify.com/album/19F3jFJst7yhZ7U5ziGuaj) | 4:37 | 2021-07-25 | 2022-10-03 |
-| [岩巉](https://open.spotify.com/track/4ja627NyIBCz7wO2dYr83g) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [岩巉](https://open.spotify.com/album/3TCBQ5KfzuoHIZxV3Xk2eh) | 3:44 | 2023-11-28 | 2025-06-27 |
+| [岩巉](https://open.spotify.com/track/4ja627NyIBCz7wO2dYr83g) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [岩巉](https://open.spotify.com/album/3TCBQ5KfzuoHIZxV3Xk2eh) | 3:44 | 2023-11-28 |  |
 | [年青有為](https://open.spotify.com/track/5dhzpjvwo4tkSuUS7otPoF) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy), [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [年青有為](https://open.spotify.com/album/21mjvuCpLVh8tvSEFUG8Of) | 4:18 | 2021-11-21 | 2021-12-04 |
 | [幼稚完 \- \(劇集 "雷霆掃毒" 片尾曲\)](https://open.spotify.com/track/5b6PaNTGe3Iv2gg2RMy2Ms) | [Raymond Lam](https://open.spotify.com/artist/4KCnzC71azFAYCKmD1bJOK) | [幼稚完 \(劇集 "雷霆掃毒" 片尾曲\)](https://open.spotify.com/album/33xNSs4pcrasImQam0eUMa) | 4:28 | 2025-05-31 | 2025-06-02 |
 | [幼稚未完](https://open.spotify.com/track/1TcsJ21R8PMmpLcj34A02E) | [Raymond Lam](https://open.spotify.com/artist/4KCnzC71azFAYCKmD1bJOK) | [幼稚未完](https://open.spotify.com/album/1cMNmZCvoKkwGdUZpwcLTF) | 4:06 | 2022-02-15 | 2022-05-15 |
@@ -1147,7 +1148,7 @@
 | [給缺席的人唱首歌](https://open.spotify.com/track/0ZnUxq0HrUPilUSf9ZlQaT) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [給缺席的人唱首歌](https://open.spotify.com/album/0skB0wEikdxjH6uigz4fik) | 3:57 | 2022-07-07 | 2022-10-23 |
 | [網絡安全隱患](https://open.spotify.com/track/4J3xGcdeTondAni5xd9kmm) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7), [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [網絡安全隱患](https://open.spotify.com/album/2U0RPpcvALJOyO7daXdGU4) | 3:01 | 2021-04-21 | 2021-05-03 |
 | [緊急聯絡人](https://open.spotify.com/track/1sb71AvysPMJlsx4qYtTpG) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [緊急聯絡人](https://open.spotify.com/album/1jSjHcc494JZrMD6keZ0UU) | 3:42 | 2023-12-01 |  |
-| [羅生門](https://open.spotify.com/track/7xAVLrbnud6OrU6f4FmxDr) | [Juno Mak](https://open.spotify.com/artist/6YlGm6QDrC3TOknYcHjt62), [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [羅生門](https://open.spotify.com/album/7iazSs9PaBdukqiGztIyXm) | 4:22 | 2025-06-26 |  |
+| [羅生門](https://open.spotify.com/track/7xAVLrbnud6OrU6f4FmxDr) | [Juno Mak](https://open.spotify.com/artist/6YlGm6QDrC3TOknYcHjt62), [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [羅生門](https://open.spotify.com/album/7iazSs9PaBdukqiGztIyXm) | 4:22 | 2025-06-26 | 2025-06-28 |
 | [群青](https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:08 | 2023-12-02 | 2024-01-20 |
 | [老派約會之必要](https://open.spotify.com/track/2lMVTk3I232dE7jnkufOSt) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [老派約會之必要](https://open.spotify.com/album/6Vgd72xB0XvQL23Nu5QlJ1) | 3:43 | 2022-07-28 | 2023-01-22 |
 | [老派約會之必要](https://open.spotify.com/track/3x2hKSUf8O8IqI1shmxGnp) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [This is MC](https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx) | 3:43 | 2023-01-21 | 2025-03-03 |
@@ -1161,7 +1162,7 @@
 | [膠 on! \(膠戰S2 主題曲\)](https://open.spotify.com/track/3Hw5UuPArZWxOQUu6tYdf1) | [6膠](https://open.spotify.com/artist/1LVOxgnKHc1CWaiNoMuQ8s) | [膠 on! \(膠戰S2 主題曲\)](https://open.spotify.com/album/1UZHXtZuKCJKRBi6mtc0DX) | 3:46 | 2022-01-13 | 2022-02-19 |
 | [自我安慰](https://open.spotify.com/track/40NvsEFexANIROSnKIMYXB) | [Leo Ku](https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ), [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [自我安慰](https://open.spotify.com/album/6dbUX5p1H2lH9CWtBoL92m) | 5:08 | 2022-09-08 | 2023-03-12 |
 | [自毀的程序](https://open.spotify.com/track/5cGipBquhoVjNn5U6XX61k) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [自毀的程序](https://open.spotify.com/album/3aCajItUBZrwQZtdNTady7) | 3:58 | 2022-07-12 | 2022-10-03 |
-| [至少做一件離譜的事](https://open.spotify.com/track/2oOemghuOplk25PORF4s39) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [至少做一件離譜的事](https://open.spotify.com/album/4ExqABTnuhxEXKYr0MI8L6) | 3:52 | 2024-04-12 |  |
+| [至少做一件離譜的事](https://open.spotify.com/track/2oOemghuOplk25PORF4s39) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [至少做一件離譜的事](https://open.spotify.com/album/4ExqABTnuhxEXKYr0MI8L6) | 3:52 | 2024-04-12 | 2025-06-28 |
 | [致我](https://open.spotify.com/track/0FgvyfBRIWBwYaoAKaotHO) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [致我](https://open.spotify.com/album/5Mg69XJhcguD5u2nXCSv2z) | 3:52 | 2024-10-24 |  |
 | [與我無關](https://open.spotify.com/track/0GoEr3439Go5CGHL6fw1US) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [與我無關](https://open.spotify.com/album/3t4fnPF3xdC4lHl3au9xf3) | 3:25 | 2023-09-05 | 2024-03-14 |
 | [與我無關](https://open.spotify.com/track/7kwk6IdfKLnP1srqfXVOjq) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [TREBLE](https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK) | 3:25 | 2024-03-13 | 2024-08-04 |

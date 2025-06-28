@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The latest tracks from Mad Decent and friends. Featuring new music from Kablito and TDJ, plus the latest cuts from Eartheater and ALCATRAZ.",
+  "description": "The latest tracks from Mad Decent and friends. Featuring new music from TDJ and Kablito, plus the latest cuts from Eartheater and ALCATRAZ.",
   "name": "Mad Decent Weekly",
   "tracks": [
     {
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 194180,
       "name": "Aquamarine / Arcamarine",
       "url": "https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV"
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 121411,
       "name": "As I Break Apart",
       "url": "https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG"
@@ -2629,6 +2629,28 @@
     },
     {
       "album": {
+        "name": "choke enough (remixes)",
+        "url": "https://open.spotify.com/album/2HLVIJuBYm1SzuTZP40RUL"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "jamesjamesjames",
+          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344565,
+      "name": "choke enough (jamesjamesjames remix)",
+      "url": "https://open.spotify.com/track/5sjv7SJb257ml19zGpOQYk"
+    },
+    {
+      "album": {
         "name": "Choose Love (Gerd Janson Remix)",
         "url": "https://open.spotify.com/album/4zYngChJ5qPNtbxb6Z3MSo"
       },
@@ -3038,7 +3060,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 108965,
       "name": "CRUSH",
       "url": "https://open.spotify.com/track/5PaS7OPXZQSG09YXvByEsi"
@@ -3318,6 +3340,28 @@
       "duration_ms": 215616,
       "name": "Dancing In The Dark",
       "url": "https://open.spotify.com/track/3dSIx6VxBFjGyKwvgxqPNz"
+    },
+    {
+      "album": {
+        "name": "TDJ",
+        "url": "https://open.spotify.com/album/3Xrb3NL3BwoFI7F09QBlEk"
+      },
+      "artists": [
+        {
+          "name": "TDJ",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
+        },
+        {
+          "name": "Busu",
+          "url": "https://open.spotify.com/artist/0qPS2nW9elfpe9B1s611oV"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187777,
+      "name": "Dare To Dream",
+      "url": "https://open.spotify.com/track/6ucg7y95YmqHOKoTtIHex8"
     },
     {
       "album": {
@@ -5735,6 +5779,24 @@
     },
     {
       "album": {
+        "name": "Gotitas de Amor",
+        "url": "https://open.spotify.com/album/3hbiOYhFk0c64ufFFti8If"
+      },
+      "artists": [
+        {
+          "name": "Kablito",
+          "url": "https://open.spotify.com/artist/51aWHhJ7AjxKmZ4dDUc0sm"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145116,
+      "name": "Gotitas de Amor",
+      "url": "https://open.spotify.com/track/6wSMwltJkT68WQoKEUXqq4"
+    },
+    {
+      "album": {
         "name": "grandiosee",
         "url": "https://open.spotify.com/album/4dqUHvKKU2rVEP8sx6Chum"
       },
@@ -6274,7 +6336,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 131771,
       "name": "Hit & Run",
       "url": "https://open.spotify.com/track/6ZO2BFnWwI0CTapdJGlTJb"
@@ -6896,6 +6958,28 @@
       "duration_ms": 190822,
       "name": "Ija - TOKiMONSTA Remix",
       "url": "https://open.spotify.com/track/27ALJpTFMItteosC4kyj9x"
+    },
+    {
+      "album": {
+        "name": "Illegal (Nia Archives Remix)",
+        "url": "https://open.spotify.com/album/57V3Ec9fpJEUZkFyW2axtx"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Illegal - Nia Archives Remix",
+      "url": "https://open.spotify.com/track/0c1s95bO4ZqOOmFl8mfsro"
     },
     {
       "album": {
@@ -7942,7 +8026,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 273859,
       "name": "Lights out baby, entropy!",
       "url": "https://open.spotify.com/track/3TJMpwcdrDE0wwSoEWit5f"
@@ -9989,6 +10073,28 @@
     },
     {
       "album": {
+        "name": "A Tropical Entropy",
+        "url": "https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es"
+      },
+      "artists": [
+        {
+          "name": "Nick Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
+        },
+        {
+          "name": "Casey MQ",
+          "url": "https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Ocean Apart",
+      "url": "https://open.spotify.com/track/6rWPWP8A3c78e1UBXY0QSO"
+    },
+    {
+      "album": {
         "name": "Then Again",
         "url": "https://open.spotify.com/album/48u42pkXw9wIIp3LZyfjk3"
       },
@@ -10118,6 +10224,24 @@
       "duration_ms": 360106,
       "name": "On and On (You Lie)",
       "url": "https://open.spotify.com/track/0IW5kFYSyUhsKy0Y7Q8Ygn"
+    },
+    {
+      "album": {
+        "name": "On The Beach",
+        "url": "https://open.spotify.com/album/6KrzhYHM6iHMzTMbCTO9du"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256859,
+      "name": "On The Beach (from DEATH STRANDING 2: ON THE BEACH)",
+      "url": "https://open.spotify.com/track/72R7Qzj6kVw44ndWnFZzKK"
     },
     {
       "album": {
@@ -12215,6 +12339,24 @@
     },
     {
       "album": {
+        "name": "Virgin",
+        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257065,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m"
+    },
+    {
+      "album": {
         "name": "Shark Brain / Dolphin",
         "url": "https://open.spotify.com/album/3xRHlsN1ny2OS4XFXdCrer"
       },
@@ -12340,6 +12482,28 @@
       "duration_ms": 200126,
       "name": "Shoot The Seagull",
       "url": "https://open.spotify.com/track/6bnp9RVQ744EDZAsDWWRYs"
+    },
+    {
+      "album": {
+        "name": "TDJ",
+        "url": "https://open.spotify.com/album/3Xrb3NL3BwoFI7F09QBlEk"
+      },
+      "artists": [
+        {
+          "name": "TDJ",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
+        },
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256028,
+      "name": "Shoreline",
+      "url": "https://open.spotify.com/track/6MCwLgzWdyk7J7ctKW9wga"
     },
     {
       "album": {
@@ -13422,7 +13586,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 163188,
       "name": "Talking 2 it Like its Human",
       "url": "https://open.spotify.com/track/6oB4o8Q9fyao7UibaURyjs"
@@ -14475,6 +14639,28 @@
     },
     {
       "album": {
+        "name": "TDJ",
+        "url": "https://open.spotify.com/album/3Xrb3NL3BwoFI7F09QBlEk"
+      },
+      "artists": [
+        {
+          "name": "TDJ",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
+        },
+        {
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208681,
+      "name": "Under The Rush",
+      "url": "https://open.spotify.com/track/6zrAz5MxiQXa7ny3YyLG4P"
+    },
+    {
+      "album": {
         "name": "April Mixtape 3",
         "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
       },
@@ -15064,7 +15250,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 265506,
       "name": "Where Is My Angel",
       "url": "https://open.spotify.com/track/48ChqGVn3yIpcYWxfzPHfD"
@@ -15196,7 +15382,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 197866,
       "name": "Windows XP",
       "url": "https://open.spotify.com/track/3nY2nR1WRkADdHponmQhjK"
@@ -15424,7 +15610,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 249342,
       "name": "Yiu",
       "url": "https://open.spotify.com/track/4zCa5z42tduunz4hMt8wWq"

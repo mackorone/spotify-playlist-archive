@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 43847,
+  "num_followers": 43856,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFs8AAAAAACttJdixqCKfY2C7DXRBzgG",
+  "snapshot_id": "aFyNgAAAAAAJEVLPrJ0EU1qsjaoIxx4u",
   "tracks": [
     {
       "added_at": null,
@@ -263,30 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como La Flor",
-        "url": "https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB"
-      },
-      "artists": [
-        {
-          "name": "Play-N-Skillz",
-          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 174555,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mu\u00f1equita Linda",
         "url": "https://open.spotify.com/album/2ndIHUzRvnc6rLoSxFVfd3"
       },
@@ -311,6 +287,30 @@
       "duration_ms": 210524,
       "name": "Mu\u00f1equita Linda",
       "url": "https://open.spotify.com/track/3EFzexdYFIzbM2dusddMVk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como La Flor",
+        "url": "https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB"
+      },
+      "artists": [
+        {
+          "name": "Play-N-Skillz",
+          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 174555,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All This Time",
-        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 225159,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Evening",
         "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 229099,
       "name": "Turn Back Time (feat. Teemu)",
       "url": "https://open.spotify.com/track/02FZ7CS69ZwsLQMngR3rhW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 225159,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
     },
     {
       "added_at": null,
@@ -923,8 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hands Up",
-        "url": "https://open.spotify.com/album/2rhi1aIdti3D6jJumud66T"
+        "name": "I Like This F\u2019n Song",
+        "url": "https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem"
       },
       "artists": [
         {
@@ -932,17 +932,13 @@
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         },
         {
-          "name": "Dave Mak",
-          "url": "https://open.spotify.com/artist/3L17EqHYfIfGDdsf9vc05U"
-        },
-        {
-          "name": "Scheffwell",
-          "url": "https://open.spotify.com/artist/6jcN72tgLCU7POn5N2834e"
+          "name": "Krunk!",
+          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
         }
       ],
-      "duration_ms": 131538,
-      "name": "Hands Up",
-      "url": "https://open.spotify.com/track/11lyd04BW0DTTjMyWnFsO0"
+      "duration_ms": 193821,
+      "name": "I Like This F\u2019n Song",
+      "url": "https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY"
     },
     {
       "added_at": null,
@@ -967,8 +963,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Like This F\u2019n Song",
-        "url": "https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem"
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/2rhi1aIdti3D6jJumud66T"
       },
       "artists": [
         {
@@ -976,13 +972,17 @@
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         },
         {
-          "name": "Krunk!",
-          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
+          "name": "Dave Mak",
+          "url": "https://open.spotify.com/artist/3L17EqHYfIfGDdsf9vc05U"
+        },
+        {
+          "name": "Scheffwell",
+          "url": "https://open.spotify.com/artist/6jcN72tgLCU7POn5N2834e"
         }
       ],
-      "duration_ms": 193821,
-      "name": "I Like This F\u2019n Song",
-      "url": "https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY"
+      "duration_ms": 131538,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/11lyd04BW0DTTjMyWnFsO0"
     },
     {
       "added_at": null,
@@ -1011,30 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RBS",
-        "url": "https://open.spotify.com/album/0mHTnOkXGzACUKonSwZSsP"
-      },
-      "artists": [
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        },
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 173934,
-      "name": "RBS",
-      "url": "https://open.spotify.com/track/4EEXF3lBvayzmIOuDKwC9p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When The Funk Drops",
         "url": "https://open.spotify.com/album/6SQPmAwz5G7gXNBB0TXTLl"
       },
@@ -1059,26 +1035,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "BAMBOLE - TAAO REMIX",
-        "url": "https://open.spotify.com/album/5myy2cSK0vcmyS8LvhwJN2"
+        "name": "RBS",
+        "url": "https://open.spotify.com/album/0mHTnOkXGzACUKonSwZSsP"
       },
       "artists": [
         {
-          "name": "Vikina",
-          "url": "https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE"
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 173934,
+      "name": "RBS",
+      "url": "https://open.spotify.com/track/4EEXF3lBvayzmIOuDKwC9p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Left Right",
+        "url": "https://open.spotify.com/album/1zq0v6b34WAN1J7HqbXLUZ"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         },
         {
-          "name": "Taao",
-          "url": "https://open.spotify.com/artist/00I4wKx2BvStGK00Y3Kw5k"
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        },
+        {
+          "name": "Fatman Scoop",
+          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
         }
       ],
-      "duration_ms": 167555,
-      "name": "BAMBOLE - TAAO REMIX",
-      "url": "https://open.spotify.com/track/3MI1U6UFOm2ZH6F9xGqbkr"
+      "duration_ms": 155827,
+      "name": "Left Right",
+      "url": "https://open.spotify.com/track/1lpgyKW9jJSUl4QMFcADHa"
     }
   ],
   "unique_name": "This Is Deorro",

@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists every Wednesday\. Cover: Chained Saint
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,675 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,697 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [1000 Tons](https://open.spotify.com/track/0naGnDg0TAf08RptWY9F1Q) | [Chained Saint](https://open.spotify.com/artist/6JChzL9HQEspINhiTqSURd) | [1000 Tons](https://open.spotify.com/album/5TrOsdUOjhRluNLFkiOygo) | 2:59 |
-| 2 | [Foster](https://open.spotify.com/track/51JhUIPBPMkICrTvp77Sh1) | [Swollen Teeth](https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ) | [Foster](https://open.spotify.com/album/4V1RGimOugozD9K8PjRzZ7) | 4:19 |
-| 3 | [subjects](https://open.spotify.com/track/7dXnA1Bo45j8ktMZphrV50) | [st.sinner](https://open.spotify.com/artist/3OeX9lekdj5s9FByuNxW8G) | [subjects](https://open.spotify.com/album/2dOTy2hZMbzz6nmZYoThmA) | 3:59 |
-| 4 | [U\(phoria\)](https://open.spotify.com/track/1N1btMf2cMZFiGFTHPL3yj) | [Mirrorcell](https://open.spotify.com/artist/18MQzgqh7Afpja2i3phf4j) | [U\(phoria\)](https://open.spotify.com/album/56N7Ywq4IWoVuQuvNS3cZg) | 3:33 |
-| 5 | [Elated](https://open.spotify.com/track/4pHlVnvaYF6P5Mrj1yDKLn) | [Sienna Skies](https://open.spotify.com/artist/4BwB9qh4daa8ecVPY9Qlo3) | [Elated](https://open.spotify.com/album/2inbqm5YYvaHUE0qYDvhqs) | 4:02 |
-| 6 | [Parasite](https://open.spotify.com/track/30K7aglIX7OcAN8AOtUtdi) | [Daedra](https://open.spotify.com/artist/4Bl3FXav6VIDmSpaHLwpon) | [Parasite](https://open.spotify.com/album/0lNMiKTRk6If56xgUN4fMG) | 3:26 |
-| 7 | [Bitter Seeds](https://open.spotify.com/track/7MOoiJGuFT3EDpWzClCVXJ) | [LASTELLE](https://open.spotify.com/artist/2BB6OyMcGIRSwJQfsmpjKJ) | [Bitter Seeds](https://open.spotify.com/album/32K5uCnkgj4RGRNo5mDOkB) | 4:31 |
-| 8 | [Lie Alone For The Spirits To Mold](https://open.spotify.com/track/5p7OMwE9yZ51iogUilhLxf) | [CELL](https://open.spotify.com/artist/4YQNVGQ28HK3g68Su40onJ) | [Lie Alone For The Spirits To Mold](https://open.spotify.com/album/4EImzPeaJXXlxLF4Oq17Z7) | 3:07 |
-| 9 | [Dance Like That](https://open.spotify.com/track/70on5Sny2nNwrvJ1I3824A) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [Dance Like That](https://open.spotify.com/album/1TWalW3g3PTHXcn1A1EFMZ) | 3:14 |
-| 10 | [No Breakout](https://open.spotify.com/track/71aDYOdm1wB69ObSLrTzm3) | [Seven Blood](https://open.spotify.com/artist/0WYN4z4Co3AceuxwU6mFLr) | [No Breakout](https://open.spotify.com/album/6rA8maZl8sy0IDVOziSp7G) | 3:11 |
-| 11 | [Beneath A Lightless Star](https://open.spotify.com/track/6SFaNYwzDMCNGPIjXvtoth) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Beneath A Lightless Star](https://open.spotify.com/album/2IOEZbMDjDzI6Kn6H1qsYL) | 5:10 |
-| 12 | [WIZARD](https://open.spotify.com/track/3NYRBOauoTPnhLcyRpYgOj) | [Castle Rat](https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj) | [WIZARD](https://open.spotify.com/album/7sxqpGAY8GEVpF7JamVppY) | 4:57 |
-| 13 | [Novacane](https://open.spotify.com/track/3lALd4cI6fTuCelTVOhoOI) | [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ), [JavyDade](https://open.spotify.com/artist/5x2MghffUs9Ypcb9pOsrWH) | [Novacane](https://open.spotify.com/album/7xRMfVQX1bNyYcO0Wqamsp) | 2:36 |
-| 14 | [Waste](https://open.spotify.com/track/30iioITa3fCDhbE9HzgcFC) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Waste](https://open.spotify.com/album/4SuSt4oIL53W49HUl6UuNN) | 3:35 |
-| 15 | [Fresh Blood, Fresh Pussy](https://open.spotify.com/track/4NSMvwVeZBMZ5MfErlKQ2p) | [Witch Club Satan](https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy) | [Witch Club Satan](https://open.spotify.com/album/0c0hlchA9Q66PcL7xlPPfp) | 3:35 |
+| 2 | [Elated](https://open.spotify.com/track/4pHlVnvaYF6P5Mrj1yDKLn) | [Sienna Skies](https://open.spotify.com/artist/4BwB9qh4daa8ecVPY9Qlo3) | [Elated](https://open.spotify.com/album/2inbqm5YYvaHUE0qYDvhqs) | 4:02 |
+| 3 | [Lie Alone For The Spirits To Mold](https://open.spotify.com/track/5p7OMwE9yZ51iogUilhLxf) | [CELL](https://open.spotify.com/artist/4YQNVGQ28HK3g68Su40onJ) | [Lie Alone For The Spirits To Mold](https://open.spotify.com/album/4EImzPeaJXXlxLF4Oq17Z7) | 3:07 |
+| 4 | [You Wildflower](https://open.spotify.com/track/6k8BOF9z8d7yhMNtQLfAaV) | [Witch Club Satan](https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy) | [You Wildflower](https://open.spotify.com/album/25FC9A6YPrFGFLHoKrg4Cc) | 3:34 |
+| 5 | [Foster](https://open.spotify.com/track/51JhUIPBPMkICrTvp77Sh1) | [Swollen Teeth](https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ) | [Foster](https://open.spotify.com/album/4V1RGimOugozD9K8PjRzZ7) | 4:19 |
+| 6 | [subjects](https://open.spotify.com/track/7dXnA1Bo45j8ktMZphrV50) | [st.sinner](https://open.spotify.com/artist/3OeX9lekdj5s9FByuNxW8G) | [subjects](https://open.spotify.com/album/2dOTy2hZMbzz6nmZYoThmA) | 3:59 |
+| 7 | [U\(phoria\)](https://open.spotify.com/track/1N1btMf2cMZFiGFTHPL3yj) | [Mirrorcell](https://open.spotify.com/artist/18MQzgqh7Afpja2i3phf4j) | [U\(phoria\)](https://open.spotify.com/album/56N7Ywq4IWoVuQuvNS3cZg) | 3:33 |
+| 8 | [Parasite](https://open.spotify.com/track/30K7aglIX7OcAN8AOtUtdi) | [Daedra](https://open.spotify.com/artist/4Bl3FXav6VIDmSpaHLwpon) | [Parasite](https://open.spotify.com/album/0lNMiKTRk6If56xgUN4fMG) | 3:26 |
+| 9 | [Bitter Seeds](https://open.spotify.com/track/7MOoiJGuFT3EDpWzClCVXJ) | [LASTELLE](https://open.spotify.com/artist/2BB6OyMcGIRSwJQfsmpjKJ) | [Bitter Seeds](https://open.spotify.com/album/32K5uCnkgj4RGRNo5mDOkB) | 4:31 |
+| 10 | [Dance Like That](https://open.spotify.com/track/70on5Sny2nNwrvJ1I3824A) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [Dance Like That](https://open.spotify.com/album/1TWalW3g3PTHXcn1A1EFMZ) | 3:14 |
+| 11 | [No Breakout](https://open.spotify.com/track/71aDYOdm1wB69ObSLrTzm3) | [Seven Blood](https://open.spotify.com/artist/0WYN4z4Co3AceuxwU6mFLr) | [No Breakout](https://open.spotify.com/album/6rA8maZl8sy0IDVOziSp7G) | 3:11 |
+| 12 | [Beneath A Lightless Star](https://open.spotify.com/track/6SFaNYwzDMCNGPIjXvtoth) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Beneath A Lightless Star](https://open.spotify.com/album/2IOEZbMDjDzI6Kn6H1qsYL) | 5:10 |
+| 13 | [WIZARD](https://open.spotify.com/track/3NYRBOauoTPnhLcyRpYgOj) | [Castle Rat](https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj) | [WIZARD](https://open.spotify.com/album/7sxqpGAY8GEVpF7JamVppY) | 4:57 |
+| 14 | [Novacane](https://open.spotify.com/track/3lALd4cI6fTuCelTVOhoOI) | [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ), [JavyDade](https://open.spotify.com/artist/5x2MghffUs9Ypcb9pOsrWH) | [Novacane](https://open.spotify.com/album/7xRMfVQX1bNyYcO0Wqamsp) | 2:36 |
+| 15 | [Waste](https://open.spotify.com/track/30iioITa3fCDhbE9HzgcFC) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Waste](https://open.spotify.com/album/4SuSt4oIL53W49HUl6UuNN) | 3:35 |
 | 16 | [Good Looking Girl Awful Music](https://open.spotify.com/track/7jEynwea4AAEDzujzp4Zsj) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [Good Looking Girl, Awful Music](https://open.spotify.com/album/7wfN3HxHcFQU5ILA4yOnnK) | 3:22 |
 | 17 | [Frozen](https://open.spotify.com/track/1XWE7bFAbRcAqTEcTz2rlK) | [Bridges Ablaze](https://open.spotify.com/artist/2EkFmKsioTTvC9ShnwJwHP) | [Frozen](https://open.spotify.com/album/3H27ivNS86qnGDOloA2YUY) | 3:49 |
 | 18 | [Only We Know](https://open.spotify.com/track/1p1XCeiPjsfTjb2eRnbuph) | [Alchemize](https://open.spotify.com/artist/19sA0hkbGEOfm9Q3FSTHtx) | [Only We Know](https://open.spotify.com/album/0EUhJXMwZL5WMI9Sit4ZeT) | 3:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 74 | [STAIN](https://open.spotify.com/track/6xcoa669YknFFOICTWrca1) | [Wither//Bloom](https://open.spotify.com/artist/2Zx7gOdSeToesLI2cDQnfd) | [STAIN](https://open.spotify.com/album/5SDokcHTkrn34sa3ljA2As) | 3:18 |
 | 75 | [Dying Wisdom](https://open.spotify.com/track/1HcrY7PKXdn7xGAAtByqff) | [Between The Lakes](https://open.spotify.com/artist/7uLa4LuYx19XT2ssR0zzEp) | [Dying Wisdom](https://open.spotify.com/album/1XPcgHjPblSz9ED1tLKANC) | 4:03 |
 
-Snapshot ID: `aFt0SAAAAAB0reVYe1pHKRUCjg4kDr6p`
+Snapshot ID: `aF7g9QAAAAD6KcYtszjyd4XHv6An2ClS`

@@ -2,9 +2,9 @@
 
 ### [Today's Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DWTyjRnMgESue)
 
-> The best new songs from modern singer\-songwriters\. Cover: Drugdealer & Weyes Blood
+> The best new songs from modern singer\-songwriters\. Cover: Jade Bird
 
-709 songs - 1 day 17 hr 17 min
+712 songs - 1 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Bones Sleep](https://open.spotify.com/track/0iOyNCPEDidYqENgVwIqHQ) | [HAFFWAY](https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH), [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Bones Sleep](https://open.spotify.com/album/4pkXTeG6c4QjGaGW3eTzLt) | 2:49 | 2024-12-06 | 2025-05-17 |
 | [borrowed](https://open.spotify.com/track/7mqR25EmpUU23nzsS0jP9J) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [borrowed](https://open.spotify.com/album/3AlFW3ehH2mpBX9iskdnPU) | 4:00 | 2025-02-07 | 2025-05-24 |
 | [Bovine Excision](https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Bovine Excision](https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt) | 2:53 | 2025-01-17 |  |
+| [Bowling alley](https://open.spotify.com/track/47I8eRmRwU4EUX3HUqhFfp) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Bowling alley](https://open.spotify.com/album/3d9Fsp7MNINAFJDTdQ5x4k) | 2:34 | 2025-06-27 |  |
 | [Boy From Home](https://open.spotify.com/track/3Tbe6ohCLkQwuQEWQSyLBl) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [Boy From Home](https://open.spotify.com/album/29V5xzxhyhTCqRikGT7JZ2) | 3:50 | 2024-01-19 | 2024-06-01 |
 | [Brand New Nowhere](https://open.spotify.com/track/0pznRgpmNQXRZYCG6uYhNP) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [In Real Life](https://open.spotify.com/album/5ryM91OiM0t4owAR1MHIoK) | 3:17 | 2022-05-13 | 2022-07-05 |
 | [Break Into Your Heart](https://open.spotify.com/track/7H0HDJyal80WduDyRawDWr) | [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd) | [Break Into Your Heart](https://open.spotify.com/album/0kabcxCfQ2IH8rMVsbESRg) | 3:39 | 2021-11-19 | 2022-01-11 |
@@ -170,7 +171,7 @@
 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 | 2021-11-19 | 2022-06-09 |
 | [Down To The Sea](https://open.spotify.com/track/211suA6DC3TnHyjeDzWFoj) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/2uIVVImjKiA0KEi73pfbVG) | 3:19 | 2024-05-17 | 2025-01-11 |
 | [Dreams](https://open.spotify.com/track/2SbCeAa11fMv2YrgkSAqkf) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Dreams](https://open.spotify.com/album/1sTCDGQTUL5yLcFYxoS1Ud) | 3:42 | 2025-04-18 |  |
-| [Dreams](https://open.spotify.com/track/5HlBht8cGtnsVRhNYnaNt5) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Avalanche](https://open.spotify.com/album/1UGJkfsqde4wVIEScLVBZe) | 3:42 | 2025-05-30 |  |
+| [Dreams](https://open.spotify.com/track/5HlBht8cGtnsVRhNYnaNt5) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Avalanche](https://open.spotify.com/album/1UGJkfsqde4wVIEScLVBZe) | 3:42 | 2025-05-30 | 2025-06-28 |
 | [Dressed for the Weather](https://open.spotify.com/track/1T3OnKkjWl07lml6es5Gzz) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Thad Cockrell](https://open.spotify.com/artist/1kZ6UUBDcd4a0H3wKFhzvM) | [Dressed for the Weather](https://open.spotify.com/album/7p3KQYXyBJL1Az7piFbgxz) | 2:47 | 2021-11-19 | 2022-05-20 |
 | [Drive Away With You](https://open.spotify.com/track/4gkS6VK2e0lwuDcSPv6nSb) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Drive Away With You](https://open.spotify.com/album/5kEovRq38GkPsRs2AFgz3G) | 4:18 | 2021-11-19 | 2022-07-16 |
 | [Driving Backwards \(feat\. Chance Emerson\)](https://open.spotify.com/track/3FlgAPxizf999xy87qzQ5n) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9), [Chance Emerson](https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED) | [Driving Backwards \(feat\. Chance Emerson\)](https://open.spotify.com/album/10J2CosHduYAQJcpuWGhMq) | 2:18 | 2025-04-18 |  |
@@ -257,7 +258,7 @@
 | [Good Love Die](https://open.spotify.com/track/1U0nCqVolsvRmTianW7H8w) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Good Love Die](https://open.spotify.com/album/3G0ExGf9uPg10OOL2VBHUD) | 3:27 | 2025-02-28 |  |
 | [Good Person](https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d) | 2:54 | 2022-04-22 | 2023-05-15 |
 | [Good Place](https://open.spotify.com/track/5ljNGwMSRhtfl2fgiWkSzm) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Good Place](https://open.spotify.com/album/3JD02sIq9654hYvOG0yASa) | 2:42 | 2022-03-25 | 2022-07-06 |
-| [Good Riddance](https://open.spotify.com/track/4psl72FmlFg9y711X88aEL) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Good Riddance](https://open.spotify.com/album/75BeAq4oBNfn6g3zN8lwfE) | 3:17 | 2025-05-30 |  |
+| [Good Riddance](https://open.spotify.com/track/4psl72FmlFg9y711X88aEL) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Good Riddance](https://open.spotify.com/album/75BeAq4oBNfn6g3zN8lwfE) | 3:17 | 2025-05-30 | 2025-06-28 |
 | [Good Thing Going On \(ft\. Abbey Cone\)](https://open.spotify.com/track/7GHs0BFoFRwswFfwrt080E) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1), [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Good Thing Going On \(ft\. Abbey Cone\)](https://open.spotify.com/album/4Vv0XphWxHApFjEI3tSFav) | 2:51 | 2025-01-17 |  |
 | [Goodbye, Old Friend](https://open.spotify.com/track/7ICqrDwJVol0urvgt2GGGY) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:44 | 2025-05-16 |  |
 | [Gordon in the Willows](https://open.spotify.com/track/5s4K20MHbY6jkjL1ISNDtq) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Gordon in the Willows](https://open.spotify.com/album/50pHYOEkvi3T8lUDdGXbHd) | 3:54 | 2025-02-28 |  |
@@ -447,6 +448,7 @@
 | [Nightvisions](https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Nightvisions](https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt) | 3:56 | 2024-05-17 | 2024-08-25 |
 | [No California](https://open.spotify.com/track/1w21mLzlkcpKReMjbbUwpa) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [No California](https://open.spotify.com/album/3MTWOgFgOmAQbqw49MKbaq) | 3:35 | 2023-06-23 | 2024-05-18 |
 | [No Complaints](https://open.spotify.com/track/2D2rLS5IBt2EzDajhtuHZR) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [No Complaints](https://open.spotify.com/album/42xj07uXecDQBFGUcEVfwx) | 3:07 | 2024-02-02 | 2024-08-03 |
+| [Nobody](https://open.spotify.com/track/4POSbPMxN0VrfighTfRtuc) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Nobody](https://open.spotify.com/album/1Rx0kVYmGys2Lcg6TtnVKu) | 3:04 | 2025-06-27 |  |
 | [Nobody Knows](https://open.spotify.com/track/4RifFSu9IowuLVQMC501af) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heart of Gold](https://open.spotify.com/album/5OFrWDpHvOkYyllO3AKPtS) | 2:32 | 2024-11-15 | 2025-01-25 |
 | [Nobody's Fault](https://open.spotify.com/track/12pAzc2hvw5kCsVlGKIlD5) | [Natalie Schlabs](https://open.spotify.com/artist/25YHQvJbJh2yW36lrZJ9e5) | [Nobody's Fault](https://open.spotify.com/album/0sPBsZVSg9fP2iSHJPGrpU) | 3:49 | 2021-11-19 | 2022-06-06 |
 | [Normal Kid](https://open.spotify.com/track/1tvVxUE33ROYbQDrr2nXIw) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH) | [Normal Kid](https://open.spotify.com/album/1rX2mSRqM0GmTM0e4YK9H7) | 3:12 | 2022-05-20 | 2022-07-26 |
@@ -646,6 +648,7 @@
 | [Tractor](https://open.spotify.com/track/6N1Nrd9oHFRAHsrEZPkxAR) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Tractor](https://open.spotify.com/album/1p0cwpoCTRfDYEvE5hoaRs) | 3:26 | 2021-11-26 | 2022-10-08 |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2021-11-19 | 2022-02-21 |
 | [Treehouse \(feat\. Brandy Clark\)](https://open.spotify.com/track/1YhfDSpXJ61IHRF5IymP3S) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Treehouse](https://open.spotify.com/album/5fXOvCcWEgxK4x0qgY35U0) | 3:34 | 2024-05-17 | 2024-07-10 |
+| [Troubled Water](https://open.spotify.com/track/4GdfDopXzjpHVkVZIbSV6Q) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Getting By](https://open.spotify.com/album/6ZnlJFDMZzVftNALozU1LO) | 2:45 | 2025-06-27 |  |
 | [Try Me](https://open.spotify.com/track/6IDx8fFhFIEU7xT3GBvbMf) | [Mae Martin](https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn) | [I'm A TV](https://open.spotify.com/album/05BuE3SIGlbsHhGN1rBstS) | 2:50 | 2025-02-28 |  |
 | [Turnham Green](https://open.spotify.com/track/2zzbA5a4ZTzjYEbr4X0zOW) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Turnham Green](https://open.spotify.com/album/20u6ns1ue1dRrjc0cl4U8N) | 3:45 | 2022-08-12 | 2023-02-12 |
 | [two different parties \- acoustic](https://open.spotify.com/track/3C47Z2rokmHtZvt6zNHsOz) | [Caroline Dare](https://open.spotify.com/artist/729VtCqRPf0MwVTXAPz7wr) | [two different parties \(acoustic\)](https://open.spotify.com/album/76sNyWFclmUHKyAImS47JL) | 3:46 | 2022-07-15 | 2022-07-27 |

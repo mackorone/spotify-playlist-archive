@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J6DFF0p3Vs.md) - [plain]
 
 > in a dim, dusty library, reading your novel, and thinking of that special someone
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,042 likes - 85 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,123 likes - 85 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J6DFF0p3Vs.md) - [plain]
 | 46 | [Autumn In New York \- Set 1 / Live From Cafe Bohemia/1956](https://open.spotify.com/track/4FgsX8sfaIUErvFzlaD3tN) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [The Complete 'Round About Midnight At The Cafe Bohemia \(Live\)](https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0) | 4:47 |
 | 47 | [You Go To My Head](https://open.spotify.com/track/6fzyklnDJbeMgLh7Fj3NCx) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Angel Eyes](https://open.spotify.com/album/1dJdVdOxgyI16fjd6V5XEW) | 5:56 |
 | 48 | [Everybody's Somebody's Fool](https://open.spotify.com/track/3Fd6oqnuEVzOjzfh13k0CA) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 6:47 |
-| 49 | [Ernie's Tune](https://open.spotify.com/track/4Dfj6ZQohHWz8TKpG0vf8p) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Dexter Calling \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P) | 4:16 |
+| 49 | [Ernie's Tune](https://open.spotify.com/track/4Dfj6ZQohHWz8TKpG0vf8p) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ), [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Dexter Calling \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P) | 4:16 |
 | 50 | [What's New](https://open.spotify.com/track/4w3chQ0MVVUGMym48e4vVU) | [Bobby Jaspar](https://open.spotify.com/artist/7b7KvDXQB2IrXx4Kw9cd8Z), [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF), [Eddie Costa](https://open.spotify.com/artist/1kKQPQk0JVGYaQ40VhJ5DQ), [Barry Galbraith](https://open.spotify.com/artist/5LwO1uX8JISd5F3FBKT4Y9), [Milt Hinton](https://open.spotify.com/artist/5tMntK802KgUTLHsIfPwk4), [Osie Johnson](https://open.spotify.com/artist/2CYAlie3PicoM8mtJ5PekE) | [Clarinescapade](https://open.spotify.com/album/0vLsOyLESfqewZHFWmvNIA) | 3:45 |
 | 51 | [When I Fall In Love \- Rudy Van Gelder Remaster](https://open.spotify.com/track/7EwtqSo6cs173LRg7paAfK) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Steamin' \[Rudy Van Gelder edition\]](https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ) | 4:23 |
 | 52 | [Evening In Paris](https://open.spotify.com/track/36NzG0ptwi4k798mpIS3Oz) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Zoot Sims avec Henri Renaud et son orchestre](https://open.spotify.com/album/1tYXf9tuMLCiUrW18UwlHE) | 3:21 |

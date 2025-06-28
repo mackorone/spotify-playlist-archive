@@ -1337,6 +1337,28 @@
     },
     {
       "album": {
+        "name": "Dirty Work",
+        "url": "https://open.spotify.com/album/1aFHAf8YwiYUAqzeU4PsdE"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180127,
+      "name": "Dirty Work (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/3KcHHPN23AwgnSkq7TouwW"
+    },
+    {
+      "album": {
         "name": "Def Jam 25: DJ Bring That Back",
         "url": "https://open.spotify.com/album/6x9b726D8KTyUDZcvQyzxd"
       },

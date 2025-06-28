@@ -11623,6 +11623,24 @@
     },
     {
       "album": {
+        "name": "helemaal hoog",
+        "url": "https://open.spotify.com/album/6f22rWwEF8N0ifQeSuuI7d"
+      },
+      "artists": [
+        {
+          "name": "Ricky.DD",
+          "url": "https://open.spotify.com/artist/3WQZ67shTu5QRKdTE3asdr"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148374,
+      "name": "helemaal hoog",
+      "url": "https://open.spotify.com/track/3WKhmHxdJ5i6jcQwFnFmQt"
+    },
+    {
+      "album": {
         "name": "Helemaal Los",
         "url": "https://open.spotify.com/album/73QTzVqxmLLSEp6B2OVcAE"
       },

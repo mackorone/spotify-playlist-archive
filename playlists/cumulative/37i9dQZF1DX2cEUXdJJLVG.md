@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-425 songs - 1 day 1 hr 23 min
+426 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Am Ta](https://open.spotify.com/track/1kxD9cHzYspr92wMjTyUIu) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW) | [Am Ta EP](https://open.spotify.com/album/3jWRdeKMHeSFTBzYvxWV9K) | 4:30 | 2022-09-29 | 2024-09-27 |
 | [Amazing](https://open.spotify.com/track/37Atk9zfwLjfdCfgNOwqEX) | [CASUAL](https://open.spotify.com/artist/2z28pJU1CDDelSqq2gFNgg) | [Amazing](https://open.spotify.com/album/5QgofZ3fgy3XQ4sWw9ZkuN) | 3:01 | 2022-09-09 | 2024-03-21 |
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-09-09 | 2024-04-11 |
+| [Answer](https://open.spotify.com/track/4RHSOhJYoftx7lLglL74Rm) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [Hard Work EP](https://open.spotify.com/album/4Hd7GPsHrEs18SL70She2c) | 3:05 | 2025-06-27 |  |
 | [Are We Done](https://open.spotify.com/track/7yHkVKhTkMQVqLpy5ppyHx) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W), [DEHAZE](https://open.spotify.com/artist/3lFS8jJTgqYqETcnc8rpF4) | [Are We Done \(feat\. DEHAZE\)](https://open.spotify.com/album/53jdD0ThbI5EtTcgHaVE9L) | 2:44 | 2024-07-18 | 2025-06-20 |
 | [Are You Even Sorry](https://open.spotify.com/track/6rDRn3bjkILnkDJySKjzMO) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Are You Even Sorry](https://open.spotify.com/album/3vYAhAb03cBAIaTJmM9Zj2) | 2:47 | 2023-03-07 | 2024-06-21 |
 | [Baby Who](https://open.spotify.com/track/1tlbn3rzNdbIjIL0OW339s) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Baby Who](https://open.spotify.com/album/6SeV7GDPypz7UTTvGDXiNp) | 3:07 | 2022-10-12 | 2022-10-15 |

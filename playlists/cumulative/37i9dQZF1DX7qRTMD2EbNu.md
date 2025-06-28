@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: Sarkodie
 
-781 songs - 1 day 15 hr 36 min
+782 songs - 1 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -589,7 +589,7 @@
 | [Real Love](https://open.spotify.com/track/0dnsE50rhcduXpWKMwauYF) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Real Love](https://open.spotify.com/album/5RaIUa4in9b3Pgs2In3VeW) | 2:23 | 2025-02-28 |  |
 | [Realest](https://open.spotify.com/track/1sUUwtbL9A4edhaThMUboc) | [Slim Drumz](https://open.spotify.com/artist/26aYXu5NRqjKJUrDzGxRVT) | [Realest](https://open.spotify.com/album/64qM0Ulp6jyKd9zroh7crz) | 3:37 | 2025-02-28 | 2025-03-21 |
 | [REAP](https://open.spotify.com/track/5Vyk1ZOgNJ7bNHEYNTbjjh) | [Mista Silva](https://open.spotify.com/artist/2h3gbLjsYV1bTFr0qGYNb5), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [REAP](https://open.spotify.com/album/5kfARkxs4m1f93ON8p8JLV) | 3:31 | 2023-04-14 | 2023-05-05 |
-| [Red card](https://open.spotify.com/track/03AGC3VTCzkTeBNVhqTCkV) | [Kiki](https://open.spotify.com/artist/46SsdaRxdoCG7gKU4HR0r8), [Ko\-Jo Cue](https://open.spotify.com/artist/6w3yiKXNcQNCjNx3csE5Vt) | [Red card](https://open.spotify.com/album/4bLUE77cQ9TLYD3TqhXHRe) | 3:57 | 2025-06-20 |  |
+| [Red card](https://open.spotify.com/track/03AGC3VTCzkTeBNVhqTCkV) | [Kiki](https://open.spotify.com/artist/46SsdaRxdoCG7gKU4HR0r8), [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M) | [Red card](https://open.spotify.com/album/4bLUE77cQ9TLYD3TqhXHRe) | 3:57 | 2025-06-20 |  |
 | [RED EYE](https://open.spotify.com/track/7tUKHfSeO5IQ6Nedra6CmE) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [RED EYE](https://open.spotify.com/album/5Er3xWcthAHZ3cm5gysmHq) | 2:30 | 2025-01-17 |  |
 | [Reggae](https://open.spotify.com/track/2KmDY8HnTtvQb8bDoJpfIH) | [Gonaboy](https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s) | [Reggae](https://open.spotify.com/album/7iiwo2OJGz1Fzt5ZxvRXy6) | 2:17 | 2024-10-12 |  |
 | [Rich Dad, Poor Dad](https://open.spotify.com/track/7y5qrtSMxmpqWpOQezMD5h) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M) | [For My Brothers](https://open.spotify.com/album/3Qk29AVYqARa0R6YVipB2B) | 3:27 | 2025-03-06 | 2025-03-14 |
@@ -718,6 +718,7 @@
 | [TRAUMA](https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 2:48 | 2024-05-24 |  |
 | [Tuxedo Music](https://open.spotify.com/track/2wTLsbplu6Pabg5Dg5rWB9) | [KevTheTopic](https://open.spotify.com/artist/51k0wZlYnTwXXw3yFv2M9Z), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [Here Goes Nothing](https://open.spotify.com/album/3JkRHbQXcn6YSGqNvhBPLR) | 3:25 | 2024-08-25 | 2024-09-20 |
 | [Twatis \- Refix](https://open.spotify.com/track/0VnBFCRgOA7oIgXq5skZtt) | [Mr\. Raj](https://open.spotify.com/artist/0IMMahtRqbMMoNrDl3btdz), [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Twatis \(Refix\)](https://open.spotify.com/album/6WRb97Zqy4Ylt4J0PMolJl) | 2:34 | 2024-01-12 | 2024-01-26 |
+| [UNFAZED](https://open.spotify.com/track/4JkZSTGZ2GbwqtfFTKci3x) | [SovT Music](https://open.spotify.com/artist/29eB4DKTb6yyUJ0G6vZC6e) | [UNFAZED](https://open.spotify.com/album/51b5ivYxhWtkN72jOX0lnR) | 2:15 | 2025-06-27 |  |
 | [Unload](https://open.spotify.com/track/0m2tmjzW3DxAceOZh26C4H) | [Kojo Trilla](https://open.spotify.com/artist/7mmtBuQzPDjAzgiyYFJO55), [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [Medusa](https://open.spotify.com/artist/3wYrRRyRnX5mPPlSM7OJsA), [ACE ILLY](https://open.spotify.com/artist/4WgGQaorBvGbsZqOKXk9Wj) | [TRILLY](https://open.spotify.com/album/2b3JxxgB5n4iAtDhu2xKQ1) | 3:13 | 2024-09-27 | 2024-10-18 |
 | [Uno](https://open.spotify.com/track/3Ot5vPUgw3RZys9par70XI) | [Ryderz](https://open.spotify.com/artist/6CUpjrU6f5j0yFoJVVh9c9), [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [Uno](https://open.spotify.com/album/5sqfFqR89NoIXo31ITLJX7) | 3:04 | 2024-07-12 | 2024-08-09 |
 | [UNO](https://open.spotify.com/track/2wkETmSgtUgDyg8i94AZrn) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [MONOCHROME RADIO](https://open.spotify.com/album/2LBqxBoNbVgb6lioat3POo) | 2:33 | 2025-03-06 | 2025-03-14 |

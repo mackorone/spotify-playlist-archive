@@ -3015,6 +3015,24 @@
     },
     {
       "album": {
+        "name": "Canvas",
+        "url": "https://open.spotify.com/album/2KFNPVSYpmgbUi7GWnTWRv"
+      },
+      "artists": [
+        {
+          "name": "Paper Skies",
+          "url": "https://open.spotify.com/artist/3jtjn7NRlzHNIqdPvRf2WA"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127448,
+      "name": "Canvas",
+      "url": "https://open.spotify.com/track/5emVaZ8lh03pO2CGT3doLa"
+    },
+    {
+      "album": {
         "name": "Carbonara",
         "url": "https://open.spotify.com/album/1VxhQYQGPWGOrH2l61pYG8"
       },

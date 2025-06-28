@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Saint\u00e9",
-  "num_followers": 88528,
+  "num_followers": 88529,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -215,18 +215,22 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "The Sunrise Project",
-        "url": "https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q"
+        "name": "Next Up - S3-E47",
+        "url": "https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA"
       },
       "artists": [
         {
-          "name": "Songer",
-          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
         }
       ],
-      "duration_ms": 194455,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb"
+      "duration_ms": 141740,
+      "name": "Next Up - S3-E47, Pt.1",
+      "url": "https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -247,22 +251,18 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "Next Up - S3-E47",
-        "url": "https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA"
+        "name": "The Sunrise Project",
+        "url": "https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q"
       },
       "artists": [
         {
-          "name": "Idi Akz",
-          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
-        },
-        {
-          "name": "Mixtape Madness",
-          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
         }
       ],
-      "duration_ms": 141740,
-      "name": "Next Up - S3-E47, Pt.1",
-      "url": "https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK"
+      "duration_ms": 194455,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -711,6 +711,38 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
+        "name": "High (All The Time)",
+        "url": "https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr"
+      },
+      "artists": [
+        {
+          "name": "RhyRab",
+          "url": "https://open.spotify.com/artist/4EXmCLyMavmdNi3JTmbvSS"
+        }
+      ],
+      "duration_ms": 160030,
+      "name": "High (All The Time)",
+      "url": "https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "Love Never Dies",
+        "url": "https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 161466,
+      "name": "Different Man",
+      "url": "https://open.spotify.com/track/2QrSmaKPoBg4TGXHfQtott"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
         "name": "duck duck goose",
         "url": "https://open.spotify.com/album/3EGJXUpFU5kTCodBBwe1TR"
       },
@@ -735,38 +767,6 @@
       "duration_ms": 192000,
       "name": "duck duck goose",
       "url": "https://open.spotify.com/track/1FnQSKasVdtcON8N4eGKFr"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
-        "name": "Love Never Dies",
-        "url": "https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 161466,
-      "name": "Different Man",
-      "url": "https://open.spotify.com/track/2QrSmaKPoBg4TGXHfQtott"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
-        "name": "High (All The Time)",
-        "url": "https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr"
-      },
-      "artists": [
-        {
-          "name": "RhyRab",
-          "url": "https://open.spotify.com/artist/4EXmCLyMavmdNi3JTmbvSS"
-        }
-      ],
-      "duration_ms": 160030,
-      "name": "High (All The Time)",
-      "url": "https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "Hustle Tax",
-        "url": "https://open.spotify.com/album/4U04Twl0oNr4EMSL8uhAkm"
-      },
-      "artists": [
-        {
-          "name": "arlo",
-          "url": "https://open.spotify.com/artist/39mn3aEEL7eslRCyv20n2V"
-        }
-      ],
-      "duration_ms": 112340,
-      "name": "Less Is More",
-      "url": "https://open.spotify.com/track/677M1x0HytsRU50w3UzOIP"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
         "name": "Don't Ask",
         "url": "https://open.spotify.com/album/0bb3PplllwgVpxJo4UZhMs"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 158896,
       "name": "Don't Ask",
       "url": "https://open.spotify.com/track/1tZ7VK5bmv0svHV5Ge3xVI"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "Hustle Tax",
+        "url": "https://open.spotify.com/album/4U04Twl0oNr4EMSL8uhAkm"
+      },
+      "artists": [
+        {
+          "name": "arlo",
+          "url": "https://open.spotify.com/artist/39mn3aEEL7eslRCyv20n2V"
+        }
+      ],
+      "duration_ms": 112340,
+      "name": "Less Is More",
+      "url": "https://open.spotify.com/track/677M1x0HytsRU50w3UzOIP"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
+        "name": "Why you gotta lie?",
+        "url": "https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 156053,
+      "name": "Why you gotta lie?",
+      "url": "https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/50jLOnNEfgFgO3AG15uIq4"
       },
@@ -1451,8 +1467,56 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "Why you gotta lie?",
-        "url": "https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7"
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/6CRjn3UOO9i9zqGE0Kxwp3"
+      },
+      "artists": [
+        {
+          "name": "Noaah",
+          "url": "https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX"
+        }
+      ],
+      "duration_ms": 152137,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/2pjj71OIEpgLzr0V6cYkTp"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 189781,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "No Pain",
+        "url": "https://open.spotify.com/album/1rBxEeYmETSCoedEk5PpEb"
+      },
+      "artists": [
+        {
+          "name": "Emzorearner",
+          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
+        }
+      ],
+      "duration_ms": 165405,
+      "name": "No Pain",
+      "url": "https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "Broken Hearted Crook",
+        "url": "https://open.spotify.com/album/6wIT6xsXQj5gP2rGq4auPS"
       },
       "artists": [
         {
@@ -1460,9 +1524,9 @@
           "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
         }
       ],
-      "duration_ms": 156053,
-      "name": "Why you gotta lie?",
-      "url": "https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa"
+      "duration_ms": 167653,
+      "name": "Broken Hearted Crook",
+      "url": "https://open.spotify.com/track/5NZFqe9zArfB2WRxpGp4Vj"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -1487,38 +1551,6 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "High On Love",
-        "url": "https://open.spotify.com/album/00HcaQwzlsOUWzUJjWKoEo"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 181044,
-      "name": "High On Love",
-      "url": "https://open.spotify.com/track/6KxM8MGmfCJRVps6jCFvfs"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
-        "name": "No Pain",
-        "url": "https://open.spotify.com/album/1rBxEeYmETSCoedEk5PpEb"
-      },
-      "artists": [
-        {
-          "name": "Emzorearner",
-          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
-        }
-      ],
-      "duration_ms": 165405,
-      "name": "No Pain",
-      "url": "https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
         "name": "Love, Eternity & Faith",
         "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
       },
@@ -1535,6 +1567,22 @@
       "duration_ms": 160490,
       "name": "Venting",
       "url": "https://open.spotify.com/track/2a2kgyw5bskOcTEOpQQFQw"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "High On Love",
+        "url": "https://open.spotify.com/album/00HcaQwzlsOUWzUJjWKoEo"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 181044,
+      "name": "High On Love",
+      "url": "https://open.spotify.com/track/6KxM8MGmfCJRVps6jCFvfs"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -1559,38 +1607,6 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "Broken Hearted Crook",
-        "url": "https://open.spotify.com/album/6wIT6xsXQj5gP2rGq4auPS"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 167653,
-      "name": "Broken Hearted Crook",
-      "url": "https://open.spotify.com/track/5NZFqe9zArfB2WRxpGp4Vj"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
-        "name": "If I Die Young",
-        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 189781,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
         "name": "Love Don't Change",
         "url": "https://open.spotify.com/album/6orzD3w7CUbkxnKYRa0Pg5"
       },
@@ -1603,38 +1619,6 @@
       "duration_ms": 214883,
       "name": "Love Don't Change",
       "url": "https://open.spotify.com/track/0Zx3dXKiG5oBZj5mx12nus"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
-        "name": "No Love Left",
-        "url": "https://open.spotify.com/album/1lmZmtx0bWPkYLextZNZJC"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 171914,
-      "name": "No Love Left",
-      "url": "https://open.spotify.com/track/6gmthC4x8INHuZc1MnHj0A"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
-        "name": "Deeper Than Drill",
-        "url": "https://open.spotify.com/album/5I4QSaqKhNLjvyZ9AAPXuG"
-      },
-      "artists": [
-        {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Deeper Than Drill",
-      "url": "https://open.spotify.com/track/0aA0NgRHcV0mVKyTE5wjGq"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -1655,6 +1639,22 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
+        "name": "No Love Left",
+        "url": "https://open.spotify.com/album/1lmZmtx0bWPkYLextZNZJC"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 171914,
+      "name": "No Love Left",
+      "url": "https://open.spotify.com/track/6gmthC4x8INHuZc1MnHj0A"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
         "name": "The Talking Stage Game",
         "url": "https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc"
       },
@@ -1667,6 +1667,22 @@
       "duration_ms": 194148,
       "name": "The Talking Stage Game",
       "url": "https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "Deeper Than Drill",
+        "url": "https://open.spotify.com/album/5I4QSaqKhNLjvyZ9AAPXuG"
+      },
+      "artists": [
+        {
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Deeper Than Drill",
+      "url": "https://open.spotify.com/track/0aA0NgRHcV0mVKyTE5wjGq"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -1687,38 +1703,6 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "Love Letter",
-        "url": "https://open.spotify.com/album/6CRjn3UOO9i9zqGE0Kxwp3"
-      },
-      "artists": [
-        {
-          "name": "Noaah",
-          "url": "https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/2pjj71OIEpgLzr0V6cYkTp"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
-        "name": "Day and Night (Prodbyjak)",
-        "url": "https://open.spotify.com/album/5W31gIjDIhWeNBG7AT2Rap"
-      },
-      "artists": [
-        {
-          "name": "Otis Lloyid",
-          "url": "https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk"
-        }
-      ],
-      "duration_ms": 192052,
-      "name": "Day and Night (Prodbyjak)",
-      "url": "https://open.spotify.com/track/3Goa3sQx9cwGIk67iP1Mqf"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
         "name": "Berlin Luv",
         "url": "https://open.spotify.com/album/1PuPwsACjhsVMxEi2KkhYU"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 140146,
       "name": "Berlin Luv",
       "url": "https://open.spotify.com/track/42EWThzCZiinQFmHM4yv2s"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "Day and Night (Prodbyjak)",
+        "url": "https://open.spotify.com/album/5W31gIjDIhWeNBG7AT2Rap"
+      },
+      "artists": [
+        {
+          "name": "Otis Lloyid",
+          "url": "https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk"
+        }
+      ],
+      "duration_ms": 192052,
+      "name": "Day and Night (Prodbyjak)",
+      "url": "https://open.spotify.com/track/3Goa3sQx9cwGIk67iP1Mqf"
     },
     {
       "added_at": "2025-05-30 11:57:05",

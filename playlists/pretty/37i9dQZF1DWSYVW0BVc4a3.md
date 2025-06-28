@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > Interplanetary Criminal with the tune of the summer!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,773 likes - 480 songs - 1 day 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,001 likes - 480 songs - 1 day 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

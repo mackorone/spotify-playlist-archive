@@ -4,7 +4,7 @@
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-203 songs - 14 hr 5 min
+204 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Come Rain or Come Shine \(with John Mayer\)](https://open.spotify.com/track/0eqjKiAEZgLSbwTMqyZI1c) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Partners \(Deluxe\)](https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG) | 4:10 | 2022-05-02 |  |
 | [Come Rain or Come Shine \(with John Mayer\)](https://open.spotify.com/track/2d02A2eoTYHOnI162zeAKQ) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Partners](https://open.spotify.com/album/1IgRzhudBVPtta2jDVa1en) | 4:10 | 2022-08-10 | 2024-04-19 |
 | [Dance me Love](https://open.spotify.com/track/6HuDtUKtqmoEyHV9tdBt4g) | [Silje Nergaard](https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc), [Vince Mendoza](https://open.spotify.com/artist/4E9rsN1uXPIM0zc9CwVBSt), [Stavanger Symphony Orchestra](https://open.spotify.com/artist/6028AM0lpCOWtl8rCfm88l) | [Dance me Love](https://open.spotify.com/album/6mMuAmH1j9RPmq7tU4hBNP) | 6:50 | 2025-02-07 | 2025-02-14 |
-| [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 | 2019-05-26\* |  |
+| [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 | 2019-05-26\* | 2025-06-28 |
 | [Deep in a Dream](https://open.spotify.com/track/0QR4BgqJvmtqQH7OoTQWIJ) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [My Funny Valentine: The Chet Baker Songbook](https://open.spotify.com/album/3AMHrE4rMoeNdtjS6s7zIY) | 4:05 | 2019-05-27 |  |
 | [Deep in a Dream](https://open.spotify.com/track/16gccT3MmOuVrTPdBGJCBv) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [My Funny Valentine: The Chet Baker Songbook](https://open.spotify.com/album/2CtTsLssbJvp8iORyGOkwB) | 4:05 | 2022-10-11 | 2024-04-19 |
 | [Don't Take Your Love from Me](https://open.spotify.com/track/0yU5Oa00MqxV6GvVQ0CQu6) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Harlem on My Mind](https://open.spotify.com/album/4ke3olYfrnMtMkYORPzGO5) | 4:52 | 2019-05-26\* |  |
@@ -191,6 +191,7 @@
 | [There You Are \(Second Chance\)](https://open.spotify.com/track/4oFYpRn9QZbc7toso38diA) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [This Masquerade / There You Are](https://open.spotify.com/album/2NA3EgaSJy1FW1czeaDPzD) | 3:33 | 2020-02-16 | 2022-02-24 |
 | [THERE YOU ARE \(SECOND CHANCE\)](https://open.spotify.com/track/0Kws2a2GfsZlMKzdYm5aeC) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [LANGUAGE OF LOVE](https://open.spotify.com/album/1aZI6dE6paumZHjfgzwyjS) | 3:33 | 2020-03-11 |  |
 | [These Things You Are To Me](https://open.spotify.com/track/22rek75QknVrI85tEIUF7a) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [Jamison](https://open.spotify.com/album/6JQxB9qntPmPkJF3vD1fIz) | 4:23 | 2019-05-26\* | 2025-06-06 |
+| [Till There Was You](https://open.spotify.com/track/2BlGZP9Ovr6hju08EAl61C) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Till There Was You](https://open.spotify.com/album/1ktcqUmXkPDHw8jzRJElAR) | 3:53 | 2025-06-27 |  |
 | [Time Alone](https://open.spotify.com/track/7Jt9DpsKlKRcR3RI9qUl9w) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY) | 6:36 | 2019-05-26\* | 2024-07-20 |
 | [Time Alone](https://open.spotify.com/track/1hYd1uyB9HQpf4icjtBQoB) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr) | 6:40 | 2022-09-13 | 2024-01-19 |
 | [Too Marvelous For Words](https://open.spotify.com/track/4OMCEhWBZrNE3Gfa1pJxse) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Quiet Nights](https://open.spotify.com/album/1zTw5dv57Nd7qQNYO1qcmd) | 4:03 | 2022-05-02 | 2022-07-29 |

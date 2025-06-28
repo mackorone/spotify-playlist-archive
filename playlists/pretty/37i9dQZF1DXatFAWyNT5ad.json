@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 149196,
+  "num_followers": 149216,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
+        "name": "Takes One To Know One",
+        "url": "https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 167996,
+      "name": "Takes One To Know One",
+      "url": "https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
         "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
         "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 207280,
       "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
       "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
-        "name": "Takes One To Know One",
-        "url": "https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 167996,
-      "name": "Takes One To Know One",
-      "url": "https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "can we start over?",
-        "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 187596,
-      "name": "spite",
-      "url": "https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "Cobra (Rock Remix) [feat. Spiritbox]",
         "url": "https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 186521,
       "name": "Cobra (Rock Remix) [feat. Spiritbox]",
       "url": "https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "can we start over?",
+        "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 187596,
+      "name": "spite",
+      "url": "https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Cinderella Snapped",
-        "url": "https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n"
-      },
-      "artists": [
-        {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
-        }
-      ],
-      "duration_ms": 173103,
-      "name": "Cinderella Snapped",
-      "url": "https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "Stuck",
         "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 182746,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Cinderella Snapped",
+        "url": "https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        }
+      ],
+      "duration_ms": 173103,
+      "name": "Cinderella Snapped",
+      "url": "https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/1Yg1708otT3hsWtAprglw7"
-      },
-      "artists": [
-        {
-          "name": "Bohnes",
-          "url": "https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q"
-        }
-      ],
-      "duration_ms": 207177,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/2EwnRHPoqt7ofZYl9jgVLY"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "FUNERAL",
         "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 181923,
       "name": "FUNERAL",
       "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/1Yg1708otT3hsWtAprglw7"
+      },
+      "artists": [
+        {
+          "name": "Bohnes",
+          "url": "https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q"
+        }
+      ],
+      "duration_ms": 207177,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/2EwnRHPoqt7ofZYl9jgVLY"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 144074,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "ONE MORE TIME...",
         "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 138460,
       "name": "FELL IN LOVE",
       "url": "https://open.spotify.com/track/3wIaPhVmXG6lcIPfm7D0fm"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 144074,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1509,22 +1509,6 @@
       "url": "https://open.spotify.com/track/2ANcnQVK8L23fpyvwd021a"
     },
     {
-      "added_at": "2025-05-30 22:19:14",
-      "album": {
-        "name": "Say That You Love Me",
-        "url": "https://open.spotify.com/album/3ztwfW7VqliSFqMuaYSRmX"
-      },
-      "artists": [
-        {
-          "name": "Letdown.",
-          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
-        }
-      ],
-      "duration_ms": 142596,
-      "name": "Young Broke",
-      "url": "https://open.spotify.com/track/6FB3ZzshHONpaHeo97ZYyf"
-    },
-    {
       "added_at": "2025-02-14 18:48:51",
       "album": {
         "name": "Both Ways",
@@ -1539,6 +1523,22 @@
       "duration_ms": 186779,
       "name": "Both Ways",
       "url": "https://open.spotify.com/track/1iZhzsEoPfULMJFSOJcxYK"
+    },
+    {
+      "added_at": "2025-05-30 22:19:14",
+      "album": {
+        "name": "Say That You Love Me",
+        "url": "https://open.spotify.com/album/3ztwfW7VqliSFqMuaYSRmX"
+      },
+      "artists": [
+        {
+          "name": "Letdown.",
+          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
+        }
+      ],
+      "duration_ms": 142596,
+      "name": "Young Broke",
+      "url": "https://open.spotify.com/track/6FB3ZzshHONpaHeo97ZYyf"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Head in The Clouds",
-        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
-      },
-      "artists": [
-        {
-          "name": "Arrows in Action",
-          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
-        }
-      ],
-      "duration_ms": 175937,
-      "name": "Head in the Clouds",
-      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "DUMB",
         "url": "https://open.spotify.com/album/1MaFdxIKzqXy265q2Od2YD"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 205933,
       "name": "DUMB",
       "url": "https://open.spotify.com/track/2Yj6AZv4L4mwbq6ghLjIHm"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Head in The Clouds",
+        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
+      },
+      "artists": [
+        {
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
+        }
+      ],
+      "duration_ms": 175937,
+      "name": "Head in the Clouds",
+      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Cynical",
-        "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 134582,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "STRANGERS",
         "url": "https://open.spotify.com/album/5YiMAwQ6ecR1mDk4E9MNmF"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 223176,
       "name": "STRANGERS",
       "url": "https://open.spotify.com/track/2eeLM9CVHETMWIdDGtW39i"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 134582,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2003,18 +2003,22 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Forgiving Spree",
-        "url": "https://open.spotify.com/album/4K6yiQ5TlZyqXU4TTHqWgl"
+        "name": "Death Grip",
+        "url": "https://open.spotify.com/album/1J71Jvi9ZrCg1prlKhtMOI"
       },
       "artists": [
         {
-          "name": "Slowly Slowly",
-          "url": "https://open.spotify.com/artist/2NNeERUBxmB2UrLFfL1Q8e"
+          "name": "Andrew McMahon in the Wilderness",
+          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+        },
+        {
+          "name": "Something Corporate",
+          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
         }
       ],
-      "duration_ms": 195906,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/0nE5L0dfkTFRnBzkTOH4nD"
+      "duration_ms": 191292,
+      "name": "Death Grip",
+      "url": "https://open.spotify.com/track/6uU6HSA2QLqNy6OIyaCbkb"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2031,6 +2035,22 @@
       "duration_ms": 203667,
       "name": "Big City Thing",
       "url": "https://open.spotify.com/track/3OOAv73AZwwCnAW7VGHbZd"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Forgiving Spree",
+        "url": "https://open.spotify.com/album/4K6yiQ5TlZyqXU4TTHqWgl"
+      },
+      "artists": [
+        {
+          "name": "Slowly Slowly",
+          "url": "https://open.spotify.com/artist/2NNeERUBxmB2UrLFfL1Q8e"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/0nE5L0dfkTFRnBzkTOH4nD"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2055,26 +2075,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Death Grip",
-        "url": "https://open.spotify.com/album/1J71Jvi9ZrCg1prlKhtMOI"
-      },
-      "artists": [
-        {
-          "name": "Andrew McMahon in the Wilderness",
-          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
-        },
-        {
-          "name": "Something Corporate",
-          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
-        }
-      ],
-      "duration_ms": 191292,
-      "name": "Death Grip",
-      "url": "https://open.spotify.com/track/6uU6HSA2QLqNy6OIyaCbkb"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "WHEN THE MUSIC STOPS",
         "url": "https://open.spotify.com/album/2PFcE83bDCmLKylmIRB90J"
       },
@@ -2087,22 +2087,6 @@
       "duration_ms": 193250,
       "name": "WHEN THE MUSIC STOPS",
       "url": "https://open.spotify.com/track/49T4ZaBd8G932neUPU9AWB"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
-        "name": "WDYK",
-        "url": "https://open.spotify.com/album/4noogkQJAT1Y8RMs5KFJ37"
-      },
-      "artists": [
-        {
-          "name": "Jordan Harvey",
-          "url": "https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW"
-        }
-      ],
-      "duration_ms": 191440,
-      "name": "WDYK",
-      "url": "https://open.spotify.com/track/4YyCXnv5MWo9XNUQmuvAbb"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2139,18 +2123,34 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "MESS",
-        "url": "https://open.spotify.com/album/07qQ4rz57acImkDO3GZ5BA"
+        "name": "WDYK",
+        "url": "https://open.spotify.com/album/4noogkQJAT1Y8RMs5KFJ37"
       },
       "artists": [
         {
-          "name": "Nightly",
-          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+          "name": "Jordan Harvey",
+          "url": "https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW"
         }
       ],
-      "duration_ms": 150530,
-      "name": "MESS",
-      "url": "https://open.spotify.com/track/4pL5Mw5esC7qlR4gcZkXzX"
+      "duration_ms": 191440,
+      "name": "WDYK",
+      "url": "https://open.spotify.com/track/4YyCXnv5MWo9XNUQmuvAbb"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Red Lights / Ireland",
+        "url": "https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR"
+      },
+      "artists": [
+        {
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2175,18 +2175,18 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Red Lights / Ireland",
-        "url": "https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR"
+        "name": "MESS",
+        "url": "https://open.spotify.com/album/07qQ4rz57acImkDO3GZ5BA"
       },
       "artists": [
         {
-          "name": "Picture This",
-          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Red Lights",
-      "url": "https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl"
+      "duration_ms": 150530,
+      "name": "MESS",
+      "url": "https://open.spotify.com/track/4pL5Mw5esC7qlR4gcZkXzX"
     },
     {
       "added_at": "2025-02-14 18:48:51",

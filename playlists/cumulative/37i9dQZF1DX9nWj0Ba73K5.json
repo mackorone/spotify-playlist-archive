@@ -2689,6 +2689,24 @@
     },
     {
       "album": {
+        "name": "Man or the Song",
+        "url": "https://open.spotify.com/album/6iWEpoVDABRdVmyMrjySfT"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169949,
+      "name": "Man or the Song",
+      "url": "https://open.spotify.com/track/1RVqZGMIByPikzt72b5lrj"
+    },
+    {
+      "album": {
         "name": "Primrose",
         "url": "https://open.spotify.com/album/651HDTxsDlfqeeK7oHWXum"
       },

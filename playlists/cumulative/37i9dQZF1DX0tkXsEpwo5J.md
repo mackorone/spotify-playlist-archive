@@ -1,17 +1,17 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0tkXsEpwo5J.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0tkXsEpwo5J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0tkXsEpwo5J)
 
-### [De Buenas](https://open.spotify.com/playlist/37i9dQZF1DX0tkXsEpwo5J)
+### [al cien](https://open.spotify.com/playlist/37i9dQZF1DX0tkXsEpwo5J)
 
-> ¡Canciones para sonreír durante el día!
+> canciones para andar bien al cien 🙂‍↕️
 
-231 songs - 13 hr 0 min
+234 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A 150](https://open.spotify.com/track/4uK3NcTfDQzePn8ixG6w8V) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [¿por qué corres? ya estamos ahí](https://open.spotify.com/album/73ab54wJUkMBlbJNJVDyiE) | 3:03 | 2025-05-09 |  |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-08-02 |  |
 | [Agradecer](https://open.spotify.com/track/67za0SMGWgdmDmjJc23Lr6) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Reciente](https://open.spotify.com/album/7LopfkbXZGR9wt2ciYgFiz) | 3:31 | 2021-11-26 | 2022-08-03 |
-| [Al Norte](https://open.spotify.com/track/0zN8BlouBz3oDwj5AtkXFA) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/0R07UR8xJxMDwx6PCvp4XT) | 3:19 | 2021-11-26 |  |
+| [Al Norte](https://open.spotify.com/track/0zN8BlouBz3oDwj5AtkXFA) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/0R07UR8xJxMDwx6PCvp4XT) | 3:19 | 2021-11-26 | 2025-06-28 |
 | [Al Norte](https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:19 | 2021-11-26 | 2024-03-23 |
 | [Alegria](https://open.spotify.com/track/4mNU7ddD6fRyjMRBOOfj28) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [The Original Recordings](https://open.spotify.com/album/2Yc5i2E3EU89eIX8QshY2W) | 4:03 | 2024-03-22 | 2024-07-05 |
 | [Algo Es Mejor](https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Algo Es Mejor](https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r) | 4:01 | 2021-11-26 |  |
@@ -39,7 +39,7 @@
 | [Color my life](https://open.spotify.com/track/7BejoLVTKcqTpVyrEedplW) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Invisible People](https://open.spotify.com/album/0LQ5gWM3pvpS2iUhppk57p) | 3:28 | 2024-03-22 | 2024-07-05 |
 | [Coloréame](https://open.spotify.com/track/3rl6vRtagKVNslYhrv7mJq) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Naona](https://open.spotify.com/album/2AnXB8xGLsYu3m0Wk1frHd) | 3:11 | 2021-11-26 | 2022-08-03 |
 | [Coloréame](https://open.spotify.com/track/1KzrAfacBCJDESlNO0QV8r) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Naona](https://open.spotify.com/album/0GVmPDtsGwp9YEg5DTLmb9) | 3:12 | 2021-11-26 | 2022-07-29 |
-| [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 | 2022-08-02 |  |
+| [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 | 2022-08-02 | 2025-06-28 |
 | [Como Queremos](https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Miel de Azar](https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma) | 3:12 | 2024-07-05 |  |
 | [Como Un Pájaro](https://open.spotify.com/track/0F1OOqdNXZctaw0y4QVWJB) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Como Un Pájaro](https://open.spotify.com/album/2RpAWWOjVelOhj1VW39FSL) | 3:28 | 2025-06-13 |  |
 | [CONFÍO](https://open.spotify.com/track/0btSWxXyFQR17cQ9zTiXTb) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [CONFÍO](https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp) | 2:59 | 2024-11-29 | 2025-04-12 |
@@ -97,9 +97,11 @@
 | [La Que Me Gusta](https://open.spotify.com/track/1TdaQqgKRbiFdO15q1kv6e) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Repeat After Me](https://open.spotify.com/album/0ak3Koxz3InlEVLwCnMC6E) | 3:59 | 2021-11-26 | 2025-05-24 |
 | [Las Caguas](https://open.spotify.com/track/0BqJWXJMD6dioOjkOx6XYy) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [Tiempo Compartido](https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a) | 3:30 | 2024-03-22 | 2024-07-05 |
 | [Lejos de la Ciudad \- con Camilo](https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Lejos de la Ciudad \(con Camilo\)](https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu) | 3:07 | 2024-12-06 |  |
+| [Lento](https://open.spotify.com/track/6H7tS5QBrDzU1H79g10J1y) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Música Para Abrir El Cielo](https://open.spotify.com/album/373sjPmbcfb0MBTscza6S2) | 3:32 | 2025-06-27 |  |
 | [lento](https://open.spotify.com/track/0YvDSab87x0r3nTExxhztv) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [lento](https://open.spotify.com/album/1Jb2Q2QQVjqUAMq7mbRkLU) | 3:16 | 2023-09-01 | 2024-03-23 |
 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/album/04m06KhJUuwe1Q487puIud) | 3:23 | 2021-11-26 | 2022-08-03 |
-| [Life Goes On](https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:41 | 2021-11-26 |  |
+| [Life Goes On](https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:41 | 2021-11-26 | 2025-06-28 |
+| [Lila Alelí](https://open.spotify.com/track/1pv8kjnd68qQt0dM22reqP) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Lila Alelí](https://open.spotify.com/album/2if5JlMd0QhkF93PKGashv) | 3:25 | 2025-06-27 |  |
 | [Llueve sobre mojado](https://open.spotify.com/track/3z4XtoZVf8AOoR18Lnp7e1) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Llueve sobre mojado](https://open.spotify.com/album/16KVHgtlAeiAiav4Yko9KB) | 3:48 | 2021-11-26 | 2022-08-03 |
 | [Lo Calore](https://open.spotify.com/track/32D2o3kZvXFO5M1KcPSNhi) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Pequeña TANDA](https://open.spotify.com/album/09LCtK37hO7jgJKZujJnx6) | 3:56 | 2021-11-26 | 2022-08-03 |
 | [Lo Calore](https://open.spotify.com/track/4MNEidJajMDoyP8EXwnF7j) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Lo Calore](https://open.spotify.com/album/2kbryqpDcmiro6AORkdNYC) | 3:56 | 2021-11-26 | 2022-07-29 |
@@ -114,6 +116,7 @@
 | [Magic](https://open.spotify.com/track/4XsrQYCU60mBHzjFVImgFf) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/46vqvAYDetWqC04lXDzTmc) | 6:48 | 2021-11-26 | 2024-12-07 |
 | [Mamita \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/39Yi5kzFTB5AsTy0I81aB9) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [RawayanaLand](https://open.spotify.com/album/1Kj9PBn932t5zoNc9E1W4p) | 4:27 | 2021-11-26 | 2022-07-29 |
 | [Mamita \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/4YU0xHroexMt4ohhPVbKla) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [RawayanaLand](https://open.spotify.com/album/3Qxc69fEzxQpVni3yfu5UD) | 4:27 | 2021-11-26 | 2022-08-03 |
+| [MARIWANO FUNCIONAL](https://open.spotify.com/track/6YC4ynVtSTtejo5S5YUO6F) | [Ricardo Pérez](https://open.spotify.com/artist/3Qax4sJ7V7GoZMfFDqbuM2) | [MARIWANO FUNCIONAL](https://open.spotify.com/album/2Ee59hmW9SM5c17rnoeeEo) | 2:12 | 2025-06-27 |  |
 | [Marta tiene un marcapasos](https://open.spotify.com/track/1XvfncS1t4BNkh37klHeqj) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 2:12 | 2022-08-02 | 2024-11-30 |
 | [Me Gusta](https://open.spotify.com/track/2fWlmo3GOulbPaCJepnHl4) | [Sol Pereyra](https://open.spotify.com/artist/6nmZ0P2weepXhXvox51G1A) | [Me Gusta](https://open.spotify.com/album/1xY6dsas8IcOLC2VF9p9Wq) | 3:12 | 2021-11-26 | 2022-08-03 |
 | [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 | 2021-11-26 |  |

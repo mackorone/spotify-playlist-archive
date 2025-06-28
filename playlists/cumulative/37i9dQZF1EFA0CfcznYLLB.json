@@ -226,7 +226,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 195426,
       "name": "A Milli Billi Trilli",
       "url": "https://open.spotify.com/track/7s8NiGsmHTT7K9CLIKvkSW"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 133903,
       "name": "And I Gangbang",
       "url": "https://open.spotify.com/track/5VIcIdLfWpNZKjlUGcC17y"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 242123,
       "name": "Blame My Friends (The Gang)",
       "url": "https://open.spotify.com/track/0v4yQTNMOmDCoQbmZViF5L"
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 198429,
       "name": "Blowing The Speakers",
       "url": "https://open.spotify.com/track/794HAqmMJaLZAFWiNhXhaL"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 183456,
       "name": "Bricks (feat. Giggs)",
       "url": "https://open.spotify.com/track/6LwYXkYclfcQvNGndZJZHQ"
@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 299626,
       "name": "Come up (feat. Jon Boi & Winnin Team Re Up)",
       "url": "https://open.spotify.com/track/16nMSyWXJBRd06OZLg5pQq"
@@ -1876,7 +1876,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 168210,
       "name": "Disciples",
       "url": "https://open.spotify.com/track/4uhHPuMHYujbT55nPXSaLc"
@@ -2316,7 +2316,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 310590,
       "name": "Feel It - Junior Senna Remix",
       "url": "https://open.spotify.com/track/4DBPdcyl2BEVE26D4c4D7o"
@@ -2378,10 +2378,36 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 128780,
       "name": "Fendi",
       "url": "https://open.spotify.com/track/6Y6J8CNHtOuklPhVnvmnm1"
+    },
+    {
+      "album": {
+        "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
+        "url": "https://open.spotify.com/album/00M4ecLNv6pzPmr5lheMPr"
+      },
+      "artists": [
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180609,
+      "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
+      "url": "https://open.spotify.com/track/7H1591r6SfmZZh6BUE7Gue"
     },
     {
       "album": {
@@ -2444,7 +2470,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 220984,
       "name": "Flippin'",
       "url": "https://open.spotify.com/track/4ryzLQFPLxLTmJFxj4TOpo"
@@ -2462,7 +2488,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 192000,
       "name": "For Real",
       "url": "https://open.spotify.com/track/5cDW8x7AtLduR2VgsutTdm"
@@ -2613,6 +2639,28 @@
     },
     {
       "album": {
+        "name": "Light Of Day",
+        "url": "https://open.spotify.com/album/5jp7IiLD8lRVVmf8gfeHOV"
+      },
+      "artists": [
+        {
+          "name": "Preme",
+          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250653,
+      "name": "Frostbite",
+      "url": "https://open.spotify.com/track/3XmKQDhplvk0wtPMuHOTHL"
+    },
+    {
+      "album": {
         "name": "Frostbite (Remix) (feat. Offset & Rich The Kid)",
         "url": "https://open.spotify.com/album/5AgomlVwT0NpH15NP1A4EO"
       },
@@ -2632,7 +2680,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 253866,
       "name": "Frostbite (Remix) (feat. Offset & Rich The Kid)",
       "url": "https://open.spotify.com/track/2ZLSnT49tvHVEhrhsrw483"
@@ -2690,7 +2738,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 244760,
       "name": "GANG GANG",
       "url": "https://open.spotify.com/track/6uJONCdr2rC65BNmCnTBWK"
@@ -2716,6 +2764,24 @@
       "duration_ms": 250581,
       "name": "GANG GANG",
       "url": "https://open.spotify.com/track/1AauIxlmueXbhqhbmzSxTy"
+    },
+    {
+      "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181318,
+      "name": "Gang Gang",
+      "url": "https://open.spotify.com/track/6RKkHI2fkmgZq7uQPPav8f"
     },
     {
       "album": {
@@ -2760,7 +2826,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 183854,
       "name": "Get Mine (feat. Snoop Dogg)",
       "url": "https://open.spotify.com/track/03ELrHI2mfPwyi4ctQtvCx"
@@ -3170,7 +3236,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 282749,
       "name": "Hate It Or Love It",
       "url": "https://open.spotify.com/track/23HW7md2zN56ho9MaRgtN2"
@@ -3250,7 +3316,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 230359,
       "name": "Help Me Breathe (feat. Future)",
       "url": "https://open.spotify.com/track/0K02VM2o0gbtgh6PHtgmUH"
@@ -3275,6 +3341,24 @@
     },
     {
       "album": {
+        "name": "HOLLYWOOD",
+        "url": "https://open.spotify.com/album/5NOk5HClnVQvho2fB1p3eN"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213311,
+      "name": "HOLLYWOOD",
+      "url": "https://open.spotify.com/track/1gVrmubxd0344yczu7EXjQ"
+    },
+    {
+      "album": {
         "name": "Garrafas e Bocas (A Saideira)",
         "url": "https://open.spotify.com/album/1OkHrSmhDHn8q4y6P4JYb6"
       },
@@ -3286,7 +3370,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 187711,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/4GsIfzjwGJbC5uWKwIdsHN"
@@ -3750,7 +3834,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 142226,
       "name": "Intro (Prod. Murda Beatz)",
       "url": "https://open.spotify.com/track/4fR3tkiBMdYSoNAKMTQIvi"
@@ -3768,7 +3852,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 277714,
       "name": "island",
       "url": "https://open.spotify.com/track/1pOqZgIAfN0kgiJKJKNeHJ"
@@ -3876,7 +3960,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 228904,
       "name": "JET (feat. G-k.i.d, Yellow Pato & Tiji Jojo)",
       "url": "https://open.spotify.com/track/2AuzwnFFJcK1FG7yULZqvV"
@@ -4088,7 +4172,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 212222,
       "name": "Like That",
       "url": "https://open.spotify.com/track/0ABKToGGd9V58REvHDTX88"
@@ -4326,10 +4410,36 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 206550,
       "name": "MALA (feat. Anuel AA)",
       "url": "https://open.spotify.com/track/5tYCl2bT9bDjMuTyn6OVb0"
+    },
+    {
+      "album": {
+        "name": "DUMMY BOY (Revised)",
+        "url": "https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192405,
+      "name": "MAMA (feat. Nicki Minaj & Kanye West)",
+      "url": "https://open.spotify.com/track/5SOYmkRawOJrpufdWsAfo8"
     },
     {
       "album": {
@@ -4344,7 +4454,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 263437,
       "name": "Married to Ben Franklin",
       "url": "https://open.spotify.com/track/24yigWZXf5VCUbNxgY4xJ9"
@@ -4388,7 +4498,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 169426,
       "name": "Mcflurry",
       "url": "https://open.spotify.com/track/3bhjEC1QPo1ffC6zazmY98"
@@ -4946,7 +5056,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 288600,
       "name": "Neva Change - Sam Tiba Remix",
       "url": "https://open.spotify.com/track/1Luj0t21zSWwjRPKMuWp25"
@@ -5596,7 +5706,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 210128,
       "name": "On Em",
       "url": "https://open.spotify.com/track/3AEymnHQj2xn4sROfEvDB6"
@@ -5632,7 +5742,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 207360,
       "name": "On God",
       "url": "https://open.spotify.com/track/1rmWQqmKWRtm9bks6Lr0Sp"
@@ -5734,7 +5844,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 198426,
       "name": "Ova Here",
       "url": "https://open.spotify.com/track/5OiO8JbawNT0Aztc1rB3lN"
@@ -5804,7 +5914,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 160013,
       "name": "Pastor (Quavo, City Girls feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4awve4McsKOqVuOpAbg6BF"
@@ -5840,7 +5950,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 175657,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/6xISF2zBnsQ8SGWT4KmWsC"
@@ -6332,7 +6442,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 210972,
       "name": "Road Trip",
       "url": "https://open.spotify.com/track/1rgQcTT1rHoxnX39im3E5z"
@@ -6522,7 +6632,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 287173,
       "name": "Shake Sum",
       "url": "https://open.spotify.com/track/6Vr31KGNweHkfbqKpiAycA"
@@ -6709,6 +6819,46 @@
     },
     {
       "album": {
+        "name": "GTTM: Goin Thru the Motions",
+        "url": "https://open.spotify.com/album/7eFfp9r4A30ueN9A5EJbk2"
+      },
+      "artists": [
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207353,
+      "name": "Stand Back",
+      "url": "https://open.spotify.com/track/2GN8cwTiUEUBxc03fsA0C0"
+    },
+    {
+      "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/7BLFYoqfUvAudtlVq882nN"
+      },
+      "artists": [
+        {
+          "name": "Jessica Piln\u00e4s",
+          "url": "https://open.spotify.com/artist/3JejDgpeIfaq5wi5jZWYuf"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246640,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6otCmruLPVXztgo0G214fQ"
+    },
+    {
+      "album": {
         "name": "MANN IM HAUS",
         "url": "https://open.spotify.com/album/39cLzKdoghJ200CzrrZRUh"
       },
@@ -6724,7 +6874,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 120407,
       "name": "STAY",
       "url": "https://open.spotify.com/track/2oUDKHh167OCCMM2gsuriP"
@@ -7070,7 +7220,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 192800,
       "name": "Ten Four",
       "url": "https://open.spotify.com/track/7GrCK1xxW9l2eWwsMe7EZi"
@@ -7404,10 +7554,36 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 145292,
       "name": "Too Many",
       "url": "https://open.spotify.com/track/0CR60XwKbzgohE3I6NMjlR"
+    },
+    {
+      "album": {
+        "name": "Rubba Band Business",
+        "url": "https://open.spotify.com/album/6Jcm9JP8Bq9sOXtOc0iIXS"
+      },
+      "artists": [
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176093,
+      "name": "Too Many (feat. Wiz Khalifa & Denzel Curry)",
+      "url": "https://open.spotify.com/track/6AvsW8hTIaRdjHZV4fTvrv"
     },
     {
       "album": {
@@ -7430,7 +7606,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 172623,
       "name": "Touchdown (feat. Peezy & Murda Beatz)",
       "url": "https://open.spotify.com/track/6EEh3VBH5a6ptEeTz1OYHv"
@@ -7604,7 +7780,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 207339,
       "name": "untitled",
       "url": "https://open.spotify.com/track/0jGrk16kW6xHgjKtUAtbqZ"
@@ -7622,7 +7798,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 192935,
       "name": "VACATION",
       "url": "https://open.spotify.com/track/6q2uIyLqASSpv2SIv2ehWK"
@@ -7830,7 +8006,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 271907,
       "name": "Whip-It",
       "url": "https://open.spotify.com/track/3gIk2QR7SdWfOcrNBItrYA"
@@ -7892,7 +8068,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 250000,
       "name": "Without You",
       "url": "https://open.spotify.com/track/4Hc9y3jxWiuE3OdyGVr03L"
@@ -8103,6 +8279,28 @@
     },
     {
       "album": {
+        "name": "Good For You",
+        "url": "https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/4Hj5yNHgu2dyrnzRQN7Gld"
+    },
+    {
+      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
       },
@@ -8118,7 +8316,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 216409,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3cD2ynsSFxzAaDSYoH0nC1"
@@ -8194,7 +8392,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 215592,
       "name": "Your Song - Cheat Codes Remix",
       "url": "https://open.spotify.com/track/2h578j1vqX32f3yBdMoZAI"

@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 650229,
+  "num_followers": 650333,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFs8AAAAAADRtWpiu7P8KDhF7qCQaWWR",
+  "snapshot_id": "aFyNgAAAAAA07sq6qspOMrPSzC17Rn0V",
   "tracks": [
     {
       "added_at": null,
@@ -747,18 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gray/Grey",
-        "url": "https://open.spotify.com/album/3uOjCKXJFyF5hbWz7mGYrr"
+        "name": "SHAMELESS $UICIDE",
+        "url": "https://open.spotify.com/album/2Ogn4iWeeSPzxJJNW1HC6M"
       },
       "artists": [
         {
           "name": "$uicideboy$",
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Shakewell",
+          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
         }
       ],
-      "duration_ms": 153808,
-      "name": "Clouds as Witnesses",
-      "url": "https://open.spotify.com/track/7s7q9dpsSCMEnDR3WhExZy"
+      "duration_ms": 166420,
+      "name": "Six Lines, Two Dragons, and a Messiah",
+      "url": "https://open.spotify.com/track/4Xid2bPvFoMcwp6NeUT2Ap"
     },
     {
       "added_at": null,
@@ -783,22 +787,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHAMELESS $UICIDE",
-        "url": "https://open.spotify.com/album/2Ogn4iWeeSPzxJJNW1HC6M"
+        "name": "Gray/Grey",
+        "url": "https://open.spotify.com/album/3uOjCKXJFyF5hbWz7mGYrr"
       },
       "artists": [
         {
           "name": "$uicideboy$",
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Shakewell",
-          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
         }
       ],
-      "duration_ms": 166420,
-      "name": "Six Lines, Two Dragons, and a Messiah",
-      "url": "https://open.spotify.com/track/4Xid2bPvFoMcwp6NeUT2Ap"
+      "duration_ms": 153808,
+      "name": "Clouds as Witnesses",
+      "url": "https://open.spotify.com/track/7s7q9dpsSCMEnDR3WhExZy"
     },
     {
       "added_at": null,

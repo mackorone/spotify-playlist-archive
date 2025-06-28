@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Seltsam
 
-778 songs - 1 day 12 hr 5 min
+779 songs - 1 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -669,6 +669,7 @@
 | [Storia Stupida](https://open.spotify.com/track/14cHW9AA2QhKt9lBtNi2aZ) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC), [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU), [Ardia](https://open.spotify.com/artist/71H4k0XU2SGct9RvpvmxHS) | [Storia Stupida](https://open.spotify.com/album/1UVVFhQwRZpfG0HzSns7Ur) | 3:04 | 2023-04-27 | 2023-05-19 |
 | [Storia Vera](https://open.spotify.com/track/1VGKDJGPWTOUXva1yYA8Q5) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Ora d'Aria](https://open.spotify.com/album/71bMJD39w64yvQXuYIfzgt) | 2:44 | 2025-06-05 | 2025-06-27 |
 | [Storie](https://open.spotify.com/track/5TscVUsNQOV4TCOKbht9zu) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [wax](https://open.spotify.com/album/6K5XgWDGcyt0GlCDiS5zDs) | 2:33 | 2023-05-25 | 2023-07-07 |
+| [Stories d'amore](https://open.spotify.com/track/3pFBuDWXeYQadSfpYQs86t) | [Jesto](https://open.spotify.com/artist/3zkAFoqRMvc1ZWjW65XOO8) | [Buongiorno Italia](https://open.spotify.com/album/4hOOOiGeJcCEoY98DwAQpa) | 3:30 | 2025-06-27 |  |
 | [Strappami](https://open.spotify.com/track/2hwhhzr8w5BDJVYYLWINTV) | [FirkLøver](https://open.spotify.com/artist/4565nNjbVvjOjpZjtJnH3R) | [Strappami](https://open.spotify.com/album/1g68iPAK1qMQaC0uRHj98w) | 2:29 | 2023-10-19 | 2023-11-10 |
 | [Stupida Libertà](https://open.spotify.com/track/08yqlwXJL84xS3q6iY1S8Y) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Stupida Libertà](https://open.spotify.com/album/7yEiN9dB700F55cpt1shTh) | 3:12 | 2023-11-23 | 2024-02-23 |
 | [Stupido](https://open.spotify.com/track/0wgWQNOvlCKIj6YMBtjgcd) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Stupido](https://open.spotify.com/album/60bOfsjjwd0Pou97omCFhl) | 3:17 | 2023-03-23 | 2023-05-26 |

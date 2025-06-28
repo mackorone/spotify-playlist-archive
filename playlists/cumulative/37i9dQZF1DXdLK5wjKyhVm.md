@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdLK5wjKyhVm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdLK5wjKyhVm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdLK5wjKyhVm)
 
-### [Chillhop](https://open.spotify.com/playlist/37i9dQZF1DXdLK5wjKyhVm)
+### [chillhop](https://open.spotify.com/playlist/37i9dQZF1DXdLK5wjKyhVm)
 
-> Blissed out beats and head nodding grooves \- Relax, study and vibe.
+> blissed out beats and head nodding grooves \- relax, study and vibe.
 
 491 songs - 18 hr 52 min
 

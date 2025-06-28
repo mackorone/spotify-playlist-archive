@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: KATSEYE
 
-1,497 songs - 3 day 7 hr 41 min
+1,499 songs - 3 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Dilly Dally](https://open.spotify.com/track/624rJzJltnse63XfM1XlXn) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Dilly Dally](https://open.spotify.com/album/1o38Gxn9kFZJ44FND2V5O1) | 3:31 | 2023-12-05 | 2023-12-07 |
 | [DIM](https://open.spotify.com/track/7vC62GHKlmmR4JiewhYcre) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [DIM ∞](https://open.spotify.com/album/7FnEL1BCbrNeAwbBABcSl0) | 3:21 | 2025-04-03 | 2025-04-25 |
 | [Dirty Dancing \(feat\. Joshua, DK & Dino of SEVENTEEN\) \- Dem Jointz Remix](https://open.spotify.com/track/6KfYVOicblNB8CaDZwbxiT) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6), [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Dirty Dancing \(Dem Jointz Remix\)](https://open.spotify.com/album/4MHZnwMTrnhgoSJKe1KSqP) | 3:36 | 2023-08-31 | 2023-10-28 |
+| [Dirty Work \(feat\. Flo Milli\)](https://open.spotify.com/track/3KcHHPN23AwgnSkq7TouwW) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Dirty Work](https://open.spotify.com/album/1aFHAf8YwiYUAqzeU4PsdE) | 3:00 | 2025-06-26 |  |
 | [Discord \(Japanese Ver.\)](https://open.spotify.com/track/6YQ6VHhyDUXcvNFmCTRrcF) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [Discord \(Japanese Ver.\)](https://open.spotify.com/album/5FOQ5cbUbJZ4U2Qn5o0yZG) | 2:47 | 2025-05-15 | 2025-06-10 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-20 | 2023-09-06 |
 | [DIVE](https://open.spotify.com/track/5vK3WrTOp6rEoASx1jAsp1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [DIVE](https://open.spotify.com/album/0riep5s1F9ynpobjOSzbcr) | 3:01 | 2024-07-09 | 2024-10-11 |
@@ -852,6 +853,7 @@
 | [NEW STAR](https://open.spotify.com/track/3DLmZAoUDu4SOo6YrUHrCj) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [NEW STAR](https://open.spotify.com/album/4VjojyAZQbfONf7bI1yBaw) | 3:29 | 2023-11-28 | 2023-11-30 |
 | [NEW STAR](https://open.spotify.com/track/4fGkb1BWnzrppNuGUeUSaZ) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [NEW STAR](https://open.spotify.com/album/4ohVAtGzJTQCIKJTMzGLAb) | 3:29 | 2023-11-28 | 2024-01-10 |
 | [New Tomorrow](https://open.spotify.com/track/2ayD6EPasDViEQa4bwat0c) | [FANTASY BOYS](https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU) | [NEW TOMORROW](https://open.spotify.com/album/3H3lbA7Dn1BVIflkUqfYUU) | 3:50 | 2023-09-21 | 2023-10-13 |
+| [Newsflash](https://open.spotify.com/track/7HOisdBfRdZ0Om2bwu6XE2) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Newsflash](https://open.spotify.com/album/6B4H4SQthLONDemjMccrv6) | 2:57 | 2025-06-26 |  |
 | [Nice Guy](https://open.spotify.com/track/6pqyZNnLKyJKtrlf42FQoq) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [19.99](https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF) | 2:44 | 2024-09-10 | 2024-12-20 |
 | [NIGHT](https://open.spotify.com/track/4TjypNhCmZhTTBBkD39RiZ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NIGHT](https://open.spotify.com/album/0Wrd4UJLcfFemsSz4PVOaP) | 2:54 | 2024-10-08 | 2024-11-20 |
 | [Night before the end](https://open.spotify.com/track/39TvS8OLjrdKAQEkFAn2pc) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [LIVE and FALL](https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd) | 3:25 | 2024-10-15 | 2024-12-25 |

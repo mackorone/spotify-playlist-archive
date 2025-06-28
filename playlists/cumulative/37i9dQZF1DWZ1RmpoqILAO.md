@@ -4,7 +4,7 @@
 
 > clocking in for elderberry wine summer 🍇
 
-296 songs - 18 hr 58 min
+298 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Fourth Street](https://open.spotify.com/track/7cTXYDY95vfhwUXQuPgPTB) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Fourth Street](https://open.spotify.com/album/79vV88LYJy0OLT3n5RIYAl) | 4:12 | 2025-01-31 |  |
 | [Frontrunner](https://open.spotify.com/track/7fyPSF1N4qfBVx06dlBOqN) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Frontrunner](https://open.spotify.com/album/1scoRqZ90t7FTPSh4I7bCC) | 2:52 | 2025-02-14 |  |
 | [Fruits Of My Labor](https://open.spotify.com/track/31nItlXwgCCFpttS50Rbxf) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [World Without Tears](https://open.spotify.com/album/7uLuuklEzDu7xZ8QazIfzu) | 4:48 | 2023-09-22 | 2024-01-13 |
+| [Gallic Shrug](https://open.spotify.com/track/0o8PMOQVCS4QTGHXlgF2zu) | [Greg Freeman](https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ) | [Gallic Shrug](https://open.spotify.com/album/22sXxVWML2bXvQik1Mz6ci) | 4:50 | 2025-06-27 |  |
 | [garbage truck](https://open.spotify.com/track/4DQnPtChUxquO83Fjn6D3S) | [hemlock](https://open.spotify.com/artist/2urQCjxehNpSQWZW83h1L2) | [talk soon](https://open.spotify.com/album/356rRbXibYCUg2gkyRZIZF) | 2:11 | 2023-12-08 | 2024-03-09 |
 | [Gateleg](https://open.spotify.com/track/6uePw5sQerL7xUV3QlICaD) | [Fust](https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv) | [Big Ugly](https://open.spotify.com/album/6jNbLon7QmLGibekT6RFOa) | 4:54 | 2025-03-07 |  |
 | [Germs](https://open.spotify.com/track/37xUeodJvuKZl19BaUboHo) | [Acetone](https://open.spotify.com/artist/7DnDHNnkHER4ompBXz1ibL) | [Acetone](https://open.spotify.com/album/7reRvUl6TnOYkfgKO5kDP9) | 4:44 | 2023-06-16 |  |
@@ -123,7 +124,7 @@
 | [gold ring \(flounder bonus track\)](https://open.spotify.com/track/6FIq8R2juA9GvlNE5SjwsU) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [flounder \(deluxe\)](https://open.spotify.com/album/7jGLYHzIlEVCTNbhu1jYlM) | 3:03 | 2023-07-28 |  |
 | [Golden](https://open.spotify.com/track/3BlaXTdNPVK7vY5ZZ77a8P) | [Howdy](https://open.spotify.com/artist/2y1A93fUkRi2xSbKMwhyzs) | [Golden](https://open.spotify.com/album/0OPrSPN3QowybcknHv7dgq) | 3:56 | 2025-01-24 | 2025-02-26 |
 | [Golden Days](https://open.spotify.com/track/7midhUSAQfwD3aFwQrLZYc) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 4:02 | 2023-06-12 |  |
-| [Golden Spoon](https://open.spotify.com/track/5TtUQ2fh1JzntGcB3mA54l) | [Bats](https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO) | [Blue Cabinet](https://open.spotify.com/album/4qW90vfNhN8R9H1OUhFLfD) | 4:04 | 2023-02-23 | 2024-05-04 |
+| [Golden Spoon](https://open.spotify.com/track/5TtUQ2fh1JzntGcB3mA54l) | [Bats](https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO) | [Blue Cabinet](https://open.spotify.com/album/4qW90vfNhN8R9H1OUhFLfD) | 4:04 | 2023-02-23 |  |
 | [Good Ol Days](https://open.spotify.com/track/2eXfiLRUIMoxykbZICeOyc) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR) | 4:54 | 2023-12-08 | 2024-03-30 |
 | [Good Ol Days](https://open.spotify.com/track/3cZreNPb0hNWeHeamr88jR) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Good Ol Days](https://open.spotify.com/album/0AYf7a5HfwRars592KS1Dr) | 4:54 | 2023-08-25 | 2024-06-22 |
 | [Good Ol Days](https://open.spotify.com/track/5i0WOfDUtQdO5bkVm7ZSK0) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [White Limo Stuck In The Snow](https://open.spotify.com/album/73gnvlOHq9e2IbEQC3H8fu) | 4:54 | 2023-10-13 | 2024-01-25 |
@@ -144,7 +145,7 @@
 | [Henry](https://open.spotify.com/track/0OZsvq808YGXkOyKMTgZH2) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [For Young Hearts](https://open.spotify.com/album/4ls7LePd8KDEwAVEVyoLvH) | 3:47 | 2024-04-14 | 2024-06-08 |
 | [Henry](https://open.spotify.com/track/64mnJp1lv1xuahULNJnqsV) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [For Young Hearts](https://open.spotify.com/album/3rwKopMatoXfhbLvlTLE6p) | 3:47 | 2023-05-19 | 2024-04-19 |
 | [Her](https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1) | [The American Dawn](https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11) | [Her](https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv) | 3:34 | 2024-09-27 |  |
-| [Hold Steady](https://open.spotify.com/track/4feJkKbKSeuVVquVUWZXSi) | [Kacey Johansing](https://open.spotify.com/artist/5V1yrA8FrMhKkl4rCu6flc) | [The Hiding](https://open.spotify.com/album/2bVhjBuYON1SBpSieHpd2h) | 3:13 | 2023-02-23 |  |
+| [Hold Steady](https://open.spotify.com/track/4feJkKbKSeuVVquVUWZXSi) | [Kacey Johansing](https://open.spotify.com/artist/5V1yrA8FrMhKkl4rCu6flc) | [The Hiding](https://open.spotify.com/album/2bVhjBuYON1SBpSieHpd2h) | 3:13 | 2023-02-23 | 2025-06-28 |
 | [How to Rent a Room](https://open.spotify.com/track/43DMGGEnfzZGr7k0j1CtQs) | [Silver Jews](https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z) | [The Natural Bridge](https://open.spotify.com/album/53s93tksSeBis2gL50AQPJ) | 3:02 | 2024-11-15 |  |
 | [Hunter](https://open.spotify.com/track/1fRRvjB2eKyWJAOuinZ5NZ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Hunter](https://open.spotify.com/album/5f2StDzDcdxE0JR6K7YiDT) | 3:48 | 2023-04-28 | 2023-06-12 |
 | [Hunter](https://open.spotify.com/track/1vgEyqOgNdgp2qTJ8oFmsb) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN) | 3:48 | 2023-06-09 | 2024-04-19 |
@@ -194,7 +195,7 @@
 | [My Life in Art](https://open.spotify.com/track/6kh7ySeueeG6ojSbChAAo2) | [Mojave 3](https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio) | [Excuses for Travellers](https://open.spotify.com/album/3v7tUWRIJsQ0BaYGntOJbZ) | 7:21 | 2024-04-14 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-10-13 |  |
 | [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 | 2023-03-20 |  |
-| [NEVER AGAIN](https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [NEVER AGAIN](https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW) | 2:25 | 2024-01-12 |  |
+| [NEVER AGAIN](https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [NEVER AGAIN](https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW) | 2:25 | 2024-01-12 | 2025-06-28 |
 | [Never on My Mind](https://open.spotify.com/track/4z9ViersKJgj1ZwTjjfhtk) | [Tobacco City](https://open.spotify.com/artist/00Af3oygT0HC6ld0c2HwFX) | [Tobacco City, USA](https://open.spotify.com/album/11J38DSk3mY2KEOx1NEY20) | 3:45 | 2023-09-22 | 2024-06-22 |
 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 | 2023-02-23 |  |
 | [No Woman](https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 3:57 | 2023-02-23 | 2023-08-09 |
@@ -210,7 +211,7 @@
 | [Psychos](https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Psychos](https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1) | 3:05 | 2023-04-05 |  |
 | [Quarry](https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 4:07 | 2023-09-22 |  |
 | [radiator](https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA) | [Sadurn](https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI) | [Radiator](https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA) | 3:54 | 2023-02-23 | 2024-06-22 |
-| [Radio Silence](https://open.spotify.com/track/4InyDtnc3LXJQ7IQb5gDe7) | [Jacqueline Hackett](https://open.spotify.com/artist/3sHKu82LxYjIMCXoHpgalZ) | [As the Summer Let You Down](https://open.spotify.com/album/1H9QibUtGZNncjJogzadcR) | 7:33 | 2023-05-19 |  |
+| [Radio Silence](https://open.spotify.com/track/4InyDtnc3LXJQ7IQb5gDe7) | [Jacqueline Hackett](https://open.spotify.com/artist/3sHKu82LxYjIMCXoHpgalZ) | [As the Summer Let You Down](https://open.spotify.com/album/1H9QibUtGZNncjJogzadcR) | 7:33 | 2023-05-19 | 2025-06-28 |
 | [Return From The Ice](https://open.spotify.com/track/3vtMKnsC5A2Sk8ylRxyU10) | [Acetone](https://open.spotify.com/artist/7DnDHNnkHER4ompBXz1ibL) | [1992 \- 2001](https://open.spotify.com/album/6vUZbXDPOX59fKA8hacgyW) | 5:19 | 2023-12-08 | 2024-05-04 |
 | [Ride On / Right On](https://open.spotify.com/track/7Ep6MLL8ATx0fFczswsvR5) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8) | 3:44 | 2023-02-23 | 2024-03-02 |
 | [Ridgeline](https://open.spotify.com/track/3a5E3tAornRUJ49RXnU0Wu) | [A Country Western](https://open.spotify.com/artist/0JyEWuZBMpLOezjt2DDt8M) | [Life on the Lawn](https://open.spotify.com/album/257zpJKGcC32si5BIYzbHV) | 2:29 | 2025-02-28 |  |
@@ -260,6 +261,7 @@
 | [Synesthesia](https://open.spotify.com/track/7dpLyDlAkfaHCiQsIRUebc) | [deer scout](https://open.spotify.com/artist/096fLKwL2P69YLSXH0fc9s) | [Woodpecker](https://open.spotify.com/album/5tkmRDKhyw0evkaonuQw9d) | 1:59 | 2024-11-15 |  |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 | 2023-12-08 |  |
 | [Take My Heart](https://open.spotify.com/track/4xIItS5RIFO0JtAlIDBIzb) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [The Holey Bible](https://open.spotify.com/album/60DTLJMVuo2iDezOWMl8QI) | 2:53 | 2023-08-18 | 2025-02-26 |
+| [technique](https://open.spotify.com/track/7IQgBwbb4CB3OYov1cOVAc) | [semiwestern](https://open.spotify.com/artist/4hfCqI8H72nfxJXR8Ic55n) | [semiwestern](https://open.spotify.com/album/1EWt0Ia5eRyycdg1Dgv8dP) | 4:21 | 2025-06-27 |  |
 | [Tetherball \(with Boyish\)](https://open.spotify.com/track/1OA2dCwth9ZlCh2UGEKhgh) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Tetherball \(with Boyish\)](https://open.spotify.com/album/1dHDuiZa2DxzgUZysJZspf) | 3:33 | 2023-12-01 | 2024-02-03 |
 | [Thanks](https://open.spotify.com/track/02bspNI1gmunfBI8u0xP95) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Thanks](https://open.spotify.com/album/3gPRFJbo622cLv9Tx2pdYS) | 1:08 | 2024-02-02 | 2024-05-04 |
 | [The Bottom of It](https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:01 | 2023-02-23 | 2024-03-02 |

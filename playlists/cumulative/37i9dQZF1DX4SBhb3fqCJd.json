@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B lives. Cover: KWN",
+  "description": "Where R&B lives. Cover: Teyana Taylor",
   "name": "RNB X",
   "tracks": [
     {
@@ -1147,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "Bed of Roses",
+        "url": "https://open.spotify.com/album/7EHL9PCseJVg7jLeF08G3S"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149503,
+      "name": "Bed of Roses",
+      "url": "https://open.spotify.com/track/4hTBcHQ5DjYH9dbroi91if"
+    },
+    {
+      "album": {
         "name": "Larger Than Life",
         "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
       },
@@ -1852,6 +1870,28 @@
       "duration_ms": 190546,
       "name": "Can I Call You Rose?",
       "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
+    },
+    {
+      "album": {
+        "name": "Can We Talk?",
+        "url": "https://open.spotify.com/album/5bzaSX78ybcXW55HFe8xZi"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "Can We Talk?",
+      "url": "https://open.spotify.com/track/1NeL0geu5M3lya479QuA6q"
     },
     {
       "album": {
@@ -3362,6 +3402,24 @@
       "duration_ms": 201621,
       "name": "Feature Me",
       "url": "https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53"
+    },
+    {
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/2f6vd2PcjNyMKdePhio5UW"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152195,
+      "name": "Feel Something",
+      "url": "https://open.spotify.com/track/1aw5ELeIspIgEfhEp2OifK"
     },
     {
       "album": {
@@ -5384,7 +5442,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 214453,
       "name": "IN YOUR EYES",
       "url": "https://open.spotify.com/track/1wjDFBUOMuZKm1eJ8GzRBX"
@@ -6218,7 +6276,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 198200,
       "name": "Life Will Be",
       "url": "https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy"
@@ -10597,6 +10655,24 @@
     },
     {
       "album": {
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153103,
+      "name": "stand on it",
+      "url": "https://open.spotify.com/track/4Lt6z7rZq9UfKHZdC4a3uJ"
+    },
+    {
+      "album": {
         "name": "Stand Up (From the Original Motion Picture \"Till\")",
         "url": "https://open.spotify.com/album/5SjhlbPZIgLILg9k6BJsPs"
       },
@@ -10812,7 +10888,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 197796,
       "name": "Sunshine & Rain...",
       "url": "https://open.spotify.com/track/7lj0vXLgWbyB0BvCsk22hn"
@@ -12752,7 +12828,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 213571,
       "name": "worst behaviour (feat. Kehlani)",
       "url": "https://open.spotify.com/track/5W67A7t9MWL3VtovrVrici"

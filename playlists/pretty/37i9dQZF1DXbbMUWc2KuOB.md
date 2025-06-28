@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Queen of Tears\(눈물의 여왕\)\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,284 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,306 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 28 | [Fall In Love \- Instrumental](https://open.spotify.com/track/6KdheT4dZ7YxWvFGoQ2q6s) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Nevertheless, \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/4xi27YjXGPBNbrONMJBnfm) | 3:59 |
 | 29 | [With You \(Inst.\)](https://open.spotify.com/track/2Q3KiqbzEeRRYks33iLNLs) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [WINTER of aespa X MY DEMON](https://open.spotify.com/album/7EXrNMKKkkE3hRBpeZcT6y) | 4:14 |
 | 30 | [Is It Still Beautiful \- Instrumental](https://open.spotify.com/track/2h1Ul51I7yWhu2KcI6RSaO) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [HOSPITAL PLAYLIST Season2, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/0wjfQ5rrQIRFuSPvAbZBX4) | 4:35 |
-| 31 | [Looks like a real thing \- Instrumental](https://open.spotify.com/track/3o1od0SpRtQI628cYNubg1) | [JeHwi](https://open.spotify.com/artist/269A1U75KOCFyPAiXq4sjT) | [Snowdrop \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/1hv6bXr0WdA4AHwWfUBTZ3) | 3:02 |
-| 32 | [You're Cold \- Instrumental](https://open.spotify.com/track/6D14Zg8SqVnXr5bxNoOwZ4) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/63qfWGAvtGwa2YF4yC98Ak) | 3:54 |
+| 31 | [You're Cold \- Instrumental](https://open.spotify.com/track/6D14Zg8SqVnXr5bxNoOwZ4) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/63qfWGAvtGwa2YF4yC98Ak) | 3:54 |
+| 32 | [Looks like a real thing \- Instrumental](https://open.spotify.com/track/3o1od0SpRtQI628cYNubg1) | [JeHwi](https://open.spotify.com/artist/269A1U75KOCFyPAiXq4sjT) | [Snowdrop \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/1hv6bXr0WdA4AHwWfUBTZ3) | 3:02 |
 | 33 | [Friend \- Instrumental](https://open.spotify.com/track/33Y5YU2kcUOso429akQOjI) | [Kim Heewon](https://open.spotify.com/artist/04WbtSXMhEPlcV5e41OBWL) | [Snowdrop \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/06tbn25qs1DIa2C580RbD1) | 4:16 |
 | 34 | [Memories More than love \- Instrumental](https://open.spotify.com/track/1CltdzmU5Fdaq4fe6tgfE8) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Snowdrop \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/1GnkuJvrXWsNJfNDhQfaB2) | 4:45 |
 | 35 | [나는 볼 수 없던 이야기 \(Inst.\) \(Instrumental\)](https://open.spotify.com/track/2gWhI5qs1hx9VrCzmFyqbb) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [로맨스는 별책부록 OST Part.1](https://open.spotify.com/album/5ouASCTRr1UL6S5g9k9C1R) | 3:44 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 46 | [Say I Love U \- Instrumental](https://open.spotify.com/track/253auyXWaaHMBWJXs63h5m) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 |
 | 47 | [Melting \- Inst.](https://open.spotify.com/track/5zx2UcgNu7CIpczUCgYghY) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/3Rble1wgbwvGEqvpOaZ63b) | 3:06 |
 | 48 | [Did you wake up? \(one and only romance X Hello Ga\-Young, WONPIL\(DAY6\)\) \(Inst.\)](https://open.spotify.com/track/0zsXqqadMTxZItJZeQcNIz) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Did you wake up? \(one and only romance X Hello Ga\-Young, WONPIL\(DAY6\)\)](https://open.spotify.com/album/3LKDYgN60NINDo6HBynrq0) | 3:19 |
-| 49 | [Cloud \- Instrumental](https://open.spotify.com/track/4fInoTsJPZR6gU0H3OpJf5) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [The Beauty Inside Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4XZOS3rxwwrG4EVDJ3LdLf) | 3:03 |
-| 50 | [All Night Long \(She is My Type♡ X Car, the garden\) \(Inst.\)](https://open.spotify.com/track/1PPsrKwN648zNLcDyVHZVG) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm) | 3:19 |
+| 49 | [All Night Long \(She is My Type♡ X Car, the garden\) \(Inst.\)](https://open.spotify.com/track/1PPsrKwN648zNLcDyVHZVG) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm) | 3:19 |
+| 50 | [Cloud \- Instrumental](https://open.spotify.com/track/4fInoTsJPZR6gU0H3OpJf5) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [The Beauty Inside Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4XZOS3rxwwrG4EVDJ3LdLf) | 3:03 |
 
 Snapshot ID: `ZgQzhQAAAACz6Wi4FQtkFm/7ZlCaYEJc`

@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-512 songs - 1 day 22 hr 11 min
+513 songs - 1 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,7 @@
 | [Melody At Night](https://open.spotify.com/track/6H8Kb2KHTCOhMBRifugOKj) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V) | [Melody At Night](https://open.spotify.com/album/2ZJefc9NERyNMMhndARgxl) | 4:31 | 2025-02-21 |  |
 | [Midnight Mood](https://open.spotify.com/track/1PMdnh8JihyvccTeC16XwB) | [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [Nearness Of You: The Ballad Book](https://open.spotify.com/album/51XWcgZLxZSpBCcrsI8YFY) | 6:23 | 2021-04-19 |  |
 | [Midnight Sun Upon Saltværsøya](https://open.spotify.com/track/4LU1Nh6sh3c4vxQLr3Riu3) | [Cecilie Strange](https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy) | [Beyond](https://open.spotify.com/album/7CtOqcN4ZlDrynEUrdVflA) | 7:22 | 2023-08-03 |  |
-| [Misanthrope's Hymn](https://open.spotify.com/track/55gPsGRHeTmZv33UeoFYxP) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Misanthrope's Hymn](https://open.spotify.com/album/3IgLL4Xq4uP9uYrguIwKvI) | 6:09 | 2024-08-23 |  |
+| [Misanthrope's Hymn](https://open.spotify.com/track/55gPsGRHeTmZv33UeoFYxP) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Misanthrope's Hymn](https://open.spotify.com/album/3IgLL4Xq4uP9uYrguIwKvI) | 6:09 | 2024-08-23 | 2025-06-28 |
 | [Miss B.](https://open.spotify.com/track/1BmYFsBIxIB2mDsIXGlCv7) | [Mu Quintet](https://open.spotify.com/artist/26hCtsfsn4q3v24kGBmlr0) | [Summit](https://open.spotify.com/album/5P1I1tIgkLh6682ZiOtP92) | 4:51 | 2022-12-22 |  |
 | [Misty](https://open.spotify.com/track/1W9s9CKbU4c7ZOniOScWWQ) | [Jumaane Smith](https://open.spotify.com/artist/1XH2bt9r3GiWNb1C4v73l8) | [Misty](https://open.spotify.com/album/08nlPE9Zz8uLqrG3yMRdwX) | 5:51 | 2024-10-11 |  |
 | [Misty](https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [This Is Jazz \#14](https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz) | 5:23 | 2022-07-21 | 2023-02-08 |
@@ -339,6 +339,7 @@
 | [Perfectly Unhappy](https://open.spotify.com/track/5gyifUjBAt2XPhmCj70jGR) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST), [Andy Sheppard](https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD) | [In the Mountains](https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4) | 8:41 | 2022-04-28 |  |
 | [Petrichor](https://open.spotify.com/track/0wXhAI4j4g1mZdcZwCvHIU) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [Petrichor](https://open.spotify.com/album/5xEYOG6rRWYjQ0Oaok4c0d) | 5:39 | 2025-02-14 | 2025-04-12 |
 | [Pictures \- Instrumental](https://open.spotify.com/track/080lT3us8k0pYleQ3JCAMt) | [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Pictures \(Instrumental\)](https://open.spotify.com/album/5VjByV0PJCgVWG0B0b2hx1) | 4:50 | 2025-01-10 | 2025-02-08 |
+| [Plainsong](https://open.spotify.com/track/4SrykUt9al7hl3tDYd1G86) | [Fred Hersch](https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx), [Drew Gress](https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK), [Joey Baron](https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW) | [The Surrounding Green](https://open.spotify.com/album/0X4iyYATnXLm1IvSNp3bfq) | 5:50 | 2025-06-27 |  |
 | [PRAYER](https://open.spotify.com/track/5GIHgkip0SeCDcuBsEUGUi) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [PRAYER](https://open.spotify.com/album/1pR1odHigDWvudMQgYMrhs) | 7:45 | 2022-03-10 | 2022-06-23 |
 | [Prelude](https://open.spotify.com/track/3nt2gUt7V9Z01aAljXZip2) | [Jacob Roved Quintet](https://open.spotify.com/artist/7GtNzyMUm0JLoKs8XrxqCB), [Jacob Roved](https://open.spotify.com/artist/4NuB9MixMoBdiyfcifI9A7) | [Dawn](https://open.spotify.com/album/6oPbbOKJyk9plm5gyA4psH) | 2:21 | 2022-09-06 |  |
 | [Procession](https://open.spotify.com/track/2DZWXfoMTvtNK8XN6NNWG6) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Stay Now](https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO) | 4:30 | 2022-01-27 |  |

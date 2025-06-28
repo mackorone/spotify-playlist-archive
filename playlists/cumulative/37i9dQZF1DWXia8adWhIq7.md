@@ -2,9 +2,9 @@
 
 ### [Pop Gospel](https://open.spotify.com/playlist/37i9dQZF1DWXia8adWhIq7)
 
-> Ouça as novidades e sucessos do Pop Cristão\. Foto: Rapha Gonçalves
+> Ouça as novidades e sucessos do Pop Cristão\. Foto: Milena Pina
 
-198 songs - 11 hr 45 min
+199 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Deus no Controle \- Remix](https://open.spotify.com/track/5n2tjV0imDqsZhgBhCWdd2) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Deus no Controle \- Remix](https://open.spotify.com/album/5vE3dKmYcbc3yQ7lX4Grdn) | 3:35 | 2023-07-28 | 2024-04-20 |
 | [Deus É Bom \- Ao Vivo Em Lisboa](https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu) | [Deus É Bom \(Ao Vivo Em Lisboa\)](https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew) | 3:58 | 2023-11-24 |  |
 | [Dia de Festa](https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Dia de Festa](https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs) | 4:58 | 2023-10-06 |  |
-| [Do Meu Lado](https://open.spotify.com/track/1H1f46vLGZTa3c5JLvFbWb) | [Bruno Coutinho](https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO), [Coutinho Records](https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS) | [Do Meu Lado](https://open.spotify.com/album/4cscdogWJaGUU1h9AemC6E) | 3:21 | 2025-01-24 |  |
+| [Do Meu Lado](https://open.spotify.com/track/1H1f46vLGZTa3c5JLvFbWb) | [Bruno Coutinho](https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO), [Coutinho Records](https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS) | [Do Meu Lado](https://open.spotify.com/album/4cscdogWJaGUU1h9AemC6E) | 3:21 | 2025-01-24 | 2025-06-28 |
 | [Dono do Tempo](https://open.spotify.com/track/2NFXTNVoKxWVRdda1VDDwB) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [Dono do Tempo](https://open.spotify.com/album/2y0vpcnHHc3MHQOMkEjzxD) | 3:41 | 2022-08-05 | 2023-02-25 |
 | [Dono dos Meus Dias](https://open.spotify.com/track/4DqMjreua66sH84GbccttX) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Dono dos Meus Dias](https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU) | 3:59 | 2022-08-05 | 2024-08-31 |
 | [Ele Pode Fazer](https://open.spotify.com/track/1FJ4xull5V00YfAR7S2wxX) | [Lorhann](https://open.spotify.com/artist/2JzXhnel5dnhOOjYAmTgjJ) | [Ele Pode Fazer](https://open.spotify.com/album/4nC5v3UYIyGFMeT1LwZ67V) | 2:30 | 2024-08-30 | 2025-02-22 |
@@ -194,6 +194,7 @@
 | [Tudo em Mim](https://open.spotify.com/track/3OKmHJqGnGVCfA4BFoQXKw) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Tudo em Mim](https://open.spotify.com/album/2Xzp0ZlJZXb3n7OWVFTvrj) | 4:05 | 2023-11-24 |  |
 | [Tudo Novo](https://open.spotify.com/track/4DTSBQsKzEaP99gq0G77ra) | [DJ Roger Vale](https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Tudo Novo](https://open.spotify.com/album/51e8mw5vBRkEqljx5DUkZN) | 3:05 | 2023-04-15 |  |
 | [Tudo Novo \- Acústico](https://open.spotify.com/track/77uSoHkw1ot5r6JdfvtTmi) | [DJ Roger Vale](https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Tudo Novo \(Acústico\)](https://open.spotify.com/album/3gWsO95tq0c0qTAyogPlHk) | 2:59 | 2023-06-16 |  |
+| [Um Conselho](https://open.spotify.com/track/6r4hoG9Hwx2fcZXivQH4jS) | [Milena Pina](https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt) | [Um Conselho](https://open.spotify.com/album/0C1dCxtnM7l2bA3YAMRJnQ) | 2:27 | 2025-06-28 |  |
 | [Um Novo Lugar](https://open.spotify.com/track/1CFcWP4avTVNTJyS0v1nuC) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Um Novo Lugar](https://open.spotify.com/album/25xop1SdYHlViPxywAyWTP) | 3:01 | 2022-08-05 | 2023-05-06 |
 | [Vai Ser Melhor](https://open.spotify.com/track/6FRFSFbFcrMjFCOstsDiLy) | [Dani Ferber](https://open.spotify.com/artist/3QT08LehX9bIPs1PuXXBsH) | [Vai Ser Melhor](https://open.spotify.com/album/2qKeZs3J2ihqc5YlLmb5yL) | 2:57 | 2023-02-25 | 2023-07-22 |
 | [Vem Com Teu Espírito](https://open.spotify.com/track/5eLUik7N6bsWvQ2rKPA7xz) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Vem Com Teu Espírito](https://open.spotify.com/album/2Zci8Uw9pwTctGoaorDbVj) | 2:48 | 2022-08-05 | 2022-10-08 |

@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Billy Porter
 
-313 songs - 19 hr 20 min
+314 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Can't Get Enough](https://open.spotify.com/track/4iKhQ8ww70bM5rqFGmqcxq) | [Daniele Baldi](https://open.spotify.com/artist/6XCnlAqoGasmWxoLIghnVS) | [Can't Get Enough](https://open.spotify.com/album/1EDOh4foBxuhT5PaInDmlM) | 6:22 | 2022-07-01 | 2024-02-17 |
 | [Can't Stop Writing Songs About You](https://open.spotify.com/track/36AHZnLUtm7QmS1VhuxeiF) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [DISCO: Guest List Edition](https://open.spotify.com/album/48ausuYzcDZAqD7ML9sPcU) | 3:04 | 2021-11-12 | 2022-10-15 |
 | [Celebrate \- Radio Edit](https://open.spotify.com/track/5dEk9sFFB5jpi2RWXKep3Z) | [Micky More & Andy Tee](https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN), [Kathy Brown](https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq), [Sheree Hicks](https://open.spotify.com/artist/79dkWGNPlut8iOyyqPw9Ru) | [Celebrate \(Radio Edit\)](https://open.spotify.com/album/3QIlKE97catBOG2cz5Pan4) | 3:34 | 2023-11-10 |  |
-| [Celebrities](https://open.spotify.com/track/4ZUrFcdrdXge2KavbwF1QG) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [Celebrities](https://open.spotify.com/album/0HQYwb8lUcmwfYjtlpT2t0) | 2:34 | 2023-04-07 |  |
+| [Celebrities](https://open.spotify.com/track/4ZUrFcdrdXge2KavbwF1QG) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [Celebrities](https://open.spotify.com/album/0HQYwb8lUcmwfYjtlpT2t0) | 2:34 | 2023-04-07 | 2025-06-28 |
 | [Chain Reaction](https://open.spotify.com/track/0AKaQvBIQ2hyFWZ5OUHaii) | [David Blazer](https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6) | [Chain Reaction](https://open.spotify.com/album/1RTA4XUMyit5gXC2Jkmd0f) | 4:09 | 2021-10-01 | 2022-11-05 |
 | [Change Your Mind](https://open.spotify.com/track/7DRoyQiz59HSM0egAeQnvC) | [Ken@Work](https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj) | [Change Your Mind](https://open.spotify.com/album/4InKmaH0ORYbiXCaHo8hSg) | 5:56 | 2023-01-27 | 2025-02-01 |
 | [Changed For The Better \- Disco Version](https://open.spotify.com/track/2vLwnsh9J6uZqvWoemd6HC) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Night Versions](https://open.spotify.com/album/4IswLnf0haAgObRJ0gXVFc) | 4:34 | 2024-10-04 |  |
@@ -246,6 +246,7 @@
 | [Slow / Love to Love You Baby \(From the Infinite Disco Livestream\)](https://open.spotify.com/track/0AocMj1DZuKPXGVrCICNNu) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Infinite Disco](https://open.spotify.com/album/22FbsSjPqf7kxayE4M5ut3) | 3:13 | 2022-04-08 | 2024-02-10 |
 | [Slow / Love to Love You Baby \- From the Infinite Disco Livestream](https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Infinite Disco](https://open.spotify.com/album/7FuqPFZVmhRJ96S5XajcoJ) | 3:13 | 2022-04-08 | 2023-11-18 |
 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/6zTbYrkYJSiNOw6jL7nM5H) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 4:13 | 2022-06-10 | 2025-02-08 |
+| [Smooth](https://open.spotify.com/track/78rWUQvZlErPu6bCVWbqWW) | [Nerd in Disco](https://open.spotify.com/artist/3FO1TjJvSHtO141dRWkq5l) | [Smooth](https://open.spotify.com/album/6i8Ct9g7EQk6Nn9kJHFRgr) | 3:05 | 2025-06-27 |  |
 | [So Good](https://open.spotify.com/track/3Z2lzLWvsEcOiQshHMEXr9) | [Discotron](https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf) | [So Good](https://open.spotify.com/album/0EANgloUkAg1H0Hcjz1Fdh) | 4:01 | 2022-10-21 | 2023-03-04 |
 | [So Good To Me \(feat\. Karen Harding\)](https://open.spotify.com/track/3WfuS8tulwcGr7XZX7Qkpw) | [Hot Toddy](https://open.spotify.com/artist/163htIH0QGu4ZDcR7B0aUW), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [So Good To Me \(feat\. Karen Harding\)](https://open.spotify.com/album/67YrcWduP8KBrTpshIyvJV) | 4:12 | 2023-03-31 | 2025-02-08 |
 | [Somebody's Watching You](https://open.spotify.com/track/6xTCqwREMciIQl8PB3JGT8) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Seabra](https://open.spotify.com/album/3H7gm0dHWQ4CwHWItkQqIe) | 3:34 | 2022-03-18 | 2022-10-22 |

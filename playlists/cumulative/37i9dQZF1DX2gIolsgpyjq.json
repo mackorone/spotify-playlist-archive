@@ -10489,6 +10489,24 @@
     },
     {
       "album": {
+        "name": "KNIFE",
+        "url": "https://open.spotify.com/album/5mYTLQWP7xxn0Ddi2zSt1q"
+      },
+      "artists": [
+        {
+          "name": "LARA",
+          "url": "https://open.spotify.com/artist/0BudKMCTqOhcrPkhL0JkXZ"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168825,
+      "name": "KNIFE",
+      "url": "https://open.spotify.com/track/2AnyzmrKLXR61ObSp2LXrT"
+    },
+    {
+      "album": {
         "name": "Knock Me Off My Feet",
         "url": "https://open.spotify.com/album/26u0sUGviB0cRFSHIQpbs0"
       },
@@ -14482,6 +14500,24 @@
       "duration_ms": 195560,
       "name": "Over",
       "url": "https://open.spotify.com/track/68hMlnUaIdjJfpFogolkUG"
+    },
+    {
+      "album": {
+        "name": "Over and Over",
+        "url": "https://open.spotify.com/album/1KTbMtx9CX5xue2fClRtKg"
+      },
+      "artists": [
+        {
+          "name": "Tatia Darsalia",
+          "url": "https://open.spotify.com/artist/2z6l6zLPpmzy9Wnl3EBxoo"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189197,
+      "name": "Over and Over",
+      "url": "https://open.spotify.com/track/1iMUHTAg8YR2WaWTOTRnuc"
     },
     {
       "album": {

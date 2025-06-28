@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2025 \| Happy Easter 2025! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 119,264 likes - 110 songs - 9 hr 43 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 119,269 likes - 110 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 32 | [Who Else](https://open.spotify.com/track/0dsfLqH0drcuOXjTBqsHJU) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Zac Rowe](https://open.spotify.com/artist/4r1A4AicKyrUyhn6duxrHD) | [Who Else](https://open.spotify.com/album/6AX5qyyK9YVldRkZzGCKLo) | 5:15 |
 | 33 | [10,000 Reasons \(Bless The Lord\) \- Live](https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [10,000 Reasons \(Live\)](https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ) | 5:42 |
 | 34 | [KING OF ALL THE NATIONS \- ACOUSTIC LIVE](https://open.spotify.com/track/3rkPp6G7shvPlaedplYGf3) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25), [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc) | [KING OF ALL THE NATIONS \(WORLD VERSIONS\)](https://open.spotify.com/album/10gGPMfdllUXpfehLFNTQr) | 4:42 |
-| 35 | [How Many Times](https://open.spotify.com/track/6Uv5DJ5pC1NrJb1MofECsR) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Worldwide Revival \(Pt\. 1\)](https://open.spotify.com/album/55mAmj3fdRPzBhmv30Bf2r) | 3:12 |
+| 35 | [Come, Let Us Return To The Lord](https://open.spotify.com/track/3Twot5pRnWM4SWPA6Vyeg9) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d) | [Come, Let Us Return To The Lord](https://open.spotify.com/album/6gD8QuhSddzBBTe1S5ee2y) | 3:59 |
 | 36 | [Fill The Room](https://open.spotify.com/track/1L4QH0PU87Pqg1tvcuj2xA) | [Michael Bethany](https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Fill The Room](https://open.spotify.com/album/0j7zShoDhCDIveyQstr8o3) | 5:46 |
 | 37 | [Blood Of Christ \(feat\. John Wilds\)](https://open.spotify.com/track/6HavpEsmpotEj5E5QXAcn6) | [Jesus Image](https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [Blood Of Christ \(feat\. John Wilds\)](https://open.spotify.com/album/2WcqnKorQo9unYA7KBVao7) | 10:42 |
 | 38 | [Blood of Jesus \- Live](https://open.spotify.com/track/75kvOR4YandG5GCLUdQQzt) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Raffi Greco](https://open.spotify.com/artist/01p8kdKJ0NXFqKym7SlOza), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Blood Of Jesus \(Live\)](https://open.spotify.com/album/5yo7sW9VJcJNERPpjNsNDv) | 4:35 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 109 | [Approach, My Soul \- Live](https://open.spotify.com/track/3jME2qiOyKUkWo6GTSj827) | [Jordan Kauflin](https://open.spotify.com/artist/693dfM3T8ebvdxPrqLAjqt), [Sing!](https://open.spotify.com/artist/4yLrqCnweM5i52DkFUkTl9), [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [Sing! Songs of the Bible \- Live At The Getty Music Worship Conference](https://open.spotify.com/album/2usUfbrN8pqkH5u1g6B9rG) | 3:52 |
 | 110 | [In You \(Acoustic\) \[Live at Albert St\]](https://open.spotify.com/track/3JjkgECEmDpSidE7wPNxMa) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc), [Jessie\-Rose Rayner](https://open.spotify.com/artist/3fQGORRT8xvQCPMniaGgEU), [Brett Shaw](https://open.spotify.com/artist/0cPXxP2NntqpqKvXqRjbfP) | [In You \(Acoustic\) \[Live at Albert St\]](https://open.spotify.com/album/0lj6YLFAwfr6fXGbN8TRLr) | 4:44 |
 
-Snapshot ID: `AAAga1yi2W6CdrVzCRafk7Xcqgyvtvja`
+Snapshot ID: `AAAgbSIQJTI+/Z/2Fqj3sCYsBJAKvq8F`

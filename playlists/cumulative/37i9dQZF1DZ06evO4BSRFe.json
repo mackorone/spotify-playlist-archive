@@ -254,7 +254,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 135333,
       "name": "El biling\u00fce",
       "url": "https://open.spotify.com/track/5aqVKwiEuXrLJK4cPUjGDt"
@@ -1068,10 +1068,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 152973,
       "name": "Mi tesoro",
       "url": "https://open.spotify.com/track/6i9F5U7UTfpA2BurGZ9FYd"
+    },
+    {
+      "album": {
+        "name": "Sangre de indio",
+        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2025-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153306,
+      "name": "Mi tesoro",
+      "url": "https://open.spotify.com/track/6iYmSqPRZbd51RD5pPfTa0"
     },
     {
       "album": {
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 141533,
       "name": "No compro amores",
       "url": "https://open.spotify.com/track/3RFaoL5rTwLJN0SgG6ERdq"

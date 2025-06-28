@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: Loredana
 
-272 songs - 11 hr 29 min
+273 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [DILEMIN](https://open.spotify.com/track/2dARGs50kBX5FKi3oCivIQ) | [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [DILEMIN](https://open.spotify.com/album/5AAUlDsNabwWAHMSnRQdOv) | 2:11 | 2024-08-26 | 2024-12-17 |
 | [Dima Maghreb](https://open.spotify.com/track/41cbFeRwd5zCj2HqYIMeT1) | [Kolja Goldstein](https://open.spotify.com/artist/3rZxAl7fnH4NDynhJm3MUm), [Dú Maroc](https://open.spotify.com/artist/2s0YBNTlWf61tFJwKderGS), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [Dima Maghreb](https://open.spotify.com/album/56hyCpPTeMIcXgcgssMN46) | 2:23 | 2024-07-04 | 2024-08-13 |
 | [Do you lie](https://open.spotify.com/track/6xLxMr7gbDdz7VWSx0IBt7) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Do you lie](https://open.spotify.com/album/7rME8YpoxJ0bpSI8r8tLWI) | 2:35 | 2024-06-28 | 2025-03-11 |
-| [Do You Love Me](https://open.spotify.com/track/3K8o02PbcMEZcBx238e1Q1) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Do You Love Me](https://open.spotify.com/album/6sOgA2ZcFdkw4wxBEYlohd) | 2:27 | 2025-01-16 |  |
+| [Do You Love Me](https://open.spotify.com/track/3K8o02PbcMEZcBx238e1Q1) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Do You Love Me](https://open.spotify.com/album/6sOgA2ZcFdkw4wxBEYlohd) | 2:27 | 2025-01-16 | 2025-06-28 |
 | [Dschungelbuch](https://open.spotify.com/track/31hngzxYLPCNJEUaYvHVQb) | [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [Dschungelbuch](https://open.spotify.com/album/2btc4wUHco7gn7bTIMyfCN) | 3:04 | 2025-04-10 |  |
 | [Dunya](https://open.spotify.com/track/4eIdT2bW2gaTDdJnMgt7Ue) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Dunya](https://open.spotify.com/album/2w6QNteaT1zNP0BgCNZ7ji) | 2:47 | 2025-03-24 | 2025-05-28 |
 | [Durch die Nacht](https://open.spotify.com/track/2SOJytsIuNLOG49osyWLRd) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [MB](https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe) | [Durch die Nacht](https://open.spotify.com/album/1p8BJWQQDUAwSkUA38lwuU) | 2:39 | 2024-09-09 | 2024-11-19 |
@@ -141,6 +141,7 @@
 | [K¡K¡](https://open.spotify.com/track/0RH3Zeo1bLOKmtOGi9LZJ2) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Lio](https://open.spotify.com/artist/63FkGNSVb9VB4Is1V3Q9Nj), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [Jung & machen Geld](https://open.spotify.com/album/6dUdLyCrv5lFjki79qSGLh) | 3:18 | 2024-07-25 | 2024-12-10 |
 | [La Familia](https://open.spotify.com/track/3TBFqIc6UwpWIL8i0qADMF) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [La Familia](https://open.spotify.com/album/1FiyTkOhZOZYF742GIhHbv) | 2:07 | 2025-06-19 |  |
 | [La Money](https://open.spotify.com/track/1VtKoSmJv42wi1LcZhAGaa) | [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [La Money](https://open.spotify.com/album/1bCRla0Yx0JNoTYkbjGqQ9) | 2:31 | 2024-07-25 | 2025-01-11 |
+| [LADY](https://open.spotify.com/track/3XWAHrUK4PO7vtt8BvpLVo) | [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [LADY](https://open.spotify.com/album/12LXS7ZeM97dy4Pbd9216H) | 2:18 | 2025-06-27 |  |
 | [Lamine](https://open.spotify.com/track/4Fjfqk9NoOYRl1w863xrXo) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Mr\. Untouchable](https://open.spotify.com/album/0TCy0FRoGFO3D3VllAcaCz) | 2:16 | 2024-11-07 | 2025-04-18 |
 | [Lamine Yamal](https://open.spotify.com/track/3ZM01BVFb8bKWiHP59wgaV) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Der Yavuz](https://open.spotify.com/artist/59qNA3x8KEFnzFWINGlkyt) | [Lamine Yamal](https://open.spotify.com/album/10WFXYspuSRfhlGY5dUe4h) | 2:30 | 2024-08-26 | 2025-02-28 |
 | [Lass es zu](https://open.spotify.com/track/2OcddgkDq1HKmtyRy41iYw) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Lass es zu](https://open.spotify.com/album/39927gRpsBJCzUrlGJiFP6) | 2:34 | 2024-08-01 | 2024-08-13 |

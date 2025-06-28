@@ -4,7 +4,7 @@
 
 > All about aespa: meeting another self and experiencing the new world
 
-83 songs - 4 hr 32 min
+86 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,9 @@
 | [By Your Side](https://open.spotify.com/track/0DULYwlJVbkTTqA8ji6uSR) | [9001](https://open.spotify.com/artist/0ucJPeq0vaU8dbHu0Tie6E) | [Pokémon 2023 \(Original TV Series Soundtrack, Korea\)](https://open.spotify.com/album/2rTc5TdRP7hr7gE4h4lUR1) | 2:47 | 2023-08-23 |  |
 | [Count On Me](https://open.spotify.com/track/0CExKnGUdMZkttFmZAuwdr) | [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [The Midnight Studio, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/4KyXcvakvVBugwPdVSRDK5) | 3:17 | 2024-03-13 |  |
 | [Die Trying](https://open.spotify.com/track/4ToOfelAD6oEqbeHyTTKMS) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Die Trying](https://open.spotify.com/album/2Ov7bn3HyDgvAxtYPLosUR) | 2:55 | 2024-04-05 |  |
+| [Dirty Work](https://open.spotify.com/track/4qtdab2DABnEokwupCl8lG) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/3L7i2VqeznnAqX5BG6gm3H) | 3:00 | 2025-06-27 |  |
+| [Dirty Work \(English Version\)](https://open.spotify.com/track/1QkIWxhr19nJWU9roGzTJD) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/3L7i2VqeznnAqX5BG6gm3H) | 3:00 | 2025-06-27 |  |
+| [Dirty Work \(feat\. Flo Milli\)](https://open.spotify.com/track/6kBtuFVssWq2rORvq2ssXS) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Dirty Work](https://open.spotify.com/album/3L7i2VqeznnAqX5BG6gm3H) | 3:00 | 2025-06-27 |  |
 | [Don't Blink](https://open.spotify.com/track/2uJEnyojuGg31VVlLTQFpp) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 2:49 | 2023-11-10 |  |
 | [Dopamine \- GISELLE Solo](https://open.spotify.com/track/6pIuPm3u7QgUFAX1V0D9wY) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 3:14 | 2024-10-15 |  |
 | [Drama](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:34 | 2023-11-10 |  |

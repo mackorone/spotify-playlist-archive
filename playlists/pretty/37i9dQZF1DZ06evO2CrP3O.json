@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 137893,
+  "num_followers": 137906,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFs8AAAAAAB26niiFgheW0Nu8McBw9Hd",
+  "snapshot_id": "aFyNgAAAAACUhIOQ4P3BmwmhpaSpDJOQ",
   "tracks": [
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 222600,
-      "name": "The Hardest Part",
-      "url": "https://open.spotify.com/track/03SV49CTiBv7llc0s0FqhV"
+      "duration_ms": 253631,
+      "name": "Accidents Never Happen",
+      "url": "https://open.spotify.com/track/0HwEzRnnfi4cHqnSu9Q6K6"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 253631,
-      "name": "Accidents Never Happen",
-      "url": "https://open.spotify.com/track/0HwEzRnnfi4cHqnSu9Q6K6"
+      "duration_ms": 222600,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/03SV49CTiBv7llc0s0FqhV"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 380480,
-      "name": "Ll\u00e1mame (Call Me)",
-      "url": "https://open.spotify.com/track/3m2zWFVdi4LXMSw6YyQ6PP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plastic Letters",
         "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 158800,
       "name": "Fan Mail - Remastered",
       "url": "https://open.spotify.com/track/4BMbD4jHKpmukraBqxUWKJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 380480,
+      "name": "Ll\u00e1mame (Call Me)",
+      "url": "https://open.spotify.com/track/3m2zWFVdi4LXMSw6YyQ6PP"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 127693,
-      "name": "Little Girl Lies - Remastered 2001",
-      "url": "https://open.spotify.com/track/7z1W9g9TXBoqFFqpj7jTvs"
+      "duration_ms": 202000,
+      "name": "Man Overboard - Remastered 2001",
+      "url": "https://open.spotify.com/track/2miornYLAQaVJBSTKb48Go"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sunday Girl",
+        "url": "https://open.spotify.com/album/5iga5wn8c1N1Q1V56hflCw"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 194386,
+      "name": "Sunday Girl - French Version",
+      "url": "https://open.spotify.com/track/7y9i0rBNyVTIdW2WU2u8SP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heart of Glass",
         "url": "https://open.spotify.com/album/3vVl8EtdZcex2ubfCM0QFa"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 185716,
       "name": "Heart of Glass",
       "url": "https://open.spotify.com/track/6ZhKL3eyP0KxatLmtR56G9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sunday Girl",
-        "url": "https://open.spotify.com/album/5iga5wn8c1N1Q1V56hflCw"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 194386,
-      "name": "Sunday Girl - French Version",
-      "url": "https://open.spotify.com/track/7y9i0rBNyVTIdW2WU2u8SP"
     },
     {
       "added_at": null,

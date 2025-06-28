@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9467,
+  "num_followers": 9468,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFs8AAAAAADZwFV20nsrWXFlYxe6ZJmd",
+  "snapshot_id": "aFyNgAAAAAB2XtGoDd3MR+odg11tazer",
   "tracks": [
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yaeji",
+        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 209230,
+      "name": "Full of It",
+      "url": "https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PAC-TIVE",
         "url": "https://open.spotify.com/album/5dpJX0GUJSNwLqrp3XIobW"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 122108,
       "name": "PAC-TIVE",
       "url": "https://open.spotify.com/track/7zJHgKgb9Lk9Qq2KNqSQ4Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yaeji",
-        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 209230,
-      "name": "Full of It",
-      "url": "https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF"
     },
     {
       "added_at": null,

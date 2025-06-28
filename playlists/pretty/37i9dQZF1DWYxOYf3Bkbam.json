@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 57832,
+  "num_followers": 57847,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Baile de Campo",
-        "url": "https://open.spotify.com/album/7oVDKHLXbxjJOvu9ZuSQ7g"
-      },
-      "artists": [
-        {
-          "name": "Los Taitas del Chamame",
-          "url": "https://open.spotify.com/artist/0JTFmHW2WqRW4GHtDFrl5u"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Baile de Campo",
-      "url": "https://open.spotify.com/track/1me7vpj6UO5MhK2lTLRLyn"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 155666,
       "name": "Virgencita de Itat\u00ed",
       "url": "https://open.spotify.com/track/6myPU49XhJGyE95Ec22ked"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Baile de Campo",
+        "url": "https://open.spotify.com/album/7oVDKHLXbxjJOvu9ZuSQ7g"
+      },
+      "artists": [
+        {
+          "name": "Los Taitas del Chamame",
+          "url": "https://open.spotify.com/artist/0JTFmHW2WqRW4GHtDFrl5u"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Baile de Campo",
+      "url": "https://open.spotify.com/track/1me7vpj6UO5MhK2lTLRLyn"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Mario Mill\u00e1n Medina",
-          "url": "https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ"
-        }
-      ],
-      "duration_ms": 204746,
-      "name": "Mi ponchillo colorado",
-      "url": "https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Coleccion Aniversario",
         "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 147986,
       "name": "Siete Higueras",
       "url": "https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Mario Mill\u00e1n Medina",
+          "url": "https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ"
+        }
+      ],
+      "duration_ms": 204746,
+      "name": "Mi ponchillo colorado",
+      "url": "https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "De Raza Campera",
-        "url": "https://open.spotify.com/album/0vdvQ4LlkeD0RstpjmDs3D"
-      },
-      "artists": [
-        {
-          "name": "Leandro Gutierrez y su Conjunto",
-          "url": "https://open.spotify.com/artist/35gn73PazKoQi2zjoLOREm"
-        }
-      ],
-      "duration_ms": 138844,
-      "name": "De Raza Campera",
-      "url": "https://open.spotify.com/track/2ML3ESPtnijeGoMbEniGhU"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Andando",
         "url": "https://open.spotify.com/album/415D1RKuEh7AMwBSHPQsZQ"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 189360,
       "name": "General Madariaga",
       "url": "https://open.spotify.com/track/5YSJt24d5CrUynnqRcEXwT"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "De Raza Campera",
+        "url": "https://open.spotify.com/album/0vdvQ4LlkeD0RstpjmDs3D"
+      },
+      "artists": [
+        {
+          "name": "Leandro Gutierrez y su Conjunto",
+          "url": "https://open.spotify.com/artist/35gn73PazKoQi2zjoLOREm"
+        }
+      ],
+      "duration_ms": 138844,
+      "name": "De Raza Campera",
+      "url": "https://open.spotify.com/track/2ML3ESPtnijeGoMbEniGhU"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1464,13 +1464,13 @@
       },
       "artists": [
         {
-          "name": "Los hermanos Cena",
-          "url": "https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj"
+          "name": "Abelardo Dimotta",
+          "url": "https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm"
         }
       ],
-      "duration_ms": 110706,
-      "name": "Camino a las cuchillas",
-      "url": "https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT"
+      "duration_ms": 158520,
+      "name": "La Ofelia",
+      "url": "https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1480,13 +1480,13 @@
       },
       "artists": [
         {
-          "name": "Abelardo Dimotta",
-          "url": "https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm"
+          "name": "Los hermanos Cena",
+          "url": "https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj"
         }
       ],
-      "duration_ms": 158520,
-      "name": "La Ofelia",
-      "url": "https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM"
+      "duration_ms": 110706,
+      "name": "Camino a las cuchillas",
+      "url": "https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT"
     },
     {
       "added_at": "2025-03-31 12:53:49",

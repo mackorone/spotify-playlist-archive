@@ -4,7 +4,7 @@
 
 > Estas son las grandes voces del Hip Hop\. Foto: Delfina Dib
 
-177 songs - 9 hr 39 min
+178 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Fría la Casa](https://open.spotify.com/track/1NE2xioYBSOEZ5jhu1NJDC) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Cheche Cole](https://open.spotify.com/artist/1vTh9OJHlNi1sYgUTsqYVI), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Fría la Casa](https://open.spotify.com/album/1HPZPN2hFFNvgF9h1GvCxy) | 2:31 | 2023-05-26 |  |
 | [GARDEL EN EL AVIÓN](https://open.spotify.com/track/7bMZF2sGTEAvZC0lIHAPAA) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Willy Bronca](https://open.spotify.com/artist/72LcvCe3u6J31WGoz55n9c) | [GARDEL EN EL AVIÓN](https://open.spotify.com/album/5RPPRhI9UzU2DQDkimiNKM) | 2:25 | 2025-05-02 |  |
 | [Hierba Mala](https://open.spotify.com/track/0O0EHS42NLO9beCdP0m2VJ) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Laberinto ELC](https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu) | [Hierba Mala](https://open.spotify.com/album/3OS70FhPdphV5p6ii238CE) | 3:54 | 2023-06-30 |  |
-| [Hijas de Barrio 2](https://open.spotify.com/track/7CeMnPUN6V2N63VzREf3Co) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Hanna Hasen](https://open.spotify.com/artist/2cibAK6OyCLD0OizSSB9TT), [Zaru](https://open.spotify.com/artist/4yz602qHvJ4eoC06wCM5rG) | [Hijas de Barrio 2](https://open.spotify.com/album/7LSnoRRTKI9PlJK50EHURk) | 3:12 | 2025-03-28 |  |
+| [Hijas de Barrio 2](https://open.spotify.com/track/7CeMnPUN6V2N63VzREf3Co) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Hanna Hasen](https://open.spotify.com/artist/2cibAK6OyCLD0OizSSB9TT), [Zaru](https://open.spotify.com/artist/4yz602qHvJ4eoC06wCM5rG) | [Hijas de Barrio 2](https://open.spotify.com/album/7LSnoRRTKI9PlJK50EHURk) | 3:12 | 2025-03-28 | 2025-06-28 |
 | [Home Run](https://open.spotify.com/track/2G6mHbDVHHYYoPfnvTux8u) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Home Run](https://open.spotify.com/album/4gn05yaiJbKqPVtkInIDqi) | 2:36 | 2023-09-08 |  |
 | [Honey](https://open.spotify.com/track/3ZKTQjeqb1uo3BrnxpfD97) | [VIEF](https://open.spotify.com/artist/7vsIogMvyeyiquvpwCONUH), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Honey](https://open.spotify.com/album/68VqslGxoNFjfc3s6XcZFD) | 3:00 | 2024-10-04 | 2025-03-29 |
 | [Horas Extras](https://open.spotify.com/track/5oFX4zn4CIDN0l2RCVuObT) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53), [DJ Dmoe](https://open.spotify.com/artist/0UO7aldjXU5OjHiYKXUwrK) | [Todos Tienen Que Comer](https://open.spotify.com/album/6vPnYHNVtdT9V76xUy3e2d) | 3:52 | 2023-05-26 | 2025-05-31 |
@@ -151,6 +151,7 @@
 | [sin afinar mucho](https://open.spotify.com/track/7God0mEVammBaAoIKrfTGc) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Valentino Thompson](https://open.spotify.com/artist/5hzL70RIN1PZ7G17dQ5rsa) | [sin afinar mucho](https://open.spotify.com/album/4a4mHhGgm1SCAe20gYfDTM) | 2:00 | 2023-05-26 | 2023-07-08 |
 | [Solito](https://open.spotify.com/track/3XwqbCIwHKFqTO5uSDdlRd) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Solito](https://open.spotify.com/album/4UtHfLNMicKbFyJ9SDWgCr) | 3:01 | 2024-02-23 | 2024-10-12 |
 | [Solo Es Una](https://open.spotify.com/track/0zI6k327ZynSWmJ8v4gzlf) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [Solo Es Una](https://open.spotify.com/album/5ubZOVJtvooyXre0ApgzK8) | 3:30 | 2024-12-06 |  |
+| [Soñadores Atrevidos](https://open.spotify.com/track/2SVdYwGa9DMTTUR0VrE1tE) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [Soñadores Atrevidos](https://open.spotify.com/album/4uQA75ZAnksqEvlPFD8jY7) | 4:32 | 2025-06-27 |  |
 | [Sputnik](https://open.spotify.com/track/33U3U0NBr7CDFyIfFqunNX) | [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv) | [Formas para Perderse o I.D.E.A.S](https://open.spotify.com/album/5hVZa47W1Zil7bIDRgGWjT) | 4:27 | 2024-12-26 | 2025-01-18 |
 | [Sudaca en el Rooftop](https://open.spotify.com/track/3S7C1d8Y3zkL2VUxjDdWhO) | [Tsh Sudaca](https://open.spotify.com/artist/6kfPkheKpxesJXLqA4h7jO), [Brina Quoya](https://open.spotify.com/artist/632hn2DX5vh2nnytdhrDfY), [Dr Bizarro](https://open.spotify.com/artist/61IKvGm6q6Bf8kArlFb0vn) | [Sudaca en el Rooftop](https://open.spotify.com/album/6MBPWZl4xbYrrgbQcnKQhv) | 3:13 | 2024-02-23 | 2025-01-18 |
 | [Suero Casero](https://open.spotify.com/track/1WG3ZRwyzLm2OPRjRzuczP) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Suero Casero](https://open.spotify.com/album/6VHX4Z87U5UjJtNr5LPAdE) | 3:05 | 2025-01-17 |  |

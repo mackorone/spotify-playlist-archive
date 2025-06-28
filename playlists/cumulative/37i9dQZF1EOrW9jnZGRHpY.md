@@ -4,14 +4,14 @@
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-17 songs - 4 hr 33 min
+17 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Baila Baila Baila](https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Nibiru](https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH) | 2:38 | 2020-11-27 |  |
 | [Chi Chi \(feat\. Chris Brown\)](https://open.spotify.com/track/0UvBmQOhu4DVXJtdzGc5eV) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Chi Chi \(feat\. Chris Brown\)](https://open.spotify.com/album/1Ah6fvtPA6EaspNiOFKgME) | 2:19 | 2020-11-27 |  |
 | [Daddy Yankee](https://open.spotify.com/episode/1TgpbmpVIeOsxRCneVwwih) | [¡Viva Latino!](https://open.spotify.com/show/4KipqK7RBwdIhYmqGvCrEu) | [¡Viva Latino!](https://open.spotify.com/album/4KipqK7RBwdIhYmqGvCrEu) | 28:20 | 2020-11-27 |  |
-| [Drake vs Drake](https://open.spotify.com/episode/0AhU9dUyG0Hi9VoI0WPFQO) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 41:05 | 2020-11-27 |  |
+| [Drake vs Drake](https://open.spotify.com/episode/0AhU9dUyG0Hi9VoI0WPFQO) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 43:20 | 2020-11-27 |  |
 | [EP2 \| Chris Brown \- "Undecided"](https://open.spotify.com/episode/7twhRsJY0x8wupCXm0lOoe) | [The Sample](https://open.spotify.com/show/33QZUMjL7CgttNWL1gs3or) | [The Sample](https://open.spotify.com/album/33QZUMjL7CgttNWL1gs3or) | 11:33 | 2020-11-27 |  |
 | [Episode 224 w/ Nicky Jam](https://open.spotify.com/episode/6cANYTP9oPaYNyTLVqIHvx) | [Drink Champs](https://open.spotify.com/show/1CtRqrNGqpAttWyft6nVss) | [Drink Champs](https://open.spotify.com/album/1CtRqrNGqpAttWyft6nVss) | 2:02:53 | 2020-11-27 |  |
 | [Future Baby Mama](https://open.spotify.com/track/3CP5uo4jLgAHoFDlpVgYZA) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [19 \- EP](https://open.spotify.com/album/3N1TB3dK4eC44E92ByGJy6) | 3:54 | 2020-11-27 |  |

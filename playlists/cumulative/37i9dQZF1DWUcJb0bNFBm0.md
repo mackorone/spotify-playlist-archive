@@ -4,7 +4,7 @@
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: Slowwves \(Thailand\)
 
-214 songs - 14 hr 49 min
+215 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Divine Light](https://open.spotify.com/track/689CnhpaozpUpdCOfbSHCA) | [Dive Collate](https://open.spotify.com/artist/5lanIOAjhX1VTXe35ygUAf) | [Divine Light](https://open.spotify.com/album/3BTna0qdWfMHAXSW946ZzI) | 6:07 | 2024-06-27 | 2024-10-11 |
 | [Doll](https://open.spotify.com/track/718j4dLgigKSHiRYiHuhMC) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Doll](https://open.spotify.com/album/233GhcZaDayKcSfRtx5rW3) | 3:31 | 2024-06-27 |  |
 | [Don't Get Yourself Dry](https://open.spotify.com/track/3CKSC3Wnq38bitaDJT1scQ) | [GAZEKATE](https://open.spotify.com/artist/4F8TQLHmLbfQbaewX40glp) | [Don't Get Yourself Dry](https://open.spotify.com/album/2QE4Yfo1KiIgpN6Hng3oh6) | 4:20 | 2024-06-27 | 2024-08-09 |
+| [Down](https://open.spotify.com/track/3oQOR7QE9LdUxMLk2tNBeQ) | [Lullavile](https://open.spotify.com/artist/3CBQkmatE0ACsh4fpea912) | [llierauoy](https://open.spotify.com/album/5m5l7JaSKte9KhQqTvi5Z6) | 4:22 | 2025-06-27 |  |
 | [Dreaming Alone or Together \- Bonus Track](https://open.spotify.com/track/7LXVCqcHEXUKze1GuyHjeO) | [Precocious Neophyte](https://open.spotify.com/artist/5kPW0F59KHeCSj2dQsiqfH) | [Dreaming Alone or Together \(Bonus Track\)](https://open.spotify.com/album/32jDcy43AE0wow0QmAS7zO) | 3:52 | 2024-06-27 | 2024-08-31 |
 | [Drift Away](https://open.spotify.com/track/480Mt8YPjKLUHdU5LOxcAU) | [Modern Guns](https://open.spotify.com/artist/5Xe1EJV713SoJ2RiZHJbPH) | [Drift Away](https://open.spotify.com/album/0ui3IumxlAW8dIuW31WvcY) | 3:22 | 2025-06-26 |  |
 | [Driven By Wanderlust](https://open.spotify.com/track/0oHUkg1oE93UUqUCYZshuj) | [Drotoch](https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U) | [Driven By Wanderlust](https://open.spotify.com/album/2MHaK1TaauTVrW6eGd4DyL) | 3:24 | 2024-07-19 | 2024-12-05 |

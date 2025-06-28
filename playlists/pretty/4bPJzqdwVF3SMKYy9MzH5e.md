@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,169 songs - 4 day 20 hr 10 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,172 songs - 4 day 20 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2177,5 +2177,8 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2167 | [Sapientia](https://open.spotify.com/track/3dm1hX0YRSwZp6pKfIuKLu) | [Geo22](https://open.spotify.com/artist/1BF2tnFiO15m9Y1s0ph0gr) | [Sapientia](https://open.spotify.com/album/1IDH9NPF9LVYqiuNTadKLX) | 1:54 |
 | 2168 | [Latin Casino](https://open.spotify.com/track/6TsrNlLj3MeWSfL1kurhBt) | [Bovskey](https://open.spotify.com/artist/2z5MSIstgHtruYoMdI0eKu) | [12B3](https://open.spotify.com/album/4RcKkOMITjGeBgB0w8MlGO) | 2:20 |
 | 2169 | [Sonho do Brasil](https://open.spotify.com/track/1F1OWM6IeFXhJjnkLxJUur) | [Slowdown](https://open.spotify.com/artist/3VLBTVpduYKBntn2BNtBFA) | [Retrospectives](https://open.spotify.com/album/6qVprDA4Kd6uMhqrZ63XZq) | 3:24 |
+| 2170 | [SIDE2SIDE](https://open.spotify.com/track/4Kz5S3KljoJMlLtCDDVqCN) | [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [RED RAVE](https://open.spotify.com/album/0PZtxlib1VInBCoz4TVijP) | 2:51 |
+| 2171 | [Megatone Saxon \(Manchester Massive\)](https://open.spotify.com/track/7DFHG0gyFX5mq6e3hUXKOF) | [Mattik](https://open.spotify.com/artist/776NwCgoVkuhQziHlYoDqb) | [Bubble](https://open.spotify.com/album/246bHEdhkEeKGupdPxNxpP) | 4:49 |
+| 2172 | [Deep Lake](https://open.spotify.com/track/4yKQnfdhb8m5vwcTo2WuE8) | [Bovskey](https://open.spotify.com/artist/2z5MSIstgHtruYoMdI0eKu) | [12B3](https://open.spotify.com/album/4RcKkOMITjGeBgB0w8MlGO) | 3:08 |
 
-Snapshot ID: `AAAEXsVM+SD4YKF+DctRRadeNyUeOJF8`
+Snapshot ID: `AAAEYegShJud2BQO0UOT3o6chXQX2PsX`

@@ -4,7 +4,7 @@
 
 > whoa almost 300 saves !1!?1&\#x2F;?!1 tank u
 
-179 songs - 5 hr 46 min
+180 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Tell me!!](https://open.spotify.com/track/0pLAxdzTL52Q4g9RvTb3Fl) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 3:13 | 2025-04-14 |  |
 | [Tell me!!](https://open.spotify.com/track/3iIRxUCaiWHbluydLzfQb2) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [Tell me!!](https://open.spotify.com/album/1GEwT92iCntlSBBlFwjeki) | 3:13 | 2024-04-12 |  |
 | [they all hate me](https://open.spotify.com/track/75QJUIqWBe5BIAaOb1Q0Wp) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [outcast \(they all hate me\)](https://open.spotify.com/album/5rlkspTW5YrreKCQH1Sb62) | 1:35 | 2023-12-05 |  |
+| [this ts pmo me off](https://open.spotify.com/track/4MGbrzC5f3dLfSXdjhz4Es) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [this ts pmo me off](https://open.spotify.com/album/26Koe9XUKRUdzsmmz45gyz) | 1:43 | 2025-06-27 |  |
 | [transcendental](https://open.spotify.com/track/29YcryRu1oJ5XjcZB0DMJG) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [transcendental](https://open.spotify.com/album/5kQhZxQZESj4xLovR3AP72) | 1:54 | 2024-06-23 |  |
 | [u are my favorite!](https://open.spotify.com/track/2gMldmMX52M9PdkGnKMtaB) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [u are my favorite!](https://open.spotify.com/album/1uBBaaLFG2dAjHfvwSPIju) | 1:00 | 2023-12-05 |  |
 | [u are my favorite! \- Instrumental](https://open.spotify.com/track/09QIb7obL9j2cPl1OCv27c) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [u are my favorite!](https://open.spotify.com/album/1uBBaaLFG2dAjHfvwSPIju) | 1:00 | 2023-12-05 |  |

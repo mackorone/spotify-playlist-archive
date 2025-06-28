@@ -3361,6 +3361,24 @@
     },
     {
       "album": {
+        "name": "doll",
+        "url": "https://open.spotify.com/album/3HkgkY7W5bjOkYeVlDa9T8"
+      },
+      "artists": [
+        {
+          "name": "CONSTANCE",
+          "url": "https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179093,
+      "name": "doll",
+      "url": "https://open.spotify.com/track/4f9i8PcyIjIFtHV0Sy2PbM"
+    },
+    {
+      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
@@ -18030,7 +18048,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 224513,
       "name": "\u5ca9\u5dc9",
       "url": "https://open.spotify.com/track/4ja627NyIBCz7wO2dYr83g"
@@ -21422,7 +21440,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 262285,
       "name": "\u7f85\u751f\u9580",
       "url": "https://open.spotify.com/track/7xAVLrbnud6OrU6f4FmxDr"
@@ -21690,7 +21708,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 232839,
       "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
       "url": "https://open.spotify.com/track/2oOemghuOplk25PORF4s39"

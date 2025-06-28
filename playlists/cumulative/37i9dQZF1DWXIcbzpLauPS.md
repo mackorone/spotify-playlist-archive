@@ -2,9 +2,9 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> the best new metalcore\. where brutality and technicality collide\. Cover: Killswitch Engage
+> the best new metalcore\. where brutality and technicality collide\. Cover: Fit For A King
 
-1,263 songs - 3 day 5 hr 26 min
+1,265 songs - 3 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Be Someone](https://open.spotify.com/track/13saTla2BZhPkAm5OWRaFW) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [Be Someone](https://open.spotify.com/album/3wHYbhls679gOOr45eAWZv) | 3:20 | 2022-05-27 | 2022-12-17 |
 | [Beautiful](https://open.spotify.com/track/0yniOmVAE9jUGz6Vn8QvCO) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Beautiful](https://open.spotify.com/album/1Ou12iLak8y0mZfWMAIyI8) | 3:35 | 2022-02-11 | 2022-04-15 |
 | [Begin Again](https://open.spotify.com/track/6uCkCdWgzS2joEVTGnGSz9) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [The Seventh Sun](https://open.spotify.com/album/6D2PpsVWo0zfgWBflimEe1) | 3:35 | 2023-03-31 | 2024-02-24 |
+| [Begin The Sacrifice](https://open.spotify.com/track/5tvZflBKI3bKW5AR56DXBx) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Begin The Sacrifice](https://open.spotify.com/album/5Wx6aUM8Z1fPO6X6xbgHpR) | 3:58 | 2025-06-27 |  |
 | [Behelit](https://open.spotify.com/track/6SShrkXpvyKEMslHdCbqJI) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Behelit](https://open.spotify.com/album/2oj7HNRNdIZgIwCZl4I7Mu) | 4:08 | 2024-12-20 | 2025-04-26 |
 | [Behind the Crowd](https://open.spotify.com/track/09vdbE9riiqUAnS8RNSZ0z) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Behind The Crowd](https://open.spotify.com/album/2vnONzlyg4ITtYh4H8Z5oM) | 3:14 | 2022-07-13 | 2022-07-23 |
 | [Behind the Hand of God](https://open.spotify.com/track/3c34ZTRGIuBX6MfRJmmqOW) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Behind the Hand of God](https://open.spotify.com/album/7kLGqxeAyPv2PYRk8dUYBp) | 3:20 | 2022-07-13 | 2022-07-20 |
@@ -849,7 +850,7 @@
 | [Perpetual Terminal](https://open.spotify.com/track/0fcEV5CPc7QFD50pY4JhAs) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Perpetual Terminal](https://open.spotify.com/album/4CPpslrtV51rQzvjGG98fd) | 5:47 | 2023-12-22 | 2024-02-27 |
 | [Perpetual Terminal](https://open.spotify.com/track/4Sa3ILVhdU197MT78j1QOa) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Perpetual Terminal](https://open.spotify.com/album/4VNi4KMdhD5OYfsClMJxii) | 5:47 | 2024-02-23 | 2024-04-19 |
 | [Perpetual \| Terminal](https://open.spotify.com/track/4TDy9DvlFtLp3XE3jhMfj5) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Perpetual Terminal](https://open.spotify.com/album/4SYGnQBzkOTHXvCaPL8CiB) | 5:47 | 2023-11-27 | 2024-05-11 |
-| [Pig](https://open.spotify.com/track/3IMsQ5w6Lq1pJak148cqLK) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Pig](https://open.spotify.com/album/7M8qLO0UvEJfgiJ8lqXwVo) | 3:45 | 2025-03-31 |  |
+| [Pig](https://open.spotify.com/track/3IMsQ5w6Lq1pJak148cqLK) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Pig](https://open.spotify.com/album/7M8qLO0UvEJfgiJ8lqXwVo) | 3:45 | 2025-03-31 | 2025-06-28 |
 | [PIGS EAR](https://open.spotify.com/track/4ZJduIHjMVQ3RIxFOR7sHz) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [PIGS EAR](https://open.spotify.com/album/58CBeC9b0zQuOiFb0JniJT) | 2:11 | 2022-07-13 | 2022-07-17 |
 | [Pit of Misery](https://open.spotify.com/track/3SM1GyP52v3fUHhl5IBggs) | [Get The Shot](https://open.spotify.com/artist/47YTOUaDKlPoDHr00r5Wu2) | [Pit of Misery](https://open.spotify.com/album/5ickix0UdA5jqLnzPOWX4Q) | 5:08 | 2025-03-14 |  |
 | [Pittsburgh \- Redux](https://open.spotify.com/track/4WLnFkOz45jnsDmrFopEIM) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Let The Ocean Take Me \(Redux\)](https://open.spotify.com/album/3rFpcPqcUpFRcbFwd5kyCm) | 3:59 | 2024-10-18 |  |
@@ -1060,6 +1061,7 @@
 | [Take Off](https://open.spotify.com/track/0TSz9TsaZXc6I6yKAa4xCD) | [Gideon](https://open.spotify.com/artist/3Zj2B8yAi8gHoR8vpsPatZ) | [Take Off](https://open.spotify.com/album/4Am9KEEleButgBfQ9rq6Gh) | 3:28 | 2023-02-24 | 2023-11-28 |
 | [Take Your Love and Leave](https://open.spotify.com/track/6S0KonuMvq99QR0Rh03pz4) | [Noija](https://open.spotify.com/artist/2h5GVPMC3JJQHOnnhkBr5E) | [Take Your Love and Leave](https://open.spotify.com/album/29c2FSkTeIJAyPZN0TCnaY) | 3:35 | 2021-12-17 | 2022-04-02 |
 | [Talk to Me](https://open.spotify.com/track/4QOuEQBmCJJJhYTkrE5Zy2) | [As The Structure Fails](https://open.spotify.com/artist/12A5ksM0yYvX6ULrJmIvQN) | [Talk to Me](https://open.spotify.com/album/78jDD0o4blFWZTpo9tHWoh) | 3:16 | 2023-01-20 | 2023-11-28 |
+| [TANEBI](https://open.spotify.com/track/1qHuqLqX3WMb6EYTk5YIrf) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [TANEBI](https://open.spotify.com/album/0SNL3hIHvftXGTlzy6vdJC) | 3:32 | 2025-06-27 |  |
 | [Tea Leaves](https://open.spotify.com/track/71rABdFG3LvphzqmMxDF2c) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Tea Leaves](https://open.spotify.com/album/6lcDSJnPRtRwPmNVVQc0Tt) | 3:34 | 2022-04-01 | 2022-04-15 |
 | [Tears of Joy](https://open.spotify.com/track/2v8NB1NfczlpMnurLN7kkH) | [Chamber](https://open.spotify.com/artist/0Iv7bsODzqbmMkC6pylYYN) | [Tears of Joy](https://open.spotify.com/album/1KypeRNb1CDo7GzVh0U6h9) | 2:13 | 2024-11-22 | 2024-12-19 |
 | [TECHNIUM](https://open.spotify.com/track/5Pk2Fy0i0BuzfGaCFpB9DB) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx), [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [TECHNIUM](https://open.spotify.com/album/50pfFA6Pb0ZNn97fZy07SX) | 3:04 | 2024-08-12 |  |
@@ -1222,7 +1224,7 @@
 | [Wayfarer](https://open.spotify.com/track/37lowkjDP9xPe7aQFXUsvT) | [Patient Sixty\-Seven](https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c) | [Wayfarer](https://open.spotify.com/album/6Jgz2y8TmnHhCks8Dbhd1e) | 3:33 | 2021-12-17 | 2022-02-11 |
 | [We All Meet Up In The End](https://open.spotify.com/track/6PXnz34sERoo33jtNjBabm) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [We All Meet Up In The End](https://open.spotify.com/album/607lnh8iZa9ycSunepT3MT) | 2:56 | 2024-08-25 | 2024-09-21 |
 | [We Are No Saints](https://open.spotify.com/track/3BPdKJxzfJX63N7LYLDpI6) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [We Are No Saints](https://open.spotify.com/album/0LsCf8tIWzbZwfsIOJDkAg) | 3:10 | 2021-12-17 | 2022-02-11 |
-| [We Are The Dead \(feat\. Alex Terrible, Tom Barber\)](https://open.spotify.com/track/5dxYpCEtdy4koK4ziTRqma) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu), [Alex Terrible](https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO), [Tom Barber](https://open.spotify.com/artist/0MDixv1DxDJce8r8uHOSOd) | [We Are The Dead](https://open.spotify.com/album/7J48Y0zeWr4VzD4Z9mECsK) | 3:43 | 2024-09-20 |  |
+| [We Are The Dead \(feat\. Alex Terrible, Tom Barber\)](https://open.spotify.com/track/5dxYpCEtdy4koK4ziTRqma) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu), [Alex Terrible](https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO), [Tom Barber](https://open.spotify.com/artist/0MDixv1DxDJce8r8uHOSOd) | [We Are The Dead](https://open.spotify.com/album/7J48Y0zeWr4VzD4Z9mECsK) | 3:43 | 2024-09-20 | 2025-06-28 |
 | [Weapon](https://open.spotify.com/track/0CGj0cu1kyQq08Zw5tt1Tt) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Weapon](https://open.spotify.com/album/4R2GKWF7ofLMXBoQhXzE3z) | 3:34 | 2022-04-08 | 2022-07-01 |
 | [welcome2paradise](https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [welcome2paradise](https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq) | 4:46 | 2023-05-22 | 2024-08-26 |
 | [Werewolf](https://open.spotify.com/track/1e1rQNYCZToyBDDka1Io34) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:32 | 2023-02-17 | 2023-04-22 |

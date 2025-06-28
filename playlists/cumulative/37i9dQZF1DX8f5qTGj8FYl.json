@@ -865,6 +865,36 @@
     },
     {
       "album": {
+        "name": "Code 12 (Vinyl Cut) [Masterlink Sessions]",
+        "url": "https://open.spotify.com/album/27xzfAs442iCF36O7mwiqV"
+      },
+      "artists": [
+        {
+          "name": "Redtenbacher's Funkestra",
+          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+        },
+        {
+          "name": "Horn House",
+          "url": "https://open.spotify.com/artist/5HMo9VXm5R91AzkQBqNrlu"
+        },
+        {
+          "name": "Mike Outram",
+          "url": "https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ"
+        },
+        {
+          "name": "Tony Remy",
+          "url": "https://open.spotify.com/artist/4ZPe9yodynCxVDpH4uExp0"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232120,
+      "name": "Code 12 (Vinyl Cut) - Masterlink Sessions",
+      "url": "https://open.spotify.com/track/1D5PyI6R5KhemFCHw6DPsd"
+    },
+    {
+      "album": {
         "name": "Tailwinds.",
         "url": "https://open.spotify.com/album/2dNlfSEAakmsqr7pXtKsDt"
       },
@@ -2946,7 +2976,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 232140,
       "name": "Monster Funk",
       "url": "https://open.spotify.com/track/0RyrQ4Xh6Z0wE8DQOjKvUa"

@@ -1,28 +1,92 @@
 {
-  "description": "a little indie, a little pop.  Cover: Daisy Grenade",
-  "num_followers": 227657,
+  "description": "a little indie, a little pop.  Cover: 24kGoldn",
+  "num_followers": 227670,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFTc7QAAAADi9CfckDsS8IO20Cd0LBGB",
+  "snapshot_id": "aF4XYgAAAACB4x54h/DEl/IVhNIcR7nv",
   "tracks": [
     {
-      "added_at": "2025-06-20 04:00:45",
+      "added_at": "2025-06-27 04:00:34",
       "album": {
-        "name": "Don't Sweat It",
-        "url": "https://open.spotify.com/album/5BuwJcN3VVB8p7jpcytX0W"
+        "name": "June",
+        "url": "https://open.spotify.com/album/5agU8VDl3O3RCdslS3p5Wg"
       },
       "artists": [
         {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
         }
       ],
-      "duration_ms": 167964,
-      "name": "Don't Sweat It",
-      "url": "https://open.spotify.com/track/4cWPQXwN7p0RKihlUlcOUf"
+      "duration_ms": 201226,
+      "name": "June",
+      "url": "https://open.spotify.com/track/0cCX9hZfhr138GDXFbTemL"
+    },
+    {
+      "added_at": "2025-06-27 04:00:34",
+      "album": {
+        "name": "Bye Bye Baby",
+        "url": "https://open.spotify.com/album/6g4GDgPbbmvNfHxnfOLz43"
+      },
+      "artists": [
+        {
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
+        }
+      ],
+      "duration_ms": 201913,
+      "name": "Bye Bye Baby",
+      "url": "https://open.spotify.com/track/4OhHrtiU7JIPhOJBVlBTgP"
+    },
+    {
+      "added_at": "2025-06-27 04:00:34",
+      "album": {
+        "name": "the nostalgia tapes 3",
+        "url": "https://open.spotify.com/album/4n1BsC5gdihN9qaJy2q8DH"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 167671,
+      "name": "sweet heat",
+      "url": "https://open.spotify.com/track/1LkKQf9u7Ey6xSOtNPdxOO"
+    },
+    {
+      "added_at": "2025-06-27 04:00:34",
+      "album": {
+        "name": "Mad",
+        "url": "https://open.spotify.com/album/1jqgdLTganjzL121lxeusU"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 174969,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/1uq1pf0UdjGmfbPqIpPg5K"
+    },
+    {
+      "added_at": "2025-06-27 04:00:34",
+      "album": {
+        "name": "You Got Me",
+        "url": "https://open.spotify.com/album/1V0y01b1RwrabDQL86yzVM"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/65yBh9AN1LvxWnUROryJ9P"
     },
     {
       "added_at": "2025-06-13 04:00:59",
@@ -39,6 +103,38 @@
       "duration_ms": 192684,
       "name": "comedown",
       "url": "https://open.spotify.com/track/0WP2mSrYIXEy2poZkAWlNZ"
+    },
+    {
+      "added_at": "2025-06-27 04:00:34",
+      "album": {
+        "name": "new friends",
+        "url": "https://open.spotify.com/album/3Xo6i17vaV6miD1Sv4A4tt"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 165668,
+      "name": "new friends",
+      "url": "https://open.spotify.com/track/2qaPgYqEShm6ZYUFXHgYWZ"
+    },
+    {
+      "added_at": "2025-06-20 04:00:45",
+      "album": {
+        "name": "Don't Sweat It",
+        "url": "https://open.spotify.com/album/5BuwJcN3VVB8p7jpcytX0W"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "duration_ms": 167964,
+      "name": "Don't Sweat It",
+      "url": "https://open.spotify.com/track/4cWPQXwN7p0RKihlUlcOUf"
     },
     {
       "added_at": "2025-06-20 04:00:45",
@@ -89,6 +185,22 @@
       "url": "https://open.spotify.com/track/6zWwKrs73j2M9dbpbXDBLz"
     },
     {
+      "added_at": "2025-06-27 04:00:34",
+      "album": {
+        "name": "Never Been In Love",
+        "url": "https://open.spotify.com/album/1DaEhxi99nfwOQ8SJAuo3I"
+      },
+      "artists": [
+        {
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+        }
+      ],
+      "duration_ms": 137471,
+      "name": "Never Been In Love",
+      "url": "https://open.spotify.com/track/3IRifTOnH1y8PPtgEhty5Y"
+    },
+    {
       "added_at": "2025-06-20 04:00:45",
       "album": {
         "name": "I Want You Here All The Time",
@@ -121,6 +233,22 @@
       "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
     },
     {
+      "added_at": "2025-06-27 04:00:34",
+      "album": {
+        "name": "sunflower",
+        "url": "https://open.spotify.com/album/573GcKaNUsjIUQ0Calzfc1"
+      },
+      "artists": [
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        }
+      ],
+      "duration_ms": 168294,
+      "name": "what do i know?",
+      "url": "https://open.spotify.com/track/1mbZ7V8SgPERXLtc9UDQLR"
+    },
+    {
       "added_at": "2025-06-20 04:00:45",
       "album": {
         "name": "That Could Be Me",
@@ -151,22 +279,6 @@
       "duration_ms": 172733,
       "name": "Stupid Questions",
       "url": "https://open.spotify.com/track/7C9znPRuIPDj20Tzqvm7kf"
-    },
-    {
-      "added_at": "2025-02-28 05:01:00",
-      "album": {
-        "name": "Talk Me Down",
-        "url": "https://open.spotify.com/album/0ksRUgPVLT45egqtYf0yeL"
-      },
-      "artists": [
-        {
-          "name": "Moody Joody",
-          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
-        }
-      ],
-      "duration_ms": 172854,
-      "name": "Talk Me Down",
-      "url": "https://open.spotify.com/track/5RfTkZXXAq7ofaPOBZAXvb"
     },
     {
       "added_at": "2025-06-20 04:00:45",
@@ -643,22 +755,6 @@
     {
       "added_at": "2025-05-16 04:00:10",
       "album": {
-        "name": "Cinematic",
-        "url": "https://open.spotify.com/album/0xPOBZFiFZ9FapzadshAuG"
-      },
-      "artists": [
-        {
-          "name": "Will Linley",
-          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "Cinematic",
-      "url": "https://open.spotify.com/track/6FlFjAMNruiMsgBbGAUHpe"
-    },
-    {
-      "added_at": "2025-05-16 04:00:10",
-      "album": {
         "name": "Out of Your League",
         "url": "https://open.spotify.com/album/4Tfc6JkbqehfTP7rF725kd"
       },
@@ -689,86 +785,6 @@
       "url": "https://open.spotify.com/track/3ShZPsqNw5P6AxqEzWcgMp"
     },
     {
-      "added_at": "2025-05-17 01:33:42",
-      "album": {
-        "name": "Vanilla",
-        "url": "https://open.spotify.com/album/3u8A4kSJ5HGWTNi7aEsnFP"
-      },
-      "artists": [
-        {
-          "name": "DOUBLECAMP",
-          "url": "https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy"
-        }
-      ],
-      "duration_ms": 144304,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/6NUOf9xdiWcN33S7m9tpri"
-    },
-    {
-      "added_at": "2025-04-25 04:00:39",
-      "album": {
-        "name": "Sadgirl",
-        "url": "https://open.spotify.com/album/4zWfJm5YZnk7ML3mRRi0Xo"
-      },
-      "artists": [
-        {
-          "name": "Litany",
-          "url": "https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc"
-        }
-      ],
-      "duration_ms": 173197,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/3jowQzeDQU4dIAKQg7ahXh"
-    },
-    {
-      "added_at": "2025-04-11 04:00:17",
-      "album": {
-        "name": "INSIDE :",
-        "url": "https://open.spotify.com/album/7fRksONg2LUzGqXbIMd140"
-      },
-      "artists": [
-        {
-          "name": "The Wrecks",
-          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
-        }
-      ],
-      "duration_ms": 279250,
-      "name": "I Didn\u2019t Use To",
-      "url": "https://open.spotify.com/track/4r1CCwT9h9PNIitYde2UEd"
-    },
-    {
-      "added_at": "2025-03-28 04:26:12",
-      "album": {
-        "name": "Hooked",
-        "url": "https://open.spotify.com/album/01tWq0p3C8mTKpNleojMK3"
-      },
-      "artists": [
-        {
-          "name": "Michael Sanzone",
-          "url": "https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm"
-        }
-      ],
-      "duration_ms": 144445,
-      "name": "Hooked",
-      "url": "https://open.spotify.com/track/1PUfHBF7ggLkIqKl3aSvqR"
-    },
-    {
-      "added_at": "2025-04-11 04:00:17",
-      "album": {
-        "name": "DIVE",
-        "url": "https://open.spotify.com/album/0jfgGNDWmjcBLPKMyIMLYP"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 182380,
-      "name": "jupiter",
-      "url": "https://open.spotify.com/track/4BiiGfe1QtSpsiZDvA4Pmd"
-    },
-    {
       "added_at": "2025-03-21 04:01:01",
       "album": {
         "name": "Feel It (From \u201cInvincible\u201d)",
@@ -783,22 +799,6 @@
       "duration_ms": 157974,
       "name": "Feel It (From \u201cInvincible\u201d)",
       "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
-    },
-    {
-      "added_at": "2024-08-30 15:34:12",
-      "album": {
-        "name": "breaking news",
-        "url": "https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 161075,
-      "name": "breaking news",
-      "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
     }
   ],
   "unique_name": "soda",

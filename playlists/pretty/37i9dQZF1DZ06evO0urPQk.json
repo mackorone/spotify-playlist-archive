@@ -1,12 +1,12 @@
 {
   "description": "This is Nana Mizuki. The essential tracks, all in one playlist.",
-  "num_followers": 27617,
+  "num_followers": 27616,
   "original_name": "This Is Nana Mizuki",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFs8AAAAAAC7kVAwzpftWIamw4/4gErL",
+  "snapshot_id": "aFyNgAAAAAAc/9SGNxfxYPwXegFJqfdn",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SMASHING ANTHEMS",
-        "url": "https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 242906,
-      "name": "Exterminate",
-      "url": "https://open.spotify.com/track/784dXexnlIhAJyZ4M5F7yp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30c0\u30d6\u30eb\u30b7\u30e3\u30c3\u30d5\u30eb",
         "url": "https://open.spotify.com/album/7gdHEhTNPcGxSHrFJXjt7v"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 209000,
       "name": "\u30c0\u30d6\u30eb\u30b7\u30e3\u30c3\u30d5\u30eb",
       "url": "https://open.spotify.com/track/2fP2NoqPvzIVyAgSa1gIqJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SMASHING ANTHEMS",
+        "url": "https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 242906,
+      "name": "Exterminate",
+      "url": "https://open.spotify.com/track/784dXexnlIhAJyZ4M5F7yp"
     },
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEOGENE CREATION",
-        "url": "https://open.spotify.com/album/4YcSRnOhzrtrX5LDNIK8jR"
+        "name": "\u5922\u5e7b",
+        "url": "https://open.spotify.com/album/1tWqgL6k6A06lcZSc7QoAF"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 268706,
-      "name": "UNLIMITED BEAT",
-      "url": "https://open.spotify.com/track/4QxfaPNmAjZxY2yP6rKyvF"
+      "duration_ms": 239013,
+      "name": "\u5929\u7a7a\u306e\u30ab\u30ca\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/5NDMUVjHWNo6hjNXLUB7UF"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u5922\u5e7b",
-        "url": "https://open.spotify.com/album/1tWqgL6k6A06lcZSc7QoAF"
+        "name": "NEOGENE CREATION",
+        "url": "https://open.spotify.com/album/4YcSRnOhzrtrX5LDNIK8jR"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 239013,
-      "name": "\u5929\u7a7a\u306e\u30ab\u30ca\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/5NDMUVjHWNo6hjNXLUB7UF"
+      "duration_ms": 268706,
+      "name": "UNLIMITED BEAT",
+      "url": "https://open.spotify.com/track/4QxfaPNmAjZxY2yP6rKyvF"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 232106,
-      "name": "Virtual Cruiser",
-      "url": "https://open.spotify.com/track/4SivujSrkOb0zZFwxojti6"
+      "duration_ms": 240240,
+      "name": "\u30b7\u30e3\u30ec\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/2zsyK9VNE2x2ISN8SEGPwF"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 240240,
-      "name": "\u30b7\u30e3\u30ec\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/2zsyK9VNE2x2ISN8SEGPwF"
+      "duration_ms": 232106,
+      "name": "Virtual Cruiser",
+      "url": "https://open.spotify.com/track/4SivujSrkOb0zZFwxojti6"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BRIGHT STREAM",
-        "url": "https://open.spotify.com/album/0XDdDSPWk1o4qcUDkAETMb"
+        "name": "STARTING NOW!",
+        "url": "https://open.spotify.com/album/1r4GnXzvpFSp4uQvPxhTBS"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 187066,
-      "name": "Sacred Force",
-      "url": "https://open.spotify.com/track/2PoIB3gqN5EREhzyp2AYQm"
+      "duration_ms": 213194,
+      "name": "\u30a2\u30f3\u30c6\u30a3\u30d5\u30a9\u30fc\u30ca",
+      "url": "https://open.spotify.com/track/2nH2TbDJxgFk2WTxvWJQi1"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "STARTING NOW!",
-        "url": "https://open.spotify.com/album/1r4GnXzvpFSp4uQvPxhTBS"
+        "name": "BRIGHT STREAM",
+        "url": "https://open.spotify.com/album/0XDdDSPWk1o4qcUDkAETMb"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 213194,
-      "name": "\u30a2\u30f3\u30c6\u30a3\u30d5\u30a9\u30fc\u30ca",
-      "url": "https://open.spotify.com/track/2nH2TbDJxgFk2WTxvWJQi1"
+      "duration_ms": 187066,
+      "name": "Sacred Force",
+      "url": "https://open.spotify.com/track/2PoIB3gqN5EREhzyp2AYQm"
     },
     {
       "added_at": null,

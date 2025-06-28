@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-878 songs - 1 day 22 hr 41 min
+879 songs - 1 day 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -787,6 +787,7 @@
 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/5nONSliAVb1xEaMfo2U8h6) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [USB](https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS) | 4:27 | 2023-12-14 | 2024-03-06 |
 | [Twēnty Minutēs in thē Futurē](https://open.spotify.com/track/1Xx5u7h6xIuMKDCnSeJSve) | [Kotiēr](https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu) | [Twēnty Minutēs in thē Futurē](https://open.spotify.com/album/3qUeV4hq55UtpDXUcGasm1) | 4:27 | 2023-05-16 |  |
 | [U](https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [U](https://open.spotify.com/album/39wBeQQiYOqNcPssaBMk1V) | 3:38 | 2024-11-21 |  |
+| [u & i](https://open.spotify.com/track/4UrvsThnqGTyuqSKnxw0kK) | [Distant Matter](https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn), [fkblnde](https://open.spotify.com/artist/5UZvfnCX1JUXy90IjseIbl) | [u & i](https://open.spotify.com/album/6ej3V6vE3Xd6hWQbHzQjiM) | 3:01 | 2025-06-27 |  |
 | [U \(feat\. BRONZE AVERY\)](https://open.spotify.com/track/41tVFPYF12LM42hypwG1Dz) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo), [BRONZE AVERY](https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW) | [U \(feat\. BRONZE AVERY\)](https://open.spotify.com/album/1RQq3Vx56aNEnKHI1XXnkT) | 3:27 | 2023-04-27 | 2024-01-06 |
 | [U Always](https://open.spotify.com/track/5KqMPYaStD6h3wkVU1nVFV) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL), [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [U Always](https://open.spotify.com/album/2GL4MOHJDbEHFaJYFuQ2eu) | 4:18 | 2025-05-08 |  |
 | [U Got No Time \- Loveboi Remix](https://open.spotify.com/track/6o06zkdFOkYlccbyIm0hif) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi), [Loveboi](https://open.spotify.com/artist/2pQjnE87tuLCsXotwAlLW8) | [Strange Motions \(Remixes\)](https://open.spotify.com/album/5K3aH2l5DBmrs3XwmH6Od3) | 3:28 | 2024-04-25 |  |

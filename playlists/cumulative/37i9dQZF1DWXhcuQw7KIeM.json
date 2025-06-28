@@ -1325,6 +1325,24 @@
     },
     {
       "album": {
+        "name": "Malstr\u00f6msbrus",
+        "url": "https://open.spotify.com/album/4961f5lFlgmf38sd9K5wgl"
+      },
+      "artists": [
+        {
+          "name": "Vintersorg",
+          "url": "https://open.spotify.com/artist/6LfdGx71ZHRWgP4tBRmQf6"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403626,
+      "name": "Malstr\u00f6msbrus",
+      "url": "https://open.spotify.com/track/2iaTeZJ8QD2ZS312KQTBgV"
+    },
+    {
+      "album": {
         "name": "Feast Of Silence",
         "url": "https://open.spotify.com/album/1QTNlTne1hb0WHJe0sF6K4"
       },
@@ -2804,7 +2822,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 257579,
       "name": "Ymir",
       "url": "https://open.spotify.com/track/6OMd2Tyoo1t331SqqnTdKR"

@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 165352,
+  "num_followers": 165360,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFs8AAAAAAAYg0Gr6HMVPjyJtbTd07P/",
+  "snapshot_id": "aFyNgAAAAADt/h0HEAXyuiwN2Jt3SPKN",
   "tracks": [
     {
       "added_at": null,
@@ -735,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Sil\u00eancio Que Grita",
+        "url": "https://open.spotify.com/album/6dyzdn5KrBgmmQnznQI1PO"
+      },
+      "artists": [
+        {
+          "name": "Negra Li",
+          "url": "https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 190196,
+      "name": "Retrovisor",
+      "url": "https://open.spotify.com/track/4HYZYfXAeETot63750cbxe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "085 RMX",
         "url": "https://open.spotify.com/album/5xQf9WAxGDU9upsBlJMAbK"
       },
@@ -751,6 +771,22 @@
       "duration_ms": 163102,
       "name": "085 RMX",
       "url": "https://open.spotify.com/track/3jmBJjqYLJocP8HziRXDMn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LADY LESTE",
+        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 188307,
+      "name": "LEIL\u00c3O",
+      "url": "https://open.spotify.com/track/4k7mlEX9Nc3Ei0nFQ4cOE3"
     },
     {
       "added_at": null,
@@ -779,42 +815,6 @@
       "duration_ms": 174213,
       "name": "BRUXARIA 3000",
       "url": "https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LADY LESTE",
-        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 188307,
-      "name": "LEIL\u00c3O",
-      "url": "https://open.spotify.com/track/4k7mlEX9Nc3Ei0nFQ4cOE3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Sil\u00eancio Que Grita",
-        "url": "https://open.spotify.com/album/6dyzdn5KrBgmmQnznQI1PO"
-      },
-      "artists": [
-        {
-          "name": "Negra Li",
-          "url": "https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 190196,
-      "name": "Retrovisor",
-      "url": "https://open.spotify.com/track/4HYZYfXAeETot63750cbxe"
     },
     {
       "added_at": null,

@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 21 | [Something](https://open.spotify.com/track/5JDV9OrKjeNkudakqwp9on) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse) | 3:07 |
 | 22 | [Time Out](https://open.spotify.com/track/0O1BPly9rZtkpwOkmbeZ9T) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Electus](https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS) | 2:40 |
 | 23 | [Ende](https://open.spotify.com/track/3kAXRmMpVq8uMLX5HCpTYO) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Ende](https://open.spotify.com/album/5EiEFRxgAgyx1nq8JXUSkp) | 2:48 |
-| 24 | [Pokémon](https://open.spotify.com/track/7n5DdRu1zLuw4yamf4dGZ7) | [Die Antwoord](https://open.spotify.com/artist/6urkHDoIVO1WO8vNIwcJmM) | [Pokémon](https://open.spotify.com/album/1ffliwfQKRLMoOnmn5VWKw) | 4:26 |
-| 25 | [Touch Me](https://open.spotify.com/track/74lOK0Z3WKvTpK8W8Srj1d) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Touch Me](https://open.spotify.com/album/0W1CKVUL1yAWcIwWzA4Ztt) | 3:23 |
+| 24 | [Touch Me](https://open.spotify.com/track/74lOK0Z3WKvTpK8W8Srj1d) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Touch Me](https://open.spotify.com/album/0W1CKVUL1yAWcIwWzA4Ztt) | 3:23 |
+| 25 | [Pokémon](https://open.spotify.com/track/7n5DdRu1zLuw4yamf4dGZ7) | [Die Antwoord](https://open.spotify.com/artist/6urkHDoIVO1WO8vNIwcJmM) | [Pokémon](https://open.spotify.com/album/1ffliwfQKRLMoOnmn5VWKw) | 4:26 |
 | 26 | [I Want You](https://open.spotify.com/track/59sRxIltnBLAWzaTeV05xd) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [I Want You](https://open.spotify.com/album/7Dq0zfGilniudyVzvZg3rn) | 2:53 |
 | 27 | [Too Weak](https://open.spotify.com/track/0IwnyVENCHeAnSPA8xcG14) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Coming Home](https://open.spotify.com/album/0Z1WX8Yg9HXmz6Qkl2nhgc) | 4:00 |
 | 28 | [Better Dayz](https://open.spotify.com/track/3Utn7kpHOgv7EQG5XmFzY7) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Accidentally On Purpose \- The 2nd Mini Album](https://open.spotify.com/album/70RduzYb3gbtmVs88CpAHV) | 3:01 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 54 | [Meaning \- Inst.](https://open.spotify.com/track/4Y5oE4Xn5VMCRce5UgyIkM) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [\(Me\)moir](https://open.spotify.com/album/1KixiCbpzXKydBJqWiA9kB) | 2:54 |
 | 55 | [surrender](https://open.spotify.com/track/2lleU8uOuQfNe1IvN6JUXf) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [would i be yours?](https://open.spotify.com/album/4s4U15Zass2usbXrNJPBpA) | 3:04 |
 
-Snapshot ID: `Ab1NCAAAAADaJjgPMKPHc89QqZxr6Fh9`
+Snapshot ID: `Ab1SqAAAAABJeVG/UAjUqdHulFoGWUXd`

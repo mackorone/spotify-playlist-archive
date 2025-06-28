@@ -1,6 +1,6 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 71536,
+  "num_followers": 71597,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
+        "name": "Art",
+        "url": "https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G"
+      },
+      "artists": [
+        {
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+        }
+      ],
+      "duration_ms": 343533,
+      "name": "Younger Than Springtime",
+      "url": "https://open.spotify.com/track/77iHjhK7iJct2ehEfCDh7Y"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
         "name": "Sketches of Spain",
         "url": "https://open.spotify.com/album/2xyhltm9XWSQ5xok4C81BD"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 734764,
       "name": "Solea",
       "url": "https://open.spotify.com/track/07EI4s3foxxuMdQTkk6MZA"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
-        "name": "Art",
-        "url": "https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G"
-      },
-      "artists": [
-        {
-          "name": "Art Farmer",
-          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
-        }
-      ],
-      "duration_ms": 343533,
-      "name": "Younger Than Springtime",
-      "url": "https://open.spotify.com/track/77iHjhK7iJct2ehEfCDh7Y"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -991,26 +991,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "On The Dance Floor",
-        "url": "https://open.spotify.com/album/6mAJVe56utc3J2yd0rTd9B"
-      },
-      "artists": [
-        {
-          "name": "Enrico Rava",
-          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
-        },
-        {
-          "name": "The PM Jazz Lab",
-          "url": "https://open.spotify.com/artist/20UxTDyauW76avunhJfElB"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "Smile - Live",
-      "url": "https://open.spotify.com/track/1Wj6woJQqEheCjZUWLBQU0"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Oscar Peterson Trio Plus One",
         "url": "https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 208240,
       "name": "Squeaky's Blues",
       "url": "https://open.spotify.com/track/5p80CvVYuscVV6ErkZhjpx"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "On The Dance Floor",
+        "url": "https://open.spotify.com/album/6mAJVe56utc3J2yd0rTd9B"
+      },
+      "artists": [
+        {
+          "name": "Enrico Rava",
+          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
+        },
+        {
+          "name": "The PM Jazz Lab",
+          "url": "https://open.spotify.com/artist/20UxTDyauW76avunhJfElB"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "Smile - Live",
+      "url": "https://open.spotify.com/track/1Wj6woJQqEheCjZUWLBQU0"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
+        "name": "Little Johnny C",
+        "url": "https://open.spotify.com/album/7tvH2wvGLShosVtm0RQLJJ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Coles",
+          "url": "https://open.spotify.com/artist/0RKsF1pa3v0hhEeJbt5AxV"
+        }
+      ],
+      "duration_ms": 311000,
+      "name": "Little Johnny C",
+      "url": "https://open.spotify.com/track/59dZlpqcLwgzm8IgEz1oCv"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
         "name": "Cat's in the Alley",
         "url": "https://open.spotify.com/album/2s5MexPafZuOxmXJSJhsI0"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 192626,
       "name": "You're the Cream in My Coffee",
       "url": "https://open.spotify.com/track/7qknVmDKIi9ml9qhyatq8g"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
-        "name": "Little Johnny C",
-        "url": "https://open.spotify.com/album/7tvH2wvGLShosVtm0RQLJJ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Coles",
-          "url": "https://open.spotify.com/artist/0RKsF1pa3v0hhEeJbt5AxV"
-        }
-      ],
-      "duration_ms": 311000,
-      "name": "Little Johnny C",
-      "url": "https://open.spotify.com/track/59dZlpqcLwgzm8IgEz1oCv"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Here Comes Louis Smith",
-        "url": "https://open.spotify.com/album/3mAny7ItvGWEF0EZmyxbRY"
-      },
-      "artists": [
-        {
-          "name": "Louis Smith",
-          "url": "https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX"
-        }
-      ],
-      "duration_ms": 401533,
-      "name": "Ande - Digitally Remastered",
-      "url": "https://open.spotify.com/track/4Fn60Q7QC0lKAC0jWmyP5R"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "A Rift In Decorum: Live At The Village Vanguard",
         "url": "https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 337893,
       "name": "Response - Live",
       "url": "https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Here Comes Louis Smith",
+        "url": "https://open.spotify.com/album/3mAny7ItvGWEF0EZmyxbRY"
+      },
+      "artists": [
+        {
+          "name": "Louis Smith",
+          "url": "https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX"
+        }
+      ],
+      "duration_ms": 401533,
+      "name": "Ande - Digitally Remastered",
+      "url": "https://open.spotify.com/track/4Fn60Q7QC0lKAC0jWmyP5R"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Shine On",
-        "url": "https://open.spotify.com/album/1MuIJkMRNarfyyOSuXFrCa"
-      },
-      "artists": [
-        {
-          "name": "Cat Anderson",
-          "url": "https://open.spotify.com/artist/4RwKOgFBu2p7gQPTi0WkNZ"
-        }
-      ],
-      "duration_ms": 305866,
-      "name": "Don't Get Around Much Anymore",
-      "url": "https://open.spotify.com/track/5QL2vcDP0KffZczij1AYQ6"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Payton's Place",
         "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
       },
@@ -1503,38 +1487,6 @@
       "duration_ms": 429666,
       "name": "Concentric Circles",
       "url": "https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
-        "name": "Byrd's Eye View",
-        "url": "https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 603293,
-      "name": "El Sino",
-      "url": "https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
-        "name": "Why Not",
-        "url": "https://open.spotify.com/album/3ayg5NSGUKMF1bdLRoVWnh"
-      },
-      "artists": [
-        {
-          "name": "Kenny Ball",
-          "url": "https://open.spotify.com/artist/0QyB38XO00qX8Zc0EFzN4w"
-        }
-      ],
-      "duration_ms": 247920,
-      "name": "Tin Roof Blues",
-      "url": "https://open.spotify.com/track/195426YTXn9COJncZ3b94u"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1559,6 +1511,54 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
+        "name": "Byrd's Eye View",
+        "url": "https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 603293,
+      "name": "El Sino",
+      "url": "https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Shine On",
+        "url": "https://open.spotify.com/album/1MuIJkMRNarfyyOSuXFrCa"
+      },
+      "artists": [
+        {
+          "name": "Cat Anderson",
+          "url": "https://open.spotify.com/artist/4RwKOgFBu2p7gQPTi0WkNZ"
+        }
+      ],
+      "duration_ms": 305866,
+      "name": "Don't Get Around Much Anymore",
+      "url": "https://open.spotify.com/track/5QL2vcDP0KffZczij1AYQ6"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Why Not",
+        "url": "https://open.spotify.com/album/3ayg5NSGUKMF1bdLRoVWnh"
+      },
+      "artists": [
+        {
+          "name": "Kenny Ball",
+          "url": "https://open.spotify.com/artist/0QyB38XO00qX8Zc0EFzN4w"
+        }
+      ],
+      "duration_ms": 247920,
+      "name": "Tin Roof Blues",
+      "url": "https://open.spotify.com/track/195426YTXn9COJncZ3b94u"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
         "name": "Lotus Flower",
         "url": "https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH"
       },
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Wonder Why",
-        "url": "https://open.spotify.com/album/3A7xzxjHJeC3q51MpRpBvp"
-      },
-      "artists": [
-        {
-          "name": "Harry \"Sweets\" Edison",
-          "url": "https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN"
-        }
-      ],
-      "duration_ms": 412746,
-      "name": "You're Getting to Be a Habit with Me",
-      "url": "https://open.spotify.com/track/1whYRIGLVb0zN3QBEXKGQ7"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Intimacy Calling - Standard Time Vol. 2",
         "url": "https://open.spotify.com/album/29wn21i5jOaSZwktC65FMe"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 514293,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/7lG57Wyg0QqT7p1BFIdzoE"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Wonder Why",
+        "url": "https://open.spotify.com/album/3A7xzxjHJeC3q51MpRpBvp"
+      },
+      "artists": [
+        {
+          "name": "Harry \"Sweets\" Edison",
+          "url": "https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN"
+        }
+      ],
+      "duration_ms": 412746,
+      "name": "You're Getting to Be a Habit with Me",
+      "url": "https://open.spotify.com/track/1whYRIGLVb0zN3QBEXKGQ7"
     },
     {
       "added_at": "2024-11-08 10:26:51",

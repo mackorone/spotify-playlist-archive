@@ -4259,6 +4259,32 @@
     },
     {
       "album": {
+        "name": "Negra Caderona",
+        "url": "https://open.spotify.com/album/0t7WacPMBblH6j3wJBDpoC"
+      },
+      "artists": [
+        {
+          "name": "Onda Sabanera",
+          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        },
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233520,
+      "name": "Negra Caderona",
+      "url": "https://open.spotify.com/track/6DbGZDK2NIFgCVIhEX314V"
+    },
+    {
+      "album": {
         "name": "No Llores",
         "url": "https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT"
       },
@@ -5140,7 +5166,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 198823,
       "name": "Pod\u00e9s pedirme perd\u00f3n",
       "url": "https://open.spotify.com/track/4AVSVpsAUkji9gTQHeSG0r"
@@ -6106,6 +6132,28 @@
       "duration_ms": 229500,
       "name": "Sin Ayuda",
       "url": "https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG"
+    },
+    {
+      "album": {
+        "name": "Sin Cadenas",
+        "url": "https://open.spotify.com/album/1q8MbrlzmYGA5FzlnxiuqU"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211238,
+      "name": "Sin Cadenas",
+      "url": "https://open.spotify.com/track/44jagrCVBUPKsyTRKFX22r"
     },
     {
       "album": {
@@ -7196,7 +7244,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 153868,
       "name": "Vestido Rojo",
       "url": "https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX"

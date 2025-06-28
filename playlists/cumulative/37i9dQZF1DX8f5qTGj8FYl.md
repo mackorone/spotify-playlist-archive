@@ -4,7 +4,7 @@
 
 > When the funk is too funky for words to keep up\. Cover: Cory Wong
 
-274 songs - 18 hr 51 min
+275 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Chili Wa Man](https://open.spotify.com/track/73wTZTmfSWoUbTk6daCj4S) | [John Tropea](https://open.spotify.com/artist/0WPM7cWlRjCwho6G09x2S2) | [Gotcha Rhythm Right Here](https://open.spotify.com/album/5Ru54rs8Wr4ojekCyKHsz0) | 5:52 | 2020-11-13 |  |
 | [Cinnamon Babka](https://open.spotify.com/track/0uumBUb47WpPMNovu2YfvV) | [Brothers Of My Uncle](https://open.spotify.com/artist/4bVktS3aLOw3TDNe320GxO), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP), [David James](https://open.spotify.com/artist/4KgrOkFtGl8MNhI3kFZSVX), [Tane](https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3) | [Cinnamon Babka](https://open.spotify.com/album/3dNivSmjjYv09S7Iei4KKT) | 3:46 | 2021-10-15 | 2022-07-29 |
 | [Clydesdale](https://open.spotify.com/track/2P2EjjN0iqptFNLjOaMPAN) | [Polyrhythmics](https://open.spotify.com/artist/43pamwJj22NKepRqNeS412) | [Filter System](https://open.spotify.com/album/1pzmwIXLmqfeDkYP4J1Aaj) | 3:57 | 2023-09-29 |  |
+| [Code 12 \(Vinyl Cut\) \- Masterlink Sessions](https://open.spotify.com/track/1D5PyI6R5KhemFCHw6DPsd) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA), [Horn House](https://open.spotify.com/artist/5HMo9VXm5R91AzkQBqNrlu), [Mike Outram](https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ), [Tony Remy](https://open.spotify.com/artist/4ZPe9yodynCxVDpH4uExp0) | [Code 12 \(Vinyl Cut\) \[Masterlink Sessions\]](https://open.spotify.com/album/27xzfAs442iCF36O7mwiqV) | 3:52 | 2025-06-27 |  |
 | [Colonel Panic](https://open.spotify.com/track/1TllJ3vB5l9NL3IgAvC684) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [Tailwinds.](https://open.spotify.com/album/2dNlfSEAakmsqr7pXtKsDt) | 2:32 | 2020-11-13 | 2022-07-29 |
 | [Colonel Panic](https://open.spotify.com/track/28HHPAwdeLxYcmXAnihqcx) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 2:32 | 2020-11-13 | 2023-08-05 |
 | [Confidence Game](https://open.spotify.com/track/3xz8R8cnKGkbuaaxlDY3I2) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj) | [Good Soul](https://open.spotify.com/album/2bQ5Y3cltP19QjFBAb1rBT) | 2:16 | 2020-11-13 |  |
@@ -163,7 +164,7 @@
 | [Machine Gun](https://open.spotify.com/track/2yR1vuZW5Jt48Hlu6JalIj) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [20th Century Masters: The Millennium Collection: Best Of The Commodores](https://open.spotify.com/album/6aXVFVlIILssiJFxUlR8p7) | 2:39 | 2020-11-13 |  |
 | [Make It Happen](https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9) | [Jay Soto](https://open.spotify.com/artist/2OIuUCT4X13OZg9tblSQHf) | [Stay Awhile](https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1) | 4:15 | 2020-11-13 |  |
 | [Missy's Strut](https://open.spotify.com/track/2oChEoxQkpXyJEBpzt3PMA) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [Songs from the House of Grease](https://open.spotify.com/album/2qqpahdgQM6RLq8qyEmmGH) | 3:55 | 2023-01-13 |  |
-| [Monster Funk](https://open.spotify.com/track/0RyrQ4Xh6Z0wE8DQOjKvUa) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [The Hang](https://open.spotify.com/album/5FdoriWGj43O0QvPixLKY6) | 3:52 | 2020-11-13 |  |
+| [Monster Funk](https://open.spotify.com/track/0RyrQ4Xh6Z0wE8DQOjKvUa) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [The Hang](https://open.spotify.com/album/5FdoriWGj43O0QvPixLKY6) | 3:52 | 2020-11-13 | 2025-06-28 |
 | [Montuno Funk](https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl) | [Solsonics](https://open.spotify.com/artist/0hRcHqu2R885utzNyofwbj) | [Jazz In The Present Tense](https://open.spotify.com/album/6mB4Dw3ryI693Cpm1KOYIK) | 4:09 | 2020-11-13 |  |
 | [Mr Bong](https://open.spotify.com/track/51DMIydCssADRLfnmgt8ZI) | [Funky Destination](https://open.spotify.com/artist/2FK2jZ7cuokxYOC5nSM7bK) | [Praise Me Now](https://open.spotify.com/album/1XWqVrK5rTsKxL4rXrjHm5) | 3:40 | 2021-07-09 |  |
 | [N.E.G.U](https://open.spotify.com/track/5vKuE21kmH89BH5w5yWume) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Alfredo Rodriguez](https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O) | [S3NS](https://open.spotify.com/album/1XWCws077Z4B9SwwUzOAfo) | 5:57 | 2020-11-13 |  |

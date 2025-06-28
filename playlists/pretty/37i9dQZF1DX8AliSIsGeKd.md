@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Boris Brejcha
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,351 likes - 90 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,781 likes - 90 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 21 | [It Starts](https://open.spotify.com/track/4pXJy96uVpKCZAxLvOtA85) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [It Starts](https://open.spotify.com/album/2ltU8W98zEwT2or6f9Ipto) | 3:21 |
 | 22 | [Void](https://open.spotify.com/track/078ebbIM9LFsBBrXcCF9Mi) | [Jo van der Meer](https://open.spotify.com/artist/761qf6aqfjAfNtEt3PLIYV), [Benzsoul](https://open.spotify.com/artist/0XXC5Wa9jqrU83q3lwGAhf) | [Void](https://open.spotify.com/album/6dqdSdPaaRpYWm2yvrgkwq) | 4:34 |
 | 23 | [Baddy](https://open.spotify.com/track/3InSOpl9ruUyg4ncpucsaw) | [Bob Tosh](https://open.spotify.com/artist/3CSNiJzkKeRXlfiXyzEygS), [Lucciana](https://open.spotify.com/artist/3UrEXFXtiF8uGEN1DsdlOk) | [Baddy](https://open.spotify.com/album/4YtMYu5pP6158tVv8mhFEW) | 3:18 |
-| 24 | [VoXxx](https://open.spotify.com/track/5Tmf2uluEY6suoJILYEYN4) | [InntRaw](https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw), [NADIN](https://open.spotify.com/artist/7BOP5zROcTrfbNWHt4moqK) | [VoXxx](https://open.spotify.com/album/6owsV8rUixRbMX06fOkrqh) | 4:07 |
+| 24 | [VoXxx \(PRX004\)](https://open.spotify.com/track/5Tmf2uluEY6suoJILYEYN4) | [InntRaw](https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw), [NADIN](https://open.spotify.com/artist/7BOP5zROcTrfbNWHt4moqK) | [VoXxx \(PRX004\)](https://open.spotify.com/album/6owsV8rUixRbMX06fOkrqh) | 4:07 |
 | 25 | [Colors of Life](https://open.spotify.com/track/4EE8pIDDDGw5IUyfN1qsLX) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK) | [Colors of Life](https://open.spotify.com/album/3GO3Ohu6uDnC5In7k2XTzF) | 3:57 |
 | 26 | [Sleaze](https://open.spotify.com/track/0B2152BtEBl4iEgWZiWVnj) | [Lady Tazz](https://open.spotify.com/artist/0cl645HHNlA8HZeey3S3TY) | [Sleaze](https://open.spotify.com/album/1EFAaNUgf2OqVTxBXk1PXD) | 6:10 |
 | 27 | [Dream Is Burning](https://open.spotify.com/track/3LGbaWTpQihGZIEIe6CN4U) | [AAD \(DE\)](https://open.spotify.com/artist/1iQt6buljlclV4Xgiyamfm), [Chris Veron](https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S) | [Dream Is Burning](https://open.spotify.com/album/2F07GjB5k6jSkimqSJHcyW) | 3:10 |

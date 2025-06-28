@@ -4,7 +4,7 @@
 
 > Today's top country music!
 
-234 songs - 12 hr 37 min
+236 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [DEVIL YOU KNOW](https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [DEVIL YOU KNOW](https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM) | 3:12 | 2024-02-02 |  |
 | [Didn't I?](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I?](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 | 2024-07-13 |  |
 | [Dirt Cheap](https://open.spotify.com/track/48X5k2vce5rXckgDAnXMsa) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:59 | 2024-06-05 | 2024-11-02 |
+| [Drink Around](https://open.spotify.com/track/6ZoXthYEqorEbtFMbUMWEv) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [Drink Around](https://open.spotify.com/album/283gVczi9bFI73NZxn4z3k) | 2:28 | 2025-06-28 |  |
 | [Drink Me A Lullaby](https://open.spotify.com/track/2woQa8s7JbF5wV89JwMQLD) | [Josh Stumpf](https://open.spotify.com/artist/3KtMd5CrHVTQd4g3Yq8Btj) | [Drink Me A Lullaby](https://open.spotify.com/album/3txGgYIYQGtUjgq506KUC3) | 3:20 | 2025-03-25 |  |
 | [DRIVES MY TRUCK](https://open.spotify.com/track/296DcuFREy44rdM35rdIyn) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [DRIVES MY TRUCK](https://open.spotify.com/album/6gJPKRr9WMjUIhRAcw1NSQ) | 3:05 | 2025-01-18 |  |
 | [Everybody's Friend](https://open.spotify.com/track/4CjH87e1np3OkwlYQdGOmv) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Everybody's Friend](https://open.spotify.com/album/3sHPQGWO16wBCtaS2zZYOk) | 2:53 | 2024-02-23 | 2025-05-06 |
@@ -126,6 +127,7 @@
 | [Leather](https://open.spotify.com/track/5Z4RdNOVrxle5k7rHeaROb) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:13 | 2023-12-08 | 2024-01-27 |
 | [Leave The Light On \(feat\. Alexandra Kay\)](https://open.spotify.com/track/7zXm5RfPShKDVnbMQb7gJ7) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 3:20 | 2024-07-22 |  |
 | [Left Me In The Dusk](https://open.spotify.com/track/06gWq2O5V29LniLkheByNS) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Left Me In The Dusk](https://open.spotify.com/album/4fTR9hPpT2xTd4YaY78ql5) | 2:50 | 2023-12-08 | 2024-11-02 |
+| [Left To Get Right](https://open.spotify.com/track/5KUD7qUTDNyyweV4zpjxsF) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Spanish Moss](https://open.spotify.com/album/7k56MAd5kMXPEGLlH8s13V) | 3:01 | 2025-06-28 |  |
 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 | 2024-07-13 |  |
 | [Life For Me](https://open.spotify.com/track/0vBJ0WIXHhLsQccXH21AwN) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Life For Me](https://open.spotify.com/album/2QCJTvIknJCxjAamwbjRYf) | 2:53 | 2025-01-28 |  |
 | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN) | 3:30 | 2023-12-08 | 2024-02-24 |

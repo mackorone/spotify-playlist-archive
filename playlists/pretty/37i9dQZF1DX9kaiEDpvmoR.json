@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93466,
+  "num_followers": 93489,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -267,18 +267,18 @@
     {
       "added_at": "2025-06-26 22:00:31",
       "album": {
-        "name": "Sweethearts",
-        "url": "https://open.spotify.com/album/0K3N8ymk6GgL4lxLMPGEOB"
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
       },
       "artists": [
         {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 283480,
-      "name": "Sweethearts",
-      "url": "https://open.spotify.com/track/46pBokNsBdfRifhtpWHkhC"
+      "duration_ms": 242946,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
     },
     {
       "added_at": "2025-06-26 22:00:31",
@@ -299,18 +299,18 @@
     {
       "added_at": "2025-06-26 22:00:31",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
+        "name": "Sweethearts",
+        "url": "https://open.spotify.com/album/0K3N8ymk6GgL4lxLMPGEOB"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
         }
       ],
-      "duration_ms": 242946,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
+      "duration_ms": 283480,
+      "name": "Sweethearts",
+      "url": "https://open.spotify.com/track/46pBokNsBdfRifhtpWHkhC"
     },
     {
       "added_at": "2025-06-26 22:00:31",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-06-26 22:00:31",
       "album": {
+        "name": "Happier Now",
+        "url": "https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr"
+      },
+      "artists": [
+        {
+          "name": "Erik Segerstedt",
+          "url": "https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Happier Now",
+      "url": "https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv"
+    },
+    {
+      "added_at": "2025-06-26 22:00:31",
+      "album": {
         "name": "Sign on the Window",
         "url": "https://open.spotify.com/album/4g6vDw5oX8bU9JWKilMYIx"
       },
@@ -655,6 +671,22 @@
     {
       "added_at": "2025-06-26 22:00:31",
       "album": {
+        "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
+        "url": "https://open.spotify.com/album/6ePGb3D9DncLR78OOrcNza"
+      },
+      "artists": [
+        {
+          "name": "Titiyo",
+          "url": "https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM"
+        }
+      ],
+      "duration_ms": 324360,
+      "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
+      "url": "https://open.spotify.com/track/5WedJ2EitfzHR84d7YO2wi"
+    },
+    {
+      "added_at": "2025-06-26 22:00:31",
+      "album": {
         "name": "L\u00e5ngholmsgatan 2",
         "url": "https://open.spotify.com/album/6i7vOaZpfoy0qyYCocPAJM"
       },
@@ -675,22 +707,6 @@
     {
       "added_at": "2025-06-26 22:00:31",
       "album": {
-        "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
-        "url": "https://open.spotify.com/album/6ePGb3D9DncLR78OOrcNza"
-      },
-      "artists": [
-        {
-          "name": "Titiyo",
-          "url": "https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM"
-        }
-      ],
-      "duration_ms": 324360,
-      "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
-      "url": "https://open.spotify.com/track/5WedJ2EitfzHR84d7YO2wi"
-    },
-    {
-      "added_at": "2025-06-26 22:00:31",
-      "album": {
         "name": "N\u00f6d och lust",
         "url": "https://open.spotify.com/album/6Y7RhVGnwyJxpTgKIGeNYP"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 171940,
       "name": "N\u00f6d och lust",
       "url": "https://open.spotify.com/track/3HhGWw77PZRn7k4YMku96d"
-    },
-    {
-      "added_at": "2025-06-26 22:00:31",
-      "album": {
-        "name": "Happier Now",
-        "url": "https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr"
-      },
-      "artists": [
-        {
-          "name": "Erik Segerstedt",
-          "url": "https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Happier Now",
-      "url": "https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv"
     },
     {
       "added_at": "2025-06-26 22:00:31",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-06-26 22:00:31",
       "album": {
-        "name": "Dance Cry Laugh Smile",
-        "url": "https://open.spotify.com/album/3pAfBKkU6qQczBcS8X11MD"
-      },
-      "artists": [
-        {
-          "name": "John Lundvik",
-          "url": "https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW"
-        }
-      ],
-      "duration_ms": 162937,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/2jOLY3Sjp1DzsMxxvBS5l9"
-    },
-    {
-      "added_at": "2025-06-26 22:00:31",
-      "album": {
         "name": "Stockholm",
         "url": "https://open.spotify.com/album/1NXar6bRMnXksRvgKAM1GH"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 172333,
       "name": "Stockholm",
       "url": "https://open.spotify.com/track/4K6UHA21e8KDpp31rKixEV"
+    },
+    {
+      "added_at": "2025-06-26 22:00:31",
+      "album": {
+        "name": "Dance Cry Laugh Smile",
+        "url": "https://open.spotify.com/album/3pAfBKkU6qQczBcS8X11MD"
+      },
+      "artists": [
+        {
+          "name": "John Lundvik",
+          "url": "https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW"
+        }
+      ],
+      "duration_ms": 162937,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/2jOLY3Sjp1DzsMxxvBS5l9"
     },
     {
       "added_at": "2025-06-26 22:00:31",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-06-26 22:00:31",
       "album": {
-        "name": "ICONIC",
-        "url": "https://open.spotify.com/album/5s1DZmhfJzyl3jaWKtVaS7"
-      },
-      "artists": [
-        {
-          "name": "Maja Ivarsson",
-          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "ICONIC",
-      "url": "https://open.spotify.com/track/35OYbuQ13AT4lSgk5C3Txv"
-    },
-    {
-      "added_at": "2025-06-26 22:00:31",
-      "album": {
         "name": "\u00c4lskade v\u00e4n",
         "url": "https://open.spotify.com/album/2z2kXYzNFlTp3FYmThV1Uw"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 199336,
       "name": "\u00c4lskade v\u00e4n",
       "url": "https://open.spotify.com/track/6ROMGo5KcACNoRxjyp2uEh"
+    },
+    {
+      "added_at": "2025-06-26 22:00:31",
+      "album": {
+        "name": "ICONIC",
+        "url": "https://open.spotify.com/album/5s1DZmhfJzyl3jaWKtVaS7"
+      },
+      "artists": [
+        {
+          "name": "Maja Ivarsson",
+          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "ICONIC",
+      "url": "https://open.spotify.com/track/35OYbuQ13AT4lSgk5C3Txv"
     },
     {
       "added_at": "2025-06-26 22:00:31",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-06-26 22:00:31",
       "album": {
-        "name": "K\u00e4nner ni igen er",
-        "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
-      },
-      "artists": [
-        {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
-        }
-      ],
-      "duration_ms": 279303,
-      "name": "K\u00e4nner ni igen er",
-      "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
-    },
-    {
-      "added_at": "2025-06-26 22:00:31",
-      "album": {
         "name": "Dansa i neon",
         "url": "https://open.spotify.com/album/7iAqElCjbYi83uxAuWDCZt"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 195113,
       "name": "Dansa i neon",
       "url": "https://open.spotify.com/track/3KyfoGVGB48ycd2fG1Boyt"
+    },
+    {
+      "added_at": "2025-06-26 22:00:31",
+      "album": {
+        "name": "K\u00e4nner ni igen er",
+        "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
+      },
+      "artists": [
+        {
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
+        }
+      ],
+      "duration_ms": 279303,
+      "name": "K\u00e4nner ni igen er",
+      "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
     },
     {
       "added_at": "2025-06-26 22:00:31",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-06-26 22:00:31",
       "album": {
-        "name": "Swan Song",
-        "url": "https://open.spotify.com/album/2b0h82VV0V8GUAJtOSaAUO"
-      },
-      "artists": [
-        {
-          "name": "Weeping Willows",
-          "url": "https://open.spotify.com/artist/6f3he2xOHHHSZ0JVhTRIVj"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "Swan Song",
-      "url": "https://open.spotify.com/track/52wQ5yIHQ8UNBPMCmbD9PJ"
-    },
-    {
-      "added_at": "2025-06-26 22:00:31",
-      "album": {
         "name": "V\u00e5r b\u00e4sta tid",
         "url": "https://open.spotify.com/album/4axxNXvgZVi1BIL9Oo5bX5"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2025-06-26 22:00:31",
       "album": {
-        "name": "Men bara om min \u00e4lskade v\u00e4ntar",
-        "url": "https://open.spotify.com/album/1lrxyWuwPuvtGUdePj8kDq"
+        "name": "Swan Song",
+        "url": "https://open.spotify.com/album/2b0h82VV0V8GUAJtOSaAUO"
       },
       "artists": [
         {
-          "name": "Nationalteatern",
-          "url": "https://open.spotify.com/artist/3GBq0lnwXpfnLmMndLDZ6U"
+          "name": "Weeping Willows",
+          "url": "https://open.spotify.com/artist/6f3he2xOHHHSZ0JVhTRIVj"
         }
       ],
-      "duration_ms": 213774,
-      "name": "Men bara om min \u00e4lskade v\u00e4ntar",
-      "url": "https://open.spotify.com/track/2qXNwe6y98lazXUD8MhuKO"
+      "duration_ms": 242013,
+      "name": "Swan Song",
+      "url": "https://open.spotify.com/track/52wQ5yIHQ8UNBPMCmbD9PJ"
     },
     {
       "added_at": "2025-06-26 22:00:31",
@@ -1119,6 +1103,22 @@
       "duration_ms": 235705,
       "name": "East River Park Song",
       "url": "https://open.spotify.com/track/0nIxDReCiyq1DwkFdLvXbR"
+    },
+    {
+      "added_at": "2025-06-26 22:00:31",
+      "album": {
+        "name": "Men bara om min \u00e4lskade v\u00e4ntar",
+        "url": "https://open.spotify.com/album/1lrxyWuwPuvtGUdePj8kDq"
+      },
+      "artists": [
+        {
+          "name": "Nationalteatern",
+          "url": "https://open.spotify.com/artist/3GBq0lnwXpfnLmMndLDZ6U"
+        }
+      ],
+      "duration_ms": 213774,
+      "name": "Men bara om min \u00e4lskade v\u00e4ntar",
+      "url": "https://open.spotify.com/track/2qXNwe6y98lazXUD8MhuKO"
     },
     {
       "added_at": "2025-06-26 22:00:31",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2025-06-26 22:00:31",
       "album": {
-        "name": "Kamikaze Life EP",
-        "url": "https://open.spotify.com/album/5RPK7laTtrNhcZcSS2rvkz"
+        "name": "Just idag \u00e4r jag stark",
+        "url": "https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV"
       },
       "artists": [
         {
-          "name": "Maja Ivarsson",
-          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
         }
       ],
-      "duration_ms": 136306,
-      "name": "Opening Act",
-      "url": "https://open.spotify.com/track/31ipMJcQ781rbIVshfR5pz"
+      "duration_ms": 206800,
+      "name": "Just idag \u00e4r jag stark",
+      "url": "https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH"
     },
     {
       "added_at": "2025-06-26 22:00:31",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2025-06-26 22:00:31",
       "album": {
-        "name": "Just idag \u00e4r jag stark",
-        "url": "https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV"
+        "name": "Kamikaze Life EP",
+        "url": "https://open.spotify.com/album/5RPK7laTtrNhcZcSS2rvkz"
       },
       "artists": [
         {
-          "name": "Arvid Nero",
-          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+          "name": "Maja Ivarsson",
+          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
         }
       ],
-      "duration_ms": 206800,
-      "name": "Just idag \u00e4r jag stark",
-      "url": "https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH"
+      "duration_ms": 136306,
+      "name": "Opening Act",
+      "url": "https://open.spotify.com/track/31ipMJcQ781rbIVshfR5pz"
     },
     {
       "added_at": "2025-06-26 22:00:31",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2025-06-26 22:00:31",
       "album": {
-        "name": "A Moment Longer / Love / Luck",
-        "url": "https://open.spotify.com/album/6R4nipm3Fr9OTFLjRbYcPp"
-      },
-      "artists": [
-        {
-          "name": "James Yorkston",
-          "url": "https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw"
-        },
-        {
-          "name": "Johanna S\u00f6derberg",
-          "url": "https://open.spotify.com/artist/5rdooMl2nQgTmhpklY2PVL"
-        }
-      ],
-      "duration_ms": 248760,
-      "name": "Love / Luck",
-      "url": "https://open.spotify.com/track/2dEkU2gOq5XhWdmB472K2X"
-    },
-    {
-      "added_at": "2025-06-26 22:00:31",
-      "album": {
         "name": "V\u00e5rens sista dag",
         "url": "https://open.spotify.com/album/13ashXdwC7vLnIzHxoj3r9"
       },
@@ -1431,18 +1411,22 @@
     {
       "added_at": "2025-06-26 22:00:31",
       "album": {
-        "name": "Dagar utan slut",
-        "url": "https://open.spotify.com/album/11bnmwGiPmxTDtbnBPxSq3"
+        "name": "A Moment Longer / Love / Luck",
+        "url": "https://open.spotify.com/album/6R4nipm3Fr9OTFLjRbYcPp"
       },
       "artists": [
         {
-          "name": "Andreas Weise",
-          "url": "https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB"
+          "name": "James Yorkston",
+          "url": "https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw"
+        },
+        {
+          "name": "Johanna S\u00f6derberg",
+          "url": "https://open.spotify.com/artist/5rdooMl2nQgTmhpklY2PVL"
         }
       ],
-      "duration_ms": 162332,
-      "name": "Dagar utan slut",
-      "url": "https://open.spotify.com/track/4lJ8etGLqabsSiJSmcHVWU"
+      "duration_ms": 248760,
+      "name": "Love / Luck",
+      "url": "https://open.spotify.com/track/2dEkU2gOq5XhWdmB472K2X"
     },
     {
       "added_at": "2025-06-26 22:00:31",
@@ -1475,6 +1459,22 @@
       "duration_ms": 272980,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/0OFAFAZed5rbdxM5YnQyt4"
+    },
+    {
+      "added_at": "2025-06-26 22:00:31",
+      "album": {
+        "name": "Dagar utan slut",
+        "url": "https://open.spotify.com/album/11bnmwGiPmxTDtbnBPxSq3"
+      },
+      "artists": [
+        {
+          "name": "Andreas Weise",
+          "url": "https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB"
+        }
+      ],
+      "duration_ms": 162332,
+      "name": "Dagar utan slut",
+      "url": "https://open.spotify.com/track/4lJ8etGLqabsSiJSmcHVWU"
     },
     {
       "added_at": "2025-06-26 22:00:31",

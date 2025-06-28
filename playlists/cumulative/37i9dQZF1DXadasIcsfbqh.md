@@ -2,9 +2,9 @@
 
 ### [Pop Country](https://open.spotify.com/playlist/37i9dQZF1DXadasIcsfbqh)
 
-> Pop country hits of today and tomorrow\. Cover: Josh Ross and Akon
+> Pop country hits of today and tomorrow\. Cover: Diplo and Bailey Zimmerman
 
-335 songs - 17 hr 24 min
+336 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Almost Maybes](https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Almost Maybes](https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD) | 2:59 | 2021-12-17 |  |
 | [Always Gonna Love You](https://open.spotify.com/track/5wTt43UbS3HmDvzAJ7Yax3) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 2:57 | 2021-12-17 | 2024-09-14 |
 | [Anything She Says](https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Anything She Says](https://open.spotify.com/album/0xuuAAiiNHuLd3QUstmwMQ) | 2:49 | 2021-12-17 |  |
+| [Ashes](https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Ashes](https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg) | 3:03 | 2025-06-27 |  |
 | [Attention](https://open.spotify.com/track/2QU0RvgW6y0ePMPATJGemH) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Attention](https://open.spotify.com/album/4aEpV2d6LOIsKqsmdueLTD) | 3:37 | 2024-01-12 | 2024-03-09 |
 | [Baby I Am](https://open.spotify.com/track/29XXIfVUURyxLnMD5K6OZl) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Never Giving Up On That](https://open.spotify.com/album/34AyKaRR2hTQOHTmaxUeDD) | 2:54 | 2023-12-08 | 2024-04-19 |
 | [Baby I Am](https://open.spotify.com/track/3pD2qgImjXbfepb5mksDp3) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/5bg19JZRGPWA2ubmplCSt2) | 2:56 | 2022-09-23 | 2023-09-25 |
@@ -342,6 +343,6 @@
 | [Y'all Life \(feat\. Ciara\)](https://open.spotify.com/track/19Zc2DohB8aihlDOrONMUQ) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Y'all Life \(feat\. Ciara\)](https://open.spotify.com/album/68lDrqwjVOebqh6f580Eac) | 3:12 | 2022-10-14 | 2022-12-17 |
 | [You Could](https://open.spotify.com/track/2HyCPU7CZOdmhyZPIeOPWy) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Danielle](https://open.spotify.com/album/5FVRKekEp0D2cUH0hK59zV) | 3:18 | 2024-09-06 | 2025-05-31 |
 | [You Proof](https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [You Proof](https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI) | 2:37 | 2022-05-13 | 2025-05-20 |
-| [YOU WON'T LET ME STAY](https://open.spotify.com/track/4wtXSiCJYGyQL0Io6OHJog) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [YOU WON'T LET ME STAY](https://open.spotify.com/album/5TYMpDKvyYL62bJNVPuPSw) | 2:57 | 2024-12-13 |  |
+| [YOU WON'T LET ME STAY](https://open.spotify.com/track/4wtXSiCJYGyQL0Io6OHJog) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [YOU WON'T LET ME STAY](https://open.spotify.com/album/5TYMpDKvyYL62bJNVPuPSw) | 2:57 | 2024-12-13 | 2025-06-28 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

@@ -15661,6 +15661,24 @@
     },
     {
       "album": {
+        "name": "VANITY FAIR",
+        "url": "https://open.spotify.com/album/5SK5yKEwRpWhMjOAFzBrfM"
+      },
+      "artists": [
+        {
+          "name": "Seraf",
+          "url": "https://open.spotify.com/artist/2fjQDRlgyQEJa4D30EHsk6"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173076,
+      "name": "VANITY FAIR",
+      "url": "https://open.spotify.com/track/1MaCpFUSIh7EfEV3LekXVy"
+    },
+    {
+      "album": {
         "name": "Vedi Me",
         "url": "https://open.spotify.com/album/0AR0J6bOBqvXdPixwvkBTN"
       },

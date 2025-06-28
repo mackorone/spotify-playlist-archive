@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125239,
+  "num_followers": 125234,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUQHrvr+0QDL6yQ04DqPDP1V/vVqn1",
+  "snapshot_id": "AAAUQ+rLkdlgcXyGx3jCKSs27YMhgdeI",
   "tracks": [
+    {
+      "added_at": "2025-06-27 14:38:02",
+      "album": {
+        "name": "Canvas",
+        "url": "https://open.spotify.com/album/2KFNPVSYpmgbUi7GWnTWRv"
+      },
+      "artists": [
+        {
+          "name": "Paper Skies",
+          "url": "https://open.spotify.com/artist/3jtjn7NRlzHNIqdPvRf2WA"
+        }
+      ],
+      "duration_ms": 127448,
+      "name": "Canvas",
+      "url": "https://open.spotify.com/track/5emVaZ8lh03pO2CGT3doLa"
+    },
     {
       "added_at": "2025-06-26 13:23:44",
       "album": {

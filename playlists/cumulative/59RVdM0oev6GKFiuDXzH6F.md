@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-985 songs - 2 day 2 hr 22 min
+986 songs - 2 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [BAD](https://open.spotify.com/track/7HJ36tzl7OSLgFeRuCNvdZ) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy) | [BAD](https://open.spotify.com/album/1EzcPlcG2jDgxZE7TuHVdR) | 2:21 | 2023-11-24 | 2024-09-26 |
 | [Bad Boy For Life](https://open.spotify.com/track/21svQEALLlrbJNYeRxMeWg) | [Vasovski Live](https://open.spotify.com/artist/2tDYKg6IgydH7HnIdEz0v7) | [Bad Boy for Life](https://open.spotify.com/album/0ffRbCgRegpS6ucR1MBTcE) | 2:08 | 2024-06-10 | 2024-11-16 |
 | [Bad Boys](https://open.spotify.com/track/0JPcvd0v324wxse9XhvT7a) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Alex O'Clock](https://open.spotify.com/artist/2K91we4sYTdu2m0nRdO940) | [Bad Boys](https://open.spotify.com/album/1h91E7DWJbcg7YVuCmXReC) | 2:16 | 2024-05-17 | 2025-01-09 |
-| [Bad Girls](https://open.spotify.com/track/7bCfSIVQZLVMAe2Z1lxsMM) | [Juicy M](https://open.spotify.com/artist/6klooWKc13AOY1BVfE0Tm6), [AVE](https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE) | [Bad Girls](https://open.spotify.com/album/75whS2GTKoE2GkihiuFsvk) | 2:03 | 2025-05-08 |  |
+| [Bad Girls](https://open.spotify.com/track/7bCfSIVQZLVMAe2Z1lxsMM) | [Juicy M](https://open.spotify.com/artist/6klooWKc13AOY1BVfE0Tm6), [AVE](https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE) | [Bad Girls](https://open.spotify.com/album/75whS2GTKoE2GkihiuFsvk) | 2:03 | 2025-05-08 | 2025-06-28 |
 | [Bad Habit](https://open.spotify.com/track/0ZmREvEBuI9cFimAmn86m9) | [Avi Sic](https://open.spotify.com/artist/2zkKco91JEZWEnIYrWHZNe), [Nessø](https://open.spotify.com/artist/15zqFxyXkm096rs1qnVn7b) | [Bad Habit](https://open.spotify.com/album/5Soouc6xGiJ6qOZXWqBeir) | 3:06 | 2024-12-30 |  |
 | [BADBOI](https://open.spotify.com/track/2shX2AfRy5SVxdiOVC7pEy) | [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx), [Juicy M](https://open.spotify.com/artist/6klooWKc13AOY1BVfE0Tm6) | [BADBOI](https://open.spotify.com/album/0nA8t6L8TbLC9k58b6FmNf) | 2:30 | 2023-10-13 | 2024-10-11 |
 | [Baila Con](https://open.spotify.com/track/5a291zhrgHNrJG7rcNiPKt) | [DYKMN](https://open.spotify.com/artist/14EmMLXXkINp4y0hVuG5xf) | [Baila Con](https://open.spotify.com/album/3z7iEcGXkQgSqC89lqPLXl) | 3:05 | 2024-04-12 | 2024-04-26 |
@@ -819,6 +819,7 @@
 | [Take Me Away](https://open.spotify.com/track/1cs1kaN1LzB6bthOFH01Q2) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [Take Me Away](https://open.spotify.com/album/3w0ZKUzyBG3hkwvV3RcOAw) | 2:26 | 2024-08-01 |  |
 | [Take Me Higher](https://open.spotify.com/track/67XJUKj8k8hKyjjn0sG8xA) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [DES3ETT](https://open.spotify.com/artist/2tBbq6Y0ejbtc8tNWtaMyN), [Georgia Meek](https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS) | [Take Me Higher](https://open.spotify.com/album/0ZcoPTlFVu4qjJuDtwFeIg) | 2:22 | 2023-03-31 | 2023-12-23 |
 | [Take Me Home \(feat\. Jess Ball\)](https://open.spotify.com/track/5iX6vuK0LxrNUtuTjj4kpq) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6), [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Take Me Home \(feat\. Jess Ball\)](https://open.spotify.com/album/1vd47POdgb0JOJ09y9kWHl) | 3:05 | 2024-12-05 | 2025-03-14 |
+| [Take Me Up](https://open.spotify.com/track/4TFAJcfrpSI0rxtpnZFapq) | [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa), [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf) | [Take Me Up](https://open.spotify.com/album/0B7J9NOizvdbYdJBAEAq84) | 3:07 | 2025-06-27 |  |
 | [Take U](https://open.spotify.com/track/1YwWHm6Ad1fizVPaQ8nrco) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Take U](https://open.spotify.com/album/1BsEalQCwpuAbqQloCDY9u) | 2:42 | 2023-12-01 | 2025-01-09 |
 | [Take You There](https://open.spotify.com/track/7t7X4jD3T3zUhM8xmGQjaj) | [Patrick Whale](https://open.spotify.com/artist/5HPKe8B0YzqNGrpmYqSNeW) | [Take You There EP](https://open.spotify.com/album/3u52zcaTB9naGJcKKSyFCq) | 2:52 | 2024-09-18 | 2024-10-25 |
 | [Taking The Lead](https://open.spotify.com/track/0zVM0ZoanmvbigiKcqJmcc) | [ZEZART](https://open.spotify.com/artist/4hOjMwZbhnhHmL9CoYmCBK) | [Taking The Lead](https://open.spotify.com/album/7xEu87Hg2vAoi5E9delp97) | 3:20 | 2023-11-24 | 2025-01-09 |

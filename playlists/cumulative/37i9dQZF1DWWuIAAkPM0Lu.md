@@ -4,7 +4,7 @@
 
 > Det er fredag! Ny musik fra ICEKIID og Artigeardit, Lewis Capaldi, MAS og mange flere 👀
 
-6,127 songs - 13 day 4 hr 4 min
+6,130 songs - 13 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -841,6 +841,7 @@
 | [Campingsangen](https://open.spotify.com/track/6ih43fu9hehE11lbYXsRNK) | [Campisterne](https://open.spotify.com/artist/6MfSS7IUnmZSUbHpCMfiZU) | [Campingsangen](https://open.spotify.com/album/16mWHI96ZgaDTuLp6L5cjw) | 2:33 | 2025-02-14 | 2025-02-21 |
 | [Can I Go Back In Time?](https://open.spotify.com/track/013V9cQ2zRqM3Sy1Tvzfh2) | [Gonçalo](https://open.spotify.com/artist/2ZGAXUydLLiHcpg7mdpiTT) | [Can I Go Back In Time?](https://open.spotify.com/album/0joInyiG4blQpQ4DqyQJTI) | 3:19 | 2024-09-05 | 2024-09-13 |
 | [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 | 2025-03-06 | 2025-03-14 |
+| [Can We Talk?](https://open.spotify.com/track/1NeL0geu5M3lya479QuA6q) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Can We Talk?](https://open.spotify.com/album/5bzaSX78ybcXW55HFe8xZi) | 3:08 | 2025-06-27 |  |
 | [Can You Die From a Broken Heart \- feat\. Avril Lavigne](https://open.spotify.com/track/5GgOktu3FrHdb26jTrS4AK) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Can You Die From a Broken Heart \(feat\. Avril Lavigne\)](https://open.spotify.com/album/2KDbfU7ZAp8kOdFYZZadim) | 3:30 | 2024-10-03 | 2024-10-11 |
 | [Can You Feel Me \(feat\. Legend\)](https://open.spotify.com/track/6FQlvBbMADksaic1zeLnm7) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Legend](https://open.spotify.com/artist/1uYRvaxuzglTXqvtw59b21) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 2:58 | 2024-07-18 | 2024-07-27 |
 | [Can't Find Love](https://open.spotify.com/track/4BRaMsOYVgkm2YkbLwhOAg) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Can't Find Love](https://open.spotify.com/album/6wMm38swlyVsXMucMGsM1H) | 3:20 | 2025-02-20 | 2025-02-28 |
@@ -3337,6 +3338,7 @@
 | [Looking Back](https://open.spotify.com/track/2mn34vDv40WpobWZzajy5q) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Looking Back](https://open.spotify.com/album/5phyDbVHyJHbh8X5iRtL6h) | 3:55 | 2025-05-08 | 2025-05-16 |
 | [Looking For Love](https://open.spotify.com/track/2gol2X0eHr9XHvQLOi7fGS) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Looking For Love](https://open.spotify.com/album/48FCnfSreWk0y3jyyZjdx1) | 2:53 | 2024-11-14 | 2024-11-22 |
 | [Looking Up](https://open.spotify.com/track/2L255DSg5DJbmHlFrxp2Nq) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [THE ART OF BEING A MESS](https://open.spotify.com/album/0t6PMy3FcoonbnnSkxTRyf) | 2:25 | 2025-06-26 |  |
+| [Loosen Up](https://open.spotify.com/track/299dSBpKciGfnsCHumMlsN) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Dawty](https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe), [Preston Harris](https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8) | [Loosen Up](https://open.spotify.com/album/7g7ILKp6dIcfzoxu0bbn4j) | 3:00 | 2025-06-27 |  |
 | [Lose A You](https://open.spotify.com/track/4MnwCK9oVKd5tFAS650iV2) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Lose A You](https://open.spotify.com/album/2DZhu7U1X56ajbmvwUb1on) | 3:09 | 2025-01-30 | 2025-02-07 |
 | [Lose Control](https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Lose Control](https://open.spotify.com/album/3rsduxrdgM9tOXbdy3BByj) | 2:36 | 2025-01-09 | 2025-01-17 |
 | [Lose It](https://open.spotify.com/track/49A2aHajwGDX9LeqFjSiMY) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq) | [Lose It](https://open.spotify.com/album/5TUt3vnfxzh9v2s2VBMk4O) | 3:38 | 2025-02-27 | 2025-03-07 |
@@ -4059,6 +4061,7 @@
 | [On and On](https://open.spotify.com/track/28tvB0Wj8RjpGeGW0pgE3q) | [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [On and On](https://open.spotify.com/album/1dHXJErcUGgS8R5Awig6VS) | 3:09 | 2024-05-16 | 2024-05-24 |
 | [On and On and On](https://open.spotify.com/track/7aLXAoR6RB5qQmBRvKE2kO) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [On and On and On](https://open.spotify.com/album/5WVwKAUf52Lo1QxZLOYTFj) | 2:59 | 2025-02-06 | 2025-02-14 |
 | [On It](https://open.spotify.com/track/5FNJR4YcgpNgQXjLTktubu) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Ung & Dum](https://open.spotify.com/album/0aibQYq60BClz1s2jmDTHx) | 2:27 | 2024-04-26 | 2024-05-03 |
+| [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 | 2025-06-27 |  |
 | [On My Mind](https://open.spotify.com/track/1j3y50iEH5mjAI4WAf9Iij) | [CRASKIN](https://open.spotify.com/artist/74dVJIYf0gK6XyKNaNlHAz) | [On My Mind](https://open.spotify.com/album/6p6ZsyK4nm0HEBcFNGl8SB) | 3:18 | 2025-02-13 | 2025-02-21 |
 | [On My Mind](https://open.spotify.com/track/5tiWRhHdvTnLLVoROmdXvB) | [Freyer](https://open.spotify.com/artist/5rWDaIemV0O8diTTcitrZ4), [noo](https://open.spotify.com/artist/0qEvF1W4JTqZ1gV6HhI8Le) | [On My Mind](https://open.spotify.com/album/0GV2NIENG6xTKQXlElhQCv) | 3:29 | 2024-07-25 | 2024-08-02 |
 | [On My Mind](https://open.spotify.com/track/7kcfd8l42gTINabHEdhnUW) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt) | [On My Mind](https://open.spotify.com/album/5gjCkv7GiumIWARFJSnVdX) | 2:23 | 2024-09-26 | 2024-10-04 |

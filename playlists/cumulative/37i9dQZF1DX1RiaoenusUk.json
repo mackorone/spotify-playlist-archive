@@ -1717,6 +1717,32 @@
     },
     {
       "album": {
+        "name": "Los piratas (Portal Sessions)",
+        "url": "https://open.spotify.com/album/5DxUdYRUYcRW5ZH7qRjF0o"
+      },
+      "artists": [
+        {
+          "name": "Portal Sessions",
+          "url": "https://open.spotify.com/artist/5EU23oxWb2gKorPhZRJfXN"
+        },
+        {
+          "name": "An Espil",
+          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+        },
+        {
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199311,
+      "name": "Los piratas (Portal Sessions)",
+      "url": "https://open.spotify.com/track/4OATyXnNPGBcMn3OHzxqMu"
+    },
+    {
+      "album": {
         "name": "LOVE BUSINESS",
         "url": "https://open.spotify.com/album/5dXTa851mvVhUI4nnK7gaA"
       },
@@ -2490,7 +2516,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 210000,
       "name": "San Francisco Nights",
       "url": "https://open.spotify.com/track/761uhrvvqczdMTveo50Le4"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,065 likes - 573 songs - 1 day 15 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,069 likes - 573 songs - 1 day 15 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -504,18 +504,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 494 | [There Is No Heart That Won't Heal](https://open.spotify.com/track/0MG53mMBZb4mJpqR0Ukmjd) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Naked Without You](https://open.spotify.com/album/6qrmgCo7ZTnPPqLEcCcdvD) | 5:17 |
 | 495 | [Save Me Tonight](https://open.spotify.com/track/18T30dIaan4ETXksSfpCJQ) | [Mick Jones](https://open.spotify.com/artist/7zQmORVNaWz1cW1KJB2cTX) | [Mick Jones](https://open.spotify.com/album/5geCRg9dV7n6cYTtVtbtr0) | 3:51 |
 | 496 | [Little Too Much, Little Too Late](https://open.spotify.com/track/6p4yXipO2RNsb9IuJbHnCA) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Moodring \(Deluxe\)](https://open.spotify.com/album/7hbEvzk6T3oVLJXw1mNoix) | 3:24 |
-| 497 | [Love Can Do That](https://open.spotify.com/track/2OKK2s7XOjqsfwMErdbi7G) | [Elaine Paige](https://open.spotify.com/artist/7KckozT8XPOqtgJjpAcrnA) | [Love Can Do That](https://open.spotify.com/album/269hwhejxSAHEk91uGaVaA) | 4:26 |
-| 498 | [Last Kiss](https://open.spotify.com/track/4D0l7NpJuwNSkxbneDRsvT) | [Anita Cochran](https://open.spotify.com/artist/5LDnSV99gbDSsMX3Dcer2b) | [Anita](https://open.spotify.com/album/2FKzhcXcjWQoo94d7E6QwT) | 3:47 |
-| 499 | [State Your Case](https://open.spotify.com/track/2qfp2aMU8eJwC5tvU5d4ph) | [Martina Stavolo](https://open.spotify.com/artist/46XMakeFnFoqF1CkbzhZqF) | [Due Cose Importanti](https://open.spotify.com/album/0JpcAxEYrw4uFcgOifahKB) | 3:35 |
-| 500 | [Taste the Tears \- Thunderpuss Original Mix](https://open.spotify.com/track/19CSCNrnrQOsVgJZxMR8M6) | [Amber](https://open.spotify.com/artist/6uGKydhYXrVOEXM6QbVzyH) | [The Hits Remixed](https://open.spotify.com/album/3k7C0kAgsm4e0R5HeluMMB) | 3:47 |
-| 501 | [Time Will](https://open.spotify.com/track/76h0PJfdpdPNPErt70hWlk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [When A Woman Loves](https://open.spotify.com/album/7xBo1VHvAdhjlUNm8lGvTn) | 5:47 |
-| 502 | [Are We Over](https://open.spotify.com/track/6tE3jdnHJZp0kFBPIR4F1u) | [Charice](https://open.spotify.com/artist/0AuZVHIr5WSEBbBLZwWwWc) | [Charice](https://open.spotify.com/album/1cmqB3Ui3FuKWGo87TBpTd) | 3:54 |
-| 503 | [Your Heart's in Good Hands](https://open.spotify.com/track/6EyudcpNdLdg9xBIq6JdxR) | [The Great Funk Crew](https://open.spotify.com/artist/4DuNlmmEf9PkFBAlZXPNby) | [The Greatest Funk Hits](https://open.spotify.com/album/1eBy9DgA33luL0oclePvm6) | 5:43 |
-| 504 | [New Fire from an Old Flame](https://open.spotify.com/track/2KbJbYybWdMuJ9eDkE1nWs) | [Miki Howard](https://open.spotify.com/artist/7GTUAEg2QH41GgTmkIldjh) | [Femme Fatale](https://open.spotify.com/album/06jxwPZJrt0LQ6Jzbh0kbO) | 4:21 |
-| 505 | [Call Out To Me](https://open.spotify.com/track/2PpPkuyHSSyxFee8Q9XXMy) | [Kathy Troccoli](https://open.spotify.com/artist/73CmW7Heo8CxnYXydAs6qc) | [Love And Mercy](https://open.spotify.com/album/6en5tkbBKIb49yzjb97T9Y) | 3:51 |
-| 506 | [For You I Will](https://open.spotify.com/track/0sObrtFKGxWXLSe92kVBF9) | [The Pioneer Creek Gang](https://open.spotify.com/artist/6rFHM9LCS7Fg5CDqZcifWC) | [\#1 R&B Hits, Vol\. 2](https://open.spotify.com/album/2sTMsj8cHE1LpBO8t6B8Xy) | 4:52 |
-| 507 | [When I'm Back On My Feet Again](https://open.spotify.com/track/3GvdGso8ZdbPZzbHIzD95Q) | [David Garrick](https://open.spotify.com/artist/14XL0D5mFG7yvGTVYrVXv5) | [All The Hits Plus More](https://open.spotify.com/album/3Hv6VQrsjzCGOUV9Fqqq00) | 3:52 |
-| 508 | [Weightless](https://open.spotify.com/track/14pn9XTHcNSOVhJ1XKUElj) | [Arilena Ara](https://open.spotify.com/artist/5RYe0PYK8hYEiGnasQoYdd) | [Weightless](https://open.spotify.com/album/3v1dMItuORQsWA03mVInU3) | 3:23 |
+| 497 | [Weightless](https://open.spotify.com/track/14pn9XTHcNSOVhJ1XKUElj) | [Arilena Ara](https://open.spotify.com/artist/5RYe0PYK8hYEiGnasQoYdd) | [Weightless](https://open.spotify.com/album/3v1dMItuORQsWA03mVInU3) | 3:23 |
+| 498 | [Love Can Do That](https://open.spotify.com/track/2OKK2s7XOjqsfwMErdbi7G) | [Elaine Paige](https://open.spotify.com/artist/7KckozT8XPOqtgJjpAcrnA) | [Love Can Do That](https://open.spotify.com/album/269hwhejxSAHEk91uGaVaA) | 4:26 |
+| 499 | [Last Kiss](https://open.spotify.com/track/4D0l7NpJuwNSkxbneDRsvT) | [Anita Cochran](https://open.spotify.com/artist/5LDnSV99gbDSsMX3Dcer2b) | [Anita](https://open.spotify.com/album/2FKzhcXcjWQoo94d7E6QwT) | 3:47 |
+| 500 | [State Your Case](https://open.spotify.com/track/2qfp2aMU8eJwC5tvU5d4ph) | [Martina Stavolo](https://open.spotify.com/artist/46XMakeFnFoqF1CkbzhZqF) | [Due Cose Importanti](https://open.spotify.com/album/0JpcAxEYrw4uFcgOifahKB) | 3:35 |
+| 501 | [Taste the Tears \- Thunderpuss Original Mix](https://open.spotify.com/track/19CSCNrnrQOsVgJZxMR8M6) | [Amber](https://open.spotify.com/artist/6uGKydhYXrVOEXM6QbVzyH) | [The Hits Remixed](https://open.spotify.com/album/3k7C0kAgsm4e0R5HeluMMB) | 3:47 |
+| 502 | [Time Will](https://open.spotify.com/track/76h0PJfdpdPNPErt70hWlk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [When A Woman Loves](https://open.spotify.com/album/7xBo1VHvAdhjlUNm8lGvTn) | 5:47 |
+| 503 | [Are We Over](https://open.spotify.com/track/6tE3jdnHJZp0kFBPIR4F1u) | [Charice](https://open.spotify.com/artist/0AuZVHIr5WSEBbBLZwWwWc) | [Charice](https://open.spotify.com/album/1cmqB3Ui3FuKWGo87TBpTd) | 3:54 |
+| 504 | [Your Heart's in Good Hands](https://open.spotify.com/track/6EyudcpNdLdg9xBIq6JdxR) | [The Great Funk Crew](https://open.spotify.com/artist/4DuNlmmEf9PkFBAlZXPNby) | [The Greatest Funk Hits](https://open.spotify.com/album/1eBy9DgA33luL0oclePvm6) | 5:43 |
+| 505 | [New Fire from an Old Flame](https://open.spotify.com/track/2KbJbYybWdMuJ9eDkE1nWs) | [Miki Howard](https://open.spotify.com/artist/7GTUAEg2QH41GgTmkIldjh) | [Femme Fatale](https://open.spotify.com/album/06jxwPZJrt0LQ6Jzbh0kbO) | 4:21 |
+| 506 | [Call Out To Me](https://open.spotify.com/track/2PpPkuyHSSyxFee8Q9XXMy) | [Kathy Troccoli](https://open.spotify.com/artist/73CmW7Heo8CxnYXydAs6qc) | [Love And Mercy](https://open.spotify.com/album/6en5tkbBKIb49yzjb97T9Y) | 3:51 |
+| 507 | [For You I Will](https://open.spotify.com/track/0sObrtFKGxWXLSe92kVBF9) | [The Pioneer Creek Gang](https://open.spotify.com/artist/6rFHM9LCS7Fg5CDqZcifWC) | [\#1 R&B Hits, Vol\. 2](https://open.spotify.com/album/2sTMsj8cHE1LpBO8t6B8Xy) | 4:52 |
+| 508 | [When I'm Back On My Feet Again](https://open.spotify.com/track/3GvdGso8ZdbPZzbHIzD95Q) | [David Garrick](https://open.spotify.com/artist/14XL0D5mFG7yvGTVYrVXv5) | [All The Hits Plus More](https://open.spotify.com/album/3Hv6VQrsjzCGOUV9Fqqq00) | 3:52 |
 | 509 | [Earthbound](https://open.spotify.com/track/7ehWiVnECZg3Xt8CACblJ1) | [Moya](https://open.spotify.com/artist/1gzYTBlAMrESMPMueOZ31b) | [Earthbound](https://open.spotify.com/album/64eLQm7TkEZtowHYwDqIVG) | 4:23 |
 | 510 | [Spanish Guitar](https://open.spotify.com/track/78xZmv0VetvNAslUqlggdx) | [Ultra Band](https://open.spotify.com/artist/4EcDwU1AjqKHYuytqo9DJ6) | [Essência Feminina Internacional](https://open.spotify.com/album/4PwuhuWIirjtB4voJXG8ew) | 4:46 |
 | 511 | [I Confess \- 12" Dance Mix](https://open.spotify.com/track/6yUbtzcCh0EMMD2cgqv090) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Hot On the Trail \(Expanded Edition\)](https://open.spotify.com/album/0loDN6STZdp57R5dSPyFhl) | 5:02 |
@@ -582,4 +582,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 572 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 | 573 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 
-Snapshot ID: `Ab1NEgAAAAD+espnyvva+qhsEdlh4jef`
+Snapshot ID: `Ab1SdgAAAAAlxi7pKs9psvlL91e5l4/r`

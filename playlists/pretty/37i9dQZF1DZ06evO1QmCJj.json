@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 45199,
+  "num_followers": 45230,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFs8AAAAAAC4skOXZdaERyALRyBd60d0",
+  "snapshot_id": "aFyNgAAAAACZN5Phh7A4yNHbSu8YNCsz",
   "tracks": [
     {
       "added_at": null,
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 192292,
-      "name": "YO TE LLEVO",
-      "url": "https://open.spotify.com/track/5bjMuYyKcIrF8dT7jdyzym"
+      "duration_ms": 187161,
+      "name": "MI COLETA",
+      "url": "https://open.spotify.com/track/7EJDBVATR8jdE5b9Y7QEU9"
     },
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 187161,
-      "name": "MI COLETA",
-      "url": "https://open.spotify.com/track/7EJDBVATR8jdE5b9Y7QEU9"
+      "duration_ms": 192292,
+      "name": "YO TE LLEVO",
+      "url": "https://open.spotify.com/track/5bjMuYyKcIrF8dT7jdyzym"
     },
     {
       "added_at": null,
@@ -667,6 +667,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "EL TIBUR\u00d3N",
+        "url": "https://open.spotify.com/album/4ASAFxOzKAivUFqMoLoI5t"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 182242,
+      "name": "COMO EST\u00c1S BB",
+      "url": "https://open.spotify.com/track/0gwokSEwgcwf1QHJq7gH4B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NAVE DRAG\u00d3N",
         "url": "https://open.spotify.com/album/16QJNLv3LHn3sz5CfmYX8Z"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 202933,
       "name": "Mujer Bruja",
       "url": "https://open.spotify.com/track/2o2PFz6MLkKXVDYlzDAVH7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EL TIBUR\u00d3N",
-        "url": "https://open.spotify.com/album/4ASAFxOzKAivUFqMoLoI5t"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 182242,
-      "name": "COMO EST\u00c1S BB",
-      "url": "https://open.spotify.com/track/0gwokSEwgcwf1QHJq7gH4B"
     },
     {
       "added_at": null,

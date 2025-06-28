@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,313 likes - 144 songs - 7 hr 10 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,312 likes - 145 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,5 +152,6 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 142 | [Lift Off](https://open.spotify.com/track/5B4aLFjDVJ6jRDIuFER1Dp) | [Kaitlyn](https://open.spotify.com/artist/3HH37h87eKjTIxA2oZSy5d) | [Lift Off](https://open.spotify.com/album/0fMffg9h8wPGuwRYsttBaW) | 2:03 |
 | 143 | [Goodies](https://open.spotify.com/track/5TcsyxRBkIjgmaoSW9oaZL) | [Pedroz](https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p), [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [Goodies](https://open.spotify.com/album/4y9b6DMmobsAxtUvMO7xcT) | 3:13 |
 | 144 | [WTF](https://open.spotify.com/track/7s5ARfWfo6oLj1fbA9q0dD) | [Bender](https://open.spotify.com/artist/7fxWKpzyr4ZXEoNLtuxmrd) | [WTF](https://open.spotify.com/album/5Ae3RgNlkm4398RTCB8g4z) | 3:11 |
+| 145 | [Intoxicated](https://open.spotify.com/track/4v6x9MA7KKWs1m3WXsjFey) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi), [Scott Forshaw](https://open.spotify.com/artist/2B3lljR6lMaymKtckOsdoy) | [Intoxicated](https://open.spotify.com/album/2uUkm6fqWs48lfnTxqimls) | 3:02 |
 
-Snapshot ID: `AAAKZpkfCYnIC6YQSEHXpecEoKpqw+Fc`
+Snapshot ID: `AAAKZ6Bcebv8tBSi5gaZ0+yLNS9pQL06`

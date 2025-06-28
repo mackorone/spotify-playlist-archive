@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 | 7 | [Me And You](https://open.spotify.com/track/2hcyCCIcnqkZUN85MwXvaY) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Boyz N The Hood](https://open.spotify.com/album/7KTu7Fg01AgY8UdPvbjIep) | 4:10 |
 | 8 | [Lovin' You](https://open.spotify.com/track/7M4CRFWgCuqYOuh5Kz1hm5) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 5:53 |
 | 9 | [Feels Good](https://open.spotify.com/track/4cRR2gUTOerkUOW5iZpm91) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:58 |
-| 10 | [Slow Wine](https://open.spotify.com/track/4Gul1VGYVv9b3tLPnrKMIK) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 4:49 |
+| 10 | [If I Had No Loot](https://open.spotify.com/track/5oPRLER8bCQN3RFFVvLbTC) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 4:01 |
 | 11 | [Boys And Girls](https://open.spotify.com/track/3o0pgyIsnuHztpAcBWg9eQ) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Hits](https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g) | 4:38 |
 | 12 | [Thinking Of You](https://open.spotify.com/track/2kp0HkwA1v8WcmCwYqm7DO) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 3:58 |
 | 13 | [The Blues](https://open.spotify.com/track/2TYgfLRpzaC4LgTqRy7UAf) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:13 |
-| 14 | [If I Had No Loot](https://open.spotify.com/track/5oPRLER8bCQN3RFFVvLbTC) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 4:01 |
+| 14 | [Slow Wine](https://open.spotify.com/track/4Gul1VGYVv9b3tLPnrKMIK) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 4:49 |
 | 15 | [Rifle Love](https://open.spotify.com/track/0rTJxsTHftHWA6pRyCWu2c) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW), [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Ray Ray](https://open.spotify.com/album/1sV8tljpDaqszWG0BfTTgl) | 4:18 |
 | 16 | [Still A Man](https://open.spotify.com/track/3EA1GVdqwyjVvbw9XJ87gq) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 7:18 |
 | 17 | [Little Walter](https://open.spotify.com/track/2VAK1wpNtziRwQrJxg0eQe) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 4:53 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 | 38 | [It Feels Good](https://open.spotify.com/track/5CMYgMuy0T491lbJVJ715U) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [New Jack, Vol\. 1](https://open.spotify.com/album/2zbAwjweFSSFq3eEHLtxzI) | 3:08 |
 | 39 | [Born Not To Know](https://open.spotify.com/track/6Ix4EuZQQNQFUpXT8EQmM7) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 4:45 |
 
-Snapshot ID: `aFs8AAAAAACHZ74qV3Pwkj5s2yox/Xmp`
+Snapshot ID: `aFyNgAAAAABo5SbX1RXnzXb8aJ2hJbaI`

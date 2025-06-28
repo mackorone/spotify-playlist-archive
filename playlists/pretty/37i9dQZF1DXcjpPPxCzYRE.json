@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 429303,
+  "num_followers": 429313,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2025-06-26 22:00:12",
       "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 300499,
+      "name": "Into The Sun - EP Version",
+      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
+    },
+    {
+      "added_at": "2025-06-26 22:00:12",
+      "album": {
         "name": "BBY ROMEO",
         "url": "https://open.spotify.com/album/6MNveBkoPPQgHQfM560Zcz"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 198715,
       "name": "BBY ROMEO",
       "url": "https://open.spotify.com/track/1QwfEonEHRjLItRU7kISSe"
-    },
-    {
-      "added_at": "2025-06-26 22:00:12",
-      "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 300499,
-      "name": "Into The Sun - EP Version",
-      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
     },
     {
       "added_at": "2025-06-26 22:00:12",
@@ -471,18 +471,18 @@
     {
       "added_at": "2025-06-26 22:00:12",
       "album": {
-        "name": "DAISY",
-        "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
       },
       "artists": [
         {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 206184,
-      "name": "(ecco)",
-      "url": "https://open.spotify.com/track/6MNpKQBu98xOz5LpPQjyrU"
+      "duration_ms": 228373,
+      "name": "Ink",
+      "url": "https://open.spotify.com/track/6c6W25YoDGjTq3qSPOga5t"
     },
     {
       "added_at": "2025-06-26 22:00:12",
@@ -559,18 +559,18 @@
     {
       "added_at": "2025-06-26 22:00:12",
       "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+        "name": "DAISY",
+        "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
         }
       ],
-      "duration_ms": 228373,
-      "name": "Ink",
-      "url": "https://open.spotify.com/track/6c6W25YoDGjTq3qSPOga5t"
+      "duration_ms": 206184,
+      "name": "(ecco)",
+      "url": "https://open.spotify.com/track/6MNpKQBu98xOz5LpPQjyrU"
     },
     {
       "added_at": "2025-06-26 22:00:12",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-06-26 22:00:12",
       "album": {
-        "name": "Nobody Knows",
-        "url": "https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 152239,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
-    },
-    {
-      "added_at": "2025-06-26 22:00:12",
-      "album": {
         "name": "Les jolies choses",
         "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 222373,
       "name": "Les jolies choses",
       "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2025-06-26 22:00:12",
+      "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 152239,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
     },
     {
       "added_at": "2025-06-26 22:00:12",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-06-26 22:00:12",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 286400,
-      "name": "Older Chests",
-      "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
-    },
-    {
-      "added_at": "2025-06-26 22:00:12",
-      "album": {
         "name": "Endlings",
         "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 228173,
       "name": "The Echo & The Shadow",
       "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
+    },
+    {
+      "added_at": "2025-06-26 22:00:12",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 286400,
+      "name": "Older Chests",
+      "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
     },
     {
       "added_at": "2025-06-26 22:00:12",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-06-26 22:00:12",
       "album": {
-        "name": "TANDA",
-        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 240904,
-      "name": "Como Viene Se Va",
-      "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
-    },
-    {
-      "added_at": "2025-06-26 22:00:12",
-      "album": {
         "name": "Hold Your Head Up High",
         "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 217360,
       "name": "Hold Your Head Up High",
       "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
+    },
+    {
+      "added_at": "2025-06-26 22:00:12",
+      "album": {
+        "name": "TANDA",
+        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 240904,
+      "name": "Como Viene Se Va",
+      "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
     },
     {
       "added_at": "2025-06-26 22:00:12",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-06-26 22:00:12",
       "album": {
-        "name": "M\u00e1ndame una se\u00f1al",
-        "url": "https://open.spotify.com/album/4x8icqp6ellxFGhDzSBC2r"
-      },
-      "artists": [
-        {
-          "name": "Rebe",
-          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
-        }
-      ],
-      "duration_ms": 260152,
-      "name": "M\u00e1ndame una se\u00f1al",
-      "url": "https://open.spotify.com/track/68eNGXDct8WTVLk9v0Oar8"
-    },
-    {
-      "added_at": "2025-06-26 22:00:12",
-      "album": {
         "name": "Ojos de Miel",
         "url": "https://open.spotify.com/album/5rR0DhfL3LupkNTVmSkRFO"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 202886,
       "name": "Ojos de Miel",
       "url": "https://open.spotify.com/track/0v3IeYFFqUJIC4GOcCddaS"
+    },
+    {
+      "added_at": "2025-06-26 22:00:12",
+      "album": {
+        "name": "M\u00e1ndame una se\u00f1al",
+        "url": "https://open.spotify.com/album/4x8icqp6ellxFGhDzSBC2r"
+      },
+      "artists": [
+        {
+          "name": "Rebe",
+          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
+        }
+      ],
+      "duration_ms": 260152,
+      "name": "M\u00e1ndame una se\u00f1al",
+      "url": "https://open.spotify.com/track/68eNGXDct8WTVLk9v0Oar8"
     },
     {
       "added_at": "2025-06-26 22:00:12",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-06-26 22:00:12",
       "album": {
-        "name": "Equilibri",
-        "url": "https://open.spotify.com/album/6BPSeyqa5ChOR3DqltpUIR"
-      },
-      "artists": [
-        {
-          "name": "Guillem Roma",
-          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
-        }
-      ],
-      "duration_ms": 236462,
-      "name": "Equilibri",
-      "url": "https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp"
-    },
-    {
-      "added_at": "2025-06-26 22:00:12",
-      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 151027,
       "name": "Lento",
       "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
+    },
+    {
+      "added_at": "2025-06-26 22:00:12",
+      "album": {
+        "name": "Equilibri",
+        "url": "https://open.spotify.com/album/6BPSeyqa5ChOR3DqltpUIR"
+      },
+      "artists": [
+        {
+          "name": "Guillem Roma",
+          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
+        }
+      ],
+      "duration_ms": 236462,
+      "name": "Equilibri",
+      "url": "https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp"
     },
     {
       "added_at": "2025-06-26 22:00:12",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-06-26 22:00:12",
       "album": {
-        "name": "Footprints I Found",
-        "url": "https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 179173,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/40dfo65kBJa1UgzkD652Gl"
-    },
-    {
-      "added_at": "2025-06-26 22:00:12",
-      "album": {
         "name": "Dos L\u00e1grimas, Dos Peces",
         "url": "https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE"
       },
@@ -1639,22 +1623,18 @@
     {
       "added_at": "2025-06-26 22:00:12",
       "album": {
-        "name": "Ben poca cosa tens",
-        "url": "https://open.spotify.com/album/4eBnmtZBcmN8eGCALV5SdL"
+        "name": "Footprints I Found",
+        "url": "https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf"
       },
       "artists": [
         {
-          "name": "Salvador Sobral",
-          "url": "https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO"
-        },
-        {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
         }
       ],
-      "duration_ms": 310754,
-      "name": "Ben poca cosa tens",
-      "url": "https://open.spotify.com/track/6bjEfCnfH1aTkDVxmXkptn"
+      "duration_ms": 179173,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/40dfo65kBJa1UgzkD652Gl"
     },
     {
       "added_at": "2025-06-26 22:00:12",
@@ -1679,6 +1659,26 @@
       "duration_ms": 211791,
       "name": "El Sitio de Mi Recreo",
       "url": "https://open.spotify.com/track/63L2xTgFiiabCUdWwfXdep"
+    },
+    {
+      "added_at": "2025-06-26 22:00:12",
+      "album": {
+        "name": "Ben poca cosa tens",
+        "url": "https://open.spotify.com/album/4eBnmtZBcmN8eGCALV5SdL"
+      },
+      "artists": [
+        {
+          "name": "Salvador Sobral",
+          "url": "https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO"
+        },
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "duration_ms": 310754,
+      "name": "Ben poca cosa tens",
+      "url": "https://open.spotify.com/track/6bjEfCnfH1aTkDVxmXkptn"
     },
     {
       "added_at": "2025-06-26 22:00:12",

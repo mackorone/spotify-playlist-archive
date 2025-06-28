@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 166564,
+  "num_followers": 166585,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -595,26 +595,6 @@
     {
       "added_at": "2025-06-22 16:00:27",
       "album": {
-        "name": "Seize The Day",
-        "url": "https://open.spotify.com/album/56uC55DMbvL9l8dQAoszp5"
-      },
-      "artists": [
-        {
-          "name": "Wax Tailor",
-          "url": "https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG"
-        },
-        {
-          "name": "Charlotte Savary",
-          "url": "https://open.spotify.com/artist/00iD8QRcuTSSKAhaFU1MOp"
-        }
-      ],
-      "duration_ms": 161512,
-      "name": "Seize The Day",
-      "url": "https://open.spotify.com/track/04rz2UaJqbK4aUs7TSk7Sw"
-    },
-    {
-      "added_at": "2025-06-22 16:00:27",
-      "album": {
         "name": "Tha Carter V",
         "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 151041,
       "name": "I Wouldn't Know Any Better Than You",
       "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
+    },
+    {
+      "added_at": "2025-06-22 16:00:27",
+      "album": {
+        "name": "Seize The Day",
+        "url": "https://open.spotify.com/album/56uC55DMbvL9l8dQAoszp5"
+      },
+      "artists": [
+        {
+          "name": "Wax Tailor",
+          "url": "https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG"
+        },
+        {
+          "name": "Charlotte Savary",
+          "url": "https://open.spotify.com/artist/00iD8QRcuTSSKAhaFU1MOp"
+        }
+      ],
+      "duration_ms": 161512,
+      "name": "Seize The Day",
+      "url": "https://open.spotify.com/track/04rz2UaJqbK4aUs7TSk7Sw"
     },
     {
       "added_at": "2025-06-22 16:00:27",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2025-06-22 16:00:27",
       "album": {
+        "name": "God Must Be Doing Cocaine",
+        "url": "https://open.spotify.com/album/0zwnrv2ORP7m2TScw0Yyq7"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "duration_ms": 194755,
+      "name": "God Must Be Doing Cocaine",
+      "url": "https://open.spotify.com/track/4pBsg7FS4R99zk55McLRIy"
+    },
+    {
+      "added_at": "2025-06-22 16:00:27",
+      "album": {
         "name": "Hello, I said",
         "url": "https://open.spotify.com/album/4bNKNSX4l2cIRlxp0l12fH"
       },
@@ -1583,18 +1599,18 @@
     {
       "added_at": "2025-06-22 16:00:27",
       "album": {
-        "name": "God Must Be Doing Cocaine",
-        "url": "https://open.spotify.com/album/0zwnrv2ORP7m2TScw0Yyq7"
+        "name": "Our Time is Blue",
+        "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
       },
       "artists": [
         {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
         }
       ],
-      "duration_ms": 194755,
-      "name": "God Must Be Doing Cocaine",
-      "url": "https://open.spotify.com/track/4pBsg7FS4R99zk55McLRIy"
+      "duration_ms": 218266,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
     },
     {
       "added_at": "2025-06-22 16:00:27",
@@ -1615,22 +1631,6 @@
       "duration_ms": 250666,
       "name": "untitled (what's it gonna be)",
       "url": "https://open.spotify.com/track/76YpiW77bh2bCbvysBnwF4"
-    },
-    {
-      "added_at": "2025-06-22 16:00:27",
-      "album": {
-        "name": "Our Time is Blue",
-        "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
-      },
-      "artists": [
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "Our Time",
-      "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
     },
     {
       "added_at": "2025-06-22 16:00:27",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2025-06-22 16:00:27",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19"
+        "name": "Headspace",
+        "url": "https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv"
       },
       "artists": [
         {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+          "name": "liesl-mae",
+          "url": "https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0"
         }
       ],
-      "duration_ms": 190642,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv"
+      "duration_ms": 187131,
+      "name": "Headspace",
+      "url": "https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

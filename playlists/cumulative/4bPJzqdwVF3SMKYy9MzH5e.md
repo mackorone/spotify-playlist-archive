@@ -4,7 +4,7 @@
 
 > 
 
-2,191 songs - 4 day 21 hr 35 min
+2,194 songs - 4 day 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,6 +509,7 @@
 | [Debugged](https://open.spotify.com/track/0iW299Y3Vs8hawWYLwnQrS) | [C!erra My$t](https://open.spotify.com/artist/49xeZQkZtyvt4xAuZCKYwk) | [Witness of Another World](https://open.spotify.com/album/3C3XEC0CDqfGZY6XPkxAJO) | 1:24 | 2023-02-22 |  |
 | [Deceptacon](https://open.spotify.com/track/4yeILpRczJAXG6kAsE7pGk) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 3:04 | 2021-08-05 |  |
 | [Decibel Tool](https://open.spotify.com/track/4ePHFEaLIVruU7IG8zKv9O) | [Element](https://open.spotify.com/artist/7hb1BiulwZ6lAflLQeQVJU), [Kruelty](https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD) | [Decibel Tool](https://open.spotify.com/album/1TOyCfDoaIBKF87fRTekqb) | 2:42 | 2023-05-17 |  |
+| [Deep Lake](https://open.spotify.com/track/4yKQnfdhb8m5vwcTo2WuE8) | [Bovskey](https://open.spotify.com/artist/2z5MSIstgHtruYoMdI0eKu) | [12B3](https://open.spotify.com/album/4RcKkOMITjGeBgB0w8MlGO) | 3:08 | 2025-06-27 |  |
 | [Deer Dance](https://open.spotify.com/track/2SpGXD7EbexndFmmThrnsy) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 2:54 | 2023-08-21 |  |
 | [Deprocessed](https://open.spotify.com/track/5s6RBE0knbjny4O9Sh4rv1) | [Rory in early 20s](https://open.spotify.com/artist/2E701AAAlg7LthbISEZv0N) | [Deprocessed](https://open.spotify.com/album/3ZkB5B3lYVBIhNgFkNMDID) | 2:51 | 2022-06-05 |  |
 | [DESTROY The Wired](https://open.spotify.com/track/3Yq9YH03a465fC7KniT8xL) | [TOKYOPILL](https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X) | [Welcome To The Wired!](https://open.spotify.com/album/3DxmNyhNtQ8wV1ey8CWrLY) | 1:48 | 2022-02-04 |  |
@@ -1221,6 +1222,7 @@
 | [Medusa](https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Medusa](https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn) | 5:05 | 2025-01-01 | 2025-02-07 |
 | [Meet Her At The Love Parade \- Beuk Mix](https://open.spotify.com/track/2DpM4jw683veA2BTcc3kZR) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [Meet Her At The Love Parade \(Beuk Mix\)](https://open.spotify.com/album/1YPZDYBgcbMfW4ORrQHmX7) | 1:52 | 2024-10-06 |  |
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2021-09-15 |  |
+| [Megatone Saxon \(Manchester Massive\)](https://open.spotify.com/track/7DFHG0gyFX5mq6e3hUXKOF) | [Mattik](https://open.spotify.com/artist/776NwCgoVkuhQziHlYoDqb) | [Bubble](https://open.spotify.com/album/246bHEdhkEeKGupdPxNxpP) | 4:49 | 2025-06-27 |  |
 | [MEGATRON](https://open.spotify.com/track/1ZDmxwg7Lywlx68b7SsJjj) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [MEGATRON](https://open.spotify.com/album/4PsIFkX5QIvAI0xB7qHugW) | 3:10 | 2021-08-05 |  |
 | [Mein](https://open.spotify.com/track/7vfUhnW7qDtkFId4GJnvtA) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ) | 3:58 | 2024-01-01 |  |
 | [Melancholy](https://open.spotify.com/track/5KtSxFBnkJXCwlBCi1z41X) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Melancholy](https://open.spotify.com/album/7FDeTolHiFiqPMoqCQqyJj) | 3:13 | 2021-11-14 |  |
@@ -1711,6 +1713,7 @@
 | [Si Tu Novio Te Deja Sola](https://open.spotify.com/track/2joKSGkqac0LIwYG9Ghrwq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Si Tu Novio Te Deja Sola](https://open.spotify.com/album/3bp5wUKcfBhrqCACidyPKa) | 4:03 | 2025-01-01 | 2025-02-07 |
 | [Sick Feeling](https://open.spotify.com/track/7zxLkZbUxITHabPzGN8Xgc) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 2:35 | 2021-08-05 |  |
 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 | 2021-08-05 |  |
+| [SIDE2SIDE](https://open.spotify.com/track/4Kz5S3KljoJMlLtCDDVqCN) | [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [RED RAVE](https://open.spotify.com/album/0PZtxlib1VInBCoz4TVijP) | 2:51 | 2025-06-27 |  |
 | [Sidelines](https://open.spotify.com/track/3gar285uWggoxHwOwO7Ng9) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 3:00 | 2021-08-05 |  |
 | [Sientate en Ese Deo](https://open.spotify.com/track/4o9DRmcnHX2V4aPHinhfrP) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [El Hombre](https://open.spotify.com/album/5hzbgBTxfikktf9cOvggGF) | 3:41 | 2024-10-30 |  |
 | [Silhouette](https://open.spotify.com/track/403EjoWwYSX37paKSySxs1) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Silhouette](https://open.spotify.com/album/1wU3MS8trhxKeTvrQXIXzI) | 3:59 | 2022-04-03 |  |

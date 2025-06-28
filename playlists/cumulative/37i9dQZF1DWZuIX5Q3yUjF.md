@@ -4,7 +4,7 @@
 
 > Aka 7even in cover della playlist dell'R&B italiano 🎧
 
-827 songs - 1 day 16 hr 52 min
+828 songs - 1 day 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -802,6 +802,7 @@
 | [Usa La Memoria](https://open.spotify.com/track/0uCM9gbqQT4292zquIDJ39) | [Arya](https://open.spotify.com/artist/1Rr944KwI8GqDCdzdsHYok) | [Punto Zero](https://open.spotify.com/album/3PcENwZrpHJ1mlFsoSo6Bv) | 2:43 | 2023-11-30 | 2024-04-16 |
 | [UYE](https://open.spotify.com/track/4uSmSuFnlTK04y6QMnd6Wp) | [APOLLO QUATTRO](https://open.spotify.com/artist/4s6RBNeuADV5LVSl0lI0m8) | [UYE](https://open.spotify.com/album/2ErxXklekyGIVxWfbkcjec) | 2:53 | 2025-05-29 |  |
 | [VACANZE ROMANE](https://open.spotify.com/track/3F5xoT8lQhOWVR69JXJSaj) | [Laura Di Lenola](https://open.spotify.com/artist/2ZcZ2OBjYjxxIfAXyumxJu), [Folcast](https://open.spotify.com/artist/1PWmqY7ed9o6dgpAYYWZmS), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [VACANZE ROMANE](https://open.spotify.com/album/3XZkGxvlna9o3kIYyquhwf) | 3:06 | 2023-09-14 | 2023-10-06 |
+| [VANITY FAIR](https://open.spotify.com/track/1MaCpFUSIh7EfEV3LekXVy) | [Seraf](https://open.spotify.com/artist/2fjQDRlgyQEJa4D30EHsk6) | [VANITY FAIR](https://open.spotify.com/album/5SK5yKEwRpWhMjOAFzBrfM) | 2:53 | 2025-06-26 |  |
 | [Vedi Me](https://open.spotify.com/track/4Zm2e7UNkTwG4ZqrxsXWJ0) | [Santé](https://open.spotify.com/artist/55EIo5yMfuqGqppQzEBep1) | [Vedi Me](https://open.spotify.com/album/0AR0J6bOBqvXdPixwvkBTN) | 2:33 | 2025-01-23 | 2025-05-23 |
 | [Veleno](https://open.spotify.com/track/6Txmgb9n1p1XZtJ6dNUBlb) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Trusty](https://open.spotify.com/artist/5yC9LA5cSmbG5y20u2Qxf7) | [Veleno](https://open.spotify.com/album/5C53KJCrnzTarnkfgOwTyr) | 2:39 | 2022-09-15 | 2023-01-27 |
 | [Vento in faccia](https://open.spotify.com/track/1QtAkNRuN7sq8xW6fwq5zn) | [Gioia Lucia](https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU), [Ombra](https://open.spotify.com/artist/1GyHIEILIuWwQ5HA5x2BvD) | [Vento in faccia](https://open.spotify.com/album/4tzWhZ5SSJ3xauVfF6Get2) | 3:25 | 2024-05-02 | 2024-06-14 |

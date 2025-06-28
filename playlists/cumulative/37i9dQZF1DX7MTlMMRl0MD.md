@@ -2,7 +2,7 @@
 
 ### [Bachata Lovers](https://open.spotify.com/playlist/37i9dQZF1DX7MTlMMRl0MD)
 
-> Tu lista favorita de Bachata ❤️ Cover: Prince Royce
+> Tu lista favorita de Bachata ❤️ Cover: KAROL G
 
 423 songs - 1 day 1 hr 36 min
 
@@ -132,7 +132,7 @@
 | [Duro De Verdad pt.2](https://open.spotify.com/track/0glj70T9fN3kyJzYmTKzy1) | [Los Sufridos](https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Duro De Verdad pt.2](https://open.spotify.com/album/3c8T88YKC08bsaZiuY2KoA) | 3:24 | 2024-09-27 |  |
 | [El Amante](https://open.spotify.com/track/75o9TCfKzMTpNJ5QrHvrdj) | [Wilven Bello](https://open.spotify.com/artist/6cJpv2M7hjes1BxCIfqq8B) | [Midnight Confessions](https://open.spotify.com/album/6BEAJJ5WC70dfDIoqBHurP) | 3:54 | 2025-05-02 |  |
 | [El Campeón](https://open.spotify.com/track/3HEXAkSc7S6Dbo4pJpOp1R) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [El Campeón](https://open.spotify.com/album/5hWtvm0it85s5boeVL6v7G) | 3:43 | 2023-12-08 | 2024-05-25 |
-| [El Consejito](https://open.spotify.com/track/7wcATwSV0G8gTTRHEK7hDq) | [Jhonny Evidence](https://open.spotify.com/artist/7EndqnY5tR0pzhbVFJr5Zy), [Bachata Sweet](https://open.spotify.com/artist/4nr2jZUbQ2cbgxsjJzcmLh) | [El Consejito](https://open.spotify.com/album/7ti61VMmLGJZb9GSwNj4Io) | 3:47 | 2024-09-20 |  |
+| [El Consejito](https://open.spotify.com/track/7wcATwSV0G8gTTRHEK7hDq) | [Jhonny Evidence](https://open.spotify.com/artist/7EndqnY5tR0pzhbVFJr5Zy), [Bachata Sweet](https://open.spotify.com/artist/4nr2jZUbQ2cbgxsjJzcmLh) | [El Consejito](https://open.spotify.com/album/7ti61VMmLGJZb9GSwNj4Io) | 3:47 | 2024-09-20 | 2025-06-28 |
 | [El Cuchillo](https://open.spotify.com/track/51sf8K5TcoLvuMF24c84Lv) | [Optimo](https://open.spotify.com/artist/37tpydsl5wICltyf0U7iHM) | [A World Tour](https://open.spotify.com/album/7M4TBKECznxg5dPL0tgI3U) | 3:41 | 2022-03-04 | 2024-01-13 |
 | [El Guión](https://open.spotify.com/track/0vhTmQVJYu1IGKcGHfwkYO) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [My Destiny](https://open.spotify.com/album/4VW1AYCLK5bpjLwsevKdjh) | 3:29 | 2022-03-25 | 2022-07-22 |
 | [El Guión](https://open.spotify.com/track/50BYSpPCSxT9Uy5ZjarBMt) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [My Destiny](https://open.spotify.com/album/2DjM5pDh6eQxjHOKRSg29X) | 3:29 | 2022-07-19 | 2022-09-03 |

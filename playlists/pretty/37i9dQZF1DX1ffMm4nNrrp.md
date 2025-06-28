@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ffMm4nNrrp.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=Dk6TQfF2Sr\-c6CbKcBHboA">DBN Gogo</a>'s favorite tracks\. Updated regularly\. Curated by DBN Gogo\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,170 likes - 52 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,206 likes - 52 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

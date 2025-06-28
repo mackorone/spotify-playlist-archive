@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 42069,
+  "num_followers": 42070,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFs8AAAAAAC7JQJN+wKy2HNCuSc0/rB8",
+  "snapshot_id": "aFyNgAAAAADVu3x63+dNIncSjQCkj56C",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Without A Fight",
-        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Don't Let Her Pull You Down",
-      "url": "https://open.spotify.com/track/5ab6WsStT9zSlNZ9CSArje"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 217413,
       "name": "It's Not Your Fault",
       "url": "https://open.spotify.com/track/6mWaIL3wd4XtxBZlvams5f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not Without A Fight",
+        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Don't Let Her Pull You Down",
+      "url": "https://open.spotify.com/track/5ab6WsStT9zSlNZ9CSArje"
     },
     {
       "added_at": null,

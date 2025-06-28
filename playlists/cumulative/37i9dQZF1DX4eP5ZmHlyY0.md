@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: INI
 
-623 songs - 1 day 10 hr 34 min
+624 songs - 1 day 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [Show U Light](https://open.spotify.com/track/32JkY06bxiHieuinm8E7GB) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [ONE DAY](https://open.spotify.com/album/4kCizxhZvJic1cUOuXNXLY) | 3:32 | 2024-04-23 | 2024-05-22 |
 | [Silence](https://open.spotify.com/track/4JZZ7HMom41hWql5C97kNF) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [Humanity](https://open.spotify.com/album/1YPnixUqWPRZgfAz4nWoHm) | 2:56 | 2025-04-23 |  |
 | [Silhouette](https://open.spotify.com/track/08p4TJG7E1TtabAdPQ5uCg) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [Present](https://open.spotify.com/album/4wpxSGDKIfjqmJcYW39le3) | 3:21 | 2024-12-24 | 2025-03-26 |
+| [Simmer \(Japanese Ver.\)](https://open.spotify.com/track/16MjZTUg4p646phx0t4hF2) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Simmer \(Japanese Ver.\)](https://open.spotify.com/album/4aZhX5TMq56qe1D99M296n) | 3:09 | 2025-06-24 |  |
 | [SIN](https://open.spotify.com/track/4uRh2YgZgcg7x2QsyllrbI) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [SIN](https://open.spotify.com/album/3W6jQO7l9BPGV2uhgr6l28) | 3:44 | 2023-11-23 | 2024-02-16 |
 | [SLEEPLESS TOWN](https://open.spotify.com/track/1oLp5er6lRLDBBw6YxAgDm) | [OWV](https://open.spotify.com/artist/4CNu1NZPWMvgb46cmKepUG) | [BREMEN](https://open.spotify.com/album/23Pw0GhyG7e5ztxUdfnltQ) | 4:10 | 2024-02-06 | 2024-04-24 |
 | [Slogan](https://open.spotify.com/track/1xEm0K1U5Md7Zkne7gcy1z) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [2:BE](https://open.spotify.com/album/74A3CHRxkm987Bu4P1iBmA) | 4:02 | 2024-08-27 | 2024-10-02 |

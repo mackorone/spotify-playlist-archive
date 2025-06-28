@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of  unearthing your new favourite artists\. Cover: WHYLUCAS\.  Artwork: Isu Kim.
 
-1,072 songs - 2 day 10 hr 19 min
+1,074 songs - 2 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,8 +69,8 @@
 | [Anxious In The Daytime](https://open.spotify.com/track/0OhaGOmebd12R1YgizXObP) | [Astor Walk](https://open.spotify.com/artist/6eCaI5ppOeDrr7zs2VZtVg) | [Anxious In The Daytime](https://open.spotify.com/album/3do4OVA2U4zsc1sgiIWyRJ) | 2:57 | 2022-06-30 | 2022-09-23 |
 | [Anymore](https://open.spotify.com/track/4Cz8N8hJ8hlEAwK2SJilKz) | [Aaron Bunac](https://open.spotify.com/artist/1MPSyVOJbRJmJsc4SsRNhI) | [Anymore](https://open.spotify.com/album/17LCrhz2k9yzOl3urvArOC) | 3:30 | 2025-02-21 | 2025-06-27 |
 | [April](https://open.spotify.com/track/24QSZBkPrq8nP5jC8UsA01) | [IZZY DANIYA](https://open.spotify.com/artist/4YTuQxRYY33qBIb7z9XG19) | [April](https://open.spotify.com/album/0wmXjCIz9FynQsAnIfQgLc) | 3:48 | 2023-06-22 | 2023-11-24 |
-| [Arakam Attam](https://open.spotify.com/track/3Ki1TN9bhjITGZVG9gnHPe) | [Orga](https://open.spotify.com/artist/5Oxic3Aad1C4z9t6CzOzco), [Thyivya Kalaiselvan](https://open.spotify.com/artist/7zDdKZl2GueIKw8B9UNhEB) | [Arakam Attam](https://open.spotify.com/album/5Ftzuc1iFFaPThU3nPfgP1) | 3:31 | 2025-06-12 |  |
 | [Arigatou](https://open.spotify.com/track/1OJolCtzqOq6cuo0KgoBCm) | [Rina\-Hime](https://open.spotify.com/artist/5OagyPPLWO4nClIvwis1FB) | [Arigatou](https://open.spotify.com/album/4YZxYVLR8B0XHWKomtxcjJ) | 3:11 | 2025-05-22 |  |
+| [ARKKAN ATTAM](https://open.spotify.com/track/3Ki1TN9bhjITGZVG9gnHPe) | [Orga](https://open.spotify.com/artist/5Oxic3Aad1C4z9t6CzOzco), [Thyivya Kalaiselvan](https://open.spotify.com/artist/7zDdKZl2GueIKw8B9UNhEB) | [ARKKAN ATTAM](https://open.spotify.com/album/5Ftzuc1iFFaPThU3nPfgP1) | 3:31 | 2025-06-12 |  |
 | [As Long As We Stay](https://open.spotify.com/track/34uhrPCTuIez9sRuuuYkBm) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Heidi Moru](https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems) | [As Long As We Stay](https://open.spotify.com/album/4MVcR1fEQjV3kfhQRznExk) | 3:48 | 2022-03-17 | 2024-11-22 |
 | [Asal Kau Nak Nangis?](https://open.spotify.com/track/618Sz1SFpPNSrV1wzxB0aj) | [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl) | [Asal Kau Nak Nangis?](https://open.spotify.com/album/32ZjPGPpXeaF6TmX19NZwQ) | 2:38 | 2024-05-23 | 2025-01-18 |
 | [ashes in the wind](https://open.spotify.com/track/1JVqrrKlbh3WJItt1ulLsb) | [Yongkytown](https://open.spotify.com/artist/0oLvq0E0XQT55lYZprrobg) | [ashes in the wind](https://open.spotify.com/album/33N9oTr3wYCUpteMMD1mWi) | 2:31 | 2024-01-11 | 2024-05-10 |
@@ -240,6 +240,7 @@
 | [Death of Me](https://open.spotify.com/track/1OwcfknkQamRu167BVpi7F) | [Dreebsby](https://open.spotify.com/artist/67NYMUIA5uSZPXuDXtCPRj) | [Death of Me](https://open.spotify.com/album/1y6gDFx1J7TIgaHHPG7tEY) | 2:49 | 2022-01-13 | 2022-03-11 |
 | [Delorean](https://open.spotify.com/track/6GLuYP7cXv91HyyPUy7jdq) | [Perry](https://open.spotify.com/artist/6xmUouQAgFHw0sIiIdBf0L), [The Impatient Sisters](https://open.spotify.com/artist/1MrMu9X3lJAQHm0AXOoVgG) | [Delorean](https://open.spotify.com/album/6w97lrGzG41UxqiP53rhmj) | 3:30 | 2023-08-31 | 2024-02-16 |
 | [Delusional](https://open.spotify.com/track/2a0NpvZSso8Kp2jKHdV3Ud) | [Mardiana](https://open.spotify.com/artist/3svIMmaQEnyipJfbbW6dyH) | [Delusional](https://open.spotify.com/album/7jy7fZsDWAhjGGJTBhuvIm) | 3:23 | 2023-01-12 | 2024-01-12 |
+| [Demam](https://open.spotify.com/track/1w5rYCgmghqAa9Q0yfspfT) | [7Evening](https://open.spotify.com/artist/6QzWlmMk6hBasBSrwig2OR) | [Demam](https://open.spotify.com/album/2UqDXv4oiF8fbRd0BzGsXI) | 3:29 | 2025-06-26 |  |
 | [Dermaga Bernyawa](https://open.spotify.com/track/3L8zufCQFc0TbyGQ8j5Y2P) | [Ameen Redza](https://open.spotify.com/artist/0VjnLRTp0nHnkEzIeVQuTi) | [Dermaga Bernyawa](https://open.spotify.com/album/7mea8aPybIG9oC1nSmc5NK) | 3:44 | 2025-06-26 |  |
 | [desire](https://open.spotify.com/track/3iQTrKKdovDXuhNM8bx4UI) | [gels](https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf), [Wondrah](https://open.spotify.com/artist/0l3fkpslJAMPZDPgT9KwDa) | [desire](https://open.spotify.com/album/1I9M6lDmCtV95iS11uSbaw) | 3:06 | 2025-04-25 | 2025-05-17 |
 | [Desire](https://open.spotify.com/track/4enRXp0XqK8Xy6FJyPuuaf) | [Khodi](https://open.spotify.com/artist/2e3lW79sSCTJmE9U5AcYFE) | [Desire](https://open.spotify.com/album/7eaUeXoBSNWdxDM44yOHkP) | 2:44 | 2022-03-17 | 2022-07-08 |
@@ -610,6 +611,7 @@
 | [need me now](https://open.spotify.com/track/6YwC4MT8zGsL2kOfMBRaML) | [ALVN](https://open.spotify.com/artist/72ubqJlbqJ9x9P6DLl3V3m) | [need me now](https://open.spotify.com/album/54XWCvc9Y7NsNPP1Z02O3p) | 2:34 | 2023-05-26 | 2023-11-18 |
 | [Nervous](https://open.spotify.com/track/0EWw0f8uvX4kfOtIEQsyRH) | [Aaron Bunac](https://open.spotify.com/artist/1MPSyVOJbRJmJsc4SsRNhI) | [Nervous](https://open.spotify.com/album/6KPNk9pGhIQPzJFxhqGUAt) | 3:39 | 2023-01-12 | 2023-06-16 |
 | [NEVER](https://open.spotify.com/track/7xPZnlty5gBy92kgqGtX6u) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [NEVER](https://open.spotify.com/album/3CQ13wZmKgdNIHe4aS0qm5) | 3:14 | 2022-03-10 | 2022-06-17 |
+| [Never Ever Die](https://open.spotify.com/track/7FvUZuR57aPDQ9Aczu2b1A) | [Jemerine Chan](https://open.spotify.com/artist/0KCmbIfMchkbS92OvDH5HL) | [Never Ever Die](https://open.spotify.com/album/42QdF6ND8V5sJeENxZo8bN) | 2:28 | 2025-06-26 |  |
 | [NEW BOOM BAP](https://open.spotify.com/track/4t91Tm4XHy0ZI27AwkfT7Q) | [CZALM](https://open.spotify.com/artist/3jlcCk5J1KEvF3zrCMAFyp) | [NEW BOOM BAP](https://open.spotify.com/album/2RsHIHYY0WncSLIrYpItFY) | 2:18 | 2022-07-07 | 2022-09-16 |
 | [New Found Love](https://open.spotify.com/track/2R5H9jpAb91JvSeYwl6xOy) | [DLKC](https://open.spotify.com/artist/0xiN6caKYAR6AQ04DPL2qc) | [New Found Love](https://open.spotify.com/album/0feDnuXGz6aLW4GIvIIRzN) | 2:49 | 2024-07-04 | 2024-11-22 |
 | [New York](https://open.spotify.com/track/7xKt7i4Erx0UbSz8hsTaGY) | [Amari Teague](https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC), [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [New York](https://open.spotify.com/album/7gLt0wcQfPDPIJdQfcMFob) | 3:20 | 2024-03-21 | 2024-04-19 |

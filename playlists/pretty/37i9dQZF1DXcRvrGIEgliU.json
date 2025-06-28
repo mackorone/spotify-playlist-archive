@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 4283,
+  "num_followers": 4333,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -947,6 +947,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Aankhon Se Batana",
+        "url": "https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws"
+      },
+      "artists": [
+        {
+          "name": "Dikshant",
+          "url": "https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR"
+        }
+      ],
+      "duration_ms": 221271,
+      "name": "Aankhon Se Batana",
+      "url": "https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Lonestar Luchador",
         "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 192000,
       "name": "Johnny Dang (with Paul Wall & DRODi)",
       "url": "https://open.spotify.com/track/6XEt23sq6sRgER8sSZbCR5"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Aankhon Se Batana",
-        "url": "https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws"
-      },
-      "artists": [
-        {
-          "name": "Dikshant",
-          "url": "https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR"
-        }
-      ],
-      "duration_ms": 221271,
-      "name": "Aankhon Se Batana",
-      "url": "https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0x6S6Ym4obKr2dz23OvDyd"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 190249,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/21HxYsyuuXZNqB1Dme5PQN"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Groundhog Day",
         "url": "https://open.spotify.com/album/0Nv9MBWrH1OmMohTasPc4O"
       },
@@ -1759,18 +1743,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "concrete",
-        "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0x6S6Ym4obKr2dz23OvDyd"
       },
       "artists": [
         {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 212000,
-      "name": "concrete",
-      "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
+      "duration_ms": 190249,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/21HxYsyuuXZNqB1Dme5PQN"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1791,6 +1775,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "gin and wine (ginuwine)",
+        "url": "https://open.spotify.com/album/2YH9ROddBBiwwK60vNqGsz"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "duration_ms": 129473,
+      "name": "gin and wine (ginuwine)",
+      "url": "https://open.spotify.com/track/0NCPFi6xi9C75yvdfukZKY"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Blondshell",
         "url": "https://open.spotify.com/album/0RSPVYjnhUDpXfMOa7zTdE"
       },
@@ -1807,18 +1807,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "gin and wine (ginuwine)",
-        "url": "https://open.spotify.com/album/2YH9ROddBBiwwK60vNqGsz"
+        "name": "concrete",
+        "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
       },
       "artists": [
         {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
         }
       ],
-      "duration_ms": 129473,
-      "name": "gin and wine (ginuwine)",
-      "url": "https://open.spotify.com/track/0NCPFi6xi9C75yvdfukZKY"
+      "duration_ms": 212000,
+      "name": "concrete",
+      "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Who are you?",
-        "url": "https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S"
-      },
-      "artists": [
-        {
-          "name": "Saga Faye",
-          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
-        }
-      ],
-      "duration_ms": 151979,
-      "name": "Who are you?",
-      "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Cat Girls Are Ruining My Life!",
         "url": "https://open.spotify.com/album/13vJf0S7wWfz9NC9nBhWqW"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 97317,
       "name": "Cat Girls Are Ruining My Life!",
       "url": "https://open.spotify.com/track/4SPBwOTXgku4QvmRtMEGfW"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Who are you?",
+        "url": "https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S"
+      },
+      "artists": [
+        {
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+        }
+      ],
+      "duration_ms": 151979,
+      "name": "Who are you?",
+      "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "fangirl",
-        "url": "https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt"
-      },
-      "artists": [
-        {
-          "name": "Regina Song",
-          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
-        }
-      ],
-      "duration_ms": 174462,
-      "name": "high school boy",
-      "url": "https://open.spotify.com/track/6Aj3Ff2lIXBZF3KxfQkUH2"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Just Drive",
         "url": "https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 147693,
       "name": "Just Drive",
       "url": "https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "fangirl",
+        "url": "https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt"
+      },
+      "artists": [
+        {
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        }
+      ],
+      "duration_ms": 174462,
+      "name": "high school boy",
+      "url": "https://open.spotify.com/track/6Aj3Ff2lIXBZF3KxfQkUH2"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2339,18 +2339,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "I Don't Wanna Lose",
-        "url": "https://open.spotify.com/album/44lnoKWe4pQib9vwQPgvHb"
+        "name": "Forest Green (Deluxe)",
+        "url": "https://open.spotify.com/album/0Jb9gNSi9ZuWoWB8gbsQQ7"
       },
       "artists": [
         {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
         }
       ],
-      "duration_ms": 179500,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/0yeSknpYINjXT25ilz4wpr"
+      "duration_ms": 138311,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/6a6JDEQbXdxkWFRIA0pRqL"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2367,6 +2367,58 @@
       "duration_ms": 162178,
       "name": "Joga Bonito",
       "url": "https://open.spotify.com/track/2BNJG8TLuZcp3yLtEUeGfr"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "I Don't Wanna Lose",
+        "url": "https://open.spotify.com/album/44lnoKWe4pQib9vwQPgvHb"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/0yeSknpYINjXT25ilz4wpr"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "sweetie (feat. Scribz Riley)",
+        "url": "https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "Scribz Riley",
+          "url": "https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61"
+        }
+      ],
+      "duration_ms": 177738,
+      "name": "sweetie (feat. Scribz Riley)",
+      "url": "https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Koszulka",
+        "url": "https://open.spotify.com/album/0GY7Jpt1L0C891A5WdgUPe"
+      },
+      "artists": [
+        {
+          "name": "Dawid Tyszkowski",
+          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
+        }
+      ],
+      "duration_ms": 252226,
+      "name": "Koszulka",
+      "url": "https://open.spotify.com/track/58GULPDRRkVUMm2AKaBEMm"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2391,38 +2443,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Koszulka",
-        "url": "https://open.spotify.com/album/0GY7Jpt1L0C891A5WdgUPe"
-      },
-      "artists": [
-        {
-          "name": "Dawid Tyszkowski",
-          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
-        }
-      ],
-      "duration_ms": 252226,
-      "name": "Koszulka",
-      "url": "https://open.spotify.com/track/58GULPDRRkVUMm2AKaBEMm"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Forest Green (Deluxe)",
-        "url": "https://open.spotify.com/album/0Jb9gNSi9ZuWoWB8gbsQQ7"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 138311,
-      "name": "Lavender",
-      "url": "https://open.spotify.com/track/6a6JDEQbXdxkWFRIA0pRqL"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/6yO5bLMCpNJAlIjkL59KE6"
       },
@@ -2435,26 +2455,6 @@
       "duration_ms": 198426,
       "name": "Blue",
       "url": "https://open.spotify.com/track/5XOmmOQZFpzeHnWcsFAEiX"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "sweetie (feat. Scribz Riley)",
-        "url": "https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        },
-        {
-          "name": "Scribz Riley",
-          "url": "https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61"
-        }
-      ],
-      "duration_ms": 177738,
-      "name": "sweetie (feat. Scribz Riley)",
-      "url": "https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq"
     },
     {
       "added_at": "2025-05-19 03:00:14",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Perreando toda la noche con Paulo Londra, Big One & Wisin.",
+  "description": "Perreando toda la noche con Cris Mj.",
   "name": "Perreo City",
   "tracks": [
     {
@@ -464,7 +464,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 165546,
       "name": "3D",
       "url": "https://open.spotify.com/track/5HtYVhthYMAs9QxLSjG4pQ"
@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 154421,
       "name": "Aqu\u00ed Pensando",
       "url": "https://open.spotify.com/track/2hKZlaSnEmIt5ZRDVMBm9X"
@@ -6436,7 +6436,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 185517,
       "name": "El Ba\u00f1o",
       "url": "https://open.spotify.com/track/71ERecKRBWmioDg3GOBGWn"
@@ -6848,7 +6848,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 202500,
       "name": "En Hebreo",
       "url": "https://open.spotify.com/track/6DbrJIfX7SW0orI2htf0eB"
@@ -12455,6 +12455,32 @@
     },
     {
       "album": {
+        "name": "MARINO",
+        "url": "https://open.spotify.com/album/4eVVkaRFYfTxQkqv4gT12n"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "MARINO",
+      "url": "https://open.spotify.com/track/4YsQ3uERJUFPf9cp62lTYI"
+    },
+    {
+      "album": {
         "name": "Marisola",
         "url": "https://open.spotify.com/album/6pEq0eQ4Jk0C7plPyyyXDp"
       },
@@ -12922,7 +12948,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 195463,
       "name": "Mela",
       "url": "https://open.spotify.com/track/7qys9lvqqMCxg0dDC9cjQl"
@@ -20224,7 +20250,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 175609,
       "name": "SIN VISAJE (feat. Miky la Sensa)",
       "url": "https://open.spotify.com/track/5a90sdCvt2b0aZHB7wnwk6"
@@ -20334,7 +20360,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 153500,
       "name": "Solida",
       "url": "https://open.spotify.com/track/1mpyzZYsTIlRar5s0CxsC5"
@@ -20886,7 +20912,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 180618,
       "name": "Te Conviene",
       "url": "https://open.spotify.com/track/6SYcT9BykBSNLVYbpEemT4"
@@ -22424,6 +22450,24 @@
       "duration_ms": 186693,
       "name": "VACAXIONES",
       "url": "https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4"
+    },
+    {
+      "album": {
+        "name": "Apocalipsis",
+        "url": "https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w"
+      },
+      "artists": [
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160394,
+      "name": "Vamo a Bailotear",
+      "url": "https://open.spotify.com/track/5lCk0ZeN8h76QxNqHEGMZJ"
     },
     {
       "album": {

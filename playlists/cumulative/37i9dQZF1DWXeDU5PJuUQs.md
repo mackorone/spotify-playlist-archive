@@ -4,7 +4,7 @@
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-217 songs - 13 hr 28 min
+218 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [No Llores \- En Vivo](https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [En Vivo en el Gran Rex](https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx) | 2:57 | 2021-12-10 |  |
 | [No Me Arrepiento de Este Amor \- En Vivo](https://open.spotify.com/track/5QAAcj7DhjZr7LmHTPWJYW) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [En Vivo en Fantastico Bailable](https://open.spotify.com/album/0HEBwnZSYuJ0MoMnFqGeoS) | 3:36 | 2025-02-28 |  |
 | [No Me Sigas Más \- En Vivo](https://open.spotify.com/track/26sh3TichZ1YnLGHvCnJVP) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi), [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [35 Años \(En Vivo\)](https://open.spotify.com/album/1aMMeshkQBx8XjnABlzGMn) | 4:01 | 2024-12-20 | 2025-04-26 |
-| [No me vuelvo a enamorar \- En Vivo](https://open.spotify.com/track/48nBEOvVz2kaA0mJcvaFPo) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/5iXv2zVf6nmd4FmBiSBMEv) | 1:10 | 2025-04-18 |  |
+| [No me vuelvo a enamorar \- En Vivo](https://open.spotify.com/track/48nBEOvVz2kaA0mJcvaFPo) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/5iXv2zVf6nmd4FmBiSBMEv) | 1:10 | 2025-04-18 | 2025-06-28 |
 | [No Me Vuelvo a Enamorar \- En Vivo](https://open.spotify.com/track/4AuHFUhynAOLJ7GHufKpyo) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Repiola \(En Vivo\)](https://open.spotify.com/album/2ISeQ9tbK98OIp6FtiPzQT) | 3:03 | 2021-12-10 | 2024-10-09 |
 | [No Te Creas Tan Importante \- En Vivo](https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [No Te Creas Tan Importante \(En Vivo\)](https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s) | 3:59 | 2021-12-10 |  |
 | [No Te Vi Crecer \- En Vivo](https://open.spotify.com/track/5WKV0jy7T3fzk5Lji9BpRf) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [La Historia Continua](https://open.spotify.com/album/3atDahyoXPO030lj6lpzLn) | 2:52 | 2021-12-10 | 2023-01-12 |
@@ -225,5 +225,6 @@
 | [Yo Tengo un Angel \- En Vivo](https://open.spotify.com/track/73lLqZyFsu6jGFfD1e7nYI) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Yo Tengo un Angel \(En Vivo\)](https://open.spotify.com/album/6nqRXecIGxl5eDTNekrldR) | 2:09 | 2022-03-18 | 2022-07-25 |
 | [Yo tomo licor \- En Vivo](https://open.spotify.com/track/4cJTVWpkGJa5G18egTwu2W) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [En Vivo Movistar Arena, Sesión 1](https://open.spotify.com/album/46VBUMLDQnPoR33QuXVJM7) | 2:25 | 2023-12-22 |  |
 | [Yo Tomo Licor / Yo Me Enamoré \- En Vivo](https://open.spotify.com/track/69kGoQVtPWKNqGOhitTQAw) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Yo Tomo Licor / Yo Me Enamoré \(En Vivo\)](https://open.spotify.com/album/6ffrFL4GjLMZC1xgxDpbib) | 3:49 | 2023-06-23 | 2023-09-16 |
+| [Éxitos, 30 años \- En Vivo Movistar Arena, Sesión 9](https://open.spotify.com/track/6t6sItvYfL3eeRsRveCefc) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Éxitos, 30 años \(En Vivo Movistar Arena, Sesión 9\)](https://open.spotify.com/album/1UabnzyGKPDi3mgyiYIvH2) | 6:49 | 2025-06-27 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

@@ -1321,6 +1321,24 @@
     },
     {
       "album": {
+        "name": "car",
+        "url": "https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197396,
+      "name": "car",
+      "url": "https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx"
+    },
+    {
+      "album": {
         "name": "Caroline",
         "url": "https://open.spotify.com/album/00oJBmsYNe1Y9JQw3ft0nl"
       },
@@ -2822,6 +2840,24 @@
       "duration_ms": 180523,
       "name": "Grow",
       "url": "https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en"
+    },
+    {
+      "album": {
+        "name": "Gut Feelings",
+        "url": "https://open.spotify.com/album/4qCCYyhWUZPvHS8XfnQayK"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204551,
+      "name": "Gut Feelings",
+      "url": "https://open.spotify.com/track/3ywowXgaDXWyYt9S9w9fXI"
     },
     {
       "album": {
@@ -4410,7 +4446,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 178840,
       "name": "Love Somebody Again",
       "url": "https://open.spotify.com/track/5oMEctLBPeeRe1VvYiN8xP"
@@ -6014,7 +6050,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 204374,
       "name": "September",
       "url": "https://open.spotify.com/track/4tzUX6dYhN6CPRaO7wF4c9"

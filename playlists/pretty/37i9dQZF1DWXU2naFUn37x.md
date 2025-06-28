@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 ### [Street Culto](https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x)
 
-> Don Joe, Young Hash e Melons in cover della playlist con il top dello street rap italiano 🐐
+> Don Joe, Young Hash e Melons in cover della playlist con il top dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,173 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,256 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Il Protettore \(feat\. Young Hash, Melons\)](https://open.spotify.com/track/66yQEbGYhw2CG1Mq3aXAXE) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe) | [Il Protettore \(feat\. Young Hash, Melons\)](https://open.spotify.com/album/2lsxZ73aTpyGO7ztfMsBsD) | 2:44 |
-| 2 | [Step \(feat\. Lazza\)](https://open.spotify.com/track/2ykjihVVaGaixmIK1nDW1w) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Step \(feat\. Lazza\)](https://open.spotify.com/album/2ckHxwHM4jBLS2Gdhq0S3E) | 2:36 |
-| 3 | [Miami Vice \(feat\. Sfera Ebbasta, Simba La Rue\)](https://open.spotify.com/track/2aJW4z2EoahGBpU3asFclE) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [Il mio lato peggiore](https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8) | 4:05 |
+| 1 | [Step \(feat\. Lazza\)](https://open.spotify.com/track/2ykjihVVaGaixmIK1nDW1w) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Step \(feat\. Lazza\)](https://open.spotify.com/album/2ckHxwHM4jBLS2Gdhq0S3E) | 2:36 |
+| 2 | [Miami Vice \(feat\. Sfera Ebbasta, Simba La Rue\)](https://open.spotify.com/track/2aJW4z2EoahGBpU3asFclE) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [Il mio lato peggiore](https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8) | 4:05 |
+| 3 | [Il Protettore \(feat\. Young Hash, Melons\)](https://open.spotify.com/track/66yQEbGYhw2CG1Mq3aXAXE) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe) | [Il Protettore \(feat\. Young Hash, Melons\)](https://open.spotify.com/album/2lsxZ73aTpyGO7ztfMsBsD) | 2:44 |
 | 4 | [Comfort \(feat\. Tony Boy\)](https://open.spotify.com/track/5mtVj6o82SJuEv0CmE4eDa) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Too Clean](https://open.spotify.com/album/6BOxaFOsnIFASRRH2JlBp5) | 2:44 |
 | 5 | [Società \(feat\. Shiva\)](https://open.spotify.com/track/0ffAQDy0hadsOsYycajB8u) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [UFORIA](https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB) | 3:15 |
 | 6 | [FW/SS25 \(Freestyle\)](https://open.spotify.com/track/1mErhpOIVgy2JPLO7KlI60) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Da Dove Vengo Io \(feat\. 22simba, Sgribaz\)](https://open.spotify.com/track/4KN14z0emJfKgmG2rPpSJO) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Sgribaz](https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi) | [The Blue Hour](https://open.spotify.com/album/5GIkMiuhOIC5sCE9gJ8UX6) | 3:24 |
 | 50 | [KAIOKEN X2](https://open.spotify.com/track/162UZDRBITYlWJRh4nEzI5) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [KAIOKEN X2](https://open.spotify.com/album/4LG23M9ncO84CmaY8QsUTZ) | 2:28 |
 
-Snapshot ID: `aF3DKwAAAAB1r56TZI32IgYv9b0heehK`
+Snapshot ID: `aF6gmAAAAACYpuoxLsIC42hICrA8BMpI`

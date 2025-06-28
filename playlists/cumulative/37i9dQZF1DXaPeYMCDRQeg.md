@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-363 songs - 23 hr 42 min
+366 songs - 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Marvins Room](https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:47 | 2023-02-10 |  |
 | [Me in 20 Years](https://open.spotify.com/track/3LuaxVf1C3jAJO6kzQgbIg) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm) | 3:40 | 2024-06-20 | 2024-06-30 |
 | [Me So Horny](https://open.spotify.com/track/3EgvmOhP3NQUHY7d6PDOUg) | [2 LIVE CREW](https://open.spotify.com/artist/58Dx4HPzeOO3dbpD9YYEes) | [As Nasty As They Wanna Be](https://open.spotify.com/album/5E27A8RO0L5fEkJut86TXb) | 4:36 | 2024-06-20 | 2024-06-30 |
+| [miami](https://open.spotify.com/track/5apvmgEiG6M5CKm5H1vube) | [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [BILLY2](https://open.spotify.com/album/1450j2LM1M8jb1bdjuC1LU) | 1:37 | 2025-06-27 |  |
 | [Mine \(feat\. Drake\)](https://open.spotify.com/track/63FrXif0Pdu4NAPvTh87mw) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 6:18 | 2024-01-31 | 2025-06-18 |
 | [Missing You](https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Open Letter](https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL) | 4:44 | 2023-02-10 | 2024-02-01 |
 | [Misunderstood](https://open.spotify.com/track/6zsT60ALu2xeljCWRp3rEs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 4:07 | 2021-12-15 | 2022-07-29 |
@@ -265,6 +266,7 @@
 | [Reasons](https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [That's The Way Of The World](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) | 4:59 | 2024-01-31 | 2024-04-25 |
 | [Reflections Laughing \(feat\. Travis Scott, Florence + The Machine\)](https://open.spotify.com/track/2gyHr9WqZeMtzJOpWGuGo6) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:51 | 2025-02-03 | 2025-02-05 |
 | [Reminisce](https://open.spotify.com/track/57JKgPzcF9uyKHKVvbznR1) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [1st Born Second](https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77) | 4:33 | 2021-12-15 | 2022-07-12 |
+| [RNG](https://open.spotify.com/track/2nZO5C9IUeKdeYU2D35iLy) | [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4) | [RNG](https://open.spotify.com/album/0N353rzYajw2pCiXM3ekV0) | 2:26 | 2025-06-27 |  |
 | [Rockin' That Shit](https://open.spotify.com/track/3RBGG1be9aBaSvjnw6ABkh) | [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Love Vs Money](https://open.spotify.com/album/3mNAV7P7KJzBxmrWfjtocw) | 3:41 | 2025-02-08 |  |
 | [Roll Some Mo](https://open.spotify.com/track/1sQBPGypjSgEgJZvD8u8ty) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 4:52 | 2021-12-15 | 2024-02-01 |
 | [S t u c k I n M y W a y s](https://open.spotify.com/track/1S6d4cV78ODCv3IRtl07us) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 2:59 | 2024-06-03 | 2024-06-16 |
@@ -363,6 +365,7 @@
 | [Work](https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:39 | 2024-01-31 | 2025-02-15 |
 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 | 2025-06-17 |  |
 | [WORTH IT \(feat\. Don Toliver\)](https://open.spotify.com/track/08oo0eCDQZ9XC3zQR8q44y) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [WORTH IT \(feat\. Don Toliver\)](https://open.spotify.com/album/1TLxAcly1q7a0tyavTGeNq) | 3:08 | 2024-04-24 |  |
+| [Yea Yea](https://open.spotify.com/track/68lvLHNsJlCLAnrskbell4) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Tha Language](https://open.spotify.com/album/1eR7AfJfPEsLTnkpkTEoi8) | 3:12 | 2025-06-27 |  |
 | [You](https://open.spotify.com/track/5Y77SQxEr1eiofPeUTPHxM) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Street Love](https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO) | 4:33 | 2024-01-31 |  |
 | [You Bring Me Joy](https://open.spotify.com/track/3d0NUBuihXzbmmo3zr1DQT) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [80's Pop Beyond the Hits](https://open.spotify.com/album/70yGq1XfqrV6cji5B7mcer) | 4:24 | 2021-12-15 | 2022-07-14 |
 | [You Don't Know My Name](https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 6:06 | 2024-01-31 |  |

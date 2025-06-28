@@ -1,13 +1,69 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44090,
+  "num_followers": 44091,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAaQV+c7FkRWInmKpkZlU0vqKLr0qux",
+  "snapshot_id": "AAAaRHNp64XbFoM4F0YJfcbme7UcjI6j",
   "tracks": [
+    {
+      "added_at": "2025-06-27 16:26:35",
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/5HE9gH7CjPGyIT7MNKJhKW"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 146769,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/2pLjWO7lYfFOJYXZOWJUS1"
+    },
+    {
+      "added_at": "2025-06-27 16:25:10",
+      "album": {
+        "name": "CHROMA",
+        "url": "https://open.spotify.com/album/4yd7qBrUgZiFgaUFudaxQZ"
+      },
+      "artists": [
+        {
+          "name": "Vincent",
+          "url": "https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB"
+        },
+        {
+          "name": "Luma",
+          "url": "https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp"
+        }
+      ],
+      "duration_ms": 179769,
+      "name": "Take Me Home (feat. Luma)",
+      "url": "https://open.spotify.com/track/3EL7AgqdZbLGx1krureBSH"
+    },
+    {
+      "added_at": "2025-06-27 16:25:36",
+      "album": {
+        "name": "En Color",
+        "url": "https://open.spotify.com/album/39OFnvsH9sXnFjfFVuPWR7"
+      },
+      "artists": [
+        {
+          "name": "2DEEP",
+          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
+        }
+      ],
+      "duration_ms": 123697,
+      "name": "Mu\u00e9vete",
+      "url": "https://open.spotify.com/track/4K1RBpUlnpZkNZjNu8ixAZ"
+    },
     {
       "added_at": "2025-06-25 20:52:57",
       "album": {

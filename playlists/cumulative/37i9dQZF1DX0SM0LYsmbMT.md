@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,422 songs - 7 day 0 hr 18 min
+4,424 songs - 7 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2521,6 +2521,7 @@
 | [My Ambience](https://open.spotify.com/track/12UTyr0aX6Wk5u4LHSbACd) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [My Ambience](https://open.spotify.com/album/0ivKyse55FnyCUMrb5RDb8) | 2:35 | 2023-11-23 | 2024-10-25 |
 | [My arms are searching for you](https://open.spotify.com/track/4rrqZym1WUAS6YJPfDMN8O) | [S\-Ilo](https://open.spotify.com/artist/04zvEg1lhzzyN1rLgfO8hG), [AM3Y](https://open.spotify.com/artist/4uOWTM9imhVCAWYsdy3DiR) | [The two of us are dying](https://open.spotify.com/album/2Q1nSlCORCLPoW5jH2HJfW) | 2:29 | 2022-03-24 | 2022-05-10 |
 | [My Friends](https://open.spotify.com/track/7L6h3WvfPnUnR1lgIftm2m) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [My Friends](https://open.spotify.com/album/3WXl80tjPstWGYNlFmHwcg) | 1:26 | 2023-05-05 | 2023-05-26 |
+| [My Home](https://open.spotify.com/track/7MiFG1eup2CPNq5JOkrQhl) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Flow](https://open.spotify.com/album/28gbpdO6RA0mSBzDiafG2l) | 1:49 | 2025-06-27 |  |
 | [My Hope Is Fading](https://open.spotify.com/track/5wjnDO7yBpwIpipsTLzJWu) | [Sepalot](https://open.spotify.com/artist/3sZWrl2jYnPP1vw9cIqDZV) | [My Hope Is Fading](https://open.spotify.com/album/2aPxVI3usClCutyJpb96gw) | 2:00 | 2021-08-13 | 2021-09-10 |
 | [My Moon And Stars](https://open.spotify.com/track/1ld9UbztNm7EjMVEisBn9z) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [My Moon And Stars](https://open.spotify.com/album/3N4Uw2qOwRHNtHp0Sp5L5X) | 1:56 | 2025-04-11 | 2025-04-26 |
 | [My Slow Dance](https://open.spotify.com/track/4nSENICQ90bTXPEqBVC3WW) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [My Slow Dance](https://open.spotify.com/album/5bTf1y9gZkYrKkcs0u9FQd) | 2:20 | 2019-05-26\* | 2019-08-13 |
@@ -3366,6 +3367,7 @@
 | [Sixty Six](https://open.spotify.com/track/6oTm695WmLz5L5jxa6O0vJ) | [Flo Badabum](https://open.spotify.com/artist/4dMQdNx2YofJBiOfxRLcD0), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Sixty Six](https://open.spotify.com/album/5s4I1b0csbSR512Pp1poTv) | 2:38 | 2024-02-29 | 2024-03-24 |
 | [Sizedrum](https://open.spotify.com/track/3nuSxBQUTn7nidezkdcBf4) | [Leyze](https://open.spotify.com/artist/1qlTDCLkb8uV3TG7I8aLdo) | [Amnesie](https://open.spotify.com/album/3ud7MR6RnLOms34crGFRkl) | 2:56 | 2020-01-15 | 2020-05-01 |
 | [Skatepark](https://open.spotify.com/track/6yZobJ6pZXY0dlwzki1Foc) | [Howiewonder](https://open.spotify.com/artist/6tLB3u0PouAAwQXDRFuiSk), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Skatepark](https://open.spotify.com/album/5YUFngesn1ZEu0RcaQttUH) | 1:05 | 2025-02-06 | 2025-03-22 |
+| [skills](https://open.spotify.com/track/2I0IyaxKWCbpsWpKqTm17U) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [skills](https://open.spotify.com/album/6wrc9Wgs0TbJBweRqWWj8W) | 2:00 | 2025-06-27 |  |
 | [Skipping Stones](https://open.spotify.com/track/1IJOtn16CnU7N0N1nW60eX) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Skipping Stones](https://open.spotify.com/album/3k7BkPL1eVzVeB2jyip1eg) | 1:26 | 2024-01-04 | 2024-02-16 |
 | [Skittles](https://open.spotify.com/track/7msQzqb8unxrhXqlwDmg1R) | [Hank Doobie](https://open.spotify.com/artist/2sndt7cXfYKuGjy3OIhZDA) | [Skittles](https://open.spotify.com/album/2hZFApT95SLW7P38RZnrwP) | 2:25 | 2020-12-11 | 2021-01-04 |
 | [Sky](https://open.spotify.com/track/5HuUjzTXtWxC7lXoaqcBfK) | [Hast](https://open.spotify.com/artist/39Rgp6INOAzKOgYNdAZpir), [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Sky](https://open.spotify.com/album/1yid5ZYBA1fQlRLBwjMVPx) | 2:13 | 2020-11-20 | 2021-05-28 |
@@ -3383,7 +3385,7 @@
 | [Sleepy Friday](https://open.spotify.com/track/6NTBj7CHsgxjWcEVZyhOPQ) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [Monomo](https://open.spotify.com/artist/2dmpVwPMr9wEkPAgntGyqY) | [Sleepy Friday](https://open.spotify.com/album/1YDqY8nqihZnBlDABjHSWE) | 2:14 | 2023-04-27 | 2023-05-19 |
 | [Slide](https://open.spotify.com/track/3qSuHSjEYAltq1AbZS2UGG) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Slide](https://open.spotify.com/album/60VPZAG5D1D5Aok7fepeGp) | 1:49 | 2023-02-16 | 2023-10-20 |
 | [Slide](https://open.spotify.com/track/3o4E6Xq9dUTT4imswVdIXh) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Slide](https://open.spotify.com/album/5aCf6NmHkypMQ2AT7QnxPm) | 2:22 | 2020-12-11 | 2021-02-12 |
-| [Slide Along](https://open.spotify.com/track/0aV3DqM7ZUhtohHz4J7hut) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Slide Along](https://open.spotify.com/album/2bUqwKMiC9EMKtwYU8DOI2) | 2:39 | 2025-02-06 |  |
+| [Slide Along](https://open.spotify.com/track/0aV3DqM7ZUhtohHz4J7hut) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Slide Along](https://open.spotify.com/album/2bUqwKMiC9EMKtwYU8DOI2) | 2:39 | 2025-02-06 | 2025-06-28 |
 | [Slim Jacket](https://open.spotify.com/track/0pGJnOkY6i8JTDPUjPYES2) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Slim Jacket](https://open.spotify.com/album/75OvIustTjKXC7O3jtjzM0) | 1:44 | 2021-10-08 | 2021-11-19 |
 | [slip away](https://open.spotify.com/track/1xru1k74u5d6e4WAOkB68d) | [p1H](https://open.spotify.com/artist/2BLdsgIde6vS1z9GIGRYrm) | [slip away](https://open.spotify.com/album/7IU1Itc2QrYY5FKjewYNsB) | 1:45 | 2020-04-24 | 2020-06-19 |
 | [Slow Churn](https://open.spotify.com/track/3jmCNLAvM4dQ1cNED4RPZ0) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Slow Churn](https://open.spotify.com/album/1Ud4ufBC49rkLbqbWyST0T) | 1:56 | 2020-07-24 | 2021-03-06 |
@@ -4409,7 +4411,7 @@
 | [Yucca](https://open.spotify.com/track/2l2VhcUOu7reM8FuefmYot) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Yucca](https://open.spotify.com/album/1HNrE1zGLz0WakaGj0J0ry) | 2:08 | 2021-06-05 | 2022-04-01 |
 | [Yugen](https://open.spotify.com/track/1uAsrVZwWejTkJ87otnX7l) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr), [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Yugen](https://open.spotify.com/album/3KzCaYMJFkvEtPDPbWrxhw) | 1:55 | 2022-06-23 | 2025-05-10 |
 | [Yume](https://open.spotify.com/track/00MqUOs251nhIMylhkHr8K) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr) | [Yume](https://open.spotify.com/album/1ChtM7N6WHf5Lyq37IwszZ) | 1:41 | 2022-07-21 | 2022-09-23 |
-| [Yuna](https://open.spotify.com/track/0myPNIeqjElCgxGy1NrnJO) | [Kanisan](https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO), [lost echoes](https://open.spotify.com/artist/4qEfsqgimyar3YYKEUQpWN) | [Yuna](https://open.spotify.com/album/0XrFcg4EQXssbvgGDtwCQZ) | 2:03 | 2023-11-23 |  |
+| [Yuna](https://open.spotify.com/track/0myPNIeqjElCgxGy1NrnJO) | [Kanisan](https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO), [lost echoes](https://open.spotify.com/artist/4qEfsqgimyar3YYKEUQpWN) | [Yuna](https://open.spotify.com/album/0XrFcg4EQXssbvgGDtwCQZ) | 2:03 | 2023-11-23 | 2025-06-28 |
 | [z](https://open.spotify.com/track/1eWiV1OR3IGbInORESHF66) | [Jopez](https://open.spotify.com/artist/3qooMZibvBeHw1K1hfm5vz) | [z](https://open.spotify.com/album/366KfG46QfihcMKsPnyr0U) | 2:29 | 2020-12-01 | 2021-01-04 |
 | [Zairi](https://open.spotify.com/track/0BkjeckjiuLr9W5sa1YcE3) | [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Zairi](https://open.spotify.com/album/6wXugGXotXqibuOVzXTAM6) | 2:05 | 2022-09-15 | 2023-10-20 |
 | [Zarapatana](https://open.spotify.com/track/0lfDFBBRD70fEWYtDc9sc8) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Zarapatana](https://open.spotify.com/album/031dk7ELmAm8flqyMYMb7G) | 2:17 | 2021-01-23 | 2021-03-14 |

@@ -4,7 +4,7 @@
 
 > Music from "Love Live! Sunshine!!" ©2017 プロジェクトラブライブ！サンシャイン!!
 
-77 songs - 5 hr 47 min
+78 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [キモチもユメも一緒だね!](https://open.spotify.com/track/0NOjMAor1xOsHaXu7dtwYS) | [国木田花丸 \(CV.高槻かなこ\)](https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an), [黒澤ルビィ \(CV.降幡 愛\)](https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO) | [デュオトリオコレクション \(VOL.2 〜WINTER VACATION〜\)](https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ) | 4:43 | 2022-08-02 | 2025-05-27 |
 | [コットンキャンディえいえいおー!](https://open.spotify.com/track/10N2sb4vrtmSs5DeZyV5c8) | [黒澤ルビィ \(CV.降幡 愛\) from Aqours](https://open.spotify.com/artist/5vjMooJRmrsyJuFv8z5HAh) | [LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album 〜RED GEM WINK〜](https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr) | 4:18 | 2022-08-02 |  |
 | [コワレヤスキ](https://open.spotify.com/track/1TizL66jSoN48Hj8airJgr) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [コワレヤスキ](https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO) | 5:02 | 2022-08-02 |  |
+| [スリリング・ワンウェイ](https://open.spotify.com/track/0tJ6EW7EqnasppXMSXujDR) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015〜2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:32 | 2024-12-17 |  |
 | [ダイスキだったらダイジョウブ!](https://open.spotify.com/track/51118cg0D9k0F952AGtNou) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr), [桜内梨子 \(CV.逢田梨香子\)](https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O), [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB) | [決めたよHand in Hand/ダイスキだったらダイジョウブ!](https://open.spotify.com/album/5Ssi8gxeAfX6INMNyYKIuL) | 4:32 | 2022-10-04 |  |
 | [トリコリコPLEASE!!](https://open.spotify.com/track/6d3G58cEHrqIMyDKaMuRu3) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [トリコリコPLEASE!!](https://open.spotify.com/album/4ZHvPOI0ckze6XmO5KCbs3) | 3:47 | 2022-08-02 |  |
 | [ファボタージュ](https://open.spotify.com/track/2psUQr8PonQhzP4t7XHv8G) | [You Watanabe \(CV: Shuka Saito\)](https://open.spotify.com/artist/4Xu7KIJcGf3HjxUFiObdcL), [Yoshiko Tsushima \(CV: Aika Kobayashi\)](https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY), [Ruby Kurosawa \(CV: Ai Furihata\)](https://open.spotify.com/artist/6xjmmhxHFSi5eDJCuTna0B) | [わーいわいわい わいわいわい！](https://open.spotify.com/album/2OHTwcMbvQRnUkWeZSbDe4) | 3:36 | 2022-11-08 |  |
@@ -83,7 +84,7 @@
 | [空も心も晴れるから](https://open.spotify.com/track/6XXu1HySrCSd25li37RADe) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr), [桜内梨子 \(CV.逢田梨香子\)](https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O), [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015〜2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 5:02 | 2022-08-02 |  |
 | [空中恋愛論](https://open.spotify.com/track/7HQAR5V6SQC8SGfimUpFYD) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [Amazing Travel DNA](https://open.spotify.com/album/42GXO2RpG8GXDZaWPXGBJ2) | 3:42 | 2022-08-02 | 2025-02-21 |
 | [近未来ハッピーエンド](https://open.spotify.com/track/09hTxG0bQXAulhD92ambAW) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [近未来ハッピーエンド](https://open.spotify.com/album/55Mz7WkM8ILMs57h5jAemf) | 5:10 | 2022-08-02 |  |
-| [青空Jumping Heart](https://open.spotify.com/track/7p9Oua59fBF8L7jaD144LA) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [青空Jumping Heart](https://open.spotify.com/album/0Z1rNWMPEIKfdK8yISgwwZ) | 4:44 | 2022-08-02 |  |
+| [青空Jumping Heart](https://open.spotify.com/track/7p9Oua59fBF8L7jaD144LA) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [青空Jumping Heart](https://open.spotify.com/album/0Z1rNWMPEIKfdK8yISgwwZ) | 4:44 | 2022-08-02 | 2025-06-28 |
 | [青空Jumping Heart \- 黒澤ダイヤ Solo Ver.](https://open.spotify.com/track/5yBPoPHcxfD4DlAheSWlMz) | [黒澤ダイヤ \(CV.小宮有紗\) from Aqours](https://open.spotify.com/artist/0EIh0S0UKHafWiyMUYltsr) | [LoveLive! Sunshine!! Second Solo Concert Album \~THE STORY OF FEATHER\~ starring Kurosawa Dia](https://open.spotify.com/album/29GeZ2kwIWCQY5paeGo0qu) | 4:44 | 2022-08-02 | 2022-09-19 |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

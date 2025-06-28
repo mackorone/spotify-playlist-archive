@@ -12711,6 +12711,24 @@
     },
     {
       "album": {
+        "name": "Buongiorno Italia",
+        "url": "https://open.spotify.com/album/4hOOOiGeJcCEoY98DwAQpa"
+      },
+      "artists": [
+        {
+          "name": "Jesto",
+          "url": "https://open.spotify.com/artist/3zkAFoqRMvc1ZWjW65XOO8"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210773,
+      "name": "Stories d'amore",
+      "url": "https://open.spotify.com/track/3pFBuDWXeYQadSfpYQs86t"
+    },
+    {
+      "album": {
         "name": "Strappami",
         "url": "https://open.spotify.com/album/1g68iPAK1qMQaC0uRHj98w"
       },

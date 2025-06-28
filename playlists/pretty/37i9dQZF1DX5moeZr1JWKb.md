@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 
 > Estas son las grandes voces del Hip Hop\. Foto: Delfina Dib
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,513 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,516 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 | 4 | [ADN](https://open.spotify.com/track/6A69ir2y3C3mGaTKcSSgaN) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [ADN](https://open.spotify.com/album/4pvFRpzPSBouPH6Se6etmh) | 4:20 |
 | 5 | [Sanandresito](https://open.spotify.com/track/6gM47hmoDZhAea7Aswn1pR) | [ZetaZeta](https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7), [El Kalvo](https://open.spotify.com/artist/3GOtzu1fzxIS0zYI94K21v) | [Sanandresito](https://open.spotify.com/album/6u9KmEswyNM0tFW5fvxjhV) | 3:01 |
 | 6 | [INSTINTO](https://open.spotify.com/track/2iCYcHvwdNOFQTtekOHYyL) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [INSTINTO](https://open.spotify.com/album/6ijdWK2Svb4fi8ucoafIY9) | 3:53 |
-| 7 | [Oww Nena](https://open.spotify.com/track/1AnvK8DUi7ngXsyzntf4jB) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Oww Nena](https://open.spotify.com/album/0G0EqnM1wIHAKCoEG7i9Lq) | 2:27 |
-| 8 | [Misa de Sanazión](https://open.spotify.com/track/1CX7PvsFx7VYPbwDiLzGfJ) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Tito Agudelo](https://open.spotify.com/artist/4E20VVE4wb20LhvtMqfZ49) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 3:22 |
-| 9 | [Oro Por Ti](https://open.spotify.com/track/3hWnBTMoc0QGporRnmLZQn) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 3:36 |
-| 10 | [Hijas de Barrio 2](https://open.spotify.com/track/7CeMnPUN6V2N63VzREf3Co) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Hanna Hasen](https://open.spotify.com/artist/2cibAK6OyCLD0OizSSB9TT), [Zaru](https://open.spotify.com/artist/4yz602qHvJ4eoC06wCM5rG) | [Hijas de Barrio 2](https://open.spotify.com/album/7LSnoRRTKI9PlJK50EHURk) | 3:12 |
+| 7 | [Soñadores Atrevidos](https://open.spotify.com/track/2SVdYwGa9DMTTUR0VrE1tE) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [Soñadores Atrevidos](https://open.spotify.com/album/4uQA75ZAnksqEvlPFD8jY7) | 4:32 |
+| 8 | [Oww Nena](https://open.spotify.com/track/1AnvK8DUi7ngXsyzntf4jB) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Oww Nena](https://open.spotify.com/album/0G0EqnM1wIHAKCoEG7i9Lq) | 2:27 |
+| 9 | [Misa de Sanazión](https://open.spotify.com/track/1CX7PvsFx7VYPbwDiLzGfJ) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Tito Agudelo](https://open.spotify.com/artist/4E20VVE4wb20LhvtMqfZ49) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 3:22 |
+| 10 | [Oro Por Ti](https://open.spotify.com/track/3hWnBTMoc0QGporRnmLZQn) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 3:36 |
 | 11 | [Dios y Madre](https://open.spotify.com/track/34fiXTDrqSTOYdTfN937yt) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [Dios y Madre](https://open.spotify.com/album/1dMfJIlVKopZkPqn2UmTQH) | 3:21 |
 | 12 | [Ya fue](https://open.spotify.com/track/2DqDBdfLbgWOCcSPBQrEuR) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Ya fue](https://open.spotify.com/album/0WCw63aOrUIGTPcstGvm9g) | 3:04 |
 | 13 | [Viento en Popa](https://open.spotify.com/track/6dXCENI9cZZjB2adfQAeor) | [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB), [Ignorancia Sofisticada](https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX) | [Miedo](https://open.spotify.com/album/1hoK3q8ot47VN4o2sAYvgU) | 2:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 | 74 | [Tararea](https://open.spotify.com/track/0Go1Z1pGPbCGv1dADfSbLn) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/6PpSdpOYFAsR81W6X3SrbT) | 3:19 |
 | 75 | [Mal Ejemplo](https://open.spotify.com/track/1IwdJy0egbXlhmY6dmTU9j) | [Gordo Sarkasmus](https://open.spotify.com/artist/38N7geKwv6xd2fESw199BD), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [ZetaZeta](https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7) | [Mal Ejemplo](https://open.spotify.com/album/26dgbqThI76gzXN2lTAcfK) | 3:11 |
 
-Snapshot ID: `aEKBUwAAAABSd4XAD7Qn45m8whQQ9ScF`
+Snapshot ID: `aF4lGQAAAACrh12GhOo4Y8LcuHBUex8A`

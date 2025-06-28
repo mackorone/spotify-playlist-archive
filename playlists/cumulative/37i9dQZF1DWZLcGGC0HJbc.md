@@ -4,7 +4,7 @@
 
 > als het woud een playlist zou zijn
 
-161 songs - 9 hr 35 min
+162 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Lullabye For Losers](https://open.spotify.com/track/7GGwiBcQbfTWnYx2ZK3Byk) | [Tin Fingers](https://open.spotify.com/artist/4tLOVSDLiCDwmJtaHEJJZu) | [Rock Bottom Ballads](https://open.spotify.com/album/47fvZIFsSRHdYQW378dNlZ) | 4:29 | 2024-06-27 | 2024-07-19 |
 | [Moonlight Child](https://open.spotify.com/track/1XS1byNGw6Ii27Z9os7RUf) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [All Under Heaven](https://open.spotify.com/album/5IXDmsbdVqJiT9UqMtpAxF) | 4:29 | 2025-01-23 | 2025-01-29 |
 | [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 | 2025-02-27 |  |
+| [Moth Song](https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Moth Song](https://open.spotify.com/album/15tDiSE6EpMxDxUDkRXKwN) | 5:03 | 2025-06-26 |  |
 | [Mount Fuji](https://open.spotify.com/track/1sY4WwCZYh3nkLnojWRk8h) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [How Do We Go Back To Being Normal?](https://open.spotify.com/album/7t77eQdswzlXeKdAhIeJFg) | 3:30 | 2025-02-20 | 2025-03-01 |
 | [Mountainsong](https://open.spotify.com/track/03ErdYcB9JbUBZCRYdVrg9) | [Catbug](https://open.spotify.com/artist/1JaN6kQQwn2LiP0VBH8Zpj) | [Mountainsong](https://open.spotify.com/album/1WZ9xo6JWHuk9r9lM0Bz9J) | 6:20 | 2024-07-18 | 2025-01-24 |
 | [Much Ado About Nothing](https://open.spotify.com/track/0nuneId81O8XGxUjSCL316) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/5O9TGAJ6Opoya7KCBKKQUA) | 3:49 | 2025-01-23 |  |
@@ -168,6 +169,6 @@
 | [Winter Baby](https://open.spotify.com/track/4gsO99UmYFrncTeTvMDwWX) | [Sam Vano](https://open.spotify.com/artist/7pGC4cTs6vBSWgWDnf5To5) | [Winter Baby](https://open.spotify.com/album/3OL8iyJX6m54OGBWY6cLoz) | 3:06 | 2025-01-23 | 2025-02-14 |
 | [You Are The Morning](https://open.spotify.com/track/42eoOh5gqlN1iazumPf4ei) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/2YEw0l5F8HCK3t6iZWzCx3) | 4:13 | 2025-02-03 | 2025-05-13 |
 | [You Said I'd Feel It All Again](https://open.spotify.com/track/0cuXTNMJypoaqDbJZVZu2H) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [You Said I'd Feel It All Again](https://open.spotify.com/album/4PB0sUYPXDP7s5O5zYW2Zk) | 3:52 | 2025-01-23 | 2025-02-12 |
-| [Yvonne](https://open.spotify.com/track/4fPaBqB8bWftagOHy2xtDF) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Yvonne](https://open.spotify.com/album/3pFLJO0siLPq3r89fuJVk7) | 2:12 | 2025-05-29 |  |
+| [Yvonne](https://open.spotify.com/track/4fPaBqB8bWftagOHy2xtDF) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Yvonne](https://open.spotify.com/album/3pFLJO0siLPq3r89fuJVk7) | 2:12 | 2025-05-29 | 2025-06-28 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

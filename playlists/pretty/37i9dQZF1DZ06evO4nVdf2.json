@@ -1,33 +1,13 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 63838,
+  "num_followers": 63845,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFs8AAAAAAChK+LRlFuFyiAevtD7xb3/",
+  "snapshot_id": "aFyNgAAAAACti6tVL3aXS67vyHth+F2B",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "<3CDMX",
-        "url": "https://open.spotify.com/album/4GA4fEf2DfMVAoJ60eE151"
-      },
-      "artists": [
-        {
-          "name": "Zahara",
-          "url": "https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "<3CDMX",
-      "url": "https://open.spotify.com/track/3L8OZNmQMFGMDhigIRL1zR"
-    },
     {
       "added_at": null,
       "album": {
@@ -799,6 +779,26 @@
       "duration_ms": 217541,
       "name": "ALV",
       "url": "https://open.spotify.com/track/0czJDMboe5qf9NTHisp6kO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "<3CDMX",
+        "url": "https://open.spotify.com/album/4GA4fEf2DfMVAoJ60eE151"
+      },
+      "artists": [
+        {
+          "name": "Zahara",
+          "url": "https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 184133,
+      "name": "<3CDMX",
+      "url": "https://open.spotify.com/track/3L8OZNmQMFGMDhigIRL1zR"
     },
     {
       "added_at": null,

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Joe Bonamassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,871 likes - 150 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,935 likes - 150 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Trigger Finger](https://open.spotify.com/track/6XHWkCRUWawmhKabunby7P) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Trigger Finger](https://open.spotify.com/album/4CdL2CJw4i5qUOpNQCTNWF) | 4:04 |
-| 2 | [HIGH/LOW](https://open.spotify.com/track/6Y7tVRFyWGq2XT1sSWW5b6) | [Leilani Kilgore](https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe) | [HIGH/LOW](https://open.spotify.com/album/1PdFSe3SjJoJzy7gl8Dpf8) | 3:53 |
-| 3 | [Evil Eye](https://open.spotify.com/track/0HCWTypvO4PiGXJBdG1H9f) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Evil Eye](https://open.spotify.com/album/5cwGPPnSNEfGfbdGp5raap) | 2:28 |
-| 4 | [Old Time Low](https://open.spotify.com/track/4yZH8DuH7X5ohvSB1VZG80) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Old Time Low](https://open.spotify.com/album/2WwdQXv8fzMzXOE2DdxIKf) | 3:00 |
-| 5 | [Borrow My Boots](https://open.spotify.com/track/3K5ejUtwpzA2pnlsyt7hdr) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Grace Bowers](https://open.spotify.com/artist/3SWXWMtSA0ZWxvhESbTkJe), [Shelly Fairchild](https://open.spotify.com/artist/4FALuPoXjPUK7GZrghbSjm) | [Borrow My Boots](https://open.spotify.com/album/2MDhb7bszkqpJYHI8rV1w1) | 2:40 |
-| 6 | [Breakthrough](https://open.spotify.com/track/7AuyKST1ulHhDBqfXkqSF9) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/7a3lCWnJGFqM0Dyrt23vkb) | 4:10 |
-| 7 | [Walk Away](https://open.spotify.com/track/686bz1ogUnhlYoJikZ3hs0) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Walk Away](https://open.spotify.com/album/4gW6izJaZ5YEzsamZTv5df) | 3:38 |
-| 8 | [Nowheresville](https://open.spotify.com/track/5ge6Um0eo4aQ9CmgYRCS3B) | [RMB](https://open.spotify.com/artist/6VkGjMJuoZnn4Yz1xXBouh) | [Nowheresville](https://open.spotify.com/album/3bu3QdzH2FgrNTFrmjy3UE) | 4:30 |
-| 9 | [Lose You](https://open.spotify.com/track/743vRLLefFlohxNA7XRxQE) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Paper Doll](https://open.spotify.com/album/0Gp2WizYQ34bXTL5vA85Fq) | 3:13 |
-| 10 | [Big Women](https://open.spotify.com/track/2besC8P5XlSgrfx3WlAODD) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Big Women](https://open.spotify.com/album/3odHHsOy9iCoYouoOrH8Gt) | 4:59 |
+| 1 | [7 Generations](https://open.spotify.com/track/3Ng6V9tduQzqGJx7ABoNRz) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Preacher Kids](https://open.spotify.com/album/1fr0maIiPbbXdPyI5hLxnV) | 5:56 |
+| 2 | [Trigger Finger](https://open.spotify.com/track/6XHWkCRUWawmhKabunby7P) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Trigger Finger](https://open.spotify.com/album/4CdL2CJw4i5qUOpNQCTNWF) | 4:04 |
+| 3 | [HIGH/LOW](https://open.spotify.com/track/6Y7tVRFyWGq2XT1sSWW5b6) | [Leilani Kilgore](https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe) | [HIGH/LOW](https://open.spotify.com/album/1PdFSe3SjJoJzy7gl8Dpf8) | 3:53 |
+| 4 | [Evil Eye](https://open.spotify.com/track/0HCWTypvO4PiGXJBdG1H9f) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Evil Eye](https://open.spotify.com/album/5cwGPPnSNEfGfbdGp5raap) | 2:28 |
+| 5 | [Old Time Low](https://open.spotify.com/track/4yZH8DuH7X5ohvSB1VZG80) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Old Time Low](https://open.spotify.com/album/2WwdQXv8fzMzXOE2DdxIKf) | 3:00 |
+| 6 | [Borrow My Boots](https://open.spotify.com/track/3K5ejUtwpzA2pnlsyt7hdr) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Grace Bowers](https://open.spotify.com/artist/3SWXWMtSA0ZWxvhESbTkJe), [Shelly Fairchild](https://open.spotify.com/artist/4FALuPoXjPUK7GZrghbSjm) | [Borrow My Boots](https://open.spotify.com/album/2MDhb7bszkqpJYHI8rV1w1) | 2:40 |
+| 7 | [Breakthrough](https://open.spotify.com/track/7AuyKST1ulHhDBqfXkqSF9) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/7a3lCWnJGFqM0Dyrt23vkb) | 4:10 |
+| 8 | [Walk Away](https://open.spotify.com/track/686bz1ogUnhlYoJikZ3hs0) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Walk Away](https://open.spotify.com/album/4gW6izJaZ5YEzsamZTv5df) | 3:38 |
+| 9 | [Nowheresville](https://open.spotify.com/track/5ge6Um0eo4aQ9CmgYRCS3B) | [RMB](https://open.spotify.com/artist/6VkGjMJuoZnn4Yz1xXBouh) | [Nowheresville](https://open.spotify.com/album/3bu3QdzH2FgrNTFrmjy3UE) | 4:30 |
+| 10 | [Lose You](https://open.spotify.com/track/743vRLLefFlohxNA7XRxQE) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Paper Doll](https://open.spotify.com/album/0Gp2WizYQ34bXTL5vA85Fq) | 3:13 |
 | 11 | [Holy Water](https://open.spotify.com/track/1YypSwQhC86QYatXNrikAV) | [Rockababyrock](https://open.spotify.com/artist/36HOHy9YzgiG2FrGRWf99s), [Striking Matches](https://open.spotify.com/artist/3qLBc5htEe4QgGvHYglyTU), [Tyler Banks](https://open.spotify.com/artist/3mDFJuPmEsbNhzkR7yyJkZ) | [Holy Water](https://open.spotify.com/album/6gcXWQzLXGPPejTKAJ7G5D) | 4:24 |
 | 12 | [Brown Liquor](https://open.spotify.com/track/42noe9MfFLBjYkWoc8pPQn) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Money & Power](https://open.spotify.com/album/0Dwz5n9Dk4PJR9PA8rZGwh) | 3:47 |
 | 13 | [Borderline](https://open.spotify.com/track/5BdalGXcHyZj0dB7VYesFh) | [Hollow Souls](https://open.spotify.com/artist/5ocW71erbVqk2vkWFucNo4), [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Borderline](https://open.spotify.com/album/1fbjn34QJvS7Mkss057bmi) | 3:20 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [Them Shoes](https://open.spotify.com/track/4WeeCdOInoH5HyO8xcxiAt) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/6sgZ7yq8F0HZ1xmdgQrcJP) | 5:48 |
 | 150 | [Light Up The Sky](https://open.spotify.com/track/4EwICCST3U0KB6DwrK1L8Y) | [Apollo Junction](https://open.spotify.com/artist/0AzjiMoCvzOmUCPX7944dZ) | [Light Up The Sky](https://open.spotify.com/album/2STOuaYMyZWYtJIxCHm2lO) | 3:24 |
 
-Snapshot ID: `aFTc4QAAAABPp5JcYoq6k3tXoq0YqJyY`
+Snapshot ID: `aF4XWgAAAACXbQCM3jRP59sf5wRogqRf`

@@ -16923,6 +16923,24 @@
     },
     {
       "album": {
+        "name": "UP",
+        "url": "https://open.spotify.com/album/0xdsUzAAc2M1NOpcymxezh"
+      },
+      "artists": [
+        {
+          "name": "Reaper",
+          "url": "https://open.spotify.com/artist/47qrgNNbZRRCAK0ZrKcuZV"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198139,
+      "name": "UP",
+      "url": "https://open.spotify.com/track/31mO7evLXfPLxigHsbvsN1"
+    },
+    {
+      "album": {
         "name": "Up and Away",
         "url": "https://open.spotify.com/album/2ERdLrGZOF7cduTv92k3z1"
       },

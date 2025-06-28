@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 353467,
+  "num_followers": 353519,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Behind Your Walls",
-        "url": "https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 201186,
-      "name": "Behind Your Walls - Acoustic",
-      "url": "https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Supernatural (Acoustic)",
         "url": "https://open.spotify.com/album/0NA5HU5TEt6Hsjr04tbSuM"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 186013,
       "name": "Supernatural - Acoustic",
       "url": "https://open.spotify.com/track/5igYPHZLmBtcYmvHbgrUcn"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Behind Your Walls",
+        "url": "https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 201186,
+      "name": "Behind Your Walls - Acoustic",
+      "url": "https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Muscle Museum",
-        "url": "https://open.spotify.com/album/2jdxrIsqbmblMk50Zot9LU"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 284954,
-      "name": "Muscle Museum - Live Acoustic Version KCRW 8/3/99",
-      "url": "https://open.spotify.com/track/4hfO5Y0VTgzGyyv8EpsNYj"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Hard To Be Alone",
         "url": "https://open.spotify.com/album/17YtufgEFZfCK0qhSZ2K14"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 182053,
       "name": "Hard To Be Alone",
       "url": "https://open.spotify.com/track/14NNdJ03Vt6QfrY99FpmE5"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Muscle Museum",
+        "url": "https://open.spotify.com/album/2jdxrIsqbmblMk50Zot9LU"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 284954,
+      "name": "Muscle Museum - Live Acoustic Version KCRW 8/3/99",
+      "url": "https://open.spotify.com/track/4hfO5Y0VTgzGyyv8EpsNYj"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Something Loud (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0bKIkXQNlFjYB0axTlR03v"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 200519,
-      "name": "Something Loud (Acoustic Version)",
-      "url": "https://open.spotify.com/track/1dEYpTZc2aeL4qT9qnt3wC"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Soul Revolution: ACOUSTIC VIBES",
         "url": "https://open.spotify.com/album/5fQo26HkxJFLIVcHRG8slu"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 249274,
       "name": "Be Free - Acoustic",
       "url": "https://open.spotify.com/track/3lClnKfSfuK785QC4QXEUi"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Something Loud (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0bKIkXQNlFjYB0axTlR03v"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 200519,
+      "name": "Something Loud (Acoustic Version)",
+      "url": "https://open.spotify.com/track/1dEYpTZc2aeL4qT9qnt3wC"
     },
     {
       "added_at": "2024-07-05 19:40:49",

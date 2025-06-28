@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3wI0prya1veVHKQOtLbmxB.md) - [plain]
 
 > Uh oh! Feeling all the butterflies in your stomach? Constantly checking your phone to see if they texted back? Feel all the feels with this playlist\. You might be in love\. \#coversforlovers
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 153,660 likes - 90 songs - 5 hr 34 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 153,616 likes - 90 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/3wI0prya1veVHKQOtLbmxB.md) - [plain]
 | 89 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 |
 | 90 | [So in Love](https://open.spotify.com/track/7gmB6hVMsv0XbjfiTgpATI) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [There's No Place Like America Today](https://open.spotify.com/album/3Jm5rknuSOa0tTFDLpJbCg) | 5:14 |
 
-Snapshot ID: `AAAJQk58wvb63o3qcIEwILWatRnUA3il`
+Snapshot ID: `AAAJRNCXQDekj/JPzqBOMxXUVxIK1w2m`

@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: KebMo & Taj Mahal
 
-440 songs - 1 day 3 hr 34 min
+441 songs - 1 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Feels so Bad \- Previously Unreleased Take](https://open.spotify.com/track/5cl45ejCEAoCeYzuOr7k1z) | [Junior Kimbrough](https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr) | [Introducing Junior Kimbrough](https://open.spotify.com/album/1Aw2XfNshXdkGEcl8myTnD) | 2:17 | 2021-12-17 | 2023-03-11 |
 | [Fiddle](https://open.spotify.com/track/1yqA8U6NTglVeBWoLwpwAO) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Fiddle](https://open.spotify.com/album/5tlMpDBnEsbFPkgTNcpWyU) | 3:12 | 2022-12-02 | 2022-12-10 |
 | [Fight the Good Fight](https://open.spotify.com/track/4SZcib7kgYNZC43ZeLpYQM) | [Vaneese Thomas](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK) | [Fight the Good Fight](https://open.spotify.com/album/09KRwQuSiA0RE2Hy1L3u20) | 3:46 | 2022-04-15 | 2022-06-11 |
-| [Fire \- Edit](https://open.spotify.com/track/4mGkVCstt9CC4mIU8iHOZ5) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [Fire](https://open.spotify.com/album/2rGNHADUSv8bTiRa13dB0j) | 3:59 | 2022-08-19 |  |
+| [Fire \- Edit](https://open.spotify.com/track/4mGkVCstt9CC4mIU8iHOZ5) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [Fire](https://open.spotify.com/album/2rGNHADUSv8bTiRa13dB0j) | 3:59 | 2022-08-19 | 2025-06-28 |
 | [Fireman](https://open.spotify.com/track/2sSpzTMLQTLn2BjPTuSyaO) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Hard to Kill](https://open.spotify.com/album/53nnG57cJkUHY52Ftihn0P) | 3:27 | 2022-06-24 | 2023-05-27 |
 | [First McDonell's on the Moon](https://open.spotify.com/track/5tIPp0eDCVopzvXyeMgUOm) | [Jake La Botz](https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX) | [First McDonell's on the Moon](https://open.spotify.com/album/6hVnFJurOhApCMbjug96f4) | 3:51 | 2022-04-01 | 2023-04-09 |
 | [Flash\-A\-Magic](https://open.spotify.com/track/7ornB0tNXeHMuVscygsTOB) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Flash\-A\-Magic](https://open.spotify.com/album/21SDAsPqwgYGKerUlgjpNB) | 3:17 | 2024-08-02 | 2024-09-07 |
@@ -324,6 +324,7 @@
 | [Save Me](https://open.spotify.com/track/42AVlAgBlEWwotdT0XAYU6) | [Jovin Webb](https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k) | [Save Me](https://open.spotify.com/album/6d7z9jAupJyzUcqU9y7JL6) | 4:38 | 2024-09-06 |  |
 | [Savior](https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 3:43 | 2022-01-28 | 2023-02-25 |
 | [Savior](https://open.spotify.com/track/5gICNh1EHmDlpyWERFitXG) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Savior](https://open.spotify.com/album/7FH2YwQt08tTA8vnxkAwfy) | 3:43 | 2021-12-17 | 2022-07-29 |
+| [Saviour \- Unplugged](https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH) | [Toby Lee](https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz) | [House On Fire \(Deluxe Edition\)](https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj) | 3:21 | 2025-06-27 |  |
 | [Scoundrel](https://open.spotify.com/track/4j0WcNktMTebmrWzxiOOnQ) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/6fY05JCUUXTtFmDsYZ2ulw) | 3:49 | 2022-03-11 | 2022-07-29 |
 | [Seasons Change](https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu) | [Chadwick Johnson](https://open.spotify.com/artist/21iVIpVgIhkCIkz7yQfKgV) | [Seasons Change](https://open.spotify.com/album/1DjF9YaLZ3PKdzmwNPdwok) | 3:27 | 2024-10-04 |  |
 | [Set My Soul on Fire](https://open.spotify.com/track/5yuqWMCOtMY0IBaQCBzqT5) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Down to the River](https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2) | 4:59 | 2021-12-17 | 2023-02-25 |

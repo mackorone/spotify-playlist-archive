@@ -4,7 +4,7 @@
 
 > Featuring the talented songwriters behind your favorite country songs\. Cover: Lori McKenna
 
-267 songs - 15 hr 37 min
+268 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Loud House](https://open.spotify.com/track/7htVJ5wxCPkXT6U8X7X0nv) | [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [Loud House](https://open.spotify.com/album/7jBhlxv61IXDZa0QjWfdx1) | 3:24 | 2022-08-05 |  |
 | [Love Again](https://open.spotify.com/track/2fs202sJKe2eG5DonowLBT) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/0itAyqe94khJz3D1mIPQ6l) | 4:07 | 2024-03-29 | 2024-04-19 |
 | [Love Again](https://open.spotify.com/track/6iUloUfQZyNj8v6qclDuKT) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/2VamwwkO7Y0ECHwyNvEIFr) | 4:07 | 2022-01-01 |  |
+| [Man or the Song](https://open.spotify.com/track/1RVqZGMIByPikzt72b5lrj) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Man or the Song](https://open.spotify.com/album/6iWEpoVDABRdVmyMrjySfT) | 2:49 | 2025-06-27 |  |
 | [Maybe Someday You’ll Have A Daughter](https://open.spotify.com/track/5aAxEw0OECrXeGQqcyPxNV) | [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [Primrose](https://open.spotify.com/album/651HDTxsDlfqeeK7oHWXum) | 3:28 | 2023-05-19 |  |
 | [Mississippi You're On My Mind](https://open.spotify.com/track/7icWxaCLDCsp92vubx8FaM) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [AKA Nobody](https://open.spotify.com/album/0WfNRbv8QsT9LMLvi3d5hP) | 3:21 | 2022-01-01 |  |
 | [Momma’s House](https://open.spotify.com/track/70tWEiXWEVioPLKOF7BzIW) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [Momma's House](https://open.spotify.com/album/2DDw1TjaJ1wB8Lucp739Sl) | 3:25 | 2024-08-30 |  |

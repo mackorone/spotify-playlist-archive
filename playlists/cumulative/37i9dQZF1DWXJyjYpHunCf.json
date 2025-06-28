@@ -827,6 +827,24 @@
     },
     {
       "album": {
+        "name": "Beautiful As You",
+        "url": "https://open.spotify.com/album/2nZVHXjBBYe1l70f1O6AHT"
+      },
+      "artists": [
+        {
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Beautiful As You",
+      "url": "https://open.spotify.com/track/0P51oa45K7TjmI6aYefQ2U"
+    },
+    {
+      "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
       },
@@ -2180,6 +2198,24 @@
       "duration_ms": 204336,
       "name": "Don't Say",
       "url": "https://open.spotify.com/track/41bZyIzMjq7wx5JxJbc0Dl"
+    },
+    {
+      "album": {
+        "name": "DON'T WANNA GO HOME",
+        "url": "https://open.spotify.com/album/1u0pRqkVrTwSnOVXBZV0dg"
+      },
+      "artists": [
+        {
+          "name": "Adrien Nunez",
+          "url": "https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133560,
+      "name": "DON'T WANNA GO HOME",
+      "url": "https://open.spotify.com/track/3ZuIruaanYV4SRdVM9cLUM"
     },
     {
       "album": {

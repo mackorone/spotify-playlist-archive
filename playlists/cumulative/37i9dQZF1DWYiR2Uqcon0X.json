@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Catch 22",
+        "url": "https://open.spotify.com/album/1BpLEq3RV91FPE7TQd9WDv"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197564,
+      "name": "Catch 22",
+      "url": "https://open.spotify.com/track/6PwQarviIfpD5dqUeGnf01"
+    },
+    {
+      "album": {
         "name": "Chasing After You (with Maren Morris)",
         "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
       },
@@ -776,7 +794,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 247948,
       "name": "Forgiveness",
       "url": "https://open.spotify.com/track/0uEqGj52IUFOcVXb4nK0sz"

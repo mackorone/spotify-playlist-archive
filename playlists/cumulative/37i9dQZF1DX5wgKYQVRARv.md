@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: Katatonia
 
-805 songs - 2 day 21 hr 8 min
+807 songs - 2 day 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Dream Sequence](https://open.spotify.com/track/4TtLUDOXfk9D3mL42OdNHB) | [Circles](https://open.spotify.com/artist/64j43wsW2L0NunoKT5wbKd) | [The Last One](https://open.spotify.com/album/2WNW2ek9cG4FQ1mgSO1DA7) | 4:48 | 2021-12-17 | 2022-01-28 |
 | [Dream Sequence](https://open.spotify.com/track/5zRnxcq61Nu6YfmF8z6hUH) | [Circles](https://open.spotify.com/artist/64j43wsW2L0NunoKT5wbKd) | [The Last One](https://open.spotify.com/album/5VoMwUYuC4IpLPZJcI3Cfv) | 4:48 | 2022-07-13 | 2022-07-29 |
 | [Drip](https://open.spotify.com/track/2a9AzO1K4kTCD5hnHDE2zd) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Drip](https://open.spotify.com/album/1qwBxbJgsL13K7I8j1L9MI) | 5:50 | 2021-12-17 | 2022-07-29 |
+| [Drone](https://open.spotify.com/track/5f0S8MYAve5k02OJaiOnv7) | [Karnivool](https://open.spotify.com/artist/6rX8AFY10dsJkJsv23Z9Um) | [Drone](https://open.spotify.com/album/7x0fnd4CBbRgf00jWks3ID) | 4:59 | 2025-06-27 |  |
 | [Drýsill](https://open.spotify.com/track/5pYsByOqa325t7t46xudFx) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Drýsill](https://open.spotify.com/album/0iKkEZpsHWqoF1O5ESG2fE) | 8:52 | 2021-12-17 | 2022-09-03 |
 | [Duél](https://open.spotify.com/track/71X2JVYR4k6iZvdDByQL6w) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Duél](https://open.spotify.com/album/4HyB0J8FeoBzdGT12ZaPVN) | 4:48 | 2025-02-07 |  |
 | [DYING LIGHT](https://open.spotify.com/track/2FkKJavJX1OAYUVlzaQgPr) | [Infected Rain](https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY) | [DYING LIGHT](https://open.spotify.com/album/2yj1O1jlzZHkntX2ybPGbO) | 5:12 | 2023-05-12 | 2024-02-12 |
@@ -344,7 +345,7 @@
 | [Innocent](https://open.spotify.com/track/6wviLxwR04XGjTRH8LkJ3R) | [Uneven Structure](https://open.spotify.com/artist/6ncfp4E8TXGnp6nYwBUwwj) | [Innocent](https://open.spotify.com/album/2bleSQYUwyI2O785GsosnE) | 5:39 | 2021-12-17 | 2022-07-25 |
 | [Into The Ether](https://open.spotify.com/track/2ZErxAtLkav1xSNNIuUJM5) | [Esoterica](https://open.spotify.com/artist/63l2JZ9H6olP7LjPwYXN21) | [Into The Ether](https://open.spotify.com/album/7kTTeCH5BZEh51P3nYF1CP) | 5:18 | 2025-06-20 |  |
 | [Into the Fall](https://open.spotify.com/track/7rWczgig0np2zhmR6CyzMF) | [Ancestors](https://open.spotify.com/artist/4aGLoZx4GdlR6fqtmY7rNV) | [Suspended in Reflections](https://open.spotify.com/album/5gWycJLVfdSFcDYGU5IvP2) | 5:07 | 2021-12-17 | 2022-01-13 |
-| [Into the Light](https://open.spotify.com/track/0i0XScjsRN92yj56FR2N7t) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Into the Light](https://open.spotify.com/album/2jnmtzzMUJhgPmcYD62WVV) | 4:55 | 2024-03-29 |  |
+| [Into the Light](https://open.spotify.com/track/0i0XScjsRN92yj56FR2N7t) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Into the Light](https://open.spotify.com/album/2jnmtzzMUJhgPmcYD62WVV) | 4:55 | 2024-03-29 | 2025-06-28 |
 | [Into The Light](https://open.spotify.com/track/2JTdFSYyzyj5ROdcVMvcDD) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Into The Light](https://open.spotify.com/album/0RKHPAUyqVuBWrqTQ2OcwM) | 4:55 | 2024-01-30 | 2024-03-11 |
 | [Into The Light](https://open.spotify.com/track/54KCIJBwepylLwR0ZF9K5J) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Karma](https://open.spotify.com/album/1m79xPcxLJHHOgkByjkAPM) | 4:55 | 2024-01-30 | 2024-04-19 |
 | [Into the Night](https://open.spotify.com/track/4nXWnm11xQjnDsgsKtYRti) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Into the Night](https://open.spotify.com/album/4Gbn1jOz5A5YDqOBMkqO2i) | 6:58 | 2022-01-14 | 2022-02-11 |
@@ -537,7 +538,7 @@
 | [Ray of Light](https://open.spotify.com/track/1NQlXj1pg6LiZbOuIbOYLg) | [Silver Lake by Esa Holopainen](https://open.spotify.com/artist/5snqVyyNcZNQPRkcTnFi4A), [Einar Solberg](https://open.spotify.com/artist/20xK8nEhn71rTjjBNoR5nv) | [Ray of Light](https://open.spotify.com/album/6b4Q0HLy4dZotblQ1lmemW) | 3:31 | 2021-12-17 | 2022-07-28 |
 | [Reaching for the Sky](https://open.spotify.com/track/3qtdGRlnee4fQPXsiFz0Nk) | [Transatlantic](https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC) | [Reaching for the Sky](https://open.spotify.com/album/7MB6phnSBj1c7Bh1CIay2K) | 5:40 | 2021-12-31 | 2022-04-18 |
 | [Reclaim](https://open.spotify.com/track/4CYXS6XxPaqPdTOu7RApQ4) | [From Sorrow To Serenity](https://open.spotify.com/artist/2s4zBLzqaGlaBYzGG5G3Q5) | [Reclaim](https://open.spotify.com/album/3P8HJRzE1Awh92lXIZqsU0) | 3:16 | 2022-07-13 | 2024-11-23 |
-| [Red Letter](https://open.spotify.com/track/5t10PRTb216lrqwi1PPRMG) | [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh) | [Red Letter](https://open.spotify.com/album/1NCLqFsHz3CArDSzA3V2T1) | 4:50 | 2022-01-28 |  |
+| [Red Letter](https://open.spotify.com/track/5t10PRTb216lrqwi1PPRMG) | [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh) | [Red Letter](https://open.spotify.com/album/1NCLqFsHz3CArDSzA3V2T1) | 4:50 | 2022-01-28 | 2025-06-28 |
 | [Reflection](https://open.spotify.com/track/6suhC134iU9dsegUGIngx6) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Different Kinds of Losses](https://open.spotify.com/album/0MvqWh7ClKxsWSndsSpEni) | 6:04 | 2022-12-09 | 2025-02-08 |
 | [Reimagined \- Set 1 \- Live From Atlanta](https://open.spotify.com/track/1AozJrg5k08jsn54Watygb) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Retrospective: Live From Atlanta \(Box Set\)](https://open.spotify.com/album/6nSjuxftoDh07XO5uNNpMg) | 4:30 | 2023-12-06 | 2024-04-19 |
 | [Reimagined \- Set 1 \- Live From Atlanta](https://open.spotify.com/track/46m4ysq3XUa8qf9nZO2kmS) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Retrospective: Live From Atlanta \(Box Set\)](https://open.spotify.com/album/3uzkgSIJnLReaw1R3zLXSC) | 4:30 | 2023-12-06 | 2023-12-24 |
@@ -556,6 +557,7 @@
 | [SACRiFiCE](https://open.spotify.com/track/4LGOYMMj4ksSVaR28vX7zq) | [shinigami](https://open.spotify.com/artist/0ntNwPE7MYnKrTh59tU2BA), [Billy Martin](https://open.spotify.com/artist/50cv1LUzko0wYHYGFE3PFE) | [bioMACHiNA](https://open.spotify.com/album/4azxoq5UXg4huDqHWo9SL1) | 3:30 | 2022-07-13 | 2025-02-08 |
 | [Sagittarius](https://open.spotify.com/track/0oDw63zv1ProfvH1HgfPvG) | [One Hundred Thousand](https://open.spotify.com/artist/26PZG9fA2GSpDe8o2UR2Bt) | [Sagittarius](https://open.spotify.com/album/63hiVr5grtpEehl3FUnZib) | 5:51 | 2021-12-17 | 2021-12-29 |
 | [Salamander in Two Worlds](https://open.spotify.com/track/3ZaIvAnZRhxLNemyyRErHH) | [Sleepytime Gorilla Museum](https://open.spotify.com/artist/74KPeP60dRLSAAk7sFtWTC) | [of the Last Human Being](https://open.spotify.com/album/21sPynlIngwnuIOcltyRjv) | 6:30 | 2025-01-10 | 2025-02-08 |
+| [Samsara](https://open.spotify.com/track/4GrDPT5VaYAQ9l0ULPk5FP) | [Royal Sorrow](https://open.spotify.com/artist/0HadlhyA8MupHSseNEvpLK) | [Samsara](https://open.spotify.com/album/4QZqkdduoJeuRi9cRpzi8S) | 5:07 | 2025-06-27 |  |
 | [Samsara](https://open.spotify.com/track/7bGXM8slCNjpYiDAPUcWjY) | [The Northern](https://open.spotify.com/artist/2PUqSBJmeZme23xXXP7mVU) | [Samsara](https://open.spotify.com/album/7DMk4cN5FXmwWnNXFSxAuP) | 4:40 | 2022-07-13 | 2025-06-09 |
 | [Sanctuary](https://open.spotify.com/track/5z2VqUUekX3IHIjOcy3uZm) | [Seas on the Moon](https://open.spotify.com/artist/4uIHW758guEB2kTjfmMBc8), [Lena Scissorhands](https://open.spotify.com/artist/3iVYGaRErrrtVdbA3mXzVD) | [Sanctuary](https://open.spotify.com/album/79e13Ukx164Q9L5pq7TXFZ) | 4:23 | 2021-12-31 | 2022-07-25 |
 | [Sardonyx](https://open.spotify.com/track/3nOClyLeIIC7YxpIsbjMkk) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7), [Tobias Rische](https://open.spotify.com/artist/7GaKWK9w2lGfFhyYVjvhBe) | [Sardonyx](https://open.spotify.com/album/2IxnO3Vk8Ra2NZSkRlQort) | 4:29 | 2022-01-07 | 2024-11-23 |

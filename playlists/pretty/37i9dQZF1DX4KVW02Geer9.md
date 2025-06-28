@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 ### [X\-Over ジャズ!](https://open.spotify.com/playlist/37i9dQZF1DX4KVW02Geer9)
 
-> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Norah Jones
+> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Norah Jones, John Legend
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,214 likes - 70 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,219 likes - 70 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 69 | [What hummingbirds teach us about flying](https://open.spotify.com/track/63A5iao38RysFoJepVv63Y) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR) | [What hummingbirds teach us about flying](https://open.spotify.com/album/2GdtjdIIi9Pa1plK5YkoQn) | 5:27 |
 | 70 | [Tigerlily](https://open.spotify.com/track/3WJASXAyMBNigjdLLLHLH9) | [Yapani!](https://open.spotify.com/artist/1TgHCVtxa455y0ZZfHHNCz) | [Tigerlily](https://open.spotify.com/album/3XPZ80k8bHkQ3dggyM4umK) | 5:12 |
 
-Snapshot ID: `aF1gegAAAAANj8PFRy/KjdUExjHpg3yx`
+Snapshot ID: `aF4SPwAAAAAkRbY5qamRMI/ZT7Ofoj4e`

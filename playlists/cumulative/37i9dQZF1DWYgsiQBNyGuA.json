@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-08",
-  "description": "Soul to brighten up your day. Cover: JACOT\u00c9NE",
+  "description": "Soul to brighten up your day. Cover: Jane Handcock",
   "name": "Soulful Day",
   "tracks": [
     {
@@ -128,6 +128,24 @@
       "duration_ms": 268056,
       "name": "Ain't Easy",
       "url": "https://open.spotify.com/track/7oRtVcdlys2I6s8fGhC6u0"
+    },
+    {
+      "album": {
+        "name": "SCORPIO",
+        "url": "https://open.spotify.com/album/6K0m8DHHvFzyAPlCgI5FVq"
+      },
+      "artists": [
+        {
+          "name": "Madison McFerrin",
+          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193598,
+      "name": "Ain't It Nice",
+      "url": "https://open.spotify.com/track/16cf5KXlcTvSpO1TisvQWI"
     },
     {
       "album": {
@@ -1026,7 +1044,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 266460,
       "name": "Feel Like Makin' Love - Spotify Singles - Cover",
       "url": "https://open.spotify.com/track/4Q854c9cytFvuWMgey7CT9"
@@ -1214,7 +1232,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 316339,
       "name": "Girl - Spotify Singles",
       "url": "https://open.spotify.com/track/0fCi41IbENxq3pM0amgFVq"
@@ -2156,10 +2174,28 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 261273,
       "name": "Love In The Middle",
       "url": "https://open.spotify.com/track/775ay7xSXFTVc5kiHEYa9H"
+    },
+    {
+      "album": {
+        "name": "Love In The Middle (Live)",
+        "url": "https://open.spotify.com/album/5CA0i6WtoC4Qzk8qndKxWF"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263845,
+      "name": "Love In The Middle - Live",
+      "url": "https://open.spotify.com/track/1gzmQd8rqhwGIUfKHIy8VZ"
     },
     {
       "album": {
@@ -3428,7 +3464,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 240360,
       "name": "Spiritual Thang",
       "url": "https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw"
@@ -3450,6 +3486,28 @@
       "duration_ms": 175829,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/2AOCiU18f4kuZMltkR8cgh"
+    },
+    {
+      "album": {
+        "name": "Stare at Me",
+        "url": "https://open.spotify.com/album/5wWZ3Kdg4ZCQdFd3vwjiYu"
+      },
+      "artists": [
+        {
+          "name": "JANE HANDCOCK",
+          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235658,
+      "name": "Stare at Me",
+      "url": "https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a"
     },
     {
       "album": {
@@ -3922,6 +3980,28 @@
       "duration_ms": 276733,
       "name": "Three Piece Suit (feat. Azekel)",
       "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
+    },
+    {
+      "album": {
+        "name": "Thursday Disco",
+        "url": "https://open.spotify.com/album/24jLVbnovJyryWoS4QgGYE"
+      },
+      "artists": [
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        },
+        {
+          "name": "Haile Supreme",
+          "url": "https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182143,
+      "name": "Thursday Disco",
+      "url": "https://open.spotify.com/track/4E2gR7kaQpiCp4GqAr04Z8"
     },
     {
       "album": {

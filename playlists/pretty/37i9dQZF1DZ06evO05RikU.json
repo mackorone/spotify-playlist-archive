@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43070,
+  "num_followers": 43069,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFs8AAAAAADiYMtPbZjGrIZ1WSJQJ9Fl",
+  "snapshot_id": "aFyNgAAAAACqoEn0zojCffw2MZKiSlz5",
   "tracks": [
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Louder!.",
-        "url": "https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 198384,
-      "name": "Conmigo (Rest of Your Life)",
-      "url": "https://open.spotify.com/track/5B8qZ2uzB58fj4kAPdMDqv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highway",
         "url": "https://open.spotify.com/album/2DtVhE1RH6odEmwtywYqdQ"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 221320,
       "name": "Highway",
       "url": "https://open.spotify.com/track/4rhdtzBmrrDxYi35yQDpzF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Louder!.",
+        "url": "https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 198384,
+      "name": "Conmigo (Rest of Your Life)",
+      "url": "https://open.spotify.com/track/5B8qZ2uzB58fj4kAPdMDqv"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Louder!.",
-        "url": "https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 212204,
-      "name": "Muevelo (feat. Wisin)",
-      "url": "https://open.spotify.com/track/5Ra1n0XZPneh64gdF3Jv0g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/4NwBGbGjwIYAFmL1fAQYHJ"
       },
@@ -887,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MILAMORES",
-        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
+        "name": "Louder!.",
+        "url": "https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8"
       },
       "artists": [
         {
@@ -896,13 +876,13 @@
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         },
         {
-          "name": "D\u0113lian",
-          "url": "https://open.spotify.com/artist/53h2h24DKU5xQcjfXXBKsI"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         }
       ],
-      "duration_ms": 164789,
-      "name": "Gaia",
-      "url": "https://open.spotify.com/track/43pdManuxxQh80XyU51ybY"
+      "duration_ms": 212204,
+      "name": "Muevelo (feat. Wisin)",
+      "url": "https://open.spotify.com/track/5Ra1n0XZPneh64gdF3Jv0g"
     },
     {
       "added_at": null,
@@ -923,6 +903,26 @@
       "duration_ms": 204633,
       "name": "coRaZ\u00d3n fR\u00edO",
       "url": "https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MILAMORES",
+        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "D\u0113lian",
+          "url": "https://open.spotify.com/artist/53h2h24DKU5xQcjfXXBKsI"
+        }
+      ],
+      "duration_ms": 164789,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/43pdManuxxQh80XyU51ybY"
     },
     {
       "added_at": null,
@@ -1051,22 +1051,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sped Up Songs Vol. 1",
-        "url": "https://open.spotify.com/album/0aWkwVZqDzu02AIUhdqX7L"
+        "name": "Goofy, Pt. 2 (Remix)",
+        "url": "https://open.spotify.com/album/2azRGXriZ9DLXQ0JGrQBaC"
       },
       "artists": [
         {
-          "name": "High and Low HITS",
-          "url": "https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "MishCatt",
+          "url": "https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc"
         },
         {
           "name": "Sof\u00eda Reyes",
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 170765,
-      "name": "1, 2, 3 - Sped Up",
-      "url": "https://open.spotify.com/track/2RJnhDvc6Z4xwMX6hhkeRX"
+      "duration_ms": 201061,
+      "name": "Goofy, Pt. 2 - Remix",
+      "url": "https://open.spotify.com/track/2wBp1MT7ivIUYcF7oVlM3n"
     }
   ],
   "unique_name": "This Is Sof\u00eda Reyes",

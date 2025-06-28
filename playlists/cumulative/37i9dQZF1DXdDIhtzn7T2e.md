@@ -4,7 +4,7 @@
 
 > Let these country tunes light up your day
 
-98 songs - 6 hr 3 min
+99 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [High Feeling](https://open.spotify.com/track/5DgME3ZeZB78H4vJdX8Esd) | [Cordovas](https://open.spotify.com/artist/1wWSNOst6HSnNNUtH4RekE) | [Destiny Hotel](https://open.spotify.com/album/5GkRuglfNZXJBzEBOwGQGU) | 2:57 | 2022-09-23 | 2024-04-19 |
 | [High Note](https://open.spotify.com/track/6kzRcQ73LtwfTMwHm1vJT7) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [High Note](https://open.spotify.com/album/1iwbuKHLtUyZj27h3LfOgy) | 5:33 | 2022-11-18 |  |
 | [High Road](https://open.spotify.com/track/0t1EXVIGlFV6CWfakRZbeT) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [High Road](https://open.spotify.com/album/2LzVuBAtONnm3d1kCZ4Vly) | 4:19 | 2024-09-20 |  |
+| [High Standards](https://open.spotify.com/track/66A7J1dZ2mKWXB6EODRZaH) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Rhinestoned](https://open.spotify.com/album/5XEFMMgAByAZq8rYn6hE6t) | 4:16 | 2025-06-27 |  |
 | [High Time](https://open.spotify.com/track/78eJbonprYfP4OU9Tjo64Z) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 2:57 | 2021-04-20 |  |
 | [High Time](https://open.spotify.com/track/2k3XVSB5S7teKwdOCZ6E99) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Magnolia](https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg) | 5:48 | 2021-04-20 |  |
 | [High Time](https://open.spotify.com/track/3Q0sFo2GJdSp3K4E1N7WEc) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Magnolia](https://open.spotify.com/album/0JNnoUpkLCLzdI9pIfWfQi) | 5:48 | 2023-04-20 | 2024-04-19 |

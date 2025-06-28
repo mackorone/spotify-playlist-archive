@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Theresa Phondo & Praise Umali
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,743 likes - 102 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,773 likes - 102 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Living Water](https://open.spotify.com/track/5MPCZYJhmforbMK2PXZ6oJ) | [Charis\-Rehoboth](https://open.spotify.com/artist/4oMf6vCW0Qe2xL4dNAu6yR), [Daraaa](https://open.spotify.com/artist/4gXPHQnawRp8WMBeTWtWys), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO) | [Living Water](https://open.spotify.com/album/7nbgvg2TEjUbwumV2XRcp7) | 2:37 |
 | 2 | [Trust In You: TIY](https://open.spotify.com/track/4OW2XVZYgV63tLYGwQv3YE) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [Daraaa](https://open.spotify.com/artist/4gXPHQnawRp8WMBeTWtWys), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO) | [Trust In You: TIY](https://open.spotify.com/album/5NmJ9x1iDEIAd2rgLf62Qq) | 3:01 |
-| 3 | [Everyday](https://open.spotify.com/track/1t3XeFBLr8zbx3rArQobfi) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Everyday](https://open.spotify.com/album/3IxSBGvSLluNNMDyf2UOP3) | 3:23 |
+| 3 | [Everyday](https://open.spotify.com/track/1t3XeFBLr8zbx3rArQobfi) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Everyday](https://open.spotify.com/album/3IxSBGvSLluNNMDyf2UOP3) | 3:20 |
 | 4 | [Pray For Me](https://open.spotify.com/track/2HxWXOVWDYEd6jUAcKge3k) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Praise Umali](https://open.spotify.com/artist/7xiUwkZo3qCu8FhqFIg7iT) | [Pray For Me](https://open.spotify.com/album/5AsA1NMG6xLATViBJyQRMH) | 2:46 |
 | 5 | [Your love](https://open.spotify.com/track/6sQq98ykctwIpq79syEt5x) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Your Love](https://open.spotify.com/album/01Ji6zmR4gSEX5gbjZWvdh) | 3:53 |
 | 6 | [Omemma](https://open.spotify.com/track/3t2o1njvVXz9IojLD1FTqk) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 4:17 |

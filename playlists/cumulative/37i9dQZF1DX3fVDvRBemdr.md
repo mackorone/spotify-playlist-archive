@@ -4,7 +4,7 @@
 
 > Wekelijkse update met Hollands en volks\. Cover: Samuel Welten \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artiest\)
 
-355 songs - 17 hr 20 min
+356 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Corry Konings](https://open.spotify.com/track/79ykiAUGpJsiHY8b5A8RMg) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Corry Konings](https://open.spotify.com/album/11SGzQT6L3M1fsZ7aT1xF4) | 2:38 | 2025-06-26 |  |
 | [Daar Ga Ik Weer](https://open.spotify.com/track/4fXbWLmRnOGh0xSteNh1vC) | [Pascal Redeker](https://open.spotify.com/artist/2pPlC5pHDMwx9vCtEszoub) | [Daar Ga Ik Weer](https://open.spotify.com/album/3HZwT3fHHAY3DiWCrNhJWu) | 3:45 | 2025-03-07 | 2025-06-20 |
 | [Dankzij Jou](https://open.spotify.com/track/1MJVP1ClKwF4to4ZOylRdG) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Turk Uit De Kroeg \(Deluxe\)](https://open.spotify.com/album/1G0zJu4RzdnH5ZD8QkAc7M) | 2:55 | 2025-02-27 | 2025-04-18 |
-| [Dans Alexis Dans](https://open.spotify.com/track/2bsDGJC30AnNO5orTuPtGe) | [Steffany](https://open.spotify.com/artist/4gNFEcwT0hldqyzHdl231m) | [Dans Alexis Dans](https://open.spotify.com/album/3ewk7MzCxw4H2ldFFCTLEC) | 3:14 | 2025-04-11 |  |
+| [Dans Alexis Dans](https://open.spotify.com/track/2bsDGJC30AnNO5orTuPtGe) | [Steffany](https://open.spotify.com/artist/4gNFEcwT0hldqyzHdl231m) | [Dans Alexis Dans](https://open.spotify.com/album/3ewk7MzCxw4H2ldFFCTLEC) | 3:14 | 2025-04-11 | 2025-06-28 |
 | [Dans Maar Mee Met Mij](https://open.spotify.com/track/09t3kWLJCvyTmRNT8XthXN) | [Erik van Hoof](https://open.spotify.com/artist/0PCXi9VjIC2BwLyDmEQ6G6) | [Dans Maar Mee Met Mij](https://open.spotify.com/album/1UKBWkp6IwDVb7Dik9XJ7c) | 2:45 | 2025-02-13 | 2025-04-04 |
 | [Dans Met Mij](https://open.spotify.com/track/1n9VwFbmlEx7cBpWSr5VOY) | [Niels Bode](https://open.spotify.com/artist/1yFU1rdV1j3Y0qHXmQf3NT) | [Dans Met Mij](https://open.spotify.com/album/5aTf3iSwUnP7IQrs3xC7Bp) | 2:47 | 2024-06-20 | 2024-09-20 |
 | [Dansend Op Die Melodie](https://open.spotify.com/track/4keARjEt9p4Y2Cst04f19Y) | [Mike Peterson](https://open.spotify.com/artist/4mxrXHWDcP8CifQMVEgY3E), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Dansend Op Die Melodie](https://open.spotify.com/album/3nDvmiAgon6g46Xwm0oTJb) | 2:39 | 2025-05-29 |  |
@@ -159,6 +159,7 @@
 | [Ik Zal Er Zijn](https://open.spotify.com/track/3U1y2yON7uEZqMSBWxjYYQ) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Ik Zal Er Zijn](https://open.spotify.com/album/4RmhGsZpq5TfSTwuQen0ES) | 3:16 | 2025-01-10 | 2025-02-28 |
 | [Ik Zal Geen Traan Meer Om Je Laten](https://open.spotify.com/track/0IG9KSc2YJLOfg0NzKpFZR) | [GIO VAN VEEN](https://open.spotify.com/artist/4vssXvv1qrZJ8ti9PbTm8j) | [Ik Zal Geen Traan Meer Om Je Laten](https://open.spotify.com/album/5AM6T3qtxVhdkBGJbz9YCa) | 2:47 | 2024-06-13 | 2024-09-13 |
 | [In Amsterdam](https://open.spotify.com/track/2jXZIL7zp6lbvkcNGJYtIm) | [Mick Harren](https://open.spotify.com/artist/3rC0vVL6atCESm1dahvBDl), [Johnny Jordaan](https://open.spotify.com/artist/0tlvzmFmhfItI4bdwby03e) | [In Amsterdam](https://open.spotify.com/album/3Z80GTtmsgI2WnmcAo0Fni) | 2:17 | 2025-03-13 | 2025-06-27 |
+| [In de naam van...](https://open.spotify.com/track/4YbZKK7m1meoBcCFdlab7c) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [In de naam van...](https://open.spotify.com/album/5DP7AnlHxP3NABQUGjI7bF) | 2:27 | 2025-06-27 |  |
 | [In De Wolken](https://open.spotify.com/track/0lEEf3dbpEVEpsn67UMhiQ) | [Priscilla Ophof](https://open.spotify.com/artist/1WPZn8qRmT7tFIeEmm1szs) | [In De Wolken](https://open.spotify.com/album/0GL6gXnV0Efq6M4YF6Mv04) | 3:20 | 2024-09-12 | 2024-11-05 |
 | [In Ons Stamcafe](https://open.spotify.com/track/5g9pUIFlFMUtvz4DrJnDKW) | [Danny Heden](https://open.spotify.com/artist/4ke8NL9UYjeuye1E3tAsEQ) | [In Ons Stamcafe](https://open.spotify.com/album/5qMmRvHha0W0RUpZg6ZYvu) | 3:00 | 2024-10-18 | 2025-02-28 |
 | [Insta Live](https://open.spotify.com/track/7sfwT3gehKU9LmdWw6iZGd) | [Ray Slagter](https://open.spotify.com/artist/6ie6I6YKco4YVOzECVm5eg) | [Insta Live](https://open.spotify.com/album/4bgZfovTAw0aoHNykiFPP6) | 2:08 | 2024-07-11 | 2024-10-04 |

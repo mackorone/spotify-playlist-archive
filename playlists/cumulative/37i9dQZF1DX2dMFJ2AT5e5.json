@@ -197,6 +197,28 @@
     },
     {
       "album": {
+        "name": "Afuera (with Ed Maverick)",
+        "url": "https://open.spotify.com/album/6hiACuXRbybv7MYNzyx88R"
+      },
+      "artists": [
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191773,
+      "name": "Afuera (with Ed Maverick)",
+      "url": "https://open.spotify.com/track/0MXIDtvwmzNawJuLI5wBuv"
+    },
+    {
+      "album": {
         "name": "In A Perfect World (Expanded Edition)",
         "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
       },
@@ -262,7 +284,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 208000,
       "name": "Al\u00e9gale Al Umpire",
       "url": "https://open.spotify.com/track/3KQwuuHarLTIZIUXtwDmPN"
@@ -378,6 +400,24 @@
       "duration_ms": 153887,
       "name": "Amorfoda",
       "url": "https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR"
+    },
+    {
+      "album": {
+        "name": "Angustias",
+        "url": "https://open.spotify.com/album/5TtZKTOJE5RcFKNRwrbBjh"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Angustias",
+      "url": "https://open.spotify.com/track/50oUpA33hNEsaZl9AiLXRL"
     },
     {
       "album": {
@@ -1905,6 +1945,24 @@
     },
     {
       "album": {
+        "name": "Lo Que Mi Coraz\u00f3n Desea Mis Ojos Lo Ven",
+        "url": "https://open.spotify.com/album/65wy6NAH6RvSyZi1yrSMAP"
+      },
+      "artists": [
+        {
+          "name": "Pambo",
+          "url": "https://open.spotify.com/artist/6ck4dwtkuGXEJEfWekkx8P"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212326,
+      "name": "Fondo",
+      "url": "https://open.spotify.com/track/3lV8JuCsLG52vRkoF3NFjK"
+    },
+    {
+      "album": {
         "name": "Fuego En La Casa",
         "url": "https://open.spotify.com/album/2vG9otr7g78M7MlI8PiyuV"
       },
@@ -2664,7 +2722,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 245533,
       "name": "Lejos Estamos Mejor",
       "url": "https://open.spotify.com/track/55VihOj2A4FBGUkJT2yGkJ"
@@ -2892,6 +2950,24 @@
       "duration_ms": 245964,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
+    },
+    {
+      "album": {
+        "name": "Ma\u00f1ana Hablamos (1154)",
+        "url": "https://open.spotify.com/album/1qzbJceoJvo2evgoBZVAIV"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "Ma\u00f1ana Hablamos (1154)",
+      "url": "https://open.spotify.com/track/4LNmjN9PJZkr9oWkaP8sDv"
     },
     {
       "album": {
@@ -3418,7 +3494,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 158181,
       "name": "Ojos De Ajonjol\u00ed",
       "url": "https://open.spotify.com/track/4rwTCcE1Rh1xFgC1mORvLg"
@@ -3744,7 +3820,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 175774,
       "name": "PLAYA \u00d1AOTEVIA",
       "url": "https://open.spotify.com/track/2H4V2pWq2Nvu1IR9mCZRvw"
@@ -4438,7 +4514,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 173011,
       "name": "Si te ment\u00ed",
       "url": "https://open.spotify.com/track/5wFWF4ykbDm9mXdLY5qmdc"
@@ -4804,7 +4880,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 176129,
       "name": "Te Quer\u00eda Ver",
       "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
@@ -5696,7 +5772,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 165925,
       "name": "Yo Nunca Fui Tu Flaco",
       "url": "https://open.spotify.com/track/4NQCngk0WSnf47q5Ql3sAX"
@@ -5812,7 +5888,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-23",
+      "date_removed": null,
       "duration_ms": 191250,
       "name": "\u2060Aviso importante",
       "url": "https://open.spotify.com/track/2bvaWmdYkg2xPDDxAC8RkD"

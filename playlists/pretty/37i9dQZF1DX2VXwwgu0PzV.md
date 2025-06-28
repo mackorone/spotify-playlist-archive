@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Moses Bliss & Victor Thompson
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,169 likes - 121 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,400 likes - 121 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Made Me Glad](https://open.spotify.com/track/5bOzP0pJX3zTS5KnuZ5S3p) | [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Made Me Glad](https://open.spotify.com/album/1O5MNGC6A0szwSEcMfvCQd) | 2:44 |
 | 2 | [No Turning Back II](https://open.spotify.com/track/5VKXfM7SWob2onq118RjYJ) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [No Turning Back II](https://open.spotify.com/album/4J3JoxIKe3ehKLJ39ABh5C) | 4:59 |
-| 3 | [Everyday](https://open.spotify.com/track/1t3XeFBLr8zbx3rArQobfi) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Everyday](https://open.spotify.com/album/3IxSBGvSLluNNMDyf2UOP3) | 3:23 |
+| 3 | [Everyday](https://open.spotify.com/track/1t3XeFBLr8zbx3rArQobfi) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Everyday](https://open.spotify.com/album/3IxSBGvSLluNNMDyf2UOP3) | 3:20 |
 | 4 | [Pray](https://open.spotify.com/track/4GPwZy4FAsSNLQygwXyCh2) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Pray](https://open.spotify.com/album/3F6vpAXVJVrQwQGL6pDFdi) | 2:50 |
 | 5 | [Blessed](https://open.spotify.com/track/7fgogLsPWxBlvCK9SBcMKn) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [Blessed](https://open.spotify.com/album/4lSKv0ZqMxMwRyvSGWWT9A) | 2:48 |
 | 6 | [River](https://open.spotify.com/track/1b13htqq2fwS2BGVDeRs2K) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Sceptre](https://open.spotify.com/album/3KCdZeILNBf1ahZJU76cQX) | 5:16 |

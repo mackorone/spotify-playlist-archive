@@ -504,7 +504,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 189933,
       "name": "Better",
       "url": "https://open.spotify.com/track/26AyBuEQkAAaQYnDrzneF2"
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 191173,
       "name": "Count On Me",
       "url": "https://open.spotify.com/track/5Wpa1JNwrpxJdtVKYI0Ax0"
@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 230800,
       "name": "Darkness and Light (feat. Brittany Howard)",
       "url": "https://open.spotify.com/track/4jBPWUAtvIbj7trXEg9QPJ"
@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 112356,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/0GOkOTy7M5LuKm3XeUPLLF"
@@ -1370,10 +1370,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 244583,
       "name": "Do It for You (feat. Chrizz Michaels)",
       "url": "https://open.spotify.com/track/3V9x72z9TS9L4tTE3DTG2r"
+    },
+    {
+      "album": {
+        "name": "Sopik Tracks Vol.1",
+        "url": "https://open.spotify.com/album/3me4qWlZPF8QvlFlcndCda"
+      },
+      "artists": [
+        {
+          "name": "Sopik",
+          "url": "https://open.spotify.com/artist/0uiVxrM68v5NoVFPQshjtm"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393245,
+      "name": "Don't Mind",
+      "url": "https://open.spotify.com/track/1vQihQexNB0FssEi2MIsgG"
     },
     {
       "album": {
@@ -1392,7 +1410,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 415000,
       "name": "Don't Mind - A.P. Remix",
       "url": "https://open.spotify.com/track/6B919zI8u4Qw9HVa7J0oYS"
@@ -1577,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "40 Tabata Hits Fall 2022 Workout Session (20 Sec. Work and 10 Sec. Rest Cycles With Vocal Cues / High Intensity Interval Training Compilation for Fitness & Workout)",
+        "url": "https://open.spotify.com/album/0VMeeDg0AygUDfpYQzxr0i"
+      },
+      "artists": [
+        {
+          "name": "Workout Music Tv",
+          "url": "https://open.spotify.com/artist/0k5KeG8St6LiePh5blOwwl"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Easy Lover - Tabata Remix 128 Bpm",
+      "url": "https://open.spotify.com/track/2SrZhPd7yOFxmMnNnaoBxM"
+    },
+    {
+      "album": {
         "name": "Kick Boxing Fall 2022 Workout Session (60 Minutes Non-Stop Mixed Compilation for Fitness & Workout - 140 Bpm / 32 Count)",
         "url": "https://open.spotify.com/album/2wpWGNSbdTSjjOJiwYuiSt"
       },
@@ -1588,7 +1624,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 233140,
       "name": "Easy Lover - Workout Remix 140 Bpm",
       "url": "https://open.spotify.com/track/3r36au0ztmAKCiPLKr6nIJ"
@@ -1716,7 +1752,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 173376,
       "name": "Extra",
       "url": "https://open.spotify.com/track/0VQegnPupVm9mEwAMBhylj"
@@ -1890,7 +1926,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 133307,
       "name": "First Time - Acoustic Mix",
       "url": "https://open.spotify.com/track/5B2LFAdTSzLOPPtN7XvEEL"
@@ -1926,10 +1962,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 198403,
       "name": "For Now",
       "url": "https://open.spotify.com/track/3xvF7KX1QTImJERKQhlpVB"
+    },
+    {
+      "album": {
+        "name": "Beautiful Trauma",
+        "url": "https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216253,
+      "name": "For Now",
+      "url": "https://open.spotify.com/track/2kVIolfEUjIiYDEPZLTQHg"
     },
     {
       "album": {
@@ -1962,7 +2016,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 228693,
       "name": "Forever",
       "url": "https://open.spotify.com/track/0nELsIU1usFlFYwGiszSTK"
@@ -2112,7 +2166,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 244760,
       "name": "GANG GANG",
       "url": "https://open.spotify.com/track/6uJONCdr2rC65BNmCnTBWK"
@@ -2138,6 +2192,24 @@
       "duration_ms": 250581,
       "name": "GANG GANG",
       "url": "https://open.spotify.com/track/1AauIxlmueXbhqhbmzSxTy"
+    },
+    {
+      "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181318,
+      "name": "Gang Gang",
+      "url": "https://open.spotify.com/track/6RKkHI2fkmgZq7uQPPav8f"
     },
     {
       "album": {
@@ -2264,7 +2336,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 194253,
       "name": "Golden Youth (feat. Anjulie)",
       "url": "https://open.spotify.com/track/6agBJV49zfUhDkGPLjjDs4"
@@ -2362,7 +2434,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 219986,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0qQQJn3GV1Igk3NRwlelqg"
@@ -2388,10 +2460,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 166909,
       "name": "Hands",
       "url": "https://open.spotify.com/track/7ydN6k1pLu6GRJsJpFXnYu"
+    },
+    {
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/1mH4ntQRUk1akxx6WNST8q"
+      },
+      "artists": [
+        {
+          "name": "Rachel Platten",
+          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234560,
+      "name": "Hands",
+      "url": "https://open.spotify.com/track/2vDV1IiMZeFHMnVpxarTYy"
     },
     {
       "album": {
@@ -2742,7 +2832,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 185946,
       "name": "Hopes Up",
       "url": "https://open.spotify.com/track/1VnEQ3LdQlARfow87U9BLn"
@@ -2901,6 +2991,24 @@
     },
     {
       "album": {
+        "name": "Acustic Covers of Popular Songs",
+        "url": "https://open.spotify.com/album/5iHoV05beKBmnvlvZ1SJ3N"
+      },
+      "artists": [
+        {
+          "name": "Denis Kalytovskyi",
+          "url": "https://open.spotify.com/artist/2TdyIW2Ol7vpofth27iAZi"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231193,
+      "name": "If The World Was Ending",
+      "url": "https://open.spotify.com/track/6AbdpBmVOxchLk1OkwVtKr"
+    },
+    {
+      "album": {
         "name": "If the World Was Ending (Official Video)",
         "url": "https://open.spotify.com/album/6hDTM7x2X5sQU8WdxkK3N0"
       },
@@ -2938,7 +3046,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 139572,
       "name": "If The World Was Ending",
       "url": "https://open.spotify.com/track/4wDqYJUWFYA9HbYAlrY1Ob"
@@ -3170,7 +3278,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 158105,
       "name": "Invite Only",
       "url": "https://open.spotify.com/track/0udENxYpB3n6uK7Lb5JP91"
@@ -3532,7 +3640,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 149877,
       "name": "Lie To Me (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/6GzApXoBQiiAjak3tOQfV3"
@@ -5340,7 +5448,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 180026,
       "name": "Slow Hands - Instrumental",
       "url": "https://open.spotify.com/track/7weMaORKMrHPCwWDvUaTdY"

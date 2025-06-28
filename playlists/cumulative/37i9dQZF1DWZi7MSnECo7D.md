@@ -4,7 +4,7 @@
 
 > Música brasileira fora da curva\. Foto: Superafim
 
-781 songs - 1 day 20 hr 21 min
+782 songs - 1 day 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Fossa](https://open.spotify.com/track/1pDUewwwYjxsfUeFpOHtPe) | [Yan Paiva](https://open.spotify.com/artist/7dSu1TjBg6n9zrXuKRjore) | [Fossa](https://open.spotify.com/album/4Nu9qRZkKSoa3RstdtcwZR) | 4:44 | 2024-05-17 | 2024-09-28 |
 | [Fragment](https://open.spotify.com/track/5PRGK7zhCN7bUDpItC6NQt) | [Apeles](https://open.spotify.com/artist/079cfq4aZBhX6sXItaYUyr), [CHEWY SHE](https://open.spotify.com/artist/55zZwHiAzgFJ3CKL3TYxAR) | [ESTASIS](https://open.spotify.com/album/6wDzTB7brH9yzgScAEkrrU) | 3:28 | 2024-07-26 | 2024-09-07 |
 | [Fragmentos](https://open.spotify.com/track/5RC7xO3f185S5s8qxlSt1h) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Fragmentos](https://open.spotify.com/album/1uCiWf182CcKW1iN3tDfJQ) | 3:27 | 2023-05-05 | 2023-05-20 |
+| [Frio](https://open.spotify.com/track/3IE8Adpf5OpHUO5zWmXRhD) | [Pablo Vermell](https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5) | [Frio](https://open.spotify.com/album/23yV81YgWTvTJmI8XNYlTV) | 2:23 | 2025-06-28 |  |
 | [Frutas](https://open.spotify.com/track/5X8Mv7ksfj4mEo2yyOwmK6) | [alici](https://open.spotify.com/artist/3xwrVmAg320G7DzTPkhOjX) | [Frutas](https://open.spotify.com/album/4GXAxNN4YzQsUPvxDUcNhd) | 3:22 | 2023-05-05 | 2023-07-08 |
 | [Fruto Bruto](https://open.spotify.com/track/7hLyI3PiVvVKLy8SDz0WgE) | [Alan Bernardes](https://open.spotify.com/artist/6H7PacMXVeRywx2z2ZI2wx) | [Fruto Bruto](https://open.spotify.com/album/2vtNSZGt07kW6ki0dRaTin) | 3:47 | 2022-01-14 | 2022-03-18 |
 | [Fuga](https://open.spotify.com/track/3ohS2af546AnusvsebxQcN) | [Facção Caipira](https://open.spotify.com/artist/08aFPvLuNioTMnz2DcNMvg), [Rev Beats](https://open.spotify.com/artist/4KOV93awg7zj8ac5JmNA8V), [Nicole Cyrne](https://open.spotify.com/artist/07YGUIyc9huPaom4lPJZVv), [Moitz.](https://open.spotify.com/artist/6zpV1Xb2zztwyaU68KmWDs), [calli.](https://open.spotify.com/artist/6wZZKH7h9HU8Lt0IsphFqo) | [Fuga](https://open.spotify.com/album/1yywrWGEINRZ0SY5z3DaCk) | 3:01 | 2022-01-14 | 2022-02-12 |
@@ -516,7 +517,7 @@
 | [Pagar Pra Ver I](https://open.spotify.com/track/0u0USI9jK02pHfd0eocJpz) | [Fogo Fera](https://open.spotify.com/artist/0QSdV5uL8HUJOwsyzL5rEI), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7), [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Eu Te Amo, Pt\. 1](https://open.spotify.com/album/0M8vTT7jGR6bpcvQnLQXQ3) | 4:05 | 2022-09-09 | 2022-12-10 |
 | [Paisagem](https://open.spotify.com/track/0rGvp4ODxl78g6BYnU54sq) | [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR), [Paulo Nazareth](https://open.spotify.com/artist/7n7vXH3wFK9kCqV0m5KA40), [Dedê Silva](https://open.spotify.com/artist/5UpZtcbGmLEhU8fFayr4Iq), [Estevão Queiroga](https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK) | [Paisagem](https://open.spotify.com/album/4knGeJAqB8IMwNKQc6JHNF) | 3:57 | 2022-08-12 | 2022-12-03 |
 | [Paixão Revirada](https://open.spotify.com/track/7giC7o4Bnvm7enlzpwZCDd) | [Tagore](https://open.spotify.com/artist/6jesZl7rJFJZ8d5i9pX5q8) | [Paixão Revirada](https://open.spotify.com/album/0ahXiH16BR6OFd3pCmyz7l) | 2:31 | 2023-08-25 | 2024-03-30 |
-| [Pantufas](https://open.spotify.com/track/4ibwijAswlFKt5SJgQSZTh) | [Meu Nome Não É Portugas](https://open.spotify.com/artist/644BUUW4o2S0Tqvwu3mElD), [André Bruni](https://open.spotify.com/artist/4g4eorxKf04lSLCQUdkbCt), [Henrique Kehde](https://open.spotify.com/artist/4Rd9JBO7715ZozW152C04m), [Pedro Lacerda](https://open.spotify.com/artist/1cmOnKVOzrodQZtLcNnh5X) | [Pantufas](https://open.spotify.com/album/6rhS4tx0MyVzpxUS6vWVpO) | 3:42 | 2024-09-13 |  |
+| [Pantufas](https://open.spotify.com/track/4ibwijAswlFKt5SJgQSZTh) | [Meu Nome Não É Portugas](https://open.spotify.com/artist/644BUUW4o2S0Tqvwu3mElD), [André Bruni](https://open.spotify.com/artist/4g4eorxKf04lSLCQUdkbCt), [Henrique Kehde](https://open.spotify.com/artist/4Rd9JBO7715ZozW152C04m), [Pedro Lacerda](https://open.spotify.com/artist/1cmOnKVOzrodQZtLcNnh5X) | [Pantufas](https://open.spotify.com/album/6rhS4tx0MyVzpxUS6vWVpO) | 3:42 | 2024-09-13 | 2025-06-28 |
 | [Papel de Trouxa](https://open.spotify.com/track/3eIopS2sNEht311iFdvOZf) | [Adorável Clichê](https://open.spotify.com/artist/4mRFZ6ovRHoxsRBE3uymPY) | [Papel de Trouxa](https://open.spotify.com/album/2OJJzGSCChmfibUiV7oWz0) | 3:16 | 2022-04-29 | 2022-06-11 |
 | [Parati](https://open.spotify.com/track/2e8onQDnzxYTUpm7GeSLyK) | [perdido](https://open.spotify.com/artist/1CBoy9bj9uDO0dGIiyz8dp) | [Parati](https://open.spotify.com/album/7LxlJQpwyK60sJOs09cieV) | 2:46 | 2024-08-09 |  |
 | [Pare](https://open.spotify.com/track/12aSXMAvxEOGocRJWKhOXP) | [Ombu](https://open.spotify.com/artist/5Md89pcwawc564wNKNNG0b) | [Pare](https://open.spotify.com/album/21P7sYIcWF89cfjJYDcxo3) | 2:32 | 2022-06-24 | 2022-07-23 |

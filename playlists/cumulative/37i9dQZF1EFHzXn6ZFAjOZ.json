@@ -320,7 +320,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 201963,
       "name": "Bet U Wish",
       "url": "https://open.spotify.com/track/3XFGS2uk0l6neVIXiQ3iYO"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 240800,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/4dcyfUcAnFXTzJdvFTDCTG"
@@ -724,7 +724,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 197280,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/5NB83Qpt3RUDuKBuTGQcA3"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 182472,
       "name": "Glue (feat. RAYE)",
       "url": "https://open.spotify.com/track/1Uf09GGlf7Nq4iCfCbaGKf"
@@ -1538,7 +1538,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 136165,
       "name": "Hold - Candyland Remix",
       "url": "https://open.spotify.com/track/1emBOdmo4Xk7o6zfUsAecT"
@@ -1651,6 +1651,32 @@
     },
     {
       "album": {
+        "name": "I Feel Ya",
+        "url": "https://open.spotify.com/album/7G0Nq4QZmmoOhOx2yifG6t"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Danny Quest",
+          "url": "https://open.spotify.com/artist/3F3uRvVluLsFqBrGaeJP3p"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169356,
+      "name": "I Feel Ya",
+      "url": "https://open.spotify.com/track/0rwZuDEc2rj3lgxu3zSjMg"
+    },
+    {
+      "album": {
         "name": "SECOND",
         "url": "https://open.spotify.com/album/6eT16kw4EZwX9jlHaQQ4Ww"
       },
@@ -1662,10 +1688,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 174871,
       "name": "I, U, Us",
       "url": "https://open.spotify.com/track/7FmfkLiqWAUEeHACWftK7j"
+    },
+    {
+      "album": {
+        "name": "I, U, Us (The Remixes)",
+        "url": "https://open.spotify.com/album/1OQ08PNMnSd2Iizo027Lb5"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "RIVRS",
+          "url": "https://open.spotify.com/artist/34aOTkYOSP2yYdAanKdhbu"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219872,
+      "name": "I, U, Us - RIVRS Remix",
+      "url": "https://open.spotify.com/track/4g22usiSE89zT5JXZlSx9m"
     },
     {
       "album": {
@@ -1894,7 +1942,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 166080,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/0mk0xdqaHhvVx3JY01q1d8"
@@ -1952,7 +2000,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 196170,
       "name": "Love Of Your Life",
       "url": "https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3"
@@ -1977,6 +2025,24 @@
     },
     {
       "album": {
+        "name": "By Request, Vol. 115",
+        "url": "https://open.spotify.com/album/3qwzSKXMLI6J1IjTbM91cn"
+      },
+      "artists": [
+        {
+          "name": "8-Bit Arcade",
+          "url": "https://open.spotify.com/artist/21VBNkZvKxrI9zmfFRxXvn"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189846,
+      "name": "Love of Your Life (8-Bit Raye Emulation)",
+      "url": "https://open.spotify.com/track/15fJbp7AERNZFMrbwDgAn5"
+    },
+    {
+      "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
@@ -1995,6 +2061,24 @@
     },
     {
       "album": {
+        "name": "Heart's Desire",
+        "url": "https://open.spotify.com/album/2hx6aKJg9nktlobIjmFiW8"
+      },
+      "artists": [
+        {
+          "name": "Rachel Alejandro",
+          "url": "https://open.spotify.com/artist/4oMk1QJuMWUWrNmchRJGWL"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192080,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/6Is9lEdN1IJQcD6sfFJiTo"
+    },
+    {
+      "album": {
         "name": "Mixed Emotions",
         "url": "https://open.spotify.com/album/4Zk3SySNIzXhHZe2bfISY7"
       },
@@ -2010,7 +2094,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 210866,
       "name": "Magic",
       "url": "https://open.spotify.com/track/6wNYEYWCYDJpuEQ6vVMfDk"
@@ -2072,7 +2156,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 251197,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/2pOxs66DFLeyKgq7SHguLW"
@@ -2368,7 +2452,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 197906,
       "name": "Player",
       "url": "https://open.spotify.com/track/6ZgrQlvRIPKVTCLV02hnMt"
@@ -2568,7 +2652,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 396928,
       "name": "Rough - Axel Karakasis Remix",
       "url": "https://open.spotify.com/track/4Zq2jl1ZxsYOqBevqghdYa"
@@ -2692,7 +2776,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 225886,
       "name": "Sink",
       "url": "https://open.spotify.com/track/77JuQtsC9l7u6vZYAl5ZOX"
@@ -2812,10 +2896,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 419717,
       "name": "Summer Love",
       "url": "https://open.spotify.com/track/0Wma8BNaxMOJEynkQ4CoMv"
+    },
+    {
+      "album": {
+        "name": "Summer Love",
+        "url": "https://open.spotify.com/album/4Ztozwf1oKHvz97IyGaocr"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337074,
+      "name": "Summer Love - Edit",
+      "url": "https://open.spotify.com/track/0iHPBEH9FvdevqTxqrSKZ0"
     },
     {
       "album": {
@@ -3090,7 +3196,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 246763,
       "name": "Thrive",
       "url": "https://open.spotify.com/track/01yNuZFsUDJOpVND55wAVV"
@@ -3332,7 +3438,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 226199,
       "name": "Without You",
       "url": "https://open.spotify.com/track/3onlejVt5VdNhWh08FXgct"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Hindi Hip-Hop! Cover: Karma",
+  "description": "Best of Hindi Hip-Hop! Cover: vichaar",
   "name": "RAP 91 Hindi",
   "tracks": [
     {
@@ -2579,6 +2579,28 @@
     },
     {
       "album": {
+        "name": "Kala",
+        "url": "https://open.spotify.com/album/22MzplKqG60ji9jo6IDsr7"
+      },
+      "artists": [
+        {
+          "name": "SOS",
+          "url": "https://open.spotify.com/artist/2H9H08XUuwLF51PSncSMvc"
+        },
+        {
+          "name": "30KEY!",
+          "url": "https://open.spotify.com/artist/2OEwo5rQBQRKtbIWxb1Y8Y"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167627,
+      "name": "Kala",
+      "url": "https://open.spotify.com/track/60VpFHQNkaOIf9REhiRWLt"
+    },
+    {
+      "album": {
         "name": "Kalamkaand",
         "url": "https://open.spotify.com/album/6MPlFOjhFBYddTxV4shdcX"
       },
@@ -2782,7 +2804,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 226200,
       "name": "Kider Manzil",
       "url": "https://open.spotify.com/track/6fSpenzImcaH7172TSL7tg"
@@ -2914,7 +2936,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 156097,
       "name": "KTMN",
       "url": "https://open.spotify.com/track/6FF062JZ63dZnan3kYdfU0"
@@ -3870,6 +3892,24 @@
       "duration_ms": 200842,
       "name": "Paisa On My Mind",
       "url": "https://open.spotify.com/track/65kga6DUIuueiZHR52tWcb"
+    },
+    {
+      "album": {
+        "name": "Paisa Paisa",
+        "url": "https://open.spotify.com/album/3f4IXfdh2675rAhyHU1AFx"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Paisa Paisa",
+      "url": "https://open.spotify.com/track/5Yyi121XIsVNEfCHcHFbcG"
     },
     {
       "album": {

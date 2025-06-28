@@ -4349,6 +4349,24 @@
     },
     {
       "album": {
+        "name": "Homerun 2021",
+        "url": "https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201666,
+      "name": "Homerun 2021",
+      "url": "https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL"
+    },
+    {
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/0IGnonvuiQjPSlGKYcYgmk"
       },
@@ -9426,7 +9444,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 133000,
       "name": "Snowpath",
       "url": "https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L"

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM?si=6j4C8WSDTUy9023842Y1Sg>Abbey Ojomu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,118 likes - 101 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,127 likes - 101 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Everyday](https://open.spotify.com/track/1t3XeFBLr8zbx3rArQobfi) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Everyday](https://open.spotify.com/album/3IxSBGvSLluNNMDyf2UOP3) | 3:23 |
+| 1 | [Everyday](https://open.spotify.com/track/1t3XeFBLr8zbx3rArQobfi) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Everyday](https://open.spotify.com/album/3IxSBGvSLluNNMDyf2UOP3) | 3:20 |
 | 2 | [No Turning Back II](https://open.spotify.com/track/5VKXfM7SWob2onq118RjYJ) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [No Turning Back II](https://open.spotify.com/album/4J3JoxIKe3ehKLJ39ABh5C) | 4:59 |
 | 3 | [Pentecost](https://open.spotify.com/track/43OP3itAcQyyBOQO7TtROL) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Pentecost](https://open.spotify.com/album/5S4SZSu82ZBbdb4eyfOSAx) | 11:23 |
 | 4 | [Sovereign God](https://open.spotify.com/track/1AcvZk7j2wZC5dFaT6RwTM) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV), [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Tehillah](https://open.spotify.com/album/4C3nUIRgCsTUu56ukpyuOO) | 8:02 |

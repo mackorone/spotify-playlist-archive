@@ -4591,6 +4591,28 @@
     },
     {
       "album": {
+        "name": "AYO!",
+        "url": "https://open.spotify.com/album/0K6tU2fhIKz5aFiW3TwGtl"
+      },
+      "artists": [
+        {
+          "name": "GXHAN",
+          "url": "https://open.spotify.com/artist/6rdyRCKpxlwH5dMRYr1fUD"
+        },
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186986,
+      "name": "AYO!",
+      "url": "https://open.spotify.com/track/0wKGnQd4X0cf5WH17J7jsu"
+    },
+    {
+      "album": {
         "name": "DELUXE",
         "url": "https://open.spotify.com/album/7cTzcUA70kwCqu7tUH7xD3"
       },
@@ -16934,7 +16956,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-24",
+      "date_removed": null,
       "duration_ms": 177567,
       "name": "Gia Sena",
       "url": "https://open.spotify.com/track/5DfPEPrd3BoWL0NnwPlpTw"
@@ -19024,7 +19046,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 175166,
       "name": "Hronia Mou Polla",
       "url": "https://open.spotify.com/track/4pwQCmJehkonB6Guy9iv6J"
@@ -22990,7 +23012,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 247346,
       "name": "KSEHORISTO",
       "url": "https://open.spotify.com/track/1mOLBCX3IRwGNDLqYzXpM5"
@@ -29160,7 +29182,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-24",
+      "date_removed": null,
       "duration_ms": 177600,
       "name": "MOU ZITAS",
       "url": "https://open.spotify.com/track/3Q3e0KMeCinQONCLJyO69X"
@@ -41508,7 +41530,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 251914,
       "name": "Tha Perasei",
       "url": "https://open.spotify.com/track/2Adj9pHvgjwCnuGX1RmtVC"

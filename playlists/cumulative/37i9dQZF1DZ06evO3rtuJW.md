@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-176 songs - 8 hr 45 min
+177 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,8 @@
 | [Subject](https://open.spotify.com/track/5ulhSfhwH8HJtYtYUTCTdg) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Subject](https://open.spotify.com/album/2URgWzMdduouoVGG0zSzPf) | 2:40 | 2024-03-30 | 2024-10-31 |
 | [Survivor's Outro](https://open.spotify.com/track/17WII2fbPxGhBLsAyhhzpP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 2:50 | 2022-12-04 | 2022-12-13 |
 | [Survivor's Outro](https://open.spotify.com/track/4XFHwsNr0CwsVLc7DLIGpX) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:50 | 2022-10-28 | 2022-11-26 |
-| [Survivor’s Guilt \(feat\. G Herbo\)](https://open.spotify.com/track/3AwrGnwtXXKBFOFQCeJ1l0) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor’s Guilt \(feat\. G Herbo\)](https://open.spotify.com/album/0Ioy4eE1w1dIKs8hMqeXqy) | 3:03 | 2025-06-01 |  |
+| [Survivor’s Guilt \(feat\. G Herbo\)](https://open.spotify.com/track/3AwrGnwtXXKBFOFQCeJ1l0) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor’s Guilt \(feat\. G Herbo\)](https://open.spotify.com/album/0Ioy4eE1w1dIKs8hMqeXqy) | 3:03 | 2025-06-01 | 2025-06-28 |
+| [Survivor’s Guilt \(feat\. G Herbo\)](https://open.spotify.com/track/6nCWE96dbCCeWig5TZu4jv) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor’s Guilt \(feat\. G Herbo\)](https://open.spotify.com/album/5LmyrJlTv5zRJm2CiyxHSS) | 3:03 | 2025-06-28 |  |
 | [Survivor’s Guilt \(feat\. G Herbo\)](https://open.spotify.com/track/2CDnFIBP90FNiHhCFzoWHo) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Few Good Things](https://open.spotify.com/album/4dhK1XKetMnAilmo6CMID8) | 3:42 | 2023-01-07 | 2023-03-06 |
 | [Swerv \(feat\. G Herbo\)](https://open.spotify.com/track/6kkCJ8xk343HmHrdIbzw17) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Post Traumatic](https://open.spotify.com/album/3xdlCzNYHfEiXnUyWWyAVT) | 3:13 | 2024-10-07 | 2025-01-22 |
 | [Swerve \(feat\. G Herbo\)](https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC) | [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [UNDERWORLD](https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV) | 3:01 | 2024-03-11 |  |

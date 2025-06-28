@@ -2262,7 +2262,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 225812,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
@@ -2320,7 +2320,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -4049,6 +4049,24 @@
     },
     {
       "album": {
+        "name": "REINA VALERA",
+        "url": "https://open.spotify.com/album/7DoyvirnlARTZGdu4OLcXh"
+      },
+      "artists": [
+        {
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236550,
+      "name": "REINA VALERA",
+      "url": "https://open.spotify.com/track/2wgFR7Vo9aOkr1fCaLPUTl"
+    },
+    {
+      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/73EtqjVJRVpMMMCNSQ3C3P"
       },
@@ -4178,6 +4196,24 @@
       "duration_ms": 111428,
       "name": "Satisfayer",
       "url": "https://open.spotify.com/track/0wHDmsGl8OZcRv7GoadQWn"
+    },
+    {
+      "album": {
+        "name": "Se Acabo La Suerte",
+        "url": "https://open.spotify.com/album/6zmxLnEyBU23xTRDbUju8I"
+      },
+      "artists": [
+        {
+          "name": "West Blanco",
+          "url": "https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168461,
+      "name": "Se Acabo La Suerte",
+      "url": "https://open.spotify.com/track/6ceKdNmoQKSoVNzHxF66mI"
     },
     {
       "album": {

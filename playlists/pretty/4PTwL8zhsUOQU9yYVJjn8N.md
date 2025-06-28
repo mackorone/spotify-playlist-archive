@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 
 > whoa almost 300 saves !1!?1&\#x2F;?!1 tank u
 
-[can of beans \(\#1 4lung fan/SRS\)](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 270 likes - 179 songs - 5 hr 46 min
+[can of beans \(\#1 4lung fan/SRS\)](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 273 likes - 180 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,5 +187,6 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 | 177 | [Tell me!!](https://open.spotify.com/track/0pLAxdzTL52Q4g9RvTb3Fl) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 3:13 |
 | 178 | [Stay true](https://open.spotify.com/track/5R9Pt8Phy3yaTeEsfzS4GA) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 4:08 |
 | 179 | [LUV3 SICK!!](https://open.spotify.com/track/2MJasRtiBZPIlQ6qzmsRPN) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [LUV3 SICK!!](https://open.spotify.com/album/4oyYg9nbAUKndr8gsfqYj7) | 3:20 |
+| 180 | [this ts pmo me off](https://open.spotify.com/track/4MGbrzC5f3dLfSXdjhz4Es) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [this ts pmo me off](https://open.spotify.com/album/26Koe9XUKRUdzsmmz45gyz) | 1:43 |
 
-Snapshot ID: `AAAAhTtEENh1/cb5k6HJg0/fjq0imVPa`
+Snapshot ID: `AAAAhrUYIM5rIH6rUxJtaelJrS+nHyGv`

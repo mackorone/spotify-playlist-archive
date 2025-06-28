@@ -1871,6 +1871,28 @@
     },
     {
       "album": {
+        "name": "Manada",
+        "url": "https://open.spotify.com/album/7KNYpYrWUDEH7KGzveOOYi"
+      },
+      "artists": [
+        {
+          "name": "Malena Narvay",
+          "url": "https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i"
+        },
+        {
+          "name": "Oh My Pop!",
+          "url": "https://open.spotify.com/artist/3bagGeYp0001yDSzrxmv6J"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164427,
+      "name": "Manada",
+      "url": "https://open.spotify.com/track/7cPTErYBnaeCq4BRMOCoqB"
+    },
+    {
+      "album": {
         "name": "Maquillada en la Cama",
         "url": "https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087"
       },

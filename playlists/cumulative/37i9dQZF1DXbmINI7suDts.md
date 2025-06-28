@@ -2,9 +2,9 @@
 
 ### [Mutima ](https://open.spotify.com/playlist/37i9dQZF1DXbmINI7suDts)
 
-> Get your spirits up and manage your mood any time of the day\. Cover: Kenneth Mugabi
+> Get your spirits up and manage your mood any time of the day\. Cover: Juliana Kanyomozi
 
-152 songs - 8 hr 28 min
+153 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Sema](https://open.spotify.com/track/1YjgPU8BIH0COPwQa4HZFH) | [Eli Maliki](https://open.spotify.com/artist/2a2c2oSVT9yIvl5eEXkCMK) | [Maliki\-Fy](https://open.spotify.com/album/1uxXkx3peWh84WEVw149dF) | 4:39 | 2023-06-30 | 2023-09-08 |
 | [Sema](https://open.spotify.com/track/7oM02oJnBVup7JsLHk9zMW) | [Eli Maliki](https://open.spotify.com/artist/2a2c2oSVT9yIvl5eEXkCMK) | [Sema](https://open.spotify.com/album/3SyBHbLDHnKPncg8HaSTfv) | 4:39 | 2023-01-12 | 2023-08-26 |
 | [Serenade at Serena](https://open.spotify.com/track/3CeVhX1dTzx8IxQ9BVcqpa) | [The Mith](https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf), [Evon](https://open.spotify.com/artist/3aRikpwal24y5bhOYcVHnJ) | [The Ugandan](https://open.spotify.com/album/3oyokB16SXiEeZybhCS2V8) | 5:44 | 2022-06-06 | 2022-08-06 |
+| [Seven Days](https://open.spotify.com/track/1EIlkmCa7bpk9RC39xIIHJ) | [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [The Best of Juliana Kanyomozi](https://open.spotify.com/album/70szCeyYSPm9EM6MA6uuuQ) | 3:26 | 2025-06-27 |  |
 | [SIGANYE \(feat\. Axon\)](https://open.spotify.com/track/3cVIh8FFTlML6YoQ7dh8Fb) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Axon](https://open.spotify.com/artist/6ULfcssaluvJyhAxMcVeds) | [WENA CHAPTER 2](https://open.spotify.com/album/09QQkaDBulEZx9DE5chbuV) | 2:18 | 2022-06-06 | 2025-02-15 |
 | [Sijja](https://open.spotify.com/track/6xAGik7m1BdXYkWS3grEsc) | [Dokta Brain](https://open.spotify.com/artist/5QhpwiUuVwrOYGVSVflJeY) | [Downtown Baller](https://open.spotify.com/album/72h4HNCZgBASGzBOER9YpB) | 2:20 | 2025-01-23 |  |
 | [Simanyi](https://open.spotify.com/track/2S04ee5rotdO79Wa5ooGdS) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea), [Irene Ntale](https://open.spotify.com/artist/1jDjOhgibO7KheCwzZ1W5W) | [Simanyi](https://open.spotify.com/album/3PwJnbXplAXBL1JrXWqa5Z) | 3:36 | 2025-05-22 |  |

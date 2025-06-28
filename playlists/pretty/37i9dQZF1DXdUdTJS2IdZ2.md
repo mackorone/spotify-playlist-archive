@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: lullaboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,053 likes - 102 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,054 likes - 102 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 | 6 | [woolsuit](https://open.spotify.com/track/2Ew23dq9iOi5sl5mJ2rT6e) | [inch](https://open.spotify.com/artist/0jcR2IFFsEtMra80c9Zaei) | [woolsuit](https://open.spotify.com/album/3zAu1FZN1ci8UKXbP6lIwe) | 2:38 |
 | 7 | [Signs](https://open.spotify.com/track/4LnRPnNu8IbphuP7Ypxst6) | [Batavia Collective](https://open.spotify.com/artist/5codNlJ0krrWfPHbRMKHEJ), [weish](https://open.spotify.com/artist/3Wda211uQlgobdoSJ7i8SW) | [Signs](https://open.spotify.com/album/6lC5VEMdjJUMBr2CfHOhVW) | 3:15 |
 | 8 | [Not Bad Is Not Good Enough](https://open.spotify.com/track/5W6raJdgC0usd0CpW6R9X9) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf) | [Mirror Work 2](https://open.spotify.com/album/5L85aCLAdgNJdkqDkKUYf8) | 2:36 |
-| 9 | [Need This Love \(feat\. Moon Sujin, BLASÉ, WILD\)](https://open.spotify.com/track/6dPg93Lk861bhqGQ9ADqWJ) | [Tasha Low](https://open.spotify.com/artist/3i2MctLBDYHXCLNATxRT5Q), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Need This Love \(feat\. Moon Sujin, BLASÉ, WILD\)](https://open.spotify.com/album/64odF0JpaMMQWk9joXICeQ) | 2:39 |
+| 9 | [Need This Love \(feat\. Moon Sujin & BLASÉ\)](https://open.spotify.com/track/6dPg93Lk861bhqGQ9ADqWJ) | [Tasha Low](https://open.spotify.com/artist/3i2MctLBDYHXCLNATxRT5Q), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Need This Love \(feat\. Moon Sujin & BLASÉ\)](https://open.spotify.com/album/64odF0JpaMMQWk9joXICeQ) | 2:39 |
 | 10 | [LUCKY TO BE HERE \(feat\. Akeem Jahat\)](https://open.spotify.com/track/2Ns9xietv0lBgSh3VsKCav) | [Shelby Wang](https://open.spotify.com/artist/2Ei4OyOgbi3w0smNgmBBv0), [Akeem Jahat](https://open.spotify.com/artist/5SHYzihs8WKAP0qxcCgtDl) | [LUCKY TO BE HERE \(feat\. Akeem Jahat\)](https://open.spotify.com/album/36PK4wIE6Rq7VyoqOILIMG) | 3:43 |
 | 11 | [Tiara](https://open.spotify.com/track/4CCyAKrzcqHN8SAvZKdlf0) | [WHYLUCAS](https://open.spotify.com/artist/4Q2XtNhjSHHeEC1q4QbM5z) | [Tiara](https://open.spotify.com/album/3CKZ5u04XrYojYSQaZZQqZ) | 2:39 |
 | 12 | [Brown Eyes](https://open.spotify.com/track/6DCM1KSFoRUCPzXywMyBzB) | [Ethel Yap](https://open.spotify.com/artist/2tBm41oYtugDs5yLWVfdXn), [Bakers in Space](https://open.spotify.com/artist/01BZLSIsPBIV3u139alCVf), [Bennett Bay](https://open.spotify.com/artist/6YPmn4OXMPyUsFkpwCvKm0) | [Brown Eyes](https://open.spotify.com/album/6YamRCHuCoU4LQ43C8g5xp) | 3:12 |

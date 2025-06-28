@@ -4,7 +4,7 @@
 
 > All the highlights from the world of indie! Cover: sombr
 
-808 songs - 1 day 22 hr 24 min
+809 songs - 1 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,6 +450,7 @@
 | [Make Me Whole](https://open.spotify.com/track/2hjkKFr4umuhj1Ru3tmcsO) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [For You](https://open.spotify.com/album/5J4McIA9reqqfM5nopbWHC) | 2:55 | 2025-03-27 | 2025-06-20 |
 | [Making Plans](https://open.spotify.com/track/2nls6cWh0dHGIzwzZ1ArrC) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Making Plans](https://open.spotify.com/album/6FllofMmZ3DnrkBxxVBzo4) | 3:18 | 2024-11-21 | 2025-03-08 |
 | [Malibu](https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm) | 4:02 | 2025-02-20 | 2025-04-04 |
+| [Malin Ibland](https://open.spotify.com/track/4jk0D2kHkgaDz1NumkkMly) | [Adam Olenius](https://open.spotify.com/artist/5DQhpvhBgqdbDOojAxkIPO) | [Malin Ibland](https://open.spotify.com/album/64DaMANKNe69HCNnKVYnCs) | 3:24 | 2025-06-27 |  |
 | [Man](https://open.spotify.com/track/1l8CTi31bZ5BKcl1GckWjH) | [Resa Saffa Park](https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv) | [Man](https://open.spotify.com/album/2jJmvh73sUtVkAmwOv8TWF) | 3:20 | 2025-01-16 | 2025-02-28 |
 | [Man Made of Meat](https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Man Made of Meat](https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo) | 3:09 | 2025-01-23 | 2025-04-25 |
 | [Manic Pixie Dream Girl](https://open.spotify.com/track/4xnS3g0dqWujMo3prnQwIn) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Manic Pixie Dream Girl](https://open.spotify.com/album/2SwuFnNlOESLujPQxIqXYr) | 2:43 | 2024-06-27 | 2024-08-09 |

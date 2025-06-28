@@ -4,7 +4,7 @@
 
 > Música groovera, for the true Funk Soldiers!
 
-162 songs - 10 hr 31 min
+163 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Lightning](https://open.spotify.com/track/00FsHXEI0mghYOXWCxLenP) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Guacamole](https://open.spotify.com/album/3raZcKrCjK3p09mhwHw52N) | 4:39 | 2023-02-17 | 2023-09-21 |
 | [Lightning](https://open.spotify.com/track/3LBvCd7GSvDJYxeJpgcuAu) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Guacamole](https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl) | 4:39 | 2023-09-07 | 2024-04-19 |
 | [Liviano Como el Viento](https://open.spotify.com/track/3rtUCQlFu2MUoiqiLB4tGR) | [De Kiruza](https://open.spotify.com/artist/4xH9kppPFTwGTtty82ZDfX) | [Musica Pa'l Mundo](https://open.spotify.com/album/1fFE1eKtIxh4ILklmzLoiv) | 4:53 | 2023-02-17 |  |
+| [Los piratas \(Portal Sessions\)](https://open.spotify.com/track/4OATyXnNPGBcMn3OHzxqMu) | [Portal Sessions](https://open.spotify.com/artist/5EU23oxWb2gKorPhZRJfXN), [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Los piratas \(Portal Sessions\)](https://open.spotify.com/album/5DxUdYRUYcRW5ZH7qRjF0o) | 3:19 | 2025-06-27 |  |
 | [LOVE BUSINESS](https://open.spotify.com/track/0vIXs6yeaiWxNiu3Rh59ym) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [LOVE BUSINESS](https://open.spotify.com/album/5dXTa851mvVhUI4nnK7gaA) | 3:14 | 2025-04-11 |  |
 | [Mangangá](https://open.spotify.com/track/23Firc4ap4pJ9oCtWQhX8X) | [La Kimbo](https://open.spotify.com/artist/0XEZdz1rJKvQn1ud88fxLm) | [Parasacalapava](https://open.spotify.com/album/2ofVWC4usDLxz8hvDuX8hZ) | 3:26 | 2024-03-29 | 2024-06-10 |
 | [Maravilla](https://open.spotify.com/track/6bwFgTUrYUkxygFNsE0HP5) | [Los Jureles](https://open.spotify.com/artist/5FNSAxcE6F6d4HPSoEPUyC) | [Maravilla](https://open.spotify.com/album/0UfukyWOep54c9zpc3ukyx) | 4:00 | 2023-10-06 | 2023-12-31 |
@@ -137,7 +138,7 @@
 | [Reírme Con Vos](https://open.spotify.com/track/6EUTGVABkd7ybTeaA7WStS) | [Florencia Andrada](https://open.spotify.com/artist/3Yn6NUVSA13dcEZpw79Vd2) | [Reírme Con Vos](https://open.spotify.com/album/6RV6jO5nmkuxHXndvMU6dw) | 2:57 | 2024-03-29 | 2024-08-16 |
 | [Rodrigo a 2000](https://open.spotify.com/track/5fuOd4j89PKi99U09WEDsY) | [Mustafunk](https://open.spotify.com/artist/5pQLa1PMOMiym6nfiUWqbu) | [El Jardín de los Siguientes](https://open.spotify.com/album/2hCERihqGjGe0gz68WxI2D) | 3:55 | 2024-07-11 |  |
 | [Saber quien sos?](https://open.spotify.com/track/0TghwdMX95ZUeDDD5OgBHi) | [LWLO](https://open.spotify.com/artist/5NzzlW9prBfOWiP3lzC9yp) | [Saber quien sos?](https://open.spotify.com/album/5gBvaRp4Pk4pRUXWG6omo0) | 2:25 | 2025-02-28 | 2025-05-30 |
-| [San Francisco Nights](https://open.spotify.com/track/761uhrvvqczdMTveo50Le4) | [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [San Francisco Nights](https://open.spotify.com/album/2woY6QuO4JtwfMmSs0mKPh) | 3:30 | 2024-06-14 |  |
+| [San Francisco Nights](https://open.spotify.com/track/761uhrvvqczdMTveo50Le4) | [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [San Francisco Nights](https://open.spotify.com/album/2woY6QuO4JtwfMmSs0mKPh) | 3:30 | 2024-06-14 | 2025-06-28 |
 | [Sapukai](https://open.spotify.com/track/6l1n78Osrf2e1WyCL1V8Cq) | [Joaquín Plada](https://open.spotify.com/artist/1dh1GlSC1Ct1EKaxAO5Y8D) | [Los Días](https://open.spotify.com/album/37PiRnmx7fmtWzM5cZrvZr) | 2:58 | 2024-01-12 | 2025-05-05 |
 | [Sedas](https://open.spotify.com/track/3pB89Vp80LDCGEuXdIvbG0) | [SEDA](https://open.spotify.com/artist/6nCnKNt7CTOHzLPyWn3sHl) | [Sedas](https://open.spotify.com/album/0c8UFEPW3g6roJR38IUh2x) | 2:48 | 2025-05-30 |  |
 | [See you](https://open.spotify.com/track/2fWi95TFVVGrxxAiYIomnZ) | [Martín Longoni](https://open.spotify.com/artist/2jb0o40W69Jdbfq7TgyuYf), [Axel Mark](https://open.spotify.com/artist/0BxJVdQrTrAKG3x3STcevC) | [See you](https://open.spotify.com/album/3X0LmvRNjaJnlmsgcwNSXt) | 3:30 | 2024-03-29 | 2025-06-04 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap. \nCover: <a href=\"https://open.spotify.com/artist/2ejPIS2ocEAjCNhqkEtblo?si=SavUJZP9SDO6fgu990q_iA\">Ney The Bae</a>",
+  "description": "Only the hottest South African rap. \nCover: DJ Slique, Flow Jones Jr., K.Keed, Orish",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -876,7 +876,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 100285,
       "name": "Allez Tobina",
       "url": "https://open.spotify.com/track/47W4qjBTy2E7N7x0p6y2P9"
@@ -1782,6 +1782,36 @@
       "duration_ms": 202590,
       "name": "BANDITOS",
       "url": "https://open.spotify.com/track/2QSuaU3ejY9mmMNfnlGOTZ"
+    },
+    {
+      "album": {
+        "name": "Bangerville",
+        "url": "https://open.spotify.com/album/5CK9qfCJZneqxcB5KkmKqu"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliqe",
+          "url": "https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5"
+        },
+        {
+          "name": "Flow Jones Jr.",
+          "url": "https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa"
+        },
+        {
+          "name": "Orish",
+          "url": "https://open.spotify.com/artist/3OyqEFF59dNAYg90KTw2qi"
+        },
+        {
+          "name": "K.Keed",
+          "url": "https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141924,
+      "name": "Bangerville",
+      "url": "https://open.spotify.com/track/5qDf3t88e6T0dsbOvqeEz5"
     },
     {
       "album": {
@@ -3650,6 +3680,24 @@
       "duration_ms": 187354,
       "name": "CHOM",
       "url": "https://open.spotify.com/track/6AhbstjFqrgTO196pZdElf"
+    },
+    {
+      "album": {
+        "name": "Free Stocko Vol.1",
+        "url": "https://open.spotify.com/album/6hFweogNovrLt3T0BcEIgp"
+      },
+      "artists": [
+        {
+          "name": "Bigstar Johnson",
+          "url": "https://open.spotify.com/artist/3qpREhld4ZetBAKhVZuwf2"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186953,
+      "name": "Chop Freestyle",
+      "url": "https://open.spotify.com/track/1iKSjEKuHJjTA6MmTaKCsA"
     },
     {
       "album": {
@@ -8009,6 +8057,36 @@
     },
     {
       "album": {
+        "name": "Hosh Pakamisa",
+        "url": "https://open.spotify.com/album/4D6iPZIuBPfjXcvqm6pbd3"
+      },
+      "artists": [
+        {
+          "name": "21 Promo & Pengii",
+          "url": "https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0"
+        },
+        {
+          "name": "CTT Beats",
+          "url": "https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt"
+        },
+        {
+          "name": "Dedrick West Bonolo",
+          "url": "https://open.spotify.com/artist/1mSbq1MxKee5gZdom8BH7U"
+        },
+        {
+          "name": "SiyaCeeBeats",
+          "url": "https://open.spotify.com/artist/575AQek8G74rY22ifc3eTt"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "Hosh Pakamisa",
+      "url": "https://open.spotify.com/track/5zgeFWjhJYldLf3FMACFEc"
+    },
+    {
+      "album": {
         "name": "Hot Property",
         "url": "https://open.spotify.com/album/5wfAoW7qoAQ6A62GjEC0vz"
       },
@@ -8895,6 +8973,28 @@
     },
     {
       "album": {
+        "name": "Ithuba (feat. Veena)",
+        "url": "https://open.spotify.com/album/1OvUXIo5nFSTvjYQ9U2zHB"
+      },
+      "artists": [
+        {
+          "name": "Cy.",
+          "url": "https://open.spotify.com/artist/0I3tQaMHJBGThaeUg7ZhfI"
+        },
+        {
+          "name": "Veena",
+          "url": "https://open.spotify.com/artist/6dnPAX5ESonYBKlZJAGyYu"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229334,
+      "name": "Ithuba (feat. Veena)",
+      "url": "https://open.spotify.com/track/4GeYBNFKSLTcmpGFNN31UF"
+    },
+    {
+      "album": {
         "name": "THIS IS RELIGION",
         "url": "https://open.spotify.com/album/5ITleVPjnTRzYudzWbBN8R"
       },
@@ -9464,7 +9564,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 193608,
       "name": "KING KAI (feat. Nasty C)",
       "url": "https://open.spotify.com/track/0jspR3US1OGEElaum3nSxY"
@@ -13000,6 +13100,28 @@
       "duration_ms": 133774,
       "name": "Nyuku",
       "url": "https://open.spotify.com/track/0sElMuB7HHArBwOLdfVTK9"
+    },
+    {
+      "album": {
+        "name": "N\u01d0 H\u01ceo",
+        "url": "https://open.spotify.com/album/6m150WSUWbDEHfUE3RMf47"
+      },
+      "artists": [
+        {
+          "name": "Yungboyvegeta",
+          "url": "https://open.spotify.com/artist/0RYxiK8P3O1SwUY9jRt7sh"
+        },
+        {
+          "name": "Shia-lun Choo",
+          "url": "https://open.spotify.com/artist/3eVIhx66y5tAwcZxVfR7fj"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120035,
+      "name": "N\u01d0 H\u01ceo",
+      "url": "https://open.spotify.com/track/2B68zv6GngxWnvIQkKK3Qo"
     },
     {
       "album": {
@@ -17226,7 +17348,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 143242,
       "name": "sunroof (feat. LaCabra & Lowfeye)",
       "url": "https://open.spotify.com/track/1fROU8ikM7Wtng5zAq4UVS"
@@ -18922,7 +19044,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 192854,
       "name": "Top Of The Top",
       "url": "https://open.spotify.com/track/4XT4E28gw0nSPOl13CDoiN"
@@ -19398,7 +19520,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 156033,
       "name": "UMSINDO (feat. Kiddo CSA)",
       "url": "https://open.spotify.com/track/0QZ1cjR64cdpXEYFG1iHXX"
@@ -20844,7 +20966,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 217600,
       "name": "Win Win (feat. KindlyNxsh & Frank Casino)",
       "url": "https://open.spotify.com/track/4x7THs0jwHJTjhbyFVRSuq"
@@ -21336,6 +21458,32 @@
       "duration_ms": 157685,
       "name": "You Can\u2019t",
       "url": "https://open.spotify.com/track/5j3nUNVTuFDBJnTVA09Jwx"
+    },
+    {
+      "album": {
+        "name": "You Don't Miss Me",
+        "url": "https://open.spotify.com/album/4Wvx1SGiB5gwgchpuWfLpy"
+      },
+      "artists": [
+        {
+          "name": "Musical Majur",
+          "url": "https://open.spotify.com/artist/0dkuCgDmYaVwe9pfhil4PL"
+        },
+        {
+          "name": "Touchline",
+          "url": "https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz"
+        },
+        {
+          "name": "Kallo",
+          "url": "https://open.spotify.com/artist/2r0WWQy8Ro4SuaxPq1gIVO"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266666,
+      "name": "You Don't Miss Me",
+      "url": "https://open.spotify.com/track/18I4D3oOzmW8GROq69gwTz"
     },
     {
       "album": {

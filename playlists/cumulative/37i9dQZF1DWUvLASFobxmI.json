@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Dinamicos Jrs en portada.",
+  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Marca MP, emmanuellcortess en portada.",
   "name": "Norte\u00f1o 2025",
   "tracks": [
     {
@@ -488,7 +488,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 159685,
       "name": "Ajustad\u00f3n",
       "url": "https://open.spotify.com/track/3HgmSgGxjVSIL3WjZVe4bs"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 204413,
       "name": "Al Diablo Tu Ausencia",
       "url": "https://open.spotify.com/track/7vNoUdhkr9q4BnlKAT6BsN"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 203400,
       "name": "Aqu\u00ed Estoy Otra Vez",
       "url": "https://open.spotify.com/track/1CoVqShewul7evrS0T3FU2"
@@ -1106,7 +1106,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 130841,
       "name": "Bandera Mexicana",
       "url": "https://open.spotify.com/track/6esgHFKVfaNq0RWplhBjvl"
@@ -1634,7 +1634,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 167353,
       "name": "Cantan Las Ranas",
       "url": "https://open.spotify.com/track/7r25PfAh14VrUEksFN4DUi"
@@ -2144,6 +2144,24 @@
       "duration_ms": 146659,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa"
+    },
+    {
+      "album": {
+        "name": "Contigo Si",
+        "url": "https://open.spotify.com/album/5rUIjpsQO0a40uJb9Ijk9i"
+      },
+      "artists": [
+        {
+          "name": "Hernan Sepulveda",
+          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159527,
+      "name": "Contigo Si",
+      "url": "https://open.spotify.com/track/55gJhKCCmVByx5EyCFABgh"
     },
     {
       "album": {
@@ -2817,6 +2835,50 @@
     },
     {
       "album": {
+        "name": "Desde Que La Vi",
+        "url": "https://open.spotify.com/album/0mfQ214VTepNIL0IKFMG64"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "emmanuellcortess_",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168749,
+      "name": "Desde Que La Vi",
+      "url": "https://open.spotify.com/track/2yvIZ52EKT3kNAwzKj292i"
+    },
+    {
+      "album": {
+        "name": "Despi\u00e9rtame",
+        "url": "https://open.spotify.com/album/5nQShqiqCqU4lZ7e0hAga3"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        },
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187735,
+      "name": "Despi\u00e9rtame",
+      "url": "https://open.spotify.com/track/6F4eOE74oAOsrt1Ws47EOX"
+    },
+    {
+      "album": {
         "name": "Destapen Otra",
         "url": "https://open.spotify.com/album/1lkasIW60ThDmDRed5v7CJ"
       },
@@ -2846,7 +2908,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 168736,
       "name": "Dif\u00edcil De Creer",
       "url": "https://open.spotify.com/track/5qEx0yHStDKu57CGnvtsir"
@@ -3236,6 +3298,28 @@
       "duration_ms": 245376,
       "name": "El Comerciante",
       "url": "https://open.spotify.com/track/56YZft0whsresPdufFqwwS"
+    },
+    {
+      "album": {
+        "name": "El Hombre De Las 3 D\u00e9cadas",
+        "url": "https://open.spotify.com/album/0hGC6GQVpdIZlZqLVQ610L"
+      },
+      "artists": [
+        {
+          "name": "Martin Castillo",
+          "url": "https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw"
+        },
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184261,
+      "name": "El Compa 1",
+      "url": "https://open.spotify.com/track/4X51ot2ZvuPIVRbbPwoLBv"
     },
     {
       "album": {
@@ -4642,7 +4726,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 146421,
       "name": "Ella Es Mi Novia",
       "url": "https://open.spotify.com/track/4EoZjUqOu7epooq8uYmwlL"
@@ -5398,7 +5482,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 163359,
       "name": "Fuga Del Jefe",
       "url": "https://open.spotify.com/track/3V6lLVVvLJKMqtGRsuSX6l"
@@ -5548,6 +5632,28 @@
       "duration_ms": 184000,
       "name": "Gente de Trabajo",
       "url": "https://open.spotify.com/track/2mEKAonomU58PwavJwYSlc"
+    },
+    {
+      "album": {
+        "name": "Gente de Trabajo",
+        "url": "https://open.spotify.com/album/3Lamowt7A1mjTSJ9DsW9Ob"
+      },
+      "artists": [
+        {
+          "name": "Colmillo Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
+        },
+        {
+          "name": "Ur\u00edas Garate",
+          "url": "https://open.spotify.com/artist/0mD2dn6r4wKrom7pWIJb2Z"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226296,
+      "name": "Gente de Trabajo",
+      "url": "https://open.spotify.com/track/1uMrioszCaZirToYfkwJMD"
     },
     {
       "album": {
@@ -6054,7 +6160,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 140374,
       "name": "Impulso",
       "url": "https://open.spotify.com/track/4xqcKxTHMWUI2maPYUmGzZ"
@@ -6960,7 +7066,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 179114,
       "name": "La Tusi De Mango",
       "url": "https://open.spotify.com/track/6KE0yuJ52V9Ld99AJM4OMC"
@@ -7148,7 +7254,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 142336,
       "name": "Lamentablemente",
       "url": "https://open.spotify.com/track/7c4HQ7hXnoNdB9v29jFqYf"
@@ -7442,7 +7548,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 171391,
       "name": "Lo elegiste a \u00e9l (la renta 2)",
       "url": "https://open.spotify.com/track/4s1zaDDDsJtpV975lTE53j"
@@ -7464,7 +7570,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 181040,
       "name": "Lo Logre",
       "url": "https://open.spotify.com/track/0SB1bitMAMk9EqdmW5WNuJ"
@@ -8347,6 +8453,24 @@
     },
     {
       "album": {
+        "name": "Mi Mula",
+        "url": "https://open.spotify.com/album/77ZUyIptzqnASMixrm9dtU"
+      },
+      "artists": [
+        {
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168554,
+      "name": "Mi Mula",
+      "url": "https://open.spotify.com/track/0CIsUNjjxwCVhfut2wfxNj"
+    },
+    {
+      "album": {
         "name": "Mi m\u00e1s grande error",
         "url": "https://open.spotify.com/album/5VavgMSlwoK93M5vSMJmDG"
       },
@@ -8602,6 +8726,28 @@
       "duration_ms": 169440,
       "name": "Mundo De Amor",
       "url": "https://open.spotify.com/track/6WjokN1zbNGTNsBkzBd9gd"
+    },
+    {
+      "album": {
+        "name": "Mutuo",
+        "url": "https://open.spotify.com/album/2y4PKw14eMeF4hbo0zDewa"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177888,
+      "name": "Mutuo",
+      "url": "https://open.spotify.com/track/0YNVhxPfqDJSdrJhxduohQ"
     },
     {
       "album": {
@@ -10082,7 +10228,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 159551,
       "name": "Pienso En Ella",
       "url": "https://open.spotify.com/track/2A7bKx16cVAOkLla98qzMx"
@@ -10336,7 +10482,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 170219,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/1djuH9QUfY6HTEZ7Z8USnD"
@@ -10430,6 +10576,28 @@
       "duration_ms": 212563,
       "name": "Pudiste Pero No Quisiste",
       "url": "https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC"
+    },
+    {
+      "album": {
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/2ErW404SVZ8KbcA5y1t33T"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158391,
+      "name": "Puro Pa\u2019 Delante",
+      "url": "https://open.spotify.com/track/7LB36Pf828QzWhZ4F33wXK"
     },
     {
       "album": {
@@ -10770,7 +10938,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 201706,
       "name": "Qu\u00e9date Conmigo Esta Noche",
       "url": "https://open.spotify.com/track/0eJ45rJvRVc6OBZqe4hHsc"
@@ -10992,6 +11160,24 @@
       "duration_ms": 175319,
       "name": "Se Me Solt\u00f3 El Hocico",
       "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
+    },
+    {
+      "album": {
+        "name": "SE OLVID\u00d3",
+        "url": "https://open.spotify.com/album/0Um9uB6YlmlnuRd634phBQ"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226870,
+      "name": "SE OLVID\u00d3",
+      "url": "https://open.spotify.com/track/6dJeWi5BvpppJB3IXU1cn6"
     },
     {
       "album": {
@@ -12082,7 +12268,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 153687,
       "name": "Te Vas Amor",
       "url": "https://open.spotify.com/track/1xnklGqpgcYWRQ2Jy9hkVU"
@@ -12310,7 +12496,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 282765,
       "name": "Traicionaron a Mateo",
       "url": "https://open.spotify.com/track/6J5l6JwfS91EdoXHMVfV42"
@@ -12770,6 +12956,24 @@
       "duration_ms": 192626,
       "name": "Vaiv\u00e9n",
       "url": "https://open.spotify.com/track/41bThbXGVhiFwHa5hX6jaD"
+    },
+    {
+      "album": {
+        "name": "Vamos Avanzando",
+        "url": "https://open.spotify.com/album/4AiiZj0QTok0mf3MufZhoH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186305,
+      "name": "Vamos Avanzando",
+      "url": "https://open.spotify.com/track/0aqg9YIHyCooStivRegRt4"
     },
     {
       "album": {
@@ -13244,7 +13448,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 213674,
       "name": "Ya No Vuelvas",
       "url": "https://open.spotify.com/track/1vhV61LBldZ7Wvg0eP9wLZ"
@@ -13454,7 +13658,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 262906,
       "name": "\u00bfEn D\u00f3nde Te Hab\u00edas Metido?",
       "url": "https://open.spotify.com/track/4kltpi85THgRkkigndhURH"

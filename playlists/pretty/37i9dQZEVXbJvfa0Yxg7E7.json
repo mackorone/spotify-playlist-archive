@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Norway.",
-  "num_followers": 547040,
+  "num_followers": 547066,
   "original_name": "Top 50 - Norway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L/C5+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L/ILeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "Valget \u00e5 g\u00e5, og vi gikk",
         "url": "https://open.spotify.com/album/5L8V2Gwsd6jyyPGQwPPCqn"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2p4HaYc7zQLWXrf4gHIrnf"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "Tobias Sten",
         "url": "https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "You'll Be Alright, Kid (Chapter 1)",
         "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
@@ -57,7 +57,23 @@
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
+      "album": {
+        "name": "Valget \u00e5 g\u00e5, og vi gikk",
+        "url": "https://open.spotify.com/album/5L8V2Gwsd6jyyPGQwPPCqn"
+      },
+      "artists": [
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        }
+      ],
+      "duration_ms": 251213,
+      "name": "Alt du trenger",
+      "url": "https://open.spotify.com/track/6kHrtlTkNbQl0cD6I6t7pC"
+    },
+    {
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "Ekko",
         "url": "https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA"
@@ -77,23 +93,7 @@
       "url": "https://open.spotify.com/track/1KtiKEGGrhnNqGN7Hc84qb"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
-      "album": {
-        "name": "Valget \u00e5 g\u00e5, og vi gikk",
-        "url": "https://open.spotify.com/album/5L8V2Gwsd6jyyPGQwPPCqn"
-      },
-      "artists": [
-        {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
-        }
-      ],
-      "duration_ms": 251213,
-      "name": "Alt du trenger",
-      "url": "https://open.spotify.com/track/6kHrtlTkNbQl0cD6I6t7pC"
-    },
-    {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "Tobias Sten",
         "url": "https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/5iw7PzTQdsg2FVhR14cgGw"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "Alle vil til himmelen",
         "url": "https://open.spotify.com/album/4vzLkPviZltNi8oI7F6e2Z"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/2HrQbrT7N3VcV3PmZIy9Wq"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "Svagare \u00e4n jag",
         "url": "https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "Misforst\u00e5tt (Juggernaut)",
         "url": "https://open.spotify.com/album/1GV8E7CR5apRie0sWItWF1"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/1Ia7Mk2djngsXBlVWf28NJ"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "Tobias Sten",
         "url": "https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH"
@@ -177,43 +177,7 @@
       "url": "https://open.spotify.com/track/2TSMITTX23lCiUbNb4eizY"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
-      "album": {
-        "name": "Skrubbs\u00e5r og Skallebank 2",
-        "url": "https://open.spotify.com/album/0MPHCS5KaZiZei1JEiioLy"
-      },
-      "artists": [
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        },
-        {
-          "name": "Chris Abolade",
-          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
-        }
-      ],
-      "duration_ms": 162651,
-      "name": "Putt Diamanter Opp",
-      "url": "https://open.spotify.com/track/5EvBoKgVNrMp3NNSSaLqFB"
-    },
-    {
-      "added_at": "2025-06-26 13:08:27",
-      "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
-    },
-    {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "Friskis",
         "url": "https://open.spotify.com/album/34GDL15iOZdbCknRQjgpGu"
@@ -237,23 +201,43 @@
       "url": "https://open.spotify.com/track/7v9T6N0q35ZwpqdN7Ln2xs"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
-        "name": "Overfladisk",
-        "url": "https://open.spotify.com/album/7A0qirXHhtlcgnsk4f5I34"
+        "name": "Skrubbs\u00e5r og Skallebank 2",
+        "url": "https://open.spotify.com/album/0MPHCS5KaZiZei1JEiioLy"
       },
       "artists": [
         {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        },
+        {
+          "name": "Chris Abolade",
+          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
         }
       ],
-      "duration_ms": 178666,
-      "name": "Overfladisk",
-      "url": "https://open.spotify.com/track/5TrYG1brmOJcqtOFXhLaMm"
+      "duration_ms": 162651,
+      "name": "Putt Diamanter Opp",
+      "url": "https://open.spotify.com/track/5EvBoKgVNrMp3NNSSaLqFB"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
+      "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
+    },
+    {
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "Valget \u00e5 g\u00e5, og vi gikk",
         "url": "https://open.spotify.com/album/5L8V2Gwsd6jyyPGQwPPCqn"
@@ -269,7 +253,23 @@
       "url": "https://open.spotify.com/track/65kF2jDvLKN7OSfpb8glPk"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
+      "album": {
+        "name": "Overfladisk",
+        "url": "https://open.spotify.com/album/7A0qirXHhtlcgnsk4f5I34"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Overfladisk",
+      "url": "https://open.spotify.com/track/5TrYG1brmOJcqtOFXhLaMm"
+    },
+    {
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "undressed",
         "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "LENGE LEVE LIVET",
         "url": "https://open.spotify.com/album/4hka0YqBcLB9uWydvhcx0R"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/5E5GQ6dnxc5PpvMcN9U3fX"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
@@ -321,7 +321,23 @@
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
+      "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
+    {
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "Galopp",
         "url": "https://open.spotify.com/album/5Kc2vzQnDo9AInTgxixR4n"
@@ -349,23 +365,23 @@
       "url": "https://open.spotify.com/track/6kx2yUfhcc372Iknjrx6YK"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+        "name": "Azizam",
+        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+      "duration_ms": 162029,
+      "name": "Azizam",
+      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "Birra",
         "url": "https://open.spotify.com/album/6ET2zhZ1JD8Zge03jYUnyT"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/2IdIiiNX7SpQO9WW77aZPx"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "Just Keep Watching (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
@@ -405,23 +421,7 @@
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
-      "album": {
-        "name": "Azizam",
-        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 162029,
-      "name": "Azizam",
-      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
-    },
-    {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "Sauna Collection",
         "url": "https://open.spotify.com/album/4CWJY1YRrC5U8SCBScB4SX"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/6eIzQCYExfnNeM7KOlE3lE"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "Utested",
         "url": "https://open.spotify.com/album/1yMhNrho22lcCp3MKwnHEu"
@@ -453,23 +453,7 @@
       "url": "https://open.spotify.com/track/19188WQf2DrNMfI1XLDnYF"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
-      "album": {
-        "name": "St. Tropez",
-        "url": "https://open.spotify.com/album/1VMuWJQJoR0S8fcsXyRLVe"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 142660,
-      "name": "St. Tropez",
-      "url": "https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X"
-    },
-    {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -489,7 +473,7 @@
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "SKJORTE & SLIPS",
         "url": "https://open.spotify.com/album/2EmNWkiQvPfcyXZqbVsNnM"
@@ -505,7 +489,39 @@
       "url": "https://open.spotify.com/track/0XX70hZPPFTnPQRL7NlWYO"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
+      "album": {
+        "name": "St. Tropez",
+        "url": "https://open.spotify.com/album/1VMuWJQJoR0S8fcsXyRLVe"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 142660,
+      "name": "St. Tropez",
+      "url": "https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X"
+    },
+    {
+      "added_at": "2025-06-27 13:30:40",
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/0Rfqw98N7kZ4qVPGWvt8Gn"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 208226,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK"
+    },
+    {
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
@@ -525,26 +541,26 @@
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
-        "name": "Melis",
-        "url": "https://open.spotify.com/album/37OHrXXHZRIiKlxbHzOalj"
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
       },
       "artists": [
         {
-          "name": "Postgirobygget",
-          "url": "https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 186413,
-      "name": "En Solskinnsdag",
-      "url": "https://open.spotify.com/track/005cocyIL36CVjjtUEdVSq"
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
-        "name": "F\u00e5 det p\u00e5",
-        "url": "https://open.spotify.com/album/3Uo9CGyJAC7gjPRRY0zJGN"
+        "name": "Hver Gang Vi M\u00f8tes 2025",
+        "url": "https://open.spotify.com/album/19a58lazsTPsTaUEzah6P1"
       },
       "artists": [
         {
@@ -552,23 +568,23 @@
           "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
         },
         {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
-        },
-        {
           "name": "Hver gang vi m\u00f8tes",
           "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        },
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
         }
       ],
       "duration_ms": 199109,
       "name": "F\u00e5 det p\u00e5",
-      "url": "https://open.spotify.com/track/7b2BJHw0HsBBHdojXWe4fA"
+      "url": "https://open.spotify.com/track/1V9NWjMX2GRy0exAEGicsC"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "Espresso Macchiato",
-        "url": "https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj"
+        "url": "https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns"
       },
       "artists": [
         {
@@ -578,26 +594,10 @@
       ],
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
-      "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
+      "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
-      "album": {
-        "name": "Melis",
-        "url": "https://open.spotify.com/album/37OHrXXHZRIiKlxbHzOalj"
-      },
-      "artists": [
-        {
-          "name": "Postgirobygget",
-          "url": "https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb"
-        }
-      ],
-      "duration_ms": 203253,
-      "name": "Idyll",
-      "url": "https://open.spotify.com/track/6ZB1dFgdUW6I9qzW7Oap6o"
-    },
-    {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "Bloodline (with Jelly Roll)",
         "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
@@ -617,39 +617,7 @@
       "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
-      "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
-    },
-    {
-      "added_at": "2025-06-26 13:08:27",
-      "album": {
-        "name": "Like Barn Leker Best",
-        "url": "https://open.spotify.com/album/4P5BKi8dnOQVQwrXQ1to33"
-      },
-      "artists": [
-        {
-          "name": "Tigergutt101",
-          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
-        }
-      ],
-      "duration_ms": 154042,
-      "name": "Samma det",
-      "url": "https://open.spotify.com/track/4ADggmM9xpZQd6OMXepjIv"
-    },
-    {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "Valget \u00e5 g\u00e5, og vi gikk",
         "url": "https://open.spotify.com/album/5L8V2Gwsd6jyyPGQwPPCqn"
@@ -665,39 +633,23 @@
       "url": "https://open.spotify.com/track/0Ut7eeI3sDP23XOIponRFk"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
-        "name": "BASSIANI",
-        "url": "https://open.spotify.com/album/5cQhCSdeEC5i17xtdD973E"
+        "name": "Melis",
+        "url": "https://open.spotify.com/album/37OHrXXHZRIiKlxbHzOalj"
       },
       "artists": [
         {
-          "name": "Soppgirobygget",
-          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
+          "name": "Postgirobygget",
+          "url": "https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb"
         }
       ],
-      "duration_ms": 163200,
-      "name": "BASSIANI",
-      "url": "https://open.spotify.com/track/2BtcfopAsabwKFovwFyvFk"
+      "duration_ms": 186413,
+      "name": "En Solskinnsdag",
+      "url": "https://open.spotify.com/track/005cocyIL36CVjjtUEdVSq"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
-      "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
-    },
-    {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "This Wasn't Meant For You Anyway",
         "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
@@ -713,27 +665,71 @@
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
-        "name": "Tusen sp\u00e4nn",
-        "url": "https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL"
+        "name": "BASSIANI",
+        "url": "https://open.spotify.com/album/5cQhCSdeEC5i17xtdD973E"
       },
       "artists": [
         {
-          "name": "Tjuvjakt",
-          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
-        },
-        {
-          "name": "Fanny Avonne",
-          "url": "https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8"
+          "name": "Soppgirobygget",
+          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
         }
       ],
-      "duration_ms": 190344,
-      "name": "Tusen sp\u00e4nn",
-      "url": "https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM"
+      "duration_ms": 163200,
+      "name": "BASSIANI",
+      "url": "https://open.spotify.com/track/2BtcfopAsabwKFovwFyvFk"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
+      "album": {
+        "name": "Melis",
+        "url": "https://open.spotify.com/album/37OHrXXHZRIiKlxbHzOalj"
+      },
+      "artists": [
+        {
+          "name": "Postgirobygget",
+          "url": "https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb"
+        }
+      ],
+      "duration_ms": 203253,
+      "name": "Idyll",
+      "url": "https://open.spotify.com/track/6ZB1dFgdUW6I9qzW7Oap6o"
+    },
+    {
+      "added_at": "2025-06-27 13:30:40",
+      "album": {
+        "name": "Like Barn Leker Best",
+        "url": "https://open.spotify.com/album/4P5BKi8dnOQVQwrXQ1to33"
+      },
+      "artists": [
+        {
+          "name": "Tigergutt101",
+          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
+        }
+      ],
+      "duration_ms": 154042,
+      "name": "Samma det",
+      "url": "https://open.spotify.com/track/4ADggmM9xpZQd6OMXepjIv"
+    },
+    {
+      "added_at": "2025-06-27 13:30:40",
+      "album": {
+        "name": "Lighter",
+        "url": "https://open.spotify.com/album/3wo1epa3NLBGPr1rTeJror"
+      },
+      "artists": [
+        {
+          "name": "Kyle Alessandro",
+          "url": "https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl"
+        }
+      ],
+      "duration_ms": 175853,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX"
+    },
+    {
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "FRIHET I LENKER",
         "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
@@ -753,23 +749,27 @@
       "url": "https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
-        "name": "Lighter",
-        "url": "https://open.spotify.com/album/3wo1epa3NLBGPr1rTeJror"
+        "name": "Tusen sp\u00e4nn",
+        "url": "https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL"
       },
       "artists": [
         {
-          "name": "Kyle Alessandro",
-          "url": "https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl"
+          "name": "Tjuvjakt",
+          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
+        },
+        {
+          "name": "Fanny Avonne",
+          "url": "https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8"
         }
       ],
-      "duration_ms": 175853,
-      "name": "Lighter",
-      "url": "https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX"
+      "duration_ms": 190344,
+      "name": "Tusen sp\u00e4nn",
+      "url": "https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "Strawberry Blonde",
         "url": "https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk"
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/0db2mv3OG9HKqPObWRauEY"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "T\u00c6T P\u00c5 (feat. Delara)",
         "url": "https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx"
@@ -809,23 +809,7 @@
       "url": "https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
-      "album": {
-        "name": "10 Hoes",
-        "url": "https://open.spotify.com/album/2wbvQ2Dxh2cLwCsOOkE46h"
-      },
-      "artists": [
-        {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        }
-      ],
-      "duration_ms": 148750,
-      "name": "10 Hoes",
-      "url": "https://open.spotify.com/track/4qqKLHCbw96XRXX4tBfasV"
-    },
-    {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "Bender",
         "url": "https://open.spotify.com/album/3ifaviRvCs4EvVTAneLnYn"
@@ -841,7 +825,23 @@
       "url": "https://open.spotify.com/track/0IstZK4ERxONEDvE5wxwHS"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
+      "album": {
+        "name": "10 Hoes",
+        "url": "https://open.spotify.com/album/2wbvQ2Dxh2cLwCsOOkE46h"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 148750,
+      "name": "10 Hoes",
+      "url": "https://open.spotify.com/track/4qqKLHCbw96XRXX4tBfasV"
+    },
+    {
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "Om",
         "url": "https://open.spotify.com/album/7gvTJrFo67qu7HrwRVYcLM"
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/3tgDP0BTRP10i4HkLlAER3"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "Valget \u00e5 g\u00e5, og vi gikk",
         "url": "https://open.spotify.com/album/5L8V2Gwsd6jyyPGQwPPCqn"
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/2ptL2Lc5oZLGpjUv9rjNek"
     },
     {
-      "added_at": "2025-06-26 13:08:27",
+      "added_at": "2025-06-27 13:30:40",
       "album": {
         "name": "det e forseint",
         "url": "https://open.spotify.com/album/55BkMznhU5jRXVWpjaefby"

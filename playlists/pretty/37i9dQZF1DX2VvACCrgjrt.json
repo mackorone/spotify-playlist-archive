@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 with SIDEPIECE + Bobby Shmurda",
-  "num_followers": 465974,
+  "num_followers": 466088,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1773,6 +1773,22 @@
       "url": "https://open.spotify.com/track/3HxaXZ9pS1r3GFgv4Eh5sI"
     },
     {
+      "added_at": "2025-03-24 14:38:15",
+      "album": {
+        "name": "Alcoholic",
+        "url": "https://open.spotify.com/album/5T00wwk5KYi81rHvFq3qfX"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 200610,
+      "name": "Alcoholic",
+      "url": "https://open.spotify.com/track/2K1w2Tw0eLnASMPMN6ijzD"
+    },
+    {
       "added_at": "2025-04-25 04:00:58",
       "album": {
         "name": "Move Over",
@@ -1791,42 +1807,6 @@
       "duration_ms": 167727,
       "name": "Move Over",
       "url": "https://open.spotify.com/track/3qP4d4sEQNXpfY6LSrv0H7"
-    },
-    {
-      "added_at": "2025-03-24 14:38:15",
-      "album": {
-        "name": "Alcoholic",
-        "url": "https://open.spotify.com/album/5T00wwk5KYi81rHvFq3qfX"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 200610,
-      "name": "Alcoholic",
-      "url": "https://open.spotify.com/track/2K1w2Tw0eLnASMPMN6ijzD"
-    },
-    {
-      "added_at": "2025-04-04 04:00:31",
-      "album": {
-        "name": "Late Night Secrets",
-        "url": "https://open.spotify.com/album/0erqXse0aWsncui7Eew8al"
-      },
-      "artists": [
-        {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        },
-        {
-          "name": "OOTORO",
-          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
-        }
-      ],
-      "duration_ms": 185952,
-      "name": "Late Night Secrets",
-      "url": "https://open.spotify.com/track/5zlwBcdCPaJAOwkqdwaQbl"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1853,20 +1833,24 @@
       "url": "https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw"
     },
     {
-      "added_at": "2025-05-02 05:35:09",
+      "added_at": "2025-04-04 04:00:31",
       "album": {
-        "name": "Telephone Ringin'",
-        "url": "https://open.spotify.com/album/3UwV194TvGEHaEt5ySu5ML"
+        "name": "Late Night Secrets",
+        "url": "https://open.spotify.com/album/0erqXse0aWsncui7Eew8al"
       },
       "artists": [
         {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
         }
       ],
-      "duration_ms": 213750,
-      "name": "Telephone Ringin'",
-      "url": "https://open.spotify.com/track/2zgTx5Zc7NokIheqwBDIhT"
+      "duration_ms": 185952,
+      "name": "Late Night Secrets",
+      "url": "https://open.spotify.com/track/5zlwBcdCPaJAOwkqdwaQbl"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1883,6 +1867,22 @@
       "duration_ms": 146610,
       "name": "BPM",
       "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
+    },
+    {
+      "added_at": "2025-05-02 05:35:09",
+      "album": {
+        "name": "Telephone Ringin'",
+        "url": "https://open.spotify.com/album/3UwV194TvGEHaEt5ySu5ML"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Telephone Ringin'",
+      "url": "https://open.spotify.com/track/2zgTx5Zc7NokIheqwBDIhT"
     },
     {
       "added_at": "2025-02-21 05:00:41",
@@ -2001,6 +2001,38 @@
       "url": "https://open.spotify.com/track/3Vax2tVN84lRW9Xl0DyPjs"
     },
     {
+      "added_at": "2024-09-30 15:01:28",
+      "album": {
+        "name": "Baggy Black Jeans",
+        "url": "https://open.spotify.com/album/3VMp1zL4dGWjXz8ezLbTfv"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        }
+      ],
+      "duration_ms": 192692,
+      "name": "Baggy Black Jeans",
+      "url": "https://open.spotify.com/track/5napq9DmxX4W8Z6y9yI3Us"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "MANSA MUSA",
+        "url": "https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "MANSA MUSA",
+      "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
+    },
+    {
       "added_at": "2025-06-06 04:00:23",
       "album": {
         "name": "NEVER ENOUGH",
@@ -2021,36 +2053,24 @@
       "url": "https://open.spotify.com/track/4FDLDao8b8seU5KEmNtlIq"
     },
     {
-      "added_at": "2024-07-05 04:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "MANSA MUSA",
-        "url": "https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K"
+        "name": "Whole Lotta Drugs / Over The Edge",
+        "url": "https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn"
       },
       "artists": [
         {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "MANSA MUSA",
-      "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
-    },
-    {
-      "added_at": "2024-09-30 15:01:28",
-      "album": {
-        "name": "Baggy Black Jeans",
-        "url": "https://open.spotify.com/album/3VMp1zL4dGWjXz8ezLbTfv"
-      },
-      "artists": [
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
         {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
         }
       ],
-      "duration_ms": 192692,
-      "name": "Baggy Black Jeans",
-      "url": "https://open.spotify.com/track/5napq9DmxX4W8Z6y9yI3Us"
+      "duration_ms": 208550,
+      "name": "Whole Lotta Drugs",
+      "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
     },
     {
       "added_at": "2025-06-06 04:00:23",
@@ -2077,24 +2097,24 @@
       "url": "https://open.spotify.com/track/3fh6pToHUbW7w14JyBqsJc"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2025-02-14 05:00:46",
       "album": {
-        "name": "Whole Lotta Drugs / Over The Edge",
-        "url": "https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn"
+        "name": "Connect",
+        "url": "https://open.spotify.com/album/1183FzAgAXFIGnGtzsrqxd"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         },
         {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+          "name": "Jamakabi",
+          "url": "https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC"
         }
       ],
-      "duration_ms": 208550,
-      "name": "Whole Lotta Drugs",
-      "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
+      "duration_ms": 137595,
+      "name": "Connect",
+      "url": "https://open.spotify.com/track/6An6JPuqOMgE9DV3Nk1u7A"
     },
     {
       "added_at": "2025-04-25 04:00:58",
@@ -2129,26 +2149,6 @@
       "url": "https://open.spotify.com/track/2ez05kaHbFLyu70MMSNQpA"
     },
     {
-      "added_at": "2025-02-14 05:00:46",
-      "album": {
-        "name": "Connect",
-        "url": "https://open.spotify.com/album/1183FzAgAXFIGnGtzsrqxd"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Jamakabi",
-          "url": "https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC"
-        }
-      ],
-      "duration_ms": 137595,
-      "name": "Connect",
-      "url": "https://open.spotify.com/track/6An6JPuqOMgE9DV3Nk1u7A"
-    },
-    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "That's the Spot",
@@ -2167,6 +2167,26 @@
       "duration_ms": 182769,
       "name": "That's the Spot",
       "url": "https://open.spotify.com/track/6evSxq4h3VyxaPPz8udIhX"
+    },
+    {
+      "added_at": "2025-01-31 05:00:38",
+      "album": {
+        "name": "MAMI",
+        "url": "https://open.spotify.com/album/5PZzF9O1Q0dsrzixb6DGIu"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "duration_ms": 110769,
+      "name": "MAMI",
+      "url": "https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT"
     },
     {
       "added_at": "2025-02-07 16:18:57",
@@ -2211,26 +2231,6 @@
       "duration_ms": 181818,
       "name": "Backstage Baddies",
       "url": "https://open.spotify.com/track/6FoVj4XLb8Aro1gxcCT6Rk"
-    },
-    {
-      "added_at": "2025-01-31 05:00:38",
-      "album": {
-        "name": "MAMI",
-        "url": "https://open.spotify.com/album/5PZzF9O1Q0dsrzixb6DGIu"
-      },
-      "artists": [
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        }
-      ],
-      "duration_ms": 110769,
-      "name": "MAMI",
-      "url": "https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -2313,6 +2313,22 @@
       "url": "https://open.spotify.com/track/0uxm6MQkNv6Qf7FPVX8Qud"
     },
     {
+      "added_at": "2024-08-16 14:00:00",
+      "album": {
+        "name": "Comeback",
+        "url": "https://open.spotify.com/album/3Ma9NLeHpkB5VKuUq99ZDQ"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "duration_ms": 142080,
+      "name": "Comeback",
+      "url": "https://open.spotify.com/track/6TpDLUKEKk6ce1ZCnazwyQ"
+    },
+    {
       "added_at": "2025-05-09 14:18:44",
       "album": {
         "name": "Just Let Go",
@@ -2331,22 +2347,6 @@
       "duration_ms": 201699,
       "name": "Just Let Go",
       "url": "https://open.spotify.com/track/5hn6ItyNv3rEwGW7plCEN9"
-    },
-    {
-      "added_at": "2024-08-16 14:00:00",
-      "album": {
-        "name": "Comeback",
-        "url": "https://open.spotify.com/album/3Ma9NLeHpkB5VKuUq99ZDQ"
-      },
-      "artists": [
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        }
-      ],
-      "duration_ms": 142080,
-      "name": "Comeback",
-      "url": "https://open.spotify.com/track/6TpDLUKEKk6ce1ZCnazwyQ"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
-        "name": "Bananas",
-        "url": "https://open.spotify.com/album/14UHFjLRGijj7vvOOTX8oG"
-      },
-      "artists": [
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 140625,
-      "name": "Bananas",
-      "url": "https://open.spotify.com/track/6Ke3GG7lQGmBL3aqrY4GtX"
-    },
-    {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
         "name": "Earthquake",
         "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
       },
@@ -2405,24 +2389,20 @@
       "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
     },
     {
-      "added_at": "2025-05-30 14:35:26",
+      "added_at": "2025-06-06 04:00:23",
       "album": {
-        "name": "HOUSE PARTY",
-        "url": "https://open.spotify.com/album/1vUtPZOCuQuByE1TVXgA2H"
+        "name": "Bananas",
+        "url": "https://open.spotify.com/album/14UHFjLRGijj7vvOOTX8oG"
       },
       "artists": [
         {
-          "name": "ESCARGOT",
-          "url": "https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3"
-        },
-        {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
         }
       ],
-      "duration_ms": 185280,
-      "name": "HOUSE PARTY",
-      "url": "https://open.spotify.com/track/0cdhN1HqOz9ji1sdZbqSe2"
+      "duration_ms": 140625,
+      "name": "Bananas",
+      "url": "https://open.spotify.com/track/6Ke3GG7lQGmBL3aqrY4GtX"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2443,6 +2423,26 @@
       "duration_ms": 195357,
       "name": "Ravers Bounce",
       "url": "https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ"
+    },
+    {
+      "added_at": "2025-05-30 14:35:26",
+      "album": {
+        "name": "HOUSE PARTY",
+        "url": "https://open.spotify.com/album/1vUtPZOCuQuByE1TVXgA2H"
+      },
+      "artists": [
+        {
+          "name": "ESCARGOT",
+          "url": "https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3"
+        },
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "HOUSE PARTY",
+      "url": "https://open.spotify.com/track/0cdhN1HqOz9ji1sdZbqSe2"
     }
   ],
   "unique_name": "Nasty Bits",

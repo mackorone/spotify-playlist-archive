@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada. Elevate your aura with Avenoir from Edmonton, AB \ud83c\udde8\ud83c\udde6 and Bryant Barnes from Cypress, TX. \ud83c\uddfa\ud83c\uddf8",
+  "description": "This is R&B in Canada. Elevate your aura with Maz B from Winnipeg, MB.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -868,6 +868,24 @@
       "duration_ms": 173026,
       "name": "AFTER HOURS",
       "url": "https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2"
+    },
+    {
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/7vQNfOsfFCWzkM0ZXOJzp0"
+      },
+      "artists": [
+        {
+          "name": "Yzabo",
+          "url": "https://open.spotify.com/artist/2agAYz3TYie8HOzvPE5BoP"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272222,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/3jexuSVo2BdY8AfPdzPj5m"
     },
     {
       "album": {
@@ -5165,6 +5183,24 @@
     },
     {
       "album": {
+        "name": "Deserve",
+        "url": "https://open.spotify.com/album/2l5yiJNpmXYcZQu3qg4gCb"
+      },
+      "artists": [
+        {
+          "name": "Maz B",
+          "url": "https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141560,
+      "name": "Deserve",
+      "url": "https://open.spotify.com/track/3PcAs60k0pJlmpeGjWb5OK"
+    },
+    {
+      "album": {
         "name": "Dearly Loved",
         "url": "https://open.spotify.com/album/6Cb5dxz5j71SdkXKV2Jop7"
       },
@@ -6194,7 +6230,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 147146,
       "name": "Dreamin",
       "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
@@ -6600,7 +6636,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 301428,
       "name": "Enjoy The Show (feat. Future)",
       "url": "https://open.spotify.com/track/637oNhilCI9UlkWkUW4Grt"
@@ -7185,6 +7221,28 @@
     },
     {
       "album": {
+        "name": "Falling Off",
+        "url": "https://open.spotify.com/album/3wQcw5o7ZAiCQiE2Xs22Sp"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        },
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Falling Off",
+      "url": "https://open.spotify.com/track/5i6sfCzHacfBEdLPzFjgiy"
+    },
+    {
+      "album": {
         "name": "Famous (Lost to LA)",
         "url": "https://open.spotify.com/album/7j0IT1ckuBJcBT01axVkNA"
       },
@@ -7688,7 +7746,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 183488,
       "name": "Focus",
       "url": "https://open.spotify.com/track/6Ux75sV7IrXlaBYsBHtQLy"
@@ -10354,10 +10412,28 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 175500,
       "name": "I'M THE 1",
       "url": "https://open.spotify.com/track/6f5UTZUPNB1UDsUHnaSjHF"
+    },
+    {
+      "album": {
+        "name": "I'M THE 1",
+        "url": "https://open.spotify.com/album/4mJEz2f6kT4oM5wfrySNdf"
+      },
+      "artists": [
+        {
+          "name": "G\u00e4elle",
+          "url": "https://open.spotify.com/artist/6aiaoT7eRRVYKgpYDB4s6T"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "I'M THE 1",
+      "url": "https://open.spotify.com/track/6rw4atg9TgOwRNOlkhRvNC"
     },
     {
       "album": {
@@ -11562,7 +11638,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 204880,
       "name": "Just Like Me",
       "url": "https://open.spotify.com/track/2uD06ODYnSoHFNbskqXIn5"
@@ -12870,7 +12946,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 116428,
       "name": "Look What You've Done",
       "url": "https://open.spotify.com/track/4a4Hqz6oGIjkSGd5oQovAU"
@@ -14387,6 +14463,28 @@
     },
     {
       "album": {
+        "name": "Moonlight Radiator",
+        "url": "https://open.spotify.com/album/5tm63owEoHaUrk1jBzzMku"
+      },
+      "artists": [
+        {
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+        },
+        {
+          "name": "Elijah Fox",
+          "url": "https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227874,
+      "name": "Moonlight Radiator",
+      "url": "https://open.spotify.com/track/0CwN3EOEdSEDZA1lzSLxoE"
+    },
+    {
+      "album": {
         "name": "MORAL",
         "url": "https://open.spotify.com/album/7eMOW9nITxzhIs7RUzv26H"
       },
@@ -15288,7 +15386,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 111866,
       "name": "No Cares",
       "url": "https://open.spotify.com/track/7efe84XgsSB5zjcW4IpgfG"
@@ -15448,7 +15546,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 141812,
       "name": "no option",
       "url": "https://open.spotify.com/track/1n56q93nwumxeTkLwJDESR"
@@ -16318,7 +16416,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 140960,
       "name": "One Call",
       "url": "https://open.spotify.com/track/32uc3iXCQV6QzFl1y3Fi4b"
@@ -16995,6 +17093,24 @@
     },
     {
       "album": {
+        "name": "oxygen",
+        "url": "https://open.spotify.com/album/7sghYP0IoVJP7FSvjxNIHf"
+      },
+      "artists": [
+        {
+          "name": "Divine Lightbody",
+          "url": "https://open.spotify.com/artist/4b9YacVLF5QegzWwfz0vIJ"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "oxygen",
+      "url": "https://open.spotify.com/track/65BbGdeFa38YvVqpgD0xEL"
+    },
+    {
+      "album": {
         "name": "Oyster",
         "url": "https://open.spotify.com/album/19wYgVlKnIZLtT33X81U54"
       },
@@ -17374,6 +17490,24 @@
       "duration_ms": 125746,
       "name": "Petty Lies",
       "url": "https://open.spotify.com/track/50DNIT0PO1We8arXPXGQw9"
+    },
+    {
+      "album": {
+        "name": "Phenomenal Woman",
+        "url": "https://open.spotify.com/album/0rCn5qVhW48njVdzzMDcS6"
+      },
+      "artists": [
+        {
+          "name": "Shanuka",
+          "url": "https://open.spotify.com/artist/57wiktlw2QICiizAd9s2ny"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228112,
+      "name": "Phenomenal Woman",
+      "url": "https://open.spotify.com/track/2qLR1a051WNtgV2ozemUPO"
     },
     {
       "album": {
@@ -18645,6 +18779,24 @@
     },
     {
       "album": {
+        "name": "rendezvous",
+        "url": "https://open.spotify.com/album/2zbNk2nQs8YOt5drhwe8hR"
+      },
+      "artists": [
+        {
+          "name": "CUBE",
+          "url": "https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156728,
+      "name": "rendezvous",
+      "url": "https://open.spotify.com/track/5qNHV389z0Ug7oYGl8k7yf"
+    },
+    {
+      "album": {
         "name": "Rent Free",
         "url": "https://open.spotify.com/album/2bR9FLl74sLhEmhyjxobF8"
       },
@@ -19036,7 +19188,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 182903,
       "name": "roses",
       "url": "https://open.spotify.com/track/5axd9vjijmtAtlREaAGmbc"
@@ -23417,6 +23569,24 @@
     },
     {
       "album": {
+        "name": "FREE FALL",
+        "url": "https://open.spotify.com/album/3hmkRVcqEr5XUsuhkefSsH"
+      },
+      "artists": [
+        {
+          "name": "Concepcion",
+          "url": "https://open.spotify.com/artist/5mqw4f8V3r2PBVKCKAkqiY"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "this ain't no situation",
+      "url": "https://open.spotify.com/track/47CnjOJR6rbEErjutKOsFw"
+    },
+    {
+      "album": {
         "name": "Mixed Emotions",
         "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
       },
@@ -24668,7 +24838,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 88615,
       "name": "VAIN",
       "url": "https://open.spotify.com/track/5qLYOEY8aHWXcjo5CIRtcg"
@@ -26184,6 +26354,24 @@
       "duration_ms": 208695,
       "name": "you and me",
       "url": "https://open.spotify.com/track/6rVf6E7uSYUQ45O5LqUSoW"
+    },
+    {
+      "album": {
+        "name": "It Was Fun While It Lasted",
+        "url": "https://open.spotify.com/album/2LHPKf1JxTI2lDa7vrNyIU"
+      },
+      "artists": [
+        {
+          "name": "Gordon",
+          "url": "https://open.spotify.com/artist/67YpieTZ3kCV2MjVCYGE6g"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96408,
+      "name": "You Do You",
+      "url": "https://open.spotify.com/track/0pQFEpe9ey17dMPEvAlVDR"
     },
     {
       "album": {

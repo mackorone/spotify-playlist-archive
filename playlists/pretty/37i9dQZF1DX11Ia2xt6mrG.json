@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. R\u00d8Z y Peso Pluma en portada.",
-  "num_followers": 65312,
+  "num_followers": 65335,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -703,26 +703,6 @@
     {
       "added_at": "2025-06-20 16:33:58",
       "album": {
-        "name": "NO ESTABA MAL",
-        "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        },
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        }
-      ],
-      "duration_ms": 165245,
-      "name": "NO ESTABA MAL",
-      "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
-    },
-    {
-      "added_at": "2025-06-20 16:33:58",
-      "album": {
         "name": "Como La Flor",
         "url": "https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 174555,
       "name": "Como La Flor",
       "url": "https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR"
+    },
+    {
+      "added_at": "2025-06-20 16:33:58",
+      "album": {
+        "name": "NO ESTABA MAL",
+        "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        },
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        }
+      ],
+      "duration_ms": 165245,
+      "name": "NO ESTABA MAL",
+      "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
     },
     {
       "added_at": "2025-06-20 16:33:58",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-06-20 16:33:58",
       "album": {
+        "name": "Alucina2",
+        "url": "https://open.spotify.com/album/2hrlJjc9jmA4fy9olFThQm"
+      },
+      "artists": [
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+        }
+      ],
+      "duration_ms": 133793,
+      "name": "Alucina2",
+      "url": "https://open.spotify.com/track/44Wu7JwP8ZjdSOFwxTRZZB"
+    },
+    {
+      "added_at": "2025-06-20 16:33:58",
+      "album": {
         "name": "Bandidas",
         "url": "https://open.spotify.com/album/2ADVnJXAX6V7NQoerdXPmD"
       },
@@ -815,18 +831,22 @@
     {
       "added_at": "2025-06-20 16:33:58",
       "album": {
-        "name": "Alucina2",
-        "url": "https://open.spotify.com/album/2hrlJjc9jmA4fy9olFThQm"
+        "name": "ZENDAYA",
+        "url": "https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy"
       },
       "artists": [
         {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
         }
       ],
-      "duration_ms": 133793,
-      "name": "Alucina2",
-      "url": "https://open.spotify.com/track/44Wu7JwP8ZjdSOFwxTRZZB"
+      "duration_ms": 183870,
+      "name": "ZENDAYA",
+      "url": "https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS"
     },
     {
       "added_at": "2025-06-20 16:33:58",
@@ -847,26 +867,6 @@
       "duration_ms": 192000,
       "name": "Cooler Than Me",
       "url": "https://open.spotify.com/track/2o1ryWmt2wp521jtflMiYq"
-    },
-    {
-      "added_at": "2025-06-20 16:33:58",
-      "album": {
-        "name": "ZENDAYA",
-        "url": "https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy"
-      },
-      "artists": [
-        {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
-        },
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "ZENDAYA",
-      "url": "https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS"
     },
     {
       "added_at": "2025-06-20 16:33:58",
@@ -1223,30 +1223,6 @@
     {
       "added_at": "2025-06-20 16:33:58",
       "album": {
-        "name": "adondevamos??",
-        "url": "https://open.spotify.com/album/7F766sekcvwWXK5YVp7eJf"
-      },
-      "artists": [
-        {
-          "name": "urboi.",
-          "url": "https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L"
-        },
-        {
-          "name": "Chris Redd",
-          "url": "https://open.spotify.com/artist/7crFZj2YKqQHpQZuTtt1C6"
-        },
-        {
-          "name": "matt",
-          "url": "https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "adondevamos??",
-      "url": "https://open.spotify.com/track/7137vD0rMEEK3Qoy3G9Sp7"
-    },
-    {
-      "added_at": "2025-06-20 16:33:58",
-      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/2yAk2MMYwNiQnI9iBGHsTB"
       },
@@ -1295,6 +1271,30 @@
     {
       "added_at": "2025-06-20 16:33:58",
       "album": {
+        "name": "adondevamos??",
+        "url": "https://open.spotify.com/album/7F766sekcvwWXK5YVp7eJf"
+      },
+      "artists": [
+        {
+          "name": "urboi.",
+          "url": "https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L"
+        },
+        {
+          "name": "Chris Redd",
+          "url": "https://open.spotify.com/artist/7crFZj2YKqQHpQZuTtt1C6"
+        },
+        {
+          "name": "matt",
+          "url": "https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "adondevamos??",
+      "url": "https://open.spotify.com/track/7137vD0rMEEK3Qoy3G9Sp7"
+    },
+    {
+      "added_at": "2025-06-20 16:33:58",
+      "album": {
         "name": "Exclusive",
         "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
       },
@@ -1327,18 +1327,22 @@
     {
       "added_at": "2025-06-20 16:33:58",
       "album": {
-        "name": "999 (Goer)",
-        "url": "https://open.spotify.com/album/1OVXU74d1lygEMbdTxEuBb"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
       },
       "artists": [
         {
-          "name": "Remp",
-          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Nina Vlu",
+          "url": "https://open.spotify.com/artist/64Oy4mSftBMYRrInaWmOFt"
         }
       ],
-      "duration_ms": 160857,
-      "name": "999 (Goer)",
-      "url": "https://open.spotify.com/track/17naw7wiDD3bL2ePAIrIVk"
+      "duration_ms": 149877,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
     },
     {
       "added_at": "2025-06-20 16:33:58",
@@ -1371,22 +1375,18 @@
     {
       "added_at": "2025-06-20 16:33:58",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
+        "name": "999 (Goer)",
+        "url": "https://open.spotify.com/album/1OVXU74d1lygEMbdTxEuBb"
       },
       "artists": [
         {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Nina Vlu",
-          "url": "https://open.spotify.com/artist/64Oy4mSftBMYRrInaWmOFt"
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
         }
       ],
-      "duration_ms": 149877,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
+      "duration_ms": 160857,
+      "name": "999 (Goer)",
+      "url": "https://open.spotify.com/track/17naw7wiDD3bL2ePAIrIVk"
     },
     {
       "added_at": "2025-06-20 16:33:58",
@@ -1811,22 +1811,22 @@
     {
       "added_at": "2025-06-20 16:33:58",
       "album": {
-        "name": "Cartagena (Sylvan Esso Edit)",
-        "url": "https://open.spotify.com/album/3FVCEyoTcrA9eraksVRgC8"
+        "name": "Movie Star",
+        "url": "https://open.spotify.com/album/42NaAw7hSOoQ0uAncIEoX0"
       },
       "artists": [
         {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+          "name": "The Wookies",
+          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
         },
         {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
         }
       ],
-      "duration_ms": 207637,
-      "name": "Cartagena - Sylvan Esso Edit",
-      "url": "https://open.spotify.com/track/3iBO3QO60GTlYDyQcfh9w4"
+      "duration_ms": 357703,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/0se0Bv7xJIXPsK5inL0Qo1"
     }
   ],
   "unique_name": "electro mx ",

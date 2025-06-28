@@ -254,7 +254,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 149391,
       "name": "AMERICAN HORROR SHOW",
       "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 133754,
       "name": "Bad Feeling (Oompa Loompa)",
       "url": "https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A"
@@ -2379,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/59TgUlQXE5FqObb58LJsWL"
+      },
+      "artists": [
+        {
+          "name": "Asaf Avidan",
+          "url": "https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238838,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/5cPMjdmwBWdbNpviqSj944"
+    },
+    {
+      "album": {
         "name": "O My Heart",
         "url": "https://open.spotify.com/album/41U6Qbx5KxhHYIuwlK3lXA"
       },
@@ -4002,7 +4020,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-20",
+      "date_removed": null,
       "duration_ms": 219773,
       "name": "Potential Breakup Song",
       "url": "https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47"
@@ -4194,6 +4212,24 @@
       "duration_ms": 135899,
       "name": "Rebels",
       "url": "https://open.spotify.com/track/7fBKbK8897K5V5zgr7ymIz"
+    },
+    {
+      "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/6iDWPMotr0jVMUr5ZfPhjE"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185546,
+      "name": "RED (from Arena Breakout: Infinite)",
+      "url": "https://open.spotify.com/track/6eowYvfU4m6MfTXHn7ScUB"
     },
     {
       "album": {
@@ -5154,7 +5190,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"

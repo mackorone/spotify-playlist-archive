@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -4506,7 +4506,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-25",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -9332,6 +9332,28 @@
       "duration_ms": 123870,
       "name": "DIS 1 GOT IT",
       "url": "https://open.spotify.com/track/4tMhjP02FRQ0KIUUEJ2oGK"
+    },
+    {
+      "album": {
+        "name": "Disney",
+        "url": "https://open.spotify.com/album/3fUuxGiw4GfbS65oJNgTx9"
+      },
+      "artists": [
+        {
+          "name": "Nerie\u0161",
+          "url": "https://open.spotify.com/artist/4qla74GaFZkhFIUQvGZAEN"
+        },
+        {
+          "name": "Facefront",
+          "url": "https://open.spotify.com/artist/6675LrtydsV6BRXqxNGdfD"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156980,
+      "name": "Disney",
+      "url": "https://open.spotify.com/track/0qDSZ6b3Evu2zVWZJjh6Tm"
     },
     {
       "album": {
@@ -19302,7 +19324,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 149634,
       "name": "j\u00e1n slota freestyle",
       "url": "https://open.spotify.com/track/7Is6xHGeJfwBwdKaLUbbyL"
@@ -26384,7 +26406,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 220502,
       "name": "Na O\u010diach Vyryt\u00e9",
       "url": "https://open.spotify.com/track/1Qzgt6gOMrwhMlmiBl3jbc"
@@ -32696,7 +32718,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 156026,
       "name": "PTSD",
       "url": "https://open.spotify.com/track/3okMwMS8V4STgRha2KT4Kz"
@@ -36074,7 +36096,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 169014,
       "name": "SHOCK",
       "url": "https://open.spotify.com/track/3h5LtZstUJRyx1vXOPmEZt"
@@ -36490,7 +36512,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 160666,
       "name": "Skip skip",
       "url": "https://open.spotify.com/track/2ONLkrkTjzRMcVAPYW3xfJ"

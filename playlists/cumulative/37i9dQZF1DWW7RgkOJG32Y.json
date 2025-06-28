@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Top trending country tracks from the last few months. Cover: Tucker Wetmore and Thomas Rhett",
+  "description": "Top trending country tracks from the last few months. Cover: BigXthaPlug and Shaboozey",
   "name": "Breakout Country",
   "tracks": [
     {
@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 170629,
       "name": "Didn't I?",
       "url": "https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C"
@@ -3087,6 +3087,24 @@
     },
     {
       "album": {
+        "name": "Funny Seeing You Here",
+        "url": "https://open.spotify.com/album/0yZ5ADnfvKrxV9iP1i1OBy"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178303,
+      "name": "Funny Seeing You Here",
+      "url": "https://open.spotify.com/track/7BVzUgIqxwiwPbMz35z3ZE"
+    },
+    {
+      "album": {
         "name": "Get By",
         "url": "https://open.spotify.com/album/0QQ1aWvzjFk14qU4vfOFbW"
       },
@@ -3348,7 +3366,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 228296,
       "name": "God Bless The West (feat. Cleto Cordero)",
       "url": "https://open.spotify.com/track/3UqZUHNle0hqwLtJpxqEaY"
@@ -4008,6 +4026,28 @@
       "duration_ms": 195157,
       "name": "Holy Smokes",
       "url": "https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ"
+    },
+    {
+      "album": {
+        "name": "Home (feat. Shaboozey)",
+        "url": "https://open.spotify.com/album/50Gz1176FyXKAnBmVvc6GQ"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135133,
+      "name": "Home (feat. Shaboozey)",
+      "url": "https://open.spotify.com/track/7LaLY7dkzWEtmtJ8o7oD05"
     },
     {
       "album": {
@@ -6305,6 +6345,28 @@
     },
     {
       "album": {
+        "name": "New Country (feat. Blake Shelton)",
+        "url": "https://open.spotify.com/album/71i26TrPiwqS2VQ0gTxbX8"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198760,
+      "name": "New Country (feat. Blake Shelton)",
+      "url": "https://open.spotify.com/track/3zgZgaTkhrEhP8isvTw4Fr"
+    },
+    {
+      "album": {
         "name": "New To Country",
         "url": "https://open.spotify.com/album/1ubJSiGbO0OsLHwFFs8NBr"
       },
@@ -7618,7 +7680,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 210293,
       "name": "Sober",
       "url": "https://open.spotify.com/track/0T1tCsZ2qPRf6fwphjlNPM"

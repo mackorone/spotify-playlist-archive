@@ -1,12 +1,12 @@
 {
   "description": "Najlepsze polskie piosenki na czasie. Cover: Sarsa",
-  "num_followers": 250234,
+  "num_followers": 250249,
   "original_name": "Polskie hity",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3C/wAAAACfMgU+2gl7YVywesU9a2BD",
+  "snapshot_id": "aF5ALQAAAABlAb/rXZbAhVm/KjqzGy0O",
   "tracks": [
     {
       "added_at": "2025-06-26 22:00:31",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-06-26 22:00:31",
       "album": {
-        "name": "Pierwszy mit",
-        "url": "https://open.spotify.com/album/5gtyQBfikKO7eMrNtQMAbK"
-      },
-      "artists": [
-        {
-          "name": "WOLSKA",
-          "url": "https://open.spotify.com/artist/6W535X9Sk4zYwdMeXQ8LwM"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Pierwszy mit",
-      "url": "https://open.spotify.com/track/67OsNKKQAYHgBcLfT1iPgD"
-    },
-    {
-      "added_at": "2025-06-26 22:00:31",
-      "album": {
         "name": "Miss Dior",
         "url": "https://open.spotify.com/album/6zYAuHh481ES1KOoptEQtQ"
       },
@@ -803,6 +787,30 @@
       "duration_ms": 148187,
       "name": "CA\u0141E LATO",
       "url": "https://open.spotify.com/track/51cTY5CXYRwZdAyWFzWsxt"
+    },
+    {
+      "added_at": "2025-06-27 06:54:36",
+      "album": {
+        "name": "Naucz mnie (od nowa)",
+        "url": "https://open.spotify.com/album/5D35x41oPxVFvt3OVBNCXy"
+      },
+      "artists": [
+        {
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+        },
+        {
+          "name": "kuqe 2115",
+          "url": "https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "duration_ms": 176271,
+      "name": "Naucz mnie (od nowa)",
+      "url": "https://open.spotify.com/track/0ZpQAccSmmhehQKQ7qduLI"
     },
     {
       "added_at": "2025-06-26 22:00:31",

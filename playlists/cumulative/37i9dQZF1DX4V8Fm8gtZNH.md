@@ -4,7 +4,7 @@
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-338 songs - 20 hr 2 min
+339 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Who Got The Vibe](https://open.spotify.com/track/56SvnAx8dGDAnhVnSMvWXX) | [Z\. Rich](https://open.spotify.com/artist/5OTBCTqjCzTVlc5UJO7K8Z) | [Who Got The Vibe](https://open.spotify.com/album/3SghB4OyaCDgrgpHIIBToI) | 2:38 | 2023-10-18 |  |
 | [Who Want Smoke?](https://open.spotify.com/track/5PJbsnPWGcZWsNHdRpW3Wq) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who Want Smoke?](https://open.spotify.com/album/6e4K6xYheopkx9xug6jjgc) | 2:32 | 2023-10-18 |  |
 | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/track/4yNoUQkYf1QF8iYlEzNynH) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/album/5aSofcF0U90UxJaDr62r6X) | 4:39 | 2023-10-18 |  |
+| [Wildflower](https://open.spotify.com/track/2Et98OmQsO0fRWQu5QsMuS) | [Goonie Beats](https://open.spotify.com/artist/7CIiELfSMy2nN0bMBBOcgl), [The New Birth](https://open.spotify.com/artist/34Bm9d5DAJjSnaI02BCjdA) | [Wildflower](https://open.spotify.com/album/7wiJvJbXrQOqRYMYgcTHxH) | 4:10 | 2025-06-27 |  |
 | [Winning](https://open.spotify.com/track/5gn6px0lRAluURfkSv2Y3u) | [Breana Marin](https://open.spotify.com/artist/2O3zQn26eEqxyxhIbFtuJ7) | [In the Meantime](https://open.spotify.com/album/0gD9MK4U0nfVz77CdvEI1C) | 2:18 | 2023-10-18 |  |
 | [Wobble](https://open.spotify.com/track/6JLcz9UGiVxAmEZXlCucn5) | [V.I.C.](https://open.spotify.com/artist/49mHZzhcsoQB1JXWv8Q9gU) | [Beast](https://open.spotify.com/album/2xaFAO5ejxbxjL5gund9Dk) | 5:21 | 2023-10-18 |  |
 | [Womp Womp](https://open.spotify.com/track/1G5ho820Xi2Qu3HsBZ26ft) | [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Womp Womp](https://open.spotify.com/album/7o66H14uvkdLb6dI866lOW) | 3:46 | 2023-10-18 |  |

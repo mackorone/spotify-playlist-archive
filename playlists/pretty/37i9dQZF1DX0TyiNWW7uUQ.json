@@ -1,6 +1,6 @@
 {
   "description": "Finest collection of Tamil Music from the past 10 years\nCover : Dragon",
-  "num_followers": 654145,
+  "num_followers": 654322,
   "original_name": "Kollywood Cream",
   "owner": {
     "name": "Spotify",
@@ -880,12 +880,20 @@
       },
       "artists": [
         {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
           "name": "Arijit Singh",
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         },
         {
           "name": "Chinmayi",
           "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
         }
       ],
       "duration_ms": 288360,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5hmeg2ngrrAFbz1Gu05PXi.md) - [plain]
 
 > Get into the flow and stay focused while writing code, with music curated by the JetBrains team\. www.jetbrains.com
 
-[JetBrains](https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm) - 5,597 likes - 100 songs - 8 hr 21 min
+[JetBrains](https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm) - 5,599 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

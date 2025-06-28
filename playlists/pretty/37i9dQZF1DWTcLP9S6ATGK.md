@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Anggis Devaki, Betrand Putra Onsu
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,507 likes - 93 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,663 likes - 93 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

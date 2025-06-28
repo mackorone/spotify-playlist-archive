@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "All or Nothing",
+        "url": "https://open.spotify.com/album/0F7jhKzRvTNRIyEYeFBMWE"
+      },
+      "artists": [
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162467,
+      "name": "All or Nothing",
+      "url": "https://open.spotify.com/track/6qYkAJpqbcaphl6ePyoRQG"
+    },
+    {
+      "album": {
         "name": "All The Time",
         "url": "https://open.spotify.com/album/4vOAXgADY2UDmrX7o3Qa2E"
       },
@@ -4686,6 +4704,24 @@
       "duration_ms": 158651,
       "name": "I DON'T WANNA FISH",
       "url": "https://open.spotify.com/track/1uczFpoWLv0Xsh33V4DxSf"
+    },
+    {
+      "album": {
+        "name": "I Just Don't Know You Yet",
+        "url": "https://open.spotify.com/album/0JSsfoRhjngp8I9rXJnpUK"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201007,
+      "name": "I Just Don't Know You Yet",
+      "url": "https://open.spotify.com/track/7GU1xgUhSHMjc32d9zuWtF"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tl6tGvyHMK5cyDc38ZF7I">Fanny Hultman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-125 songs - 6 hr 15 min
+127 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [end of the world](https://open.spotify.com/track/1ZoCqQEuhoOEW4PQhVDovL) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [the wind is picking up](https://open.spotify.com/album/0zo7swJcqnoxLTWvBAtl19) | 3:09 | 2025-01-28 |  |
 | [Ensam](https://open.spotify.com/track/3g9Bd3dzWumpEYS381Veiz) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Ensam](https://open.spotify.com/album/4XswCp5Y7hqGCLeyAVCa8n) | 2:29 | 2024-01-29 |  |
 | [Ett steg fram](https://open.spotify.com/track/1ClnzQ78hPICTZuzBNm9VY) | [F.N.Y](https://open.spotify.com/artist/04yNJEB7tEAEie8UWjzTAI) | [4april till 3juni](https://open.spotify.com/album/39MYpfkSuziHM3XsUPbzZh) | 2:52 | 2024-01-29 |  |
+| [Ex](https://open.spotify.com/track/6RZQRn1cp0AgraqbQt87Cm) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Ex](https://open.spotify.com/album/3AjwRqossPPmviLhB9KgVF) | 3:06 | 2025-06-27 |  |
 | [Ex](https://open.spotify.com/track/1wRwr5JQIVSsUbLbjsokNd) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe), [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 3:06 | 2024-01-29 |  |
 | [First Time](https://open.spotify.com/track/2Gl0FzuLxflY6nPifJp5Dr) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [First Time](https://open.spotify.com/album/6wu7tiTr8zchRG7PWwTOK1) | 3:13 | 2024-01-29 |  |
 | [Five Times \(Acoustic\)](https://open.spotify.com/track/3V03591pqKBD8r9vOOs29Z) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Five Times \(Acoustic\)](https://open.spotify.com/album/5eFyFbPBSGkQMIANPn4tkf) | 3:53 | 2024-01-29 |  |
@@ -105,7 +106,8 @@
 | [Rathana](https://open.spotify.com/track/4sdQxjTvfxY9KkvQDAcDYt) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Halva vägen fri](https://open.spotify.com/album/1dHZzTTbt6vpGRej48y8BL) | 3:40 | 2024-01-29 |  |
 | [RESET](https://open.spotify.com/track/2peKpF1i9muFKph6JtBTvN) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy) | 2:41 | 2024-05-01 |  |
 | [RESET](https://open.spotify.com/track/2WQN4YorpjKFYiRXVeq3DD) | [Shin Giwon Piano](https://open.spotify.com/artist/0hKq3u04JU5IuGNSTGyngJ) | [Kpop Piano \#70](https://open.spotify.com/album/4kJWITPSP2fptI2bDgEMk6) | 2:43 | 2025-02-04 | 2025-02-09 |
-| [Same Old](https://open.spotify.com/track/3GCVYVuCRRMH7WVtI5V0E3) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Same Old](https://open.spotify.com/album/59YQpTemLWyGdL6oQMPq6w) | 2:55 | 2024-01-29 |  |
+| [Same Old](https://open.spotify.com/track/3GCVYVuCRRMH7WVtI5V0E3) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Same Old](https://open.spotify.com/album/59YQpTemLWyGdL6oQMPq6w) | 2:55 | 2024-01-29 | 2025-06-28 |
+| [Same Old](https://open.spotify.com/track/7n1OZXdSi6XUK4iB02nzX3) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Same Old](https://open.spotify.com/album/0KjqWjoXVrJsPqHtTJwXSz) | 2:55 | 2025-06-27 |  |
 | [Say Something Now](https://open.spotify.com/track/4M2pbBlLkqUOTKadpAgPnh) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Waiting](https://open.spotify.com/album/2XyiCujhKmb7ezXGUM4EuY) | 3:29 | 2024-01-29 |  |
 | [see u in hell](https://open.spotify.com/track/3suM9B29A2FimaDylB8bYY) | [Torine](https://open.spotify.com/artist/6gpY6HHTGZp0sTLsxsSNqo) | [see u in hell](https://open.spotify.com/album/1KslMikReK0lh6VFOEuo22) | 2:37 | 2024-01-29 |  |
 | [Shy Love](https://open.spotify.com/track/7yDcZXs4Qy4IbaFkaGpWCv) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Shy Love](https://open.spotify.com/album/7IP4kvEtuYdpASEFsXHDr4) | 3:49 | 2024-01-29 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-08",
-  "description": "bands and tracks on the rise in heavy music. Cover: PRESIDENT",
+  "description": "bands and tracks on the rise in heavy music. Cover: Royale Lynn",
   "name": "New Blood",
   "tracks": [
     {
@@ -406,6 +406,24 @@
       "duration_ms": 129179,
       "name": "Beauty and Grace",
       "url": "https://open.spotify.com/track/3vBLbzaqKlJgDfquAEuZ5B"
+    },
+    {
+      "album": {
+        "name": "Beneath A Lightless Star",
+        "url": "https://open.spotify.com/album/2IOEZbMDjDzI6Kn6H1qsYL"
+      },
+      "artists": [
+        {
+          "name": "Holy Fawn",
+          "url": "https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310000,
+      "name": "Beneath A Lightless Star",
+      "url": "https://open.spotify.com/track/6SFaNYwzDMCNGPIjXvtoth"
     },
     {
       "album": {
@@ -1326,7 +1344,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 81933,
       "name": "eXistenZ",
       "url": "https://open.spotify.com/track/09GdLZqoNzQL5XQZe2L1ap"
@@ -1744,7 +1762,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 163586,
       "name": "Gaping Wounds of Earth",
       "url": "https://open.spotify.com/track/6olzwjMrNrHgrkQPZFpe4Y"
@@ -1896,6 +1914,24 @@
       "duration_ms": 97391,
       "name": "Hesitation Wound",
       "url": "https://open.spotify.com/track/7jONBc1Udycy2r9uNzUWjv"
+    },
+    {
+      "album": {
+        "name": "Hole in Me",
+        "url": "https://open.spotify.com/album/3xecnCqPV7JOcqRTUjytJr"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314630,
+      "name": "Hole in Me",
+      "url": "https://open.spotify.com/track/0J86efvuIVDOEwyQZeLH36"
     },
     {
       "album": {
@@ -2108,7 +2144,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 550164,
       "name": "Inquietude",
       "url": "https://open.spotify.com/track/3pk4zL5pqs45sCE2ZlwPLj"
@@ -4578,7 +4614,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 70167,
       "name": "Waco Horror",
       "url": "https://open.spotify.com/track/0ALS99PdJqNgXZDoQXBPLA"
@@ -4783,6 +4819,24 @@
     },
     {
       "album": {
+        "name": "WIZARD",
+        "url": "https://open.spotify.com/album/7sxqpGAY8GEVpF7JamVppY"
+      },
+      "artists": [
+        {
+          "name": "Castle Rat",
+          "url": "https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297565,
+      "name": "WIZARD",
+      "url": "https://open.spotify.com/track/3NYRBOauoTPnhLcyRpYgOj"
+    },
+    {
+      "album": {
         "name": "Worn Out",
         "url": "https://open.spotify.com/album/51RgDcqScUNM0tnJyYPU0D"
       },
@@ -4888,6 +4942,24 @@
       "duration_ms": 180857,
       "name": "Wraith",
       "url": "https://open.spotify.com/track/3l01YBmdkodOql6KenzqHr"
+    },
+    {
+      "album": {
+        "name": "BLACK MAGIC",
+        "url": "https://open.spotify.com/album/0YtqdM1lPwVEpOQip5xhfB"
+      },
+      "artists": [
+        {
+          "name": "Royale Lynn",
+          "url": "https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179340,
+      "name": "WTCH",
+      "url": "https://open.spotify.com/track/07S1I5r2tlpNg8QJDJewBJ"
     },
     {
       "album": {

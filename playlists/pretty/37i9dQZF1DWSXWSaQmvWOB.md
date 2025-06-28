@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Curtis Harding
 
-[Spotify](https://open.spotify.com/user/spotify) - 780,673 likes - 106 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 780,722 likes - 106 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

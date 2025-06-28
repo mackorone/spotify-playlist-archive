@@ -1,18 +1,170 @@
 {
-  "description": "The latest tracks from Mad Decent and friends. Featuring new music from Kablito and TDJ, plus the latest cuts from Eartheater and ALCATRAZ.",
-  "num_followers": 50885,
+  "description": "The latest tracks from Mad Decent and friends. Featuring new music from TDJ and Kablito, plus the latest cuts from Eartheater and ALCATRAZ.",
+  "num_followers": 50882,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAc38wsbD3aRBSWq3A6x6zteItdxJEH",
+  "snapshot_id": "AAAc96ljnR10xb7aIqC4+0+8njchfQLJ",
   "tracks": [
     {
-      "added_at": "2025-06-11 23:42:34",
+      "added_at": "2025-06-27 16:41:24",
       "album": {
-        "name": "CRUSH",
-        "url": "https://open.spotify.com/album/1ncPmwJiMc8PUthbi4GCAd"
+        "name": "TDJ",
+        "url": "https://open.spotify.com/album/3Xrb3NL3BwoFI7F09QBlEk"
+      },
+      "artists": [
+        {
+          "name": "TDJ",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
+        },
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        }
+      ],
+      "duration_ms": 256028,
+      "name": "Shoreline",
+      "url": "https://open.spotify.com/track/6MCwLgzWdyk7J7ctKW9wga"
+    },
+    {
+      "added_at": "2025-06-27 16:42:37",
+      "album": {
+        "name": "TDJ",
+        "url": "https://open.spotify.com/album/3Xrb3NL3BwoFI7F09QBlEk"
+      },
+      "artists": [
+        {
+          "name": "TDJ",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
+        },
+        {
+          "name": "Busu",
+          "url": "https://open.spotify.com/artist/0qPS2nW9elfpe9B1s611oV"
+        }
+      ],
+      "duration_ms": 187777,
+      "name": "Dare To Dream",
+      "url": "https://open.spotify.com/track/6ucg7y95YmqHOKoTtIHex8"
+    },
+    {
+      "added_at": "2025-06-27 16:42:43",
+      "album": {
+        "name": "TDJ",
+        "url": "https://open.spotify.com/album/3Xrb3NL3BwoFI7F09QBlEk"
+      },
+      "artists": [
+        {
+          "name": "TDJ",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
+        },
+        {
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+        }
+      ],
+      "duration_ms": 208681,
+      "name": "Under The Rush",
+      "url": "https://open.spotify.com/track/6zrAz5MxiQXa7ny3YyLG4P"
+    },
+    {
+      "added_at": "2025-06-27 16:38:54",
+      "album": {
+        "name": "choke enough (remixes)",
+        "url": "https://open.spotify.com/album/2HLVIJuBYm1SzuTZP40RUL"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "jamesjamesjames",
+          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
+        }
+      ],
+      "duration_ms": 344565,
+      "name": "choke enough (jamesjamesjames remix)",
+      "url": "https://open.spotify.com/track/5sjv7SJb257ml19zGpOQYk"
+    },
+    {
+      "added_at": "2025-06-27 16:40:49",
+      "album": {
+        "name": "On The Beach",
+        "url": "https://open.spotify.com/album/6KrzhYHM6iHMzTMbCTO9du"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 256859,
+      "name": "On The Beach (from DEATH STRANDING 2: ON THE BEACH)",
+      "url": "https://open.spotify.com/track/72R7Qzj6kVw44ndWnFZzKK"
+    },
+    {
+      "added_at": "2025-06-27 16:39:50",
+      "album": {
+        "name": "A Tropical Entropy",
+        "url": "https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es"
+      },
+      "artists": [
+        {
+          "name": "Nick Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
+        },
+        {
+          "name": "Casey MQ",
+          "url": "https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Ocean Apart",
+      "url": "https://open.spotify.com/track/6rWPWP8A3c78e1UBXY0QSO"
+    },
+    {
+      "added_at": "2025-06-27 16:40:03",
+      "album": {
+        "name": "Virgin",
+        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 257065,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m"
+    },
+    {
+      "added_at": "2025-06-27 16:41:45",
+      "album": {
+        "name": "Illegal (Nia Archives Remix)",
+        "url": "https://open.spotify.com/album/57V3Ec9fpJEUZkFyW2axtx"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Illegal - Nia Archives Remix",
+      "url": "https://open.spotify.com/track/0c1s95bO4ZqOOmFl8mfsro"
+    },
+    {
+      "added_at": "2025-06-27 16:43:25",
+      "album": {
+        "name": "Gotitas de Amor",
+        "url": "https://open.spotify.com/album/3hbiOYhFk0c64ufFFti8If"
       },
       "artists": [
         {
@@ -20,25 +172,9 @@
           "url": "https://open.spotify.com/artist/51aWHhJ7AjxKmZ4dDUc0sm"
         }
       ],
-      "duration_ms": 108965,
-      "name": "CRUSH",
-      "url": "https://open.spotify.com/track/5PaS7OPXZQSG09YXvByEsi"
-    },
-    {
-      "added_at": "2025-06-11 23:42:14",
-      "album": {
-        "name": "Where Is My Angel",
-        "url": "https://open.spotify.com/album/3BbOh6UaSYNbdSZbQdrCfd"
-      },
-      "artists": [
-        {
-          "name": "TDJ",
-          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
-        }
-      ],
-      "duration_ms": 265506,
-      "name": "Where Is My Angel",
-      "url": "https://open.spotify.com/track/48ChqGVn3yIpcYWxfzPHfD"
+      "duration_ms": 145116,
+      "name": "Gotitas de Amor",
+      "url": "https://open.spotify.com/track/6wSMwltJkT68WQoKEUXqq4"
     },
     {
       "added_at": "2025-06-11 23:41:28",
@@ -1609,26 +1745,6 @@
       "url": "https://open.spotify.com/track/1hbciWy4syeBJeWubluRoX"
     },
     {
-      "added_at": "2025-01-25 23:36:21",
-      "album": {
-        "name": "Yiu",
-        "url": "https://open.spotify.com/album/1JZBmCiCFtZB6Fs3HxFMnx"
-      },
-      "artists": [
-        {
-          "name": "Batu",
-          "url": "https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr"
-        },
-        {
-          "name": "Nick Le\u00f3n",
-          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
-        }
-      ],
-      "duration_ms": 249342,
-      "name": "Yiu",
-      "url": "https://open.spotify.com/track/4zCa5z42tduunz4hMt8wWq"
-    },
-    {
       "added_at": "2024-12-18 18:26:41",
       "album": {
         "name": "Pure Smile Snake Venom (KFR Remix)",
@@ -1703,110 +1819,6 @@
       "duration_ms": 243626,
       "name": "i fall apart",
       "url": "https://open.spotify.com/track/2HkBZyJt61zqqO5Z5wD6JL"
-    },
-    {
-      "added_at": "2024-11-27 17:15:17",
-      "album": {
-        "name": "Haunted Disc",
-        "url": "https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C"
-      },
-      "artists": [
-        {
-          "name": "DJ Suzy",
-          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Windows XP",
-      "url": "https://open.spotify.com/track/3nY2nR1WRkADdHponmQhjK"
-    },
-    {
-      "added_at": "2024-11-27 17:15:13",
-      "album": {
-        "name": "Hit & Run",
-        "url": "https://open.spotify.com/album/2vqCQ0ksBM3Lrh3pfap5Uj"
-      },
-      "artists": [
-        {
-          "name": "Mowalola",
-          "url": "https://open.spotify.com/artist/6BjTMFkrQJF8cQlVsLFbUh"
-        }
-      ],
-      "duration_ms": 131771,
-      "name": "Hit & Run",
-      "url": "https://open.spotify.com/track/6ZO2BFnWwI0CTapdJGlTJb"
-    },
-    {
-      "added_at": "2024-11-16 01:02:47",
-      "album": {
-        "name": "Aquamarine / Arcamarine",
-        "url": "https://open.spotify.com/album/1rZqd8GKPidOGirnCmU9WN"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        },
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 194180,
-      "name": "Aquamarine / Arcamarine",
-      "url": "https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV"
-    },
-    {
-      "added_at": "2024-11-16 01:02:45",
-      "album": {
-        "name": "Young-Girl Forever",
-        "url": "https://open.spotify.com/album/0F0HgZamTfp1G8dj4X9SwF"
-      },
-      "artists": [
-        {
-          "name": "Sofie Royer",
-          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
-        }
-      ],
-      "duration_ms": 273859,
-      "name": "Lights out baby, entropy!",
-      "url": "https://open.spotify.com/track/3TJMpwcdrDE0wwSoEWit5f"
-    },
-    {
-      "added_at": "2024-11-16 01:02:52",
-      "album": {
-        "name": "Dopamine Machine 4",
-        "url": "https://open.spotify.com/album/2yRa4qjnsx3j9FXujEz3fr"
-      },
-      "artists": [
-        {
-          "name": "DJmegan23",
-          "url": "https://open.spotify.com/artist/56zdYcwtmdYq3WlBYQeHoA"
-        }
-      ],
-      "duration_ms": 163188,
-      "name": "Talking 2 it Like its Human",
-      "url": "https://open.spotify.com/track/6oB4o8Q9fyao7UibaURyjs"
-    },
-    {
-      "added_at": "2024-11-16 01:04:36",
-      "album": {
-        "name": "As I Break Apart",
-        "url": "https://open.spotify.com/album/01ZEUxIKdadxyWI4OEdL4C"
-      },
-      "artists": [
-        {
-          "name": "Eera",
-          "url": "https://open.spotify.com/artist/2pEvCYGB3kxgoesDK5kt2P"
-        },
-        {
-          "name": "Lilac",
-          "url": "https://open.spotify.com/artist/6IO95VEgHoiEeAZ0AhRmpG"
-        }
-      ],
-      "duration_ms": 121411,
-      "name": "As I Break Apart",
-      "url": "https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG"
     },
     {
       "added_at": "2024-08-28 16:48:39",

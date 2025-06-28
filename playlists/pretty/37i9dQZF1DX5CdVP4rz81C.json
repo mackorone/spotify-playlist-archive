@@ -1,13 +1,29 @@
 {
-  "description": "Discover your favorite new chill pop songs. Cover: Lyn Lapid",
-  "num_followers": 1317145,
+  "description": "Discover your favorite new chill pop songs. Cover: Laufey",
+  "num_followers": 1317070,
   "original_name": "Fresh & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB190gAAAACcbNG+MbQYCnHwyA4vRvgW",
+  "snapshot_id": "aF4XcQAAAAAnlHvLwfbIG8qB1p9RfBBz",
   "tracks": [
+    {
+      "added_at": "2025-06-27 04:00:49",
+      "album": {
+        "name": "Lover Girl",
+        "url": "https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
+    },
     {
       "added_at": "2025-04-25 04:00:55",
       "album": {
@@ -1507,22 +1523,6 @@
       "duration_ms": 201400,
       "name": "Life at First Sight",
       "url": "https://open.spotify.com/track/54TAOgQWiq0jBDZ1D5F8vC"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
     },
     {
       "added_at": "2024-05-31 04:00:00",

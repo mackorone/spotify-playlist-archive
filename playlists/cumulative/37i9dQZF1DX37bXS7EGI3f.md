@@ -2,9 +2,9 @@
 
 ### [Epic & Melodic](https://open.spotify.com/playlist/37i9dQZF1DX37bXS7EGI3f)
 
-> Symphonic and power metal at its most epic\. Cover: Sabaton
+> Symphonic and power metal at its most epic\. Cover: Doro
 
-657 songs - 2 day 2 hr 6 min
+659 songs - 2 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Beneath Your Skin](https://open.spotify.com/track/7jQjPgtzLhJwDMRb23NF9f) | [Chaos Magic](https://open.spotify.com/artist/42OynfArWdfEeCmkvUV4qC), [Caterina Nix](https://open.spotify.com/artist/3ujLgYPCCryc7HfFjxMM2S) | [Emerge \(Deluxe Edition\)](https://open.spotify.com/album/6U4G96P03Ozny2EURgrx4b) | 4:40 | 2022-07-08 | 2024-01-28 |
 | [Bereavement \- Instrumental](https://open.spotify.com/track/2DZqH9cwi33v4t4e2hqC9B) | [Graupel](https://open.spotify.com/artist/7vIC7DWLeeIk5kHTZosmg6) | [Bereavement \(Instrumental Edition\)](https://open.spotify.com/album/1O2eEwO3sJSkrfNOg16ekw) | 2:38 | 2022-07-13 | 2022-07-23 |
 | [BEST TIME](https://open.spotify.com/track/0cTHs20lsSAahzUnlG05Lg) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [HELLOWEEN](https://open.spotify.com/album/6ZOpyAm1HCU9Z0aRSLMPnn) | 3:35 | 2021-06-19 | 2022-02-11 |
+| [Black Heart](https://open.spotify.com/track/3GU1DNd870VxRqTDEhxlQF) | [Unén](https://open.spotify.com/artist/3N2CRJwRHIlVXG1rwGR9W6) | [Black Heart](https://open.spotify.com/album/5cGpsEtbuUwDC3FszEmAvs) | 5:45 | 2025-06-27 |  |
 | [Black Venom](https://open.spotify.com/track/28D4Z3vzudtzMu0NQ5789S) | [Without Warning](https://open.spotify.com/artist/4t91G6AzXhhZXQkbpZX7Fe) | [Black Venom](https://open.spotify.com/album/3fRo6gSfiyW73l7Rd7nQPq) | 3:17 | 2022-06-11 | 2024-01-13 |
 | [Blank Infinity \- Live At Paradiso](https://open.spotify.com/track/0GmZSnIUgQRJfGKR0NSaUl) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Live At Paradiso](https://open.spotify.com/album/0cSFIq70TNkZvsqSfAQrXe) | 4:02 | 2022-09-01 | 2022-12-13 |
 | [Blood of Heaven](https://open.spotify.com/track/47cPM0m5L7l06hAprdV0NX) | [Nocturna](https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX) | [Blood of Heaven](https://open.spotify.com/album/5uvgEF7Cpbdf4eokVESORA) | 3:17 | 2022-01-14 | 2022-01-22 |
@@ -124,7 +125,7 @@
 | [Damnation Flame](https://open.spotify.com/track/5x7t8dWhM47kvErscgZnhE) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Damnation Flame](https://open.spotify.com/album/55jGYMXqdsvmtW7R8cXOgw) | 3:32 | 2023-07-17 | 2024-02-24 |
 | [Damnation Flame](https://open.spotify.com/track/3VZw8hjoUpHXg9k5jbzlcK) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:33 | 2024-02-23 | 2024-04-16 |
 | [Dance Till We Sink](https://open.spotify.com/track/5RJTbctfEPvxAWa4ejPwDm) | [A Wildheart's Tale](https://open.spotify.com/artist/7rs9jSwkWMCtMgth8HUNNb) | [Dance Till We Sink](https://open.spotify.com/album/7DyG3F5Y3igBwH4WuRIlmt) | 2:58 | 2024-09-20 |  |
-| [Dance with the Devil](https://open.spotify.com/track/128HMhWqF74Fxk3DB0jllv) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Dance with the Devil](https://open.spotify.com/album/6JL9byP3gmakaNLrWVZu5g) | 3:54 | 2024-09-20 |  |
+| [Dance with the Devil](https://open.spotify.com/track/128HMhWqF74Fxk3DB0jllv) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Dance with the Devil](https://open.spotify.com/album/6JL9byP3gmakaNLrWVZu5g) | 3:54 | 2024-09-20 | 2025-06-28 |
 | [Dancing with the Dead](https://open.spotify.com/track/7KOCjpEPpWhjUQwMhewWy6) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Dancing with the Dead](https://open.spotify.com/album/5mAAQ7KTPsJrny2toIFtn8) | 4:05 | 2021-06-25 | 2022-04-02 |
 | [Dangerous Game](https://open.spotify.com/track/3mCaLSxcSFATJ9jArxm3be) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ), [Henk Poort](https://open.spotify.com/artist/119M7XQ8yohqLeHrIik6vi) | [Dangerous Game](https://open.spotify.com/album/64HaMN4s0RNSjdBILXv2VX) | 3:22 | 2021-06-11 | 2022-02-11 |
 | [Dark Ages](https://open.spotify.com/track/2wSRiEUOqhLWHhSg2Pr0go) | [Sithu Aye](https://open.spotify.com/artist/6AOvXKqmqmZHxqdop7Kzoh) | [Invent the Universe](https://open.spotify.com/album/3qSY5xyG4SFj0uiwsu8wYC) | 6:43 | 2022-07-13 | 2022-07-30 |
@@ -312,6 +313,7 @@
 | [Light And Shadow](https://open.spotify.com/track/1ZNNG5R3vubOwrUNuLRhmL) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Light And Shadow](https://open.spotify.com/album/6IGSMlmG6IsidEUEetpfwp) | 4:18 | 2025-06-06 |  |
 | [Light up the Sky](https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU) | [REXORIA](https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK) | [Light up the Sky](https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM) | 3:26 | 2023-01-06 | 2025-06-17 |
 | [Lightcrawler](https://open.spotify.com/track/3c75Oqo0wHwivF3Op9CJtu) | [Nothgard](https://open.spotify.com/artist/1PAbtuWk6jScTI9ImsDC8C) | [Lightcrawler](https://open.spotify.com/album/1YIZ5WjiSSJ9unh5JXWgYj) | 4:28 | 2020-11-29\* | 2021-10-16 |
+| [Like a Hurricane](https://open.spotify.com/track/4m9ogLz7APakQ8MibwIzHD) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [DIANNE](https://open.spotify.com/artist/3HwonmQtZrIXOXO6ghZcJG) | [Like a Hurricane](https://open.spotify.com/album/44T5LlXWNrE3gkURvj5PFe) | 4:17 | 2025-06-27 |  |
 | [Like a Willow Without Tears](https://open.spotify.com/track/68zrSmYQY9SgU17yHuIH4v) | [Metalwings](https://open.spotify.com/artist/3VBzzOmjwLUcUaxT7JxVGF) | [A Whole New Land](https://open.spotify.com/album/2R9QHxmFsEkH82ObGasqsk) | 5:39 | 2021-06-11 | 2022-02-11 |
 | [Litany Of The Fallen](https://open.spotify.com/track/1gYjWTKs09WJzaZrPLRFDS) | [Therion](https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi) | [Litany Of The Fallen](https://open.spotify.com/album/11cRcdDcrV6eTJKuvrZdNu) | 4:10 | 2022-05-06 | 2023-02-02 |
 | [Litany Of The Fallen](https://open.spotify.com/track/2FSiK95QHH9brWSaO8KlxZ) | [Therion](https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi) | [Leviathan II](https://open.spotify.com/album/2DJ5MSG3P0ApFNUjyRVitN) | 4:10 | 2023-01-20 | 2024-04-19 |
@@ -551,7 +553,7 @@
 | [The Inevitable End](https://open.spotify.com/track/1f0WFbQxhMXx2U3q53FaFZ) | [Etherius](https://open.spotify.com/artist/2Zf0Tw5O2i9ecpqmSl5lOb) | [The Inevitable End](https://open.spotify.com/album/3HzXlBc2Y1gvlBhr14aNH0) | 4:01 | 2022-07-13 | 2022-07-30 |
 | [The Keeper](https://open.spotify.com/track/41tlP5zUoBL8Zca4EGUiPv) | [Solarus](https://open.spotify.com/artist/1uyqmZqACSHV00vIFCsALU) | [A Dance With Tragedy](https://open.spotify.com/album/62vkQQ6Y4eVH0udX8eBxKA) | 5:40 | 2021-12-17 | 2022-04-23 |
 | [The Land of Xia](https://open.spotify.com/track/75RY9AwhKebedSsNs0hRqg) | [Memories Of Old](https://open.spotify.com/artist/3jwxNFNe7BHnFTas8X2cGS) | [The Land of Xia](https://open.spotify.com/album/3OeFbWpvoCLnVBaYT0lT90) | 6:00 | 2020-11-29\* | 2021-09-25 |
-| [The Last Ballad of Damrod \(feat\. Jens Kidman\)](https://open.spotify.com/track/2zEAc2z7WvJnKT3i1Va4LQ) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Jens Kidman](https://open.spotify.com/artist/0iTaLLCMTSi9pO4TE8sZTh) | [The Last Ballad of Damrod \(feat\. Jens Kidman\)](https://open.spotify.com/album/0b2OSKTJWsVRmLcXaLo5hl) | 3:17 | 2024-09-20 |  |
+| [The Last Ballad of Damrod \(feat\. Jens Kidman\)](https://open.spotify.com/track/2zEAc2z7WvJnKT3i1Va4LQ) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Jens Kidman](https://open.spotify.com/artist/0iTaLLCMTSi9pO4TE8sZTh) | [The Last Ballad of Damrod \(feat\. Jens Kidman\)](https://open.spotify.com/album/0b2OSKTJWsVRmLcXaLo5hl) | 3:17 | 2024-09-20 | 2025-06-28 |
 | [The Last Glow of Day](https://open.spotify.com/track/5A8Swwa08RlHqJ8SCcrGk9) | [Walk in Darkness](https://open.spotify.com/artist/4J5dAuYmTTvllJTymoS3tL) | [The Last Glow of Day](https://open.spotify.com/album/1bDmn617Zj0iFIaa6uVQfv) | 5:15 | 2021-10-01 | 2022-05-14 |
 | [The Last Hymn to Life](https://open.spotify.com/track/2m1SoDCpZAE0oRs6gGCCXe) | [Insania](https://open.spotify.com/artist/5PgpbJGDEilZcBglUPMMPl) | [V \(Praeparatus Supervivet\)](https://open.spotify.com/album/6DjBQrACipS0vKlBIqUgzI) | 7:36 | 2021-11-13 | 2022-06-12 |
 | [The Last Rays of the Sun](https://open.spotify.com/track/5RAVYLt6qwE6qAJISplSud) | [Her Alone](https://open.spotify.com/artist/2dnG7Q4xgIcfNpItnAwLAv) | [The Last Rays of the Sun](https://open.spotify.com/album/4vOgylNHYI8EGze0sJGWOg) | 4:35 | 2021-11-27 | 2022-07-08 |

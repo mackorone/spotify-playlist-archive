@@ -4,7 +4,7 @@
 
 > La mejor compañía mientras llueve.
 
-151 songs - 9 hr 36 min
+152 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Corazón](https://open.spotify.com/track/5VuD8P5uxdmMtEqilaD9ei) | [TULI](https://open.spotify.com/artist/0ZONTh5kX91I8H6sa8QOlZ) | [Corazón](https://open.spotify.com/album/20nHeRAh2CAtRAMw2jyAXh) | 2:20 | 2024-10-18 | 2024-11-16 |
 | [Créeme](https://open.spotify.com/track/4EKZsrsCKyqr64FBHLc0DU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:34 | 2021-11-12 |  |
 | [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 | 2022-07-06 |  |
+| [Desastres Fabulosos](https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Desastres Fabulosos](https://open.spotify.com/album/2OGrbIbMpKM9mZiIY95F09) | 2:43 | 2025-06-27 |  |
 | [Deseo Oculto \- Versión alternativa](https://open.spotify.com/track/0oE9FV5lzrwBKg0T8xn5EU) | [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [Deseo Oculto \(Versión alternativa\)](https://open.spotify.com/album/77mZ5ymOeeJYslv4hduRzf) | 3:41 | 2024-09-27 | 2024-10-04 |
 | [Destino o casualidad](https://open.spotify.com/track/2sMxswHr9wX7kTUHULvJBJ) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Destino o casualidad](https://open.spotify.com/album/0qnDuxzDLdWWi9R473rv85) | 4:18 | 2021-11-12 |  |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-10-14 |  |
@@ -60,7 +61,7 @@
 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 | 2021-11-12 |  |
 | [Huele A Tristeza](https://open.spotify.com/track/5L7YRcA4wQjkKbn6isIl1c) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [The Studio Albums 1990\-2011](https://open.spotify.com/album/5SAhhnpMwvz8epkSaPj3CN) | 4:46 | 2021-11-12 | 2022-05-16 |
 | [Inspiración](https://open.spotify.com/track/0S9K68ZzCTjXNKbGDaQ4Jp) | [Benny](https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk) | [Todo o nada](https://open.spotify.com/album/1FmMx0n0gyjZ4YL0SpEEgd) | 3:01 | 2021-11-12 | 2022-06-07 |
-| [Jueves](https://open.spotify.com/track/1UDToCUvhfhYrTFxA1Xi4w) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [A las Cinco en el Astoria](https://open.spotify.com/album/2x2ZnWT2gqKGXYul03g47r) | 3:59 | 2021-11-12 |  |
+| [Jueves](https://open.spotify.com/track/1UDToCUvhfhYrTFxA1Xi4w) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [A las Cinco en el Astoria](https://open.spotify.com/album/2x2ZnWT2gqKGXYul03g47r) | 3:59 | 2021-11-12 | 2025-06-28 |
 | [La Cosa Mas Bella](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:25 | 2021-11-12 |  |
 | [LA CUEVA](https://open.spotify.com/track/14vcO1XwnWzz4RJnUAQSkW) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [LA CUEVA](https://open.spotify.com/album/26dJWqDIdIY9iAmntxjOiR) | 2:44 | 2025-02-07 | 2025-05-18 |
 | [La Despedida](https://open.spotify.com/track/1LUf8T2FnpXxTx2ZNkK10W) | [Consuelo Schuster](https://open.spotify.com/artist/1wZ9Xc5xzw5ag4rpHBdMTk) | [La Despedida](https://open.spotify.com/album/2rNNEI2ktcG3miAuBud20e) | 3:17 | 2024-09-05 | 2024-09-13 |

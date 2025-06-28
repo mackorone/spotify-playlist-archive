@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 659044,
+  "num_followers": 659074,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Tellin' Stories",
-        "url": "https://open.spotify.com/album/5Z1qbz6SLdQnWiVMEJ5MNK"
-      },
-      "artists": [
-        {
-          "name": "The Charlatans",
-          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
-        }
-      ],
-      "duration_ms": 269840,
-      "name": "One To Another",
-      "url": "https://open.spotify.com/track/5nvy5ir4RWTgI4hC8dnsQP"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Life Of Riley - The Lightning Seeds Collection",
         "url": "https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd"
       },
@@ -979,18 +963,34 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Let It Ride",
-        "url": "https://open.spotify.com/album/7wTnoelmadLnvEXH8Je1nA"
+        "name": "Tellin' Stories",
+        "url": "https://open.spotify.com/album/5Z1qbz6SLdQnWiVMEJ5MNK"
       },
       "artists": [
         {
-          "name": "Shed Seven",
-          "url": "https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs"
+          "name": "The Charlatans",
+          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
         }
       ],
-      "duration_ms": 265133,
-      "name": "Chasing Rainbows",
-      "url": "https://open.spotify.com/track/5l6ab2amq8jjuNqaxFsVrl"
+      "duration_ms": 269840,
+      "name": "One To Another",
+      "url": "https://open.spotify.com/track/5nvy5ir4RWTgI4hC8dnsQP"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Kollected - The Best Of Kula Shaker",
+        "url": "https://open.spotify.com/album/6TTUtIFLwkgKJGrjoAbq8q"
+      },
+      "artists": [
+        {
+          "name": "Kula Shaker",
+          "url": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Tattva",
+      "url": "https://open.spotify.com/track/4i29BhzyX52me3XNatwkWe"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -1007,6 +1007,22 @@
       "duration_ms": 289146,
       "name": "Cigarettes & Alcohol - Remastered",
       "url": "https://open.spotify.com/track/3UwdK8bj9DyibPOgbjdCXD"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Let It Ride",
+        "url": "https://open.spotify.com/album/7wTnoelmadLnvEXH8Je1nA"
+      },
+      "artists": [
+        {
+          "name": "Shed Seven",
+          "url": "https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs"
+        }
+      ],
+      "duration_ms": 265133,
+      "name": "Chasing Rainbows",
+      "url": "https://open.spotify.com/track/5l6ab2amq8jjuNqaxFsVrl"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -1039,22 +1055,6 @@
       "duration_ms": 239840,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/1QdbOe3o38SdDOxgMSfRGd"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/6IKWPpfzzSqLSgbIfvCrhO"
-      },
-      "artists": [
-        {
-          "name": "Suede",
-          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
-        }
-      ],
-      "duration_ms": 245946,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/0eyTLxTwEYvqWm6NYSvA01"
     }
   ],
   "unique_name": "Britpop, Etc.",

@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 🏆 Kannessa Lorde.
 
-1,440 songs - 2 day 23 hr 59 min
+1,442 songs - 3 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,6 +540,7 @@
 | [In Your Hands](https://open.spotify.com/track/0xELhaF1TNGxiInGwbZwyG) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc), [AKI](https://open.spotify.com/artist/4PZkiiOKrkpqOkhGSz2tel), [Axel Ehnström](https://open.spotify.com/artist/2sRQFLs62KkM8UTW3DjDFM) | [In Your Hands](https://open.spotify.com/album/4KqyR7Na49zBuLxy9TCjWX) | 2:40 | 2024-10-10 | 2024-10-18 |
 | [Infrared](https://open.spotify.com/track/0P07sqcEuYQZn5IMW8ifGr) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Infrared](https://open.spotify.com/album/4l5W33e0zrHQqatQcAtvdX) | 3:18 | 2025-05-29 | 2025-06-06 |
 | [Invincible \- from Kaiju No\. 8](https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Invincible \(from Kaiju No\. 8\)](https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p) | 2:35 | 2025-04-17 |  |
+| [IRL \(FEAT\. SZA\)](https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:44 | 2025-06-26 |  |
 | [Is It The Way](https://open.spotify.com/track/4aY0JD0iHm1VIAQelgYkw7) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Is It The Way](https://open.spotify.com/album/4yvcCQ6riOr6XvigkpItWN) | 2:32 | 2024-09-26 | 2024-10-04 |
 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 | 2025-04-24 |  |
 | [Iskelmää](https://open.spotify.com/track/0dqtnUAiNVHoffw7FUGi6D) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [Iskelmää](https://open.spotify.com/album/2LXiIuRUeyfAcjZnZcrcDF) | 2:16 | 2024-10-03 | 2024-10-11 |
@@ -910,6 +911,7 @@
 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 | 2024-09-26 | 2024-12-03 |
 | [Omelettes](https://open.spotify.com/track/6qO7UZjHLGo0pwOpG7T9bW) | [Caesar Omaka](https://open.spotify.com/artist/0mzIUAC5NKH15AIryf5n2j) | [Omelettes](https://open.spotify.com/album/7awu1fJS7gKoBIexLZZvZi) | 3:02 | 2025-05-08 | 2025-05-30 |
 | [On / Off](https://open.spotify.com/track/6jRJ1RAvdNxC1TG03VRFVg) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [YUNO](https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj) | 2:15 | 2024-08-29 | 2024-11-23 |
+| [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 | 2025-06-26 |  |
 | [One Day](https://open.spotify.com/track/7vKs4BM73eX4IXbYofTjYO) | [Thnked](https://open.spotify.com/artist/2D2p1P0jMo3OhCcx0PoNNJ) | [One Day](https://open.spotify.com/album/2nRROc1eaBM1b6CDysUpyY) | 1:57 | 2024-07-18 | 2024-08-02 |
 | [One Good Thing](https://open.spotify.com/track/62xicKmz7afi8hjv4NdtSv) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [One Good Thing](https://open.spotify.com/album/6muLxsmUD9rwyTJ0gZb43T) | 4:04 | 2025-01-10 | 2025-01-24 |
 | [One More Dance](https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [One More Dance](https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw) | 3:08 | 2025-02-06 | 2025-04-04 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 44172,
+  "num_followers": 44181,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFs8AAAAAABKDZM/gMJe0lic9GqbcVse",
+  "snapshot_id": "aFyNgAAAAABG2Ga76y4oS8XMUmITh4ST",
   "tracks": [
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piensa En Mis Labios",
+        "url": "https://open.spotify.com/album/35PrfaDVET02L2KppeIenT"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 197407,
+      "name": "Piensa En Mis Labios",
+      "url": "https://open.spotify.com/track/3eda2SUJdRxyy6KBaVHB17"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Malvada",
         "url": "https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piensa En Mis Labios",
-        "url": "https://open.spotify.com/album/35PrfaDVET02L2KppeIenT"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 197407,
-      "name": "Piensa En Mis Labios",
-      "url": "https://open.spotify.com/track/3eda2SUJdRxyy6KBaVHB17"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LQRA Session #3",
         "url": "https://open.spotify.com/album/4CiyVMTKizu2N88qPuqPVR"
       },
@@ -667,6 +667,26 @@
       "duration_ms": 174285,
       "name": "LQRA Session #3",
       "url": "https://open.spotify.com/track/65jUseB3hi312R6Sdg2eon"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/6jSnmwRfQxofOlRzKEFBAa"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/2RiEHEoEOKk4v3pKb522RR"
     },
     {
       "added_at": null,
@@ -711,26 +731,6 @@
       "duration_ms": 205714,
       "name": "Ya No Quiero Verte",
       "url": "https://open.spotify.com/track/6m77XYqqnVxfREQsiUi7O9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Terremoto",
-        "url": "https://open.spotify.com/album/6jSnmwRfQxofOlRzKEFBAa"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Terremoto",
-      "url": "https://open.spotify.com/track/2RiEHEoEOKk4v3pKb522RR"
     },
     {
       "added_at": null,
@@ -1011,26 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Oportunidad",
-        "url": "https://open.spotify.com/album/73fsMmzD84KtQeKzL497C3"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        }
-      ],
-      "duration_ms": 231111,
-      "name": "Otra Oportunidad",
-      "url": "https://open.spotify.com/track/0BXk6oUSkehJkZOv2TBzgG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tequila y Miel",
         "url": "https://open.spotify.com/album/3qIzssaVo8bUhfHxwbeDua"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 211408,
       "name": "Tequila y Miel",
       "url": "https://open.spotify.com/track/0tSB1fuRtQbdQbE5h1fW6M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra Oportunidad",
+        "url": "https://open.spotify.com/album/73fsMmzD84KtQeKzL497C3"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "duration_ms": 231111,
+      "name": "Otra Oportunidad",
+      "url": "https://open.spotify.com/track/0BXk6oUSkehJkZOv2TBzgG"
     },
     {
       "added_at": null,
@@ -1087,6 +1087,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Roll",
+        "url": "https://open.spotify.com/album/6a8vWL0w3KFrSw7DqpPxSa"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Pato Machete",
+          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "De Roll",
+      "url": "https://open.spotify.com/track/2sdKmNpQJmgVSPoiyXcq0t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dos Extra\u00f1os",
         "url": "https://open.spotify.com/album/6rxxhbHjt4bwvrbm660BZ7"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 196216,
       "name": "Dos Extra\u00f1os",
       "url": "https://open.spotify.com/track/4H6yrTlUFFtFe1qwHp2gOL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Roll",
-        "url": "https://open.spotify.com/album/6a8vWL0w3KFrSw7DqpPxSa"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Pato Machete",
-          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "De Roll",
-      "url": "https://open.spotify.com/track/2sdKmNpQJmgVSPoiyXcq0t"
     },
     {
       "added_at": null,

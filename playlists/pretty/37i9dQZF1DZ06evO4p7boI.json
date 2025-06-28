@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95867,
+  "num_followers": 95870,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFs8AAAAAAB/QsjfWB0p4p5ac5AY+m0F",
+  "snapshot_id": "aFyNgAAAAAB0VfJ/ezgoiuq3BIaUEWJX",
   "tracks": [
     {
       "added_at": null,
@@ -287,6 +287,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Demons Protected By Angels",
+        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 185785,
+      "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/5cx2X3RlGDk6g4DkPq4NYw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
@@ -311,30 +335,6 @@
       "duration_ms": 187464,
       "name": "Off White VLONE (Lil Baby & Gunna feat. Lil Durk & NAV)",
       "url": "https://open.spotify.com/track/6PoKfDY78ih5OveWirggRX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Demons Protected By Angels",
-        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 185785,
-      "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/5cx2X3RlGDk6g4DkPq4NYw"
     },
     {
       "added_at": null,
@@ -431,26 +431,6 @@
       "duration_ms": 179371,
       "name": "Run It Up (feat. Pop Smoke)",
       "url": "https://open.spotify.com/track/6LUE5WlMgrpLouGxzJAUVv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OMW2 REXDALE",
-        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 187213,
-      "name": "REAL ME (WITH METRO BOOMIN)",
-      "url": "https://open.spotify.com/track/2LYFCSYptjtZLVPzVJEUnm"
     },
     {
       "added_at": null,
@@ -639,6 +619,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "REAL ME",
+        "url": "https://open.spotify.com/album/0pPQgcXmQXqlFEgYJPMgBX"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 187213,
+      "name": "REAL ME (WITH METRO BOOMIN)",
+      "url": "https://open.spotify.com/track/5gceXfpczt6WqGkkqeICAm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OMW2 REXDALE",
         "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
       },
@@ -778,11 +778,15 @@
         {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 131214,
-      "name": "Vicodin",
-      "url": "https://open.spotify.com/track/19CWeHbg3Z9XJH4Uzdk6tf"
+      "duration_ms": 217775,
+      "name": "Price On My Head (feat. The Weeknd)",
+      "url": "https://open.spotify.com/track/4hqOmrCCJKyiuwDexd8c2t"
     },
     {
       "added_at": null,
@@ -846,15 +850,11 @@
         {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 217775,
-      "name": "Price On My Head (feat. The Weeknd)",
-      "url": "https://open.spotify.com/track/4hqOmrCCJKyiuwDexd8c2t"
+      "duration_ms": 131214,
+      "name": "Vicodin",
+      "url": "https://open.spotify.com/track/19CWeHbg3Z9XJH4Uzdk6tf"
     },
     {
       "added_at": null,
@@ -931,6 +931,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "OMW2 REXDALE",
+        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 158933,
+      "name": "ONE OF NONE",
+      "url": "https://open.spotify.com/track/3iHhuAmTg6LCOpHJQCUEmm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Virgo World",
         "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
       },
@@ -951,22 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On My Own (2016)",
-        "url": "https://open.spotify.com/album/0R0Zqjy0b5vkPCBKhP3IRo"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 168828,
-      "name": "On My Own (2016)",
-      "url": "https://open.spotify.com/track/1JfhrpmEjgO85Y7sM2QWvH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OMW2 REXDALE (DELUXE)",
         "url": "https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9"
       },
@@ -983,8 +983,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+        "name": "On My Own (2016)",
+        "url": "https://open.spotify.com/album/0R0Zqjy0b5vkPCBKhP3IRo"
       },
       "artists": [
         {
@@ -992,9 +992,9 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 215293,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/11HOTp4KdeOwmn7Ew0GSIs"
+      "duration_ms": 168828,
+      "name": "On My Own (2016)",
+      "url": "https://open.spotify.com/track/1JfhrpmEjgO85Y7sM2QWvH"
     }
   ],
   "unique_name": "This Is NAV",

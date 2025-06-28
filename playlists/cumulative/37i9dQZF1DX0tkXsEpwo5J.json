@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "\u00a1Canciones para sonre\u00edr durante el d\u00eda!",
-  "name": "De Buenas",
+  "description": "canciones para andar bien al cien \ud83d\ude42\u200d\u2195\ufe0f",
+  "name": "al cien",
   "tracks": [
     {
       "album": {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 199935,
       "name": "Al Norte",
       "url": "https://open.spotify.com/track/0zN8BlouBz3oDwj5AtkXFA"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 321662,
       "name": "como me encanta",
       "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
@@ -1727,6 +1727,28 @@
     },
     {
       "album": {
+        "name": "M\u00fasica Para Abrir El Cielo",
+        "url": "https://open.spotify.com/album/373sjPmbcfb0MBTscza6S2"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212821,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/6H7tS5QBrDzU1H79g10J1y"
+    },
+    {
+      "album": {
         "name": "lento",
         "url": "https://open.spotify.com/album/1Jb2Q2QQVjqUAMq7mbRkLU"
       },
@@ -1778,10 +1800,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 161803,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
+    },
+    {
+      "album": {
+        "name": "Lila Alel\u00ed",
+        "url": "https://open.spotify.com/album/2if5JlMd0QhkF93PKGashv"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205767,
+      "name": "Lila Alel\u00ed",
+      "url": "https://open.spotify.com/track/1pv8kjnd68qQt0dM22reqP"
     },
     {
       "album": {
@@ -2062,6 +2102,24 @@
       "duration_ms": 267200,
       "name": "Mamita (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/4YU0xHroexMt4ohhPVbKla"
+    },
+    {
+      "album": {
+        "name": "MARIWANO FUNCIONAL",
+        "url": "https://open.spotify.com/album/2Ee59hmW9SM5c17rnoeeEo"
+      },
+      "artists": [
+        {
+          "name": "Ricardo P\u00e9rez",
+          "url": "https://open.spotify.com/artist/3Qax4sJ7V7GoZMfFDqbuM2"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132345,
+      "name": "MARIWANO FUNCIONAL",
+      "url": "https://open.spotify.com/track/6YC4ynVtSTtejo5S5YUO6F"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,648 songs - 3 day 16 hr 22 min
+1,649 songs - 3 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -792,7 +792,7 @@
 | [Laffy Taffy](https://open.spotify.com/track/2ajhenDRiiAnCHHjsIOHhJ) | [D4L](https://open.spotify.com/artist/4AllEJE7mVkhhyUV6DjqPz) | [Down for Life](https://open.spotify.com/album/5PE3OnyEPOlTShpjij8Wfp) | 3:44 | 2023-07-17 | 2023-12-30 |
 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-07-03 | 2023-07-21 |
 | [LANCEY OR LANCEY](https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 3:07 | 2023-08-11 | 2023-12-27 |
-| [Lasso](https://open.spotify.com/track/3avjQYeEgR9ko93lnMy2m9) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Lasso](https://open.spotify.com/album/1KBnCThd8WNhM6KBUxQ4Yc) | 2:09 | 2025-06-13 |  |
+| [Lasso](https://open.spotify.com/track/3avjQYeEgR9ko93lnMy2m9) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Lasso](https://open.spotify.com/album/1KBnCThd8WNhM6KBUxQ4Yc) | 2:09 | 2025-06-13 | 2025-06-28 |
 | [Last Resort \- Reimagined](https://open.spotify.com/track/73GKs8oNFFmtomWj7EsSU0) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Last Resort \(Reimagined\)](https://open.spotify.com/album/3ney9yvE6G6kVMTtIQ6XoA) | 4:43 | 2023-06-30 | 2023-07-21 |
 | [Last Time \- Acoustic](https://open.spotify.com/track/54u4wxyfvWnAIdSs0HIvsm) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Last Time \(Acoustic\)](https://open.spotify.com/album/2DlqdE27WObFru19qf8fvU) | 3:43 | 2025-05-17 | 2025-06-14 |
 | [Late](https://open.spotify.com/track/2KfXUhCXsGW16I8OVgZFeJ) | [Cayo](https://open.spotify.com/artist/1MEkNy8o7kUgle1Yrru6MH) | [Late](https://open.spotify.com/album/5813hoFP1EHSFiTuI5PREu) | 1:48 | 2022-04-14 | 2022-05-21 |
@@ -1626,6 +1626,7 @@
 | [Yeh I Fuckin' Did It \- From "Euphoria" An Original HBO Series](https://open.spotify.com/track/0JlBceojDDiHGAKtMEhGm9) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Yeh I Fuckin' Did It / I'm Tired \(From "Euphoria" An Original HBO Series\)](https://open.spotify.com/album/48kRTccY4Ii9qyoT6fxRVh) | 2:11 | 2022-02-03 | 2022-02-08 |
 | [Yerushalayim](https://open.spotify.com/track/715xydYGcGuc4SGH4frm43) | [Yerachmiel Begun & The Miami Boys Choir](https://open.spotify.com/artist/6s2HLzlqGE56ToNhMvWu7Q) | [Moshiach](https://open.spotify.com/album/1a6JhV4CXvyy7mNM45NQFG) | 5:52 | 2022-09-26 | 2022-10-14 |
 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 | 2022-02-27 | 2022-03-31 |
+| [YITTY ON YO TITTYS \(FREESTYLE\)](https://open.spotify.com/track/6mzJqQzYatigPwoJrvKlJM) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:28 | 2025-06-27 |  |
 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 | 2022-02-12 | 2022-05-10 |
 | [Yonaguni](https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Yonaguni](https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5) | 3:26 | 2023-01-03 | 2023-01-28 |
 | [Yonkers](https://open.spotify.com/track/1nwkSqzTyXBk6XF796EOav) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Goblin](https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO) | 4:09 | 2022-11-14 | 2022-12-02 |

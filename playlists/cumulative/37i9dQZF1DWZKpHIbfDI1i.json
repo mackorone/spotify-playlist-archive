@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Matisse en portada ",
+  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Omar Camacho y Victor Mendivil en portada ",
   "name": "Top M\u00e9xico",
   "tracks": [
     {
@@ -180,6 +180,28 @@
       "duration_ms": 165354,
       "name": "2 Pa 2",
       "url": "https://open.spotify.com/track/6fpbFcJ92PmGPwPL3SgIDs"
+    },
+    {
+      "album": {
+        "name": "2+2",
+        "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198300,
+      "name": "2+2",
+      "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
     },
     {
       "album": {
@@ -638,7 +660,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 185523,
       "name": "A La Fokin Orden",
       "url": "https://open.spotify.com/track/5I3g6hftosFiHUih2o0cXs"
@@ -6758,7 +6780,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 173287,
       "name": "DEDO",
       "url": "https://open.spotify.com/track/1SQwNv4mgebRj6TKv9xeQA"
@@ -9992,7 +10014,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 181500,
       "name": "EX EX EX",
       "url": "https://open.spotify.com/track/0JblMDDZxhwEVAH65UeLBc"
@@ -10448,6 +10470,24 @@
       "duration_ms": 182000,
       "name": "Fluya",
       "url": "https://open.spotify.com/track/6hTHHepHMcVg75N301UI2O"
+    },
+    {
+      "album": {
+        "name": "Formula One",
+        "url": "https://open.spotify.com/album/2BEaUNZ7RqGaXI4V599GvI"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185179,
+      "name": "Formula One",
+      "url": "https://open.spotify.com/track/41wEwoDCdrSPBHYJShUi8t"
     },
     {
       "album": {
@@ -11986,7 +12026,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 216250,
       "name": "Juguete",
       "url": "https://open.spotify.com/track/1AP0YC81s5Gxk3wUIoQE5Q"
@@ -13865,6 +13905,24 @@
     },
     {
       "album": {
+        "name": "Lila Alel\u00ed",
+        "url": "https://open.spotify.com/album/2if5JlMd0QhkF93PKGashv"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205767,
+      "name": "Lila Alel\u00ed",
+      "url": "https://open.spotify.com/track/1pv8kjnd68qQt0dM22reqP"
+    },
+    {
+      "album": {
         "name": "Forajido EP 1",
         "url": "https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR"
       },
@@ -15233,6 +15291,24 @@
     },
     {
       "album": {
+        "name": "MAREA",
+        "url": "https://open.spotify.com/album/39iEyuUQU9soHpbjekysNA"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177096,
+      "name": "MAREA",
+      "url": "https://open.spotify.com/track/2s3GtItJY3hisk0AXghYVb"
+    },
+    {
+      "album": {
         "name": "Mariposa Traicionera",
         "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
       },
@@ -15462,7 +15538,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 196946,
       "name": "ME ESTOY RINDIENDO am0r :(",
       "url": "https://open.spotify.com/track/74KvgeiH6BjFD39S4nwxvA"
@@ -15674,7 +15750,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 248875,
       "name": "Me Retiro",
       "url": "https://open.spotify.com/track/0iWO3A7RCIFZvLvVfIOW4h"
@@ -16880,7 +16956,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-26",
+      "date_removed": null,
       "duration_ms": 169200,
       "name": "Morrita (Tinker Bell)",
       "url": "https://open.spotify.com/track/6YdkAzfexm7nUydxWaU9aQ"
@@ -19022,7 +19098,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 212000,
       "name": "ONLINE",
       "url": "https://open.spotify.com/track/66ChRTsE2NVt5wQ1XbEQzQ"
@@ -20829,6 +20905,24 @@
     },
     {
       "album": {
+        "name": "Porque La Demora",
+        "url": "https://open.spotify.com/album/1jmda3z2yVf18leBFpEEDQ"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211250,
+      "name": "Porque La Demora",
+      "url": "https://open.spotify.com/track/0Dau6menNiCeTqyqGSNgMt"
+    },
+    {
+      "album": {
         "name": "Porque Te Vas",
         "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
       },
@@ -22114,7 +22208,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-23",
+      "date_removed": null,
       "duration_ms": 270328,
       "name": "REGALO DE DIOS",
       "url": "https://open.spotify.com/track/1CpICQpUz3ZrHcJs84oAbH"
@@ -24238,6 +24332,24 @@
       "duration_ms": 185642,
       "name": "Suspiros (En Vivo)",
       "url": "https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr"
+    },
+    {
+      "album": {
+        "name": "Su\u00e9ltate",
+        "url": "https://open.spotify.com/album/6cWIv2C8VPNbNL3Xi8aQpJ"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193647,
+      "name": "Su\u00e9ltate",
+      "url": "https://open.spotify.com/track/4oEMWJoOgHqDLwG5hLuo85"
     },
     {
       "album": {
@@ -27767,6 +27879,24 @@
     },
     {
       "album": {
+        "name": "WIFEY",
+        "url": "https://open.spotify.com/album/1tNFQJTavzceB0nE8TTPBr"
+      },
+      "artists": [
+        {
+          "name": "ARIA BELA",
+          "url": "https://open.spotify.com/artist/7Gh928bdEU69S9D6ur5wJz"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183021,
+      "name": "WIFEY",
+      "url": "https://open.spotify.com/track/2CAZRdOniNbyR1ehg8rUYF"
+    },
+    {
+      "album": {
         "name": "X Perro",
         "url": "https://open.spotify.com/album/5bneoIW82fBlBZSoSLSnE3"
       },
@@ -28096,7 +28226,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 169011,
       "name": "Ya Cog\u00ed con Otro",
       "url": "https://open.spotify.com/track/1JXgkN7m5UEuHgVeNbE2q5"
@@ -28140,7 +28270,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 204000,
       "name": "Ya entregamos el depa",
       "url": "https://open.spotify.com/track/2g9qtIpesI41FsO2uqKdt8"

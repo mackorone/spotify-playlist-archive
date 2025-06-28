@@ -4,7 +4,7 @@
 
 > roots run deep
 
-387 songs - 23 hr 8 min
+389 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Hello Whiskey](https://open.spotify.com/track/482qnAUubbTntyywad6oru) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Hello Whiskey](https://open.spotify.com/album/1tp9l3w0s4YgffZFAmJNSK) | 4:22 | 2025-01-10 | 2025-02-08 |
 | [Her](https://open.spotify.com/track/6Ym7UF7000PoA6MZha7ugt) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai) | [Her](https://open.spotify.com/album/7JERMt53TQC4z2Pn4nPUYi) | 3:08 | 2023-05-05 | 2023-10-01 |
 | [Here Lies the Fool](https://open.spotify.com/track/0RvDQ5Kp6uI2IAhGZT2V3o) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Here Lies the Fool](https://open.spotify.com/album/3JU7dOvlocukChNhrVrtnj) | 4:12 | 2025-02-07 |  |
+| [High Standards](https://open.spotify.com/track/66A7J1dZ2mKWXB6EODRZaH) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Rhinestoned](https://open.spotify.com/album/5XEFMMgAByAZq8rYn6hE6t) | 4:16 | 2025-06-27 |  |
 | [Highway One](https://open.spotify.com/track/3Q5eAxBtYLpDXnM2o2DJmI) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE) | [Highway One](https://open.spotify.com/album/4yBz1RyADWkwXT6Uhswgpz) | 3:14 | 2025-02-28 |  |
 | [Hold On](https://open.spotify.com/track/1fOvzFCRA3Ko0ihc2QTE29) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Hold On](https://open.spotify.com/album/3s7URrr4aax9L0kgMyyE00) | 3:04 | 2023-04-21 |  |
 | [Holes](https://open.spotify.com/track/0B6v7ZT2yrqYaCQb6OP5Gn) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Holes](https://open.spotify.com/album/1AAJoXqYgInrxXjoRCK4Uh) | 3:58 | 2023-07-14 |  |
@@ -289,6 +290,7 @@
 | [Scornful Woman](https://open.spotify.com/track/5oEM9EDKL9y4XLTJzi0g96) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Scornful Woman](https://open.spotify.com/album/3Ueo8Ub5iBseNfSbHpCdEq) | 2:55 | 2025-06-11 |  |
 | [Seein' Straight](https://open.spotify.com/track/49mwxHq39VLr6fIoHN0e0t) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [We're Young, Alright](https://open.spotify.com/album/553gGSVuHart0wIB6lEC0n) | 3:53 | 2023-06-05 |  |
 | [Settling Things](https://open.spotify.com/track/0XDGhfW6CS8syWE7gh9ei4) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [The Heartbroken Record](https://open.spotify.com/album/5JGn3VCsHcB2xaqY5bdclK) | 2:52 | 2024-10-10 |  |
+| [Sex, Drugs, & Country Music](https://open.spotify.com/track/7FzbROJvb1vzrwnmkK5EC5) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Sex, Drugs, & Country Music](https://open.spotify.com/album/759caALCZeFt6jTB2eKMv8) | 3:37 | 2025-06-27 |  |
 | [Shake the Frost \(Live\)](https://open.spotify.com/track/19MkwMrRjO7773zpuGss1o) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Live on Red Barn Radio I & II](https://open.spotify.com/album/7lf0m3iNU59X4r8udCQcB6) | 2:55 | 2024-08-09 |  |
 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 | 2023-10-06 | 2024-05-25 |
 | [She Likes the Beatles](https://open.spotify.com/track/38iGqJQPZcTYNx6bdR5YWC) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Rose Queen](https://open.spotify.com/album/0owdopMgxzzssx6JVV86s5) | 4:16 | 2023-02-24 | 2023-09-23 |

@@ -2699,6 +2699,24 @@
     },
     {
       "album": {
+        "name": "FWU",
+        "url": "https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "FWU",
+      "url": "https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT"
+    },
+    {
+      "album": {
         "name": "Remember Me",
         "url": "https://open.spotify.com/album/5udw4f9l9vwuJVkrbRFy3j"
       },
@@ -3798,6 +3816,24 @@
       "duration_ms": 192006,
       "name": "Law N Order",
       "url": "https://open.spotify.com/track/2syaah4iQQ2stMgvc9OWLF"
+    },
+    {
+      "album": {
+        "name": "Made In Paris",
+        "url": "https://open.spotify.com/album/0mrnkkp1dYUWc226KXIeBc"
+      },
+      "artists": [
+        {
+          "name": "Pi\u2019erre Bourne",
+          "url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229012,
+      "name": "Le V\u00f4tre",
+      "url": "https://open.spotify.com/track/4wYk6ovsTy4gOuYek4I1is"
     },
     {
       "album": {
@@ -5926,6 +5962,32 @@
       "duration_ms": 139192,
       "name": "Roc Steady (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/4jCKLCyhHjrzz6be6NDhrd"
+    },
+    {
+      "album": {
+        "name": "ROCKIN",
+        "url": "https://open.spotify.com/album/1nx7sficpAGLmwVzxudFBs"
+      },
+      "artists": [
+        {
+          "name": "Shoreline Mafia",
+          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
+        },
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129722,
+      "name": "ROCKIN",
+      "url": "https://open.spotify.com/track/406Vq9o3C7GeZjCL68bUDT"
     },
     {
       "album": {

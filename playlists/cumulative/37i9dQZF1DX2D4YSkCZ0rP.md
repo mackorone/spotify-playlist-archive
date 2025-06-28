@@ -4,7 +4,7 @@
 
 > La playlist des artistes LGBTQIA+\. Photo : marguerite
 
-76 songs - 3 hr 58 min
+77 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [C’est la Vie](https://open.spotify.com/track/6BV2gqsxAWqZKqM8Kx4GLb) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [C’est la Vie](https://open.spotify.com/album/3SjBLAvQwwhiAUnrifGlrD) | 3:28 | 2024-06-04 |  |
 | [Dada](https://open.spotify.com/track/6bIpArBwm2I0EpmSgqrKrf) | [La Grande Dame](https://open.spotify.com/artist/3AvpOfIrL6UyrMb5r4kIeh) | [Dada](https://open.spotify.com/album/2uThFwczO3iFZISZV27fld) | 3:50 | 2024-06-04 | 2025-05-27 |
 | [DEEP HOLES](https://open.spotify.com/track/6OL3oeNSREzPpS0x0oCAM4) | [Rahim Redcar](https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW) | [HOPECORE](https://open.spotify.com/album/7ipRsT2BVjkSXzZoljpRbw) | 4:46 | 2024-10-18 | 2025-05-27 |
+| [Drifting Away](https://open.spotify.com/track/4avPf7Sn8QCeL6ZWyWzemL) | [Nicky Doll](https://open.spotify.com/artist/4EuM3R5q2w7YIedgtQiMrj) | [Drifting Away](https://open.spotify.com/album/2mbm5VKHxqPNO8NUzkYxKg) | 3:30 | 2025-06-27 |  |
 | [ELLE NE VEUT QUE](https://open.spotify.com/track/25bJTUy3ByJUqXN3QUhIlj) | [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC) | [NOUS ART : Masterpiece](https://open.spotify.com/album/0a2XyKU93jIJAhFz9oZDDe) | 2:31 | 2025-05-26 |  |
 | [Enfant de](https://open.spotify.com/track/6z8hRlJeWY33LvjpOQxIkr) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Enfant de](https://open.spotify.com/album/0jgDWVC9Wp7XaAd0Zxm9oR) | 2:54 | 2024-06-04 | 2025-05-27 |
 | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG) | 3:04 | 2024-06-04 | 2025-05-27 |
@@ -60,7 +61,7 @@
 | [Nuit](https://open.spotify.com/track/1tdvkP8LjrdtjCI3YyHpF9) | [Keiona](https://open.spotify.com/artist/6qLROBbQvQNwzkH9AlVDCS), [Vinii Revlon](https://open.spotify.com/artist/5Ia8RZQrtYWaHwaOUIfTZr), [Gigi Palmer](https://open.spotify.com/artist/3TzcCiy5F5SILRR7uUwKQA) | [Nuit](https://open.spotify.com/album/6BX4U1G3IPwQbvJjvMCchj) | 2:56 | 2024-06-04 | 2025-05-27 |
 | [OH MA PICHE](https://open.spotify.com/track/6uYv2ObL0mAtVSAs7j6opu) | [Piche](https://open.spotify.com/artist/0c32N2qsP2BxRGcUUxyHZn) | [OH MA PICHE](https://open.spotify.com/album/44yuOQNjZ4KDh9nuKCh4HO) | 2:22 | 2024-06-04 |  |
 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 | 2025-05-26 |  |
-| [Oublier](https://open.spotify.com/track/52eDCGa3pzmwNTwjz1mofw) | [Nicky Doll](https://open.spotify.com/artist/4EuM3R5q2w7YIedgtQiMrj) | [Oublier](https://open.spotify.com/album/3NuqIkwwlGzXVlcsDPXRpi) | 2:41 | 2024-10-18 |  |
+| [Oublier](https://open.spotify.com/track/52eDCGa3pzmwNTwjz1mofw) | [Nicky Doll](https://open.spotify.com/artist/4EuM3R5q2w7YIedgtQiMrj) | [Oublier](https://open.spotify.com/album/3NuqIkwwlGzXVlcsDPXRpi) | 2:41 | 2024-10-18 | 2025-06-28 |
 | [P.A.L.O.M.A](https://open.spotify.com/track/4Y2mnhFruV85574NOlh3RQ) | [Rebeka Warrior](https://open.spotify.com/artist/0VPogECnuuH2xbYP3Rmpd4), [Paloma](https://open.spotify.com/artist/0se892wuxZ6XIMUOEPewVb), [RAUMM](https://open.spotify.com/artist/3ouOqsGg5Xp5IKG8yiIzAP) | [P.A.L.O.M.A](https://open.spotify.com/album/2RcsLkNpbowk3VoiQe0QwG) | 5:07 | 2024-06-04 |  |
 | [Parfum Orange](https://open.spotify.com/track/4BAdYMcuEQKvfuiP51AbhM) | [La Grande Dame](https://open.spotify.com/artist/3AvpOfIrL6UyrMb5r4kIeh) | [PARFUM ORANGE](https://open.spotify.com/album/00ansPkQ19Fm4pmPgPalTz) | 4:15 | 2025-05-26 |  |
 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ) | 3:06 | 2024-06-04 | 2025-05-27 |

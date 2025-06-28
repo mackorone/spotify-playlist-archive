@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 守夜人 \(Night Keepers\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,291 likes - 81 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,294 likes - 81 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 5 | [不如輕輕跳支舞 \- 北流五週年音樂共創計畫](https://open.spotify.com/track/16NJ1IiP8Q4x9VdaQpywv8) | [YILITH](https://open.spotify.com/artist/2Mpy4RFN2nR3GdDwksWHrW), [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [不如輕輕跳支舞 \(北流五週年音樂共創計畫\)](https://open.spotify.com/album/2xDGf4Q1izkHAKs5Lajg5a) | 3:35 |
 | 6 | [High 5 \(全家便利商店廣告主題曲\)](https://open.spotify.com/track/0pn2qK2umVbos1G1aT9fQ4) | [Energy](https://open.spotify.com/artist/6GUGvmk5XZesTWRQdkp69u) | [High 5](https://open.spotify.com/album/076YSNfkhHCFt9up7W9aTI) | 4:00 |
 | 7 | [Forever](https://open.spotify.com/track/1Ylsccl0gBPVZLurmL1Arl) | [ROLLING SISTERS](https://open.spotify.com/artist/3jgF4ElGLpJQDVKCKUmiET), [刘忻](https://open.spotify.com/artist/5UgeL9yjnOMlBvnP4Teawa), [张予曦](https://open.spotify.com/artist/52JuCUosahcqLX8kfYxKB5), [Guo Bi Ting](https://open.spotify.com/artist/62KEagX4r21jbqdcOp5x5O), [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw) | [Forever](https://open.spotify.com/album/5BtFuXr6xdLT4t4jrJ5pxd) | 3:16 |
-| 8 | [Half\-Full \- Remix Ft\. moon tang, Wade Dao](https://open.spotify.com/track/5jfnXiBmFq7wrFq2sS3pZe) | [我是機車少女](https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl), [Flowstrong](https://open.spotify.com/artist/3KgKUvLzPtJSiXz0WC71YH), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [WADE DAO](https://open.spotify.com/artist/5cccFQ9v0HLpikzMg8AtEH) | [Half\-Full \(Remix Ft\. moon tang, Wade Dao\)](https://open.spotify.com/album/0UvTSBZ8z8AHMdx8xUweRH) | 3:40 |
+| 8 | [Half\-Full \- Remix Ft\. moon tang, WADE DAO](https://open.spotify.com/track/5jfnXiBmFq7wrFq2sS3pZe) | [我是機車少女](https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl), [Flowstrong](https://open.spotify.com/artist/3KgKUvLzPtJSiXz0WC71YH), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [WADE DAO](https://open.spotify.com/artist/5cccFQ9v0HLpikzMg8AtEH) | [Half\-Full \(Remix Ft\. moon tang, WADE DAO\)](https://open.spotify.com/album/0UvTSBZ8z8AHMdx8xUweRH) | 3:40 |
 | 9 | [一眠](https://open.spotify.com/track/0vcVsx7FnoMT5PlvewMruH) | [Norton Street 諾頓街](https://open.spotify.com/artist/1Ha6m76jqF70QoKiIavuFp) | [街拍](https://open.spotify.com/album/440sdMwN4do9RZQItHyoGL) | 5:59 |
 | 10 | [Coffee High](https://open.spotify.com/track/1MBX0VfA0q9QKKDbyqQqLZ) | [K.R Bros](https://open.spotify.com/artist/72WakvmGJc8irwTVQKxPKV) | [Coffee High](https://open.spotify.com/album/68ZTpW03uW7AGbHFwVvkw2) | 3:13 |
 | 11 | [未來人](https://open.spotify.com/track/4TgaDhwSgX26HAm8VzxpLE) | [ZIP發射樂團](https://open.spotify.com/artist/1qwOjxOMoj895xTDBNxcAe) | [未來人](https://open.spotify.com/album/1fj0exdIuWM2pUoQVZ03vK) | 4:27 |

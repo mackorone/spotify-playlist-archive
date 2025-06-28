@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: ONEFOUR
 
-340 songs - 18 hr 59 min
+341 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,8 +20,9 @@
 | [Aerodynamic](https://open.spotify.com/track/3vPJI4YMeXCypIbDwka9gG) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Phantom Island](https://open.spotify.com/album/3koVdFrXznL2PQ8WxTYjt7) | 4:46 | 2025-06-12 |  |
 | [Again? Fuck.](https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Again? Fuck.](https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU) | 2:52 | 2025-06-26 |  |
 | [Ahead Of Myself](https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/4476oK9dDwXluywz166CT1) | 3:44 | 2024-07-11 | 2024-07-27 |
+| [Ain’t For The Faint](https://open.spotify.com/track/6SQuxwoBbp8DlAUStjJ5vB) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Top Heavy](https://open.spotify.com/album/3rUIQo9YmO0tgg7X0tT0TT) | 3:23 | 2025-06-26 |  |
 | [Alien Cowboy](https://open.spotify.com/track/56nZzIw3sUhEgXfQlAeYAh) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Alien Cowboy](https://open.spotify.com/album/37ZKOlHdhP8r4LyHRqXka3) | 2:50 | 2025-01-30 | 2025-02-07 |
-| [All I Am](https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [All I Am](https://open.spotify.com/album/1F5otXEI2rOJD3LOJafnM4) | 3:02 | 2025-03-04 | 2025-06-27 |
+| [All I Am](https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [All I Am](https://open.spotify.com/album/1F5otXEI2rOJD3LOJafnM4) | 3:02 | 2025-03-04 |  |
 | [All I Ever Wanted](https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [All I Ever Wanted](https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ) | 3:09 | 2024-05-31 | 2025-04-25 |
 | [ALL I WANT IS YOU](https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [ALL I WANT IS YOU](https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl) | 2:15 | 2025-06-05 |  |
 | [All the Noise](https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [All the Noise](https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc) | 2:59 | 2025-01-16 | 2025-05-31 |
@@ -109,12 +110,12 @@
 | [Eulogy](https://open.spotify.com/track/0OWyJzSLWlM3WZhl7IfYc6) | [Ayesha Madon](https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr) | [Eulogy](https://open.spotify.com/album/00jDeAf7t2dmbMKtxEniMA) | 3:32 | 2024-05-31 | 2024-07-24 |
 | [Everyone Will See It](https://open.spotify.com/track/1m0KHgKO5q5jpttt0m3ESO) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Everyone Will See It](https://open.spotify.com/album/5dR2HScThHzyN9wggxsl8x) | 3:24 | 2025-02-06 | 2025-04-09 |
 | [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 | 2024-05-31 |  |
-| [Falter](https://open.spotify.com/track/4XA4JcVAs6IQZZYhg8iEPa) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Falter](https://open.spotify.com/album/6lzkQ9IjpbhF58gQLDthCc) | 2:41 | 2025-06-19 | 2025-06-27 |
+| [Falter](https://open.spotify.com/track/4XA4JcVAs6IQZZYhg8iEPa) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Falter](https://open.spotify.com/album/6lzkQ9IjpbhF58gQLDthCc) | 2:41 | 2025-06-19 |  |
 | [Family](https://open.spotify.com/track/7CzKTho2uvyJdOJjbOVLth) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Family](https://open.spotify.com/album/5Jl5KG2TbdoiJ7DU05QRvo) | 3:05 | 2025-04-10 |  |
 | [Field of Vision](https://open.spotify.com/track/1DXFQFDYeOW3cZPam0LXTd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Field of Vision](https://open.spotify.com/album/1WzXtuf2SaxT3CsPFrf8d0) | 3:35 | 2024-08-08 | 2024-09-25 |
 | [Fingerprints](https://open.spotify.com/track/4kAlUfeHA7oxVKPs823Goj) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Fingerprints](https://open.spotify.com/album/6G5sqLGZw37y6V1ZsFQrBv) | 3:10 | 2024-05-31 | 2024-11-22 |
 | [FINGERTIPS](https://open.spotify.com/track/7bXsZsdN7cMvjnJiyUHk56) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [FINGERTIPS](https://open.spotify.com/album/46gWaeqUSADSwWwv9tQVeF) | 2:29 | 2025-04-17 | 2025-04-25 |
-| [Follow Me](https://open.spotify.com/track/3tYy5DX20Bd3SO4UABc3Xt) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Sumner](https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY) | [Follow Me](https://open.spotify.com/album/3kichZUBPRawFSLkhPzFtB) | 2:47 | 2025-06-12 |  |
+| [Follow Me](https://open.spotify.com/track/3tYy5DX20Bd3SO4UABc3Xt) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Sumner](https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY) | [Follow Me](https://open.spotify.com/album/3kichZUBPRawFSLkhPzFtB) | 2:47 | 2025-06-12 | 2025-06-28 |
 | [Freaker](https://open.spotify.com/track/2LjcX9WmQTYWw7UYA7xbbw) | [Human Movement](https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ) | [Freaker](https://open.spotify.com/album/3TcAQVAFJxk7Bb1JDIPEvO) | 4:39 | 2025-05-08 | 2025-05-16 |
 | [Freckles](https://open.spotify.com/track/4xL8sLKGblXvvIUJb4kEQV) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Freckles](https://open.spotify.com/album/3qBdcWx8e9slG982z16f47) | 2:59 | 2024-08-30 | 2024-10-28 |
 | [FRENEMIES](https://open.spotify.com/track/6I7W8UTxONZaAYfeUb0AzE) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [FRENEMIES](https://open.spotify.com/album/23J0ze8Ram84QML5PlboAz) | 3:10 | 2024-08-01 | 2024-09-30 |
@@ -300,7 +301,7 @@
 | [tell me something](https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [tell me something](https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn) | 3:57 | 2025-05-22 |  |
 | [That's What You Do For Love](https://open.spotify.com/track/1Vt0rDoC3lqKOqdQtexxyo) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [That's What You Do For Love](https://open.spotify.com/album/1eJIgChtTpPU9PruenGRNo) | 5:24 | 2025-05-29 | 2025-06-06 |
 | [The Actor](https://open.spotify.com/track/3BnXwrGZwJ2kDtACt4TOIX) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [The Actor](https://open.spotify.com/album/4cuqUw4Z17ym8fvzgkrOOm) | 2:50 | 2025-04-17 |  |
-| [The Bends](https://open.spotify.com/track/3Gy2aRqQkCY6VAgeYu1Qpf) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Glimmers](https://open.spotify.com/album/5OOD5eUlJc6N8shol45UIb) | 3:29 | 2025-05-01 |  |
+| [The Bends](https://open.spotify.com/track/3Gy2aRqQkCY6VAgeYu1Qpf) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Glimmers](https://open.spotify.com/album/5OOD5eUlJc6N8shol45UIb) | 3:29 | 2025-05-01 | 2025-06-28 |
 | [The Feeling You Get](https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ask That God](https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m) | 4:16 | 2024-07-25 |  |
 | [The Here And Now](https://open.spotify.com/track/3gdWjWd3pXvtIijQrNWjto) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [The Here And Now](https://open.spotify.com/album/2YGkpwEZmg17X10TH6gJxl) | 3:46 | 2025-04-08 | 2025-04-18 |
 | [The Hit](https://open.spotify.com/track/0cDf1WMAJW9CUubbp6Fb3d) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [The Hit](https://open.spotify.com/album/4mhrVYZZPIj5dwIDhyQDmK) | 3:39 | 2025-05-22 |  |

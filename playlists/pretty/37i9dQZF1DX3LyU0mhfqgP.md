@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Songs from LGBTQIA+ artists\. Cover: Sophie and the Giants
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,079,569 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079,554 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bad Friends](https://open.spotify.com/track/22h0LkzTFMbj4WzDOpSGI1) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Bad Friends](https://open.spotify.com/album/0RylQ7ZJMfvxSZeNLJQ423) | 3:02 |
+| 1 | [A Little Bit Wild](https://open.spotify.com/track/7rZmBZLfhgh000Zcureczx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [A Little Bit Wild](https://open.spotify.com/album/2f0s9vLtRtfpLvvvbRPMze) | 3:16 |
 | 2 | [LOKADEMÁS](https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [LOKADEMÁS](https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB) | 3:13 |
 | 3 | [Reina Leona](https://open.spotify.com/track/4ZvX5haKXaawEVvKtArV4X) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Reina Leona](https://open.spotify.com/album/6mH7ns15s68fnpdvM22kLE) | 3:07 |
 | 4 | [Amore viscerale \(charnel\)](https://open.spotify.com/track/34R0X1WwO2D3Sl3nJr8ayz) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Pas facile](https://open.spotify.com/album/1j3iGC3DHnfA9D2UsWNona) | 2:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Mrs Thomas](https://open.spotify.com/track/53RGmdd994Q2B65CphWwQC) | [Conchita Wurst](https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v) | [Mrs Thomas](https://open.spotify.com/album/0ubE6U59PiQM4fgehn5cp4) | 3:08 |
 | 50 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 |
 
-Snapshot ID: `aF4DUgAAAABwLt8oURILcrt3/eyfEhwc`
+Snapshot ID: `aF6DFgAAAABHZ8IZS7GGTePNt5ZT1J9o`

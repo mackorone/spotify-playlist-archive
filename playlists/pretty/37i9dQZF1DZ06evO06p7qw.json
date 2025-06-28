@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 179747,
+  "num_followers": 179823,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFs8AAAAAACP85NkHP0XL2L5ksVIj8xI",
+  "snapshot_id": "aFyNgAAAAAAEUO04IpcdlqB/4Qq3N4p4",
   "tracks": [
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Este Cuento",
-        "url": "https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 174083,
-      "name": "Este Cuento",
-      "url": "https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Manuel Medrano En Concierto 10 A\u00f1os (En Vivo desde el Auditorio Nacional)",
         "url": "https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 281390,
       "name": "Una y Otra Vez - En Vivo Desde El Auditorio Nacional",
       "url": "https://open.spotify.com/track/7qFiF4M4mTtvUkADadj8o2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Este Cuento",
+        "url": "https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 174083,
+      "name": "Este Cuento",
+      "url": "https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg"
     },
     {
       "added_at": null,

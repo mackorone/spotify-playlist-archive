@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 
 > This is Mac Júlia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,748 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,746 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 | 41 | [Macetada Forte](https://open.spotify.com/track/4mLgpSkTXqrFRkdOcMNArR) | [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Dj Dudu Coupper](https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az) | [Eu & Elas](https://open.spotify.com/album/4FZ4coUA02edFdEP8qUFE6) | 2:10 |
 | 42 | [Olha Bebê](https://open.spotify.com/track/3MieTvQzwXlljej28RVFmC) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Mete Mac Vol 1](https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er) | 3:44 |
 | 43 | [Rompe](https://open.spotify.com/track/5ay5pvM8CuZTsbrr0wfxRH) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [PK Delas](https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3), [Dj Alle da coro](https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x) | [Rompe](https://open.spotify.com/album/283BKOpijdldRWEsKOfAmT) | 2:33 |
-| 44 | [Avenida Brasil](https://open.spotify.com/track/7eIfnbitmJPHXbSeyjzVlC) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 2:50 |
-| 45 | [Phone](https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Phone](https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL) | 2:46 |
-| 46 | [Toma Cuidado pra Não Se Apegar](https://open.spotify.com/track/391W14a84cUzNFL2lOwvzZ) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv), [Dj Nattan](https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL) | [Baile da Dona Onça](https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey) | 1:39 |
-| 47 | [Balança Dona Onça](https://open.spotify.com/track/7wRB9osEiwoJQtttVmpDmm) | [Gu Original](https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Balança Dona Onça](https://open.spotify.com/album/37Lo8SM4fMpdXXliNW4d3H) | 3:24 |
-| 48 | [Lonely](https://open.spotify.com/track/5EqsaI4AK0lij7cfXrgcqU) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C), [Tchouzen](https://open.spotify.com/artist/7HVh9B5Q2bjs0FnS0yZMQq) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 3:14 |
-| 49 | [Mama](https://open.spotify.com/track/61znzBhqg2HpuK1aMckMi4) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Mama](https://open.spotify.com/album/4xOsFV0RqRz4SJq2fkwge6) | 2:10 |
+| 44 | [Phone](https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Phone](https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL) | 2:46 |
+| 45 | [Lonely](https://open.spotify.com/track/5EqsaI4AK0lij7cfXrgcqU) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C), [Tchouzen](https://open.spotify.com/artist/7HVh9B5Q2bjs0FnS0yZMQq) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 3:14 |
+| 46 | [Balança Dona Onça](https://open.spotify.com/track/7wRB9osEiwoJQtttVmpDmm) | [Gu Original](https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Balança Dona Onça](https://open.spotify.com/album/37Lo8SM4fMpdXXliNW4d3H) | 3:24 |
+| 47 | [Toma Cuidado pra Não Se Apegar](https://open.spotify.com/track/391W14a84cUzNFL2lOwvzZ) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv), [Dj Nattan](https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL) | [Baile da Dona Onça](https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey) | 1:39 |
+| 48 | [Mama](https://open.spotify.com/track/61znzBhqg2HpuK1aMckMi4) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Mama](https://open.spotify.com/album/4xOsFV0RqRz4SJq2fkwge6) | 2:10 |
+| 49 | [Avenida Brasil](https://open.spotify.com/track/7eIfnbitmJPHXbSeyjzVlC) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 2:50 |
 | 50 | [Para de Brincar Comigo](https://open.spotify.com/track/1XU61okRaI9UxMB3z2O2GQ) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Mete Mac Vol 1](https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er) | 1:56 |
 
-Snapshot ID: `aFs8AAAAAAAt34ZK/4TDFnGMXQ1MY45B`
+Snapshot ID: `aFyNgAAAAADgGgJJiSCmfiGAOuiDOJpV`

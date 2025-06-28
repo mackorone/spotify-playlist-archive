@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\. Photo: JF Pauzé
 
-168 songs - 9 hr 2 min
+170 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,10 +25,11 @@
 | [C'est pire et c'est mieux](https://open.spotify.com/track/2nQSmjPsB6EmGUSTGf5AlF) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8), [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [C'est pire et c'est mieux](https://open.spotify.com/album/1gs9QEyRSZHgDr3edcKzD8) | 3:16 | 2024-06-28 | 2025-04-26 |
 | [C'était salement romantique \- Reprise](https://open.spotify.com/track/6gdBIxmojnm85w2VpFcP8p) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [C'était salement romantique \(Reprise\)](https://open.spotify.com/album/2RyqxGld3TAwD7iv0RNMRM) | 3:08 | 2024-06-28 | 2024-09-28 |
 | [Caroline](https://open.spotify.com/track/4j12U6gGJEFTubkBPGU95l) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Caroline](https://open.spotify.com/album/1OV6TDTQOfIqR0rfFx9s4p) | 2:42 | 2025-02-07 | 2025-03-15 |
-| [Cavale](https://open.spotify.com/track/4uuJfZByuwD0ePKqQVozQY) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Cavale](https://open.spotify.com/album/7zzOJDLD3vAL3tP8pQaJu3) | 3:43 | 2025-04-11 |  |
+| [Cavale](https://open.spotify.com/track/4uuJfZByuwD0ePKqQVozQY) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Cavale](https://open.spotify.com/album/7zzOJDLD3vAL3tP8pQaJu3) | 3:43 | 2025-04-11 | 2025-06-28 |
 | [Chance](https://open.spotify.com/track/6WnqfeV1QsQjrDSRmdv16Q) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Chance](https://open.spotify.com/album/7vXh4lUacVjLfxdfmyHz1K) | 3:27 | 2024-06-28 | 2024-08-31 |
 | [Chaotique](https://open.spotify.com/track/5FK2YmzIrzkUIXxuidkXkS) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [Crève\-Coeur](https://open.spotify.com/album/2AUEiDEgNGvJBquq61suDN) | 3:14 | 2025-03-21 |  |
 | [Chasing Sunsets \(V.F\)](https://open.spotify.com/track/4XGom6Qy5JpWqsjALQMDve) | [Blue Ridge Band](https://open.spotify.com/artist/2yE8COtZJKf4SgSNz3wW6u) | [Chasing Sunsets \(V.F\)](https://open.spotify.com/album/44t8sMpi3uiGbK7E9z22tu) | 3:06 | 2024-06-28 | 2024-11-16 |
+| [Château de sable](https://open.spotify.com/track/4c9YqPthFT6LIFSQehoZre) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Château de sable](https://open.spotify.com/album/1mhXgb3EuFPMO58Pv3K4d2) | 3:18 | 2025-06-27 |  |
 | [Coffee](https://open.spotify.com/track/4ZXYe1nSGi6sxutBi1xApf) | [Fuso](https://open.spotify.com/artist/3LYl9B0Gfmz00OwCTKCkCh), [Dub Silence](https://open.spotify.com/artist/3Z78MYUojWImmYmQgadcsr), [Adamo](https://open.spotify.com/artist/3FOto5lv6R7HS5DjsfxEqW) | [Leela](https://open.spotify.com/album/7yLXm3F5E50rIqAiqsRKZi) | 2:47 | 2024-07-26 |  |
 | [Comme Avant](https://open.spotify.com/track/0u8VoI8F0JIL2Oq240vWuV) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Comme Avant](https://open.spotify.com/album/102GkrErk0tQ4aqUOayWtg) | 2:26 | 2024-06-28 | 2024-08-17 |
 | [Comme la mer](https://open.spotify.com/track/43OJDSAjDYdKthKMgwYVWS) | [Alex Nevsky](https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc), [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Comme la mer](https://open.spotify.com/album/7HnS12GwTNp8WDo48ZkiV8) | 4:14 | 2025-01-10 | 2025-02-08 |
@@ -95,7 +96,7 @@
 | [Le ciel où je me terre](https://open.spotify.com/track/4VqutfvLnQYhNn9rPWZ67J) | [Alexandre Poulin](https://open.spotify.com/artist/5ILOB9Q4xiPUxzo2tYwxQy) | [La somme des êtres aimés](https://open.spotify.com/album/0eIFLsN3C2p8uYfrGIah1Z) | 3:16 | 2024-06-28 | 2025-01-11 |
 | [Le coeur est un rêveur](https://open.spotify.com/track/0lBWxriZL930NGp1hLsaOM) | [Marie\-Annick Lepine](https://open.spotify.com/artist/6X0xLOYFVNmRVbKM7t46X3) | [Le coeur est un rêveur](https://open.spotify.com/album/2vhfJbQ3Oxf8en4v2ENgGW) | 3:10 | 2025-03-14 |  |
 | [Le goût des mangues](https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le goût des mangues](https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK) | 2:12 | 2024-10-11 |  |
-| [Le grand défi](https://open.spotify.com/track/3ec6Motizvu2yJ6jrE6Bxc) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [L'Île](https://open.spotify.com/album/2iIdujFNCekpvcm8AwJkfy) | 3:04 | 2024-06-28 |  |
+| [Le grand défi](https://open.spotify.com/track/3ec6Motizvu2yJ6jrE6Bxc) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [L'Île](https://open.spotify.com/album/2iIdujFNCekpvcm8AwJkfy) | 3:04 | 2024-06-28 | 2025-06-28 |
 | [Le monde est fou](https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Le monde est fou](https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6) | 4:04 | 2024-06-28 | 2024-08-31 |
 | [Le poids](https://open.spotify.com/track/2q52DuDG1eGxriSt0wggM2) | [Jeanne Côté](https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7) | [Le poids](https://open.spotify.com/album/2UBIOGwKcj4bs8yoMla62U) | 3:14 | 2024-11-15 | 2025-01-25 |
 | [Le reste du temps](https://open.spotify.com/track/3W5N7Yzq14iQ3Zxy1gJPM7) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [Le reste du temps](https://open.spotify.com/album/6mQG6GKJVdB70oYwl60Yzw) | 3:28 | 2024-06-28 | 2025-04-05 |
@@ -167,6 +168,7 @@
 | [Tu me fais tout oublier](https://open.spotify.com/track/2UHi3EPI2wCoFqFlSnYOTD) | [Joseph Edgar](https://open.spotify.com/artist/0hVqrbvEPj0tPpkOj9zFyD) | [Tu me fais tout oublier](https://open.spotify.com/album/5WOGYVyxjylKAE3paniOA8) | 3:18 | 2024-06-28 | 2024-09-21 |
 | [Un peu trop](https://open.spotify.com/track/0lqVTiEJlebBVu6EFl8V0r) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Une semaine à Paris](https://open.spotify.com/album/3O7RvFFEcxYUrXy49GqDCl) | 2:34 | 2024-06-28 |  |
 | [Une bouteille à la mer](https://open.spotify.com/track/5RAOn9UuZ1mHdh8eZBtnIh) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Submergé](https://open.spotify.com/album/1VFQdOkNGpV8kYZ9xESRv4) | 2:22 | 2024-06-28 | 2025-03-29 |
+| [Une rose à la fois](https://open.spotify.com/track/7ARU11M9zMJyCnF9FMXeNS) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB), [Léa Jarry](https://open.spotify.com/artist/4J8nCSHWHbf4a5YUkRy9Da), [Trudy](https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS) | [Une rose à la fois](https://open.spotify.com/album/3WUGE3swUliiYftlv4mWaq) | 3:03 | 2025-06-27 |  |
 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/4GgQWuxZL8qbZUHHA0wWuI) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP) | 3:58 | 2024-06-28 | 2025-04-12 |
 | [Vol à l'étalage](https://open.spotify.com/track/6g7nJF5VdDBAO2yAT4KN4V) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Présence d'esprit](https://open.spotify.com/album/2l642fbBnGoi2872LHn9Yl) | 3:28 | 2024-06-28 | 2025-02-15 |
 | [Voler](https://open.spotify.com/track/3eXDWw4syMm0zpacdBW8E6) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Voler](https://open.spotify.com/album/1m2dG1nPEixPOa8kAnPhEU) | 3:50 | 2024-08-30 | 2024-10-05 |

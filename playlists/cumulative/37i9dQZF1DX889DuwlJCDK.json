@@ -9882,7 +9882,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 211000,
       "name": "\u3044\u3073\u3064\u306a\u611b\u3067\u3059\u304c",
       "url": "https://open.spotify.com/track/7yRD3phQHFDVrkr9UVy7xn"
@@ -11988,7 +11988,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 210258,
       "name": "\u30ad\u30df\u306b\u4f3c\u5408\u3046\u30ef\u30bf\u30b7",
       "url": "https://open.spotify.com/track/2xrSxmUs0hCpUwrb9SKtXO"
@@ -19105,6 +19105,24 @@
     },
     {
       "album": {
+        "name": "\u672a\u5b8c\u6210\u306b\u77ac\u3044\u3066",
+        "url": "https://open.spotify.com/album/6mfn5VZJ7MVTLnCz2FKHsF"
+      },
+      "artists": [
+        {
+          "name": "Oisicle Melonpan",
+          "url": "https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "\u672a\u5b8c\u6210\u306b\u77ac\u3044\u3066",
+      "url": "https://open.spotify.com/track/3ECQagtUNR0W8EA05eX3VC"
+    },
+    {
+      "album": {
         "name": "\u672a\u604b",
         "url": "https://open.spotify.com/album/4QhL2RqwlVwJy8S8hQJ7LA"
       },
@@ -21352,6 +21370,24 @@
       "duration_ms": 212061,
       "name": "\u967d\u3060\u307e\u308a",
       "url": "https://open.spotify.com/track/4GG9PT6VNrQG9qDv5Ol8zY"
+    },
+    {
+      "album": {
+        "name": "\u96e8\u306b\u6253\u305f\u308c\u3066",
+        "url": "https://open.spotify.com/album/7FnpL2blQQRVKEIiY8gC7c"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198833,
+      "name": "\u96e8\u306b\u6253\u305f\u308c\u3066",
+      "url": "https://open.spotify.com/track/55HMKYZOKMYc58naFdvCMc"
     },
     {
       "album": {

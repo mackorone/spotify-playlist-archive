@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 111972,
+  "num_followers": 112012,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Wilco (The Album)",
-        "url": "https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 205240,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "Hospice",
         "url": "https://open.spotify.com/album/6fFp2F91noBeodV88bRwTD"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 311240,
       "name": "Kettering",
       "url": "https://open.spotify.com/track/453spNn4mGdYErYt3rGhSX"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "Wilco (The Album)",
+        "url": "https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 205240,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Time (The Revelator)",
-        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Everything Is Free",
-      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "When the Devil's Loose",
         "url": "https://open.spotify.com/album/3mUX3hUieJOQxmaJLWTuwq"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 227280,
       "name": "Mightiest of Guns",
       "url": "https://open.spotify.com/track/0JIx11Ysmmmy0VnV0KwP19"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "Time (The Revelator)",
+        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Everything Is Free",
+      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
     },
     {
       "added_at": "2024-03-25 16:58:35",

@@ -2,9 +2,9 @@
 
 ### [Keşif](https://open.spotify.com/playlist/37i9dQZF1DX9EWkqxS1pO0)
 
-> Yeni favori sanatçını keşfet ⚡ Kapak: KAOL
+> Yeni favori sanatçını keşfet ⚡ Kapak: Kayra Kayan
 
-250 songs - 12 hr 35 min
+252 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [DARLAMA](https://open.spotify.com/track/6SiUwgomHycRQBI9mErDOt) | [Buse Ayla](https://open.spotify.com/artist/59FSDgp7VBJnjaGk4m6Ud4) | [DARLAMA](https://open.spotify.com/album/0hV9m4BBDuBwfsFLJELzqy) | 1:34 | 2024-11-14 | 2025-01-10 |
 | [Darmadağın](https://open.spotify.com/track/41Soas1GsGbNEXixYr5rti) | [Soner Han](https://open.spotify.com/artist/6rwdqGbhoOisi9wCeLKJs8) | [Darmadağın](https://open.spotify.com/album/2ByV4cYdJ85sAbkveDpwwK) | 4:02 | 2025-01-23 | 2025-02-17 |
 | [Davet](https://open.spotify.com/track/6fXHnrfJqw3duhbf0PvrG0) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Davet](https://open.spotify.com/album/6C4En9YDneqoA0hECVCnXx) | 2:32 | 2024-06-20 |  |
+| [DELİKANLI](https://open.spotify.com/track/0hOig8ipH6xHU7ui9yXQGv) | [Kayra Kayan](https://open.spotify.com/artist/4yJY7VgA3Ztk5H5oPiXzPE) | [DELİKANLI](https://open.spotify.com/album/5j7qti2Qs9hmqSKMEbIlKq) | 2:43 | 2025-06-27 |  |
 | [DENEDİM](https://open.spotify.com/track/3tU7TL9iW0U8MfBD3IyuCa) | [Turgut Çıngı](https://open.spotify.com/artist/35YhU76tb48fqmNxu2dZ1W) | [DENEDİM](https://open.spotify.com/album/6i8NNzjPrEXAHcBpeZ0KvB) | 3:09 | 2024-11-28 | 2025-02-09 |
 | [Denerim](https://open.spotify.com/track/2SSA0UN1VcHakUXH4JPqzS) | [KAOL](https://open.spotify.com/artist/1boFLjOE17z2zp7BtHLB3v) | [Denerim](https://open.spotify.com/album/2rTW4ASwjLM8D17NcbrcYH) | 4:42 | 2025-05-29 |  |
 | [DOLDUR](https://open.spotify.com/track/62KVbuzhWZBUiq3737T4hz) | [Yase](https://open.spotify.com/artist/54o2CbLdMsh6SR8hufrQiA) | [DOLDUR](https://open.spotify.com/album/1ZyrVQgSBTV19FxOlOM1By) | 2:42 | 2024-06-20 | 2024-09-06 |
@@ -176,7 +177,7 @@
 | [Sonbahar](https://open.spotify.com/track/01ATofuZVa1yja9i9LCa6a) | [Kaan Küçük](https://open.spotify.com/artist/3Mx4MlGjcoi50i0yLsQ3lZ) | [Sonbahar](https://open.spotify.com/album/2F5Ezf5vY94JUKvoW7J2g1) | 2:57 | 2024-11-28 | 2025-05-11 |
 | [Sonbahar](https://open.spotify.com/track/5LcF9VX52fYgOWvkkF91Hc) | [Yasemin Rosa](https://open.spotify.com/artist/1zrc2YgiwtHNcgmuYkThkB) | [Beşer](https://open.spotify.com/album/2KoA1TjuegruChoecNXGWV) | 2:31 | 2025-03-20 | 2025-05-16 |
 | [Sonu Gelmesin](https://open.spotify.com/track/5gy0tymPj3IxNgLeOMxKUc) | [Okyanus Caddesi](https://open.spotify.com/artist/23rss6kqqXejwS6klTb49G) | [Sonu Gelmesin](https://open.spotify.com/album/2nNf7el3Hbz0EKg2nSeEfj) | 2:57 | 2024-06-20 | 2024-09-16 |
-| [Sonumu Bile Bile](https://open.spotify.com/track/3ZGgkyCgxd0UqSIgrQqlVS) | [Mertkan Erkan](https://open.spotify.com/artist/13lsQbnSpalOoAq3AbDwec) | [Sonumu Bile Bile](https://open.spotify.com/album/6BTDX0BA3yEbL3qtSnBpaW) | 3:29 | 2025-01-09 |  |
+| [Sonumu Bile Bile](https://open.spotify.com/track/3ZGgkyCgxd0UqSIgrQqlVS) | [Mertkan Erkan](https://open.spotify.com/artist/13lsQbnSpalOoAq3AbDwec) | [Sonumu Bile Bile](https://open.spotify.com/album/6BTDX0BA3yEbL3qtSnBpaW) | 3:29 | 2025-01-09 | 2025-06-28 |
 | [Sorma](https://open.spotify.com/track/1t5QrgICG308reHk4Ohm7N) | [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [Sorma](https://open.spotify.com/album/4O003iwIM20pmtKKJQ55Pr) | 3:54 | 2024-06-20 |  |
 | [Sosyopat Gülümseme](https://open.spotify.com/track/4WfafErZGjPuVBIEPAVlhS) | [Sla](https://open.spotify.com/artist/24STYbqPydEIyXy8ys6VWB) | [Sosyopat Gülümseme](https://open.spotify.com/album/6UZji7bUoCv3137UqlD7cY) | 2:41 | 2024-07-12 | 2024-09-28 |
 | [SPIDERMAN \[JUKED\]](https://open.spotify.com/track/5YfnpTyup77ymJp02UX9ji) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH), [Valfi](https://open.spotify.com/artist/36UGIRe1bc27QQnLgym03q) | [Parti Devam Etsin!](https://open.spotify.com/album/3NWNOwZxBUYT5nrvkbDroj) | 2:31 | 2024-12-19 | 2025-01-10 |
@@ -212,6 +213,7 @@
 | [YANGIN](https://open.spotify.com/track/6HZLaC77dliSiengA0TUcd) | [Aleyna Kalaycıoğlu](https://open.spotify.com/artist/3TKB1G75mSojFCZPks5KGJ) | [YANGIN](https://open.spotify.com/album/7CnFy0ArSpItDMwNsx2eIp) | 2:18 | 2024-06-20 |  |
 | [Yanımda Ol](https://open.spotify.com/track/5Ycw6Hh1IKdEyumGBVS5Y9) | [Alba](https://open.spotify.com/artist/3gT9Z8pVuqk2Rvl52J5W71), [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa) | [Yanımda Ol](https://open.spotify.com/album/6TSwhuFNoVRe0LyqFLG24K) | 2:38 | 2025-04-18 | 2025-05-16 |
 | [Yanına Kalacak](https://open.spotify.com/track/15SRcNq7zHuWBkpKW7g4QG) | [Giz](https://open.spotify.com/artist/4xHMxTG1wa06uHMezG7Hfs) | [Yanına Kalacak](https://open.spotify.com/album/3hsM2OqlYqzDVjtX4rX8AU) | 2:22 | 2024-06-20 | 2024-09-06 |
+| [Yaralandım](https://open.spotify.com/track/4tqwM1FL62VTO1gPZe8h8B) | [Kadir Ceyhan](https://open.spotify.com/artist/5kThLVzZzoYJMKKSO5G7Ph) | [Yaralandım](https://open.spotify.com/album/3luIitSJNd1AChtKHlYPBj) | 3:12 | 2025-06-27 |  |
 | [Yaram Açık](https://open.spotify.com/track/2SWPa82N1YTA9wiZh3iB4j) | [KARDELEN](https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms) | [Yaram Açık](https://open.spotify.com/album/2FBMHsdF9ULNE8sl7hPbbu) | 3:25 | 2024-08-08 | 2024-10-17 |
 | [Yardım Et](https://open.spotify.com/track/5MaSC11m8OwbLE4cyv8vAf) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj) | [Yardım Et](https://open.spotify.com/album/0Di7jwZSFv24OsAUoa2U6M) | 2:36 | 2025-05-15 |  |
 | [Yarım Kaldım](https://open.spotify.com/track/0FQ4tIQYqMcGK68vEwHyvM) | [Uzak Mesafe](https://open.spotify.com/artist/3ZXkUz93SrRufiCgdIVODL) | [Yarım Kaldım](https://open.spotify.com/album/77uiYMQQmmgmfi4KZxOPny) | 2:35 | 2024-09-05 | 2024-09-10 |
@@ -244,7 +246,7 @@
 | [Çaldırıyorum](https://open.spotify.com/track/2U0Y2KIn2rFs3fcGChjIIn) | [Svetla](https://open.spotify.com/artist/7c4wBJjv08RnyqiEhnWNhK) | [Çaldırıyorum](https://open.spotify.com/album/6y00mpmSoO7H6wA8qCO0Mn) | 3:13 | 2025-05-01 |  |
 | [Çat Çat](https://open.spotify.com/track/5cMW9WejBXKp4pxIEekGwt) | [Emre Şakar](https://open.spotify.com/artist/0rdwmnIhNkunUZvqAIU0Kh) | [Çat Çat](https://open.spotify.com/album/2Ruv8SwIDwzCVTm4PmC9UT) | 2:01 | 2024-08-01 | 2024-09-06 |
 | [ÇATAPAT](https://open.spotify.com/track/6V6efRzijn61AYQCEAd6TZ) | [aisu](https://open.spotify.com/artist/6WCTGeTYQ71cApZr34u4er) | [ÇATAPAT](https://open.spotify.com/album/6pdkNZvWbVb908zfH3AynF) | 2:11 | 2024-06-20 | 2024-08-09 |
-| [Çocuk](https://open.spotify.com/track/3IKHQ0NqE18OkM283gMR6b) | [Geceyi Kurtar](https://open.spotify.com/artist/1zIb6ucwFl2fiewnPQNE5f) | [Çocuk](https://open.spotify.com/album/0p5Cf4TpLiRgJDhMXqJYgO) | 3:52 | 2025-03-06 |  |
+| [Çocuk](https://open.spotify.com/track/3IKHQ0NqE18OkM283gMR6b) | [Geceyi Kurtar](https://open.spotify.com/artist/1zIb6ucwFl2fiewnPQNE5f) | [Çocuk](https://open.spotify.com/album/0p5Cf4TpLiRgJDhMXqJYgO) | 3:52 | 2025-03-06 | 2025-06-28 |
 | [Çok Sevdim](https://open.spotify.com/track/13n0yHb4lidng6qEkLASaP) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Çok Sevdim](https://open.spotify.com/album/5eyMBgyFcS8Ji46F6Kg5RH) | 2:54 | 2024-09-05 |  |
 | [çok zor](https://open.spotify.com/track/3Y6y88sc61ZSciTpyBiIAv) | [FEM](https://open.spotify.com/artist/43bCw3UGd9GkTQqlPganbd) | [çok zor](https://open.spotify.com/album/5wfdpXP7VUi714AfOTJBVB) | 2:27 | 2025-02-13 | 2025-03-07 |
 | [Çorba](https://open.spotify.com/track/5ewUwzoIdPI3GYyMdoaOeW) | [Tutku](https://open.spotify.com/artist/5hgO3u5FjBwpPJZFP8W7DX) | [Çorba](https://open.spotify.com/album/5vBmUAFkcCD4eyIeKUSln8) | 2:46 | 2025-01-16 | 2025-04-21 |

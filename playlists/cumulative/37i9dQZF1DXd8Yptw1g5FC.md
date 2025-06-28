@@ -4,7 +4,7 @@
 
 > Norm Ender x Ebru Gündeş ve haftanın en iyi çıkışları!
 
-1,839 songs - 3 day 21 hr 7 min
+1,843 songs - 3 day 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -794,6 +794,7 @@
 | [Into My Arms](https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Covers](https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su) | 4:35 | 2025-06-12 | 2025-06-20 |
 | [Introvert](https://open.spotify.com/track/5KVnzbHXkH5W1JwsjIujt4) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Introvert](https://open.spotify.com/album/1HEhCpDkBkr9BC5slicbGq) | 2:15 | 2025-05-22 | 2025-05-30 |
 | [Invincible \- from Kaiju No\. 8](https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Invincible \(from Kaiju No\. 8\)](https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p) | 2:35 | 2025-04-17 | 2025-04-25 |
+| [IRL \(FEAT\. SZA\)](https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:44 | 2025-06-26 |  |
 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 | 2025-04-24 | 2025-05-02 |
 | [Issız Duvarlar](https://open.spotify.com/track/1nSJoh7pPSHkMX8pXGE33H) | [Aleyna Kalaycıoğlu](https://open.spotify.com/artist/3TKB1G75mSojFCZPks5KGJ) | [Issız Duvarlar](https://open.spotify.com/album/6zyInuDlsBKGYXwK5IhpR9) | 2:59 | 2025-05-29 | 2025-06-06 |
 | [ISTANBUL](https://open.spotify.com/track/6WHKJWg3Q3qCdaAegmvUOx) | [Ogiboyz](https://open.spotify.com/artist/6PZVRSkk0MYKjww6d5Kmq4) | [ISTANBUL](https://open.spotify.com/album/30CjRGKJOX0W0mf7ywx99E) | 2:23 | 2025-05-29 | 2025-06-06 |
@@ -1094,6 +1095,7 @@
 | [My Heart Goes \(feat\. Oaks\)](https://open.spotify.com/track/5w3RgZoLVUp2jKONPZ2JVe) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [My Heart Goes \(feat\. Oaks\)](https://open.spotify.com/album/4ldeQvtnsa2PrA1ergNyMS) | 2:13 | 2025-02-20 | 2025-02-28 |
 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-04-24 | 2025-05-02 |
 | [Müsaadenle Gidicem](https://open.spotify.com/track/2Ae2BtoOlaH1bYmwuFkfI7) | [Gökçe](https://open.spotify.com/artist/6EkoCL5oWSht8mekRNBWAn) | [Müsaadenle Gidicem](https://open.spotify.com/album/07PLkFP4ciiGvBRtI95ZQ2) | 3:16 | 2025-04-24 | 2025-05-02 |
+| [Müsadenle](https://open.spotify.com/track/1c3nsw2wpc07B8tf1skOa6) | [Taylan Kaya](https://open.spotify.com/artist/10icwsz4H9wgQsw0PLklWh) | [Müsadenle](https://open.spotify.com/album/3Prr1m7ivVPHb0qemxzB8H) | 3:00 | 2025-06-26 |  |
 | [Müzeyyen Gibi](https://open.spotify.com/track/3D4vjfDXBqWjhqxCSqS55N) | [VAYT](https://open.spotify.com/artist/6KsFwZYaFE0jLzAD4Toasv) | [Müzeyyen Gibi](https://open.spotify.com/album/3AnXdSGV78qDvR5iiEVHh8) | 2:50 | 2025-06-26 |  |
 | [Mırrmırr](https://open.spotify.com/track/0y0Cpis5Eh9hL7VTgjxBEL) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Mırrmırr](https://open.spotify.com/album/1sBfOMc35HEQ4epGYWwR7n) | 2:58 | 2025-03-06 | 2025-03-14 |
 | [N'ICE](https://open.spotify.com/track/4gbHbXpkFvrk3bQi5rUt5C) | [Berkay Duman](https://open.spotify.com/artist/797U4xKy4p5Vi8vpWzJRD6), [MN 696](https://open.spotify.com/artist/1Rgk502OnPhqpih4scoJWE), [Groza](https://open.spotify.com/artist/4vexLDbfehpgMFreLkeatb) | [N'ICE](https://open.spotify.com/album/3R8VmB96rbnfyDhIcGXU3M) | 3:00 | 2025-03-13 | 2025-03-21 |
@@ -1177,6 +1179,7 @@
 | [Olsun](https://open.spotify.com/track/3SuKK80WPGlN7S5xhDsLYO) | [Erdal Toprak](https://open.spotify.com/artist/4bAps3o4FKhgEplEbh3CUe), [Toprak Kardeşler](https://open.spotify.com/artist/6Y9NrUEStneJ7sGWE0gy5N) | [Olsun](https://open.spotify.com/album/1N4znOYtV44s7oyMIFANOW) | 2:34 | 2025-04-10 | 2025-04-18 |
 | [Olurum Beter](https://open.spotify.com/track/48cCrX9cc2Ho6k1p7ER3EO) | [Konuya Fransız](https://open.spotify.com/artist/2qyTHYcgc74oHaow97ZKhx) | [Olurum Beter](https://open.spotify.com/album/2rmS7QauXVwaUbqu2W7pSU) | 2:27 | 2025-02-27 | 2025-03-07 |
 | [OMG! \(From F1® The Movie\)](https://open.spotify.com/track/2TuVErkUG3BdQR0dsbtakg) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [OMG! \(From F1® The Movie\)](https://open.spotify.com/album/1Tvjx0HSnZx85wmtnDXVsP) | 2:32 | 2025-06-05 | 2025-06-13 |
+| [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 | 2025-06-26 |  |
 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 | 2025-05-15 | 2025-05-23 |
 | [Only Friends](https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Only Friends](https://open.spotify.com/album/02Ood2KFnCMgpQY6SCL9YC) | 2:38 | 2025-03-13 | 2025-03-21 |
 | [Onu Yokladım](https://open.spotify.com/track/2RIZ4FGUGPoqHYuHl75iWM) | [MERMI](https://open.spotify.com/artist/5l4WodS45CeKjb6ciK0X86) | [Onu Yokladım](https://open.spotify.com/album/2L3IfDMrHGozgSMa6AyXNX) | 2:29 | 2025-04-03 | 2025-04-11 |
@@ -1634,6 +1637,7 @@
 | [Yalancı Gözler](https://open.spotify.com/track/3tEgLOmPya7V050NybXCjA) | [Bahadır Macit](https://open.spotify.com/artist/0FL1jGhozSxbhJoOt7uacc) | [Yalancı Gözler](https://open.spotify.com/album/4bX0r21ucCpRfuTmN7sNOk) | 2:32 | 2025-02-20 | 2025-02-28 |
 | [Yalanları Denerim](https://open.spotify.com/track/4822uBWkD7STRqIy2qSMV3) | [Lilith](https://open.spotify.com/artist/2UHXcs8UiRaiY2CKv3TdA3) | [Yalanları Denerim](https://open.spotify.com/album/0w0uRjDoSmGUT5TOrZT9ye) | 2:03 | 2025-03-20 | 2025-03-28 |
 | [YALLAH](https://open.spotify.com/track/1U8Newv67hFhZZ7xd7Fc48) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [YALLAH](https://open.spotify.com/album/1V5sc9AiPS5J9SYV88ufXf) | 2:42 | 2025-05-22 | 2025-05-30 |
+| [YALNIZ](https://open.spotify.com/track/0FI6CX5I63oaT8QkCEVhQX) | [sulga](https://open.spotify.com/artist/7K0GBIDPHPMedkpIFl6tOr), [ocean](https://open.spotify.com/artist/0eXg4eqYgvsZTAdUQK4cXk), [tunedbugra](https://open.spotify.com/artist/2YQG6Cdm1MSCbB31Z0cUfB) | [YALNIZ](https://open.spotify.com/album/6815qE3p7jEmbnCjeP6rP2) | 3:20 | 2025-06-27 |  |
 | [Yalnız Kalmak](https://open.spotify.com/track/4PTzzCOLi2SsYtiVlker60) | [Şirin Soysal](https://open.spotify.com/artist/0cQSDs28d2xyeYFEjrk5X9) | [Yalnız Kalmak](https://open.spotify.com/album/2cg5zQvZHRGlPZH4vSe4MN) | 4:04 | 2025-02-20 | 2025-02-28 |
 | [Yalnız Odalar](https://open.spotify.com/track/5RYvy7nM6Wg0VpRjY23H1d) | [Bahar Sönmez](https://open.spotify.com/artist/520KKfuqZPd2NsljBhWL5H) | [Yalnız Odalar](https://open.spotify.com/album/6CQaCjOZWDEPopCwUJ8Ti6) | 3:57 | 2025-03-20 | 2025-03-28 |
 | [Yalnız Olmam](https://open.spotify.com/track/2m7vxlH5HjXN9VlMHQynXw) | [KANSU](https://open.spotify.com/artist/7AIRm3U8ME5GufkEis66r7) | [Yalnız Olmam](https://open.spotify.com/album/7tCmC88xHFCwIZRb7BVK6i) | 2:11 | 2025-06-19 | 2025-06-27 |

@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Watchhouse
 
-813 songs - 2 day 2 hr 4 min
+814 songs - 2 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,6 +630,7 @@
 | [Something More Than Love](https://open.spotify.com/track/5TyRTaciFtVQE4wXwBnIpw) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Something More Than Love](https://open.spotify.com/album/3hih4g7LudeBQyzuZZBHrs) | 3:07 | 2022-07-22 | 2023-04-15 |
 | [Something More Than Love](https://open.spotify.com/track/62uE20DHjkaVqOnhCJWHRT) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [What Is This Body?](https://open.spotify.com/album/1GJZX5zkis6BCJgC4xBzdY) | 3:07 | 2022-10-28 | 2022-11-13 |
 | [Something We Regret](https://open.spotify.com/track/6HgVhL2FZiA2dSd6pyK3Uc) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Something We Regret](https://open.spotify.com/album/0w8odPTzOWgbwF0sYmtzri) | 2:51 | 2024-12-13 |  |
+| [Sometime Thang](https://open.spotify.com/track/23iNdC6KxV0aDa19LSBgWy) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Sometime Thang](https://open.spotify.com/album/0FchJ5DSrJNPDStoENVB0K) | 3:57 | 2025-06-27 |  |
 | [Soul Sweet Song](https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Soul Sweet Song](https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud) | 3:55 | 2022-09-09 | 2025-05-10 |
 | [South Dakota Wild One](https://open.spotify.com/track/0BJlcD5MNOzlHZr4IeFGnj) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1), [Riley Downing](https://open.spotify.com/artist/1CUUaD4QTSHjEfrLohLaW6) | [South Dakota Wild One](https://open.spotify.com/album/4YjegqlMlr5K8fFIyvPEBV) | 3:23 | 2022-04-15 | 2023-03-25 |
 | [South Texas Lawman](https://open.spotify.com/track/44avd0Bq64BRg7dTGY3xKK) | [James McMurtry](https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH) | [The Black Dog and the Wandering Boy](https://open.spotify.com/album/2D2I9HaR4du9KFVTvMEuGh) | 5:08 | 2025-06-20 |  |

@@ -4,7 +4,7 @@
 
 > The best in new rock\. Cover: Muse
 
-389 songs - 22 hr 49 min
+390 songs - 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Aerodynamic](https://open.spotify.com/track/3vPJI4YMeXCypIbDwka9gG) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Phantom Island](https://open.spotify.com/album/3koVdFrXznL2PQ8WxTYjt7) | 4:46 | 2025-06-12 |  |
 | [Afterlife \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Afterlife \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY) | 4:09 | 2025-03-27 |  |
 | [Ahead Of Myself](https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/4476oK9dDwXluywz166CT1) | 3:44 | 2024-07-11 | 2024-10-25 |
+| [Ain’t For The Faint](https://open.spotify.com/track/6SQuxwoBbp8DlAUStjJ5vB) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Top Heavy](https://open.spotify.com/album/3rUIQo9YmO0tgg7X0tT0TT) | 3:23 | 2025-06-26 |  |
 | [Alfie](https://open.spotify.com/track/16JaagIYYfUYHaJUEQPnE2) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [Alfie](https://open.spotify.com/album/3DiI2BURC83sNETpWmWch6) | 3:40 | 2025-05-15 |  |
 | [Alive](https://open.spotify.com/track/50FZC0TxQwpitGlQIufSfQ) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [L.A\. Times](https://open.spotify.com/album/7wYyR1xrLO0uWxBlanysNT) | 2:48 | 2024-07-11 | 2024-11-22 |
 | [All](https://open.spotify.com/track/4ma7pLckA3BHTb2STtAMrc) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [All](https://open.spotify.com/album/708D6WkdNPfM91oo4dbZWp) | 4:18 | 2024-08-08 | 2025-01-17 |
@@ -34,7 +35,7 @@
 | [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 | 2025-01-23 |  |
 | [Aunque duela](https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Aunque duela](https://open.spotify.com/album/2FP6O9rK0nfVaHUBl7OLRl) | 3:06 | 2024-11-21 | 2025-01-17 |
 | [Bad Dreams](https://open.spotify.com/track/03pTYE8KbaLRp29vEKucIV) | [Fool Nelson](https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp) | [Bad Dreams](https://open.spotify.com/album/4GCA7dZvYiZAq38EBsZqgL) | 3:28 | 2025-04-24 |  |
-| [Bag Of Bones](https://open.spotify.com/track/1M2AqYT4Y6X0zRboZgIw8K) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Bag Of Bones](https://open.spotify.com/album/4tWOuqMX9aMpFxvNU1WkYl) | 4:04 | 2025-06-26 |  |
+| [Bag of Bones](https://open.spotify.com/track/1M2AqYT4Y6X0zRboZgIw8K) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Bag of Bones](https://open.spotify.com/album/4tWOuqMX9aMpFxvNU1WkYl) | 4:04 | 2025-06-26 |  |
 | [BALCONY](https://open.spotify.com/track/1FqQNvS76qtUAwj3aore7f) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [BALCONY](https://open.spotify.com/album/0OwTqwcUlQbjVMKe7FvLof) | 3:25 | 2025-04-24 |  |
 | [Ballyhoo](https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Ballyhoo](https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3) | 2:45 | 2025-05-01 |  |
 | [Barracuda](https://open.spotify.com/track/4x9bjONffQde0GHInlLItA) | [Devilskin](https://open.spotify.com/artist/3TIlROeJjCAhax6c000Pcd) | [Barracuda](https://open.spotify.com/album/7AKDiJ63UNXqrtIEaLfvX2) | 4:05 | 2024-04-09 | 2024-08-31 |

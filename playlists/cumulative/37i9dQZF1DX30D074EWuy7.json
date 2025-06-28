@@ -2397,6 +2397,24 @@
     },
     {
       "album": {
+        "name": "Cratere",
+        "url": "https://open.spotify.com/album/1ZohHIxPBGgFYNqWhRK4UD"
+      },
+      "artists": [
+        {
+          "name": "Amalafede",
+          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223874,
+      "name": "Cratere",
+      "url": "https://open.spotify.com/track/3v04PkwVyrgZrnSTbwfDaq"
+    },
+    {
+      "album": {
         "name": "Metafisica per le scimmie",
         "url": "https://open.spotify.com/album/0Uy3oJbPLVQPWmGGMmromk"
       },
@@ -4398,7 +4416,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 269139,
       "name": "How Far Can You Fly? (Ladder) - Original Version",
       "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
@@ -6484,7 +6502,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 184213,
       "name": "Looping",
       "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
@@ -9842,6 +9860,32 @@
       "duration_ms": 175047,
       "name": "Stella del sud",
       "url": "https://open.spotify.com/track/4DkvQdCtKBSPJ8D9O6oP9p"
+    },
+    {
+      "album": {
+        "name": "Hardiscografia vol.1",
+        "url": "https://open.spotify.com/album/34w8E4hV5w9rjvECUrPRzB"
+      },
+      "artists": [
+        {
+          "name": "Bravo, Bravissimo",
+          "url": "https://open.spotify.com/artist/6st78j54gm9fHJfB9ZKdh4"
+        },
+        {
+          "name": "Ombra",
+          "url": "https://open.spotify.com/artist/1GyHIEILIuWwQ5HA5x2BvD"
+        },
+        {
+          "name": "John Vier",
+          "url": "https://open.spotify.com/artist/0P9e8bxMGoq4juGCYDFr3D"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201695,
+      "name": "STUPIDI DUBBI",
+      "url": "https://open.spotify.com/track/6Yp4stZipet2ZeDtVTFKhC"
     },
     {
       "album": {

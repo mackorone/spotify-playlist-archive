@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Faruz Feet en la tarima. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Natanael Cano en la tarima. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -45,6 +45,32 @@
     },
     {
       "album": {
+        "name": "Las Que Escrib\u00ed y Nunca Saqu\u00e9",
+        "url": "https://open.spotify.com/album/3t50kEhxzcLjo1GZNLpjJp"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        },
+        {
+          "name": "King Zoo",
+          "url": "https://open.spotify.com/artist/171953d8wJbRvl2f36uLDd"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "1 Mill\u00f3n",
+      "url": "https://open.spotify.com/track/6IbmCvz3dmnYFNaSV6xMNf"
+    },
+    {
+      "album": {
         "name": "100k Pies",
         "url": "https://open.spotify.com/album/4qjuaPMl32PP0ykVfEGhLu"
       },
@@ -64,6 +90,28 @@
       "duration_ms": 163973,
       "name": "100k Pies",
       "url": "https://open.spotify.com/track/1RxebDqBajjS8vBWWN2ZZK"
+    },
+    {
+      "album": {
+        "name": "2+2",
+        "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198300,
+      "name": "2+2",
+      "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
     },
     {
       "album": {
@@ -2646,7 +2694,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 191162,
       "name": "CEVLASHXT",
       "url": "https://open.spotify.com/track/76pWoYZ2NMiE90y6kg83AX"
@@ -5116,7 +5164,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 218200,
       "name": "En Pelotas",
       "url": "https://open.spotify.com/track/3fx2Kgh2B3bc06bntmNfmf"
@@ -9038,7 +9086,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 186666,
       "name": "Me Vale Madre",
       "url": "https://open.spotify.com/track/7KgVW9z3F1pzLRXWo05ADO"
@@ -10763,6 +10811,40 @@
     },
     {
       "album": {
+        "name": "Pa Que Sepan",
+        "url": "https://open.spotify.com/album/7zVtF9DuwtaGFBYIL1ae4K"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        },
+        {
+          "name": "El Primo",
+          "url": "https://open.spotify.com/artist/0NL0BLJ1i5n6askNoLoOb8"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228586,
+      "name": "Pa Que Sepan",
+      "url": "https://open.spotify.com/track/1N0uyVuMLm7qK9h9RPj1Nx"
+    },
+    {
+      "album": {
         "name": "Pa' Que Mami No Llore",
         "url": "https://open.spotify.com/album/3ijLbYP8u0c4R2Vgjlziap"
       },
@@ -11588,7 +11670,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 264000,
       "name": "Por T\u00ed",
       "url": "https://open.spotify.com/track/7MvtwcLvUmHCMwp4cd9jog"
@@ -11658,6 +11740,24 @@
       "duration_ms": 192000,
       "name": "Por Unos Centavos",
       "url": "https://open.spotify.com/track/3cTmJcHYrOKRadRRuD4TGp"
+    },
+    {
+      "album": {
+        "name": "Porque La Demora",
+        "url": "https://open.spotify.com/album/1jmda3z2yVf18leBFpEEDQ"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211250,
+      "name": "Porque La Demora",
+      "url": "https://open.spotify.com/track/0Dau6menNiCeTqyqGSNgMt"
     },
     {
       "album": {

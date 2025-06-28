@@ -239,22 +239,6 @@
     {
       "added_at": "2025-06-23 01:24:18",
       "album": {
-        "name": "\u2014star.",
-        "url": "https://open.spotify.com/album/58b3PoxwilkN0qpqKvKbdP"
-      },
-      "artists": [
-        {
-          "name": "Nadin Amizah",
-          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
-        }
-      ],
-      "duration_ms": 153885,
-      "name": "\u2014star.",
-      "url": "https://open.spotify.com/track/7Gju1wbqklcglziqjPIDVM"
-    },
-    {
-      "added_at": "2025-06-23 01:24:18",
-      "album": {
         "name": "Deeper Well",
         "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 177293,
       "name": "The Architect",
       "url": "https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm"
+    },
+    {
+      "added_at": "2025-06-23 01:24:18",
+      "album": {
+        "name": "\u2014star.",
+        "url": "https://open.spotify.com/album/58b3PoxwilkN0qpqKvKbdP"
+      },
+      "artists": [
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "duration_ms": 153885,
+      "name": "\u2014star.",
+      "url": "https://open.spotify.com/track/7Gju1wbqklcglziqjPIDVM"
     },
     {
       "added_at": "2025-06-23 01:24:18",
@@ -387,22 +387,6 @@
     {
       "added_at": "2025-06-23 01:24:18",
       "album": {
-        "name": "Shawn",
-        "url": "https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 175750,
-      "name": "The Mountain",
-      "url": "https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU"
-    },
-    {
-      "added_at": "2025-06-23 01:24:18",
-      "album": {
         "name": "Morning Coffee",
         "url": "https://open.spotify.com/album/0Lhj5XHmeZTOXmrXDeXpEF"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 142659,
       "name": "Morning Coffee",
       "url": "https://open.spotify.com/track/6zvtPVptAvY6wRbkPGLKff"
+    },
+    {
+      "added_at": "2025-06-23 01:24:18",
+      "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 175750,
+      "name": "The Mountain",
+      "url": "https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU"
     },
     {
       "added_at": "2025-06-23 01:24:18",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-06-23 01:24:18",
       "album": {
-        "name": "A Study of Losses",
-        "url": "https://open.spotify.com/album/78tXJfTs54x8GO5aq4rbVE"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 206356,
-      "name": "Villa Sacchetti",
-      "url": "https://open.spotify.com/track/3imSNF31ZSYcLdM7zbGDBd"
-    },
-    {
-      "added_at": "2025-06-23 01:24:18",
-      "album": {
         "name": "You Can't Make Old Friends",
         "url": "https://open.spotify.com/album/1cAujZxQJDEhqXK0EBBNtr"
       },
@@ -607,22 +591,34 @@
     {
       "added_at": "2025-06-23 01:24:18",
       "album": {
-        "name": "Grow As We Go (feat. Sara Bareilles)",
-        "url": "https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M"
+        "name": "A Study of Losses",
+        "url": "https://open.spotify.com/album/78tXJfTs54x8GO5aq4rbVE"
       },
       "artists": [
         {
-          "name": "Ben Platt",
-          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
-        },
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
         }
       ],
-      "duration_ms": 249937,
-      "name": "Grow as We Go (feat. Sara Bareilles)",
-      "url": "https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi"
+      "duration_ms": 206356,
+      "name": "Villa Sacchetti",
+      "url": "https://open.spotify.com/track/3imSNF31ZSYcLdM7zbGDBd"
+    },
+    {
+      "added_at": "2025-06-23 01:24:18",
+      "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 195752,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO"
     },
     {
       "added_at": "2025-06-23 01:24:18",
@@ -643,18 +639,22 @@
     {
       "added_at": "2025-06-23 01:24:18",
       "album": {
-        "name": "For My Friends",
-        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+        "name": "Grow As We Go (feat. Sara Bareilles)",
+        "url": "https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M"
       },
       "artists": [
         {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        },
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
         }
       ],
-      "duration_ms": 195752,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO"
+      "duration_ms": 249937,
+      "name": "Grow as We Go (feat. Sara Bareilles)",
+      "url": "https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi"
     },
     {
       "added_at": "2025-06-23 01:24:18",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-06-23 01:24:18",
       "album": {
-        "name": "Highlights",
-        "url": "https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 152293,
-      "name": "Highlights",
-      "url": "https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH"
-    },
-    {
-      "added_at": "2025-06-23 01:24:18",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2025-06-23 01:24:18",
       "album": {
+        "name": "Highlights",
+        "url": "https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 152293,
+      "name": "Highlights",
+      "url": "https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH"
+    },
+    {
+      "added_at": "2025-06-23 01:24:18",
+      "album": {
         "name": "We Were Here",
         "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 203773,
       "name": "Winter",
       "url": "https://open.spotify.com/track/4VuHWU01C36BUaN1adNi5M"
+    },
+    {
+      "added_at": "2025-06-23 01:24:18",
+      "album": {
+        "name": "Scars To Your Beautiful",
+        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
+      },
+      "artists": [
+        {
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
+        }
+      ],
+      "duration_ms": 237857,
+      "name": "Scars To Your Beautiful",
+      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
     },
     {
       "added_at": "2025-06-23 01:24:18",
@@ -827,22 +843,6 @@
     {
       "added_at": "2025-06-23 01:24:18",
       "album": {
-        "name": "Scars To Your Beautiful",
-        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
-      },
-      "artists": [
-        {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
-        }
-      ],
-      "duration_ms": 237857,
-      "name": "Scars To Your Beautiful",
-      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
-    },
-    {
-      "added_at": "2025-06-23 01:24:18",
-      "album": {
         "name": "hungover sunday",
         "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
       },
@@ -855,22 +855,6 @@
       "duration_ms": 180402,
       "name": "hungover sunday",
       "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
-    },
-    {
-      "added_at": "2025-06-23 01:24:18",
-      "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/7quF2TPkzNhuVjyub5UtoV"
-      },
-      "artists": [
-        {
-          "name": "Leanne & Naara",
-          "url": "https://open.spotify.com/artist/2nZ18B9RTjJH56v2NTnNAI"
-        }
-      ],
-      "duration_ms": 259665,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/6sl4KzZ9PRb8xTzjYIrHAP"
     },
     {
       "added_at": "2025-06-23 01:24:18",
@@ -891,6 +875,22 @@
       "duration_ms": 201908,
       "name": "loml",
       "url": "https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK"
+    },
+    {
+      "added_at": "2025-06-23 01:24:18",
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/7quF2TPkzNhuVjyub5UtoV"
+      },
+      "artists": [
+        {
+          "name": "Leanne & Naara",
+          "url": "https://open.spotify.com/artist/2nZ18B9RTjJH56v2NTnNAI"
+        }
+      ],
+      "duration_ms": 259665,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/6sl4KzZ9PRb8xTzjYIrHAP"
     },
     {
       "added_at": "2025-06-23 01:24:18",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-06-23 01:24:18",
       "album": {
-        "name": "Alone, Together",
-        "url": "https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Pearson",
-          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
-        }
-      ],
-      "duration_ms": 180994,
-      "name": "Come Back Around",
-      "url": "https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr"
-    },
-    {
-      "added_at": "2025-06-23 01:24:18",
-      "album": {
         "name": "dishonesty",
         "url": "https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 179216,
       "name": "dishonesty",
       "url": "https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9"
+    },
+    {
+      "added_at": "2025-06-23 01:24:18",
+      "album": {
+        "name": "Alone, Together",
+        "url": "https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pearson",
+          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
+        }
+      ],
+      "duration_ms": 180994,
+      "name": "Come Back Around",
+      "url": "https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr"
     },
     {
       "added_at": "2025-06-23 01:24:18",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-06-23 01:24:18",
       "album": {
-        "name": "The Stray Birds",
-        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
-      },
-      "artists": [
-        {
-          "name": "The Stray Birds",
-          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "Dream in Blue",
-      "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
-    },
-    {
-      "added_at": "2025-06-23 01:24:18",
-      "album": {
         "name": "Give Me Everything",
         "url": "https://open.spotify.com/album/0A28FCqEuG6uiAHIPQcLwe"
       },
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2025-06-23 01:24:18",
       "album": {
+        "name": "The Stray Birds",
+        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
+      },
+      "artists": [
+        {
+          "name": "The Stray Birds",
+          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "Dream in Blue",
+      "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
+    },
+    {
+      "added_at": "2025-06-23 01:24:18",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/327yl27iCBZAr48CauikQb"
       },
@@ -1163,42 +1163,6 @@
       "duration_ms": 184915,
       "name": "For You - Acoustic",
       "url": "https://open.spotify.com/track/1cZyjXi4MvSVlm0DRevIhc"
-    },
-    {
-      "added_at": "2025-06-23 01:24:18",
-      "album": {
-        "name": "Breaking Into Acting",
-        "url": "https://open.spotify.com/album/2qXpq3oE0EZB9LMmckSxbb"
-      },
-      "artists": [
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
-        },
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 214093,
-      "name": "Breaking Into Acting",
-      "url": "https://open.spotify.com/track/6SxRzxiueXTwb7K07i9Ga3"
-    },
-    {
-      "added_at": "2025-06-23 01:24:18",
-      "album": {
-        "name": "Sadness As A Gift",
-        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 259015,
-      "name": "Sadness As A Gift",
-      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
     },
     {
       "added_at": "2025-06-23 01:24:18",
@@ -1239,26 +1203,6 @@
     {
       "added_at": "2025-06-23 01:24:18",
       "album": {
-        "name": "Scared Of Loving You",
-        "url": "https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        }
-      ],
-      "duration_ms": 110221,
-      "name": "Scared Of Loving You",
-      "url": "https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct"
-    },
-    {
-      "added_at": "2025-06-23 01:24:18",
-      "album": {
         "name": "the boy",
         "url": "https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz"
       },
@@ -1271,6 +1215,58 @@
       "duration_ms": 216530,
       "name": "the boy",
       "url": "https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF"
+    },
+    {
+      "added_at": "2025-06-23 01:24:18",
+      "album": {
+        "name": "Breaking Into Acting",
+        "url": "https://open.spotify.com/album/2qXpq3oE0EZB9LMmckSxbb"
+      },
+      "artists": [
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+        },
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 214093,
+      "name": "Breaking Into Acting",
+      "url": "https://open.spotify.com/track/6SxRzxiueXTwb7K07i9Ga3"
+    },
+    {
+      "added_at": "2025-06-23 01:24:18",
+      "album": {
+        "name": "Sadness As A Gift",
+        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 259015,
+      "name": "Sadness As A Gift",
+      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
+    },
+    {
+      "added_at": "2025-06-23 01:24:18",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/6bG0Hug4UHRMvKapaqsslZ"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 346235,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/1yoiLtaODum3lNm7NjG1zs"
     }
   ],
   "unique_name": "\u82b1\u8349\u4e0b\u5348\u8336",

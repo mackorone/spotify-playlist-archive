@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NfjMqrzcGKVsbYZmhf4Md.md) - [plain]
 
 > All songs about drinking, cheating, heartaches and everything else going on in a classic honky tonk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,375 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,379 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/0NfjMqrzcGKVsbYZmhf4Md.md) - [plain]
 | 42 | [If Teardrops Were Pennies](https://open.spotify.com/track/2nVk6F1c0e81AevgTJtqfQ) | [Carl Smith](https://open.spotify.com/artist/4FmgWM5kNxZ8ibCNPS6hHN) | [The Essential Carl Smith 1950\-1956](https://open.spotify.com/album/7mY4EUy9WdYB4hZ1XWVycZ) | 3:00 |
 | 43 | [Little Ole Wine Drinker Me](https://open.spotify.com/track/6IZnK7vJzV3bNBm0Q2djJs) | [Charlie Walker](https://open.spotify.com/artist/3tsk4jo72o6tDjCGaMJUGF) | [Charlie Walker's Greatest Hits](https://open.spotify.com/album/2bA2JfkhsV1GWK0AEVkBxi) | 2:06 |
 | 44 | [I Just Came to Get My Baby](https://open.spotify.com/track/4kuhdureuYoHJ2B3rnqPf4) | [Faron Young](https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL) | [You Don't Know Me](https://open.spotify.com/album/4950Lon7jIL5HntS7SU2ci) | 2:27 |
-| 45 | [Rednecks, White Socks And Blue Ribbon Beer](https://open.spotify.com/track/5JZavXbwqavv9kLEtiSyBx) | [Johnny Russell](https://open.spotify.com/artist/3b10T0AUpBLms8moTPVRxM) | [Greatest Hits](https://open.spotify.com/album/7nxLi0MohovxSZhWvcwrkJ) | 2:41 |
+| 45 | [Rednecks, White Socks And Blue Ribbon Beer \(Rerecorded\)](https://open.spotify.com/track/5JZavXbwqavv9kLEtiSyBx) | [Johnny Russell](https://open.spotify.com/artist/3b10T0AUpBLms8moTPVRxM) | [Greatest Hits](https://open.spotify.com/album/7nxLi0MohovxSZhWvcwrkJ) | 2:41 |
 | 46 | [I Cheated On You](https://open.spotify.com/track/4XbLkEznk90XC4r3oU6lu9) | [Floyd Tillman](https://open.spotify.com/artist/1sv41JLLdczDyPjHDvo2dn) | [Top 40 Classics \- The Very Best of Floyd Tillman](https://open.spotify.com/album/6dxjVHleP6t40633zs48El) | 2:28 |
 | 47 | [I Like Beer](https://open.spotify.com/track/5OFtWlXD1Ze4bKV2sz67Kl) | [Tom T\. Hall](https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T) | [20th Century Masters: The Millennium Collection: Best Of Tom T\. Hall](https://open.spotify.com/album/6d1bcCPwsPB0YGrspKeexk) | 2:53 |
 | 48 | [White Lightning](https://open.spotify.com/track/27bTwyY8RKwaliVVNL5gJP) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [The Definitive Collection \(1955\-1962\)](https://open.spotify.com/album/1aWkxNCIoc4CKSZUc2SUJX) | 2:48 |

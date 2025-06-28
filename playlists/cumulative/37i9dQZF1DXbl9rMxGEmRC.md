@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Behemoth
 
-688 songs - 2 day 11 hr 4 min
+689 songs - 2 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,7 +460,7 @@
 | [Perpetual Deception](https://open.spotify.com/track/1HKdU0kmQ6fOh0UtVOa80O) | [Suffocation](https://open.spotify.com/artist/4ItRDIouodpnW6nm4TYDk1) | [Hymns From The Apocrypha](https://open.spotify.com/album/4Byt3zV8C9V8KhKTdrvemZ) | 4:15 | 2023-11-03 | 2024-04-19 |
 | [PILGRIMAGE TO OBLIVION](https://open.spotify.com/track/5OK5Q6B4jgyXKIAItybyBx) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [PILGRIMAGE TO OBLIVION](https://open.spotify.com/album/7zfTJVYMmEM5CotxG7SPuf) | 4:20 | 2023-11-17 |  |
 | [Pillars Of Mercy](https://open.spotify.com/track/0nv2fQCtxDqIJuPTKynKy8) | [Absu](https://open.spotify.com/artist/3eVkhnD2UKVjX5uiUsqfXP) | [Tara](https://open.spotify.com/album/0XvzG5PTrCcGxR3LiY8xke) | 4:21 | 2022-07-13 |  |
-| [Pipe Dreams](https://open.spotify.com/track/0UkBBPriZLFvN8t9jsaK5Y) | [Konvent](https://open.spotify.com/artist/0GLSraWh95uXS5s8nIuJ8Q) | [Pipe Dreams](https://open.spotify.com/album/45QoSSOld1MCnxRqUbeAnl) | 4:05 | 2022-02-11 |  |
+| [Pipe Dreams](https://open.spotify.com/track/0UkBBPriZLFvN8t9jsaK5Y) | [Konvent](https://open.spotify.com/artist/0GLSraWh95uXS5s8nIuJ8Q) | [Pipe Dreams](https://open.spotify.com/album/45QoSSOld1MCnxRqUbeAnl) | 4:05 | 2022-02-11 | 2025-06-28 |
 | [Pleoverse Omninertia](https://open.spotify.com/track/4le9pP9CtNJ0IfTQX1WBLp) | [Wormed](https://open.spotify.com/artist/1YXwL0RvyKn9swZ6CsVDwk) | [Pleoverse Omninertia](https://open.spotify.com/album/4NV6pxcB4rn4WahFh668Wo) | 3:44 | 2024-07-03 | 2024-08-08 |
 | [Plisse les yeux jusqu'au sang](https://open.spotify.com/track/5qOasStIp3b9jzijsueuLH) | [CELESTE](https://open.spotify.com/artist/16HYItTmZdhXM4Yz0CPtVy) | [Epilogue\(s\)](https://open.spotify.com/album/3Hf7535H4P5uLfdmcSEVIj) | 5:23 | 2023-11-17 |  |
 | [Popecrusher](https://open.spotify.com/track/112ODhA6Xh9999jyqpYAmO) | [Witchery](https://open.spotify.com/artist/0ucuxyPTAHv0TPkA1WBV10) | [Popecrusher](https://open.spotify.com/album/5lp8Fhsz1D6kZypBMGUDn8) | 3:08 | 2022-05-20 |  |
@@ -694,6 +694,7 @@
 | [Ye Entrancemperium](https://open.spotify.com/track/7HmGwZ0HvZIsB90wt3AuDE) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [Anthems To The Welkin At Dusk](https://open.spotify.com/album/0PIidVsFr9Oji1Y79jTV9M) | 5:14 | 2022-07-13 | 2023-05-05 |
 | [Ymir](https://open.spotify.com/track/1FCOfEzh2LpfhSYMKY95Me) | [Die Apokalyptischen Reiter](https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn) | [Ymir](https://open.spotify.com/album/7rRdCtu9eHLWrxCMSeOSMT) | 5:04 | 2021-12-17 | 2022-01-22 |
 | [You Are the Beginning](https://open.spotify.com/track/4z1hGpOWBgFPa1AUND2P7X) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [You Are the Beginning](https://open.spotify.com/album/4Jupeun3ZXE7DsAb3nv7ZG) | 3:44 | 2023-05-05 | 2023-06-22 |
+| [You Wildflower](https://open.spotify.com/track/6k8BOF9z8d7yhMNtQLfAaV) | [Witch Club Satan](https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy) | [You Wildflower](https://open.spotify.com/album/25FC9A6YPrFGFLHoKrg4Cc) | 3:34 | 2025-06-27 |  |
 | [Ze Nigmar](https://open.spotify.com/track/3niz4765xdQsl0DSMf4DIx) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Rituals](https://open.spotify.com/album/261LnV8eQ6ZaNmh7A5SjF3) | 4:43 | 2022-07-13 |  |
 | [Χ Ξ Σ \- 666](https://open.spotify.com/track/3P4Vcz7MhJngRf8WUAaoA0) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Kata Ton Daimona Eaytoy \(Do What Thou Wilt\)](https://open.spotify.com/album/3z7rdtYy9L5RYgTpRQBygo) | 5:48 | 2022-07-13 | 2023-08-05 |
 

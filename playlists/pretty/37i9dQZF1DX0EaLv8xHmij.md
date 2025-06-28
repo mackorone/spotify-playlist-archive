@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: tracksuit, camisa de time e flow embaçado\. Foto: Kyan, Mu540
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,864 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,869 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 26 | [Criado por Duas Mulheres](https://open.spotify.com/track/3zU7qutRtIalOQeV2S73r5) | [Nochica](https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [CHF](https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS) | [O Que Não Te Contaram Sobre as Ruas](https://open.spotify.com/album/41anB0huK1hbpvJEr9c7f6) | 2:22 |
 | 27 | [Marrom](https://open.spotify.com/track/4683NYbQpPuur3iO3v0vaM) | [v\_ita0](https://open.spotify.com/artist/24VK2sc0VVyjEE1vyNkJaU), [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd), [Ghdagr](https://open.spotify.com/artist/7nJrkjvmyW9eMinWQyqFuo) | [Marrom](https://open.spotify.com/album/26Bs1NoxL5d9p9fjmXfDct) | 3:18 |
 | 28 | [CONDUTA](https://open.spotify.com/track/1TEg5pNsMnthX1rpehPcAy) | [DEH.](https://open.spotify.com/artist/24QBXmQdL8Mitbs4tSvXmv), [LIT UP](https://open.spotify.com/artist/048eLqPGxqWk7PblwFmXgE), [Braão](https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd) | [CONDUTA](https://open.spotify.com/album/6ZKuKvs1NFScCDmW4DKU46) | 3:02 |
-| 29 | [Pura Nata](https://open.spotify.com/track/0BLU6ZLfShdBHucQgXcqUs) | [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [Pura Nata](https://open.spotify.com/album/1DS0PtUi2w4r3LqsvDsOKm) | 2:48 |
+| 29 | [Pura Nata](https://open.spotify.com/track/0BLU6ZLfShdBHucQgXcqUs) | [Tchelo](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [Pura Nata](https://open.spotify.com/album/1DS0PtUi2w4r3LqsvDsOKm) | 2:48 |
 | 30 | [Sorte ou Revés \(Soudlab\#3\)](https://open.spotify.com/track/3yhyNNPlQH7Caz8jsa7bLo) | [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [$pace](https://open.spotify.com/artist/4111UMyHQHJtS1fUl2477F), [Soud](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Sorte ou Revés \(Soudlab\#3\)](https://open.spotify.com/album/1Zmwj8r0WQ86SAWBsYoEFL) | 1:50 |
 | 31 | [BRAZIL BOYS](https://open.spotify.com/track/7KTeincxdoQhp2sw8hlsRY) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [G4 Boyz](https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS) | [Trap The Fato Deluxe](https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t) | 2:42 |
 | 32 | [Alacarte](https://open.spotify.com/track/0LfB9r4Z0yP8CWr5O2WZy7) | [AKA AFK](https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca), [Biuw](https://open.spotify.com/artist/0OW1tBIqLUgLRXfNLOlGOv), [SKKI LAB](https://open.spotify.com/artist/3TGQhpL86E4g6GjkBhjhBQ) | [Alacarte](https://open.spotify.com/album/4EL6weB2rvkoY87WIYLCK8) | 2:09 |

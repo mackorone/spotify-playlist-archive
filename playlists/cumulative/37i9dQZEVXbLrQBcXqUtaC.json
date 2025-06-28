@@ -5254,7 +5254,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 256799,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw"
@@ -5272,7 +5272,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 256799,
       "name": "Cry",
       "url": "https://open.spotify.com/track/7mDTvYD2ieE4Q28XFziMfJ"
@@ -11792,7 +11792,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 209440,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/5yVIlYEHZxQVLyInCdldoS"
@@ -11810,7 +11810,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 209440,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/6skGMlljk0s5yeBKZ7sN5n"
@@ -29713,6 +29713,24 @@
     },
     {
       "album": {
+        "name": "\u062d\u0631\u0627\u0645 \u0639\u0644\u064a\u0643",
+        "url": "https://open.spotify.com/album/53K8CfbdJw84zZrXh54f8U"
+      },
+      "artists": [
+        {
+          "name": "Nasrat Al Bader",
+          "url": "https://open.spotify.com/artist/3LTg1uDlzgeNpapZviVVAF"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290319,
+      "name": "\u062d\u0631\u0627\u0645 \u0639\u0644\u064a\u0643",
+      "url": "https://open.spotify.com/track/41hTB9kohR8v8BaGe27km3"
+    },
+    {
+      "album": {
         "name": "Toomyh",
         "url": "https://open.spotify.com/album/6WIS0caVaAe7rarRPQ9IcN"
       },
@@ -30228,7 +30246,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 366666,
       "name": "\u0631\u0627\u0647 \u0642\u0644\u0628\u064a \u064a\u0628\u0643\u064a \u0648\u064a\u0646\u0648\u062d",
       "url": "https://open.spotify.com/track/6DnNRsHBfsldXFRsk0chTF"

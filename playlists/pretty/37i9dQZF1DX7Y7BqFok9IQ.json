@@ -1,13 +1,29 @@
 {
   "description": "The best of modern blues rock. Cover: Joe Bonamassa",
-  "num_followers": 238871,
+  "num_followers": 238935,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFTc4QAAAABPp5JcYoq6k3tXoq0YqJyY",
+  "snapshot_id": "aF4XWgAAAACXbQCM3jRP59sf5wRogqRf",
   "tracks": [
+    {
+      "added_at": "2025-06-27 04:00:26",
+      "album": {
+        "name": "Preacher Kids",
+        "url": "https://open.spotify.com/album/1fr0maIiPbbXdPyI5hLxnV"
+      },
+      "artists": [
+        {
+          "name": "Robert Randolph",
+          "url": "https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx"
+        }
+      ],
+      "duration_ms": 356066,
+      "name": "7 Generations",
+      "url": "https://open.spotify.com/track/3Ng6V9tduQzqGJx7ABoNRz"
+    },
     {
       "added_at": "2025-06-20 04:00:32",
       "album": {
@@ -163,22 +179,6 @@
       "duration_ms": 193575,
       "name": "Lose You",
       "url": "https://open.spotify.com/track/743vRLLefFlohxNA7XRxQE"
-    },
-    {
-      "added_at": "2025-04-25 04:00:41",
-      "album": {
-        "name": "Big Women",
-        "url": "https://open.spotify.com/album/3odHHsOy9iCoYouoOrH8Gt"
-      },
-      "artists": [
-        {
-          "name": "Robert Randolph",
-          "url": "https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx"
-        }
-      ],
-      "duration_ms": 299960,
-      "name": "Big Women",
-      "url": "https://open.spotify.com/track/2besC8P5XlSgrfx3WlAODD"
     },
     {
       "added_at": "2025-04-18 04:00:33",

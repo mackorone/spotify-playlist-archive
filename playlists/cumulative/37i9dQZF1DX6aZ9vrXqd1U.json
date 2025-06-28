@@ -1247,6 +1247,28 @@
     },
     {
       "album": {
+        "name": "Far Beyond the Stars",
+        "url": "https://open.spotify.com/album/5Oqb2Ni0mAJIE5VeogHZEq"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        },
+        {
+          "name": "Shania Yan",
+          "url": "https://open.spotify.com/artist/1bycmYZBIFs1GndFBYtlSX"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304326,
+      "name": "Far Beyond the Stars",
+      "url": "https://open.spotify.com/track/2OnQwhAx1MweOZX35B9ARW"
+    },
+    {
+      "album": {
         "name": "Fields of hope",
         "url": "https://open.spotify.com/album/6aI9kR12kkx1YRzRoCBk6E"
       },

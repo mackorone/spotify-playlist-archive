@@ -146,6 +146,32 @@
     {
       "album": {
         "name": "360",
+        "url": "https://open.spotify.com/album/2qFy0AbTqXctMR5iuLjXah"
+      },
+      "artists": [
+        {
+          "name": "Edem",
+          "url": "https://open.spotify.com/artist/5gb4BlH3ixp1oGLlzfeppl"
+        },
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "JZyNo",
+          "url": "https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "360",
+      "url": "https://open.spotify.com/track/7cg7TjskhPFRW2zwde1A2A"
+    },
+    {
+      "album": {
+        "name": "360",
         "url": "https://open.spotify.com/album/35BwMj0VAg3BCwB78CO7wa"
       },
       "artists": [
@@ -5733,6 +5759,28 @@
     },
     {
       "album": {
+        "name": "Sweet Songs 4 You",
+        "url": "https://open.spotify.com/album/5dd9pjLKGfr6jDOr3ChACg"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170840,
+      "name": "meet 4 corner",
+      "url": "https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8"
+    },
+    {
+      "album": {
         "name": "Killa Riddim",
         "url": "https://open.spotify.com/album/5POFszPRMh67b1cImkzLnA"
       },
@@ -9758,7 +9806,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 132371,
       "name": "Vivian",
       "url": "https://open.spotify.com/track/10iQAe24PyCIhLD3qKIGSo"
@@ -9992,7 +10040,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 195431,
       "name": "WINE AND BLUES",
       "url": "https://open.spotify.com/track/29kG9fZa56h0jL9qXqTePM"

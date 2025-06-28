@@ -4,7 +4,7 @@
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Cryzin
 
-248 songs - 15 hr 50 min
+249 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Coisas Da Vida](https://open.spotify.com/track/29zzxkL41uX2PWVC2CA7HO) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Coisas Da Vida](https://open.spotify.com/album/2u2yQo4rDRDqRCk7eEbaAm) | 2:51 | 2023-09-29 | 2023-11-18 |
 | [Colecionador de ilusão](https://open.spotify.com/track/1mZ5TKdEHnvoikySj0TeE3) | [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7), [Liink](https://open.spotify.com/artist/6XAaynGctovNbHNyGohYkA) | [Duas Vezes Melhor \(Session\)](https://open.spotify.com/album/07jccOrExTeXRc44Rj6xZ6) | 3:27 | 2022-07-01 | 2022-07-09 |
 | [Contratei o Tempo](https://open.spotify.com/track/1NHafgaylnQjnnEhyJbqdz) | [Katari SC](https://open.spotify.com/artist/0hmC5uzgar1mR5E5dqeSjm), [Doodex](https://open.spotify.com/artist/0mosiC3wRtekSkMSEuKcSz), [Pena](https://open.spotify.com/artist/2l5klhDlUOtuM0DuvYOgva) | [Contratei o Tempo](https://open.spotify.com/album/5KTiTNaCP6cZjwxlgMf4v0) | 3:36 | 2022-03-18 | 2025-01-25 |
+| [Coração Pilantra / Sem Verão](https://open.spotify.com/track/0aSEZJRttTTrQgJYRa2CQG) | [West Reis](https://open.spotify.com/artist/5MZ71Xv0o1bOzgC0OYKkRp) | [Coração Pilantra / Sem Verão](https://open.spotify.com/album/3WvQKwKS4O2wmyWhzk73pB) | 6:09 | 2025-06-28 |  |
 | [Daqui De Cima](https://open.spotify.com/track/1FlgrA3YtOJjCsoVp3q54N) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [Minerium Session](https://open.spotify.com/album/0ylwQw2HMxet15CUlExcGw) | 3:28 | 2024-06-28 | 2024-11-16 |
 | [Destino](https://open.spotify.com/track/1tAcAD6c8HiMWDoHyUutHd) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Destino](https://open.spotify.com/album/2XqCSflbr8XImRRevu2Bpp) | 2:39 | 2024-04-26 | 2024-06-15 |
 | [Detalhes](https://open.spotify.com/track/3mHbUXh4pi4yy9gWHqV8bW) | [Igão Santi](https://open.spotify.com/artist/2xZhKkCpZq4YtbvNwhxBID), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Detalhes](https://open.spotify.com/album/6KSoeosLCvFYQfo6XUAKzd) | 1:55 | 2022-10-28 | 2023-04-29 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 297197,
+  "num_followers": 297222,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFs8AAAAAABwY8XgnLeiskXdy0t5BH/j",
+  "snapshot_id": "aFyNgAAAAABHmyfeZ6ax6Vw/vPTfICtr",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 272996,
-      "name": "Space Truckin' - Remastered 2012",
-      "url": "https://open.spotify.com/track/5S126DaCBZ8z6yh7B1Lszr"
+      "duration_ms": 442840,
+      "name": "Lazy - Remastered 2012",
+      "url": "https://open.spotify.com/track/27WqFiOFm2u1hax2ksdyqK"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 442840,
-      "name": "Lazy - Remastered 2012",
-      "url": "https://open.spotify.com/track/27WqFiOFm2u1hax2ksdyqK"
+      "duration_ms": 272996,
+      "name": "Space Truckin' - Remastered 2012",
+      "url": "https://open.spotify.com/track/5S126DaCBZ8z6yh7B1Lszr"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Purple in Rock (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Into the Fire - 1995 Remaster",
-      "url": "https://open.spotify.com/track/2nCRjFVNNfpedJevLrMBLI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Book of Taliesyn",
         "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 391866,
       "name": "Anthem - 2000 Remaster",
       "url": "https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep Purple in Rock (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Into the Fire - 1995 Remaster",
+      "url": "https://open.spotify.com/track/2nCRjFVNNfpedJevLrMBLI"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 287906,
-      "name": "You Fool No One - Remastered 2004",
-      "url": "https://open.spotify.com/track/1rbWklbXlVEDjCL5uuWuVg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stormbringer (Remastered)",
         "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 205973,
       "name": "You Can't Do It Right - 2009 Digital Remaster",
       "url": "https://open.spotify.com/track/719mZpNNAbExUe4Wzzdzaz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 287906,
+      "name": "You Fool No One - Remastered 2004",
+      "url": "https://open.spotify.com/track/1rbWklbXlVEDjCL5uuWuVg"
     },
     {
       "added_at": null,

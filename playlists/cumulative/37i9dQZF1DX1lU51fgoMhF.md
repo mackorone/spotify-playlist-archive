@@ -2,7 +2,7 @@
 
 ### [Summer K\-Pop Hits \(썸머 히트\)](https://open.spotify.com/playlist/37i9dQZF1DX1lU51fgoMhF)
 
-> Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: KISS OF LIFE\)
+> Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: H1\-KEY\(하이키\)\)
 
 376 songs - 20 hr 31 min
 

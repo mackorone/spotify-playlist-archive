@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon this 2025\. Cover: BGYO
 
-271 songs - 16 hr 12 min
+273 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Born To Win](https://open.spotify.com/track/6gM4xq1CXli6FC5Qm7pLHl) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/3xpmqNo62myMulZ1MtnTox) | 2:53 | 2022-11-30 | 2023-04-14 |
 | [Boyfriend](https://open.spotify.com/track/4067uAzJZUHJInwOo7X701) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Boyfriend](https://open.spotify.com/album/0hMT0sAqjZvYBimWnMDswf) | 4:53 | 2025-03-27 |  |
 | [Breaking Bad](https://open.spotify.com/track/5uM71yGGGCctN2PeV5OYi5) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [Breaking Bad](https://open.spotify.com/album/3RrvdEyNwjEqsSHfFMeDsw) | 3:51 | 2023-04-13 | 2024-04-03 |
+| [BROke](https://open.spotify.com/track/20hKYW4VoQsOpN8ajbxhYc) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [otw / BROke](https://open.spotify.com/album/1Ly0s70g58vx4v2ET5hphQ) | 3:45 | 2025-06-27 |  |
 | [Bughaw](https://open.spotify.com/track/6C8Oy25ieRZqOsSJ6PAb86) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bughaw](https://open.spotify.com/album/2BHCBLxhR5lvCMoLiRMfDv) | 3:53 | 2024-12-09 | 2025-03-28 |
 | [Call You](https://open.spotify.com/track/68k3V1OBcNslacVbU1HNXA) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Call You](https://open.spotify.com/album/4gwvRkM54QFDjeOXFAL2CX) | 3:03 | 2021-11-25 | 2022-03-25 |
 | [can't get enough](https://open.spotify.com/track/2RmQWlkPigl7R15u7Mm0fr) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [BEING](https://open.spotify.com/album/1kFYiskcStEnrfLZXqF7Kv) | 3:38 | 2024-04-02 | 2025-03-28 |
@@ -270,6 +271,7 @@
 | [Walang Alam](https://open.spotify.com/track/4wZTvLi0khNRqqz4i5XhdV) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Kung Alam Mo Lang](https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa) | 3:05 | 2024-04-02 | 2025-03-28 |
 | [Walang Hanggan](https://open.spotify.com/track/14wNLmi7KXtJ39lUFPfnk3) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Walang Hanggan](https://open.spotify.com/album/5wCenV67j6kZHQy3x94YLu) | 3:35 | 2023-08-14 | 2024-04-03 |
 | [Warrior Princess](https://open.spotify.com/track/3mmrQQp1rzp7AH0xFVSKZH) | [Peaceful Gemini](https://open.spotify.com/artist/4AD2SGYmDQVd02vrwH0TaA) | [Warrior Princess](https://open.spotify.com/album/4vUSeIXxXuohMw215OSW0D) | 2:48 | 2021-11-25 | 2022-03-25 |
+| [WHAT IT DO? \(feat\. Costa Cashman\)](https://open.spotify.com/track/5zLPc1UpEXsEdGIzUPCUom) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [WHAT IT DO? \(feat\. Costa Cashman\)](https://open.spotify.com/album/4BmLwHkZZG3ohvabN3Cv3m) | 2:26 | 2025-06-27 |  |
 | [What U Need](https://open.spotify.com/track/3UGYWNkjCjR13d04feCeCW) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [What U Need](https://open.spotify.com/album/5ewXhs9DiMwp61jGOqXj7U) | 2:49 | 2025-03-27 |  |
 | [When I'm with You](https://open.spotify.com/track/7cUL0JOx3w4uvhEkZJlQam) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [The Light](https://open.spotify.com/album/221mR3WaKt3P8PVSbTiZqj) | 3:52 | 2021-11-25 | 2023-04-14 |
 | [Woo Woo](https://open.spotify.com/track/5WnAOIwhl9dxdzNmBhW4hK) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Woo Woo](https://open.spotify.com/album/3oTWydF6FVRShRa2ynHpsm) | 3:16 | 2021-11-25 | 2022-03-25 |

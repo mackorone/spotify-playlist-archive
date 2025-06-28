@@ -2,7 +2,7 @@
 
 ### [BILLIONS CLUB](https://open.spotify.com/playlist/37i9dQZF1DX7iB3RCnBnN4)
 
-> All the songs with more than 1 Billion streams on Spotify\. Cover: Green Day
+> All the songs with more than 1 Billion streams on Spotify\. Cover: Panic! At The Disco
 
 1,032 songs - 2 day 14 hr 28 min
 

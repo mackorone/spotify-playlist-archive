@@ -4,7 +4,7 @@
 
 > Go inside the music from the Marvel worlds that you love!
 
-216 songs - 9 hr 16 min
+217 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Fa La La](https://open.spotify.com/track/6IXiFdmK9vZ7mmffeNpjsy) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD), [Nora Kroll\-Rosenbaum](https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm) | [What If..\. Happy Hogan Saved Christmas? \(Season 2/Episode 3\) \[Original Soundtrack\]](https://open.spotify.com/album/3cDdNPdIPTjcvXyuRtd293) | 1:11 | 2024-05-22 | 2025-01-31 |
 | [Figure Out Your Life](https://open.spotify.com/track/6FLIReCyVOkDpzdhhtXzOI) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [Ms\. Marvel: Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/7dcPn4IdB0lC5Wd54kA8l5) | 1:24 | 2024-01-05 |  |
 | [First Flight](https://open.spotify.com/track/6tDfqbmotxjk4cmR1S8mWV) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Thunderbolts\* \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5JTAY7hOUdzJx2GslB4nwc) | 1:25 | 2025-05-01 |  |
+| [First Heist](https://open.spotify.com/track/5VcSb2clCxuBUW5yMlgebD) | [Dara Taylor](https://open.spotify.com/artist/6DXeA5nK5RwxNAs8a3nHLG) | [Marvel's Ironheart Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/2vb4MoZBXdLqV28FGKJIQT) | 2:28 | 2025-06-27 |  |
 | [For Chadwick](https://open.spotify.com/track/1nZPiKe0l3vNzqAqptm8K5) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [What If...? \(Episode 6\) \[Original Soundtrack\]](https://open.spotify.com/album/1bkozCtowFTMroJ5v3DJRv) | 1:02 | 2024-01-05 |  |
 | [From the Shadows](https://open.spotify.com/track/0u3ui0PR8PAUJcCB9FIRBM) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Black Widow \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ov95v1bTRaC6ds2FaIIcK) | 3:44 | 2024-01-05 |  |
 | [Full Moon Fight](https://open.spotify.com/track/64ACNliiB3TVTxefl5Dq1J) | [Hesham Nazih](https://open.spotify.com/artist/5ZAbcf5tK5uteBz62g4boT) | [Moon Knight \(Original Soundtrack\)](https://open.spotify.com/album/3z9OjeKSTG1OtElUq3OGv8) | 2:13 | 2024-01-05 |  |

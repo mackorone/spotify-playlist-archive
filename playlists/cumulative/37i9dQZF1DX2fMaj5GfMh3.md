@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: Chris Brown
 
-1,022 songs - 2 day 3 hr 58 min
+1,024 songs - 2 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,6 +528,7 @@
 | [lie](https://open.spotify.com/track/2GQqCyDCD0Z7BL2otJkFRh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [lie](https://open.spotify.com/album/6uy43Z8UWtPQS7tnddxU8G) | 3:34 | 2023-06-22 | 2023-09-30 |
 | [Lifeline](https://open.spotify.com/track/4JIuMgm9VaZ7RjdINnb0qW) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Colors](https://open.spotify.com/album/3gItu2V465QjUfK63UQM0K) | 2:59 | 2025-01-23 | 2025-04-18 |
 | [Lifeline](https://open.spotify.com/track/4m9DA6crSHtnrhaIVGPzwm) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Lifeline](https://open.spotify.com/album/4FZIE2wFhtrE4bwvp1H1nu) | 2:55 | 2024-04-04 | 2024-07-05 |
+| [Lifetime](https://open.spotify.com/track/4nAivISUKJTaSl73LNPTYX) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [Summer Pack](https://open.spotify.com/album/7l9IesoxC8UFxeXWuf2k63) | 2:32 | 2025-06-27 |  |
 | [Lightning](https://open.spotify.com/track/1mreBnJEA5A6uIOTzkKq8Z) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lightning](https://open.spotify.com/album/1H6XatdVMrvJMvokzH2Kef) | 2:57 | 2023-08-17 | 2023-12-22 |
 | [Lights Camera Action](https://open.spotify.com/track/1yICUJxGHVxxTXCUXxS78f) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Lights Camera Action](https://open.spotify.com/album/0vfm2JsJHRJLlTLpcuX5jf) | 2:42 | 2024-10-03 | 2024-11-20 |
 | [LIKE A PHOENIX](https://open.spotify.com/track/5TbRprOMy91a5tUV6JdrtU) | [Inge Lamboo](https://open.spotify.com/artist/6XpM8vftkvjA114GyLB8hz) | [LIKE A PHOENIX](https://open.spotify.com/album/4cFt3W8m1K2DHM8tSkD1lS) | 2:41 | 2024-07-04 | 2024-10-04 |
@@ -667,6 +668,7 @@
 | [Old Friend](https://open.spotify.com/track/4h5wTcOMYy6cw47yYoFqNq) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Old Friend](https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg) | 2:37 | 2024-11-07 | 2025-01-24 |
 | [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 | 2025-05-01 |  |
 | [older](https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [older](https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn) | 2:17 | 2023-09-20 | 2023-12-01 |
+| [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 | 2025-06-27 |  |
 | [On My Mind](https://open.spotify.com/track/5iq8DndLIqUnZJbfteoOTu) | [Puggy](https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6) | [On My Mind](https://open.spotify.com/album/6q4Ss6nSwVlTSKDttPyqjb) | 2:42 | 2025-06-26 |  |
 | [Once In A Lifetime](https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Once In A Lifetime](https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT) | 1:57 | 2024-12-05 | 2025-02-19 |
 | [One By One](https://open.spotify.com/track/1J0LAfDI6V7BXtj866wopY) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [One By One](https://open.spotify.com/album/6G4ZRThLjEGsYALCxy4xgp) | 3:44 | 2024-11-21 | 2025-01-24 |

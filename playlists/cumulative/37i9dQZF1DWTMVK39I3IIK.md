@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸   Mekdes
 
-246 songs - 12 hr 39 min
+247 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Ny Og Næ](https://open.spotify.com/track/3Qrb34pY41bEv1UaFy9li9) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Ny Og Næ](https://open.spotify.com/album/10LVG1XLuoTivi3WYvPqkD) | 3:11 | 2024-06-27 | 2024-09-24 |
 | [Når Du Rører Ved Mig](https://open.spotify.com/track/1KaWWvD6AcG3Hyyr9jyLhf) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Når Du Rører Ved Mig](https://open.spotify.com/album/4QF32PL3bB5cAzY6RFzeLg) | 3:37 | 2024-06-27 | 2024-11-20 |
 | [Nærmest en ven](https://open.spotify.com/track/0InIYe8cvUQ5TWopZKBsgO) | [Blaue Blume](https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh) | [Regnvåde sale](https://open.spotify.com/album/39MIeSjYinvOiTFxmURm0h) | 3:16 | 2025-01-30 |  |
-| [NØGEN \(feat\. Lord Siva\)](https://open.spotify.com/track/79WivSc02fx7ocg2Enl0ED) | [Kris](https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw), [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [ALTERDETSAMME](https://open.spotify.com/album/0l7YdPNKdK5cKwqrfb7ovI) | 2:26 | 2025-06-19 |  |
+| [NØGEN \(feat\. Lord Siva\)](https://open.spotify.com/track/79WivSc02fx7ocg2Enl0ED) | [Kris](https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw), [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [ALTERDETSAMME](https://open.spotify.com/album/0l7YdPNKdK5cKwqrfb7ovI) | 2:26 | 2025-06-19 | 2025-06-28 |
 | [Oktobernat](https://open.spotify.com/track/1Ibke8wIUBCJbHdPjsaUDc) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Oktobernat](https://open.spotify.com/album/6SW2DY4K9Ull8aEDinXEqV) | 2:55 | 2024-10-18 |  |
 | [Organs](https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Organs](https://open.spotify.com/album/76u3zEekWcNipqChvHjTkc) | 4:47 | 2024-08-23 | 2024-09-20 |
 | [oslo til københavn](https://open.spotify.com/track/4FFE1XM8TPBwG0C6kUkBdg) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [ENGLE & BLAA MAERKER](https://open.spotify.com/album/5uhCZB1SB8Lo0wsNylID2x) | 2:54 | 2024-06-27 | 2025-04-13 |
@@ -201,6 +201,7 @@
 | [Solskam](https://open.spotify.com/track/22VyCWyIDIV7TCEpzX6qtx) | [Knægt](https://open.spotify.com/artist/2ma469IFw27u95sH9V72l6) | [Forandring, please!?](https://open.spotify.com/album/0o2CoLXWid9ZTCSVv4RNcs) | 3:36 | 2025-03-13 | 2025-03-28 |
 | [Space Rock](https://open.spotify.com/track/443F4cnUSVofidUpAIXEuy) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Space Rock](https://open.spotify.com/album/00SM0CTiz1f6CEnrcy9WF0) | 1:58 | 2024-11-07 | 2024-11-22 |
 | [Spiderman \(feat\. USSEL\)](https://open.spotify.com/track/1ZUQoHxFpneJtz515ixKAH) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr), [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [Til Hyggen og Til Livet](https://open.spotify.com/album/0jDfy9ZrYUXz9ZE5nVqUgO) | 2:42 | 2025-03-20 |  |
+| [STADION](https://open.spotify.com/track/4kudNL6XGu5Y79pcUNWILB) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [STADION](https://open.spotify.com/album/4LhHEEE9u5q0vRkv5rOkyn) | 2:22 | 2025-06-26 |  |
 | [Stemmer fra fjernsynet](https://open.spotify.com/track/0XMSfklhL44luk3W4vpIWl) | [Mona Moroni](https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS) | [Vågen igen](https://open.spotify.com/album/3HpKzH04BvceLrOcvWUy6g) | 3:54 | 2024-11-28 | 2025-01-10 |
 | [Storebæltsbroen](https://open.spotify.com/track/7jnKJJB0H7Pl3uyw9ifY7X) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Storebæltsbroen](https://open.spotify.com/album/3Rd1qpiv4brUgL2qJrFL5q) | 2:59 | 2024-06-27 |  |
 | [Strong](https://open.spotify.com/track/6kvS2z82Q6l7h4DnzteKwO) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Strong](https://open.spotify.com/album/3ZrhrH8iDFgDLEgVYfobR7) | 2:59 | 2024-08-15 | 2024-09-20 |

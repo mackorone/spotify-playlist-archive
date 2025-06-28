@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 180030,
       "name": "BELLADONA",
       "url": "https://open.spotify.com/track/011TUdcPvQp3Rvdm95lEjX"
@@ -2694,7 +2694,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 202816,
       "name": "Coche de Choque",
       "url": "https://open.spotify.com/track/0j2Xbt1iHDDZaJrPz6j5rd"
@@ -5225,6 +5225,24 @@
     },
     {
       "album": {
+        "name": "The Dirty Tape II",
+        "url": "https://open.spotify.com/album/1nkM2SGi7WocgXS7cu3lrJ"
+      },
+      "artists": [
+        {
+          "name": "Dirty Porko",
+          "url": "https://open.spotify.com/artist/4JjXXU4m428s8xODTaVuNV"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Hazme 50 (Caer De Pie)",
+      "url": "https://open.spotify.com/track/44NcXq7DzrqawVie4FCRe7"
+    },
+    {
+      "album": {
         "name": "Hidetoshi Nakata",
         "url": "https://open.spotify.com/album/7IBf9V9Xp2nxRlYYVXP8Fd"
       },
@@ -5812,7 +5830,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 192000,
       "name": "La Careta",
       "url": "https://open.spotify.com/track/76drDHzaJRwkrRkOt8BVzG"
@@ -6673,6 +6691,36 @@
     },
     {
       "album": {
+        "name": "Dolor En Efectivo",
+        "url": "https://open.spotify.com/album/3rsutH7js571uJJGEMWGhW"
+      },
+      "artists": [
+        {
+          "name": "Ergo Pro",
+          "url": "https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4"
+        },
+        {
+          "name": "Elio Toffana",
+          "url": "https://open.spotify.com/artist/3iaWOU36p7W4oqHLDoBQmr"
+        },
+        {
+          "name": "Israel B",
+          "url": "https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B"
+        },
+        {
+          "name": "C. Spaulding",
+          "url": "https://open.spotify.com/artist/78AORnaM9nuOHQYK6RrRQH"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204122,
+      "name": "Mad Sur Mad Sur",
+      "url": "https://open.spotify.com/track/2M07MShImQE4OghS7DShjY"
+    },
+    {
+      "album": {
         "name": "Madame Bovary",
         "url": "https://open.spotify.com/album/0SxFte5a7xpVWJtKFfW3cs"
       },
@@ -7294,7 +7342,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 152244,
       "name": "Me Quieren Y Me Odian",
       "url": "https://open.spotify.com/track/6NoijA2nxbcQTtvnVgFDQW"
@@ -8272,7 +8320,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 210480,
       "name": "No Puedo Seguir",
       "url": "https://open.spotify.com/track/0mU7XasCSrWAvndQqM3Rfu"
@@ -11091,6 +11139,50 @@
     },
     {
       "album": {
+        "name": "Tabernero",
+        "url": "https://open.spotify.com/album/1XAyfw2Co3la1wA80R06oQ"
+      },
+      "artists": [
+        {
+          "name": "Jarfaiter",
+          "url": "https://open.spotify.com/artist/7hqwOMu222wUGHIzm49sJk"
+        },
+        {
+          "name": "Baya Baye MGT Los Sosis",
+          "url": "https://open.spotify.com/artist/1B7narxB55v6EoUuA9kSBk"
+        },
+        {
+          "name": "Geckodelarue",
+          "url": "https://open.spotify.com/artist/7pN6gysuGSvvdMpWPyDoN4"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215224,
+      "name": "Tabernero",
+      "url": "https://open.spotify.com/track/1NuKhgOmOLq3aKxkQxrD7a"
+    },
+    {
+      "album": {
+        "name": "Sangre Dentro",
+        "url": "https://open.spotify.com/album/4ZQddlP3KsXbcd3UOiaF3g"
+      },
+      "artists": [
+        {
+          "name": "Costa",
+          "url": "https://open.spotify.com/artist/7rAjVJgwZhvmMIt5vfyNGn"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151051,
+      "name": "Talib\u00e1n",
+      "url": "https://open.spotify.com/track/2YvTXWgCQ3w0o4gWUSyRTZ"
+    },
+    {
+      "album": {
         "name": "TANTAS VECES",
         "url": "https://open.spotify.com/album/5t08sFK0Hye3KpNMxujpG3"
       },
@@ -11467,6 +11559,32 @@
     },
     {
       "album": {
+        "name": "TOL DIA",
+        "url": "https://open.spotify.com/album/1pxFFebBwxvASdcFhx23n1"
+      },
+      "artists": [
+        {
+          "name": "EAZYBOI",
+          "url": "https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX"
+        },
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW"
+        },
+        {
+          "name": "DAYTXNA",
+          "url": "https://open.spotify.com/artist/1o8nqi3epUyvBIqDohc7Xh"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224461,
+      "name": "TOL DIA",
+      "url": "https://open.spotify.com/track/3P76RwSSoUPpI2iQuVy6oE"
+    },
+    {
+      "album": {
         "name": "Tranquilito",
         "url": "https://open.spotify.com/album/5l5ITl4xVnAL3UKtGNGa4X"
       },
@@ -11773,6 +11891,24 @@
     },
     {
       "album": {
+        "name": "Uff",
+        "url": "https://open.spotify.com/album/53HCkDLm3FNN6CNAy1K3xd"
+      },
+      "artists": [
+        {
+          "name": "Kaze",
+          "url": "https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216588,
+      "name": "Uff",
+      "url": "https://open.spotify.com/track/7hc7J8X6D7uU5NhauKn7ma"
+    },
+    {
+      "album": {
         "name": "Uh Baby",
         "url": "https://open.spotify.com/album/1Z7AEeBduo3sGklQoX6eOd"
       },
@@ -11854,7 +11990,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 201247,
       "name": "Una canci\u00f3n de amor a m\u00ed",
       "url": "https://open.spotify.com/track/5WkxR84GfZlNffsGoPPNqx"

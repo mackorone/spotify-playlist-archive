@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Chandan Shetty
 
-519 songs - 1 day 5 hr 8 min
+520 songs - 1 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Flex](https://open.spotify.com/track/70lvds1D1jTdXVrfRWeSed) | [Pratham Kathare](https://open.spotify.com/artist/6OZn7BoAKutsXDPCN490rw) | [Flex](https://open.spotify.com/album/5V0GEpj1Jwyzvx3MTtdhSq) | 2:39 | 2024-11-19 | 2025-03-20 |
 | [FLYHIGH](https://open.spotify.com/track/4xcu2aYgGXrcI8N9JBzh1j) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [FLYHIGH \- Kannada](https://open.spotify.com/album/5I7FRC3Hy9Eg6CqKE29fvL) | 3:55 | 2023-06-29 | 2024-01-05 |
 | [FLYHIGH](https://open.spotify.com/track/5M67dnFSyGFqSmFn5bQed9) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [FLYHIGH \- Kannada](https://open.spotify.com/album/5eK7K9jtp7sekjcQW41Xdl) | 3:55 | 2023-06-29 | 2024-03-02 |
-| [For Those to fall in Love](https://open.spotify.com/track/6DXSOpsDZljIwPBLpSmYEU) | [Venugopal](https://open.spotify.com/artist/0V0ufIK3fWHgWIftcg6zVA) | [For Those to fall in Love](https://open.spotify.com/album/3zQtTnau9we6vwRyLTyjmK) | 3:08 | 2025-01-31 |  |
+| [For Those to fall in Love](https://open.spotify.com/track/6DXSOpsDZljIwPBLpSmYEU) | [Venugopal](https://open.spotify.com/artist/0V0ufIK3fWHgWIftcg6zVA) | [For Those to fall in Love](https://open.spotify.com/album/3zQtTnau9we6vwRyLTyjmK) | 3:08 | 2025-01-31 | 2025-06-28 |
 | [Free](https://open.spotify.com/track/2UzkwgstKyX5wZg6t9YzxL) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Free](https://open.spotify.com/album/2dVX6UPdVWKPKs8g4huCHG) | 3:48 | 2023-07-20 | 2024-07-09 |
 | [FREE STYLE](https://open.spotify.com/track/4niYNBF9Y0L39KRtEEtjTg) | [It's me plk](https://open.spotify.com/artist/5MzgfdVaUb1uux2LZBahP3) | [FREE STYLE](https://open.spotify.com/album/6zPG6hSKKscA8n7EdDi5JF) | 1:15 | 2024-02-14 | 2024-02-20 |
 | [Freedom](https://open.spotify.com/track/09ECyJMbdmo1i1Lq7yxArW) | [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5), [Eshani](https://open.spotify.com/artist/4CQMCs1zM49VQiI6Og0VWg) | [Freedom](https://open.spotify.com/album/4iUJ0WsPHxFt71g5oMpSlQ) | 3:05 | 2023-07-28 | 2024-02-09 |
@@ -421,6 +421,7 @@
 | [Parichitana](https://open.spotify.com/track/45sV7gf7t5wKvROAaDKW94) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Parichitana](https://open.spotify.com/album/37TAvfDOrS3xPMBR1VVMsp) | 3:29 | 2024-04-12 | 2024-10-30 |
 | [Pataki Cypher](https://open.spotify.com/track/69SWabKnBArDWmPZrHbBcg) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N), [J.O.High](https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr), [Yaaru](https://open.spotify.com/artist/5uIPe6WLxAprhUHVBME3hx) | [Pataki Cypher](https://open.spotify.com/album/4jsMijzc4aWVi2Sjbbmct0) | 2:40 | 2023-11-20 | 2024-02-17 |
 | [Paycheck](https://open.spotify.com/track/3OsgYlV2mZgIdx5dka54gw) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy) | [Paycheck](https://open.spotify.com/album/2xZCXw6siAqGPVc5JyJawy) | 2:55 | 2024-11-19 | 2025-03-18 |
+| [Peace](https://open.spotify.com/track/2xHINJevzhsDPd8tK9ZUGq) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Peace](https://open.spotify.com/album/1iJm3uK3VUBqZeIyBB9kVd) | 3:38 | 2025-06-27 |  |
 | [Plz Worry](https://open.spotify.com/track/2AUqf4UqfXOfVH1LwpDOO5) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Plz Worry](https://open.spotify.com/album/1ioeFt8iKr7I7oWltSw67o) | 5:52 | 2024-02-01 | 2024-10-02 |
 | [Prabhata](https://open.spotify.com/track/1QqwgZXjOjK8mMXqHtU9eF) | [Sumedh K](https://open.spotify.com/artist/5SSjbuLdyRS8iGfETzC4Sz), [Maharshi Vishwamitra](https://open.spotify.com/artist/4rkwNV7E2Um36KSbvWVu8X) | [Kolahala](https://open.spotify.com/album/0hnQ84XGDpWc5Gp1voTCCS) | 1:09 | 2024-04-26 | 2024-11-21 |
 | [Preethi andre higena](https://open.spotify.com/track/2II577XDmMSECcdZAUAxVz) | [Dolwin Kolalagiri](https://open.spotify.com/artist/7DDPhsid60HBOEoTP3bQOk), [Prashanth Kankanady](https://open.spotify.com/artist/0TG2p7nnb1iIbddC4YFyx5), [Vidya Suvarna](https://open.spotify.com/artist/34qIICjea7gcCbwklDhmq2) | [Preethi andre higena](https://open.spotify.com/album/3p60JgIzxmvRLRqwpUXaRO) | 3:57 | 2024-07-08 | 2025-01-16 |

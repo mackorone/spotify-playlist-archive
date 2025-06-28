@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Miles Kane
 
-335 songs - 21 hr 51 min
+336 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Long Dark Night](https://open.spotify.com/track/3geRAOC9ZYJQxA1f2RZrYC) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Long Dark Night](https://open.spotify.com/album/692UfApwZN5hJ7rRIfcSde) | 3:33 | 2024-08-14 | 2025-02-08 |
 | [Long Throes](https://open.spotify.com/track/0fYRy3tTccPQx3IPKEBydD) | [Los Campesinos!](https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E) | [All Hell](https://open.spotify.com/album/0OC1Dw26zaarFA1HItWV4c) | 4:19 | 2024-07-18 | 2025-01-31 |
 | [Losing You](https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Losing You](https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP) | 3:35 | 2024-06-14 | 2025-03-22 |
-| [Lost and Found](https://open.spotify.com/track/7BzfqlcZzFr2bjTbLfxx1a) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Lost and Found](https://open.spotify.com/album/7y2bMzJ7K5qgtnEIJeyat7) | 4:15 | 2025-05-08 |  |
+| [Lost and Found](https://open.spotify.com/track/7BzfqlcZzFr2bjTbLfxx1a) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Lost and Found](https://open.spotify.com/album/7y2bMzJ7K5qgtnEIJeyat7) | 4:15 | 2025-05-08 | 2025-06-28 |
 | [Lost Changes](https://open.spotify.com/track/77tzZpDAF4lZGQN10R2i61) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Lost Changes](https://open.spotify.com/album/0InZsj14Zayf3eC7auh4aJ) | 5:41 | 2024-06-14 | 2024-07-31 |
 | [Lost Ones](https://open.spotify.com/track/1eTqpWYQf5w5osZizi2I5b) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Dr\. Dog](https://open.spotify.com/album/4gjV2tn14HAQusWUf4GKtl) | 4:30 | 2024-08-14 | 2025-01-17 |
 | [Lotta Love](https://open.spotify.com/track/2n9y3UtCDmRUD94jlPTJCz) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Lotta Love](https://open.spotify.com/album/0oVhAs8HZP3UE1G3ptBBa0) | 2:49 | 2025-02-07 |  |
@@ -248,6 +248,7 @@
 | [Read The Room](https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 5:14 | 2024-06-14 | 2025-03-22 |
 | [Release Myself](https://open.spotify.com/track/2KXFFgeqNkSWnOKy0eMAuB) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [Light Sleeper](https://open.spotify.com/album/4wmalPtenCERnePwFsCD99) | 3:38 | 2024-06-14 | 2025-05-09 |
 | [Renegade](https://open.spotify.com/track/6XMHSmYxPPSu5dEIYT2iiB) | [Doves](https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY) | [Renegade](https://open.spotify.com/album/0lzllJKffqeHBrlhg79BMw) | 5:11 | 2024-11-15 | 2025-03-18 |
+| [Return Of The Sharp Heads](https://open.spotify.com/track/7MbYj4jXgAkEmp2pts5Ov1) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Return Of the Sharp Heads](https://open.spotify.com/album/39k2pwAvi0MV65HXhFrQHw) | 5:05 | 2025-06-20 |  |
 | [Return of Youth](https://open.spotify.com/track/1Up0lG6k9NsBKs7hjJulCw) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Return of Youth](https://open.spotify.com/album/0rBtZug6roUoHxRSVCpPWC) | 7:38 | 2025-05-23 |  |
 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 | 2024-11-15 |  |
 | [Rumble Strip](https://open.spotify.com/track/1FSS2KFXMpXYmfWga8gDxZ) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Rumble Strip](https://open.spotify.com/album/0DCZGmIVHuc7p33ECSayvf) | 3:00 | 2024-06-14 | 2024-11-20 |

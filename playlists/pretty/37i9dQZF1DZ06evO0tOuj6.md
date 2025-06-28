@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 
 > This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,198 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,197 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 | 22 | [教えてウロボロス \- feat.宮崎朝子](https://open.spotify.com/track/0nDouEV8uGMwAfndyQ3iPH) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [宮崎朝子](https://open.spotify.com/artist/6caFfPYYOh3cHW5r28bRFa) | [35](https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk) | 3:49 |
 | 23 | [追憶のライラック \- feat.ハナレグミ \[2020 Remaster\]](https://open.spotify.com/track/5alRebdMl0mgrkyu1UlOLo) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [TOKYO SKA TREASURES〜ベスト・オブ・東京スカパラダイスオーケストラ〜](https://open.spotify.com/album/0wFDFV3dl6tYSf5iCoMVlC) | 5:01 |
 | 24 | [散りゆく花のせいで](https://open.spotify.com/track/10JVAH3MIlfRzyYWvzLQpz) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [散りゆく花のせいで](https://open.spotify.com/album/5rYnsyLY11mDwQVJVwxu5u) | 4:29 |
-| 25 | [トイトイ \- feat.ムロツヨシ](https://open.spotify.com/track/6Q1fVjB5d2zI4r6nWGorFZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ムロツヨシ](https://open.spotify.com/artist/5Tqul890RRqMSDkmLNw5Jr) | [トイトイ \(feat.ムロツヨシ\)](https://open.spotify.com/album/1DfHJUAqMbM18p48ymnyUA) | 3:44 |
-| 26 | [Remember Me \(End Credit Version\) \- Japanese Version](https://open.spotify.com/track/43bGrywq4gIWKawbTKVUUk) | [Kavka Shishido](https://open.spotify.com/artist/0dlbyoDrOHqBVQpKdPuUB8), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Coco \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/0UYGH1uVYPr2Fzqw6lyjd9) | 2:58 |
+| 25 | [Remember Me \(End Credit Version\) \- Japanese Version](https://open.spotify.com/track/43bGrywq4gIWKawbTKVUUk) | [Kavka Shishido](https://open.spotify.com/artist/0dlbyoDrOHqBVQpKdPuUB8), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Coco \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/0UYGH1uVYPr2Fzqw6lyjd9) | 2:58 |
+| 26 | [トイトイ \- feat.ムロツヨシ](https://open.spotify.com/track/6Q1fVjB5d2zI4r6nWGorFZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ムロツヨシ](https://open.spotify.com/artist/5Tqul890RRqMSDkmLNw5Jr) | [トイトイ \(feat.ムロツヨシ\)](https://open.spotify.com/album/1DfHJUAqMbM18p48ymnyUA) | 3:44 |
 | 27 | [星降る夜に](https://open.spotify.com/track/6fcIUJpgdpRvyhSjJzQouI) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [BEST OF TOKYO SKA 1998\-2007](https://open.spotify.com/album/1RdNgVSyLueO46yH5SAjkc) | 4:13 |
 | 28 | [Dale Dale! 〜ダレ・ダレ!〜 \- feat.チバユウスケ](https://open.spotify.com/track/4deHviaMO5PAecTlfJUOLL) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [チバユウスケ](https://open.spotify.com/artist/22a6IbaR2zoPAkudKhWXaW) | [ツギハギカラフル](https://open.spotify.com/album/6riD8MZKwqtM6GCStYISKj) | 2:43 |
 | 29 | [しらけちまうぜ](https://open.spotify.com/track/1PohOiwOj3bXB0Xyx2ChGR) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Ozawa Kenji](https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I) | [グランプリ](https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 | 49 | [火の玉ジャイヴ](https://open.spotify.com/track/1gBs17LyDgSWD6WDBtjLPu) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [BEST OF TOKYO SKA 1998\-2007](https://open.spotify.com/album/1RdNgVSyLueO46yH5SAjkc) | 3:50 |
 | 50 | [無責任ヒーロー jam with 東京スカパラダイスオーケストラ](https://open.spotify.com/track/49WjKuQ5lTbv5y9RYb5Gsh) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [GR8EST](https://open.spotify.com/album/0hYKZACQIdhp52JXlTpAwM) | 4:59 |
 
-Snapshot ID: `aFs8AAAAAABw+pAQuyVn32dNha24BTjZ`
+Snapshot ID: `aFyNgAAAAACFuXKgQVc1cBwccWLo/daW`

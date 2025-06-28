@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jake Worthington
 
-698 songs - 1 day 17 hr 32 min
+699 songs - 1 day 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [17 Wild Horses](https://open.spotify.com/track/3MgmNeCvLeaB9k8IAuJvef) | [Rich O'Toole](https://open.spotify.com/artist/2t6FHAUXxi9eiatP2Mavh0) | [17 Wild Horses](https://open.spotify.com/album/3ULIykDSMRU0p8qMRrkpiw) | 4:02 | 2021-12-17 | 2022-05-28 |
 | [30 Miles](https://open.spotify.com/track/7JVEogoLQNWMQlIxTj0Lqw) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Faded Memories](https://open.spotify.com/album/3sKrvMSNdu4tnF3WDTgk9K) | 3:20 | 2022-04-29 | 2022-08-22 |
 | [35](https://open.spotify.com/track/6MdpKIS3SN51LsCYzZt0VE) | [Hill Country Revival](https://open.spotify.com/artist/46xdywMCy9lk3K4wN9SkvE) | [35](https://open.spotify.com/album/15IVUnrz2FvsgT7IN4LFYE) | 4:07 | 2022-05-27 | 2022-07-09 |
-| [5 to 9](https://open.spotify.com/track/7aGK202gwOfeCJee5qYCGy) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [5 to 9](https://open.spotify.com/album/1c8wFzXWGK7yDkLWfctG1Q) | 3:23 | 2024-08-02 |  |
+| [5 to 9](https://open.spotify.com/track/7aGK202gwOfeCJee5qYCGy) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [5 to 9](https://open.spotify.com/album/1c8wFzXWGK7yDkLWfctG1Q) | 3:23 | 2024-08-02 | 2025-06-28 |
 | [50 In The Fast Lane](https://open.spotify.com/track/5alOkELJvfoqRQGDkJn6Gc) | [Garrett Bradford](https://open.spotify.com/artist/2Ld4BO9aCvmYXbO9wvxQ0Q) | [50 In The Fast Lane](https://open.spotify.com/album/0VOHxJLjbiQkw9FRu4bloT) | 3:30 | 2021-12-17 | 2022-07-25 |
 | [9 To 5 \(feat\. Kylie Frey\)](https://open.spotify.com/track/1fVv9DVpLNiobkGlE1LrtH) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [9 To 5](https://open.spotify.com/album/5kicg2H6THrgsSoW3SAA4v) | 2:16 | 2023-08-25 | 2023-10-03 |
 | [A Cat in the Rain](https://open.spotify.com/track/0Zt4KxjqHYswmQvjpnpiPe) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Cat in the Rain](https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8) | 5:17 | 2023-08-25 |  |
@@ -564,6 +564,7 @@
 | [Terrifying Nature \- Radio Edit](https://open.spotify.com/track/3mZmMGoGqyVjjLRkR9ZP1l) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [The Light Saw Me](https://open.spotify.com/album/2wbryQP9ji9Bfy1b91NcT1) | 3:47 | 2022-04-01 | 2022-07-09 |
 | [Texas](https://open.spotify.com/track/3XIfx3GzMzoEXUDF2vEbBZ) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Texas](https://open.spotify.com/album/57JqhOplFcXZLR8mZ7p3q5) | 3:42 | 2022-08-05 | 2022-09-16 |
 | [Texas & You](https://open.spotify.com/track/1rXVMnFigwPfk8tNnLLj3z) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Texas & You](https://open.spotify.com/album/4DxxgoQzzyA7tAPzAXemCQ) | 3:41 | 2022-03-04 | 2022-10-18 |
+| [Texas Forever](https://open.spotify.com/track/23fs42C3A7vOH4MMfFeSFK) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Texas Forever](https://open.spotify.com/album/0ChLZ9bffEOVELsyxIOCId) | 3:15 | 2025-06-27 |  |
 | [Texas Hold 'Em](https://open.spotify.com/track/5e0h38dIcXdVLoLXKxFRYb) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Texas Hold 'Em](https://open.spotify.com/album/1V0WoAMcL38iGQYyDfgxzL) | 3:02 | 2024-03-29 |  |
 | [Texas Is My Home](https://open.spotify.com/track/0caKs7RDt6nIwdvkkXFnPD) | [Rich O'Toole](https://open.spotify.com/artist/2t6FHAUXxi9eiatP2Mavh0) | [Texas Is My Home](https://open.spotify.com/album/7GEOpsPQMd9DIKQHIJcTRs) | 3:24 | 2023-04-28 | 2023-06-17 |
 | [Texas Moon](https://open.spotify.com/track/3W5rOs2jB7R3H0PEBxIiJ1) | [Caden Gillard](https://open.spotify.com/artist/0Aql1V8loJKhIE3fQuqKdK) | [Love & Heartbreak](https://open.spotify.com/album/7hPYGbGuvnijMDFS70BQHK) | 3:53 | 2022-10-14 | 2023-02-25 |

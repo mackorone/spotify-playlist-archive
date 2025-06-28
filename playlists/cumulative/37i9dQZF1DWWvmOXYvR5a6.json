@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: YANGHONGWON(\uc591\ud64d\uc6d0))(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: Ahn Byeong Woong(\uc548\ubcd1\uc6c5))(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -2330,7 +2330,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 143624,
       "name": "Centro",
       "url": "https://open.spotify.com/track/3wlwroVeQdVFLTXfURFb1l"
@@ -3388,7 +3388,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 172956,
       "name": "Dessert shop (Feat. h3hyeon)",
       "url": "https://open.spotify.com/track/6hMwJeEhfeVm98LyRN7WWk"
@@ -3675,6 +3675,24 @@
     },
     {
       "album": {
+        "name": "Double C",
+        "url": "https://open.spotify.com/album/3WpxmeGPoUYDbttYTYj539"
+      },
+      "artists": [
+        {
+          "name": "Royal 44",
+          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142268,
+      "name": "Double C",
+      "url": "https://open.spotify.com/track/3QnzKLeBJmlsmuf4bYBbqO"
+    },
+    {
+      "album": {
         "name": "BLOO IN WONDERLAND 2",
         "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
       },
@@ -3796,6 +3814,24 @@
       "duration_ms": 140826,
       "name": "Dream",
       "url": "https://open.spotify.com/track/6gVtv8uLQgzSEu5pRu3jNP"
+    },
+    {
+      "album": {
+        "name": "D.O.T",
+        "url": "https://open.spotify.com/album/1jYIZVqQhk2ObNzthKCNF9"
+      },
+      "artists": [
+        {
+          "name": "Ahn Byeong Woong",
+          "url": "https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Dream girl",
+      "url": "https://open.spotify.com/track/4k032jvIta00Jak0i9z90R"
     },
     {
       "album": {
@@ -5103,6 +5139,28 @@
     },
     {
       "album": {
+        "name": "House of Girls, Episode 4",
+        "url": "https://open.spotify.com/album/3GATj9YiABtlzaoCk7sjdu"
+      },
+      "artists": [
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160026,
+      "name": "GMK (feat. CHANGMO)",
+      "url": "https://open.spotify.com/track/0vTiOnO5rVakyOhAskGO9J"
+    },
+    {
+      "album": {
         "name": "ZOO",
         "url": "https://open.spotify.com/album/6p5kwLGQ7yLZ7faZ58dJwa"
       },
@@ -6310,7 +6368,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 211640,
       "name": "I Am Yours",
       "url": "https://open.spotify.com/track/7kt9DWBdhxw9pABN5M3NjE"
@@ -7424,6 +7482,28 @@
       "duration_ms": 194160,
       "name": "Killin me softly (feat. Skinny Brown)",
       "url": "https://open.spotify.com/track/1j8H6zxSArZDQsbpBCLtgn"
+    },
+    {
+      "album": {
+        "name": "House of Girls, Episode 3",
+        "url": "https://open.spotify.com/album/0ECVcFFArwRrajFkiN524D"
+      },
+      "artists": [
+        {
+          "name": "cyan",
+          "url": "https://open.spotify.com/artist/7909RijUN4OHQDLWadiWfI"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163859,
+      "name": "Kiss Like This",
+      "url": "https://open.spotify.com/track/5I0IPEUldhAB9vd1waw3rF"
     },
     {
       "album": {
@@ -9136,7 +9216,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 210641,
       "name": "Misfits (Feat. MELOH, Kid Wine)",
       "url": "https://open.spotify.com/track/6W8HwARrdbtCNU8lupQD3J"
@@ -10107,6 +10187,28 @@
     },
     {
       "album": {
+        "name": "House of Girls, Episode 3",
+        "url": "https://open.spotify.com/album/0ECVcFFArwRrajFkiN524D"
+      },
+      "artists": [
+        {
+          "name": "YOUNGJOO",
+          "url": "https://open.spotify.com/artist/1nLn5ZeWUlNQuxva3WZGfp"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185039,
+      "name": "Not Available",
+      "url": "https://open.spotify.com/track/3QKGvdqjBGpzTTMBCBIwtm"
+    },
+    {
+      "album": {
         "name": "Show Me the Money 8 Episode 1",
         "url": "https://open.spotify.com/album/1qv0luDbXWHNuRS60DGB9W"
       },
@@ -11032,7 +11134,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 185729,
       "name": "Pick up your phone (Feat. MOON)",
       "url": "https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0"
@@ -13350,6 +13452,28 @@
       "duration_ms": 197426,
       "name": "STILL.",
       "url": "https://open.spotify.com/track/7xvZaKgTm12EA2BorgmXJ3"
+    },
+    {
+      "album": {
+        "name": "House of Girls, Episode 4",
+        "url": "https://open.spotify.com/album/3GATj9YiABtlzaoCk7sjdu"
+      },
+      "artists": [
+        {
+          "name": "yooa",
+          "url": "https://open.spotify.com/artist/1pyGcAxt0drRdeslFgdcLh"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171040,
+      "name": "STORM",
+      "url": "https://open.spotify.com/track/2zoAH8Ihp32xB6wGdrHtoj"
     },
     {
       "album": {
@@ -16324,7 +16448,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 137250,
       "name": "\ubbf8\uc6cc\ubbf8\uc6cc",
       "url": "https://open.spotify.com/track/3Qrk2n9heBxrDNRThqg1Sh"

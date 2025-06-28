@@ -1639,6 +1639,28 @@
     },
     {
       "album": {
+        "name": "ETERNA",
+        "url": "https://open.spotify.com/album/42jxYcNgfc3aKx5OFf0Apm"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196112,
+      "name": "Acelero",
+      "url": "https://open.spotify.com/track/4wa8mFzmBEB9xfeCCSi8CG"
+    },
+    {
+      "album": {
         "name": "Armon\u00eda De Paz Interior: M\u00fasica Para La Meditaci\u00f3n",
         "url": "https://open.spotify.com/album/2OSAwHiALYqhNlXS5yXW1v"
       },
@@ -2139,6 +2161,28 @@
     },
     {
       "album": {
+        "name": "Keeper of Chronos",
+        "url": "https://open.spotify.com/album/13JpLlscppTg9tabzKOscz"
+      },
+      "artists": [
+        {
+          "name": "ScarLid Vibez",
+          "url": "https://open.spotify.com/artist/5kNDp8ViqFRVvMDbHrhfzq"
+        },
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79020,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/5BQ5OJkyDq9eS6XypoZjZB"
+    },
+    {
+      "album": {
         "name": "Alaska, You're On Thin Ice Buddy!",
         "url": "https://open.spotify.com/album/44YbGpDd64m0rv5Coh0cjW"
       },
@@ -2342,6 +2386,24 @@
       "duration_ms": 181806,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/2wdqcce0DKklq4aSD8zADU"
+    },
+    {
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165107,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI"
     },
     {
       "album": {
@@ -5041,6 +5103,24 @@
     },
     {
       "album": {
+        "name": "The Arsonist",
+        "url": "https://open.spotify.com/album/0n8CNMEoXFrvm9IfSYoGgv"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254546,
+      "name": "Battle Of Harvest Moon",
+      "url": "https://open.spotify.com/track/1DiuPn5TtWc1pIC8rKPHym"
+    },
+    {
+      "album": {
         "name": "Outland (Live 1986)",
         "url": "https://open.spotify.com/album/0xkSGkBIBRETnFWsp2VOGR"
       },
@@ -6887,6 +6967,40 @@
     },
     {
       "album": {
+        "name": "Album of the Year #1 Funkateer (Bonus)",
+        "url": "https://open.spotify.com/album/4WEbsbuolnmojl4JMPQZlZ"
+      },
+      "artists": [
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Fantaazma",
+          "url": "https://open.spotify.com/artist/2PSnVa4aT9bntUbGmLAa0V"
+        },
+        {
+          "name": "Brother Nature",
+          "url": "https://open.spotify.com/artist/3tmXdtreR3DBXX5TLv4kda"
+        },
+        {
+          "name": "Mousse T.",
+          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190506,
+      "name": "Bubble Pop - Mousse T. Remix",
+      "url": "https://open.spotify.com/track/0co27D2msY1SfCZK6J4fu3"
+    },
+    {
+      "album": {
         "name": "Live in Switzerland (Remastered 2023)",
         "url": "https://open.spotify.com/album/1DLdNlZoXWPL3ooXijwcEI"
       },
@@ -8680,7 +8794,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 103441,
       "name": "Close to you",
       "url": "https://open.spotify.com/track/6CBurTHmYJhIcDD72Qgjnm"
@@ -15690,7 +15804,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 144750,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/1iSDn0mTpb0ZLZcbZgYkef"
@@ -16270,6 +16384,28 @@
       "duration_ms": 305762,
       "name": "Foxglove Through The Clearcut - Acoustic",
       "url": "https://open.spotify.com/track/4EfROdTKT8NTmJg8gxgXQi"
+    },
+    {
+      "album": {
+        "name": "The Secret Of Life: Partners, Volume 2",
+        "url": "https://open.spotify.com/album/3IWJnA5vzbaVW3LaNuftb2"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286264,
+      "name": "Fragile (with Sting)",
+      "url": "https://open.spotify.com/track/2l0rcglvO7sDQJcbTJxWK4"
     },
     {
       "album": {
@@ -22823,6 +22959,28 @@
     },
     {
       "album": {
+        "name": "Odes To The Gods",
+        "url": "https://open.spotify.com/album/0QV0tTexpaWENGHv8NgX7w"
+      },
+      "artists": [
+        {
+          "name": "Defenders Of The Faith",
+          "url": "https://open.spotify.com/artist/3WuYo4HWGCs506nKBc5tSw"
+        },
+        {
+          "name": "Therion",
+          "url": "https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241820,
+      "name": "Intruder",
+      "url": "https://open.spotify.com/track/2iJQDtuxqOeaLIo5J15EFN"
+    },
+    {
+      "album": {
         "name": "Dark Waters",
         "url": "https://open.spotify.com/album/0aZuBf1mVMdYYZWRxBUZHs"
       },
@@ -25498,7 +25656,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 203320,
       "name": "Leavin' Here - The Manticore Tapes",
       "url": "https://open.spotify.com/track/79rlrnFpFrXZQTvDCsgcdg"
@@ -33929,6 +34087,28 @@
     },
     {
       "album": {
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/22V3MT04FxMnr8RxzhbIve"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Citadelle",
+          "url": "https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148214,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/1Ju9Tb5R1vsUu1Ir8sO6vX"
+    },
+    {
+      "album": {
         "name": "Super Mario Concert (Live)",
         "url": "https://open.spotify.com/album/1vytWdjploH44Kp0mSlPm1"
       },
@@ -36834,7 +37014,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 70739,
       "name": "Reyak",
       "url": "https://open.spotify.com/track/18lMp5mKv98TP8qxgZH2b2"
@@ -38043,6 +38223,28 @@
     },
     {
       "album": {
+        "name": "Sakura (Groovy!)",
+        "url": "https://open.spotify.com/album/2OD4n2HTUZ4FagG4AWA7Xy"
+      },
+      "artists": [
+        {
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+        },
+        {
+          "name": "Cristina Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3dIas19OkS23WA7DRnG1SO"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68046,
+      "name": "Sakura (Groovy!)",
+      "url": "https://open.spotify.com/track/3JaRlJfu5lXZagExgSD6cE"
+    },
+    {
+      "album": {
         "name": "Sakura (Yo Te Atrapo, T\u00fa Me Atrapas)",
         "url": "https://open.spotify.com/album/05edtJFqJY8ZxW3ivSfvwt"
       },
@@ -38058,7 +38260,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 78867,
       "name": "Sakura (Yo Te Atrapo, T\u00fa Me Atrapas)",
       "url": "https://open.spotify.com/track/2wmYl2e1jC2s85ajemzGi1"
@@ -40915,6 +41117,28 @@
     },
     {
       "album": {
+        "name": "Son (Juno Reactor Remix)",
+        "url": "https://open.spotify.com/album/1SWniSavJUFr1KeofW2GuX"
+      },
+      "artists": [
+        {
+          "name": "Molchat Doma",
+          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+        },
+        {
+          "name": "Juno Reactor",
+          "url": "https://open.spotify.com/artist/1Pe3z1UqRzKsQtHsl25dm6"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414602,
+      "name": "Son - Juno Reactor Remix",
+      "url": "https://open.spotify.com/track/1fACNlTXBRvZqHtec0ePCK"
+    },
+    {
+      "album": {
         "name": "Lie To Me",
         "url": "https://open.spotify.com/album/2m7XMTj30tOUAr4YPFRQmV"
       },
@@ -41822,7 +42046,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 192466,
       "name": "STARDUST",
       "url": "https://open.spotify.com/track/5kiP5w10py55zfgWeHxpfa"
@@ -42446,7 +42670,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 316373,
       "name": "Sunday Love",
       "url": "https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz"
@@ -43580,7 +43804,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 224453,
       "name": "Taphephobia",
       "url": "https://open.spotify.com/track/536XnlSuHdxoEcdQFFwAka"
@@ -49801,6 +50025,24 @@
     },
     {
       "album": {
+        "name": "Tracks II: The Lost Albums",
+        "url": "https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345866,
+      "name": "Unsatisfied Heart",
+      "url": "https://open.spotify.com/track/54tyK1tUpNgxSVFrLJb1wk"
+    },
+    {
+      "album": {
         "name": "Unshatter",
         "url": "https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7"
       },
@@ -50306,6 +50548,24 @@
       "duration_ms": 189544,
       "name": "Verso Por Saludo",
       "url": "https://open.spotify.com/track/6pQZ6v3WVO16zMdUxcVSi7"
+    },
+    {
+      "album": {
+        "name": "The Manticore Tapes",
+        "url": "https://open.spotify.com/album/4lA6sBkX6kxj6aoHBqd6eY"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206040,
+      "name": "Vibrator - The Manticore Tapes",
+      "url": "https://open.spotify.com/track/3MWH5l5Y2zurMuiErRRcCm"
     },
     {
       "album": {
@@ -53338,7 +53598,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 364724,
       "name": "Ya Tak Ustal - Overseer Remix",
       "url": "https://open.spotify.com/track/2zQ5B3xbReg4wjJpJr85E8"
@@ -54500,7 +54760,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 279960,
       "name": "\u6e1a",
       "url": "https://open.spotify.com/track/3ncRVSTTZNPtwpzMc0jnxy"

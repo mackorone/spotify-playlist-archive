@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 424487,
+  "num_followers": 424662,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Sensation",
+        "url": "https://open.spotify.com/album/3khKaLL2SaCzw9UyvsLh5u"
+      },
+      "artists": [
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        }
+      ],
+      "duration_ms": 201235,
+      "name": "Sensation",
+      "url": "https://open.spotify.com/track/7bqTk1RRfajEw5fJf3CooS"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Convivium",
         "url": "https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 133200,
       "name": "Convivium",
       "url": "https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Sensation",
-        "url": "https://open.spotify.com/album/3khKaLL2SaCzw9UyvsLh5u"
-      },
-      "artists": [
-        {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
-        }
-      ],
-      "duration_ms": 201235,
-      "name": "Sensation",
-      "url": "https://open.spotify.com/track/7bqTk1RRfajEw5fJf3CooS"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Bass Boys",
-        "url": "https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6"
-      },
-      "artists": [
-        {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        }
-      ],
-      "duration_ms": 179805,
-      "name": "Bass Boys",
-      "url": "https://open.spotify.com/track/7vMU4De9ruZBTCbseWEQUm"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "DARK MATTER",
         "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
       },
@@ -1535,6 +1519,42 @@
       "duration_ms": 174044,
       "name": "P.I.M.P. - HEDEGAARD Remix",
       "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/1vrQiLeLfUNq4IshXfqg9R"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/34AodtfpGFMvlxpKFrNxvY"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Bass Boys",
+        "url": "https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        }
+      ],
+      "duration_ms": 179805,
+      "name": "Bass Boys",
+      "url": "https://open.spotify.com/track/7vMU4De9ruZBTCbseWEQUm"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1559,26 +1579,6 @@
       "duration_ms": 200086,
       "name": "Perfect (Exceeder) - 1991 Remix",
       "url": "https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/1vrQiLeLfUNq4IshXfqg9R"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/34AodtfpGFMvlxpKFrNxvY"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1691,30 +1691,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Jump Jump Jump",
-        "url": "https://open.spotify.com/album/7oP25q6BPt2pAsVfGnbCFq"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "ItaloBrothers",
-          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
-        },
-        {
-          "name": "Captain Curtis",
-          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
-        }
-      ],
-      "duration_ms": 159473,
-      "name": "Jump Jump Jump",
-      "url": "https://open.spotify.com/track/309jTjKoqrNjo0CQGjA0i4"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Ameno (Techno Mix)",
         "url": "https://open.spotify.com/album/462dtvXo4JbizSYgI6wUPX"
       },
@@ -1735,6 +1711,30 @@
       "duration_ms": 150400,
       "name": "Ameno (Techno Mix)",
       "url": "https://open.spotify.com/track/4gTFHQpidAuSjo5voOV5cG"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Jump Jump Jump",
+        "url": "https://open.spotify.com/album/7oP25q6BPt2pAsVfGnbCFq"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        },
+        {
+          "name": "Captain Curtis",
+          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
+        }
+      ],
+      "duration_ms": 159473,
+      "name": "Jump Jump Jump",
+      "url": "https://open.spotify.com/track/309jTjKoqrNjo0CQGjA0i4"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Dies Irae",
-        "url": "https://open.spotify.com/album/0mZgAjGaN1BUsAofsuC01k"
-      },
-      "artists": [
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "le Shuuk",
-          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
-        }
-      ],
-      "duration_ms": 157208,
-      "name": "Dies Irae",
-      "url": "https://open.spotify.com/track/4tHzUOO5UunlyzAoEpQcYD"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "My Mama Dropped LSD in the 90's",
         "url": "https://open.spotify.com/album/0X12iWSZ0DQrn35GgTEjrT"
       },
@@ -1843,18 +1823,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
+        "name": "Dies Irae",
+        "url": "https://open.spotify.com/album/0mZgAjGaN1BUsAofsuC01k"
       },
       "artists": [
         {
-          "name": "Bisken",
-          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "le Shuuk",
+          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
         }
       ],
-      "duration_ms": 134357,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
+      "duration_ms": 157208,
+      "name": "Dies Irae",
+      "url": "https://open.spotify.com/track/4tHzUOO5UunlyzAoEpQcYD"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1875,6 +1859,22 @@
       "duration_ms": 136800,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
+      },
+      "artists": [
+        {
+          "name": "Bisken",
+          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
+        }
+      ],
+      "duration_ms": 134357,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
     },
     {
       "added_at": "2025-06-26 22:00:24",

@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of fresh releases from your future favorite artists\. Cover:  AEUNA Artwork: Isu Kim
 
-3,374 songs - 8 day 5 hr 47 min
+3,376 songs - 8 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -713,6 +713,7 @@
 | [Destruction](https://open.spotify.com/track/5JbmgzA5bYeHSsTw7GXzyQ) | [hidari](https://open.spotify.com/artist/1qXQMTY6l4Y1ipNXBo8Ysq) | [Unknown](https://open.spotify.com/album/4L7wnpVeoyXOn236QIpsHn) | 2:19 | 2025-05-01 | 2025-06-13 |
 | [DETOUR](https://open.spotify.com/track/6GWq01Ebwb80FrBxvnLjU3) | [serro](https://open.spotify.com/artist/5Fxq79t2xobaOsu2DfRAh0) | [DETOUR](https://open.spotify.com/album/7zl6lQeBeR8zHfIbhMTybV) | 3:29 | 2022-07-28 | 2022-09-09 |
 | [Di 'to Imposible](https://open.spotify.com/track/2eO4jsmAgkYkhc17PFmfeh) | [Zynergy](https://open.spotify.com/artist/0MUzybUI0w3cqN03N8NAxi) | [Di 'to Imposible](https://open.spotify.com/album/7swiRAp0luXsIZyVsayAUZ) | 2:49 | 2024-09-12 | 2024-10-04 |
+| [Di Bale](https://open.spotify.com/track/2UzBtOoIwKQZv68n79PXxV) | [Hplss](https://open.spotify.com/artist/69N5GFx9RDaVyHmkzOwSGK), [geeyow.b4by](https://open.spotify.com/artist/6BYbqPn6Vx1XOtSFrHziJG) | [Di Bale](https://open.spotify.com/album/3mzvtOwZdF9n674uElQftG) | 2:50 | 2025-06-26 |  |
 | [Di INIBIG](https://open.spotify.com/track/5wGN4oyLLY7632Yb90M9Sz) | [Ataska](https://open.spotify.com/artist/5WXOc5RknE9PY8ie8plLvx) | [Di INIBIG](https://open.spotify.com/album/0vRvN93MwiJJnU4FWH8l44) | 3:28 | 2024-06-13 | 2024-07-12 |
 | [Di kawasa](https://open.spotify.com/track/5oPeHUD4t1aD7RT2PmUuvD) | [Outer Space Studio](https://open.spotify.com/artist/2NWGirWy4tZ0b9qNGn6dgq), [\-Fatal Kid\-](https://open.spotify.com/artist/5EQeXfUSygDYU6cCXvVVtE), [Tohbee](https://open.spotify.com/artist/6cu5s1XrvYguqrFPfVprIF) | [Di kawasa](https://open.spotify.com/album/0iZPUSzUwM916rk626Fro3) | 2:32 | 2023-05-25 | 2023-06-09 |
 | [Di Ko Kaya](https://open.spotify.com/track/0cQibHPnITVOdGjms97KLY) | [Gabriel Angelo](https://open.spotify.com/artist/48pvdRP9qwG9omYQpxtLJE) | [Di Ko Kaya](https://open.spotify.com/album/1cDDiwn3c3Quj6all1kwo9) | 4:34 | 2025-02-20 | 2025-04-04 |
@@ -1803,6 +1804,7 @@
 | [luv4me](https://open.spotify.com/track/0H6cuffQt6kjdVYMz4Hp2t) | [Reese](https://open.spotify.com/artist/56ZCSw8dJwR410dPclbSnR) | [luv4me](https://open.spotify.com/album/3FjqPWZ2VhnA8H8FmzbbNP) | 3:00 | 2024-02-22 | 2024-03-22 |
 | [M](https://open.spotify.com/track/22yAA8Fh59Czsw7OUyhudt) | [sean ilada](https://open.spotify.com/artist/5KZB24d3jD5Si9WbQB1PD8) | [M](https://open.spotify.com/album/3nxjvM8ONlXnXFG5OJbN16) | 5:16 | 2024-06-13 | 2024-07-12 |
 | [M A R I A](https://open.spotify.com/track/121TL4sq8Gi4PVvYENK40s) | [McMhac](https://open.spotify.com/artist/3sLYVNOOrs1ppOfMxAu0Bj), [Civie](https://open.spotify.com/artist/6C1btoqdEOdmAdjZFOjxtv), [Jrick](https://open.spotify.com/artist/6zRag2tfFRKoxg3kVAvxom) | [M A R I A](https://open.spotify.com/album/5U7ZQ47JtPp79NL99nFibu) | 3:04 | 2023-03-02 | 2023-03-18 |
+| [M.O.B](https://open.spotify.com/track/4wkHkpUh7PBtCTaM5sPzL4) | [YLL CROOKED](https://open.spotify.com/artist/2jCjL4TAa1FYMbYKeyTNPn), [Al Facundo](https://open.spotify.com/artist/4lpJ2CjApRZROTDr8cbQSl) | [TRAPPED IN DA DARK](https://open.spotify.com/album/00QP8HLXXBvQVx1za93xLB) | 3:40 | 2025-06-27 |  |
 | [Ma Orosa](https://open.spotify.com/track/22kB7ZLdZyL05JzahITkM1) | [Woochito](https://open.spotify.com/artist/52bAltwk2XQU59byS5lvkx) | [Ma Orosa](https://open.spotify.com/album/4C49U85BPtnbz8HhIrs6OF) | 3:35 | 2023-04-27 | 2023-05-12 |
 | [MAAARI BA](https://open.spotify.com/track/3D3wKeaHvsuet2mZbkscpA) | [Ron David](https://open.spotify.com/artist/2Be24H7MmbWqAAlo283VNa), [JP Bacallan](https://open.spotify.com/artist/4FHrW1ts0EkPM27nmHtxQG) | [MAAARI BA](https://open.spotify.com/album/6cWj8bBEkN3GcJg5zmfvx8) | 3:27 | 2023-04-27 | 2023-05-19 |
 | [Maarte](https://open.spotify.com/track/7LgCkV18k5BKyfJwNI4LCe) | [Tamara](https://open.spotify.com/artist/1Kxv8d3e9Lwi4zDVh0JAXI) | [Maarte](https://open.spotify.com/album/6MbVort66x0RAzUYrsgXEh) | 3:20 | 2025-06-26 |  |

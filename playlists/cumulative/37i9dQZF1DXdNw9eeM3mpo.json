@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "100% ska en espa\u00f1ol. Camiseta 22 y Los Miserables en portada.",
+  "description": "100% ska en espa\u00f1ol. Out Of Control Army en portada.",
   "name": "Ska Latino ",
   "tracks": [
     {
@@ -270,7 +270,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 184970,
       "name": "Algoritmo",
       "url": "https://open.spotify.com/track/3R9cfh0QE24MdkoGLRAlOB"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 209334,
       "name": "Bier & Ska",
       "url": "https://open.spotify.com/track/5NWX0nMD2FjeQW06RRuj4h"
@@ -1308,6 +1308,28 @@
       "duration_ms": 199106,
       "name": "Criminales Sudamericanos",
       "url": "https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4"
+    },
+    {
+      "album": {
+        "name": "Cuando Escucho Tu Nombre",
+        "url": "https://open.spotify.com/album/77Zkrwv42g0q7t30v1nm4S"
+      },
+      "artists": [
+        {
+          "name": "Mistica",
+          "url": "https://open.spotify.com/artist/2M84wboHrcVdEhJAMrEHQR"
+        },
+        {
+          "name": "Providencia",
+          "url": "https://open.spotify.com/artist/5Jfv3Fh8E4Gb8AYLwl4OCv"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181648,
+      "name": "Cuando Escucho Tu Nombre",
+      "url": "https://open.spotify.com/track/5bwNbQnyLsF4JC8Fuu1Zpr"
     },
     {
       "album": {
@@ -2492,7 +2514,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 176500,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/1y1a1nJZ3ycvXwNR3ycFe1"
@@ -2521,6 +2543,24 @@
     },
     {
       "album": {
+        "name": "Flotar",
+        "url": "https://open.spotify.com/album/3CsN56XRm1xj1Sv6s58Mxb"
+      },
+      "artists": [
+        {
+          "name": "Alamedadosoulna",
+          "url": "https://open.spotify.com/artist/1Yfek8Lmn4Dzu7Eabz95vQ"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189098,
+      "name": "Flotar",
+      "url": "https://open.spotify.com/track/6uUefP45tSJpDUCpYV02tF"
+    },
+    {
+      "album": {
         "name": "Presenta...",
         "url": "https://open.spotify.com/album/24sOxrv4eAoqmc2FB7eJ8R"
       },
@@ -2536,6 +2576,28 @@
       "duration_ms": 185000,
       "name": "Fotos Y Recuerdos",
       "url": "https://open.spotify.com/track/51Ku6m19nFsCXcjosxfCUn"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde el Teatro Metrop\u00f3litan",
+        "url": "https://open.spotify.com/album/1zU1ZCHv0ZlTJNOmyCqzVc"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241306,
+      "name": "Fuera de Control - En Vivo",
+      "url": "https://open.spotify.com/track/1XRXgTDztVIYcgGY6iwEzd"
     },
     {
       "album": {
@@ -3529,6 +3591,28 @@
     },
     {
       "album": {
+        "name": "Vieja Skina & Juantxo Skalari",
+        "url": "https://open.spotify.com/album/2lrpm55CbwJm5NNnyvNaj4"
+      },
+      "artists": [
+        {
+          "name": "Vieja Skina",
+          "url": "https://open.spotify.com/artist/4YWRMdJArquZpTy9h4BxAt"
+        },
+        {
+          "name": "Juantxo Skalari & La Rude Band",
+          "url": "https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236391,
+      "name": "Lo Bueno Esta Por Venir",
+      "url": "https://open.spotify.com/track/4UKBZpNvtxVt0IZkGzHjX6"
+    },
+    {
+      "album": {
         "name": "Skanova",
         "url": "https://open.spotify.com/album/3rPGbYuwjrdSR0LHJHnbvs"
       },
@@ -3876,7 +3960,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 171400,
       "name": "Mi guapa",
       "url": "https://open.spotify.com/track/1AStXajyy4LLNgysAL53zu"
@@ -4468,7 +4552,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 308095,
       "name": "Oda a la Juventud - 2025",
       "url": "https://open.spotify.com/track/2gvwRDIyszzejaxDqPwsAe"
@@ -4733,6 +4817,40 @@
     },
     {
       "album": {
+        "name": "Parison",
+        "url": "https://open.spotify.com/album/3GJi4Wwqd9ieXuTeuSfnKm"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        },
+        {
+          "name": "Lng Sht",
+          "url": "https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291074,
+      "name": "Parison",
+      "url": "https://open.spotify.com/track/3JaKelhIeMYrDoyglzqzLl"
+    },
+    {
+      "album": {
         "name": "P\u00e1ginas en Blanco",
         "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
       },
@@ -4792,7 +4910,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 188394,
       "name": "Pero Qu\u00e9 Necesidad",
       "url": "https://open.spotify.com/track/2DfpEIi9o9a8IixpU0JDou"
@@ -5544,7 +5662,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 249984,
       "name": "Sangre Nopal - Versi\u00f3n A Duras Penas",
       "url": "https://open.spotify.com/track/1JNjnudLGahZ2WIR1TxGAM"
@@ -6664,7 +6782,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 191654,
       "name": "Tengo",
       "url": "https://open.spotify.com/track/5Lyl354tIMflboncuZNdkX"
@@ -6904,6 +7022,24 @@
       "duration_ms": 196093,
       "name": "Total",
       "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
+    },
+    {
+      "album": {
+        "name": "Trago de Mezcal",
+        "url": "https://open.spotify.com/album/3u0LcdwMdWyOhCXJhgsZCi"
+      },
+      "artists": [
+        {
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197323,
+      "name": "Trago de mezcal",
+      "url": "https://open.spotify.com/track/0YYtmFkMOEmiPH2rDYkNFF"
     },
     {
       "album": {

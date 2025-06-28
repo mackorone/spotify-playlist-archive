@@ -1,12 +1,12 @@
 {
   "description": "This is Muse. The essential tracks, all in one playlist.",
-  "num_followers": 812966,
+  "num_followers": 813152,
   "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFs8AAAAAAC3RVsoALKhO/RSEoUFaTcw",
+  "snapshot_id": "aFyNgAAAAABpHcIkCsn7WkW2v/ulXMcM",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 363266,
-      "name": "New Born",
-      "url": "https://open.spotify.com/track/2VrJMuLt2m9HbifGrKWHqk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Will Of The People",
         "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 209061,
       "name": "Won\u2019t Stand Down",
       "url": "https://open.spotify.com/track/6Wi8Byfq6xH0lEkqZbOZg9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 363266,
+      "name": "New Born",
+      "url": "https://open.spotify.com/track/2VrJMuLt2m9HbifGrKWHqk"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 251146,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/0j3obufLXq5toSs592dX9U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Showbiz",
         "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 262973,
       "name": "Muscle Museum",
       "url": "https://open.spotify.com/track/5rupf5kRDLhhFPxH15ZmBF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 251146,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/0j3obufLXq5toSs592dX9U"
     },
     {
       "added_at": null,

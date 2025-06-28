@@ -2,9 +2,9 @@
 
 ### [juniper](https://open.spotify.com/playlist/37i9dQZF1DWX4NtIOfns5I)
 
-> the debut album from Annahstasia is here 🍃
+> infinite aura for Folk Bitch Trio
 
-537 songs - 1 day 7 hr 57 min
+542 songs - 1 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Dark Sun](https://open.spotify.com/track/6Zn6u1wC7JcLZ4EsUTcNET) | [h\. pruz](https://open.spotify.com/artist/3WWEKLW1zn4gtBSljQ8HQN) | [Dark Sun](https://open.spotify.com/album/5LoqJrgLyJYbsk5IavjkkJ) | 4:38 | 2024-03-29 | 2025-01-18 |
 | [Darling](https://open.spotify.com/track/0WTyIytT4Yi0nHtWI29PVZ) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Darling](https://open.spotify.com/album/1Dgpzrfx3i4N8NzBcWru47) | 2:53 | 2025-05-30 |  |
 | [Daughters](https://open.spotify.com/track/0gkbSKHIteBnTaICk5olxg) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Daughters](https://open.spotify.com/album/47NyXXILF8gzdX8koVRirx) | 3:37 | 2025-04-04 |  |
+| [David](https://open.spotify.com/track/6ghDayhHeBXAP4OOnnrFW9) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:24 | 2025-06-27 |  |
 | [Day Plan](https://open.spotify.com/track/0erC8baMqhTGIHIGjvrxXD) | [Izzy Heltai](https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF) | [Day Plan](https://open.spotify.com/album/5pgIguDeta2y82ccJTWK3w) | 3:46 | 2023-10-06 | 2024-03-16 |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-12-15 | 2024-03-16 |
 | [Dead Man](https://open.spotify.com/track/6I3q5qBAa1DpzfcdIq21DD) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Dead Man + Daylight](https://open.spotify.com/album/2CjolbvXx5qRclGGGGdacx) | 4:34 | 2023-10-06 | 2023-12-16 |
@@ -232,6 +233,7 @@
 | [I See It Now](https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Songs From A Thousand Frames Of Mind](https://open.spotify.com/album/0D0cJqtudEFf6rpe3RJsgS) | 3:27 | 2024-09-27 | 2025-04-05 |
 | [I Told You So](https://open.spotify.com/track/1Patip73Sq1xQw7GGwSFtw) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [I Told You So](https://open.spotify.com/album/11Eq6C1e99Zbk0XXjzvM1j) | 4:14 | 2024-01-26 | 2024-04-06 |
 | [I Wanna Love You \(But I Don't\)](https://open.spotify.com/track/0MSqcBG0MNmyPxXMz0JwDc) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [I Wanna Love You \(But I Don't\) / I hope you die first](https://open.spotify.com/album/6W9bs9ysBRA2CvZKe0kME8) | 4:17 | 2024-08-02 | 2025-03-13 |
+| [I Wasn’t There](https://open.spotify.com/track/36GforftaCASOR8kBnhqN8) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [DERBY](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 2:07 | 2025-06-27 |  |
 | [I Wouldn't Mind](https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [Fall out of Line](https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn) | 3:20 | 2024-01-14 | 2024-03-02 |
 | [I'd Have to Think About It](https://open.spotify.com/track/3MkEVGXroAZV4BAtBV9yOf) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/13NV9whHhEz1qhD2XqiawI) | 2:30 | 2023-11-10 | 2024-04-19 |
 | [I'd Have to Think About It](https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY) | 2:30 | 2023-10-06 | 2024-07-13 |
@@ -307,6 +309,7 @@
 | [Mom & Dad](https://open.spotify.com/track/0wW8h0pLHZwNFv2v2e3KHw) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Mom & Dad](https://open.spotify.com/album/0VfH1xz9pcm8RkjXN0INmn) | 3:23 | 2023-10-06 | 2024-03-13 |
 | [morning song](https://open.spotify.com/track/38HtjikpdWQqfJkJdDONi9) | [phin](https://open.spotify.com/artist/1LiAFR5jEJrfQK8vVavciN) | [morning song](https://open.spotify.com/album/65nHdIpQIX1sT81NzQg9ml) | 2:45 | 2025-06-20 |  |
 | [Mosh Pit](https://open.spotify.com/track/2YAQbdNjjUbpI0pBxLFV5r) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Mosh Pit](https://open.spotify.com/album/7ncAtOiKpdlbUv43iMAF8l) | 5:23 | 2025-04-11 |  |
+| [Moth Song](https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Moth Song](https://open.spotify.com/album/15tDiSE6EpMxDxUDkRXKwN) | 5:03 | 2025-06-27 |  |
 | [Mountain](https://open.spotify.com/track/1xQKkR7bFenmihMnOgoFgC) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 3:59 | 2025-03-28 | 2025-05-17 |
 | [mud on my superstars](https://open.spotify.com/track/7Hhw8ulCFF8ZyxEiHnwkc6) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [mud on my superstars](https://open.spotify.com/album/3hFlIKU66qbWphgI9DcUVP) | 2:43 | 2023-10-20 | 2023-12-09 |
 | [Mudroom](https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Mudroom](https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc) | 3:59 | 2024-03-01 | 2024-05-25 |
@@ -319,6 +322,7 @@
 | [my friend's toyota](https://open.spotify.com/track/7ANtPfYkLWhL2XbUjyBSZF) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [my friend's toyota](https://open.spotify.com/album/3zK1OHn3TpS2NV5mPVvJah) | 3:14 | 2024-02-16 | 2024-04-19 |
 | [My God](https://open.spotify.com/track/7AHX0F99w4x23uSZihklZ6) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [The Pilgrim, Their God and The King of My Decrepit Mountain](https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb) | 3:21 | 2024-10-11 | 2025-05-10 |
 | [my love](https://open.spotify.com/track/1rqnSTuaNTr3F5t2Q2gx3d) | [mou](https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt) | [a few thoughts](https://open.spotify.com/album/6J01H7cgmsdyQzodSkTcoo) | 3:49 | 2025-01-24 | 2025-05-17 |
+| [My Love Is Free](https://open.spotify.com/track/1TzdiVSUg4y1FzVYQKFx2P) | [Mike Kota](https://open.spotify.com/artist/4XQTByA2uvyebfXRZFseV6) | [My Love Is Free](https://open.spotify.com/album/2q2HUL8YO2qRKSCpQFVkmk) | 6:46 | 2025-06-27 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-10-06 | 2024-10-19 |
 | [my mind \(now\)](https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [my mind \(now\)](https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg) | 2:56 | 2024-01-26 | 2024-04-06 |
 | [My Own Way](https://open.spotify.com/track/62JiKXcJGR4D7CyCOezyLn) | [Emily Hines](https://open.spotify.com/artist/2ickW99aviSnUfDMsxpIOX) | [My Own Way](https://open.spotify.com/album/1jIbjP05d4jWf9sOOn5Msj) | 3:36 | 2025-05-09 |  |
@@ -393,6 +397,7 @@
 | [russian doll](https://open.spotify.com/track/2AV5N4onEcj4DUbGsqEptn) | [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [russian doll](https://open.spotify.com/album/1W3DYHfgrGU01Z0hCiWBlZ) | 3:22 | 2025-05-16 |  |
 | [russian doll \- smaller](https://open.spotify.com/track/00iPwEqAow8PUdV73vvIsu) | [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [russian doll \(smaller\)](https://open.spotify.com/album/0YVvrkQ2UAKBI0svaDhXTe) | 1:01 | 2025-04-01 | 2025-05-17 |
 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 | 2024-09-20 | 2025-05-10 |
+| [Sabino](https://open.spotify.com/track/7tAwTZKnOEihan9q6rhuzR) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Sabino](https://open.spotify.com/album/6GIofJVOnkodSIjAofbYbe) | 3:33 | 2025-06-27 |  |
 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 | 2024-01-19 | 2024-04-06 |
 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-07-26 | 2025-05-10 |
 | [Same Old Song](https://open.spotify.com/track/21uaRs0oWi9EL7ZJOII7YD) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Same Old Song](https://open.spotify.com/album/5JQd2b1all62PhvdwrI5DN) | 2:54 | 2025-01-10 |  |

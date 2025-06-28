@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own\. chloe moriondo on the cover.
 
-577 songs - 1 day 8 hr 18 min
+578 songs - 1 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Break Up Song](https://open.spotify.com/track/3fEoJxnPpfIHwFHKiFtqbA) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Break Up Song](https://open.spotify.com/album/0JFTISfgRQyeH5kSAFPgtq) | 3:20 | 2020-03-29 | 2021-08-13 |
 | [Bridges](https://open.spotify.com/track/1285n66OGGUB3Bnh6c18nS) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 3:11 | 2019-06-21 | 2019-08-10 |
 | [Broken](https://open.spotify.com/track/3Xf1QayETh9YgdW0FzMJEl) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [The Fifth](https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l) | 3:38 | 2019-05-26\* | 2020-04-22 |
+| [Broken Glass](https://open.spotify.com/track/6xCKXznjcHv2hZWDA0pRIe) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:14 | 2025-06-27 |  |
 | [Broken Over You](https://open.spotify.com/track/2MLurpPVA4IyIIsAKo2016) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [Design](https://open.spotify.com/album/25IpubrlL6m9cOVJV72rUB) | 3:17 | 2019-07-29 | 2019-08-09 |
 | [Brooklyn](https://open.spotify.com/track/5rqt6cZ88VtFHq0bJBMHGl) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Patrick Droney](https://open.spotify.com/album/6tAWZMiijCCTJG2Pz5MlDJ) | 3:47 | 2019-05-26\* | 2021-09-30 |
 | [bubblegum](https://open.spotify.com/track/6nex4xkeGBrngKZbgoDWBi) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [bubblegum](https://open.spotify.com/album/3n4irVf4flMBpTYYbbPqnY) | 3:08 | 2021-07-17 | 2021-09-29 |
@@ -270,7 +271,7 @@
 | [Josslyn](https://open.spotify.com/track/0UhKDHeZw2kHOz9HiRNFBH) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [The Results Of My Poor Judgement](https://open.spotify.com/album/0qXVEBzNL34X3NgqmI8hH4) | 3:09 | 2020-05-31 | 2021-10-23 |
 | [Joyride](https://open.spotify.com/track/6n8KUQZOne1iMIyJYhWUrj) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Joyride](https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA) | 2:59 | 2024-06-14 |  |
 | [Just A Memory \(feat\. Regina Spektor\)](https://open.spotify.com/track/0mfSivZmglC3Hfn0NzssOY) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [A Moment Apart \(Deluxe Edition\)](https://open.spotify.com/album/4MRcN8PhMhBe84tcPLe2QJ) | 3:56 | 2019-05-26\* | 2021-10-13 |
-| [Just Because](https://open.spotify.com/track/1DwmNjO23qRsGsgmxfADfC) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Just Because](https://open.spotify.com/album/50Iqs6mIhEZTfRdfjzwgwx) | 2:49 | 2025-02-11 |  |
+| [Just Because](https://open.spotify.com/track/1DwmNjO23qRsGsgmxfADfC) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Just Because](https://open.spotify.com/album/50Iqs6mIhEZTfRdfjzwgwx) | 2:49 | 2025-02-11 | 2025-06-28 |
 | [Just for me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 | 2021-10-01 | 2022-09-26 |
 | [Kamikaze](https://open.spotify.com/track/2cKo2UWaGTK2DCkn1T4vXW) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Ten Love Songs](https://open.spotify.com/album/3jviKiBoZrkHLQZYIReWCh) | 5:11 | 2019-07-29 | 2019-08-09 |
 | [Karma](https://open.spotify.com/track/7BZeyb1wPX9t78rWbLWiky) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Palo Santo \(Deluxe\)](https://open.spotify.com/album/50ztaMltoS9mN9fm8R3zcW) | 3:13 | 2019-05-26\* | 2019-12-17 |

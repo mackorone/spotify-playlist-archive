@@ -46,7 +46,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 133125,
       "name": "ABCD",
       "url": "https://open.spotify.com/track/6anCwyjY5vijE3AVBPiC3h"
@@ -212,7 +212,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 187317,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/5MYPNXFVW54dxVVDLnNuwS"
@@ -382,7 +382,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 229000,
       "name": "Andalucia",
       "url": "https://open.spotify.com/track/1FUUe1VbjWakX9nFfd0Qki"
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 200975,
       "name": "Besito",
       "url": "https://open.spotify.com/track/6iatlE4HaOG382ZljmBNdb"
@@ -1670,6 +1670,28 @@
       "duration_ms": 137343,
       "name": "Candela",
       "url": "https://open.spotify.com/track/0SxzftYd4dwbBNwAslFNb6"
+    },
+    {
+      "album": {
+        "name": "Candela (2025)",
+        "url": "https://open.spotify.com/album/59wHVqJnEKjIrh8Fr1wXHS"
+      },
+      "artists": [
+        {
+          "name": "Noelia",
+          "url": "https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux"
+        },
+        {
+          "name": "Jude & Frank",
+          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140573,
+      "name": "Candela (2025)",
+      "url": "https://open.spotify.com/track/069crRcGH1Nk8yReWPUOvn"
     },
     {
       "album": {
@@ -2494,7 +2516,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-21",
+      "date_removed": null,
       "duration_ms": 167619,
       "name": "Dale",
       "url": "https://open.spotify.com/track/7KDkVer6KDHahrjFABNGww"
@@ -3970,7 +3992,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 216000,
       "name": "Hijos De La Noche",
       "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
@@ -5669,6 +5691,24 @@
     },
     {
       "album": {
+        "name": "En Color",
+        "url": "https://open.spotify.com/album/39OFnvsH9sXnFjfFVuPWR7"
+      },
+      "artists": [
+        {
+          "name": "2DEEP",
+          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123697,
+      "name": "Mu\u00e9vete",
+      "url": "https://open.spotify.com/track/4K1RBpUlnpZkNZjNu8ixAZ"
+    },
+    {
+      "album": {
         "name": "My Dream",
         "url": "https://open.spotify.com/album/2iN9ZXUBXkf02ZK97AKJp8"
       },
@@ -5758,6 +5798,32 @@
       "duration_ms": 185624,
       "name": "No Paramos",
       "url": "https://open.spotify.com/track/7iVuADTdjqmJpyqIn6JehB"
+    },
+    {
+      "album": {
+        "name": "No Pare",
+        "url": "https://open.spotify.com/album/37WQed4WJkMfzjvXYT0mxJ"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Marco Tropeano",
+          "url": "https://open.spotify.com/artist/1Iduln9qYbj41kvHf9yDJb"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188650,
+      "name": "No Pare",
+      "url": "https://open.spotify.com/track/4E6M6muDadCiTQ72KUELbB"
     },
     {
       "album": {
@@ -7196,7 +7262,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 153875,
       "name": "Serena",
       "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
@@ -7314,6 +7380,24 @@
       "duration_ms": 199687,
       "name": "Sin Nada",
       "url": "https://open.spotify.com/track/6gzSd5XFpIWXWoVbS3V9ow"
+    },
+    {
+      "album": {
+        "name": "Sin Pero",
+        "url": "https://open.spotify.com/album/08fzl82SQEQttAUCUhw5lo"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159374,
+      "name": "Sin Pero",
+      "url": "https://open.spotify.com/track/00cZ6btKe7o8TECVLBpIXR"
     },
     {
       "album": {
@@ -7450,7 +7534,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 127559,
       "name": "Sombrerito Blanco",
       "url": "https://open.spotify.com/track/4cjmKKcFPKflJQzXQUa1dp"
@@ -7546,6 +7630,32 @@
       "duration_ms": 159523,
       "name": "Soy Candela",
       "url": "https://open.spotify.com/track/5G2LYJ2GDHfOZKekpAbIMh"
+    },
+    {
+      "album": {
+        "name": "So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/5isY3rHLdiiMbnSaRgPLWL"
+      },
+      "artists": [
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "DAMANTE",
+          "url": "https://open.spotify.com/artist/6OwdAyf853gxbmJCqzDtSQ"
+        },
+        {
+          "name": "Shera",
+          "url": "https://open.spotify.com/artist/6tvQXt04XT7iiWIEf4ADXp"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166309,
+      "name": "So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/4yD8spH4YTmmSPxkRmZ9V9"
     },
     {
       "album": {
@@ -7748,6 +7858,32 @@
       "duration_ms": 173760,
       "name": "Tambor",
       "url": "https://open.spotify.com/track/6qnFcaCqGR8ZQy3s0o4Ebm"
+    },
+    {
+      "album": {
+        "name": "Te Catar",
+        "url": "https://open.spotify.com/album/3ucsVsxkP3Q58IBYreVwBD"
+      },
+      "artists": [
+        {
+          "name": "Arianna Triassi",
+          "url": "https://open.spotify.com/artist/2u7XXwcDpyFBbO4Mjf45B2"
+        },
+        {
+          "name": "MC PR",
+          "url": "https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX"
+        },
+        {
+          "name": "MC Pequeno Diamante",
+          "url": "https://open.spotify.com/artist/7jqVVRFgBPvHWLnUwfRF6C"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154153,
+      "name": "Te Catar",
+      "url": "https://open.spotify.com/track/4XiunwF7pYe3zNJpAb24OX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,571 likes - 115 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,615 likes - 115 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 | 55 | [The Long and Winding Road](https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph) | [Staying in Touch](https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL) | 4:14 |
 | 56 | [In the Space Between Our Souls](https://open.spotify.com/track/68f2v05WiiKkLEA8lnlaUD) | [Ingrid Saga](https://open.spotify.com/artist/5AFOYgZPpkiWB7FAeEXl6F) | [In the Space Between Our Souls](https://open.spotify.com/album/2p6JHhn0lEekYls1t0o5NS) | 6:53 |
 | 57 | [It Happens Like That](https://open.spotify.com/track/6U0y4ZrWLqrUb82XmJEmLP) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W) | [It Happens Like That](https://open.spotify.com/album/5ojWrYc5keKYq774cZicWo) | 3:31 |
-| 58 | [Nice Work If You Can Get It](https://open.spotify.com/track/3ZVNxTUtCAZLZ9crzmeKiM) | [Kristina Ray](https://open.spotify.com/artist/19kiwdKOPTvmocMNLHwcyh) | [Nice Work If You Can Get It](https://open.spotify.com/album/2WgyFRut3JtYjSRdFbxgYU) | 3:25 |
-| 59 | [Here You Come Again](https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR) | [Staci Griesbach](https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO) | [Here You Come Again](https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9) | 5:09 |
+| 58 | [Here You Come Again](https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR) | [Staci Griesbach](https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO) | [Here You Come Again](https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9) | 5:09 |
+| 59 | [Nice Work If You Can Get It](https://open.spotify.com/track/3ZVNxTUtCAZLZ9crzmeKiM) | [Kristina Ray](https://open.spotify.com/artist/19kiwdKOPTvmocMNLHwcyh) | [Nice Work If You Can Get It](https://open.spotify.com/album/2WgyFRut3JtYjSRdFbxgYU) | 3:25 |
 | 60 | [Too Late Now](https://open.spotify.com/track/6iYaFLnX3epoWlQhGdbTRy) | [Johanna Pettersson](https://open.spotify.com/artist/3K6nNpFGe2X8oY5SuZu7w0), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Tomas Sjödell](https://open.spotify.com/artist/5t0kuw9leStrP3KsH1XFJv), [Adam Ross](https://open.spotify.com/artist/1mdEyNmkyJgaeVRF5PrmjM) | [The Show Must Go On](https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo) | 5:09 |
 | 61 | [Softly, as in a Morning Sunrise](https://open.spotify.com/track/15Cd5pF6Xm4nB2MVcWbuCT) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Michael Valeanu](https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv) | [I'll Be Seeing You](https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv) | 4:35 |
 | 62 | [By The Time I Get To Phoenix](https://open.spotify.com/track/5gOZnszNJ6dwPxkqsFrQoS) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 4:41 |

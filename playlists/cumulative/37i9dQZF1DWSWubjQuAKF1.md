@@ -2,9 +2,9 @@
 
 ### [up next](https://open.spotify.com/playlist/37i9dQZF1DWSWubjQuAKF1)
 
-> świeże brzmienia na horyzoncie ✨ Cover: emi
+> świeże brzmienia na horyzoncie ✨ Cover: Briela
 
-489 songs - 23 hr 43 min
+492 songs - 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Jest jak jest](https://open.spotify.com/track/2mFa5j7qkgBevlL3nvemWO) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Jest jak jest](https://open.spotify.com/album/4YFA93YNUERAacYRMkrEi7) | 2:48 | 2025-04-24 |  |
 | [Jestem](https://open.spotify.com/track/1POsHOctjuSpNU6uFTOqjq) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Jestem](https://open.spotify.com/album/5r0CDkFob3OnZ07m4b4Qqc) | 2:18 | 2024-08-30 | 2025-01-24 |
 | [jesteś głupi](https://open.spotify.com/track/1AeL4E8mv5IGP16PlhmbTb) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [jesteś głupi](https://open.spotify.com/album/4GTDDsP3d06obFoqZpM6nw) | 2:38 | 2024-08-22 | 2025-01-24 |
+| [Jeszcze raz](https://open.spotify.com/track/6n6sEKy1885BNIXiapog4E) | [Briela](https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf) | [Jeszcze raz](https://open.spotify.com/album/1RsZtOTCP3XVv240LxDrhb) | 2:32 | 2025-06-27 |  |
 | [jeszcze raz](https://open.spotify.com/track/1zxUcEhaqPbgmryzP9Q6fu) | [DJ BLIK](https://open.spotify.com/artist/7xVjiA11JIFZzGlj9AEAgE), [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [jeszcze raz](https://open.spotify.com/album/0cxn6C6Yk2zEZlRn2EVHg5) | 3:40 | 2025-05-22 |  |
 | [Joyride](https://open.spotify.com/track/4s27xtyDNC6C3SCBKn8He3) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Joyride](https://open.spotify.com/album/2mqDhcLG9qQ1rlHx8LKAlj) | 4:44 | 2025-05-08 | 2025-05-23 |
 | [jutro będzie furtką](https://open.spotify.com/track/7CKoaVBHrzovd5lRLnpHAi) | [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [jutro będzie furtką](https://open.spotify.com/album/10EBsg405gpFD2LpUnv6ES) | 3:08 | 2024-06-28 | 2024-07-05 |
@@ -304,8 +305,9 @@
 | [o tobie wers](https://open.spotify.com/track/4uN1jM22d2v3l2IRIJe1Af) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [o tobie wers](https://open.spotify.com/album/3nAZGqA6gK1p546TGFuL1E) | 2:45 | 2025-03-13 | 2025-06-20 |
 | [obyś to była Ty](https://open.spotify.com/track/1PhWnzPIshK7800SDkfw9h) | [Artur Sikorski](https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A) | [obyś to była Ty](https://open.spotify.com/album/67BbloXOMeYCYe0ECHuvRl) | 2:14 | 2024-11-21 | 2025-01-24 |
 | [Obłęd](https://open.spotify.com/track/2zgEt2hzvZmOFn5WcVieFF) | [AJLA](https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H), [Cool P](https://open.spotify.com/artist/5f0sTF0SaVN5hbNYAJFSPV) | [Obłęd](https://open.spotify.com/album/6oGm7MbUXDljtyXO8MLuKL) | 3:30 | 2025-01-23 | 2025-03-07 |
-| [oddaj mi ból](https://open.spotify.com/track/1JhR66lrh2u9LylvZ0TSjj) | [emi](https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu), [Gmeniu](https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj) | [oddaj mi ból](https://open.spotify.com/album/0JG8YGJo5gVX7tUQIrBV0S) | 2:24 | 2025-06-19 |  |
+| [oddaj mi ból](https://open.spotify.com/track/1JhR66lrh2u9LylvZ0TSjj) | [emi](https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu), [Gmeniu](https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj) | [oddaj mi ból](https://open.spotify.com/album/0JG8YGJo5gVX7tUQIrBV0S) | 2:24 | 2025-06-19 | 2025-06-28 |
 | [oddaj mnie](https://open.spotify.com/track/2dUDMxSYnfGV4zNyNr1qz7) | [nezz](https://open.spotify.com/artist/2jxQKdU1dKP95EzKiQBcg5), [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5), [Helucze](https://open.spotify.com/artist/0XhA1CcJoU4epYBf7HLbHr) | [oddaj mnie](https://open.spotify.com/album/75qFi0fN0V3cucVz3qAMwY) | 2:31 | 2025-04-03 | 2025-05-18 |
+| [Oh No](https://open.spotify.com/track/7J6WiVtsNUjz9f0AcOzyxB) | [Julia Bojur](https://open.spotify.com/artist/7yI5GTAddn0GBCRnDOpWPK), [Ghosty](https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2) | [Oh No](https://open.spotify.com/album/61Cya6AJcIuZAfcoewYda4) | 2:54 | 2025-06-27 |  |
 | [Oj, dziewczyno!](https://open.spotify.com/track/4962ajMOnZSbhN80G0Ogk4) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Oj, dziewczyno!](https://open.spotify.com/album/2W9qJtY9eFjT5P2iJpbUqw) | 2:38 | 2025-05-01 |  |
 | [okay cool](https://open.spotify.com/track/56Vxhry0axfjZN667iHCMZ) | [ENNA](https://open.spotify.com/artist/1TbnLBzj5rSZeoM522CwhS) | [okay cool](https://open.spotify.com/album/5z27JiuMszAKGSUkfRVsNg) | 2:32 | 2025-02-20 | 2025-02-28 |
 | [Okej](https://open.spotify.com/track/7G6hL64mboXjkMRjbkIAAT) | [Martyna Gąsak](https://open.spotify.com/artist/5Ne3HqzciPsPhYX4jl1obI) | [Okej](https://open.spotify.com/album/6jvK9EgxNSzVb7ekqXDfZS) | 2:43 | 2024-06-28 | 2024-08-23 |
@@ -437,7 +439,7 @@
 | [Trust Issues](https://open.spotify.com/track/1PEY0rrb2d8Ic5f4hCPCkX) | [Teo](https://open.spotify.com/artist/75KRhZ6OWTAF6alZRfM90S) | [Trust Issues](https://open.spotify.com/album/4Nwbv0UxHNuSeK4pKAoJjs) | 2:49 | 2025-03-27 | 2025-04-04 |
 | [Ty to Ja](https://open.spotify.com/track/44XvWHUZcYWvzMWhqhYLl6) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Ty to Ja](https://open.spotify.com/album/5DqH7F3PynlPtXYx6sqX7K) | 3:33 | 2025-02-27 | 2025-05-09 |
 | [Tylko na moment](https://open.spotify.com/track/1EjWpkR2JATl6hgQyOPwsO) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Tylko na moment](https://open.spotify.com/album/74Uk3H4hRvzyyo6aTEK6mv) | 1:58 | 2024-06-28 | 2024-08-23 |
-| [U Want Me Anyway](https://open.spotify.com/track/2NZpYLv014p6rfl2CYxDX6) | [Dani Marchio](https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT) | [U Want Me Anyway](https://open.spotify.com/album/1voy9mRdneNwKnaBgIjLh4) | 3:20 | 2025-03-20 |  |
+| [U Want Me Anyway](https://open.spotify.com/track/2NZpYLv014p6rfl2CYxDX6) | [Dani Marchio](https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT) | [U Want Me Anyway](https://open.spotify.com/album/1voy9mRdneNwKnaBgIjLh4) | 3:20 | 2025-03-20 | 2025-06-28 |
 | [Udawaj do rana](https://open.spotify.com/track/45cgD7UmeKuW1mhwSQ8we6) | [Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA) | [Udawaj do rana](https://open.spotify.com/album/4exck6h9MiotcqH2gtfZdT) | 3:18 | 2025-04-24 |  |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-04-17 | 2025-05-09 |
 | [Upadki i wzloty](https://open.spotify.com/track/6lmd1iffw55qQIzBxStFOP) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Upadki i wzloty](https://open.spotify.com/album/0H5oZPNKpOgMyPp0xKa04S) | 3:11 | 2024-07-18 | 2024-11-22 |
@@ -446,7 +448,7 @@
 | [w co ty dziś grasz?](https://open.spotify.com/track/0DotJtk7REWwFsZSTCTlw7) | [Alicja](https://open.spotify.com/artist/1QDigvoDqzcojpLCK6soAb), [Hodak](https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU) | [w co ty dziś grasz?](https://open.spotify.com/album/0PVYr7Fh8V6IKXug2EUGQr) | 3:36 | 2024-06-28 | 2024-07-27 |
 | [W moim śnie](https://open.spotify.com/track/4KbU2jeBjeQOsG8T0apLgK) | [Blu](https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K) | [W moim śnie](https://open.spotify.com/album/1cboBq4Gu3OhwHsr48YVHe) | 2:43 | 2024-06-28 | 2024-08-23 |
 | [W takim kraju](https://open.spotify.com/track/3uzasYaubhIPzPwU1la2Ao) | [Kachus](https://open.spotify.com/artist/3Ya5NT5vLex3mCIt2DTmkJ) | [W takim kraju](https://open.spotify.com/album/1hjm91ITxEgtNJqfsa2rZq) | 4:06 | 2025-04-24 | 2025-05-09 |
-| [Wakacje](https://open.spotify.com/track/2ECWb0NMqDOh8zEIbmqfoO) | [Jeszcze](https://open.spotify.com/artist/549OGFxLtnM7L2tu5QYAeb) | [Wakacje](https://open.spotify.com/album/6s0WtvWCKK6LUGDzNwijj0) | 3:57 | 2025-06-05 |  |
+| [Wakacje](https://open.spotify.com/track/2ECWb0NMqDOh8zEIbmqfoO) | [Jeszcze](https://open.spotify.com/artist/549OGFxLtnM7L2tu5QYAeb) | [Wakacje](https://open.spotify.com/album/6s0WtvWCKK6LUGDzNwijj0) | 3:57 | 2025-06-05 | 2025-06-28 |
 | [Warszawa](https://open.spotify.com/track/0gHk4v0XswI91vsbb1mxCi) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Warszawa](https://open.spotify.com/album/0LPGGwbEOOduaKXN1doceo) | 3:54 | 2025-03-13 |  |
 | [WAS DWÓCH](https://open.spotify.com/track/0zuwMlHupJCxyIc7GqcEoz) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [WAS DWÓCH](https://open.spotify.com/album/354i4GYCmnLbw96NtrbUV9) | 2:49 | 2025-01-23 | 2025-03-21 |
 | [We Hug Now](https://open.spotify.com/track/1In22zMILdinxdZng26irr) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [We Hug Now](https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg) | 4:08 | 2025-03-06 | 2025-05-02 |
@@ -491,6 +493,7 @@
 | [znów patrzysz tak](https://open.spotify.com/track/39d5agbwOlaEMFA04UnaOu) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [znów patrzysz tak](https://open.spotify.com/album/4eHhOzhzyKKr4kyIm79oDK) | 3:11 | 2024-07-25 | 2025-01-24 |
 | [ZORZE POLARNE](https://open.spotify.com/track/4JNdDbvLlsAWhrMGYiqIFW) | [młody podago](https://open.spotify.com/artist/36a1D1m5xIlco1bKlirhZX) | [ZORZE POLARNE](https://open.spotify.com/album/0PB5Z0hgBToVQMK60MenFE) | 2:34 | 2024-06-28 | 2024-07-12 |
 | [Zostaniesz na zawsze?](https://open.spotify.com/track/5uXyJ2mYb4LHQ0gKEMXtEL) | [MDOPE](https://open.spotify.com/artist/6Z7uS8MOrEyM04JjnBf3R9) | [Zostaniesz na zawsze?](https://open.spotify.com/album/22ItEEmozmJHs3P7mgvdnV) | 2:54 | 2024-08-30 | 2025-01-24 |
+| [ZŁY](https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [lekko](https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ) | 2:38 | 2025-06-27 |  |
 | [Ćma](https://open.spotify.com/track/4TsUpBDBZQLGaSEjNrgCKX) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Ćma](https://open.spotify.com/album/0bmxGp8qMZcfKrKFR6wJMz) | 4:39 | 2025-01-23 | 2025-03-14 |
 | [Čyrvone Nebo](https://open.spotify.com/track/3cGQ3b4enpPUGJsPLvcN7v) | [Sw@da](https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj), [Niczos](https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk) | [Čyrvone Nebo](https://open.spotify.com/album/5KuvlS6wxp4QK4sKWXpflb) | 3:06 | 2025-06-05 |  |
 | [Łez](https://open.spotify.com/track/3XwbXBdDfmpjlwpyuTPzv3) | [Effy](https://open.spotify.com/artist/662m0WrjxDl2ZrWAghojh2) | [Łez](https://open.spotify.com/album/5ei7THv6SDlyGburhlR8Qf) | 2:37 | 2025-03-20 | 2025-04-18 |

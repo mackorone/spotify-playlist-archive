@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Bebhumika
 
-555 songs - 1 day 7 hr 39 min
+556 songs - 1 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Meendum Meendum Ketka Thondrum ll](https://open.spotify.com/track/4j8ljxGUPz2CYJAbfoTvPu) | [Thor Nishanlee](https://open.spotify.com/artist/6ziC9k1ZB81rXU9EbDRJLi), [Priyanka NK](https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K) | [Meendum Meendum Ketka Thondrum ll](https://open.spotify.com/album/6ONMNND7qPgMY9r0wBx8Ch) | 3:51 | 2025-05-02 |  |
 | [Meenu](https://open.spotify.com/track/4LPtOxsnWaSvXp4QNEELZc) | [A.R Sai Shravanya](https://open.spotify.com/artist/67hmOl78H5aT3rs6PcO6CR), [Rama Priya Yegasivanathan](https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx) | [Meenu](https://open.spotify.com/album/08i3xSuoGshAB78Qaj0ttz) | 2:20 | 2024-07-31 | 2024-09-14 |
 | [Megham](https://open.spotify.com/track/6afBeYKYu5X4KYohcxh42K) | [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl), [pixlpxl®](https://open.spotify.com/artist/1EGgZfRoAg2Z5kAbF5XaH1), [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Uyir Ponaalum](https://open.spotify.com/album/4PClcq39M4seJMLAitgNnS) | 3:51 | 2025-05-06 |  |
+| [Mendal Aavuren](https://open.spotify.com/track/6Cv7PdZDodqXXc8TOeABXN) | [Madhan K](https://open.spotify.com/artist/3kmFSo3YrNq9fTreEyCf63) | [Mendal Aavuren](https://open.spotify.com/album/4PH9UlYyhHKBHunro0Bf2m) | 3:30 | 2025-06-27 |  |
 | [Million Streams](https://open.spotify.com/track/2TZGqnPCJ4ltj24hQL78Fx) | [Arun VT](https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf) | [Million Streams](https://open.spotify.com/album/6hdjXtjR00a2nFVXyWpNx7) | 4:03 | 2024-02-28 | 2024-03-18 |
 | [Minnal Mugilosai](https://open.spotify.com/track/5lIDmWduOGKEZZm3RpkjOx) | [S.K.Balachandran](https://open.spotify.com/artist/5Sg5NOQHE0eFSKxrVqIT4l), [Abid Anwar](https://open.spotify.com/artist/4HGW8d0cAwj7Ouk3l6wpZI) | [Aaliya](https://open.spotify.com/album/2OhQ5NpYv7boswa6YAskaZ) | 4:08 | 2023-06-01 | 2023-09-02 |
 | [Missu Mela Crushu](https://open.spotify.com/track/6k1PFMZrcLKZsSrAF7j5v8) | [Ashwamithra](https://open.spotify.com/artist/479xIG0ma8GfSy7cKF7bCn), [Jayanthi Ashwamithra](https://open.spotify.com/artist/6WJ3smZTsxmmwZBRz4bxlr), [Siddharth Panneer](https://open.spotify.com/artist/2w2IIUYmrkJnM2c46cX7CB) | [Missu Mela Crushu](https://open.spotify.com/album/6Kz4csxNxwExiGBS5Pg2Jq) | 3:23 | 2025-04-17 |  |

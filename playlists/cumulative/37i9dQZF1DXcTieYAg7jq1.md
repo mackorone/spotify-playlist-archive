@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: grentperez
 
-436 songs - 1 day 0 hr 55 min
+437 songs - 1 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,7 @@
 | [Pain](https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Pain](https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I) | 3:35 | 2022-06-17 | 2025-05-03 |
 | [Panther City](https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 4:07 | 2024-10-04 | 2025-06-14 |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-03-11 | 2023-03-04 |
-| [Paradise](https://open.spotify.com/track/3pBncKks8ZvP64uXIPms7Q) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Visions](https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq) | 3:25 | 2024-03-08 |  |
+| [Paradise](https://open.spotify.com/track/3pBncKks8ZvP64uXIPms7Q) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Visions](https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq) | 3:25 | 2024-03-08 | 2025-06-28 |
 | [Part Time Lover](https://open.spotify.com/track/5b4dscOsCEGDwXOjsEscj3) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Part Time Lover](https://open.spotify.com/album/1JLQH9Df1Gmxu7hXZtfGLO) | 2:57 | 2022-04-01 | 2024-03-02 |
 | [Party City](https://open.spotify.com/track/3F2DMy1Q25ajQ7EkHrjBtO) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Party City](https://open.spotify.com/album/0hq6WSFI9HsvTffEY5uKjo) | 4:20 | 2022-04-22 | 2025-05-10 |
 | [Party City](https://open.spotify.com/track/0aQuBy6wRLPE3Al7Eqv3Fa) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/1YrapTceavDda547u6Z9yg) | 4:24 | 2022-04-29 | 2024-04-19 |
@@ -378,6 +378,7 @@
 | [suffer](https://open.spotify.com/track/46gYDd1STZWpjFi7rKWy1n) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [suffer](https://open.spotify.com/album/4safZcciEZzvvznTt9Sf18) | 4:46 | 2021-12-03 | 2022-04-29 |
 | [Sugarcane](https://open.spotify.com/track/7pzoOz4tiF2KA76FNM70ms) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Sugarcane](https://open.spotify.com/album/0NRpX7UAG0LJVkqtx3jFze) | 3:54 | 2021-12-03 | 2022-07-23 |
 | [Summertime](https://open.spotify.com/track/1DEHkieaXEuXm2SumbWQG1) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Summertime](https://open.spotify.com/album/3bzu8rRotavOgVPrQFPmwT) | 4:17 | 2022-04-29 | 2023-02-16 |
+| [Summertime Blue](https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Summertime Blue](https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW) | 3:30 | 2025-06-27 |  |
 | [Sunblind](https://open.spotify.com/track/1Kpt4G3LsCeKYLqTnRYBio) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/5tXJchExPrWfcj1JwoDeZy) | 4:13 | 2021-12-03 | 2022-09-03 |
 | [Supersonic](https://open.spotify.com/track/1TL8oEjxJqsB6nojBkBUgE) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l) | [Scary As Hell But I Love The Thrill](https://open.spotify.com/album/0RALiw4duBKgD7PXZBqzJd) | 2:55 | 2024-03-22 |  |
 | [Supply & Demand](https://open.spotify.com/track/0tsUIJakq2RksuC1YixAHX) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Wilder Woods](https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG) | 3:16 | 2021-12-03 | 2023-01-28 |

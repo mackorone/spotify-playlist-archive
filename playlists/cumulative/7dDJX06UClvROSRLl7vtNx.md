@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-911 songs - 1 day 15 hr 31 min
+912 songs - 1 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [All Because Of You](https://open.spotify.com/track/3CVQcey35nX0Yo3dpXAc7a) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG), [Bjerke](https://open.spotify.com/artist/3I2Ac6BV9dfdOAVjFmWIGX) | [All Because Of You](https://open.spotify.com/album/4iw9Md8QwcwKhEDZ8ycHLk) | 2:19 | 2024-05-27 | 2024-06-10 |
 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/2X8EqHzSI872SjcdvlGDHy) | [James Lacey](https://open.spotify.com/artist/1aT67zKHExe9eCqc0Ny0GG), [Fia De Luca](https://open.spotify.com/artist/4L9Leu8vWuIkbUWKuJ0Mbq) | [All Good Things \(Come To An End\)](https://open.spotify.com/album/3huh7GYVDVU582wPJZ78Kp) | 2:35 | 2025-02-02 | 2025-02-24 |
 | [All I Ever Need](https://open.spotify.com/track/3Vu06YSbGw7Yu0eehrMwmk) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [All I Ever Need](https://open.spotify.com/album/4sAxBBc2qVLrN8ALw51QEU) | 2:38 | 2025-03-12 | 2025-04-07 |
+| [All I Need](https://open.spotify.com/track/4M2e8fGMYH0dfXWVilOOYd) | [aural](https://open.spotify.com/artist/2BbjZHngxcMpV9FVewdRzY), [sunsett.](https://open.spotify.com/artist/5YoAuObMlm022Z0tDOYXsB) | [All I Need](https://open.spotify.com/album/6KBdrhs4gmSskRCVtysAjr) | 2:23 | 2025-06-27 |  |
 | [All I Think About](https://open.spotify.com/track/7JbpzzQ9bM1gprjgTsBJOP) | [Tobÿ](https://open.spotify.com/artist/3EjoOshzwB9yIH8sLnbQnQ), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG) | [All I Think About](https://open.spotify.com/album/1LHgAOXD690JhN0fUja5BD) | 2:42 | 2024-12-30 | 2025-01-26 |
 | [All I Wanna Know](https://open.spotify.com/track/5KYNaaD5q5bDTyxCvMmAT3) | [Dawilk](https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf), [pinkskies](https://open.spotify.com/artist/3D0ZLvHVSldg6LyN8fa3f1) | [All I Wanna Know](https://open.spotify.com/album/4eUh2Uskg8nd7au5imGEy7) | 2:26 | 2024-10-08 | 2025-01-26 |
 | [All I Want](https://open.spotify.com/track/27niacZVlyFl35A1Tf9meg) | [Kusta5](https://open.spotify.com/artist/7tTbcLrr3ZSC3IM1CQKbtx), [2FarAway](https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3) | [All I Want](https://open.spotify.com/album/2I1cciyA7dumlTsjQII2pZ) | 2:49 | 2025-04-21 |  |

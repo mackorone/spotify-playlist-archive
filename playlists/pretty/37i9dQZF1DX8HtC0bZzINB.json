@@ -1,6 +1,6 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 105475,
+  "num_followers": 105517,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
+        "name": "\u015eampanya",
+        "url": "https://open.spotify.com/album/3IGHVTYbfBsCY4AjdbvvvF"
+      },
+      "artists": [
+        {
+          "name": "Ceg",
+          "url": "https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq"
+        }
+      ],
+      "duration_ms": 253754,
+      "name": "\u015eampanya",
+      "url": "https://open.spotify.com/track/3flurnTXJlSjMa9yj2uvY0"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
         "name": "Habibi",
         "url": "https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 160000,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
-        "name": "\u015eampanya",
-        "url": "https://open.spotify.com/album/3IGHVTYbfBsCY4AjdbvvvF"
-      },
-      "artists": [
-        {
-          "name": "Ceg",
-          "url": "https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq"
-        }
-      ],
-      "duration_ms": 253754,
-      "name": "\u015eampanya",
-      "url": "https://open.spotify.com/track/3flurnTXJlSjMa9yj2uvY0"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "Kayboldum",
-        "url": "https://open.spotify.com/album/1Ke68puz6YDWgTVRLA2DTM"
-      },
-      "artists": [
-        {
-          "name": "G\u00fcne\u015f",
-          "url": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
-        }
-      ],
-      "duration_ms": 126130,
-      "name": "Kayboldum",
-      "url": "https://open.spotify.com/track/403N2V31Tk7gmD7K5PW6Xb"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
         "name": "madem",
         "url": "https://open.spotify.com/album/4x3Dh4nslFQiRhaXLk7RwU"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 142373,
       "name": "madem",
       "url": "https://open.spotify.com/track/19vwY9lOzPwNFHnHtXmCiU"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
+        "name": "Kayboldum",
+        "url": "https://open.spotify.com/album/1Ke68puz6YDWgTVRLA2DTM"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcne\u015f",
+          "url": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
+        }
+      ],
+      "duration_ms": 126130,
+      "name": "Kayboldum",
+      "url": "https://open.spotify.com/track/403N2V31Tk7gmD7K5PW6Xb"
     },
     {
       "added_at": "2024-07-08 08:41:13",

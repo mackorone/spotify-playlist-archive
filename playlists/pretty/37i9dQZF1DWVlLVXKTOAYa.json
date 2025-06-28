@@ -1,6 +1,6 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1073900,
+  "num_followers": 1074076,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
@@ -355,18 +355,18 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "The Giver",
-        "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 202768,
-      "name": "The Giver",
-      "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
+      "duration_ms": 149666,
+      "name": "Illegal",
+      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -387,18 +387,18 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "Fancy That",
-        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+        "name": "The Giver",
+        "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 149666,
-      "name": "Illegal",
-      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
+      "duration_ms": 202768,
+      "name": "The Giver",
+      "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "Momma Song",
-        "url": "https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "Momma Song",
-      "url": "https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
         "name": "Headphones On",
         "url": "https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 240308,
       "name": "Headphones On",
       "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
+        "name": "Momma Song",
+        "url": "https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "Momma Song",
+      "url": "https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/4f7F3Kg3bB0aiWV3M97UBJ"
+      },
+      "artists": [
+        {
+          "name": "KAMRAD",
+          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
+        }
+      ],
+      "duration_ms": 156463,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/5ejTcCJOozPqRPMs9gW3pN"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
         "name": "Won\u2019t Be Possible",
         "url": "https://open.spotify.com/album/6AsH075qDhDhjb7S56zY7p"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 136615,
       "name": "Won\u2019t Be Possible",
       "url": "https://open.spotify.com/track/20kaCbdgkJRUPniPVZgsoR"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/4f7F3Kg3bB0aiWV3M97UBJ"
-      },
-      "artists": [
-        {
-          "name": "KAMRAD",
-          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
-        }
-      ],
-      "duration_ms": 156463,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/5ejTcCJOozPqRPMs9gW3pN"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "Sunshine & Rain...",
-        "url": "https://open.spotify.com/album/6sBXKaeFQdGtpDMoW5TAU4"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 197796,
-      "name": "Sunshine & Rain...",
-      "url": "https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
         "name": "I'll Be Waiting",
         "url": "https://open.spotify.com/album/3tBpgP3wphhWXwSI0Rxva0"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 123692,
       "name": "I'll Be Waiting",
       "url": "https://open.spotify.com/track/6XTU69FaoVOajBXBOP6WhG"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
+        "name": "Sunshine & Rain...",
+        "url": "https://open.spotify.com/album/6sBXKaeFQdGtpDMoW5TAU4"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 197796,
+      "name": "Sunshine & Rain...",
+      "url": "https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 205270,
-      "name": "Friend Of Mine - from the Smurfs Movie Soundtrack",
-      "url": "https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
         "name": "Still Bad",
         "url": "https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 208585,
       "name": "Still Bad",
       "url": "https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
+        "name": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 205270,
+      "name": "Friend Of Mine - from the Smurfs Movie Soundtrack",
+      "url": "https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "FUFN (Fuck You For Now)",
-        "url": "https://open.spotify.com/album/2q2NWhj9rd5WnKokMmapIq"
-      },
-      "artists": [
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
-        }
-      ],
-      "duration_ms": 215094,
-      "name": "FUFN (Fuck You For Now)",
-      "url": "https://open.spotify.com/track/7hWESP9salkKYucipe5W99"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
         "name": "More Than A Feeling",
         "url": "https://open.spotify.com/album/1uJzTlXwEwWwo30TWER0ms"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 167096,
       "name": "More Than A Feeling",
       "url": "https://open.spotify.com/track/1AgcC6Xyhp5gw0BnedjCJh"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
+        "name": "FUFN (Fuck You For Now)",
+        "url": "https://open.spotify.com/album/2q2NWhj9rd5WnKokMmapIq"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "duration_ms": 215094,
+      "name": "FUFN (Fuck You For Now)",
+      "url": "https://open.spotify.com/track/7hWESP9salkKYucipe5W99"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/49Lan6ZyZ9eqn7e9NV5hxK"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 187009,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/6DD3DloL8AvZCI64707q5F"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
         "name": "Itty Bitty",
         "url": "https://open.spotify.com/album/6cPPkaA7q9UF66afGI945c"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 162000,
       "name": "Itty Bitty",
       "url": "https://open.spotify.com/track/6TxJ6ocfLpkKkY8152ttpM"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/49Lan6ZyZ9eqn7e9NV5hxK"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 187009,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/6DD3DloL8AvZCI64707q5F"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "Unexplainable",
-        "url": "https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG"
+        "name": "Living My Best Life",
+        "url": "https://open.spotify.com/album/6ZLHC89iebjZDtcMIXgRPn"
       },
       "artists": [
         {
-          "name": "Nemo",
-          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
         }
       ],
-      "duration_ms": 241888,
-      "name": "Unexplainable",
-      "url": "https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB"
+      "duration_ms": 177273,
+      "name": "Living My Best Life",
+      "url": "https://open.spotify.com/track/4zSPRXPBgSRuNTrZT7Qdog"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "Living My Best Life",
-        "url": "https://open.spotify.com/album/6ZLHC89iebjZDtcMIXgRPn"
+        "name": "Unexplainable",
+        "url": "https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG"
       },
       "artists": [
         {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
         }
       ],
-      "duration_ms": 177273,
-      "name": "Living My Best Life",
-      "url": "https://open.spotify.com/track/4zSPRXPBgSRuNTrZT7Qdog"
+      "duration_ms": 241888,
+      "name": "Unexplainable",
+      "url": "https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/1KZLgwiwvM1t4zCEA9ZOYb"
-      },
-      "artists": [
-        {
-          "name": "Marcus & Martinus",
-          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
-        }
-      ],
-      "duration_ms": 165631,
-      "name": "Endless Summer",
-      "url": "https://open.spotify.com/track/0yGh0gZX5nGRn4G3TWT9E8"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
         "name": "BALENCIAGA COVERED EYES",
         "url": "https://open.spotify.com/album/65keRrrRODi48zyrWoS949"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 245567,
       "name": "BALENCIAGA COVERED EYES",
       "url": "https://open.spotify.com/track/3KokqGsGKwLNjHxLbRIBQt"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/1KZLgwiwvM1t4zCEA9ZOYb"
+      },
+      "artists": [
+        {
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+        }
+      ],
+      "duration_ms": 165631,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/0yGh0gZX5nGRn4G3TWT9E8"
     }
   ],
   "unique_name": "Pop Right Now",

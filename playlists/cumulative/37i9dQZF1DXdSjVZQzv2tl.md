@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Lauana Prado
 
-320 songs - 15 hr 0 min
+321 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [CACO DE GENTE \- Ao Vivo](https://open.spotify.com/track/6saU47oJ8952GeNfpbpl7d) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [ESOTÉRICO \(Ao Vivo\)](https://open.spotify.com/album/1VR7zwpshHJ5CdlTo1TORp) | 3:14 | 2025-02-26 | 2025-04-05 |
 | [Calafrio \(feat\. Henrique & Juliano\) \- Ao Vivo \| Bônus Track](https://open.spotify.com/track/2pRjaIcGc9LOmu7x9XMswA) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Sem Contra\-Indicação \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/4cmnBc1SViY9M3Rgh2LgFi) | 3:12 | 2023-11-10 | 2024-08-03 |
 | [Calculista](https://open.spotify.com/track/3tEaSuDA0eWnIF8ari2Xly) | [Dom Vittor & Gustavo](https://open.spotify.com/artist/36CiwS6BaZffBHzjJL8y6N), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Calculista](https://open.spotify.com/album/6KCcAGSlLAlUo3nGAQqWMy) | 2:38 | 2021-12-31 | 2022-05-20 |
+| [Camisola e Fio \- Ao Vivo](https://open.spotify.com/track/3wBaigHNAAsg2MnXIfNRSu) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Camisola e Fio \(Ao Vivo\)](https://open.spotify.com/album/03j75YwOH5gakK4JE1Aeh1) | 3:00 | 2025-06-27 |  |
 | [Cantada Boba \- Ao Vivo](https://open.spotify.com/track/2gfn28JSINCJGLrUimmu0l) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Check\-In \(Ao Vivo\)](https://open.spotify.com/album/5Cs1VjhgG8FmA5rv5iXe3r) | 3:03 | 2024-11-12 |  |
 | [Canudinho \- Ao Vivo](https://open.spotify.com/track/6AENBD8I0mDGglFqrRZGu7) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Canudinho \(Ao Vivo\)](https://open.spotify.com/album/1w5McUqm1LoGFBynpndS6x) | 2:04 | 2023-09-15 | 2024-05-25 |
 | [Cara da Derrota \- Ao Vivo](https://open.spotify.com/track/2bWVxK5GlPtS4D3FcLjGgQ) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco Goiânia \(Ao Vivo\)](https://open.spotify.com/album/00jkZlcpl1OU9kZbgLqBMT) | 2:41 | 2022-12-16 | 2023-03-25 |
@@ -95,7 +96,7 @@
 | [Desconhecido \- Ao Vivo](https://open.spotify.com/track/3whfTX0NBHhjynUlARMf7q) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Desconhecido \(Ao Vivo\)](https://open.spotify.com/album/3C0hakkn04yiefoCYqdJ5O) | 2:52 | 2024-09-20 |  |
 | [Desculpa \- Ao Vivo](https://open.spotify.com/track/1e65vFwyqTM7FJeJ49T5ch) | [Cristinas](https://open.spotify.com/artist/7DmKgIhj9hUClv6a1iF4Q3) | [Cristinas \(Ao Vivo / Vol.01\)](https://open.spotify.com/album/4z1bRlKJwvx4hduTSxs7Pz) | 3:06 | 2025-02-26 | 2025-05-03 |
 | [Desejo Imortal \(It Must Have Been Love\)](https://open.spotify.com/track/1L7hWEc3tVjvmbw48ShktM) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Desejo Imortal \(It Must Have Been Love\)](https://open.spotify.com/album/5dJzuxTgkvdhSlgInkqMqC) | 3:04 | 2023-04-21 | 2023-07-08 |
-| [Deu Moral \- Ao Vivo](https://open.spotify.com/track/0WiJIa3V9GdcJfcy1FhLjp) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Deu Moral \(Ao Vivo\)](https://open.spotify.com/album/15pXNSKEOHeM0sN1NMtPzy) | 2:02 | 2024-04-19 |  |
+| [Deu Moral \- Ao Vivo](https://open.spotify.com/track/0WiJIa3V9GdcJfcy1FhLjp) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Deu Moral \(Ao Vivo\)](https://open.spotify.com/album/15pXNSKEOHeM0sN1NMtPzy) | 2:02 | 2024-04-19 | 2025-06-28 |
 | [DEUS É MUITO BOM \- Ao Vivo](https://open.spotify.com/track/235CP5ItAYMS6usv3C8jkP) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [DEUS É MUITO BOM \(Ao Vivo\)](https://open.spotify.com/album/49T6GunhdUuSCbYBZ156AD) | 2:54 | 2023-05-05 | 2023-06-17 |
 | [Devia Ser Proibido \- Ao Vivo Em Brasília](https://open.spotify.com/track/0QcKkN8b4iVkmVsbaze8OS) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Brasília\)](https://open.spotify.com/album/4KanzzLcDoiraz456AUvEl) | 2:53 | 2023-08-18 | 2024-03-30 |
 | [Diferentona](https://open.spotify.com/track/7sAyqOe0BHySvFjSI5tnBA) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Diferentona](https://open.spotify.com/album/38MUiXwqZqB83uzciTp3MU) | 2:58 | 2024-07-12 | 2024-08-28 |

@@ -5643,6 +5643,24 @@
     },
     {
       "album": {
+        "name": "Frio",
+        "url": "https://open.spotify.com/album/23yV81YgWTvTJmI8XNYlTV"
+      },
+      "artists": [
+        {
+          "name": "Pablo Vermell",
+          "url": "https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5"
+        }
+      ],
+      "date_added": "2025-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143446,
+      "name": "Frio",
+      "url": "https://open.spotify.com/track/3IE8Adpf5OpHUO5zWmXRhD"
+    },
+    {
+      "album": {
         "name": "Frutas",
         "url": "https://open.spotify.com/album/4GXAxNN4YzQsUPvxDUcNhd"
       },
@@ -9968,7 +9986,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 222875,
       "name": "Pantufas",
       "url": "https://open.spotify.com/track/4ibwijAswlFKt5SJgQSZTh"

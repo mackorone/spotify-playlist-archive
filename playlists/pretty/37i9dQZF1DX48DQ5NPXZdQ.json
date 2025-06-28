@@ -1,6 +1,6 @@
 {
   "description": "Su m\u00fasica, como ellos, es eterna. Jos\u00e9 Jos\u00e9 en portada.",
-  "num_followers": 66012,
+  "num_followers": 66026,
   "original_name": "Inmortales de la Canci\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-07-05 02:05:16",
       "album": {
+        "name": "Mas Alla Del Sol",
+        "url": "https://open.spotify.com/album/1wRhBK4ubZMPanXtjFIi6V"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 159172,
+      "name": "Eso Y Mas",
+      "url": "https://open.spotify.com/track/2KWQgEXc3ZzX6npPgIEqSB"
+    },
+    {
+      "added_at": "2024-07-05 02:05:16",
+      "album": {
         "name": "Serie 20 Exitos",
         "url": "https://open.spotify.com/album/3EZFkmrWUcuu2DJHYSZN9e"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 200440,
       "name": "Mar\u00eda Bonita",
       "url": "https://open.spotify.com/track/23WfbJPkKmCBLbUlYpSuNP"
-    },
-    {
-      "added_at": "2024-07-05 02:05:16",
-      "album": {
-        "name": "Mas Alla Del Sol",
-        "url": "https://open.spotify.com/album/1wRhBK4ubZMPanXtjFIi6V"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 159172,
-      "name": "Eso Y Mas",
-      "url": "https://open.spotify.com/track/2KWQgEXc3ZzX6npPgIEqSB"
     },
     {
       "added_at": "2024-07-05 02:05:16",

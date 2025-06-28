@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Willi Carlisle
 
-503 songs - 1 day 7 hr 6 min
+504 songs - 1 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,6 +395,7 @@
 | [Such Great Heights](https://open.spotify.com/track/79cKvTv8eVXPolBTPfx8ns) | [Joy Kills Sorrow](https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C) | [Wide Awake](https://open.spotify.com/album/5nEwS94VbhdXy4IgH9YMli) | 4:13 | 2022-07-22 | 2023-07-22 |
 | [Swarm \(Live\)](https://open.spotify.com/track/1qCRXkjsYFCHbSclL7Q8DE) | [Whiskey Shivers](https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH) | [Whiskey Shivers Live At the Good Music Club](https://open.spotify.com/album/0rpDrksHkwnw2gZ6w5HuV2) | 2:54 | 2021-10-01 | 2023-04-09 |
 | [Sweet Dreams, Caroline](https://open.spotify.com/track/4mIkX72rmpjwcwRn8UrYYj) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [Hey Magnolia](https://open.spotify.com/album/2PUm4MtzX2s2Hl49RNJX92) | 3:15 | 2023-09-08 | 2024-04-27 |
+| [Sweet To Know Ya](https://open.spotify.com/track/7aP8uKXvoSLeEzV8Vr1OQG) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Sweet To Know Ya](https://open.spotify.com/album/1YYXsRrMZZeOROrmAA27LR) | 3:07 | 2025-06-27 |  |
 | [Swimming](https://open.spotify.com/track/6owT9dDLEt4IHs09znfkBd) | [Abby Webster](https://open.spotify.com/artist/0HhLNo5pI32wCYNKqpXuCD) | [Livin' by the Water](https://open.spotify.com/album/2rWKNPrNt1MNNMwge3V8L2) | 3:16 | 2024-08-16 |  |
 | [Take Me](https://open.spotify.com/track/1o6a5gZjcxsLkpL6K6TpGn) | [The Wildmans](https://open.spotify.com/artist/2sc3hT3TpBoDcuLNgc5Lkw) | [Take Me](https://open.spotify.com/album/0d7tuC3nmXXJup6oj7VRA1) | 3:46 | 2025-04-11 |  |
 | [Take Me as I Am](https://open.spotify.com/track/3Q7MbMK0z9Sn7konorvnsZ) | [Mile Twelve](https://open.spotify.com/artist/7myKB37RtOM7sp6zU9qdJf) | [Take Me as I Am](https://open.spotify.com/album/38RGAkwRVaC7B4NY1RRfNA) | 3:54 | 2023-01-20 | 2024-02-24 |

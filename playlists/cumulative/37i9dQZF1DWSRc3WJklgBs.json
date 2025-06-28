@@ -930,7 +930,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 178746,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/3fA1ftCkI0rwc2fz09ae29"
@@ -4365,6 +4365,24 @@
     },
     {
       "album": {
+        "name": "Can't Help But Loving You",
+        "url": "https://open.spotify.com/album/3OFYGKxrH7CMhIGPStdike"
+      },
+      "artists": [
+        {
+          "name": "Alex Adair",
+          "url": "https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195959,
+      "name": "Can't Help But Loving You",
+      "url": "https://open.spotify.com/track/62wTeRZbLjVp8JrELsghQ5"
+    },
+    {
+      "album": {
         "name": "Can't Love Myself (feat. Mishaal & LPW)",
         "url": "https://open.spotify.com/album/3ZQaTE0GhMpsJKCqo8vnpb"
       },
@@ -4972,7 +4990,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 236417,
       "name": "close to you",
       "url": "https://open.spotify.com/track/2a657moilAHrsI75o595Mz"
@@ -8994,6 +9012,28 @@
     {
       "album": {
         "name": "Flames",
+        "url": "https://open.spotify.com/album/7AODiIsKeDZNsymwEO7Wxe"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180472,
+      "name": "Flames",
+      "url": "https://open.spotify.com/track/1vXP30hzwXVis2zTQI10MY"
+    },
+    {
+      "album": {
+        "name": "Flames",
         "url": "https://open.spotify.com/album/2gIxDM4WeTdqfkPEDVjQkc"
       },
       "artists": [
@@ -10152,6 +10192,24 @@
       "duration_ms": 177165,
       "name": "Goodnight (feat. JP Cooper)",
       "url": "https://open.spotify.com/track/3UAeRjm3BXh9joNAGn2W6Q"
+    },
+    {
+      "album": {
+        "name": "Gorgeous",
+        "url": "https://open.spotify.com/album/0Cfra82asXBC16xqQ0HdjQ"
+      },
+      "artists": [
+        {
+          "name": "Babsy.",
+          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186086,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/1nS8N96n8G4fFUG8RijrzU"
     },
     {
       "album": {
@@ -11629,6 +11687,24 @@
     },
     {
       "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/3eGZc6Aj2TI3FjAr4hbbwX"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282352,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/41oQHj22UB6se03Cqi5PLV"
+    },
+    {
+      "album": {
         "name": "REAL",
         "url": "https://open.spotify.com/album/32XwG199a5gGcwhbMJOZBH"
       },
@@ -12130,7 +12206,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 175180,
       "name": "Human",
       "url": "https://open.spotify.com/track/3ripGdakV32rdr8oQW3vjG"
@@ -13014,6 +13090,24 @@
       "duration_ms": 192261,
       "name": "I Miss You (feat. Julia Michaels) - BLVK JVCK ReVibe",
       "url": "https://open.spotify.com/track/3KIziparMoKHbHUIfnFw7K"
+    },
+    {
+      "album": {
+        "name": "I NEED U",
+        "url": "https://open.spotify.com/album/2U2xvtb2D69XQHJQWLEhTA"
+      },
+      "artists": [
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196071,
+      "name": "I NEED U",
+      "url": "https://open.spotify.com/track/44MdpVDAuLaHpNtQp6Hv06"
     },
     {
       "album": {
@@ -14576,7 +14670,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 217789,
       "name": "Just Begun",
       "url": "https://open.spotify.com/track/6hb842ueBBNX0Pw6cwZsgc"
@@ -17125,6 +17219,32 @@
     },
     {
       "album": {
+        "name": "Love Yourself",
+        "url": "https://open.spotify.com/album/3EcBEvsqJw3naDNXY1VwDq"
+      },
+      "artists": [
+        {
+          "name": "Tom Budin",
+          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
+        },
+        {
+          "name": "PINEO & LOEB",
+          "url": "https://open.spotify.com/artist/7LildCOU5me58NKlvsLVRI"
+        },
+        {
+          "name": "Nina Nevra",
+          "url": "https://open.spotify.com/artist/0LfTLvRKowL8aXYL8NSO7c"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127748,
+      "name": "Love Yourself",
+      "url": "https://open.spotify.com/track/28D5QdHykOQ96f55JN6Mbx"
+    },
+    {
+      "album": {
         "name": "Loved By U",
         "url": "https://open.spotify.com/album/4taO2kN0bh4dQ2EgiTL4Nm"
       },
@@ -17594,7 +17714,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 216796,
       "name": "Magnets in the Dark (feat. Lizzy Land)",
       "url": "https://open.spotify.com/track/2jIWIrT95AuZoHmBl6DIBX"
@@ -19542,7 +19662,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 221668,
       "name": "north star",
       "url": "https://open.spotify.com/track/4RjJWMbeijZfnLlkpHVqQX"
@@ -21180,6 +21300,24 @@
       "duration_ms": 239542,
       "name": "Pure Shores",
       "url": "https://open.spotify.com/track/1qLEtiVIMaYmUOeGJUSoPQ"
+    },
+    {
+      "album": {
+        "name": "R U DOWN?",
+        "url": "https://open.spotify.com/album/0U4SQdmsqFF9dEeX2lzqKd"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139911,
+      "name": "R U DOWN?",
+      "url": "https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD"
     },
     {
       "album": {
@@ -27260,7 +27398,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 156428,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/1Nc4gon5Nu3hL4Ou6kvrgz"
@@ -29096,7 +29234,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 206129,
       "name": "What A Feeling",
       "url": "https://open.spotify.com/track/0JKliACP4ejGtyxduESutD"
@@ -29586,6 +29724,24 @@
       "duration_ms": 236000,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
+    },
+    {
+      "album": {
+        "name": "Where You Are Is Home",
+        "url": "https://open.spotify.com/album/4bFSnX1NLDrV3RonGtDtoL"
+      },
+      "artists": [
+        {
+          "name": "Super Duper",
+          "url": "https://open.spotify.com/artist/5zFMLXUnqxwdgTpLCX9LDj"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208290,
+      "name": "Where You Are Is Home",
+      "url": "https://open.spotify.com/track/40O1HVeE12pexNHXAZA6ok"
     },
     {
       "album": {

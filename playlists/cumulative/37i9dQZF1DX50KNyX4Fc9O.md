@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Lewis Capaldi
 
-1,986 songs - 4 day 6 hr 28 min
+1,988 songs - 4 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -932,6 +932,7 @@
 | [Into The Walls](https://open.spotify.com/track/5Gdbm8oHbicLgj79HcOxtL) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [vert1go vol\. 1](https://open.spotify.com/album/1RcfzHK44GEHSBwAH1NQeY) | 3:08 | 2023-10-19 | 2023-12-08 |
 | [Into Your Room](https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Into Your Room](https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws) | 3:29 | 2023-09-21 | 2023-11-17 |
 | [Into Your Room \(with MUNA\)](https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Into Your Room \(with MUNA\)](https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun) | 3:31 | 2023-11-30 | 2024-01-12 |
+| [IRL \(FEAT\. SZA\)](https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:44 | 2025-06-26 |  |
 | [Is It Ever Gonna Make Sense](https://open.spotify.com/track/7FbLFGKk2OBewYOgCa3cbT) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Is It Ever Gonna Make Sense](https://open.spotify.com/album/0osdCYJ8h3oi96HeQnvc2i) | 3:05 | 2024-07-19 | 2024-08-23 |
 | [Is It Just Me?](https://open.spotify.com/track/3BUKSDaklrjVckSi8JUCmr) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Is It Just Me?](https://open.spotify.com/album/180pxFgUrC6nG3pfo37Yr8) | 2:59 | 2025-01-23 | 2025-02-28 |
 | [Is This Love To You](https://open.spotify.com/track/2ncHgB3JjvnY4YcoMo8tGl) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Is This Love To You](https://open.spotify.com/album/5wEwgDkXxpWYoa18RjS85V) | 2:55 | 2024-10-24 | 2024-12-20 |
@@ -1277,6 +1278,7 @@
 | [On and On](https://open.spotify.com/track/6JEgBKPfPWolUSPS6WFXz6) | [Samantha Jade](https://open.spotify.com/artist/5i84V8Zk7YqCN6xxb7SWgw) | [Love.Sick Vol.2](https://open.spotify.com/album/6ETGMIMdorbIYH8kfwqG6e) | 2:25 | 2024-08-16 | 2024-09-27 |
 | [On My Love \- New Year Hypaton Remix](https://open.spotify.com/track/0p30mMKiymrvaaeiXoU3a5) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [On My Love \(New Year Hypaton Remix\)](https://open.spotify.com/album/1CTwTz2XAKkEYxyX1t4yVU) | 3:11 | 2024-01-11 | 2024-01-19 |
 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 | 2024-02-08 | 2024-04-05 |
+| [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 | 2025-06-26 |  |
 | [On My Own](https://open.spotify.com/track/581RQr3HXrnCbVqfwmRnEj) | [Ricki\-Lee](https://open.spotify.com/artist/07lgEPGfoA4Lqos6YGYPDU) | [On My Own](https://open.spotify.com/album/6iJaI3mbYF4tlPPUnAhJ2l) | 3:04 | 2023-06-15 | 2023-07-07 |
 | [On The Line](https://open.spotify.com/track/2FmdOegR6nF8SJLGYb3Y7Z) | [Logan Priest](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j), [KIAN](https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq) | [On The Line](https://open.spotify.com/album/68tz2MPmMKmk3ynt8yw19G) | 3:03 | 2024-06-13 | 2024-07-27 |
 | [on ya mind](https://open.spotify.com/track/6zdi0okbY79mOlXq56PFSQ) | [atkins](https://open.spotify.com/artist/3v744e1xfczA6Yim7gkFmI) | [on ya mind](https://open.spotify.com/album/0ReeiLytcqdKMW4ba7TlZO) | 2:47 | 2024-03-28 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > 10 years of the best new music by independent artists in the Nordics\. Cover: Caesar Omaka
 
-1,175 songs - 2 day 13 hr 49 min
+1,177 songs - 2 day 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,6 +568,7 @@
 | [Killerz](https://open.spotify.com/track/22cAqPXROdMYhrXtpQm9t8) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [Killerz](https://open.spotify.com/album/1BmAoJthqgOtPu4jd4ab3K) | 2:34 | 2024-10-17 | 2025-01-18 |
 | [Kills Me](https://open.spotify.com/track/3JfyY7bVCll82KNNp52zOY) | [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Kills Me](https://open.spotify.com/album/7ivESp0Dmo3HThUrbxeslm) | 3:06 | 2025-01-02 | 2025-02-07 |
 | [King's Garden](https://open.spotify.com/track/4aUPb0DZj1saaUJFDjoahk) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [King's Garden](https://open.spotify.com/album/6zsXmJ5est3sAXA9cb15xV) | 2:47 | 2024-08-01 | 2024-09-20 |
+| [KNIFE](https://open.spotify.com/track/2AnyzmrKLXR61ObSp2LXrT) | [LARA](https://open.spotify.com/artist/0BudKMCTqOhcrPkhL0JkXZ) | [KNIFE](https://open.spotify.com/album/5mYTLQWP7xxn0Ddi2zSt1q) | 2:48 | 2025-06-27 |  |
 | [Knock Me Off My Feet](https://open.spotify.com/track/6Xgbgdi7F7BGrZPrYcxFVl) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Knock Me Off My Feet](https://open.spotify.com/album/26u0sUGviB0cRFSHIQpbs0) | 2:21 | 2025-01-02 | 2025-02-14 |
 | [Know Nothing](https://open.spotify.com/track/04h7ReoZ0gxfgGUMM68Lzy) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Know Nothing](https://open.spotify.com/album/0LKI6YjvjvuZADyW4uz9bP) | 3:00 | 2024-02-08 | 2025-01-03 |
 | [KOALA](https://open.spotify.com/track/2JAnBqNIrFB3bpg7zle5Iq) | [FRANK LEONE](https://open.spotify.com/artist/6hyHkgqHkUlJU6QMmzCNMK), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [KOALA](https://open.spotify.com/album/5Cm3KHhRiOBKo2ZQ9lNOXZ) | 2:21 | 2024-04-11 | 2024-05-03 |
@@ -780,6 +781,7 @@
 | [Other Side](https://open.spotify.com/track/3WHI9kxRAJKjGcDRnQkWOQ) | [Bellvie](https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl) | [Other Side](https://open.spotify.com/album/7sCoIkdXurYnLVYwa2OEYd) | 4:20 | 2024-07-25 | 2024-09-06 |
 | [Out of My Mind](https://open.spotify.com/track/6UrTdjYSWXSlquuD1P58h8) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Out of My Mind](https://open.spotify.com/album/1xStOYlPRK1SRoPIDtN75f) | 3:37 | 2024-06-27 | 2025-01-03 |
 | [Over](https://open.spotify.com/track/68hMlnUaIdjJfpFogolkUG) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo), [Bathrobe Tony](https://open.spotify.com/artist/6ytnNrgYq2i0hz3rLjLkkb), [The Good Son](https://open.spotify.com/artist/76OZ1HAHb3VXmv9z2vaL57) | [Over](https://open.spotify.com/album/11c8AO04I8gh34Oc6ycFJ6) | 3:15 | 2024-02-08 | 2024-03-08 |
+| [Over and Over](https://open.spotify.com/track/1iMUHTAg8YR2WaWTOTRnuc) | [Tatia Darsalia](https://open.spotify.com/artist/2z6l6zLPpmzy9Wnl3EBxoo) | [Over and Over](https://open.spotify.com/album/1KTbMtx9CX5xue2fClRtKg) | 3:09 | 2025-06-27 |  |
 | [Over Me](https://open.spotify.com/track/5tMfHg2Z0XZO4gr3Vt62hZ) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [Over Me](https://open.spotify.com/album/3aKYZLDV2yLyQ7WDIEIQhC) | 5:52 | 2025-01-16 | 2025-02-28 |
 | [Over Time](https://open.spotify.com/track/3tk56dmBGgmLknBYmUcsiw) | [Melina Do Rosario](https://open.spotify.com/artist/0cSEtYQdOXcBDyslRAAd9h) | [Over Time](https://open.spotify.com/album/0xuM0gCFMIJLc4hwuA2MSr) | 2:33 | 2024-09-26 | 2024-11-15 |
 | [Pain Killer](https://open.spotify.com/track/20lBQfwF4WjXU2ipajAqTk) | [theophilia](https://open.spotify.com/artist/3SWQx1YIz6i5AgeL3htTS1) | [Pain Killer](https://open.spotify.com/album/7jV8QrZxz4Bzf7CSAbeCjA) | 2:51 | 2025-06-05 | 2025-06-13 |

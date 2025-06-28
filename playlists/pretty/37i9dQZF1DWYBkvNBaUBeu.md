@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 
 > Future hits in the Philippines! Cover: KATSEYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,626 likes - 83 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,644 likes - 83 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

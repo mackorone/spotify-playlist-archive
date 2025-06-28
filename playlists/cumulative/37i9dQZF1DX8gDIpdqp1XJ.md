@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock, neo\-psychedelic, and psychedelic indie.
 
-992 songs - 2 day 16 hr 43 min
+993 songs - 2 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -919,6 +919,7 @@
 | [Uneasy](https://open.spotify.com/track/30HTOX8mZbt3uLGKolpr4Q) | [Mr Floyd Larry](https://open.spotify.com/artist/1k8ck5j4cuHYuzy3nPHDrM) | [Three Months Off](https://open.spotify.com/album/3zHIYP4m2O1sUmTW6w9hbJ) | 4:25 | 2022-02-25 | 2022-04-19 |
 | [Unfold](https://open.spotify.com/track/0pPriiSNZ0ZuTVsWZbPuph) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD) | 1:30 | 2022-09-02 | 2023-05-06 |
 | [Unfold](https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/5eMxezuwxG5iv40YIjXuop) | 1:30 | 2022-09-02 | 2022-10-03 |
+| [UP](https://open.spotify.com/track/31mO7evLXfPLxigHsbvsN1) | [Reaper](https://open.spotify.com/artist/47qrgNNbZRRCAK0ZrKcuZV) | [UP](https://open.spotify.com/album/0xdsUzAAc2M1NOpcymxezh) | 3:18 | 2025-06-27 |  |
 | [Up and Away](https://open.spotify.com/track/3im8VPUFdugX19ZgLoG64t) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/2ERdLrGZOF7cduTv92k3z1) | 3:11 | 2022-05-20 | 2022-07-28 |
 | [Up and Away](https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:11 | 2022-07-22 | 2023-01-28 |
 | [Up To You](https://open.spotify.com/track/2GdJCSLD7xGJTlmO8DusCo) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [Up To You](https://open.spotify.com/album/1O2iGb1Y5ciQjsu6kQCbJN) | 4:21 | 2024-05-10 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: emi",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Briela",
   "name": "up next",
   "tracks": [
     {
@@ -3207,6 +3207,24 @@
     },
     {
       "album": {
+        "name": "Jeszcze raz",
+        "url": "https://open.spotify.com/album/1RsZtOTCP3XVv240LxDrhb"
+      },
+      "artists": [
+        {
+          "name": "Briela",
+          "url": "https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152481,
+      "name": "Jeszcze raz",
+      "url": "https://open.spotify.com/track/6n6sEKy1885BNIXiapog4E"
+    },
+    {
+      "album": {
         "name": "jeszcze raz",
         "url": "https://open.spotify.com/album/0cxn6C6Yk2zEZlRn2EVHg5"
       },
@@ -5660,7 +5678,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 144905,
       "name": "oddaj mi b\u00f3l",
       "url": "https://open.spotify.com/track/1JhR66lrh2u9LylvZ0TSjj"
@@ -5690,6 +5708,28 @@
       "duration_ms": 151406,
       "name": "oddaj mnie",
       "url": "https://open.spotify.com/track/2dUDMxSYnfGV4zNyNr1qz7"
+    },
+    {
+      "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/61Cya6AJcIuZAfcoewYda4"
+      },
+      "artists": [
+        {
+          "name": "Julia Bojur",
+          "url": "https://open.spotify.com/artist/7yI5GTAddn0GBCRnDOpWPK"
+        },
+        {
+          "name": "Ghosty",
+          "url": "https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174926,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/7J6WiVtsNUjz9f0AcOzyxB"
     },
     {
       "album": {
@@ -8198,7 +8238,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 200323,
       "name": "U Want Me Anyway",
       "url": "https://open.spotify.com/track/2NZpYLv014p6rfl2CYxDX6"
@@ -8372,7 +8412,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 237258,
       "name": "Wakacje",
       "url": "https://open.spotify.com/track/2ECWb0NMqDOh8zEIbmqfoO"
@@ -9196,6 +9236,24 @@
       "duration_ms": 174591,
       "name": "Zostaniesz na zawsze?",
       "url": "https://open.spotify.com/track/5uXyJ2mYb4LHQ0gKEMXtEL"
+    },
+    {
+      "album": {
+        "name": "lekko",
+        "url": "https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "Z\u0141Y",
+      "url": "https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6"
     },
     {
       "album": {

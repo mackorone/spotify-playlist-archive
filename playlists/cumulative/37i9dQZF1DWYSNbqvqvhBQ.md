@@ -4,7 +4,7 @@
 
 > De mooiste liedjes van het moment\. Cover: KANE
 
-667 songs - 1 day 14 hr 54 min
+669 songs - 1 day 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [A Symptom Of Being Human](https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 4:08 | 2024-02-22 | 2024-06-07 |
 | [A Year Ago](https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Year Ago](https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ) | 2:50 | 2023-05-11 | 2023-10-28 |
 | [act your age](https://open.spotify.com/track/0zyojrljeU0HWxfpGtTWgC) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [act your age / suburbia](https://open.spotify.com/album/66P6me8R4qvi56i8BX4aUs) | 2:03 | 2024-02-29 | 2024-06-21 |
-| [Afraid Of What You Might Find](https://open.spotify.com/track/7cnbRTFRYERD9bPO6SkDUx) | [SJ Hoffman](https://open.spotify.com/artist/16xNj5A1JEBDwSf9zPhr0m) | [Redeeming Grace](https://open.spotify.com/album/0GKWgZFnokGG8vSSPoDqfQ) | 4:25 | 2025-03-20 |  |
+| [Afraid Of What You Might Find](https://open.spotify.com/track/7cnbRTFRYERD9bPO6SkDUx) | [SJ Hoffman](https://open.spotify.com/artist/16xNj5A1JEBDwSf9zPhr0m) | [Redeeming Grace](https://open.spotify.com/album/0GKWgZFnokGG8vSSPoDqfQ) | 4:25 | 2025-03-20 | 2025-06-28 |
 | [All I Ever Wanted](https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [All I Ever Wanted](https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ) | 3:09 | 2024-06-06 | 2024-10-04 |
 | [All I Ever Wanted](https://open.spotify.com/track/6vcuJ0lxMSbIZDToFEfyFI) | [St\. Solaire](https://open.spotify.com/artist/5QsBtdXbeZMaAjXd7GBPL8) | [All I Ever Wanted](https://open.spotify.com/album/4rQWKrHV9WQL9igdrcpwDT) | 4:18 | 2023-02-23 | 2023-03-25 |
 | [All My Broken Pieces](https://open.spotify.com/track/4VmFqEEqbLReGKJQhDl9c0) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [All My Broken Pieces](https://open.spotify.com/album/4sbMRC8gsLRdloSLdNlwif) | 4:02 | 2023-10-27 | 2024-03-15 |
@@ -86,7 +86,7 @@
 | [Built And Broken](https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Built And Broken](https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m) | 4:28 | 2023-02-23 | 2023-05-10 |
 | [Burning Daylight](https://open.spotify.com/track/5pjp1jN7hitQTuSlT2jOep) | [Mia Nicolai](https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ), [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj) | [Burning Daylight](https://open.spotify.com/album/5FdecV9YIP62njz9sgfyWK) | 3:04 | 2023-03-02 | 2023-08-18 |
 | [Burning daylight](https://open.spotify.com/track/6wfrySLKgLeyGTjh21xvWI) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Pleasure](https://open.spotify.com/album/2FAfR9rZEMwwnrFOYsl2VT) | 4:23 | 2025-05-09 |  |
-| [But I'll Keep Trying](https://open.spotify.com/track/5WRTFJtlDo2xjHF8LpEpGo) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [But I'll Keep Trying](https://open.spotify.com/album/3VLwV4o2WGARLpANnoPe57) | 3:11 | 2025-04-25 |  |
+| [But I'll Keep Trying](https://open.spotify.com/track/5WRTFJtlDo2xjHF8LpEpGo) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [But I'll Keep Trying](https://open.spotify.com/album/3VLwV4o2WGARLpANnoPe57) | 3:11 | 2025-04-25 | 2025-06-28 |
 | [C'est La Vie](https://open.spotify.com/track/4MsGEDdSdgs4lWSJQIIf8z) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [C'est La Vie](https://open.spotify.com/album/3WfggotCPBU1ESJjbM9CWV) | 3:03 | 2025-01-09 | 2025-04-18 |
 | [California Lover](https://open.spotify.com/track/6sOUBEr73j84UAotmBDqRD) | [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [California Lover](https://open.spotify.com/album/07fYJ01cntYss2ihjfz64x) | 2:21 | 2024-01-29 | 2024-06-08 |
 | [California Sober \(Feat\. Chris Stapleton\)](https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:24 | 2024-08-29 | 2024-09-13 |
@@ -239,6 +239,7 @@
 | [Heavy](https://open.spotify.com/track/0aw9eYHRnhcOCKRGUmg8mB) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk), [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Heavy](https://open.spotify.com/album/53vlkY1WXAW0MWRgGqR74z) | 3:34 | 2024-08-29 | 2025-01-10 |
 | [Hello](https://open.spotify.com/track/6WOWlW3yUqyobe5t60CMNu) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Hello](https://open.spotify.com/album/5ktE0WaMW40T9mcr7MM6Ic) | 3:34 | 2023-08-24 | 2023-11-17 |
 | [Hello](https://open.spotify.com/track/6kIl5WZtEdImIcEarhs9iZ) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Something Out Of Nothing](https://open.spotify.com/album/52avYCo20BfLgGk50FvyRW) | 3:34 | 2023-11-13 | 2024-03-15 |
+| [Here's To Forever](https://open.spotify.com/track/1kPqJKym5MEHXO0Mpdh4Bx) | [Bart van Liemt](https://open.spotify.com/artist/3xLM1wsWj19ZjpYwmuyX5D) | [Here's To Forever](https://open.spotify.com/album/3p9p5hYgfz4AiC3tNfX4g7) | 3:04 | 2025-06-27 |  |
 | [Hideaway](https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Hideaway](https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG) | 4:19 | 2023-08-03 | 2024-01-26 |
 | [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 | 2023-11-30 | 2024-05-25 |
 | [High Five](https://open.spotify.com/track/1KNfDol8Thjs1dNXPPppBy) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [High Five](https://open.spotify.com/album/3G3sIi4NccAcwsZwUC537k) | 3:29 | 2023-02-23 | 2023-06-09 |
@@ -349,6 +350,7 @@
 | [Lost Inside My Head](https://open.spotify.com/track/3yIcYpQTvfEnGjKxQjoa01) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Lost Inside My Head](https://open.spotify.com/album/7tOl1qi1qAGEWzKtgtM4QT) | 2:41 | 2023-05-09 | 2023-11-03 |
 | [Lost Love](https://open.spotify.com/track/10uL8zMFDZVfB9voq9PQPB) | [Thomas Nicolas](https://open.spotify.com/artist/7pXdNMrXe30tL64f3N5rN8) | [Lost Love](https://open.spotify.com/album/3NOpRc2HifqbW3bXWMTWNy) | 2:16 | 2023-02-23 | 2023-04-14 |
 | [Love Is Alive](https://open.spotify.com/track/1Dk2urUIeWH6A6tUHygDlQ) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [Love Is Alive](https://open.spotify.com/album/04IS7MIusxRYUsuecyTqVR) | 3:27 | 2024-08-29 | 2024-10-15 |
+| [Love Of My Life](https://open.spotify.com/track/0Q3RbOiHt7aPTBOQDDMOw3) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Love Of My Life](https://open.spotify.com/album/5gTrlQZgwWH7WdAShMZEmP) | 2:55 | 2025-06-27 |  |
 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 | 2024-10-22 | 2025-04-12 |
 | [Love Song](https://open.spotify.com/track/0p2RzDuT4BbboYCsW8LT7C) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/1FY6Ov9aGkNEhXa7GbeRwM) | 2:40 | 2023-10-12 | 2023-11-18 |
 | [Love Song](https://open.spotify.com/track/5DJeMovbaAfGWcxkN2TVaM) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL) | 2:40 | 2023-11-13 | 2024-02-03 |

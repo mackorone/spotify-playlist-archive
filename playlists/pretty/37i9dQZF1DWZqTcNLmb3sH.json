@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Ekka",
-  "num_followers": 63348,
+  "num_followers": 63366,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFz7ggAAAAD3/PKMZuRov+rSfDEUO7O8",
+  "snapshot_id": "aF5zzAAAAAD19gqUueVgn1hGsblLCoLP",
   "tracks": [
     {
       "added_at": "2025-06-09 12:18:40",
@@ -55,6 +55,26 @@
       "duration_ms": 239291,
       "name": "Rangoli (From \"Sarala Subbarao\")",
       "url": "https://open.spotify.com/track/2DQKzsl3tAzEo2uhQZ23yz"
+    },
+    {
+      "added_at": "2025-06-27 10:34:52",
+      "album": {
+        "name": "Odela 2 (Kannada)",
+        "url": "https://open.spotify.com/album/0bVIzKQQKY1ByPUyvZn2pH"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Sachin Nagarathna",
+          "url": "https://open.spotify.com/artist/5Gz3KfE0m4BJrDmQYeuI3v"
+        }
+      ],
+      "duration_ms": 186073,
+      "name": "Nodu Nodu",
+      "url": "https://open.spotify.com/track/1rVBw2ugUpTq3ZOZZQzvYQ"
     },
     {
       "added_at": "2025-06-24 13:23:48",
@@ -155,6 +175,26 @@
       "duration_ms": 204304,
       "name": "Sotharu Geddevu (From \"Biddu Geddavaru\")",
       "url": "https://open.spotify.com/track/2RHZftSqboz7xdgqHaxsf9"
+    },
+    {
+      "added_at": "2025-06-27 10:34:52",
+      "album": {
+        "name": "Odela 2 (Kannada)",
+        "url": "https://open.spotify.com/album/0bVIzKQQKY1ByPUyvZn2pH"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Swathi Shankari",
+          "url": "https://open.spotify.com/artist/7c0Ci1eChAcVAgpkwAfNql"
+        }
+      ],
+      "duration_ms": 139044,
+      "name": "Mallayya (Female)",
+      "url": "https://open.spotify.com/track/1JTAR4jVYP8YHWCMoyhKFH"
     },
     {
       "added_at": "2025-06-16 11:16:42",
@@ -1195,58 +1235,6 @@
       "duration_ms": 180000,
       "name": "Sundari Sukumaari - From \"Rajarathnakara\"",
       "url": "https://open.spotify.com/track/6kvXJxDkFVhQjncC3f4nez"
-    },
-    {
-      "added_at": "2025-04-11 10:01:52",
-      "album": {
-        "name": "Baa Gelathi (From \"Manada Kadalu\")",
-        "url": "https://open.spotify.com/album/01VEzb7aqe73Yg2ZI9KZW6"
-      },
-      "artists": [
-        {
-          "name": "V. Harikrishna",
-          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
-        },
-        {
-          "name": "Yogaraj Bhat",
-          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
-        },
-        {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
-        }
-      ],
-      "duration_ms": 299198,
-      "name": "Baa Gelathi (From \"Manada Kadalu\")",
-      "url": "https://open.spotify.com/track/7wtS54HSLufFmLhqLrnxTV"
-    },
-    {
-      "added_at": "2025-04-07 09:06:19",
-      "album": {
-        "name": "Oh Thaare (From \"The Girlfriend\")",
-        "url": "https://open.spotify.com/album/1wwr2mVKeFizgaHeaz4pxt"
-      },
-      "artists": [
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        },
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        },
-        {
-          "name": "Dheekshith Shetty",
-          "url": "https://open.spotify.com/artist/5sv6kWLnsYFiVZ05bNudnI"
-        },
-        {
-          "name": "Varadaraj Chikkaballapura",
-          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
-        }
-      ],
-      "duration_ms": 97223,
-      "name": "Oh Thaare (From \"The Girlfriend\")",
-      "url": "https://open.spotify.com/track/4fBbfl75tEKE4CiDJqbs3w"
     }
   ],
   "unique_name": "Latest Kannada",

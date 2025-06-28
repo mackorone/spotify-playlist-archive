@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "De la Calle a la Cima con KAROL G.",
+  "description": "De la Calle a la Cima con Jere Klein, Katteyes & Lucky Brown.",
   "name": "MANSI\u00d3N REGGAET\u00d3N",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 198211,
       "name": "+ Perra + Bitch",
       "url": "https://open.spotify.com/track/2Lncru2yyoYqC0RZfIm9gU"
@@ -1042,6 +1042,32 @@
       "duration_ms": 197155,
       "name": "Baila Bien",
       "url": "https://open.spotify.com/track/49DcRL4LLu599I5xsrjcm9"
+    },
+    {
+      "album": {
+        "name": "BAILAME ASI",
+        "url": "https://open.spotify.com/album/48CrBCrWShTOTUSYQRC12i"
+      },
+      "artists": [
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144705,
+      "name": "BAILAME ASI",
+      "url": "https://open.spotify.com/track/2XsNvTXYuCNCoz94bPBrPB"
     },
     {
       "album": {
@@ -4306,7 +4332,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 182871,
       "name": "Flashbacks | CROSSOVER #9",
       "url": "https://open.spotify.com/track/73JFuGO9niMXXqmJ2WAMPU"
@@ -9591,6 +9617,28 @@
     },
     {
       "album": {
+        "name": "Quedate Soltera",
+        "url": "https://open.spotify.com/album/6N7d8h6q85ZprOqlq1hOct"
+      },
+      "artists": [
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Quedate Soltera",
+      "url": "https://open.spotify.com/track/1auWZ3kKAfnEGlP783Ntjc"
+    },
+    {
+      "album": {
         "name": "QUEMA",
         "url": "https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry"
       },
@@ -11190,7 +11238,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 178775,
       "name": "TE CANTO BAJITO",
       "url": "https://open.spotify.com/track/3I1jcOmPwnzUR5yduDK3yb"
@@ -12052,6 +12100,24 @@
       "duration_ms": 154229,
       "name": "VALERIA (feat. Gordo)",
       "url": "https://open.spotify.com/track/09igpKXUHJFwwJqqTuCvva"
+    },
+    {
+      "album": {
+        "name": "Apocalipsis",
+        "url": "https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w"
+      },
+      "artists": [
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160394,
+      "name": "Vamo a Bailotear",
+      "url": "https://open.spotify.com/track/5lCk0ZeN8h76QxNqHEGMZJ"
     },
     {
       "album": {

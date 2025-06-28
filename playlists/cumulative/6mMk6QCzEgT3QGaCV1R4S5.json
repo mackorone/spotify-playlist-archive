@@ -2561,6 +2561,28 @@
     },
     {
       "album": {
+        "name": "Let It Be For Love",
+        "url": "https://open.spotify.com/album/704JYDusykg51pfiFwgyB7"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "JAI RYU",
+          "url": "https://open.spotify.com/artist/1YtiawZzH3pF90C07iauWh"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202047,
+      "name": "Let It Be For Love",
+      "url": "https://open.spotify.com/track/5aELbqu7EkaaGtPd4BMb2f"
+    },
+    {
+      "album": {
         "name": "LET'S GET FKD UP (feat. Tribbs)",
         "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
       },
@@ -3700,7 +3722,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 179348,
       "name": "Pipe Down",
       "url": "https://open.spotify.com/track/2HMQKE6g3NRdP7CcJxAA8x"
@@ -4519,6 +4541,36 @@
     },
     {
       "album": {
+        "name": "Summer Thing (feat. Bruno Martini)",
+        "url": "https://open.spotify.com/album/1zEXCfEoie66WTTLNAV5Xw"
+      },
+      "artists": [
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        },
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149487,
+      "name": "Summer Thing (feat. Bruno Martini)",
+      "url": "https://open.spotify.com/track/2omkO2DGo3TXY2B0WBZwuc"
+    },
+    {
+      "album": {
         "name": "T-Shirt",
         "url": "https://open.spotify.com/album/2EaRYYNXuypVyGrXyLNGCI"
       },
@@ -4666,7 +4718,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 149799,
       "name": "Time of Your Life",
       "url": "https://open.spotify.com/track/4ZFFS0oNoDqPUjXhaep3fw"

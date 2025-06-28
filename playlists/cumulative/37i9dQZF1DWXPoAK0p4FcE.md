@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: The White Hair Cut
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Mirrr
 
-118 songs - 8 hr 13 min
+119 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [สายรุ้งหลังฝนโปรย](https://open.spotify.com/track/6IAnRK7K3c6SZetYS7R3wY) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [PurfectPeech](https://open.spotify.com/album/5wAiWwSRZKqpUIsKlVADiI) | 5:00 | 2024-06-27 | 2025-05-02 |
 | [สิ่งเดียวที่เราต่าง](https://open.spotify.com/track/0CC1S9A2e9v8ZSUFkWSZkN) | [Uncle Ben](https://open.spotify.com/artist/7lhxw2OpjLMGTrlUobUN3F) | [สิ่งเดียวที่เราต่าง](https://open.spotify.com/album/1rukZSSmILafBs5Yt9FxXu) | 4:41 | 2024-11-22 | 2025-02-01 |
 | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/track/6s9gVijXmSRNHc7ed9stqE) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/album/1lZTrq8sWbQ5DpV1K1hvr7) | 4:36 | 2024-06-27 | 2025-04-12 |
-| [หวานใจผมน่ารักกว่าใคร](https://open.spotify.com/track/6vAH43fkKUA2Ysgf7jIw6R) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [สยาโม](https://open.spotify.com/artist/4AJ2vsPrlHwJMpGB4RHuvG) | [หวานใจผมน่ารักกว่าใคร](https://open.spotify.com/album/0E2eCd2zuv1Iuk4MnKdros) | 3:05 | 2025-03-21 |  |
+| [หวานใจผมน่ารักกว่าใคร](https://open.spotify.com/track/6vAH43fkKUA2Ysgf7jIw6R) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [สยาโม](https://open.spotify.com/artist/4AJ2vsPrlHwJMpGB4RHuvG) | [หวานใจผมน่ารักกว่าใคร](https://open.spotify.com/album/0E2eCd2zuv1Iuk4MnKdros) | 3:05 | 2025-03-21 | 2025-06-28 |
 | [หาย](https://open.spotify.com/track/0ztahKmSIUIdr2F8Iy8ZYw) | [Greasy Cafe'](https://open.spotify.com/artist/5VR2NQf3Y8Hmh8iHS6bXYx) | [หาย](https://open.spotify.com/album/0UDjVe5A2IGrMAeLEZt3m6) | 4:20 | 2025-03-21 |  |
 | [ห้องเล็ก \(Wishful\)](https://open.spotify.com/track/1L2Kyu9eOSz9PVKyUloBM6) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [ห้องเล็ก \(Wishful\)](https://open.spotify.com/album/0ptiLoehWeONMaAlbo4ukW) | 3:50 | 2024-08-30 | 2024-11-29 |
 | [อยากเจอจะทนไม่ไหว \(Dear Me\)](https://open.spotify.com/track/6kbPfIB4a78Qg496QvsRmm) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [อยากเจอจะทนไม่ไหว \(Dear Me\)](https://open.spotify.com/album/2m9DP9KmKTehY52imD558Q) | 3:33 | 2024-06-27 |  |
@@ -114,6 +114,7 @@
 | [แอบหวัง](https://open.spotify.com/track/3qMYr2bVu2HpSKrSJ2zj8K) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [แอบหวัง](https://open.spotify.com/album/24Wza37KFZjHj8xbPoknaK) | 3:55 | 2024-06-27 | 2024-10-12 |
 | [โลก \(Missing\)](https://open.spotify.com/track/2mYDnxshyoh6TW2dkjHhh7) | [tinn](https://open.spotify.com/artist/1zDqtVjZrcKpg4xwaGdKlC) | [Bitter Sweet Things](https://open.spotify.com/album/0ZLJC25IXJetxllm9Z9tyO) | 2:58 | 2024-11-01 | 2025-01-24 |
 | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/track/09lWajRUw0LOLZCM72l7a8) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/album/3zeCl9WvCuGll12kRI3D4a) | 4:17 | 2025-02-21 |  |
+| [ใครสักคน \( SOMEBODY's ME \)](https://open.spotify.com/track/6hhiComLULoPZkEnFPI6Tf) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [MAI ME](https://open.spotify.com/album/44K6O0hh0sy64tJsVX9AN3) | 3:58 | 2025-06-27 |  |
 | [ใจลอย](https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ใจลอย](https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG) | 3:17 | 2024-06-27 | 2024-10-05 |
 | [ในตอนที่มันเกิด \(Meanwhile\)](https://open.spotify.com/track/0wU9CXGETgREUgHC4YMn7g) | [Slur](https://open.spotify.com/artist/7G4qd0NlBQf4AxC0klpuDY) | [ในตอนที่มันเกิด \(Meanwhile\)](https://open.spotify.com/album/2T0raSSftyOKI6t5SG0QOn) | 4:18 | 2024-06-27 | 2024-07-27 |
 | [ในห้องเดิม \(Claustrophobia\)](https://open.spotify.com/track/55iW4BryMzudU98ySEhn1E) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ในห้องเดิม \(Claustrophobia\)](https://open.spotify.com/album/7hKiyBHI3KUPU1sbNCQT6H) | 4:08 | 2025-02-12 |  |

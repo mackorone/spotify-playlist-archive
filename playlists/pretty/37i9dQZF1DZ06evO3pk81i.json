@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 7826,
+  "num_followers": 7831,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFs8AAAAAADcHAK7X629WozThQnH1+Ow",
+  "snapshot_id": "aFyNgAAAAADnBvAE/xtoIKmRNLMJe034",
   "tracks": [
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Era Mia",
-        "url": "https://open.spotify.com/album/2PSsyTtjK41jI0iDSdcBqI"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 226887,
-      "name": "Era Mia",
-      "url": "https://open.spotify.com/track/3qZ4o8lGoHTgFYcHGNjWpE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor De Lejos",
         "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 146688,
       "name": "Mejor Que Tu Ex",
       "url": "https://open.spotify.com/track/4KBvA8HUBHiQKtbFJBcNms"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 227213,
+      "name": "Soy Aquel",
+      "url": "https://open.spotify.com/track/05ADejXF6OzAvOT32K7r7a"
     },
     {
       "added_at": null,
@@ -644,15 +644,15 @@
           "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
         }
       ],
-      "duration_ms": 193874,
-      "name": "SATIRO",
-      "url": "https://open.spotify.com/track/00e7R21236OX75ACaT8HH0"
+      "duration_ms": 218500,
+      "name": "Sin Mi Sufre",
+      "url": "https://open.spotify.com/track/3r9WCxHvUoyibVjLy3TJmL"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
+        "name": "Era Mia",
+        "url": "https://open.spotify.com/album/2PSsyTtjK41jI0iDSdcBqI"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 227213,
-      "name": "Soy Aquel",
-      "url": "https://open.spotify.com/track/05ADejXF6OzAvOT32K7r7a"
+      "duration_ms": 226887,
+      "name": "Era Mia",
+      "url": "https://open.spotify.com/track/3qZ4o8lGoHTgFYcHGNjWpE"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
         }
       ],
-      "duration_ms": 218500,
-      "name": "Sin Mi Sufre",
-      "url": "https://open.spotify.com/track/3r9WCxHvUoyibVjLy3TJmL"
+      "duration_ms": 193874,
+      "name": "SATIRO",
+      "url": "https://open.spotify.com/track/00e7R21236OX75ACaT8HH0"
     },
     {
       "added_at": null,

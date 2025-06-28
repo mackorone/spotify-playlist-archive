@@ -2,9 +2,9 @@
 
 ### [Mixto](https://open.spotify.com/playlist/37i9dQZF1DX7qRKBHjmYIE)
 
-> De aquí y de allá \~ un poquito de todo ✨ en un vibe con rusowsky.
+> De aquí y de allá \~ un poquito de todo ✨ en un vibe con Martox.
 
-893 songs - 2 day 0 hr 10 min
+894 songs - 2 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Contraluz](https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Contraluz](https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA) | 3:32 | 2023-02-02 | 2023-07-22 |
 | [CONTROL](https://open.spotify.com/track/3fuMk0pP8pgZ66tWfkhUwn) | [Henao](https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML) | [CONTROL](https://open.spotify.com/album/5lt0lwe8p5UBoDjhuSe5Z9) | 3:19 | 2021-12-02 | 2022-02-10 |
 | [Control](https://open.spotify.com/track/34y3MtDxzDqPbxe9b4aGxp) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs) | [Control](https://open.spotify.com/album/30D7J8QbuoaSFue5nfZ0cG) | 3:53 | 2022-07-20 | 2023-02-17 |
-| [Corazón Adentro \(Escorpio\)](https://open.spotify.com/track/10ehMz8cxmyxUjTrY35Op6) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ASTROPICAL](https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz) | [ASTROPICAL](https://open.spotify.com/album/4dkik5WazJ0OoZHrdpbot8) | 2:56 | 2025-02-14 |  |
+| [Corazón Adentro \(Escorpio\)](https://open.spotify.com/track/10ehMz8cxmyxUjTrY35Op6) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ASTROPICAL](https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz) | [ASTROPICAL](https://open.spotify.com/album/4dkik5WazJ0OoZHrdpbot8) | 2:56 | 2025-02-14 | 2025-06-28 |
 | [Corazón Extraño](https://open.spotify.com/track/0xlOGGbvgC4gHQ6nYiOexk) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn), [Diosque](https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh) | [Corazón Extraño](https://open.spotify.com/album/6ooGDTPhDaeQPIjE99BtY5) | 2:56 | 2024-06-14 | 2025-02-07 |
 | [Cortada en la Frente](https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Cortada en la Frente](https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy) | 3:20 | 2023-04-20 | 2023-08-26 |
 | [Cortes Modernos](https://open.spotify.com/track/1haYL3OvJA7OCHnzMx5JlX) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Cortes Modernos](https://open.spotify.com/album/0gyrTCJOamPi13piB2i0KJ) | 3:43 | 2023-03-29 | 2023-07-22 |
@@ -712,6 +712,7 @@
 | [Señales](https://open.spotify.com/track/1itug8TlWzLL2jxCpWQwtp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Señales](https://open.spotify.com/album/4rCqAWYzn68QdzE9b0o77M) | 3:30 | 2025-04-04 |  |
 | [Shapeshifting](https://open.spotify.com/track/52oyNRoKTuet5V4Q0MATIz) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Shapeshifting](https://open.spotify.com/album/03xfkeByIGKb2tlzSrNuxM) | 3:26 | 2021-12-02 | 2022-01-25 |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-03-21 | 2022-05-11 |
+| [Si Es Verdad](https://open.spotify.com/track/64FLKmzgsDYXIj0S37de7W) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Si Es Verdad](https://open.spotify.com/album/4PmJkc7tLBzrQt2dBfdWHr) | 2:49 | 2025-06-27 |  |
 | [Si Estuviésemos Juntos](https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:49 | 2022-03-28 | 2023-01-11 |
 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 | 2023-03-22 | 2023-08-26 |
 | [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 | 2024-05-03 | 2024-05-18 |

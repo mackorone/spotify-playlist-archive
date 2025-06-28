@@ -30259,6 +30259,24 @@
     },
     {
       "album": {
+        "name": "Pale Horse",
+        "url": "https://open.spotify.com/album/3ZF6gDtVd7l3xMV4rP6Upk"
+      },
+      "artists": [
+        {
+          "name": "End It",
+          "url": "https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72354,
+      "name": "Pale Horse",
+      "url": "https://open.spotify.com/track/5hO3KJK46mFRhqNU3fxB0l"
+    },
+    {
+      "album": {
         "name": "Panic Attack",
         "url": "https://open.spotify.com/album/35A5BlxNo9P89zsIQrAZ0x"
       },

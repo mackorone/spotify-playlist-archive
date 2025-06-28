@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Mosaic MSC",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: ECCOS",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -411,6 +411,24 @@
     },
     {
       "album": {
+        "name": "ACERCARME (NO HAY AMOR IGUAL)",
+        "url": "https://open.spotify.com/album/5cHfVGXXYhOZ4omWhF3toe"
+      },
+      "artists": [
+        {
+          "name": "Johan y Sofi",
+          "url": "https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369032,
+      "name": "ACERCARME (NO HAY AMOR IGUAL)",
+      "url": "https://open.spotify.com/track/4St7ph3Zwd2C06nbYZUHVh"
+    },
+    {
+      "album": {
         "name": "Acostumbr\u00e1ndome",
         "url": "https://open.spotify.com/album/5wqGMNYuPCxOLenWxYMdyq"
       },
@@ -620,7 +638,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 263721,
       "name": "Agua Viva",
       "url": "https://open.spotify.com/track/3ASixYwQ4qOlsPEuCgLVrh"
@@ -770,6 +788,28 @@
       "duration_ms": 189626,
       "name": "AL100",
       "url": "https://open.spotify.com/track/2Bd9AwYVFGvk6jT0QCFQIc"
+    },
+    {
+      "album": {
+        "name": "Alaba al Se\u00f1or (Salmo 146)",
+        "url": "https://open.spotify.com/album/7MzaA3fduXQJgOp39dxkFD"
+      },
+      "artists": [
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        },
+        {
+          "name": "Charlee Buitrago",
+          "url": "https://open.spotify.com/artist/76g8gyIWxuCkaeiqynU9L8"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214078,
+      "name": "Alaba al Se\u00f1or (Salmo 146)",
+      "url": "https://open.spotify.com/track/68ghZOXorCIGIoA2KoXc4o"
     },
     {
       "album": {
@@ -2812,7 +2852,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 376174,
       "name": "Conmigo Est\u00e1s - Live",
       "url": "https://open.spotify.com/track/1kdUFEZwGLkOIysxdshXy4"
@@ -3885,6 +3925,24 @@
     },
     {
       "album": {
+        "name": "Declaro a Cristo",
+        "url": "https://open.spotify.com/album/6spAOJS7o08rdQzuAutkW9"
+      },
+      "artists": [
+        {
+          "name": "Factor de Cambio",
+          "url": "https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425782,
+      "name": "Declaro a Cristo",
+      "url": "https://open.spotify.com/track/1DlXnORFqWZUW9UyInvBDL"
+    },
+    {
+      "album": {
         "name": "Desciende",
         "url": "https://open.spotify.com/album/7yrJSOgQlbkZOA2HE0Jfnb"
       },
@@ -3962,6 +4020,28 @@
       "duration_ms": 212276,
       "name": "Despierta",
       "url": "https://open.spotify.com/track/3u4jkJRTMTWvXBAPmUB9Zc"
+    },
+    {
+      "album": {
+        "name": "Despi\u00e9rtame",
+        "url": "https://open.spotify.com/album/5nQShqiqCqU4lZ7e0hAga3"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        },
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187735,
+      "name": "Despi\u00e9rtame",
+      "url": "https://open.spotify.com/track/6F4eOE74oAOsrt1Ws47EOX"
     },
     {
       "album": {
@@ -4244,6 +4324,24 @@
       "duration_ms": 230012,
       "name": "Dios Es Bueno",
       "url": "https://open.spotify.com/track/4o5eigcocInKgfuWXjBRzJ"
+    },
+    {
+      "album": {
+        "name": "DIOS es el que SABE",
+        "url": "https://open.spotify.com/album/4LDQzDoBvcbkNCc9DUsKKg"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166779,
+      "name": "DIOS es el que SABE",
+      "url": "https://open.spotify.com/track/7oRUdU5tPb4CRKnFILi8qL"
     },
     {
       "album": {
@@ -4985,6 +5083,24 @@
     },
     {
       "album": {
+        "name": "De Lo Eterno Hasta Lo Eterno",
+        "url": "https://open.spotify.com/album/6rt13vWvynGm6u4IsCNYRu"
+      },
+      "artists": [
+        {
+          "name": "ECCOS",
+          "url": "https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379282,
+      "name": "El Que Volver\u00e1",
+      "url": "https://open.spotify.com/track/4tr4XXcT6aoAOr0Lhv6yhQ"
+    },
+    {
+      "album": {
         "name": "El Rey Jud\u00edo",
         "url": "https://open.spotify.com/album/3EpigUb6xOe8aTV9MWQmiN"
       },
@@ -5488,7 +5604,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 224258,
       "name": "Eres Grande",
       "url": "https://open.spotify.com/track/00THd4snJCmh5hjKDY14dO"
@@ -5880,7 +5996,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 171444,
       "name": "Esta VIDA es una SOLA",
       "url": "https://open.spotify.com/track/6om1gtHJvJjC7cUZK6djoE"
@@ -7872,6 +7988,28 @@
       "duration_ms": 419491,
       "name": "La Bendici\u00f3n (The Blessing)",
       "url": "https://open.spotify.com/track/5KNP7zONOFZqOL3ixeWMOQ"
+    },
+    {
+      "album": {
+        "name": "La Bondad De Dios",
+        "url": "https://open.spotify.com/album/0pcMnjENVXe5uarAowDVWW"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Elena Witt",
+          "url": "https://open.spotify.com/artist/2UerC4OYcdjmw36Df3rTXm"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294717,
+      "name": "La Bondad De Dios",
+      "url": "https://open.spotify.com/track/5C03IBdu3QDXPxC9LCGuQM"
     },
     {
       "album": {
@@ -10082,7 +10220,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 185528,
       "name": "Nada Sin Ti",
       "url": "https://open.spotify.com/track/7JNvaZ6ODRUsPi9R4C5fCP"
@@ -11048,7 +11186,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 552023,
       "name": "PALABRA (LA NI\u00d1A DE TUS OJOS)",
       "url": "https://open.spotify.com/track/0cpoIIX1bxx3om4aa1a1Ju"
@@ -11428,7 +11566,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 227556,
       "name": "Por Si Vinieras",
       "url": "https://open.spotify.com/track/2TnzARiEVGQmKYgkVwsn1y"
@@ -11668,7 +11806,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 306771,
       "name": "Proclamo Cristo",
       "url": "https://open.spotify.com/track/2CtAhPG8IClIFftimmppBN"
@@ -14503,6 +14641,28 @@
     },
     {
       "album": {
+        "name": "Todo Y Nada / Seguir Vale La Pena (En Vivo)",
+        "url": "https://open.spotify.com/album/2wDOm4jVyuBFXFkROlGKKs"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Todo Y Nada - En Vivo",
+      "url": "https://open.spotify.com/track/48MSoPdBnDQPSQP2pwwiTj"
+    },
+    {
+      "album": {
         "name": "Tomarte de la Mano",
         "url": "https://open.spotify.com/album/7sssGhuFAcudjqHI3sUZOn"
       },
@@ -15190,6 +15350,32 @@
       "duration_ms": 214400,
       "name": "Un Call",
       "url": "https://open.spotify.com/track/1PneC9crLqJeCVlpoCPrNo"
+    },
+    {
+      "album": {
+        "name": "A Great Awakening & Un Nuevo Despertar (Live)",
+        "url": "https://open.spotify.com/album/03VPSpGeiuWIF0hiD7sEm2"
+      },
+      "artists": [
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        },
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        },
+        {
+          "name": "Lakewood Music Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3hQcvPIPBPvb9loR6XbIK6"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327142,
+      "name": "Un Nuevo Despertar - Live",
+      "url": "https://open.spotify.com/track/6YYzVxJaaQucpxw6R9NfbU"
     },
     {
       "album": {
@@ -16384,7 +16570,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 616226,
       "name": "\u00c9l Me Am\u00f3 Primero",
       "url": "https://open.spotify.com/track/6cn1iz7f2V7MSds6OkjwOF"

@@ -1,13 +1,61 @@
 {
   "description": "Warm, inspirational pop, that's good at heart.  ",
-  "num_followers": 46509,
+  "num_followers": 46527,
   "original_name": "shine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFTc4QAAAACFmx7mBvciUpQsR3Eiqaj+",
+  "snapshot_id": "aF4XWgAAAADJpPDKYCN75s8PlJSubocL",
   "tracks": [
+    {
+      "added_at": "2025-06-27 04:00:26",
+      "album": {
+        "name": "Survive",
+        "url": "https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 225211,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
+    },
+    {
+      "added_at": "2024-10-11 13:41:50",
+      "album": {
+        "name": "Cheers to the Fall",
+        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "duration_ms": 253342,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "Dusty Bibles",
+        "url": "https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Dusty Bibles",
+      "url": "https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM"
+    },
     {
       "added_at": "2024-10-11 13:41:50",
       "album": {
@@ -65,20 +113,24 @@
       "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
     },
     {
-      "added_at": "2024-10-11 13:41:50",
+      "added_at": "2025-06-27 04:00:26",
       "album": {
-        "name": "Cheers to the Fall",
-        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
+        "name": "Good Day",
+        "url": "https://open.spotify.com/album/6vXzMurEpo5CEVVyuTUVW2"
       },
       "artists": [
         {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+          "name": "Ryan Mack",
+          "url": "https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt"
+        },
+        {
+          "name": "John Michael Howell",
+          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
         }
       ],
-      "duration_ms": 253342,
-      "name": "Rise Up",
-      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
+      "duration_ms": 175357,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/71FIpl2ZZooTLBe0cbNrUi"
     },
     {
       "added_at": "2025-06-06 04:00:09",
@@ -129,22 +181,6 @@
       "url": "https://open.spotify.com/track/7JDfWHxOFo63yQmVs5wSPM"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
-      "album": {
-        "name": "Dusty Bibles",
-        "url": "https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO"
-      },
-      "artists": [
-        {
-          "name": "Josiah Queen",
-          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Dusty Bibles",
-      "url": "https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM"
-    },
-    {
       "added_at": "2025-03-21 04:01:02",
       "album": {
         "name": "MAKE IT OUT ALIVE",
@@ -175,6 +211,22 @@
       "duration_ms": 203450,
       "name": "Heaven On My Mind",
       "url": "https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq"
+    },
+    {
+      "added_at": "2025-06-27 04:00:26",
+      "album": {
+        "name": "God Knew",
+        "url": "https://open.spotify.com/album/3z6NtEH6ggpXBEj0gi0NoY"
+      },
+      "artists": [
+        {
+          "name": "Michal Leah",
+          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
+        }
+      ],
+      "duration_ms": 168308,
+      "name": "God Knew",
+      "url": "https://open.spotify.com/track/5mLchdybRi2zTQoQ7Uv7s0"
     },
     {
       "added_at": "2025-05-27 14:28:00",
@@ -667,22 +719,6 @@
     {
       "added_at": "2024-10-11 13:41:50",
       "album": {
-        "name": "World Famous",
-        "url": "https://open.spotify.com/album/4DWOSLQg5XuJH8zYChCl5b"
-      },
-      "artists": [
-        {
-          "name": "Myles Erlick",
-          "url": "https://open.spotify.com/artist/66j659Hro81qoa1vgG75Ae"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "World Famous",
-      "url": "https://open.spotify.com/track/5sAkUcPjTGQCmPZtyj8GV7"
-    },
-    {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
         "name": "More Than Enough",
         "url": "https://open.spotify.com/album/0gc82qsBXTGXq7UshX8qSq"
       },
@@ -1039,22 +1075,6 @@
     {
       "added_at": "2024-10-11 13:41:50",
       "album": {
-        "name": "Stand Up Eight",
-        "url": "https://open.spotify.com/album/5SagmoKh7rZMshbra8uz4N"
-      },
-      "artists": [
-        {
-          "name": "Thunderstorm Artis",
-          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
-        }
-      ],
-      "duration_ms": 187688,
-      "name": "Stand Up Eight",
-      "url": "https://open.spotify.com/track/0xpfVZCEELk5fD8OUmCnJ6"
-    },
-    {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM"
       },
@@ -1151,22 +1171,6 @@
       "duration_ms": 227240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
-    },
-    {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
-        "name": "Brave",
-        "url": "https://open.spotify.com/album/0mPhbDbLpPeCnjm35rSkql"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 201053,
-      "name": "Brave",
-      "url": "https://open.spotify.com/track/5SfQhaZTGL7IewCIvMifFJ"
     },
     {
       "added_at": "2024-10-11 13:41:50",

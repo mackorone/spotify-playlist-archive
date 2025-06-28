@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Once Mekel
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,975 likes - 179 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,057 likes - 179 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,7 +168,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 | 158 | [Wajahmu Mengalihkan Duniaku](https://open.spotify.com/track/4z8CduM0gnyJxgLNrEvxEh) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [The One](https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg) | 3:09 |
 | 159 | [Tentang Rasa](https://open.spotify.com/track/73PIm6P5ruqBmcEVtzcop2) | [Astrid](https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l) | [Lihat Aku Sekarang](https://open.spotify.com/album/01zDZbVSnCZ1TS0IASD38S) | 4:11 |
 | 160 | [Film Favorit](https://open.spotify.com/track/2BCYKFDWnZi9PMkZiemQh1) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Film Favorit](https://open.spotify.com/album/2nXulMdqeETddh6KThsEjI) | 3:43 |
-| 161 | [Dia \- Hits Single](https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [DIA](https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq) | 3:27 |
+| 161 | [Dia](https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Dia](https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq) | 3:27 |
 | 162 | [Sayap Pelindungmu](https://open.spotify.com/track/3LhUsgwtftfxHIPgViaYxB) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Selamanya](https://open.spotify.com/album/2xVaK1p7ooIIywF6YCSEh5) | 3:42 |
 | 163 | [Selow](https://open.spotify.com/track/1c5ZiOfMbDBHKRNuMfinOb) | [Wahyu Selow](https://open.spotify.com/artist/5fTrXgpGtbd2G1Xs30KiA7), [Coki](https://open.spotify.com/artist/7I0aZDVF624WWnFTBR2AyL) | [Selow](https://open.spotify.com/album/590x6JPNRYe0h92QZA4Fdy) | 3:36 |
 | 164 | [Kau 3Kan Cinta](https://open.spotify.com/track/0jE7cEdQ7Qv2KDFT8Ekl0Y) | [Elkasih](https://open.spotify.com/artist/3VHrNovOUrILgQxTyVsZGs) | [Pesan Dari Surga](https://open.spotify.com/album/015WH0ZHTqrlJohsZv6KB3) | 3:34 |

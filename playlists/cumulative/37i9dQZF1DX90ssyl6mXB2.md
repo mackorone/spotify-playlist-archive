@@ -2,9 +2,9 @@
 
 ### [DND.](https://open.spotify.com/playlist/37i9dQZF1DX90ssyl6mXB2)
 
-> late night vibes – notifications off\. cover: OVI WOOD
+> late night vibes – notifications off\. cover: Maz B
 
-223 songs - 10 hr 19 min
+226 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [DEEP IN THE WATER](https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Deep in the Water](https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF) | 2:50 | 2024-03-15 |  |
 | [DEEPER](https://open.spotify.com/track/4JeD0FGslDsMeeahEGZa2L) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 2:52 | 2025-02-21 |  |
 | [DEPENDS](https://open.spotify.com/track/5FZ3YvNNVmfDftCKAI8na8) | [Nobu Woods](https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC) | [MIDNIGHT MOTIONS](https://open.spotify.com/album/7rbg49mWE6c7vMhi2Ar2qX) | 4:00 | 2024-02-02 |  |
+| [Deserve](https://open.spotify.com/track/3PcAs60k0pJlmpeGjWb5OK) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Deserve](https://open.spotify.com/album/2l5yiJNpmXYcZQu3qg4gCb) | 2:21 | 2025-06-27 |  |
 | [did you mean it ?](https://open.spotify.com/track/3crlsGG2XuwWIeSYYneyhg) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ) | [did you mean it ?](https://open.spotify.com/album/1fkU262XlkuMzCBZLoneRV) | 2:28 | 2024-11-01 |  |
 | [Digestive's Story](https://open.spotify.com/track/6g0lgD3zfOYcXD8rVqwsK0) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Faygos Paradise](https://open.spotify.com/artist/0gHLI704d9CPdory3r1URi) | [Digestive's Story](https://open.spotify.com/album/4MY8oKLiXztJ1DbR2DJCFk) | 2:48 | 2024-05-17 |  |
 | [Dirt On Me](https://open.spotify.com/track/66GaA5IRIJ9guOipFGuwAC) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [NiiGHTBEFORESERVICE](https://open.spotify.com/album/3Z78nNMXYqQ6HDaRZ8YaxZ) | 2:58 | 2024-07-05 |  |
@@ -79,6 +80,7 @@
 | [Fable](https://open.spotify.com/track/6u7Vm7aTEKQInva4iJ0icx) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST](https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl) | 3:25 | 2024-02-02 | 2025-03-22 |
 | [FAIRYTALES IN MIDTOWN \(with TyFontaine\)](https://open.spotify.com/track/57h517zwkQm1dXmxEYQe3d) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [WONDERLOVE](https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9) | 1:48 | 2025-02-07 |  |
 | [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 | 2024-04-12 |  |
+| [Falling Off](https://open.spotify.com/track/5i6sfCzHacfBEdLPzFjgiy) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Falling Off](https://open.spotify.com/album/3wQcw5o7ZAiCQiE2Xs22Sp) | 2:40 | 2025-06-27 |  |
 | [Fatal Attraction](https://open.spotify.com/track/3y9JbvYZAhVeQsAECrKAgt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:16 | 2024-03-01 |  |
 | [FAULT](https://open.spotify.com/track/6Bnweg54wjd437ncj6s9qO) | [Nobu Woods](https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC) | [UNTL](https://open.spotify.com/album/5tnoL3rV57PcLA1Q5FuWmG) | 4:00 | 2024-11-01 |  |
 | [FLORIDA BABY](https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [FLORIDA BABY](https://open.spotify.com/album/4LTy8CCkKN3YCB6zQ4OJou) | 2:20 | 2024-02-09 |  |
@@ -117,6 +119,7 @@
 | [LASERS](https://open.spotify.com/track/2vjFTjmvpFjFM01cNdG2ik) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:18 | 2025-02-14 |  |
 | [Late Nite Slider Music](https://open.spotify.com/track/1D4VYPt5J1znGmzeMGgHHx) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Late Nite Slider Music](https://open.spotify.com/album/3xhkpLspxHrvkZQ9nPUTJZ) | 3:13 | 2024-11-22 |  |
 | [Let it Go](https://open.spotify.com/track/3VRHouNm2rxSWm8IThc5YF) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [Let it Go](https://open.spotify.com/album/670MmC6oFMJXOzKPQyWR7p) | 2:36 | 2024-11-08 |  |
+| [Let Me Down Slow](https://open.spotify.com/track/01Posy6lTFjJShK8UffWi9) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Let Me Down Slow](https://open.spotify.com/album/51cYBBrQJNRTpwFXzxg7Pi) | 2:32 | 2025-06-27 |  |
 | [Let Me Go](https://open.spotify.com/track/3KSy31qPrTqOcPXnebceQN) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Let Me Go](https://open.spotify.com/album/27csXPVTW3PLguY6vbGoH7) | 2:20 | 2024-04-19 |  |
 | [Like We Wrote](https://open.spotify.com/track/5kH4MnZQN9Ce4gaBquKInu) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Like We Wrote](https://open.spotify.com/album/2iLcNlQLxFzkWB8VxiJZpo) | 1:58 | 2024-05-31 |  |
 | [LIMERENCE](https://open.spotify.com/track/02NjZRiplUsrBgoa3shbKE) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [LIMERENCE](https://open.spotify.com/album/2dmZ1mL7C0ykfvY14Lpsd2) | 2:26 | 2024-09-27 | 2025-02-08 |

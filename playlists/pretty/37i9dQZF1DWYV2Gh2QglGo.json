@@ -1,13 +1,33 @@
 {
-  "description": "The home of Josh Ross and Canadian country music. ",
-  "num_followers": 81011,
+  "description": "The home of Canadian country music. Cover: Morgan Wallen & Tate McRae",
+  "num_followers": 81025,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFTc4QAAAABx5SXrjG9hHLp7RZRB1Nl0",
+  "snapshot_id": "aF4HWwAAAAAlA3ymM+zENFx53wjqHewK",
   "tracks": [
+    {
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 184517,
+      "name": "What I Want (feat. Tate McRae)",
+      "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
+    },
     {
       "added_at": "2025-06-20 04:00:33",
       "album": {
@@ -47,26 +67,6 @@
     {
       "added_at": "2025-06-20 04:00:33",
       "album": {
-        "name": "I\u2019m The Problem",
-        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 184517,
-      "name": "What I Want (feat. Tate McRae)",
-      "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
-    },
-    {
-      "added_at": "2025-06-20 04:00:33",
-      "album": {
         "name": "Never Drinking Again",
         "url": "https://open.spotify.com/album/6cIFKlwoPIhIaEohKz99Py"
       },
@@ -79,6 +79,134 @@
       "duration_ms": 149854,
       "name": "Never Drinking Again",
       "url": "https://open.spotify.com/track/6h6ncnPmJ1qa75RcjmlkuK"
+    },
+    {
+      "added_at": "2025-06-27 02:52:11",
+      "album": {
+        "name": "Drink Around",
+        "url": "https://open.spotify.com/album/283gVczi9bFI73NZxn4z3k"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "duration_ms": 148031,
+      "name": "Drink Around",
+      "url": "https://open.spotify.com/track/6ZoXthYEqorEbtFMbUMWEv"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "Smooth Like Vinyl",
+        "url": "https://open.spotify.com/album/5CYp5SgznyJC9iIoa2p2MH"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "duration_ms": 219545,
+      "name": "Smooth Like Vinyl",
+      "url": "https://open.spotify.com/track/6mnA0MvgEeJTQVJ1QnOqPI"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "Crushin' Cans",
+        "url": "https://open.spotify.com/album/1Ohy30OrKy7b0ewzmnuHYN"
+      },
+      "artists": [
+        {
+          "name": "Ryan Langdon",
+          "url": "https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV"
+        }
+      ],
+      "duration_ms": 150138,
+      "name": "Crushin' Cans",
+      "url": "https://open.spotify.com/track/6AZdHnCPvDw8ePLHVDY9o4"
+    },
+    {
+      "added_at": "2025-06-27 02:52:11",
+      "album": {
+        "name": "Carl Dean",
+        "url": "https://open.spotify.com/album/6mkTIWSOpkT4JMt1ymi8eQ"
+      },
+      "artists": [
+        {
+          "name": "Hailey Benedict",
+          "url": "https://open.spotify.com/artist/494qaFjOqqQ2NOQfCHSYce"
+        }
+      ],
+      "duration_ms": 215222,
+      "name": "Carl Dean",
+      "url": "https://open.spotify.com/track/3efLofADfuZadHHNi1X0F3"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "Let Your Horses Run - The Album",
+        "url": "https://open.spotify.com/album/3Fznn6Fz79om4lHxKaKbHa"
+      },
+      "artists": [
+        {
+          "name": "Brett Kissel",
+          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
+        }
+      ],
+      "duration_ms": 189626,
+      "name": "Cowboys & Dreamers",
+      "url": "https://open.spotify.com/track/2ls9ifCvuLmVJI0E2ZcEl6"
+    },
+    {
+      "added_at": "2025-06-27 02:52:11",
+      "album": {
+        "name": "Wish I Was",
+        "url": "https://open.spotify.com/album/3pT6k4q90XQgDPJkZrbQZj"
+      },
+      "artists": [
+        {
+          "name": "Mark Ledlin",
+          "url": "https://open.spotify.com/artist/5qcJdMBiyDrEyqDgplPfh5"
+        }
+      ],
+      "duration_ms": 153543,
+      "name": "Wish I Was",
+      "url": "https://open.spotify.com/track/49NbdrkcFCdERnptZ1M17c"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "Drinkin' Hand",
+        "url": "https://open.spotify.com/album/04bJuRgewEbjeGiSrQgPWT"
+      },
+      "artists": [
+        {
+          "name": "Aaron Goodvin",
+          "url": "https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW"
+        }
+      ],
+      "duration_ms": 184150,
+      "name": "Said No Redneck Ever",
+      "url": "https://open.spotify.com/track/55x4wIhw8MZMAxJocbnebF"
+    },
+    {
+      "added_at": "2025-06-27 02:52:11",
+      "album": {
+        "name": "Outta the Bar",
+        "url": "https://open.spotify.com/album/3KF7JlHe1YEVsMhyAjiW3c"
+      },
+      "artists": [
+        {
+          "name": "Matt Lang",
+          "url": "https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW"
+        }
+      ],
+      "duration_ms": 187337,
+      "name": "Outta the Bar",
+      "url": "https://open.spotify.com/track/6zzOichWfkqq3kX8AlwUaq"
     },
     {
       "added_at": "2025-06-20 04:00:33",
@@ -103,54 +231,6 @@
     {
       "added_at": "2025-06-20 04:00:33",
       "album": {
-        "name": "Smooth Like Vinyl",
-        "url": "https://open.spotify.com/album/5CYp5SgznyJC9iIoa2p2MH"
-      },
-      "artists": [
-        {
-          "name": "Tebey",
-          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
-        }
-      ],
-      "duration_ms": 219545,
-      "name": "Smooth Like Vinyl",
-      "url": "https://open.spotify.com/track/6mnA0MvgEeJTQVJ1QnOqPI"
-    },
-    {
-      "added_at": "2025-06-20 04:00:33",
-      "album": {
-        "name": "Let Your Horses Run - The Album",
-        "url": "https://open.spotify.com/album/3Fznn6Fz79om4lHxKaKbHa"
-      },
-      "artists": [
-        {
-          "name": "Brett Kissel",
-          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
-        }
-      ],
-      "duration_ms": 189626,
-      "name": "Cowboys & Dreamers",
-      "url": "https://open.spotify.com/track/2ls9ifCvuLmVJI0E2ZcEl6"
-    },
-    {
-      "added_at": "2025-06-20 04:00:33",
-      "album": {
-        "name": "Drinkin' Hand",
-        "url": "https://open.spotify.com/album/04bJuRgewEbjeGiSrQgPWT"
-      },
-      "artists": [
-        {
-          "name": "Aaron Goodvin",
-          "url": "https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW"
-        }
-      ],
-      "duration_ms": 184150,
-      "name": "Said No Redneck Ever",
-      "url": "https://open.spotify.com/track/55x4wIhw8MZMAxJocbnebF"
-    },
-    {
-      "added_at": "2025-06-20 04:00:33",
-      "album": {
         "name": "Woman In The Mirror",
         "url": "https://open.spotify.com/album/269aSTuFbQ4tyn7JhyjUS5"
       },
@@ -165,52 +245,20 @@
       "url": "https://open.spotify.com/track/3wqgVvpgIt2bqlDP4T65kU"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-06-27 02:52:11",
       "album": {
-        "name": "Options",
-        "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
+        "name": "Heartbreak Rodeo",
+        "url": "https://open.spotify.com/album/5CsPQZX5z0cgIUW5TR9jG8"
       },
       "artists": [
         {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+          "name": "Elyse Saunders",
+          "url": "https://open.spotify.com/artist/1jsGKKtfTZM5XBlT9EhFOk"
         }
       ],
-      "duration_ms": 169331,
-      "name": "Options",
-      "url": "https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU"
-    },
-    {
-      "added_at": "2025-06-20 04:00:33",
-      "album": {
-        "name": "Mitch Zorn",
-        "url": "https://open.spotify.com/album/2WYoAwG03kFOyL8oIqOnfP"
-      },
-      "artists": [
-        {
-          "name": "Mitch Zorn",
-          "url": "https://open.spotify.com/artist/0oIZCkRWLup8z9nLIEteQ7"
-        }
-      ],
-      "duration_ms": 143675,
-      "name": "Stray Bullet",
-      "url": "https://open.spotify.com/track/5e6nn5XHkxlE03vG6Hp8XH"
-    },
-    {
-      "added_at": "2025-06-20 04:00:33",
-      "album": {
-        "name": "Middle Of The Bed",
-        "url": "https://open.spotify.com/album/5jsaJkg4rqIfGYfourQ3an"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Middle Of The Bed - Single Version",
-      "url": "https://open.spotify.com/track/0jWCf9yZB4eTdHmzkwzh88"
+      "duration_ms": 160768,
+      "name": "Heartbreak Rodeo",
+      "url": "https://open.spotify.com/track/2rWuh8EBT4fCzFzDnmAR2W"
     },
     {
       "added_at": "2025-06-20 04:00:33",
@@ -231,6 +279,38 @@
     {
       "added_at": "2025-06-20 04:00:33",
       "album": {
+        "name": "Middle Of The Bed",
+        "url": "https://open.spotify.com/album/5jsaJkg4rqIfGYfourQ3an"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Middle Of The Bed - Single Version",
+      "url": "https://open.spotify.com/track/0jWCf9yZB4eTdHmzkwzh88"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "Mitch Zorn",
+        "url": "https://open.spotify.com/album/2WYoAwG03kFOyL8oIqOnfP"
+      },
+      "artists": [
+        {
+          "name": "Mitch Zorn",
+          "url": "https://open.spotify.com/artist/0oIZCkRWLup8z9nLIEteQ7"
+        }
+      ],
+      "duration_ms": 143675,
+      "name": "Stray Bullet",
+      "url": "https://open.spotify.com/track/5e6nn5XHkxlE03vG6Hp8XH"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
         "name": "Days Like This",
         "url": "https://open.spotify.com/album/0HFWQXxhxtlJ4ztZUIkjpW"
       },
@@ -243,22 +323,6 @@
       "duration_ms": 184155,
       "name": "You Problem",
       "url": "https://open.spotify.com/track/4EZvWqWbZtOdCPa8P5jzET"
-    },
-    {
-      "added_at": "2025-06-20 04:00:33",
-      "album": {
-        "name": "Let It Ride",
-        "url": "https://open.spotify.com/album/1tMjcGC2FhekVNtpytOO8H"
-      },
-      "artists": [
-        {
-          "name": "Aaron Pritchett",
-          "url": "https://open.spotify.com/artist/5cX6PE94aP77FQP0YVHNPX"
-        }
-      ],
-      "duration_ms": 182002,
-      "name": "Let It Ride",
-      "url": "https://open.spotify.com/track/79pw9LTjx6RO0PCPdIgOnH"
     },
     {
       "added_at": "2025-06-20 04:00:33",
@@ -295,22 +359,6 @@
       "duration_ms": 266403,
       "name": "PICTURE [feat. Marie-Mai]",
       "url": "https://open.spotify.com/track/0wOZIDRrEEM2GCo1JN9gEH"
-    },
-    {
-      "added_at": "2025-06-20 04:00:33",
-      "album": {
-        "name": "Crushin' Cans",
-        "url": "https://open.spotify.com/album/1Ohy30OrKy7b0ewzmnuHYN"
-      },
-      "artists": [
-        {
-          "name": "Ryan Langdon",
-          "url": "https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV"
-        }
-      ],
-      "duration_ms": 150138,
-      "name": "Crushin' Cans",
-      "url": "https://open.spotify.com/track/6AZdHnCPvDw8ePLHVDY9o4"
     },
     {
       "added_at": "2025-06-20 04:00:33",
@@ -639,22 +687,6 @@
     {
       "added_at": "2025-06-20 04:00:33",
       "album": {
-        "name": "Second Thoughts",
-        "url": "https://open.spotify.com/album/1cgInVw8eQwJr3ABMgRgPz"
-      },
-      "artists": [
-        {
-          "name": "Rick Duff",
-          "url": "https://open.spotify.com/artist/4MNUaMf0Yl05yY6x342xBH"
-        }
-      ],
-      "duration_ms": 148863,
-      "name": "Second Thoughts",
-      "url": "https://open.spotify.com/track/6Wacy9LPydA1qTJ1krIcuV"
-    },
-    {
-      "added_at": "2025-06-20 04:00:33",
-      "album": {
         "name": "Rally Around",
         "url": "https://open.spotify.com/album/7Lamznt9F1wvIzbOGvIrf0"
       },
@@ -683,38 +715,6 @@
       "duration_ms": 195026,
       "name": "Cowboys Were Kings",
       "url": "https://open.spotify.com/track/3ycLnlRMlN9dOdGsJMWTJU"
-    },
-    {
-      "added_at": "2025-06-20 04:00:33",
-      "album": {
-        "name": "Little Of The Drunk Me",
-        "url": "https://open.spotify.com/album/1uHVq7dDuZi6gi5raL2yWj"
-      },
-      "artists": [
-        {
-          "name": "Doug Folkins",
-          "url": "https://open.spotify.com/artist/4FXyGNkqjgnwI9APRAUrMs"
-        }
-      ],
-      "duration_ms": 198160,
-      "name": "Little Of The Drunk Me",
-      "url": "https://open.spotify.com/track/3PYSxGSw6vMAWHhotPCvhx"
-    },
-    {
-      "added_at": "2025-06-20 04:00:33",
-      "album": {
-        "name": "High On You",
-        "url": "https://open.spotify.com/album/0RdWoRN0HHygQcwoefgR8g"
-      },
-      "artists": [
-        {
-          "name": "Blue Ridge Band",
-          "url": "https://open.spotify.com/artist/2yE8COtZJKf4SgSNz3wW6u"
-        }
-      ],
-      "duration_ms": 166673,
-      "name": "High On You",
-      "url": "https://open.spotify.com/track/3Sbf3VHkyZSTiHCZUhPHHY"
     },
     {
       "added_at": "2025-06-20 04:00:33",
@@ -819,26 +819,6 @@
     {
       "added_at": "2025-06-20 04:00:33",
       "album": {
-        "name": "Never Not Care",
-        "url": "https://open.spotify.com/album/3rpA5VLqSQ1WfrDt050OZv"
-      },
-      "artists": [
-        {
-          "name": "Steven Lee Olsen",
-          "url": "https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO"
-        },
-        {
-          "name": "Mickey Guyton",
-          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
-        }
-      ],
-      "duration_ms": 155740,
-      "name": "Never Not Care",
-      "url": "https://open.spotify.com/track/76QLV6Eu2S375hXioGynF5"
-    },
-    {
-      "added_at": "2025-06-20 04:00:33",
-      "album": {
         "name": "Wake Up!",
         "url": "https://open.spotify.com/album/6iO7wwA1u9kt0YIIVHZwzb"
       },
@@ -851,6 +831,22 @@
       "duration_ms": 156544,
       "name": "Wake Up!",
       "url": "https://open.spotify.com/track/71F7hwQLoQelYmYOfmkgQC"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "Options",
+        "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 169331,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU"
     }
   ],
   "unique_name": "North Country",

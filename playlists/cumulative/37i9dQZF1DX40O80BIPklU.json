@@ -799,6 +799,28 @@
     },
     {
       "album": {
+        "name": "ALO",
+        "url": "https://open.spotify.com/album/6bB6muoyphMdwSubE5TwJB"
+      },
+      "artists": [
+        {
+          "name": "RALY",
+          "url": "https://open.spotify.com/artist/2n7Tgi3I83F8hzPgWsju4t"
+        },
+        {
+          "name": "ABHIR",
+          "url": "https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187767,
+      "name": "ALO",
+      "url": "https://open.spotify.com/track/5CehARXGsrHJj0KDemeomI"
+    },
+    {
+      "album": {
         "name": "Alzypher Vol. 10",
         "url": "https://open.spotify.com/album/6pJJBc9UIOhABBSVWJ1eCd"
       },
@@ -1964,7 +1986,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 190548,
       "name": "Buscando la Manera",
       "url": "https://open.spotify.com/track/1iMhoC5KuQQgDtOHLMWLo3"
@@ -5418,6 +5440,24 @@
       "duration_ms": 168080,
       "name": "Kachipun",
       "url": "https://open.spotify.com/track/0u6961dhguqEgq3U8e8GhF"
+    },
+    {
+      "album": {
+        "name": "Keloke Pa",
+        "url": "https://open.spotify.com/album/1S5h3XasYYXZT1Mp5eVrDQ"
+      },
+      "artists": [
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88912,
+      "name": "Keloke Pa",
+      "url": "https://open.spotify.com/track/0DAyaMmTKffMsSJUCxKLcQ"
     },
     {
       "album": {
@@ -9019,6 +9059,24 @@
     },
     {
       "album": {
+        "name": "Porque La Demora",
+        "url": "https://open.spotify.com/album/1jmda3z2yVf18leBFpEEDQ"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211250,
+      "name": "Porque La Demora",
+      "url": "https://open.spotify.com/track/0Dau6menNiCeTqyqGSNgMt"
+    },
+    {
+      "album": {
         "name": "Posdata",
         "url": "https://open.spotify.com/album/2R2tb1OIF91FBpqE7gJ8Km"
       },
@@ -9684,7 +9742,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 167619,
       "name": "Riding Clean",
       "url": "https://open.spotify.com/track/4Gl2JUKh5SXh5chaZKJtna"
@@ -10238,7 +10296,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 195883,
       "name": "Sigo equivoc\u00e1ndome",
       "url": "https://open.spotify.com/track/5xNnSBBdVZYhw8Em37EQbX"
@@ -10624,6 +10682,28 @@
       "duration_ms": 189149,
       "name": "Soy",
       "url": "https://open.spotify.com/track/47o7j4LL3wM9mCOiAAKD65"
+    },
+    {
+      "album": {
+        "name": "So\u00f1adores Atrevidos",
+        "url": "https://open.spotify.com/album/4uQA75ZAnksqEvlPFD8jY7"
+      },
+      "artists": [
+        {
+          "name": "Tres Coronas",
+          "url": "https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272422,
+      "name": "So\u00f1adores Atrevidos",
+      "url": "https://open.spotify.com/track/2SVdYwGa9DMTTUR0VrE1tE"
     },
     {
       "album": {
@@ -12246,7 +12326,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 156000,
       "name": "Zica // Round 14",
       "url": "https://open.spotify.com/track/7ERFRZkhcy59BFyv3Uhp3k"

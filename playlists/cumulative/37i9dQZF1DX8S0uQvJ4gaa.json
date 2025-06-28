@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Noah Cyrus and Blake Shelton",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Ella Langley",
   "name": "New Boots",
   "tracks": [
     {
@@ -234,7 +234,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 151534,
       "name": "2 Pair",
       "url": "https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N"
@@ -616,6 +616,24 @@
       "duration_ms": 160913,
       "name": "8 Months",
       "url": "https://open.spotify.com/track/34FV8dxL8QyrVgRPzB6Qzf"
+    },
+    {
+      "album": {
+        "name": "Burning Daylight",
+        "url": "https://open.spotify.com/album/1mHx616eNbODxMf4vnBG1j"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201400,
+      "name": "99",
+      "url": "https://open.spotify.com/track/22CKFavEurPuJJsOFaobac"
     },
     {
       "album": {
@@ -2503,6 +2521,28 @@
     },
     {
       "album": {
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183815,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ"
+    },
+    {
+      "album": {
         "name": "Ask Me How I Know",
         "url": "https://open.spotify.com/album/5bSrRWg0OsB57UR5rQJtKs"
       },
@@ -4340,7 +4380,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 156721,
       "name": "Blink Twice",
       "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
@@ -6002,7 +6042,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 184586,
       "name": "Can A Heart Take",
       "url": "https://open.spotify.com/track/755k9yt98SLiS13p5fNbAE"
@@ -6187,6 +6227,28 @@
     },
     {
       "album": {
+        "name": "Can\u2019t Say No (feat. Ryan Hurd)",
+        "url": "https://open.spotify.com/album/4LfhNufhumUtoGOaFufgdq"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        },
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204689,
+      "name": "Can\u2019t Say No (feat. Ryan Hurd)",
+      "url": "https://open.spotify.com/track/1jW0H4Z8RNle2j2Rup3x3k"
+    },
+    {
+      "album": {
         "name": "COUNTRY!",
         "url": "https://open.spotify.com/album/6D36bEVEUJueIpSqdaotyQ"
       },
@@ -6324,7 +6386,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 197564,
       "name": "Catch 22",
       "url": "https://open.spotify.com/track/6PwQarviIfpD5dqUeGnf01"
@@ -8361,6 +8423,24 @@
     },
     {
       "album": {
+        "name": "Dale Jr.",
+        "url": "https://open.spotify.com/album/3ieOkLgEJWVADeBeqIXPs1"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215293,
+      "name": "Dale Jr.",
+      "url": "https://open.spotify.com/track/4iBqrjHrqEBafmRe8FstMK"
+    },
+    {
+      "album": {
         "name": "Dammit Randy",
         "url": "https://open.spotify.com/album/5GU8B79H8LAguIyCyVh5A7"
       },
@@ -9866,7 +9946,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 133560,
       "name": "DON'T WANNA GO HOME",
       "url": "https://open.spotify.com/track/3ZuIruaanYV4SRdVM9cLUM"
@@ -15890,7 +15970,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 195810,
       "name": "Grudge",
       "url": "https://open.spotify.com/track/5bflBZU8xtdhfuLJMVlVWy"
@@ -18616,6 +18696,28 @@
       "duration_ms": 209720,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/3ZwNFFKEXCise2TMXFsyqT"
+    },
+    {
+      "album": {
+        "name": "Home (feat. Shaboozey)",
+        "url": "https://open.spotify.com/album/50Gz1176FyXKAnBmVvc6GQ"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135133,
+      "name": "Home (feat. Shaboozey)",
+      "url": "https://open.spotify.com/track/7LaLY7dkzWEtmtJ8o7oD05"
     },
     {
       "album": {
@@ -28599,6 +28701,24 @@
     },
     {
       "album": {
+        "name": "Never Met Anyone Like You",
+        "url": "https://open.spotify.com/album/07v7okIuI77b0Y2twqEGDS"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168417,
+      "name": "Never Met Anyone Like You",
+      "url": "https://open.spotify.com/track/4LXL1lRpybr8s4x0vkPQm5"
+    },
+    {
+      "album": {
         "name": "Never Mine",
         "url": "https://open.spotify.com/album/0NVtxdYBHQerKSwjMSdSzS"
       },
@@ -32074,7 +32194,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 279493,
       "name": "Pretty Much",
       "url": "https://open.spotify.com/track/1TeVzCFYaztQJj9FWKZmkL"
@@ -32584,6 +32704,24 @@
       "duration_ms": 171142,
       "name": "Rather Be",
       "url": "https://open.spotify.com/track/0gLFZFnaOy3Fa2uBApznuW"
+    },
+    {
+      "album": {
+        "name": "Rattlesnake Preacher",
+        "url": "https://open.spotify.com/album/1q9e07RjP19r0MCJSAsYUj"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235253,
+      "name": "Rattlesnake Preacher",
+      "url": "https://open.spotify.com/track/0SWHS54IqnYyLSYifmhXI7"
     },
     {
       "album": {
@@ -33360,7 +33498,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 178185,
       "name": "Ripple",
       "url": "https://open.spotify.com/track/7wpHmibW1dlaNpCtz9zuSp"
@@ -34648,6 +34786,24 @@
       "duration_ms": 184892,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/3Y86mi6er0gPd1iWSCZgow"
+    },
+    {
+      "album": {
+        "name": "Sex, Drugs, & Country Music",
+        "url": "https://open.spotify.com/album/759caALCZeFt6jTB2eKMv8"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Sex, Drugs, & Country Music",
+      "url": "https://open.spotify.com/track/7FzbROJvb1vzrwnmkK5EC5"
     },
     {
       "album": {
@@ -37431,6 +37587,42 @@
     },
     {
       "album": {
+        "name": "Sunshine State Of Mind Season Two, Chapter One",
+        "url": "https://open.spotify.com/album/6cgPqy7fVyzgxxE8pwGEhP"
+      },
+      "artists": [
+        {
+          "name": "Brian Kelley",
+          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182748,
+      "name": "Spend Some Time There",
+      "url": "https://open.spotify.com/track/3QJEfLbiThKdtoGm0Yy89u"
+    },
+    {
+      "album": {
+        "name": "Spin the Block",
+        "url": "https://open.spotify.com/album/0LsePMxxlwcaDQgNc0m6N6"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166207,
+      "name": "Spin the Block",
+      "url": "https://open.spotify.com/track/0m2Ekl3KKiBvtRbbIWleEz"
+    },
+    {
+      "album": {
         "name": "Spin You Around (1/24)",
         "url": "https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It"
       },
@@ -39374,7 +39566,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 195312,
       "name": "Texas Forever",
       "url": "https://open.spotify.com/track/23fs42C3A7vOH4MMfFeSFK"
@@ -41812,7 +42004,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 239873,
       "name": "Tough People",
       "url": "https://open.spotify.com/track/1DNVS0Q30pQf3Rr0KaXYRk"
@@ -42584,7 +42776,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 168194,
       "name": "Unbecoming",
       "url": "https://open.spotify.com/track/4i8qtmA24GECXY98t8reqM"
@@ -43194,6 +43386,24 @@
       "duration_ms": 187960,
       "name": "Warm Beer",
       "url": "https://open.spotify.com/track/4ir93gEjI6CUsl48rPMv4I"
+    },
+    {
+      "album": {
+        "name": "Washed",
+        "url": "https://open.spotify.com/album/1TukpTVBvtfpuGn59YEDGa"
+      },
+      "artists": [
+        {
+          "name": "The Jack Wharff Band",
+          "url": "https://open.spotify.com/artist/7Hw6prEoT6M58ChR8A1Rlz"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207019,
+      "name": "Washed",
+      "url": "https://open.spotify.com/track/0bgijbvBSiTi4slIRi1OwC"
     },
     {
       "album": {

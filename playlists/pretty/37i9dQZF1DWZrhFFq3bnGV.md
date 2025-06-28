@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: ArumtaLa
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,144 likes - 97 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,157 likes - 97 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

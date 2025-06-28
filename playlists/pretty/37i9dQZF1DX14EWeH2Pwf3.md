@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Tony Boy in cover della playlist urban più grande in Italia 🐐
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,015,608 likes - 49 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,015,856 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 48 | [BRONX Freestyle](https://open.spotify.com/track/31P3inEdRQT4FDTnDDevwf) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [BRONX Freestyle](https://open.spotify.com/album/0mdvNBNKFrz0f0Y8neCN1Z) | 2:09 |
 | 49 | [Buttare, buttare \(feat\. Latrelle\)](https://open.spotify.com/track/0BeeP8VwfLIziYkdv0m6lQ) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV) | [ANTI ANTI \(Doom Edition\)](https://open.spotify.com/album/6k1D9AV5IWPh8D43LIjkhi) | 2:44 |
 
-Snapshot ID: `aF3RRAAAAAAJoUBnjzz2JPVSQ6eCYPjc`
+Snapshot ID: `aF5wswAAAADptdLQs0sGFN5IKlyTGALr`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Nathy Peluso & Conociendo Rusia.",
+  "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Emanero & Agus Bernasconi.",
   "name": "Radio Pop",
   "tracks": [
     {
@@ -212,7 +212,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 195431,
       "name": "Abraz\u00e1ndonos",
       "url": "https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w"
@@ -2028,7 +2028,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 224675,
       "name": "El d\u00eda menos pensado",
       "url": "https://open.spotify.com/track/2POEnW8xvLI8o3zcm61tJz"
@@ -3133,6 +3133,24 @@
     },
     {
       "album": {
+        "name": "La Realidad",
+        "url": "https://open.spotify.com/album/3xSAqUkBAfqnd2TEH0ooEt"
+      },
+      "artists": [
+        {
+          "name": "Mar Marzo",
+          "url": "https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156710,
+      "name": "La Realidad",
+      "url": "https://open.spotify.com/track/0H9390yIMrHF7IG8OnXVZB"
+    },
+    {
+      "album": {
         "name": "LA SANTA",
         "url": "https://open.spotify.com/album/7s7TZHak9Chi57TNKIH7T8"
       },
@@ -3166,6 +3184,28 @@
       "duration_ms": 167674,
       "name": "La Triple T",
       "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
+    },
+    {
+      "album": {
+        "name": "La \u00faltima canci\u00f3n",
+        "url": "https://open.spotify.com/album/5mv9TLj5uCgoyApnPbQct5"
+      },
+      "artists": [
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181605,
+      "name": "La \u00faltima canci\u00f3n",
+      "url": "https://open.spotify.com/track/38tkHGzTz7zkSWtdih973H"
     },
     {
       "album": {
@@ -4474,6 +4514,24 @@
       "duration_ms": 211935,
       "name": "No Hay M\u00e1s Que Hablar",
       "url": "https://open.spotify.com/track/4gC0IUJBZ6HQBy4SezYNgq"
+    },
+    {
+      "album": {
+        "name": "no hay vuelta atr\u00e1s",
+        "url": "https://open.spotify.com/album/30XqJeXn9Ac35jMoo3MnsL"
+      },
+      "artists": [
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131500,
+      "name": "no hay vuelta atr\u00e1s",
+      "url": "https://open.spotify.com/track/79ZxDTRJC6srI4vM8nBbJ9"
     },
     {
       "album": {
@@ -6760,7 +6818,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 215426,
       "name": "Uno los Dos",
       "url": "https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp"

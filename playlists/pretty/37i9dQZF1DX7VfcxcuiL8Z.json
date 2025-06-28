@@ -1,6 +1,6 @@
 {
   "description": "The best in new rock. Cover: Muse",
-  "num_followers": 96772,
+  "num_followers": 96774,
   "original_name": "Rock Out.",
   "owner": {
     "name": "Spotify",
@@ -239,7 +239,23 @@
     {
       "added_at": "2025-06-26 14:00:37",
       "album": {
-        "name": "Bag Of Bones",
+        "name": "Top Heavy",
+        "url": "https://open.spotify.com/album/3rUIQo9YmO0tgg7X0tT0TT"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "duration_ms": 203154,
+      "name": "Ain\u2019t For The Faint",
+      "url": "https://open.spotify.com/track/6SQuxwoBbp8DlAUStjJ5vB"
+    },
+    {
+      "added_at": "2025-06-26 14:00:37",
+      "album": {
+        "name": "Bag of Bones",
         "url": "https://open.spotify.com/album/4tWOuqMX9aMpFxvNU1WkYl"
       },
       "artists": [
@@ -249,7 +265,7 @@
         }
       ],
       "duration_ms": 244661,
-      "name": "Bag Of Bones",
+      "name": "Bag of Bones",
       "url": "https://open.spotify.com/track/1M2AqYT4Y6X0zRboZgIw8K"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 
 > La playlist des artistes LGBTQIA+\. Photo : marguerite
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,710 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,718 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 | 3 | [Lola \(feat\. Nicola Sirkis\)](https://open.spotify.com/track/2UC24t5kdAucpeFtVONiYZ) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq), [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ), [Nicola Sirkis](https://open.spotify.com/artist/1GPOQdRaRdalF1ct9DKfuJ) | [Lola \(feat\. Nicola Sirkis\)](https://open.spotify.com/album/3qaG54mQkO2ekk3FNuSbKQ) | 3:01 |
 | 4 | [Guess featuring billie eilish](https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:23 |
 | 5 | [MASCULINITY \- Protest Version](https://open.spotify.com/track/4AxOoI9Mm8C4oFA6oS6si8) | [LUCKY LOVE](https://open.spotify.com/artist/3EApXFqJtyNGLwOVFKvhMP) | [MASCULINITY \(Protest Version\)](https://open.spotify.com/album/2aWx5i0qpaxoPOYCHqZ0ez) | 3:54 |
-| 6 | [Oublier](https://open.spotify.com/track/52eDCGa3pzmwNTwjz1mofw) | [Nicky Doll](https://open.spotify.com/artist/4EuM3R5q2w7YIedgtQiMrj) | [Oublier](https://open.spotify.com/album/3NuqIkwwlGzXVlcsDPXRpi) | 2:41 |
+| 6 | [Drifting Away](https://open.spotify.com/track/4avPf7Sn8QCeL6ZWyWzemL) | [Nicky Doll](https://open.spotify.com/artist/4EuM3R5q2w7YIedgtQiMrj) | [Drifting Away](https://open.spotify.com/album/2mbm5VKHxqPNO8NUzkYxKg) | 3:30 |
 | 7 | [Parfum Orange](https://open.spotify.com/track/4BAdYMcuEQKvfuiP51AbhM) | [La Grande Dame](https://open.spotify.com/artist/3AvpOfIrL6UyrMb5r4kIeh) | [PARFUM ORANGE](https://open.spotify.com/album/00ansPkQ19Fm4pmPgPalTz) | 4:15 |
 | 8 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 |
 | 9 | [These Walls \(feat\. Pierre de Maere\)](https://open.spotify.com/track/67LH2dzXF67Oi80yJaVYd7) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [These Walls \(feat\. Pierre de Maere\)](https://open.spotify.com/album/4FKnJE18DVG0Msk4D3NSYW) | 3:37 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 | 39 | [J'tomberai pas](https://open.spotify.com/track/4wFWwZ3AYbFmeQTqAnSKgF) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Panorama](https://open.spotify.com/album/30xA05iVxdjBjfj2mKXhL5) | 3:06 |
 | 40 | [Que tu te mentes](https://open.spotify.com/track/246qLPvm2lY2lRl0QowN5g) | [Louis Albi](https://open.spotify.com/artist/5vtBixycH4NYGd7ZVWseVn) | [Que tu te mentes](https://open.spotify.com/album/0MVCYDiqg8ElZGtHEsQ9ML) | 2:47 |
 
-Snapshot ID: `aDTkYAAAAADuh5DxW628u+l7HAQ+NZ4m`
+Snapshot ID: `aF6eBAAAAAAGtyuhXFmUUjx3/kik5QYQ`

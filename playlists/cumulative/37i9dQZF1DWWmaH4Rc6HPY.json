@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "110",
+        "url": "https://open.spotify.com/album/4lgpR29bBKMA7yObp1zf2c"
+      },
+      "artists": [
+        {
+          "name": "Taburete",
+          "url": "https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176383,
+      "name": "110",
+      "url": "https://open.spotify.com/track/3rVpThjjBGHOVAwwgIPDwo"
+    },
+    {
+      "album": {
         "name": "3 de Febrero RMX",
         "url": "https://open.spotify.com/album/0X4kfiSyMeaUoLlCQ0hKzD"
       },
@@ -1437,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "El Retorno",
+        "url": "https://open.spotify.com/album/3wLN5TGDfK414XeVjrfvEm"
+      },
+      "artists": [
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189766,
+      "name": "El Gomoso",
+      "url": "https://open.spotify.com/track/0H6rYPbDkdMmJbedmXMqV9"
+    },
+    {
+      "album": {
         "name": "El M\u00e9ndigo D\u00eda Del Padre",
         "url": "https://open.spotify.com/album/5h5eVaiuXPxfUfxgFOPuE9"
       },
@@ -1946,6 +1982,24 @@
       "duration_ms": 174051,
       "name": "La Canci\u00f3n, Tu Canci\u00f3n",
       "url": "https://open.spotify.com/track/0vUupjiw3zyGyIl0t4YWOm"
+    },
+    {
+      "album": {
+        "name": "La Ciudad",
+        "url": "https://open.spotify.com/album/6Kg0WYwrz6on4qEPJLGuWO"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213380,
+      "name": "La Ciudad",
+      "url": "https://open.spotify.com/track/2WkdQRVKSpQR7m8ADRgen5"
     },
     {
       "album": {
@@ -3074,7 +3128,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 163239,
       "name": "Pensamientos Intrusivos",
       "url": "https://open.spotify.com/track/17KcNyZQ0tLSloefQFKskl"
@@ -3502,7 +3556,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 185678,
       "name": "Que Somos - Remix",
       "url": "https://open.spotify.com/track/57gyk5Nu81GRzC55glFN95"
@@ -4580,7 +4634,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 194490,
       "name": "Voy a pas\u00e1rmelo bien",
       "url": "https://open.spotify.com/track/26ckhcc4DLGTeURl8zlMwt"

@@ -1498,6 +1498,24 @@
     {
       "album": {
         "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/6NGMvqRZ7JZUnBrU4qoG3N"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2025-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89440,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/7s5PGOnXU0Rzyvfx8f2rIW"
+    },
+    {
+      "album": {
+        "name": "Brokeback Mountain Soundtrack",
         "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
       },
       "artists": [
@@ -1508,7 +1526,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 91480,
       "name": "Opening",
       "url": "https://open.spotify.com/track/5uUkMMDpggRSQ4hRfI3lV7"

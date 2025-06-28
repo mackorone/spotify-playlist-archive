@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-288 songs - 14 hr 45 min
+290 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [The Way You Make Me Feel \- Acoustic](https://open.spotify.com/track/4TOYSDT4aaSoQKbxshBYbI) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A), [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [The Way You Make Me Feel \(Acoustic\)](https://open.spotify.com/album/34pciOFOyl4rI1SIc1F0gw) | 2:37 | 2024-05-10 |  |
 | [There She Goes \- Acoustic](https://open.spotify.com/track/3nDEkIX8lfi4rg62XaDM0O) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [There She Goes \(Acoustic\)](https://open.spotify.com/album/5rNQUran1E5UllSg6uqI4Y) | 2:54 | 2021-10-01 | 2022-07-16 |
 | [Thinking of You \- Acoustic](https://open.spotify.com/track/6tbmtGWZH2guWw6sbePI7i) | [Franklyn Jay](https://open.spotify.com/artist/6x84plwzEZTisIcJUFiNcr) | [Thinking of You \(Acoustic\)](https://open.spotify.com/album/1sTKlckv9fzXJxFfeB2bfm) | 3:09 | 2024-02-09 |  |
+| [Thinking Out Loud \- Acoustic](https://open.spotify.com/track/5g8icmRtCprCAYeSVtJufd) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Thinking Out Loud \(Acoustic\)](https://open.spotify.com/album/2TfaY2Qo3JiCEBYhzRG2jV) | 4:26 | 2025-06-27 |  |
 | [Thinking Out Loud \- Acoustic](https://open.spotify.com/track/30kpPQ8pYmxqyUD9l1mFL7) | [Sands of Summer](https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz) | [Thinking Out Loud \(Acoustic\)](https://open.spotify.com/album/1WrdSnM8vS3UlX3YD20qms) | 3:04 | 2025-02-17 |  |
 | [This Kiss \- Acoustic](https://open.spotify.com/track/3AqkRNDw7B5vukDtnXy8zJ) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [This Kiss \(Acoustic\)](https://open.spotify.com/album/7wQAgYNFflHq2AqevwUSWn) | 2:42 | 2024-04-27 | 2024-06-01 |
 | [This Will Be \(An Everlasting Love\) \- Acoustic](https://open.spotify.com/track/585mlT2Qwq7urXcnPg7dOk) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [This Will Be \(An Everlasting Love\) \[Acoustic\]](https://open.spotify.com/album/4IVsduaa3eklnbjrxehKvp) | 2:19 | 2023-08-04 | 2024-03-04 |
@@ -284,6 +285,7 @@
 | [You Belong With Me \- Acoustic](https://open.spotify.com/track/2kLo4Rvt1RKvo4vjDZ9fHy) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [You Belong With Me \(Acoustic\)](https://open.spotify.com/album/3EmhJjJNNnUk6j7FfASff0) | 3:54 | 2022-03-25 | 2023-01-28 |
 | [You Can't Hurry Love \- Acoustic](https://open.spotify.com/track/0hno6GT4MufXRv8rgP0qMI) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [You Can't Hurry Love \(Acoustic\)](https://open.spotify.com/album/6khGn2IUNSQrEMzU3zllRl) | 2:36 | 2025-02-28 |  |
 | [You Get What You Give \- Acoustic](https://open.spotify.com/track/3ZRRjUNc1OIGRBPz65VyxH) | [Plamina](https://open.spotify.com/artist/7x6A8huMVnPZ5wAzlw6HSp) | [You Get What You Give \(Acoustic\)](https://open.spotify.com/album/0QO3w3D9HNIrLR2y0rMltj) | 3:10 | 2023-09-10 |  |
+| [You Got It](https://open.spotify.com/track/3K7DuG4PxLhbSy0llSTjFn) | [Sands of Summer](https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz) | [You Got It](https://open.spotify.com/album/3jvCXY5yUX6XXWMEuFEl1q) | 2:21 | 2025-06-27 |  |
 | [You Got It \- Acoustic](https://open.spotify.com/track/5a6e3orRKXQa8DKDpK1Rvk) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [You Got It \(Acoustic\)](https://open.spotify.com/album/7hfuFxdCaXDCJe0hFfqye7) | 3:24 | 2024-02-02 | 2025-02-10 |
 | [You Gotta Be \- Acoustic](https://open.spotify.com/track/4RlBEdL5DOSslHLSUhKJn6) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [You Gotta Be \(Acoustic\)](https://open.spotify.com/album/3pR8DUQuR6uy44pYmFGw52) | 2:28 | 2019-10-13 | 2024-04-26 |
 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/2FXh77yuXHFlRdPugP51mV) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [You Make My Dreams \(Come True\)](https://open.spotify.com/album/7qYldplOdOMyQTWZIJwPXH) | 2:55 | 2025-05-31 |  |

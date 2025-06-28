@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX96miwkmVnVt.md) - [plain]
 
 > Arlo's selections "of the crunchiest and most singular drums on the planet"\. Welcome to mixtape, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,703 likes - 27 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,717 likes - 27 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX96miwkmVnVt.md) - [plain]
 | 8 | [Nabokov](https://open.spotify.com/track/4gCtmRwwRG5fPVtGJkwYDC) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH) | 5:21 |
 | 9 | [Invisible Man](https://open.spotify.com/track/3bluNnCa66Tfhix35wSehs) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A) | 2:48 |
 | 10 | [Mind Mischief](https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 4:31 |
-| 11 | [The Magic Number](https://open.spotify.com/track/4hB8J06D2ZaGkWZDOMpYZB) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [3 Feet High and Rising](https://open.spotify.com/album/34LxHI9x14qXUOS8AWRrYD) | 3:15 |
+| 11 | [\(3 Is\) The Magic Number](https://open.spotify.com/track/4hB8J06D2ZaGkWZDOMpYZB) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [3 Feet High and Rising](https://open.spotify.com/album/34LxHI9x14qXUOS8AWRrYD) | 3:15 |
 | 12 | [Dance](https://open.spotify.com/track/0iD94fatV4gLMmOQhNTQx6) | [ESG](https://open.spotify.com/artist/4EF5vIcCYKMM61oYOG2Tqa) | [Come Away with ESG](https://open.spotify.com/album/4DX4hNQbCQnrDMlmKq3eid) | 4:34 |
 | 13 | [Comedown Song \(Gunk\)](https://open.spotify.com/track/4QnPyXa1FvgHY5QMQIr407) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [All Day Gentle Hold !](https://open.spotify.com/album/1BRyY6DlapTBq48ytvfY10) | 2:21 |
 | 14 | [Last Sniff](https://open.spotify.com/track/2ndM3m6c98W1jt3X89LXNH) | [Wilma Archer](https://open.spotify.com/artist/0uo6UbyUYXbG4xBT7vBGSx), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [A Western Circular](https://open.spotify.com/album/3tXlCQgeSBsZZmL9GtlYnP) | 3:10 |

@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Madilyn Mei
+> Discover the next wave of talent writing their own songs\. Cover: Devon Gabriella
 
-884 songs - 1 day 23 hr 19 min
+888 songs - 1 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Difficult](https://open.spotify.com/track/3JiaA3hvuKu4Fjf6AWwVMX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Difficult](https://open.spotify.com/album/5ut6gnxZsNlq5ZjiW06Ht8) | 4:17 | 2022-10-07 | 2023-01-28 |
 | [dishes](https://open.spotify.com/track/5fl0hbVtZpswYuFORfDkfO) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [dishes](https://open.spotify.com/album/3Sk4lToMRHoSjjzorQBAQX) | 2:40 | 2023-03-10 | 2023-08-12 |
 | [DNA Guarantee](https://open.spotify.com/track/7EimwDV1rXzsiXYGXVUEkC) | [Kodi Rhianne](https://open.spotify.com/artist/0SxMiauNf6nzyx8nicQ4ow) | [DNA Guarantee](https://open.spotify.com/album/1zbnbjtdrmlJnpEfvvubad) | 3:45 | 2025-04-10 |  |
+| [Do You Like That, Baby?](https://open.spotify.com/track/1I7QWW2rjALUtIDrVBWJQm) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Do You Like That, Baby?](https://open.spotify.com/album/0hdsmDJb71T5Uupl2TiWXI) | 3:18 | 2025-06-27 |  |
 | [Do you really have to go?](https://open.spotify.com/track/2Aq88M9sEPxN8VaFCx88Ii) | [Josie Oliver](https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan) | [Listen to this when you buy a house](https://open.spotify.com/album/6BTJS3CE6lcSSIT0md7Byv) | 3:39 | 2025-04-04 | 2025-05-10 |
 | [Do Your Worst](https://open.spotify.com/track/1WQm4kw3blYLYbsA9kTsTE) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [Do Your Worst](https://open.spotify.com/album/2LS7qVSq37ThFZkkmhrY3w) | 3:39 | 2024-05-24 | 2024-11-16 |
 | [Don't Go Back To Paris](https://open.spotify.com/track/0jeGTzkvrNRBC8Dt8bsDRN) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Paris / San Francisco](https://open.spotify.com/album/2VFJG91yaQl6TuCWpP95bw) | 3:47 | 2024-08-16 | 2024-12-07 |
@@ -270,7 +271,7 @@
 | [First Place](https://open.spotify.com/track/2nVmUsEIdqVYQG0BTzPdk4) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Powerlines](https://open.spotify.com/album/3fA793BjWaUIqwknayn2OX) | 3:16 | 2023-04-14 | 2023-08-19 |
 | [First Time Around](https://open.spotify.com/track/23psMZPlDbapkhRYmJsjlv) | [Sophia James](https://open.spotify.com/artist/23xulTZL2CvclAu5Q1eMaN) | [First Time Around](https://open.spotify.com/album/6rypi6Trg8qZLNbimsZuYb) | 4:45 | 2023-01-27 | 2023-02-16 |
 | [First Time Around](https://open.spotify.com/track/7ttmCexFPcRrE4T6REFmWj) | [Sophia James](https://open.spotify.com/artist/23xulTZL2CvclAu5Q1eMaN) | [First Time Around](https://open.spotify.com/album/02FbrawyS5PpJ11VVONnyJ) | 4:45 | 2023-02-03 | 2023-04-29 |
-| [Fled Into The Night](https://open.spotify.com/track/0wZ3P7rmQeTdf9R13l6JgH) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Fled Into The Night](https://open.spotify.com/album/1fbkk6CLtaeyS1kKpNAvtM) | 4:07 | 2025-03-14 |  |
+| [Fled Into The Night](https://open.spotify.com/track/0wZ3P7rmQeTdf9R13l6JgH) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Fled Into The Night](https://open.spotify.com/album/1fbkk6CLtaeyS1kKpNAvtM) | 4:07 | 2025-03-14 | 2025-06-28 |
 | [Floating](https://open.spotify.com/track/0g0tS35UJaSLRqS025rZHw) | [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [Floating](https://open.spotify.com/album/1p02y0dX11Mpo3K6Qx7Sad) | 4:00 | 2022-01-14 | 2022-03-30 |
 | [Flood](https://open.spotify.com/track/7uHxkxA2hcETeuDp5seg4E) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [Flood](https://open.spotify.com/album/3W3WfVjJJiXFZyALqfESLc) | 2:37 | 2022-02-04 | 2022-03-18 |
 | [Flowers](https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Flowers](https://open.spotify.com/album/4zewk35WNIuJhQ9aR0MwQw) | 3:44 | 2024-09-20 | 2025-04-12 |
@@ -299,6 +300,7 @@
 | [god has a sense of humor](https://open.spotify.com/track/6HCAaG7XT5DUvrzXHbGnqs) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 2:50 | 2022-09-09 | 2022-12-24 |
 | [god has a sense of humor](https://open.spotify.com/track/7pmV5S5LWax4FbTQpUGloD) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [Autumn Leaves \- Fall Hits](https://open.spotify.com/album/4qtRqYPUttVN8x8MTRiwHh) | 2:50 | 2022-09-09 | 2022-11-13 |
 | [God Must Hate Me](https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [God Must Hate Me](https://open.spotify.com/album/11PVMiF3q2pguN5ym4NvMm) | 2:29 | 2022-01-14 | 2022-07-09 |
+| [Going to Mars](https://open.spotify.com/track/1nTFwSGY1ygMC2DmLa1CsM) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Going to Mars](https://open.spotify.com/album/5PrSHfxpwJDKC91aPYnftY) | 3:05 | 2025-06-27 |  |
 | [going under](https://open.spotify.com/track/3ZHya5rTwM1t3oG7zyPjtn) | [Ali Wolv](https://open.spotify.com/artist/74XB8aP3f2Ze0JgzVmrjWx) | [going under](https://open.spotify.com/album/3rdeYQMlp9NM9VrGc46aHa) | 3:20 | 2025-03-28 |  |
 | [gone for good](https://open.spotify.com/track/4DTeo7lwguLqQkIOdLIVGz) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [gone for good](https://open.spotify.com/album/0VlKR6VsPLG50lA3bvw509) | 2:53 | 2024-01-05 | 2024-02-24 |
 | [Gonna Change](https://open.spotify.com/track/5QqIpatrYBsKX4pEcmzKxo) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Gonna Change](https://open.spotify.com/album/6RAkIXujAPL3B2k5SmsCZI) | 3:48 | 2025-06-13 |  |
@@ -308,7 +310,7 @@
 | [Good to Know](https://open.spotify.com/track/2Kf3UJ8g930JLTv66X4Lr6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17](https://open.spotify.com/album/7kER2cVpZWvqXlds3fJzmU) | 2:42 | 2023-12-01 | 2024-03-30 |
 | [Google Translate / poppies](https://open.spotify.com/track/5SWkedKGlTLmjMRvhu0xXX) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Forward / Slash](https://open.spotify.com/album/2pBKpl9tmGPszEickvA8qi) | 4:23 | 2022-02-25 | 2022-10-08 |
 | [gray](https://open.spotify.com/track/0zGBgmHIxDT7nxt7w4hxOE) | [Alexa Cirri](https://open.spotify.com/artist/0jitaHotzcSiJNkm4amOOr) | [gray](https://open.spotify.com/album/5wfZA3LL0GrFgjmfqjDWPE) | 2:54 | 2022-12-16 | 2023-02-11 |
-| [Great White Sharks](https://open.spotify.com/track/1ILOpSQ9QqKGY8ISNueZou) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Great White Sharks](https://open.spotify.com/album/6SvD1F9Gey9kY9GVaJkhbm) | 3:19 | 2025-05-09 |  |
+| [Great White Sharks](https://open.spotify.com/track/1ILOpSQ9QqKGY8ISNueZou) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Great White Sharks](https://open.spotify.com/album/6SvD1F9Gey9kY9GVaJkhbm) | 3:19 | 2025-05-09 | 2025-06-28 |
 | [Greek Street](https://open.spotify.com/track/3FOMG322NEExR04jEubVTW) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Greek Street](https://open.spotify.com/album/4LBia6KZZJg2K4qlJyYC22) | 2:42 | 2023-02-24 | 2023-08-19 |
 | [Green](https://open.spotify.com/track/1cNA86HqElqyeD2GMonlpl) | [Avonlea](https://open.spotify.com/artist/30Ddlk9YPm030og6lClMou) | [Green](https://open.spotify.com/album/2dCjM7gJaLq5hdihS9u1wx) | 3:24 | 2022-11-18 | 2023-02-25 |
 | [Grow Out Of It](https://open.spotify.com/track/58CUtwjF3a0YrYR5Akh3cn) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Grow Out Of It](https://open.spotify.com/album/6IWfby0SmSyiU2SSktO7E7) | 2:31 | 2023-01-27 | 2023-05-27 |
@@ -347,6 +349,7 @@
 | [Holy Place](https://open.spotify.com/track/4hXkYDNE8j7JCJG3gzZD4C) | [Anya Gupta](https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL) | [Holy Place](https://open.spotify.com/album/0CkxO3XjDHito2dkzS6kxn) | 3:02 | 2023-04-28 | 2023-08-19 |
 | [Home](https://open.spotify.com/track/3TvT76690Fsqbdnx2uzOB3) | [Ellis King](https://open.spotify.com/artist/4KJ4qp4XqEXmILu2ZX9hAu) | [Home](https://open.spotify.com/album/1rBYvlZe1eyLbpJLYnRcCO) | 3:27 | 2024-12-13 | 2025-04-19 |
 | [Home](https://open.spotify.com/track/2IyLA43MRICilLudwDPgBz) | [LDYA](https://open.spotify.com/artist/7LvlgYvN2krtIsRQK7vs1c) | [Home](https://open.spotify.com/album/2tCI9Q09eijRBaqiVF2M7e) | 2:40 | 2024-12-20 | 2025-04-26 |
+| [HOME](https://open.spotify.com/track/0Po4nPZoSyDf0GE8MXJgoo) | [Luke Dunleavy](https://open.spotify.com/artist/2hrlyfscnm84Inpkn8hpga) | [HOME](https://open.spotify.com/album/44zCI5RAkDwK2fFJpqNvZ0) | 2:55 | 2025-06-27 |  |
 | [Hope For The Best](https://open.spotify.com/track/1wFUpYmAa3bnxNp4UnQtBO) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW) | [Hope For The Best](https://open.spotify.com/album/2zLQANBXEfPCfB7DQcIpeS) | 3:30 | 2025-05-18 |  |
 | [Hope Is a Scary Thing](https://open.spotify.com/track/58SrfExCWNIdEh01NiAUOg) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Hope Is a Scary Thing](https://open.spotify.com/album/5vEqFwTMcGrqZw1Xuw04Qu) | 2:48 | 2024-04-26 | 2024-10-19 |
 | [hope ur doing good](https://open.spotify.com/track/5Se5rp7mZFuAa3zMTYn6Lc) | [Savanna Leigh](https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt) | [the way i see it](https://open.spotify.com/album/18T0b0AmEnzfzvOtuXzXv9) | 3:25 | 2022-11-18 | 2023-01-21 |
@@ -486,7 +489,7 @@
 | [Locksmith](https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Locksmith](https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl) | 2:44 | 2022-10-07 | 2023-05-06 |
 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 | 2022-01-21 | 2022-04-16 |
 | [London Too](https://open.spotify.com/track/5VEEDisGMhuae3Ck8vpYHX) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Crossing More Than City Lines](https://open.spotify.com/album/7KIPA6botKqAyQWwX8jeDb) | 3:19 | 2024-09-06 | 2025-02-22 |
-| [Lonely In Love](https://open.spotify.com/track/1ObXcuEtF8F9BIcRabX7kM) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Lonely In Love](https://open.spotify.com/album/3MeUdi6Ls8BwLkN1E8pmiR) | 2:38 | 2025-02-28 |  |
+| [Lonely In Love](https://open.spotify.com/track/1ObXcuEtF8F9BIcRabX7kM) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Lonely In Love](https://open.spotify.com/album/3MeUdi6Ls8BwLkN1E8pmiR) | 2:38 | 2025-02-28 | 2025-06-28 |
 | [Long Sleeves](https://open.spotify.com/track/3FhR2wKrImxzGWbLEk8323) | [Love You Later](https://open.spotify.com/artist/5NnHZjAQDhWUb5ISZO7FSw) | [Long Sleeves](https://open.spotify.com/album/25TWkHnNyeUDIq6nkB1baW) | 2:50 | 2023-04-28 | 2023-08-12 |
 | [look what you did](https://open.spotify.com/track/1lqC1iUuA9xROuLPdR87Mt) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [look what you did](https://open.spotify.com/album/5y6B6WamjdWeACbHeijgXT) | 3:57 | 2024-07-12 | 2024-11-16 |
 | [Looking At Me](https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue) | 3:12 | 2023-03-31 | 2024-06-08 |
@@ -547,7 +550,7 @@
 | [mona lisa](https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [mona lisa](https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2) | 3:10 | 2022-02-11 | 2022-04-29 |
 | [monsters](https://open.spotify.com/track/6cQ8IRL1UQR11v4wD4wjo8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [monsters](https://open.spotify.com/album/0VQQcjbZgXrYNNxijIRva6) | 2:53 | 2022-08-12 | 2022-11-12 |
 | [mood ring](https://open.spotify.com/track/5sHctjVx9Z4Qj5gyB8q7kT) | [Kira Kosarin](https://open.spotify.com/artist/7jksCPW6uDQiTDVbcyLV79) | [mood ring](https://open.spotify.com/album/7iTcqrJVu8e8myv9OIV1KM) | 2:54 | 2022-03-11 | 2022-07-16 |
-| [More](https://open.spotify.com/track/3x7OABCz50xOJGGdmv40CA) | [Tele](https://open.spotify.com/artist/09mubTbWhCfwxtVDtlRFDa) | [More](https://open.spotify.com/album/0h93qeQJf2QetGz8sGxwAs) | 2:48 | 2025-03-28 |  |
+| [More](https://open.spotify.com/track/3x7OABCz50xOJGGdmv40CA) | [Tele](https://open.spotify.com/artist/09mubTbWhCfwxtVDtlRFDa) | [More](https://open.spotify.com/album/0h93qeQJf2QetGz8sGxwAs) | 2:48 | 2025-03-28 | 2025-06-28 |
 | [More Of You](https://open.spotify.com/track/06kYozo6Am3njAuYXy7XJw) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [More Of You](https://open.spotify.com/album/6BPN1ae8Yj3YBjA4smeT6p) | 3:33 | 2022-08-12 | 2022-12-24 |
 | [More Than the Day Before](https://open.spotify.com/track/2Rj8dzTs5H0vjCf6Aqlkyf) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Symphony Sessions](https://open.spotify.com/album/6akM5QezAquVzmc0rZopw6) | 2:32 | 2022-01-21 | 2022-03-18 |
 | [Move On](https://open.spotify.com/track/6vTzONIAVZMzG9UGAtv7Xv) | [Temm](https://open.spotify.com/artist/1TCG4phIm3YNXPLzKhHPoD) | [Move On](https://open.spotify.com/album/3OA28iQCKxCSiuIkWaykhZ) | 3:42 | 2024-03-22 | 2024-12-14 |
@@ -669,6 +672,7 @@
 | [saw you in the paper](https://open.spotify.com/track/72YBXFD6wdyX1LyWdj9LfQ) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [saw you in the paper](https://open.spotify.com/album/5KS9M0MvpYIY0pqltF2uVs) | 2:20 | 2023-03-24 | 2023-07-15 |
 | [scaredy cat](https://open.spotify.com/track/6h25pN6clHAfaO443edhwS) | [JT FOLEY](https://open.spotify.com/artist/1h5BwdyJ0LOpYZwECGo58q) | [scaredy cat](https://open.spotify.com/album/5fFrqDeUxm6LkKtXHABKHd) | 3:06 | 2022-04-01 | 2022-04-23 |
 | [Season One](https://open.spotify.com/track/5RExNfLho0l9WtHNXpAiof) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Season One](https://open.spotify.com/album/09DOEdhTpnzRcSpqLM3AI2) | 2:05 | 2024-09-27 | 2025-03-01 |
+| [Second Nature](https://open.spotify.com/track/1Y98awUOuPdheqh0cnDLHw) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [The Garden](https://open.spotify.com/album/3PGsOrW90ABHRIuv4zG9la) | 2:33 | 2025-06-27 |  |
 | [Secondhand Smoke](https://open.spotify.com/track/6qkIHn2trQOSJJrzyD1ew9) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [Secondhand Smoke](https://open.spotify.com/album/4Wu9Clf4wH6ItUqMfJkJA6) | 4:03 | 2023-02-24 | 2023-08-19 |
 | [see you later \(ten years\)](https://open.spotify.com/track/5elofKuRmgZmCVImWT6JtE) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later \(ten years\)](https://open.spotify.com/album/2SAjAFJEgQwOMFt5awJK5x) | 3:08 | 2022-01-14 | 2022-04-23 |
 | [Seen](https://open.spotify.com/track/56ybiNUE5Gim5BtlWRD40o) | [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [Seen](https://open.spotify.com/album/4pQgKTITrIp8lNGKwNWjWg) | 3:27 | 2022-03-11 | 2022-07-30 |

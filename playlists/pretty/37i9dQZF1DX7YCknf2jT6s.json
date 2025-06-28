@@ -1,12 +1,12 @@
 {
   "description": "New jazz for open minds. Cover: Joshua Redman",
-  "num_followers": 951575,
+  "num_followers": 951589,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFTc4gAAAAAhs/v6jtncdCeH5NYoTFZS",
+  "snapshot_id": "aF4XXAAAAABLihbmzQ6kFto0+WJzQq8V",
   "tracks": [
     {
       "added_at": "2025-06-20 04:00:33",
@@ -41,24 +41,20 @@
       "url": "https://open.spotify.com/track/2gzXIH2zuVQ6omwQBvpeas"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-06-27 04:00:28",
       "album": {
-        "name": "How I Became a Madman",
-        "url": "https://open.spotify.com/album/5EViAeAyM4Mry14Sb9u7Zw"
+        "name": "Between the Bars",
+        "url": "https://open.spotify.com/album/6ibbmbJZagdeyyU3r8eJQF"
       },
       "artists": [
         {
-          "name": "Ami Taf Ra",
-          "url": "https://open.spotify.com/artist/2KiesFSnD8ccUdEeZZOo4q"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
         }
       ],
-      "duration_ms": 413929,
-      "name": "How I Became a Madman",
-      "url": "https://open.spotify.com/track/2vWxZV2grxa10qiqyNQ51a"
+      "duration_ms": 301561,
+      "name": "Between the Bars",
+      "url": "https://open.spotify.com/track/6Ja01KJ1mVGcONnRzHtGBi"
     },
     {
       "added_at": "2025-06-20 04:00:33",
@@ -77,20 +73,40 @@
       "url": "https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-06-27 04:00:28",
       "album": {
-        "name": "Dinosaur Song",
-        "url": "https://open.spotify.com/album/4BIdObjH1TglFx3GWNT1NM"
+        "name": "Blue Lights",
+        "url": "https://open.spotify.com/album/40wxIl0tJnz4vADO8czpRv"
       },
       "artists": [
         {
-          "name": "Paul Cornish",
-          "url": "https://open.spotify.com/artist/6Buu7N5lG1P2yRirqj9UON"
+          "name": "Roni Kaspi",
+          "url": "https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9"
         }
       ],
-      "duration_ms": 186586,
-      "name": "Dinosaur Song",
-      "url": "https://open.spotify.com/track/7rPjEJewd39x5PLJSleLQE"
+      "duration_ms": 161492,
+      "name": "Blue Lights",
+      "url": "https://open.spotify.com/track/2JB0ynbApFXZW02NpIBVct"
+    },
+    {
+      "added_at": "2025-06-27 04:00:28",
+      "album": {
+        "name": "iman",
+        "url": "https://open.spotify.com/album/7LS2caM4XRiYoSsypOfMKx"
+      },
+      "artists": [
+        {
+          "name": "SERAPHINE NOIR",
+          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
+        },
+        {
+          "name": "Alexandra Rotmann",
+          "url": "https://open.spotify.com/artist/6eeo1fKlLOMYhc63wDQYUL"
+        }
+      ],
+      "duration_ms": 130302,
+      "name": "iman",
+      "url": "https://open.spotify.com/track/4GWcQfqUzEIGsx2xFuJjcF"
     },
     {
       "added_at": "2025-06-20 04:00:33",
@@ -115,6 +131,58 @@
       "duration_ms": 304929,
       "name": "Murder by Numbers",
       "url": "https://open.spotify.com/track/1qYyiFQd9Dx4Z03No97ZOJ"
+    },
+    {
+      "added_at": "2025-06-27 04:00:28",
+      "album": {
+        "name": "Tamir (for Tamir Rice)",
+        "url": "https://open.spotify.com/album/084BcVtp6wW6Tm7kE24keG"
+      },
+      "artists": [
+        {
+          "name": "Jaleel Shaw",
+          "url": "https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv"
+        }
+      ],
+      "duration_ms": 652975,
+      "name": "Tamir (for Tamir Rice)",
+      "url": "https://open.spotify.com/track/3nFcW5RWdQzQ2bbWNzeMSk"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "How I Became a Madman",
+        "url": "https://open.spotify.com/album/5EViAeAyM4Mry14Sb9u7Zw"
+      },
+      "artists": [
+        {
+          "name": "Ami Taf Ra",
+          "url": "https://open.spotify.com/artist/2KiesFSnD8ccUdEeZZOo4q"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 413929,
+      "name": "How I Became a Madman",
+      "url": "https://open.spotify.com/track/2vWxZV2grxa10qiqyNQ51a"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "Dinosaur Song",
+        "url": "https://open.spotify.com/album/4BIdObjH1TglFx3GWNT1NM"
+      },
+      "artists": [
+        {
+          "name": "Paul Cornish",
+          "url": "https://open.spotify.com/artist/6Buu7N5lG1P2yRirqj9UON"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "Dinosaur Song",
+      "url": "https://open.spotify.com/track/7rPjEJewd39x5PLJSleLQE"
     },
     {
       "added_at": "2025-06-13 04:00:47",
@@ -1809,42 +1877,6 @@
       "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Waterfilm",
-        "url": "https://open.spotify.com/album/0fur4DVWgZwn44dDy9ZpFs"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 257221,
-      "name": "Waterfilm",
-      "url": "https://open.spotify.com/track/76KVWgsaoamQvSAdcmahcH"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "ceremonial contrafact (empathogen deluxe)",
-        "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "wanted",
-      "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
-    },
-    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "To The Moon",
@@ -1863,26 +1895,6 @@
       "duration_ms": 466480,
       "name": "To The Moon (feat. Andr\u00e9 3000)",
       "url": "https://open.spotify.com/track/3ixFx7kbMdBVSeMqfYagJN"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Come Home (feat. Filah Lah Lah)",
-        "url": "https://open.spotify.com/album/4aotwHazC1DeazuX3hmLIW"
-      },
-      "artists": [
-        {
-          "name": "Ndabo Zulu",
-          "url": "https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33"
-        },
-        {
-          "name": "Filah Lah Lah",
-          "url": "https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw"
-        }
-      ],
-      "duration_ms": 366048,
-      "name": "Come Home (feat. Filah Lah Lah)",
-      "url": "https://open.spotify.com/track/6vMe5lYrd4xHK10r2kJCto"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1955,22 +1967,6 @@
       "duration_ms": 296760,
       "name": "The Whales",
       "url": "https://open.spotify.com/track/5Zh8iOUvnZAday3MdqNQx7"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/4ftRVwpPcBhLoCCKLrCLLW"
-      },
-      "artists": [
-        {
-          "name": "Chihiro Yamanaka",
-          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
-        }
-      ],
-      "duration_ms": 355973,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/5c9PKrxJgtVwDNRE9IOd5S"
     },
     {
       "added_at": "2024-11-15 05:00:00",

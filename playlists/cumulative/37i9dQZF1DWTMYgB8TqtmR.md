@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-951 songs - 1 day 23 hr 41 min
+952 songs - 1 day 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -736,6 +736,7 @@
 | [Skavlan](https://open.spotify.com/track/0151EmrxYjXr8efKgGCfWU) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA), [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [Skavlan](https://open.spotify.com/album/4xryg6PtDFQdS1AoNG8G8b) | 1:55 | 2022-11-17 | 2022-12-16 |
 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 | 2024-01-18 | 2024-02-16 |
 | [Skriker mitt namn](https://open.spotify.com/track/3jGTLWpILJexFMVibAjij9) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Skriker mitt namn](https://open.spotify.com/album/3vYIwRY2034ADqRskGJpFr) | 3:01 | 2025-01-17 | 2025-05-30 |
+| [Skyddar mig från dig](https://open.spotify.com/track/6PdHWKjgo6lGmI84OJfJOg) | [Von Disco](https://open.spotify.com/artist/4x7WacYjAU6XQpeDHmNxhv) | [Skyddar mig från dig](https://open.spotify.com/album/2P30uc37KVrUgKCkLvBeB9) | 3:05 | 2025-06-27 |  |
 | [Skål](https://open.spotify.com/track/0d53D9YtdbRErx5b94XNpm) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [Skål](https://open.spotify.com/album/2U56u39r3FrTJkhdBthB8W) | 2:55 | 2022-05-26 | 2022-06-24 |
 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-13 | 2023-05-05 |
 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 | 2023-09-15 | 2023-10-20 |
@@ -843,7 +844,7 @@
 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-05-02 | 2024-05-17 |
 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 | 2024-05-02 | 2024-07-27 |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-04-21 | 2022-06-03 |
-| [Thug \(feat\. ADAAM\)](https://open.spotify.com/track/0ktvJdYHDM30akporoNJkM) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Thug \(feat\. ADAAM\)](https://open.spotify.com/album/4eHXo9XkPM1UaDGHRSoflf) | 2:42 | 2025-04-11 |  |
+| [Thug \(feat\. ADAAM\)](https://open.spotify.com/track/0ktvJdYHDM30akporoNJkM) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Thug \(feat\. ADAAM\)](https://open.spotify.com/album/4eHXo9XkPM1UaDGHRSoflf) | 2:42 | 2025-04-11 | 2025-06-28 |
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2021-12-16 | 2022-03-18 |
 | [Tid & Tro](https://open.spotify.com/track/3Je6X9MikiAZqi7x7Wfu0t) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Tid & Tro](https://open.spotify.com/album/3OLi7nPMD2hZK4zAEzZ2Ic) | 2:13 | 2024-01-18 | 2024-04-12 |
 | [Tiden läker alla sår](https://open.spotify.com/track/2sfzzzMtqw04ZnJMD6ZJfL) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [SAD ROMANCE](https://open.spotify.com/album/4E7nHQEGf62EL75kQ22doF) | 2:54 | 2024-10-17 | 2024-10-25 |

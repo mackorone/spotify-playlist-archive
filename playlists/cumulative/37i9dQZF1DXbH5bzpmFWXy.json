@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Esau Ortiz en portada.",
+  "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. CHOCA en portada.",
   "name": "El Barrio MP3",
   "tracks": [
     {
@@ -3410,7 +3410,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 169812,
       "name": "El Blue",
       "url": "https://open.spotify.com/track/3fJ35WKG3nxSWIoCTXI6Tf"
@@ -5853,6 +5853,24 @@
     },
     {
       "album": {
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/1o82wmTMEaupi5ZpcgkRVB"
+      },
+      "artists": [
+        {
+          "name": "Ganggy",
+          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/192yg3gYKtLi5eXlJcsSS8"
+    },
+    {
+      "album": {
         "name": "Mala Fama, Buena Vidha",
         "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
       },
@@ -7698,7 +7716,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 211818,
       "name": "M\u00edrala",
       "url": "https://open.spotify.com/track/6WymU71WlslVsbdQ46FLBx"
@@ -8210,7 +8228,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 169408,
       "name": "Otra Vez Pegue Un Vergazo",
       "url": "https://open.spotify.com/track/4McpYuSV5NUuvX2dv9Vhy6"
@@ -9823,6 +9841,32 @@
     },
     {
       "album": {
+        "name": "Secreto A Voces",
+        "url": "https://open.spotify.com/album/5YPmjRFPwXcokikyhB2m2v"
+      },
+      "artists": [
+        {
+          "name": "T.O.N.A",
+          "url": "https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK"
+        },
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "Boss Fimbres",
+          "url": "https://open.spotify.com/artist/00iKC66DpYIgYz7Tmml7tr"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215294,
+      "name": "Secreto A Voces",
+      "url": "https://open.spotify.com/track/5TSPcTcK2DqC8kz84RikFX"
+    },
+    {
+      "album": {
         "name": "Seguimos Bateando (En Vivo)",
         "url": "https://open.spotify.com/album/428LK3nKU8Wf0HE6KY1oYv"
       },
@@ -10352,7 +10396,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 206605,
       "name": "SONIDERO",
       "url": "https://open.spotify.com/track/4yiSoPgXRTtMeGaoN7QTMP"
@@ -11943,6 +11987,32 @@
     },
     {
       "album": {
+        "name": "XClusive",
+        "url": "https://open.spotify.com/album/4I0e6Oe4UIc6GpcTcHityz"
+      },
+      "artists": [
+        {
+          "name": "Kid Pistola",
+          "url": "https://open.spotify.com/artist/3Y2qwY5R2OqefGohE3tMLU"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        },
+        {
+          "name": "La Corea\u00f1era",
+          "url": "https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149700,
+      "name": "XClusive",
+      "url": "https://open.spotify.com/track/46defqRhyto8kFovVjc36n"
+    },
+    {
+      "album": {
         "name": "$AD BOYZ 4 LIFE II",
         "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
       },
@@ -12090,6 +12160,24 @@
       "duration_ms": 180000,
       "name": "\u00bfCu\u00e1les Fronteras?",
       "url": "https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s"
+    },
+    {
+      "album": {
+        "name": "\u00bfKHE SOMOS?",
+        "url": "https://open.spotify.com/album/4nipGD1goXpjeopS7J3BRn"
+      },
+      "artists": [
+        {
+          "name": "CHOCA",
+          "url": "https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172618,
+      "name": "\u00bfKHE SOMOS?",
+      "url": "https://open.spotify.com/track/2LNzSghlScx0qEDInydjip"
     },
     {
       "album": {

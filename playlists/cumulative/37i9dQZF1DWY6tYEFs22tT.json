@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Smiley & Drake, Cardi B, Central Cee, Offset, Lil Tecca and Gunna.",
+  "description": "Today's Hip-Hop with Offset, Don Toliver, Smiley, Cardi B, Central Cee and Lil Tecca.",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -9039,6 +9039,28 @@
     },
     {
       "album": {
+        "name": "For The Money",
+        "url": "https://open.spotify.com/album/05VBhCeUpyBpGLDUFR4iZT"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215524,
+      "name": "For The Money",
+      "url": "https://open.spotify.com/track/5G0GzyNU6VALmOenzBNtVA"
+    },
+    {
+      "album": {
         "name": "For You (feat. TaTa)",
         "url": "https://open.spotify.com/album/3xqrmsG6yWQ05ITnRvqBv6"
       },
@@ -9560,6 +9582,24 @@
       "duration_ms": 178723,
       "name": "FWG",
       "url": "https://open.spotify.com/track/1eoMcGLGEAeQUIjwEIytkq"
+    },
+    {
+      "album": {
+        "name": "FWU",
+        "url": "https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "FWU",
+      "url": "https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT"
     },
     {
       "album": {
@@ -17786,7 +17826,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 271840,
       "name": "NOT THE SAME - from the Short Film \"Red Clay\"",
       "url": "https://open.spotify.com/track/5YELnX75GMz61JEwW0uhTr"
@@ -22444,7 +22484,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 149960,
       "name": "SISTA WIVES - from the Short Film \"Red Clay\"",
       "url": "https://open.spotify.com/track/56R7kwzrKx7BhlwiLhoCph"

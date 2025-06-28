@@ -2,9 +2,9 @@
 
 ### [Beats & Rhymes](https://open.spotify.com/playlist/37i9dQZF1DXcA6dRp8rwj6)
 
-> The hottest Hip\-Hop of today all over the world\. \(Cover: Cardi B\)
+> The hottest Hip\-Hop of today all over the world\. \(Cover: Ramengvrl\)
 
-2,889 songs - 6 day 2 hr 0 min
+2,891 songs - 6 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -910,6 +910,7 @@
 | [FULLY LOADED \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/4wYVuGsXa4iPY8BYthBGWc) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [FULLY LOADED \(feat\. Future & Lil Baby\)](https://open.spotify.com/album/7HsrIHdui5hpCXIYQySKi6) | 2:55 | 2023-01-19 | 2023-03-18 |
 | [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 | 2025-01-17 | 2025-03-07 |
 | [FUXK \(feat\. Ski Mask the Slump God\)](https://open.spotify.com/track/2y55JzTDe2kFDChkBZUOUS) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:40 | 2022-06-09 | 2022-07-29 |
+| [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 | 2025-06-27 |  |
 | [FXCK UP THE WORLD \(feat\. Future\)](https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:04 | 2025-02-28 | 2025-04-25 |
 | [G Nikes \(feat\. Polo G\)](https://open.spotify.com/track/7asQMsxC6dNgY0inCzJC5O) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/4LDKeMhuzPUzekNfeWrzRl) | 3:14 | 2022-10-13 | 2022-11-18 |
 | [G.O.A.T\. \(feat\. Ty Dolla $ign & Bella Alubo\)](https://open.spotify.com/track/4rZcZXvtzdBbZOwlHSu79i) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [G.O.A.T\. \(feat\. Ty Dolla $ign & Bella Alubo\)](https://open.spotify.com/album/5UOp0bBjYYxnk1g36GHUKk) | 3:52 | 2022-05-19 | 2022-06-18 |
@@ -979,6 +980,7 @@
 | [Gone](https://open.spotify.com/track/37Deh2p4aLdEtQHXtm7AOE) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O) | [Just For You](https://open.spotify.com/album/5gl8AaOhNL60AcYk2JLEE3) | 2:35 | 2022-02-10 | 2022-03-11 |
 | [Gone 2024](https://open.spotify.com/track/1M1Y6qa5bZfefCGJVXQYfP) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Gone 2024](https://open.spotify.com/album/4UbZP8wPSkIq3rG8E5qalB) | 4:10 | 2024-12-19 | 2025-02-14 |
 | [Good Girl](https://open.spotify.com/track/7CFflcTpnR5RGtxnSHlMPk) | [Jerome Farah](https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw) | [Good Girl](https://open.spotify.com/album/15SbOZBDcS9JVtxaiOnpVd) | 3:52 | 2024-08-29 | 2024-10-25 |
+| [GOOD GIRL](https://open.spotify.com/track/39sWePYge6aUJ0SbxdtRlg) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [GOOD GIRL](https://open.spotify.com/album/3zyNlsDiR0lUdH8EbBgigi) | 2:53 | 2025-06-27 |  |
 | [Good Girls Ain't No Fun](https://open.spotify.com/track/0eVVwxPYBzVMFOGDUpaw2f) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Good Girls Ain't No Fun](https://open.spotify.com/album/2mcP7rL0a2kooZeNjax91u) | 2:22 | 2023-07-13 | 2023-09-01 |
 | [Good Intentions](https://open.spotify.com/track/29CGhjmcFBSC7D2zOwBNB5) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Good Intentions](https://open.spotify.com/album/3oEnNyKuyAZuKYoEAoX6YV) | 2:36 | 2024-01-05 | 2024-02-23 |
 | [Good Intentions](https://open.spotify.com/track/2aPiTZBy4easZFBOZVqHwy) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Turtle Crossing EP \(Extended Cut\)](https://open.spotify.com/album/7kPHyZrFWVJai5j2MR9Rp0) | 3:17 | 2022-07-21 | 2022-08-26 |
@@ -1081,7 +1083,7 @@
 | [Higher](https://open.spotify.com/track/69tm8DULyxtf6p7iR4JPv7) | [Jesicca Janess](https://open.spotify.com/artist/1RLL5Fvwxcw4WMBehYQHIL) | [Higher](https://open.spotify.com/album/6Q8YkF94mFLWN467K9425q) | 2:52 | 2023-05-25 | 2023-06-23 |
 | [Higher Quality](https://open.spotify.com/track/5AGHgVIGMXGGpcP9yy3Cwt) | [Sambal Snake](https://open.spotify.com/artist/2sfACHVFHsnFIdNEvqphji) | [Higher Quality](https://open.spotify.com/album/2UyRN2SvgJjb8zWX91dJbI) | 2:46 | 2024-10-17 | 2024-11-22 |
 | [HIGHJACK](https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [HIGHJACK](https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL) | 3:10 | 2024-08-01 | 2024-12-06 |
-| [HIGHJACK \(right back\)](https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HIGHJACK \(right back\)](https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ) | 2:41 | 2025-05-15 |  |
+| [HIGHJACK \(right back\)](https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HIGHJACK \(right back\)](https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ) | 2:41 | 2025-05-15 | 2025-06-28 |
 | [Highlife](https://open.spotify.com/track/5Tg9jKR0KWPD6zDXfej4fx) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Highlife](https://open.spotify.com/album/3ougtWVAzlkKT3hc1xajmy) | 2:38 | 2023-02-02 | 2023-03-25 |
 | [highs & lows](https://open.spotify.com/track/4EPErGy8uzaYuxdWPQKEIH) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [seiji oda](https://open.spotify.com/artist/02hku5R1SCUiTPydXMdKBp), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [highs & lows](https://open.spotify.com/album/4wVKt0ZjnLUiGICdjPbpyI) | 2:49 | 2025-04-10 | 2025-06-06 |
 | [HIM \(feat\. Big Boogie\)](https://open.spotify.com/track/39DG0y5aIV4DwtPjQcMSaP) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [HIM \(feat\. Big Boogie\)](https://open.spotify.com/album/3jIylx2aHp4FjezM9Cc4Ma) | 2:48 | 2025-01-24 | 2025-03-07 |

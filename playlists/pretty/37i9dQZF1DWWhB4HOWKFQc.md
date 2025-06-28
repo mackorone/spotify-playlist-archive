@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Assia Keva
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,436,969 likes - 97 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,437,310 likes - 97 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

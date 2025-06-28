@@ -8293,6 +8293,24 @@
     },
     {
       "album": {
+        "name": "Malin Ibland",
+        "url": "https://open.spotify.com/album/64DaMANKNe69HCNnKVYnCs"
+      },
+      "artists": [
+        {
+          "name": "Adam Olenius",
+          "url": "https://open.spotify.com/artist/5DQhpvhBgqdbDOojAxkIPO"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204674,
+      "name": "Malin Ibland",
+      "url": "https://open.spotify.com/track/4jk0D2kHkgaDz1NumkkMly"
+    },
+    {
+      "album": {
         "name": "Man",
         "url": "https://open.spotify.com/album/2jJmvh73sUtVkAmwOv8TWF"
       },

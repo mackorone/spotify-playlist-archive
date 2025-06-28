@@ -2,9 +2,9 @@
 
 ### [ALL ACCESS DANCE](https://open.spotify.com/playlist/2p24KuIbwho6IKwVb2VYiC)
 
-> The best Dance and EDM tracks right now!  Cover: Jazzy
+> The best Dance and EDM tracks right now!  Cover: Loud Luxury
 
-334 songs - 17 hr 28 min
+336 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Lioness](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Lioness](https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u) | 2:52 | 2024-06-07 |  |
 | [Lonely](https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL) | [Lonely](https://open.spotify.com/album/6qqa82E8e1qMK9mv3OZ6uj) | 2:45 | 2023-10-27 | 2025-02-04 |
 | [Look At My Body Pt\. II \(Feat\. Shygirl\) \(INJI's Version\)](https://open.spotify.com/track/48BrwE2MttRwOTKL2Ph2Pe) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Avedon](https://open.spotify.com/artist/0wrXBaqXLjMAraipqAbPVY) | [Look At My Body Pt\. II \(Feat\. Shygirl\) \(INJI's Version\)](https://open.spotify.com/album/0XipBibG5KNqItsp4Q7sSA) | 2:57 | 2024-06-14 |  |
+| [Loosen Up](https://open.spotify.com/track/2jWZ9NZotZb2hN5obKx2FA) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Dawty](https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe), [Preston Harris](https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8) | [Loosen Up](https://open.spotify.com/album/0zVdQCWZh8j3FARvnNr6sZ) | 3:00 | 2025-06-27 |  |
 | [Lose Control](https://open.spotify.com/track/6xl52ErKTebAhTyH01MiE1) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [it's Franky baby!](https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9) | 2:36 | 2025-01-30 |  |
 | [Lose Control \- Mr\. Belt & Wezol Remix](https://open.spotify.com/track/17S6tWhuubeLz3rdIrx7Xs) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [Lose Control \(Mr\. Belt & Wezol Remix\)](https://open.spotify.com/album/6DiFzBG67jAXxHxIEFXvgf) | 2:40 | 2025-04-04 |  |
 | [Losing All Control](https://open.spotify.com/track/4H328s4cnrpxJF58a5DU7V) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Losing All Control](https://open.spotify.com/album/0BXMzWqnoxl3GmbmZtoX0r) | 3:06 | 2025-05-16 |  |
@@ -238,6 +239,7 @@
 | [Pose](https://open.spotify.com/track/5LBemsCrsGqsXSGYA8i2z6) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW) | [Salvation](https://open.spotify.com/album/34yu5063EpoaKKir1m0q9e) | 3:11 | 2023-10-27 | 2023-11-25 |
 | [Problems \- New Beat Order Remix](https://open.spotify.com/track/0ZixJ1wuQY8bmctfUNYFJT) | [Lyan Paris](https://open.spotify.com/artist/3KmJs3ery3PJQuQQ5FOllC), [New Beat Order](https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea) | [Problems \(New Beat Order Remix\)](https://open.spotify.com/album/383sjk8WRE7ks2wgEiutBU) | 2:16 | 2023-10-27 | 2023-11-25 |
 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 | 2023-10-27 | 2023-11-25 |
+| [R U DOWN?](https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [R U DOWN?](https://open.spotify.com/album/0U4SQdmsqFF9dEeX2lzqKd) | 2:19 | 2025-06-27 |  |
 | [Rainy \(with REI AMI\)](https://open.spotify.com/track/4feAKLuq3ShnAA84HcUFvf) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [This Mixtape is Fire TOO](https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD) | 2:44 | 2023-12-01 | 2025-02-05 |
 | [Ray Of Solar \- Tiësto Remix](https://open.spotify.com/track/4HfQpalNYBccGOio2lqFbW) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Ray Of Solar \(Tiësto Remix\)](https://open.spotify.com/album/2wu3YZ0c80fgq9IcKhyDHH) | 3:35 | 2023-10-27 | 2025-01-22 |
 | [Ready For Myself](https://open.spotify.com/track/5XOa0uzTTXrjecACgakZEJ) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [7](https://open.spotify.com/album/1XKSDBtyNbaTaScDRGh4nm) | 3:03 | 2024-09-20 |  |

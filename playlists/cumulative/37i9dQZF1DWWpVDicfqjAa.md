@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-358 songs - 22 hr 6 min
+359 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [dashstar\*](https://open.spotify.com/track/0dAfw35k2hBsnbSl74AVJF) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [dashstar\*](https://open.spotify.com/album/3AQFV0Eye3fdkpPHODbxlG) | 3:18 | 2023-08-03 | 2023-08-31 |
 | [Deep Space](https://open.spotify.com/track/3cawIjrVTGtkC5LOZpzriJ) | [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ) | [Deep Space](https://open.spotify.com/album/0eYxRzlzOOoG8c0RWI15LD) | 3:53 | 2023-02-17 | 2023-03-09 |
 | [DEEPFAKE](https://open.spotify.com/track/67CSegLhAnL2RHPOnaakRs) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf) | [DEEPFAKE](https://open.spotify.com/album/1nDCAZDIObiigIXZVE82nn) | 2:46 | 2023-06-29 | 2023-07-14 |
+| [DELIRIOUS GIRL](https://open.spotify.com/track/6zVauAZeTGXEzEsy22YSXf) | [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [DELIRIOUS GIRL](https://open.spotify.com/album/3AvrKoagdusYf4uT697WDp) | 2:50 | 2025-06-27 |  |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-09-08 | 2023-02-10 |
 | [Don't Hit My Line](https://open.spotify.com/track/1ydVJBv3N3MHIkOYtuNsT7) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Don't Hit My Line](https://open.spotify.com/album/4kcvM6m4TvHuLN27Nvme8Y) | 3:39 | 2022-09-08 | 2023-04-09 |
 | [Dooya](https://open.spotify.com/track/4bq24ZLLTCaDvrH06lqUwV) | [Abana](https://open.spotify.com/artist/50IriuukwhBFpJS9WOk2a1) | [Dooya](https://open.spotify.com/album/0h4wJKpvvC4oaGHHEcKg74) | 6:27 | 2023-04-07 | 2023-06-03 |

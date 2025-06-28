@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Vincent Lima
 
-511 songs - 1 day 4 hr 56 min
+513 songs - 1 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Bad Blood](https://open.spotify.com/track/0TDji9s4SDqN0CldK1bBU1) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Bad Blood](https://open.spotify.com/album/1UGw8OmeHw7FbiOEekbGlz) | 2:45 | 2023-03-31 | 2024-01-20 |
 | [baggy t\-shirt](https://open.spotify.com/track/6P6y5Sn1hqBiGK8dfhuDjK) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [baggy t\-shirt](https://open.spotify.com/album/263pkWunlv7F0dd5uh5saT) | 3:33 | 2024-08-23 | 2024-11-23 |
 | [Be Here Now](https://open.spotify.com/track/1ZEEd0xgeZIW82fuzmJfJ2) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [The Art of Letting Go](https://open.spotify.com/album/449CV10TloVGhBv9NfwFTD) | 3:00 | 2023-03-24 | 2023-04-24 |
+| [Beautiful As You](https://open.spotify.com/track/0P51oa45K7TjmI6aYefQ2U) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Beautiful As You](https://open.spotify.com/album/2nZVHXjBBYe1l70f1O6AHT) | 3:23 | 2025-06-27 |  |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-01-19 | 2024-03-30 |
 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 | 2024-02-16 | 2024-06-01 |
 | [Being Together](https://open.spotify.com/track/75VX0bpv1hmUMvnGc3nQc4) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Being Together](https://open.spotify.com/album/3dek4SEQdJcTu9HHS6lw5E) | 3:28 | 2021-11-12 | 2022-07-27 |
@@ -127,6 +128,7 @@
 | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U) | 4:07 | 2025-03-28 |  |
 | [Don't Say](https://open.spotify.com/track/2kCQe2koRNHNdOtOxyKhaO) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Don't Say](https://open.spotify.com/album/5H8Bt6wNnU0DvxVybUQI5k) | 3:21 | 2021-11-12 | 2022-07-29 |
 | [Don't Say](https://open.spotify.com/track/41bZyIzMjq7wx5JxJbc0Dl) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Don't Say](https://open.spotify.com/album/5zjEdsCxqIh5e3q3yPSbl3) | 3:24 | 2022-08-19 | 2022-11-14 |
+| [DON'T WANNA GO HOME](https://open.spotify.com/track/3ZuIruaanYV4SRdVM9cLUM) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [DON'T WANNA GO HOME](https://open.spotify.com/album/1u0pRqkVrTwSnOVXBZV0dg) | 2:13 | 2025-06-27 |  |
 | [dopamine](https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [dopamine](https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx) | 2:38 | 2023-10-13 | 2025-01-18 |
 | [Doppelgänger](https://open.spotify.com/track/1q9jh0Ov1tk9aaxFVaYzkC) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Doppelgänger](https://open.spotify.com/album/4teZN2PzvrzgLyQ41rO3OH) | 2:52 | 2023-04-14 | 2023-09-23 |
 | [Dreamer](https://open.spotify.com/track/3Q8paSvq4CgMeIcIqu9Dlo) | [Beau](https://open.spotify.com/artist/2Mm2NXLhda25RQLyaZyUJU) | [Dreamer](https://open.spotify.com/album/2ZoHkOe9n2Ix14B3jwo4KR) | 3:26 | 2022-02-21 | 2022-07-15 |

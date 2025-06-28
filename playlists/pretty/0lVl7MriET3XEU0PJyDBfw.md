@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Only the best Tech House 🔥 Find the mix series on SoundCloud —&gt; Bassline Therapy Radio
 
-[Bassline Therapy by Houseium](https://open.spotify.com/user/jayke0108) - 10,874 likes - 101 songs - 5 hr 17 min
+[Bassline Therapy by Houseium](https://open.spotify.com/user/jayke0108) - 10,872 likes - 101 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

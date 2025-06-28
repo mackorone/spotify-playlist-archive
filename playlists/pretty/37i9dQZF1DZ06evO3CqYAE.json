@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 12944,
+  "num_followers": 12948,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFs8AAAAAAAP7vQUxX7LY4/gSvphNUPh",
+  "snapshot_id": "aFyNgAAAAADCQ6PKtf+P89C/XpH7igTr",
   "tracks": [
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Lover (Live)",
+        "url": "https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 435240,
+      "name": "My Lover (Live)",
+      "url": "https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Okemmuo (The Spirit of the Spirit)",
         "url": "https://open.spotify.com/album/2hPoJ6ylg4KRyaWV7Qa832"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 354986,
       "name": "Okemmuo (The Spirit of the Spirit)",
       "url": "https://open.spotify.com/track/2B5bl6TenrogNpxgdCIPTw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Lover (Live)",
-        "url": "https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 435240,
-      "name": "My Lover (Live)",
-      "url": "https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid"
     },
     {
       "added_at": null,
@@ -619,6 +619,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/473sA5uXcDEmZaiyehhnOR"
+      },
+      "artists": [
+        {
+          "name": "Samsong",
+          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 375563,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/4oaP5L5MMPyIjRKA7hr0ya"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oyoyo Chukwu",
         "url": "https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 317986,
       "name": "Oyoyo Chukwu",
       "url": "https://open.spotify.com/track/2M4NkEkDAevPkb3FD7iyOQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jesus",
-        "url": "https://open.spotify.com/album/473sA5uXcDEmZaiyehhnOR"
-      },
-      "artists": [
-        {
-          "name": "Samsong",
-          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 375563,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/4oaP5L5MMPyIjRKA7hr0ya"
     },
     {
       "added_at": null,

@@ -2323,6 +2323,32 @@
     },
     {
       "album": {
+        "name": "Come, Let Us Return To The Lord",
+        "url": "https://open.spotify.com/album/6gD8QuhSddzBBTe1S5ee2y"
+      },
+      "artists": [
+        {
+          "name": "Matt Boswell",
+          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
+        },
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        },
+        {
+          "name": "Matt Papa",
+          "url": "https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239050,
+      "name": "Come, Let Us Return To The Lord",
+      "url": "https://open.spotify.com/track/3Twot5pRnWM4SWPA6Vyeg9"
+    },
+    {
+      "album": {
         "name": "Coming Awake",
         "url": "https://open.spotify.com/album/0RhmEZXAUjVkLwWdcTqksh"
       },
@@ -5494,7 +5520,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 192599,
       "name": "How Many Times",
       "url": "https://open.spotify.com/track/6Uv5DJ5pC1NrJb1MofECsR"

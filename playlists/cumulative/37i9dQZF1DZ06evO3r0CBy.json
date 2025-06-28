@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Attacke",
+        "url": "https://open.spotify.com/album/1NTJot1TTlA1H3goKdzcrp"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2025-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230713,
+      "name": "Attacke",
+      "url": "https://open.spotify.com/track/45wHa5cP7fMRhA9iEtDBr9"
+    },
+    {
+      "album": {
         "name": "Searching For Sugar Man (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1"
       },

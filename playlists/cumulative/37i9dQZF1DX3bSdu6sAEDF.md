@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-419 songs - 23 hr 7 min
+421 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Can't Hide It](https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 3:19 | 2022-01-19 | 2023-04-22 |
 | [Can't Lose You](https://open.spotify.com/track/746mCHVj4hNNfMvKWSo26c) | [Charles Kelley](https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC) | [Can't Lose You / Here With Me](https://open.spotify.com/album/1WNCvqEMCcbLU2oVzQZkla) | 3:04 | 2025-03-28 | 2025-05-28 |
 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-01-27 | 2024-02-10 |
+| [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 | 2025-06-27 |  |
 | [Caroline](https://open.spotify.com/track/1GdITFFlxMEYAvW9zacIIg) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Caroline](https://open.spotify.com/album/00oJBmsYNe1Y9JQw3ft0nl) | 3:43 | 2023-07-07 | 2025-05-03 |
 | [Caroline](https://open.spotify.com/track/5HbMIVh2Knh6iSLEXkTyi2) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Subtitles for Feelings](https://open.spotify.com/album/4lYJrlAFhTpbGgZeXMBnJa) | 3:43 | 2023-09-04 | 2024-04-19 |
 | [Carry The World](https://open.spotify.com/track/47aYMkfVuokvbMWL8bxOd1) | [Augustana](https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7) | [Something Beautiful](https://open.spotify.com/album/0NiM7JW25zZ3mhQ8NPNGvF) | 3:26 | 2024-03-22 |  |
@@ -160,6 +161,7 @@
 | [Greenlight](https://open.spotify.com/track/4jyOa6KwKYS0UrILssYhl4) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Greenlight](https://open.spotify.com/album/1KmqDc5fsvkcXDvMY829Iy) | 2:53 | 2023-05-26 | 2023-11-11 |
 | [Grow](https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:00 | 2022-01-21 | 2023-04-22 |
 | [Grow](https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ) | 3:00 | 2022-01-19 | 2022-07-24 |
+| [Gut Feelings](https://open.spotify.com/track/3ywowXgaDXWyYt9S9w9fXI) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Gut Feelings](https://open.spotify.com/album/4qCCYyhWUZPvHS8XfnQayK) | 3:24 | 2025-06-27 |  |
 | [Hands Up To The Sky](https://open.spotify.com/track/0WExP6ei2lDqW6WDPlfYOq) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Hands Up To The Sky](https://open.spotify.com/album/6zIEU67gUCnGZ9yYQW9tL6) | 3:24 | 2023-09-22 | 2024-02-24 |
 | [Happening Again](https://open.spotify.com/track/0AHKkQET4CwFDD2TXQi7Tc) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Happening Again](https://open.spotify.com/album/1a5EdAP8QdSVwIhYYiF2G4) | 2:53 | 2022-09-09 | 2022-09-17 |
 | [Happening Again](https://open.spotify.com/track/5Rx6U54oaGNEZ8eVy3VLK7) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Happening Again](https://open.spotify.com/album/4rhBziAYIg4EBJ8bO2mTwr) | 2:53 | 2022-09-16 | 2023-04-22 |
@@ -245,7 +247,7 @@
 | [Love Myself](https://open.spotify.com/track/4o4MwnE4OK3JNG4lCYFnwm) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Love Myself](https://open.spotify.com/album/3dWKxlG74AkudyddirBxuF) | 3:07 | 2022-01-19 | 2023-04-22 |
 | [Love on the Side](https://open.spotify.com/track/1R6mnS40siUbvImKAjJAw9) | [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Love on the Side](https://open.spotify.com/album/48hn8wP1pcy5YLtPgKciPM) | 2:33 | 2022-04-01 | 2023-06-24 |
 | [Love on the Side](https://open.spotify.com/track/442gGJvRUQaUzl36zTNWEU) | [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Love on the Side](https://open.spotify.com/album/2FiykGkODZ3zt7tDckKA8o) | 2:33 | 2022-03-25 | 2022-07-28 |
-| [Love Somebody Again](https://open.spotify.com/track/5oMEctLBPeeRe1VvYiN8xP) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Love Somebody Again](https://open.spotify.com/album/4t3bg4GQxROjqTbZ7OYlo5) | 2:58 | 2023-09-29 |  |
+| [Love Somebody Again](https://open.spotify.com/track/5oMEctLBPeeRe1VvYiN8xP) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Love Somebody Again](https://open.spotify.com/album/4t3bg4GQxROjqTbZ7OYlo5) | 2:58 | 2023-09-29 | 2025-06-28 |
 | [Love You When You’re Gone](https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2) | 3:04 | 2022-07-01 | 2022-07-31 |
 | [Love You When You’re Gone](https://open.spotify.com/track/54liA2Xwyb7ZCrh9sDGQ3B) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/3DtAEhLFoQSftobryAhftd) | 3:04 | 2022-07-08 | 2023-04-22 |
 | [Loved by You](https://open.spotify.com/track/0Peh9vSnImMMTznniOJcsj) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Loved by You](https://open.spotify.com/album/5LGyz3M8d6DagYhVCv2xzj) | 4:16 | 2021-08-05 | 2022-01-20 |
@@ -331,7 +333,7 @@
 | [self sabotage](https://open.spotify.com/track/1B7WWtKiz2LU85t9tL8x5v) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:40 | 2022-05-06 | 2024-02-03 |
 | [self sabotage](https://open.spotify.com/track/7A2TOQVHBgIiqmhtP0yC0L) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [self sabotage](https://open.spotify.com/album/4xKRxemLXX5dxv5dRlZu85) | 3:40 | 2022-04-29 | 2022-07-27 |
 | [September](https://open.spotify.com/track/5DTBPQRHrBOnvzIF5XLBPq) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:40 | 2022-01-19 | 2025-02-22 |
-| [September](https://open.spotify.com/track/4tzUX6dYhN6CPRaO7wF4c9) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Big Red](https://open.spotify.com/album/1C8XiXbac4G7EoCSIsCpYG) | 3:24 | 2023-10-13 |  |
+| [September](https://open.spotify.com/track/4tzUX6dYhN6CPRaO7wF4c9) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Big Red](https://open.spotify.com/album/1C8XiXbac4G7EoCSIsCpYG) | 3:24 | 2023-10-13 | 2025-06-28 |
 | [Shaky Bridges](https://open.spotify.com/track/2iDu5rmcBZwd70LBGbKWUm) | [Sean McConnell](https://open.spotify.com/artist/42N7nSYb8pRmVpBpkLSHVC), [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq) | [Secondhand Smoke](https://open.spotify.com/album/70G1nUwFugH5eW2WuKWwvW) | 3:28 | 2021-08-05 | 2022-01-20 |
 | [SHE SAID HE SAID SHE SAID](https://open.spotify.com/track/61SwOvGpjoANrBOVgBZvMi) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [SHE SAID HE SAID SHE SAID](https://open.spotify.com/album/0A1JBqEiwmsyxnCqgH4axf) | 2:37 | 2022-10-14 | 2024-07-13 |
 | [She's Not You](https://open.spotify.com/track/6zkwvT8jjhtrTxNuebFgfz) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She’s Not You](https://open.spotify.com/album/5G2gwyWYBDnOeh7BT3cj3j) | 3:07 | 2022-07-22 | 2023-04-22 |

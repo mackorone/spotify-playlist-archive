@@ -4,7 +4,7 @@
 
 > Ny musikk fra Gabby, Bausa, Golfklubb og mange flere!🎵
 
-6,315 songs - 13 day 13 hr 34 min
+6,317 songs - 13 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1594,7 +1594,7 @@
 | [En Som Du Hater](https://open.spotify.com/track/3ImFCRh58NnEjKBpycC6KG) | [Coucheron](https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [Problembarn](https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx) | [En Som Du Hater](https://open.spotify.com/album/2suQwyJ5lWSVOIoerT3pAG) | 2:22 | 2024-06-13 | 2024-06-21 |
 | [En sommer er over](https://open.spotify.com/track/2nrZLfj0SzIedcfgQwJInS) | [Klovner I Kamp](https://open.spotify.com/artist/4CSD8L9KIPNIYFaUQPgENh) | [Bjølsen Solreiser](https://open.spotify.com/album/10ma24Ioeu98lx629yUoa4) | 3:41 | 2024-06-27 | 2024-07-05 |
 | [En stjerne skinner i natt](https://open.spotify.com/track/2IRqZ7br71fQXUzGMtWOeC) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Emmas jul](https://open.spotify.com/album/00Kbu5e5FnlEJLKWtnNbxc) | 3:20 | 2024-11-21 | 2024-11-29 |
-| [En Vakker Dag](https://open.spotify.com/track/12WCXm97BfsVbOgYFKnjo8) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [En Vakker Dag](https://open.spotify.com/album/3LxZplqK7TmHspbpOuQlPB) | 2:30 | 2025-06-26 |  |
+| [En Vakker Dag](https://open.spotify.com/track/12WCXm97BfsVbOgYFKnjo8) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [En Vakker Dag](https://open.spotify.com/album/3LxZplqK7TmHspbpOuQlPB) | 2:27 | 2025-06-26 |  |
 | [En vakker himmel](https://open.spotify.com/track/6LlTEWYMRoR4Q2CjEwAGlj) | [Agabas](https://open.spotify.com/artist/6D2bFMb10UAkoO5z75RzOU) | [En vakker himmel](https://open.spotify.com/album/3sUFYqzgi9yWVhabOvM6tJ) | 3:41 | 2025-04-24 | 2025-05-02 |
 | [Enamorá](https://open.spotify.com/track/41CxuAJOOnpWZeWOAtCg0G) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n), [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [Enamorá](https://open.spotify.com/album/70Rb9d3ty7Fg6PEU9TNjyl) | 2:52 | 2025-03-13 | 2025-03-21 |
 | [Enchanté](https://open.spotify.com/track/66vfNUxzjkBu4O9fq1rRCW) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Enchanté](https://open.spotify.com/album/0SR2RaR4C3zlQ4TilhIfr0) | 2:55 | 2024-05-16 | 2024-05-24 |
@@ -2969,6 +2969,7 @@
 | [Invincible \- from Kaiju No\. 8](https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Invincible \(from Kaiju No\. 8\)](https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p) | 2:35 | 2025-04-17 | 2025-04-25 |
 | [INYOURARMS!](https://open.spotify.com/track/3WFeRceUuFQzterRBOvpAv) | [REX WARREN](https://open.spotify.com/artist/4Iahk5PjiGCjwxg7kSNWjU) | [INYOURARMS!](https://open.spotify.com/album/3k3wRH3fljeyYSeXsxSVjK) | 3:41 | 2025-03-13 | 2025-03-21 |
 | [Irish Goodbye](https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Irish Goodbye](https://open.spotify.com/album/0YdG7xCYQSk8nvVQi0MgQG) | 2:19 | 2024-07-26 | 2024-08-02 |
+| [IRL \(FEAT\. SZA\)](https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:44 | 2025-06-26 |  |
 | [Is I Magen](https://open.spotify.com/track/0t8LYYKLiC4atS3wXA6Yl8) | [Kløverr](https://open.spotify.com/artist/5qkTrW1lkAENJMZ0QlNUSx) | [Is I Magen](https://open.spotify.com/album/3nbWd4wNuDStKiGkD8MqQV) | 3:04 | 2025-01-30 | 2025-02-07 |
 | [Is it a Crime?](https://open.spotify.com/track/7xSHbxyntE0RRVyTuFOgFL) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:20 | 2025-04-10 | 2025-04-18 |
 | [Is it a Crime?](https://open.spotify.com/track/6rpctcdfXgkguh2nr3Htby) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Is it a Crime?](https://open.spotify.com/album/5oAULNPMLHj0FHSpNaQ8bc) | 3:20 | 2024-06-20 | 2024-06-28 |
@@ -4170,6 +4171,7 @@
 | [On And On](https://open.spotify.com/track/3yGvuM7ZiPgjGbicd90rty) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [On And On](https://open.spotify.com/album/1smjM1eRoFGGHWJjtq4hrO) | 2:26 | 2024-12-19 | 2025-01-03 |
 | [On and On and On](https://open.spotify.com/track/7aLXAoR6RB5qQmBRvKE2kO) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [On and On and On](https://open.spotify.com/album/5WVwKAUf52Lo1QxZLOYTFj) | 2:59 | 2025-02-06 | 2025-02-14 |
 | [On It](https://open.spotify.com/track/5FNJR4YcgpNgQXjLTktubu) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Ung & Dum](https://open.spotify.com/album/0aibQYq60BClz1s2jmDTHx) | 2:27 | 2024-04-26 | 2024-05-03 |
+| [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 | 2025-06-26 |  |
 | [On My Mind](https://open.spotify.com/track/22HjdtParlfk6p92fqD9BU) | [Annprincess](https://open.spotify.com/artist/6MrPobsNqFgFJjyRkMEU2j) | [On My Mind](https://open.spotify.com/album/00HwKf3OgB45fqxXKWEJXi) | 2:40 | 2024-11-14 | 2024-11-22 |
 | [On My Mind](https://open.spotify.com/track/0VxawdFFzxm7usnnOEKfpd) | [Jörgen](https://open.spotify.com/artist/73Wx53eXdgFpipAJJ5PJPo) | [On My Mind](https://open.spotify.com/album/1fxihx6FJNn3bnYdGmCTOi) | 3:13 | 2024-05-09 | 2024-05-17 |
 | [On My Mind \(Sam Feldt Edit\)](https://open.spotify.com/track/4DMogv1TGfObGQvzcLx4AQ) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [On My Mind \(Sam Feldt Edit\)](https://open.spotify.com/album/6ORrzzdeD5tXVP5eODmOTs) | 2:40 | 2024-12-13 | 2024-12-20 |

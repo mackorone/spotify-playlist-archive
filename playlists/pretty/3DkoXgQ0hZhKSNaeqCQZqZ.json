@@ -1,13 +1,49 @@
 {
   "description": "All songs made for furs, by furs.  Check top 25 @ spotify.furrest.net",
-  "num_followers": 599,
+  "num_followers": 600,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADn2OIa4QDCMKqukotQK3xCtBMOOYn",
+  "snapshot_id": "AAADo55QySCwtc2P7UGwm17etiWAWLyy",
   "tracks": [
+    {
+      "added_at": "2025-06-27 16:40:47",
+      "album": {
+        "name": "better start",
+        "url": "https://open.spotify.com/album/1oJ8AewB8GXp2tsWobDWQg"
+      },
+      "artists": [
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        },
+        {
+          "name": "chattybaxi",
+          "url": "https://open.spotify.com/artist/5bpBEpapbvKC10RUCJWESj"
+        }
+      ],
+      "duration_ms": 109649,
+      "name": "better start",
+      "url": "https://open.spotify.com/track/7xrtCfV4DSNoznwpxT3QrX"
+    },
+    {
+      "added_at": "2025-06-27 04:23:04",
+      "album": {
+        "name": "ONLY US, NEVER THEM",
+        "url": "https://open.spotify.com/album/78el29q9QSnJThg9k5NKfY"
+      },
+      "artists": [
+        {
+          "name": "Jaylaflame",
+          "url": "https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "lil boy",
+      "url": "https://open.spotify.com/track/3SjZZQa6pY3IuZZSCvL6lF"
+    },
     {
       "added_at": "2025-06-27 03:27:02",
       "album": {
@@ -1355,22 +1391,6 @@
     {
       "added_at": "2025-01-25 02:26:36",
       "album": {
-        "name": "ONLY US, NEVER THEM",
-        "url": "https://open.spotify.com/album/78el29q9QSnJThg9k5NKfY"
-      },
-      "artists": [
-        {
-          "name": "Jaylaflame",
-          "url": "https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "lil boy",
-      "url": "https://open.spotify.com/track/3SjZZQa6pY3IuZZSCvL6lF"
-    },
-    {
-      "added_at": "2025-01-25 02:26:36",
-      "album": {
         "name": "Robin Hood",
         "url": "https://open.spotify.com/album/5lx5UeqilTSBCzoPh6v87E"
       },
@@ -2379,22 +2399,6 @@
       "duration_ms": 144905,
       "name": "Drivin' To The Moonlight",
       "url": "https://open.spotify.com/track/49y72iLboKC9BOz3Jxnebd"
-    },
-    {
-      "added_at": "2023-06-14 17:36:01",
-      "album": {
-        "name": "Hashtag",
-        "url": "https://open.spotify.com/album/0x801nLyzQxGEAgvw4MriO"
-      },
-      "artists": [
-        {
-          "name": "Foxes and Peppers",
-          "url": "https://open.spotify.com/artist/4cfifmTcqEAYSTjNAbIjzg"
-        }
-      ],
-      "duration_ms": 227491,
-      "name": "Suit Up",
-      "url": "https://open.spotify.com/track/6kPDlvZumydH3olPfOEQ0s"
     },
     {
       "added_at": "2023-08-07 19:35:20",

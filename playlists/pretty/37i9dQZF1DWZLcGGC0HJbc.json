@@ -1,6 +1,6 @@
 {
   "description": "als het woud een playlist zou zijn",
-  "num_followers": 96094,
+  "num_followers": 96093,
   "original_name": "indie folk vibes",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-06-26 22:00:18",
       "album": {
+        "name": "Moth Song",
+        "url": "https://open.spotify.com/album/15tDiSE6EpMxDxUDkRXKwN"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "duration_ms": 303902,
+      "name": "Moth Song",
+      "url": "https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6"
+    },
+    {
+      "added_at": "2025-06-26 22:00:18",
+      "album": {
         "name": "Lovesongs",
         "url": "https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi"
       },
@@ -707,6 +723,22 @@
     {
       "added_at": "2025-06-26 22:00:18",
       "album": {
+        "name": "Hannah",
+        "url": "https://open.spotify.com/album/3yHkuUrp4IAmAw9cOyxUTx"
+      },
+      "artists": [
+        {
+          "name": "Sam Vano",
+          "url": "https://open.spotify.com/artist/7pGC4cTs6vBSWgWDnf5To5"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "Hannah",
+      "url": "https://open.spotify.com/track/4KDXqzH0LeL0LtzfNe1kAC"
+    },
+    {
+      "added_at": "2025-06-26 22:00:18",
+      "album": {
         "name": "Happy, Pt. 2",
         "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
       },
@@ -723,18 +755,18 @@
     {
       "added_at": "2025-06-26 22:00:18",
       "album": {
-        "name": "Hannah",
-        "url": "https://open.spotify.com/album/3yHkuUrp4IAmAw9cOyxUTx"
+        "name": "Come with Me and Hide",
+        "url": "https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY"
       },
       "artists": [
         {
-          "name": "Sam Vano",
-          "url": "https://open.spotify.com/artist/7pGC4cTs6vBSWgWDnf5To5"
+          "name": "Mooneye",
+          "url": "https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL"
         }
       ],
-      "duration_ms": 214533,
-      "name": "Hannah",
-      "url": "https://open.spotify.com/track/4KDXqzH0LeL0LtzfNe1kAC"
+      "duration_ms": 238786,
+      "name": "Too Fast",
+      "url": "https://open.spotify.com/track/68doYcCRB3BeHpVYwQcEDk"
     },
     {
       "added_at": "2025-06-26 22:00:18",
@@ -775,22 +807,6 @@
     {
       "added_at": "2025-06-26 22:00:18",
       "album": {
-        "name": "Come with Me and Hide",
-        "url": "https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY"
-      },
-      "artists": [
-        {
-          "name": "Mooneye",
-          "url": "https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL"
-        }
-      ],
-      "duration_ms": 238786,
-      "name": "Too Fast",
-      "url": "https://open.spotify.com/track/68doYcCRB3BeHpVYwQcEDk"
-    },
-    {
-      "added_at": "2025-06-26 22:00:18",
-      "album": {
         "name": "How Do We Go Back To Being Normal?",
         "url": "https://open.spotify.com/album/7t77eQdswzlXeKdAhIeJFg"
       },
@@ -803,30 +819,6 @@
       "duration_ms": 182987,
       "name": "Thoughtless Man",
       "url": "https://open.spotify.com/track/2XHr4X6ykkZmv2dhK94hJd"
-    },
-    {
-      "added_at": "2025-06-26 22:00:18",
-      "album": {
-        "name": "Yvonne",
-        "url": "https://open.spotify.com/album/3pFLJO0siLPq3r89fuJVk7"
-      },
-      "artists": [
-        {
-          "name": "Foxwarren",
-          "url": "https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV"
-        },
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        },
-        {
-          "name": "Darryl Kissick",
-          "url": "https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc"
-        }
-      ],
-      "duration_ms": 132801,
-      "name": "Yvonne",
-      "url": "https://open.spotify.com/track/4fPaBqB8bWftagOHy2xtDF"
     }
   ],
   "unique_name": "indie folk vibes",

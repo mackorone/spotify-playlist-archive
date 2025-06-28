@@ -4,7 +4,7 @@
 
 > There's a new way to be wicked\. Listen to all the music from Descendants, including Descendants: The Rise of Red, streaming on Disney+.
 
-78 songs - 3 hr 46 min
+79 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [What's My Name \(Red Version\) \- From "Descendants: The Rise of Red"/Soundtrack Version](https://open.spotify.com/track/1duJTDSFuK3sB0NwNr0QRg) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV), [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [What's My Name \(Red Version\) \[From "Descendants: The Rise of Red"/Soundtrack Version\]](https://open.spotify.com/album/2UGytdqtYVoyPeBa5UTP7u) | 2:26 | 2024-04-26 |  |
 | [What's My Name \- Dance Remix](https://open.spotify.com/track/560bh4tnDuZHCyJ3HbMzq3) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [ZaZa](https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn) | [Descendants Remix Dance Party](https://open.spotify.com/album/5FW26J4KeTl9pA37F6ya1R) | 3:24 | 2021-11-08 |  |
 | [What's My Name \- Instrumental](https://open.spotify.com/track/3vjefeCdg7wuckiSZcs2KJ) | [Descendants 2 Karaoke](https://open.spotify.com/artist/5zKp1et83bzzUCQSHfjvat) | [Disney Karaoke Series: Descendants 2](https://open.spotify.com/album/2bY8DXk3EALgjkNepELoSD) | 3:08 | 2021-11-08 |  |
+| [Worlds Collide \- From "Disney Descendants/ZOMBIES: Worlds Collide Tour"](https://open.spotify.com/track/4RcGxhH6ZSLFMtUny7tcPu) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn), [Malia Baker](https://open.spotify.com/artist/4ALl3aeHX63UVQheaHFdPq), [Malachi Barton](https://open.spotify.com/artist/3fknxSm9gKHsiN2C6lcRme), [Joshua Colley](https://open.spotify.com/artist/4PDGt9weHkPqUdaBqrGzOD), [Mekonnen Knife](https://open.spotify.com/artist/69y5psIxwqMrSRyQRShsBG), [Dara Reneé](https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s) | [Worlds Collide \(From "Disney Descendants/ZOMBIES: Worlds Collide Tour"\)](https://open.spotify.com/album/4Sjfn6Mkpdw1SOEKSB7Itr) | 3:13 | 2025-06-27 |  |
 | [You and Me](https://open.spotify.com/track/5AiD2doxfh5xlfkNc63WPV) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [Cameron Boyce](https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH), [Booboo Stewart](https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ), [Mitchell Hope](https://open.spotify.com/artist/2uTXJwJ1Q9PA2ji51RWeQm), [Jeff Lewis](https://open.spotify.com/artist/4JDI31jWR7BBBBzw9kmu7Z), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants 2 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI) | 3:32 | 2021-11-08 |  |
 
 \*This playlist was first scraped on 2024-03-11. Prior content cannot be recovered.

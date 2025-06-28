@@ -4,7 +4,7 @@
 
 > All songs made for furs, by furs\.  Check top 25 @ spotify.furrest.net
 
-354 songs - 18 hr 40 min
+355 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Ayleeyuns](https://open.spotify.com/track/13oIzlPIENDOkJaFU7H7Bx) | [Scratch21](https://open.spotify.com/artist/3WCGPWxaTtnBgGQj4w7LEW) | [Ayleeyuns](https://open.spotify.com/album/52JfrqP4UKV7nqh1qyVqm5) | 4:08 | 2024-03-31 |  |
 | [b\-b\-BASS DOWN LOW](https://open.spotify.com/track/4i9kCaqvah5JzOLoNeA2Br) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RAVEPOP](https://open.spotify.com/album/1mLzn3i4NwDW4cOg2wJsig) | 2:18 | 2025-04-14 |  |
 | [Best friend](https://open.spotify.com/track/3GuAaedm9h7AtcDfZY3ymI) | [Studi01](https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3), [Dangwoo](https://open.spotify.com/artist/1I1fniaM5aQpdPmWZq0hWv), [Kruyo](https://open.spotify.com/artist/5iUiHeYlymptgOr8hdFHwe), [Chase](https://open.spotify.com/artist/4eIQ6kXx8kwoW4ykKQ3nNI), [Cross](https://open.spotify.com/artist/75hD2nouxnATI5mcNqoHpT), [Coolman](https://open.spotify.com/artist/7HXmQqlhwWd4kHlAg0A9cD), [Niloc](https://open.spotify.com/artist/2VDjNNL97uqtKSSWXlJUSS) | [Best friend](https://open.spotify.com/album/25US1PpTgszREgddFdqMoU) | 3:30 | 2024-03-25 |  |
+| [better start](https://open.spotify.com/track/7xrtCfV4DSNoznwpxT3QrX) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2), [chattybaxi](https://open.spotify.com/artist/5bpBEpapbvKC10RUCJWESj) | [better start](https://open.spotify.com/album/1oJ8AewB8GXp2tsWobDWQg) | 1:49 | 2025-06-27 |  |
 | [Big Balls](https://open.spotify.com/track/11xlPlEzy8pKKuQEAJpyzb) | [Scratch21](https://open.spotify.com/artist/3WCGPWxaTtnBgGQj4w7LEW) | [Big Balls](https://open.spotify.com/album/0cmu1siHEV3cLivD7qw0iV) | 2:39 | 2023-06-14 |  |
 | [Blood // Water](https://open.spotify.com/track/4AyS2onxBbtArFwc6lXCTt) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ) | [Songs From A Broken Mind](https://open.spotify.com/album/7I7NrdgIIqrol4fyBMOr0A) | 3:28 | 2023-06-14 |  |
 | [Blue Bird](https://open.spotify.com/track/1p22iYZzkbVdjKhVjWPnNk) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Moka](https://open.spotify.com/artist/4W6v3SkHwSbsdCkJrzQLXl), [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Blue Bird](https://open.spotify.com/album/1KouYdQgreczfMEKX3gotS) | 4:01 | 2024-10-21 |  |
@@ -310,7 +311,7 @@
 | [Stranded](https://open.spotify.com/track/2Fp950faiPewSg3cyRSk8u) | [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs) | [Stranded](https://open.spotify.com/album/7sByh9eDixb9KBnzhcx9oh) | 3:24 | 2024-11-25 |  |
 | [Streetlight By Streetlight](https://open.spotify.com/track/7nns2Zg9w0wuFbnYZiFEHC) | [This Is The Glasshouse](https://open.spotify.com/artist/090FV8x5cK3p3WwKnQXyFk) | [867](https://open.spotify.com/album/58Llb22QYZsh84c79agEnc) | 5:36 | 2024-11-18 |  |
 | [Suicider](https://open.spotify.com/track/2MuM98vRKQZYd0ktRXiQ82) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Suicider](https://open.spotify.com/album/5EU2NsknWKLhEVlmrtTw8D) | 3:31 | 2023-09-02 |  |
-| [Suit Up](https://open.spotify.com/track/6kPDlvZumydH3olPfOEQ0s) | [Foxes and Peppers](https://open.spotify.com/artist/4cfifmTcqEAYSTjNAbIjzg) | [Hashtag](https://open.spotify.com/album/0x801nLyzQxGEAgvw4MriO) | 3:47 | 2023-06-14 |  |
+| [Suit Up](https://open.spotify.com/track/6kPDlvZumydH3olPfOEQ0s) | [Foxes and Peppers](https://open.spotify.com/artist/4cfifmTcqEAYSTjNAbIjzg) | [Hashtag](https://open.spotify.com/album/0x801nLyzQxGEAgvw4MriO) | 3:47 | 2023-06-14 | 2025-06-28 |
 | [suitetalk!](https://open.spotify.com/track/0YtthJQGl0amJb1snucEYm) | [RSKO](https://open.spotify.com/artist/7lNGd5TEYiVK5aIJQalVEv) | [garaje.v.2](https://open.spotify.com/album/4MJcxzMKLHo9TksxbwA2gj) | 3:08 | 2025-04-28 |  |
 | [Sun Spots](https://open.spotify.com/track/45c7BYsCMQ41jafFpcyAkg) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Sun Spots](https://open.spotify.com/album/2sYtxp26iKO2lG88ivhbL7) | 4:52 | 2025-02-09 |  |
 | [System Error](https://open.spotify.com/track/6Hj845K5h4w6RxXxxVlTsm) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Moka](https://open.spotify.com/artist/4W6v3SkHwSbsdCkJrzQLXl) | [System Error](https://open.spotify.com/album/3dTOYU6oN5Yt6zzuWUiMJB) | 5:06 | 2023-06-14 |  |

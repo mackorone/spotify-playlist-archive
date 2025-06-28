@@ -1,6 +1,6 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 227245,
+  "num_followers": 227410,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
@@ -353,6 +353,22 @@
       "url": "https://open.spotify.com/track/3Vdmlvo70yXOD0z2DSkHGJ"
     },
     {
+      "added_at": "2023-12-01 09:10:43",
+      "album": {
+        "name": "Forest Temple",
+        "url": "https://open.spotify.com/album/7Eq90GfM3AIlwQnrzCCOPR"
+      },
+      "artists": [
+        {
+          "name": "Sacred Dreams",
+          "url": "https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Forest Temple",
+      "url": "https://open.spotify.com/track/4wuuxCsLLcEqaZtof12vwt"
+    },
+    {
       "added_at": "2021-06-15 08:38:14",
       "album": {
         "name": "Harmonic Way",
@@ -377,20 +393,20 @@
       "url": "https://open.spotify.com/track/6HwWUWAb0LofLu9TmdlPen"
     },
     {
-      "added_at": "2023-12-01 09:10:43",
+      "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Forest Temple",
-        "url": "https://open.spotify.com/album/7Eq90GfM3AIlwQnrzCCOPR"
+        "name": "Savasana Yoga Music: Healing Guitar for Massage, Sleep and Yoga Nidra",
+        "url": "https://open.spotify.com/album/1bH7BSpVdLz36rQ8S3eGRn"
       },
       "artists": [
         {
-          "name": "Sacred Dreams",
-          "url": "https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc"
+          "name": "Stevin McNamara",
+          "url": "https://open.spotify.com/artist/3n25Lt7Pj891H5zFEywMX8"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Forest Temple",
-      "url": "https://open.spotify.com/track/4wuuxCsLLcEqaZtof12vwt"
+      "duration_ms": 345319,
+      "name": "Savasana Sunrise - Dawn Flow",
+      "url": "https://open.spotify.com/track/2dzq1Q3e8ojTtuaB70DT9j"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -423,22 +439,6 @@
       "duration_ms": 179191,
       "name": "Dawn Dusk Divinity",
       "url": "https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Savasana Yoga Music: Healing Guitar for Massage, Sleep and Yoga Nidra",
-        "url": "https://open.spotify.com/album/1bH7BSpVdLz36rQ8S3eGRn"
-      },
-      "artists": [
-        {
-          "name": "Stevin McNamara",
-          "url": "https://open.spotify.com/artist/3n25Lt7Pj891H5zFEywMX8"
-        }
-      ],
-      "duration_ms": 345319,
-      "name": "Savasana Sunrise - Dawn Flow",
-      "url": "https://open.spotify.com/track/2dzq1Q3e8ojTtuaB70DT9j"
     },
     {
       "added_at": "2023-12-01 09:10:43",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Surya Namaskar",
-        "url": "https://open.spotify.com/album/5q2XF0v9j2MZ7vrZSKodoj"
-      },
-      "artists": [
-        {
-          "name": "Kai Franz",
-          "url": "https://open.spotify.com/artist/19EL2uHYTPD43sPYRrIZcE"
-        }
-      ],
-      "duration_ms": 918750,
-      "name": "Savasana",
-      "url": "https://open.spotify.com/track/3pAPQELNaNKGXRJZD7HZ50"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Long Long Sleep",
         "url": "https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 137854,
       "name": "Long Long Sleep",
       "url": "https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Surya Namaskar",
+        "url": "https://open.spotify.com/album/5q2XF0v9j2MZ7vrZSKodoj"
+      },
+      "artists": [
+        {
+          "name": "Kai Franz",
+          "url": "https://open.spotify.com/artist/19EL2uHYTPD43sPYRrIZcE"
+        }
+      ],
+      "duration_ms": 918750,
+      "name": "Savasana",
+      "url": "https://open.spotify.com/track/3pAPQELNaNKGXRJZD7HZ50"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -799,6 +799,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Bedside Angels",
+        "url": "https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Stills",
+          "url": "https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r"
+        }
+      ],
+      "duration_ms": 134504,
+      "name": "Bedside Angels",
+      "url": "https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Endless Meditation",
         "url": "https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 163684,
       "name": "Endless Sleep",
       "url": "https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Bedside Angels",
-        "url": "https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Stills",
-          "url": "https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r"
-        }
-      ],
-      "duration_ms": 134504,
-      "name": "Bedside Angels",
-      "url": "https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -923,22 +923,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Breathing Space",
-        "url": "https://open.spotify.com/album/2kgOi231E4SfAtAurK4Bmb"
-      },
-      "artists": [
-        {
-          "name": "Sacred Earth",
-          "url": "https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99"
-        }
-      ],
-      "duration_ms": 571453,
-      "name": "Grounded",
-      "url": "https://open.spotify.com/track/5K7yKfdKni76tWOckNwVlo"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Sleep",
         "url": "https://open.spotify.com/album/4lqKYa3IPsOnUF2f8U3Q1n"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 229078,
       "name": "Imgur",
       "url": "https://open.spotify.com/track/5Jxym542I1NBxCm6N2i2uo"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Breathing Space",
+        "url": "https://open.spotify.com/album/2kgOi231E4SfAtAurK4Bmb"
+      },
+      "artists": [
+        {
+          "name": "Sacred Earth",
+          "url": "https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99"
+        }
+      ],
+      "duration_ms": 571453,
+      "name": "Grounded",
+      "url": "https://open.spotify.com/track/5K7yKfdKni76tWOckNwVlo"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -971,22 +971,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Morning Dew",
-        "url": "https://open.spotify.com/album/3Z9zu4MUl1nu4qDyAQiLBd"
-      },
-      "artists": [
-        {
-          "name": "Alan Ellis",
-          "url": "https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "The Longest Rest",
-      "url": "https://open.spotify.com/track/5JZ6J7RmUY8c6gWWCV1r7g"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Ambient Nature - Sounds of Nature, Natural Pain Relief, Healing Nature Sounds",
         "url": "https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 231428,
       "name": "Life of Birds",
       "url": "https://open.spotify.com/track/2HQaSnot7REe09dDN15fmB"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Morning Dew",
+        "url": "https://open.spotify.com/album/3Z9zu4MUl1nu4qDyAQiLBd"
+      },
+      "artists": [
+        {
+          "name": "Alan Ellis",
+          "url": "https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "The Longest Rest",
+      "url": "https://open.spotify.com/track/5JZ6J7RmUY8c6gWWCV1r7g"
     },
     {
       "added_at": "2021-06-15 08:38:14",

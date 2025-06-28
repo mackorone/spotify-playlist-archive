@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "10AM",
+        "url": "https://open.spotify.com/album/2p3syjniBpHkLZGWB0o7FD"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216223,
+      "name": "10AM",
+      "url": "https://open.spotify.com/track/5WYv0entnRyawjX2mJ5QAK"
+    },
+    {
+      "album": {
         "name": "1:59 (feat. Gunna)",
         "url": "https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d"
       },
@@ -252,7 +270,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 148846,
       "name": "Ali Bomaye",
       "url": "https://open.spotify.com/track/69ljijBlGBQ82ce3SidtVu"
@@ -442,7 +460,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 169911,
       "name": "All Yours",
       "url": "https://open.spotify.com/track/1by7gu9nFyVALkPZC84tI8"
@@ -939,6 +957,24 @@
     },
     {
       "album": {
+        "name": "Bed of Roses",
+        "url": "https://open.spotify.com/album/7EHL9PCseJVg7jLeF08G3S"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149503,
+      "name": "Bed of Roses",
+      "url": "https://open.spotify.com/track/4hTBcHQ5DjYH9dbroi91if"
+    },
+    {
+      "album": {
         "name": "TOO MANY PROMISES",
         "url": "https://open.spotify.com/album/65xCx63ehBbFSM8mSL60gU"
       },
@@ -1318,7 +1354,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 165306,
       "name": "Breakaway",
       "url": "https://open.spotify.com/track/1PS4BV6LiH5S2bTf8CF2lu"
@@ -1518,6 +1554,28 @@
       "duration_ms": 149486,
       "name": "Call On Me",
       "url": "https://open.spotify.com/track/2kgNITUV31PEoqmPMQYSki"
+    },
+    {
+      "album": {
+        "name": "Can We Talk?",
+        "url": "https://open.spotify.com/album/5bzaSX78ybcXW55HFe8xZi"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "Can We Talk?",
+      "url": "https://open.spotify.com/track/1NeL0geu5M3lya479QuA6q"
     },
     {
       "album": {
@@ -1736,7 +1794,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 150612,
       "name": "CITY GYAL",
       "url": "https://open.spotify.com/track/45c6ENP4z68YD6bPkUPTKk"
@@ -1844,7 +1902,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 219096,
       "name": "Company",
       "url": "https://open.spotify.com/track/0BPKZETsuOOHB7UHFDEGzk"
@@ -2310,7 +2368,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 190105,
       "name": "Don't Give Up On Me",
       "url": "https://open.spotify.com/track/6gvGnmC1dDFbW3brO2j9Fh"
@@ -2328,7 +2386,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 279311,
       "name": "Don't Have To",
       "url": "https://open.spotify.com/track/4mcHZRVa2W3qLO1J7IGBCh"
@@ -2608,7 +2666,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 143065,
       "name": "DUTTY",
       "url": "https://open.spotify.com/track/7i8vcfoWdoWPKQUf41PYpW"
@@ -3366,7 +3424,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 233207,
       "name": "Fool Me Once",
       "url": "https://open.spotify.com/track/2MGB1GwWIX0MZMvy5eGFOi"
@@ -3810,7 +3868,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 172599,
       "name": "Gold",
       "url": "https://open.spotify.com/track/1CpxYmxDzQ2toDyf7THXnt"
@@ -4344,7 +4402,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 129776,
       "name": "Hush",
       "url": "https://open.spotify.com/track/6zgZQ0Txc4cpF03TAjnEMJ"
@@ -4442,6 +4500,24 @@
       "duration_ms": 217627,
       "name": "I Waited",
       "url": "https://open.spotify.com/track/6v1OHooaBNAIxRZlADN7G3"
+    },
+    {
+      "album": {
+        "name": "I'm Not Psycho",
+        "url": "https://open.spotify.com/album/6rq02kHQ14i9Goruy0dULE"
+      },
+      "artists": [
+        {
+          "name": "Nanette",
+          "url": "https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250848,
+      "name": "I'm Not Psycho",
+      "url": "https://open.spotify.com/track/74WJDEJkbHbZGoADMw10I5"
     },
     {
       "album": {
@@ -4616,7 +4692,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 252325,
       "name": "Indaba Yethu",
       "url": "https://open.spotify.com/track/4mjVBfGuXmeUUvMwT694eD"
@@ -4858,7 +4934,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 192000,
       "name": "Iskhathi",
       "url": "https://open.spotify.com/track/1f2AD0tHrms0NXz5CwtHGu"
@@ -5226,7 +5302,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 134181,
       "name": "Keep On Loving Me (Biko Biko)",
       "url": "https://open.spotify.com/track/6P6NBxeNQTQIu1ZGpoTwks"
@@ -5940,7 +6016,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 151786,
       "name": "Make It Up To You (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x"
@@ -6038,7 +6114,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 199877,
       "name": "Marigold",
       "url": "https://open.spotify.com/track/2xevmit1WYM61Mb7E76F7T"
@@ -6136,7 +6212,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 189890,
       "name": "Mbuzi",
       "url": "https://open.spotify.com/track/6jmELmAu5xIfRAaaOsyDat"
@@ -6844,7 +6920,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 195666,
       "name": "Nini Na Nini",
       "url": "https://open.spotify.com/track/0lWcGhpwSDziCmlDeHn8ER"
@@ -7054,7 +7130,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 196237,
       "name": "One Way Ticket",
       "url": "https://open.spotify.com/track/2ILizzTkcXjA6NTioLdeuA"
@@ -7356,7 +7432,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 191480,
       "name": "Pasopa (feat. Usimamane)",
       "url": "https://open.spotify.com/track/3xL5BQViaHSFTGOhhvepar"
@@ -7472,7 +7548,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 141447,
       "name": "Phresha",
       "url": "https://open.spotify.com/track/0n9V9D4ccfbV805OYksma0"
@@ -7512,7 +7588,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 167272,
       "name": "places we could go",
       "url": "https://open.spotify.com/track/7itEIJYEH23jYVXaThaCKk"
@@ -7606,7 +7682,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 192602,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/3mbZFN6ZynKRwKt7EDccI1"
@@ -7660,7 +7736,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 159143,
       "name": "Pumua",
       "url": "https://open.spotify.com/track/2Py1BuxAHgOH0bA9w0imQE"
@@ -8194,7 +8270,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 213287,
       "name": "Safe",
       "url": "https://open.spotify.com/track/6tPzBJptprIjA8hk4ir3rz"
@@ -8234,7 +8310,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 187457,
       "name": "Same Place",
       "url": "https://open.spotify.com/track/1gsyktCzmfmEqCZylx6CtC"
@@ -8738,7 +8814,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 165600,
       "name": "Smaak To Love (Lamza)",
       "url": "https://open.spotify.com/track/4o8T5mUyp77nDbM1UkDRd3"
@@ -8902,7 +8978,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 184552,
       "name": "Soh-Soh",
       "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
@@ -9180,7 +9256,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 224002,
       "name": "Steady",
       "url": "https://open.spotify.com/track/68ahKiHRBOuyS4GsPqFjsI"
@@ -9766,7 +9842,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 256045,
       "name": "Take Your Time",
       "url": "https://open.spotify.com/track/05lTYxBZrS9H6ot3tAmD4E"
@@ -10200,7 +10276,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 190000,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/0RV4Vmyw8xgWH8wkdqMBRa"
@@ -10218,7 +10294,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 100800,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/3pmtkeRPl7UNK389EC8lvS"
@@ -10356,7 +10432,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 170769,
       "name": "Typo",
       "url": "https://open.spotify.com/track/1ex4Ztuu1KvGxECb1dRgOy"
@@ -10872,7 +10948,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 173280,
       "name": "WASTE OF TIME",
       "url": "https://open.spotify.com/track/5FgFlKREwwVlppejvZdXMJ"
@@ -11118,7 +11194,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 194785,
       "name": "Winter & Summer",
       "url": "https://open.spotify.com/track/3a7rELDtWE9gb6DBwxsNPt"

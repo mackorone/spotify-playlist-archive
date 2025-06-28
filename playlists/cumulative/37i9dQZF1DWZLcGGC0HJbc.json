@@ -1645,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "Moth Song",
+        "url": "https://open.spotify.com/album/15tDiSE6EpMxDxUDkRXKwN"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303902,
+      "name": "Moth Song",
+      "url": "https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6"
+    },
+    {
+      "album": {
         "name": "How Do We Go Back To Being Normal?",
         "url": "https://open.spotify.com/album/7t77eQdswzlXeKdAhIeJFg"
       },
@@ -2952,7 +2970,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 132801,
       "name": "Yvonne",
       "url": "https://open.spotify.com/track/4fPaBqB8bWftagOHy2xtDF"

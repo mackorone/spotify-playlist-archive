@@ -2,7 +2,7 @@
 
 ### [Éxitos USA](https://open.spotify.com/playlist/37i9dQZF1DX4oUPBOaEkL6)
 
-> The hottest Latin hits in the US! Cover: Oscar Maydon & Peso Pluma
+> The hottest Latin hits in the US! Cover: KAROL G
 
 701 songs - 1 day 14 hr 17 min
 

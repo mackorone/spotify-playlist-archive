@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: Lexxx Torres ",
-  "num_followers": 79847,
+  "num_followers": 79861,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
-        "name": "Enredao",
-        "url": "https://open.spotify.com/album/7DWPW3IbVwDk9MnNHp6QF7"
-      },
-      "artists": [
-        {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
-        }
-      ],
-      "duration_ms": 172946,
-      "name": "Enredao",
-      "url": "https://open.spotify.com/track/4znnogFSUca0pC89QzNp1m"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
         "name": "Como \u00d1engo (feat. Jota Rosa)",
         "url": "https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 204136,
       "name": "Como \u00d1engo (feat. Jota Rosa)",
       "url": "https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
+        "name": "Enredao",
+        "url": "https://open.spotify.com/album/7DWPW3IbVwDk9MnNHp6QF7"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "duration_ms": 172946,
+      "name": "Enredao",
+      "url": "https://open.spotify.com/track/4znnogFSUca0pC89QzNp1m"
     },
     {
       "added_at": "2025-02-07 06:00:17",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
-        "name": "T\u00fa Y Yo",
-        "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
-      },
-      "artists": [
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "T\u00fa Y Yo",
-      "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
         "name": "Tanto Fronteo",
         "url": "https://open.spotify.com/album/27PL5DSMr3hRU6TOYeQFKp"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 297073,
       "name": "Tanto Fronteo",
       "url": "https://open.spotify.com/track/4tsB6dDW31Okuqumrmyvbk"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
+        "name": "T\u00fa Y Yo",
+        "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "T\u00fa Y Yo",
+      "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

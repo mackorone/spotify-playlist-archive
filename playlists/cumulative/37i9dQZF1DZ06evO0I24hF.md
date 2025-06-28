@@ -4,7 +4,7 @@
 
 > This is Gigi Perez\. The essential tracks, all in one playlist.
 
-23 songs - 1 hr 31 min
+24 songs - 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Crown](https://open.spotify.com/track/3hdKErsbStsSN9sTIvtn25) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 4:46 | 2025-04-27 | 2025-05-29 |
 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 | 2025-04-26 |  |
 | [Glue](https://open.spotify.com/track/4EbwhvDv0TFLN7SjuOUjym) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 5:17 | 2025-04-26 |  |
-| [In The Middle](https://open.spotify.com/track/3aTtbSM7gX011qAtinh6nP) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [In The Middle](https://open.spotify.com/album/0Mbg1FWqCSLumCIxpA3zmN) | 2:59 | 2025-06-01 |  |
+| [In The Middle](https://open.spotify.com/track/3aTtbSM7gX011qAtinh6nP) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [In The Middle](https://open.spotify.com/album/0Mbg1FWqCSLumCIxpA3zmN) | 2:59 | 2025-06-01 | 2025-06-28 |
+| [In The Middle](https://open.spotify.com/track/3nmvNpobyMN4Ggw7tYcqSF) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Hope We Have Fun](https://open.spotify.com/album/3r5ik8QohUa56zacmEyAdb) | 2:59 | 2025-06-28 |  |
 | [Karma](https://open.spotify.com/track/4W4UK2NM6pkYQ1NTfFnhBU) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 4:58 | 2025-04-26 |  |
 | [Kill For You](https://open.spotify.com/track/0BuW1JbaKtMpAxLyjpHf9n) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:44 | 2025-04-26 |  |
 | [Normalcy](https://open.spotify.com/track/2cTVoD2dYSjsxHbtvKsAHq) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Normalcy](https://open.spotify.com/album/26YO9YcV0B83XJPMCYSP0H) | 5:38 | 2025-04-26 | 2025-05-10 |

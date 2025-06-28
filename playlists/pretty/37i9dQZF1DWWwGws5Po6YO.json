@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: JakoJako",
-  "num_followers": 128949,
+  "num_followers": 128967,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Big Room",
-        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
-      },
-      "artists": [
-        {
-          "name": "Ulla Straus",
-          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Billow",
-      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
         "name": "Holotropica",
         "url": "https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 229000,
       "name": "Ubiquitous",
       "url": "https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
+        "name": "Big Room",
+        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
+      },
+      "artists": [
+        {
+          "name": "Ulla Straus",
+          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Billow",
+      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -647,6 +647,26 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
+        "name": "Amare",
+        "url": "https://open.spotify.com/album/3oxivy9SmR7lht1flomM6f"
+      },
+      "artists": [
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        }
+      ],
+      "duration_ms": 226613,
+      "name": "Amare",
+      "url": "https://open.spotify.com/track/2gb81DReTCiQpzl7L6wMph"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
         "name": "Impossible Light",
         "url": "https://open.spotify.com/album/1ZwJMEEaBifkdvQl793ek3"
       },
@@ -659,6 +679,54 @@
       "duration_ms": 350968,
       "name": "Endocrine Disruptor",
       "url": "https://open.spotify.com/track/2PF6906ULwsP3InXPZ2gPc"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 262375,
+      "name": "10\u00b0C",
+      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
+        "name": "Raw Silk Uncut Wood",
+        "url": "https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY"
+      },
+      "artists": [
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        }
+      ],
+      "duration_ms": 600386,
+      "name": "Raw Silk Uncut Wood",
+      "url": "https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
+        "name": "Keep Pulling Me In",
+        "url": "https://open.spotify.com/album/7651CMZDlBQfvglN6fvfsQ"
+      },
+      "artists": [
+        {
+          "name": "Lucy Gooch",
+          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
+        }
+      ],
+      "duration_ms": 372430,
+      "name": "Keep Pulling Me In",
+      "url": "https://open.spotify.com/track/1HCKN6imCt9RujqIjFeO7X"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -683,54 +751,6 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Raw Silk Uncut Wood",
-        "url": "https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY"
-      },
-      "artists": [
-        {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
-        }
-      ],
-      "duration_ms": 600386,
-      "name": "Raw Silk Uncut Wood",
-      "url": "https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 262375,
-      "name": "10\u00b0C",
-      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
-        "name": "Keep Pulling Me In",
-        "url": "https://open.spotify.com/album/7651CMZDlBQfvglN6fvfsQ"
-      },
-      "artists": [
-        {
-          "name": "Lucy Gooch",
-          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
-        }
-      ],
-      "duration_ms": 372430,
-      "name": "Keep Pulling Me In",
-      "url": "https://open.spotify.com/track/1HCKN6imCt9RujqIjFeO7X"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
         "name": "Eurybia",
         "url": "https://open.spotify.com/album/4ZqTaLiWcfUe2focRp293x"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 186082,
       "name": "L'Inno delle Oceanine alla Bellezza e alla Fortuna",
       "url": "https://open.spotify.com/track/1imCY3nm7hkJVyRX5KIfvu"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
-        "name": "Amare",
-        "url": "https://open.spotify.com/album/3oxivy9SmR7lht1flomM6f"
-      },
-      "artists": [
-        {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
-        },
-        {
-          "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
-        }
-      ],
-      "duration_ms": 226613,
-      "name": "Amare",
-      "url": "https://open.spotify.com/track/2gb81DReTCiQpzl7L6wMph"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Micro Macro",
-        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
-      },
-      "artists": [
-        {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Absolution",
-      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
         "name": "blue hour",
         "url": "https://open.spotify.com/album/61c0a4Nr3QEbY2Gw1EJlEt"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 166784,
       "name": "blue hour",
       "url": "https://open.spotify.com/track/6R1IuXVaMVytfMQz4bY0DQ"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
+        "name": "Micro Macro",
+        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
+      },
+      "artists": [
+        {
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Absolution",
+      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "12\u00b0C",
-        "url": "https://open.spotify.com/album/7zcXUzSYysKrQYOVg7ekth"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 273564,
-      "name": "12\u00b0C",
-      "url": "https://open.spotify.com/track/5ZaScgcRQWdd5Nyigg11Vg"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
         "name": "7.37/2.11",
         "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 212432,
       "name": "Air / Fire",
       "url": "https://open.spotify.com/track/5AN0UwkXlg822pebPPTzPx"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
+        "name": "12\u00b0C",
+        "url": "https://open.spotify.com/album/7zcXUzSYysKrQYOVg7ekth"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 273564,
+      "name": "12\u00b0C",
+      "url": "https://open.spotify.com/track/5ZaScgcRQWdd5Nyigg11Vg"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Sleep",
-        "url": "https://open.spotify.com/album/5PWPXuYf4tFbW09yLqzJed"
-      },
-      "artists": [
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
-        }
-      ],
-      "duration_ms": 229521,
-      "name": "Sleep",
-      "url": "https://open.spotify.com/track/1TnEVTlFobaQCRYIXr1Ctc"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
         "name": "Arrow",
         "url": "https://open.spotify.com/album/23XR5sJhFLxezpchTPf54S"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 227748,
       "name": "Effektology",
       "url": "https://open.spotify.com/track/2R7ow3ycyaJZe13AvKdLQc"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/5PWPXuYf4tFbW09yLqzJed"
+      },
+      "artists": [
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        }
+      ],
+      "duration_ms": 229521,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/1TnEVTlFobaQCRYIXr1Ctc"
     },
     {
       "added_at": "2025-06-19 09:48:26",

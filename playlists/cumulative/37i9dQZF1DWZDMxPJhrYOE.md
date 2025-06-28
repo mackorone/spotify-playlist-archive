@@ -4,11 +4,12 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-598 songs - 1 day 6 hr 22 min
+599 songs - 1 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Isn’t It\) Obvious](https://open.spotify.com/track/2WHpyoNdtUirfIv256JznP) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [\(Isn’t It\) Obvious](https://open.spotify.com/album/6mDGrC2zC5bugpOTPwNedv) | 3:51 | 2024-11-07 | 2024-11-28 |
+| [10 ud af 10](https://open.spotify.com/track/6kqqErlEe7aIrUZztf5skM) | [Berg](https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD) | [10 ud af 10](https://open.spotify.com/album/16LdEi4c4yKZiNxjpIEi3p) | 2:30 | 2025-06-26 |  |
 | [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 | 2024-07-18 | 2024-07-27 |
 | [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 | 2024-11-15 | 2024-12-13 |
 | [2 Stepper Freestyle](https://open.spotify.com/track/3r0C7cXKzwGQaKLFHr810N) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [2 Stepper Freestyle](https://open.spotify.com/album/3R1WXSHdUszaP4eL8yQrQy) | 3:20 | 2025-01-10 | 2025-03-07 |
@@ -152,7 +153,7 @@
 | [Du Min](https://open.spotify.com/track/4kTFwVrxwwqj9yZoSEqoAV) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [Du Min](https://open.spotify.com/album/7DemS03wH7rndSG5MAeAdS) | 1:59 | 2024-08-29 | 2024-09-06 |
 | [Du og jeg](https://open.spotify.com/track/12RzHH3ZiYmBP6ehh33L20) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Du og jeg](https://open.spotify.com/album/0iyzRhtKLaGhdm4oZylw6O) | 3:55 | 2024-09-05 | 2024-09-13 |
 | [Dust](https://open.spotify.com/track/2r9a4yyqoM0izDoldy4S8i) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Dust](https://open.spotify.com/album/0AKXaoCpKdJMOAvVy8Xt5O) | 3:11 | 2025-03-07 | 2025-05-31 |
-| [Dårligt Match](https://open.spotify.com/track/432EcFkV6If93xvxEx2Rim) | [Mumle](https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq) | [Dårligt Match](https://open.spotify.com/album/5LhsH1HcBOmR9SmtBhm7qv) | 2:51 | 2025-05-01 |  |
+| [Dårligt Match](https://open.spotify.com/track/432EcFkV6If93xvxEx2Rim) | [Mumle](https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq) | [Dårligt Match](https://open.spotify.com/album/5LhsH1HcBOmR9SmtBhm7qv) | 2:51 | 2025-05-01 | 2025-06-28 |
 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 | 2025-05-29 |  |
 | [Edge of Saturday Night](https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Edge of Saturday Night](https://open.spotify.com/album/09VDiKeG4eFlqac8GAPAJQ) | 3:26 | 2024-08-16 | 2024-11-24 |
 | [Ego](https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Ego](https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx) | 3:18 | 2024-09-05 | 2025-01-25 |

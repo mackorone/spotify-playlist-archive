@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-295 songs - 18 hr 31 min
+297 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bat Country](https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:11 | 2023-05-17 |  |
 | [BEST TIMES \(feat\. Lacey Sturm\)](https://open.spotify.com/track/1jZosfYphLClzldEiQdRde) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [BEST TIMES \(feat\. Lacey Sturm\)](https://open.spotify.com/album/2mdLMyyP9Qia1BPS7HaafD) | 3:43 | 2023-04-03 |  |
 | [Betray And Degrade](https://open.spotify.com/track/3XHnaUAFX8PfNMW1hHC75N) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Poison The Parish \(Deluxe Edition\)](https://open.spotify.com/album/2CbMgWfTfT4n80PjrDkbbt) | 4:04 | 2021-08-20 | 2023-01-05 |
+| [Better Days](https://open.spotify.com/track/4mjo9U4xfSAtTkLpvQ6QDN) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Better Days](https://open.spotify.com/album/3e7vBHspnYuDZsgxkyPsEA) | 2:53 | 2025-06-27 |  |
 | [Bii Biyelgee](https://open.spotify.com/track/2m30WlnHkXQgUlQNyFizTL) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Rumble Of Thunder](https://open.spotify.com/album/5gqOvY9dUDP8JQygMUYPTn) | 4:18 | 2022-09-02 |  |
 | [Black Lungs](https://open.spotify.com/track/06BRkkaJsqM9i6VZKDvUlK) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 3:51 | 2023-07-25 |  |
 | [BLACK SOUL](https://open.spotify.com/track/5ry1GWOraVbudUG4Rn9dHu) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [ATTENTION ATTENTION](https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7) | 3:23 | 2023-07-25 | 2024-04-10 |
@@ -88,6 +89,7 @@
 | [Darkness Settles In](https://open.spotify.com/track/6RksBSj5fFtPkUnL2EE0oe) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 4:41 | 2021-08-20 |  |
 | [Darkness Within](https://open.spotify.com/track/5yDXKaZPyj8ojRJ2nacbLX) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto The Locust](https://open.spotify.com/album/4tzHN0jj11imsGYK9GdpF3) | 6:27 | 2022-03-08 | 2024-04-10 |
 | [Dead Inside](https://open.spotify.com/track/47xrDjgTsXiSczuZENqUoH) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1), [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Dead Inside \(feat\. David Draiman of Disturbed\)](https://open.spotify.com/album/3iWO24LnOzcDaqA7UNgG6w) | 4:00 | 2022-01-24 |  |
+| [Dead\_Alive](https://open.spotify.com/track/4pZJXU5qsZfWj5Gnp5UgSR) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Dead\_Alive](https://open.spotify.com/album/5jPF4nRhSoj1vsl1GX81qc) | 3:10 | 2025-06-27 |  |
 | [Deutschland](https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 5:22 | 2022-01-24 | 2024-04-10 |
 | [DEVIL](https://open.spotify.com/track/3IqHzcXy7IsYYND6lKwPAi) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [DEVIL](https://open.spotify.com/album/1fPpAm3EEn1yNbrQkWWm7a) | 3:27 | 2021-08-20 |  |
 | [Devil In Disguise](https://open.spotify.com/track/6sVfpovShmOm7JD1Mt55ES) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Love, Drugs & Misery \(Deluxe\)](https://open.spotify.com/album/5kEvgtnNQ2KtGBIa91NCTO) | 3:10 | 2023-09-22 |  |

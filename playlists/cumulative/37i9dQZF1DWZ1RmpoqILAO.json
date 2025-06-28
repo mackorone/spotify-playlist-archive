@@ -1909,6 +1909,24 @@
     },
     {
       "album": {
+        "name": "Gallic Shrug",
+        "url": "https://open.spotify.com/album/22sXxVWML2bXvQik1Mz6ci"
+      },
+      "artists": [
+        {
+          "name": "Greg Freeman",
+          "url": "https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290506,
+      "name": "Gallic Shrug",
+      "url": "https://open.spotify.com/track/0o8PMOQVCS4QTGHXlgF2zu"
+    },
+    {
+      "album": {
         "name": "talk soon",
         "url": "https://open.spotify.com/album/356rRbXibYCUg2gkyRZIZF"
       },
@@ -2118,7 +2136,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 244189,
       "name": "Golden Spoon",
       "url": "https://open.spotify.com/track/5TtUQ2fh1JzntGcB3mA54l"
@@ -2496,7 +2514,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 193853,
       "name": "Hold Steady",
       "url": "https://open.spotify.com/track/4feJkKbKSeuVVquVUWZXSi"
@@ -3440,7 +3458,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 145720,
       "name": "NEVER AGAIN",
       "url": "https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2"
@@ -3736,7 +3754,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 453682,
       "name": "Radio Silence",
       "url": "https://open.spotify.com/track/4InyDtnc3LXJQ7IQb5gDe7"
@@ -4638,6 +4656,24 @@
       "duration_ms": 173888,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/4xIItS5RIFO0JtAlIDBIzb"
+    },
+    {
+      "album": {
+        "name": "semiwestern",
+        "url": "https://open.spotify.com/album/1EWt0Ia5eRyycdg1Dgv8dP"
+      },
+      "artists": [
+        {
+          "name": "semiwestern",
+          "url": "https://open.spotify.com/artist/4hfCqI8H72nfxJXR8Ic55n"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261224,
+      "name": "technique",
+      "url": "https://open.spotify.com/track/7IQgBwbb4CB3OYov1cOVAc"
     },
     {
       "album": {

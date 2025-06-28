@@ -4,7 +4,7 @@
 
 > New music by the heaviest independent artists every Wednesday\. Cover: Chained Saint
 
-305 songs - 18 hr 3 min
+306 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Forget It](https://open.spotify.com/track/1hNgjucoAolEIp6uSantcp) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [Forget It](https://open.spotify.com/album/1FKP9SXb95FsJ6AplRcWC8) | 3:46 | 2024-10-02 | 2024-12-05 |
 | [Foster](https://open.spotify.com/track/51JhUIPBPMkICrTvp77Sh1) | [Swollen Teeth](https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ) | [Foster](https://open.spotify.com/album/4V1RGimOugozD9K8PjRzZ7) | 4:19 | 2025-06-20 |  |
 | [FREEDOM](https://open.spotify.com/track/6zPwQlCf9LSihjJRNU4Xpm) | [Regional Justice Center](https://open.spotify.com/artist/2jsi0W3bFzL0ITqKU4gVE2) | [FREEDOM](https://open.spotify.com/album/1sSrTdfpu8BUmnKSH56T7d) | 1:11 | 2024-08-14 | 2024-08-28 |
-| [Fresh Blood, Fresh Pussy](https://open.spotify.com/track/4NSMvwVeZBMZ5MfErlKQ2p) | [Witch Club Satan](https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy) | [Witch Club Satan](https://open.spotify.com/album/0c0hlchA9Q66PcL7xlPPfp) | 3:35 | 2025-03-20 |  |
+| [Fresh Blood, Fresh Pussy](https://open.spotify.com/track/4NSMvwVeZBMZ5MfErlKQ2p) | [Witch Club Satan](https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy) | [Witch Club Satan](https://open.spotify.com/album/0c0hlchA9Q66PcL7xlPPfp) | 3:35 | 2025-03-20 | 2025-06-28 |
 | [Frozen](https://open.spotify.com/track/1XWE7bFAbRcAqTEcTz2rlK) | [Bridges Ablaze](https://open.spotify.com/artist/2EkFmKsioTTvC9ShnwJwHP) | [Frozen](https://open.spotify.com/album/3H27ivNS86qnGDOloA2YUY) | 3:49 | 2025-05-09 |  |
 | [Frozen](https://open.spotify.com/track/7qMQZ5TNQGBzE0SkYYrb4D) | [Matter Of Mind](https://open.spotify.com/artist/0OUKObtDiU0yOxyns51bpb) | [Frozen](https://open.spotify.com/album/4bx8XLYHnuKv4VnOgn5FcZ) | 3:12 | 2025-04-09 |  |
 | [FUHAI](https://open.spotify.com/track/2i3N4t7Ke0ZGfckg5EieqL) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh), [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [FUHAI](https://open.spotify.com/album/1UQu0DlDXdyD5odtAQPx3g) | 3:13 | 2024-10-16 | 2025-02-06 |
@@ -312,6 +312,7 @@
 | [WIZARD](https://open.spotify.com/track/3NYRBOauoTPnhLcyRpYgOj) | [Castle Rat](https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj) | [WIZARD](https://open.spotify.com/album/7sxqpGAY8GEVpF7JamVppY) | 4:57 | 2025-06-13 |  |
 | [WORTHY](https://open.spotify.com/track/24RN4xJgLkwBd7L3oj2qiw) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [WORTHY](https://open.spotify.com/album/2923AbK68sIv0GtpseOWOp) | 3:42 | 2025-03-12 | 2025-05-31 |
 | [Wounds Will Heal](https://open.spotify.com/track/4wAVTeE6nP81nnrHRGqDxW) | [Body Prison](https://open.spotify.com/artist/4OW2g2KiFJtqvdwxCemioL) | [Wounds Will Heal](https://open.spotify.com/album/1OJUEVWT8IQbmSjpQJx0oZ) | 4:38 | 2025-02-19 |  |
+| [You Wildflower](https://open.spotify.com/track/6k8BOF9z8d7yhMNtQLfAaV) | [Witch Club Satan](https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy) | [You Wildflower](https://open.spotify.com/album/25FC9A6YPrFGFLHoKrg4Cc) | 3:34 | 2025-06-27 |  |
 | [’Til Death Do Us Part](https://open.spotify.com/track/32nHr6XZmnBxe9GtGWYxZP) | [I Am Your God](https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn) | [’Til Death Do Us Part](https://open.spotify.com/album/0oi5CbZgnI2Pl8QTqqcMF7) | 3:49 | 2024-08-14 | 2025-01-23 |
 
 \*This playlist was first scraped on 2024-08-08. Prior content cannot be recovered.

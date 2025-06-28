@@ -2,9 +2,9 @@
 
 ### [JumpOff](https://open.spotify.com/playlist/37i9dQZF1DX6tw5tib6ZrB)
 
-> Monster Hiphop anthems to unlock your day\. Tracks from Cardi B, Offset, Swayvee and more
+> Monster Hiphop anthems to unlock your day\. Tracks from Don Toliver, Cardi B, Offset and more
 
-429 songs - 22 hr 3 min
+431 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [54321](https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [54321](https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won) | 3:02 | 2022-08-19 | 2022-10-28 |
 | [99 \(with Future\)](https://open.spotify.com/track/3wD05dVOHFfqr3Kra9f6PH) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 1:52 | 2025-01-10 | 2025-05-10 |
 | [A Bag In A Lexus](https://open.spotify.com/track/3DW8Z1gH89lDgEGjmi903q) | [Misee Billions](https://open.spotify.com/artist/5Lhx3MUyzocreEfyAlOWJ7) | [A Bag In A Lexus](https://open.spotify.com/album/0xQcWh9alDQZF8eAc0iFs6) | 2:54 | 2022-06-16 | 2022-07-23 |
-| [A Guy Called?](https://open.spotify.com/track/0d2Twch3UzAIY8yePbkAzz) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [A Guy Called?](https://open.spotify.com/album/4vofNXHWQG98auHmbZ4KSG) | 2:29 | 2025-01-29 |  |
+| [A Guy Called?](https://open.spotify.com/track/0d2Twch3UzAIY8yePbkAzz) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [A Guy Called?](https://open.spotify.com/album/4vofNXHWQG98auHmbZ4KSG) | 2:29 | 2025-01-29 | 2025-06-28 |
 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 | 2024-03-08 | 2024-09-14 |
 | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw) | 2:46 | 2022-10-27 | 2023-02-18 |
 | [all away](https://open.spotify.com/track/1kRfGpeuWN3ToD2iCjlhxW) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [see u soon](https://open.spotify.com/album/4aYa2JkUWVkOXptMYZtdq5) | 3:01 | 2024-07-26 | 2024-09-06 |
@@ -136,6 +136,7 @@
 | [Flawlëss \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1a019wP7IdYLexwbmfZPm3) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:56 | 2022-09-08 | 2023-02-25 |
 | [FLEX](https://open.spotify.com/track/0Qnd2pMkw6a1UJIBFwwhr6) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o) | [FLEX](https://open.spotify.com/album/3ITwHOkrwU9QSLdPT8m8Ef) | 3:26 | 2023-03-10 | 2023-03-22 |
 | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv) | 3:25 | 2023-03-24 | 2023-07-22 |
+| [For The Money](https://open.spotify.com/track/5G0GzyNU6VALmOenzBNtVA) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [For The Money](https://open.spotify.com/album/05VBhCeUpyBpGLDUFR4iZT) | 3:35 | 2025-06-27 |  |
 | [French Tips \(feat\. Coco Jones\)](https://open.spotify.com/track/3pPlFiN3TLqHd5uXnRr4Cv) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [DAROLD](https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0) | 3:06 | 2024-11-08 | 2025-03-15 |
 | [Friday Prayer \(feat\. Headie One & Aitch\)](https://open.spotify.com/track/69I5rRxwBNBODyFbTZJBqX) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Friday Prayer \(feat\. Headie One & Aitch\)](https://open.spotify.com/album/0S4Q6d6NRA6RubFH05Nz0R) | 3:15 | 2025-04-11 |  |
 | [From A Man](https://open.spotify.com/track/3CUMd8XMv3LBSLrDrKoXQE) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [From A Man](https://open.spotify.com/album/3Ut8zKJlqFVRMqwcAww9bP) | 3:27 | 2023-10-13 | 2024-02-03 |
@@ -144,6 +145,7 @@
 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-07-07 | 2024-10-26 |
 | [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 | 2025-01-17 | 2025-05-03 |
 | [FWG](https://open.spotify.com/track/1eoMcGLGEAeQUIjwEIytkq) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [FWG](https://open.spotify.com/album/0maPmRE6UjqadOPD06CfWZ) | 2:58 | 2024-10-04 | 2024-10-26 |
+| [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 | 2025-06-27 |  |
 | [Gas Me Up \(Diligent\)](https://open.spotify.com/track/18cocM7GNYj2Scj1ePOJYc) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Gas Me Up \(Diligent\)](https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn) | 2:51 | 2024-01-26 | 2024-05-04 |
 | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 | 2025-01-17 |  |
 | [GEEKIN \(feat\. AJ Tracey\)](https://open.spotify.com/track/3R9AZOrnO20E5MVMBiofqH) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [GEEKIN \(feat\. AJ Tracey\)](https://open.spotify.com/album/4Aq9PhYsSQU4N6mUyXA2kV) | 2:45 | 2024-02-02 | 2024-04-27 |
@@ -240,7 +242,7 @@
 | [Mrs\. Davis](https://open.spotify.com/track/6R8OyxlpbW1F00R2eJRiHk) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Mrs\. Davis](https://open.spotify.com/album/6OdXLngJAya75s1LisdxEd) | 3:57 | 2022-06-16 | 2022-07-30 |
 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 | 2022-09-22 | 2023-03-04 |
 | [Murda](https://open.spotify.com/track/3orAdhaGP0RhjMN3f8B8Im) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Murda](https://open.spotify.com/album/61HXHoLc5tFcNufvi62ESk) | 2:01 | 2025-06-06 |  |
-| [My God](https://open.spotify.com/track/3ZC1Mj36GIjc7TY7kW6xCS) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [My God](https://open.spotify.com/album/2VJ1XXZ0nj8w5aMCKFRRFp) | 3:21 | 2025-05-09 |  |
+| [My God](https://open.spotify.com/track/3ZC1Mj36GIjc7TY7kW6xCS) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [My God](https://open.spotify.com/album/2VJ1XXZ0nj8w5aMCKFRRFp) | 3:21 | 2025-05-09 | 2025-06-28 |
 | [n.h.i.e.](https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:23 | 2024-01-12 | 2024-07-13 |
 | [N95](https://open.spotify.com/track/4GsMplCKuZQaYoLKlYXK8i) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [NOW That's What I Call Music! Vol\. 83](https://open.spotify.com/album/3qCvZmBYk84q2vj3jonmEu) | 3:12 | 2022-06-16 | 2022-11-13 |
 | [N95](https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:15 | 2022-06-16 | 2023-02-25 |

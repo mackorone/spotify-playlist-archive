@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: <a href="https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9?si=ShNEd6SyQhyi4rEHR6o0VA">MaWhoo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,456 likes - 70 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,578 likes - 70 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 | 18 | [Tsama \- Club Version](https://open.spotify.com/track/1Hz1UaD6whGtv8QWgitnSg) | [Basti Grub](https://open.spotify.com/artist/3VAVMUyDwL7FlkivpaMeRh), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [OTXX](https://open.spotify.com/artist/5tfnHT4DjO0IX5JIWFQpXJ) | [Tsama \(Club Version\)](https://open.spotify.com/album/5GnDWnztb7kjCFnmVxieLA) | 4:15 |
 | 19 | [Free Spirit](https://open.spotify.com/track/75jyYAIOkGEUeH4wWBrwYw) | [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Julian Place](https://open.spotify.com/artist/0l5bLIu2lwaoE2Jp15kVcr) | [Indigo Child II: Love & Frequency](https://open.spotify.com/album/0BSATiEsjpmeIribCMFqGT) | 8:16 |
 | 20 | [Meka](https://open.spotify.com/track/6YPiDqUt8ITVVOqMBabOSB) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Meka](https://open.spotify.com/album/49ZzIScqGDeC3Hno8pS5jz) | 3:14 |
-| 21 | [VooDoo Tribe](https://open.spotify.com/track/20Npeoyzvb8rGUG8cc0qXq) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [DJ Tomer](https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj), [Ricardo](https://open.spotify.com/artist/4aNbVHYo8CVwkN4UUt44C3) | [VooDoo Tribe](https://open.spotify.com/album/4gnI7DXIBoXCw2Kk9xpe1R) | 3:38 |
+| 21 | [VooDoo Tribe](https://open.spotify.com/track/20Npeoyzvb8rGUG8cc0qXq) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [DJ Tomer](https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj), [Ricardo Gi](https://open.spotify.com/artist/6D12U0cOJwowjazT7V1s3c) | [VooDoo Tribe](https://open.spotify.com/album/4gnI7DXIBoXCw2Kk9xpe1R) | 3:38 |
 | 22 | [Love](https://open.spotify.com/track/3ZJdDPpcY951IjvMbR2xDc) | [Simon Wiart](https://open.spotify.com/artist/4w64FIWuxIGKlIEwpM3gov), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [Love](https://open.spotify.com/album/7iSHSM8tyI7GVH6C9P9tfO) | 2:52 |
 | 23 | [Isaka \(6am\) \- In Joburg](https://open.spotify.com/track/5ncLgVY26bAfHhUjTm7Sz4) | [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [Isaka \(6am\) \- In Joburg](https://open.spotify.com/album/2pSnEC7Cf4IhMSUrXPjrUN) | 3:24 |
 | 24 | [River](https://open.spotify.com/track/10xbbZim71RBmWLqYgGK5F) | [Chelsea Como](https://open.spotify.com/artist/5LjlABsYnzlQCHIqAgK2Ac), [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [Jacko](https://open.spotify.com/artist/2eGQ2U7oSfLP26Bl9nBCKA) | [River](https://open.spotify.com/album/3ybnRem1xPrs65lLW75VpL) | 3:13 |

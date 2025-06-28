@@ -2,9 +2,9 @@
 
 ### [RAP 91 Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Best of Haryanvi Hip\-Hop! Cover: Sumit Parta
+> Best of Haryanvi Hip\-Hop! Cover: Devender Ahlawat
 
-441 songs - 22 hr 32 min
+442 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Ghaav](https://open.spotify.com/track/0E88ez0AnFBNkcMEcO9wAa) | [Guru Gera](https://open.spotify.com/artist/5MobrF9MFJPxc05F8p3Boa), [Its Aghori](https://open.spotify.com/artist/3z4OZpcpWVOxzPuGeuEWgr) | [Ghaav](https://open.spotify.com/album/7LQxbxLKaennHRN23E6Soi) | 2:56 | 2023-09-08 | 2023-09-28 |
 | [Ghana Kasoota \(feat\. Surbhi Jyoti\)](https://open.spotify.com/track/0mvcsYusnTYlAkOZ077lDb) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Surbhi Jyoti](https://open.spotify.com/artist/0ZwLuYX3Fe14PhonPeqd5X) | [Ghana Kasoota \(feat\. Surbhi Jyoti\)](https://open.spotify.com/album/5wNK25BcVubz95drmXiBCZ) | 2:48 | 2023-10-06 |  |
 | [Ghane Gande](https://open.spotify.com/track/1rWSLMe0neIBRZi15GgfY6) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr) | [Ghane Gande](https://open.spotify.com/album/5GghzJpDq0yvH3YE0jiAWJ) | 2:56 | 2025-01-24 |  |
-| [Ghani Der Hogi](https://open.spotify.com/track/6EX1udGZhfia6Cz3nlHJtw) | [Rigul](https://open.spotify.com/artist/7vlWwl8xvyQdLQabfdb9wv), [Yawar](https://open.spotify.com/artist/2IWAyq4Hd0rT9lbDDI3u1y), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Ghani Der Hogi](https://open.spotify.com/album/5Fg1aPjCOS6nCOptr1ureK) | 2:20 | 2025-05-09 |  |
+| [Ghani Der Hogi](https://open.spotify.com/track/6EX1udGZhfia6Cz3nlHJtw) | [Rigul](https://open.spotify.com/artist/7vlWwl8xvyQdLQabfdb9wv), [Yawar](https://open.spotify.com/artist/2IWAyq4Hd0rT9lbDDI3u1y), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Ghani Der Hogi](https://open.spotify.com/album/5Fg1aPjCOS6nCOptr1ureK) | 2:20 | 2025-05-09 | 2025-06-28 |
 | [Ghani Syaani](https://open.spotify.com/track/1Cb0T2tnApa38jg8DOUF0B) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Shehnaaz Gill](https://open.spotify.com/artist/1opCEf85NTZSE7YkxLCvmV), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Ghani Syaani](https://open.spotify.com/album/6XMfzJDG7d0IedtJLfWDdc) | 3:33 | 2023-03-28 | 2023-08-31 |
 | [Ghar Jaane De](https://open.spotify.com/track/0AU0jnkTn516bqy2tJSlmp) | [Mandys](https://open.spotify.com/artist/662nBxX0k6vcCiUGLiPUTu) | [Ghar Jaane De](https://open.spotify.com/album/0gmGkBBlAHsx1EggphIQ3h) | 2:21 | 2024-01-13 | 2025-01-11 |
 | [GOAT ANTHEM](https://open.spotify.com/track/0pXKN8T5b1sXMkrOoxSlGO) | [Rakesh Mor](https://open.spotify.com/artist/6Q1rjvVMBkw1q0zIge4qXv), [Nimish](https://open.spotify.com/artist/0bcdCsL0pRZoBda7sVvfkl) | [GOAT ANTHEM](https://open.spotify.com/album/6Yp6OALOmvQVcTdgA8Fywv) | 2:34 | 2024-09-30 | 2024-10-22 |
@@ -340,6 +340,7 @@
 | [Paggal](https://open.spotify.com/track/0dA3w3xlWHImfX39kEnmSc) | [Amit Bhadana](https://open.spotify.com/artist/7xyFz6QIHP6Sq0YbT2GZoO), [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [Crush Wala Yaar](https://open.spotify.com/artist/4nl5k2Rt7OavkBdi1fXVjS) | [Paggal](https://open.spotify.com/album/6Pd2su33BbrkX31z0bUUEa) | 2:36 | 2024-02-06 | 2024-11-26 |
 | [Papi Purane](https://open.spotify.com/track/4RVpvENpsF5H5bJSruG0wC) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Papi Purane](https://open.spotify.com/album/4sxXvRDG24bb2CA5pEUOKc) | 2:30 | 2024-04-18 | 2024-11-10 |
 | [Papi Purane](https://open.spotify.com/track/4XUHHkMuN4pPj7mX4UEQYz) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Papi Purane](https://open.spotify.com/album/1pV9QlaOmciHfC5lElLR6E) | 2:30 | 2024-03-08 | 2024-03-19 |
+| [Parichay](https://open.spotify.com/track/2TgnkabjxRTgmIygPDDFrV) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg), [Ghanu Music](https://open.spotify.com/artist/21dcNsxyYDyCaF33KDYL3T), [3rd Eye](https://open.spotify.com/artist/318a6U8piaVqh1qyTD5sqZ) | [Parichay](https://open.spotify.com/album/3MayFswsQdEJZtOzinl5Ld) | 3:36 | 2025-06-27 |  |
 | [Parna](https://open.spotify.com/track/0ABZ4pe9n1TmbjU7bGJeFE) | [Jodha Vishu](https://open.spotify.com/artist/1PH6dOy7Zgx7emoCK2xDrE) | [Parna](https://open.spotify.com/album/0sOmxfPzvlzyJeOERA6eGp) | 1:58 | 2024-09-20 | 2024-10-01 |
 | [Pataka](https://open.spotify.com/track/23jHzNShbAaRsuEmQJN5hE) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ), [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [Pataka](https://open.spotify.com/album/1RHx6SdPqgoYkmpiOqV29P) | 3:24 | 2023-09-27 | 2025-01-11 |
 | [Pinball \- Mafioso Chapter 1](https://open.spotify.com/track/05JB6RkfwfQcS9zUqCJ28V) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo), [Yeh Proof](https://open.spotify.com/artist/0xuzAcmzyzVoKqRgA9oF4D) | [Pinball \(Mafioso Chapter 1\)](https://open.spotify.com/album/6vXXmSq4bxzyfu4g2HJulg) | 3:02 | 2023-06-16 | 2023-07-07 |

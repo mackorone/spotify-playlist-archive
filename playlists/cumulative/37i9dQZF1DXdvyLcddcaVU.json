@@ -557,6 +557,28 @@
     },
     {
       "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
+      },
+      "artists": [
+        {
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
+        },
+        {
+          "name": "Merryn Jeann",
+          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218480,
+      "name": "Aloha",
+      "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
+    },
+    {
+      "album": {
         "name": "Alpha",
         "url": "https://open.spotify.com/album/6UvEQv66MXQooh2lUDYiMw"
       },
@@ -1254,7 +1276,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 197746,
       "name": "Bah o\u00e9",
       "url": "https://open.spotify.com/track/2Yruxx4Hsu5EVWGwhDbqg6"
@@ -1556,6 +1578,28 @@
       "duration_ms": 205400,
       "name": "Bebeto",
       "url": "https://open.spotify.com/track/1fDFx7MpMpxNeHj0uQ4395"
+    },
+    {
+      "album": {
+        "name": "Believe (Jackyboom Piano Edit) [Cover]",
+        "url": "https://open.spotify.com/album/4OWo5upqMrOra2hkjI3kPy"
+      },
+      "artists": [
+        {
+          "name": "Jackyboom",
+          "url": "https://open.spotify.com/artist/4CN3qy1m5QklCe8Sh2HnId"
+        },
+        {
+          "name": "nowifi",
+          "url": "https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225985,
+      "name": "Believe (Jackyboom Piano Edit) - Cover",
+      "url": "https://open.spotify.com/track/7GmAIRZo719xQ2i2wG6Pxx"
     },
     {
       "album": {
@@ -2121,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "BTRD",
+        "url": "https://open.spotify.com/album/3W3X5NelHHpoxgoGg8V9CB"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "BTRD",
+      "url": "https://open.spotify.com/track/2hndzMd89P8nEG4jTRurPk"
+    },
+    {
+      "album": {
         "name": "Business (feat. Naza)",
         "url": "https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF"
       },
@@ -2342,7 +2404,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 156013,
       "name": "Candy",
       "url": "https://open.spotify.com/track/46FGa3lho9s46AE4xGXLRX"
@@ -2550,7 +2612,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 159794,
       "name": "Casque Roof",
       "url": "https://open.spotify.com/track/7x2QqC7orIpQEJyRdxuEfV"
@@ -3559,6 +3621,28 @@
     },
     {
       "album": {
+        "name": "Dame Un Grrr",
+        "url": "https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65"
+      },
+      "artists": [
+        {
+          "name": "Fantomel",
+          "url": "https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald"
+        },
+        {
+          "name": "Kate Linn",
+          "url": "https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133220,
+      "name": "Dame Un Grrr",
+      "url": "https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX"
+    },
+    {
+      "album": {
         "name": "La f\u00eate maghrebine (40 titres pour mariage, henn\u00e9 et c\u00e9r\u00e9monies)",
         "url": "https://open.spotify.com/album/3gDIZqKTceWoGAn70TT4SH"
       },
@@ -3696,7 +3780,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 267440,
       "name": "Dans tes yeux",
       "url": "https://open.spotify.com/track/1JHjHIR5kmXRYCIdtTJKrr"
@@ -4722,7 +4806,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 204768,
       "name": "EoO",
       "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
@@ -5771,6 +5855,24 @@
     },
     {
       "album": {
+        "name": "has to be you",
+        "url": "https://open.spotify.com/album/7cLHMTmxPwRJtIO5HO3JRx"
+      },
+      "artists": [
+        {
+          "name": "Thiago Sub",
+          "url": "https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110571,
+      "name": "has to be you",
+      "url": "https://open.spotify.com/track/7hgdBoFN7AE2c6Gwh0zS4P"
+    },
+    {
+      "album": {
         "name": "HAVHAVHAV",
         "url": "https://open.spotify.com/album/1fmxQwyTIL74PrfZQwg6nu"
       },
@@ -5782,7 +5884,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 126255,
       "name": "HAVHAVHAV",
       "url": "https://open.spotify.com/track/0126WdGxnrNEqzgUb1wgQH"
@@ -6075,6 +6177,28 @@
     },
     {
       "album": {
+        "name": "The King's Son",
+        "url": "https://open.spotify.com/album/2CvQVSObCdp6SVjoM2D6a4"
+      },
+      "artists": [
+        {
+          "name": "The King's Son",
+          "url": "https://open.spotify.com/artist/6odusjO6ZjjoV3IFlzSxoE"
+        },
+        {
+          "name": "Blacko",
+          "url": "https://open.spotify.com/artist/0kcFJUUSenAq7PbxDk7Ek9"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196265,
+      "name": "I'm Not Rich",
+      "url": "https://open.spotify.com/track/7hogxy0ClAas2WdGX6u66b"
+    },
+    {
+      "album": {
         "name": "I'M SORRY",
         "url": "https://open.spotify.com/album/2h3yOY17ak9LUJs57SPdn6"
       },
@@ -6090,6 +6214,28 @@
       "duration_ms": 152571,
       "name": "I'M SORRY",
       "url": "https://open.spotify.com/track/2ynH9ETEo4OgLxNLJrcMKP"
+    },
+    {
+      "album": {
+        "name": "C'est pas des LOL",
+        "url": "https://open.spotify.com/album/6x61ccU1M5NlkpWRJAS2xT"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "Jimmy Sax",
+          "url": "https://open.spotify.com/artist/3HUXmgW0AIko5psVtQmqWE"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235506,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/1n7fqc4bQcxIyxZP2IXVbg"
     },
     {
       "album": {
@@ -6174,6 +6320,24 @@
       "duration_ms": 152952,
       "name": "Il est mari\u00e9",
       "url": "https://open.spotify.com/track/6tr6JVAIjhpQ02jtmzMPtm"
+    },
+    {
+      "album": {
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149666,
+      "name": "Illegal",
+      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
     },
     {
       "album": {
@@ -6384,7 +6548,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 122013,
       "name": "J'voulais",
       "url": "https://open.spotify.com/track/3cjfM3p90NmONjatWjBdwg"
@@ -6888,6 +7052,24 @@
       "duration_ms": 176600,
       "name": "Karma",
       "url": "https://open.spotify.com/track/04UmdvSon62RmU7HPOvFP1"
+    },
+    {
+      "album": {
+        "name": "Kat Slater (Native Remedies Remix)",
+        "url": "https://open.spotify.com/album/1xTOkHI0GDVBNuFutqUmMF"
+      },
+      "artists": [
+        {
+          "name": "Tim Duzit",
+          "url": "https://open.spotify.com/artist/4piDtKqW65wHWGs0TW2T8T"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109581,
+      "name": "Kat Slater (Native Remedies Remix)",
+      "url": "https://open.spotify.com/track/6vAvTYuvHpVBzDOx7W4zJQ"
     },
     {
       "album": {
@@ -8148,7 +8330,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 99285,
       "name": "LOS VOLTAJE",
       "url": "https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx"
@@ -10440,7 +10622,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-20",
+      "date_removed": null,
       "duration_ms": 170266,
       "name": "Normal",
       "url": "https://open.spotify.com/track/4gGxBFqh6tZWktF9h9HWlU"
@@ -14396,7 +14578,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 139420,
       "name": "Totopika",
       "url": "https://open.spotify.com/track/6eb5omKnWjZabRNYVj3Lsj"
@@ -14418,7 +14600,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 236363,
       "name": "Tout est cass\u00e9",
       "url": "https://open.spotify.com/track/0jqiUpx2nUzwisZe1PTLvS"
@@ -14924,7 +15106,7 @@
       },
       "artists": [
         {
-          "name": "Mariana Froes",
+          "name": "Mari Froes",
           "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
         },
         {

@@ -5481,6 +5481,28 @@
     },
     {
       "album": {
+        "name": "i couldn't hold back",
+        "url": "https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170316,
+      "name": "i couldn't hold back",
+      "url": "https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy"
+    },
+    {
+      "album": {
         "name": "I Don't Mind",
         "url": "https://open.spotify.com/album/1B7r591yLIpkYA4Q3cgubw"
       },
@@ -7640,6 +7662,28 @@
       "duration_ms": 215648,
       "name": "Mary Go Wild! - Franky Rizardo \u201897 Remix",
       "url": "https://open.spotify.com/track/5mGHkOssoHmrdtZ4GX81HP"
+    },
+    {
+      "album": {
+        "name": "ME & U",
+        "url": "https://open.spotify.com/album/5KdzO0y6PM3DTTykeaBQNU"
+      },
+      "artists": [
+        {
+          "name": "Albert Harvey",
+          "url": "https://open.spotify.com/artist/5OEDPvGsA5L54lRrdqi8Aj"
+        },
+        {
+          "name": "Nathalie Blue",
+          "url": "https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154006,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/66CevqpUKEplNsJBuHIqlb"
     },
     {
       "album": {
@@ -10474,7 +10518,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 208863,
       "name": "Somebody - Radio Edit",
       "url": "https://open.spotify.com/track/4R5HDTBHkbpcEBahlXp4nw"
@@ -11292,7 +11336,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 160314,
       "name": "Tell Me What You Want",
       "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"

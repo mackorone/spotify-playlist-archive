@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-562 songs - 23 hr 15 min
+564 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Quiet in the Garden](https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Just a Lullaby](https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd) | 2:20 | 2020-08-30 |  |
 | [Rain season](https://open.spotify.com/track/6khEYI59dTyi3IMuzOKaoD) | [Ymori](https://open.spotify.com/artist/4Yccu9UQwMSEegvhhS6tRK) | [Rain season / The sun came out](https://open.spotify.com/album/0OvVyvIdtM8RJ1uC2O1yuB) | 2:04 | 2019-06-14 | 2019-08-13 |
 | [Raincoat](https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Raincoat](https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o) | 3:24 | 2022-10-13 |  |
+| [Raincoat \(Paul Grant Remix\)](https://open.spotify.com/track/7qTS3XAGwebfMgFWgQcB1i) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [tender Remix](https://open.spotify.com/album/6UxnjFQfPhF7OqkgDZUUVi) | 3:13 | 2025-06-27 |  |
 | [Rainy Day](https://open.spotify.com/track/5b2pZuGJVlnVBTMGDQVhmJ) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [HighSáez](https://open.spotify.com/album/1PgPW5Eg8239FOnKPorn2n) | 1:19 | 2020-07-18 | 2022-07-24 |
 | [re: Belief](https://open.spotify.com/track/0ajeqWnQFIVRiNZ2BZUV3N) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Lonely Girl](https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO) | 2:03 | 2022-07-28 | 2023-06-22 |
 | [re: Belief](https://open.spotify.com/track/0g1Pc2u4bltu3qWzidT1Yk) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [re: Belief](https://open.spotify.com/album/0QWsMY7mIJFA7Rj4gDiHIN) | 2:03 | 2022-07-28 | 2022-08-01 |
@@ -403,6 +404,7 @@
 | [Red moon](https://open.spotify.com/track/5TGFhHolLkIp7ZO799qypV) | [hiyasu](https://open.spotify.com/artist/7lNkPk6OeVKmPuLs1aRGNc) | [Red moon](https://open.spotify.com/album/1Avmt8F962GtbwfKTylowU) | 2:21 | 2022-08-04 | 2022-09-23 |
 | [Red Phase, Part One](https://open.spotify.com/track/6riOshSCGusBuhC9okwNBS) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [The Crucible \(Red Phase\)](https://open.spotify.com/album/4zcIVoAVEim9lIROJk7fhv) | 2:58 | 2021-06-12 | 2021-09-02 |
 | [reflection eternal](https://open.spotify.com/track/6eGMwVVABqVTe9bWRIm498) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 4:17 | 2020-03-27 | 2021-10-12 |
+| [reminisce](https://open.spotify.com/track/33eWL7EXXttUumnaOJ95vT) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kzyboost](https://open.spotify.com/artist/4zJ19jYGUpEGwnTVEYDPil) | [reminisce](https://open.spotify.com/album/3hgNp3JLIj9YqRo3RuvWeC) | 2:49 | 2025-06-27 |  |
 | [Reminisce](https://open.spotify.com/track/3dqasc8Jr0GI6mXF7nWymv) | [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS), [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Marcus Tenney](https://open.spotify.com/artist/4nujeeZvLhAuw47XvmeTRq) | [Reminisce](https://open.spotify.com/album/3ChXg4GZXHN2ZJuvPOgA51) | 3:36 | 2019-08-31 | 2020-06-29 |
 | [Rerisen](https://open.spotify.com/track/7lUHksmQmfjm0dcf1w0u55) | [Funkonami](https://open.spotify.com/artist/6JkzdEK1Ow5fUGJQ5zGgkk), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Rerisen / Free Your Mind](https://open.spotify.com/album/4eleApdOc0W39rR1DH0oEZ) | 3:04 | 2020-01-14 | 2020-06-29 |
 | [Restless Minds](https://open.spotify.com/track/5EG6DERHltnACdQ81gDMU0) | [Yomoti](https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC) | [Restless Minds](https://open.spotify.com/album/33ANhDHc4LWZKFqyzWCBVX) | 2:09 | 2019-05-26\* | 2022-04-20 |
@@ -416,7 +418,7 @@
 | [Romantic Rain](https://open.spotify.com/track/0ONPyowm9YQFY7mtx45GaD) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Romantic Rain](https://open.spotify.com/album/1tQiRd5m1st2e60sbyvbcS) | 2:50 | 2020-08-30 | 2022-07-28 |
 | [Roses](https://open.spotify.com/track/1u0Xo3j20ST5IOZIffErzh) | [wüsh](https://open.spotify.com/artist/4UpdjtYWiLUuaFT18TefcK) | [For Her](https://open.spotify.com/album/3sRbCMv1Rj5vRbnQT3npdu) | 1:35 | 2022-11-17 | 2024-04-19 |
 | [Roses](https://open.spotify.com/track/3rDtYwyfZNfTfxjyivntg5) | [wüsh](https://open.spotify.com/artist/4UpdjtYWiLUuaFT18TefcK) | [For Her](https://open.spotify.com/album/4O4tlQX1aDjudqgHFBaRqS) | 1:35 | 2019-05-26\* | 2022-11-19 |
-| [Rostrum](https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [CELEBRATION OF JAY 3](https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo) | 2:15 | 2023-02-10 |  |
+| [Rostrum](https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [CELEBRATION OF JAY 3](https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo) | 2:15 | 2023-02-10 | 2025-06-28 |
 | [Rostrum](https://open.spotify.com/track/6FBdKFeFKVveyC8v6l0KMg) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [CELEBRATION OF JAY 3](https://open.spotify.com/album/14k8oEMytKKBos3mUQYgeM) | 2:15 | 2023-02-11 | 2024-04-19 |
 | [Rubberband](https://open.spotify.com/track/1kSWi8ycKlP4WSkuXOl9Rv) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Rubberband](https://open.spotify.com/album/0i7o6n9c8pGHgfmqlMD9uz) | 1:51 | 2022-11-17 | 2024-04-19 |
 | [Rubberband](https://open.spotify.com/track/3gCnoDKLaiHoScvQuUAKeh) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Rubberband](https://open.spotify.com/album/3YTUVIwwsncLHLshRd6saT) | 1:51 | 2020-06-19 | 2022-11-20 |
@@ -551,7 +553,7 @@
 | [Whenever](https://open.spotify.com/track/0XpWIznCUOlkgOT0mqiBsV) | [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Whenever](https://open.spotify.com/album/3C6POtsAahtLiVCRyIGTHz) | 2:00 | 2023-04-27 | 2023-04-29 |
 | [Whenever](https://open.spotify.com/track/4zH1IA6sy4kU4CXavEvOqi) | [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Whenever](https://open.spotify.com/album/1lQ6jOdtPJXrVAit9k7UzZ) | 2:00 | 2023-04-27 | 2024-04-19 |
 | [Whiskey Sour](https://open.spotify.com/track/2VfsGpk0cMWyzM42hqKu5r) | [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg) | [Whiskey Sour / Strammer Max](https://open.spotify.com/album/5XGfotYYtQVErNef3THqQ8) | 1:42 | 2020-07-18 | 2025-03-09 |
-| [Whispers in the Night](https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH) | [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [PAREIDOLIA](https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC) | 3:01 | 2023-03-02 |  |
+| [Whispers in the Night](https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH) | [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [PAREIDOLIA](https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC) | 3:01 | 2023-03-02 | 2025-06-28 |
 | [White Tea](https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ), [dr\. nibbles](https://open.spotify.com/artist/0NAtU3NLFUmAHbEgdZqP1G) | [White Tea](https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ) | 1:28 | 2019-06-14 |  |
 | [Win the Lottery](https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's penny candy store \#7](https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd) | 3:06 | 2021-12-16 |  |
 | [winter in rio](https://open.spotify.com/track/2DteRLMODVzxYxT62LI5hB) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Rio](https://open.spotify.com/album/1sDUK1NkzRGYnvrskdWcMe) | 1:40 | 2022-07-28 | 2024-04-08 |

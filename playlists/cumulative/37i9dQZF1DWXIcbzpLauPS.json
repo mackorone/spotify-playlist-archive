@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "the best new metalcore. where brutality and technicality collide. Cover: Killswitch Engage",
+  "description": "the best new metalcore. where brutality and technicality collide. Cover: Fit For A King",
   "name": "The Core",
   "tracks": [
     {
@@ -2252,6 +2252,24 @@
       "duration_ms": 215039,
       "name": "Begin Again",
       "url": "https://open.spotify.com/track/6uCkCdWgzS2joEVTGnGSz9"
+    },
+    {
+      "album": {
+        "name": "Begin The Sacrifice",
+        "url": "https://open.spotify.com/album/5Wx6aUM8Z1fPO6X6xbgHpR"
+      },
+      "artists": [
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238636,
+      "name": "Begin The Sacrifice",
+      "url": "https://open.spotify.com/track/5tvZflBKI3bKW5AR56DXBx"
     },
     {
       "album": {
@@ -15834,7 +15852,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 225923,
       "name": "Pig",
       "url": "https://open.spotify.com/track/3IMsQ5w6Lq1pJak148cqLK"
@@ -19789,6 +19807,24 @@
     },
     {
       "album": {
+        "name": "TANEBI",
+        "url": "https://open.spotify.com/album/0SNL3hIHvftXGTlzy6vdJC"
+      },
+      "artists": [
+        {
+          "name": "Knosis",
+          "url": "https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212465,
+      "name": "TANEBI",
+      "url": "https://open.spotify.com/track/1qHuqLqX3WMb6EYTk5YIrf"
+    },
+    {
+      "album": {
         "name": "Tea Leaves",
         "url": "https://open.spotify.com/album/6lcDSJnPRtRwPmNVVQc0Tt"
       },
@@ -22836,7 +22872,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 223746,
       "name": "We Are The Dead (feat. Alex Terrible, Tom Barber)",
       "url": "https://open.spotify.com/track/5dxYpCEtdy4koK4ziTRqma"

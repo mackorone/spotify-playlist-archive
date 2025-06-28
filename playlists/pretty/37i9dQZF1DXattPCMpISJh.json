@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Billy Porter",
-  "num_followers": 140540,
+  "num_followers": 140586,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEJnzwAAAAA+6YwkGsxK1PZiJ8bFfOZC",
+  "snapshot_id": "aF4XXAAAAAD2cF3qpfniDabzWM89wR1C",
   "tracks": [
     {
       "added_at": "2025-06-06 04:00:15",
@@ -23,6 +23,38 @@
       "duration_ms": 152485,
       "name": "Off The Ground",
       "url": "https://open.spotify.com/track/3yIGWpmhul23xz9C3PXPQ2"
+    },
+    {
+      "added_at": "2025-05-09 04:00:34",
+      "album": {
+        "name": "Taste",
+        "url": "https://open.spotify.com/album/1hpoTpHmAE3ERYXjrC84jA"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 170393,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5pe8674S8FnKW8tNpHFjAZ"
+    },
+    {
+      "added_at": "2025-06-27 04:00:28",
+      "album": {
+        "name": "Smooth",
+        "url": "https://open.spotify.com/album/6i8Ct9g7EQk6Nn9kJHFRgr"
+      },
+      "artists": [
+        {
+          "name": "Nerd in Disco",
+          "url": "https://open.spotify.com/artist/3FO1TjJvSHtO141dRWkq5l"
+        }
+      ],
+      "duration_ms": 185084,
+      "name": "Smooth",
+      "url": "https://open.spotify.com/track/78rWUQvZlErPu6bCVWbqWW"
     },
     {
       "added_at": "2025-05-30 04:00:19",
@@ -51,22 +83,6 @@
       "duration_ms": 259295,
       "name": "Rosmarina",
       "url": "https://open.spotify.com/track/5LWU3ZLXYjIu3gUwgtQt86"
-    },
-    {
-      "added_at": "2025-05-09 04:00:34",
-      "album": {
-        "name": "Taste",
-        "url": "https://open.spotify.com/album/1hpoTpHmAE3ERYXjrC84jA"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 170393,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/5pe8674S8FnKW8tNpHFjAZ"
     },
     {
       "added_at": "2025-03-07 05:00:21",
@@ -1799,22 +1815,6 @@
       "duration_ms": 292428,
       "name": "Sick of Sadness - Lenno Remix",
       "url": "https://open.spotify.com/track/68xWjTE614YgMSGWNjnKny"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Celebrities",
-        "url": "https://open.spotify.com/album/0HQYwb8lUcmwfYjtlpT2t0"
-      },
-      "artists": [
-        {
-          "name": "Karma Child",
-          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Celebrities",
-      "url": "https://open.spotify.com/track/4ZUrFcdrdXge2KavbwF1QG"
     },
     {
       "added_at": "2023-06-02 04:01:00",

@@ -6,205 +6,13 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABtKvGEYjg87+vW6BEpkf/z",
+  "snapshot_id": "AAAAAAAAAAD9yDHjXcCS9PaZBlxiN1f6",
   "tracks": [
     {
-      "added_at": "2025-06-20 04:00:00",
+      "added_at": "2025-06-27 04:00:00",
       "album": {
-        "name": "Dominate",
-        "url": "https://open.spotify.com/album/17qRjBxoYcA3joNL4d6EzZ"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 194773,
-      "name": "Dominate",
-      "url": "https://open.spotify.com/track/5R0uszDwzrAEtxMgTwoIbt"
-    },
-    {
-      "added_at": "2025-06-20 04:00:00",
-      "album": {
-        "name": "Close to you",
-        "url": "https://open.spotify.com/album/0kSsLJiSSakbOSZrHGlVRP"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 103441,
-      "name": "Close to you",
-      "url": "https://open.spotify.com/track/6CBurTHmYJhIcDD72Qgjnm"
-    },
-    {
-      "added_at": "2025-06-20 04:00:00",
-      "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 181192,
-      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
-      "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
-    },
-    {
-      "added_at": "2025-06-20 04:00:00",
-      "album": {
-        "name": "Drain The Blood",
-        "url": "https://open.spotify.com/album/71O4BgOQrQSSc69zYDBWhg"
-      },
-      "artists": [
-        {
-          "name": "Dayseeker",
-          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
-        },
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Drain The Blood",
-      "url": "https://open.spotify.com/track/0CGNXPhDBqhBCRunFnrVl0"
-    },
-    {
-      "added_at": "2025-06-20 04:00:00",
-      "album": {
-        "name": "STARDUST",
-        "url": "https://open.spotify.com/album/5uUsVCjDRidAbWVEZSbAXn"
-      },
-      "artists": [
-        {
-          "name": "Nanase Aikawa",
-          "url": "https://open.spotify.com/artist/2RNdF99wgP5ikh7fIJ0DIk"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "STARDUST",
-      "url": "https://open.spotify.com/track/5kiP5w10py55zfgWeHxpfa"
-    },
-    {
-      "added_at": "2025-06-20 04:00:00",
-      "album": {
-        "name": "Let's Ride Away (Jonas Blue Remix)",
-        "url": "https://open.spotify.com/album/05IR0uSEjd7nu4ZgQnIMiA"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 183414,
-      "name": "Let's Ride Away - Jonas Blue Remix",
-      "url": "https://open.spotify.com/track/2oN9Y8nY83OJ6euCOxiVNb"
-    },
-    {
-      "added_at": "2025-06-20 04:00:00",
-      "album": {
-        "name": "The Nutcracker: Waltz of the Flowers",
-        "url": "https://open.spotify.com/album/5yghF09fn2e2cRlzFbZGXn"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Tugan Sokhiev",
-          "url": "https://open.spotify.com/artist/3enXY52UlrP6E6DbqE1jVN"
-        }
-      ],
-      "duration_ms": 419426,
-      "name": "The Nutcracker: Waltz of the Flowers",
-      "url": "https://open.spotify.com/track/211w4YeoNDqklfgGMPM69f"
-    },
-    {
-      "added_at": "2025-06-20 04:00:00",
-      "album": {
-        "name": "Amazing",
-        "url": "https://open.spotify.com/album/507pIlwxQwhwWRBtprCJFV"
-      },
-      "artists": [
-        {
-          "name": "Superfly",
-          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
-        }
-      ],
-      "duration_ms": 279960,
-      "name": "\u6e1a",
-      "url": "https://open.spotify.com/track/3ncRVSTTZNPtwpzMc0jnxy"
-    },
-    {
-      "added_at": "2025-06-20 04:00:00",
-      "album": {
-        "name": "Ascension (Alesso Remix)",
-        "url": "https://open.spotify.com/album/1A1ZYfPpq7zeYlSTK7N3vp"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Tina Guo",
-          "url": "https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV"
-        },
-        {
-          "name": "EWC",
-          "url": "https://open.spotify.com/artist/4kKPwcOLjcgetDZos7Yx1K"
-        },
-        {
-          "name": "Hollywood Scoring",
-          "url": "https://open.spotify.com/artist/7kmiZAOBxtLgx7CMSGOXxg"
-        }
-      ],
-      "duration_ms": 210909,
-      "name": "Ascension (Alesso Remix)",
-      "url": "https://open.spotify.com/track/3dVfQl8ZXN12zIRUfqC5bT"
-    },
-    {
-      "added_at": "2025-06-20 04:00:00",
-      "album": {
-        "name": "4th Liners",
-        "url": "https://open.spotify.com/album/2GEg05aEySgUWtDoGtUYso"
-      },
-      "artists": [
-        {
-          "name": "League Minimum",
-          "url": "https://open.spotify.com/artist/70ETMV2vrvNx16y7ht6BBD"
-        }
-      ],
-      "duration_ms": 144750,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/1iSDn0mTpb0ZLZcbZgYkef"
-    },
-    {
-      "added_at": "2025-06-20 04:00:00",
-      "album": {
-        "name": "Leavin' Here (The Manticore Tapes)",
-        "url": "https://open.spotify.com/album/1aMdAEM4FntrFDbrOdpKph"
+        "name": "The Manticore Tapes",
+        "url": "https://open.spotify.com/album/4lA6sBkX6kxj6aoHBqd6eY"
       },
       "artists": [
         {
@@ -212,12 +20,232 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 203320,
-      "name": "Leavin' Here - The Manticore Tapes",
-      "url": "https://open.spotify.com/track/79rlrnFpFrXZQTvDCsgcdg"
+      "duration_ms": 206040,
+      "name": "Vibrator - The Manticore Tapes",
+      "url": "https://open.spotify.com/track/3MWH5l5Y2zurMuiErRRcCm"
     },
     {
-      "added_at": "2025-06-20 04:00:00",
+      "added_at": "2025-06-27 04:00:00",
+      "album": {
+        "name": "The Arsonist",
+        "url": "https://open.spotify.com/album/0n8CNMEoXFrvm9IfSYoGgv"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "duration_ms": 254546,
+      "name": "Battle Of Harvest Moon",
+      "url": "https://open.spotify.com/track/1DiuPn5TtWc1pIC8rKPHym"
+    },
+    {
+      "added_at": "2025-06-27 04:00:00",
+      "album": {
+        "name": "Odes To The Gods",
+        "url": "https://open.spotify.com/album/0QV0tTexpaWENGHv8NgX7w"
+      },
+      "artists": [
+        {
+          "name": "Defenders Of The Faith",
+          "url": "https://open.spotify.com/artist/3WuYo4HWGCs506nKBc5tSw"
+        },
+        {
+          "name": "Therion",
+          "url": "https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi"
+        }
+      ],
+      "duration_ms": 241820,
+      "name": "Intruder",
+      "url": "https://open.spotify.com/track/2iJQDtuxqOeaLIo5J15EFN"
+    },
+    {
+      "added_at": "2025-06-27 04:00:00",
+      "album": {
+        "name": "Son (Juno Reactor Remix)",
+        "url": "https://open.spotify.com/album/1SWniSavJUFr1KeofW2GuX"
+      },
+      "artists": [
+        {
+          "name": "Molchat Doma",
+          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+        },
+        {
+          "name": "Juno Reactor",
+          "url": "https://open.spotify.com/artist/1Pe3z1UqRzKsQtHsl25dm6"
+        }
+      ],
+      "duration_ms": 414602,
+      "name": "Son - Juno Reactor Remix",
+      "url": "https://open.spotify.com/track/1fACNlTXBRvZqHtec0ePCK"
+    },
+    {
+      "added_at": "2025-06-27 04:00:00",
+      "album": {
+        "name": "Tracks II: The Lost Albums",
+        "url": "https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 345866,
+      "name": "Unsatisfied Heart",
+      "url": "https://open.spotify.com/track/54tyK1tUpNgxSVFrLJb1wk"
+    },
+    {
+      "added_at": "2025-06-27 04:00:00",
+      "album": {
+        "name": "ETERNA",
+        "url": "https://open.spotify.com/album/42jxYcNgfc3aKx5OFf0Apm"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 196112,
+      "name": "Acelero",
+      "url": "https://open.spotify.com/track/4wa8mFzmBEB9xfeCCSi8CG"
+    },
+    {
+      "added_at": "2025-06-27 04:00:00",
+      "album": {
+        "name": "Sakura (Groovy!)",
+        "url": "https://open.spotify.com/album/2OD4n2HTUZ4FagG4AWA7Xy"
+      },
+      "artists": [
+        {
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+        },
+        {
+          "name": "Cristina Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3dIas19OkS23WA7DRnG1SO"
+        }
+      ],
+      "duration_ms": 68046,
+      "name": "Sakura (Groovy!)",
+      "url": "https://open.spotify.com/track/3JaRlJfu5lXZagExgSD6cE"
+    },
+    {
+      "added_at": "2025-06-27 04:00:00",
+      "album": {
+        "name": "The Secret Of Life: Partners, Volume 2",
+        "url": "https://open.spotify.com/album/3IWJnA5vzbaVW3LaNuftb2"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 286264,
+      "name": "Fragile (with Sting)",
+      "url": "https://open.spotify.com/track/2l0rcglvO7sDQJcbTJxWK4"
+    },
+    {
+      "added_at": "2025-06-27 04:00:00",
+      "album": {
+        "name": "Keeper of Chronos",
+        "url": "https://open.spotify.com/album/13JpLlscppTg9tabzKOscz"
+      },
+      "artists": [
+        {
+          "name": "ScarLid Vibez",
+          "url": "https://open.spotify.com/artist/5kNDp8ViqFRVvMDbHrhfzq"
+        },
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "duration_ms": 79020,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/5BQ5OJkyDq9eS6XypoZjZB"
+    },
+    {
+      "added_at": "2025-06-27 04:00:00",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 165107,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI"
+    },
+    {
+      "added_at": "2025-06-27 04:00:00",
+      "album": {
+        "name": "Album of the Year #1 Funkateer (Bonus)",
+        "url": "https://open.spotify.com/album/4WEbsbuolnmojl4JMPQZlZ"
+      },
+      "artists": [
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Fantaazma",
+          "url": "https://open.spotify.com/artist/2PSnVa4aT9bntUbGmLAa0V"
+        },
+        {
+          "name": "Brother Nature",
+          "url": "https://open.spotify.com/artist/3tmXdtreR3DBXX5TLv4kda"
+        },
+        {
+          "name": "Mousse T.",
+          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
+        }
+      ],
+      "duration_ms": 190506,
+      "name": "Bubble Pop - Mousse T. Remix",
+      "url": "https://open.spotify.com/track/0co27D2msY1SfCZK6J4fu3"
+    },
+    {
+      "added_at": "2025-06-27 04:00:00",
+      "album": {
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/22V3MT04FxMnr8RxzhbIve"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Citadelle",
+          "url": "https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8"
+        }
+      ],
+      "duration_ms": 148214,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/1Ju9Tb5R1vsUu1Ir8sO6vX"
+    },
+    {
+      "added_at": "2025-06-27 04:00:00",
       "album": {
         "name": "Nightmares as Extensions of the Waking State",
         "url": "https://open.spotify.com/album/1HOjUmdJsbyvFZtAB8G7kP"
@@ -233,23 +261,39 @@
       "url": "https://open.spotify.com/track/5klGRdReS5XiS80t4axpHK"
     },
     {
-      "added_at": "2025-06-20 04:00:00",
+      "added_at": "2025-06-27 04:00:00",
       "album": {
-        "name": "The Arsonist",
-        "url": "https://open.spotify.com/album/0n8CNMEoXFrvm9IfSYoGgv"
+        "name": "Dominate",
+        "url": "https://open.spotify.com/album/17qRjBxoYcA3joNL4d6EzZ"
       },
       "artists": [
         {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
         }
       ],
-      "duration_ms": 224453,
-      "name": "Taphephobia",
-      "url": "https://open.spotify.com/track/536XnlSuHdxoEcdQFFwAka"
+      "duration_ms": 194773,
+      "name": "Dominate",
+      "url": "https://open.spotify.com/track/5R0uszDwzrAEtxMgTwoIbt"
     },
     {
-      "added_at": "2025-06-20 04:00:00",
+      "added_at": "2025-06-27 04:00:00",
+      "album": {
+        "name": "Let All That We Imagine Be The Light",
+        "url": "https://open.spotify.com/album/3SVwtqCeeVLPdnxipKxgIj"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 219691,
+      "name": "R U Happy Now",
+      "url": "https://open.spotify.com/track/4XGNzQ0JdnV27LPXVPvHWV"
+    },
+    {
+      "added_at": "2025-06-27 04:00:00",
       "album": {
         "name": "Saviors (\u00e9dition de luxe)",
         "url": "https://open.spotify.com/album/1igXRGGxaDbShzcMrfzRCp"
@@ -269,23 +313,7 @@
       "url": "https://open.spotify.com/track/65yJ2gJrgy5cCR6LAPhbac"
     },
     {
-      "added_at": "2025-06-20 04:00:00",
-      "album": {
-        "name": "Let All That We Imagine Be The Light",
-        "url": "https://open.spotify.com/album/3SVwtqCeeVLPdnxipKxgIj"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 219691,
-      "name": "R U Happy Now",
-      "url": "https://open.spotify.com/track/4XGNzQ0JdnV27LPXVPvHWV"
-    },
-    {
-      "added_at": "2025-06-20 04:00:00",
+      "added_at": "2025-06-27 04:00:00",
       "album": {
         "name": "Mixes Of A Lost World",
         "url": "https://open.spotify.com/album/2OlRb9ISy8xZku7ImTV9n8"
@@ -305,27 +333,7 @@
       "url": "https://open.spotify.com/track/36H5mG7pK0cGhldOuqDIk5"
     },
     {
-      "added_at": "2025-06-20 04:00:00",
-      "album": {
-        "name": "Ya Tak Ustal (Overseer Remix)",
-        "url": "https://open.spotify.com/album/3YRyU1sjcoqpx1149eorYf"
-      },
-      "artists": [
-        {
-          "name": "Molchat Doma",
-          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-        },
-        {
-          "name": "Overseer",
-          "url": "https://open.spotify.com/artist/3V4c44pHzC8apm8HiiFF6V"
-        }
-      ],
-      "duration_ms": 364724,
-      "name": "Ya Tak Ustal - Overseer Remix",
-      "url": "https://open.spotify.com/track/2zQ5B3xbReg4wjJpJr85E8"
-    },
-    {
-      "added_at": "2025-06-20 04:00:00",
+      "added_at": "2025-06-27 04:00:00",
       "album": {
         "name": "Inertia (from \"To Be Hero X\") [En Espa\u00f1ol]",
         "url": "https://open.spotify.com/album/2DgmyfGgg6TvMqtqyZtTjr"
@@ -345,43 +353,43 @@
       "url": "https://open.spotify.com/track/6XYx9qGSHI5k0jSKlQQ4CS"
     },
     {
-      "added_at": "2025-06-20 04:00:00",
+      "added_at": "2025-06-27 04:00:00",
       "album": {
-        "name": "Sakura (Yo Te Atrapo, T\u00fa Me Atrapas)",
-        "url": "https://open.spotify.com/album/05edtJFqJY8ZxW3ivSfvwt"
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
       "artists": [
         {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 181192,
+      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+      "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
+    },
+    {
+      "added_at": "2025-06-27 04:00:00",
+      "album": {
+        "name": "Drain The Blood",
+        "url": "https://open.spotify.com/album/71O4BgOQrQSSc69zYDBWhg"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
         },
         {
-          "name": "Cristina Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3dIas19OkS23WA7DRnG1SO"
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
         }
       ],
-      "duration_ms": 78867,
-      "name": "Sakura (Yo Te Atrapo, T\u00fa Me Atrapas)",
-      "url": "https://open.spotify.com/track/2wmYl2e1jC2s85ajemzGi1"
+      "duration_ms": 170000,
+      "name": "Drain The Blood",
+      "url": "https://open.spotify.com/track/0CGNXPhDBqhBCRunFnrVl0"
     },
     {
-      "added_at": "2025-06-20 04:00:00",
-      "album": {
-        "name": "Sunday Love",
-        "url": "https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 316373,
-      "name": "Sunday Love",
-      "url": "https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz"
-    },
-    {
-      "added_at": "2025-06-20 04:00:00",
+      "added_at": "2025-06-27 04:00:00",
       "album": {
         "name": "Canci\u00f3n sin pedigr\u00ed / Mi gallo pinto",
         "url": "https://open.spotify.com/album/4FfPWtRltBRzEvtClXokSZ"
@@ -409,7 +417,7 @@
       "url": "https://open.spotify.com/track/57r62XfI3nLGEXBslGHyGJ"
     },
     {
-      "added_at": "2025-06-20 04:00:00",
+      "added_at": "2025-06-27 04:00:00",
       "album": {
         "name": "Talkin to the Trees",
         "url": "https://open.spotify.com/album/6El5jxbJexRAdZseQEH0XB"
@@ -429,7 +437,7 @@
       "url": "https://open.spotify.com/track/3p2m9f4U9Cx9LUqFicatt6"
     },
     {
-      "added_at": "2025-06-20 04:00:00",
+      "added_at": "2025-06-27 04:00:00",
       "album": {
         "name": "Del Dicho al Hecho",
         "url": "https://open.spotify.com/album/0vixi8qFUXFU8nvzudxvjR"
@@ -453,7 +461,7 @@
       "url": "https://open.spotify.com/track/3WSX3MkLcktDXOApctV6in"
     },
     {
-      "added_at": "2025-06-20 04:00:00",
+      "added_at": "2025-06-27 04:00:00",
       "album": {
         "name": "Living Ember",
         "url": "https://open.spotify.com/album/1VwmjdT3MFAqRch44MZyBV"
@@ -473,27 +481,7 @@
       "url": "https://open.spotify.com/track/6KiEb2FUXiVSToUHLwdX07"
     },
     {
-      "added_at": "2025-06-20 04:00:00",
-      "album": {
-        "name": "The Heartbeat",
-        "url": "https://open.spotify.com/album/3ALD6KNo1lMKmITvkNHbVz"
-      },
-      "artists": [
-        {
-          "name": "ScarLid Vibez",
-          "url": "https://open.spotify.com/artist/5kNDp8ViqFRVvMDbHrhfzq"
-        },
-        {
-          "name": "Dark Tranquillity",
-          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
-        }
-      ],
-      "duration_ms": 70739,
-      "name": "Reyak",
-      "url": "https://open.spotify.com/track/18lMp5mKv98TP8qxgZH2b2"
-    },
-    {
-      "added_at": "2025-06-20 04:00:00",
+      "added_at": "2025-06-27 04:00:00",
       "album": {
         "name": "Neblinoso",
         "url": "https://open.spotify.com/album/6XYlMtEnEMCsIgNLMwtIGX"
@@ -513,7 +501,7 @@
       "url": "https://open.spotify.com/track/1noiGXxjD0VBZptcyVtUIT"
     },
     {
-      "added_at": "2025-06-20 04:00:00",
+      "added_at": "2025-06-27 04:00:00",
       "album": {
         "name": "Suspended In Air",
         "url": "https://open.spotify.com/album/3WJBWFBLGWssSXWnvKs7bG"
@@ -533,7 +521,7 @@
       "url": "https://open.spotify.com/track/2FBUZi8UAWJp5yWtjpbLqD"
     },
     {
-      "added_at": "2025-06-20 04:00:00",
+      "added_at": "2025-06-27 04:00:00",
       "album": {
         "name": "La Emboscada",
         "url": "https://open.spotify.com/album/0XtnZ9WPhnpRUMwBAXu0EN"
@@ -553,7 +541,7 @@
       "url": "https://open.spotify.com/track/2t8oHec3Wq7w1f5ABJRj4y"
     },
     {
-      "added_at": "2025-06-20 04:00:00",
+      "added_at": "2025-06-27 04:00:00",
       "album": {
         "name": "VSQ Performs the Hits of 2025, Vol. 1",
         "url": "https://open.spotify.com/album/6zVzIXdCpItzGUetIXfsPW"
@@ -569,7 +557,55 @@
       "url": "https://open.spotify.com/track/1WYDk8XsjBqrlLetgTlPC1"
     },
     {
-      "added_at": "2025-06-20 04:00:00",
+      "added_at": "2025-06-27 04:00:00",
+      "album": {
+        "name": "Let's Ride Away (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/05IR0uSEjd7nu4ZgQnIMiA"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 183414,
+      "name": "Let's Ride Away - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/2oN9Y8nY83OJ6euCOxiVNb"
+    },
+    {
+      "added_at": "2025-06-27 04:00:00",
+      "album": {
+        "name": "The Nutcracker: Waltz of the Flowers",
+        "url": "https://open.spotify.com/album/5yghF09fn2e2cRlzFbZGXn"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Tugan Sokhiev",
+          "url": "https://open.spotify.com/artist/3enXY52UlrP6E6DbqE1jVN"
+        }
+      ],
+      "duration_ms": 419426,
+      "name": "The Nutcracker: Waltz of the Flowers",
+      "url": "https://open.spotify.com/track/211w4YeoNDqklfgGMPM69f"
+    },
+    {
+      "added_at": "2025-06-27 04:00:00",
       "album": {
         "name": "Tonight (Remix)",
         "url": "https://open.spotify.com/album/62HVzI5wwzqBs6Oxt27oRx"
@@ -595,6 +631,34 @@
       "duration_ms": 145566,
       "name": "Tonight - Remix",
       "url": "https://open.spotify.com/track/6V4xT0QUTdw5WdEv2ot5jb"
+    },
+    {
+      "added_at": "2025-06-27 04:00:00",
+      "album": {
+        "name": "Ascension (Alesso Remix)",
+        "url": "https://open.spotify.com/album/1A1ZYfPpq7zeYlSTK7N3vp"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Tina Guo",
+          "url": "https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV"
+        },
+        {
+          "name": "EWC",
+          "url": "https://open.spotify.com/artist/4kKPwcOLjcgetDZos7Yx1K"
+        },
+        {
+          "name": "Hollywood Scoring",
+          "url": "https://open.spotify.com/artist/7kmiZAOBxtLgx7CMSGOXxg"
+        }
+      ],
+      "duration_ms": 210909,
+      "name": "Ascension (Alesso Remix)",
+      "url": "https://open.spotify.com/track/3dVfQl8ZXN12zIRUfqC5bT"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

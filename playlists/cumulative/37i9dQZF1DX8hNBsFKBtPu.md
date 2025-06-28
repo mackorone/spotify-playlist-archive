@@ -4,7 +4,7 @@
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-544 songs - 1 day 3 hr 44 min
+545 songs - 1 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 | 2025-05-01 | 2025-05-09 |
 | [Olinda](https://open.spotify.com/track/2AxLnOCVztkn6aNOkfhiak) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Olinda](https://open.spotify.com/album/2HYKw4TpRu6io8e64cPpdy) | 2:38 | 2024-11-28 | 2025-03-28 |
 | [Omvendt](https://open.spotify.com/track/0cG5XLcf2iOSs5umvP50up) | [Freja Kirk](https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG) | [Omvendt](https://open.spotify.com/album/461Llvbq3xWkbQYS0gQ198) | 2:59 | 2025-02-13 | 2025-04-18 |
+| [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 | 2025-06-26 |  |
 | [ONE](https://open.spotify.com/track/7Dsa5qbNja1h8VOW7DzpYm) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [ONE](https://open.spotify.com/album/64HOiqlY0CKTZpEGL0YXL1) | 2:59 | 2024-06-27 | 2024-07-30 |
 | [One By One \(with Kooldrink\)](https://open.spotify.com/track/5Szjjv92FYRgLXwlhD28Dl) | [DAYYANI](https://open.spotify.com/artist/2mSRaqgZqtWItVBIoyjE0g), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [One By One \(with Kooldrink\)](https://open.spotify.com/album/5DQIle1gEaxQRidaUA7RHw) | 3:33 | 2024-10-03 | 2025-01-17 |
 | [One More Time](https://open.spotify.com/track/1sMqWltXz2CxqA69cIfKgr) | [Gunnva](https://open.spotify.com/artist/7MVtZkqiCMOWchZpXPEMXh) | [One More Time](https://open.spotify.com/album/3dpj6bMqdG4hpV2jsmhqXF) | 3:54 | 2025-06-26 |  |

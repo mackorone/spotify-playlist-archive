@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: LE SSERAFIM\*👉 <a href="https://spice.eplus.jp/articles/338805">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,419 likes - 79 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,459 likes - 79 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 70 | [WGLT](https://open.spotify.com/track/1Y6QQWRvgvQuIXiwLCYu9M) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [WGLT](https://open.spotify.com/album/53jZQLTd5Rqqc6WHM8Wr2L) | 2:56 |
 | 71 | [A Little Spoonful](https://open.spotify.com/track/0VX0DtQ2lwiXjQVhGElfDW) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [A Little Spoonful](https://open.spotify.com/album/4dMqiQlBloTaozYCFazTIo) | 3:14 |
 | 72 | [テキトーLOVE](https://open.spotify.com/track/6Z4hdjPNzvXz5t5lympMav) | [ELAIZA](https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka) | [テキトーLOVE](https://open.spotify.com/album/16qtfYbtASU6tkIbvS1Aic) | 2:38 |
-| 73 | [Fake \(feat\. ウソノ晴臣, 雅マモル, 上白石まね\)](https://open.spotify.com/track/5CwZsG2oudRaqfBwT3iN6T) | [ニセ 明](https://open.spotify.com/artist/58U158L5GKGbo0pCwKUNWI), [ウソノ晴臣](https://open.spotify.com/artist/3ZToXzItb43mfxu0bHQalB), [雅マモル](https://open.spotify.com/artist/2WuvmyELGPX30kBAiWWUgH), [Mone Kamishiraishi](https://open.spotify.com/artist/6ovBqEZCdavr7qVNCv4ixB) | [Fake](https://open.spotify.com/album/2slWK5pRETk85Y0OJrSFWl) | 4:33 |
+| 73 | [Fake \(feat\. ウソノ晴臣, 雅マモル, 上白石まね\)](https://open.spotify.com/track/5CwZsG2oudRaqfBwT3iN6T) | [ニセ 明](https://open.spotify.com/artist/58U158L5GKGbo0pCwKUNWI), [ウソノ晴臣](https://open.spotify.com/artist/3ZToXzItb43mfxu0bHQalB), [雅マモル](https://open.spotify.com/artist/2WuvmyELGPX30kBAiWWUgH), [Mane Kamishiraishi](https://open.spotify.com/artist/6ovBqEZCdavr7qVNCv4ixB) | [Fake](https://open.spotify.com/album/2slWK5pRETk85Y0OJrSFWl) | 4:33 |
 | 74 | [Ukiyo](https://open.spotify.com/track/7AQRTXj5AlvysxMSLJHahh) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [Ukiyo](https://open.spotify.com/album/27Nw2e7uHq8ygmWJzBsm5U) | 2:40 |
 | 75 | [PAST THE MOON feat\. mahina](https://open.spotify.com/track/5oZYia9krxvPpQmfN21USV) | [I love you Orchestra Swing Style](https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls), [mahina](https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM) | [PAST THE MOON feat\. mahina](https://open.spotify.com/album/2goDEYNwafHYfQ8omb6Tk6) | 3:42 |
 | 76 | [The Warmth of Sparkle](https://open.spotify.com/track/6ipzLzxQXeBhxmCUPnYeUv) | [穂ノ佳](https://open.spotify.com/artist/7MjbwNW2fwyau81CKD5ryJ) | [The Warmth of Sparkle](https://open.spotify.com/album/2E0I3MUwQ8OY4rbPy61PHp) | 5:27 |

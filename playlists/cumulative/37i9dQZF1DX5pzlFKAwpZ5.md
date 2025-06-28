@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Kenichiro Isoda on cover.
 
-318 songs - 23 hr 38 min
+319 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Prepare](https://open.spotify.com/track/7uqejCQTcEWr9H9ivSBtAx) | [Akisai](https://open.spotify.com/artist/1XY5waae0wXhCO7Nuz3SF5), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Prepare](https://open.spotify.com/album/6W0VH3DLSiLxEjVyyw0AjJ) | 3:06 | 2022-01-07 |  |
 | [raitenn](https://open.spotify.com/track/6TN0dfPDwMchr4wrVYmc63) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Kingen](https://open.spotify.com/album/0NbcRh4G7C3tJITIKhLLkf) | 3:02 | 2023-03-11 | 2023-08-19 |
 | [Rear View](https://open.spotify.com/track/1zlOiXXQostUPBPinAuW8A) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Crépuscule I & II](https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs) | 3:22 | 2023-01-13 | 2025-05-07 |
-| [Refu](https://open.spotify.com/track/0nr7iWQZW0bHDeK4SiuZnD) | [Vasola Punte](https://open.spotify.com/artist/3rxpGR9QZLc6tsY3N7lAOF), [あだち麗三郎](https://open.spotify.com/artist/03lyogJ68lBASFzxRFVXuc), [高橋佳輝](https://open.spotify.com/artist/2IsDNMbLD0WwWxGwjJ70uH), [髙野なつみ](https://open.spotify.com/artist/3zrLn8jCzac4cDpi6ppXc2) | [Lu](https://open.spotify.com/album/5siMengKn4MqakEPyEv2sI) | 7:28 | 2025-03-21 |  |
+| [Refu](https://open.spotify.com/track/0nr7iWQZW0bHDeK4SiuZnD) | [Vasola Punte](https://open.spotify.com/artist/3rxpGR9QZLc6tsY3N7lAOF), [あだち麗三郎](https://open.spotify.com/artist/03lyogJ68lBASFzxRFVXuc), [高橋佳輝](https://open.spotify.com/artist/2IsDNMbLD0WwWxGwjJ70uH), [髙野なつみ](https://open.spotify.com/artist/3zrLn8jCzac4cDpi6ppXc2) | [Lu](https://open.spotify.com/album/5siMengKn4MqakEPyEv2sI) | 7:28 | 2025-03-21 | 2025-06-28 |
 | [Resurrection](https://open.spotify.com/track/3MxQrZEQwypKCEGsv9eGgh) | [Makoto Nagata](https://open.spotify.com/artist/5JV3x2QqxVu41zI33U6Bx0) | [In The Mists of Time](https://open.spotify.com/album/3ae6LKSL28JtEMhuReJHZn) | 4:48 | 2024-07-26 |  |
 | [rings of saturn](https://open.spotify.com/track/7efaQLKB2gUcxA3YLsTQKP) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [phases of the moon](https://open.spotify.com/album/5zImrTFUWontzflxnybrH8) | 3:44 | 2022-02-18 |  |
 | [S\_lowl Melancolic](https://open.spotify.com/track/37Jy5BoONDGV5sv7CZl5AN) | [Taeji Sawai](https://open.spotify.com/artist/36rvY7yVojHB2246EG0LV5) | [As Planetary Dreams](https://open.spotify.com/album/6i9E09MCJ0M3v5oxFFzms6) | 3:15 | 2024-08-08 |  |
@@ -311,6 +311,7 @@
 | [さてと](https://open.spotify.com/track/5QGQs3ju80BbO5Q3heCVkX) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Dementos](https://open.spotify.com/album/4rvC2RKIa10KGyGQYx2ftc) | 2:49 | 2022-12-30 | 2023-01-21 |
 | [クラムボンの瞑想\- Meditation of Clammbon](https://open.spotify.com/track/5pjPli1o6JBDVxtdvWi4j8) | [磯田健一郎](https://open.spotify.com/artist/3rFwskAbReckTSOvClgBCt) | [マジエルのまどろみ \- Majel's Slumber](https://open.spotify.com/album/1Z4lvGOqC5H6rDfkeJre8a) | 11:32 | 2024-07-04 |  |
 | [ザ・ミラージュ](https://open.spotify.com/track/1fvrnSlOdMqNTsRMzZZLSZ) | [Yoshio Chin Suzuki](https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD) | [モーニング・ピクチャー](https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC) | 5:06 | 2022-12-30 |  |
+| [ソファで夢を見る](https://open.spotify.com/track/3sY2TmsgA8e1dx5ZyCyJt0) | [STILLZ](https://open.spotify.com/artist/5U2OgD5Qd1SgfCP7swmDnI), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [separated at birth](https://open.spotify.com/album/5N1rxL68D9q48lPfiseq0Q) | 4:36 | 2025-06-27 |  |
 | [ホタル](https://open.spotify.com/track/02JgKm14vFP4VZHnCmybm3) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [フィルハーモニー](https://open.spotify.com/album/3WFwWemOagEeB7XdtveFLe) | 4:26 | 2025-03-21 | 2025-06-04 |
 | [ミート・ミー・イン・ザ・シープ・メドウ](https://open.spotify.com/track/4SQbhj7q0H1yIA7LjATtt5) | [Yoshio Chin Suzuki](https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD) | [モーニング・ピクチャー](https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC) | 3:25 | 2022-12-30 | 2025-01-14 |
 | [光と水](https://open.spotify.com/track/2mYJCrSy6VLrDXLi5F28cx) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [ひとつぶの海](https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz) | 4:35 | 2025-03-06 |  |

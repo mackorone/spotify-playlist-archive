@@ -1,13 +1,53 @@
 {
-  "description": "The best in blues right now. Cover: Robert Randolph",
-  "num_followers": 139867,
+  "description": "The best in blues right now. Cover: Christone \"Kingfish\" Ingram",
+  "num_followers": 139915,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFTc4AAAAAB0U5hy330oQNNZn6nLgkS8",
+  "snapshot_id": "aF4XWQAAAACScMw6mgjN9qTuvtNCuU2C",
   "tracks": [
+    {
+      "added_at": "2025-06-27 04:00:25",
+      "album": {
+        "name": "Voodoo Charm",
+        "url": "https://open.spotify.com/album/0aaGePntScMAQkV87h4rr3"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Voodoo Charm",
+      "url": "https://open.spotify.com/track/68dgcG0PJyYarPW4LLDaK9"
+    },
+    {
+      "added_at": "2025-06-27 04:00:25",
+      "album": {
+        "name": "Somebody (feat. Buddy Guy & Roosevelt Collier)",
+        "url": "https://open.spotify.com/album/5icLCOWWIZiFzHEN5RDavE"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Roosevelt Collier",
+          "url": "https://open.spotify.com/artist/7b10aYN6jh7Dai5c4tshD9"
+        }
+      ],
+      "duration_ms": 239160,
+      "name": "Somebody (feat. Buddy Guy and Roosevelt Collier)",
+      "url": "https://open.spotify.com/track/2qgRPwjxR6PYVr23fwEqTI"
+    },
     {
       "added_at": "2025-06-20 04:00:32",
       "album": {
@@ -95,6 +135,22 @@
       "duration_ms": 193570,
       "name": "Brand New Cell Phone",
       "url": "https://open.spotify.com/track/1BTZwnC6IqYFpw8vQUuYWa"
+    },
+    {
+      "added_at": "2025-06-27 04:00:25",
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/7gvNPGzNBsTEFSCvAYTojQ"
+      },
+      "artists": [
+        {
+          "name": "Foreign Affairs",
+          "url": "https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR"
+        }
+      ],
+      "duration_ms": 187096,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/6X9qrw42OWeAyowitiiemS"
     },
     {
       "added_at": "2025-06-13 04:00:32",
@@ -1633,34 +1689,6 @@
       "url": "https://open.spotify.com/track/4U9jHh7OSiDErr0OTW2FzO"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "I'm A Woman",
-        "url": "https://open.spotify.com/album/0ul0OtmuYOCV00rsaKaHPm"
-      },
-      "artists": [
-        {
-          "name": "Count Basie Orchestra",
-          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
-        },
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        },
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 298984,
-      "name": "I'm A Woman",
-      "url": "https://open.spotify.com/track/58ttzG8XXKZzXkRd0PFagO"
-    },
-    {
       "added_at": "2023-10-13 04:01:00",
       "album": {
         "name": "Big Grey Sky",
@@ -1741,22 +1769,6 @@
       "url": "https://open.spotify.com/track/7j3Pyzwl0Hs0FqOBMu1MJU"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "IDKWYCTD (I Came To Play)",
-        "url": "https://open.spotify.com/album/4OqNsio1S7X7d5QPlmgiDw"
-      },
-      "artists": [
-        {
-          "name": "Eli \"Paperboy\" Reed",
-          "url": "https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x"
-        }
-      ],
-      "duration_ms": 180739,
-      "name": "IDKWYCTD (I Came To Play)",
-      "url": "https://open.spotify.com/track/4JHfMWE8cPa4HSpllyN36J"
-    },
-    {
       "added_at": "2023-09-08 04:01:00",
       "album": {
         "name": "Animal In Me",
@@ -1771,38 +1783,6 @@
       "duration_ms": 174886,
       "name": "Animal In Me",
       "url": "https://open.spotify.com/track/0FIeSr04FRgHFAQsDDlaqo"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Love Is All",
-        "url": "https://open.spotify.com/album/2TtprEnpsHFvtHa6pmdhCj"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Nichols",
-          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Love Is All",
-      "url": "https://open.spotify.com/track/1VdINjKve1zyYptgIWLdJd"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "The Deep And The Dirty",
-        "url": "https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4"
-      },
-      "artists": [
-        {
-          "name": "Eric Johanson",
-          "url": "https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z"
-        }
-      ],
-      "duration_ms": 202536,
-      "name": "Undertow",
-      "url": "https://open.spotify.com/track/0RfKd24loJM7TM9rv5GdQk"
     }
   ],
   "unique_name": "Got Blues",

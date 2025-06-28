@@ -232,7 +232,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 265866,
       "name": "Afraid Of What You Might Find",
       "url": "https://open.spotify.com/track/7cnbRTFRYERD9bPO6SkDUx"
@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 191342,
       "name": "But I'll Keep Trying",
       "url": "https://open.spotify.com/track/5WRTFJtlDo2xjHF8LpEpGo"
@@ -4247,6 +4247,24 @@
     },
     {
       "album": {
+        "name": "Here's To Forever",
+        "url": "https://open.spotify.com/album/3p9p5hYgfz4AiC3tNfX4g7"
+      },
+      "artists": [
+        {
+          "name": "Bart van Liemt",
+          "url": "https://open.spotify.com/artist/3xLM1wsWj19ZjpYwmuyX5D"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184883,
+      "name": "Here's To Forever",
+      "url": "https://open.spotify.com/track/1kPqJKym5MEHXO0Mpdh4Bx"
+    },
+    {
+      "album": {
         "name": "Hideaway",
         "url": "https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG"
       },
@@ -6276,6 +6294,24 @@
       "duration_ms": 207982,
       "name": "Love Is Alive",
       "url": "https://open.spotify.com/track/1Dk2urUIeWH6A6tUHygDlQ"
+    },
+    {
+      "album": {
+        "name": "Love Of My Life",
+        "url": "https://open.spotify.com/album/5gTrlQZgwWH7WdAShMZEmP"
+      },
+      "artists": [
+        {
+          "name": "Chef'Special",
+          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175691,
+      "name": "Love Of My Life",
+      "url": "https://open.spotify.com/track/0Q3RbOiHt7aPTBOQDDMOw3"
     },
     {
       "album": {

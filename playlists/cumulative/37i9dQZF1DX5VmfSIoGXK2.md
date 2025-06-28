@@ -4,7 +4,7 @@
 
 > Jazz house is our love language  🌳  with Chaos In The CBD
 
-120 songs - 8 hr 9 min
+122 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Calypso](https://open.spotify.com/track/4UahXJRzy7JgPEXXhdnQPU) | [Clear Path Ensemble](https://open.spotify.com/artist/1VQ28k8VLZK2x1fgTpGO4W) | [Black Sand](https://open.spotify.com/album/7EH8VWCoo1NOnyRhIDZZjC) | 2:34 | 2025-05-23 |  |
 | [Celestial Bean](https://open.spotify.com/track/3y1WjyKAd04lZZQq1Uc81s) | [Half Dead Dave](https://open.spotify.com/artist/7jnSEc8AP86RKGbWMkWnyR) | [Celestial Bean](https://open.spotify.com/album/2ZWq2ttal2Zi3z7yjFpAQq) | 4:35 | 2025-02-28 |  |
 | [Cloud Nine](https://open.spotify.com/track/4HbYC5n3UHmm6SxdCC7Jn2) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Days In The Sun](https://open.spotify.com/album/4jrMiOto4gfVQVapKnhIJx) | 3:12 | 2025-02-21 |  |
+| [Cold nights and city bike rides.](https://open.spotify.com/track/2RilgE0ppOuYLzh3UgXdMR) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5), [Oliver Rees](https://open.spotify.com/artist/1T113aPCkLdmddNSiRvoyb) | [Cold nights and city bike rides.](https://open.spotify.com/album/1Ckf2d3h4SerfA7E8IFjp2) | 2:46 | 2025-06-27 |  |
 | [CPH](https://open.spotify.com/track/1p7OcSfDwx3kr4m4E23UPB) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [CPH](https://open.spotify.com/album/6HdAgTAOjWIZXSoWmVtG3T) | 2:05 | 2025-03-28 |  |
 | [De Vere](https://open.spotify.com/track/5QBuldX6YpnOtKfuQPlamh) | [Mack Walker](https://open.spotify.com/artist/1pdJH1yIymKtEcpperdsEx) | [De Vere](https://open.spotify.com/album/0h1g063kNhrEGgIwniBBcM) | 2:27 | 2025-02-21 |  |
 | [Different place, same people](https://open.spotify.com/track/0i6vMyHFpLh8Az4ra1iuQM) | [Altone Dieux](https://open.spotify.com/artist/5jaLmESXLLyV6XXvGkJFNv) | [Different place, same people](https://open.spotify.com/album/1wUJpcDx6efKPrmHwYDsU6) | 2:06 | 2025-02-21 |  |
@@ -41,7 +42,7 @@
 | [DTPA](https://open.spotify.com/track/2pW1kEB7RK8CdumAiXBlXr) | [Duan Wasi](https://open.spotify.com/artist/71aXcrNzVQBs4e3FLIlDVI) | [Licious](https://open.spotify.com/album/0OiY4E01FdNSKkpmmWmjqP) | 2:26 | 2025-03-14 |  |
 | [Emotional Intelligence](https://open.spotify.com/track/3yMYs3jJdAPxMgqb0CYZUG) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy), [Dave Koor](https://open.spotify.com/artist/7bWbTT6EfOWbzRmBCSGUhq) | [Chaos In The CBD & Friends](https://open.spotify.com/album/52gDijfKDkvRQiqtSmWiq8) | 6:20 | 2025-02-21 |  |
 | [Evolution](https://open.spotify.com/track/28P3hD5604xr8ZD2cpSqqV) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Evolution](https://open.spotify.com/album/0WvP86fINZdLQX9d2VYuo3) | 1:58 | 2025-02-21 |  |
-| [Faux Départ](https://open.spotify.com/track/6he02h6WNseMS0VidRjBFT) | [DJ Psychiatre](https://open.spotify.com/artist/3roL1q2jZoQt3yZqbCb1DR) | [Faux Départ](https://open.spotify.com/album/2x3aYh9DTmqKvYjcHxl1o8) | 4:37 | 2025-02-21 |  |
+| [Faux Départ](https://open.spotify.com/track/6he02h6WNseMS0VidRjBFT) | [DJ Psychiatre](https://open.spotify.com/artist/3roL1q2jZoQt3yZqbCb1DR) | [Faux Départ](https://open.spotify.com/album/2x3aYh9DTmqKvYjcHxl1o8) | 4:37 | 2025-02-21 | 2025-06-28 |
 | [fiesta jazz](https://open.spotify.com/track/10vXmDQbYD0EtwwdNXwcKU) | [Mack Walker](https://open.spotify.com/artist/1pdJH1yIymKtEcpperdsEx) | [fiesta jazz](https://open.spotify.com/album/78nm9fNZtgUmzlhXTuF19g) | 1:55 | 2025-05-30 |  |
 | [fifth element](https://open.spotify.com/track/70wy9Kh0umg2TYGmIh05oc) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Gina Sobel](https://open.spotify.com/artist/1J4zEWSsVL27NBNRgKiKr0) | [lounge lizard](https://open.spotify.com/album/5WUzH9R8AOGWqlXUtusmYz) | 3:31 | 2025-04-18 |  |
 | [Fleur de Sucre](https://open.spotify.com/track/09wDfwbHmyUFi9SKbJ0APT) | [Sable Blanc](https://open.spotify.com/artist/6kP2m716w4dZmIBQ1PCiGD) | [New Places](https://open.spotify.com/album/2AfjakN5fWOqGkAMnq82me) | 5:06 | 2025-03-14 |  |
@@ -68,7 +69,7 @@
 | [Jazz Piece 2](https://open.spotify.com/track/3fOyW8hSiOpCaXmQP4zpQH) | [DJ Aakmael](https://open.spotify.com/artist/4i2Ey9xknZmz8QQXtLzAN7) | [Jus' Tracks](https://open.spotify.com/album/2fRww4IqAwrNEEyt5P6ww8) | 7:00 | 2025-02-21 |  |
 | [Jazzy Cigarette](https://open.spotify.com/track/0DsbijUjURPgkffxhfkrfJ) | [Copenhagen untd.](https://open.spotify.com/artist/4kOHVYMZUnNasTU8eKJpme) | [Jazzy Cigarette](https://open.spotify.com/album/3zpdIwaPyjtBnIukIPddzZ) | 2:39 | 2025-02-21 |  |
 | [Jealous Girl](https://open.spotify.com/track/1Thix6BaqobCQATYE7LRln) | [DJ burgerhead](https://open.spotify.com/artist/7tkCO3Cc3NEhjZ3T3PM6ar) | [Jealous Girl](https://open.spotify.com/album/2FbWwQP2riAzTktIulJrSv) | 4:00 | 2025-03-07 |  |
-| [joycelyn's dance](https://open.spotify.com/track/3z0JwddAR5GASTxnKExIw1) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 3:18 | 2025-02-21 |  |
+| [joycelyn's dance](https://open.spotify.com/track/3z0JwddAR5GASTxnKExIw1) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 3:18 | 2025-02-21 | 2025-06-28 |
 | [Keep It Real](https://open.spotify.com/track/4YpCTAZRpNmW1EHLVrq4ur) | [Loure](https://open.spotify.com/artist/0oj4QK4zH3lghS2Oa418zZ) | [Westside Movements](https://open.spotify.com/album/07aLEJ68A2wz9em0AwnuS2) | 6:54 | 2025-02-21 | 2025-05-17 |
 | [Leather Loafers](https://open.spotify.com/track/2A1j5MzOI9xQH1godISbki) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [The Moode Life](https://open.spotify.com/album/1Weqz1h1WtlT8TCplCNBkp) | 3:42 | 2025-04-04 |  |
 | [Little Me](https://open.spotify.com/track/5Zz7T3gOuOKwVcYqmsgQpR) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Little Me](https://open.spotify.com/album/22yrN8AV9X7bQrz8MDXr6E) | 3:39 | 2025-02-21 | 2025-04-05 |
@@ -102,6 +103,7 @@
 | [Rhodes, 3AM](https://open.spotify.com/track/2RkW8H3tq7sVtqKNaL0iXn) | [Hokuto Sato](https://open.spotify.com/artist/6Dx27W6zWaZDopif8H7N8H) | [Years](https://open.spotify.com/album/3drdxf9dVPHUx8RgdH7P3y) | 5:39 | 2025-02-28 |  |
 | [Rise Up](https://open.spotify.com/track/6JT715eygcNEXD49ft9VVp) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [The Color of Sound](https://open.spotify.com/album/6hVUBys8AtFvmKGVimFVPl) | 5:03 | 2025-02-21 |  |
 | [Salve](https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Salve](https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8) | 3:13 | 2025-04-18 |  |
+| [Samba Breakfast \- Bonus Track](https://open.spotify.com/track/2wPA16bUf17UmtdlNh6ASV) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg) | [Samba Breakfast \(Bonus Track\)](https://open.spotify.com/album/4GmZJrUmzBH5q1Cjlzxqsl) | 3:07 | 2025-06-27 |  |
 | [Saw You for the First Time](https://open.spotify.com/track/44t34AtBWG4TKMF5Xc97kV) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/5OTN5IJFRgdjHsr4iaVGFo) | 6:44 | 2025-02-21 | 2025-03-22 |
 | [Shelter](https://open.spotify.com/track/1NUYg3LhwCupGjxisQTa0w) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Shelter](https://open.spotify.com/album/38cSJDqR52DWEufIBNfpqe) | 3:49 | 2025-02-21 |  |
 | [Simulacra](https://open.spotify.com/track/6uofhCrZ39bK4azqoG9naC) | [Palmate](https://open.spotify.com/artist/02mNGa8lfssm5rnhwZhVNw) | [Simulacra](https://open.spotify.com/album/7zQFTAlzMr0Gs0pKPR0txL) | 3:23 | 2025-04-04 |  |

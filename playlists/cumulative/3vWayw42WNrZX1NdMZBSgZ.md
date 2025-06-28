@@ -2,9 +2,9 @@
 
 ### [Pop Latin Hits 2025](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
-> The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Becky G &amp; Manuel Turizo
+> The perfect mix of the latest pop hits! Follow this playlist and play Camilo &quot;Maldito ChatGPT&quot; , Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Camilo
 
-898 songs - 1 day 23 hr 51 min
+900 songs - 1 day 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,6 +483,7 @@
 | [Malbec](https://open.spotify.com/track/3T3PXtfMI5oHdzOViRsJ3g) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Malbec](https://open.spotify.com/album/6tE7zlSvK0QmTK1cxw5g7m) | 4:24 | 2024-06-21 |  |
 | [Maldita Cachá](https://open.spotify.com/track/02OLbvjFRd9dCVNPbZCjXo) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Maldita Cachá](https://open.spotify.com/album/3nunl1URnEHRPjZU854vYo) | 2:24 | 2023-04-21 | 2023-06-01 |
 | [Maldita Foto](https://open.spotify.com/track/4WkEH0PgystZUaN6QU6Z0B) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Maldita Foto](https://open.spotify.com/album/3Ka78dJC3Xm7UjN7IhCXG6) | 3:10 | 2022-02-02 | 2023-05-26 |
+| [Maldito ChatGPT](https://open.spotify.com/track/4umq06kfyvtQMlBALXhxuI) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Maldito ChatGPT](https://open.spotify.com/album/0evUXtSReX8VLF1G5JJDJ9) | 3:33 | 2025-06-27 |  |
 | [Malo Pa Fingir](https://open.spotify.com/track/2ceXJCm7qcdEqeBfFOtG7P) | [Neeus](https://open.spotify.com/artist/4OMnvxQdSJeobzinrEjTpO) | [Malo Pa Fingir](https://open.spotify.com/album/2agssgnmrb0TSjB4nPhtSX) | 2:22 | 2022-11-25 | 2023-06-01 |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-02-10 |  |
 | [Manos de Tijera](https://open.spotify.com/track/2f8sB9lQ6Uh1lKKWJNR9rW) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 4:27 | 2023-06-02 | 2023-06-08 |
@@ -716,6 +717,7 @@
 | [Según Quién](https://open.spotify.com/track/6fNCrsrdIcgVd2aZZ0nnz4) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Según Quién](https://open.spotify.com/album/5Fqjf9AmZPobGPRuyO2fJf) | 2:22 | 2023-08-18 |  |
 | [Sensible](https://open.spotify.com/track/5hezYkGjsT559hGnJsKUyN) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Sensible](https://open.spotify.com/album/1NjrLqsDn8YbgSHzotKfsJ) | 3:25 | 2024-06-11 | 2024-06-29 |
 | [Seré](https://open.spotify.com/track/79zvHHEqoXY3DFUUXBwNN2) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Seré](https://open.spotify.com/album/65YVP3CV11KakZLZBagWOL) | 2:43 | 2023-01-20 | 2023-06-01 |
+| [Sería Cool](https://open.spotify.com/track/7qpwVjG2pw4Ublfcu2t38q) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Sería Cool](https://open.spotify.com/album/5lgMFWutXIb5P7qeYQsiUS) | 2:51 | 2025-06-27 |  |
 | [Serías Tú](https://open.spotify.com/track/7fzskw4tFfvERodAJxSL1o) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Serías Tú](https://open.spotify.com/album/38IW31iaOK3Zsr73cmSyds) | 3:26 | 2022-05-06 | 2023-05-26 |
 | [SHEITE](https://open.spotify.com/track/3jdfbWA1JSqKgsASdZG1uC) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [SHEITE](https://open.spotify.com/album/5Wzz3KhZ1OxupxCpwdtJIP) | 2:11 | 2024-11-22 |  |
 | [SHOFAR](https://open.spotify.com/track/68lSedap260kbjpvdvF7Tp) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [K4G](https://open.spotify.com/artist/7iE1RkAmNySaonnYrV8lmU) | [CVRBON VRMOR \[C\_DE: G\_D.O.N.\]](https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE) | 4:08 | 2024-05-03 | 2024-07-03 |

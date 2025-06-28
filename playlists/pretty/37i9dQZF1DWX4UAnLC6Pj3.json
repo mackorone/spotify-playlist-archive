@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda MS en portada.",
-  "num_followers": 1269466,
+  "num_followers": 1269496,
   "original_name": "Banda 2025",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
+        "name": "Sigan Hablando",
+        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 267500,
+      "name": "Se Logr\u00f3",
+      "url": "https://open.spotify.com/track/2Uw0BLEO96u70KQSWOc0XZ"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
         "name": "La Dama",
         "url": "https://open.spotify.com/album/2mfGjJ5WjQXi6NqFtDWoYd"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 168514,
       "name": "La Dama",
       "url": "https://open.spotify.com/track/0g7reTogQTQ3PRUQR4x8Hw"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
-        "name": "Sigan Hablando",
-        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 267500,
-      "name": "Se Logr\u00f3",
-      "url": "https://open.spotify.com/track/2Uw0BLEO96u70KQSWOc0XZ"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "24 Kilates de Corridos",
-        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 190413,
-      "name": "Juan Martha",
-      "url": "https://open.spotify.com/track/0FG2BidxWdYecUegaWAnST"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
         "name": "Carteles",
         "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
       },
@@ -647,22 +631,18 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "Mis Compas Vol. 1",
-        "url": "https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa"
+        "name": "24 Kilates de Corridos",
+        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
       },
       "artists": [
         {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 177900,
-      "name": "Con Todo Respetillo",
-      "url": "https://open.spotify.com/track/7LPcTHeoskQiZ6tv84ZYTa"
+      "duration_ms": 190413,
+      "name": "Juan Martha",
+      "url": "https://open.spotify.com/track/0FG2BidxWdYecUegaWAnST"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -687,6 +667,26 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
+        "name": "Mis Compas Vol. 1",
+        "url": "https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 177900,
+      "name": "Con Todo Respetillo",
+      "url": "https://open.spotify.com/track/7LPcTHeoskQiZ6tv84ZYTa"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
         "name": "El G\u00fcero (En Vivo)",
         "url": "https://open.spotify.com/album/7JWISvo58VF6E1zefmcMym"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 213254,
       "name": "El G\u00fcero (En Vivo)",
       "url": "https://open.spotify.com/track/5ZRMUce9HCMJpiIN5rSEYs"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
+        "name": "Fuera De Servicio",
+        "url": "https://open.spotify.com/album/2zPcd5LBH4VamS81YFR0nG"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 154868,
+      "name": "Fuera De Servicio",
+      "url": "https://open.spotify.com/track/6wTqVQ6RRkqAyT5XDGcRq4"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -727,22 +743,6 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "Fuera De Servicio",
-        "url": "https://open.spotify.com/album/2zPcd5LBH4VamS81YFR0nG"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 154868,
-      "name": "Fuera De Servicio",
-      "url": "https://open.spotify.com/track/6wTqVQ6RRkqAyT5XDGcRq4"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
         "name": "Te Lo Dije",
         "url": "https://open.spotify.com/album/6zDUZp1Wb90bA0HaRzDrDt"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "Te Felicito",
-        "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 224523,
-      "name": "Te Felicito",
-      "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
         "name": "Dile a Tu Orgullo (En Vivo)",
         "url": "https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 226345,
       "name": "Dile a Tu Orgullo (En Vivo)",
       "url": "https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 224523,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "\"V1V0\"",
-        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Voy Queri\u00e9ndote",
-      "url": "https://open.spotify.com/track/5wbyzeqiYoM3JEaCDW8aX1"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
         "name": "Arriba La Moyombiza (En Vivo)",
         "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 176000,
       "name": "Coraz\u00f3n (En Vivo)",
       "url": "https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
+        "name": "\"V1V0\"",
+        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Voy Queri\u00e9ndote",
+      "url": "https://open.spotify.com/track/5wbyzeqiYoM3JEaCDW8aX1"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "Qu\u00e9 Onda Perdida",
-        "url": "https://open.spotify.com/album/2XIMzHRF6bkv81iGbkvcQN"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 223695,
-      "name": "Qu\u00e9 Onda Perdida",
-      "url": "https://open.spotify.com/track/3TjLFavKPwuvXk5xnxPlEk"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
         "name": "Ch y la Pizza (Con Banda)",
         "url": "https://open.spotify.com/album/2SEX3CqSk94lEX0k6qE5pt"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 160085,
       "name": "Ch y la Pizza - Con Banda",
       "url": "https://open.spotify.com/track/154P0NOxJhNl9FCLZZ6p60"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
+        "name": "Qu\u00e9 Onda Perdida",
+        "url": "https://open.spotify.com/album/2XIMzHRF6bkv81iGbkvcQN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 223695,
+      "name": "Qu\u00e9 Onda Perdida",
+      "url": "https://open.spotify.com/track/3TjLFavKPwuvXk5xnxPlEk"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -1171,8 +1171,8 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "Qu\u00e9 Loco el Plebe",
-        "url": "https://open.spotify.com/album/7zib463YTjdtk4CqQZK6kK"
+        "name": "Los Prohibidos en Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6"
       },
       "artists": [
         {
@@ -1180,25 +1180,9 @@
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Qu\u00e9 Loco El Plebe",
-      "url": "https://open.spotify.com/track/5gLwcpNzRB5f9WKu512COs"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
-        "name": "CHSM El H\u00edgado X2",
-        "url": "https://open.spotify.com/album/4Xdc6jbEyG74XnamElVAmR"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 185434,
-      "name": "CHSM El Higado",
-      "url": "https://open.spotify.com/track/2SIaxVDnOZGBATjFaSzm5Q"
+      "duration_ms": 154093,
+      "name": "Cosas del Amor - En Vivo",
+      "url": "https://open.spotify.com/track/6YzMEo6d3PbmtftbYwE9tj"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -1219,6 +1203,22 @@
       "duration_ms": 206960,
       "name": "El Patrocinador",
       "url": "https://open.spotify.com/track/7IPvreDoOx2OkR3Qu1G9aS"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
+        "name": "CHSM El H\u00edgado X2",
+        "url": "https://open.spotify.com/album/4Xdc6jbEyG74XnamElVAmR"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 185434,
+      "name": "CHSM El Higado",
+      "url": "https://open.spotify.com/track/2SIaxVDnOZGBATjFaSzm5Q"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "Una Historia Mal Contada",
-        "url": "https://open.spotify.com/album/5lYcalORluIjuBEKJflc88"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 197373,
-      "name": "Para Olvidarme De Tus Besos",
-      "url": "https://open.spotify.com/track/4CB7M0J9NNubspCy0WDlNL"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
         "name": "10+10",
         "url": "https://open.spotify.com/album/6kNx2FYpxe6xeUWZpxrv8f"
       },
@@ -1455,22 +1435,22 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "Una Caguama en la Banqueta",
-        "url": "https://open.spotify.com/album/5gIq0WRmSQVFK96UVOJ4pt"
+        "name": "Una Historia Mal Contada",
+        "url": "https://open.spotify.com/album/5lYcalORluIjuBEKJflc88"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         },
         {
-          "name": "Tony Montoya",
-          "url": "https://open.spotify.com/artist/3odecFgtCNACfFLUlRR8QB"
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 166232,
-      "name": "Una Caguama en la Banqueta",
-      "url": "https://open.spotify.com/track/6Mf2vSoRoDMOLmAHFXUI8h"
+      "duration_ms": 197373,
+      "name": "Para Olvidarme De Tus Besos",
+      "url": "https://open.spotify.com/track/4CB7M0J9NNubspCy0WDlNL"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -1487,6 +1467,26 @@
       "duration_ms": 150950,
       "name": "Paz En Este Amor - En Vivo",
       "url": "https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
+        "name": "Una Caguama en la Banqueta",
+        "url": "https://open.spotify.com/album/5gIq0WRmSQVFK96UVOJ4pt"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Tony Montoya",
+          "url": "https://open.spotify.com/artist/3odecFgtCNACfFLUlRR8QB"
+        }
+      ],
+      "duration_ms": 166232,
+      "name": "Una Caguama en la Banqueta",
+      "url": "https://open.spotify.com/track/6Mf2vSoRoDMOLmAHFXUI8h"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "Se Cans\u00f3 (En Vivo)",
-        "url": "https://open.spotify.com/album/0DU8thSB2OYqVcDGWVBNgM"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 194634,
-      "name": "Se Cans\u00f3 - En Vivo",
-      "url": "https://open.spotify.com/track/7I3u4wFME9L4Wbva3coJHA"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
         "name": "El 30 de Febrero",
         "url": "https://open.spotify.com/album/0x2OATUtYiydLtsW3eOg4p"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 181204,
       "name": "El 30 de Febrero",
       "url": "https://open.spotify.com/track/4ZbDbGo6hubDCXsVMEx1jv"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
+        "name": "Se Cans\u00f3 (En Vivo)",
+        "url": "https://open.spotify.com/album/0DU8thSB2OYqVcDGWVBNgM"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 194634,
+      "name": "Se Cans\u00f3 - En Vivo",
+      "url": "https://open.spotify.com/track/7I3u4wFME9L4Wbva3coJHA"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -2075,26 +2075,6 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "El Humo De Mi Gallo",
-        "url": "https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 144080,
-      "name": "El Humo De Mi Gallo",
-      "url": "https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
         "name": "La Humilde Opinion",
         "url": "https://open.spotify.com/album/4WC78n1jgUAndOXIhd5vbP"
       },
@@ -2111,6 +2091,26 @@
       "duration_ms": 163016,
       "name": "La Humilde Opinion",
       "url": "https://open.spotify.com/track/6dMgfy2TWgjlt7hoCCrbo1"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
+        "name": "El Humo De Mi Gallo",
+        "url": "https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 144080,
+      "name": "El Humo De Mi Gallo",
+      "url": "https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD"
     },
     {
       "added_at": "2025-06-06 04:00:10",

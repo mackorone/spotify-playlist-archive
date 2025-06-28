@@ -85,6 +85,32 @@
     },
     {
       "album": {
+        "name": "Moose Print",
+        "url": "https://open.spotify.com/album/2MuQAMXZxuEkx6bHDl439k"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "Jenny Johal",
+          "url": "https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd"
+        },
+        {
+          "name": "The Kidd",
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132334,
+      "name": "0008",
+      "url": "https://open.spotify.com/track/5C3caQlYqE3Z6jcyRTtfME"
+    },
+    {
+      "album": {
         "name": "10 Bande",
         "url": "https://open.spotify.com/album/5zpxoPuMHZIOYBoJjl1oO7"
       },
@@ -345,6 +371,24 @@
     },
     {
       "album": {
+        "name": "Moosetape",
+        "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "295",
+      "url": "https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT"
+    },
+    {
+      "album": {
         "name": "295 X2",
         "url": "https://open.spotify.com/album/5YUr0cxGAUt1RrOwzOenp8"
       },
@@ -444,6 +488,28 @@
       "duration_ms": 221193,
       "name": "4 Days",
       "url": "https://open.spotify.com/track/4pQbBdYF0Q51WgpDNeYqP7"
+    },
+    {
+      "album": {
+        "name": "4.24",
+        "url": "https://open.spotify.com/album/2G7gfTT1ajwjek0bKmamt8"
+      },
+      "artists": [
+        {
+          "name": "Gagan Kooner",
+          "url": "https://open.spotify.com/artist/04zsOadyaRBqhi2d1nKGUe"
+        },
+        {
+          "name": "S.A.M",
+          "url": "https://open.spotify.com/artist/5SNAAtfydqmF9v11kOSQxb"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163263,
+      "name": "4.24",
+      "url": "https://open.spotify.com/track/4Qap9rM15PZSw8BlOqeIAR"
     },
     {
       "album": {
@@ -2856,6 +2922,24 @@
       "duration_ms": 131077,
       "name": "Daku",
       "url": "https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy"
+    },
+    {
+      "album": {
+        "name": "Daku Eye",
+        "url": "https://open.spotify.com/album/793rttSlL7Hc3NIhPT9hcc"
+      },
+      "artists": [
+        {
+          "name": "Rummi Dodher",
+          "url": "https://open.spotify.com/artist/35CvY87b66fkqxT1Bk5wCl"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128834,
+      "name": "Daku Eye",
+      "url": "https://open.spotify.com/track/7BKWj5zxRcUVIrjqFs76I4"
     },
     {
       "album": {
@@ -5758,7 +5842,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 187968,
       "name": "Ilzaam",
       "url": "https://open.spotify.com/track/0orOI8nTid7fxPvWIx1tKP"
@@ -6188,6 +6272,24 @@
       "duration_ms": 204545,
       "name": "Janu Janu",
       "url": "https://open.spotify.com/track/32qm4nI8Y3dOc8pFGsOAXc"
+    },
+    {
+      "album": {
+        "name": "Jatt Baija",
+        "url": "https://open.spotify.com/album/39yLES0QUenrGuTdCpBVMB"
+      },
+      "artists": [
+        {
+          "name": "Agsy",
+          "url": "https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179400,
+      "name": "Jatt Baija",
+      "url": "https://open.spotify.com/track/6pJMNJe5cgk5zXR2TwFbhA"
     },
     {
       "album": {
@@ -6698,7 +6800,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 90646,
       "name": "Kabza",
       "url": "https://open.spotify.com/track/2nz1xuIvnnBty3ldBrVDa3"
@@ -7316,7 +7418,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 140261,
       "name": "Kudi Kaun Ae (From \"Six Each\")",
       "url": "https://open.spotify.com/track/1OYOdhoFdzIJKmGqMklvXb"
@@ -7444,7 +7546,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 144414,
       "name": "Lalkaara",
       "url": "https://open.spotify.com/track/07JIXpis8gbdIKo0vOvvPc"
@@ -8619,6 +8721,28 @@
     },
     {
       "album": {
+        "name": "Murder",
+        "url": "https://open.spotify.com/album/1i6h3Xs1qunoQAO7N2XHVg"
+      },
+      "artists": [
+        {
+          "name": "Real Boss",
+          "url": "https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP"
+        },
+        {
+          "name": "BIG KAY SMG",
+          "url": "https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182762,
+      "name": "Murder",
+      "url": "https://open.spotify.com/track/0uMY0ZOYpXKHPxuakVtQzs"
+    },
+    {
+      "album": {
         "name": "Too Cold",
         "url": "https://open.spotify.com/album/1fWHZhy1Tsazcnq6RdsyCt"
       },
@@ -9186,7 +9310,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 150000,
       "name": "No Link Up",
       "url": "https://open.spotify.com/track/3TMtRuNbUcQDz4ZJ9wIj0q"
@@ -9876,7 +10000,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 130272,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/0cbxJu0SXKqbdhDU44Sp1k"
@@ -10074,7 +10198,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 178723,
       "name": "Pind Pehra",
       "url": "https://open.spotify.com/track/79wtSYxeg5ACV5afy4KRpB"
@@ -10533,6 +10657,28 @@
     },
     {
       "album": {
+        "name": "Rap God",
+        "url": "https://open.spotify.com/album/7BRIUafUOwCwNt5ERXFkVV"
+      },
+      "artists": [
+        {
+          "name": "Sultaan",
+          "url": "https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4"
+        },
+        {
+          "name": "Banks On The Beat",
+          "url": "https://open.spotify.com/artist/31zYllWwjMll08u4ljBLVc"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171034,
+      "name": "Rap God",
+      "url": "https://open.spotify.com/track/3fyMZV3GCjUTQYeGKueDWL"
+    },
+    {
+      "album": {
         "name": "Rare",
         "url": "https://open.spotify.com/album/6kSqx59AZ9ETpqP5nLybcd"
       },
@@ -10880,6 +11026,32 @@
       "duration_ms": 129582,
       "name": "Roots",
       "url": "https://open.spotify.com/track/3myb1xBazckdFGmSMuLofI"
+    },
+    {
+      "album": {
+        "name": "Rap God",
+        "url": "https://open.spotify.com/album/7BRIUafUOwCwNt5ERXFkVV"
+      },
+      "artists": [
+        {
+          "name": "Sultaan",
+          "url": "https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4"
+        },
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0"
+        },
+        {
+          "name": "Gminxr",
+          "url": "https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Roughrider",
+      "url": "https://open.spotify.com/track/3pnkTPFYfkvdQw1QRnSPCZ"
     },
     {
       "album": {
@@ -11512,7 +11684,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 168465,
       "name": "Shikari",
       "url": "https://open.spotify.com/track/6NK0r2uRTDVRjFM8mlienL"
@@ -13936,7 +14108,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 176663,
       "name": "Why",
       "url": "https://open.spotify.com/track/72JiXf0Y6uEr7YXzfLBGmD"
@@ -14112,6 +14284,28 @@
       "duration_ms": 140752,
       "name": "You Talking To Me?",
       "url": "https://open.spotify.com/track/668vJMj83AqV0E2oMFKsiQ"
+    },
+    {
+      "album": {
+        "name": "Young G.O.A.T",
+        "url": "https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq"
+      },
+      "artists": [
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225806,
+      "name": "Young G.O.A.T",
+      "url": "https://open.spotify.com/track/6xHPBEvcG0RQDfyTq7jc8P"
     },
     {
       "album": {

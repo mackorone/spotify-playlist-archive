@@ -4,7 +4,7 @@
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-116 songs - 7 hr 49 min
+117 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [O Coro Vai Come \- Ao Vivo](https://open.spotify.com/track/28d2A5ydgH2QCHsDSCsW9t) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Chorão: Marginal Alado](https://open.spotify.com/album/4zPoCE1PltlriIanm89x4Z) | 2:08 | 2023-05-05 | 2024-04-19 |
 | [O Coro Vai Come \- Ao Vivo](https://open.spotify.com/track/3QoydK0LFOpK0JnfIpCffR) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/0AFkktyrrPtQvpIBqpRrc7) | 2:08 | 2024-04-19 |  |
 | [O Girassol \- Versão Acústica](https://open.spotify.com/track/6OwunUyuA5gtuJOdrE43vH) | [Ira!](https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7) | [Acústico Ira!](https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw) | 4:07 | 2023-05-05 |  |
+| [O Papa É Pop \- Ao Vivo](https://open.spotify.com/track/3mBWUkpsvc7rQYOT50IfI1) | [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [Revendo O Que Nunca Foi Visto](https://open.spotify.com/album/691kGDBO2A0Ba2omXqPxeo) | 3:44 | 2025-06-28 |  |
 | [O Passageiro \(The Passenger\) \- Ao Vivo](https://open.spotify.com/track/3jCV9CuT2Hzazecm49uqnZ) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Acústico Capital Inicial](https://open.spotify.com/album/2mt6segSup7hVNxC12Pji0) | 4:39 | 2025-06-06 |  |
 | [O Segundo Sol \- Ao Vivo](https://open.spotify.com/track/6uRSXIUpUFAlsZC1r4pWW9) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Cássia Eller Em Casa](https://open.spotify.com/album/6T6Vo6ACxuxdFRS3b3uKtY) | 4:17 | 2023-05-05 | 2024-04-19 |
 | [O Segundo Sol \- Ao Vivo](https://open.spotify.com/track/6nq1UXqPzEPPIG54YMSnhn) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI) | 4:17 | 2024-04-19 |  |

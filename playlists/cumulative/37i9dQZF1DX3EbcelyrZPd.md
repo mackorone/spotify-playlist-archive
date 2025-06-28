@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Diamond Platnumz
 
-561 songs - 1 day 8 hr 6 min
+562 songs - 1 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Down](https://open.spotify.com/track/0M9O5WAGgXg6S7f2WjU3dD) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4) | [Down](https://open.spotify.com/album/2nRCzZ8OwYBgSmjcF8wYbY) | 2:42 | 2023-12-08 | 2024-05-10 |
 | [Down \(feat\. Xman Rsa, Lintonto & Masterpiece\_Yvk\)](https://open.spotify.com/track/6xzsLAbPl2ObayPlTuEkLK) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Lintonto](https://open.spotify.com/artist/1isPpcHRJEgg4jyuAF3yd4), [Masterpiece YVK](https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b), [Xman Rsa](https://open.spotify.com/artist/2AyNNC4hdqtQBcZzRtb730) | [Down \(feat\. Xman Rsa, Lintonto & Masterpiece\_Yvk\)](https://open.spotify.com/album/5c4SEQNQEQG4bdyyjMiG3L) | 5:23 | 2025-06-27 |  |
 | [Down For You \(feat\. Bien\)](https://open.spotify.com/track/71cVgHpn6iahD2oylViK6w) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Take Away The Pain](https://open.spotify.com/album/0CE8TePq8l9R9VppXR9KVo) | 2:58 | 2025-02-06 |  |
+| [Dunia Yetu](https://open.spotify.com/track/4YMLPzAp2p4z3iq7bTeCwC) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Dunia Yetu](https://open.spotify.com/album/1fKIseL5wYAZaPkcnJSJGo) | 3:16 | 2025-06-27 |  |
 | [Enjoy](https://open.spotify.com/track/1qiHxdihSes6DA9hkAKFyg) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/2r2GgPbTjjPB8OclFfiFGY) | 3:36 | 2024-03-14 | 2024-04-19 |
 | [Enjoy](https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15) | 3:36 | 2023-07-13 | 2024-07-27 |
 | [Everlyna \(feat\. Q Chief\)](https://open.spotify.com/track/5YpIUBrsngudCul6Ep45vV) | [Adam Mchomvu](https://open.spotify.com/artist/3utcZ5XfyGEu1okzABoJXn), [Q Chief](https://open.spotify.com/artist/2CL7c3WDQbjC7qoWwFjEig) | [Everlyna \(feat\. Q Chief\)](https://open.spotify.com/album/1gA3N6Q5w65Isutz2jScQy) | 3:07 | 2023-08-31 | 2023-10-20 |

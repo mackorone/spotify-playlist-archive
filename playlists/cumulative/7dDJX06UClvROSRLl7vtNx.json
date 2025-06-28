@@ -377,6 +377,28 @@
     },
     {
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/6KBdrhs4gmSskRCVtysAjr"
+      },
+      "artists": [
+        {
+          "name": "aural",
+          "url": "https://open.spotify.com/artist/2BbjZHngxcMpV9FVewdRzY"
+        },
+        {
+          "name": "sunsett.",
+          "url": "https://open.spotify.com/artist/5YoAuObMlm022Z0tDOYXsB"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/4M2e8fGMYH0dfXWVilOOYd"
+    },
+    {
+      "album": {
         "name": "All I Think About",
         "url": "https://open.spotify.com/album/1LHgAOXD690JhN0fUja5BD"
       },

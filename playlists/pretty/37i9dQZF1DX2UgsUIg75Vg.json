@@ -1,13 +1,45 @@
 {
-  "description": "Chill r&b. Cover: Khamari",
-  "num_followers": 2378753,
+  "description": "Chill r&b. Cover: kwn",
+  "num_followers": 2378621,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFTc+AAAAACAikpXzVlszeuZwzkzBiVw",
+  "snapshot_id": "aF4XcQAAAAD/6nCTdvIvVjWnB+gyPm0W",
   "tracks": [
+    {
+      "added_at": "2025-06-20 04:00:56",
+      "album": {
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 273684,
+      "name": "back of the club",
+      "url": "https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5"
+    },
+    {
+      "added_at": "2025-06-27 04:00:49",
+      "album": {
+        "name": "Bed of Roses",
+        "url": "https://open.spotify.com/album/7EHL9PCseJVg7jLeF08G3S"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "duration_ms": 149503,
+      "name": "Bed of Roses",
+      "url": "https://open.spotify.com/track/4hTBcHQ5DjYH9dbroi91if"
+    },
     {
       "added_at": "2025-06-20 04:00:56",
       "album": {
@@ -39,30 +71,6 @@
       "duration_ms": 238120,
       "name": "Folded",
       "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
-    },
-    {
-      "added_at": "2025-06-06 04:50:22",
-      "album": {
-        "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
-        "url": "https://open.spotify.com/album/305yIXU97c0Sa68bjQNSTz"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        },
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        }
-      ],
-      "duration_ms": 210071,
-      "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
-      "url": "https://open.spotify.com/track/23WBvFOEKE7KYae5H1usrA"
     },
     {
       "added_at": "2025-05-02 04:00:36",
@@ -101,22 +109,6 @@
       "url": "https://open.spotify.com/track/4G0bpzDl8vZ8yzB6ePI38w"
     },
     {
-      "added_at": "2025-06-20 04:00:56",
-      "album": {
-        "name": "with all due respect",
-        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 273684,
-      "name": "back of the club",
-      "url": "https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5"
-    },
-    {
       "added_at": "2025-05-02 04:00:36",
       "album": {
         "name": "Spend It",
@@ -133,20 +125,80 @@
       "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
     },
     {
-      "added_at": "2025-05-09 04:00:20",
+      "added_at": "2025-06-27 04:00:49",
       "album": {
-        "name": "The Only Love We Know",
-        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
+        "name": "Can We Talk?",
+        "url": "https://open.spotify.com/album/5bzaSX78ybcXW55HFe8xZi"
       },
       "artists": [
         {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 237210,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
+      "duration_ms": 188852,
+      "name": "Can We Talk?",
+      "url": "https://open.spotify.com/track/1NeL0geu5M3lya479QuA6q"
+    },
+    {
+      "added_at": "2025-03-14 05:43:52",
+      "album": {
+        "name": "I'll Be Good",
+        "url": "https://open.spotify.com/album/33kFKgbfzbKAh2of45JHVI"
+      },
+      "artists": [
+        {
+          "name": "JayDon",
+          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "I'll Be Good",
+      "url": "https://open.spotify.com/track/7rMIePH9SdYWmWNzuNg26p"
+    },
+    {
+      "added_at": "2025-06-27 04:00:49",
+      "album": {
+        "name": "Read You Well (feat. Akeem Ali)",
+        "url": "https://open.spotify.com/album/3ZMN0o8ZUqT9WWduRUHsrF"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        },
+        {
+          "name": "Akeem Ali",
+          "url": "https://open.spotify.com/artist/5aTVaxCp68WGSX8qRkVM3X"
+        }
+      ],
+      "duration_ms": 151846,
+      "name": "Read You Well (feat. Akeem Ali)",
+      "url": "https://open.spotify.com/track/6dnjn9VpqriRjP0wOCMdrq"
+    },
+    {
+      "added_at": "2025-06-27 04:00:49",
+      "album": {
+        "name": "I Choose You",
+        "url": "https://open.spotify.com/album/59oQeJbXbZnz69c9DksMEc"
+      },
+      "artists": [
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        },
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 126902,
+      "name": "I Choose You",
+      "url": "https://open.spotify.com/track/62Q0tAz3JvaYUfTS2o0zrT"
     },
     {
       "added_at": "2025-05-23 04:40:36",
@@ -169,20 +221,184 @@
       "url": "https://open.spotify.com/track/73dCTAnLDKbL1MpwarKLCP"
     },
     {
-      "added_at": "2025-03-14 05:43:52",
+      "added_at": "2025-06-20 04:00:56",
       "album": {
-        "name": "I'll Be Good",
-        "url": "https://open.spotify.com/album/33kFKgbfzbKAh2of45JHVI"
+        "name": "Come As You Are",
+        "url": "https://open.spotify.com/album/2WA4zGU2bZdmyQ8tOrNMVJ"
       },
       "artists": [
         {
-          "name": "JayDon",
-          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
         }
       ],
-      "duration_ms": 212500,
-      "name": "I'll Be Good",
-      "url": "https://open.spotify.com/track/7rMIePH9SdYWmWNzuNg26p"
+      "duration_ms": 187651,
+      "name": "See You Later",
+      "url": "https://open.spotify.com/track/6kWE0z1SgW3j48m7xGsfBG"
+    },
+    {
+      "added_at": "2025-06-27 04:00:49",
+      "album": {
+        "name": "BMF",
+        "url": "https://open.spotify.com/album/4yOiuDiKW9ahoYRAoEX1bF"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "duration_ms": 154612,
+      "name": "BMF",
+      "url": "https://open.spotify.com/track/2qt9FKV2qvTBZX1ATFtNIC"
+    },
+    {
+      "added_at": "2025-06-27 04:00:49",
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/2f6vd2PcjNyMKdePhio5UW"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 152195,
+      "name": "Feel Something",
+      "url": "https://open.spotify.com/track/1aw5ELeIspIgEfhEp2OifK"
+    },
+    {
+      "added_at": "2025-05-09 04:00:20",
+      "album": {
+        "name": "The Only Love We Know",
+        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 237210,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
+    },
+    {
+      "added_at": "2025-06-06 04:50:22",
+      "album": {
+        "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
+        "url": "https://open.spotify.com/album/305yIXU97c0Sa68bjQNSTz"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "duration_ms": 210071,
+      "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
+      "url": "https://open.spotify.com/track/23WBvFOEKE7KYae5H1usrA"
+    },
+    {
+      "added_at": "2025-06-27 04:00:49",
+      "album": {
+        "name": "Catching Feelings",
+        "url": "https://open.spotify.com/album/0ZX6lnq5noF2aNcQSxfpJR"
+      },
+      "artists": [
+        {
+          "name": "Annie Tracy",
+          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 205028,
+      "name": "Catching Feelings",
+      "url": "https://open.spotify.com/track/2YQnESqC6ASwaJyUx6U4d7"
+    },
+    {
+      "added_at": "2025-06-27 04:00:49",
+      "album": {
+        "name": "Falling Off",
+        "url": "https://open.spotify.com/album/3wQcw5o7ZAiCQiE2Xs22Sp"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        },
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Falling Off",
+      "url": "https://open.spotify.com/track/5i6sfCzHacfBEdLPzFjgiy"
+    },
+    {
+      "added_at": "2025-06-27 04:00:49",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/3BSGF6A7wQToltkc5lIzsv"
+      },
+      "artists": [
+        {
+          "name": "J.P.",
+          "url": "https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH"
+        }
+      ],
+      "duration_ms": 290224,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/30EdJz1XABA9jcVxNNyjO3"
+    },
+    {
+      "added_at": "2025-06-27 04:00:49",
+      "album": {
+        "name": "LIST CRAWLER",
+        "url": "https://open.spotify.com/album/2km4VZR9JGOtm4COxD6E39"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "duration_ms": 186056,
+      "name": "LIST CRAWLER",
+      "url": "https://open.spotify.com/track/4StgxPpoHtOjYYnDfYDZGG"
+    },
+    {
+      "added_at": "2025-06-27 04:00:49",
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/7oYlVvoOXd5vT7tH1Y6KNe"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "duration_ms": 172366,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/2pDPS1bUC7vARDFMFiE4Ll"
     },
     {
       "added_at": "2025-05-30 04:00:37",
@@ -239,26 +455,6 @@
       "duration_ms": 227649,
       "name": "So Beautiful",
       "url": "https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw"
-    },
-    {
-      "added_at": "2025-06-20 04:00:56",
-      "album": {
-        "name": "Come As You Are",
-        "url": "https://open.spotify.com/album/2WA4zGU2bZdmyQ8tOrNMVJ"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        }
-      ],
-      "duration_ms": 187651,
-      "name": "See You Later",
-      "url": "https://open.spotify.com/track/6kWE0z1SgW3j48m7xGsfBG"
     },
     {
       "added_at": "2025-05-02 04:00:36",
@@ -541,22 +737,6 @@
       "url": "https://open.spotify.com/track/6Rbw6xdVOHZCdiforE08HE"
     },
     {
-      "added_at": "2025-06-14 14:32:39",
-      "album": {
-        "name": "CKay The Second",
-        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 160429,
-      "name": "say no more",
-      "url": "https://open.spotify.com/track/6b6KwJ5Ig1SmOKM9cD3Bem"
-    },
-    {
       "added_at": "2025-04-11 04:37:28",
       "album": {
         "name": "do what i say",
@@ -787,26 +967,6 @@
       "duration_ms": 192425,
       "name": "Gettin' in The Way - Spotify Singles",
       "url": "https://open.spotify.com/track/10ZTivgDHI1CALM6jeW0IZ"
-    },
-    {
-      "added_at": "2025-05-30 04:00:37",
-      "album": {
-        "name": "211 / See You Later",
-        "url": "https://open.spotify.com/album/1ysS9dTHq1WTU9ClXUegil"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        }
-      ],
-      "duration_ms": 187651,
-      "name": "See You Later",
-      "url": "https://open.spotify.com/track/24N1fjXyypAWhj3RF8JJi0"
     },
     {
       "added_at": "2025-06-06 04:50:22",

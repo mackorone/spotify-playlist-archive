@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Psyched-out bands from the four corners of the world. Panda Bear on cover.",
+  "description": "Psyched-out bands from the four corners of the world. Unknown Mortal Orchestra on cover.",
   "name": "Neo-Psychedelic Rock",
   "tracks": [
     {
@@ -110,6 +110,28 @@
       "duration_ms": 246631,
       "name": "Afrique Victime - Edit",
       "url": "https://open.spotify.com/track/2FENXc1Etbsd1FgsXx143M"
+    },
+    {
+      "album": {
+        "name": "Afuera (with Ed Maverick)",
+        "url": "https://open.spotify.com/album/6hiACuXRbybv7MYNzyx88R"
+      },
+      "artists": [
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191773,
+      "name": "Afuera (with Ed Maverick)",
+      "url": "https://open.spotify.com/track/0MXIDtvwmzNawJuLI5wBuv"
     },
     {
       "album": {
@@ -400,7 +422,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 425036,
       "name": "attention",
       "url": "https://open.spotify.com/track/3OIHAfGqY1X14l9kmJKdnX"
@@ -1203,6 +1225,24 @@
     },
     {
       "album": {
+        "name": "CURSE",
+        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148525,
+      "name": "DEATH COMES FROM THE SKY",
+      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
+    },
+    {
+      "album": {
         "name": "World Music",
         "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
       },
@@ -1846,7 +1886,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 257429,
       "name": "Fire In The Blood - Live Masterlink Session",
       "url": "https://open.spotify.com/track/5CV4H5R5UzXHqzOFSECUaA"
@@ -2501,6 +2541,24 @@
     },
     {
       "album": {
+        "name": "I'm Not Ready for the Change",
+        "url": "https://open.spotify.com/album/1UNlSzZJmtRbmnYUjDOjGA"
+      },
+      "artists": [
+        {
+          "name": "Nation of Language",
+          "url": "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287158,
+      "name": "I'm Not Ready for the Change",
+      "url": "https://open.spotify.com/track/5ORQX1wOPqCP031V1CxjUq"
+    },
+    {
+      "album": {
         "name": "Ice, Death, Planets, Lungs, Mushrooms And Lava",
         "url": "https://open.spotify.com/album/2nPbslvl01lfELsFHTKp0s"
       },
@@ -2674,7 +2732,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 515435,
       "name": "Instinct, Eye and Mind",
       "url": "https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy"
@@ -3266,6 +3324,24 @@
       "duration_ms": 386966,
       "name": "Lost Heads",
       "url": "https://open.spotify.com/track/6f8wIpMdNnL7CZ8zsfmh6v"
+    },
+    {
+      "album": {
+        "name": "Lumin Rain",
+        "url": "https://open.spotify.com/album/4zaLofIfUmWIfP04hlefLw"
+      },
+      "artists": [
+        {
+          "name": "Arc De Soleil",
+          "url": "https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202219,
+      "name": "Lumin Rain",
+      "url": "https://open.spotify.com/track/30arQtOqsP62Y9fXL5eLQ1"
     },
     {
       "album": {
@@ -5734,7 +5810,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 345293,
       "name": "Velocirapture (The Serpent Flew)",
       "url": "https://open.spotify.com/track/3vcJQgv7OPKdEKDfsf5eON"

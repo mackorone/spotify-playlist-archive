@@ -3533,6 +3533,28 @@
     },
     {
       "album": {
+        "name": "Intoxicated",
+        "url": "https://open.spotify.com/album/2uUkm6fqWs48lfnTxqimls"
+      },
+      "artists": [
+        {
+          "name": "Hollaphonic",
+          "url": "https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi"
+        },
+        {
+          "name": "Scott Forshaw",
+          "url": "https://open.spotify.com/artist/2B3lljR6lMaymKtckOsdoy"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182769,
+      "name": "Intoxicated",
+      "url": "https://open.spotify.com/track/4v6x9MA7KKWs1m3WXsjFey"
+    },
+    {
+      "album": {
         "name": "It's Not Right But It's Okay",
         "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
       },

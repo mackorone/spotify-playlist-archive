@@ -2,9 +2,9 @@
 
 ### [BRILLO](https://open.spotify.com/playlist/37i9dQZF1DX2lenzaqw2vs)
 
-> Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Guitarricadelafuente
+> Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: YADAM
 
-358 songs - 19 hr 32 min
+359 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [Pega2](https://open.spotify.com/track/7CUAMhWuh7iFsgAkHjgqcg) | [Dyhzy](https://open.spotify.com/artist/1JBcxqcjiYemMkPp5FvlGQ) | [Pega2](https://open.spotify.com/album/4TGljR0Lp1JMzNLNZmQJdI) | 3:26 | 2025-01-24 |  |
 | [Pensando en Ti](https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Pensando en Ti](https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH) | 2:53 | 2024-03-11 |  |
 | [Perdido](https://open.spotify.com/track/0iuj08Ku8Ab4uuGPUSJt8H) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Dime Precioso](https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW) | 3:32 | 2024-05-24 |  |
-| [Perdón](https://open.spotify.com/track/2Dt9XzdTyfHjQlz7aAraor) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Perdón](https://open.spotify.com/album/26H0Ji3Lr8GUXdUBfphCZu) | 3:42 | 2024-03-11 |  |
+| [Perdón](https://open.spotify.com/track/2Dt9XzdTyfHjQlz7aAraor) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Perdón](https://open.spotify.com/album/26H0Ji3Lr8GUXdUBfphCZu) | 3:42 | 2024-03-11 | 2025-06-28 |
 | [Perfecta \- Versión con Julieta Venegas](https://open.spotify.com/track/4Ol6lxivp7pR7voovl8vKI) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [El Disco de Tu Corazón](https://open.spotify.com/album/23sglTmI7lQhVogpoa5TXe) | 3:45 | 2021-12-09 | 2023-01-25 |
 | [PERREO FURIOSO](https://open.spotify.com/track/2NAjBeyMUrba97IXdLVMqp) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 2:32 | 2023-01-24 |  |
 | [Pillándome](https://open.spotify.com/track/6VOTtgE47gLBcaAradlOmk) | [Bearoid](https://open.spotify.com/artist/2qxjB0LkbwvgLxmXN31Gp4) | [Pillándome](https://open.spotify.com/album/7g5KQmVTD7mtQSNWoO9S94) | 2:41 | 2022-06-01 | 2023-01-25 |
@@ -263,6 +263,7 @@
 | [Ponte Perra](https://open.spotify.com/track/486DiCBGlYNjazRAOUeffI) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111](https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b) | 2:13 | 2021-12-09 | 2022-06-01 |
 | [Por un Beso](https://open.spotify.com/track/58oFJ52eIebXuzeOVDmU7E) | [Luis Gamarra](https://open.spotify.com/artist/67mrElx1TmrDTest8SRyGr) | [Por un Beso](https://open.spotify.com/album/26N5QgwKVy7uX1ppcdcskX) | 2:59 | 2021-12-09 | 2023-01-25 |
 | [Portada](https://open.spotify.com/track/4HhnJK86Ur1xylv0g3qr7n) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Portada](https://open.spotify.com/album/0on2vLgZxS9KyaviZEbRD3) | 3:56 | 2022-06-01 | 2022-07-29 |
+| [PORTATE BIEN](https://open.spotify.com/track/2FCfUgFzBg2EacjceW6kku) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [ALMA](https://open.spotify.com/album/3VrW3zeEmsVIdSX6OnAtY3) | 2:45 | 2025-06-27 |  |
 | [Prada](https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Kick](https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL) | 2:43 | 2023-01-24 |  |
 | [princess peach](https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 2:46 | 2024-06-07 |  |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-06-01 | 2023-01-25 |

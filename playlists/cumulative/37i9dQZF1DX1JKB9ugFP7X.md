@@ -4,7 +4,7 @@
 
 > Lo mejor del electropop latino\. Foto: CAMI
 
-178 songs - 11 hr 16 min
+179 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Lucía](https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [Lucía](https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH) | 4:49 | 2023-09-08 | 2024-10-17 |
 | [Lunes Por La Madrugada](https://open.spotify.com/track/7pEdDV1Izn1DgGhgTmhMM5) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Por Si Acaso Se Acaba El Mundo](https://open.spotify.com/album/4I1OiCznYVs09RpmTSIUm8) | 3:03 | 2023-11-24 | 2024-10-19 |
 | [MAL NECESARIO](https://open.spotify.com/track/55M73tEx2Db51y2hXvkaY9) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [MAL NECESARIO](https://open.spotify.com/album/2N7E8e5LmRFUv7yRnYazyB) | 2:54 | 2023-09-08 | 2024-10-19 |
+| [Manada](https://open.spotify.com/track/7cPTErYBnaeCq4BRMOCoqB) | [Malena Narvay](https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i), [Oh My Pop!](https://open.spotify.com/artist/3bagGeYp0001yDSzrxmv6J) | [Manada](https://open.spotify.com/album/7KNYpYrWUDEH7KGzveOOYi) | 2:44 | 2025-06-27 |  |
 | [Maquillada en la Cama](https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087) | 3:38 | 2023-09-08 |  |
 | [ME QUEDO ACÁ\. \- Lupe Remix](https://open.spotify.com/track/1553JqZizFxv9hyNth0y0N) | [Valdes](https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc), [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Lado V \(Remixes de Postal\)](https://open.spotify.com/album/5qFHdRCzIW7YgxDRyAt52J) | 3:17 | 2023-09-08 | 2023-11-21 |
 | [Me Quieren Matar](https://open.spotify.com/track/3soKTnPmFPNK3feqeTAI9B) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [Me Quieren Matar](https://open.spotify.com/album/1P4QJa2eFwuQSZkxj7kiS0) | 3:56 | 2025-04-18 |  |

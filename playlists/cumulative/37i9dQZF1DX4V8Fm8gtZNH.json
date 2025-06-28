@@ -6417,6 +6417,28 @@
     },
     {
       "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/7wiJvJbXrQOqRYMYgcTHxH"
+      },
+      "artists": [
+        {
+          "name": "Goonie Beats",
+          "url": "https://open.spotify.com/artist/7CIiELfSMy2nN0bMBBOcgl"
+        },
+        {
+          "name": "The New Birth",
+          "url": "https://open.spotify.com/artist/34Bm9d5DAJjSnaI02BCjdA"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250732,
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/2Et98OmQsO0fRWQu5QsMuS"
+    },
+    {
+      "album": {
         "name": "In the Meantime",
         "url": "https://open.spotify.com/album/0gD9MK4U0nfVz77CdvEI1C"
       },

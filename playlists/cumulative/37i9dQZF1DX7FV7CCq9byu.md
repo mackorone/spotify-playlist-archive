@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-960 songs - 2 day 0 hr 55 min
+962 songs - 2 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [Inte bra i grupp](https://open.spotify.com/track/1cSIHVhP9zdZeEG4qwwIoQ) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Inte bra i grupp](https://open.spotify.com/album/0gLrrKFWzbR8K6692CCLRV) | 2:49 | 2025-04-24 | 2025-06-13 |
 | [Inte idag](https://open.spotify.com/track/5IsHDEv8uqPQxFv5FuDG7O) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Inte idag](https://open.spotify.com/album/7K5PfBccKwBu4SeeGzRP9z) | 2:21 | 2025-03-27 | 2025-04-25 |
 | [Invincible \- from Kaiju No\. 8](https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Invincible \(from Kaiju No\. 8\)](https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p) | 2:35 | 2025-04-17 | 2025-05-23 |
+| [IRL \(FEAT\. SZA\)](https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:44 | 2025-06-26 |  |
 | [Is It Love?](https://open.spotify.com/track/1Fk3ebdShXVtWlZCi41oh1) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Is It Love?](https://open.spotify.com/album/70WeBMKxVg8C06c68o1661) | 3:02 | 2025-06-12 |  |
 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 | 2025-04-24 | 2025-05-30 |
 | [Istället](https://open.spotify.com/track/6owXSHo7XvqG97VZ6A22B3) | [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB), [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Istället](https://open.spotify.com/album/6vDdKX71uPjQbbhCHbCerh) | 2:56 | 2025-06-26 |  |
@@ -618,6 +619,7 @@
 | [Om & om](https://open.spotify.com/track/6pWyrCOLubc9o2ONNif6K8) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Älska mig en sista gång](https://open.spotify.com/album/0AupobRdLVg89hbnGnFBRm) | 3:30 | 2024-10-17 | 2024-12-20 |
 | [Om tiden hade stannat](https://open.spotify.com/track/36Ynfvm2Mwq2shd0LRfTML) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [Moa Michaeli](https://open.spotify.com/artist/3L0guCaIo8WSeLTgBJHRsc) | [Kollage](https://open.spotify.com/album/5vAOzXtg6NFTxjRxOY27zp) | 3:00 | 2024-07-25 | 2024-09-06 |
 | [On and On and On](https://open.spotify.com/track/7aLXAoR6RB5qQmBRvKE2kO) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [On and On and On](https://open.spotify.com/album/5WVwKAUf52Lo1QxZLOYTFj) | 2:59 | 2025-02-07 | 2025-03-25 |
+| [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 | 2025-06-26 |  |
 | [On My Way](https://open.spotify.com/track/1UYnuxsScsS2INJyb55HgT) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [On My Way](https://open.spotify.com/album/5EZYTYYPCY0rfxkC53M0pn) | 2:38 | 2024-11-21 | 2025-01-24 |
 | [Once In A While](https://open.spotify.com/track/2xbmTi62KcY75WLK5AAJOB) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu), [Josh Breaks](https://open.spotify.com/artist/5ux7zNd22iNHOAUypzsSLi) | [Once In A While](https://open.spotify.com/album/7BRJJiHj0QY7tJdUmf5vIn) | 2:47 | 2025-03-13 | 2025-04-04 |
 | [One Eye Open](https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [One Eye Open](https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck) | 3:32 | 2024-10-24 | 2024-12-20 |

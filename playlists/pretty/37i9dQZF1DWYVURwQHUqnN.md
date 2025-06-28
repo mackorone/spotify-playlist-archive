@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Soolking x Ninho
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,149,106 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,149,297 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 9 | [La Strada \- Bonus Track](https://open.spotify.com/track/6maBK1kssw64JMIvAj50L2) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [La Strada \(Bonus Track\)](https://open.spotify.com/album/5TfDu427kiS2oPApySQQGt) | 2:50 |
 | 10 | [Melrose Place](https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Focus Mentalité](https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA) | 2:36 |
 | 11 | [Coachella](https://open.spotify.com/track/6ldD5Cg0Zv7s7bLLlzqD11) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK), [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU) | [Coachella](https://open.spotify.com/album/3UorNadgwi7FVLSmvd33Yf) | 2:13 |
-| 12 | [C'est pas mimi](https://open.spotify.com/track/4WpTWnrlZWB5YErgUg2ULe) | [HMZ](https://open.spotify.com/artist/6pg4S5KTCPiEBp0rSWsaI6) | [Dans la tempête](https://open.spotify.com/album/6thkis7gLlQJUeLEvS2eBF) | 2:33 |
+| 12 | [C'est pas mimi](https://open.spotify.com/track/4WpTWnrlZWB5YErgUg2ULe) | [HMZ](https://open.spotify.com/artist/6pg4S5KTCPiEBp0rSWsaI6), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Dans la tempête](https://open.spotify.com/album/6thkis7gLlQJUeLEvS2eBF) | 2:33 |
 | 13 | [PRINCESSA](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [PRINCESSA](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 |
 | 14 | [Balade](https://open.spotify.com/track/7C13bFjFdELL8ioTMtVbZ5) | [1D1R](https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Meraki](https://open.spotify.com/album/0wl6FnaTJw4TXzjL1PT5G6) | 3:13 |
 | 15 | [Benevole](https://open.spotify.com/track/4OOazVob1di05D3v3XDKxI) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E) | [Rien Sans Lien](https://open.spotify.com/album/3R0VtxjxbKPx06KDhFKCkK) | 2:43 |

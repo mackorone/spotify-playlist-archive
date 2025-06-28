@@ -4,7 +4,7 @@
 
 > Fusion music for the soul\.  Cover\- Rishab Rikhiram Sharma
 
-159 songs - 13 hr 9 min
+160 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Mujh Se Pehli Si Muhabbat](https://open.spotify.com/track/7DOTPaHpN2m68LFQiMnpYo) | [Humera Channa](https://open.spotify.com/artist/5sAmxrt0XBpk3Z8coDLriL), [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/7c2Ujt133945maCr0SQncw) | 5:52 | 2024-08-09 |  |
 | [My Heart, My Life](https://open.spotify.com/track/0Nq8jxV0GkB2IxrO19hbzU) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [Night Song](https://open.spotify.com/album/1Wf0XzcNrA9lceFv0SBHPs) | 5:31 | 2023-08-03 | 2023-09-02 |
 | [Na Bol](https://open.spotify.com/track/1SmAhSbMTtjN2g2C8m2V4k) | [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B) | [Par](https://open.spotify.com/album/4ck6HaPNKMaBXiEr5JfxwT) | 3:19 | 2023-09-28 | 2024-01-11 |
-| [Nadiya Bairi Bhayi](https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Nadiya Bairi Bhayi](https://open.spotify.com/album/1mADW8kGZ8Y0Zkx3b388FZ) | 2:41 | 2023-09-25 |  |
+| [Nadiya Bairi Bhayi](https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Nadiya Bairi Bhayi](https://open.spotify.com/album/1mADW8kGZ8Y0Zkx3b388FZ) | 2:41 | 2023-09-25 | 2025-06-28 |
 | [Naina Morey \- Redefined](https://open.spotify.com/track/4oZINaDR2CFCkacgsv0G5f) | [Umashankar Kathak](https://open.spotify.com/artist/0gn4c6YbczAGbmASu6EAor), [Jayesh Kathak](https://open.spotify.com/artist/1fyiw6fCA8sUoUQkainmWB), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Naina Morey \(Redefined\)](https://open.spotify.com/album/0uli1eOLGrt76V11eFtity) | 3:22 | 2023-05-11 | 2024-12-03 |
 | [Natkhat Nadiya](https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy), [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Songs Of The River \- Ganga](https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn) | 5:39 | 2023-05-11 | 2024-08-10 |
 | [Nehar Wale Pul](https://open.spotify.com/track/68VvEaiP2xHt1qfXvR4fBt) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4), [Swarupa Ananth](https://open.spotify.com/artist/29RyBMursO97PbeLmPF3Qb) | [Nehar Wale Pul](https://open.spotify.com/album/2dMQOpGzLrEyXXvLsCPrEU) | 2:51 | 2025-04-23 |  |
@@ -158,6 +158,7 @@
 | [Text me when you reach](https://open.spotify.com/track/4vAlFacTwAaeBJhij4jOZR) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu), [Raj](https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF) | [Text me when you reach](https://open.spotify.com/album/4gJ2rVT40KEpJQb6yMJv2o) | 1:31 | 2024-05-22 |  |
 | [Thaare Bina](https://open.spotify.com/track/4qPEj1futdyovzkDQkbBcz) | [Prashanth Srinivas](https://open.spotify.com/artist/2KYeJm60817LSIQtkgOffu), [Swaroop Khan](https://open.spotify.com/artist/5hT3CHUnrkUFsgGAvEPSQC), [Sukanya Purkayastha](https://open.spotify.com/artist/4MxomN78tgwq8HCasnFIIH) | [Thaare Bina](https://open.spotify.com/album/3yPCdVh7cFYiy8heF8s1eC) | 5:23 | 2023-08-03 | 2023-08-11 |
 | [The Awakening](https://open.spotify.com/track/2pvslHf4vcFm5PVW6wtMwo) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Charanraj MR](https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k) | [The Awakening](https://open.spotify.com/album/02tgCcfhK6499d0CtWPQgR) | 2:21 | 2023-05-11 | 2024-08-15 |
+| [The Burning Ghat](https://open.spotify.com/track/1qIJIfT39cWz9W4tZBIJAx) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu) | [The Burning Ghat](https://open.spotify.com/album/61jipsWyfpfNMuHgkEUIWp) | 6:58 | 2025-06-27 |  |
 | [Thumri](https://open.spotify.com/track/35juQEHtoIcbPmWJoP2t9k) | [Amanat Ali](https://open.spotify.com/artist/3W6xwT7LnBITpBcqdRq3lm) | [Kohram](https://open.spotify.com/album/5GC5k7Do8vSJpEBzIbJAsA) | 4:21 | 2025-06-18 |  |
 | [Tu Jhoom](https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Tu Jhoom](https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M) | 6:37 | 2023-05-11 | 2024-04-19 |
 | [Tum Naraz Ho](https://open.spotify.com/track/7od22pmztVH9YfpzZ0205R) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 5:55 | 2024-08-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,452 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,531 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,15 +57,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 47 | [SO TRU](https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [3AM \(LA LA LA\)](https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj) | 2:53 |
 | 48 | [Sunrise](https://open.spotify.com/track/0b0Imr7QX4nBWZ0um5O2w8) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Sunrise](https://open.spotify.com/album/4uKJcsKD6n7eanNPWeUE33) | 2:55 |
 | 49 | [Badman Control](https://open.spotify.com/track/4NmbdhxOHSryHgqMYxLpEs) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3), [ATW](https://open.spotify.com/artist/69Nx0ikrUq0IMY7aJMt4V6) | [Badman Control](https://open.spotify.com/album/3R9SndcM89m7kAcIOlv54O) | 3:34 |
-| 50 | [Empty](https://open.spotify.com/track/0geLfVS9vrNQhDPFJBqsL8) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Love Me Not](https://open.spotify.com/album/0FYjV1mYKYhQqxrPSJWaLi) | 3:21 |
-| 51 | [When I'm With You](https://open.spotify.com/track/6nux0bFQdzwaV7JE7eR0G5) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [When I'm With U](https://open.spotify.com/album/3LMxqFuIqxjoWg0ExtlnMe) | 4:47 |
+| 50 | [When I'm With You](https://open.spotify.com/track/6nux0bFQdzwaV7JE7eR0G5) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [When I'm With U](https://open.spotify.com/album/3LMxqFuIqxjoWg0ExtlnMe) | 4:47 |
+| 51 | [Empty](https://open.spotify.com/track/0geLfVS9vrNQhDPFJBqsL8) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Love Me Not](https://open.spotify.com/album/0FYjV1mYKYhQqxrPSJWaLi) | 3:21 |
 | 52 | [lose my head](https://open.spotify.com/track/1KvFu6zoNcPc6TvjykGtPr) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [lose my head](https://open.spotify.com/album/6uZQgll8GIBJ2KvAfW5TtE) | 3:13 |
-| 53 | [I NEED U](https://open.spotify.com/track/44MdpVDAuLaHpNtQp6Hv06) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [I NEED U](https://open.spotify.com/album/2U2xvtb2D69XQHJQWLEhTA) | 3:16 |
-| 54 | [DUWML](https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [DUWML](https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1) | 3:10 |
-| 55 | [Work](https://open.spotify.com/track/30FR1uCgYGTJLUm7MXoequ) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Farsight](https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj), [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra) | [Work](https://open.spotify.com/album/3xjnPsjWTutgkdpwSenz4v) | 4:03 |
+| 53 | [Work](https://open.spotify.com/track/30FR1uCgYGTJLUm7MXoequ) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Farsight](https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj), [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra) | [Work](https://open.spotify.com/album/3xjnPsjWTutgkdpwSenz4v) | 4:03 |
+| 54 | [I NEED U](https://open.spotify.com/track/44MdpVDAuLaHpNtQp6Hv06) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [I NEED U](https://open.spotify.com/album/2U2xvtb2D69XQHJQWLEhTA) | 3:16 |
+| 55 | [DUWML](https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [DUWML](https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1) | 3:10 |
 | 56 | [My Mind](https://open.spotify.com/track/2PQOSqKLsPRWoFhQWm0BJz) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Refraction](https://open.spotify.com/album/2R2BtdlMg4A44CzaQdmFfa) | 3:52 |
-| 57 | [lemons](https://open.spotify.com/track/5n92v56rwKAV9YLS3Mv2r7) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [lemons](https://open.spotify.com/album/0mNXu12XcjI4bW5D2czphI) | 2:29 |
-| 58 | [Bad Vibe](https://open.spotify.com/track/7JxCZS1QOKf2woQz7mKUYn) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO) | [Bad Vibe](https://open.spotify.com/album/3ZsJNuIQs0saAVggAFYURm) | 2:22 |
+| 57 | [Bad Vibe](https://open.spotify.com/track/7JxCZS1QOKf2woQz7mKUYn) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO) | [Bad Vibe](https://open.spotify.com/album/3ZsJNuIQs0saAVggAFYURm) | 2:22 |
+| 58 | [lemons](https://open.spotify.com/track/5n92v56rwKAV9YLS3Mv2r7) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [lemons](https://open.spotify.com/album/0mNXu12XcjI4bW5D2czphI) | 2:29 |
 | 59 | [IF I CAN'T BE YOURS](https://open.spotify.com/track/1CURVg07JNoRfEBylXcVnG) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [IF I CAN'T BE YOURS](https://open.spotify.com/album/31p4g4SiFB9oAkAUYsPOHB) | 3:35 |
 | 60 | [Take No Chat](https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Take No Chat](https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp) | 3:34 |
 | 61 | [Go Back](https://open.spotify.com/track/4c1ZQ1mgwfNZq68iU0Wpmu) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Go Back](https://open.spotify.com/album/24mZt09H2PNWpE5ueKMxrC) | 2:55 |

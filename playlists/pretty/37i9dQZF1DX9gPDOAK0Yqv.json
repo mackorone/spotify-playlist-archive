@@ -1,6 +1,6 @@
 {
   "description": "A hypnotic journey through Melodic Techno. Photographer: Kevin Mazur via Getty Images",
-  "num_followers": 148476,
+  "num_followers": 148568,
   "original_name": "Melodic Techno Elements",
   "owner": {
     "name": "Spotify",
@@ -378,14 +378,6 @@
         {
           "name": "Alison Goldfrapp",
           "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
-        },
-        {
-          "name": "Svein Berge",
-          "url": "https://open.spotify.com/artist/6sruuPS3sGLvT2jyUEMpyY"
-        },
-        {
-          "name": "Torbj\u00f8rn Brundtland",
-          "url": "https://open.spotify.com/artist/18hQbQNtrFVntEPLpVygCn"
         },
         {
           "name": "R\u00f6yksopp",
@@ -1295,6 +1287,26 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "The Chase (Reb\u016bke Remix)",
+        "url": "https://open.spotify.com/album/28uhTIgM1VgRPfRPoCMtqu"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "The Chase - Reb\u016bke Remix",
+      "url": "https://open.spotify.com/track/2cwfGkfp1XWdfCuPcMjWnK"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Inside Your Mind",
         "url": "https://open.spotify.com/album/2BgHXg7wPsbsdSISHjLBLj"
       },
@@ -1315,26 +1327,6 @@
       "duration_ms": 174252,
       "name": "Inside Your Mind",
       "url": "https://open.spotify.com/track/16h1oek8xjdszxudIyjFg3"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "The Chase (Reb\u016bke Remix)",
-        "url": "https://open.spotify.com/album/28uhTIgM1VgRPfRPoCMtqu"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        },
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "The Chase - Reb\u016bke Remix",
-      "url": "https://open.spotify.com/track/2cwfGkfp1XWdfCuPcMjWnK"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1399,30 +1391,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Tell Me (Agents Of Time Remix)",
-        "url": "https://open.spotify.com/album/32a7vonlW2nBISBwdrK4MJ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        },
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 244153,
-      "name": "Tell Me - Agents Of Time Remix",
-      "url": "https://open.spotify.com/track/2ynHJcxkFdocBHpW40ujLB"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Are We Truly Free?",
         "url": "https://open.spotify.com/album/1L0FGABuXR9XRQiducXXps"
       },
@@ -1455,22 +1423,42 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/4PeopsVYBPuPyr83e3T0H0"
+        "name": "Tell Me (Agents Of Time Remix)",
+        "url": "https://open.spotify.com/album/32a7vonlW2nBISBwdrK4MJ"
       },
       "artists": [
         {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
         },
         {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        },
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
         }
       ],
-      "duration_ms": 225130,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/65EggkdDWHv0HcijDXcjhk"
+      "duration_ms": 244153,
+      "name": "Tell Me - Agents Of Time Remix",
+      "url": "https://open.spotify.com/track/2ynHJcxkFdocBHpW40ujLB"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Zodiac",
+        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 342857,
+      "name": "Zodiac",
+      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1503,18 +1491,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Zodiac",
-        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/4PeopsVYBPuPyr83e3T0H0"
       },
       "artists": [
         {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
         }
       ],
-      "duration_ms": 342857,
-      "name": "Zodiac",
-      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
+      "duration_ms": 225130,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/65EggkdDWHv0HcijDXcjhk"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1555,6 +1547,26 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Friend Of Mine",
+        "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        },
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Friend Of Mine",
+      "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Told You So (Remixes Vol. 2)",
         "url": "https://open.spotify.com/album/7tSdlRlODwsNkMHTT86VCY"
       },
@@ -1591,26 +1603,6 @@
       "duration_ms": 282247,
       "name": "Perception",
       "url": "https://open.spotify.com/track/1ekuYNPiJXmXqb92TORiPX"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Friend Of Mine",
-        "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        },
-        {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Friend Of Mine",
-      "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1663,30 +1655,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/2K5l5X07mVNjRbJ0myFG9X"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        },
-        {
-          "name": "Nu-La",
-          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
-        }
-      ],
-      "duration_ms": 219768,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/6nuqo0u5Ex03YMRL0SdyLs"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Let's Go Dancing",
         "url": "https://open.spotify.com/album/3ey1jQ8gUe2E8KRT8Flfjv"
       },
@@ -1711,6 +1679,30 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/2K5l5X07mVNjRbJ0myFG9X"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "duration_ms": 219768,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/6nuqo0u5Ex03YMRL0SdyLs"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "I Look Good",
         "url": "https://open.spotify.com/album/538gE7qZ8YA2vZeYO8jO36"
       },
@@ -1727,22 +1719,6 @@
       "duration_ms": 164659,
       "name": "I Look Good",
       "url": "https://open.spotify.com/track/2nO5YCEAQLPYKLbza7N64Z"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "My Head",
-        "url": "https://open.spotify.com/album/5II6feKvMjA1MVxKA4YnLy"
-      },
-      "artists": [
-        {
-          "name": "TH;EN",
-          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
-        }
-      ],
-      "duration_ms": 208320,
-      "name": "My Head",
-      "url": "https://open.spotify.com/track/1wEHf73SzexXPjQozFSVFz"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1767,6 +1743,22 @@
       "duration_ms": 175748,
       "name": "Miss You - Argy Remix",
       "url": "https://open.spotify.com/track/7sNSLpiSJrNYWc0XLgFEBn"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "My Head",
+        "url": "https://open.spotify.com/album/5II6feKvMjA1MVxKA4YnLy"
+      },
+      "artists": [
+        {
+          "name": "TH;EN",
+          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
+        }
+      ],
+      "duration_ms": 208320,
+      "name": "My Head",
+      "url": "https://open.spotify.com/track/1wEHf73SzexXPjQozFSVFz"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1879,26 +1871,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Beyond Us (Hatshepsut Version)",
-        "url": "https://open.spotify.com/album/72jzGPaUtzX4wwbigsKmz9"
-      },
-      "artists": [
-        {
-          "name": "Eynka",
-          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
-        },
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        }
-      ],
-      "duration_ms": 234795,
-      "name": "Beyond Us - Hatshepsut Version",
-      "url": "https://open.spotify.com/track/43eF4GLcpQkzJElhw7kGUj"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Fallen Leaf (Massano Remix)",
         "url": "https://open.spotify.com/album/2zTkmAbVGPwkQt64YgbGfb"
       },
@@ -1923,6 +1895,26 @@
       "duration_ms": 222412,
       "name": "Fallen Leaf - Massano Remix",
       "url": "https://open.spotify.com/track/2ieWEolVlmDArvTcW4hjJ3"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Beyond Us (Hatshepsut Version)",
+        "url": "https://open.spotify.com/album/72jzGPaUtzX4wwbigsKmz9"
+      },
+      "artists": [
+        {
+          "name": "Eynka",
+          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "duration_ms": 234795,
+      "name": "Beyond Us - Hatshepsut Version",
+      "url": "https://open.spotify.com/track/43eF4GLcpQkzJElhw7kGUj"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -2295,22 +2287,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Backstage",
-        "url": "https://open.spotify.com/album/50XMK7szkVVwVLGjueuKLB"
-      },
-      "artists": [
-        {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
-        }
-      ],
-      "duration_ms": 186692,
-      "name": "Backstage",
-      "url": "https://open.spotify.com/track/3tjQXSn4jfFNETRVvQotFB"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/3x4m9uYBzKtjkNqS3ous14"
       },
@@ -2323,6 +2299,22 @@
       "duration_ms": 246996,
       "name": "Control",
       "url": "https://open.spotify.com/track/25dv1J3uB2S7V5QZTyySmL"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Backstage",
+        "url": "https://open.spotify.com/album/50XMK7szkVVwVLGjueuKLB"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "duration_ms": 186692,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/3tjQXSn4jfFNETRVvQotFB"
     },
     {
       "added_at": "2025-06-26 22:00:24",

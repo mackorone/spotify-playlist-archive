@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Le rap francophone est en forme. Photo: Damso",
+  "description": "Le rap francophone est en forme. Photo: Hamza",
   "name": "Rap francophone",
   "tracks": [
     {
@@ -666,7 +666,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 114160,
       "name": "BOOM BOOM",
       "url": "https://open.spotify.com/track/70T34qUA8otqXwxraVSbry"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 120894,
       "name": "C'EST RELOU",
       "url": "https://open.spotify.com/track/5tbdseHNGNzlzcR0uo7epR"
@@ -1468,6 +1468,28 @@
       "duration_ms": 141000,
       "name": "Dougie",
       "url": "https://open.spotify.com/track/2dh4i6rwmQ5qsoRafiylo6"
+    },
+    {
+      "album": {
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/219t6e1VadecyjyLckRYxF"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        },
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238160,
+      "name": "DRAGONS",
+      "url": "https://open.spotify.com/track/6bhObRBG732wGeTWWR1781"
     },
     {
       "album": {
@@ -2410,7 +2432,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 137173,
       "name": "KYKY2BONDY",
       "url": "https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju"
@@ -3941,6 +3963,24 @@
     },
     {
       "album": {
+        "name": "RUINART",
+        "url": "https://open.spotify.com/album/6DDz77QqTYGIWIj9g4fUN1"
+      },
+      "artists": [
+        {
+          "name": "R2",
+          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174493,
+      "name": "RUINART",
+      "url": "https://open.spotify.com/track/0vZyOrmcNCzkz73HSEMfLk"
+    },
+    {
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/45Z2w3ADwNkPE6kTRpm2P4"
       },
@@ -4368,7 +4408,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-28",
       "duration_ms": 175787,
       "name": "Tentation (feat. Hamza)",
       "url": "https://open.spotify.com/track/2kpahpZlkZF8I2yFR65CIC"
@@ -4584,6 +4624,24 @@
       "duration_ms": 108948,
       "name": "TRISTE & C\u00c9L\u00c8BRE",
       "url": "https://open.spotify.com/track/7n84GX5guMpcJTmSakw1zT"
+    },
+    {
+      "album": {
+        "name": "Tu Sais",
+        "url": "https://open.spotify.com/album/6lqW7JxQYN90kAv278RRFv"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158573,
+      "name": "Tu Sais",
+      "url": "https://open.spotify.com/track/1R1deVa4LzVxzgFIpvS2O3"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "This is Laufey. The essential tracks, all in one playlist.",
-  "num_followers": 289715,
+  "num_followers": 289996,
   "original_name": "This Is Laufey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFs8AAAAAACgBKYNZRz6k44GCt7IutCU",
+  "snapshot_id": "aFyNgAAAAAD74a2ZNF2U0h9t0KUPwSYn",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lover Girl",
+        "url": "https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK"
+    },
     {
       "added_at": null,
       "album": {
