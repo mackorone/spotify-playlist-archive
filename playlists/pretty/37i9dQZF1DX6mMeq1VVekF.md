@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Loyle Carner
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,859 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,887 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 23 | [Straight Drop X5](https://open.spotify.com/track/3kUbJTF3u2Ge4j4IzCwlz5) | [Asco](https://open.spotify.com/artist/78tb5IXVdgoNDphZXWMN0r) | [Straight Drop X5](https://open.spotify.com/album/7Kj7DByiJxyuUIfCHqYrTe) | 3:26 |
 | 24 | [One Call Away](https://open.spotify.com/track/6lSmgxbGLHtzc78NTQzMPO) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [One Call Away](https://open.spotify.com/album/0TpSAuRl8gSYq8ufZFhIwK) | 1:47 |
 | 25 | [Know Yourself](https://open.spotify.com/track/3CZrKsC8qiP6byNgqKXEfV) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Know Yourself](https://open.spotify.com/album/7nlEUHiivhC4V9mbmLcDdX) | 2:40 |
-| 26 | [Same Sh\*t](https://open.spotify.com/track/6JLhAcblWoXi3Yxnm2rQOy) | [Booter Bee](https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU) | [Same Sh\*t](https://open.spotify.com/album/5ilEtloP5mNtfR6vbcdS9r) | 2:28 |
-| 27 | [Ama said](https://open.spotify.com/track/6hoUDe5xg5Ex0LAQYK549t) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Ama said](https://open.spotify.com/album/1q8t2RUT0UsMfZ2kuDCLrQ) | 2:55 |
+| 26 | [Ama said](https://open.spotify.com/track/6hoUDe5xg5Ex0LAQYK549t) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Ama said](https://open.spotify.com/album/1q8t2RUT0UsMfZ2kuDCLrQ) | 2:55 |
+| 27 | [Same Sh\*t](https://open.spotify.com/track/6JLhAcblWoXi3Yxnm2rQOy) | [Booter Bee](https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU) | [Same Sh\*t](https://open.spotify.com/album/5ilEtloP5mNtfR6vbcdS9r) | 2:28 |
 | 28 | [NO MANNERS](https://open.spotify.com/track/6ZwndlSxLb1QlzQxbMcWjO) | [MGEE](https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC) | [NO MANNERS](https://open.spotify.com/album/2u9XbBgvH6M2YIkUh6swAX) | 2:18 |
 | 29 | [9 Months](https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Avoid The Drones & 9 Months](https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc) | 3:34 |
 | 30 | [Prada or Celine](https://open.spotify.com/track/7oL71KKGB790hTgoDaK14a) | [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C) | [Prada or Celine](https://open.spotify.com/album/2sE10E4MWavzGEUsrHEOPd) | 2:20 |
@@ -58,12 +58,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 48 | [Angel Patience](https://open.spotify.com/track/3QquNL6YhignMnpVNHotO7) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Angel Patience](https://open.spotify.com/album/38M9Upz2H2raj01spTcwRp) | 3:33 |
 | 49 | [More Light \(feat\. Princess Nokia\)](https://open.spotify.com/track/3i6GcEPDKsyChS4mkLFj1z) | [Divine Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [More Light \(feat\. Princess Nokia\)](https://open.spotify.com/album/53xHbnROiHwbXgea0I5qW8) | 3:32 |
 | 50 | [Miss Independent](https://open.spotify.com/track/60wRcrZ9ik7RQK9qk2DhKR) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Miss Independent](https://open.spotify.com/album/2sd3mb5KsqYDA8sML6e93P) | 2:06 |
-| 51 | [WHITE NOISE](https://open.spotify.com/track/5HT8TOYAhw3sfvqZowrVMH) | [Monster Florence](https://open.spotify.com/artist/2HSKYZUpx7rynGKcOI46e9) | [WHITE NOISE](https://open.spotify.com/album/1Ed7eYD0Z6o1BZU5p5mjtd) | 3:12 |
-| 52 | [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 |
+| 51 | [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 |
+| 52 | [WHITE NOISE](https://open.spotify.com/track/5HT8TOYAhw3sfvqZowrVMH) | [Monster Florence](https://open.spotify.com/artist/2HSKYZUpx7rynGKcOI46e9) | [WHITE NOISE](https://open.spotify.com/album/1Ed7eYD0Z6o1BZU5p5mjtd) | 3:12 |
 | 53 | [U GOTTA \(feat\. Pharrell\)](https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [PERFECT FANTASY](https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND) | 3:00 |
 | 54 | [ROSTER](https://open.spotify.com/track/6FnezcbAmX7tOMF4hSi71K) | [5EB](https://open.spotify.com/artist/70P7as3HD8esc9Dx2TAR7o), [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C) | [\#\#MOTIONMUZIK](https://open.spotify.com/album/31poFvXB8ciLoUulSDsbgM) | 2:14 |
-| 55 | [Fit ID](https://open.spotify.com/track/6ltJlPf02pYXiuZPHscjiD) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Fit ID](https://open.spotify.com/album/60hjjGjN5mNNVsnZEfDdmt) | 2:38 |
-| 56 | [19](https://open.spotify.com/track/7uCtddSloI5jRSUWUdbEyY) | [Dan Whitlam](https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8) | [19](https://open.spotify.com/album/5bQoKnUIUOkARXThz4uRAK) | 3:25 |
+| 55 | [19](https://open.spotify.com/track/7uCtddSloI5jRSUWUdbEyY) | [Dan Whitlam](https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8) | [19](https://open.spotify.com/album/5bQoKnUIUOkARXThz4uRAK) | 3:25 |
+| 56 | [Fit ID](https://open.spotify.com/track/6ltJlPf02pYXiuZPHscjiD) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Fit ID](https://open.spotify.com/album/60hjjGjN5mNNVsnZEfDdmt) | 2:38 |
 | 57 | [Red Sea](https://open.spotify.com/track/1GPHLX444M4TPoeH2PkN5L) | [Lv](https://open.spotify.com/artist/0ZdEpgTWH5UAPeItBOSL5Y) | [Red Sea](https://open.spotify.com/album/20tFCHvKqXmcCwJcoBpWBA) | 2:12 |
 | 58 | [dream girl](https://open.spotify.com/track/44MckRqvFUyYmPIl3mYMjp) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [dream girl / wake up b\*tch](https://open.spotify.com/album/1Kpt6L8hF6bDLSgoPdHLHv) | 2:01 |
 | 59 | [vinland](https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [XONGZ አስቀያሚ ጡብ](https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC) | 2:49 |

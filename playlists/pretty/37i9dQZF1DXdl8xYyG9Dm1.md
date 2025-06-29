@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: J Hus & Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,161 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,224 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 41 | [Eish Chief \- Remix](https://open.spotify.com/track/5fmZMhrBrXNCYoLIdjCZU4) | [KindlyNxsh](https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Eish Chief \(Remix\)](https://open.spotify.com/album/5jzBw5vh59rdN2HQMzehK7) | 3:40 |
 | 42 | [BABA](https://open.spotify.com/track/3hzuoV8oxgfBp2C35DCIpv) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [BABA](https://open.spotify.com/album/4j0yrlnoFKbyj3Duw4I1eD) | 2:07 |
 | 43 | [DREAMS II](https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [DREAMS II](https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo) | 3:57 |
-| 44 | [I No Be God](https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [I No Be God](https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw) | 2:18 |
+| 44 | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ) | 2:35 |
 | 45 | [HUSTLERS DREAM \(feat\. Jay Bahd & Kwaku DMC\)](https://open.spotify.com/track/71aJvjD3gGV1TY7A0Ymg4m) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [HUSTLERS DREAM \(feat\. Jay Bahd & Kwaku DMC\)](https://open.spotify.com/album/4YGITRot41cA37kXtZu4VZ) | 3:15 |
-| 46 | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ) | 2:35 |
+| 46 | [I No Be God](https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [I No Be God](https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw) | 2:18 |
 | 47 | [Fallen Angel](https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:20 |
 | 48 | [Fly Girl](https://open.spotify.com/track/2iKAPCfb9kDYx82DA10D5z) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Fly Girl](https://open.spotify.com/album/0iW7kpeYCRmE9ctuvz9Oli) | 3:14 |
 | 49 | [Emeka Dance](https://open.spotify.com/track/0JPOsyqfQshF8ejvGCTBgG) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | ["Of Many Colors": Orange](https://open.spotify.com/album/6QSAkZ4cM2bRSdPXF7HX2x) | 2:39 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 64 | [No More](https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No More](https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk) | 3:02 |
 | 65 | [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 |
 | 66 | [BONIFACE](https://open.spotify.com/track/5AFItM5SVDczk1FE7RzLGZ) | [Zamir](https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [BONIFACE](https://open.spotify.com/album/2p4DiGEh1t9B43kfIDt2xM) | 2:08 |
-| 67 | [2025](https://open.spotify.com/track/6ByrGBVtpOGYIxyDc5XQYJ) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [2025](https://open.spotify.com/album/6QhHyhSidIqwPEQzWCWeig) | 3:18 |
-| 68 | [Machete](https://open.spotify.com/track/3PlVucfcEIzQzmMZkRDTgB) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Machete](https://open.spotify.com/album/79Wm9Oj6zGEx6yRYvajE7Q) | 2:34 |
+| 67 | [Machete](https://open.spotify.com/track/3PlVucfcEIzQzmMZkRDTgB) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Machete](https://open.spotify.com/album/79Wm9Oj6zGEx6yRYvajE7Q) | 2:34 |
+| 68 | [2025](https://open.spotify.com/track/6ByrGBVtpOGYIxyDc5XQYJ) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [2025](https://open.spotify.com/album/6QhHyhSidIqwPEQzWCWeig) | 3:18 |
 | 69 | [One Time](https://open.spotify.com/track/5u6yrgzMJRdM33dwdF6jNb) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Confuse The Enemy \(Reloaded\)](https://open.spotify.com/album/6tIHqwTZdARVmStiqy16oz) | 2:30 |
 | 70 | [EKWE](https://open.spotify.com/track/35sIpW2RtmVPZLbSsQCyJF) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [EKWE](https://open.spotify.com/album/4NKJzYRQc1POilG4lil3IN) | 2:31 |
 

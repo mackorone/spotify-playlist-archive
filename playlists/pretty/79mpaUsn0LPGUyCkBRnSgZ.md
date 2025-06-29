@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 552 songs - 1 day 12 hr 47 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 554 songs - 1 day 12 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -560,5 +560,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 550 | [In The Garden](https://open.spotify.com/track/3Qg3xUxxGLJEDEOFf4c0NA) | [Adam Goldstone](https://open.spotify.com/artist/11nDj0FhwWDHH2RpehfKG0), [Ceybil Jefferies](https://open.spotify.com/artist/4mcL7JonbvEoIj9rnwUOEy) | [Lower East Side Stories](https://open.spotify.com/album/6vewM0elb03oSUN1ZyNN7u) | 5:48 |
 | 551 | [Protocol](https://open.spotify.com/track/33RhN1w5CsMahDUlGIPLhw) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Cartwheel](https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz) | 4:12 |
 | 552 | [Lowland](https://open.spotify.com/track/0hl2a5R1FlvPmdDexANFjp) | [Oldstar](https://open.spotify.com/artist/65EcXsR7j4l6Thkrr5a1AX) | [Of the Highway](https://open.spotify.com/album/2iyY4MTX9NiO05hQN221cC) | 4:07 |
+| 553 | [The Introduction](https://open.spotify.com/track/1ffQI6OUl4BzgnUXIWVEly) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [roro](https://open.spotify.com/artist/0Y9jBmQGmBdDhlu3bSxECs) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 0:19 |
+| 554 | [went to meet her \(intro\)](https://open.spotify.com/track/2RLKAk5EDhM4gXxIfpE58c) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 2:31 |
 
-Snapshot ID: `AAAHQrX0FhN4oxFmg4dsvvWv16+sd8gs`
+Snapshot ID: `AAAHRAo50nAd6s/zSxcIa7PjVzTL/nrm`

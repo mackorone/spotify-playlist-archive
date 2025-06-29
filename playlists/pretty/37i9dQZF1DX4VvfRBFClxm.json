@@ -1,6 +1,6 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Noah Kahan",
-  "num_followers": 1481784,
+  "num_followers": 1481762,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "MEAN!",
-        "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
-      },
-      "artists": [
-        {
-          "name": "Madeline The Person",
-          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
-        }
-      ],
-      "duration_ms": 143960,
-      "name": "MEAN!",
-      "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "James Bay Spotify Session 2015",
         "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 236786,
       "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
       "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "MEAN!",
+        "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
+      },
+      "artists": [
+        {
+          "name": "Madeline The Person",
+          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
+        }
+      ],
+      "duration_ms": 143960,
+      "name": "MEAN!",
+      "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -879,38 +879,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/7j7ykLBxerILBLBc8AICJS"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 201080,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/2hRMHB4ZEYrCBM0d0vVEdq"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "James Bay Spotify Session 2015",
-        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 285866,
-      "name": "Let It Go - James Bay Spotify Session 2015",
-      "url": "https://open.spotify.com/track/4tYokojnBEp5pBWO7wTRPA"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -943,6 +911,38 @@
       "duration_ms": 212480,
       "name": "Highwomen",
       "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "James Bay Spotify Session 2015",
+        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 285866,
+      "name": "Let It Go - James Bay Spotify Session 2015",
+      "url": "https://open.spotify.com/track/4tYokojnBEp5pBWO7wTRPA"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/7j7ykLBxerILBLBc8AICJS"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 201080,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/2hRMHB4ZEYrCBM0d0vVEdq"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Forget About Us",
-        "url": "https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 196359,
-      "name": "Forget About Us",
-      "url": "https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Can't Help Falling In Love",
         "url": "https://open.spotify.com/album/1S3qHwtPhRzJ7wLu3QbWee"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 140800,
       "name": "Can't Help Falling In Love",
       "url": "https://open.spotify.com/track/4kfcKQXyllqS2JRxKdHBaP"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Forget About Us",
+        "url": "https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 196359,
+      "name": "Forget About Us",
+      "url": "https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Better Now (Acoustic)",
-        "url": "https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu"
-      },
-      "artists": [
-        {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
-        }
-      ],
-      "duration_ms": 234551,
-      "name": "Better Now - Acoustic",
-      "url": "https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Lego House - Single",
         "url": "https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 211000,
       "name": "Lego House",
       "url": "https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Better Now (Acoustic)",
+        "url": "https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu"
+      },
+      "artists": [
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        }
+      ],
+      "duration_ms": 234551,
+      "name": "Better Now - Acoustic",
+      "url": "https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga"
     },
     {
       "added_at": "2024-07-12 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Aminé
 
-[Spotify](https://open.spotify.com/user/spotify) - 964,682 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 964,632 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 18 | [Jeep \(feat\. Terror Reid\)](https://open.spotify.com/track/6EZOHEegsRf5kp4pLfkTjt) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq), [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA) | [Jeep \(feat\. Terror Reid\)](https://open.spotify.com/album/29cSXGzONKVj5qcODEbzfl) | 2:00 |
 | 19 | [famous](https://open.spotify.com/track/2rtnfFuSvrnH8RD1OzbBSu) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Lei Keli ft\. 47 / For Promotional Use Only](https://open.spotify.com/album/2KACVAPmuBiD7GGcGwndKq) | 3:00 |
 | 20 | [13MOS](https://open.spotify.com/track/0Z3HNhCwr080usObQtSw1q) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 4:21 |
-| 21 | [H\-Town](https://open.spotify.com/track/1qAI6SkJmglsmPNRRKEq8L) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [SogoneSoflexy](https://open.spotify.com/artist/31Qb2CuphPhk8xlehfGNmQ), [Ameer Vann](https://open.spotify.com/artist/7kIbB1pdDyehFj8aNgfzfH), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 3:04 |
+| 21 | [H\-Town](https://open.spotify.com/track/1qAI6SkJmglsmPNRRKEq8L) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [SoGone SoFlexy](https://open.spotify.com/artist/59TV2OX3lSIlALY4zlFPh4), [Ameer Vann](https://open.spotify.com/artist/7kIbB1pdDyehFj8aNgfzfH), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 3:04 |
 | 22 | [waste time](https://open.spotify.com/track/4yTInPCpzqBNeHmcWCvjiz) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [ARCHANGEL](https://open.spotify.com/album/6ynP1CQGvw6UxgnqgoLNap) | 2:18 |
 | 23 | [White Noise](https://open.spotify.com/track/3IOoYGnPLIPlpRDAiQLf2v) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [White Noise](https://open.spotify.com/album/0ZQQxiHRvS6hy1N5EMn6RB) | 2:50 |
 | 24 | [whoa \(mind in awe\) \- Remix](https://open.spotify.com/track/7pOwvbmszmfUmKlZoiMnGh) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [whoa \(mind in awe\) \[Remix\]](https://open.spotify.com/album/3hHy7rbqe1OvUZ1B2qvJ59) | 3:16 |

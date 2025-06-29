@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Alduts Sherdley
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,300 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,305 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 33 | [PESTE TOT](https://open.spotify.com/track/2akD1C98hzYuUnqslTor11) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [PESTE TOT](https://open.spotify.com/album/6yX2Obn7R5hpjXs9VA7aNd) | 2:26 |
 | 34 | [TUREAZ\-O](https://open.spotify.com/track/49TQJahxC2nOwzMuHeoMyo) | [AOUR](https://open.spotify.com/artist/2LjVvlBSYQOf4XY8hD5uRB), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [TUREAZ\-O](https://open.spotify.com/album/3dk71qXYTDWB1Jjr8lfIPq) | 3:06 |
 | 35 | [DIVA](https://open.spotify.com/track/3AToyakSFpqwgtJhpevG0B) | [FTL EYES](https://open.spotify.com/artist/6KLJBozxtS1h3ML9SF8MFx), [GAGA](https://open.spotify.com/artist/5IcEPE8uiSkoObPccZ0a9e), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [FTL MIXTAPE, Vol\. 1](https://open.spotify.com/album/0zXRY2kumrxvQuYe5LVJpI) | 4:16 |
-| 36 | [Boo Hoo](https://open.spotify.com/track/4yzHQjhuqc2Mln2zQd4C83) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Boo Hoo](https://open.spotify.com/album/1jQ9obrlV3ESCHg7AV8wbS) | 2:47 |
+| 36 | [Tu, Mărie!](https://open.spotify.com/track/19kcHnQM6FN6Ck0gYEOwXO) | [Grasu XXL](https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG) | [Tu, Mărie!](https://open.spotify.com/album/5jspaqgzrndtazKeAcFDZr) | 3:21 |
 | 37 | [Grinch](https://open.spotify.com/track/0RCOFsv0uaHhIwjZXJJ5yk) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Grinch](https://open.spotify.com/album/2QN6om23DL5Gwek4PCTGx6) | 3:14 |
-| 38 | [Tu, Mărie!](https://open.spotify.com/track/19kcHnQM6FN6Ck0gYEOwXO) | [Grasu XXL](https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG) | [Tu, Mărie!](https://open.spotify.com/album/5jspaqgzrndtazKeAcFDZr) | 3:21 |
+| 38 | [Boo Hoo](https://open.spotify.com/track/4yzHQjhuqc2Mln2zQd4C83) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Boo Hoo](https://open.spotify.com/album/1jQ9obrlV3ESCHg7AV8wbS) | 2:47 |
 | 39 | [Vise La Plic](https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Vise La Plic](https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m) | 2:46 |
-| 40 | [SHIVA](https://open.spotify.com/track/7oSpTlTn99eLnqNVeZP4Gc) | [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [SHIVA](https://open.spotify.com/album/4ZqXjrt5e7KsNzxYA9KMxj) | 2:30 |
-| 41 | [Șapte](https://open.spotify.com/track/6n6PmjIRTLLcBuGSglnqKv) | [Spike](https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp) | [Șapte](https://open.spotify.com/album/3BYQDwElVXz9moBnWbZtwm) | 2:30 |
+| 40 | [Șapte](https://open.spotify.com/track/6n6PmjIRTLLcBuGSglnqKv) | [Spike](https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp) | [Șapte](https://open.spotify.com/album/3BYQDwElVXz9moBnWbZtwm) | 2:30 |
+| 41 | [SHIVA](https://open.spotify.com/track/7oSpTlTn99eLnqNVeZP4Gc) | [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [SHIVA](https://open.spotify.com/album/4ZqXjrt5e7KsNzxYA9KMxj) | 2:30 |
 | 42 | [Copiii Care Am Fost](https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Bastien](https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS) | [Copiii Care Am Fost](https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT) | 2:58 |
 | 43 | [Sufletul tău](https://open.spotify.com/track/6KMoVF88KgKkiHaigqvU4K) | [Pepy](https://open.spotify.com/artist/2xcZ2Y1cDPqycDAQI0oIRM), [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Sufletul tău](https://open.spotify.com/album/2tqXTltj5kC5wobURhsdXo) | 3:05 |
 | 44 | [Trebuie să vorbim](https://open.spotify.com/track/2umq0CclvwPu9IgfKFYGqf) | [Cojo](https://open.spotify.com/artist/4Rl9vpUbiQ7h02NfIaAma2), [Yasmin Petroșanu](https://open.spotify.com/artist/0JAK73jXbu6yF0BMfLZ7xB) | [Erupt](https://open.spotify.com/album/6Hl9jUlqriBim7hHWr09nf) | 3:36 |

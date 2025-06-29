@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 24671,
+  "num_followers": 24676,
   "original_name": "Electro Folclore",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,6 @@
     {
       "added_at": "2025-04-25 03:00:31",
       "album": {
-        "name": "R\u00edo Adentro",
-        "url": "https://open.spotify.com/album/4CWmh4MRXSPdToaX8mL3LA"
-      },
-      "artists": [
-        {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "Barro",
-      "url": "https://open.spotify.com/track/3hAS0Wxq0wl0XCgy1B9ozN"
-    },
-    {
-      "added_at": "2025-04-25 03:00:31",
-      "album": {
         "name": "Orcas",
         "url": "https://open.spotify.com/album/474lLBbfJm8Y3zjSIXWgA3"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 335292,
       "name": "Uno Resuena",
       "url": "https://open.spotify.com/track/752FIpJwEwS2w1fhyvsRs6"
+    },
+    {
+      "added_at": "2025-04-25 03:00:31",
+      "album": {
+        "name": "R\u00edo Adentro",
+        "url": "https://open.spotify.com/album/4CWmh4MRXSPdToaX8mL3LA"
+      },
+      "artists": [
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "Barro",
+      "url": "https://open.spotify.com/track/3hAS0Wxq0wl0XCgy1B9ozN"
     },
     {
       "added_at": "2025-04-25 03:00:31",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-04-25 03:00:31",
       "album": {
-        "name": "Huestes",
-        "url": "https://open.spotify.com/album/2EjEF5v5FuPVut3JdZBK2a"
-      },
-      "artists": [
-        {
-          "name": "Weste",
-          "url": "https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "Ant\u00eddoto",
-      "url": "https://open.spotify.com/track/2nbXinv9k0boywWmtOk3AW"
-    },
-    {
-      "added_at": "2025-04-25 03:00:31",
-      "album": {
         "name": "Ay Palomita",
         "url": "https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 391452,
       "name": "Ay Palomita",
       "url": "https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD"
+    },
+    {
+      "added_at": "2025-04-25 03:00:31",
+      "album": {
+        "name": "Huestes",
+        "url": "https://open.spotify.com/album/2EjEF5v5FuPVut3JdZBK2a"
+      },
+      "artists": [
+        {
+          "name": "Weste",
+          "url": "https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "Ant\u00eddoto",
+      "url": "https://open.spotify.com/track/2nbXinv9k0boywWmtOk3AW"
     },
     {
       "added_at": "2025-04-25 03:00:31",
@@ -639,26 +639,6 @@
     {
       "added_at": "2025-04-25 03:00:31",
       "album": {
-        "name": "Ca\u00f1averal",
-        "url": "https://open.spotify.com/album/2x4XQ6Fj0DUh66uiT1vYTB"
-      },
-      "artists": [
-        {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Ca\u00f1averal",
-      "url": "https://open.spotify.com/track/59SisvjSeXXmlO39EKze2d"
-    },
-    {
-      "added_at": "2025-04-25 03:00:31",
-      "album": {
         "name": "Viaje Astral",
         "url": "https://open.spotify.com/album/14iJMSksb6BlrFSAiaxIpt"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 244000,
       "name": "Baile De M\u00e1scaras",
       "url": "https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ"
+    },
+    {
+      "added_at": "2025-04-25 03:00:31",
+      "album": {
+        "name": "Ca\u00f1averal",
+        "url": "https://open.spotify.com/album/2x4XQ6Fj0DUh66uiT1vYTB"
+      },
+      "artists": [
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Ca\u00f1averal",
+      "url": "https://open.spotify.com/track/59SisvjSeXXmlO39EKze2d"
     },
     {
       "added_at": "2025-04-25 03:00:31",
@@ -731,26 +731,6 @@
     {
       "added_at": "2025-04-25 03:00:31",
       "album": {
-        "name": "Litoraleza",
-        "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
-      },
-      "artists": [
-        {
-          "name": "Lauphan",
-          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
-        },
-        {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Gurisito Cosmico",
-      "url": "https://open.spotify.com/track/7239VPVBGFouXF8GNTWH4L"
-    },
-    {
-      "added_at": "2025-04-25 03:00:31",
-      "album": {
         "name": "La Monta\u00f1a Sin Nombre II",
         "url": "https://open.spotify.com/album/2Avt4J3pvgttxcTfJc4Kvs"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 362653,
       "name": "CUMBIA ORIENTAL",
       "url": "https://open.spotify.com/track/0UcW62xUDm9MsxcKesIxj8"
+    },
+    {
+      "added_at": "2025-04-25 03:00:31",
+      "album": {
+        "name": "Litoraleza",
+        "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
+      },
+      "artists": [
+        {
+          "name": "Lauphan",
+          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
+        },
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Gurisito Cosmico",
+      "url": "https://open.spotify.com/track/7239VPVBGFouXF8GNTWH4L"
     },
     {
       "added_at": "2025-04-25 03:00:31",
@@ -859,26 +859,6 @@
     {
       "added_at": "2025-04-25 03:00:31",
       "album": {
-        "name": "Nave",
-        "url": "https://open.spotify.com/album/0ivIf2sYHxEz1grqb26QfR"
-      },
-      "artists": [
-        {
-          "name": "Cocaibica",
-          "url": "https://open.spotify.com/artist/5yhCi2fUWjkXNOCC4U1LUY"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 189791,
-      "name": "Nave",
-      "url": "https://open.spotify.com/track/5wqzEPhRWWigTQJRNLUjxU"
-    },
-    {
-      "added_at": "2025-04-25 03:00:31",
-      "album": {
         "name": "El Despertar Del Anfibio (Instrumental)",
         "url": "https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 383686,
       "name": "El Despertar Del Anfibio - Instrumental",
       "url": "https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH"
+    },
+    {
+      "added_at": "2025-04-25 03:00:31",
+      "album": {
+        "name": "Nave",
+        "url": "https://open.spotify.com/album/0ivIf2sYHxEz1grqb26QfR"
+      },
+      "artists": [
+        {
+          "name": "Cocaibica",
+          "url": "https://open.spotify.com/artist/5yhCi2fUWjkXNOCC4U1LUY"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 189791,
+      "name": "Nave",
+      "url": "https://open.spotify.com/track/5wqzEPhRWWigTQJRNLUjxU"
     },
     {
       "added_at": "2025-04-25 03:00:31",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-04-25 03:00:31",
       "album": {
-        "name": "Truenatruena",
-        "url": "https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0"
-      },
-      "artists": [
-        {
-          "name": "Uji",
-          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
-        }
-      ],
-      "duration_ms": 272503,
-      "name": "Truenatruena",
-      "url": "https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a"
-    },
-    {
-      "added_at": "2025-04-25 03:00:31",
-      "album": {
         "name": "Cuando Oigo Sonar la Caja (Ruido Selecto Remix)",
         "url": "https://open.spotify.com/album/3n3CKxAnNg216UAyDogzeQ"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 200000,
       "name": "Cuando Oigo Sonar la Caja (Ruido Selecto Remix)",
       "url": "https://open.spotify.com/track/48pUSL891H5B5dGOFjhuiV"
+    },
+    {
+      "added_at": "2025-04-25 03:00:31",
+      "album": {
+        "name": "Truenatruena",
+        "url": "https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0"
+      },
+      "artists": [
+        {
+          "name": "Uji",
+          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
+        }
+      ],
+      "duration_ms": 272503,
+      "name": "Truenatruena",
+      "url": "https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a"
     },
     {
       "added_at": "2025-04-25 03:00:31",
@@ -1267,22 +1267,18 @@
     {
       "added_at": "2025-04-25 03:00:31",
       "album": {
-        "name": "Espantap\u00e1jaros",
-        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
+        "name": "Cada Uno con Su Bandera",
+        "url": "https://open.spotify.com/album/64VFo7Z9zmG9AQUVARHhvh"
       },
       "artists": [
         {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "La Perla",
-          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+          "name": "Dat Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Espantap\u00e1jaros",
-      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+      "duration_ms": 243072,
+      "name": "Cada Uno con Su Bandera",
+      "url": "https://open.spotify.com/track/15TMCqDL4fOiAv8AX5ckIi"
     },
     {
       "added_at": "2025-04-25 03:00:31",
@@ -1303,18 +1299,22 @@
     {
       "added_at": "2025-04-25 03:00:31",
       "album": {
-        "name": "Cada Uno con Su Bandera",
-        "url": "https://open.spotify.com/album/64VFo7Z9zmG9AQUVARHhvh"
+        "name": "Espantap\u00e1jaros",
+        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
       "artists": [
         {
-          "name": "Dat Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW"
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
         }
       ],
-      "duration_ms": 243072,
-      "name": "Cada Uno con Su Bandera",
-      "url": "https://open.spotify.com/track/15TMCqDL4fOiAv8AX5ckIi"
+      "duration_ms": 172500,
+      "name": "Espantap\u00e1jaros",
+      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
     },
     {
       "added_at": "2025-04-25 03:00:31",

@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 32136,
+  "num_followers": 32163,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAADVE9voY71EDmLSlA8SBqUX",
+  "snapshot_id": "aF3fAAAAAABHUohrw1qDDWDb/6PG8WjR",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 197080,
       "name": "Killin\u2019 Me",
       "url": "https://open.spotify.com/track/6rznVDgylyz2uq9MxJNsnV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parker McCollum",
+        "url": "https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Solid Country Gold",
+      "url": "https://open.spotify.com/track/7f0FidagqvvapT7TeaWfuP"
     },
     {
       "added_at": null,
@@ -303,18 +319,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hollywood Gold",
-        "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
+        "name": "Parker McCollum",
+        "url": "https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA"
       },
       "artists": [
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        },
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 183653,
-      "name": "Hold Me Back",
-      "url": "https://open.spotify.com/track/0b0bblC9e8Xxrq5rfq3omD"
+      "duration_ms": 231466,
+      "name": "Good Time Charlie's Got The Blues",
+      "url": "https://open.spotify.com/track/1LOFK4zdpDABD2mmT5wRKH"
     },
     {
       "added_at": null,
@@ -367,22 +387,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sounds Like Something I'd Say (Feat. Parker McCollum)",
-        "url": "https://open.spotify.com/album/4cZTfhwa23rh3wtYhfGX78"
+        "name": "Hollywood Gold",
+        "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
       },
       "artists": [
-        {
-          "name": "Kassi Ashton",
-          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
-        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 200773,
-      "name": "Sounds Like Something I'd Say (Feat. Parker McCollum)",
-      "url": "https://open.spotify.com/track/6jyLcUzl4HwCdtsTe0RiGl"
+      "duration_ms": 183653,
+      "name": "Hold Me Back",
+      "url": "https://open.spotify.com/track/0b0bblC9e8Xxrq5rfq3omD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parker McCollum",
+        "url": "https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 252573,
+      "name": "Sunny Days",
+      "url": "https://open.spotify.com/track/2Idq7J9Y7JwYuUgxBNJmNN"
     },
     {
       "added_at": null,
@@ -403,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Probably Wrong",
-        "url": "https://open.spotify.com/album/4IrKqWfXyJknGVjBGbGX1v"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 252426,
-      "name": "Memphis Rain",
-      "url": "https://open.spotify.com/track/2i21d4wmm7FsiZ37E8qPxS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gold Chain Cowboy",
         "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
       },
@@ -435,6 +451,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Probably Wrong",
+        "url": "https://open.spotify.com/album/4IrKqWfXyJknGVjBGbGX1v"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 252426,
+      "name": "Memphis Rain",
+      "url": "https://open.spotify.com/track/2i21d4wmm7FsiZ37E8qPxS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parker McCollum",
+        "url": "https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 311666,
+      "name": "My Blue",
+      "url": "https://open.spotify.com/track/18i60D5UgcVUjTPzZdQmPM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sounds Like Something I'd Say (Feat. Parker McCollum)",
+        "url": "https://open.spotify.com/album/4cZTfhwa23rh3wtYhfGX78"
+      },
+      "artists": [
+        {
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 200773,
+      "name": "Sounds Like Something I'd Say (Feat. Parker McCollum)",
+      "url": "https://open.spotify.com/track/6jyLcUzl4HwCdtsTe0RiGl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
       },
@@ -447,6 +515,38 @@
       "duration_ms": 204489,
       "name": "I Ain't Going Nowhere",
       "url": "https://open.spotify.com/track/3Vk6skjOvvFMVYOGNaCaSp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold Chain Cowboy",
+        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "Wait Outside",
+      "url": "https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parker McCollum",
+        "url": "https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Watch Me Bleed",
+      "url": "https://open.spotify.com/track/1lGme292PTeG8YIZMY3pwj"
     },
     {
       "added_at": null,
@@ -487,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold Chain Cowboy",
-        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
       },
       "artists": [
         {
@@ -496,15 +596,15 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 201173,
-      "name": "Wait Outside",
-      "url": "https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2"
+      "duration_ms": 221781,
+      "name": "Things I Never Told You",
+      "url": "https://open.spotify.com/track/4fxEEvoI7uL0rQ5GzwRnZT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Probably Wrong",
-        "url": "https://open.spotify.com/album/4IrKqWfXyJknGVjBGbGX1v"
+        "name": "Parker McCollum",
+        "url": "https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA"
       },
       "artists": [
         {
@@ -512,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 253453,
-      "name": "South of the City Lights",
-      "url": "https://open.spotify.com/track/0ck10ZDIJyFMbyQEiDLFQd"
+      "duration_ms": 208426,
+      "name": "Permanent Headphones",
+      "url": "https://open.spotify.com/track/1gVbNW6zPKkfhVSQu5nVDZ"
     },
     {
       "added_at": null,
@@ -535,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
+        "name": "Probably Wrong",
+        "url": "https://open.spotify.com/album/4IrKqWfXyJknGVjBGbGX1v"
       },
       "artists": [
         {
@@ -544,9 +644,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 221781,
-      "name": "Things I Never Told You",
-      "url": "https://open.spotify.com/track/4fxEEvoI7uL0rQ5GzwRnZT"
+      "duration_ms": 253453,
+      "name": "South of the City Lights",
+      "url": "https://open.spotify.com/track/0ck10ZDIJyFMbyQEiDLFQd"
     },
     {
       "added_at": null,
@@ -571,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Probably Wrong",
-        "url": "https://open.spotify.com/album/4IrKqWfXyJknGVjBGbGX1v"
+        "name": "Parker McCollum",
+        "url": "https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA"
       },
       "artists": [
         {
@@ -580,9 +680,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 210053,
-      "name": "Learn to Fly",
-      "url": "https://open.spotify.com/track/3gkZuQRifmz34s5ujBWepK"
+      "duration_ms": 251080,
+      "name": "Come On",
+      "url": "https://open.spotify.com/track/62JRlZdb6mXsTW2NWKaITJ"
     },
     {
       "added_at": null,
@@ -599,6 +699,22 @@
       "duration_ms": 205173,
       "name": "Love You Like That",
       "url": "https://open.spotify.com/track/5mLumHEUcQcE0w2TXGyJnf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Probably Wrong",
+        "url": "https://open.spotify.com/album/4IrKqWfXyJknGVjBGbGX1v"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 210053,
+      "name": "Learn to Fly",
+      "url": "https://open.spotify.com/track/3gkZuQRifmz34s5ujBWepK"
     },
     {
       "added_at": null,
@@ -719,62 +835,6 @@
       "duration_ms": 221986,
       "name": "Hallie Ray Light",
       "url": "https://open.spotify.com/track/3jSe4YNN2wloL5eI6j1yty"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "100 Proof Neon",
-        "url": "https://open.spotify.com/album/02B2WEMDla9LbPR9Jg1BZG"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Dunn",
-          "url": "https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy"
-        },
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 240512,
-      "name": "Road to Abilene",
-      "url": "https://open.spotify.com/track/45ydzAYHp2rMDSJ74MLavY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Girl (Live Acoustic)",
-        "url": "https://open.spotify.com/album/1JYpShhiHgMPowcaGhKJPb"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 235040,
-      "name": "American Girl - Live Acoustic",
-      "url": "https://open.spotify.com/track/0jwZjetkdQHnNbI1GV4rRc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
-        "url": "https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 180009,
-      "name": "Lonely Long (feat. Parker McCollum)",
-      "url": "https://open.spotify.com/track/64NasHlYOdLdCBqgV9iLVQ"
     }
   ],
   "unique_name": "This Is Parker McCollum",

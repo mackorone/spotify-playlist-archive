@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIbUU3VrXZpU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZdaKEG7LCXZGLiHuZuJgZ">Missy Elliott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,952 likes - 375 songs - 1 day 0 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,950 likes - 375 songs - 1 day 0 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,8 +183,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIbUU3VrXZpU.md) - [plain]
 | 173 | [Funky Fresh Dressed \(feat\. Ms\. Jade\)](https://open.spotify.com/track/4KuMHIH8to0XTiZdBkfzgu) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ms\. Jade](https://open.spotify.com/artist/0WjnlObkDedRrSBTC9N3lW) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 3:56 |
 | 174 | [Stickin' Chickens](https://open.spotify.com/track/3xAtUP80EyflCv0rJ9NOKA) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf) | [Da Real World](https://open.spotify.com/album/47QQsqlgvkxme4jrh5QQ4i) | 4:54 |
 | 175 | [Dog in Heat \(feat\. Redman & Method Man\)](https://open.spotify.com/track/4IBDlCDZfTmjT2eFwxKroY) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 5:01 |
-| 176 | [Oh Yes](https://open.spotify.com/track/1U2nYDhFlikoMa1UBp2qtK) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 6:47 |
-| 177 | [Max Julien](https://open.spotify.com/track/6qYCswyML9pHuvYDBdZJYd) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Max Julien](https://open.spotify.com/album/0pXT8h1meziQU01MyMA89Z) | 2:50 |
+| 176 | [Max Julien](https://open.spotify.com/track/6qYCswyML9pHuvYDBdZJYd) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Max Julien](https://open.spotify.com/album/0pXT8h1meziQU01MyMA89Z) | 2:50 |
+| 177 | [Oh Yes](https://open.spotify.com/track/1U2nYDhFlikoMa1UBp2qtK) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 6:47 |
 | 178 | [They Don't Wanna Fuck wit Me \(feat\. Timbaland\)](https://open.spotify.com/track/2VlFVARpC0DB5qmntc0pOI) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 3:18 |
 | 179 | [That's What I'm Looking For](https://open.spotify.com/track/4fjQaprwZbX3uvSJBd5p3E) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf) | [Unrestricted](https://open.spotify.com/album/6aEU6dGJPVmmgIXl4ZwbpU) | 3:41 |
 | 180 | [Joy \(feat\. Mike Jones\)](https://open.spotify.com/track/5emRlAm3hfUrpPvdNLNXG0) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [The Cookbook](https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K) | 4:49 |
@@ -336,7 +336,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIbUU3VrXZpU.md) - [plain]
 | 326 | [Anytime](https://open.spotify.com/track/4TvT137B50I7RnJHYVq4TH) | [History In The Making](https://open.spotify.com/artist/4m2NSZVKQZzRfyU9dIykKl) | [H.I.T.M.](https://open.spotify.com/album/0UeEJ2v6QGO4PoUMP9wM1n) | 3:57 |
 | 327 | [Move Too Fast](https://open.spotify.com/track/57BTx8dtrYTKalYOJ0HUKn) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 3:45 |
 | 328 | [Get Kinky](https://open.spotify.com/track/6TBRzQZTvFGCeYG4ScStnt) | [Plump DJs](https://open.spotify.com/artist/1daC6WKGAm52YZbL5G7zYg) | [Get Kinky](https://open.spotify.com/album/3GsqaIZ44Ebfy63WuCbCGu) | 5:26 |
-| 329 | [Act Like You Know](https://open.spotify.com/track/0NB8Tf4yU41oyeVbawtKXc) | [Natalie Wilson and the S.O.P\. Chorale](https://open.spotify.com/artist/12UWT9noSIQbFF2xrPX1y4) | [Girl Director](https://open.spotify.com/album/0ERbmaNcQIP8f93afRc1NR) | 4:20 |
+| 329 | [Act Like You Know](https://open.spotify.com/track/4DBAecJ7WfCWzjJB0Z6ytW) | [Natalie Wilson](https://open.spotify.com/artist/2cmwMrRPLIqqPygE40UFh9), [S.O.P\. Chorale](https://open.spotify.com/artist/0IH9EObgdMmLCLSjIxTzS3) | [Gospo Classic Volume 2](https://open.spotify.com/album/7DsNSdOPbjxVjCjR7Ppowk) | 4:20 |
 | 330 | [Keys to My House](https://open.spotify.com/track/7wWbjY1A9bfKfXuCazfc0b) | [Levert](https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS) | [The Whole Scenario](https://open.spotify.com/album/4hEzILbf8h6rAeMVhoQobd) | 4:35 |
 | 331 | [Seventeen](https://open.spotify.com/track/3rf5YcxNK2qE7sAXcG3gKM) | [Nicole](https://open.spotify.com/artist/02Vzu6zYysODN6Sxpxoiae) | [Make It Hot](https://open.spotify.com/album/2V21srAwsTtnrZeXv6qQPy) | 4:53 |
 | 332 | [That's What Little Girls Are Made Of](https://open.spotify.com/track/56juz5VifqiEEYvVLOLXkg) | [Raven\-Symoné](https://open.spotify.com/artist/6kUQJlewgd3UFKVYrrmILh), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Here's To New Dreams](https://open.spotify.com/album/4WbgOZXxHiMdkEiPDathPC) | 3:22 |
@@ -367,8 +367,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIbUU3VrXZpU.md) - [plain]
 | 357 | [Dat’s Right](https://open.spotify.com/track/4OxvuR6IMRmVd9O6l44U5w) | [Blaque](https://open.spotify.com/artist/1nSRa2YjjFWJLHGKM07oGQ) | [Torch](https://open.spotify.com/album/56W9TJvPDvdPIUggDOGLpu) | 3:08 |
 | 358 | [Wanksta](https://open.spotify.com/track/34rhvcpHR4V5k8xyxfpheY) | [Blaque](https://open.spotify.com/artist/1nSRa2YjjFWJLHGKM07oGQ) | [Torch](https://open.spotify.com/album/56W9TJvPDvdPIUggDOGLpu) | 3:33 |
 | 359 | [Hip Hop](https://open.spotify.com/track/0zoq48wnlmlzYjiPTcksT8) | [Sista](https://open.spotify.com/artist/5WiIeeO0KE7GBxAACGcYIT) | [4 All The Sistas Around Da World](https://open.spotify.com/album/4DudlpBIcY12s3bML4fw7j) | 3:28 |
-| 360 | [Secret Admirer](https://open.spotify.com/track/4wmaPCXivszHkqz6m5WZpj) | [Sista](https://open.spotify.com/artist/5WiIeeO0KE7GBxAACGcYIT) | [4 All The Sistas Around Da World](https://open.spotify.com/album/4DudlpBIcY12s3bML4fw7j) | 3:56 |
-| 361 | [Gotta Find...\(A New Love\)](https://open.spotify.com/track/7kIVRedqxtwsGJ6NojSP4d) | [Tha Truth](https://open.spotify.com/artist/5joIIsd003Rsj4sLLxXG4A) | [Makin' Moves Everyday](https://open.spotify.com/album/4lwxGGIjVVy0PJxUSUfmwk) | 3:29 |
+| 360 | [Gotta Find...\(A New Love\)](https://open.spotify.com/track/7kIVRedqxtwsGJ6NojSP4d) | [Tha Truth](https://open.spotify.com/artist/5joIIsd003Rsj4sLLxXG4A) | [Makin' Moves Everyday](https://open.spotify.com/album/4lwxGGIjVVy0PJxUSUfmwk) | 3:29 |
+| 361 | [Secret Admirer](https://open.spotify.com/track/4wmaPCXivszHkqz6m5WZpj) | [Sista](https://open.spotify.com/artist/5WiIeeO0KE7GBxAACGcYIT) | [4 All The Sistas Around Da World](https://open.spotify.com/album/4DudlpBIcY12s3bML4fw7j) | 3:56 |
 | 362 | [Hit U Up](https://open.spotify.com/track/7ksLzLVkGRwBGCofK2tr7t) | [Sista](https://open.spotify.com/artist/5WiIeeO0KE7GBxAACGcYIT) | [4 All The Sistas Around Da World](https://open.spotify.com/album/4DudlpBIcY12s3bML4fw7j) | 4:04 |
 | 363 | [Hottie](https://open.spotify.com/track/1g6kPmMdroeBhxOZXw5RkI) | [Take 5](https://open.spotify.com/artist/3Jy2xHAw1LdPNQRxj1wgab) | [Against All Odds](https://open.spotify.com/album/4dqpbiWM5iVL9uLvXgjGmN) | 3:43 |
 | 364 | [Freakazoid](https://open.spotify.com/track/48jSRoWhcflbYKzwfPx7so) | [Blaque](https://open.spotify.com/artist/1nSRa2YjjFWJLHGKM07oGQ) | [Torch](https://open.spotify.com/album/56W9TJvPDvdPIUggDOGLpu) | 3:32 |
@@ -384,4 +384,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIbUU3VrXZpU.md) - [plain]
 | 374 | [Missy's Finale \- Spoken Word](https://open.spotify.com/track/3BgwOI1jT8l6dFeAiESJVM) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 0:24 |
 | 375 | [Take That \- Instrumental](https://open.spotify.com/track/4Uuo7T3wqAyOIAYc6a16bT) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [Drew's Famous Instrumental R&B And Hip\-Hop Collection \(Vol\. 23\)](https://open.spotify.com/album/6oMLOHEROzT9en5vMc5tnj) | 3:53 |
 
-Snapshot ID: `Ab1SdgAAAAA+CRCRZFUM7W09wii5Mo5y`
+Snapshot ID: `Ab1YSAAAAAAJ3z2ueQRd8WTzcJPWzCws`

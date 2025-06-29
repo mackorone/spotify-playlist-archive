@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: LE SSERAFIM\*👉 <a href="https://spice.eplus.jp/articles/338805">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,459 likes - 79 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,517 likes - 79 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

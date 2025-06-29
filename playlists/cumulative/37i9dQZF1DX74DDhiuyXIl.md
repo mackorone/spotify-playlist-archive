@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-656 songs - 1 day 22 hr 1 min
+657 songs - 1 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,7 +450,7 @@
 | [有一種悲傷 \- 電影《比悲傷更悲傷的故事》主題曲](https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [有一種悲傷 \(電影《比悲傷更悲傷的故事》主題曲\)](https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf) | 3:57 | 2022-07-11 |  |
 | [有你在的地方 \- 電視劇《時光正好》插曲](https://open.spotify.com/track/66Z2YOLY7ROWKON3ApFyK6) | [刘明湘](https://open.spotify.com/artist/6oXNY998rSG8EQL1GDfLJJ) | [電視劇《時光正好》影視原聲帶](https://open.spotify.com/album/4SC8cj2SpG8ZR3whZJEEUc) | 4:35 | 2024-06-13 | 2024-06-21 |
 | [有話沒說](https://open.spotify.com/track/5a59iCKJGGzVqZBDLRBD0J) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH), [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [有話沒說](https://open.spotify.com/album/4xGnvis9RtIea8Tx6DKcJI) | 4:25 | 2025-03-13 |  |
-| [未发送](https://open.spotify.com/track/0IKt70sonEjlSzcMEjdFYo) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [未发送](https://open.spotify.com/album/1Ez536BFu6IGYAe9HMKMoh) | 3:35 | 2022-06-06 |  |
+| [未发送](https://open.spotify.com/track/0IKt70sonEjlSzcMEjdFYo) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [未发送](https://open.spotify.com/album/1Ez536BFu6IGYAe9HMKMoh) | 3:35 | 2022-06-06 | 2025-06-29 |
 | [未接來電](https://open.spotify.com/track/1HLcYlrnG9kSP6EbBa6R1Y) | [梁承煜](https://open.spotify.com/artist/0xAT5ZJQYuSPSpHJ4yPXds) | [未接來電](https://open.spotify.com/album/1sQt8oyjLk3WWTwjqjhcx0) | 4:11 | 2025-05-22 | 2025-05-30 |
 | [末日种子的繁华季节](https://open.spotify.com/track/5als3DEs1Ea5iSpPn8k8wC) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg) | [假如给我三天光明](https://open.spotify.com/album/3e53PWcecI0iJaEB7YQFtn) | 4:07 | 2023-12-11 | 2023-12-19 |
 | [果实](https://open.spotify.com/track/44c3PiGTaNvaittFu8ZMWm) | [陳粒](https://open.spotify.com/artist/3SyC3U06X0DjdWd2Jf6V8Q) | [果实](https://open.spotify.com/album/7cco9VByboWn8bkc7g6Xvc) | 4:21 | 2025-06-26 |  |
@@ -623,6 +623,7 @@
 | [遠距離練習](https://open.spotify.com/track/3CKodSS2anFIvg55hd2hxe) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [遠距離練習\(電影《我是真的討厭異地戀》主題曲\)](https://open.spotify.com/album/2vsxca9pRl3dohmr4A9IWl) | 5:12 | 2022-06-20 | 2022-07-29 |
 | [遲遲](https://open.spotify.com/track/6xwofE2pMV4NzH1VbcQDyq) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [天外來物](https://open.spotify.com/album/6IfVnXZCdRH3cp2bKOJbXn) | 4:15 | 2022-06-06 | 2022-07-09 |
 | [還原](https://open.spotify.com/track/0b2MLr7e8e5qH7zyw2dcbK) | [Sharon Kwan](https://open.spotify.com/artist/1D4GTYNzBKdUrK1wyzTmyt) | [還原](https://open.spotify.com/album/3H70lpausr2rZCRdO3kaep) | 3:42 | 2022-06-13 | 2022-07-16 |
+| [還是愛錯](https://open.spotify.com/track/1X42y2V1zBc938IRMrMGxd) | [黃長俊](https://open.spotify.com/artist/7aPCuTZPyKhq4BevJfFHye) | [還是愛錯](https://open.spotify.com/album/4zXlxHK4ksEgVcOPQvII9b) | 3:58 | 2025-06-26 |  |
 | [還能愛嗎?](https://open.spotify.com/track/6NmtEIr2n0IpOB1thNFX9A) | [Princess Ai](https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V) | [別害怕](https://open.spotify.com/album/0sXNw7LkpVy1CdyCi2q834) | 3:49 | 2025-05-22 | 2025-05-30 |
 | [那一瞬間](https://open.spotify.com/track/0DHbVRD1gGwinQ38FtJGIx) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [痛快](https://open.spotify.com/album/5fPY9JLLnYDO0Qq579u844) | 5:30 | 2022-08-08 | 2022-09-15 |
 | [那么久了](https://open.spotify.com/track/46mIi9XuN1xqYPaLwHF2jl) | [叶斯淳](https://open.spotify.com/artist/6AII7OO4YGlwmITkksV996) | [那么久了](https://open.spotify.com/album/7Cl6C7AIP4O2mno66pg2y4) | 3:54 | 2025-06-05 | 2025-06-13 |

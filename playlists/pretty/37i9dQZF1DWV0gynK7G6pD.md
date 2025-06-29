@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: The Kanneh\-Masons
 
-[Spotify](https://open.spotify.com/user/spotify) - 738,811 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,821 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ar Lan y Môr \(Arr\. Isata Kanneh\-Mason for Ensemble\)](https://open.spotify.com/track/4eFXtvV3lIdJhfqj57Zylu) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [The Kanneh\-Masons](https://open.spotify.com/artist/05qx39QJbnj7GaAEiCdXNK) | [Traditional: Ar Lan y Môr \(Arr\. Isata Kanneh\-Mason for Ensemble\)](https://open.spotify.com/album/7C6ah63M9grvAP9GO1YFAc) | 2:34 |
+| 1 | [Ar Lan y Môr \(Arr\. The Kanneh\-Masons for Ensemble\)](https://open.spotify.com/track/4eFXtvV3lIdJhfqj57Zylu) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [The Kanneh\-Masons](https://open.spotify.com/artist/05qx39QJbnj7GaAEiCdXNK) | [Traditional: Ar Lan y Môr \(Arr\. Isata Kanneh\-Mason for Ensemble\)](https://open.spotify.com/album/7C6ah63M9grvAP9GO1YFAc) | 2:34 |
 | 2 | [Satie: Mélodie \(Version pour piano seul\)](https://open.spotify.com/track/7j7OLcWwLfv1LdWFMJnGb8) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Satie: Discoveries](https://open.spotify.com/album/1LS3bV0LNqSsz5IJH2dipl) | 1:47 |
 | 3 | [Turandot: Nessun dorma](https://open.spotify.com/track/1dispFQ2OsvuWeq92SPMzD) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Tugan Sokhiev](https://open.spotify.com/artist/3enXY52UlrP6E6DbqE1jVN), [Piotr Beczala](https://open.spotify.com/artist/2TMEwrUmFfQ5KUOXEDa3Jz), [Vienna Boys' Choir](https://open.spotify.com/artist/5D5J2cMoaGHFaipckBl5xZ) | [Turandot: Nessun dorma](https://open.spotify.com/album/6U3buUnNxiqkBaoSjkakw2) | 3:48 |
 | 4 | [Cantique \(Arr\. Vennart for Saxophone & Ensemble\)](https://open.spotify.com/track/464l175pMTFRbvGLZChMP5) | [Nadia Boulanger](https://open.spotify.com/artist/1vfC2bld90kx966JTCSwf7), [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB), [Jess Gillam Ensemble](https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c) | [N\. Boulanger: Cantique \(Arr\. Vennart for Saxophone & Ensemble\)](https://open.spotify.com/album/5aqUspO7whujIMe9H4jqb0) | 1:53 |

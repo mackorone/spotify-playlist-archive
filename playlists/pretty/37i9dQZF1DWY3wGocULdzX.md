@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 
 > ¡Qué rico el mambo! Cover: Machito
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,102 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,141 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,14 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 28 | [Cao Cao Mani Picao](https://open.spotify.com/track/16cVmcgx4ENIHLUPDh1et9) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia Cruz \- Greatest Hits](https://open.spotify.com/album/634V0km4mTClHkrGiEKw9B) | 3:47 |
 | 29 | [Mambo Is Here to Stay](https://open.spotify.com/track/3NrVV0aTz1g2LNjucnWxMt) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Perlas Cubanas: Machito](https://open.spotify.com/album/6wvG0RnL3WVxvD74ekA0YA) | 2:59 |
 | 30 | [Ran Kan Kan](https://open.spotify.com/track/0q5ARDwy987big1XTriY21) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Tito Puente \- El Rey](https://open.spotify.com/album/793VeJh8Eze4VdHJ388u7V) | 3:08 |
-| 31 | [Bochinchosa](https://open.spotify.com/track/1OTMZw6yLNNbhTYVHiuRCu) | [Joe Cuba](https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh) | [Anthology](https://open.spotify.com/album/7oA3AvSErky8lkeckVMazA) | 3:24 |
-| 32 | [The Peanut Vendor](https://open.spotify.com/track/2AW7BpJBv9AWlTiZwrP3pV) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Mambos Favoritos de Perez Prado, Machito, Y Tito Puente](https://open.spotify.com/album/05QnOkGorplyXGfUdhSgQY) | 2:41 |
-| 33 | [Mi Jebita](https://open.spotify.com/track/4F61RgPzonj7SbUWNNU2zy) | [Orlando Marin](https://open.spotify.com/artist/1uH7tVnnXDsQWjtJOZH5ID) | [Latin Cool Classics: Orlando Marin](https://open.spotify.com/album/6fVhJKYknI5k9TZAWSDe8C) | 4:35 |
-| 34 | [Me Lo Dijo Adela \(Sweet and Gentle\)](https://open.spotify.com/track/2bnnNe1nrMwAf1jBdaWxZD) | [Machito Orchestra](https://open.spotify.com/artist/38FHSGePCxtSwgzzInXhVe) | [The Collection](https://open.spotify.com/album/2YL9K2EiAXuTy2axi9mZKL) | 2:36 |
+| 31 | [The Peanut Vendor](https://open.spotify.com/track/2AW7BpJBv9AWlTiZwrP3pV) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Mambos Favoritos de Perez Prado, Machito, Y Tito Puente](https://open.spotify.com/album/05QnOkGorplyXGfUdhSgQY) | 2:41 |
+| 32 | [Mi Jebita](https://open.spotify.com/track/4F61RgPzonj7SbUWNNU2zy) | [Orlando Marin](https://open.spotify.com/artist/1uH7tVnnXDsQWjtJOZH5ID) | [Latin Cool Classics: Orlando Marin](https://open.spotify.com/album/6fVhJKYknI5k9TZAWSDe8C) | 4:35 |
+| 33 | [Me Lo Dijo Adela \(Sweet and Gentle\)](https://open.spotify.com/track/2bnnNe1nrMwAf1jBdaWxZD) | [Machito Orchestra](https://open.spotify.com/artist/38FHSGePCxtSwgzzInXhVe) | [The Collection](https://open.spotify.com/album/2YL9K2EiAXuTy2axi9mZKL) | 2:36 |
+| 34 | [Bochinchosa](https://open.spotify.com/track/1OTMZw6yLNNbhTYVHiuRCu) | [Joe Cuba](https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh) | [Anthology](https://open.spotify.com/album/7oA3AvSErky8lkeckVMazA) | 3:24 |
 | 35 | [Kimbya \(feat\. Manny Roman\)](https://open.spotify.com/track/136ebmw2Sva09VEkfvXedw) | [Bobby Marin](https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3), [Manny Roman](https://open.spotify.com/artist/1ovL4YOHbcfY0OFDC5b8ap) | [Kimbya \(feat\. Manny Roman\)](https://open.spotify.com/album/3dE8KYj4tjGBcIkocn3vNN) | 4:21 |
 | 36 | [La Pelota](https://open.spotify.com/track/1e3mpdIPpjHcRC7VyThx0v) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Anthology](https://open.spotify.com/album/2luJt11G0LhifoFxAwNIra) | 4:16 |
-| 37 | [Asia Minor](https://open.spotify.com/track/5BgI3nVJIKr5iXaSbNkDal) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Latin Lounge Jazz Harlem](https://open.spotify.com/album/0KA4fXFk0zfJOUDfSWCgke) | 3:01 |
-| 38 | [Aprende a Querer](https://open.spotify.com/track/0Wi0SRDXOy8Yk32iaPlvjH) | [Orlando Marin](https://open.spotify.com/artist/1uH7tVnnXDsQWjtJOZH5ID) | [Latin Cool Classics: Orlando Marin](https://open.spotify.com/album/6fVhJKYknI5k9TZAWSDe8C) | 5:26 |
+| 37 | [Aprende a Querer](https://open.spotify.com/track/0Wi0SRDXOy8Yk32iaPlvjH) | [Orlando Marin](https://open.spotify.com/artist/1uH7tVnnXDsQWjtJOZH5ID) | [Latin Cool Classics: Orlando Marin](https://open.spotify.com/album/6fVhJKYknI5k9TZAWSDe8C) | 5:26 |
+| 38 | [Asia Minor](https://open.spotify.com/track/5BgI3nVJIKr5iXaSbNkDal) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Latin Lounge Jazz Harlem](https://open.spotify.com/album/0KA4fXFk0zfJOUDfSWCgke) | 3:01 |
 | 39 | [Mama Guela](https://open.spotify.com/track/3l2dxZWkOLCB64MfK3Yo2J) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Anthology](https://open.spotify.com/album/4CA9kK3WW46Jyq2dFf2a6v) | 2:42 |
 | 40 | [Yo No Soy Guapo](https://open.spotify.com/track/4rVA2fijppCGmQOjSnBDxA) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Ep](https://open.spotify.com/album/0EU0TpYrF3AJCLCmBE59dz) | 5:05 |
 | 41 | [Mambo Infierno](https://open.spotify.com/track/5n2jPODsYeEhisZ7ELqYUM) | [Machito & His Afro Cubans](https://open.spotify.com/artist/48uvJVs3amPDYGr4EZoRg9) | [Tremendo Cumban](https://open.spotify.com/album/23wAEElHdElCQP9UWIMSKF) | 2:51 |

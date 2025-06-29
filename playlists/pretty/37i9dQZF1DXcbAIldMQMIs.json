@@ -1,6 +1,6 @@
 {
   "description": "mommy? mamacita!",
-  "num_followers": 647138,
+  "num_followers": 648402,
   "original_name": "crash out",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-06-27 04:00:34",
       "album": {
+        "name": "we never dated",
+        "url": "https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 196931,
+      "name": "we never dated",
+      "url": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
+    },
+    {
+      "added_at": "2025-06-27 04:00:34",
+      "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 260519,
       "name": "Bags",
       "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
-    },
-    {
-      "added_at": "2025-06-27 04:00:34",
-      "album": {
-        "name": "we never dated",
-        "url": "https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 196931,
-      "name": "we never dated",
-      "url": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
     },
     {
       "added_at": "2025-06-27 04:00:34",

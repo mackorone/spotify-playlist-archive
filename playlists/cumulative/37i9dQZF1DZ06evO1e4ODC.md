@@ -4,7 +4,7 @@
 
 > This is Jesús Adrián Romero\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 43 min
+53 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Como La Brisa](https://open.spotify.com/track/5GjG4bnnc8uLqH0VvP1Fby) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 4:58 | 2024-05-24 |  |
 | [Dame Este Monte](https://open.spotify.com/track/5iofrmnxmrcYf2Vm9DrKbn) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Daniel Santoy](https://open.spotify.com/artist/6GJvmXXuwbJUu0HodLbkOJ) | [Colección Duetos](https://open.spotify.com/album/0tflYRKYYx7KJScUmcYZ8u) | 3:39 | 2024-05-24 | 2025-04-26 |
 | [Dame Tus Ojos](https://open.spotify.com/track/3HZCMyuazaSOLgXexcMASl) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Mas Que Un Anhelo](https://open.spotify.com/album/2Kk1sYvCz3LI2wn9lp0NIZ) | 3:34 | 2024-05-24 |  |
+| [Despiértame](https://open.spotify.com/track/6F4eOE74oAOsrt1Ws47EOX) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Despiértame](https://open.spotify.com/album/5nQShqiqCqU4lZ7e0hAga3) | 3:07 | 2025-06-29 |  |
 | [El Anhelo de Mi Voz](https://open.spotify.com/track/60dUV3Tt4lpU5ghaIIFKA6) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 3:53 | 2024-05-24 |  |
 | [El Brillo De Mis Ojos](https://open.spotify.com/track/2vBLWOaYsg9lclJYBGiL6O) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Brillo De Mis Ojos \(Edición Especial\)](https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi) | 3:31 | 2024-05-24 |  |
 | [El Cielo Aún Espera](https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Cielo Aún Espera](https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV) | 3:53 | 2024-05-24 |  |

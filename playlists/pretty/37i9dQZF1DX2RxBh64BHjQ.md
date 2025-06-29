@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:4uqHgaeBynLBQgfhMEIm1G">PLUTO</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,802,469 likes - 100 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,802,225 likes - 100 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mo Chicken \(feat\. French Montana\)](https://open.spotify.com/track/5pSpNlqyYsSjdVKdrxvgHn) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Dlow Curry](https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4) | 3:00 |
-| 2 | [WEST](https://open.spotify.com/track/4QBxmb7GTU73cz9asr88Hj) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [WEST](https://open.spotify.com/album/4zFYvzS3T88MrLPmLn0zvx) | 2:36 |
+| 2 | [WENT WEST](https://open.spotify.com/track/4QBxmb7GTU73cz9asr88Hj) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [WENT WEST](https://open.spotify.com/album/4zFYvzS3T88MrLPmLn0zvx) | 2:36 |
 | 3 | [Pop Shii](https://open.spotify.com/track/4CMukSEsqFRKXuXXPWMxMY) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Pop Shii](https://open.spotify.com/album/0yZVETaEQhgGxNT3h45gJF) | 2:16 |
 | 4 | [Blow My High](https://open.spotify.com/track/65wJpouyr3pA2Bua9c6WJ7) | [Dee Mula](https://open.spotify.com/artist/3vMbThcZsIGHUmGb5YtFoY) | [Focus More On Me \(Deluxe\)](https://open.spotify.com/album/3gZnlSztK59g5CpK308bfg) | 2:29 |
 | 5 | [2 Sides To Every Story](https://open.spotify.com/track/41zfQ7zCfewpZqAtcGlfEa) | [Lil Tony Official](https://open.spotify.com/artist/4ix2z6eBWQ6MeihaX04mB6), [Who’s Casper](https://open.spotify.com/artist/5QtZNaeWr06xdolWPZdU4P) | [2 Sides To Every Story](https://open.spotify.com/album/3y4xvAC1YzakaTRkLFfHpm) | 2:06 |

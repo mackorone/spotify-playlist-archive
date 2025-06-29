@@ -1,6 +1,6 @@
 {
   "description": "hairbrush as a microphone type songs.",
-  "num_followers": 120461,
+  "num_followers": 120489,
   "original_name": "Slumber Party",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Kiss (Deluxe)",
+        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "CHARLIE",
         "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Kiss (Deluxe)",
-        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "Call Me Maybe",
-      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Confident (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5Q2UCYr67vEfrueFndo434"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 214739,
+      "name": "Cool for the Summer",
+      "url": "https://open.spotify.com/track/4YieJ8UoB4t4w8Ua0N3nGv"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "I Wanna Thank Me (feat. Niecy Nash)",
         "url": "https://open.spotify.com/album/0XWBLjX39G0QsoItK55PmO"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 143211,
       "name": "I Wanna Thank Me (feat. Niecy Nash)",
       "url": "https://open.spotify.com/track/6deUyNbUOrWDytrOtqehmr"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Confident (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5Q2UCYr67vEfrueFndo434"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 214739,
-      "name": "Cool for the Summer",
-      "url": "https://open.spotify.com/track/4YieJ8UoB4t4w8Ua0N3nGv"
     },
     {
       "added_at": "2024-06-28 04:00:00",

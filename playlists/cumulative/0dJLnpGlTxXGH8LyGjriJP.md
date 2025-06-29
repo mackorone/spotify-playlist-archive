@@ -4,7 +4,7 @@
 
 > 
 
-867 songs - 1 day 20 hr 13 min
+868 songs - 1 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Grown Man](https://open.spotify.com/track/5VKG8ary0JW6iKemhmznzS) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Grown Man](https://open.spotify.com/album/282shVOXRHSfBqexKhADTN) | 1:46 | 2023-03-31 |  |
 | [GTA](https://open.spotify.com/track/4XF9fk0STp9hx8xn5Suwpz) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:53 | 2024-03-25 |  |
 | [Gucci Grocery Bag](https://open.spotify.com/track/02vvwHxBoZtnNDQFFE64NQ) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 2:55 | 2023-07-06 |  |
+| [Gyalchester](https://open.spotify.com/track/6UjfByV1lDLW0SOVQA4NAi) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:09 | 2025-06-28 |  |
 | [HANDLING BUSINESS \(with Tory Lanez\)](https://open.spotify.com/track/3miaStyl3Y5JrMf1fZAEY3) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [HANDLING BUSINESS \(with Tory Lanez\)](https://open.spotify.com/album/42VticDK80cuD3NDfZNGNV) | 3:22 | 2024-12-13 |  |
 | [Hanging With Wolves](https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hanging With Wolves](https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew) | 3:25 | 2022-12-09 |  |
 | [Hard \(feat\. Tay\-K and BlocBoy JB\)](https://open.spotify.com/track/32OkBQinMWqa7ZydEkHqVi) | [No Jumper](https://open.spotify.com/artist/0umhtjpC8x3Dg7UXDNUzmX), [Tay\-K](https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Hard \(feat\. Tay\-K and BlocBoy JB\)](https://open.spotify.com/album/0IqjdcSceJWEctw8arvZLx) | 2:18 | 2022-06-01 |  |

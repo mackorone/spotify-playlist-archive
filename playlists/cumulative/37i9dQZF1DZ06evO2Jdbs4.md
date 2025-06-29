@@ -4,12 +4,13 @@
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-106 songs - 6 hr 10 min
+107 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Tu Lado](https://open.spotify.com/track/5X4XT9GZFvPgpQGx7hjzJX) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Siempre Pensando en Ti](https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH) | 3:44 | 2022-06-01 |  |
 | [A Tu Lado \- En Vivo](https://open.spotify.com/track/3kbGKVSXvxgA04evWzb4cw) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo \(En Vivo\)](https://open.spotify.com/album/00iE6vaOpZFNBohCo83MiI) | 4:53 | 2025-05-25 | 2025-06-21 |
+| [Abrázame Y Bésame \- En Vivo](https://open.spotify.com/track/0P3Vp1LUe0Ryq5JkoF9ICf) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Jennifer Peña](https://open.spotify.com/artist/7FOLqljSYieJbPEpq3I5Qf) | [Abrázame Y Bésame \(En Vivo\)](https://open.spotify.com/album/5P7Xa033hHs5AOZcF0EYAs) | 3:38 | 2025-06-29 |  |
 | [Algun Día](https://open.spotify.com/track/1SlyhgbpLEphPZM4ammgr7) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Dias de Ayer](https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg) | 3:19 | 2022-06-01 |  |
 | [Atrevete A Olvidarme](https://open.spotify.com/track/22HfGDgdV6EjthbXKpxcT4) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 3:02 | 2022-10-04 | 2022-10-09 |
 | [Ayer Y Hoy](https://open.spotify.com/track/2WTLKHXAKQPmAvoi1A3bA5) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 3:17 | 2022-06-01 | 2022-10-13 |
@@ -40,7 +41,7 @@
 | [Estoy Sólo](https://open.spotify.com/track/2ga3yCVSylyMyff8kvbfeC) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llegaste A Mi Vida](https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l) | 3:10 | 2022-06-03 | 2022-09-17 |
 | [For Keeps](https://open.spotify.com/track/4L6CImNn1NeH8HgRcJj5Ht) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:23 | 2022-09-14 | 2022-10-13 |
 | [Hey](https://open.spotify.com/track/7s71GmxpkyZwWm0g6vCE0b) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Siempre Pensando en Ti](https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH) | 3:31 | 2022-06-01 |  |
-| [Inesperadamente](https://open.spotify.com/track/4GAqqobic0kTtK3mfAP6Am) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Inesperadamente](https://open.spotify.com/album/3t8iVE3ZSqgl7MRR3MfSYu) | 3:09 | 2022-06-01 |  |
+| [Inesperadamente](https://open.spotify.com/track/4GAqqobic0kTtK3mfAP6Am) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Inesperadamente](https://open.spotify.com/album/3t8iVE3ZSqgl7MRR3MfSYu) | 3:09 | 2022-06-01 | 2025-06-29 |
 | [Intro / Se Murió de Amor \- En Vivo](https://open.spotify.com/track/3Pwpg0uNftcanpfFwhcIlu) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [En Vivo Desde las Vegas](https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J) | 4:56 | 2022-06-01 |  |
 | [La Plancha](https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:32 | 2022-06-05 | 2025-06-22 |
 | [La Pregunta del Millon](https://open.spotify.com/track/12qn6tXr90rVnctiC9jODD) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [La Pregunta del Millon](https://open.spotify.com/album/3CQRNYHTwLm8C8oXRqQtYz) | 3:20 | 2022-06-01 | 2022-10-13 |

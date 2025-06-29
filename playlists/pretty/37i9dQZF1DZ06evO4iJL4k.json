@@ -1,12 +1,12 @@
 {
   "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
-  "num_followers": 305485,
+  "num_followers": 305576,
   "original_name": "This Is Filipe Ret",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAADZK0elpJNn8stMLdvsOdAE",
+  "snapshot_id": "aF3fAAAAAADyDP/YGy369xg1XQIo6As/",
   "tracks": [
     {
       "added_at": null,
@@ -915,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Audaz",
-        "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 227681,
-      "name": "Fa\u00e7a Voc\u00ea Mesmo",
-      "url": "https://open.spotify.com/track/7Mo2JNeuw6EJVSxN0sCvG9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LUME",
         "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
       },
@@ -955,22 +939,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estrela do Rap",
-        "url": "https://open.spotify.com/album/1ScxV7lhI36dBYgq4mqdm9"
+        "name": "Audaz",
+        "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
       },
       "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
         {
           "name": "Filipe Ret",
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Distante",
-      "url": "https://open.spotify.com/track/6B7iZCaClvCV6DH4MnRMP5"
+      "duration_ms": 227681,
+      "name": "Fa\u00e7a Voc\u00ea Mesmo",
+      "url": "https://open.spotify.com/track/7Mo2JNeuw6EJVSxN0sCvG9"
     },
     {
       "added_at": null,
@@ -991,6 +971,26 @@
       "duration_ms": 276491,
       "name": "Chefe do Crime Perfeito",
       "url": "https://open.spotify.com/track/6MVFI8t52RU5ESYQyLp5MI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estrela do Rap",
+        "url": "https://open.spotify.com/album/1ScxV7lhI36dBYgq4mqdm9"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Distante",
+      "url": "https://open.spotify.com/track/6B7iZCaClvCV6DH4MnRMP5"
     },
     {
       "added_at": null,
@@ -1239,34 +1239,6 @@
       "duration_ms": 273008,
       "name": "Tudo do Melhor",
       "url": "https://open.spotify.com/track/4sfslUCiSjOBJZcu08U1qb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor e \u00d3dio",
-        "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "TkN",
-          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
-        },
-        {
-          "name": "Mindu",
-          "url": "https://open.spotify.com/artist/3shZdnoMWegcOdZUPuMXhB"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Lenda",
-      "url": "https://open.spotify.com/track/6XSTDJMW7yUr4Zuzyr4Ht6"
     },
     {
       "added_at": null,

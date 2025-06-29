@@ -1,12 +1,12 @@
 {
   "description": "This is Eugenio Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2060,
+  "num_followers": 2065,
   "original_name": "This Is Eugenio Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAADIYhT5UugCmBFsnN3cBf2+",
+  "snapshot_id": "aF3fAAAAAADjvi7svTcJnI1NWCE/1w1S",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa Que Sepan",
+        "url": "https://open.spotify.com/album/7zVtF9DuwtaGFBYIL1ae4K"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        },
+        {
+          "name": "El Primo",
+          "url": "https://open.spotify.com/artist/0NL0BLJ1i5n6askNoLoOb8"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 228586,
+      "name": "Pa Que Sepan",
+      "url": "https://open.spotify.com/track/1N0uyVuMLm7qK9h9RPj1Nx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pari Pari",
         "url": "https://open.spotify.com/album/13oqvn7XeZixU1JA5RRZxr"
       },
@@ -523,6 +555,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "GUZBYE",
+        "url": "https://open.spotify.com/album/0RJZJxSvOBnKSNU9nXQ6zD"
+      },
+      "artists": [
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "GUZBYE",
+      "url": "https://open.spotify.com/track/6qNktE3ki1AqZThqp5EL7u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Licuado",
         "url": "https://open.spotify.com/album/08f4lGUZsvC3g5Pkprj0lg"
       },
@@ -551,30 +607,6 @@
       "duration_ms": 134583,
       "name": "Licuado",
       "url": "https://open.spotify.com/track/7pU2OxHpgRxnrf0ax4TrjT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GUZBYE",
-        "url": "https://open.spotify.com/album/0RJZJxSvOBnKSNU9nXQ6zD"
-      },
-      "artists": [
-        {
-          "name": "miguel cornejo",
-          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "GUZBYE",
-      "url": "https://open.spotify.com/track/6qNktE3ki1AqZThqp5EL7u"
     },
     {
       "added_at": null,

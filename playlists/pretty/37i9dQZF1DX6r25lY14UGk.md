@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Peppa Pig
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,477 likes - 180 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,680 likes - 180 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ice Cream Song](https://open.spotify.com/track/2SUPQqOJm3JfMVVsVdwyKx) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Ice Cream Song](https://open.spotify.com/album/75kiibuA0dmZHBHX7fFusu) | 2:02 |
-| 2 | [Totally Awesome \(Theme Song \- Extended Version\) \- From "Disney Jr\. Music: Iron Man and His Awesome Friends"](https://open.spotify.com/track/7HlyhsEHiwqHuyQzR5u1Bl) | [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Totally Awesome \(Theme Song \- Extended Version\) \[From "Disney Jr\. Music: Iron Man and His Awesome Friends"\]](https://open.spotify.com/album/1l5cv3fTpKRsknNk9qe5h0) | 1:55 |
+| 2 | [Totally Awesome \(Theme Song\) \- From "Disney Jr\. Music: Iron Man and His Awesome Friends"](https://open.spotify.com/track/7HlyhsEHiwqHuyQzR5u1Bl) | [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Totally Awesome \(Theme Song\) \[From "Disney Jr\. Music: Iron Man and His Awesome Friends"\]](https://open.spotify.com/album/1l5cv3fTpKRsknNk9qe5h0) | 1:55 |
 | 3 | [Hello River](https://open.spotify.com/track/20U0DqUO6B5S5Zu0FRnYtq) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Hello River](https://open.spotify.com/album/6H4RCoRWMgM0hgkYxIfQTw) | 1:29 |
 | 4 | [Can You Find the Cat?](https://open.spotify.com/track/1ncNbRcoOVA8ACt6bclnMv) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [Can You Find the Cat?](https://open.spotify.com/album/2xe9KkjYIjY4z7PIoPdheo) | 2:23 |
 | 5 | [Have a Great Time!](https://open.spotify.com/track/6FsBFQkORCWcEf2K4mA0e0) | [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I), [Kymberly Stewart](https://open.spotify.com/artist/6ZyiT23t4CIQS7trCGpV1f) | [Have a Great Time!](https://open.spotify.com/album/5JtJBZJCk5qgkbQNCoHtwV) | 2:27 |

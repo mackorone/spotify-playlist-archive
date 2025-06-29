@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 
 > This is Isadora Pompeo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,972 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,982 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 | 41 | [Tetelestai \(Ao Vivo\) \(feat\. Carol Tauber\)](https://open.spotify.com/track/1nJkvTusEGVYzqeF1R3Pq3) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Carol Tauber](https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK) | [Tetelestai \(Ao Vivo\) \(feat\. Carol Tauber\)](https://open.spotify.com/album/3KEDeUTss9pszz8D9I0c6Q) | 8:38 |
 | 42 | [A Casa é Sua + Labareda](https://open.spotify.com/track/5C4touLyxRJB5ES63KyX6r) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Aurora](https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6) | 8:07 |
 | 43 | [Confio em Ti](https://open.spotify.com/track/3UBwVX5qweI2yIrkvLjRzM) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Confio em Ti](https://open.spotify.com/album/1UHI806hrGV9QVZFjq7xJB) | 4:12 |
-| 44 | [Bênçãos Que Não Têm Fim / Counting My Blessings \(Ao Vivo\)](https://open.spotify.com/track/7CDUMKg8F0ZYHhfItP6W3O) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Bênçãos Que Não Têm Fim / Counting My Blessings \(Ao Vivo\)](https://open.spotify.com/album/0GSXJoZ8hJ8AmUmJ3AbODf) | 4:08 |
-| 45 | [Primeira Canção \(Música dos Passarinhos\)](https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Primeira Canção \(Música dos Passarinhos\)](https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq) | 3:13 |
-| 46 | [Bem Perto \- Ao Vivo](https://open.spotify.com/track/4KE3EfxxvBZwoLVB3gHCc2) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Bem Perto \(Ao Vivo\)](https://open.spotify.com/album/2yBnldCguXVLd6kd78B4Xq) | 7:06 |
-| 47 | [Meu Filho \- Ao Vivo](https://open.spotify.com/track/5QOPKg8YWh3bF1hWjOTDwm) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Meu Filho \(Ao Vivo\)](https://open.spotify.com/album/6ZxR3j2JnEtbfDXe8aA9qN) | 6:42 |
+| 44 | [Primeira Canção \(Música dos Passarinhos\)](https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Primeira Canção \(Música dos Passarinhos\)](https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq) | 3:13 |
+| 45 | [Bênçãos Que Não Têm Fim / Counting My Blessings \(Ao Vivo\)](https://open.spotify.com/track/7CDUMKg8F0ZYHhfItP6W3O) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Bênçãos Que Não Têm Fim / Counting My Blessings \(Ao Vivo\)](https://open.spotify.com/album/0GSXJoZ8hJ8AmUmJ3AbODf) | 4:08 |
+| 46 | [Meu Filho \- Ao Vivo](https://open.spotify.com/track/5QOPKg8YWh3bF1hWjOTDwm) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Meu Filho \(Ao Vivo\)](https://open.spotify.com/album/6ZxR3j2JnEtbfDXe8aA9qN) | 6:42 |
+| 47 | [Bem Perto \- Ao Vivo](https://open.spotify.com/track/4KE3EfxxvBZwoLVB3gHCc2) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Bem Perto \(Ao Vivo\)](https://open.spotify.com/album/2yBnldCguXVLd6kd78B4Xq) | 7:06 |
 | 48 | [Nem um Segundo](https://open.spotify.com/track/24ysyfP1NMECUqR99vxIPz) | [Gabriel Pompeo](https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Nem um Segundo](https://open.spotify.com/album/257FnV6wwMk9RJx9GTQ6te) | 5:49 |
 | 49 | [Ela Brilha](https://open.spotify.com/track/1pqjV5tkr6KwMtKvcYcH2r) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ela Brilha](https://open.spotify.com/album/3GHxmt33mCzl9JDww1zsEY) | 2:41 |
 | 50 | [Dono dos Meus Dias](https://open.spotify.com/track/4DqMjreua66sH84GbccttX) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Dono dos Meus Dias](https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU) | 3:59 |
 
-Snapshot ID: `aFyNgAAAAAAXId+Q+aGEnPKz6bUzqRSM`
+Snapshot ID: `aF3fAAAAAABCtEN5gSWykcvXDiNV9zAd`

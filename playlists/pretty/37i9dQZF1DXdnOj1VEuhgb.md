@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Ceg
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394,890 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394,929 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 9 | [Tımarhane 2.0](https://open.spotify.com/track/2SRcCReE6Flu5d3tXh38Rl) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Bipolar](https://open.spotify.com/album/0ab5RvaLZtVjorEZZ10Oor) | 3:13 |
 | 10 | [kum saati](https://open.spotify.com/track/18BJaXD2ss3mP9o0qMOp8P) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [kum saati](https://open.spotify.com/album/3R3uDxPQ4tHfhW6mGEQawV) | 2:19 |
 | 11 | [Arıza](https://open.spotify.com/track/5Dft8kQvsZDhvXkC2CkqLc) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [Arıza](https://open.spotify.com/album/2S99H7p8ei7c7q6OWb2R1H) | 3:15 |
-| 12 | [Yerinde Dru](https://open.spotify.com/track/3JTphuwOWcI28J2vS4gMmI) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Yerinde Dru](https://open.spotify.com/album/2dWhGxwCOtruhYXuT84cJ8) | 2:28 |
+| 12 | [Yerinde Dur](https://open.spotify.com/track/3JTphuwOWcI28J2vS4gMmI) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Yerinde Dur](https://open.spotify.com/album/2dWhGxwCOtruhYXuT84cJ8) | 2:28 |
 | 13 | [Mosmor Perde](https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Mosmor Perde](https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK) | 2:36 |
 | 14 | [Depresyon](https://open.spotify.com/track/318vu0UpMQtEAENSXJh8z4) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq), [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf) | [Bipolar](https://open.spotify.com/album/0ab5RvaLZtVjorEZZ10Oor) | 3:08 |
 | 15 | [İSTERSENİZ YANLIŞ ANLAYIN](https://open.spotify.com/track/3FCR2WssX44IKdJVhTD4Zl) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [SPORTBOYS](https://open.spotify.com/album/61SCyfCHewv1q4Ot9PG4En) | 1:54 |

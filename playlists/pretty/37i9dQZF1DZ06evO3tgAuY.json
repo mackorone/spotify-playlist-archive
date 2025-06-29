@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Favela. The essential tracks, all in one playlist.",
-  "num_followers": 2290,
+  "num_followers": 2292,
   "original_name": "This Is Alex Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAAB4HTVmz3wR0QGRLaPkI3UU",
+  "snapshot_id": "aF3fAAAAAAAsB9LKawHCZqSAsKVdF1d8",
   "tracks": [
     {
       "added_at": null,
@@ -730,11 +730,15 @@
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Omar Ruiz",
+          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
         }
       ],
-      "duration_ms": 164992,
-      "name": "Tiempo Duros",
-      "url": "https://open.spotify.com/track/6M2aZA9L6kkpn6O8UHhGU2"
+      "duration_ms": 183360,
+      "name": "Pa Que Hablen De Verdad",
+      "url": "https://open.spotify.com/track/3mMJwhbV6dcACewyXQgKEg"
     },
     {
       "added_at": null,
@@ -775,6 +779,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sin Faramaya",
+        "url": "https://open.spotify.com/album/5TxSrxxAuzOXdZPTqaOHaY"
+      },
+      "artists": [
+        {
+          "name": "Ely Rosario",
+          "url": "https://open.spotify.com/artist/4q8CrAeEOvqwXcwkOtUVZn"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 144303,
+      "name": "Sin Faramaya",
+      "url": "https://open.spotify.com/track/5HwVM6aaOp7uJvFIrtgYt7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiempos Duros",
+        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Jordin Sandoval",
+          "url": "https://open.spotify.com/artist/04P0m8LCKhoMBOz2V7OtwX"
+        }
+      ],
+      "duration_ms": 145493,
+      "name": "El Dragon",
+      "url": "https://open.spotify.com/track/0jZScMFNGw4Lfc7ezSJFVT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nos Gusto El Estilo",
         "url": "https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI"
       },
@@ -795,42 +839,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos Duros",
-        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
+        "name": "El Brillo de Mis Ojos",
+        "url": "https://open.spotify.com/album/4hrceAyhQrDdiFV4XJZMer"
       },
       "artists": [
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Omar Ruiz",
-          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
         }
       ],
-      "duration_ms": 183360,
-      "name": "Pa Que Hablen De Verdad",
-      "url": "https://open.spotify.com/track/3mMJwhbV6dcACewyXQgKEg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Faramaya",
-        "url": "https://open.spotify.com/album/5TxSrxxAuzOXdZPTqaOHaY"
-      },
-      "artists": [
-        {
-          "name": "Ely Rosario",
-          "url": "https://open.spotify.com/artist/4q8CrAeEOvqwXcwkOtUVZn"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 144303,
-      "name": "Sin Faramaya",
-      "url": "https://open.spotify.com/track/5HwVM6aaOp7uJvFIrtgYt7"
+      "duration_ms": 212672,
+      "name": "El Brillo de Mis Ojos",
+      "url": "https://open.spotify.com/track/4aV9ASbXqXKjDIkoYSyWHC"
     },
     {
       "added_at": null,
@@ -855,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Brillo de Mis Ojos",
-        "url": "https://open.spotify.com/album/4hrceAyhQrDdiFV4XJZMer"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 212672,
-      "name": "El Brillo de Mis Ojos",
-      "url": "https://open.spotify.com/track/4aV9ASbXqXKjDIkoYSyWHC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tiempos Duros",
         "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
       },
@@ -878,15 +882,11 @@
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Jordin Sandoval",
-          "url": "https://open.spotify.com/artist/04P0m8LCKhoMBOz2V7OtwX"
         }
       ],
-      "duration_ms": 145493,
-      "name": "El Dragon",
-      "url": "https://open.spotify.com/track/0jZScMFNGw4Lfc7ezSJFVT"
+      "duration_ms": 164992,
+      "name": "Tiempo Duros",
+      "url": "https://open.spotify.com/track/6M2aZA9L6kkpn6O8UHhGU2"
     },
     {
       "added_at": null,
@@ -959,6 +959,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jaimito El De California",
+        "url": "https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 151018,
+      "name": "Jaimito El De California",
+      "url": "https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canchame",
         "url": "https://open.spotify.com/album/3DEQ1q5V010o1E8zoCSVvr"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 210780,
       "name": "Canchame",
       "url": "https://open.spotify.com/track/20RQ9mAluOQ3SLHK3MgLX8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jaimito El De California",
-        "url": "https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 151018,
-      "name": "Jaimito El De California",
-      "url": "https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X"
     }
   ],
   "unique_name": "This Is Alex Favela",

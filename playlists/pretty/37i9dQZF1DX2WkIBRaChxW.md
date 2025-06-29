@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in r&b, right now – featuring kwn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,681 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,684 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 |
-| 2 | [Feel Something](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Feel Something](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 |
+| 2 | [FEEL SOMETHING](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 |
 | 3 | [In The End](https://open.spotify.com/track/6E8vEr5MN0GH7xMW2jN8SD) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LK99: The Prelude](https://open.spotify.com/album/5DOLO9rRo3YyKQcbYsrkqR) | 4:05 |
 | 4 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
 | 5 | [Ecstasy \(Remix\) \[feat\. Teyana Taylor\]](https://open.spotify.com/track/23WBvFOEKE7KYae5H1usrA) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Ecstasy \(Remix\) \[feat\. Teyana Taylor\]](https://open.spotify.com/album/305yIXU97c0Sa68bjQNSTz) | 3:30 |

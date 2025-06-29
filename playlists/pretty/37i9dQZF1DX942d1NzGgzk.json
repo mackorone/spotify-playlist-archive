@@ -1,6 +1,6 @@
 {
   "description": "The latest of R&B in the UK. Cover: Tyler Lewis",
-  "num_followers": 157553,
+  "num_followers": 157574,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,26 @@
     {
       "added_at": "2025-06-26 23:00:14",
       "album": {
-        "name": "Access All Areas",
-        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
+        "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
+        "url": "https://open.spotify.com/album/305yIXU97c0Sa68bjQNSTz"
       },
       "artists": [
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
         },
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
         }
       ],
-      "duration_ms": 188348,
-      "name": "In My Bag (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA"
+      "duration_ms": 210071,
+      "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
+      "url": "https://open.spotify.com/track/23WBvFOEKE7KYae5H1usrA"
     },
     {
       "added_at": "2025-06-26 23:00:14",
@@ -219,26 +223,22 @@
     {
       "added_at": "2025-06-26 23:00:14",
       "album": {
-        "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
-        "url": "https://open.spotify.com/album/305yIXU97c0Sa68bjQNSTz"
+        "name": "Access All Areas",
+        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
       },
       "artists": [
         {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         },
         {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        },
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 210071,
-      "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
-      "url": "https://open.spotify.com/track/23WBvFOEKE7KYae5H1usrA"
+      "duration_ms": 188348,
+      "name": "In My Bag (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA"
     },
     {
       "added_at": "2025-06-26 23:00:14",
@@ -391,22 +391,6 @@
     {
       "added_at": "2025-06-26 23:00:14",
       "album": {
-        "name": "Unplanned",
-        "url": "https://open.spotify.com/album/7dp5n5J2pWVXxivK0LDFEc"
-      },
-      "artists": [
-        {
-          "name": "Clara La San",
-          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Unplanned",
-      "url": "https://open.spotify.com/track/6TzsR37ZfLTEiJbK0rNaBd"
-    },
-    {
-      "added_at": "2025-06-26 23:00:14",
-      "album": {
         "name": "PROMISE",
         "url": "https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV"
       },
@@ -439,6 +423,38 @@
     {
       "added_at": "2025-06-26 23:00:14",
       "album": {
+        "name": "Unplanned",
+        "url": "https://open.spotify.com/album/7dp5n5J2pWVXxivK0LDFEc"
+      },
+      "artists": [
+        {
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Unplanned",
+      "url": "https://open.spotify.com/track/6TzsR37ZfLTEiJbK0rNaBd"
+    },
+    {
+      "added_at": "2025-06-26 23:00:14",
+      "album": {
+        "name": "Just Can't Wait",
+        "url": "https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 382508,
+      "name": "Just Can't Wait",
+      "url": "https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf"
+    },
+    {
+      "added_at": "2025-06-26 23:00:14",
+      "album": {
         "name": "Confessions of a Loverboy",
         "url": "https://open.spotify.com/album/7H0YUpWlIxLBzRrHBctaWe"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 230795,
       "name": "Caught Up",
       "url": "https://open.spotify.com/track/7lqaw4hj1vy2YYkr6Fn7Lq"
-    },
-    {
-      "added_at": "2025-06-26 23:00:14",
-      "album": {
-        "name": "Just Can't Wait",
-        "url": "https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 382508,
-      "name": "Just Can't Wait",
-      "url": "https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf"
     },
     {
       "added_at": "2025-06-26 23:00:14",
@@ -539,22 +539,6 @@
       "duration_ms": 208711,
       "name": "Only Happen",
       "url": "https://open.spotify.com/track/2zQt3vKJafeBV6JjZD7oSn"
-    },
-    {
-      "added_at": "2025-06-26 23:00:14",
-      "album": {
-        "name": "Access All Areas",
-        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 226835,
-      "name": "Shoulda Woulda Coulda",
-      "url": "https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK"
     },
     {
       "added_at": "2025-06-26 23:00:14",
@@ -623,6 +607,22 @@
     {
       "added_at": "2025-06-26 23:00:14",
       "album": {
+        "name": "Access All Areas",
+        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 226835,
+      "name": "Shoulda Woulda Coulda",
+      "url": "https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK"
+    },
+    {
+      "added_at": "2025-06-26 23:00:14",
+      "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/4LX6oVgc0dBtUzAxcjmDwM"
       },
@@ -671,26 +671,18 @@
     {
       "added_at": "2025-06-26 23:00:14",
       "album": {
-        "name": "Angel in Disguise - Spotify Singles",
-        "url": "https://open.spotify.com/album/0uGn4uXVGKMPb5F4ZHdnx6"
+        "name": "Different Ways",
+        "url": "https://open.spotify.com/album/42Y8CqoFNq9mVyzGIVjb0Z"
       },
       "artists": [
         {
           "name": "No Guidnce",
           "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
-        },
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        },
-        {
-          "name": "Rodney Jerkins",
-          "url": "https://open.spotify.com/artist/33b5NkaZsL1YoW7pO19Sc7"
         }
       ],
-      "duration_ms": 242962,
-      "name": "Angel in Disguise - Spotify Singles",
-      "url": "https://open.spotify.com/track/6As4ASyAXTOuzub0MOligf"
+      "duration_ms": 208379,
+      "name": "Different Ways",
+      "url": "https://open.spotify.com/track/4V0scczF99AVzyAYI35Ft4"
     },
     {
       "added_at": "2025-06-26 23:00:14",
@@ -715,18 +707,18 @@
     {
       "added_at": "2025-06-26 23:00:14",
       "album": {
-        "name": "Access All Areas",
-        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
+        "name": "FEEL SOMETHING",
+        "url": "https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0"
       },
       "artists": [
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
         }
       ],
-      "duration_ms": 224640,
-      "name": "Bending My Rules",
-      "url": "https://open.spotify.com/track/797M1rBDoxy7pPsTkXPqUn"
+      "duration_ms": 152195,
+      "name": "FEEL SOMETHING",
+      "url": "https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j"
     },
     {
       "added_at": "2025-06-26 23:00:14",
@@ -783,6 +775,22 @@
     {
       "added_at": "2025-06-26 23:00:14",
       "album": {
+        "name": "Access All Areas",
+        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Bending My Rules",
+      "url": "https://open.spotify.com/track/797M1rBDoxy7pPsTkXPqUn"
+    },
+    {
+      "added_at": "2025-06-26 23:00:14",
+      "album": {
         "name": "been a minute",
         "url": "https://open.spotify.com/album/1t85pHIFaVr6q6jeF3nN0p"
       },
@@ -803,22 +811,6 @@
     {
       "added_at": "2025-06-26 23:00:14",
       "album": {
-        "name": "Access All Areas",
-        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 163926,
-      "name": "IWH2BMX",
-      "url": "https://open.spotify.com/track/7dGrlAQzcsP2uPPNqbn2d4"
-    },
-    {
-      "added_at": "2025-06-26 23:00:14",
-      "album": {
         "name": "Anyways",
         "url": "https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22"
       },
@@ -835,18 +827,26 @@
     {
       "added_at": "2025-06-26 23:00:14",
       "album": {
-        "name": "Different Ways",
-        "url": "https://open.spotify.com/album/42Y8CqoFNq9mVyzGIVjb0Z"
+        "name": "Angel in Disguise - Spotify Singles",
+        "url": "https://open.spotify.com/album/0uGn4uXVGKMPb5F4ZHdnx6"
       },
       "artists": [
         {
           "name": "No Guidnce",
           "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
+        },
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "Rodney Jerkins",
+          "url": "https://open.spotify.com/artist/33b5NkaZsL1YoW7pO19Sc7"
         }
       ],
-      "duration_ms": 208379,
-      "name": "Different Ways",
-      "url": "https://open.spotify.com/track/4V0scczF99AVzyAYI35Ft4"
+      "duration_ms": 242962,
+      "name": "Angel in Disguise - Spotify Singles",
+      "url": "https://open.spotify.com/track/6As4ASyAXTOuzub0MOligf"
     },
     {
       "added_at": "2025-06-26 23:00:14",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-06-26 23:00:14",
       "album": {
-        "name": "Better Now",
-        "url": "https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC"
-      },
-      "artists": [
-        {
-          "name": "Len Blake",
-          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
-    },
-    {
-      "added_at": "2025-06-26 23:00:14",
-      "album": {
         "name": "self respect",
         "url": "https://open.spotify.com/album/0eiGunQk1mDtmanz6Abv5V"
       },
@@ -899,6 +883,38 @@
       "duration_ms": 209525,
       "name": "self respect",
       "url": "https://open.spotify.com/track/1DdgO0Ag96Hx34Qd5dHvKD"
+    },
+    {
+      "added_at": "2025-06-26 23:00:14",
+      "album": {
+        "name": "Access All Areas",
+        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 163926,
+      "name": "IWH2BMX",
+      "url": "https://open.spotify.com/track/7dGrlAQzcsP2uPPNqbn2d4"
+    },
+    {
+      "added_at": "2025-06-26 23:00:14",
+      "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC"
+      },
+      "artists": [
+        {
+          "name": "Len Blake",
+          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
     },
     {
       "added_at": "2025-06-26 23:00:14",
@@ -1019,22 +1035,6 @@
       "duration_ms": 220165,
       "name": "To Be Found",
       "url": "https://open.spotify.com/track/2vU95jI1hFEHcKgonUcrlF"
-    },
-    {
-      "added_at": "2025-06-26 23:00:14",
-      "album": {
-        "name": "Too Soon",
-        "url": "https://open.spotify.com/album/1gnbsTYrABy0pYgsuBaX9Z"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        }
-      ],
-      "duration_ms": 181330,
-      "name": "Too Soon",
-      "url": "https://open.spotify.com/track/4vJoaQsqgInOXfLTrKGNWE"
     }
   ],
   "unique_name": "R&B UK",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 
 > The most known Afro\-pop classics, all in one place! Cover: Lijadu Sisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,869 likes - 40 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,912 likes - 40 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,18 +23,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 13 | [Happy Birthday](https://open.spotify.com/track/6GkCK4jJhwQDOnGKXxmvmN) | [Evi\-Edna Ogholi](https://open.spotify.com/artist/0anRNdIauPbIhAdygRLJVL) | [Happy Birthday](https://open.spotify.com/album/02FKQ2rc5f7XmB03EcFN4m) | 5:39 |
 | 14 | [Mother & Child](https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl), [\)zzidi](https://open.spotify.com/artist/2ubZia1eKGp2eiMIEAJ36C) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 6:50 |
 | 15 | [Ja Funmi](https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Juju Music](https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs) | 7:08 |
-| 16 | [Living Music](https://open.spotify.com/track/2e8OoF7KghSpQ1MdsX7sJd) | [Onyeka Onwenu](https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 6:04 |
-| 17 | [Guitar Boy](https://open.spotify.com/track/2Sj8A8FS3wiv0B5pIFklg9) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU), [His Titibitis](https://open.spotify.com/artist/76SmGMAqB730ySrA79c6hm) | [The Best Of Victor Uwaifo, Vol\. 1](https://open.spotify.com/album/6J90hIcZh9EsJZmQa1YfLD) | 5:53 |
+| 16 | [Guitar Boy](https://open.spotify.com/track/2Sj8A8FS3wiv0B5pIFklg9) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU), [His Titibitis](https://open.spotify.com/artist/76SmGMAqB730ySrA79c6hm) | [The Best Of Victor Uwaifo, Vol\. 1](https://open.spotify.com/album/6J90hIcZh9EsJZmQa1YfLD) | 5:53 |
+| 17 | [Living Music](https://open.spotify.com/track/2e8OoF7KghSpQ1MdsX7sJd) | [Onyeka Onwenu](https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 6:04 |
 | 18 | [I Like Your Style](https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY) | [Tony Wilson](https://open.spotify.com/artist/0oe8eDAfRL99ncmLCQesif) | [I Like Your Style](https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g) | 3:05 |
 | 19 | [Africa](https://open.spotify.com/track/3UiNahTo7xKY5qFY6Fgr0b) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | ["Folon".....The Past](https://open.spotify.com/album/1ban68aN7UrIS3MTKKp7SV) | 5:59 |
 | 20 | [Invitation Highlife](https://open.spotify.com/track/2B6kXQao1fw0ZOevX5fOA2) | [Victor Olaiya](https://open.spotify.com/artist/4VKeh6oDfqhDLx0MME7R7f) | [Three Decades Of Highlife \- The Best Of...](https://open.spotify.com/album/0HBRw1nvPUbFgkwnjwU9cB) | 3:22 |
-| 21 | [Ma Jaiye Oni](https://open.spotify.com/track/47ZKAaOco4DebMlGRzcvUn) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Juju Music](https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs) | 5:07 |
-| 22 | [Ohun Oju Ri Laye Medley, Pt\. 1](https://open.spotify.com/track/6gq9ZlCF97t0v9z3wH7Kez) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents Ohun Oju Ri Laye](https://open.spotify.com/album/03sTFyroMQHRK97zXQFgTL) | 17:06 |
+| 21 | [Ohun Oju Ri Laye Medley, Pt\. 1](https://open.spotify.com/track/6gq9ZlCF97t0v9z3wH7Kez) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents Ohun Oju Ri Laye](https://open.spotify.com/album/03sTFyroMQHRK97zXQFgTL) | 17:06 |
+| 22 | [Ma Jaiye Oni](https://open.spotify.com/track/47ZKAaOco4DebMlGRzcvUn) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Juju Music](https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs) | 5:07 |
 | 23 | [Sugar Cane Baby](https://open.spotify.com/track/5kFPItOjyYqGrNnqsROU42) | [Harry Mosco](https://open.spotify.com/artist/5xRUMq2gshg8BfuXR7QFWl) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 5:31 |
 | 24 | [Tire Ni Oluwa](https://open.spotify.com/track/5uHK9zXW1KGWnw9fRYLyq0) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [3rd World](https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE) | 8:21 |
 | 25 | [Say I Love You](https://open.spotify.com/track/6NkDS793oPRpIAjrAsKNAa) | [Eddy Grant](https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA) | [This Is Eddy Grant](https://open.spotify.com/album/1GDajHPyvYM4YEUgKNusNX) | 3:55 |
-| 26 | [Baby Kilode](https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu) | [Dizzy K Falola](https://open.spotify.com/artist/4QebwA96fgRFgzeXzx9dmj) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 4:25 |
-| 27 | [Juliana](https://open.spotify.com/track/7II6pBzmOKIwTWZA6EhHjH) | [Tony Okoroji](https://open.spotify.com/artist/3JFUA6La6HVGT8bYYsmucd) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 8:55 |
+| 26 | [Juliana](https://open.spotify.com/track/7II6pBzmOKIwTWZA6EhHjH) | [Tony Okoroji](https://open.spotify.com/artist/3JFUA6La6HVGT8bYYsmucd) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 8:55 |
+| 27 | [Baby Kilode](https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu) | [Dizzy K Falola](https://open.spotify.com/artist/4QebwA96fgRFgzeXzx9dmj) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 4:25 |
 | 28 | [Wings Of A Dove](https://open.spotify.com/track/6pOE4vLnWvzdR6AJ4Gl2Nk) | [Yvonne Maha](https://open.spotify.com/artist/0OH5u9avSdfzxhk1TJAVD8) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 3:41 |
 | 29 | [I Need Someone](https://open.spotify.com/track/43nHMCR6U4gw8sC4Q6JtK0) | [Kris Okotie](https://open.spotify.com/artist/4XL2xwc93NNmU6YNa01WXa) | [I Need Someone](https://open.spotify.com/album/0TyyuXl68qBn3vm8JJheSR) | 4:31 |
 | 30 | [Maajo](https://open.spotify.com/track/6S8BapmclM4NWh19SciQOj) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Synchro System](https://open.spotify.com/album/3Qx12NrsAYxt4TFFTiF97I) | 3:26 |

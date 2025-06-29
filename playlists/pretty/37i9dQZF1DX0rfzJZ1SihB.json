@@ -1,13 +1,29 @@
 {
   "description": "\u4eca\u5e74\u7684\u91d1\u66f2\u734e\u8981\u4f86\u4e86\uff01Spotify \u7576\u7136\u5168\u529b\u652f\u6301\uff01\u706b\u901f\u5448\u737b\u7cbe\u91c7\u63d0\u540d\u4f5c\u54c1\uff01",
-  "num_followers": 53804,
+  "num_followers": 53990,
   "original_name": "2025 \u91d1\u66f2\u734e\u7cbe\u9078",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEuPrQAAAACEpBPKajsIhqPfWJ9YhOKK",
+  "snapshot_id": "aGAOaQAAAAB2SlYKJTMuVvPFE4MoIdRq",
   "tracks": [
+    {
+      "added_at": "2025-05-14 07:28:20",
+      "album": {
+        "name": "\u661f\u671f\u4e94\u665a\u4e0a",
+        "url": "https://open.spotify.com/album/1hmqJPjFzyMiyZNqxEaQFS"
+      },
+      "artists": [
+        {
+          "name": "Energy",
+          "url": "https://open.spotify.com/artist/6GUGvmk5XZesTWRQdkp69u"
+        }
+      ],
+      "duration_ms": 218350,
+      "name": "\u661f\u671f\u4e94\u665a\u4e0a",
+      "url": "https://open.spotify.com/track/7JKYx62KGXytK27ZInyAHG"
+    },
     {
       "added_at": "2025-05-14 07:28:20",
       "album": {
@@ -79,22 +95,6 @@
       "duration_ms": 257286,
       "name": "Young Man",
       "url": "https://open.spotify.com/track/3sqG2KNe7B892XWGw4OUdb"
-    },
-    {
-      "added_at": "2025-05-14 07:28:20",
-      "album": {
-        "name": "\u661f\u671f\u4e94\u665a\u4e0a",
-        "url": "https://open.spotify.com/album/1hmqJPjFzyMiyZNqxEaQFS"
-      },
-      "artists": [
-        {
-          "name": "Energy",
-          "url": "https://open.spotify.com/artist/6GUGvmk5XZesTWRQdkp69u"
-        }
-      ],
-      "duration_ms": 218350,
-      "name": "\u661f\u671f\u4e94\u665a\u4e0a",
-      "url": "https://open.spotify.com/track/7JKYx62KGXytK27ZInyAHG"
     },
     {
       "added_at": "2025-05-14 07:28:20",

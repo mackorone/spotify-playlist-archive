@@ -1,6 +1,6 @@
 {
   "description": "El lado electr\u00f3nico del indie latino, featuring Juan Baro.",
-  "num_followers": 20186,
+  "num_followers": 20189,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
@@ -667,18 +667,22 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
-        "name": "Que Nunca Pare",
-        "url": "https://open.spotify.com/album/3u793IkGzcD8JhdcIyvL6v"
+        "name": "Matanza",
+        "url": "https://open.spotify.com/album/2Z3FuttHLhctiaxUx0Nyi3"
       },
       "artists": [
         {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+          "name": "Laika Perra Rusa",
+          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+        },
+        {
+          "name": "FERMIN",
+          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
         }
       ],
-      "duration_ms": 204133,
-      "name": "Que Nunca Pare",
-      "url": "https://open.spotify.com/track/2NxkEcNyNzRJHFDexivH7E"
+      "duration_ms": 249148,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/19yOR2e7WHQPtyoMwP4Ar4"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -703,22 +707,18 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
-        "name": "Matanza",
-        "url": "https://open.spotify.com/album/2Z3FuttHLhctiaxUx0Nyi3"
+        "name": "Que Nunca Pare",
+        "url": "https://open.spotify.com/album/3u793IkGzcD8JhdcIyvL6v"
       },
       "artists": [
         {
-          "name": "Laika Perra Rusa",
-          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
-        },
-        {
-          "name": "FERMIN",
-          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
         }
       ],
-      "duration_ms": 249148,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/19yOR2e7WHQPtyoMwP4Ar4"
+      "duration_ms": 204133,
+      "name": "Que Nunca Pare",
+      "url": "https://open.spotify.com/track/2NxkEcNyNzRJHFDexivH7E"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
-        "name": "LOS AMANTES DIFERENTES",
-        "url": "https://open.spotify.com/album/3d9wTAy036vvOmZPUH8qF9"
-      },
-      "artists": [
-        {
-          "name": "Vita Set",
-          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
-        }
-      ],
-      "duration_ms": 227755,
-      "name": "LOS AMANTES DIFERENTES",
-      "url": "https://open.spotify.com/track/3jqoACT04nMZowIFsjw5VP"
-    },
-    {
-      "added_at": "2025-02-20 19:07:26",
-      "album": {
         "name": "Sol (Barretso Remix)",
         "url": "https://open.spotify.com/album/1RBrkPxbhTkJZzd68r2bv8"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 237142,
       "name": "Sol - Barretso Remix",
       "url": "https://open.spotify.com/track/6jdR9NTwm96XtZa3apPB63"
+    },
+    {
+      "added_at": "2025-02-20 19:07:26",
+      "album": {
+        "name": "LOS AMANTES DIFERENTES",
+        "url": "https://open.spotify.com/album/3d9wTAy036vvOmZPUH8qF9"
+      },
+      "artists": [
+        {
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+        }
+      ],
+      "duration_ms": 227755,
+      "name": "LOS AMANTES DIFERENTES",
+      "url": "https://open.spotify.com/track/3jqoACT04nMZowIFsjw5VP"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
+        "name": "Caracoles (Remix)",
+        "url": "https://open.spotify.com/album/0AldwRiyQ2Ui16BgplO8vM"
+      },
+      "artists": [
+        {
+          "name": "Mati y Adri",
+          "url": "https://open.spotify.com/artist/5NHx8y3GfAe3Xaxt6mxU1s"
+        },
+        {
+          "name": "La Familia de Ukeleles",
+          "url": "https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs"
+        }
+      ],
+      "duration_ms": 197810,
+      "name": "Caracoles - Remix",
+      "url": "https://open.spotify.com/track/2sWGZbEYl4zlqKcqxrhcUH"
+    },
+    {
+      "added_at": "2025-02-20 19:07:26",
+      "album": {
         "name": "EL APAG\u00d3N",
         "url": "https://open.spotify.com/album/5btAcC6nuoUTeBlkpLDFhn"
       },
@@ -1407,22 +1427,6 @@
       "duration_ms": 228400,
       "name": "EL APAG\u00d3N",
       "url": "https://open.spotify.com/track/1xLIUx6fhZxWllAnu6vYM1"
-    },
-    {
-      "added_at": "2025-02-20 19:07:26",
-      "album": {
-        "name": "Encandilante divino",
-        "url": "https://open.spotify.com/album/1pAW7DAbgkwnMwNAXjbrPH"
-      },
-      "artists": [
-        {
-          "name": "Abril Alconada",
-          "url": "https://open.spotify.com/artist/6AiyCX8zKYigmhbxVxXXf0"
-        }
-      ],
-      "duration_ms": 163676,
-      "name": "Azar",
-      "url": "https://open.spotify.com/track/5fCPshFzp2QsWDbdXjo42v"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -1463,22 +1467,18 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
-        "name": "Caracoles (Remix)",
-        "url": "https://open.spotify.com/album/0AldwRiyQ2Ui16BgplO8vM"
+        "name": "Encandilante divino",
+        "url": "https://open.spotify.com/album/1pAW7DAbgkwnMwNAXjbrPH"
       },
       "artists": [
         {
-          "name": "Mati y Adri",
-          "url": "https://open.spotify.com/artist/5NHx8y3GfAe3Xaxt6mxU1s"
-        },
-        {
-          "name": "La Familia de Ukeleles",
-          "url": "https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs"
+          "name": "Abril Alconada",
+          "url": "https://open.spotify.com/artist/6AiyCX8zKYigmhbxVxXXf0"
         }
       ],
-      "duration_ms": 197810,
-      "name": "Caracoles - Remix",
-      "url": "https://open.spotify.com/track/2sWGZbEYl4zlqKcqxrhcUH"
+      "duration_ms": 163676,
+      "name": "Azar",
+      "url": "https://open.spotify.com/track/5fCPshFzp2QsWDbdXjo42v"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
-        "name": "Paralelo",
-        "url": "https://open.spotify.com/album/6e0TDXvlVtxZdZLfyxuyra"
+        "name": "LA PLATAFORMA",
+        "url": "https://open.spotify.com/album/1ODhmEjwaYQDYRfcWUHEVY"
       },
       "artists": [
         {
-          "name": "Carolina Zac",
-          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
         }
       ],
-      "duration_ms": 258911,
-      "name": "Paralelo",
-      "url": "https://open.spotify.com/track/27DQTbtsu1PxpfcBDFuA4J"
+      "duration_ms": 227319,
+      "name": "LA PLATAFORMA",
+      "url": "https://open.spotify.com/track/0ma62XoSLbTZr4Db9POAWz"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -1575,38 +1575,18 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
-        "name": "LA PLATAFORMA",
-        "url": "https://open.spotify.com/album/1ODhmEjwaYQDYRfcWUHEVY"
+        "name": "Paralelo",
+        "url": "https://open.spotify.com/album/6e0TDXvlVtxZdZLfyxuyra"
       },
       "artists": [
         {
-          "name": "Vita Set",
-          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+          "name": "Carolina Zac",
+          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
         }
       ],
-      "duration_ms": 227319,
-      "name": "LA PLATAFORMA",
-      "url": "https://open.spotify.com/track/0ma62XoSLbTZr4Db9POAWz"
-    },
-    {
-      "added_at": "2025-02-20 19:07:26",
-      "album": {
-        "name": "ON\u00cdRIKA",
-        "url": "https://open.spotify.com/album/6QLEJbuQAJnC8u62fMpr0b"
-      },
-      "artists": [
-        {
-          "name": "Amelia",
-          "url": "https://open.spotify.com/artist/54DOvUaX10WtpRddMhbI4P"
-        },
-        {
-          "name": "Lnt. Noire",
-          "url": "https://open.spotify.com/artist/6iQaNTW8QA5orel0VJRkGt"
-        }
-      ],
-      "duration_ms": 280625,
-      "name": "\u00bfDe Qu\u00e9 Sirve?",
-      "url": "https://open.spotify.com/track/0nj6RDxpCQOBawgxFzYLEm"
+      "duration_ms": 258911,
+      "name": "Paralelo",
+      "url": "https://open.spotify.com/track/27DQTbtsu1PxpfcBDFuA4J"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -1631,6 +1611,26 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
+        "name": "ON\u00cdRIKA",
+        "url": "https://open.spotify.com/album/6QLEJbuQAJnC8u62fMpr0b"
+      },
+      "artists": [
+        {
+          "name": "Amelia",
+          "url": "https://open.spotify.com/artist/54DOvUaX10WtpRddMhbI4P"
+        },
+        {
+          "name": "Lnt. Noire",
+          "url": "https://open.spotify.com/artist/6iQaNTW8QA5orel0VJRkGt"
+        }
+      ],
+      "duration_ms": 280625,
+      "name": "\u00bfDe Qu\u00e9 Sirve?",
+      "url": "https://open.spotify.com/track/0nj6RDxpCQOBawgxFzYLEm"
+    },
+    {
+      "added_at": "2025-02-20 19:07:26",
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/5k8cjs7A7AXWnhf2x8zz9O"
       },
@@ -1643,22 +1643,6 @@
       "duration_ms": 242134,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/2bjPW6wU0L63Vd5rzrRbNr"
-    },
-    {
-      "added_at": "2025-02-20 19:07:26",
-      "album": {
-        "name": "Carmes\u00ed",
-        "url": "https://open.spotify.com/album/79Lk7RVCEpU0PJXzp5A0Iz"
-      },
-      "artists": [
-        {
-          "name": "MARTE",
-          "url": "https://open.spotify.com/artist/18ZiM1zKj24fJxeFM4UDlg"
-        }
-      ],
-      "duration_ms": 254583,
-      "name": "Carmes\u00ed",
-      "url": "https://open.spotify.com/track/1LdKISORlAZuiuoMxW91FL"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -1683,6 +1667,22 @@
       "duration_ms": 229823,
       "name": "Si no est\u00e1s - Live Set",
       "url": "https://open.spotify.com/track/2qyrA448NcSiIe49Yf3sxD"
+    },
+    {
+      "added_at": "2025-02-20 19:07:26",
+      "album": {
+        "name": "Carmes\u00ed",
+        "url": "https://open.spotify.com/album/79Lk7RVCEpU0PJXzp5A0Iz"
+      },
+      "artists": [
+        {
+          "name": "MARTE",
+          "url": "https://open.spotify.com/artist/18ZiM1zKj24fJxeFM4UDlg"
+        }
+      ],
+      "duration_ms": 254583,
+      "name": "Carmes\u00ed",
+      "url": "https://open.spotify.com/track/1LdKISORlAZuiuoMxW91FL"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
-        "name": "ENVOLTORIO",
-        "url": "https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3"
-      },
-      "artists": [
-        {
-          "name": "wiranda johansen",
-          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
-        },
-        {
-          "name": "MissLupe",
-          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
-        }
-      ],
-      "duration_ms": 198010,
-      "name": "envoltorio",
-      "url": "https://open.spotify.com/track/0SQFTTsewLJj7wtCVj3R86"
-    },
-    {
-      "added_at": "2025-02-20 19:07:26",
-      "album": {
         "name": "Vitamina",
         "url": "https://open.spotify.com/album/5c73YlnTK0mZ5AvZORvlaz"
       },
@@ -1787,6 +1767,22 @@
       "duration_ms": 249000,
       "name": "Vitamina",
       "url": "https://open.spotify.com/track/0qEUsh0UxL1gJEerlSz4mS"
+    },
+    {
+      "added_at": "2025-02-20 19:07:26",
+      "album": {
+        "name": "dionysian",
+        "url": "https://open.spotify.com/album/5CVy40cgzPpI1nhOSxx2Iz"
+      },
+      "artists": [
+        {
+          "name": "wiranda johansen",
+          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
+        }
+      ],
+      "duration_ms": 190742,
+      "name": "dionysian",
+      "url": "https://open.spotify.com/track/7ekJZZ50aVhYWW1TW4OZBP"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -1847,38 +1843,6 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
-        "name": "dionysian",
-        "url": "https://open.spotify.com/album/5CVy40cgzPpI1nhOSxx2Iz"
-      },
-      "artists": [
-        {
-          "name": "wiranda johansen",
-          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
-        }
-      ],
-      "duration_ms": 190742,
-      "name": "dionysian",
-      "url": "https://open.spotify.com/track/7ekJZZ50aVhYWW1TW4OZBP"
-    },
-    {
-      "added_at": "2025-02-20 19:07:26",
-      "album": {
-        "name": "Venus en trance",
-        "url": "https://open.spotify.com/album/6PFwuAoATVO7t8aRjkNJbi"
-      },
-      "artists": [
-        {
-          "name": "Eva Gou",
-          "url": "https://open.spotify.com/artist/4laznIds0RyFItvPpvZcx6"
-        }
-      ],
-      "duration_ms": 243546,
-      "name": "Lluvia y arcoiris",
-      "url": "https://open.spotify.com/track/0Lym6i3de1CbdXl4hKozkH"
-    },
-    {
-      "added_at": "2025-02-20 19:07:26",
-      "album": {
         "name": "FLAPS",
         "url": "https://open.spotify.com/album/3fGSXHbyn8FKDoMUfgqKmO"
       },
@@ -1903,18 +1867,18 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
-        "name": "Im\u00e1n",
-        "url": "https://open.spotify.com/album/079E8Jd7MJcV3bF4tg6irR"
+        "name": "Venus en trance",
+        "url": "https://open.spotify.com/album/6PFwuAoATVO7t8aRjkNJbi"
       },
       "artists": [
         {
-          "name": "Im\u00e1n",
-          "url": "https://open.spotify.com/artist/0RnaGJLbM9DQbzrMIbXeV8"
+          "name": "Eva Gou",
+          "url": "https://open.spotify.com/artist/4laznIds0RyFItvPpvZcx6"
         }
       ],
-      "duration_ms": 250709,
-      "name": "Hipnosis",
-      "url": "https://open.spotify.com/track/30piWlokzDKpCmQr9TYmHz"
+      "duration_ms": 243546,
+      "name": "Lluvia y arcoiris",
+      "url": "https://open.spotify.com/track/0Lym6i3de1CbdXl4hKozkH"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -1939,18 +1903,38 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
-        "name": "No Llores",
-        "url": "https://open.spotify.com/album/3jE3SmkDb7IAArledefwFN"
+        "name": "Im\u00e1n",
+        "url": "https://open.spotify.com/album/079E8Jd7MJcV3bF4tg6irR"
       },
       "artists": [
         {
-          "name": "La Maurette",
-          "url": "https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI"
+          "name": "Im\u00e1n",
+          "url": "https://open.spotify.com/artist/0RnaGJLbM9DQbzrMIbXeV8"
         }
       ],
-      "duration_ms": 178091,
-      "name": "No Llores",
-      "url": "https://open.spotify.com/track/4mH56106svjYOZy6aZvsGC"
+      "duration_ms": 250709,
+      "name": "Hipnosis",
+      "url": "https://open.spotify.com/track/30piWlokzDKpCmQr9TYmHz"
+    },
+    {
+      "added_at": "2025-02-20 19:07:26",
+      "album": {
+        "name": "ENVOLTORIO",
+        "url": "https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3"
+      },
+      "artists": [
+        {
+          "name": "wiranda johansen",
+          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
+        },
+        {
+          "name": "MissLupe",
+          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
+        }
+      ],
+      "duration_ms": 198010,
+      "name": "envoltorio",
+      "url": "https://open.spotify.com/track/0SQFTTsewLJj7wtCVj3R86"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -1971,6 +1955,22 @@
       "duration_ms": 190577,
       "name": "Bocado a Bocado",
       "url": "https://open.spotify.com/track/7HlWjFNcuvzkWhBG699dW4"
+    },
+    {
+      "added_at": "2025-02-20 19:07:26",
+      "album": {
+        "name": "No Llores",
+        "url": "https://open.spotify.com/album/3jE3SmkDb7IAArledefwFN"
+      },
+      "artists": [
+        {
+          "name": "La Maurette",
+          "url": "https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI"
+        }
+      ],
+      "duration_ms": 178091,
+      "name": "No Llores",
+      "url": "https://open.spotify.com/track/4mH56106svjYOZy6aZvsGC"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -2007,26 +2007,6 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
-        "name": "No Est\u00e1 Tan Mal",
-        "url": "https://open.spotify.com/album/1lecsZUQgeiZKJ0ySteHKn"
-      },
-      "artists": [
-        {
-          "name": "Jazm\u00edn Mazzuchelli",
-          "url": "https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm"
-        },
-        {
-          "name": "JUD",
-          "url": "https://open.spotify.com/artist/2nsbsMDYDShTn9qi96XNDB"
-        }
-      ],
-      "duration_ms": 185897,
-      "name": "No Est\u00e1 Tan Mal",
-      "url": "https://open.spotify.com/track/5E9y8BNSVhY3CyCrUDmMeI"
-    },
-    {
-      "added_at": "2025-02-20 19:07:26",
-      "album": {
         "name": "Pervertida",
         "url": "https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK"
       },
@@ -2047,6 +2027,26 @@
       "duration_ms": 149538,
       "name": "Pervertida",
       "url": "https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk"
+    },
+    {
+      "added_at": "2025-02-20 19:07:26",
+      "album": {
+        "name": "No Est\u00e1 Tan Mal",
+        "url": "https://open.spotify.com/album/1lecsZUQgeiZKJ0ySteHKn"
+      },
+      "artists": [
+        {
+          "name": "Jazm\u00edn Mazzuchelli",
+          "url": "https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm"
+        },
+        {
+          "name": "JUD",
+          "url": "https://open.spotify.com/artist/2nsbsMDYDShTn9qi96XNDB"
+        }
+      ],
+      "duration_ms": 185897,
+      "name": "No Est\u00e1 Tan Mal",
+      "url": "https://open.spotify.com/track/5E9y8BNSVhY3CyCrUDmMeI"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -2096,9 +2096,25 @@
           "url": "https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP"
         }
       ],
-      "duration_ms": 234930,
-      "name": "Venus en Latex",
-      "url": "https://open.spotify.com/track/1rUe433Mcf7dVG9b3YOuLM"
+      "duration_ms": 166595,
+      "name": "Mantis",
+      "url": "https://open.spotify.com/track/1sxaKQEK5PCGEYmcMaPmpv"
+    },
+    {
+      "added_at": "2025-02-20 19:07:26",
+      "album": {
+        "name": "Isla Queer",
+        "url": "https://open.spotify.com/album/7iolsNkag4a3VAbmZTRSh8"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1orita Novio",
+          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
+        }
+      ],
+      "duration_ms": 238675,
+      "name": "C\u00f3mo puedes vivir contigo mismo?",
+      "url": "https://open.spotify.com/track/4J1flvoVx0WRyPmy7d7y6W"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -2139,22 +2155,6 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
-        "name": "El bosque del recuerdo",
-        "url": "https://open.spotify.com/album/3FiGltDzqiB4HtCQvdnoSj"
-      },
-      "artists": [
-        {
-          "name": "Lara Pedrosa",
-          "url": "https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N"
-        }
-      ],
-      "duration_ms": 220983,
-      "name": "Intermitente",
-      "url": "https://open.spotify.com/track/5eponcmke6iZP8M6J7gkaS"
-    },
-    {
-      "added_at": "2025-02-20 19:07:26",
-      "album": {
         "name": "Shima",
         "url": "https://open.spotify.com/album/5YCwUojRFltvtAzXHyfWjl"
       },
@@ -2171,6 +2171,22 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
+        "name": "El bosque del recuerdo",
+        "url": "https://open.spotify.com/album/3FiGltDzqiB4HtCQvdnoSj"
+      },
+      "artists": [
+        {
+          "name": "Lara Pedrosa",
+          "url": "https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N"
+        }
+      ],
+      "duration_ms": 220983,
+      "name": "Intermitente",
+      "url": "https://open.spotify.com/track/5eponcmke6iZP8M6J7gkaS"
+    },
+    {
+      "added_at": "2025-02-20 19:07:26",
+      "album": {
         "name": "Venus en trance",
         "url": "https://open.spotify.com/album/6PFwuAoATVO7t8aRjkNJbi"
       },
@@ -2183,6 +2199,22 @@
       "duration_ms": 174031,
       "name": "Como extra\u00f1os",
       "url": "https://open.spotify.com/track/2tzG0Z79H94Lp0dCH9BVtU"
+    },
+    {
+      "added_at": "2025-02-20 19:07:26",
+      "album": {
+        "name": "Nueva en el Amor",
+        "url": "https://open.spotify.com/album/5FJo9Rur1qksfz0zKXe3Aw"
+      },
+      "artists": [
+        {
+          "name": "UMA",
+          "url": "https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP"
+        }
+      ],
+      "duration_ms": 234930,
+      "name": "Venus en Latex",
+      "url": "https://open.spotify.com/track/1rUe433Mcf7dVG9b3YOuLM"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -2207,38 +2239,6 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
-        "name": "Nueva en el Amor",
-        "url": "https://open.spotify.com/album/5FJo9Rur1qksfz0zKXe3Aw"
-      },
-      "artists": [
-        {
-          "name": "UMA",
-          "url": "https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP"
-        }
-      ],
-      "duration_ms": 166595,
-      "name": "Mantis",
-      "url": "https://open.spotify.com/track/1sxaKQEK5PCGEYmcMaPmpv"
-    },
-    {
-      "added_at": "2025-02-20 19:07:26",
-      "album": {
-        "name": "Isla Queer",
-        "url": "https://open.spotify.com/album/7iolsNkag4a3VAbmZTRSh8"
-      },
-      "artists": [
-        {
-          "name": "Se\u00f1orita Novio",
-          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
-        }
-      ],
-      "duration_ms": 238675,
-      "name": "C\u00f3mo puedes vivir contigo mismo?",
-      "url": "https://open.spotify.com/track/4J1flvoVx0WRyPmy7d7y6W"
-    },
-    {
-      "added_at": "2025-02-20 19:07:26",
-      "album": {
         "name": "No Tengo Salida",
         "url": "https://open.spotify.com/album/7EQsn4iUjI6WqI3kbsCUvf"
       },
@@ -2251,6 +2251,22 @@
       "duration_ms": 204115,
       "name": "No Tengo Salida",
       "url": "https://open.spotify.com/track/6Je3nM0OQdlIB9EHn4S760"
+    },
+    {
+      "added_at": "2025-02-20 19:07:26",
+      "album": {
+        "name": "Panor\u00e1mica",
+        "url": "https://open.spotify.com/album/49mPgkDTzC1piJbODEk8Gq"
+      },
+      "artists": [
+        {
+          "name": "Ignacia",
+          "url": "https://open.spotify.com/artist/4iRLbZ6V8scJryvHJrirlg"
+        }
+      ],
+      "duration_ms": 186810,
+      "name": "Panor\u00e1mica",
+      "url": "https://open.spotify.com/track/18NNtWaOxjwn7Vo6idfV2S"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -2275,22 +2291,6 @@
       "duration_ms": 225640,
       "name": "Remaches - DJ TOI Remix",
       "url": "https://open.spotify.com/track/5Hq67AkX4vi16riQhN2kgX"
-    },
-    {
-      "added_at": "2025-02-20 19:07:26",
-      "album": {
-        "name": "Panor\u00e1mica",
-        "url": "https://open.spotify.com/album/49mPgkDTzC1piJbODEk8Gq"
-      },
-      "artists": [
-        {
-          "name": "Ignacia",
-          "url": "https://open.spotify.com/artist/4iRLbZ6V8scJryvHJrirlg"
-        }
-      ],
-      "duration_ms": 186810,
-      "name": "Panor\u00e1mica",
-      "url": "https://open.spotify.com/track/18NNtWaOxjwn7Vo6idfV2S"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -2615,22 +2615,6 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
-        "name": "Bailarina (Pyura Remix)",
-        "url": "https://open.spotify.com/album/47knKqo7d15Q9ZA5HIWUG3"
-      },
-      "artists": [
-        {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
-        }
-      ],
-      "duration_ms": 316227,
-      "name": "Bailarina - Pyura Remix",
-      "url": "https://open.spotify.com/track/3FlSY7bo72ON7rHBgtBMGX"
-    },
-    {
-      "added_at": "2025-02-20 19:07:26",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/1CllJIvSgkCwh7CnJXis1G"
       },
@@ -2647,6 +2631,22 @@
       "duration_ms": 193149,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/4cxgmgcbHuWksJKepHAra2"
+    },
+    {
+      "added_at": "2025-02-20 19:07:26",
+      "album": {
+        "name": "Bailarina (Pyura Remix)",
+        "url": "https://open.spotify.com/album/47knKqo7d15Q9ZA5HIWUG3"
+      },
+      "artists": [
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        }
+      ],
+      "duration_ms": 316227,
+      "name": "Bailarina - Pyura Remix",
+      "url": "https://open.spotify.com/track/3FlSY7bo72ON7rHBgtBMGX"
     }
   ],
   "unique_name": "NE\u00d3N",

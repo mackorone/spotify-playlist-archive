@@ -1,6 +1,6 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 160322,
+  "num_followers": 160418,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
+        "name": "Candy (Remastered)",
+        "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 447173,
+      "name": "All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster",
+      "url": "https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
         "name": "Stan Getz And The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 246506,
       "name": "I Was Doing All Right",
       "url": "https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
-        "name": "Candy (Remastered)",
-        "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 447173,
-      "name": "All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster",
-      "url": "https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 607573,
-      "name": "Ballad Medley",
-      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
         "name": "Ella Swings Lightly",
         "url": "https://open.spotify.com/album/3UC5JUy1CydJYU53KAtbdH"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "Jazz 'Round Midnight: Ballads",
-        "url": "https://open.spotify.com/album/7vFkvIbJVMmVx9sou1UXZY"
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
       "artists": [
         {
-          "name": "Arthur Prysock",
-          "url": "https://open.spotify.com/artist/6yJZMmgqsTjH6ooVALu7oT"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 222666,
-      "name": "I'm Through With Love",
-      "url": "https://open.spotify.com/track/0GoXM92wupNu7ydgt826Oz"
+      "duration_ms": 607573,
+      "name": "Ballad Medley",
+      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -863,6 +847,22 @@
       "duration_ms": 204866,
       "name": "It Had To Be You",
       "url": "https://open.spotify.com/track/6nRX1T6aaqZLIA4KUldLTC"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
+        "name": "Jazz 'Round Midnight: Ballads",
+        "url": "https://open.spotify.com/album/7vFkvIbJVMmVx9sou1UXZY"
+      },
+      "artists": [
+        {
+          "name": "Arthur Prysock",
+          "url": "https://open.spotify.com/artist/6yJZMmgqsTjH6ooVALu7oT"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "I'm Through With Love",
+      "url": "https://open.spotify.com/track/0GoXM92wupNu7ydgt826Oz"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "Blue Hour",
-        "url": "https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO"
-      },
-      "artists": [
-        {
-          "name": "Stanley Turrentine & The Three Sounds",
-          "url": "https://open.spotify.com/artist/5L4dvjVNvxfqZOY5X2944F"
-        }
-      ],
-      "duration_ms": 323333,
-      "name": "Gee Baby, Ain't I Good To You - Remastered/2000",
-      "url": "https://open.spotify.com/track/5mumAplqD8ecZ5zPuLj02B"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
         "name": "The Hawk Relaxes",
         "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 265000,
       "name": "When Day Is Done",
       "url": "https://open.spotify.com/track/77fv87hNviECO3uWrKKKCM"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine & The Three Sounds",
+          "url": "https://open.spotify.com/artist/5L4dvjVNvxfqZOY5X2944F"
+        }
+      ],
+      "duration_ms": 323333,
+      "name": "Gee Baby, Ain't I Good To You - Remastered/2000",
+      "url": "https://open.spotify.com/track/5mumAplqD8ecZ5zPuLj02B"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "Johnny Hodges With Billy Strayhorn And The Orchestra",
-        "url": "https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        }
-      ],
-      "duration_ms": 180306,
-      "name": "Your Love Has Faded",
-      "url": "https://open.spotify.com/track/1X5DC9OMRJ2O7F9uJzlVqO"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
         "name": "The Hawk Relaxes",
         "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 356973,
       "name": "Moonglow",
       "url": "https://open.spotify.com/track/6X5JwYOrUQzMY1rYVTVKik"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
+        "name": "Johnny Hodges With Billy Strayhorn And The Orchestra",
+        "url": "https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "duration_ms": 180306,
+      "name": "Your Love Has Faded",
+      "url": "https://open.spotify.com/track/1X5DC9OMRJ2O7F9uJzlVqO"
     },
     {
       "added_at": "2025-01-20 15:39:56",

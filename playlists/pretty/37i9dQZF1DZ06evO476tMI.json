@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 627101,
+  "num_followers": 627160,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAAAQ5wzBnmr+h7KEjFmHsNTU",
+  "snapshot_id": "aF3fAAAAAAAbdQIaMz/p2EK7WyXcRgY2",
   "tracks": [
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney The Greatest Hits",
-        "url": "https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 281066,
-      "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
-      "url": "https://open.spotify.com/track/5DgNGI95SbwM64C4apE6Or"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
@@ -807,6 +791,26 @@
       "duration_ms": 312506,
       "name": "Jesus Loves Me",
       "url": "https://open.spotify.com/track/77ld03vIqCjakQkIQBPTVA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitney The Greatest Hits",
+        "url": "https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Deborah Cox",
+          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
+        }
+      ],
+      "duration_ms": 298106,
+      "name": "Same Script, Different Cast",
+      "url": "https://open.spotify.com/track/2tzf1KhNuANrujMqN10fvF"
     },
     {
       "added_at": null,
@@ -843,22 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney The Greatest Hits",
-        "url": "https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg"
+        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         },
         {
-          "name": "Deborah Cox",
-          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 298106,
-      "name": "Same Script, Different Cast",
-      "url": "https://open.spotify.com/track/2tzf1KhNuANrujMqN10fvF"
+      "duration_ms": 301573,
+      "name": "The Prince Of Egypt (When You Believe)",
+      "url": "https://open.spotify.com/track/2eGxZNPQVTWjXSKazFQOMg"
     }
   ],
   "unique_name": "This Is Whitney Houston",

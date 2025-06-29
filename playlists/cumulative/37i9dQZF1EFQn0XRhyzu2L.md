@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-596 songs - 1 day 8 hr 49 min
+597 songs - 1 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -548,6 +548,7 @@
 | [Too Soon](https://open.spotify.com/track/0r4adfzRMYrYXMQWB6rPFf) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG), [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY) | [Too Soon](https://open.spotify.com/album/2xjm5JmtEVOk12HzYWXnWE) | 3:26 | 2024-02-27 |  |
 | [Too Young](https://open.spotify.com/track/5cGT72BbXfi5Kd21lzzymT) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Ultraviolet](https://open.spotify.com/album/4o7X6PlFvXIEkSDIF1Mpik) | 3:29 | 2024-02-27 |  |
 | [Touch](https://open.spotify.com/track/5vvTArvy925m36VaABJvdB) | [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Touch](https://open.spotify.com/album/5Vhwmy8P4MljjsgZe4sgmG) | 3:18 | 2024-02-27 |  |
+| [Touch Myself](https://open.spotify.com/track/79Ore5BQ07MSJHRjUs1K3x) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Touch Myself](https://open.spotify.com/album/1XoJB2QVjjCKRVtPNu4cnb) | 3:09 | 2025-06-28 |  |
 | [Tribe](https://open.spotify.com/track/5lRW9r6CskREGrO3f9OkFA) | [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [My Wilderness](https://open.spotify.com/album/5wbhniMZN4RkxgfOO8pnOm) | 3:54 | 2024-02-27 | 2025-06-28 |
 | [Tribe](https://open.spotify.com/track/1CjvIsA4llVSjZfNhC9jcn) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [The Come Up](https://open.spotify.com/album/6lPgOGy21QZdStzIQHlrVF) | 4:22 | 2025-06-27 |  |
 | [Truth](https://open.spotify.com/track/5aB3hpEAE1hDSQ2wZdrtsi) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:34 | 2024-02-27 |  |

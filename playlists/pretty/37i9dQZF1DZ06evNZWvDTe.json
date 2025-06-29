@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 12742,
+  "num_followers": 12751,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAABJcWPrVAP2CtaMsctWLEfL",
+  "snapshot_id": "aF3fAAAAAACRgsxjacmC4UonHjAH2QQI",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NEXT DOOR (with Sarkodie)",
+        "url": "https://open.spotify.com/album/0stN3a7ORRVvn3Xeyq47HI"
+      },
+      "artists": [
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 156791,
+      "name": "NEXT DOOR (with Sarkodie)",
+      "url": "https://open.spotify.com/track/7ngTKqkPVMV5sVrIWcBnTC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Favourite Story",
         "url": "https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC"
       },
@@ -131,26 +151,6 @@
       "duration_ms": 236906,
       "name": "Favourite Story",
       "url": "https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NEXT DOOR (with Sarkodie)",
-        "url": "https://open.spotify.com/album/0stN3a7ORRVvn3Xeyq47HI"
-      },
-      "artists": [
-        {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 156791,
-      "name": "NEXT DOOR (with Sarkodie)",
-      "url": "https://open.spotify.com/track/7ngTKqkPVMV5sVrIWcBnTC"
     },
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/2NurBGrvfdiNz5GnzvYh1u"
-      },
-      "artists": [
-        {
-          "name": "Praiz",
-          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 224444,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/73gG9GzysDFMjiLvFG1WHI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 185196,
       "name": "Coachella (feat. Kwesi Arthur)",
       "url": "https://open.spotify.com/track/2MRivmDDWPs4nfu4zJKNNf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/2NurBGrvfdiNz5GnzvYh1u"
+      },
+      "artists": [
+        {
+          "name": "Praiz",
+          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/73gG9GzysDFMjiLvFG1WHI"
     },
     {
       "added_at": null,
@@ -527,30 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As Promised",
-        "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mugeez",
-          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 253040,
-      "name": "CCTV",
-      "url": "https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highest",
         "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
       },
@@ -587,6 +563,30 @@
       "duration_ms": 216546,
       "name": "Anointing",
       "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As Promised",
+        "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mugeez",
+          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 253040,
+      "name": "CCTV",
+      "url": "https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Strength Of A Woman (feat. Stonebwoy)",
-      "url": "https://open.spotify.com/track/2oeaDvcW4o2CTHLlseZ0Di"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mary",
         "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 287261,
       "name": "Always on My Mind (feat. Obrafour)",
       "url": "https://open.spotify.com/track/55vXTF5Pv3UoyaixvbBkQp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Strength Of A Woman (feat. Stonebwoy)",
+      "url": "https://open.spotify.com/track/2oeaDvcW4o2CTHLlseZ0Di"
     },
     {
       "added_at": null,
@@ -763,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 191719,
-      "name": "Anadwo (feat. King Promise)",
-      "url": "https://open.spotify.com/track/0jC6H13LqNH2kmjAbsgkMM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Not The Tape, Sorry 4 The Wait II",
         "url": "https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 152369,
       "name": "Jehovah",
       "url": "https://open.spotify.com/track/3MRQW0T4HCkgOYnrsLa6BV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 191719,
+      "name": "Anadwo (feat. King Promise)",
+      "url": "https://open.spotify.com/track/0jC6H13LqNH2kmjAbsgkMM"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mary",
-        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 261009,
-      "name": "Mary",
-      "url": "https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hope (Brighter Day)",
         "url": "https://open.spotify.com/album/0eDB6dnzG46Xfn1yhycDGM"
       },
@@ -899,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 261009,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sarkology",
         "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
       },
@@ -906,15 +906,11 @@
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Burna Boy N Aka",
-          "url": "https://open.spotify.com/artist/4bYmtZBkPlKEP2sUV5ZQMM"
         }
       ],
-      "duration_ms": 258964,
-      "name": "Special Sumone (feat. Burna Boy n Aka)",
-      "url": "https://open.spotify.com/track/7iwOlLnaysT2Z92dx3PTio"
+      "duration_ms": 166800,
+      "name": "Illuminati",
+      "url": "https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c"
     },
     {
       "added_at": null,
@@ -931,26 +927,6 @@
       "duration_ms": 149504,
       "name": "BRAG",
       "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mary",
-        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Akwaboah",
-          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
-        }
-      ],
-      "duration_ms": 205578,
-      "name": "Mewu (feat. Akwaboah)",
-      "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
     },
     {
       "added_at": null,
@@ -975,6 +951,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
+        }
+      ],
+      "duration_ms": 205578,
+      "name": "Mewu (feat. Akwaboah)",
+      "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sarkology",
         "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
       },
@@ -982,11 +978,15 @@
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Burna Boy N Aka",
+          "url": "https://open.spotify.com/artist/4bYmtZBkPlKEP2sUV5ZQMM"
         }
       ],
-      "duration_ms": 166800,
-      "name": "Illuminati",
-      "url": "https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c"
+      "duration_ms": 258964,
+      "name": "Special Sumone (feat. Burna Boy n Aka)",
+      "url": "https://open.spotify.com/track/7iwOlLnaysT2Z92dx3PTio"
     },
     {
       "added_at": null,

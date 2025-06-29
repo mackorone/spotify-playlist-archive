@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: BIG Naughty & LEE CHANHYUK)",
-  "num_followers": 1076042,
+  "num_followers": 1076003,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-06-24 09:00:14",
       "album": {
-        "name": "Unconditional",
-        "url": "https://open.spotify.com/album/4Q6W1RKslZCLWZPmagDEy9"
-      },
-      "artists": [
-        {
-          "name": "JAEHYUN",
-          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/4j0W96NZvBFqwIyhCb9uGX"
-    },
-    {
-      "added_at": "2025-06-24 09:00:14",
-      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/01RsFGO7W7xaRM4T2p1Xdn"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 235413,
       "name": "Yours",
       "url": "https://open.spotify.com/track/4KL3FJYexPrPuMdPagHPXp"
+    },
+    {
+      "added_at": "2025-06-24 09:00:14",
+      "album": {
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/4Q6W1RKslZCLWZPmagDEy9"
+      },
+      "artists": [
+        {
+          "name": "JAEHYUN",
+          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/4j0W96NZvBFqwIyhCb9uGX"
     },
     {
       "added_at": "2025-06-24 09:00:14",
@@ -891,6 +891,22 @@
     {
       "added_at": "2025-06-24 09:00:14",
       "album": {
+        "name": "JxW 1st Single Album 'THIS MAN'",
+        "url": "https://open.spotify.com/album/6tMQKPiaYEnnq1h6G55AKN"
+      },
+      "artists": [
+        {
+          "name": "JxW",
+          "url": "https://open.spotify.com/artist/7GvlsjcgBrsE578yghOq7D"
+        }
+      ],
+      "duration_ms": 176960,
+      "name": "Last night (Guitar by Park Juwon)",
+      "url": "https://open.spotify.com/track/0Qh8dlEJ3jVWk57Ql6XrdS"
+    },
+    {
+      "added_at": "2025-06-24 09:00:14",
+      "album": {
         "name": "VIBE (feat. Jimin of BTS)",
         "url": "https://open.spotify.com/album/664YJTJqj4tcY4y74AWgvz"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 175775,
       "name": "VIBE (feat. Jimin of BTS)",
       "url": "https://open.spotify.com/track/14XLUySagFhP9KoqOTg5ka"
-    },
-    {
-      "added_at": "2025-06-24 09:00:14",
-      "album": {
-        "name": "JxW 1st Single Album 'THIS MAN'",
-        "url": "https://open.spotify.com/album/6tMQKPiaYEnnq1h6G55AKN"
-      },
-      "artists": [
-        {
-          "name": "JxW",
-          "url": "https://open.spotify.com/artist/7GvlsjcgBrsE578yghOq7D"
-        }
-      ],
-      "duration_ms": 176960,
-      "name": "Last night (Guitar by Park Juwon)",
-      "url": "https://open.spotify.com/track/0Qh8dlEJ3jVWk57Ql6XrdS"
     },
     {
       "added_at": "2025-06-24 09:00:14",
@@ -1311,26 +1311,18 @@
     {
       "added_at": "2025-06-24 09:00:14",
       "album": {
-        "name": "Yes or No",
-        "url": "https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF"
+        "name": "Know me",
+        "url": "https://open.spotify.com/album/4iV5wZtnTcuKrdhxb8wLVN"
       },
       "artists": [
         {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        },
-        {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
         }
       ],
-      "duration_ms": 179146,
-      "name": "Yes or No (Feat. \ud5c8\uc724\uc9c4 of LE SSERAFIM, Crush)",
-      "url": "https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq"
+      "duration_ms": 214613,
+      "name": "Know me",
+      "url": "https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC"
     }
   ],
   "unique_name": "TrenChill K-R&B",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Marine, Teddy Swims, Soolking & Ninho au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,869 likes - 103 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,875 likes - 103 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 48 | [Girlz](https://open.spotify.com/track/3qnu28WHc3LIHeSqFmmyU7) | [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Girlz](https://open.spotify.com/album/4Ip2RaUZ0Of2IJDFFAB4vo) | 2:33 |
 | 49 | [One Heart, One Voice \(with Mariah Carey & Ariana Grande\)](https://open.spotify.com/track/4ZfLdr8yKKza6ZMEa5VMxI) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [The Secret Of Life: Partners, Volume 2](https://open.spotify.com/album/3IWJnA5vzbaVW3LaNuftb2) | 5:19 |
 | 50 | [Bag of Bones](https://open.spotify.com/track/1M2AqYT4Y6X0zRboZgIw8K) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Bag of Bones](https://open.spotify.com/album/4tWOuqMX9aMpFxvNU1WkYl) | 4:04 |
-| 51 | [Revenant du Nord](https://open.spotify.com/track/6LzQGdaszVI58YLZrmSDPU) | [Orchestre Tout Puissant Marcel Duchamp](https://open.spotify.com/artist/7L8bsKFWYTMJj9c5HIPNtR), [Frànçois & The Altlas Mountains](https://open.spotify.com/artist/5ZGiZdfaYeJIXKuLKBEj8K) | [Revenant du Nord](https://open.spotify.com/album/0GDJ31tKJWzRuba176idJB) | 3:10 |
+| 51 | [Revenant du Nord](https://open.spotify.com/track/6LzQGdaszVI58YLZrmSDPU) | [Orchestre Tout Puissant Marcel Duchamp](https://open.spotify.com/artist/7L8bsKFWYTMJj9c5HIPNtR), [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Revenant du Nord](https://open.spotify.com/album/0GDJ31tKJWzRuba176idJB) | 3:10 |
 | 52 | [Pluie de data](https://open.spotify.com/track/3F2zj7x4wGGpWmezFy07BF) | [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [Pluie de data](https://open.spotify.com/album/2iAXxsQJ0e9cT2Jy9c0amS) | 4:48 |
 | 53 | [For The Money](https://open.spotify.com/track/5G0GzyNU6VALmOenzBNtVA) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [For The Money](https://open.spotify.com/album/05VBhCeUpyBpGLDUFR4iZT) | 3:35 |
 | 54 | [Benevole](https://open.spotify.com/track/4OOazVob1di05D3v3XDKxI) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E) | [Rien Sans Lien](https://open.spotify.com/album/3R0VtxjxbKPx06KDhFKCkK) | 2:43 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 91 | [Dirty Work \(feat\. Flo Milli\)](https://open.spotify.com/track/3i2w6O98pzUUmqRJavWF6f) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Dirty Work](https://open.spotify.com/album/1oJztb2MfwieRwHZ1t4NrN) | 3:00 |
 | 92 | [The Man Who Can't Be Loved](https://open.spotify.com/track/1KbbpYpK0WsShJ9ZYLToBz) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [The Man Who Can't Be Loved](https://open.spotify.com/album/7LZg1IdLiWwXRtHtKEI4AE) | 3:23 |
 | 93 | [\#sxysmmr](https://open.spotify.com/track/4esup4xb7u8LFaDzN5gF5g) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [\#sxysmmr](https://open.spotify.com/album/07v66XjE2d8dPeV9nQXqXi) | 2:31 |
-| 94 | [Feel Something](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Feel Something](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 |
+| 94 | [FEEL SOMETHING](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 |
 | 95 | [Meet Me At The Party](https://open.spotify.com/track/38GU53STHfHc8N554GzGFJ) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Meet Me At The Party](https://open.spotify.com/album/2obTB7YCPvqr5bARPxtN9j) | 2:51 |
 | 96 | [Seoul Disco Night](https://open.spotify.com/track/5vwygpDrMObbg1CXlRx2yg) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Seoul Mixtape](https://open.spotify.com/album/779lkTrQXkfMJFQ1yDf6pq) | 2:55 |
 | 97 | [Trippy Yeah](https://open.spotify.com/track/1CM0kiqrtCSHClFjTccTOb) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Trippy Yeah](https://open.spotify.com/album/2kcnbaQIOOEz7zb5yWhVp3) | 3:58 |

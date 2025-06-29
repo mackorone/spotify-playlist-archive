@@ -4,7 +4,7 @@
 
 > This is A Boogie Wit da Hoodie\. The essential tracks, all in one playlist.
 
-112 songs - 5 hr 51 min
+113 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,10 +73,11 @@
 | [Money Conversations](https://open.spotify.com/track/6ZGJxCrdcILAro3kM3wvRA) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me vs\. Myself](https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03) | 3:11 | 2023-01-18 | 2023-06-15 |
 | [Monica Lewinsky \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/4hTErxf8ZqFNGH0hZqEoAI) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Ghetto Lenny's Love Songs](https://open.spotify.com/album/0ufGvePLRPce9olVIZhRyE) | 3:20 | 2023-01-18 | 2023-12-27 |
 | [Monica Lewinsky \[Feat\. A Boogie Wit da Hoodie\]](https://open.spotify.com/track/0am7uLivhU1mwPNYpK30al) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Ghetto Lenny's Love Songs](https://open.spotify.com/album/0Tbf101DgSbH9k9gOMYjAF) | 3:20 | 2023-12-26 |  |
-| [Mood Swings](https://open.spotify.com/track/0VZe8C7xgAIQC0E0qEVIEh) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 2:36 | 2023-01-19 |  |
+| [Mood Swings](https://open.spotify.com/track/0VZe8C7xgAIQC0E0qEVIEh) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 2:36 | 2023-01-19 | 2025-06-29 |
 | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG) | 2:53 | 2023-05-13 | 2024-07-23 |
 | [My Fault](https://open.spotify.com/track/0IZPY0PujmPeXyhYFngvsS) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 3:11 | 2024-12-28 | 2025-02-17 |
 | [My Shit](https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist](https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z) | 2:08 | 2023-01-18 |  |
+| [Naked \(feat\. A Boogie wit da Hoodie\)](https://open.spotify.com/track/10LLgzL0swcGCkmbXFdp9O) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Naked](https://open.spotify.com/album/5tfxs8Ev6kN5DFciteXQWl) | 2:43 | 2025-06-29 |  |
 | [Need You Around \(feat\. Fridayy\)](https://open.spotify.com/track/6fPEC2rEv7GIrDLJ4xL2ev) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Better Off Alone](https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B) | 2:53 | 2024-05-24 | 2024-11-26 |
 | [Needed That](https://open.spotify.com/track/1Pgu551wrKnGA82NiytP9G) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 3:26 | 2023-01-18 | 2023-08-17 |
 | [No 808’s \(feat\. Vory\)](https://open.spotify.com/track/7E68rHH6CrKbBYPfpiCLiQ) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [No 808’s \(feat\. Vory\)](https://open.spotify.com/album/2XToR89sscO3iyINxEvv7Z) | 3:20 | 2023-02-17 | 2023-07-24 |

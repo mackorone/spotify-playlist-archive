@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 44601,
+  "num_followers": 44687,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -349,6 +349,22 @@
       "url": "https://open.spotify.com/track/3U8DW25FSajJzQXgApAJ0B"
     },
     {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Bright Serpent",
+        "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
+      },
+      "artists": [
+        {
+          "name": "Inwards",
+          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "At Height",
+      "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
+    },
+    {
       "added_at": "2024-11-12 21:56:31",
       "album": {
         "name": "Bee and PuppyCat (Soundtrack from the Netflix Series) Vol. 2",
@@ -371,22 +387,6 @@
       "duration_ms": 151548,
       "name": "Storm / Mom",
       "url": "https://open.spotify.com/track/0NDlsZ7UP5jNf9RjhLOZPA"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Bright Serpent",
-        "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
-      },
-      "artists": [
-        {
-          "name": "Inwards",
-          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "At Height",
-      "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -767,26 +767,6 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "A View of U",
-        "url": "https://open.spotify.com/album/7GFmFwrDfsELfBtiuyW481"
-      },
-      "artists": [
-        {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
-        },
-        {
-          "name": "Tigran Hamasyan",
-          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
-        }
-      ],
-      "duration_ms": 205784,
-      "name": "Sleepy Pietro",
-      "url": "https://open.spotify.com/track/0MoeShvEacFvWAROMIfqKz"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
         "name": "Treat Em Right (Boards Of Canada Remix)",
         "url": "https://open.spotify.com/album/3biP5TpmbP1eQBjnMVo2cm"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 269987,
       "name": "Treat Em Right - Boards of Canada Remix Instrumental",
       "url": "https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "A View of U",
+        "url": "https://open.spotify.com/album/7GFmFwrDfsELfBtiuyW481"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Tigran Hamasyan",
+          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
+        }
+      ],
+      "duration_ms": 205784,
+      "name": "Sleepy Pietro",
+      "url": "https://open.spotify.com/track/0MoeShvEacFvWAROMIfqKz"
     },
     {
       "added_at": "2024-04-19 17:55:00",
@@ -1017,22 +1017,6 @@
       "url": "https://open.spotify.com/track/5lztNaNPhBTrfygH1BO1W2"
     },
     {
-      "added_at": "2023-08-29 01:12:43",
-      "album": {
-        "name": "Familiar Flavours",
-        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
-      },
-      "artists": [
-        {
-          "name": "700 Feel",
-          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
-        }
-      ],
-      "duration_ms": 260202,
-      "name": "Familiar Flavours",
-      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Rounds",
@@ -1047,6 +1031,22 @@
       "duration_ms": 281933,
       "name": "She Moves She",
       "url": "https://open.spotify.com/track/4kenHKdPL2geBCAUrhkO5P"
+    },
+    {
+      "added_at": "2023-08-29 01:12:43",
+      "album": {
+        "name": "Familiar Flavours",
+        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
+      },
+      "artists": [
+        {
+          "name": "700 Feel",
+          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
+        }
+      ],
+      "duration_ms": 260202,
+      "name": "Familiar Flavours",
+      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1257,6 +1257,22 @@
       "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
     },
     {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Between Voids",
+        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
+      },
+      "artists": [
+        {
+          "name": "Oils",
+          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "The Psychedelic One",
+      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
+    },
+    {
       "added_at": "2023-11-23 03:11:19",
       "album": {
         "name": "Candid",
@@ -1275,22 +1291,6 @@
       "duration_ms": 348947,
       "name": "Honsu",
       "url": "https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Between Voids",
-        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
-      },
-      "artists": [
-        {
-          "name": "Oils",
-          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "The Psychedelic One",
-      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1421,20 +1421,20 @@
       "url": "https://open.spotify.com/track/4xsuHsl6KbNrkFnCvNY3JG"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
+      "added_at": "2024-08-14 16:50:39",
       "album": {
-        "name": "L'illustration Musicale",
-        "url": "https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1"
+        "name": "An Everest Death Situation",
+        "url": "https://open.spotify.com/album/7yd8fkS9oPpQUxRXnRBy8x"
       },
       "artists": [
         {
-          "name": "King Of Woolworths",
-          "url": "https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd"
+          "name": "||||||||||||||||||||",
+          "url": "https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L"
         }
       ],
-      "duration_ms": 370800,
-      "name": "Delia Derbyshire",
-      "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
+      "duration_ms": 249411,
+      "name": "An Everest Death Situation",
+      "url": "https://open.spotify.com/track/72PjzX9gjNaKMMdiesyhvK"
     },
     {
       "added_at": "2023-12-12 18:05:18",
@@ -1453,20 +1453,20 @@
       "url": "https://open.spotify.com/track/1lu4JpljcLFa6dRfkcRHsa"
     },
     {
-      "added_at": "2024-08-14 16:50:39",
+      "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "An Everest Death Situation",
-        "url": "https://open.spotify.com/album/7yd8fkS9oPpQUxRXnRBy8x"
+        "name": "L'illustration Musicale",
+        "url": "https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1"
       },
       "artists": [
         {
-          "name": "||||||||||||||||||||",
-          "url": "https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L"
+          "name": "King Of Woolworths",
+          "url": "https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd"
         }
       ],
-      "duration_ms": 249411,
-      "name": "An Everest Death Situation",
-      "url": "https://open.spotify.com/track/72PjzX9gjNaKMMdiesyhvK"
+      "duration_ms": 370800,
+      "name": "Delia Derbyshire",
+      "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1537,6 +1537,22 @@
       "url": "https://open.spotify.com/track/01ZnisNETzHvTe8xr2hWP4"
     },
     {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Sleep Through the Storm",
+        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
+      },
+      "artists": [
+        {
+          "name": "A Lily",
+          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
+        }
+      ],
+      "duration_ms": 293026,
+      "name": "Endless Jasmine",
+      "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
+    },
+    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Coasting",
@@ -1555,22 +1571,6 @@
       "duration_ms": 164570,
       "name": "Walter's Jam",
       "url": "https://open.spotify.com/track/3JrmjH5RdUpW2bI5JAGCt4"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Sleep Through the Storm",
-        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
-      },
-      "artists": [
-        {
-          "name": "A Lily",
-          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
-        }
-      ],
-      "duration_ms": 293026,
-      "name": "Endless Jasmine",
-      "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1635,22 +1635,6 @@
       "duration_ms": 257862,
       "name": "From The Seams",
       "url": "https://open.spotify.com/track/1JnBldJPPq06C2OPpapjPz"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Comfort Chain",
-        "url": "https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK"
-      },
-      "artists": [
-        {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
-        }
-      ],
-      "duration_ms": 184363,
-      "name": "Comfort Chain",
-      "url": "https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1753,6 +1737,22 @@
       "url": "https://open.spotify.com/track/3RBhQ7D3w60wUdt98R7SUB"
     },
     {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Comfort Chain",
+        "url": "https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK"
+      },
+      "artists": [
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        }
+      ],
+      "duration_ms": 184363,
+      "name": "Comfort Chain",
+      "url": "https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA"
+    },
+    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Too Far",
@@ -1785,22 +1785,6 @@
       "url": "https://open.spotify.com/track/3IjaYRvTNhDP48KFGtBldN"
     },
     {
-      "added_at": "2023-02-17 01:29:01",
-      "album": {
-        "name": "William Shatner Has Been",
-        "url": "https://open.spotify.com/album/5K6Yuzk8t9t0B9WxI7WtpT"
-      },
-      "artists": [
-        {
-          "name": "William Shatner",
-          "url": "https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza"
-        }
-      ],
-      "duration_ms": 339480,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/5sw0c6FmdTgXlUyfy7YSc4"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Autoditacker",
@@ -1815,6 +1799,22 @@
       "duration_ms": 333240,
       "name": "Tamagnocchi",
       "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
+    },
+    {
+      "added_at": "2023-02-17 01:29:01",
+      "album": {
+        "name": "William Shatner Has Been",
+        "url": "https://open.spotify.com/album/5K6Yuzk8t9t0B9WxI7WtpT"
+      },
+      "artists": [
+        {
+          "name": "William Shatner",
+          "url": "https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza"
+        }
+      ],
+      "duration_ms": 339480,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/5sw0c6FmdTgXlUyfy7YSc4"
     },
     {
       "added_at": "2024-08-14 16:50:39",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "The Gone Away",
-        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 228289,
-      "name": "Fol-de-rol",
-      "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
         "name": "Kpm 1000 Series: Atmospheres",
         "url": "https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 129549,
       "name": "Jolly Pranks",
       "url": "https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "The Gone Away",
+        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 228289,
+      "name": "Fol-de-rol",
+      "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
     },
     {
       "added_at": "2023-02-17 01:10:22",

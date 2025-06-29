@@ -1,6 +1,6 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover: Sinach",
-  "num_followers": 43527,
+  "num_followers": 43550,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
@@ -573,26 +573,6 @@
       "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
     },
     {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "CAN YOU IMAGINE?",
-        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        }
-      ],
-      "duration_ms": 354885,
-      "name": "Jehovah (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3"
-    },
-    {
       "added_at": "2025-05-30 00:01:31",
       "album": {
         "name": "Jesus",
@@ -611,6 +591,26 @@
       "duration_ms": 240011,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/7q7Y5GnBKLlQONTERBPMzZ"
+    },
+    {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "CAN YOU IMAGINE?",
+        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 354885,
+      "name": "Jehovah (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -953,20 +953,20 @@
       "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
     },
     {
-      "added_at": "2024-04-05 00:01:00",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "He Is Enough",
-        "url": "https://open.spotify.com/album/3wh80jvwtIwEpPeXb0hgE8"
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
       "artists": [
         {
-          "name": "kaestrings",
-          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 127824,
-      "name": "He Is Enough",
-      "url": "https://open.spotify.com/track/4qEjiYIeD60K7dXcFYYkLS"
+      "duration_ms": 267572,
+      "name": "Na You Dey Reign",
+      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -989,20 +989,20 @@
       "url": "https://open.spotify.com/track/50OHI0yJ1ti2jTWySMz6jY"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+        "name": "He Is Enough",
+        "url": "https://open.spotify.com/album/3wh80jvwtIwEpPeXb0hgE8"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
         }
       ],
-      "duration_ms": 267572,
-      "name": "Na You Dey Reign",
-      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
+      "duration_ms": 127824,
+      "name": "He Is Enough",
+      "url": "https://open.spotify.com/track/4qEjiYIeD60K7dXcFYYkLS"
     }
   ],
   "unique_name": "Testify",

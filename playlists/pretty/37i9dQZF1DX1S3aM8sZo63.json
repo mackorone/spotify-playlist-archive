@@ -1,6 +1,6 @@
 {
   "description": "As\u00ed como lo pediste, ponte cursi con las canciones m\u00e1s rom\u00e1nticas. La Adictiva en portada.",
-  "num_followers": 1042063,
+  "num_followers": 1042193,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,18 @@
     {
       "added_at": "2025-03-21 06:00:32",
       "album": {
-        "name": "Tengo Claro",
-        "url": "https://open.spotify.com/album/6r2fG8QS313bzSxFEi7wnr"
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
       },
       "artists": [
         {
           "name": "Banda MS de Sergio Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 191681,
-      "name": "Tengo Claro",
-      "url": "https://open.spotify.com/track/2UAE43Y8K321CDAbnIXDD0"
+      "duration_ms": 212280,
+      "name": "A Lo Mejor",
+      "url": "https://open.spotify.com/track/1ugCJElyPMmDj2FYPgbD4d"
     },
     {
       "added_at": "2025-03-21 06:00:32",
@@ -459,18 +455,22 @@
     {
       "added_at": "2025-03-21 06:00:32",
       "album": {
-        "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+        "name": "Tengo Claro",
+        "url": "https://open.spotify.com/album/6r2fG8QS313bzSxFEi7wnr"
       },
       "artists": [
         {
           "name": "Banda MS de Sergio Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 212280,
-      "name": "A Lo Mejor",
-      "url": "https://open.spotify.com/track/1ugCJElyPMmDj2FYPgbD4d"
+      "duration_ms": 191681,
+      "name": "Tengo Claro",
+      "url": "https://open.spotify.com/track/2UAE43Y8K321CDAbnIXDD0"
     },
     {
       "added_at": "2025-03-21 06:00:32",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2025-03-21 06:00:32",
       "album": {
-        "name": "Vueltas",
-        "url": "https://open.spotify.com/album/5pfCUQd8uhy68kQMyRsk34"
+        "name": "Te Vengo A Ver... Con Banda Sinaloense",
+        "url": "https://open.spotify.com/album/1Q509CJBSRfYQeJ9lqZ0P4"
       },
       "artists": [
         {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+          "name": "Adan Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
         }
       ],
-      "duration_ms": 159581,
-      "name": "Vueltas",
-      "url": "https://open.spotify.com/track/0UP0Mahe68ecSjuVrAYR97"
+      "duration_ms": 151324,
+      "name": "B\u00e9same Morenita",
+      "url": "https://open.spotify.com/track/5sUsur7KIwd3KQJzI1XqMi"
     },
     {
       "added_at": "2025-03-21 06:00:32",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2025-03-21 06:00:32",
       "album": {
-        "name": "Te Vengo A Ver... Con Banda Sinaloense",
-        "url": "https://open.spotify.com/album/1Q509CJBSRfYQeJ9lqZ0P4"
+        "name": "Vueltas",
+        "url": "https://open.spotify.com/album/5pfCUQd8uhy68kQMyRsk34"
       },
       "artists": [
         {
-          "name": "Adan Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
         }
       ],
-      "duration_ms": 151324,
-      "name": "B\u00e9same Morenita",
-      "url": "https://open.spotify.com/track/5sUsur7KIwd3KQJzI1XqMi"
+      "duration_ms": 159581,
+      "name": "Vueltas",
+      "url": "https://open.spotify.com/track/0UP0Mahe68ecSjuVrAYR97"
     },
     {
       "added_at": "2025-03-21 06:00:32",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2025-03-21 06:00:32",
       "album": {
+        "name": "Los Inmortales",
+        "url": "https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5"
+      },
+      "artists": [
+        {
+          "name": "Adan Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "Me Canse De Morir Por Tu Amor",
+      "url": "https://open.spotify.com/track/7GV9iziCj6kx0noYOtrI6O"
+    },
+    {
+      "added_at": "2025-03-21 06:00:32",
+      "album": {
         "name": "Nadie Como T\u00fa",
         "url": "https://open.spotify.com/album/1E96ajg4gmUDbxbYGR6pBW"
       },
@@ -1527,34 +1543,18 @@
     {
       "added_at": "2025-03-21 06:00:32",
       "album": {
-        "name": "Te Aconsejo",
-        "url": "https://open.spotify.com/album/3963jxlECr36MmiUkzEw7z"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5ulSs304XcWr5uHQhGnHFw"
       },
       "artists": [
         {
-          "name": "Julio Haro",
-          "url": "https://open.spotify.com/artist/4Yq2F6FJ7b6RLuQBbFOTPO"
+          "name": "Ulises Quintero",
+          "url": "https://open.spotify.com/artist/3bMp5goOxqKUKLvYfP6Qvu"
         }
       ],
-      "duration_ms": 184697,
-      "name": "Te Aconsejo",
-      "url": "https://open.spotify.com/track/2dGV65KkLCVro4MS60vGEo"
-    },
-    {
-      "added_at": "2025-03-21 06:00:32",
-      "album": {
-        "name": "Los Inmortales",
-        "url": "https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5"
-      },
-      "artists": [
-        {
-          "name": "Adan Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "Me Canse De Morir Por Tu Amor",
-      "url": "https://open.spotify.com/track/7GV9iziCj6kx0noYOtrI6O"
+      "duration_ms": 178666,
+      "name": "No Existe Amor Igual - Versiones con Guitarras",
+      "url": "https://open.spotify.com/track/38xi2dkB1aNLCLxlV9l4su"
     },
     {
       "added_at": "2025-03-21 06:00:32",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2025-03-21 06:00:32",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/5ulSs304XcWr5uHQhGnHFw"
+        "name": "Te Aconsejo",
+        "url": "https://open.spotify.com/album/3963jxlECr36MmiUkzEw7z"
       },
       "artists": [
         {
-          "name": "Ulises Quintero",
-          "url": "https://open.spotify.com/artist/3bMp5goOxqKUKLvYfP6Qvu"
+          "name": "Julio Haro",
+          "url": "https://open.spotify.com/artist/4Yq2F6FJ7b6RLuQBbFOTPO"
         }
       ],
-      "duration_ms": 178666,
-      "name": "No Existe Amor Igual - Versiones con Guitarras",
-      "url": "https://open.spotify.com/track/38xi2dkB1aNLCLxlV9l4su"
+      "duration_ms": 184697,
+      "name": "Te Aconsejo",
+      "url": "https://open.spotify.com/track/2dGV65KkLCVro4MS60vGEo"
     },
     {
       "added_at": "2025-03-21 06:00:32",

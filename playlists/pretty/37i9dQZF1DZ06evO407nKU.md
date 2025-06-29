@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,913 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,928 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 42 | [Convénceme \(En Vivo\)](https://open.spotify.com/track/4rrY9i7GRZrBi4bcBaC2BU) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9) | [Dariel Party, Vol 1.](https://open.spotify.com/album/7JAN9DcCWJ1JEOmRi34YPQ) | 4:03 |
 | 43 | [Daría Todo Por Ti](https://open.spotify.com/track/1LRLWF1pMWCboN4u4xIBOv) | [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Daría Todo Por Ti](https://open.spotify.com/album/3mvFCw4U3GRlGEfljcgZWw) | 2:54 |
 | 44 | [Un Amor Como El Mío](https://open.spotify.com/track/11JSOFkvdssDhJZKrQ3rzE) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Tambora Ritmo Express](https://open.spotify.com/artist/5XmFilREaCbdcCcMgLVme6) | [Un Amor Como El Mío](https://open.spotify.com/album/2E5A8pOmmT8aoWPHEEYR4I) | 3:11 |
-| 45 | [Mi Sueno Seria](https://open.spotify.com/track/06CyL1dXG8jKcha5ZiJh4D) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 3:30 |
+| 45 | [Tonieladas](https://open.spotify.com/track/7aIlm2O6MRpMgfHkhVVyN0) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Tonieladas \(feat\. Kanales\)](https://open.spotify.com/album/73D9IF6R7JhKsO5rtLJ1LX) | 3:20 |
 | 46 | [Mi Ranchito \- En Vivo](https://open.spotify.com/track/46rZ3cUjOuzxpJqI9lCaHP) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9), [Grupo X30](https://open.spotify.com/artist/3q5RR1RLDShDlGMYRr8t4B), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl) | [Mi Ranchito](https://open.spotify.com/album/5nQkFKC4AuQrK5yzIE338z) | 2:54 |
-| 47 | [Tonieladas](https://open.spotify.com/track/7aIlm2O6MRpMgfHkhVVyN0) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Tonieladas \(feat\. Kanales\)](https://open.spotify.com/album/73D9IF6R7JhKsO5rtLJ1LX) | 3:20 |
+| 47 | [Mi Sueno Seria](https://open.spotify.com/track/06CyL1dXG8jKcha5ZiJh4D) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 3:30 |
 | 48 | [No Vuelvo A Extranarte](https://open.spotify.com/track/40TKsH6bIiGJ58vU2G8HhQ) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Estas Perdida](https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb) | 3:37 |
 | 49 | [El Signo Libra](https://open.spotify.com/track/7mUF4SXvY2KvQhcZ1LPIy7) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Mas Perdidos Que Nunca](https://open.spotify.com/album/24UEPopyd47zBd1J4Czvie) | 4:09 |
-| 50 | [Luchon](https://open.spotify.com/track/3SbiPpfN0l8BmeQZOFKUWu) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Luchon](https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz) | 2:43 |
+| 50 | [Déjame Ser](https://open.spotify.com/track/5I70KB5no6a1ecaVbbXc4d) | [Los Nenes MX](https://open.spotify.com/artist/7eeVv5cv5tlW4LB6FqIRLj), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Déjame Ser](https://open.spotify.com/album/7qd53L8tRnHFSnkB6ExtFU) | 3:25 |
 
-Snapshot ID: `aFyNgAAAAACD+Cg4Mzt7RR92HR2c6H7X`
+Snapshot ID: `aF3fAAAAAAC2st3NrtoN0YFiyEaAwUFV`

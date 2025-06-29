@@ -4,7 +4,7 @@
 
 > This is Buddy Guy\. The essential tracks, all in one playlist.
 
-121 songs - 8 hr 52 min
+122 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Meet Me in Chicago](https://open.spotify.com/track/35sEYu9d2rT5BPLiOiMYob) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 3:45 | 2024-05-01 | 2025-05-08 |
 | [Messin' with the Kid](https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Play The Blues](https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu) | 2:15 | 2022-08-05 |  |
 | [Midnight Train \(feat\. Jonny Lang\)](https://open.spotify.com/track/3zhWfTjCmrfcYTZy7C4OaD) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Heavy Love](https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu) | 5:20 | 2022-08-05 |  |
-| [Miss Ida B](https://open.spotify.com/track/0BX4XzYSTD4HBz2BzcQ8Iu) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Can't Quit The Blues](https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst) | 6:24 | 2022-08-05 |  |
+| [Miss Ida B](https://open.spotify.com/track/0BX4XzYSTD4HBz2BzcQ8Iu) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Can't Quit The Blues](https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst) | 6:24 | 2022-08-05 | 2025-06-29 |
 | [Miss You \- 2023 Mix](https://open.spotify.com/track/0uBk2amcbjkFvzcfwOPGGW) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Miss You \(2023 Mix\)](https://open.spotify.com/album/0HEo96Rd2BGGXsqWP1UYp6) | 3:20 | 2023-11-10 | 2023-12-22 |
 | [Money \(That's What I Want\)](https://open.spotify.com/track/6xlIcTHU05woxkIU3Nik22) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 2:54 | 2022-08-05 | 2022-10-05 |
 | [Mustang Sally \(feat\. Jeff Beck\)](https://open.spotify.com/track/1TkliUZNnCeTjZMWPuUoPK) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 4:43 | 2022-08-05 |  |
@@ -97,6 +97,7 @@
 | [Snatch It Back And Hold It](https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:54 | 2022-08-05 |  |
 | [So Many Roads \- Live In Montreux 1978](https://open.spotify.com/track/3wIqkRWTgHK81npjPIErY5) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Live In Montreux](https://open.spotify.com/album/4LiDDE58UkFKQf5YRgzWJi) | 6:10 | 2024-02-24 | 2024-03-09 |
 | [Some Kind Of Wonderful \(feat\. Paul Rodgers\)](https://open.spotify.com/track/7DU5Qgp1JVhgTn1Nlkbs5g) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Paul Rodgers](https://open.spotify.com/artist/2gaWNB3YrlTc0KRlHNqhol) | [Feels Like Rain](https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd) | 3:26 | 2022-08-12 | 2023-12-14 |
+| [Somebody \(feat\. Buddy Guy and Roosevelt Collier\)](https://open.spotify.com/track/2qgRPwjxR6PYVr23fwEqTI) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Roosevelt Collier](https://open.spotify.com/artist/7b10aYN6jh7Dai5c4tshD9) | [Somebody \(feat\. Buddy Guy & Roosevelt Collier\)](https://open.spotify.com/album/5icLCOWWIZiFzHEN5RDavE) | 3:59 | 2025-06-29 |  |
 | [Somebody's Got To Go \- Live In Montreux 1978](https://open.spotify.com/track/0LRV4289qOi9yifnqAArvd) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Live In Montreux](https://open.spotify.com/album/4LiDDE58UkFKQf5YRgzWJi) | 4:03 | 2024-02-18 | 2024-03-09 |
 | [Somebody's Sleeping in My Bed](https://open.spotify.com/track/5x43Y3cKUlwnOlRWkb2IMJ) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Can't Quit The Blues](https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst) | 6:25 | 2022-08-05 | 2023-04-15 |
 | [Stay Around A Little Longer \(feat\. B.B\. King\)](https://open.spotify.com/track/48z2rCxqFdlMejXthnbCkX) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Living Proof](https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm) | 5:00 | 2022-08-05 |  |

@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-296 songs - 20 hr 14 min
+297 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Glad I Found You](https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Glad I Found You](https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07) | 3:31 | 2024-04-12 | 2025-06-27 |
 | [Glasshouse \(feat\. Julia Church\)](https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Cold Enough For Snow](https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi) | 4:11 | 2024-02-16 | 2025-05-04 |
 | [Haven](https://open.spotify.com/track/6PBWbcTVS9K0IwbM8RzrxO) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Haven](https://open.spotify.com/album/2kgkjzGau4O5UHvwvKRMSp) | 3:44 | 2024-08-15 | 2024-11-22 |
-| [Healing](https://open.spotify.com/track/1tRD1LXAAy2VPKwdVoHIMI) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Healing](https://open.spotify.com/album/11MWTmeKNRaPCGR9wcFsGp) | 3:47 | 2024-09-13 |  |
+| [Healing](https://open.spotify.com/track/1tRD1LXAAy2VPKwdVoHIMI) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Healing](https://open.spotify.com/album/11MWTmeKNRaPCGR9wcFsGp) | 3:47 | 2024-09-13 | 2025-06-29 |
 | [Heard It All Before](https://open.spotify.com/track/0myWiaL4haQPN2uPZvVwc2) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX), [Leena Punks](https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt), [flowanastasia](https://open.spotify.com/artist/6AAhs4ooZ8UUIuuhWj1ZjM) | [Heard It All Before](https://open.spotify.com/album/6oX3DYMCxQrrwTpaMZc8VH) | 2:54 | 2025-03-14 |  |
 | [Heart Made Of Glass](https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Dreamscapes](https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo) | 3:50 | 2024-09-27 | 2024-10-29 |
 | [Heartbeat](https://open.spotify.com/track/6autWijbEdpktfTNI5fkx5) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Heartbeat](https://open.spotify.com/album/0mZhESlUF6AQ9aUAer6LI1) | 3:01 | 2024-07-05 | 2024-09-13 |
@@ -212,6 +212,7 @@
 | [Piece Of Art](https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [Piece Of Art](https://open.spotify.com/album/2FxV796hbaU52R033iD7s5) | 3:16 | 2022-01-14 | 2024-04-20 |
 | [Places](https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Places](https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM) | 3:31 | 2024-07-18 | 2025-06-27 |
 | [Poison \(feat\. Darla Jade\)](https://open.spotify.com/track/7wNny3grnsHDuHxCrrcpgF) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Poison \(feat\. Darla Jade\)](https://open.spotify.com/album/7wUWLFKic6z5SDcTk8LIoA) | 3:03 | 2022-01-14 | 2022-11-26 |
+| [Positions](https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j) | [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Positions](https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah) | 2:28 | 2025-06-26 |  |
 | [Protected](https://open.spotify.com/track/1cRRIRrUiPnLOvsnWNhoH9) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Protected](https://open.spotify.com/album/4MOIA5rcy0XfN7kRWmSukG) | 4:00 | 2025-01-10 |  |
 | [Proud](https://open.spotify.com/track/57fgc1wsUpAj0BfTHncOaT) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Proud](https://open.spotify.com/album/0xyI5ztV0OXUVgZHxLUkzH) | 3:56 | 2022-01-14 | 2023-10-15 |
 | [Quezacotl](https://open.spotify.com/track/24jPquymYcAxmOUXwjJwLk) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Quezacotl](https://open.spotify.com/album/1wU8NaPgbgLvsK8tUA2t2z) | 7:15 | 2024-07-05 | 2025-06-27 |

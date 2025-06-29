@@ -1,12 +1,12 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 185911,
+  "num_followers": 185966,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAADjlVBMFa9TiwrcS3G7VSCH",
+  "snapshot_id": "aF3fAAAAAACP/v9daKLNGWzbSnKGOqvh",
   "tracks": [
     {
       "added_at": null,
@@ -283,18 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Vida O Muerte",
-        "url": "https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V"
+        "name": "Nomas Por Orgullo",
+        "url": "https://open.spotify.com/album/1NresorHcdX2z4irOcTn2g"
       },
       "artists": [
+        {
+          "name": "Elias Medina",
+          "url": "https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ"
+        },
         {
           "name": "Los Invasores De Nuevo Le\u00f3n",
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 181000,
-      "name": "De Vida O Muerte",
-      "url": "https://open.spotify.com/track/4TbjXIEyA9VKdBx5WuSw4B"
+      "duration_ms": 187541,
+      "name": "Nomas Por Orgullo",
+      "url": "https://open.spotify.com/track/0wuk8DmghrkwUhtGSqIotu"
     },
     {
       "added_at": null,
@@ -315,22 +319,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nomas Por Orgullo",
-        "url": "https://open.spotify.com/album/1NresorHcdX2z4irOcTn2g"
+        "name": "De Vida O Muerte",
+        "url": "https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V"
       },
       "artists": [
-        {
-          "name": "Elias Medina",
-          "url": "https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ"
-        },
         {
           "name": "Los Invasores De Nuevo Le\u00f3n",
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 187541,
-      "name": "Nomas Por Orgullo",
-      "url": "https://open.spotify.com/track/0wuk8DmghrkwUhtGSqIotu"
+      "duration_ms": 181000,
+      "name": "De Vida O Muerte",
+      "url": "https://open.spotify.com/track/4TbjXIEyA9VKdBx5WuSw4B"
     },
     {
       "added_at": null,
@@ -575,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e9jate Llevar",
-        "url": "https://open.spotify.com/album/6OCVGmvD74MNcDpClL0uXT"
+        "name": "Mi H\u00e9roe",
+        "url": "https://open.spotify.com/album/1Flg5XJrhqjvd70wX6QV9C"
       },
       "artists": [
         {
           "name": "Los Invasores De Nuevo Le\u00f3n",
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        },
-        {
-          "name": "Oscar Iv\u00e1n Trev\u00edno",
-          "url": "https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz"
         }
       ],
-      "duration_ms": 211706,
-      "name": "En El \u00daltimo Rinc\u00f3n",
-      "url": "https://open.spotify.com/track/5JMWkaL8u03EbqsKS3mL14"
+      "duration_ms": 159013,
+      "name": "Degenerado",
+      "url": "https://open.spotify.com/track/413NV5nNVfbEh7vG1x2GTl"
     },
     {
       "added_at": null,
@@ -611,34 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi H\u00e9roe",
-        "url": "https://open.spotify.com/album/1Flg5XJrhqjvd70wX6QV9C"
+        "name": "D\u00e9jate Llevar",
+        "url": "https://open.spotify.com/album/6OCVGmvD74MNcDpClL0uXT"
       },
       "artists": [
         {
           "name": "Los Invasores De Nuevo Le\u00f3n",
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 159013,
-      "name": "Degenerado",
-      "url": "https://open.spotify.com/track/413NV5nNVfbEh7vG1x2GTl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "15 Boleros De Oro",
-        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
-      },
-      "artists": [
+        },
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Oscar Iv\u00e1n Trev\u00edno",
+          "url": "https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz"
         }
       ],
-      "duration_ms": 196306,
-      "name": "Me Refiero A T\u00ed",
-      "url": "https://open.spotify.com/track/5bbF1SdFGSqK7hKNAunuyc"
+      "duration_ms": 211706,
+      "name": "En El \u00daltimo Rinc\u00f3n",
+      "url": "https://open.spotify.com/track/5JMWkaL8u03EbqsKS3mL14"
     },
     {
       "added_at": null,
@@ -655,6 +639,22 @@
       "duration_ms": 147373,
       "name": "Que La Dejen Ir Al Baile",
       "url": "https://open.spotify.com/track/5coPwNRFIF2jCQN6G3zdgT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Me Refiero A T\u00ed",
+      "url": "https://open.spotify.com/track/5bbF1SdFGSqK7hKNAunuyc"
     },
     {
       "added_at": null,

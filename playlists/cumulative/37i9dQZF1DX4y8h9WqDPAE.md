@@ -4,7 +4,7 @@
 
 > Where R&B meets Hip\-Hop, Pop, Afrobeats and everything in between !  Cover: Leon Thomas
 
-1,077 songs - 2 day 7 hr 51 min
+1,078 songs - 2 day 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [Insomnia](https://open.spotify.com/track/1KynKSyhY1OJzZgQlV3Rda) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:49 | 2024-06-14 | 2024-09-21 |
 | [INTOXYCATED](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 | 2023-07-14 | 2024-09-14 |
 | [Introducing](https://open.spotify.com/track/17YPaCBkxAsi3KANK0TWDX) | [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [Introducing](https://open.spotify.com/album/5SwHtn3zeXEgFJcvgwWivu) | 4:01 | 2023-03-04 | 2023-03-25 |
+| [IRL \(FEAT\. SZA\)](https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:44 | 2025-06-27 |  |
 | [Is It Real? \(feat\. Roddy Ricch\)](https://open.spotify.com/track/3RlcyNhoM8zAEL32RF6axe) | [Rosemarie](https://open.spotify.com/artist/3Lz0JugHcf9nqKF1Khkhmu), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [ROCK PAPER SCISSORS: RECUT](https://open.spotify.com/album/62ZENIIyJs5LzzG2nOdHR1) | 3:23 | 2023-11-10 | 2024-03-30 |
 | [Is It Real? \(feat\. Roddy Ricch\)](https://open.spotify.com/track/6VWxLcnrLGJDE6Cr4nm0lW) | [Rosemarie](https://open.spotify.com/artist/3Lz0JugHcf9nqKF1Khkhmu), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Is It Real? \(feat\. Roddy Ricch\)](https://open.spotify.com/album/4HORf4RtMyCUu5FIQ6pEsS) | 3:23 | 2023-11-10 | 2023-12-09 |
 | [Is There Someone New?](https://open.spotify.com/track/0994zyvjadFAqOkl5ak8Uo) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Jeremy](https://open.spotify.com/album/5X7h8P7D3blxtgexUNAyV3) | 2:32 | 2024-04-26 | 2024-11-16 |
@@ -491,7 +492,7 @@
 | [Just Like Me](https://open.spotify.com/track/5Nm0tkdhfLDVBuIGttN6sh) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Just Like Me](https://open.spotify.com/album/7207lFqWVUYzbmkqjhkNzd) | 2:49 | 2025-03-14 | 2025-06-14 |
 | [Just Like Me](https://open.spotify.com/track/43dG0O6NZ3NAcAupkxpQn3) | [Ivory Scott](https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Just Like Me](https://open.spotify.com/album/4GwFV6yUGdX5sJBJILATNZ) | 2:30 | 2023-07-28 | 2024-03-16 |
 | [Just Like Me](https://open.spotify.com/track/4zEy7q415WjIawOFLhsMBN) | [Ivory Scott](https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Just Like Me](https://open.spotify.com/album/2Xxg1dEOlzY4DY1W9hqZ9n) | 2:30 | 2023-07-28 | 2023-12-24 |
-| [JUST LIKE THAT \(with Ari Lennox\)](https://open.spotify.com/track/2eCIT1yhrYfWdfC5VahUrt) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [JUST LIKE THAT \(with Ari Lennox\)](https://open.spotify.com/album/04paAyoEdoSL1nSUdoMSp1) | 2:43 | 2024-11-15 |  |
+| [JUST LIKE THAT \(with Ari Lennox\)](https://open.spotify.com/track/2eCIT1yhrYfWdfC5VahUrt) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [JUST LIKE THAT \(with Ari Lennox\)](https://open.spotify.com/album/04paAyoEdoSL1nSUdoMSp1) | 2:43 | 2024-11-15 | 2025-06-29 |
 | [Justified](https://open.spotify.com/track/6uvQXH6nPHFC5wBBPz9PPR) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Justified](https://open.spotify.com/album/4w2TGNnhTZhZO7WsZJodye) | 2:45 | 2023-04-28 | 2023-05-20 |
 | [Kamikaze](https://open.spotify.com/track/1qMPDuh8E1E0fhFVOiCNSv) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd) | [Kamikaze](https://open.spotify.com/album/53wCzAlDpewIIBv071K7xL) | 3:00 | 2023-06-30 | 2023-07-15 |
 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 | 2022-08-19 | 2023-07-01 |

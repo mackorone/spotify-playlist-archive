@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,858 likes - 93 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,851 likes - 93 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 29 | [Social Narga e Piscina](https://open.spotify.com/track/1L3enLPv2RjsaytQFXTpuN) | [MC MM](https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK) | [Social Narga e Piscina](https://open.spotify.com/album/0qEFGepeUYo1t85SpbNCtT) | 3:05 |
 | 30 | [Liberdade \(Quando o Grave Bate Forte\)](https://open.spotify.com/track/2QLbRVzixE282JSQjBz2DG) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Dj GBR](https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV) | [Liberdade \(Quando o Grave Bate Forte\)](https://open.spotify.com/album/0x28JzvWpaqtzw2YWKubKR) | 2:30 |
 | 31 | [Na Raba Toma Tapão](https://open.spotify.com/track/0AGS6ZRgzobrazmCi6pYMe) | [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML), [Markim WF](https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP) | [Na Raba Toma Tapão](https://open.spotify.com/album/7ryzeLieyFDzTGW94jogqP) | 2:45 |
-| 32 | [Papum](https://open.spotify.com/track/0meYgE9n532T2GxRIQ4FFg) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Papum](https://open.spotify.com/album/3tFMDqGswZfRy3RX4Ek1bQ) | 2:19 |
-| 33 | [Troféu do Ano](https://open.spotify.com/track/4MdifWtRdG2iHCMSzbA7nA) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk), [Mc Nando Dk](https://open.spotify.com/artist/3lX6w0gmtgVeijiFxNz5O7), [DJ Cassula](https://open.spotify.com/artist/4jthJGVVXY7PUVXUvI56Ny) | [Troféu do Ano](https://open.spotify.com/album/3BQgCMCYcRf9t3V2nfBWgw) | 3:09 |
+| 32 | [Troféu do Ano](https://open.spotify.com/track/4MdifWtRdG2iHCMSzbA7nA) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk), [Mc Nando Dk](https://open.spotify.com/artist/3lX6w0gmtgVeijiFxNz5O7), [DJ Cassula](https://open.spotify.com/artist/4jthJGVVXY7PUVXUvI56Ny) | [Troféu do Ano](https://open.spotify.com/album/3BQgCMCYcRf9t3V2nfBWgw) | 3:09 |
+| 33 | [Papum](https://open.spotify.com/track/0meYgE9n532T2GxRIQ4FFg) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Papum](https://open.spotify.com/album/3tFMDqGswZfRy3RX4Ek1bQ) | 2:19 |
 | 34 | [Hit Contagiante](https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Hit Contagiante](https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh) | 2:17 |
 | 35 | [Bipolar](https://open.spotify.com/track/0qxLQ6opocOGyFnlXqJ53x) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [DJ 900](https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI) | [Bipolar](https://open.spotify.com/album/1iCDTyPPAevNAvqC6WFlRy) | 4:36 |
 | 36 | [Rainha da Favela](https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Rainha da Favela](https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8) | 2:40 |

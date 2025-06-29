@@ -4,7 +4,7 @@
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: Tele
 
-711 songs - 1 day 20 hr 49 min
+712 songs - 1 day 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Holiday](https://open.spotify.com/track/4tL1BupkC47E9VYcy6nhmJ) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [For Life](https://open.spotify.com/album/3q0k8fPXOh4Up1zGcwErJK) | 3:28 | 2024-12-24 | 2025-02-01 |
 | [Hometown](https://open.spotify.com/track/2c8oAaq5gMezWWlPn8k7DV) | [Junya Narita](https://open.spotify.com/artist/2wh4NOBvfcF2S8z9jr6XBF) | [Hometown](https://open.spotify.com/album/4MAlf3KcJYH9jHf9utRdRa) | 3:08 | 2024-07-30 | 2024-09-04 |
 | [HOPE](https://open.spotify.com/track/0gBfHrAHah7hoyWiOHSNia) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [HOPE](https://open.spotify.com/album/2vSANlvNVEfUl0maUcNeoD) | 3:23 | 2025-04-22 |  |
-| [Hope](https://open.spotify.com/track/6TAbxQCvmh1pufM8WZm9ze) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Hope](https://open.spotify.com/album/5y0u8T58ZnZUuHfNq1RpVh) | 3:42 | 2025-04-08 |  |
+| [Hope](https://open.spotify.com/track/6TAbxQCvmh1pufM8WZm9ze) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Hope](https://open.spotify.com/album/5y0u8T58ZnZUuHfNq1RpVh) | 3:42 | 2025-04-08 | 2025-06-29 |
 | [Horizon](https://open.spotify.com/track/2tppOWi9oVbyMoqaTyKSSa) | [JUNK FUJIYAMA](https://open.spotify.com/artist/076lb5j50WT6XliToD53ZY) | [Horizon](https://open.spotify.com/album/1mzItmmTiAWWvQCmV8lYgn) | 5:03 | 2025-04-22 | 2025-04-30 |
 | [Horizon](https://open.spotify.com/track/5UxdVznuQnmWBO7JJu0efv) | [Moeka Yahagi](https://open.spotify.com/artist/6p3V5vYmdNwDlq7zJweKCg) | [Horizon](https://open.spotify.com/album/6nmV990yr4xqzwJ7jDJery) | 4:08 | 2025-01-07 | 2025-01-22 |
 | [HOSHIZORA](https://open.spotify.com/track/4e0Dn7JMaT1y5bczanLNGX) | [Tetsuji Hayashi](https://open.spotify.com/artist/0g3HxLqCm3M64azxAAWJb2) | [Yesterday Alone\(VAP Edition\)](https://open.spotify.com/album/1INJZzZcVUTVA8DRX1bz8j) | 4:40 | 2025-04-22 | 2025-05-07 |
@@ -681,6 +681,7 @@
 | [花吹雪](https://open.spotify.com/track/2e6IilpmHjfwwwHvpOyy9n) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [花吹雪](https://open.spotify.com/album/1ZUekUfbjy2Qavhx1MvN7y) | 3:55 | 2024-12-24 | 2025-01-08 |
 | [花束](https://open.spotify.com/track/1j8ZWc6c4IejNInJKpiIOL) | [LUA](https://open.spotify.com/artist/6Kn5qpqJoHEY2D8uvgUQut) | [花束](https://open.spotify.com/album/7sl4LhEZ6Wcet1ZHvg7ovJ) | 3:41 | 2025-03-11 | 2025-03-19 |
 | [花筏](https://open.spotify.com/track/4TCcHVs43u6sS0ovS0Cq1q) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [花筏](https://open.spotify.com/album/5AF20QdRUuCy6hpNO4KKIf) | 4:35 | 2024-07-02 | 2024-07-29 |
+| [花言葉は調べないで](https://open.spotify.com/track/5VIfNgHFcJGmszvKMi2qFY) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [花言葉は調べないで](https://open.spotify.com/album/6qVqbvdFCUJrpshwuOq2Pv) | 3:59 | 2025-06-24 |  |
 | [薔薇と散る](https://open.spotify.com/track/0fi1lzX45qrp6ZWZWZWwiQ) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [薔薇と散る](https://open.spotify.com/album/4oX3vpDuBMy3RB5q8ezIUW) | 3:05 | 2025-02-18 | 2025-06-12 |
 | [藤子](https://open.spotify.com/track/1loObdOBdGa6BopC1cEsXV) | [野口文](https://open.spotify.com/artist/2trWL7YWxfnXWQPoQXZLha) | [藤子](https://open.spotify.com/album/2Q0FCN53I8xAbnOi0P0WPp) | 3:51 | 2025-02-18 | 2025-02-26 |
 | [蜘蛛の糸](https://open.spotify.com/track/3awwf5Ts5K4p5clqz5Dttk) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [蜘蛛の糸](https://open.spotify.com/album/7KVlkEoAhI1nfi4ybP5YeN) | 3:40 | 2024-10-08 | 2025-01-24 |

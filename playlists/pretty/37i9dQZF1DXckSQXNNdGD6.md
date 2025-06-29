@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto:  RUSLANA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,695 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,698 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 8 | [Full Lace y el Tuck](https://open.spotify.com/track/4zfg7OC2mJDe6OXyKqjWtd) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Full Lace y el Tuck](https://open.spotify.com/album/22CPf2eEYMEPz2zm1BRVbw) | 2:53 |
 | 9 | [En la calle Ave María](https://open.spotify.com/track/0TDFfuczkvLCoq2fTtXcOn) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [ANGÉLIKA](https://open.spotify.com/album/2rshagTLsxItpqeGbKkeS2) | 2:30 |
 | 10 | [Mocatriz](https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Mocatriz](https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe) | 3:57 |
-| 11 | [LOKADEMÁS](https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [LOKADEMÁS](https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB) | 3:13 |
+| 11 | [He sido](https://open.spotify.com/track/4iejnjpuEuh1BDoFNj2h5E) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [He sido](https://open.spotify.com/album/7ePDXhq4qte3UdIJEIhxHh) | 3:19 |
 | 12 | [pies sin plomo](https://open.spotify.com/track/4CLP5XEbqjJAMbg03kO2S5) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [pies sin plomo](https://open.spotify.com/album/5wKYsfSm0ed3Dbe8AfoItZ) | 3:31 |
 | 13 | [Pedro Bicicletas](https://open.spotify.com/track/7lXH03N9sAScdPeQ9HDJXx) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [Pedro Bicicletas](https://open.spotify.com/album/0P3Hdlh6LmtJXei8SVJFsj) | 3:39 |
-| 14 | [He sido](https://open.spotify.com/track/4iejnjpuEuh1BDoFNj2h5E) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [He sido](https://open.spotify.com/album/7ePDXhq4qte3UdIJEIhxHh) | 3:19 |
+| 14 | [LOKADEMÁS](https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [LOKADEMÁS](https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB) | 3:13 |
 | 15 | [Mujerón](https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [GORGONA](https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD) | 2:50 |
 | 16 | [Putón Verbenero](https://open.spotify.com/track/4J1wiCJoD62Wsibu8We17z) | [Pupi Poisson](https://open.spotify.com/artist/2mgr9vzB7VF10t1S5x20yn) | [Verbenera](https://open.spotify.com/album/0yuUDWK1vVKMzT3ttG4BZh) | 3:11 |
 | 17 | [\(otra\) noche +](https://open.spotify.com/track/09NDXiGFUCpKYx19IS8FMr) | [D.Valentino](https://open.spotify.com/artist/01WzyfcDKX94myMXnGfU4N), [Sneaky wh](https://open.spotify.com/artist/0hUhE5n1TjnCHwNLp2mIKf) | [Ciao!](https://open.spotify.com/album/10yYYzdkRsTboBKxXLd1Ft) | 2:21 |

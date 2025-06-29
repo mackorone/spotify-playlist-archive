@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 118558,
+  "num_followers": 118582,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAABkaqj3vOLXQoonFnPoruiJ",
+  "snapshot_id": "aF3fAAAAAADU7upN0X+83+mA4ANsVdEy",
   "tracks": [
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 172771,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/23ZPovMSlcsbHq2aQWQMM2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blanco y Negro",
         "url": "https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 154897,
       "name": "Ara\u00f1a Ska",
       "url": "https://open.spotify.com/track/6oseawKMHtK8WzEy0mcsUI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 172771,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/23ZPovMSlcsbHq2aQWQMM2"
     },
     {
       "added_at": null,
@@ -835,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 186693,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/2QQcCcfKvOazgWbDpVIvql"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soy Soledad",
         "url": "https://open.spotify.com/album/1k1MjUF3FtfOKtUKDzF9c8"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 208400,
       "name": "Soy Soledad",
       "url": "https://open.spotify.com/track/50QvMSeHtzMjDGhgtWJDsi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 186693,
-      "name": "Our House",
-      "url": "https://open.spotify.com/track/2QQcCcfKvOazgWbDpVIvql"
     }
   ],
   "unique_name": "This Is Inspector",

@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 280573,
+  "num_followers": 280584,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAACkYMb061GpW4cAZLECVMaG",
+  "snapshot_id": "aF3fAAAAAACzjWfyu4WxepJGBrA4TU1Z",
   "tracks": [
     {
       "added_at": null,
@@ -223,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vai Passar Mal",
+        "url": "https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 155654,
+      "name": "K.O.",
+      "url": "https://open.spotify.com/track/5zSiXA70xM4kuSt6qim6jl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Charli",
         "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 275040,
       "name": "Shake It (feat. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar)",
       "url": "https://open.spotify.com/track/3XbNseJrIK8LzoTh4eA0Xf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vai Passar Mal",
-        "url": "https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 155654,
-      "name": "K.O.",
-      "url": "https://open.spotify.com/track/5zSiXA70xM4kuSt6qim6jl"
     },
     {
       "added_at": null,
@@ -315,6 +315,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vai Passar Mal",
+        "url": "https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Mateus Carrilho",
+          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
+        }
+      ],
+      "duration_ms": 170649,
+      "name": "Corpo Sensual (feat. Mateus Carrilho)",
+      "url": "https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Batid\u00e3o Tropical",
         "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
       },
@@ -343,26 +363,6 @@
       "duration_ms": 192421,
       "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
       "url": "https://open.spotify.com/track/3XkzApmBofoR6p9eE4I6pI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vai Passar Mal",
-        "url": "https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Mateus Carrilho",
-          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
-        }
-      ],
-      "duration_ms": 170649,
-      "name": "Corpo Sensual (feat. Mateus Carrilho)",
-      "url": "https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN"
     },
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 154941,
+      "name": "Seu Crime",
+      "url": "https://open.spotify.com/track/220QqE38Qrmyrtyd5xqB8i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Batid\u00e3o Tropical Vol. 2",
         "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 133669,
       "name": "Rubi",
       "url": "https://open.spotify.com/track/6dIkrUW18wrp0402u2It44"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 154941,
-      "name": "Seu Crime",
-      "url": "https://open.spotify.com/track/220QqE38Qrmyrtyd5xqB8i"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 173136,
+      "name": "Disk Me",
+      "url": "https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Batid\u00e3o Tropical Vol. 2",
         "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
       },
@@ -499,18 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+        "name": "Noitada",
+        "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
       },
       "artists": [
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 173136,
-      "name": "Disk Me",
-      "url": "https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD"
+      "duration_ms": 166013,
+      "name": "AMEIANOITE",
+      "url": "https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH"
     },
     {
       "added_at": null,
@@ -543,42 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noitada",
-        "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 166013,
-      "name": "AMEIANOITE",
-      "url": "https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Batid\u00e3o Tropical Vol. 2",
-        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 206736,
-      "name": "Pra Te Esquecer",
-      "url": "https://open.spotify.com/track/7FRNVA4gViHQxSo1hUqlqD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LIA CLARK",
         "url": "https://open.spotify.com/album/1r4ULdTciiU79dFkXWhMJO"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 155454,
       "name": "SEREIA",
       "url": "https://open.spotify.com/track/3ytU0WnU96nOQDmiuOEkPC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 206736,
+      "name": "Pra Te Esquecer",
+      "url": "https://open.spotify.com/track/7FRNVA4gViHQxSo1hUqlqD"
     },
     {
       "added_at": null,
@@ -631,6 +631,30 @@
       "duration_ms": 162464,
       "name": "Problema Seu",
       "url": "https://open.spotify.com/track/7uTv9wHkOPh5P9HFmkOE28"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "111 DELUXE",
+        "url": "https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "Mc Mayara",
+          "url": "https://open.spotify.com/artist/06KW64mW1lFahvaJVV0TRe"
+        }
+      ],
+      "duration_ms": 146543,
+      "name": "Bandida (feat. Mc Mayara)",
+      "url": "https://open.spotify.com/track/2VFTgZwiAdrADSLrUNHWt9"
     },
     {
       "added_at": null,
@@ -679,30 +703,6 @@
       "duration_ms": 174213,
       "name": "BRUXARIA 3000",
       "url": "https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "111 DELUXE",
-        "url": "https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        },
-        {
-          "name": "Mc Mayara",
-          "url": "https://open.spotify.com/artist/06KW64mW1lFahvaJVV0TRe"
-        }
-      ],
-      "duration_ms": 146543,
-      "name": "Bandida (feat. Mc Mayara)",
-      "url": "https://open.spotify.com/track/2VFTgZwiAdrADSLrUNHWt9"
     },
     {
       "added_at": null,
@@ -767,22 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ba\u00fa da Taty 2, Pt. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1aSIovEpV6p1gt3LTqECJr"
+        "name": "111",
+        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
       },
       "artists": [
         {
-          "name": "Taty Girl",
-          "url": "https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE"
-        },
-        {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Psirico",
+          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
         }
       ],
-      "duration_ms": 158664,
-      "name": "N\u00e3o \u00e9 Papel de Homem - Ao Vivo",
-      "url": "https://open.spotify.com/track/01a0s6oTQ1ZgmYCafcyu8I"
+      "duration_ms": 136844,
+      "name": "Parab\u00e9ns",
+      "url": "https://open.spotify.com/track/3mikf8qZaNp6wrrWxHgawH"
     },
     {
       "added_at": null,
@@ -815,22 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
+        "name": "Ba\u00fa da Taty 2, Pt. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1aSIovEpV6p1gt3LTqECJr"
       },
       "artists": [
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+          "name": "Taty Girl",
+          "url": "https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE"
         },
         {
-          "name": "Psirico",
-          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 136844,
-      "name": "Parab\u00e9ns",
-      "url": "https://open.spotify.com/track/3mikf8qZaNp6wrrWxHgawH"
+      "duration_ms": 158664,
+      "name": "N\u00e3o \u00e9 Papel de Homem - Ao Vivo",
+      "url": "https://open.spotify.com/track/01a0s6oTQ1ZgmYCafcyu8I"
     },
     {
       "added_at": null,
@@ -887,6 +887,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para\u00edso",
+        "url": "https://open.spotify.com/album/75DV3LLntXpYsaKqRahzlt"
+      },
+      "artists": [
+        {
+          "name": "Lucas Lucco",
+          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/7u9maPG2E4cN9qChpe80qm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00e3o Para N\u00e3o",
         "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 145920,
       "name": "Eu Vou",
       "url": "https://open.spotify.com/track/6tkuCCpBNnAWjbOv2MHIgO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para\u00edso",
-        "url": "https://open.spotify.com/album/75DV3LLntXpYsaKqRahzlt"
-      },
-      "artists": [
-        {
-          "name": "Lucas Lucco",
-          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/7u9maPG2E4cN9qChpe80qm"
     },
     {
       "added_at": null,

@@ -2041,6 +2041,24 @@
     },
     {
       "album": {
+        "name": "Pa\u015fa G\u00f6n\u00fcl \u015eark\u0131lar\u0131",
+        "url": "https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T"
+      },
+      "artists": [
+        {
+          "name": "Sezen Aksu",
+          "url": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247334,
+      "name": "Ey A\u015fk",
+      "url": "https://open.spotify.com/track/5rElOY8KtcQFqlSZ7hgEuC"
+    },
+    {
+      "album": {
         "name": "Eyl\u00fcl",
         "url": "https://open.spotify.com/album/42LDVOTbeJ1vUJXGGk0vyJ"
       },
@@ -4913,7 +4931,7 @@
     },
     {
       "album": {
-        "name": "Yerinde Dru",
+        "name": "Yerinde Dur",
         "url": "https://open.spotify.com/album/2dWhGxwCOtruhYXuT84cJ8"
       },
       "artists": [
@@ -4930,7 +4948,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 148000,
-      "name": "Yerinde Dru",
+      "name": "Yerinde Dur",
       "url": "https://open.spotify.com/track/3JTphuwOWcI28J2vS4gMmI"
     },
     {
@@ -5494,7 +5512,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 158303,
       "name": "\u015eu Halime Baksana",
       "url": "https://open.spotify.com/track/4s2XGE3LH1KeTfL5fDjioX"

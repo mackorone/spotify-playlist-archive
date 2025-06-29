@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: DRAMAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,728 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,690 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mannequin](https://open.spotify.com/track/32QNmvZ1mHPUGQ7SiR3uDv) | [DRAMAS](https://open.spotify.com/artist/7wwQRdYt302AuynW8ioIgS) | [Jewel Drums](https://open.spotify.com/album/04koGBAXccL9X3TF5C9In2) | 4:16 |
 | 2 | [The Field \(feat\. The Durutti Column, Tariq Al\-Sabir, Caroline Polachek & Daniel Caesar\)](https://open.spotify.com/track/5GVyBn2zUEweqnS6oeXlMp) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Tariq Al\-Sabir](https://open.spotify.com/artist/6EScxZAPeNmf1U8TB4Hk2h), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [The Field \(feat\. The Durutti Column, Tariq Al\-Sabir, Caroline Polachek & Daniel Caesar\)](https://open.spotify.com/album/1ui8ZfiEmEZSGB2K4OPNYc) | 3:19 |
 | 3 | [Love Recycled 4](https://open.spotify.com/track/13NLxIbD8Bp1efHqpvfwTd) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE), [Love Recycled](https://open.spotify.com/artist/7oTQQWyea1bnyhmIgOQiWx) | [Love Recycled 4](https://open.spotify.com/album/5Sh815W2f63MzxYput4kvz) | 3:31 |
-| 4 | [crystalised](https://open.spotify.com/track/68Z5RPvf1aI2tRTN2i2DBT) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo), [Dottie Anderson](https://open.spotify.com/artist/3CRHfOG9hNT4bwcmBJyMtV) | [crystalised](https://open.spotify.com/album/45MmD9u8slCeAZdAnDmuK8) | 3:41 |
+| 4 | [crystalised](https://open.spotify.com/track/68Z5RPvf1aI2tRTN2i2DBT) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo), [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [crystalised](https://open.spotify.com/album/45MmD9u8slCeAZdAnDmuK8) | 3:41 |
 | 5 | [Your River](https://open.spotify.com/track/3cNZ8hIsqbFYbkcKQPQK5R) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Your River](https://open.spotify.com/album/1LVzzPnwoEXucVRVYFp9cU) | 3:19 |
 | 6 | [Sciallà](https://open.spotify.com/track/2w30W8DtzFfUAqakTaeV78) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Sciallà](https://open.spotify.com/album/4Sr05np1KjUdmw0RQF1R99) | 4:16 |
 | 7 | [Searching Places](https://open.spotify.com/track/1XPVn6WdaxLsvKaUTr36MZ) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Searching Places](https://open.spotify.com/album/49u7UPxZy7pMBjOUBK4XMr) | 3:48 |

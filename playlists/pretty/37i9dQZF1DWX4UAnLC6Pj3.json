@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda MS en portada.",
-  "num_followers": 1269496,
+  "num_followers": 1269549,
   "original_name": "Banda 2025",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "Mitad Y Mitad",
-        "url": "https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "\u00bfPor Qu\u00e9 Cambiaste De Opini\u00f3n?",
-      "url": "https://open.spotify.com/track/1j8gLQNfFOI0vs8qcVTWwa"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
         "name": "D\u00e9cimo Aniversario",
         "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 164360,
       "name": "Tranquilito",
       "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
+        "name": "Mitad Y Mitad",
+        "url": "https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "\u00bfPor Qu\u00e9 Cambiaste De Opini\u00f3n?",
+      "url": "https://open.spotify.com/track/1j8gLQNfFOI0vs8qcVTWwa"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "Te Felicito",
-        "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 224523,
-      "name": "Te Felicito",
-      "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
         "name": "Tu Perfume",
         "url": "https://open.spotify.com/album/6sGxYlsiF11hUl37ZynUhM"
       },
@@ -835,18 +819,18 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "A Trav\u00e9s Del Vaso",
-        "url": "https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot"
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 180120,
-      "name": "A Trav\u00e9s Del Vaso",
-      "url": "https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo"
+      "duration_ms": 224523,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -875,6 +859,22 @@
       "duration_ms": 176000,
       "name": "Coraz\u00f3n (En Vivo)",
       "url": "https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
+        "name": "A Trav\u00e9s Del Vaso",
+        "url": "https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 180120,
+      "name": "A Trav\u00e9s Del Vaso",
+      "url": "https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "Ahora S\u00ed Te Conoc\u00ed (En Vivo)",
-        "url": "https://open.spotify.com/album/6IpzcAJ3me4S3H9mOH2H8P"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 200544,
-      "name": "Ahora S\u00ed Te Conoc\u00ed (En Vivo)",
-      "url": "https://open.spotify.com/track/6C9yGcfTdkmn0iZDWEwRZo"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
         "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
         "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
       },
@@ -1099,6 +1079,26 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
+        "name": "Ahora S\u00ed Te Conoc\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/6IpzcAJ3me4S3H9mOH2H8P"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 200544,
+      "name": "Ahora S\u00ed Te Conoc\u00ed (En Vivo)",
+      "url": "https://open.spotify.com/track/6C9yGcfTdkmn0iZDWEwRZo"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
         "name": "Ch y la Pizza (Con Banda)",
         "url": "https://open.spotify.com/album/2SEX3CqSk94lEX0k6qE5pt"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "Qu\u00e9 Onda Perdida",
-        "url": "https://open.spotify.com/album/2XIMzHRF6bkv81iGbkvcQN"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 223695,
-      "name": "Qu\u00e9 Onda Perdida",
-      "url": "https://open.spotify.com/track/3TjLFavKPwuvXk5xnxPlEk"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 180083,
       "name": "Las Edades - En Vivo",
       "url": "https://open.spotify.com/track/01NTntNkCtZXVhLnKgzVFs"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
+        "name": "CHSM El H\u00edgado X2",
+        "url": "https://open.spotify.com/album/4Xdc6jbEyG74XnamElVAmR"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 185434,
+      "name": "CHSM El Higado",
+      "url": "https://open.spotify.com/track/2SIaxVDnOZGBATjFaSzm5Q"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "CHSM El H\u00edgado X2",
-        "url": "https://open.spotify.com/album/4Xdc6jbEyG74XnamElVAmR"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 185434,
-      "name": "CHSM El Higado",
-      "url": "https://open.spotify.com/track/2SIaxVDnOZGBATjFaSzm5Q"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
         "name": "Una Noche Cualquiera",
         "url": "https://open.spotify.com/album/6uhcErVRHBbBaslDcvzDlD"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 215106,
       "name": "Una Noche Cualquiera",
       "url": "https://open.spotify.com/track/1d2ziGaMKHlNjuFY1oL8If"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
+        "name": "Qu\u00e9 Onda Perdida",
+        "url": "https://open.spotify.com/album/2XIMzHRF6bkv81iGbkvcQN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 223695,
+      "name": "Qu\u00e9 Onda Perdida",
+      "url": "https://open.spotify.com/track/3TjLFavKPwuvXk5xnxPlEk"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
+        "name": "El Payaso",
+        "url": "https://open.spotify.com/album/7nEa4qa8Bcfc993KotJYaB"
+      },
+      "artists": [
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        }
+      ],
+      "duration_ms": 180382,
+      "name": "El Cantador",
+      "url": "https://open.spotify.com/track/1eIIZzMC0NDHTbjScOYees"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
         "name": "La Peligrosa",
         "url": "https://open.spotify.com/album/7170V7jAlG1fvhCYkMOCZF"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 191225,
       "name": "La Peligrosa",
       "url": "https://open.spotify.com/track/4WnfySwIacUpi3LjZmaEsB"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
-        "name": "El Payaso",
-        "url": "https://open.spotify.com/album/7nEa4qa8Bcfc993KotJYaB"
-      },
-      "artists": [
-        {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
-        }
-      ],
-      "duration_ms": 180382,
-      "name": "El Cantador",
-      "url": "https://open.spotify.com/track/1eIIZzMC0NDHTbjScOYees"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Vamos Bien",
+      "url": "https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV",
         "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 185973,
       "name": "La Supuesta Cita",
       "url": "https://open.spotify.com/track/6haNQCMAN9p6y8AWGQJ7fF"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Vamos Bien",
-      "url": "https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "Enamorado",
-        "url": "https://open.spotify.com/album/1StCFcV4mgSMCAAdIjHHYN"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 145167,
-      "name": "Enamorado",
-      "url": "https://open.spotify.com/track/0pCch1eHrjCXON48LoZDCY"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
         "name": "De Ellas",
         "url": "https://open.spotify.com/album/3jK4gv1FXy4CR84iJRQQzN"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 237787,
       "name": "De Ellas",
       "url": "https://open.spotify.com/track/6pDixZkveDjPX6eNhKk94J"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
+        "name": "Enamorado",
+        "url": "https://open.spotify.com/album/1StCFcV4mgSMCAAdIjHHYN"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 145167,
+      "name": "Enamorado",
+      "url": "https://open.spotify.com/track/0pCch1eHrjCXON48LoZDCY"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "El 30 de Febrero",
-        "url": "https://open.spotify.com/album/0x2OATUtYiydLtsW3eOg4p"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 181204,
-      "name": "El 30 de Febrero",
-      "url": "https://open.spotify.com/track/4ZbDbGo6hubDCXsVMEx1jv"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
         "name": "Se Cans\u00f3 (En Vivo)",
         "url": "https://open.spotify.com/album/0DU8thSB2OYqVcDGWVBNgM"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 194634,
       "name": "Se Cans\u00f3 - En Vivo",
       "url": "https://open.spotify.com/track/7I3u4wFME9L4Wbva3coJHA"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
+        "name": "El 30 de Febrero",
+        "url": "https://open.spotify.com/album/0x2OATUtYiydLtsW3eOg4p"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 181204,
+      "name": "El 30 de Febrero",
+      "url": "https://open.spotify.com/track/4ZbDbGo6hubDCXsVMEx1jv"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -2075,26 +2075,6 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "La Humilde Opinion",
-        "url": "https://open.spotify.com/album/4WC78n1jgUAndOXIhd5vbP"
-      },
-      "artists": [
-        {
-          "name": "Tony Montoya",
-          "url": "https://open.spotify.com/artist/3odecFgtCNACfFLUlRR8QB"
-        },
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 163016,
-      "name": "La Humilde Opinion",
-      "url": "https://open.spotify.com/track/6dMgfy2TWgjlt7hoCCrbo1"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
         "name": "El Humo De Mi Gallo",
         "url": "https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN"
       },
@@ -2111,6 +2091,26 @@
       "duration_ms": 144080,
       "name": "El Humo De Mi Gallo",
       "url": "https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
+        "name": "La Humilde Opinion",
+        "url": "https://open.spotify.com/album/4WC78n1jgUAndOXIhd5vbP"
+      },
+      "artists": [
+        {
+          "name": "Tony Montoya",
+          "url": "https://open.spotify.com/artist/3odecFgtCNACfFLUlRR8QB"
+        },
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 163016,
+      "name": "La Humilde Opinion",
+      "url": "https://open.spotify.com/track/6dMgfy2TWgjlt7hoCCrbo1"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "Simplemente Amigos",
-        "url": "https://open.spotify.com/album/2N9Doi1fgdEIFavKu58qSI"
-      },
-      "artists": [
-        {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
-        }
-      ],
-      "duration_ms": 193687,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/2NvjIR3bHAVxMY032nNuR2"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
         "name": "Me Vas A Comparar",
         "url": "https://open.spotify.com/album/6bb5iifYSqMDuIcDMU3Sxi"
       },
@@ -2199,6 +2183,26 @@
       "duration_ms": 207453,
       "name": "Me Vas A Comparar",
       "url": "https://open.spotify.com/track/2qp7K5TngemNXJWOw41nxa"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
+        "name": "Desde Mazatl\u00e1n, Sinaloa (En Vivo)",
+        "url": "https://open.spotify.com/album/6VE5VAjHrptT2rWYr8xeIW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 199464,
+      "name": "Aqu\u00ed No Se Termina (En Vivo)",
+      "url": "https://open.spotify.com/track/3Z6U51tUSNL2exhjJj2o3g"
     },
     {
       "added_at": "2025-06-06 04:00:10",

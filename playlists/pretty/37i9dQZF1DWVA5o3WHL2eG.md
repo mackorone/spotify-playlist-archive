@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Zsá Zsá
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,367 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,380 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 14 | [Knoppers](https://open.spotify.com/track/42nG2hVZIVNfPBQ8RiOCAj) | [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W), [Traya](https://open.spotify.com/artist/0bo1LMgTEg5qpicrIee54M) | [Knoppers](https://open.spotify.com/album/0RzlcFXkk0MJmcQhYxwcwR) | 2:06 |
 | 15 | [hungerspiele](https://open.spotify.com/track/5EnJNlBSbircsRkFlpINQ0) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [hungerspiele](https://open.spotify.com/album/0XD2A1SUf0gl6LkWBNzQ2R) | 2:57 |
 | 16 | [Vespa](https://open.spotify.com/track/4cQXzeob93WskDrYumvoqn) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [Vespa](https://open.spotify.com/album/6pUSfO8PGUDlUFWh8SMZJQ) | 2:17 |
-| 17 | [Daddy](https://open.spotify.com/track/5UEdzLdq8tICr6x0abO4gM) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Daddy](https://open.spotify.com/album/4sQdg2DCe4J2ZJbOEZ615l) | 2:34 |
-| 18 | [Bitte sag](https://open.spotify.com/track/5rj7ExuHtdyVGtUMuprZqe) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ) | [Bitte sag](https://open.spotify.com/album/7GV5MAj4vGJ6UBwpUcKmnX) | 2:11 |
+| 17 | [Bitte sag](https://open.spotify.com/track/5rj7ExuHtdyVGtUMuprZqe) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ) | [Bitte sag](https://open.spotify.com/album/7GV5MAj4vGJ6UBwpUcKmnX) | 2:11 |
+| 18 | [Daddy](https://open.spotify.com/track/5UEdzLdq8tICr6x0abO4gM) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Daddy](https://open.spotify.com/album/4sQdg2DCe4J2ZJbOEZ615l) | 2:34 |
 | 19 | [Feuerkind](https://open.spotify.com/track/56ldjSVqZJ332ntiGLSPvW) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Feuerkind](https://open.spotify.com/album/5zwr0tXhxtJmfvgL1G8BK0) | 3:40 |
 | 20 | [Er kriegt mich nicht](https://open.spotify.com/track/3QlqPRUCScMH9SRdRSPhid) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [Er kriegt mich nicht](https://open.spotify.com/album/32KQ2dKaKl0XXalzDj9b5U) | 1:29 |
 | 21 | [215 fehlstunden](https://open.spotify.com/track/3X4DZ9xR9ASP2mApkmOWg3) | [chiara](https://open.spotify.com/artist/4WimfwqguLTlWfpNaaonvG) | [215 fehlstunden](https://open.spotify.com/album/46Vbi8Z2yGVDa3D1k9ZRmD) | 2:31 |

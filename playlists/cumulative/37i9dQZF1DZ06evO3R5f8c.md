@@ -4,7 +4,7 @@
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-101 songs - 12 hr 18 min
+102 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [There's Music in the Air](https://open.spotify.com/track/2Eg5ArHjWEzUMnjishGZQK) | [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [There's Music in the Air](https://open.spotify.com/album/3y0xLQNdKdxlrKzVmmvbYS) | 3:54 | 2024-08-24 |  |
 | [Time \(feat\. Cassie\)](https://open.spotify.com/track/5WHoJSG9bkSJfVlyf3PrqO) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 4:52 | 2022-02-21 | 2022-04-02 |
 | [Traveller \- Extended Mix](https://open.spotify.com/track/3QF8Xtfvgnyk0tRUnDxTFU) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nomsa Mazwai](https://open.spotify.com/artist/4oX9xchwhV2UzF7Wsxoyg5), [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7) | [Traveller \(Extended Mix\)](https://open.spotify.com/album/1CnnR1LNyGFzpcNkrbljoB) | 7:19 | 2021-12-28 |  |
+| [Trippy Yeah](https://open.spotify.com/track/1CM0kiqrtCSHClFjTccTOb) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Trippy Yeah](https://open.spotify.com/album/2kcnbaQIOOEz7zb5yWhVp3) | 3:58 | 2025-06-29 |  |
 | [Turn Me On](https://open.spotify.com/track/1Rat7GGiIeGUvGJSu9Seca) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [XMAS Lounge Tunes \(Special Selected Lounge Tracks for Chilling Under the Christmas Tree\)](https://open.spotify.com/album/2I0vZwlfzDdNu3Feqn45rh) | 7:25 | 2023-05-13 | 2023-10-11 |
 | [Turn Me On](https://open.spotify.com/track/7aUlBqAHppttybHHYrefZk) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Turn Me On / Come To Me](https://open.spotify.com/album/2wVWjbRa5CuecQyf9Iu6en) | 7:25 | 2021-12-28 | 2023-05-14 |
 | [UThando](https://open.spotify.com/track/3wwFFql3qfSd4fxLnTvJdV) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Mbuso Khoza](https://open.spotify.com/artist/0IqdIwmnDCHg3LogqhJvpW) | [Music Is King](https://open.spotify.com/album/7FbVyiO5m2irjYB6t5JYCH) | 6:54 | 2021-12-29 | 2022-01-26 |

@@ -4,7 +4,7 @@
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-105 songs - 5 hr 22 min
+106 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Bitches N Marijuana \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/3PiLfzEXHrvT1oJKR8PAJt) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Fan of A Fan The Album \(Expanded Edition\)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 4:14 | 2023-06-07 |  |
 | [Blessed \(with Tyga\)](https://open.spotify.com/track/3eKLbe124mzIRFPuwCnJAD) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:25 | 2023-06-07 |  |
 | [Booty Dancer](https://open.spotify.com/track/4qdHoLbbIDaaWytfsBK62p) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Booty Dancer](https://open.spotify.com/album/5fG5ECAPTouiAMqHiIjHrP) | 2:20 | 2023-06-07 | 2023-11-11 |
-| [Bops Goin Brazy](https://open.spotify.com/track/1A8bKLSq6A4OboABhnDN6Q) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Bops Goin Brazy](https://open.spotify.com/album/4xmCPyhSVSiLPGpWxrUQ1S) | 2:08 | 2023-09-21 |  |
+| [Bops Goin Brazy](https://open.spotify.com/track/1A8bKLSq6A4OboABhnDN6Q) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Bops Goin Brazy](https://open.spotify.com/album/4xmCPyhSVSiLPGpWxrUQ1S) | 2:08 | 2023-09-21 | 2025-06-29 |
 | [Bouncin On My D\*ck](https://open.spotify.com/track/3xJj1mU7B83yop2dA03Smk) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Dash D Cadet](https://open.spotify.com/artist/60N2qoNBFLTHNSBElNpANC) | [\#BitchImTheShit](https://open.spotify.com/album/6xJC9AbMpm4ebrTWz6Fd5S) | 3:15 | 2024-11-11 | 2025-02-09 |
 | [Brand New](https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Brand New](https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0) | 3:02 | 2023-11-10 |  |
 | [BUTTERFLY COUPE feat\. Tyga](https://open.spotify.com/track/3HCDcijVzbd59yvVn0nLPY) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [BUTTERFLY COUPE feat\. Tyga](https://open.spotify.com/album/4Lm3jQ2K459Vufnq6wHjn4) | 2:44 | 2023-08-09 | 2024-02-29 |
@@ -83,6 +83,7 @@
 | [Pop It Off](https://open.spotify.com/track/41Rb31TeUfCQqSHrPTbsrL) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Pop It Off](https://open.spotify.com/album/2K72Xpc2mhuNAIz2mwcvwt) | 3:09 | 2025-01-27 |  |
 | [Rack City](https://open.spotify.com/track/0srwKuJPH8yBzzFUJMBQM2) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Careless World: Rise Of The Last King](https://open.spotify.com/album/3KHamR7LZmFT0xqPA1Hyob) | 3:23 | 2023-06-07 | 2024-10-28 |
 | [Rack City](https://open.spotify.com/track/7rPLYmabWMobWhoIqZe6rh) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Careless World: Rise Of The Last King](https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva) | 3:28 | 2024-10-28 |  |
+| [Real Deal](https://open.spotify.com/track/5Rv4qhjI9MMJmLpM0iHIKV) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Real Deal \- Single](https://open.spotify.com/album/4QHBlDKmCY3eY4vOwmkmB0) | 3:37 | 2025-06-29 |  |
 | [Ride Out](https://open.spotify.com/track/59PL9AwYjIrIpP04n9gmMR) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Furious 7: Original Motion Picture Soundtrack](https://open.spotify.com/album/7hTMaPfK488vRcC1Ar4bOm) | 3:31 | 2023-06-07 |  |
 | [Rubber Band Man](https://open.spotify.com/track/6D4HaQHb9fWjDn60o98rTO) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Hit Me When U Leave The Klub: The Playlist](https://open.spotify.com/album/46ewpqal8NF1SSkarlK7FZ) | 2:32 | 2023-11-10 | 2023-12-14 |
 | [Run \(feat\. Tyga, 21 Savage & BIA\)](https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Run](https://open.spotify.com/album/7b7CkJuDzMUFt0vbzj0pjv) | 3:57 | 2023-06-07 | 2023-08-07 |

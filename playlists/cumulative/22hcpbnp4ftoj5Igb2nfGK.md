@@ -4,7 +4,7 @@
 
 > pretty flippin&\#x27; peak ;\)
 
-106 songs - 5 hr 48 min
+107 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Kon Queso](https://open.spotify.com/track/13AzkgqOT4PHx5aXxihF0n) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 4:00 | 2025-01-30 |  |
 | [Kookies](https://open.spotify.com/track/5y5hQ3QDzlEq1jotW7chkP) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 4:01 | 2025-01-30 |  |
 | [Lickupon](https://open.spotify.com/track/1wQixSSWydeLgkebOzu3yt) | [Viktor Vaughn](https://open.spotify.com/artist/0wIb0PhwT3disoWykRhq6V), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Vaudeville Villain](https://open.spotify.com/album/7HPjcPD2cr8E5oHvVAmBp7) | 2:44 | 2025-03-04 |  |
+| [Life's a Bitch \(feat\. AZ & Olu Dara\)](https://open.spotify.com/track/2LhhnqrHPWvXYveZVHLKrd) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg), [Olu Dara](https://open.spotify.com/artist/3DQiuEWQzCUET866iZJmQ9) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 3:30 | 2025-06-28 |  |
 | [Lockjaw](https://open.spotify.com/track/6K6rqLZ7PBDx3PNA4snQzK) | [King Geedorah](https://open.spotify.com/artist/77AKJs9SJqxHXbPgtJPKRa), [Trunks](https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch) | [Take Me To Your Leader](https://open.spotify.com/album/1mrhahrlJu5JfzgeV6Cy8t) | 1:03 | 2025-03-06 |  |
 | [Meat Grinder](https://open.spotify.com/track/4WM1hvYr2NC6bQnQXcj3sH) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy](https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk) | 2:11 | 2025-01-13 |  |
 | [Mince Meat](https://open.spotify.com/track/4bCBiFAPiK7rquriyiHByb) | [DANGERDOOM](https://open.spotify.com/artist/0b3fYxnG6tlR0zLtBJd8DF), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [THE MOUSE & THE MASK](https://open.spotify.com/album/6TgkNOiJxeSkVVbXV720B1) | 2:32 | 2025-03-04 |  |

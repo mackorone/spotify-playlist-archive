@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Nina Chuba
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,946 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,080 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [RAGE GIRL](https://open.spotify.com/track/2ghPrJZ7sn1MlyCAUja1C6) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [RAGE GIRL](https://open.spotify.com/album/6LY4dLPFzOWc7NER0ZemqZ) | 2:25 |
 | 2 | [Club Bizarre](https://open.spotify.com/track/4fHug3zCanK33sdvticISi) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Club Bizarre](https://open.spotify.com/album/49CWPw9MGkEvc78gTjLnEe) | 5:00 |
-| 3 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
+| 3 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
 | 4 | [JUNG UND LAUT](https://open.spotify.com/track/2KwZW6UCEAU7QKhJ4CMv7w) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA) | [JUNG UND LAUT](https://open.spotify.com/album/08B45JmktY64hHeKw98X4g) | 2:38 |
 | 5 | [was du für mich bist \- vip](https://open.spotify.com/track/1so709pQCdpjJMkxoZp4XL) | [OTIS](https://open.spotify.com/artist/5UhU0sGRQAyORoDKIoaoXn), [NØAH](https://open.spotify.com/artist/6aFGdXHBKah1nyrqrGryuE) | [was du für mich bist \(vip\)](https://open.spotify.com/album/225NCR3Sct0iEeSC9HSdcZ) | 3:12 |
 | 6 | [Goldman Sachs](https://open.spotify.com/track/1Nk3zGtszA6KjOOQmb6VBg) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf) | [Wenn nichts von nichts kommt, woher komm' ich dann?](https://open.spotify.com/album/7tbvzRYaE8XFo3H8crvE8b) | 2:52 |

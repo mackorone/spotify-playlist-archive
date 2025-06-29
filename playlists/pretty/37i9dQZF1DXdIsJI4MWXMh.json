@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 74216,
+  "num_followers": 74246,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,22 @@
     {
       "added_at": "2025-06-13 11:46:14",
       "album": {
+        "name": "TEQUILA Y RON",
+        "url": "https://open.spotify.com/album/2C6JZAGFsgvtd0FDqHrZNX"
+      },
+      "artists": [
+        {
+          "name": "Maria Jose Quintanilla",
+          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
+        }
+      ],
+      "duration_ms": 160512,
+      "name": "Tequila Y Ron",
+      "url": "https://open.spotify.com/track/6lcF2tjoK1kLwlxYdGRIkw"
+    },
+    {
+      "added_at": "2025-06-13 11:46:14",
+      "album": {
         "name": "Por una Yegua No Se para la Trilla",
         "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 252651,
       "name": "Deja de Llorar",
       "url": "https://open.spotify.com/track/6uFhH3AMgjOfIbMmnH7XA2"
-    },
-    {
-      "added_at": "2025-06-13 11:46:14",
-      "album": {
-        "name": "TEQUILA Y RON",
-        "url": "https://open.spotify.com/album/2C6JZAGFsgvtd0FDqHrZNX"
-      },
-      "artists": [
-        {
-          "name": "Maria Jose Quintanilla",
-          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
-        }
-      ],
-      "duration_ms": 160512,
-      "name": "Tequila Y Ron",
-      "url": "https://open.spotify.com/track/6lcF2tjoK1kLwlxYdGRIkw"
     },
     {
       "added_at": "2025-06-13 11:46:14",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-06-13 11:46:14",
       "album": {
-        "name": "Rom\u00e1nticos De La Cumbia",
-        "url": "https://open.spotify.com/album/6kKzbk6N2ETObv20GHtUU3"
-      },
-      "artists": [
-        {
-          "name": "Los Supercumbieros de Galvarino",
-          "url": "https://open.spotify.com/artist/4oRCNvfODxOI6kQ8dLdcq9"
-        }
-      ],
-      "duration_ms": 283637,
-      "name": "L\u00e1grimas Frente Al Mar",
-      "url": "https://open.spotify.com/track/2ViguB6mM2tIdesiPtowFV"
-    },
-    {
-      "added_at": "2025-06-13 11:46:14",
-      "album": {
         "name": "El Intruso",
         "url": "https://open.spotify.com/album/2oFmdj1zogoYfH39ygi1lz"
       },
@@ -967,6 +951,22 @@
     {
       "added_at": "2025-06-13 11:46:14",
       "album": {
+        "name": "Qu\u00e9date con el",
+        "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
+      },
+      "artists": [
+        {
+          "name": "Sin Rivales de Punitaqui",
+          "url": "https://open.spotify.com/artist/5Z5cJSVcSJYXufu4wuF2KL"
+        }
+      ],
+      "duration_ms": 328974,
+      "name": "Ahora por unas monedas",
+      "url": "https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ"
+    },
+    {
+      "added_at": "2025-06-13 11:46:14",
+      "album": {
         "name": "Lo Mejor 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/2aXbc0E0847VqiSWrbsVc4"
       },
@@ -983,18 +983,18 @@
     {
       "added_at": "2025-06-13 11:46:14",
       "album": {
-        "name": "Qu\u00e9date con el",
-        "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
+        "name": "Rom\u00e1nticos De La Cumbia",
+        "url": "https://open.spotify.com/album/6kKzbk6N2ETObv20GHtUU3"
       },
       "artists": [
         {
-          "name": "Sin Rivales de Punitaqui",
-          "url": "https://open.spotify.com/artist/5Z5cJSVcSJYXufu4wuF2KL"
+          "name": "Los Supercumbieros de Galvarino",
+          "url": "https://open.spotify.com/artist/4oRCNvfODxOI6kQ8dLdcq9"
         }
       ],
-      "duration_ms": 328974,
-      "name": "Ahora por unas monedas",
-      "url": "https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ"
+      "duration_ms": 283637,
+      "name": "L\u00e1grimas Frente Al Mar",
+      "url": "https://open.spotify.com/track/2ViguB6mM2tIdesiPtowFV"
     },
     {
       "added_at": "2025-06-13 11:46:14",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-06-13 11:46:14",
       "album": {
-        "name": "\u00c9xitos de Antolog\u00eda",
-        "url": "https://open.spotify.com/album/33u15Nq63kyMnEpA0XBGee"
-      },
-      "artists": [
-        {
-          "name": "Los Manantiales",
-          "url": "https://open.spotify.com/artist/576SVashrrxz5pBVPgwFCL"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Las Flores de Tu Florero",
-      "url": "https://open.spotify.com/track/7oW3MKXuQQw4JlAy6WeaHL"
-    },
-    {
-      "added_at": "2025-06-13 11:46:14",
-      "album": {
         "name": "A Trav\u00e9s del Vaso / Cuerpo de Sirena / La Misma (\u00c9xitos Festivos 2021- 2022)",
         "url": "https://open.spotify.com/album/07Ztp63QO86WY8m2XehreY"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 494471,
       "name": "A Trav\u00e9s del Vaso / Cuerpo de Sirena / La Misma (\u00c9xitos Festivos 2021- 2022)",
       "url": "https://open.spotify.com/track/2nzHumHZo0aDR0A5nPM1Su"
+    },
+    {
+      "added_at": "2025-06-13 11:46:14",
+      "album": {
+        "name": "\u00c9xitos de Antolog\u00eda",
+        "url": "https://open.spotify.com/album/33u15Nq63kyMnEpA0XBGee"
+      },
+      "artists": [
+        {
+          "name": "Los Manantiales",
+          "url": "https://open.spotify.com/artist/576SVashrrxz5pBVPgwFCL"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Las Flores de Tu Florero",
+      "url": "https://open.spotify.com/track/7oW3MKXuQQw4JlAy6WeaHL"
     },
     {
       "added_at": "2025-06-13 11:46:14",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2025-06-13 11:46:14",
       "album": {
+        "name": "Entre el Amor y el Odio",
+        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
+      },
+      "artists": [
+        {
+          "name": "Lupita Aguilar",
+          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
+        }
+      ],
+      "duration_ms": 188577,
+      "name": "Mi Complice",
+      "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
+    },
+    {
+      "added_at": "2025-06-13 11:46:14",
+      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/1qE854buRuUPuvoHNkgb7I"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 235600,
       "name": "Golpes y Besos",
       "url": "https://open.spotify.com/track/0RnzGw4vP6XEZbEIHOPFNT"
-    },
-    {
-      "added_at": "2025-06-13 11:46:14",
-      "album": {
-        "name": "Entre el Amor y el Odio",
-        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
-      },
-      "artists": [
-        {
-          "name": "Lupita Aguilar",
-          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
-        }
-      ],
-      "duration_ms": 188577,
-      "name": "Mi Complice",
-      "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
     },
     {
       "added_at": "2025-06-13 11:46:14",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2025-06-13 11:46:14",
       "album": {
-        "name": "Golero Emparamao",
-        "url": "https://open.spotify.com/album/35DKFImacmTdYePcu2utI7"
+        "name": "El Sol No Regresa",
+        "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
       },
       "artists": [
         {
-          "name": "Koky y su banda tropical ranchera",
-          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
+          "name": "LOS FLORES DE YUNGAY",
+          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
         }
       ],
-      "duration_ms": 268324,
-      "name": "Golero Emparamao",
-      "url": "https://open.spotify.com/track/6gOBJrl6mbrtr5NUFaTbYj"
+      "duration_ms": 174474,
+      "name": "El Sol No Regresa",
+      "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
     },
     {
       "added_at": "2025-06-13 11:46:14",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2025-06-13 11:46:14",
       "album": {
-        "name": "El Sol No Regresa",
-        "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
+        "name": "Golero Emparamao",
+        "url": "https://open.spotify.com/album/35DKFImacmTdYePcu2utI7"
       },
       "artists": [
         {
-          "name": "LOS FLORES DE YUNGAY",
-          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
+          "name": "Koky y su banda tropical ranchera",
+          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
         }
       ],
-      "duration_ms": 174474,
-      "name": "El Sol No Regresa",
-      "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
+      "duration_ms": 268324,
+      "name": "Golero Emparamao",
+      "url": "https://open.spotify.com/track/6gOBJrl6mbrtr5NUFaTbYj"
     },
     {
       "added_at": "2025-06-13 11:46:14",

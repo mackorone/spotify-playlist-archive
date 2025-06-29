@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 226846,
+  "num_followers": 226852,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAADO4E5G6BDf71wLcoCfRD2/",
+  "snapshot_id": "aF3fAAAAAAB5Q/zk0m4u2LSzq/thXULI",
   "tracks": [
     {
       "added_at": null,
@@ -31,30 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 264946,
-      "name": "Loyal (feat. Lil Wayne & Tyga)",
-      "url": "https://open.spotify.com/track/5BrTUo0xP1wKXLJWUaGFtk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -75,6 +51,30 @@
       "duration_ms": 185194,
       "name": "Loco Contigo (feat. J. Balvin & Tyga)",
       "url": "https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 264946,
+      "name": "Loyal (feat. Lil Wayne & Tyga)",
+      "url": "https://open.spotify.com/track/5BrTUo0xP1wKXLJWUaGFtk"
     },
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "California (from Songland) (feat. Tyga)",
-        "url": "https://open.spotify.com/album/2sFKXPYFWzNr3LGz9CaPzf"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 175179,
-      "name": "California (from Songland) (feat. Tyga)",
-      "url": "https://open.spotify.com/track/0TLnTwqXslKsovat4bz0jp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like It Is",
         "url": "https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 183067,
       "name": "Like It Is",
       "url": "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "California (from Songland) (feat. Tyga)",
+        "url": "https://open.spotify.com/album/2sFKXPYFWzNr3LGz9CaPzf"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 175179,
+      "name": "California (from Songland) (feat. Tyga)",
+      "url": "https://open.spotify.com/track/0TLnTwqXslKsovat4bz0jp"
     },
     {
       "added_at": null,
@@ -1063,8 +1063,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bops Goin Brazy",
-        "url": "https://open.spotify.com/album/4xmCPyhSVSiLPGpWxrUQ1S"
+        "name": "Real Deal - Single",
+        "url": "https://open.spotify.com/album/4QHBlDKmCY3eY4vOwmkmB0"
       },
       "artists": [
         {
@@ -1072,9 +1072,9 @@
           "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 128367,
-      "name": "Bops Goin Brazy",
-      "url": "https://open.spotify.com/track/1A8bKLSq6A4OboABhnDN6Q"
+      "duration_ms": 217286,
+      "name": "Real Deal",
+      "url": "https://open.spotify.com/track/5Rv4qhjI9MMJmLpM0iHIKV"
     }
   ],
   "unique_name": "This Is Tyga",

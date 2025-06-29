@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Silvana Estrada",
-  "num_followers": 28345,
+  "num_followers": 28355,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,26 @@
     {
       "added_at": "2025-06-27 04:00:43",
       "album": {
+        "name": "So\u00f1\u00e9 Contigo",
+        "url": "https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 211935,
+      "name": "So\u00f1\u00e9 Contigo",
+      "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
+    },
+    {
+      "added_at": "2025-06-27 04:00:43",
+      "album": {
         "name": "Vulnerables",
         "url": "https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 210440,
       "name": "El Baile",
       "url": "https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS"
-    },
-    {
-      "added_at": "2025-06-27 04:00:43",
-      "album": {
-        "name": "So\u00f1\u00e9 Contigo",
-        "url": "https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        },
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 211935,
-      "name": "So\u00f1\u00e9 Contigo",
-      "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
     },
     {
       "added_at": "2025-06-27 04:00:43",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-06-27 04:00:43",
       "album": {
-        "name": "\u00bfC\u00f3mo decir adi\u00f3s?",
-        "url": "https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T"
-      },
-      "artists": [
-        {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
-        }
-      ],
-      "duration_ms": 156610,
-      "name": "Atardeci\u00f3 sin vos",
-      "url": "https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF"
-    },
-    {
-      "added_at": "2025-06-27 04:00:43",
-      "album": {
         "name": "Balboa",
         "url": "https://open.spotify.com/album/5Tpwq4dowN61wcGVAbO79I"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 192419,
       "name": "julia",
       "url": "https://open.spotify.com/track/6hjWNJFzuqXfBT0DDJORYS"
+    },
+    {
+      "added_at": "2025-06-27 04:00:43",
+      "album": {
+        "name": "\u00bfC\u00f3mo decir adi\u00f3s?",
+        "url": "https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 156610,
+      "name": "Atardeci\u00f3 sin vos",
+      "url": "https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF"
     },
     {
       "added_at": "2025-06-27 04:00:43",
@@ -915,8 +915,8 @@
     {
       "added_at": "2025-06-27 04:00:43",
       "album": {
-        "name": "Mi Ni\u00f1a",
-        "url": "https://open.spotify.com/album/1ah8BEG2gPDU2JnQ38Fu2m"
+        "name": "Tu Fantasma",
+        "url": "https://open.spotify.com/album/0cFzIQagqP392WScfEooRw"
       },
       "artists": [
         {
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
         }
       ],
-      "duration_ms": 237596,
-      "name": "Mi Ni\u00f1a",
-      "url": "https://open.spotify.com/track/3Gl6n3cLCPPwlgWXGy7KOT"
+      "duration_ms": 191198,
+      "name": "Tu Fantasma",
+      "url": "https://open.spotify.com/track/3RdxaQyDTWu6QmDakA7uTd"
     },
     {
       "added_at": "2025-06-27 04:00:43",
@@ -943,6 +943,22 @@
       "duration_ms": 165032,
       "name": "Laberinto",
       "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
+    },
+    {
+      "added_at": "2025-06-27 04:00:43",
+      "album": {
+        "name": "Qu\u00e9 Tal",
+        "url": "https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Santamaria",
+          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+        }
+      ],
+      "duration_ms": 164266,
+      "name": "Qu\u00e9 Tal",
+      "url": "https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV"
     },
     {
       "added_at": "2025-06-27 04:00:43",
@@ -991,18 +1007,18 @@
     {
       "added_at": "2025-06-27 04:00:43",
       "album": {
-        "name": "Qu\u00e9 Tal",
-        "url": "https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7"
+        "name": "Mi Ni\u00f1a",
+        "url": "https://open.spotify.com/album/1ah8BEG2gPDU2JnQ38Fu2m"
       },
       "artists": [
         {
-          "name": "Alejandro Santamaria",
-          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
         }
       ],
-      "duration_ms": 164266,
-      "name": "Qu\u00e9 Tal",
-      "url": "https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV"
+      "duration_ms": 237596,
+      "name": "Mi Ni\u00f1a",
+      "url": "https://open.spotify.com/track/3Gl6n3cLCPPwlgWXGy7KOT"
     },
     {
       "added_at": "2025-06-27 04:00:43",
@@ -1167,6 +1183,22 @@
     {
       "added_at": "2025-06-27 04:00:43",
       "album": {
+        "name": "Todo alrededor",
+        "url": "https://open.spotify.com/album/1c33eptv7tyacbAgU9X6rO"
+      },
+      "artists": [
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+        }
+      ],
+      "duration_ms": 248937,
+      "name": "Somos raros",
+      "url": "https://open.spotify.com/track/7vqd25RugFisRuScw3xSyq"
+    },
+    {
+      "added_at": "2025-06-27 04:00:43",
+      "album": {
         "name": "Poquitito de T\u00e9",
         "url": "https://open.spotify.com/album/33Lfsyt0a5KclNLF2gPRAH"
       },
@@ -1195,22 +1227,6 @@
       "duration_ms": 218533,
       "name": "Aguaceros",
       "url": "https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX"
-    },
-    {
-      "added_at": "2025-06-27 04:00:43",
-      "album": {
-        "name": "Todo alrededor",
-        "url": "https://open.spotify.com/album/1c33eptv7tyacbAgU9X6rO"
-      },
-      "artists": [
-        {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
-        }
-      ],
-      "duration_ms": 248937,
-      "name": "Somos raros",
-      "url": "https://open.spotify.com/track/7vqd25RugFisRuScw3xSyq"
     },
     {
       "added_at": "2025-06-27 04:00:43",
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2025-06-27 04:00:43",
       "album": {
-        "name": "Instantes y Aullidos",
-        "url": "https://open.spotify.com/album/7FHSfjRkiYxyZ9keRX0r2Q"
-      },
-      "artists": [
-        {
-          "name": "Tom\u00e1s del Real",
-          "url": "https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v"
-        }
-      ],
-      "duration_ms": 300114,
-      "name": "Instantes y Aullidos",
-      "url": "https://open.spotify.com/track/5RMNO57A2o5QYj7amonXVE"
-    },
-    {
-      "added_at": "2025-06-27 04:00:43",
-      "album": {
         "name": "OTRX",
         "url": "https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly"
       },
@@ -1299,6 +1299,22 @@
       "duration_ms": 175412,
       "name": "Ficci\u00f3n",
       "url": "https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj"
+    },
+    {
+      "added_at": "2025-06-27 04:00:43",
+      "album": {
+        "name": "Instantes y Aullidos",
+        "url": "https://open.spotify.com/album/7FHSfjRkiYxyZ9keRX0r2Q"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1s del Real",
+          "url": "https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v"
+        }
+      ],
+      "duration_ms": 300114,
+      "name": "Instantes y Aullidos",
+      "url": "https://open.spotify.com/track/5RMNO57A2o5QYj7amonXVE"
     },
     {
       "added_at": "2025-06-27 04:00:43",
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2025-06-27 04:00:43",
       "album": {
-        "name": "Escuchado",
-        "url": "https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "Escuchado",
-      "url": "https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf"
-    },
-    {
-      "added_at": "2025-06-27 04:00:43",
-      "album": {
         "name": "Cruel",
         "url": "https://open.spotify.com/album/6sQm9L7CZiYSYdy8EZBENA"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 224587,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/6uEp0bnK53pn0RKs5575wK"
+    },
+    {
+      "added_at": "2025-06-27 04:00:43",
+      "album": {
+        "name": "Escuchado",
+        "url": "https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "Escuchado",
+      "url": "https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf"
     },
     {
       "added_at": "2025-06-27 04:00:43",
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2025-06-27 04:00:43",
       "album": {
-        "name": "Tu mirar",
-        "url": "https://open.spotify.com/album/3WUjsvkyxszrRvahbUR4ae"
-      },
-      "artists": [
-        {
-          "name": "Sara S\u00edstole",
-          "url": "https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8"
-        }
-      ],
-      "duration_ms": 162661,
-      "name": "Tu mirar",
-      "url": "https://open.spotify.com/track/4at07WEnwnZhY9j3FiJeRd"
-    },
-    {
-      "added_at": "2025-06-27 04:00:43",
-      "album": {
         "name": "Estrellas En El Mar",
         "url": "https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N"
       },
@@ -1647,6 +1647,22 @@
       "duration_ms": 251040,
       "name": "Estrellas En El Mar",
       "url": "https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p"
+    },
+    {
+      "added_at": "2025-06-27 04:00:43",
+      "album": {
+        "name": "Tu mirar",
+        "url": "https://open.spotify.com/album/3WUjsvkyxszrRvahbUR4ae"
+      },
+      "artists": [
+        {
+          "name": "Sara S\u00edstole",
+          "url": "https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8"
+        }
+      ],
+      "duration_ms": 162661,
+      "name": "Tu mirar",
+      "url": "https://open.spotify.com/track/4at07WEnwnZhY9j3FiJeRd"
     },
     {
       "added_at": "2025-06-27 04:00:43",
@@ -1699,22 +1715,6 @@
       "duration_ms": 180103,
       "name": "Ahi Estar\u00e9",
       "url": "https://open.spotify.com/track/2aEDaXZ9YCUxXyYVkCJGp0"
-    },
-    {
-      "added_at": "2025-06-27 04:00:43",
-      "album": {
-        "name": "Ganas de Dejarte",
-        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
-      },
-      "artists": [
-        {
-          "name": "Olivia Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
-        }
-      ],
-      "duration_ms": 140286,
-      "name": "Ganas de Dejarte",
-      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
     }
   ],
   "unique_name": "Latin Folk",

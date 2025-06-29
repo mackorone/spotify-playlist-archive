@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Martox.
 
-894 songs - 2 day 0 hr 13 min
+895 songs - 2 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,7 @@
 | [escribiendo TKM](https://open.spotify.com/track/5m3GrJudqpsH6q66P0Ch8w) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [escribiendo TKM](https://open.spotify.com/album/6Pe75DwNVa2GbrNHentgGO) | 2:25 | 2024-01-12 | 2024-02-24 |
 | [Escudo](https://open.spotify.com/track/13z5gkVyAKUUWb0Enb0tDQ) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Escudo](https://open.spotify.com/album/3rCucNvlPnzPoUThvAbY8j) | 2:51 | 2024-10-11 |  |
 | [Escándalo](https://open.spotify.com/track/5rZ4PCqytdmyY44GmUP04w) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Escándalo](https://open.spotify.com/album/6Mp58UKdaVCgx0q2QzT3p4) | 2:31 | 2024-07-12 | 2025-05-25 |
-| [Eso Que Tú Llamas Amor](https://open.spotify.com/track/5wg3327utYfdvkoXqWf86d) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Eso Que Tú Llamas Amor](https://open.spotify.com/album/3i8ucjU1mdD5JrH4jqtFpu) | 2:55 | 2025-02-14 |  |
+| [Eso Que Tú Llamas Amor](https://open.spotify.com/track/5wg3327utYfdvkoXqWf86d) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Eso Que Tú Llamas Amor](https://open.spotify.com/album/3i8ucjU1mdD5JrH4jqtFpu) | 2:55 | 2025-02-14 | 2025-06-29 |
 | [Estrelar](https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Marcos Valle](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe) | 5:13 | 2023-09-29 | 2023-10-14 |
 | [estrella](https://open.spotify.com/track/5ovyRiDD5WWzqsMky8cIBK) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [estrella / nadie](https://open.spotify.com/album/7yHxJ0M0AmGms2zmg5AjR5) | 2:46 | 2023-10-13 | 2024-01-13 |
 | [Estrellas en la Oscuridad](https://open.spotify.com/track/5x8067jSWiCT7BXWsWPxia) | [Molinette Cinema](https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7) | [El Abismo](https://open.spotify.com/album/6s6Mxa7bn8FYGWKQzgoOWc) | 3:43 | 2024-02-09 | 2024-07-13 |
@@ -772,6 +772,7 @@
 | [Sí o No?](https://open.spotify.com/track/3Tap6ssIsXNmfRfnO5eRwK) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Sí o No?](https://open.spotify.com/album/4tPyW25KWkV4kedG4OsQgf) | 3:01 | 2023-07-07 | 2023-07-22 |
 | [T siento RARA](https://open.spotify.com/track/1YuqSddupYzGZYrOke88D1) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [T siento RARA](https://open.spotify.com/album/5ZieWnajGvBE0OmLqXlPnn) | 2:09 | 2024-08-23 | 2024-09-21 |
 | [Tal Vez](https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:23 | 2022-01-24 | 2022-04-20 |
+| [talk](https://open.spotify.com/track/5kTHoxckjY24DWgIX6mnNR) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [talk](https://open.spotify.com/album/1v5MxGxLHcJEMlA6N67bqx) | 2:40 | 2025-06-27 |  |
 | [Tamagotchi](https://open.spotify.com/track/2avRIlZPDXdDOdPIgCcKq3) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Tamagotchi](https://open.spotify.com/album/0MM5hDVs7QreQVGTi1hkJd) | 2:48 | 2022-03-31 | 2022-04-20 |
 | [También de dolor se canta](https://open.spotify.com/track/5vLTaMcdh1Dix7hgVgmHpj) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [También de dolor se canta](https://open.spotify.com/album/3Sdg3x71MeUlOVRbBz4Hdl) | 3:28 | 2024-05-17 | 2024-12-07 |
 | [Tarde](https://open.spotify.com/track/1RexoAXAuSgstu2LRsLuh8) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Babi](https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr) | 3:25 | 2023-12-08 | 2024-03-07 |

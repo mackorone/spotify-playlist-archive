@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like this\. cover: sombr
 
-913 songs - 2 day 2 hr 18 min
+914 songs - 2 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,6 +618,7 @@
 | [Oh Love](https://open.spotify.com/track/28Obqqr7EtnSNul1TJiQcX) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Oh Love](https://open.spotify.com/album/3LnydTYoQ2XGDZCCC6cOcn) | 2:44 | 2022-04-29 | 2022-05-03 |
 | [Older](https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY) | 3:21 | 2024-02-16 | 2024-04-27 |
 | [Older](https://open.spotify.com/track/3kywzyEr7V106Un5cDyh12) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Loser](https://open.spotify.com/album/7qUpf1A0w5hh4Do5SLRYjP) | 3:04 | 2021-12-17 |  |
+| [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 | 2025-06-27 |  |
 | [One Man Show](https://open.spotify.com/track/3cv94ffVsAqitFcbwlr2CV) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [One Man Show](https://open.spotify.com/album/58GUyjbezG6kYGisHTNcBy) | 2:58 | 2024-02-23 | 2024-07-05 |
 | [One More Shot](https://open.spotify.com/track/54SXW7yYS36p8rOMFGmcoN) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot \(One Take Version\)](https://open.spotify.com/album/1mgYvDEkZoWqoNjnMU6QhI) | 2:21 | 2023-06-16 | 2024-04-19 |
 | [One More Shot](https://open.spotify.com/track/5lsSHLrIl01eG4HHXhvxRZ) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot](https://open.spotify.com/album/0E4WDS5jvqo0AlRtUAeSyM) | 2:21 | 2023-01-20 | 2025-05-03 |
@@ -894,7 +895,7 @@
 | [Wish I Didn't Care \(feat\. Lyn Lapid\)](https://open.spotify.com/track/3xRv1YmKy2yy0JPqcpaZrW) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [House on a Hill \(Deluxe\)](https://open.spotify.com/album/2nEiTXt1gKL9ejJaQRhwic) | 2:40 | 2024-05-10 | 2024-07-19 |
 | [wish i loved you in the 90s](https://open.spotify.com/track/2wkIdVB8HsWyMur3Q4shlZ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:56 | 2021-12-17 | 2022-12-17 |
 | [Wish I Would](https://open.spotify.com/track/74L8tOCvVdsJWNVdITjCMs) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Wish I Would](https://open.spotify.com/album/40J0A5q18GIfTwPFZ5lDjI) | 3:56 | 2022-01-28 | 2022-02-05 |
-| [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-04-14 |  |
+| [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-04-14 | 2025-06-29 |
 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 | 2023-04-28 | 2024-04-19 |
 | [wish you were here](https://open.spotify.com/track/0DEVHeqxATyAmwUMFGFTfv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wish you were here](https://open.spotify.com/album/30ssp982Ym9GCQstBVvEve) | 3:22 | 2021-12-17 | 2021-12-25 |
 | [With You](https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [With You](https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x) | 3:09 | 2025-01-10 |  |

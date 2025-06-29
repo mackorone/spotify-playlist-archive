@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAACBwW2ZTvLO8jf7w4Q7HbnM",
+  "snapshot_id": "aF3fAAAAAAADz9PLTjXJdnU5fSGQijdR",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEST -E-",
-        "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 380653,
-      "name": "\u30af\u30ed\u30a4\u30a6\u30bf",
-      "url": "https://open.spotify.com/track/2BhzgvThTqaQpDBr1fmkM8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u9752\u304f\u3001\u9752\u304f",
         "url": "https://open.spotify.com/album/0gnXedu8kjG7R8XPdDpREc"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 272300,
       "name": "\u9752\u304f\u3001\u9752\u304f",
       "url": "https://open.spotify.com/track/4x8y91an0erARwUUTifXWP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BEST -E-",
+        "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 380653,
+      "name": "\u30af\u30ed\u30a4\u30a6\u30bf",
+      "url": "https://open.spotify.com/track/2BhzgvThTqaQpDBr1fmkM8"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INNOCENCE",
-        "url": "https://open.spotify.com/album/44tCGweHm2ZAHeGYud3UKI"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 279080,
-      "name": "dear brightness",
-      "url": "https://open.spotify.com/track/3ThZkUIeOfcI7pE8BBZ2rV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30a2\u30c8\u30c3\u30af",
         "url": "https://open.spotify.com/album/03nazQKVW3vGbmLAOYvnzO"
       },
@@ -531,22 +515,6 @@
       "duration_ms": 251404,
       "name": "\u30a2\u30c8\u30c3\u30af",
       "url": "https://open.spotify.com/track/0vWlopeKCm1atNKaTv1Bhg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30a2\u30af\u30bb\u30f3\u30c6\u30a3\u30a2",
-        "url": "https://open.spotify.com/album/1l1C3kJKVLamC0jevsP4Xo"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 269253,
-      "name": "Close Friend",
-      "url": "https://open.spotify.com/track/0S58WfNGli8Ik6pxCbXowy"
     },
     {
       "added_at": null,
@@ -567,6 +535,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "INNOCENCE",
+        "url": "https://open.spotify.com/album/44tCGweHm2ZAHeGYud3UKI"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 279080,
+      "name": "dear brightness",
+      "url": "https://open.spotify.com/track/3ThZkUIeOfcI7pE8BBZ2rV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30a2\u30af\u30bb\u30f3\u30c6\u30a3\u30a2",
+        "url": "https://open.spotify.com/album/1l1C3kJKVLamC0jevsP4Xo"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 269253,
+      "name": "Close Friend",
+      "url": "https://open.spotify.com/track/0S58WfNGli8Ik6pxCbXowy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PHOENIX PRAYER",
         "url": "https://open.spotify.com/album/3sF10xHFVzOntlAtqkuB3Q"
       },
@@ -579,38 +579,6 @@
       "duration_ms": 252775,
       "name": "PHOENIX PRAYER",
       "url": "https://open.spotify.com/track/034PmlTJzGmjITEBl80ya8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KALEIDOSCOPE",
-        "url": "https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "\u30ed\u30bc",
-      "url": "https://open.spotify.com/track/2Je51HC5BEKT6xJEzS4iHt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BEST -E-",
-        "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 236066,
-      "name": "HaNaZaKaRi",
-      "url": "https://open.spotify.com/track/5m4gR2VFdKCu9L9Hzw7fH9"
     },
     {
       "added_at": null,
@@ -631,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FRAGMENT \uff08Special Edition\uff09",
-        "url": "https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO"
+        "name": "BEST -E-",
+        "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
       },
       "artists": [
         {
@@ -640,9 +608,25 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "duration_ms": 252533,
-      "name": "FROATIN'",
-      "url": "https://open.spotify.com/track/712XBKRZlVW0MqXyXPbUMl"
+      "duration_ms": 236066,
+      "name": "HaNaZaKaRi",
+      "url": "https://open.spotify.com/track/5m4gR2VFdKCu9L9Hzw7fH9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KALEIDOSCOPE",
+        "url": "https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "\u30ed\u30bc",
+      "url": "https://open.spotify.com/track/2Je51HC5BEKT6xJEzS4iHt"
     },
     {
       "added_at": null,
@@ -695,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FRAGMENT \uff08Special Edition\uff09",
+        "url": "https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 252533,
+      "name": "FROATIN'",
+      "url": "https://open.spotify.com/track/712XBKRZlVW0MqXyXPbUMl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BLAU",
         "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
       },
@@ -707,6 +707,22 @@
       "duration_ms": 289346,
       "name": "\u30a2\u30f4\u30a1\u30ed\u30f3\u30fb\u30d6\u30eb\u30fc",
       "url": "https://open.spotify.com/track/67D8rjvrqjb8XoF9S1Pak7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30a2\u30a4\u30ea\u30b9",
+        "url": "https://open.spotify.com/album/1YBe42P8dq3C7kcb07y328"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 252106,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/3QUcxSheSRbPD6mI91VwST"
     },
     {
       "added_at": null,
@@ -743,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30a2\u30a4\u30ea\u30b9",
-        "url": "https://open.spotify.com/album/1YBe42P8dq3C7kcb07y328"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 252106,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/3QUcxSheSRbPD6mI91VwST"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BLAU",
         "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IGNITE",
-        "url": "https://open.spotify.com/album/4fGKgbMhkwR26lTC8GTFGB"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 198133,
-      "name": "Brainwash",
-      "url": "https://open.spotify.com/track/07n5LpytLdZuKDAurEo1wp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D'AZUR",
         "url": "https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 360933,
       "name": "\u9752\u306e\u4e16\u754c",
       "url": "https://open.spotify.com/track/7LWlnwNCg5OtJynBCSqxzG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IGNITE",
+        "url": "https://open.spotify.com/album/4fGKgbMhkwR26lTC8GTFGB"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "Brainwash",
+      "url": "https://open.spotify.com/track/07n5LpytLdZuKDAurEo1wp"
     },
     {
       "added_at": null,

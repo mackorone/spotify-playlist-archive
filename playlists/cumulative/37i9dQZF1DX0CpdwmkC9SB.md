@@ -4,7 +4,7 @@
 
 > The biggest festival of the year\. The official playlist for Glastonbury 2025.
 
-686 songs - 1 day 22 hr 51 min
+687 songs - 1 day 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,7 @@
 | [I Need A Dollar](https://open.spotify.com/track/1mWVesRiDMgR5v7Umv1DBC) | [Ed Solo](https://open.spotify.com/artist/7jnJgk7LLLdpPhXrOOZXCa), [Deekline](https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7) | [I Need A Dollar](https://open.spotify.com/album/0BtDqGFupFyeptvx37fdLF) | 5:11 | 2024-05-31 | 2025-03-07 |
 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 | 2024-05-31 | 2025-03-07 |
 | [I Need That Music](https://open.spotify.com/track/2ceasXaOyXKQmGiv8qy8pf) | [Elliot Schooling](https://open.spotify.com/artist/6kxjV47PkAw81io31d6OWu) | [Disco Riddims EP](https://open.spotify.com/album/1d6SBe7AOjxkLnaTtcbaZJ) | 6:24 | 2025-04-27 | 2025-06-07 |
-| [I Want My Minutes Back](https://open.spotify.com/track/0R5DSabbpFQs0wPcOdVGAI) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Come Play the Trees](https://open.spotify.com/album/4qu6XbO9yy990D0bgBDVoY) | 4:07 | 2025-04-04 |  |
+| [I Want My Minutes Back](https://open.spotify.com/track/0R5DSabbpFQs0wPcOdVGAI) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Come Play the Trees](https://open.spotify.com/album/4qu6XbO9yy990D0bgBDVoY) | 4:07 | 2025-04-04 | 2025-06-29 |
 | [I Wish A Bitch Would](https://open.spotify.com/track/4TrP8DfxX2UQwYEgy9vrkY) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Wish A Bitch Would](https://open.spotify.com/album/4RSPZDisdB5mosSaFQn5mw) | 3:26 | 2024-05-31 | 2025-03-07 |
 | [I'm The Man](https://open.spotify.com/track/7FTcFMNq4dfGY7ZA1oiODp) | [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta) | [TO LOVE IS TO LIVE](https://open.spotify.com/album/3NhHLC5NTb9mPBxUyTquam) | 2:39 | 2025-04-27 | 2025-06-07 |
 | [I'm Your Mama](https://open.spotify.com/track/002LS9B1Iu3czYhi0TLDm1) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [I'm Your Mama](https://open.spotify.com/album/0NJV0HLBF9A373sMVcf6g0) | 1:21 | 2025-04-04 |  |
@@ -577,6 +577,7 @@
 | [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 | 2024-05-31 | 2025-03-07 |
 | [Superstylin'](https://open.spotify.com/track/2yWyFT6bW1Rd9cjVvYi4v8) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Goodbye Country \(Hello Nightclub\)](https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6) | 6:00 | 2024-05-31 |  |
 | [Suro Nipa](https://open.spotify.com/track/42eaD83n4asr182640omwf) | [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi), [The Zongo Brigade](https://open.spotify.com/artist/0smAHgNDEZESnCeJmPkWAd) | [Wahala Wahala](https://open.spotify.com/album/22XXhVeSGCXe4WDPaSYFLK) | 6:01 | 2025-04-27 | 2025-06-07 |
+| [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 | 2025-06-27 |  |
 | [Switch It](https://open.spotify.com/track/16KkXOwnhphSlaqdZEd83Q) | [Dual Monitor](https://open.spotify.com/artist/3ETLghVuVXTQA2nPzfdgFz) | [HARD19](https://open.spotify.com/album/2QzKraGVJfEJvgCrMlUpPV) | 4:07 | 2025-04-04 | 2025-06-07 |
 | [Switch Over](https://open.spotify.com/track/1SFVei3ZUf3EuJdvKqmGKv) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 3:05 | 2025-05-16 | 2025-06-07 |
 | [Tacken](https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Extended](https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC) | 3:20 | 2025-04-04 | 2025-06-07 |

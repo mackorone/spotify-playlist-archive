@@ -4,7 +4,7 @@
 
 > Sommeren er her!🍹
 
-227 songs - 11 hr 48 min
+229 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Faster](https://open.spotify.com/track/6clUgF41q59lyD2MYx3B74) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Woods](https://open.spotify.com/album/20f0ocH7TUh6Lv2cuLbjlN) | 3:27 | 2025-03-06 | 2025-03-30 |
 | [Finaste så finns](https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Finaste så finns](https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1) | 3:10 | 2024-06-27 |  |
 | [Finding You Again](https://open.spotify.com/track/59RTzis0xZIqlFBteJFsrB) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Finding You Again](https://open.spotify.com/album/58rLhkfZO2qYvLBeV1ToiD) | 3:18 | 2025-03-13 | 2025-04-01 |
+| [Fineste Dama På Utestedet](https://open.spotify.com/track/0VJAnLZlBHZIPsRcBW3kSw) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Fineste Dama På Utestedet](https://open.spotify.com/album/7pU45MsJfs2xoqC34wPKeV) | 2:44 | 2025-06-26 |  |
 | [Flink Pike](https://open.spotify.com/track/1Iil2tX28N7tAAGxRrW8PL) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Flink Pike](https://open.spotify.com/album/53BDWgZ95h3taij0mOcR26) | 2:53 | 2025-04-17 | 2025-05-07 |
 | [forever on my mind](https://open.spotify.com/track/7Mgl85DExMmXZQK63YoyBJ) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [forever on my mind](https://open.spotify.com/album/3PTXIacmqhTYHyO4txzx7p) | 2:53 | 2024-10-24 | 2025-01-10 |
 | [Frøken Oslo V](https://open.spotify.com/track/78LCLrKFF22QHmNExXnlWr) | [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Frøken Oslo V](https://open.spotify.com/album/4qm9mJcERZOQJvIJ0UN6c1) | 2:07 | 2024-06-27 | 2024-10-25 |
@@ -90,6 +91,7 @@
 | [henda i været](https://open.spotify.com/track/618z8JIYgEQ8q4blcJFsGW) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL), [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [henda i været](https://open.spotify.com/album/4ryEkaYCH9uIdA4jbdHhIP) | 2:41 | 2024-06-27 |  |
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-10 |  |
 | [Her vil e vær](https://open.spotify.com/track/1kuBj9IjKtP64mKrHIuBYX) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Her vil e vær](https://open.spotify.com/album/3ksUT0ilC4HVItX51CEHvN) | 2:25 | 2025-03-20 |  |
+| [Hjemme](https://open.spotify.com/track/6FPKJnJMghrBQUQuSY5nnQ) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [Hjemme](https://open.spotify.com/album/5EVeTeHyY3IvVXYmz29rZr) | 3:56 | 2025-06-26 |  |
 | [HJERTET MITT ER HELT OK](https://open.spotify.com/track/4vpI1R5pmRKAS9pbMDb8Vg) | [Hkeem](https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH), [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [HJERTET MITT ER HELT OK](https://open.spotify.com/album/52qTuKqpnm3PtCtMRFa3i4) | 2:24 | 2024-06-27 | 2025-05-03 |
 | [Hold ut](https://open.spotify.com/track/6b1I45GG5aaC5Wa25dRr5A) | [Bendik](https://open.spotify.com/artist/4krYRNHjKcETSEY2Ghf9Mo) | [Hold ut](https://open.spotify.com/album/27V8eibnHQyrU0FcJr33Bq) | 2:59 | 2025-05-08 | 2025-06-23 |
 | [Hollow](https://open.spotify.com/track/3VT6jFPE7PwrvTh94UtDoN) | [Sivert Høyem](https://open.spotify.com/artist/2xMBy2SwN1OMgSSCKmX3IG) | [Hollow](https://open.spotify.com/album/2uKlK7Oq7GYrk74HJhU4oQ) | 3:56 | 2024-12-19 | 2025-01-10 |
@@ -115,7 +117,7 @@
 | [Keeps Me Going](https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Keeps Me Going](https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2) | 3:19 | 2024-06-27 | 2025-04-13 |
 | [Klisje](https://open.spotify.com/track/2p5d940zKggwkEpBj8sjf2) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Celine Madelen](https://open.spotify.com/artist/2cevasOkvddKR7XHHJjPlE) | [Klisje](https://open.spotify.com/album/50eAohXeP6Tu6hPqCnHkRA) | 2:18 | 2024-06-27 | 2025-03-02 |
 | [Kor e du?](https://open.spotify.com/track/6JfVQ0gSzYLDWZPPZoacVk) | [Sondre Justad](https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67) | [Kor e du?](https://open.spotify.com/album/6vtM7D6DXolebuT8Jk5qHf) | 3:20 | 2024-06-27 |  |
-| [Kyssa noken andre](https://open.spotify.com/track/1kyFLaG8l3jJwa012XEbxf) | [Gunn Kvaale](https://open.spotify.com/artist/3upvRPK3aM4G5v03vMAlNO) | [Kyssa noken andre](https://open.spotify.com/album/52BEsP0Om8YJyl1hmIXWi3) | 2:32 | 2025-06-05 |  |
+| [Kyssa noken andre](https://open.spotify.com/track/1kyFLaG8l3jJwa012XEbxf) | [Gunn Kvaale](https://open.spotify.com/artist/3upvRPK3aM4G5v03vMAlNO) | [Kyssa noken andre](https://open.spotify.com/album/52BEsP0Om8YJyl1hmIXWi3) | 2:32 | 2025-06-05 | 2025-06-29 |
 | [la meg ligge](https://open.spotify.com/track/1a6G7x79kvHEhOkeJBLXJj) | [Michelle Ullestad](https://open.spotify.com/artist/0ftXswGpAsqomAAg0YN1pI) | [la meg ligge](https://open.spotify.com/album/3YiyfDnirvlF06ibKAa6cI) | 3:30 | 2024-06-27 | 2024-10-28 |
 | [Langt av sted](https://open.spotify.com/track/6DxBlKrmCRklJY40CQXOSF) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Langt av sted](https://open.spotify.com/album/2fwuFPvhyPfapHv5Jek01i) | 2:40 | 2024-06-27 | 2024-10-25 |
 | [Late to the Party](https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Late to the Party](https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt) | 3:06 | 2024-08-22 | 2025-03-01 |
@@ -155,7 +157,7 @@
 | [Nostalgi](https://open.spotify.com/track/2KB8rqbA52HPAKBcutVp51) | [Kapteinen](https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9) | [Nostalgi](https://open.spotify.com/album/4DACSsBHMeZ8jKxcbZaA7w) | 2:37 | 2024-08-01 | 2024-10-28 |
 | [Number and a Street](https://open.spotify.com/track/1NT3kVjvvjmDPt20F58EDr) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [Seasons](https://open.spotify.com/album/64eTSlCRiKUolrsET9Kl2v) | 3:14 | 2024-09-12 | 2024-10-17 |
 | [Nå har du meg](https://open.spotify.com/track/33coicso7oegceR6nB7Srl) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [Nå har du meg](https://open.spotify.com/album/5MjN3dWFsEMB2HuyjaeXBy) | 3:41 | 2024-06-27 |  |
-| [Oh Love \- Acoustic](https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Oh Love \(Acoustic\)](https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ) | 3:21 | 2024-10-03 |  |
+| [Oh Love \- Acoustic](https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Oh Love \(Acoustic\)](https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ) | 3:21 | 2024-10-03 | 2025-06-29 |
 | [ok](https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [ok](https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov) | 2:29 | 2024-06-27 | 2025-05-03 |
 | [Ole Lukkøye](https://open.spotify.com/track/03MTSWFmsqzh7lch0AlPAJ) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB) | [Ole Lukkøye](https://open.spotify.com/album/6KmalLGuo1RnLKTloNsiAQ) | 4:25 | 2025-01-30 |  |
 | [Om du tror på oss](https://open.spotify.com/track/4x8DtLpcjCTMrFym0aS5kL) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3), [Erlend Ropstad](https://open.spotify.com/artist/5DEpvCUOqEagldzoh25m1t) | [Om du tror på oss](https://open.spotify.com/album/7kE6Q0jwl7Wr1icIIFwQQ6) | 3:50 | 2024-09-05 |  |

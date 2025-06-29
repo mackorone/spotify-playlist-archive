@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 464 likes - 144 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 465 likes - 144 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 13 | [Tentación](https://open.spotify.com/track/5xalldFr8mKjbAE0WY2vtp) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [8 \(Deluxe\)](https://open.spotify.com/album/33yUZhJNBRKhl4dbVC2h7K) | 3:12 |
 | 14 | [Me Falta Un Pecado](https://open.spotify.com/track/4pI1jddE9zk3jHOMWGGiAb) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reunión \(Deluxe\)](https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll) | 3:13 |
 | 15 | [Mujer Maravilla](https://open.spotify.com/track/4Fhow7Gjagr9vtwtp4vUVx) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w) | 3:44 |
-| 16 | [Crucigrama](https://open.spotify.com/track/3USeLFGPeeu2d0C8ULDWfn) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [Justo Ahora](https://open.spotify.com/album/2t9TlsYchqDdr0n2TTF6s0) | 3:33 |
-| 17 | [Te Necesito](https://open.spotify.com/track/3jZZ2SlQTFJ5yKDp3FOQNB) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Punto](https://open.spotify.com/album/55OVAEUt48foMS6JrUDit9) | 4:16 |
+| 16 | [Te Necesito](https://open.spotify.com/track/3jZZ2SlQTFJ5yKDp3FOQNB) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Punto](https://open.spotify.com/album/55OVAEUt48foMS6JrUDit9) | 4:16 |
+| 17 | [Crucigrama](https://open.spotify.com/track/3USeLFGPeeu2d0C8ULDWfn) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [Justo Ahora](https://open.spotify.com/album/2t9TlsYchqDdr0n2TTF6s0) | 3:33 |
 | 18 | [Abreme la Puerta](https://open.spotify.com/track/7jvU6ZxbwoGtIkE9Z7DnnN) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Abreme la Puerta \(New Edition\)](https://open.spotify.com/album/1iIseStXM2EpYcP6NcuGvA) | 3:37 |
 | 19 | [Boom Boom \(feat\. Anitta\)](https://open.spotify.com/track/6RcaOBWQpur8uJ5jlVc9b0) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [El Negreeto](https://open.spotify.com/album/1TSHFiGwKadtL6zMLa4zA5) | 2:32 |
 | 20 | [Demasiado Frágiles](https://open.spotify.com/track/2yA56Cz8BOhx8HjhW8UxSH) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 3:47 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 33 | [Ni Te Vistas Que No Vas](https://open.spotify.com/track/1jkzb8dLnmTuTIHWOjQico) | [Isa Mebarak](https://open.spotify.com/artist/5Ll6dTdD1p7vJK3n2FDbN8) | [Cosa Buena](https://open.spotify.com/album/4LDEC5iNBJLx0vRsRWulyL) | 3:32 |
 | 34 | [Cuando Se Ama Como Tú](https://open.spotify.com/track/5A6TF9z2XavNHuYXEJKsh0) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Cuando Se Ama Como Tú](https://open.spotify.com/album/2SfUxkmIm2CwqU9xwxQtun) | 3:51 |
 | 35 | [Perder Es Ganar](https://open.spotify.com/track/4p7IxXq8npnLl9MS98knQ6) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Cuando Se Ama Como Tú](https://open.spotify.com/album/2SfUxkmIm2CwqU9xwxQtun) | 3:27 |
-| 36 | [Cambio Y Fuera](https://open.spotify.com/track/0iWPjh1wwsIc6wwmFbeHgC) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:31 |
-| 37 | [Tempo \- Versión Español](https://open.spotify.com/track/0SIRVXaGCeLsJekmL5n7jC) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Tempo](https://open.spotify.com/album/5vmTSQN7bleXF3mlZgieli) | 2:46 |
+| 36 | [Tempo \- Versión Español](https://open.spotify.com/track/0SIRVXaGCeLsJekmL5n7jC) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Tempo](https://open.spotify.com/album/5vmTSQN7bleXF3mlZgieli) | 2:46 |
+| 37 | [Cambio Y Fuera](https://open.spotify.com/track/0iWPjh1wwsIc6wwmFbeHgC) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:31 |
 | 38 | [Mal Negocio](https://open.spotify.com/track/029npo2kAVAA4wEBqXGUSb) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reunión \(Deluxe\)](https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll) | 3:25 |
 | 39 | [Alguien Más](https://open.spotify.com/track/6UplHCI03dIUk2fxL1l9hq) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Real](https://open.spotify.com/album/7AtAkhy1kqTe7EsuW2rmbf) | 4:08 |
 | 40 | [No Olvides Recordarme](https://open.spotify.com/track/0bfFHScm3WUO97HTZesaRd) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Necesito un Bolero](https://open.spotify.com/album/3Ab8HPH5pTgPNjdFOHeTze) | 3:53 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 55 | [Amigos Con Derecho](https://open.spotify.com/track/2jrKLwp3PUvr3IsKvH5w2y) | [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z) | [Quién Lo Diría](https://open.spotify.com/album/6Gt6dCkxw2cJ0TJ6oRffum) | 3:18 |
 | 56 | [No Soy Como Tu](https://open.spotify.com/track/4KoVHqsM8yzcUbwqYlNRgR) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 3:01 |
 | 57 | [Darnos Un Dia](https://open.spotify.com/track/7532bbUg9FJRPSmGvblQH1) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/2r68bWBWqNzRqPQAZrOjRS) | 4:06 |
-| 58 | [Me Voy](https://open.spotify.com/track/2d7H0OUOqsZMyi8hJpkKfC) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Soy](https://open.spotify.com/album/7IIOcMIp2AYlxgJQ0Ql7YR) | 3:49 |
-| 59 | [No Soy Un Santo](https://open.spotify.com/track/4DxzM4ylCJTj9te1jWIPdG) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Poeta Herío](https://open.spotify.com/album/3e214gx6bbQgVykslGuK5F) | 2:57 |
+| 58 | [No Soy Un Santo](https://open.spotify.com/track/4DxzM4ylCJTj9te1jWIPdG) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Poeta Herío](https://open.spotify.com/album/3e214gx6bbQgVykslGuK5F) | 2:57 |
+| 59 | [Me Voy](https://open.spotify.com/track/2d7H0OUOqsZMyi8hJpkKfC) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Soy](https://open.spotify.com/album/7IIOcMIp2AYlxgJQ0Ql7YR) | 3:49 |
 | 60 | [Arrebátate](https://open.spotify.com/track/1iBhYJjDcZGQLDb230wHY0) | [Charly Gitanos](https://open.spotify.com/artist/2qp47lfHVy80ot1ZMkeXBx) | [Arrebátate](https://open.spotify.com/album/3MLXDaXWUTYK5jM40IFYia) | 3:36 |
 | 61 | [La Mosquita Muerta](https://open.spotify.com/track/4c2zFtuFx2XeNLke7xFrgM) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 3:31 |
 | 62 | [La Ex](https://open.spotify.com/track/5Phi7N5n5Mgt8Uk4DbGKQX) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 2:52 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 143 | [Entre el Piano y el Amor](https://open.spotify.com/track/6LRGICKeYv2OgYtpjGPtmY) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:38 |
 | 144 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
 
-Snapshot ID: `Ab1SdgAAAACAvBv3ryaFe5o7rNRvD2CF`
+Snapshot ID: `Ab1YSAAAAAAIV4xcwsjauoV7cQsEsRe4`

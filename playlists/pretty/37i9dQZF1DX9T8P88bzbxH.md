@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Counting down to genKRU\. Cover:KRU
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,823 likes - 27 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,812 likes - 27 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 71282,
+  "num_followers": 71286,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2025-06-16 03:26:17",
       "album": {
-        "name": "Intervention",
-        "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
-      },
-      "artists": [
-        {
-          "name": "Helen Jane Long",
-          "url": "https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX"
-        }
-      ],
-      "duration_ms": 205611,
-      "name": "Willow",
-      "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
-    },
-    {
-      "added_at": "2025-06-16 03:26:17",
-      "album": {
         "name": "5th Avenue",
         "url": "https://open.spotify.com/album/6gEkpwgILVtUfADGu1x6dl"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 146006,
       "name": "5th Avenue",
       "url": "https://open.spotify.com/track/3O2f2ELDsXkhISN0b1Ge6A"
+    },
+    {
+      "added_at": "2025-06-16 03:26:17",
+      "album": {
+        "name": "Intervention",
+        "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
+      },
+      "artists": [
+        {
+          "name": "Helen Jane Long",
+          "url": "https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX"
+        }
+      ],
+      "duration_ms": 205611,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
     },
     {
       "added_at": "2025-06-16 03:26:17",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-06-16 03:26:17",
       "album": {
-        "name": "Piano Songs",
-        "url": "https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW"
-      },
-      "artists": [
-        {
-          "name": "Purple Tulips",
-          "url": "https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h"
-        }
-      ],
-      "duration_ms": 225180,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw"
-    },
-    {
-      "added_at": "2025-06-16 03:26:17",
-      "album": {
         "name": "Bluesette",
         "url": "https://open.spotify.com/album/34Zn2v3e4Yo2u1lvfsPXBw"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 167140,
       "name": "Bluesette",
       "url": "https://open.spotify.com/track/0wnOuJclpacVenVngRphVW"
+    },
+    {
+      "added_at": "2025-06-16 03:26:17",
+      "album": {
+        "name": "Piano Songs",
+        "url": "https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW"
+      },
+      "artists": [
+        {
+          "name": "Purple Tulips",
+          "url": "https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h"
+        }
+      ],
+      "duration_ms": 225180,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw"
     },
     {
       "added_at": "2025-06-16 03:26:17",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-06-16 03:26:17",
       "album": {
-        "name": "Eeny Meeny Miny Moe",
-        "url": "https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus"
-      },
-      "artists": [
-        {
-          "name": "Peter Ehrlichmann",
-          "url": "https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx"
-        }
-      ],
-      "duration_ms": 68250,
-      "name": "Eeny Meeny Miny Moe",
-      "url": "https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ"
-    },
-    {
-      "added_at": "2025-06-16 03:26:17",
-      "album": {
         "name": "Slowing Down",
         "url": "https://open.spotify.com/album/4DOFbLvmNKJhD0mcEv0hUt"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2025-06-16 03:26:17",
       "album": {
-        "name": "Schutter",
-        "url": "https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW"
+        "name": "Eeny Meeny Miny Moe",
+        "url": "https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus"
       },
       "artists": [
         {
-          "name": "Alex Laude",
-          "url": "https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV"
+          "name": "Peter Ehrlichmann",
+          "url": "https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Schutter",
-      "url": "https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41"
+      "duration_ms": 68250,
+      "name": "Eeny Meeny Miny Moe",
+      "url": "https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ"
     },
     {
       "added_at": "2025-06-16 03:26:17",
@@ -635,6 +619,22 @@
     {
       "added_at": "2025-06-16 03:26:17",
       "album": {
+        "name": "Schutter",
+        "url": "https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW"
+      },
+      "artists": [
+        {
+          "name": "Alex Laude",
+          "url": "https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Schutter",
+      "url": "https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41"
+    },
+    {
+      "added_at": "2025-06-16 03:26:17",
+      "album": {
         "name": "Au revoir",
         "url": "https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3"
       },
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-06-16 03:26:17",
       "album": {
+        "name": "The Music Of The Night",
+        "url": "https://open.spotify.com/album/19gJXpMuISfxSL8E95p2bN"
+      },
+      "artists": [
+        {
+          "name": "Niila Alto",
+          "url": "https://open.spotify.com/artist/2Dx4S8w95AxrvdhJKQVkmC"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "The Music Of The Night",
+      "url": "https://open.spotify.com/track/19SbG4LbAtPp6rrc54ZZVS"
+    },
+    {
+      "added_at": "2025-06-16 03:26:17",
+      "album": {
         "name": "All The Things You Are",
         "url": "https://open.spotify.com/album/7kpHuQEwvXqC0bVVmax5TU"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 161822,
       "name": "Am I the Only One",
       "url": "https://open.spotify.com/track/3pQ9yM5g3ad2tXEsiT5X0u"
-    },
-    {
-      "added_at": "2025-06-16 03:26:17",
-      "album": {
-        "name": "The Music Of The Night",
-        "url": "https://open.spotify.com/album/19gJXpMuISfxSL8E95p2bN"
-      },
-      "artists": [
-        {
-          "name": "Niila Alto",
-          "url": "https://open.spotify.com/artist/2Dx4S8w95AxrvdhJKQVkmC"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "The Music Of The Night",
-      "url": "https://open.spotify.com/track/19SbG4LbAtPp6rrc54ZZVS"
     },
     {
       "added_at": "2025-06-16 03:26:17",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-06-16 03:26:17",
       "album": {
-        "name": "Disney Covers Vol 1",
-        "url": "https://open.spotify.com/album/6UQMp88U2Qv5nRVUHASfyR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Nielsen",
-          "url": "https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW"
-        }
-      ],
-      "duration_ms": 186088,
-      "name": "God Help the Outcasts",
-      "url": "https://open.spotify.com/track/7vwGTeO0cug9SYAKxPxjea"
-    },
-    {
-      "added_at": "2025-06-16 03:26:17",
-      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/0TQSmqQGNkfyIEbu3I0m75"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 175005,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/200ZWfIGSTurs8dhUi0PUE"
+    },
+    {
+      "added_at": "2025-06-16 03:26:17",
+      "album": {
+        "name": "Disney Covers Vol 1",
+        "url": "https://open.spotify.com/album/6UQMp88U2Qv5nRVUHASfyR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Nielsen",
+          "url": "https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW"
+        }
+      ],
+      "duration_ms": 186088,
+      "name": "God Help the Outcasts",
+      "url": "https://open.spotify.com/track/7vwGTeO0cug9SYAKxPxjea"
     },
     {
       "added_at": "2025-06-16 03:26:17",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-06-16 03:26:17",
       "album": {
-        "name": "I'll Take Romance",
-        "url": "https://open.spotify.com/album/1lWwiRXgfCqxYlFd0T7SWq"
-      },
-      "artists": [
-        {
-          "name": "Avery Miller",
-          "url": "https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN"
-        }
-      ],
-      "duration_ms": 189923,
-      "name": "I'll Take Romance",
-      "url": "https://open.spotify.com/track/2OtiBmNGQaogw2iymAmTS4"
-    },
-    {
-      "added_at": "2025-06-16 03:26:17",
-      "album": {
         "name": "A Perceptual Process",
         "url": "https://open.spotify.com/album/0bJgueNYLGic54wJ7wRoLl"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 179810,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/3INNtJyFpOFyQRK0FhT0Iz"
+    },
+    {
+      "added_at": "2025-06-16 03:26:17",
+      "album": {
+        "name": "I'll Take Romance",
+        "url": "https://open.spotify.com/album/1lWwiRXgfCqxYlFd0T7SWq"
+      },
+      "artists": [
+        {
+          "name": "Avery Miller",
+          "url": "https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN"
+        }
+      ],
+      "duration_ms": 189923,
+      "name": "I'll Take Romance",
+      "url": "https://open.spotify.com/track/2OtiBmNGQaogw2iymAmTS4"
     },
     {
       "added_at": "2025-06-16 03:26:17",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-06-16 03:26:17",
       "album": {
-        "name": "S\u00fcda",
-        "url": "https://open.spotify.com/album/0dR60aXaRgIAUExGS6ZKfG"
-      },
-      "artists": [
-        {
-          "name": "Jan Thiel",
-          "url": "https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb"
-        }
-      ],
-      "duration_ms": 202750,
-      "name": "S\u00fcda",
-      "url": "https://open.spotify.com/track/5QjGudbECrTR2yRa2AdZBV"
-    },
-    {
-      "added_at": "2025-06-16 03:26:17",
-      "album": {
         "name": "Magnolia",
         "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
       },
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2025-06-16 03:26:17",
       "album": {
-        "name": "Head, Shoulders, Knees and Toes",
-        "url": "https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn"
+        "name": "S\u00fcda",
+        "url": "https://open.spotify.com/album/0dR60aXaRgIAUExGS6ZKfG"
       },
       "artists": [
         {
-          "name": "Martha Blackburn",
-          "url": "https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp"
+          "name": "Jan Thiel",
+          "url": "https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb"
         }
       ],
-      "duration_ms": 77672,
-      "name": "Hickory Dickory Dock",
-      "url": "https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW"
+      "duration_ms": 202750,
+      "name": "S\u00fcda",
+      "url": "https://open.spotify.com/track/5QjGudbECrTR2yRa2AdZBV"
     },
     {
       "added_at": "2025-06-16 03:26:17",
@@ -1435,6 +1419,22 @@
       "duration_ms": 160000,
       "name": "See you in the morning",
       "url": "https://open.spotify.com/track/4ujJJwrejs0lGkVU23ls5j"
+    },
+    {
+      "added_at": "2025-06-16 03:26:17",
+      "album": {
+        "name": "Head, Shoulders, Knees and Toes",
+        "url": "https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn"
+      },
+      "artists": [
+        {
+          "name": "Martha Blackburn",
+          "url": "https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp"
+        }
+      ],
+      "duration_ms": 77672,
+      "name": "Hickory Dickory Dock",
+      "url": "https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW"
     },
     {
       "added_at": "2025-06-16 03:26:17",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-06-16 03:26:17",
       "album": {
-        "name": "Defying Gravity",
-        "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
-      },
-      "artists": [
-        {
-          "name": "Belinda Myers",
-          "url": "https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8"
-        }
-      ],
-      "duration_ms": 143240,
-      "name": "Children Will Listen",
-      "url": "https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT"
-    },
-    {
-      "added_at": "2025-06-16 03:26:17",
-      "album": {
         "name": "Maybe under some other sky",
         "url": "https://open.spotify.com/album/0OnhOVXcsZ1yvx5gso1hsq"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 139500,
       "name": "Maybe under some other sky",
       "url": "https://open.spotify.com/track/2sTXVgqhs4uTZSoZ5QvlLz"
+    },
+    {
+      "added_at": "2025-06-16 03:26:17",
+      "album": {
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
+      },
+      "artists": [
+        {
+          "name": "Belinda Myers",
+          "url": "https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8"
+        }
+      ],
+      "duration_ms": 143240,
+      "name": "Children Will Listen",
+      "url": "https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT"
     },
     {
       "added_at": "2025-06-16 03:26:17",

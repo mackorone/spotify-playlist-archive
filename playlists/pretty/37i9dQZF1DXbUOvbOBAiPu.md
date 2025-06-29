@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Lorde, Lasgo, Marine, Lil Kleine & Yade Lauren and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,694 likes - 98 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,701 likes - 98 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 80 | [So High](https://open.spotify.com/track/4LJpgXI4Viy3x1q24I4nzG) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [So High](https://open.spotify.com/album/1PXXzno0EmdtuBK6AJhs1j) | 3:37 |
 | 81 | [i couldn't hold back](https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [i couldn't hold back](https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa) | 2:50 |
 | 82 | [All My Friends](https://open.spotify.com/track/2xqI4s8TsrOhhGoWZYoDS2) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [All My Friends](https://open.spotify.com/album/60emWBk5kYEXwYqoM20mco) | 3:20 |
-| 83 | [Feel Something](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Feel Something](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 |
+| 83 | [FEEL SOMETHING](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 |
 | 84 | [Can We Talk?](https://open.spotify.com/track/1NeL0geu5M3lya479QuA6q) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Can We Talk?](https://open.spotify.com/album/5bzaSX78ybcXW55HFe8xZi) | 3:08 |
 | 85 | [10AM](https://open.spotify.com/track/5WYv0entnRyawjX2mJ5QAK) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [10AM](https://open.spotify.com/album/2p3syjniBpHkLZGWB0o7FD) | 3:36 |
 | 86 | [Old Shadows](https://open.spotify.com/track/3IWuSaxaeNuQUXOfVtEkOE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Old Shadows](https://open.spotify.com/album/0RLefy7jZBf1Dx0UlZdbRK) | 4:06 |

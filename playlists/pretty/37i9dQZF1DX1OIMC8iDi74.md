@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 🏆 with Alison Wonderland
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,272 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,294 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 69 | [Blue Mile](https://open.spotify.com/track/5EIyuLTiZwAmmlsqxdLJC0) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [Barclay Crenshaw](https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3) | [Blue Mile](https://open.spotify.com/album/77I9ebOxX1nxDk8vlJNUH9) | 3:32 |
 | 70 | [attention!](https://open.spotify.com/track/1bVAPf0uwhql8DyOpcpRxd) | [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [attention!](https://open.spotify.com/album/5sc5wbXbU5gPMnJ4nAKC8i) | 2:43 |
 | 71 | [Forcefield](https://open.spotify.com/track/6KxayQc9tOaUAQQyThB5Tl) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ) | [Darkstar](https://open.spotify.com/album/1BFdYawImsAcojUrL3I9Km) | 3:52 |
-| 72 | [Rainbow Funk](https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa) | [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Rainbow Funk](https://open.spotify.com/album/1eFn1sXC3rcCAoHPLlaaG1) | 2:40 |
+| 72 | [JUMP OUT](https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [JUMP OUT](https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ) | 2:25 |
 | 73 | [Ambrosia \- Rival Remix](https://open.spotify.com/track/2StQdgJrt31eK1iFalj9p0) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD), [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz) | [Ambrosia \(Rival Remix\)](https://open.spotify.com/album/0YF9mrX7hWAiIxk7r496tY) | 4:05 |
-| 74 | [JUMP OUT](https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [JUMP OUT](https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ) | 2:25 |
+| 74 | [Rainbow Funk](https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa) | [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Rainbow Funk](https://open.spotify.com/album/1eFn1sXC3rcCAoHPLlaaG1) | 2:40 |
 | 75 | [DNA \(Loving You\) \[feat\. Hannah Boleyn\] \[Levity Remix\]](https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [DNA \(Loving You\) \[feat\. Hannah Boleyn\] \[Levity Remix\]](https://open.spotify.com/album/4dKYCpl0dDy01Lw2msVJBU) | 2:56 |
 | 76 | [HACKING THE GATE](https://open.spotify.com/track/3PwruJbrJXpeDCLJ2hiid9) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [ADRENOCHROME](https://open.spotify.com/album/4H2abOEiBXEQpNibmwu4Li) | 2:53 |
 | 77 | [YA BODY](https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [YA BODY](https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU) | 3:03 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 91 | [The Descent](https://open.spotify.com/track/6xIxr1N7UZaXiwOUNVScsn) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [CAN YOU SEE ME?](https://open.spotify.com/album/6tQ1vjB7ZXy8sKkGEtHs1X) | 3:07 |
 | 92 | [Keep It Moving](https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Keep It Moving](https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag) | 2:40 |
 | 93 | [EGOTRIP](https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Get Off The Internet](https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV) | 2:24 |
-| 94 | [Try Again](https://open.spotify.com/track/6iDOGlPGVC380H9ufZUQJb) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Try Again](https://open.spotify.com/album/6CxSfaeeQFlzmcn0uc4jSo) | 4:04 |
-| 95 | [GO BACK \(We Can't\)](https://open.spotify.com/track/7vSTWert1uL4NeG3EvBOYY) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [GO BACK \(We Can't\)](https://open.spotify.com/album/1Vomcw2K16iHH2KkkojTrZ) | 3:46 |
+| 94 | [GO BACK \(We Can't\)](https://open.spotify.com/track/7vSTWert1uL4NeG3EvBOYY) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [GO BACK \(We Can't\)](https://open.spotify.com/album/1Vomcw2K16iHH2KkkojTrZ) | 3:46 |
+| 95 | [Try Again](https://open.spotify.com/track/6iDOGlPGVC380H9ufZUQJb) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Try Again](https://open.spotify.com/album/6CxSfaeeQFlzmcn0uc4jSo) | 4:04 |
 | 96 | [In The Cut](https://open.spotify.com/track/4VaQSqvF2vX7vqv8f8HLRO) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [In The Cut](https://open.spotify.com/album/6UvvBB9erje8tde7ssRJjM) | 2:47 |
 | 97 | [Your Lovin'](https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Your Lovin'](https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7) | 3:39 |
 | 98 | [My Mind](https://open.spotify.com/track/6VBMufUomo3zargbrSDFuR) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [My Mind](https://open.spotify.com/album/7HblcAvpakUan6Dv7hz2j3) | 2:32 |

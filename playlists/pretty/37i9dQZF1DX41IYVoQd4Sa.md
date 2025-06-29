@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : אסתר רדא
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,090 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,093 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 30 | [הדלת הפתוחה](https://open.spotify.com/track/6ZrFqIxeb5pGECv3Dgl8Rp) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [הדלת הפתוחה](https://open.spotify.com/album/73nXR3AC7KXy4kJae8zc4Y) | 2:41 |
 | 31 | [פורטוגל](https://open.spotify.com/track/6l3iux77GY6VC4rBW4bmij) | [Daniel Rubin](https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB) | [פורטוגל](https://open.spotify.com/album/1nWz68CCKhJbiJ8Ed4GHpr) | 3:26 |
 | 32 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
-| 33 | [זה בדיוק מה שאתה אוהב](https://open.spotify.com/track/624p69UNCr0GZZUMsXEz1m) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv), [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [לפני שהכל נרדם](https://open.spotify.com/album/52Y7nq83AIKf2FRcEA1UtP) | 3:00 |
-| 34 | [כנפי רוח](https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW) | [Pulkes](https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC), [Tuval Haim](https://open.spotify.com/artist/7bV9WTLQ86dYHoz6xFRSSH) | [כנפי רוח](https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U) | 3:59 |
-| 35 | [It’ll Probably Be Fine](https://open.spotify.com/track/7wAy7LwfXOJ8ThVx7iJidl) | [flatmate sessions](https://open.spotify.com/artist/1ofSz6R42TbG7u3ZOAlaCW), [Heart Sauce](https://open.spotify.com/artist/0FNZfLwIzxfRbRqOfokZ6P) | [It’ll Probably Be Fine](https://open.spotify.com/album/7Kn1Qs3c0kxAofQnWQkrSP) | 2:49 |
+| 33 | [It’ll Probably Be Fine](https://open.spotify.com/track/7wAy7LwfXOJ8ThVx7iJidl) | [flatmate sessions](https://open.spotify.com/artist/1ofSz6R42TbG7u3ZOAlaCW), [Heart Sauce](https://open.spotify.com/artist/0FNZfLwIzxfRbRqOfokZ6P) | [It’ll Probably Be Fine](https://open.spotify.com/album/7Kn1Qs3c0kxAofQnWQkrSP) | 2:49 |
+| 34 | [זה בדיוק מה שאתה אוהב](https://open.spotify.com/track/624p69UNCr0GZZUMsXEz1m) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv), [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [לפני שהכל נרדם](https://open.spotify.com/album/52Y7nq83AIKf2FRcEA1UtP) | 3:00 |
+| 35 | [כנפי רוח](https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW) | [Pulkes](https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC), [Tuval Haim](https://open.spotify.com/artist/7bV9WTLQ86dYHoz6xFRSSH) | [כנפי רוח](https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U) | 3:59 |
 | 36 | [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 |
 | 37 | [ויהי אור](https://open.spotify.com/track/3JPWeQidSXbNwyKfD97Rxk) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [Zulat Choir](https://open.spotify.com/artist/6me6qoZHnbljLqgsEgXmd7) | [ויהי אור](https://open.spotify.com/album/4E6a4Zsmi4mE9P6f9G1ME7) | 5:26 |
 | 38 | [לגלגל את זה הלאה](https://open.spotify.com/track/2e2mGleQVxuZ2G5c7r3ekR) | [Shuli Rand](https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN) | [אירוע מתגלגל](https://open.spotify.com/album/19VyaA4TAxWsw77aFuhbLF) | 4:19 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 41 | [לבזבז לך את הזמן](https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק ב'](https://open.spotify.com/album/21absbNyeEXykXGFsK62mP) | 3:16 |
 | 42 | [ליל שימורים](https://open.spotify.com/track/3kSx2oizsSBkJKr6lDSv9a) | [Yuval Mendelson](https://open.spotify.com/artist/6hVAKUdULwRNi7cRA3Fn2S) | [ליל שימורים](https://open.spotify.com/album/2aRmLur4HxMA63zoJL3y8L) | 4:28 |
 | 43 | [מודה אני](https://open.spotify.com/track/1yGzl0CqjQOqdVcFX94gic) | [Safe Space Sessions](https://open.spotify.com/artist/53iEneWNCdwCeXL5zde6Pg), [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [מרחב מוגן](https://open.spotify.com/album/3GCd94fF78hbZbJIvrgA2X) | 4:39 |
-| 44 | [אחרי המלחמה](https://open.spotify.com/track/1RZl2XOL1MuDkltAKIc6gO) | [Eifo HaYeled](https://open.spotify.com/artist/4tOEC0rfs2z2Sf1Tv2OKAg) | [אחרי המלחמה](https://open.spotify.com/album/22elS8uL9bbPfuvDkiLTvD) | 3:16 |
-| 45 | [הכלים השבורים](https://open.spotify.com/track/2AY7MlJZYGj7gh0XZqRUjD) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [הכלים השבורים](https://open.spotify.com/album/4t1Pp1LizlYPdzk34nVIXk) | 3:29 |
+| 44 | [הכלים השבורים](https://open.spotify.com/track/2AY7MlJZYGj7gh0XZqRUjD) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [הכלים השבורים](https://open.spotify.com/album/4t1Pp1LizlYPdzk34nVIXk) | 3:29 |
+| 45 | [אחרי המלחמה](https://open.spotify.com/track/1RZl2XOL1MuDkltAKIc6gO) | [Eifo HaYeled](https://open.spotify.com/artist/4tOEC0rfs2z2Sf1Tv2OKAg) | [אחרי המלחמה](https://open.spotify.com/album/22elS8uL9bbPfuvDkiLTvD) | 3:16 |
 | 46 | [מילים אהבה ויין](https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [מילים אהבה ויין](https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ) | 6:48 |
 | 47 | [Caviar](https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ) | [Caviar](https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ) | 4:06 |
 | 48 | [שמש קטנה](https://open.spotify.com/track/5VXm7PRmaUziuU5s0u84qy) | [Aviv Guedj](https://open.spotify.com/artist/1ONVLNtv8t9Nr3TglnONrT) | [שמש קטנה](https://open.spotify.com/album/2FDyy5ubYs7J8wVXDKBvtt) | 4:23 |

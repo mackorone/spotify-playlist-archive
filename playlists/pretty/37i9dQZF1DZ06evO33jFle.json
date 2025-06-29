@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 505241,
+  "num_followers": 505316,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAAA5IueBXpR7wP0Tg66q/FKK",
+  "snapshot_id": "aF3fAAAAAAAUfEwBwmc4elxZn6V16l3o",
   "tracks": [
     {
       "added_at": null,
@@ -47,22 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jenni",
-        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 226950,
-      "name": "Con \u00c9l",
-      "url": "https://open.spotify.com/track/7aCLtSlkFRMiPycFEEhLFA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Vida Loca",
         "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 179320,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jenni",
+        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 226950,
+      "name": "Con \u00c9l",
+      "url": "https://open.spotify.com/track/7aCLtSlkFRMiPycFEEhLFA"
     },
     {
       "added_at": null,

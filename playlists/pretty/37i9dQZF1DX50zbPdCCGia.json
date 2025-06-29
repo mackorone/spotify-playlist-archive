@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Jimmy Buffett",
-  "num_followers": 279400,
+  "num_followers": 279570,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "CSN",
-        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 133960,
-      "name": "Just a Song Before I Go",
-      "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "There Goes Rhymin' Simon",
         "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "French Kiss",
-        "url": "https://open.spotify.com/album/5YQsoNZvxTZKqsJ2Y7fQjJ"
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
       },
       "artists": [
         {
-          "name": "Bob Welch",
-          "url": "https://open.spotify.com/artist/0reZZVbAPxgX1Rqj6XbWj3"
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
         }
       ],
-      "duration_ms": 178693,
-      "name": "Sentimental Lady",
-      "url": "https://open.spotify.com/track/478thMMvYGris8eJPcDRoq"
+      "duration_ms": 133960,
+      "name": "Just a Song Before I Go",
+      "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -879,6 +863,22 @@
       "duration_ms": 256160,
       "name": "Holdin' on to Yesterday",
       "url": "https://open.spotify.com/track/5nFpF7jUbVnnDMXIu65aoh"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "French Kiss",
+        "url": "https://open.spotify.com/album/5YQsoNZvxTZKqsJ2Y7fQjJ"
+      },
+      "artists": [
+        {
+          "name": "Bob Welch",
+          "url": "https://open.spotify.com/artist/0reZZVbAPxgX1Rqj6XbWj3"
+        }
+      ],
+      "duration_ms": 178693,
+      "name": "Sentimental Lady",
+      "url": "https://open.spotify.com/track/478thMMvYGris8eJPcDRoq"
     },
     {
       "added_at": "2023-03-29 17:34:27",

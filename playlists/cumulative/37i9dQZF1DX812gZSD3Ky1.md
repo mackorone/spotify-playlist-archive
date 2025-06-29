@@ -4,7 +4,7 @@
 
 > เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ศิลปิน: Alex Warren, ROSÉ
 
-635 songs - 1 day 10 hr 24 min
+636 songs - 1 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Crybaby](https://open.spotify.com/track/1g7pFO1WtclKCuIQiS8sNM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:01 | 2024-12-27 | 2025-01-25 |
 | [cyber love](https://open.spotify.com/track/3J8ymkHvHld3OZs3GtrYGo) | [VINI](https://open.spotify.com/artist/1QzHMnO2CsyqS7EgZ5fRoW) | [cyber love](https://open.spotify.com/album/6SksCBpQsmTQ7654CxE7CC) | 2:30 | 2025-02-14 | 2025-03-15 |
 | [Daisy](https://open.spotify.com/track/2JbCczQEgM6iy83vk31Xep) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Daisy](https://open.spotify.com/album/1H1TTfk9WgDaDQWERetC7U) | 3:16 | 2025-05-16 | 2025-05-31 |
+| [Dame Un Grrr](https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Dame Un Grrr](https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65) | 2:13 | 2025-06-28 |  |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-13 |  |
 | [DANCING ON A GRAVEYARD](https://open.spotify.com/track/50kPsp9qv18LL7Eh3oSShy) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [DANCING ON A GRAVEYARD](https://open.spotify.com/album/48ierpG5JJ6wAVEVcpU2kU) | 3:16 | 2024-06-28 | 2025-03-07 |
 | [Dancing Queen](https://open.spotify.com/track/0kO4mdnP7JOXSmgjrZafac) | [Jackie Jackrin](https://open.spotify.com/artist/61wBtGF8ryUlEeb5lq4cnX) | [Dancing Queen](https://open.spotify.com/album/64lqUumFXW0jNntoXqqWQA) | 3:15 | 2024-11-15 | 2024-12-06 |
@@ -554,7 +555,7 @@
 | [this is what forever feels like \(with Nick Jonas\)](https://open.spotify.com/track/3uTsiaNxy6h6EAd7MsCf9D) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [this is what forever feels like](https://open.spotify.com/album/71fJ7EFsAMMKkfnZMIbtKI) | 2:34 | 2024-09-13 | 2024-09-21 |
 | [This must be the place](https://open.spotify.com/track/3rDfFPybJVMqBiFbhMGDMi) | [Marina Balenciaga](https://open.spotify.com/artist/6wvMmbfuW3vADgH3zzJGII) | [This must be the place](https://open.spotify.com/album/1FJVVG53D8ZTMwqn85UfMy) | 3:52 | 2025-03-06 |  |
 | [those summer nights](https://open.spotify.com/track/7o0KEXaaVCSXM9QrYNen6j) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [those summer nights](https://open.spotify.com/album/1710WKdJ5DVt0ZYAhyQsKf) | 3:25 | 2025-04-25 | 2025-05-10 |
-| [Thought of You](https://open.spotify.com/track/4As6SLkweWhpNGIA66b891) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [Thought of You](https://open.spotify.com/album/6wArEED6fUTnMHkrOoxaPK) | 3:33 | 2025-02-14 |  |
+| [Thought of You](https://open.spotify.com/track/4As6SLkweWhpNGIA66b891) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [Thought of You](https://open.spotify.com/album/6wArEED6fUTnMHkrOoxaPK) | 3:33 | 2025-02-14 | 2025-06-29 |
 | [THOUGHT YOU WERE THE ONE](https://open.spotify.com/track/7liEa3mZZwh9auF98KYITv) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [THOUGHT YOU WERE THE ONE](https://open.spotify.com/album/6bJOZvEgdW3ck7W2Z1d8vm) | 2:58 | 2024-08-30 | 2024-09-14 |
 | [Tick Of Time](https://open.spotify.com/track/60w74znazuWrTU5BNy8W2v) | [neptember](https://open.spotify.com/artist/2BOschGRHhNSTw8CilZMZb) | [That’s Love After All, Isn’t It?](https://open.spotify.com/album/6VX5uEwRDeAJbZl2hFQT1m) | 2:57 | 2024-06-28 | 2024-07-05 |
 | [tide&you](https://open.spotify.com/track/3hqE8GKiqTqK4U1EwbfHkA) | [VINI](https://open.spotify.com/artist/1QzHMnO2CsyqS7EgZ5fRoW), [Rattana](https://open.spotify.com/artist/3cvn81dfHNBsjPglcn9XeL) | [soirée](https://open.spotify.com/album/4ipnDRMrTgRbuNe7nVtkaC) | 4:23 | 2024-12-13 | 2024-12-21 |

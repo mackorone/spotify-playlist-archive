@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: KSHMR
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,350 likes - 19 songs - 53 min 36 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,346 likes - 19 songs - 53 min 35 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 9 | [TWINKLE](https://open.spotify.com/track/3jdBt6du0bbnOdvonxJgDr) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w) | [TWINKLE](https://open.spotify.com/album/1wlXyNg9Mf7SHt1PmirLvi) | 2:49 |
 | 10 | [Bassline Drop](https://open.spotify.com/track/0S3kYvTfCmChY0aNppoP1R) | [Dougal](https://open.spotify.com/artist/4Dn8TwLoOeWtznIg0LLWFL), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [Echoes](https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV) | [Bassline Drop](https://open.spotify.com/album/58bP20kKj3IYhRKJhOqgAM) | 2:27 |
 | 11 | [Cada Vez](https://open.spotify.com/track/7Jp3yAdFyk9KLgFSI3Hsed) | [Equinøx](https://open.spotify.com/artist/5Pfc3lrQ5LtFXRcGhNs3cH) | [Cada Vez](https://open.spotify.com/album/4vGQ03L8Ijy3jvzcOCiuV3) | 3:00 |
-| 12 | [Wicked Game](https://open.spotify.com/track/5c2JPUUSnGjCXYopTbyEIq) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC) | [Wicked Game](https://open.spotify.com/album/14ZefHLed8v4Kkxt8fo1l6) | 2:34 |
+| 12 | [Wicked Game](https://open.spotify.com/track/5c2JPUUSnGjCXYopTbyEIq) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC) | [Wicked Game](https://open.spotify.com/album/14ZefHLed8v4Kkxt8fo1l6) | 2:32 |
 | 13 | [Raised](https://open.spotify.com/track/3DjFo1WvTw0AebvoDv1Hi9) | [ZALEØN](https://open.spotify.com/artist/67NWsABxvwnaPSzUfXE1na), [NIVVEK](https://open.spotify.com/artist/3WF6PAEbpz0WgXk82I3q8Q) | [Raised](https://open.spotify.com/album/2aa50eKKp672Pe0OjqJzH0) | 2:46 |
 | 14 | [You Want The Fire](https://open.spotify.com/track/1L3syVgeYCOYc5O7IECxwI) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [You Want The Fire](https://open.spotify.com/album/5DNvEa1r4unflBRdU0zBWB) | 3:41 |
 | 15 | [Feel So Good](https://open.spotify.com/track/3A5ChH4cZ0TKcN9dNT9ua0) | [Alure](https://open.spotify.com/artist/2at01aWUeF5RX0bm7M7LjP) | [Feel So Good](https://open.spotify.com/album/3MFDDyUqEuMne5UpkHZcCC) | 2:58 |

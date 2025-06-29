@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 
 > The essential tracks from the label VP Records\. Cover: Beenie Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,924 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,954 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 9 | [Come Over \[Missing You\]](https://open.spotify.com/track/4MAo6tvIRCEjUZLOrC9Z4q) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [REGGAE Music Again](https://open.spotify.com/album/7JRTrGi5KSTpPQIg7f5DhM) | 3:28 |
 | 10 | [My Woman, My Everything \(feat\. Wandecoal\)](https://open.spotify.com/track/5MAScTGPHzWAeivPjpATa9) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [My Woman, My Everything \(feat\. Wandecoal\) \- Single](https://open.spotify.com/album/0cUhwhoX9Yi7vhJgHfgRm4) | 3:53 |
 | 11 | [I Feel Good](https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [A Moment In Time](https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex) | 3:42 |
-| 12 | [Youth Dem Cold](https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [In The Streets To Africa](https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc) | 3:45 |
-| 13 | [Tight Up Skirt](https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9) | [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Oh No It's Red Rat](https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi) | 3:34 |
+| 12 | [Tight Up Skirt](https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9) | [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Oh No It's Red Rat](https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi) | 3:34 |
+| 13 | [Youth Dem Cold](https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [In The Streets To Africa](https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc) | 3:45 |
 | 14 | [Stay So](https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Parts Of The Puzzle](https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx) | 3:40 |
 | 15 | [Deport Them](https://open.spotify.com/track/5KhypMVGqMI9mgsrrv2lxc) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Stage One](https://open.spotify.com/album/6Y5344aCqHNxQNAUStzHrd) | 3:08 |
 | 16 | [No Cocaine](https://open.spotify.com/track/07QuKUTu5O40AibYYPx98I) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Escape From Babylon](https://open.spotify.com/album/2wrZVi0cgQtRhpYytAHpdD) | 4:14 |
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 30 | [Stay With Me](https://open.spotify.com/track/0dAr3S2Hwopw7NueD6YJzJ) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Lifted](https://open.spotify.com/album/4E654ZenJUSulZS85NPMgg) | 3:37 |
 | 31 | [Two Sevens Clash](https://open.spotify.com/track/4ueq6n73MAh23KMabKrpI0) | [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz) | [Two Sevens Clash \(40th Anniversary Edition\)](https://open.spotify.com/album/75KzjLsruVDxWJ0bL0Lrm6) | 3:29 |
 | 32 | [Stop That Train](https://open.spotify.com/track/0Ajis5FpljtwnD7uWqO8jf) | [Clint Eastwood](https://open.spotify.com/artist/7gDNcZAStavwiBcb1CHQND), [General Saint](https://open.spotify.com/artist/3LvMhOfZRrE93aW5Xtb5Ua) | [Stop That Train](https://open.spotify.com/album/2GkHD2HdhKoY4B5yigF66J) | 5:10 |
-| 33 | [It's Growing](https://open.spotify.com/track/10WzihaZhGPaWBjJIEd2cf) | [Garnett Silk](https://open.spotify.com/artist/4xDC3G6OUck11fSodF11jI) | [It's Growing](https://open.spotify.com/album/4TjHpHW4Ij2bOjdxTi1SJC) | 3:39 |
-| 34 | [Man Is The Least](https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Extra Raw: The First Lady Of Dancehall](https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd) | 3:50 |
+| 33 | [Man Is The Least](https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Extra Raw: The First Lady Of Dancehall](https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd) | 3:50 |
+| 34 | [It's Growing](https://open.spotify.com/track/10WzihaZhGPaWBjJIEd2cf) | [Garnett Silk](https://open.spotify.com/artist/4xDC3G6OUck11fSodF11jI) | [It's Growing](https://open.spotify.com/album/4TjHpHW4Ij2bOjdxTi1SJC) | 3:39 |
 | 35 | [Lights Out](https://open.spotify.com/track/4Hue6rHN892sFzzOJBHYra) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Lovers Rock](https://open.spotify.com/album/1dWQbbFSkCNnMbdSJMmsge) | 3:23 |
 | 36 | [Rumours](https://open.spotify.com/track/4Y1xrYwl4aIpQWqzXndQgJ) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [One Man Against The World](https://open.spotify.com/album/0HJg4SugD6RTHt57uZbEwr) | 6:09 |
 | 37 | [Sweep Over My Soul](https://open.spotify.com/track/5uSHCmZBRnSUcWcZ8kxWRk) | [Luciano](https://open.spotify.com/artist/3Vszg64mczF1dWEcW2dU5W) | [Sweep Over My Soul](https://open.spotify.com/album/1nluXd8QoqYjkRSr16r4qR) | 3:53 |
-| 38 | [Too Young](https://open.spotify.com/track/4YC0g1gFRX4PG3C8TvVNcn) | [Cocoa Tea](https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Good Life](https://open.spotify.com/album/2OqPHmyhLyQ4kwdWDRLIiz) | 3:47 |
-| 39 | [Sycamore Tree](https://open.spotify.com/track/7KijSBqHaE0gNsogRskdrq) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Passion](https://open.spotify.com/album/4a3q380ZHjnQCp93H8ihs0) | 3:31 |
+| 38 | [Sycamore Tree](https://open.spotify.com/track/7KijSBqHaE0gNsogRskdrq) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Passion](https://open.spotify.com/album/4a3q380ZHjnQCp93H8ihs0) | 3:31 |
+| 39 | [Too Young](https://open.spotify.com/track/4YC0g1gFRX4PG3C8TvVNcn) | [Cocoa Tea](https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Good Life](https://open.spotify.com/album/2OqPHmyhLyQ4kwdWDRLIiz) | 3:47 |
 | 40 | [Temperature](https://open.spotify.com/track/2BDTYAe51lKG7w5XMCVeyg) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Reggae Gold 2012](https://open.spotify.com/album/6ZETpi6qYuaLSvgs57jbVS) | 3:36 |
 | 41 | [Greetings](https://open.spotify.com/track/6nr2aNTBIM1zQfhyfPMggE) | [Half Pint](https://open.spotify.com/artist/0tGZBRO4tZjpUOZcD7tMeS) | [Half Pint](https://open.spotify.com/album/0YhtIoVdbKvKCyNCU33D5s) | 3:39 |
 | 42 | [Hold You](https://open.spotify.com/track/6oBhPRIctSuiSA01i7bnzT) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:52 |

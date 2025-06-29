@@ -1,12 +1,12 @@
 {
   "description": "This is Bailey Zimmerman. The essential tracks, all in one playlist.",
-  "num_followers": 40463,
+  "num_followers": 40499,
   "original_name": "This Is Bailey Zimmerman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAABNsvyyRBWXzcu6BhYDdgRk",
+  "snapshot_id": "aF3fAAAAAACWno34ffHu+7Yle3ny+1Rj",
   "tracks": [
     {
       "added_at": null,
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 232058,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs"
+      "duration_ms": 178723,
+      "name": "Religiously",
+      "url": "https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R"
     },
     {
       "added_at": null,
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 178723,
-      "name": "Religiously",
-      "url": "https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R"
+      "duration_ms": 232058,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs"
     },
     {
       "added_at": null,
@@ -347,6 +347,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 183815,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Won\u2019t Back Down (feat. YoungBoy Never Broke Again, Dermot Kennedy & Bailey Zimmerman) [FAST X / Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/4CU2iotem1HERk9Rm3V8w6"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 163257,
       "name": "Won\u2019t Back Down (feat. YoungBoy Never Broke Again, Dermot Kennedy & Bailey Zimmerman)",
       "url": "https://open.spotify.com/track/7JODkWwpYsZt5racs1IiOJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live From Nashville",
-        "url": "https://open.spotify.com/album/2WaRFVSRoYF4sW35doUmdF"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        },
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 281323,
-      "name": "Rockstar (with Bailey Zimmerman) - Live From Nashville",
-      "url": "https://open.spotify.com/track/2uQfe8bd43MRHIjHwaAgC8"
     },
     {
       "added_at": null,
@@ -423,6 +423,26 @@
       "duration_ms": 198904,
       "name": "Chase Her",
       "url": "https://open.spotify.com/track/3a8NTuwOT8NcIS3FpsLhY1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live From Nashville",
+        "url": "https://open.spotify.com/album/2WaRFVSRoYF4sW35doUmdF"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        },
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 281323,
+      "name": "Rockstar (with Bailey Zimmerman) - Live From Nashville",
+      "url": "https://open.spotify.com/track/2uQfe8bd43MRHIjHwaAgC8"
     },
     {
       "added_at": null,

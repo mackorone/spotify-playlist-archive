@@ -4,7 +4,7 @@
 
 > 
 
-7,399 songs - 19 day 5 hr 25 min
+7,402 songs - 19 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -532,6 +532,7 @@
 | [Back on Road](https://open.spotify.com/track/2FRitmBAk5JiXAA02BKo4P) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Everybody Looking](https://open.spotify.com/album/5GMmnwVu1VyxwZUt0T2uvJ) | 2:29 | 2025-01-03 |  |
 | [Back on the Road \(feat\. Lil Wayne\)](https://open.spotify.com/track/3MsEJbnW0SYWNzQ6D1j5Xm) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [The Crossroads](https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR) | 2:36 | 2024-12-14 |  |
 | [Back Stabbers](https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 3:06 | 2025-01-04 |  |
+| [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-06-28 |  |
 | [BACK TO ME](https://open.spotify.com/track/0Tgm7wkLb0AfAHAZDschvD) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:55 | 2025-01-03 |  |
 | [Back When](https://open.spotify.com/track/1XomKmpYkL7qlTVDkCdpzw) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Back When](https://open.spotify.com/album/5lcGVCFjiFNizsufqs1D0h) | 4:03 | 2025-01-03 |  |
 | [BackOutsideBoyz](https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:32 | 2025-01-03 |  |
@@ -2199,6 +2200,7 @@
 | [good kid](https://open.spotify.com/track/0PKJxo97zXT8oAwl2zFnPh) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/748dZDqSZy6aPXKcI9H80u) | 3:34 | 2025-01-03 |  |
 | [good kid](https://open.spotify.com/track/5vuJuBqwzHJgCA1ysRfwxZ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 3:34 | 2025-01-03 |  |
 | [Good Life](https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:27 | 2025-01-03 |  |
+| [Good Looking](https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:34 | 2025-06-28 |  |
 | [Good Morning](https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:15 | 2025-01-03 |  |
 | [Good Morning](https://open.spotify.com/track/6tKg4buNB9TKmaU8BYPE7V) | [Omori](https://open.spotify.com/artist/4DoTDDfW3gkeyb06XrIHlg) | [Omori \(Original Game Soundtrack\), Pt.3](https://open.spotify.com/album/0ZBx5R4ABubjsJ6yovFJXp) | 1:48 | 2025-02-10 |  |
 | [Good Morning In Paris](https://open.spotify.com/track/2ZLIUdOSOeZOvGPRyzx0j0) | [Slowtea](https://open.spotify.com/artist/2yr3o06a0BFPfZxAqF4beo) | [Good Morning In Paris](https://open.spotify.com/album/1qGhSRMleues6o6HNMSAyM) | 3:28 | 2025-01-19 |  |
@@ -4245,6 +4247,7 @@
 | [PAID](https://open.spotify.com/track/1tz4np70ZKhzaXjdgl0J8i) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 3:15 | 2025-01-03 |  |
 | [Paid In Full](https://open.spotify.com/track/20s3FayrStM8GY0m4dRFsw) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv), [Marley Marl](https://open.spotify.com/artist/0AqfGv5Nifg1klh0iH4Nqs) | [Paid In Full](https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz) | 3:48 | 2025-01-03 |  |
 | [Pain](https://open.spotify.com/track/6eLSYGoJhXsR6ZhQEtTC3o) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [and the Anonymous Nobody...](https://open.spotify.com/album/73USNxSgFncLAsOAWfIA4J) | 4:39 | 2025-01-03 |  |
+| [Pain](https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:38 | 2025-06-28 |  |
 | [Pain](https://open.spotify.com/track/5oXO6utw8aNtgWgIX1iyS4) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [My Name Is My Name](https://open.spotify.com/album/42oQv8fbI5CbeuAasf2ILC) | 4:10 | 2025-01-15 |  |
 | [Pain & Strife \(feat\. Offset\)](https://open.spotify.com/track/5sER6mjVIHvloVenvFbgT1) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:37 | 2025-01-03 |  |
 | [Pain \(feat\. OverDoz.\)](https://open.spotify.com/track/6CZpEC9kyyCJWWZKPnviXY) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [OverDoz.](https://open.spotify.com/artist/5I81SUgzZ0g7dWkWKDc4QY) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J) | 3:53 | 2024-12-05 |  |

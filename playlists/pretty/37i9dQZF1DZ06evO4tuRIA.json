@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 96473,
+  "num_followers": 96495,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAACuef0mpvZa9hrGh64X9tXJ",
+  "snapshot_id": "aF3fAAAAAAAsvnS3GQhDfmVdIP4Cj9n4",
   "tracks": [
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 170672,
-      "name": "En La Bola (feat. El De La Guitarra)",
-      "url": "https://open.spotify.com/track/1MKSWLFVyxgdLKE8YUby50"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy de Michoacan",
         "url": "https://open.spotify.com/album/6JNBghccdWUKfOdfVXDS5A"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 162375,
       "name": "Soy de Michoacan",
       "url": "https://open.spotify.com/track/5ZwLG5AaxZuRLoIBZE5KR4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 170672,
+      "name": "En La Bola (feat. El De La Guitarra)",
+      "url": "https://open.spotify.com/track/1MKSWLFVyxgdLKE8YUby50"
     },
     {
       "added_at": null,
@@ -779,26 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reyes Magos",
-        "url": "https://open.spotify.com/album/607kkbEXNd4v5AOE5CnttF"
+        "name": "F\u00e1cil no Fue",
+        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
       },
       "artists": [
         {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        },
+        {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "JOP",
-          "url": "https://open.spotify.com/artist/7ob0holUszbJOSSotPiyba"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Reyes Magos",
-      "url": "https://open.spotify.com/track/4FdSA59Wyl2p5FOW3lrNkX"
+      "duration_ms": 162013,
+      "name": "Pura Adrenalina",
+      "url": "https://open.spotify.com/track/5Ho2PsKBXFpSjRBrnDwF3N"
     },
     {
       "added_at": null,
@@ -823,22 +819,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e1cil no Fue",
-        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
+        "name": "Reyes Magos",
+        "url": "https://open.spotify.com/album/607kkbEXNd4v5AOE5CnttF"
       },
       "artists": [
         {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        },
-        {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "JOP",
+          "url": "https://open.spotify.com/artist/7ob0holUszbJOSSotPiyba"
         }
       ],
-      "duration_ms": 162013,
-      "name": "Pura Adrenalina",
-      "url": "https://open.spotify.com/track/5Ho2PsKBXFpSjRBrnDwF3N"
+      "duration_ms": 128000,
+      "name": "Reyes Magos",
+      "url": "https://open.spotify.com/track/4FdSA59Wyl2p5FOW3lrNkX"
     },
     {
       "added_at": null,

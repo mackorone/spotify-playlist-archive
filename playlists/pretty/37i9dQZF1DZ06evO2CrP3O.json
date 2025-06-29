@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 137906,
+  "num_followers": 137910,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAACUhIOQ4P3BmwmhpaSpDJOQ",
+  "snapshot_id": "aF3fAAAAAACbSkFFJ8R6k/lxcL4ofsps",
   "tracks": [
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 253631,
-      "name": "Accidents Never Happen",
-      "url": "https://open.spotify.com/track/0HwEzRnnfi4cHqnSu9Q6K6"
+      "duration_ms": 222600,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/03SV49CTiBv7llc0s0FqhV"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 222600,
-      "name": "The Hardest Part",
-      "url": "https://open.spotify.com/track/03SV49CTiBv7llc0s0FqhV"
+      "duration_ms": 253631,
+      "name": "Accidents Never Happen",
+      "url": "https://open.spotify.com/track/0HwEzRnnfi4cHqnSu9Q6K6"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live in San Francisco 1977, Vol. 1 (HQ Remastered)",
-        "url": "https://open.spotify.com/album/2uk1qcgOFqNsNbF2z9tQ2F"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 39393,
-      "name": "Warm-Up",
-      "url": "https://open.spotify.com/track/3bmBowxAoP4OxzIJv9weMc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blondie (Remastered 2001)",
         "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 202000,
       "name": "Man Overboard - Remastered 2001",
       "url": "https://open.spotify.com/track/2miornYLAQaVJBSTKb48Go"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live in San Francisco 1977, Vol. 1 (HQ Remastered)",
+        "url": "https://open.spotify.com/album/2uk1qcgOFqNsNbF2z9tQ2F"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 39393,
+      "name": "Warm-Up",
+      "url": "https://open.spotify.com/track/3bmBowxAoP4OxzIJv9weMc"
     },
     {
       "added_at": null,

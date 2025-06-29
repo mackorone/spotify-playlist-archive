@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 201804,
+  "num_followers": 201811,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAADLsgp8CezTFHXlsE1fOIVl",
+  "snapshot_id": "aF3fAAAAAABAijBNFs5EHur3dZTqmwCH",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,38 @@
       "duration_ms": 188563,
       "name": "Numbers (feat. Roddy Ricch, Gunna and London On Da Track)",
       "url": "https://open.spotify.com/track/733c1CWmIGymoQXdp7Us88"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/5tfxs8Ev6kN5DFciteXQWl"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 163177,
+      "name": "Naked (feat. A Boogie wit da Hoodie)",
+      "url": "https://open.spotify.com/track/10LLgzL0swcGCkmbXFdp9O"
     },
     {
       "added_at": null,
@@ -855,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LP1",
-        "url": "https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm"
-      },
-      "artists": [
-        {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 165710,
-      "name": "Stack It Up (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/426utyJ4B1l4vi5i5ULU5k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
@@ -891,6 +903,26 @@
       "duration_ms": 183652,
       "name": "Chills (LA Hills)",
       "url": "https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LP1",
+        "url": "https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm"
+      },
+      "artists": [
+        {
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 165710,
+      "name": "Stack It Up (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/426utyJ4B1l4vi5i5ULU5k"
     },
     {
       "added_at": null,
@@ -1007,22 +1039,6 @@
       "duration_ms": 161120,
       "name": "Foreigner (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/7AdTyfK7fnvUYbUCGpWqUf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Artist 2.0",
-        "url": "https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "Mood Swings",
-      "url": "https://open.spotify.com/track/0VZe8C7xgAIQC0E0qEVIEh"
     }
   ],
   "unique_name": "This Is A Boogie Wit da Hoodie",

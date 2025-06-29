@@ -4,7 +4,7 @@
 
 > This is KB\. The essential tracks, all in one playlist.
 
-83 songs - 4 hr 49 min
+84 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Intro to Glory](https://open.spotify.com/track/4JAN8bCFjs6pZsQ1d0A5BW) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone II \(Deluxe\)](https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS) | 3:26 | 2024-02-27 | 2024-03-21 |
 | [It Ain't Safe](https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone II \(Deluxe\)](https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS) | 2:57 | 2024-02-17 |  |
 | [It's Time](https://open.spotify.com/track/1buXNTGRvMLk1MMC1Apgjd) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [It's Time](https://open.spotify.com/album/6KhGzjhjn0AX7juE7LOsRJ) | 2:33 | 2024-09-20 |  |
+| [Keanu's Song](https://open.spotify.com/track/3WN17zGd3yNhnHrRx15dXh) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [KEANU](https://open.spotify.com/artist/40pc6Qqld78NJkYo9bcptY) | [Keanu's Song](https://open.spotify.com/album/1k96DLD2VLtsuYtaHHZpbo) | 2:32 | 2025-06-29 |  |
 | [King Jesus](https://open.spotify.com/track/1o6Rm46dLxydQtmOw233jX) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:48 | 2023-12-13 |  |
 | [King Jesus](https://open.spotify.com/track/2ZiFqYVqFov05oVA8QQjEP) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [King Jesus](https://open.spotify.com/album/5YJm6pkNV8vFWjqDc9LNDD) | 2:48 | 2023-03-17 | 2023-12-14 |
 | [Let Go Let God \(The Anthem\)](https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Let Go Let God: The EP](https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY) | 3:05 | 2024-11-24 |  |
@@ -73,7 +74,7 @@
 | [Prove It](https://open.spotify.com/track/1tGKjMflcFTEY2IOzKhwLe) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [American Prodigal \(Deluxe Edition\)](https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ) | 2:36 | 2023-03-17 |  |
 | [Sideways](https://open.spotify.com/track/7qzqx1R7HHWKcwioMAqX2M) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Tomorrow We Live](https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR) | 4:14 | 2023-03-17 | 2024-07-29 |
 | [Smoke Free](https://open.spotify.com/track/4N0kn2312eWP0ufX6O6lkZ) | [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Messenger 4: Independents Day](https://open.spotify.com/album/0mi8gsJuVUlshWtP5yaq3U) | 4:19 | 2023-03-17 | 2025-06-24 |
-| [So Tired \(feat\. Bizzle & Zhalarina\)](https://open.spotify.com/track/2TYtWTZO97F1Uyuwov8wSk) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [Zhalarina](https://open.spotify.com/artist/4YGH9xeBuphWZaiiWmG8sC) | [So Tired \(feat\. Bizzle & Zhalarina\)](https://open.spotify.com/album/4pLXkCFVxFL1yNy85N3vSb) | 3:28 | 2023-03-17 |  |
+| [So Tired \(feat\. Bizzle & Zhalarina\)](https://open.spotify.com/track/2TYtWTZO97F1Uyuwov8wSk) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [Zhalarina](https://open.spotify.com/artist/4YGH9xeBuphWZaiiWmG8sC) | [So Tired \(feat\. Bizzle & Zhalarina\)](https://open.spotify.com/album/4pLXkCFVxFL1yNy85N3vSb) | 3:28 | 2023-03-17 | 2025-06-29 |
 | [Start Right Here \(HGA Version\)](https://open.spotify.com/track/6iLtLgh5wyYIN4OVgxiSAV) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Start Right Here \(HGA Version\)](https://open.spotify.com/album/0k32rDwHYgyV5Zk6GvaVHQ) | 2:53 | 2023-03-17 |  |
 | [Talk to Me Nice](https://open.spotify.com/track/7dp1ONlSA4YoKd0jbSDUBP) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 3:27 | 2023-08-19 | 2023-12-14 |
 | [Tempo](https://open.spotify.com/track/2qFykEZQhO43nt6Kbg0IFk) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Tempo](https://open.spotify.com/album/7CHHpR5lbHnnNdY2blhDhi) | 4:00 | 2023-03-17 | 2023-08-20 |

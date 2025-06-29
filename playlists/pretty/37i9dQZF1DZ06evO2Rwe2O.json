@@ -1,12 +1,12 @@
 {
   "description": "This is Big Daddy Weave. The essential tracks, all in one playlist.",
-  "num_followers": 12529,
+  "num_followers": 12527,
   "original_name": "This Is Big Daddy Weave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAAAqr03CADNK5UpZxxYN1Wwo",
+  "snapshot_id": "aF3fAAAAAAAmWDUIEUmLBXbrcevFksS2",
   "tracks": [
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Life Would Be Like",
-        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 258440,
-      "name": "Revive Us Again",
-      "url": "https://open.spotify.com/track/1gDz3147BMHrVz772aYTwn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Every Time I Breathe",
         "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 205413,
       "name": "In Christ",
       "url": "https://open.spotify.com/track/5arKXRuVZeyy0HOxWkoJUc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Life Would Be Like",
+        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 258440,
+      "name": "Revive Us Again",
+      "url": "https://open.spotify.com/track/1gDz3147BMHrVz772aYTwn"
     },
     {
       "added_at": null,

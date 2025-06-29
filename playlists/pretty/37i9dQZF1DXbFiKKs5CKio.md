@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,941 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,962 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 22 | [Vai dar Bom \(Ao Vivo\)](https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [NUNES](https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr) | [Neverlândia Sessions \(Ao Vivo\)](https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT) | 3:26 |
 | 23 | [ESCOLHAS](https://open.spotify.com/track/5l4yvhKkTcosuRuOaF5Kcx) | [VÉRTICE](https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm) | [ESCOLHAS](https://open.spotify.com/album/03pGiKAx5rT7nBELKTZ7Ot) | 3:41 |
 | 24 | [Deixa](https://open.spotify.com/track/59ZjIItfGwA39IWTxibw33) | [Nathi](https://open.spotify.com/artist/1LeAwT4Eu1E6ySD3htFnh9) | [Deixa](https://open.spotify.com/album/7zS1vdR4gWETQig8uVCBlI) | 3:24 |
-| 25 | [Segredos](https://open.spotify.com/track/2i14luvcN0QonXe22WYQUA) | [Latrel](https://open.spotify.com/artist/5eNaeqDTUzL2q3zO8lXMvZ), [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8), [YellowLab](https://open.spotify.com/artist/4oI7Lvu0tN4iZyMmGe93k4) | [Segredos](https://open.spotify.com/album/1JDkiInlk98A1ctUOxyjvk) | 2:51 |
-| 26 | [Vícios q eu gosto](https://open.spotify.com/track/7E2VYyqSttr2ixmQuVKkmJ) | [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz) | [Vícios q eu gosto](https://open.spotify.com/album/5VabHZWJ63oMysUQC7ULsN) | 2:32 |
+| 25 | [Vícios q eu gosto](https://open.spotify.com/track/7E2VYyqSttr2ixmQuVKkmJ) | [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz) | [Vícios q eu gosto](https://open.spotify.com/album/5VabHZWJ63oMysUQC7ULsN) | 2:32 |
+| 26 | [Segredos](https://open.spotify.com/track/2i14luvcN0QonXe22WYQUA) | [Latrel](https://open.spotify.com/artist/5eNaeqDTUzL2q3zO8lXMvZ), [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8), [YellowLab](https://open.spotify.com/artist/4oI7Lvu0tN4iZyMmGe93k4) | [Segredos](https://open.spotify.com/album/1JDkiInlk98A1ctUOxyjvk) | 2:51 |
 | 27 | [OFERENDA](https://open.spotify.com/track/4knACzeO6UUyh8mVMzhAk2) | [Trajano](https://open.spotify.com/artist/3LxEjKaojOdrfAZ4HrdJQy) | [TRANÇA](https://open.spotify.com/album/33o0Id7mFVN77Vn4tKx8EQ) | 4:29 |
 | 28 | [reconectar](https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f), [Gaza OG](https://open.spotify.com/artist/08OEOpKk43nidwxmby8W0W) | [reconectar](https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI) | 2:48 |
 | 29 | [Traços](https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC) | [Pedro Stone](https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM) | [Traços](https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L) | 3:19 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 40 | [Dava Praia](https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm) | [Guinu](https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl), [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [Dava Praia](https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT) | 2:43 |
 | 41 | [Deixa Estar \(Sha la la\)](https://open.spotify.com/track/1EHIcTGfRgNegmhJYbdEEX) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg) | [Deixa Estar \(Sha la la\)](https://open.spotify.com/album/3ZhTlCzRUXYaLyWLavKKqQ) | 5:25 |
 | 42 | [Minha Casa](https://open.spotify.com/track/7GwqPVyfdlWpAWbZM8DSml) | [Malu Magri](https://open.spotify.com/artist/101igRc4wvE7sWiHu8KWI7) | [Morrendo de Prazer](https://open.spotify.com/album/1egVVkEcvdi70ibvhbiF7g) | 4:19 |
-| 43 | [Me Amas](https://open.spotify.com/track/0ui76V04K1vmUplSX3BZM4) | [idontcare](https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e) | [Como é bom poder dizer eu te amo](https://open.spotify.com/album/21295uHlotpc6pU7N7dso1) | 2:23 |
-| 44 | [98'](https://open.spotify.com/track/4ra4BrE9mPhMKwBkM2otjR) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 3:26 |
+| 43 | [98'](https://open.spotify.com/track/4ra4BrE9mPhMKwBkM2otjR) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 3:26 |
+| 44 | [Me Amas](https://open.spotify.com/track/0ui76V04K1vmUplSX3BZM4) | [idontcare](https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e) | [Como é bom poder dizer eu te amo](https://open.spotify.com/album/21295uHlotpc6pU7N7dso1) | 2:23 |
 | 45 | [Aurora](https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aurora](https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL) | 2:31 |
 | 46 | [Música](https://open.spotify.com/track/7HGFGnAuiRMKMAEnxbpFZ8) | [YAZI](https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP), [A Timeline](https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed) | [Música](https://open.spotify.com/album/3UGv2sdXNmT92Y3cejde4L) | 3:23 |
 | 47 | [Eu Tava Em Casa](https://open.spotify.com/track/2h7DmQXeYqAXG9cMtqdiLy) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/5A6E29QwhDcINDIEBSbYPR) | 4:09 |

@@ -1129,6 +1129,32 @@
     },
     {
       "album": {
+        "name": "Bridge: Berceuse",
+        "url": "https://open.spotify.com/album/75ldCnHN6Y8OB3z4xSJYYI"
+      },
+      "artists": [
+        {
+          "name": "Frank Bridge",
+          "url": "https://open.spotify.com/artist/7rj5B6cNPEJhWLnZAPSw9c"
+        },
+        {
+          "name": "Gerald Peregrine",
+          "url": "https://open.spotify.com/artist/4mpoecueQYD4qDdoj81bNF"
+        },
+        {
+          "name": "Antony Ingham",
+          "url": "https://open.spotify.com/artist/2CKDbVx8sSX0xJX2sMtDIX"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "Berceuse (Version for Cello and Piano): Berceuse (Version for Cello and Piano)",
+      "url": "https://open.spotify.com/track/1mvl7VYe5lZDheSEYiYJ22"
+    },
+    {
+      "album": {
         "name": "Chopin: Berceuse in D-Flat Major, Op. 57",
         "url": "https://open.spotify.com/album/4DivI1dZOa7WfhdwNBYxmb"
       },
@@ -1680,7 +1706,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 197200,
       "name": "Come, Sweet Death, BWV 478 (Arr. for 5 Cellos)",
       "url": "https://open.spotify.com/track/4zdyJk5NEGXiWIZ87zfRVQ"
@@ -3183,6 +3209,10 @@
         "url": "https://open.spotify.com/album/2lAoaPfFfBkOQPTcLBZ6pI"
       },
       "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
@@ -5785,6 +5815,10 @@
         "url": "https://open.spotify.com/album/2lAoaPfFfBkOQPTcLBZ6pI"
       },
       "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"

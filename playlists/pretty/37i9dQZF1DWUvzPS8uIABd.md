@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa VIIVI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,597 likes - 79 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,632 likes - 79 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ilman sua](https://open.spotify.com/track/4zfCDCuYM2r0rCRWdnhS1n) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Ilman sua](https://open.spotify.com/album/3zmhcYYQW88NrOk5QlITTY) | 3:16 |
 | 2 | [Paha vaanii \(feat\. Antti\)](https://open.spotify.com/track/5WfCy8iS2IOdwnLuJktPJX) | [Niilo](https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab), [Antti](https://open.spotify.com/artist/4tIEawwvJlYytKn6WXxviI) | [Paha vaanii \(feat\. Antti\)](https://open.spotify.com/album/5kftHf2AemMf3oP1gNGDs8) | 3:26 |
-| 3 | [Kävi miten kävi \(feat\. emma & matilda\)](https://open.spotify.com/track/6PWCKV8BtCneJCDOAlwyDr) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Kävi miten kävi \(feat\. emma & matilda\)](https://open.spotify.com/album/41JGibvkIPYPQheqaE8nhi) | 3:11 |
-| 4 | [Äiti Teresa \(feat\. Bizi\)](https://open.spotify.com/track/0qhInLAWcI38LnFEcKa2FV) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Äiti Teresa \(feat\. Bizi\)](https://open.spotify.com/album/49KPpjc1firTCQNTJAGn1i) | 2:44 |
-| 5 | [Oma Vika](https://open.spotify.com/track/1XVaev7QO2VXE9px7ZVYQU) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Oma Vika](https://open.spotify.com/album/263PqyFcT0ybALVIkRKZvt) | 2:57 |
+| 3 | [Oma Vika](https://open.spotify.com/track/1XVaev7QO2VXE9px7ZVYQU) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Oma Vika](https://open.spotify.com/album/263PqyFcT0ybALVIkRKZvt) | 2:57 |
+| 4 | [Kävi miten kävi \(feat\. emma & matilda\)](https://open.spotify.com/track/6PWCKV8BtCneJCDOAlwyDr) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Kävi miten kävi \(feat\. emma & matilda\)](https://open.spotify.com/album/41JGibvkIPYPQheqaE8nhi) | 3:11 |
+| 5 | [Äiti Teresa \(feat\. Bizi\)](https://open.spotify.com/track/0qhInLAWcI38LnFEcKa2FV) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Äiti Teresa \(feat\. Bizi\)](https://open.spotify.com/album/49KPpjc1firTCQNTJAGn1i) | 2:44 |
 | 6 | [Kultainen sukupolvi](https://open.spotify.com/track/4YklVPiwl9oF6mVsdQiVCc) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Kultainen sukupolvi](https://open.spotify.com/album/2jWK2gDIISWMqU9xVoQbnj) | 3:37 |
 | 7 | [Tämän kesän viheltelen](https://open.spotify.com/track/4pPImvY6UT7E0R1kozRkM7) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Tämän kesän viheltelen](https://open.spotify.com/album/1upsapQ1u3t0K2VVhpjb4l) | 3:08 |
 | 8 | [Don Julio](https://open.spotify.com/track/5pOJlSzz39LNDSTbM9556B) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Don Julio](https://open.spotify.com/album/7wJ9y8b9Yf5t9awj3z1IkX) | 2:55 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 78 | [Kuka sä luulit et mä oon?](https://open.spotify.com/track/6rfRgjZ5IrLlGqpTcytRQo) | [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Kuka sä luulit et mä oon?](https://open.spotify.com/album/2cNltXIjkuCZxJugsd7Fxe) | 2:36 |
 | 79 | [Leffastara](https://open.spotify.com/track/7ceplN1E5dAupsN6Muxlfr) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Leffastara](https://open.spotify.com/album/1MXiWQsS8FPDdVx4ih7DUk) | 2:38 |
 
-Snapshot ID: `aF21FgAAAACdvWeEHf3lcEFjM8L2tgIa`
+Snapshot ID: `aGAkLwAAAAAutVkn8jB2tYXMv/OE/s33`

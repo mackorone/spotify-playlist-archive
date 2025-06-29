@@ -471,6 +471,36 @@
     },
     {
       "album": {
+        "name": "LUCY",
+        "url": "https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi"
+      },
+      "artists": [
+        {
+          "name": "Bktherula",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251128,
+      "name": "EUPHORIA",
+      "url": "https://open.spotify.com/track/0kpDa6Wl0DT6rUcAuFKjYL"
+    },
+    {
+      "album": {
         "name": "DUMMY BOY (Revised)",
         "url": "https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr"
       },

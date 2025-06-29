@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,902 likes - 120 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,850 likes - 120 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 28 | [Upwards](https://open.spotify.com/track/7AR7xW0wCscHZeYf2zj7Fc) | [Edmund's Oasis](https://open.spotify.com/artist/5zPsjxustR5GJSG26xw2SR) | [Signals Cometh](https://open.spotify.com/album/1wn3AKz6aDS0NHOkFgTi8L) | 2:03 |
 | 29 | [Space Musec](https://open.spotify.com/track/3JOyNKgNwndDAOh4lh5gyV) | [neon cosmo](https://open.spotify.com/artist/5JJlwfHP7R3sSWfrDn4FOV) | [Space Musec](https://open.spotify.com/album/6bwSamSLY9C3h6PLqAANir) | 2:58 |
 | 30 | [Avori](https://open.spotify.com/track/2Fq3ZwxleE9ahYEAvcZSji) | [Mirova](https://open.spotify.com/artist/3sD5yaSCD2OZCQGFvIGPDL) | [Avori](https://open.spotify.com/album/4pWrxItDLygNwhM6pHIgeO) | 2:51 |
-| 31 | [Ripples](https://open.spotify.com/track/1rWawgLzS079ClXGAor0QZ) | [Omiophyllus](https://open.spotify.com/artist/6qgzkp2OY1uBlebnJxfOlx) | [Ripples](https://open.spotify.com/album/1pYpHThYENxCZG3N7qcjRg) | 2:40 |
-| 32 | [Andromeda](https://open.spotify.com/track/57lzy4rzWaqaFfTMw8y0cJ) | [Lonely Roads](https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5) | [Electric Pulses](https://open.spotify.com/album/74SSquwi9PTn3HJ52LkHKM) | 3:16 |
-| 33 | [The Code of Love](https://open.spotify.com/track/2XMh8glKFSaJoc1OYO6ndu) | [Lofty Escape](https://open.spotify.com/artist/3VlqOVcIiqnACv20YHvqZe) | [The Code of Love](https://open.spotify.com/album/6lhk0uX5IjPWIPh4KiEKhh) | 2:22 |
+| 31 | [The Code of Love](https://open.spotify.com/track/2XMh8glKFSaJoc1OYO6ndu) | [Lofty Escape](https://open.spotify.com/artist/3VlqOVcIiqnACv20YHvqZe) | [The Code of Love](https://open.spotify.com/album/6lhk0uX5IjPWIPh4KiEKhh) | 2:22 |
+| 32 | [Ripples](https://open.spotify.com/track/1rWawgLzS079ClXGAor0QZ) | [Omiophyllus](https://open.spotify.com/artist/6qgzkp2OY1uBlebnJxfOlx) | [Ripples](https://open.spotify.com/album/1pYpHThYENxCZG3N7qcjRg) | 2:40 |
+| 33 | [Andromeda](https://open.spotify.com/track/57lzy4rzWaqaFfTMw8y0cJ) | [Lonely Roads](https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5) | [Electric Pulses](https://open.spotify.com/album/74SSquwi9PTn3HJ52LkHKM) | 3:16 |
 | 34 | [Shine A Light](https://open.spotify.com/track/7edxt3DeYATXzq593rV2uf) | [Ólafur Apollo](https://open.spotify.com/artist/1uBzypkt8OzAyPkGifMjHI) | [Shine A Light](https://open.spotify.com/album/7Cf5ZlFU5bOXJYzvUuGkOk) | 2:27 |
 | 35 | [Serein](https://open.spotify.com/track/4qp0G8jqiLlX7XKrQXrbDd) | [Rubicon Fray](https://open.spotify.com/artist/26I6Wv05zdcv6tt43ruf5Z) | [Serein](https://open.spotify.com/album/1xzXGvh6fzETBdgVTSd1Vi) | 2:57 |
 | 36 | [Silkolene](https://open.spotify.com/track/4Lb9sFO4Tlh0y4GwZ4A6GQ) | [Ageena](https://open.spotify.com/artist/183DOqgVm3LpcUQFICEpH2) | [Silkolene](https://open.spotify.com/album/6h0HhaKMez1udbdxZQ3MdU) | 2:25 |
@@ -95,16 +95,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 85 | [Brooding](https://open.spotify.com/track/0oCRt1aONzpz97nMTSCvTe) | [Enchanted Candlestick](https://open.spotify.com/artist/3jAFYmyMpB3O7LD8zRiRae) | [Brooding](https://open.spotify.com/album/6swTHBD1IWDd3yKUSbfIXL) | 2:28 |
 | 86 | [Forgotten Lullaby](https://open.spotify.com/track/1Ro3UnADPrmE9iyk1i2Qam) | [Altered Echoes](https://open.spotify.com/artist/3wUAuh9pHdfvZuw5y7VE1f) | [Forgotten Lullaby](https://open.spotify.com/album/1SUSNATyDjlk5LaHzh4AkJ) | 2:11 |
 | 87 | [Unsaid](https://open.spotify.com/track/2AGNymbWbkZUYTZIAdGb4H) | [Nowun](https://open.spotify.com/artist/6iuLyhiEemtogvz593CVKK) | [Unsaid](https://open.spotify.com/album/7I2441VTSINBUfbWemfCyG) | 2:28 |
-| 88 | [Angelus](https://open.spotify.com/track/1oYc7762RLlwGXpVtUh3Bf) | [Yaalani](https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ) | [Angelus](https://open.spotify.com/album/2x9SoHtnhVlqSs8MwnkUBP) | 2:22 |
-| 89 | [Secrets](https://open.spotify.com/track/4vKfeLftDJXcbaZyA6ftvZ) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Sound Therapy Ambient Compilation, Vol\. 1](https://open.spotify.com/album/1mH2d032QQlX3GLb14qdwA) | 2:55 |
-| 90 | [Ode to Blue](https://open.spotify.com/track/5slC4oYhwfrRaQfohUUNro) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Ode to Blue](https://open.spotify.com/album/3qI04UX6VcWk6X2Hejl3qk) | 3:57 |
+| 88 | [Secrets](https://open.spotify.com/track/4vKfeLftDJXcbaZyA6ftvZ) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Sound Therapy Ambient Compilation, Vol\. 1](https://open.spotify.com/album/1mH2d032QQlX3GLb14qdwA) | 2:55 |
+| 89 | [Ode to Blue](https://open.spotify.com/track/5slC4oYhwfrRaQfohUUNro) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Ode to Blue](https://open.spotify.com/album/3qI04UX6VcWk6X2Hejl3qk) | 3:57 |
+| 90 | [Angelus](https://open.spotify.com/track/1oYc7762RLlwGXpVtUh3Bf) | [Yaalani](https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ) | [Angelus](https://open.spotify.com/album/2x9SoHtnhVlqSs8MwnkUBP) | 2:22 |
 | 91 | [A Free Mind](https://open.spotify.com/track/2W3IFaBdj4QzU6NSR9mCQ1) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [A Free Mind](https://open.spotify.com/album/0PVEmsVmGT0MKASkABJbEe) | 3:30 |
-| 92 | [Beautiful Design](https://open.spotify.com/track/1Vnqd9ySFHFnXUuOeflQqr) | [dream index](https://open.spotify.com/artist/4qQhnABlGWb6DvXyTI4bTN) | [Beautiful Design](https://open.spotify.com/album/49owziR1u29dhr8009A3ey) | 3:18 |
-| 93 | [Reveries](https://open.spotify.com/track/2Vjjo1WB2m1YBYyJqrcA9u) | [Dream City](https://open.spotify.com/artist/0xKWlgGQrGhZgWxhbQlBSE) | [Somnolent Summer](https://open.spotify.com/album/7lvhfPxqTsvbM5ZFKPinq2) | 2:02 |
+| 92 | [Reveries](https://open.spotify.com/track/2Vjjo1WB2m1YBYyJqrcA9u) | [Dream City](https://open.spotify.com/artist/0xKWlgGQrGhZgWxhbQlBSE) | [Somnolent Summer](https://open.spotify.com/album/7lvhfPxqTsvbM5ZFKPinq2) | 2:02 |
+| 93 | [Beautiful Design](https://open.spotify.com/track/1Vnqd9ySFHFnXUuOeflQqr) | [dream index](https://open.spotify.com/artist/4qQhnABlGWb6DvXyTI4bTN) | [Beautiful Design](https://open.spotify.com/album/49owziR1u29dhr8009A3ey) | 3:18 |
 | 94 | [Opulence](https://open.spotify.com/track/4auTt6uBgN6DjyS3xIi7zZ) | [Spherical Harmonics](https://open.spotify.com/artist/6zmgXBf7eD1SpC4O5NJo0H) | [Opulence](https://open.spotify.com/album/1T8mFwmRgnGXLCS6IZBst9) | 2:24 |
 | 95 | [Bright Morning](https://open.spotify.com/track/7tXgHTkGacOBktzEMsqvbv) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Bright Morning](https://open.spotify.com/album/0TaZGDp9e9UfjpmrmTKRNb) | 3:24 |
-| 96 | [Lätt](https://open.spotify.com/track/22uuXDOeqbH5auwVCX0yL3) | [Soulgarden](https://open.spotify.com/artist/4D1RsYNSjyxvaKtj5qIdps) | [Lätt](https://open.spotify.com/album/6x0JCRqBVdm68Mt7dAk1cf) | 2:10 |
-| 97 | [A Spark, A Beginning](https://open.spotify.com/track/53Q8YAh03JoqrGQ5U9bZNx) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [A Spark, A Beginning / Proceed](https://open.spotify.com/album/31Tn4wkibL8c8EULYjmbNA) | 2:25 |
+| 96 | [A Spark, A Beginning](https://open.spotify.com/track/53Q8YAh03JoqrGQ5U9bZNx) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [A Spark, A Beginning / Proceed](https://open.spotify.com/album/31Tn4wkibL8c8EULYjmbNA) | 2:25 |
+| 97 | [Lätt](https://open.spotify.com/track/22uuXDOeqbH5auwVCX0yL3) | [Soulgarden](https://open.spotify.com/artist/4D1RsYNSjyxvaKtj5qIdps) | [Lätt](https://open.spotify.com/album/6x0JCRqBVdm68Mt7dAk1cf) | 2:10 |
 | 98 | [The Sign of Wilderness](https://open.spotify.com/track/1vXutoJkTys1XoWZHymwuM) | [Tenant Rights](https://open.spotify.com/artist/2wOOgtpQkMdDg4QDAXF7pP) | [Glide and Tread](https://open.spotify.com/album/3L9IwhYKaqaTrDX543a8Cw) | 3:39 |
 | 99 | [Transcendence EMDR](https://open.spotify.com/track/5g81eo7gUrc0exnDOhnoQJ) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Transcendence EMDR](https://open.spotify.com/album/2UOrOP0NQGSotpi2unJkxY) | 3:04 |
 | 100 | [Prieks](https://open.spotify.com/track/7pDVh7xNFhIBhF6tVSVDBB) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Prieks](https://open.spotify.com/album/0ci5ILaulRbEQGxFMCHBrs) | 2:25 |
@@ -119,14 +119,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 109 | [Resonatic](https://open.spotify.com/track/4dBLdbunzf7DmpKpH4Yokj) | [Inverse Gradient](https://open.spotify.com/artist/3DMGcwt4nmTJ3vmCgyvtFl) | [Resonatic](https://open.spotify.com/album/5pzHBFtPkW4tutzOLn5mGy) | 2:40 |
 | 110 | [Remeber](https://open.spotify.com/track/2UhEhSNnO7nNEwcOiy5Dxh) | [Noble S](https://open.spotify.com/artist/16I5ZrxxRz1JXlj8emMyKU) | [Remeber](https://open.spotify.com/album/04JqQZKjEkBykd74ZxSdtE) | 3:12 |
 | 111 | [Atlantis](https://open.spotify.com/track/7MQiicIO6sDUPX47tA7gUY) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Atlantis](https://open.spotify.com/album/1exDhAU4sMwTHjDbFFE9nA) | 4:18 |
-| 112 | [Umbrian Affair](https://open.spotify.com/track/3uS7zZlLcY1PiJ4KmFmPXG) | [Lena Bickeby](https://open.spotify.com/artist/0lb8V1RudMLNNsRF7mENZW) | [Umbrian Affair](https://open.spotify.com/album/1VrzjRpK2EWydopDXjvcUW) | 2:45 |
-| 113 | [Lumineux](https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz) | [Alice Rolande](https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC) | [Lumineux](https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt) | 3:37 |
+| 112 | [Lumineux](https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz) | [Alice Rolande](https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC) | [Lumineux](https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt) | 3:37 |
+| 113 | [Umbrian Affair](https://open.spotify.com/track/3uS7zZlLcY1PiJ4KmFmPXG) | [Lena Bickeby](https://open.spotify.com/artist/0lb8V1RudMLNNsRF7mENZW) | [Umbrian Affair](https://open.spotify.com/album/1VrzjRpK2EWydopDXjvcUW) | 2:45 |
 | 114 | [Dream Traveler](https://open.spotify.com/track/4qq5zkuRXq17ycXLBiFqC5) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Dream Traveler](https://open.spotify.com/album/1pF8o1asO5oWDoCG0DZZdZ) | 2:20 |
 | 115 | [Entering The Clockwork Halls](https://open.spotify.com/track/0zMVJBjdegDLhwhG0Iu9nS) | [Enchanted Candlestick](https://open.spotify.com/artist/3jAFYmyMpB3O7LD8zRiRae) | [Gale](https://open.spotify.com/album/3f8gwakpBwYXt6bIt8YTvR) | 2:18 |
 | 116 | [Traveling South](https://open.spotify.com/track/403ONsS1ggfGlohDshBgjG) | [Flouriiche](https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr) | [Traveling South](https://open.spotify.com/album/3a1knsci6NazXIV5pK4OFh) | 3:00 |
 | 117 | [Solicitude](https://open.spotify.com/track/3RlM2UQzdojpM6BzCyY37v) | [Garden of Sound](https://open.spotify.com/artist/71ZYJKoUfvXPoqzxdrVeH9) | [Solicitude](https://open.spotify.com/album/3p2ACTKxG9jRenqzfVi6x3) | 3:09 |
 | 118 | [Passing By](https://open.spotify.com/track/2FlD1WyrE1iNdflUvXAQoj) | [Sulfur Springs](https://open.spotify.com/artist/4W3lH1l0pEtX21XX6nOIRF) | [Passing By](https://open.spotify.com/album/1GL8XBwwxJzmytxkstvtTU) | 3:39 |
 | 119 | [Dancing In](https://open.spotify.com/track/72yToKzlUefPZOmYFd18Ai) | [La Dormilona](https://open.spotify.com/artist/4T6ME5iuu0IEJYNUldQ1u1) | [Dancing In My Dreams](https://open.spotify.com/album/29qcsRC2UteeNJ6qFWvmIK) | 3:08 |
-| 120 | [Tetrial](https://open.spotify.com/track/3RKdfJKiVlFEYkHy95Wipt) | [Isaïe Limbila](https://open.spotify.com/artist/1Xyby5XAIEpGvYZzIz9f8r) | [Tetrial](https://open.spotify.com/album/0s1etM9N31dg0pmY4Ijurv) | 3:15 |
+| 120 | [Quietud](https://open.spotify.com/track/5V5TF6nM3jYyvJENU2P8RK) | [Holographic Seawaves](https://open.spotify.com/artist/0DHRqGYLG6AaLUfbi8mUY1) | [Dusk Thoughts](https://open.spotify.com/album/2UY6uIUDMOrnqGrrSjbg7j) | 2:59 |
 
 Snapshot ID: `aCRWaAAAAAAWCeq1lrN75MZgZKi34A9k`

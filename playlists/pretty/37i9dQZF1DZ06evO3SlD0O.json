@@ -1,12 +1,12 @@
 {
   "description": "This is Los Traileros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 27175,
+  "num_followers": 27181,
   "original_name": "This Is Los Traileros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAACPsqTpK+LGY/XG6h4kidqM",
+  "snapshot_id": "aF3fAAAAAAA4bC4TSu0EsYsvEtLSyPOL",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosas Blancas",
-        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 140973,
-      "name": "Solo Y Triste",
-      "url": "https://open.spotify.com/track/2GNsqriWKJlqCaMCvfTW9H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apartamento Tres",
         "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 149386,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/3oPJCw88AtWLFRtFoEsoza"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rosas Blancas",
+        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 140973,
+      "name": "Solo Y Triste",
+      "url": "https://open.spotify.com/track/2GNsqriWKJlqCaMCvfTW9H"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosas Blancas",
-        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 153653,
-      "name": "La Quiero Con El Alma",
-      "url": "https://open.spotify.com/track/5O7gyxlFdbRcupanCMT1bG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
         "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 171080,
       "name": "Aprend\u00ed Contigo",
       "url": "https://open.spotify.com/track/3tWK9kNFdeeK5Q4vZ6M932"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rosas Blancas",
+        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 153653,
+      "name": "La Quiero Con El Alma",
+      "url": "https://open.spotify.com/track/5O7gyxlFdbRcupanCMT1bG"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 145520,
-      "name": "La Entrega",
-      "url": "https://open.spotify.com/track/4E2uYqHn60DDtOP16sLMuz"
+      "duration_ms": 168520,
+      "name": "El Divorcio",
+      "url": "https://open.spotify.com/track/7pnMjgbE98rjzcb7Smeq6d"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 168520,
-      "name": "El Divorcio",
-      "url": "https://open.spotify.com/track/7pnMjgbE98rjzcb7Smeq6d"
+      "duration_ms": 145520,
+      "name": "La Entrega",
+      "url": "https://open.spotify.com/track/4E2uYqHn60DDtOP16sLMuz"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apartamento Tres",
-        "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
+        "name": "Amor De Los Dos",
+        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 179373,
-      "name": "El Caim\u00e1n",
-      "url": "https://open.spotify.com/track/7BUwG4d7sn6APUhyIYVUAl"
+      "duration_ms": 166373,
+      "name": "Una Noche No",
+      "url": "https://open.spotify.com/track/2lDBDJRUX5OdpzFG0jSmUu"
     }
   ],
   "unique_name": "This Is Los Traileros Del Norte",

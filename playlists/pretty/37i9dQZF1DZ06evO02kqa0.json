@@ -1,12 +1,12 @@
 {
   "description": "This is Maria Callas. The essential tracks, all in one playlist.",
-  "num_followers": 39240,
+  "num_followers": 39249,
   "original_name": "This Is Maria Callas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAACwcSHiZpeeYPzXlCpl4kbX",
+  "snapshot_id": "aF3fAAAAAABV5kTZ5HKY3uzHeXNUBot2",
   "tracks": [
     {
       "added_at": null,
@@ -983,30 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maria Callas",
-        "url": "https://open.spotify.com/album/11qRGKgmRJSEUG2sC4lFG2"
-      },
-      "artists": [
-        {
-          "name": "Georges Pr\u00eatre",
-          "url": "https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r"
-        },
-        {
-          "name": "The Orchestra National De La Radiodiffusion Francaise",
-          "url": "https://open.spotify.com/artist/23AcFWoCqclc6gBvicWS6Y"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        }
-      ],
-      "duration_ms": 318826,
-      "name": "Samson et Dalila (1997 Digital Remaster): Mon coeur s'ouvre \u00e0 ta voix.",
-      "url": "https://open.spotify.com/track/4TyIrhkM8BhVTSaokH40Sx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maria by Callas (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3xaUzONuVZ28q4dpkKvktc"
       },
@@ -1031,18 +1007,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandiose Stimmen: Maria Callas",
-        "url": "https://open.spotify.com/album/7JVclT7eBui5eWSnde53uP"
+        "name": "Maria Callas",
+        "url": "https://open.spotify.com/album/11qRGKgmRJSEUG2sC4lFG2"
       },
       "artists": [
+        {
+          "name": "Georges Pr\u00eatre",
+          "url": "https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r"
+        },
+        {
+          "name": "The Orchestra National De La Radiodiffusion Francaise",
+          "url": "https://open.spotify.com/artist/23AcFWoCqclc6gBvicWS6Y"
+        },
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         }
       ],
-      "duration_ms": 131933,
-      "name": "\" La Traviata \" : Amami Alfredo (Act II) - Digitally Remastered",
-      "url": "https://open.spotify.com/track/0wtpkz93wATDkUExJVuXEl"
+      "duration_ms": 318826,
+      "name": "Samson et Dalila (1997 Digital Remaster): Mon coeur s'ouvre \u00e0 ta voix.",
+      "url": "https://open.spotify.com/track/4TyIrhkM8BhVTSaokH40Sx"
     },
     {
       "added_at": null,
@@ -1071,6 +1055,22 @@
       "duration_ms": 348560,
       "name": "Bellini: La sonnambula, Act 1: \"Compagne... teneri amici\" - \"Come per me sereno\u201d (Amina)",
       "url": "https://open.spotify.com/track/5eIEjwZ64Ap1XWndwXfR1K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grandiose Stimmen: Maria Callas",
+        "url": "https://open.spotify.com/album/7JVclT7eBui5eWSnde53uP"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "duration_ms": 131933,
+      "name": "\" La Traviata \" : Amami Alfredo (Act II) - Digitally Remastered",
+      "url": "https://open.spotify.com/track/0wtpkz93wATDkUExJVuXEl"
     },
     {
       "added_at": null,
@@ -1119,42 +1119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Verdi: La traviata",
-        "url": "https://open.spotify.com/album/3bwUAH05B3fFdrN6o2djtp"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Alfredo Kraus",
-          "url": "https://open.spotify.com/artist/72G0MODfMxM5TGaoQtGbdP"
-        },
-        {
-          "name": "Orquestra Sinf\u00f3nica do Teatro Nacional de S\u00e3o Carlos Lisboa",
-          "url": "https://open.spotify.com/artist/3Ns74kJ2H8fFNmeLH8oYQe"
-        },
-        {
-          "name": "Coro do Teatro Nacional de S\u00e3o Carlos Lisboa",
-          "url": "https://open.spotify.com/artist/4BwrIYW2DTNd8FzMpvYjQO"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Franco Ghione",
-          "url": "https://open.spotify.com/artist/3qOlbb0x5LJsXZZ4iXI5Ir"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "La traviata: Act I: Libiamo ne' lieti calici (Alfredo, Violetta, Chorus)",
-      "url": "https://open.spotify.com/track/2bdKKTN86j06sD6LEvbYeJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Very Best of Maria Callas",
         "url": "https://open.spotify.com/album/0tREYnFHLtGOkfegsYOBRb"
       },
@@ -1199,8 +1163,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Callas, Maria: Liebeslieder",
-        "url": "https://open.spotify.com/album/2rRQVTUpYbphzlaJqUHQx1"
+        "name": "Verdi: La traviata",
+        "url": "https://open.spotify.com/album/3bwUAH05B3fFdrN6o2djtp"
       },
       "artists": [
         {
@@ -1208,25 +1172,29 @@
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
+          "name": "Alfredo Kraus",
+          "url": "https://open.spotify.com/artist/72G0MODfMxM5TGaoQtGbdP"
+        },
+        {
+          "name": "Orquestra Sinf\u00f3nica do Teatro Nacional de S\u00e3o Carlos Lisboa",
+          "url": "https://open.spotify.com/artist/3Ns74kJ2H8fFNmeLH8oYQe"
+        },
+        {
+          "name": "Coro do Teatro Nacional de S\u00e3o Carlos Lisboa",
+          "url": "https://open.spotify.com/artist/4BwrIYW2DTNd8FzMpvYjQO"
+        },
+        {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         },
         {
-          "name": "Milan La Scala Chorus",
-          "url": "https://open.spotify.com/artist/09bshvKZIhLIvbHWWXlhKO"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+          "name": "Franco Ghione",
+          "url": "https://open.spotify.com/artist/3qOlbb0x5LJsXZZ4iXI5Ir"
         }
       ],
-      "duration_ms": 452213,
-      "name": "Rigoletto, Act I: Gualtier Malde \u2026 Caro nome",
-      "url": "https://open.spotify.com/track/6aRbgUJAGapYx74lks2Y8O"
+      "duration_ms": 191013,
+      "name": "La traviata: Act I: Libiamo ne' lieti calici (Alfredo, Violetta, Chorus)",
+      "url": "https://open.spotify.com/track/2bdKKTN86j06sD6LEvbYeJ"
     },
     {
       "added_at": null,
@@ -1259,30 +1227,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pure - Maria Callas",
-        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
+        "name": "Callas, Maria: Liebeslieder",
+        "url": "https://open.spotify.com/album/2rRQVTUpYbphzlaJqUHQx1"
       },
       "artists": [
         {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         },
         {
-          "name": "Alceo Galliera",
-          "url": "https://open.spotify.com/artist/4vkGRuqbcBXgDF2fkfLlNo"
+          "name": "Milan La Scala Chorus",
+          "url": "https://open.spotify.com/artist/09bshvKZIhLIvbHWWXlhKO"
         },
         {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
         }
       ],
-      "duration_ms": 384400,
-      "name": "Rossini: Il barbiere di Siviglia, Act 1: \"Una voce poco fa\" (Rosina)",
-      "url": "https://open.spotify.com/track/1ywe4Q5CnMj7G1BgiMWVim"
+      "duration_ms": 452213,
+      "name": "Rigoletto, Act I: Gualtier Malde \u2026 Caro nome",
+      "url": "https://open.spotify.com/track/6aRbgUJAGapYx74lks2Y8O"
     },
     {
       "added_at": null,
@@ -1339,6 +1311,34 @@
       "duration_ms": 155226,
       "name": "La Vestale (1997 Digital Remaster): O nome tutelar",
       "url": "https://open.spotify.com/track/1cu4pJSgf2n0ALIDJu5TDJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pure - Maria Callas",
+        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Alceo Galliera",
+          "url": "https://open.spotify.com/artist/4vkGRuqbcBXgDF2fkfLlNo"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "duration_ms": 384400,
+      "name": "Rossini: Il barbiere di Siviglia, Act 1: \"Una voce poco fa\" (Rosina)",
+      "url": "https://open.spotify.com/track/1ywe4Q5CnMj7G1BgiMWVim"
     },
     {
       "added_at": null,

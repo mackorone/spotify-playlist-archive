@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Diljit Dosanjh
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,876 likes - 85 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,003 likes - 85 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

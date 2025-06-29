@@ -1,6 +1,6 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 77591,
+  "num_followers": 77603,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
+        "name": "Turn On The Bright Lights",
+        "url": "https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "duration_ms": 259733,
+      "name": "NYC",
+      "url": "https://open.spotify.com/track/4PAR0Zp6Mbu3p6NKYClgBr"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
         "name": "Lucky Boy At Night",
         "url": "https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 218626,
       "name": "Signatune - Thomas Bangalter Short Edit",
       "url": "https://open.spotify.com/track/0lbVB3ktcJkLZwX3GkiNi9"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
-        "name": "Turn On The Bright Lights",
-        "url": "https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG"
-      },
-      "artists": [
-        {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
-        }
-      ],
-      "duration_ms": 259733,
-      "name": "NYC",
-      "url": "https://open.spotify.com/track/4PAR0Zp6Mbu3p6NKYClgBr"
     },
     {
       "added_at": "2024-08-08 18:53:25",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "Archives & Relics (2008-2012)",
-        "url": "https://open.spotify.com/album/1HBqpqPLXCybdgETimYQTp"
+        "name": "Friendly Fires",
+        "url": "https://open.spotify.com/album/6o5Da716CH8m1im2XiaeE1"
       },
       "artists": [
         {
-          "name": "Bit Funk",
-          "url": "https://open.spotify.com/artist/3QzHXIuwKTQzOhgA3F8mN1"
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
         }
       ],
-      "duration_ms": 334133,
-      "name": "It Ain't Easy",
-      "url": "https://open.spotify.com/track/6bM8gEfn4LqivqV2AWdbLo"
+      "duration_ms": 465333,
+      "name": "Paris (Aeroplane Remix)",
+      "url": "https://open.spotify.com/track/4OSEE9iEHADmTSCpxl87GJ"
     }
   ],
   "unique_name": "Bloghouse",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,637 likes - 310 songs - 17 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,639 likes - 310 songs - 17 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,8 +185,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 175 | [Glory Days \(feat\. Hayley Kiyoko\) \- Party Pupils Remix](https://open.spotify.com/track/3CZqTaiEQdN61xQP58BNRO) | [Sweater Beats](https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [Glory Days \(feat\. Hayley Kiyoko\) \[Party Pupils Remix\]](https://open.spotify.com/album/3JH2u1LgVvwsCppzohPDBu) | 2:48 |
 | 176 | [Foreign World \(feat\. Anne\-Marie\)](https://open.spotify.com/track/24t27lEozHfSSNbvtONlCz) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [We the Generation \(Deluxe Edition\)](https://open.spotify.com/album/5q9e0KBDIjiRBYWXxaWVAG) | 4:17 |
 | 177 | [I Could Always \(feat\. MNDR\)](https://open.spotify.com/track/2gQMLUE0Bf5ha89MHF7q9L) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [I Could Always \(feat\. MNDR\)](https://open.spotify.com/album/4GcfT4lV2LivWd0gqaWEWH) | 3:54 |
-| 178 | [CHEST](https://open.spotify.com/track/02BqvmZoEUtrASEcVNo1Am) | [Ryan Ashley](https://open.spotify.com/artist/6kZjELknW6k5H1kSZDKcoM) | [CHEST](https://open.spotify.com/album/0GxnuHJhqMxniNGvEGsBML) | 3:11 |
-| 179 | [Private](https://open.spotify.com/track/7pFPQAQV2XxbhMlvs3Ym75) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [24 HRS \(Expanded Edition\)](https://open.spotify.com/album/3EeOsvEKHv6dyG2x2XZJ6Q) | 3:10 |
+| 178 | [Private](https://open.spotify.com/track/7pFPQAQV2XxbhMlvs3Ym75) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [24 HRS \(Expanded Edition\)](https://open.spotify.com/album/3EeOsvEKHv6dyG2x2XZJ6Q) | 3:10 |
+| 179 | [CHEST](https://open.spotify.com/track/02BqvmZoEUtrASEcVNo1Am) | [Ryan Ashley](https://open.spotify.com/artist/6kZjELknW6k5H1kSZDKcoM) | [CHEST](https://open.spotify.com/album/0GxnuHJhqMxniNGvEGsBML) | 3:11 |
 | 180 | [8 \(feat\. FLO\) \- Remix](https://open.spotify.com/track/4T9f5Btf2PvDm5DT25VHTO) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [While We Wait 2](https://open.spotify.com/album/0tmZqPHODtZmBHr3cozsOa) | 2:51 |
 | 181 | [Oh The Glamour](https://open.spotify.com/track/12bjMLgcc4vtwAQZd0byLL) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 3:21 |
 | 182 | [Nocturnal](https://open.spotify.com/track/70IrX4vRRySNDVHb3nMUvJ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 2:03 |
@@ -266,8 +266,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 256 | [Background](https://open.spotify.com/track/6QbCAeT8s6mVzrJP2tvtOx) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 1:29 |
 | 257 | [under the rug](https://open.spotify.com/track/7cF9LyIGKAJOj8w4ndFCtC) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [wait 'til she gets her heart broken](https://open.spotify.com/album/4LUq1xd0C1Psv1Bc3cn6uJ) | 3:20 |
 | 258 | [BRB](https://open.spotify.com/track/5TVIzrtfPxbkvgQ75fwFV6) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [BRB](https://open.spotify.com/album/5ReIug3dDUmimDMm5PQoP4) | 3:01 |
-| 259 | [Free](https://open.spotify.com/track/5Aqm5mngMoGTU8fIvNJYbT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:45 |
-| 260 | [Freeze](https://open.spotify.com/track/5iA9WS2OFIMZX1fAVM0a7N) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g) | [The Ride](https://open.spotify.com/album/0EaXFlLzwqBwzseDuAUobQ) | 3:34 |
+| 259 | [Freeze](https://open.spotify.com/track/5iA9WS2OFIMZX1fAVM0a7N) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g) | [The Ride](https://open.spotify.com/album/0EaXFlLzwqBwzseDuAUobQ) | 3:34 |
+| 260 | [Free](https://open.spotify.com/track/5Aqm5mngMoGTU8fIvNJYbT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:45 |
 | 261 | [No Contest](https://open.spotify.com/track/0Q4SE81n0qaLUiugNbTFeZ) | [Rak\-Su](https://open.spotify.com/artist/5UyRaawCsdiVrro0WWgIVB) | [Finally Free Mixtape](https://open.spotify.com/album/4Tymq2ZejRFdboyq4ab41E) | 2:53 |
 | 262 | [Play Me](https://open.spotify.com/track/5qO1826lRIvkgC5O4ySIe5) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK) | [The Update](https://open.spotify.com/album/6JYgOftBgWHRATb0Euhuu0) | 3:21 |
 | 263 | [Rather Be Single](https://open.spotify.com/track/1xVYqzftGrWQ0QcC1SYaaq) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [Rather Be Single](https://open.spotify.com/album/3l2UEtcC6gVB8fexmte74D) | 2:51 |
@@ -319,4 +319,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 309 | [Hearsay \- Interlude](https://open.spotify.com/track/65sA0SEBGpcTadBiIWvfKB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:15 |
 | 310 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 
-Snapshot ID: `Ab1SsgAAAACnOUGIQkf5AN3Q0SzhEPmi`
+Snapshot ID: `Ab1YPgAAAAAbMp6YAawR1u1EEvAnBLzJ`

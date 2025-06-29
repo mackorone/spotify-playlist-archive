@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: G Herbo
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,898 likes - 100 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,943 likes - 100 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 5 | [Rich Guys \(Feat\. Babyfxce E\)](https://open.spotify.com/track/7a1Iw4S1eNozL4C4gv5xSg) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [ZOO LIFE](https://open.spotify.com/album/7LwqjY4eF2SI9q7MB8PxBu) | 2:58 |
 | 6 | [F\*cked A Fan](https://open.spotify.com/track/5VMivzA6e7YD4HrZZEpclj) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [F\*cked A Fan](https://open.spotify.com/album/0sAfbjseurhcUHr03GquMV) | 3:10 |
 | 7 | [Misfits \(feat\. Rio Da Yung OG\)](https://open.spotify.com/track/5KBFoGbuzcNkGFhqTcBThW) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Less is More](https://open.spotify.com/album/4WdviJiKtj699pNZvI9VS5) | 2:28 |
-| 8 | [WEST](https://open.spotify.com/track/4QBxmb7GTU73cz9asr88Hj) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [WEST](https://open.spotify.com/album/4zFYvzS3T88MrLPmLn0zvx) | 2:36 |
+| 8 | [WENT WEST](https://open.spotify.com/track/4QBxmb7GTU73cz9asr88Hj) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [WENT WEST](https://open.spotify.com/album/4zFYvzS3T88MrLPmLn0zvx) | 2:36 |
 | 9 | [Habitat](https://open.spotify.com/track/2VQKKwIniVNl4sK2foK0x8) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB) | [Slick SZN 2](https://open.spotify.com/album/0BRvF0Q2VNJrtyoiAIjFxe) | 2:09 |
 | 10 | [Splash Bros 2](https://open.spotify.com/track/2msonM6zwDG2Cq1ZvVwFmV) | [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx) | [Splash Bros 2](https://open.spotify.com/album/4LmE0FDfYYHq4R500WbUwN) | 1:49 |
 | 11 | [Skub Noir](https://open.spotify.com/track/0LOygzuwHWQChcRycn8rTH) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Grey Tape SMOKE](https://open.spotify.com/album/2lH6Doz75ZhO3EL1HhlaZ2) | 2:54 |

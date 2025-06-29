@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 93621,
+  "num_followers": 93730,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAACySXCAv+UIetUUHw8mAFzU",
+  "snapshot_id": "aF3fAAAAAAABZOTFMcWIDkZ+RXOqNj6a",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lainey Wilson - EP",
-        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 204709,
-      "name": "Dreamcatcher",
-      "url": "https://open.spotify.com/track/6DdG99q2hNKrSHZ7hL6pBt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reboot II",
         "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 228323,
       "name": "Play Something Country (with Lainey Wilson)",
       "url": "https://open.spotify.com/track/1Lvj1RFU2bF24KIi0c3Kku"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lainey Wilson - EP",
+        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 204709,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/6DdG99q2hNKrSHZ7hL6pBt"
     },
     {
       "added_at": null,

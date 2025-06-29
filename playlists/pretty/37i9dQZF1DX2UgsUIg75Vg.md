@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: kwn
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,378,621 likes - 200 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,378,486 likes - 200 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 12 | [Letting You Run](https://open.spotify.com/track/73dCTAnLDKbL1MpwarKLCP) | [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Letting You Run](https://open.spotify.com/album/4F3xoxabdXmm4rHduXVnCN) | 3:21 |
 | 13 | [See You Later](https://open.spotify.com/track/6kWE0z1SgW3j48m7xGsfBG) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Come As You Are](https://open.spotify.com/album/2WA4zGU2bZdmyQ8tOrNMVJ) | 3:07 |
 | 14 | [BMF](https://open.spotify.com/track/2qt9FKV2qvTBZX1ATFtNIC) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [BMF](https://open.spotify.com/album/4yOiuDiKW9ahoYRAoEX1bF) | 2:34 |
-| 15 | [Feel Something](https://open.spotify.com/track/1aw5ELeIspIgEfhEp2OifK) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Feel Something](https://open.spotify.com/album/2f6vd2PcjNyMKdePhio5UW) | 2:32 |
+| 15 | [FEEL SOMETHING](https://open.spotify.com/track/1aw5ELeIspIgEfhEp2OifK) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/2f6vd2PcjNyMKdePhio5UW) | 2:32 |
 | 16 | [Bittersweet](https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma) | 3:57 |
 | 17 | [Ecstasy \(Remix\) \[feat\. Teyana Taylor\]](https://open.spotify.com/track/23WBvFOEKE7KYae5H1usrA) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Ecstasy \(Remix\) \[feat\. Teyana Taylor\]](https://open.spotify.com/album/305yIXU97c0Sa68bjQNSTz) | 3:30 |
 | 18 | [Catching Feelings](https://open.spotify.com/track/2YQnESqC6ASwaJyUx6U4d7) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Catching Feelings](https://open.spotify.com/album/0ZX6lnq5noF2aNcQSxfpJR) | 3:25 |

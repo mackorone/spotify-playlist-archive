@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074,799 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,074,866 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 69 | [Bear the Cross](https://open.spotify.com/track/0KU8BYpNr112tz68grzVVp) | [Poisonblack](https://open.spotify.com/artist/1mBXJUab9jbcHhYxMuWbxO) | [A Dead Heavy Day](https://open.spotify.com/album/1Nt7VK5YdHhI1ZeCq15RxK) | 3:50 |
 | 70 | [Faster Than God](https://open.spotify.com/track/6JrYwuGZMWACjBMoERSwBH) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Faster Than God](https://open.spotify.com/album/63prBELvWhQTomik1YTaUv) | 3:31 |
 | 71 | [Low Life](https://open.spotify.com/track/4yKnTwWOmQjMTF6U9sgWtY) | [DIRT](https://open.spotify.com/artist/3QBEd0Gi3ApA2EqVrIKNDa) | [Low Life](https://open.spotify.com/album/3SVsxqKsdad0fd8rBbdqCN) | 4:20 |
-| 72 | [Calling](https://open.spotify.com/track/13xXQeT3nVgdf8k2y9lCNa) | [Strung Out](https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg) | [Top Contenders: The Best of Strung Out](https://open.spotify.com/album/3Lm6hA1iqn2jEilCFJOVYV) | 3:35 |
+| 72 | [Witch Hunt](https://open.spotify.com/track/6ye8AdkpHcYQLlHUXZkrUn) | [Nicumo](https://open.spotify.com/artist/7z2nNVchTS9FTHP9qnJqDt) | [Witch Hunt](https://open.spotify.com/album/4vvW52mcvUtJb2PvhbgtXl) | 4:43 |
 | 73 | [Fake](https://open.spotify.com/track/36Aa21IPeeNE3IU1zLQo5g) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Fake](https://open.spotify.com/album/0gdStv72Ej1fxyiv4SlFHd) | 3:30 |
-| 74 | [Witch Hunt](https://open.spotify.com/track/6ye8AdkpHcYQLlHUXZkrUn) | [Nicumo](https://open.spotify.com/artist/7z2nNVchTS9FTHP9qnJqDt) | [Witch Hunt](https://open.spotify.com/album/4vvW52mcvUtJb2PvhbgtXl) | 4:43 |
+| 74 | [Calling](https://open.spotify.com/track/13xXQeT3nVgdf8k2y9lCNa) | [Strung Out](https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg) | [Top Contenders: The Best of Strung Out](https://open.spotify.com/album/3Lm6hA1iqn2jEilCFJOVYV) | 3:35 |
 | 75 | [War Is Killing Us All](https://open.spotify.com/track/65b1ds24VRmAsCAWef8RgQ) | [Righteous Vendetta](https://open.spotify.com/artist/0H9lbVkJq2aj6SbqJKBVy5) | [War Is Killing Us All](https://open.spotify.com/album/2p19Bf53q3lieWDazEtHU7) | 3:38 |
 
 Snapshot ID: `aF0cYgAAAADCjnENOG+kH4CxoCk7+aG5`

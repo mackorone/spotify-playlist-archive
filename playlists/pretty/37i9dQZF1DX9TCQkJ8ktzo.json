@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 60s! Cover: Armando Manzanero",
-  "num_followers": 46588,
+  "num_followers": 46611,
   "original_name": "Los 60s",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Vicente Fernandez",
-        "url": "https://open.spotify.com/album/3KJCxqfH2dypQJBEBdfZ2m"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "El Remedio",
-      "url": "https://open.spotify.com/track/2VcJR7KAuUPqdhuuJ5IoMu"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Guantanamera",
         "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 193720,
       "name": "Guantanamera",
       "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Vicente Fernandez",
+        "url": "https://open.spotify.com/album/3KJCxqfH2dypQJBEBdfZ2m"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "El Remedio",
+      "url": "https://open.spotify.com/track/2VcJR7KAuUPqdhuuJ5IoMu"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Palabra De Rey",
-        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 180986,
-      "name": "Vas a Llorar",
-      "url": "https://open.spotify.com/track/4saXbAXjAGfKiH5yJBCSai"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Corridos Y Rancheras",
         "url": "https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 186533,
       "name": "Lleg\u00f3 Borracho el Borracho",
       "url": "https://open.spotify.com/track/6ozLQ1wSAPmS7LVsHA0CdX"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Palabra De Rey",
+        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 180986,
+      "name": "Vas a Llorar",
+      "url": "https://open.spotify.com/track/4saXbAXjAGfKiH5yJBCSai"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Palabra De Rey",
-        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 148546,
-      "name": "Palabra de Rey",
-      "url": "https://open.spotify.com/track/0PNEOLOyCdZLTfbvajXJIa"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Rock & Roll",
         "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 143480,
       "name": "Leroy",
       "url": "https://open.spotify.com/track/1kwc6ggb5M9EsyBKb0z0CU"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Palabra De Rey",
+        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 148546,
+      "name": "Palabra de Rey",
+      "url": "https://open.spotify.com/track/0PNEOLOyCdZLTfbvajXJIa"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Antolog\u00eda...Juan Mendoza \"El Tariacuri\"",
-        "url": "https://open.spotify.com/album/35NddtPxG0K0ntkKfbpG4U"
-      },
-      "artists": [
-        {
-          "name": "Juan Mendoza",
-          "url": "https://open.spotify.com/artist/6RpoeATtNEqaL97bJ4SB9S"
-        }
-      ],
-      "duration_ms": 179266,
-      "name": "Cre\u00ed",
-      "url": "https://open.spotify.com/track/5oJ4XY3eheyLf9PZo3vzQv"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Rock Con los Locos del Ritmo",
         "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 126096,
       "name": "Chica Alborotada",
       "url": "https://open.spotify.com/track/0W62JgZBk3ViiqOxypCyoC"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Antolog\u00eda...Juan Mendoza \"El Tariacuri\"",
+        "url": "https://open.spotify.com/album/35NddtPxG0K0ntkKfbpG4U"
+      },
+      "artists": [
+        {
+          "name": "Juan Mendoza",
+          "url": "https://open.spotify.com/artist/6RpoeATtNEqaL97bJ4SB9S"
+        }
+      ],
+      "duration_ms": 179266,
+      "name": "Cre\u00ed",
+      "url": "https://open.spotify.com/track/5oJ4XY3eheyLf9PZo3vzQv"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Personalidad",
-        "url": "https://open.spotify.com/album/4fVeZv12kCMzF72ve0HwWZ"
-      },
-      "artists": [
-        {
-          "name": "Los Teen Tops",
-          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
-        }
-      ],
-      "duration_ms": 130426,
-      "name": "El Rock de la C\u00e1rcel - Jailhouse Rock",
-      "url": "https://open.spotify.com/track/378st4sJlIIFz9IqA2uJJz"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Trios de Oro, Vol. 1",
         "url": "https://open.spotify.com/album/0mSdcs38g8JWVrMmfLdHBR"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 157880,
       "name": "M\u00e1s All\u00e1",
       "url": "https://open.spotify.com/track/58cW9R0YKli1aXJZ9QwluZ"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Personalidad",
+        "url": "https://open.spotify.com/album/4fVeZv12kCMzF72ve0HwWZ"
+      },
+      "artists": [
+        {
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+        }
+      ],
+      "duration_ms": 130426,
+      "name": "El Rock de la C\u00e1rcel - Jailhouse Rock",
+      "url": "https://open.spotify.com/track/378st4sJlIIFz9IqA2uJJz"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Personalidad",
-        "url": "https://open.spotify.com/album/4fVeZv12kCMzF72ve0HwWZ"
-      },
-      "artists": [
-        {
-          "name": "Los Teen Tops",
-          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "Pensaba en Ti",
-      "url": "https://open.spotify.com/track/5NM7BTvP4yr58JqwN3BYGm"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Historia M\u00fasical - 40 \u00c9xitos del Festival de Anc\u00f3n",
         "url": "https://open.spotify.com/album/5Cm7sIZcZntOWP4HVp5Ki9"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 136266,
       "name": "Shimmy Shimmy Ko Ko Bop",
       "url": "https://open.spotify.com/track/3Y6cwxZjctcQvtYtcQxKXr"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Personalidad",
+        "url": "https://open.spotify.com/album/4fVeZv12kCMzF72ve0HwWZ"
+      },
+      "artists": [
+        {
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "Pensaba en Ti",
+      "url": "https://open.spotify.com/track/5NM7BTvP4yr58JqwN3BYGm"
     },
     {
       "added_at": "2024-04-25 04:43:45",

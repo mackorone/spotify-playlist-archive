@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVvyzVe2A3W.md) - [plain]
 
 > Chantez ces comptines à vos enfants..\. et n'oubliez pas les gestes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 105 likes - 50 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 106 likes - 50 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

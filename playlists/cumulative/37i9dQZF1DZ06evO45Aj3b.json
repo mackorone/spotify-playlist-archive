@@ -479,6 +479,28 @@
     },
     {
       "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209830,
+      "name": "Maroon",
+      "url": "https://open.spotify.com/track/4BzIyYvpCYzMW4Q8eF4fwq"
+    },
+    {
+      "album": {
         "name": "14 minutes",
         "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
       },

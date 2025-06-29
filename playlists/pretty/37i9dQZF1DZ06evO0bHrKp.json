@@ -1,12 +1,12 @@
 {
   "description": "This is Sum 41. The essential tracks, all in one playlist.",
-  "num_followers": 208828,
+  "num_followers": 208835,
   "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAAAB21nCRHvODIqCSNYlANax",
+  "snapshot_id": "aF3fAAAAAADy1ZRyE6QrbbTPxFksYna0",
   "tracks": [
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underclass Hero",
-        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
+        "name": "13 Voices",
+        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 238693,
-      "name": "Speak Of The Devil",
-      "url": "https://open.spotify.com/track/3zdg1IMqKog1YNRpTjKDOB"
+      "duration_ms": 243098,
+      "name": "Breaking The Chain",
+      "url": "https://open.spotify.com/track/6pFBYVdgexmt3zLLJUhhvy"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "13 Voices",
-        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
+        "name": "Underclass Hero",
+        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 243098,
-      "name": "Breaking The Chain",
-      "url": "https://open.spotify.com/track/6pFBYVdgexmt3zLLJUhhvy"
+      "duration_ms": 238693,
+      "name": "Speak Of The Devil",
+      "url": "https://open.spotify.com/track/3zdg1IMqKog1YNRpTjKDOB"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
       "duration_ms": 213373,
       "name": "Little Know It All",
       "url": "https://open.spotify.com/track/27BATZe36zHNAKfr7by2ob"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Underclass Hero",
-        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 181613,
-      "name": "So Long Goodbye",
-      "url": "https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u"
     },
     {
       "added_at": null,
@@ -655,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Underclass Hero",
+        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 181613,
+      "name": "So Long Goodbye",
+      "url": "https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Screaming Bloody Murder",
         "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Order In Decline",
-        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 198358,
-      "name": "A Death In The Family",
-      "url": "https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "13 Voices",
         "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 202071,
       "name": "Goddamn I'm Dead Again",
       "url": "https://open.spotify.com/track/0RwKgkMsMeFnnWZp0JMTUM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 198358,
+      "name": "A Death In The Family",
+      "url": "https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Order In Decline",
-        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 230184,
-      "name": "The New Sensation",
-      "url": "https://open.spotify.com/track/66rEcw8rK6iCc0UesDdqxs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 200440,
       "name": "Sleep Now In The Fire - Spotify Singles",
       "url": "https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 230184,
+      "name": "The New Sensation",
+      "url": "https://open.spotify.com/track/66rEcw8rK6iCc0UesDdqxs"
     },
     {
       "added_at": null,

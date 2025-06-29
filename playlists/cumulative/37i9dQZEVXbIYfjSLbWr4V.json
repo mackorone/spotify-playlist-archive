@@ -3545,6 +3545,24 @@
     },
     {
       "album": {
+        "name": "lovesong",
+        "url": "https://open.spotify.com/album/51RGZw45NQXrMwmcYyT86p"
+      },
+      "artists": [
+        {
+          "name": "Kai Angel",
+          "url": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
+        }
+      ],
+      "date_added": "2025-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107586,
+      "name": "lovesong",
+      "url": "https://open.spotify.com/track/7ftKHLwWvWJe0GstyI88YR"
+    },
+    {
+      "album": {
         "name": "lux",
         "url": "https://open.spotify.com/album/4sh9RMTuXgrmOFp5spS7zR"
       },
@@ -4318,7 +4336,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 90067,
       "name": "Nope your too late i already died",
       "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
@@ -5170,6 +5188,28 @@
       "duration_ms": 164640,
       "name": "SIMBA",
       "url": "https://open.spotify.com/track/2o3VZZrrjA1OCJ6p0LsHGR"
+    },
+    {
+      "album": {
+        "name": "SKIMS",
+        "url": "https://open.spotify.com/album/3C7u8x7kVRGueGmJSsQ9PG"
+      },
+      "artists": [
+        {
+          "name": "OBLADAET",
+          "url": "https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw"
+        },
+        {
+          "name": "LIL KRYSTALLL",
+          "url": "https://open.spotify.com/artist/2cYbwKKlCOv5VaoU9DZwGA"
+        }
+      ],
+      "date_added": "2025-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "SKIMS",
+      "url": "https://open.spotify.com/track/2qk8hQnUrcpvqlKgYlovos"
     },
     {
       "album": {
@@ -6214,7 +6254,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 175610,
       "name": "Turbo (Majestic)",
       "url": "https://open.spotify.com/track/6rOHlBLsBXzJx2k9ZROzEq"
@@ -6522,7 +6562,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 166809,
       "name": "Who (Shibuyakei Remix)",
       "url": "https://open.spotify.com/track/1ySWoGgrduSzvtJ3PUzO41"
@@ -10834,7 +10874,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 124800,
       "name": "\u0420\u0430\u0441\u0441\u0432\u0435\u0442",
       "url": "https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu"

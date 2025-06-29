@@ -1,6 +1,6 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 122493,
+  "num_followers": 122502,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-06-06 03:52:01",
       "album": {
+        "name": "Sweet Time",
+        "url": "https://open.spotify.com/album/2L0mTw6WLlSkjxrZJXna5h"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 251433,
+      "name": "Sweet Time",
+      "url": "https://open.spotify.com/track/3wv9jIR1DAGxTRMm1kH6GL"
+    },
+    {
+      "added_at": "2025-06-06 03:52:01",
+      "album": {
         "name": "Don't Forget About Us (KAYTRANADA Remix)",
         "url": "https://open.spotify.com/album/5WOY8ePlLY1zOSekVvnyZy"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 243125,
       "name": "Don't Forget About Us - KAYTRANADA Remix",
       "url": "https://open.spotify.com/track/1NmC7qGL2jdqtFXzrrH3ui"
-    },
-    {
-      "added_at": "2025-06-06 03:52:01",
-      "album": {
-        "name": "Sweet Time",
-        "url": "https://open.spotify.com/album/2L0mTw6WLlSkjxrZJXna5h"
-      },
-      "artists": [
-        {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        }
-      ],
-      "duration_ms": 251433,
-      "name": "Sweet Time",
-      "url": "https://open.spotify.com/track/3wv9jIR1DAGxTRMm1kH6GL"
     },
     {
       "added_at": "2025-06-06 03:52:01",
@@ -839,26 +839,6 @@
     {
       "added_at": "2025-06-06 03:52:01",
       "album": {
-        "name": "Bread (butter version)",
-        "url": "https://open.spotify.com/album/1Gqy3cQoOXViM50jxHJy7A"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 158231,
-      "name": "Bread (butter version)",
-      "url": "https://open.spotify.com/track/5KGQivNF69wOcgwHEeqKV3"
-    },
-    {
-      "added_at": "2025-06-06 03:52:01",
-      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
+    {
+      "added_at": "2025-06-06 03:52:01",
+      "album": {
+        "name": "Bread (butter version)",
+        "url": "https://open.spotify.com/album/1Gqy3cQoOXViM50jxHJy7A"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 158231,
+      "name": "Bread (butter version)",
+      "url": "https://open.spotify.com/track/5KGQivNF69wOcgwHEeqKV3"
     },
     {
       "added_at": "2025-06-06 03:52:01",

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 63697,
+  "num_followers": 63726,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAAAUfR7WnSxe2tYL0X1D2Js6",
+  "snapshot_id": "aF3fAAAAAAA3a2Ujng4J0X6AwcYLHBCY",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aventura Pasada",
-        "url": "https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 155440,
-      "name": "Aventura Pasada",
-      "url": "https://open.spotify.com/track/5JchHTsognfG0pbnOVOGwU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Mejor De...",
         "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 177306,
       "name": "No Volver\u00e9",
       "url": "https://open.spotify.com/track/14rY0Ie4e2XqpHot0vWcaL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rifare Mi Suerte",
+        "url": "https://open.spotify.com/album/72Tvu1pJWr2HQ9lHYipwsf"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "Tu Ultimo Verano",
+      "url": "https://open.spotify.com/track/699jQV2HYGBnITdlgboFcL"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rifare Mi Suerte",
-        "url": "https://open.spotify.com/album/72Tvu1pJWr2HQ9lHYipwsf"
+        "name": "Aventura Pasada",
+        "url": "https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 181773,
-      "name": "Tu Ultimo Verano",
-      "url": "https://open.spotify.com/track/699jQV2HYGBnITdlgboFcL"
+      "duration_ms": 155440,
+      "name": "Aventura Pasada",
+      "url": "https://open.spotify.com/track/5JchHTsognfG0pbnOVOGwU"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Al Ver Que Te Vas",
-      "url": "https://open.spotify.com/track/0DRAf1NW1dBCMJOq5r0RKV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entrega De Amor",
         "url": "https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 139458,
       "name": "Despistando Al Enemigo",
       "url": "https://open.spotify.com/track/4m3GHbPZTuFGwYRaIpdTYl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Exitos Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Al Ver Que Te Vas",
+      "url": "https://open.spotify.com/track/0DRAf1NW1dBCMJOq5r0RKV"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Clasicas del Ayer, Vol. 1",
-        "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 172120,
-      "name": "Un Enga\u00f1o M\u00e1s",
-      "url": "https://open.spotify.com/track/1wINnp6krwSRfcG8RusHc5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobre Los Rieles",
         "url": "https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 162560,
       "name": "Estabas Tan Linda",
       "url": "https://open.spotify.com/track/389TrubBy5SMAcb3SK8nkj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Clasicas del Ayer, Vol. 1",
+        "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 172120,
+      "name": "Un Enga\u00f1o M\u00e1s",
+      "url": "https://open.spotify.com/track/1wINnp6krwSRfcG8RusHc5"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Keo
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,595 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,598 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 44 | [Nina](https://open.spotify.com/track/7b69iiHJHiZG3xebISnGlt) | [Cold Court](https://open.spotify.com/artist/0p2iWhKSNA2FX3ZaB0IoM0) | [Nina](https://open.spotify.com/album/0penmfV4ouDqWZSJh7I16x) | 3:27 |
 | 45 | [BITTERSWEET](https://open.spotify.com/track/7cgPaN8Dxd9MN4WoaMaswX) | [PINKNOISE](https://open.spotify.com/artist/2USllv850CGVjxqji1jxcd) | [BITTERSWEET](https://open.spotify.com/album/5naoS1X5S0032YQU44VXzm) | 3:20 |
 | 46 | [Snuff](https://open.spotify.com/track/5eHoLDG8yukWR8bhH2CtdW) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Snuff](https://open.spotify.com/album/2Q0drNVOr1Sb57OcROrgi2) | 3:16 |
-| 47 | [Virginia](https://open.spotify.com/track/1gS3FwP1gQoMJ8e8PIS9Z8) | [The Bends](https://open.spotify.com/artist/2xBejdNon0VS3Egq8he7sb) | [Virginia](https://open.spotify.com/album/0KWlv2gBr7voYbfjBAPAxN) | 3:01 |
+| 47 | [Virginia](https://open.spotify.com/track/1gS3FwP1gQoMJ8e8PIS9Z8) | [The Bends](https://open.spotify.com/artist/48kqs2H7CMYS9wLKwBRavc) | [Virginia](https://open.spotify.com/album/0KWlv2gBr7voYbfjBAPAxN) | 3:01 |
 | 48 | [living](https://open.spotify.com/track/0HfGVMPCyfCrVNKhbZC4ON) | [DIVEBAR YOUTH](https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT) | [Late Fee](https://open.spotify.com/album/7c1h0tdyNGHrRtcFfZJ3Vm) | 3:38 |
 | 49 | [The Middle](https://open.spotify.com/track/27JSigS6OO6Ezo3b5WzF1m) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [The Middle](https://open.spotify.com/album/7CmgsRDr9za6JUxDPMsikI) | 2:41 |
 | 50 | [Wrong Planet](https://open.spotify.com/track/2zSvNyq5LUgOKHjDlXcH6V) | [Ribbon Skirt](https://open.spotify.com/artist/4Ymrgi3r6TZQwmBSp3jBca) | [Bite Down](https://open.spotify.com/album/2eFz77f8mY5Spt3cCH6ZNN) | 3:32 |

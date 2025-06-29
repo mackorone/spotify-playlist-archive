@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 20185,
+  "num_followers": 20190,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAADwkfzBSMLc/tt315tUCI0V",
+  "snapshot_id": "aF3fAAAAAACmwChQsvHgsy9jsZakEPqm",
   "tracks": [
     {
       "added_at": null,
@@ -736,13 +736,17 @@
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "Giggs",
-          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         }
       ],
-      "duration_ms": 200408,
-      "name": "London Town",
-      "url": "https://open.spotify.com/track/1SBlzntln0kxEHrnkko11q"
+      "duration_ms": 178106,
+      "name": "Dabebi",
+      "url": "https://open.spotify.com/track/63wuVACH3s92oXqKzvYBke"
     },
     {
       "added_at": null,
@@ -824,17 +828,13 @@
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "Maleek Berry",
-          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
         }
       ],
-      "duration_ms": 178106,
-      "name": "Dabebi",
-      "url": "https://open.spotify.com/track/63wuVACH3s92oXqKzvYBke"
+      "duration_ms": 200408,
+      "name": "London Town",
+      "url": "https://open.spotify.com/track/1SBlzntln0kxEHrnkko11q"
     },
     {
       "added_at": null,
@@ -887,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sample You (Remix)",
-        "url": "https://open.spotify.com/album/4NqSxpwqFC9RZU6wh9xgUE"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
-        }
-      ],
-      "duration_ms": 213812,
-      "name": "Sample You - Remix",
-      "url": "https://open.spotify.com/track/0rTYNZiZb6jnHE6W4qGsbb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sekkle & Bop",
         "url": "https://open.spotify.com/album/36cRjKRxYLQlSbenG5wuej"
       },
@@ -927,6 +907,46 @@
       "duration_ms": 156327,
       "name": "Sekkle & Bop (feat. Popcaan)",
       "url": "https://open.spotify.com/track/6MNFebzmVKDYvgjxSQcAfq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sample You (Remix)",
+        "url": "https://open.spotify.com/album/4NqSxpwqFC9RZU6wh9xgUE"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+        }
+      ],
+      "duration_ms": 213812,
+      "name": "Sample You - Remix",
+      "url": "https://open.spotify.com/track/0rTYNZiZb6jnHE6W4qGsbb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marry",
+        "url": "https://open.spotify.com/album/6vYZnTZuk2w6xsNRmZkEKm"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 209841,
+      "name": "Marry",
+      "url": "https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D"
     },
     {
       "added_at": null,
@@ -979,26 +999,6 @@
       "duration_ms": 213354,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/24kLQBF5CBJyr0x06lRpiy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marry",
-        "url": "https://open.spotify.com/album/6vYZnTZuk2w6xsNRmZkEKm"
-      },
-      "artists": [
-        {
-          "name": "DJ Neptune",
-          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 209841,
-      "name": "Marry",
-      "url": "https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D"
     },
     {
       "added_at": null,

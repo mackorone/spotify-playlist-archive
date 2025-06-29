@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 363780,
+  "num_followers": 363799,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAADbt3f69088d3MqGnjpa0C3",
+  "snapshot_id": "aF3fAAAAAACSanHWxM5NpGu+IAZFcY/R",
   "tracks": [
     {
       "added_at": null,
@@ -67,6 +67,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Dentro",
+        "url": "https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 165981,
+      "name": "Por Dentro",
+      "url": "https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bate",
         "url": "https://open.spotify.com/album/5wxOpM3MyBMY5znE0kfiJr"
       },
@@ -87,26 +107,6 @@
       "duration_ms": 138143,
       "name": "Bate",
       "url": "https://open.spotify.com/track/2POQJLngiE5R6RfdLgKkcI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Dentro",
-        "url": "https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 165981,
-      "name": "Por Dentro",
-      "url": "https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todo My Love",
+        "url": "https://open.spotify.com/album/3gdPLbvBV3OAqigyVaV7Lt"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 200502,
+      "name": "Todo My Love",
+      "url": "https://open.spotify.com/track/0XOr0FAZIbUaxyU84o9AWJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para No Verte M\u00e1s",
         "url": "https://open.spotify.com/album/1Eb2dpFYN6id1FcmTxqJtG"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 197036,
       "name": "Para No Verte M\u00e1s",
       "url": "https://open.spotify.com/track/2HH06rHCyra4vLcdZkdN4d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todo My Love",
-        "url": "https://open.spotify.com/album/3gdPLbvBV3OAqigyVaV7Lt"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 200502,
-      "name": "Todo My Love",
-      "url": "https://open.spotify.com/track/0XOr0FAZIbUaxyU84o9AWJ"
     },
     {
       "added_at": null,

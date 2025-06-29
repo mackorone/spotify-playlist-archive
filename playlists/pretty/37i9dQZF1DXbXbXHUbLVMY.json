@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udea8 ",
-  "num_followers": 120,
+  "num_followers": 126,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Memoarer",
-        "url": "https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 139520,
-      "name": "Ok",
-      "url": "https://open.spotify.com/track/0KDn57QdRGRlkOllJDxbzp"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "KrissyB",
         "url": "https://open.spotify.com/album/5Ye9jBwvEjQhl71G7Er6mK"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 149968,
       "name": "KrissyB",
       "url": "https://open.spotify.com/track/4voviKzmOwZLNvbiSdjFF6"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Memoarer",
+        "url": "https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 139520,
+      "name": "Ok",
+      "url": "https://open.spotify.com/track/0KDn57QdRGRlkOllJDxbzp"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -259,22 +259,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Pilestredet",
-        "url": "https://open.spotify.com/album/64bXB6oQ8SDEukSqIXNms1"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 194782,
-      "name": "Pilestredet",
-      "url": "https://open.spotify.com/track/41dM8Ol9WH0Um6XOx7VX5I"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "Tipp Topp Hum\u00f8r",
         "url": "https://open.spotify.com/album/0DDszi5SJ6ooRqrKbRBxpf"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 197480,
       "name": "Tipp Topp Hum\u00f8r",
       "url": "https://open.spotify.com/track/4jdqbnHs8xNf4NpkT2TT2r"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Norge Elsker Rap",
+        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 160106,
+      "name": "Tenke Sj\u00e6l",
+      "url": "https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Norge Elsker Rap",
-        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 160106,
-      "name": "Tenke Sj\u00e6l",
-      "url": "https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "Hj\u00e4rta",
         "url": "https://open.spotify.com/album/2bZBvHKMCyYt3VdTSa8kPH"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 158918,
       "name": "Hj\u00e4rta",
       "url": "https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Pilestredet",
+        "url": "https://open.spotify.com/album/64bXB6oQ8SDEukSqIXNms1"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 194782,
+      "name": "Pilestredet",
+      "url": "https://open.spotify.com/track/41dM8Ol9WH0Um6XOx7VX5I"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Memoarer",
-        "url": "https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 177973,
-      "name": "4TheBoys",
-      "url": "https://open.spotify.com/track/0YCtVN0D2reeVp7zAaevzF"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "Ung & Dum",
         "url": "https://open.spotify.com/album/0aibQYq60BClz1s2jmDTHx"
       },
@@ -483,22 +467,18 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "TT2",
-        "url": "https://open.spotify.com/album/5fnfFKXZksovQGOYjiS51w"
+        "name": "Memoarer",
+        "url": "https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW"
       },
       "artists": [
         {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
-        },
-        {
-          "name": "vinni",
-          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
         }
       ],
-      "duration_ms": 221350,
-      "name": "Aldebaran (feat. vinni)",
-      "url": "https://open.spotify.com/track/7fx9OH8lBckr9n1rciaIYM"
+      "duration_ms": 177973,
+      "name": "4TheBoys",
+      "url": "https://open.spotify.com/track/0YCtVN0D2reeVp7zAaevzF"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -519,6 +499,26 @@
       "duration_ms": 109766,
       "name": "Cph Freestyle",
       "url": "https://open.spotify.com/track/5pH0He95Tcp7avZPVMAbxp"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "TT2",
+        "url": "https://open.spotify.com/album/5fnfFKXZksovQGOYjiS51w"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        },
+        {
+          "name": "vinni",
+          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
+        }
+      ],
+      "duration_ms": 221350,
+      "name": "Aldebaran (feat. vinni)",
+      "url": "https://open.spotify.com/track/7fx9OH8lBckr9n1rciaIYM"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -939,6 +939,22 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
+        "name": "Beverly Hills",
+        "url": "https://open.spotify.com/album/7hSjecsWNsaLrypYmc0tN5"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "duration_ms": 188785,
+      "name": "Beverly Hills",
+      "url": "https://open.spotify.com/track/5ZfR2ZsJrBJpLIMsN7zMIn"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
         "name": "Kvar - Spotify Studio 100 Recording",
         "url": "https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 161666,
       "name": "Kvar - Spotify Studio 100 Recording",
       "url": "https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
-        "name": "Beverly Hills",
-        "url": "https://open.spotify.com/album/7hSjecsWNsaLrypYmc0tN5"
-      },
-      "artists": [
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        }
-      ],
-      "duration_ms": 188785,
-      "name": "Beverly Hills",
-      "url": "https://open.spotify.com/track/5ZfR2ZsJrBJpLIMsN7zMIn"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Storby Psykose",
-        "url": "https://open.spotify.com/album/23bUcQK6PZuNgdgJ86DvOP"
-      },
-      "artists": [
-        {
-          "name": "Kode.59",
-          "url": "https://open.spotify.com/artist/5El2l94FrkyNaTIA5ksK4Q"
-        }
-      ],
-      "duration_ms": 146893,
-      "name": "Storby Psykose",
-      "url": "https://open.spotify.com/track/6vaYWHrBfUD5WqOJvqYZ2a"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
         "url": "https://open.spotify.com/album/7MhqedIbIMXPHpYDwJEi5U"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 165528,
       "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
       "url": "https://open.spotify.com/track/7nTgyzJSlSAH4GBXL2IFA4"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Storby Psykose",
+        "url": "https://open.spotify.com/album/23bUcQK6PZuNgdgJ86DvOP"
+      },
+      "artists": [
+        {
+          "name": "Kode.59",
+          "url": "https://open.spotify.com/artist/5El2l94FrkyNaTIA5ksK4Q"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "Storby Psykose",
+      "url": "https://open.spotify.com/track/6vaYWHrBfUD5WqOJvqYZ2a"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Trump",
-        "url": "https://open.spotify.com/album/4FOR6AyYhKQZfYNBaMZzsx"
-      },
-      "artists": [
-        {
-          "name": "Magzim",
-          "url": "https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn"
-        }
-      ],
-      "duration_ms": 122322,
-      "name": "Trump",
-      "url": "https://open.spotify.com/track/4SxPAIOIiVTXbacf83ZPne"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "K\u00f8benhavn (feat. Arif Murakami & Bargee)",
         "url": "https://open.spotify.com/album/7nk0l6LqD5bjWHZNfRuMJ9"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 194526,
       "name": "Ment for hverandre",
       "url": "https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Trump",
+        "url": "https://open.spotify.com/album/4FOR6AyYhKQZfYNBaMZzsx"
+      },
+      "artists": [
+        {
+          "name": "Magzim",
+          "url": "https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn"
+        }
+      ],
+      "duration_ms": 122322,
+      "name": "Trump",
+      "url": "https://open.spotify.com/track/4SxPAIOIiVTXbacf83ZPne"
     },
     {
       "added_at": "2025-05-22 22:00:39",

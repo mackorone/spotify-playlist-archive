@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Madness\n",
-  "num_followers": 61165,
+  "num_followers": 61187,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2025-06-20 06:00:32",
       "album": {
+        "name": "Frecuencia Extrema",
+        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
+    },
+    {
+      "added_at": "2025-06-20 06:00:32",
+      "album": {
         "name": "Leven Het Groots",
         "url": "https://open.spotify.com/album/2a0OmGXhmN3U0GN8BKP6by"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 151191,
       "name": "Leven Het Groots",
       "url": "https://open.spotify.com/track/3WaWlhDgXD8ljeO3dqQd3q"
-    },
-    {
-      "added_at": "2025-06-20 06:00:32",
-      "album": {
-        "name": "Frecuencia Extrema",
-        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
     },
     {
       "added_at": "2025-06-20 06:00:32",
@@ -1147,22 +1147,22 @@
     {
       "added_at": "2025-06-20 06:00:32",
       "album": {
-        "name": "Desert Rose",
-        "url": "https://open.spotify.com/album/4uAyfl6NyFaVteeadFLOA5"
+        "name": "La Ranchera",
+        "url": "https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V"
       },
       "artists": [
         {
-          "name": "The Skatalites",
-          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
         },
         {
-          "name": "Clive Hunt",
-          "url": "https://open.spotify.com/artist/0TYvtIjZSDStLhh3wfKHy8"
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Desert Rose",
-      "url": "https://open.spotify.com/track/5linz6qsBH5UVIrfOWCVym"
+      "duration_ms": 187744,
+      "name": "La Ranchera",
+      "url": "https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt"
     },
     {
       "added_at": "2025-06-20 06:00:32",
@@ -1183,22 +1183,22 @@
     {
       "added_at": "2025-06-20 06:00:32",
       "album": {
-        "name": "La Ranchera",
-        "url": "https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V"
+        "name": "Desert Rose",
+        "url": "https://open.spotify.com/album/4uAyfl6NyFaVteeadFLOA5"
       },
       "artists": [
         {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
         },
         {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+          "name": "Clive Hunt",
+          "url": "https://open.spotify.com/artist/0TYvtIjZSDStLhh3wfKHy8"
         }
       ],
-      "duration_ms": 187744,
-      "name": "La Ranchera",
-      "url": "https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt"
+      "duration_ms": 240000,
+      "name": "Desert Rose",
+      "url": "https://open.spotify.com/track/5linz6qsBH5UVIrfOWCVym"
     },
     {
       "added_at": "2025-06-20 06:00:32",

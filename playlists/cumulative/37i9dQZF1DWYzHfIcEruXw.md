@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 10s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-124 songs - 8 hr 59 min
+125 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [熱情のスペクトラム](https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:43 | 2021-12-21 | 2024-04-19 |
 | [熱情のスペクトラム](https://open.spotify.com/track/1AB1BtAt1H47voJt5EHvBC) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [FUN! FUN! FANFARE!](https://open.spotify.com/album/792WcoVJSQe7faaZuWtx4L) | 3:44 | 2021-12-21 |  |
 | [熱情のスペクトラム](https://open.spotify.com/track/3HDoLfYWHe0wHe8mU2BcZb) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [超いきものばかり〜てんねん記念メンバーズBESTセレクション〜](https://open.spotify.com/album/7bMXGMS8lpWmwlG3eBCfgc) | 3:46 | 2022-09-15 | 2022-11-13 |
+| [竈門炭治郎のうた \-OST ver.\-](https://open.spotify.com/track/3wJujLcsrXsmrr5M9fRdyW) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH), [中川奈美](https://open.spotify.com/artist/6fRAchGeMqG9ppHP8QBQuk) | [「鬼滅の刃」竈門炭治郎 立志編 オリジナルサウンドトラック](https://open.spotify.com/album/7wN7HLAWdOTtPBGUHxP3tv) | 5:30 | 2025-06-28 |  |
 | [紅蓮の弓矢](https://open.spotify.com/track/0F8psXXh2oxE5BGdkKaoIs) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [自由への進撃](https://open.spotify.com/album/31L6jyQkVDu1xdfXizvAc2) | 5:16 | 2021-12-21 |  |
 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 | 2021-12-21 | 2024-04-19 |
 | [紅蓮華](https://open.spotify.com/track/1hFsEbHxsfflhLEPCq5tzk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [紅蓮華](https://open.spotify.com/album/29HFXP2q5ixW557hc55McT) | 3:58 | 2021-12-21 |  |

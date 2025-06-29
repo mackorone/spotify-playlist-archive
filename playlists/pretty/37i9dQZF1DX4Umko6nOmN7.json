@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 619422,
+  "num_followers": 619400,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
         "name": "Goodbye to the Valley Low (Side A)",
         "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 179534,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
-        "name": "End Of The World",
-        "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "End Of The World",
-      "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "The Last Bit Of Us",
-        "url": "https://open.spotify.com/album/0VSEo3ZMGfadTa9K90KMI3"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 202720,
-      "name": "The Last Bit Of Us",
-      "url": "https://open.spotify.com/track/3cgHwqbHcu1DKFADvkgPJ7"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
         "name": "Bones Shake",
         "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 180580,
       "name": "Om jag somnar",
       "url": "https://open.spotify.com/track/5cbHWtmFMHukKHMGyEoCbf"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "The Last Bit Of Us",
+        "url": "https://open.spotify.com/album/0VSEo3ZMGfadTa9K90KMI3"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 202720,
+      "name": "The Last Bit Of Us",
+      "url": "https://open.spotify.com/track/3cgHwqbHcu1DKFADvkgPJ7"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -591,18 +591,18 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "First Heartbreak",
-        "url": "https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n"
+        "name": "Middle Ground",
+        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
       },
       "artists": [
         {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 180486,
-      "name": "First Heartbreak",
-      "url": "https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357"
+      "duration_ms": 219800,
+      "name": "Middle Ground",
+      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -619,6 +619,22 @@
       "duration_ms": 214935,
       "name": "Just Us",
       "url": "https://open.spotify.com/track/2QIChPucCEGOZjzkqFHxQ6"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "Do You Haunt Me",
+        "url": "https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 193155,
+      "name": "Do You Haunt Me",
+      "url": "https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -643,18 +659,18 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Do You Haunt Me",
-        "url": "https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3"
+        "name": "First Heartbreak",
+        "url": "https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
-      "duration_ms": 193155,
-      "name": "Do You Haunt Me",
-      "url": "https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak"
+      "duration_ms": 180486,
+      "name": "First Heartbreak",
+      "url": "https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -679,18 +695,18 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Middle Ground",
-        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
+        "name": "ALLTING D\u00c4REMELLAN",
+        "url": "https://open.spotify.com/album/03b0ygdn23KMUTWpRmwpON"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
         }
       ],
-      "duration_ms": 219800,
-      "name": "Middle Ground",
-      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
+      "duration_ms": 176267,
+      "name": "Psykos",
+      "url": "https://open.spotify.com/track/3LpEvBoyEnGQcu1ofaJ5AQ"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -707,22 +723,6 @@
       "duration_ms": 151979,
       "name": "Who are you?",
       "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
-        "name": "ALLTING D\u00c4REMELLAN",
-        "url": "https://open.spotify.com/album/03b0ygdn23KMUTWpRmwpON"
-      },
-      "artists": [
-        {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
-        }
-      ],
-      "duration_ms": 176267,
-      "name": "Psykos",
-      "url": "https://open.spotify.com/track/3LpEvBoyEnGQcu1ofaJ5AQ"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -759,6 +759,22 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
+        "name": "Home Is You",
+        "url": "https://open.spotify.com/album/3bQZIh4luskfXT2Ev9o4QA"
+      },
+      "artists": [
+        {
+          "name": "Jon Wiilde",
+          "url": "https://open.spotify.com/artist/3bqHSYVBMI0gs3v86080ZT"
+        }
+      ],
+      "duration_ms": 195509,
+      "name": "Home Is You",
+      "url": "https://open.spotify.com/track/1G4vlm1c1Ai9ORbdO6fR0W"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
         "name": "Genom Eld & Vatten - Spotify Singles",
         "url": "https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 191013,
       "name": "In A Perfect World (with Julia Michaels)",
       "url": "https://open.spotify.com/track/2ibGdhv3nTO89VN9KR7N2H"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
-        "name": "Home Is You",
-        "url": "https://open.spotify.com/album/3bQZIh4luskfXT2Ev9o4QA"
-      },
-      "artists": [
-        {
-          "name": "Jon Wiilde",
-          "url": "https://open.spotify.com/artist/3bqHSYVBMI0gs3v86080ZT"
-        }
-      ],
-      "duration_ms": 195509,
-      "name": "Home Is You",
-      "url": "https://open.spotify.com/track/1G4vlm1c1Ai9ORbdO6fR0W"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -867,22 +867,6 @@
       "duration_ms": 175550,
       "name": "Sad Forever",
       "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
-        "name": "Never Look Down",
-        "url": "https://open.spotify.com/album/2x7SaulIo7LlGEx7EYAz1m"
-      },
-      "artists": [
-        {
-          "name": "Isak Benjamin",
-          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "Never Look Down",
-      "url": "https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -955,18 +939,34 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/79y56tQjNRUextz6CReVXg"
+        "name": "Never Look Down",
+        "url": "https://open.spotify.com/album/2x7SaulIo7LlGEx7EYAz1m"
       },
       "artists": [
         {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "Isak Benjamin",
+          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
         }
       ],
-      "duration_ms": 210070,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/37gousVr7Tfh7798ae6eac"
+      "duration_ms": 217960,
+      "name": "Never Look Down",
+      "url": "https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "En del av dig (From the Netflix film \"A Part Of You\")",
+        "url": "https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "duration_ms": 177422,
+      "name": "En del av dig (From the Netflix film \"A Part Of You\")",
+      "url": "https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -987,18 +987,18 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "En del av dig (From the Netflix film \"A Part Of You\")",
-        "url": "https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/79y56tQjNRUextz6CReVXg"
       },
       "artists": [
         {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 177422,
-      "name": "En del av dig (From the Netflix film \"A Part Of You\")",
-      "url": "https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU"
+      "duration_ms": 210070,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/37gousVr7Tfh7798ae6eac"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Row Your Boat",
-        "url": "https://open.spotify.com/album/4LSD9CPFBbfpqu3Pc99RA8"
-      },
-      "artists": [
-        {
-          "name": "Peder Elias",
-          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
-        }
-      ],
-      "duration_ms": 175030,
-      "name": "Row Your Boat",
-      "url": "https://open.spotify.com/track/3WXGdXrITAcaMUQiZuu04n"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
         "name": "Samma saga",
         "url": "https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 213882,
       "name": "Samma saga",
       "url": "https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "Row Your Boat",
+        "url": "https://open.spotify.com/album/4LSD9CPFBbfpqu3Pc99RA8"
+      },
+      "artists": [
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "duration_ms": 175030,
+      "name": "Row Your Boat",
+      "url": "https://open.spotify.com/track/3WXGdXrITAcaMUQiZuu04n"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Hard To Be Human",
-        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 170414,
-      "name": "Hard To Be Human",
-      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
         "name": "Det sista jag beh\u00f6ver",
         "url": "https://open.spotify.com/album/7mXhFByOKqVfAM8TxYMX9M"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 174376,
       "name": "Det sista jag beh\u00f6ver",
       "url": "https://open.spotify.com/track/2nZMFrdnV0AxKlRvXbsDYX"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "Hard To Be Human",
+        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 170414,
+      "name": "Hard To Be Human",
+      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Under Different Skies",
-        "url": "https://open.spotify.com/album/3bGEbZfduDw6irXvNiD2qL"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 211429,
-      "name": "Second Chances",
-      "url": "https://open.spotify.com/track/66bfRDJ4opMOviIi6esyYV"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
         "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
         "url": "https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 181000,
       "name": "f\u00f6r oss",
       "url": "https://open.spotify.com/track/1sxW6Pauxd9qCXrXOli0Xu"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "Under Different Skies",
+        "url": "https://open.spotify.com/album/3bGEbZfduDw6irXvNiD2qL"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 211429,
+      "name": "Second Chances",
+      "url": "https://open.spotify.com/track/66bfRDJ4opMOviIi6esyYV"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 240277,
-      "name": "Airplane",
-      "url": "https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
         "name": "Penny (Akustisk)",
         "url": "https://open.spotify.com/album/20vhMkNyxzPhctrCYeMGzE"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 190243,
       "name": "Penny (Akustisk) [feat. Penny]",
       "url": "https://open.spotify.com/track/5Oz05HhOtbbO8baMJURFVj"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 240277,
+      "name": "Airplane",
+      "url": "https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT"
     },
     {
       "added_at": "2025-06-26 22:00:32",

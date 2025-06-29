@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-402 songs - 23 hr 9 min
+403 songs - 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Drömmare](https://open.spotify.com/track/3LhUaJOzQpcWTIuBxtr9fC) | [Jakob Hellman](https://open.spotify.com/artist/74terC9ol9zMo8rfzhSOiG), [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Drömmare](https://open.spotify.com/album/5gBifDZIcbwifi9TDVXzfS) | 3:26 | 2025-05-29 |  |
 | [Drömmen](https://open.spotify.com/track/4EU21mvqcfeIdEuoJR0hgz) | [Lisa Miskovsky](https://open.spotify.com/artist/5J0dXmqEYctfFsmcakqZFH) | [Drömmen](https://open.spotify.com/album/6rFWo8q22VYLSkguHafggS) | 3:23 | 2025-01-23 | 2025-05-30 |
 | [Du lever bara en gång](https://open.spotify.com/track/4XeAYorvujNce5c46bMCHw) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Du lever bara en gång](https://open.spotify.com/album/3uTHyiH9oRSibuPZeryfjp) | 3:04 | 2024-10-17 | 2025-04-25 |
-| [Du längtar bort](https://open.spotify.com/track/7wHzj6EPkLK8GasG0NVFe0) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS), [Kristin Amparo](https://open.spotify.com/artist/2vxWDuk2inw00eo3Hag2QR) | [Du längtar bort](https://open.spotify.com/album/6QNGCI3PqSDORrueoaC5wK) | 4:33 | 2025-05-29 |  |
+| [Du längtar bort](https://open.spotify.com/track/7wHzj6EPkLK8GasG0NVFe0) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS), [Kristin Amparo](https://open.spotify.com/artist/2vxWDuk2inw00eo3Hag2QR) | [Du längtar bort](https://open.spotify.com/album/6QNGCI3PqSDORrueoaC5wK) | 4:33 | 2025-05-29 | 2025-06-29 |
 | [Du är inte ensam](https://open.spotify.com/track/6hysTRJfm36bH5gyGhMokz) | [Michael Jeff Johnson](https://open.spotify.com/artist/3ta73ydktHSzZRez9vzyUV), [Sonja Aldén](https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ) | [Du är inte ensam](https://open.spotify.com/album/00veIC6BKJUrFwhxISPhUu) | 3:11 | 2024-09-19 | 2024-10-08 |
 | [East River Park Song](https://open.spotify.com/track/0nIxDReCiyq1DwkFdLvXbR) | [Eva Dahlgren](https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0) | [Alphabet City Songs \(Lost and Found Album\)](https://open.spotify.com/album/1VEXqdBC5sxdhs70uVdEPw) | 3:55 | 2025-03-27 |  |
 | [Elaine](https://open.spotify.com/track/02TJw6vUHpiFOFw3TVNjFK) | [Hagsätra Sport](https://open.spotify.com/artist/0QAkm7atdiO4zIMNQDKkua), [Niklas Strömstedt](https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu), [Andreas Johnson](https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC) | [Elaine](https://open.spotify.com/album/2cyHxoHmfKnjN9F4cXZ8fw) | 3:03 | 2024-06-27 | 2024-09-29 |
@@ -360,6 +360,7 @@
 | [Two Of Us](https://open.spotify.com/track/41l5xoVxJt7gibWtntsnz4) | [Ola Salo](https://open.spotify.com/artist/3IfjzLJe109UiT5EXAhjV1), [Peter Jöback](https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj) | [Two Of Us](https://open.spotify.com/album/0ED0rbxhIywSk2WP7Ym1OB) | 3:25 | 2025-06-12 |  |
 | [Tänd hela himlen](https://open.spotify.com/track/2LEsVPAC8rD2mh6px5wlRA) | [Sara Zacharias](https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg) | [Tänd hela himlen](https://open.spotify.com/album/60e3dAefZyr9y6FosBHqiT) | 3:13 | 2025-04-17 | 2025-04-23 |
 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 | 2024-06-27 | 2024-08-09 |
+| [Unsatisfied Heart](https://open.spotify.com/track/54tyK1tUpNgxSVFrLJb1wk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks II: The Lost Albums](https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37) | 5:45 | 2025-06-26 |  |
 | [Upp med hakan](https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Upp med hakan](https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi) | 2:45 | 2024-06-27 | 2025-04-04 |
 | [Uteblivna vi](https://open.spotify.com/track/6qzJ3QiNBVd23wlliDyVRu) | [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [Uteblivna vi](https://open.spotify.com/album/5Pmc8qBwYvrmKBV0Q41zUH) | 6:02 | 2025-03-20 |  |
 | [Vad Dom Sa](https://open.spotify.com/track/1g1YkPsarGn8O0XaUqKJkf) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Vad Dom Sa](https://open.spotify.com/album/2GXmmJ3Pa4263uiMUGVSJe) | 2:47 | 2024-09-26 | 2025-01-10 |

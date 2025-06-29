@@ -337,6 +337,28 @@
     },
     {
       "album": {
+        "name": "Gospo Classic Volume 2",
+        "url": "https://open.spotify.com/album/7DsNSdOPbjxVjCjR7Ppowk"
+      },
+      "artists": [
+        {
+          "name": "Natalie Wilson",
+          "url": "https://open.spotify.com/artist/2cmwMrRPLIqqPygE40UFh9"
+        },
+        {
+          "name": "S.O.P. Chorale",
+          "url": "https://open.spotify.com/artist/0IH9EObgdMmLCLSjIxTzS3"
+        }
+      ],
+      "date_added": "2025-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260493,
+      "name": "Act Like You Know",
+      "url": "https://open.spotify.com/track/4DBAecJ7WfCWzjJB0Z6ytW"
+    },
+    {
+      "album": {
         "name": "Girl Director",
         "url": "https://open.spotify.com/album/0ERbmaNcQIP8f93afRc1NR"
       },
@@ -348,7 +370,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 260733,
       "name": "Act Like You Know",
       "url": "https://open.spotify.com/track/0NB8Tf4yU41oyeVbawtKXc"

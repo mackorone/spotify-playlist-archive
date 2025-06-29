@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "GOOD GIRL",
+        "url": "https://open.spotify.com/album/3zyNlsDiR0lUdH8EbBgigi"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173871,
+      "name": "GOOD GIRL",
+      "url": "https://open.spotify.com/track/39sWePYge6aUJ0SbxdtRlg"
+    },
+    {
+      "album": {
         "name": "Hyperballin",
         "url": "https://open.spotify.com/album/1ykWQumm60Xg8jPAlZ2Hcq"
       },
@@ -1392,7 +1410,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 166623,
       "name": "yellow fever (feat. Ramengvrl & YAYOI DAIMON)",
       "url": "https://open.spotify.com/track/6mrHgesCVZEEDxiS6aovn6"

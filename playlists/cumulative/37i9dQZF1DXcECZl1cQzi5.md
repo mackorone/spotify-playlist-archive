@@ -4,7 +4,7 @@
 
 > Waves and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-175 songs - 8 hr 22 min
+176 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Above the Clouds](https://open.spotify.com/track/1YNREOM2arPOMzVX9CJZx5) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Above the Clouds](https://open.spotify.com/album/1TugxFZJMiKgRBXM0aOfRT) | 2:55 | 2023-10-23 |  |
 | [Abyss](https://open.spotify.com/track/1MLXR6OqagKLfIsUv5MHfV) | [A.Z\. Louna](https://open.spotify.com/artist/09wCM3Hlsk5DNw8Nnkihmk) | [Abyss](https://open.spotify.com/album/6sWwvTF9xh2XXWcY6yhpuQ) | 2:12 | 2024-07-08 | 2025-02-17 |
 | [Aethaerum](https://open.spotify.com/track/1dEA7WCxIcfirzbNADvc7k) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Aethaerum](https://open.spotify.com/album/6n5YtNCZaQFCh6PndO9IhI) | 3:06 | 2023-10-23 |  |
+| [Arran](https://open.spotify.com/track/430fmJbxZcZVZHjRXPhIbe) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Arran](https://open.spotify.com/album/0w6TCWiuzcqMzir4xGSdUB) | 2:52 | 2025-06-23 |  |
 | [Art of Peace](https://open.spotify.com/track/7K8j7uqXYL8l2yj42kpYiS) | [Zims Ele](https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s) | [Art of Peace](https://open.spotify.com/album/0bOZmqneZzhxk0JxRIfY5X) | 2:56 | 2025-04-01 |  |
 | [Asrama \(Ocean\)](https://open.spotify.com/track/4rSWdukM3vcukTJONU1VKs) | [Aion Dust](https://open.spotify.com/artist/1MeNlS0atOkuUVee7AeO3N) | [Asrama \(Ocean\)](https://open.spotify.com/album/6TvyfWqnj6rvckAguBsmei) | 3:17 | 2025-02-18 |  |
 | [Atomos Atmos](https://open.spotify.com/track/1PinJYwTcizpP5mTW4qIRX) | [Claudette Bernard](https://open.spotify.com/artist/4EWNPU1XQV8ckiiJjERuf9) | [Atomos Atmos](https://open.spotify.com/album/3RsB5t1TpWqsZJ7xmC1vZc) | 3:44 | 2023-10-26 |  |
@@ -166,7 +167,7 @@
 | [The Cove](https://open.spotify.com/track/7pRyNDcMVEezLVkZ1P2PEC) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [The Cove](https://open.spotify.com/album/3g0Z1vEQD7u16dn2XTtapr) | 2:01 | 2024-06-03 |  |
 | [The Little Cabin](https://open.spotify.com/track/0MPufbIEaLbtQYtsO2MoF9) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [The Little Cabin](https://open.spotify.com/album/6nGhvw8WHa82wpJzT2djse) | 2:55 | 2024-03-01 |  |
 | [The North Sea](https://open.spotify.com/track/5kR1w0nEgRVJi28Y3v445V) | [Tundriunas](https://open.spotify.com/artist/38zGrr9psTPxaS1oCBb63z) | [The North Sea](https://open.spotify.com/album/7CBWzwXLxmfXco1i9Kza09) | 1:54 | 2023-10-23 | 2024-09-05 |
-| [The Shining Sea](https://open.spotify.com/track/4FfGK1TKJRymLGoPXjkhHl) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [Calming Waves](https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf) | 3:10 | 2023-10-26 |  |
+| [The Shining Sea](https://open.spotify.com/track/4FfGK1TKJRymLGoPXjkhHl) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [Calming Waves](https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf) | 3:10 | 2023-10-26 | 2025-06-29 |
 | [The Tower of Embellion](https://open.spotify.com/track/5Fote1YAJdFBepEnDLU9lT) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [The Tower of Embellion](https://open.spotify.com/album/5hFzH7DJZJGcPg2jC0WuS8) | 3:08 | 2023-10-23 |  |
 | [Trearddur Bay](https://open.spotify.com/track/0QLK0YU0s1NEdwdguhih0p) | [Lawrence Libert](https://open.spotify.com/artist/4bdis3Cw3TaQPyW8pps6vE), [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [A Place To Call Home](https://open.spotify.com/album/6CDFfPGj11bEgFeQ8CMUPg) | 3:35 | 2024-09-04 |  |
 | [Träumend \(Sound Bath\)](https://open.spotify.com/track/3J0UKikpt9HoLZ3XBn15Jo) | [Kaspar Hahn](https://open.spotify.com/artist/3P4ASeb4sRWkWtOSDa36GX) | [Träumend \(Sound Bath\)](https://open.spotify.com/album/7tDKtuP1BNoPQdwSDWWNKS) | 2:17 | 2023-11-24 | 2025-04-14 |

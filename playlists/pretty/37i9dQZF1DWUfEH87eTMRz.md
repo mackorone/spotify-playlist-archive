@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 
 > Parque Simón Bolívar, Marzo 27, 28, 29 y 30\. Foto: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,364 likes - 150 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,363 likes - 150 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 44 | [PELINEGRA](https://open.spotify.com/track/17WSken6b0y5qbwGhUquSk) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [TU OG FAVORITO](https://open.spotify.com/album/0vceBw0AhXy5IcDFlnOLza) | 3:37 |
 | 45 | [love is embarrassing](https://open.spotify.com/track/3jhlwdu8nU7hFTEGHUomN3) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:34 |
 | 46 | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/album/3jHBdwS3nCuPC6lThrFJba) | 4:17 |
-| 47 | [Odd Look](https://open.spotify.com/track/3Q6mwJseOFYBJ10d5CXp4o) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Odd Look](https://open.spotify.com/album/3FHMLI0Vz2t0gdypH1yImX) | 4:13 |
-| 48 | [Amor \(Ft\. Mon Laferte\) \- MTV Unplugged](https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 5:12 |
+| 47 | [Amor \(Ft\. Mon Laferte\) \- MTV Unplugged](https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 5:12 |
+| 48 | [Odd Look](https://open.spotify.com/track/3Q6mwJseOFYBJ10d5CXp4o) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Odd Look](https://open.spotify.com/album/3FHMLI0Vz2t0gdypH1yImX) | 4:13 |
 | 49 | [Antiaéreo](https://open.spotify.com/track/15tDDogDQ8kOcs5b6G2bN5) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [Antiaéreo](https://open.spotify.com/album/5ZXxw4HE8cmoNsVCesdMKZ) | 3:04 |
 | 50 | [Phonky Tribu](https://open.spotify.com/track/7aIb17DMLcOhLJIc9vF6Aa) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/6a2QtF55Q67Tr69arnzPQW) | 4:46 |
 | 51 | [tear myself apart](https://open.spotify.com/track/4AuYFl8wn6502LiHDTr0C9) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:45 |

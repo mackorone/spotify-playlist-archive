@@ -4,7 +4,7 @@
 
 > 作詞・作曲・編曲を手掛けるマルチ音楽コンポーザー。映画・アニメ・ゲーム・舞台・TVなど幅広い分野で活躍。Kalafinaのプロデュースや自身のユニットSee\-Saw、新プロジェクトFictionJunctionとしての活動でも知られ、ヨーロッパと東洋のエッセンスが融合した独自の世界観で熱い支持を集めている。
 
-127 songs - 9 hr 47 min
+132 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [battle of the shadows](https://open.spotify.com/track/0RSLSKWQPsNhwzQpDcZAsF) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [TVアニメ『プリンセス・プリンシパル』オリジナルサウンドトラック「Sound of Foggy London」](https://open.spotify.com/album/4j6VsyzNHfHQVpRfmzqUcd) | 3:11 | 2022-02-28 |  |
 | [blaze](https://open.spotify.com/track/5O3NwL2gfJQYPOGYfEfdAH) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Kalafina All Time Best 2008\-2018](https://open.spotify.com/album/0XpLAvr5gn7pNnJl00a8yc) | 4:03 | 2022-02-28 | 2024-04-19 |
 | [blaze](https://open.spotify.com/track/0NHBMe6nMazA4OwrKELlMX) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [blaze](https://open.spotify.com/album/364oSGKKNq5HysFQf3e8pA) | 4:03 | 2022-02-28 |  |
+| [brace up and run!](https://open.spotify.com/track/3StEf16wKvy3VN2k4bb3mH) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「鬼滅の刃」竈門炭治郎 立志編 オリジナルサウンドトラック](https://open.spotify.com/album/7wN7HLAWdOTtPBGUHxP3tv) | 2:32 | 2025-06-28 |  |
 | [circus](https://open.spotify.com/track/18WaVPIBp3EpfqAWllHVKi) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [circus](https://open.spotify.com/album/3uIPcjVMdZgVNFT0E8u4N9) | 4:51 | 2022-02-28 |  |
 | [Distance](https://open.spotify.com/track/7DR1RA2JopBM7Teb1ftefA) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [『elemental』](https://open.spotify.com/album/4sCdhpUKz1dCg97RWZ89Id) | 4:07 | 2023-05-07 | 2024-04-19 |
 | [Distance](https://open.spotify.com/track/1QQDhxgcY8ty28ltzT9lW6) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [Distance](https://open.spotify.com/album/6qSpHIBr5XLlKC3v35WrIl) | 4:07 | 2022-02-28 |  |
@@ -68,6 +69,7 @@
 | [storia](https://open.spotify.com/track/6J9B284el0IT89aLnhzHq0) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [THE BEST “Blue”](https://open.spotify.com/album/7uUEGK4CTDdLzoFQ5BKxNm) | 3:37 | 2022-02-28 | 2022-11-13 |
 | [storia](https://open.spotify.com/track/0z0jQ2BgYzbnsnwlasgHvL) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [storia](https://open.spotify.com/album/2anN3L21bqtKROZ2ar6wyI) | 3:38 | 2022-02-28 |  |
 | [storia](https://open.spotify.com/track/57W3wuQ2Igq10ed6ILflyw) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Red Moon](https://open.spotify.com/album/6wcCztTF3bTXlzxFsouWLF) | 3:38 | 2022-02-28 | 2024-04-19 |
+| [survive and get the blade, boy](https://open.spotify.com/track/1xTJbO0NCbyRhPXf0aMVmK) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「鬼滅の刃」竈門炭治郎 立志編 オリジナルサウンドトラック](https://open.spotify.com/album/7wN7HLAWdOTtPBGUHxP3tv) | 3:59 | 2025-06-28 |  |
 | [the route of the sun](https://open.spotify.com/track/1nM5YLYK801GD3x15d2gho) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [the route of the sun](https://open.spotify.com/album/5gO55hgZfiirXfiocCqrMZ) | 4:08 | 2022-02-28 | 2023-04-15 |
 | [the route of the sun](https://open.spotify.com/track/2z4VRUyZDQI2IYXtzSZZwf) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [5th Anniversary 3rd Full Album Dear](https://open.spotify.com/album/6wDj0XhwsypQ1ANwXTIN8z) | 4:10 | 2022-02-28 | 2024-04-19 |
 | [the sea and a pearl](https://open.spotify.com/track/0m7O37bxQV9y1AS9afCVD0) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [the sea and a pearl](https://open.spotify.com/album/7mzVjw02rCoOluqsnhboJ8) | 4:39 | 2022-02-28 | 2023-04-15 |
@@ -87,6 +89,7 @@
 | [ひかりふる](https://open.spotify.com/track/5qJGYNfb91Wml51v5vnj4K) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [ひかりふる](https://open.spotify.com/album/64TNI4SlacrbN6sA5Zig4f) | 4:51 | 2022-02-28 |  |
 | [ひかりふる](https://open.spotify.com/track/2Bc9VKcoyaYbpnnjKacdKJ) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Consolation](https://open.spotify.com/album/6wUa2X4ZWE82DSpCn6zNsb) | 4:53 | 2022-02-28 | 2024-04-19 |
 | [ひかりふる](https://open.spotify.com/track/6e6xydbcKp3UJuRRdSbdwu) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Kalafina All Time Best 2008\-2018](https://open.spotify.com/album/0XpLAvr5gn7pNnJl00a8yc) | 4:54 | 2022-02-28 | 2022-11-13 |
+| [みんな私が守るからね](https://open.spotify.com/track/5f9qUsOQJMPahxFe8VPack) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「鬼滅の刃」刀鍛冶の里編 オリジナルサウンドトラック](https://open.spotify.com/album/3XWluQCHEe2W1M0NvbPQOq) | 1:43 | 2025-06-28 |  |
 | [七色のフィナーレ](https://open.spotify.com/track/5uvfjUhS5Du4GX00KaQngY) | [KEIKO](https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe) | [Lantana](https://open.spotify.com/album/0DSpIVLKGV6DICxqP4fiZh) | 4:37 | 2022-02-28 |  |
 | [優しい夜明け](https://open.spotify.com/track/2stcUXRo0jPS1R7SStG2DI) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [Obsession ／ 優しい夜明け](https://open.spotify.com/album/4BV3lvnKXgvyuDIgo6I06z) | 5:08 | 2022-02-28 |  |
 | [光の旋律](https://open.spotify.com/track/42F3KCBi64pMYfNrMtN4n7) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Red Moon](https://open.spotify.com/album/4KjKXGvqS4Q9UAGecsnEsM) | 6:13 | 2022-02-28 |  |
@@ -116,7 +119,9 @@
 | [炎](https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) | 4:35 | 2022-02-28 |  |
 | [焔の扉](https://open.spotify.com/track/0OGoqbqURRylj7v7cUoMMY) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [焔の扉](https://open.spotify.com/album/0SMBVzy8j0KY3Kmwmi9fXU) | 4:52 | 2022-02-28 |  |
 | [焔の扉](https://open.spotify.com/track/7bISXTD95bEN7oqD4LTmov) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [circus](https://open.spotify.com/album/3uIPcjVMdZgVNFT0E8u4N9) | 4:52 | 2023-05-07 | 2024-04-19 |
+| [無限列車～avant\-title～](https://open.spotify.com/track/4kg7zjCDzrPB5dSGzaQbz3) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「鬼滅の刃」無限列車編 オリジナルサウンドトラック](https://open.spotify.com/album/319uh4R4DZ2oEIEaGSFyAF) | 3:03 | 2025-06-28 |  |
 | [燈命](https://open.spotify.com/track/1paCOr4yzLiNZin7yN2aiL) | [KEIKO](https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe) | [夕闇のうた](https://open.spotify.com/album/3ohQfs9Gur1zL9kL2KHBip) | 4:28 | 2024-01-23 |  |
+| [甘露寺対憎珀天](https://open.spotify.com/track/1I621rkd45JUzPqr0lCbtm) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「鬼滅の刃」刀鍛冶の里編 オリジナルサウンドトラック](https://open.spotify.com/album/3XWluQCHEe2W1M0NvbPQOq) | 1:38 | 2025-06-28 |  |
 | [白銀](https://open.spotify.com/track/0f5hcKLCRgpdVV424X4XDQ) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [白銀](https://open.spotify.com/album/3Y8xaDUTu15VRCE9TblUOy) | 4:24 | 2022-02-28 |  |
 | [瞳の欠片](https://open.spotify.com/track/6lXw65lNf1in1SmMB4OwjW) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [『MADLAX』オープニングテーマ「瞳の欠片」](https://open.spotify.com/album/0imp9L18jxeZSdwxAG9Ke5) | 4:02 | 2022-02-28 |  |
 | [砂塵の彼方へ…](https://open.spotify.com/track/5KxHYmHfYu2hSBQCyFMMag) | [Revo & 梶浦由記](https://open.spotify.com/artist/2qBB1D5WAQwmL0v511RJvw) | [Dream Port](https://open.spotify.com/album/4Sm1Sb0u6OcErakFU3oitz) | 7:23 | 2022-02-28 |  |

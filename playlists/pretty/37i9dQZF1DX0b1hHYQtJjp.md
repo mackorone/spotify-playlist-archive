@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 
 > Recent hits and new songs from your fave artists\. Cover: Maroon 5
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,082 likes - 59 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,087 likes - 59 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

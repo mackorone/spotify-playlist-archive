@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,987 songs - 1 day 16 hr 14 min
+1,988 songs - 1 day 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1760,6 +1760,7 @@
 | [Through The Trees](https://open.spotify.com/track/0zoo4Id49U8D7bqj5O4na8) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Forest Walk](https://open.spotify.com/album/0Nk7maUYaBAgpyF1lUPoHH) | 1:04 | 2022-01-12 |  |
 | [Tides](https://open.spotify.com/track/2TuFLsiFkATI7EprEkz83d) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Tides](https://open.spotify.com/album/1KQl7NoGj7yHH9lEIC67b3) | 1:00 | 2024-02-18 |  |
 | [Time](https://open.spotify.com/track/1nCsl1a568L4TYtPwMPT8e) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Space and Time](https://open.spotify.com/album/5OIjHx2iEBOJbGgsexP069) | 1:25 | 2022-01-20 |  |
+| [Time](https://open.spotify.com/track/4khOCbE7Eb6Co7rJUSouBa) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Time](https://open.spotify.com/album/26M8bpkX8zY76pxfbLlh0g) | 1:00 | 2025-06-28 |  |
 | [Time](https://open.spotify.com/track/0NXzdtGwPUpLTxV9mJVGtT) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Lost in Dreams](https://open.spotify.com/album/1KSrjyIcjFmL5JQO8yousZ) | 1:47 | 2022-01-20 | 2024-01-30 |
 | [Time And Light](https://open.spotify.com/track/0cpsAC1TOA0H9gTEjbUBzS) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Spaces To See](https://open.spotify.com/album/5amtYQ4oVN6PKjBpf67bYI) | 1:02 | 2022-02-06 |  |
 | [Time Stands Still Arr\. For Cello](https://open.spotify.com/track/5LKnH2PMgivmY1DaU0KInM) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Time Stands Still](https://open.spotify.com/album/2fLpTJi1r9ujgNMlPsEYi0) | 1:00 | 2023-04-19 | 2024-02-13 |

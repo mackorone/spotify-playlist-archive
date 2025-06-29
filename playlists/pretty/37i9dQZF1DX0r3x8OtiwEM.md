@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,780 likes - 60 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,971 likes - 60 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 29 | [Pumpin'](https://open.spotify.com/track/3JrNYsMLZxd3R56UzjM4PL) | [Across Boundaries](https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT), [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Synergy](https://open.spotify.com/album/6uPaQH6cFgD0hNBqGePfG0) | 5:34 |
 | 30 | [Lose Yourself Again](https://open.spotify.com/track/3OVP3FARH2ruqcTeSXFESk) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Lose Yourself Again](https://open.spotify.com/album/4FYQpn00AtwMv3JgKye0Ws) | 4:19 |
 | 31 | [All The Love](https://open.spotify.com/track/3hAfmM8O1VgtFmSfbm5FSc) | [Everything Is Art](https://open.spotify.com/artist/4CNfRyL59In8QRz94NE63M), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [All The Love](https://open.spotify.com/album/0AfvonhHpPRUz6fpPy7RHu) | 3:36 |
-| 32 | [Saga](https://open.spotify.com/track/1uujki6DaepMXtCRv4ySKi) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex) | [Saga](https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h) | 5:36 |
-| 33 | [You Are](https://open.spotify.com/track/7ivcxtK1L1Y1j50x9yUWIR) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [You Are](https://open.spotify.com/album/3Mlmg99htNwRiVf6yDAspJ) | 3:59 |
+| 32 | [You Are](https://open.spotify.com/track/7ivcxtK1L1Y1j50x9yUWIR) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [You Are](https://open.spotify.com/album/3Mlmg99htNwRiVf6yDAspJ) | 3:59 |
+| 33 | [Saga](https://open.spotify.com/track/1uujki6DaepMXtCRv4ySKi) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex) | [Saga](https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h) | 5:36 |
 | 34 | [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 |
 | 35 | [Next to Me](https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Next to Me](https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN) | 5:14 |
 | 36 | [Spiral \- Edit](https://open.spotify.com/track/555xHSjplKrHgZteVOwJ7R) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Spiral \(Edit\)](https://open.spotify.com/album/1Xycot3BuBMYXvCFRMeZ88) | 3:41 |
@@ -56,17 +56,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 46 | [On My Knees \- Adriatique Remix](https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [On My Knees \(Adriatique Remix\)](https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr) | 7:32 |
 | 47 | [Memories](https://open.spotify.com/track/6BiBQjBIl8ozwqRihm4hTV) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Memories](https://open.spotify.com/album/6FI3iFdhMbw1fwAsPH0Mz0) | 3:35 |
 | 48 | [Paradise \(Feat\. Jem Cooke\)](https://open.spotify.com/track/6IB7ACtFpfxFbUR06pA7Xc) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Life Through A Different Lens](https://open.spotify.com/album/4qkVLM1dHnydhcWUOg6U4A) | 3:36 |
-| 49 | [Before The Storm](https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Before The Storm](https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS) | 6:09 |
-| 50 | [Remember](https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Remember](https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL) | 6:55 |
+| 49 | [Remember](https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Remember](https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL) | 6:55 |
+| 50 | [Before The Storm](https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Before The Storm](https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS) | 6:09 |
 | 51 | [Ascension](https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Ascension](https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS) | 4:04 |
 | 52 | [Indulgence](https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Indulgence](https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou) | 4:29 |
 | 53 | [Sweat](https://open.spotify.com/track/2KSyOw1xmLPbINlgSY6DsV) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Sweat](https://open.spotify.com/album/3QUQnOG82oidJv6LrMZAkH) | 3:24 |
 | 54 | [You Are](https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B) | [Demayä](https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9) | [You Are](https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc) | 4:23 |
 | 55 | [Yes Baby](https://open.spotify.com/track/5VPo4yWk05Fb0AVhwTjniq) | [Chris Luno](https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq) | [Yes Baby](https://open.spotify.com/album/4F3MFTq2TiWlHQN7XXGag5) | 3:03 |
 | 56 | [JAZZ IN THE AIR](https://open.spotify.com/track/0xBsZ8t2cgo2dSE2Xim3xO) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [JAZZ IN THE AIR](https://open.spotify.com/album/3hSDnCURfeICFh2Q1by74E) | 5:03 |
-| 57 | [Avalanche \- Edit](https://open.spotify.com/track/3g0f1E9zlyauznccPZYaTn) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Avalanche](https://open.spotify.com/album/4iGkjP8sE9aRb50TeBtMMG) | 4:03 |
-| 58 | [Darkness](https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 7:58 |
-| 59 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 |
+| 57 | [Darkness](https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 7:58 |
+| 58 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 |
+| 59 | [Avalanche \- Edit](https://open.spotify.com/track/3g0f1E9zlyauznccPZYaTn) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Avalanche](https://open.spotify.com/album/4iGkjP8sE9aRb50TeBtMMG) | 4:03 |
 | 60 | [Where's The Music Gone](https://open.spotify.com/track/0W2DNZ8ttfFvhlGCBgMq0s) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Paul Rogers](https://open.spotify.com/artist/6QkoiP5TNAX3xPGTYDLpAg) | [Where's The Music Gone](https://open.spotify.com/album/2gcKpdIcK8DTt99uPWZkxp) | 3:48 |
 
 Snapshot ID: `aEuibQAAAABaeoYENa7TBuawykI594xR`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUp2zRnhtp.md) - [plain]
 
 > vi leker ikke hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,710 likes - 117 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,706 likes - 117 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [En Vakker Dag](https://open.spotify.com/track/12WCXm97BfsVbOgYFKnjo8) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [En Vakker Dag](https://open.spotify.com/album/3LxZplqK7TmHspbpOuQlPB) | 2:27 |
+| 1 | [En Vakker Dag](https://open.spotify.com/track/12WCXm97BfsVbOgYFKnjo8) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [En Vakker Dag](https://open.spotify.com/album/3LxZplqK7TmHspbpOuQlPB) | 2:30 |
 | 2 | [Alle vil til himmelen](https://open.spotify.com/track/2HrQbrT7N3VcV3PmZIy9Wq) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Alle vil til himmelen](https://open.spotify.com/album/4vzLkPviZltNi8oI7F6e2Z) | 2:25 |
 | 3 | [Nobody Gets Me](https://open.spotify.com/track/0PNB53urpkoZ7XJ05d1eOz) | [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Nobody Gets Me](https://open.spotify.com/album/3JDKvnr04WNWqqLqGlP0pl) | 2:43 |
 | 4 | [Telefon](https://open.spotify.com/track/2EaIpVMVVBRjis49eEE5RI) | [William Gamborg](https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P) | [Telefon](https://open.spotify.com/album/2F2mAmeqLVci16NxcQhcFm) | 2:40 |

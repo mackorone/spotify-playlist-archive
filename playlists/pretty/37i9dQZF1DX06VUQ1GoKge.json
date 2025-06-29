@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 553590,
+  "num_followers": 553593,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "The Poison",
-        "url": "https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq"
-      },
-      "artists": [
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 210120,
-      "name": "Hit The Floor",
-      "url": "https://open.spotify.com/track/0UYJv76bj5U3QRghS8wL9e"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Slow Burn",
         "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 258750,
       "name": "system_failure",
       "url": "https://open.spotify.com/track/41J8NzN0nWOCv2Ht94e78n"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "The Poison",
+        "url": "https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 210120,
+      "name": "Hit The Floor",
+      "url": "https://open.spotify.com/track/0UYJv76bj5U3QRghS8wL9e"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Metallica",
-        "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 323933,
-      "name": "Sad But True",
-      "url": "https://open.spotify.com/track/1PhLYngBKbeDtdmDzCg3Pb"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "The Paradigm Shift (Deluxe)",
         "url": "https://open.spotify.com/album/6TA5d51wosfWuZXyOKWzpG"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 264862,
       "name": "Spike in My Veins",
       "url": "https://open.spotify.com/track/1wzZLs3oFoMcSbf1nEzhLm"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Handshake with Hell",
+        "url": "https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 338960,
+      "name": "Handshake with Hell",
+      "url": "https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ"
     }
   ],
   "unique_name": "Blood, Sweat & Cheers",

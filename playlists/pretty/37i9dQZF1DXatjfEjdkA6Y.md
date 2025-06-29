@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 
 > The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,016 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,017 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 44 | [Parlez\-vous francais?](https://open.spotify.com/track/673foE9F1zexKf0VPCIB4k) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [Best Of](https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ) | 4:24 |
 | 45 | [En un Mundo Nuevo](https://open.spotify.com/track/5rIMwPfCNwsqbnbL9jpXXy) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Viva el Amor](https://open.spotify.com/album/0kFh8oJEziPh93ZPywp1sy) | 3:10 |
 | 46 | [Merci Chérie](https://open.spotify.com/track/29wXI6B7d5vy3iPfXhYMuP) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Alle Macht den Gefühlen](https://open.spotify.com/album/20OmM7msF0aALXBhaWgUFI) | 2:46 |
-| 47 | [Let Me Be the One](https://open.spotify.com/track/6gZvvkOUTl33NDsbi3lzKr) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [Shadows \- The Collection](https://open.spotify.com/album/64pi43eHLCnVZHpcIdhoLa) | 2:50 |
-| 48 | [Tom Pillibi](https://open.spotify.com/track/3fZIQ0sdsy7u7YDmOpqbxS) | [Jacqueline Boyer](https://open.spotify.com/artist/39CXnW4H5Zc2567MY5UaeH) | [Succès et raretés \(Collection "78 tours et puis s'en vont..."\)](https://open.spotify.com/album/7sklBkyosCBaqrUisOaPRG) | 3:03 |
-| 49 | [Uno Per Tutte](https://open.spotify.com/track/4OF9t8dHcIBMip0Vc5hSlk) | [Emilio Pericoli](https://open.spotify.com/artist/78SZetGidiOyErFwdWTmgQ) | [Solino](https://open.spotify.com/album/0I3MXd5FYGAj6X9GOJepMb) | 2:58 |
+| 47 | [Uno Per Tutte](https://open.spotify.com/track/4OF9t8dHcIBMip0Vc5hSlk) | [Emilio Pericoli](https://open.spotify.com/artist/78SZetGidiOyErFwdWTmgQ) | [Solino](https://open.spotify.com/album/0I3MXd5FYGAj6X9GOJepMb) | 2:58 |
+| 48 | [Let Me Be the One](https://open.spotify.com/track/6gZvvkOUTl33NDsbi3lzKr) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [Shadows \- The Collection](https://open.spotify.com/album/64pi43eHLCnVZHpcIdhoLa) | 2:50 |
+| 49 | [Tom Pillibi](https://open.spotify.com/track/3fZIQ0sdsy7u7YDmOpqbxS) | [Jacqueline Boyer](https://open.spotify.com/artist/39CXnW4H5Zc2567MY5UaeH) | [Succès et raretés \(Collection "78 tours et puis s'en vont..."\)](https://open.spotify.com/album/7sklBkyosCBaqrUisOaPRG) | 3:03 |
 | 50 | [Nur die Liebe lässt uns leben \- Neuaufnahme](https://open.spotify.com/track/7nlbJorq1OC3Gph4hCLyhY) | [Mary Roos](https://open.spotify.com/artist/2MmejQB7k07GW7ooY66Umn) | [Herzen zu verschenken](https://open.spotify.com/album/0RGfq0U1p0D1PumB2YHlUB) | 3:13 |
 | 51 | [Non ho l'età \- Remastered](https://open.spotify.com/track/65715T2yQVD0uPDRcrODGk) | [Gigliola Cinquetti](https://open.spotify.com/artist/6QxfNzuPwvVnH5n1U24Cmh) | [Non ho l´eta \(Remastered\)](https://open.spotify.com/album/48phIpjpaG5tev1dUQgUYl) | 3:16 |
 | 52 | [Une petite française](https://open.spotify.com/track/4OMWFiBrBlA11tnJmNhi7y) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Universal Master](https://open.spotify.com/album/7kg1lYWJkHb0GbJbRcvN3K) | 2:53 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 59 | [Amanece](https://open.spotify.com/track/1F2jjX4W3mLOMwhBQXZFic) | [Jaime Morey](https://open.spotify.com/artist/5NB0co82z0VMEGYMZgixWp) | [Jaime Morey: Todos Sus Exitos](https://open.spotify.com/album/2KnB4G2fl7pD9i3FIEGO5L) | 3:03 |
 | 60 | [Ein Hoch der Liebe](https://open.spotify.com/track/1SlsyDG3PMLZ57fLzp5WVI) | [Wencke Myhre](https://open.spotify.com/artist/6W5ilMykftL18jlBb7CHuo) | [Er steht im Tor \- Ihre grossen Erfolge](https://open.spotify.com/album/705ZSYIGNPIkRTwRaA9igw) | 2:31 |
 | 61 | [Junger Tag](https://open.spotify.com/track/1MFZ9Qn3D2Mq7CGBM20T0q) | [Gitte Hænning](https://open.spotify.com/artist/61colh5ssNlVYwuzlQyB1u) | [Mega 50 \- Die 70er Jahre](https://open.spotify.com/album/4Jy5Oy9tA5kSnjsz0YyAls) | 3:20 |
-| 62 | [Marianne](https://open.spotify.com/track/6qjTf8vArMndh5BalX4qGv) | [Sergio Endrigo](https://open.spotify.com/artist/4ERMFbVCuwsv0eiUrG7LF3) | [Collection: Sergio Endrigo](https://open.spotify.com/album/3I41nPHRdOpInP57Noytru) | 3:10 |
-| 63 | [Djambo Djambo](https://open.spotify.com/track/47F73dkUQMKOl77Zs68pxk) | [Peter, Sue & Marc](https://open.spotify.com/artist/1oeiv9ZjFI1iT5cwzcGouh) | [Golden Hits \(Remastered\)](https://open.spotify.com/album/1radm6yMWa1V4SZVekqW5J) | 2:48 |
+| 62 | [Djambo Djambo](https://open.spotify.com/track/47F73dkUQMKOl77Zs68pxk) | [Peter, Sue & Marc](https://open.spotify.com/artist/1oeiv9ZjFI1iT5cwzcGouh) | [Golden Hits \(Remastered\)](https://open.spotify.com/album/1radm6yMWa1V4SZVekqW5J) | 2:48 |
+| 63 | [Marianne](https://open.spotify.com/track/6qjTf8vArMndh5BalX4qGv) | [Sergio Endrigo](https://open.spotify.com/artist/4ERMFbVCuwsv0eiUrG7LF3) | [Collection: Sergio Endrigo](https://open.spotify.com/album/3I41nPHRdOpInP57Noytru) | 3:10 |
 | 64 | [Telegram](https://open.spotify.com/track/72YL3BihTfLT3gfihtonfB) | [Silver Convention](https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA) | [Golden Girls](https://open.spotify.com/album/0bUaCbCLyGV2aneWfDSDcV) | 3:03 |
 | 65 | [Festa da Vida](https://open.spotify.com/track/7wLYU9xbF3rGxN8ZYTy0NS) | [Carlos Mendes](https://open.spotify.com/artist/0rPo81L45W612Ke5Ezsqc4) | [A Festa da Vida](https://open.spotify.com/album/0ZlWPHxyCHxo70SQBSYZGm) | 2:40 |
 | 66 | [Enseñame a Cantar](https://open.spotify.com/track/0U44GbCt9x8s7KW5VEVSV6) | [Micky](https://open.spotify.com/artist/0etbSXXNUU5ryv8SxnYQht) | [40 Años de No\. 1 en Español : Los 50's, 60's, 70's y 80's](https://open.spotify.com/album/4cuKRJ2hkJy13J7ml7NHu8) | 3:27 |

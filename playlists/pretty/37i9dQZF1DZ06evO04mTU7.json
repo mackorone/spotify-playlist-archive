@@ -1,12 +1,12 @@
 {
   "description": "This is AJULIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8677,
+  "num_followers": 8683,
   "original_name": "This Is AJULIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAABdDvn4gFPdmWVKaetmcocN",
+  "snapshot_id": "aF3fAAAAAABcqlHtTfzsY93vlyiZhTNn",
   "tracks": [
     {
       "added_at": null,
@@ -707,30 +707,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "EU VIM DE GR",
-        "url": "https://open.spotify.com/album/2qNasWZDq8XQumAbiSuCOn"
+        "name": "OK",
+        "url": "https://open.spotify.com/album/5QdLVDK0alzPG0aTYecf1P"
       },
       "artists": [
         {
-          "name": "Malcolm VL",
-          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
           "name": "AJULIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Ocean",
-          "url": "https://open.spotify.com/artist/0WRpHrzIKi44X6ARRQKeGg"
         }
       ],
-      "duration_ms": 165333,
-      "name": "F\u00e1brica de J\u00f3ia",
-      "url": "https://open.spotify.com/track/0qUV0nO4WQuoIiwZp9BhXr"
+      "duration_ms": 129407,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/0MYKlvcHf5a6NHJDHfmyJO"
     },
     {
       "added_at": null,
@@ -759,18 +747,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/5QdLVDK0alzPG0aTYecf1P"
+        "name": "EU VIM DE GR",
+        "url": "https://open.spotify.com/album/2qNasWZDq8XQumAbiSuCOn"
       },
       "artists": [
         {
+          "name": "Malcolm VL",
+          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
           "name": "AJULIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Ocean",
+          "url": "https://open.spotify.com/artist/0WRpHrzIKi44X6ARRQKeGg"
         }
       ],
-      "duration_ms": 129407,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/0MYKlvcHf5a6NHJDHfmyJO"
+      "duration_ms": 165333,
+      "name": "F\u00e1brica de J\u00f3ia",
+      "url": "https://open.spotify.com/track/0qUV0nO4WQuoIiwZp9BhXr"
     },
     {
       "added_at": null,

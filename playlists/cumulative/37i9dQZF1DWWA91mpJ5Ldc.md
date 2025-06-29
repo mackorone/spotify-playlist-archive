@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-256 songs - 15 hr 32 min
+258 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Amarelo](https://open.spotify.com/track/6bkx8Q0OrT02dp8qtFXIVC) | [Mila Cavalhero](https://open.spotify.com/artist/7510idFXIXYMpUdlm6RnY4) | [Amarelo](https://open.spotify.com/album/5vfomh31FYoTzH15Xh4PhF) | 3:24 | 2022-02-04 | 2022-07-26 |
 | [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP) | 3:00 | 2022-02-04 |  |
 | [Ansiejazz](https://open.spotify.com/track/3zxzCceumX9oWltiRy4HSY) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/0XWnY5AJPktemtQExVhoTJ) | 2:59 | 2022-03-22 | 2022-04-16 |
-| [Apesar de Você](https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg) | [Apesar de Você](https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79) | 4:35 | 2022-11-04 |  |
+| [Apesar de Você](https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg) | [Apesar de Você](https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79) | 4:35 | 2022-11-04 | 2025-06-29 |
 | [Aquarela](https://open.spotify.com/track/77fp9cdwRrMc4HtuNb9G5L) | [KARINE](https://open.spotify.com/artist/1ZPNC5O5lhPN5B7oeUKcB8) | [Aquarela](https://open.spotify.com/album/52aV0MfMGxHNDrs3A4CVhy) | 3:23 | 2022-02-04 | 2022-07-29 |
 | [Aqui não](https://open.spotify.com/track/1sJC8sQycGEeuC3T87DzMs) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Aqui não](https://open.spotify.com/album/6NZRTrHKebVLVs6YLWPihz) | 2:17 | 2023-10-20 | 2025-02-15 |
 | [Areia Fina](https://open.spotify.com/track/5UmNv7EMn8Re0LTNMDSUNE) | [Tiago Nacarato](https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X), [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1) | [Areia Fina](https://open.spotify.com/album/5u12FbXvV6Fs2fqGPngRbg) | 3:31 | 2022-02-04 |  |
@@ -48,7 +48,7 @@
 | [Boa Noite](https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Coisa de Acender](https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F) | 5:47 | 2022-02-04 |  |
 | [Boca Cheia](https://open.spotify.com/track/3F02D31yVHSs5OoOkSvirT) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI), [Indee](https://open.spotify.com/artist/6F8T5BrVPsND7NOzCBLZu5) | [Boca](https://open.spotify.com/album/5W174N4vOGoC6GEsILKWZn) | 3:35 | 2022-03-22 | 2022-04-20 |
 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM) | 4:31 | 2022-02-04 |  |
-| [Borboleta Efeito](https://open.spotify.com/track/6oqV9zAqT9vea7nXIBIkyc) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG), [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Borboleta Efeito](https://open.spotify.com/album/7x6SlBDCpyx8aTKRymsWR9) | 3:05 | 2023-03-17 |  |
+| [Borboleta Efeito](https://open.spotify.com/track/6oqV9zAqT9vea7nXIBIkyc) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG), [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Borboleta Efeito](https://open.spotify.com/album/7x6SlBDCpyx8aTKRymsWR9) | 3:05 | 2023-03-17 | 2025-06-29 |
 | [Bota Pra Tocar Tim Maia](https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Bota Pra Tocar Tim Maia](https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs) | 3:42 | 2022-02-04 |  |
 | [Brother, Father, Sister And Mother](https://open.spotify.com/track/5s1VcHG8oLx5O1ZcrjA0m3) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia](https://open.spotify.com/album/7mKOsYpS2N4KOYPWjSg1ER) | 3:19 | 2022-03-22 |  |
 | [Bédi Beat](https://open.spotify.com/track/4u1GfVTNwHmHx6DAD50ZL1) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/1gU6xYQZFJH4ClJcpS1W4w) | 3:20 | 2022-04-01 | 2022-04-20 |
@@ -122,6 +122,7 @@
 | [Fullgás](https://open.spotify.com/track/1f9HisfpJAutD6WgOY1sPP) | [Qinhones](https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU) | [Qinho Canta Marina](https://open.spotify.com/album/0Dlkq4Ecn8e0UOUhDm9RFm) | 4:27 | 2022-02-04 | 2022-07-26 |
 | [Gamboa](https://open.spotify.com/track/0ZaAT8SdM8LYoLPSaITLWt) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Curumim](https://open.spotify.com/artist/44E9gMNjoNj3jmSm3Z8GPR) | [Um Mar Pra Cada Um,](https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh) | 3:42 | 2025-05-26 |  |
 | [Gamela](https://open.spotify.com/track/3Dj1bQdB6swcsWkQRtnevp) | [Diogo Ramos](https://open.spotify.com/artist/1XMYWlil8WyEETnoC0E2XK) | [Gamela](https://open.spotify.com/album/4dIM1zU22GCBCH6bzPwV6Q) | 3:42 | 2022-03-22 | 2022-04-13 |
+| [Garota do Fantástico](https://open.spotify.com/track/5obhKVyGGPTdur8zcozXCb) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ) | [Garota do Fantástico](https://open.spotify.com/album/6zL50LjbpxZoX7PftqNjHI) | 2:52 | 2025-06-27 |  |
 | [Gente Boa se Atrai](https://open.spotify.com/track/13nBh1bUK3kAn2zHvA2lIX) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Peu Meurray](https://open.spotify.com/artist/1ZSrGXhyBWqWgOj6CTuYYF) | [Baile à la Baiana](https://open.spotify.com/album/2RtkCFArLtUmwbDNJSS9Dg) | 3:25 | 2025-02-22 |  |
 | [Gentilmente](https://open.spotify.com/track/3u9LN72UqsGVYgEJVrtVah) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Gentilmente](https://open.spotify.com/album/0XbYJg3dz9T5z1qdOmIg6d) | 4:12 | 2022-02-04 | 2022-07-29 |
 | [Gold Coast](https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Viver \(Mais leve que o ar\)](https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u) | 4:19 | 2022-02-04 |  |
@@ -219,6 +220,7 @@
 | [Samurai \(feat\. Stevie Wonder\)](https://open.spotify.com/track/3BQAK2pnTpfZvLg2MUUU5i) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Luz](https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x) | 4:48 | 2022-03-22 |  |
 | [Se Avexe Não](https://open.spotify.com/track/0PaNt7j8MFe0FhZg9PdHbO) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/69C3YveqQVaurpkSqVcVZl) | 3:42 | 2022-03-22 | 2022-07-28 |
 | [Se Avexe Não](https://open.spotify.com/track/27hosIGRjZMgGU8HUuKIKc) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v) | 3:44 | 2022-07-22 | 2022-08-02 |
+| [segredo](https://open.spotify.com/track/3HbGtwpBueLosAGkP8BUqJ) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [segredo](https://open.spotify.com/album/0YoGRjLqlh5Z5SaL2yfw3s) | 3:12 | 2025-06-27 |  |
 | [Segue o baile](https://open.spotify.com/track/0egTKiqudl4bbXlPZlRVtw) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Nua](https://open.spotify.com/album/5vv8azxRUNzzWpuN8afj3a) | 2:55 | 2022-03-22 | 2022-07-18 |
 | [Sem Medo](https://open.spotify.com/track/31YDFOH4f9fOhF0CGWEFds) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Sem Medo](https://open.spotify.com/album/36P5zxfGnYSXock4EQgLcA) | 4:12 | 2022-02-04 | 2022-11-05 |
 | [Sentido da Vida](https://open.spotify.com/track/1VF3ZTiGL6J6glNn04R0WE) | [Pseudo](https://open.spotify.com/artist/0vSgwGjTHcH6k7FIAChc3N) | [Sentido da Vida](https://open.spotify.com/album/4rTZqc29huKABVedShBX1x) | 3:14 | 2022-02-04 | 2022-07-13 |

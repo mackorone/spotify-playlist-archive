@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: Population II
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,709 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,714 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 15 | [Miroirs](https://open.spotify.com/track/2vHfUP4xN5KmbJR6A80k4Q) | [zouz](https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi) | [Jours de cendre](https://open.spotify.com/album/4qVeyzi0kYZ2ry5cR8ZFbF) | 3:32 |
 | 16 | [Fou fou fou mon minou](https://open.spotify.com/track/0V31InZ8QrZ4bFHeZRXvXG) | [Chocolat](https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57) | [Jazz engagé](https://open.spotify.com/album/6tw2d8ukWN6FHzF9u2DF3L) | 3:17 |
 | 17 | [LES MANIÈRES DE TABLE](https://open.spotify.com/track/6aZ3zdal2jij2cOGpQeBAH) | [Annie\-Claude Deschênes](https://open.spotify.com/artist/22BjCjalcQRqEkOEVzYl4i) | [LES MANIÈRES DE TABLE](https://open.spotify.com/album/0LZzTKnghI4yPVhnWusx29) | 3:35 |
-| 18 | [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 |
+| 18 | [Montréal](https://open.spotify.com/track/3dsOTm1NvWmBgNZlngpPVY) | [Béton Armé](https://open.spotify.com/artist/7B9AYoMBJAGlHtB97cPt9z) | [Renaissance](https://open.spotify.com/album/1M4aJVG6hyX6xpaRxOgqzi) | 2:10 |
 | 19 | [Trou d'eau](https://open.spotify.com/track/3eocwmTmeW2hA2fvhgpmo5) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Grafignes](https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl) | 3:17 |
 | 20 | [Chalet](https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [Comment Debord](https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK) | 3:42 |
 | 21 | [WAKE UP](https://open.spotify.com/track/2QAz9MrzAwLltC4Byk8AMV) | [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg) | [WAKE UP](https://open.spotify.com/album/64w4PHbffwBJvLkVdSfm9E) | 7:07 |
-| 22 | [Montréal](https://open.spotify.com/track/3dsOTm1NvWmBgNZlngpPVY) | [Béton Armé](https://open.spotify.com/artist/7B9AYoMBJAGlHtB97cPt9z) | [Renaissance](https://open.spotify.com/album/1M4aJVG6hyX6xpaRxOgqzi) | 2:10 |
+| 22 | [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 |
 | 23 | [Allo?](https://open.spotify.com/track/3YkxhqHWKEEiaH64ORh3Ot) | [FUUDGE](https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi) | [Allo?](https://open.spotify.com/album/5DXRkPS4rv07CU1E2gwDTE) | 3:02 |
 | 24 | [La valse des trottoirs](https://open.spotify.com/track/0wHKODm4BO1ZXPpnxRXUY0) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Choses Sauvages](https://open.spotify.com/album/6O36buq4umPbJswlhgsKRp) | 2:37 |
 | 25 | [Never](https://open.spotify.com/track/5sZgAMlmxIL2WxnJzHTsA6) | [Welcome John](https://open.spotify.com/artist/1SYfOJn0EeqCnfBabrsCTd) | [Never](https://open.spotify.com/album/5798SKT0DGEiiQwsOmEEEq) | 3:55 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 38 | [Ton hôtel](https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Darlène](https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r) | 2:25 |
 | 39 | [Horizon](https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Horizon](https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132) | 3:03 |
 | 40 | [I LIE HERE BURIED WITH MY RINGS AND MY DRESSES](https://open.spotify.com/track/37OSQm8Gy5strUT24vn6ef) | [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg), [Ada Rook](https://open.spotify.com/artist/1x1MfkVjf8yEzwKhAYZtPY) | [I LIE HERE BURIED WITH MY RINGS AND MY DRESSES](https://open.spotify.com/album/4gaxRsSkSQmoyDsTesvplD) | 4:58 |
-| 41 | [La vie attend pas](https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 4:13 |
-| 42 | [Anomie](https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [À demain peut\-être](https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW) | 2:59 |
+| 41 | [Anomie](https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [À demain peut\-être](https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW) | 2:59 |
+| 42 | [La vie attend pas](https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 4:13 |
 | 43 | [Astronaute amateur](https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg) | 3:38 |
 | 44 | [blood pareil](https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [blood pareil](https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js) | 4:24 |
 | 45 | [The Rabbit Song](https://open.spotify.com/track/4omfnYnDdeJrgSq5TaX10D) | [The Blaze Velluto Collection](https://open.spotify.com/artist/1mULn3KCTsGLL3CvZyvn8x) | [We Are Sunshine](https://open.spotify.com/album/3dRRmPHIu6cFhnBX2MjcPV) | 3:15 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 62 | [N'importe Où Sauf Ici](https://open.spotify.com/track/4A1qgXWGeirwpwD7rppwje) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [L'air d'aller \(Musique de la série télévisée\)](https://open.spotify.com/album/1QOmJrabv7hVYpM5VeS0vO) | 2:26 |
 | 63 | [Un peu de magie](https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Les gens qu'on aime](https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9) | 3:02 |
 | 64 | [Léo](https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg) | [Alex Pic](https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ) | [Léo](https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag) | 3:05 |
-| 65 | [Piscine hors terre](https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Piscine hors terre](https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d) | 3:31 |
-| 66 | [Sempre Juntos](https://open.spotify.com/track/1km2OgCnbPQwlL7ya5VYEa) | [Beat Sexü](https://open.spotify.com/artist/3cWR22THTKKRQnhA5o1Bjr) | [Deuxième chance](https://open.spotify.com/album/5EsXwDuMbfnbUo9Hm1GcLL) | 3:32 |
+| 65 | [Sempre Juntos](https://open.spotify.com/track/1km2OgCnbPQwlL7ya5VYEa) | [Beat Sexü](https://open.spotify.com/artist/3cWR22THTKKRQnhA5o1Bjr) | [Deuxième chance](https://open.spotify.com/album/5EsXwDuMbfnbUo9Hm1GcLL) | 3:32 |
+| 66 | [Piscine hors terre](https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Piscine hors terre](https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d) | 3:31 |
 | 67 | [Ketchup](https://open.spotify.com/track/1l6JgsaeYbtEE5eE5COasN) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Ketchup](https://open.spotify.com/album/3Rc9SpfmAFy661xFZRZXKY) | 2:44 |
 | 68 | [Megastar](https://open.spotify.com/track/2yJ3ULFBKKC5MX0x9e9NVW) | [Les Dales Hawerchuk](https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC) | [Attaque à cinq](https://open.spotify.com/album/71XdYuOf1H7TWaUOsEHklR) | 2:42 |
 | 69 | [Aire de plastique](https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Aire de plastique](https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw) | 4:07 |

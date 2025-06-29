@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,476,957 likes - 100 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,477,284 likes - 100 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,12 +64,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 54 | [Phoenix Rising](https://open.spotify.com/track/6vSY2O8TWgHP0oLPn5WhbH) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Set The World On Fire](https://open.spotify.com/album/0Iow4yw9iONKHFLeNF1MEt) | 3:48 |
 | 55 | [Wait](https://open.spotify.com/track/2QfjV18pg4Ye7Vo4TsSobq) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [When The Children Cry \- Greatest Hits](https://open.spotify.com/album/45jAG1Yxe3gdYoTKRxu6vE) | 4:55 |
 | 56 | [Wither](https://open.spotify.com/track/4MY2jh37Rir45QH6YAkB8W) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Black Clouds & Silver Linings \(Special Edition\)](https://open.spotify.com/album/2qMujQgkbogm4owxpt8aVP) | 5:25 |
-| 57 | [When the Crowds Are Gone](https://open.spotify.com/track/6uQ15UwuRKIgUJQakgkYtZ) | [Savatage](https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT) | [Gutter Ballet \(2011 Edition\)](https://open.spotify.com/album/6zMeDffPrKyYSBf9AuyTIF) | 5:46 |
+| 57 | [Believe](https://open.spotify.com/track/6jCA4rJ4caeRuyTxvf9UvA) | [Savatage](https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT) | [Streets \- A Rock Opera \(2011 Edition\)](https://open.spotify.com/album/5bMMMSrjV78gkbhxarBbWT) | 5:42 |
 | 58 | [4000 Rainy Nights \- Remastered 2016](https://open.spotify.com/track/5Hcs6SnriDmwf3yUUSMxuZ) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Destiny \(Reissue 2016\)](https://open.spotify.com/album/1ucRSsC7KP0oJlTIVQlYU7) | 5:59 |
 | 59 | [Our Loved Ones](https://open.spotify.com/track/1Fekh45eTzyteap9YgmOr1) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv) | 4:50 |
 | 60 | [Please Don't Leave Me](https://open.spotify.com/track/77ZIkT6DwOXP3RCU2nqNJq) | [Pretty Maids](https://open.spotify.com/artist/4OGo8f0tdKloP3IZwvnLqt) | [Sin\-Decade](https://open.spotify.com/album/6F6n2HxXHoKgEvZQltIiB2) | 5:15 |
 | 61 | [Hollow Years](https://open.spotify.com/track/2OwVp843CshseouYgyj75O) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Falling into Infinity](https://open.spotify.com/album/2AcOiEYDeMTAzUdVLJ0DP7) | 5:53 |
-| 62 | [Believe](https://open.spotify.com/track/6jCA4rJ4caeRuyTxvf9UvA) | [Savatage](https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT) | [Streets \- A Rock Opera \(2011 Edition\)](https://open.spotify.com/album/5bMMMSrjV78gkbhxarBbWT) | 5:42 |
+| 62 | [When the Crowds Are Gone](https://open.spotify.com/track/6uQ15UwuRKIgUJQakgkYtZ) | [Savatage](https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT) | [Gutter Ballet \(2011 Edition\)](https://open.spotify.com/album/6zMeDffPrKyYSBf9AuyTIF) | 5:46 |
 | 63 | [Where the Wild Wolves Have Gone](https://open.spotify.com/track/0YrUDBOsnIiUNISpGOtwCA) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 4:13 |
 | 64 | [Blind Faith](https://open.spotify.com/track/7Fmv4QiyAdMroX61cOPaGn) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Cherry Pie \(Expanded Edition\)](https://open.spotify.com/album/5TMMmKdys49eu6QSPC9sdB) | 3:32 |
 | 65 | [Believe in Nothing](https://open.spotify.com/track/3zdUWmaNcbTqv2V7ZYLXQ8) | [Nevermore](https://open.spotify.com/artist/1wUArE0NhHB8M1bU2WSplY) | [Dead Heart In a Dead World](https://open.spotify.com/album/1v1hdLXVBjFel9srMX8paD) | 4:21 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 71 | [Forever](https://open.spotify.com/track/0oSjcBQU1n11XpohLbCE5O) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hot In The Shade](https://open.spotify.com/album/2oumvuipSTRBQDcA9RVtTP) | 3:52 |
 | 72 | [Still Of The Night](https://open.spotify.com/track/4TDpf3g3PUl7fzHXuL2UUY) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Here I Go Again: The Whitesnake Collection](https://open.spotify.com/album/2blYrXKaFgwCjI3PbNCfI6) | 6:40 |
 | 73 | [Oasis](https://open.spotify.com/track/5hGoIsMmOwF3EsDpp4nwws) | [Tarja](https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc) | [My Winter Storm](https://open.spotify.com/album/7h7xwQXMKVhUvVb36CeVZd) | 5:10 |
-| 74 | [Don't Cry \(Original\)](https://open.spotify.com/track/0ZEhlT9v8CdOKu55zhYGv9) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/4L5pz06MVlsWaTEjSQPN8h) | 4:44 |
-| 75 | [Zombie](https://open.spotify.com/track/1vNoA9F5ASnlBISFekDmg3) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Zombie](https://open.spotify.com/album/768Mgdrb3yUmNJ4HW4IJOL) | 4:14 |
+| 74 | [Zombie](https://open.spotify.com/track/1vNoA9F5ASnlBISFekDmg3) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Zombie](https://open.spotify.com/album/768Mgdrb3yUmNJ4HW4IJOL) | 4:14 |
+| 75 | [Don't Cry \(Original\)](https://open.spotify.com/track/0ZEhlT9v8CdOKu55zhYGv9) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/4L5pz06MVlsWaTEjSQPN8h) | 4:44 |
 | 76 | [I Still Love You](https://open.spotify.com/track/04F7U1dwwtwaCRuXGQ50aB) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night \(Remastered Version\)](https://open.spotify.com/album/0bxDnjJmcCSOtnhFcSEUTe) | 6:06 |
 | 77 | [18 and Life](https://open.spotify.com/track/0qgrrDnUUhyxpxbBznUnzg) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 3:49 |
 | 78 | [The Price](https://open.spotify.com/track/5iF683hJagzos663BxLns9) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:49 |

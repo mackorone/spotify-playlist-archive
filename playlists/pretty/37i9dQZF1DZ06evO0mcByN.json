@@ -1,12 +1,12 @@
 {
   "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
-  "num_followers": 5655,
+  "num_followers": 5658,
   "original_name": "This Is Kemilly Santos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAACraOU0inJAxWnmeWN20lcR",
+  "snapshot_id": "aF3fAAAAAACu1lWseD/NUSZRiiHW1s/O",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 234520,
-      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vai Valer a Pena",
         "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 212933,
       "name": "O Jogo Virou",
       "url": "https://open.spotify.com/track/6cSnZYtQqScxcQmlbC9FS7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 234520,
+      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 308059,
-      "name": "O Desfecho",
-      "url": "https://open.spotify.com/track/4wLdCnugMTuCRL3QnM0Nr4"
+      "duration_ms": 237187,
+      "name": "Vai Acontecer",
+      "url": "https://open.spotify.com/track/4FBSQX1tKKfsIkW8rmvuQ7"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 237187,
-      "name": "Vai Acontecer",
-      "url": "https://open.spotify.com/track/4FBSQX1tKKfsIkW8rmvuQ7"
+      "duration_ms": 308059,
+      "name": "O Desfecho",
+      "url": "https://open.spotify.com/track/4wLdCnugMTuCRL3QnM0Nr4"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plano Original",
-        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 273913,
-      "name": "A Resposta",
-      "url": "https://open.spotify.com/track/4oNXwuFag2I7YMDLvlldtW"
+      "duration_ms": 305506,
+      "name": "Fogo e Gl\u00f3ria / O Que Sua Gl\u00f3ria Fez Comigo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3UpoN13s3AYmC8UJlbrfNm"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+        "name": "Plano Original",
+        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 305506,
-      "name": "Fogo e Gl\u00f3ria / O Que Sua Gl\u00f3ria Fez Comigo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3UpoN13s3AYmC8UJlbrfNm"
+      "duration_ms": 273913,
+      "name": "A Resposta",
+      "url": "https://open.spotify.com/track/4oNXwuFag2I7YMDLvlldtW"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plano Original",
-        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 311450,
-      "name": "Barulho de Milagre",
-      "url": "https://open.spotify.com/track/3km9ZMQcrPrqPn13T7Y5At"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Paloma",
         "url": "https://open.spotify.com/album/16MAWdvY4cAKki9UB4X9W6"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 716300,
       "name": "La Paloma",
       "url": "https://open.spotify.com/track/4eGqQrzZnq85k876sjVJkO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Plano Original",
+        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 311450,
+      "name": "Barulho de Milagre",
+      "url": "https://open.spotify.com/track/3km9ZMQcrPrqPn13T7Y5At"
     },
     {
       "added_at": null,

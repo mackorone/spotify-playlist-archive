@@ -353,6 +353,24 @@
     },
     {
       "album": {
+        "name": "A Cold Sunday",
+        "url": "https://open.spotify.com/album/4peDphjWdwzhrTEnQbfZ4G"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2025-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107313,
+      "name": "A Cold Sunday",
+      "url": "https://open.spotify.com/track/1Y1jtaZOJYgXBl7lKdLc9o"
+    },
+    {
+      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
@@ -2348,6 +2366,24 @@
       "duration_ms": 127464,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/1Go9q6KaCpAsQ0wkZFGzY2"
+    },
+    {
+      "album": {
+        "name": "See You Soon",
+        "url": "https://open.spotify.com/album/5Px7Ap7BUM4FMIMXuIV0uv"
+      },
+      "artists": [
+        {
+          "name": "The Brudi Brothers",
+          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+        }
+      ],
+      "date_added": "2025-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196956,
+      "name": "Chasing Paper",
+      "url": "https://open.spotify.com/track/6B5nQ7VXNyyE3fIKPfpmWh"
     },
     {
       "album": {

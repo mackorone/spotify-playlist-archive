@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 317522,
+  "num_followers": 317615,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAAAl1VQTRBe09+c6/tt2RND1",
+  "snapshot_id": "aF3fAAAAAADTxBI4jBIY7/ZrTryxzVJK",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,26 @@
       "duration_ms": 231338,
       "name": "just like me",
       "url": "https://open.spotify.com/track/5KI7I4mEtulXcv5VQJaV35"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don\u2019t Let Me Drown (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/4gi7iM3pBNBmzHiVPyatjV"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "duration_ms": 185590,
+      "name": "Don't Let Me Drown - From F1\u00ae The Movie",
+      "url": "https://open.spotify.com/track/24futxi7j75kgGXiumTEn2"
     },
     {
       "added_at": null,
@@ -583,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 210346,
+      "name": "Common Person",
+      "url": "https://open.spotify.com/track/52oDXfdKV4faAFLnNyf0bl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poison Ou Antidote",
         "url": "https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k"
       },
@@ -599,22 +635,6 @@
       "duration_ms": 186600,
       "name": "Donne-moi l\u2019accord",
       "url": "https://open.spotify.com/track/0F3K1nFNG6ZecPHUCh6YlV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 210346,
-      "name": "Common Person",
-      "url": "https://open.spotify.com/track/52oDXfdKV4faAFLnNyf0bl"
     },
     {
       "added_at": null,
@@ -747,22 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do I (Remix)",
-        "url": "https://open.spotify.com/album/5aVA4avxVgyg1S6iVQpx0m"
+        "name": "The Villain I Never Was",
+        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
       },
       "artists": [
         {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         },
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 138069,
-      "name": "Do I - Remix",
-      "url": "https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq"
+      "duration_ms": 194863,
+      "name": "Second Sermon - Remix",
+      "url": "https://open.spotify.com/track/4DdaGKeVkjQbPHzpoHGafk"
     },
     {
       "added_at": null,
@@ -799,22 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Villain I Never Was",
-        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
+        "name": "Do I (Remix)",
+        "url": "https://open.spotify.com/album/5aVA4avxVgyg1S6iVQpx0m"
       },
       "artists": [
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         },
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 194863,
-      "name": "Second Sermon - Remix",
-      "url": "https://open.spotify.com/track/4DdaGKeVkjQbPHzpoHGafk"
+      "duration_ms": 138069,
+      "name": "Do I - Remix",
+      "url": "https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq"
     },
     {
       "added_at": null,
@@ -835,6 +855,22 @@
       "duration_ms": 205640,
       "name": "Play Play (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/3u6Y16d0KHXyIdj378tX1w"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 208875,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3QjuJWCHmzJi8w3o6AT1Fq"
     },
     {
       "added_at": null,
@@ -879,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/3u6Y16d0KHXyIdj378tX1w"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 208875,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3QjuJWCHmzJi8w3o6AT1Fq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOVE AND COMPROMISE",
         "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
       },
@@ -931,30 +951,6 @@
       "duration_ms": 222640,
       "name": "Cheat On Me (feat. Dave)",
       "url": "https://open.spotify.com/track/3FyxwVvc9JqmVl5IVDPaNU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jerusalema (Deluxe)",
-        "url": "https://open.spotify.com/album/4Kf2NqytdWUKXgnvsRVlLR"
-      },
-      "artists": [
-        {
-          "name": "Master KG",
-          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
-        },
-        {
-          "name": "Nomcebo Zikode",
-          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 328000,
-      "name": "Jerusalema (feat. Burna Boy & Nomcebo Zikode) - Remix",
-      "url": "https://open.spotify.com/track/1dmES1X8l1AnFBy2gR3wYA"
     }
   ],
   "unique_name": "This Is Burna Boy",

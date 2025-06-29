@@ -1,6 +1,6 @@
 {
   "description": "Un poco de sabrosura y color para esos d\u00edas lluviosos.",
-  "num_followers": 53497,
+  "num_followers": 53527,
   "original_name": "Lluvia Tropical",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-09-06 21:17:56",
       "album": {
-        "name": "Bobby Valentin",
-        "url": "https://open.spotify.com/album/5vgJDrOdBWFBm8CDmqC7f2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Valentin",
-          "url": "https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss"
-        }
-      ],
-      "duration_ms": 362506,
-      "name": "El Mu\u00f1eco de la Ciudad",
-      "url": "https://open.spotify.com/track/2WL3ME4dKCpCIs8bWBhMnK"
-    },
-    {
-      "added_at": "2024-09-06 21:17:56",
-      "album": {
         "name": "Cuando Se Quiere Se Puede",
         "url": "https://open.spotify.com/album/0FH5fGCctpEPdQBwxti1Xe"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 262586,
       "name": "Qui\u00e9n Eres Tu",
       "url": "https://open.spotify.com/track/0D0hqpMEi4aHukh8zP5gSF"
+    },
+    {
+      "added_at": "2024-09-06 21:17:56",
+      "album": {
+        "name": "Bobby Valentin",
+        "url": "https://open.spotify.com/album/5vgJDrOdBWFBm8CDmqC7f2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Valentin",
+          "url": "https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss"
+        }
+      ],
+      "duration_ms": 362506,
+      "name": "El Mu\u00f1eco de la Ciudad",
+      "url": "https://open.spotify.com/track/2WL3ME4dKCpCIs8bWBhMnK"
     },
     {
       "added_at": "2024-09-06 21:17:56",

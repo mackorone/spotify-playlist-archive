@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 154616,
+  "num_followers": 154633,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAADRXn5VMyRIIb36FlK/k9A/",
+  "snapshot_id": "aF3fAAAAAACWsdt/Jk1Nrqj5eI9RPoMy",
   "tracks": [
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
-        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Vinicin",
-          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
-        }
-      ],
-      "duration_ms": 173984,
-      "name": "terminei recentemente",
-      "url": "https://open.spotify.com/track/32Pnch1VwRe5aEubdr5SaH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "442",
         "url": "https://open.spotify.com/album/6Mu1OvykDP0nf1wtG77xpG"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 125760,
       "name": "Vida Rasa",
       "url": "https://open.spotify.com/track/5t2RXNtjGIzKPGiNYSU6FG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
+        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Vinicin",
+          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
+        }
+      ],
+      "duration_ms": 173984,
+      "name": "terminei recentemente",
+      "url": "https://open.spotify.com/track/32Pnch1VwRe5aEubdr5SaH"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
-        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 183894,
-      "name": "acabou o amor",
-      "url": "https://open.spotify.com/track/3TuJODOhChHkg1pbMQ8RW4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "carta aberta",
         "url": "https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 262258,
       "name": "carta aberta",
       "url": "https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00edmica",
+        "url": "https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "Qu\u00edmica",
+      "url": "https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r"
     },
     {
       "added_at": null,
@@ -903,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00edmica",
-        "url": "https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB"
+        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
+        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         }
       ],
-      "duration_ms": 153413,
-      "name": "Qu\u00edmica",
-      "url": "https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r"
+      "duration_ms": 183894,
+      "name": "acabou o amor",
+      "url": "https://open.spotify.com/track/3TuJODOhChHkg1pbMQ8RW4"
     },
     {
       "added_at": null,
@@ -983,22 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
-        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 234420,
-      "name": "garrafa vazia",
-      "url": "https://open.spotify.com/track/4VNAAEN2euoyl7N8E3QSph"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LITTLE LOVE (DELUXE)",
         "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 317340,
       "name": "BEM MELHOR",
       "url": "https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
+        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 234420,
+      "name": "garrafa vazia",
+      "url": "https://open.spotify.com/track/4VNAAEN2euoyl7N8E3QSph"
     },
     {
       "added_at": null,
@@ -1075,6 +1075,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dono das Esquinas",
+        "url": "https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Carro Forte",
+      "url": "https://open.spotify.com/track/1TL33F4bcT9fZPSqvUbFV5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
         "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
       },
@@ -1111,34 +1139,6 @@
       "duration_ms": 198231,
       "name": "VOC\u00ca&EU",
       "url": "https://open.spotify.com/track/3lF4NH7uy1rRMHvmmK99TX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dono das Esquinas",
-        "url": "https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Carro Forte",
-      "url": "https://open.spotify.com/track/1TL33F4bcT9fZPSqvUbFV5"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Boris Brejcha
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,781 likes - 90 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,081 likes - 90 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 30 | [Reaady](https://open.spotify.com/track/3ecprBCxwrzIhScyAs2DXn) | [Abstraal](https://open.spotify.com/artist/40AV3mbN9E0GfZBImkSn5Q), [Duvas](https://open.spotify.com/artist/1wMxiPSqLFLKgaZKlgPJHz) | [Reaady](https://open.spotify.com/album/3L7zPw8Kc6Mz3OA5wEu9Rt) | 3:29 |
 | 31 | [Magna Carta](https://open.spotify.com/track/0Tj44TtkI50OqP9LrGec28) | [Paul Anthonee](https://open.spotify.com/artist/7gliQ1In7BFQxmitKCdyD8) | [Magna Carta](https://open.spotify.com/album/7a2HYiVYjDarZ0vGkTqhy9) | 3:23 |
 | 32 | [Rain](https://open.spotify.com/track/5O6tALLpAxNPr1CTnGztYe) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Rain](https://open.spotify.com/album/3vZEyzRYGl5hxPtYShZkaU) | 2:50 |
-| 33 | [Die Hoffnung Stirbt ZuErst](https://open.spotify.com/track/3Fn1TFxAOJO1aO2DWGKW16) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo) | [Die Hoffnung Stirbt Zuerst](https://open.spotify.com/album/38liar13jv3Gp6eHLQQmFZ) | 5:40 |
+| 33 | [Die Hoffnung Stirbt Zuerst](https://open.spotify.com/track/3Fn1TFxAOJO1aO2DWGKW16) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo) | [Die Hoffnung Stirbt Zuerst](https://open.spotify.com/album/38liar13jv3Gp6eHLQQmFZ) | 5:40 |
 | 34 | [Rette Mich](https://open.spotify.com/track/2IODVe96sL1fkhcfRgqQ0s) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Rette Mich](https://open.spotify.com/album/6H8sfuXC7GonnZdmDSHkTY) | 4:10 |
 | 35 | [Ghost](https://open.spotify.com/track/15CXWtEaOlVG2Yj5L77zc8) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Ghost](https://open.spotify.com/album/6J5ilFhuhNabaHEOgc20IP) | 3:56 |
 | 36 | [Friction](https://open.spotify.com/track/6JzKGJNoJ8HYG5FrCTW6xt) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5), [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM) | [Friction](https://open.spotify.com/album/5u7ObEhZ58qz8YggurTV1A) | 5:48 |

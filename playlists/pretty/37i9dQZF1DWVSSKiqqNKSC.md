@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,013 likes - 48 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,105 likes - 48 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 38 | [El Paso de la Bailerina](https://open.spotify.com/track/6RO3JijdGFvGbIyw1HknsK) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Pasaporte](https://open.spotify.com/album/55bxux5NGwsurOUlXfT2cv) | 5:53 |
 | 39 | [La Gozadera](https://open.spotify.com/track/47lSbhOlKE8fJJ2jc6HqRQ) | [Yoruba Andabo](https://open.spotify.com/artist/3oh2Q089hI70VBBGnIz76m) | [El Espíritu de la Rumba](https://open.spotify.com/album/2ZOZ2ndaVgnlu9Fh2Wjajc) | 6:47 |
 | 40 | [Puro Teatro](https://open.spotify.com/track/0DzEFFdQvaL47DD1B8bJ5C) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Laberinto de Pasiones](https://open.spotify.com/album/2A99uuzdqdWZg9wZh12Nyv) | 2:57 |
-| 41 | [Esto Está](https://open.spotify.com/track/6aOj5462zikA3VwXxv2fQb) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Recoge y Vete](https://open.spotify.com/album/5mLkOShl9aG9Ikyj38AQVU) | 5:51 |
+| 41 | [Chambonea](https://open.spotify.com/track/4gqW1VyZG04DLSvN1GrzFT) | [Los Desiguales](https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm), [Gilbert Man](https://open.spotify.com/artist/0Ez3P0meOOmx66jOuLWPxv) | [Chambonea \(feat\. Gilbert Man\)](https://open.spotify.com/album/4GSDTPNXpF34lRWRnn9CLD) | 3:55 |
 | 42 | [1999 \(feat\. Alexander Delgado \(Gente D' Zona\) & Serguei Yera Madera\)](https://open.spotify.com/track/0UFbt4HV3VdgLS4tbh7CqM) | [Elito Revé y su Charangón](https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z), [Alexander Delgado \(Gente D' Zona\)](https://open.spotify.com/artist/6ZjuWHUKpIArEL6GrBeaOh), [Serguei Yera Madera](https://open.spotify.com/artist/2vDi85b8goHBFqRLs1dMjM) | [La Salsa Tiene mi Son](https://open.spotify.com/album/1cyF9OgODjh488BmdN1xmH) | 4:45 |
-| 43 | [Chambonea](https://open.spotify.com/track/4gqW1VyZG04DLSvN1GrzFT) | [Los Desiguales](https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm), [Gilbert Man](https://open.spotify.com/artist/0Ez3P0meOOmx66jOuLWPxv) | [Chambonea \(feat\. Gilbert Man\)](https://open.spotify.com/album/4GSDTPNXpF34lRWRnn9CLD) | 3:55 |
+| 43 | [Esto Está](https://open.spotify.com/track/6aOj5462zikA3VwXxv2fQb) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Recoge y Vete](https://open.spotify.com/album/5mLkOShl9aG9Ikyj38AQVU) | 5:51 |
 | 44 | [La Bomba \(Yo Lo Sé\)](https://open.spotify.com/track/6Mq0PPDjAI9yaXZNZlwrOM) | [El Noro y Primera Clase](https://open.spotify.com/artist/5wfvAqF5O8wjiLdwIpfwyf) | [Sin Escala](https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9) | 4:55 |
 | 45 | [Un Poquito al Revés \- Remasterizado](https://open.spotify.com/track/1JTYxQB9J2KchmYpmaluQF) | [Pupy y Los Que Son Son](https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH) | [Tranquilo Que Yo Controlo \(Remasterizado\)](https://open.spotify.com/album/5j07wZn3eSyjnRch2zczmy) | 4:33 |
-| 46 | [Yo Comprendo](https://open.spotify.com/track/3CR63Hzo3LR40TdK4pf1hr) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp), [Mayito Rivera](https://open.spotify.com/artist/1S0Og7sspn3YyJmEcE43zD) | [Que Tiene Que Te Mueve](https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P) | 5:06 |
-| 47 | [Soy Cubana](https://open.spotify.com/track/7trrKd0NJ6tGeLabz3068F) | [Son Damas](https://open.spotify.com/artist/60qGA95YCJPStxDgW1PoqM) | [Bailables de Cuba, Vol\. 2](https://open.spotify.com/album/6m7duIkPgcGsHwS5ijJaXX) | 5:09 |
-| 48 | [Caramelo Con Picante](https://open.spotify.com/track/1LOTPsUy1m5XRB6iplC2ns) | [Lazarito Valdés](https://open.spotify.com/artist/1yft8LK8eazl4knHB4zi0s), [Bamboleo](https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4) | [Caramelo Con Picante](https://open.spotify.com/album/2obdmB6edFmMSm6whJR6m1) | 5:36 |
+| 46 | [Soy Cubana](https://open.spotify.com/track/7trrKd0NJ6tGeLabz3068F) | [Son Damas](https://open.spotify.com/artist/60qGA95YCJPStxDgW1PoqM) | [Bailables de Cuba, Vol\. 2](https://open.spotify.com/album/6m7duIkPgcGsHwS5ijJaXX) | 5:09 |
+| 47 | [Caramelo Con Picante](https://open.spotify.com/track/1LOTPsUy1m5XRB6iplC2ns) | [Lazarito Valdés](https://open.spotify.com/artist/1yft8LK8eazl4knHB4zi0s), [Bamboleo](https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4) | [Caramelo Con Picante](https://open.spotify.com/album/2obdmB6edFmMSm6whJR6m1) | 5:36 |
+| 48 | [Yo Comprendo](https://open.spotify.com/track/3CR63Hzo3LR40TdK4pf1hr) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp), [Mayito Rivera](https://open.spotify.com/artist/1S0Og7sspn3YyJmEcE43zD) | [Que Tiene Que Te Mueve](https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P) | 5:06 |
 
 Snapshot ID: `Z8qLeQAAAADf0h05jBFiV1OBnuAFQD/B`

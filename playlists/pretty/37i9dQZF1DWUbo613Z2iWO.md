@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  TheARTI$t
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,692 likes - 196 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,707 likes - 196 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 2 | [I Choose You](https://open.spotify.com/track/62Q0tAz3JvaYUfTS2o0zrT) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [I Choose You](https://open.spotify.com/album/59oQeJbXbZnz69c9DksMEc) | 2:06 |
 | 3 | [Boujee Baby](https://open.spotify.com/track/0Mq7egfvtSRmwVjkGkmPfI) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Boujee Baby](https://open.spotify.com/album/4RmhI3BdBeIY7JjzsndQfQ) | 2:51 |
 | 4 | [Head Over Heels](https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Head Over Heels](https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp) | 3:48 |
-| 5 | [Feel Something](https://open.spotify.com/track/1aw5ELeIspIgEfhEp2OifK) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Feel Something](https://open.spotify.com/album/2f6vd2PcjNyMKdePhio5UW) | 2:32 |
+| 5 | [FEEL SOMETHING](https://open.spotify.com/track/1aw5ELeIspIgEfhEp2OifK) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/2f6vd2PcjNyMKdePhio5UW) | 2:32 |
 | 6 | [Stare at Me](https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Stare at Me](https://open.spotify.com/album/5wWZ3Kdg4ZCQdFd3vwjiYu) | 3:55 |
 | 7 | [Catching Feelings](https://open.spotify.com/track/2YQnESqC6ASwaJyUx6U4d7) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Catching Feelings](https://open.spotify.com/album/0ZX6lnq5noF2aNcQSxfpJR) | 3:25 |
 | 8 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 |

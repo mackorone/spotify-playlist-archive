@@ -2837,6 +2837,28 @@
     },
     {
       "album": {
+        "name": "Lights Down Low (feat. Waka Flocka Flame)",
+        "url": "https://open.spotify.com/album/4BV65TtMrkb0aUCTmkJEpS"
+      },
+      "artists": [
+        {
+          "name": "Maejor",
+          "url": "https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186120,
+      "name": "Lights Down Low (feat. Waka Flocka Flame)",
+      "url": "https://open.spotify.com/track/0hkR93a0LriV2CQUhSXw3h"
+    },
+    {
+      "album": {
         "name": "Free Wired",
         "url": "https://open.spotify.com/album/1TuKgkCGIxiIns9Bc5XKRC"
       },
@@ -4030,7 +4052,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 373626,
       "name": "Pursuit Of Happiness - Extended Steve Aoki Remix",
       "url": "https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ"

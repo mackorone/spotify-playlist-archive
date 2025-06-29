@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Sarkodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,060 likes - 85 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,076 likes - 85 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 8 | [Valley Of Trappers \(feat\. Sarkodie\) \- Remix](https://open.spotify.com/track/3wbTj2CQdppIyUTn69wInH) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Juiczx](https://open.spotify.com/artist/6NlTIdfjzOUvzb0uhRUO4e) | [Valley Of Trappers \(feat\. Sarkodie\) \[Remix\]](https://open.spotify.com/album/4w0ZEXI1OL7ocnC4EYmh8d) | 2:22 |
 | 9 | [HUSTLERS DREAM \(feat\. Jay Bahd & Kwaku DMC\)](https://open.spotify.com/track/71aJvjD3gGV1TY7A0Ymg4m) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [HUSTLERS DREAM \(feat\. Jay Bahd & Kwaku DMC\)](https://open.spotify.com/album/4YGITRot41cA37kXtZu4VZ) | 3:15 |
 | 10 | [BANG BANG BANG](https://open.spotify.com/track/0YCknECT4hjx3AiMWecAwh) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [BANG BANG BANG](https://open.spotify.com/album/6wyuQZjF2vOgkPGdBE8MuL) | 3:36 |
-| 11 | [Red card](https://open.spotify.com/track/03AGC3VTCzkTeBNVhqTCkV) | [Kiki](https://open.spotify.com/artist/46SsdaRxdoCG7gKU4HR0r8), [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M) | [Red card](https://open.spotify.com/album/4bLUE77cQ9TLYD3TqhXHRe) | 3:57 |
+| 11 | [Red card](https://open.spotify.com/track/03AGC3VTCzkTeBNVhqTCkV) | [Kiki](https://open.spotify.com/artist/46SsdaRxdoCG7gKU4HR0r8), [Ko\-Jo Cue](https://open.spotify.com/artist/6w3yiKXNcQNCjNx3csE5Vt) | [Red card](https://open.spotify.com/album/4bLUE77cQ9TLYD3TqhXHRe) | 3:57 |
 | 12 | [Dreamer](https://open.spotify.com/track/2kLiFLe4F3YCBqOd3YrWED) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:20 |
 | 13 | [Gang Gathering](https://open.spotify.com/track/1h0kDUu2SmI5m9U7lAlJ2b) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Gang Gathering](https://open.spotify.com/album/0ZobBrKJGD69Wua05SYZa5) | 3:28 |
 | 14 | [ZAAZAA](https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [ZAAZAA](https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB) | 2:36 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>PENOMECO\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,790 likes - 101 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,881 likes - 101 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 41 | [KrOWN\_Simon Dominic](https://open.spotify.com/track/3Gi9wz0A1aM0AOLYBEoASw) | [AOMG](https://open.spotify.com/artist/2bWTeElstVp9PUGLyIU8Uk) | [KrOWN audio liner](https://open.spotify.com/album/4PeZZanfBretefNw6BAbvn) | 0:01 |
 | 42 | [Tasty \(Feat\. Hash Swan\)](https://open.spotify.com/track/7taO0KwT0XClF20ueI7KT6) | [Nosun](https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [Exit Wounds](https://open.spotify.com/album/5U2gLisF6YBhdDhK9uJ1Re) | 2:52 |
 | 43 | [Burning slow \(feat\. Sik\-K, GGM LIL DRAGON\) \- Remix](https://open.spotify.com/track/5q7uQrUfdGIrTnspd8tYu6) | [Molly Yam](https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [GGM LIL DRAGON](https://open.spotify.com/artist/41mlkzYR9tlZ8ZByH6yhCS) | [Burning slow \(feat\. Sik\-K, GGM LIL DRAGON\) \[Remix\]](https://open.spotify.com/album/7s2DOIB1K1zx8Lf0AF9Ivh) | 2:50 |
-| 44 | [random summer night \(feat\. Jordan Ward\)](https://open.spotify.com/track/1NherpHznnJP7b9gTgSuaM) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [random summer night \(feat\. Jordan Ward\)](https://open.spotify.com/album/3nq9zLPsaY9KlOyCbqImuX) | 2:48 |
+| 44 | [random summer night \(feat\. Jordan Ward\)](https://open.spotify.com/track/1NherpHznnJP7b9gTgSuaM) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [random summer night \(feat\. Jordan Ward\)](https://open.spotify.com/album/3nq9zLPsaY9KlOyCbqImuX) | 2:47 |
 | 45 | [.KR](https://open.spotify.com/track/40cPWUDvjyTSgcwTLAji09) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [.KR](https://open.spotify.com/album/3j6kVLZP66qsQ5DOH3FGpG) | 4:35 |
 | 46 | [Shut Up \(Feat\. ZICO\)](https://open.spotify.com/track/3hOXFLGpLZpWrI8kJdcwmb) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [UPSET](https://open.spotify.com/album/1mUapSqiPxRoH3d2bF0Y0L) | 2:21 |
 | 47 | [ZOOTED \(Feat\. HAON\)](https://open.spotify.com/track/2PFKiEI0nstr1Jm05Ynjez) | [Wuuslime](https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [WUUSLIME](https://open.spotify.com/album/5F5uZoZ8wKFBiKFcWepkNd) | 2:33 |

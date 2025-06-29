@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: LISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,073 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,126 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 35 | [exes \- Regard Remix](https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [exes \(Regard Remix\)](https://open.spotify.com/album/1U663EH8lg9Z0Jxk1hSWh9) | 3:02 |
 | 36 | [Mad Love \- Blinkie Remix](https://open.spotify.com/track/5qiQbOa6AFEO3P111y9Jry) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j) | [Mad Love \(Remixes\)](https://open.spotify.com/album/0o9d312clt8gVtz1uZZkBW) | 3:20 |
 | 37 | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/track/2xsFQqgLKbYZNUVsbxtwpo) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/album/3jQOaHRiMgqxMN2qo1SZTJ) | 3:12 |
-| 38 | [NOW IT'S GONE \- BL3SS REMIX](https://open.spotify.com/track/5JhnPJ9sjaLcQ75vhGZzws) | [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H), [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI) | [NOW IT'S GONE \(BL3SS REMIX\)](https://open.spotify.com/album/0XK1fxAoMOulFuvsKOHyIp) | 2:18 |
-| 39 | [Don't Go Yet \- Major Lazer Remix](https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Don't Go Yet \(Major Lazer Remix\)](https://open.spotify.com/album/3jTLjbylYAkf4nbCPuz2Qo) | 2:51 |
+| 38 | [Don't Go Yet \- Major Lazer Remix](https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Don't Go Yet \(Major Lazer Remix\)](https://open.spotify.com/album/3jTLjbylYAkf4nbCPuz2Qo) | 2:51 |
+| 39 | [NOW IT'S GONE \- BL3SS REMIX](https://open.spotify.com/track/5JhnPJ9sjaLcQ75vhGZzws) | [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H), [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI) | [NOW IT'S GONE \(BL3SS REMIX\)](https://open.spotify.com/album/0XK1fxAoMOulFuvsKOHyIp) | 2:18 |
 | 40 | [JOY \(Back On 74\)](https://open.spotify.com/track/0K2PQziTagDXHiCFPqoE82) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Back on 74\)](https://open.spotify.com/album/4HYWB8dT9bJHIZnVLU2D6z) | 4:31 |
 | 41 | [Lavender Haze \- Snakehips Remix](https://open.spotify.com/track/6F67FNdOBNMFzxdj1CQ5pL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Lavender Haze \(Remixes\)](https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr) | 3:07 |
 | 42 | [It's ok I'm ok \- Ian Asher remix](https://open.spotify.com/track/6GAvlyyIZM9uvNa5VPSFMK) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [It's ok I'm ok \(remixes\)](https://open.spotify.com/album/3XaVpz5yxOIkha03FETXPQ) | 2:46 |

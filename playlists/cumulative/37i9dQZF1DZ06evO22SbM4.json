@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183815,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ"
+    },
+    {
+      "album": {
         "name": "Backup Plan (feat. Luke Combs)",
         "url": "https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ"
       },

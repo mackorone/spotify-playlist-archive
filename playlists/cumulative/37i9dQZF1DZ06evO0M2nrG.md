@@ -4,7 +4,7 @@
 
 > This is Mike Bahía\. The essential tracks, all in one playlist.
 
-101 songs - 5 hr 9 min
+102 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Contigo Hasta El Final](https://open.spotify.com/track/34Iw1vdwNttY3t9pbFA8iQ) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo Hasta El Final](https://open.spotify.com/album/4XfWnAyKndaUkwOPahhjbn) | 2:48 | 2023-09-25 |  |
 | [Corazón](https://open.spotify.com/track/53ZLUs4cvMmPvodm3mVTPi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:28 | 2023-04-29 |  |
 | [Cuenta Conmigo \(feat\. Mozart La Para\)](https://open.spotify.com/track/3KvK89jd2onVdthF4hZNN4) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Cuenta Conmigo \(feat\. Mozart La Para\)](https://open.spotify.com/album/3kjw0eHhKKug5FEtGjW3BO) | 3:22 | 2023-03-19 |  |
-| [Darte Amor](https://open.spotify.com/track/5sYE0C4VPBmEB1SYGAswh7) | [Jordy Jill](https://open.spotify.com/artist/10IxurTiAiRppIUcayF5iV), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Darte Amor](https://open.spotify.com/album/7H167tMzZ3uBzn5ZAweO7W) | 3:09 | 2023-03-19 |  |
+| [Darte Amor](https://open.spotify.com/track/5sYE0C4VPBmEB1SYGAswh7) | [Jordy Jill](https://open.spotify.com/artist/10IxurTiAiRppIUcayF5iV), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Darte Amor](https://open.spotify.com/album/7H167tMzZ3uBzn5ZAweO7W) | 3:09 | 2023-03-19 | 2025-06-29 |
 | [De Qué Manera](https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [De Qué Manera](https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH) | 3:13 | 2023-03-19 | 2024-01-10 |
 | [De Qué Manera](https://open.spotify.com/track/503M75Hh6JciFgZ4xi8XTw) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 3:13 | 2024-01-09 |  |
 | [Desaparecida](https://open.spotify.com/track/2OkqOqBN47BTMu7B5S72MA) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 2:58 | 2025-01-30 |  |
@@ -45,6 +45,7 @@
 | [El Egoísmo](https://open.spotify.com/track/39C3ENLwwHM7u8HeeZ49n3) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu) | [El Egoísmo](https://open.spotify.com/album/5DgcteHRIdhtDDy6ZJJobx) | 2:50 | 2023-03-19 | 2023-07-25 |
 | [El Egoísmo](https://open.spotify.com/track/5vAfbp5YrAkpi6X8jNZ7YY) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:50 | 2023-07-24 |  |
 | [El Que Ama Sufre](https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:49 | 2023-04-29 |  |
+| [Ella Es Pa MI](https://open.spotify.com/track/4jGNTiWNeLrvb9jadmBhNu) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Sebas Barcenas](https://open.spotify.com/artist/5RqAWnmZhPvkC2zZgpfczk) | [Ella Es Pa MI](https://open.spotify.com/album/2Stw5cW8fi6fvu4f8BBYTV) | 3:02 | 2025-06-29 |  |
 | [Enfocado](https://open.spotify.com/track/0FvENwVY1jcqwyVjM367Mo) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:36 | 2023-04-29 | 2024-05-21 |
 | [Esta Noche](https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 2:48 | 2023-03-19 |  |
 | [Estar Contigo](https://open.spotify.com/track/07ij59WCKQFlWRV8ACFJEp) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Estar Contigo](https://open.spotify.com/album/0INkvjucGFvMmbYrNU3qGu) | 3:48 | 2023-03-19 |  |

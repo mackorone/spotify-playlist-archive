@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > Tom Misch aka Supershy aka Mr DJ 😎 it's all the best indie dance tracks of the moment
 
-[Spotify](https://open.spotify.com/user/spotify) - 887,919 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 887,894 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 22 | [Baby, Hold Me](https://open.spotify.com/track/0ZlMTuJc2jA9zRtdwag6L7) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Baby, Hold Me](https://open.spotify.com/album/0zm2BMASghsL5NG6qeKpac) | 3:27 |
 | 23 | [9 2 5](https://open.spotify.com/track/4zz49nB3rFzVPrEQmwuSrU) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [9 2 5](https://open.spotify.com/album/1rLn3XFLdBGMkYThRRGtdF) | 4:29 |
 | 24 | [You Make Me Feel Loved](https://open.spotify.com/track/4NUvU9yvJHA28kD3bND0y2) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [Seraphim](https://open.spotify.com/album/5niX6tQuih2cmvFbMazeiM) | 2:40 |
-| 25 | [crystalised](https://open.spotify.com/track/68Z5RPvf1aI2tRTN2i2DBT) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo), [Dottie Anderson](https://open.spotify.com/artist/3CRHfOG9hNT4bwcmBJyMtV) | [crystalised](https://open.spotify.com/album/45MmD9u8slCeAZdAnDmuK8) | 3:41 |
+| 25 | [crystalised](https://open.spotify.com/track/68Z5RPvf1aI2tRTN2i2DBT) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo), [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [crystalised](https://open.spotify.com/album/45MmD9u8slCeAZdAnDmuK8) | 3:41 |
 | 26 | [Start To Slip](https://open.spotify.com/track/5veX2gRTIhuwxyelOqeeOM) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [DEEGAN](https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi) | [Start To Slip](https://open.spotify.com/album/70xUsiy7X1SMeR2uaRpty4) | 3:53 |
 | 27 | [So High](https://open.spotify.com/track/7sz9ZV2IVfUv3hD0MUpxG2) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [So High](https://open.spotify.com/album/5UL4c4jq7vWAI2u3g7SBAA) | 5:39 |
 | 28 | [24h In A Disco](https://open.spotify.com/track/37yLdFx2EK0U6U4ChO3FKY) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24h In A Disco \(REFRESHED\)](https://open.spotify.com/album/1IHDWNO26K4VFONHJ2teAa) | 2:51 |

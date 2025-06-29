@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 80295,
+  "num_followers": 80383,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAAAW8xeTa+UrihjmRvebkJVW",
+  "snapshot_id": "aF3fAAAAAADQvJJS7yNTSQ7ABM/PhM54",
   "tracks": [
     {
       "added_at": null,
@@ -44,21 +44,13 @@
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         },
         {
-          "name": "Mariana Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM"
-        },
-        {
           "name": "Diana Bovio",
           "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
-        },
-        {
-          "name": "Regina Bland\u00f3n",
-          "url": "https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ"
         }
       ],
-      "duration_ms": 125470,
-      "name": "Castillos (feat. Regina Bland\u00f3n)",
-      "url": "https://open.spotify.com/track/4IGGduepkbwJ3j2fSWNZ1J"
+      "duration_ms": 147804,
+      "name": "El Me Minti\u00f3, Mentiras, Mentiras",
+      "url": "https://open.spotify.com/track/2UJwVPIghpeAiU5ERjuycq"
     },
     {
       "added_at": null,
@@ -140,13 +132,13 @@
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         },
         {
-          "name": "Diana Bovio",
-          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
+          "name": "Regina Bland\u00f3n",
+          "url": "https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ"
         }
       ],
-      "duration_ms": 147804,
-      "name": "El Me Minti\u00f3, Mentiras, Mentiras",
-      "url": "https://open.spotify.com/track/2UJwVPIghpeAiU5ERjuycq"
+      "duration_ms": 168140,
+      "name": "Amiga M\u00eda, Ese hombre No Se Toca",
+      "url": "https://open.spotify.com/track/16X0smxpR6F0BjZeY7f2FF"
     },
     {
       "added_at": null,
@@ -220,13 +212,21 @@
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         },
         {
+          "name": "Mariana Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM"
+        },
+        {
+          "name": "Diana Bovio",
+          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
+        },
+        {
           "name": "Regina Bland\u00f3n",
           "url": "https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ"
         }
       ],
-      "duration_ms": 168140,
-      "name": "Amiga M\u00eda, Ese hombre No Se Toca",
-      "url": "https://open.spotify.com/track/16X0smxpR6F0BjZeY7f2FF"
+      "duration_ms": 125470,
+      "name": "Castillos (feat. Regina Bland\u00f3n)",
+      "url": "https://open.spotify.com/track/4IGGduepkbwJ3j2fSWNZ1J"
     },
     {
       "added_at": null,
@@ -335,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JACKPOT",
-        "url": "https://open.spotify.com/album/2jwthspFSdYQk8m64Qmk4N"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 193360,
-      "name": "JACKPOT",
-      "url": "https://open.spotify.com/track/23W44WWCP8SibyP292TWo5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IND\u00d3MITA",
         "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 185936,
       "name": "Van Gogh",
       "url": "https://open.spotify.com/track/6av8ak8unUfdnw1rHq7LSL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JACKPOT",
+        "url": "https://open.spotify.com/album/2jwthspFSdYQk8m64Qmk4N"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 193360,
+      "name": "JACKPOT",
+      "url": "https://open.spotify.com/track/23W44WWCP8SibyP292TWo5"
     },
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00edrame Feliz",
-        "url": "https://open.spotify.com/album/4Esaa3tjzYiVQk3ENa49yg"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "M\u00edrame Feliz",
-      "url": "https://open.spotify.com/track/55gq5GBRE7Mlz3BCKZ8taw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Detector De Metal",
         "url": "https://open.spotify.com/album/3CZjT6RXkAJmmPZipcDg1N"
       },
@@ -523,6 +503,22 @@
       "duration_ms": 250866,
       "name": "Muriendo Lento (feat. Belinda)",
       "url": "https://open.spotify.com/track/2QFjBBDcrnEIqQcKSwZdv0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Utopia 2",
+        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "Luz Sin Gravedad",
+      "url": "https://open.spotify.com/track/60CEVNgCHcVyWCPy6Kh2K6"
     },
     {
       "added_at": null,
@@ -547,18 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Utopia 2",
-        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
+        "name": "M\u00edrame Feliz",
+        "url": "https://open.spotify.com/album/4Esaa3tjzYiVQk3ENa49yg"
       },
       "artists": [
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
         }
       ],
-      "duration_ms": 241906,
-      "name": "Luz Sin Gravedad",
-      "url": "https://open.spotify.com/track/60CEVNgCHcVyWCPy6Kh2K6"
+      "duration_ms": 191250,
+      "name": "M\u00edrame Feliz",
+      "url": "https://open.spotify.com/track/55gq5GBRE7Mlz3BCKZ8taw"
     },
     {
       "added_at": null,
@@ -666,15 +666,11 @@
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         }
       ],
-      "duration_ms": 210784,
-      "name": "Rayo Mcqueen",
-      "url": "https://open.spotify.com/track/38yDWRo776wd5OUnD2ELRN"
+      "duration_ms": 144602,
+      "name": "LA MALA",
+      "url": "https://open.spotify.com/track/0XlG7zpKoWyd40j8txTLie"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to Women at Full Volume\. Cover: AURORA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080,817 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,080,690 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,13 +61,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 51 | [Ladida](https://open.spotify.com/track/0UewHkoEkSW2cbpNbLPI4F) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Ladida](https://open.spotify.com/album/5H10ukTXc6mnzTe7leaQPJ) | 2:11 |
 | 52 | [Fan](https://open.spotify.com/track/6gx7FxxgsZXcmcUS8hBzjs) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Fan](https://open.spotify.com/album/2ROpD9Dicooqh7dtVQYMtn) | 2:58 |
 | 53 | [Ophelia](https://open.spotify.com/track/5hjhaH0vwtpftiLtF3veZp) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:35 |
-| 54 | [Siostra](https://open.spotify.com/track/6tqLDvntpOCReWMz5iujGx) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Gorset](https://open.spotify.com/album/0qpw7taZ590do6gljRq0Zb) | 2:43 |
-| 55 | [Champagne ké fraises](https://open.spotify.com/track/0VueZHw6jT3nA1X7df4fCR) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Champagne ké fraises](https://open.spotify.com/album/1EBbcU9zdWhLnziZVSyU4J) | 4:11 |
+| 54 | [Champagne ké fraises](https://open.spotify.com/track/0VueZHw6jT3nA1X7df4fCR) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Champagne ké fraises](https://open.spotify.com/album/1EBbcU9zdWhLnziZVSyU4J) | 4:11 |
+| 55 | [Siostra](https://open.spotify.com/track/6tqLDvntpOCReWMz5iujGx) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Gorset](https://open.spotify.com/album/0qpw7taZ590do6gljRq0Zb) | 2:43 |
 | 56 | [Derre](https://open.spotify.com/track/02mGPF4589DiiSdoH0pu1d) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Derre](https://open.spotify.com/album/7dSovHX9P2wh3p8quX7EhL) | 2:36 |
 | 57 | [Taj Li Watani](https://open.spotify.com/track/0qkei2mL1oGzIQtPesLCoD) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Taj Li Watani](https://open.spotify.com/album/56draevXcdLxvpUM3arMyo) | 2:46 |
 | 58 | [Dream Police](https://open.spotify.com/track/2zyodCmgNx5slEG5tOlXX2) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Dream Police](https://open.spotify.com/album/4tZDDiPikDegR9qbqagDBF) | 3:10 |
-| 59 | [Je t’aime n’est pas assez fort](https://open.spotify.com/track/4hkDLIDklIRQiJEHQouKJu) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [L'album du mâle](https://open.spotify.com/album/5m9F4xOwjKxbTx3c1RRwhH) | 3:25 |
-| 60 | [Capable of love](https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Capable of love](https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2) | 3:43 |
+| 59 | [Capable of love](https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Capable of love](https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2) | 3:43 |
+| 60 | [Je t’aime n’est pas assez fort](https://open.spotify.com/track/4hkDLIDklIRQiJEHQouKJu) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [L'album du mâle](https://open.spotify.com/album/5m9F4xOwjKxbTx3c1RRwhH) | 3:25 |
 | 61 | [¿PARA QUÉ VOLVER?](https://open.spotify.com/track/0ZjnVVnhLVTonfDfL2yHv6) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿PARA QUÉ VOLVER?](https://open.spotify.com/album/5dvJ3lO6zmFMEjejiMqbkS) | 2:21 |
 | 62 | [boys, bugs and men](https://open.spotify.com/track/5uJ421qs65IwMssDH7guJN) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 3:06 |
 | 63 | [As Above, So Below](https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Mother](https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F) | 4:09 |

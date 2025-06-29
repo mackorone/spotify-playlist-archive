@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: JENNIE",
-  "num_followers": 4081449,
+  "num_followers": 4081292,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "How Will I Know",
-        "url": "https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        }
-      ],
-      "duration_ms": 213435,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Sinnerman (Sofi Tukker Remix)",
         "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 232632,
       "name": "Sinnerman - Sofi Tukker Remix",
       "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "How Will I Know",
+        "url": "https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        }
+      ],
+      "duration_ms": 213435,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -615,26 +615,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
-        "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
+        "name": "Pump It Louder",
+        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
         }
       ],
-      "duration_ms": 216979,
-      "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
-      "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
+      "duration_ms": 158571,
+      "name": "Pump It Louder",
+      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -659,22 +655,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Pump It Louder",
-        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
+        "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
+        "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         }
       ],
-      "duration_ms": 158571,
-      "name": "Pump It Louder",
-      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
+      "duration_ms": 216979,
+      "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
+      "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1529,6 +1529,26 @@
       "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
     },
     {
+      "added_at": "2025-03-28 04:00:36",
+      "album": {
+        "name": "Whiplash (English Version)",
+        "url": "https://open.spotify.com/album/10C0OaEiO9vsPJ7wr9G6Er"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Whiplash (Steve Aoki Remix)",
+      "url": "https://open.spotify.com/track/05WroaccWBOq46mEkO5N0X"
+    },
+    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Drive (feat. Wes Nelson) [Topic VIP Remix]",
@@ -1551,26 +1571,6 @@
       "duration_ms": 176000,
       "name": "Drive (feat. Wes Nelson) - Topic VIP Remix",
       "url": "https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO"
-    },
-    {
-      "added_at": "2025-03-28 04:00:36",
-      "album": {
-        "name": "Whiplash (English Version)",
-        "url": "https://open.spotify.com/album/10C0OaEiO9vsPJ7wr9G6Er"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Whiplash (Steve Aoki Remix)",
-      "url": "https://open.spotify.com/track/05WroaccWBOq46mEkO5N0X"
     }
   ],
   "unique_name": "Pop Remix",

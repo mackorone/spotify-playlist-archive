@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,098 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,139 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 14 | [Near By Me](https://open.spotify.com/track/5y8ROfzveFCMOSkkrG3WmU) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn) | [Near By Me](https://open.spotify.com/album/6N66GsbNmVVOEvCUWKw68f) | 3:04 |
 | 15 | [Gunde Te Pyaar](https://open.spotify.com/track/3AaInQgz5j9wLN9PR87pqy) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Sweta Chauhan](https://open.spotify.com/artist/4TsNgxbxmdUsKIFtqvzRPa), [Zameer Siddiqui](https://open.spotify.com/artist/0MOHjZdv3gfJbXu4Lt7NL0) | [Gunde Te Pyaar](https://open.spotify.com/album/2M6uGncIcmy5hpjlLqoQos) | 3:28 |
 | 16 | [Jaat](https://open.spotify.com/track/7ukOVopzKs1CFGZgZRTOMo) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Ghanu Music](https://open.spotify.com/artist/21dcNsxyYDyCaF33KDYL3T) | [Jaat](https://open.spotify.com/album/1T3kwFgMDCxWqQzfU61use) | 2:57 |
-| 17 | [Jat Supremacy](https://open.spotify.com/track/5H8UVQwQKebV6PaB6iTQX8) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Jat Supremacy](https://open.spotify.com/album/3rDnXnhPvYyPVj0uT4MMzl) | 2:38 |
-| 18 | [Gym De Shokeen](https://open.spotify.com/track/2Nns0ymEJbIYVrihppq73O) | [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG) | [Gym De Shokeen](https://open.spotify.com/album/4NXiyOVXNQ6HwGBpNGDF8b) | 3:45 |
+| 17 | [Gym De Shokeen](https://open.spotify.com/track/2Nns0ymEJbIYVrihppq73O) | [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG) | [Gym De Shokeen](https://open.spotify.com/album/4NXiyOVXNQ6HwGBpNGDF8b) | 3:45 |
+| 18 | [Jat Supremacy](https://open.spotify.com/track/5H8UVQwQKebV6PaB6iTQX8) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Jat Supremacy](https://open.spotify.com/album/3rDnXnhPvYyPVj0uT4MMzl) | 2:38 |
 | 19 | [Koi Na](https://open.spotify.com/track/64qn5oeo6Dcrur3dsu0gsJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Uchana Amit](https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Koi Na](https://open.spotify.com/album/7106si82R8FQw7KApQKk2n) | 2:39 |
 | 20 | [Manas Maar](https://open.spotify.com/track/6oV5XakaaQ2YMpk7hgEhxU) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Swara Verma](https://open.spotify.com/artist/1p8AG9V0Y60vhvdYdRbxqn), [Manjeet Mor](https://open.spotify.com/artist/78slqekUy3ukaQNoEmrBWh), [Nidhi Negi](https://open.spotify.com/artist/2JVmFhx7dBCmJEnnRsxTIY) | [Manas Maar](https://open.spotify.com/album/0ZXdPbjmNMNCdCUoIJGiC4) | 2:29 |
 | 21 | [Lath](https://open.spotify.com/track/5qiqDTdWfqwOX4pyPxPmSy) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [Lath](https://open.spotify.com/album/1ywwM0y7s8IAhSuePlvvqf) | 3:12 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 39 | [Power](https://open.spotify.com/track/2QPQ4mqVJRVxqi1vGlFiXw) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Power](https://open.spotify.com/album/2K1UUqgmoUp5BD7hjw602v) | 2:53 |
 | 40 | [Notorious Desi](https://open.spotify.com/track/7yCQyuIqzHtXBsIY0OiNti) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Notorious Desi](https://open.spotify.com/album/0DBU7BkdjqHsgAT5WgvkFh) | 2:46 |
 | 41 | [Panga](https://open.spotify.com/track/13yHaNGlckcW7zvJ5yUSwN) | [Ammy Chahar](https://open.spotify.com/artist/5XE93ktVBgJuN7ln4YDvmX), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM) | [Panga](https://open.spotify.com/album/3BTHZFnhSzPqSho78f8Kwz) | 3:01 |
-| 42 | [Choudhar](https://open.spotify.com/track/4A6ZZI5c6u598KGM5OL1RK) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2) | [Choudhar](https://open.spotify.com/album/0oyh3wxqoJTTsdv7CLLr4C) | 2:53 |
-| 43 | [No Escape](https://open.spotify.com/track/0BEitiMLJyddZ7yY2LyD7x) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [No Escape](https://open.spotify.com/album/44GmLku7At0sHfzevpWJn7) | 3:16 |
+| 42 | [No Escape](https://open.spotify.com/track/0BEitiMLJyddZ7yY2LyD7x) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [No Escape](https://open.spotify.com/album/44GmLku7At0sHfzevpWJn7) | 3:16 |
+| 43 | [Choudhar](https://open.spotify.com/track/4A6ZZI5c6u598KGM5OL1RK) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2) | [Choudhar](https://open.spotify.com/album/0oyh3wxqoJTTsdv7CLLr4C) | 2:53 |
 | 44 | [Dabke Na Chale](https://open.spotify.com/track/4VVqoi4F2GZg5EBnOGUAc3) | [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf) | [Dabke Na Chale](https://open.spotify.com/album/2iQNuAG6QWNQcCcJdxFzL3) | 2:14 |
 | 45 | [Not Easy](https://open.spotify.com/track/5dqMj4M6sgJIVa12Qjqjlq) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Not Easy](https://open.spotify.com/album/0LTyNtAmZv7JENRDAFMA8Y) | 2:56 |
 | 46 | [Pahalwani](https://open.spotify.com/track/3pIyIe9dwEnQyXUQfxaIcd) | [Krishan Madha](https://open.spotify.com/artist/7GTkzMSNgDarYvOGiBHRtL), [Moni Hooda](https://open.spotify.com/artist/7sTD73ts93UaMiWy1hk9KI) | [Pahalwani](https://open.spotify.com/album/7HfKGDVQgJcsZyXN5lklcl) | 4:00 |

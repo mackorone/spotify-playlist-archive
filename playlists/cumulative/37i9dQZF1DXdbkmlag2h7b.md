@@ -4,7 +4,7 @@
 
 > Drift away with enthralling instrumentals.
 
-285 songs - 14 hr 48 min
+286 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Atmosphere](https://open.spotify.com/track/70qrjTSITI223cRd3vplUI) | [Ventura Lumi](https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4) | [Atmosphere](https://open.spotify.com/album/3GYeeFdeoxLMMBe5kg8fby) | 2:32 | 2024-11-14 | 2025-01-29 |
 | [Aurora Line](https://open.spotify.com/track/1zuGL74HX3yHU0UNFoW1pX) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Aurora Line](https://open.spotify.com/album/4ZJXs5rAbVlDCbpECFFEq6) | 2:32 | 2024-04-29 | 2024-12-29 |
 | [Aurora Sky](https://open.spotify.com/track/3zRrJfbjE6HzOyC6IpUgnL) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Aurora Sky](https://open.spotify.com/album/76RszMekO2HnL64AQPF5vL) | 2:56 | 2025-01-14 |  |
-| [Awakening](https://open.spotify.com/track/5MVVGFVHWhjGpg2ZKPxWHh) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Awakening](https://open.spotify.com/album/6G9t6knI1NlkFAYsNzGYLH) | 3:11 | 2021-12-09 |  |
+| [Awakening](https://open.spotify.com/track/5MVVGFVHWhjGpg2ZKPxWHh) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Awakening](https://open.spotify.com/album/6G9t6knI1NlkFAYsNzGYLH) | 3:11 | 2021-12-09 | 2025-06-29 |
 | [Backwaters](https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Inch Of You](https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ) | 2:27 | 2021-12-09 | 2025-01-29 |
 | [Becker's](https://open.spotify.com/track/4HPiuEOyFCBZzp5mugj0o7) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Memory Canvas](https://open.spotify.com/album/5k803G97CKyWSiClt8UMnF) | 3:35 | 2022-11-22 | 2023-10-13 |
 | [Been Here Before](https://open.spotify.com/track/3QBLDkUTJ7brEiZbPBhf9K) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [Been Here Before](https://open.spotify.com/album/2kRu3wgWly78Ds4gJ5lXm9) | 3:29 | 2025-06-03 | 2025-06-25 |
@@ -189,6 +189,7 @@
 | [Notes On Leave Taking](https://open.spotify.com/track/7t7nxvsTW4bUSkLifauz2i) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Selah](https://open.spotify.com/album/3ucN43N5AB3IhIAOiX3MWI) | 3:45 | 2021-12-09 | 2023-02-01 |
 | [Nyvälle](https://open.spotify.com/track/39AhLachgMFZNzznsaqBdO) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Nyvälle](https://open.spotify.com/album/2fSbdyf4zNHJ7NhSfC4eke) | 2:42 | 2025-03-05 |  |
 | [Ocean Breath](https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Prana](https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR) | 2:37 | 2022-01-06 |  |
+| [One Sky](https://open.spotify.com/track/39ON6mVu7zBZj16q1WDUqr) | [øchd](https://open.spotify.com/artist/44xr4MsX6T1FB5wUxRRExQ) | [One Sky](https://open.spotify.com/album/6KRRLpyVDi5aXtwKOKYcYL) | 2:30 | 2025-06-03 |  |
 | [Open Eyes](https://open.spotify.com/track/7qOSXapFeF6dMXYZn6r7Jm) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Open Eyes](https://open.spotify.com/album/7p8eObCrVEaGjXAuf8zZW8) | 3:32 | 2021-12-09 | 2025-03-06 |
 | [Orbital Oasis](https://open.spotify.com/track/6zGZtDSM0FSol4zakv14CS) | [Ruben Ortega](https://open.spotify.com/artist/7orAQsVnGSHS7bsPShdMjl) | [Orbital Oasis](https://open.spotify.com/album/1yspBlFboddEbivYv2VSpu) | 3:07 | 2025-04-01 |  |
 | [Oriental Journey](https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Meditations for Woods & Winds](https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH) | 3:25 | 2021-12-09 | 2025-03-06 |

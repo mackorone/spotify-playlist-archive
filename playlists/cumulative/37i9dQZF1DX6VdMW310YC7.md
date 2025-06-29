@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,785 songs - 5 day 1 hr 42 min
+1,786 songs - 5 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,7 +469,7 @@
 | [Fading Memories](https://open.spotify.com/track/3iO88Yon2jOOeT9AefoGF2) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA), [Nicolas Haelg](https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd), [Sam Halabi](https://open.spotify.com/artist/0kdzjDb2TKsCiJwWaBkZTQ) | [Fading Memories](https://open.spotify.com/album/5RzqSHBKXhYdHVf1X4B0Z6) | 2:40 | 2020-03-16 | 2021-03-10 |
 | [Falcon Eyes](https://open.spotify.com/track/0cdKQ230JvdLwG2JtPQ0Ws) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Falcon Eyes](https://open.spotify.com/album/4t4XC01yuFtLTcaWopgw3y) | 3:42 | 2022-12-28 | 2023-01-06 |
 | [Fall \- 6AM Mix](https://open.spotify.com/track/63dG0sIaqOYLFZ0S94XF89) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Fall \(KC Lights Remixes\)](https://open.spotify.com/album/7amjEc3T8lTIJuOFFjbORO) | 3:17 | 2022-03-25 | 2022-12-29 |
-| [Fall Apart](https://open.spotify.com/track/1A0yCVsRU1fqI2azbaoGSV) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Fall Apart](https://open.spotify.com/album/5sNIvva0OBx8BPyb9OPfq2) | 3:08 | 2025-01-24 |  |
+| [Fall Apart](https://open.spotify.com/track/1A0yCVsRU1fqI2azbaoGSV) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Fall Apart](https://open.spotify.com/album/5sNIvva0OBx8BPyb9OPfq2) | 3:08 | 2025-01-24 | 2025-06-29 |
 | [Fall in Deep](https://open.spotify.com/track/4pgOyxhTFOuNZJndYQJkKk) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Fall in Deep](https://open.spotify.com/album/0ro9l9lDWGBP8liktBsJOZ) | 3:37 | 2020-05-18 | 2021-01-11 |
 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 | 2022-09-09 | 2022-12-29 |
 | [Falling](https://open.spotify.com/track/2B7o7cBAno5SaZLljqlPVc) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Falling](https://open.spotify.com/album/2u45jCKKoRA20flSf7Ry2r) | 3:22 | 2022-07-01 | 2022-09-26 |
@@ -1294,6 +1294,7 @@
 | [Remedy](https://open.spotify.com/track/11CnwxdRxrHNYDCVT6npaz) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [Running Touch](https://open.spotify.com/artist/5bdwzvp6eirvqh0TwOwjgE) | [Remedy](https://open.spotify.com/album/0kTUETKwjoj5x8iHJaOb4Y) | 3:45 | 2023-12-26 | 2024-04-06 |
 | [Remember](https://open.spotify.com/track/6t5lCWTxrhsoywm036wSnh) | [Chris Reece](https://open.spotify.com/artist/20W9qrrJck1qZCsAhiaiuG) | [Remember](https://open.spotify.com/album/53rOKnrWWQPczovOPrt4E5) | 3:22 | 2022-12-28 | 2023-01-06 |
 | [Remember](https://open.spotify.com/track/5PeeJXPGTkXJE2Xlc2fUEd) | [eleven.five](https://open.spotify.com/artist/5atbRrm6m3IMXYe5SOPCs1), [Arielle Maren](https://open.spotify.com/artist/7MbnTNfDyXb2vTM1GYXsLV) | [Remember](https://open.spotify.com/album/5SGNyaPoJB9uvDWp4fWcwF) | 4:33 | 2020-05-18 | 2021-01-11 |
+| [Remember Me](https://open.spotify.com/track/5fY592q9uyqWCsQVUWQra0) | [Drics](https://open.spotify.com/artist/5NlawbBDGkH8W9SblamHZO) | [Remember Me](https://open.spotify.com/album/5oIP2gVBohm3RnognSCLwK) | 2:41 | 2025-06-27 |  |
 | [Resenären](https://open.spotify.com/track/5fwSydkuyJTqAhrPfvM5wr) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Resenären](https://open.spotify.com/album/4ooplbpUcmkYThvwnMLj0Q) | 7:02 | 2024-05-03 | 2024-06-08 |
 | [Resolve](https://open.spotify.com/track/0GOxBVl062KmJt4Spnvjuu) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Resolve](https://open.spotify.com/album/1D3Ix43zZ61laz8ww0MFZ3) | 7:22 | 2020-02-29\* | 2020-03-16 |
 | [Revival](https://open.spotify.com/track/6Tgd0DhWYzCWrwZZB6BPNw) | [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [Revival](https://open.spotify.com/album/2gPm08Ppc9BybHGrKXFaxF) | 4:39 | 2020-03-16 | 2020-10-09 |

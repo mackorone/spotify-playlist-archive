@@ -4,7 +4,7 @@
 
 > This is The Cranberries\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 12 min
+52 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [When You're Gone](https://open.spotify.com/track/3EXrtClWmgsM7dw75Mw2M1) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 4:56 | 2025-03-08 |  |
 | [You And Me](https://open.spotify.com/track/6jEcFhllWB0clBHFylomJZ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:35 | 2025-03-08 |  |
 | [Zombie](https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 5:06 | 2025-03-08 |  |
-| [Zombie \- Acoustic Version](https://open.spotify.com/track/1aZfq7TK3tNl9XJLkOpwKw) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL) | 4:01 | 2025-03-08 |  |
+| [Zombie \- Acoustic Version](https://open.spotify.com/track/1aZfq7TK3tNl9XJLkOpwKw) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL) | 4:01 | 2025-03-08 | 2025-06-29 |
+| [Zombie \- Iain Cook Remix](https://open.spotify.com/track/7KNRFIn16tlCcr3VQHFkxB) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9), [Iain Cook](https://open.spotify.com/artist/5oTYAFr7Prs5cmCumId5CQ) | [Zombie \(Iain Cook Remix\)](https://open.spotify.com/album/1hdANv5geqeptX72Ki1ena) | 4:57 | 2025-06-29 |  |
 | [Íosa](https://open.spotify.com/track/7nDnFw9CmNnxgnY1C7vozN) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Íosa](https://open.spotify.com/album/1HJXIxvS7UsHQWcXS34u48) | 4:08 | 2025-03-08 |  |
 
 \*This playlist was first scraped on 2025-03-08. Prior content cannot be recovered.

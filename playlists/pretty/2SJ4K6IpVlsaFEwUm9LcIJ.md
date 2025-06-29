@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,130 likes - 63 songs - 3 hr 45 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,137 likes - 64 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,5 +71,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 61 | [Sambinha](https://open.spotify.com/track/2EHXd5o9sBnGRhgSxULQYJ) | [Tenorio Jr.](https://open.spotify.com/artist/5RYHqDtvrm4QLsvcoOHmR9) | [Embalo](https://open.spotify.com/album/6nSnQ6vyh0glT2MqpLQmsO) | 2:44 |
 | 62 | [Driving to Milwaukee](https://open.spotify.com/track/7HpAKqfnKKCkCERSW7rpdl) | [Skyway Man](https://open.spotify.com/artist/5QaXPOeFBhSwhLxrmU2ghj) | [Greetings from Marquette: Music from Joe Pera Talks With You Season 2](https://open.spotify.com/album/3f8L76lfRJYtjiQvCo3I0f) | 5:15 |
 | 63 | [Monochrome photography](https://open.spotify.com/track/36WOdy91Cs6wCUTlic2mdN) | [Electron Sheep](https://open.spotify.com/artist/1ZWn3NgMdeJKs2vmCZzJZa) | [Day Is Far Too Long](https://open.spotify.com/album/5OMI8HfEGEebdfeYHHDba0) | 3:53 |
+| 64 | [Monsoon: Top to Bottom](https://open.spotify.com/track/6MVRZzhHrMUEvPiCH3Srbl) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Knee\-Deep In the North Sea](https://open.spotify.com/album/2A8c5znvmslp2I77dTBV1K) | 4:12 |
 
-Snapshot ID: `AAAMqJXWe1hGteJDjHJRT/kx4QjqqFrd`
+Snapshot ID: `AAAMqfw/aUZgXiaYsj+go4i0Phrz4EK9`

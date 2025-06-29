@@ -4,7 +4,7 @@
 
 > Guerreras e independientes\. Foto: Fin del Mundo.
 
-604 songs - 1 day 10 hr 19 min
+605 songs - 1 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Me Animé a Decir](https://open.spotify.com/track/5IQn3Jp6WHfsok4EpPk0yy) | [Sofía Uzal](https://open.spotify.com/artist/19Hdi3JmltQbOwPCfcUEjd) | [Decir](https://open.spotify.com/album/5D0hG3d4UMsiqR0qj9Xza7) | 2:58 | 2022-03-04 | 2022-04-21 |
 | [Me da igual](https://open.spotify.com/track/49C9I2GoMwUrHtHDJQJdKr) | [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y) | [Me da igual](https://open.spotify.com/album/3LGQ7fg8WVtykIfFpD3RiA) | 3:21 | 2022-01-21 | 2022-07-22 |
 | [Me Eleva](https://open.spotify.com/track/2864zSXTUZO8fshzyBkT63) | [Manuela de las Casas](https://open.spotify.com/artist/4cWiT1v3NOdTagAExiLRAZ) | [Halare](https://open.spotify.com/album/2xdqR3r3zZuIlEc3fLOMtX) | 3:37 | 2022-01-21 | 2022-07-21 |
+| [ME FUI DE LA FIESTA](https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [ME FUI DE LA FIESTA](https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN) | 2:38 | 2025-06-26 |  |
 | [Me Fuí a Caminar](https://open.spotify.com/track/6B7HKwT2sPj2XxmsslLbaS) | [Daniela Millaleo](https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz) | [Trafun](https://open.spotify.com/album/7pqYO0I8Jecb4hjJ7r0zTb) | 3:59 | 2022-01-21 | 2022-07-28 |
 | [Me Fuí a Caminar](https://open.spotify.com/track/1y4rKHGVBQ13OVFkjkH5Zp) | [Daniela Millaleo](https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz) | [Trafun](https://open.spotify.com/album/5pUXmmtKYOb0kPNXqB9HE0) | 3:59 | 2024-01-18 | 2024-04-19 |
 | [Me Gustas Tú](https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Nocturna](https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3) | 2:29 | 2022-09-30 | 2024-09-13 |
@@ -593,7 +594,7 @@
 | [Volar](https://open.spotify.com/track/1r2QNqXARZN79ChpgevNMe) | [Miranda Diaz](https://open.spotify.com/artist/0lPtnE0VbkjwameC1T0MBF) | [Volar](https://open.spotify.com/album/2QTYSk8PlgDib4jzvfzdCZ) | 3:07 | 2022-04-01 | 2022-07-05 |
 | [Volver a Llorar](https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Volver a Llorar](https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW) | 2:40 | 2024-08-16 | 2025-06-27 |
 | [Volviste Desarmado](https://open.spotify.com/track/6bsjkK53hGEU7khkaQ4ELq) | [La Sánchez Viamonte](https://open.spotify.com/artist/75Ls2clsNSLsuGQqAwBAJa) | [Volviste Desarmado](https://open.spotify.com/album/2Pubgf7Ke14LTjXc0yBJE9) | 4:48 | 2022-01-21 | 2022-07-28 |
-| [Vos y Yo :3](https://open.spotify.com/track/27PskjLeAML4aATbWz0b8g) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Vos y Yo :3](https://open.spotify.com/album/5Fqn9d8KrTFajcCOBcDi6i) | 3:13 | 2025-06-26 |  |
+| [Vos y Yo :3](https://open.spotify.com/track/27PskjLeAML4aATbWz0b8g) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Vos y Yo :3](https://open.spotify.com/album/5Fqn9d8KrTFajcCOBcDi6i) | 3:13 | 2025-06-26 | 2025-06-29 |
 | [Voy a Hacer las Cosas Lento](https://open.spotify.com/track/2giVbMc5SuyJedv7JaWr9o) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Voy a Hacer las Cosas Lento](https://open.spotify.com/album/4is8Xi19Eijn9e16KgaipK) | 3:28 | 2022-01-14 | 2022-07-28 |
 | [Vuelo](https://open.spotify.com/track/24eo3E9uK6zPl0bvlIZuoi) | [Maria Trapaglia](https://open.spotify.com/artist/5f53oTxcEXYARPX4xRIO0i) | [Vuelo](https://open.spotify.com/album/4jmOTynTRGQeByOvtnCFzx) | 3:50 | 2022-04-01 | 2022-04-21 |
 | [Wannabe \- Spotify Singles](https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Wannabe \- Spotify Singles](https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW) | 2:32 | 2022-03-08 | 2023-08-19 |

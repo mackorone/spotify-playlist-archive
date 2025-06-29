@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Saint\u00e9",
-  "num_followers": 88529,
+  "num_followers": 88525,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe"
+      },
+      "artists": [
+        {
+          "name": "AMB",
+          "url": "https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7"
+        }
+      ],
+      "duration_ms": 203964,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
         "name": "London's Calling",
         "url": "https://open.spotify.com/album/5ZjHN7anVFMnDCP4Rx06aO"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 171478,
       "name": "London's Calling",
       "url": "https://open.spotify.com/track/0mUTOo5ZWhxWfWE68I0COt"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
-        "name": "Lies",
-        "url": "https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe"
-      },
-      "artists": [
-        {
-          "name": "AMB",
-          "url": "https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7"
-        }
-      ],
-      "duration_ms": 203964,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -743,6 +743,26 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        },
+        {
+          "name": "Beri Mayah",
+          "url": "https://open.spotify.com/artist/3157DyzsGdoNMghW23WShx"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
         "name": "duck duck goose",
         "url": "https://open.spotify.com/album/3EGJXUpFU5kTCodBBwe1TR"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 192000,
       "name": "duck duck goose",
       "url": "https://open.spotify.com/track/1FnQSKasVdtcON8N4eGKFr"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR"
-      },
-      "artists": [
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
-        },
-        {
-          "name": "Beri Mayah",
-          "url": "https://open.spotify.com/artist/3157DyzsGdoNMghW23WShx"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "DPMO",
-        "url": "https://open.spotify.com/album/0a6VY1IPF1Gv77FeCXp7XY"
-      },
-      "artists": [
-        {
-          "name": "Equation Billionz",
-          "url": "https://open.spotify.com/artist/2VIodUBANwxtofvbxmZ0PL"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "DPMO",
-      "url": "https://open.spotify.com/track/2Se2z9lj8LLzTdNP6GnhJJ"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
         "name": "Told Me",
         "url": "https://open.spotify.com/album/4zwGzA5VBydkuWj5c8wRIz"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 142027,
       "name": "Told Me",
       "url": "https://open.spotify.com/track/0Y4pSBsUYmhyZ28Y5X82ps"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "DPMO",
+        "url": "https://open.spotify.com/album/0a6VY1IPF1Gv77FeCXp7XY"
+      },
+      "artists": [
+        {
+          "name": "Equation Billionz",
+          "url": "https://open.spotify.com/artist/2VIodUBANwxtofvbxmZ0PL"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "DPMO",
+      "url": "https://open.spotify.com/track/2Se2z9lj8LLzTdNP6GnhJJ"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "Why you gotta lie?",
-        "url": "https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 156053,
-      "name": "Why you gotta lie?",
-      "url": "https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/50jLOnNEfgFgO3AG15uIq4"
       },
@@ -1467,18 +1451,34 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "Love Letter",
-        "url": "https://open.spotify.com/album/6CRjn3UOO9i9zqGE0Kxwp3"
+        "name": "Why you gotta lie?",
+        "url": "https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7"
       },
       "artists": [
         {
-          "name": "Noaah",
-          "url": "https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX"
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
         }
       ],
-      "duration_ms": 152137,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/2pjj71OIEpgLzr0V6cYkTp"
+      "duration_ms": 156053,
+      "name": "Why you gotta lie?",
+      "url": "https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "Love Don't Change",
+        "url": "https://open.spotify.com/album/6orzD3w7CUbkxnKYRa0Pg5"
+      },
+      "artists": [
+        {
+          "name": "K5ive",
+          "url": "https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM"
+        }
+      ],
+      "duration_ms": 214883,
+      "name": "Love Don't Change",
+      "url": "https://open.spotify.com/track/0Zx3dXKiG5oBZj5mx12nus"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -1511,6 +1511,22 @@
       "duration_ms": 165405,
       "name": "No Pain",
       "url": "https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/6CRjn3UOO9i9zqGE0Kxwp3"
+      },
+      "artists": [
+        {
+          "name": "Noaah",
+          "url": "https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX"
+        }
+      ],
+      "duration_ms": 152137,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/2pjj71OIEpgLzr0V6cYkTp"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -1551,6 +1567,22 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
+        "name": "I Thought I'd Die In Your Arms",
+        "url": "https://open.spotify.com/album/335rKXLWPEDRkmtjDjLgeA"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 176680,
+      "name": "I Thought I'd Die In Your Arms",
+      "url": "https://open.spotify.com/track/26dYcj6ddzBW1HfMEONnr8"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
         "name": "Love, Eternity & Faith",
         "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
       },
@@ -1567,22 +1599,6 @@
       "duration_ms": 160490,
       "name": "Venting",
       "url": "https://open.spotify.com/track/2a2kgyw5bskOcTEOpQQFQw"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
-        "name": "High On Love",
-        "url": "https://open.spotify.com/album/00HcaQwzlsOUWzUJjWKoEo"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 181044,
-      "name": "High On Love",
-      "url": "https://open.spotify.com/track/6KxM8MGmfCJRVps6jCFvfs"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "Love Don't Change",
-        "url": "https://open.spotify.com/album/6orzD3w7CUbkxnKYRa0Pg5"
-      },
-      "artists": [
-        {
-          "name": "K5ive",
-          "url": "https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM"
-        }
-      ],
-      "duration_ms": 214883,
-      "name": "Love Don't Change",
-      "url": "https://open.spotify.com/track/0Zx3dXKiG5oBZj5mx12nus"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
         "name": "Late Night Trips",
         "url": "https://open.spotify.com/album/64atF2k7nqkT9oonM5LTjE"
       },
@@ -1635,6 +1635,38 @@
       "duration_ms": 97436,
       "name": "Late Night Trips",
       "url": "https://open.spotify.com/track/0hVvkB1j1SC9FQHShpQoYU"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "Up all night",
+        "url": "https://open.spotify.com/album/54GgiCNFUP2qOvlUXAE871"
+      },
+      "artists": [
+        {
+          "name": "LBSZN",
+          "url": "https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff"
+        }
+      ],
+      "duration_ms": 161232,
+      "name": "Up all night",
+      "url": "https://open.spotify.com/track/2nbBENXAayuNvr3kQmBAzt"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "High On Love",
+        "url": "https://open.spotify.com/album/00HcaQwzlsOUWzUJjWKoEo"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 181044,
+      "name": "High On Love",
+      "url": "https://open.spotify.com/track/6KxM8MGmfCJRVps6jCFvfs"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -1655,22 +1687,6 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "The Talking Stage Game",
-        "url": "https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 194148,
-      "name": "The Talking Stage Game",
-      "url": "https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
         "name": "Deeper Than Drill",
         "url": "https://open.spotify.com/album/5I4QSaqKhNLjvyZ9AAPXuG"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 174545,
       "name": "Deeper Than Drill",
       "url": "https://open.spotify.com/track/0aA0NgRHcV0mVKyTE5wjGq"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
-        "name": "Up all night",
-        "url": "https://open.spotify.com/album/54GgiCNFUP2qOvlUXAE871"
-      },
-      "artists": [
-        {
-          "name": "LBSZN",
-          "url": "https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff"
-        }
-      ],
-      "duration_ms": 161232,
-      "name": "Up all night",
-      "url": "https://open.spotify.com/track/2nbBENXAayuNvr3kQmBAzt"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -1739,8 +1739,8 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "I Wanna Start My Life Again",
-        "url": "https://open.spotify.com/album/2s9x5mMnJixYOj8K3UIduO"
+        "name": "The Talking Stage Game",
+        "url": "https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc"
       },
       "artists": [
         {
@@ -1748,9 +1748,9 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 150884,
-      "name": "I Wanna Start My Life Again",
-      "url": "https://open.spotify.com/track/7lYNiZgNS2Khdd4nXznIEj"
+      "duration_ms": 194148,
+      "name": "The Talking Stage Game",
+      "url": "https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ"
     }
   ],
   "unique_name": "lofi rap",

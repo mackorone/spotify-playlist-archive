@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: Lil Kleine & Yade Lauren, Chef'Special, Sef & Froukje en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,293 likes - 90 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,324 likes - 90 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 11 | [Going to Mars](https://open.spotify.com/track/1nTFwSGY1ygMC2DmLa1CsM) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Going to Mars](https://open.spotify.com/album/5PrSHfxpwJDKC91aPYnftY) | 3:05 |
 | 12 | [All Night](https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [All Night](https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD) | 2:45 |
 | 13 | [Closer](https://open.spotify.com/track/1MTWqXxXiVLIosuDReN3oi) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [Udi Mars](https://open.spotify.com/artist/2EqLmeAXEqGuGQIdqXAcgi), [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp) | [Closer](https://open.spotify.com/album/5rCJ4Ht5ShTer3L1WFo4bH) | 2:24 |
-| 14 | [Huis Van Zwart en Rood](https://open.spotify.com/track/01ePjjnb3JX85NDzzt4aWs) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [Huis Van Zwart en Rood / Cederhout](https://open.spotify.com/album/0u3Aq3qOZpLFa9zU275XBe) | 2:16 |
+| 14 | [Huis van Zwart en Rood](https://open.spotify.com/track/01ePjjnb3JX85NDzzt4aWs) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [Huis van Zwart en Rood / Cederhout](https://open.spotify.com/album/0u3Aq3qOZpLFa9zU275XBe) | 2:16 |
 | 15 | [In Between The Glass](https://open.spotify.com/track/2bewIDkh0QfcVoQNgRaIpB) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [In Between The Glass](https://open.spotify.com/album/35kxAAk9pr5OlJaNGhWvek) | 2:58 |
 | 16 | [I Wanna Go](https://open.spotify.com/track/0HfylTo23WNyrsQ0sMJgxM) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [I Wanna Go](https://open.spotify.com/album/5e6d1Y9pYejh3y1cwBFNoI) | 2:06 |
 | 17 | [Positions](https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j) | [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Positions](https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah) | 2:28 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 67 | [All My Friends](https://open.spotify.com/track/2xqI4s8TsrOhhGoWZYoDS2) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [All My Friends](https://open.spotify.com/album/60emWBk5kYEXwYqoM20mco) | 3:20 |
 | 68 | [Leave It Up To You](https://open.spotify.com/track/6L9mT3g89Nl8JVWMy5DAPf) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W), [evi](https://open.spotify.com/artist/4EI5KdR7Z61kYb344Pi5CC) | [Leave It Up To You](https://open.spotify.com/album/1CE36RRFj8UJxH9B0KSTnH) | 2:48 |
 | 69 | [10AM](https://open.spotify.com/track/5WYv0entnRyawjX2mJ5QAK) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [10AM](https://open.spotify.com/album/2p3syjniBpHkLZGWB0o7FD) | 3:36 |
-| 70 | [Feel Something](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Feel Something](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 |
+| 70 | [FEEL SOMETHING](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 |
 | 71 | [Can We Talk?](https://open.spotify.com/track/1NeL0geu5M3lya479QuA6q) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Can We Talk?](https://open.spotify.com/album/5bzaSX78ybcXW55HFe8xZi) | 3:08 |
 | 72 | [Old Shadows](https://open.spotify.com/track/3IWuSaxaeNuQUXOfVtEkOE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Old Shadows](https://open.spotify.com/album/0RLefy7jZBf1Dx0UlZdbRK) | 4:06 |
 | 73 | [mountain of a memory](https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [mountain of a memory](https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT) | 2:25 |

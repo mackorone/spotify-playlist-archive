@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 41127,
+  "num_followers": 41128,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAAB7ObG10M04CW7L0lydL+Ds",
+  "snapshot_id": "aF3fAAAAAAAO4b9ozbajAkVUJm6z/AUE",
   "tracks": [
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ancla",
+        "url": "https://open.spotify.com/album/63ai3W2Gr4izvGLuz8un6A"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 499411,
+      "name": "Ancla",
+      "url": "https://open.spotify.com/track/0ZGRXbaZcphuVXHTYFNURv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pura Sal",
         "url": "https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 266253,
       "name": "Por la Eternidad",
       "url": "https://open.spotify.com/track/7vi7vdA2mYGC0vkD0bB14J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ancla",
-        "url": "https://open.spotify.com/album/63ai3W2Gr4izvGLuz8un6A"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 499411,
-      "name": "Ancla",
-      "url": "https://open.spotify.com/track/0ZGRXbaZcphuVXHTYFNURv"
     },
     {
       "added_at": null,
@@ -815,22 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corriente / Un D\u00eda A La Vez (Medley) - En Vivo",
-        "url": "https://open.spotify.com/album/5nIs2o9PzMZlf6uJX8nEmY"
+        "name": "Hasta Poder Ver",
+        "url": "https://open.spotify.com/album/7wc3QJ8twMqY8mlDb0MupP"
       },
       "artists": [
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
         }
       ],
-      "duration_ms": 271374,
-      "name": "Corriente / Un D\u00eda A La Vez (Medley) - En Vivo",
-      "url": "https://open.spotify.com/track/5lFE4oeLwvFhhGm3GhOn2g"
+      "duration_ms": 309263,
+      "name": "Hasta Poder Ver",
+      "url": "https://open.spotify.com/track/5PPcHsB4euq3Eg90F4Dngs"
     },
     {
       "added_at": null,
@@ -851,18 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta Poder Ver",
-        "url": "https://open.spotify.com/album/7wc3QJ8twMqY8mlDb0MupP"
+        "name": "Corriente / Un D\u00eda A La Vez (Medley) - En Vivo",
+        "url": "https://open.spotify.com/album/5nIs2o9PzMZlf6uJX8nEmY"
       },
       "artists": [
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
         }
       ],
-      "duration_ms": 309263,
-      "name": "Hasta Poder Ver",
-      "url": "https://open.spotify.com/track/5PPcHsB4euq3Eg90F4Dngs"
+      "duration_ms": 271374,
+      "name": "Corriente / Un D\u00eda A La Vez (Medley) - En Vivo",
+      "url": "https://open.spotify.com/track/5lFE4oeLwvFhhGm3GhOn2g"
     },
     {
       "added_at": null,

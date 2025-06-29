@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "69 Percent",
+        "url": "https://open.spotify.com/album/6Ao7bXFuEy3bgf3MYNPgFP"
+      },
+      "artists": [
+        {
+          "name": "Meg Ward",
+          "url": "https://open.spotify.com/artist/2mD3jEYpdABPmYGMkwIp8s"
+        }
+      ],
+      "date_added": "2025-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130358,
+      "name": "69 Percent",
+      "url": "https://open.spotify.com/track/2u7jPiZeUvvIb8S0QN3Hu9"
+    },
+    {
+      "album": {
         "name": "SUBSTATE",
         "url": "https://open.spotify.com/album/4piB5tOFZA5RhUTMMpAm2o"
       },
@@ -5012,7 +5030,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 209984,
       "name": "off to the ESSO",
       "url": "https://open.spotify.com/track/1l344tXmFBDrSl141i5hKL"

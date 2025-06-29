@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,805 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,819 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 25 | [No Hay Nada Mejor](https://open.spotify.com/track/5CMpOH70qypRlGJBqTxUFx) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Dinámica!](https://open.spotify.com/album/0f3n5513x4jjxDMe8IvAaT) | 2:32 |
 | 26 | [Plazos Traicioneros](https://open.spotify.com/track/1muojGmIzJcqojXmdgDtnv) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Mucho Love](https://open.spotify.com/album/5sO98xahJWzsyYiKjJCtCp) | 2:51 |
 | 27 | [El Yerberito Moderno](https://open.spotify.com/track/7cE2jC7gDbyaa3bUxN8bqe) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Las Grandes Damas](https://open.spotify.com/album/1Xop5Qv0c6W14tc728UVz8) | 2:43 |
-| 28 | [Por Si Acaso No Regreso](https://open.spotify.com/track/1n52ulXSj7E3GOjcpw1EKF) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Siempre Viviré](https://open.spotify.com/album/1AiGzUZRRNllVXmbCsawwj) | 5:47 |
-| 29 | [Espérame En El Cielo](https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 3:02 |
+| 28 | [Espérame En El Cielo](https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 3:02 |
+| 29 | [Por Si Acaso No Regreso](https://open.spotify.com/track/1n52ulXSj7E3GOjcpw1EKF) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Siempre Viviré](https://open.spotify.com/album/1AiGzUZRRNllVXmbCsawwj) | 5:47 |
 | 30 | [Celia](https://open.spotify.com/track/2ikqeL35cDP0R4Rrh0enU9) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia](https://open.spotify.com/album/5sqZcxkoyxWmuQJNFoQ13M) | 4:03 |
 | 31 | [Pa La Paloma](https://open.spotify.com/track/35NvKX5qqxt2Q9Ma5VVlZJ) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Cuba's Queen Of Rhythm](https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX) | 3:06 |
 | 32 | [En El Bajío](https://open.spotify.com/track/6aUudw1WsrAuHc9H4zyHXd) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Azúcar! Caliente](https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 49 | [No Encuentro Palabras](https://open.spotify.com/track/43T1DZEtE6edC62ojuU5Dw) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 2:36 |
 | 50 | [Juancito Trucupey](https://open.spotify.com/track/2QPG2p6h37YhkJCzceqrrP) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Las Guarachas De La Guarachera](https://open.spotify.com/album/0tEngAyPWimFTRtVrbbvGB) | 2:46 |
 
-Snapshot ID: `aFyNgAAAAAApvTsJN7y09nd7pZHW9IM+`
+Snapshot ID: `aF3fAAAAAAA+kTPf1mgSMjC1/b1fLA10`

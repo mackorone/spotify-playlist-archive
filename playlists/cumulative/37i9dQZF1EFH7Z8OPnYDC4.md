@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-355 songs - 20 hr 48 min
+356 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,7 +331,8 @@
 | [What Can You Do With A Man](https://open.spotify.com/track/7nOD3lmGJjZPLOmdigso7w) | [Original Broadway Cast "Boys From Syracuse"](https://open.spotify.com/artist/04lk9uOaB66os7drkb8GeJ) | [Boys From Syracuse](https://open.spotify.com/album/7IaTetawcdqMFZPvNEHdaI) | 3:13 | 2024-07-26 | 2025-03-04 |
 | [What Can You Do With A Man?](https://open.spotify.com/track/3tZWiMDVu8NUZo8UC8yTTV) | [Debbie Gravitte](https://open.spotify.com/artist/2JpR9gbNPF9CetFECCP7RD), [Michael McGrath](https://open.spotify.com/artist/3tzL9uNO4ATOzc31NhWi0O), [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Lorenz Hart](https://open.spotify.com/artist/0cbeImgBvjk8dtBiGln2UC) | [The Boys From Syracuse: A Musical Comedy Sensation \(1997 Original New York Recording\)](https://open.spotify.com/album/6pbEFAchBRfN5AoZNd4nyp) | 3:00 | 2025-03-03 |  |
 | [What Is a Man](https://open.spotify.com/track/5mpodYF5YDVbITmyB9DwiA) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Presenting Kenny Drew](https://open.spotify.com/album/5guNS5BbQS4HKuChj9vLDB) | 5:08 | 2024-07-26 | 2024-12-12 |
-| [What Is A Man](https://open.spotify.com/track/51PdHQxpI1WMVctMkNM3wu) | [Kenny Drew Trio](https://open.spotify.com/artist/27DOq2qA4K0yfDES0FjTf8) | [Pal Joey](https://open.spotify.com/album/7n1TDAd9pEPui46oT4jaFU) | 5:05 | 2024-12-11 |  |
+| [What Is A Man](https://open.spotify.com/track/51PdHQxpI1WMVctMkNM3wu) | [Kenny Drew Trio](https://open.spotify.com/artist/27DOq2qA4K0yfDES0FjTf8) | [Pal Joey](https://open.spotify.com/album/7n1TDAd9pEPui46oT4jaFU) | 5:05 | 2024-12-11 | 2025-06-29 |
+| [What Is A Man?](https://open.spotify.com/track/6eAqLRvZlo4dijcxo3A9h3) | [Kenny Drew Trio](https://open.spotify.com/artist/27DOq2qA4K0yfDES0FjTf8), [Wilbur Ware](https://open.spotify.com/artist/4NWHLPe11EOyvjbxXprtzK), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | [Pal Joey](https://open.spotify.com/album/2b5r7QCdMY0v825HHAaw21) | 5:08 | 2025-06-28 |  |
 | [What's the Use of Talking](https://open.spotify.com/track/6yTykOnTYKkXVTWpuA67IW) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP) | [Command Performance](https://open.spotify.com/album/542GUcilC0dJm7di1mdJpI) | 2:57 | 2024-07-26 |  |
 | [What's the Use of Wondrin](https://open.spotify.com/track/3ydlBfUGdp4pyABYKJ6itY) | [Amanda Palmer](https://open.spotify.com/artist/726Dh6A5VyDfAAQxilT6A0) | [Who Killed Amanda Palmer \(Deluxe Version\)](https://open.spotify.com/album/55MoQXHYxkNlD5lxZOjoeG) | 2:49 | 2024-07-26 |  |
 | [When The Children Are Asleep](https://open.spotify.com/track/79Suj4FDZjynTAxZy7BP83) | [Alexander Gemignani](https://open.spotify.com/artist/5rXsEGRJkz8Pxz4iZnOPHl), [Lindsay Mendez](https://open.spotify.com/artist/57G7MG8kyc16ncjh62gqO2) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 4:54 | 2024-07-26 |  |

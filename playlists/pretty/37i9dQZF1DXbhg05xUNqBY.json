@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 346996,
+  "num_followers": 346980,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 242432,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/3HnuBJfiwfMKaeunoyN4YA"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/40DGSWZJmPfFl9ckCy78Se"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 270503,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/1IXBIXdb8uDYA9sqBysVp3"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 242432,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3HnuBJfiwfMKaeunoyN4YA"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -947,26 +947,6 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Precious Gold",
-        "url": "https://open.spotify.com/album/7suFMd6EWH8KZuCHdKa02J"
-      },
-      "artists": [
-        {
-          "name": "Mission House",
-          "url": "https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C"
-        },
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "Precious Gold",
-      "url": "https://open.spotify.com/track/3PlBhFVssO6n9qfEBnQDT9"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
         "name": "Psalm 42 (Loudest Praise)",
         "url": "https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB"
       },
@@ -979,26 +959,6 @@
       "duration_ms": 355820,
       "name": "Psalm 42 (Loudest Praise)",
       "url": "https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "Prayers Filled With Praises (ambient)",
-        "url": "https://open.spotify.com/album/3BSgd7ZNA7MwVlJS8VUd5F"
-      },
-      "artists": [
-        {
-          "name": "Austin Ludwig",
-          "url": "https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL"
-        },
-        {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
-        }
-      ],
-      "duration_ms": 246043,
-      "name": "Prayers Filled With Praises - ambient",
-      "url": "https://open.spotify.com/track/6RbFD1qIQ4a08mozuzVEqd"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1031,6 +991,46 @@
       "duration_ms": 196878,
       "name": "Goodbye Yesterday",
       "url": "https://open.spotify.com/track/7taSVgFjoRGzAgjWGRYx9q"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "Precious Gold",
+        "url": "https://open.spotify.com/album/7suFMd6EWH8KZuCHdKa02J"
+      },
+      "artists": [
+        {
+          "name": "Mission House",
+          "url": "https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "Precious Gold",
+      "url": "https://open.spotify.com/track/3PlBhFVssO6n9qfEBnQDT9"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "Prayers Filled With Praises (ambient)",
+        "url": "https://open.spotify.com/album/3BSgd7ZNA7MwVlJS8VUd5F"
+      },
+      "artists": [
+        {
+          "name": "Austin Ludwig",
+          "url": "https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL"
+        },
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "duration_ms": 246043,
+      "name": "Prayers Filled With Praises - ambient",
+      "url": "https://open.spotify.com/track/6RbFD1qIQ4a08mozuzVEqd"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
+        "name": "Rushing",
+        "url": "https://open.spotify.com/album/76WewELkSUb0RDTyDnMGFS"
+      },
+      "artists": [
+        {
+          "name": "David Dunn",
+          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Rushing",
+      "url": "https://open.spotify.com/track/15eYN3rzuSK6QY8Cd1N2RL"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
         "name": "prove it",
         "url": "https://open.spotify.com/album/5iN9wvIKMNLlOw6es5Kc03"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 162666,
       "name": "prove it",
       "url": "https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "Rushing",
-        "url": "https://open.spotify.com/album/76WewELkSUb0RDTyDnMGFS"
-      },
-      "artists": [
-        {
-          "name": "David Dunn",
-          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Rushing",
-      "url": "https://open.spotify.com/track/15eYN3rzuSK6QY8Cd1N2RL"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Return",
-        "url": "https://open.spotify.com/album/5l2KQfrihfv6G3mKVORrGf"
+        "name": "Sparrows (Acoustic)",
+        "url": "https://open.spotify.com/album/0E94vgyTNf1RpZ2veOwoSo"
       },
       "artists": [
         {
-          "name": "Sarah Nathali\u00e9",
-          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
         }
       ],
-      "duration_ms": 144001,
-      "name": "Return",
-      "url": "https://open.spotify.com/track/7y4LIfIofUaaf3Oy2lPlFM"
+      "duration_ms": 208000,
+      "name": "Sparrows - Acoustic",
+      "url": "https://open.spotify.com/track/5GthXBUgkvddK66Z609MoZ"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
+        "name": "Return",
+        "url": "https://open.spotify.com/album/5l2KQfrihfv6G3mKVORrGf"
+      },
+      "artists": [
+        {
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+        }
+      ],
+      "duration_ms": 144001,
+      "name": "Return",
+      "url": "https://open.spotify.com/track/7y4LIfIofUaaf3Oy2lPlFM"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
         "name": "Sanctuary (Live from Ocean Way)",
         "url": "https://open.spotify.com/album/4IgmJsW7w50QBm7ywRHp9Z"
       },
@@ -1651,18 +1667,18 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Sparrows (Acoustic)",
-        "url": "https://open.spotify.com/album/0E94vgyTNf1RpZ2veOwoSo"
+        "name": "Life Again",
+        "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
       },
       "artists": [
         {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+          "name": "Brad & Rebekah",
+          "url": "https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Sparrows - Acoustic",
-      "url": "https://open.spotify.com/track/5GthXBUgkvddK66Z609MoZ"
+      "duration_ms": 264428,
+      "name": "Life Again",
+      "url": "https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1679,22 +1695,6 @@
       "duration_ms": 206530,
       "name": "Jesus Cries - Unplugged Version",
       "url": "https://open.spotify.com/track/1Y8mtlqG8bI4GzI0CpbLhA"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "Life Again",
-        "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
-      },
-      "artists": [
-        {
-          "name": "Brad & Rebekah",
-          "url": "https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG"
-        }
-      ],
-      "duration_ms": 264428,
-      "name": "Life Again",
-      "url": "https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1747,18 +1747,22 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "I Surrender All",
-        "url": "https://open.spotify.com/album/6mUo2Ci6XJMvCmtcbyDJ2r"
+        "name": "Closer to Heaven",
+        "url": "https://open.spotify.com/album/3t6aAyFnQDL57BHpCOKKbN"
       },
       "artists": [
         {
-          "name": "Jimmy Clifton",
-          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
+          "name": "Gelka",
+          "url": "https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF"
+        },
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
         }
       ],
-      "duration_ms": 132561,
-      "name": "I Surrender All",
-      "url": "https://open.spotify.com/track/3DaufJs6cRVQknTEcCRSdm"
+      "duration_ms": 196515,
+      "name": "Closer to Heaven",
+      "url": "https://open.spotify.com/track/7ygoUlBTpmN7TAnHT4g90U"
     }
   ],
   "unique_name": "Be Still",

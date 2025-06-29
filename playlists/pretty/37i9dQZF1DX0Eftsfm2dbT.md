@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: YENTOWN
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,478 likes - 97 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,483 likes - 97 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > songs voor je playlist! \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,094 likes - 74 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,107 likes - 74 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 2 | [In de naam van...](https://open.spotify.com/track/4YbZKK7m1meoBcCFdlab7c) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [In de naam van...](https://open.spotify.com/album/5DP7AnlHxP3NABQUGjI7bF) | 2:27 |
 | 3 | [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 |
 | 4 | [Devotion](https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Devotion](https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9) | 2:16 |
-| 5 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
+| 5 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
 | 6 | [Shake Body](https://open.spotify.com/track/1agLiWjSBYSTsKZLudOunC) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Man of the Year](https://open.spotify.com/album/5xJdeEZGQxF8KXVOlEQHj2) | 3:28 |
 | 7 | [1+1 \(Outside\)](https://open.spotify.com/track/2MPWNU7QkwmBNAoHdYLYfW) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [1+1 \(Outside\)](https://open.spotify.com/album/0W9yMPmPSIwvjKDv5jPPPJ) | 2:38 |
 | 8 | [Glock](https://open.spotify.com/track/5QhCPvsFz5wPgyY2Ma7P5G) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp) | [Glock](https://open.spotify.com/album/0BeWas5ijg35snEpWMtMrD) | 2:20 |

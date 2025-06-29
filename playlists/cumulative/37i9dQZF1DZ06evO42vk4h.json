@@ -5,6 +5,36 @@
   "tracks": [
     {
       "album": {
+        "name": "Church Grooves Evolution",
+        "url": "https://open.spotify.com/album/4759cdMebLbrNuG8AlNR0U"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+        },
+        {
+          "name": "Nokwazi",
+          "url": "https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL"
+        },
+        {
+          "name": "OX Sounds",
+          "url": "https://open.spotify.com/artist/5BfXGVKR1k7ETIh5r6Dxjy"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231578,
+      "name": "African Prayer - Radio Edit",
+      "url": "https://open.spotify.com/track/45XVXe9jL0LLN6iu45mpN0"
+    },
+    {
+      "album": {
         "name": "Afro Wave",
         "url": "https://open.spotify.com/album/1cGMWl5ce7XiIoLP3ecUqp"
       },
@@ -720,7 +750,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 383301,
       "name": "Khotha (feat. Lily Faith & X-wise)",
       "url": "https://open.spotify.com/track/74msI7k3HKE56VmM5STkt0"

@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2010. Cover: Gorillaz",
-  "num_followers": 329662,
+  "num_followers": 329823,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
+        "name": "The Suburbs",
+        "url": "https://open.spotify.com/album/7ywq1sBkcgkXsF3MduUPWi"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 279760,
+      "name": "Modern Man",
+      "url": "https://open.spotify.com/track/7z7100g9zR2d55U1kGMyCv"
+    },
+    {
+      "added_at": "2025-03-14 11:46:42",
+      "album": {
         "name": "Fields",
         "url": "https://open.spotify.com/album/7LMaY3Yah3TMepmzWWYGll"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 254826,
       "name": "Love Is All",
       "url": "https://open.spotify.com/track/2VASvSAnhsxXv6V2o97D6x"
-    },
-    {
-      "added_at": "2025-03-14 11:46:42",
-      "album": {
-        "name": "The Suburbs",
-        "url": "https://open.spotify.com/album/7ywq1sBkcgkXsF3MduUPWi"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 279760,
-      "name": "Modern Man",
-      "url": "https://open.spotify.com/track/7z7100g9zR2d55U1kGMyCv"
     },
     {
       "added_at": "2025-03-14 11:46:42",

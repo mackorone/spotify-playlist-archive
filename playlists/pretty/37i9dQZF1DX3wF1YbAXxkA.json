@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 25. ",
-  "num_followers": 112028,
+  "num_followers": 112151,
   "original_name": "EA SPORTS FC 25 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -635,26 +635,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Can\u2019t Walk Away",
-        "url": "https://open.spotify.com/album/7z4kMicNtUOGHDbj6ygnSn"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        },
-        {
-          "name": "A Little Sound",
-          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
-        }
-      ],
-      "duration_ms": 171620,
-      "name": "Can\u2019t Walk Away",
-      "url": "https://open.spotify.com/track/71SJspddigbl3qqVoMcRfJ"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Heard It Like This",
         "url": "https://open.spotify.com/album/0YPe5oH70RPB9HAGkpXmQ9"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 220461,
       "name": "Heard It Like This",
       "url": "https://open.spotify.com/track/6HtjJ09kCJbaQSrazLVEGr"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Can\u2019t Walk Away",
+        "url": "https://open.spotify.com/album/7z4kMicNtUOGHDbj6ygnSn"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        },
+        {
+          "name": "A Little Sound",
+          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+        }
+      ],
+      "duration_ms": 171620,
+      "name": "Can\u2019t Walk Away",
+      "url": "https://open.spotify.com/track/71SJspddigbl3qqVoMcRfJ"
     },
     {
       "added_at": "2024-09-16 18:33:06",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Don't Ask",
-        "url": "https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4"
-      },
-      "artists": [
-        {
-          "name": "Kaeto",
-          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
-        }
-      ],
-      "duration_ms": 245985,
-      "name": "Don't Ask",
-      "url": "https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "My Reason",
         "url": "https://open.spotify.com/album/2S4dyF1yekWz8irV4OrzlK"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 189375,
       "name": "My Reason",
       "url": "https://open.spotify.com/track/71A6PWUOjJfIzS1soAAMZM"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Don't Ask",
+        "url": "https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4"
+      },
+      "artists": [
+        {
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "duration_ms": 245985,
+      "name": "Don't Ask",
+      "url": "https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "Richer",
+        "url": "https://open.spotify.com/album/2Kk25HXJGIALi2mgrLjSCi"
+      },
+      "artists": [
+        {
+          "name": "AntsLive",
+          "url": "https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk"
+        }
+      ],
+      "duration_ms": 177481,
+      "name": "Richer",
+      "url": "https://open.spotify.com/track/32EmVz19y2Q4e4vYxGsLZ8"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "Lost In Mumbai",
         "url": "https://open.spotify.com/album/641ITlNYNF5fjZUoWM97yC"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 180480,
       "name": "Lost In Mumbai",
       "url": "https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "Richer",
-        "url": "https://open.spotify.com/album/2Kk25HXJGIALi2mgrLjSCi"
-      },
-      "artists": [
-        {
-          "name": "AntsLive",
-          "url": "https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk"
-        }
-      ],
-      "duration_ms": 177481,
-      "name": "Richer",
-      "url": "https://open.spotify.com/track/32EmVz19y2Q4e4vYxGsLZ8"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1621,22 +1621,6 @@
       "url": "https://open.spotify.com/track/7voFl01BoIdLzFRNDPjjc7"
     },
     {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "BABE",
-        "url": "https://open.spotify.com/album/1Vx91NJIhFxWNe5TLe8Hzn"
-      },
-      "artists": [
-        {
-          "name": "JUMADIBA",
-          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
-        }
-      ],
-      "duration_ms": 147920,
-      "name": "BABE",
-      "url": "https://open.spotify.com/track/5if52FGNH4mJFR2sh2PxC6"
-    },
-    {
       "added_at": "2024-10-18 20:43:05",
       "album": {
         "name": "Decimal",
@@ -1651,6 +1635,22 @@
       "duration_ms": 152000,
       "name": "Decimal",
       "url": "https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "BABE",
+        "url": "https://open.spotify.com/album/1Vx91NJIhFxWNe5TLe8Hzn"
+      },
+      "artists": [
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "duration_ms": 147920,
+      "name": "BABE",
+      "url": "https://open.spotify.com/track/5if52FGNH4mJFR2sh2PxC6"
     },
     {
       "added_at": "2024-09-16 11:00:00",

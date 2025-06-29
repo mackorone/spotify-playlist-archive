@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 214052,
+  "num_followers": 214066,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -871,22 +871,26 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
-        "name": "Faur\u00e9: Music for Piano",
-        "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
+        "name": "Sibelius: Violin Concerto; Prokofiev: Violin Concerto No. 1",
+        "url": "https://open.spotify.com/album/0fJXrHy6ehWMoxSlHuguF2"
       },
       "artists": [
         {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
         },
         {
-          "name": "Christine Croshaw",
-          "url": "https://open.spotify.com/artist/1ymHnk986duca17oMSDzwb"
+          "name": "Janine Jansen",
+          "url": "https://open.spotify.com/artist/00hfOKuZEhvKKNXmVdb1We"
+        },
+        {
+          "name": "Klaus M\u00e4kel\u00e4",
+          "url": "https://open.spotify.com/artist/6iGHnrxEjBwhHsZ65HVUiE"
         }
       ],
-      "duration_ms": 120493,
-      "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
-      "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
+      "duration_ms": 47760,
+      "name": "Water Drops, JS 216",
+      "url": "https://open.spotify.com/track/0Lmnw6Rc0lCMup7rQ2nRMY"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -903,6 +907,26 @@
       "duration_ms": 166250,
       "name": "Memory - Harpa Sessions",
       "url": "https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM"
+    },
+    {
+      "added_at": "2024-12-24 11:20:50",
+      "album": {
+        "name": "Faur\u00e9: Music for Piano",
+        "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Christine Croshaw",
+          "url": "https://open.spotify.com/artist/1ymHnk986duca17oMSDzwb"
+        }
+      ],
+      "duration_ms": 120493,
+      "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
+      "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -943,30 +967,6 @@
       "duration_ms": 376440,
       "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
       "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
-    },
-    {
-      "added_at": "2024-12-24 11:20:50",
-      "album": {
-        "name": "Sibelius: Violin Concerto; Prokofiev: Violin Concerto No. 1",
-        "url": "https://open.spotify.com/album/0fJXrHy6ehWMoxSlHuguF2"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Janine Jansen",
-          "url": "https://open.spotify.com/artist/00hfOKuZEhvKKNXmVdb1We"
-        },
-        {
-          "name": "Klaus M\u00e4kel\u00e4",
-          "url": "https://open.spotify.com/artist/6iGHnrxEjBwhHsZ65HVUiE"
-        }
-      ],
-      "duration_ms": 47760,
-      "name": "Water Drops, JS 216",
-      "url": "https://open.spotify.com/track/0Lmnw6Rc0lCMup7rQ2nRMY"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -1131,30 +1131,6 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
-        "name": "Piano Recital: Raekallio, Matti - Mozart, W.A. / Gluck, C.W. / Wagner, R. / Liszt, F. / Busoni, F. (Transcriptions - A Night at the Opera)",
-        "url": "https://open.spotify.com/album/6XpiHz1VSNQOR18Nj4pH0J"
-      },
-      "artists": [
-        {
-          "name": "Christoph Willibald Gluck",
-          "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
-        },
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Matti Raekallio",
-          "url": "https://open.spotify.com/artist/0BP5X6U7xuiSDl0zpr9JQg"
-        }
-      ],
-      "duration_ms": 244333,
-      "name": "Iphigenie en Aulide, Act II: Gavotte (arr. J. Brahms)",
-      "url": "https://open.spotify.com/track/5a6LNnUyLmQ0kPo93qpKJk"
-    },
-    {
-      "added_at": "2024-12-24 11:20:50",
-      "album": {
         "name": "Saint-Sa\u00ebns: Symphonic Poems",
         "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
       },
@@ -1175,6 +1151,30 @@
       "duration_ms": 376560,
       "name": "Sarabande et rigaudon, Op. 93: Sarabande",
       "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
+    },
+    {
+      "added_at": "2024-12-24 11:20:50",
+      "album": {
+        "name": "Piano Recital: Raekallio, Matti - Mozart, W.A. / Gluck, C.W. / Wagner, R. / Liszt, F. / Busoni, F. (Transcriptions - A Night at the Opera)",
+        "url": "https://open.spotify.com/album/6XpiHz1VSNQOR18Nj4pH0J"
+      },
+      "artists": [
+        {
+          "name": "Christoph Willibald Gluck",
+          "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
+        },
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Matti Raekallio",
+          "url": "https://open.spotify.com/artist/0BP5X6U7xuiSDl0zpr9JQg"
+        }
+      ],
+      "duration_ms": 244333,
+      "name": "Iphigenie en Aulide, Act II: Gavotte (arr. J. Brahms)",
+      "url": "https://open.spotify.com/track/5a6LNnUyLmQ0kPo93qpKJk"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
-        "name": "Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo (Elaborations by See Siang Wong)",
-        "url": "https://open.spotify.com/album/0nBAiJGtx3LFsvjGxyPnUK"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "See Siang Wong",
-          "url": "https://open.spotify.com/artist/21NJ5Fe4kSV3uACHwyN271"
-        }
-      ],
-      "duration_ms": 156080,
-      "name": "Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo (Elaborations by See Siang Wong)",
-      "url": "https://open.spotify.com/track/2DiUfuknJX3bTHw5zgyTnu"
-    },
-    {
-      "added_at": "2024-12-24 11:20:50",
-      "album": {
         "name": "Mozart: Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
         "url": "https://open.spotify.com/album/5GymNwQR1TLH6HoYcuLAeT"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 425466,
       "name": "Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
       "url": "https://open.spotify.com/track/39Msge9Ii3X14GUuoAjdfk"
+    },
+    {
+      "added_at": "2024-12-24 11:20:50",
+      "album": {
+        "name": "Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo (Elaborations by See Siang Wong)",
+        "url": "https://open.spotify.com/album/0nBAiJGtx3LFsvjGxyPnUK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "See Siang Wong",
+          "url": "https://open.spotify.com/artist/21NJ5Fe4kSV3uACHwyN271"
+        }
+      ],
+      "duration_ms": 156080,
+      "name": "Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo (Elaborations by See Siang Wong)",
+      "url": "https://open.spotify.com/track/2DiUfuknJX3bTHw5zgyTnu"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -1539,8 +1539,8 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
-        "name": "Mendelssohn: Piano Works",
-        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
+        "name": "Mendelssohn",
+        "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
       },
       "artists": [
         {
@@ -1548,13 +1548,13 @@
           "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
         },
         {
-          "name": "Doomin Kim",
-          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
+          "name": "Philippe Cassard",
+          "url": "https://open.spotify.com/artist/5uYFQGCwvdTgxXz9IgZ64h"
         }
       ],
-      "duration_ms": 253920,
-      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
-      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
+      "duration_ms": 169653,
+      "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
+      "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -1643,8 +1643,8 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
-        "name": "Mendelssohn",
-        "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
+        "name": "Mendelssohn: Piano Works",
+        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
       },
       "artists": [
         {
@@ -1652,13 +1652,13 @@
           "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
         },
         {
-          "name": "Philippe Cassard",
-          "url": "https://open.spotify.com/artist/5uYFQGCwvdTgxXz9IgZ64h"
+          "name": "Doomin Kim",
+          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
         }
       ],
-      "duration_ms": 169653,
-      "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
-      "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
+      "duration_ms": 253920,
+      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
+      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -2215,26 +2215,6 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
-        "name": "El Bohemio",
-        "url": "https://open.spotify.com/album/5znYPBoDbkv2f5TKCFHzro"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Thibaut Garc\u00eda",
-          "url": "https://open.spotify.com/artist/6ZgXLDSjEsWxgYP8MeLS1t"
-        }
-      ],
-      "duration_ms": 358640,
-      "name": "Beethoven / Arr. Barrios Mangor\u00e9: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
-      "url": "https://open.spotify.com/track/5j1fjs2Ooo0Rb1LQqwgUrO"
-    },
-    {
-      "added_at": "2024-12-24 11:20:50",
-      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/2iKeXCLFndoxnXqpBEVbmd"
       },
@@ -2251,6 +2231,26 @@
       "duration_ms": 286412,
       "name": "In Paradisum",
       "url": "https://open.spotify.com/track/57fN24C59MczUrUj0W7ijr"
+    },
+    {
+      "added_at": "2024-12-24 11:20:50",
+      "album": {
+        "name": "El Bohemio",
+        "url": "https://open.spotify.com/album/5znYPBoDbkv2f5TKCFHzro"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Thibaut Garc\u00eda",
+          "url": "https://open.spotify.com/artist/6ZgXLDSjEsWxgYP8MeLS1t"
+        }
+      ],
+      "duration_ms": 358640,
+      "name": "Beethoven / Arr. Barrios Mangor\u00e9: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
+      "url": "https://open.spotify.com/track/5j1fjs2Ooo0Rb1LQqwgUrO"
     },
     {
       "added_at": "2024-12-24 11:20:50",

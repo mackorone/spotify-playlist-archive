@@ -5638,7 +5638,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -13346,7 +13346,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 208308,
       "name": "Como Un P\u00e1jaro",
       "url": "https://open.spotify.com/track/0F1OOqdNXZctaw0y4QVWJB"
@@ -23559,6 +23559,24 @@
     },
     {
       "album": {
+        "name": "Redenci\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2025-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190431,
+      "name": "Frecuencia",
+      "url": "https://open.spotify.com/track/56bPsRfOKla3bGGmVz1uk4"
+    },
+    {
+      "album": {
         "name": "Dance Fever",
         "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
       },
@@ -23610,7 +23628,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "Freed from Desire",
       "url": "https://open.spotify.com/track/3Ucr6hQQuY8cZ0UqXV8uO2"
@@ -23636,7 +23654,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 213394,
       "name": "Freed From Desire - prod. Molella, Phil Jay",
       "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
@@ -27104,7 +27122,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 145696,
       "name": "Hit the Ground",
       "url": "https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa"
@@ -27828,7 +27846,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 148663,
       "name": "Huir",
       "url": "https://open.spotify.com/track/4F4bjPeMNJDrGK1FJW215W"
@@ -42262,7 +42280,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 209000,
       "name": "Nice To Each Other",
       "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
@@ -43560,7 +43578,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 295585,
       "name": "NOSTALGIA",
       "url": "https://open.spotify.com/track/4hG1BxKOAWh8MwFCpTI29i"
@@ -47764,7 +47782,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 204900,
       "name": "piel",
       "url": "https://open.spotify.com/track/7Jr1NHeq1sBOcEEdpx9cuq"
@@ -52634,6 +52652,28 @@
       "duration_ms": 185880,
       "name": "SACA Y PON",
       "url": "https://open.spotify.com/track/3MPpKms5lIjULfNzZlcD32"
+    },
+    {
+      "album": {
+        "name": "SACA Y PON",
+        "url": "https://open.spotify.com/album/6OPgf3wd960fgPe5UtQgju"
+      },
+      "artists": [
+        {
+          "name": "Matt RR",
+          "url": "https://open.spotify.com/artist/6kqZRk5XMf15gvhUeIK51i"
+        },
+        {
+          "name": "Brayy Music",
+          "url": "https://open.spotify.com/artist/5fUGhPWKsteeoQfBWuIouM"
+        }
+      ],
+      "date_added": "2025-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172339,
+      "name": "SACA Y PON",
+      "url": "https://open.spotify.com/track/4vfbNOD8n9zITRo6KHHRPV"
     },
     {
       "album": {
@@ -63098,7 +63138,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 165790,
       "name": "Triple Lavada",
       "url": "https://open.spotify.com/track/6uroNiDEDd0xFLiri0aQNk"
@@ -65798,7 +65838,7 @@
       },
       "artists": [
         {
-          "name": "Mari Froes",
+          "name": "Mariana Froes",
           "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
         },
         {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 来日公演『2025 LE SSERAFIM TOUR ‘EASY CRAZY HOT’ IN JAPAN』 のセットリストをMCとあわせて公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,875 likes - 37 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,860 likes - 37 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

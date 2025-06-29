@@ -1681,6 +1681,24 @@
     },
     {
       "album": {
+        "name": "mountain of a memory",
+        "url": "https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145134,
+      "name": "mountain of a memory",
+      "url": "https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7"
+    },
+    {
+      "album": {
         "name": "Mountainsong",
         "url": "https://open.spotify.com/album/1WZ9xo6JWHuk9r9lM0Bz9J"
       },
@@ -2688,7 +2706,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 182987,
       "name": "Thoughtless Man",
       "url": "https://open.spotify.com/track/2XHr4X6ykkZmv2dhK94hJd"

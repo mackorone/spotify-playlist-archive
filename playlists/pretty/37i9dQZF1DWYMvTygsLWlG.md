@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 
 > Some of the worlds most beautiful love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,155,461 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,155,598 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,13 +97,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 | 87 | [Say You, Say Me](https://open.spotify.com/track/1Ih6wTuQems9OkYTzcZdhM) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [The Definitive Collection](https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q) | 4:02 |
 | 88 | [The Way You Look Tonight](https://open.spotify.com/track/0shGCs5AkhwJIgUb0SSz2B) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra](https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn) | 3:21 |
 | 89 | [Tonight I Celebrate My Love](https://open.spotify.com/track/622nEHkm52E6ijVShcea9f) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [The Peabo Bryson Collection](https://open.spotify.com/album/2PZbzFwkxnZ3vfOeB1zoIZ) | 3:31 |
-| 90 | [When a Man Loves a Woman](https://open.spotify.com/track/1rLYWSXPrJGWnlGlSwPEia) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The Essential Michael Bolton](https://open.spotify.com/album/5Vv7ZpPJK3g53DqeDl0Ijv) | 3:50 |
-| 91 | [Lovin' You](https://open.spotify.com/track/4twhYPDyCP6ICeW3TtQVxP) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Capitol Gold: The Best Of Minnie Riperton](https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL) | 3:23 |
+| 90 | [Lovin' You](https://open.spotify.com/track/4twhYPDyCP6ICeW3TtQVxP) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Capitol Gold: The Best Of Minnie Riperton](https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL) | 3:23 |
+| 91 | [When a Man Loves a Woman](https://open.spotify.com/track/1rLYWSXPrJGWnlGlSwPEia) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The Essential Michael Bolton](https://open.spotify.com/album/5Vv7ZpPJK3g53DqeDl0Ijv) | 3:50 |
 | 92 | [The Actor](https://open.spotify.com/track/7prFpeH9fXA7cL6ZZWLePs) | [Michael Learns To Rock](https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe) | [Michael Learns To Rock \(1991\)](https://open.spotify.com/album/4GxVVO2T9r3pf0WzseGyYR) | 4:33 |
 | 93 | [For Your Eyes Only](https://open.spotify.com/track/7kd2X1tJCWrmysEeE8jiAW) | [Sheena Easton](https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s) | [The Gold Collection](https://open.spotify.com/album/4oDHj8m5ksE08WWlNgcQ9Q) | 3:04 |
 | 94 | [No More Lonely Nights](https://open.spotify.com/track/4ybDW0xfRBCPwsjwFOUzZW) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Wingspan](https://open.spotify.com/album/0gOV46yCRVgdehR1SnFtuy) | 4:47 |
-| 95 | [How Am I Supposed to Live Without You](https://open.spotify.com/track/19us48grixRwQkw1oRCFbp) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The Essential Michael Bolton](https://open.spotify.com/album/5Vv7ZpPJK3g53DqeDl0Ijv) | 4:13 |
-| 96 | [Kiss from a Rose](https://open.spotify.com/track/0z5E34e7ZT3XKMYQNXh6tH) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Best 1991 \- 2004](https://open.spotify.com/album/3Fb7L1abcJbTt729nCq2eZ) | 4:48 |
+| 95 | [Kiss from a Rose](https://open.spotify.com/track/0z5E34e7ZT3XKMYQNXh6tH) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Best 1991 \- 2004](https://open.spotify.com/album/3Fb7L1abcJbTt729nCq2eZ) | 4:48 |
+| 96 | [How Am I Supposed to Live Without You](https://open.spotify.com/track/19us48grixRwQkw1oRCFbp) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The Essential Michael Bolton](https://open.spotify.com/album/5Vv7ZpPJK3g53DqeDl0Ijv) | 4:13 |
 | 97 | [Fields Of Gold](https://open.spotify.com/track/1VI7sH93UcY0stZYVqvMoH) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Best Of 25 Years](https://open.spotify.com/album/6djIZD2d3HfAUuqfGF86Vb) | 3:40 |
 | 98 | [The Rose](https://open.spotify.com/track/5iUzEn2QzBW0KEWNQO1KQC) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Jackpot! The Best Bette](https://open.spotify.com/album/7fMaW2J2rb9EdcHG2TMZup) | 3:35 |
 | 99 | [Have I Told You Lately \- 2008 Remaster](https://open.spotify.com/track/3S0pLtHQWFYCmNE9byQcWS) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Vagabond Heart](https://open.spotify.com/album/757sdXtzO7Csu93nrCGYeo) | 4:01 |

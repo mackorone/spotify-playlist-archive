@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7U7olwK5aZ.md) - [plain]
 
 > Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2025 official playlist\. Cover: Jonas Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,843 likes - 28 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,840 likes - 28 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7U7olwK5aZ.md) - [plain]
 | 24 | [Ghost Story](https://open.spotify.com/track/3MpZM408Ly3jq76tF9OmZu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:01 |
 | 25 | [Honey](https://open.spotify.com/track/5lIjPRiw54GlojeQylBPx9) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Honey](https://open.spotify.com/album/2tgMULeDaymA173kWVgCZS) | 3:50 |
 | 26 | [Paradise](https://open.spotify.com/track/21tlBWJr3rsQ5cQQtHyGUo) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [The World Changed On Me](https://open.spotify.com/album/11ftxdclHX02L9kfuzFG60) | 2:27 |
-| 27 | [Waterfalls](https://open.spotify.com/track/4wJ8ohShAABTiQoEukLeKO) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [CrazySexyCool \(30th Anniversary Edition\)](https://open.spotify.com/album/1ohF0hXuHF9v1jlvSGZ7zx) | 4:40 |
-| 28 | [Freaks](https://open.spotify.com/track/4OSKEMkdZkjaHtW5FEbCE6) | [Doug E\. Fresh](https://open.spotify.com/artist/7xN8vFwslE67EC3DhgB9Ip), [Vicious](https://open.spotify.com/artist/2N6miqLGY0TbLGcG42naDC) | [Play](https://open.spotify.com/album/5vZXqBKsrio0mdQvQHMHmE) | 3:09 |
+| 27 | [Freaks](https://open.spotify.com/track/4OSKEMkdZkjaHtW5FEbCE6) | [Doug E\. Fresh](https://open.spotify.com/artist/7xN8vFwslE67EC3DhgB9Ip), [Vicious](https://open.spotify.com/artist/2N6miqLGY0TbLGcG42naDC) | [Play](https://open.spotify.com/album/5vZXqBKsrio0mdQvQHMHmE) | 3:09 |
+| 28 | [Waterfalls](https://open.spotify.com/track/4wJ8ohShAABTiQoEukLeKO) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [CrazySexyCool \(30th Anniversary Edition\)](https://open.spotify.com/album/1ohF0hXuHF9v1jlvSGZ7zx) | 4:40 |
 
 Snapshot ID: `Z2WrkQAAAABzSRPvovZ4/TXu1VXm/P75`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop! Nieuw: Kaya \(cover\), Nielson en Danique
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,693 likes - 70 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,683 likes - 70 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 4 | [Ze Komt Uit Amsterdam](https://open.spotify.com/track/3JzuluW7MzrmMkNpfZwtyp) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Ze Komt Uit Amsterdam](https://open.spotify.com/album/5YXzV37JGcqHOMlg3SFM1F) | 2:32 |
 | 5 | [oeps](https://open.spotify.com/track/4w7Zhg034GDeMYnpOoZIuu) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [lieve monsters](https://open.spotify.com/album/58hG8DHeDtvVE2IrKq7IOM) | 3:20 |
 | 6 | [Déjà Vu](https://open.spotify.com/track/1OkFX11LjOELGogZyTHVVa) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Déjà Vu](https://open.spotify.com/album/5HTYaaS1l5AN84J3MN42Oc) | 2:45 |
-| 7 | [Huis Van Zwart en Rood](https://open.spotify.com/track/01ePjjnb3JX85NDzzt4aWs) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [Huis Van Zwart en Rood / Cederhout](https://open.spotify.com/album/0u3Aq3qOZpLFa9zU275XBe) | 2:16 |
+| 7 | [Huis van Zwart en Rood](https://open.spotify.com/track/01ePjjnb3JX85NDzzt4aWs) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [Huis van Zwart en Rood / Cederhout](https://open.spotify.com/album/0u3Aq3qOZpLFa9zU275XBe) | 2:16 |
 | 8 | [Wat Ik Doe met Jou](https://open.spotify.com/track/2PyRjrxG8T8jG8KlnMCz3n) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [IK](https://open.spotify.com/album/7Mb79TcTVswCowAorjNWZu) | 2:08 |
 | 9 | [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 |
 | 10 | [Bliksem](https://open.spotify.com/track/6YleSlumFybB9EbuNb39LJ) | [Stefania](https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ) | [Bliksem](https://open.spotify.com/album/5aQDXTIBffjggGyXUUeS01) | 2:22 |

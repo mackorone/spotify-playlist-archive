@@ -4,7 +4,7 @@
 
 > als het woud een playlist zou zijn
 
-162 songs - 9 hr 40 min
+163 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 | 2025-02-27 |  |
 | [Moth Song](https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Moth Song](https://open.spotify.com/album/15tDiSE6EpMxDxUDkRXKwN) | 5:03 | 2025-06-26 |  |
 | [Mount Fuji](https://open.spotify.com/track/1sY4WwCZYh3nkLnojWRk8h) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [How Do We Go Back To Being Normal?](https://open.spotify.com/album/7t77eQdswzlXeKdAhIeJFg) | 3:30 | 2025-02-20 | 2025-03-01 |
+| [mountain of a memory](https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [mountain of a memory](https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT) | 2:25 | 2025-06-26 |  |
 | [Mountainsong](https://open.spotify.com/track/03ErdYcB9JbUBZCRYdVrg9) | [Catbug](https://open.spotify.com/artist/1JaN6kQQwn2LiP0VBH8Zpj) | [Mountainsong](https://open.spotify.com/album/1WZ9xo6JWHuk9r9lM0Bz9J) | 6:20 | 2024-07-18 | 2025-01-24 |
 | [Much Ado About Nothing](https://open.spotify.com/track/0nuneId81O8XGxUjSCL316) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/5O9TGAJ6Opoya7KCBKKQUA) | 3:49 | 2025-01-23 |  |
 | [My Deliverance](https://open.spotify.com/track/3gr32BoWQHCEVfDFCXSa7O) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Dust Chaser \(Deluxe Edition\)](https://open.spotify.com/album/29lQvTxeVSN6epZyHvk8HE) | 3:09 | 2025-01-23 | 2025-02-18 |
@@ -154,7 +155,7 @@
 | [These Days](https://open.spotify.com/track/6ta4ggAGxnMLHNdkiu9jKn) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [These Days](https://open.spotify.com/album/3PsVSHeyak7iTgtRONGfQl) | 2:57 | 2025-01-23 |  |
 | [Things That Don’t Exist \(feat\. Zachary Knowles\)](https://open.spotify.com/track/69qQyuhXYMJLOZPVOAEFaT) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv), [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [Things That Don’t Exist \(feat\. Zachary Knowles\)](https://open.spotify.com/album/0Z5SZepPMUB2OlzrvTDepR) | 2:48 | 2024-06-27 | 2024-09-20 |
 | [This House](https://open.spotify.com/track/5yJjTDwPGrUvpZ14FlzUUy) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [This House](https://open.spotify.com/album/3o8waJc4zXAfFqpjJoSapW) | 2:39 | 2025-02-13 | 2025-05-16 |
-| [Thoughtless Man](https://open.spotify.com/track/2XHr4X6ykkZmv2dhK94hJd) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [How Do We Go Back To Being Normal?](https://open.spotify.com/album/7t77eQdswzlXeKdAhIeJFg) | 3:02 | 2025-01-23 |  |
+| [Thoughtless Man](https://open.spotify.com/track/2XHr4X6ykkZmv2dhK94hJd) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [How Do We Go Back To Being Normal?](https://open.spotify.com/album/7t77eQdswzlXeKdAhIeJFg) | 3:02 | 2025-01-23 | 2025-06-29 |
 | [Too Fast](https://open.spotify.com/track/68doYcCRB3BeHpVYwQcEDk) | [Mooneye](https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL) | [Come with Me and Hide](https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY) | 3:58 | 2024-06-27 |  |
 | [Toy Heart](https://open.spotify.com/track/0y9CKIUQGBPdeTU3Mjo389) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [Toy Heart](https://open.spotify.com/album/0af3f7ejJ7Y3nsLhVnvc9I) | 3:17 | 2025-06-05 |  |
 | [Turn Right](https://open.spotify.com/track/3lnyM5SSjbnz3V7HzdULqy) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [The Epic Tale of the Stranded Man: Expanded Edition](https://open.spotify.com/album/0OUK0k2WX8CceF5Bgd6oCH) | 2:31 | 2024-06-27 | 2024-10-04 |

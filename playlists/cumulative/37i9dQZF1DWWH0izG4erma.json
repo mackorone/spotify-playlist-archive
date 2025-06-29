@@ -3363,6 +3363,24 @@
     },
     {
       "album": {
+        "name": "I HATE ME TOO",
+        "url": "https://open.spotify.com/album/7mhU3F2Qk5PryU0KHv9lqy"
+      },
+      "artists": [
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185569,
+      "name": "I HATE ME TOO",
+      "url": "https://open.spotify.com/track/5rgZbwCHPZKP32NG0g66ar"
+    },
+    {
+      "album": {
         "name": "I Mean It",
         "url": "https://open.spotify.com/album/3qzY6amUI4j16xFsZM4WN0"
       },
@@ -3396,7 +3414,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 429488,
       "name": "I Need You (feat. Ashley Monroe)",
       "url": "https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u"

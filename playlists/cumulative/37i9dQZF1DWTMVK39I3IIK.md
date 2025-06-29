@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸   Mekdes
 
-247 songs - 12 hr 41 min
+248 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Noget For Nogen](https://open.spotify.com/track/6nzQ4R4i3g70M0ZKo8qaiT) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Noget For Nogen](https://open.spotify.com/album/4cTBw8cEyxgshlZz5SO447) | 3:24 | 2024-06-27 | 2024-08-14 |
 | [Ny Og Næ](https://open.spotify.com/track/3Qrb34pY41bEv1UaFy9li9) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Ny Og Næ](https://open.spotify.com/album/10LVG1XLuoTivi3WYvPqkD) | 3:11 | 2024-06-27 | 2024-09-24 |
 | [Når Du Rører Ved Mig](https://open.spotify.com/track/1KaWWvD6AcG3Hyyr9jyLhf) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Når Du Rører Ved Mig](https://open.spotify.com/album/4QF32PL3bB5cAzY6RFzeLg) | 3:37 | 2024-06-27 | 2024-11-20 |
-| [Nærmest en ven](https://open.spotify.com/track/0InIYe8cvUQ5TWopZKBsgO) | [Blaue Blume](https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh) | [Regnvåde sale](https://open.spotify.com/album/39MIeSjYinvOiTFxmURm0h) | 3:16 | 2025-01-30 |  |
+| [Nærmest en ven](https://open.spotify.com/track/0InIYe8cvUQ5TWopZKBsgO) | [Blaue Blume](https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh) | [Regnvåde sale](https://open.spotify.com/album/39MIeSjYinvOiTFxmURm0h) | 3:16 | 2025-01-30 | 2025-06-29 |
 | [NØGEN \(feat\. Lord Siva\)](https://open.spotify.com/track/79WivSc02fx7ocg2Enl0ED) | [Kris](https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw), [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [ALTERDETSAMME](https://open.spotify.com/album/0l7YdPNKdK5cKwqrfb7ovI) | 2:26 | 2025-06-19 | 2025-06-28 |
 | [Oktobernat](https://open.spotify.com/track/1Ibke8wIUBCJbHdPjsaUDc) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Oktobernat](https://open.spotify.com/album/6SW2DY4K9Ull8aEDinXEqV) | 2:55 | 2024-10-18 |  |
 | [Organs](https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Organs](https://open.spotify.com/album/76u3zEekWcNipqChvHjTkc) | 4:47 | 2024-08-23 | 2024-09-20 |
@@ -184,6 +184,7 @@
 | [Pæn](https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Pæn](https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY) | 3:10 | 2025-05-15 |  |
 | [Regn](https://open.spotify.com/track/2fPIqRfy3iZIFwycVk8J90) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Regn](https://open.spotify.com/album/5xRpLE2g1CpQStr3AeNYHl) | 3:42 | 2024-06-27 | 2025-03-28 |
 | [Regn På Min Kind](https://open.spotify.com/track/5mcIyGl60e8Y1pk4hx8l6S) | [BUKURU](https://open.spotify.com/artist/3ihqaAb6mlqx7JYCgo8mSN) | [Regn På Min Kind](https://open.spotify.com/album/6xscW4MSCl4g87YaQyd8BH) | 2:49 | 2025-03-27 | 2025-05-23 |
+| [Run](https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Run](https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM) | 3:36 | 2025-06-26 |  |
 | [Samme side](https://open.spotify.com/track/5lZny8ZmRtXueq7D3LTgb5) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Samme side](https://open.spotify.com/album/4JvKstwK5cNoLJtqVnhp0P) | 2:34 | 2025-01-23 | 2025-05-30 |
 | [Sandheden er..](https://open.spotify.com/track/1jINWYv94BOSm6oLu3rNbt) | [Sara Vita](https://open.spotify.com/artist/0NL4k9oswvKfTgIYxoRQG4) | [Sandheden er..](https://open.spotify.com/album/5wXLWxfRnB9EbgZyqpqLFQ) | 2:48 | 2025-05-22 | 2025-05-30 |
 | [Sang Til Min Far](https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Daylight](https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX) | 3:02 | 2024-10-24 | 2025-05-18 |

@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-130 songs - 7 hr 17 min
+131 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [COMPA BLADI \- En Vivo](https://open.spotify.com/track/0TihV9VrLmGM8HlG0eXpno) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 3:03 | 2025-02-28 |  |
 | [COMPA BLADI \- En Vivo](https://open.spotify.com/track/17P1GVYuIElGQGZKbmr2nY) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/0NzRPrgHKt6Av8Pap9H5hW) | 3:03 | 2025-03-05 | 2025-03-26 |
 | [Con la U y la P](https://open.spotify.com/track/2zOPjlGlARwM0t5YEHPwf4) | [Geovany Montaño](https://open.spotify.com/artist/3pbmkTrI87Q1z4n6cr009F), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Chris Hermosillo](https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B) | [Con la U y la P](https://open.spotify.com/album/4uuRnTWV3KUzdZBQOZSb5t) | 3:16 | 2024-01-29 |  |
+| [CONFLEIS](https://open.spotify.com/track/3D4pTiY8LcdB5WWnTdKwhC) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX) | [CONFLEIS](https://open.spotify.com/album/7aS2h4Jbdpn6vVTafxRuu6) | 3:06 | 2025-06-29 |  |
 | [cruel mujer](https://open.spotify.com/track/1QO6U7ER10mwMOWDW6lvvi) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8) | 2:54 | 2024-09-09 | 2024-09-20 |
 | [Cuando Te Acuerdes De Mi \- En Vivo](https://open.spotify.com/track/1jB5ud2IaMBnUGuOzqpOH9) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CON LA COCHI \[VOL II \(EN VIVO\)\]](https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx) | 3:40 | 2025-01-12 | 2025-06-04 |
 | [Culiacan Se Estremecia](https://open.spotify.com/track/5e3qwCkgUwpxsw70k5N2Xt) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [No Te Awuites Solo Son Unos Dop3kidz$](https://open.spotify.com/album/4Mmh5kRGsbQPyRBC5B4GHH) | 4:02 | 2024-08-25 |  |
@@ -37,7 +38,7 @@
 | [DOCTOR DEL BARRIO](https://open.spotify.com/track/0nML7ShqQh6oxvVE7RZZBo) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 2:21 | 2024-01-29 | 2025-01-12 |
 | [Dos Días \- En Vivo](https://open.spotify.com/track/6oPw0awpdxjcWicr2r9Nmv) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CON LA COCHI \[VOL II \(EN VIVO\)\]](https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx) | 2:23 | 2025-01-12 | 2025-06-28 |
 | [Duele](https://open.spotify.com/track/48ZdF2LKw0IsgwdDaFpUsX) | [Rigo V](https://open.spotify.com/artist/2OrdbIVrQKIvjm90oSGi7L), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Duele](https://open.spotify.com/album/0eLv2WcLX7SmQULAp1MKhJ) | 3:07 | 2024-01-29 | 2024-02-10 |
-| [Déjame Llevarte](https://open.spotify.com/track/0UJs00Ps6vf3SuI84DjufP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Mariachi Tumbado](https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU) | 2:42 | 2024-01-29 |  |
+| [Déjame Llevarte](https://open.spotify.com/track/0UJs00Ps6vf3SuI84DjufP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Mariachi Tumbado](https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU) | 2:42 | 2024-01-29 | 2025-06-29 |
 | [déjame vivir](https://open.spotify.com/track/087sEV24d6VtERT2aiW9T2) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8) | 3:27 | 2024-01-29 | 2024-06-03 |
 | [El 0\-10](https://open.spotify.com/track/5BYCIO0bie4rbtRp3QpeXG) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [El 0\-10](https://open.spotify.com/album/3InQJ7xM3XPE7BzMizPgW6) | 2:42 | 2024-01-29 |  |
 | [EL AMOR NUNCA SE VENDE \- En Vivo](https://open.spotify.com/track/0FC0wOPpXiRT4Vu3tk8QAH) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [EL AMOR NUNCA SE VENDE \(En Vivo\)](https://open.spotify.com/album/2dxsZvPEjOITBYHa91huZm) | 3:27 | 2025-02-09 | 2025-04-09 |

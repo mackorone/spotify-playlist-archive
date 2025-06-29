@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Myke Towers, Abraham Mateo, Cris Mj, Anuel AA, Arcángel & María Becerra y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,080 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,164 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 15 | [Viernes](https://open.spotify.com/track/2tx7mEfR9lXzTi2Sbags7T) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Viernes](https://open.spotify.com/album/4r1Zyd80QdexPl8wan52t3) | 2:46 |
 | 16 | [Tengo un Plan](https://open.spotify.com/track/291J5YsCZYlJE15ibhpbSX) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Tengo un Plan](https://open.spotify.com/album/29Su5iAUBf8FKk8WtqcbA0) | 2:31 |
 | 17 | [SaSa](https://open.spotify.com/track/79ETUBpfw12j3MTdYLteyx) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [SaSa](https://open.spotify.com/album/1A9XILpF2pE09N6zEDkofF) | 3:30 |
-| 18 | [Bandido \(feat\. Three Seven Music & The Chosen Few\)](https://open.spotify.com/track/0TNz4nOKNNy0Dc7aRDyzNp) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Three Seven Music](https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb), [The Chosen Few](https://open.spotify.com/artist/2HOZmbv4saI1WELN907XSN) | [Bandido \(feat\. Three Seven Music & The Chosen Few\)](https://open.spotify.com/album/4BUEavk2XlFCnLZqseQISb) | 2:31 |
+| 18 | [Bandido](https://open.spotify.com/track/0TNz4nOKNNy0Dc7aRDyzNp) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Three Seven Music](https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb), [The Chosen Few](https://open.spotify.com/artist/2HOZmbv4saI1WELN907XSN) | [Bandido](https://open.spotify.com/album/4BUEavk2XlFCnLZqseQISb) | 2:31 |
 | 19 | [STELL4RBLADE](https://open.spotify.com/track/74ODMpM4232uiR519wKQkn) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [EL PLUGGG 3 OVA 1](https://open.spotify.com/album/5KVzwReQDpkZ4OTq0kLZwt) | 3:01 |
 | 20 | [El Tiburón](https://open.spotify.com/track/6OCjQcsfNwnw6k2xoNi5QZ) | [Cocco Lexa](https://open.spotify.com/artist/5WMoWNq8DuL9pob4qu7mau), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [El Tiburón](https://open.spotify.com/album/1DBwWMdxPhZ3rMXudjHLGo) | 2:08 |
 | 21 | [Sube el Nivel del Mal](https://open.spotify.com/track/3FLW4dyKNfFgRr6HYwR1U3) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Sube el Nivel del Mal](https://open.spotify.com/album/7Hn0DQzkDSvN8i0WEjtY6O) | 3:01 |

@@ -1,6 +1,6 @@
 {
   "description": "All of the newest country songs in one playlist! Featuring Cole Swindell, BigXthaPlug with Shaboozey, Diplo with Bailey Zimmerman and more.",
-  "num_followers": 355692,
+  "num_followers": 355900,
   "original_name": "All New Country",
   "owner": {
     "name": "Spotify",
@@ -83,17 +83,21 @@
     {
       "added_at": "2025-06-27 04:25:01",
       "album": {
-        "name": "Never Met Anyone Like You",
+        "name": "Never Met Anyone Like You (feat. HARDY)",
         "url": "https://open.spotify.com/album/07v7okIuI77b0Y2twqEGDS"
       },
       "artists": [
         {
           "name": "Ella Langley",
           "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
       "duration_ms": 168417,
-      "name": "Never Met Anyone Like You",
+      "name": "Never Met Anyone Like You (feat. HARDY)",
       "url": "https://open.spotify.com/track/4LXL1lRpybr8s4x0vkPQm5"
     },
     {
@@ -864,7 +868,7 @@
           "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
         }
       ],
-      "duration_ms": 182168,
+      "duration_ms": 180122,
       "name": "Here For The Party",
       "url": "https://open.spotify.com/track/3strvt09iL11UykVxIi9RD"
     },

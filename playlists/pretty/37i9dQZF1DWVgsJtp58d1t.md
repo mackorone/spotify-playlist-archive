@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > Click into the feed to learn about what's going on in the world of Afro House\. Cover: <a href="spotify:artist:0WHbjg8hVel1R9kq5794HX">Shimza</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,094,077 likes - 210 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,094,058 likes - 210 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

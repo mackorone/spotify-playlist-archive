@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Lewis Capaldi, Nina Chuba, Lorde, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,722 likes - 98 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,730 likes - 98 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

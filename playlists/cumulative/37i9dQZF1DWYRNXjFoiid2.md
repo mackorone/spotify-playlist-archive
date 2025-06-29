@@ -4,7 +4,7 @@
 
 > Pop to fuel your gaming\. Cover: KATSEYE
 
-429 songs - 21 hr 6 min
+430 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,7 +401,7 @@
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-16 |  |
 | [Trying](https://open.spotify.com/track/1yCZyiJlxQSt0DFB9mVTCS) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Trying](https://open.spotify.com/album/7DJJBKSYGD8CV9va9wdEtL) | 2:00 | 2022-05-27 | 2022-07-29 |
 | [Tukoh Taka \- Official FIFA Fan Festival™ Anthem](https://open.spotify.com/track/7twsd0lwXyy0ARdsTyzHoJ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Tukoh Taka \(Official FIFA Fan Festival™Anthem\)](https://open.spotify.com/album/2Coh1rdkbDRHPI5WLkpNpO) | 2:58 | 2022-11-18 | 2023-04-09 |
-| [two](https://open.spotify.com/track/18ENCZw5lQc10UwwFiH1QK) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [two](https://open.spotify.com/album/1ooRAUPQgUixYyS8yHLirr) | 2:15 | 2024-12-20 |  |
+| [two](https://open.spotify.com/track/18ENCZw5lQc10UwwFiH1QK) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [two](https://open.spotify.com/album/1ooRAUPQgUixYyS8yHLirr) | 2:15 | 2024-12-20 | 2025-06-29 |
 | [two](https://open.spotify.com/track/6DRZmJa38MaMNthwG3fCBD) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [two](https://open.spotify.com/album/5yc8yPsnUud3i8v9Ran8oQ) | 2:15 | 2025-02-07 | 2025-02-12 |
 | [Tyler Herro](https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tyler Herro](https://open.spotify.com/album/4Vd7lpztpJdmMt9hrLfXWe) | 2:36 | 2021-10-22 | 2022-10-15 |
 | [UH OH! \(feat\. BENEE\)](https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [HIVE](https://open.spotify.com/album/14qlU7pezYKrntRHxmYT8A) | 2:13 | 2022-07-05 |  |
@@ -411,6 +411,7 @@
 | [Unsubstantial](https://open.spotify.com/track/7u9gUIq2jVEnIgUXAVXnBb) | [Anya Nami](https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h) | [Unsubstantial](https://open.spotify.com/album/6kzXo1uFPopE5YEGgxImau) | 1:40 | 2023-10-02 | 2023-12-02 |
 | [Up](https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up \(Instrumental\)](https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C) | 2:36 | 2021-10-22 | 2022-02-24 |
 | [Used To Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 | 2022-07-05 | 2022-07-27 |
+| [Vanity](https://open.spotify.com/track/0AU2a60eNXKv2XP3CkXyos) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Vanity](https://open.spotify.com/album/2r1SLo3tTmw7w1omWMUlkW) | 3:30 | 2025-06-27 |  |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-05-06 | 2022-05-28 |
 | [Villain](https://open.spotify.com/track/6y0VIRo9CyIIHBdlPklTl0) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:25 | 2022-08-17 | 2022-10-01 |
 | [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:07 | 2023-04-07 | 2023-06-19 |

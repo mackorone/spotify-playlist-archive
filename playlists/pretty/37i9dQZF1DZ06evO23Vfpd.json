@@ -1,13 +1,33 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 50804,
+  "num_followers": 50864,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAACq4DG/a8jfJb0Fw7W3eRMw",
+  "snapshot_id": "aF3fAAAAAAAGUuxh9MCVdjqZILpLird9",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home (feat. Shaboozey)",
+        "url": "https://open.spotify.com/album/50Gz1176FyXKAnBmVvc6GQ"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "Home (feat. Shaboozey)",
+      "url": "https://open.spotify.com/track/7LaLY7dkzWEtmtJ8o7oD05"
+    },
     {
       "added_at": null,
       "album": {

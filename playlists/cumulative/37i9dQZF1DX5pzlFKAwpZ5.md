@@ -4,11 +4,11 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Kenichiro Isoda on cover.
 
-319 songs - 23 hr 43 min
+320 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#bdbdbd \(06:16:00am \- 12:19:59am\)](https://open.spotify.com/track/5a7qx2I3G93dR79p2StDmF) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [Grey《灰色の領域》](https://open.spotify.com/album/1iEYGTJEEru5Yo2JbsbNwU) | 6:04 | 2025-05-16 |  |
+| [\#bdbdbd \(06:16:00am \- 12:19:59am\)](https://open.spotify.com/track/5a7qx2I3G93dR79p2StDmF) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [Grey《灰色の領域》](https://open.spotify.com/album/1iEYGTJEEru5Yo2JbsbNwU) | 6:04 | 2025-05-16 | 2025-06-29 |
 | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm) | 4:47 | 2025-03-21 |  |
 | [193193 Sleep](https://open.spotify.com/track/6XCzzYdNBLpHMHelYHVJoK) | [Chino Yoshio](https://open.spotify.com/artist/6oY3qWxcj7thT8q0zogH8m) | [193193](https://open.spotify.com/album/1fF1ghrobgXFDvlzqyRPRm) | 3:14 | 2022-05-18 |  |
 | [2679 miles away](https://open.spotify.com/track/4B4jWWkkgJ13lSbph0T3GQ) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [Paradoxically, forgetting](https://open.spotify.com/album/4Pwr8F2x5SWLapkvscTJVN) | 13:55 | 2022-12-20 | 2023-08-19 |
@@ -194,6 +194,7 @@
 | [orei](https://open.spotify.com/track/2jq6SDNBxog4cBkAeElVjd) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Ukatu](https://open.spotify.com/album/0q439Ua2fXGsQj3ysOX0p1) | 2:33 | 2023-09-22 |  |
 | [Orientate](https://open.spotify.com/track/4NJ9PJPU4g7ArQcJXKqety) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Une Collection Des Chainons II](https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk) | 5:02 | 2022-12-30 | 2023-08-19 |
 | [Origami Rework](https://open.spotify.com/track/6O1SMGwmO1cfTaZQss2Th5) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Origami Rework](https://open.spotify.com/album/6sb6CRPwYwl3HuHlJstQS3) | 3:05 | 2023-01-27 |  |
+| [Pathos](https://open.spotify.com/track/4Cz27Bi0z3yI3pXEFXlffY) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [RAN PARK](https://open.spotify.com/artist/2LcpnnKtegPLs0WJaQPdqK) | [Pathos](https://open.spotify.com/album/5u3LYb5RaoB07WrAte6OI8) | 5:05 | 2025-06-27 |  |
 | [Pierrepont](https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Pierrepont](https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR) | 4:30 | 2022-12-20 |  |
 | [Placement Of The Drops](https://open.spotify.com/track/6QzDNQr4ao4OOBC1qES0CC) | [Tomoyoshi Date](https://open.spotify.com/artist/4eacRnyNxlt0crHyunpgjR) | [Tribute to Ryuichi Sakamoto "Micro Ambient Music" Vol\. 5](https://open.spotify.com/album/7wuCniFaJn59eglfVdqdZo) | 6:02 | 2025-02-11 |  |
 | [Planet](https://open.spotify.com/track/33gZGbCutucohDi5fkTUsq) | [Oowets](https://open.spotify.com/artist/69Sz50VcHwDhkDqqYawJDo) | [Planet](https://open.spotify.com/album/1xoFs7J2CsodEOhBEUM3tE) | 3:25 | 2025-01-13 |  |

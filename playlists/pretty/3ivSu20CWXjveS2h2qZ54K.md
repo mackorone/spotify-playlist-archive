@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,873 likes - 107 songs - 5 hr 55 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,872 likes - 107 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 99 | [Zombie \- Iain Cook Remix](https://open.spotify.com/track/7KNRFIn16tlCcr3VQHFkxB) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9), [Iain Cook](https://open.spotify.com/artist/5oTYAFr7Prs5cmCumId5CQ) | [Zombie \(Iain Cook Remix\)](https://open.spotify.com/album/1hdANv5geqeptX72Ki1ena) | 4:57 |
 | 100 | [Don't Let Me Drown](https://open.spotify.com/track/7MTKoHb0Gqvm6SCOp639at) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 3:05 |
 | 101 | [Slott av luft](https://open.spotify.com/track/4KDSCPNo7yPOLnAKIcX3jm) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Slott av luft](https://open.spotify.com/album/41jolTTrQSFIW0H7PuXr0n) | 2:41 |
-| 102 | [Feel Something](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Feel Something](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 |
+| 102 | [FEEL SOMETHING](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 |
 | 103 | [Lippy](https://open.spotify.com/track/5ReIuSLbXCAUYkg9v0NR7b) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Lippy](https://open.spotify.com/album/2WGssUw0jZ4RzRpi2lxN5P) | 2:55 |
 | 104 | [TRUTH](https://open.spotify.com/track/4C9BuBuYgYlOvLh6QzMpqb) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [TRUTH](https://open.spotify.com/album/514vLGRIoCZV3WFoo61QIl) | 2:03 |
 | 105 | [Your Number](https://open.spotify.com/track/63iWu3MNvYmzHbd1gaIoFL) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [$exy Girl $ummer \(Vol.1\)](https://open.spotify.com/album/68q09r65wcBidNleimVoLk) | 2:04 |

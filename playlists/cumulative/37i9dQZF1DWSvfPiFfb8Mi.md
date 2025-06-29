@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-385 songs - 1 day 1 hr 22 min
+386 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [Money](https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Lucas](https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N) | 3:18 | 2023-05-19 |  |
 | [Money](https://open.spotify.com/track/3oGcjB8hAH7LVlqHX6fpWn) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Hnygrl](https://open.spotify.com/artist/62sLcRLz3ZDWMLJaZcsfE5) | [Money](https://open.spotify.com/album/0WPnWF4ZnJFn6Li3DXcObK) | 3:34 | 2023-05-19 |  |
 | [Monkey](https://open.spotify.com/track/3hQSiBi6Bqjy68OhMh2edr) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [LAWSON](https://open.spotify.com/artist/4pMJdsAzstHSaoZnTgvSsV) | [Monkey / Up + Down](https://open.spotify.com/album/6lgnsuDjaDEQkZ8LsaMQYX) | 2:44 | 2023-06-09 | 2023-06-29 |
-| [More Than It Seems](https://open.spotify.com/track/4u0DoPznclokUxTm9s6VJs) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq), [Fawna](https://open.spotify.com/artist/28lO3tIG3JGTXB4OkQSsxU) | [Bounce In Peace](https://open.spotify.com/album/4vEtb02bBlOpJhyu2PkoXI) | 3:38 | 2025-02-07 |  |
+| [More Than It Seems](https://open.spotify.com/track/4u0DoPznclokUxTm9s6VJs) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq), [Fawna](https://open.spotify.com/artist/28lO3tIG3JGTXB4OkQSsxU) | [Bounce In Peace](https://open.spotify.com/album/4vEtb02bBlOpJhyu2PkoXI) | 3:38 | 2025-02-07 | 2025-06-29 |
 | [Motion](https://open.spotify.com/track/52OFxfCUBtf87mPjV8EPUC) | [Karl Seery](https://open.spotify.com/artist/6cm8lW0gC3KkXeJi7Q3mIX) | [Motion](https://open.spotify.com/album/33wjBCraAX8QGqV40iVWvI) | 4:34 | 2021-07-24 | 2022-07-29 |
 | [Motion](https://open.spotify.com/track/76bf56SGSSMrQAGc8VmLMl) | [Karl Seery](https://open.spotify.com/artist/6cm8lW0gC3KkXeJi7Q3mIX) | [Motion](https://open.spotify.com/album/4NjmtlCnqWj6ULCiDifEA5) | 4:34 | 2022-06-20 | 2023-05-20 |
 | [Move Me](https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Move Me](https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE) | 3:51 | 2023-05-19 | 2024-10-05 |
@@ -294,6 +294,7 @@
 | [Satisfy Your Fantasy](https://open.spotify.com/track/2awksO3qqWBWDnJuBJdQaC) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Satisfy Your Fantasy](https://open.spotify.com/album/41P47wN7Z6L02O52OQSw3j) | 7:04 | 2022-06-20 | 2022-11-13 |
 | [Satisfy Your Fantasy](https://open.spotify.com/track/5ftPNzPPQSm3my65xrZsMa) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Satisfy Your Fantasy](https://open.spotify.com/album/3fZHiJmXFcQCICVudoOVuV) | 7:04 | 2021-07-24 | 2022-07-29 |
 | [Satisfy Your Fantasy](https://open.spotify.com/track/7uEcwJ33XVgYJC9dif3ZlK) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Skylines \- Citylights](https://open.spotify.com/album/2DZy15GXtChjNiM5tH2hKV) | 7:04 | 2022-06-20 | 2023-05-20 |
+| [Sciallà](https://open.spotify.com/track/2w30W8DtzFfUAqakTaeV78) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Sciallà](https://open.spotify.com/album/4Sr05np1KjUdmw0RQF1R99) | 4:16 | 2025-06-27 |  |
 | [Secret](https://open.spotify.com/track/2ceeWOjkhDVZfBTCcTD5d9) | [Midnight Pool Party](https://open.spotify.com/artist/5SCaNm27aL0t2Vld0DxV4Z) | [Motions](https://open.spotify.com/album/5STBzJGEIATKtZQDf2t94W) | 3:52 | 2023-05-19 | 2024-02-08 |
 | [See Me Out](https://open.spotify.com/track/28fbZR6LGCoqBjBp2z7xrO) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Cimón](https://open.spotify.com/artist/2ScWWtrV7DOYYeb4vO0rG8) | [See Me Out](https://open.spotify.com/album/6kOj8OeGCo05T99N2LExYO) | 2:29 | 2023-05-26 | 2023-08-18 |
 | [Self Control](https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Lee Cabrera](https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w) | [Self Control](https://open.spotify.com/album/3vpqwBpHTyoAxx9576yUCj) | 3:06 | 2023-05-19 |  |

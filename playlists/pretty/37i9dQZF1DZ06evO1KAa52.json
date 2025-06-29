@@ -1,29 +1,13 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 656859,
+  "num_followers": 656924,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAAAeabDm2cSPnnvLSBpqlPL6",
+  "snapshot_id": "aF3fAAAAAABaNEF716sR+hDzdZhBDe/x",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "The 20/20 Experience (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 484146,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 267266,
       "name": "Rock Your Body",
       "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The 20/20 Experience (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 484146,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV"
     },
     {
       "added_at": null,
@@ -819,22 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Man of the Woods",
-        "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
+        "name": "Turtleneck & Chain (Explicit Version)",
+        "url": "https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP"
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "The Lonely Island",
+          "url": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
         },
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 243040,
-      "name": "Morning Light (feat. Alicia Keys)",
-      "url": "https://open.spotify.com/track/3KnLHwhRhJGuQM822JVSoI"
+      "duration_ms": 169506,
+      "name": "Motherlover",
+      "url": "https://open.spotify.com/track/2zpQ30BpR6teeCeivQoo5p"
     },
     {
       "added_at": null,
@@ -875,22 +875,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turtleneck & Chain (Explicit Version)",
-        "url": "https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP"
+        "name": "Man of the Woods",
+        "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
       },
       "artists": [
         {
-          "name": "The Lonely Island",
-          "url": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
-        },
-        {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 169506,
-      "name": "Motherlover",
-      "url": "https://open.spotify.com/track/2zpQ30BpR6teeCeivQoo5p"
+      "duration_ms": 243040,
+      "name": "Morning Light (feat. Alicia Keys)",
+      "url": "https://open.spotify.com/track/3KnLHwhRhJGuQM822JVSoI"
     },
     {
       "added_at": null,
@@ -919,30 +919,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uncharted",
-        "url": "https://open.spotify.com/album/6nNCnm0zCnx2CF033KpEVd"
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
       },
       "artists": [
-        {
-          "name": "The Piano Guys",
-          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
-        },
-        {
-          "name": "Max Martin",
-          "url": "https://open.spotify.com/artist/1rjeVTt9Ra1ldvN7SpeK0G"
-        },
         {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         },
         {
-          "name": "Shellback",
-          "url": "https://open.spotify.com/artist/268mhnkat7rZjlnOsJoZg8"
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Kenan Thompson",
+          "url": "https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl"
         }
       ],
-      "duration_ms": 182746,
-      "name": "Can't Stop the Feeling",
-      "url": "https://open.spotify.com/track/7LfVbcoCLy1u3zKUwO9VxN"
+      "duration_ms": 221480,
+      "name": "Just Sing",
+      "url": "https://open.spotify.com/track/0ZjmrnH5Uh4WD1L29NTcUs"
     },
     {
       "added_at": null,
@@ -987,42 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Anna Kendrick",
-          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
-        },
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        },
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Kenan Thompson",
-          "url": "https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl"
-        }
-      ],
-      "duration_ms": 221480,
-      "name": "Just Sing",
-      "url": "https://open.spotify.com/track/0ZjmrnH5Uh4WD1L29NTcUs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drown",
         "url": "https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA"
       },
@@ -1055,6 +1027,34 @@
       "duration_ms": 220426,
       "name": "Love Sex Magic (feat. Justin Timberlake)",
       "url": "https://open.spotify.com/track/1BIENruTnjKdB7HD2YIlRr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uncharted",
+        "url": "https://open.spotify.com/album/6nNCnm0zCnx2CF033KpEVd"
+      },
+      "artists": [
+        {
+          "name": "The Piano Guys",
+          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+        },
+        {
+          "name": "Max Martin",
+          "url": "https://open.spotify.com/artist/1rjeVTt9Ra1ldvN7SpeK0G"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Shellback",
+          "url": "https://open.spotify.com/artist/268mhnkat7rZjlnOsJoZg8"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "Can't Stop the Feeling",
+      "url": "https://open.spotify.com/track/7LfVbcoCLy1u3zKUwO9VxN"
     },
     {
       "added_at": null,

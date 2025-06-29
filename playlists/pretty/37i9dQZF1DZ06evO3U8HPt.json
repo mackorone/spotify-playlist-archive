@@ -1,13 +1,33 @@
 {
   "description": "This is Ella Langley. The essential tracks, all in one playlist.",
-  "num_followers": 15971,
+  "num_followers": 16047,
   "original_name": "This Is Ella Langley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAAC91lK0MR/gyCyn6rcRsn25",
+  "snapshot_id": "aF3fAAAAAADuKUM1zvek75UzCMRde3Hw",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Met Anyone Like You (feat. HARDY)",
+        "url": "https://open.spotify.com/album/07v7okIuI77b0Y2twqEGDS"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 168417,
+      "name": "Never Met Anyone Like You (feat. HARDY)",
+      "url": "https://open.spotify.com/track/4LXL1lRpybr8s4x0vkPQm5"
+    },
     {
       "added_at": null,
       "album": {

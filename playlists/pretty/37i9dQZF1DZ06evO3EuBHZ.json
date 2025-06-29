@@ -1,12 +1,12 @@
 {
   "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
-  "num_followers": 15479,
+  "num_followers": 15480,
   "original_name": "This Is Big Mama Thornton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAABTsjHr1DUfvQOoMUOHsr9v",
+  "snapshot_id": "aF3fAAAAAAD6Ykt4akNkWpRx1Mh+QVkQ",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Let's Go Get Stoned",
-      "url": "https://open.spotify.com/track/6q4nKjfQh3HMJfN9E9KAmc"
+      "duration_ms": 227000,
+      "name": "Born Under A Bad Sign",
+      "url": "https://open.spotify.com/track/3hDh6pcJGXHPcTHPoswHN0"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 227000,
-      "name": "Born Under A Bad Sign",
-      "url": "https://open.spotify.com/track/3hDh6pcJGXHPcTHPoswHN0"
+      "duration_ms": 270000,
+      "name": "Let's Go Get Stoned",
+      "url": "https://open.spotify.com/track/6q4nKjfQh3HMJfN9E9KAmc"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Europe",
-        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 155906,
-      "name": "The Place",
-      "url": "https://open.spotify.com/track/3UpeJgzCMu4kT1idGQd98U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sassy Mama",
         "url": "https://open.spotify.com/album/1ecriLTawFnXSoMjszqjSl"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 251426,
       "name": "Hound Dog / Walkin' the Dog",
       "url": "https://open.spotify.com/track/3pZxCAMSg4Rky0QzlzqltY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Europe",
+        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 155906,
+      "name": "The Place",
+      "url": "https://open.spotify.com/track/3UpeJgzCMu4kT1idGQd98U"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Europe",
-        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/6rFIrlE27ICQ9FQ3n3ZCVo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roots Of Rock & Roll",
         "url": "https://open.spotify.com/album/361U0QdVGbCscARmmFWU40"
       },
@@ -499,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Europe",
+        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/6rFIrlE27ICQ9FQ3n3ZCVo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Early One Mornin\u2019 Blues (Live)",
         "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 254106,
       "name": "Early One Mornin\u2019 Blues - Live",
       "url": "https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hangover Blues",
-        "url": "https://open.spotify.com/album/0eMiiulE8GKSGnjGFkienk"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 568560,
-      "name": "Mixed Up Feeling",
-      "url": "https://open.spotify.com/track/1hYupqdrdwcUtS6zdlZ0Yb"
     },
     {
       "added_at": null,
@@ -559,6 +543,22 @@
       "duration_ms": 298666,
       "name": "Tell Me Baby - Live",
       "url": "https://open.spotify.com/track/05eznJvVnCAP0O7FaB3Vh9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hangover Blues",
+        "url": "https://open.spotify.com/album/0eMiiulE8GKSGnjGFkienk"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 568560,
+      "name": "Mixed Up Feeling",
+      "url": "https://open.spotify.com/track/1hYupqdrdwcUtS6zdlZ0Yb"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sassy Mama!",
+        "url": "https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Everybody's Happy (But Me)",
+      "url": "https://open.spotify.com/track/4kxMP800A7HYTwvbYS7wFS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sassy Mama - Live at The Rising Sun Celebrity Jazz Club (2022 Remaster)",
         "url": "https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF"
       },
@@ -703,26 +719,6 @@
       "duration_ms": 307946,
       "name": "Tell Me Pretty Baby - 2022 Remaster",
       "url": "https://open.spotify.com/track/6Ll6mkGG1llfhfry1eZGPM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Mama's Home (35 Classic Tracks)",
-        "url": "https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        },
-        {
-          "name": "Bill Harvey Orchestra",
-          "url": "https://open.spotify.com/artist/6btaa5XwQQFROFEWCVMeuI"
-        }
-      ],
-      "duration_ms": 166906,
-      "name": "No Jody for Me",
-      "url": "https://open.spotify.com/track/2ciOcWzmHiNinO1rSwMrEm"
     },
     {
       "added_at": null,
@@ -743,18 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sassy Mama!",
-        "url": "https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR"
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt"
       },
       "artists": [
         {
           "name": "Big Mama Thornton",
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Bill Harvey Orchestra",
+          "url": "https://open.spotify.com/artist/6btaa5XwQQFROFEWCVMeuI"
         }
       ],
-      "duration_ms": 200666,
-      "name": "Everybody's Happy (But Me)",
-      "url": "https://open.spotify.com/track/4kxMP800A7HYTwvbYS7wFS"
+      "duration_ms": 166906,
+      "name": "No Jody for Me",
+      "url": "https://open.spotify.com/track/2ciOcWzmHiNinO1rSwMrEm"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 94300,
+  "num_followers": 94310,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAAC2vJ1LsNONu2etGaAkJC9C",
+  "snapshot_id": "aF3fAAAAAADpNG73+wn17yAJzcqHFaen",
   "tracks": [
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Prometido Es Deuda Vol.2",
+        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 153289,
+      "name": "JJ Es La Clave",
+      "url": "https://open.spotify.com/track/1g6LesEZ6Ai99arHJv6hBr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paris & Grecia",
         "url": "https://open.spotify.com/album/3kufVIruxrPYRml0XECQka"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 165587,
       "name": "Paris & Grecia",
       "url": "https://open.spotify.com/track/6VGKmmQoKtb96WxcXIz4CU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Prometido Es Deuda Vol.2",
-        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 153289,
-      "name": "JJ Es La Clave",
-      "url": "https://open.spotify.com/track/1g6LesEZ6Ai99arHJv6hBr"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxico",
-        "url": "https://open.spotify.com/album/4I0R8OWIPyys8QLD8QBxvh"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 192728,
-      "name": "Toxico",
-      "url": "https://open.spotify.com/track/2o7e5mcEqUzAhrLIqBAFKv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como Una Pantera",
         "url": "https://open.spotify.com/album/4EF1XEWqEJN0MkBzK2QAH4"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 170492,
       "name": "Como Una Pantera",
       "url": "https://open.spotify.com/track/5h0qcUht3LTT8zf36EHV5b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxico",
+        "url": "https://open.spotify.com/album/4I0R8OWIPyys8QLD8QBxvh"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 192728,
+      "name": "Toxico",
+      "url": "https://open.spotify.com/track/2o7e5mcEqUzAhrLIqBAFKv"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Destapo Un Bote",
-        "url": "https://open.spotify.com/album/3HvE0DyvODw0JzVCdWdVYF"
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 180166,
-      "name": "Me Destapo Un Bote",
-      "url": "https://open.spotify.com/track/5sKCVKfm9B7uWpIun0Ftwj"
+      "duration_ms": 147999,
+      "name": "Fino El Porteson",
+      "url": "https://open.spotify.com/track/6QqbWrnaAFOKI9jv0nbAkf"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Instinto",
-        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+        "name": "Me Destapo Un Bote",
+        "url": "https://open.spotify.com/album/3HvE0DyvODw0JzVCdWdVYF"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 147999,
-      "name": "Fino El Porteson",
-      "url": "https://open.spotify.com/track/6QqbWrnaAFOKI9jv0nbAkf"
+      "duration_ms": 180166,
+      "name": "Me Destapo Un Bote",
+      "url": "https://open.spotify.com/track/5sKCVKfm9B7uWpIun0Ftwj"
     },
     {
       "added_at": null,

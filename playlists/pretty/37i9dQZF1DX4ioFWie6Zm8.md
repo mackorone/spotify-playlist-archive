@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound\. Cover: Salif Keita
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,776 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,848 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

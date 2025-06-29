@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 133122,
+  "num_followers": 133119,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAAD471Vkh1JImNLoy4fZA6dD",
+  "snapshot_id": "aF3fAAAAAACE7riKvps3xSAqA46ewg6J",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sou Humano",
+        "url": "https://open.spotify.com/album/2UKwLM7kvCIJqcZyiCqpKQ"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 270976,
+      "name": "Sou Humano",
+      "url": "https://open.spotify.com/track/0BkcVqOrULDcssoXHc1hFW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aba Pai",
         "url": "https://open.spotify.com/album/4DzXvPORyD3JtESzeteFBq"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 483485,
       "name": "Tua Un\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/13wblL6thQD5NHLa29j1X4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sou Humano",
-        "url": "https://open.spotify.com/album/2UKwLM7kvCIJqcZyiCqpKQ"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 270976,
-      "name": "Sou Humano",
-      "url": "https://open.spotify.com/track/0BkcVqOrULDcssoXHc1hFW"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Levantamos Tu Nombre",
+        "url": "https://open.spotify.com/album/2wPoovI5GUgIiOkRQETfde"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 350528,
+      "name": "Levantamos Tu Nombre",
+      "url": "https://open.spotify.com/track/29xdoA7Qz83rm5D0GOhbED"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pensou em Mim",
         "url": "https://open.spotify.com/album/5HvWIjlVWNqOG0EeHcLIWu"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 362502,
       "name": "Aviva-nos (Ao Vivo)",
       "url": "https://open.spotify.com/track/03mpdr8HJfKqihrPDl9F14"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Levantamos Tu Nombre",
-        "url": "https://open.spotify.com/album/2wPoovI5GUgIiOkRQETfde"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 350528,
-      "name": "Levantamos Tu Nombre",
-      "url": "https://open.spotify.com/track/29xdoA7Qz83rm5D0GOhbED"
     },
     {
       "added_at": null,

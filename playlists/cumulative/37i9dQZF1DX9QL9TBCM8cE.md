@@ -4,7 +4,7 @@
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-167 songs - 11 hr 43 min
+168 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Secret utopIA](https://open.spotify.com/track/3HwXKgkVrU0Z7dhuNl9LPu) | [櫻木真乃 \(CV.関根 瞳\)](https://open.spotify.com/artist/7v6SaKW5DTfHL1DmYPjLRD) | [THE IDOLM@STER SHINY COLORS Synthe\-Side 03](https://open.spotify.com/album/5VWEYE7ttilS4rRwoDk6HS) | 3:48 | 2022-11-29 | 2023-03-10 |
 | [Secret utopIA](https://open.spotify.com/track/3OsXQASPOJxYtgFseXp5MF) | [緋田美琴 \(CV.山根 綺\)](https://open.spotify.com/artist/0VJYBd628F6WoLMA7tDX5h) | [THE IDOLM@STER SHINY COLORS Synthe\-Side 03](https://open.spotify.com/album/5VWEYE7ttilS4rRwoDk6HS) | 3:48 | 2022-11-29 | 2025-06-07 |
 | [Secret utopIA](https://open.spotify.com/track/5IzHsFsqHOYgOE3ggNIadb) | [風野灯織 \(CV.近藤玲奈\)](https://open.spotify.com/artist/0popzRDPjNmChemuz9WB0k) | [THE IDOLM@STER SHINY COLORS Synthe\-Side 03](https://open.spotify.com/album/5VWEYE7ttilS4rRwoDk6HS) | 3:48 | 2022-11-29 | 2023-03-08 |
-| [SNOW FLAKES MEMORIES \- 25 colors](https://open.spotify.com/track/5dWAavqko6kuMiuYv6kDde) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [THE IDOLM@STER WING COLLECTION \-A side\-](https://open.spotify.com/album/5YyUeirmIV0Uo1cqf6Wi5x) | 5:33 | 2025-02-28 |  |
+| [SNOW FLAKES MEMORIES \- 25 colors](https://open.spotify.com/track/5dWAavqko6kuMiuYv6kDde) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [THE IDOLM@STER WING COLLECTION \-A side\-](https://open.spotify.com/album/5YyUeirmIV0Uo1cqf6Wi5x) | 5:33 | 2025-02-28 | 2025-06-29 |
 | [SOLAR WAY](https://open.spotify.com/track/1nmOTpQh47ZdD1HQ4ptptz) | [Team.Sol](https://open.spotify.com/artist/498Hx3TgxXrIwhfDzDh0QP) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 4:07 | 2022-11-29 | 2023-03-21 |
 | [SOS](https://open.spotify.com/track/7MYtESHP0QTH6bE1E0RXtw) | [黛 冬優子 \(CV.幸村恵理\)](https://open.spotify.com/artist/4LkBDLtM2IWNQuzIfm9wF0) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 4:01 | 2022-11-29 |  |
 | [Spread the Wings!! \- 25 colors](https://open.spotify.com/track/2vU34ruB7C65HUhrtjfUa9) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [THE IDOLM@STER WING COLLECTION \-A side\-](https://open.spotify.com/album/5YyUeirmIV0Uo1cqf6Wi5x) | 5:17 | 2023-03-07 | 2023-12-19 |
@@ -93,6 +93,7 @@
 | [くだらないや](https://open.spotify.com/track/04jCaEuKFqRxqpG3q2Gx0c) | [コメティック](https://open.spotify.com/artist/48UrAAuut2mSFi2k9KmV1c) | [THE IDOLM@STER SHINY COLORS "CANVAS" 08](https://open.spotify.com/album/1yHDHmI9GOKVa15ye4sYk8) | 3:45 | 2023-11-08 | 2025-03-31 |
 | [くだらないや](https://open.spotify.com/track/1uZkDzLyVGQS16XXwpJ4vr) | [コメティック](https://open.spotify.com/artist/48UrAAuut2mSFi2k9KmV1c) | [くだらないや](https://open.spotify.com/album/1en1jydyZYvHAW3ECwqmpj) | 3:45 | 2023-11-07 | 2023-11-09 |
 | [とある英雄たちの物語](https://open.spotify.com/track/4UHCUxs8gDbMyiKyLqzKKa) | [アンティーカ](https://open.spotify.com/artist/67qSRMNHBKQHbPed5y3qMz) | [THE IDOLM@STER SHINY COLORS "CANVAS" 02](https://open.spotify.com/album/2GJ9WsBpkibxIe8vMKI4Yr) | 4:43 | 2023-11-07 | 2025-06-23 |
+| [なんどでも笑おう](https://open.spotify.com/track/74r8AOigKq86cIG41xbPst) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [なんどでも笑おう](https://open.spotify.com/album/4pGSbTyFnLv7jtF3pcXteM) | 5:35 | 2025-02-28 |  |
 | [また明日](https://open.spotify.com/track/5Ssa6l0xdHdsIH0maRNOat) | [大崎甜花 \(CV.前川涼子\)](https://open.spotify.com/artist/2g9z5veeBlJr77ajuOwqsi) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS \-Luna\- \(2022 Version\)](https://open.spotify.com/album/0PC9a1J3ae1N0yrTXJS2kT) | 3:28 | 2024-09-24 |  |
 | [よりみちサンセット](https://open.spotify.com/track/2W314eFGeZXq122e15weQI) | [HO\-KA\-GO CLIMAX GIRLS](https://open.spotify.com/artist/274c1FFqS8HAIeL7XgK0Hz) | [THE IDOLM@STER SHINY COLORS FR@GMENT WING 04](https://open.spotify.com/album/5mmghdMKxtWt5QaAMLqGWQ) | 4:40 | 2023-03-07 |  |
 | [わたしの主人公はわたしだから！](https://open.spotify.com/track/5sTAYdUX0M7JIcjiDX7zuk) | [福丸小糸 \(CV.田嶌紗蘭\)](https://open.spotify.com/artist/0SFMjrJ2uPQknTC3m4f2oD) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS \-Luna\- \(2022 Version\)](https://open.spotify.com/album/0PC9a1J3ae1N0yrTXJS2kT) | 3:32 | 2023-03-07 | 2023-11-01 |

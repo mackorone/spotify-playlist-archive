@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > a experimental mix of rock, punk, alt & indie\. Cover: Model/Actriz
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,652 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,692 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 59 | [I Love My Wife](https://open.spotify.com/track/2ZjGheF3bEDNwHktj7WQXu) | [Touchdown Jesus](https://open.spotify.com/artist/4m2cmezyP3GrxPbHdNSgjM) | [It's All Feast Or Famine](https://open.spotify.com/album/3DjQPilg3Hxgx88B6bWmfd) | 3:44 |
 | 60 | [Maybe Maybe](https://open.spotify.com/track/256MAkjR6G8bj14WM3whE0) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4) | [I Promise](https://open.spotify.com/album/0OICGkWLi8mHWn6fQIOPpo) | 2:53 |
 | 61 | [Salome](https://open.spotify.com/track/2ZhMiaTlkiqwKNz6iUO1KN) | [The Ophelias](https://open.spotify.com/artist/0Kpf7PvEotzvndPhYwwZzb) | [Spring Grove](https://open.spotify.com/album/5t7CByjhX4jdwiCtN4llLI) | 2:18 |
-| 62 | [Moving On](https://open.spotify.com/track/1Of3zosPbcRV7ivFZzjIta) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [Half Divorced](https://open.spotify.com/album/4oTZaBT6SoZ9NURR8p42xr) | 4:28 |
-| 63 | [Smile](https://open.spotify.com/track/4H0waWcvFnIp4DRqV7kDHg) | [Wand](https://open.spotify.com/artist/53by9P3tpXOW1diWCI6MNu) | [Vertigo](https://open.spotify.com/album/6sjjo0VgBM2jFk5mIcnGPX) | 6:29 |
-| 64 | [Stimulation](https://open.spotify.com/track/5YLoFqeK7ARjYYXzxA3whX) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [Super Mega Ultra](https://open.spotify.com/album/7fKUwgjl9LeKyqaY9hoUgJ) | 3:04 |
-| 65 | [Auguries of Guilt](https://open.spotify.com/track/1lWuzJReshkbjDKjElnmeA) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Auguries of Guilt](https://open.spotify.com/album/1kPoDuvNX6536cx1ZWpUAN) | 5:37 |
+| 62 | [Auguries of Guilt](https://open.spotify.com/track/1lWuzJReshkbjDKjElnmeA) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Auguries of Guilt](https://open.spotify.com/album/1kPoDuvNX6536cx1ZWpUAN) | 5:37 |
+| 63 | [Moving On](https://open.spotify.com/track/1Of3zosPbcRV7ivFZzjIta) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [Half Divorced](https://open.spotify.com/album/4oTZaBT6SoZ9NURR8p42xr) | 4:28 |
+| 64 | [Smile](https://open.spotify.com/track/4H0waWcvFnIp4DRqV7kDHg) | [Wand](https://open.spotify.com/artist/53by9P3tpXOW1diWCI6MNu) | [Vertigo](https://open.spotify.com/album/6sjjo0VgBM2jFk5mIcnGPX) | 6:29 |
+| 65 | [Stimulation](https://open.spotify.com/track/5YLoFqeK7ARjYYXzxA3whX) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [Super Mega Ultra](https://open.spotify.com/album/7fKUwgjl9LeKyqaY9hoUgJ) | 3:04 |
 | 66 | [Blue Kite](https://open.spotify.com/track/1wcO4LAHHq4swYyAGsDEbi) | [Crack Cloud](https://open.spotify.com/artist/10butpS2A0V5nRIu2YDrKI) | [Red Mile](https://open.spotify.com/album/6VD4YOtrGNaVfGoIetOqHb) | 6:11 |
 | 67 | [Itch](https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Itch](https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt) | 2:24 |
 | 68 | [Highway Man](https://open.spotify.com/track/4eAXBJOQjxZV14Su1G8QhC) | [The New Eves](https://open.spotify.com/artist/1uxnfBJssIJmSQUiuOB77l) | [Highway Man](https://open.spotify.com/album/0XHnz7bYP1A6Bfo49IauRf) | 3:42 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 78 | [Birthday Song](https://open.spotify.com/track/4447tbia1NdEojI4JsxCRX) | [THUS LOVE](https://open.spotify.com/artist/26hW7zYB4V3PGMPBKoBdgl) | [Birthday Song](https://open.spotify.com/album/7ipV6YkeGj8xl8dufnslLZ) | 3:31 |
 | 79 | [Snow Angel](https://open.spotify.com/track/3pLNigogHJEzbFqldwdwPK) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Snow Angel](https://open.spotify.com/album/1lNCRuJXcpk5NPtHQWPF7f) | 3:08 |
 | 80 | [Return](https://open.spotify.com/track/3481DrT3d5MZXjo5sa11TO) | [No Windows](https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr) | [Return](https://open.spotify.com/album/2MEIAI8ldOUBT4qaRRkW8y) | 3:02 |
-| 81 | [Adrenaline](https://open.spotify.com/track/3Ir78IJjPU3eODC44pzlnf) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Adrenaline](https://open.spotify.com/album/0Od1v1llALPpgnxp3OiD6b) | 4:04 |
-| 82 | [Burn It Away](https://open.spotify.com/track/69bJGbmDoTzpgbrfsuF2Ii) | [Will Butler + Sister Squares](https://open.spotify.com/artist/2PoDtU1peduJm6HDYtNuaj), [Will Butler](https://open.spotify.com/artist/1POwuKLQ9xhMZzIYElNtWp), [Sister Squares](https://open.spotify.com/artist/1TOW2EEmDmqHe2i7gt2NLZ) | [Burn It Away](https://open.spotify.com/album/32tuGofvxiyOCpx1SfoNBj) | 4:04 |
+| 81 | [Burn It Away](https://open.spotify.com/track/69bJGbmDoTzpgbrfsuF2Ii) | [Will Butler + Sister Squares](https://open.spotify.com/artist/2PoDtU1peduJm6HDYtNuaj), [Will Butler](https://open.spotify.com/artist/1POwuKLQ9xhMZzIYElNtWp), [Sister Squares](https://open.spotify.com/artist/1TOW2EEmDmqHe2i7gt2NLZ) | [Burn It Away](https://open.spotify.com/album/32tuGofvxiyOCpx1SfoNBj) | 4:04 |
+| 82 | [Adrenaline](https://open.spotify.com/track/3Ir78IJjPU3eODC44pzlnf) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Adrenaline](https://open.spotify.com/album/0Od1v1llALPpgnxp3OiD6b) | 4:04 |
 | 83 | [Going In Circles](https://open.spotify.com/track/1KvaKJyIhoIIL0fI7PTSOA) | [GIFT](https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op) | [Going In Circles](https://open.spotify.com/album/4LF7YJLUCR9Y10SuaypEY0) | 3:35 |
 | 84 | [Cleopatras](https://open.spotify.com/track/5XLkv5fJhKrQNBZhITzoOQ) | [Warmduscher](https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [Cleopatras](https://open.spotify.com/album/1Y0wEbB4rboWUu78aGDJ2N) | 3:38 |
 | 85 | [hear a whisper](https://open.spotify.com/track/75N1A9TxOLXYvhhXNSKbzT) | [terraplana](https://open.spotify.com/artist/0mOiRg1cqDkCESsFozsuZU), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [hear a whisper](https://open.spotify.com/album/15j8jK2UEtKBxzbT0TQmfz) | 3:39 |

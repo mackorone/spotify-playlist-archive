@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: La Zarra
 
-3,380 songs - 7 day 10 hr 49 min
+3,381 songs - 7 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -669,6 +669,7 @@
 | [Crazy](https://open.spotify.com/track/4WP3ZUttXAwMowTkp8jfR9) | [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ), [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB) | [Crazy](https://open.spotify.com/album/6foWtqY0M5KKK2oeYmOjYB) | 2:49 | 2025-04-04 | 2025-04-12 |
 | [Create 'n' Collaborate](https://open.spotify.com/track/6SLqm8b5oMS6IqQCQtqS0m) | [Doug & Jeff](https://open.spotify.com/artist/4emZH10SLlSZFIzVnot3q7) | [Create 'n' Collaborate](https://open.spotify.com/album/12HsTGaczjkG3lS1AYLkn7) | 2:50 | 2023-02-03 | 2023-02-18 |
 | [Crier tout bas](https://open.spotify.com/track/26MCjGXJFyvttQjzZXtfhD) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [Crier tout bas](https://open.spotify.com/album/0xS6r4eeUY8iU6Bl9hHRdt) | 2:20 | 2022-10-21 | 2022-11-05 |
+| [Crime ensoleillé](https://open.spotify.com/track/5Pbfz4snuJNXoyK0Iu5Atc) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [R.A.T](https://open.spotify.com/album/2UJVbFBTuYHtwHk9FvkgGU) | 3:50 | 2025-06-27 |  |
 | [Croc Madam](https://open.spotify.com/track/6LguOntZUU9HtGKPq78cDB) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Rêvalité Augmentée](https://open.spotify.com/album/4aJH0gVRGYiS8NOqyccRXv) | 2:08 | 2022-11-25 | 2022-12-10 |
 | [Croire en nous](https://open.spotify.com/track/6s133BFFGjnGJHQRiUzPob) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Science humaine](https://open.spotify.com/album/0chebHv4zEUnUwycIJEfgD) | 3:30 | 2024-11-15 | 2024-11-23 |
 | [Croise les doigts](https://open.spotify.com/track/73YvE9CbBiaagW1480dG1T) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Salgrimo](https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE), [Peeda](https://open.spotify.com/artist/7qz5rVVo7GjgNMUzJRfUy4) | [Croise les doigts](https://open.spotify.com/album/22Fy2sn2vAdr7U2NUsk36t) | 3:30 | 2023-12-22 | 2024-01-05 |
@@ -2184,7 +2185,7 @@
 | [Nous](https://open.spotify.com/track/0ER7xvqBT0pPjlNN6aR2RF) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS) | [On ira](https://open.spotify.com/album/1g67KJ5aDutnK0IeWniWKQ) | 2:12 | 2022-01-21 | 2022-02-05 |
 | [Nous deux](https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Nous deux](https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK) | 3:41 | 2023-04-07 | 2023-05-13 |
 | [Nous on sait](https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Nous on sait](https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx) | 3:02 | 2024-05-17 | 2024-07-13 |
-| [Nouveau jour](https://open.spotify.com/track/7yRk1Wz8zcP3Oq8Y6osHHi) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Nouveau jour](https://open.spotify.com/album/0Ex2lKs81gEUxA9Xbe8S8p) | 2:06 | 2025-06-27 |  |
+| [Nouveau jour](https://open.spotify.com/track/7yRk1Wz8zcP3Oq8Y6osHHi) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Nouveau jour](https://open.spotify.com/album/0Ex2lKs81gEUxA9Xbe8S8p) | 2:06 | 2025-06-27 | 2025-06-29 |
 | [NOUVEAU OPPS](https://open.spotify.com/track/1qsD8ypRfaWclvlng2acJQ) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [LA VIE CONTINUE](https://open.spotify.com/album/7FfwwTL8HlR264na9TwbRI) | 3:37 | 2024-10-25 | 2024-12-21 |
 | [Nouvelle administration](https://open.spotify.com/track/3bh1iLjPXYSzeNRfnobnpu) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [Nouvelle administration](https://open.spotify.com/album/1PYQvFT5MWMb12M1EAKY7u) | 3:18 | 2023-02-03 | 2023-02-18 |
 | [Nouvelle Vague](https://open.spotify.com/track/12kBPE64F24yAAACOg1LsI) | [Jalouse](https://open.spotify.com/artist/0XYVwgLGzOvJLhdIn4lzm5) | [Nouvelle Vague](https://open.spotify.com/album/5rGSU1o3d4yw0I82ZxIXKo) | 3:38 | 2022-10-14 | 2022-10-29 |

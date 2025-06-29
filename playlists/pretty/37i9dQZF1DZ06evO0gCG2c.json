@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 322703,
+  "num_followers": 322755,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAAAcnFDig9v8zyyHJURMKWs8",
+  "snapshot_id": "aF3fAAAAAAANqlOfAnF0DgvIXc85PPkP",
   "tracks": [
     {
       "added_at": null,
@@ -919,6 +919,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Right Now (Na Na Na)",
+        "url": "https://open.spotify.com/album/2Gv0lXUOkmvH7yK44lxmqy"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 310733,
+      "name": "Clap Again",
+      "url": "https://open.spotify.com/track/23Ry2Uwy68rkHdZx0GwfML"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chop My Money",
         "url": "https://open.spotify.com/album/50wBF1pk26slksIqYODsHk"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 272297,
       "name": "Chop My Money - Remix",
       "url": "https://open.spotify.com/track/0rWlFiu0sMqLdtrViUwLT5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Right Now (Na Na Na)",
-        "url": "https://open.spotify.com/album/2Gv0lXUOkmvH7yK44lxmqy"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 310733,
-      "name": "Clap Again",
-      "url": "https://open.spotify.com/track/23Ry2Uwy68rkHdZx0GwfML"
     },
     {
       "added_at": null,

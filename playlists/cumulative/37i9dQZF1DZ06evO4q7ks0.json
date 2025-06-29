@@ -898,10 +898,32 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 241560,
       "name": "Zombie - Acoustic Version",
       "url": "https://open.spotify.com/track/1aZfq7TK3tNl9XJLkOpwKw"
+    },
+    {
+      "album": {
+        "name": "Zombie (Iain Cook Remix)",
+        "url": "https://open.spotify.com/album/1hdANv5geqeptX72Ki1ena"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        },
+        {
+          "name": "Iain Cook",
+          "url": "https://open.spotify.com/artist/5oTYAFr7Prs5cmCumId5CQ"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297720,
+      "name": "Zombie - Iain Cook Remix",
+      "url": "https://open.spotify.com/track/7KNRFIn16tlCcr3VQHFkxB"
     },
     {
       "album": {

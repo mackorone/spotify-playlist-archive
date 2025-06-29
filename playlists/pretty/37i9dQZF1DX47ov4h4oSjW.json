@@ -1,6 +1,6 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 100627,
+  "num_followers": 100623,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "The Ember",
+        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
+      },
+      "artists": [
+        {
+          "name": "Albie Monroy",
+          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
+        }
+      ],
+      "duration_ms": 198298,
+      "name": "Trail of Light",
+      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Airbourne",
         "url": "https://open.spotify.com/album/2NR9OmMNtdfA45E0nsnN4M"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 238588,
       "name": "Airbourne",
       "url": "https://open.spotify.com/track/3AZJgN2201Etx46AlOsCYu"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "In a Bar in Buenos Aires",
-        "url": "https://open.spotify.com/album/7rZrLAyFPTSBVLUNkeyOvQ"
-      },
-      "artists": [
-        {
-          "name": "Franz Gordon",
-          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
-        }
-      ],
-      "duration_ms": 166900,
-      "name": "In a Bar in Buenos Aires",
-      "url": "https://open.spotify.com/track/5C4t6U8yLBmG5xbUhJ205E"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "The Ember",
-        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
+        "name": "In a Bar in Buenos Aires",
+        "url": "https://open.spotify.com/album/7rZrLAyFPTSBVLUNkeyOvQ"
       },
       "artists": [
         {
-          "name": "Albie Monroy",
-          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
+          "name": "Franz Gordon",
+          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
         }
       ],
-      "duration_ms": 198298,
-      "name": "Trail of Light",
-      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
+      "duration_ms": 166900,
+      "name": "In a Bar in Buenos Aires",
+      "url": "https://open.spotify.com/track/5C4t6U8yLBmG5xbUhJ205E"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Center of Gravity",
+        "url": "https://open.spotify.com/album/53A24jAS0pIuBHGINApD71"
+      },
+      "artists": [
+        {
+          "name": "Carl Bonet",
+          "url": "https://open.spotify.com/artist/3NvG2KsrNSJqeGRryYyl8x"
+        }
+      ],
+      "duration_ms": 198739,
+      "name": "Mantra for Piano",
+      "url": "https://open.spotify.com/track/2FifEFnO1xZHMsG8O6Ir6p"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Night Stories",
         "url": "https://open.spotify.com/album/5VceAbw8LKXRl7SOzQBj72"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 235906,
       "name": "Miscellanea, Op. 16: No. 4, Nocturne in B-Flat Major",
       "url": "https://open.spotify.com/track/1EjJMQDn4nAscPOZGTzhlI"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Center of Gravity",
-        "url": "https://open.spotify.com/album/53A24jAS0pIuBHGINApD71"
-      },
-      "artists": [
-        {
-          "name": "Carl Bonet",
-          "url": "https://open.spotify.com/artist/3NvG2KsrNSJqeGRryYyl8x"
-        }
-      ],
-      "duration_ms": 198739,
-      "name": "Mantra for Piano",
-      "url": "https://open.spotify.com/track/2FifEFnO1xZHMsG8O6Ir6p"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Coelicolor",
-        "url": "https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI"
-      },
-      "artists": [
-        {
-          "name": "Eu Nice",
-          "url": "https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK"
-        }
-      ],
-      "duration_ms": 162495,
-      "name": "Coelicolor",
-      "url": "https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Beyond The Sun",
         "url": "https://open.spotify.com/album/1ZzfWQIwgAn0AHZVATRg6V"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 224705,
       "name": "For A Lifetime",
       "url": "https://open.spotify.com/track/2kLoezsd7CkFEpQ3rMmczk"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Coelicolor",
+        "url": "https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI"
+      },
+      "artists": [
+        {
+          "name": "Eu Nice",
+          "url": "https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK"
+        }
+      ],
+      "duration_ms": 162495,
+      "name": "Coelicolor",
+      "url": "https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
-      },
-      "artists": [
-        {
-          "name": "Alec Windt",
-          "url": "https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW"
-        }
-      ],
-      "duration_ms": 135261,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Fallboard",
         "url": "https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 160009,
       "name": "Fallboard",
       "url": "https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
+      },
+      "artists": [
+        {
+          "name": "Alec Windt",
+          "url": "https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW"
+        }
+      ],
+      "duration_ms": 135261,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Flirting at the Masquerade",
-        "url": "https://open.spotify.com/album/3ZswBFfSj9IiHpwqPFwyaB"
-      },
-      "artists": [
-        {
-          "name": "Franz Gordon",
-          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
-        }
-      ],
-      "duration_ms": 194465,
-      "name": "Flirting at the Masquerade",
-      "url": "https://open.spotify.com/track/0fKzvRqaS34EtPeDBS6rwQ"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Beloved",
         "url": "https://open.spotify.com/album/6i5SVdY8ISwT3o3TVyAXF9"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 133879,
       "name": "Beloved",
       "url": "https://open.spotify.com/track/3OLeQWqsXLKFbboNufjc8Z"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Flirting at the Masquerade",
+        "url": "https://open.spotify.com/album/3ZswBFfSj9IiHpwqPFwyaB"
+      },
+      "artists": [
+        {
+          "name": "Franz Gordon",
+          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
+        }
+      ],
+      "duration_ms": 194465,
+      "name": "Flirting at the Masquerade",
+      "url": "https://open.spotify.com/track/0fKzvRqaS34EtPeDBS6rwQ"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Dolce",
-        "url": "https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv"
-      },
-      "artists": [
-        {
-          "name": "Carluccio",
-          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
-        }
-      ],
-      "duration_ms": 143011,
-      "name": "Dolce",
-      "url": "https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Relaxing Piano (Neoclassical Sessions)",
         "url": "https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj"
       },
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI"
+      },
+      "artists": [
+        {
+          "name": "Andrea Monet",
+          "url": "https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Reverence",
+      "url": "https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Amorzinho (Piano Version)",
         "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
       },
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI"
+        "name": "Dolce",
+        "url": "https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv"
       },
       "artists": [
         {
-          "name": "Andrea Monet",
-          "url": "https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk"
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Reverence",
-      "url": "https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse"
+      "duration_ms": 143011,
+      "name": "Dolce",
+      "url": "https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/72ail4RoAjee7GtdCcOOTY"
-      },
-      "artists": [
-        {
-          "name": "Denise Santoz",
-          "url": "https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Palette",
-      "url": "https://open.spotify.com/track/44OOm3Op6tXw3gePWBtiI2"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Seasons Changing",
         "url": "https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 119080,
       "name": "The Great Plains Hymn",
       "url": "https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/72ail4RoAjee7GtdCcOOTY"
+      },
+      "artists": [
+        {
+          "name": "Denise Santoz",
+          "url": "https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Palette",
+      "url": "https://open.spotify.com/track/44OOm3Op6tXw3gePWBtiI2"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Amuse Bouche",
-        "url": "https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q"
-      },
-      "artists": [
-        {
-          "name": "Yao Chen",
-          "url": "https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ"
-        }
-      ],
-      "duration_ms": 197750,
-      "name": "Is it Over",
-      "url": "https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "The Piano Inside",
         "url": "https://open.spotify.com/album/7dwDcfD6Oo51Vp2bdXwkeO"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 216333,
       "name": "Spirit of the Hill",
       "url": "https://open.spotify.com/track/3Py9uoEHphIm11nxj3oC22"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Amuse Bouche",
+        "url": "https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q"
+      },
+      "artists": [
+        {
+          "name": "Yao Chen",
+          "url": "https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ"
+        }
+      ],
+      "duration_ms": 197750,
+      "name": "Is it Over",
+      "url": "https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1643,22 +1643,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Chopin: The Complete Pr\u00e9ludes",
-        "url": "https://open.spotify.com/album/1rBvFJvaHtmVmMdBFO8Te7"
+        "name": "The Piano Inside",
+        "url": "https://open.spotify.com/album/7dwDcfD6Oo51Vp2bdXwkeO"
       },
       "artists": [
         {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Rafa\u0142 Blechacz",
-          "url": "https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X"
+          "name": "Milo Edale",
+          "url": "https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk"
         }
       ],
-      "duration_ms": 339026,
-      "name": "Nocturne No. 18 in E Major, Op. 62 No. 2",
-      "url": "https://open.spotify.com/track/10uRxefFamrk6OGym4JLlS"
+      "duration_ms": 191370,
+      "name": "The Piano Inside",
+      "url": "https://open.spotify.com/track/0BtymruMtXTo6vdk4LH4aB"
     }
   ],
   "unique_name": "Piano Study",

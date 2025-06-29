@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,107 likes - 233 songs - 12 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,108 likes - 233 songs - 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 108 | [Summer](https://open.spotify.com/track/3y0pDizVSNtDBPWFS2cXC2) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 3:30 |
 | 109 | [Birthday \(feat\. 50 Cent\)](https://open.spotify.com/track/2y70lWYidJKME62BChQ2nt) | [Elle Varner](https://open.spotify.com/artist/7zmk5lkmCMVvfvwF3H8FWC), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Birthday \(feat\. 50 Cent\)](https://open.spotify.com/album/4bTXnH9Hwnb0de2JA6mybQ) | 4:20 |
 | 110 | [Love Is Unkind](https://open.spotify.com/track/6pIdNFsaQW7yH4c77FfFqh) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Off With Her Head](https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8) | 3:33 |
-| 111 | [Nobody but Me](https://open.spotify.com/track/1Cqqr2V32xGScFeuj5qCKp) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Nobody But Me](https://open.spotify.com/album/7CisHDnMwiAnuEel2OSdTq) | 4:08 |
-| 112 | [Insomnia](https://open.spotify.com/track/1KynKSyhY1OJzZgQlV3Rda) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:49 |
+| 111 | [Insomnia](https://open.spotify.com/track/1KynKSyhY1OJzZgQlV3Rda) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:49 |
+| 112 | [Nobody but Me](https://open.spotify.com/track/1Cqqr2V32xGScFeuj5qCKp) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Nobody But Me](https://open.spotify.com/album/7CisHDnMwiAnuEel2OSdTq) | 4:08 |
 | 113 | [Call Me Crazy](https://open.spotify.com/track/5Kxs4hSxjT9faa77ZMql6o) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Call Me Crazy, But...](https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7) | 3:40 |
 | 114 | [Diamond](https://open.spotify.com/track/6IAFBoQofnfWJUOkha7DjA) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [4 Walls \- The 4th Album](https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH) | 3:59 |
 | 115 | [Relapse](https://open.spotify.com/track/0Ky7dNE5kiSBgqNiwwl1jx) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [While You Were Out](https://open.spotify.com/album/6lYGdrU9Qg9qLLUAEoFcqi) | 2:52 |
@@ -218,8 +218,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 208 | [Standing Up To The Wind](https://open.spotify.com/track/5LDZR1EgPtlaAEUDPt90yq) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:18 |
 | 209 | [Celebration Weight](https://open.spotify.com/track/7MC6izvYsq545k7jDsYTOO) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:08 |
 | 210 | [Girlfriend's Girlfriend](https://open.spotify.com/track/068OE0oRKSnDrDM9HdEpO0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 2:51 |
-| 211 | [Options \- Interlude](https://open.spotify.com/track/4u0s7A0MchkZdopCAvRMox) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 0:50 |
-| 212 | [Deeper](https://open.spotify.com/track/6tzBRnVIu9NzDJjLsAJF0g) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life](https://open.spotify.com/album/3pWiHbMUEcxA0TjNW1Ipb3) | 4:08 |
+| 211 | [Deeper](https://open.spotify.com/track/6tzBRnVIu9NzDJjLsAJF0g) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life](https://open.spotify.com/album/3pWiHbMUEcxA0TjNW1Ipb3) | 4:08 |
+| 212 | [Options \- Interlude](https://open.spotify.com/track/4u0s7A0MchkZdopCAvRMox) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 0:50 |
 | 213 | [T.H.U.G\. \(feat\. GOON DES GARCONS\)](https://open.spotify.com/track/3c0dCJdveQCF5uiX8GoO35) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa), [GOON DES GARCONS\*](https://open.spotify.com/artist/5WyJhpNewRPUahSlrxkOeR) | [What's The 1174? Side 1](https://open.spotify.com/album/64wWGauCcGFiuXr9RkjgHd) | 1:45 |
 | 214 | [1 Of 1 \(Bonus Track\)](https://open.spotify.com/track/7gvu562YSbAF2iiq81vTO4) | [Travis Garland](https://open.spotify.com/artist/5tpWDRL3doEgCZdVn4FsNN) | [Travis Garland](https://open.spotify.com/album/4kyKPTPyypTAgLYZGJM3Pe) | 4:05 |
 | 215 | [ghosting you](https://open.spotify.com/track/6S26YBwQt6873h0ZcMMZ7q) | [Matts La](https://open.spotify.com/artist/2nEztP5JvyqCKNzqKNJO1a) | [Homecoming](https://open.spotify.com/album/66r6Y1zGp6tMo3WWMzekq2) | 2:29 |
@@ -242,4 +242,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 232 | [Intro](https://open.spotify.com/track/5O8Qhglfsza40ImevHVURy) | [Soul Point](https://open.spotify.com/artist/1Ept3gLGpmaMqUB5nEFmTj) | [Blue Gum St\. 3](https://open.spotify.com/album/3Z69aT615d7CRCE6WdE7zy) | 1:58 |
 | 233 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 
-Snapshot ID: `Ab1SdgAAAABUu1wxI4RAebQ0WKuK8bI2`
+Snapshot ID: `Ab1YSAAAAACqV3d/KTWjlRf6sA6CjcYj`

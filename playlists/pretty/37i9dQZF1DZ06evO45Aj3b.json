@@ -1,12 +1,12 @@
 {
   "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
-  "num_followers": 93366,
+  "num_followers": 93374,
   "original_name": "This Is Dominic Fike",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAABVVxp4s3bWbRy4Thse1m4+",
+  "snapshot_id": "aF3fAAAAAAD6oLEkQeLwtFwMjfxY6Ym9",
   "tracks": [
     {
       "added_at": null,
@@ -555,6 +555,26 @@
       "duration_ms": 121630,
       "name": "1.23.23",
       "url": "https://open.spotify.com/track/4w1esviQOM4f8uZ6RuAjyY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 209830,
+      "name": "Maroon",
+      "url": "https://open.spotify.com/track/4BzIyYvpCYzMW4Q8eF4fwq"
     },
     {
       "added_at": null,

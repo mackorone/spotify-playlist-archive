@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Arcángel
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,951 likes - 65 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,797 likes - 65 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 22 | [WIFEY](https://open.spotify.com/track/2CAZRdOniNbyR1ehg8rUYF) | [ARIA BELA](https://open.spotify.com/artist/7Gh928bdEU69S9D6ur5wJz) | [WIFEY](https://open.spotify.com/album/1tNFQJTavzceB0nE8TTPBr) | 3:03 |
 | 23 | [REINA VALERA](https://open.spotify.com/track/2wgFR7Vo9aOkr1fCaLPUTl) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [REINA VALERA](https://open.spotify.com/album/7DoyvirnlARTZGdu4OLcXh) | 3:56 |
 | 24 | [Venimos \- Acapella](https://open.spotify.com/track/1Yc7UEGBluz2Gd9Q8zejOW) | [Doctor Krápula](https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Venimos](https://open.spotify.com/album/2WhiRrNhHHcaTv5yOOhsJx) | 2:57 |
-| 25 | [Bandido \(feat\. Three Seven Music & The Chosen Few\)](https://open.spotify.com/track/0TNz4nOKNNy0Dc7aRDyzNp) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Three Seven Music](https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb), [The Chosen Few](https://open.spotify.com/artist/2HOZmbv4saI1WELN907XSN) | [Bandido \(feat\. Three Seven Music & The Chosen Few\)](https://open.spotify.com/album/4BUEavk2XlFCnLZqseQISb) | 2:31 |
+| 25 | [Bandido](https://open.spotify.com/track/0TNz4nOKNNy0Dc7aRDyzNp) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Three Seven Music](https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb), [The Chosen Few](https://open.spotify.com/artist/2HOZmbv4saI1WELN907XSN) | [Bandido](https://open.spotify.com/album/4BUEavk2XlFCnLZqseQISb) | 2:31 |
 | 26 | [Body on your Body](https://open.spotify.com/track/0jAgEvfE99n7YFYYihMCnT) | [Rike Music](https://open.spotify.com/artist/5Z3rl70bDu6OgrO4bJ9Mcu), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [Body on your Body](https://open.spotify.com/album/5DQ6kvY9pGLirW5izVtoeh) | 3:04 |
 | 27 | [Enfasis](https://open.spotify.com/track/6dz7JNnHCM8t9BGDZeQqgP) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [DONNER](https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6), [Gold Music](https://open.spotify.com/artist/6Hvn4M9HNAKXe6LshfKmze) | [Enfasis](https://open.spotify.com/album/547zwR98nHz7hhpgv2xaIP) | 3:25 |
 | 28 | [Lento](https://open.spotify.com/track/6H7tS5QBrDzU1H79g10J1y) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Música Para Abrir El Cielo](https://open.spotify.com/album/373sjPmbcfb0MBTscza6S2) | 3:32 |

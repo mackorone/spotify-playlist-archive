@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Czz4Q.md) - [plain]
 
 > This is Luther Vandross\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,541 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,567 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Czz4Q.md) - [plain]
 | 49 | [One Night With You \(Everyday of Your Life\)](https://open.spotify.com/track/1h22k2vpmDHIw1ZT0vee4c) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [One Night With You: The Best Of Love, Volume 2](https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB) | 4:24 |
 | 50 | [Hearts Get Broken All The Time \(But The Problem Is, This Time It's Mine\)](https://open.spotify.com/track/0Ox37YuxVMuX5F95OgoqQo) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Luther Vandross](https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS) | 5:19 |
 
-Snapshot ID: `aFyNgAAAAADmZZuZXV3aEKxYNLYoYKua`
+Snapshot ID: `aF3fAAAAAACakOYO651+ko/pvRxBhanC`

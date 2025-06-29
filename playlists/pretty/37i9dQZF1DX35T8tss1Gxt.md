@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: Lee Vasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,427 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,485 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 56 | [Profit](https://open.spotify.com/track/3xpylfm4KyYvhx4Pozmsrs) | [Justin Radford](https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV) | [Profit](https://open.spotify.com/album/05JjgimOduvOHc4icOBh0v) | 3:22 |
 | 57 | [Angels](https://open.spotify.com/track/3gzJ2Ed3ocae1d7zcRIv5o) | [Ariel Fitz\-Patrick](https://open.spotify.com/artist/0Y2NXQx6UQT0Jh932dxFah) | [Angels](https://open.spotify.com/album/3q3QMpk5tutCVaFNgBnpGr) | 2:42 |
 | 58 | [Say Something](https://open.spotify.com/track/5WYLlY6IunNiY0Us66HKc6) | [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB) | [Say Something](https://open.spotify.com/album/6EpkfJ5OXJunpbPwFHQHTv) | 2:09 |
-| 59 | [NEW CREATION](https://open.spotify.com/track/4feBVRAdRx9qbowN7oDm4B) | [Edgar Sandoval Jr](https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4) | [NEW CREATION](https://open.spotify.com/album/3qmzX4Qivzfen0hHrYyZQq) | 2:49 |
+| 59 | [NEW CREATION](https://open.spotify.com/track/4feBVRAdRx9qbowN7oDm4B) | [Edgar Sandoval Jr](https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4), [Vision of Leo](https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e) | [NEW CREATION](https://open.spotify.com/album/3qmzX4Qivzfen0hHrYyZQq) | 2:49 |
 | 60 | [resolve\~](https://open.spotify.com/track/7BMymBTTpyv5eUdEo8ZB4r) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i) | [resolve\~](https://open.spotify.com/album/49aeURRkNoDukqUGy68vLo) | 2:39 |
 | 61 | [Nothing & No One](https://open.spotify.com/track/2fL5YtNXgPj14bhI8mwhju) | [Jackie Legere](https://open.spotify.com/artist/10SWKFfcdzGtbmABepnobA) | [Nothing & No One](https://open.spotify.com/album/5sQvDf9h5ceqRTH0lxvcve) | 2:19 |
 | 62 | [Estaciones](https://open.spotify.com/track/6l2ZHwhbJ8Hqvi7rfFhu9T) | [Eliel B](https://open.spotify.com/artist/4PzhRJwZpGGxbmIiKpBvBm), [DeAngelo](https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE) | [Estaciones](https://open.spotify.com/album/3Rsq3pYNEP4krwwiL6cb0V) | 2:26 |

@@ -4,7 +4,7 @@
 
 > This is Marca MP\. The essential tracks, all in one playlist.
 
-123 songs - 6 hr 33 min
+124 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Creció La Cuenta](https://open.spotify.com/track/5Fg4huU4W2ByloZXYfaJD4) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Creció La Cuenta](https://open.spotify.com/album/2KK6p9x9C1XbwDrQQXdSZh) | 3:33 | 2023-04-08 | 2024-08-19 |
 | [De Mi Para Ti](https://open.spotify.com/track/1IrdLJmBmhIrzl52VwyAZQ) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Seguimos Avanzando](https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC) | 3:12 | 2022-06-01 |  |
 | [De Morro](https://open.spotify.com/track/51ZB417tafnkR0UQYTIWzs) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [De Morro](https://open.spotify.com/album/4ujXW1MC4b4a2d7Uq7Cw33) | 2:44 | 2022-06-01 |  |
+| [Desde Que La Vi](https://open.spotify.com/track/2yvIZ52EKT3kNAwzKj292i) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [emmanuellcortess\_](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Desde Que La Vi](https://open.spotify.com/album/0mfQ214VTepNIL0IKFMG64) | 2:48 | 2025-06-29 |  |
 | [Despegando el Vuelo \- En vivo](https://open.spotify.com/track/2MQWeK6zYI6PEN2vYRery3) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Despegando el Vuelo \(En vivo\)](https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF) | 3:31 | 2022-06-01 | 2023-06-27 |
 | [Dice Que Quiere Verme](https://open.spotify.com/track/2t9VTwfAESJiDsvgNEqyP2) | [Benji V](https://open.spotify.com/artist/6fkUHseNm5m0sScnOOJxWA), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Dice Que Quiere Verme](https://open.spotify.com/album/3Ds5tclOhyUktySgeAd8eG) | 2:20 | 2025-02-17 | 2025-05-31 |
 | [DICE QUE QUIERE VERME](https://open.spotify.com/track/3kn2VQXsISqLcwEW1Rk9yU) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [ONLY ENAMORADOS](https://open.spotify.com/album/2mEvV18XEfAwIT73TiO8dU) | 2:39 | 2025-02-21 |  |
@@ -72,7 +73,7 @@
 | [Me Gustas Mucho \- En vivo](https://open.spotify.com/track/30R4GITMuZLLVGmXXGwr9I) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 3 \(En vivo\)](https://open.spotify.com/album/4jufeGTVJpClLZiktiMMGn) | 3:40 | 2022-06-01 |  |
 | [Mi Despedida](https://open.spotify.com/track/0V3vAtJgeOEI58diEdq5by) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 4:05 | 2022-07-14 | 2024-06-14 |
 | [Mi Universo Entero](https://open.spotify.com/track/6OPFaShW3TEnLcYWSZxt67) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [LEALTAD](https://open.spotify.com/album/1JdiEIBdZQWfrZB2uFEGqm) | 3:37 | 2024-02-04 | 2024-09-08 |
-| [Miedo](https://open.spotify.com/track/77CHXmQPAjOWXuaUod5pKH) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Miedo](https://open.spotify.com/album/3gUSgjv0rTLWa8N8CAYsF5) | 3:09 | 2024-11-05 |  |
+| [Miedo](https://open.spotify.com/track/77CHXmQPAjOWXuaUod5pKH) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Miedo](https://open.spotify.com/album/3gUSgjv0rTLWa8N8CAYsF5) | 3:09 | 2024-11-05 | 2025-06-29 |
 | [Mil Gracias Por Existir](https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mil Gracias Por Existir](https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6) | 3:45 | 2022-06-01 |  |
 | [Mira Jodidon](https://open.spotify.com/track/7b5Qcwa49HRUW3AvX3v781) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Mira Jodidon](https://open.spotify.com/album/76UGi97cC4O9r4Sd86CNZ9) | 2:52 | 2023-06-11 |  |
 | [Mujer De Piedra \- en Vivo](https://open.spotify.com/track/62wAZvEX6hMflSGYfC46xV) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón \(en Vivo\)](https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv) | 3:18 | 2022-06-01 | 2022-10-02 |

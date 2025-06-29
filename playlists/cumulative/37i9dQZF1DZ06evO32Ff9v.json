@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Al Estilo De Mi Rancho",
+        "url": "https://open.spotify.com/album/0o5ITaozMt2X15qvwWBWfT"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "El Mismo Del Retiro",
+      "url": "https://open.spotify.com/track/0I4luDdH7SbNNLbGyzjgdK"
+    },
+    {
+      "album": {
         "name": "El Morro",
         "url": "https://open.spotify.com/album/6SXwiwWjSaCn0KXCgjwk4v"
       },
@@ -944,7 +962,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 160624,
       "name": "Gorron Camuflajeado",
       "url": "https://open.spotify.com/track/0S3mwuj8AzujWzPi7j5XHM"

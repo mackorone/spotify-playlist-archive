@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 
 > This is Kittie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,016 likes - 44 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,021 likes - 44 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 | 16 | [Cut Throat](https://open.spotify.com/track/0uSCW9vv8Vo4kGlSfemJ80) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [In The Black](https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC) | 3:01 |
 | 17 | [Do You Think I'm a Whore?](https://open.spotify.com/track/7tonKC2RWNxneYbNAXfm0e) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH) | 3:04 |
 | 18 | [Loveless](https://open.spotify.com/track/2NAa2OHG4Jk0P3XmH0UsjJ) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Until the End](https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ) | 2:08 |
-| 19 | [Vultures](https://open.spotify.com/track/3FFLu7fSNyxsYNCFZnlj3Q) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE) | 3:18 |
+| 19 | [I Still Wear This Crown](https://open.spotify.com/track/7i3dC9nVXgPFKxnxMUp9ve) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE) | 3:42 |
 | 20 | [In Winter](https://open.spotify.com/track/3meQtXNdUBDx2ksYS1mXiV) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Oracle](https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD) | 5:32 |
 | 21 | [Suck](https://open.spotify.com/track/4UeVTOxOBUwUF8mjXD9EKc) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH) | 3:33 |
 | 22 | [Until the End](https://open.spotify.com/track/0ZVPBe1MWTQr2nIL2apfaN) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Until the End](https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ) | 4:13 |
-| 23 | [I Still Wear This Crown](https://open.spotify.com/track/7i3dC9nVXgPFKxnxMUp9ve) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE) | 3:42 |
+| 23 | [Vultures](https://open.spotify.com/track/3FFLu7fSNyxsYNCFZnlj3Q) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE) | 3:18 |
 | 24 | [No Name](https://open.spotify.com/track/0pYBl7g2AJtXmVPgEk8KiA) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Oracle](https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD) | 2:14 |
 | 25 | [Funeral For Yesterday](https://open.spotify.com/track/3zX27AEZt8k1FhF0B5WMuv) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Funeral For Yesterday](https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj) | 3:24 |
 | 26 | [Look So Pretty](https://open.spotify.com/track/3mJKYpyiqfftfLmAE5PBIU) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Until the End](https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ) | 5:29 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 | 43 | [Around Your Heart](https://open.spotify.com/track/2LMK7i9K7mvr3T7M0TlIb7) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Funeral For Yesterday](https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj) | 2:56 |
 | 44 | [Whisper Of Death](https://open.spotify.com/track/7qQtIuKEQOZCOm4Gt3Mn9Q) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 4:18 |
 
-Snapshot ID: `aFyNgAAAAAAvZb0dapN/5Mspq51e9BE+`
+Snapshot ID: `aF3fAAAAAAAvCd5EKCmn3SvE1FAdtb7A`

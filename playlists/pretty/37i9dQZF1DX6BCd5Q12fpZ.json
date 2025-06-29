@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Loreen",
-  "num_followers": 66009,
+  "num_followers": 66000,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-03-14 16:58:53",
       "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/4CfWfExyyIuTxTXd7jjmy7"
-      },
-      "artists": [
-        {
-          "name": "Tamta",
-          "url": "https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ"
-        }
-      ],
-      "duration_ms": 173812,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/2UOyQB26wSQzM0jiTcUg50"
-    },
-    {
-      "added_at": "2025-03-14 16:58:53",
-      "album": {
         "name": "La La Love",
         "url": "https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 182733,
       "name": "La La Love",
       "url": "https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9"
+    },
+    {
+      "added_at": "2025-03-14 16:58:53",
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/4CfWfExyyIuTxTXd7jjmy7"
+      },
+      "artists": [
+        {
+          "name": "Tamta",
+          "url": "https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ"
+        }
+      ],
+      "duration_ms": 173812,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/2UOyQB26wSQzM0jiTcUg50"
     },
     {
       "added_at": "2025-03-14 16:58:53",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2025-03-14 16:58:53",
       "album": {
+        "name": "Their Very Best (Rerecorded Version)",
+        "url": "https://open.spotify.com/album/5CmrPJKCdMBVigrFkhUMYd"
+      },
+      "artists": [
+        {
+          "name": "The New Seekers",
+          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
+        }
+      ],
+      "duration_ms": 163946,
+      "name": "Beg, Steal or Borrow (Rerecorded)",
+      "url": "https://open.spotify.com/track/5Tz3t51jlmiXT8vLudREpx"
+    },
+    {
+      "added_at": "2025-03-14 16:58:53",
+      "album": {
         "name": "Toy",
         "url": "https://open.spotify.com/album/21YEfZ84TzdjNvOWEdwjeF"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 180230,
       "name": "Toy",
       "url": "https://open.spotify.com/track/6n2eIfLj0wOOUkUfNmYzlh"
-    },
-    {
-      "added_at": "2025-03-14 16:58:53",
-      "album": {
-        "name": "She Got Me",
-        "url": "https://open.spotify.com/album/49NV91ZkaohMBJdoBA16ek"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 180816,
-      "name": "She Got Me",
-      "url": "https://open.spotify.com/track/6TNK1SFt77MvTFoiTloiFQ"
     }
   ],
   "unique_name": "Eurovision Party",

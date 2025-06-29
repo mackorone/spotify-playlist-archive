@@ -1,12 +1,12 @@
 {
   "description": "This is Adriana R\u00edos. The essential tracks, all in one playlist.",
-  "num_followers": 486,
+  "num_followers": 488,
   "original_name": "This Is Adriana R\u00edos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAABwZL5SIruWaEalzSQpODho",
+  "snapshot_id": "aF3fAAAAAACnSq58ZYQsB8B1dIJLZeVP",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Nuevo",
-        "url": "https://open.spotify.com/album/4IaKqKnEWL4b4TZNVoJVFl"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 179427,
-      "name": "Nada Nuevo",
-      "url": "https://open.spotify.com/track/2zWBJ3xT76pLwfMxBpdFWK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/7jcACbrK7WZcC0AnWxgjDa"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 214954,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/1x53w4Ylh1c0RmNCrJWqIB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada Nuevo",
+        "url": "https://open.spotify.com/album/4IaKqKnEWL4b4TZNVoJVFl"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 179427,
+      "name": "Nada Nuevo",
+      "url": "https://open.spotify.com/track/2zWBJ3xT76pLwfMxBpdFWK"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Est\u00e1 en Ti (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/2i8JdiTs4GglQzJoNvtLCH"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 251147,
-      "name": "Est\u00e1 en Ti - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/4JAYKgGPdfLn6UOdkEAGDE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Loter\u00eda",
         "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 191985,
       "name": "Ojal\u00e1 que Quererte Bastara",
       "url": "https://open.spotify.com/track/76VcLV0jBskhnoxWmbz7yI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Est\u00e1 en Ti (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/2i8JdiTs4GglQzJoNvtLCH"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 251147,
+      "name": "Est\u00e1 en Ti - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/4JAYKgGPdfLn6UOdkEAGDE"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 81305,
+  "num_followers": 81390,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAADBuDpVqG4qOS2ngwu6f/wH",
+  "snapshot_id": "aF3fAAAAAABsK0uldAh+uCsgmF26mmJr",
   "tracks": [
     {
       "added_at": null,
@@ -679,34 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ICARUS",
-        "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Gigantes",
-          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
-        }
-      ],
-      "duration_ms": 237941,
-      "name": "Se eu n\u00e3o lembrar",
-      "url": "https://open.spotify.com/track/2Pwb1vbghtrkNBNVzlNf7N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VER\u00c3O CRIMINOSO",
         "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
       },
@@ -731,6 +703,34 @@
       "duration_ms": 240055,
       "name": "HOTEL ZONA SUL",
       "url": "https://open.spotify.com/track/3yavOAIet93Kag6H5ZeECs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ICARUS",
+        "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Gigantes",
+          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
+        }
+      ],
+      "duration_ms": 237941,
+      "name": "Se eu n\u00e3o lembrar",
+      "url": "https://open.spotify.com/track/2Pwb1vbghtrkNBNVzlNf7N"
     },
     {
       "added_at": null,
@@ -779,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O L\u00edder em Movimento",
+        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        }
+      ],
+      "duration_ms": 152342,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/3bdgb8PuKpkA54t4SPN0cG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 206378,
       "name": "Em nome do que sinto",
       "url": "https://open.spotify.com/track/34A67HYwwe91CyLaNVQ6JG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O L\u00edder em Movimento",
-        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        }
-      ],
-      "duration_ms": 152342,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/3bdgb8PuKpkA54t4SPN0cG"
     },
     {
       "added_at": null,
@@ -919,8 +919,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
+        "name": "Antes dos Gigantes Chegarem, Vol. 2",
+        "url": "https://open.spotify.com/album/5Dz9KqHWRNlLHrWpEXcWoc"
       },
       "artists": [
         {
@@ -928,13 +928,21 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
           "name": "El Lif Beatz",
           "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        },
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
         }
       ],
-      "duration_ms": 294314,
-      "name": "Tit\u00e3s",
-      "url": "https://open.spotify.com/track/3yMjo7k4tTly5iyYcvQM3S"
+      "duration_ms": 227093,
+      "name": "Almas",
+      "url": "https://open.spotify.com/track/1l2T5EJk8djGStVNwsltCo"
     },
     {
       "added_at": null,
@@ -967,8 +975,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antes dos Gigantes Chegarem, Vol. 2",
-        "url": "https://open.spotify.com/album/5Dz9KqHWRNlLHrWpEXcWoc"
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
       },
       "artists": [
         {
@@ -976,21 +984,13 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
           "name": "El Lif Beatz",
           "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        },
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
         }
       ],
-      "duration_ms": 227093,
-      "name": "Almas",
-      "url": "https://open.spotify.com/track/1l2T5EJk8djGStVNwsltCo"
+      "duration_ms": 294314,
+      "name": "Tit\u00e3s",
+      "url": "https://open.spotify.com/track/3yMjo7k4tTly5iyYcvQM3S"
     },
     {
       "added_at": null,
@@ -1015,26 +1015,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
+        "name": "SEMR\u00c9H",
+        "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
       },
       "artists": [
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
         }
       ],
-      "duration_ms": 148738,
-      "name": "Deus do Furdun\u00e7o",
-      "url": "https://open.spotify.com/track/4cdCTVjFGCOxwhIOBAgY6O"
+      "duration_ms": 147967,
+      "name": "SEMR\u00c9H",
+      "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
     },
     {
       "added_at": null,
@@ -1059,26 +1059,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEMR\u00c9H",
-        "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
       },
       "artists": [
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "6ee",
-          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
         }
       ],
-      "duration_ms": 147967,
-      "name": "SEMR\u00c9H",
-      "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
+      "duration_ms": 148738,
+      "name": "Deus do Furdun\u00e7o",
+      "url": "https://open.spotify.com/track/4cdCTVjFGCOxwhIOBAgY6O"
     },
     {
       "added_at": null,
@@ -1123,6 +1123,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        }
+      ],
+      "duration_ms": 186806,
+      "name": "O Pr\u00f3ximo Nascer do Sol",
+      "url": "https://open.spotify.com/track/47PieBHqNxpbLZqsDAUCI4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gigantes",
         "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 249813,
       "name": "Vivos",
       "url": "https://open.spotify.com/track/10jI01n8w6g41qiIMAcAkb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        }
-      ],
-      "duration_ms": 186806,
-      "name": "O Pr\u00f3ximo Nascer do Sol",
-      "url": "https://open.spotify.com/track/47PieBHqNxpbLZqsDAUCI4"
     }
   ],
   "unique_name": "This Is BK",

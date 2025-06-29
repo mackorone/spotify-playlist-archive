@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 
 > The hottest Anime hits of the 10s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,913 likes - 70 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,973 likes - 71 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,10 +73,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 | 63 | [Synchrogazer](https://open.spotify.com/track/69QNXJNXFddfmzcz0mDB6m) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 4:27 |
 | 64 | [Sparkling Daydream](https://open.spotify.com/track/343P4NOfSrRoWq3l9hNfZl) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [NOISY Lab.](https://open.spotify.com/album/1xFcpdZWds4oZSICgjY1BI) | 4:09 |
 | 65 | [言わないけどね。](https://open.spotify.com/track/13saEo7ciOYh6nUGrC79cx) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [星に名前をつけるとき](https://open.spotify.com/album/4w0N1X4kmwzMxH4umBaF6H) | 4:32 |
-| 66 | [ぼくのフレンド](https://open.spotify.com/track/5AH0F230K1ab9TPYUA3wR5) | [mewhan](https://open.spotify.com/artist/13tttiaoECFPQKEigVnYU6) | [自己スキーマ](https://open.spotify.com/album/7qCWMC5KQ3SDii2P3u2Z7M) | 4:11 |
-| 67 | [光のシグナル](https://open.spotify.com/track/68VO2aVwUrkRJo7m0XrK45) | [Kis\-My\-Ft2](https://open.spotify.com/artist/4kxoWjOpCVYKgPv9nea95k) | [光のシグナル](https://open.spotify.com/album/28mES2k7GFbwbhK2lVULON) | 4:24 |
-| 68 | [GO\-GO たまごっち!](https://open.spotify.com/track/4o7S3ohVMcmpppfjoNG8sZ) | [Yuria Nara](https://open.spotify.com/artist/6jDETxjdmgLtsewT4c3WMn) | [GO\-GO たまごっち!](https://open.spotify.com/album/43pOv6KdgB05eUgUO34OLV) | 3:48 |
-| 69 | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/track/3MpAKiHm0dzxRBSBwJ3PBC) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [20112012](https://open.spotify.com/album/3DW6bLcegm87OVIDKCVnZ8) | 3:54 |
-| 70 | [Crow Song](https://open.spotify.com/track/3gvA4qesNQ2HyBVr34i1q3) | [marina](https://open.spotify.com/artist/358xRt5CBUd9I19QYV379n), [VISUAL ARTS / Key](https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z) | [Crow Song](https://open.spotify.com/album/6zdGnjO1xFsPr3eEIrjQec) | 4:08 |
+| 66 | [竈門炭治郎のうた \-OST ver.\-](https://open.spotify.com/track/3wJujLcsrXsmrr5M9fRdyW) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH), [中川奈美](https://open.spotify.com/artist/6fRAchGeMqG9ppHP8QBQuk) | [「鬼滅の刃」竈門炭治郎 立志編 オリジナルサウンドトラック](https://open.spotify.com/album/7wN7HLAWdOTtPBGUHxP3tv) | 5:30 |
+| 67 | [ぼくのフレンド](https://open.spotify.com/track/5AH0F230K1ab9TPYUA3wR5) | [mewhan](https://open.spotify.com/artist/13tttiaoECFPQKEigVnYU6) | [自己スキーマ](https://open.spotify.com/album/7qCWMC5KQ3SDii2P3u2Z7M) | 4:11 |
+| 68 | [光のシグナル](https://open.spotify.com/track/68VO2aVwUrkRJo7m0XrK45) | [Kis\-My\-Ft2](https://open.spotify.com/artist/4kxoWjOpCVYKgPv9nea95k) | [光のシグナル](https://open.spotify.com/album/28mES2k7GFbwbhK2lVULON) | 4:24 |
+| 69 | [GO\-GO たまごっち!](https://open.spotify.com/track/4o7S3ohVMcmpppfjoNG8sZ) | [Yuria Nara](https://open.spotify.com/artist/6jDETxjdmgLtsewT4c3WMn) | [GO\-GO たまごっち!](https://open.spotify.com/album/43pOv6KdgB05eUgUO34OLV) | 3:48 |
+| 70 | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/track/3MpAKiHm0dzxRBSBwJ3PBC) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [20112012](https://open.spotify.com/album/3DW6bLcegm87OVIDKCVnZ8) | 3:54 |
+| 71 | [Crow Song](https://open.spotify.com/track/3gvA4qesNQ2HyBVr34i1q3) | [marina](https://open.spotify.com/artist/358xRt5CBUd9I19QYV379n), [VISUAL ARTS / Key](https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z) | [Crow Song](https://open.spotify.com/album/6zdGnjO1xFsPr3eEIrjQec) | 4:08 |
 
-Snapshot ID: `aAJaGAAAAABQoMO81zZq4488x6K3q2mt`
+Snapshot ID: `aGADeAAAAAA70YSXQWfJxg/zjOrLbE4D`

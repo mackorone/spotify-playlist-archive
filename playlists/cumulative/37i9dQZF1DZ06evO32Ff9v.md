@@ -4,7 +4,7 @@
 
 > This is Los Farmerz\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 7 min
+79 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [El Michoacano](https://open.spotify.com/track/0W3reeRq2mS49FCo8bRzGY) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [No Ando Solo](https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e) | 3:44 | 2024-08-20 |  |
 | [El Michoacano](https://open.spotify.com/track/3V6d561vDtoJAm0UH4guEi) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Michoacano](https://open.spotify.com/album/4Qn5gGTw2D8fkIBx42GJqi) | 3:44 | 2024-01-29 | 2024-08-20 |
 | [El Mismo de Antes RR](https://open.spotify.com/track/5j7dbBzqxXiDb3hW95CcVt) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 3:07 | 2024-01-29 | 2024-02-22 |
+| [El Mismo Del Retiro](https://open.spotify.com/track/0I4luDdH7SbNNLbGyzjgdK) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Al Estilo De Mi Rancho](https://open.spotify.com/album/0o5ITaozMt2X15qvwWBWfT) | 4:14 | 2025-06-29 |  |
 | [El Morro](https://open.spotify.com/track/5Gn6rBQBSRB2m4lj79XxLW) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [El Morro](https://open.spotify.com/album/6SXwiwWjSaCn0KXCgjwk4v) | 3:43 | 2024-03-03 |  |
 | [El Muchacho De Las Cajas](https://open.spotify.com/track/4P5GD2VOkMahwrqIjOYGTD) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ni Modo Que Sea Mentira](https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh) | 3:21 | 2024-01-29 |  |
 | [El Pata](https://open.spotify.com/track/0vZ7HkpXPwnFbyMj5CD478) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Pata](https://open.spotify.com/album/2qRxzGDSGQhV5ukZaykWvr) | 2:23 | 2024-01-29 | 2024-12-19 |
@@ -54,7 +55,7 @@
 | [Estratega de Guerra](https://open.spotify.com/track/3npSHShqRhlhMSK1NuL3xm) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 4:07 | 2024-01-29 |  |
 | [Gallo Fino](https://open.spotify.com/track/2If3KMEM7GBifXEFuIJhjW) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Gallo Fino](https://open.spotify.com/album/6wMh4EtNMU85BGmGWrYfiq) | 3:09 | 2024-01-29 |  |
 | [Gilberto Garcia](https://open.spotify.com/track/5PGBjrA0BQ5vytGGe1pDRS) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:35 | 2024-01-29 | 2025-01-15 |
-| [Gorron Camuflajeado](https://open.spotify.com/track/0S3mwuj8AzujWzPi7j5XHM) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Gorron Camuflajeado](https://open.spotify.com/album/2QLPLIZbAl4Al8DLPObtW6) | 2:40 | 2025-05-31 |  |
+| [Gorron Camuflajeado](https://open.spotify.com/track/0S3mwuj8AzujWzPi7j5XHM) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Gorron Camuflajeado](https://open.spotify.com/album/2QLPLIZbAl4Al8DLPObtW6) | 2:40 | 2025-05-31 | 2025-06-29 |
 | [Hublot](https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Hublot](https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG) | 3:45 | 2024-01-29 |  |
 | [La Belikiza](https://open.spotify.com/track/7gJnQLfoixzf5ODwLdIhoj) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [La Belikiza](https://open.spotify.com/album/7HOUdywGr2S6abfhiUxopa) | 3:01 | 2024-06-10 |  |
 | [La Changa](https://open.spotify.com/track/1E6dXHr5Z00c5eCEuWTCOg) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 3:22 | 2024-01-29 |  |

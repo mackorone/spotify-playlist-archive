@@ -4,7 +4,7 @@
 
 > This is The Offspring\. The essential tracks, all in one playlist.
 
-81 songs - 4 hr 20 min
+82 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Let The Bad Times Roll](https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:18 | 2022-09-16 |  |
 | [Light It Up](https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Light It Up](https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC) | 2:52 | 2024-08-06 | 2024-10-19 |
 | [Light It Up](https://open.spotify.com/track/6Hqpak2C21R2Qd448RGm7a) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 2:52 | 2024-10-19 |  |
-| [Looking Out For \#1](https://open.spotify.com/track/6fjO1ydi9dNB0nooAI2g3C) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 3:16 | 2024-10-13 |  |
+| [Looking Out For \#1](https://open.spotify.com/track/6fjO1ydi9dNB0nooAI2g3C) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 3:16 | 2024-10-13 | 2025-06-29 |
+| [Looking Out For \#1 \- Ska Version](https://open.spotify.com/track/4ZBg1K6FoRm9UeOgREONMm) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ), [Bob Rock](https://open.spotify.com/artist/3fv3YVn2yEca71WZ6F0ATL), [Adam Greenholtz](https://open.spotify.com/artist/2brks2Gr3FO86tZouEhnua) | [Looking Out For \#1](https://open.spotify.com/album/2E3I7oPT2ioHTxa1hT43H6) | 2:30 | 2025-06-29 |  |
 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 | 2024-06-09 | 2024-10-19 |
 | [Make It All Right](https://open.spotify.com/track/7aBlXz5oLZfkpUAUQdgS0S) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 3:34 | 2024-10-19 |  |
 | [Million Miles Away](https://open.spotify.com/track/6tNeHmedp9qo3BsBp5zOPe) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Conspiracy Of One](https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs) | 3:39 | 2022-09-16 |  |

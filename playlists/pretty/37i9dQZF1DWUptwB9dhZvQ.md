@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : Coolie
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,404 likes - 75 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,440 likes - 75 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 28 | [Brothers in Arms](https://open.spotify.com/track/69RyTphfpI2ySydSDLbVLE) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Raayan \(Original Background Score\)](https://open.spotify.com/album/0ZlKGiNXYO5G8Gpg5iFTUm) | 2:01 |
 | 29 | [Gethu Crosses the Line](https://open.spotify.com/track/6kkmaPmJDrV4HvaBbEjh4m) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU) | [Lubber Pandhu \(Original Background Score\)](https://open.spotify.com/album/6YCWHf2D4QIxIdaJ7RUDmw) | 3:00 |
 | 30 | [Valimai Motion Poster Theme \(From "Valimai"\)](https://open.spotify.com/track/7rto8ANj8esy1YSfDekGSL) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Valimai Motion Poster Theme \(From "Valimai"\)](https://open.spotify.com/album/2jz0ydxBSQm359To6I4XE4) | 1:27 |
-| 31 | [Kabadi](https://open.spotify.com/track/5TLFiGnxajzsG9aSdkFzep) | [Vidyasagar](https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5), [Jayamoorthy](https://open.spotify.com/artist/1d0FDTTmRwnzgSTDLx0pEX), [Maran](https://open.spotify.com/artist/6H929oSANZnlbUZMcv9lCZ) | [Ghilli](https://open.spotify.com/album/7Bdcd9jHBes2xdvxuzto28) | 1:44 |
-| 32 | [Jagdish On Mission Theme \- Instrumental](https://open.spotify.com/track/3F7gR8xnnojlAxlLOHUoQp) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l) | [Thuppakki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3cHO6AGqouRETUlmJTqxmy) | 3:26 |
+| 31 | [Jagdish On Mission Theme \- Instrumental](https://open.spotify.com/track/3F7gR8xnnojlAxlLOHUoQp) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l) | [Thuppakki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3cHO6AGqouRETUlmJTqxmy) | 3:26 |
+| 32 | [Kabadi](https://open.spotify.com/track/5TLFiGnxajzsG9aSdkFzep) | [Vidyasagar](https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5), [Jayamoorthy](https://open.spotify.com/artist/1d0FDTTmRwnzgSTDLx0pEX), [Maran](https://open.spotify.com/artist/6H929oSANZnlbUZMcv9lCZ) | [Ghilli](https://open.spotify.com/album/7Bdcd9jHBes2xdvxuzto28) | 1:44 |
 | 33 | [The OG Thug \(From "Thug Life"\)](https://open.spotify.com/track/13BijBtySer5TbVfi2R8vN) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Karthik Netha](https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55), [Alexandra Joy](https://open.spotify.com/artist/3JohY0Ur2mASWnvr1Q6x79) | [The OG Thug \(From "Thug Life"\)](https://open.spotify.com/album/6nwruUy2eySbzUPq86Yn1H) | 0:42 |
 | 34 | [Sketch \- Theme](https://open.spotify.com/track/3WGHcBhPEbVvsUYU6z6nti) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Sketch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3BdVJ7kB8AdPN4HD35dE7X) | 3:06 |
 | 35 | [Kaala \(Tamil\) Teaser Theme](https://open.spotify.com/track/5qn6YDWxmMbW31AOzts8aF) | [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm) | [Kaala \(Tamil\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ypfdQ9KvJb9NizV0dqh8y) | 1:10 |

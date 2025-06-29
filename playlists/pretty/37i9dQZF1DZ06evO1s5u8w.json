@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 195804,
+  "num_followers": 195823,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAACntQXzNC4T1cXu2iB+Ob5L",
+  "snapshot_id": "aF3fAAAAAADT443Je6OXbFPc3y1K3PoY",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Songs About Buildings and Food (Deluxe Version)",
-        "url": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 183186,
-      "name": "The Good Thing - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5KRtiPYvYDqE8MysJmDOut"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Little Creatures",
         "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 255800,
       "name": "Creatures of Love - 2005 Remaster",
       "url": "https://open.spotify.com/track/3FaH21ikbgUKt21GMqC5DI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Songs About Buildings and Food (Deluxe Version)",
+        "url": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 183186,
+      "name": "The Good Thing - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5KRtiPYvYDqE8MysJmDOut"
     },
     {
       "added_at": null,

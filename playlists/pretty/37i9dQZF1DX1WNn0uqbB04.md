@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 
 > El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,835 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,841 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 17 | [Intentos del abrigo](https://open.spotify.com/track/1aqFFIRrzynC0F418qgF1D) | [Lakes](https://open.spotify.com/artist/4XkqhcDENtW6pqFQmYG47L) | [Intentos del abrigo](https://open.spotify.com/album/10GbbqcnA4vFqO6hpjTcAM) | 3:42 |
 | 18 | [Sonido Nativo del Río](https://open.spotify.com/track/74yqyT2QjK9CZJcK6szEqD) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Sonido Nativo del Río](https://open.spotify.com/album/4tDzS7KjJcwKdeEZXoErsl) | 3:18 |
 | 19 | [Curarme \(TANGO\)](https://open.spotify.com/track/3ORq0D5qOwljp6UKq9Xdic) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [De Fábrica \(Versión Extendida\)](https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K) | 3:23 |
-| 20 | [Bahia Blanca](https://open.spotify.com/track/7djvoHOtL85rHJtwOgmCAW) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Milonguero](https://open.spotify.com/album/3k4njpRBXJDfFvZljMXK7g) | 2:50 |
-| 21 | [Peligro](https://open.spotify.com/track/1wJ8rjz2m9fv1X8TmKICWh) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [Best of Gotan Project](https://open.spotify.com/album/2LVpoh6UUJpRMvxR3CqsRc) | 3:58 |
+| 20 | [Peligro](https://open.spotify.com/track/1wJ8rjz2m9fv1X8TmKICWh) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [Best of Gotan Project](https://open.spotify.com/album/2LVpoh6UUJpRMvxR3CqsRc) | 3:58 |
+| 21 | [Bahia Blanca](https://open.spotify.com/track/7djvoHOtL85rHJtwOgmCAW) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Milonguero](https://open.spotify.com/album/3k4njpRBXJDfFvZljMXK7g) | 2:50 |
 | 22 | [Oblivion](https://open.spotify.com/track/745ECNomCDA8KOMUM1sMdR) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Di Meola Plays Piazzolla](https://open.spotify.com/album/1z737UccnQ0DiLcSIdrpw0) | 6:03 |
 | 23 | [Canopus](https://open.spotify.com/track/7MmhdgP3Fw2P51C1aBuroS) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Tango on Mars](https://open.spotify.com/album/1KQHFteiA1B5H1N47BdZsq) | 3:19 |
 | 24 | [Hotel Victoria \- original](https://open.spotify.com/track/1QeIGML6ntT3Ml8uFy4Kr0) | [San Telmo Lounge](https://open.spotify.com/artist/30HyR7VywzVrsKvpl2vXu4) | [Madrugada En Backcelonia](https://open.spotify.com/album/6pptnPvirGvArFZd0cYwmY) | 3:22 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 50 | [La Última Copa](https://open.spotify.com/track/5QWi1iGvTappdOGes0CAPE) | [Mauricio Junior Lescano](https://open.spotify.com/artist/0InckL49BuCjxQZuSPg9DV) | [Modo Tango](https://open.spotify.com/album/5hztYEebSTjDTFEV1gO9hK) | 2:35 |
 | 51 | [Plegaria para un niño dormido](https://open.spotify.com/track/3hW3s0ClWYEKdDVZnwKZYU) | [Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 3:47 |
 | 52 | [Subrealidad](https://open.spotify.com/track/04349i5UALrGIrKNGu1lPi) | [Orquesta Típica Fernández Fierro](https://open.spotify.com/artist/1wAtmDhWZHAQUcq1foSZXv) | [Ahora y Siempre](https://open.spotify.com/album/7Detx05YysB5gIzv7Z3Fxd) | 2:08 |
-| 53 | [Fueye Mood](https://open.spotify.com/track/7o405CF3y3a0s5nDPQYAlE) | [Supertangox](https://open.spotify.com/artist/0hSsQFYJ0B5MMpjpg9rwKC) | [Fueye Mood](https://open.spotify.com/album/7vrPwQQk9tgwirJXpa8uia) | 3:51 |
-| 54 | [Mistela](https://open.spotify.com/track/3n2VMpEZW00BKG6MAsJEeo) | [Narcotango](https://open.spotify.com/artist/4QaiDw2kGhHm0JPqZ166D9), [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n), [Mariano Castro](https://open.spotify.com/artist/2EO2iOsCDEZcqAhWu22tYH) | [Limanueva](https://open.spotify.com/album/1Q1J4JdO0wxNuFgvBsSQYy) | 4:19 |
+| 53 | [Mistela](https://open.spotify.com/track/3n2VMpEZW00BKG6MAsJEeo) | [Narcotango](https://open.spotify.com/artist/4QaiDw2kGhHm0JPqZ166D9), [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n), [Mariano Castro](https://open.spotify.com/artist/2EO2iOsCDEZcqAhWu22tYH) | [Limanueva](https://open.spotify.com/album/1Q1J4JdO0wxNuFgvBsSQYy) | 4:19 |
+| 54 | [Fueye Mood](https://open.spotify.com/track/7o405CF3y3a0s5nDPQYAlE) | [Supertangox](https://open.spotify.com/artist/0hSsQFYJ0B5MMpjpg9rwKC) | [Fueye Mood](https://open.spotify.com/album/7vrPwQQk9tgwirJXpa8uia) | 3:51 |
 | 55 | [Línea D](https://open.spotify.com/track/35qVKJEncUuBN93wh29u9P) | [Sudestada Tango](https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S) | [Otoño](https://open.spotify.com/album/0e6nn83SoAOV6XeWDAUNkn) | 4:05 |
 | 56 | [Fuego y pasión / Que Ironía \- Acústico](https://open.spotify.com/track/3UzaPjqE4v7CCnvVzbVNKg) | [Gianni](https://open.spotify.com/artist/0Wb8Pu3pQBRYRhuc9yRZOU) | [Fuego y pasión / Que Ironía \(Acústico\)](https://open.spotify.com/album/3wJNdWMDUM0C4d5j9SUbDD) | 4:00 |
 | 57 | [Tanguera](https://open.spotify.com/track/2Bas5NJDcCXgJE3W48hbgV) | [Diego Schissi Quinteto](https://open.spotify.com/artist/4ot8iEVkzB5p3K18cnGRdZ) | [Tanguera](https://open.spotify.com/album/1u2zR173xUYZkfK6S4JudX) | 4:14 |

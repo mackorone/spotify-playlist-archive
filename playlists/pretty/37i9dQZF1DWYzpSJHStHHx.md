@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All the sunny surf rock you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,027 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,050 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 28 | [Soft Rock Band](https://open.spotify.com/track/5XufqHphZkJhIkc5wlEST7) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Soft Rock Band](https://open.spotify.com/album/5iovC6HGeUUD5S8cahSw0m) | 8:12 |
 | 29 | [Sun Rise Swell](https://open.spotify.com/track/5L6sVTCur1s0IuB7Nvs3pA) | [Santino Surfers](https://open.spotify.com/artist/0rhvpJA9qFkdTot8R8AdaQ) | [Santino Surfers](https://open.spotify.com/album/2gsKWl57HFPxbEooYtC3aP) | 6:17 |
 | 30 | [Sunlight](https://open.spotify.com/track/7nH4MetArjcIwGgZ4TBLYj) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Sunlight](https://open.spotify.com/album/4UevxgkjqAx6rBhGlA28Yl) | 3:51 |
-| 31 | [Killin' the Vibe](https://open.spotify.com/track/4NcYXkAAvldlvl7esKz5A3) | [Ducktails](https://open.spotify.com/artist/5FQbU5Lrb4pFcW45ZgZzMx) | [III: Arcade Dynamics](https://open.spotify.com/album/1qJHtKPrmdreEmFOPPrTcf) | 4:19 |
-| 32 | [Talking In My Sleep](https://open.spotify.com/track/3KCu4QHTMPAxkUFPnScNQl) | [The Slims](https://open.spotify.com/artist/4Wo6sLfNidDTAqjgkZlCtp) | [Talking In My Sleep](https://open.spotify.com/album/4SEbfKk3d8pmyWTvdmJWBS) | 3:20 |
+| 31 | [Talking In My Sleep](https://open.spotify.com/track/3KCu4QHTMPAxkUFPnScNQl) | [The Slims](https://open.spotify.com/artist/4Wo6sLfNidDTAqjgkZlCtp) | [Talking In My Sleep](https://open.spotify.com/album/4SEbfKk3d8pmyWTvdmJWBS) | 3:20 |
+| 32 | [Killin' the Vibe](https://open.spotify.com/track/4NcYXkAAvldlvl7esKz5A3) | [Ducktails](https://open.spotify.com/artist/5FQbU5Lrb4pFcW45ZgZzMx) | [III: Arcade Dynamics](https://open.spotify.com/album/1qJHtKPrmdreEmFOPPrTcf) | 4:19 |
 | 33 | [The Beach](https://open.spotify.com/track/46EDkHBHvcrbvb6sCjGCwF) | [Warbaby](https://open.spotify.com/artist/5l7abo4Er8M2z34HTCczEK) | [The Beach](https://open.spotify.com/album/6G5mImkruaSprUxjInD0jY) | 3:15 |
 | 34 | [LONG LIVE THE WILDERNESS](https://open.spotify.com/track/0F3XAOuJuMY1dUll6lR0RY) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [LONG LIVE THE WILDERNESS](https://open.spotify.com/album/74G6zlK0eqHKbdleUXtafE) | 4:46 |
 | 35 | [Alright, Alright](https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8) | [Easy Honey](https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj) | [Ooooo](https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5) | 2:34 |
@@ -74,13 +74,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 64 | [Peace In Me](https://open.spotify.com/track/3WEFEaXOPlC9aYA6bf5yaH) | [Bones and Jones](https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4) | [In Colour](https://open.spotify.com/album/5DCOPvYMwUPv0UCoFVD1hl) | 4:35 |
 | 65 | [Fair Warning](https://open.spotify.com/track/4oLZSZ3FTrml6ma6sOOMbp) | [Mac Krol](https://open.spotify.com/artist/17G6PVRcbdHfWBhPRijvSs), [Mike Krol](https://open.spotify.com/artist/2c34ZzVmfwzsNHc05x3uzR), [Mac McCaughan](https://open.spotify.com/artist/3pLUCmcxLXGeLoYI5rw3O4) | ["For Some Other Reason" b/w "Fair Warning" and "What Would You Say?"](https://open.spotify.com/album/2gjY76SBe8JhzNisgdB4uk) | 2:27 |
 | 66 | [Fever Dream](https://open.spotify.com/track/6898BcNygl1YiW8Fabu5E2) | [Jimmy Cloud](https://open.spotify.com/artist/5eG7CShmVJKxJ168KQcpLv), [Willy Sinclair](https://open.spotify.com/artist/0coVCuGuAQjBcrAyWLznWQ) | [Fever Dream](https://open.spotify.com/album/1hxVcO8zlWM6XV4H264ig5) | 2:20 |
-| 67 | [Surfin' Detective](https://open.spotify.com/track/2Y3y0b07K01haCxhgn5Iy3) | [The Meerkats](https://open.spotify.com/artist/21FvT1hAvCEanOkMyDsFuB) | [Surfin' Detective](https://open.spotify.com/album/0wi5PBc2ky3AqYHpMW7Woi) | 4:56 |
-| 68 | [Cold Summers](https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud) | [Crepes](https://open.spotify.com/artist/12yjnt2kvKe5RpkvcUd4fh) | [Cold Summers EP](https://open.spotify.com/album/7Mpey35fVNBAXODN0efPpj) | 2:54 |
+| 67 | [Cold Summers](https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud) | [Crepes](https://open.spotify.com/artist/12yjnt2kvKe5RpkvcUd4fh) | [Cold Summers EP](https://open.spotify.com/album/7Mpey35fVNBAXODN0efPpj) | 2:54 |
+| 68 | [Surfin' Detective](https://open.spotify.com/track/2Y3y0b07K01haCxhgn5Iy3) | [The Meerkats](https://open.spotify.com/artist/21FvT1hAvCEanOkMyDsFuB) | [Surfin' Detective](https://open.spotify.com/album/0wi5PBc2ky3AqYHpMW7Woi) | 4:56 |
 | 69 | [Bees](https://open.spotify.com/track/0KyMzgnV6wtuiSXNrSwbmF) | [Wholesome](https://open.spotify.com/artist/2PLqBXGI8EeWZx2asQJIvl) | [Bees](https://open.spotify.com/album/1Q8zgTeNGKynVlI6a1j5Uc) | 3:33 |
 | 70 | [Couch Sex](https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU) | [Gerf](https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB) | [Can You See The Sunshine? \(EP\)](https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC) | 3:25 |
 | 71 | [Ceviche](https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE) | [The Audio Visual Drop Kicks](https://open.spotify.com/artist/0eCbFQwL3GpvgaW1wrjLSI) | [Ceviche](https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i) | 4:05 |
-| 72 | [Malibu Sunset](https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi) | [The Travelers](https://open.spotify.com/artist/6vayW66astvaRgv4llGBff) | [Malibu Sunset b/w Hang On](https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol) | 2:08 |
-| 73 | [Mammoth Surf](https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo) | [Eric Tessmer](https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C) | [Mammoth Surf](https://open.spotify.com/album/4heRPb0mBzy2WVb7jGLvKu) | 2:00 |
+| 72 | [Mammoth Surf](https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo) | [Eric Tessmer](https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C) | [Mammoth Surf](https://open.spotify.com/album/4heRPb0mBzy2WVb7jGLvKu) | 2:00 |
+| 73 | [Malibu Sunset](https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi) | [The Travelers](https://open.spotify.com/artist/6vayW66astvaRgv4llGBff) | [Malibu Sunset b/w Hang On](https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol) | 2:08 |
 | 74 | [Stained Glass Curtain](https://open.spotify.com/track/32hMObO47FeOlNPfn58XiZ) | [Conflict at Serenity Pools](https://open.spotify.com/artist/2NbYmPv7Un2A0cNOY2uZDd) | [Stained Glass Curtain](https://open.spotify.com/album/77BQ2RiVYfF9uT3lUIjE0L) | 2:50 |
 | 75 | [The Way You Talk](https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW) | [The Red Pears](https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT) | [The Way You Talk](https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq) | 3:18 |
 

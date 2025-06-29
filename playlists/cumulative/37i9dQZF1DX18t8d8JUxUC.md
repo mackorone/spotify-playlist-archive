@@ -4,7 +4,7 @@
 
 > This is what folk sounds like en español\. Cover: Silvana Estrada
 
-168 songs - 9 hr 59 min
+169 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Flores Muertas](https://open.spotify.com/track/2WeVVJCmTfR2kFomtxRHsz) | [Tavo Guarneros](https://open.spotify.com/artist/759KTIF2TLEnFd1UyRfs4Q) | [Flores Muertas](https://open.spotify.com/album/73c1nObVrUEtZwmY89VnEC) | 5:28 | 2025-01-24 | 2025-04-23 |
 | [Found Love](https://open.spotify.com/track/06bP5fBUljQLN6GPEMpiFr) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z) | [Violet](https://open.spotify.com/album/5hUBJd7VEVWEbsugJLTU9G) | 3:16 | 2023-02-24 |  |
 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 | 2023-02-24 |  |
-| [Ganas de Dejarte](https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Ganas de Dejarte](https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za) | 2:20 | 2023-09-08 |  |
+| [Ganas de Dejarte](https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Ganas de Dejarte](https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za) | 2:20 | 2023-09-08 | 2025-06-29 |
 | [Hace rato](https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW) | 3:16 | 2023-10-20 | 2024-04-19 |
 | [Hace rato](https://open.spotify.com/track/52nXzZrcAfgpg6SkBsrcEj) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4GhLuGhfn4tJ3bnT1pK4Gz) | 3:16 | 2023-08-18 | 2023-10-27 |
 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 | 2023-02-24 |  |
@@ -158,6 +158,7 @@
 | [todos menos yo](https://open.spotify.com/track/0h0Yt8CZxudSESeTFfRclh) | [Anna García](https://open.spotify.com/artist/7BaSeoQcti9uDTykvmXC0e), [Abraham GÜ](https://open.spotify.com/artist/1nlD2cwx9JW48o2obtOvVc) | [todos menos yo](https://open.spotify.com/album/0LNQEWpmVnfqfncP5KE7Ag) | 3:16 | 2024-01-04 |  |
 | [Tranquilo, Mi Corazón](https://open.spotify.com/track/26TvgqWxboqekdtCmqt28q) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Prenderé Una Velita](https://open.spotify.com/album/3aUvCwP3iJtMUjv1nZr1SI) | 3:15 | 2024-04-11 | 2025-01-18 |
 | [Tres Hermanos](https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:21 | 2023-02-24 | 2024-02-17 |
+| [Tu Fantasma](https://open.spotify.com/track/3RdxaQyDTWu6QmDakA7uTd) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Tu Fantasma](https://open.spotify.com/album/0cFzIQagqP392WScfEooRw) | 3:11 | 2025-06-27 |  |
 | [Tu mirar](https://open.spotify.com/track/4at07WEnwnZhY9j3FiJeRd) | [Sara Sístole](https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8) | [Tu mirar](https://open.spotify.com/album/3WUjsvkyxszrRvahbUR4ae) | 2:42 | 2025-05-06 |  |
 | [Un ratito más](https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Perla Rosa](https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf) | 3:51 | 2023-07-07 |  |
 | [Un Solo Vientre](https://open.spotify.com/track/652EkO5aFAC08No1JV0zqs) | [Japonica](https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD) | [Un Solo Vientre](https://open.spotify.com/album/4klUqNMjFqtTdR0Zzajow6) | 3:38 | 2023-07-28 | 2023-10-27 |

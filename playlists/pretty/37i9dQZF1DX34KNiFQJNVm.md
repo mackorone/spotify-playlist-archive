@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Veigh, Henrique & Juliano, Lorde, Mc Negão Original e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,111,012 likes - 79 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,111,132 likes - 79 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 4 | [Mais Uma Vez](https://open.spotify.com/track/2ESVig2NkV2Dv8my0FPfxi) | [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Ruddy](https://open.spotify.com/artist/2VmVDjfwnyHueN1q3RDnRD), [Biazotto](https://open.spotify.com/artist/6pIhlzAGpJu6YkWsG3fe3b), [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH) | [Vizinhança do Bigode](https://open.spotify.com/album/6yZW67bqAHrObpA9YoGnZI) | 4:59 |
 | 5 | [Dandara](https://open.spotify.com/track/7cngWHx5JYYonhSf5yn2bR) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [Cheek](https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3), [Cassin](https://open.spotify.com/artist/7JswWkHCTMyEgHlNXOvK6p) | [Aruanda](https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU) | 3:08 |
 | 6 | [AMOR BANDIDO](https://open.spotify.com/track/7trxRWRqAhf9bJziU1ZQBH) | [J\. Eskine](https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Alef Donk](https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I) | [NEM SÓ DE MALUQUICE VIVE O HOMEM](https://open.spotify.com/album/3lHprza8hVWcc19Ouj48jy) | 3:14 |
-| 7 | [Apaixonado e Bagaceiro](https://open.spotify.com/track/2RSazVbsALd7XYEA2AZRpe) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Forró & Desmantelo \(São João Xonadinho\)](https://open.spotify.com/album/4dioGfOjtDz0NRQ1og8k6G) | 2:49 |
+| 7 | [Apaixonado ou Bagaceiro](https://open.spotify.com/track/2RSazVbsALd7XYEA2AZRpe) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Forró & Desmantelo \(São João Xonadinho\)](https://open.spotify.com/album/4dioGfOjtDz0NRQ1og8k6G) | 2:49 |
 | 8 | [Vacilona \- Ao Vivo](https://open.spotify.com/track/0EfOfW72dE43humkvijiYq) | [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Vacilona \(Ao Vivo\)](https://open.spotify.com/album/5ZzS1sHF60IsFGFcEsTD51) | 2:16 |
 | 9 | [Ela Não Tá Sendo Ela \- Ao Vivo](https://open.spotify.com/track/3NcHewtfumD2VXj4XFzSc4) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Calopsia, EP.2 \(Ao Vivo\)](https://open.spotify.com/album/2Yk6u9mbckE2ChKO4COaDA) | 2:28 |
 | 10 | [A Grama do Vizinho \- Ao Vivo](https://open.spotify.com/track/4gBLQeJrre7DklMZIaPXPd) | [Bruno Rosa](https://open.spotify.com/artist/0SPHfj49UeOgHKwSYcn8xZ), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Evolução, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0nmRvEIs98F8Uk48z7vRCT) | 3:00 |

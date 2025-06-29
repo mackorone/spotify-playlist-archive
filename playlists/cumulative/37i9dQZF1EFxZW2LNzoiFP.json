@@ -1277,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "Elementary",
+        "url": "https://open.spotify.com/album/3NsxMjzFvE27raagsJ2b8e"
+      },
+      "artists": [
+        {
+          "name": "Ray Silvers",
+          "url": "https://open.spotify.com/artist/1KMzsmemrnRNGISrqjaxsa"
+        }
+      ],
+      "date_added": "2025-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189893,
+      "name": "Elementary",
+      "url": "https://open.spotify.com/track/3vURAji5B56s4euPDZXK3c"
+    },
+    {
+      "album": {
         "name": "Jigsaw",
         "url": "https://open.spotify.com/album/1rrNnHglilWPmloQpvMLiy"
       },

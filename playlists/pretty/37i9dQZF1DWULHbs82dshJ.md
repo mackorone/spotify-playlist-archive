@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 
 > O Trap Mais Caro apresenta..\. O Melhor do Trap 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,271 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,308 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 | 46 | [Morena](https://open.spotify.com/track/4pjx7niz7aUfoOJOSW0BLM) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Morena](https://open.spotify.com/album/6R4KQPAhbEZVBgyjuh2mYp) | 2:41 |
 | 47 | [Objetivo](https://open.spotify.com/track/16LXfGWa7r4v1TCiIifk2Y) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Objetivo](https://open.spotify.com/album/4C26C6isVhZ9Q725U4Cp83) | 3:00 |
 | 48 | [Você Parece Com Vergonha](https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Você Parece Com Vergonha](https://open.spotify.com/album/3dNBEUQg3uKKvpoCNEwicy) | 3:03 |
-| 49 | [THE BOX MEDLEY 6](https://open.spotify.com/track/507tluWzOtxx58Kb13L9qu) | [THE BOX](https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Lipinho Oficial](https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q) | [THE BOX MEDLEY 6](https://open.spotify.com/album/2PmiISLrQtoayEgazfOEXQ) | 4:01 |
+| 49 | [THE BOX MEDLEY 6](https://open.spotify.com/track/507tluWzOtxx58Kb13L9qu) | [THE BOX](https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [Tchelo](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Lipinho Oficial](https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q) | [THE BOX MEDLEY 6](https://open.spotify.com/album/2PmiISLrQtoayEgazfOEXQ) | 4:01 |
 | 50 | [Só 1 Segundo](https://open.spotify.com/track/68ZlkYsLcUQ7nL4CLpeT1C) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Os Irmão Metralha](https://open.spotify.com/album/5CNVRlJD0CosQCBdoVkpyv) | 2:41 |
 
 Snapshot ID: `Z1BHxAAAAAAc8opfccGnm/qZlMf/Q/bH`

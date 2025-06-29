@@ -1,6 +1,6 @@
 {
   "description": "The highlights of Eurovision from the 50s, 60s & 70s. Cover: ABBA",
-  "num_followers": 5016,
+  "num_followers": 5017,
   "original_name": "Eurovision Gold",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
+        "name": "Solino",
+        "url": "https://open.spotify.com/album/0I3MXd5FYGAj6X9GOJepMb"
+      },
+      "artists": [
+        {
+          "name": "Emilio Pericoli",
+          "url": "https://open.spotify.com/artist/78SZetGidiOyErFwdWTmgQ"
+        }
+      ],
+      "duration_ms": 178720,
+      "name": "Uno Per Tutte",
+      "url": "https://open.spotify.com/track/4OF9t8dHcIBMip0Vc5hSlk"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
         "name": "Shadows - The Collection",
         "url": "https://open.spotify.com/album/64pi43eHLCnVZHpcIdhoLa"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 183040,
       "name": "Tom Pillibi",
       "url": "https://open.spotify.com/track/3fZIQ0sdsy7u7YDmOpqbxS"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
-        "name": "Solino",
-        "url": "https://open.spotify.com/album/0I3MXd5FYGAj6X9GOJepMb"
-      },
-      "artists": [
-        {
-          "name": "Emilio Pericoli",
-          "url": "https://open.spotify.com/artist/78SZetGidiOyErFwdWTmgQ"
-        }
-      ],
-      "duration_ms": 178720,
-      "name": "Uno Per Tutte",
-      "url": "https://open.spotify.com/track/4OF9t8dHcIBMip0Vc5hSlk"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Collection: Sergio Endrigo",
-        "url": "https://open.spotify.com/album/3I41nPHRdOpInP57Noytru"
-      },
-      "artists": [
-        {
-          "name": "Sergio Endrigo",
-          "url": "https://open.spotify.com/artist/4ERMFbVCuwsv0eiUrG7LF3"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Marianne",
-      "url": "https://open.spotify.com/track/6qjTf8vArMndh5BalX4qGv"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Golden Hits (Remastered)",
         "url": "https://open.spotify.com/album/1radm6yMWa1V4SZVekqW5J"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 168333,
       "name": "Djambo Djambo",
       "url": "https://open.spotify.com/track/47F73dkUQMKOl77Zs68pxk"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Collection: Sergio Endrigo",
+        "url": "https://open.spotify.com/album/3I41nPHRdOpInP57Noytru"
+      },
+      "artists": [
+        {
+          "name": "Sergio Endrigo",
+          "url": "https://open.spotify.com/artist/4ERMFbVCuwsv0eiUrG7LF3"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Marianne",
+      "url": "https://open.spotify.com/track/6qjTf8vArMndh5BalX4qGv"
     },
     {
       "added_at": "2025-03-14 16:55:23",

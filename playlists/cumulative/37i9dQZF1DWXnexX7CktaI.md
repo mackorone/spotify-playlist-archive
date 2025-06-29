@@ -4,7 +4,7 @@
 
 > forever hits\. Cover: Chris Brown
 
-256 songs - 15 hr 17 min
+257 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [B.S\. \(feat\. H.E.R.\)](https://open.spotify.com/track/63wx9vdskaXbYxyDx4oJCZ) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 3:32 | 2022-09-24 |  |
 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2023-01-26 |  |
 | [Bad Habits](https://open.spotify.com/track/7beY8mXJuC4l0J2WgVoCfm) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Bad Habits](https://open.spotify.com/album/2sD4s8plx7sdr7Qn580kK6) | 4:17 | 2022-03-14 | 2022-07-29 |
-| [Baddest In The Room](https://open.spotify.com/track/6bAhP5wDZy04YjQ1NTcyO5) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Baddest In The Room](https://open.spotify.com/album/0JRe0RRdmICAqEL2lRHozi) | 2:38 | 2025-03-28 |  |
+| [Baddest In The Room](https://open.spotify.com/track/6bAhP5wDZy04YjQ1NTcyO5) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Baddest In The Room](https://open.spotify.com/album/0JRe0RRdmICAqEL2lRHozi) | 2:38 | 2025-03-28 | 2025-06-29 |
 | [Be Without You \- Kendu Mix](https://open.spotify.com/track/2YegxR5As7BeQuVp2U6pek) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [The Breakthrough](https://open.spotify.com/album/5cnNuunPepqlcT0VoFdLOh) | 4:06 | 2022-03-14 | 2022-07-29 |
 | [Be Without You \- Kendu Mix](https://open.spotify.com/track/6Y3WvyUG9iE5bQYg38SPtQ) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [The Breakthrough](https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV) | 4:06 | 2022-03-14 | 2022-07-31 |
 | [Been Away](https://open.spotify.com/track/5PvVkf1Yuq3XyMqqjPiKPd) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 3:43 | 2022-09-24 |  |
@@ -263,6 +263,7 @@
 | [White Tee \(with NO1\-NOAH\)](https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:31 | 2023-04-20 | 2023-08-12 |
 | [Who Hurt You?](https://open.spotify.com/track/23c9gmiiv7RCu7twft0Mym) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Who Hurt You?](https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039) | 3:51 | 2023-08-11 | 2025-03-23 |
 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV) | 3:29 | 2022-03-14 |  |
+| [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/5W67A7t9MWL3VtovrVrici) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 3:33 | 2025-06-27 |  |
 | [Yo \(Excuse Me Miss\)](https://open.spotify.com/track/7DFnq8FYhHMCylykf6ZCxA) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Chris Brown \(Expanded Edition\)](https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v) | 3:49 | 2025-03-28 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

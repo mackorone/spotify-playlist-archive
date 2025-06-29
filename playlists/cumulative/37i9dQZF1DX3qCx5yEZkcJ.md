@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-564 songs - 23 hr 21 min
+565 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Arigato Mama](https://open.spotify.com/track/7nBMCCdlQsYbvBySMdi5hC) | [Dj Yutaka](https://open.spotify.com/artist/6PjCaQSdfVd1YIdO3vnsAn) | [Arigato Mama](https://open.spotify.com/album/0PeUdqdSCY3dMBWMmO93ZS) | 3:09 | 2024-04-12 | 2024-12-14 |
 | [aruarian dance](https://open.spotify.com/track/3GUvbYXOvFSuqHBbKlXeiM) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [samurai champloo music record departure](https://open.spotify.com/album/1sY71XLUTXSayYmvfayYKA) | 4:10 | 2024-04-12 |  |
 | [aruarian dance](https://open.spotify.com/track/4sUTagdmyuyAxd7RvbygpQ) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [samurai champloo music record departure](https://open.spotify.com/album/3uNaLrScYulpXLRmQquP9I) | 4:10 | 2024-01-25 | 2024-04-19 |
+| [Atélier](https://open.spotify.com/track/4Tf7IW0WioSsChyDMy5EIJ) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO) | [Atélier](https://open.spotify.com/album/6tZ4rSXp5XdyHxIs8kQpWE) | 3:01 | 2025-06-27 |  |
 | [Awesome City](https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Awesome City](https://open.spotify.com/album/05PDJXae0t0adaepucRPVP) | 2:40 | 2023-10-19 | 2025-01-11 |
 | [Awesome City](https://open.spotify.com/track/5tmItGDYOoSnA44DZKLFU1) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Awesome City](https://open.spotify.com/album/5zXZG6idXS00IwMztd621i) | 2:40 | 2023-10-19 | 2024-04-19 |
 | [Azure](https://open.spotify.com/track/0Yo1t0lsn2vqvZLd0kxJ5P) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Azure](https://open.spotify.com/album/2qDTdW3kp496Ebr6edjM62) | 2:19 | 2025-02-21 |  |
@@ -97,7 +98,7 @@
 | [Coffee Nap](https://open.spotify.com/track/2LZJaynuXZL9YWrsNkq1Yg) | [DOWORK](https://open.spotify.com/artist/1LlzrrYfRYhh4ldyep2HCe), [Spinal Twist](https://open.spotify.com/artist/6BpctUJp2F1LbpUAFrhG4R) | [Old School](https://open.spotify.com/album/61kntO8ai8PRanFmxbto1m) | 1:48 | 2024-01-25 | 2024-02-11 |
 | [Coffee Nap](https://open.spotify.com/track/55LozwKlz0eZHLKYWIqzFL) | [DOWORK](https://open.spotify.com/artist/1LlzrrYfRYhh4ldyep2HCe), [Spinal Twist](https://open.spotify.com/artist/6BpctUJp2F1LbpUAFrhG4R) | [Coffee Nap](https://open.spotify.com/album/2XkOmaC5Y8TeYRqo9cfGcJ) | 1:48 | 2020-01-14 | 2022-06-10 |
 | [Cold Concrete](https://open.spotify.com/track/4BoN3OsPTcoSYxM0WHVJks) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Cold Concrete](https://open.spotify.com/album/6v2LK3CCHzFmZKQea6UYPV) | 3:11 | 2022-03-03 | 2025-02-03 |
-| [Colibri](https://open.spotify.com/track/1QxAi7Vgm10DBiLij4dGnZ) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0), [Iori Kimura](https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO) | [Colibri](https://open.spotify.com/album/1PiE5MBRBD0fSuXETvn81S) | 3:32 | 2025-01-10 |  |
+| [Colibri](https://open.spotify.com/track/1QxAi7Vgm10DBiLij4dGnZ) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0), [Iori Kimura](https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO) | [Colibri](https://open.spotify.com/album/1PiE5MBRBD0fSuXETvn81S) | 3:32 | 2025-01-10 | 2025-06-29 |
 | [Come Back to You](https://open.spotify.com/track/5cDFp0nCi0hgQFdsPwFJMU) | [Beats by Egomi](https://open.spotify.com/artist/4l2nSjx7H4PJmARVKXM36S) | [The Jaded Beat, Vol\. 2](https://open.spotify.com/album/1UMbNkcCv2CtzgKEPeiPPF) | 2:52 | 2020-01-14 | 2021-10-24 |
 | [Common'](https://open.spotify.com/track/04ahHGfST9G63DMFJb3ME8) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Gustav Gustav](https://open.spotify.com/artist/1dyXIa7Eo7ZdJsHQnOjtH8) | [Berlin 64](https://open.spotify.com/album/1xcNibWL2YTMIMJksCSkTW) | 2:27 | 2019-08-31 | 2020-01-14 |
 | [Constellation](https://open.spotify.com/track/7CCGMuXZtGEN7GvZcKPrzr) | [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Constellation](https://open.spotify.com/album/4fWpzjHcfAJIU7Mbee9UVz) | 1:41 | 2020-06-19 | 2025-02-13 |

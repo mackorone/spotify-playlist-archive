@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/22hcpbnp4ftoj5Igb2nfGK.md) - [plain]
 
 > pretty flippin&\#x27; peak ;\)
 
-[NtotheBEAN](https://open.spotify.com/user/uurxc85woi82uy261thqnnt3p) - 0 likes - 92 songs - 5 hr 6 min
+[NtotheBEAN](https://open.spotify.com/user/uurxc85woi82uy261thqnnt3p) - 0 likes - 93 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,5 +100,6 @@ pretty - [cumulative](/playlists/cumulative/22hcpbnp4ftoj5Igb2nfGK.md) - [plain]
 | 90 | [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 |
 | 91 | [I Thought About Killing You](https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 4:34 |
 | 92 | [Ghost Town](https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 4:31 |
+| 93 | [Life's a Bitch \(feat\. AZ & Olu Dara\)](https://open.spotify.com/track/2LhhnqrHPWvXYveZVHLKrd) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg), [Olu Dara](https://open.spotify.com/artist/3DQiuEWQzCUET866iZJmQ9) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 3:30 |
 
-Snapshot ID: `AAAF75rsjdu93U1Ng8dgr+cn7JcbvP7T`
+Snapshot ID: `AAAF8Lop/0n6kTvJILqyPffExLjgCcKL`

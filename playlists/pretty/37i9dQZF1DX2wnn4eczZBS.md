@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: Prins S\. en De Geit
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,603 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,607 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 7 | [VOL v2.025](https://open.spotify.com/track/61pq3uXW7ybCgWxBi4iAGY) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [v2.025](https://open.spotify.com/album/1UVFHFPXrnPXiLR7bOTiFZ) | 3:31 |
 | 8 | [Platonisch](https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy) | [Norah Hendriks](https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT) | [Platonisch](https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m) | 3:02 |
 | 9 | [Schaduw](https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Schaduw](https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR) | 3:36 |
-| 10 | [Huis Van Zwart en Rood](https://open.spotify.com/track/01ePjjnb3JX85NDzzt4aWs) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [Huis Van Zwart en Rood / Cederhout](https://open.spotify.com/album/0u3Aq3qOZpLFa9zU275XBe) | 2:16 |
+| 10 | [Huis van Zwart en Rood](https://open.spotify.com/track/01ePjjnb3JX85NDzzt4aWs) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [Huis van Zwart en Rood / Cederhout](https://open.spotify.com/album/0u3Aq3qOZpLFa9zU275XBe) | 2:16 |
 | 11 | [Hart In Brand](https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Hart In Brand](https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V) | 2:26 |
 | 12 | [Als Ik Verdwaal](https://open.spotify.com/track/2CO40n2AIdtJb0z4ZSMnHj) | [Tienson](https://open.spotify.com/artist/6NuwXIFcHEYmeu6Tf9BGt8) | [Als Ik Verdwaal](https://open.spotify.com/album/6KUBPnMGDsaTNvdplPKYjb) | 3:43 |
 | 13 | [Afterparty](https://open.spotify.com/track/0nvPj2VhAABt6Ac467PEL3) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [Afterparty](https://open.spotify.com/album/4X6bUbNF7ZM1hNNzPSWhw6) | 2:22 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 43 | [Zonder Zonnebril](https://open.spotify.com/track/0rkK1hlMvsgRkiDD3r8dmA) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Zonder Zonnebril](https://open.spotify.com/album/6flL9XU2ePQTyQVoRYAoQQ) | 2:40 |
 | 44 | [Waar Ontmoet Jij De Maan?](https://open.spotify.com/track/0BgXjzIyAnLf54F5hkgSJZ) | [Meetsysteem](https://open.spotify.com/artist/2Dsv89oyAH1efJDlgDcXlm), [Pelumi Adejumo](https://open.spotify.com/artist/5KzL65Y4YjGMLbCewSkstC) | [Gekleed In Donker, Ze Vroegen Niks](https://open.spotify.com/album/0pk53p781JhLnHXtXjt2wJ) | 5:38 |
 | 45 | [Zonder Naam](https://open.spotify.com/track/2L9SjKxjHUPiZ4KRNZsbri) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Zonder Naam](https://open.spotify.com/album/5QEFqvIyfTxjiRgPMuKuq5) | 3:01 |
-| 46 | [Ster](https://open.spotify.com/track/0BQywrXDexJaSPZoHgCnek) | [LE MOTAT](https://open.spotify.com/artist/5ETmxctyLILUwpIf9H30iO) | [Ster](https://open.spotify.com/album/6AFkwGd7dAn6qh6KBWvrEq) | 3:44 |
-| 47 | [Geef Mij Nog Deze Nacht](https://open.spotify.com/track/5yVGyRGN344cTDdOg1ayJ7) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK) | [Geef Mij Nog Deze Nacht](https://open.spotify.com/album/2I0w8eTaxMcNj9xlLNpp16) | 3:12 |
-| 48 | [Waarom Ik Zo Ben](https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Waarom Ik Zo Ben](https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud) | 2:00 |
-| 49 | [Wind In De Zeilen](https://open.spotify.com/track/1CuunQxTRe5jL13ikuQ67Y) | [Tienson](https://open.spotify.com/artist/6NuwXIFcHEYmeu6Tf9BGt8) | [Wind In De Zeilen](https://open.spotify.com/album/1Vcc1C8T9ktEhGmmlx8A0D) | 3:35 |
+| 46 | [Geef Mij Nog Deze Nacht](https://open.spotify.com/track/5yVGyRGN344cTDdOg1ayJ7) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK) | [Geef Mij Nog Deze Nacht](https://open.spotify.com/album/2I0w8eTaxMcNj9xlLNpp16) | 3:12 |
+| 47 | [Ster](https://open.spotify.com/track/0BQywrXDexJaSPZoHgCnek) | [LE MOTAT](https://open.spotify.com/artist/5ETmxctyLILUwpIf9H30iO) | [Ster](https://open.spotify.com/album/6AFkwGd7dAn6qh6KBWvrEq) | 3:44 |
+| 48 | [Wind In De Zeilen](https://open.spotify.com/track/1CuunQxTRe5jL13ikuQ67Y) | [Tienson](https://open.spotify.com/artist/6NuwXIFcHEYmeu6Tf9BGt8) | [Wind In De Zeilen](https://open.spotify.com/album/1Vcc1C8T9ktEhGmmlx8A0D) | 3:35 |
+| 49 | [Waarom Ik Zo Ben](https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Waarom Ik Zo Ben](https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud) | 2:00 |
 | 50 | [Vlinder](https://open.spotify.com/track/1ylgbB1PBVQPtE9TQvRNH8) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Vlinder](https://open.spotify.com/album/1HdguDX5OZ7JylppPeSQ8f) | 2:49 |
 
 Snapshot ID: `aF3C9AAAAABcinM/QTaQV9OAW6vCOnla`

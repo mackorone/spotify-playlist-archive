@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,079 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,230 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 34 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 |
 | 35 | [Glasshouse \(feat\. Julia Church\)](https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Cold Enough For Snow](https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi) | 4:11 |
 | 36 | [Something Right](https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O) | [Something Right](https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI) | 2:55 |
-| 37 | [Lose You](https://open.spotify.com/track/4xbmE7Wf6afPmc8Px1Rc7Q) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Lose You](https://open.spotify.com/album/3kwO6PsIaJRPly16C4kdMI) | 2:37 |
-| 38 | [Orange Sky](https://open.spotify.com/track/3A3mFJaeBvAomfvhEEY9OA) | [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB), [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM) | [Orange Sky](https://open.spotify.com/album/1BS5KiDhUsl44A4nwatXfO) | 2:30 |
+| 37 | [Orange Sky](https://open.spotify.com/track/3A3mFJaeBvAomfvhEEY9OA) | [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB), [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM) | [Orange Sky](https://open.spotify.com/album/1BS5KiDhUsl44A4nwatXfO) | 2:30 |
+| 38 | [Lose You](https://open.spotify.com/track/4xbmE7Wf6afPmc8Px1Rc7Q) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Lose You](https://open.spotify.com/album/3kwO6PsIaJRPly16C4kdMI) | 2:37 |
 | 39 | [light dark light](https://open.spotify.com/track/5TDGAqGkQAbjr3a2sjFFIk) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [two more days](https://open.spotify.com/album/0tMLTrwCaJcqioPLMwxZBc) | 3:06 |
 | 40 | [Waste \- RY X Remix](https://open.spotify.com/track/08HR9PoLSeovgXWvJEZrvi) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 9:13 |
 | 41 | [October](https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [October](https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8) | 5:54 |

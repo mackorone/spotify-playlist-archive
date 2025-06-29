@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 173030,
+  "num_followers": 173050,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAAC890xd05RPn6kkhpW6QiXw",
+  "snapshot_id": "aF3fAAAAAACPSfGOKqxStIvaK5TRXksD",
   "tracks": [
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Tequila Does",
-      "url": "https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broken Branches",
         "url": "https://open.spotify.com/album/28VlYkYjNd6Bs8bIl69BW8"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 216386,
       "name": "Never You (feat. Miranda Lambert)",
       "url": "https://open.spotify.com/track/2U3JnNb38trSUJwiJ8pVo0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Tequila Does",
+      "url": "https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 197453,
-      "name": "Settling Down",
-      "url": "https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 189440,
       "name": "Only Prettier",
       "url": "https://open.spotify.com/track/05Rdg52eBYVUy5A55rnz39"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Settling Down",
+      "url": "https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 177866,
+      "name": "Heart Like Mine",
+      "url": "https://open.spotify.com/track/4EDeBzhZMcHEx7A8IcDiaL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
         "url": "https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH"
       },
@@ -739,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 177866,
-      "name": "Heart Like Mine",
-      "url": "https://open.spotify.com/track/4EDeBzhZMcHEx7A8IcDiaL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Palomino",
         "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
       },
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Makin' Plans",
+      "url": "https://open.spotify.com/track/4SgbELGcdmMdVtSbpkSG6x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Space in My Heart",
         "url": "https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 178849,
       "name": "Space in My Heart",
       "url": "https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Makin' Plans",
-      "url": "https://open.spotify.com/track/4SgbELGcdmMdVtSbpkSG6x"
     },
     {
       "added_at": null,

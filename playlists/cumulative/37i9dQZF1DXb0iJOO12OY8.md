@@ -4,7 +4,7 @@
 
 > 🤝
 
-157 songs - 7 hr 25 min
+158 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Danseproblem](https://open.spotify.com/track/4MyPCOodOr2arMPmDxHqBX) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Coucheron](https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D) | [Danseproblem](https://open.spotify.com/album/5du6PDgOJPuXt6EwK8Y3HE) | 2:43 | 2024-06-27 | 2025-03-02 |
 | [De vil se](https://open.spotify.com/track/4N48lc8wbF6abPhrVyvGiG) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [De vil se](https://open.spotify.com/album/5S7DOGdQyzK2L8vaygEiC8) | 2:20 | 2025-01-16 | 2025-04-04 |
 | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC) | 3:43 | 2024-07-18 |  |
+| [Dette er livet \(feat\. OnklP\)](https://open.spotify.com/track/07i2PdaFfEclgdsnT4WKEk) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [OnklP](https://open.spotify.com/artist/7GUyb3aEJHskmBRrhckLa6) | [Dette er livet \(feat\. OnklP\)](https://open.spotify.com/album/5SrPHNFUtPbv5RgRlRe61v) | 2:38 | 2025-06-26 |  |
 | [Didn't I?](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I?](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 | 2024-07-11 |  |
 | [Died At The Party](https://open.spotify.com/track/1CDwotYnigEU6QuoyJUSJ0) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [RebMoe](https://open.spotify.com/artist/1DNFG0VEHD2Vk5ESUEPuOM) | [BLUE](https://open.spotify.com/album/7Mj4PdkDSp4beWH8gANGHJ) | 2:28 | 2024-11-07 | 2024-12-20 |
 | [DOUBT IT](https://open.spotify.com/track/7kud2YsUIgEO6L41B98Cih) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [DOUBT IT](https://open.spotify.com/album/4bahK8kuVwjBkqFUgmLmVD) | 3:28 | 2024-09-19 | 2024-11-01 |
@@ -100,7 +101,7 @@
 | [Memoarer](https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Memoarer](https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW) | 3:03 | 2025-05-01 |  |
 | [Narco Freestyle](https://open.spotify.com/track/6abCeotQ2T6eFP2zTjW7WN) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Narco Freestyle](https://open.spotify.com/album/5sbWMsirtJm5whDYeWqDLv) | 2:22 | 2025-02-27 | 2025-04-14 |
 | [NEPOBABY](https://open.spotify.com/track/2T137G2j4il2iSc2md900S) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:08 | 2024-10-24 | 2025-01-17 |
-| [Normandie](https://open.spotify.com/track/66efVUD3ziUs3mPLZWysJ6) | [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7), [BERGREM](https://open.spotify.com/artist/3xw4Fyy4UUWDSVfScqt2BH) | [Normandie](https://open.spotify.com/album/77n1CfO0adsKZVHCGrZMnH) | 2:13 | 2025-06-26 |  |
+| [Normandie](https://open.spotify.com/track/66efVUD3ziUs3mPLZWysJ6) | [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7), [BERGREM](https://open.spotify.com/artist/3xw4Fyy4UUWDSVfScqt2BH) | [Normandie](https://open.spotify.com/album/77n1CfO0adsKZVHCGrZMnH) | 2:13 | 2025-06-26 | 2025-06-29 |
 | [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 | 2025-02-27 |  |
 | [når du slår ut håret blir jeg slått ut](https://open.spotify.com/track/2tqcI5NvNbt9F8fP33I9B5) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [når du slår ut håret blir jeg slått ut](https://open.spotify.com/album/1wOjIjsn0o2fPE0OkrOdHv) | 1:57 | 2024-06-27 | 2024-08-13 |
 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 | 2024-06-27 | 2024-08-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5firUEQ9rQDghlz87ntiQD">Monro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 81 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 40 | [Why Would I](https://open.spotify.com/track/3tlagYGVQF3IArtnyE6f8x) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [I Feel Different Every Day](https://open.spotify.com/album/4dNFEQBU7izCLpGiMvbylB) | 3:21 |
 | 41 | [Pattern Up \(feat\. ZieZie\)](https://open.spotify.com/track/0tjkC3oD2A3sj4nTMEsezR) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Pattern Up \(feat\. ZieZie\)](https://open.spotify.com/album/7m13fjwYVPw5URrUvS89K0) | 3:57 |
 | 42 | [Brand New](https://open.spotify.com/track/1SAiUd9FlY6A36831AuXtX) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [TSB](https://open.spotify.com/artist/5TcyvDMRRaMjCBoXIUWofZ) | [Gbagada Express Vol 2: Moving Mad](https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p) | 3:20 |
-| 43 | [Real Life](https://open.spotify.com/track/1ridgt4PwhqyjMDOyUzAle) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 3:14 |
-| 44 | [My My My](https://open.spotify.com/track/6ZyNjet9xpwdqyHwJaIFii) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [My My My](https://open.spotify.com/album/2TDqfZlVX1a55onkNt2rqs) | 3:20 |
+| 43 | [My My My](https://open.spotify.com/track/6ZyNjet9xpwdqyHwJaIFii) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [My My My](https://open.spotify.com/album/2TDqfZlVX1a55onkNt2rqs) | 3:20 |
+| 44 | [Real Life](https://open.spotify.com/track/1ridgt4PwhqyjMDOyUzAle) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 3:14 |
 | 45 | [On Job](https://open.spotify.com/track/63bbcglKkosNVVJpN0q4EP) | [WAY2LATE](https://open.spotify.com/artist/3hIp8uy0RH7L4N3EQ9Nz8a), [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6), [Confz](https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE) | [On Job](https://open.spotify.com/album/1EHQ7OMBWdPpDDme9JpnXJ) | 2:01 |
 | 46 | [I'm Different](https://open.spotify.com/track/1KWEKSKgk6EyocPJpFwiny) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [I'm Different](https://open.spotify.com/album/1W96GSCp4z2S8Mt5NA2Is2) | 2:55 |
 | 47 | [The Middle](https://open.spotify.com/track/6ZdEk3NpGOn0pk8AcYoksu) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [Syd B](https://open.spotify.com/artist/3DjOPWwOPmmhNMGpRlmnzb) | [Deep End](https://open.spotify.com/album/3aBQjWHmGxYaNjvu1rfStq) | 3:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 59 | [take 7](https://open.spotify.com/track/558aM4OwF8sZPqiJ5NULtR) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [SCENARIOS](https://open.spotify.com/album/0Dr60skBwohGDoNlfU0CNO) | 1:53 |
 | 60 | [Cherryade](https://open.spotify.com/track/4THRgFPO27hQxYi672AI8q) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:19 |
 
-Snapshot ID: `Ab1SqAAAAACn6PHwQ4qXT3RaCb6YIdMJ`
+Snapshot ID: `Ab1YSAAAAADLygzfeUguzOb/sP+JapHe`

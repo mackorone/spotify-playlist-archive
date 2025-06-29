@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 441959,
+  "num_followers": 441942,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2025-05-22 20:40:01",
       "album": {
-        "name": "iLevitable",
-        "url": "https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 249853,
-      "name": "Te Quiero Con Bugal\u00fa",
-      "url": "https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c"
-    },
-    {
-      "added_at": "2025-05-22 20:40:01",
-      "album": {
         "name": "Jungle Fire",
         "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 229080,
       "name": "At\u00f3mico",
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
+      "added_at": "2025-05-22 20:40:01",
+      "album": {
+        "name": "iLevitable",
+        "url": "https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 249853,
+      "name": "Te Quiero Con Bugal\u00fa",
+      "url": "https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c"
     },
     {
       "added_at": "2025-05-22 20:40:01",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-05-22 20:40:01",
       "album": {
-        "name": "Esperando Verte",
-        "url": "https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Pastori",
-          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
-        }
-      ],
-      "duration_ms": 232853,
-      "name": "Esperando Verte",
-      "url": "https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx"
-    },
-    {
-      "added_at": "2025-05-22 20:40:01",
-      "album": {
         "name": "Quemar La Casa",
         "url": "https://open.spotify.com/album/0BjsgknELVeYJdN3u85EYE"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 243356,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf"
+    },
+    {
+      "added_at": "2025-05-22 20:40:01",
+      "album": {
+        "name": "Esperando Verte",
+        "url": "https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Pastori",
+          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+        }
+      ],
+      "duration_ms": 232853,
+      "name": "Esperando Verte",
+      "url": "https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx"
     },
     {
       "added_at": "2025-05-22 20:40:01",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2025-05-22 20:40:01",
       "album": {
-        "name": "Grietas",
-        "url": "https://open.spotify.com/album/4L0f9F1DJmjLqUQx6v6if3"
-      },
-      "artists": [
-        {
-          "name": "Newen Afrobeat",
-          "url": "https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb"
-        },
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        }
-      ],
-      "duration_ms": 313750,
-      "name": "Grietas",
-      "url": "https://open.spotify.com/track/3fnRf6dq6oZBuDFXruNenf"
-    },
-    {
-      "added_at": "2025-05-22 20:40:01",
-      "album": {
         "name": "Danz\u00f3n Para La Espera",
         "url": "https://open.spotify.com/album/5NlwLkuzq9WBQa54Rytnxv"
       },
@@ -1047,6 +1027,26 @@
     {
       "added_at": "2025-05-22 20:40:01",
       "album": {
+        "name": "Grietas",
+        "url": "https://open.spotify.com/album/4L0f9F1DJmjLqUQx6v6if3"
+      },
+      "artists": [
+        {
+          "name": "Newen Afrobeat",
+          "url": "https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb"
+        },
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "duration_ms": 313750,
+      "name": "Grietas",
+      "url": "https://open.spotify.com/track/3fnRf6dq6oZBuDFXruNenf"
+    },
+    {
+      "added_at": "2025-05-22 20:40:01",
+      "album": {
         "name": "Pelear",
         "url": "https://open.spotify.com/album/2DzQ7GgN00WQRvXt7U4Qva"
       },
@@ -1063,22 +1063,18 @@
     {
       "added_at": "2025-05-22 20:40:01",
       "album": {
-        "name": "El Caudal",
-        "url": "https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI"
+        "name": "Legados Bachata",
+        "url": "https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5"
       },
       "artists": [
         {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
         }
       ],
-      "duration_ms": 237619,
-      "name": "El Caudal",
-      "url": "https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN"
+      "duration_ms": 246000,
+      "name": "Bachata Rosa",
+      "url": "https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5"
     },
     {
       "added_at": "2025-05-22 20:40:01",
@@ -1099,18 +1095,22 @@
     {
       "added_at": "2025-05-22 20:40:01",
       "album": {
-        "name": "Legados Bachata",
-        "url": "https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5"
+        "name": "El Caudal",
+        "url": "https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI"
       },
       "artists": [
         {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
         }
       ],
-      "duration_ms": 246000,
-      "name": "Bachata Rosa",
-      "url": "https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5"
+      "duration_ms": 237619,
+      "name": "El Caudal",
+      "url": "https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN"
     },
     {
       "added_at": "2025-05-22 20:40:01",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2025-05-22 20:40:01",
       "album": {
-        "name": "Morena m\u00eda",
-        "url": "https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK"
-      },
-      "artists": [
-        {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 188543,
-      "name": "Morena m\u00eda",
-      "url": "https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc"
-    },
-    {
-      "added_at": "2025-05-22 20:40:01",
-      "album": {
         "name": "Todo Cambi\u00f3",
         "url": "https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 218909,
       "name": "Todo Cambi\u00f3",
       "url": "https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx"
+    },
+    {
+      "added_at": "2025-05-22 20:40:01",
+      "album": {
+        "name": "Morena m\u00eda",
+        "url": "https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK"
+      },
+      "artists": [
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 188543,
+      "name": "Morena m\u00eda",
+      "url": "https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc"
     },
     {
       "added_at": "2025-05-22 20:40:01",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2025-05-22 20:40:01",
       "album": {
+        "name": "Bajofondo Tango Club",
+        "url": "https://open.spotify.com/album/3KtZ7CB9lIVCekOB0e8HSk"
+      },
+      "artists": [
+        {
+          "name": "Campo",
+          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
+        }
+      ],
+      "duration_ms": 276093,
+      "name": "Naranjo En Flor",
+      "url": "https://open.spotify.com/track/7ouBEajSKGc6NQPe9fpB8i"
+    },
+    {
+      "added_at": "2025-05-22 20:40:01",
+      "album": {
         "name": "Ay\u00fadame Inspiraci\u00f3n",
         "url": "https://open.spotify.com/album/3POCvSEqOXYWinGpbkR7iO"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 247504,
       "name": "Ay\u00fadame Inspiraci\u00f3n",
       "url": "https://open.spotify.com/track/3WyCqAwE7P6OgWGGd9sW1r"
-    },
-    {
-      "added_at": "2025-05-22 20:40:01",
-      "album": {
-        "name": "Bajofondo Tango Club",
-        "url": "https://open.spotify.com/album/3KtZ7CB9lIVCekOB0e8HSk"
-      },
-      "artists": [
-        {
-          "name": "Campo",
-          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
-        }
-      ],
-      "duration_ms": 276093,
-      "name": "Naranjo En Flor",
-      "url": "https://open.spotify.com/track/7ouBEajSKGc6NQPe9fpB8i"
     },
     {
       "added_at": "2025-05-22 20:40:01",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-05-22 20:40:01",
       "album": {
-        "name": "M\u00fasica Sin Tiempo",
-        "url": "https://open.spotify.com/album/1glGF4NuNqwLeLeEh1VFA9"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 284020,
-      "name": "M\u00fasica Sin Tiempo",
-      "url": "https://open.spotify.com/track/6bZtdmZVoBKSr5IEgfPklT"
-    },
-    {
-      "added_at": "2025-05-22 20:40:01",
-      "album": {
         "name": "American Boy",
         "url": "https://open.spotify.com/album/634SbzHMwQgsFIq977CQiW"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 225109,
       "name": "American Boy",
       "url": "https://open.spotify.com/track/40cHpU5FQkXlDxfayeWqsO"
+    },
+    {
+      "added_at": "2025-05-22 20:40:01",
+      "album": {
+        "name": "M\u00fasica Sin Tiempo",
+        "url": "https://open.spotify.com/album/1glGF4NuNqwLeLeEh1VFA9"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 284020,
+      "name": "M\u00fasica Sin Tiempo",
+      "url": "https://open.spotify.com/track/6bZtdmZVoBKSr5IEgfPklT"
     },
     {
       "added_at": "2025-05-22 20:40:01",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2025-05-22 20:40:01",
       "album": {
+        "name": "Canta Mundo",
+        "url": "https://open.spotify.com/album/24HC9D5W71Twk747rBx4Pl"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        },
+        {
+          "name": "Orquesta Sinf\u00f3nica de Caldas",
+          "url": "https://open.spotify.com/artist/387J8CNFZB9AJ0feSx7PB0"
+        }
+      ],
+      "duration_ms": 231075,
+      "name": "Canta Mundo",
+      "url": "https://open.spotify.com/track/4KKu46t4zWtQPcM7NHzCvr"
+    },
+    {
+      "added_at": "2025-05-22 20:40:01",
+      "album": {
         "name": "Delicate & Jumpy",
         "url": "https://open.spotify.com/album/6Us6eV06MKN8d41bMz040J"
       },
@@ -1695,26 +1715,6 @@
       "duration_ms": 155122,
       "name": "Lady Mandona",
       "url": "https://open.spotify.com/track/52CoeeSJDTxzZGMKaCzqz0"
-    },
-    {
-      "added_at": "2025-05-22 20:40:01",
-      "album": {
-        "name": "Canta Mundo",
-        "url": "https://open.spotify.com/album/24HC9D5W71Twk747rBx4Pl"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        },
-        {
-          "name": "Orquesta Sinf\u00f3nica de Caldas",
-          "url": "https://open.spotify.com/artist/387J8CNFZB9AJ0feSx7PB0"
-        }
-      ],
-      "duration_ms": 231075,
-      "name": "Canta Mundo",
-      "url": "https://open.spotify.com/track/4KKu46t4zWtQPcM7NHzCvr"
     },
     {
       "added_at": "2025-05-22 20:40:01",

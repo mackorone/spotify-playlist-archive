@@ -6248,7 +6248,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 208106,
       "name": "Decide",
       "url": "https://open.spotify.com/track/2py6xMr2thQmJ2VhlpSD8W"
@@ -8194,7 +8194,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 167538,
       "name": "Favorite Sound",
       "url": "https://open.spotify.com/track/2YoKWnMwaPaBtHrJ0Mpunm"
@@ -15814,6 +15814,28 @@
       "duration_ms": 163750,
       "name": "Like Sunshine",
       "url": "https://open.spotify.com/track/1Tfg0XYAGbUSvQiGWWBmXa"
+    },
+    {
+      "album": {
+        "name": "like that?",
+        "url": "https://open.spotify.com/album/3flnwDcBV1ICsecnbM1gFT"
+      },
+      "artists": [
+        {
+          "name": "Conrad.",
+          "url": "https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC"
+        },
+        {
+          "name": "Jake Neumar",
+          "url": "https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157325,
+      "name": "like that?",
+      "url": "https://open.spotify.com/track/5qq2QBWGUNFAfCExaY4hSd"
     },
     {
       "album": {
@@ -30758,6 +30780,32 @@
       "duration_ms": 159436,
       "name": "You & I (All I Need)",
       "url": "https://open.spotify.com/track/57S8SBkdEnsd2ovIFDHSEj"
+    },
+    {
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/4YQrkowZ6ZQ2koHfEYKSwA"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        },
+        {
+          "name": "Col3man",
+          "url": "https://open.spotify.com/artist/2kT0QKVXW2YOnhpqvhy4qv"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205568,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/6M3EGEavhttWiN2IsYB282"
     },
     {
       "album": {

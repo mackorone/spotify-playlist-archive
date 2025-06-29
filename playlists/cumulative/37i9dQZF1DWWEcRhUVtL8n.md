@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: HAIM
 
-2,144 songs - 4 day 17 hr 26 min
+2,145 songs - 4 day 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [21](https://open.spotify.com/track/2D2lazsae9o1UoVPUAdxyT) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [21](https://open.spotify.com/album/1IbwoLXOOvXeLeyE7tZnOl) | 3:05 | 2020-10-20 | 2022-07-29 |
 | [21](https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 3:05 | 2022-06-17 | 2023-01-24 |
 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 | 2025-01-28 | 2025-06-11 |
-| [23:42](https://open.spotify.com/track/0I1WEMYSU0dfENElriMamz) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/5pDnBe24XMck0UQnDGD8WL) | 3:01 | 2025-04-04 |  |
+| [23:42](https://open.spotify.com/track/0I1WEMYSU0dfENElriMamz) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/5pDnBe24XMck0UQnDGD8WL) | 3:01 | 2025-04-04 | 2025-06-29 |
 | [24](https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [24](https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR) | 4:06 | 2024-01-12 | 2024-05-27 |
 | [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 | 2021-10-08 | 2022-12-22 |
 | [25/8](https://open.spotify.com/track/1rMsNUMDEp6pLOJ5BcznsF) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Deadpan Love \(Deluxe\)](https://open.spotify.com/album/5bVpGSaFPrZuduNCXrmsqO) | 2:38 | 2022-02-25 | 2022-08-03 |
@@ -1902,6 +1902,7 @@
 | [The Earth is a Very Small Dot](https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [The Earth is a Very Small Dot](https://open.spotify.com/album/7IkpXmbNKP6mZteubgagqG) | 3:56 | 2023-09-22 | 2024-04-06 |
 | [The Edge](https://open.spotify.com/track/6qz0vy1Vmlk0CkcIZVfDe6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [The Edge](https://open.spotify.com/album/4xBRWqgv6LwgOO15guGN5Z) | 4:07 | 2022-01-28 | 2022-04-21 |
 | [The Eviction Song](https://open.spotify.com/track/6oQiyu9WMFDSKn2my0k7p7) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [The Eviction Song](https://open.spotify.com/album/6aPgylNrj1zdb5TfUbdYzb) | 2:59 | 2020-11-10 | 2020-11-15 |
+| [The Field \(feat\. The Durutti Column, Tariq Al\-Sabir, Caroline Polachek & Daniel Caesar\)](https://open.spotify.com/track/5GVyBn2zUEweqnS6oeXlMp) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Tariq Al\-Sabir](https://open.spotify.com/artist/6EScxZAPeNmf1U8TB4Hk2h), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [The Field \(feat\. The Durutti Column, Tariq Al\-Sabir, Caroline Polachek & Daniel Caesar\)](https://open.spotify.com/album/1ui8ZfiEmEZSGB2K4OPNYc) | 3:19 | 2025-06-27 |  |
 | [The Fool](https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [The Fool](https://open.spotify.com/album/1WWlFJw4AvILgammiKMdA0) | 3:26 | 2023-02-24 | 2024-01-13 |
 | [the fractal song](https://open.spotify.com/track/7LTJ2alkzEumlU6bPEMm9e) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [the fractal song](https://open.spotify.com/album/3oNbVcy0gsNGvnnJRPL5z6) | 2:40 | 2022-01-21 | 2022-04-04 |
 | [THE FRIEND SPACE](https://open.spotify.com/track/1c8UIIdsxiLmdaru4aAbey) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [THE FRIEND SPACE](https://open.spotify.com/album/4fR2rJTfI7yrFvrW4XPN9A) | 2:56 | 2021-03-27 | 2021-10-16 |

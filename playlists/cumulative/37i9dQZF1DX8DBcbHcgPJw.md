@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Max Carra & Lira.
 
-643 songs - 1 day 7 hr 50 min
+644 songs - 1 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,6 +340,7 @@
 | [Messirve mix 5](https://open.spotify.com/track/5piFBPcOsr6OWbBvNjJRuF) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Messirve mix 5](https://open.spotify.com/album/7pw9Do4aXAbWamX4ZcKLoF) | 5:12 | 2024-03-19 | 2024-04-19 |
 | [Mi Corazón](https://open.spotify.com/track/0ODI7RMIbX8XFMos7JnMa7) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Mi Corazón](https://open.spotify.com/album/33dMDftJA5fKYj5StW5iPH) | 2:20 | 2025-06-20 |  |
 | [Mi cuerito](https://open.spotify.com/track/7sXobLTbBGKQvhh7dYiMra) | [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100), [Fran Bruzzi](https://open.spotify.com/artist/1xYVNpldCpBGyduWrmR0t9) | [Mi cuerito](https://open.spotify.com/album/3LZbfp2Q33SoHuYh91B5HV) | 2:22 | 2024-03-08 | 2024-03-30 |
+| [Mi Ex](https://open.spotify.com/track/3pPOye3RAdcPDsgwg3Mzfp) | [Bauti Mascia](https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG), [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB) | [Mi Ex](https://open.spotify.com/album/6nGWuOZQFss6GnMweIXvsj) | 2:21 | 2025-06-27 |  |
 | [Mi Ex Tenia Razon](https://open.spotify.com/track/7FG9RnwCypE1CLrOIwNlwy) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Mi Ex Tenia Razon](https://open.spotify.com/album/7MevxBgpWi1QLOxK2x6q7O) | 3:08 | 2023-09-08 | 2023-09-16 |
 | [Mi Único Amor](https://open.spotify.com/track/6d0Ozgo4us31i3yDsEtO9Y) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred), [La Silver Chance](https://open.spotify.com/artist/3pt4SBQDDGMWhR1YNakp9Q) | [Sesión Random](https://open.spotify.com/album/3zrcH2txB7IaVPjCDRBc16) | 1:22 | 2025-04-18 |  |
 | [Miami](https://open.spotify.com/track/1LuqstBVnS4IwAo4a7TdNC) | [El Amante](https://open.spotify.com/artist/2rFznqF1juLuKmA0h11u2Z), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Miami](https://open.spotify.com/album/3q1SjcqWvya39AHe1ScQuE) | 2:28 | 2023-10-27 | 2023-11-16 |
@@ -566,7 +567,7 @@
 | [Todo a la Vez](https://open.spotify.com/track/2tuKnCgbscxmebC7vN9X1i) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Todo a la Vez](https://open.spotify.com/album/6e724GNtDwcjqCXzbeBlL9) | 2:39 | 2022-05-20 | 2022-11-06 |
 | [Todo Comenzó Bailando \- Remix](https://open.spotify.com/track/5nJP1qwTNnXF4CiCrfmNjy) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Todo Comenzó Bailando \(Remix\)](https://open.spotify.com/album/5uETffhuDgeUDZhN4PacAJ) | 2:43 | 2024-02-23 |  |
 | [TODO VUELVE](https://open.spotify.com/track/78CbDyjeAUjnVM8ha4j6LY) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [TODO VUELVE](https://open.spotify.com/album/4txwnjibnEEo9meWprbdSC) | 3:09 | 2024-12-06 | 2025-04-12 |
-| [Tomate el Palo \(feat\. Leo García\)](https://open.spotify.com/track/7Geqbi4bkZ6AM9yDeSHr5b) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Leo García](https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb) | [Miau](https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY) | 3:25 | 2021-12-23 |  |
+| [Tomate el Palo \(feat\. Leo García\)](https://open.spotify.com/track/7Geqbi4bkZ6AM9yDeSHr5b) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Leo García](https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb) | [Miau](https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY) | 3:25 | 2021-12-23 | 2025-06-29 |
 | [TOUCH & GO](https://open.spotify.com/track/3cZJv1QBNqlPVewsUGR7Lk) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A) | [TOUCH & GO](https://open.spotify.com/album/0DaH1E2DayeOWT1XWbE8lt) | 2:50 | 2024-04-12 | 2024-04-19 |
 | [TQT](https://open.spotify.com/track/1JQ6X8VpXoSUxj9M6BOayg) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [TQT](https://open.spotify.com/album/5cmz8HfyenIdXjE6zIEi2s) | 2:31 | 2023-05-05 | 2023-09-04 |
 | [Tramposa](https://open.spotify.com/track/1lLTyKsX4IDBYtAiRWnJEQ) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [Tramposa](https://open.spotify.com/album/4tPBqFk4ZeAzQ0mB8ZxUzX) | 3:07 | 2024-02-23 | 2024-03-30 |

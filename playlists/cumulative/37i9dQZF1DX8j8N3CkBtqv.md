@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Justh and other exciting artists.
 
-1,089 songs - 2 day 11 hr 25 min
+1,090 songs - 2 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -827,7 +827,7 @@
 | [Rut Saawan Ki](https://open.spotify.com/track/4wJi7G1KUVdtmnv5O1OX7f) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Suhavi Kalsi](https://open.spotify.com/artist/2yW096GBZkULuSAJnF4yRL), [Basudhara Roy Munshi](https://open.spotify.com/artist/2qpcBqB6sjBqr2YNaAufRd), [Rohan Prasanna](https://open.spotify.com/artist/7l4MibDurgFUAa0b2D8c4X) | [Rut Saawan Ki](https://open.spotify.com/album/2h0eM3wn3M3oiAB2akIxp6) | 4:49 | 2024-09-06 | 2024-10-26 |
 | [Saadho](https://open.spotify.com/track/2Q82mCCsgJPqNH8ceuCc9P) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG) | [Sabr](https://open.spotify.com/album/3WC4sGcmSsfIfHHwgFfskQ) | 5:10 | 2025-04-11 | 2025-04-19 |
 | [Saahiba](https://open.spotify.com/track/76z2uAcGGoOhIxSdOwxlQJ) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Saahiba](https://open.spotify.com/album/7mlb1stM6vE1g4vtHn0GBG) | 3:15 | 2024-01-12 | 2024-06-15 |
-| [Saaiyaan Ve](https://open.spotify.com/track/6gtd37ycQvDNh3tEKRnQdS) | [Abhishek Mathur](https://open.spotify.com/artist/2Mmj7hDaEvH6HhlUYKo3a3), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz) | [Saaiyaan Ve](https://open.spotify.com/album/6Crw6Uzyvt4FJ4ayhYgptR) | 3:00 | 2025-06-27 |  |
+| [Saaiyaan Ve](https://open.spotify.com/track/6gtd37ycQvDNh3tEKRnQdS) | [Abhishek Mathur](https://open.spotify.com/artist/2Mmj7hDaEvH6HhlUYKo3a3), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz) | [Saaiyaan Ve](https://open.spotify.com/album/6Crw6Uzyvt4FJ4ayhYgptR) | 3:00 | 2025-06-27 | 2025-06-29 |
 | [Saalo Se](https://open.spotify.com/track/5V4BoefaIDvg3m3V6g9Cpf) | [THE 9TEEN](https://open.spotify.com/artist/4vLv0CXSxGB1PJijrfokwB) | [Saalo Se](https://open.spotify.com/album/4ngEajgZgykMDA11vydy0p) | 2:41 | 2024-09-13 | 2024-10-04 |
 | [Saanware Aijaiyo](https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Saanware Aijaiyo](https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j) | 3:54 | 2023-09-15 | 2023-10-21 |
 | [Saath De](https://open.spotify.com/track/24gFEjMDxYFn24SUFz2pvH) | [Samyak Prasana](https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY), [Sukrit Srivastava](https://open.spotify.com/artist/4fL2GzLhtLrapqKaYaRDj5) | [Saath De](https://open.spotify.com/album/49EiJmrABQSl4MjQwQnwYI) | 3:12 | 2025-06-13 | 2025-06-21 |
@@ -911,6 +911,7 @@
 | [Stranger](https://open.spotify.com/track/165R9YK1GlzMz0rpYlryAD) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [Stranger](https://open.spotify.com/album/6KQdptMId50MHGipHdmUgD) | 4:12 | 2024-03-22 | 2024-05-07 |
 | [Subha Shaam](https://open.spotify.com/track/4RiWt8bSrpy4tWVuMAPm3h) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [TEDD](https://open.spotify.com/artist/53xSTy4zJgZLaP4OR5kzCQ) | [Subha Shaam](https://open.spotify.com/album/78LRDU6OxRTofDogmeU6ZN) | 2:57 | 2024-06-28 | 2024-08-10 |
 | [Suddenly](https://open.spotify.com/track/1lDS95xiG8ln73gdOlNjfU) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Suddenly](https://open.spotify.com/album/0eRXhuldZMfhRSy6vTEToQ) | 4:44 | 2024-06-28 | 2024-07-27 |
+| [Sufne](https://open.spotify.com/track/11tg2wVGKwQAOoClgVt1UZ) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Sufne](https://open.spotify.com/album/2nDZlxEIPcDvbCt6k8vbc2) | 3:09 | 2025-06-27 |  |
 | [Sukoon](https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Sukoon](https://open.spotify.com/album/47WoZdif6vZZqDdgWCG4A1) | 3:06 | 2024-07-12 | 2024-12-07 |
 | [Sukoon](https://open.spotify.com/track/0DPMZ1I6H9X3LH7xzgmWLE) | [Paushali Sahu](https://open.spotify.com/artist/0Ju1DBpiRAxvhZ3XWlbLk1), [Shamik Guha Roy](https://open.spotify.com/artist/5rRYx2cnykcOnnzlLFsKXE), [Sushmita Chanda](https://open.spotify.com/artist/7nQLipmdgQfocJecH1CD5v) | [Sukoon](https://open.spotify.com/album/0IVa3rkLxqzAq0wZ085Fs4) | 3:12 | 2024-03-22 | 2024-05-11 |
 | [Sukoon](https://open.spotify.com/track/5UNxdMgOfVybQcqC70Iij8) | [SHAHI](https://open.spotify.com/artist/37jIu8068iik4NKht4gl92), [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd), [Deep](https://open.spotify.com/artist/0z7tFsnGUC5AmOISD1cATs) | [Sukoon](https://open.spotify.com/album/4Ph81Y9WbRh5iBEJTPJq4q) | 3:10 | 2024-11-29 | 2025-02-01 |

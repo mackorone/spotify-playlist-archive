@@ -1,13 +1,37 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 7766,
+  "num_followers": 7773,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAADdoqrjXgj8KRFyPcKE9nMT",
+  "snapshot_id": "aF3fAAAAAAB/BYhuyAlJxwFIu4+m+A1X",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Tentar",
+        "url": "https://open.spotify.com/album/2Hip6f21AznxijIyxps6da"
+      },
+      "artists": [
+        {
+          "name": "Mc Safira",
+          "url": "https://open.spotify.com/artist/3sypukBvk2y3ozQW63b3HO"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        }
+      ],
+      "duration_ms": 121103,
+      "name": "Se Tentar",
+      "url": "https://open.spotify.com/track/5UnZaD1USnKbS00KWlnzH1"
+    },
     {
       "added_at": null,
       "album": {
@@ -419,6 +443,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MERC\u00daRIO EM C\u00c2NCER",
+        "url": "https://open.spotify.com/album/5APa6S6BAhmFTy7fP2lZGp"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        }
+      ],
+      "duration_ms": 178455,
+      "name": "MERC\u00daRIO EM C\u00c2NCER",
+      "url": "https://open.spotify.com/track/4lhWuWc0vE38yKUVEqLEwt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Malvatrem (Deluxe)",
         "url": "https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv"
       },
@@ -439,26 +483,6 @@
       "duration_ms": 142500,
       "name": "14 Sem Vaselina",
       "url": "https://open.spotify.com/track/2JV98Y7WyUvIOYiFbRnikA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MERC\u00daRIO EM C\u00c2NCER",
-        "url": "https://open.spotify.com/album/5APa6S6BAhmFTy7fP2lZGp"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        }
-      ],
-      "duration_ms": 178455,
-      "name": "MERC\u00daRIO EM C\u00c2NCER",
-      "url": "https://open.spotify.com/track/4lhWuWc0vE38yKUVEqLEwt"
     },
     {
       "added_at": null,
@@ -571,22 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trap The Fato Deluxe",
-        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
+        "name": "Cria de Caxias",
+        "url": "https://open.spotify.com/album/3J7pd00FYE2TSKfvwVVpn4"
       },
       "artists": [
         {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
         },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         }
       ],
-      "duration_ms": 209245,
-      "name": "\u00d3PIO",
-      "url": "https://open.spotify.com/track/59XgYFAlA8GyjOAaNQF29E"
+      "duration_ms": 127866,
+      "name": "cria de caxias",
+      "url": "https://open.spotify.com/track/2lkBXmDoJs7dgRASg3vHP4"
     },
     {
       "added_at": null,
@@ -611,22 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cria de Caxias",
-        "url": "https://open.spotify.com/album/3J7pd00FYE2TSKfvwVVpn4"
+        "name": "Trap The Fato Deluxe",
+        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
       },
       "artists": [
         {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
         },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         }
       ],
-      "duration_ms": 127866,
-      "name": "cria de caxias",
-      "url": "https://open.spotify.com/track/2lkBXmDoJs7dgRASg3vHP4"
+      "duration_ms": 209245,
+      "name": "\u00d3PIO",
+      "url": "https://open.spotify.com/track/59XgYFAlA8GyjOAaNQF29E"
     },
     {
       "added_at": null,

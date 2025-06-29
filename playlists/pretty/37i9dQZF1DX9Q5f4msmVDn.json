@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 23486,
+  "num_followers": 23487,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Shhh",
-        "url": "https://open.spotify.com/album/74kNuwmmF4oX5K45mK21IQ"
-      },
-      "artists": [
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        }
-      ],
-      "duration_ms": 139029,
-      "name": "Shhh",
-      "url": "https://open.spotify.com/track/6jaLhbtCCj0FyIf8ddYSKw"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Action Speaks Louder Than Words",
         "url": "https://open.spotify.com/album/2rcNrTFw6XnV95kVwmbyjc"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 211186,
       "name": "Action Speaks Louder Than Words",
       "url": "https://open.spotify.com/track/2vMMyG4iw5OppGOh23kXIe"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Shhh",
+        "url": "https://open.spotify.com/album/74kNuwmmF4oX5K45mK21IQ"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "duration_ms": 139029,
+      "name": "Shhh",
+      "url": "https://open.spotify.com/track/6jaLhbtCCj0FyIf8ddYSKw"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Beyond Bulletproof",
-        "url": "https://open.spotify.com/album/3Ud5r7QHfMF1UhH8a5M1cH"
-      },
-      "artists": [
-        {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
-        }
-      ],
-      "duration_ms": 155968,
-      "name": "Boyz To Men",
-      "url": "https://open.spotify.com/track/4SCZOft290qQSfl4MLUMId"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "gold fronts (feat. Lil Wayne)",
         "url": "https://open.spotify.com/album/6zrhRSr8mkBjiklBDFtMub"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 235978,
       "name": "gold fronts (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/7yOEBtOgzkgN52pfM7SOnm"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Beyond Bulletproof",
+        "url": "https://open.spotify.com/album/3Ud5r7QHfMF1UhH8a5M1cH"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "duration_ms": 155968,
+      "name": "Boyz To Men",
+      "url": "https://open.spotify.com/track/4SCZOft290qQSfl4MLUMId"
     }
   ],
   "unique_name": "Archie Davis' Taste",

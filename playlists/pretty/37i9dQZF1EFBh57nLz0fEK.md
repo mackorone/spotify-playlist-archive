@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177 likes - 115 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 180 likes - 115 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 29 | [Spend It](https://open.spotify.com/track/49k2A3TtO0emRciVKKiWnC) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 3:20 |
 | 30 | [everything you need](https://open.spotify.com/track/5ZD0MkX1FadkqYwhCCmAiv) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:27 |
 | 31 | [Someday \(feat\. Max Schneider\) \- Film Version](https://open.spotify.com/track/1Pt2CPkAkPIki1qapq2dCt) | [Rags Cast](https://open.spotify.com/artist/5igcQeVmcLCLDM2cj43Tuy), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Rags \(Music From the Original Movie\)](https://open.spotify.com/album/1jXyQ8Yu9hZ54DbX4qg11Z) | 3:46 |
-| 32 | [Paper Together \(feat\. UGK\)](https://open.spotify.com/track/4bfuT38XJterVJPPdKlneV) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:35 |
-| 33 | [Sinner](https://open.spotify.com/track/7m57eGe3haQgQgbsuSufwJ) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [The Drive Home](https://open.spotify.com/album/07vD7PUkwTMoRWpXzMwDMy) | 2:59 |
+| 32 | [Sinner](https://open.spotify.com/track/7m57eGe3haQgQgbsuSufwJ) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [The Drive Home](https://open.spotify.com/album/07vD7PUkwTMoRWpXzMwDMy) | 2:59 |
+| 33 | [Paper Together \(feat\. UGK\)](https://open.spotify.com/track/4bfuT38XJterVJPPdKlneV) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:35 |
 | 34 | [Girls Talkin Bout](https://open.spotify.com/track/1l0w3qSXUh8eEkzeotScCX) | [Mindless Behavior](https://open.spotify.com/artist/2waKklOyXKNqhqIOmE4yBA) | [\#1 Girl](https://open.spotify.com/album/72Dqv9RL9xaG5fwEClkC6w) | 3:22 |
 | 35 | [Hardcore \(feat\. Don Toliver\)](https://open.spotify.com/track/7KGxiUpYciBYO4QyG7qq28) | [Zack Bia](https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hardcore \(feat\. Don Toliver\)](https://open.spotify.com/album/1gUVSsB2dwpwehdh3HmJVY) | 3:38 |
 | 36 | [Hands Up \(feat\. Max Schneider\)](https://open.spotify.com/track/6FoQPgUa5iAQmsiopGGXNG) | [Rags Cast](https://open.spotify.com/artist/5igcQeVmcLCLDM2cj43Tuy), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Rags \(Music From the Original Movie\)](https://open.spotify.com/album/1jXyQ8Yu9hZ54DbX4qg11Z) | 2:57 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 76 | [American Mood](https://open.spotify.com/track/1qaK2WV09lYnzL3agJ79JW) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [American Mood](https://open.spotify.com/album/2EyxMEOKoNDsQluub6Wir5) | 4:15 |
 | 77 | [Thinking of You](https://open.spotify.com/track/70ZhUOVBwrBv2gKXABIgux) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 4:24 |
 | 78 | [If I Was a Bird](https://open.spotify.com/track/0329HQXhaQN13Hi5GOaC1X) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Side Effects Of You \(Deluxe Version\)](https://open.spotify.com/album/7dbS6arvfa5lkzer8I6tq2) | 2:47 |
-| 79 | [Gon' B Alright](https://open.spotify.com/track/0rjk5JvTGxDcHuFdqcrTX4) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Unbreakable](https://open.spotify.com/album/45nlliwsohn0gLFmQ49FAG) | 3:54 |
-| 80 | [Double Tragedy](https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Double Tragedy](https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H) | 2:45 |
+| 79 | [Double Tragedy](https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Double Tragedy](https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H) | 2:45 |
+| 80 | [Gon' B Alright](https://open.spotify.com/track/0rjk5JvTGxDcHuFdqcrTX4) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Unbreakable](https://open.spotify.com/album/45nlliwsohn0gLFmQ49FAG) | 3:54 |
 | 81 | [Stand Out \(feat\. Keke Palmer\)](https://open.spotify.com/track/41KujPUGBjz9pyoDCo9Gdd) | [Rags Cast](https://open.spotify.com/artist/5igcQeVmcLCLDM2cj43Tuy), [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Rags \(Music From the Original Movie\)](https://open.spotify.com/album/1jXyQ8Yu9hZ54DbX4qg11Z) | 3:07 |
 | 82 | [Code + Love Me Some More](https://open.spotify.com/track/3EErsWRNeSwUg6ffBgDXW3) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 3:46 |
 | 83 | [Everybody Needs Someone](https://open.spotify.com/track/6oiqxLhql2Pn3g8NCdylAv) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II : Deluxe](https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn) | 3:22 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 114 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 |
 | 115 | [INTERLUDE](https://open.spotify.com/track/4RyDxpwqXhN5zI39QumvVe) | [T$](https://open.spotify.com/artist/00xAzuaRdsIegeqqDtlzae), [Willie Truitt](https://open.spotify.com/artist/3rrNr8VdtVf9y7PBg5xS9w) | [PURPLE BLOOD](https://open.spotify.com/album/4ECQGzAEn0Vj0RiPWLh1gH) | 0:37 |
 
-Snapshot ID: `Ab1SqAAAAACp6VtRELAfYZifHUwe759C`
+Snapshot ID: `Ab1YSAAAAADIZ/Wn2Q6RRfaRcQZs75qH`

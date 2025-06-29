@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Cole Swindell, BigXthaPlug with Shaboozey, Diplo with Bailey Zimmerman and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,692 likes - 96 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,900 likes - 96 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 2 | [Home \(feat\. Shaboozey\)](https://open.spotify.com/track/7LaLY7dkzWEtmtJ8o7oD05) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Home \(feat\. Shaboozey\)](https://open.spotify.com/album/50Gz1176FyXKAnBmVvc6GQ) | 2:15 |
 | 3 | [Ashes](https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Ashes](https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg) | 3:03 |
 | 4 | [Solid Country Gold](https://open.spotify.com/track/7f0FidagqvvapT7TeaWfuP) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 3:28 |
-| 5 | [Never Met Anyone Like You](https://open.spotify.com/track/4LXL1lRpybr8s4x0vkPQm5) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Never Met Anyone Like You](https://open.spotify.com/album/07v7okIuI77b0Y2twqEGDS) | 2:48 |
+| 5 | [Never Met Anyone Like You \(feat\. HARDY\)](https://open.spotify.com/track/4LXL1lRpybr8s4x0vkPQm5) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Never Met Anyone Like You \(feat\. HARDY\)](https://open.spotify.com/album/07v7okIuI77b0Y2twqEGDS) | 2:48 |
 | 6 | [Man or the Song](https://open.spotify.com/track/1RVqZGMIByPikzt72b5lrj) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Man or the Song](https://open.spotify.com/album/6iWEpoVDABRdVmyMrjySfT) | 2:49 |
 | 7 | [Rattlesnake Preacher](https://open.spotify.com/track/0SWHS54IqnYyLSYifmhXI7) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Rattlesnake Preacher](https://open.spotify.com/album/1q9e07RjP19r0MCJSAsYUj) | 3:55 |
 | 8 | [Spin the Block](https://open.spotify.com/track/0m2Ekl3KKiBvtRbbIWleEz) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Spin the Block](https://open.spotify.com/album/0LsePMxxlwcaDQgNc0m6N6) | 2:46 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 49 | [Bluegrass On My Mind](https://open.spotify.com/track/7H17k981gqUMxxb6BsKKOI) | [Tyler Booth](https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel) | [Downtown](https://open.spotify.com/album/44ypqg6CSnVOOpJjevkBzU) | 3:25 |
 | 50 | [Brand New](https://open.spotify.com/track/01plc8Y3kBUdFvJOajL8Yq) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Brand New](https://open.spotify.com/album/4CxHkd2ptlg4y5ahUUdOj5) | 2:20 |
 | 51 | [Outta the Bar](https://open.spotify.com/track/6zzOichWfkqq3kX8AlwUaq) | [Matt Lang](https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW) | [Outta the Bar](https://open.spotify.com/album/3KF7JlHe1YEVsMhyAjiW3c) | 3:07 |
-| 52 | [Here For The Party](https://open.spotify.com/track/3strvt09iL11UykVxIi9RD) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [West of Fort Worth](https://open.spotify.com/album/3T4wfoU49TKscwflmnhtlD) | 3:02 |
+| 52 | [Here For The Party](https://open.spotify.com/track/3strvt09iL11UykVxIi9RD) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [West of Fort Worth](https://open.spotify.com/album/3T4wfoU49TKscwflmnhtlD) | 3:00 |
 | 53 | [Blue](https://open.spotify.com/track/5MEPP509FqhFUpxVk9Bbt9) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Blue](https://open.spotify.com/album/0AciEAUtWW7MtYoPZLTkgH) | 3:17 |
 | 54 | [My Type](https://open.spotify.com/track/5KWMnRVyKD6PPiAb4ey8U1) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [My Type](https://open.spotify.com/album/70ypeH5tLVMSxWlWTVMcW1) | 2:53 |
 | 55 | [Read The Room](https://open.spotify.com/track/58f8jHGzqJZNQJS9gfyi0H) | [MAYCE](https://open.spotify.com/artist/5MLjCi6tlmcBXNyklgRzaZ) | [Halfway To Healed](https://open.spotify.com/album/5Hcm4KqCGgvWj3RKQayjwL) | 3:10 |

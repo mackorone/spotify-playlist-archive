@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rfzJZ1SihB.md) - [plain]
 
 > 今年的金曲獎要來了！Spotify 當然全力支持！火速呈獻精采提名作品！
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,804 likes - 108 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,990 likes - 108 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [BUNUN 布農](https://open.spotify.com/track/0vW43N226XraGczXlsnvKk) | [阿布絲・塔娜比瑪](https://open.spotify.com/artist/4mxP6XgX0kUYlpKlcOHVGx) | [QUEENDOM](https://open.spotify.com/album/1pmemhmd7AZ77w04ZuqMkB) | 4:16 |
-| 2 | [手機錢包鑰匙菸 feat.Crowd Lu](https://open.spotify.com/track/67aEhtXw9vYZKgyVLhkblq) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI), [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [Amazing Show同名專輯](https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau) | 3:20 |
-| 3 | [偏南風](https://open.spotify.com/track/10nw9cTqrTj7uc9QQPIHKG) | [謝銘祐](https://open.spotify.com/artist/38kvukZeDwVBlhLnVVCKWw) | [偏南](https://open.spotify.com/album/0A4aZPUpNwHlMj6UsDnLos) | 4:33 |
-| 4 | [Young Man](https://open.spotify.com/track/3sqG2KNe7B892XWGw4OUdb) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/2qNilyf3KvTDmGfDXnJx9y) | 4:17 |
-| 5 | [星期五晚上](https://open.spotify.com/track/7JKYx62KGXytK27ZInyAHG) | [Energy](https://open.spotify.com/artist/6GUGvmk5XZesTWRQdkp69u) | [星期五晚上](https://open.spotify.com/album/1hmqJPjFzyMiyZNqxEaQFS) | 3:38 |
+| 1 | [星期五晚上](https://open.spotify.com/track/7JKYx62KGXytK27ZInyAHG) | [Energy](https://open.spotify.com/artist/6GUGvmk5XZesTWRQdkp69u) | [星期五晚上](https://open.spotify.com/album/1hmqJPjFzyMiyZNqxEaQFS) | 3:38 |
+| 2 | [BUNUN 布農](https://open.spotify.com/track/0vW43N226XraGczXlsnvKk) | [阿布絲・塔娜比瑪](https://open.spotify.com/artist/4mxP6XgX0kUYlpKlcOHVGx) | [QUEENDOM](https://open.spotify.com/album/1pmemhmd7AZ77w04ZuqMkB) | 4:16 |
+| 3 | [手機錢包鑰匙菸 feat.Crowd Lu](https://open.spotify.com/track/67aEhtXw9vYZKgyVLhkblq) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI), [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [Amazing Show同名專輯](https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau) | 3:20 |
+| 4 | [偏南風](https://open.spotify.com/track/10nw9cTqrTj7uc9QQPIHKG) | [謝銘祐](https://open.spotify.com/artist/38kvukZeDwVBlhLnVVCKWw) | [偏南](https://open.spotify.com/album/0A4aZPUpNwHlMj6UsDnLos) | 4:33 |
+| 5 | [Young Man](https://open.spotify.com/track/3sqG2KNe7B892XWGw4OUdb) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/2qNilyf3KvTDmGfDXnJx9y) | 4:17 |
 | 6 | [才二十三](https://open.spotify.com/track/1h1odoIBoxI1BvZUpoAGcH) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [夢想家 The Dreamer](https://open.spotify.com/album/7lxl8IT9CF5fh7pTN1CHYD) | 3:44 |
 | 7 | [這樣很好 \- 《英雄聯盟:雙城之戰》動畫第二季原聲](https://open.spotify.com/track/0Cdq7p8QbX9EE4eNCtzGsk) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [這樣很好 \(《英雄聯盟:雙城之戰》動畫第二季原聲\)](https://open.spotify.com/album/0ZyyIg7t8XtqxuBg48PbkQ) | 4:24 |
 | 8 | [足芳足芳](https://open.spotify.com/track/1sqHxuAC7b0bX1sXb5F1wY) | [李竺芯](https://open.spotify.com/artist/0qI7jcxX3CFiafnkAe7Rjp) | [Suí 水](https://open.spotify.com/album/4iS0XEUs3Gr8YbYpA7SuC3) | 3:34 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rfzJZ1SihB.md) - [plain]
 | 107 | [殿](https://open.spotify.com/track/78oT7hMmCR4efkmRTwXrEQ) | [呂紹淳](https://open.spotify.com/artist/0yvoFmqqc9fUS4iMpxNcNC) | [胎內](https://open.spotify.com/album/7unpSNA0s1NwkqpzVmmypW) | 4:56 |
 | 108 | [沙漏](https://open.spotify.com/track/7uxeQoTYBM6o59fr14qfbd) | [曜爆甘弦樂團](https://open.spotify.com/artist/4y8yvnGst7zwAAEgx7I5Hr) | [憶聲弦命 滾石40【40首OST 致經典】滾石影視主題曲演奏專輯](https://open.spotify.com/album/5dI05xRiW9FGk9tYE8TXur) | 4:21 |
 
-Snapshot ID: `aEuPrQAAAACEpBPKajsIhqPfWJ9YhOKK`
+Snapshot ID: `aGAOaQAAAAB2SlYKJTMuVvPFE4MoIdRq`

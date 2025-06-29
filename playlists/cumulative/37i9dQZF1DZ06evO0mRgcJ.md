@@ -4,7 +4,7 @@
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-87 songs - 4 hr 43 min
+88 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Critíquenme](https://open.spotify.com/track/5y35zXJMQ53ebkJGm8ZlSJ) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 2:37 | 2024-02-02 |  |
 | [Cuatro Grandes \(Cuadro Lavado\)](https://open.spotify.com/track/0ggmHIybqGimyRj8wLz81v) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [LA Privada](https://open.spotify.com/album/0PNMxKlPkcdUXEwCf9pcPf) | 2:47 | 2025-05-15 |  |
 | [Dash](https://open.spotify.com/track/3mGNfLaiEjokEf4IGN5eI5) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Dash](https://open.spotify.com/album/6yPZzcF4xp64gOdDB7lxfI) | 3:18 | 2024-01-29 |  |
+| [De aquí pa allá](https://open.spotify.com/track/61DvcN30XR5Z7tE0nkbAn3) | [Jorge Morales El Jilguero](https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Yo Soy El Que Soy](https://open.spotify.com/album/0XMpQx7hguTme7QdNMnufW) | 2:40 | 2025-06-29 |  |
 | [Después los Miro](https://open.spotify.com/track/1Fn05klztwWCRBzqabkTLt) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Después los Miro](https://open.spotify.com/album/0MtwfoBQyAntAOUx7cGQq3) | 2:43 | 2024-10-13 |  |
 | [Dile Que No](https://open.spotify.com/track/3kFLhQ7tOovutkhVjvc9ax) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Conjunto Brio Norteño](https://open.spotify.com/artist/0DjscwAusQfeGfhAtTjczy) | [Dile Que No](https://open.spotify.com/album/6CxhgIBZ58cKISoJWOkkBF) | 3:05 | 2024-01-29 | 2024-02-24 |
 | [El Famoso Chino Antrax](https://open.spotify.com/track/5XZQUalNyeSKUWYQynX1Gq) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Mafia De Corridos](https://open.spotify.com/album/1PJ8GIADR9QBlM1kXRzmSp) | 3:30 | 2024-01-29 |  |
@@ -90,7 +91,7 @@
 | [Soy Chapito Soy Amigo \(En Vivo\)](https://open.spotify.com/track/0Y0lKXho3LtYi6vcEG4Esf) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 2](https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY) | 2:22 | 2024-01-29 | 2024-04-10 |
 | [Soy El Ace Para Ganar \(Live\)](https://open.spotify.com/track/3SF3muQ7uwi4cFrFjycJ4D) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Soy El Ace Para Ganar](https://open.spotify.com/album/1BIbkKD9bKqICzdneFagLD) | 4:17 | 2025-05-30 |  |
 | [The Cookie Plug \(En Vivo\)](https://open.spotify.com/track/6p3AgriQhiZSGLeOI1JASQ) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [The Cookie Plug \(En Vivo\)](https://open.spotify.com/album/1b3k7w3Ixl7sq0DQVYJBMQ) | 3:57 | 2024-01-29 |  |
-| [Turbo Cheyenne \(En Vivo\)](https://open.spotify.com/track/19TJxFBjhKXgE6d2hY9pvG) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Corridos Underground 2](https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY) | 2:36 | 2024-10-16 |  |
+| [Turbo Cheyenne \(En Vivo\)](https://open.spotify.com/track/19TJxFBjhKXgE6d2hY9pvG) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Corridos Underground 2](https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY) | 2:36 | 2024-10-16 | 2025-06-29 |
 | [Ultimamente Tapando Bocas](https://open.spotify.com/track/6CwgGDlKi58MrCf8nsc8vm) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Ultimamente Tapando Bocas](https://open.spotify.com/album/6vOmMRvQqATYGFPCcygZDP) | 4:00 | 2024-01-29 | 2025-01-11 |
 | [Uno Nueve](https://open.spotify.com/track/6iAlYAuGyh73zwIj35gula) | [Grupo Elexion](https://open.spotify.com/artist/5JQFHFB2VCcven5RfSH1d7), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Uno Nueve](https://open.spotify.com/album/1EkygNp1Nv1WYx63blh8tg) | 3:36 | 2024-01-29 |  |
 | [Voy Amanecerme](https://open.spotify.com/track/1r3Wdsw2tacwgUIoVNw99T) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 2:18 | 2024-01-29 | 2024-07-27 |

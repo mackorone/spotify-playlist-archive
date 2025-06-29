@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Good Charlotte
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,581 likes - 101 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,691 likes - 101 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rejects](https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Rejects](https://open.spotify.com/album/78grezRlmscONkCdIIvkQa) | 2:54 |
 | 2 | [Nail In Your Hand](https://open.spotify.com/track/5JUbaYHayAeprT2Bzysb0v) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Nail In Your Hand](https://open.spotify.com/album/2PbWzN5X4k9tuHZiYF8kdu) | 3:15 |
-| 3 | [Virginia](https://open.spotify.com/track/1gS3FwP1gQoMJ8e8PIS9Z8) | [The Bends](https://open.spotify.com/artist/2xBejdNon0VS3Egq8he7sb) | [Virginia](https://open.spotify.com/album/0KWlv2gBr7voYbfjBAPAxN) | 3:01 |
+| 3 | [Virginia](https://open.spotify.com/track/1gS3FwP1gQoMJ8e8PIS9Z8) | [The Bends](https://open.spotify.com/artist/48kqs2H7CMYS9wLKwBRavc) | [Virginia](https://open.spotify.com/album/0KWlv2gBr7voYbfjBAPAxN) | 3:01 |
 | 4 | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/track/4lSXxf1buHPHRqz4otuxde) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Toby Morse](https://open.spotify.com/artist/3bUT7vUCfASm9rKV19DAjd) | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/album/6K484LDhrNh4mzq95WMPbv) | 3:11 |
 | 5 | [No Joy](https://open.spotify.com/track/3p1UaNpImYT3nrIy1reGJ6) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [No Joy](https://open.spotify.com/album/1HbbRnWZ0mMVKHj9PsCUk7) | 3:17 |
 | 6 | [PTRCK](https://open.spotify.com/track/0IhSSRDZyXYZ63KK83O8Fn) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [PTRCK](https://open.spotify.com/album/5GyYnIKSicvq3ogUg15Lev) | 2:32 |

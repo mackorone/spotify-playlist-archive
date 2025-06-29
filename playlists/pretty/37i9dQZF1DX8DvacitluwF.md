@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf?si=RdeehQ3VSg2NorWLeHscFw"> Sasha Keable</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,460 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,473 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Feel Something](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Feel Something](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 |
+| 1 | [FEEL SOMETHING](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 |
 | 2 | [Break](https://open.spotify.com/track/1LtKgnc7y3jW4bkkYozDDc) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Break](https://open.spotify.com/album/701nJOG1dAwQ0VYSGk3zbt) | 2:10 |
 | 3 | [Bed of Roses](https://open.spotify.com/track/4hTBcHQ5DjYH9dbroi91if) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Bed of Roses](https://open.spotify.com/album/7EHL9PCseJVg7jLeF08G3S) | 2:29 |
 | 4 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 28 | [BUTTERFLIES](https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [LUCKY ME](https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP) | 2:43 |
 | 29 | [me u & pride](https://open.spotify.com/track/0H0Zs9VdBSKqRIJGBpLbY4) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [since yall say ion drop enough](https://open.spotify.com/album/4qLTi34aG7nh2CkOZ5fhPU) | 3:19 |
 | 30 | [act right](https://open.spotify.com/track/1z0gNe6DiusPKN55RBAvRO) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz) | 2:53 |
-| 31 | [You4Me](https://open.spotify.com/track/6HGL76EoYOTR2ETqucHxPA) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [You4Me](https://open.spotify.com/album/0mpmJp3sKifYKvOPiAcjtL) | 2:37 |
-| 32 | [Sycamore Tree](https://open.spotify.com/track/1qHDg5ObxDpRZjoqPQGIyK) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Sycamore Tree](https://open.spotify.com/album/43aG2nFhrrTXHXjJR2KoFR) | 3:35 |
+| 31 | [Sycamore Tree](https://open.spotify.com/track/1qHDg5ObxDpRZjoqPQGIyK) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Sycamore Tree](https://open.spotify.com/album/43aG2nFhrrTXHXjJR2KoFR) | 3:35 |
+| 32 | [You4Me](https://open.spotify.com/track/6HGL76EoYOTR2ETqucHxPA) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [You4Me](https://open.spotify.com/album/0mpmJp3sKifYKvOPiAcjtL) | 2:37 |
 | 33 | [SPEECHLESS](https://open.spotify.com/track/3QG7ScQMjttBGhEQWM3tEf) | [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [HIATUS](https://open.spotify.com/album/4Xhpn4XMjaoKTuWJ7YDWcE) | 3:34 |
 | 34 | [Taste](https://open.spotify.com/track/158aKdyaVs7HS3OfDZHANh) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Taste](https://open.spotify.com/album/5bKb1kHsa2aTQ5ymqLQ7DK) | 2:44 |
 | 35 | [SINCERITY](https://open.spotify.com/track/6vsviYXBwZkX3LUdXcnxC1) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [SINCERITY](https://open.spotify.com/album/6hQ3ZgQh0JAaNDP2GOwBOQ) | 2:47 |

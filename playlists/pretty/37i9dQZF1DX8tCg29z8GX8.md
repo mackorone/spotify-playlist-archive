@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 
 > mate\- Bus stop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,854 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,861 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 53 | [Favourite Story](https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Favourite Story](https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC) | 3:56 |
 | 54 | [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 |
 | 55 | [Do You Know?](https://open.spotify.com/track/6fVjIo9wkW9Z1u0qWLa1Ql) | [siicie](https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Do You Know?](https://open.spotify.com/album/3vdbIdFkySktuYEYiJtgA0) | 2:25 |
-| 56 | [Agya](https://open.spotify.com/track/3mkxopCUD9KXldJJ1c743w) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Agya](https://open.spotify.com/album/5RRH1A3hPL1TvcOseyuEOn) | 2:18 |
+| 56 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 |
 | 57 | [Otan](https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Otan](https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1) | 3:16 |
-| 58 | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X) | 3:02 |
-| 59 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 |
+| 58 | [Agya](https://open.spotify.com/track/3mkxopCUD9KXldJJ1c743w) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Agya](https://open.spotify.com/album/5RRH1A3hPL1TvcOseyuEOn) | 2:18 |
+| 59 | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X) | 3:02 |
 | 60 | [Zormizor \(Asabone\)](https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Zormizor \(Asabone\)](https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz) | 3:04 |
 | 61 | [Excellent](https://open.spotify.com/track/3Xa0qIUcRBZgOCs4XBqJdC) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Excellent](https://open.spotify.com/album/4HPBUH9zzG24I7ggx8f2P4) | 2:40 |
 | 62 | [obaa sima](https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Outside / obaa sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:06 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 77 | [I Feel Nice](https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Group Chat](https://open.spotify.com/artist/2bUFkuoX9s0HaQwNLhRCqA), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [I Feel Nice](https://open.spotify.com/album/4tKPkjN78B0HmlmQLXnGqk) | 2:40 |
 | 78 | [A Fuul](https://open.spotify.com/track/2kMYpI02BoSrdQhNgmXeWl) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [A Fuul](https://open.spotify.com/album/4pC90geT6Amug9vtCIxoYq) | 2:47 |
 | 79 | [Till It's Done](https://open.spotify.com/track/6cb3jTr1QzN9dEmSkwMtdL) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [CHRONICLES \(The First Supper\)](https://open.spotify.com/album/11gE9lxKNWiAB9AmfLQ3pQ) | 2:41 |
-| 80 | [Good Girl \(Evandy Girl\)](https://open.spotify.com/track/0S7PJaI9wUdua6uafHV9Xh) | [DJ Vyrusky](https://open.spotify.com/artist/20uZPZ6EXItffkdLevoEdV), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Shaker](https://open.spotify.com/artist/5I1G1MSxXh3zrZsVZCPzZj) | [Good Girl \(Evandy Girl\)](https://open.spotify.com/album/0qP1Ep1na1g15udNUiIXOo) | 2:09 |
+| 80 | [NLF \(Breakfast\) \(feat\. Lyrical Joe, Medikal & Beeztrap KOTM\) \- Remix](https://open.spotify.com/track/0p78AVztWdAadBisJf2AwD) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [NLF \(Breakfast\) \[Remix\] \(feat\. Lyrical Joe, Medikal & Beeztrap KOTM\)](https://open.spotify.com/album/08xthu9vDphOEDxyqDB9II) | 4:26 |
 
 Snapshot ID: `aF5O1AAAAAAo5tKsOk+0UDMT4vPu1pLj`

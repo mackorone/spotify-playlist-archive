@@ -494,7 +494,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 161818,
       "name": "Alimanjiri (Remix)",
       "url": "https://open.spotify.com/track/3hMIUxq62stTi3d3NWdS3u"
@@ -2326,7 +2326,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 166992,
       "name": "CANOPY (feat. Attifaya)",
       "url": "https://open.spotify.com/track/4rgoRhYCCb5Hprx3en869s"
@@ -7093,6 +7093,32 @@
     },
     {
       "album": {
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/7lL6Y1meW33YLH60oSaaoN"
+      },
+      "artists": [
+        {
+          "name": "joki",
+          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Mugisho",
+          "url": "https://open.spotify.com/artist/3KRCoMtReqUVKI38p5aWHw"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153997,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/6OLsNF93NAkdaWJXQev6Xi"
+    },
+    {
+      "album": {
         "name": "Mama Maradona",
         "url": "https://open.spotify.com/album/4ZtZwFfgzEMn4pyy5SuJ8y"
       },
@@ -8688,6 +8714,32 @@
       "duration_ms": 155636,
       "name": "Operation Sweep",
       "url": "https://open.spotify.com/track/2exuZNzNYl96pncjTYokOd"
+    },
+    {
+      "album": {
+        "name": "OPP (S)",
+        "url": "https://open.spotify.com/album/2H9Q3foXr7wwUdtFE0XOoh"
+      },
+      "artists": [
+        {
+          "name": "BIGBIRD KUTI",
+          "url": "https://open.spotify.com/artist/7n7wewebGwzL1Yz8yxdz4M"
+        },
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "OPP (S)",
+      "url": "https://open.spotify.com/track/753fMTMFUw8l2Ym9LZAA6x"
     },
     {
       "album": {

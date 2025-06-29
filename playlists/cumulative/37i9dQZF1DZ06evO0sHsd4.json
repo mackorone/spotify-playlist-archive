@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Formula One",
+        "url": "https://open.spotify.com/album/2BEaUNZ7RqGaXI4V599GvI"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185179,
+      "name": "Formula One",
+      "url": "https://open.spotify.com/track/41wEwoDCdrSPBHYJShUi8t"
+    },
+    {
+      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },

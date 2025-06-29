@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-771 songs - 1 day 13 hr 31 min
+772 songs - 1 day 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Chatoyante](https://open.spotify.com/track/5s3iXfS57ezUNi6M1McDDp) | [Rêveuse](https://open.spotify.com/artist/0DeHCKY9cIUwGMZuyIWCe1) | [Chatoyante](https://open.spotify.com/album/3GZVKjtELGJ2EXNZsAl4Y2) | 2:36 | 2024-02-08 | 2024-12-06 |
 | [Ciclo Solar](https://open.spotify.com/track/5igYXEgB6IPo7LNtQ71ZMT) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Planetas](https://open.spotify.com/album/51pSIpoYAmWbiUArilRnSg) | 3:13 | 2023-03-23 | 2024-02-09 |
 | [Cielo Notturno](https://open.spotify.com/track/5rE6VrSoUWVbN8zeqgCG8u) | [Callisto Mazzi](https://open.spotify.com/artist/0m0GtPOIUqS9mroE1ErOBn) | [Cielo Notturno](https://open.spotify.com/album/6QSEzNGp3z498l0xYouILT) | 3:08 | 2023-03-23 | 2024-02-09 |
-| [Ciels de Saphir](https://open.spotify.com/track/1WS6k1CpsOfxX61GeWKOR0) | [Fabuluxe](https://open.spotify.com/artist/4MwFbGn1PGHhaKAkhtEVDP) | [Ciels de Saphir](https://open.spotify.com/album/0td05C3nbN8gNEOsZ3DwC5) | 2:24 | 2025-04-09 |  |
+| [Ciels de Saphir](https://open.spotify.com/track/1WS6k1CpsOfxX61GeWKOR0) | [Fabuluxe](https://open.spotify.com/artist/4MwFbGn1PGHhaKAkhtEVDP) | [Ciels de Saphir](https://open.spotify.com/album/0td05C3nbN8gNEOsZ3DwC5) | 2:24 | 2025-04-09 | 2025-06-29 |
 | [Circularity](https://open.spotify.com/track/3U86GGu0IZtCmd1vxrK9ki) | [Labyrinthines](https://open.spotify.com/artist/3DWANz0CtvzLItCcONSdQQ) | [Circularity](https://open.spotify.com/album/0KyjYyFGkwwE4Qyfn5TWLc) | 2:55 | 2025-06-12 |  |
 | [Cirrus](https://open.spotify.com/track/3Q8gucbG6FdXmjisrfs36g) | [Tom Schiller](https://open.spotify.com/artist/6BxwLDTDUg7sDUQFATt4wZ) | [Cirrus](https://open.spotify.com/album/3pzZB5OIKoOHBgwCZGAYwy) | 2:40 | 2025-06-12 |  |
 | [Clairvoyance](https://open.spotify.com/track/1ATwyUWpAnvpCGgsSsQ7Ms) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Clairvoyance](https://open.spotify.com/album/7EZZUbyw3E8fuMC1ubbKwO) | 3:36 | 2024-06-18 | 2024-12-28 |
@@ -466,6 +466,7 @@
 | [Navala](https://open.spotify.com/track/4CCctITmHTWCoZpTK3Qi0I) | [Astral Steps](https://open.spotify.com/artist/1F2Bnj5hR7xoWkRVrtfROZ) | [Navala](https://open.spotify.com/album/6xPKS6K54lWJM5CFEs8Wvr) | 2:39 | 2025-05-07 | 2025-06-26 |
 | [Neblinoso](https://open.spotify.com/track/6uZF7xC32ewhpsm36IaM5T) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Neblinoso](https://open.spotify.com/album/0G3hLYFllRHfZHgFUj2MFS) | 3:54 | 2023-03-23 | 2024-04-06 |
 | [Neptune](https://open.spotify.com/track/3Gk3htA0t07SKqHAE6Ky7b) | [Indigo Moon](https://open.spotify.com/artist/6BRHav71vLlNp0l4uBXHkj) | [Neptune](https://open.spotify.com/album/3f9yCCW2sAaqlQ7otsX7kv) | 2:38 | 2025-01-08 | 2025-06-13 |
+| [Neutrino](https://open.spotify.com/track/0ToCRAE0hwR8OVwIJgWBN0) | [Alsephina](https://open.spotify.com/artist/2EFJqbmRZS645xeescnjp6) | [Neutrino](https://open.spotify.com/album/6gv12Fyx8nZV85zuJK57BA) | 2:48 | 2025-06-25 |  |
 | [Neverending](https://open.spotify.com/track/6eEgSIblmuXFXlb6A2tjvp) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Neverending](https://open.spotify.com/album/1prRlJUt0UmOZC3UD52J6v) | 2:25 | 2025-02-04 |  |
 | [New Centering](https://open.spotify.com/track/6Rl1hrBWmelAm4rRMVIHYG) | [Aurora's Aria](https://open.spotify.com/artist/3G4TjSBZdfsLwI6MGocARj) | [New Centering](https://open.spotify.com/album/4T5dqPRP8Ke4o5aI3k04yv) | 3:13 | 2025-06-17 | 2025-06-26 |
 | [Nightbound](https://open.spotify.com/track/1eyJETJbXOdk21bCuN3hlH) | [Blissful Calm](https://open.spotify.com/artist/6XnhClcw52DIgH82JbusZ7) | [Nightbound](https://open.spotify.com/album/1ScU3u4CEFByPcPa7Cb0CS) | 2:15 | 2024-03-20 | 2024-07-12 |

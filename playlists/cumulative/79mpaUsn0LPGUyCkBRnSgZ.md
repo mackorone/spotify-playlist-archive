@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-841 songs - 2 day 8 hr 6 min
+843 songs - 2 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -730,6 +730,7 @@
 | [The Hives\-Declare Guerre Nucleaire](https://open.spotify.com/track/1yXPyr0fjsmkBWtwfge84L) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 1:35 | 2023-10-30 |  |
 | [The Homeless and the Jet Boots Boy](https://open.spotify.com/track/7zpucEpqQ4uqUR2L3lPu9m) | [Jupiter Apple](https://open.spotify.com/artist/305wP8s5kY4kW1HqkFSjDi) | [Hisscivilization](https://open.spotify.com/album/33qTAyCo4Xdjdbft2MFv9T) | 11:34 | 2025-03-29 |  |
 | [The Infanta](https://open.spotify.com/track/0irk3bHSVDK12T2eGeWBuz) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [Picaresque](https://open.spotify.com/album/0eGxAVwdwV2mHrUgLJ8R6Y) | 5:07 | 2023-11-04 |  |
+| [The Introduction](https://open.spotify.com/track/1ffQI6OUl4BzgnUXIWVEly) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [roro](https://open.spotify.com/artist/0Y9jBmQGmBdDhlu3bSxECs) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 0:19 | 2025-06-28 |  |
 | [The Journey](https://open.spotify.com/track/50yW6FIY9isI5GmK1MNWfj) | [BE](https://open.spotify.com/artist/06kHjoBIuDUNyFBNBMoAC2) | [One](https://open.spotify.com/album/6I7J5zPGIdOGKl5jtCGzdh) | 18:52 | 2024-01-18 |  |
 | [The Knock](https://open.spotify.com/track/2oqDWu9cEgRcvk5FhIqEDU) | [Hop Along](https://open.spotify.com/artist/3yYUV3hkJit05YIUEODqgp) | [Painted Shut](https://open.spotify.com/album/7bR9KYRb6jfhlle5Y9U4BD) | 3:33 | 2025-04-28 |  |
 | [The Lamb Lies Down on Broadway \- 2007 Stereo Mix](https://open.spotify.com/track/10birs3L6T1PnvDwk4NXuf) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [The Lamb Lies Down on Broadway \(2007 Stereo Mix\)](https://open.spotify.com/album/49BxISwAbZZfmlhqD6Vh88) | 4:53 | 2023-10-30 | 2024-05-20 |
@@ -807,6 +808,7 @@
 | [Weird Part Of The Night](https://open.spotify.com/track/5Q9r5uZtc1bHTS0Wd6uS0i) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Time](https://open.spotify.com/album/2p8VeG5r2aadenxHViCibr) | 4:20 | 2024-01-15 |  |
 | [Welcome to \(Drifter\)](https://open.spotify.com/track/5ZjaSKUMpSaXVwwFJrGL4O) | [Mouseatouille](https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa) | [Out of the Hospital and Into the Morgue](https://open.spotify.com/album/5HiftUDco0SH7jJmTFCvGm) | 2:04 | 2023-05-13 | 2023-05-15 |
 | [Welcome To My Island](https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:52 | 2023-02-15 | 2023-05-23 |
+| [went to meet her \(intro\)](https://open.spotify.com/track/2RLKAk5EDhM4gXxIfpE58c) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 2:31 | 2025-06-28 |  |
 | [What I Am](https://open.spotify.com/track/6hHUiDe461VUoTHnsplRYs) | [Edie Brickell & New Bohemians](https://open.spotify.com/artist/4awU3JRQXIYoxabdwO92AU) | [Shooting Rubberbands At The Stars](https://open.spotify.com/album/2oZzKVi2mqkQnZOad6DXMw) | 4:56 | 2024-01-15 |  |
 | [What They Call Us](https://open.spotify.com/track/71ydsZmj3wLbdMkA6FPZIy) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 4:27 | 2023-03-11 | 2024-01-30 |
 | [WHAT'S THE TIME? \(SOME DAY, IN TIME\)](https://open.spotify.com/track/51mk7xOetdjEHMJpPpeT7e) | [DOOPEES](https://open.spotify.com/artist/6S7MhIZberHR1iHRE6obUf) | [DOOPEE TIME](https://open.spotify.com/album/4ZrrsbXBe0byye7R0Spx1x) | 0:29 | 2024-06-17 | 2024-06-27 |

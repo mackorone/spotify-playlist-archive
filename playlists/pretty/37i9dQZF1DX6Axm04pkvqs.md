@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,689 likes - 80 songs - 11 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,789 likes - 80 songs - 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 63 | [Song of Angels \(The Call\)](https://open.spotify.com/track/11r7LKpoZzMQByA9gC9cgf) | [Tobi Walker](https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM), [Gwen Samuel](https://open.spotify.com/artist/3MKVPEAKVqjOWppgRRqIfK) | [Song of Angels \(The Call\)](https://open.spotify.com/album/758w7ppEQYjtKeLn0E9n4p) | 6:09 |
 | 64 | [At All Cost](https://open.spotify.com/track/6GwE4OioGK8oOaC8nKJffy) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 8:56 |
 | 65 | [Eze Mmuo](https://open.spotify.com/track/4Ja1oWQdJqXZ35ZZ1GAdua) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Eze Mmuo](https://open.spotify.com/album/6HYR6TCB7BypDFHryf87Kn) | 5:33 |
-| 66 | [Fire](https://open.spotify.com/track/6HGO5S83wWMNxszS28zx8x) | [Siisi Baidoo](https://open.spotify.com/artist/1x9IbDcuMszbQzU8tposjZ), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6), [Sandra Boakye Duah](https://open.spotify.com/artist/1z6oSSdmYsJgwFjI7Br1A0) | [Revelation Album](https://open.spotify.com/album/3UfVHu4IjvLbkyVljDTNy4) | 9:55 |
-| 67 | [You Cover Me](https://open.spotify.com/track/37JvyLbD2sZqJb0xVYE80U) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [You Cover Me](https://open.spotify.com/album/3MpNFst8nlIyBLSt17ErjT) | 17:58 |
+| 66 | [You Cover Me](https://open.spotify.com/track/37JvyLbD2sZqJb0xVYE80U) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [You Cover Me](https://open.spotify.com/album/3MpNFst8nlIyBLSt17ErjT) | 17:58 |
+| 67 | [Fire](https://open.spotify.com/track/6HGO5S83wWMNxszS28zx8x) | [Siisi Baidoo](https://open.spotify.com/artist/1x9IbDcuMszbQzU8tposjZ), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6), [Sandra Boakye Duah](https://open.spotify.com/artist/1z6oSSdmYsJgwFjI7Br1A0) | [Revelation Album](https://open.spotify.com/album/3UfVHu4IjvLbkyVljDTNy4) | 9:55 |
 | 68 | [In This Place \- Live At Carnival City, 2024](https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [In This Place/Liyabasebenzela \(Live At Carnival City, 2024\)](https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD) | 6:33 |
 | 69 | [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/track/0INx5pqvfPfD9ZkqsOaM03) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/album/35thPiCxJtZayMsEV1Resj) | 8:44 |
 | 70 | [There Is Prophecy over Me \(Prayer Instrumental Music\)](https://open.spotify.com/track/70ULbNpGcjEJRjeqJZAiEm) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa) | [There Is Prophecy over Me \(Prayer Instrumental Music\)](https://open.spotify.com/album/3P98nKARTr1d2OA5QxEv97) | 14:59 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 77 | [Iwo Loba\(Chant\)](https://open.spotify.com/track/7DWMCsJ0Vb7Dx3Q1Zr2y7I) | [Hugo David](https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo) | [Tongues and Melodies](https://open.spotify.com/album/4KKbio6RtPiANVNYFAQwnK) | 2:14 |
 | 78 | [Song of Angels](https://open.spotify.com/track/3JMh7EqWmxzguJaSCqQuwc) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Kingdom Now](https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn) | 12:11 |
 | 79 | [Kabiyesi](https://open.spotify.com/track/2qQz5I3VxBWjXDHNqMg6UB) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:18 |
-| 80 | [Give Me You](https://open.spotify.com/track/4zaOQLod9QNPbGTBaUQBBh) | [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Give Me You](https://open.spotify.com/album/6qLhvbyZ5r1goVQzNS4GSu) | 17:00 |
+| 80 | [You And I](https://open.spotify.com/track/6HIyZBVcETC6ODKlNl87fl) | [Emon brill](https://open.spotify.com/artist/7h0bNvKAuQUJa1LhEMzjuO) | [You And I](https://open.spotify.com/album/5PdH8dt3ToFnm4BbCEteGR) | 7:33 |
 
 Snapshot ID: `aF3fXwAAAAAIuumHIDcP79MPifMR1XDz`

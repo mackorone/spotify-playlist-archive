@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: PayGotti
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,237,976 likes - 101 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,238,098 likes - 101 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

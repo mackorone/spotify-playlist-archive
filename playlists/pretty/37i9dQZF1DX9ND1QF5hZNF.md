@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,379 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 739,510 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vaitimbora](https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora](https://open.spotify.com/album/1XkGjUleNg3jPo1f4j0oFf) | 2:15 |
+| 1 | [Vaitimbora](https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora](https://open.spotify.com/album/1XkGjUleNg3jPo1f4j0oFf) | 2:15 |
 | 2 | [Je t'attends](https://open.spotify.com/track/70rsrMZ6vCKv4rpT4kHm9l) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT), [Shahin Shantiaei](https://open.spotify.com/artist/2uMU6guzncNxQIWf2ROaHL) | [Je t'attends](https://open.spotify.com/album/75lBb0SaANAjcQqdChQJEE) | 3:20 |
 | 3 | [Muhuuuuu](https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa) | [Lazare](https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd), [ADDAM \(BE\)](https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q) | [Muhuuuuu](https://open.spotify.com/album/0nWYLT5yww5UYzyAOk8bsB) | 2:43 |
 | 4 | [Messy](https://open.spotify.com/track/5bxTXHVddTlCcvPy1YdlNM) | [REWIND BE KIND](https://open.spotify.com/artist/3nwbc6lmUsJP2TfaCcMuZo) | [Messy](https://open.spotify.com/album/2tIl7vsgtOgdrGoN9jemW6) | 4:22 |

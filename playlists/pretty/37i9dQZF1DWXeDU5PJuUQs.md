@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,057 likes - 64 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,201 likes - 64 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 59 | [El Delirio de Perderte / Te Vas a Arrepentir / Vete](https://open.spotify.com/track/3XgBkO4HqaUmF9QmtYSQHC) | [Los Lamas](https://open.spotify.com/artist/7wj7mzfPsDlJjUyg2TIW1n), [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX), [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [El Delirio de Perderte / Te Vas a Arrepentir / Vete](https://open.spotify.com/album/7kaJpPaXQWftu2JtlcPnKS) | 6:02 |
 | 60 | [Jurabas Tu \- En Vivo](https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo 2019](https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8) | 2:27 |
 | 61 | [Los Pibes Chorros / Solo Le Pido a Dios / Botellero](https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 4:47 |
-| 62 | [Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor](https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Mi Vida \(En Vivo\)](https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD) | 7:19 |
-| 63 | [No Voy a Llorar](https://open.spotify.com/track/3OLRoqUQItumGBBbtKgHvP) | [Cumbia Viva](https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS), [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Cumbia Viva Session \#5 Altos Cumbieros](https://open.spotify.com/album/3a59FsnrHhLTuiOR79ZbPk) | 3:46 |
+| 62 | [No Voy a Llorar](https://open.spotify.com/track/3OLRoqUQItumGBBbtKgHvP) | [Cumbia Viva](https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS), [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Cumbia Viva Session \#5 Altos Cumbieros](https://open.spotify.com/album/3a59FsnrHhLTuiOR79ZbPk) | 3:46 |
+| 63 | [Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor](https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Mi Vida \(En Vivo\)](https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD) | 7:19 |
 | 64 | [No Llores \- En Vivo](https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [En Vivo en el Gran Rex](https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx) | 2:57 |
 
 Snapshot ID: `aF4JPwAAAADmRwqr1Ukwe/vvpeHW0ewp`

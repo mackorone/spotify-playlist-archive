@@ -6007,6 +6007,24 @@
     },
     {
       "album": {
+        "name": "ME FUI DE LA FIESTA",
+        "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158934,
+      "name": "ME FUI DE LA FIESTA",
+      "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
+    },
+    {
+      "album": {
         "name": "Trafun",
         "url": "https://open.spotify.com/album/7pqYO0I8Jecb4hjJ7r0zTb"
       },
@@ -11046,7 +11064,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 193270,
       "name": "Vos y Yo :3",
       "url": "https://open.spotify.com/track/27PskjLeAML4aATbWz0b8g"

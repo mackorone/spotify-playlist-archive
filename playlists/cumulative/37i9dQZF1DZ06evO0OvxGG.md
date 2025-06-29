@@ -4,7 +4,7 @@
 
 > This is Slipmami\. The essential tracks, all in one playlist.
 
-58 songs - 2 hr 34 min
+59 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Preso na Minha BCT](https://open.spotify.com/track/0LeAkijREFI8nnHK2xIQ5H) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [HG RealTrem](https://open.spotify.com/artist/5GtA2XrucPK4gSSD9G1sKs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem \(Deluxe\)](https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv) | 2:48 | 2023-12-30 |  |
 | [Rainha do Vinho](https://open.spotify.com/track/6LxX60FmC112LphNhmprc6) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Rafu](https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk) | [Gostosa Posturada](https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF) | 2:27 | 2023-12-30 |  |
 | [SALA VERMELHA \#31 \- Slipmami](https://open.spotify.com/track/6BfldmhgnMCt8PHM8xHY7n) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Mahai](https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [SALA VERMELHA \#31 \- Slipmami](https://open.spotify.com/album/5MKkPTLOt6yR0NGj328ToX) | 1:59 | 2025-06-01 |  |
+| [Se Tentar](https://open.spotify.com/track/5UnZaD1USnKbS00KWlnzH1) | [Mc Safira](https://open.spotify.com/artist/3sypukBvk2y3ozQW63b3HO), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Se Tentar](https://open.spotify.com/album/2Hip6f21AznxijIyxps6da) | 2:01 | 2025-06-29 |  |
 | [Show Lotado](https://open.spotify.com/track/3nFSNBEHUosZ2JvcRQB6fT) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 3:26 | 2023-12-30 |  |
 | [Slipmami On The Radar Freestyle](https://open.spotify.com/track/5nKndDZkMVKB5lSAHRX1mz) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Vhulto](https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB), [OG Bahia](https://open.spotify.com/artist/5sWSh5DCUgwN223DmJ1He1) | [Slipmami On The Radar Freestyle](https://open.spotify.com/album/6frAHNzX2l0rZuiq9HG3Lz) | 1:16 | 2025-05-18 |  |
 | [Slipmami On The Radar Freestyle Pt\. 2](https://open.spotify.com/track/5BZhhKdfLRCeZMD2rrGgb5) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Vhulto](https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB), [OG Bahia](https://open.spotify.com/artist/5sWSh5DCUgwN223DmJ1He1) | [Slipmami On The Radar Freestyle Pt\. 2](https://open.spotify.com/album/6xZSYwLGujgmf7kHIUzNhM) | 2:40 | 2025-05-26 |  |

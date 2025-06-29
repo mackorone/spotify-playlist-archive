@@ -4,7 +4,7 @@
 
 > Słońce, leżak i letnia błogość w dźwiękach ☀️
 
-539 songs - 1 day 6 hr 9 min
+540 songs - 1 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 | 2025-02-07 | 2025-02-22 |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-03-21 | 2025-06-01 |
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2024-09-12 | 2025-03-01 |
+| [Bag of Bones](https://open.spotify.com/track/1M2AqYT4Y6X0zRboZgIw8K) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Bag of Bones](https://open.spotify.com/album/4tWOuqMX9aMpFxvNU1WkYl) | 4:04 | 2025-06-27 |  |
 | [Beksa](https://open.spotify.com/track/3GIpWdKdTlQ22HC7DuxHdL) | [Matt Wysota](https://open.spotify.com/artist/4Z4ROJCkbpDmpx7sWsV3Yg) | [Beksa](https://open.spotify.com/album/6NPa7CgLqZaNkF1UkRiWpd) | 2:50 | 2025-02-28 | 2025-03-09 |
 | [Berlin i Amsterdam](https://open.spotify.com/track/4ZV4Ov5nHYRMOxBwlK2DSc) | [Blauka](https://open.spotify.com/artist/2ZgaoICJy1V38lHdzlVB8a) | [Berlin i Amsterdam](https://open.spotify.com/album/04DfMebohZFgfSQKhLy9R8) | 3:37 | 2025-01-24 | 2025-02-08 |
 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 | 2024-07-25 | 2025-03-30 |
@@ -149,7 +150,7 @@
 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-06-28 | 2024-11-22 |
 | [Flash In The Pan](https://open.spotify.com/track/7cog7mmj03N9GJRLcn4KET) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [The Jester](https://open.spotify.com/album/3HkJCHR1gtwyyhSfLbmo83) | 3:46 | 2024-11-21 | 2025-02-08 |
 | [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 | 2024-07-11 | 2024-09-13 |
-| [Fly Or Burn](https://open.spotify.com/track/5XyV6WUdtZuMJ6vloz8LKy) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Fly Or Burn](https://open.spotify.com/album/6ccFSIicUBAXD3oVFXDuA6) | 2:08 | 2025-06-09 |  |
+| [Fly Or Burn](https://open.spotify.com/track/5XyV6WUdtZuMJ6vloz8LKy) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Fly Or Burn](https://open.spotify.com/album/6ccFSIicUBAXD3oVFXDuA6) | 2:08 | 2025-06-09 | 2025-06-29 |
 | [For Cryin' Out Loud!](https://open.spotify.com/track/4nsd2DbMYqRwkvIQ51r4cp) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 3:37 | 2025-01-10 | 2025-03-01 |
 | [Forever Young](https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young](https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs) | 3:46 | 2024-09-12 | 2025-03-01 |
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-06-28 | 2024-09-13 |

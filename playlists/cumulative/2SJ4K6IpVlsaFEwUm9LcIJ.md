@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-624 songs - 1 day 12 hr 1 min
+625 songs - 1 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [Midnight Round Mekines](https://open.spotify.com/track/3Fsgp9pjoP5BUmFl5KeBsx) | [Javier Bergia](https://open.spotify.com/artist/00UEHtbE9afbslwaeYm9mw) | [Tagomago](https://open.spotify.com/album/5OkTZ0yybDXoA6BDNxPKyE) | 5:19 | 2025-04-28 |  |
 | [Mint](https://open.spotify.com/track/0RYwEPSvf7KSj5YI0VA72t) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Deep in View](https://open.spotify.com/album/6xCiTaBETJXjbRP68e7g0P) | 3:23 | 2024-01-08 | 2024-03-10 |
 | [Monochrome photography](https://open.spotify.com/track/36WOdy91Cs6wCUTlic2mdN) | [Electron Sheep](https://open.spotify.com/artist/1ZWn3NgMdeJKs2vmCZzJZa) | [Day Is Far Too Long](https://open.spotify.com/album/5OMI8HfEGEebdfeYHHDba0) | 3:53 | 2025-06-25 |  |
+| [Monsoon: Top to Bottom](https://open.spotify.com/track/6MVRZzhHrMUEvPiCH3Srbl) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Knee\-Deep In the North Sea](https://open.spotify.com/album/2A8c5znvmslp2I77dTBV1K) | 4:12 | 2025-06-28 |  |
 | [Moon Like a Pearl](https://open.spotify.com/track/2KkuQ32WtE9ImerVSnUWk5) | [Pia Fraus](https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT) | [Wonder What It's Like](https://open.spotify.com/album/4iIEtjfL8Xdyt0MglEJFTD) | 2:06 | 2024-03-09 | 2024-05-16 |
 | [Morning Morgantown](https://open.spotify.com/track/6jhvDPA1wPvyZgt4Sd0jV2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 3:13 | 2025-01-20 | 2025-03-02 |
 | [Mother](https://open.spotify.com/track/5LYiV6wYgkKgkzyqyI7DyO) | [Julie Doiron](https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT) | [Loneliest In The Morning](https://open.spotify.com/album/2LGJoiH5Vjj7t7B49vYKHm) | 2:30 | 2025-03-31 | 2025-05-09 |

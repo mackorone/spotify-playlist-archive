@@ -13026,7 +13026,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -13044,7 +13044,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -16496,7 +16496,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 181695,
       "name": "Gemm\u00e9r Gemm\u00e9r",
       "url": "https://open.spotify.com/track/0q2TiBDwdGZ4B8g3M7dNuO"
@@ -16610,6 +16610,24 @@
       "duration_ms": 188911,
       "name": "Gera gr\u00edn",
       "url": "https://open.spotify.com/track/0XAKcXlBhwAgu85ksxqmHY"
+    },
+    {
+      "album": {
+        "name": "Gera \u00feig vel",
+        "url": "https://open.spotify.com/album/3jPCSw55Tpx0OieikVrWr0"
+      },
+      "artists": [
+        {
+          "name": "Villi Karl",
+          "url": "https://open.spotify.com/artist/73uYFv16Ed3cBB4SLaz0J1"
+        }
+      ],
+      "date_added": "2025-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152063,
+      "name": "Gera \u00feig vel",
+      "url": "https://open.spotify.com/track/6OpIwpZvT3n3yWcoEMIhYw"
     },
     {
       "album": {
@@ -28809,6 +28827,24 @@
     },
     {
       "album": {
+        "name": "Miklu betri einn",
+        "url": "https://open.spotify.com/album/0iWWosOl3XNiDJLEyNpFRM"
+      },
+      "artists": [
+        {
+          "name": "ELVAR",
+          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
+        }
+      ],
+      "date_added": "2025-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144775,
+      "name": "Miklu betri einn",
+      "url": "https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4"
+    },
+    {
+      "album": {
         "name": "Miklu meira en bara tyggj\u00f3",
         "url": "https://open.spotify.com/album/1ERcr8kxPOfsxybRIimHaX"
       },
@@ -32038,7 +32074,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 182090,
       "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
       "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
@@ -41402,7 +41438,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 160288,
       "name": "Steik og Sushi",
       "url": "https://open.spotify.com/track/5xUMIgT1ANxPDJa3j7IBGv"
@@ -47272,7 +47308,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
@@ -48252,7 +48288,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 169870,
       "name": "Vitamin",
       "url": "https://open.spotify.com/track/2bk8MeKPbwWc9Iwv4qjz7U"
@@ -53130,7 +53166,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

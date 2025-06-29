@@ -1,6 +1,6 @@
 {
   "description": "The hits you know like you\u2019ve never heard before. Cover: Alessia Cara",
-  "num_followers": 735658,
+  "num_followers": 735653,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
@@ -772,6 +772,22 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 192146,
+      "name": "2002 - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/5fTB64VM8euas4F0xOHY5S"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4dEgr3LeNOQIsT8MGgeBTz"
       },
       "artists": [
@@ -787,22 +803,6 @@
       "duration_ms": 225005,
       "name": "Rockabye (feat. Anne-Marie) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2pGC8RQhmhFbZ6Fl5olWHZ"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 192146,
-      "name": "2002 - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/5fTB64VM8euas4F0xOHY5S"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1204,22 +1204,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 167907,
-      "name": "bad guy - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
       },
       "artists": [
@@ -1240,17 +1224,33 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2"
+        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
       },
       "artists": [
         {
-          "name": "Chloe x Halle",
-          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
         }
       ],
-      "duration_ms": 173206,
-      "name": "Sending My Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf"
+      "duration_ms": 167907,
+      "name": "bad guy - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 161447,
+      "name": "So Good - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0qPpxUVTaEGbGsMCugG4JQ"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1272,17 +1272,17 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC"
+        "url": "https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
         }
       ],
-      "duration_ms": 161447,
-      "name": "So Good - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0qPpxUVTaEGbGsMCugG4JQ"
+      "duration_ms": 173206,
+      "name": "Sending My Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1352,6 +1352,22 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "duration_ms": 268840,
+      "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
+      "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7HNrFnh0uwG7DuXdgGEY0z"
       },
       "artists": [
@@ -1367,22 +1383,6 @@
       "duration_ms": 229040,
       "name": "Young Dumb & Broke - Recorded At The Colosseum, Caesars Palace, Las Vegas",
       "url": "https://open.spotify.com/track/28rT3OwXdw4VF1MPYIk1P6"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
-      },
-      "artists": [
-        {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
-        }
-      ],
-      "duration_ms": 268840,
-      "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
-      "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -2048,17 +2048,17 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4iccPwuyNYH4ETLxhdchX6"
+        "url": "https://open.spotify.com/album/5hLin1G9HnweybsmPME5QV"
       },
       "artists": [
         {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
         }
       ],
-      "duration_ms": 244315,
-      "name": "Stay - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/62Jyekez6V8uxcxxq5sxRE"
+      "duration_ms": 214381,
+      "name": "Summer Love - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3LSnp6mtKiVXCJwsmOvfMd"
     }
   ],
   "unique_name": "Spotify Singles: Hits",

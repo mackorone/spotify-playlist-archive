@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Cover: LSDXOXO
 
-375 songs - 23 hr 24 min
+376 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [365 but now i'm feeling like a nasty partygirl day n nite <3](https://open.spotify.com/track/5vMszBHLCrF8c4cypmL5dA) | [dj g2g](https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL) | [365 but now i'm feeling like a nasty partygirl day n nite <3](https://open.spotify.com/album/6kn4SO2tuRBY2h0VYIGMaX) | 4:20 | 2024-08-16 | 2025-06-10 |
 | [365 featuring shygirl](https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:01 | 2024-10-11 |  |
 | [5 Mins Of Acid](https://open.spotify.com/track/6NLvW45mqeoctfNA2YmPMr) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 010 \- 5 Mins Of Acid](https://open.spotify.com/album/6pRDiTc1Sc31lLpITNIh0j) | 5:00 | 2024-06-14 | 2024-07-02 |
+| [69 Percent](https://open.spotify.com/track/2u7jPiZeUvvIb8S0QN3Hu9) | [Meg Ward](https://open.spotify.com/artist/2mD3jEYpdABPmYGMkwIp8s) | [69 Percent](https://open.spotify.com/album/6Ao7bXFuEy3bgf3MYNPgFP) | 2:10 | 2025-06-28 |  |
 | [90210](https://open.spotify.com/track/3vrqIdzS88pCWGe51tXpOP) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [SUBSTATE](https://open.spotify.com/album/4piB5tOFZA5RhUTMMpAm2o) | 3:09 | 2024-05-24 | 2024-07-27 |
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-07 |  |
 | [After Afters](https://open.spotify.com/track/4sRMCWKdHIUgmaMfcJwEbB) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [Missy](https://open.spotify.com/artist/1YILZCOXQSwtHs7CbbU0S4) | [After Afters](https://open.spotify.com/album/6kEjq6GW5F5lmfDC2M8HRA) | 5:57 | 2024-06-28 | 2024-11-16 |
@@ -258,7 +259,7 @@
 | [Obliterate](https://open.spotify.com/track/12bWYZA94k9TyxAVQ5aBQ5) | [Lupa J](https://open.spotify.com/artist/1yvTsFefUSbLoOimc1vMZJ) | [To Breathe Underwater](https://open.spotify.com/album/2lL7bjuc1QrmCYFuJb1fng) | 3:33 | 2021-10-15 | 2024-06-08 |
 | [Odyssey](https://open.spotify.com/track/25YnWoOmRGDR2ozZtkTjJ2) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH), [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [Odyssey](https://open.spotify.com/album/0tGlLrFgTKh7foE3Zp9dVI) | 3:33 | 2024-09-13 | 2024-11-23 |
 | [off to the ESSO](https://open.spotify.com/track/1R78da7R1cUTG5tLq7hU7c) | [aya](https://open.spotify.com/artist/0NKaRcyqHnynkv7UMsOhEH) | [hexed!](https://open.spotify.com/album/1hNGdfhOWtdbUoFOZ1Sc6J) | 3:29 | 2025-03-29 |  |
-| [off to the ESSO](https://open.spotify.com/track/1l344tXmFBDrSl141i5hKL) | [aya](https://open.spotify.com/artist/0NKaRcyqHnynkv7UMsOhEH) | [off to the ESSO](https://open.spotify.com/album/5FRLG42HT660dswh54SSrA) | 3:29 | 2025-01-31 |  |
+| [off to the ESSO](https://open.spotify.com/track/1l344tXmFBDrSl141i5hKL) | [aya](https://open.spotify.com/artist/0NKaRcyqHnynkv7UMsOhEH) | [off to the ESSO](https://open.spotify.com/album/5FRLG42HT660dswh54SSrA) | 3:29 | 2025-01-31 | 2025-06-29 |
 | [Oh The Glamour](https://open.spotify.com/track/7CZqezgV2IyorX2tnR1hNt) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Oh The Glamour](https://open.spotify.com/album/57lGyWWdxqvvC9uxEeX62j) | 3:21 | 2023-06-09 | 2024-09-07 |
 | [OMG](https://open.spotify.com/track/6u9c5pxX79yzvshvYqwXKK) | [Comanavago](https://open.spotify.com/artist/2UC2VMVP6wuURHTgns8OoP) | [OMG](https://open.spotify.com/album/4JmaNINxnJbRSEGWtr2MhM) | 2:48 | 2024-09-20 | 2024-11-23 |
 | [On 1](https://open.spotify.com/track/7ctqv3o3fv6mbktTDWqNfD) | [Safety Trance](https://open.spotify.com/artist/1tUbyAgdYNOjxXrNSfgquF), [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [On 1](https://open.spotify.com/album/0PzyrjqgNK77UC2SvaUVuV) | 2:25 | 2024-11-15 | 2025-06-21 |

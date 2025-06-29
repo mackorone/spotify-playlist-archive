@@ -1,6 +1,6 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 148043,
+  "num_followers": 148122,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
+        "name": "Take My Breath Away",
+        "url": "https://open.spotify.com/album/6nBmfhB1ioNyyUlpb9AmMQ"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 210545,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/3B0gvjxlqRgY7stPPl3qoQ"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/7rriXPfGcOzdHmU6q7V8Vr"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 272784,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/12J3Vk6944iKANUQZcuidf"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
-        "name": "Take My Breath Away",
-        "url": "https://open.spotify.com/album/6nBmfhB1ioNyyUlpb9AmMQ"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 210545,
-      "name": "Take My Breath Away",
-      "url": "https://open.spotify.com/track/3B0gvjxlqRgY7stPPl3qoQ"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Love Hurts",
-        "url": "https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 285719,
-      "name": "Love Hurts",
-      "url": "https://open.spotify.com/track/1Dq5j0rPWew23E9ut85AIX"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/2YUiLLOngrxtH9dhN9ZEtn"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 229493,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/3xq9FRFvT2KITtYjI5luP8"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Love Hurts",
+        "url": "https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 285719,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/1Dq5j0rPWew23E9ut85AIX"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Music From Leonard Bernstein'S 'West Side Story' And 'Wonderful Town'",
-        "url": "https://open.spotify.com/album/7t0ixwcxppL8KOnQ5Mfvop"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 226093,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/3RSViRFX1LwGMrsv0NcQk4"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Technically Acceptable",
         "url": "https://open.spotify.com/album/1ogZptaphgAJyfiG9eBkRL"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 230389,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/5RreK0YFWB9nR4SJVHOCwR"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Music From Leonard Bernstein'S 'West Side Story' And 'Wonderful Town'",
+        "url": "https://open.spotify.com/album/7t0ixwcxppL8KOnQ5Mfvop"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 226093,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/3RSViRFX1LwGMrsv0NcQk4"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Twentysomething (Special Edition)",
-        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 288546,
-      "name": "Lover, You Should Have Come Over",
-      "url": "https://open.spotify.com/track/0f6bXABu4brGJMt0bG9yPQ"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Champagne & Declarations",
         "url": "https://open.spotify.com/album/5AY7Msz86fX5pNuQtHtPL7"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Songbird",
-        "url": "https://open.spotify.com/album/3N4bJn9W92OsBk8caft5LO"
+        "name": "Twentysomething (Special Edition)",
+        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
       },
       "artists": [
         {
-          "name": "tea",
-          "url": "https://open.spotify.com/artist/6cgMG5W1mDsh4OssT7OhN4"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 281333,
-      "name": "\uff37\uff4f\uff4e\uff44\uff45\uff52\uff57\uff41\uff4c\uff4c",
-      "url": "https://open.spotify.com/track/3sODcw4hHaxjzUrTzgzdfl"
+      "duration_ms": 288546,
+      "name": "Lover, You Should Have Come Over",
+      "url": "https://open.spotify.com/track/0f6bXABu4brGJMt0bG9yPQ"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1159,6 +1143,22 @@
       "duration_ms": 152813,
       "name": "Blowin' In The Wind",
       "url": "https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Songbird",
+        "url": "https://open.spotify.com/album/3N4bJn9W92OsBk8caft5LO"
+      },
+      "artists": [
+        {
+          "name": "tea",
+          "url": "https://open.spotify.com/artist/6cgMG5W1mDsh4OssT7OhN4"
+        }
+      ],
+      "duration_ms": 281333,
+      "name": "\uff37\uff4f\uff4e\uff44\uff45\uff52\uff57\uff41\uff4c\uff4c",
+      "url": "https://open.spotify.com/track/3sODcw4hHaxjzUrTzgzdfl"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "What Took You so Long",
-        "url": "https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        }
-      ],
-      "duration_ms": 271922,
-      "name": "We Don\u00b4t Need Another Hero",
-      "url": "https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Oliver Nelson Plays Michelle",
         "url": "https://open.spotify.com/album/4gpVcA06Od08ym7LDyQ0qw"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 162480,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/6c6XaTu2VM32NHxtYZUWMY"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "What Took You so Long",
+        "url": "https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        }
+      ],
+      "duration_ms": 271922,
+      "name": "We Don\u00b4t Need Another Hero",
+      "url": "https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
+        "name": "Elles",
+        "url": "https://open.spotify.com/album/053PhX5KlVX5SJTueWiuyc"
+      },
+      "artists": [
+        {
+          "name": "Youn Sun Nah",
+          "url": "https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj"
+        }
+      ],
+      "duration_ms": 262053,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/4QyNMirtHB7dwDkXW73hX3"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
         "name": "Remember to Remember",
         "url": "https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 305631,
       "name": "Sorry Seems to Be the Hardest Word",
       "url": "https://open.spotify.com/track/5kBw6WiW6YwymbFQm4DQQp"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
-        "name": "Elles",
-        "url": "https://open.spotify.com/album/053PhX5KlVX5SJTueWiuyc"
-      },
-      "artists": [
-        {
-          "name": "Youn Sun Nah",
-          "url": "https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj"
-        }
-      ],
-      "duration_ms": 262053,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/4QyNMirtHB7dwDkXW73hX3"
     },
     {
       "added_at": "2025-03-13 14:12:56",

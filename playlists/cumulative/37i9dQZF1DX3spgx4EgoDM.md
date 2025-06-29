@@ -4,7 +4,7 @@
 
 > ¡El mejor condimento para tus comidas!
 
-337 songs - 20 hr 54 min
+338 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Inolvidables](https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y) | 4:27 | 2022-07-05 | 2024-07-27 |
 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/4Y9RStla12pXfmFGAqe9Wk) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Íconos 25 Éxitos](https://open.spotify.com/album/6Ab1MkKGaHwhOakjB4acNw) | 4:31 | 2022-07-05 | 2022-07-26 |
 | [De Mi Te Vas A Enamorar](https://open.spotify.com/track/6Ea63VAoVJyvXgi2XQyCk2) | [Garras de Amor](https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a) | [Te Mueve](https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda) | 3:24 | 2022-07-05 | 2022-07-29 |
-| [De Paisano a Paisano](https://open.spotify.com/track/7Efl38yKPpMdl5mxFTrvpE) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [18 Exitos](https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c) | 4:14 | 2024-07-26 |  |
+| [De Paisano a Paisano](https://open.spotify.com/track/7Efl38yKPpMdl5mxFTrvpE) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [18 Exitos](https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c) | 4:14 | 2024-07-26 | 2025-06-29 |
 | [Deja De Llorar](https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Sigo Por El Objetivo](https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx) | 2:26 | 2022-07-05 |  |
 | [Desde Que Te Fuiste](https://open.spotify.com/track/415QfJGLbJFsQVXHYazYaq) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [Desde Que Te Fuiste](https://open.spotify.com/album/6S786RANT9RtoG9PBXO7mt) | 3:41 | 2022-07-05 | 2025-04-09 |
 | [Dime si eres feliz](https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [La Champions Liga](https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm) | 2:07 | 2022-07-05 |  |
@@ -194,6 +194,7 @@
 | [Mil Horas](https://open.spotify.com/track/13xVmEV4G5jh8zDIFTZeIy) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Alvaro Pava](https://open.spotify.com/artist/5mYiZzPWHHMmGZ4Pl311pu) | [Greatest Cumbia Classics Of Colombia, Vol\. 2](https://open.spotify.com/album/3trKivETlD5qX29DhLNOa9) | 3:46 | 2022-07-05 | 2022-07-29 |
 | [Mis Sentimientos](https://open.spotify.com/track/2tyEPvpKX4m20YOGo5W6O4) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cómo Te Voy a Olvidar](https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl) | 3:36 | 2022-07-05 |  |
 | [Motines del Tigre](https://open.spotify.com/track/4cmCLvdwEveJvuqHSJJEMI) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Motines del Tigre](https://open.spotify.com/album/0ki41yGycf5fljXPjKT14s) | 2:20 | 2024-01-18 | 2024-07-27 |
+| [Motivo Real](https://open.spotify.com/track/2QsYfTSbyUhJ49ZVArZZh7) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Motivo Real](https://open.spotify.com/album/7wjLXfMOdzL9VawUwaBXJR) | 2:50 | 2025-03-07 |  |
 | [Muchachita](https://open.spotify.com/track/7rmT7CeqEFft8Os5chlRFW) | [VI\-EM](https://open.spotify.com/artist/44hJXrVhoyA1fV1dn4wdHC), [Bonny Lovy](https://open.spotify.com/artist/2oM7LqPaoCUcHHHnsTtgn1) | [Muchachita](https://open.spotify.com/album/2nTJmiRskbuFjqqehqyUuU) | 2:43 | 2022-07-05 | 2022-07-29 |
 | [Muchachita Consentida](https://open.spotify.com/track/0g2BQnxQiAgetPk4gMKLsm) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Muchachita Consentida \(Baile Total\)](https://open.spotify.com/album/03cU4oIfDKNsqMkrfbu418) | 3:33 | 2022-07-05 | 2022-07-29 |
 | [Mujer Que Mal Me Pagas](https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Mujer Que Mal Me Pagas](https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6) | 3:38 | 2022-07-05 | 2025-04-30 |

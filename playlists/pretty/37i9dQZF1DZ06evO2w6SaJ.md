@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w6SaJ.md) - [plain]
 
 > This is Crazy Town\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,602 likes - 38 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,606 likes - 38 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Butterfly](https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:36 |
-| 2 | [Starry Eyed Surprise](https://open.spotify.com/track/6A4Kuy7JL0Znab3Skgloiv) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Shifty Shellshock](https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Bunkka](https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3) | 3:48 |
-| 3 | [Butterfly 2021](https://open.spotify.com/track/6HOgqo3YPmtvrEeKvgDtl9) | [Ekoh](https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The D4tour](https://open.spotify.com/album/6SImeP4mkkkcFWYDmsgzh9) | 2:40 |
+| 2 | [Butterfly 2021](https://open.spotify.com/track/6HOgqo3YPmtvrEeKvgDtl9) | [Ekoh](https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The D4tour](https://open.spotify.com/album/6SImeP4mkkkcFWYDmsgzh9) | 2:40 |
+| 3 | [Starry Eyed Surprise](https://open.spotify.com/track/6A4Kuy7JL0Znab3Skgloiv) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Shifty Shellshock](https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Bunkka](https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3) | 3:48 |
 | 4 | [Drowning](https://open.spotify.com/track/6UI5070fXjclDkp1obCmFm) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Drowning](https://open.spotify.com/album/0XmL70HMqx3x1BezPYxogJ) | 3:18 |
 | 5 | [Toxic](https://open.spotify.com/track/170Sk6g2w1uVsg1d24Oard) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 2:48 |
 | 6 | [GlitchGang \(Remix\)](https://open.spotify.com/track/5RI73C2BN902ytbrFkXhm2) | [Dropout Kings](https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ), [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Twiztid](https://open.spotify.com/artist/2aMAN8kMJ7eUOAuPUYOwI7) | [Last Ones Standing](https://open.spotify.com/album/5bThYTbH1HTYZKMCjxNstm) | 2:24 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w6SaJ.md) - [plain]
 | 37 | [Take It To The Bridge](https://open.spotify.com/track/51pnpNaAkB5YWAXZhsW3Fh) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:16 |
 | 38 | [Beautiful](https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:16 |
 
-Snapshot ID: `aFyNgAAAAADFKa9LSvM09eKYEYv/Dt5B`
+Snapshot ID: `aF3fAAAAAAAQSaMVAo0101APGlr2Yf8f`

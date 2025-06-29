@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: Childlike CiCi
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,809 likes - 280 songs - 12 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,822 likes - 280 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,7 +193,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 183 | [IN JESUS NAME](https://open.spotify.com/track/3XDGiVI4KmTwaG6pNKk1G4) | [DJLC](https://open.spotify.com/artist/7CjRSmKXaquhcaBcOO9SQQ), [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv) | [IN JESUS NAME](https://open.spotify.com/album/0O5sZNMeD8hE5OT1CcjLjd) | 2:32 |
 | 184 | [ONE FOR THE BOOKS](https://open.spotify.com/track/1TS5vlAFPB7Bd70DOOEUTw) | [KRL](https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS), [Kieran the Light](https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1), [K Diamond](https://open.spotify.com/artist/3Z05XjRD1rwENNxCaJgvJL) | [ONE FOR THE BOOKS](https://open.spotify.com/album/5pLcpsNy4lO3NzkfC05yZc) | 2:49 |
 | 185 | [LIKE JESUS](https://open.spotify.com/track/0yJPQ1b5ib0fHpADIlrhH6) | [IMRHAN](https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3) | [LIKE JESUS](https://open.spotify.com/album/5Sz71X9rEs8bFFj1UkcdxV) | 2:59 |
-| 186 | [NEW CREATION](https://open.spotify.com/track/4feBVRAdRx9qbowN7oDm4B) | [Edgar Sandoval Jr](https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4) | [NEW CREATION](https://open.spotify.com/album/3qmzX4Qivzfen0hHrYyZQq) | 2:49 |
+| 186 | [NEW CREATION](https://open.spotify.com/track/4feBVRAdRx9qbowN7oDm4B) | [Edgar Sandoval Jr](https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4), [Vision of Leo](https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e) | [NEW CREATION](https://open.spotify.com/album/3qmzX4Qivzfen0hHrYyZQq) | 2:49 |
 | 187 | [Heavy Heart](https://open.spotify.com/track/1WRU7UlaMltJyVhYDDv7fl) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Heavy Heart](https://open.spotify.com/album/2rN3lrhU35DyShiftw0BEn) | 3:04 |
 | 188 | [VALEDICTORIAN](https://open.spotify.com/track/21arRyPEFuQHiQTcMAg2Oj) | [NXTMIKE](https://open.spotify.com/artist/2yMOYu5UEVMeoZmBczRR5g) | [VALEDICTORIAN](https://open.spotify.com/album/07OuxfQjR1biaMhG6BjR9T) | 1:58 |
 | 189 | [Out My Control](https://open.spotify.com/track/6uJDmFVcRjNQRtZkSg2oK2) | [Thomas Austin](https://open.spotify.com/artist/7CX2IocKUqEmOQ74CsU9zt), [Jalen Jackson](https://open.spotify.com/artist/29XB8DEu3JLWyMjbJrdDp9) | [Yours, Always](https://open.spotify.com/album/4soFZ1FFZnHoWGSTK09Ogl) | 2:39 |

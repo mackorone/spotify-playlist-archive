@@ -4,13 +4,14 @@
 
 > This is Los Primos del Este\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 26 min
+68 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 AM](https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:08 | 2024-08-08 |  |
 | [48 Horas](https://open.spotify.com/track/64LyZmq9ovBu6GrDOhtf2m) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:21 | 2024-08-08 |  |
 | [Acceso](https://open.spotify.com/track/3toEJfSF3cXATcc7EfloDB) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Acceso](https://open.spotify.com/album/67mqwsxgs23jexSjaNAYBJ) | 4:14 | 2024-08-08 | 2025-02-02 |
+| [Amor de Subida](https://open.spotify.com/track/6NP5zsbDIpf6bkG7k6yXAi) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Amor de Subida](https://open.spotify.com/album/4kZcBWTNaSwRSh9HFUTbsG) | 4:03 | 2025-06-29 |  |
 | [Atrapado](https://open.spotify.com/track/4g3twQI9tA1J3e5AL964a1) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 2:36 | 2024-08-08 |  |
 | [Baby \(Version Norteña\)](https://open.spotify.com/track/6AK1tlnsm8q0R3xKmBZvG8) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Baby \(Version Norteña\)](https://open.spotify.com/album/6vMqBW93GIL1H4Y2Q9NdYK) | 3:18 | 2024-08-08 | 2025-05-10 |
 | [Baby \(Version Norteña\)](https://open.spotify.com/track/7L5f1cWtVCeVn128pwTt5b) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 3:18 | 2025-05-10 |  |
@@ -19,7 +20,7 @@
 | [Bandido](https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Bandido](https://open.spotify.com/album/72dpueKPayWOlGcCgWr3g5) | 2:28 | 2024-12-15 |  |
 | [Beso \- Spotify Singles](https://open.spotify.com/track/2Ik9ckKC3t566rQcW1A6aE) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Beso \- Spotify Singles](https://open.spotify.com/album/448r8kUAvwPVIjlxsSgkEs) | 2:23 | 2024-08-24 |  |
 | [Cappin Queens](https://open.spotify.com/track/6XdtEajEciLGTsQXel7kBi) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 2:20 | 2024-08-08 | 2024-08-11 |
-| [Capuchino](https://open.spotify.com/track/0bvE1KpvXwPTieXLaBgVaq) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Capuchino](https://open.spotify.com/album/49KzaISNOQeZb7YvYASydw) | 3:24 | 2024-08-08 |  |
+| [Capuchino](https://open.spotify.com/track/0bvE1KpvXwPTieXLaBgVaq) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Capuchino](https://open.spotify.com/album/49KzaISNOQeZb7YvYASydw) | 3:24 | 2024-08-08 | 2025-06-29 |
 | [Colocado](https://open.spotify.com/track/0zen90CusEWQdCEJeYfD2e) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Designo](https://open.spotify.com/artist/0ihNncV73wCFrQrC651WFh) | [Colocado](https://open.spotify.com/album/5EDNghKzvrcI1W3bAOkQz6) | 2:57 | 2024-08-08 |  |
 | [Con Una Mirada](https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Con Una Mirada](https://open.spotify.com/album/380MMrYgSSedRqiDWtsJjL) | 3:21 | 2024-08-08 |  |
 | [Conexión](https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Conexión](https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD) | 2:26 | 2024-08-08 |  |

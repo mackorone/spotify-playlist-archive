@@ -1,6 +1,6 @@
 {
   "description": "Music that makes you feel like you're levitating.",
-  "num_followers": 1485302,
+  "num_followers": 1485669,
   "original_name": "Levitate",
   "owner": {
     "name": "Spotify",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-06-06 22:40:26",
       "album": {
+        "name": "Imaginal Disk",
+        "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "Image",
+      "url": "https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB"
+    },
+    {
+      "added_at": "2025-06-06 22:40:26",
+      "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 118153,
       "name": "PIMMIE'S DILEMMA",
       "url": "https://open.spotify.com/track/3CY3zAjrxKVInh2Lq1QiRb"
-    },
-    {
-      "added_at": "2025-06-06 22:40:26",
-      "album": {
-        "name": "Imaginal Disk",
-        "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "Image",
-      "url": "https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB"
     },
     {
       "added_at": "2025-06-06 22:40:26",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-06-06 22:40:26",
       "album": {
-        "name": "love you more than me",
-        "url": "https://open.spotify.com/album/5iA8uhhLMIfh8CUu6sJWd6"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 141081,
-      "name": "love you more than me",
-      "url": "https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr"
-    },
-    {
-      "added_at": "2025-06-06 22:40:26",
-      "album": {
         "name": "drifting",
         "url": "https://open.spotify.com/album/4KJfSAhzqcMZaWFTwnfkNK"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 212440,
       "name": "drifting",
       "url": "https://open.spotify.com/track/2YuySJd7C2aoBarBP8OvzR"
+    },
+    {
+      "added_at": "2025-06-06 22:40:26",
+      "album": {
+        "name": "love you more than me",
+        "url": "https://open.spotify.com/album/5iA8uhhLMIfh8CUu6sJWd6"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 141081,
+      "name": "love you more than me",
+      "url": "https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr"
     },
     {
       "added_at": "2025-06-06 22:40:26",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-06-06 22:40:26",
       "album": {
-        "name": "ILYSMIH",
-        "url": "https://open.spotify.com/album/4vRXm1xnqxUkBUeeSqIS5e"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 213030,
-      "name": "ILYSMIH",
-      "url": "https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap"
-    },
-    {
-      "added_at": "2025-06-06 22:40:26",
-      "album": {
         "name": "Ends & Begins",
         "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 197465,
       "name": "The Feels",
       "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
+    },
+    {
+      "added_at": "2025-06-06 22:40:26",
+      "album": {
+        "name": "ILYSMIH",
+        "url": "https://open.spotify.com/album/4vRXm1xnqxUkBUeeSqIS5e"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 213030,
+      "name": "ILYSMIH",
+      "url": "https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap"
     },
     {
       "added_at": "2025-06-06 22:40:26",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-06-06 22:40:26",
       "album": {
-        "name": "SEEIN\u2019 STARS / BIRDS",
-        "url": "https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 186277,
-      "name": "SEEIN\u2019 STARS",
-      "url": "https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR"
-    },
-    {
-      "added_at": "2025-06-06 22:40:26",
-      "album": {
         "name": "The Loser",
         "url": "https://open.spotify.com/album/77bm4AHldCf4STieStlVJg"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 131586,
       "name": "The Loser",
       "url": "https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58"
+    },
+    {
+      "added_at": "2025-06-06 22:40:26",
+      "album": {
+        "name": "SEEIN\u2019 STARS / BIRDS",
+        "url": "https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 186277,
+      "name": "SEEIN\u2019 STARS",
+      "url": "https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR"
     },
     {
       "added_at": "2025-06-06 22:40:26",

@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 303643,
+  "num_followers": 303683,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAACTzh2h2N7uKBID6+TZ9rmq",
+  "snapshot_id": "aF3fAAAAAADLSgm84gV2HAMQ0beF+G0U",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "See A Victory",
-        "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 363230,
-      "name": "See A Victory",
-      "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CAN YOU IMAGINE?",
         "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 464333,
       "name": "Been So Good (feat. Tiffany Hudson)",
       "url": "https://open.spotify.com/track/4dEUfBPs6bydmssKnnqDMV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "See A Victory",
+        "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 363230,
+      "name": "See A Victory",
+      "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
     },
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Graves Into Gardens (Live)",
-        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 410508,
-      "name": "Never Lost (Live) (feat. Tauren Wells)",
-      "url": "https://open.spotify.com/track/0Ck8Iw5OM5Ag8q2CjBqjrV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joy In The Morning (Horizon Edition)",
         "url": "https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 528413,
       "name": "Joy In The Morning",
       "url": "https://open.spotify.com/track/5m1eBDlvDe8WIkVhnJRA95"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 410508,
+      "name": "Never Lost (Live) (feat. Tauren Wells)",
+      "url": "https://open.spotify.com/track/0Ck8Iw5OM5Ag8q2CjBqjrV"
     },
     {
       "added_at": null,

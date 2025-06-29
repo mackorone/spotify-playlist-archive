@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,655 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,667 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 49 | [Parte & Choke \(with Ryan Castro\) \- Remix](https://open.spotify.com/track/5Gis9Pxk7Cl9hAoV6rwj50) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Alex Krack](https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m) | [Parte & Choke \(with Ryan Castro\) \[Remix\]](https://open.spotify.com/album/1PfV9iBFxlx2heeOjRM8jO) | 3:38 |
 | 50 | [Soltera \- W Sound 01](https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Soltera \(W Sound 01\)](https://open.spotify.com/album/5UQC6N5rRND3GZKzysRdA4) | 2:22 |
 
-Snapshot ID: `L/ILeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L/NhqAAAAAAAAAAAAAAAAAAAAAAAAGVu`

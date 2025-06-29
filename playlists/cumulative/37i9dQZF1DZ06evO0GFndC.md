@@ -4,7 +4,7 @@
 
 > This is Grupo Los de la O\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 19 min
+66 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Bien Equipados](https://open.spotify.com/track/58jOk6VlZQxcUADl5RhOEq) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Bien Equipados](https://open.spotify.com/album/2f0KcsjEftYpn1OmCJAs2P) | 2:50 | 2024-01-29 |  |
 | [Brillo Propio](https://open.spotify.com/track/7cVgN6hkW4FY8jEdO0ZA4S) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Resiliencia](https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w) | 3:12 | 2024-06-03 | 2025-06-08 |
 | [Buenas Vibras](https://open.spotify.com/track/14ZjoQB3VZFISRZTjrVGhj) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Proyecto A](https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ) | 3:11 | 2024-01-29 |  |
-| [Caravana de Carros](https://open.spotify.com/track/6O3Wb4IuCALnVzcs63aoEZ) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Caravana de Carros](https://open.spotify.com/album/5EuUYNWx0jmsGyWkMV3MP2) | 3:40 | 2024-01-29 |  |
+| [Caravana de Carros](https://open.spotify.com/track/6O3Wb4IuCALnVzcs63aoEZ) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Caravana de Carros](https://open.spotify.com/album/5EuUYNWx0jmsGyWkMV3MP2) | 3:40 | 2024-01-29 | 2025-06-29 |
 | [Carros Exclusivos \- En Vivo](https://open.spotify.com/track/5csCx3iqOAkGlRTuDnFUkQ) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Carros Exclusivos](https://open.spotify.com/album/7AEXH6vmGK8HHynh7MfHca) | 3:25 | 2024-01-29 | 2025-01-27 |
 | [Chalito Mentado \(En Vivo\)](https://open.spotify.com/track/6Xk6bL6cFglnkYBnm8GUkL) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Chalito Mentado \(En Vivo\)](https://open.spotify.com/album/4kjcEccNzd2Ytem9hKHlct) | 2:40 | 2024-01-29 | 2024-06-02 |
 | [Como Has Estau?](https://open.spotify.com/track/7FMo3ndoRSNWcxDHY7Odt0) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Resiliencia](https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w) | 2:19 | 2024-06-02 | 2024-06-03 |
@@ -26,6 +26,7 @@
 | [El Flee](https://open.spotify.com/track/4JoBXRrnYHiKO5TTEQgCVp) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [El Flee](https://open.spotify.com/album/5xe8387ud3FWx0DtXFeH5O) | 2:54 | 2025-05-18 |  |
 | [El Huevon \- En Vivo](https://open.spotify.com/track/0XND7esAJ9J4BXubCsdhem) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [El Huevón \(En Vivo\)](https://open.spotify.com/album/1ua5SCBZRX5JdAZIxqjybu) | 2:52 | 2024-01-29 | 2025-03-30 |
 | [El Justiciero \- En Vivo](https://open.spotify.com/track/34kAodQ7ShXtIVRYLeznzj) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Hybert Daniel](https://open.spotify.com/artist/4XUmhvUbf4A6lrEZtYhjIZ) | [El Justiciero \(En Vivo\)](https://open.spotify.com/album/0Fz4H4i8qYb1bEsn6yTQ8P) | 2:51 | 2024-01-29 | 2024-06-06 |
+| [El Pinky](https://open.spotify.com/track/0M7rgwIeogKvMzzpHbRqmJ) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [El Pinky](https://open.spotify.com/album/3fcnlKU8TRjOmpsvVgEhrD) | 3:05 | 2025-06-29 |  |
 | [El Pop](https://open.spotify.com/track/398SNFwt3tJRVk2JVxt7El) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:03 | 2024-01-29 |  |
 | [El Rey de Los Paquetes](https://open.spotify.com/track/3xL6WPIw4Gf65zxDpo0wcy) | [Los De La 9](https://open.spotify.com/artist/3jTankh0q4rncxU4i22Bow), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [El Rey De Los Paquetes](https://open.spotify.com/album/6J8KawEafsnKq5lIVX9cbc) | 2:02 | 2024-01-29 |  |
 | [El Señor de la A](https://open.spotify.com/track/3qOTqVRKVp9wriaPh9H9qU) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [El Señor de la A](https://open.spotify.com/album/2A8zSlVaebsKFUFntTkgcE) | 3:04 | 2024-01-29 |  |

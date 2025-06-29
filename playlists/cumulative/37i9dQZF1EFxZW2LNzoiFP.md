@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-272 songs - 15 hr 36 min
+273 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Don't Wait Forever](https://open.spotify.com/track/3EoQSIQ91sDN2gYIcPXa5b) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:28 | 2024-05-01 |  |
 | [Don't Wonder Why](https://open.spotify.com/track/3evBwYwL2CXNZQTrmVcu46) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Don't Wonder Why](https://open.spotify.com/album/70mvdgnAIzoEi0Ix2a9psB) | 2:56 | 2024-12-11 |  |
 | [Drugs](https://open.spotify.com/track/7M6OVjQ0stYHLMciIYseHN) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 3:38 | 2024-05-01 |  |
+| [Elementary](https://open.spotify.com/track/3vURAji5B56s4euPDZXK3c) | [Ray Silvers](https://open.spotify.com/artist/1KMzsmemrnRNGISrqjaxsa) | [Elementary](https://open.spotify.com/album/3NsxMjzFvE27raagsJ2b8e) | 3:09 | 2025-06-28 |  |
 | [Elements](https://open.spotify.com/track/6MRMSQYiPPeFJWEXKH136g) | [Spencer Barnett](https://open.spotify.com/artist/036LxbpsZt0VzZAgxYOEM5) | [Jigsaw](https://open.spotify.com/album/1rrNnHglilWPmloQpvMLiy) | 3:40 | 2024-10-27 |  |
 | [Elevator Hum](https://open.spotify.com/track/7nRrO9tLVZRhtOcoQPRwQi) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/1qgVGhtiq8P6tfURWqDPX5) | 3:55 | 2024-05-01 |  |
 | [Ember](https://open.spotify.com/track/6KLZxWLnzXC8QLMF0iKTqm) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 2:40 | 2024-05-01 |  |

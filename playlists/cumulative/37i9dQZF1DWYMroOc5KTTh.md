@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-563 songs - 1 day 13 hr 19 min
+564 songs - 1 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [GO \(Detroit Swindle Remix\)](https://open.spotify.com/track/3dBUKgLv3oFrE9kYhboIXm) | [Hablot Brown](https://open.spotify.com/artist/6LtgEnShwvrqAaKohg7skM), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [GO \(Detroit Swindle Remix\)](https://open.spotify.com/album/4urNMxGsd4R05fKiScM3s8) | 4:39 | 2021-12-03 | 2022-07-29 |
 | [Gold](https://open.spotify.com/track/1I6bPYYk5jQL6EXAozh6FJ) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Gold](https://open.spotify.com/album/1LuxQutCoGUjNXVHKFiVnA) | 3:19 | 2022-04-06 | 2022-04-12 |
 | [Gold](https://open.spotify.com/track/1k8qa4QpBKNEvOrcq7Yy8z) | [Soda State](https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH) | [Portal EP](https://open.spotify.com/album/78qRrrutMoz2NzbujZ2AFj) | 2:41 | 2022-04-06 | 2022-04-15 |
-| [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 | 2023-05-22 |  |
+| [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 | 2023-05-22 | 2025-06-29 |
 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-05-22 | 2023-07-28 |
 | [Good Shit](https://open.spotify.com/track/3bGZFJeoFhM4jxqNtz4dnH) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [Good Shit](https://open.spotify.com/album/5mhmFB2CSeF2QvBBFU9yNM) | 3:43 | 2025-05-08 |  |
 | [Good Vibe](https://open.spotify.com/track/4AmHxLSkut2l0Fyv54fjuZ) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [Good Vibe](https://open.spotify.com/album/3K15Io1pcbWvhDxaD5YNz1) | 3:49 | 2022-04-15 | 2022-07-29 |
@@ -389,6 +389,7 @@
 | [One More \(feat\. Nile Rodgers\)](https://open.spotify.com/track/5bZlKUqFIf0uM3MW03bhlG) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [One More \(feat\. Nile Rodgers\)](https://open.spotify.com/album/4K0AuBe1Mhq8ocmC0bDn6T) | 3:16 | 2021-12-03 | 2022-07-28 |
 | [One More Chance](https://open.spotify.com/track/2fs9HGUstxf0r1nbUsX9pr) | [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e) | [One More Chance](https://open.spotify.com/album/0Br04dEwKsxbvjQnBKqKC5) | 4:09 | 2022-05-30 | 2023-05-23 |
 | [One Vibration](https://open.spotify.com/track/2ku7migGjaTOkQYqmvdRgT) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [CLYPSO](https://open.spotify.com/artist/0PLRwyoWBDRiK3QnflnDbd) | [One Vibration](https://open.spotify.com/album/6gvcrUj0kq14QNxEgKTLak) | 3:45 | 2022-04-15 | 2022-04-18 |
+| [Only For Tonight](https://open.spotify.com/track/6STCwjymKob5lZcDdpKcTK) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [m.O.N.R.O.E.](https://open.spotify.com/artist/6pDZzvzwjGXunH8FCb2ulo), [Matluck](https://open.spotify.com/artist/5CieAewiroqzWWxdsWuoNu) | [Only For Tonight](https://open.spotify.com/album/5IUlPTkjpkLiWCoFOh4oOo) | 3:16 | 2025-06-19 |  |
 | [OnlyL](https://open.spotify.com/track/01XAVHIdfq8SNtZDplT0ZD) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [OnlyL](https://open.spotify.com/album/0gwnvpScXK9zDPBxGfNQsG) | 3:47 | 2021-12-03 | 2022-07-29 |
 | [Opening Night](https://open.spotify.com/track/5yytwVZPUCRxeXPSTPdCUX) | [NZCA LINES](https://open.spotify.com/artist/1pmvcZaqyRJw8o6at71MJP) | [Pure Luxury](https://open.spotify.com/album/5YZgkuAej9Cn6hgEbg31k6) | 3:28 | 2021-12-03 | 2022-07-29 |
 | [Out Of Love \- Harrison Remix](https://open.spotify.com/track/5mLNQKGpnYtEVAWmrpSwoK) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Out Of Love \(Remix\)](https://open.spotify.com/album/069dlAukWgJsBmJ33TstHA) | 3:19 | 2022-03-11 | 2022-07-10 |

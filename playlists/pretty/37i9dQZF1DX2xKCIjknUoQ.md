@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Last Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,805 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,827 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 23 | [Jalouse](https://open.spotify.com/track/0z7ZXj10QgNhvoxGAVqdOT) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Ça me vexe](https://open.spotify.com/album/2uI9jvUZPBUFXiDbpwF9F0) | 3:46 |
 | 24 | [Va y avoir du sport](https://open.spotify.com/track/1oE5WEHiHjbS4VKOCF6O2F) | [Silmarils](https://open.spotify.com/artist/03X1ph7ZGfqb3W3Ld5lJKH), [Mario Caltado Jr](https://open.spotify.com/artist/5EAlrYI7AwfWNEveCBpwf5) | [Vegas 76](https://open.spotify.com/album/6RMd6TThidQTzQVe2JicLG) | 3:01 |
 | 25 | [Matador](https://open.spotify.com/track/4eNR2akrNSKuDAJSJ8qLor) | [Mickey 3d](https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF) | [Matador](https://open.spotify.com/album/7ELKvakLxSb8aesWRLdYo7) | 3:06 |
-| 26 | [Toy Boy](https://open.spotify.com/track/0vTRJ32D1tg11WnXc0CIq9) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Nevermind the Living Dead](https://open.spotify.com/album/0104yYvLVYm2mVaUVtWuVW) | 4:25 |
-| 27 | [La sentinelle](https://open.spotify.com/track/5k3NhWuNprfszujFV7OsbV) | [Luke](https://open.spotify.com/artist/4JPtvdV0f0CWOKhCIsF8qO) | [La tête en arrière](https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2) | 3:26 |
+| 26 | [La sentinelle](https://open.spotify.com/track/5k3NhWuNprfszujFV7OsbV) | [Luke](https://open.spotify.com/artist/4JPtvdV0f0CWOKhCIsF8qO) | [La tête en arrière](https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2) | 3:26 |
+| 27 | [Toy Boy](https://open.spotify.com/track/0vTRJ32D1tg11WnXc0CIq9) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Nevermind the Living Dead](https://open.spotify.com/album/0104yYvLVYm2mVaUVtWuVW) | 4:25 |
 | 28 | [Jouer dehors](https://open.spotify.com/track/3TVoY7A5OWdJvefHDEsfRf) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Jouer dehors](https://open.spotify.com/album/5PO1wuSFiCYQZunByOqJfs) | 3:33 |
 | 29 | [Je n'veux pas rester sage](https://open.spotify.com/track/1zPGduhDQB86IhxmK9uxaR) | [Dolly](https://open.spotify.com/artist/7gjbBSAraXRXxOTAkmWWQn) | [Dolly \(Edition Deluxe\)](https://open.spotify.com/album/1nzF8zJTQEtuqCkOhWdX1Y) | 4:43 |
 | 30 | [Mojo](https://open.spotify.com/track/3XwQ8ks84wlj3YcRyxXrlN) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [îl](https://open.spotify.com/album/3jTF9VlDnWcu4lGbMXRnHI) | 3:16 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 35 | [Soledad](https://open.spotify.com/track/2HGJqKtabrDzhXrWw1RylG) | [Luke](https://open.spotify.com/artist/4JPtvdV0f0CWOKhCIsF8qO) | [La tête en arrière](https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2) | 3:08 |
 | 36 | [Let Me Alone](https://open.spotify.com/track/5R8TGuZ8WSbH2ASGlLDpKg) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [Izia](https://open.spotify.com/album/6qZt3k8Y9XXtrAS1Vp6LKm) | 3:51 |
 | 37 | [L'Amour à la française](https://open.spotify.com/track/6XGmPf0kuUwakHNnLB30mH) | [Les Fatals Picards](https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz) | [Pamplemousse Mécanique \(Edition Eurovision + 1 titre bonus\)](https://open.spotify.com/album/58SdE4Iofh5Y1jZi5HRDBu) | 2:42 |
-| 38 | [Notre Epoque](https://open.spotify.com/track/0tas4ZLkePk8aTjt5eesp6) | [Tarmac](https://open.spotify.com/artist/7jj1zcBEwp0Joqfb9Bdk7J) | [Notre Epoque](https://open.spotify.com/album/3nKsRvwwToIvCoodMywDeo) | 3:34 |
-| 39 | [La croisée](https://open.spotify.com/track/7AlVE4SVUoXpe5L6kO77xE) | [Blankass](https://open.spotify.com/artist/1FSEVDIvXWHWPmPeCuka03) | [L'Homme Fleur](https://open.spotify.com/album/1XTxNFUiQHU304hDMg5mHM) | 4:27 |
+| 38 | [La croisée](https://open.spotify.com/track/7AlVE4SVUoXpe5L6kO77xE) | [Blankass](https://open.spotify.com/artist/1FSEVDIvXWHWPmPeCuka03) | [L'Homme Fleur](https://open.spotify.com/album/1XTxNFUiQHU304hDMg5mHM) | 4:27 |
+| 39 | [Notre Epoque](https://open.spotify.com/track/0tas4ZLkePk8aTjt5eesp6) | [Tarmac](https://open.spotify.com/artist/7jj1zcBEwp0Joqfb9Bdk7J) | [Notre Epoque](https://open.spotify.com/album/3nKsRvwwToIvCoodMywDeo) | 3:34 |
 | 40 | [Révolution.com](https://open.spotify.com/track/7ciDK4wg2Lmk7KaoWWYtgg) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Revolution.com](https://open.spotify.com/album/2ARdTJwLcGdw0GGhbeEfSo) | 3:27 |
 | 41 | [Raisonne](https://open.spotify.com/track/7hSTh1YWoPGMlVnevO6Rev) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7) | [Aston Villa](https://open.spotify.com/album/6JkbhM2APycjDSEV6e1vlm) | 5:07 |
 | 42 | [Qu'est\-ce qu'on va faire de toi](https://open.spotify.com/track/00ENwiGXMl2NpX2pI3FDoA) | [Alister](https://open.spotify.com/artist/1xouBaP3PomCmnS8kv2loT) | [Aucun mal ne vous sera fait](https://open.spotify.com/album/67KzexkVZ1xJZH5ZjNBVKW) | 4:02 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 47 | [Je me souviens, je me rappelle](https://open.spotify.com/track/3vgmRlBi986YeWV95UNgJ6) | [Daniel Darc](https://open.spotify.com/artist/7iMdjNroWSI5FqRxeu2G5t) | [Crèvecoeur \(2019 remastered\)](https://open.spotify.com/album/5brOhiGaSGy404g0CaY3Yf) | 3:19 |
 | 48 | [Anomalie](https://open.spotify.com/track/4lzxPainD9ovAzAAAeXoqs) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Anomalie](https://open.spotify.com/album/7BpAbYt9NzfXUOUlniH9Qf) | 3:09 |
 | 49 | [Regarde\-moi](https://open.spotify.com/track/6Fo0iSM2LaVTCLS3WkTXgz) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7), [Jean Baptiste Mory](https://open.spotify.com/artist/1U8rYQJV2ZRLToXUNElojh), [Greg Baudrier](https://open.spotify.com/artist/7GuuhlWi6XzX44SqqS9hHR), [Emmanuel Baroux](https://open.spotify.com/artist/4GLhnY37gfDwczctnvppiB), [Franck Pilant](https://open.spotify.com/artist/6dVTsBmqhIN3K2lPOg11N5), [Frédéric Franchitti](https://open.spotify.com/artist/3CFp5YtgEajDtIcDUJ420F) | [De jour comme de nuit](https://open.spotify.com/album/2Qstn4PgalHk3b9w6YFJI0) | 4:00 |
-| 50 | [Droit Dans Le Soleil](https://open.spotify.com/track/4rpeOY4yFkKFcImfFxZqqu) | [Detroit](https://open.spotify.com/artist/4t5BWOtBj0BZwYlntlKKDj) | [Horizons](https://open.spotify.com/album/5NAlRXuJEAqDjuYlzuGewb) | 3:24 |
+| 50 | [Le pire et le meilleur](https://open.spotify.com/track/3SrUddck55h8vSltaiRGdi) | [F.F.F.](https://open.spotify.com/artist/0jf1mgJNTrNdgFXmcwKmkL) | [F F F](https://open.spotify.com/album/3dl7Hqd2srZudubpaD8sTC) | 3:25 |
 
 Snapshot ID: `ZnnPXwAAAABv4KO2+kCCFhslZxGrwfA0`

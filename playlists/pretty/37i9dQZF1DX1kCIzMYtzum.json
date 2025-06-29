@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \u2764\ufe0f\u200d\ud83d\udd25 with Armin van Buuren",
-  "num_followers": 380030,
+  "num_followers": 380729,
   "original_name": "EDM 2025",
   "owner": {
     "name": "Spotify",
@@ -1571,6 +1571,34 @@
     {
       "added_at": "2025-06-27 04:00:47",
       "album": {
+        "name": "Carry You",
+        "url": "https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        },
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "duration_ms": 215905,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2"
+    },
+    {
+      "added_at": "2025-06-27 04:00:47",
+      "album": {
         "name": "Until The Lights Go Out",
         "url": "https://open.spotify.com/album/6eTCjsz3UJzuGEHVpMXSRZ"
       },
@@ -1607,34 +1635,6 @@
       "duration_ms": 157130,
       "name": "Million Good Reasons",
       "url": "https://open.spotify.com/track/2dQZBkS0imJIezf1C7Dl73"
-    },
-    {
-      "added_at": "2025-06-27 04:00:47",
-      "album": {
-        "name": "Carry You",
-        "url": "https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        },
-        {
-          "name": "Declan J Donovan",
-          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
-        }
-      ],
-      "duration_ms": 215905,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2"
     },
     {
       "added_at": "2025-06-27 04:00:47",
@@ -1679,30 +1679,6 @@
     {
       "added_at": "2025-06-27 04:00:47",
       "album": {
-        "name": "He's A Pirate (Save Me)",
-        "url": "https://open.spotify.com/album/2SPjOq3MyMAlksxhwMCu6z"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "KEL",
-          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
-        }
-      ],
-      "duration_ms": 153125,
-      "name": "He's A Pirate (Save Me)",
-      "url": "https://open.spotify.com/track/1Vj7ZZgVpNIKqkC2bA9mpx"
-    },
-    {
-      "added_at": "2025-06-27 04:00:47",
-      "album": {
         "name": "Chills (Feel My Love)",
         "url": "https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y"
       },
@@ -1723,6 +1699,30 @@
       "duration_ms": 163399,
       "name": "Chills (Feel My Love)",
       "url": "https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x"
+    },
+    {
+      "added_at": "2025-06-27 04:00:47",
+      "album": {
+        "name": "He's A Pirate (Save Me)",
+        "url": "https://open.spotify.com/album/2SPjOq3MyMAlksxhwMCu6z"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "KEL",
+          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
+        }
+      ],
+      "duration_ms": 153125,
+      "name": "He's A Pirate (Save Me)",
+      "url": "https://open.spotify.com/track/1Vj7ZZgVpNIKqkC2bA9mpx"
     },
     {
       "added_at": "2025-06-27 04:00:47",
@@ -1915,6 +1915,26 @@
     {
       "added_at": "2025-06-27 04:00:47",
       "album": {
+        "name": "Cash Out",
+        "url": "https://open.spotify.com/album/3JijfF3CowsE5EUUmQQftR"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Bobby Shmurda",
+          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
+        }
+      ],
+      "duration_ms": 182225,
+      "name": "Cash Out",
+      "url": "https://open.spotify.com/track/7qHSfKzilTsXJuuWcjX1vZ"
+    },
+    {
+      "added_at": "2025-06-27 04:00:47",
+      "album": {
         "name": "All For Love",
         "url": "https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX"
       },
@@ -2007,26 +2027,6 @@
       "duration_ms": 178499,
       "name": "I Took A Pill In Ibiza",
       "url": "https://open.spotify.com/track/4I6zXhfeQD1GZC54fkUa8F"
-    },
-    {
-      "added_at": "2025-06-27 04:00:47",
-      "album": {
-        "name": "Cash Out",
-        "url": "https://open.spotify.com/album/3JijfF3CowsE5EUUmQQftR"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "name": "Bobby Shmurda",
-          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
-        }
-      ],
-      "duration_ms": 182225,
-      "name": "Cash Out",
-      "url": "https://open.spotify.com/track/7qHSfKzilTsXJuuWcjX1vZ"
     },
     {
       "added_at": "2025-06-27 04:00:47",

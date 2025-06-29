@@ -4,7 +4,7 @@
 
 > This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-98 songs - 5 hr 56 min
+99 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [LLAMAS](https://open.spotify.com/track/5OoDPkBacv1y2hOsRmncGH) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [LLAMAS](https://open.spotify.com/album/0c0bwULhVKpaKQVdnLxfhZ) | 3:17 | 2024-07-27 | 2024-11-03 |
 | [Llévame](https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Mundo](https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9) | 3:01 | 2023-11-10 | 2024-03-20 |
 | [LMPDGTO](https://open.spotify.com/track/2bHzhgRITAIaZJt3zxe7TY) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [LMPDGTO](https://open.spotify.com/album/70ZFuIv9jzQT0tVlQNeQ9w) | 2:41 | 2025-02-04 | 2025-05-10 |
-| [Los Opaco](https://open.spotify.com/track/11uBOJBC9zh7pVuX0USUok) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Badguychapo](https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Desde El Infierno](https://open.spotify.com/album/2GzPIRTuUasRgnSyvcSs7n) | 3:53 | 2025-02-26 |  |
+| [Locos](https://open.spotify.com/track/64d2u8DTZfLhDJYdcyn7WI) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Locos](https://open.spotify.com/album/1I9aXVeJvp0iX70y5F011R) | 2:15 | 2025-06-29 |  |
+| [Los Opaco](https://open.spotify.com/track/11uBOJBC9zh7pVuX0USUok) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Badguychapo](https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Desde El Infierno](https://open.spotify.com/album/2GzPIRTuUasRgnSyvcSs7n) | 3:53 | 2025-02-26 | 2025-06-29 |
 | [Luna](https://open.spotify.com/track/5tLIQPZ6EzdsvJDuUiJrvK) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Luna](https://open.spotify.com/album/2pjZO2uC4uOLBaEoSXhPO3) | 3:16 | 2025-05-10 |  |
 | [Luna](https://open.spotify.com/track/2afIpPSlmdEAl5MFGo7HdH) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Luna](https://open.spotify.com/album/2jfMeBUOiBDKONVJC8KQ3r) | 3:18 | 2023-11-10 | 2024-11-07 |
 | [Luna](https://open.spotify.com/track/3wCNtOcpj4spnlKlenpDZ2) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Luna](https://open.spotify.com/album/1LeAb5GZflp1DqblYgrXFT) | 3:18 | 2024-11-15 | 2025-05-07 |

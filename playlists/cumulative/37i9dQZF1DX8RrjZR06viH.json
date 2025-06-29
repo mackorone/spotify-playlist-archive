@@ -895,6 +895,28 @@
     },
     {
       "album": {
+        "name": "Fineste Dama P\u00e5 Utestedet",
+        "url": "https://open.spotify.com/album/7pU45MsJfs2xoqC34wPKeV"
+      },
+      "artists": [
+        {
+          "name": "Vidar Villa",
+          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+        },
+        {
+          "name": "B\u00f8lgen",
+          "url": "https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164603,
+      "name": "Fineste Dama P\u00e5 Utestedet",
+      "url": "https://open.spotify.com/track/0VJAnLZlBHZIPsRcBW3kSw"
+    },
+    {
+      "album": {
         "name": "Flink Pike",
         "url": "https://open.spotify.com/album/53BDWgZ95h3taij0mOcR26"
       },
@@ -1545,6 +1567,24 @@
     },
     {
       "album": {
+        "name": "Hjemme",
+        "url": "https://open.spotify.com/album/5EVeTeHyY3IvVXYmz29rZr"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236619,
+      "name": "Hjemme",
+      "url": "https://open.spotify.com/track/6FPKJnJMghrBQUQuSY5nnQ"
+    },
+    {
+      "album": {
         "name": "HJERTET MITT ER HELT OK",
         "url": "https://open.spotify.com/album/52qTuKqpnm3PtCtMRFa3i4"
       },
@@ -2034,7 +2074,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 152517,
       "name": "Kyssa noken andre",
       "url": "https://open.spotify.com/track/1kyFLaG8l3jJwa012XEbxf"
@@ -2782,7 +2822,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 201774,
       "name": "Oh Love - Acoustic",
       "url": "https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur"

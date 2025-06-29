@@ -3963,6 +3963,32 @@
     },
     {
       "album": {
+        "name": "Go Mode",
+        "url": "https://open.spotify.com/album/1gYtMfHRgHAUICRGG2FIZG"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        },
+        {
+          "name": "Blookah",
+          "url": "https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR"
+        },
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232031,
+      "name": "Go Mode",
+      "url": "https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc"
+    },
+    {
+      "album": {
         "name": "Good Again",
         "url": "https://open.spotify.com/album/48RsPqs6xA7scWJaUPBj0b"
       },
@@ -7680,7 +7706,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 220898,
       "name": "NRG",
       "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"

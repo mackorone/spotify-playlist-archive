@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAABLhmsywFbz/VhCzmLl+JB3",
+  "snapshot_id": "aF3fAAAAAADQxLUCfbYtIQs7cBknORMd",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 273235,
+      "name": "Life According To Raechel",
+      "url": "https://open.spotify.com/track/35sEqwW23uB0PqZATuQVjW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Neighbor Song (ft. Madison Cunningham)",
         "url": "https://open.spotify.com/album/1gWFh2G3METlCAbzhfaIzs"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 220230,
       "name": "Neighbor Song [Feat. Madison Cunningham]",
       "url": "https://open.spotify.com/track/5t6reWfzf0aOeMgVijYRGS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 273235,
-      "name": "Life According To Raechel",
-      "url": "https://open.spotify.com/track/35sEqwW23uB0PqZATuQVjW"
     },
     {
       "added_at": null,

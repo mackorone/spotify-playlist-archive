@@ -608,10 +608,28 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 200400,
       "name": "Georgia on My Mind",
       "url": "https://open.spotify.com/track/0mUqSrAlGBQ1zHEwAjCZmz"
+    },
+    {
+      "album": {
+        "name": "Tobacco Road",
+        "url": "https://open.spotify.com/album/5HlnBTb2vJjwCr25XVVmwh"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199573,
+      "name": "Georgia On My Mind - Remastered 2006",
+      "url": "https://open.spotify.com/track/1v0PObRGQRpv6foapH9F35"
     },
     {
       "album": {
@@ -1840,7 +1858,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 225600,
       "name": "They Call It Stormy Monday",
       "url": "https://open.spotify.com/track/71vtUr8NIGW8lqAgsxCO0M"
@@ -2194,7 +2212,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 317360,
       "name": "You'll Never Find Another Love Like Mine / A Lovely Way to Spend an Evening - Live at the Mark Hellinger Theatre, New York, NY - November 1977",
       "url": "https://open.spotify.com/track/5z0pKiEk0me8RdNYh4gOvj"

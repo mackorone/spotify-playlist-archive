@@ -1,12 +1,12 @@
 {
   "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
-  "num_followers": 1646869,
+  "num_followers": 1646960,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAAB+SODXxBmlBRjsFcsKrqWl",
+  "snapshot_id": "aF3fAAAAAABePuRLtq2kH9JfISZIS1Zr",
   "tracks": [
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goodbye & Good Riddance",
-        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 122285,
-      "name": "Hurt Me",
-      "url": "https://open.spotify.com/track/3XRQT7EoS4U87rUuJwg5P3"
+      "duration_ms": 192036,
+      "name": "Legends",
+      "url": "https://open.spotify.com/track/6BjtaWm1T4kDWAqHrf8vEi"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+        "name": "Goodbye & Good Riddance",
+        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 192036,
-      "name": "Legends",
-      "url": "https://open.spotify.com/track/6BjtaWm1T4kDWAqHrf8vEi"
+      "duration_ms": 122285,
+      "name": "Hurt Me",
+      "url": "https://open.spotify.com/track/3XRQT7EoS4U87rUuJwg5P3"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
       "duration_ms": 225857,
       "name": "Suicidal (feat. Juice WRLD) - Remix",
       "url": "https://open.spotify.com/track/4S2uhQE8L9V6p7rj7SiauJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Goodbye & Good Riddance",
-        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 186945,
-      "name": "Black & White",
-      "url": "https://open.spotify.com/track/1fCeXjoRExPP2qwSBh2aST"
     },
     {
       "added_at": null,
@@ -543,6 +527,22 @@
       "duration_ms": 242180,
       "name": "Righteous",
       "url": "https://open.spotify.com/track/5dOxHHMOFAbG3VH23t0xNm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goodbye & Good Riddance",
+        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 186945,
+      "name": "Black & White",
+      "url": "https://open.spotify.com/track/1fCeXjoRExPP2qwSBh2aST"
     },
     {
       "added_at": null,
@@ -807,38 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Party Never Ends 2.0",
-        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 167361,
-      "name": "Adore You",
-      "url": "https://open.spotify.com/track/38VkGQ4Sumz99xja6TCs7z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 187211,
-      "name": "From My Window",
-      "url": "https://open.spotify.com/track/4HDQt6Lepj3HpxypbG30Hz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
       },
@@ -863,6 +831,38 @@
       "duration_ms": 232064,
       "name": "PTSD",
       "url": "https://open.spotify.com/track/1C8ux1YWLMHCenYJFiIV4Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 187211,
+      "name": "From My Window",
+      "url": "https://open.spotify.com/track/4HDQt6Lepj3HpxypbG30Hz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Party Never Ends 2.0",
+        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 167361,
+      "name": "Adore You",
+      "url": "https://open.spotify.com/track/38VkGQ4Sumz99xja6TCs7z"
     },
     {
       "added_at": null,
@@ -895,18 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Party Never Ends 2.0",
-        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
+        "name": "STOKELEY",
+        "url": "https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn"
       },
       "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        },
         {
           "name": "Juice WRLD",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 240000,
-      "name": "KTM Drip",
-      "url": "https://open.spotify.com/track/0IWi2ZDDldYKBHYmG7mqPm"
+      "duration_ms": 166400,
+      "name": "Nuketown (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/74lnM5V6ecvoTPV0fvptx9"
     },
     {
       "added_at": null,

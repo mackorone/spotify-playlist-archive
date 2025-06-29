@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,410 likes - 100 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,574 likes - 100 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 42 | [Shanti \(Shavasana Dub\) Omstrumental](https://open.spotify.com/track/5zpeUjjv1L6gsZYJcnAn6g) | [MC YOGI](https://open.spotify.com/artist/4dkPtsX0xVdn8gZmdMdFuk) | [Elephant Powered Omstrumentals](https://open.spotify.com/album/2nfZhL9Yxdz3kiY5NaB4YO) | 7:08 |
 | 43 | [Honesty & Truth \- 10\-Minute Mix For Meditation & Massage](https://open.spotify.com/track/0AzBtsy4sR7lTY6WydHDBN) | [Massage Tribe](https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C) | [Spa Music: Tibet \(80 Minutes of Tibetan Bowls & Flutes for Massage, New Age, Yoga & Relaxation\)](https://open.spotify.com/album/32R6Vzvn7LlSklrHO0SCr3) | 10:59 |
 | 44 | [Insitarament](https://open.spotify.com/track/26iz7w8tBeVwRsl6diypqN) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Sleeping Traveller](https://open.spotify.com/album/4b6wVl1CwuxytrRZ9gOLlT) | 4:00 |
-| 45 | [Spiritual Touch](https://open.spotify.com/track/448vZRidoOl0wUKibsp0vI) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Re\-Creating](https://open.spotify.com/album/48mGrMc1HmBJ1DnFaiA3Ky) | 4:17 |
-| 46 | [Birds Sounds](https://open.spotify.com/track/09fCHLmBKJHdll5CSmyvQ9) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 2:45 |
-| 47 | [In A River](https://open.spotify.com/track/0vrnDo7jKOp6TjTyDNKcWp) | [Winston Church](https://open.spotify.com/artist/24pJOJuI2ICg2109beeDdi), [David Peter Vestin](https://open.spotify.com/artist/0088INLrI8Cc537xq1N3p3) | [In A River](https://open.spotify.com/album/0tlVbRpHRsfiIKwLUHnt8a) | 2:01 |
-| 48 | [Healing Sounds \(Nature Music\)](https://open.spotify.com/track/4LvyEkOkfoEWut29WU2KrR) | [Naomi Read](https://open.spotify.com/artist/6IxiB8NRLg48ySGkunEYxx) | [101 Minutes Relaxing Sounds of Nature Music for Sleeping, Relaxation](https://open.spotify.com/album/5RzQ5hreVnPZVKctWQzsqO) | 5:03 |
+| 45 | [In A River](https://open.spotify.com/track/0vrnDo7jKOp6TjTyDNKcWp) | [Winston Church](https://open.spotify.com/artist/24pJOJuI2ICg2109beeDdi), [David Peter Vestin](https://open.spotify.com/artist/0088INLrI8Cc537xq1N3p3) | [In A River](https://open.spotify.com/album/0tlVbRpHRsfiIKwLUHnt8a) | 2:01 |
+| 46 | [Healing Sounds \(Nature Music\)](https://open.spotify.com/track/4LvyEkOkfoEWut29WU2KrR) | [Naomi Read](https://open.spotify.com/artist/6IxiB8NRLg48ySGkunEYxx) | [101 Minutes Relaxing Sounds of Nature Music for Sleeping, Relaxation](https://open.spotify.com/album/5RzQ5hreVnPZVKctWQzsqO) | 5:03 |
+| 47 | [Spiritual Touch](https://open.spotify.com/track/448vZRidoOl0wUKibsp0vI) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Re\-Creating](https://open.spotify.com/album/48mGrMc1HmBJ1DnFaiA3Ky) | 4:17 |
+| 48 | [Birds Sounds](https://open.spotify.com/track/09fCHLmBKJHdll5CSmyvQ9) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 2:45 |
 | 49 | [Bedside Angels](https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Bedside Angels](https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq) | 2:14 |
 | 50 | [Endless Sleep](https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk), [Yoga Savasana](https://open.spotify.com/artist/7JzaqHa1JiixMzAQsMNgEq), [Moon Tunes](https://open.spotify.com/artist/2CrKYctaeLX0vhSesbWyTD) | [Endless Meditation](https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK) | 2:43 |
 | 51 | [Flutes of Harmony](https://open.spotify.com/track/7uHPpDHBB42j8cPmIDjKpn) | [Jane Winther](https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s), [Raman Marharjan](https://open.spotify.com/artist/6woWbiCbnSbegIEX4SDwls) | [Echoes of Silence](https://open.spotify.com/album/4i5kqpHHr4fjDNzusQeDuH) | 3:37 |

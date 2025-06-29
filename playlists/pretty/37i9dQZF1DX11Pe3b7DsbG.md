@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 
 > Um bom sambinha para acompanhar cada gole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,736 likes - 65 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,742 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 28 | [Ê Baiana](https://open.spotify.com/track/2TQUBvaI4k1Z1VnUDWL6AP) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Nova Bis \- Clara Nunes](https://open.spotify.com/album/1nVMy8Gae1hKAPYAqUj66Y) | 3:01 |
 | 29 | [Estácio Eu e Você \- Ao Vivo](https://open.spotify.com/track/77aWqhX9yVfwj2P50AnvKi) | [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [Luiz Melodia Especial MTV \(Ao Vivo\)](https://open.spotify.com/album/5yAarIXV8aFp0tMacqDH1h) | 3:05 |
 | 30 | [Sambista Perfeito](https://open.spotify.com/track/1HInYWLAypJkiyUbmaJE4E) | [Arlindo Cruz](https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP) | [Sambista Perfeito](https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw) | 3:46 |
-| 31 | [Rede Velha](https://open.spotify.com/track/1iGq7wW6mRBP2vapsJeE3o) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Rede Velha](https://open.spotify.com/album/6b0W58L6bB0jocKbIunaRa) | 3:12 |
-| 32 | [Bota Pra Tocar Tim Maia](https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Bota Pra Tocar Tim Maia](https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs) | 3:42 |
+| 31 | [Bota Pra Tocar Tim Maia](https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Bota Pra Tocar Tim Maia](https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs) | 3:42 |
+| 32 | [Rede Velha](https://open.spotify.com/track/1iGq7wW6mRBP2vapsJeE3o) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Rede Velha](https://open.spotify.com/album/6b0W58L6bB0jocKbIunaRa) | 3:12 |
 | 33 | [Tive Razão \- Ao Vivo](https://open.spotify.com/track/76Ni49PIcJCfiuZuOxtn14) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [América Brasil Ao Vivo \(Live\)](https://open.spotify.com/album/41qwuDifJUPHTl57rEK83K) | 3:53 |
 | 34 | [Dependente Do Amor](https://open.spotify.com/track/0ONoYJqSkvUFp2wmNvH2kW) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Mais Feliz](https://open.spotify.com/album/4fN80AnER7ua5DH8U1A7k9) | 3:44 |
 | 35 | [Chove e Não Molha](https://open.spotify.com/track/0DLLQHCiMG1HMljBqFU8KF) | [Elton Medeiros](https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV) | [Quatro Grandes Do Samba](https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2) | 2:24 |

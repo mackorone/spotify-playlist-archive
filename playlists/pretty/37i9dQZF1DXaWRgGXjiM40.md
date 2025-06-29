@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,589 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,601 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 38 | [Lembranças de Amor \- Ao Vivo](https://open.spotify.com/track/7MPMOW27HjtsLpeUFcihY8) | [Victor & Leo](https://open.spotify.com/artist/2HtEBtekn0bXogyogD3PTr) | [Victor & Leo Ao Vivo Em Uberlândia](https://open.spotify.com/album/1po4TPOuh3zVj5fMqePCdC) | 3:31 |
 | 39 | [Tchau Brigado \- Ao Vivo](https://open.spotify.com/track/2TR917wkDeRvwTE5cSfZFf) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Tchau Brigado \(Ao Vivo\)](https://open.spotify.com/album/0vXz93Fhy0UDxgdwygSZdy) | 2:43 |
 | 40 | [Não Precisa Ser Cowboy](https://open.spotify.com/track/6Ujs35aawDLfAD1S8Q7zbe) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Let's Go Rodeo](https://open.spotify.com/album/4NqeEHz29Ime2EZV8AUHkh) | 3:17 |
-| 41 | [Dois Carentes](https://open.spotify.com/track/5sHN3t3NnoC2wbLigX3YWI) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52), [Enzo Ferro](https://open.spotify.com/artist/16XDej3zylKAlkjdM35f86) | [Dois Carentes](https://open.spotify.com/album/2HbdCYON9BgNbsiLsWQHm8) | 2:36 |
-| 42 | [Escreve Aí \- Ao Vivo](https://open.spotify.com/track/69uKYDeTWn1wFssqP6OZjb) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/3xCayP2LKZhZotGfzVT9Fx) | 4:03 |
-| 43 | [S de Saudade](https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL) | [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [S de Saudade](https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL) | 2:54 |
+| 41 | [Escreve Aí \- Ao Vivo](https://open.spotify.com/track/69uKYDeTWn1wFssqP6OZjb) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/3xCayP2LKZhZotGfzVT9Fx) | 4:03 |
+| 42 | [S de Saudade](https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL) | [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [S de Saudade](https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL) | 2:54 |
+| 43 | [Dois Carentes](https://open.spotify.com/track/5sHN3t3NnoC2wbLigX3YWI) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52), [Enzo Ferro](https://open.spotify.com/artist/16XDej3zylKAlkjdM35f86) | [Dois Carentes](https://open.spotify.com/album/2HbdCYON9BgNbsiLsWQHm8) | 2:36 |
 | 44 | [Bagunça Minha Vida \- Ao Vivo Em Goiânia / 2019](https://open.spotify.com/track/33g4LmRrWddOvMLnynSktj) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [Bagunça Minha Vida \(Ao Vivo Em Goiânia / 2019\)](https://open.spotify.com/album/6Px1WC9c2hYtmrfu6wPNZ4) | 2:25 |
 | 45 | [Surto De Amor \- Ao Vivo Em Uberlândia / 2018](https://open.spotify.com/track/4N0I8lmbLPmH8qdlFIjuOU) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Surto De Amor \(Ao Vivo\)](https://open.spotify.com/album/6ylhMJnWhwgus36dtMEGWi) | 2:37 |
 | 46 | [A Culpa É Nossa \- Ao Vivo](https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF) | 2:45 |
 | 47 | [Quem É Seu Favorito \- Ao Vivo](https://open.spotify.com/track/7h4XA0Kz2YCKAJNYSdJVdd) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ter Amigos É Melhor Que Ter Dinheiro, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3R8CMeFQ1xbdFDCCIblgqn) | 2:42 |
 | 48 | [A Gente Fez Amor \- Ao Vivo](https://open.spotify.com/track/3tv697PZNnaQN0Mn2zGhS5) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador in Cariri \(Ao Vivo\)](https://open.spotify.com/album/17jzAujoXwIF60ojew1yHU) | 3:57 |
 | 49 | [Com ou Sem Mim \- Ao Vivo](https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Com ou Sem Mim \(Ao Vivo\)](https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r) | 3:21 |
-| 50 | [Cê Tem o Molho](https://open.spotify.com/track/0QdIRmcmAgBYoUtReHRrbC) | [Marília Tavares](https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Cê Tem o Molho](https://open.spotify.com/album/2pz2hyMhJErRGw7qUfHaBC) | 2:43 |
+| 50 | [Coração Na Cama \- Ao Vivo](https://open.spotify.com/track/2nZj5YymF54qhAu7RneVP6) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [No Pelo 3, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3IfMlmwvbnO0yPVTNCnwAb) | 2:53 |
 
 Snapshot ID: `aEvZDQAAAADf0xTIG+XPmPnM5Xx83DKu`

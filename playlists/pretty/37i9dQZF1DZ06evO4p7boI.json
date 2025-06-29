@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95870,
+  "num_followers": 95868,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAAB0VfJ/ezgoiuq3BIaUEWJX",
+  "snapshot_id": "aF3fAAAAAAACqDvTxmVANJnObxTfd1dc",
   "tracks": [
     {
       "added_at": null,
@@ -127,26 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OMW2 REXDALE",
-        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 208880,
-      "name": "UNLIMITED (FT PLAYBOI CARTI)",
-      "url": "https://open.spotify.com/track/4j8n7cA99r729g1nAtA6qV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RECKLESS",
         "url": "https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ"
       },
@@ -167,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emergency Tsunami",
-        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
+        "name": "OMW2 REXDALE",
+        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
       },
       "artists": [
         {
@@ -176,29 +156,13 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 151481,
-      "name": "Young Wheezy (with Gunna)",
-      "url": "https://open.spotify.com/track/0bMyxvtbPa7HFemLjzw0xX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 226040,
-      "name": "Myself",
-      "url": "https://open.spotify.com/track/05nbZ1xxVNwUTcGwLbp7CN"
+      "duration_ms": 208880,
+      "name": "UNLIMITED (FT PLAYBOI CARTI)",
+      "url": "https://open.spotify.com/track/4j8n7cA99r729g1nAtA6qV"
     },
     {
       "added_at": null,
@@ -219,6 +183,42 @@
       "duration_ms": 143824,
       "name": "Recap (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/67LB1vZuG114LqRN8h8bQ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 226040,
+      "name": "Myself",
+      "url": "https://open.spotify.com/track/05nbZ1xxVNwUTcGwLbp7CN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emergency Tsunami",
+        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 151481,
+      "name": "Young Wheezy (with Gunna)",
+      "url": "https://open.spotify.com/track/0bMyxvtbPa7HFemLjzw0xX"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OMW2 REXDALE (DELUXE)",
-        "url": "https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 89621,
-      "name": "GLOBE",
-      "url": "https://open.spotify.com/track/1dnXDVBhHOc6lji5N8nviK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Timing",
         "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
       },
@@ -535,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "OMW2 REXDALE (DELUXE)",
+        "url": "https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 89621,
+      "name": "GLOBE",
+      "url": "https://open.spotify.com/track/1dnXDVBhHOc6lji5N8nviK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meet The Woo 2 (Deluxe)",
         "url": "https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU"
       },
@@ -551,22 +551,6 @@
       "duration_ms": 194680,
       "name": "Wolves (with NAV)",
       "url": "https://open.spotify.com/track/1dnsojUNfvhiztcITLzruj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/5qbcsZMwL0x46sX7VO37Ye"
     },
     {
       "added_at": null,
@@ -595,6 +579,22 @@
       "duration_ms": 265373,
       "name": "Minute",
       "url": "https://open.spotify.com/track/3JWh19WsndEFg0UFRFeTiU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/5qbcsZMwL0x46sX7VO37Ye"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WUNNA (Deluxe)",
-        "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 165013,
-      "name": "NOTHING 4 FREE (feat. NAV)",
-      "url": "https://open.spotify.com/track/1HWTHOiN3mzsebJBrtAPbQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Habits (Deluxe)",
         "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 217775,
       "name": "Price On My Head (feat. The Weeknd)",
       "url": "https://open.spotify.com/track/4hqOmrCCJKyiuwDexd8c2t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WUNNA (Deluxe)",
+        "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 165013,
+      "name": "NOTHING 4 FREE (feat. NAV)",
+      "url": "https://open.spotify.com/track/1HWTHOiN3mzsebJBrtAPbQ"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OMW2 REXDALE",
-        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 125853,
-      "name": "SINKING",
-      "url": "https://open.spotify.com/track/353xLpuRSnZQG2arRj4ObG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Habits (Deluxe)",
         "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 131214,
       "name": "Vicodin",
       "url": "https://open.spotify.com/track/19CWeHbg3Z9XJH4Uzdk6tf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OMW2 REXDALE",
+        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 125853,
+      "name": "SINKING",
+      "url": "https://open.spotify.com/track/353xLpuRSnZQG2arRj4ObG"
     },
     {
       "added_at": null,
@@ -899,22 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OMW2 REXDALE (DELUXE)",
-        "url": "https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 128695,
-      "name": "POTHOLES",
-      "url": "https://open.spotify.com/track/56iQaoOCCQ68YK74wQhtCW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Habits (Deluxe)",
         "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
       },
@@ -931,8 +915,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "OMW2 REXDALE",
-        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
+        "name": "OMW2 REXDALE (DELUXE)",
+        "url": "https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9"
       },
       "artists": [
         {
@@ -940,9 +924,9 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 158933,
-      "name": "ONE OF NONE",
-      "url": "https://open.spotify.com/track/3iHhuAmTg6LCOpHJQCUEmm"
+      "duration_ms": 128695,
+      "name": "POTHOLES",
+      "url": "https://open.spotify.com/track/56iQaoOCCQ68YK74wQhtCW"
     },
     {
       "added_at": null,
@@ -967,8 +951,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "OMW2 REXDALE (DELUXE)",
-        "url": "https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9"
+        "name": "OMW2 REXDALE",
+        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
       },
       "artists": [
         {
@@ -976,9 +960,9 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 104164,
-      "name": "FEEL NONE",
-      "url": "https://open.spotify.com/track/2QnSwZgIGvcAY8i4aWq8Lm"
+      "duration_ms": 136400,
+      "name": "KEEP GOING",
+      "url": "https://open.spotify.com/track/759TEcBBeid0KxXEs0AFtx"
     },
     {
       "added_at": null,
@@ -995,6 +979,22 @@
       "duration_ms": 168828,
       "name": "On My Own (2016)",
       "url": "https://open.spotify.com/track/1JfhrpmEjgO85Y7sM2QWvH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OMW2 REXDALE (DELUXE)",
+        "url": "https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 104164,
+      "name": "FEEL NONE",
+      "url": "https://open.spotify.com/track/2QnSwZgIGvcAY8i4aWq8Lm"
     }
   ],
   "unique_name": "This Is NAV",

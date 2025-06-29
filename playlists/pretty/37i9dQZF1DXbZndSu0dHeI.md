@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 
 > Really lovely songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,509 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,519 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 51 | [Lover \(Don't Let Me Down\)](https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Lover \(Don’t Let Me Down\)](https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD) | 4:10 |
 | 52 | [Victoria Falls](https://open.spotify.com/track/6SZgDG2pMgk1iZXYT1ZGPI) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [The Loved Ones](https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng) | 3:34 |
 | 53 | [Lord](https://open.spotify.com/track/0ZVIp8P740Vq8ZXdBwNURI) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Drive to Goldenhammer](https://open.spotify.com/album/1JlbWPlZef4pXOdFBsK994) | 3:30 |
-| 54 | [Mac’s Omelette](https://open.spotify.com/track/4puNPIWV9CQLdWKy5gtkiP) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Mac's Omelette](https://open.spotify.com/album/3CLqLECm5JopTVkD3tMikU) | 3:58 |
-| 55 | [Today](https://open.spotify.com/track/7KVGTie5N8KjstWEHRS5qU) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Today](https://open.spotify.com/album/5a14jF7aMhiVPUzV2IVavH) | 2:46 |
+| 54 | [Today](https://open.spotify.com/track/7KVGTie5N8KjstWEHRS5qU) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Today](https://open.spotify.com/album/5a14jF7aMhiVPUzV2IVavH) | 2:46 |
+| 55 | [Mac’s Omelette](https://open.spotify.com/track/4puNPIWV9CQLdWKy5gtkiP) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Mac's Omelette](https://open.spotify.com/album/3CLqLECm5JopTVkD3tMikU) | 3:58 |
 | 56 | [What Are We Doing?](https://open.spotify.com/track/4iQJp5EJLeaegXK51bxenr) | [EGOISM](https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD) | [What Are We Doing?](https://open.spotify.com/album/7a7F4c26kIxxnk1kWWk2jC) | 3:13 |
 | 57 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 |
 | 58 | [Me and My Friends](https://open.spotify.com/track/7Bo8vjwc0qfdHeIixhHW6X) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Me and My Friends](https://open.spotify.com/album/31ZCBDVcq70qoL7C7CUiAd) | 3:20 |
@@ -87,15 +87,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 77 | [Jessie's House](https://open.spotify.com/track/5XqflTC9Cn3YCdDvIXSDFK) | [Findlay](https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn) | [Jessie's House](https://open.spotify.com/album/4CChj4YlzZQ7qCWfZYSuiH) | 3:16 |
 | 78 | [Ignorant Boy, Beautiful Girl \(Namanama\)](https://open.spotify.com/track/7JsvW1GU2hbMnGETSyy7ig) | [Loney Dear](https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph) | [Citadel Band](https://open.spotify.com/album/7mMwcMgwE98WjsxiCcCiQH) | 3:58 |
 | 79 | [Reach Out](https://open.spotify.com/track/5hVKXeJg1R9qGbrGW5eHNl) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Reach Out / Olympus](https://open.spotify.com/album/5cXWxz4WZUPtMIeSLK3HDL) | 3:43 |
-| 80 | [Where Sky Becomes Sea](https://open.spotify.com/track/4R9CJUZVrHTyL8L1bkVlAT) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Where Sky Becomes Sea](https://open.spotify.com/album/5HnWBgUMo42JHHsDMOkAdD) | 5:17 |
+| 80 | [Wavepool](https://open.spotify.com/track/1ZcjlVzHuLGEenurSfytvJ) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Wavepool](https://open.spotify.com/album/6tgfkgWahbKBM3q1GV4XgL) | 3:38 |
 | 81 | [Nosebleed](https://open.spotify.com/track/1ARLDdTUR8FPWCW65qRTq8) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Nosebleed](https://open.spotify.com/album/21ra3mXDSgrc12axMIbjsn) | 3:26 |
-| 82 | [Wavepool](https://open.spotify.com/track/1ZcjlVzHuLGEenurSfytvJ) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Wavepool](https://open.spotify.com/album/6tgfkgWahbKBM3q1GV4XgL) | 3:38 |
+| 82 | [Where Sky Becomes Sea](https://open.spotify.com/track/4R9CJUZVrHTyL8L1bkVlAT) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Where Sky Becomes Sea](https://open.spotify.com/album/5HnWBgUMo42JHHsDMOkAdD) | 5:17 |
 | 83 | [Backseat](https://open.spotify.com/track/5ll8LtJvNBmtrCcqlPb9jy) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [What's Dead and Gone](https://open.spotify.com/album/7tlucLp6G0DquihSIwYbai) | 3:13 |
-| 84 | [chamomile](https://open.spotify.com/track/7CH3DVWV2Qbyk583B1XrKH) | [brand new legs](https://open.spotify.com/artist/6Ufmc6jv705vKWqSkD9xSa) | [chamomile](https://open.spotify.com/album/10mmlgOJ3AC0sAVyEG3Ybd) | 2:39 |
-| 85 | [Why](https://open.spotify.com/track/4t778t8afctJv2Wc3H85HU) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Walking Like We Do](https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU) | 3:29 |
+| 84 | [Why](https://open.spotify.com/track/4t778t8afctJv2Wc3H85HU) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Walking Like We Do](https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU) | 3:29 |
+| 85 | [chamomile](https://open.spotify.com/track/7CH3DVWV2Qbyk583B1XrKH) | [brand new legs](https://open.spotify.com/artist/6Ufmc6jv705vKWqSkD9xSa) | [chamomile](https://open.spotify.com/album/10mmlgOJ3AC0sAVyEG3Ybd) | 2:39 |
 | 86 | [Garden of Eden](https://open.spotify.com/track/6jF6VwQeIiy18FUH0wuIQN) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Garden of Eden](https://open.spotify.com/album/3pw1gb17EJ7ILSm9b28ZgQ) | 3:19 |
-| 87 | [a leith ross song](https://open.spotify.com/track/1TUlVxsllap9YEh7KMGUTi) | [Kayla Grace](https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T) | [a leith ross song](https://open.spotify.com/album/3HbZ4Auys97D5iSTsjYJP4) | 2:27 |
-| 88 | [The Dream](https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Dream](https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst) | 4:49 |
+| 87 | [The Dream](https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Dream](https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst) | 4:49 |
+| 88 | [a leith ross song](https://open.spotify.com/track/1TUlVxsllap9YEh7KMGUTi) | [Kayla Grace](https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T) | [a leith ross song](https://open.spotify.com/album/3HbZ4Auys97D5iSTsjYJP4) | 2:27 |
 | 89 | [Failure](https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 4:07 |
 | 90 | [James](https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [James](https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1) | 4:29 |
 | 91 | [Our Time](https://open.spotify.com/track/44cqu9aiiJarV1znSUY1YZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Our Time](https://open.spotify.com/album/7AvyzgmBfIOyRRBqY85puH) | 3:24 |

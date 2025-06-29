@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fwYfqYEDWu9UNfljA4NID">OZ</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,386 likes - 116 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,388 likes - 116 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 67 | [Gore](https://open.spotify.com/track/6Xb2iLlSfxsvOjM3J5y0dD) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LIFE'S A TRIP](https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL) | 2:42 |
 | 68 | [Wicked](https://open.spotify.com/track/5mFnYgPkEpr2eoMqvSOXQe) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 3](https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna) | 2:18 |
 | 69 | [INSIDE \(FEAT\. TRAVIS SCOTT\)](https://open.spotify.com/track/24p1C9WueGBQLURpKc3oO8) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 4:10 |
-| 70 | [Forever World \(feat\. Trippie Redd\)](https://open.spotify.com/track/1tKvqOrnJ0zhAuFS6yfNTk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Nuthin' 2 Prove](https://open.spotify.com/album/4qplno3lbet8WvuTGdDG3T) | 5:01 |
-| 71 | [5 TO 10](https://open.spotify.com/track/1zTGRPGqfZP0cfyTmoQP0V) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:13 |
+| 70 | [5 TO 10](https://open.spotify.com/track/1zTGRPGqfZP0cfyTmoQP0V) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:13 |
+| 71 | [Forever World \(feat\. Trippie Redd\)](https://open.spotify.com/track/1tKvqOrnJ0zhAuFS6yfNTk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Nuthin' 2 Prove](https://open.spotify.com/album/4qplno3lbet8WvuTGdDG3T) | 5:01 |
 | 72 | [Poison \(feat\. Lil Wayne\)](https://open.spotify.com/track/1hs54MGy1J69I52GvzsrbB) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 3:42 |
 | 73 | [A.L.L.T.Y\. 3 \(feat\. Baby Goth\)](https://open.spotify.com/track/5pEp4XIoJminFDCAfmqdY5) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Baby Goth](https://open.spotify.com/artist/0ECSmon1BUiFnB33X24eLI) | [A Love Letter To You 3](https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna) | 3:00 |
 | 74 | [Outro \(feat\. Lil Snupe & French Montana\)](https://open.spotify.com/track/0j16JpJCRdWs9qhuuDKodi) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Lil Snupe](https://open.spotify.com/artist/42FaEHFfyxTdZQ5W28dXnj), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [DC4](https://open.spotify.com/album/6sNbRwX0lZREkdmUSDsVzo) | 4:58 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 115 | [Ungrateful](https://open.spotify.com/track/4Jq0KjjNeVdnrgQBhfUzNW) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:37 |
 | 116 | [Know Better](https://open.spotify.com/track/17E27S9wzfX2PlGZdq5SiE) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:50 |
 
-Snapshot ID: `Ab1NEgAAAAA37X9Ic9o0SijcHOQ1hLNa`
+Snapshot ID: `Ab1YPgAAAAAOLk1NawmJoQuV94+LoLQV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07zaak.md) - [plain]
 
 > This is Pink Floyd\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,521,331 likes - 43 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,521,502 likes - 43 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07zaak.md) - [plain]
 | 33 | [Sheep](https://open.spotify.com/track/55e99bv2wlgTYtNEYHWtN1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4) | 10:19 |
 | 34 | [A Pillow of Winds](https://open.spotify.com/track/7krbQbYq63hcwVMNW1R0tD) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 5:12 |
 | 35 | [The Fletcher Memorial Home](https://open.spotify.com/track/0L0HAZg6FGrBAS6QE7B1eI) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 4:09 |
-| 36 | [Careful with That Axe, Eugene \- Live at Pompeii \- MCMLXXII \- 2025 Mix](https://open.spotify.com/track/69v5uSz6Kgdafs6Gm4msuu) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Pink Floyd at Pompeii \- MCMLXXII \(2025 Mix\)](https://open.spotify.com/album/0ptvgHrZARlAZFmbg0WvDI) | 6:37 |
-| 37 | [Wot's...Uh the Deal](https://open.spotify.com/track/6zGFOp6rJZbYSp9DQO5AHY) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 5:09 |
+| 36 | [Wot's...Uh the Deal](https://open.spotify.com/track/6zGFOp6rJZbYSp9DQO5AHY) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 5:09 |
+| 37 | [Careful with That Axe, Eugene \- Live at Pompeii \- MCMLXXII \- 2025 Mix](https://open.spotify.com/track/69v5uSz6Kgdafs6Gm4msuu) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Pink Floyd at Pompeii \- MCMLXXII \(2025 Mix\)](https://open.spotify.com/album/0ptvgHrZARlAZFmbg0WvDI) | 6:37 |
 | 38 | [Terminal Frost](https://open.spotify.com/track/4hO2y5DRbeMppklIroS1O8) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 6:15 |
 | 39 | [One of the Few](https://open.spotify.com/track/2rcpqbAf0ZXdgddldbu1sU) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 1:17 |
 | 40 | [Childhood's End](https://open.spotify.com/track/4fnJmewCdmTfErfSYSysyM) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 4:33 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07zaak.md) - [plain]
 | 42 | [Your Possible Pasts](https://open.spotify.com/track/1IAiDrvZCOx8AHlNZGY5yU) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 4:26 |
 | 43 | [Obscured by Clouds](https://open.spotify.com/track/3c8LKbUsjW9lMYQzVScXQT) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 3:04 |
 
-Snapshot ID: `aFyNgAAAAAA5qmU8czZbQ87Y54/LwSh1`
+Snapshot ID: `aF3fAAAAAAB0qyRGyvPakNVxHAUGV28L`

@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis.
 
-429 songs - 1 day 10 hr 26 min
+430 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Some Way](https://open.spotify.com/track/0WBycRtItbpOgbxura7SJR) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Some Way](https://open.spotify.com/album/439OHyChz5bHWMVzU2YnSv) | 3:37 | 2022-01-21 |  |
 | [Some Way](https://open.spotify.com/track/6kRLQTgIr9LSudbn03qIMN) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Some Way](https://open.spotify.com/album/2dpL1I201z6H3710toHacQ) | 3:37 | 2022-01-21 | 2024-04-01 |
 | [Song of Singers](https://open.spotify.com/track/318053hJDlClbgtcdjnjWU) | [Kelpe](https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl) | [Song of Singers](https://open.spotify.com/album/0VqES90kJLItAtZ48OGdDf) | 4:34 | 2021-10-06 | 2025-06-14 |
+| [Split Second](https://open.spotify.com/track/3Q92wSRE08dOBNDKQHuF4Q) | [Ken Ishii](https://open.spotify.com/artist/0Jb1cpfG4GB6pZfroFhAw0), [Yuada](https://open.spotify.com/artist/0FF4GvpiC3VwColbz5k2jJ) | [Split Second](https://open.spotify.com/album/1GTXGMsfJKBZxthNLhVQvO) | 5:22 | 2025-06-28 |  |
 | [sssssmilinggggg](https://open.spotify.com/track/6yTewVjFHvPBNyRliPdQOs) | [Kaho Matsui](https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU) | [sssssmilinggggg](https://open.spotify.com/album/2gC9JUs5tlGBgopNouIg7v) | 6:44 | 2022-11-09 |  |
 | [Stardust](https://open.spotify.com/track/0WOIqQU4TH6S4PEgiJ9CLD) | [Elision](https://open.spotify.com/artist/4Jgr50VvxX0EFq5fxIoVC0) | [Press Play](https://open.spotify.com/album/0rDJv9F8nPrUNHOUTTgzdJ) | 2:05 | 2021-10-28 |  |
 | [Stationmaster](https://open.spotify.com/track/0ivCCyi9umwXGb0XEQtHqP) | [Elis Zazon](https://open.spotify.com/artist/3szlI3AWgGeJlq7MKRO3aX) | [Looking Glass](https://open.spotify.com/album/4RiMvT2fwVAaCIzUVL3ydT) | 1:45 | 2022-09-21 | 2022-11-28 |

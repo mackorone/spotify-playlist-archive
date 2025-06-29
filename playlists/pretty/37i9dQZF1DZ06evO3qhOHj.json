@@ -1,12 +1,12 @@
 {
   "description": "This is Mr. Big. The essential tracks, all in one playlist.",
-  "num_followers": 29671,
+  "num_followers": 29673,
   "original_name": "This Is Mr. Big",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAAAC8zIbxF3mTzRho8uQzgNw",
+  "snapshot_id": "aF3fAAAAAAAJJZQJ0z+RMY/CCd0f/qza",
   "tracks": [
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "...The Stories We Could Tell (with Commentary)",
-        "url": "https://open.spotify.com/album/44HotGTgeuj0hQheoFlP7j"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 34397,
-      "name": "What If We Were New? - Commentary",
-      "url": "https://open.spotify.com/track/0lCKYje4d2ykxK0SWQKH7f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mr. Big (2023 Remastered)",
         "url": "https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 295472,
       "name": "Had Enough - 2023 Remastered",
       "url": "https://open.spotify.com/track/4bdJBbE17wBF9BRnaodYpk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...The Stories We Could Tell (with Commentary)",
+        "url": "https://open.spotify.com/album/44HotGTgeuj0hQheoFlP7j"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 34397,
+      "name": "What If We Were New? - Commentary",
+      "url": "https://open.spotify.com/track/0lCKYje4d2ykxK0SWQKH7f"
     },
     {
       "added_at": null,

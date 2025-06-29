@@ -1,6 +1,6 @@
 {
   "description": "Una noche en el Patio con Daniela, Lupita, Dulce y Yuri \ud83c\udf78",
-  "num_followers": 923901,
+  "num_followers": 925276,
   "original_name": "Modo Mentiras",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
-        "name": "Entre El Agua Y El Fuego",
-        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "\u00bfY C\u00f3mo Es \u00c9l?",
-      "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
-    },
-    {
-      "added_at": "2025-06-20 20:01:19",
-      "album": {
         "name": "Cosas De Enamorados",
         "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 222946,
       "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
+    },
+    {
+      "added_at": "2025-06-20 20:01:19",
+      "album": {
+        "name": "Entre El Agua Y El Fuego",
+        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "\u00bfY C\u00f3mo Es \u00c9l?",
+      "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
     },
     {
       "added_at": "2025-06-20 20:01:19",
@@ -351,54 +351,6 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
-        "name": "Locas Por La M\u00fasica",
-        "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 222413,
-      "name": "C\u00f3mo Te Va Mi Amor",
-      "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
-    },
-    {
-      "added_at": "2025-06-20 20:01:19",
-      "album": {
-        "name": "El Sonido Vol. 1",
-        "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
-      },
-      "artists": [
-        {
-          "name": "Amanda Miguel",
-          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
-        }
-      ],
-      "duration_ms": 171486,
-      "name": "As\u00ed No Te Amar\u00e1 Jam\u00e1s",
-      "url": "https://open.spotify.com/track/0hTao6s03MkTStWfxAmnGk"
-    },
-    {
-      "added_at": "2025-06-20 20:01:19",
-      "album": {
-        "name": "20 A\u00f1os",
-        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 272826,
-      "name": "Tengo Todo Excepto a Ti",
-      "url": "https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei"
-    },
-    {
-      "added_at": "2025-06-20 20:01:19",
-      "album": {
         "name": "Mentiras: La Serie (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
       },
@@ -427,6 +379,54 @@
       "duration_ms": 125470,
       "name": "Castillos (feat. Regina Bland\u00f3n)",
       "url": "https://open.spotify.com/track/4IGGduepkbwJ3j2fSWNZ1J"
+    },
+    {
+      "added_at": "2025-06-20 20:01:19",
+      "album": {
+        "name": "Locas Por La M\u00fasica",
+        "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 222413,
+      "name": "C\u00f3mo Te Va Mi Amor",
+      "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
+    },
+    {
+      "added_at": "2025-06-20 20:01:19",
+      "album": {
+        "name": "20 A\u00f1os",
+        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 272826,
+      "name": "Tengo Todo Excepto a Ti",
+      "url": "https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei"
+    },
+    {
+      "added_at": "2025-06-20 20:01:19",
+      "album": {
+        "name": "El Sonido Vol. 1",
+        "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
+      },
+      "artists": [
+        {
+          "name": "Amanda Miguel",
+          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
+        }
+      ],
+      "duration_ms": 171486,
+      "name": "As\u00ed No Te Amar\u00e1 Jam\u00e1s",
+      "url": "https://open.spotify.com/track/0hTao6s03MkTStWfxAmnGk"
     },
     {
       "added_at": "2025-06-20 20:01:19",
@@ -723,8 +723,8 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
-        "name": "Sagitario",
-        "url": "https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd"
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/7vAsW66jMph541o9EYE9b0"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 224906,
-      "name": "Y Aqu\u00ed Estoy",
-      "url": "https://open.spotify.com/track/5PSES4lFkqiLk2ERayuuha"
+      "duration_ms": 269440,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/64qCBHI5L54SUOZQfGFYcg"
     },
     {
       "added_at": "2025-06-20 20:01:19",
@@ -807,8 +807,8 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/7vAsW66jMph541o9EYE9b0"
+        "name": "Sagitario",
+        "url": "https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 269440,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/64qCBHI5L54SUOZQfGFYcg"
+      "duration_ms": 224906,
+      "name": "Y Aqu\u00ed Estoy",
+      "url": "https://open.spotify.com/track/5PSES4lFkqiLk2ERayuuha"
     },
     {
       "added_at": "2025-06-20 20:01:19",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
-        "name": "Diez A\u00f1os Cantandole Al Amor",
-        "url": "https://open.spotify.com/album/7m0U4kGO3H4QUw5W75HsQ8"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 222933,
-      "name": "Este Terco Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1iN1knAnE9tgY3FipGocKX"
-    },
-    {
-      "added_at": "2025-06-20 20:01:19",
-      "album": {
         "name": "A Donde Vas?",
         "url": "https://open.spotify.com/album/5qjUiS5iqDsIsQiLDPzgMW"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 235426,
       "name": "Como Me Haces Falta",
       "url": "https://open.spotify.com/track/46NfUryLlW7aiI8xD8UFhL"
+    },
+    {
+      "added_at": "2025-06-20 20:01:19",
+      "album": {
+        "name": "Diez A\u00f1os Cantandole Al Amor",
+        "url": "https://open.spotify.com/album/7m0U4kGO3H4QUw5W75HsQ8"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 222933,
+      "name": "Este Terco Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1iN1knAnE9tgY3FipGocKX"
     },
     {
       "added_at": "2025-06-20 20:01:19",
@@ -919,70 +919,6 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
-        "name": "Desnudo Emmanuel",
-        "url": "https://open.spotify.com/album/2iCrYYzvzCQYt7IOBq9eyG"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 289733,
-      "name": "Toda la Vida",
-      "url": "https://open.spotify.com/track/6X8J99PRgZx5m2xVe6Ou7c"
-    },
-    {
-      "added_at": "2025-06-20 20:01:19",
-      "album": {
-        "name": "Personalidad",
-        "url": "https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY"
-      },
-      "artists": [
-        {
-          "name": "Pimpinela",
-          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "A Esa",
-      "url": "https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73"
-    },
-    {
-      "added_at": "2025-06-20 20:01:19",
-      "album": {
-        "name": "Siempre Contigo",
-        "url": "https://open.spotify.com/album/2zujm7JfVsJPEzgpVHD3Tr"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "\u00bfY Qui\u00e9n Puede Ser?",
-      "url": "https://open.spotify.com/track/49eIAccdfjzsKjo7WPuAFJ"
-    },
-    {
-      "added_at": "2025-06-20 20:01:19",
-      "album": {
-        "name": "Los Besos No Se Dan En La Camisa",
-        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 261293,
-      "name": "Como Me Haces Falta",
-      "url": "https://open.spotify.com/track/7K6NOKMUKJxjolgsiE7m3x"
-    },
-    {
-      "added_at": "2025-06-20 20:01:19",
-      "album": {
         "name": "Mentiras: La Serie (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
       },
@@ -1015,6 +951,70 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
+        "name": "Desnudo Emmanuel",
+        "url": "https://open.spotify.com/album/2iCrYYzvzCQYt7IOBq9eyG"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 289733,
+      "name": "Toda la Vida",
+      "url": "https://open.spotify.com/track/6X8J99PRgZx5m2xVe6Ou7c"
+    },
+    {
+      "added_at": "2025-06-20 20:01:19",
+      "album": {
+        "name": "Siempre Contigo",
+        "url": "https://open.spotify.com/album/2zujm7JfVsJPEzgpVHD3Tr"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "\u00bfY Qui\u00e9n Puede Ser?",
+      "url": "https://open.spotify.com/track/49eIAccdfjzsKjo7WPuAFJ"
+    },
+    {
+      "added_at": "2025-06-20 20:01:19",
+      "album": {
+        "name": "Personalidad",
+        "url": "https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY"
+      },
+      "artists": [
+        {
+          "name": "Pimpinela",
+          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "A Esa",
+      "url": "https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73"
+    },
+    {
+      "added_at": "2025-06-20 20:01:19",
+      "album": {
+        "name": "Los Besos No Se Dan En La Camisa",
+        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 261293,
+      "name": "Como Me Haces Falta",
+      "url": "https://open.spotify.com/track/7K6NOKMUKJxjolgsiE7m3x"
+    },
+    {
+      "added_at": "2025-06-20 20:01:19",
+      "album": {
         "name": "Mi Vida Sin Tu Amor",
         "url": "https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl"
       },
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
-        "name": "No Es Pecado -Remasters",
-        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
+        "name": "Celebrando La Voz De Yuri",
+        "url": "https://open.spotify.com/album/7ujHdVvsepyAQAKtzjjn3p"
       },
       "artists": [
         {
-          "name": "Alaska Y Dinarama",
-          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
         }
       ],
-      "duration_ms": 205306,
-      "name": "A qui\u00e9n le importa",
-      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
+      "duration_ms": 228413,
+      "name": "Es Ella M\u00e1s Que Yo",
+      "url": "https://open.spotify.com/track/374F2ZrWYYCFuRr1XDUnER"
     },
     {
       "added_at": "2025-06-20 20:01:19",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
-        "name": "Celebrando La Voz De Yuri",
-        "url": "https://open.spotify.com/album/7ujHdVvsepyAQAKtzjjn3p"
+        "name": "No Es Pecado -Remasters",
+        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
       },
       "artists": [
         {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+          "name": "Alaska Y Dinarama",
+          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
         }
       ],
-      "duration_ms": 228413,
-      "name": "Es Ella M\u00e1s Que Yo",
-      "url": "https://open.spotify.com/track/374F2ZrWYYCFuRr1XDUnER"
+      "duration_ms": 205306,
+      "name": "A qui\u00e9n le importa",
+      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
     },
     {
       "added_at": "2025-06-20 20:01:19",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
+        "name": "NUEVA ERA",
+        "url": "https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU"
+      },
+      "artists": [
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        }
+      ],
+      "duration_ms": 262680,
+      "name": "Amiga M\u00eda",
+      "url": "https://open.spotify.com/track/4cIJMoLbUOG1YEppzrfwUz"
+    },
+    {
+      "added_at": "2025-06-20 20:01:19",
+      "album": {
         "name": "Daniela Romo",
         "url": "https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 253066,
       "name": "Luna m\u00e1gica",
       "url": "https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb"
-    },
-    {
-      "added_at": "2025-06-20 20:01:19",
-      "album": {
-        "name": "NUEVA ERA",
-        "url": "https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU"
-      },
-      "artists": [
-        {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
-        }
-      ],
-      "duration_ms": 262680,
-      "name": "Amiga M\u00eda",
-      "url": "https://open.spotify.com/track/4cIJMoLbUOG1YEppzrfwUz"
     },
     {
       "added_at": "2025-06-20 20:01:19",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
-        "name": "21 Black Jack",
-        "url": "https://open.spotify.com/album/4jiWswx18F7x1dRMKmC9YR"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 206706,
-      "name": "Para Amarnos M\u00e1s",
-      "url": "https://open.spotify.com/track/3VDJrFMOFyYFGPtIocqkeP"
-    },
-    {
-      "added_at": "2025-06-20 20:01:19",
-      "album": {
         "name": "Siempre",
         "url": "https://open.spotify.com/album/1hvkChT8svwpuA5b5v8Ksr"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 231200,
       "name": "Qu\u00e9date Conmigo Esta Noche",
       "url": "https://open.spotify.com/track/0QTJFY7wrFxL9JlJfQvJzv"
+    },
+    {
+      "added_at": "2025-06-20 20:01:19",
+      "album": {
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/4jiWswx18F7x1dRMKmC9YR"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 206706,
+      "name": "Para Amarnos M\u00e1s",
+      "url": "https://open.spotify.com/track/3VDJrFMOFyYFGPtIocqkeP"
     },
     {
       "added_at": "2025-06-20 20:01:19",

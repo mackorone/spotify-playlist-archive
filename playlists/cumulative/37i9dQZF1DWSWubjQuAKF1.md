@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Briela
 
-492 songs - 23 hr 51 min
+494 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Everything Changes \(But I Won't\)](https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 3:51 | 2025-01-23 | 2025-03-21 |
 | [Fake ID](https://open.spotify.com/track/5gcokYc6au92x8EUbgJ3KR) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Fake ID](https://open.spotify.com/album/5QGGbcVRxSnDuRdQXJsKq2) | 2:32 | 2024-06-28 | 2024-10-05 |
 | [falochron](https://open.spotify.com/track/5o0OlsASevD0ArIop32BSf) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Serce](https://open.spotify.com/album/2DS7nuqs28amXxGagoQ6fh) | 2:40 | 2025-02-20 | 2025-03-28 |
-| [Fałszywy Alarm](https://open.spotify.com/track/3LD6yLhUAuuL5blEvO3CAz) | [elis](https://open.spotify.com/artist/0fSSRqeUCWHm0ChaK8G9w0) | [Fałszywy Alarm](https://open.spotify.com/album/60P2rzRXJzgHhwDBTfo55l) | 2:37 | 2025-06-19 |  |
+| [Fałszywy Alarm](https://open.spotify.com/track/3LD6yLhUAuuL5blEvO3CAz) | [elis](https://open.spotify.com/artist/0fSSRqeUCWHm0ChaK8G9w0) | [Fałszywy Alarm](https://open.spotify.com/album/60P2rzRXJzgHhwDBTfo55l) | 2:37 | 2025-06-19 | 2025-06-29 |
 | [Fikcje](https://open.spotify.com/track/4ohdSHxQPdFsXBUueLetd7) | [Anastazja Maciąg](https://open.spotify.com/artist/7FUSTVgPrNPjB3I3QYPby3) | [Fikcje](https://open.spotify.com/album/30272fiEqUNicMf5MoTo26) | 2:18 | 2024-06-28 | 2024-08-31 |
 | [Filozof](https://open.spotify.com/track/62FnWjof4qPzSVCUmmACaD) | [Zofie](https://open.spotify.com/artist/0OO46T770SxOKPhS7oVAze) | [Filozof](https://open.spotify.com/album/5suovL7M8Qg0HH5CH2OD0x) | 3:20 | 2024-09-13 | 2025-01-17 |
 | [FIXER](https://open.spotify.com/track/2mFIc7ofw7PMEu9jFduGih) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [FIXER](https://open.spotify.com/album/4B94tHapJFnI2OdjJ3Gc0h) | 2:49 | 2024-06-28 | 2024-07-12 |
@@ -150,6 +150,7 @@
 | [Great White Sharks](https://open.spotify.com/track/1ILOpSQ9QqKGY8ISNueZou) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Great White Sharks](https://open.spotify.com/album/6SvD1F9Gey9kY9GVaJkhbm) | 3:19 | 2025-05-08 | 2025-06-20 |
 | [Grzesiu](https://open.spotify.com/track/6BDV4Or3MFnqKNN9EH8p91) | [Oliver Gigon](https://open.spotify.com/artist/2FlyaCEJbYuZumkoDuFs0M) | [Grzesiu](https://open.spotify.com/album/4FZltuAdipxeoWAR0kYwWD) | 2:33 | 2024-06-28 | 2024-07-27 |
 | [Guess I'm better now](https://open.spotify.com/track/7zOroQXfgAFFfcTHMxb2F4) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7) | [Guess I'm better now](https://open.spotify.com/album/5Xom3m37TfRClXVepHBzrK) | 3:45 | 2025-01-23 | 2025-02-07 |
+| [Gut Feelings](https://open.spotify.com/track/3ywowXgaDXWyYt9S9w9fXI) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Gut Feelings](https://open.spotify.com/album/4qCCYyhWUZPvHS8XfnQayK) | 3:24 | 2025-06-27 |  |
 | [Głupi Lovesong](https://open.spotify.com/track/5cySYs07FKA5ZKWb3uzDRx) | [Julya](https://open.spotify.com/artist/3HLw79MyKKNt74t4hn3XgT) | [Głupi Lovesong](https://open.spotify.com/album/1EIKyJiAbP56pa14RorzQM) | 3:25 | 2025-02-06 | 2025-03-09 |
 | [Happy End](https://open.spotify.com/track/3QXntjMCbriyV6eUNtQB5e) | [PHERO](https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM) | [Happy End](https://open.spotify.com/album/125nGtnN3Je2tyzuiuDLXr) | 2:41 | 2025-01-16 | 2025-01-24 |
 | [Hej, nie mówiłam ci](https://open.spotify.com/track/2pbslxgbSgTxQ9iHRhclHj) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Hej, nie mówiłam ci](https://open.spotify.com/album/1XskKbAIvIzKoIWNzI1nwT) | 3:26 | 2025-01-30 |  |
@@ -175,6 +176,7 @@
 | [Jak się dziś masz?](https://open.spotify.com/track/4072h3LkxudmZImsxR9fCQ) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Po zmroku](https://open.spotify.com/album/0eqe0KUqvdMqa2GB3YtcQz) | 4:02 | 2025-03-13 | 2025-03-21 |
 | [Jak się trzymasz?](https://open.spotify.com/track/3UVT5F9UB61H6Q0p1fksI3) | [Promień](https://open.spotify.com/artist/7eijvMViYR2Qh5a3APXCwl) | [Jak się trzymasz?](https://open.spotify.com/album/72ki9XRChViCzvMWsn2ZBN) | 2:33 | 2024-07-18 | 2024-08-23 |
 | [jak to jest?](https://open.spotify.com/track/0ubUWjVsO0HcIThLXkEEff) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [jak to jest?](https://open.spotify.com/album/1YmW3cBML2TmEKWE82r8A6) | 3:41 | 2024-07-25 | 2024-09-28 |
+| [Jersey In July](https://open.spotify.com/track/17YAmnbsjNbnA2Cp4XbWtV) | [Dom Innarella](https://open.spotify.com/artist/48rd4biBGjgoUUtzDBsJoV) | [Jersey In July](https://open.spotify.com/album/2EK0qh8sBulbiiij4dZA0H) | 2:05 | 2025-06-27 |  |
 | [Jesień, jak się masz?](https://open.spotify.com/track/2RqYTTMBEgXpTeEivKPU4n) | [Żaneta Chełminiak](https://open.spotify.com/artist/4Lpo3zMUTdH69eWhxN3sfr), [Sarnula](https://open.spotify.com/artist/33qtxvzP4D4rDpSCqGTPCs) | [Jesień, jak się masz?](https://open.spotify.com/album/4ZO0ieUFZRw8h4FyuYkyOn) | 2:14 | 2024-11-07 | 2025-01-24 |
 | [Jest jak jest](https://open.spotify.com/track/2mFa5j7qkgBevlL3nvemWO) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Jest jak jest](https://open.spotify.com/album/4YFA93YNUERAacYRMkrEi7) | 2:48 | 2025-04-24 |  |
 | [Jestem](https://open.spotify.com/track/1POsHOctjuSpNU6uFTOqjq) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Jestem](https://open.spotify.com/album/5r0CDkFob3OnZ07m4b4Qqc) | 2:18 | 2024-08-30 | 2025-01-24 |
@@ -475,7 +477,7 @@
 | [You Killed The Music](https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [You Killed The Music](https://open.spotify.com/album/4ygQDkkZoggfIDXxOb1VJW) | 3:06 | 2025-02-20 | 2025-02-28 |
 | [you're such a good girl?](https://open.spotify.com/track/4ipDXHc66uOSZ1igOKvOvC) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [you're such a good girl?](https://open.spotify.com/album/6GdJmhqYSSqBuee6DsyjND) | 2:47 | 2025-06-05 |  |
 | [Za daleko](https://open.spotify.com/track/09y1MRKKZngQBDAwL7oOSJ) | [Klaudia Kowalik](https://open.spotify.com/artist/48xj6VTZJbWGgs2Pt1Slkj) | [Za daleko](https://open.spotify.com/album/4anrcjnwoyQWD8zh6Lhh1x) | 3:21 | 2024-09-06 | 2025-01-17 |
-| [Za późno](https://open.spotify.com/track/1Y2dOi6L9PGNzRTbX9HYtB) | [Ola Kędra](https://open.spotify.com/artist/50siyyCfKQBFMSprzxxS15) | [Za późno](https://open.spotify.com/album/17EBVVMzPBjUBBVj2KoX3T) | 2:53 | 2025-02-20 |  |
+| [Za późno](https://open.spotify.com/track/1Y2dOi6L9PGNzRTbX9HYtB) | [Ola Kędra](https://open.spotify.com/artist/50siyyCfKQBFMSprzxxS15) | [Za późno](https://open.spotify.com/album/17EBVVMzPBjUBBVj2KoX3T) | 2:53 | 2025-02-20 | 2025-06-29 |
 | [Zabawy Sercem](https://open.spotify.com/track/7ivio4VD40tDP5UsiGNnOJ) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [Zabawy Sercem](https://open.spotify.com/album/2Ibp0DGPnQfUmvTmpd1hsm) | 2:36 | 2024-06-28 | 2024-08-23 |
 | [zabierz mnie nad morze](https://open.spotify.com/track/7F2Gq8jGLgZen4XgLCKWaP) | [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [zabierz mnie nad morze](https://open.spotify.com/album/59UiYzMBzRGieC5egH19Ck) | 2:51 | 2024-06-28 | 2024-09-20 |
 | [zachody i wschody](https://open.spotify.com/track/4t3zMkgWZdmAcHqIr2coxU) | [.Bonaventura](https://open.spotify.com/artist/35Q5TQSaULwtlTkw44cokW) | [zachody i wschody](https://open.spotify.com/album/0N4hQMNPZtnctuGHgXr2zB) | 2:08 | 2025-06-05 |  |

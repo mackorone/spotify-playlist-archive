@@ -1,12 +1,12 @@
 {
   "description": "This is Lee Kernaghan. The essential tracks, all in one playlist.",
-  "num_followers": 17454,
+  "num_followers": 17457,
   "original_name": "This Is Lee Kernaghan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAAAwgZ0BjLMNAnt154McU4fI",
+  "snapshot_id": "aF3fAAAAAAD1CnoID7YdvZgu2mZJQZCW",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Rodeo",
-        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 254973,
-      "name": "The Way It Is - Remastered 2017",
-      "url": "https://open.spotify.com/track/5zt0PxcezbJTGgcZwzMz0A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Country Is Coming To Town",
         "url": "https://open.spotify.com/album/64oRoi0CXSpMDtXYLL5rlI"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 169160,
       "name": "Country Is Coming To Town",
       "url": "https://open.spotify.com/track/1Vzthm0II4q351e5rMQ5Jy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Rodeo",
+        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 254973,
+      "name": "The Way It Is - Remastered 2017",
+      "url": "https://open.spotify.com/track/5zt0PxcezbJTGgcZwzMz0A"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planet Country",
-        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 178053,
-      "name": "I Milk Cows - Remastered 2017",
-      "url": "https://open.spotify.com/track/0IKpM9zNbEeGgeweMuGciK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hat Town",
         "url": "https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 188960,
       "name": "Cowgirls Do - Remastered 2017",
       "url": "https://open.spotify.com/track/7iMhxEoTkfsdGJeJv9xG3b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Planet Country",
+        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 178053,
+      "name": "I Milk Cows - Remastered 2017",
+      "url": "https://open.spotify.com/track/0IKpM9zNbEeGgeweMuGciK"
     },
     {
       "added_at": null,

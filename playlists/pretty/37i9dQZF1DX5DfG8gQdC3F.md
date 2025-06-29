@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Lorde, Teddy Swims, Karan Aujla, Lizzo, KATSEYE and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,896 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,996 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 38 | [OK!](https://open.spotify.com/track/06a6mc2yUe5mzWduZ46vK0) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u) | [OK!](https://open.spotify.com/album/5zt9BqjjEKOIgAYiwgf46b) | 2:04 |
 | 39 | [Vanity](https://open.spotify.com/track/0AU2a60eNXKv2XP3CkXyos) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Vanity](https://open.spotify.com/album/2r1SLo3tTmw7w1omWMUlkW) | 3:30 |
 | 40 | [Left To Get Right](https://open.spotify.com/track/5KUD7qUTDNyyweV4zpjxsF) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Spanish Moss](https://open.spotify.com/album/7k56MAd5kMXPEGLlH8s13V) | 3:01 |
-| 41 | [Never Met Anyone Like You](https://open.spotify.com/track/4LXL1lRpybr8s4x0vkPQm5) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Never Met Anyone Like You](https://open.spotify.com/album/07v7okIuI77b0Y2twqEGDS) | 2:48 |
+| 41 | [Never Met Anyone Like You \(feat\. HARDY\)](https://open.spotify.com/track/4LXL1lRpybr8s4x0vkPQm5) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Never Met Anyone Like You \(feat\. HARDY\)](https://open.spotify.com/album/07v7okIuI77b0Y2twqEGDS) | 2:48 |
 | 42 | [I HAVEN'T SAID ENOUGH](https://open.spotify.com/track/40L1n9k9hAIgfDpIHTGvHi) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Make Yourself At Home](https://open.spotify.com/album/46jHQdOJZaEaunUrtYEqD1) | 3:19 |
 | 43 | [BIG FISH](https://open.spotify.com/track/0SVwDMyrEwruZUMAQvBiDo) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Pertinence](https://open.spotify.com/artist/1uCXC0T5m3qkDOfpdtar9N) | [BIG FISH](https://open.spotify.com/album/6ujl64XmHUGrhWP449wPFv) | 2:50 |
 | 44 | [Can We Talk?](https://open.spotify.com/track/1NeL0geu5M3lya479QuA6q) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Can We Talk?](https://open.spotify.com/album/5bzaSX78ybcXW55HFe8xZi) | 3:08 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 47 | [Solid Country Gold](https://open.spotify.com/track/7f0FidagqvvapT7TeaWfuP) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 3:28 |
 | 48 | [Ruthless](https://open.spotify.com/track/29IiZeoOp398AL7minYgUM) | [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Ruthless](https://open.spotify.com/album/6JtaoIH7wilmvkGv3RCDME) | 3:02 |
 | 49 | [Stare at Me](https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Stare at Me](https://open.spotify.com/album/5wWZ3Kdg4ZCQdFd3vwjiYu) | 3:55 |
-| 50 | [Feel Something](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Feel Something](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 |
+| 50 | [FEEL SOMETHING](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 |
 | 51 | [Deserve](https://open.spotify.com/track/3PcAs60k0pJlmpeGjWb5OK) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Deserve](https://open.spotify.com/album/2l5yiJNpmXYcZQu3qg4gCb) | 2:21 |
 | 52 | [Kissing You](https://open.spotify.com/track/57CmmMNs8wrvRsPzi9PvsY) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [crushed!](https://open.spotify.com/album/7nC5Tgbxu4wHdWyoFTex2h) | 2:41 |
 | 53 | [Better Broken](https://open.spotify.com/track/41WXld8gYKFvVJXkQwrrsA) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Better Broken](https://open.spotify.com/album/0xHHMmkbKy2zbOD8TW9xur) | 4:00 |

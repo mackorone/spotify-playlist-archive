@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 
 > This is Djonga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,737 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,755 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 27 | [HAT TRICK](https://open.spotify.com/track/44OcWyg9TzCFc4uirVKiBe) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Ladrão](https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM) | 4:18 |
 | 28 | [Xapralá](https://open.spotify.com/track/6l9UA6IlEGFl1RVAncqvwo) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:48 |
 | 29 | [CANÇÃO PRO MEU FILHO](https://open.spotify.com/track/7Duqg6O18CTST0bJX3RQWQ) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 3:32 |
-| 30 | [coração gelado](https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 3:04 |
-| 31 | [A Pior Música do Ano](https://open.spotify.com/track/4jT1MGqV0EHR9AGis0L4CG) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [A Pior Música do Ano](https://open.spotify.com/album/2Ff61nFXs7yOOhHMHJFEVV) | 3:39 |
+| 30 | [A Pior Música do Ano](https://open.spotify.com/track/4jT1MGqV0EHR9AGis0L4CG) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [A Pior Música do Ano](https://open.spotify.com/album/2Ff61nFXs7yOOhHMHJFEVV) | 3:39 |
+| 31 | [coração gelado](https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 3:04 |
 | 32 | [Hoje Não](https://open.spotify.com/track/2g4O6uYBRn8c6HbXc2yEd6) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Histórias da Minha Área](https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k) | 3:40 |
 | 33 | [UFA](https://open.spotify.com/track/78j1GSIty1L44MSHPZPTFr) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 5:51 |
 | 34 | [Ninguém Vai Te Superar](https://open.spotify.com/track/3tU3mMJYq6qU3h0HCwdn0S) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Ursão](https://open.spotify.com/artist/432YIh6zn1cWxxwLZ9hL66), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Púrpura](https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 49 | [Eu](https://open.spotify.com/track/0GTPvFFQDJdBzdy1mGew4m) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 5:10 |
 | 50 | [Criminal](https://open.spotify.com/track/3AdKHZtW6IapFJRgYmBTgv) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 4:48 |
 
-Snapshot ID: `aFyNgAAAAAD980DpIFCKPV9a5Ne/O+0h`
+Snapshot ID: `aF3fAAAAAAC22It8jeZdDsrlVnWKWQPI`

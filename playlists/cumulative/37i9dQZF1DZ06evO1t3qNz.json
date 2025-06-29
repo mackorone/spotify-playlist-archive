@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "Heroin",
+        "url": "https://open.spotify.com/album/4haogKoKcT5t0vGVJkBBY2"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256079,
+      "name": "Heroin",
+      "url": "https://open.spotify.com/track/5LkXpdUpSCHOO1yJI5aLbV"
+    },
+    {
+      "album": {
         "name": "9 Lives",
         "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
       },

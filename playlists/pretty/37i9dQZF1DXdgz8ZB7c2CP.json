@@ -1,6 +1,6 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Fred again..",
-  "num_followers": 842756,
+  "num_followers": 842787,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2025-06-26 22:00:25",
       "album": {
-        "name": "Telepathy",
-        "url": "https://open.spotify.com/album/6BVtOKSegIgu4IweeVv5Np"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Chuurch",
-          "url": "https://open.spotify.com/artist/4gJ3UKYnmB63uNuqlcAhTA"
-        }
-      ],
-      "duration_ms": 224176,
-      "name": "Telepathy",
-      "url": "https://open.spotify.com/track/1QTva42stCxhbcRXc3TQVl"
-    },
-    {
-      "added_at": "2025-06-26 22:00:25",
-      "album": {
         "name": "Out Of Bounds",
         "url": "https://open.spotify.com/album/5rZixCKsdcBlEvzwnEv5Yk"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 235909,
       "name": "Out Of Bounds",
       "url": "https://open.spotify.com/track/3xgcNkLwNfYxbK8w9MlLlk"
+    },
+    {
+      "added_at": "2025-06-26 22:00:25",
+      "album": {
+        "name": "Telepathy",
+        "url": "https://open.spotify.com/album/6BVtOKSegIgu4IweeVv5Np"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Chuurch",
+          "url": "https://open.spotify.com/artist/4gJ3UKYnmB63uNuqlcAhTA"
+        }
+      ],
+      "duration_ms": 224176,
+      "name": "Telepathy",
+      "url": "https://open.spotify.com/track/1QTva42stCxhbcRXc3TQVl"
     },
     {
       "added_at": "2025-06-26 22:00:25",
@@ -1479,26 +1479,22 @@
     {
       "added_at": "2025-06-26 22:00:25",
       "album": {
-        "name": "tell you straight (Badger & Jamezy's version)",
-        "url": "https://open.spotify.com/album/0Ph3hHTuRoigwGAQSe6Z6K"
+        "name": "Counting (Sammy Virji Remix)",
+        "url": "https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n"
       },
       "artists": [
         {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
         },
         {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        },
-        {
-          "name": "Jamezy",
-          "url": "https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem"
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         }
       ],
-      "duration_ms": 160457,
-      "name": "tell you straight (Badger & Jamezy's version)",
-      "url": "https://open.spotify.com/track/2SFYawRtOyqLiKP5MqgjOk"
+      "duration_ms": 214925,
+      "name": "Counting - Sammy Virji Remix",
+      "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
     },
     {
       "added_at": "2025-06-26 22:00:25",
@@ -1519,22 +1515,26 @@
     {
       "added_at": "2025-06-26 22:00:25",
       "album": {
-        "name": "Counting (Sammy Virji Remix)",
-        "url": "https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n"
+        "name": "tell you straight (Badger & Jamezy's version)",
+        "url": "https://open.spotify.com/album/0Ph3hHTuRoigwGAQSe6Z6K"
       },
       "artists": [
         {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
         },
         {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "Jamezy",
+          "url": "https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem"
         }
       ],
-      "duration_ms": 214925,
-      "name": "Counting - Sammy Virji Remix",
-      "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
+      "duration_ms": 160457,
+      "name": "tell you straight (Badger & Jamezy's version)",
+      "url": "https://open.spotify.com/track/2SFYawRtOyqLiKP5MqgjOk"
     },
     {
       "added_at": "2025-06-26 22:00:25",
@@ -1575,30 +1575,6 @@
     {
       "added_at": "2025-06-26 22:00:25",
       "album": {
-        "name": "Entangled",
-        "url": "https://open.spotify.com/album/1QEb39IfozGparLKKYjPel"
-      },
-      "artists": [
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        },
-        {
-          "name": "Tasha Baxter",
-          "url": "https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Kintsugi",
-      "url": "https://open.spotify.com/track/7IKTp0RWkrNgrdyIZ5Egk4"
-    },
-    {
-      "added_at": "2025-06-26 22:00:25",
-      "album": {
         "name": "So High",
         "url": "https://open.spotify.com/album/5UL4c4jq7vWAI2u3g7SBAA"
       },
@@ -1635,26 +1611,26 @@
     {
       "added_at": "2025-06-26 22:00:25",
       "album": {
-        "name": "On & On (nimino Remix)",
-        "url": "https://open.spotify.com/album/1kU0TUOmumAwURhV8V9be0"
+        "name": "Entangled",
+        "url": "https://open.spotify.com/album/1QEb39IfozGparLKKYjPel"
       },
       "artists": [
         {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
         },
         {
-          "name": "bbyclose",
-          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
         },
         {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+          "name": "Tasha Baxter",
+          "url": "https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og"
         }
       ],
-      "duration_ms": 179399,
-      "name": "On & On - nimino Remix",
-      "url": "https://open.spotify.com/track/1tx4NjqrgzaEKmaPECXMgZ"
+      "duration_ms": 160941,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/7IKTp0RWkrNgrdyIZ5Egk4"
     },
     {
       "added_at": "2025-06-26 22:00:25",
@@ -1675,6 +1651,30 @@
       "duration_ms": 156831,
       "name": "PUT IT DOWN - Killen. Remix",
       "url": "https://open.spotify.com/track/5ynb0P042k0EEIxdqzcsOW"
+    },
+    {
+      "added_at": "2025-06-26 22:00:25",
+      "album": {
+        "name": "On & On (nimino Remix)",
+        "url": "https://open.spotify.com/album/1kU0TUOmumAwURhV8V9be0"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        },
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 179399,
+      "name": "On & On - nimino Remix",
+      "url": "https://open.spotify.com/track/1tx4NjqrgzaEKmaPECXMgZ"
     },
     {
       "added_at": "2025-06-26 22:00:25",
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2025-06-26 22:00:25",
       "album": {
-        "name": "Out Of Control",
-        "url": "https://open.spotify.com/album/5Fzg5JxyGtVdt10KoyHwYc"
-      },
-      "artists": [
-        {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        },
-        {
-          "name": "borne",
-          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Out of Control",
-      "url": "https://open.spotify.com/track/6QPmvFHUfdCMg2ubBjZdFh"
-    },
-    {
-      "added_at": "2025-06-26 22:00:25",
-      "album": {
         "name": "Mr. Brightside",
         "url": "https://open.spotify.com/album/2Omja92GFGLYahWnSK5K9F"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 165517,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/4GKDKSHYMvlDJl3XxaeQlS"
+    },
+    {
+      "added_at": "2025-06-26 22:00:25",
+      "album": {
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/5Fzg5JxyGtVdt10KoyHwYc"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Out of Control",
+      "url": "https://open.spotify.com/track/6QPmvFHUfdCMg2ubBjZdFh"
     },
     {
       "added_at": "2025-06-26 22:00:25",
@@ -1983,26 +1983,26 @@
     {
       "added_at": "2025-06-26 22:00:25",
       "album": {
-        "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
-        "url": "https://open.spotify.com/album/4dKYCpl0dDy01Lw2msVJBU"
+        "name": "Mind Still (feat. blythe) [1991 Remix]",
+        "url": "https://open.spotify.com/album/45UiMbCWuwf7DkuUyZ6XnL"
       },
       "artists": [
         {
-          "name": "Billy Gillies",
-          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
         },
         {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+          "name": "blythe",
+          "url": "https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC"
         },
         {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
         }
       ],
-      "duration_ms": 176516,
-      "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
-      "url": "https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j"
+      "duration_ms": 204224,
+      "name": "Mind Still (feat. blythe) - 1991 Remix",
+      "url": "https://open.spotify.com/track/3lrrdKzUlvwglG1P350p6E"
     }
   ],
   "unique_name": "creamy",

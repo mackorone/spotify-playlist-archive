@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Tink & Bryson Tiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,091,561 likes - 275 songs - 14 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,091,671 likes - 275 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Can We Talk?](https://open.spotify.com/track/1NeL0geu5M3lya479QuA6q) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Can We Talk?](https://open.spotify.com/album/5bzaSX78ybcXW55HFe8xZi) | 3:08 |
 | 2 | [Bed of Roses](https://open.spotify.com/track/4hTBcHQ5DjYH9dbroi91if) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Bed of Roses](https://open.spotify.com/album/7EHL9PCseJVg7jLeF08G3S) | 2:29 |
 | 3 | [Read You Well \(feat\. Akeem Ali\)](https://open.spotify.com/track/6dnjn9VpqriRjP0wOCMdrq) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [Akeem Ali](https://open.spotify.com/artist/5aTVaxCp68WGSX8qRkVM3X) | [Read You Well \(feat\. Akeem Ali\)](https://open.spotify.com/album/3ZMN0o8ZUqT9WWduRUHsrF) | 2:31 |
-| 4 | [Feel Something](https://open.spotify.com/track/1aw5ELeIspIgEfhEp2OifK) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Feel Something](https://open.spotify.com/album/2f6vd2PcjNyMKdePhio5UW) | 2:32 |
+| 4 | [FEEL SOMETHING](https://open.spotify.com/track/1aw5ELeIspIgEfhEp2OifK) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/2f6vd2PcjNyMKdePhio5UW) | 2:32 |
 | 5 | [10AM](https://open.spotify.com/track/5WYv0entnRyawjX2mJ5QAK) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [10AM](https://open.spotify.com/album/2p3syjniBpHkLZGWB0o7FD) | 3:36 |
 | 6 | [Stare at Me](https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Stare at Me](https://open.spotify.com/album/5wWZ3Kdg4ZCQdFd3vwjiYu) | 3:55 |
 | 7 | [In The End](https://open.spotify.com/track/6E8vEr5MN0GH7xMW2jN8SD) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LK99: The Prelude](https://open.spotify.com/album/5DOLO9rRo3YyKQcbYsrkqR) | 4:05 |

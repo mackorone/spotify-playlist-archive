@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 14164,
+  "num_followers": 14176,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAABhiRoZ8pUWVMXBcDT/WEbh",
+  "snapshot_id": "aF3fAAAAAACwIVmLYbNekMOvO5frDIpI",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Antes Que A Terra Acabe",
+        "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
+        }
+      ],
+      "duration_ms": 266213,
+      "name": "Pav\u00e3o",
+      "url": "https://open.spotify.com/track/2KctlfjhWHJ3dTAxOGZ2UM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "44",
         "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
       },
@@ -271,34 +299,6 @@
       "duration_ms": 137553,
       "name": "Quem Jura Mente",
       "url": "https://open.spotify.com/track/2T9DdHrPsb40AecsOqCOJg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Antes Que A Terra Acabe",
-        "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Duda Raupp",
-          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
-        }
-      ],
-      "duration_ms": 266213,
-      "name": "Pav\u00e3o",
-      "url": "https://open.spotify.com/track/2KctlfjhWHJ3dTAxOGZ2UM"
     },
     {
       "added_at": null,
@@ -603,34 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set da Menorzinha 1.0",
-        "url": "https://open.spotify.com/album/6eYWnseUbpgOGdYDFyzHBz"
-      },
-      "artists": [
-        {
-          "name": "Mc Menorzinha",
-          "url": "https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ"
-        },
-        {
-          "name": "MC Marcelly",
-          "url": "https://open.spotify.com/artist/3XtuCcYVAgDABkXDLUk8BE"
-        },
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 324986,
-      "name": "Set da Menorzinha 1.0",
-      "url": "https://open.spotify.com/track/4PIZkFECempgwhCiCGiTjO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sexto Sentido",
         "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
       },
@@ -655,6 +627,34 @@
       "duration_ms": 172941,
       "name": "Ainda Sinto Muito",
       "url": "https://open.spotify.com/track/3EsXAyrOwQGyuau5lC55Ys"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set da Menorzinha 1.0",
+        "url": "https://open.spotify.com/album/6eYWnseUbpgOGdYDFyzHBz"
+      },
+      "artists": [
+        {
+          "name": "Mc Menorzinha",
+          "url": "https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ"
+        },
+        {
+          "name": "MC Marcelly",
+          "url": "https://open.spotify.com/artist/3XtuCcYVAgDABkXDLUk8BE"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 324986,
+      "name": "Set da Menorzinha 1.0",
+      "url": "https://open.spotify.com/track/4PIZkFECempgwhCiCGiTjO"
     },
     {
       "added_at": null,
@@ -735,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 134872,
+      "name": "Perdi o Interesse",
+      "url": "https://open.spotify.com/track/13WhN6sxeG8zemYgKa4xft"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Essa Minha Vida Bandida",
         "url": "https://open.spotify.com/album/3vdEEeAQYc0HPzetJ488cH"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 152380,
       "name": "Intriga",
       "url": "https://open.spotify.com/track/4VQOUertHGuID2EgEzVF30"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 134872,
-      "name": "Perdi o Interesse",
-      "url": "https://open.spotify.com/track/13WhN6sxeG8zemYgKa4xft"
     },
     {
       "added_at": null,
@@ -851,30 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ai Caralh*",
-        "url": "https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv"
-      },
-      "artists": [
-        {
-          "name": "RalphTheKiD",
-          "url": "https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Ai Caralh*",
-      "url": "https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sexto Sentido",
         "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
       },
@@ -903,26 +879,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "BANDIDA",
-        "url": "https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj"
+        "name": "Ai Caralh*",
+        "url": "https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv"
       },
       "artists": [
         {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+          "name": "RalphTheKiD",
+          "url": "https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw"
         },
         {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         }
       ],
-      "duration_ms": 179824,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F"
+      "duration_ms": 169655,
+      "name": "Ai Caralh*",
+      "url": "https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr"
     },
     {
       "added_at": null,
@@ -951,22 +927,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maldita",
-        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
+        "name": "BANDIDA",
+        "url": "https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj"
       },
       "artists": [
         {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         }
       ],
-      "duration_ms": 110071,
-      "name": "\u00daltima Vez",
-      "url": "https://open.spotify.com/track/6750ETCZArnUYN2KQbXGE7"
+      "duration_ms": 179824,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F"
     },
     {
       "added_at": null,
@@ -987,6 +967,46 @@
       "duration_ms": 104470,
       "name": "Sexto Sentido",
       "url": "https://open.spotify.com/track/34j5aln1VAyWwqqENvrPBS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 110071,
+      "name": "\u00daltima Vez",
+      "url": "https://open.spotify.com/track/6750ETCZArnUYN2KQbXGE7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "JayP",
+          "url": "https://open.spotify.com/artist/1lHdqt2eVlrG5ZYyWujdu3"
+        }
+      ],
+      "duration_ms": 106549,
+      "name": "Atacante",
+      "url": "https://open.spotify.com/track/4IJJsRnEZOXgglgVEXyyAi"
     },
     {
       "added_at": null,
@@ -1015,26 +1035,6 @@
       "duration_ms": 136970,
       "name": "Vers\u00e3o Brasileira",
       "url": "https://open.spotify.com/track/5g8LJXyeEiO8p9RCYlhXC9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "JayP",
-          "url": "https://open.spotify.com/artist/1lHdqt2eVlrG5ZYyWujdu3"
-        }
-      ],
-      "duration_ms": 106549,
-      "name": "Atacante",
-      "url": "https://open.spotify.com/track/4IJJsRnEZOXgglgVEXyyAi"
     },
     {
       "added_at": null,

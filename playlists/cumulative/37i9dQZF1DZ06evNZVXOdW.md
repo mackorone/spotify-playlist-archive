@@ -4,7 +4,7 @@
 
 > This is Arooj Aftab\. The essential tracks, all in one playlist.
 
-61 songs - 6 hr 41 min
+62 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Ovid's Metamorphoses](https://open.spotify.com/track/2XDK6xpeeESGknHrfXW9Od) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl) | 15:11 | 2023-05-02 | 2024-09-28 |
 | [Raat Ki Rani](https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Night Reign](https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf) | 5:13 | 2024-06-23 | 2025-03-16 |
 | [Raat Ki Rani](https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Raat Ki Rani](https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx) | 5:13 | 2024-04-20 | 2024-06-23 |
-| [raat ki rani \- Khruangbin Remix](https://open.spotify.com/track/44QLYLXDebPCkTzcnGX4XA) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [raat ki rani \(Khruangbin Remix\)](https://open.spotify.com/album/0hHxD2fUWlqAcjXwIIiqaj) | 4:35 | 2025-03-16 |  |
+| [raat ki rani \- Khruangbin Remix](https://open.spotify.com/track/44QLYLXDebPCkTzcnGX4XA) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [raat ki rani \(Khruangbin Remix\)](https://open.spotify.com/album/0hHxD2fUWlqAcjXwIIiqaj) | 4:35 | 2025-03-16 | 2025-06-29 |
+| [raat ki rani \- Sylvan Esso Remix](https://open.spotify.com/track/5HVcd64kAleAted0UOUxe1) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [raat ki rani \(Sylvan Esso Remix\)](https://open.spotify.com/album/4ZzjTtl00M2lGtMJhXBt33) | 4:30 | 2025-06-29 |  |
 | [Rainy Streets](https://open.spotify.com/track/4LS4KDv8dOJ4HNNX6bolN0) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Tails Noir \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 6:50 | 2023-05-10 |  |
 | [Raske Bhare Tore Nain](https://open.spotify.com/track/30gVSqUPmJMYNkBSdjVybD) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Dobara Phir Se](https://open.spotify.com/album/4WqRol95V0451jfUlVyJYA) | 2:56 | 2023-09-01 | 2023-12-14 |
 | [Saans Lo](https://open.spotify.com/track/6iPZbDZtoVyQv7spX7Tt8m) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:31 | 2023-05-02 |  |

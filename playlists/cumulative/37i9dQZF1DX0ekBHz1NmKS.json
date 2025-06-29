@@ -421,6 +421,24 @@
     },
     {
       "album": {
+        "name": "4L",
+        "url": "https://open.spotify.com/album/3NX60E3tiZN3Xx3U14xYdd"
+      },
+      "artists": [
+        {
+          "name": "Mondo",
+          "url": "https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151730,
+      "name": "4L",
+      "url": "https://open.spotify.com/track/13EHxr8bqdfqwXtyp411bf"
+    },
+    {
+      "album": {
         "name": "5656",
         "url": "https://open.spotify.com/album/5pcRjUDq57OcWVKf52OGyI"
       },
@@ -3645,6 +3663,24 @@
     },
     {
       "album": {
+        "name": "Boys will be Boys",
+        "url": "https://open.spotify.com/album/5HJuTYYesC7B2ewqFf8zBV"
+      },
+      "artists": [
+        {
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169447,
+      "name": "Boys will be Boys",
+      "url": "https://open.spotify.com/track/0kqLJ1b7GlMjBEXb8yAQXK"
+    },
+    {
+      "album": {
         "name": "Bra ihop",
         "url": "https://open.spotify.com/album/7r6cb6MK0xNBmqeGV9fKWC"
       },
@@ -3870,6 +3906,24 @@
       "duration_ms": 221120,
       "name": "Brinner",
       "url": "https://open.spotify.com/track/0emeZAXCygTTC6in4gEVtK"
+    },
+    {
+      "album": {
+        "name": "Broken Halo",
+        "url": "https://open.spotify.com/album/04j1OTKs16Db2n40x6Hrh4"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176213,
+      "name": "Broken Halo",
+      "url": "https://open.spotify.com/track/3Gg8RDjN0ewyQ2mFWPpIYH"
     },
     {
       "album": {
@@ -13448,7 +13502,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 173179,
       "name": "Hon f\u00e5r mig dansa",
       "url": "https://open.spotify.com/track/6cMKUMafbyVrXYoaHC9FcW"
@@ -16008,7 +16062,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 205685,
       "name": "I\u2019m gonna die",
       "url": "https://open.spotify.com/track/1WLL3Kstyvue7WeD71ejnq"
@@ -16080,7 +16134,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 197092,
       "name": "Ja visst g\u00f6r det ont",
       "url": "https://open.spotify.com/track/4Iz9mYKm1If0cX5WdKGlCz"

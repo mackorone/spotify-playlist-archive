@@ -4,7 +4,7 @@
 
 > This is Murda Beatz\. The essential tracks, all in one playlist.
 
-56 songs - 2 hr 40 min
+57 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [DOCTORS](https://open.spotify.com/track/4skjbY4ZWLhgMrEq6FNsFN) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 3:01 | 2023-12-13 |  |
 | [Don't Forget Me](https://open.spotify.com/track/54VfgEoBYuplzLH4gS7y7u) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:36 | 2023-12-13 |  |
 | [DOORS UNLOCKED \(feat\. Ty Dolla $ign & Polo G\)](https://open.spotify.com/track/7CmNyEQUpNSX6RMM5Fw3os) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [DOORS UNLOCKED \(feat\. Ty Dolla $ign & Polo G\)](https://open.spotify.com/album/1l8cso9L0nNR3GuiB5mKve) | 2:51 | 2023-12-13 |  |
+| [EUPHORIA](https://open.spotify.com/track/0kpDa6Wl0DT6rUcAuFKjYL) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [LUCY](https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi) | 4:11 | 2025-06-29 |  |
 | [FEFE \(feat\. Nicki Minaj & Murda Beatz\)](https://open.spotify.com/track/43VXG87ajppI8mO1Mxo8vu) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [DUMMY BOY \(Revised\)](https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr) | 2:59 | 2023-12-13 |  |
 | [Fendi \(feat\. Nicki Minaj & Murda Beatz\)](https://open.spotify.com/track/7H1591r6SfmZZh6BUE7Gue) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Fendi \(feat\. Nicki Minaj & Murda Beatz\)](https://open.spotify.com/album/00M4ecLNv6pzPmr5lheMPr) | 3:00 | 2023-12-13 |  |
 | [Good Evening](https://open.spotify.com/track/5HG4ipny0N1oGdeYkHbggO) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:17 | 2023-12-13 |  |

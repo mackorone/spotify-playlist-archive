@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 371754,
+  "num_followers": 371817,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -679,26 +679,6 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
-        "name": "Debussy: Suite bergamasque: III. Clair de lune",
-        "url": "https://open.spotify.com/album/3yGx9HJkwOT8ptSYmmmlld"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Andrew von Oeyen",
-          "url": "https://open.spotify.com/artist/37DoQwtzVqshZVU8WfmzW0"
-        }
-      ],
-      "duration_ms": 302986,
-      "name": "Debussy: Suite bergamasque, CD 82, L. 75: III. Clair de lune",
-      "url": "https://open.spotify.com/track/4DhPRzkpdXYExzwUrV6t3i"
-    },
-    {
-      "added_at": "2025-06-03 16:40:22",
-      "album": {
         "name": "Corea: Children's Song No. 1",
         "url": "https://open.spotify.com/album/4v9sxGj2nTgRz1FQi2GoXE"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 111178,
       "name": "Children's Song No. 1 (Arr. for guitar by Forbes Henderson) - Classical Session",
       "url": "https://open.spotify.com/track/6rpfMfLTgzfw7VzebK5Q9u"
+    },
+    {
+      "added_at": "2025-06-03 16:40:22",
+      "album": {
+        "name": "Debussy: Suite bergamasque: III. Clair de lune",
+        "url": "https://open.spotify.com/album/3yGx9HJkwOT8ptSYmmmlld"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Andrew von Oeyen",
+          "url": "https://open.spotify.com/artist/37DoQwtzVqshZVU8WfmzW0"
+        }
+      ],
+      "duration_ms": 302986,
+      "name": "Debussy: Suite bergamasque, CD 82, L. 75: III. Clair de lune",
+      "url": "https://open.spotify.com/track/4DhPRzkpdXYExzwUrV6t3i"
     },
     {
       "added_at": "2025-06-03 16:40:22",
@@ -1131,26 +1131,26 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
-        "name": "Piano Recital: Raekallio, Matti - Mozart, W.A. / Gluck, C.W. / Wagner, R. / Liszt, F. / Busoni, F. (Transcriptions - A Night at the Opera)",
-        "url": "https://open.spotify.com/album/6XpiHz1VSNQOR18Nj4pH0J"
+        "name": "Saint-Sa\u00ebns: Symphonic Poems",
+        "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
       },
       "artists": [
         {
-          "name": "Christoph Willibald Gluck",
-          "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
         },
         {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+          "name": "Orchestre National de Lille",
+          "url": "https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf"
         },
         {
-          "name": "Matti Raekallio",
-          "url": "https://open.spotify.com/artist/0BP5X6U7xuiSDl0zpr9JQg"
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
         }
       ],
-      "duration_ms": 244333,
-      "name": "Iphigenie en Aulide, Act II: Gavotte (arr. J. Brahms)",
-      "url": "https://open.spotify.com/track/5a6LNnUyLmQ0kPo93qpKJk"
+      "duration_ms": 376560,
+      "name": "Sarabande et rigaudon, Op. 93: Sarabande",
+      "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
     },
     {
       "added_at": "2025-06-03 16:40:22",
@@ -1175,26 +1175,26 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
-        "name": "Saint-Sa\u00ebns: Symphonic Poems",
-        "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
+        "name": "Piano Recital: Raekallio, Matti - Mozart, W.A. / Gluck, C.W. / Wagner, R. / Liszt, F. / Busoni, F. (Transcriptions - A Night at the Opera)",
+        "url": "https://open.spotify.com/album/6XpiHz1VSNQOR18Nj4pH0J"
       },
       "artists": [
         {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+          "name": "Christoph Willibald Gluck",
+          "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
         },
         {
-          "name": "Orchestre National de Lille",
-          "url": "https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf"
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
         },
         {
-          "name": "Jun Markl",
-          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+          "name": "Matti Raekallio",
+          "url": "https://open.spotify.com/artist/0BP5X6U7xuiSDl0zpr9JQg"
         }
       ],
-      "duration_ms": 376560,
-      "name": "Sarabande et rigaudon, Op. 93: Sarabande",
-      "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
+      "duration_ms": 244333,
+      "name": "Iphigenie en Aulide, Act II: Gavotte (arr. J. Brahms)",
+      "url": "https://open.spotify.com/track/5a6LNnUyLmQ0kPo93qpKJk"
     },
     {
       "added_at": "2025-06-03 16:40:22",
@@ -1479,8 +1479,8 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
-        "name": "Mendelssohn: Piano Works",
-        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
+        "name": "Mendelssohn",
+        "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
       },
       "artists": [
         {
@@ -1488,13 +1488,13 @@
           "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
         },
         {
-          "name": "Doomin Kim",
-          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
+          "name": "Philippe Cassard",
+          "url": "https://open.spotify.com/artist/5uYFQGCwvdTgxXz9IgZ64h"
         }
       ],
-      "duration_ms": 253920,
-      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
-      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
+      "duration_ms": 169653,
+      "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
+      "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
     },
     {
       "added_at": "2025-06-03 16:40:22",
@@ -1583,8 +1583,8 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
-        "name": "Mendelssohn",
-        "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
+        "name": "Mendelssohn: Piano Works",
+        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
       },
       "artists": [
         {
@@ -1592,13 +1592,13 @@
           "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
         },
         {
-          "name": "Philippe Cassard",
-          "url": "https://open.spotify.com/artist/5uYFQGCwvdTgxXz9IgZ64h"
+          "name": "Doomin Kim",
+          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
         }
       ],
-      "duration_ms": 169653,
-      "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
-      "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
+      "duration_ms": 253920,
+      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
+      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
     },
     {
       "added_at": "2025-06-03 16:40:22",

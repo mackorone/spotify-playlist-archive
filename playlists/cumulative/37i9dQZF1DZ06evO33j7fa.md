@@ -4,7 +4,7 @@
 
 > This is Nick Drake\. The essential tracks, all in one playlist.
 
-75 songs - 3 hr 33 min
+76 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [From The Morning](https://open.spotify.com/track/6meH4I9A4WZtD3z8hnQKqr) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:30 | 2022-09-16 |  |
 | [Fruit Tree](https://open.spotify.com/track/6x3HF1SdlVeZqOb7soisuh) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:46 | 2024-05-18 | 2024-07-19 |
 | [Fruit Tree \(Fame II\)](https://open.spotify.com/track/6k7hehzabvszVaK30kQDUC) | [Noah23](https://open.spotify.com/artist/4cJkQsiJJMrkZkMGmmeACL), [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Alchemical Crow](https://open.spotify.com/album/6pLLV1CY6DVSXW6RCjNKSC) | 2:30 | 2023-02-28 | 2023-08-08 |
+| [Fruit Tree \- Take 4, 12th November 1968](https://open.spotify.com/track/1FlOZSF41HIQkZIoM4d6XY) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Fruit Tree \(Take 4, 12th November 1968\)](https://open.spotify.com/album/6XFNi3DptxuKndrvH9zMq5) | 4:55 | 2025-06-29 |  |
 | [Hanging On A Star](https://open.spotify.com/track/3lpkLZfD2RJltSaAGgmoxb) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 3:23 | 2022-09-16 |  |
 | [Hazey Jane I](https://open.spotify.com/track/0HheBKrZSsUVyjhUbA3Viu) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K) | 4:28 | 2024-05-17 |  |
 | [Hazey Jane I](https://open.spotify.com/track/0l2MlJk8MAvKfYDvJ4nv6l) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5) | 4:29 | 2022-09-16 | 2024-05-17 |

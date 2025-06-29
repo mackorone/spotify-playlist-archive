@@ -4,7 +4,7 @@
 
 > All of it
 
-874 songs - 2 day 6 hr 34 min
+876 songs - 2 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 | 2025-06-02 |  |
 | [90210 \(feat\. Kacy Hill\)](https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:39 | 2025-06-02 |  |
 | [?](https://open.spotify.com/track/5e5hRYVA6SatSjvDiq9WXs) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Kurious](https://open.spotify.com/artist/2eDE3plOEiudDd9q1Ev3IQ) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/4UG3kz6qoHtNI1glQ2wdon) | 3:08 | 2025-06-02 |  |
+| [A Cold Sunday](https://open.spotify.com/track/1Y1jtaZOJYgXBl7lKdLc9o) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [A Cold Sunday](https://open.spotify.com/album/4peDphjWdwzhrTEnQbfZ4G) | 1:47 | 2025-06-28 |  |
 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 | 2025-06-02 |  |
 | [A Horse with No Name](https://open.spotify.com/track/5Ea66YQ4u2nePfHsM5UezQ) | [Patrick Carney](https://open.spotify.com/artist/6yPEOdG1RrtchjBRdnu8tu), [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [BoJack Horseman \(Music from the Netflix Original Series\)](https://open.spotify.com/album/1TCONwUgvvjqSYJFPUCUTW) | 4:35 | 2025-06-02 |  |
 | [A Lovely Night](https://open.spotify.com/track/4r9hiElqKWMPT4Z3vN2exq) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue), [Emma Stone](https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S) | 3:56 | 2025-06-02 |  |
@@ -129,6 +130,7 @@
 | [Ceux qui rêvent](https://open.spotify.com/track/7as88HhLbDLgobaSbJrVBs) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [À peu près](https://open.spotify.com/album/65JwIioaq6D5ExpRdtYpCM) | 1:58 | 2025-06-02 |  |
 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 | 2025-06-02 |  |
 | [Chandelier](https://open.spotify.com/track/1Go9q6KaCpAsQ0wkZFGzY2) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Chandelier](https://open.spotify.com/album/2mLsjWM9GyknWYlAXKZcOe) | 2:07 | 2025-06-02 |  |
+| [Chasing Paper](https://open.spotify.com/track/6B5nQ7VXNyyE3fIKPfpmWh) | [The Brudi Brothers](https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K) | [See You Soon](https://open.spotify.com/album/5Px7Ap7BUM4FMIMXuIV0uv) | 3:16 | 2025-06-28 |  |
 | [Check the Rhime](https://open.spotify.com/track/4HfxDJ0uLHTLe0fZrx0MbQ) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Low End Theory](https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a) | 3:36 | 2025-06-02 |  |
 | [Cherry](https://open.spotify.com/track/4sRmzVSedvFkENbSJ342Ex) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Cherry \(Deluxe\)](https://open.spotify.com/album/6OqegZkCUq29CJarqL8trP) | 4:31 | 2025-06-02 |  |
 | [Chicago Freestyle \(feat\. Giveon\)](https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:40 | 2025-06-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹  cover: Joan Thiele
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,827 likes - 110 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,830 likes - 110 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

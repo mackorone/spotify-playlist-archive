@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 214320,
       "name": "9 Months",
       "url": "https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh"
@@ -12776,7 +12776,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 162611,
       "name": "Dog Days",
       "url": "https://open.spotify.com/track/3rEOlrPUfhA0pwEiSM2krX"
@@ -18796,7 +18796,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 231099,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/6r0qKA2fBMaemwQFfENRRA"
@@ -20546,7 +20546,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 176483,
       "name": "GREAT",
       "url": "https://open.spotify.com/track/65BeHRRbpz0AL9AsyO4u6u"
@@ -28936,10 +28936,40 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 208384,
       "name": "Life in a Wind - Blanka Remix",
       "url": "https://open.spotify.com/track/000JwtANwYYLS0QGKCtR0E"
+    },
+    {
+      "album": {
+        "name": "Life in a Wind (Blanka Remix)",
+        "url": "https://open.spotify.com/album/3TIOi3arQttB0EeA3ToD23"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        },
+        {
+          "name": "Wolfgang Valbrun",
+          "url": "https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5"
+        },
+        {
+          "name": "Blanka",
+          "url": "https://open.spotify.com/artist/5ApOEJzMyQ05McnLtwoTRi"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208384,
+      "name": "Life in a Wind - Blanka Remix - Instrumental",
+      "url": "https://open.spotify.com/track/35CtnSKqfD4dXk0DutZzzE"
     },
     {
       "album": {
@@ -39316,7 +39346,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 188250,
       "name": "PREACHER MAN",
       "url": "https://open.spotify.com/track/24rgAXRpEipfaxJNElCXPE"
@@ -44878,6 +44908,32 @@
       "duration_ms": 188000,
       "name": "Soul Survivorz",
       "url": "https://open.spotify.com/track/0yGk99GrwfKrdDlER3qBij"
+    },
+    {
+      "album": {
+        "name": "NEVER STOP",
+        "url": "https://open.spotify.com/album/1iQFI8rAzbBaXGLGLEytwX"
+      },
+      "artists": [
+        {
+          "name": "King Combs",
+          "url": "https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159985,
+      "name": "SOULS OUTRO",
+      "url": "https://open.spotify.com/track/01P9nKYTM84mqju6ojrwgY"
     },
     {
       "album": {

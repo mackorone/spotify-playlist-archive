@@ -4,7 +4,7 @@
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-135 songs - 7 hr 39 min
+136 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Deja De Chingar](https://open.spotify.com/track/72qLlWqf657e3hEkP7LkHx) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Deja De Chingar](https://open.spotify.com/album/0orJw54cnLfLmYPSVpkj64) | 3:19 | 2022-11-29 | 2023-08-20 |
 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 | 2022-09-10 |  |
 | [Diganle](https://open.spotify.com/track/0p4jQi8PPHpdtq43nrsNqs) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Díganle](https://open.spotify.com/album/5koK3UlXNmcyqYkrBLeM5b) | 2:55 | 2024-07-21 | 2024-11-05 |
+| [Déjame Ser](https://open.spotify.com/track/5I70KB5no6a1ecaVbbXc4d) | [Los Nenes MX](https://open.spotify.com/artist/7eeVv5cv5tlW4LB6FqIRLj), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Déjame Ser](https://open.spotify.com/album/7qd53L8tRnHFSnkB6ExtFU) | 3:25 | 2025-06-29 |  |
 | [Díganle](https://open.spotify.com/track/5QnDgXOeUQtDac2uqWecK9) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Díganle](https://open.spotify.com/album/0KvyHutI4hdGctz0SnhT9z) | 3:00 | 2023-09-15 | 2025-06-05 |
 | [El Amigazo \(En Vivo\)](https://open.spotify.com/track/5UIA7eyt28flCy6kwIiuZ1) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [El Amigazo \(En Vivo\)](https://open.spotify.com/album/6B0HeqQznYY6f7WEfQUjOJ) | 3:13 | 2022-09-03 | 2022-12-27 |
 | [El De La Mochila](https://open.spotify.com/track/5jEtP3pBbWthzCzhO0kCyC) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El De La Mochila](https://open.spotify.com/album/6aZFylXVOis3BvUbUAoHum) | 3:56 | 2023-11-10 | 2023-12-16 |
@@ -64,7 +65,7 @@
 | [Lo Que Yo Sentia](https://open.spotify.com/track/5BIpx4Z3ubZDJU2vRJIRR4) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Estas Perdida](https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb) | 3:37 | 2022-06-01 |  |
 | [Lo Sé](https://open.spotify.com/track/6FOdDUjwDhXKj7SO2wONlo) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 3:05 | 2022-06-01 | 2022-12-06 |
 | [Los Compadres](https://open.spotify.com/track/1YvHZhfE5wj4kpGdu5fUdA) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Buenas Obras](https://open.spotify.com/album/6gDP1ynRcVtBCkhgle34Oy) | 3:34 | 2022-06-05 | 2022-07-07 |
-| [Luchon](https://open.spotify.com/track/3SbiPpfN0l8BmeQZOFKUWu) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Luchon](https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz) | 2:43 | 2022-06-01 |  |
+| [Luchon](https://open.spotify.com/track/3SbiPpfN0l8BmeQZOFKUWu) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Luchon](https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz) | 2:43 | 2022-06-01 | 2025-06-29 |
 | [Mayonesa](https://open.spotify.com/track/4ufTPmPBN7jWN92U7IIH9Y) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Mayonesa](https://open.spotify.com/album/1pjnTDvXAikn1T3L7FJSFg) | 3:08 | 2025-01-12 | 2025-02-12 |
 | [Me Equivoqué](https://open.spotify.com/track/4CQBDMKxrXyBHn0rK2Y1IN) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Me Equivoqué](https://open.spotify.com/album/7iFGsdLVmXjCiPeVdDTYX7) | 3:34 | 2023-05-02 | 2023-11-11 |
 | [Me Gusta Tal Cual](https://open.spotify.com/track/6Bicjkygoy4ZQ8nAeFF9we) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Vuelvo A Emborracharme](https://open.spotify.com/album/0NclQA7R8qZWp2ARikl4iQ) | 3:12 | 2023-07-18 | 2024-05-11 |

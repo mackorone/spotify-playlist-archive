@@ -1,6 +1,6 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 10114,
+  "num_followers": 10133,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "Me Gusta",
+        "url": "https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "duration_ms": 158267,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "CARAMELOS",
         "url": "https://open.spotify.com/album/3xfXp5kKVbWTMvO7bmOGWQ"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 165818,
       "name": "CARAMELOS",
       "url": "https://open.spotify.com/track/4gC0DGimATZgd8lZW4n0aR"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Me Gusta",
-        "url": "https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        }
-      ],
-      "duration_ms": 158267,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "A fuego (Bizarrap Remix)",
-        "url": "https://open.spotify.com/album/3s7yFDaJ8eEFQyHvhvD0ap"
-      },
-      "artists": [
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        }
-      ],
-      "duration_ms": 239078,
-      "name": "A fuego - Bizarrap Remix",
-      "url": "https://open.spotify.com/track/3AKwyujeGxTQSZNbx9Ka3c"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "3 Am",
         "url": "https://open.spotify.com/album/67eQL3vf8NK05q8rAwiDyu"
       },
@@ -1887,22 +1867,6 @@
       "duration_ms": 190084,
       "name": "3 Am",
       "url": "https://open.spotify.com/track/6R3iF0udMuVWpA7RECJPYd"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2YFllgJobsJEc0PCtfIxy6"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 182183,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/2rZB6indPhp8C5AZK1PpkS"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1931,6 +1895,46 @@
       "duration_ms": 314626,
       "name": "Percocet - Remix",
       "url": "https://open.spotify.com/track/7H6OwsBoSI4BVWm5M7MTOQ"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Ayer Me Llam\u00f3 Mi Ex (feat. Lenny Santos)",
+        "url": "https://open.spotify.com/album/0H01i14lrDJtgGU2LFImWL"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Lenny Santos",
+          "url": "https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "Ayer Me Llam\u00f3 Mi Ex (feat. Lenny Santos)",
+      "url": "https://open.spotify.com/track/6C6mUonH6MNdSg5pw7kOc9"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "A fuego (Bizarrap Remix)",
+        "url": "https://open.spotify.com/album/3s7yFDaJ8eEFQyHvhvD0ap"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 239078,
+      "name": "A fuego - Bizarrap Remix",
+      "url": "https://open.spotify.com/track/3AKwyujeGxTQSZNbx9Ka3c"
     },
     {
       "added_at": "2024-07-26 04:59:00",

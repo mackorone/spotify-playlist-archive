@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: ラッキーオールドサン Lucky Old Sun
 
-2,491 songs - 6 day 11 hr 30 min
+2,492 songs - 6 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1962,6 +1962,7 @@
 | [ボーイ・フッド](https://open.spotify.com/track/2d8lehd5MYTs1XaSj1dV5x) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [ボーイ・フッド](https://open.spotify.com/album/5sgr7UJL76fw12JsD3qC61) | 3:13 | 2023-01-24 | 2023-02-08 |
 | [ポラロイド](https://open.spotify.com/track/1meYLsqbLSkjMpBS2DDx6T) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [ポラロイド](https://open.spotify.com/album/6Lg5PtOYz7cPcrzUcQge10) | 3:14 | 2023-02-07 | 2023-02-09 |
 | [マイディア](https://open.spotify.com/track/1oItY0AjKHFSWjQbtxvrks) | [ベアディーコリー](https://open.spotify.com/artist/0jCmoGW1ThlKBah1pC4efB) | [マイディア](https://open.spotify.com/album/722nCO8CY1QnvjOPmBETHD) | 3:31 | 2024-08-06 | 2024-09-02 |
+| [マイル feat.Gotch](https://open.spotify.com/track/3cizKKoPTxCLDrzEFF1coJ) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi), [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc) | [マイル feat.Gotch](https://open.spotify.com/album/5utHzbAEzHxGa2RMWoAPpu) | 3:15 | 2025-06-24 |  |
 | [マイ・ガール](https://open.spotify.com/track/03U4Qix6CbNgj9Dhlmlh58) | [Osteoleuco](https://open.spotify.com/artist/42u1RJUE0BhUW7VkXntJ99), [The Flipside](https://open.spotify.com/artist/3mY04DjYiRz57V8FeLyuJ1) | [マイ・ガール](https://open.spotify.com/album/6P9RcbmKzLOFzWDqGSprbO) | 3:47 | 2024-04-09 | 2024-04-17 |
 | [マイ・ロスト・シティー \- Recorded at LIQUIDROOM 2023.12.3](https://open.spotify.com/track/7td4nCFdsA3ylPAF0vMMPX) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [Live O Rec](https://open.spotify.com/album/4bSPM5YprzQ2oEVwN3tGoL) | 4:56 | 2024-09-10 | 2024-10-30 |
 | [マクドナルドのコーヒー](https://open.spotify.com/track/4lDhiYQwDNQgDQh1Ua0uG1) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [マクドナルドのコーヒー](https://open.spotify.com/album/1z4Ne7xYUj6dRjHyysBXNj) | 3:14 | 2023-09-21 | 2023-09-23 |
@@ -1984,7 +1985,7 @@
 | [ラストソング](https://open.spotify.com/track/0IOTbTpjTx1aAt7a25TGPg) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [ラストソング](https://open.spotify.com/album/7ynKhVVU90AJdf2hmWWqir) | 3:31 | 2023-07-04 | 2023-07-06 |
 | [ラッキー](https://open.spotify.com/track/56JwLFPIor1uzTZCMrkLWj) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [ラッキー/さびしくない](https://open.spotify.com/album/0l2nlCoKeohFcI3vnF23Sq) | 3:04 | 2024-04-16 | 2024-09-18 |
 | [ラブじゃん](https://open.spotify.com/track/2vnWduAon47Ra9Th9dCAuY) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [ラブじゃん](https://open.spotify.com/album/6pTeKfeTsyxknsyH4YrpSF) | 3:20 | 2023-01-17 | 2023-02-22 |
-| [ラブコメ](https://open.spotify.com/track/3NlIznCiPTTYYjxoVXHV7v) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [ラブコメ](https://open.spotify.com/album/4zcHOrQn3reSiyvHdlJJiy) | 4:15 | 2025-03-25 |  |
+| [ラブコメ](https://open.spotify.com/track/3NlIznCiPTTYYjxoVXHV7v) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [ラブコメ](https://open.spotify.com/album/4zcHOrQn3reSiyvHdlJJiy) | 4:15 | 2025-03-25 | 2025-06-29 |
 | [ラブソング](https://open.spotify.com/track/1OOpz8FwsB7h1YrFEHfwha) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [あいについて](https://open.spotify.com/album/4yhCBM3SysopK5WedJDCgw) | 3:02 | 2023-01-31 | 2023-02-22 |
 | [ラブリーおはよう愛してるよ！](https://open.spotify.com/track/2XegY1XhqepwviRjnv1QNH) | [ZOMBIE\-CHANG](https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U) | [ラブリーおはよう愛してるよ！](https://open.spotify.com/album/3VZWsLi52ovJZcN5OEJQPm) | 3:29 | 2024-08-06 | 2024-09-02 |
 | [ラプス](https://open.spotify.com/track/47hW5TPsOjph8hA9kxNdcj) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6uBzTBbMEBkLEDtEkklOBy) | 3:55 | 2023-04-18 | 2023-04-20 |

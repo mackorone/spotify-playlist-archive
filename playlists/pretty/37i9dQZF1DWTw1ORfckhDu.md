@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Davy, OLGA ja Victor Nordis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,344 likes - 52 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,348 likes - 52 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Don Julio](https://open.spotify.com/track/5pOJlSzz39LNDSTbM9556B) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Don Julio](https://open.spotify.com/album/7wJ9y8b9Yf5t9awj3z1IkX) | 2:55 |
-| 2 | [MEININKI](https://open.spotify.com/track/4zH8TU2iPWc6cu4gwGoEZ7) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [WILLEM](https://open.spotify.com/artist/2u66MppjHvqRsfLMYfn0Sv) | [DENIM](https://open.spotify.com/album/59K4XTz4XemdL5XqDr2ZEa) | 3:21 |
+| 2 | [Oma Vika](https://open.spotify.com/track/1XVaev7QO2VXE9px7ZVYQU) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Oma Vika](https://open.spotify.com/album/263PqyFcT0ybALVIkRKZvt) | 2:57 |
 | 3 | [Supermalli](https://open.spotify.com/track/0aLV2IaAn79c588GyX2udS) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT), [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub), [Victor Nordis](https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp) | [Supermalli](https://open.spotify.com/album/0bu0wwgLUGXvmqDV4LSbvD) | 3:01 |
-| 4 | [Rastat \(feat\. Jukka Poika\)](https://open.spotify.com/track/04URb3phAOfTFNB5f8pyEm) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [Jukka Poika](https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn) | [Rastat / Nelson Mandela \(feat\. Jukka Poika\)](https://open.spotify.com/album/140ZYIlhbrz18KaTvD394H) | 3:00 |
-| 5 | [2 tone \(feat\. Ares\)](https://open.spotify.com/track/5Fggrl5jqihP50JYhFUeLt) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [2 tone \(feat\. Ares\)](https://open.spotify.com/album/6GvQ3Y54cSOMg5bQOekotv) | 2:59 |
-| 6 | [Oma Vika](https://open.spotify.com/track/1XVaev7QO2VXE9px7ZVYQU) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Oma Vika](https://open.spotify.com/album/263PqyFcT0ybALVIkRKZvt) | 2:57 |
+| 4 | [MEININKI](https://open.spotify.com/track/4zH8TU2iPWc6cu4gwGoEZ7) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [WILLEM](https://open.spotify.com/artist/2u66MppjHvqRsfLMYfn0Sv) | [DENIM](https://open.spotify.com/album/59K4XTz4XemdL5XqDr2ZEa) | 3:21 |
+| 5 | [Rastat \(feat\. Jukka Poika\)](https://open.spotify.com/track/04URb3phAOfTFNB5f8pyEm) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [Jukka Poika](https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn) | [Rastat / Nelson Mandela \(feat\. Jukka Poika\)](https://open.spotify.com/album/140ZYIlhbrz18KaTvD394H) | 3:00 |
+| 6 | [2 tone \(feat\. Ares\)](https://open.spotify.com/track/5Fggrl5jqihP50JYhFUeLt) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [2 tone \(feat\. Ares\)](https://open.spotify.com/album/6GvQ3Y54cSOMg5bQOekotv) | 2:59 |
 | 7 | [Kävi miten kävi \(feat\. emma & matilda\)](https://open.spotify.com/track/6PWCKV8BtCneJCDOAlwyDr) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Kävi miten kävi \(feat\. emma & matilda\)](https://open.spotify.com/album/41JGibvkIPYPQheqaE8nhi) | 3:11 |
 | 8 | [Tilanne vaatii](https://open.spotify.com/track/6T2IVIG3RGB7ImxV9pglP8) | [BÄMÄ](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1) | [Tilanne vaatii](https://open.spotify.com/album/6UF8RIXjESZLMQFcsjIuLs) | 2:47 |
 | 9 | [ikilapsi](https://open.spotify.com/track/4Ip1CSS61Oh3EUpDWRvpB8) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [ikilapsi](https://open.spotify.com/album/6tUuGvszWmqvErCRgLKAiG) | 3:15 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 51 | [Jin & jang](https://open.spotify.com/track/2Q0bLknz24WfkG6HY9z5gQ) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [Jin & jang](https://open.spotify.com/album/2ZIyHmD90qxesvUTazUs0K) | 2:38 |
 | 52 | [Liian Monta Mestaa](https://open.spotify.com/track/6axn0XqR2rhAHaVngTaXay) | [Young Mike](https://open.spotify.com/artist/6fWwDqSHfbKp204VY6DgQa) | [Liian Monta Mestaa](https://open.spotify.com/album/3KLFPs4IIu1aYlW1UR60r9) | 2:48 |
 
-Snapshot ID: `aF21FgAAAAAN9tx4zkcfyrdkzDQPpSTt`
+Snapshot ID: `aGAkqgAAAADm+ldW/zAkfeTPGiit4NSn`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Lorde, Royel Otis, Lewis Capaldi, Lizzo, SZA, Alex Warren, ROSÉ + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,649 likes - 97 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,657 likes - 97 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 36 | [70 Somethin'](https://open.spotify.com/track/26LCArG5skQb7wkblgc021) | [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1) | [70 Somethin'](https://open.spotify.com/album/6zkOqeyzafN4wFjE5km4Ci) | 3:26 |
 | 37 | [Gameboy](https://open.spotify.com/track/2HMvIK2S3oC6OABl2YXAx1) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4Bd27JFKxVcDPYGUkLHKPi) | 3:05 |
 | 38 | [June Guitar](https://open.spotify.com/track/04D3vlBBu49iC0XP7ys1i5) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [June Guitar](https://open.spotify.com/album/7x28LDVChhkBuYz87lTuuC) | 3:52 |
-| 39 | [Never Met Anyone Like You](https://open.spotify.com/track/4LXL1lRpybr8s4x0vkPQm5) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Never Met Anyone Like You](https://open.spotify.com/album/07v7okIuI77b0Y2twqEGDS) | 2:48 |
+| 39 | [Never Met Anyone Like You \(feat\. HARDY\)](https://open.spotify.com/track/4LXL1lRpybr8s4x0vkPQm5) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Never Met Anyone Like You \(feat\. HARDY\)](https://open.spotify.com/album/07v7okIuI77b0Y2twqEGDS) | 2:48 |
 | 40 | [Unsatisfied Heart](https://open.spotify.com/track/54tyK1tUpNgxSVFrLJb1wk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks II: The Lost Albums](https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37) | 5:45 |
 | 41 | [Sunday In Brooklyn](https://open.spotify.com/track/240LThmj6xe6pBbJXMxWd4) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [NO RAP ON SUNDAY](https://open.spotify.com/album/3h1mhf59nhAhNcg68ITKmM) | 3:57 |
 | 42 | [davina mccall](https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [davina mccall](https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf) | 3:47 |

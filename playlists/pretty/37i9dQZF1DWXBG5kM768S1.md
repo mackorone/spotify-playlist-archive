@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,200 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,213 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 34 | [Lilla vackra Anna](https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg) | [Finn Kalvik](https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an) | [Kom ut kom fram](https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF) | 3:46 |
 | 35 | [Den Fyrste Song](https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe) | [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5) | [Kråkeviks Songbok](https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf) | 2:58 |
 | 36 | [Til alle tider](https://open.spotify.com/track/6kr1xwYYaIH7ZQa3uBE921) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Bauta \- En hyllest til Bjørn Eidsvåg](https://open.spotify.com/album/1cj2bGhHCxMdx3wNr9u5OF) | 3:33 |
-| 37 | [Evig kvile](https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Evig kvile](https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq) | 3:09 |
-| 38 | [Annen som du](https://open.spotify.com/track/4DMSneArB5W5BTAz8A2ij4) | [Trang Fødsel](https://open.spotify.com/artist/3pOEfaqokP940PuLUoho3l) | [Annen som du](https://open.spotify.com/album/1WxHEl0KfSA2h25BcoNFGS) | 3:37 |
+| 37 | [Annen som du](https://open.spotify.com/track/4DMSneArB5W5BTAz8A2ij4) | [Trang Fødsel](https://open.spotify.com/artist/3pOEfaqokP940PuLUoho3l) | [Annen som du](https://open.spotify.com/album/1WxHEl0KfSA2h25BcoNFGS) | 3:37 |
+| 38 | [Evig kvile](https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Evig kvile](https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq) | 3:09 |
 | 39 | [Falle til ro \(From the Original Netflix Series "Home For Christmas"\)](https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Falle til ro \(From the Original Netflix Series "Home For Christmas"\)](https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP) | 4:26 |
 | 40 | [De Nære Ting](https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz) | [Ingrid Olava](https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ) | [De Nære Ting](https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih) | 2:18 |
 | 41 | [Varherres Klinkekuler](https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Hildringstimer \- 14 velvalgte viser](https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x) | 3:07 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 45 | [Aldri i livet](https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Aldri i livet](https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r) | 3:08 |
 | 46 | [Heile veien ned](https://open.spotify.com/track/37BdNAd2PInnfRCVeq6HOi) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Heile veien ned](https://open.spotify.com/album/1bPeKBeiPxL33kcyI4GdzE) | 4:24 |
 | 47 | [Mi Pia\. Din Gutt.](https://open.spotify.com/track/1jdOvBR6D91doFRheJ3SfF) | [Ola Bremnes](https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E) | [Livstegn](https://open.spotify.com/album/1wXz7GJWTvjQpn9CliOvcb) | 2:18 |
-| 48 | [Så fullt av ja](https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [3 sanger](https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s) | 4:41 |
-| 49 | [Håp](https://open.spotify.com/track/0eVz2IPvC2FrIOHMQbi01j) | [Jo Nesbø](https://open.spotify.com/artist/1KcYLo3wUtAqUsLfhZ5iA4) | [Historien om et band](https://open.spotify.com/album/2NIUZrmE3Wchk32sQHed1e) | 5:36 |
+| 48 | [Håp](https://open.spotify.com/track/0eVz2IPvC2FrIOHMQbi01j) | [Jo Nesbø](https://open.spotify.com/artist/1KcYLo3wUtAqUsLfhZ5iA4) | [Historien om et band](https://open.spotify.com/album/2NIUZrmE3Wchk32sQHed1e) | 5:36 |
+| 49 | [Så fullt av ja](https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [3 sanger](https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s) | 4:41 |
 | 50 | [Dørstokkmila](https://open.spotify.com/track/0MZQ31wi9L4UyOfjjgV26s) | [Tre Små Kinesere](https://open.spotify.com/artist/6ZKFdIahCPNYqXuISNaosB) | [De aller beste fra Tre små kinesere](https://open.spotify.com/album/18wN36vWvcoTuVsFjDJGSx) | 2:51 |
 
 Snapshot ID: `Z/g/awAAAAC+9zg6hSH4SqiD1iHznkJO`

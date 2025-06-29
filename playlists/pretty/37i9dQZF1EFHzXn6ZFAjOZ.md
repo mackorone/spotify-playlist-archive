@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,856 likes - 130 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,881 likes - 130 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 129 | [Magic](https://open.spotify.com/track/6Is9lEdN1IJQcD6sfFJiTo) | [Rachel Alejandro](https://open.spotify.com/artist/4oMk1QJuMWUWrNmchRJGWL) | [Heart's Desire](https://open.spotify.com/album/2hx6aKJg9nktlobIjmFiW8) | 3:12 |
 | 130 | [Love of Your Life \(8\-Bit Raye Emulation\)](https://open.spotify.com/track/15fJbp7AERNZFMrbwDgAn5) | [8\-Bit Arcade](https://open.spotify.com/artist/21VBNkZvKxrI9zmfFRxXvn) | [By Request, Vol\. 115](https://open.spotify.com/album/3qwzSKXMLI6J1IjTbM91cn) | 3:09 |
 
-Snapshot ID: `Ab1SqAAAAAA8xDHLwAO7v9QYF6FSXKH/`
+Snapshot ID: `Ab1YSAAAAAA/8YdeI32NMR3e+J8qSJKc`

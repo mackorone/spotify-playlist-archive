@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: f3miii",
-  "num_followers": 36688,
+  "num_followers": 36706,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2025-06-26 23:00:16",
       "album": {
-        "name": "Trouble Symphony",
-        "url": "https://open.spotify.com/album/61bRPKGMbA5rsNOZAdmLos"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "DJ Tennis",
-          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
-        }
-      ],
-      "duration_ms": 236399,
-      "name": "Trouble Symphony",
-      "url": "https://open.spotify.com/track/6hu6bSo7Vsu4iv1zKvlCxJ"
-    },
-    {
-      "added_at": "2025-06-26 23:00:16",
-      "album": {
         "name": "Tom\u00e1s",
         "url": "https://open.spotify.com/album/19BB8M6tNxHMOUWKbxBL0c"
       },
@@ -1151,26 +1131,22 @@
     {
       "added_at": "2025-06-26 23:00:16",
       "album": {
-        "name": "Rush (Missing Out On Me)",
-        "url": "https://open.spotify.com/album/5zZjFkMGkiYboF20Vlpgfg"
+        "name": "Trouble Symphony",
+        "url": "https://open.spotify.com/album/61bRPKGMbA5rsNOZAdmLos"
       },
       "artists": [
         {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
         },
         {
-          "name": "cherry chola",
-          "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
-        },
-        {
-          "name": "Purient",
-          "url": "https://open.spotify.com/artist/5Zh9boviMHxXWTt26JlxAh"
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
         }
       ],
-      "duration_ms": 144802,
-      "name": "Rush (Missing Out On Me)",
-      "url": "https://open.spotify.com/track/7MPgC1x3leOFwZelTxYgs9"
+      "duration_ms": 236399,
+      "name": "Trouble Symphony",
+      "url": "https://open.spotify.com/track/6hu6bSo7Vsu4iv1zKvlCxJ"
     },
     {
       "added_at": "2025-06-26 23:00:16",
@@ -1195,6 +1171,30 @@
       "duration_ms": 161031,
       "name": "Music Sounds Better With Me",
       "url": "https://open.spotify.com/track/0eRtOlUsMueyPH3jIjkZrX"
+    },
+    {
+      "added_at": "2025-06-26 23:00:16",
+      "album": {
+        "name": "Rush (Missing Out On Me)",
+        "url": "https://open.spotify.com/album/5zZjFkMGkiYboF20Vlpgfg"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        },
+        {
+          "name": "cherry chola",
+          "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
+        },
+        {
+          "name": "Purient",
+          "url": "https://open.spotify.com/artist/5Zh9boviMHxXWTt26JlxAh"
+        }
+      ],
+      "duration_ms": 144802,
+      "name": "Rush (Missing Out On Me)",
+      "url": "https://open.spotify.com/track/7MPgC1x3leOFwZelTxYgs9"
     },
     {
       "added_at": "2025-06-26 23:00:16",

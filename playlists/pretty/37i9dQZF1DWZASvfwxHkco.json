@@ -1,6 +1,6 @@
 {
   "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ed\u30cb\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: A7S, David Guetta, Wizkid",
-  "num_followers": 69113,
+  "num_followers": 69112,
   "original_name": "mint Japan",
   "owner": {
     "name": "Spotify",
@@ -563,18 +563,26 @@
     {
       "added_at": "2025-06-26 15:00:10",
       "album": {
-        "name": "boom",
-        "url": "https://open.spotify.com/album/2F9Hj91XXDt5FRvJyyLG6X"
+        "name": "Save My Love (with Ellie Goulding & AVAION)",
+        "url": "https://open.spotify.com/album/3KFX6b8uxX8cORnXbSiC18"
       },
       "artists": [
         {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
         }
       ],
-      "duration_ms": 163000,
-      "name": "boom",
-      "url": "https://open.spotify.com/track/6zhyXTuRkMSabSHvmMchpp"
+      "duration_ms": 215555,
+      "name": "Save My Love (with Ellie Goulding & AVAION)",
+      "url": "https://open.spotify.com/track/4w3Uy4n1hfj1mx6ag7bII5"
     },
     {
       "added_at": "2025-06-26 15:00:10",
@@ -603,26 +611,18 @@
     {
       "added_at": "2025-06-26 15:00:10",
       "album": {
-        "name": "Save My Love (with Ellie Goulding & AVAION)",
-        "url": "https://open.spotify.com/album/3KFX6b8uxX8cORnXbSiC18"
+        "name": "boom",
+        "url": "https://open.spotify.com/album/2F9Hj91XXDt5FRvJyyLG6X"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
         }
       ],
-      "duration_ms": 215555,
-      "name": "Save My Love (with Ellie Goulding & AVAION)",
-      "url": "https://open.spotify.com/track/4w3Uy4n1hfj1mx6ag7bII5"
+      "duration_ms": 163000,
+      "name": "boom",
+      "url": "https://open.spotify.com/track/6zhyXTuRkMSabSHvmMchpp"
     },
     {
       "added_at": "2025-06-26 15:00:10",
@@ -759,26 +759,6 @@
     {
       "added_at": "2025-06-26 15:00:10",
       "album": {
-        "name": "Avicii Forever",
-        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 173217,
-      "name": "Let's Ride Away",
-      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
-    },
-    {
-      "added_at": "2025-06-26 15:00:10",
-      "album": {
         "name": "Chasing Paradise",
         "url": "https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 180091,
       "name": "Chasing Paradise",
       "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
+    },
+    {
+      "added_at": "2025-06-26 15:00:10",
+      "album": {
+        "name": "Avicii Forever",
+        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 173217,
+      "name": "Let's Ride Away",
+      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
     },
     {
       "added_at": "2025-06-26 15:00:10",
@@ -859,6 +859,26 @@
     {
       "added_at": "2025-06-26 15:00:10",
       "album": {
+        "name": "Stars Will Align",
+        "url": "https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 234366,
+      "name": "Stars Will Align",
+      "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
+    },
+    {
+      "added_at": "2025-06-26 15:00:10",
+      "album": {
         "name": "World Gone Wild (feat. Sam Martin)",
         "url": "https://open.spotify.com/album/1e1baOsSG422OeuXVWGNRt"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 146523,
       "name": "World Gone Wild (feat. Sam Martin)",
       "url": "https://open.spotify.com/track/4arNFfHtD5FPYcpUUiUOM1"
-    },
-    {
-      "added_at": "2025-06-26 15:00:10",
-      "album": {
-        "name": "Stars Will Align",
-        "url": "https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 234366,
-      "name": "Stars Will Align",
-      "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
     },
     {
       "added_at": "2025-06-26 15:00:10",
@@ -927,22 +927,18 @@
     {
       "added_at": "2025-06-26 15:00:10",
       "album": {
-        "name": "Lioness",
-        "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
+        "name": "Wait So Long",
+        "url": "https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl"
       },
       "artists": [
         {
           "name": "Swedish House Mafia",
           "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Niki & The Dove",
-          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
         }
       ],
-      "duration_ms": 172515,
-      "name": "Lioness",
-      "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
+      "duration_ms": 199479,
+      "name": "Wait So Long",
+      "url": "https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT"
     },
     {
       "added_at": "2025-06-26 15:00:10",
@@ -1031,18 +1027,22 @@
     {
       "added_at": "2025-06-26 15:00:10",
       "album": {
-        "name": "Wait So Long",
-        "url": "https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl"
+        "name": "Lioness",
+        "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
       },
       "artists": [
         {
           "name": "Swedish House Mafia",
           "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Niki & The Dove",
+          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
         }
       ],
-      "duration_ms": 199479,
-      "name": "Wait So Long",
-      "url": "https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT"
+      "duration_ms": 172515,
+      "name": "Lioness",
+      "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
     },
     {
       "added_at": "2025-06-26 15:00:10",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2025-06-26 15:00:10",
       "album": {
-        "name": "Mind Of A Warrior",
-        "url": "https://open.spotify.com/album/2Bx51Mj90wGsPP2ZlcAIiN"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sorana",
-          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
-        }
-      ],
-      "duration_ms": 172922,
-      "name": "Mind Of A Warrior",
-      "url": "https://open.spotify.com/track/2RTlBcRS6nGVtP07AjkChQ"
-    },
-    {
-      "added_at": "2025-06-26 15:00:10",
-      "album": {
         "name": "HEAT",
         "url": "https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 217529,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD"
+    },
+    {
+      "added_at": "2025-06-26 15:00:10",
+      "album": {
+        "name": "Mind Of A Warrior",
+        "url": "https://open.spotify.com/album/2Bx51Mj90wGsPP2ZlcAIiN"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        }
+      ],
+      "duration_ms": 172922,
+      "name": "Mind Of A Warrior",
+      "url": "https://open.spotify.com/track/2RTlBcRS6nGVtP07AjkChQ"
     },
     {
       "added_at": "2025-06-26 15:00:10",
@@ -1635,42 +1635,6 @@
     {
       "added_at": "2025-06-26 15:00:10",
       "album": {
-        "name": "My Oh My",
-        "url": "https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 156155,
-      "name": "My Oh My",
-      "url": "https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx"
-    },
-    {
-      "added_at": "2025-06-26 15:00:10",
-      "album": {
-        "name": "Never Be Lonely",
-        "url": "https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 134570,
-      "name": "Never Be Lonely",
-      "url": "https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj"
-    },
-    {
-      "added_at": "2025-06-26 15:00:10",
-      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7"
       },
@@ -1695,6 +1659,22 @@
     {
       "added_at": "2025-06-26 15:00:10",
       "album": {
+        "name": "My Oh My",
+        "url": "https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 156155,
+      "name": "My Oh My",
+      "url": "https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx"
+    },
+    {
+      "added_at": "2025-06-26 15:00:10",
+      "album": {
         "name": "Superrich",
         "url": "https://open.spotify.com/album/5baLyRD1usxYKmLQjGG6Qh"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 179000,
       "name": "Superrich",
       "url": "https://open.spotify.com/track/7C9Bcp8XgBqdetAyvp5Vms"
+    },
+    {
+      "added_at": "2025-06-26 15:00:10",
+      "album": {
+        "name": "Never Be Lonely",
+        "url": "https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 134570,
+      "name": "Never Be Lonely",
+      "url": "https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj"
     }
   ],
   "unique_name": "mint Japan",

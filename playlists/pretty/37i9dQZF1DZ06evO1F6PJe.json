@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 107226,
+  "num_followers": 107254,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAABEohoU8p4A8S4YdlaYPTSB",
+  "snapshot_id": "aF3fAAAAAAAaZ+GwveMJDHwRK3iyPkU5",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 232933,
-      "name": "Long Distance Blues",
-      "url": "https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ballad of John Henry",
         "url": "https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 400333,
       "name": "Happier Times",
       "url": "https://open.spotify.com/track/4iEHQSpgBrclLwErcU5Lwj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 232933,
+      "name": "Long Distance Blues",
+      "url": "https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg"
     },
     {
       "added_at": null,
@@ -571,6 +571,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartbreak City",
+        "url": "https://open.spotify.com/album/6069Q408vtPl0pcne5egPX"
+      },
+      "artists": [
+        {
+          "name": "Larry McCray",
+          "url": "https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 280360,
+      "name": "I Know What I've Done",
+      "url": "https://open.spotify.com/track/54eHBjp3SBOGXqP2gdJhWa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tales Of Time (Live)",
         "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 338771,
       "name": "One Less Cross to Bear - Live Version",
       "url": "https://open.spotify.com/track/1OzeFaTHSjQ20ycXdUgHCl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartbreak City",
-        "url": "https://open.spotify.com/album/6069Q408vtPl0pcne5egPX"
-      },
-      "artists": [
-        {
-          "name": "Larry McCray",
-          "url": "https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 280360,
-      "name": "I Know What I've Done",
-      "url": "https://open.spotify.com/track/54eHBjp3SBOGXqP2gdJhWa"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Deluxe Vol. 2",
-        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "Well, I Done Got Over It",
-      "url": "https://open.spotify.com/track/7boJk2iDtxib7PdpxHdqd9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Driving Towards The Daylight",
         "url": "https://open.spotify.com/album/5AjDtAXzFEQPbfZSAnIM5R"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 183493,
       "name": "I Got All You Need",
       "url": "https://open.spotify.com/track/6OX01r0SwFsy7KIwh7euHj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues Deluxe Vol. 2",
+        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Well, I Done Got Over It",
+      "url": "https://open.spotify.com/track/7boJk2iDtxib7PdpxHdqd9"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
-  "num_followers": 51965,
+  "num_followers": 51979,
   "original_name": "This Is Bonnie Raitt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAAALL2w9OckdLA8T91xiv6d7",
+  "snapshot_id": "aF3fAAAAAAAMGPyrwEcgtnZgoysaQMVI",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nick Of Time",
-        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Thing Called Love",
-      "url": "https://open.spotify.com/track/3g6lXYay6mqmtFmjzSYr66"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "John Prine (Live)",
         "url": "https://open.spotify.com/album/1jfc5Hverd9LT9GQ4N1al1"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 256665,
       "name": "Angel from Montgomery - Live",
       "url": "https://open.spotify.com/track/4iFaAIBihFXWZ4hiLLASWV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Thing Called Love",
+      "url": "https://open.spotify.com/track/3g6lXYay6mqmtFmjzSYr66"
     },
     {
       "added_at": null,
@@ -651,6 +651,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 347840,
+      "name": "Blame it On Me",
+      "url": "https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 163266,
+      "name": "Papa Come Quick (Jody And Chico)",
+      "url": "https://open.spotify.com/track/476zDaOOTeo5dSjZyxiAq4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Struck Down",
         "url": "https://open.spotify.com/album/45z66GJ4emGqjOq9TInN5j"
       },
@@ -679,38 +711,6 @@
       "duration_ms": 235880,
       "name": "Nothing in Rambling (ft. Bonnie Raitt, Keb' Mo', Taj Mahal & Mick Fleetwood)",
       "url": "https://open.spotify.com/track/0Ob3apMTtBSVq08Fxfqjlu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luck Of The Draw",
-        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 163266,
-      "name": "Papa Come Quick (Jody And Chico)",
-      "url": "https://open.spotify.com/track/476zDaOOTeo5dSjZyxiAq4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just Like That...",
-        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 347840,
-      "name": "Blame it On Me",
-      "url": "https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Souls Alike",
+        "url": "https://open.spotify.com/album/3iK0XCTRh5zfLjfrmO3agU"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 218960,
+      "name": "I Will Not Be Broken",
+      "url": "https://open.spotify.com/track/7dS8Pt5M2lsBJuPhTMvRuq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Souls Alike",
-        "url": "https://open.spotify.com/album/3iK0XCTRh5zfLjfrmO3agU"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 218960,
-      "name": "I Will Not Be Broken",
-      "url": "https://open.spotify.com/track/7dS8Pt5M2lsBJuPhTMvRuq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nick Of Time",
         "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 225866,
       "name": "Too Soon To Tell",
       "url": "https://open.spotify.com/track/21bGSuzzoQOKcmz59uDuwH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Longing In Their Hearts",
+        "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Love Sneakin' Up On You",
+      "url": "https://open.spotify.com/track/5GzhOU3ABPksBqLdjortcG"
     },
     {
       "added_at": null,
@@ -843,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Longing In Their Hearts",
-        "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Love Sneakin' Up On You",
-      "url": "https://open.spotify.com/track/5GzhOU3ABPksBqLdjortcG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Takin' My Time",
         "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
       },
@@ -871,22 +871,6 @@
       "duration_ms": 279533,
       "name": "I Feel the Same - 2008 Remaster",
       "url": "https://open.spotify.com/track/0R5BQ3uQkPKITB7rDgNUhh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dig In Deep",
-        "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 249093,
-      "name": "Gypsy In Me",
-      "url": "https://open.spotify.com/track/4w539nhl7KGUajmyrX5GNq"
     },
     {
       "added_at": null,
@@ -907,6 +891,22 @@
       "duration_ms": 194160,
       "name": "Baby Mine",
       "url": "https://open.spotify.com/track/5DyFc8rXIB1uvvIqq6Kcj2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dig In Deep",
+        "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 249093,
+      "name": "Gypsy In Me",
+      "url": "https://open.spotify.com/track/4w539nhl7KGUajmyrX5GNq"
     }
   ],
   "unique_name": "This Is Bonnie Raitt",

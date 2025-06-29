@@ -1,12 +1,12 @@
 {
   "description": "This is The Kid LAROI. The essential tracks, all in one playlist.",
-  "num_followers": 244081,
+  "num_followers": 244107,
   "original_name": "This Is The Kid LAROI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAAC7VtKew5P+WcxaexvB6nM5",
+  "snapshot_id": "aF3fAAAAAAAW0M02EynYv0fezmyTBgm+",
   "tracks": [
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let Her Go",
+        "url": "https://open.spotify.com/album/2PMhID6CzdaI8t4dlPSodY"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 122112,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/0c6SqvH32BMgbEFvpHc2gs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Is Yellow",
         "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 169014,
       "name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
       "url": "https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let Her Go",
-        "url": "https://open.spotify.com/album/2PMhID6CzdaI8t4dlPSodY"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 122112,
-      "name": "Let Her Go",
-      "url": "https://open.spotify.com/track/0c6SqvH32BMgbEFvpHc2gs"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-529 songs - 1 day 20 hr 11 min
+530 songs - 1 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [All Things Burn](https://open.spotify.com/track/1RC35S8rOlc4cMAhC8IOVQ) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [How Do You Live](https://open.spotify.com/album/0a48X39VME2QhWVEASztpm) | 5:41 | 2021-12-26 | 2023-06-28 |
 | [All Things Burn](https://open.spotify.com/track/2NVRwrkHjiwfB1EIDLH3p7) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [How Do You Live](https://open.spotify.com/album/6X3Csq02B7dRFU1yaa7GVV) | 5:41 | 2023-07-13 | 2023-08-12 |
 | [Alyosha Lying](https://open.spotify.com/track/2Xm1NUw2buXWoNvzKz7Wai) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Alyosha Lying](https://open.spotify.com/album/7f2iPwLQp0qiCdiZy986Fh) | 2:59 | 2023-11-24 |  |
+| [Am I Human?](https://open.spotify.com/track/6i0Dqt3YJu8XWJuQxHs80v) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Am I Human?](https://open.spotify.com/album/5GLoTVT2wyfvVkIY3ORkNB) | 4:49 | 2025-06-28 |  |
 | [AMB001](https://open.spotify.com/track/0lWQ6lUV7rjzFbKDdZLYnr) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [AMB001\-008](https://open.spotify.com/album/15f6yjm6JJOfG4YeVh1qOv) | 6:03 | 2025-01-17 |  |
 | [Amos](https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk) | [Daniel Imhof](https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS) | [Amos](https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG) | 8:03 | 2023-04-07 |  |
 | [Amygdala](https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Amygdala](https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ) | 5:19 | 2022-03-04 | 2025-03-31 |
@@ -501,7 +502,7 @@
 | [Vessel](https://open.spotify.com/track/315MpPgQhp6FEXDcLhJXSZ) | [Eric Hilton](https://open.spotify.com/artist/4tgBpjW0GVvKqP7uY2OHYB) | [Out of the Blur](https://open.spotify.com/album/4oquIG02DIGmU9JbBm9sDL) | 6:31 | 2024-06-28 |  |
 | [Violo](https://open.spotify.com/track/5syPwaSJSzNSB6ufaE6sI9) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Madre](https://open.spotify.com/album/5qxNqr74lxcQefXV9hqRiP) | 7:07 | 2021-12-26 | 2023-08-12 |
 | [Visions](https://open.spotify.com/track/7HN4GQgB6wH0smJQacudtq) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4), [Braulio Lam](https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS) | [Mixed Signals II](https://open.spotify.com/album/3kf978n2Cj73i6KtV2ts6D) | 7:04 | 2022-03-18 | 2023-06-16 |
-| [Voodoo\-Baroque\-Vaporwave\-Serialism](https://open.spotify.com/track/7JNLU8I7d50ZzBauVaFI9Y) | [Icarus](https://open.spotify.com/artist/0PDSR92MSuuyre6j9ngj7z) | [An Ever\-growing Meridional Entertainment Transgression at the Edge of the Multiverse](https://open.spotify.com/album/4f6zm1CE8K12UaYymK5z83) | 12:39 | 2025-04-25 |  |
+| [Voodoo\-Baroque\-Vaporwave\-Serialism](https://open.spotify.com/track/7JNLU8I7d50ZzBauVaFI9Y) | [Icarus](https://open.spotify.com/artist/0PDSR92MSuuyre6j9ngj7z) | [An Ever\-growing Meridional Entertainment Transgression at the Edge of the Multiverse](https://open.spotify.com/album/4f6zm1CE8K12UaYymK5z83) | 12:39 | 2025-04-25 | 2025-06-29 |
 | [Waiting on Closure](https://open.spotify.com/track/7DtnFT1XP8hjWY5TpHhW7E) | [Theiz](https://open.spotify.com/artist/4XqHuzIh4c2zQBcdxeBac5) | [Waiting on Closure](https://open.spotify.com/album/4AogauaulsUCsWEXT6tfKy) | 6:52 | 2022-02-25 | 2024-07-30 |
 | [Walking Through Still Air](https://open.spotify.com/track/2PEeHAgoF0K6e3cFiMeWMl) | [Booker Stardrum](https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5) | [CRATER](https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0) | 5:22 | 2021-12-26 | 2023-04-30 |
 | [Walking Through Still Air](https://open.spotify.com/track/4A1MV0tkYsxLXnsswjiP2S) | [Booker Stardrum](https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5) | [CRATER](https://open.spotify.com/album/6TvXKXvvxrYina8splCKkV) | 5:22 | 2023-05-05 | 2023-08-12 |

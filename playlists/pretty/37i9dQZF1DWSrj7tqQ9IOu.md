@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : BLOWSOM
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,541 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,518 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 17 | [Romy](https://open.spotify.com/track/57LPD03prhGgH8SlJ7Tndg) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Romy](https://open.spotify.com/album/77gs1qTyEAOzhET2vsD3ED) | 3:19 |
 | 18 | [FEVER 105](https://open.spotify.com/track/3L3UJWqBEbHR6j8gT55zpO) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF) | [SUNSET RADIO](https://open.spotify.com/album/490REHUgcRRvvuEMqFxUwQ) | 2:23 |
 | 19 | [en rosalie](https://open.spotify.com/track/7df0w01vdDcboukwMPjjPV) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [un million de petits chocs](https://open.spotify.com/album/2IC2gH3S0XVQvug7M3rFjS) | 2:39 |
-| 20 | [Revenant du Nord](https://open.spotify.com/track/6LzQGdaszVI58YLZrmSDPU) | [Orchestre Tout Puissant Marcel Duchamp](https://open.spotify.com/artist/7L8bsKFWYTMJj9c5HIPNtR), [Frànçois & The Altlas Mountains](https://open.spotify.com/artist/5ZGiZdfaYeJIXKuLKBEj8K) | [Revenant du Nord](https://open.spotify.com/album/0GDJ31tKJWzRuba176idJB) | 3:10 |
+| 20 | [Revenant du Nord](https://open.spotify.com/track/6LzQGdaszVI58YLZrmSDPU) | [Orchestre Tout Puissant Marcel Duchamp](https://open.spotify.com/artist/7L8bsKFWYTMJj9c5HIPNtR), [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Revenant du Nord](https://open.spotify.com/album/0GDJ31tKJWzRuba176idJB) | 3:10 |
 | 21 | [Un Premier Amour](https://open.spotify.com/track/3ACLBmxaG5SknHYGrsl7d3) | [Hunter](https://open.spotify.com/artist/4kz8Ax2USW4Xae9WSQHVec) | [Un Premier Amour](https://open.spotify.com/album/7epVnZXwmDDXs07fFW1TQm) | 3:10 |
 | 22 | [Le feu le sang](https://open.spotify.com/track/5U50fO1l8MS5TNOIydWOtc) | [Moussa](https://open.spotify.com/artist/5szBKM0Zc5bKmQvkiO1NDS) | [La nuit je rêve](https://open.spotify.com/album/0PjASuaP8hd9mh46TNcLvN) | 2:24 |
 | 23 | [Storytelling](https://open.spotify.com/track/5MhO98gtLl7YBTkHstcIn7) | [Clio](https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW) | [Storytelling](https://open.spotify.com/album/4ci3JRgERR0EXh4mlQaL7r) | 4:18 |

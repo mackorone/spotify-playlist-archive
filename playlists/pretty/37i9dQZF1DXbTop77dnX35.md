@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Ayo Maff, JHus, Burna Boy and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,197 likes - 78 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,363 likes - 78 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 21 | [Futuristic \(Remix\)](https://open.spotify.com/track/3BGyEi3sWnqDaoPoZslkKO) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf), [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd), [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR) | [Futuristic \(Remix\)](https://open.spotify.com/album/0lBLVeKUDml58h5NZUX9AH) | 2:57 |
 | 22 | [Positions](https://open.spotify.com/track/4QAeS0zhSVwnNvIXQnDghp) | [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Positions](https://open.spotify.com/album/3NX2ofsgCfdrIMJPP13TXu) | 2:16 |
 | 23 | [Proud Of Life](https://open.spotify.com/track/2VduAuuyGrDrCBN2Pwj7yg) | [A\-Q](https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [GE3 \(The Beginning\)](https://open.spotify.com/album/6eR5eDrWGOUMtPgKzpReFt) | 3:48 |
-| 24 | [Feel Something](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Feel Something](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 |
+| 24 | [FEEL SOMETHING](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 |
 | 25 | [Souls x Mates](https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Souls x Mates](https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA) | 3:51 |
 | 26 | [Automoto \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/2y9fqvlVSHGAMbCEizSKaZ) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Automoto \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/album/2dzMKs3gXrSCd1HNoRA92n) | 1:54 |
 | 27 | [Lighter](https://open.spotify.com/track/0yfuV7ZI2e4baQxZUBegUr) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Lighter](https://open.spotify.com/album/6QmqxSyG8tSOBIVXgOc875) | 3:06 |

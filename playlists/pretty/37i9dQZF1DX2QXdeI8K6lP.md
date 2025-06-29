@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,537 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,579 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 93 | [La Copa Rota](https://open.spotify.com/track/5Q4qhAdlqwuQcvDXDHG6lo) | [Trio Vegabajeño](https://open.spotify.com/artist/5TphiK6LsT4X5NOZxq3NJB) | [50 Exitos del Fonógrafo y Sus Recuerdos](https://open.spotify.com/album/4H24ZDNXB6gqEzV028vtFs) | 3:07 |
 | 94 | [Mi Negra Linda](https://open.spotify.com/track/4M7UWuLSDGn1L1ICwE5jGS) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 3:08 |
 | 95 | [Voy Gritando Por La Calle](https://open.spotify.com/track/1N8bDOEWUwfZZ9X2GbwGI3) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [Tríos Del Mundo : 40 Éxitos](https://open.spotify.com/album/4qDMttlrhBPyHKgHgyBHwg) | 2:52 |
-| 96 | [Amar y Querer \- Mariachi Bolero Cover](https://open.spotify.com/track/6mSDnbcXp12MBipY1w1amz) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ) | [Mi Corazón](https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI) | 2:54 |
-| 97 | [Ansiedad](https://open.spotify.com/track/1LRMRPhC8ZEniqe16Rzlkm) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 2:52 |
+| 96 | [Ansiedad](https://open.spotify.com/track/1LRMRPhC8ZEniqe16Rzlkm) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 2:52 |
+| 97 | [Amar y Querer \- Mariachi Bolero Cover](https://open.spotify.com/track/6mSDnbcXp12MBipY1w1amz) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ) | [Mi Corazón](https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI) | 2:54 |
 | 98 | [Desesperadamente](https://open.spotify.com/track/2L1q1K3eLEG3sysm8iLtwl) | [Yolanda Y Su Trio Perla Negra](https://open.spotify.com/artist/3qTLA5L6rj3bA14H3QQJKG) | [15 Creaciones De Yolanda Y Su Trio Perla Negra \- Versiones Originales](https://open.spotify.com/album/0MVQMThE6fTEOMvpGgWjTe) | 2:16 |
 | 99 | [Esta Melodia](https://open.spotify.com/track/1GQ3Clp4Mvs7f0qt0hLotX) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 3:08 |
 | 100 | [En Nosotros](https://open.spotify.com/track/3v6tJYI8YRNmA0j8HLixAE) | [Los Indianos](https://open.spotify.com/artist/3U6c3u6spc6mNHcykQM0vI) | [A La Orilla De Un Palmar](https://open.spotify.com/album/4tGCXobAsI1du2f02NafgP) | 2:38 |

@@ -4,7 +4,7 @@
 
 > The latest of R&B in the UK\. Cover: Tyler Lewis
 
-431 songs - 22 hr 34 min
+432 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Fade \(feat\. KIRBY\)](https://open.spotify.com/track/4JIQyyCvJnUcRTYxKBB4LU) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Fade \(feat\. KIRBY\)](https://open.spotify.com/album/2np1sUdwyKLUGAe1NFs4uL) | 3:28 | 2024-05-31 | 2024-07-24 |
 | [Fallin 4 A Thug](https://open.spotify.com/track/21LvidSXOuc5jgy5ttnCkP) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Fallin 4 A Thug](https://open.spotify.com/album/08two7eshES8TNEHi6WBGl) | 2:30 | 2024-09-12 | 2024-11-17 |
 | [Falling or flying](https://open.spotify.com/track/3o790sA4zssA7vtFpElKKS) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Falling or flying](https://open.spotify.com/album/4DQceiYfpF7ByhwsBQaWYH) | 3:24 | 2023-09-14 | 2024-04-24 |
+| [FEEL SOMETHING](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 | 2025-06-26 |  |
 | [Fickle](https://open.spotify.com/track/1iVkt8ObfcsC4hch6nOhf1) | [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [Fickle](https://open.spotify.com/album/0Qv2r7upfV3ypA63OVwAPA) | 2:31 | 2023-05-15 | 2023-06-02 |
 | [Fight you](https://open.spotify.com/track/0ge1CEon7FR7RX78ZdZhDA) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Tell Jimmy](https://open.spotify.com/album/7qW0v91QqdcYVuu4sVMLVt) | 3:18 | 2024-02-16 | 2024-03-23 |
 | [Fine By Myself](https://open.spotify.com/track/6wPAtoGq4fvAHALzbgEjFP) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 2:43 | 2024-01-26 | 2024-11-15 |
@@ -393,7 +394,7 @@
 | [Tipsy](https://open.spotify.com/track/6GR5SRiuztfur96y7mBKxK) | [Mya K](https://open.spotify.com/artist/1s6hHUCO2I3IZN4qFy0ypm) | [Tipsy](https://open.spotify.com/album/4hxgmRczO2cTh9doxACWnm) | 2:12 | 2024-04-26 | 2024-05-11 |
 | [To Be Found](https://open.spotify.com/track/2vU95jI1hFEHcKgonUcrlF) | [DHANYA](https://open.spotify.com/artist/4SWESjuSbInxK2MAbQGhbJ), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [To Be Found](https://open.spotify.com/album/4BtnAuulML7FN3rALzq7sr) | 3:40 | 2025-05-29 |  |
 | [Tonight](https://open.spotify.com/track/07tj5gy6TKsQ7x0fCjrovr) | [Bex](https://open.spotify.com/artist/2PLgHkAWIico5HHJIq5Trl) | [Tonight](https://open.spotify.com/album/2vidWPfA1GXSB43GhELEB5) | 2:42 | 2025-01-24 | 2025-06-27 |
-| [Too Soon](https://open.spotify.com/track/4vJoaQsqgInOXfLTrKGNWE) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Too Soon](https://open.spotify.com/album/1gnbsTYrABy0pYgsuBaX9Z) | 3:01 | 2025-04-25 |  |
+| [Too Soon](https://open.spotify.com/track/4vJoaQsqgInOXfLTrKGNWE) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Too Soon](https://open.spotify.com/album/1gnbsTYrABy0pYgsuBaX9Z) | 3:01 | 2025-04-25 | 2025-06-29 |
 | [Touch It](https://open.spotify.com/track/2vI2o9GfUaFbbalCiTGwMc) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Touch It](https://open.spotify.com/album/4g38km2uJCDbYq5lnve4Ai) | 2:49 | 2024-05-10 | 2024-06-01 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 |  |
 | [Tried To Fly .](https://open.spotify.com/track/7LdBSqbWyWGBKYboMQghPF) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Tried To Fly .](https://open.spotify.com/album/18Qyq8CXpenmGAgVzRNrIA) | 2:59 | 2023-09-14 | 2023-09-23 |

@@ -1,6 +1,6 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 110754,
+  "num_followers": 110759,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis"
     },
     {
-      "added_at": "2023-11-07 19:15:28",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 212647,
-      "name": "Miss Independent - Spotify Singles",
-      "url": "https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk"
-    },
-    {
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
@@ -551,6 +535,22 @@
       "duration_ms": 180430,
       "name": "I Don't Wanna Talk (I Just Wanna Dance) - Spotify Singles",
       "url": "https://open.spotify.com/track/1lzY6cYbKjLlDlDQ8KfhdR"
+    },
+    {
+      "added_at": "2023-11-07 19:15:28",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 212647,
+      "name": "Miss Independent - Spotify Singles",
+      "url": "https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1424,22 +1424,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 192522,
-      "name": "If I Ever Was A Child - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/69eSem5Y1nrCaGi2FrQhVJ"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3JheGJ15VzACtXQoYT8YPm"
       },
       "artists": [
@@ -1451,6 +1435,22 @@
       "duration_ms": 245596,
       "name": "Good Kisser - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5eyPkSDWFQNnnkZhFfE6Yo"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 192522,
+      "name": "If I Ever Was A Child - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/69eSem5Y1nrCaGi2FrQhVJ"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1504,26 +1504,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0Fr890mJEfZ5hrOSNhZjKV"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        },
-        {
-          "name": "Hypnotic Brass Ensemble",
-          "url": "https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH"
-        }
-      ],
-      "duration_ms": 269300,
-      "name": "Colors - Spotify Singles",
-      "url": "https://open.spotify.com/track/7mzocQrHwKd19aLrjT3isS"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5aWs6pUwG4gPNJxCF4wOwy"
       },
       "artists": [
@@ -1539,6 +1519,26 @@
       "duration_ms": 257712,
       "name": "Come On Up To The House (feat. X Ambassadors) - Spotify Singles",
       "url": "https://open.spotify.com/track/2DVBF5MoZYTzxmfZl8ex2H"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Fr890mJEfZ5hrOSNhZjKV"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        },
+        {
+          "name": "Hypnotic Brass Ensemble",
+          "url": "https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH"
+        }
+      ],
+      "duration_ms": 269300,
+      "name": "Colors - Spotify Singles",
+      "url": "https://open.spotify.com/track/7mzocQrHwKd19aLrjT3isS"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1592,22 +1592,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0Fr890mJEfZ5hrOSNhZjKV"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 261605,
-      "name": "Sugar Man - Spotify Singles",
-      "url": "https://open.spotify.com/track/1CQNof97BOKANyheEifHiQ"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
       },
       "artists": [
@@ -1619,6 +1603,22 @@
       "duration_ms": 155797,
       "name": "Go Away - Spotify Singles",
       "url": "https://open.spotify.com/track/6MPS7r19dpI9d3TM8aw4Wo"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Fr890mJEfZ5hrOSNhZjKV"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 261605,
+      "name": "Sugar Man - Spotify Singles",
+      "url": "https://open.spotify.com/track/1CQNof97BOKANyheEifHiQ"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1864,17 +1864,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5yPmcKtzc9A0RcKpCFqQtZ"
+        "url": "https://open.spotify.com/album/75bOa6MJhVgz1uzcZBUNhf"
       },
       "artists": [
         {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
         }
       ],
-      "duration_ms": 231729,
-      "name": "Born Again - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0BGdxW79sZA6nmuws983bE"
+      "duration_ms": 344666,
+      "name": "tonite - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/5hSTBY6xBkx60qPVseOKFX"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1896,17 +1896,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/75bOa6MJhVgz1uzcZBUNhf"
+        "url": "https://open.spotify.com/album/68X345rpDHj4iY6E7pcT6d"
       },
       "artists": [
         {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
         }
       ],
-      "duration_ms": 344666,
-      "name": "tonite - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/5hSTBY6xBkx60qPVseOKFX"
+      "duration_ms": 316108,
+      "name": "Mourning Sound - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4qPb53XN2ilYsBf5OIHdtV"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1928,17 +1928,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/68X345rpDHj4iY6E7pcT6d"
+        "url": "https://open.spotify.com/album/5yPmcKtzc9A0RcKpCFqQtZ"
       },
       "artists": [
         {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
         }
       ],
-      "duration_ms": 316108,
-      "name": "Mourning Sound - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4qPb53XN2ilYsBf5OIHdtV"
+      "duration_ms": 231729,
+      "name": "Born Again - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0BGdxW79sZA6nmuws983bE"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1960,22 +1960,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 237997,
-      "name": "Rockstar - Recorded At Abbey Road Studios, London",
-      "url": "https://open.spotify.com/track/5D6Z7Iof3v5QRbaW2LquoN"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
       },
       "artists": [
@@ -1987,6 +1971,22 @@
       "duration_ms": 225090,
       "name": "Welcome to Your Life - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2cN7H31DES22HCjYitKggF"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 237997,
+      "name": "Rockstar - Recorded At Abbey Road Studios, London",
+      "url": "https://open.spotify.com/track/5D6Z7Iof3v5QRbaW2LquoN"
     },
     {
       "added_at": "2023-01-11 22:54:33",

@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-394 songs - 1 day 0 hr 15 min
+396 songs - 1 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,10 +159,11 @@
 | [Histoire vraie](https://open.spotify.com/track/7FX0CUpcPXEQYp4tdeod4g) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Histoires vraies](https://open.spotify.com/album/3WI5EDJiOFRxy29CfzPZbp) | 3:33 | 2023-02-21 | 2023-08-01 |
 | [Hold Me](https://open.spotify.com/track/6C30p3VpQgOe5CyrJvE8Ra) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Hold Me](https://open.spotify.com/album/31YLOPkHEJyXEjGaChbn9h) | 3:10 | 2025-04-25 |  |
 | [Home](https://open.spotify.com/track/1Vm82EBiyQlvbnHJ08eWbb) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5) | 3:20 | 2022-11-25 | 2023-03-18 |
+| [Home](https://open.spotify.com/track/5LqHalawZqviSYyhq4KxMf) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Home](https://open.spotify.com/album/6iB29E0Lo8vM1F0Hg5KTmR) | 2:11 | 2025-06-26 |  |
 | [Horizons Into Battlegrounds](https://open.spotify.com/track/1SSoLdnoptUGfs5kwgVQms) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [Horizons Into Battlegrounds](https://open.spotify.com/album/72f1jbx4WSwyGxM9o5b28w) | 3:41 | 2024-05-23 | 2025-01-24 |
 | [How Can I Do](https://open.spotify.com/track/50jue4YbgKXI4W27A7mAGx) | [Anwar](https://open.spotify.com/artist/0NXESLEJPcyXznlxQGxiud) | [Beautiful Sunrise](https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV) | 4:55 | 2022-11-25 | 2023-02-22 |
 | [Hurts so Good](https://open.spotify.com/track/24u02eXgpySwvPbC0Yac4T) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Hurts so Good](https://open.spotify.com/album/2vB7f35TC3FniOnMy3ohiQ) | 4:55 | 2023-05-25 | 2023-07-05 |
-| [I Believe](https://open.spotify.com/track/2bntXLsnPeFoP4tC6IZGEK) | [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [Things I've Seen](https://open.spotify.com/album/2ptUS7vVvBKOD5PUSXZsGi) | 2:37 | 2024-04-15 |  |
+| [I Believe](https://open.spotify.com/track/2bntXLsnPeFoP4tC6IZGEK) | [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [Things I've Seen](https://open.spotify.com/album/2ptUS7vVvBKOD5PUSXZsGi) | 2:37 | 2024-04-15 | 2025-06-29 |
 | [I Come With Mud](https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 4:51 | 2025-03-20 | 2025-05-09 |
 | [I Do](https://open.spotify.com/track/5UGsdm9LW7qzoOKuwFtFjT) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/2oA8BwC6GV58z35khUb1Tx) | 3:37 | 2022-11-25 | 2023-02-16 |
 | [I Don't Know What I Can Save You From](https://open.spotify.com/track/4KHO9py2dphAa5pfegUojN) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Quiet Is The New Loud](https://open.spotify.com/album/4hUevKZdIe9SCLneuunJZz) | 4:37 | 2023-03-17 | 2023-11-21 |
@@ -262,12 +263,13 @@
 | [Old Friend](https://open.spotify.com/track/4h5wTcOMYy6cw47yYoFqNq) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Old Friend](https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg) | 2:37 | 2024-10-25 |  |
 | [Old Man](https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Old Man](https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5) | 3:27 | 2025-03-20 | 2025-05-16 |
 | [Old Pine](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:28 | 2022-11-25 | 2024-04-19 |
+| [Old Shadows](https://open.spotify.com/track/3IWuSaxaeNuQUXOfVtEkOE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Old Shadows](https://open.spotify.com/album/0RLefy7jZBf1Dx0UlZdbRK) | 4:06 | 2025-06-26 |  |
 | [On My Mind \- Radio Edit](https://open.spotify.com/track/4A8NuOMg65pgEYUr1X0mzU) | [Nka](https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz) | [On My Mind](https://open.spotify.com/album/5zoHxmguqA9YMklneErozC) | 3:39 | 2024-05-13 | 2024-10-07 |
 | [On the Road \- Radio Edit](https://open.spotify.com/track/7KbfRU8ToJ6PEu1rkiggzw) | [Hugo Barriol](https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk) | [On the Road](https://open.spotify.com/album/1jT4VO02QoRVb1IDubFm2d) | 3:12 | 2022-11-25 | 2023-02-22 |
 | [One More Second](https://open.spotify.com/track/6T8pTLAnRiN4LZKhN5ZrKE) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [One More Second](https://open.spotify.com/album/11wtIwzSbBoVffQGIEWfIN) | 5:22 | 2024-04-15 |  |
 | [One More Shot](https://open.spotify.com/track/54SXW7yYS36p8rOMFGmcoN) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot \(One Take Version\)](https://open.spotify.com/album/1mgYvDEkZoWqoNjnMU6QhI) | 2:21 | 2023-07-04 | 2024-04-19 |
 | [One More Shot](https://open.spotify.com/track/79uXvsyNG97zMLLq4bloRa) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot](https://open.spotify.com/album/1uKIVSfEfjC8OjoUueYZOT) | 2:21 | 2023-02-14 | 2023-07-10 |
-| [One Way Ticket](https://open.spotify.com/track/23bXqg4y1R7VRzpY1x7xNX) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [One Way Ticket](https://open.spotify.com/album/7wVHIyCRRLri9u5ksWP5iq) | 2:47 | 2025-01-23 |  |
+| [One Way Ticket](https://open.spotify.com/track/23bXqg4y1R7VRzpY1x7xNX) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [One Way Ticket](https://open.spotify.com/album/7wVHIyCRRLri9u5ksWP5iq) | 2:47 | 2025-01-23 | 2025-06-29 |
 | [only when i was with you](https://open.spotify.com/track/5GrGDLcNCM2GppSiLKteL7) | [Emma Castellino](https://open.spotify.com/artist/2layJFdtvlPW95WA9s2GST) | [february tape](https://open.spotify.com/album/3p6nOmT4UcHVWZWmbNlD9C) | 3:53 | 2024-07-25 | 2024-12-20 |
 | [Ose](https://open.spotify.com/track/5QnYsX5buzmH9GuZ92hzhx) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Oser](https://open.spotify.com/album/4ka5WRIIMtnDGSSoUAoNHC) | 3:22 | 2024-04-15 | 2025-01-26 |
 | [pacifico](https://open.spotify.com/track/2UKsvC3OHquxXYSibXWlCG) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [pacifico](https://open.spotify.com/album/6y22za0YpLupKqMyvfbFu9) | 3:18 | 2025-05-23 |  |

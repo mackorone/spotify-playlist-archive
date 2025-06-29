@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-538 songs - 1 day 2 hr 12 min
+539 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Ghost](https://open.spotify.com/track/4RXw5GRcFbOCmWQ85oEguu) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Ghost](https://open.spotify.com/album/59bmdTOhPa4ZLUS2htvKc4) | 2:41 | 2021-10-29 | 2022-11-12 |
 | [Girl Math](https://open.spotify.com/track/3Nv4u6rFG0FgoR71wYGHWH) | [Housewife](https://open.spotify.com/artist/2R4ZG5VkLXR87FkJGX5Jrd) | [Girl Math](https://open.spotify.com/album/1evxTeLo7NQsddb52qJEf3) | 3:49 | 2024-03-01 | 2024-03-16 |
 | [Girls](https://open.spotify.com/track/3bT1QiVx8FcObFcDuBArth) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Girls](https://open.spotify.com/album/6dGns7nbpxDipRomnj6mgC) | 3:06 | 2021-10-29 | 2022-03-23 |
+| [Go Mode](https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ), [Blookah](https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Go Mode](https://open.spotify.com/album/1gYtMfHRgHAUICRGG2FIZG) | 3:52 | 2025-06-27 |  |
 | [Good Again](https://open.spotify.com/track/6jbdxYkwM7pf1pVujcoWyQ) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Good Again](https://open.spotify.com/album/48RsPqs6xA7scWJaUPBj0b) | 2:22 | 2021-10-29 | 2022-07-29 |
 | [Good Catch](https://open.spotify.com/track/4o0DR32ubkdQCPT1onM18W) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Good Catch](https://open.spotify.com/album/6cnhQqH39ScPvQpBtQazGc) | 2:35 | 2022-01-28 | 2022-08-06 |
 | [Good For Me](https://open.spotify.com/track/4ajYMWEIDhn78UDHxIIK4s) | [Chester Young](https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e) | [Good For Me](https://open.spotify.com/album/1oZPiBv5jwpMui671bdwPp) | 2:39 | 2022-08-26 | 2023-01-06 |
@@ -372,7 +373,7 @@
 | [Nostalgia](https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Nostalgia](https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx) | 3:15 | 2023-06-30 | 2023-11-11 |
 | [Not Alone \- Don Diablo VIP Mix](https://open.spotify.com/track/3h4K8EOqmbnfdpemic1XUW) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Not Alone \(Don Diablo VIP Mix\)](https://open.spotify.com/album/5qCcm5p7HSsO244iIFKggX) | 2:31 | 2023-02-17 | 2025-02-16 |
 | [Not Dancing](https://open.spotify.com/track/2ipTMqLLogZOwB3VXafqTR) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [Not Dancing](https://open.spotify.com/album/1O5tGALZgYG6VHycsGKsIu) | 2:43 | 2021-10-29 | 2022-04-28 |
-| [NRG](https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [NRG](https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4) | 3:40 | 2023-07-28 |  |
+| [NRG](https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [NRG](https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4) | 3:40 | 2023-07-28 | 2025-06-29 |
 | [Nudes](https://open.spotify.com/track/6mjCVjYkqyo4IG4nMhlpD2) | [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Nudes](https://open.spotify.com/album/4vtBTnn8AbVYqYnHZf3NVb) | 2:16 | 2023-01-06 | 2023-03-25 |
 | [Obsessed](https://open.spotify.com/track/4RxMBaWraYDLmpz5fs6UaE) | [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz) | [Obsessed](https://open.spotify.com/album/1hsb6RcJ9etjnn4nl1qv9c) | 3:13 | 2024-02-23 | 2024-05-05 |
 | [Obsession](https://open.spotify.com/track/6pzwST348GM51L1zoZ65Or) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Obsession](https://open.spotify.com/album/2G8oQgv9JwmFvjJL20OK38) | 2:26 | 2024-06-07 | 2024-11-24 |

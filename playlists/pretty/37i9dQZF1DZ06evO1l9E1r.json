@@ -1,12 +1,12 @@
 {
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
-  "num_followers": 2548,
+  "num_followers": 2550,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAADwORsCeU9U7l3PTN6gGd+/",
+  "snapshot_id": "aF3fAAAAAADqoGpF8HSETskjYzM/F5oo",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chernobyl (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 168180,
-      "name": "L\u00ed\u00f0ur - Chernobyl Version",
-      "url": "https://open.spotify.com/track/6HVsARWIlJiv6ujVfEbTlH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last And First Men",
         "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 219515,
       "name": "A Minor Astronomical Event",
       "url": "https://open.spotify.com/track/45wiC9xhqI9HZMoKetKV9C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chernobyl (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 168180,
+      "name": "L\u00ed\u00f0ur - Chernobyl Version",
+      "url": "https://open.spotify.com/track/6HVsARWIlJiv6ujVfEbTlH"
     },
     {
       "added_at": null,
@@ -706,31 +706,31 @@
         {
           "name": "Robert Aiki Aubrey Lowe",
           "url": "https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg"
-        },
-        {
-          "name": "Viktor Orri \u00c1rnason",
-          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
         }
       ],
-      "duration_ms": 155374,
-      "name": "Prelude",
-      "url": "https://open.spotify.com/track/3Vs52Ijr0tBtaavIuYWidh"
+      "duration_ms": 83315,
+      "name": "The Universal End",
+      "url": "https://open.spotify.com/track/66DXzaaWWCZGyq64Jp17Gs"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Sicario: Day of the Soldado (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/12QFS9IPnlICbESBw96prr"
+        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
         }
       ],
-      "duration_ms": 150213,
-      "name": "Alejandro Saves Isabelle",
-      "url": "https://open.spotify.com/track/399IMeqnuZS65Hrs7lK2Vs"
+      "duration_ms": 121760,
+      "name": "Ravine",
+      "url": "https://open.spotify.com/track/6AqDWGmP2cZrP0HlF9OWw0"
     },
     {
       "added_at": null,
@@ -767,22 +767,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
+        "name": "Sicario: Day of the Soldado (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/12QFS9IPnlICbESBw96prr"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
         }
       ],
-      "duration_ms": 121760,
-      "name": "Ravine",
-      "url": "https://open.spotify.com/track/6AqDWGmP2cZrP0HlF9OWw0"
+      "duration_ms": 150213,
+      "name": "Alejandro Saves Isabelle",
+      "url": "https://open.spotify.com/track/399IMeqnuZS65Hrs7lK2Vs"
     },
     {
       "added_at": null,
@@ -806,27 +802,35 @@
         {
           "name": "Robert Aiki Aubrey Lowe",
           "url": "https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg"
+        },
+        {
+          "name": "Viktor Orri \u00c1rnason",
+          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
         }
       ],
-      "duration_ms": 83315,
-      "name": "The Universal End",
-      "url": "https://open.spotify.com/track/66DXzaaWWCZGyq64Jp17Gs"
+      "duration_ms": 155374,
+      "name": "Prelude",
+      "url": "https://open.spotify.com/track/3Vs52Ijr0tBtaavIuYWidh"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Without Sinking",
-        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
+        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
         }
       ],
-      "duration_ms": 357559,
-      "name": "Elevation",
-      "url": "https://open.spotify.com/track/0mILNrJIRsv5Zby7PNfobw"
+      "duration_ms": 298106,
+      "name": "Leaving Home",
+      "url": "https://open.spotify.com/track/40D2vS5fPUfudDmYp95Bv8"
     },
     {
       "added_at": null,
@@ -867,22 +871,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
+        "name": "Without Sinking",
+        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
         }
       ],
-      "duration_ms": 298106,
-      "name": "Leaving Home",
-      "url": "https://open.spotify.com/track/40D2vS5fPUfudDmYp95Bv8"
+      "duration_ms": 357559,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/0mILNrJIRsv5Zby7PNfobw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saman",
+        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "Rennur Upp",
+      "url": "https://open.spotify.com/track/3aadTYskcptJckrvN1v8lo"
     },
     {
       "added_at": null,
@@ -927,58 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Sinking",
-        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 282732,
-      "name": "Ascent",
-      "url": "https://open.spotify.com/track/6EDvzKKbYw6eqSQYcWrJI4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saman",
-        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "Rennur Upp",
-      "url": "https://open.spotify.com/track/3aadTYskcptJckrvN1v8lo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
-        }
-      ],
-      "duration_ms": 99613,
-      "name": "Cana",
-      "url": "https://open.spotify.com/track/31HQUaMVQCOCLCJhjpHFBX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ser\u00eda II",
         "url": "https://open.spotify.com/album/0m7wFViFP7uJh6UzL6YmDz"
       },
@@ -1015,6 +979,42 @@
       "duration_ms": 304800,
       "name": "Her Looking Back",
       "url": "https://open.spotify.com/track/3P5v5TvgscjmGPnO3Pz7ds"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Without Sinking",
+        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 282732,
+      "name": "Ascent",
+      "url": "https://open.spotify.com/track/6EDvzKKbYw6eqSQYcWrJI4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        }
+      ],
+      "duration_ms": 99613,
+      "name": "Cana",
+      "url": "https://open.spotify.com/track/31HQUaMVQCOCLCJhjpHFBX"
     },
     {
       "added_at": null,
@@ -1063,6 +1063,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "F\u00f3lk f\u00e6r andlit",
+        "url": "https://open.spotify.com/album/40ytPe4LS1xYL5G4TLuaWl"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 313150,
+      "name": "F\u00f3lk f\u00e6r andlit",
+      "url": "https://open.spotify.com/track/5dYv0usr2tUu6HufKzcxio"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 91293,
       "name": "The Dress",
       "url": "https://open.spotify.com/track/6dIBeXOKUrxEA5ppvjKsh8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F\u00f3lk f\u00e6r andlit",
-        "url": "https://open.spotify.com/album/40ytPe4LS1xYL5G4TLuaWl"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 313150,
-      "name": "F\u00f3lk f\u00e6r andlit",
-      "url": "https://open.spotify.com/track/5dYv0usr2tUu6HufKzcxio"
     },
     {
       "added_at": null,

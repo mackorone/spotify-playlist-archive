@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 
 > Dance tracks for your power moves
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,575 likes - 90 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,594 likes - 90 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,15 +88,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 | 78 | [Closer](https://open.spotify.com/track/1B4OIfL8ovAHujVlHvhnAq) | [Sherman de Vries](https://open.spotify.com/artist/0PZ5NAziJDDcjnpMvkmMYA), [Navaro](https://open.spotify.com/artist/1NTpb0EU5OWNdUqtWEdnSW), [Brenda Mullen](https://open.spotify.com/artist/2RkjEzhUyusJ4KrD5A9yiv) | [Closer](https://open.spotify.com/album/4DKA5qXjV1vihrD5m2lVWD) | 2:54 |
 | 79 | [Never Fall Down](https://open.spotify.com/track/3NS4Ig26lvvVoIz0CngOmm) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [LAUWEND](https://open.spotify.com/artist/12QQZ0RBLnfB2MS8FrwmmM) | [Never Fall Down](https://open.spotify.com/album/3KC6P4Pq4CWaNLIPgJtTzQ) | 2:24 |
 | 80 | [Let Me Go](https://open.spotify.com/track/6L35B2ydbabuLe9q7diEq7) | [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Let Me Go](https://open.spotify.com/album/4W6JgfyZpadxcjoPEXCyee) | 3:03 |
-| 81 | [Elevate \(feat\. RANI\)](https://open.spotify.com/track/1CJUiFwl7TunU6G4tjFf2A) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Elevate \(feat\. RANI\)](https://open.spotify.com/album/1BJiT96gyEtwZ42k4OdecY) | 2:12 |
-| 82 | [Redemption](https://open.spotify.com/track/24qGzpKagxg9t1zkzzg03Z) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [RMB](https://open.spotify.com/artist/4YXOQZR6WVMNXaQ5e72DnG) | [Redemption](https://open.spotify.com/album/0DC1qER7OczaSRCZ75bULZ) | 2:15 |
+| 81 | [Redemption](https://open.spotify.com/track/24qGzpKagxg9t1zkzzg03Z) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [RMB](https://open.spotify.com/artist/4YXOQZR6WVMNXaQ5e72DnG) | [Redemption](https://open.spotify.com/album/0DC1qER7OczaSRCZ75bULZ) | 2:15 |
+| 82 | [Elevate \(feat\. RANI\)](https://open.spotify.com/track/1CJUiFwl7TunU6G4tjFf2A) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Elevate \(feat\. RANI\)](https://open.spotify.com/album/1BJiT96gyEtwZ42k4OdecY) | 2:12 |
 | 83 | [Without Your Love](https://open.spotify.com/track/3cFdgPFBfGZuPisJhyN5az) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Catello](https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE) | [Without Your Love](https://open.spotify.com/album/7MX0snymC4VDz5hpGojcIs) | 2:34 |
 | 84 | [I DON'T KNOW](https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [I DON'T KNOW](https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv) | 2:52 |
 | 85 | [Lifted](https://open.spotify.com/track/7stoqVp7FS8Q8g26UCQZX9) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Lifted](https://open.spotify.com/album/0IqYzpvrq2ptT6HDEPwrbF) | 2:39 |
 | 86 | [24k Heart Of Gold](https://open.spotify.com/track/5knJFCWGryxZkFyYtUSCzH) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [24k Heart Of Gold](https://open.spotify.com/album/0632qm5oTzinzWBDiS4O3n) | 2:16 |
 | 87 | [Needing You](https://open.spotify.com/track/36TDp73ujhbKnX6qxPqjmb) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz) | [Needing You](https://open.spotify.com/album/1SKUtzbpnb3sNj0EWBiUF7) | 3:36 |
-| 88 | [Good Lie](https://open.spotify.com/track/4kkKKawDhsFj37ulsYRFOl) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Good Lie](https://open.spotify.com/album/6RR6VBJ7Ipit4OIhKkqpyB) | 2:51 |
-| 89 | [Combo](https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [Combo](https://open.spotify.com/album/6stJfQJm5ooEJJoufO41Mn) | 2:41 |
+| 88 | [Combo](https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [Combo](https://open.spotify.com/album/6stJfQJm5ooEJJoufO41Mn) | 2:41 |
+| 89 | [Good Lie](https://open.spotify.com/track/4kkKKawDhsFj37ulsYRFOl) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Good Lie](https://open.spotify.com/album/6RR6VBJ7Ipit4OIhKkqpyB) | 2:51 |
 | 90 | [Guiding Light](https://open.spotify.com/track/4Arnh7J9U6YzysVBUNZcR0) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Guiding Light](https://open.spotify.com/album/58sgLN9OAebaaf0J1ntW8E) | 2:43 |
 
 Snapshot ID: `aFUI0gAAAAANWG3mVoYcFnzAsZw3mblj`

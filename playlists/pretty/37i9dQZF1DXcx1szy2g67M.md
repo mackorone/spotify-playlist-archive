@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 
 > Kom maar op met de zon ☀️🌼🌻
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,741 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 640,029 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
+| 1 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
 | 2 | [Regalo](https://open.spotify.com/track/3xdRXm4yzRPXfBRf6B2IUN) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Regalo](https://open.spotify.com/album/7nNa1v3m5iPVvrXpbUd0fZ) | 3:04 |
 | 3 | [The Summer Is Magic](https://open.spotify.com/track/7lC25gUPrasUpSuRFS01bR) | [Luvstruck](https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy), [Carlprit](https://open.spotify.com/artist/0Wj6u7zMY2dOLkJGz62bEp) | [The Summer Is Magic](https://open.spotify.com/album/6MjlZdywOHPQCUSGqGPA7h) | 2:08 |
 | 4 | [Tamo Bien](https://open.spotify.com/track/72RjC359lcwhf1cON9ppls) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w) | [Tamo Bien](https://open.spotify.com/album/2K3vXTZjcuWR8H8LgvJ8Yk) | 3:06 |

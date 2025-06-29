@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 114903,
+  "num_followers": 114938,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2025-06-25 12:11:22",
       "album": {
+        "name": "Sol, snaps & skandaler",
+        "url": "https://open.spotify.com/album/6SEWMGvhntZlxRa4r4g2XI"
+      },
+      "artists": [
+        {
+          "name": "SEDET",
+          "url": "https://open.spotify.com/artist/0eoCAkhtLKhh09q4DFoM4I"
+        }
+      ],
+      "duration_ms": 184199,
+      "name": "Sol, snaps & skandaler",
+      "url": "https://open.spotify.com/track/17pKdphlthkMsnSzOOBX9E"
+    },
+    {
+      "added_at": "2025-06-25 12:11:22",
+      "album": {
         "name": "Hva skjedde i g\u00e5r",
         "url": "https://open.spotify.com/album/1vcgYJBUvtUnnatQAeMPGD"
       },
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2025-06-25 12:11:22",
       "album": {
-        "name": "Sol, snaps & skandaler",
-        "url": "https://open.spotify.com/album/6SEWMGvhntZlxRa4r4g2XI"
-      },
-      "artists": [
-        {
-          "name": "SEDET",
-          "url": "https://open.spotify.com/artist/0eoCAkhtLKhh09q4DFoM4I"
-        }
-      ],
-      "duration_ms": 184199,
-      "name": "Sol, snaps & skandaler",
-      "url": "https://open.spotify.com/track/17pKdphlthkMsnSzOOBX9E"
-    },
-    {
-      "added_at": "2025-06-25 12:11:22",
-      "album": {
         "name": "Vakker og vill",
         "url": "https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj"
       },
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-06-25 12:11:22",
       "album": {
-        "name": "Hej sk\u00e5l!",
-        "url": "https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS"
-      },
-      "artists": [
-        {
-          "name": "Kuselofte",
-          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
-        }
-      ],
-      "duration_ms": 129375,
-      "name": "Hej sk\u00e5l!",
-      "url": "https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl"
-    },
-    {
-      "added_at": "2025-06-25 12:11:22",
-      "album": {
         "name": "Bygdas Rebell",
         "url": "https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 221833,
       "name": "Bygdas Rebell",
       "url": "https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR"
+    },
+    {
+      "added_at": "2025-06-25 12:11:22",
+      "album": {
+        "name": "Hej sk\u00e5l!",
+        "url": "https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS"
+      },
+      "artists": [
+        {
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+        }
+      ],
+      "duration_ms": 129375,
+      "name": "Hej sk\u00e5l!",
+      "url": "https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl"
     },
     {
       "added_at": "2025-06-25 12:11:22",

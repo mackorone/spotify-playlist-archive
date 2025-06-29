@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 42 | [Devotion](https://open.spotify.com/track/2RziQjJfYozWXX5d2AyRYi) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 3:46 |
 | 43 | [Big Love](https://open.spotify.com/track/4ZZP7iyB0YfM9U1ol72QH9) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Big Love](https://open.spotify.com/album/4u7AoktiBF4Db55wxN7T7b) | 3:02 |
 | 44 | [GIRL ON TV](https://open.spotify.com/track/2EPLg9fa4HKsBzuVR5Hwhn) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 3:12 |
-| 45 | [Flowers & Superpowers](https://open.spotify.com/track/0qTeYzqoW8qHv4ioYM66XD) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Flowers & Superpowers](https://open.spotify.com/album/1rnWboK5R8laTbVmA9tV3o) | 2:45 |
-| 46 | [Will It Find Me](https://open.spotify.com/track/0msLXGH72jfmy50Z5CAqPA) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 3:29 |
+| 45 | [Will It Find Me](https://open.spotify.com/track/0msLXGH72jfmy50Z5CAqPA) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 3:29 |
+| 46 | [Flowers & Superpowers](https://open.spotify.com/track/0qTeYzqoW8qHv4ioYM66XD) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Flowers & Superpowers](https://open.spotify.com/album/1rnWboK5R8laTbVmA9tV3o) | 2:45 |
 | 47 | [Too Close \(with Wrabel\)](https://open.spotify.com/track/2B5uUYyiDpFCgEGdbVpOZj) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Too Close \(with Wrabel\)](https://open.spotify.com/album/1rWqOpBKbCoxUvirPmBKXg) | 3:28 |
 | 48 | [Joshua Tree](https://open.spotify.com/track/3iExRKI7vV9RrzvAuXmMTY) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Bad Together](https://open.spotify.com/album/4haA1dy0wMx6EthzDgsGRb) | 3:51 |
 | 49 | [Lost Cause](https://open.spotify.com/track/72cW36itoiN4orlNQtJgGE) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:38 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 144 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 145 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `Ab1SqAAAAAA3GX3tIQR6a2tGBTfEmg1e`
+Snapshot ID: `Ab1YPgAAAABjibzzPg8Me+Fu2bEhzrCQ`

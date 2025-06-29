@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIUIEDIU11pe6>Forevermore</a> and <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIUIEDIU11pe6>Forevermore</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
     {
@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 210893,
       "name": "A Threnody For Modern Romance",
       "url": "https://open.spotify.com/track/40hir97i5PBSkB3rURdnLl"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 227444,
       "name": "Aeris",
       "url": "https://open.spotify.com/track/2De1GoPn6KqpjzYYwPvqnv"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 274866,
       "name": "Anodyne Sea",
       "url": "https://open.spotify.com/track/5XlgvmakaU9N7IoGabsJyk"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 191173,
       "name": "Collision",
       "url": "https://open.spotify.com/track/0tnNBASLBWbtQmF5gymU8R"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 252666,
       "name": "Convalescence",
       "url": "https://open.spotify.com/track/49ujOeGn9ErIbGIMNJZDsf"
@@ -1582,7 +1582,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 261773,
       "name": "Gimme Half",
       "url": "https://open.spotify.com/track/1jBfKLo7PdlRqMHXTsbgcz"
@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 185413,
       "name": "I Hate Buffering",
       "url": "https://open.spotify.com/track/4iVwQzFOycifzx28z6C0cW"
@@ -1780,7 +1780,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 222346,
       "name": "Indictment",
       "url": "https://open.spotify.com/track/3KBYHSo6IPP3WNMadvouX7"
@@ -1924,7 +1924,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-21",
+      "date_removed": null,
       "duration_ms": 226592,
       "name": "Kj\u00e6rlighet",
       "url": "https://open.spotify.com/track/2AoctGHjTPRK7Heiu6gLIr"
@@ -2032,7 +2032,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 163053,
       "name": "Mammoth",
       "url": "https://open.spotify.com/track/6mxOhvBLD7wsv4iHlWVEa6"
@@ -2068,7 +2068,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-24",
+      "date_removed": null,
       "duration_ms": 192626,
       "name": "Meaning in Tragedy",
       "url": "https://open.spotify.com/track/1oe7vtdnSYSh2po2YGkXQ3"
@@ -2648,7 +2648,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 293666,
       "name": "Revive",
       "url": "https://open.spotify.com/track/0egwM3fS9lfjM9Uexzfh3f"
@@ -2738,7 +2738,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 195906,
       "name": "Sassafras",
       "url": "https://open.spotify.com/track/09CyJ5SqgQhgBazUBktPrF"
@@ -3206,7 +3206,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 228133,
       "name": "The New Breed",
       "url": "https://open.spotify.com/track/6XduH1ZBD6sQUB9inVjulh"
@@ -3638,7 +3638,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 223813,
       "name": "Wapakalypse",
       "url": "https://open.spotify.com/track/2F9h1BJsE8WzY11yA7L0FG"
@@ -3710,7 +3710,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 251320,
       "name": "When Everything Falls",
       "url": "https://open.spotify.com/track/5z9amXA7pdaWIuHLmcOoaV"

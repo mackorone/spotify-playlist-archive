@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 255079,
+  "num_followers": 255230,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -679,26 +679,6 @@
     {
       "added_at": "2025-05-16 13:23:37",
       "album": {
-        "name": "Lose You",
-        "url": "https://open.spotify.com/album/3kwO6PsIaJRPly16C4kdMI"
-      },
-      "artists": [
-        {
-          "name": "Lonely in the Rain",
-          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
-        },
-        {
-          "name": "Nick Wilson",
-          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
-        }
-      ],
-      "duration_ms": 157278,
-      "name": "Lose You",
-      "url": "https://open.spotify.com/track/4xbmE7Wf6afPmc8Px1Rc7Q"
-    },
-    {
-      "added_at": "2025-05-16 13:23:37",
-      "album": {
         "name": "Orange Sky",
         "url": "https://open.spotify.com/album/1BS5KiDhUsl44A4nwatXfO"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 150000,
       "name": "Orange Sky",
       "url": "https://open.spotify.com/track/3A3mFJaeBvAomfvhEEY9OA"
+    },
+    {
+      "added_at": "2025-05-16 13:23:37",
+      "album": {
+        "name": "Lose You",
+        "url": "https://open.spotify.com/album/3kwO6PsIaJRPly16C4kdMI"
+      },
+      "artists": [
+        {
+          "name": "Lonely in the Rain",
+          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
+        },
+        {
+          "name": "Nick Wilson",
+          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
+        }
+      ],
+      "duration_ms": 157278,
+      "name": "Lose You",
+      "url": "https://open.spotify.com/track/4xbmE7Wf6afPmc8Px1Rc7Q"
     },
     {
       "added_at": "2025-05-16 13:23:37",

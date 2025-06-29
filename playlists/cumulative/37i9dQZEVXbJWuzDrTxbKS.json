@@ -4736,7 +4736,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -6358,7 +6358,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 173217,
       "name": "Br\u0101l' Ar Dz\u012bvi Nekaul\u0113",
       "url": "https://open.spotify.com/track/6IHo6KA0JW6FEHT0hdkx7s"
@@ -9318,7 +9318,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 209783,
       "name": "Debesis Va\u013c\u0101",
       "url": "https://open.spotify.com/track/0FiPtBSIPZspuJNOgxILQi"
@@ -9928,7 +9928,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
@@ -11354,7 +11354,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 234736,
       "name": "Dzeguzes balss",
       "url": "https://open.spotify.com/track/1I3qG35qZPrO7soaQ1OiGO"
@@ -14490,6 +14490,24 @@
       "duration_ms": 263941,
       "name": "Funny Papers",
       "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
+    },
+    {
+      "album": {
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2025-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197226,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
     },
     {
       "album": {
@@ -20668,7 +20686,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 229359,
       "name": "Kalniem p\u0101ri",
       "url": "https://open.spotify.com/track/3hgSqoZLV1dAkE1x8W7LsU"
@@ -24183,6 +24201,24 @@
     },
     {
       "album": {
+        "name": "lovesong",
+        "url": "https://open.spotify.com/album/51RGZw45NQXrMwmcYyT86p"
+      },
+      "artists": [
+        {
+          "name": "Kai Angel",
+          "url": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
+        }
+      ],
+      "date_added": "2025-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107586,
+      "name": "lovesong",
+      "url": "https://open.spotify.com/track/7ftKHLwWvWJe0GstyI88YR"
+    },
+    {
+      "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
       },
@@ -26182,7 +26218,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 284066,
       "name": "Messy",
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
@@ -32546,7 +32582,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 241258,
       "name": "Plan\u0113ta: Pritons",
       "url": "https://open.spotify.com/track/5SmpCD8NJSFnJa6NeAl88J"
@@ -33592,7 +33628,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 206032,
       "name": "P\u0101ri Oke\u0101nam (feat. J\u0101nis Kr\u016bmi\u0146\u0161)",
       "url": "https://open.spotify.com/track/57sTCFCVOHwG2hsXWUYv6l"
@@ -37182,7 +37218,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-29",
       "duration_ms": 239999,
       "name": "Shimmy",
       "url": "https://open.spotify.com/track/3AZGF9eV68DnDbhWDWGBzn"

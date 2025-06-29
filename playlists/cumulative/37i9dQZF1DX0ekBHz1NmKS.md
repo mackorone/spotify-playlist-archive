@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,924 songs - 4 day 3 hr 46 min
+1,927 songs - 4 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [4 In The Morning](https://open.spotify.com/track/0SuyXIUFGDwdDUhJ95efC6) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [4 In The Morning](https://open.spotify.com/album/2NWTqLoxgcRzR7Ld7I3oOM) | 3:09 | 2022-03-17 | 2022-05-04 |
 | [42](https://open.spotify.com/track/5o0zuf9X17P9bha9TQT24n) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [THE ONE AFTER ME](https://open.spotify.com/album/1CpAZ5SVa6llHILfePxjRq) | 3:44 | 2023-06-01 | 2023-06-29 |
 | [44](https://open.spotify.com/track/3EgGUHciOMVlUZAjH6VfDC) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [44](https://open.spotify.com/album/5U0g3N6dXf5AmedbMuRT3e) | 3:08 | 2024-01-25 | 2024-03-15 |
+| [4L](https://open.spotify.com/track/13EHxr8bqdfqwXtyp411bf) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [4L](https://open.spotify.com/album/3NX60E3tiZN3Xx3U14xYdd) | 2:31 | 2025-06-26 |  |
 | [5656](https://open.spotify.com/track/15I1otvOIaCUPpE40sik1B) | [Knut€](https://open.spotify.com/artist/7n3qgKSD6IGnbzODQWnGTa) | [5656](https://open.spotify.com/album/5pcRjUDq57OcWVKf52OGyI) | 2:38 | 2025-01-30 | 2025-02-07 |
 | [5D](https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 3:45 | 2022-07-28 | 2023-05-21 |
 | [60 L.E.S.](https://open.spotify.com/track/35sbxt8GYiBwwtcB5JZgpR) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe), [Esta Kirabo](https://open.spotify.com/artist/52oDOwHuuZWVrZIGW6ww8v) | [60 L.E.S.](https://open.spotify.com/album/7zIWxOx3yqlCqMCfxbLNOP) | 3:01 | 2025-04-10 | 2025-05-25 |
@@ -204,6 +205,7 @@
 | [Boyband Comeback](https://open.spotify.com/track/6uSilGB6C7cNtktthk22bI) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [Boyband Comeback](https://open.spotify.com/album/6ZAGgMfTsLq9c8rfj7L42D) | 3:02 | 2024-05-02 | 2024-06-01 |
 | [Boys In The Sea](https://open.spotify.com/track/4j31U5bwTpzRXH9cK9FZdf) | [Bianca Ingrosso](https://open.spotify.com/artist/3VhdRFPzyb8huDuJkxpLFa) | [Boys In The Sea](https://open.spotify.com/album/03vSTMCwvCQSp6uq3dsfmN) | 3:10 | 2024-06-06 | 2024-08-09 |
 | [Boys We Chased](https://open.spotify.com/track/3pVSRJ6HUxdk9GFl4FTvmg) | [Boys and Ivy](https://open.spotify.com/artist/3GrJO6kJGc0koDm1C1dBBk) | [Boys We Chased](https://open.spotify.com/album/05kCs6VC9to0deUTGfioej) | 3:29 | 2022-03-10 | 2022-07-29 |
+| [Boys will be Boys](https://open.spotify.com/track/0kqLJ1b7GlMjBEXb8yAQXK) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Boys will be Boys](https://open.spotify.com/album/5HJuTYYesC7B2ewqFf8zBV) | 2:49 | 2025-06-26 |  |
 | [Bra ihop](https://open.spotify.com/track/1V8ZCGO852CLJmj0qhNXwh) | [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Bra ihop](https://open.spotify.com/album/7r6cb6MK0xNBmqeGV9fKWC) | 3:43 | 2021-12-16 | 2022-03-11 |
 | [Bra Tillslut](https://open.spotify.com/track/4lif0zD0Xk6peesLpB2cCV) | [Herbert Munkhammar](https://open.spotify.com/artist/0FPUIdSdUKHXXOAqNMJ976) | [Bra Tillslut](https://open.spotify.com/album/79FkSdHsZtMvifeR5XNgvB) | 2:16 | 2021-12-16 | 2021-12-30 |
 | [Bra vibbar Del 2 \(Bra vibrationer\)](https://open.spotify.com/track/43XDyDwka658kl7tE31LcB) | [Evert Mob](https://open.spotify.com/artist/6Rr1cWqaDnXGUHGTMAh8nN) | [Bra vibbar Del 2 \(Bra vibrationer\)](https://open.spotify.com/album/51PsFFDADd7HpUvffXAKZL) | 3:08 | 2022-03-10 | 2022-05-12 |
@@ -216,6 +218,7 @@
 | [Brighter Life](https://open.spotify.com/track/1UxaiijiAG3CLAhID10Cqo) | [Kristin Amparo](https://open.spotify.com/artist/2vxWDuk2inw00eo3Hag2QR) | [Brighter Life](https://open.spotify.com/album/1F3NJS50TEnU0RbLGV284n) | 3:05 | 2024-03-07 | 2024-04-19 |
 | [Bring it on, bring it all \- BIJI Remix](https://open.spotify.com/track/3RSnTjmCxNadbi4zKlrVWF) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc), [BIJI](https://open.spotify.com/artist/2spZzA9c41ahb6OIXkYJgy) | [Bring it on, bring it all \(BIJI Remix\)](https://open.spotify.com/album/4WfZemYndRi5j4INB3qC72) | 3:42 | 2025-05-22 |  |
 | [Brinner](https://open.spotify.com/track/0emeZAXCygTTC6in4gEVtK) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Brinner](https://open.spotify.com/album/5xEDiyvCJ4v7SoepIV9Ne6) | 3:41 | 2023-03-30 | 2023-05-07 |
+| [Broken Halo](https://open.spotify.com/track/3Gg8RDjN0ewyQ2mFWPpIYH) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Broken Halo](https://open.spotify.com/album/04j1OTKs16Db2n40x6Hrh4) | 2:56 | 2025-06-26 |  |
 | [Bruises](https://open.spotify.com/track/4bUPB5OTmN7L6l82MC1pa4) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Bruises](https://open.spotify.com/album/7jgXloTEyFpZ3p366I0PO1) | 4:04 | 2023-10-19 | 2023-11-06 |
 | [Bryr du dig?](https://open.spotify.com/track/12SwCJOrLV1Kga1KvlFpV8) | [Frida Lif](https://open.spotify.com/artist/69qWf1qLvLjd5Pu9APRL0Y) | [Bryr du dig?](https://open.spotify.com/album/35uChkVg1hcrWAc0oC6HW8) | 3:42 | 2024-05-02 | 2024-05-24 |
 | [Bränner](https://open.spotify.com/track/7M5QepCsK6kYex4EWWsmhd) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Bränner](https://open.spotify.com/album/5AecwqcLjSTpqjgPtCDZ65) | 3:08 | 2022-06-09 | 2022-07-28 |
@@ -726,7 +729,7 @@
 | [Hollow Woods](https://open.spotify.com/track/2ate2zkgChme3nCh6AhtNS) | [Nomi](https://open.spotify.com/artist/2kHbs6arBtyzIgY5l86m3K) | [Hollow Woods](https://open.spotify.com/album/2L3CYGyZmGjCg6DKSrusQP) | 3:41 | 2022-05-05 | 2022-06-07 |
 | [Home](https://open.spotify.com/track/0kNrU9T11w6fcaFGzQgQiL) | [Kevin Walker](https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT) | [Home](https://open.spotify.com/album/5SOLje4rpsYE9O5bhNx8cM) | 3:01 | 2024-08-15 | 2024-09-27 |
 | [Home \(Truckstops and Airports\)](https://open.spotify.com/track/4JiFa6TIB4nDUxKSVZYhf9) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Home \(Truckstops and Airports\)](https://open.spotify.com/album/0cdboLJ121JrMns7p0Hm6f) | 3:42 | 2024-08-15 | 2025-03-14 |
-| [Hon får mig dansa](https://open.spotify.com/track/6cMKUMafbyVrXYoaHC9FcW) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Hon får mig dansa](https://open.spotify.com/album/6TEULhvPJGhxAG6tAaxNOW) | 2:53 | 2025-04-17 |  |
+| [Hon får mig dansa](https://open.spotify.com/track/6cMKUMafbyVrXYoaHC9FcW) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Hon får mig dansa](https://open.spotify.com/album/6TEULhvPJGhxAG6tAaxNOW) | 2:53 | 2025-04-17 | 2025-06-29 |
 | [Hon har dig](https://open.spotify.com/track/02twVAfoDG1podz5ns885c) | [bby](https://open.spotify.com/artist/229RQG4IQ1BFiS1FJvww5N) | [Bara bby](https://open.spotify.com/album/3plhQIEFllsYNv708OaENV) | 2:35 | 2022-05-05 | 2023-04-01 |
 | [HON SA](https://open.spotify.com/track/7Fm1A727O2wgbWcGyp15p8) | [Chico](https://open.spotify.com/artist/4zS16DZY9bd9qPKjCBuF8n) | [HON SA](https://open.spotify.com/album/7uyo0yNpkSeJrMR3cfnMMX) | 2:47 | 2024-06-06 | 2024-08-09 |
 | [Hon sa](https://open.spotify.com/track/3LHWa0MK1AlEI9hukUSxn1) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [En liten låtidé](https://open.spotify.com/album/6Efrrr4boSN6DWpSFbDTSN) | 3:04 | 2023-03-23 | 2023-10-06 |
@@ -864,11 +867,11 @@
 | [It's a love cult!](https://open.spotify.com/track/0Dd8kzlLm9vYXCsWb0esp6) | [Friska Viljor](https://open.spotify.com/artist/3gToxmSxuAo27Aa0wD8Yul) | [It's a love cult!](https://open.spotify.com/album/0mAz5bcUPnLs7gL9liXUyi) | 2:54 | 2025-05-01 | 2025-05-28 |
 | [ITU](https://open.spotify.com/track/76QeAjK4hohWISYPPRG6aB) | [Gamebojj](https://open.spotify.com/artist/3tL3V3oYCfUDA6eECPGw1j) | [ITU](https://open.spotify.com/album/1XGtPfBQiibTyAciRath3V) | 2:19 | 2024-06-13 | 2024-08-16 |
 | [I´m Not Your Girl](https://open.spotify.com/track/6ieR62VPMIZGOwB8LeO9Th) | [Emma Nilsdotter](https://open.spotify.com/artist/2AAJ99uA6YnG8XgqBmFDnd), [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq) | [I´m Not Your Girl](https://open.spotify.com/album/5XrQYpeiUCIYZ6GgF4YzL6) | 3:40 | 2024-03-14 | 2024-04-19 |
-| [I’m gonna die](https://open.spotify.com/track/1WLL3Kstyvue7WeD71ejnq) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [I’m gonna die](https://open.spotify.com/album/4L4110iqb48qGRmk5S0gol) | 3:25 | 2025-05-15 |  |
+| [I’m gonna die](https://open.spotify.com/track/1WLL3Kstyvue7WeD71ejnq) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [I’m gonna die](https://open.spotify.com/album/4L4110iqb48qGRmk5S0gol) | 3:25 | 2025-05-15 | 2025-06-29 |
 | [I’m His, He’s Mine](https://open.spotify.com/track/4ssi26oVcUXWLooc1Ac0Ni) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Younger](https://open.spotify.com/album/7akLNZ7EOOAZuNqNEc2zNA) | 2:39 | 2024-01-25 | 2024-02-23 |
 | [I’m Not a Boy](https://open.spotify.com/track/1MCqZiyILK5yKITelASw7a) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [I’m Not a Boy](https://open.spotify.com/album/1SHRLt3g7yrOZT9TG7Ffep) | 2:32 | 2025-01-30 | 2025-05-30 |
 | [Ja](https://open.spotify.com/track/7l7xxZPc59AS2ZELHnrLul) | [Jasmine Kara](https://open.spotify.com/artist/6KzFpoFDDvmlin4ij5zgMj) | [Ja](https://open.spotify.com/album/21daaQE9MppIykDklxl4wk) | 3:10 | 2022-05-05 | 2022-07-28 |
-| [Ja visst gör det ont](https://open.spotify.com/track/4Iz9mYKm1If0cX5WdKGlCz) | [Ulrik Munther](https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM) | [Ja visst gör det ont](https://open.spotify.com/album/1vPi8ZtpnKZyoyv2qDZuOK) | 3:17 | 2025-05-01 |  |
+| [Ja visst gör det ont](https://open.spotify.com/track/4Iz9mYKm1If0cX5WdKGlCz) | [Ulrik Munther](https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM) | [Ja visst gör det ont](https://open.spotify.com/album/1vPi8ZtpnKZyoyv2qDZuOK) | 3:17 | 2025-05-01 | 2025-06-29 |
 | [Jag borde gå](https://open.spotify.com/track/2v9FTezxTq2caERaOKGgdr) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Jag borde gå](https://open.spotify.com/album/4qFOfgIEz5MkWQCi5renDw) | 3:37 | 2024-10-10 | 2025-02-22 |
 | [Jag drömmer mig fri](https://open.spotify.com/track/1eH7fE5AZvPC8CxQrUAim3) | [Gustaf Rasch](https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh) | [Jag drömmer mig fri](https://open.spotify.com/album/3BDnwsKU1qJWNTSuCrzjqe) | 3:11 | 2024-05-23 | 2024-06-21 |
 | [Jag har en sång](https://open.spotify.com/track/5EEBaNtTSxGAFDDvF4u0to) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Jag har en sång](https://open.spotify.com/album/54APrhPiWgvMab1fFU8wiJ) | 1:12 | 2021-12-16 | 2022-05-10 |

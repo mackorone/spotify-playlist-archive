@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,702 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,739 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 34 | [Sem Samba Não Dá](https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Meu Coco](https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz) | 3:32 |
 | 35 | [Chega de Saudade](https://open.spotify.com/track/7CS9xHifm0tfyGCmrRAEQ7) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Beth](https://open.spotify.com/album/57u3pqnTEmTJvl9iJ5x2kO) | 3:28 |
 | 36 | [Retalhos De Cetim](https://open.spotify.com/track/7cyFv6ZvrP45UN16w4Zotp) | [Benito 80](https://open.spotify.com/artist/3vDT0UZVM3eGOG3GXg1nY1), [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i) | [Novo Samba Sempre Novo](https://open.spotify.com/album/5BW4rMXqWggq5fR8RHG1cf) | 3:57 |
-| 37 | [Nem Lá, Nem Cá](https://open.spotify.com/track/4ofq9YFrrZEdc8K0hYmG83) | [Cleber Augusto](https://open.spotify.com/artist/4zH4meR9JXGrpwJx0v8BVh), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Minhas Andanças \(Completo\)](https://open.spotify.com/album/7ms6TgkVh9MYlaIG1crwSs) | 4:04 |
-| 38 | [Folhas Secas](https://open.spotify.com/track/3xjW13hgLwBdfPh0wEOPtD) | [Sambabook](https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE), [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Sambabook Beth Carvalho](https://open.spotify.com/album/6n2DZ90JnfaXLij3cqfLye) | 2:13 |
+| 37 | [Folhas Secas](https://open.spotify.com/track/3xjW13hgLwBdfPh0wEOPtD) | [Sambabook](https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE), [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Sambabook Beth Carvalho](https://open.spotify.com/album/6n2DZ90JnfaXLij3cqfLye) | 2:13 |
+| 38 | [Nem Lá, Nem Cá](https://open.spotify.com/track/4ofq9YFrrZEdc8K0hYmG83) | [Cleber Augusto](https://open.spotify.com/artist/4zH4meR9JXGrpwJx0v8BVh), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Minhas Andanças \(Completo\)](https://open.spotify.com/album/7ms6TgkVh9MYlaIG1crwSs) | 4:04 |
 | 39 | [Trilha do Amor \- Ao Vivo](https://open.spotify.com/track/62CE5q62TRlQn6IlkRY5e1) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Sambasá \(Ao Vivo\)](https://open.spotify.com/album/5oOP2shCd8ScEWH2mHDecV) | 3:35 |
 | 40 | [Papo Final](https://open.spotify.com/track/1S8iDtct4TXU3AbZYW5BIp) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Papo Final](https://open.spotify.com/album/4RAvbjlgTKKlWTfX2XOGmQ) | 2:33 |
 | 41 | [Feitio De Oração/Para Me Livrar Do Mal/Estrela Da Manhã](https://open.spotify.com/track/4kdm6VxhYYSrqWQnQHK3mb) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [O Pai Da Alegria](https://open.spotify.com/album/4yTMLxojFOA6BYEsQzvx1T) | 4:12 |

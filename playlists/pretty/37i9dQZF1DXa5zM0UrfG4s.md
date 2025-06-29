@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > rølp og sånt
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,903 likes - 70 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,938 likes - 70 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,14 +68,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 58 | [Baksetefylla](https://open.spotify.com/track/2pwQYcI5y6YMmpxCyA5kxO) | [Malene Axling](https://open.spotify.com/artist/2c7hfI1qJLLguxdjLsfHKQ) | [Baksetefylla](https://open.spotify.com/album/4DlXxbB7E9nXG9IUNxA4Fe) | 2:29 |
 | 59 | [Dagsfylla](https://open.spotify.com/track/09FoTcU7J5K2jpzzUwhij7) | [Kaptein EPA](https://open.spotify.com/artist/2v7lprKyLQB5CHQkT50JFk), [Flöber](https://open.spotify.com/artist/1fcZ5xS3sNC2USFveWZA7t), [Løvendahl](https://open.spotify.com/artist/2crP0DzGXR6GMPGgXeoebz) | [Dagsfylla](https://open.spotify.com/album/01a07OQoUKeb6FfsTfbNTt) | 1:51 |
 | 60 | [Zetor’n](https://open.spotify.com/track/2eknHfWE6fkw1fxcjEMD5t) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU) | 2:47 |
-| 61 | [Hva skjedde i går](https://open.spotify.com/track/78CcSemi3XfCX2T0knpp2f) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3) | [Hva skjedde i går](https://open.spotify.com/album/1vcgYJBUvtUnnatQAeMPGD) | 2:46 |
-| 62 | [Ja likaväl](https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Ja likaväl](https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh) | 2:41 |
-| 63 | [Polare](https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM) | [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [Polare](https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr) | 3:25 |
-| 64 | [Sol, snaps & skandaler](https://open.spotify.com/track/17pKdphlthkMsnSzOOBX9E) | [SEDET](https://open.spotify.com/artist/0eoCAkhtLKhh09q4DFoM4I) | [Sol, snaps & skandaler](https://open.spotify.com/album/6SEWMGvhntZlxRa4r4g2XI) | 3:04 |
+| 61 | [Sol, snaps & skandaler](https://open.spotify.com/track/17pKdphlthkMsnSzOOBX9E) | [SEDET](https://open.spotify.com/artist/0eoCAkhtLKhh09q4DFoM4I) | [Sol, snaps & skandaler](https://open.spotify.com/album/6SEWMGvhntZlxRa4r4g2XI) | 3:04 |
+| 62 | [Hva skjedde i går](https://open.spotify.com/track/78CcSemi3XfCX2T0knpp2f) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3) | [Hva skjedde i går](https://open.spotify.com/album/1vcgYJBUvtUnnatQAeMPGD) | 2:46 |
+| 63 | [Ja likaväl](https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Ja likaväl](https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh) | 2:41 |
+| 64 | [Polare](https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM) | [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [Polare](https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr) | 3:25 |
 | 65 | [Vakker og vill](https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Vakker og vill](https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj) | 3:46 |
 | 66 | [Best på fest](https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2r8sm8wyxDUz1Isu8VE5ZG) | 2:40 |
-| 67 | [Hej skål!](https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Hej skål!](https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS) | 2:09 |
-| 68 | [Bygdas Rebell](https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Bygdas Rebell](https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov) | 3:41 |
+| 67 | [Bygdas Rebell](https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Bygdas Rebell](https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov) | 3:41 |
+| 68 | [Hej skål!](https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Hej skål!](https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS) | 2:09 |
 | 69 | [Eventyr](https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Eventyr](https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt) | 2:27 |
 | 70 | [En liten plass](https://open.spotify.com/track/4WPcCS7W5Fv4UzE3aDV5IU) | [Sie Gubba](https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6) | [Langtur](https://open.spotify.com/album/1UNhDfbtYSyqjAaxodw9uy) | 3:08 |
 

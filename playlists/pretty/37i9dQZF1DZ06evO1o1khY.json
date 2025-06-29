@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 39031,
+  "num_followers": 39070,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFyNgAAAAAA/D53yOa+FFVf7kHx6E/Zk",
+  "snapshot_id": "aF3fAAAAAACXyy7RTGjNiS1sdLuzI/xd",
   "tracks": [
     {
       "added_at": null,
@@ -895,26 +895,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "FTCU (feat. GloRilla & Gangsta Boo)",
-        "url": "https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB"
+        "name": "Anyways, Life\u2019s Great\u2026Bonus Edition",
+        "url": "https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf"
       },
       "artists": [
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Gangsta Boo",
-          "url": "https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP"
         }
       ],
-      "duration_ms": 145655,
-      "name": "FTCU (feat. GloRilla & Gangsta Boo)",
-      "url": "https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL"
+      "duration_ms": 152759,
+      "name": "Don't Know (GloRidaz Bonus)",
+      "url": "https://open.spotify.com/track/0GBGLP9DxzTzbaeYzGjW48"
     },
     {
       "added_at": null,
@@ -935,18 +927,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyways, Life\u2019s Great\u2026Bonus Edition",
-        "url": "https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf"
+        "name": "FTCU (feat. GloRilla & Gangsta Boo)",
+        "url": "https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB"
       },
       "artists": [
         {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Gangsta Boo",
+          "url": "https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP"
         }
       ],
-      "duration_ms": 152759,
-      "name": "Don't Know (GloRidaz Bonus)",
-      "url": "https://open.spotify.com/track/0GBGLP9DxzTzbaeYzGjW48"
+      "duration_ms": 145655,
+      "name": "FTCU (feat. GloRilla & Gangsta Boo)",
+      "url": "https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL"
     },
     {
       "added_at": null,

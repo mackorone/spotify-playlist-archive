@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Shelby Lynne",
-  "num_followers": 228061,
+  "num_followers": 228112,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Soul Journey",
-        "url": "https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Look At Miss Ohio",
-      "url": "https://open.spotify.com/track/5vPRCX0Bj8O374jTCAQRLS"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Your Life Is a Record",
         "url": "https://open.spotify.com/album/027y46STDxTFM35diEeoxy"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 189173,
       "name": "Who You Thought I Was",
       "url": "https://open.spotify.com/track/0CEyCdEWwN1w92O76mQHmN"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Soul Journey",
+        "url": "https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Look At Miss Ohio",
+      "url": "https://open.spotify.com/track/5vPRCX0Bj8O374jTCAQRLS"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Time (The Revelator)",
-        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Everything Is Free",
-      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Wynonna & The Big Noise",
         "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 220653,
       "name": "Things That I Lean On",
       "url": "https://open.spotify.com/track/16D7vwG8vCEWferlmVZbEP"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Time (The Revelator)",
+        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Everything Is Free",
+      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Patty Griffin",
-        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
+        "name": "Last Man Standing",
+        "url": "https://open.spotify.com/album/59kwBSCOkQiV6L6tUxkNjU"
       },
       "artists": [
         {
-          "name": "Patty Griffin",
-          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 284030,
-      "name": "Where I Come From",
-      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
+      "duration_ms": 169266,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/0AxwGUoC4g9pp2lesuvvg0"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Last Man Standing",
-        "url": "https://open.spotify.com/album/59kwBSCOkQiV6L6tUxkNjU"
+        "name": "Patty Griffin",
+        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Patty Griffin",
+          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
         }
       ],
-      "duration_ms": 169266,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/0AxwGUoC4g9pp2lesuvvg0"
+      "duration_ms": 284030,
+      "name": "Where I Come From",
+      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Wouldn't It Be Great",
-        "url": "https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 150080,
-      "name": "I'm Dying for Someone to Live For",
-      "url": "https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "The Party Never Ends",
         "url": "https://open.spotify.com/album/4lhMWQupmo7IWJX0cJt1gc"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 282133,
       "name": "Barbeque",
       "url": "https://open.spotify.com/track/0nD3fm9ipkRVKeAmFbLMYl"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Wouldn't It Be Great",
+        "url": "https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 150080,
+      "name": "I'm Dying for Someone to Live For",
+      "url": "https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Transendental Blues",
+        "url": "https://open.spotify.com/album/5WLv6eZPhJuNsZnUOFRWBm"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "The Galway Girl",
+      "url": "https://open.spotify.com/track/0gUzbeEtJLUzmNwHwREjrF"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/3oipPyr0mkTo3ombQlufj2"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 296573,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/72HpDain84PJB4H6JuQ7sy"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "My Favorite Picture Of You",
-        "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
-      },
-      "artists": [
-        {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "My Favorite Picture Of You",
-      "url": "https://open.spotify.com/track/1duzyYYCocGD2JSdCWITS6"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1975,18 +1975,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Transendental Blues",
-        "url": "https://open.spotify.com/album/5WLv6eZPhJuNsZnUOFRWBm"
+        "name": "My Favorite Picture Of You",
+        "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
       },
       "artists": [
         {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
         }
       ],
-      "duration_ms": 185133,
-      "name": "The Galway Girl",
-      "url": "https://open.spotify.com/track/0gUzbeEtJLUzmNwHwREjrF"
+      "duration_ms": 212466,
+      "name": "My Favorite Picture Of You",
+      "url": "https://open.spotify.com/track/1duzyYYCocGD2JSdCWITS6"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -2011,6 +2011,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Copperhead Road (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1drpwlbkryF9OvBtRNJNiX"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Copperhead Road",
+      "url": "https://open.spotify.com/track/0ttKO7eBjyoq5Khr2X9lwV"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Live at the Old Quarter",
         "url": "https://open.spotify.com/album/2drUynocyGveMTFheprmJy"
       },
@@ -2023,22 +2039,6 @@
       "duration_ms": 154186,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/1p3ZBdx6XCXZEu7OoO0zW2"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Strangers Almanac [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/1LdMwGDQsjsAXRrslK5TLX"
-      },
-      "artists": [
-        {
-          "name": "Whiskeytown",
-          "url": "https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem"
-        }
-      ],
-      "duration_ms": 234213,
-      "name": "16 Days",
-      "url": "https://open.spotify.com/track/49FGDCURPhI4VGn3Y7bmLT"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -2063,18 +2063,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Copperhead Road (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1drpwlbkryF9OvBtRNJNiX"
+        "name": "Strangers Almanac [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/1LdMwGDQsjsAXRrslK5TLX"
       },
       "artists": [
         {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+          "name": "Whiskeytown",
+          "url": "https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem"
         }
       ],
-      "duration_ms": 270066,
-      "name": "Copperhead Road",
-      "url": "https://open.spotify.com/track/0ttKO7eBjyoq5Khr2X9lwV"
+      "duration_ms": 234213,
+      "name": "16 Days",
+      "url": "https://open.spotify.com/track/49FGDCURPhI4VGn3Y7bmLT"
     },
     {
       "added_at": "2024-08-30 04:00:00",

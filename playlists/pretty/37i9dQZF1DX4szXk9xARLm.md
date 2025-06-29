@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Elissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,417 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,437 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 12 | [بخاف من مسلسل سيد الناس](https://open.spotify.com/track/0fHBJnmzWkOhfkbKGBTVlW) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [بخاف من مسلسل سيد الناس](https://open.spotify.com/album/37Y9kPOLBf9mBHYX60YDVf) | 4:52 |
 | 13 | [غول الاصول](https://open.spotify.com/track/1KnfSD0zHxBUICdcimR6JY) | [رحمه محسن](https://open.spotify.com/artist/4n7LF1ui4BRgY6sKpcIERt) | [غول الاصول](https://open.spotify.com/album/0GnC7m8hmfuWDU8g0yHwBd) | 4:16 |
 | 14 | [Jarh 9Dim](https://open.spotify.com/track/2D90uQttl2UcZRgYDKDIMD) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Jarh 9dim](https://open.spotify.com/album/7K2R7t8bkj3N8T58r48tVw) | 2:57 |
-| 15 | [حارق ناس كتير مسلسل إش إش](https://open.spotify.com/track/7BHh2MVbdnLphbXE3BqnMp) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [حارق ناس كتير مسلسل إش إش](https://open.spotify.com/album/0wLRjwezgTD7FAY2m6dkKo) | 1:55 |
-| 16 | [Al Atawla Theme Song \(From Al Atawla Series Season 2\)](https://open.spotify.com/track/5IwnvJkaFtYMoX7r1JvWmV) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Al Atawla Theme Song \(From Al Atawla Series Season 2\)](https://open.spotify.com/album/4WOWre299bgCLkY3UzqTmc) | 2:11 |
+| 15 | [Al Atawla Theme Song \(From Al Atawla Series Season 2\)](https://open.spotify.com/track/5IwnvJkaFtYMoX7r1JvWmV) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Al Atawla Theme Song \(From Al Atawla Series Season 2\)](https://open.spotify.com/album/4WOWre299bgCLkY3UzqTmc) | 2:11 |
+| 16 | [حارق ناس كتير مسلسل إش إش](https://open.spotify.com/track/7BHh2MVbdnLphbXE3BqnMp) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [حارق ناس كتير مسلسل إش إش](https://open.spotify.com/album/0wLRjwezgTD7FAY2m6dkKo) | 1:55 |
 | 17 | [Mabrouk](https://open.spotify.com/track/7f5j6xiIAFtuPrzxdGaoGz) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Mabrouk](https://open.spotify.com/album/4mkwlYIgQ4zHk5Xkz6Ih96) | 2:37 |
 | 18 | [Sahbek Rajel \(صاحبك راجل\)](https://open.spotify.com/track/31NbnvqbqAzvQ2nv301VZA) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Sahbek Rajel \(صاحبك راجل\)](https://open.spotify.com/album/2krftAwqsvgtMWh2e6RbTN) | 3:17 |
 | 19 | [ياما نفسي اقولك \- من مسلسل عايشة الدور](https://open.spotify.com/track/59cwzz2NQK3P67tajUi05K) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [ياما نفسي اقولك \(من مسلسل عايشة الدور\)](https://open.spotify.com/album/6qSeWoOhTW8AfeH1Ox9Xth) | 3:03 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 35 | [بطل يا بطل](https://open.spotify.com/track/7LjE8S8nbujtiktd9pVur9) | [Mido Gad](https://open.spotify.com/artist/6ZcugQ1o2uf7lkFEage28f) | [بطل يا بطل](https://open.spotify.com/album/4KsZrkBA3ysOgaHULylQjf) | 3:10 |
 | 36 | [El ahd](https://open.spotify.com/track/0s5HhG8oEfNqkwOnIYIAEy) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [El ahd](https://open.spotify.com/album/4fv6qg0BGmI0gyrzRhV9Sq) | 4:59 |
 | 37 | [Khatyah Ani](https://open.spotify.com/track/4FXdcubswDigCSIdx9IFNA) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Mosalsal Seher Aswad](https://open.spotify.com/album/0EqNrd5iUYdBRPZt9w9IG4) | 3:28 |
-| 38 | [متجوزين](https://open.spotify.com/track/6BZqaxQwlLqzJfF2ZlNmvp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [متجوزين](https://open.spotify.com/album/1PIUoeP4nwOencNnzJksee) | 2:46 |
-| 39 | [Al Atawla](https://open.spotify.com/track/23z3Oekq7ye9TAaTldpc5q) | [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Al Atawla \(Music from the Original TV Series\)](https://open.spotify.com/album/1heYsl3CCuRWB1x58eu8CF) | 2:46 |
+| 38 | [Al Atawla](https://open.spotify.com/track/23z3Oekq7ye9TAaTldpc5q) | [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Al Atawla \(Music from the Original TV Series\)](https://open.spotify.com/album/1heYsl3CCuRWB1x58eu8CF) | 2:46 |
+| 39 | [متجوزين](https://open.spotify.com/track/6BZqaxQwlLqzJfF2ZlNmvp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [متجوزين](https://open.spotify.com/album/1PIUoeP4nwOencNnzJksee) | 2:46 |
 | 40 | [Al Eshrin](https://open.spotify.com/track/2lsACaA6SJEaZfsJQgNqkq) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Al Eshrin](https://open.spotify.com/album/663sqKvRzDmNsSMqICmCU6) | 3:03 |
 | 41 | [Ala Allah](https://open.spotify.com/track/14JaIJEJOfCBO0gL7b2oE4) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Ala Allah](https://open.spotify.com/album/4mKbrclkqbx6NBmA2hVdGh) | 3:14 |
 | 42 | [Atmena \- Générique d'émission](https://open.spotify.com/track/0G8JL3sBjMVM9tpH8O3hut) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Atmena \(Générique d'émission\)](https://open.spotify.com/album/5vimfmG5i8pU8mEoAwCvmD) | 2:09 |

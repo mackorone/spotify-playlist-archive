@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,126,345 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,126,683 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 59 | [Babylon](https://open.spotify.com/track/7EKP7Qa6F4GKtxxnlLLxnV) | [Sugar Minott](https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 4:20 |
 | 60 | [Ballistic Affair](https://open.spotify.com/track/0kEwYCc9znHQObgdUh6dGl) | [Leroy Smart](https://open.spotify.com/artist/6u7C6jxjkDAThmdcOnAwH0) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 3:13 |
 | 61 | [Vision Of Redemption](https://open.spotify.com/track/208LH3OhnvwWjS5CYLi4Tu) | [Fred Locks](https://open.spotify.com/artist/0O9POrd5urnAgUSE9Piuth) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 2:58 |
-| 62 | [Hold Them](https://open.spotify.com/track/2JHyRO7aEJH0UXOjZQ7m0r) | [Roy Shirley](https://open.spotify.com/artist/20SfytGDGLIt4yklvZ38wk) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:47 |
-| 63 | [Graveyard Rock](https://open.spotify.com/track/11nF2K1iXn9Ettln1Nc29b) | [Garland Jeffreys](https://open.spotify.com/artist/6BLhUZMqXO8eXjhToNRteA) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:35 |
+| 62 | [Graveyard Rock](https://open.spotify.com/track/11nF2K1iXn9Ettln1Nc29b) | [Garland Jeffreys](https://open.spotify.com/artist/6BLhUZMqXO8eXjhToNRteA) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:35 |
+| 63 | [Hold Them](https://open.spotify.com/track/2JHyRO7aEJH0UXOjZQ7m0r) | [Roy Shirley](https://open.spotify.com/artist/20SfytGDGLIt4yklvZ38wk) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:47 |
 | 64 | [Engine 54](https://open.spotify.com/track/74jDDWXiT7pPEjL7mBYrs3) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:37 |
 | 65 | [Fisher Man Dub](https://open.spotify.com/track/50QPOvKYebMWt8EBckwSyl) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Essential Dub Masters](https://open.spotify.com/album/2RzXympOFAsvIXDrqOxhyN) | 3:38 |
 | 66 | [Just Like A River](https://open.spotify.com/track/04BTjbEcGVsfzRRPYHr7Y8) | [Stranger & Gladdy](https://open.spotify.com/artist/5Dh9VDwHjpxkdR5rTR6Jnp) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:37 |
@@ -102,10 +102,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 92 | [Tenement Yard](https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Song Book: Chapter a Day](https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP) | 2:34 |
 | 93 | [Israelites](https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [The Definitive Collection: You Can Get It If You Really Want](https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3) | 2:35 |
 | 94 | [The Harder They Come \- From "The Harder They Come" Soundtrack](https://open.spotify.com/track/63yKj3bpZUCWcJ4Xh6Ygl1) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 3:39 |
-| 95 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
-| 96 | [Put a Little Love In Your Heart](https://open.spotify.com/track/4nmxuQs4WVenP0Kk83xtxh) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Young, Gifted & Black](https://open.spotify.com/album/6yqpbyj6M5HFUZQpxYS6RG) | 2:38 |
-| 97 | [Rivers of Babylon](https://open.spotify.com/track/3t3ef0BO5oPbaeYUJsxGWW) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:25 |
-| 98 | [Pass The Dutchie](https://open.spotify.com/track/7iWk45E2wIpFc3YUWm3VVn) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/5IdwXEZnCs41jsRzYg6IVM) | 3:24 |
+| 95 | [Pass The Dutchie](https://open.spotify.com/track/7iWk45E2wIpFc3YUWm3VVn) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/5IdwXEZnCs41jsRzYg6IVM) | 3:24 |
+| 96 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
+| 97 | [Put a Little Love In Your Heart](https://open.spotify.com/track/4nmxuQs4WVenP0Kk83xtxh) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Young, Gifted & Black](https://open.spotify.com/album/6yqpbyj6M5HFUZQpxYS6RG) | 2:38 |
+| 98 | [Rivers of Babylon](https://open.spotify.com/track/3t3ef0BO5oPbaeYUJsxGWW) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:25 |
 | 99 | [You Can Get It If You Really Want](https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 2:38 |
 | 100 | [Night Nurse](https://open.spotify.com/track/1PHlYnuoDNtuuq6yPXbSV6) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Night Nurse](https://open.spotify.com/album/7N01iXLj1lHSaAw4Z96DcN) | 4:08 |
 

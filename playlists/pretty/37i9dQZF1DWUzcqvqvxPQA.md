@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Sun's out...and so are you!  Let these inspirational and faith\-filled songs soundtrack your summer fun!
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,573 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,600 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 9 | [Nothin' Sweeter](https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Nothin' Sweeter](https://open.spotify.com/album/6oYpqdXHLXt9tKRpc7KVlU) | 2:56 |
 | 10 | [SOMETHING DIFFERENT](https://open.spotify.com/track/6IYLA7aFxVNi5puPw6wppV) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [SOMETHING DIFFERENT](https://open.spotify.com/album/2DLFtkfpLL3nPxrgH5xDqu) | 2:56 |
 | 11 | [Believe It](https://open.spotify.com/track/24MzsXH35mx5ZAJqIhVC8K) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Victory Lap](https://open.spotify.com/album/1HLdraTS3m3PgDkbJdFNXh) | 1:52 |
-| 12 | [LIFE IS GOOD](https://open.spotify.com/track/1MGJgerlsDFsQsUo7ITVop) | [CORTÉ](https://open.spotify.com/artist/1HPPTOUG07N4P4XsXDQ5Y2), [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [LIFE IS GOOD](https://open.spotify.com/album/04r5bM1EHVW6hlhuOzDv1N) | 3:07 |
-| 13 | [backseat drive](https://open.spotify.com/track/4IValzT5ZRzUXyofWl8mbp) | [Strings And Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [backseat drive](https://open.spotify.com/album/0KfV7F7WilXiUspp3YN1Hr) | 2:54 |
+| 12 | [backseat drive](https://open.spotify.com/track/4IValzT5ZRzUXyofWl8mbp) | [Strings And Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [backseat drive](https://open.spotify.com/album/0KfV7F7WilXiUspp3YN1Hr) | 2:54 |
+| 13 | [LIFE IS GOOD](https://open.spotify.com/track/1MGJgerlsDFsQsUo7ITVop) | [CORTÉ](https://open.spotify.com/artist/1HPPTOUG07N4P4XsXDQ5Y2), [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [LIFE IS GOOD](https://open.spotify.com/album/04r5bM1EHVW6hlhuOzDv1N) | 3:07 |
 | 14 | [FREE! \- Live](https://open.spotify.com/track/6TK9UE4eODGbyimh0qEYoq) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [FREE! \(Live\)](https://open.spotify.com/album/68M9x2mqytP80fXEXmdEOy) | 3:45 |
 | 15 | [Thorns](https://open.spotify.com/track/51ntQprVv963OPeFxdLCJt) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Thorns](https://open.spotify.com/album/5alop0gQAbADANQLRa90uP) | 3:02 |
 | 16 | [The Sacrifice](https://open.spotify.com/track/35Bkyy0sIJ2HB2fEJXlV43) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Brennan Storer](https://open.spotify.com/artist/1ghKTwpPVenS5TCCFNl0Y8) | [The Sacrifice](https://open.spotify.com/album/1Axo3TBWbcL604Jup2pYUB) | 3:48 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 34 | [Safety](https://open.spotify.com/track/2gEJF2jsnb6yqTCuy34weW) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Safety](https://open.spotify.com/album/6BlJe0bwOzQAS9oAb9nW88) | 3:07 |
 | 35 | [Not For You](https://open.spotify.com/track/0yuBiPxOKOe4jYbOzSe92t) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8), [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV) | [Not For You](https://open.spotify.com/album/3TyG2ACkY0lJ9LWcKjTnKW) | 2:13 |
 | 36 | [Wildflowers](https://open.spotify.com/track/4q8AWVVk5OB1Xz9vNoBn5h) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Wildflowers](https://open.spotify.com/album/5EMVa6j7qhA6t2C4bsTkbJ) | 3:14 |
-| 37 | [Tee It Up](https://open.spotify.com/track/5lbEEcGksMwi4ztAqCvvtA) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Tee It Up](https://open.spotify.com/album/2alSpUG97rWhumWaIAmsp0) | 2:29 |
-| 38 | [Love Me Back to Life](https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Love Me Back to Life](https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM) | 2:47 |
+| 37 | [Love Me Back to Life](https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Love Me Back to Life](https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM) | 2:47 |
+| 38 | [Tee It Up](https://open.spotify.com/track/5lbEEcGksMwi4ztAqCvvtA) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Tee It Up](https://open.spotify.com/album/2alSpUG97rWhumWaIAmsp0) | 2:29 |
 | 39 | [Eva Comin' Down](https://open.spotify.com/track/4HBtGUZWkoUPd75SlF7sCk) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Without Jesus / Eva Comin' Down](https://open.spotify.com/album/5tIMJfn9DDLPy8KQpbSBwz) | 2:40 |
 | 40 | [Right on Time](https://open.spotify.com/track/4pVzf8UaGNQV0v9HyVjjVO) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [Right on Time](https://open.spotify.com/album/0Gw9quE6VUvg49osbcrU6A) | 2:50 |
 | 41 | [closer](https://open.spotify.com/track/0OXZJHPmDYIyVaJ5nHM8YB) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [awakening](https://open.spotify.com/album/3AjLPYEKAkjxUZPKEKiXlv) | 2:07 |

@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 423782,
+  "num_followers": 423965,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2025-06-06 04:00:05",
       "album": {
-        "name": "Holy Place",
-        "url": "https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 193345,
-      "name": "Holy Place",
-      "url": "https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL"
-    },
-    {
-      "added_at": "2025-06-06 04:00:05",
-      "album": {
         "name": "Falling For You",
         "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 234997,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
+    },
+    {
+      "added_at": "2025-06-06 04:00:05",
+      "album": {
+        "name": "Holy Place",
+        "url": "https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 193345,
+      "name": "Holy Place",
+      "url": "https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL"
     },
     {
       "added_at": "2025-06-06 04:00:05",
@@ -283,26 +283,6 @@
     {
       "added_at": "2025-06-06 04:00:05",
       "album": {
-        "name": "One Mind EP",
-        "url": "https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 345605,
-      "name": "One Mind",
-      "url": "https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh"
-    },
-    {
-      "added_at": "2025-06-06 04:00:05",
-      "album": {
         "name": "ACID",
         "url": "https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6"
       },
@@ -327,22 +307,22 @@
     {
       "added_at": "2025-06-06 04:00:05",
       "album": {
-        "name": "Kernkraft 400",
-        "url": "https://open.spotify.com/album/4ysx834hTZuHbl2ZtsGdTT"
+        "name": "One Mind EP",
+        "url": "https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm"
       },
       "artists": [
         {
-          "name": "GYMBRO",
-          "url": "https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D"
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
         },
         {
-          "name": "Ken",
-          "url": "https://open.spotify.com/artist/7yOR1XnoSsiUU4wf6xMnNI"
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
         }
       ],
-      "duration_ms": 126915,
-      "name": "Kernkraft 400",
-      "url": "https://open.spotify.com/track/0aoeXzMxq1945xRbWHirrO"
+      "duration_ms": 345605,
+      "name": "One Mind",
+      "url": "https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh"
     },
     {
       "added_at": "2025-06-06 04:00:05",
@@ -363,6 +343,26 @@
     {
       "added_at": "2025-06-06 04:00:05",
       "album": {
+        "name": "Kernkraft 400",
+        "url": "https://open.spotify.com/album/4ysx834hTZuHbl2ZtsGdTT"
+      },
+      "artists": [
+        {
+          "name": "GYMBRO",
+          "url": "https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D"
+        },
+        {
+          "name": "Ken",
+          "url": "https://open.spotify.com/artist/7yOR1XnoSsiUU4wf6xMnNI"
+        }
+      ],
+      "duration_ms": 126915,
+      "name": "Kernkraft 400",
+      "url": "https://open.spotify.com/track/0aoeXzMxq1945xRbWHirrO"
+    },
+    {
+      "added_at": "2025-06-06 04:00:05",
+      "album": {
         "name": "Diamonds On My Mind",
         "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
       },
@@ -375,6 +375,22 @@
       "duration_ms": 168529,
       "name": "Diamonds On My Mind",
       "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
+    },
+    {
+      "added_at": "2025-06-06 04:00:05",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 409000,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
     },
     {
       "added_at": "2025-06-06 04:00:05",
@@ -395,22 +411,6 @@
       "duration_ms": 366613,
       "name": "No Division (feat. XSALT)",
       "url": "https://open.spotify.com/track/0So4ciNFmHfZhawnplagFs"
-    },
-    {
-      "added_at": "2025-06-06 04:00:05",
-      "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        }
-      ],
-      "duration_ms": 409000,
-      "name": "Legacy",
-      "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
     },
     {
       "added_at": "2025-06-06 04:00:05",
@@ -523,18 +523,18 @@
     {
       "added_at": "2025-06-06 04:00:05",
       "album": {
-        "name": "Say It Again",
-        "url": "https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6"
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp"
       },
       "artists": [
         {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
         }
       ],
-      "duration_ms": 207272,
-      "name": "Say It Again",
-      "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
+      "duration_ms": 355879,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH"
     },
     {
       "added_at": "2025-06-06 04:00:05",
@@ -563,18 +563,18 @@
     {
       "added_at": "2025-06-06 04:00:05",
       "album": {
-        "name": "Roar",
-        "url": "https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp"
+        "name": "Say It Again",
+        "url": "https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6"
       },
       "artists": [
         {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
         }
       ],
-      "duration_ms": 355879,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH"
+      "duration_ms": 207272,
+      "name": "Say It Again",
+      "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
     },
     {
       "added_at": "2025-06-06 04:00:05",
@@ -615,6 +615,22 @@
     {
       "added_at": "2025-06-06 04:00:05",
       "album": {
+        "name": "The Realm",
+        "url": "https://open.spotify.com/album/28xAYfAYLe2gCkKcNz5pZO"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 358099,
+      "name": "The Realm",
+      "url": "https://open.spotify.com/track/7n0x9UPBlBlp35Nr6GMLj5"
+    },
+    {
+      "added_at": "2025-06-06 04:00:05",
+      "album": {
         "name": "Chaos",
         "url": "https://open.spotify.com/album/3n5tnuCnn0pRpwIc1E3GEs"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 233059,
       "name": "YKSI",
       "url": "https://open.spotify.com/track/7nsd1DNX2HrZQEDPdTSMQg"
-    },
-    {
-      "added_at": "2025-06-06 04:00:05",
-      "album": {
-        "name": "The Realm",
-        "url": "https://open.spotify.com/album/28xAYfAYLe2gCkKcNz5pZO"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 358099,
-      "name": "The Realm",
-      "url": "https://open.spotify.com/track/7n0x9UPBlBlp35Nr6GMLj5"
     },
     {
       "added_at": "2025-06-06 04:00:05",
@@ -703,18 +703,22 @@
     {
       "added_at": "2025-06-06 04:00:05",
       "album": {
-        "name": "No Fear",
-        "url": "https://open.spotify.com/album/7sVPRS5B7vxBcOgrsEODOz"
+        "name": "Reflection EP",
+        "url": "https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6"
       },
       "artists": [
         {
-          "name": "Karla Blum",
-          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
         }
       ],
-      "duration_ms": 252319,
-      "name": "No Fear",
-      "url": "https://open.spotify.com/track/0PnWVKRbW0YPCP8WlEZVZO"
+      "duration_ms": 406584,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT"
     },
     {
       "added_at": "2025-06-06 04:00:05",
@@ -735,22 +739,18 @@
     {
       "added_at": "2025-06-06 04:00:05",
       "album": {
-        "name": "Reflection EP",
-        "url": "https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6"
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/7sVPRS5B7vxBcOgrsEODOz"
       },
       "artists": [
         {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "Enrico Sangiuliano",
-          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
         }
       ],
-      "duration_ms": 406584,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT"
+      "duration_ms": 252319,
+      "name": "No Fear",
+      "url": "https://open.spotify.com/track/0PnWVKRbW0YPCP8WlEZVZO"
     },
     {
       "added_at": "2025-06-06 04:00:05",
@@ -855,26 +855,6 @@
     {
       "added_at": "2025-06-06 04:00:05",
       "album": {
-        "name": "Geht's noch? (21 Year Anniversary Pt. 1)",
-        "url": "https://open.spotify.com/album/6KbnDVQVCobouAN8Mkc0B4"
-      },
-      "artists": [
-        {
-          "name": "Roman Fl\u00fcgel",
-          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
-        },
-        {
-          "name": "DJ Gigola",
-          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
-        }
-      ],
-      "duration_ms": 248757,
-      "name": "Geht's noch? - DJ Gigola Remix",
-      "url": "https://open.spotify.com/track/00V7ezFmvR4wv4m7f9PC5A"
-    },
-    {
-      "added_at": "2025-06-06 04:00:05",
-      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 259023,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"
+    },
+    {
+      "added_at": "2025-06-06 04:00:05",
+      "album": {
+        "name": "Geht's noch? (21 Year Anniversary Pt. 1)",
+        "url": "https://open.spotify.com/album/6KbnDVQVCobouAN8Mkc0B4"
+      },
+      "artists": [
+        {
+          "name": "Roman Fl\u00fcgel",
+          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
+        },
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        }
+      ],
+      "duration_ms": 248757,
+      "name": "Geht's noch? - DJ Gigola Remix",
+      "url": "https://open.spotify.com/track/00V7ezFmvR4wv4m7f9PC5A"
     },
     {
       "added_at": "2025-06-06 04:00:05",

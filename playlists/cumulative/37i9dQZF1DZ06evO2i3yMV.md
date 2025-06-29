@@ -4,7 +4,7 @@
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-151 songs - 8 hr 33 min
+152 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Conversion Theory](https://open.spotify.com/track/0VPUud31GGlGG8TTFoeY4j) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Time To / Conversion Theory](https://open.spotify.com/album/0dXSyC5EkDgf2QKICe0etz) | 3:24 | 2023-12-13 | 2023-12-31 |
 | [Conversion Theory](https://open.spotify.com/track/2vWi4XIxGzzWjr3DA9CqIR) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boom](https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO) | 3:24 | 2024-01-01 | 2024-01-22 |
 | [Corazón / Death by Disco Pt 2](https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Corazón / Death by Disco Pt 2](https://open.spotify.com/album/4217Ui5bxrqSH3vuGrT20q) | 3:01 | 2024-07-27 | 2025-03-26 |
-| [Corazón / Death by Disco, Pt 2 \- Villager Remix](https://open.spotify.com/track/4uzRpDtq6KgH4deoSZlByn) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Eternal Reverie Remixes, Pt\. 2](https://open.spotify.com/album/4xuZ2yWGAvpFcSL66oCAmX) | 4:11 | 2025-06-21 |  |
+| [Corazón / Death by Disco Pt\. 2 \- Hercules & Love Affair Remix](https://open.spotify.com/track/5565gISyxKOw3wdwARlSCr) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Corazón / Death by Disco Pt\. 2 \(Hercules & Love Affair Remix\)](https://open.spotify.com/album/6VGrtufCnGNIMdNDDpfqRS) | 3:36 | 2025-06-29 |  |
+| [Corazón / Death by Disco, Pt 2 \- Villager Remix](https://open.spotify.com/track/4uzRpDtq6KgH4deoSZlByn) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Eternal Reverie Remixes, Pt\. 2](https://open.spotify.com/album/4xuZ2yWGAvpFcSL66oCAmX) | 4:11 | 2025-06-21 | 2025-06-29 |
 | [Corazón / Death by Disco, Pt\. 2](https://open.spotify.com/track/1YPgVZ3eAZeTG2gmtPjAjg) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [On Sum](https://open.spotify.com/album/6HC5tExu1GSZlYvODnIDYY) | 3:01 | 2024-09-03 | 2024-10-07 |
 | [Corazón / Death by Disco, Pt\. 2](https://open.spotify.com/track/2rfFzqB70eKclvzNxqxW3F) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 3:01 | 2025-03-26 | 2025-06-21 |
 | [Darkest \(Dim\)](https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 5:09 | 2023-05-02 |  |

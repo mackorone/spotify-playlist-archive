@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB3A5mRlM6J.md) - [plain]
 
 > Enjoy the Dynamic Duo Seoul concert LIVE SET including the voices of them on stage! \(다이나믹 듀오의 무대 멘트와 목소리가 포함된 서울 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 580 likes - 42 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 579 likes - 42 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

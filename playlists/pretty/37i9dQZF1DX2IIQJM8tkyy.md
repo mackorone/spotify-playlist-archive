@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IIQJM8tkyy.md) - [plain]
 
 > Toutes les chansons des Princesses Disney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,119 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,120 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

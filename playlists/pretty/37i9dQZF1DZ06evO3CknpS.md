@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CknpS.md) - [plain]
 
 > This is Clara Rockmore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,693 likes - 29 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,692 likes - 29 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CknpS.md) - [plain]
 | 28 | [Sonata for violin and piano: Allegretto poco mosso](https://open.spotify.com/track/08c9wMMmGawxgqa2pBNYDZ) | [César Franck](https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 6:35 |
 | 29 | [Impromptu interview with Alexander Schneider](https://open.spotify.com/track/1T4fEZlWFEdrPh9zRj7cuY) | [Bob Sherman](https://open.spotify.com/artist/49c82NBMSDrS5DFGEU1qbg), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 4:11 |
 
-Snapshot ID: `aFyNgAAAAACKc+M19m7nyIqnO3wrPq3y`
+Snapshot ID: `aF3fAAAAAAA7wOO21behMiAtXkySoF/6`
