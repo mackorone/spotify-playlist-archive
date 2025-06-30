@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,890 likes - 37 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,895 likes - 37 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 36 | [Burial](https://open.spotify.com/track/4lFETObcVlO6l5obGe4JPu) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Death Letter](https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW) | 3:34 |
 | 37 | [Dark Night of the Soul](https://open.spotify.com/track/0S6bcfQHDPZPRcU4EV3jxk) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 6:02 |
 
-Snapshot ID: `aF3fAAAAAABET3wSzDB5Wg7jBcuihOCO`
+Snapshot ID: `aF8wgAAAAACmmrw+5i9K3n8K1IXz1cDs`

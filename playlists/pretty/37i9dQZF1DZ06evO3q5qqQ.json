@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 114358,
+  "num_followers": 114366,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAAD+yn0Wp1J4/e07HE4cy2i9",
+  "snapshot_id": "aF8wgAAAAACwwK3Y+1/SKPpXjk86WyqY",
   "tracks": [
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soy Benjam\u00edn",
+        "url": "https://open.spotify.com/album/6H04g945EUqDXyNUOeRqHd"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 180990,
+      "name": "Soy Benjam\u00edn",
+      "url": "https://open.spotify.com/track/3Eww1aMYpf5WvMrJ0crEQO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Charla",
         "url": "https://open.spotify.com/album/61QqtB8p8Eua07ha7IgRKr"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 230426,
       "name": "La Charla",
       "url": "https://open.spotify.com/track/6CMJ82WDjcJzJOzID4Rtog"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soy Benjam\u00edn",
-        "url": "https://open.spotify.com/album/6H04g945EUqDXyNUOeRqHd"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 180990,
-      "name": "Soy Benjam\u00edn",
-      "url": "https://open.spotify.com/track/3Eww1aMYpf5WvMrJ0crEQO"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Tiempos De Aguas",
+        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 132328,
+      "name": "Aqui En Mi Corazon Tu Mandas",
+      "url": "https://open.spotify.com/track/6j77T5GjC6j3oT0R45hddU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bien Belicones (En vivo)",
         "url": "https://open.spotify.com/album/0lroHqTkfmsxY3OYhRWZda"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 150200,
       "name": "Bien Belicones (En vivo)",
       "url": "https://open.spotify.com/track/6PAUJwzFJgtL6eFZzcg6Ne"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Tiempos De Aguas",
-        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 132328,
-      "name": "Aqui En Mi Corazon Tu Mandas",
-      "url": "https://open.spotify.com/track/6j77T5GjC6j3oT0R45hddU"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Playa",
-        "url": "https://open.spotify.com/album/6w6RCUcKd1oiSK6eE2TBY1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 226208,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/7qi4z99o4xMAYhcVOZrfDz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Tiempos De Aguas",
         "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
       },
@@ -847,22 +831,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gustoso Y Contento (En Vivo)",
-        "url": "https://open.spotify.com/album/1hcmRYDs73U5kqweVzy7vE"
+        "name": "La Playa",
+        "url": "https://open.spotify.com/album/6w6RCUcKd1oiSK6eE2TBY1"
       },
       "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        },
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 153640,
-      "name": "Gustoso Y Contento (En Vivo)",
-      "url": "https://open.spotify.com/track/3vD7rRP6RitDcgJxPIOns3"
+      "duration_ms": 226208,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/7qi4z99o4xMAYhcVOZrfDz"
     },
     {
       "added_at": null,
@@ -887,8 +867,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
-        "url": "https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM"
+        "name": "Gustoso Y Contento (En Vivo)",
+        "url": "https://open.spotify.com/album/1hcmRYDs73U5kqweVzy7vE"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 153640,
+      "name": "Gustoso Y Contento (En Vivo)",
+      "url": "https://open.spotify.com/track/3vD7rRP6RitDcgJxPIOns3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Tiempos De Aguas",
+        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
       },
       "artists": [
         {
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 189738,
-      "name": "Chuyito y el Mayo (En Vivo)",
-      "url": "https://open.spotify.com/track/7jjlHbcXCJOHJ2h7ilpQyx"
+      "duration_ms": 184957,
+      "name": "Jimenez",
+      "url": "https://open.spotify.com/track/7j1Un12rLufeK7WEuTgAKe"
     }
   ],
   "unique_name": "This Is Grupo Arriesgado",

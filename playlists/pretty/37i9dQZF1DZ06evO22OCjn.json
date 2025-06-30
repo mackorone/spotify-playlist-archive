@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 317615,
+  "num_followers": 317674,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAADTxBI4jBIY7/ZrTryxzVJK",
+  "snapshot_id": "aF8wgAAAAAD7txg7aAAaFrjraVx8YwPZ",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 187609,
-      "name": "Gbona",
-      "url": "https://open.spotify.com/track/1PlYxNrefqOBvk52umixt9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Twice As Tall",
         "url": "https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV"
       },
@@ -362,11 +346,15 @@
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
         }
       ],
-      "duration_ms": 245920,
-      "name": "23",
-      "url": "https://open.spotify.com/track/0zgeYAouscRmTZ90HM1NA3"
+      "duration_ms": 197933,
+      "name": "Real Life (feat. Stormzy)",
+      "url": "https://open.spotify.com/track/2eFsasDs4w4YUHBvaKyNNZ"
     },
     {
       "added_at": null,
@@ -391,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 187609,
+      "name": "Gbona",
+      "url": "https://open.spotify.com/track/1PlYxNrefqOBvk52umixt9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bundle By Bundle",
         "url": "https://open.spotify.com/album/3ViLRtCLd9pxkZ2w25hFwK"
       },
@@ -403,6 +407,22 @@
       "duration_ms": 176000,
       "name": "Bundle By Bundle",
       "url": "https://open.spotify.com/track/2gtg4jTNUqC4akFqWZZXcV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 245920,
+      "name": "23",
+      "url": "https://open.spotify.com/track/0zgeYAouscRmTZ90HM1NA3"
     },
     {
       "added_at": null,
@@ -427,26 +447,6 @@
       "duration_ms": 216706,
       "name": "Own It (feat. Ed Sheeran & Burna Boy)",
       "url": "https://open.spotify.com/track/4QPEwDdOMhY7rNS05mTyMR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twice As Tall",
-        "url": "https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Real Life (feat. Stormzy)",
-      "url": "https://open.spotify.com/track/2eFsasDs4w4YUHBvaKyNNZ"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Love",
-        "url": "https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 212716,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Update",
         "url": "https://open.spotify.com/album/4iPMVG9LtYQ2ENLIglSo7B"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 207865,
       "name": "Update",
       "url": "https://open.spotify.com/track/1ZedegcFMjMTyIngsQbXjb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 212716,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/50qNx4v7MKypMx5wGynQ8j"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 200501,
-      "name": "Pree Me",
-      "url": "https://open.spotify.com/track/0Jf5aygE2PZ3xXBu0B4Ezd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Want It All",
         "url": "https://open.spotify.com/album/6ggFYFT8Jiq3qw43SqYHQj"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 232500,
       "name": "Want It All",
       "url": "https://open.spotify.com/track/0tHvVjzxytG1BzfAJTJPtX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/50qNx4v7MKypMx5wGynQ8j"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 200501,
+      "name": "Pree Me",
+      "url": "https://open.spotify.com/track/0Jf5aygE2PZ3xXBu0B4Ezd"
     },
     {
       "added_at": null,
@@ -767,22 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Villain I Never Was",
-        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
+        "name": "Do I (Remix)",
+        "url": "https://open.spotify.com/album/5aVA4avxVgyg1S6iVQpx0m"
       },
       "artists": [
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         },
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 194863,
-      "name": "Second Sermon - Remix",
-      "url": "https://open.spotify.com/track/4DdaGKeVkjQbPHzpoHGafk"
+      "duration_ms": 138069,
+      "name": "Do I - Remix",
+      "url": "https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq"
     },
     {
       "added_at": null,
@@ -819,22 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do I (Remix)",
-        "url": "https://open.spotify.com/album/5aVA4avxVgyg1S6iVQpx0m"
+        "name": "The Villain I Never Was",
+        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
       },
       "artists": [
         {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         },
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 138069,
-      "name": "Do I - Remix",
-      "url": "https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq"
+      "duration_ms": 194863,
+      "name": "Second Sermon - Remix",
+      "url": "https://open.spotify.com/track/4DdaGKeVkjQbPHzpoHGafk"
     },
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 195073,
-      "name": "Gum Body (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/6RvYoPlvBr8aevCvzjRpoa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOVE AND COMPROMISE",
         "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 167186,
       "name": "Simmer (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/5S2TCmPS3UUrG3ZK7NBa7b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 195073,
+      "name": "Gum Body (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/6RvYoPlvBr8aevCvzjRpoa"
     },
     {
       "added_at": null,

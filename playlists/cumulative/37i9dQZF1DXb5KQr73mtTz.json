@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Day Without you",
+        "url": "https://open.spotify.com/album/5IW810636jL5nx7yqFCju5"
+      },
+      "artists": [
+        {
+          "name": "Yeoeun",
+          "url": "https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198495,
+      "name": "A Day Without you",
+      "url": "https://open.spotify.com/track/7CtUsVFfq4uWfjv2y328yY"
+    },
+    {
+      "album": {
         "name": "Love Interference 2022 (Original Television Soundtrack), Pt.13",
         "url": "https://open.spotify.com/album/3exZxXUMD14KCbb7Pa6XsS"
       },
@@ -200,6 +218,24 @@
       "duration_ms": 372013,
       "name": "alarm",
       "url": "https://open.spotify.com/track/3rLJg6e2JKJBaQL1LTBHJO"
+    },
+    {
+      "album": {
+        "name": "GOOD BOY (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/6coRsiCmV1xstlSAnk0qVM"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264613,
+      "name": "All Alone",
+      "url": "https://open.spotify.com/track/6mAOmvG8Yd9EG8eImGiUZq"
     },
     {
       "album": {
@@ -1663,6 +1699,24 @@
     },
     {
       "album": {
+        "name": "Hard to Say",
+        "url": "https://open.spotify.com/album/6OaIRvMkFS4fJxmHEWVXn2"
+      },
+      "artists": [
+        {
+          "name": "jaegyeong Lee",
+          "url": "https://open.spotify.com/artist/2Ix3jdtgamaZbYPfk8A4e1"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194845,
+      "name": "Hard to Say",
+      "url": "https://open.spotify.com/track/3d66TxP7B3pPzEC9vSWKuX"
+    },
+    {
+      "album": {
         "name": "[Vol.4] You Hee yul's Sketchbook 10th Anniversary Project : 2nd Voice 'Sketchbook X Ben'",
         "url": "https://open.spotify.com/album/6o1qBQswi3EBElxewqi7Yl"
       },
@@ -1692,7 +1746,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-30",
       "duration_ms": 179032,
       "name": "help me",
       "url": "https://open.spotify.com/track/0T5t1HKBjtzwFA0j6CdzUJ"
@@ -4250,7 +4304,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-30",
       "duration_ms": 220234,
       "name": "That's just how I feel",
       "url": "https://open.spotify.com/track/5ilF3vCXCBLtG4hUI0xSz5"
@@ -4702,7 +4756,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-30",
       "duration_ms": 224053,
       "name": "We Were So Beautiful",
       "url": "https://open.spotify.com/track/0YueZmHKGvFbU9eFUmrunC"

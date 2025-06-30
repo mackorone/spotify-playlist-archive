@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Vamos a bailar bajo la lluvia con las canciones más nuevas de la semana\. Silvana Estrada en portada ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,874 likes - 65 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,932 likes - 65 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

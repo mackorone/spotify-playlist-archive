@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 20629,
+  "num_followers": 20667,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAADL+pNQcXjK8MitRANBQxJM",
+  "snapshot_id": "aF8wgAAAAAAudqgCcBJvwTtCbi1Vised",
   "tracks": [
     {
       "added_at": null,
@@ -142,15 +142,11 @@
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
         }
       ],
-      "duration_ms": 215800,
-      "name": "Devils Gate (with Kevin Gates)",
-      "url": "https://open.spotify.com/track/334BlFXoVUhroNjxfzATJp"
+      "duration_ms": 176053,
+      "name": "Judy",
+      "url": "https://open.spotify.com/track/0KijC5ByPD43qXLkxEmf7o"
     },
     {
       "added_at": null,
@@ -210,11 +206,15 @@
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
         }
       ],
-      "duration_ms": 176053,
-      "name": "Judy",
-      "url": "https://open.spotify.com/track/0KijC5ByPD43qXLkxEmf7o"
+      "duration_ms": 215800,
+      "name": "Devils Gate (with Kevin Gates)",
+      "url": "https://open.spotify.com/track/334BlFXoVUhroNjxfzATJp"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Feed the Dogs",
+        "url": "https://open.spotify.com/album/6MIpSgb65ovU5136ui8udW"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 203334,
+      "name": "Feed the Dogs",
+      "url": "https://open.spotify.com/track/21Nuz8C7Ou8B7U7RUxhTR1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Windows",
         "url": "https://open.spotify.com/album/7g16JXCVFnNqKH5VVOoRLK"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 213640,
       "name": "Windows",
       "url": "https://open.spotify.com/track/4ilUS5TveEEr0KFgWyYvyb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feed the Dogs",
-        "url": "https://open.spotify.com/album/6MIpSgb65ovU5136ui8udW"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 203334,
-      "name": "Feed the Dogs",
-      "url": "https://open.spotify.com/track/21Nuz8C7Ou8B7U7RUxhTR1"
     },
     {
       "added_at": null,

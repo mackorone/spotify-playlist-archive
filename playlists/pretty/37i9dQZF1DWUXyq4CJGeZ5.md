@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 
 > Piano music for fall vibes and autumnal moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,698 likes - 229 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,693 likes - 229 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,8 +203,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 | 193 | [enfin bref](https://open.spotify.com/track/3jMxdAMOyHBluvKGD6uYxO) | [Germain Lesage](https://open.spotify.com/artist/0ygpa3BkVD5ZYljYGF54EK) | [enfin bref](https://open.spotify.com/album/4BQbyhjyA3xA66YlxsXKI0) | 3:03 |
 | 194 | [Fjardsdal](https://open.spotify.com/track/1ccLHt0aEkckZKgysxn134) | [Gabriel Haag](https://open.spotify.com/artist/1DCDW9vq8CKwTDSh6TcXn2) | [Fjardsdal](https://open.spotify.com/album/0HF9eRcIWArUYPBXJ1FJVk) | 2:03 |
 | 195 | [Adormitor](https://open.spotify.com/track/2xYggBQVDLV3n75ZuAefGl) | [Micah Fieraru](https://open.spotify.com/artist/7atAO1w0TT6tgBhOiL6ZFe) | [Adormitor](https://open.spotify.com/album/02LRLqZzGiTTvCRuG7mFB6) | 2:16 |
-| 196 | [Lure](https://open.spotify.com/track/77JZMOwuyKnDpzBAQwwrhh) | [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh) | [Lure / Elegiac](https://open.spotify.com/album/435QkFbt0x0yrEJs6j5jtC) | 2:43 |
-| 197 | [Everlasting](https://open.spotify.com/track/72Gtr23IMiIGxZCp6LCfX7) | [Ava Decker](https://open.spotify.com/artist/0DP3HMpZrLwWXEDUYYxnBu) | [Everlasting](https://open.spotify.com/album/4Il6knVZLcBiCPUdcvJsIu) | 2:44 |
+| 196 | [Everlasting](https://open.spotify.com/track/72Gtr23IMiIGxZCp6LCfX7) | [Ava Decker](https://open.spotify.com/artist/0DP3HMpZrLwWXEDUYYxnBu) | [Everlasting](https://open.spotify.com/album/4Il6knVZLcBiCPUdcvJsIu) | 2:44 |
+| 197 | [Lure](https://open.spotify.com/track/77JZMOwuyKnDpzBAQwwrhh) | [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh) | [Lure / Elegiac](https://open.spotify.com/album/435QkFbt0x0yrEJs6j5jtC) | 2:43 |
 | 198 | [Ravi](https://open.spotify.com/track/6Im3KsvOIR6E3ZhfAlDJvr) | [Esmiralda Rose](https://open.spotify.com/artist/6FkagsRLc16z6rwYW6Tteh) | [Teesta](https://open.spotify.com/album/0qufLQ0kHyKenooeC8KK3T) | 2:24 |
 | 199 | [Longues Plages](https://open.spotify.com/track/5Oyyykx2FGneJJgZjZxZyj) | [Danette Allard](https://open.spotify.com/artist/7i3VAz5T2mPx61l8S7V3LI) | [Longues Plages](https://open.spotify.com/album/5vM6hwPpKgHfytWlqEU7jJ) | 2:45 |
 | 200 | [Mourning Tree](https://open.spotify.com/track/58eofCGvNsWcSMxnjYZot7) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Mourning Tree](https://open.spotify.com/album/4fR5a9kZrhK34CpVDFD3WC) | 2:14 |

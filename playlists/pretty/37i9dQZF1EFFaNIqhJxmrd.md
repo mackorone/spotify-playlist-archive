@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 24 | [Du & jag](https://open.spotify.com/track/5lD4PboLvP3yWc3MCULsRb) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 3:31 |
 | 25 | [late night thoughts](https://open.spotify.com/track/7EU53emZ1UfKMLULJmWr1J) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:25 |
 | 26 | [Hold On](https://open.spotify.com/track/0lLBVkeTuZVfZRUC6MFfRf) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Hold On](https://open.spotify.com/album/2HUFjJZI8gE43IxF3i5i9S) | 3:15 |
-| 27 | [Damn Good Liar](https://open.spotify.com/track/2gGsrY1udACD6le3SgesIo) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [PDA](https://open.spotify.com/album/1UqFCtxeGzhf2Nm8yV6ypV) | 2:53 |
-| 28 | [20\-nånting](https://open.spotify.com/track/2xUPpHWbm8dCqhNqZtk7B6) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [20\-nånting](https://open.spotify.com/album/5bJi4q157OiMjxJJVzbQCL) | 3:19 |
+| 27 | [20\-nånting](https://open.spotify.com/track/2xUPpHWbm8dCqhNqZtk7B6) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [20\-nånting](https://open.spotify.com/album/5bJi4q157OiMjxJJVzbQCL) | 3:19 |
+| 28 | [Damn Good Liar](https://open.spotify.com/track/2gGsrY1udACD6le3SgesIo) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [PDA](https://open.spotify.com/album/1UqFCtxeGzhf2Nm8yV6ypV) | 2:53 |
 | 29 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 |
 | 30 | [APK](https://open.spotify.com/track/0GyDIFvLpmszVijNCSapvH) | [Södra Station](https://open.spotify.com/artist/018YUkd5Ngrv9NtywGnPpr) | [Bastugatan \- EP](https://open.spotify.com/album/7Jpi1asVbLxjqTJesvf2QJ) | 3:17 |
 | 31 | [Betong](https://open.spotify.com/track/1UzeebN7LFsdZnZ6nXrTDR) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Din](https://open.spotify.com/album/4D3Qea7cE19xKZKdXC3QIV) | 2:46 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 106 | [Indigo Bruised](https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Indigo Bruised](https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et) | 3:22 |
 | 107 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 
-Snapshot ID: `Ab1YPgAAAAAZCtq91jBWiSLFrBwIeuBK`
+Snapshot ID: `Ab1d/AAAAAD68zfuqtZTbLasrePFQR7F`

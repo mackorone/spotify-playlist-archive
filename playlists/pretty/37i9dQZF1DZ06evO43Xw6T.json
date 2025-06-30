@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 163577,
+  "num_followers": 163647,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAABQaJnSyGw8JhSzKNu/Dai1",
+  "snapshot_id": "aF8wgAAAAACoQ5CA+OK95Jw1U/4pSLYu",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CLEOPATRA",
-        "url": "https://open.spotify.com/album/7IVyty5qUN7VNaKAfujYag"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 205141,
-      "name": "CLEOPATRA",
-      "url": "https://open.spotify.com/track/4qwBnsVfknRk1wyvPVu5py"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya No Se Llevan Serenatas",
         "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 178739,
       "name": "WISCACHOS",
       "url": "https://open.spotify.com/track/2rApWcTGUQuq4iDuB8n763"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CLEOPATRA",
+        "url": "https://open.spotify.com/album/7IVyty5qUN7VNaKAfujYag"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 205141,
+      "name": "CLEOPATRA",
+      "url": "https://open.spotify.com/track/4qwBnsVfknRk1wyvPVu5py"
     },
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Pedo",
-        "url": "https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Eddy",
-          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
-        }
-      ],
-      "duration_ms": 194062,
-      "name": "Que Pedo",
-      "url": "https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Skin de Bandida",
         "url": "https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 176134,
       "name": "Skin de Bandida",
       "url": "https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Pedo",
+        "url": "https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        }
+      ],
+      "duration_ms": 194062,
+      "name": "Que Pedo",
+      "url": "https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B"
     },
     {
       "added_at": null,

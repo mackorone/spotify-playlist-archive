@@ -1,6 +1,6 @@
 {
   "description": "Pop'un sevilen isimleri. Kapak: \u0130rem Derici",
-  "num_followers": 157058,
+  "num_followers": 157145,
   "original_name": "Pop Radyo",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2025-06-26 21:00:33",
       "album": {
+        "name": "KTS",
+        "url": "https://open.spotify.com/album/5FHUBFUyPhl9guiqM5z1DR"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        }
+      ],
+      "duration_ms": 146517,
+      "name": "KTS",
+      "url": "https://open.spotify.com/track/0T9wqk6MpJWBMEAyyQGVAK"
+    },
+    {
+      "added_at": "2025-06-26 21:00:33",
+      "album": {
         "name": "Bi Gece Gidebilirim",
         "url": "https://open.spotify.com/album/54x3BPwQEcauxQXFRF53Qd"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 311569,
       "name": "Yok Ba\u015fka Hayalim",
       "url": "https://open.spotify.com/track/6VDMOQPxx7JTv82AAZ83RZ"
-    },
-    {
-      "added_at": "2025-06-26 21:00:33",
-      "album": {
-        "name": "KTS",
-        "url": "https://open.spotify.com/album/5FHUBFUyPhl9guiqM5z1DR"
-      },
-      "artists": [
-        {
-          "name": "manifest",
-          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
-        }
-      ],
-      "duration_ms": 146517,
-      "name": "KTS",
-      "url": "https://open.spotify.com/track/0T9wqk6MpJWBMEAyyQGVAK"
     },
     {
       "added_at": "2025-06-26 21:00:33",
@@ -595,6 +595,26 @@
     {
       "added_at": "2025-06-26 21:00:33",
       "album": {
+        "name": "Kehribar",
+        "url": "https://open.spotify.com/album/2vJqCgVaPM5YpMlp9laiEX"
+      },
+      "artists": [
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        },
+        {
+          "name": "Ebru Ya\u015far",
+          "url": "https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN"
+        }
+      ],
+      "duration_ms": 168975,
+      "name": "Kehribar",
+      "url": "https://open.spotify.com/track/3wtOAcctakLBwmzbCkRSHR"
+    },
+    {
+      "added_at": "2025-06-26 21:00:33",
+      "album": {
         "name": "B\u0131rak\u0131n Aras\u0131n",
         "url": "https://open.spotify.com/album/19E7lRqhUcUGyMXtfPNgaA"
       },
@@ -607,22 +627,6 @@
       "duration_ms": 158501,
       "name": "B\u0131rak\u0131n Aras\u0131n",
       "url": "https://open.spotify.com/track/2mp5AxLWjNW7WGvJ8uWddm"
-    },
-    {
-      "added_at": "2025-06-26 21:00:33",
-      "album": {
-        "name": "Ge\u00e7iyor Zaman",
-        "url": "https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p"
-      },
-      "artists": [
-        {
-          "name": "Semicenk",
-          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
-        }
-      ],
-      "duration_ms": 175445,
-      "name": "Sahte Sonbahar",
-      "url": "https://open.spotify.com/track/1ACI7zmoUY34xcrKrYeypb"
     },
     {
       "added_at": "2025-06-26 21:00:33",
@@ -643,22 +647,18 @@
     {
       "added_at": "2025-06-26 21:00:33",
       "album": {
-        "name": "Kehribar",
-        "url": "https://open.spotify.com/album/2vJqCgVaPM5YpMlp9laiEX"
+        "name": "Ge\u00e7iyor Zaman",
+        "url": "https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p"
       },
       "artists": [
         {
-          "name": "Burak Bulut",
-          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
-        },
-        {
-          "name": "Ebru Ya\u015far",
-          "url": "https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN"
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
         }
       ],
-      "duration_ms": 168975,
-      "name": "Kehribar",
-      "url": "https://open.spotify.com/track/3wtOAcctakLBwmzbCkRSHR"
+      "duration_ms": 175445,
+      "name": "Sahte Sonbahar",
+      "url": "https://open.spotify.com/track/1ACI7zmoUY34xcrKrYeypb"
     },
     {
       "added_at": "2025-06-26 21:00:33",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-06-26 21:00:33",
       "album": {
+        "name": "Yansam",
+        "url": "https://open.spotify.com/album/3jrBw3qp6f0oLYFUJUHxdo"
+      },
+      "artists": [
+        {
+          "name": "Amo988",
+          "url": "https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Yansam",
+      "url": "https://open.spotify.com/track/38gCk1mC6RwSm1iJK5qhsZ"
+    },
+    {
+      "added_at": "2025-06-26 21:00:33",
+      "album": {
         "name": "An\u0131lara Dalar\u0131z",
         "url": "https://open.spotify.com/album/4LXEyR5YIqDAhA1sB7y4QP"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 150681,
       "name": "An\u0131lara Dalar\u0131z",
       "url": "https://open.spotify.com/track/0Rjq84ntnHd3olOXHPacVr"
-    },
-    {
-      "added_at": "2025-06-26 21:00:33",
-      "album": {
-        "name": "Yansam",
-        "url": "https://open.spotify.com/album/3jrBw3qp6f0oLYFUJUHxdo"
-      },
-      "artists": [
-        {
-          "name": "Amo988",
-          "url": "https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Yansam",
-      "url": "https://open.spotify.com/track/38gCk1mC6RwSm1iJK5qhsZ"
     },
     {
       "added_at": "2025-06-26 21:00:33",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-06-26 21:00:33",
       "album": {
-        "name": "Bi Mani Yoksa",
-        "url": "https://open.spotify.com/album/2DtIUWEBco0tXVNkHFlrMN"
-      },
-      "artists": [
-        {
-          "name": "O\u011fuzhan Ko\u00e7",
-          "url": "https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i"
-        }
-      ],
-      "duration_ms": 194500,
-      "name": "Bi Mani Yoksa",
-      "url": "https://open.spotify.com/track/67RsgVh1I4rYqNqRmyW3JS"
-    },
-    {
-      "added_at": "2025-06-26 21:00:33",
-      "album": {
         "name": "Cehennemin Dibi",
         "url": "https://open.spotify.com/album/5d0khevKWVD2hMghDEKpaR"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 170943,
       "name": "Cehennemin Dibi",
       "url": "https://open.spotify.com/track/408CB6C3xSUJJJpMopjJ1y"
+    },
+    {
+      "added_at": "2025-06-26 21:00:33",
+      "album": {
+        "name": "Bi Mani Yoksa",
+        "url": "https://open.spotify.com/album/2DtIUWEBco0tXVNkHFlrMN"
+      },
+      "artists": [
+        {
+          "name": "O\u011fuzhan Ko\u00e7",
+          "url": "https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "Bi Mani Yoksa",
+      "url": "https://open.spotify.com/track/67RsgVh1I4rYqNqRmyW3JS"
     },
     {
       "added_at": "2025-06-26 21:00:33",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2025-06-26 21:00:33",
       "album": {
+        "name": "derdim var",
+        "url": "https://open.spotify.com/album/71bmrClM3TxVThhDdxj2Xj"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "derdim var",
+      "url": "https://open.spotify.com/track/2BDFcXV23UANGAQ0J3kisZ"
+    },
+    {
+      "added_at": "2025-06-26 21:00:33",
+      "album": {
         "name": "Ya\u015fam \u00c7i\u00e7e\u011fi",
         "url": "https://open.spotify.com/album/0PEw8EZ84GWGe3YTeeBqbx"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 128640,
       "name": "bi kere \u00f6pse b\u00fck\u00fcl\u00fcr uzay",
       "url": "https://open.spotify.com/track/3a61r0HCZxxiKW86NwORDb"
-    },
-    {
-      "added_at": "2025-06-26 21:00:33",
-      "album": {
-        "name": "Konsun Bir Ku\u015f Gibi",
-        "url": "https://open.spotify.com/album/2hZZK3GW7k61P4cZkElt75"
-      },
-      "artists": [
-        {
-          "name": "Ahmet Hatipo\u011flu",
-          "url": "https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4"
-        }
-      ],
-      "duration_ms": 148461,
-      "name": "Konsun Bir Ku\u015f Gibi",
-      "url": "https://open.spotify.com/track/6iDsGozcu8TQ3NvCLOy9w9"
     }
   ],
   "unique_name": "Pop Radyo",

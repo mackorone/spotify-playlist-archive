@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Back At Ya",
+        "url": "https://open.spotify.com/album/6aQho6eImpDXTxfC8zoVhI"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234500,
+      "name": "Back At Ya",
+      "url": "https://open.spotify.com/track/02evyVGKt4jjuBAlgHzag5"
+    },
+    {
+      "album": {
         "name": "Back It Up",
         "url": "https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY"
       },
@@ -5797,6 +5815,24 @@
     },
     {
       "album": {
+        "name": "Keep That Groove EP",
+        "url": "https://open.spotify.com/album/08ZUGIbdcs8OdvMI2Z91AI"
+      },
+      "artists": [
+        {
+          "name": "Vitess",
+          "url": "https://open.spotify.com/artist/5DIVjY3STr8n4tEoN0dmui"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220444,
+      "name": "Keep That Groove",
+      "url": "https://open.spotify.com/track/2vWQyHonW1iLs3mBMct0t9"
+    },
+    {
+      "album": {
         "name": "Kick",
         "url": "https://open.spotify.com/album/0DXPzrALOYD5FOuUTEDZJu"
       },
@@ -6030,7 +6066,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-30",
       "duration_ms": 207115,
       "name": "Last Day",
       "url": "https://open.spotify.com/track/0T7hXKDhA44Cr0s4XroZhr"
@@ -10934,7 +10970,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-30",
       "duration_ms": 212326,
       "name": "Technology",
       "url": "https://open.spotify.com/track/3x2KeoJwm93crNjphsZBOp"

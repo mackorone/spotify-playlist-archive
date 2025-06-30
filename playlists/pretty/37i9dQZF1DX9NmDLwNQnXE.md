@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmDLwNQnXE.md) - [plain]
 
 > Relax to the sound of a storm setting in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,654 likes - 275 songs - 12 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,630 likes - 275 songs - 12 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,10 +227,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmDLwNQnXE.md) - [plain]
 | 217 | [Distracted by the Rain](https://open.spotify.com/track/5DwOYaWXl1ksN5WVRa8ZGs) | [State of Distraction](https://open.spotify.com/artist/717T7LEBnoLCGHg2MEryj3) | [Distracted by the Rain](https://open.spotify.com/album/2beh4A7RMOVHHDwHgMS1MT) | 3:11 |
 | 218 | [Tonnerre au printemps](https://open.spotify.com/track/2HrG87Rc7DgpjyI02rcMPS) | [Trueno Tropical](https://open.spotify.com/artist/1u9cwMm7ARcvZ2q2fV7UWW) | [Tonnerre au printemps](https://open.spotify.com/album/6kZ83TrcHx2QQIL3pfNTAF) | 2:55 |
 | 219 | [Forest Thunder](https://open.spotify.com/track/5wasNCesFpY5wSiYTar3uL) | [Empyrean](https://open.spotify.com/artist/3KMNkkaZzoo0wfCzVZ3pri) | [In the hands of Thor](https://open.spotify.com/album/2yUnTie8FuYybCVZlH48e3) | 2:24 |
-| 220 | [Wednesday](https://open.spotify.com/track/5oJjJo0k8XduWQIrskmxZ9) | [Altostratus](https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua) | [Storm in the fields](https://open.spotify.com/album/1jffCmND2gYAn2JHomEP2n) | 2:29 |
-| 221 | [Heavy Thunderstorm](https://open.spotify.com/track/2FdcQ9lycbLNjjxjZobvzT) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:07 |
-| 222 | [Summer Storms](https://open.spotify.com/track/58EtUoSNjEOnomIEc5daGp) | [Isamu](https://open.spotify.com/artist/6NzWkEWVUXwO7TTXOEjdP7) | [Cloud Electric](https://open.spotify.com/album/2Bm92hW5xK14uff2UR8K9Y) | 2:39 |
-| 223 | [Thunder Run](https://open.spotify.com/track/6pwYNA6ASZQ2Q0rMG8yVO0) | [Adam Storme](https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI) | [Thunder Run](https://open.spotify.com/album/3j8JVgZckDVWg8UWU2if5g) | 3:28 |
+| 220 | [Thunder Run](https://open.spotify.com/track/6pwYNA6ASZQ2Q0rMG8yVO0) | [Adam Storme](https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI) | [Thunder Run](https://open.spotify.com/album/3j8JVgZckDVWg8UWU2if5g) | 3:28 |
+| 221 | [Wednesday](https://open.spotify.com/track/5oJjJo0k8XduWQIrskmxZ9) | [Altostratus](https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua) | [Storm in the fields](https://open.spotify.com/album/1jffCmND2gYAn2JHomEP2n) | 2:29 |
+| 222 | [Heavy Thunderstorm](https://open.spotify.com/track/2FdcQ9lycbLNjjxjZobvzT) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:07 |
+| 223 | [Summer Storms](https://open.spotify.com/track/58EtUoSNjEOnomIEc5daGp) | [Isamu](https://open.spotify.com/artist/6NzWkEWVUXwO7TTXOEjdP7) | [Cloud Electric](https://open.spotify.com/album/2Bm92hW5xK14uff2UR8K9Y) | 2:39 |
 | 224 | [Drops And Thunder](https://open.spotify.com/track/00ChJJWChWCHfHDOnsnWvv) | [Amida Nature Sounds](https://open.spotify.com/artist/6ouSV6Bg58MfXLmO7daZiK) | [Drops And Thunder](https://open.spotify.com/album/76jXwUgn06OiCEwod0lZvd) | 2:02 |
 | 225 | [Big Storm, Rain and Close Lightnings](https://open.spotify.com/track/4egCKRMYciGmRMM4ze2Dkd) | [Vedhamn Sounds](https://open.spotify.com/artist/1frCifpQ2GtUMzlLcczFcb) | [Thunder Stories](https://open.spotify.com/album/4zHRIUbgKatKB8QhDPVK7c) | 2:18 |
 | 226 | [Out In the Wild](https://open.spotify.com/track/4H2UoVHDlQe6t14ulSYW6y) | [Rainy Forecast](https://open.spotify.com/artist/5GYZ767vZMxu1fBVrkQd8K) | [Rainy Forecast](https://open.spotify.com/album/69fopENmMR03vJpI5kxLSK) | 2:28 |
@@ -278,8 +278,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmDLwNQnXE.md) - [plain]
 | 268 | [Relaxing Forest Clappering](https://open.spotify.com/track/0EdfDTRdy5nMuy89Eiw4xp) | [Birds & Bees etc.](https://open.spotify.com/artist/4eS0pNLDVquopuOenfqX3U) | [Soft Forest Clappering](https://open.spotify.com/album/5aPiqjkiZtlotd4egGRpxv) | 2:27 |
 | 269 | [Gråa Moln](https://open.spotify.com/track/5hcIHaO2Vy6NmLC704mM8b) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Blixt](https://open.spotify.com/album/5fadcqG9gCtLnafQBJNY27) | 3:28 |
 | 270 | [Contemplations \#2](https://open.spotify.com/track/4mWGn5BKWKD8YDXpTIG3py) | [Oceanica](https://open.spotify.com/artist/5XecShujxcNg7fz68DP8nD) | [Contemplations](https://open.spotify.com/album/2gOMTje0HNrjJZWB8n2W9K) | 2:03 |
-| 271 | [Under The Umbrella \- Seamless](https://open.spotify.com/track/4XtdcXBOp3tFW3mUtBvTCx) | [Tranquility Sound Machine](https://open.spotify.com/artist/7rdHn837SCQCIZ1HOQsJsj) | [Under The Umbrella](https://open.spotify.com/album/5JLXavSqFrPocNKfXVqmLy) | 2:55 |
-| 272 | [Relaxing Thunder Rain](https://open.spotify.com/track/1WFyRaDWcObWNk9CD2OCxq) | [Weatherality](https://open.spotify.com/artist/0e068t7B3Ipmlq0TkNthxU) | [Midnight Rumble](https://open.spotify.com/album/63ZfKlcisY2G3WstLBS066) | 2:04 |
+| 271 | [Relaxing Thunder Rain](https://open.spotify.com/track/1WFyRaDWcObWNk9CD2OCxq) | [Weatherality](https://open.spotify.com/artist/0e068t7B3Ipmlq0TkNthxU) | [Midnight Rumble](https://open.spotify.com/album/63ZfKlcisY2G3WstLBS066) | 2:04 |
+| 272 | [Under The Umbrella \- Seamless](https://open.spotify.com/track/4XtdcXBOp3tFW3mUtBvTCx) | [Tranquility Sound Machine](https://open.spotify.com/artist/7rdHn837SCQCIZ1HOQsJsj) | [Under The Umbrella](https://open.spotify.com/album/5JLXavSqFrPocNKfXVqmLy) | 2:55 |
 | 273 | [Sky Full Of Thunder](https://open.spotify.com/track/0ovxaBAfSGc6ZFR2tZPNFG) | [AQUELLE](https://open.spotify.com/artist/6QpxjwGg7Ni071gSexGP0j) | [Sky Full Of Thunder](https://open.spotify.com/album/5QVO59SbLxKz9AZksuijkg) | 3:18 |
 | 274 | [Thunder In The Night](https://open.spotify.com/track/1LbrOh8zHb6VRNJLQi8HmK) | [Mountain Man Recordings](https://open.spotify.com/artist/5ZFFHkniv7kkYsPE05xNvD) | [Thunder On The Mountain](https://open.spotify.com/album/2VDjzhhW14ytIWeqte0oSs) | 3:38 |
 | 275 | [Shelter Rain](https://open.spotify.com/track/2LlSkv5N137jn1rvqs39vA) | [Illustrike](https://open.spotify.com/artist/3fSaLzfLqxs7heaciEryrS) | [Deep Storm](https://open.spotify.com/album/36LIkvquwcFFqod2v2diY7) | 3:37 |

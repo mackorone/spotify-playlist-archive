@@ -657,6 +657,32 @@
     },
     {
       "album": {
+        "name": "Artie Shaw and His Orchestra Featuring Mel Torm\u00e9 and the Meltones",
+        "url": "https://open.spotify.com/album/40CxPu7QzEVBl3lv7JVJBr"
+      },
+      "artists": [
+        {
+          "name": "Artie Shaw",
+          "url": "https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF"
+        },
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        },
+        {
+          "name": "The Meltones",
+          "url": "https://open.spotify.com/artist/1Tq4NTchpZlJXE8bVl9Rv5"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162133,
+      "name": "Changing My Tune",
+      "url": "https://open.spotify.com/track/7bEUhPuMR8jw3dIKDOAPmP"
+    },
+    {
+      "album": {
         "name": "Porgy & Bess (Original Motion Picture Soundtrack) [Remastered]",
         "url": "https://open.spotify.com/album/6l2ud8wBveGrBjDy1e18vA"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Osunlade. The essential tracks, all in one playlist.",
-  "num_followers": 3478,
+  "num_followers": 3480,
   "original_name": "This Is Osunlade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAAAASc4zWEBsgG7UgY27FgJC",
+  "snapshot_id": "aF8wgAAAAAAPTj3xIRPZUzMHFr1qkUDR",
   "tracks": [
     {
       "added_at": null,
@@ -67,22 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 250430,
-      "name": "Tom's Bar",
-      "url": "https://open.spotify.com/track/6etoe7269ZeOzKzVrVeJkL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dionne / What Gets You High?",
         "url": "https://open.spotify.com/album/1YZPa1oZN6tpuPCt26V15H"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 256015,
       "name": "Dionne",
       "url": "https://open.spotify.com/track/3SocpdBxeWEwfvXrMrP9is"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 250430,
+      "name": "Tom's Bar",
+      "url": "https://open.spotify.com/track/6etoe7269ZeOzKzVrVeJkL"
     },
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prism EP",
-        "url": "https://open.spotify.com/album/4g4EPRLPyJClFMfvWf8Kby"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 340792,
-      "name": "Sistagurl",
-      "url": "https://open.spotify.com/track/6Uj6lckV30styenVEpFRmM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rebirth 10 Remixed, Vol. 1",
         "url": "https://open.spotify.com/album/1bfVFEQMolOYkQhPj5uaNE"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 480967,
       "name": "Deep Musique - Rampa Remix",
       "url": "https://open.spotify.com/track/2TPymcTIlvJKpPWnqAiqxL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prism EP",
+        "url": "https://open.spotify.com/album/4g4EPRLPyJClFMfvWf8Kby"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 340792,
+      "name": "Sistagurl",
+      "url": "https://open.spotify.com/track/6Uj6lckV30styenVEpFRmM"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 200647,
-      "name": "FLWN",
-      "url": "https://open.spotify.com/track/2THRRSfffrl3W0PPz6nTol"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chill Out (Sit Back And Relax)",
         "url": "https://open.spotify.com/album/5mu0dUqF2CfqijJet4yYsJ"
       },
@@ -447,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 200647,
+      "name": "FLWN",
+      "url": "https://open.spotify.com/track/2THRRSfffrl3W0PPz6nTol"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "INvite ONly",
         "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
       },
@@ -459,42 +459,6 @@
       "duration_ms": 301713,
       "name": "I Found",
       "url": "https://open.spotify.com/track/2VK2xw8zkrAAsL3awzxDgf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Osunlade vs Papa",
-        "url": "https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv"
-      },
-      "artists": [
-        {
-          "name": "Reel People",
-          "url": "https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X"
-        },
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 420018,
-      "name": "Joyous - Yoruba Soul Instrumental Remix",
-      "url": "https://open.spotify.com/track/5tDwtcf571yb7LAVVih9Jv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dedication EP",
-        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 193560,
-      "name": "Cosmic Signs",
-      "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
     },
     {
       "added_at": null,
@@ -523,6 +487,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dedication EP",
+        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "Cosmic Signs",
+      "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Osunlade vs Papa",
+        "url": "https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv"
+      },
+      "artists": [
+        {
+          "name": "Reel People",
+          "url": "https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 420018,
+      "name": "Joyous - Yoruba Soul Instrumental Remix",
+      "url": "https://open.spotify.com/track/5tDwtcf571yb7LAVVih9Jv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "INvite ONly",
         "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
       },
@@ -535,22 +535,6 @@
       "duration_ms": 346296,
       "name": "Bag Of Filters",
       "url": "https://open.spotify.com/track/7cLAZXxyRgQRGv4l2GOKfu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Note Revisited",
-        "url": "https://open.spotify.com/album/7DNMdBpvFLtwdu9FCUBQ1h"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 283400,
-      "name": "A Time To Remember - Remix",
-      "url": "https://open.spotify.com/track/2igFnucx4r1uHG40yilbGy"
     },
     {
       "added_at": null,
@@ -575,22 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let's Invade the Amazon (Yoruba Soul Mix)",
-        "url": "https://open.spotify.com/album/2zFcTO9Yd78diFJHqXE9DL"
+        "name": "Blue Note Revisited",
+        "url": "https://open.spotify.com/album/7DNMdBpvFLtwdu9FCUBQ1h"
       },
       "artists": [
-        {
-          "name": "Casbah 73",
-          "url": "https://open.spotify.com/artist/29lFQpdKkzFsFqdl3XRQ56"
-        },
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 382274,
-      "name": "Let's Invade the Amazon - Yoruba Soul Mix",
-      "url": "https://open.spotify.com/track/6hROPCDD7DlEZxkbNgwAvc"
+      "duration_ms": 283400,
+      "name": "A Time To Remember - Remix",
+      "url": "https://open.spotify.com/track/2igFnucx4r1uHG40yilbGy"
     },
     {
       "added_at": null,
@@ -611,18 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pyrography",
-        "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
+        "name": "Let's Invade the Amazon (Yoruba Soul Mix)",
+        "url": "https://open.spotify.com/album/2zFcTO9Yd78diFJHqXE9DL"
       },
       "artists": [
+        {
+          "name": "Casbah 73",
+          "url": "https://open.spotify.com/artist/29lFQpdKkzFsFqdl3XRQ56"
+        },
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 217756,
-      "name": "A Day Without U",
-      "url": "https://open.spotify.com/track/5v5nbBMc1XDmIh2LML9HLA"
+      "duration_ms": 382274,
+      "name": "Let's Invade the Amazon - Yoruba Soul Mix",
+      "url": "https://open.spotify.com/track/6hROPCDD7DlEZxkbNgwAvc"
     },
     {
       "added_at": null,
@@ -647,26 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Osunlade vs Papa",
-        "url": "https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv"
+        "name": "Pyrography",
+        "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
       },
       "artists": [
-        {
-          "name": "Black Widow",
-          "url": "https://open.spotify.com/artist/7JVf9FTDK6N8wrVKBmutmv"
-        },
-        {
-          "name": "Emmaculate",
-          "url": "https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB"
-        },
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 416060,
-      "name": "Love Manifesto - Yoruba Soul Mix",
-      "url": "https://open.spotify.com/track/5mseZAEgouOaiY0JY3SmnX"
+      "duration_ms": 217756,
+      "name": "A Day Without U",
+      "url": "https://open.spotify.com/track/5v5nbBMc1XDmIh2LML9HLA"
     },
     {
       "added_at": null,
@@ -707,6 +683,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Osunlade vs Papa",
+        "url": "https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv"
+      },
+      "artists": [
+        {
+          "name": "Black Widow",
+          "url": "https://open.spotify.com/artist/7JVf9FTDK6N8wrVKBmutmv"
+        },
+        {
+          "name": "Emmaculate",
+          "url": "https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 416060,
+      "name": "Love Manifesto - Yoruba Soul Mix",
+      "url": "https://open.spotify.com/track/5mseZAEgouOaiY0JY3SmnX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spectrum",
         "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Basic Sketches For Beginners",
-        "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 590030,
-      "name": "Auto Machine",
-      "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MOSS",
         "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 182071,
       "name": "MOSS",
       "url": "https://open.spotify.com/track/0aVhniuf8aJR8KEgrbL9zb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Basic Sketches For Beginners",
+        "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 590030,
+      "name": "Auto Machine",
+      "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
     },
     {
       "added_at": null,
@@ -819,46 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get You",
-        "url": "https://open.spotify.com/album/077eXSNl8849XskXB1MwzN"
-      },
-      "artists": [
-        {
-          "name": "James Curd",
-          "url": "https://open.spotify.com/artist/2PwiPk4hJp1MX6zH2YJmIL"
-        },
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Alton Miller",
-          "url": "https://open.spotify.com/artist/0MGh53azHRLHTJ1flx9KGs"
-        }
-      ],
-      "duration_ms": 401000,
-      "name": "Get You - Alton Miller Remix",
-      "url": "https://open.spotify.com/track/57ng3H6q5lKb7sBhnWw2qH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inner Garden",
-        "url": "https://open.spotify.com/album/1VTMe5fxuGQYhC91cKAvRa"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 429496,
-      "name": "Luv",
-      "url": "https://open.spotify.com/track/28khN5I8USrsWCrl1l01ra"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Natives Tongue",
         "url": "https://open.spotify.com/album/68kE4iE9bgRtb7psaoStUl"
       },
@@ -875,22 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Osunlade vs Papa",
-        "url": "https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv"
+        "name": "Inner Garden",
+        "url": "https://open.spotify.com/album/1VTMe5fxuGQYhC91cKAvRa"
       },
       "artists": [
-        {
-          "name": "Karizma",
-          "url": "https://open.spotify.com/artist/7bccAT6TPXO9MPsj6Ky1oe"
-        },
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 634710,
-      "name": "Tech This Out Pt.1 - Yoruba Soul Mix",
-      "url": "https://open.spotify.com/track/2Kbdo2TT9vQ0lUAu8RC27E"
+      "duration_ms": 429496,
+      "name": "Luv",
+      "url": "https://open.spotify.com/track/28khN5I8USrsWCrl1l01ra"
     },
     {
       "added_at": null,
@@ -927,6 +883,50 @@
       "duration_ms": 109979,
       "name": "Build a Fire",
       "url": "https://open.spotify.com/track/1mq79cmhhp0bvnOmF8Blb8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get You",
+        "url": "https://open.spotify.com/album/077eXSNl8849XskXB1MwzN"
+      },
+      "artists": [
+        {
+          "name": "James Curd",
+          "url": "https://open.spotify.com/artist/2PwiPk4hJp1MX6zH2YJmIL"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Alton Miller",
+          "url": "https://open.spotify.com/artist/0MGh53azHRLHTJ1flx9KGs"
+        }
+      ],
+      "duration_ms": 401000,
+      "name": "Get You - Alton Miller Remix",
+      "url": "https://open.spotify.com/track/57ng3H6q5lKb7sBhnWw2qH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Osunlade vs Papa",
+        "url": "https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv"
+      },
+      "artists": [
+        {
+          "name": "Karizma",
+          "url": "https://open.spotify.com/artist/7bccAT6TPXO9MPsj6Ky1oe"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 634710,
+      "name": "Tech This Out Pt.1 - Yoruba Soul Mix",
+      "url": "https://open.spotify.com/track/2Kbdo2TT9vQ0lUAu8RC27E"
     }
   ],
   "unique_name": "This Is Osunlade",

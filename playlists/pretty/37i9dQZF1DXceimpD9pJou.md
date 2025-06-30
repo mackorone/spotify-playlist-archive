@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Madiel Lara
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,848 likes - 100 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,874 likes - 100 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 14 | [Cristo Por Siempre](https://open.spotify.com/track/5R6Aslgjzkacmur99I2bJD) | [Red Worship](https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w), [Trinity Anderson](https://open.spotify.com/artist/6dCn9t1NVjEKPvsBzxrf0h), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Cristo Por Siempre](https://open.spotify.com/album/15ZiQfmiRKwLa8rdbstM4v) | 8:16 |
 | 15 | [ACERCARME \(NO HAY AMOR IGUAL\)](https://open.spotify.com/track/4St7ph3Zwd2C06nbYZUHVh) | [Johan y Sofi](https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT) | [ACERCARME \(NO HAY AMOR IGUAL\)](https://open.spotify.com/album/5cHfVGXXYhOZ4omWhF3toe) | 6:09 |
 | 16 | [La vida eterna](https://open.spotify.com/track/6rGDgw7fg33LMIVqJ4XlxO) | [Jan Earle](https://open.spotify.com/artist/6O1gkriLfZg5mnBrTlBq1N), [Brisa Luque](https://open.spotify.com/artist/673KPc2D8TwUCpwkFjH6oF), [Valen Tavella](https://open.spotify.com/artist/1eKtSLEXPQ30zSzcggInwB) | [Preeminencia](https://open.spotify.com/album/71Rxh7JiuatOUggr4uLH49) | 8:43 |
-| 17 | [Alegria Me Das](https://open.spotify.com/track/4rh3oJRv4lFzkeiOtR0vqb) | [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8), [Del Cordero](https://open.spotify.com/artist/4ftOrcl3vtPvsHpwJyGmaY) | [Alegria Me Das](https://open.spotify.com/album/0Bo1OEamyRQxzsvMge08ye) | 8:32 |
-| 18 | [No Importa Donde Esté El Altar](https://open.spotify.com/track/1p6xY3jnyfN2pUi9PRp3ZW) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [Julissa](https://open.spotify.com/artist/2fvqRv8T9zuxNqdKdEaKsT) | [No Importa Donde Esté El Altar](https://open.spotify.com/album/6W3ZfmxR4DhkgZsv8jkPDy) | 9:30 |
+| 17 | [Alegria Me Das](https://open.spotify.com/track/4rh3oJRv4lFzkeiOtR0vqb) | [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8), [Del Cordero](https://open.spotify.com/artist/4851l3O7kPesVJ1OpMowBi) | [Alegria Me Das](https://open.spotify.com/album/0Bo1OEamyRQxzsvMge08ye) | 8:32 |
+| 18 | [No Importa Donde Esté El Altar](https://open.spotify.com/track/1p6xY3jnyfN2pUi9PRp3ZW) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [No Importa Donde Esté El Altar](https://open.spotify.com/album/6W3ZfmxR4DhkgZsv8jkPDy) | 9:30 |
 | 19 | [Declaro a Cristo](https://open.spotify.com/track/1DlXnORFqWZUW9UyInvBDL) | [Factor de Cambio](https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb) | [Declaro a Cristo](https://open.spotify.com/album/6spAOJS7o08rdQzuAutkW9) | 7:05 |
 | 20 | [Agita las Aguas \- Acústico](https://open.spotify.com/track/2Mei1tUr9wtoFvLYFOw2ST) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0) | [Agita las Aguas \(Acústico\)](https://open.spotify.com/album/12cY53NqzVSpU2w2EGiY0b) | 4:45 |
 | 21 | [Te Cuido](https://open.spotify.com/track/0o8ATIApthe067wFY5wG2B) | [Mireyli Rosa](https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC), [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [POV](https://open.spotify.com/album/2nu5e8MySYb6Iu5eaDlvX9) | 3:18 |

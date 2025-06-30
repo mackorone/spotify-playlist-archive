@@ -4,7 +4,7 @@
 
 > 
 
-213 songs - 8 hr 24 min
+214 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [ETHEREAL OG!](https://open.spotify.com/track/7rQJxLDrS1VWbs7RGF1S8a) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [ETHEREAL OG!](https://open.spotify.com/album/6fKokpXQ4OvbaMbbwg9sex) | 1:59 | 2024-12-08 |  |
 | [FABULOUS!](https://open.spotify.com/track/11OseKlNdhnZ09NNvuIpFA) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [RAWRXD!](https://open.spotify.com/album/6RLyOnlpXfUlTDOQYpY73K) | 1:30 | 2024-12-11 |  |
 | [factory reset.](https://open.spotify.com/track/0oLGaA16S8yh1ZBLK78GVs) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [factory reset.](https://open.spotify.com/album/1QH58I5dC3gzTwyq0M2giJ) | 2:26 | 2025-03-06 | 2025-04-17 |
+| [Faint](https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 2:42 | 2025-06-29 |  |
 | [FEENIN!](https://open.spotify.com/track/38zXZLufj83iB2nh1VKi5t) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [>:3](https://open.spotify.com/album/1CydpQKd0rdcmUpYI2WqYT) | 1:56 | 2024-12-06 |  |
 | [FLUOXETINE!](https://open.spotify.com/track/1daN3DnrDJ79MhRjzIvz2j) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [RAWRXD!](https://open.spotify.com/album/6RLyOnlpXfUlTDOQYpY73K) | 1:42 | 2024-12-21 |  |
 | [For the First Time](https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:02 | 2025-04-12 |  |

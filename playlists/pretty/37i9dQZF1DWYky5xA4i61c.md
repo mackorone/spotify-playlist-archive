@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYky5xA4i61c.md) - [plain]
 
 > Enjoy songs from artists appearing on WONDERLIVET 2024! \(WONDERLIVET 2024의 출연 아티스트 곡들을 즐겨보세요! \)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,928 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,935 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYky5xA4i61c.md) - [plain]
 | 59 | [シュガーソングとビターステップ](https://open.spotify.com/track/4at8MHaxe5hFxcXiO2PPd4) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [SUB MACHINE, BEST MACHINE \(Best Selected Edition\)](https://open.spotify.com/album/2PoQCr9jVBcDbrTojnmX6J) | 4:13 |
 | 60 | [桜のあと \(all quartets lead to the?\)](https://open.spotify.com/track/11Dh1gTFD9QcmmzwNusHTk) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [Catcher In The Spy](https://open.spotify.com/album/1Xn4IjRqIzsbguEDMQZkIP) | 4:45 |
 | 61 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 |
-| 62 | [よふかしのうた](https://open.spotify.com/track/1j6Agt1Sn2DjQ0NA33J3r2) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [よふかしのうた](https://open.spotify.com/album/6peWfaCCNUTETgugcpNHed) | 4:00 |
+| 62 | [よふかしのうた \- Yofukashino Uta](https://open.spotify.com/track/1j6Agt1Sn2DjQ0NA33J3r2) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [よふかしのうた](https://open.spotify.com/album/6peWfaCCNUTETgugcpNHed) | 4:00 |
 | 63 | [PAKU](https://open.spotify.com/track/6nYezkgAePhAmnxNTQRsLV) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [PAKU](https://open.spotify.com/album/2nHwbkFhdzyC79w5Js8Asy) | 2:05 |
 | 64 | [破壊前夜のこと](https://open.spotify.com/track/7ccRC7ORwX4MqopJNucBai) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [破壊前夜のこと](https://open.spotify.com/album/5WKsrFoF3xsCQ4ui9d51Ud) | 3:42 |
 | 65 | [我愛你](https://open.spotify.com/track/7jXoUqjqJVQGHDBs9ZGy08) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [生活のニュース](https://open.spotify.com/album/2pccOr7xk2EmlL2FAid7Gz) | 4:56 |

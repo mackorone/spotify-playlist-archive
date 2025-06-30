@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,388 likes - 320 songs - 17 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,390 likes - 320 songs - 17 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -246,8 +246,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 236 | [The Sleeper](https://open.spotify.com/track/3n9mhUXCLffbJoIcZ4kRQS) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 3:51 |
 | 237 | [Lost Myslf](https://open.spotify.com/track/1Q8mNKvVCpfsm8WGKMeKQ9) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 3:21 |
 | 238 | [U Sometimes](https://open.spotify.com/track/1w77M7nvWjLJOO1ffSOzua) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Be Alright // U Sometimes](https://open.spotify.com/album/2l9hUZ6VOlwDim9igWpiK5) | 2:48 |
-| 239 | [I Wish](https://open.spotify.com/track/6neQ1ODe83vn9kobBZ5ZBD) | [Emblem3](https://open.spotify.com/artist/1md9aYaJ6Qt1FHypXICB5V) | [Nothing To Lose \(Deluxe Version\)](https://open.spotify.com/album/4rA1y7l62I627A69JFG1Vk) | 2:58 |
-| 240 | [superpowers](https://open.spotify.com/track/5p1T0HF9ubXm5H1umSQBmR) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 3:25 |
+| 239 | [superpowers](https://open.spotify.com/track/5p1T0HF9ubXm5H1umSQBmR) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 3:25 |
+| 240 | [I Wish](https://open.spotify.com/track/6neQ1ODe83vn9kobBZ5ZBD) | [Emblem3](https://open.spotify.com/artist/1md9aYaJ6Qt1FHypXICB5V) | [Nothing To Lose \(Deluxe Version\)](https://open.spotify.com/album/4rA1y7l62I627A69JFG1Vk) | 2:58 |
 | 241 | [Good News](https://open.spotify.com/track/5cljhBkI14yAF0uSh4999U) | [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw) | [Days & Nights](https://open.spotify.com/album/3cwP8FL7HkJJvDBP78heeW) | 4:01 |
 | 242 | [Shot In The Dark](https://open.spotify.com/track/23Qzc4lfb0OmBQNFY7xYKR) | [Augustana](https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7) | [Augustana](https://open.spotify.com/album/6C5GXWTK4E9A50lDtFQFgr) | 3:26 |
 | 243 | [Counting Stars](https://open.spotify.com/track/2KYf45Llmj3yxYtQxNQWCr) | [Augustana](https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7) | [Augustana](https://open.spotify.com/album/6C5GXWTK4E9A50lDtFQFgr) | 4:17 |
@@ -329,4 +329,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 319 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 320 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Ab1YPgAAAAC7R6t7+uHSL+KgRZQpeRnY`
+Snapshot ID: `Ab1d/AAAAADLXQQBLsVAyTlxOXViZqCW`

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,291 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,293 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gone Things](https://open.spotify.com/track/5cNodS0xil5e6ckMNf6TdH) | [Yein](https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ) | [Gone Things](https://open.spotify.com/album/2EfsnsNkT1ayuzcz40JTCK) | 3:05 |
+| 1 | [A Day Without you](https://open.spotify.com/track/7CtUsVFfq4uWfjv2y328yY) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [A Day Without you](https://open.spotify.com/album/5IW810636jL5nx7yqFCju5) | 3:18 |
 | 2 | [Ending Scene](https://open.spotify.com/track/06EMBzxDm2hueehobAlMtm) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:09 |
-| 3 | [사랑했지만](https://open.spotify.com/track/53pfvWjnZVSLgp97QjsBPm) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [7th X 독수리 5형제를 부탁해!](https://open.spotify.com/album/1aURZoBC382M0jpiQQ34KH) | 4:45 |
+| 3 | [All Alone](https://open.spotify.com/track/6mAOmvG8Yd9EG8eImGiUZq) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/6coRsiCmV1xstlSAnk0qVM) | 4:24 |
 | 4 | [Sadder Than Yesterday](https://open.spotify.com/track/4PBtSN6dNFXA9RUkx5e3W9) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Sadder Than Yesterday](https://open.spotify.com/album/13aoKP5epMSJuTQuvM6N5N) | 3:56 |
-| 5 | [CRY](https://open.spotify.com/track/02PDptomPdxVlbkYXqcZxn) | [LEE YEEUN](https://open.spotify.com/artist/4yltNNj8uZnhQNh9XyGlwD), [Ashatree](https://open.spotify.com/artist/1iFLqsWnASjUPBOD0sr8Up) | [CRY](https://open.spotify.com/album/1GHJYdO0IUEbCMaXNXhZf1) | 4:08 |
+| 5 | [Hard to Say](https://open.spotify.com/track/3d66TxP7B3pPzEC9vSWKuX) | [jaegyeong Lee](https://open.spotify.com/artist/2Ix3jdtgamaZbYPfk8A4e1) | [Hard to Say](https://open.spotify.com/album/6OaIRvMkFS4fJxmHEWVXn2) | 3:14 |
 | 6 | [Only Then](https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Only Then](https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq) | 4:08 |
-| 7 | [We Were So Beautiful](https://open.spotify.com/track/0YueZmHKGvFbU9eFUmrunC) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [We Were So Beautiful](https://open.spotify.com/album/0MSJpzMd2t8mB69BTGHvSZ) | 3:44 |
+| 7 | [Gone Things](https://open.spotify.com/track/5cNodS0xil5e6ckMNf6TdH) | [Yein](https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ) | [Gone Things](https://open.spotify.com/album/2EfsnsNkT1ayuzcz40JTCK) | 3:05 |
 | 8 | [Kim Cheolsu Story](https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Kim Cheolsu Story](https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2) | 4:08 |
-| 9 | [That's just how I feel](https://open.spotify.com/track/5ilF3vCXCBLtG4hUI0xSz5) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [That's just how I feel](https://open.spotify.com/album/5XMCQfmb0W2Kr7HW19SOvR) | 3:40 |
+| 9 | [사랑했지만](https://open.spotify.com/track/53pfvWjnZVSLgp97QjsBPm) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [7th X 독수리 5형제를 부탁해!](https://open.spotify.com/album/1aURZoBC382M0jpiQQ34KH) | 4:45 |
 | 10 | [Goodbye](https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The Beauty Inside Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY) | 3:13 |
-| 11 | [help me](https://open.spotify.com/track/0T5t1HKBjtzwFA0j6CdzUJ) | [munsiyeon](https://open.spotify.com/artist/1P1pPS2DwyZJS2Vfi9Bxjf) | [help me](https://open.spotify.com/album/5d7joJhmpgC3s8SijoHyQG) | 2:59 |
+| 11 | [CRY](https://open.spotify.com/track/02PDptomPdxVlbkYXqcZxn) | [LEE YEEUN](https://open.spotify.com/artist/4yltNNj8uZnhQNh9XyGlwD), [Ashatree](https://open.spotify.com/artist/1iFLqsWnASjUPBOD0sr8Up) | [CRY](https://open.spotify.com/album/1GHJYdO0IUEbCMaXNXhZf1) | 4:08 |
 | 12 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 |
 | 13 | [About Time](https://open.spotify.com/track/5QZTJG7X1ocodzYKmyhFoD) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 3:35 |
 | 14 | [Even if you leave,](https://open.spotify.com/track/7sxUb59tfiuzagetBF47AN) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Even if you leave,](https://open.spotify.com/album/4U0OHQ6lGmBsbY15DAtLGx) | 4:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 49 | [last night](https://open.spotify.com/track/3WVBb9WuUsHlfPSewks6oo) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [last night](https://open.spotify.com/album/19WqNz0etWx0WvHDD6zYRR) | 3:41 |
 | 50 | [Unreachable \(Feat\. Milena\)](https://open.spotify.com/track/3L0ipvNeREfCAJWCPaweUu) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Unreachable](https://open.spotify.com/album/5Stxf7cgE1761svCkuFFRm) | 3:06 |
 
-Snapshot ID: `aFjbGAAAAACwKpIr64hS9hrxGPTakTCb`
+Snapshot ID: `aGH4WAAAAABgMvkGtBBoSJOJmVfrtm4M`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIcwQEMKk2L.md) - [plain]
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,286 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,285 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIcwQEMKk2L.md) - [plain]
 | 47 | [Behind The Jalousie](https://open.spotify.com/track/39YCja6W45q9EtAtztQImq) | [Charles Blake](https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo) | [Behind The Jalousie](https://open.spotify.com/album/3qfJVOI4wer702Ws5pYCLQ) | 3:14 |
 | 48 | [Blue Skies](https://open.spotify.com/track/200ZWfIGSTurs8dhUi0PUE) | [Kristian Hart](https://open.spotify.com/artist/22SCUKjW2tk0xN50keUwjD) | [Blue Skies](https://open.spotify.com/album/0TQSmqQGNkfyIEbu3I0m75) | 2:55 |
 | 49 | [God Help the Outcasts](https://open.spotify.com/track/7vwGTeO0cug9SYAKxPxjea) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Disney Covers Vol 1](https://open.spotify.com/album/6UQMp88U2Qv5nRVUHASfyR) | 3:06 |
-| 50 | [Rest Well, My Good Friend](https://open.spotify.com/track/4qsQlYS060DvsApA2fSfS3) | [Angus Grove](https://open.spotify.com/artist/0E2uBetGBqdjRyv6I7PVVL) | [Rest Well, My Good Friend](https://open.spotify.com/album/2bdW0kSzUyL4ZV9AMOvWzi) | 2:41 |
-| 51 | [First Sunrise](https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [First Sunrise](https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect) | 3:32 |
-| 52 | [Easy To Love](https://open.spotify.com/track/4IQIY6NBsk5X6NLYjPvOaZ) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Easy To Love](https://open.spotify.com/album/6OK4mZCuEVyzUTwDLkjUTY) | 2:46 |
+| 50 | [Easy To Love](https://open.spotify.com/track/4IQIY6NBsk5X6NLYjPvOaZ) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Easy To Love](https://open.spotify.com/album/6OK4mZCuEVyzUTwDLkjUTY) | 2:46 |
+| 51 | [Rest Well, My Good Friend](https://open.spotify.com/track/4qsQlYS060DvsApA2fSfS3) | [Angus Grove](https://open.spotify.com/artist/0E2uBetGBqdjRyv6I7PVVL) | [Rest Well, My Good Friend](https://open.spotify.com/album/2bdW0kSzUyL4ZV9AMOvWzi) | 2:41 |
+| 52 | [First Sunrise](https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [First Sunrise](https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect) | 3:32 |
 | 53 | [I've Grown Accustomed to Her Face](https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [I've Grown Accustomed to Her Face](https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ) | 2:39 |
 | 54 | [This Is The Time](https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp) | [Aimee Fleur](https://open.spotify.com/artist/6nI0MtO93pTNhec5pbP43B) | [This Is The Time](https://open.spotify.com/album/7jLYwN5WoR3ysYdA9xz6SU) | 2:39 |
 | 55 | [Kleine Forelle](https://open.spotify.com/track/5B9DnzAxmYHSuEMegZYYwQ) | [Ulrich Volker](https://open.spotify.com/artist/2SCQRaipWsBYaFiNhkFDYY) | [Nibiru](https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7) | 1:58 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIcwQEMKk2L.md) - [plain]
 | 85 | [Murray's Moon](https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [Murray's Moon](https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW) | 2:07 |
 | 86 | [Magnolia](https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm) | [Snow in April](https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv) | [Magnolia](https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F) | 2:28 |
 | 87 | [Süda](https://open.spotify.com/track/5QjGudbECrTR2yRa2AdZBV) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Süda](https://open.spotify.com/album/0dR60aXaRgIAUExGS6ZKfG) | 3:22 |
-| 88 | [See you in the morning](https://open.spotify.com/track/4ujJJwrejs0lGkVU23ls5j) | [Wendy Salisbury](https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek) | [See you in the morning](https://open.spotify.com/album/1oS4DdHemsUapv1o5Uur7T) | 2:40 |
-| 89 | [Hickory Dickory Dock](https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW) | [Martha Blackburn](https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp) | [Head, Shoulders, Knees and Toes](https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn) | 1:17 |
+| 88 | [Hickory Dickory Dock](https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW) | [Martha Blackburn](https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp) | [Head, Shoulders, Knees and Toes](https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn) | 1:17 |
+| 89 | [See you in the morning](https://open.spotify.com/track/4ujJJwrejs0lGkVU23ls5j) | [Wendy Salisbury](https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek) | [See you in the morning](https://open.spotify.com/album/1oS4DdHemsUapv1o5Uur7T) | 2:40 |
 | 90 | [L’herbe verte](https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb) | [Marceau Sartre](https://open.spotify.com/artist/3WUn0TYXefhcLNOs4BMW6l) | [L’herbe verte](https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI) | 2:21 |
 | 91 | [È ora di dormire](https://open.spotify.com/track/2dtIoZ0tJ3EH3EcxAkGNE8) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [È ora di dormire](https://open.spotify.com/album/5NxTeHSVaG6jklmvpabxKY) | 2:59 |
 | 92 | [Trail of Light](https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:18 |

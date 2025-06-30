@@ -1,6 +1,6 @@
 {
   "description": "The chillest instrumental lofi beats, certified lush.",
-  "num_followers": 1025861,
+  "num_followers": 1026232,
   "original_name": "lush lofi",
   "owner": {
     "name": "Spotify",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2025-04-24 11:27:14",
       "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/00mz7xgsCHhPWtpJmHmr9U"
+      },
+      "artists": [
+        {
+          "name": "iasilma",
+          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/6sQEOXvW9JyMiihWyCZv1E"
+    },
+    {
+      "added_at": "2025-04-24 11:27:14",
+      "album": {
         "name": "Under your spell",
         "url": "https://open.spotify.com/album/2rAzqLth8UwwTnysQFnRNe"
       },
@@ -1879,22 +1895,6 @@
       "duration_ms": 185999,
       "name": "Never Forgotten",
       "url": "https://open.spotify.com/track/74BxYDojYHtw9GOeTsik8f"
-    },
-    {
-      "added_at": "2025-04-24 11:27:14",
-      "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/00mz7xgsCHhPWtpJmHmr9U"
-      },
-      "artists": [
-        {
-          "name": "iasilma",
-          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/6sQEOXvW9JyMiihWyCZv1E"
     },
     {
       "added_at": "2025-04-24 11:27:14",
@@ -3219,22 +3219,6 @@
     {
       "added_at": "2025-04-24 11:27:14",
       "album": {
-        "name": "midnight gardening",
-        "url": "https://open.spotify.com/album/7ALgtWVpomBaT5jPu7p61J"
-      },
-      "artists": [
-        {
-          "name": "Summer Clarke",
-          "url": "https://open.spotify.com/artist/5VJreBDjx8zamtY3YyZyMr"
-        }
-      ],
-      "duration_ms": 146500,
-      "name": "midnight gardening",
-      "url": "https://open.spotify.com/track/3FxBjs140VBLIPKTZ6nu5m"
-    },
-    {
-      "added_at": "2025-04-24 11:27:14",
-      "album": {
         "name": "Leaving Town",
         "url": "https://open.spotify.com/album/7HNj76lX63QdCG7E6P5F7M"
       },
@@ -3283,6 +3267,22 @@
       "duration_ms": 160000,
       "name": "After Glow",
       "url": "https://open.spotify.com/track/0dxvB5tCP5fQp9WuZFzQI9"
+    },
+    {
+      "added_at": "2025-04-24 11:27:14",
+      "album": {
+        "name": "midnight gardening",
+        "url": "https://open.spotify.com/album/7ALgtWVpomBaT5jPu7p61J"
+      },
+      "artists": [
+        {
+          "name": "Summer Clarke",
+          "url": "https://open.spotify.com/artist/5VJreBDjx8zamtY3YyZyMr"
+        }
+      ],
+      "duration_ms": 146500,
+      "name": "midnight gardening",
+      "url": "https://open.spotify.com/track/3FxBjs140VBLIPKTZ6nu5m"
     },
     {
       "added_at": "2025-04-24 11:27:14",
@@ -3971,22 +3971,6 @@
     {
       "added_at": "2025-04-24 11:27:14",
       "album": {
-        "name": "plastic flowers",
-        "url": "https://open.spotify.com/album/21hQzh3cGzCmBcf5IL3pN6"
-      },
-      "artists": [
-        {
-          "name": "Rosemary beats",
-          "url": "https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8"
-        }
-      ],
-      "duration_ms": 216338,
-      "name": "plastic flowers",
-      "url": "https://open.spotify.com/track/6i0C20TvKja1NUOmFvkpE2"
-    },
-    {
-      "added_at": "2025-04-24 11:27:14",
-      "album": {
         "name": "Hifi Lofi",
         "url": "https://open.spotify.com/album/0X8i5xKE8jPrd365EP9ji1"
       },
@@ -3999,6 +3983,22 @@
       "duration_ms": 111349,
       "name": "Hifi Lofi",
       "url": "https://open.spotify.com/track/682flrnGXdpKgfVvgdn3YZ"
+    },
+    {
+      "added_at": "2025-04-24 11:27:14",
+      "album": {
+        "name": "plastic flowers",
+        "url": "https://open.spotify.com/album/21hQzh3cGzCmBcf5IL3pN6"
+      },
+      "artists": [
+        {
+          "name": "Rosemary beats",
+          "url": "https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8"
+        }
+      ],
+      "duration_ms": 216338,
+      "name": "plastic flowers",
+      "url": "https://open.spotify.com/track/6i0C20TvKja1NUOmFvkpE2"
     },
     {
       "added_at": "2025-04-24 11:27:14",
@@ -4563,6 +4563,34 @@
     {
       "added_at": "2025-04-24 11:27:14",
       "album": {
+        "name": "Glad We've Met",
+        "url": "https://open.spotify.com/album/0xYuImPPRajMMcjoWyjANO"
+      },
+      "artists": [
+        {
+          "name": "Dan\u00e6",
+          "url": "https://open.spotify.com/artist/0bZJlYfMkcOIjtBCbSvsys"
+        },
+        {
+          "name": "cl\u00f8se2u",
+          "url": "https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE"
+        },
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        },
+        {
+          "name": "okwow",
+          "url": "https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq"
+        }
+      ],
+      "duration_ms": 130641,
+      "name": "Glad We've Met",
+      "url": "https://open.spotify.com/track/4fRSjmfc0UAykqmQr3frxM"
+    },
+    {
+      "added_at": "2025-04-24 11:27:14",
+      "album": {
         "name": "Hello Winter '23",
         "url": "https://open.spotify.com/album/50Guwkw2IvGqa6jMLjzjKl"
       },
@@ -4615,34 +4643,6 @@
       "duration_ms": 202285,
       "name": "I will remember, mom",
       "url": "https://open.spotify.com/track/0HB0eI8I0XfrJzWZbx187T"
-    },
-    {
-      "added_at": "2025-04-24 11:27:14",
-      "album": {
-        "name": "Glad We've Met",
-        "url": "https://open.spotify.com/album/0xYuImPPRajMMcjoWyjANO"
-      },
-      "artists": [
-        {
-          "name": "Dan\u00e6",
-          "url": "https://open.spotify.com/artist/0bZJlYfMkcOIjtBCbSvsys"
-        },
-        {
-          "name": "cl\u00f8se2u",
-          "url": "https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE"
-        },
-        {
-          "name": "Drxnk",
-          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
-        },
-        {
-          "name": "okwow",
-          "url": "https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq"
-        }
-      ],
-      "duration_ms": 130641,
-      "name": "Glad We've Met",
-      "url": "https://open.spotify.com/track/4fRSjmfc0UAykqmQr3frxM"
     },
     {
       "added_at": "2025-04-24 11:27:14",
@@ -5059,6 +5059,22 @@
     {
       "added_at": "2025-04-24 11:27:14",
       "album": {
+        "name": "The Moon Knight Delight",
+        "url": "https://open.spotify.com/album/1A1UHJJMY52jg5ut9Mp89w"
+      },
+      "artists": [
+        {
+          "name": "Eclips3",
+          "url": "https://open.spotify.com/artist/6ivJbFCNcqWHdxM9y83LV9"
+        }
+      ],
+      "duration_ms": 136477,
+      "name": "The Moon Knight Delight",
+      "url": "https://open.spotify.com/track/7hmn9hSclwOhRyerlbAoV4"
+    },
+    {
+      "added_at": "2025-04-24 11:27:14",
+      "album": {
         "name": "Directions",
         "url": "https://open.spotify.com/album/4olnQOk6uDuMMF0TBx7Igg"
       },
@@ -5075,22 +5091,6 @@
       "duration_ms": 161386,
       "name": "Directions",
       "url": "https://open.spotify.com/track/0y37rCh4vYvCNvzYnxGTKz"
-    },
-    {
-      "added_at": "2025-04-24 11:27:14",
-      "album": {
-        "name": "The Moon Knight Delight",
-        "url": "https://open.spotify.com/album/1A1UHJJMY52jg5ut9Mp89w"
-      },
-      "artists": [
-        {
-          "name": "Eclips3",
-          "url": "https://open.spotify.com/artist/6ivJbFCNcqWHdxM9y83LV9"
-        }
-      ],
-      "duration_ms": 136477,
-      "name": "The Moon Knight Delight",
-      "url": "https://open.spotify.com/track/7hmn9hSclwOhRyerlbAoV4"
     },
     {
       "added_at": "2025-04-24 11:27:14",

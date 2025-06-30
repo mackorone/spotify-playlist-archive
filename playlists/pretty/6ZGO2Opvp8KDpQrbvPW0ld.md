@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 74,675 likes - 350 songs - 12 hr 19 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 74,668 likes - 350 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 61 | [Cosmic Cabana](https://open.spotify.com/track/3h1suyq0iMzHnllVLx7s1W) | [Spective](https://open.spotify.com/artist/2sFPQins7c1Mx7COcPdBUV), [Nathan Kersey\-Wilson](https://open.spotify.com/artist/7i6wUpJElvNxwCs3lP0bAJ) | [Cosmic Cabana](https://open.spotify.com/album/4GxIqFoChvaN7CQ3mduR4F) | 2:29 |
 | 62 | [Ballerina in the Sun](https://open.spotify.com/track/5luKqakTnm9poqwOrfm9db) | [marie](https://open.spotify.com/artist/75E9VOlFG194gOxYbpZwYT) | [Ballerina in the Sun](https://open.spotify.com/album/6miPE8xgqmQza8JJhZnoWf) | 1:42 |
 | 63 | [Citrus Breeze](https://open.spotify.com/track/4VYe9Pka8xDT4K3toPpi5d) | [Spaniel Mac](https://open.spotify.com/artist/3mwsqk2Ccx0YemdC8FSz30), [JayHanz](https://open.spotify.com/artist/1vaOO4ZVgNZLEyYxGYE4By) | [A New Wave](https://open.spotify.com/album/42WPjJvZLH5g2u8vhHFAkp) | 1:53 |
-| 64 | [Rise Above](https://open.spotify.com/track/6Z3rAyVqR2MgnGfLEIrC1o) | [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [Rise Above](https://open.spotify.com/album/1yuaLdziHYvHnjiLoauFal) | 2:03 |
+| 64 | [rise above](https://open.spotify.com/track/6Z3rAyVqR2MgnGfLEIrC1o) | [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [rise above](https://open.spotify.com/album/1yuaLdziHYvHnjiLoauFal) | 2:03 |
 | 65 | [Ocean Breeze](https://open.spotify.com/track/7lFFgQOGBxQNnwgE1FGjIx) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q), [marsquake](https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb) | [Ocean Breeze](https://open.spotify.com/album/2JsUgR9KNQu1bZwsyccmz3) | 1:55 |
 | 66 | [coastline](https://open.spotify.com/track/2R5nrsL8H638g9WD3KN9l7) | [RenBoz](https://open.spotify.com/artist/4EtruNo3qv5ML5tiXQopqT), [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx) | [coastline](https://open.spotify.com/album/2fVxpJpLjqVOcdToutLPuJ) | 1:51 |
 | 67 | [uwabaki!](https://open.spotify.com/track/0c21jLknKHvUZBbVLHmyGq) | [Anatolian Lover](https://open.spotify.com/artist/623ScUknqQMeadlTsPsw0k), [John Da Lemon](https://open.spotify.com/artist/4mZMlXKDeS8tEuMLn2SHRE), [El Sol La Sombra](https://open.spotify.com/artist/1QbF4f5urmX7IAzFqDMNlu) | [uwabaki!](https://open.spotify.com/album/2WRLhEKcT4QKjoW07HWPi9) | 1:58 |

@@ -2265,6 +2265,32 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1cQBiYoGAbgVkgf61zmppo"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Aldae",
+          "url": "https://open.spotify.com/artist/15SHURx3CnODWKpjmNcxgO"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148930,
+      "name": "In the Dark",
+      "url": "https://open.spotify.com/track/7MaxOczq6kB5y1SWfO92vf"
+    },
+    {
+      "album": {
         "name": "In The Dark (feat. Aldae)",
         "url": "https://open.spotify.com/album/6G8WzX1bDdsy9tc23kSPZl"
       },
@@ -2284,7 +2310,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-30",
       "duration_ms": 148930,
       "name": "In The Dark (feat. Aldae)",
       "url": "https://open.spotify.com/track/5a5LU6LsKa45FOPue2GGo6"

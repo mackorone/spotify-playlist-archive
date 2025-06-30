@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 117254,
+  "num_followers": 117639,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAADDUBkDr1C2Ajp6QzAsu0rt",
+  "snapshot_id": "aF8wgAAAAAC7B4t5TzexRjqWoN0pJeLN",
   "tracks": [
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Me Again",
-        "url": "https://open.spotify.com/album/0Mz15UUJtdswzlTpPfhPfc"
+        "name": "Genesis.",
+        "url": "https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 198133,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/4QbX1M5JblYzGTVwdZTgfb"
+      "duration_ms": 420000,
+      "name": "Genesis.",
+      "url": "https://open.spotify.com/track/7CJhEUFMNrUWSwcOAqTzPT"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Genesis.",
-        "url": "https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW"
+        "name": "Love Me Again",
+        "url": "https://open.spotify.com/album/0Mz15UUJtdswzlTpPfhPfc"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 420000,
-      "name": "Genesis.",
-      "url": "https://open.spotify.com/track/7CJhEUFMNrUWSwcOAqTzPT"
+      "duration_ms": 198133,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/4QbX1M5JblYzGTVwdZTgfb"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "F1 The Album (Cinematic Edition)",
+        "url": "https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 206731,
+      "name": "Grandma Calls The Boy Bad News",
+      "url": "https://open.spotify.com/track/7taeEaTx9QbbtRDPJv3iHq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feeling Good (triple j Like A Version)",
         "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 242066,
       "name": "All Dressed Up",
       "url": "https://open.spotify.com/track/1HIwkl1QwoGeJZ8nJYE25e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F1 The Album (Cinematic Edition)",
-        "url": "https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 206731,
-      "name": "Grandma Calls The Boy Bad News",
-      "url": "https://open.spotify.com/track/7taeEaTx9QbbtRDPJv3iHq"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "A mix of the best modern Deathcore tracks. Cover: Paleface Swiss",
-  "num_followers": 259863,
+  "num_followers": 259998,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2025-06-27 04:00:24",
       "album": {
+        "name": "Pain Remains",
+        "url": "https://open.spotify.com/album/1WuqlDJb7Z2ipBhM6ww7QI"
+      },
+      "artists": [
+        {
+          "name": "Lorna Shore",
+          "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
+        }
+      ],
+      "duration_ms": 552613,
+      "name": "Pain Remains III: In a Sea of Fire",
+      "url": "https://open.spotify.com/track/6wgKN7mUq1CvQBnQKzjeKt"
+    },
+    {
+      "added_at": "2025-06-27 04:00:24",
+      "album": {
         "name": "Hymns in Dissonance",
         "url": "https://open.spotify.com/album/7lnkxd7w0YcE18CZ6COEJj"
       },
@@ -475,26 +491,6 @@
       "duration_ms": 254446,
       "name": "Infinity Of Horrors",
       "url": "https://open.spotify.com/track/51WGnSCqnjqsG6zJPdo3Hv"
-    },
-    {
-      "added_at": "2025-06-27 04:00:24",
-      "album": {
-        "name": "Clouded Retinas (feat. Will Ramos)",
-        "url": "https://open.spotify.com/album/6GpJYLV6rt9lPXz84nZuaM"
-      },
-      "artists": [
-        {
-          "name": "Signs of the Swarm",
-          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
-        },
-        {
-          "name": "Will Ramos",
-          "url": "https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Clouded Retinas (feat. Will Ramos)",
-      "url": "https://open.spotify.com/track/4uuG66FRhvdVenLtyfWx5h"
     },
     {
       "added_at": "2025-06-27 04:00:24",
@@ -599,50 +595,22 @@
     {
       "added_at": "2025-06-27 04:00:24",
       "album": {
-        "name": "Pain Remains",
-        "url": "https://open.spotify.com/album/1WuqlDJb7Z2ipBhM6ww7QI"
+        "name": "Clouded Retinas (feat. Will Ramos)",
+        "url": "https://open.spotify.com/album/6GpJYLV6rt9lPXz84nZuaM"
       },
       "artists": [
         {
-          "name": "Lorna Shore",
-          "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
-        }
-      ],
-      "duration_ms": 552613,
-      "name": "Pain Remains III: In a Sea of Fire",
-      "url": "https://open.spotify.com/track/6wgKN7mUq1CvQBnQKzjeKt"
-    },
-    {
-      "added_at": "2025-06-27 04:00:24",
-      "album": {
-        "name": "Ghost Of Me",
-        "url": "https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov"
-      },
-      "artists": [
+          "name": "Signs of the Swarm",
+          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
+        },
         {
-          "name": "Make Them Suffer",
-          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+          "name": "Will Ramos",
+          "url": "https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa"
         }
       ],
-      "duration_ms": 231426,
-      "name": "Ghost Of Me",
-      "url": "https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w"
-    },
-    {
-      "added_at": "2025-06-27 04:00:24",
-      "album": {
-        "name": "Incinerate",
-        "url": "https://open.spotify.com/album/0BJD0KxYywhhP4fVcbopPj"
-      },
-      "artists": [
-        {
-          "name": "Fire From The Gods",
-          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
-        }
-      ],
-      "duration_ms": 187585,
-      "name": "Incinerate",
-      "url": "https://open.spotify.com/track/4Y9958hlA4824tFCljgNXd"
+      "duration_ms": 192500,
+      "name": "Clouded Retinas (feat. Will Ramos)",
+      "url": "https://open.spotify.com/track/4uuG66FRhvdVenLtyfWx5h"
     },
     {
       "added_at": "2025-06-27 04:00:24",
@@ -667,6 +635,38 @@
     {
       "added_at": "2025-06-27 04:00:24",
       "album": {
+        "name": "Incinerate",
+        "url": "https://open.spotify.com/album/0BJD0KxYywhhP4fVcbopPj"
+      },
+      "artists": [
+        {
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+        }
+      ],
+      "duration_ms": 187585,
+      "name": "Incinerate",
+      "url": "https://open.spotify.com/track/4Y9958hlA4824tFCljgNXd"
+    },
+    {
+      "added_at": "2025-06-27 04:00:24",
+      "album": {
+        "name": "Ghost Of Me",
+        "url": "https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov"
+      },
+      "artists": [
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "duration_ms": 231426,
+      "name": "Ghost Of Me",
+      "url": "https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w"
+    },
+    {
+      "added_at": "2025-06-27 04:00:24",
+      "album": {
         "name": "YOU LIE",
         "url": "https://open.spotify.com/album/5NhYVf3UFIXc0YQxIo5xG3"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 113040,
       "name": "YOU LIE",
       "url": "https://open.spotify.com/track/1uilIRPZmJakhcauDdH3XW"
-    },
-    {
-      "added_at": "2025-06-27 04:00:24",
-      "album": {
-        "name": "IWONTLETYOUDIE",
-        "url": "https://open.spotify.com/album/2dHhAumusascVwLITieFyp"
-      },
-      "artists": [
-        {
-          "name": "Signs of the Swarm",
-          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
-        }
-      ],
-      "duration_ms": 213911,
-      "name": "IWONTLETYOUDIE",
-      "url": "https://open.spotify.com/track/1cAKzjWxDnsYf20JhZ7oBw"
     },
     {
       "added_at": "2025-06-27 04:00:24",
@@ -739,6 +723,38 @@
     {
       "added_at": "2025-06-27 04:00:24",
       "album": {
+        "name": "Mechanical Chaos",
+        "url": "https://open.spotify.com/album/1c1o969p0fOBkTcea31737"
+      },
+      "artists": [
+        {
+          "name": "Shadow of Intent",
+          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
+        }
+      ],
+      "duration_ms": 230517,
+      "name": "Mechanical Chaos",
+      "url": "https://open.spotify.com/track/5Ooe9BRVaQfdc8o2WA7xO5"
+    },
+    {
+      "added_at": "2025-06-27 04:00:24",
+      "album": {
+        "name": "IWONTLETYOUDIE",
+        "url": "https://open.spotify.com/album/2dHhAumusascVwLITieFyp"
+      },
+      "artists": [
+        {
+          "name": "Signs of the Swarm",
+          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
+        }
+      ],
+      "duration_ms": 213911,
+      "name": "IWONTLETYOUDIE",
+      "url": "https://open.spotify.com/track/1cAKzjWxDnsYf20JhZ7oBw"
+    },
+    {
+      "added_at": "2025-06-27 04:00:24",
+      "album": {
         "name": "Southern Hostility",
         "url": "https://open.spotify.com/album/5NGFaarv4KxVYH9LvaMLso"
       },
@@ -779,54 +795,6 @@
     {
       "added_at": "2025-06-27 04:00:24",
       "album": {
-        "name": "HELLMUSTFEARME",
-        "url": "https://open.spotify.com/album/2WxWKL4eED34t8758N0RLN"
-      },
-      "artists": [
-        {
-          "name": "Signs of the Swarm",
-          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "HELLMUSTFEARME",
-      "url": "https://open.spotify.com/track/1mOQdl0iEBPjEyqw4H8E26"
-    },
-    {
-      "added_at": "2025-06-27 04:00:24",
-      "album": {
-        "name": "Mechanical Chaos",
-        "url": "https://open.spotify.com/album/1c1o969p0fOBkTcea31737"
-      },
-      "artists": [
-        {
-          "name": "Shadow of Intent",
-          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
-        }
-      ],
-      "duration_ms": 230517,
-      "name": "Mechanical Chaos",
-      "url": "https://open.spotify.com/track/5Ooe9BRVaQfdc8o2WA7xO5"
-    },
-    {
-      "added_at": "2025-06-27 04:00:24",
-      "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/3hVNt9cc7pMdICNEevVS8c"
-      },
-      "artists": [
-        {
-          "name": "Brand of Sacrifice",
-          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
-        }
-      ],
-      "duration_ms": 258986,
-      "name": "Exodus",
-      "url": "https://open.spotify.com/track/23ZCrmvUGs6jS5qu6aXn5I"
-    },
-    {
-      "added_at": "2025-06-27 04:00:24",
-      "album": {
         "name": "A Visceral Retch",
         "url": "https://open.spotify.com/album/51kqr7eiWXoV5tzSYcYn4N"
       },
@@ -855,6 +823,54 @@
       "duration_ms": 304493,
       "name": "Red Horizon",
       "url": "https://open.spotify.com/track/7Hrr1Setc3WFBICOm5kEgn"
+    },
+    {
+      "added_at": "2025-06-27 04:00:24",
+      "album": {
+        "name": "HELLMUSTFEARME",
+        "url": "https://open.spotify.com/album/2WxWKL4eED34t8758N0RLN"
+      },
+      "artists": [
+        {
+          "name": "Signs of the Swarm",
+          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "HELLMUSTFEARME",
+      "url": "https://open.spotify.com/track/1mOQdl0iEBPjEyqw4H8E26"
+    },
+    {
+      "added_at": "2025-06-27 04:00:24",
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/3hVNt9cc7pMdICNEevVS8c"
+      },
+      "artists": [
+        {
+          "name": "Brand of Sacrifice",
+          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
+        }
+      ],
+      "duration_ms": 258986,
+      "name": "Exodus",
+      "url": "https://open.spotify.com/track/23ZCrmvUGs6jS5qu6aXn5I"
+    },
+    {
+      "added_at": "2025-06-27 04:00:24",
+      "album": {
+        "name": "The Migrant",
+        "url": "https://open.spotify.com/album/5pkKdqw83QB8q5LXxWRoyO"
+      },
+      "artists": [
+        {
+          "name": "Shadow of Intent",
+          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
+        }
+      ],
+      "duration_ms": 240112,
+      "name": "The Migrant",
+      "url": "https://open.spotify.com/track/1pzjl4Y0VrDPhLE6MxGYkx"
     },
     {
       "added_at": "2025-06-27 04:00:24",
@@ -951,22 +967,6 @@
       "duration_ms": 316599,
       "name": "Walk With Me In Hell",
       "url": "https://open.spotify.com/track/4bwp2R1oJxwNwoc28T7iy7"
-    },
-    {
-      "added_at": "2025-06-27 04:00:24",
-      "album": {
-        "name": "The Migrant",
-        "url": "https://open.spotify.com/album/5pkKdqw83QB8q5LXxWRoyO"
-      },
-      "artists": [
-        {
-          "name": "Shadow of Intent",
-          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
-        }
-      ],
-      "duration_ms": 240112,
-      "name": "The Migrant",
-      "url": "https://open.spotify.com/track/1pzjl4Y0VrDPhLE6MxGYkx"
     },
     {
       "added_at": "2025-06-27 04:00:24",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-06-27 04:00:24",
       "album": {
+        "name": "Nihilus",
+        "url": "https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T"
+      },
+      "artists": [
+        {
+          "name": "Carcosa",
+          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Nihilus",
+      "url": "https://open.spotify.com/track/7e9lo5xNLCxtGF3AuU5WNW"
+    },
+    {
+      "added_at": "2025-06-27 04:00:24",
+      "album": {
         "name": "Bleeding Sun",
         "url": "https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO"
       },
@@ -1135,38 +1151,6 @@
       "duration_ms": 193553,
       "name": "FUHAI",
       "url": "https://open.spotify.com/track/2i3N4t7Ke0ZGfckg5EieqL"
-    },
-    {
-      "added_at": "2025-06-27 04:00:24",
-      "album": {
-        "name": "Nihilus",
-        "url": "https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T"
-      },
-      "artists": [
-        {
-          "name": "Carcosa",
-          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Nihilus",
-      "url": "https://open.spotify.com/track/7e9lo5xNLCxtGF3AuU5WNW"
-    },
-    {
-      "added_at": "2025-06-27 04:00:24",
-      "album": {
-        "name": "Dynasty",
-        "url": "https://open.spotify.com/album/7atT7sF2atM7kc7yR1krit"
-      },
-      "artists": [
-        {
-          "name": "Brand of Sacrifice",
-          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Dynasty",
-      "url": "https://open.spotify.com/track/2th7mWLxZNhBqfa0IHC6b3"
     },
     {
       "added_at": "2025-06-27 04:00:24",
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2025-06-27 04:00:24",
       "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/7atT7sF2atM7kc7yR1krit"
+      },
+      "artists": [
+        {
+          "name": "Brand of Sacrifice",
+          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Dynasty",
+      "url": "https://open.spotify.com/track/2th7mWLxZNhBqfa0IHC6b3"
+    },
+    {
+      "added_at": "2025-06-27 04:00:24",
+      "album": {
         "name": "Dead Eyes Replete",
         "url": "https://open.spotify.com/album/012HSJB7jyoUnKmj59UsD7"
       },
@@ -1219,6 +1219,22 @@
       "duration_ms": 237346,
       "name": "Dead Eyes Replete",
       "url": "https://open.spotify.com/track/1Y3fQd3tAsN6Hmkmo7zi05"
+    },
+    {
+      "added_at": "2025-06-27 04:00:24",
+      "album": {
+        "name": "Born To Lose",
+        "url": "https://open.spotify.com/album/4vWFFMOKx27LnPbGP4HeF6"
+      },
+      "artists": [
+        {
+          "name": "Carcosa",
+          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
+        }
+      ],
+      "duration_ms": 192553,
+      "name": "Born To Lose",
+      "url": "https://open.spotify.com/track/3w7hEGQDeQl6GKPIRT4hGp"
     },
     {
       "added_at": "2025-06-27 04:00:24",
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2025-06-27 04:00:24",
       "album": {
-        "name": "Born To Lose",
-        "url": "https://open.spotify.com/album/4vWFFMOKx27LnPbGP4HeF6"
-      },
-      "artists": [
-        {
-          "name": "Carcosa",
-          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
-        }
-      ],
-      "duration_ms": 192553,
-      "name": "Born To Lose",
-      "url": "https://open.spotify.com/track/3w7hEGQDeQl6GKPIRT4hGp"
-    },
-    {
-      "added_at": "2025-06-27 04:00:24",
-      "album": {
         "name": "Suffer Forever",
         "url": "https://open.spotify.com/album/5m1Osyb2DW62AZPVUC6vNK"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-06-27 04:00:24",
       "album": {
-        "name": "Of Truth And Sacrifice",
-        "url": "https://open.spotify.com/album/75nIP8284NK6VM5mCQCq36"
-      },
-      "artists": [
-        {
-          "name": "Heaven Shall Burn",
-          "url": "https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW"
-        }
-      ],
-      "duration_ms": 298428,
-      "name": "Thoughts and Prayers",
-      "url": "https://open.spotify.com/track/6r3pdm90oqbqKm4laY8a5y"
-    },
-    {
-      "added_at": "2025-06-27 04:00:24",
-      "album": {
         "name": "FEED",
         "url": "https://open.spotify.com/album/0TL8SR1bIxBb5yEca2pUZ4"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 228444,
       "name": "Righteous Man",
       "url": "https://open.spotify.com/track/4Nq3yojHldocHnarSy8wZV"
+    },
+    {
+      "added_at": "2025-06-27 04:00:24",
+      "album": {
+        "name": "Of Truth And Sacrifice",
+        "url": "https://open.spotify.com/album/75nIP8284NK6VM5mCQCq36"
+      },
+      "artists": [
+        {
+          "name": "Heaven Shall Burn",
+          "url": "https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW"
+        }
+      ],
+      "duration_ms": 298428,
+      "name": "Thoughts and Prayers",
+      "url": "https://open.spotify.com/track/6r3pdm90oqbqKm4laY8a5y"
     },
     {
       "added_at": "2025-06-27 04:00:24",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2025-06-27 04:00:24",
       "album": {
-        "name": "Hivemind (feat. Mental Cruelty)",
-        "url": "https://open.spotify.com/album/340YpLo1eaYz1Gxbd6LTjU"
-      },
-      "artists": [
-        {
-          "name": "Ov Sulfur",
-          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
-        },
-        {
-          "name": "Mental Cruelty",
-          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
-        }
-      ],
-      "duration_ms": 384824,
-      "name": "Hivemind (feat. Mental Cruelty)",
-      "url": "https://open.spotify.com/track/68m6nXeQLEUYDdlvikMdHU"
-    },
-    {
-      "added_at": "2025-06-27 04:00:24",
-      "album": {
         "name": "(Un)Dying [Code: Pandorum Remix]",
         "url": "https://open.spotify.com/album/2qoOyOB6lZfyFo5XW8ShFS"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 234602,
       "name": "(Un)Dying - Code: Pandorum Remix",
       "url": "https://open.spotify.com/track/3JskyVWBNfUEQzY8CjlMyv"
+    },
+    {
+      "added_at": "2025-06-27 04:00:24",
+      "album": {
+        "name": "Hivemind (feat. Mental Cruelty)",
+        "url": "https://open.spotify.com/album/340YpLo1eaYz1Gxbd6LTjU"
+      },
+      "artists": [
+        {
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+        },
+        {
+          "name": "Mental Cruelty",
+          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
+        }
+      ],
+      "duration_ms": 384824,
+      "name": "Hivemind (feat. Mental Cruelty)",
+      "url": "https://open.spotify.com/track/68m6nXeQLEUYDdlvikMdHU"
     },
     {
       "added_at": "2025-06-27 04:00:24",
@@ -1603,18 +1603,22 @@
     {
       "added_at": "2025-06-27 04:00:24",
       "album": {
-        "name": "The Orphan",
-        "url": "https://open.spotify.com/album/6Ht4AEKGQHhDst26WlWy62"
+        "name": "Aeons of Oblivion",
+        "url": "https://open.spotify.com/album/2qplxtai1BdGPrjIjUo1Hr"
       },
       "artists": [
         {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        },
+        {
+          "name": "Adam Warren",
+          "url": "https://open.spotify.com/artist/7COUdKrNnwWJGxif3XxLDr"
         }
       ],
-      "duration_ms": 383037,
-      "name": "The Orphan",
-      "url": "https://open.spotify.com/track/33gtSwgOxlxHLqAQftK3IW"
+      "duration_ms": 221446,
+      "name": "Aeons of Oblivion",
+      "url": "https://open.spotify.com/track/6HcXTUJEOpTbiCPyGtU1sA"
     },
     {
       "added_at": "2025-06-27 04:00:24",
@@ -1631,6 +1635,22 @@
       "duration_ms": 159417,
       "name": "Sing to the Grave",
       "url": "https://open.spotify.com/track/3GcWW4Bmb0q0LsbDOWChNU"
+    },
+    {
+      "added_at": "2025-06-27 04:00:24",
+      "album": {
+        "name": "The Orphan",
+        "url": "https://open.spotify.com/album/6Ht4AEKGQHhDst26WlWy62"
+      },
+      "artists": [
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        }
+      ],
+      "duration_ms": 383037,
+      "name": "The Orphan",
+      "url": "https://open.spotify.com/track/33gtSwgOxlxHLqAQftK3IW"
     },
     {
       "added_at": "2025-06-27 04:00:24",
@@ -1695,26 +1715,6 @@
       "duration_ms": 281932,
       "name": "Instill",
       "url": "https://open.spotify.com/track/0oWzEdJetVyR796jo7lZfV"
-    },
-    {
-      "added_at": "2025-06-27 04:00:24",
-      "album": {
-        "name": "Aeons of Oblivion",
-        "url": "https://open.spotify.com/album/2qplxtai1BdGPrjIjUo1Hr"
-      },
-      "artists": [
-        {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
-        },
-        {
-          "name": "Adam Warren",
-          "url": "https://open.spotify.com/artist/7COUdKrNnwWJGxif3XxLDr"
-        }
-      ],
-      "duration_ms": 221446,
-      "name": "Aeons of Oblivion",
-      "url": "https://open.spotify.com/track/6HcXTUJEOpTbiCPyGtU1sA"
     },
     {
       "added_at": "2025-06-27 04:00:24",
@@ -2131,26 +2131,6 @@
     {
       "added_at": "2025-06-27 04:00:24",
       "album": {
-        "name": "The Bleeding Machine",
-        "url": "https://open.spotify.com/album/6IvlaLnCiZLiswjRNcBSIo"
-      },
-      "artists": [
-        {
-          "name": "Tactosa",
-          "url": "https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI"
-        },
-        {
-          "name": "Elysia",
-          "url": "https://open.spotify.com/artist/3aUFKf9vTLJKkHcKB0BcMS"
-        }
-      ],
-      "duration_ms": 223381,
-      "name": "The Bleeding Machine",
-      "url": "https://open.spotify.com/track/4kenHcFgIL3wdmIeC1wKZ6"
-    },
-    {
-      "added_at": "2025-06-27 04:00:24",
-      "album": {
         "name": "The Isnis",
         "url": "https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG"
       },
@@ -2195,6 +2175,26 @@
       "duration_ms": 210352,
       "name": "Cut off the Head",
       "url": "https://open.spotify.com/track/3Dvk2S4NL3KYU4S4QRW8P8"
+    },
+    {
+      "added_at": "2025-06-27 04:00:24",
+      "album": {
+        "name": "The Bleeding Machine",
+        "url": "https://open.spotify.com/album/6IvlaLnCiZLiswjRNcBSIo"
+      },
+      "artists": [
+        {
+          "name": "Tactosa",
+          "url": "https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI"
+        },
+        {
+          "name": "Elysia",
+          "url": "https://open.spotify.com/artist/3aUFKf9vTLJKkHcKB0BcMS"
+        }
+      ],
+      "duration_ms": 223381,
+      "name": "The Bleeding Machine",
+      "url": "https://open.spotify.com/track/4kenHcFgIL3wdmIeC1wKZ6"
     },
     {
       "added_at": "2025-06-27 04:00:24",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2025-06-27 04:00:24",
       "album": {
-        "name": "The Price of Grace",
-        "url": "https://open.spotify.com/album/3kolLEZ68kVuXA1gwO0TJd"
-      },
-      "artists": [
-        {
-          "name": "Convictions",
-          "url": "https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY"
-        }
-      ],
-      "duration_ms": 247282,
-      "name": "The Price of Grace",
-      "url": "https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj"
-    },
-    {
-      "added_at": "2025-06-27 04:00:24",
-      "album": {
         "name": "Misery Eternal",
         "url": "https://open.spotify.com/album/5xfr42OlCFI8PaEs8YElqD"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 213870,
       "name": "Misery Eternal",
       "url": "https://open.spotify.com/track/6o58ghU9lr29HIojmWqoVF"
+    },
+    {
+      "added_at": "2025-06-27 04:00:24",
+      "album": {
+        "name": "The Price of Grace",
+        "url": "https://open.spotify.com/album/3kolLEZ68kVuXA1gwO0TJd"
+      },
+      "artists": [
+        {
+          "name": "Convictions",
+          "url": "https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY"
+        }
+      ],
+      "duration_ms": 247282,
+      "name": "The Price of Grace",
+      "url": "https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj"
     },
     {
       "added_at": "2025-06-27 04:00:24",

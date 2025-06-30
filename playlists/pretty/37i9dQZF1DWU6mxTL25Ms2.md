@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6mxTL25Ms2.md) - [plain]
 
 > 「ウマ娘 プリティーダービー」ゲーム&アニメの楽曲をプレイリストで。Enjoy music from "<br/>Umamusume: Pretty Derby! © Cygames, Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,640 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,805 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

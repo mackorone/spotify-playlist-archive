@@ -1,12 +1,12 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 67250,
+  "num_followers": 67342,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAACIPyXdNmKWOsLHtN7t1hYz",
+  "snapshot_id": "aF8wgAAAAAAK+O0U4Tu35B3xofLPt6Gu",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Regreso A Tus Brazos",
-        "url": "https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 207066,
-      "name": "La Prieta Linda",
-      "url": "https://open.spotify.com/track/0P2uUhEU7JeVPCwFnxhrAD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puras Rancheras",
         "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
       },
@@ -383,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuando Regreso A Tus Brazos",
+        "url": "https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "La Prieta Linda",
+      "url": "https://open.spotify.com/track/0P2uUhEU7JeVPCwFnxhrAD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA"
       },
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 193933,
-      "name": "Sufro",
-      "url": "https://open.spotify.com/track/2Kf5AQerl18JGFq5MQDhSD"
+      "duration_ms": 142026,
+      "name": "Qu\u00e9 Casualidad",
+      "url": "https://open.spotify.com/track/0AFkOMz5UWiDQUMswNqT42"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 142026,
-      "name": "Qu\u00e9 Casualidad",
-      "url": "https://open.spotify.com/track/0AFkOMz5UWiDQUMswNqT42"
+      "duration_ms": 193933,
+      "name": "Sufro",
+      "url": "https://open.spotify.com/track/2Kf5AQerl18JGFq5MQDhSD"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Basico",
-        "url": "https://open.spotify.com/album/6CE7YrsZV7r70OadZDrPTS"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 192946,
-      "name": "Alla En El Rancho Grande",
-      "url": "https://open.spotify.com/track/0zTXzW75XBCtt9v8ccXixg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puras Rancheras",
         "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 149640,
       "name": "Pase Y Pase",
       "url": "https://open.spotify.com/track/5sK1Tz6eqakvg6qpOtJxMg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Basico",
+        "url": "https://open.spotify.com/album/6CE7YrsZV7r70OadZDrPTS"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 192946,
+      "name": "Alla En El Rancho Grande",
+      "url": "https://open.spotify.com/track/0zTXzW75XBCtt9v8ccXixg"
     },
     {
       "added_at": null,

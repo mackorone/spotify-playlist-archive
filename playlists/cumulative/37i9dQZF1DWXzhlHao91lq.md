@@ -4,7 +4,7 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-284 songs - 16 hr 5 min
+285 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Beautiful Scars \(Maximillian x Moira Dela Torre\) \- Acoustic](https://open.spotify.com/track/2vcDl2SLudnltyDEos3v6E) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Beautiful Scars \(Maximillian x Moira Dela Torre\) \[Acoustic\]](https://open.spotify.com/album/3w21pYIhQWUtUcNfyoYiba) | 2:37 | 2022-05-30 | 2022-08-09 |
 | [Beautiful Stranger](https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:21 | 2022-08-29 | 2022-10-14 |
 | [Beautiful Stranger](https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:21 | 2022-10-17 | 2024-04-19 |
+| [Best Part](https://open.spotify.com/track/2HttK3TYhnumj8xWjKCYem) | [Jayesslee](https://open.spotify.com/artist/1xqkT06p85DIZeqrlVGVWv) | [Best Part](https://open.spotify.com/album/1Eew1PSbKc6DM7pD99NiIc) | 4:40 | 2025-06-30 |  |
 | [Better Together](https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc) | 3:20 | 2022-07-25 | 2024-04-19 |
 | [Better with You \- Acoustic](https://open.spotify.com/track/08de9W83HKyeTNX2Vcfy5E) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Better with You \(Acoustic\)](https://open.spotify.com/album/4JNwakn9CPlE2iAypiWUIc) | 3:28 | 2022-10-31 | 2023-04-27 |
 | [Better with You \- Acoustic](https://open.spotify.com/track/2AARwDC2ylbWF61qXrteHK) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Better with You \(Acoustic\)](https://open.spotify.com/album/1c4I4b4Lp7XayJqcWVCnoG) | 3:28 | 2022-08-08 | 2022-10-13 |
@@ -280,7 +281,7 @@
 | [Wish Upon A Star](https://open.spotify.com/track/4dRlRt2jZKOd7WsPRQ5KVq) | [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [Wish Upon A Star](https://open.spotify.com/album/6Z5QlpJojN80fwGLHFEkDS) | 4:25 | 2022-05-30 | 2022-07-26 |
 | [without you](https://open.spotify.com/track/0zdUjThG0sDfyF27Ji3XHd) | [Vivien Yap](https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53) | [without you](https://open.spotify.com/album/3Y7mCZN8kDs7oZX89bazbg) | 2:48 | 2025-03-31 | 2025-04-07 |
 | [Written in the Sand](https://open.spotify.com/track/2A69wys3S9uiPSmn6UZWJn) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Happy Endings](https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V) | 3:04 | 2022-07-25 | 2022-08-09 |
-| [Yard Sale](https://open.spotify.com/track/4sH3OxT6GqGsihPcO3wmhw) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Yard Sale](https://open.spotify.com/album/4j3OwjL2lZAzUcSx1Lpju5) | 4:17 | 2023-04-10 |  |
+| [Yard Sale](https://open.spotify.com/track/4sH3OxT6GqGsihPcO3wmhw) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Yard Sale](https://open.spotify.com/album/4j3OwjL2lZAzUcSx1Lpju5) | 4:17 | 2023-04-10 | 2025-06-30 |
 | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/track/1ydzL5SIoSRCpEIYWhsWE5) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days \(Deluxe Edition\) In The Canyon Haze](https://open.spotify.com/album/2FOAtTMAfplWnTKf7rl12Q) | 4:17 | 2022-10-31 | 2022-11-13 |
 | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6) | 4:17 | 2022-09-05 | 2022-10-08 |
 | [You Are Not I](https://open.spotify.com/track/6ptIX0lt36WmgNioqKrW5z) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [You Are Not I](https://open.spotify.com/album/2IEFI0My1TWvHxaweaTtSn) | 2:58 | 2024-10-28 | 2024-11-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 
 > A calm and cosy classical soundtrack to all activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,730 likes - 180 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,882 likes - 180 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,7 +178,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 | 168 | [Roots Of My Soul](https://open.spotify.com/track/1M6TvY34UBipMjtjEqknEz) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Roots Of My Soul](https://open.spotify.com/album/10IssyfD8vfVa4xwMUt07D) | 2:14 |
 | 169 | [Twilight Meditation](https://open.spotify.com/track/29s05gFh3nl12QRV4pgNbB) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Twilight Meditation](https://open.spotify.com/album/4ytfQGxT3f06uV1Q5oY2II) | 4:58 |
 | 170 | [Tempora](https://open.spotify.com/track/0uME5XUJPts0jypYhjtG13) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Tempora](https://open.spotify.com/album/5JRtd3VR4X2LUziz7CcVxE) | 2:32 |
-| 171 | [Für Elise Variation \(After Beethoven's Bagatelle No\. 25 in A Minor, WoO59\)](https://open.spotify.com/track/6K1xMJNZYxXXrp1lJQFF1R) | [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH), [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) | [Für Elise Variation](https://open.spotify.com/album/49HQrDRB7TV75V4KuUMVF0) | 2:02 |
+| 171 | [Für Elise Variation \(After Beethoven's Bagatelle No\. 25 in A Minor, WoO 59\)](https://open.spotify.com/track/6K1xMJNZYxXXrp1lJQFF1R) | [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH), [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) | [Für Elise Variation](https://open.spotify.com/album/49HQrDRB7TV75V4KuUMVF0) | 2:02 |
 | 172 | [Spring by the Lake](https://open.spotify.com/track/75SjhCkEruKcPM8j0rRcre) | [Alanna Crouch](https://open.spotify.com/artist/3LiFngq9LVm61OaC0amG9w) | [Spring by the Lake](https://open.spotify.com/album/3H4468GoCFogtQitzQkvQi) | 3:36 |
 | 173 | [Children's Song No\. 8 "The Sky" \(Arr\. for guitar by Forbes Henderson\) \- Classical Session](https://open.spotify.com/track/5Z9BTqR1djwxY0MfJMsHhS) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq), [Sean Shibe](https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5) | [Corea: Children's Song No\. 8, The Sky](https://open.spotify.com/album/5Ugy2xNu8Ku1fCOgTu9rGd) | 2:10 |
 | 174 | [Variations concertantes, Op\. 17/MWV Q 19: I\. Thema](https://open.spotify.com/track/6niR0Jo6cYUMeNpcRGsIt3) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Sol Gabetta](https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [I\. Thema](https://open.spotify.com/album/3h4QI2qTDymFjAd6sR47WG) | 1:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de música mexicana del 2025\. Hit shuffle for a mixed listening experience\. Cover: Oscar Maydon
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,983 likes - 164 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,996 likes - 164 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

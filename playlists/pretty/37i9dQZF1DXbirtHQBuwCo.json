@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: BIG Naughty & LEE CHANHYUK)",
-  "num_followers": 1076003,
+  "num_followers": 1075940,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2025-06-24 09:00:14",
       "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Slow Dancing",
+      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
+    },
+    {
+      "added_at": "2025-06-24 09:00:14",
+      "album": {
         "name": "Wait On Me - The 4th Mini Album",
         "url": "https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 193053,
       "name": "Wait On Me",
       "url": "https://open.spotify.com/track/2BoGqSfsf9z5T1exqHtW54"
-    },
-    {
-      "added_at": "2025-06-24 09:00:14",
-      "album": {
-        "name": "KISS OF LIFE",
-        "url": "https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 179866,
-      "name": "Sugarcoat (NATTY Solo)",
-      "url": "https://open.spotify.com/track/0NoeYUnwpb9R26mpylHcR9"
     },
     {
       "added_at": "2025-06-24 09:00:14",
@@ -283,34 +283,34 @@
     {
       "added_at": "2025-06-24 09:00:14",
       "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+        "name": "KISS OF LIFE",
+        "url": "https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG"
       },
       "artists": [
         {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
         }
       ],
-      "duration_ms": 179026,
-      "name": "Hype Boy",
-      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
+      "duration_ms": 179866,
+      "name": "Sugarcoat (NATTY Solo)",
+      "url": "https://open.spotify.com/track/0NoeYUnwpb9R26mpylHcR9"
     },
     {
       "added_at": "2025-06-24 09:00:14",
       "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
+        "url": "https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN"
       },
       "artists": [
         {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 187026,
-      "name": "Slow Dancing",
-      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
+      "duration_ms": 149053,
+      "name": "Trigger (DINO Solo)",
+      "url": "https://open.spotify.com/track/0MerfQMNc9OPWZvZWeUKWe"
     },
     {
       "added_at": "2025-06-24 09:00:14",
@@ -335,18 +335,34 @@
     {
       "added_at": "2025-06-24 09:00:14",
       "album": {
-        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
-        "url": "https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN"
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 149053,
-      "name": "Trigger (DINO Solo)",
-      "url": "https://open.spotify.com/track/0MerfQMNc9OPWZvZWeUKWe"
+      "duration_ms": 179026,
+      "name": "Hype Boy",
+      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
+    },
+    {
+      "added_at": "2025-06-24 09:00:14",
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
     },
     {
       "added_at": "2025-06-24 09:00:14",
@@ -435,6 +451,22 @@
     {
       "added_at": "2025-06-24 09:00:14",
       "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 179560,
+      "name": "Rainy Days",
+      "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
+    },
+    {
+      "added_at": "2025-06-24 09:00:14",
+      "album": {
         "name": "To. X - The 5th Mini Album",
         "url": "https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD"
       },
@@ -467,18 +499,22 @@
     {
       "added_at": "2025-06-24 09:00:14",
       "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
+        "name": "Smeraldo Garden Marching Band (feat. Loco)",
+        "url": "https://open.spotify.com/album/2PcM535knJOZb6MUth8axj"
       },
       "artists": [
         {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
         }
       ],
-      "duration_ms": 182293,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
+      "duration_ms": 182840,
+      "name": "Smeraldo Garden Marching Band (feat. Loco)",
+      "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
     },
     {
       "added_at": "2025-06-24 09:00:14",
@@ -523,22 +559,34 @@
     {
       "added_at": "2025-06-24 09:00:14",
       "album": {
-        "name": "Smeraldo Garden Marching Band (feat. Loco)",
-        "url": "https://open.spotify.com/album/2PcM535knJOZb6MUth8axj"
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
       "artists": [
         {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 182840,
-      "name": "Smeraldo Garden Marching Band (feat. Loco)",
-      "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
+      "duration_ms": 177946,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
+    },
+    {
+      "added_at": "2025-06-24 09:00:14",
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 171160,
+      "name": "For Us",
+      "url": "https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD"
     },
     {
       "added_at": "2025-06-24 09:00:14",
@@ -555,22 +603,6 @@
       "duration_ms": 176735,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/53bnkcyDpei0ZlC30au1t7"
-    },
-    {
-      "added_at": "2025-06-24 09:00:14",
-      "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
     },
     {
       "added_at": "2025-06-24 09:00:14",
@@ -607,38 +639,6 @@
     {
       "added_at": "2025-06-24 09:00:14",
       "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 179560,
-      "name": "Rainy Days",
-      "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
-    },
-    {
-      "added_at": "2025-06-24 09:00:14",
-      "album": {
-        "name": "FACE",
-        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 211250,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/5Hfnps0jaWFpYg55WOPexG"
-    },
-    {
-      "added_at": "2025-06-24 09:00:14",
-      "album": {
         "name": "Bambi - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
       },
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-06-24 09:00:14",
       "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 211250,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5Hfnps0jaWFpYg55WOPexG"
+    },
+    {
+      "added_at": "2025-06-24 09:00:14",
+      "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 197613,
       "name": "LOVE COUNTDOWN (Feat. Wonstein)",
       "url": "https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI"
-    },
-    {
-      "added_at": "2025-06-24 09:00:14",
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 171160,
-      "name": "For Us",
-      "url": "https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD"
     },
     {
       "added_at": "2025-06-24 09:00:14",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-06-24 09:00:14",
       "album": {
-        "name": "Moodswings In To Order",
-        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 189946,
-      "name": "Ballroom Extravaganza",
-      "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
-    },
-    {
-      "added_at": "2025-06-24 09:00:14",
-      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2025-06-24 09:00:14",
       "album": {
+        "name": "Moodswings In To Order",
+        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 189946,
+      "name": "Ballroom Extravaganza",
+      "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
+    },
+    {
+      "added_at": "2025-06-24 09:00:14",
+      "album": {
         "name": "love you twice",
         "url": "https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 172189,
       "name": "love you twice",
       "url": "https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8"
-    },
-    {
-      "added_at": "2025-06-24 09:00:14",
-      "album": {
-        "name": "Delight - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 227173,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/6kKC35sKUh2FUx4M0qAL44"
     },
     {
       "added_at": "2025-06-24 09:00:14",
@@ -1119,22 +1103,6 @@
     {
       "added_at": "2025-06-24 09:00:14",
       "album": {
-        "name": "Moodswings In This Order",
-        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Dope Lovers",
-      "url": "https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86"
-    },
-    {
-      "added_at": "2025-06-24 09:00:14",
-      "album": {
         "name": "BLOSSOM - THE 3RD MINI ALBUM",
         "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
       },
@@ -1147,22 +1115,6 @@
       "duration_ms": 187266,
       "name": "Mars",
       "url": "https://open.spotify.com/track/2FZKBbotZtXLQyedIV965w"
-    },
-    {
-      "added_at": "2025-06-24 09:00:14",
-      "album": {
-        "name": "jellyfish",
-        "url": "https://open.spotify.com/album/78uS0bGMBDygZbdxE7kwPC"
-      },
-      "artists": [
-        {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
-        }
-      ],
-      "duration_ms": 157168,
-      "name": "jellyfish",
-      "url": "https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne"
     },
     {
       "added_at": "2025-06-24 09:00:14",
@@ -1187,6 +1139,54 @@
     {
       "added_at": "2025-06-24 09:00:14",
       "album": {
+        "name": "Moodswings In This Order",
+        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Dope Lovers",
+      "url": "https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86"
+    },
+    {
+      "added_at": "2025-06-24 09:00:14",
+      "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 227173,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/6kKC35sKUh2FUx4M0qAL44"
+    },
+    {
+      "added_at": "2025-06-24 09:00:14",
+      "album": {
+        "name": "jellyfish",
+        "url": "https://open.spotify.com/album/78uS0bGMBDygZbdxE7kwPC"
+      },
+      "artists": [
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        }
+      ],
+      "duration_ms": 157168,
+      "name": "jellyfish",
+      "url": "https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne"
+    },
+    {
+      "added_at": "2025-06-24 09:00:14",
+      "album": {
         "name": "R.E.M",
         "url": "https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 172773,
       "name": "R.E.M",
       "url": "https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e"
-    },
-    {
-      "added_at": "2025-06-24 09:00:14",
-      "album": {
-        "name": "Moodswings In This Order",
-        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Scaredy Cat",
-      "url": "https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B"
     },
     {
       "added_at": "2025-06-24 09:00:14",
@@ -1267,6 +1251,22 @@
       "duration_ms": 169533,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/5TvEmwYx56gqksISSMqgzk"
+    },
+    {
+      "added_at": "2025-06-24 09:00:14",
+      "album": {
+        "name": "Moodswings In This Order",
+        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "Scaredy Cat",
+      "url": "https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B"
     },
     {
       "added_at": "2025-06-24 09:00:14",

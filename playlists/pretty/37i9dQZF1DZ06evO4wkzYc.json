@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 162363,
+  "num_followers": 162472,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAABNy0lEs5xRqAcglvzBSjc2",
+  "snapshot_id": "aF8wgAAAAAADVdw5s9jbBT7KfmQJPLdl",
   "tracks": [
     {
       "added_at": null,
@@ -647,22 +647,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigan Hablando",
-        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
+        "name": "El Proveedor",
+        "url": "https://open.spotify.com/album/6vzWByBth3V5C0TBjhA8fg"
       },
       "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
         {
           "name": "Edicion Especial",
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 218750,
-      "name": "Nunca Se Imagin\u00f3",
-      "url": "https://open.spotify.com/track/6at5CSe9grrC30rQwdI0bQ"
+      "duration_ms": 231402,
+      "name": "El Proveedor",
+      "url": "https://open.spotify.com/track/1Qi72Kxk7tQ08RKEQTIRca"
     },
     {
       "added_at": null,
@@ -683,18 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Proveedor",
-        "url": "https://open.spotify.com/album/6vzWByBth3V5C0TBjhA8fg"
+        "name": "Sigan Hablando",
+        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
       },
       "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
         {
           "name": "Edicion Especial",
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 231402,
-      "name": "El Proveedor",
-      "url": "https://open.spotify.com/track/1Qi72Kxk7tQ08RKEQTIRca"
+      "duration_ms": 218750,
+      "name": "Nunca Se Imagin\u00f3",
+      "url": "https://open.spotify.com/track/6at5CSe9grrC30rQwdI0bQ"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rompecabezas",
-        "url": "https://open.spotify.com/album/2TglIIPT5aWVK9tmmXKASd"
+        "name": "Corridos",
+        "url": "https://open.spotify.com/album/5GPEbz6FdTlZ5C3PGdyxE6"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 232031,
-      "name": "Me Vuelve Loco",
-      "url": "https://open.spotify.com/track/1mujNkrbZ6RWzGBW5cDQSb"
+      "duration_ms": 219147,
+      "name": "El 3",
+      "url": "https://open.spotify.com/track/2ZsmtpzGfitVdZPAUjC8Mg"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos",
-        "url": "https://open.spotify.com/album/5GPEbz6FdTlZ5C3PGdyxE6"
+        "name": "Rompecabezas",
+        "url": "https://open.spotify.com/album/2TglIIPT5aWVK9tmmXKASd"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 219147,
-      "name": "El 3",
-      "url": "https://open.spotify.com/track/2ZsmtpzGfitVdZPAUjC8Mg"
+      "duration_ms": 232031,
+      "name": "Me Vuelve Loco",
+      "url": "https://open.spotify.com/track/1mujNkrbZ6RWzGBW5cDQSb"
     },
     {
       "added_at": null,

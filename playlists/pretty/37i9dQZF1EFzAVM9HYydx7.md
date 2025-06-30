@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,920 likes - 296 songs - 18 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,921 likes - 296 songs - 18 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,8 +177,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 167 | [Grieving \(feat\. James Blake\)](https://open.spotify.com/track/4bzd4evyqXabRtesx4emPn) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 3:50 |
 | 168 | [Broke](https://open.spotify.com/track/2RStoLVPxT2Z1OgXjhpUDf) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [All Things Work Together](https://open.spotify.com/album/436tJ7T4l2EXqFa4r8PT5r) | 2:59 |
 | 169 | [Chi\-Raq \(with G Herbo\)](https://open.spotify.com/track/5dOcS75jq0kLKbvCY9P2Ex) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 3:51 |
-| 170 | [Money Problems / Benz Truck](https://open.spotify.com/track/3S4wKj113KHgqtZt52Dcd1) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [True to Self](https://open.spotify.com/album/7nn2Iaphg0Vc1NCGULkhVo) | 4:59 |
-| 171 | [SUH ME LUV IT \(feat\. Jada Kingdom\)](https://open.spotify.com/track/4KLpNmKeu6C2jVaTQeFCZO) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [FIXTAPE](https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi) | 4:13 |
+| 170 | [SUH ME LUV IT \(feat\. Jada Kingdom\)](https://open.spotify.com/track/4KLpNmKeu6C2jVaTQeFCZO) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [FIXTAPE](https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi) | 4:13 |
+| 171 | [Money Problems / Benz Truck](https://open.spotify.com/track/3S4wKj113KHgqtZt52Dcd1) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [True to Self](https://open.spotify.com/album/7nn2Iaphg0Vc1NCGULkhVo) | 4:59 |
 | 172 | [Best Friend](https://open.spotify.com/track/2WJXlmZ5ZgFkUjcs3798sc) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [Best Friend](https://open.spotify.com/album/3tFee3xnJ2I9vWAmAEC93x) | 2:35 |
 | 173 | [Sin Filtro](https://open.spotify.com/track/4SL5NcO2IO1wSfhKch6yHF) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:09 |
 | 174 | [Party Hard / Cadillac \(Interlude\) \(feat\. Sevyn\)](https://open.spotify.com/track/0hoyeFFC3KYexTNztfXyEB) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Sevyn](https://open.spotify.com/artist/0MrWccK2g4vI3yFW9Puiv1) | [Fortune \(Expanded Edition\)](https://open.spotify.com/album/4AGQTp6rk7v8fPbFu739l7) | 5:14 |
@@ -305,4 +305,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 295 | [My Life](https://open.spotify.com/track/659VW7lp1PC9EogVmyy2NW) | [KO](https://open.spotify.com/artist/0QsGiZaEitDoqU4AQJhPqF) | [My Life](https://open.spotify.com/album/62ZHBhUPSiyGbG9TFE5BPk) | 3:20 |
 | 296 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `Ab1YKgAAAAC+xdBsJrJf4vESrlCAJIwm`
+Snapshot ID: `Ab1d6AAAAADkHS6wC9LHBBJmSvtETm+4`

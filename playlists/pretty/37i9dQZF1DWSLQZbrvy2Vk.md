@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLQZbrvy2Vk.md) - [plain]
 
 > All vengeance, no brakes\. Listen to music from the series Duster, now streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,909 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,989 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

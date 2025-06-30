@@ -3272,6 +3272,24 @@
     {
       "album": {
         "name": "Dirty Work",
+        "url": "https://open.spotify.com/album/1oJztb2MfwieRwHZ1t4NrN"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180250,
+      "name": "Dirty Work",
+      "url": "https://open.spotify.com/track/1ImRS2KtSaDZcj9vQTxwFA"
+    },
+    {
+      "album": {
+        "name": "Dirty Work",
         "url": "https://open.spotify.com/album/3L7i2VqeznnAqX5BG6gm3H"
       },
       "artists": [
@@ -3282,10 +3300,32 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-30",
       "duration_ms": 180250,
       "name": "Dirty Work",
       "url": "https://open.spotify.com/track/4qtdab2DABnEokwupCl8lG"
+    },
+    {
+      "album": {
+        "name": "Dirty Work",
+        "url": "https://open.spotify.com/album/1oJztb2MfwieRwHZ1t4NrN"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180127,
+      "name": "Dirty Work (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/3i2w6O98pzUUmqRJavWF6f"
     },
     {
       "album": {
@@ -3304,7 +3344,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-30",
       "duration_ms": 180127,
       "name": "Dirty Work (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/6kBtuFVssWq2rORvq2ssXS"
@@ -3430,7 +3470,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-30",
       "duration_ms": 179093,
       "name": "doll",
       "url": "https://open.spotify.com/track/4f9i8PcyIjIFtHV0Sy2PbM"
@@ -15168,7 +15208,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 188897,
       "name": "With the Clouds",
       "url": "https://open.spotify.com/track/5RdKO1lsHG9jhbG03LL7cv"
@@ -16438,7 +16478,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-30",
       "duration_ms": 228860,
       "name": "\u4ee5\u5b64\u7368\u547d\u540d",
       "url": "https://open.spotify.com/track/2gQoBhLuUmJqelyTrZfkKD"
@@ -17552,7 +17592,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-30",
       "duration_ms": 213000,
       "name": "\u56db\u6708\u7269\u8a9e",
       "url": "https://open.spotify.com/track/3MqGva6ELfd235l8WtkTIa"
@@ -18208,7 +18248,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 224513,
       "name": "\u5ca9\u5dc9",
       "url": "https://open.spotify.com/track/4ja627NyIBCz7wO2dYr83g"
@@ -19136,7 +19176,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-16",
+      "date_removed": null,
       "duration_ms": 238133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF"

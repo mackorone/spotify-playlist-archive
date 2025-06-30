@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 105819,
+  "num_followers": 105820,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAAA+kTPf1mgSMjC1/b1fLA10",
+  "snapshot_id": "aF8wgAAAAAB0J6kly/Gd2hYG/b3vupM+",
   "tracks": [
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Esp\u00e9rame En El Cielo",
-      "url": "https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siempre Vivir\u00e9",
         "url": "https://open.spotify.com/album/1AiGzUZRRNllVXmbCsawwj"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 347666,
       "name": "Por Si Acaso No Regreso",
       "url": "https://open.spotify.com/track/1n52ulXSj7E3GOjcpw1EKF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Esp\u00e9rame En El Cielo",
+      "url": "https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viva la Reina de la Salsa",
-        "url": "https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 211866,
-      "name": "Bemba Color\u00e1",
-      "url": "https://open.spotify.com/track/6Accdr7Gaply5Ottq7ZmKV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Tierna, Conmovedora, Bamboleadora",
         "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 174626,
       "name": "Desvelo De Amor",
       "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viva la Reina de la Salsa",
+        "url": "https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 211866,
+      "name": "Bemba Color\u00e1",
+      "url": "https://open.spotify.com/track/6Accdr7Gaply5Ottq7ZmKV"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viva la Reina de la Salsa",
-        "url": "https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 224293,
-      "name": "Cao Cao Man\u00ed Picao",
-      "url": "https://open.spotify.com/track/4jrV8b9VyVl0bGRDrlReSt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandes \u00c9xitos De Celia Cruz",
         "url": "https://open.spotify.com/album/3fZuVtDVcGHISoULNx4Dw3"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 189600,
       "name": "Guede Zaina",
       "url": "https://open.spotify.com/track/6HxrX0t2TnBbrAYTaV3zj0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viva la Reina de la Salsa",
+        "url": "https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 224293,
+      "name": "Cao Cao Man\u00ed Picao",
+      "url": "https://open.spotify.com/track/4jrV8b9VyVl0bGRDrlReSt"
     },
     {
       "added_at": null,

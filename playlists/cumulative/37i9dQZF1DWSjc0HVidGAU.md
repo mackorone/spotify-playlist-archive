@@ -4,10 +4,11 @@
 
 > Listen to the soundtracks of GOOD BOY\. \(굿보이의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-22 songs - 1 hr 8 min
+23 songs - 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [All Alone](https://open.spotify.com/track/6mAOmvG8Yd9EG8eImGiUZq) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/6coRsiCmV1xstlSAnk0qVM) | 4:24 | 2025-06-30 |  |
 | [Another Level](https://open.spotify.com/track/52yUIbj0YVqxyz9cA0WSPA) | [Oh The Larceny](https://open.spotify.com/artist/3p5nfUyEYsxx8izMCym07n) | [Blood Is Rebel](https://open.spotify.com/album/7kxBdemipQPenifFWr9943) | 3:10 | 2025-06-11 |  |
 | [Antifreeze](https://open.spotify.com/track/1osW08ygBwopWmjWzqWbfJ) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Love, Yerin](https://open.spotify.com/album/5a3LnwhYHFlx82Do9iuU8t) | 4:05 | 2025-06-11 |  |
 | [Are You Gonna Be My Girl](https://open.spotify.com/track/72zZfHPYx43shcP3eKkYi5) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born \(Deluxe Edition\)](https://open.spotify.com/album/6svS1vGX5qyK9mhz8ijzxs) | 3:33 | 2025-06-11 |  |

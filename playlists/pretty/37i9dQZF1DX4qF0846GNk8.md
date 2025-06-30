@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 > أجمد المهرجانات في مصر مع <a href="https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl?si=6m5I27tLRiminIYSION2cw"> احمد موزه   </a>  🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,007 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,383 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Ruthe Dayane
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,997 likes - 85 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,089 likes - 85 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

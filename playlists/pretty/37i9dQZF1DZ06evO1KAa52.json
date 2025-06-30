@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 656924,
+  "num_followers": 656980,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAABaNEF716sR+hDzdZhBDe/x",
+  "snapshot_id": "aF8wgAAAAAC4WQFGryYtuXdJSY54tGQm",
   "tracks": [
     {
       "added_at": null,
@@ -995,22 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 260120,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fantasy Ride",
         "url": "https://open.spotify.com/album/6TpQvLoBuLgVM2XDSJ1VF9"
       },
@@ -1031,30 +1015,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uncharted",
-        "url": "https://open.spotify.com/album/6nNCnm0zCnx2CF033KpEVd"
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA"
       },
       "artists": [
         {
-          "name": "The Piano Guys",
-          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
-        },
-        {
-          "name": "Max Martin",
-          "url": "https://open.spotify.com/artist/1rjeVTt9Ra1ldvN7SpeK0G"
-        },
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 260120,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything I Thought It Was",
+        "url": "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh"
+      },
+      "artists": [
         {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         },
         {
-          "name": "Shellback",
-          "url": "https://open.spotify.com/artist/268mhnkat7rZjlnOsJoZg8"
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
         }
       ],
-      "duration_ms": 182746,
-      "name": "Can't Stop the Feeling",
-      "url": "https://open.spotify.com/track/7LfVbcoCLy1u3zKUwO9VxN"
+      "duration_ms": 266826,
+      "name": "Paradise (feat. *NSYNC)",
+      "url": "https://open.spotify.com/track/6tcYpyw4rr5mTqDidS29IY"
     },
     {
       "added_at": null,
@@ -1103,26 +1095,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything I Thought It Was",
-        "url": "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 266826,
-      "name": "Paradise (feat. *NSYNC)",
-      "url": "https://open.spotify.com/track/6tcYpyw4rr5mTqDidS29IY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The 20/20 Experience - 2 of 2 (Deluxe)",
         "url": "https://open.spotify.com/album/5lYzReGzcSNF0Gx47wm6qU"
       },
@@ -1139,22 +1111,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "ICU (with Justin Timberlake) [Remix]",
-        "url": "https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7"
+        "name": "Uncharted",
+        "url": "https://open.spotify.com/album/6nNCnm0zCnx2CF033KpEVd"
       },
       "artists": [
         {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+          "name": "The Piano Guys",
+          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+        },
+        {
+          "name": "Max Martin",
+          "url": "https://open.spotify.com/artist/1rjeVTt9Ra1ldvN7SpeK0G"
         },
         {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Shellback",
+          "url": "https://open.spotify.com/artist/268mhnkat7rZjlnOsJoZg8"
         }
       ],
-      "duration_ms": 218566,
-      "name": "ICU (with Justin Timberlake) - Remix",
-      "url": "https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR"
+      "duration_ms": 182746,
+      "name": "Can't Stop the Feeling",
+      "url": "https://open.spotify.com/track/7LfVbcoCLy1u3zKUwO9VxN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FutureSex/LoveSounds",
+        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 370133,
+      "name": "Medley: Let Me Talk to You / My Love (feat. T.I.)",
+      "url": "https://open.spotify.com/track/1vMuSYlp2Im8Gpj6JxRJfj"
     }
   ],
   "unique_name": "This Is Justin Timberlake",

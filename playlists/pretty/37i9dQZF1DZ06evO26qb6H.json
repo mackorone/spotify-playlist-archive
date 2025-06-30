@@ -1,12 +1,12 @@
 {
   "description": "This is Murda Beatz. The essential tracks, all in one playlist.",
-  "num_followers": 3218,
+  "num_followers": 3219,
   "original_name": "This Is Murda Beatz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAACFbiwUwTDv4hGzvzulYlSW",
+  "snapshot_id": "aF8wgAAAAAAcMHvKaozpOwzXORoNbWCP",
   "tracks": [
     {
       "added_at": null,
@@ -275,26 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Calzone Tapes 3",
-        "url": "https://open.spotify.com/album/5ka0HFmEwwvDjxOy0t9VnC"
-      },
-      "artists": [
-        {
-          "name": "Recayd Mob",
-          "url": "https://open.spotify.com/artist/1QBWA6tuiZ0JuDluPqbe71"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 236764,
-      "name": "Bonde da Fuma\u00e7a (feat. Murda Beatz)",
-      "url": "https://open.spotify.com/track/50LGMsmHSBYhB2qVkcdAI1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bless Yo Trap",
         "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 157557,
       "name": "Do Not Disturb (feat. Lil Yachty & Offset)",
       "url": "https://open.spotify.com/track/5Ojb9dF8VoBHUwbDfPxMlg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Calzone Tapes 3",
+        "url": "https://open.spotify.com/album/5ka0HFmEwwvDjxOy0t9VnC"
+      },
+      "artists": [
+        {
+          "name": "Recayd Mob",
+          "url": "https://open.spotify.com/artist/1QBWA6tuiZ0JuDluPqbe71"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 236764,
+      "name": "Bonde da Fuma\u00e7a (feat. Murda Beatz)",
+      "url": "https://open.spotify.com/track/50LGMsmHSBYhB2qVkcdAI1"
     },
     {
       "added_at": null,
@@ -567,6 +567,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "LUCY",
+        "url": "https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi"
+      },
+      "artists": [
+        {
+          "name": "Bktherula",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "duration_ms": 251128,
+      "name": "EUPHORIA",
+      "url": "https://open.spotify.com/track/0kpDa6Wl0DT6rUcAuFKjYL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gangsta Grillz: Mvrda Gvng",
         "url": "https://open.spotify.com/album/6YkvB4DYktZrdQsawd0BXp"
       },
@@ -703,34 +731,6 @@
       "duration_ms": 170000,
       "name": "123",
       "url": "https://open.spotify.com/track/2uVRSSzX96V7Rzlhx7fosj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LUCY",
-        "url": "https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi"
-      },
-      "artists": [
-        {
-          "name": "Bktherula",
-          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "KayCyy",
-          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
-        }
-      ],
-      "duration_ms": 251128,
-      "name": "EUPHORIA",
-      "url": "https://open.spotify.com/track/0kpDa6Wl0DT6rUcAuFKjYL"
     },
     {
       "added_at": null,

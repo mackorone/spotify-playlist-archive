@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Mingginyu \(밍기뉴\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-984 songs - 2 day 11 hr 50 min
+986 songs - 2 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Gentle Breeze](https://open.spotify.com/track/0gywQujjcGhh1XAjMkjhwd) | [OLIVER](https://open.spotify.com/artist/4WzpqecdwnCeWATK2UpssH) | [Gentle Breeze](https://open.spotify.com/album/5Cvj2fZ0NE49eYxq51UBvk) | 3:11 | 2021-12-21 | 2022-07-06 |
 | [GET LUCKY!](https://open.spotify.com/track/6dkx7yryrVpYxP75lNsy6j) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [GET LUCKY!](https://open.spotify.com/album/52sUuTeemfkKHHqwfMMzcm) | 3:40 | 2025-05-19 | 2025-06-05 |
 | [Getting the Season](https://open.spotify.com/track/66ZCqYrneHDfVoxE3cE5O0) | [Ryoni](https://open.spotify.com/artist/4i9PKdDoAnZi9xC9VhqbdM) | [Getting the Season](https://open.spotify.com/album/77DQNQ0pscdJwCI0uz9RtW) | 4:14 | 2022-03-31 | 2022-04-15 |
+| [Ghost](https://open.spotify.com/track/0q5MmAFd4oXY6vWeVsb8YE) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Ghost](https://open.spotify.com/album/2Snl4Z0vZx5hBaAwVP4dHf) | 3:15 | 2025-06-30 |  |
 | [Ghost](https://open.spotify.com/track/5a2y94Llhp3q8geoPIMRzY) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Ghost](https://open.spotify.com/album/10Ya3OB3RQaayMRBkccptG) | 3:02 | 2024-12-19 | 2025-03-05 |
 | [Ghost Theatre](https://open.spotify.com/track/40iWsP5PYbpJB7uC4eE5pU) | [Moskva Surfing Club](https://open.spotify.com/artist/72RQExfl8kYY207YfKV5Nl) | [Ghost Theatre](https://open.spotify.com/album/4eN3Dzm5FEaPly9th3vjeQ) | 5:34 | 2024-04-30 | 2024-05-10 |
 | [girl in red](https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [girl in red](https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC) | 2:39 | 2022-07-08 | 2022-08-05 |
@@ -327,7 +328,7 @@
 | [Green we shared](https://open.spotify.com/track/4Qqd4mzQzVGpvPrzq3Dtn8) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Green we shared](https://open.spotify.com/album/22NNNFWoomy7QanPqnkKwr) | 3:39 | 2025-05-13 | 2025-05-23 |
 | [GRIPPIN’THEGREEN](https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:24 | 2022-05-10 |  |
 | [Guitar Pick](https://open.spotify.com/track/3RZwNqLYaZInBhnWmRiHBD) | [MEMI](https://open.spotify.com/artist/2IJQZNh2eIR9a21uq494UA) | [M3MI](https://open.spotify.com/album/58oTIGEYaR2zXeDNxgIG8K) | 2:28 | 2023-12-12 | 2023-12-19 |
-| [H O M E](https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:51 | 2024-05-28 |  |
+| [H O M E](https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:51 | 2024-05-28 | 2025-06-30 |
 | [Half Asleep \(feat\. Peakboy, hiko\)](https://open.spotify.com/track/29iOBbi03iM3MmTvnz2h57) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3), [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l), [hiko](https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM) | [Playground](https://open.spotify.com/album/1sMyjHp8vwijM0eVq4H0ej) | 3:25 | 2024-04-30 | 2024-06-17 |
 | [Hanagae](https://open.spotify.com/track/4hnhipRrUg7yUCAqT9yvsR) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [Hanagae](https://open.spotify.com/album/69ojcNwWWhvRkaTxxdFkGY) | 3:13 | 2021-12-12 | 2022-07-20 |
 | [Hand](https://open.spotify.com/track/6WbBMCJjrOzpur6T7czLrK) | [OWALLOIL](https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2) | [Sanullim 50th Anniversary full length album, Vol\. 1](https://open.spotify.com/album/544JzJsgzf1hNIygvWN26P) | 3:51 | 2024-10-04 | 2024-10-16 |
@@ -600,6 +601,7 @@
 | [Okinawa](https://open.spotify.com/track/4IDuBhS4HLQh2vg83pk6Rj) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Okinawa](https://open.spotify.com/album/2cVPFgXXfRtJlk5bSwpjEj) | 5:48 | 2023-09-01 | 2024-04-04 |
 | [okokok](https://open.spotify.com/track/7kTsmaju0m5kJSoA7z5BKf) | [Witches](https://open.spotify.com/artist/4vTtoGhW5MgqrpfPL0RGxi) | [okokok](https://open.spotify.com/album/4KEhy0zdjzgj4paaFfPmlp) | 2:21 | 2022-06-08 | 2022-06-14 |
 | [Old Notes](https://open.spotify.com/track/0m8MHpjuKKNvT19rvjHWAX) | [JOGON](https://open.spotify.com/artist/2lrODr1QCehowaCjKFxOZG) | [Old Notes](https://open.spotify.com/album/6T7cyfKQunGFzVKy3nhiGl) | 3:26 | 2021-12-12 | 2022-12-06 |
+| [on the water](https://open.spotify.com/track/57iBg2TwwGsRRxK48uBNBI) | [Sagong](https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy) | [on the water](https://open.spotify.com/album/4AaPMk38htGwZx1AoupNso) | 4:18 | 2025-06-30 |  |
 | [One](https://open.spotify.com/track/420CEW5diE4ulkdbUxtg2w) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [One](https://open.spotify.com/album/6JfMCmlRcKbd07cj3GDPEG) | 2:48 | 2025-05-20 | 2025-06-22 |
 | [One and Only \(Feat\. KURO\)](https://open.spotify.com/track/0GpK80YpKjNLA37FQ1JvDt) | [Soseo](https://open.spotify.com/artist/2WyFDTobi8Be5brYQS5aSf), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [One and Only \(Feat\. KURO\)](https://open.spotify.com/album/16LKnqi5TwNEidWTXxbHLA) | 2:31 | 2023-06-13 | 2023-06-23 |
 | [One Another](https://open.spotify.com/track/189vi3KtFMw8bH2dKiXtD1) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [One Another](https://open.spotify.com/album/1NsVlv4D9l1GHn6nXOzAiz) | 4:16 | 2021-12-21 | 2022-07-28 |
@@ -628,7 +630,7 @@
 | [People sometimes want me to fail](https://open.spotify.com/track/5jHcrQa9lC3CMot6CjQghX) | [2apartment](https://open.spotify.com/artist/3eAafmKFLEYAq6y9ZrWXtS) | [People sometimes want me to fail](https://open.spotify.com/album/5dx9WZvhhxNQzCJohO2os3) | 3:19 | 2022-03-31 | 2022-04-02 |
 | [Perfect](https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Love Playlist3 Part.1](https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI) | 3:57 | 2022-03-31 | 2024-11-07 |
 | [Pet 펫](https://open.spotify.com/track/1ttJj42WLsNEol2TTPvpUQ) | [Jaejoo Boys](https://open.spotify.com/artist/6Z41VjRzi0cKNZAVp5u7VZ) | [Pet 펫](https://open.spotify.com/album/0SUf4GLpQIegjQI8aXV40F) | 3:57 | 2022-03-31 | 2022-04-11 |
-| [Petty Thief \(Remix\)](https://open.spotify.com/track/2VVadP8EuRhhKnBsXZZqMK) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Petty Thief \(Remix\)](https://open.spotify.com/album/6R2HO9qN2IVkYPBe24KKyR) | 2:41 | 2025-06-17 |  |
+| [Petty Thief \(Remix\)](https://open.spotify.com/track/2VVadP8EuRhhKnBsXZZqMK) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Petty Thief \(Remix\)](https://open.spotify.com/album/6R2HO9qN2IVkYPBe24KKyR) | 2:41 | 2025-06-17 | 2025-06-30 |
 | [Photograph 사진첩](https://open.spotify.com/track/0NH2J0S8HK56jq5YUwVL22) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Photograph 사진첩](https://open.spotify.com/album/6zdxKx3yMTontzE3Mfg8oc) | 4:14 | 2021-12-21 | 2022-06-05 |
 | [Picture](https://open.spotify.com/track/56oE2VjbGEgGSiBk1keP5d) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Picture](https://open.spotify.com/album/7IIlgeMAaSxO2JwhetHFMf) | 4:11 | 2022-04-12 | 2022-04-19 |
 | [Piscis](https://open.spotify.com/track/3Mp0lsOnz9Srf6zW3EntnF) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [The Oddscape](https://open.spotify.com/album/7wfohCLnRXfhaZUXIOstum) | 4:05 | 2024-11-29 | 2025-01-31 |

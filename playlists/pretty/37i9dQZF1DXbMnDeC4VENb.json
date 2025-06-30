@@ -1,6 +1,6 @@
 {
   "description": "Una euf\u00f3rica dosis de urbano rom\u00e1ntico en espa\u00f1ol.  ",
-  "num_followers": 186091,
+  "num_followers": 186104,
   "original_name": "Rimas Pa'l Cora",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
+        "name": "Frenia",
+        "url": "https://open.spotify.com/album/6DtziobPePcdasV0uUycOn"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Sabanas Blancas",
+      "url": "https://open.spotify.com/track/0IBhXEEKXhv0bdpboaw5M3"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
         "name": "Nada Es Para Siempre",
         "url": "https://open.spotify.com/album/0j6xrTUE8vTMWnIHoRDqOI"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 192352,
       "name": "Entre Nosotros",
       "url": "https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
-        "name": "Frenia",
-        "url": "https://open.spotify.com/album/6DtziobPePcdasV0uUycOn"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Sabanas Blancas",
-      "url": "https://open.spotify.com/track/0IBhXEEKXhv0bdpboaw5M3"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
-        "name": "Pensando en Ti",
-        "url": "https://open.spotify.com/album/328KPPOFjIYTfLsH8iyIAh"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 201952,
-      "name": "Pensando en Ti",
-      "url": "https://open.spotify.com/track/7MfrwUdFybdVfNHd1wcH63"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/5BjCKJq6y9DVugqzdMaJoR"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 267508,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/7qJ2Ir5a0Mnv5vYxMCtFQD"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
+        "name": "Pensando en Ti",
+        "url": "https://open.spotify.com/album/328KPPOFjIYTfLsH8iyIAh"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 201952,
+      "name": "Pensando en Ti",
+      "url": "https://open.spotify.com/track/7MfrwUdFybdVfNHd1wcH63"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
-        "name": "Un Minuto",
-        "url": "https://open.spotify.com/album/0dbSRcAFzkMLHDu5WtQhZ9"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 60116,
-      "name": "Un Minuto",
-      "url": "https://open.spotify.com/track/1bteISG6lnlop62KsGT6CL"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
         "name": "Ni 1 Complejo",
         "url": "https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 208013,
       "name": "Vayas Donde Vayas",
       "url": "https://open.spotify.com/track/5uVKEewXVjW1vn30Gaul3i"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
+        "name": "Un Minuto",
+        "url": "https://open.spotify.com/album/0dbSRcAFzkMLHDu5WtQhZ9"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 60116,
+      "name": "Un Minuto",
+      "url": "https://open.spotify.com/track/1bteISG6lnlop62KsGT6CL"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -695,54 +695,6 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
-        "name": "Tu H\u00e9roe",
-        "url": "https://open.spotify.com/album/09zIV6A4I2sZJFJ6z3vAwn"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Tu H\u00e9roe",
-      "url": "https://open.spotify.com/track/5AKWFDSXV2edVPHPlaO9qL"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
-        "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
-        "url": "https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
-      "url": "https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
-        "name": "Sirena",
-        "url": "https://open.spotify.com/album/0dTFJm1H9hKxR6RUPiflhS"
-      },
-      "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        }
-      ],
-      "duration_ms": 231007,
-      "name": "Sirena",
-      "url": "https://open.spotify.com/track/5jeWGw9WMX68R8hNqdriOv"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
         "name": "Te Acostumbraste",
         "url": "https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U"
       },
@@ -759,6 +711,22 @@
       "duration_ms": 182168,
       "name": "Te Acostumbraste",
       "url": "https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
+        "name": "Tu H\u00e9roe",
+        "url": "https://open.spotify.com/album/09zIV6A4I2sZJFJ6z3vAwn"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Tu H\u00e9roe",
+      "url": "https://open.spotify.com/track/5AKWFDSXV2edVPHPlaO9qL"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -803,6 +771,38 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
+        "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
+        "url": "https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
+      "url": "https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
+        "name": "Sirena",
+        "url": "https://open.spotify.com/album/0dTFJm1H9hKxR6RUPiflhS"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "duration_ms": 231007,
+      "name": "Sirena",
+      "url": "https://open.spotify.com/track/5jeWGw9WMX68R8hNqdriOv"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
         "name": "La \u00daltima Carta",
         "url": "https://open.spotify.com/album/47UiSsUYKnzsuobv8GXHBM"
       },
@@ -819,6 +819,26 @@
       "duration_ms": 201325,
       "name": "La \u00daltima Carta",
       "url": "https://open.spotify.com/track/1gRiY446uI1mYtvsiup2Uh"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
+        "name": "Las Que Te Escrib\u00ed y Nunca Te Cant\u00e9",
+        "url": "https://open.spotify.com/album/2LaGANWLbDpG6A1Mcpj6SB"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Villax",
+          "url": "https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Pupilas",
+      "url": "https://open.spotify.com/track/1OlSoRXEYPQOT4MnxYGeTw"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -883,26 +903,6 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
-        "name": "Las Que Te Escrib\u00ed y Nunca Te Cant\u00e9",
-        "url": "https://open.spotify.com/album/2LaGANWLbDpG6A1Mcpj6SB"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Villax",
-          "url": "https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Pupilas",
-      "url": "https://open.spotify.com/track/1OlSoRXEYPQOT4MnxYGeTw"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
         "name": "Nunca Vemos Nada",
         "url": "https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 232000,
       "name": "Por Un Beso",
       "url": "https://open.spotify.com/track/390hl8efmjrNQKiCgP2sU0"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
+        "name": "Atrapado en un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/1WEYD957nsBAfdYYcCZAaQ"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Atrapado en un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/4c7nGM9irzliRPB9wiNq9l"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -1039,22 +1055,6 @@
       "duration_ms": 198750,
       "name": "No Est\u00e9s Triste",
       "url": "https://open.spotify.com/track/0RmcxxIWGaiZ4mvK8ryRsq"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
-        "name": "Atrapado en un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/1WEYD957nsBAfdYYcCZAaQ"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Atrapado en un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/4c7nGM9irzliRPB9wiNq9l"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -1303,6 +1303,30 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
+        "name": "Camuflaje",
+        "url": "https://open.spotify.com/album/2wkphVHKHAkRltmQy4VHkL"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        }
+      ],
+      "duration_ms": 259047,
+      "name": "Camuflaje",
+      "url": "https://open.spotify.com/track/0KVPZop01sUcUOFLl9AeVo"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
         "name": "Todo Menso",
         "url": "https://open.spotify.com/album/3YlsvvJJGrV32DPTruOIyH"
       },
@@ -1339,30 +1363,6 @@
       "duration_ms": 239926,
       "name": "S\u00f3lo Si Es Contigo",
       "url": "https://open.spotify.com/track/6GTZrTCYaK60pZYvgaOw5Y"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
-        "name": "Camuflaje",
-        "url": "https://open.spotify.com/album/2wkphVHKHAkRltmQy4VHkL"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        }
-      ],
-      "duration_ms": 259047,
-      "name": "Camuflaje",
-      "url": "https://open.spotify.com/track/0KVPZop01sUcUOFLl9AeVo"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
-        "name": "Qu\u00e9 Agusticidad",
-        "url": "https://open.spotify.com/album/3vNil6NgFu48XzULEcIWBs"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 260571,
-      "name": "Qu\u00e9 Agusticidad",
-      "url": "https://open.spotify.com/track/6YQL3rt9kcyCsOTwzFPPRN"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
         "name": "Luna Azul",
         "url": "https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP"
       },
@@ -1623,6 +1607,22 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
+        "name": "Qu\u00e9 Agusticidad",
+        "url": "https://open.spotify.com/album/3vNil6NgFu48XzULEcIWBs"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 260571,
+      "name": "Qu\u00e9 Agusticidad",
+      "url": "https://open.spotify.com/track/6YQL3rt9kcyCsOTwzFPPRN"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
         "name": "Bajo Sustancias",
         "url": "https://open.spotify.com/album/4IZ4KvcJiBt9M1OddPlG8d"
       },
@@ -1639,6 +1639,22 @@
       "duration_ms": 210000,
       "name": "Mi Debilidad",
       "url": "https://open.spotify.com/track/3FLNLo5rf6vh20FoHDeLyg"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
+        "name": "De Brujas y Otros H\u00e1bitos",
+        "url": "https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Graciela / \"Carta a Mi Abuela\"",
+      "url": "https://open.spotify.com/track/1yZZsjAwvLfeHdOIEdlHGR"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -1675,22 +1691,6 @@
       "duration_ms": 160000,
       "name": "Ajena",
       "url": "https://open.spotify.com/track/5dpCjFHmVk4iuIDHGW7Cv7"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
-        "name": "De Brujas y Otros H\u00e1bitos",
-        "url": "https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Graciela / \"Carta a Mi Abuela\"",
-      "url": "https://open.spotify.com/track/1yZZsjAwvLfeHdOIEdlHGR"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
-        "name": "LLAMAS",
-        "url": "https://open.spotify.com/album/0c0bwULhVKpaKQVdnLxfhZ"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 197837,
-      "name": "LLAMAS",
-      "url": "https://open.spotify.com/track/5OoDPkBacv1y2hOsRmncGH"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
         "name": "Midori",
         "url": "https://open.spotify.com/album/7EjVMAwROhBdKnRpCX1LcF"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 189750,
       "name": "NO LOGR\u00c9 CONQUISTARTE",
       "url": "https://open.spotify.com/track/2PAjRPUvexWW0Fy3qdIriI"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
+        "name": "LLAMAS",
+        "url": "https://open.spotify.com/album/0c0bwULhVKpaKQVdnLxfhZ"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 197837,
+      "name": "LLAMAS",
+      "url": "https://open.spotify.com/track/5OoDPkBacv1y2hOsRmncGH"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -2051,6 +2051,22 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
+        "name": "BAD BEHAVIORS",
+        "url": "https://open.spotify.com/album/5fASm7hVEv3LWShYTVXqAV"
+      },
+      "artists": [
+        {
+          "name": "ND Kobi'",
+          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
+        }
+      ],
+      "duration_ms": 190589,
+      "name": "BAD BEHAVIORS",
+      "url": "https://open.spotify.com/track/2PrvvsroFvKyI8ERdB0URU"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
         "name": "Polic\u00edas y Ladrones",
         "url": "https://open.spotify.com/album/5sKDMyH54Fv9thk4NGHpdj"
       },
@@ -2067,22 +2083,6 @@
       "duration_ms": 221750,
       "name": "Polic\u00edas y Ladrones",
       "url": "https://open.spotify.com/track/2hiDJDoyHIcHlcKcFZKgeQ"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
-        "name": "BAD BEHAVIORS",
-        "url": "https://open.spotify.com/album/5fASm7hVEv3LWShYTVXqAV"
-      },
-      "artists": [
-        {
-          "name": "ND Kobi'",
-          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
-        }
-      ],
-      "duration_ms": 190589,
-      "name": "BAD BEHAVIORS",
-      "url": "https://open.spotify.com/track/2PrvvsroFvKyI8ERdB0URU"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -2119,26 +2119,6 @@
       "duration_ms": 227473,
       "name": "Se Necesitan 2",
       "url": "https://open.spotify.com/track/0RUQeCXPEfMR4RNiQqJoug"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
-        "name": "ROMA",
-        "url": "https://open.spotify.com/album/2a41sz8sMlWxR31PGTFLyW"
-      },
-      "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Griss Romero",
-          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Miedo Tenerte",
-      "url": "https://open.spotify.com/track/5z1blKzHVICF5iarjvmsvO"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -2195,6 +2175,42 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
+        "name": "ROMA",
+        "url": "https://open.spotify.com/album/2a41sz8sMlWxR31PGTFLyW"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Griss Romero",
+          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Miedo Tenerte",
+      "url": "https://open.spotify.com/track/5z1blKzHVICF5iarjvmsvO"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
+        "name": "6 Am",
+        "url": "https://open.spotify.com/album/7AH7QHBvQvu6JToPdOZLMx"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "6 Am",
+      "url": "https://open.spotify.com/track/46PqUxYijgrGgdD2NzNnmU"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
         "name": "Rosas y Serpientes",
         "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
       },
@@ -2235,22 +2251,6 @@
       "duration_ms": 264852,
       "name": "Una Segunda Vez",
       "url": "https://open.spotify.com/track/6jwRR76yTsh74FEF8JLGuJ"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
-        "name": "6 Am",
-        "url": "https://open.spotify.com/album/7AH7QHBvQvu6JToPdOZLMx"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "6 Am",
-      "url": "https://open.spotify.com/track/46PqUxYijgrGgdD2NzNnmU"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -2331,26 +2331,6 @@
       "duration_ms": 168725,
       "name": "La Cuenta",
       "url": "https://open.spotify.com/track/4aQOsfc1jAu61HkHIoleHg"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
-        "name": "Contacto",
-        "url": "https://open.spotify.com/album/3cK989DH6rMeR7qTmsEMhm"
-      },
-      "artists": [
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 162807,
-      "name": "Contacto",
-      "url": "https://open.spotify.com/track/5Gi5Cd3jpRM1wSOJBFOJXi"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -2447,6 +2427,46 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
+        "name": "Contacto",
+        "url": "https://open.spotify.com/album/3cK989DH6rMeR7qTmsEMhm"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 162807,
+      "name": "Contacto",
+      "url": "https://open.spotify.com/track/5Gi5Cd3jpRM1wSOJBFOJXi"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
+        "name": "Te Amodio",
+        "url": "https://open.spotify.com/album/25N4zFBTWXO5C5zWPBMYjA"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 267428,
+      "name": "Te Amodio",
+      "url": "https://open.spotify.com/track/4gJAYXiTkzDlbfeZn4EH9F"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
         "name": "Capricornio y C\u00e1ncer",
         "url": "https://open.spotify.com/album/0FLRPbOGrapuKN2K9qc36j"
       },
@@ -2487,42 +2507,6 @@
       "duration_ms": 178688,
       "name": "Amiri",
       "url": "https://open.spotify.com/track/5zoRXQCC3XLpBN1gDYINmm"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
-        "name": "Te Amodio",
-        "url": "https://open.spotify.com/album/25N4zFBTWXO5C5zWPBMYjA"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 267428,
-      "name": "Te Amodio",
-      "url": "https://open.spotify.com/track/4gJAYXiTkzDlbfeZn4EH9F"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
-        "name": "Masoquista / \u00bfQu\u00e9 Pas\u00f3 Mi Amor?",
-        "url": "https://open.spotify.com/album/2x7RSXftZESuzY52tyu4Cs"
-      },
-      "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 182890,
-      "name": "\u00bfQu\u00e9 Pas\u00f3 Mi Amor?",
-      "url": "https://open.spotify.com/track/2GlGnsgX2acpZk6O4J2Qc7"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -2583,6 +2567,22 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
+        "name": "Masoquista / \u00bfQu\u00e9 Pas\u00f3 Mi Amor?",
+        "url": "https://open.spotify.com/album/2x7RSXftZESuzY52tyu4Cs"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 182890,
+      "name": "\u00bfQu\u00e9 Pas\u00f3 Mi Amor?",
+      "url": "https://open.spotify.com/track/2GlGnsgX2acpZk6O4J2Qc7"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
         "name": "La Vida No Es F\u00e1cil",
         "url": "https://open.spotify.com/album/5sb1l0mFdE1fELVAKM3vz9"
       },
@@ -2623,18 +2623,22 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
-        "name": "Mi Vida Es Mejor",
-        "url": "https://open.spotify.com/album/6O9tWJ5uhg6SHu6AM60IAR"
+        "name": "Mil Escalas",
+        "url": "https://open.spotify.com/album/0vM7MIZddwc4AskM0iaid6"
       },
       "artists": [
         {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         }
       ],
-      "duration_ms": 169290,
-      "name": "Mi Vida Es Mejor",
-      "url": "https://open.spotify.com/track/3bnEmZgrF0McEGGCmosnED"
+      "duration_ms": 144629,
+      "name": "Mil Escalas",
+      "url": "https://open.spotify.com/track/6NjRybxD0tZ90fLwnPCkkp"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -2663,22 +2667,18 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
-        "name": "Mil Escalas",
-        "url": "https://open.spotify.com/album/0vM7MIZddwc4AskM0iaid6"
+        "name": "Mi Vida Es Mejor",
+        "url": "https://open.spotify.com/album/6O9tWJ5uhg6SHu6AM60IAR"
       },
       "artists": [
         {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         }
       ],
-      "duration_ms": 144629,
-      "name": "Mil Escalas",
-      "url": "https://open.spotify.com/track/6NjRybxD0tZ90fLwnPCkkp"
+      "duration_ms": 169290,
+      "name": "Mi Vida Es Mejor",
+      "url": "https://open.spotify.com/track/3bnEmZgrF0McEGGCmosnED"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -3643,6 +3643,26 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
+        "name": "Nunca Imagin\u00e9",
+        "url": "https://open.spotify.com/album/55Nln3fDBB6t8qRphZuikc"
+      },
+      "artists": [
+        {
+          "name": "Astrid Cruz",
+          "url": "https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i"
+        },
+        {
+          "name": "A.C.O",
+          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
+        }
+      ],
+      "duration_ms": 205609,
+      "name": "Nunca Imagin\u00e9",
+      "url": "https://open.spotify.com/track/6ecb4V91cxHT9aJquEMLun"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
         "name": "Dime",
         "url": "https://open.spotify.com/album/4dBPygLWe6vYp6GSiAWDz3"
       },
@@ -3675,26 +3695,6 @@
       "duration_ms": 164307,
       "name": "Me Perd\u00ed",
       "url": "https://open.spotify.com/track/0MviaUXHVTPtSBrdI4jdbV"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
-        "name": "Nunca Imagin\u00e9",
-        "url": "https://open.spotify.com/album/55Nln3fDBB6t8qRphZuikc"
-      },
-      "artists": [
-        {
-          "name": "Astrid Cruz",
-          "url": "https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i"
-        },
-        {
-          "name": "A.C.O",
-          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
-        }
-      ],
-      "duration_ms": 205609,
-      "name": "Nunca Imagin\u00e9",
-      "url": "https://open.spotify.com/track/6ecb4V91cxHT9aJquEMLun"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -4439,6 +4439,22 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
+        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+        "url": "https://open.spotify.com/album/0D1v1FFqRnSxLhxbU93gvs"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 203456,
+      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+      "url": "https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
         "name": "Te Marqu\u00e9 Pedo",
         "url": "https://open.spotify.com/album/5whw8haonqjs15S7DzG4Pv"
       },
@@ -4487,22 +4503,6 @@
       "duration_ms": 157241,
       "name": "1000 KM",
       "url": "https://open.spotify.com/track/5VlVGHwqLnT6JbYbayUdE3"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
-        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-        "url": "https://open.spotify.com/album/0D1v1FFqRnSxLhxbU93gvs"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 203456,
-      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-      "url": "https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM"
     },
     {
       "added_at": "2025-06-13 06:00:17",

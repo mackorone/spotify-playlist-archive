@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 11427,
+  "num_followers": 11431,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAAC3m4y2B9WIgqb+2lnTmrZd",
+  "snapshot_id": "aF8wgAAAAAAyNDDAzf/TQwkqYQExZ9AR",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3WUaZDzyCXwhsprJkuaaF4"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Better Be Home Soon",
-      "url": "https://open.spotify.com/track/2frGQKAKHIgBdcT8ZvRsgh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Looking Forward Looking Back",
         "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 221306,
       "name": "Matilda No More",
       "url": "https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3WUaZDzyCXwhsprJkuaaF4"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Better Be Home Soon",
+      "url": "https://open.spotify.com/track/2frGQKAKHIgBdcT8ZvRsgh"
     },
     {
       "added_at": null,
@@ -471,6 +471,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Paul Kelly",
+          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
+        }
+      ],
+      "duration_ms": 271960,
+      "name": "I Still Pray",
+      "url": "https://open.spotify.com/track/4oYgJotc49KtSyGALfwWVH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rattlin' Bones",
         "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
       },
@@ -491,22 +511,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barricades & Brickwalls",
-        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
       },
       "artists": [
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Paul Kelly",
-          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
         }
       ],
-      "duration_ms": 271960,
-      "name": "I Still Pray",
-      "url": "https://open.spotify.com/track/4oYgJotc49KtSyGALfwWVH"
+      "duration_ms": 220813,
+      "name": "A Love Like Springsteen",
+      "url": "https://open.spotify.com/track/69SpIDFJ8Qfg2KrXEStlBt"
     },
     {
       "added_at": null,
@@ -531,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
       },
       "artists": [
         {
@@ -540,9 +556,9 @@
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 220813,
-      "name": "A Love Like Springsteen",
-      "url": "https://open.spotify.com/track/69SpIDFJ8Qfg2KrXEStlBt"
+      "duration_ms": 245156,
+      "name": "You Got The Car",
+      "url": "https://open.spotify.com/track/4NbyFZ9pip8N3f4y6I3M3v"
     },
     {
       "added_at": null,
@@ -563,22 +579,6 @@
       "duration_ms": 235600,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/2zKsKOqfi9bwIbCWgFz0Un"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Captain",
-        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 245156,
-      "name": "You Got The Car",
-      "url": "https://open.spotify.com/track/4NbyFZ9pip8N3f4y6I3M3v"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 143866,
+      "name": "Last Hard Bible",
+      "url": "https://open.spotify.com/track/5j2e567wbrQ8VrfhyvgBss"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rattlin' Bones",
         "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 175053,
       "name": "Sleeping Cold",
       "url": "https://open.spotify.com/track/1tMhRgx5PeBt7SVVOYsN3t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Captain",
-        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 143866,
-      "name": "Last Hard Bible",
-      "url": "https://open.spotify.com/track/5j2e567wbrQ8VrfhyvgBss"
     },
     {
       "added_at": null,

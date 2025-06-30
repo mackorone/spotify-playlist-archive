@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,108 likes - 233 songs - 12 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,109 likes - 233 songs - 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 44 | [Runaway \(feat\. Khalid\)](https://open.spotify.com/track/6mXMILvElYiWu4fa9oaJXe) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Runaway \(feat\. Khalid\)](https://open.spotify.com/album/6Xrspi637ex7NEio0geFO4) | 3:58 |
 | 45 | [Woman Up](https://open.spotify.com/track/1BHfxwjNbzbQFphMCpxiRq) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 3:28 |
 | 46 | [Na Na Na](https://open.spotify.com/track/6v08G3CGcoyiODIWZoOxR4) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Pentatonix \(Deluxe Version\)](https://open.spotify.com/album/6qf9tE8pNRW0kX1Cucrixr) | 2:35 |
-| 47 | [In The Dark \(feat\. Aldae\)](https://open.spotify.com/track/5a5LU6LsKa45FOPue2GGo6) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Aldae](https://open.spotify.com/artist/15SHURx3CnODWKpjmNcxgO) | [In The Dark \(feat\. Aldae\)](https://open.spotify.com/album/6G8WzX1bDdsy9tc23kSPZl) | 2:28 |
+| 47 | [In the Dark](https://open.spotify.com/track/7MaxOczq6kB5y1SWfO92vf) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Aldae](https://open.spotify.com/artist/15SHURx3CnODWKpjmNcxgO) | [Breathe](https://open.spotify.com/album/1cQBiYoGAbgVkgf61zmppo) | 2:28 |
 | 48 | [Deserve Me \(with Summer Walker\)](https://open.spotify.com/track/0vQffWKfl0JyRqtdoZINEM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 4:25 |
 | 49 | [Better \(feat\. Yo Gotti\)](https://open.spotify.com/track/6str6hBCPSjfhSIS4qscDJ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 2:47 |
 | 50 | [RELATE](https://open.spotify.com/track/1ZO99OrjupdwV1MWfgmihI) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [What Are We Waiting For?](https://open.spotify.com/album/6h95CVsuRQt0SHA0MtjpWW) | 2:53 |
@@ -242,4 +242,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 232 | [Intro](https://open.spotify.com/track/5O8Qhglfsza40ImevHVURy) | [Soul Point](https://open.spotify.com/artist/1Ept3gLGpmaMqUB5nEFmTj) | [Blue Gum St\. 3](https://open.spotify.com/album/3Z69aT615d7CRCE6WdE7zy) | 1:58 |
 | 233 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 
-Snapshot ID: `Ab1YSAAAAACqV3d/KTWjlRf6sA6CjcYj`
+Snapshot ID: `Ab1d6AAAAABfTLGornfBtZMHIZEYe2Nl`

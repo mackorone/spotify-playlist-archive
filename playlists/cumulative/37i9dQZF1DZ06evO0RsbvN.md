@@ -4,7 +4,7 @@
 
 > This is Ma Rainey\. The essential tracks, all in one playlist.
 
-247 songs - 12 hr 25 min
+248 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Big Feeling Blues](https://open.spotify.com/track/1b901OEvqNMvDgUHWxMuAz) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Gone Daddy Blues](https://open.spotify.com/album/4jzOHrTkPyHIAEfL9WeqX7) | 2:47 | 2025-01-25 | 2025-02-08 |
 | [Big Feeling Blues](https://open.spotify.com/track/6A5w88S8sUhGtdVDsg9RUT) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 2:47 | 2022-09-15 | 2024-09-13 |
 | [Big Feeling Blues](https://open.spotify.com/track/4Hqbe7XPWxWpI4W9KJ5IzH) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [First of the Great Blues Singers](https://open.spotify.com/album/6p93mgCaYnQyTKTT7txgJJ) | 2:48 | 2023-07-02 | 2023-07-09 |
-| [Black Cat Hoot Owl Blues](https://open.spotify.com/track/3UGcwgbDYLuVGUTHXhkWuQ) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey \(1928\)](https://open.spotify.com/album/3AoDzrx5ta41lXlEY8nZg2) | 2:32 | 2022-08-05 | 2025-06-28 |
+| [Black Cat Hoot Owl Blues](https://open.spotify.com/track/3UGcwgbDYLuVGUTHXhkWuQ) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey \(1928\)](https://open.spotify.com/album/3AoDzrx5ta41lXlEY8nZg2) | 2:32 | 2022-08-05 |  |
 | [Black Cat, Hoot Owl Blues](https://open.spotify.com/track/3DlP94hIRrJjOOijTuvJD6) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 2:27 | 2024-07-04 | 2024-07-16 |
 | [Black Dust Blues](https://open.spotify.com/track/4697gPC8VJTaLrBxNmfgXf) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey \(1928\)](https://open.spotify.com/album/3AoDzrx5ta41lXlEY8nZg2) | 2:56 | 2022-08-05 |  |
 | [Black Eye Blues](https://open.spotify.com/track/0pyIUitbPJ0Yau1DSlMZYc) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 3:18 | 2022-08-05 | 2025-03-03 |
@@ -104,7 +104,7 @@
 | [Hard Time Blues](https://open.spotify.com/track/5ygAhmb7RMhpCO1Yufx5Ki) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [First of the Great Blues Singers](https://open.spotify.com/album/6p93mgCaYnQyTKTT7txgJJ) | 2:48 | 2023-01-12 | 2023-06-11 |
 | [Hear Me Talking To You](https://open.spotify.com/track/30udwhIIyw4p8aFeOKNTsY) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 2:59 | 2022-08-05 | 2025-03-11 |
 | [Hellish Rag](https://open.spotify.com/track/4fZa6B2pbUvMq3HvhBwB4t) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [First of the Great Blues Singers](https://open.spotify.com/album/6p93mgCaYnQyTKTT7txgJJ) | 3:06 | 2022-10-09 | 2023-07-23 |
-| [Hellish Rag](https://open.spotify.com/track/1NoD4phovkjjjY8SZ9XzZb) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [1923\-1928](https://open.spotify.com/album/56TbeHHXaH1pryBL06lOZC) | 3:07 | 2022-08-05 |  |
+| [Hellish Rag](https://open.spotify.com/track/1NoD4phovkjjjY8SZ9XzZb) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [1923\-1928](https://open.spotify.com/album/56TbeHHXaH1pryBL06lOZC) | 3:07 | 2022-08-05 | 2025-06-30 |
 | [Honey Where You Been so Long](https://open.spotify.com/track/47AdJZXMOpKEKrzoSKyuPo) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Moonshine Blues](https://open.spotify.com/album/1CeuJJb99wlONrv0GcHiGy) | 2:48 | 2024-05-28 | 2024-11-12 |
 | [Honey Where You Been So Long](https://open.spotify.com/track/6BzU24Sabe64hspKCx7hUk) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 1 \(1923\-1924\)](https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D) | 2:48 | 2022-08-05 | 2025-03-19 |
 | [Hot Springs Blues](https://open.spotify.com/track/1haRaf0ILVKoMlAIYoSbdA) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Nobody Rocks Me Like My Baby Do](https://open.spotify.com/album/4cAT20KVfZPLR4UTBPWeX5) | 2:57 | 2024-07-01 | 2024-07-02 |
@@ -121,7 +121,7 @@
 | [Jelly Bean Blues](https://open.spotify.com/track/4VvNDjcJTSA4PxeCE7DIlf) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 3:19 | 2022-08-05 | 2024-07-11 |
 | [Last Minute Blues](https://open.spotify.com/track/7JGZsuzGX8EcjM504SjDh7) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Down the Road](https://open.spotify.com/album/258UBW7CK7XSws84tj2fvO) | 2:55 | 2024-09-11 |  |
 | [Last Minute Blues](https://open.spotify.com/track/62g0YxDu47NwTjxLo9JUrC) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Moonshine Blues](https://open.spotify.com/album/1CeuJJb99wlONrv0GcHiGy) | 2:58 | 2022-08-05 | 2024-09-11 |
-| [Lawd Send Me A Blues](https://open.spotify.com/track/6enaVlwavWEg1L2pwYUVbS) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [An Introduction To Ma Rainey](https://open.spotify.com/album/6SPGzT2RHZ024I9us2fg0p) | 2:52 | 2022-08-06 |  |
+| [Lawd Send Me A Blues](https://open.spotify.com/track/6enaVlwavWEg1L2pwYUVbS) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [An Introduction To Ma Rainey](https://open.spotify.com/album/6SPGzT2RHZ024I9us2fg0p) | 2:52 | 2022-08-06 | 2025-06-30 |
 | [Lawd Send Me A Man Blues](https://open.spotify.com/track/4i5NojmAntQ3jSCSjaFf8o) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 1 \(1923\-1924\)](https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D) | 2:47 | 2022-11-17 | 2025-03-06 |
 | [Lawd Send Me a Man Blues](https://open.spotify.com/track/59qNYlvIKsqEbt9yWXTN2K) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 2:47 | 2024-04-09 | 2024-11-03 |
 | [Leavin' This Morning](https://open.spotify.com/track/1bvymGG2KkmARE54FrnchN) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 3:06 | 2024-06-19 | 2024-06-21 |
@@ -144,6 +144,7 @@
 | [Louisiana Hoo Doo Blues](https://open.spotify.com/track/43l3jDOyMl9J9cxaJSnSjb) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 2 \(1924\-1925\)](https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66) | 3:08 | 2022-08-05 | 2023-06-13 |
 | [Louisiana Hoo Doo Blues](https://open.spotify.com/track/2Su4CFEJqrAcvNp6Ig0ur9) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 3:08 | 2024-10-29 | 2024-11-01 |
 | [Lucky Rock Blues](https://open.spotify.com/track/0srv5XF4cTSg7b2Dq8g9RC) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey's Black Bottom](https://open.spotify.com/album/661JpV4HLgxk1McL8qMc43) | 3:03 | 2022-08-05 | 2025-06-22 |
+| [Ma and Pa Poorhouse Blues](https://open.spotify.com/track/1KhZwm7WONVRGmeP7ox99Q) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Gone Daddy Blues](https://open.spotify.com/album/4jzOHrTkPyHIAEfL9WeqX7) | 3:06 | 2025-06-30 |  |
 | [Ma and Pa Poorhouse Blues](https://open.spotify.com/track/23lxqaTbyIEfm8kbi6nCw0) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 3:06 | 2022-09-04 | 2025-04-15 |
 | [ma Rainey's Black Bottom](https://open.spotify.com/track/3qC0oPtRL1kvn4KMAIOnyK) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 3:11 | 2022-08-06 | 2022-08-13 |
 | [Ma Rainey's Black Bottom Blues](https://open.spotify.com/track/1i2eJw1HO7ZbgkY6B0nWbK) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Nobody Rocks Me Like My Baby Do](https://open.spotify.com/album/4cAT20KVfZPLR4UTBPWeX5) | 3:12 | 2023-08-13 | 2024-10-23 |

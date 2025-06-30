@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,636 likes - 125 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,724 likes - 125 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 12 | [Peaceful Waters](https://open.spotify.com/track/3A66mkYRioE3x2Yk7uHFdh) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Peaceful Waters](https://open.spotify.com/album/2aTeyEIlLEuOyMUqYKMfUj) | 2:33 |
 | 13 | [Inner Universe](https://open.spotify.com/track/0pVsJoZUEO92yJrRmCb6Fe) | [Aurora Season](https://open.spotify.com/artist/6XEW2LnRmQUNPfTajKwImZ) | [Inner Universe](https://open.spotify.com/album/6J0yt0cvJfJxtsEPfe1DFh) | 2:52 |
 | 14 | [Aardvark](https://open.spotify.com/track/4f0g8C72ve7dWIzYTvf8it) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Aardvark](https://open.spotify.com/album/4hGjRmvDwyuAKOFo1sjoHV) | 2:48 |
-| 15 | [Panacea](https://open.spotify.com/track/3fmRwSmm3MkItB5cUMr4YE) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Panacea](https://open.spotify.com/album/2bLZwZtd96totLeWRYrq2f) | 2:46 |
-| 16 | [Calm Moments](https://open.spotify.com/track/5dnkSxcgzgsVdUgsFNfpGB) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Calm Moments](https://open.spotify.com/album/1BHKyjHNueZeBCFeAmCsRj) | 2:41 |
+| 15 | [Calm Moments](https://open.spotify.com/track/5dnkSxcgzgsVdUgsFNfpGB) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Calm Moments](https://open.spotify.com/album/1BHKyjHNueZeBCFeAmCsRj) | 2:41 |
+| 16 | [Panacea](https://open.spotify.com/track/3fmRwSmm3MkItB5cUMr4YE) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Panacea](https://open.spotify.com/album/2bLZwZtd96totLeWRYrq2f) | 2:46 |
 | 17 | [Panorama Sky](https://open.spotify.com/track/7l17NcC5dUhh2ZnYHUCcoA) | [Willow Skies](https://open.spotify.com/artist/7vD3hGQ6SFDLUy0i4UDirc) | [Panorama Sky](https://open.spotify.com/album/6f7mYP43UkkoHAHYPvRRYw) | 2:52 |
 | 18 | [Forest Rhodes](https://open.spotify.com/track/2EZ9pD380RJJANsQR8NJTg) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Forest Rhodes](https://open.spotify.com/album/1Isn7pNhAwOzz2QkbVn7gv) | 2:51 |
 | 19 | [Don't Know Mind \- Forest Sound Bath](https://open.spotify.com/track/0l7RsztlECGX9Of6opJMSK) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Don't Know Mind \- Forest Sound Bath](https://open.spotify.com/album/22KgajjdlBD7Ntg4d5cBGl) | 2:59 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 75 | [Beautiful Nature](https://open.spotify.com/track/5y25kyQQTAqyPoSchOAnxS) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Beautiful Nature](https://open.spotify.com/album/1xzSTEV4uuA8KvCXuiNpdY) | 2:57 |
 | 76 | [Variations](https://open.spotify.com/track/7rM7Awo7rpVrS7O8egu5Mx) | [Astred](https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5) | [Variations](https://open.spotify.com/album/3ZDCJk3TIBzgHqKA8qQUJY) | 3:09 |
 | 77 | [Magnolia](https://open.spotify.com/track/3M8TwWYqWotGprtnLg95QS) | [Erlah](https://open.spotify.com/artist/06tUglXC9xjsC8FN7m3gOP) | [Magnolia](https://open.spotify.com/album/1Yp3wrZ3zyX9uqIRrbPd9K) | 2:44 |
-| 78 | [Red Maple](https://open.spotify.com/track/4EXKRSVZzk6Wcq66SnbVc1) | [Palm Reading](https://open.spotify.com/artist/3dCWFraQQTdkvYADXU1b80) | [Red Maple](https://open.spotify.com/album/7oVTzjVQLFF3pPe6F96pDI) | 2:39 |
-| 79 | [The Golden Path](https://open.spotify.com/track/1n6RWCdlR1noijUCeoU1bn) | [Salome Azul](https://open.spotify.com/artist/0ukN1ypDmoKy71vfx6xw1j) | [The Golden Path](https://open.spotify.com/album/2gFNaNjUKztfUjenabaluq) | 2:14 |
+| 78 | [The Golden Path](https://open.spotify.com/track/1n6RWCdlR1noijUCeoU1bn) | [Salome Azul](https://open.spotify.com/artist/0ukN1ypDmoKy71vfx6xw1j) | [The Golden Path](https://open.spotify.com/album/2gFNaNjUKztfUjenabaluq) | 2:14 |
+| 79 | [Red Maple](https://open.spotify.com/track/4EXKRSVZzk6Wcq66SnbVc1) | [Palm Reading](https://open.spotify.com/artist/3dCWFraQQTdkvYADXU1b80) | [Red Maple](https://open.spotify.com/album/7oVTzjVQLFF3pPe6F96pDI) | 2:39 |
 | 80 | [Rakapar](https://open.spotify.com/track/3gHOHwVZudqg5q3GEszdHL) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Rakapar](https://open.spotify.com/album/1cPajSjSWgSSApGAzREwb5) | 3:15 |
 | 81 | [Thoughts Outside My Window](https://open.spotify.com/track/0nM5PzquYJRtbWEwnc0q2t) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Thoughts Outside My Window](https://open.spotify.com/album/4pOfZ2daBo1XvcUucRYtyc) | 2:27 |
 | 82 | [Compassion](https://open.spotify.com/track/5tfjNUVtd6wbHnIwGUuHA8) | [Calma Totalis](https://open.spotify.com/artist/1s9skrP96FBxQyrPC3mlVy) | [Compassion](https://open.spotify.com/album/6MLWy4hrYqW1T3Z3bghUQd) | 3:07 |
@@ -105,10 +105,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 95 | [Passing](https://open.spotify.com/track/2tVrAzePSMl6GtO0dZENG8) | [Lenards Šmits](https://open.spotify.com/artist/72zkGbxVoZCrrQbZRjhySx) | [Passing](https://open.spotify.com/album/4NMvHwdcqZ9mJoYBj31oRo) | 2:42 |
 | 96 | [Giardino Di Corde](https://open.spotify.com/track/6yMAHBIAadsh7lM5ISrSzt) | [Moshi Moshi Desu](https://open.spotify.com/artist/1zbyUVPuDN3PDtJA0WlWFI) | [Giardino Di Corde](https://open.spotify.com/album/68jzD6LRy7YFOXvrlnGpDR) | 2:41 |
 | 97 | [Dasikó Planktón](https://open.spotify.com/track/3t0fHYkxFJk0CCflFvOYQh) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Dasikó Planktón](https://open.spotify.com/album/2KgTNWVUecD2ujr3WhGjKu) | 3:30 |
-| 98 | [Boreal Forest](https://open.spotify.com/track/3km5eq3PiyetKEGn9MQMS2) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Exploring Nature](https://open.spotify.com/album/5uFY3CuxlrXS4BorPrSLfV) | 2:06 |
-| 99 | [Nova](https://open.spotify.com/track/1GryGrQ72Nc5xczICPws4E) | [8 D Dreaming](https://open.spotify.com/artist/1JhEH0zN1gIRtl5jSsuvpq) | [Nova](https://open.spotify.com/album/6cCeoHK61KUkKWuE06Orel) | 2:27 |
-| 100 | [Morning on a STHLM Island](https://open.spotify.com/track/1ly554JyWSV2thFHxwNznr) | [The Gustaf](https://open.spotify.com/artist/10CHzX0eZwBquNxVAxKpv2) | [Morning on a STHLM Island](https://open.spotify.com/album/1xaGsMwWmgMAQQjOsXfQEU) | 2:48 |
-| 101 | [Mellow Spring](https://open.spotify.com/track/6GO7Ql2NFglUqb9Qc9TeWL) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Beautiful Walk](https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr) | 2:20 |
+| 98 | [Mellow Spring](https://open.spotify.com/track/6GO7Ql2NFglUqb9Qc9TeWL) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Beautiful Walk](https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr) | 2:20 |
+| 99 | [Boreal Forest](https://open.spotify.com/track/3km5eq3PiyetKEGn9MQMS2) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Exploring Nature](https://open.spotify.com/album/5uFY3CuxlrXS4BorPrSLfV) | 2:06 |
+| 100 | [Nova](https://open.spotify.com/track/1GryGrQ72Nc5xczICPws4E) | [8 D Dreaming](https://open.spotify.com/artist/1JhEH0zN1gIRtl5jSsuvpq) | [Nova](https://open.spotify.com/album/6cCeoHK61KUkKWuE06Orel) | 2:27 |
+| 101 | [Morning on a STHLM Island](https://open.spotify.com/track/1ly554JyWSV2thFHxwNznr) | [The Gustaf](https://open.spotify.com/artist/10CHzX0eZwBquNxVAxKpv2) | [Morning on a STHLM Island](https://open.spotify.com/album/1xaGsMwWmgMAQQjOsXfQEU) | 2:48 |
 | 102 | [Birds of Lydia](https://open.spotify.com/track/0zBQMEzF6difdESPGXREV4) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Birds of Lydia](https://open.spotify.com/album/4x9TbSI7FAwZlBLJ8NU1PC) | 3:16 |
 | 103 | [Creekside](https://open.spotify.com/track/00gniJGV3T78LoCmTeSbKM) | [Cedarsound](https://open.spotify.com/artist/3zQf7bXB7xtlEjVmeT53GP) | [Creekside](https://open.spotify.com/album/1GlqsJCYxTMCqI9ZxKCo3n) | 2:32 |
 | 104 | [Gravity](https://open.spotify.com/track/6SrGcbpvB216sv4XrtL2Pq) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [Gravity](https://open.spotify.com/album/0RfMrZOANCZ6PHqPhXEomx) | 2:14 |

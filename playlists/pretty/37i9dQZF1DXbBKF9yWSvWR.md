@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Weekly update for Indie releases\. Cover: Billie Marten
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,169 likes - 95 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,157 likes - 95 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Clover](https://open.spotify.com/track/072IesDWOkpw6SKWz21reJ) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Clover](https://open.spotify.com/album/2qMQmSseamd7D1EaywOo2Z) | 3:30 |
-| 2 | [Moth Song](https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Moth Song](https://open.spotify.com/album/15tDiSE6EpMxDxUDkRXKwN) | 5:03 |
-| 3 | [Into My Arms](https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Covers](https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su) | 4:35 |
+| 2 | [Into My Arms](https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Covers](https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su) | 4:35 |
+| 3 | [Moth Song](https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Moth Song](https://open.spotify.com/album/15tDiSE6EpMxDxUDkRXKwN) | 5:03 |
 | 4 | [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 |
 | 5 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 |
 | 6 | [This Is \- Single Edit](https://open.spotify.com/track/7MAMO8dokg9IRhWTiBJqK0) | [TJE](https://open.spotify.com/artist/7MpTEotcUgJBQ0rMLYS2mb) | [This Is](https://open.spotify.com/album/0qThG45ynm1pF51jQx41fs) | 3:25 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 94 | [Favorite Person](https://open.spotify.com/track/173fPfGcG00V2L3zAem3fQ) | [FUZZY TEETH](https://open.spotify.com/artist/1xcEmLnArCFePsauK1EYuE) | [Favorite Person](https://open.spotify.com/album/3cev3QelnLo10qUfprhhic) | 3:09 |
 | 95 | [Running](https://open.spotify.com/track/5Akz1ec7EFluRLgqGxV2TY) | [High Hi](https://open.spotify.com/artist/3A6l4ONs4PBpq2g4AAjP6M) | [Running](https://open.spotify.com/album/2fwlxKVcrd3noOhiCOcNHN) | 3:56 |
 
-Snapshot ID: `aF3DAQAAAAAjaTBbtY2znoDKHap+w968`
+Snapshot ID: `aGGC5wAAAACWLEmB+AvhZ83Wpeclhvab`

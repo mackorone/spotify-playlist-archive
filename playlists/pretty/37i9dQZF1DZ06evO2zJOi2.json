@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 709115,
+  "num_followers": 709389,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAADv8HZMsjfQ1XewtQRbhq3E",
+  "snapshot_id": "aF8wgAAAAADfyq5jfZDb0UzIC409CNTe",
   "tracks": [
     {
       "added_at": null,
@@ -263,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
-        "url": "https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD"
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
       },
       "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 169226,
-      "name": "Heartless (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/3FU6urUVsgXa6RBuV2PdRk"
+      "duration_ms": 208280,
+      "name": "The Way I Talk",
+      "url": "https://open.spotify.com/track/6ok4IyXcJQekEeSlBjcI9Y"
     },
     {
       "added_at": null,
@@ -331,18 +327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
+        "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
+        "url": "https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD"
       },
       "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 208280,
-      "name": "The Way I Talk",
-      "url": "https://open.spotify.com/track/6ok4IyXcJQekEeSlBjcI9Y"
+      "duration_ms": 169226,
+      "name": "Heartless (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/3FU6urUVsgXa6RBuV2PdRk"
     },
     {
       "added_at": null,
@@ -451,22 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+        "name": "NASHVILLE, TENNESSEE",
+        "url": "https://open.spotify.com/album/7txdao9C0jYls2zBxFojzJ"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
         },
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 196706,
-      "name": "Only Thing That\u2019s Gone (feat. Chris Stapleton)",
-      "url": "https://open.spotify.com/track/0CfPMZ1DSdzglsMRpLDM2H"
+      "duration_ms": 206146,
+      "name": "Hangin\u2019 On (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/4Jvp2H0HuFpdMxoYSz6agL"
     }
   ],
   "unique_name": "This Is Morgan Wallen",

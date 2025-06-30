@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,217 likes - 100 songs - 5 hr 6 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,215 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 92 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 |
 | 93 | [To Die For \- Madism Remix](https://open.spotify.com/track/0lV1nrpDhrDtCQNsnjIr3v) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [To Die For \(Madism Remix\)](https://open.spotify.com/album/3xJHO62lLfAXbOu4t1z14c) | 2:41 |
 | 94 | [Kill Me Better](https://open.spotify.com/track/7MtJ0dU4m3F6JQG9qdyaPk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Kill Me Better](https://open.spotify.com/album/0X2wKcQKmWG5Jn9ajbbD4G) | 3:13 |
-| 95 | [Comes Down](https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd) | [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Comes Down](https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP) | 2:21 |
+| 95 | [I Wouldn't Know](https://open.spotify.com/track/2UobzZv0qAgAsz01YGHVxg) | [MOLOW](https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [I Wouldn't Know](https://open.spotify.com/album/7johj2E7I1HA3cD7Rxvz0j) | 2:28 |
 | 96 | [Comes Down](https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd) | [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Comes Down](https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP) | 2:21 |
-| 97 | [I Wouldn't Know](https://open.spotify.com/track/2UobzZv0qAgAsz01YGHVxg) | [MOLOW](https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [I Wouldn't Know](https://open.spotify.com/album/7johj2E7I1HA3cD7Rxvz0j) | 2:28 |
+| 97 | [Comes Down](https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd) | [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Comes Down](https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP) | 2:21 |
 | 98 | [Another Day In Paradise](https://open.spotify.com/track/0HjogmklU56Soh2HNhbWer) | [House Arrest](https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6), [Bikini Bandits](https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr), [Lumin8](https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp) | [Another Day In Paradise](https://open.spotify.com/album/46qdwgGcHUVjHFvGuq9Ld8) | 2:07 |
 | 99 | [Better](https://open.spotify.com/track/0QdjuCUA97rPLFj6MBoS82) | [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1), [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk) | [Better](https://open.spotify.com/album/2qi7v3iROtakEK15bLJ0Zb) | 2:13 |
 | 100 | [Torn](https://open.spotify.com/track/6IrZcWFFvMF0UzUKyeUpwn) | [Bikini Bandits](https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr), [Lumin8](https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp), [Evan Cole](https://open.spotify.com/artist/1xmWaOWc9DJRJYZvWPG6vO) | [Torn](https://open.spotify.com/album/6ufrnLeCiplvdCyV5oNLxl) | 2:10 |
 
-Snapshot ID: `AAAIFI7tgZLD8Pp57UgUh5rV3G8qIgs5`
+Snapshot ID: `AAAIFQGrA73Seynle8ZoAeJO67gjsWDp`

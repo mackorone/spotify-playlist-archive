@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > indie folk latino de estación\. Foto: Paz Carrara y Raly Barrionuevo
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,603 likes - 95 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,612 likes - 95 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 8 | [Huracán](https://open.spotify.com/track/1bfVtL4K4hlzxw2enSM40V) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Huracán](https://open.spotify.com/album/5IPTv2WalvKpcLN2Znypzs) | 3:11 |
 | 9 | [Ana María](https://open.spotify.com/track/56frUZQsbNRY22EyjcuCrH) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [TÁ](https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03) | 2:20 |
 | 10 | [Por el Bien de los Dos](https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 2:39 |
-| 11 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 |
-| 12 | [La Capital](https://open.spotify.com/track/138AMAxJawuLPkPlxgHsHq) | [Ciao Marina](https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo) | [La Capital](https://open.spotify.com/album/1P3OUooECLJYVUj8NJ1IUJ) | 2:58 |
-| 13 | [me hace bien amar\(te\)](https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [me hace bien amar\(te\)](https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2) | 3:43 |
+| 11 | [La Capital](https://open.spotify.com/track/138AMAxJawuLPkPlxgHsHq) | [Ciao Marina](https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo) | [La Capital](https://open.spotify.com/album/1P3OUooECLJYVUj8NJ1IUJ) | 2:58 |
+| 12 | [me hace bien amar\(te\)](https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [me hace bien amar\(te\)](https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2) | 3:43 |
+| 13 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 |
 | 14 | [Vapor](https://open.spotify.com/track/0EYQhfsTUtViwb0BgygGHF) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Vapor](https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e) | 3:02 |
 | 15 | [Las Cosas Simples](https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Las Cosas Simples](https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz) | 4:07 |
 | 16 | [Si Sabes Regresar](https://open.spotify.com/track/2rliXcqi1OZ7xhaPUUeh1x) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Si Sabes Regresar](https://open.spotify.com/album/6bQRPUxBERpv9A0Yd461ZN) | 2:38 |

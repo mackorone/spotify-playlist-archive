@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAACrgVqH7eADfmyicZUO/RUM",
+  "snapshot_id": "aF8wgAAAAAADY5WIVSimhThfTz34GVik",
   "tracks": [
     {
       "added_at": null,
@@ -427,30 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trap House 3",
-        "url": "https://open.spotify.com/album/4iTLFFT8jaDsQcLnS08vvL"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 255493,
-      "name": "Muddy (feat. Young Dolph & Young Scooter)",
-      "url": "https://open.spotify.com/track/282NTCv9r0PUgcS9c1b3iK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trap God 2",
         "url": "https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM"
       },
@@ -475,22 +451,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trippple Cross",
-        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
+        "name": "Trap House 3",
+        "url": "https://open.spotify.com/album/4iTLFFT8jaDsQcLnS08vvL"
       },
       "artists": [
         {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 233725,
-      "name": "Do It Big (feat. Future)",
-      "url": "https://open.spotify.com/track/4WogORkwFHHvXGQLmLMwnB"
+      "duration_ms": 255493,
+      "name": "Muddy (feat. Young Dolph & Young Scooter)",
+      "url": "https://open.spotify.com/track/282NTCv9r0PUgcS9c1b3iK"
     },
     {
       "added_at": null,
@@ -511,6 +491,26 @@
       "duration_ms": 149420,
       "name": "Outro",
       "url": "https://open.spotify.com/track/692RBh8Fpm8i2Hme4tuq4h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trippple Cross",
+        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 233725,
+      "name": "Do It Big (feat. Future)",
+      "url": "https://open.spotify.com/track/4WogORkwFHHvXGQLmLMwnB"
     },
     {
       "added_at": null,
@@ -739,6 +739,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Streetz Krazy",
+        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Peewee Longway",
+          "url": "https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6"
+        }
+      ],
+      "duration_ms": 146571,
+      "name": "Touchdown",
+      "url": "https://open.spotify.com/track/7uBxxv1fY6JodMDIuEDUxd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zaystreet",
         "url": "https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 209099,
       "name": "Black Migo",
       "url": "https://open.spotify.com/track/31l9ecQfaEpEBe78KmpraS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Streetz Krazy",
-        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Peewee Longway",
-          "url": "https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6"
-        }
-      ],
-      "duration_ms": 146571,
-      "name": "Touchdown",
-      "url": "https://open.spotify.com/track/7uBxxv1fY6JodMDIuEDUxd"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Streetz Krazy",
+        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 197244,
+      "name": "Trap It Out",
+      "url": "https://open.spotify.com/track/25ewjSPi4yqL2ion1KCzvh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trippple Cross",
         "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 250965,
       "name": "Bread Crumbs (feat. Young Thug & Vl Deck)",
       "url": "https://open.spotify.com/track/757H5Tyiq1KGm3gzMvbidd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Streetz Krazy",
-        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 197244,
-      "name": "Trap It Out",
-      "url": "https://open.spotify.com/track/25ewjSPi4yqL2ion1KCzvh"
     },
     {
       "added_at": null,
@@ -907,6 +907,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Streetz Krazy",
+        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "U Ain't No Hustla",
+      "url": "https://open.spotify.com/track/7k4cs9RYFOdOUZx2rqsAfV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trippple Cross",
         "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 267867,
       "name": "Both Sides (feat. Future & Young Thug)",
       "url": "https://open.spotify.com/track/1Gp7ozmDtFfr43EcoeH65k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Streetz Krazy",
-        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "U Ain't No Hustla",
-      "url": "https://open.spotify.com/track/7k4cs9RYFOdOUZx2rqsAfV"
     },
     {
       "added_at": null,

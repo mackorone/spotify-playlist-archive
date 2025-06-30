@@ -4,7 +4,7 @@
 
 > All of it
 
-876 songs - 2 day 6 hr 39 min
+877 songs - 2 day 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Best One](https://open.spotify.com/track/00NxAXxNkPR18nX1hcNBiP) | [小野道ono](https://open.spotify.com/artist/758AidZpFRwq5ZsNXNb0db), [墨橙](https://open.spotify.com/artist/0p7yeE2OnI8srWS2WCUY9a) | [眠](https://open.spotify.com/album/4vjlX1yNDi1Y95xSgIBDZJ) | 3:42 | 2025-06-02 |  |
 | [Beyond Light](https://open.spotify.com/track/6IfttNqWuR1N1TQRD2KucP) | [Skye Lewin](https://open.spotify.com/artist/7AK1uvXalruijh6pjRVDl1), [Michael Salvatori](https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X) | [Destiny 2: Beyond Light \(Original Soundtrack\)](https://open.spotify.com/album/5uceuos2MGwHNtFskwv2rs) | 3:21 | 2025-06-02 |  |
 | [Big Iron](https://open.spotify.com/track/0AQquaENerGps8BQmbPw14) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 3:55 | 2025-06-02 |  |
+| [BIRDBRAIN](https://open.spotify.com/track/2DAZakhs7RRCoM6pvLpUEz) | [Jamie Paige](https://open.spotify.com/artist/790JtoMXsEVQqzkerV3xuf), [OK Glass](https://open.spotify.com/artist/5QDqD7M7ktRDfzXJWbYolF) | [BIRDBRAIN](https://open.spotify.com/album/2bulp48ZEhzuUk9d4wkZgD) | 4:16 | 2025-06-29 |  |
 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 | 2025-06-02 |  |
 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 | 2025-06-02 |  |
 | [Black Mamba](https://open.spotify.com/track/6Tj9KfzPp7tmgcDdsaPwGE) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 2:54 | 2025-06-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 
 > Loksins New Music Friday! Ný tónlist Lewis Capaldi, Laufey, Lorde og mörgum fleiri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,284 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,286 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

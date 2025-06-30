@@ -2806,7 +2806,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-30",
       "duration_ms": 187605,
       "name": "BUTCHER VANITY",
       "url": "https://open.spotify.com/track/2QB1vK4MFiYgLlCHMLj51r"
@@ -10358,7 +10358,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-30",
       "duration_ms": 222000,
       "name": "Lumi\u00e8re",
       "url": "https://open.spotify.com/track/1A1XuDIYZxSKrQ6mzkWwAT"
@@ -10978,7 +10978,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-30",
       "duration_ms": 75302,
       "name": "MENTE M\u00c1",
       "url": "https://open.spotify.com/track/11gZL0HigsqfzjTHOpdFjE"
@@ -16396,7 +16396,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-30",
       "duration_ms": 214193,
       "name": "Song 3",
       "url": "https://open.spotify.com/track/17tFA9uTIBJzlGySKys04X"
@@ -17073,6 +17073,24 @@
     },
     {
       "album": {
+        "name": "summer",
+        "url": "https://open.spotify.com/album/6ttEleilkyHvDMM8zlTV5m"
+      },
+      "artists": [
+        {
+          "name": "auratoshi",
+          "url": "https://open.spotify.com/artist/05xlOZ63adQrS2Y84Ojo6U"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78464,
+      "name": "summer",
+      "url": "https://open.spotify.com/track/4dfDDZfQggrIKwXgikStNE"
+    },
+    {
+      "album": {
         "name": "Super Tuna",
         "url": "https://open.spotify.com/album/7urG1JarAksXgoLSp5OfnT"
       },
@@ -17124,7 +17142,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 287324,
       "name": "Surreal",
       "url": "https://open.spotify.com/track/4bzbaBvahwx1R0jyh5TO8U"
@@ -17780,7 +17798,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 201230,
       "name": "Tipo Nino Vs Kabrinha",
       "url": "https://open.spotify.com/track/1jxQFCC0ukN7AaUwXWK0N8"
@@ -30050,6 +30068,24 @@
       "duration_ms": 120000,
       "name": "\u0421\u043e\u043b\u043d\u0446\u0435",
       "url": "https://open.spotify.com/track/6xuk72ns3yLQ0RyShMAGnP"
+    },
+    {
+      "album": {
+        "name": "\u043f\u043e\u043a\u0430 \u043d\u0435 \u0437\u0430\u043a\u043e\u043d\u0447\u0438\u043b\u0441\u044f \u043f\u043e\u043b\u0451\u0442",
+        "url": "https://open.spotify.com/album/1sgQYuvdWQ6YRfRYRF5Li2"
+      },
+      "artists": [
+        {
+          "name": "\u0443\u043b\u044c\u044f\u043d\u0430 \u043c\u0430\u043c\u0443\u0448\u043a\u0438\u043d\u0430",
+          "url": "https://open.spotify.com/artist/6huGWK3MJvn13ZioB8PeLy"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216487,
+      "name": "\u0441\u043e\u043b\u0451\u043d\u043e\u0435 \u0441\u0447\u0430\u0441\u0442\u044c\u0435",
+      "url": "https://open.spotify.com/track/3337b8Q7Q06iQNpkMLxJSx"
     },
     {
       "album": {

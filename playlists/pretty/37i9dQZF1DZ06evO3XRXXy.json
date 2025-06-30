@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 146350,
+  "num_followers": 146389,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAAAeBGoMCEDMRZ6Ra2UFYRDh",
+  "snapshot_id": "aF8wgAAAAAA1HpKnQUuFyE491pDGqu6P",
   "tracks": [
     {
       "added_at": null,
@@ -307,18 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duotones",
-        "url": "https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
       },
       "artists": [
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        },
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
         }
       ],
-      "duration_ms": 303506,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq"
+      "duration_ms": 261866,
+      "name": "How Could an Angel Break My Heart (with Toni Braxton)",
+      "url": "https://open.spotify.com/track/4ViVDWlmKfGff25okNzGcC"
     },
     {
       "added_at": null,
@@ -355,22 +359,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
+        "name": "Duotones",
+        "url": "https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1"
       },
       "artists": [
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        },
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
         }
       ],
-      "duration_ms": 261866,
-      "name": "How Could an Angel Break My Heart (with Toni Braxton)",
-      "url": "https://open.spotify.com/track/4ViVDWlmKfGff25okNzGcC"
+      "duration_ms": 303506,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 242266,
-      "name": "Theme from \"Dying Young\"",
-      "url": "https://open.spotify.com/track/6RLqhvZlpOxGHsf7EKoa25"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
         "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 223600,
       "name": "Love Theme From \"Romeo & Juliet\"",
       "url": "https://open.spotify.com/track/4O3Sbe4RIhUCJOa0AmL5Gn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 242266,
+      "name": "Theme from \"Dying Young\"",
+      "url": "https://open.spotify.com/track/6RLqhvZlpOxGHsf7EKoa25"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songbird: The Best Of Kenny G",
-        "url": "https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "The Champion's Theme",
-      "url": "https://open.spotify.com/track/6ZlnnjYGa9xsucij2hV5f7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rhythm & Romance",
         "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 262533,
       "name": "Sabor A Mi",
       "url": "https://open.spotify.com/track/4Pu9FoZv0FPYD1aDE1lmJ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songbird: The Best Of Kenny G",
+        "url": "https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "The Champion's Theme",
+      "url": "https://open.spotify.com/track/6ZlnnjYGa9xsucij2hV5f7"
     },
     {
       "added_at": null,

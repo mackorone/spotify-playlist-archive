@@ -1,12 +1,12 @@
 {
   "description": "This is Jake Shimabukuro. The essential tracks, all in one playlist.",
-  "num_followers": 8367,
+  "num_followers": 8368,
   "original_name": "This Is Jake Shimabukuro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAADiOX7QXqTYttVYoatOaj4k",
+  "snapshot_id": "aF8wgAAAAAC7w6tR2BVirEAowEupa2Tw",
   "tracks": [
     {
       "added_at": null,
@@ -220,13 +220,13 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         },
         {
-          "name": "Lukas Nelson",
-          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 249293,
-      "name": "Find Yourself",
-      "url": "https://open.spotify.com/track/2i1KtcXyO29XedKX8JTC5w"
+      "duration_ms": 149306,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/3QjO59K7XYaPLF8PBTuzQU"
     },
     {
       "added_at": null,
@@ -292,13 +292,13 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         },
         {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
         }
       ],
-      "duration_ms": 149306,
-      "name": "All You Need Is Love",
-      "url": "https://open.spotify.com/track/3QjO59K7XYaPLF8PBTuzQU"
+      "duration_ms": 249293,
+      "name": "Find Yourself",
+      "url": "https://open.spotify.com/track/2i1KtcXyO29XedKX8JTC5w"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3UkHwtr4k4cCQRHZfKsGpk"
         }
       ],
-      "duration_ms": 148120,
-      "name": "Wai` Alae",
-      "url": "https://open.spotify.com/track/0wot61MFMO2SLEKpjjyfqX"
+      "duration_ms": 202400,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/4fnqyECBu3t2V7EnRxf8pl"
     },
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/3UkHwtr4k4cCQRHZfKsGpk"
         }
       ],
-      "duration_ms": 202400,
-      "name": "Summer Rain",
-      "url": "https://open.spotify.com/track/4fnqyECBu3t2V7EnRxf8pl"
+      "duration_ms": 148120,
+      "name": "Wai` Alae",
+      "url": "https://open.spotify.com/track/0wot61MFMO2SLEKpjjyfqX"
     },
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HandPicked",
-        "url": "https://open.spotify.com/album/3142HalSDI3XohoAIbR3vn"
-      },
-      "artists": [
-        {
-          "name": "Earl Klugh",
-          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
-        },
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 485586,
-      "name": "Hotel California (Duet with Jake Shimabukuro)",
-      "url": "https://open.spotify.com/track/5kr66FsmwdvHiFDGt6kciO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u7c9b\u3005\u697d\u3005",
         "url": "https://open.spotify.com/album/0RDe2OUHLjxNUNJLPXCV1f"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 174529,
       "name": "\u7c9b\u3005\u697d\u3005",
       "url": "https://open.spotify.com/track/4wO2MH90CDQTzs1PNRpFdp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HandPicked",
+        "url": "https://open.spotify.com/album/3142HalSDI3XohoAIbR3vn"
+      },
+      "artists": [
+        {
+          "name": "Earl Klugh",
+          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 485586,
+      "name": "Hotel California (Duet with Jake Shimabukuro)",
+      "url": "https://open.spotify.com/track/5kr66FsmwdvHiFDGt6kciO"
     },
     {
       "added_at": null,
@@ -680,9 +680,41 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 239226,
-      "name": "Oama",
-      "url": "https://open.spotify.com/track/1BnHU5GFBvVuSlNSXnQCo2"
+      "duration_ms": 277813,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/7xRrUE3AaPEPBosN9z2EcR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
+        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "\u30d5\u30e9\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/5C43UUvEzv0ReAgQCx1dAP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace Love Ukulele",
+        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Boy Meets Girl",
+      "url": "https://open.spotify.com/track/1AEKR4Qb9RhiFndpZfcwzB"
     },
     {
       "added_at": null,
@@ -707,42 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Love Ukulele",
-        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Boy Meets Girl",
-      "url": "https://open.spotify.com/track/1AEKR4Qb9RhiFndpZfcwzB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doogie Kamealoha, M.D. (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5IIbiXNkg43JLSswf7L18p"
-      },
-      "artists": [
-        {
-          "name": "Wendy Wang",
-          "url": "https://open.spotify.com/artist/5os3sWMaH1ims6VwOogLcB"
-        },
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 148295,
-      "name": "Campfire",
-      "url": "https://open.spotify.com/track/3vas0K5wl8kr7IiphLlWR0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Travels",
         "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
       },
@@ -752,41 +748,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 277813,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/7xRrUE3AaPEPBosN9z2EcR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
-        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "\u30d5\u30e9\u30ac\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/5C43UUvEzv0ReAgQCx1dAP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30a6\u30a9\u30fc\u30ad\u30f3\u30b0\u30fb\u30c0\u30a6\u30f3\u30fb\u30ec\u30a4\u30f3\u30d2\u30eb",
-        "url": "https://open.spotify.com/album/5UouzqwCT3k6kOvAI3HtC6"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 164906,
-      "name": "\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8 - \u30ea\u30d7\u30ea\u30fc\u30b9",
-      "url": "https://open.spotify.com/track/16sJhBAwKFfXO8HEjGsh6m"
+      "duration_ms": 239226,
+      "name": "Oama",
+      "url": "https://open.spotify.com/track/1BnHU5GFBvVuSlNSXnQCo2"
     },
     {
       "added_at": null,
@@ -807,6 +771,42 @@
       "duration_ms": 329053,
       "name": "IN MY LIFE",
       "url": "https://open.spotify.com/track/3aBKiNFM1LHdl1zwoiu7ro"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30a6\u30a9\u30fc\u30ad\u30f3\u30b0\u30fb\u30c0\u30a6\u30f3\u30fb\u30ec\u30a4\u30f3\u30d2\u30eb",
+        "url": "https://open.spotify.com/album/5UouzqwCT3k6kOvAI3HtC6"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 164906,
+      "name": "\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8 - \u30ea\u30d7\u30ea\u30fc\u30b9",
+      "url": "https://open.spotify.com/track/16sJhBAwKFfXO8HEjGsh6m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doogie Kamealoha, M.D. (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5IIbiXNkg43JLSswf7L18p"
+      },
+      "artists": [
+        {
+          "name": "Wendy Wang",
+          "url": "https://open.spotify.com/artist/5os3sWMaH1ims6VwOogLcB"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 148295,
+      "name": "Campfire",
+      "url": "https://open.spotify.com/track/3vas0K5wl8kr7IiphLlWR0"
     },
     {
       "added_at": null,
@@ -875,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live in Japan",
-        "url": "https://open.spotify.com/album/34uGiTXYMA0V38Knfi6ldL"
+        "name": "Travels",
+        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 232466,
-      "name": "NADA SOUSOU(LIVE)",
-      "url": "https://open.spotify.com/track/6LMieDT7PSjRmfkyMB1Wys"
+      "duration_ms": 224960,
+      "name": "Train Ride",
+      "url": "https://open.spotify.com/track/1CUOxT1JD7DKCS0t9GvHnS"
     },
     {
       "added_at": null,
@@ -907,8 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travels",
-        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
+        "name": "Live in Japan",
+        "url": "https://open.spotify.com/album/34uGiTXYMA0V38Knfi6ldL"
       },
       "artists": [
         {
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 224960,
-      "name": "Train Ride",
-      "url": "https://open.spotify.com/track/1CUOxT1JD7DKCS0t9GvHnS"
+      "duration_ms": 232466,
+      "name": "NADA SOUSOU(LIVE)",
+      "url": "https://open.spotify.com/track/6LMieDT7PSjRmfkyMB1Wys"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 256105,
+  "num_followers": 256134,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAAAlf4vvrO/el2e4JDP0rbE6",
+  "snapshot_id": "aF8wgAAAAABDHwY2BRWWF68GNNZfEzbk",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ZZ Top's First Album",
-        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 250120,
-      "name": "Just Got Back from Baby's",
-      "url": "https://open.spotify.com/track/2L72UXO13cFevWxF3Q1xFx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Baddest",
         "url": "https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 211773,
       "name": "Gimme All Your Lovin'",
       "url": "https://open.spotify.com/track/08Yy8YGHv1lSDiKZzVPuTn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ZZ Top's First Album",
+        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "Just Got Back from Baby's",
+      "url": "https://open.spotify.com/track/2L72UXO13cFevWxF3Q1xFx"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fandango! (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 156733,
-      "name": "Balinese (2005 Remaster)",
-      "url": "https://open.spotify.com/track/2SCXpY6ArQFpllTov1z1Lr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tejas",
         "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 209626,
       "name": "Asleep in the Desert (Instrumental)",
       "url": "https://open.spotify.com/track/4PCPSEEKOsqr7vhX19dExv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fandango! (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 156733,
+      "name": "Balinese (2005 Remaster)",
+      "url": "https://open.spotify.com/track/2SCXpY6ArQFpllTov1z1Lr"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ZZ Top's First Album",
-        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 207706,
-      "name": "Certified Blues",
-      "url": "https://open.spotify.com/track/2WecIwijceRnfYDxwUGJPK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sixteen Tons (feat. Jeff Beck) [Live From London]",
         "url": "https://open.spotify.com/album/65FLVEvkrT0X2wukXA20ge"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 197734,
       "name": "Sixteen Tons (feat. Jeff Beck) - Live from London",
       "url": "https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ZZ Top's First Album",
+        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 207706,
+      "name": "Certified Blues",
+      "url": "https://open.spotify.com/track/2WecIwijceRnfYDxwUGJPK"
     },
     {
       "added_at": null,

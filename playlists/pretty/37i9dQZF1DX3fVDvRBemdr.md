@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > Wekelijkse update met Hollands en volks\. Cover: Samuel Welten \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artiest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,891 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,917 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 |
-| 2 | [In de naam van...](https://open.spotify.com/track/4YbZKK7m1meoBcCFdlab7c) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [In de naam van...](https://open.spotify.com/album/5DP7AnlHxP3NABQUGjI7bF) | 2:27 |
+| 1 | [In de naam van...](https://open.spotify.com/track/4YbZKK7m1meoBcCFdlab7c) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [In de naam van...](https://open.spotify.com/album/5DP7AnlHxP3NABQUGjI7bF) | 2:27 |
+| 2 | [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 |
 | 3 | [Corry Konings](https://open.spotify.com/track/79ykiAUGpJsiHY8b5A8RMg) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Corry Konings](https://open.spotify.com/album/11SGzQT6L3M1fsZ7aT1xF4) | 2:38 |
 | 4 | [Zaterdagavond](https://open.spotify.com/track/3BOjKPbIFdyOgdtpvvsc73) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Het Is Me Gelukt](https://open.spotify.com/album/7zemcMSWjNFIBHuzHmqeza) | 3:02 |
 | 5 | [Esmeralda 2.0](https://open.spotify.com/track/2EzvRuicGrXl3oqnJ31Wqf) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Esmeralda 2.0](https://open.spotify.com/album/2872EPy52W10CTQJAKuWjG) | 2:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 79 | [Wat liefde is](https://open.spotify.com/track/7pF5SrBs97tPSPhPHBLNQz) | [Ray Benjamin](https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ) | [Wat liefde is](https://open.spotify.com/album/7aMxk1elKgZfZgfpW39XNK) | 3:03 |
 | 80 | [Ik leef m'n eigen leven](https://open.spotify.com/track/3yqLmwAPu7wJRC6vItlTru) | [Franz Joostink](https://open.spotify.com/artist/0qBINgFpeUdkvhBIKmD3O0) | [Ik leef m'n eigen leven](https://open.spotify.com/album/7bJBCxlV2dGs2e5d1LsAzN) | 3:25 |
 
-Snapshot ID: `aF5fSwAAAAANfPR4zGrahA3llolIDzjF`
+Snapshot ID: `aGGCuQAAAADBzGNHqEcPOFeee6cdL9b1`

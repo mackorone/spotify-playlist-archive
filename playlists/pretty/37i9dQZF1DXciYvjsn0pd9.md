@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 
 > <a href="spotify:artist:00CMSJdbf36zOzKB3z8JrR">Victor Cardenas</a>'s favorite tracks\. Updated regularly\. Curated by Victor Cardenas\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,725 likes - 77 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,743 likes - 77 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 | 47 | [Fiesta en la Arena](https://open.spotify.com/track/5HMVms3t1CenE5FVzeGpFF) | [Dj Dasten](https://open.spotify.com/artist/22T7MuDg3sCbgGA9fm9lgz), [Felicia](https://open.spotify.com/artist/73E6lzvrBkoTSun24mueDM) | [This Is Guaracha](https://open.spotify.com/album/51hBHBAr22ET7c24Oxlsq0) | 3:13 |
 | 48 | [Noches de Soledad](https://open.spotify.com/track/5WZ3BKEXk7EB86m6MdEpn6) | [Santiago Cardona](https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk) | [Noches de Soledad](https://open.spotify.com/album/6tdpKYdRS2OJy3bQWE9q6q) | 3:34 |
 | 49 | [Calling](https://open.spotify.com/track/4LApxjrPhbmSXdTXaHrqA1) | [Exotic](https://open.spotify.com/artist/14ASSasIb42tG16ym4kVfh) | [Elite Guarach](https://open.spotify.com/album/2ISwlwDSZNJFwWEB99DBfh) | 3:37 |
-| 50 | [Ella Ya Me Olvido \- Radio Edit](https://open.spotify.com/track/5hU55DdOI7czxGFufcsrS4) | [LEEB](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM) | [Ella Ya Me Olvido \(Radio Edit\)](https://open.spotify.com/album/5ECD0CGqwDeEFo6l7UvEkq) | 4:09 |
+| 50 | [Ella Ya Me Olvido \- Radio Edit](https://open.spotify.com/track/5hU55DdOI7czxGFufcsrS4) | [LEEB](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM), [4Rain](https://open.spotify.com/artist/7mgeWKf0QP5WtjDreBuNME) | [Ella Ya Me Olvido \(Radio Edit\)](https://open.spotify.com/album/5ECD0CGqwDeEFo6l7UvEkq) | 4:09 |
 | 51 | [Secrets](https://open.spotify.com/track/0NIC4unbe5KZOp1d9T7OaF) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Club Life, Vol\. 4 \- New York City](https://open.spotify.com/album/57bABnvvPfNhBQRI70dqlU) | 4:10 |
 | 52 | [To Ü \(feat\. AlunaGeorge\)](https://open.spotify.com/track/3UgSQu6WwrXfKKDq019IHE) | [Jack Ü](https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Skrillex and Diplo present Jack Ü](https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd) | 3:57 |
 | 53 | [Take Ü There \(feat\. Kiesza\)](https://open.spotify.com/track/2RpKh7kXSdO8NLrW9VQ46p) | [Jack Ü](https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Skrillex and Diplo present Jack Ü](https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd) | 3:30 |

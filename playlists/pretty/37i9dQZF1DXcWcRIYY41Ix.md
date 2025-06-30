@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Lorena Álvarez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,385 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,394 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 53 | [Sé que todo va a ir bien](https://open.spotify.com/track/6yANOkNxzbjzDlmFrNWuFc) | [alberto.vela](https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok) | [Tramuntana](https://open.spotify.com/album/6rJS2TGjVKNgIyhnw9Q05t) | 3:36 |
 | 54 | [A volar \(feat\. Lido Pimienta\)](https://open.spotify.com/track/5KnFKXycHFZhchoOjFASU1) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [A volar \(feat\. Lido Pimienta\)](https://open.spotify.com/album/39dGTpmBPRDjT0NRpnyoOO) | 3:37 |
 | 55 | [Hoy no tengo nada que hacer](https://open.spotify.com/track/4ZhM1JjdSSJs0QVv7EDcBu) | [Ombligo](https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y), [La Pena](https://open.spotify.com/artist/2N5vNzy9TV52uCwVpvs2eM) | [Hoy no tengo nada que hacer](https://open.spotify.com/album/7beLtij36C7qfuqwwdoqhQ) | 4:11 |
-| 56 | [La Despedida \(feat\. Valeria Castro\)](https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053) | [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw), [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [La Despedida \(feat\. Valeria Castro\)](https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm) | 3:38 |
-| 57 | [Continuar](https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7), [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Continuar](https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL) | 2:37 |
-| 58 | [Vidrieritas](https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545) | [María de la Flor](https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3) | [Vidrieritas](https://open.spotify.com/album/7coLrKNPKAPDZfgLotJ1VW) | 3:35 |
+| 56 | [Continuar](https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7), [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Continuar](https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL) | 2:37 |
+| 57 | [Vidrieritas](https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545) | [María de la Flor](https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3) | [Vidrieritas](https://open.spotify.com/album/7coLrKNPKAPDZfgLotJ1VW) | 3:35 |
+| 58 | [La Despedida \(feat\. Valeria Castro\)](https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053) | [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw), [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [La Despedida \(feat\. Valeria Castro\)](https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm) | 3:38 |
 | 59 | [Tan delicada](https://open.spotify.com/track/1nJTpla3GEF0z0F7T0QMzU) | [Nadia Alvarez](https://open.spotify.com/artist/0MG7du0o7X8TMdyWm0wAku), [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ) | [Tan delicada](https://open.spotify.com/album/3UICv1p8S7af4rylMAqBbu) | 3:19 |
 | 60 | [Ver o mar](https://open.spotify.com/track/3EOjiURZPpbXoYTE6EOBOn) | [Guadi Galego](https://open.spotify.com/artist/4qiV7esJIt796GLcTRO0a4) | [Ver o mar](https://open.spotify.com/album/3byeOf8Va0wvjbUSFYsYxi) | 3:22 |
 | 61 | [Arrullito](https://open.spotify.com/track/3UQhsG1P4KM2cueYmYMWRi) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Arrullito](https://open.spotify.com/album/4kASZ1hMeBCDM1bE61NQLz) | 3:48 |

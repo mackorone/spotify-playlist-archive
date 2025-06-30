@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,011,213 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,011,374 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 16 | [Solo Sailing](https://open.spotify.com/track/3iy9lvEUZ6emxwK6xI1vul) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Solo Sailing](https://open.spotify.com/album/61GV8rCzwmmrLxP2D4QrBc) | 2:57 |
 | 17 | [Spring Embers](https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Spring Embers](https://open.spotify.com/album/13GMW4eLsmDiDr0BJihOxU) | 3:32 |
 | 18 | [dustland](https://open.spotify.com/track/27H4C3bLGGAIm5vSXDosVy) | [Alex R](https://open.spotify.com/artist/0UF2hegc0QcgMzZYI6bYB2) | [dustland](https://open.spotify.com/album/2fFsnUpoimIqQSeaBPGTC2) | 2:41 |
-| 19 | [Alabora](https://open.spotify.com/track/3uI33EsE7AVM3GMxaOn7fv) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo) | [Alabora](https://open.spotify.com/album/5aFbgu112bBrasrwQWVk2O) | 7:03 |
-| 20 | [Emerald Dream](https://open.spotify.com/track/1nCVPgKtxjGPrwOxeTxMQZ) | [Lust.](https://open.spotify.com/artist/00D4DKXe3TdHJh6lzetwoi) | [Emerald Dream](https://open.spotify.com/album/3eEHmxV6ZwlVYpQOWKgAnW) | 2:43 |
-| 21 | [hey now](https://open.spotify.com/track/4hvBK1k3eE2ACRUQKjkork) | [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM), [cloudseven](https://open.spotify.com/artist/127ajarXOJFUfRFivWi49v), [MELINA](https://open.spotify.com/artist/6B0qkeU4m0NgmVbHdRZpSt) | [hey now](https://open.spotify.com/album/16cK2WXAYWUvEmpvyDUKgI) | 2:11 |
-| 22 | [By My Side](https://open.spotify.com/track/2ikLgPH52UtXukvFH8xQWv) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [By My Side](https://open.spotify.com/album/2nd7OTkFHQ3YnPoyNdqAKK) | 2:19 |
-| 23 | [Celestial](https://open.spotify.com/track/2kMd68JKQBkywKtPuLqm2m) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Celestial](https://open.spotify.com/album/4F7Rdp5RCkiFUqP0vShZi3) | 2:46 |
+| 19 | [Celestial](https://open.spotify.com/track/2kMd68JKQBkywKtPuLqm2m) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Celestial](https://open.spotify.com/album/4F7Rdp5RCkiFUqP0vShZi3) | 2:46 |
+| 20 | [Alabora](https://open.spotify.com/track/3uI33EsE7AVM3GMxaOn7fv) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo) | [Alabora](https://open.spotify.com/album/5aFbgu112bBrasrwQWVk2O) | 7:03 |
+| 21 | [Emerald Dream](https://open.spotify.com/track/1nCVPgKtxjGPrwOxeTxMQZ) | [Lust.](https://open.spotify.com/artist/00D4DKXe3TdHJh6lzetwoi) | [Emerald Dream](https://open.spotify.com/album/3eEHmxV6ZwlVYpQOWKgAnW) | 2:43 |
+| 22 | [hey now](https://open.spotify.com/track/4hvBK1k3eE2ACRUQKjkork) | [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM), [cloudseven](https://open.spotify.com/artist/127ajarXOJFUfRFivWi49v), [MELINA](https://open.spotify.com/artist/6B0qkeU4m0NgmVbHdRZpSt) | [hey now](https://open.spotify.com/album/16cK2WXAYWUvEmpvyDUKgI) | 2:11 |
+| 23 | [By My Side](https://open.spotify.com/track/2ikLgPH52UtXukvFH8xQWv) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [By My Side](https://open.spotify.com/album/2nd7OTkFHQ3YnPoyNdqAKK) | 2:19 |
 | 24 | [Night Wish](https://open.spotify.com/track/605A3zlaQrLYyY6DQkMmKB) | [Moon Groove](https://open.spotify.com/artist/5jfSxdztr8x1KzWQpHcWI8) | [Night Wish](https://open.spotify.com/album/1XEzLyAWtXzE5oonBI1IBo) | 4:11 |
 | 25 | [Hangin Up](https://open.spotify.com/track/4vC2iSW6pMcDvAb98Tc8ma) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [De Rien](https://open.spotify.com/artist/1cXMEOMaLm3TNWP8lo4AsS) | [Hangin Up](https://open.spotify.com/album/65oZ8vGX6TliO9kVtCRnIy) | 3:04 |
 | 26 | [Don't Tell Me I Can't Have It](https://open.spotify.com/track/7DdrHlmyfDmAibdAbEdYIu) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU) | [Don't Tell Me I Can't Have It](https://open.spotify.com/album/4YyslwvTvE2qpL1zXdNrUx) | 3:07 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 68 | [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 |
 | 69 | [The right mood](https://open.spotify.com/track/0lzMp9DVxuCFUXE1eztXjc) | [Alan Devale](https://open.spotify.com/artist/5KuppFlfwpXUiNaNsRwIiY) | [The right mood](https://open.spotify.com/album/3KXn4vx4FKBFhCpiWgzx3f) | 3:12 |
 | 70 | [Liftoff](https://open.spotify.com/track/3uTGlHyPwijzXFQoMaROt1) | [Reel Waves](https://open.spotify.com/artist/3K4BBqiZQW1WEzeBMzfVho) | [Liftoff](https://open.spotify.com/album/0mpEDy0wUtGHbe5lj5nYIv) | 3:25 |
-| 71 | [Floating In Space](https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Floating In Space](https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb) | 2:32 |
-| 72 | [Hold Me Down](https://open.spotify.com/track/7ctUeZ8kwBfwS3ymOxqdWt) | [D.Polo](https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB) | [Hold Me Down](https://open.spotify.com/album/7MYSe2fPyBji4jffRM9L94) | 2:28 |
+| 71 | [Hold Me Down](https://open.spotify.com/track/7ctUeZ8kwBfwS3ymOxqdWt) | [D.Polo](https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB) | [Hold Me Down](https://open.spotify.com/album/7MYSe2fPyBji4jffRM9L94) | 2:28 |
+| 72 | [Floating In Space](https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Floating In Space](https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb) | 2:32 |
 | 73 | [Running Faster](https://open.spotify.com/track/3vzdR4GaLtV4i0h5QKoSHv) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Running Faster](https://open.spotify.com/album/4EfzsnrxTIK5qMLZXSRHlK) | 2:20 |
 | 74 | [Aquarium](https://open.spotify.com/track/3kAlWNK9bo5pEMwKvpgzNE) | [Kharfi](https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC) | [AQUARIUM](https://open.spotify.com/album/4FtyDXorsIluXMZxpEAR4I) | 3:07 |
 | 75 | [Waiting For](https://open.spotify.com/track/6WqVq2NOScKWQVlSwkPVj5) | [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Waiting For](https://open.spotify.com/album/4bs49fjwyDPQDYsPn5Qvji) | 2:24 |

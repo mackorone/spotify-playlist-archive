@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebieOeeSXw0.md) - [plain]
 
 > The amazing sounds of the tropics 🌴🥥🥭🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,282 likes - 335 songs - 1 day 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,295 likes - 335 songs - 1 day 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

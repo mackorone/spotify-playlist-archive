@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks, via the South of Africa\. Cover: <a href="https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S?si=dFljFtEVTnWrRkm\-k66tUA">EASY FREAK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,679 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,678 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

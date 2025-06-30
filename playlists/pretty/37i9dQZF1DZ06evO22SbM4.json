@@ -1,12 +1,12 @@
 {
   "description": "This is Bailey Zimmerman. The essential tracks, all in one playlist.",
-  "num_followers": 40499,
+  "num_followers": 40525,
   "original_name": "This Is Bailey Zimmerman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAACWno34ffHu+7Yle3ny+1Rj",
+  "snapshot_id": "aF8wgAAAAABDAmWiFnc51Jb2q9nXHGsr",
   "tracks": [
     {
       "added_at": null,
@@ -299,18 +299,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Small Town Crazy",
-        "url": "https://open.spotify.com/album/4edQ6eoWIo3YotjFAZwVxq"
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg"
       },
       "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
         {
           "name": "Bailey Zimmerman",
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 162352,
-      "name": "Small Town Crazy",
-      "url": "https://open.spotify.com/track/5AQBsu4oDjhKJui3jT1jbD"
+      "duration_ms": 183815,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ"
     },
     {
       "added_at": null,
@@ -347,22 +351,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ashes",
-        "url": "https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg"
+        "name": "Small Town Crazy",
+        "url": "https://open.spotify.com/album/4edQ6eoWIo3YotjFAZwVxq"
       },
       "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
         {
           "name": "Bailey Zimmerman",
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 183815,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ"
+      "duration_ms": 162352,
+      "name": "Small Town Crazy",
+      "url": "https://open.spotify.com/track/5AQBsu4oDjhKJui3jT1jbD"
     },
     {
       "added_at": null,

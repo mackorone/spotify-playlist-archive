@@ -4,7 +4,7 @@
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-678 songs - 2 day 3 hr 10 min
+680 songs - 2 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Atomic Sun](https://open.spotify.com/track/6jqREERLrJj5FAcTVVQInp) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Atomic Sun](https://open.spotify.com/album/47PZf2XprwEz8SzCBLJ3s5) | 4:11 | 2023-07-14 | 2023-07-29 |
 | [Azabache](https://open.spotify.com/track/36LpQ2oHZV2OHusDxCMUfC) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Azabache](https://open.spotify.com/album/4peWNj8D8DduNm5rdktO9Y) | 3:37 | 2023-11-10 | 2024-05-11 |
 | [Baby](https://open.spotify.com/track/5EGiYetIEeGwyxdgGq4cGA) | [Mason Talbot](https://open.spotify.com/artist/0impnXOKSt86UnIYtZ1hFA) | [Baby](https://open.spotify.com/album/0USWj9LRRuyoI7Ph9WvLIJ) | 3:30 | 2023-08-18 | 2023-09-09 |
+| [Back At Ya](https://open.spotify.com/track/02evyVGKt4jjuBAlgHzag5) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Back At Ya](https://open.spotify.com/album/6aQho6eImpDXTxfC8zoVhI) | 3:54 | 2025-06-29 |  |
 | [Back It Up](https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Back It Up](https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY) | 2:36 | 2025-03-21 |  |
 | [Back To Me](https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf) | [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [Back To Me](https://open.spotify.com/album/53jEoBJvKPpNoDrx1wwVfU) | 3:26 | 2022-08-19 | 2022-12-30 |
 | [Back2back \- Edit](https://open.spotify.com/track/2TQuTY3ojJAqhN9SS5J0Fs) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Back2bacK](https://open.spotify.com/album/4Oxxv1zaRCJ67XiFFoLewD) | 2:46 | 2022-06-03 | 2022-07-29 |
@@ -306,6 +307,7 @@
 | [Just Need To](https://open.spotify.com/track/42dzOSNumoXnHPClwha5Mf) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Strictly Ruffneck EP](https://open.spotify.com/album/1FEVSluNv0g463QF2Pp1rI) | 5:38 | 2024-04-19 | 2024-04-27 |
 | [K.E.T\. \- Amine Mix](https://open.spotify.com/track/2lHQRWqKnLuFHl52CypW2X) | [SLAMM](https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn), [Dan Molinari](https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE) | [D.O.P.E.](https://open.spotify.com/album/7GqNwkZzWJhUIndPE7KF4d) | 2:42 | 2025-02-28 |  |
 | [Keep On](https://open.spotify.com/track/712P8sGipqn8Q5IxKnHXrX) | [VASA](https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN) | [Keep On](https://open.spotify.com/album/715ajWCr0NfwjnKxAWpjHE) | 2:44 | 2025-05-16 |  |
+| [Keep That Groove](https://open.spotify.com/track/2vWQyHonW1iLs3mBMct0t9) | [Vitess](https://open.spotify.com/artist/5DIVjY3STr8n4tEoN0dmui) | [Keep That Groove EP](https://open.spotify.com/album/08ZUGIbdcs8OdvMI2Z91AI) | 3:40 | 2025-06-29 |  |
 | [Kick](https://open.spotify.com/track/4jwgVADO9NWXrNZ4YCspe0) | [Danny Snowden](https://open.spotify.com/artist/4x8tHM8IhkjWRTUD4k8cGB) | [Kick](https://open.spotify.com/album/0DXPzrALOYD5FOuUTEDZJu) | 3:41 | 2025-02-07 | 2025-04-26 |
 | [Kick It](https://open.spotify.com/track/5s5RKNozjSH616u91ZiqY7) | [Archie Hamilton](https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv) | [Kick It EP](https://open.spotify.com/album/66aMMGxNQQQqGXO7Bpx6lZ) | 7:02 | 2022-07-08 | 2022-10-22 |
 | [Kill The Soundboy](https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY) | [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v) | [Kill The Soundboy](https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH) | 6:44 | 2022-06-17 | 2023-10-29 |
@@ -317,7 +319,7 @@
 | [Kuneh \- Edit](https://open.spotify.com/track/3NdCkGGx6tlWlQamjRjq3o) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC), [Davide Squillace](https://open.spotify.com/artist/1wQoXZDTq0UCJhXffsm7Nh) | [Kuneh](https://open.spotify.com/album/7yxzjaabbnrkLcBYVRoBI7) | 3:08 | 2023-09-01 | 2023-11-18 |
 | [La Nariz Rosada](https://open.spotify.com/track/3do6W1ZZXTJJKtlykfJygL) | [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [DJ Mara](https://open.spotify.com/artist/1OUuxQNvF1uRYOtLgv9Ood) | [La Nariz Rosada](https://open.spotify.com/album/2tSCpX7cYOsbZc09ABcBVt) | 4:40 | 2022-08-26 | 2023-12-09 |
 | [La Serenata](https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF) | [The Shooters](https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y) | [La Serenata](https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR) | 2:58 | 2023-03-17 | 2023-08-25 |
-| [Last Day](https://open.spotify.com/track/0T7hXKDhA44Cr0s4XroZhr) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Chesster](https://open.spotify.com/artist/6YCbSjTwizmHBUBNjaqXlj) | [Last Day EP](https://open.spotify.com/album/3xk9n4pQdIYe26D2jv0ztp) | 3:27 | 2025-05-23 |  |
+| [Last Day](https://open.spotify.com/track/0T7hXKDhA44Cr0s4XroZhr) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Chesster](https://open.spotify.com/artist/6YCbSjTwizmHBUBNjaqXlj) | [Last Day EP](https://open.spotify.com/album/3xk9n4pQdIYe26D2jv0ztp) | 3:27 | 2025-05-23 | 2025-06-30 |
 | [Late Night](https://open.spotify.com/track/5jArQDIG7wMPLJoxuFTleo) | [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [On The Ground \- EP](https://open.spotify.com/album/1Ft1BFSDVrkqpM9VvtRJt3) | 6:24 | 2024-08-09 | 2024-10-05 |
 | [Lay Back](https://open.spotify.com/track/2ZduBkSGzXxnGMaZAvOusA) | [AG Swifty](https://open.spotify.com/artist/5ryO0Jb1Lgr8knFXONHld2), [Brad Brunner](https://open.spotify.com/artist/3VuRBWq60RkNH59fbf60SL) | [Lay Back EP](https://open.spotify.com/album/1Lm2udPWgVbpmzojgzbKLB) | 3:54 | 2024-04-12 |  |
 | [Legacy](https://open.spotify.com/track/36r4YOFjSaFyilVdu8kqg3) | [Andy Martinez](https://open.spotify.com/artist/0Ilm7SwRAuUOywN2ZZYxuu), [Damelo](https://open.spotify.com/artist/5CnLwWTK3iavHh2JZ2KEx5) | [Legacy EP](https://open.spotify.com/album/6gtkVSlAVrQx6ycwP1Vp53) | 6:27 | 2024-10-04 | 2024-10-23 |
@@ -571,7 +573,7 @@
 | [Targa \- Logic1000 Remix](https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx), [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Targa \(Logic1000 Remix\)](https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo) | 3:35 | 2023-08-11 | 2024-06-01 |
 | [Te Voy A Dar](https://open.spotify.com/track/4eIsRh7sfRf94s4TtE4UWx) | [Kenny Brian](https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc) | [Te Voy A Dar](https://open.spotify.com/album/0PQX0fBA76hR7jcrvzpRZX) | 3:05 | 2023-03-17 | 2023-04-03 |
 | [Tears In Berghain](https://open.spotify.com/track/0DJQZ0od70Z6SkuoEeOYAa) | [Bjarki](https://open.spotify.com/artist/6FtSCON62H1CEJtN39y9yI), [Kuldaboli](https://open.spotify.com/artist/3iqkQOfaf7oQtPfmGaMl4W) | [Tears In Berghain EP](https://open.spotify.com/album/7ez8S0rG2f4hec5NIJOaWY) | 4:27 | 2023-09-22 | 2023-11-13 |
-| [Technology](https://open.spotify.com/track/3x2KeoJwm93crNjphsZBOp) | [Mariche](https://open.spotify.com/artist/5gzRMOgauErn4aLSbr6RKF) | [The Jam EP](https://open.spotify.com/album/62OcXS2OjDzjR0XptWY6Hl) | 3:32 | 2025-05-09 |  |
+| [Technology](https://open.spotify.com/track/3x2KeoJwm93crNjphsZBOp) | [Mariche](https://open.spotify.com/artist/5gzRMOgauErn4aLSbr6RKF) | [The Jam EP](https://open.spotify.com/album/62OcXS2OjDzjR0XptWY6Hl) | 3:32 | 2025-05-09 | 2025-06-30 |
 | [Teki Teki](https://open.spotify.com/track/7kqRcKrVTkBngaePmZ9CJR) | [Ishimaru](https://open.spotify.com/artist/3Uv4JaQxrshHLQguFHfz2n) | [Teki Teki](https://open.spotify.com/album/6XLHIo1MKRbbeqFZeaMA8n) | 3:20 | 2024-02-02 | 2024-11-16 |
 | [TellMe](https://open.spotify.com/track/11HkvgmPu7vb42DcTNlvwP) | [Vern](https://open.spotify.com/artist/7jZXM5kkv6JPfrQA0LoY8d) | [TellMe / Humanize](https://open.spotify.com/album/5gjwWNrlr8VSnlWiD3kA8B) | 6:18 | 2024-09-20 | 2024-12-03 |
 | [Tempelhof](https://open.spotify.com/track/1OXu6yphRorUKpTttBMMhl) | [GiGi FM](https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi) | [Movimiento](https://open.spotify.com/album/6aKGDyR5AGabrgoK72IspI) | 5:33 | 2024-06-07 | 2024-09-21 |

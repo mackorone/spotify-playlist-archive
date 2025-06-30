@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 297808,
+  "num_followers": 297825,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
+        "name": "Spiralling Out",
+        "url": "https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "Spiralling Out",
+      "url": "https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
         "name": "Blue Eyes",
         "url": "https://open.spotify.com/album/52bu09lAe1TYwMwdmcm1NH"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 345133,
       "name": "Buddha For Mary",
       "url": "https://open.spotify.com/track/0PBW0dslhDROHvWlkYxKLq"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
-        "name": "Spiralling Out",
-        "url": "https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 224444,
-      "name": "Spiralling Out",
-      "url": "https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd"
     },
     {
       "added_at": "2024-12-03 09:27:47",

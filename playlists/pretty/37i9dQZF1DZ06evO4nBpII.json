@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1115493,
+  "num_followers": 1115655,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAAA+5y1gIiHlvu7RnmWFkC1Y",
+  "snapshot_id": "aF8wgAAAAACHJ/S5wrCXA9p+gQWRSeln",
   "tracks": [
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ballyhoo",
-        "url": "https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3"
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 165974,
-      "name": "Ballyhoo",
-      "url": "https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ"
+      "duration_ms": 326200,
+      "name": "Give Me Novacaine / She's a Rebel",
+      "url": "https://open.spotify.com/track/11I3KKHv7g2pXiuqRDabRA"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Idiot",
-        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+        "name": "Ballyhoo",
+        "url": "https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 326200,
-      "name": "Give Me Novacaine / She's a Rebel",
-      "url": "https://open.spotify.com/track/11I3KKHv7g2pXiuqRDabRA"
+      "duration_ms": 165974,
+      "name": "Ballyhoo",
+      "url": "https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ"
     },
     {
       "added_at": null,

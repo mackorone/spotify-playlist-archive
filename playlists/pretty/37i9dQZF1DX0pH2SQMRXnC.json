@@ -1,6 +1,6 @@
 {
   "description": "Defqon.1 takeover! First 25 tracks picked by Defqon.1 \ud83d\udca5 \ud83c\udf87\n",
-  "num_followers": 1444317,
+  "num_followers": 1444670,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,30 @@
     {
       "added_at": "2025-06-23 08:00:07",
       "album": {
+        "name": "Open Sesame (Abracadabra) [D-Block & S-te-Fan Remix]",
+        "url": "https://open.spotify.com/album/4tvLHYk5GK6R8FTFr8w9Jq"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Leila K",
+          "url": "https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "duration_ms": 182709,
+      "name": "Open Sesame (Abracadabra) - D-Block & S-te-Fan Remix",
+      "url": "https://open.spotify.com/track/50Sc0h3OULBSUjBir1X0K3"
+    },
+    {
+      "added_at": "2025-06-23 08:00:07",
+      "album": {
         "name": "Capital Of Crazy (Official Intents Festival 2025 Anthem)",
         "url": "https://open.spotify.com/album/5abtA8gzrX9kfGRT6GGEMh"
       },
@@ -919,30 +943,6 @@
       "duration_ms": 161589,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ"
-    },
-    {
-      "added_at": "2025-06-23 08:00:07",
-      "album": {
-        "name": "Open Sesame (Abracadabra) [D-Block & S-te-Fan Remix]",
-        "url": "https://open.spotify.com/album/4tvLHYk5GK6R8FTFr8w9Jq"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "Leila K",
-          "url": "https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6"
-        },
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        }
-      ],
-      "duration_ms": 182709,
-      "name": "Open Sesame (Abracadabra) - D-Block & S-te-Fan Remix",
-      "url": "https://open.spotify.com/track/50Sc0h3OULBSUjBir1X0K3"
     },
     {
       "added_at": "2025-06-23 08:00:07",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2025-06-23 08:00:07",
       "album": {
+        "name": "WELCOME TO THE GANG VOL. 2",
+        "url": "https://open.spotify.com/album/0mC2Hi8MHgiuY03hJPbaxZ"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        }
+      ],
+      "duration_ms": 206437,
+      "name": "DOWN DOWN",
+      "url": "https://open.spotify.com/track/6H4mOpaopoXbLkf12GEhe4"
+    },
+    {
+      "added_at": "2025-06-23 08:00:07",
+      "album": {
         "name": "Free (feat. Starsplash)",
         "url": "https://open.spotify.com/album/3g4YQYRWn89pIIAGhRIqNf"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 150000,
       "name": "Free (feat. Starsplash)",
       "url": "https://open.spotify.com/track/1Juo1H8h7Gbg4m0d9qOdxq"
-    },
-    {
-      "added_at": "2025-06-23 08:00:07",
-      "album": {
-        "name": "WELCOME TO THE GANG VOL. 2",
-        "url": "https://open.spotify.com/album/0mC2Hi8MHgiuY03hJPbaxZ"
-      },
-      "artists": [
-        {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
-        },
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        }
-      ],
-      "duration_ms": 206437,
-      "name": "DOWN DOWN",
-      "url": "https://open.spotify.com/track/6H4mOpaopoXbLkf12GEhe4"
     },
     {
       "added_at": "2025-06-23 08:00:07",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-06-23 08:00:07",
       "album": {
-        "name": "Kiss Kiss Bang",
-        "url": "https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 154639,
-      "name": "Kiss Kiss Bang",
-      "url": "https://open.spotify.com/track/17De5987piqgYQbQdmBghP"
-    },
-    {
-      "added_at": "2025-06-23 08:00:07",
-      "album": {
         "name": "Wake Me Up",
         "url": "https://open.spotify.com/album/5uz4VdtMGQ93JoMkc8Ezij"
       },
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2025-06-23 08:00:07",
       "album": {
+        "name": "Kiss Kiss Bang",
+        "url": "https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 154639,
+      "name": "Kiss Kiss Bang",
+      "url": "https://open.spotify.com/track/17De5987piqgYQbQdmBghP"
+    },
+    {
+      "added_at": "2025-06-23 08:00:07",
+      "album": {
         "name": "Everytime We Touch (Sound Rush Remix)",
         "url": "https://open.spotify.com/album/48WmVfUVF8jCBCqFXB7Rkj"
       },
@@ -1431,22 +1431,6 @@
       "duration_ms": 186750,
       "name": "FEELIN' HIGH",
       "url": "https://open.spotify.com/track/5WeFchK0FRpzVv9Z3c6ulH"
-    },
-    {
-      "added_at": "2025-06-23 08:00:07",
-      "album": {
-        "name": "Burning Down",
-        "url": "https://open.spotify.com/album/4XQenqlElkoMggcTGHj7VT"
-      },
-      "artists": [
-        {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
-        }
-      ],
-      "duration_ms": 199941,
-      "name": "Burning Down",
-      "url": "https://open.spotify.com/track/1Es2uLFDtB3xHrjv7V2H9J"
     },
     {
       "added_at": "2025-06-23 08:00:07",
@@ -1531,6 +1515,22 @@
       "duration_ms": 230709,
       "name": "Make That Body Move (Warrior Workout 2024 OST)",
       "url": "https://open.spotify.com/track/1hyUgLAUgCrgQE1MyvYYFP"
+    },
+    {
+      "added_at": "2025-06-23 08:00:07",
+      "album": {
+        "name": "Burning Down",
+        "url": "https://open.spotify.com/album/4XQenqlElkoMggcTGHj7VT"
+      },
+      "artists": [
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        }
+      ],
+      "duration_ms": 199941,
+      "name": "Burning Down",
+      "url": "https://open.spotify.com/track/1Es2uLFDtB3xHrjv7V2H9J"
     },
     {
       "added_at": "2025-06-23 08:00:07",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2025-06-23 08:00:07",
       "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/6LcFBmnsk9wGrd2sT4SQao"
+      },
+      "artists": [
+        {
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/2OGXiM79qJ0ucZ57SArp0S"
+    },
+    {
+      "added_at": "2025-06-23 08:00:07",
+      "album": {
         "name": "Ruinen Dieser Welt",
         "url": "https://open.spotify.com/album/2JPl1Vfq5p6MtZ3re2QD6J"
       },
@@ -1687,42 +1703,6 @@
       "duration_ms": 186750,
       "name": "Pills & Potions",
       "url": "https://open.spotify.com/track/5tv2IPbF3xZqfX7dAzwYKA"
-    },
-    {
-      "added_at": "2025-06-23 08:00:07",
-      "album": {
-        "name": "Kamikaze",
-        "url": "https://open.spotify.com/album/6LcFBmnsk9wGrd2sT4SQao"
-      },
-      "artists": [
-        {
-          "name": "Act of Rage",
-          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/2OGXiM79qJ0ucZ57SArp0S"
-    },
-    {
-      "added_at": "2025-06-23 08:00:07",
-      "album": {
-        "name": "FACE 2 FACE",
-        "url": "https://open.spotify.com/album/1y0fetRabv8tGvn4mCrJUf"
-      },
-      "artists": [
-        {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        },
-        {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
-        }
-      ],
-      "duration_ms": 167250,
-      "name": "FACE 2 FACE",
-      "url": "https://open.spotify.com/track/72xHjfgbAQ98I84wzTbINz"
     },
     {
       "added_at": "2025-06-23 08:00:07",
@@ -1787,6 +1767,26 @@
       "duration_ms": 222580,
       "name": "Behind Enemy Lines",
       "url": "https://open.spotify.com/track/0r3hUPdNI7fhxCyFpJbsYX"
+    },
+    {
+      "added_at": "2025-06-23 08:00:07",
+      "album": {
+        "name": "FACE 2 FACE",
+        "url": "https://open.spotify.com/album/1y0fetRabv8tGvn4mCrJUf"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        }
+      ],
+      "duration_ms": 167250,
+      "name": "FACE 2 FACE",
+      "url": "https://open.spotify.com/track/72xHjfgbAQ98I84wzTbINz"
     },
     {
       "added_at": "2025-06-23 08:00:07",
@@ -2143,6 +2143,26 @@
     {
       "added_at": "2025-06-23 08:00:07",
       "album": {
+        "name": "Country Roads",
+        "url": "https://open.spotify.com/album/5sK3HgYCoqsTENWpG32hZV"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Country Roads",
+      "url": "https://open.spotify.com/track/1ymdX49SbJzb9DH1YAH8W7"
+    },
+    {
+      "added_at": "2025-06-23 08:00:07",
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/70dQ4XawX4AHYr2qHLNGnY"
       },
@@ -2175,26 +2195,6 @@
       "duration_ms": 157500,
       "name": "BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER",
       "url": "https://open.spotify.com/track/2rGWPDScp9GUDgmSamnxWh"
-    },
-    {
-      "added_at": "2025-06-23 08:00:07",
-      "album": {
-        "name": "Country Roads",
-        "url": "https://open.spotify.com/album/5sK3HgYCoqsTENWpG32hZV"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "3 Are Legend",
-          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Country Roads",
-      "url": "https://open.spotify.com/track/1ymdX49SbJzb9DH1YAH8W7"
     },
     {
       "added_at": "2025-06-23 08:00:07",
@@ -2559,22 +2559,6 @@
     {
       "added_at": "2025-06-23 08:00:07",
       "album": {
-        "name": "Out Of My Mind",
-        "url": "https://open.spotify.com/album/3rnZIyoce2U7JbJUqeIavq"
-      },
-      "artists": [
-        {
-          "name": "Refuzion",
-          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
-        }
-      ],
-      "duration_ms": 165018,
-      "name": "Out Of My Mind",
-      "url": "https://open.spotify.com/track/1L1pGDEfDIBPylK5prk1TK"
-    },
-    {
-      "added_at": "2025-06-23 08:00:07",
-      "album": {
         "name": "Party Till Midnight",
         "url": "https://open.spotify.com/album/7k8jG1JAjmd88lHk5kBpbz"
       },
@@ -2591,6 +2575,22 @@
       "duration_ms": 188129,
       "name": "Party Till Midnight",
       "url": "https://open.spotify.com/track/0yIpkAQNsMfkROSqSJG6Jx"
+    },
+    {
+      "added_at": "2025-06-23 08:00:07",
+      "album": {
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/3rnZIyoce2U7JbJUqeIavq"
+      },
+      "artists": [
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        }
+      ],
+      "duration_ms": 165018,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/1L1pGDEfDIBPylK5prk1TK"
     },
     {
       "added_at": "2025-06-23 08:00:07",
@@ -2703,30 +2703,6 @@
     {
       "added_at": "2025-06-23 08:00:07",
       "album": {
-        "name": "Boom Boom Boom",
-        "url": "https://open.spotify.com/album/33WtsR6WXWcs4XlHojn8K8"
-      },
-      "artists": [
-        {
-          "name": "TNT",
-          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
-        },
-        {
-          "name": "Technoboy",
-          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
-        },
-        {
-          "name": "Tuneboy",
-          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
-        }
-      ],
-      "duration_ms": 196576,
-      "name": "Boom Boom Boom",
-      "url": "https://open.spotify.com/track/1WbQ96o7shECYjvEsRhvUV"
-    },
-    {
-      "added_at": "2025-06-23 08:00:07",
-      "album": {
         "name": "HELP_LESS",
         "url": "https://open.spotify.com/album/64TWja31XGSqKYNBoDrGQ7"
       },
@@ -2779,6 +2755,30 @@
       "duration_ms": 201578,
       "name": "New Beginning",
       "url": "https://open.spotify.com/track/7wyIElZrbbRYejRmRAoHn4"
+    },
+    {
+      "added_at": "2025-06-23 08:00:07",
+      "album": {
+        "name": "Boom Boom Boom",
+        "url": "https://open.spotify.com/album/33WtsR6WXWcs4XlHojn8K8"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "duration_ms": 196576,
+      "name": "Boom Boom Boom",
+      "url": "https://open.spotify.com/track/1WbQ96o7shECYjvEsRhvUV"
     },
     {
       "added_at": "2025-06-23 08:00:07",

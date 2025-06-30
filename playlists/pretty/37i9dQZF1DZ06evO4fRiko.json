@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 939085,
+  "num_followers": 939332,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAAAkYxNeg5J+V3naiEnsVKbk",
+  "snapshot_id": "aF8wgAAAAADgPVOREG/kWRqYhtIf8h8U",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 278573,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MUTT (CB REMIX)",
         "url": "https://open.spotify.com/album/3aWAm4NZkp9kxSqOZ51h5s"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 199786,
       "name": "MUTT (feat. Chris Brown) [CB REMIX]",
       "url": "https://open.spotify.com/track/3riRdhyMDfEQz5nKrxfbwv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 278573,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML"
     },
     {
       "added_at": null,
@@ -311,26 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monalisa",
-        "url": "https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll"
+        "name": "Jordin Sparks",
+        "url": "https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6"
       },
       "artists": [
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
         },
         {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 212975,
-      "name": "Monalisa",
-      "url": "https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP"
+      "duration_ms": 264373,
+      "name": "No Air (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/1jUA4rb6ZCv4gby4YU53xq"
     },
     {
       "added_at": null,
@@ -359,22 +355,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jordin Sparks",
-        "url": "https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6"
+        "name": "Monalisa",
+        "url": "https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll"
       },
       "artists": [
         {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
         },
         {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 264373,
-      "name": "No Air (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/1jUA4rb6ZCv4gby4YU53xq"
+      "duration_ms": 212975,
+      "name": "Monalisa",
+      "url": "https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP"
     },
     {
       "added_at": null,
@@ -947,26 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
-        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 151520,
-      "name": "One Call Away (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/0AzUYCZOm8BiUEKBoaRWW8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back 2 Life",
         "url": "https://open.spotify.com/album/1fOIkbQO1zU1rO3GLIGJBH"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 253453,
       "name": "Beat It (feat. Chris Brown & Wiz Khalifa)",
       "url": "https://open.spotify.com/track/3bwCMbwDZVtvJDnUTQIdCX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
+        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 151520,
+      "name": "One Call Away (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/0AzUYCZOm8BiUEKBoaRWW8"
     },
     {
       "added_at": null,

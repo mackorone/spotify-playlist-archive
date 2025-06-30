@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV?si=uGWb0HtmTPWGA5\_ye8rW3g>Bidem Olaoba</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,881 likes - 105 songs - 12 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,013 likes - 105 songs - 12 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

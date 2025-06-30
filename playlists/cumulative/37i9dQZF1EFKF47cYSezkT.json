@@ -785,6 +785,24 @@
     },
     {
       "album": {
+        "name": "BEAUTIFUL CHAOS",
+        "url": "https://open.spotify.com/album/4Bd27JFKxVcDPYGUkLHKPi"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129683,
+      "name": "M.I.A",
+      "url": "https://open.spotify.com/track/2HKLLlg6erdvg9CXcTEY3E"
+    },
+    {
+      "album": {
         "name": "Matty Healy",
         "url": "https://open.spotify.com/album/6dBjAT41RnXZcYvdU4NpGI"
       },

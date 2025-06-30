@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 149272,
+  "num_followers": 149265,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAADp9Dk1PybDjWE6YqFEKtNj",
+  "snapshot_id": "aF8wgAAAAADkwYqQQXchTDzqajYgRACU",
   "tracks": [
     {
       "added_at": null,
@@ -259,26 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If It Was Up To Me",
-        "url": "https://open.spotify.com/album/784ErOIk2KcqMfeXsurkyD"
-      },
-      "artists": [
-        {
-          "name": "Ben Fuller",
-          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 194264,
-      "name": "If It Was Up To Me",
-      "url": "https://open.spotify.com/track/3yLmdxMxuXSjCrTBu7fXcw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Country Music",
         "url": "https://open.spotify.com/album/3krMgq4qNrE8SvW5rRg50V"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 271906,
       "name": "Remind Me (with Carrie Underwood)",
       "url": "https://open.spotify.com/track/4ABua0yuWcpTotImEEJTaw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If It Was Up To Me",
+        "url": "https://open.spotify.com/album/784ErOIk2KcqMfeXsurkyD"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 194264,
+      "name": "If It Was Up To Me",
+      "url": "https://open.spotify.com/track/3yLmdxMxuXSjCrTBu7fXcw"
     },
     {
       "added_at": null,

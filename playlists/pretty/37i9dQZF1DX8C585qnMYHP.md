@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > Celebrating 10 years of the best new music by Experimental independent artists and labels\. <a href="spotify:artist:4EHUvmDJ3eLI7PhYyTe66f">Amanda Mur</a> on cover\. Artwork by Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,363 likes - 110 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,415 likes - 110 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

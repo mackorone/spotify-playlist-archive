@@ -1,12 +1,12 @@
 {
   "description": "This is Peggy Gou. The essential tracks, all in one playlist.",
-  "num_followers": 55554,
+  "num_followers": 55567,
   "original_name": "This Is Peggy Gou",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAADUP+U2O6Puk1FzOy5H+9Jo",
+  "snapshot_id": "aF8wgAAAAADIy+nSPuYA9qKfCVe1/eOT",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Find The Way",
-        "url": "https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 237160,
-      "name": "Find The Way",
-      "url": "https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "like JENNIE",
         "url": "https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 208375,
       "name": "like JENNIE - Peggy Gou Remix",
       "url": "https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Find The Way",
+        "url": "https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 237160,
+      "name": "Find The Way",
+      "url": "https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn"
     },
     {
       "added_at": null,
@@ -151,6 +151,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "D.A.N.C.E (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/2AgQHiCnhTpiOwZ29rrZ6v"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "duration_ms": 195404,
+      "name": "D.A.N.C.E - From F1\u00ae The Movie",
+      "url": "https://open.spotify.com/track/15cIdgwfMw0YRunjzxtui9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nabi (feat. Ohhyuk)",
         "url": "https://open.spotify.com/album/06LftbqN9jVmaHDFq4eitA"
       },
@@ -183,26 +203,6 @@
       "duration_ms": 242982,
       "name": "Han Jan - Edit",
       "url": "https://open.spotify.com/track/0R7KkoK3CRaKwb9gYeH1st"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D.A.N.C.E (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/2AgQHiCnhTpiOwZ29rrZ6v"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
-        }
-      ],
-      "duration_ms": 195404,
-      "name": "D.A.N.C.E - From F1\u00ae The Movie",
-      "url": "https://open.spotify.com/track/15cIdgwfMw0YRunjzxtui9"
     },
     {
       "added_at": null,

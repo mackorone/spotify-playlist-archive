@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Dance To The Music",
+        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169266,
+      "name": "Are You Ready",
+      "url": "https://open.spotify.com/track/2vG9xnkx7v0780lL9zWRZa"
+    },
+    {
+      "album": {
         "name": "Small Talk",
         "url": "https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby8tlLbzqaH.md) - [plain]
 
 > White noise to help babies fall asleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,556 likes - 200 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,772 likes - 200 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby8tlLbzqaH.md) - [plain]
 | 59 | [White Noise for Relaxation](https://open.spotify.com/track/6C1WVY1WE6wXNXVAAZsb0x) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:44 |
 | 60 | [Dreamy Noise](https://open.spotify.com/track/5u7BfGhAyEdDOuE7SwKmPn) | [Peaceful Me](https://open.spotify.com/artist/0kqpe0tVo45rneU3mFLheu) | [White Dream Noise](https://open.spotify.com/album/7mrF4ggROKkyntvBLEl590) | 2:22 |
 | 61 | [Soulwaves](https://open.spotify.com/track/29udRWpKTQUjkPZZkliBVl) | [Sky Travis](https://open.spotify.com/artist/5IkHDfUNRiqyATjgbDHuGy) | [Soulwaves](https://open.spotify.com/album/1THmxeqFdDM57e9QrDY23i) | 2:53 |
-| 62 | [White Noise Soul](https://open.spotify.com/track/6rN42ucxz8KE5aTEpfeIOY) | [Indika](https://open.spotify.com/artist/6vl0jfkfF6pKuUQPJhWshU) | [Noisy Element](https://open.spotify.com/album/1CrQyQYY5MXE1A6T0LAu1O) | 2:42 |
-| 63 | [Hugging White Noise](https://open.spotify.com/track/2InYISGssmeLsVXzLCC6iw) | [Klangspiel](https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX) | [Peaceful Flow of White Noise](https://open.spotify.com/album/0FYx1eAmRmf8v2b83MtvQe) | 4:30 |
+| 62 | [Hugging White Noise](https://open.spotify.com/track/2InYISGssmeLsVXzLCC6iw) | [Klangspiel](https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX) | [Peaceful Flow of White Noise](https://open.spotify.com/album/0FYx1eAmRmf8v2b83MtvQe) | 4:30 |
+| 63 | [White Noise Soul](https://open.spotify.com/track/6rN42ucxz8KE5aTEpfeIOY) | [Indika](https://open.spotify.com/artist/6vl0jfkfF6pKuUQPJhWshU) | [Noisy Element](https://open.spotify.com/album/1CrQyQYY5MXE1A6T0LAu1O) | 2:42 |
 | 64 | [The Deep White](https://open.spotify.com/track/0qaFcuTx3BEEu4ZSaKCfiu) | [Taekoma](https://open.spotify.com/artist/2T7PXFO7TnyryQ8dvpD9Di) | [The Deep White](https://open.spotify.com/album/5I2zI1uaNWKCgyvY6VhbO4) | 3:08 |
 | 65 | [Dull White Noise](https://open.spotify.com/track/2NbKo7vh9ysSALZTCb2wiw) | [Valdervande](https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX) | [Out Cold with White Noise](https://open.spotify.com/album/7izx6fRu7oJnc608X5wG70) | 4:04 |
 | 66 | [Ljudet av en skugga](https://open.spotify.com/track/3po8Ur8zo1NZ6mbk0nxUAJ) | [Akvavit](https://open.spotify.com/artist/3vvY6bfFNRymVmylw2vfGy) | [Vitt Brus](https://open.spotify.com/album/5pYHh9WVIkmt8thx2nMvlT) | 2:44 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby8tlLbzqaH.md) - [plain]
 | 93 | [White Noise asleep on my feet](https://open.spotify.com/track/5RbVq0wsb6uAwFBYNzqHuD) | [A Dreaming Machine](https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA) | [White Noise Sleep Frequencies](https://open.spotify.com/album/52N8PBq0YZxmu3A5ywct3C) | 3:34 |
 | 94 | [Low Slow Noise](https://open.spotify.com/track/5RpqglzYhFDpxDlQXwol9P) | [Soundstars](https://open.spotify.com/artist/3q6rhbbRqf3kP062yQ4ro8) | [Low Slow Noise](https://open.spotify.com/album/3duCww2adwRWRR8811ErjL) | 2:05 |
 | 95 | [Smooth White Noise](https://open.spotify.com/track/7DqTiksMnzXDEb3WPh2VVC) | [Focus Finders](https://open.spotify.com/artist/46PyhxzOXadyGA2297Fp68) | [Smooth White Noise](https://open.spotify.com/album/7oXC4G3sDmIDpNeXogPBGa) | 2:23 |
-| 96 | [White Noise \- 70 Hz Cut](https://open.spotify.com/track/7gyYjuFYMqe6newbb6wKEI) | [Inscription](https://open.spotify.com/artist/0MlpjV25yBPHGlsGnsWVYy) | [Dream Hunting](https://open.spotify.com/album/6n11QD5OlItf8AEJJDFxJS) | 2:24 |
-| 97 | [White Arctic Noise](https://open.spotify.com/track/7DbUDCoC1XwQ3Xq4R1Nf8T) | [Focus Noise](https://open.spotify.com/artist/15nL9hF1vK3mHTqpV9Z2jP) | [Fluffy Winds](https://open.spotify.com/album/11utgFeLO1G1HZsyPEaj6U) | 2:45 |
+| 96 | [White Arctic Noise](https://open.spotify.com/track/7DbUDCoC1XwQ3Xq4R1Nf8T) | [Focus Noise](https://open.spotify.com/artist/15nL9hF1vK3mHTqpV9Z2jP) | [Fluffy Winds](https://open.spotify.com/album/11utgFeLO1G1HZsyPEaj6U) | 2:45 |
+| 97 | [White Noise \- 70 Hz Cut](https://open.spotify.com/track/7gyYjuFYMqe6newbb6wKEI) | [Inscription](https://open.spotify.com/artist/0MlpjV25yBPHGlsGnsWVYy) | [Dream Hunting](https://open.spotify.com/album/6n11QD5OlItf8AEJJDFxJS) | 2:24 |
 | 98 | [Sleeping Like a Baby with White Noise](https://open.spotify.com/track/0sb1fCD9OSi43f1mMFbdsc) | [Atmosphere of Calm](https://open.spotify.com/artist/42KcSR239KEB90nE0wzA09) | [White Noise Sleeping Pill](https://open.spotify.com/album/0H8mV5NFiwHiNP9hAizSLZ) | 2:24 |
 | 99 | [Smooth White Colors](https://open.spotify.com/track/3Xj7GjfLNoVM7uEUp4OApN) | [Citys Of Collides](https://open.spotify.com/artist/12h32e6YMBk03yUo8tySbQ) | [Smooth White Colors](https://open.spotify.com/album/2DIIYdv1sA6E17eExpHLBk) | 2:21 |
 | 100 | [White Noise Flakes](https://open.spotify.com/track/0wVyUtOvYWJvniPRidlNnQ) | [The White Noise Travelers](https://open.spotify.com/artist/2lzZvKC270yTvCR38zFsH5) | [White Noise Flakes](https://open.spotify.com/album/186AWO9dm1Ly8aNBWBuA2p) | 4:32 |

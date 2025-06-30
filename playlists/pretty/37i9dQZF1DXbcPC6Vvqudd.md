@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 
 > Sleep with sounds of pouring rain and occasional rolling thunder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,562,517 likes - 325 songs - 14 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,562,679 likes - 325 songs - 14 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -218,8 +218,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 | 208 | [Zzzznoooring Robo\-Rain](https://open.spotify.com/track/1MYqyiwUgEMEtBj0f85fMw) | [Utmost\-@mos](https://open.spotify.com/artist/2rTA4Aq0QblqZJ2AwY7R4n) | [Robots No Like Rain](https://open.spotify.com/album/5AW4RXxpj4eNmtNdOtfEMy) | 2:25 |
 | 209 | [Storming For Days](https://open.spotify.com/track/4JLJG5dgymA545MS4u95bZ) | [Salvo](https://open.spotify.com/artist/4PHEKFLzjQUNk5zenIMW9n) | [Thundershower](https://open.spotify.com/album/6yMeqScBJeUR6uWV1ea3ve) | 3:36 |
 | 210 | [Thunder Through The Night](https://open.spotify.com/track/06gtbxmgyG7uYuDDsorKSg) | [Myrs](https://open.spotify.com/artist/6xqQc4rYEbyc9YV7cHZY6Y) | [Nature Rumble](https://open.spotify.com/album/2VBhhO8AUOD9HnJN4kYifp) | 2:12 |
-| 211 | [Take Cover](https://open.spotify.com/track/6pWat1ynyacwfE9gmyqw3B) | [Oluja](https://open.spotify.com/artist/4NezsL00vYvCDeBNlLYEtV) | [Take Cover](https://open.spotify.com/album/7xIxj7pi7fuSSfNjOYcpxJ) | 3:00 |
-| 212 | [Rain White Noise](https://open.spotify.com/track/7wiYlHZDFHzFJt3YvdZ3Qc) | [Score Of The Poar](https://open.spotify.com/artist/1wF4K9mRRgY5YGI0Jv1HIt) | [Score Of The Poar](https://open.spotify.com/album/6pRNToDMypeLLooSSz7Vby) | 2:00 |
+| 211 | [Rain White Noise](https://open.spotify.com/track/7wiYlHZDFHzFJt3YvdZ3Qc) | [Score Of The Poar](https://open.spotify.com/artist/1wF4K9mRRgY5YGI0Jv1HIt) | [Score Of The Poar](https://open.spotify.com/album/6pRNToDMypeLLooSSz7Vby) | 2:00 |
+| 212 | [Take Cover](https://open.spotify.com/track/6pWat1ynyacwfE9gmyqw3B) | [Oluja](https://open.spotify.com/artist/4NezsL00vYvCDeBNlLYEtV) | [Take Cover](https://open.spotify.com/album/7xIxj7pi7fuSSfNjOYcpxJ) | 3:00 |
 | 213 | [Magic Skies](https://open.spotify.com/track/76AKzeKmKutPgOAjgQBzYx) | [Embrace the Rain](https://open.spotify.com/artist/5sZvIwOBG1ngPYqGjzK5C2) | [Magic Skies](https://open.spotify.com/album/38Qhx2XFJufpeO72WTYrQK) | 3:50 |
 | 214 | [Storm During Night](https://open.spotify.com/track/0DhLvC2rnUUEffwwHYoCt6) | [Atmospheric Force](https://open.spotify.com/artist/6Py5HyyKAoChKdXs6CofD8) | [Stormy Conditions](https://open.spotify.com/album/54Sg1PfgxhbOgIrCmxMuwf) | 2:47 |
 | 215 | [Calm Rain, Thunder](https://open.spotify.com/track/3Gp2W5Po1dSh0oMTxA8LGX) | [Climate Hive](https://open.spotify.com/artist/3mSx3nlKy6R4HHqeRVFLxx) | [Climate Hive](https://open.spotify.com/album/5hzGqR8lmwzh3bnz21ZO8K) | 2:08 |
@@ -297,8 +297,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 | 287 | [Santa Rosa](https://open.spotify.com/track/4WUknVj32CkjuRtNelRm8l) | [Brisa Matinal](https://open.spotify.com/artist/1DXZ1YHbVYMnaiBKoqiBqd) | [Santa Rosa](https://open.spotify.com/album/6JFU8X93Atd9FCMO2Sy0yW) | 2:47 |
 | 288 | [Will it ever stop raining?](https://open.spotify.com/track/1LA1g4jm8cJuKPwwWZzu2M) | [REGN](https://open.spotify.com/artist/2gyk8wYChmm41Fvq6TYBjM) | [It's been raining all day](https://open.spotify.com/album/4Z0vgQWxrtzmPGOhP7hLVf) | 3:32 |
 | 289 | [Cloudrunner](https://open.spotify.com/track/6iUnKEbLtm1CFrchovbx2D) | [Majestik](https://open.spotify.com/artist/4yiEWZ9B3XrSXHBxWbnfqT) | [Cloudrunner](https://open.spotify.com/album/5tjrixSgphGXHa6CfFRjCF) | 2:50 |
-| 290 | [Focus Rain On Shore](https://open.spotify.com/track/74tDgRyL1BSz4nNFNVTWxq) | [Liquid Planet Recordings](https://open.spotify.com/artist/6jdXzmcf0crcLQOkn58oLQ) | [Calming Rain Sounds](https://open.spotify.com/album/2cvVce7JBqeqyCSHvPSR9g) | 2:29 |
-| 291 | [Rainable](https://open.spotify.com/track/2w3HZGGOknK3juCyLzGBr0) | [Splash n' Dash](https://open.spotify.com/artist/3H8JEgORKc06mYrKIaFMPa) | [Rainable](https://open.spotify.com/album/30ryu3DbZyLyI81WnELdfQ) | 2:50 |
+| 290 | [Rainable](https://open.spotify.com/track/2w3HZGGOknK3juCyLzGBr0) | [Splash n' Dash](https://open.spotify.com/artist/3H8JEgORKc06mYrKIaFMPa) | [Rainable](https://open.spotify.com/album/30ryu3DbZyLyI81WnELdfQ) | 2:50 |
+| 291 | [Focus Rain On Shore](https://open.spotify.com/track/74tDgRyL1BSz4nNFNVTWxq) | [Liquid Planet Recordings](https://open.spotify.com/artist/6jdXzmcf0crcLQOkn58oLQ) | [Calming Rain Sounds](https://open.spotify.com/album/2cvVce7JBqeqyCSHvPSR9g) | 2:29 |
 | 292 | [Flooded from the sky](https://open.spotify.com/track/3frFclleWKB23o18SHPujJ) | [Artonym](https://open.spotify.com/artist/1cyPW4frKbhmtMQ8XVLsMN) | [Rainy morning](https://open.spotify.com/album/0gkY3SfGSCoMWVV7TpT1z4) | 2:22 |
 | 293 | [Wake Up When The Storm Is Over](https://open.spotify.com/track/1dw8g82GWDDGkemAA8n5A1) | [Ogień](https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw) | [Storm Approaching](https://open.spotify.com/album/05Tl9xJsN9dbV48y70MBks) | 3:36 |
 | 294 | [Pluie légère](https://open.spotify.com/track/1tQIg93C2Vq70UTa50vUE3) | [Effectum](https://open.spotify.com/artist/7mudgeojeGL4IruR03vmFb) | [Tonnerre et pluie](https://open.spotify.com/album/3wduQV3xbgPHB4QmHFkqYI) | 2:47 |

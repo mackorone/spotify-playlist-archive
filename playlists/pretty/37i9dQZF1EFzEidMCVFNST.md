@@ -296,8 +296,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 286 | [Tudo Menos Eu](https://open.spotify.com/track/4EODLyr6AaSmJf1t8RVGBO) | [Thauane](https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V), [MVP Hits](https://open.spotify.com/artist/34pdHPgzLjufpowIO8XqEi) | [Country Brasil](https://open.spotify.com/album/2xerAMTP9g0Xb4JDitakRY) | 3:00 |
 | 287 | [Meu Desejo](https://open.spotify.com/track/5FDbzb80lKwEuRAstYeyc9) | [Marcus Vinícius](https://open.spotify.com/artist/5OEFHjHQSRKBw7vl4H3kE2) | [Meu Desejo](https://open.spotify.com/album/6iQFHWFPmEcxtWbNRfw0SR) | 5:30 |
 | 288 | [Tu Quer Fuder com Minha Vida?](https://open.spotify.com/track/2OwVZu7xO2BMnLNKfGM57r) | [Thiago Vas](https://open.spotify.com/artist/2CBClYgflxpLjU1YBatxUn) | [Tu Quer Fuder com Minha Vida?](https://open.spotify.com/album/3KJgaEu0WkqwMprMD0bHdy) | 2:34 |
-| 289 | [Fora da Casinha](https://open.spotify.com/track/2aLv1tyf4IFw1rzn26urEO) | [Iury Flores](https://open.spotify.com/artist/4cPlmIA5uZhDVIOwKXQXRd) | [Iury Flores](https://open.spotify.com/album/2g29C59QfSE52qRru3KtN9) | 2:36 |
-| 290 | [Mordida e Carinho](https://open.spotify.com/track/6ndDchFJol1XKQQ4GmMqei) | [Bia Brasil](https://open.spotify.com/artist/6pdabG7kszf6TdiJYHH1zx) | [Boteco da Novinha](https://open.spotify.com/album/0qBFDBVwVGkpqzJrbvJkBj) | 1:59 |
+| 289 | [Mordida e Carinho](https://open.spotify.com/track/6ndDchFJol1XKQQ4GmMqei) | [Bia Brasil](https://open.spotify.com/artist/6pdabG7kszf6TdiJYHH1zx) | [Boteco da Novinha](https://open.spotify.com/album/0qBFDBVwVGkpqzJrbvJkBj) | 1:59 |
+| 290 | [Fora da Casinha](https://open.spotify.com/track/2aLv1tyf4IFw1rzn26urEO) | [Iury Flores](https://open.spotify.com/artist/4cPlmIA5uZhDVIOwKXQXRd) | [Iury Flores](https://open.spotify.com/album/2g29C59QfSE52qRru3KtN9) | 2:36 |
 | 291 | [Tu Quer Foder Com a Minha Vida](https://open.spotify.com/track/1rhodSEhHPZMq6z9ydgDsh) | [Piseiro de Oz](https://open.spotify.com/artist/0WQk3NVodhyYQ14EINGIlg) | [Tu Quer Foder Com a Minha Vida](https://open.spotify.com/album/0ZGpXkooDu1x35azSJhBWw) | 2:11 |
 | 292 | [Me Bloqueia Aí](https://open.spotify.com/track/0utltvJp9b2ZpIZjQTL2NV) | [Pablo Dez](https://open.spotify.com/artist/544PiyzO4Bvgl8podt4AhS) | [No Balanço do P10](https://open.spotify.com/album/0NWRfejnCJmKYWlxPa5sCS) | 2:44 |
 | 293 | [Xeque Mate](https://open.spotify.com/track/1oFZEYp028Mr4dpAkqyqpx) | [Menor](https://open.spotify.com/artist/0By75sLZQ06mWyzNiSdLUB) | [Acústico em Campos](https://open.spotify.com/album/1nrzwcI4qj87pevx4bMFPR) | 3:02 |
@@ -318,4 +318,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 308 | [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 |
 | 309 | [Usa Eu](https://open.spotify.com/track/3S5n25SLrJq2IhfOBMDnql) | [Tanury](https://open.spotify.com/artist/2nKnF9sJfToqlsxQpXGlW7) | [Tanury 2023](https://open.spotify.com/album/7pjafNe8mHr0Enwqgj8wAV) | 2:24 |
 
-Snapshot ID: `Ab1YSAAAAABx4bAfxtF0bjNaYKj3yjBL`
+Snapshot ID: `Ab1d6AAAAACzVc3ypZxDsdYp3N8XLAq2`

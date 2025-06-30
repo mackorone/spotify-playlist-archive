@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 
 > Toutes les nouveautés préférées de vos enfants\. Découvrez les nouvelles chansons favorites de la famille!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 16 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

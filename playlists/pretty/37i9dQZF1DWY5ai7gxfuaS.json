@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 316216,
+  "num_followers": 316255,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,34 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
+        "url": "https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Daryl Palumbo",
+          "url": "https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX"
+        },
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 189552,
+      "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
+      "url": "https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "AFRAID TO DIE",
         "url": "https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T"
       },
@@ -239,54 +267,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "70% Dead",
-        "url": "https://open.spotify.com/album/1wmcwUhzuxcM56xaBqd0dC"
-      },
-      "artists": [
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        },
-        {
-          "name": "Corey Taylor",
-          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
-        }
-      ],
-      "duration_ms": 222145,
-      "name": "70% Dead (with Corey Taylor)",
-      "url": "https://open.spotify.com/track/4gFhDuhoCailJyDV99V0Ww"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
-        "url": "https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Daryl Palumbo",
-          "url": "https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX"
-        },
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 189552,
-      "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
-      "url": "https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "FAIRY PHONK",
         "url": "https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 125454,
       "name": "KILL ALL PREDATORS",
       "url": "https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "70% Dead",
+        "url": "https://open.spotify.com/album/1wmcwUhzuxcM56xaBqd0dC"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        },
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "duration_ms": 222145,
+      "name": "70% Dead (with Corey Taylor)",
+      "url": "https://open.spotify.com/track/4gFhDuhoCailJyDV99V0Ww"
     },
     {
       "added_at": "2024-07-19 10:51:43",

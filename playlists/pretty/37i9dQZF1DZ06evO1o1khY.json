@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 39070,
+  "num_followers": 39092,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAACXyy7RTGjNiS1sdLuzI/xd",
+  "snapshot_id": "aF8wgAAAAABK5irbjUG/8SqyXDTYEdKk",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drifting Away",
+        "url": "https://open.spotify.com/album/2JkHowxSCOloyq23lbE0Y2"
+      },
+      "artists": [
+        {
+          "name": "OMB Peezy",
+          "url": "https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 213608,
+      "name": "Lay Down - Remix",
+      "url": "https://open.spotify.com/track/0X6cTSh5f6uB8Us5jfWkZW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Said I Love You First... And You Said It Back",
         "url": "https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 163631,
       "name": "Cowboy (with GloRilla) - GloRilla Remix",
       "url": "https://open.spotify.com/track/0OXYEWAt2zwWjJJsASxY2A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drifting Away",
-        "url": "https://open.spotify.com/album/2JkHowxSCOloyq23lbE0Y2"
-      },
-      "artists": [
-        {
-          "name": "OMB Peezy",
-          "url": "https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 213608,
-      "name": "Lay Down - Remix",
-      "url": "https://open.spotify.com/track/0X6cTSh5f6uB8Us5jfWkZW"
     },
     {
       "added_at": null,
@@ -895,38 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyways, Life\u2019s Great\u2026Bonus Edition",
-        "url": "https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 152759,
-      "name": "Don't Know (GloRidaz Bonus)",
-      "url": "https://open.spotify.com/track/0GBGLP9DxzTzbaeYzGjW48"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 190276,
-      "name": "No More Love",
-      "url": "https://open.spotify.com/track/4LDsVBEtxW7Y2liU2wJokp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FTCU (feat. GloRilla & Gangsta Boo)",
         "url": "https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB"
       },
@@ -947,6 +915,38 @@
       "duration_ms": 145655,
       "name": "FTCU (feat. GloRilla & Gangsta Boo)",
       "url": "https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 190276,
+      "name": "No More Love",
+      "url": "https://open.spotify.com/track/4LDsVBEtxW7Y2liU2wJokp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026Bonus Edition",
+        "url": "https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 152759,
+      "name": "Don't Know (GloRidaz Bonus)",
+      "url": "https://open.spotify.com/track/0GBGLP9DxzTzbaeYzGjW48"
     },
     {
       "added_at": null,

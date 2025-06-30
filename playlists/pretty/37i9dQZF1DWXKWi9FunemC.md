@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > For those who like a little bit of coffee with their Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,426 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,604 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 21 | [Brother](https://open.spotify.com/track/0MXrQzGM4sD9de2FTRIi8x) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [Brother](https://open.spotify.com/album/7KjkVkrQ2FpCySvsn4RiyU) | 3:58 |
 | 22 | [L E P E R S](https://open.spotify.com/track/2HWybNOk657p30rPcjBDK7) | [Joshua Leventhal](https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5), [Atmos One](https://open.spotify.com/artist/2hUBrOilKr0a6llHEBvuSu) | [L E P E R S](https://open.spotify.com/album/2H0tX8aY7tv7oEZIUElWBg) | 4:10 |
 | 23 | [Be My Shalom](https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Be My Shalom](https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac) | 3:07 |
-| 24 | [Refuge](https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp) | [Grant Leslie](https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6) | [Refuge](https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH) | 4:37 |
+| 24 | [Holy Forever \- Acoustic](https://open.spotify.com/track/1Qz6A8AWuukckIksROXJCD) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Holy Forever \(Acoustic\)](https://open.spotify.com/album/2PbAV9JMhQr8Rk5myr5AOc) | 4:28 |
 | 25 | [on Christ the solid rock i stand.](https://open.spotify.com/track/6fP3NjTunAImDXulVyQsJ4) | [Spencer Boliou](https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx), [Lofi Hymns.](https://open.spotify.com/artist/20ZyjUv8IineeYzi9PfLcW) | [on Christ the solid rock i stand.](https://open.spotify.com/album/1ZRO38QdmEVALJHT7MYb7r) | 2:34 |
-| 26 | [Holy Forever \- Acoustic](https://open.spotify.com/track/1Qz6A8AWuukckIksROXJCD) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Holy Forever \(Acoustic\)](https://open.spotify.com/album/2PbAV9JMhQr8Rk5myr5AOc) | 4:28 |
+| 26 | [Refuge](https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp) | [Grant Leslie](https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6) | [Refuge](https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH) | 4:37 |
 | 27 | [Wide Place](https://open.spotify.com/track/1qFmMmrBHzQUqyJJdzw8dM) | [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [Wide Place](https://open.spotify.com/album/7crZBLTSSyZruPHligC2sp) | 4:22 |
 | 28 | [Be My Glory](https://open.spotify.com/track/3pMmt4q1EBrJlHZ874TC4s) | [Trulah](https://open.spotify.com/artist/7yUqjhujjMXv4QHq59Q9wR) | [Be My Glory](https://open.spotify.com/album/6avlRanbNswBYSWbB7T4zf) | 4:22 |
 | 29 | [Breathe](https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Note To Self](https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw) | 2:52 |

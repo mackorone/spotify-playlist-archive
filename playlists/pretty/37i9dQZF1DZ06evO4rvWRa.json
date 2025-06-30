@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1641968,
+  "num_followers": 1641951,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAACVPsWkyB4yzGjuvmxOTPCZ",
+  "snapshot_id": "aF8wgAAAAADSPJ/TkqrlU3u1Rt/VvfX5",
   "tracks": [
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Drum",
-        "url": "https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 189287,
-      "name": "The Drum",
-      "url": "https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legends Never Die (Remix)",
         "url": "https://open.spotify.com/album/2cRJKhNgs1Snq7bV4ELLho"
       },
@@ -595,30 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
-        "url": "https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w"
+        "name": "The Drum",
+        "url": "https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H"
       },
       "artists": [
         {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "YUQI",
-          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "i-dle",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
-      "duration_ms": 123624,
-      "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
-      "url": "https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy"
+      "duration_ms": 189287,
+      "name": "The Drum",
+      "url": "https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ"
     },
     {
       "added_at": null,
@@ -643,6 +615,34 @@
       "duration_ms": 152214,
       "name": "PS5",
       "url": "https://open.spotify.com/track/3YQkC6dE9YE9sH1751qqEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
+        "url": "https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 123624,
+      "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
+      "url": "https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy"
     },
     {
       "added_at": null,

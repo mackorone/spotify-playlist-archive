@@ -3585,6 +3585,24 @@
     },
     {
       "album": {
+        "name": "Hive Mind",
+        "url": "https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220586,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/1l32mo5oW5oIRRjNnVJBNR"
+    },
+    {
+      "album": {
         "name": "Confessions",
         "url": "https://open.spotify.com/album/5GDRXm5vahoRbkSiqXrGi3"
       },

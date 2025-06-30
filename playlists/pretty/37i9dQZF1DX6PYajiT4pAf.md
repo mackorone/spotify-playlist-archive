@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Myke Towers, Abraham Mateo, Cris Mj, Anuel AA, Arcángel & María Becerra y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,164 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,221 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

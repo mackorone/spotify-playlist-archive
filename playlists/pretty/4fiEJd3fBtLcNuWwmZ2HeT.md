@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 302 songs - 17 hr 5 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 303 songs - 17 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 58 | [Last Dance](https://open.spotify.com/track/4gM814NneKElxn37F5Ht7G) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Otogi](https://open.spotify.com/album/0DPYGljGMyfZU00CGnDJJo) | 4:00 |
 | 59 | [Nonsense Bungaku](https://open.spotify.com/track/4PaZP3ZPHCl6IpFUSuY1Rn) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bunka](https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI) | 3:23 |
 | 60 | [Delusion](https://open.spotify.com/track/09jUEiCTmG8Ec4zDmmFjV4) | [Andora](https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi), [juu](https://open.spotify.com/artist/6YDsIjHPnVrYoZRbqlbxAw) | [Delusion](https://open.spotify.com/album/4hHSg9VVMEIyXVH5WUJA47) | 3:18 |
-| 61 | [よふかしのうた](https://open.spotify.com/track/1j6Agt1Sn2DjQ0NA33J3r2) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [よふかしのうた](https://open.spotify.com/album/6peWfaCCNUTETgugcpNHed) | 4:00 |
+| 61 | [よふかしのうた \- Yofukashino Uta](https://open.spotify.com/track/1j6Agt1Sn2DjQ0NA33J3r2) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [よふかしのうた](https://open.spotify.com/album/6peWfaCCNUTETgugcpNHed) | 4:00 |
 | 62 | [愛して 愛して 愛して](https://open.spotify.com/track/3ty4jnVIJ9My8ZnXFMc0Fg) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク3](https://open.spotify.com/album/5eSuy3Rr40DI0qcPOMFgX0) | 4:12 |
 | 63 | [Dive Back In Time \- 动画《时光代理人》片头曲](https://open.spotify.com/track/5MDff48720BZmPEOs3kHpF) | [BaishaJAWS](https://open.spotify.com/artist/1Urg6a4MvccwltzRKTwtgv) | [时光代理人 \(动画《时光代理人》原声带\)](https://open.spotify.com/album/21PcXK6X2irUZ1KSNwk3jy) | 2:54 |
 | 64 | [L'Étoile D'afrique \- \#18](https://open.spotify.com/track/1xHDxvqZduPRMqOCdiAKNZ) | [VDYCD](https://open.spotify.com/artist/6ZtfvZofStC4xF34rNriyY) | [L'Étoile D'afrique \- \#18](https://open.spotify.com/album/6FTxbDk1yg57rx0hLnAgx0) | 1:45 |
-| 65 | [堕天 \- Daten](https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [堕天](https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA) | 2:52 |
+| 65 | [堕天 \- Daten](https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [堕天 \- Daten](https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA) | 2:52 |
 | 66 | [ギターと孤独と蒼い惑星](https://open.spotify.com/track/17rhDgnYYryQU4uS71ZxFu) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [ギターと孤独と蒼い惑星](https://open.spotify.com/album/6PmIi4asxDdrpIcZKHYfWp) | 3:48 |
 | 67 | [あのバンド](https://open.spotify.com/track/6wvTBMe3zZBv4W3OlpPGbS) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [あのバンド](https://open.spotify.com/album/0Q7q1edTAuH2hifLVFjscF) | 3:33 |
 | 68 | [星座になれたら](https://open.spotify.com/track/3vW2EZcRS0JtADChw8oKP8) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [星座になれたら](https://open.spotify.com/album/45zwTVu2P0jYhlwr0ORNNP) | 4:18 |
@@ -310,5 +310,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 300 | [薄ら氷心中](https://open.spotify.com/track/1DxOabtnI3W4ouECc6AdyT) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [逆輸入 〜航空局〜](https://open.spotify.com/album/4IyZbkR6R4oIcuckwSrJQj) | 3:12 |
 | 301 | [''''''](https://open.spotify.com/track/2IdCKcMOO5FuAGvYqsZ6p3) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [''''''](https://open.spotify.com/album/5uhEQY2SM46YFVt0KTBqTu) | 2:32 |
 | 302 | [＃曖昧人生](https://open.spotify.com/track/53hxSCel6qACDWZxH8iscW) | [Aogumo](https://open.spotify.com/artist/605C4AcUUwB66JjpKjX1aO) | [＃曖昧人生](https://open.spotify.com/album/4eUuJBH7xGW2uNlAX2NTsm) | 3:06 |
+| 303 | [Cubism](https://open.spotify.com/track/1kNX0OJo68zyYfeyTDyp78) | [Qisano](https://open.spotify.com/artist/4lxIvq3a7DcynJVycpSpML) | [Cubism](https://open.spotify.com/album/758JEaGEMDLXtFFCLxs1wc) | 3:25 |
 
-Snapshot ID: `AAAJFUhOXAcq8XvFVH+ivKPr4RPUtU60`
+Snapshot ID: `AAAJFhBQ+IMG3IXMknbFBeTcaC1ArDdp`

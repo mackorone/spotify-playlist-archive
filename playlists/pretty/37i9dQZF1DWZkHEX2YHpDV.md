@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Mayday Parade
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,741 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,685 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 44 | [Concrete Closure](https://open.spotify.com/track/3RrWw57zjyJayGbkrGYK5s) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Things Are Different Now](https://open.spotify.com/album/4NcoXQa5SMjILciWjMpHZg) | 3:25 |
 | 45 | [NOSE BLEED](https://open.spotify.com/track/5G46r5BatD8I1MRqeSPD8W) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [WAS HERE](https://open.spotify.com/album/57NMtVBwhchO8RyFm0LAfG) | 3:15 |
 | 46 | [MOTH KIDS](https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [MOTH KIDS](https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs) | 3:39 |
-| 47 | [I Think They Know](https://open.spotify.com/track/3o9p59E4kpxpmYdGWYujZS) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [I Think They Know](https://open.spotify.com/album/2ErSV0aa5yt4ZiZp2Z0Uk1) | 3:06 |
-| 48 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 |
-| 49 | [FEVER](https://open.spotify.com/track/6vgtAqnANqEZ8tUWGDSyjt) | [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [FEVER](https://open.spotify.com/album/0TE9DjZPAVT9LFtpjUhi6F) | 3:39 |
-| 50 | [Big Al Dente](https://open.spotify.com/track/09fJxz3rLdV0eWQTRHXzdY) | [Action/Adventure](https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF) | [Big Al Dente](https://open.spotify.com/album/58CxKelWY2FGZQbMTvB54K) | 2:50 |
-| 51 | [The Void](https://open.spotify.com/track/4OahsVvnCZad6ivwLhl2E3) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [The Void](https://open.spotify.com/album/2dMt1ndjlITJ38EiILWlNb) | 2:51 |
+| 47 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 |
+| 48 | [FEVER](https://open.spotify.com/track/6vgtAqnANqEZ8tUWGDSyjt) | [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [FEVER](https://open.spotify.com/album/0TE9DjZPAVT9LFtpjUhi6F) | 3:39 |
+| 49 | [Big Al Dente](https://open.spotify.com/track/09fJxz3rLdV0eWQTRHXzdY) | [Action/Adventure](https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF) | [Big Al Dente](https://open.spotify.com/album/58CxKelWY2FGZQbMTvB54K) | 2:50 |
+| 50 | [The Void](https://open.spotify.com/track/4OahsVvnCZad6ivwLhl2E3) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [The Void](https://open.spotify.com/album/2dMt1ndjlITJ38EiILWlNb) | 2:51 |
+| 51 | [I Think They Know](https://open.spotify.com/track/3o9p59E4kpxpmYdGWYujZS) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [I Think They Know](https://open.spotify.com/album/2ErSV0aa5yt4ZiZp2Z0Uk1) | 3:06 |
 | 52 | [We Need More Bricks](https://open.spotify.com/track/3HT0SJA32BW7c83sxpq3SF) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 3:48 |
 | 53 | [Constant Headache](https://open.spotify.com/track/2xJV9FaGKNMIecMOtjGxX0) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8), [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Constant Headache](https://open.spotify.com/album/7bjfE4DXQd0lN46FX4wIwK) | 3:01 |
 | 54 | [Caffeine](https://open.spotify.com/track/03g8UUClsnR55SzLYSqWHy) | [Mattstagraham](https://open.spotify.com/artist/48wLB9JErgk9YvhvAC1KQI) | [Caffeine](https://open.spotify.com/album/3P6BQLq4WpAZ5DH4sJ4GAs) | 3:10 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 79 | [Final Nail \(with Charlotte Sands\)](https://open.spotify.com/track/6kG3qEXGFZCC4OfGCRBW15) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Final Nail \(with Charlotte Sands\)](https://open.spotify.com/album/41yGbbLZbhBJqjSBuoOoG4) | 2:30 |
 | 80 | [Since Last Season](https://open.spotify.com/track/2uDLtO5AwTQBPMQQL4D018) | [Stateside](https://open.spotify.com/artist/2WpPJq3Z87oKW6NwADqkBu) | [Since Last Season](https://open.spotify.com/album/2CImGDvEnsit9XOkYVdyHT) | 2:51 |
 | 81 | [nosebleeds](https://open.spotify.com/track/0SMRtXWXIn7Xxr2FyNpyOt) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [i’m still breathing](https://open.spotify.com/album/2AyoTkItCVeDOWklLgo2KI) | 3:02 |
-| 82 | [only overnight](https://open.spotify.com/track/1LR0zEve8HCcu3voGG076M) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [only overnight](https://open.spotify.com/album/23bCI6XgLFrRQVQEORNP0R) | 3:02 |
-| 83 | [Goodbye For Now \(feat\. Julien Baker\)](https://open.spotify.com/track/0lPwT1JHuNFeXtIV6i6Eg2) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 4:20 |
-| 84 | [Hotel Lights](https://open.spotify.com/track/5kROR2oGzCpvI49c9fOS6K) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Hotel Lights](https://open.spotify.com/album/1xpHz8TOVagUG0KZzqTxX3) | 2:59 |
+| 82 | [Goodbye For Now \(feat\. Julien Baker\)](https://open.spotify.com/track/0lPwT1JHuNFeXtIV6i6Eg2) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 4:20 |
+| 83 | [Hotel Lights](https://open.spotify.com/track/5kROR2oGzCpvI49c9fOS6K) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Hotel Lights](https://open.spotify.com/album/1xpHz8TOVagUG0KZzqTxX3) | 2:59 |
+| 84 | [only overnight](https://open.spotify.com/track/1LR0zEve8HCcu3voGG076M) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [only overnight](https://open.spotify.com/album/23bCI6XgLFrRQVQEORNP0R) | 3:02 |
 | 85 | [Giving Up](https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:10 |
 | 86 | [The Weight](https://open.spotify.com/track/6CmXwYhKm1kO4W4yAbFlYm) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [The Weight](https://open.spotify.com/album/46E3II1W1u8hhSLqIthYpK) | 3:46 |
 | 87 | [Forgive \(feat\. Joe Taylor\)](https://open.spotify.com/track/7tWObLDZvkXipaTs2g5lVG) | [Shoreline](https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0), [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm), [Joe Taylor](https://open.spotify.com/artist/4387HtOiXHEbS4Q5Pik4JN) | [Forgive \(feat\. Joe Taylor\)](https://open.spotify.com/album/6irLE2wNOu7jpzi4LTiHRT) | 3:13 |

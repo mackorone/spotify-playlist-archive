@@ -1,12 +1,12 @@
 {
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 226362,
+  "num_followers": 226361,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAAAl6NmEJ336/nZjyiYKbwYK",
+  "snapshot_id": "aF8wgAAAAABiZbiCvbs8XV5BKPCYMOUs",
   "tracks": [
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psicosis 2",
-        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 180018,
-      "name": "Mis Defectos",
-      "url": "https://open.spotify.com/track/3DSMLWrSbDTQj6k6ZAhJvv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Marybel (Remix)",
         "url": "https://open.spotify.com/album/17cVR6PmWZBTbiIV3NH3yU"
       },
@@ -439,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Psicosis 2",
+        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 180018,
+      "name": "Mis Defectos",
+      "url": "https://open.spotify.com/track/3DSMLWrSbDTQj6k6ZAhJvv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Receta",
         "url": "https://open.spotify.com/album/2QgKob0qHmbDkIsugkw31v"
       },
@@ -479,6 +479,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Round 2 (feat. MC Davo) - Single",
+        "url": "https://open.spotify.com/album/6gEG4NR9X1VbaSv0lz5ETB"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Round 2",
+      "url": "https://open.spotify.com/track/3CVEOynsYT7V9lrNFPaZ8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Psicosis 2",
         "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 182168,
       "name": "Te Acostumbraste",
       "url": "https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Round 2 (feat. MC Davo) - Single",
-        "url": "https://open.spotify.com/album/6gEG4NR9X1VbaSv0lz5ETB"
-      },
-      "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Round 2",
-      "url": "https://open.spotify.com/track/3CVEOynsYT7V9lrNFPaZ8Y"
     },
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones Mamalonas 2",
-        "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Eirian Music",
-          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
-        }
-      ],
-      "duration_ms": 148351,
-      "name": "La Que Dec\u00eda Que No",
-      "url": "https://open.spotify.com/track/3eK1cGd1tYOV64neq82IKu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Dominio",
         "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 196880,
       "name": "El ma\u00f1ana (feat. Meny M\u00e9ndez)",
       "url": "https://open.spotify.com/track/7sHbmQpTnRLdXJMCeQGPcv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones Mamalonas 2",
+        "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Eirian Music",
+          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
+        }
+      ],
+      "duration_ms": 148351,
+      "name": "La Que Dec\u00eda Que No",
+      "url": "https://open.spotify.com/track/3eK1cGd1tYOV64neq82IKu"
     },
     {
       "added_at": null,
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Dominio",
+        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 198120,
+      "name": "Me ir\u00e9",
+      "url": "https://open.spotify.com/track/6CSexH4aNAaHWVyetH747g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canciones Mamalonas 2",
         "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 246605,
       "name": "Siempre Es Lo Mismo",
       "url": "https://open.spotify.com/track/2dbH2TKWAKoJxG1W0SZxmM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 198120,
-      "name": "Me ir\u00e9",
-      "url": "https://open.spotify.com/track/6CSexH4aNAaHWVyetH747g"
     },
     {
       "added_at": null,
@@ -951,6 +951,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "Mujer",
+      "url": "https://open.spotify.com/track/6S8ZsnBFjG5roenrxeArNv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canciones Mamalonas 2",
         "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 216750,
       "name": "Round 6",
       "url": "https://open.spotify.com/track/6Rd2d6J3DERtRZNJr5D4uX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones Mamalonas",
-        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "Mujer",
-      "url": "https://open.spotify.com/track/6S8ZsnBFjG5roenrxeArNv"
     },
     {
       "added_at": null,
@@ -1179,30 +1179,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vitamina",
-        "url": "https://open.spotify.com/album/2wkRViFOuLVi5TvUl5rwKE"
+        "name": "Canciones Mamalonas 2",
+        "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
       },
       "artists": [
-        {
-          "name": "Flyboiz",
-          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
-        },
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         },
         {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        },
-        {
-          "name": "Dave Gars\u00eda",
-          "url": "https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf"
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/7GCQmj0nyVwLTDJ7LV6Rdt"
         }
       ],
-      "duration_ms": 174666,
-      "name": "Vitamina",
-      "url": "https://open.spotify.com/track/1oc6FW18hQEUgDr25MePTB"
+      "duration_ms": 196235,
+      "name": "WARZONE FREESTYLE",
+      "url": "https://open.spotify.com/track/18nOndaCCg6hx4OfzbiBXm"
     }
   ],
   "unique_name": "This Is MC Davo",

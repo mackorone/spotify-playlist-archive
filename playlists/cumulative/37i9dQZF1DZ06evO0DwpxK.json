@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Ardemos",
+        "url": "https://open.spotify.com/album/1mrEEdNYQThxInXMHUDhX3"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150161,
+      "name": "Ardemos",
+      "url": "https://open.spotify.com/track/0TI6G2SV5iQ9IiXA5trjSj"
+    },
+    {
+      "album": {
         "name": "Arma Perfecta",
         "url": "https://open.spotify.com/album/23d7EuquSOt846dFTvqu3m"
       },

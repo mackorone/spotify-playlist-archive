@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 
 > This is Cynthia Erivo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,904 likes - 44 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,911 likes - 44 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 | 43 | [I Don't Know How to Love Him](https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [She is Risen: Volume One](https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE) | 4:19 |
 | 44 | [Bridge Over Troubled Water](https://open.spotify.com/track/3oYfGUdhyhlHRrb29EVdrA) | [Alison Jiear](https://open.spotify.com/artist/7JpWm6GJgOca4w9WejYES8), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Inspirational](https://open.spotify.com/album/4l3nsPf67pl9mqggEpmVVZ) | 6:00 |
 
-Snapshot ID: `aF3fAAAAAAAKwglbeEktsxJTAqfCE9eo`
+Snapshot ID: `aF8wgAAAAABs6KAt+0t35oaVB/nIQz8O`

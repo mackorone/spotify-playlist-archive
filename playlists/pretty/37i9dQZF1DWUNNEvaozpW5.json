@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Robe y Leiva.",
-  "num_followers": 599991,
+  "num_followers": 599964,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2025-06-26 22:00:13",
       "album": {
+        "name": "La Torre Picasso",
+        "url": "https://open.spotify.com/album/090Jo9iBjpgrcBwezLFTYq"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "duration_ms": 484573,
+      "name": "La Torre Picasso",
+      "url": "https://open.spotify.com/track/2Czaw41IWZLz5JxwLueamL"
+    },
+    {
+      "added_at": "2025-06-26 22:00:13",
+      "album": {
         "name": "Agila",
         "url": "https://open.spotify.com/album/3msSCqpQLoY0nl4RTSf1Is"
       },
@@ -647,38 +663,6 @@
     {
       "added_at": "2025-06-26 22:00:13",
       "album": {
-        "name": "Por la boca vive el pez",
-        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 375119,
-      "name": "Acabo de llegar",
-      "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
-    },
-    {
-      "added_at": "2025-06-26 22:00:13",
-      "album": {
-        "name": "La Torre Picasso",
-        "url": "https://open.spotify.com/album/090Jo9iBjpgrcBwezLFTYq"
-      },
-      "artists": [
-        {
-          "name": "Arde Bogot\u00e1",
-          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
-        }
-      ],
-      "duration_ms": 484573,
-      "name": "La Torre Picasso",
-      "url": "https://open.spotify.com/track/2Czaw41IWZLz5JxwLueamL"
-    },
-    {
-      "added_at": "2025-06-26 22:00:13",
-      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": "2025-06-26 22:00:13",
       "album": {
+        "name": "Por la boca vive el pez",
+        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 375119,
+      "name": "Acabo de llegar",
+      "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
+    },
+    {
+      "added_at": "2025-06-26 22:00:13",
+      "album": {
         "name": "Nacha Pop",
         "url": "https://open.spotify.com/album/5scxi8dzsvkrH6TamZv6NP"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 208026,
       "name": "Chica de ayer",
       "url": "https://open.spotify.com/track/4chpfrjIqrOPshlDU4ZrKe"
+    },
+    {
+      "added_at": "2025-06-26 22:00:13",
+      "album": {
+        "name": "Canciones Prohibidas",
+        "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
+      },
+      "artists": [
+        {
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+        }
+      ],
+      "duration_ms": 318986,
+      "name": "Salir",
+      "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
     },
     {
       "added_at": "2025-06-26 22:00:13",
@@ -759,22 +775,6 @@
       "duration_ms": 214553,
       "name": "Eso Que T\u00fa Me Das",
       "url": "https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI"
-    },
-    {
-      "added_at": "2025-06-26 22:00:13",
-      "album": {
-        "name": "Canciones Prohibidas",
-        "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
-      },
-      "artists": [
-        {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
-        }
-      ],
-      "duration_ms": 318986,
-      "name": "Salir",
-      "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
     },
     {
       "added_at": "2025-06-26 22:00:13",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-06-26 22:00:13",
       "album": {
-        "name": "La ley innata",
-        "url": "https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu"
-      },
-      "artists": [
-        {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
-        }
-      ],
-      "duration_ms": 462013,
-      "name": "Dulce introducci\u00f3n al caos",
-      "url": "https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a"
-    },
-    {
-      "added_at": "2025-06-26 22:00:13",
-      "album": {
         "name": "Muy Deficiente",
         "url": "https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 250093,
       "name": "El roce de tu cuerpo",
       "url": "https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl"
+    },
+    {
+      "added_at": "2025-06-26 22:00:13",
+      "album": {
+        "name": "28.000 pu\u00f1aladas",
+        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
+      },
+      "artists": [
+        {
+          "name": "Marea",
+          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
+        }
+      ],
+      "duration_ms": 305253,
+      "name": "Que se joda el viento",
+      "url": "https://open.spotify.com/track/35RZlC2of95tgErjy8BtVx"
     },
     {
       "added_at": "2025-06-26 22:00:13",
@@ -891,18 +891,18 @@
     {
       "added_at": "2025-06-26 22:00:13",
       "album": {
-        "name": "28.000 pu\u00f1aladas",
-        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
+        "name": "La ley innata",
+        "url": "https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu"
       },
       "artists": [
         {
-          "name": "Marea",
-          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
         }
       ],
-      "duration_ms": 305253,
-      "name": "Que se joda el viento",
-      "url": "https://open.spotify.com/track/35RZlC2of95tgErjy8BtVx"
+      "duration_ms": 462013,
+      "name": "Dulce introducci\u00f3n al caos",
+      "url": "https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a"
     },
     {
       "added_at": "2025-06-26 22:00:13",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2025-06-26 22:00:13",
       "album": {
+        "name": "28.000 pu\u00f1aladas",
+        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
+      },
+      "artists": [
+        {
+          "name": "Marea",
+          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "La rueca",
+      "url": "https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk"
+    },
+    {
+      "added_at": "2025-06-26 22:00:13",
+      "album": {
         "name": "Sin Tiempo",
         "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 275026,
       "name": "El Limite",
       "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
-    },
-    {
-      "added_at": "2025-06-26 22:00:13",
-      "album": {
-        "name": "28.000 pu\u00f1aladas",
-        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
-      },
-      "artists": [
-        {
-          "name": "Marea",
-          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "La rueca",
-      "url": "https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk"
     },
     {
       "added_at": "2025-06-26 22:00:13",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-06-26 22:00:13",
       "album": {
-        "name": "Veneno En La Piel",
-        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
-      },
-      "artists": [
-        {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Veneno en la Piel",
-      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
-    },
-    {
-      "added_at": "2025-06-26 22:00:13",
-      "album": {
         "name": "Mira",
         "url": "https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 288146,
       "name": "Me Quedo Contigo (Si Me Das A Elegir) - Live Ba\u00efonarena",
       "url": "https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5"
+    },
+    {
+      "added_at": "2025-06-26 22:00:13",
+      "album": {
+        "name": "Veneno En La Piel",
+        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
+      },
+      "artists": [
+        {
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Veneno en la Piel",
+      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
     },
     {
       "added_at": "2025-06-26 22:00:13",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-120 songs - 6 hr 41 min
+121 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Dopamine \- Radio Edit](https://open.spotify.com/track/1uzXNHa9hfU7WlIq0galfM) | [Xenia Ghali](https://open.spotify.com/artist/4iw0Pf0ZeTekpc6yqlGKYE) | [Dopamine](https://open.spotify.com/album/0q9AGhJrvZruxED1HFSLwf) | 3:40 | 2024-06-13 |  |
 | [Dreaming \(feat\. SMBDY\)](https://open.spotify.com/track/60n8BhJ1FWhKbhYOF0LzQr) | [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Dreaming \(feat\. SMBDY\)](https://open.spotify.com/album/5uURWNCgEuR1kob61OI0VJ) | 2:49 | 2024-06-13 |  |
 | [Ending](https://open.spotify.com/track/3mzpsnjF6D5lSInT5ADAyc) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Volume One](https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm) | 4:08 | 2024-06-13 |  |
-| [Euphoria \(with Alok\)](https://open.spotify.com/track/0NlhOzQ9ubCHkzyUMjRjZE) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI) | [Euphoria \(with Alok\)](https://open.spotify.com/album/6c9uG3aDLxi4U6eXDt7e2C) | 2:31 | 2025-02-13 |  |
+| [Euphoria \(with Alok\)](https://open.spotify.com/track/1pMOol5Ase1x8mmtq9dATj) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI) | [Breathe](https://open.spotify.com/album/1cQBiYoGAbgVkgf61zmppo) | 2:31 | 2025-06-29 |  |
+| [Euphoria \(with Alok\)](https://open.spotify.com/track/0NlhOzQ9ubCHkzyUMjRjZE) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI) | [Euphoria \(with Alok\)](https://open.spotify.com/album/6c9uG3aDLxi4U6eXDt7e2C) | 2:31 | 2025-02-13 | 2025-06-30 |
 | [Every Moment](https://open.spotify.com/track/6X0uczH3gOA4hbyPNdvSfb) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Every Moment](https://open.spotify.com/album/5YVNW4DIzAdA7gc1bJEW6X) | 2:53 | 2024-06-13 |  |
 | [Evolution](https://open.spotify.com/track/5T86BDcrE76auUDE6SGyvG) | [Katie Sky](https://open.spotify.com/artist/31bkgXHo67awewnmvrdsah) | [Evo](https://open.spotify.com/album/4iWd9ESivlAe73jkExfOSW) | 3:53 | 2024-06-13 |  |
 | [face it](https://open.spotify.com/track/2JFKhZApRjevePAHn8SKrR) | [Ruben Pol](https://open.spotify.com/artist/1eCiBMynCZBUlq0v5FeB2w) | [Infused Romance](https://open.spotify.com/album/2tLQcTuBFmEfuQZAsyB4Yj) | 3:00 | 2024-06-13 |  |

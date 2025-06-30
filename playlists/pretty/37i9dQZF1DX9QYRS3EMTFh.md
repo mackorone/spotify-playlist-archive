@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Meryl
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,272 likes - 40 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,404 likes - 40 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 
 > Recordamos la voz y personalidad de Dulce 🕊️
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,083 likes - 200 songs - 13 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,231 likes - 200 songs - 13 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

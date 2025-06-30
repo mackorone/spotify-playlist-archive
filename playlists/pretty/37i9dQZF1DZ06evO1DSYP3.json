@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5620,
+  "num_followers": 5619,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAADEtENvY7Kw4BADkQN1ERxU",
+  "snapshot_id": "aF8wgAAAAACZci8xwQJ0CpeuwnxR7Joq",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get Me Lit",
+        "url": "https://open.spotify.com/album/7FpzFkovqgilEa9eF7LJZW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 131794,
+      "name": "Get Me Lit",
+      "url": "https://open.spotify.com/track/3NHIF5vQRcSN4sGbtL2E8M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAJORLY INDEPENDENT",
         "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 238181,
       "name": "YANKIN!",
       "url": "https://open.spotify.com/track/7xkfjJyZbGXTDG9NnXF7aP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Me Lit",
-        "url": "https://open.spotify.com/album/7FpzFkovqgilEa9eF7LJZW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 131794,
-      "name": "Get Me Lit",
-      "url": "https://open.spotify.com/track/3NHIF5vQRcSN4sGbtL2E8M"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Hook",
+        "url": "https://open.spotify.com/album/6OwJ9S4elSLEbD1KnB6J2Z"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 96421,
+      "name": "No Hook",
+      "url": "https://open.spotify.com/track/1i4ecQNz28w6NTWGxIg1xE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAJORLY INDEPENDENT",
         "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 198165,
       "name": "GIVE ME A BEAT!",
       "url": "https://open.spotify.com/track/4h4kvQ00knFH2BrTITdEv4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Hook",
-        "url": "https://open.spotify.com/album/6OwJ9S4elSLEbD1KnB6J2Z"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 96421,
-      "name": "No Hook",
-      "url": "https://open.spotify.com/track/1i4ecQNz28w6NTWGxIg1xE"
     },
     {
       "added_at": null,
@@ -519,30 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAJORLY INDEPENDENT",
-        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
-      },
-      "artists": [
-        {
-          "name": "LaRussell",
-          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
-        },
-        {
-          "name": "MALACHI",
-          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 169566,
-      "name": "WHO ELSE YOU KNOW!?",
-      "url": "https://open.spotify.com/track/2MFzLd6FjVkUQzQIolalpO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Great Escape",
         "url": "https://open.spotify.com/album/1fTkNWLxLiuQZ4u5sdGXps"
       },
@@ -563,6 +539,30 @@
       "duration_ms": 203186,
       "name": "Lo Lo",
       "url": "https://open.spotify.com/track/3OOuvtYS6f6hQaTv1M5syj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAJORLY INDEPENDENT",
+        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "MALACHI",
+          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 169566,
+      "name": "WHO ELSE YOU KNOW!?",
+      "url": "https://open.spotify.com/track/2MFzLd6FjVkUQzQIolalpO"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PRIME",
+        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 159064,
+      "name": "bamboo",
+      "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Moovie!",
         "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 205480,
       "name": "On One",
       "url": "https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRIME",
-        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 159064,
-      "name": "bamboo",
-      "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Walked In",
+        "url": "https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 140811,
+      "name": "Walked In",
+      "url": "https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Lose Your Head",
         "url": "https://open.spotify.com/album/6LpAG5njnQXVbHfakYlHrI"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 161250,
       "name": "Don't Lose Your Head",
       "url": "https://open.spotify.com/track/4QMCkz3JSWOEl7jRsDWlWP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walked In",
-        "url": "https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 140811,
-      "name": "Walked In",
-      "url": "https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA"
     },
     {
       "added_at": null,
@@ -839,6 +839,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Before Anything - EP",
+        "url": "https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Jay Anthony",
+          "url": "https://open.spotify.com/artist/6PhukEDmCNt2jyDZnM4TrK"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "Light This Bitch Up",
+      "url": "https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
         "url": "https://open.spotify.com/album/71hd0wuPQtBxuEjphSGEVy"
       },
@@ -911,30 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Before Anything - EP",
-        "url": "https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Jay Anthony",
-          "url": "https://open.spotify.com/artist/6PhukEDmCNt2jyDZnM4TrK"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "Light This Bitch Up",
-      "url": "https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SHINE",
         "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
       },
@@ -999,22 +999,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEMONADE FREESTYLE REMIX",
-        "url": "https://open.spotify.com/album/2mo4R7bNtsrvgpEgIj4BC4"
+        "name": "Extra",
+        "url": "https://open.spotify.com/album/7iaqS5zgcPJsL5L0mLZ3uA"
       },
       "artists": [
         {
-          "name": "Darrell Medellin",
-          "url": "https://open.spotify.com/artist/1AaJ2wvoRTdxYhmGa4Akwl"
+          "name": "Clyde Carson",
+          "url": "https://open.spotify.com/artist/0FJpfR5Bq5EBl2xi0LAp1v"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 142654,
-      "name": "LEMONADE FREESTYLE REMIX",
-      "url": "https://open.spotify.com/track/5dx8Qd8i1zCNHGh8O7QTkD"
+      "duration_ms": 126896,
+      "name": "Extra",
+      "url": "https://open.spotify.com/track/3rkMh0mKXqyFbK2WtiizU5"
     },
     {
       "added_at": null,
@@ -1039,22 +1039,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extra",
-        "url": "https://open.spotify.com/album/7iaqS5zgcPJsL5L0mLZ3uA"
+        "name": "LEMONADE FREESTYLE REMIX",
+        "url": "https://open.spotify.com/album/2mo4R7bNtsrvgpEgIj4BC4"
       },
       "artists": [
         {
-          "name": "Clyde Carson",
-          "url": "https://open.spotify.com/artist/0FJpfR5Bq5EBl2xi0LAp1v"
+          "name": "Darrell Medellin",
+          "url": "https://open.spotify.com/artist/1AaJ2wvoRTdxYhmGa4Akwl"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 126896,
-      "name": "Extra",
-      "url": "https://open.spotify.com/track/3rkMh0mKXqyFbK2WtiizU5"
+      "duration_ms": 142654,
+      "name": "LEMONADE FREESTYLE REMIX",
+      "url": "https://open.spotify.com/track/5dx8Qd8i1zCNHGh8O7QTkD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STUNNA",
+        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "Lightswitch",
+      "url": "https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR"
     },
     {
       "added_at": null,
@@ -1079,22 +1095,6 @@
       "duration_ms": 175982,
       "name": "DAMN",
       "url": "https://open.spotify.com/track/2NKyXxgs4EuDfbbywhsfcj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STUNNA",
-        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "Lightswitch",
-      "url": "https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR"
     },
     {
       "added_at": null,

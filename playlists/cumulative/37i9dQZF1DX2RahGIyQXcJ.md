@@ -4,7 +4,7 @@
 
 > Best of Desi Hip\-Hop! Cover: Raftaar & Chaar Diwaari
 
-407 songs - 22 hr 50 min
+408 songs - 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [INAAYAT](https://open.spotify.com/track/6GfUrun4yWEpEF5EwzMSh0) | [MC INSANE](https://open.spotify.com/artist/7vlghc3VSBc7oPg2a2FRSq), [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc) | [INAAYAT](https://open.spotify.com/album/1YgUVdtmKoRXp4uYgU9cdf) | 3:00 | 2024-01-05 | 2024-03-22 |
 | [India](https://open.spotify.com/track/3JithsfVKaBYzOjnsmB5jy) | [ST MAN](https://open.spotify.com/artist/7FkwKgrWfjYJ3sgAFgGr31), [yung22](https://open.spotify.com/artist/4HT1TOJs3QffsWsU8NMGiH), [LIL NORZZA](https://open.spotify.com/artist/60zUKn8VMbii4A5pr1d4QF), [Lil Jhola](https://open.spotify.com/artist/3TcNMsKuZUc40MEFsKt3v1) | [India](https://open.spotify.com/album/40t1rTUEUD4qUJNacnmDY5) | 4:29 | 2025-03-03 | 2025-03-08 |
 | [Introduction](https://open.spotify.com/track/62NkzAFZKNOe6arO1lSFm0) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [Introduction](https://open.spotify.com/album/0AhoKlF1bTECpWf8RUAys5) | 1:56 | 2021-12-03 |  |
+| [Jaane Bhaye Jaau](https://open.spotify.com/track/3gSsx3Sz01SOn5B7g9fzcK) | [ST MAN](https://open.spotify.com/artist/7FkwKgrWfjYJ3sgAFgGr31), [yung22](https://open.spotify.com/artist/4HT1TOJs3QffsWsU8NMGiH) | [Jaane Bhaye Jaau](https://open.spotify.com/album/5opIEKzN00SsvCeh1D7GhS) | 2:26 | 2025-06-29 |  |
 | [Jagga Jatt \(From "Only Love Gets Reply"\)](https://open.spotify.com/track/6zh80VZXzcYm72Wgh6HjWO) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Jagga Jatt \(From "Only Love Gets Reply"\)](https://open.spotify.com/album/4v5lDXsOuEQpT9pxY3J13m) | 3:45 | 2024-06-28 | 2024-08-10 |
 | [Janaza](https://open.spotify.com/track/79S47IyE2yA2ukZtqq9B9g) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Janaza](https://open.spotify.com/album/6Urpqpdp6rfWx5vZ3ObLcI) | 3:00 | 2022-01-13 | 2023-01-13 |
 | [JASHAN\-E\-HIP\-HOP](https://open.spotify.com/track/5EyMW7eXYVkB1pwXqrGq5c) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 2:52 | 2022-11-23 | 2024-04-16 |

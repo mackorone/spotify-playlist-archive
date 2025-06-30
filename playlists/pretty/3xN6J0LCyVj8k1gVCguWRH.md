@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist.
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,691 likes - 158 songs - 9 hr 15 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,704 likes - 154 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,18 +153,14 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 143 | [Only Have Eyes 42](https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:50 |
 | 144 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 |
 | 145 | [Love & Hate](https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 7:07 |
-| 146 | [Right Where I’ve Been](https://open.spotify.com/track/7KrEBS2ao69WtbNGbwqPqY) | [DSYG](https://open.spotify.com/artist/3zc7Vpu3e393y4CoCzukQN), [imlunamusic1](https://open.spotify.com/artist/19XJ2zVuAvRTvC1cPiLmIx) | [Right Where I’ve Been](https://open.spotify.com/album/0H6RYq8QAWVTc8MP4x3sVL) | 2:58 |
-| 147 | [Going Away](https://open.spotify.com/track/4hOg1VoQ9ij2QQKGCnzVVT) | [SEGG](https://open.spotify.com/artist/6LVzUrTVwDlZvmu0MANvi1) | [Going Away](https://open.spotify.com/album/59hFVEmjaCNGQJWXEgMewn) | 4:26 |
-| 148 | [Morning Sunshine](https://open.spotify.com/track/2ji9igsCK3UqG1AbMDumz3) | [The Paddle Boy](https://open.spotify.com/artist/1ey4vgagS6Gvn0Xjc0A20c) | [Morning Sunshine](https://open.spotify.com/album/2RYZXCFgYj7UQ4HZZsjwTv) | 3:15 |
-| 149 | [Fyne Shyt \- R&B Version](https://open.spotify.com/track/677TvUNmO8UKaXMDM8ec6Y) | [GNHVibez](https://open.spotify.com/artist/4czlOqyE9JqXDDUqxgmZUK) | [Fyne Shyt \(R&B Version\)](https://open.spotify.com/album/6bKyenN8n74w9zQmMGtL2m) | 2:52 |
-| 150 | [Anytime](https://open.spotify.com/track/6t3Tl3e0No2vherM7Gx6r6) | [Tezz Cart'R](https://open.spotify.com/artist/43Gooe8sCVUKWqxQdFR9NN) | [Anytime](https://open.spotify.com/album/1seh4g9gwITRIVbvt2Kwig) | 3:26 |
-| 151 | [Okoboji](https://open.spotify.com/track/6v4WI1vRnynZ2WtXtL5aWO) | [Lily Vakili](https://open.spotify.com/artist/2OOa7vr0q0sr4eBuujgNXa) | [Okoboji](https://open.spotify.com/album/5PwL7fYLt84MoHGY4b2lev) | 3:05 |
-| 152 | [American Spirit](https://open.spotify.com/track/4pAywR7O1HPrTJtRLrtCvW) | [Pink Jagg](https://open.spotify.com/artist/1SgsyJqfG9hmmb7Wnjo3EF) | [American Spirit](https://open.spotify.com/album/6OHdsZucQRbGHN5s0xqPjC) | 3:37 |
-| 153 | [Everyone's Invited](https://open.spotify.com/track/5XsA2lri15tlZmRPYWQy3X) | [Honeybear, the Band](https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk) | [I Was Wrong](https://open.spotify.com/album/3sDjzJO62PTyeEXspT2LUX) | 3:52 |
-| 154 | [slide on me](https://open.spotify.com/track/6f1Ahps7do7T2OSpE7VFRC) | [Jack DeNicola](https://open.spotify.com/artist/2Kb1e1SXdaNvd1ICwQTBK3) | [slide on me](https://open.spotify.com/album/0qcUb5dhmf2eWIwFmf0PhS) | 3:03 |
-| 155 | [Diamantes](https://open.spotify.com/track/439lcHpUl4NgK5tCS9l0Tq) | [Glo Silva](https://open.spotify.com/artist/78oEzGiUSSVd6n3D0Xvoqx) | [Diamantes](https://open.spotify.com/album/2bLgmkJUSSrec5tnTLg98x) | 2:38 |
-| 156 | [I Will Always Be](https://open.spotify.com/track/5V7nMuIMOQiI7P3kIMzp0N) | [Les Femmes Fatales](https://open.spotify.com/artist/26hVWUnyUJZwxfarfJfOkk) | [I Will Always Be](https://open.spotify.com/album/7EWAv9u3WQE4K3v0ZmNJQ4) | 3:53 |
-| 157 | [JE M'EN FOUS](https://open.spotify.com/track/0FvF25sJcdGmTyxTM5w4LG) | [OSCEN](https://open.spotify.com/artist/4PYyA0dsFRsUqMYvAoI3qH), [Lou Latham](https://open.spotify.com/artist/7LCwViRFIYgPwEMMt42xe6) | [JE M'EN FOUS](https://open.spotify.com/album/6id5PUvrkMQ996dZ2tmHSJ) | 3:09 |
-| 158 | [Vivo](https://open.spotify.com/track/1MWSmGUcEb8fnseIWtblSf) | [Lorenzo Lupo](https://open.spotify.com/artist/2iCIiFhNIZ3KzWhAbbnR9I) | [Vivo](https://open.spotify.com/album/56zauCHgh2tgLhMhrZstFQ) | 2:53 |
+| 146 | [Bachata Rosa \- Cover](https://open.spotify.com/track/43BHc4AJXpoVy5IAEHnPz4) | [Jocsan Duran](https://open.spotify.com/artist/5CiOcJEt3lIJneEcQt7wkv) | [Bachata Rosa \(Cover\)](https://open.spotify.com/album/2FspZiEUhUn05yJTwucvYg) | 3:28 |
+| 147 | [Right Where I’ve Been](https://open.spotify.com/track/7KrEBS2ao69WtbNGbwqPqY) | [DSYG](https://open.spotify.com/artist/3zc7Vpu3e393y4CoCzukQN), [imlunamusic1](https://open.spotify.com/artist/19XJ2zVuAvRTvC1cPiLmIx) | [Right Where I’ve Been](https://open.spotify.com/album/0H6RYq8QAWVTc8MP4x3sVL) | 2:58 |
+| 148 | [Going Away](https://open.spotify.com/track/4hOg1VoQ9ij2QQKGCnzVVT) | [SEGG](https://open.spotify.com/artist/6LVzUrTVwDlZvmu0MANvi1) | [Going Away](https://open.spotify.com/album/59hFVEmjaCNGQJWXEgMewn) | 4:26 |
+| 149 | [Morning Sunshine](https://open.spotify.com/track/2ji9igsCK3UqG1AbMDumz3) | [The Paddle Boy](https://open.spotify.com/artist/1ey4vgagS6Gvn0Xjc0A20c) | [Morning Sunshine](https://open.spotify.com/album/2RYZXCFgYj7UQ4HZZsjwTv) | 3:15 |
+| 150 | [Fyne Shyt \- R&B Version](https://open.spotify.com/track/677TvUNmO8UKaXMDM8ec6Y) | [GNHVibez](https://open.spotify.com/artist/4czlOqyE9JqXDDUqxgmZUK) | [Fyne Shyt \(R&B Version\)](https://open.spotify.com/album/6bKyenN8n74w9zQmMGtL2m) | 2:52 |
+| 151 | [Anytime](https://open.spotify.com/track/6t3Tl3e0No2vherM7Gx6r6) | [Tezz Cart'R](https://open.spotify.com/artist/43Gooe8sCVUKWqxQdFR9NN) | [Anytime](https://open.spotify.com/album/1seh4g9gwITRIVbvt2Kwig) | 3:26 |
+| 152 | [Okoboji](https://open.spotify.com/track/6v4WI1vRnynZ2WtXtL5aWO) | [Lily Vakili](https://open.spotify.com/artist/2OOa7vr0q0sr4eBuujgNXa) | [Okoboji](https://open.spotify.com/album/5PwL7fYLt84MoHGY4b2lev) | 3:05 |
+| 153 | [American Spirit](https://open.spotify.com/track/4pAywR7O1HPrTJtRLrtCvW) | [Pink Jagg](https://open.spotify.com/artist/1SgsyJqfG9hmmb7Wnjo3EF) | [American Spirit](https://open.spotify.com/album/6OHdsZucQRbGHN5s0xqPjC) | 3:37 |
+| 154 | [Everyone's Invited](https://open.spotify.com/track/5XsA2lri15tlZmRPYWQy3X) | [Honeybear, the Band](https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk) | [I Was Wrong](https://open.spotify.com/album/3sDjzJO62PTyeEXspT2LUX) | 3:52 |
 
-Snapshot ID: `AAAyEQCeEXc0vKle+KSoKvcJCdulnGfF`
+Snapshot ID: `AAAyFCzeHOlg/W69W9Vpi3lkepKcyncT`

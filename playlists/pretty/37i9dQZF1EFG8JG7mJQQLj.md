@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,149 likes - 462 songs - 1 day 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,156 likes - 462 songs - 1 day 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 104 | [WTF Do I Know](https://open.spotify.com/track/37PJvlIfYWqEX6fgjHlnTf) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:51 |
 | 105 | [Hero](https://open.spotify.com/track/29p6UW08MXzwj9thWBW3uF) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Hero](https://open.spotify.com/album/6KV17NyVQwm5PJOVwAVlyV) | 2:51 |
 | 106 | [Particular Taste](https://open.spotify.com/track/4BH9zDv1Ys6kw0j3lU1hTx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 2:55 |
-| 107 | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/track/63IC8gaszSBCasV9THojiT) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:28 |
-| 108 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 |
+| 107 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 |
+| 108 | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/track/63IC8gaszSBCasV9THojiT) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:28 |
 | 109 | [Somebody To Love](https://open.spotify.com/track/2z8S9ARUXOXWT9h0PdF4yP) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:01 |
 | 110 | [Miss possessive](https://open.spotify.com/track/4Q9ExJGFgL9Jd9kmYH3nXs) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:19 |
 | 111 | [Night Crawling \(feat\. Billy Idol\)](https://open.spotify.com/track/4U34WsyOvppOMnRfq7DuOy) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:09 |
@@ -166,8 +166,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 156 | [I Want Love](https://open.spotify.com/track/4DqXhYryASlQ2W6IAZF8Un) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [I Want Love](https://open.spotify.com/album/0UoYRs1WP7625dmeOsY3Zn) | 3:17 |
 | 157 | [Selfish Love](https://open.spotify.com/track/6KgoUHakjLYPf7VrAVRfyS) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse](https://open.spotify.com/album/4dCYurAtpYbC77cBWt2uIH) | 3:57 |
 | 158 | [Wrong Places \(from Songland\)](https://open.spotify.com/track/2mtLGVN6xZm93wDG9nvviS) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Wrong Places \(from Songland\)](https://open.spotify.com/album/2egSKhWoeRAIycSMnlew9P) | 3:17 |
-| 159 | [Used To Be](https://open.spotify.com/track/2n6red10oCd6YhlEUp6jXy) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:04 |
-| 160 | [Run It](https://open.spotify.com/track/5GwOJaOWIuRi5eebSRnstT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Run It](https://open.spotify.com/album/1GM66MYIbWfSdPLop4vXym) | 2:39 |
+| 159 | [Run It](https://open.spotify.com/track/5GwOJaOWIuRi5eebSRnstT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Run It](https://open.spotify.com/album/1GM66MYIbWfSdPLop4vXym) | 2:39 |
+| 160 | [Used To Be](https://open.spotify.com/track/2n6red10oCd6YhlEUp6jXy) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:04 |
 | 161 | [He Said She Said](https://open.spotify.com/track/0jTTjg6q4jsd2RhuHwTvLj) | [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [Headstrong](https://open.spotify.com/album/18Cdeub4WBPKku92zlsfWp) | 3:08 |
 | 162 | [stay done](https://open.spotify.com/track/2zScQCfO2BKtR0Yk8dtELN) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:51 |
 | 163 | [Higher](https://open.spotify.com/track/4bEpL49l4f0r8GtsjUFUqL) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 3:05 |
@@ -197,8 +197,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 187 | [Together \(feat\. Gwen Stefani\)](https://open.spotify.com/track/0otmDG441slQ7QYZUPgBcM) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:38 |
 | 188 | [Ordinary Human](https://open.spotify.com/track/0VmdveDdlr2FMGwBljCfxA) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Ordinary Human](https://open.spotify.com/album/1UhPPEJiu8RHhupj6aC4kh) | 4:50 |
 | 189 | [Bigger Love](https://open.spotify.com/track/4kcJsfPTr7RCrLQRvW7cyj) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 2:50 |
-| 190 | [Seasons](https://open.spotify.com/track/6TW2OHata91dIc99MZehcT) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Never Been Better \(Expanded Edition\)](https://open.spotify.com/album/41QyJYx6N181E3QxWpC2FW) | 3:37 |
-| 191 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 |
+| 190 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 |
+| 191 | [Seasons](https://open.spotify.com/track/6TW2OHata91dIc99MZehcT) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Never Been Better \(Expanded Edition\)](https://open.spotify.com/album/41QyJYx6N181E3QxWpC2FW) | 3:37 |
 | 192 | [Ain't Easy](https://open.spotify.com/track/0b9KkFVuiKep5IH8O5O8OX) | [Elijah Woods x Jamie Fine](https://open.spotify.com/artist/0UARksVKrwd1Gwdeq3Mes1) | [8:47](https://open.spotify.com/album/2RxqGBW2H5j2EyZyqwc7m3) | 3:08 |
 | 193 | [Call Me Revenge \- Call of Duty: Modern Warfare 3](https://open.spotify.com/track/6m0S4wcG6sTCP010ZrgdJI) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Call Me Revenge \(Call of Duty: Modern Warfare 3\)](https://open.spotify.com/album/7ISArb5GeVeJ6O65wUyIux) | 2:46 |
 | 194 | [One More Dance](https://open.spotify.com/track/4rhDZ5qvYYxaSIWLzCX1WL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/2uPr7JseOfZGpsefGTaxLB) | 3:08 |
@@ -471,4 +471,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 461 | [I Am The Future](https://open.spotify.com/track/5OApmelG95UKLMeLDRTZZy) | [Jacaranda](https://open.spotify.com/artist/44inTD4saAbXecbkXmYYPr) | [I Am The Future](https://open.spotify.com/album/6gHZPgoxaigaATAmyFU6y5) | 2:02 |
 | 462 | [Born To Race](https://open.spotify.com/track/69rjvTJkEuLgHuxCXF0MEY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Born To Race](https://open.spotify.com/album/10kpIbHXZ3ljVNqszvRKod) | 3:11 |
 
-Snapshot ID: `Ab1YPgAAAABcQcZZgcC/GRqLvaE05Jny`
+Snapshot ID: `Ab1d1AAAAACbBJPcoTtbJHYNFKnySm5e`

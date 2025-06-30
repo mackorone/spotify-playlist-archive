@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/52cKwQBHdpKHYYbrnqKJtX">GRACEY</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60 likes - 56 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 60 likes - 57 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,15 +54,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 44 | [2005](https://open.spotify.com/track/1QR8dwpWuSYbTzr13mt5ec) | [Remedy Club](https://open.spotify.com/artist/1MuDSnGT0IosRnJbulWvQn), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [2005](https://open.spotify.com/album/2XjA5IykqgdkzTrBUzj0Xu) | 2:20 |
 | 45 | [Clouds](https://open.spotify.com/track/2S30osPVXM82F0Trgd4zbc) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [What the Future Holds](https://open.spotify.com/album/7MfKuIWBxHdGuyt8HJbdPz) | 3:55 |
 | 46 | [The Plot](https://open.spotify.com/track/0LA8nHbNkSSeNuO9OOFppr) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 1:54 |
-| 47 | [The Writer](https://open.spotify.com/track/3wv0ik7VEaJi7gervO2A2C) | [Four of Diamonds](https://open.spotify.com/artist/42qq1SQuTH1AT2daN3fLMt), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Writer](https://open.spotify.com/album/0iJSO6FoJD0CZvNIzJnWl5) | 2:59 |
-| 48 | [In Case I Fall Asleep \(feat\. GRACEY\)](https://open.spotify.com/track/1MIYJAgj86K1cjlcrfvBcH) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Happy Machine](https://open.spotify.com/album/11EidE2Zs9YaYmgMoydewV) | 2:23 |
-| 49 | [Fingers Crossed](https://open.spotify.com/track/15sorfdMGuiCbMeTyXJEDF) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Imposter Syndrome](https://open.spotify.com/album/6iUoY4khlqLoEH9hEOf8kO) | 3:12 |
-| 50 | [Back to Basics \- feat\. GRACEY](https://open.spotify.com/track/43Rr38uDHvtmtvfAwGwHjj) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 3:32 |
-| 51 | [Lost My Mind](https://open.spotify.com/track/6XwbwtZe0viiDSfBEPymYc) | [Nykki](https://open.spotify.com/artist/4tr3FhDOdmSORCDrH6Q4CX) | [Lost My Mind](https://open.spotify.com/album/0balRMgDmNaCfpG15ebZxN) | 3:45 |
-| 52 | [Stupid Dog](https://open.spotify.com/track/3R9xeYBlGNDYFmaNHgGamd) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 3: The Burning](https://open.spotify.com/album/4mqEv4XT01WQm45HTqgOEK) | 2:10 |
-| 53 | [I’ll Be Here For You](https://open.spotify.com/track/2j1SimCZFJOQzOVA1R9SPT) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 2:38 |
-| 54 | [Care Less](https://open.spotify.com/track/2Rs0Sd7bdJaTd9QYfA11Jf) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [The Art Of Closure](https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW) | 3:46 |
-| 55 | [Figure It Out](https://open.spotify.com/track/4u1OGnxFaeeDncPLsW6Zbf) | [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Figure It Out](https://open.spotify.com/album/3nx85pcfiQEOTzpyIeJcw8) | 3:11 |
-| 56 | [BED HEAD](https://open.spotify.com/track/09xdIdn86V2ajBH8qrqkxw) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [LOZEAK](https://open.spotify.com/album/7EW8GOijpfI5nohP8w7dzC) | 2:12 |
+| 47 | [Romeo](https://open.spotify.com/track/3YvFXuk2IuWW32zeOTV3Q9) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Romeo](https://open.spotify.com/album/257PqwE2yKKYxbLvqIkT3Y) | 3:04 |
+| 48 | [The Writer](https://open.spotify.com/track/3wv0ik7VEaJi7gervO2A2C) | [Four of Diamonds](https://open.spotify.com/artist/42qq1SQuTH1AT2daN3fLMt), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Writer](https://open.spotify.com/album/0iJSO6FoJD0CZvNIzJnWl5) | 2:59 |
+| 49 | [In Case I Fall Asleep \(feat\. GRACEY\)](https://open.spotify.com/track/1MIYJAgj86K1cjlcrfvBcH) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Happy Machine](https://open.spotify.com/album/11EidE2Zs9YaYmgMoydewV) | 2:23 |
+| 50 | [Fingers Crossed](https://open.spotify.com/track/15sorfdMGuiCbMeTyXJEDF) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Imposter Syndrome](https://open.spotify.com/album/6iUoY4khlqLoEH9hEOf8kO) | 3:12 |
+| 51 | [Back to Basics \- feat\. GRACEY](https://open.spotify.com/track/43Rr38uDHvtmtvfAwGwHjj) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 3:32 |
+| 52 | [Lost My Mind](https://open.spotify.com/track/6XwbwtZe0viiDSfBEPymYc) | [Nykki](https://open.spotify.com/artist/4tr3FhDOdmSORCDrH6Q4CX) | [Lost My Mind](https://open.spotify.com/album/0balRMgDmNaCfpG15ebZxN) | 3:45 |
+| 53 | [Stupid Dog](https://open.spotify.com/track/3R9xeYBlGNDYFmaNHgGamd) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 3: The Burning](https://open.spotify.com/album/4mqEv4XT01WQm45HTqgOEK) | 2:10 |
+| 54 | [I’ll Be Here For You](https://open.spotify.com/track/2j1SimCZFJOQzOVA1R9SPT) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 2:38 |
+| 55 | [Care Less](https://open.spotify.com/track/2Rs0Sd7bdJaTd9QYfA11Jf) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [The Art Of Closure](https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW) | 3:46 |
+| 56 | [Figure It Out](https://open.spotify.com/track/4u1OGnxFaeeDncPLsW6Zbf) | [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Figure It Out](https://open.spotify.com/album/3nx85pcfiQEOTzpyIeJcw8) | 3:11 |
+| 57 | [BED HEAD](https://open.spotify.com/track/09xdIdn86V2ajBH8qrqkxw) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [LOZEAK](https://open.spotify.com/album/7EW8GOijpfI5nohP8w7dzC) | 2:12 |
 
-Snapshot ID: `Ab1YPgAAAABeeSXST0DgrEg1MFUFtNwG`
+Snapshot ID: `Ab1d/AAAAADTTb7yQu3RLoepLZdX1fM8`

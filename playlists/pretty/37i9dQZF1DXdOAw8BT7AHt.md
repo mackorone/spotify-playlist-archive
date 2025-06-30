@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in modern punk rock music\. Cover: Maruja
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,337 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,393 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,15 +28,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 18 | [End Eric Sparrow and the Life of Him](https://open.spotify.com/track/1zZuJm4FZjGVY9J3Hy5CNP) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [End Eric Sparrow and the Life of Him](https://open.spotify.com/album/5MSJvNBZTMnt5f7iyvNChi) | 2:49 |
 | 19 | [Supermodels](https://open.spotify.com/track/2JFmXR9RMrZ864QAaZp1qy) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [Supermodels](https://open.spotify.com/album/0M7xdz5lQAD65XiahtuUPO) | 3:18 |
 | 20 | [Nod](https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nod](https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk) | 3:02 |
-| 21 | [100%](https://open.spotify.com/track/43d22Bp8nyPZJjmdKIzQ04) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [100%](https://open.spotify.com/album/6bGvZxSSajIl2pfdC4MnEv) | 3:28 |
-| 22 | [Afraid To Die](https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Afraid To Die](https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ) | 3:02 |
-| 23 | [Watch You Go](https://open.spotify.com/track/6VD9nT0dBYokELI1MEYBDt) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [I Want To Disappear](https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo) | 2:10 |
-| 24 | [God's Country](https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country](https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR) | 2:15 |
-| 25 | [stone cold summer](https://open.spotify.com/track/6o8okNBgNmV2ccqNYRFzrg) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [stone cold summer](https://open.spotify.com/album/3fQgWMLRBqYqGgB1mhSAmi) | 2:47 |
-| 26 | [By The Way](https://open.spotify.com/track/0LmWejDkHg082j5TxAlE4P) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [By The Way](https://open.spotify.com/album/5hTxdXKV6GB95zZ5SiwzM8) | 2:52 |
-| 27 | [negative spaces](https://open.spotify.com/track/3SowkNXvDoTa2qhqmYB3SZ) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Negative Spaces](https://open.spotify.com/album/0YIOpXQvcbiDNPusSqi5Ew) | 2:55 |
-| 28 | [Love & Co.](https://open.spotify.com/track/6uE4mbm9sPcAADEdIsmZ0Q) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x), [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [The Crucible Of Life](https://open.spotify.com/album/3YMGlieEVrvq5GFV7wCDZm) | 2:39 |
-| 29 | [Spineless](https://open.spotify.com/track/4DIL3Xgnb9PAqewEf9FRZa) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Keep Planting Flowers](https://open.spotify.com/album/4zZ2m5o6f0HqhDUGFEqGWR) | 3:23 |
+| 21 | [God's Country](https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country](https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR) | 2:15 |
+| 22 | [100%](https://open.spotify.com/track/43d22Bp8nyPZJjmdKIzQ04) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [100%](https://open.spotify.com/album/6bGvZxSSajIl2pfdC4MnEv) | 3:28 |
+| 23 | [Afraid To Die](https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Afraid To Die](https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ) | 3:02 |
+| 24 | [Watch You Go](https://open.spotify.com/track/6VD9nT0dBYokELI1MEYBDt) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [I Want To Disappear](https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo) | 2:10 |
+| 25 | [By The Way](https://open.spotify.com/track/0LmWejDkHg082j5TxAlE4P) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [By The Way](https://open.spotify.com/album/5hTxdXKV6GB95zZ5SiwzM8) | 2:52 |
+| 26 | [negative spaces](https://open.spotify.com/track/3SowkNXvDoTa2qhqmYB3SZ) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Negative Spaces](https://open.spotify.com/album/0YIOpXQvcbiDNPusSqi5Ew) | 2:55 |
+| 27 | [Love & Co.](https://open.spotify.com/track/6uE4mbm9sPcAADEdIsmZ0Q) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x), [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [The Crucible Of Life](https://open.spotify.com/album/3YMGlieEVrvq5GFV7wCDZm) | 2:39 |
+| 28 | [Spineless](https://open.spotify.com/track/4DIL3Xgnb9PAqewEf9FRZa) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Keep Planting Flowers](https://open.spotify.com/album/4zZ2m5o6f0HqhDUGFEqGWR) | 3:23 |
+| 29 | [stone cold summer](https://open.spotify.com/track/6o8okNBgNmV2ccqNYRFzrg) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [stone cold summer](https://open.spotify.com/album/3fQgWMLRBqYqGgB1mhSAmi) | 2:47 |
 | 30 | [Johnny](https://open.spotify.com/track/3F63vPO9NcMyTB46Gtt5yj) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Johnny](https://open.spotify.com/album/6YEMTWtez77SaeIp2lxalB) | 3:34 |
 | 31 | [Big Al Dente](https://open.spotify.com/track/09fJxz3rLdV0eWQTRHXzdY) | [Action/Adventure](https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF) | [Big Al Dente](https://open.spotify.com/album/58CxKelWY2FGZQbMTvB54K) | 2:50 |
 | 32 | [Body of Mine](https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country / Body of Mine](https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql) | 2:11 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 40 | [The Bog Body](https://open.spotify.com/track/5GRiKRb2j9AqKwwhdjnmKI) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [The Bog Body](https://open.spotify.com/album/4K5EXv3cUJjp8HjAXasPJP) | 2:53 |
 | 41 | [diamonds on your dagger](https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [diamonds on your dagger](https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ) | 3:21 |
 | 42 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 |
-| 43 | [Blow It](https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Blow It](https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk) | 2:44 |
-| 44 | [You](https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Cult Classic](https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG) | 3:42 |
-| 45 | [Jinx](https://open.spotify.com/track/4vZwnl3cQOhHkgvG6kNt2V) | [LOCKED SHUT](https://open.spotify.com/artist/5wXFJIjoTJiIcUqTrL808e) | [The New Chaos](https://open.spotify.com/album/1SIPq5EHlVtkmxaJnbzThi) | 1:57 |
+| 43 | [You](https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Cult Classic](https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG) | 3:42 |
+| 44 | [Jinx](https://open.spotify.com/track/4vZwnl3cQOhHkgvG6kNt2V) | [LOCKED SHUT](https://open.spotify.com/artist/5wXFJIjoTJiIcUqTrL808e) | [The New Chaos](https://open.spotify.com/album/1SIPq5EHlVtkmxaJnbzThi) | 1:57 |
+| 45 | [Blow It](https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Blow It](https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk) | 2:44 |
 | 46 | [Isaac Is Typing…](https://open.spotify.com/track/0mIekgyAGvn5vzt0wns4iP) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [HEAVY JELLY](https://open.spotify.com/album/2oSZ420w1kkEdXMaDaNEbt) | 2:44 |
 | 47 | [Stupid](https://open.spotify.com/track/1sZ0l4JoRhrNHDOplkImZR) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Stupid](https://open.spotify.com/album/0bMz5kvRYRUcUX9FC9rgfB) | 2:25 |
 | 48 | [Save Face Story](https://open.spotify.com/track/3OcGET39AhKjyeXAjyxTqi) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Slope](https://open.spotify.com/artist/24ExnkYwR4QoLamXGi4sOR) | [State Champs](https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v) | 3:19 |

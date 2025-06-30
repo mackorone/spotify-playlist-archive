@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 
 > låtarna som inte går att få nog av.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,749 likes - 90 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,752 likes - 90 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 25 | [Hail Mary](https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hail Mary](https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU) | 2:46 |
 | 26 | [Svårt](https://open.spotify.com/track/40TOlWGgY4Yjwbx6cXeE5P) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Svårt](https://open.spotify.com/album/1wmxJgIRdw1f25WCCf6Oj9) | 2:59 |
 | 27 | [Dominos](https://open.spotify.com/track/7wI92IXumenyQgway6FaKs) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Dominos](https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg) | 2:40 |
-| 28 | [Venter du](https://open.spotify.com/track/4MWldeK06AisUkSYARj8YD) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV), [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Venter du](https://open.spotify.com/album/33rnPbG5uBGM1klUO46Arc) | 2:37 |
-| 29 | [Lampan tänd för dig](https://open.spotify.com/track/1c7tYETxbuAdYTrzgw3m66) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Lampan tänd för dig](https://open.spotify.com/album/3fceocYBrztJ0lL2kF2wBl) | 2:33 |
-| 30 | [Freedom](https://open.spotify.com/track/5KnH8nLgUCWDQ9vIfFz7V0) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [Freedom](https://open.spotify.com/album/4TN4aY61CdCWDqCSIxFsSn) | 3:14 |
-| 31 | [MSN & Lunar](https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [MSN & Lunar](https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk) | 3:33 |
+| 28 | [MSN & Lunar](https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [MSN & Lunar](https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk) | 3:33 |
+| 29 | [Venter du](https://open.spotify.com/track/4MWldeK06AisUkSYARj8YD) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV), [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Venter du](https://open.spotify.com/album/33rnPbG5uBGM1klUO46Arc) | 2:37 |
+| 30 | [Lampan tänd för dig](https://open.spotify.com/track/1c7tYETxbuAdYTrzgw3m66) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Lampan tänd för dig](https://open.spotify.com/album/3fceocYBrztJ0lL2kF2wBl) | 2:33 |
+| 31 | [Freedom](https://open.spotify.com/track/5KnH8nLgUCWDQ9vIfFz7V0) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [Freedom](https://open.spotify.com/album/4TN4aY61CdCWDqCSIxFsSn) | 3:14 |
 | 32 | [Caroline](https://open.spotify.com/track/1kzd1siJdw7QMix3uPQB45) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Caroline](https://open.spotify.com/album/3YKj6eNHkDjsDlSXiBw1Dj) | 3:13 |
 | 33 | [Moln & Sommarregn](https://open.spotify.com/track/18q6GQAd9VK6IRzz6xofKN) | [Vince Wavy](https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW) | [Moln & Sommarregn](https://open.spotify.com/album/67TZQ41vEtrLZbxWzzG9vT) | 3:07 |
 | 34 | [Slutat bry mig](https://open.spotify.com/track/23EKxveViwvrcoWTfCyuwa) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Slutat bry mig](https://open.spotify.com/album/0kPBXLUWO15ZXKE1yKg370) | 2:47 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 70 | [Feel Free](https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [Feel Free](https://open.spotify.com/album/6xwNQOnPKZfUVeSV9A8vVf) | 3:02 |
 | 71 | [Förstöraren](https://open.spotify.com/track/5vUyKrknRb2sYddxO6oUHI) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Förstöraren](https://open.spotify.com/album/1T0gsLv0NrBA8DKuQQknoD) | 2:26 |
 | 72 | [Var & När](https://open.spotify.com/track/1kRmRG2b1snC9TQS7gSsOM) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA), [JULI](https://open.spotify.com/artist/4L3VEiHYe7BxQsHloHXGzf) | [Var & När](https://open.spotify.com/album/7aJW0dQuPyvCWENSrtnOdo) | 2:37 |
-| 73 | [fooo00oool](https://open.spotify.com/track/14jB6NjGfnSjWzW9tVTMXq) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [fooo00oool](https://open.spotify.com/album/0PyiLqUiHUVpC2QqlH4kTs) | 3:08 |
-| 74 | [Ikväll måste nånting hända](https://open.spotify.com/track/2jaXOhm7dmmsokJjj2DsUA) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Ikväll måste nånting hända](https://open.spotify.com/album/0yaCpQvJffjcBuD4JFbXzI) | 3:39 |
-| 75 | [PAUS](https://open.spotify.com/track/3o8OGngNtrVMigN3cMGnc4) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [PAUS](https://open.spotify.com/album/5Sex1byhqJdLxAWW9Ru3D2) | 2:34 |
+| 73 | [PAUS](https://open.spotify.com/track/3o8OGngNtrVMigN3cMGnc4) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [PAUS](https://open.spotify.com/album/5Sex1byhqJdLxAWW9Ru3D2) | 2:34 |
+| 74 | [fooo00oool](https://open.spotify.com/track/14jB6NjGfnSjWzW9tVTMXq) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [fooo00oool](https://open.spotify.com/album/0PyiLqUiHUVpC2QqlH4kTs) | 3:08 |
+| 75 | [Ikväll måste nånting hända](https://open.spotify.com/track/2jaXOhm7dmmsokJjj2DsUA) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Ikväll måste nånting hända](https://open.spotify.com/album/0yaCpQvJffjcBuD4JFbXzI) | 3:39 |
 | 76 | [Lasse & hunden](https://open.spotify.com/track/2ugliGsPZth0lK3QKinrRy) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Lasse & hunden](https://open.spotify.com/album/0SEyzhS1YHYQCsyTIlxzIG) | 2:44 |
 | 77 | [Fast Love](https://open.spotify.com/track/7GIfbg4hznwd4AV24SJruG) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Fast Love](https://open.spotify.com/album/2db6iLYLLKTIf6qO4AhwIV) | 2:40 |
 | 78 | [Flow](https://open.spotify.com/track/02Hjgk7NbS2BtkMpK5pe1j) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [Flow](https://open.spotify.com/album/2NW96KndFggFYbRxqCfzzb) | 3:02 |

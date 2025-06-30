@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Hooja, Lewis Capaldi, Laleh och Soppgirobygget med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,439 likes - 113 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,440 likes - 113 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

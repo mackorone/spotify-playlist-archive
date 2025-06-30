@@ -11846,7 +11846,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 199114,
       "name": "KLOuFRENS",
       "url": "https://open.spotify.com/track/4MUrUT38U98olfnyzMBCzm"
@@ -13538,6 +13538,24 @@
       "duration_ms": 181137,
       "name": "Linea Del Perreo",
       "url": "https://open.spotify.com/track/1Aa54YEL20kiDPI6f4XGdS"
+    },
+    {
+      "album": {
+        "name": "Little Demon",
+        "url": "https://open.spotify.com/album/0jcuyuKVZVkDLFlEPSaa9N"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Little Demon",
+      "url": "https://open.spotify.com/track/5HmbkAdM5TJZcCmFQgNHI6"
     },
     {
       "album": {
@@ -17992,7 +18010,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-30",
       "duration_ms": 166598,
       "name": "No te vayas",
       "url": "https://open.spotify.com/track/71u6X4fsSxHwvMbOduOwQb"
@@ -21494,7 +21512,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 191018,
       "name": "Qu\u00e9 Pasar\u00eda...",
       "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
@@ -25496,7 +25514,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-30",
       "duration_ms": 171917,
       "name": "Temblar",
       "url": "https://open.spotify.com/track/5y9L1Aq7sZPcomBgEdPRqT"
@@ -25536,7 +25554,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-30",
       "duration_ms": 221003,
       "name": "Tercer Cielo",
       "url": "https://open.spotify.com/track/3IF8pvAL68bGZu3s720p3r"
@@ -26964,7 +26982,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-30",
       "duration_ms": 238394,
       "name": "Una Flor",
       "url": "https://open.spotify.com/track/0mXnCMY1eUNcDijOIrlqgO"
@@ -28682,7 +28700,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 129705,
       "name": "Yo s\u00e9",
       "url": "https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92"

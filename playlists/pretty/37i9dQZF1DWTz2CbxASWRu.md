@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,234 likes - 350 songs - 1 day 0 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,260 likes - 350 songs - 1 day 0 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

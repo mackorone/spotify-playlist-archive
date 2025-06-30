@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 
 > Bask in the sound of soul, old and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,212 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,217 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 | 74 | [Head Above Water](https://open.spotify.com/track/280voyNiWMpSELBtCuMVCs) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Head Above Water](https://open.spotify.com/album/243xtJO49rvMqy5yx1DYxz) | 3:10 |
 | 75 | [2 Much](https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [2 Much](https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR) | 3:20 |
 | 76 | [Greatest Gift \- Reimagined](https://open.spotify.com/track/1Vdescm48rk3XEjR4i2cBr) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying \(Reimagined\)](https://open.spotify.com/album/6pLWFHmvJ82dUQF1bUTvZM) | 3:59 |
-| 77 | [Too Soon](https://open.spotify.com/track/4vJoaQsqgInOXfLTrKGNWE) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Too Soon](https://open.spotify.com/album/1gnbsTYrABy0pYgsuBaX9Z) | 3:01 |
-| 78 | [Pieces](https://open.spotify.com/track/0PoXdM2shs4zsmZJb2tgHD) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Pieces](https://open.spotify.com/album/4JnytkyfWkIoiBB7pEr0SD) | 2:57 |
-| 79 | [In The Dark](https://open.spotify.com/track/2WU9ZkipOL1ab28yG7zJYI) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [In The Dark](https://open.spotify.com/album/1nac5LSQaJ0qo8OzvEnozY) | 2:26 |
-| 80 | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/album/1LQhqs9bkQg2USpCzfnBZm) | 4:10 |
+| 77 | [Open Light](https://open.spotify.com/track/0SYNPBvXt0bDUlcFpftz8h) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [For The Deported](https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY) | 3:38 |
+| 78 | [Too Soon](https://open.spotify.com/track/4vJoaQsqgInOXfLTrKGNWE) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Too Soon](https://open.spotify.com/album/1gnbsTYrABy0pYgsuBaX9Z) | 3:01 |
+| 79 | [Pieces](https://open.spotify.com/track/0PoXdM2shs4zsmZJb2tgHD) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Pieces](https://open.spotify.com/album/4JnytkyfWkIoiBB7pEr0SD) | 2:57 |
+| 80 | [In The Dark](https://open.spotify.com/track/2WU9ZkipOL1ab28yG7zJYI) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [In The Dark](https://open.spotify.com/album/1nac5LSQaJ0qo8OzvEnozY) | 2:26 |
 
 Snapshot ID: `aAtzGQAAAACZkDec1s1Y9F9pfvIIWctY`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,534,054 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,534,460 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 46 | [Bent \- slowed + reverb](https://open.spotify.com/track/6ZqFoM0KMHDGiXwojXDqot) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Bent \(Pack\)](https://open.spotify.com/album/5RTw6vQXTIXkB9fP6Aheu7) | 3:03 |
 | 47 | [Where's My Love \- Slowed](https://open.spotify.com/track/7gCMZGYUvujTe4OF64uvN3) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love \(Slowed\)](https://open.spotify.com/album/7dwAeKkbpzA4ELMDiacfcR) | 4:49 |
 | 48 | [CUTE DEPRESSED \- SLOWED VERSION](https://open.spotify.com/track/0gALPCrSYb7vW8PDcbvzmU) | [Dyan Dxddy](https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx) | [CUTE DEPRESSED \(ALL VERSIONS\)](https://open.spotify.com/album/64CIZ10gxcp0WGZmVV4B0c) | 2:01 |
-| 49 | [Car's Outside \- Slowed Down Version](https://open.spotify.com/track/1INBzhPNmE5956Vz0OpWAV) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Car's Outside](https://open.spotify.com/album/0BbIbUGBYjryhlMrbM7ki2) | 4:29 |
-| 50 | [Sahara \- Slowed](https://open.spotify.com/track/0gzcUqFgJrqyfXdkF8xkhk) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara \(Slowed\)](https://open.spotify.com/album/4NMMVP429rm9L8YhUzBPMw) | 3:34 |
+| 49 | [Sahara \- Slowed](https://open.spotify.com/track/0gzcUqFgJrqyfXdkF8xkhk) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara \(Slowed\)](https://open.spotify.com/album/4NMMVP429rm9L8YhUzBPMw) | 3:34 |
+| 50 | [Car's Outside \- Slowed Down Version](https://open.spotify.com/track/1INBzhPNmE5956Vz0OpWAV) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Car's Outside](https://open.spotify.com/album/0BbIbUGBYjryhlMrbM7ki2) | 4:29 |
 
 Snapshot ID: `aC+QBwAAAABrAPMidWK2A4NY4jlgQ0o0`

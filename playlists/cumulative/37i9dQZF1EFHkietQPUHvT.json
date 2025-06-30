@@ -1221,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/6iDWPMotr0jVMUr5ZfPhjE"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157493,
+      "name": "pause",
+      "url": "https://open.spotify.com/track/1abgG2jgztGM55dZBAZRHh"
+    },
+    {
+      "album": {
         "name": "Perfect on Me",
         "url": "https://open.spotify.com/album/6y79bH31Bg9wxSeNRTl5WL"
       },

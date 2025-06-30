@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKPeBypcpcP.md) - [plain]
 
 > Where nature and white noise meet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,167 likes - 92 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,109 likes - 92 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,18 +87,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKPeBypcpcP.md) - [plain]
 | 77 | [Beruhigender Bach](https://open.spotify.com/track/4O2wSXouI7mosBQGx4tZ0N) | [Calming Water Sounds](https://open.spotify.com/artist/2eorj5qDKWRsb9BAfdssbx) | [Chill Day by the River](https://open.spotify.com/album/59E3mxZ1mPRpAPYONamokv) | 2:27 |
 | 78 | [Rainy White Noise](https://open.spotify.com/track/3afauC1qTFNIjtCRihhpEt) | [Noise Nirvana](https://open.spotify.com/artist/6jLfCVXiXP2SoEA8BOIrxM) | [Thunder & White Noise](https://open.spotify.com/album/45Sp5SWlpyj6CWqiW2LoQm) | 3:25 |
 | 79 | [Natures White Noise](https://open.spotify.com/track/5BznY5rMMB2BIrRu2LBGQd) | [Noises Of Ambience](https://open.spotify.com/artist/1G3MR4Gr6zFvXxm275w316) | [Noises Of Ambience](https://open.spotify.com/album/14CPqVzJefFRKUBZjZKUfK) | 2:25 |
-| 80 | [Dans La Pluie](https://open.spotify.com/track/37Rprogt5b76oUXqGiTZ1b) | [Embrasser La Pluie](https://open.spotify.com/artist/2lHoCBVRrYgUnAmfinOLIM) | [Dans La Pluie](https://open.spotify.com/album/3W7AE7mWmVesrtg8KuJea5) | 2:11 |
-| 81 | [Rise \(3 Minute Loopable Tibetan Bowl Timer\)](https://open.spotify.com/track/2CqbAzeol0N9F5NCbTI1d2) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Timed Tibetan Bowl Meditation \(Loopable\)](https://open.spotify.com/album/0YskWkpftquyWyCwvbAWCQ) | 3:00 |
-| 82 | [Vain Rain](https://open.spotify.com/track/0PColavKAYrvY3fXvQgOvQ) | [Skylated](https://open.spotify.com/artist/62iHUQsjVEK33b5YlpRsrS) | [Eye Of The Rain](https://open.spotify.com/album/6YpLnqT6dPYyacJMO0dLwZ) | 2:26 |
-| 83 | [Rain Falling Down](https://open.spotify.com/track/3v8tpKiO7zMZomEQh53cve) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5qyBJ814BTtn20m8dXbTxj) | 2:33 |
+| 80 | [Rain Falling Down](https://open.spotify.com/track/3v8tpKiO7zMZomEQh53cve) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5qyBJ814BTtn20m8dXbTxj) | 2:33 |
+| 81 | [Dans La Pluie](https://open.spotify.com/track/37Rprogt5b76oUXqGiTZ1b) | [Embrasser La Pluie](https://open.spotify.com/artist/2lHoCBVRrYgUnAmfinOLIM) | [Dans La Pluie](https://open.spotify.com/album/3W7AE7mWmVesrtg8KuJea5) | 2:11 |
+| 82 | [Rise \(3 Minute Loopable Tibetan Bowl Timer\)](https://open.spotify.com/track/2CqbAzeol0N9F5NCbTI1d2) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Timed Tibetan Bowl Meditation \(Loopable\)](https://open.spotify.com/album/0YskWkpftquyWyCwvbAWCQ) | 3:00 |
+| 83 | [Vain Rain](https://open.spotify.com/track/0PColavKAYrvY3fXvQgOvQ) | [Skylated](https://open.spotify.com/artist/62iHUQsjVEK33b5YlpRsrS) | [Eye Of The Rain](https://open.spotify.com/album/6YpLnqT6dPYyacJMO0dLwZ) | 2:26 |
 | 84 | [Rain Dance Sounds](https://open.spotify.com/track/4PI3a6dZjAYoHp1zI0pIOW) | [Lullaby Rain](https://open.spotify.com/artist/5wIxFf9jir05erRCw4Jyr1) | [Rain Dance Sounds](https://open.spotify.com/album/1CKrMwqgoOHP51S6EqC65q) | 2:11 |
 | 85 | [Eternal Rain](https://open.spotify.com/track/2fWQD5MZ0TxrgNDqcBZkCB) | [Heal Your Soul](https://open.spotify.com/artist/67Ids2ljNbqqydXuFkpamw) | [Rain Healing](https://open.spotify.com/album/4M1SM1am0TFgRp3RJOcjmX) | 2:56 |
 | 86 | [Rainwater](https://open.spotify.com/track/1yyU2J7XE1VQ4tG9x2cT5u) | [The Weather Channel](https://open.spotify.com/artist/6oRsQFv60pMDQmDWkpH4Nu) | [Rain Sounds](https://open.spotify.com/album/2yyOeP6MeA53yZJNmvFrHE) | 2:38 |
 | 87 | [Emerald Equilibrium \- Green Noise](https://open.spotify.com/track/7DdAxIRZq2r2oZ5LpGzS7g) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Emerald Equilibrium \(Green Noise\)](https://open.spotify.com/album/34POhvSxWfrBsKXbIzdtYA) | 2:44 |
 | 88 | [Looking At The Ocean](https://open.spotify.com/track/3EwIzgNyOL5siTxOaZL0fo) | [Deeply Oceanic](https://open.spotify.com/artist/5XxDTSUvUZnEOlY6plTe9v) | [Wave Period](https://open.spotify.com/album/75qHF82HCi47YOiDfgKX1Q) | 2:44 |
-| 89 | [Élevé Naturel](https://open.spotify.com/track/5IxXSlodpE3vSMSDUtjktG) | [S'enfoncer Dans Le Paradis](https://open.spotify.com/artist/6jjZLzJSJMBo8aKARuLucF) | [Augmentation De La Température](https://open.spotify.com/album/0ciLsFneHhbBdGSEj25KrV) | 2:18 |
-| 90 | [Morning Waves Monterey County](https://open.spotify.com/track/1d7oQ7sOvgUFiq6G7X3eIO) | [California Coast Sound Recordings](https://open.spotify.com/artist/3m9UYzHMMeHADsX91DgQ4V) | [Coastal Relaxation](https://open.spotify.com/album/2P2hdKyXirmgc60wEMylrL) | 3:10 |
-| 91 | [The Windy Sea and the Magic Black Clow](https://open.spotify.com/track/0tFbty1a2beobzgmV5Cwlf) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Contemplation by the Sea](https://open.spotify.com/album/0YLBgediglomrRmXQFsX3a) | 2:14 |
+| 89 | [The Windy Sea and the Magic Black Clow](https://open.spotify.com/track/0tFbty1a2beobzgmV5Cwlf) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Contemplation by the Sea](https://open.spotify.com/album/0YLBgediglomrRmXQFsX3a) | 2:14 |
+| 90 | [Élevé Naturel](https://open.spotify.com/track/5IxXSlodpE3vSMSDUtjktG) | [S'enfoncer Dans Le Paradis](https://open.spotify.com/artist/6jjZLzJSJMBo8aKARuLucF) | [Augmentation De La Température](https://open.spotify.com/album/0ciLsFneHhbBdGSEj25KrV) | 2:18 |
+| 91 | [Morning Waves Monterey County](https://open.spotify.com/track/1d7oQ7sOvgUFiq6G7X3eIO) | [California Coast Sound Recordings](https://open.spotify.com/artist/3m9UYzHMMeHADsX91DgQ4V) | [Coastal Relaxation](https://open.spotify.com/album/2P2hdKyXirmgc60wEMylrL) | 3:10 |
 | 92 | [Grey Autumn Clouds](https://open.spotify.com/track/7ko9B1nVkg6dFKIoQPje8X) | [Haya Sounds](https://open.spotify.com/artist/39JG88X2ortGs8wgP8DIJ2) | [Nap In The Rain](https://open.spotify.com/album/41z7huBCXKIqZHI5TjYymK) | 3:28 |
 
 Snapshot ID: `Z7XtLgAAAADbKZVPgd87voQiwwCt8Tmv`

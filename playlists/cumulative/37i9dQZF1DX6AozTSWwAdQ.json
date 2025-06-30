@@ -2471,6 +2471,28 @@
     },
     {
       "album": {
+        "name": "Five More Seconds",
+        "url": "https://open.spotify.com/album/5dScjnelB84gPAcNj9UX5J"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        },
+        {
+          "name": "KT Tunstall",
+          "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157911,
+      "name": "Five More Seconds",
+      "url": "https://open.spotify.com/track/3k4bu6jrWBQjzxJL0GUo2k"
+    },
+    {
+      "album": {
         "name": "fleabag",
         "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
       },
@@ -7720,7 +7742,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-30",
       "duration_ms": 197775,
       "name": "Troubled Waters",
       "url": "https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v"

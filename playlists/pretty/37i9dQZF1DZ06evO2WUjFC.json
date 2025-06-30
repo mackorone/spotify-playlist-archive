@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAAAmmcDfz2o5UCYxRoBg8PUK",
+  "snapshot_id": "aF8wgAAAAADNJK9M6zzxQ0E64+190vr4",
   "tracks": [
     {
       "added_at": null,
@@ -479,26 +479,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Coquette",
-        "url": "https://open.spotify.com/album/4o9brFx9I8j4e7kS12vEqf"
+        "name": "LVR",
+        "url": "https://open.spotify.com/album/0cnGReKwKVPC3eC2cZ0dBd"
       },
       "artists": [
         {
-          "name": "Antonin Padilla",
-          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
+          "name": "Tyan G",
+          "url": "https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C"
         },
         {
-          "name": "Lupe Borbon y su Blindaje 7",
-          "url": "https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl"
+          "name": "Chris Hermosillo",
+          "url": "https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B"
         },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 182613,
-      "name": "Las Coquette",
-      "url": "https://open.spotify.com/track/5lSATBJW5sKxdtZoWEkOWl"
+      "duration_ms": 172319,
+      "name": "LVR",
+      "url": "https://open.spotify.com/track/5KNvCKJdtfXI3Ldagd2g6c"
     },
     {
       "added_at": null,
@@ -535,26 +535,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "LVR",
-        "url": "https://open.spotify.com/album/0cnGReKwKVPC3eC2cZ0dBd"
+        "name": "Las Coquette",
+        "url": "https://open.spotify.com/album/4o9brFx9I8j4e7kS12vEqf"
       },
       "artists": [
         {
-          "name": "Tyan G",
-          "url": "https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C"
+          "name": "Antonin Padilla",
+          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
         },
         {
-          "name": "Chris Hermosillo",
-          "url": "https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B"
+          "name": "Lupe Borbon y su Blindaje 7",
+          "url": "https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl"
         },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 172319,
-      "name": "LVR",
-      "url": "https://open.spotify.com/track/5KNvCKJdtfXI3Ldagd2g6c"
+      "duration_ms": 182613,
+      "name": "Las Coquette",
+      "url": "https://open.spotify.com/track/5lSATBJW5sKxdtZoWEkOWl"
     },
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Andares De Alfredo",
-        "url": "https://open.spotify.com/album/1qBgmwNHtokGyv7normIXi"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Los Migueles De Miguel Montoya",
-          "url": "https://open.spotify.com/artist/5bNWEPILoKYKWkPbnTKHns"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "Los Andares De Alfredo",
-      "url": "https://open.spotify.com/track/2PL2WfNavyQPrihZYO84B5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Conciencia",
         "url": "https://open.spotify.com/album/36nqP6gvOrWZBQJnOmapjq"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 229000,
       "name": "Tu Conciencia",
       "url": "https://open.spotify.com/track/1XzuxgapAUAG410B5LuidA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Andares De Alfredo",
+        "url": "https://open.spotify.com/album/1qBgmwNHtokGyv7normIXi"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Los Migueles De Miguel Montoya",
+          "url": "https://open.spotify.com/artist/5bNWEPILoKYKWkPbnTKHns"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "Los Andares De Alfredo",
+      "url": "https://open.spotify.com/track/2PL2WfNavyQPrihZYO84B5"
     },
     {
       "added_at": null,
@@ -887,6 +887,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mariachi Tumbado",
+        "url": "https://open.spotify.com/album/335zeL9J8OJmo2tlroxaI7"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 168720,
+      "name": "Mariachi Tumbado",
+      "url": "https://open.spotify.com/track/4rTmwZuswNYGDK3M2Ia7Zc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Y Ah\u00ed Vamos",
         "url": "https://open.spotify.com/album/0X3P4KYmCXt1EQaQe6CXIu"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 180600,
       "name": "GRUPO T\u00c1CTICO",
       "url": "https://open.spotify.com/track/1BZSu3nKKyjnSJHaaUgeFb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mariachi Tumbado",
-        "url": "https://open.spotify.com/album/335zeL9J8OJmo2tlroxaI7"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 168720,
-      "name": "Mariachi Tumbado",
-      "url": "https://open.spotify.com/track/4rTmwZuswNYGDK3M2Ia7Zc"
     },
     {
       "added_at": null,

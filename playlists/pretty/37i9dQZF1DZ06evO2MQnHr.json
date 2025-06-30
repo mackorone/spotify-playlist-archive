@@ -1,12 +1,12 @@
 {
   "description": "This is Madeline Merlo. The essential tracks, all in one playlist.",
-  "num_followers": 369,
+  "num_followers": 370,
   "original_name": "This Is Madeline Merlo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAAAA1NrsW4DcGIKqVxjyfhm/",
+  "snapshot_id": "aF8wgAAAAAAFf3EniIAaOGM8LcacsSr3",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unraveling",
-        "url": "https://open.spotify.com/album/1DigFIrYSADGMkHyWAb11D"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 212360,
-      "name": "Unraveling",
-      "url": "https://open.spotify.com/track/6DwP8U1JYIEQPVo8QU9JO7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Motel Flamingo",
         "url": "https://open.spotify.com/album/3qxC1n7VT78zERw6tUByxR"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 212134,
       "name": "Motel Flamingo",
       "url": "https://open.spotify.com/track/3o4n673cQvRJ0mON7vg5pF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unraveling",
+        "url": "https://open.spotify.com/album/1DigFIrYSADGMkHyWAb11D"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "Unraveling",
+      "url": "https://open.spotify.com/track/6DwP8U1JYIEQPVo8QU9JO7"
     },
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 190826,
+      "name": "I Need A Drink",
+      "url": "https://open.spotify.com/track/5IEovkT4oqFuDIkxIuhAvb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Country Crush (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
       },
@@ -343,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ"
+        "name": "You'll Think Of Me",
+        "url": "https://open.spotify.com/album/6KVzYtxuoocc5zGopgHj89"
       },
       "artists": [
         {
@@ -352,25 +368,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 190826,
-      "name": "I Need A Drink",
-      "url": "https://open.spotify.com/track/5IEovkT4oqFuDIkxIuhAvb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ONE HOUSE DOWN (from the girl next door)",
-        "url": "https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 192373,
-      "name": "Bar Fight",
-      "url": "https://open.spotify.com/track/64QjyKIjRMHjzPjZ3QntWk"
+      "duration_ms": 247026,
+      "name": "You'll Think Of Me",
+      "url": "https://open.spotify.com/track/5tnvKlUmIXpHtN79p4jRjF"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
       "duration_ms": 207906,
       "name": "Crush",
       "url": "https://open.spotify.com/track/1tZ1TWoBfBIOnWU3ieSRzk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You'll Think Of Me",
-        "url": "https://open.spotify.com/album/6KVzYtxuoocc5zGopgHj89"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 247026,
-      "name": "You'll Think Of Me",
-      "url": "https://open.spotify.com/track/5tnvKlUmIXpHtN79p4jRjF"
     },
     {
       "added_at": null,
@@ -432,9 +416,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 202920,
-      "name": "Good Grief",
-      "url": "https://open.spotify.com/track/3N1TEfHBqbcfltDTJFia3X"
+      "duration_ms": 192373,
+      "name": "Bar Fight",
+      "url": "https://open.spotify.com/track/64QjyKIjRMHjzPjZ3QntWk"
     },
     {
       "added_at": null,
@@ -499,22 +483,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "5:01+",
-        "url": "https://open.spotify.com/album/1yihl82DEmXyxWnXz1mjaj"
+        "name": "ONE HOUSE DOWN (from the girl next door)",
+        "url": "https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU"
       },
       "artists": [
-        {
-          "name": "Tim Hicks",
-          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
-        },
         {
           "name": "Madeline Merlo",
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 236426,
-      "name": "Ready to Say Goodnight",
-      "url": "https://open.spotify.com/track/0ZUvBRRa9wWAJpCLqeaarZ"
+      "duration_ms": 202920,
+      "name": "Good Grief",
+      "url": "https://open.spotify.com/track/3N1TEfHBqbcfltDTJFia3X"
     },
     {
       "added_at": null,
@@ -555,18 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Country Crush (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
+        "name": "5:01+",
+        "url": "https://open.spotify.com/album/1yihl82DEmXyxWnXz1mjaj"
       },
       "artists": [
+        {
+          "name": "Tim Hicks",
+          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
+        },
         {
           "name": "Madeline Merlo",
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 199196,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/4wIrw2G3Rt2e70EY9UEFrT"
+      "duration_ms": 236426,
+      "name": "Ready to Say Goodnight",
+      "url": "https://open.spotify.com/track/0ZUvBRRa9wWAJpCLqeaarZ"
     },
     {
       "added_at": null,
@@ -587,6 +571,22 @@
       "duration_ms": 229165,
       "name": "Here I Am Gone",
       "url": "https://open.spotify.com/track/4LEHZIyk29as3lfGq7tS2u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Country Crush (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 199196,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4wIrw2G3Rt2e70EY9UEFrT"
     },
     {
       "added_at": null,

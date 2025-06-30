@@ -1,6 +1,6 @@
 {
   "description": "\uc13c\uce58\ud55c \uac10\uc815\uc744 \ub178\ub798\ud558\ub294 \uac10\uc131\uc801\uc778 \uace1\ub4e4\uacfc \ud568\uaed8 \ubb3c \uba4d\uc5d0 \uc7a0\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 5706,
+  "num_followers": 5742,
   "original_name": "\ubb3c \uba4d",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-06-26 04:30:16",
       "album": {
+        "name": "Clancy",
+        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn"
+    },
+    {
+      "added_at": "2025-06-26 04:30:16",
+      "album": {
         "name": "Model",
         "url": "https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 179320,
       "name": "Lithonia",
       "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23"
-    },
-    {
-      "added_at": "2025-06-26 04:30:16",
-      "album": {
-        "name": "Clancy",
-        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Backslide",
-      "url": "https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn"
     },
     {
       "added_at": "2025-06-26 04:30:16",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-06-26 04:30:16",
       "album": {
-        "name": "Model",
-        "url": "https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 167144,
-      "name": "You (Show Me Where My Days Went)",
-      "url": "https://open.spotify.com/track/08QharKdouaH70SCqhfcZM"
-    },
-    {
-      "added_at": "2025-06-26 04:30:16",
-      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 197995,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt"
+    },
+    {
+      "added_at": "2025-06-26 04:30:16",
+      "album": {
+        "name": "Clancy",
+        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "The Craving (Jenna's version)",
+      "url": "https://open.spotify.com/track/4hfqe20vqkuRv1RDsA1LbQ"
     },
     {
       "added_at": "2025-06-26 04:30:16",
@@ -771,18 +771,34 @@
     {
       "added_at": "2025-06-26 04:30:16",
       "album": {
-        "name": "Clancy",
-        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
+        "name": "Model",
+        "url": "https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ"
       },
       "artists": [
         {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
         }
       ],
-      "duration_ms": 174133,
-      "name": "The Craving (Jenna's version)",
-      "url": "https://open.spotify.com/track/4hfqe20vqkuRv1RDsA1LbQ"
+      "duration_ms": 167144,
+      "name": "You (Show Me Where My Days Went)",
+      "url": "https://open.spotify.com/track/08QharKdouaH70SCqhfcZM"
+    },
+    {
+      "added_at": "2025-06-26 04:30:16",
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO"
+      },
+      "artists": [
+        {
+          "name": "Friday Pilots Club",
+          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "Spectator",
+      "url": "https://open.spotify.com/track/0W9jWMTASe0JmydIrXwSEz"
     },
     {
       "added_at": "2025-06-26 04:30:16",
@@ -799,22 +815,6 @@
       "duration_ms": 229040,
       "name": "Dead To Me",
       "url": "https://open.spotify.com/track/5BxC04q61icn0SHinQCBeR"
-    },
-    {
-      "added_at": "2025-06-26 04:30:16",
-      "album": {
-        "name": "dosii",
-        "url": "https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6"
-      },
-      "artists": [
-        {
-          "name": "dosii",
-          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
-        }
-      ],
-      "duration_ms": 231709,
-      "name": "lovememore.",
-      "url": "https://open.spotify.com/track/0P9XwjnnIPQFTwdqvu01Mf"
     }
   ],
   "unique_name": "\ubb3c \uba4d",

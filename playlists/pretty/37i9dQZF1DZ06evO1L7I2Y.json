@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3363,
+  "num_followers": 3366,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAAAFhDqDGVGOkicbfm2LNLZ3",
+  "snapshot_id": "aF8wgAAAAAD/ayG5kMq1qVvKfD2/uwov",
   "tracks": [
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Jogo Virou",
-        "url": "https://open.spotify.com/album/3m4s2u9Be8BzIv9rFhi3eN"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        }
-      ],
-      "duration_ms": 172009,
-      "name": "O Jogo Virou",
-      "url": "https://open.spotify.com/track/187pijczzR58jQMhlyQbH8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PELE",
         "url": "https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 134264,
       "name": "Matem\u00e1tica",
       "url": "https://open.spotify.com/track/2BdeeOQKqKW7nsaZbr858b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Jogo Virou",
+        "url": "https://open.spotify.com/album/3m4s2u9Be8BzIv9rFhi3eN"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        }
+      ],
+      "duration_ms": 172009,
+      "name": "O Jogo Virou",
+      "url": "https://open.spotify.com/track/187pijczzR58jQMhlyQbH8"
     },
     {
       "added_at": null,
@@ -599,6 +599,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "PELE",
+        "url": "https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        },
+        {
+          "name": "Kash",
+          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
+        }
+      ],
+      "duration_ms": 224841,
+      "name": "N.I.N.A",
+      "url": "https://open.spotify.com/track/5ITMvmuOHl4OweZI81wF6X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sabotage 50",
         "url": "https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ"
       },
@@ -619,26 +643,6 @@
       "duration_ms": 234090,
       "name": "Respeito \u00c9 Pra Quem Tem - Sabotage 50",
       "url": "https://open.spotify.com/track/13aWuppoBBo1SiRkJl6E6d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PELE",
-        "url": "https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 81730,
-      "name": "10X Melhor (Interl\u00fadio)",
-      "url": "https://open.spotify.com/track/6l8WdWrVFAkG6sbpdEHyEm"
     },
     {
       "added_at": null,
@@ -691,30 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Downhill Domination - SECOND EDITION",
-        "url": "https://open.spotify.com/album/6mbbLYoIInIZ8aYXwgF3iN"
-      },
-      "artists": [
-        {
-          "name": "NIKITO Labrae",
-          "url": "https://open.spotify.com/artist/7kJlA28zS73R2HbzBGSbVg"
-        },
-        {
-          "name": "BPP Tan",
-          "url": "https://open.spotify.com/artist/0hdjrAuYJ4KPQGHVX9bd7U"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 251076,
-      "name": "Bizarro",
-      "url": "https://open.spotify.com/track/51gfLlDOW80LNC7s0Uoy1k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PELE",
         "url": "https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh"
       },
@@ -726,15 +706,11 @@
         {
           "name": "Terra",
           "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        },
-        {
-          "name": "Kash",
-          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
         }
       ],
-      "duration_ms": 224841,
-      "name": "N.I.N.A",
-      "url": "https://open.spotify.com/track/5ITMvmuOHl4OweZI81wF6X"
+      "duration_ms": 81730,
+      "name": "10X Melhor (Interl\u00fadio)",
+      "url": "https://open.spotify.com/track/6l8WdWrVFAkG6sbpdEHyEm"
     },
     {
       "added_at": null,
@@ -763,6 +739,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Downhill Domination - SECOND EDITION",
+        "url": "https://open.spotify.com/album/6mbbLYoIInIZ8aYXwgF3iN"
+      },
+      "artists": [
+        {
+          "name": "NIKITO Labrae",
+          "url": "https://open.spotify.com/artist/7kJlA28zS73R2HbzBGSbVg"
+        },
+        {
+          "name": "BPP Tan",
+          "url": "https://open.spotify.com/artist/0hdjrAuYJ4KPQGHVX9bd7U"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 251076,
+      "name": "Bizarro",
+      "url": "https://open.spotify.com/track/51gfLlDOW80LNC7s0Uoy1k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FUTURO III",
         "url": "https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR"
       },
@@ -783,34 +783,6 @@
       "duration_ms": 139591,
       "name": "VIM DE L\u00c1",
       "url": "https://open.spotify.com/track/48e962A7BqrinOw2mWYpxD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trono de Vidro",
-        "url": "https://open.spotify.com/album/5478asny0EoVp8jWQ0DAX7"
-      },
-      "artists": [
-        {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Thamiris",
-          "url": "https://open.spotify.com/artist/4mIvneZNoJwl8pLlfPBMOn"
-        },
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 161896,
-      "name": "Paz Terr\u00edvel",
-      "url": "https://open.spotify.com/track/7vpLD8SnpMWi3D6WJc0hme"
     },
     {
       "added_at": null,
@@ -839,6 +811,34 @@
       "duration_ms": 156442,
       "name": "Lux\u00faria",
       "url": "https://open.spotify.com/track/37W8TBDB1z5rhQPEUP1Bhz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trono de Vidro",
+        "url": "https://open.spotify.com/album/5478asny0EoVp8jWQ0DAX7"
+      },
+      "artists": [
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Thamiris",
+          "url": "https://open.spotify.com/artist/4mIvneZNoJwl8pLlfPBMOn"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 161896,
+      "name": "Paz Terr\u00edvel",
+      "url": "https://open.spotify.com/track/7vpLD8SnpMWi3D6WJc0hme"
     },
     {
       "added_at": null,

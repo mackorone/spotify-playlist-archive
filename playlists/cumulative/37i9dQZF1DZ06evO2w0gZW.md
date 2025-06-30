@@ -4,7 +4,7 @@
 
 > This is Mariah Carey\. The essential tracks, all in one playlist.
 
-87 songs - 5 hr 48 min
+88 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Obsessed](https://open.spotify.com/track/5EGPf0nqO7vEIwsOX6Er98) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel \(International Version\)](https://open.spotify.com/album/0an7K6LfvYERpVviYMUFp0) | 4:02 | 2023-07-28 |  |
 | [Obsessed \(feat\. Mariah Carey\)](https://open.spotify.com/track/1lEIT08AUU67qef6MkKAKx) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Gooch](https://open.spotify.com/album/4LM7ibF4BGEDBqlzcY6zly) | 4:08 | 2024-05-10 | 2025-03-15 |
 | [Oh Santa! \(feat\. Ariana Grande & Jennifer Hudson\)](https://open.spotify.com/track/2VkuxjlbnbaBiWYpdBGVol) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Mariah Carey's Magical Christmas Special \(Apple TV+ Original Soundtrack\)](https://open.spotify.com/album/5VfesyhwiNgpEEPXlO5c84) | 3:20 | 2023-12-13 | 2023-12-30 |
+| [One Heart, One Voice \(with Mariah Carey & Ariana Grande\)](https://open.spotify.com/track/4ZfLdr8yKKza6ZMEa5VMxI) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [The Secret Of Life: Partners, Volume 2](https://open.spotify.com/album/3IWJnA5vzbaVW3LaNuftb2) | 5:19 | 2025-06-30 |  |
 | [One Sweet Day](https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:41 | 2023-07-28 |  |
 | [Open Arms](https://open.spotify.com/track/5zVY1h1jUFLhZ7fLBjMTK7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 3:29 | 2023-07-28 |  |
 | [Portrait \- Hopeful Child Remix \- Edit \[from Audible Words + Music\]](https://open.spotify.com/track/1wQvi47YYK1M4j7wrKe8Xw) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Portrait](https://open.spotify.com/album/15WsqKGEs4tB3TNhYC4so1) | 6:24 | 2024-05-26 | 2024-07-14 |
@@ -73,7 +74,7 @@
 | [Shake It Off](https://open.spotify.com/track/4VKnkoNNM6yTb4cXXX3wqD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:52 | 2023-07-28 |  |
 | [Shake It Off](https://open.spotify.com/track/6rJQTvhKl5GSEA8SWW7t1X) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:52 | 2024-10-23 | 2024-10-26 |
 | [Silent Night](https://open.spotify.com/track/1sFWEpf1aPYN576LS1aa4Y) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 3:39 | 2023-12-21 | 2023-12-30 |
-| [Someday](https://open.spotify.com/track/6TSM5vkz0WzyZsNAKKYDcw) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 4:06 | 2023-07-28 |  |
+| [Someday](https://open.spotify.com/track/6TSM5vkz0WzyZsNAKKYDcw) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 4:06 | 2023-07-28 | 2025-06-30 |
 | [Thank God I Found You \(feat\. Joe & 98°\)](https://open.spotify.com/track/1RS3LStQYhju50eBdD9Uul) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX), [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:17 | 2023-07-28 |  |
 | [The Prince Of Egypt \(When You Believe\)](https://open.spotify.com/track/2eGxZNPQVTWjXSKazFQOMg) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Prince Of Egypt \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA) | 5:01 | 2023-07-28 | 2024-04-03 |
 | [The Roof \(When I Feel the Need\) \(feat\. Brandy\)](https://open.spotify.com/track/3rptYWhwQWNWcACrYu4CGg) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Butterfly: 25th Anniversary Expanded Edition](https://open.spotify.com/album/3VOqo81Nwyx8rcZEc2l379) | 4:54 | 2023-07-28 | 2023-09-16 |

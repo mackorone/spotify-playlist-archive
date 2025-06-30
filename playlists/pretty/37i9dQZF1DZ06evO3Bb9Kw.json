@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 173050,
+  "num_followers": 173059,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAACPSfGOKqxStIvaK5TRXksD",
+  "snapshot_id": "aF8wgAAAAABTctnPLvKAHGz+Fedhycrh",
   "tracks": [
     {
       "added_at": null,
@@ -955,6 +955,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crazy Ex-Girlfriend",
+        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Crazy Ex-Girlfriend",
+      "url": "https://open.spotify.com/track/2E9n1Zpby16xLUPoujMUSd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If You Were Mine",
         "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 219882,
       "name": "If You Were Mine",
       "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crazy Ex-Girlfriend",
-        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Crazy Ex-Girlfriend",
-      "url": "https://open.spotify.com/track/2E9n1Zpby16xLUPoujMUSd"
     },
     {
       "added_at": null,

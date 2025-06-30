@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 8452,
+  "num_followers": 8455,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAABRsE1VFZ2RRAxWraNhPtEX",
+  "snapshot_id": "aF8wgAAAAAC97RSkVGcUOy+o2pvw/aO3",
   "tracks": [
     {
       "added_at": null,
@@ -123,26 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imperfecto",
-        "url": "https://open.spotify.com/album/5ldOIiMp33j3EbswWK0Ipv"
-      },
-      "artists": [
-        {
-          "name": "Meri Deal",
-          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 181181,
-      "name": "Imperfecto",
-      "url": "https://open.spotify.com/track/5V60OhB9WYqDhG8va96eCS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bye Boy",
         "url": "https://open.spotify.com/album/1zHYaWSoIDDI12DM5yEXrc"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 178261,
       "name": "Bye Boy",
       "url": "https://open.spotify.com/track/2if0GLjlNgA4H5nJ4tQEkT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imperfecto",
+        "url": "https://open.spotify.com/album/5ldOIiMp33j3EbswWK0Ipv"
+      },
+      "artists": [
+        {
+          "name": "Meri Deal",
+          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 181181,
+      "name": "Imperfecto",
+      "url": "https://open.spotify.com/track/5V60OhB9WYqDhG8va96eCS"
     },
     {
       "added_at": null,
@@ -507,18 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demasiado",
-        "url": "https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV"
+        "name": "M\u00cdO",
+        "url": "https://open.spotify.com/album/2GdI0IR3dlKQVgNtuwksJP"
       },
       "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 177426,
-      "name": "Demasiado",
-      "url": "https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7"
+      "duration_ms": 217232,
+      "name": "M\u00cdO",
+      "url": "https://open.spotify.com/track/7uPHgWAcx4Knbu6Qp0ULNe"
     },
     {
       "added_at": null,
@@ -539,22 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00cdO",
-        "url": "https://open.spotify.com/album/2GdI0IR3dlKQVgNtuwksJP"
+        "name": "Demasiado",
+        "url": "https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV"
       },
       "artists": [
-        {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 217232,
-      "name": "M\u00cdO",
-      "url": "https://open.spotify.com/track/7uPHgWAcx4Knbu6Qp0ULNe"
+      "duration_ms": 177426,
+      "name": "Demasiado",
+      "url": "https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7"
     },
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antonio El Sincero",
-        "url": "https://open.spotify.com/album/1UUdPOgbibHo6m1Z17JeML"
-      },
-      "artists": [
-        {
-          "name": "Tony True and the Tijuana Tres",
-          "url": "https://open.spotify.com/artist/0AvWuJUBynDr5nPSoXsLIp"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 177728,
-      "name": "Espero",
-      "url": "https://open.spotify.com/track/0V3OIIXCCpNULwcGL5kXP5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo Te Da Igual",
         "url": "https://open.spotify.com/album/1nFx1eTuIFIgJDtNtVgfwU"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 161000,
       "name": "Todo Te Da Igual",
       "url": "https://open.spotify.com/track/3GpXbieCpFyFhripXlvZLJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Antonio El Sincero",
+        "url": "https://open.spotify.com/album/1UUdPOgbibHo6m1Z17JeML"
+      },
+      "artists": [
+        {
+          "name": "Tony True and the Tijuana Tres",
+          "url": "https://open.spotify.com/artist/0AvWuJUBynDr5nPSoXsLIp"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 177728,
+      "name": "Espero",
+      "url": "https://open.spotify.com/track/0V3OIIXCCpNULwcGL5kXP5"
     },
     {
       "added_at": null,

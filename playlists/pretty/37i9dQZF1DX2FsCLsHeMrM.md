@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 
 > Gettin' figgy with it, bana\-na\-na\-nanana
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,110,090 likes - 150 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,110,186 likes - 150 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 | 94 | [Sumthin' Sumthin' \- Remastered 2021](https://open.spotify.com/track/60Pjyla2BNnWzWxNXxGa4u) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 4:17 |
 | 95 | [Work To Do](https://open.spotify.com/track/6CZd52tAm2Cms0px3idmoc) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [The Essential Isley Brothers](https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v) | 3:10 |
 | 96 | [Don't Take It Personal \(Just One of Dem Days\)](https://open.spotify.com/track/0JCAezTC5IlK1a9o0YBEsD) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Miss Thang](https://open.spotify.com/album/71mPApAzW9HkbUGdYzMQHb) | 4:18 |
-| 97 | [Get to Know Ya \- Remastered 2021](https://open.spotify.com/track/1QGO7udymj4xp6w8jbpiF8) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 4:22 |
+| 97 | [Get to Know Ya \- 2021 Remaster](https://open.spotify.com/track/1QGO7udymj4xp6w8jbpiF8) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 4:22 |
 | 98 | [Don't Mess With My Man](https://open.spotify.com/track/2J2hVpwVV25EK8Bvd3OgCK) | [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Lucy Pearl](https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR) | 3:37 |
 | 99 | [Madiba Riddim](https://open.spotify.com/track/76gUmNLXGQVOsGhfcshkFP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:25 |
 | 100 | [Lost in Paris](https://open.spotify.com/track/6lxcWIvMQK3yezxwFfZcKZ) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Lost in Paris](https://open.spotify.com/album/3OGqx2jmVKVkKOIOxGjOQC) | 3:14 |

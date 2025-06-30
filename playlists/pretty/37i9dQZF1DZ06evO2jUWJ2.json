@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 303683,
+  "num_followers": 303738,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAADLSgm84gV2HAMQ0beF+G0U",
+  "snapshot_id": "aF8wgAAAAADc/xc8JcLrcWh3cScojlbM",
   "tracks": [
     {
       "added_at": null,
@@ -107,26 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LION",
-        "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Jonsal Barrientes",
-          "url": "https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J"
-        }
-      ],
-      "duration_ms": 481802,
-      "name": "Same God (feat. Jonsal Barrientes)",
-      "url": "https://open.spotify.com/track/7nrhv8ZemanddTfXk28rdy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Graves Into Gardens (Live)",
         "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
       },
@@ -143,6 +123,26 @@
       "duration_ms": 452499,
       "name": "Graves Into Gardens (Live)",
       "url": "https://open.spotify.com/track/4wc8FpW9XCUaoxtii3CiCf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LION",
+        "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Jonsal Barrientes",
+          "url": "https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J"
+        }
+      ],
+      "duration_ms": 481802,
+      "name": "Same God (feat. Jonsal Barrientes)",
+      "url": "https://open.spotify.com/track/7nrhv8ZemanddTfXk28rdy"
     },
     {
       "added_at": null,
@@ -531,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+        "name": "LION",
+        "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
       },
       "artists": [
         {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
         }
       ],
-      "duration_ms": 467053,
-      "name": "Resurrecting (Live)",
-      "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
+      "duration_ms": 499155,
+      "name": "Forever YHWH (feat. Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/6lWVaAM35H2Bu26XT6cVKm"
     },
     {
       "added_at": null,
@@ -571,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LION",
-        "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
       },
       "artists": [
         {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
         }
       ],
-      "duration_ms": 499155,
-      "name": "Forever YHWH (feat. Tiffany Hudson)",
-      "url": "https://open.spotify.com/track/6lWVaAM35H2Bu26XT6cVKm"
+      "duration_ms": 467053,
+      "name": "Resurrecting (Live)",
+      "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hallelujah Here Below",
-        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
+        "name": "Tumbas A Jardines",
+        "url": "https://open.spotify.com/album/6x77tBsuSV3YvKbFx2NAYf"
       },
       "artists": [
         {
@@ -624,13 +624,13 @@
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+          "name": "Elevation Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
         }
       ],
-      "duration_ms": 236735,
-      "name": "Echo (feat. Tauren Wells)",
-      "url": "https://open.spotify.com/track/6ZhORhQoBD0qndKYvpBTv2"
+      "duration_ms": 419491,
+      "name": "La Bendici\u00f3n (The Blessing)",
+      "url": "https://open.spotify.com/track/5KNP7zONOFZqOL3ixeWMOQ"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tumbas A Jardines",
-        "url": "https://open.spotify.com/album/6x77tBsuSV3YvKbFx2NAYf"
+        "name": "Hallelujah Here Below",
+        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
       },
       "artists": [
         {
@@ -668,13 +668,13 @@
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
-          "name": "Elevation Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
         }
       ],
-      "duration_ms": 419491,
-      "name": "La Bendici\u00f3n (The Blessing)",
-      "url": "https://open.spotify.com/track/5KNP7zONOFZqOL3ixeWMOQ"
+      "duration_ms": 236735,
+      "name": "Echo (feat. Tauren Wells)",
+      "url": "https://open.spotify.com/track/6ZhORhQoBD0qndKYvpBTv2"
     },
     {
       "added_at": null,

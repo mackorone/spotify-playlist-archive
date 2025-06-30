@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 133119,
+  "num_followers": 133116,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAACE7riKvps3xSAqA46ewg6J",
+  "snapshot_id": "aF8wgAAAAACqcxt4HjrmT3bpFRZfyRiv",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aceito o Teu Chamado",
-        "url": "https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 285419,
-      "name": "Acima da M\u00e9dia",
-      "url": "https://open.spotify.com/track/6cMyK8RdagUw3kiKzE0olj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Advogado Fiel",
         "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 266286,
       "name": "Que Bom Voc\u00ea Chegou",
       "url": "https://open.spotify.com/track/5huHLhDKhr8AGktePPSowf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aceito o Teu Chamado",
+        "url": "https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 285419,
+      "name": "Acima da M\u00e9dia",
+      "url": "https://open.spotify.com/track/6cMyK8RdagUw3kiKzE0olj"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alegria Real",
+        "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 358376,
+      "name": "Digno \u00e9 o Cordeiro",
+      "url": "https://open.spotify.com/track/3Kqwt1Powh8L5NqdBUwLeh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "10 Anos (Ao Vivo)",
         "url": "https://open.spotify.com/album/4sAqEgbJ67S6lA2LeVu0nv"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 244680,
       "name": "Eu Creio Nos Planos de Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/4StyOe9pamMyZHE5MTxclY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alegria Real",
-        "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 358376,
-      "name": "Digno \u00e9 o Cordeiro",
-      "url": "https://open.spotify.com/track/3Kqwt1Powh8L5NqdBUwLeh"
     },
     {
       "added_at": null,
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pensou em Mim",
-        "url": "https://open.spotify.com/album/5HvWIjlVWNqOG0EeHcLIWu"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 429290,
-      "name": "Pensou em Mim",
-      "url": "https://open.spotify.com/track/3eyalreOcCTILlrDh0qu6I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aviva-nos (Ao Vivo)",
         "url": "https://open.spotify.com/album/0WvYxMgrxjbcpSlLexrjRT"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 362502,
       "name": "Aviva-nos (Ao Vivo)",
       "url": "https://open.spotify.com/track/03mpdr8HJfKqihrPDl9F14"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pensou em Mim",
+        "url": "https://open.spotify.com/album/5HvWIjlVWNqOG0EeHcLIWu"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 429290,
+      "name": "Pensou em Mim",
+      "url": "https://open.spotify.com/track/3eyalreOcCTILlrDh0qu6I"
     },
     {
       "added_at": null,

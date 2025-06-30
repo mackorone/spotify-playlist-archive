@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 646787,
+  "num_followers": 646892,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAAAcDhQmzNnIw2Yr9qv6b4Fy",
+  "snapshot_id": "aF8wgAAAAABNVVtujLCH2TsL3aeR5mhE",
   "tracks": [
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adelita",
-        "url": "https://open.spotify.com/album/6q5Rn9TfFBYqvknRmyNlHQ"
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 277546,
-      "name": "Adelita",
-      "url": "https://open.spotify.com/track/5LCRHTTI17T53OcGEamGwJ"
+      "duration_ms": 237440,
+      "name": "Prove It All Night",
+      "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Darkness On the Edge of Town",
-        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+        "name": "Adelita",
+        "url": "https://open.spotify.com/album/6q5Rn9TfFBYqvknRmyNlHQ"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 237440,
-      "name": "Prove It All Night",
-      "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"
+      "duration_ms": 277546,
+      "name": "Adelita",
+      "url": "https://open.spotify.com/track/5LCRHTTI17T53OcGEamGwJ"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blind Spot",
-        "url": "https://open.spotify.com/album/7uApA7LL0do3kqf671TWOg"
+        "name": "Tunnel Of Love",
+        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 215640,
-      "name": "Blind Spot",
-      "url": "https://open.spotify.com/track/1G9NKmN4q6KG9lT6p7Q3Cu"
+      "duration_ms": 261826,
+      "name": "One Step Up",
+      "url": "https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tunnel Of Love",
-        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
+        "name": "Blind Spot",
+        "url": "https://open.spotify.com/album/7uApA7LL0do3kqf671TWOg"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 261826,
-      "name": "One Step Up",
-      "url": "https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb"
+      "duration_ms": 215640,
+      "name": "Blind Spot",
+      "url": "https://open.spotify.com/track/1G9NKmN4q6KG9lT6p7Q3Cu"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 209306,
-      "name": "I'll See You In My Dreams",
-      "url": "https://open.spotify.com/track/2uI2KlfpxGGVnLnpNWdhHS"
+      "duration_ms": 270280,
+      "name": "House Of A Thousand Guitars",
+      "url": "https://open.spotify.com/track/1SlatjHQbN3SO0JERD4Mwk"
     },
     {
       "added_at": null,
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 270280,
-      "name": "House Of A Thousand Guitars",
-      "url": "https://open.spotify.com/track/1SlatjHQbN3SO0JERD4Mwk"
+      "duration_ms": 209306,
+      "name": "I'll See You In My Dreams",
+      "url": "https://open.spotify.com/track/2uI2KlfpxGGVnLnpNWdhHS"
     }
   ],
   "unique_name": "This Is Bruce Springsteen",

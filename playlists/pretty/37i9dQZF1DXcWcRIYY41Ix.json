@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: Lorena \u00c1lvarez.",
-  "num_followers": 130385,
+  "num_followers": 130394,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2025-06-27 11:07:12",
       "album": {
-        "name": "La Despedida (feat. Valeria Castro)",
-        "url": "https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm"
-      },
-      "artists": [
-        {
-          "name": "Colectivo Panamera",
-          "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
-        },
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 218028,
-      "name": "La Despedida (feat. Valeria Castro)",
-      "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
-    },
-    {
-      "added_at": "2025-06-27 11:07:12",
-      "album": {
         "name": "Continuar",
         "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 215786,
       "name": "Vidrieritas",
       "url": "https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545"
+    },
+    {
+      "added_at": "2025-06-27 11:07:12",
+      "album": {
+        "name": "La Despedida (feat. Valeria Castro)",
+        "url": "https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm"
+      },
+      "artists": [
+        {
+          "name": "Colectivo Panamera",
+          "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
+        },
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 218028,
+      "name": "La Despedida (feat. Valeria Castro)",
+      "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
     },
     {
       "added_at": "2025-06-27 11:07:12",

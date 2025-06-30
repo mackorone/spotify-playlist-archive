@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOtfogi6YRI.md) - [plain]
 
 > Nieoczywiste aktualne brzmienia polskiego rapu\. Cover: Kacperczyk, Kukon
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,219 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,217 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

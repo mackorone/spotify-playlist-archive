@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,893 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,940 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 13 | [Veneno \- Ao Vivo](https://open.spotify.com/track/2QUl20UtEsH85livMYnbQr) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Acústico, Vol.2 \(Ao Vivo\)](https://open.spotify.com/album/4PCWrE06AezR84OPLuHyPI) | 2:58 |
 | 14 | [Saudade Burra \- Ao Vivo](https://open.spotify.com/track/3M4HJl7D77l86gL1QXGJHG) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Transcende \(Ao Vivo\)](https://open.spotify.com/album/7LgfD3r1bBvKvt3GFRlU6l) | 2:37 |
 | 15 | [Encosta na Parede](https://open.spotify.com/track/4EVIYtNeI4O8h0lmE0wycC) | [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Teko Bolado](https://open.spotify.com/artist/0hl7gXAUNmCr3cyhoE5Yga), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Encosta na Parede](https://open.spotify.com/album/4Lx2IrKx6HwDR1kEfXh2F0) | 2:11 |
-| 16 | [Mãe Solteira](https://open.spotify.com/track/4Hk1gmBr2KVEXr3hHwSgUi) | [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [J\. Eskine](https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Mãe Solteira](https://open.spotify.com/album/0RENSklQU2BMSY42Qgok0y) | 2:24 |
+| 16 | [Mãe Solteira](https://open.spotify.com/track/3cUWviu7umxTV5SfK8IkfI) | [J\. Eskine](https://open.spotify.com/artist/3a9ocyPK0V1CuZs70cs9Nk), [DG e Batidão Stronda](https://open.spotify.com/artist/46QtNoaF8e2zLpwteHWQvo), [Mc Davi](https://open.spotify.com/artist/4Ew5s1DTdiUExCIFsx15XD), [MC G15](https://open.spotify.com/artist/6nN0PgojEXxw5V6TX5BSeg) | [Mãe Solteira](https://open.spotify.com/album/0kPQkEePUvR1eCgCyzZHGw) | 2:24 |
 | 17 | [Olha Onde Eu Tô](https://open.spotify.com/track/10MsXPpQLz5ZrOEZxTtkIm) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Let's Go Rodeo](https://open.spotify.com/album/4NqeEHz29Ime2EZV8AUHkh) | 3:01 |
 | 18 | [Resumindo \- Ao Vivo](https://open.spotify.com/track/6vGZfODFI1FxMImSUbdJhz) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Magia das Estrelas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4ZFPMOKBs7Qv6dfUjrOqxc) | 2:25 |
 | 19 | [Amigo Da Minha Saudade \- Ao Vivo](https://open.spotify.com/track/07kLShG3HTeLXTqnFCqNAJ) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Saveiro](https://open.spotify.com/track/7l9Tq5phzkLnhWUyfp702G) | [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Saveiro](https://open.spotify.com/album/6uVgeP03fiAhjy23TVWKzS) | 2:24 |
 | 50 | [Seja Ex \- Ao Vivo](https://open.spotify.com/track/5k7JSycp97vL45zSOoUsTE) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn) | 3:12 |
 
-Snapshot ID: `L/NhqAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L/Sw0AAAAAAAAAAAAAAAAAAAAAAAAGVu`

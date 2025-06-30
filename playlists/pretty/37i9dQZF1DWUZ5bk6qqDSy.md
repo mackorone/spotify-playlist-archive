@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZ5bk6qqDSy.md) - [plain]
 
 > Ten hours long continuous white noise to help you relax and let go.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,874,938 likes - 200 songs - 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,876,190 likes - 200 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,11 +107,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZ5bk6qqDSy.md) - [plain]
 | 97 | [White Noise Chill](https://open.spotify.com/track/5hcvK2YKF1cr7cBNKTCKOW) | [Hypnotronica](https://open.spotify.com/artist/4V6Upc3fY4gIqOH6AogDCW) | [White Noise Chill](https://open.spotify.com/album/56vEzMivM0CGfVlqDWIzZD) | 3:02 |
 | 98 | [White Noise \- 7k +5.0 dB Gain](https://open.spotify.com/track/0yodukAf2LaYe9ZzX4xtRS) | [Noise Library Samples Bank](https://open.spotify.com/artist/6CL6g0j2NdZ5DjhL0JHtkc) | [Light Noise Samples](https://open.spotify.com/album/7piAiiAMVL8xJxat85Jjaq) | 2:08 |
 | 99 | [White Noise asleep on my feet](https://open.spotify.com/track/5RbVq0wsb6uAwFBYNzqHuD) | [A Dreaming Machine](https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA) | [White Noise Sleep Frequencies](https://open.spotify.com/album/52N8PBq0YZxmu3A5ywct3C) | 3:34 |
-| 100 | [White Noise \- 70 Hz Cut](https://open.spotify.com/track/7gyYjuFYMqe6newbb6wKEI) | [Inscription](https://open.spotify.com/artist/0MlpjV25yBPHGlsGnsWVYy) | [Dream Hunting](https://open.spotify.com/album/6n11QD5OlItf8AEJJDFxJS) | 2:24 |
-| 101 | [Low Slow Noise](https://open.spotify.com/track/5RpqglzYhFDpxDlQXwol9P) | [Soundstars](https://open.spotify.com/artist/3q6rhbbRqf3kP062yQ4ro8) | [Low Slow Noise](https://open.spotify.com/album/3duCww2adwRWRR8811ErjL) | 2:05 |
-| 102 | [Smooth White Noise](https://open.spotify.com/track/7DqTiksMnzXDEb3WPh2VVC) | [Focus Finders](https://open.spotify.com/artist/46PyhxzOXadyGA2297Fp68) | [Smooth White Noise](https://open.spotify.com/album/7oXC4G3sDmIDpNeXogPBGa) | 2:23 |
-| 103 | [White Arctic Noise](https://open.spotify.com/track/7DbUDCoC1XwQ3Xq4R1Nf8T) | [Focus Noise](https://open.spotify.com/artist/15nL9hF1vK3mHTqpV9Z2jP) | [Fluffy Winds](https://open.spotify.com/album/11utgFeLO1G1HZsyPEaj6U) | 2:45 |
-| 104 | [Lean Noise](https://open.spotify.com/track/2KfLH77WUxnPq28o3SZsFp) | [Hovar](https://open.spotify.com/artist/3COnOYhmr8nINwgd54Z8wj) | [Lean Noise](https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg) | 2:17 |
+| 100 | [Low Slow Noise](https://open.spotify.com/track/5RpqglzYhFDpxDlQXwol9P) | [Soundstars](https://open.spotify.com/artist/3q6rhbbRqf3kP062yQ4ro8) | [Low Slow Noise](https://open.spotify.com/album/3duCww2adwRWRR8811ErjL) | 2:05 |
+| 101 | [Smooth White Noise](https://open.spotify.com/track/7DqTiksMnzXDEb3WPh2VVC) | [Focus Finders](https://open.spotify.com/artist/46PyhxzOXadyGA2297Fp68) | [Smooth White Noise](https://open.spotify.com/album/7oXC4G3sDmIDpNeXogPBGa) | 2:23 |
+| 102 | [White Arctic Noise](https://open.spotify.com/track/7DbUDCoC1XwQ3Xq4R1Nf8T) | [Focus Noise](https://open.spotify.com/artist/15nL9hF1vK3mHTqpV9Z2jP) | [Fluffy Winds](https://open.spotify.com/album/11utgFeLO1G1HZsyPEaj6U) | 2:45 |
+| 103 | [Lean Noise](https://open.spotify.com/track/2KfLH77WUxnPq28o3SZsFp) | [Hovar](https://open.spotify.com/artist/3COnOYhmr8nINwgd54Z8wj) | [Lean Noise](https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg) | 2:17 |
+| 104 | [White Noise \- 70 Hz Cut](https://open.spotify.com/track/7gyYjuFYMqe6newbb6wKEI) | [Inscription](https://open.spotify.com/artist/0MlpjV25yBPHGlsGnsWVYy) | [Dream Hunting](https://open.spotify.com/album/6n11QD5OlItf8AEJJDFxJS) | 2:24 |
 | 105 | [Pearly White Noise](https://open.spotify.com/track/2KF8eFDG3rJ2kl4RHoTUyH) | [Dream Son](https://open.spotify.com/artist/6Tl4693vgmUKDblSuqOKoo) | [Pearly White Noise](https://open.spotify.com/album/3iX2j5SGw0ccs76uiQacPH) | 5:14 |
 | 106 | [Sleeping Like a Baby with White Noise](https://open.spotify.com/track/0sb1fCD9OSi43f1mMFbdsc) | [Atmosphere of Calm](https://open.spotify.com/artist/42KcSR239KEB90nE0wzA09) | [White Noise Sleeping Pill](https://open.spotify.com/album/0H8mV5NFiwHiNP9hAizSLZ) | 2:24 |
 | 107 | [Smooth White Colors](https://open.spotify.com/track/3Xj7GjfLNoVM7uEUp4OApN) | [Citys Of Collides](https://open.spotify.com/artist/12h32e6YMBk03yUo8tySbQ) | [Smooth White Colors](https://open.spotify.com/album/2DIIYdv1sA6E17eExpHLBk) | 2:21 |
@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZ5bk6qqDSy.md) - [plain]
 | 128 | [White RF](https://open.spotify.com/track/5n1yzZr0sEVqYw7sRr7Bh3) | [Fluffy Duffy](https://open.spotify.com/artist/5Zar2ecaQrP2jeYjnjNk9p) | [Infrasound](https://open.spotify.com/album/1LIIxRKvZZfGTIVl2kpscl) | 2:56 |
 | 129 | [Noise & Relaxation](https://open.spotify.com/track/7ao1T99JJqBhQz6BdanOUS) | [Librarical Nature](https://open.spotify.com/artist/7hxI1aGCZDImZ8oRzudkbT) | [Noise & Relaxation](https://open.spotify.com/album/6EgOdvsgib7ZVJzCMEg0j4) | 2:33 |
 | 130 | [white noise hall](https://open.spotify.com/track/040R2K1gn128MwftR0bdyJ) | [tenuous](https://open.spotify.com/artist/2c0w3O1CdURTp36ZzxPPFO) | [lamentation](https://open.spotify.com/album/6wOx6IDIrIDJ30g68UoPWQ) | 2:41 |
-| 131 | [White Stillness](https://open.spotify.com/track/6UKGwtoh2dvrAzYNTqJRqz) | [Chome](https://open.spotify.com/artist/7qoGac7BPc1n3vkOSaRCjC) | [White Stillness](https://open.spotify.com/album/0iPB6VzMrzOG2BBVCs2PML) | 2:57 |
-| 132 | [Eggshell White Noise](https://open.spotify.com/track/2KQqc8N4myvQciVgjwhWGH) | [The Clear Mind](https://open.spotify.com/artist/17poofi2R6BSgWBubaEbGs) | [Eggshell White Noise](https://open.spotify.com/album/7vUivGX1FkXnOeBeAyX4cd) | 4:49 |
+| 131 | [Eggshell White Noise](https://open.spotify.com/track/2KQqc8N4myvQciVgjwhWGH) | [The Clear Mind](https://open.spotify.com/artist/17poofi2R6BSgWBubaEbGs) | [Eggshell White Noise](https://open.spotify.com/album/7vUivGX1FkXnOeBeAyX4cd) | 4:49 |
+| 132 | [White Stillness](https://open.spotify.com/track/6UKGwtoh2dvrAzYNTqJRqz) | [Chome](https://open.spotify.com/artist/7qoGac7BPc1n3vkOSaRCjC) | [White Stillness](https://open.spotify.com/album/0iPB6VzMrzOG2BBVCs2PML) | 2:57 |
 | 133 | [System Shutdown](https://open.spotify.com/track/4SJTFnmmfxotIdw2psMeDp) | [Synthetic Architect](https://open.spotify.com/artist/7CUcdQhE3WLGPzn3sEJNd5) | [Digitalion](https://open.spotify.com/album/2rHCzAuZnw7DcH7R0Nv2fM) | 3:00 |
 | 134 | [White Noise for Insomnia](https://open.spotify.com/track/3vrJPA36sdHEnMBQ0AUXjr) | [Linus Xio](https://open.spotify.com/artist/41Fdkp5EksVh44WCuZPioL) | [White Noise For Sleep](https://open.spotify.com/album/1LpKenrktP6cudR4B61Ilv) | 2:45 |
 | 135 | [Reverie White Noise](https://open.spotify.com/track/2m3nqd70klWytX8tQmKTzR) | [Skyline FX](https://open.spotify.com/artist/0Bk22etDRvzrog9780hCXb) | [Beautiful White Noise](https://open.spotify.com/album/4DmO0KwXz2l4iAdUwUJZaM) | 2:28 |

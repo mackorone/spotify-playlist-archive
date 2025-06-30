@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-306 songs - 17 hr 23 min
+307 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Color Your Night](https://open.spotify.com/track/4pjFNyjGaoKgLTnndISP6V) | [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 3:47 | 2024-04-26 |  |
 | [completion](https://open.spotify.com/track/4cMiyKkRtjzglIfBQtWEzH) | [Megurimeguru](https://open.spotify.com/artist/5z8DugoSIrKIjVw0i8DTFk) | [completion](https://open.spotify.com/album/6el6qm4djpKHsw5hoAwDZo) | 2:09 | 2025-02-18 |  |
 | [Creator](https://open.spotify.com/track/1mbLvyFNIifliPtmMmRQN9) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft: Tricky Trials \(Original Game Soundtrack\)](https://open.spotify.com/album/3ug2vtKk0URmKrt7ppYQst) | 2:57 | 2024-05-02 |  |
+| [Cubism](https://open.spotify.com/track/1kNX0OJo68zyYfeyTDyp78) | [Qisano](https://open.spotify.com/artist/4lxIvq3a7DcynJVycpSpML) | [Cubism](https://open.spotify.com/album/758JEaGEMDLXtFFCLxs1wc) | 3:25 | 2025-06-29 |  |
 | [Culling!](https://open.spotify.com/track/74hrlXt0b4gf3hJcqjYcom) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Etude of clair](https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV) | 3:08 | 2025-05-20 |  |
 | [curtain call](https://open.spotify.com/track/24NKOHv5J6YUXfYbHUEEhg) | [KANKAN](https://open.spotify.com/artist/2fmKgANQggORAvCBJCUOuD), [yowanecity](https://open.spotify.com/artist/7tZujezUi8x3PLTW0E0nyr) | [curtain call](https://open.spotify.com/album/4KKlVYEQF5TqfhPQHA9bAR) | 3:19 | 2024-07-01 |  |
 | [damn](https://open.spotify.com/track/7dNxxkapvf5eRkw24PHSpy) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 4:19 | 2023-11-20 |  |
@@ -205,7 +206,7 @@
 | [どろどろ](https://open.spotify.com/track/19t29QL6AooboodhvpetrU) | [Toiki.](https://open.spotify.com/artist/5zRxHcSIZl3iXv8udO7Vwu) | [天使も悪魔もいないから 2](https://open.spotify.com/album/69zt6hXI7NtmUQrGJbBqad) | 1:35 | 2024-11-11 |  |
 | [なしのつぶて](https://open.spotify.com/track/1O2hcDSkikd89nlbW5hmdV) | [未完成モノローグ](https://open.spotify.com/artist/26QVC80GmRRg4EbeTHs3H3) | [なしのつぶて](https://open.spotify.com/album/3ey0iJJMcD5q8tDA5r54MQ) | 2:46 | 2023-09-14 |  |
 | [ばかじゃないのに](https://open.spotify.com/track/1fMqXaqP3EhRWQdzxAaZqi) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [沈香学](https://open.spotify.com/album/1mtciArMoiLPqOdflY5dWQ) | 4:14 | 2024-01-31 |  |
-| [よふかしのうた](https://open.spotify.com/track/1j6Agt1Sn2DjQ0NA33J3r2) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [よふかしのうた](https://open.spotify.com/album/6peWfaCCNUTETgugcpNHed) | 4:00 | 2023-03-10 |  |
+| [よふかしのうた \- Yofukashino Uta](https://open.spotify.com/track/1j6Agt1Sn2DjQ0NA33J3r2) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [よふかしのうた](https://open.spotify.com/album/6peWfaCCNUTETgugcpNHed) | 4:00 | 2023-03-10 |  |
 | [アディオス](https://open.spotify.com/track/5GvjB9nq8oGYJWfEIMebZ3) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [アディオス](https://open.spotify.com/album/4ugiNFkcSGCDLCPdX7Nj9w) | 3:20 | 2023-09-11 |  |
 | [アデュー、サロー](https://open.spotify.com/track/0KeLopzJIbotv8hQ8fdBX3) | [猫又おかゆ](https://open.spotify.com/artist/28lO8lCOqFvDB5la90xKUW) | [アデュー、サロー](https://open.spotify.com/album/2rf16QleG0chhlywJ9UPsi) | 2:35 | 2022-08-27 |  |
 | [イドラのサーカス](https://open.spotify.com/track/2FvGW1qdjJwSzyB31IeeJj) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [マイネームイズラヴソング](https://open.spotify.com/album/676AXtU3CFKuDBf0wJsYuz) | 3:31 | 2022-08-18 |  |
@@ -260,7 +261,7 @@
 | [厭世という名の病 feat\. 初音ミク](https://open.spotify.com/track/4wX19Nf6Mc2ACCOnfD01bQ) | [蟲の知らせ](https://open.spotify.com/artist/28dGfhcMY5UMKJCRLLonvf), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [厭世という名の病 feat\. 初音ミク](https://open.spotify.com/album/1ZU3Lcg2jRN1UcoqfbBPbk) | 3:50 | 2024-10-03 |  |
 | [君はできない子](https://open.spotify.com/track/7corSqnjU5bX09ZXy3nhVD) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク3](https://open.spotify.com/album/5eSuy3Rr40DI0qcPOMFgX0) | 4:21 | 2022-11-25 |  |
 | [哀悼、そして日常は続く](https://open.spotify.com/track/18v2m4Y7q5wIBgQT3H9i6V) | [卯花ロク](https://open.spotify.com/artist/2IVqSBc264wMKlgTTFZN2r), [裏命](https://open.spotify.com/artist/3dYIVgbOkyGZpkwCZzYAvs) | [音楽的同位体 裏命 1st COMPILATION ALBUM パラノーマル \(vol.3 交響のパラノーマル\)](https://open.spotify.com/album/3otMRyCvg5ZHOMOtKTuLbi) | 4:22 | 2024-10-14 |  |
-| [堕天 \- Daten](https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [堕天](https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA) | 2:52 | 2023-06-22 |  |
+| [堕天 \- Daten](https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [堕天 \- Daten](https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA) | 2:52 | 2023-06-22 |  |
 | [壊れた人形のマーチ](https://open.spotify.com/track/6mHdGKGQNLCa4V0Z6W5PUO) | [少女理論観測所](https://open.spotify.com/artist/2nwIeM1Ph9IiHtFuNvhFDu) | [Border on Blossom](https://open.spotify.com/album/53OwVselTqJ9NxGSkBjx2F) | 4:24 | 2024-09-02 |  |
 | [夕暮れの鳥](https://open.spotify.com/track/4dZDlAkUb9b4hFkj6TNfK3) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [幼さを入院させて](https://open.spotify.com/album/1BZrhUoHveceCAbxUmMnuE) | 5:02 | 2024-10-28 | 2024-11-28 |
 | [夜に駆ける](https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:18 | 2022-11-25 |  |

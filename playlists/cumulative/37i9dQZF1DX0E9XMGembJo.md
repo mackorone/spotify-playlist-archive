@@ -2,7 +2,7 @@
 
 ### [DOPAMINE](https://open.spotify.com/playlist/37i9dQZF1DX0E9XMGembJo)
 
-> your daily dose of dopamine
+> a serotonin forward glow
 
 689 songs - 1 day 13 hr 32 min
 

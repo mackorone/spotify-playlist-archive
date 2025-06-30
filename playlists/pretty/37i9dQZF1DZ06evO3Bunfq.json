@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 123111,
+  "num_followers": 123119,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAABj75eG8qUb87+c/fmOmsEJ",
+  "snapshot_id": "aF8wgAAAAACj3GIcLcb4zrvryaYdt7s0",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mala Fama, Buena Vidha",
-        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 246533,
-      "name": "Te Gustan Malos",
-      "url": "https://open.spotify.com/track/6VexUh4HjrQOBEGhLKspoS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recia",
         "url": "https://open.spotify.com/album/2lCjZdvsSzI9W79U5nmp5p"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 237419,
       "name": "Recia",
       "url": "https://open.spotify.com/track/1BXba3d3aIzvM4wgn8hSVC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mala Fama, Buena Vidha",
+        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 246533,
+      "name": "Te Gustan Malos",
+      "url": "https://open.spotify.com/track/6VexUh4HjrQOBEGhLKspoS"
     },
     {
       "added_at": null,

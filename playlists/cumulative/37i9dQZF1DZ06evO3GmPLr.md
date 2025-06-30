@@ -4,7 +4,7 @@
 
 > This is Little Simz\. The essential tracks, all in one playlist.
 
-99 songs - 5 hr 38 min
+100 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Dead Body](https://open.spotify.com/track/0QWDfiuaV7W20y86RGtREF) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR) | 3:52 | 2022-10-29 | 2022-12-14 |
 | [Deranged](https://open.spotify.com/track/5YGWNm8j6U2C3xrfj9qgS0) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Blank Canvas](https://open.spotify.com/album/1o0XDWp8dSojoZ7yZh6fgu) | 3:07 | 2022-10-28 | 2022-12-14 |
 | [Domodachi \(feat\. Little Simz\)](https://open.spotify.com/track/4MQBnk52HKbl59BX497xhM) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:04 | 2024-05-26 |  |
-| [Enough](https://open.spotify.com/track/1HmK8lrO7XCaMEn0CWbDWB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 3:02 | 2025-06-08 |  |
+| [Enough](https://open.spotify.com/track/1HmK8lrO7XCaMEn0CWbDWB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 3:02 | 2025-06-08 | 2025-06-30 |
 | [Far Away](https://open.spotify.com/track/7p6ru2D2smv8ga7f06JkTo) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 3:07 | 2024-02-10 |  |
 | [Fever](https://open.spotify.com/track/0ADr2jDuHvK77uIJWTKTvs) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 1:27 | 2024-02-10 |  |
 | [Flood](https://open.spotify.com/track/3m9g8ua3M51JvqmS8rh6bS) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 2:47 | 2025-06-10 |  |
@@ -106,6 +106,7 @@
 | [X](https://open.spotify.com/track/0R4Po8nAlhZMmlA4TKH8Fy) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 6:04 | 2022-12-13 |  |
 | [you should call mum](https://open.spotify.com/track/2SVIkGkmY9ZPZFniCwa7ar) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/6QrGmXbUtjyekuW83gXBBb) | 2:15 | 2022-10-28 | 2022-12-17 |
 | [you should call mum](https://open.spotify.com/track/6M4r4D0ZNqa67UDzuOJ6Po) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA) | 2:15 | 2022-12-16 |  |
+| [Young](https://open.spotify.com/track/1MQKhg5Kbn3cd07LQ5JPRK) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 2:50 | 2025-06-30 |  |
 | [Young](https://open.spotify.com/track/1SSeXpZJz5LY0tM4H8bmfC) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Young](https://open.spotify.com/album/3kA6SPFnEBihAT9IfCQ4vY) | 2:50 | 2025-05-17 | 2025-06-13 |
 
 \*This playlist was first scraped on 2022-10-29. Prior content cannot be recovered.

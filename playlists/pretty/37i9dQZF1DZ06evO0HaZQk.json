@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 518810,
+  "num_followers": 518860,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAACrkwd8ITKeTjzQhLRlKmaj",
+  "snapshot_id": "aF8wgAAAAADrr/HnWbYrDA+VEVgqrMHK",
   "tracks": [
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 373760,
-      "name": "Mar\u00eda la Curandera",
-      "url": "https://open.spotify.com/track/1xNi99xP8ioHUGXB5HrpNb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contra el Viento",
         "url": "https://open.spotify.com/album/16nUcmZoEneQGzyvqpXrGr"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 231946,
       "name": "Remamos",
       "url": "https://open.spotify.com/track/2mtmUkZBBPehTwrAp05VGv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 373760,
+      "name": "Mar\u00eda la Curandera",
+      "url": "https://open.spotify.com/track/1xNi99xP8ioHUGXB5HrpNb"
     },
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jet Love",
-        "url": "https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 203193,
-      "name": "Cinco Horas Menos",
-      "url": "https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
         "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 240333,
       "name": "Que Nadie Sepa Mi Sufrir (with Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/5jy5rt0KuI9jfEps9K3wxz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jet Love",
+        "url": "https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 203193,
+      "name": "Cinco Horas Menos",
+      "url": "https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM"
     },
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DESCARTABLE",
-        "url": "https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 211119,
-      "name": "LA NIEBLA",
-      "url": "https://open.spotify.com/track/6P70hz3JRyFLp0tL4HWrZD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 236000,
       "name": "Piensa en M\u00ed (with Vicentico)",
       "url": "https://open.spotify.com/track/18FDZomlMoJ1pcY1v44Tjn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DESCARTABLE",
+        "url": "https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 211119,
+      "name": "LA NIEBLA",
+      "url": "https://open.spotify.com/track/6P70hz3JRyFLp0tL4HWrZD"
     },
     {
       "added_at": null,
@@ -543,6 +543,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coco (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 164453,
+      "name": "Remember Me (D\u00fao)",
+      "url": "https://open.spotify.com/track/3pCgIUkmRHKydu9HE03QKY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
         "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 188400,
       "name": "T\u00fa Me Acostumbraste (feat. Omara Portuondo & Los Macorinos)",
       "url": "https://open.spotify.com/track/1rwrlXpk1XqdzHfCHKnJa1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coco (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 164453,
-      "name": "Remember Me (D\u00fao)",
-      "url": "https://open.spotify.com/track/3pCgIUkmRHKydu9HE03QKY"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cancionera",
-        "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 420807,
-      "name": "El Palomo y La Negra",
-      "url": "https://open.spotify.com/track/6tT1ZVzGKkwgqGSXKlLD5K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pel\u00edcula Muda, Pt. 1",
         "url": "https://open.spotify.com/album/2f7V6LPb6YxOOioi016Bpc"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cancionera",
+        "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 420807,
+      "name": "El Palomo y La Negra",
+      "url": "https://open.spotify.com/track/6tT1ZVzGKkwgqGSXKlLD5K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 232333,
       "name": "Antes de Huir",
       "url": "https://open.spotify.com/track/4j6ym6CZ3v9lpWaVzcudUq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cancionera",
-        "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 265847,
-      "name": "Cocos en la Playa",
-      "url": "https://open.spotify.com/track/4956xD0yHMfb8SDqcfI47c"
     },
     {
       "added_at": null,
@@ -747,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cancionera",
+        "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 265847,
+      "name": "Cocos en la Playa",
+      "url": "https://open.spotify.com/track/4956xD0yHMfb8SDqcfI47c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Giralunas, Un Homenaje a L.E.Aute",
         "url": "https://open.spotify.com/album/2xfwea7EUqYb6zas8PLNgd"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 336813,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/32DRpZgrvQZddDkKF2DoTr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cancionera",
-        "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 336005,
-      "name": "Cancionera",
-      "url": "https://open.spotify.com/track/7AP1sa56qsVnM86g10VRvv"
     },
     {
       "added_at": null,
@@ -819,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cancionera",
+        "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 336005,
+      "name": "Cancionera",
+      "url": "https://open.spotify.com/track/7AP1sa56qsVnM86g10VRvv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Show",
         "url": "https://open.spotify.com/album/7Ch5rxzw3crO3zrQJ0CBqc"
       },
@@ -835,26 +835,6 @@
       "duration_ms": 151133,
       "name": "Desierto (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/5afoaooo83tyIM5lVISvWS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cancionera",
-        "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
-        }
-      ],
-      "duration_ms": 258036,
-      "name": "Como Quisiera Quererte",
-      "url": "https://open.spotify.com/track/5gGOOM1oDSQ59lcGOXIvZL"
     },
     {
       "added_at": null,
@@ -891,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cancionera",
+        "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        }
+      ],
+      "duration_ms": 258036,
+      "name": "Como Quisiera Quererte",
+      "url": "https://open.spotify.com/track/5gGOOM1oDSQ59lcGOXIvZL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cancionera",
-        "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Israel Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/1Ix5ads4niaRP9TnT08gqI"
-        }
-      ],
-      "duration_ms": 238898,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/08ObzHMBV2xGF8qq8NAQ7k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 297346,
       "name": "Mi Lugar Favorito",
       "url": "https://open.spotify.com/track/7nnOZPlJODFqCPW6FyalYv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00fa Ve",
+        "url": "https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 238743,
+      "name": "T\u00fa Ve",
+      "url": "https://open.spotify.com/track/7pOuB6eH3MB758FlUqdcV7"
     }
   ],
   "unique_name": "This Is Natalia Lafourcade",

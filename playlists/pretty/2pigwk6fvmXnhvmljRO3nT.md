@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,349 songs - 19 day 2 hr 39 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,350 songs - 19 day 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7207,7 +7207,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7197 | [オトノケ \- Otonoke](https://open.spotify.com/track/185mDjE865QpjA4MtzAzgs) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [LEGION](https://open.spotify.com/album/5lnXktiHS3ays84EqOYAVw) | 3:06 |
 | 7198 | [ロスタイム \- Losstime](https://open.spotify.com/track/1O4JEMG1V06Lmkw8JQMY52) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [アンサンブル・プレイ](https://open.spotify.com/album/0umDAVn3Zr250pR0NA9FFI) | 3:39 |
 | 7199 | [パッと咲いて散って灰に](https://open.spotify.com/track/7dhfRM5zkUWFsC8gD2rsh6) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [パッと咲いて散って灰に](https://open.spotify.com/album/0ZLf6eXoTxUWN5iXIr0hhI) | 2:43 |
-| 7200 | [よふかしのうた](https://open.spotify.com/track/1j6Agt1Sn2DjQ0NA33J3r2) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [よふかしのうた](https://open.spotify.com/album/6peWfaCCNUTETgugcpNHed) | 4:00 |
+| 7200 | [よふかしのうた \- Yofukashino Uta](https://open.spotify.com/track/1j6Agt1Sn2DjQ0NA33J3r2) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [よふかしのうた](https://open.spotify.com/album/6peWfaCCNUTETgugcpNHed) | 4:00 |
 | 7201 | [生業](https://open.spotify.com/track/58KGAtwfY66hOMKJdK51Le) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [よふかしのうた](https://open.spotify.com/album/6peWfaCCNUTETgugcpNHed) | 3:52 |
 | 7202 | [Omae Wa Mou](https://open.spotify.com/track/2BgzdxU4uN5Ns8yM2rlLHa) | [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9) | [Omae Wa Mou](https://open.spotify.com/album/0I7eyplxZyuNEg2haitWIf) | 1:53 |
 | 7203 | [STEP by STEP UP↑↑↑↑](https://open.spotify.com/track/7zuR4IKOOpdshNwmJyEc1u) | [fourfolium](https://open.spotify.com/artist/2RVXdOnRln5sL4z5wU6Sok) | [ひげこれ! HIGEDRIVER BEST in KADOKAWA ANISON](https://open.spotify.com/album/7f6XRbYMJSYFDEuyGZdXl2) | 4:11 |
@@ -7357,5 +7357,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7347 | [Pain](https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:38 |
 | 7348 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
 | 7349 | [Good Looking](https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:34 |
+| 7350 | [Broccoli \(feat\. Lil Yachty\)](https://open.spotify.com/track/7v8WAn8jCdHiNhQMdnY1bt) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Big Baby DRAM \(Deluxe Version\)](https://open.spotify.com/album/2NTDsRS6J2OF8qZwHWQjFV) | 3:45 |
 
-Snapshot ID: `AAAHbNs1/I9hkgxhJu1lDbZpHgJgNXJ/`
+Snapshot ID: `AAAHbeLwnRpXyEfoVGA2YmUos3A8Ak3G`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Lorde, Teddy Swims, RAYE, Kesha, キタニタツヤ and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,823 likes - 99 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,827 likes - 99 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

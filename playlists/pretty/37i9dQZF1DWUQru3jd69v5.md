@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Don Pero e Néza in cover della playlist con il futuro del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,999 likes - 79 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,003 likes - 79 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

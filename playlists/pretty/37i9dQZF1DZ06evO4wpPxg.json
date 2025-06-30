@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAADI9DbZi9l6GYOQfJ9elpWX",
+  "snapshot_id": "aF8wgAAAAAArqqU7VYrNytVzxHLoHNB7",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 200373,
-      "name": "Hesitation Blues",
-      "url": "https://open.spotify.com/track/58ic3Ezzj1suFYlRhLO6Zq"
+      "duration_ms": 119906,
+      "name": "Devil's Dream",
+      "url": "https://open.spotify.com/track/2yOjgmbdA6B3jdAbZLZr43"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 119906,
-      "name": "Devil's Dream",
-      "url": "https://open.spotify.com/track/2yOjgmbdA6B3jdAbZLZr43"
+      "duration_ms": 200373,
+      "name": "Hesitation Blues",
+      "url": "https://open.spotify.com/track/58ic3Ezzj1suFYlRhLO6Zq"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If I Had My Way: Early Home Recordings",
-        "url": "https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 144133,
-      "name": "Give Me a Heart to Love",
-      "url": "https://open.spotify.com/track/5dGPjdbXzYKKm3nOWBqgOc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Folk Music At Newport",
         "url": "https://open.spotify.com/album/7MveVlx4cgdTfWWxTVS2no"
       },
@@ -555,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gospel, Blues And Street Songs",
-        "url": "https://open.spotify.com/album/5HRbXDdVkIBNZkArEAN2XO"
+        "name": "The Complete Early Recordings Of Reverend Gary Davis",
+        "url": "https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA"
       },
       "artists": [
         {
@@ -564,9 +548,9 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 156800,
-      "name": "Keep Your Lamp Trimmed And Burning",
-      "url": "https://open.spotify.com/track/7o7hmVr3nyr1n2lnKKuoYF"
+      "duration_ms": 189293,
+      "name": "The Angel's Message To Me",
+      "url": "https://open.spotify.com/track/4ERDmgImi44amVKVAfKg7J"
     },
     {
       "added_at": null,
@@ -587,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues & Ragtime (Live)",
-        "url": "https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 160360,
-      "name": "Buck Rag",
-      "url": "https://open.spotify.com/track/4RkxqGLAliVW8mFzLyHt9Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sun of Our Life",
         "url": "https://open.spotify.com/album/7hkJw6i6XwChUUCWlJVYtR"
       },
@@ -619,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Early Recordings Of Reverend Gary Davis",
-        "url": "https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA"
+        "name": "Blues & Ragtime (Live)",
+        "url": "https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ"
       },
       "artists": [
         {
@@ -628,15 +596,15 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 189293,
-      "name": "The Angel's Message To Me",
-      "url": "https://open.spotify.com/track/4ERDmgImi44amVKVAfKg7J"
+      "duration_ms": 160360,
+      "name": "Buck Rag",
+      "url": "https://open.spotify.com/track/4RkxqGLAliVW8mFzLyHt9Q"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Say No To The Devil",
-        "url": "https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe"
+        "name": "Gospel, Blues And Street Songs",
+        "url": "https://open.spotify.com/album/5HRbXDdVkIBNZkArEAN2XO"
       },
       "artists": [
         {
@@ -644,41 +612,9 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 299640,
-      "name": "Lost Boy In The Wilderness",
-      "url": "https://open.spotify.com/track/5jp93xHD4KDwc8XNytfCJ6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Street Songs",
-        "url": "https://open.spotify.com/album/4RNBon2cf5qwJBIAQVTmRR"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 191077,
-      "name": "Oh Lord, Search My Heart",
-      "url": "https://open.spotify.com/track/6ENSef1OmWlsqq0p73Wn22"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At Newport",
-        "url": "https://open.spotify.com/album/0hzGNlXzRtBOgcDaaricsc"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 222173,
-      "name": "I Won't Be Back No More - Live At The Newport Folk Festival 1959 - 1964",
-      "url": "https://open.spotify.com/track/2m8xe2l7ZV7KJuYO5EMaj8"
+      "duration_ms": 156800,
+      "name": "Keep Your Lamp Trimmed And Burning",
+      "url": "https://open.spotify.com/track/7o7hmVr3nyr1n2lnKKuoYF"
     },
     {
       "added_at": null,
@@ -699,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "If I Had My Way: Early Home Recordings",
+        "url": "https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 144133,
+      "name": "Give Me a Heart to Love",
+      "url": "https://open.spotify.com/track/5dGPjdbXzYKKm3nOWBqgOc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Guitar And Banjo Of Reverend Gary Davis",
         "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
       },
@@ -715,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say No To The Devil",
-        "url": "https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe"
+        "name": "At Newport",
+        "url": "https://open.spotify.com/album/0hzGNlXzRtBOgcDaaricsc"
       },
       "artists": [
         {
@@ -724,15 +676,15 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 216533,
-      "name": "Bad Company Brought Me Here",
-      "url": "https://open.spotify.com/track/23pc5z695dfH4exrOdpIDp"
+      "duration_ms": 222173,
+      "name": "I Won't Be Back No More - Live At The Newport Folk Festival 1959 - 1964",
+      "url": "https://open.spotify.com/track/2m8xe2l7ZV7KJuYO5EMaj8"
     },
     {
       "added_at": null,
       "album": {
-        "name": "If I Had My Way: Early Home Recordings",
-        "url": "https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7"
+        "name": "American Street Songs",
+        "url": "https://open.spotify.com/album/4RNBon2cf5qwJBIAQVTmRR"
       },
       "artists": [
         {
@@ -740,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 175680,
-      "name": "He Never Has Left Me Alone",
-      "url": "https://open.spotify.com/track/2FsPOo6hnxpbWvBNmxVoD6"
+      "duration_ms": 191077,
+      "name": "Oh Lord, Search My Heart",
+      "url": "https://open.spotify.com/track/6ENSef1OmWlsqq0p73Wn22"
     },
     {
       "added_at": null,
@@ -763,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at Gerde's Folk City",
-        "url": "https://open.spotify.com/album/77yewiXMWhT8uzrV0LiQKC"
+        "name": "Say No To The Devil",
+        "url": "https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe"
       },
       "artists": [
         {
@@ -772,9 +724,41 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 234186,
-      "name": "People That Use to See, Can't See No More",
-      "url": "https://open.spotify.com/track/35lZLaX1j2W2emwnaf0V9f"
+      "duration_ms": 216533,
+      "name": "Bad Company Brought Me Here",
+      "url": "https://open.spotify.com/track/23pc5z695dfH4exrOdpIDp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues & Ragtime (Live)",
+        "url": "https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "C-Rag",
+      "url": "https://open.spotify.com/track/1GiJmTHq7vLj1ikbdY961s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Street Songs",
+        "url": "https://open.spotify.com/album/4RNBon2cf5qwJBIAQVTmRR"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 163898,
+      "name": "There Was a Time That I Was Blind",
+      "url": "https://open.spotify.com/track/46SadSwrEqLAzLSSEvveW9"
     },
     {
       "added_at": null,
@@ -795,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Street Songs",
-        "url": "https://open.spotify.com/album/4RNBon2cf5qwJBIAQVTmRR"
+        "name": "Say No To The Devil",
+        "url": "https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe"
       },
       "artists": [
         {
@@ -804,9 +788,25 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 163898,
-      "name": "There Was a Time That I Was Blind",
-      "url": "https://open.spotify.com/track/46SadSwrEqLAzLSSEvveW9"
+      "duration_ms": 299640,
+      "name": "Lost Boy In The Wilderness",
+      "url": "https://open.spotify.com/track/5jp93xHD4KDwc8XNytfCJ6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at Gerde's Folk City",
+        "url": "https://open.spotify.com/album/77yewiXMWhT8uzrV0LiQKC"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 234186,
+      "name": "People That Use to See, Can't See No More",
+      "url": "https://open.spotify.com/track/35lZLaX1j2W2emwnaf0V9f"
     }
   ],
   "unique_name": "This Is Rev. Gary Davis",

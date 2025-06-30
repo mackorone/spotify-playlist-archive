@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 175775,
+  "num_followers": 175844,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAAChQJJHXxJoNBbXA5ObK5ep",
+  "snapshot_id": "aF8wgAAAAADpygeDM+wBPVIkqR+Hts30",
   "tracks": [
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 243133,
+      "name": "turned your back",
+      "url": "https://open.spotify.com/track/7Aq3pnhSzI8FnHt7T6TPsX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Classy Girl",
         "url": "https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 173800,
       "name": "Classy Girl",
       "url": "https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 243133,
-      "name": "turned your back",
-      "url": "https://open.spotify.com/track/7Aq3pnhSzI8FnHt7T6TPsX"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 860,010 likes - 75 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 860,210 likes - 75 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 54 | [The Landing \- Nadav Dagon & JPattersson](https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl) | [JPattersson](https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK), [Nadav Dagon](https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU) | [The Landing](https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep) | 7:15 |
 | 55 | [Jendayi](https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp) | [Anber](https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc) | [Jendayi EP](https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks) | 6:31 |
 | 56 | [Fata Morgana](https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ) | [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Fata Morgana](https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz) | 5:09 |
-| 57 | [El Dolor](https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu) | [Mux](https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE) | [Ancestry](https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP) | 4:54 |
-| 58 | [Worak](https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L) | [Ameli Paul](https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc) | [6 Years of Underyourskin Records](https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ) | 6:58 |
-| 59 | [Boho](https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Boho](https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU) | 4:53 |
+| 57 | [Boho](https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Boho](https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU) | 4:53 |
+| 58 | [El Dolor](https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu) | [Mux](https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE) | [Ancestry](https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP) | 4:54 |
+| 59 | [Worak](https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L) | [Ameli Paul](https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc) | [6 Years of Underyourskin Records](https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ) | 6:58 |
 | 60 | [Magic Workout](https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Magic Workout](https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7) | 5:35 |
 | 61 | [Karanfilce Devojce \- PACHIRA Remix](https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps) | [Laboratorium Pieśni](https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l), [PACHIRA](https://open.spotify.com/artist/7xYPxh4TBh0bkCQwg1YoT0) | [Karanfilce Devojce \(PACHIRA Remix\)](https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5) | 5:42 |
 | 62 | [Alongside \- Omeria & NU Edit](https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Alongside](https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36) | 6:50 |

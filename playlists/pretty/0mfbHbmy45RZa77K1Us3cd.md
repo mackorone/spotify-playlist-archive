@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0mfbHbmy45RZa77K1Us3cd.md) - [plain]
 
 > Hit songs from the top 22 most streamed artists on the UnitedMasters platform in 2022.
 
-[unitedmasters](https://open.spotify.com/user/unitedmasters) - 7,802 likes - 22 songs - 59 min 7 sec
+[unitedmasters](https://open.spotify.com/user/unitedmasters) - 7,801 likes - 22 songs - 59 min 7 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

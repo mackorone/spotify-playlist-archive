@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 172678,
+  "num_followers": 172684,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAAAfH247KaTa12VxD7AHkHm6",
+  "snapshot_id": "aF8wgAAAAADPywXaGyrZC90mWJQYDYEq",
   "tracks": [
     {
       "added_at": null,
@@ -147,26 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 216148,
-      "name": "Yandel 150",
-      "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Enemy de Los Guas\u00edbiri",
         "url": "https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 204382,
       "name": "Al Natural (feat. Yandel)",
       "url": "https://open.spotify.com/track/49vwUeeauJgEQxDViXA01C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 216148,
+      "name": "Yandel 150",
+      "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SINF\u00d3NICO (En Vivo)",
-        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 120101,
-      "name": "Noche De Entierro - Sinf\u00f3nico En Vivo",
-      "url": "https://open.spotify.com/track/229RHylF8KuiREpa3hY01H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pierdo la Cabeza (Remix)",
         "url": "https://open.spotify.com/album/3YEcnOrALEkI04rGSJK4FH"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 287080,
       "name": "Pierdo la Cabeza - Remix",
       "url": "https://open.spotify.com/track/7dnOGJWp5Mspq4drP0oaxZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SINF\u00d3NICO (En Vivo)",
+        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 120101,
+      "name": "Noche De Entierro - Sinf\u00f3nico En Vivo",
+      "url": "https://open.spotify.com/track/229RHylF8KuiREpa3hY01H"
     },
     {
       "added_at": null,
@@ -823,6 +823,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sr. Santos II Sue\u00f1os de Grandeza",
+        "url": "https://open.spotify.com/album/0MgU9DihKxDmLXxlbTtxu9"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 293156,
+      "name": "Wells Fargo",
+      "url": "https://open.spotify.com/track/2tXx1UWEjtZNOak94m7R8g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SINF\u00d3NICO (En Vivo)",
         "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
       },
@@ -855,26 +883,6 @@
       "duration_ms": 171800,
       "name": "BORRACHO Y LOCO",
       "url": "https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ELYTE",
-        "url": "https://open.spotify.com/album/6TJh9B7dVXOoGjnDRUY7Ea"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 175523,
-      "name": "REGGAETON MALANDRO",
-      "url": "https://open.spotify.com/track/7hSToHECYZ08xzyVQ6gGJy"
     },
     {
       "added_at": null,
@@ -927,6 +935,26 @@
       "duration_ms": 373960,
       "name": "Ginza - Remix",
       "url": "https://open.spotify.com/track/1tJw60G9KHl7fYVdQ2JDgo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ELYTE",
+        "url": "https://open.spotify.com/album/6TJh9B7dVXOoGjnDRUY7Ea"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 175523,
+      "name": "REGGAETON MALANDRO",
+      "url": "https://open.spotify.com/track/7hSToHECYZ08xzyVQ6gGJy"
     },
     {
       "added_at": null,
@@ -1119,22 +1147,6 @@
       "duration_ms": 214253,
       "name": "De Negro",
       "url": "https://open.spotify.com/track/4vAAGNZAjmCUc51qjhFZdM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SINF\u00d3NICO (En Vivo)",
-        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 175706,
-      "name": "Ay Mi Dios - Sinf\u00f3nico En Vivo",
-      "url": "https://open.spotify.com/track/75C3bl86QoDbLNonzSH95O"
     }
   ],
   "unique_name": "This Is Yandel",

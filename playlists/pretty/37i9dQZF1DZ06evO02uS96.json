@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 167419,
+  "num_followers": 167450,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAAAkDlfS7DAhcqbQ4A4G3yrr",
+  "snapshot_id": "aF8wgAAAAAA/9AZtnqUmV2Eu6/KP8LlZ",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walpurgis",
-        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "SPARK-AGAIN",
-      "url": "https://open.spotify.com/track/7c7iiyRHZQB2VUxyUQA8ZI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "daydream",
         "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
       },
@@ -231,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Walpurgis",
+        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "SPARK-AGAIN",
+      "url": "https://open.spotify.com/track/7c7iiyRHZQB2VUxyUQA8ZI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse"
       },
@@ -243,22 +243,6 @@
       "duration_ms": 345133,
       "name": "RE:I AM",
       "url": "https://open.spotify.com/track/4hps0PPTjr0C8gSGUq1Has"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u9065\u304b",
-        "url": "https://open.spotify.com/album/6uDU9vnNFQN2WB4h7pwI93"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 191047,
-      "name": "\u9065\u304b",
-      "url": "https://open.spotify.com/track/6At8fG853JqHaZP72oONtA"
     },
     {
       "added_at": null,
@@ -295,6 +279,22 @@
       "duration_ms": 261773,
       "name": "ninelie",
       "url": "https://open.spotify.com/track/164YLgHJYhqOEYUcAc93Xz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u9065\u304b",
+        "url": "https://open.spotify.com/album/6uDU9vnNFQN2WB4h7pwI93"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 191047,
+      "name": "\u9065\u304b",
+      "url": "https://open.spotify.com/track/6At8fG853JqHaZP72oONtA"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u3046\u3064\u304f\u3057\u3044\u4e16\u754c",
-        "url": "https://open.spotify.com/album/47iFTH6dUkGoRpWRyjgRWv"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 245038,
-      "name": "\u3046\u3064\u304f\u3057\u3044\u4e16\u754c",
-      "url": "https://open.spotify.com/track/75S3goclSq5ZBVBk1QGwli"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sign",
         "url": "https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p"
       },
@@ -419,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sun Dance",
-        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+        "name": "\u3046\u3064\u304f\u3057\u3044\u4e16\u754c",
+        "url": "https://open.spotify.com/album/47iFTH6dUkGoRpWRyjgRWv"
       },
       "artists": [
         {
@@ -428,9 +412,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 193400,
-      "name": "\u82b1\u3073\u3089\u305f\u3061\u306e\u30de\u30fc\u30c1",
-      "url": "https://open.spotify.com/track/31VUT0WkUfUkkIfEA1Has4"
+      "duration_ms": 245038,
+      "name": "\u3046\u3064\u304f\u3057\u3044\u4e16\u754c",
+      "url": "https://open.spotify.com/track/75S3goclSq5ZBVBk1QGwli"
     },
     {
       "added_at": null,
@@ -447,6 +431,22 @@
       "duration_ms": 328026,
       "name": "StarRingChild",
       "url": "https://open.spotify.com/track/3Xzb9D64WsKmYcV8AGMmeu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "\u82b1\u3073\u3089\u305f\u3061\u306e\u30de\u30fc\u30c1",
+      "url": "https://open.spotify.com/track/31VUT0WkUfUkkIfEA1Has4"
     },
     {
       "added_at": null,

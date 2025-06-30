@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Veigh, Henrique & Juliano, Lorde, Mc Negão Original e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,111,132 likes - 79 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,111,145 likes - 79 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 56 | [Minissaia](https://open.spotify.com/track/4uoouuaCKDrPuYibaBl7gr) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Romano](https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6), [Calli.](https://open.spotify.com/artist/3Ohf0wppiy5CIPXYLlW51X) | [Mulheres como eu não conhecem o amor.](https://open.spotify.com/album/1JJEYvRFOBlgGd5M8f0Wwt) | 3:11 |
 | 57 | [Me Precipitei](https://open.spotify.com/track/1e3LOPkoBROnUa4WU7eLUp) | [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG), [NAVII](https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb) | [Me Precipitei](https://open.spotify.com/album/40ebeGFOFQDHKBCdsHidZR) | 2:22 |
 | 58 | [X No Mapa](https://open.spotify.com/track/5C2NPXWMvqPSlzAOIgQu9L) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Vitinho RB](https://open.spotify.com/artist/0C6ppWo7aVuSv0YJREtvkj) | [X No Mapa](https://open.spotify.com/album/5hP2InFyAOBEdGpq1JGceh) | 2:51 |
-| 59 | [Mesma Fita](https://open.spotify.com/track/1pcIwQwONX1cl2xOjNdjuD) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB) | [Sintomas de Um Coração Quebrado](https://open.spotify.com/album/2O1f7QE1V01tgCmZyYkO1y) | 2:11 |
+| 59 | [Mesma Fita](https://open.spotify.com/track/1pcIwQwONX1cl2xOjNdjuD) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [TcheloBeats](https://open.spotify.com/artist/1jsSoxl3CZZjIEplGDBd3B) | [Sintomas de Um Coração Quebrado](https://open.spotify.com/album/2O1f7QE1V01tgCmZyYkO1y) | 2:11 |
 | 60 | [MT STRESS](https://open.spotify.com/track/4RTsgnCy6Ooj418UTxLO7M) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [MT STRESS](https://open.spotify.com/album/43mrERZYQfAKJCLS0Y6Rvt) | 2:56 |
 | 61 | [Gameboy](https://open.spotify.com/track/2HMvIK2S3oC6OABl2YXAx1) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4Bd27JFKxVcDPYGUkLHKPi) | 3:05 |
 | 62 | [Light It Up](https://open.spotify.com/track/2BrPPfDZZih0HNUfRJY3jx) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4), [Stay Box](https://open.spotify.com/artist/72lfcNtUMlqOkKqE5qLzz6) | [Never Say Never](https://open.spotify.com/album/1x4VxsJCeAqrOBmlkYJDdr) | 2:34 |

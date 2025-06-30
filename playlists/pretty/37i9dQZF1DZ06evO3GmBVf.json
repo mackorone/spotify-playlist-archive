@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 202833,
+  "num_followers": 202883,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAAC0tjm7Opwvb31kp2WRmIrs",
+  "snapshot_id": "aF8wgAAAAADD6/DF2d2o3WeJn0luIxGB",
   "tracks": [
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lonestar Luchador",
-        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 144414,
-      "name": "Barrio (with Lefty Sm)",
-      "url": "https://open.spotify.com/track/31L6JkBku2Oq4D5IvuOvYv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Jale Vale",
         "url": "https://open.spotify.com/album/6yhtC7PRmrYg3idBB7I3sx"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 174708,
       "name": "Mi Jale Vale",
       "url": "https://open.spotify.com/track/1iDBvtahnuXFaLit47gZ3h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lonestar Luchador",
+        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 144414,
+      "name": "Barrio (with Lefty Sm)",
+      "url": "https://open.spotify.com/track/31L6JkBku2Oq4D5IvuOvYv"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Para",
+        "url": "https://open.spotify.com/album/182ycTI0yqFAoQMJ64M43N"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 198582,
+      "name": "No Para",
+      "url": "https://open.spotify.com/track/3KrZWBY3Zo1HWNFSkG8on5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Flaco Pesado",
         "url": "https://open.spotify.com/album/4JvYZecbx8yziQUw4zEyHg"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 157074,
       "name": "Flaco Pesado",
       "url": "https://open.spotify.com/track/7GWFTZmolwaKFn3oNcUs9D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Para",
-        "url": "https://open.spotify.com/album/182ycTI0yqFAoQMJ64M43N"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 198582,
-      "name": "No Para",
-      "url": "https://open.spotify.com/track/3KrZWBY3Zo1HWNFSkG8on5"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Kc0i8.md) - [plain]
 
 > This is Rauw Alejandro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,550 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 839,679 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Kc0i8.md) - [plain]
 | 49 | [DEJAU'](https://open.spotify.com/track/2aCbaVxzJctzRCde49qLGC) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Playero](https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:02 |
 | 50 | [Color Esperanza 2020](https://open.spotify.com/track/3eSJmGWqoBRx5wbFCtvPtz) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Jorge Villamizar](https://open.spotify.com/artist/3zPWcnruZBNnrd22uS8UBy), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Color Esperanza 2020](https://open.spotify.com/album/6EZE5e3vBZZkSsnyn1g1gb) | 3:37 |
 
-Snapshot ID: `aF3fAAAAAADSrG1YmJeoJQtZtPkMJ2AU`
+Snapshot ID: `aF8wgAAAAACqtg0uJb0jvFJNFxiYm6Vw`

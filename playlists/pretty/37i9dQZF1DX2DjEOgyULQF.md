@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DjEOgyULQF.md) - [plain]
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,785 likes - 140 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,062 likes - 140 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DjEOgyULQF.md) - [plain]
 | 50 | [Undiscovered](https://open.spotify.com/track/1GzLMPydK2QU21dcTsYOsZ) | [Elements Of Matter](https://open.spotify.com/artist/2msV34nEca2EAuKzEUp2Ef) | [Undiscovered](https://open.spotify.com/album/7dXoaFvmWQH9M5lSSoKBn9) | 2:58 |
 | 51 | [Breathing Slowly](https://open.spotify.com/track/3vdAXA3yfAGyjp8PwYkBsl) | [Emma Hill](https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1) | [My Small River](https://open.spotify.com/album/5CkowVwBbCxYp48CVxQ9ph) | 3:05 |
 | 52 | [Mistember](https://open.spotify.com/track/6HcbLaRb6QtOe9E2MLTkXy) | [Sam Bucciana](https://open.spotify.com/artist/4A7ZW9rJIvRiyu3pgxQW1j) | [Mistember](https://open.spotify.com/album/7GA20NRg7lToIYZN6Zq8qp) | 3:10 |
-| 53 | [Ebb](https://open.spotify.com/track/6DzXikYMPvw1T9rqasupiQ) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Ebb](https://open.spotify.com/album/3gwbC6C3G15nY0ktcx09fL) | 2:16 |
-| 54 | [Azure Rain](https://open.spotify.com/track/6Hl3JSfAoIGYxbV0ZdUuKW) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Azure Rain](https://open.spotify.com/album/2tvMCwJyuwD3YNlPhlZXPG) | 3:36 |
-| 55 | [Lay the Foundation](https://open.spotify.com/track/7gwnSkntSK8u0ueJH06xpF) | [Heriela](https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY) | [Lay the Foundation](https://open.spotify.com/album/166aV9lE2KR5UHh28N05m2) | 3:24 |
+| 53 | [Lay the Foundation](https://open.spotify.com/track/7gwnSkntSK8u0ueJH06xpF) | [Heriela](https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY) | [Lay the Foundation](https://open.spotify.com/album/166aV9lE2KR5UHh28N05m2) | 3:24 |
+| 54 | [Ebb](https://open.spotify.com/track/6DzXikYMPvw1T9rqasupiQ) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Ebb](https://open.spotify.com/album/3gwbC6C3G15nY0ktcx09fL) | 2:16 |
+| 55 | [Azure Rain](https://open.spotify.com/track/6Hl3JSfAoIGYxbV0ZdUuKW) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Azure Rain](https://open.spotify.com/album/2tvMCwJyuwD3YNlPhlZXPG) | 3:36 |
 | 56 | [By the Creek](https://open.spotify.com/track/2wNyMwLskL0yAYyipYOdyI) | [Between Worlds](https://open.spotify.com/artist/0HBncYc0ljDrJAqog1F1Qi) | [By the Creek](https://open.spotify.com/album/3T9saIz1K5izcdTVJt3ohu) | 2:23 |
 | 57 | [Light Flow](https://open.spotify.com/track/5CwM4QtEWH5qSqpWxor76d) | [Maira](https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04) | [Light Flow](https://open.spotify.com/album/6CIiQ9Ti0tI2yAgjGpJmdE) | 2:59 |
 | 58 | [Everest](https://open.spotify.com/track/0zEsXbDQbh8dFoJ07XAy5Y) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Everest](https://open.spotify.com/album/0JfmGuV9OldmMVK1EYYoL9) | 2:27 |
@@ -135,9 +135,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DjEOgyULQF.md) - [plain]
 | 125 | [Noctilucent Clouds \(meditation\)](https://open.spotify.com/track/2Fcun7FZ4vH3kBPbdtw6uZ) | [SKEN](https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv) | [Noctilucent Clouds](https://open.spotify.com/album/7dAEq5Vvaz8l259C5BHv7q) | 2:41 |
 | 126 | [Neon Feathers](https://open.spotify.com/track/1DBPSOM91XvvQf9uEYUfmJ) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Neon Feathers](https://open.spotify.com/album/0OzS7lpvnM5Oi2Za4NBnpW) | 2:06 |
 | 127 | [Revelation](https://open.spotify.com/track/2kp3xWNh6qEZ8cNLbl5Cko) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Revelation](https://open.spotify.com/album/0B7u4chWcq7fBvU7EAK3Fj) | 3:10 |
-| 128 | [Placid Drift](https://open.spotify.com/track/6yufy66mJGzYGcuCfz6BmY) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Placid Drift](https://open.spotify.com/album/6Yc8tnb5gxoPDoC76KAR86) | 3:00 |
-| 129 | [Eternals](https://open.spotify.com/track/1LZrsDo4MJaDPlOUvqp61c) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:14 |
-| 130 | [Infinite Potential](https://open.spotify.com/track/66w2QkVBFwKcZm4DvN3FLv) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Infinite Potential](https://open.spotify.com/album/5GL2UD3ZEqT1AaTx5Bbsl9) | 2:17 |
+| 128 | [Infinite Potential](https://open.spotify.com/track/66w2QkVBFwKcZm4DvN3FLv) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Infinite Potential](https://open.spotify.com/album/5GL2UD3ZEqT1AaTx5Bbsl9) | 2:17 |
+| 129 | [Placid Drift](https://open.spotify.com/track/6yufy66mJGzYGcuCfz6BmY) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Placid Drift](https://open.spotify.com/album/6Yc8tnb5gxoPDoC76KAR86) | 3:00 |
+| 130 | [Eternals](https://open.spotify.com/track/1LZrsDo4MJaDPlOUvqp61c) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:14 |
 | 131 | [Corales \(Forest\)](https://open.spotify.com/track/1Q7PRNKkTFUWdm8OEcv9dq) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [Corales \(Forest\)](https://open.spotify.com/album/6Vk9EcP1P9eZbY4EKPS0j4) | 2:39 |
 | 132 | [Aurorá](https://open.spotify.com/track/25u93aSOn21m8zWmSgL3cV) | [Porthos Riqueti](https://open.spotify.com/artist/0zqr06oM4FSFSVPmOnv3jN) | [Aurorá](https://open.spotify.com/album/70iDnNvqXx8XN4cYbjclqx) | 3:01 |
 | 133 | [Nature's Fortune](https://open.spotify.com/track/6tqAtVUUh5gtT1BgwEfeYz) | [Rivers Of Time](https://open.spotify.com/artist/01HPpfT387ULSdN6EztPip) | [Nature's Fortune](https://open.spotify.com/album/7wAyenYlZ3Dq1NZ30eWU5V) | 2:35 |

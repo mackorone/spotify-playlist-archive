@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 
 > This is MYA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,809 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,817 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 24 | [Legendaria](https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Legendaria](https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW) | 2:59 |
 | 25 | [LUNAR](https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS), [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [LUNAR](https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3) | 3:06 |
 | 26 | [MYA LIVE P1: Chanel de Coco](https://open.spotify.com/track/7AjW0MWfMnpLgbW7TaPIKS) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [MYA LIVE P1: Chanel de Coco](https://open.spotify.com/album/6nHqLPHzm3hCdj7ptJArlZ) | 3:29 |
-| 27 | [Una y Mil Veces](https://open.spotify.com/track/4s0BDnatQJ5uL4BcrOfMG6) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Una y Mil Veces](https://open.spotify.com/album/6lOhEec0gHybly7uWWCRWa) | 3:02 |
-| 28 | [SI PUDIERA](https://open.spotify.com/track/4kUvzZDRjf8rCbZZ9ieoGB) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS), [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [BLANCO Y NEGRO](https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB) | 2:51 |
+| 27 | [SI PUDIERA](https://open.spotify.com/track/4kUvzZDRjf8rCbZZ9ieoGB) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS), [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [BLANCO Y NEGRO](https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB) | 2:51 |
+| 28 | [Una y Mil Veces](https://open.spotify.com/track/4s0BDnatQJ5uL4BcrOfMG6) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Una y Mil Veces](https://open.spotify.com/album/6lOhEec0gHybly7uWWCRWa) | 3:02 |
 | 29 | [250X](https://open.spotify.com/track/3NjhlsNhvSEjg4BA2AJKJ9) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [250X](https://open.spotify.com/album/31QqeBtjSFCLwjNFGgxmUS) | 2:17 |
 | 30 | [25 NOCHES \(feat\. Abraham Mateo\)](https://open.spotify.com/track/71Z2uovM8qCIxpv5BTtc3A) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [25 NOCHES \(feat\. Abraham Mateo\)](https://open.spotify.com/album/5ue3Pfzf6Wy9c2EJjKROPI) | 3:03 |
 | 31 | [Suelta, Sola y Tranquila REMIX](https://open.spotify.com/track/4fHl3YBShR7QluRtNWwWpl) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Suelta, Sola y Tranquila REMIX](https://open.spotify.com/album/7hh43MlPFtFnHn64iWEExm) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 49 | [Insta \- Remix](https://open.spotify.com/track/1K9b2N8P77GNFnx5Tw6MbA) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Insta \(Remix\)](https://open.spotify.com/album/6MZFJuzRUr28x1Fxs3sJxp) | 3:26 |
 | 50 | [Piénsalo \(feat\. Rombai\)](https://open.spotify.com/track/72FJxkwyBde4oyntw4m66u) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:22 |
 
-Snapshot ID: `aF3fAAAAAADA/qZLLWUVirnCVo8SdGP5`
+Snapshot ID: `aF8wgAAAAAB2rnIt5o9A8lWgcq+IR7CJ`

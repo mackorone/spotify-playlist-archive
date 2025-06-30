@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 36266,
+  "num_followers": 36273,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAADDGmofYfugVAYyNegjp0nO",
+  "snapshot_id": "aF8wgAAAAADbCFEt0KNn478wQDNgqJH4",
   "tracks": [
     {
       "added_at": null,
@@ -34,11 +34,15 @@
         {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Jimi Cravity",
+          "url": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
         }
       ],
-      "duration_ms": 376666,
-      "name": "Gracefully Broken",
-      "url": "https://open.spotify.com/track/7ILH9xthuxo4i4bTXpwDcZ"
+      "duration_ms": 480546,
+      "name": "You Know My Name",
+      "url": "https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6"
     },
     {
       "added_at": null,
@@ -114,15 +118,11 @@
         {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Jimi Cravity",
-          "url": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
         }
       ],
-      "duration_ms": 480546,
-      "name": "You Know My Name",
-      "url": "https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6"
+      "duration_ms": 376666,
+      "name": "Gracefully Broken",
+      "url": "https://open.spotify.com/track/7ILH9xthuxo4i4bTXpwDcZ"
     },
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Already Good (Tasha Slide)",
+        "url": "https://open.spotify.com/album/4BW2rDX738CMDYs01BsigF"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 222082,
+      "name": "Already Good (Tasha Slide)",
+      "url": "https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Hallelujah",
         "url": "https://open.spotify.com/album/6PC1CBTlJ7WaV6YC62jVbn"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 345179,
       "name": "One Hallelujah",
       "url": "https://open.spotify.com/track/1nJYjT357z2vQAMAbuoTno"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Already Good (Tasha Slide)",
-        "url": "https://open.spotify.com/album/4BW2rDX738CMDYs01BsigF"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 222082,
-      "name": "Already Good (Tasha Slide)",
-      "url": "https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 318986,
+      "name": "Happy - Live",
+      "url": "https://open.spotify.com/track/1yXL6qHPnnrcvBrdTPF3iI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/0Uvc0XDk2O8KsPIsMMdasM"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 423106,
       "name": "My World Needs You (feat. Sarah Reeves, Tasha Cobbs & Tamela Mann)",
       "url": "https://open.spotify.com/track/0GRRDzyfiF5dQU1ZpC4Ftk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 318986,
-      "name": "Happy - Live",
-      "url": "https://open.spotify.com/track/1yXL6qHPnnrcvBrdTPF3iI"
     },
     {
       "added_at": null,

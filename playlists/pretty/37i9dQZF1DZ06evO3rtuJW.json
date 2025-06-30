@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 34184,
+  "num_followers": 34193,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAABZcfK9cNwE69jpzbXiLnx/",
+  "snapshot_id": "aF8wgAAAAAAfyfJ3RknSn9P2qbgStDzG",
   "tracks": [
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What It Means To Be King",
-        "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
-      },
-      "artists": [
-        {
-          "name": "King Von",
-          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 156133,
-      "name": "Facetime (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/0AfBqvVQowOxKyau7NxUWp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
         "url": "https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 229035,
       "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
       "url": "https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What It Means To Be King",
+        "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 156133,
+      "name": "Facetime (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/0AfBqvVQowOxKyau7NxUWp"
     },
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTSD (Deluxe)",
-        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 162217,
-      "name": "Real One",
-      "url": "https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WTHELLY (with G Herbo) [Remix]",
         "url": "https://open.spotify.com/album/0U0fU3UenstnWf7CLdr5Cf"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 176791,
       "name": "WTHELLY (with G Herbo) - Remix",
       "url": "https://open.spotify.com/track/3agFWjopIFGnZx7WTNj4Wa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PTSD (Deluxe)",
+        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 162217,
+      "name": "Real One",
+      "url": "https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTSD (Deluxe)",
-        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 196659,
-      "name": "Cap Guns",
-      "url": "https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hall of Fame",
         "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 161627,
       "name": "Go Part 1 (with G Herbo)",
       "url": "https://open.spotify.com/track/1EnWTwagv0XR5OJ51WMdzj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PTSD (Deluxe)",
+        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 196659,
+      "name": "Cap Guns",
+      "url": "https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG"
     },
     {
       "added_at": null,
@@ -783,6 +783,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Racks In Class (Lunch Break Freestyle)",
+        "url": "https://open.spotify.com/album/4ltHWzQkshb9juFQtaMDyh"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Lemonade",
+          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 193359,
+      "name": "Racks In Class (Lunch Break Freestyle)",
+      "url": "https://open.spotify.com/track/6Ds5mkgbe5I2glwpSIHm44"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost Pages",
+        "url": "https://open.spotify.com/album/2dtaX61cm2HUJlOn5MSsMs"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 206643,
+      "name": "Mine (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/5sPGxuVfQkJSCpc8extKFB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stress Relief (with G Herbo)",
         "url": "https://open.spotify.com/album/0Ghj6XiK4n9JPvZO61NHaq"
       },
@@ -823,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Pages",
-        "url": "https://open.spotify.com/album/2dtaX61cm2HUJlOn5MSsMs"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 206643,
-      "name": "Mine (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/5sPGxuVfQkJSCpc8extKFB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Big Swerv 2.0",
         "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
       },
@@ -879,22 +899,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Racks In Class (Lunch Break Freestyle)",
-        "url": "https://open.spotify.com/album/4ltHWzQkshb9juFQtaMDyh"
+        "name": "Humble Beast (Deluxe)",
+        "url": "https://open.spotify.com/album/46Shwm91xl9opm3MadNEGn"
       },
       "artists": [
-        {
-          "name": "Lyrical Lemonade",
-          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
-        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 193359,
-      "name": "Racks In Class (Lunch Break Freestyle)",
-      "url": "https://open.spotify.com/track/6Ds5mkgbe5I2glwpSIHm44"
+      "duration_ms": 209786,
+      "name": "Man Now",
+      "url": "https://open.spotify.com/track/6e8qzxdh2JPbPqGCUXva59"
     },
     {
       "added_at": null,
@@ -915,22 +931,6 @@
       "duration_ms": 240000,
       "name": "Peter Piper (feat. G Herbo)",
       "url": "https://open.spotify.com/track/1LtfT4iJrlISYbYc2yLkqT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Humble Beast (Deluxe)",
-        "url": "https://open.spotify.com/album/46Shwm91xl9opm3MadNEGn"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 209786,
-      "name": "Man Now",
-      "url": "https://open.spotify.com/track/6e8qzxdh2JPbPqGCUXva59"
     },
     {
       "added_at": null,

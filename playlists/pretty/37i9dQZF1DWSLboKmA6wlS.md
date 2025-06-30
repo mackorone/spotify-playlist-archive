@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ร่วมฉลอง 10 ปี Fresh Finds เพลย์ลิสต์ ฟังผลงานจากศิลปินรุ่นใหม่กัน\. ศิลปิน: Jigsaw Story\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,104 likes - 90 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,108 likes - 90 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

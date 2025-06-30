@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 29697,
+  "num_followers": 29699,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAADPYN/1U1H9ZTz3KWB+sEtd",
+  "snapshot_id": "aF8wgAAAAADDxEwwsyKf1FSKzoo0gVnx",
   "tracks": [
     {
       "added_at": null,
@@ -403,18 +403,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Montame",
-        "url": "https://open.spotify.com/album/6j4I0OrqKDPYkTKAThkRRE"
+        "name": "Cu-Cu-Cu Cumbia!",
+        "url": "https://open.spotify.com/album/7lvrww6BQ2UadzpdQBoEVH"
       },
       "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 225346,
-      "name": "Perd\u00f3name - Cumbia",
-      "url": "https://open.spotify.com/track/6ygtYN6UpAePDbiuEacFzA"
+      "duration_ms": 228306,
+      "name": "Otra Como T\u00fa",
+      "url": "https://open.spotify.com/track/055pJYboqVEcECyQQnANFY"
     },
     {
       "added_at": null,
@@ -435,22 +439,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cu-Cu-Cu Cumbia!",
-        "url": "https://open.spotify.com/album/7lvrww6BQ2UadzpdQBoEVH"
+        "name": "Montame",
+        "url": "https://open.spotify.com/album/6j4I0OrqKDPYkTKAThkRRE"
       },
       "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 228306,
-      "name": "Otra Como T\u00fa",
-      "url": "https://open.spotify.com/track/055pJYboqVEcECyQQnANFY"
+      "duration_ms": 225346,
+      "name": "Perd\u00f3name - Cumbia",
+      "url": "https://open.spotify.com/track/6ygtYN6UpAePDbiuEacFzA"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Montame",
-        "url": "https://open.spotify.com/album/6j4I0OrqKDPYkTKAThkRRE"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "M\u00f3ntame",
-      "url": "https://open.spotify.com/track/5LGnVKG4TQeTNmJQSDF2oy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Triste Recuerdo (En Vivo)",
         "url": "https://open.spotify.com/album/00iE6vaOpZFNBohCo83MiI"
       },
@@ -523,22 +507,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada De Nada",
-        "url": "https://open.spotify.com/album/49gCKCeoM3fmWI4jNv71PK"
+        "name": "Montame",
+        "url": "https://open.spotify.com/album/6j4I0OrqKDPYkTKAThkRRE"
       },
       "artists": [
-        {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 181600,
-      "name": "Nada De Nada",
-      "url": "https://open.spotify.com/track/78PFDzdmPuMpTHLgMpIkKU"
+      "duration_ms": 204026,
+      "name": "M\u00f3ntame",
+      "url": "https://open.spotify.com/track/5LGnVKG4TQeTNmJQSDF2oy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
+        "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 238387,
+      "name": "D\u00edgale - En Vivo",
+      "url": "https://open.spotify.com/track/60ETioGGVj5Tb8bk4SCuR5"
     },
     {
       "added_at": null,
@@ -555,6 +555,26 @@
       "duration_ms": 236466,
       "name": "Te Voy A Amar",
       "url": "https://open.spotify.com/track/7H9BJi45b1XJwYiC1vajfc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada De Nada",
+        "url": "https://open.spotify.com/album/49gCKCeoM3fmWI4jNv71PK"
+      },
+      "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "Nada De Nada",
+      "url": "https://open.spotify.com/track/78PFDzdmPuMpTHLgMpIkKU"
     },
     {
       "added_at": null,
@@ -587,26 +607,6 @@
       "duration_ms": 400385,
       "name": "The Hits Medley: Desvelado/Ens\u00e9name/A Tu Lado - En Vivo",
       "url": "https://open.spotify.com/track/7pob0oZ2KwUG7nRlVuwrxs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
-        "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        },
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 238387,
-      "name": "D\u00edgale - En Vivo",
-      "url": "https://open.spotify.com/track/60ETioGGVj5Tb8bk4SCuR5"
     },
     {
       "added_at": null,

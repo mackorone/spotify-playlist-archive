@@ -1,12 +1,12 @@
 {
   "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
-  "num_followers": 93374,
+  "num_followers": 93378,
   "original_name": "This Is Dominic Fike",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAAD6oLEkQeLwtFwMjfxY6Ym9",
+  "snapshot_id": "aF8wgAAAAADJdf5+k7xpP69143/HqNzk",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 209830,
+      "name": "Maroon",
+      "url": "https://open.spotify.com/track/4BzIyYvpCYzMW4Q8eF4fwq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
@@ -451,6 +471,22 @@
       "duration_ms": 108533,
       "name": "Falling Asleep",
       "url": "https://open.spotify.com/track/4Q09JEsHAZhHOIPTqDGeB2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Could Possibly Go Wrong",
+        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 126465,
+      "name": "Double Negative (Skeleton Milkshake)",
+      "url": "https://open.spotify.com/track/7ACT6YaXbYvl7hRWEOOEHQ"
     },
     {
       "added_at": null,
@@ -475,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Could Possibly Go Wrong",
-        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 126465,
-      "name": "Double Negative (Skeleton Milkshake)",
-      "url": "https://open.spotify.com/track/7ACT6YaXbYvl7hRWEOOEHQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Will You Be My Yellow?",
         "url": "https://open.spotify.com/album/12nH1R4NqEtaOQ5M7RA63p"
       },
@@ -507,6 +527,22 @@
       "duration_ms": 173349,
       "name": "Stop Selling Her Drugs (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/4uBQDAzZ881KYZvW7ZInUn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "14 minutes",
+        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 121630,
+      "name": "1.23.23",
+      "url": "https://open.spotify.com/track/4w1esviQOM4f8uZ6RuAjyY"
     },
     {
       "added_at": null,
@@ -543,42 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "14 minutes",
-        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 121630,
-      "name": "1.23.23",
-      "url": "https://open.spotify.com/track/4w1esviQOM4f8uZ6RuAjyY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa"
-      },
-      "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 209830,
-      "name": "Maroon",
-      "url": "https://open.spotify.com/track/4BzIyYvpCYzMW4Q8eF4fwq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Barbie The Album",
         "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
       },
@@ -591,6 +591,22 @@
       "duration_ms": 141807,
       "name": "Hey Blondie",
       "url": "https://open.spotify.com/track/0hABacr1yTSleOlPKpIWBb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "14 minutes",
+        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 164282,
+      "name": "THICKRICK",
+      "url": "https://open.spotify.com/track/4mY6K0hRQlpOs3hyTNOcKe"
     },
     {
       "added_at": null,
@@ -611,22 +627,6 @@
       "duration_ms": 76480,
       "name": "Dominic\u2019s Interlude",
       "url": "https://open.spotify.com/track/2sOOXgEGB7nhKO8mmc1GhI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "14 minutes",
-        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 164282,
-      "name": "THICKRICK",
-      "url": "https://open.spotify.com/track/4mY6K0hRQlpOs3hyTNOcKe"
     },
     {
       "added_at": null,

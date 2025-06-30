@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > a experimental mix of rock, punk, alt & indie\. Cover: Model/Actriz
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,692 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,719 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 44 | [Demon Compass](https://open.spotify.com/track/5cJXzg4SyMjBsmIWttHIAb) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Demon Compass \(Deluxe\)](https://open.spotify.com/album/0OdlKEuLYqLiIsWUGcmUip) | 3:30 |
 | 45 | [The Vegas Suite](https://open.spotify.com/track/304fddzE78zrBtZv42biyB) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [The Night the Zombies Came](https://open.spotify.com/album/2kL3JicKZpvBfIeDeDPDUX) | 3:43 |
 | 46 | [Worship The Whip](https://open.spotify.com/track/1Lt1SJdkdFOHqwxkEIGJan) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Mommy](https://open.spotify.com/album/4eibRhcgxtRIytvG87I8Ay) | 3:01 |
-| 47 | [Ceathair](https://open.spotify.com/track/2vOMRmQ3Jlh5iA7krw6uXS) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Tír na nÓg](https://open.spotify.com/album/2iD7JYKrmAAT0erQWjkj96) | 5:20 |
-| 48 | [Out Of My Head](https://open.spotify.com/track/3GfF24z5aHM8idyueXywno) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Out Of My Head](https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1) | 3:10 |
+| 47 | [Out Of My Head](https://open.spotify.com/track/3GfF24z5aHM8idyueXywno) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Out Of My Head](https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1) | 3:10 |
+| 48 | [Ceathair](https://open.spotify.com/track/2vOMRmQ3Jlh5iA7krw6uXS) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Tír na nÓg](https://open.spotify.com/album/2iD7JYKrmAAT0erQWjkj96) | 5:20 |
 | 49 | [Syd Sweeney](https://open.spotify.com/track/0SISKQTARRfDQaIfPpjVQV) | [Smut](https://open.spotify.com/artist/5ojcEAg9JjIhUdIjC8y5GF) | [Syd Sweeney](https://open.spotify.com/album/4OxiGGc6yjeHEb4QexOFro) | 4:38 |
 | 50 | [It Will Get Worse](https://open.spotify.com/track/7fk5buzd6JTrRouvR1Qvuq) | [Lifeguard](https://open.spotify.com/artist/17HkDJlzsK1YoBja2XmY5O) | [It Will Get Worse](https://open.spotify.com/album/6ydter6esbJmAV73fIR8sD) | 2:53 |
 | 51 | [On The Road](https://open.spotify.com/track/0RO5cr4TnZWiZipvpQUeuX) | [Habibi](https://open.spotify.com/artist/600GgDUq9kzGJgNIrVsWfz) | [Dreamachine](https://open.spotify.com/album/4unDF4XrmmKS7HbbfYpfmB) | 4:16 |

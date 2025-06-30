@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > All the songs with more than 1 Billion streams on Spotify\. Cover: Panic! At The Disco
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,715 likes - 976 songs - 2 day 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 775,018 likes - 976 songs - 2 day 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

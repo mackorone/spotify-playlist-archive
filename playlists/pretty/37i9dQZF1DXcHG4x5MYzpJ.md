@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHG4x5MYzpJ.md) - [plain]
 
 > Mientras no dejes de cantar, la playlist no deja de sonar\. Peso Pluma y Christian Nodal en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,711 likes - 125 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,740 likes - 125 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

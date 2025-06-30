@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7F6T2n2fegs.md) - [plain]
 
 > Here it is, the playlist for the ultimate throwback bash!
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,148 likes - 150 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,251 likes - 150 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

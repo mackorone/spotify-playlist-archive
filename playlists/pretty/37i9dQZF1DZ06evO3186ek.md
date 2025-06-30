@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,660 likes - 50 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,694 likes - 50 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 49 | [When I Lock Eyes \(feat\. Brandon Lake & Elyssa Smith\)](https://open.spotify.com/track/4dzxXnney0FbzFq6Daucsu) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l) | [You Hold It All Together](https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26) | 8:30 |
 | 50 | [Questions \(feat\. Todd Galberth\)](https://open.spotify.com/track/1ZEaMn36IKUNFAaXPMYww8) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Song House](https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf), [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW) | [MAVHOUSE](https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g) | 3:25 |
 
-Snapshot ID: `aF3fAAAAAAAjdqiIvjIo9LgGnEejfXpr`
+Snapshot ID: `aF8wgAAAAABnr62IFo49qka9NPAGzBFW`

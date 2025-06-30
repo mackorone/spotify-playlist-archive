@@ -65,6 +65,6 @@
 | [What I Need \(feat\. 42 Dugg\)](https://open.spotify.com/track/0DcmLRFLuYGpADgpS6Vjnz) | [James Tonic](https://open.spotify.com/artist/7eDGkEF3YrLdMyc2dSrW3z), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [What I Need \(feat\. 42 Dugg\)](https://open.spotify.com/album/1WOzaAOirESxvAqPHwzBFn) | 3:01 | 2024-04-22 | 2024-09-23 |
 | [Wings](https://open.spotify.com/track/3jNtJxFceUPsTTvASyY5OY) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 4:03 | 2022-05-25 |  |
 | [You Don't Have To Be Alone](https://open.spotify.com/track/4OLmzWtuaXy9vebMWUJ30v) | [DJDS](https://open.spotify.com/artist/0orEyXhG0KnPEDVgpctNJI) | [Stand Up And Speak](https://open.spotify.com/album/1yuarGUd1KbQPgd7jwsJox) | 3:35 | 2022-05-25 |  |
-| [Zombie](https://open.spotify.com/track/7LE0A2BjH23iXlBVXzBNuU) | [Saint Bodhi](https://open.spotify.com/artist/6X7nWsfLVq8lo1qePztyu5) | [Mad World](https://open.spotify.com/album/55xeus9CHAn0fy4Jo6Xs2v) | 3:01 | 2022-05-25 |  |
+| [Zombie](https://open.spotify.com/track/7LE0A2BjH23iXlBVXzBNuU) | [Bodhi Bleu](https://open.spotify.com/artist/6X7nWsfLVq8lo1qePztyu5) | [Mad World](https://open.spotify.com/album/55xeus9CHAn0fy4Jo6Xs2v) | 3:01 | 2022-05-25 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

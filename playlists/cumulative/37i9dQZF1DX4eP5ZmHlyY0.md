@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: INI
 
-625 songs - 1 day 10 hr 40 min
+626 songs - 1 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,6 +562,7 @@
 | [“超”勝手に仕上がれ](https://open.spotify.com/track/2nsaIqfTeFqsIeqE5N4QSD) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [SUPER EIGHT](https://open.spotify.com/album/24rRGwyzAfk1fmhyvaKTzA) | 4:24 | 2024-07-30 | 2024-08-07 |
 | [あっちむいてほい](https://open.spotify.com/track/0rQfEhcOvcB5NW4V4VD47q) | [NEWS](https://open.spotify.com/artist/2Sw8snRnez7gVPNd9UU07o) | [あっちむいてほい](https://open.spotify.com/album/765plafXxbIYdlm7Uodkme) | 2:47 | 2024-11-05 | 2024-11-20 |
 | [それぞれ。](https://open.spotify.com/track/4IDv79DIXD5H0pimT4fL0m) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [P.U!](https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU) | 3:57 | 2023-11-28 | 2023-12-13 |
+| [はじめまして](https://open.spotify.com/track/0o7bRi57o5jUchsIEqsnQJ) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [はじめまして](https://open.spotify.com/album/1NxUUrCisudNTH7BGZu3Fj) | 2:27 | 2025-06-28 |  |
 | [ひとつの誓い \(We’ll Never Change\)](https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [誓い \(CHIKAI\)](https://open.spotify.com/album/4gUSRC5pgmbbDi39dGBsuL) | 2:57 | 2024-07-09 | 2025-03-07 |
 | [まさか泣くとは思わなかった](https://open.spotify.com/track/4W75DITKk1MihcvjXjTZVH) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [まさか泣くとは思わなかった](https://open.spotify.com/album/1lpHXknzVxEwk6X5YUVEtc) | 4:06 | 2025-04-14 | 2025-05-07 |
 | [わたし](https://open.spotify.com/track/3Fe0fU2ugeqK7rd5Smpat0) | [THE BEAT GARDEN](https://open.spotify.com/artist/7gcQfJbjZ2W440kQ2wmqzk) | [わたし](https://open.spotify.com/album/3iWKJAWZA2vtdAZhLKqps8) | 4:23 | 2024-07-09 | 2024-07-31 |

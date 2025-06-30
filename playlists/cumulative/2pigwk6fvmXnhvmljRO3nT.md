@@ -4,7 +4,7 @@
 
 > 
 
-7,402 songs - 19 day 5 hr 34 min
+7,403 songs - 19 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -863,6 +863,7 @@
 | [Bring Me Down](https://open.spotify.com/track/25K9cWrxNv991UYiOzBJqR) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 3:18 | 2025-01-03 |  |
 | [BROAD DAY \(feat\. Future\)](https://open.spotify.com/track/6Qc90FMwNUjJ2M893RdYUg) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:48 | 2025-01-04 |  |
 | [Broccoli](https://open.spotify.com/track/0qy5D3OJre7SPJNMOL9I71) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Broccoli](https://open.spotify.com/album/4mchkmnzdTYIEAnw2FijA3) | 3:45 | 2025-01-03 |  |
+| [Broccoli \(feat\. Lil Yachty\)](https://open.spotify.com/track/7v8WAn8jCdHiNhQMdnY1bt) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Big Baby DRAM \(Deluxe Version\)](https://open.spotify.com/album/2NTDsRS6J2OF8qZwHWQjFV) | 3:45 | 2025-06-29 |  |
 | [Broke As Fuck](https://open.spotify.com/track/1faIb3PPSzEifCHUOJ691R) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [The Lost Boy](https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu) | 3:16 | 2024-12-14 |  |
 | [Broke Boys](https://open.spotify.com/track/45pUWUeEWGoSdH6UF162G8) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:45 | 2025-01-03 |  |
 | [Broke In A Minute](https://open.spotify.com/track/4xqIYGwwZTEem9U8A42SPF) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [The New Toronto 3](https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf) | 2:12 | 2025-01-15 |  |
@@ -6597,7 +6598,7 @@
 | [やどりぎ](https://open.spotify.com/track/3wGWCDCwnSlx5uSJWjALwu) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [おとぎ](https://open.spotify.com/album/4qxG3ARVfDBRKMFoLWs1Ct) | 3:50 | 2025-01-03 |  |
 | [ゆめうつつ](https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 5:15 | 2025-01-03 |  |
 | [ようこそ！ひとりぼっち](https://open.spotify.com/track/7hvNmsSw1NITHUJCYbzwcp) | [Pearl Brothers](https://open.spotify.com/artist/22obBtOBpBblW2TtecCFT7) | [『N・H・Kにようこそ！』O.S.T.　ダークサイドにようこそ！](https://open.spotify.com/album/3mIBkXoyAdgczyaaAhOLDu) | 5:22 | 2025-05-05 |  |
-| [よふかしのうた](https://open.spotify.com/track/1j6Agt1Sn2DjQ0NA33J3r2) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [よふかしのうた](https://open.spotify.com/album/6peWfaCCNUTETgugcpNHed) | 4:00 | 2025-05-26 |  |
+| [よふかしのうた \- Yofukashino Uta](https://open.spotify.com/track/1j6Agt1Sn2DjQ0NA33J3r2) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [よふかしのうた](https://open.spotify.com/album/6peWfaCCNUTETgugcpNHed) | 4:00 | 2025-05-26 |  |
 | [よるのあと](https://open.spotify.com/track/0Ww9CZicnZs8gscWdMiE7p) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [adieu 1](https://open.spotify.com/album/0dszU2aJFWMMFrslTyhZkt) | 4:51 | 2024-12-05 |  |
 | [りんどう](https://open.spotify.com/track/3jAjSQXOTgQDHjRtlvW6P6) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 5:29 | 2025-05-17 |  |
 | [わがまま](https://open.spotify.com/track/6TdiF8DD5f2qG5FXPtBtzb) | [Alisa Takigawa](https://open.spotify.com/artist/6fvp9HPqOxcYd7PgyKPF4e) | [わがまま](https://open.spotify.com/album/16ivtjLpi5B7ma2f2YFH8m) | 4:46 | 2024-12-05 |  |

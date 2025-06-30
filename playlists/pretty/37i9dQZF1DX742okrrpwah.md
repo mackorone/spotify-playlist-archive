@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Marine, Teddy Swims, Soolking & Ninho au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,875 likes - 103 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,857 likes - 103 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

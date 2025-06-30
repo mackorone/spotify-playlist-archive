@@ -1331,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "High Tension",
+        "url": "https://open.spotify.com/album/7vl3pmA09x8tV7OUYCcTZ1"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154615,
+      "name": "Sho Mo Mi",
+      "url": "https://open.spotify.com/track/2jQuziL4jIUO8YhcRfTpZr"
+    },
+    {
+      "album": {
         "name": "WARRIOR'S CHILD",
         "url": "https://open.spotify.com/album/3JREYxB2XqXeDNWYiHVSW8"
       },
@@ -1480,7 +1498,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-30",
       "duration_ms": 214736,
       "name": "Try (feat. Young Jonn)",
       "url": "https://open.spotify.com/track/12Mel6t7zZlfn1CpmwL96L"

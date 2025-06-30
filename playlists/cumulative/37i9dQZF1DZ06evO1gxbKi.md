@@ -4,7 +4,7 @@
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-152 songs - 7 hr 35 min
+153 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [99 ½ Won't Do \(Gospel Train\) \- 2025 Digitally Remastered](https://open.spotify.com/track/6CV6KDG0uVgcYxN5lheerS) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Four Classic Albums \(Gospel Train / The Gospel Truth \(1959\) / Sister Rosetta Tharpe / The Gospel Truth \- All New! Her Greatest Gospel Hits \(1962\)\)](https://open.spotify.com/album/0DoAIX7HSofgOw1puyDZBY) | 1:59 | 2025-06-08 |  |
 | [All Alone](https://open.spotify.com/track/0rsTuDQFai2jbs5D2yAxo6) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train](https://open.spotify.com/album/3TdM8fxuOgqJoEA8tS84Px) | 2:37 | 2024-01-11 |  |
 | [All Alone](https://open.spotify.com/track/2FAyOevYFLDtGudjSiWUlw) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 2:40 | 2022-05-25 | 2024-01-12 |
-| [All Over This World](https://open.spotify.com/track/41en8GGsFVRqSrqSGNJPqJ) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Just a Closer Walk With Thee](https://open.spotify.com/album/2CuZe0vzmqXgu5hqbDWFgu) | 2:38 | 2025-05-29 |  |
+| [All Over This World](https://open.spotify.com/track/41en8GGsFVRqSrqSGNJPqJ) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Just a Closer Walk With Thee](https://open.spotify.com/album/2CuZe0vzmqXgu5hqbDWFgu) | 2:38 | 2025-05-29 | 2025-06-30 |
 | [All Over This World](https://open.spotify.com/track/5dfQvhkoG0ulO4gKAzHLyA) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Trouble in Mind](https://open.spotify.com/album/7pd386kkBPHie54j3kyRpG) | 2:45 | 2022-05-25 | 2024-04-06 |
 | [All over This World](https://open.spotify.com/track/0NgdzrGJt8YA0KfD9F3eh3) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Presenting Sister Rosetta Tharpe](https://open.spotify.com/album/5lti5m4J6SvKRyW9r4f1Sm) | 2:45 | 2024-04-21 | 2024-04-22 |
 | [Amazing Grace](https://open.spotify.com/track/7Jpy6hJWPhnav0qk0fGv8Y) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Vacation in the Sky](https://open.spotify.com/album/7HorAWUeYVKqIImFJ8zGRO) | 3:23 | 2022-05-25 | 2023-01-07 |
@@ -87,6 +87,7 @@
 | [Ninety\-Nine and a Half Won't Do](https://open.spotify.com/track/2KOP1uow1HZGQEqIRlGmfD) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 2:00 | 2024-02-04 | 2025-05-24 |
 | [No Room In The Church For Liars](https://open.spotify.com/track/4hqlFwFTpMtyPWRW5ue378) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Precious Memories](https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8) | 4:26 | 2022-05-25 |  |
 | [Nobody Knows, Nobody Cares](https://open.spotify.com/track/5h82CLQd1C0ExhBuuZZM7r) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Presenting Sister Rosetta Tharpe](https://open.spotify.com/album/5lti5m4J6SvKRyW9r4f1Sm) | 2:38 | 2022-10-16 | 2023-05-28 |
+| [Nobody Knows, Nobody Cares \(The Gospel Truth\- All New! Her Greatest Gospel Hits \(1962\)\) \- 2025 Digitally Remastered](https://open.spotify.com/track/4fwUncTemPpfv6jFDZK2Rd) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Four Classic Albums \(Gospel Train / The Gospel Truth \(1959\) / Sister Rosetta Tharpe / The Gospel Truth \- All New! Her Greatest Gospel Hits \(1962\)\)](https://open.spotify.com/album/0DoAIX7HSofgOw1puyDZBY) | 4:42 | 2025-06-30 |  |
 | [Nobody's Fault But Mine](https://open.spotify.com/track/3z5JS5NmUSb8llmXl8QZiq) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Gospel Of The Blues](https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA) | 2:59 | 2022-05-25 |  |
 | [Nothing Between](https://open.spotify.com/track/39mpH34jjRge3WmL7WWOzv) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Spirituals In Rhythm](https://open.spotify.com/album/0m04XubMVnvu8oKgGSgTT9) | 2:34 | 2022-05-25 | 2022-07-04 |
 | [O Little Town Of Bethlehem](https://open.spotify.com/track/6V23uUPhBn3NZuUVq1aOlz) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 2:26 | 2025-03-31 | 2025-04-04 |

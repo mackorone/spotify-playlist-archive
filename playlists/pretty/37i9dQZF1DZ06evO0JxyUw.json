@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 273423,
+  "num_followers": 273442,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAACzJ3iwlq2Hc87FfJ3Q4T3s",
+  "snapshot_id": "aF8wgAAAAAAslihk724TGvLSajtxc7hs",
   "tracks": [
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lotus (Deluxe Version)",
-        "url": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 253746,
-      "name": "Just A Fool",
-      "url": "https://open.spotify.com/track/6nS1vMV1zs8c0Lk6mud78D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amore (Remastered)",
         "url": "https://open.spotify.com/album/1sZg35UlVHKJzigDlx2uSJ"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 262306,
       "name": "Somos Novios",
       "url": "https://open.spotify.com/track/3Biuvi5NQdNpi2OiTgWNK4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lotus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 253746,
+      "name": "Just A Fool",
+      "url": "https://open.spotify.com/track/6nS1vMV1zs8c0Lk6mud78D"
     },
     {
       "added_at": null,
@@ -795,42 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AGUILERA",
-        "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 206542,
-      "name": "Cuando Me D\u00e9 la Gana",
-      "url": "https://open.spotify.com/track/054rVEFJSFyS9tHbZp1Pwz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burlesque Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 149693,
-      "name": "But I Am A Good Girl - Burlesque Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/2K5W4FicHhKQ9xMSl1MZX2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liberation",
         "url": "https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q"
       },
@@ -851,8 +815,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Santo",
-        "url": "https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC"
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 149693,
+      "name": "But I Am A Good Girl - Burlesque Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/2K5W4FicHhKQ9xMSl1MZX2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AGUILERA",
+        "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
       },
       "artists": [
         {
@@ -860,13 +840,13 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 183414,
-      "name": "Santo",
-      "url": "https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj"
+      "duration_ms": 206542,
+      "name": "Cuando Me D\u00e9 la Gana",
+      "url": "https://open.spotify.com/track/054rVEFJSFyS9tHbZp1Pwz"
     },
     {
       "added_at": null,
@@ -883,6 +863,26 @@
       "duration_ms": 257773,
       "name": "Infatuation",
       "url": "https://open.spotify.com/track/1Bwq4TKxWqvSgyHZN06wId"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Santo",
+        "url": "https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 183414,
+      "name": "Santo",
+      "url": "https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj"
     },
     {
       "added_at": null,

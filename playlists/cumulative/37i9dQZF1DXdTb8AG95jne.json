@@ -5534,6 +5534,24 @@
     {
       "album": {
         "name": "Ghost",
+        "url": "https://open.spotify.com/album/2Snl4Z0vZx5hBaAwVP4dHf"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195653,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/0q5MmAFd4oXY6vWeVsb8YE"
+    },
+    {
+      "album": {
+        "name": "Ghost",
         "url": "https://open.spotify.com/album/10Ya3OB3RQaayMRBkccptG"
       },
       "artists": [
@@ -5998,7 +6016,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-30",
       "duration_ms": 231000,
       "name": "H O M E",
       "url": "https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr"
@@ -11109,6 +11127,24 @@
     },
     {
       "album": {
+        "name": "on the water",
+        "url": "https://open.spotify.com/album/4AaPMk38htGwZx1AoupNso"
+      },
+      "artists": [
+        {
+          "name": "Sagong",
+          "url": "https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "on the water",
+      "url": "https://open.spotify.com/track/57iBg2TwwGsRRxK48uBNBI"
+    },
+    {
+      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/6JfMCmlRcKbd07cj3GDPEG"
       },
@@ -11648,7 +11684,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-30",
       "duration_ms": 161000,
       "name": "Petty Thief (Remix)",
       "url": "https://open.spotify.com/track/2VVadP8EuRhhKnBsXZZqMK"

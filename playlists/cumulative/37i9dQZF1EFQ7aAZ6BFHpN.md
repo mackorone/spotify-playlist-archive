@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-219 songs - 16 hr 35 min
+220 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Carnival of the Animals: XIV\. Finale](https://open.spotify.com/track/34o2Cs7e6bhDyLIDo9NHKc) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Barry Wordsworth](https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Saint\-Saëns: Carnival of the Animals; Bizet: Jeux d'enfants; Ravel: Mother Goose](https://open.spotify.com/album/4Qx7DzoPlvbA4z7e6JUf9R) | 2:07 | 2024-07-24 |  |
 | [Carnival Time](https://open.spotify.com/track/5G67IpM4sLKNHOnmU3U3CG) | [The Encores! Orchesta](https://open.spotify.com/artist/7gSa4bSRAszTaNZ3eEecxF) | [Lady, Be Good! \(2015 Encores! Cast Recording\)](https://open.spotify.com/album/0hjieHsrt1NpFOVc59nn17) | 1:45 | 2024-07-24 |  |
 | [Catfish Row: Suite from Porgy and Bess \(arr\. S\. Bowen for orchestra\): I\. Catfish Row](https://open.spotify.com/track/6YDyGvuZOX5m3aoTZTS2G7) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Steven Browen](https://open.spotify.com/artist/3d3RVN8F8dChpQVHj6AgdI), [Buffalo Philharmonic Orchestra](https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK), [Joann Falletta](https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK) | [Gershwin: Rhapsody in Blue \- Strike Up the Band: Overture \- Promenade \- Catfish Row](https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V) | 6:52 | 2024-07-24 |  |
+| [Changing My Tune](https://open.spotify.com/track/7bEUhPuMR8jw3dIKDOAPmP) | [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF), [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [The Meltones](https://open.spotify.com/artist/1Tq4NTchpZlJXE8bVl9Rv5) | [Artie Shaw and His Orchestra Featuring Mel Tormé and the Meltones](https://open.spotify.com/album/40CxPu7QzEVBl3lv7JVJBr) | 2:42 | 2025-06-29 |  |
 | [Clara, Clara \- Remastered](https://open.spotify.com/track/7H5GPqWOedNe1x4TCFLFAu) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Porgy & Bess \(Original Motion Picture Soundtrack\) \[Remastered\]](https://open.spotify.com/album/6l2ud8wBveGrBjDy1e18vA) | 2:16 | 2024-07-24 |  |
 | [Cockiness \(Love It\)](https://open.spotify.com/track/6ShPW20OkAfOxmkX06Okle) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk \(Deluxe Explicit\)](https://open.spotify.com/album/3oQebIVUPY0IPiROZSIQFl) | 2:58 | 2024-07-24 |  |
 | [Comes The Revolution](https://open.spotify.com/track/2cjbnAkDiwLnd3HwQlr9OT) | [Michael Feinstein](https://open.spotify.com/artist/2IcIec7ZxgwaWNJbZ0Sth7) | [Michael & George: Feinstein Sings Gershwin](https://open.spotify.com/album/1P15fFRI4uK1OrkTWtqExH) | 0:57 | 2024-07-24 |  |

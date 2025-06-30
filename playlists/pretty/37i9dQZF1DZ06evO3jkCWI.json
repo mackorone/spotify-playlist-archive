@@ -1,12 +1,12 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 185966,
+  "num_followers": 186035,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAACP/v9daKLNGWzbSnKGOqvh",
+  "snapshot_id": "aF8wgAAAAABpzoSWuCmCenSpHHEAci4v",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es Demasiado Tarde",
-        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 187613,
-      "name": "Lo Callar\u00e9",
-      "url": "https://open.spotify.com/track/4yhcbZ7HZxK1UI5SOAEdlC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bajo Mil Llaves",
         "url": "https://open.spotify.com/album/4lRqDjjNXMEoDpgynnWiKq"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 150533,
       "name": "Bajo Mil Llaves",
       "url": "https://open.spotify.com/track/4fSiPSoUlssxoUsafN5HLO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 187613,
+      "name": "Lo Callar\u00e9",
+      "url": "https://open.spotify.com/track/4yhcbZ7HZxK1UI5SOAEdlC"
     },
     {
       "added_at": null,
@@ -575,38 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi H\u00e9roe",
-        "url": "https://open.spotify.com/album/1Flg5XJrhqjvd70wX6QV9C"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 159013,
-      "name": "Degenerado",
-      "url": "https://open.spotify.com/track/413NV5nNVfbEh7vG1x2GTl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Es Demasiado Tarde",
-        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 181720,
-      "name": "Es Demasiado Tarde",
-      "url": "https://open.spotify.com/track/70YMp6bVrVHMhgevfAbf63"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D\u00e9jate Llevar",
         "url": "https://open.spotify.com/album/6OCVGmvD74MNcDpClL0uXT"
       },
@@ -627,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor A La Ligera",
-        "url": "https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm"
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
       },
       "artists": [
         {
@@ -636,9 +604,25 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 147373,
-      "name": "Que La Dejen Ir Al Baile",
-      "url": "https://open.spotify.com/track/5coPwNRFIF2jCQN6G3zdgT"
+      "duration_ms": 181720,
+      "name": "Es Demasiado Tarde",
+      "url": "https://open.spotify.com/track/70YMp6bVrVHMhgevfAbf63"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi H\u00e9roe",
+        "url": "https://open.spotify.com/album/1Flg5XJrhqjvd70wX6QV9C"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 159013,
+      "name": "Degenerado",
+      "url": "https://open.spotify.com/track/413NV5nNVfbEh7vG1x2GTl"
     },
     {
       "added_at": null,
@@ -655,6 +639,22 @@
       "duration_ms": 196306,
       "name": "Me Refiero A T\u00ed",
       "url": "https://open.spotify.com/track/5bbF1SdFGSqK7hKNAunuyc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor A La Ligera",
+        "url": "https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 147373,
+      "name": "Que La Dejen Ir Al Baile",
+      "url": "https://open.spotify.com/track/5coPwNRFIF2jCQN6G3zdgT"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Laurita Garza",
-        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 155506,
-      "name": "La Tumba Ser\u00e1 El Final",
-      "url": "https://open.spotify.com/track/4AcJrebC9ncscQPZlP9xED"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boleros Volumen 2",
         "url": "https://open.spotify.com/album/7JL6rJigUVM0qfWOFnbx2k"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 184533,
       "name": "Para Ti Mi Amor",
       "url": "https://open.spotify.com/track/79KkCXH9weKlaTsur7y8tk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Laurita Garza",
+        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 155506,
+      "name": "La Tumba Ser\u00e1 El Final",
+      "url": "https://open.spotify.com/track/4AcJrebC9ncscQPZlP9xED"
     },
     {
       "added_at": null,

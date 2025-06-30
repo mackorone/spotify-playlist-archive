@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Rels B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,900 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,917 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 70 | [Te Quería Ver](https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Te Quería Ver](https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF) | 2:56 |
 | 71 | [Corazón Puro](https://open.spotify.com/track/1yNYyCDT267YVxs5qSmnYZ) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Corazón Puro](https://open.spotify.com/album/5VxwWfcKYIpcp4OCjjaIQp) | 3:46 |
 | 72 | [capaz \(merengueton\)](https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [capaz \(merengueton\)](https://open.spotify.com/album/2ZrE9RpWOoVhffUupc6hRV) | 2:53 |
-| 73 | [VITAMINA](https://open.spotify.com/track/3LBYHlDSJOeUWSvCHXDWy5) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [VITAMINA](https://open.spotify.com/album/1LIiuhDLtsodcyRL70hBmP) | 2:37 |
+| 73 | [Vitamina](https://open.spotify.com/track/3LBYHlDSJOeUWSvCHXDWy5) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Vitamina](https://open.spotify.com/album/1LIiuhDLtsodcyRL70hBmP) | 2:37 |
 | 74 | [LA CYBER](https://open.spotify.com/track/7EaQ16Nq8bdc2A1CBOCwQU) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [INSOMNIO](https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU) | 3:30 |
 | 75 | [NI X EL PUTXS](https://open.spotify.com/track/1KL5rlmHCcyqkoGHjsle8v) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [NI X EL PUTXS](https://open.spotify.com/album/60BWMQAOZyitudi2E543PQ) | 3:07 |
 | 76 | [Lo Siento \- Remix](https://open.spotify.com/track/2rdpt16HmtfqApETJZkSAj) | [Milo Bvgatti](https://open.spotify.com/artist/7lyNgZSgWXCRYXx6y1flAK), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Lo Siento \(Remix\)](https://open.spotify.com/album/4P0RyNTM09nmZAhPqHlutU) | 3:33 |

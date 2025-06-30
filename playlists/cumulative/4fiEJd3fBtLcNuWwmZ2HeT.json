@@ -595,6 +595,24 @@
     },
     {
       "album": {
+        "name": "Cubism",
+        "url": "https://open.spotify.com/album/758JEaGEMDLXtFFCLxs1wc"
+      },
+      "artists": [
+        {
+          "name": "Qisano",
+          "url": "https://open.spotify.com/artist/4lxIvq3a7DcynJVycpSpML"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205004,
+      "name": "Cubism",
+      "url": "https://open.spotify.com/track/1kNX0OJo68zyYfeyTDyp78"
+    },
+    {
+      "album": {
         "name": "Etude of clair",
         "url": "https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV"
       },
@@ -3892,7 +3910,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 240000,
-      "name": "\u3088\u3075\u304b\u3057\u306e\u3046\u305f",
+      "name": "\u3088\u3075\u304b\u3057\u306e\u3046\u305f - Yofukashino Uta",
       "url": "https://open.spotify.com/track/1j6Agt1Sn2DjQ0NA33J3r2"
     },
     {
@@ -4909,7 +4927,7 @@
     },
     {
       "album": {
-        "name": "\u5815\u5929",
+        "name": "\u5815\u5929 - Daten",
         "url": "https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA"
       },
       "artists": [

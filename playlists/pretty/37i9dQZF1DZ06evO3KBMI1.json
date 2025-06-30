@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 73279,
+  "num_followers": 73284,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAAAjA3qoRwtD+sSccN48ILF0",
+  "snapshot_id": "aF8wgAAAAACawqq8Hwnh7ln8iWvcfl7e",
   "tracks": [
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 258933,
-      "name": "7th Trigger",
-      "url": "https://open.spotify.com/track/3ALiXA2sdQBuHotnGkEAoV"
+      "duration_ms": 322720,
+      "name": "THE OVER",
+      "url": "https://open.spotify.com/track/0nrDopi0dvGmx0EdyWoDsv"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 322720,
-      "name": "THE OVER",
-      "url": "https://open.spotify.com/track/0nrDopi0dvGmx0EdyWoDsv"
+      "duration_ms": 258933,
+      "name": "7th Trigger",
+      "url": "https://open.spotify.com/track/3ALiXA2sdQBuHotnGkEAoV"
     },
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fight For Liberty / Wizard CLUB",
+        "url": "https://open.spotify.com/album/01wclIWhWS6QyYNUoqSPL1"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 253053,
+      "name": "Fight For Liberty",
+      "url": "https://open.spotify.com/track/07NMKEDSIgM6W6FvmCIKKa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ODD FUTURE short ver.",
         "url": "https://open.spotify.com/album/276iqWzPw3i8uGdvoDzMsN"
       },
@@ -435,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fight For Liberty / Wizard CLUB",
-        "url": "https://open.spotify.com/album/01wclIWhWS6QyYNUoqSPL1"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 253053,
-      "name": "Fight For Liberty",
-      "url": "https://open.spotify.com/track/07NMKEDSIgM6W6FvmCIKKa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "0 CHOIR",
         "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
       },
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ENIGMASIS",
-        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 210413,
-      "name": "\u30d3\u30bf\u30fc\u30b9\u30a6\u30a3\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/04kM1N15bkZxI0KlQB4tXb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 305320,
       "name": "EN",
       "url": "https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ENIGMASIS",
+        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 210413,
+      "name": "\u30d3\u30bf\u30fc\u30b9\u30a6\u30a3\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/04kM1N15bkZxI0KlQB4tXb"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ENIGMASIS",
-        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 260079,
-      "name": "VICTOSPIN",
-      "url": "https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u6765\u9ce5\u6c5f",
         "url": "https://open.spotify.com/album/6ZFcRyPSEjIISFDg38kfyB"
       },
@@ -587,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIFE 6 SENSE",
-        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
+        "name": "ENIGMASIS",
+        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
       },
       "artists": [
         {
@@ -596,9 +580,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 270173,
-      "name": "\u30af\u30aa\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/12zLvEe3rs05AROHQmGN1Y"
+      "duration_ms": 260079,
+      "name": "VICTOSPIN",
+      "url": "https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3"
     },
     {
       "added_at": null,
@@ -615,6 +599,22 @@
       "duration_ms": 275306,
       "name": "AWAYOKUBA-\u65ac\u308b",
       "url": "https://open.spotify.com/track/7rOGRAUI5YauKjCA0KIC0f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LIFE 6 SENSE",
+        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 270173,
+      "name": "\u30af\u30aa\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/12zLvEe3rs05AROHQmGN1Y"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIFE 6 SENSE",
-        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
+        "name": "AwakEVE",
+        "url": "https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 328506,
-      "name": "MONDO PIECE",
-      "url": "https://open.spotify.com/track/0drLNk73IaEvSjdhPnQjY0"
+      "duration_ms": 354853,
+      "name": "\u7f8e\u5f71\u610f\u5fd7",
+      "url": "https://open.spotify.com/track/4hJymb1Mm4hrYMoL3itfv8"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AwakEVE",
-        "url": "https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS"
+        "name": "LIFE 6 SENSE",
+        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 354853,
-      "name": "\u7f8e\u5f71\u610f\u5fd7",
-      "url": "https://open.spotify.com/track/4hJymb1Mm4hrYMoL3itfv8"
+      "duration_ms": 328506,
+      "name": "MONDO PIECE",
+      "url": "https://open.spotify.com/track/0drLNk73IaEvSjdhPnQjY0"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIFE 6 SENSE",
-        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 200426,
-      "name": "\u767d\u663c\u5922",
-      "url": "https://open.spotify.com/track/6u6ZZKeq5Upa3Dq7fgdwxq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u50d5\u306e\u8a00\u8449\u3067\u306f\u306a\u3044 \u3053\u308c\u306f\u50d5\u9054\u306e\u8a00\u8449 (Extra Edition)",
         "url": "https://open.spotify.com/album/0TA8moeph2A7CMtfWFtzFC"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 258786,
       "name": "\u50d5\u306e\u8a00\u8449\u3067\u306f\u306a\u3044 \u3053\u308c\u306f\u50d5\u9054\u306e\u8a00\u8449",
       "url": "https://open.spotify.com/track/0StkLk0MA1i4kcUozLLxKl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LIFE 6 SENSE",
+        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 200426,
+      "name": "\u767d\u663c\u5922",
+      "url": "https://open.spotify.com/track/6u6ZZKeq5Upa3Dq7fgdwxq"
     },
     {
       "added_at": null,

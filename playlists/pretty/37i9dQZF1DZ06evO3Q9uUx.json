@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAACQvcU7VL9meixov5CrasKW",
+  "snapshot_id": "aF8wgAAAAABS6A9A8YKFAmhUf2Rog4BE",
   "tracks": [
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PISSED OFF",
-        "url": "https://open.spotify.com/album/1EOlxTFy3bmyFZGfiYz45e"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 161177,
-      "name": "PISSED OFF",
-      "url": "https://open.spotify.com/track/3JM5u17oBXiwif2EG9pKXv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Toxic Chocolate",
         "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 181812,
       "name": "Eat It Up (feat. BIA)",
       "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PISSED OFF",
+        "url": "https://open.spotify.com/album/1EOlxTFy3bmyFZGfiYz45e"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 161177,
+      "name": "PISSED OFF",
+      "url": "https://open.spotify.com/track/3JM5u17oBXiwif2EG9pKXv"
     },
     {
       "added_at": null,
@@ -1075,6 +1075,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Freak Remix",
+        "url": "https://open.spotify.com/album/4epvIuL8vjGOcBaEslxT5p"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 184920,
+      "name": "Freak (Remix)",
+      "url": "https://open.spotify.com/track/1bzdoX1w5IZlWt15z4y1t1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FOR CERTAIN",
         "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 189105,
       "name": "AUTOMATIC (feat. Doe Boy & 42 Dugg)",
       "url": "https://open.spotify.com/track/0PDno6z7Wn9gPYLn75QEMZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Freak Remix",
-        "url": "https://open.spotify.com/album/4epvIuL8vjGOcBaEslxT5p"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 184920,
-      "name": "Freak (Remix)",
-      "url": "https://open.spotify.com/track/1bzdoX1w5IZlWt15z4y1t1"
     }
   ],
   "unique_name": "This Is BIA",

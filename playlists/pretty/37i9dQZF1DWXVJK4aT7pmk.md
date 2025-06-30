@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 
 > Catch the hottest Punjabi tracks\. Cover \- Sidhu Moose Wala
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,320,448 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,324,516 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 | 49 | [Afsos](https://open.spotify.com/track/4Qm7r3ImER8S2Ori1gLMAf) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx), [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Afsos](https://open.spotify.com/album/0RaKe6idrXFUXsqxU4VmPa) | 3:11 |
 | 50 | [Maniac \- Bonus Track \[From "Glory"\]](https://open.spotify.com/track/7flUTy7LFKqIqERV7qgxeO) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Ragini Vishwakarma](https://open.spotify.com/artist/3UCFb7SJuft3iuboHfslzj), [Arjun Ajnabee](https://open.spotify.com/artist/2cu64IeD1D7wFS1ZD9wqBO) | [Maniac \- Bonus Track \[From "Glory"\]](https://open.spotify.com/album/625teJ2rC8nsi8dfGUYjU6) | 2:53 |
 
-Snapshot ID: `aF7bcAAAAADz1pMPD0kpRSXpjDRH48mo`
+Snapshot ID: `aGFPIgAAAAAqTMuQliVMWdqcS4+eo1IN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 
 > Powerful female voices, like you've never heard before\.  Cover: Norah Jones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,465 likes - 195 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,473 likes - 195 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

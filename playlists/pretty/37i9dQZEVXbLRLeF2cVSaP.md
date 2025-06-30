@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,890 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,892 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 25 | [No Gletcher Gang 2](https://open.spotify.com/track/0nXNsOS6gKYKS6pdoTBeHR) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [Graf Monte\-Cristo / Most Valuable Pirate](https://open.spotify.com/album/61ps9wdfl2bgjaKOPQ9zCb) | 1:56 |
 | 26 | [Все хотят меня поцеловать](https://open.spotify.com/track/0rqe1Pt1EGu0VDAqPupREU) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Грустная девчонка с глазами как у собаки](https://open.spotify.com/album/4cRqvcjfnQDxwCTGP2UAUV) | 2:24 |
 | 27 | [Hoodtrapstar](https://open.spotify.com/track/7N1AiJjucLwjTBvRajtnW0) | [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [From Sparta to Padre](https://open.spotify.com/album/5H12u8bLTbrdlLQ96iETPL) | 2:07 |
-| 28 | [Rock That Body](https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:28 |
+| 28 | [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 |
 | 29 | [Ханнамонтана](https://open.spotify.com/track/7dOzvgGmCmoqGAHeoiM542) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:10 |
 | 30 | [Супермаркет](https://open.spotify.com/track/5UW6yvwo3nVA609NgprdhK) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:34 |
 | 31 | [Жить в кайф](https://open.spotify.com/track/2m3PVx1gsVB5upxi94IW8I) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Жить в кайф](https://open.spotify.com/album/4ktDOYU0Jual1ELFTPhFd6) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [OCG](https://open.spotify.com/track/1wz0imYNaHwJbkDrA9GfKR) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV), [SaintPrince 52](https://open.spotify.com/artist/3E1U4YuY7Fov6RZ8G6EMpH) | [Graf Monte\-Cristo / Most Valuable Pirate](https://open.spotify.com/album/61ps9wdfl2bgjaKOPQ9zCb) | 2:20 |
 | 50 | [Москва \- Владивосток](https://open.spotify.com/track/3mvqKKyF6rgYd52bBSCTza) | [9mice](https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm) | [Москва \- Владивосток](https://open.spotify.com/album/1jR0KfwYZVuOXVPMgDntj0) | 2:59 |
 
-Snapshot ID: `L/NhqAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L/Sw0AAAAAAAAAAAAAAAAAAAAAAAAGVu`

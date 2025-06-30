@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > Discover your new favourite artists from Africa\. Cover:  <a href="https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW?si=eowv51LkSieK2fBmdIXoeA">Joshua Baraka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,455 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,487 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: Vigro Deep, Zee Nxumalo, Ch'cco
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,053,634 likes - 65 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,054,051 likes - 65 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

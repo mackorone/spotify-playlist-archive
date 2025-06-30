@@ -1029,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "Romeo",
+        "url": "https://open.spotify.com/album/257PqwE2yKKYxbLvqIkT3Y"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184928,
+      "name": "Romeo",
+      "url": "https://open.spotify.com/track/3YvFXuk2IuWW32zeOTV3Q9"
+    },
+    {
+      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/4RwVWm4kAzRgEiVzVpxHGG"
       },

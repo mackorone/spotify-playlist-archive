@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4uT4afwoFqf5HupqMjErXX">Chiiild</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 536 likes - 101 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 538 likes - 101 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 97 | [Connected](https://open.spotify.com/track/3AHaT1WvmVdTyy9imtkW6o) | [Karl Wolf](https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Finally Free](https://open.spotify.com/album/0PimgHIJe4nDDS8CBmPGzC) | 3:17 |
 | 98 | [Numb](https://open.spotify.com/track/5gLBiHrm9NnOYUJQPf7alm) | [Karl Wolf](https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7) | [Nightlife](https://open.spotify.com/album/7gs3rS7OKAyqWia7njEy1K) | 4:03 |
 | 99 | [Daddy Issues](https://open.spotify.com/track/1BFk3zOw0TuMSDSE5b8X8e) | [Josephina](https://open.spotify.com/artist/4WyMWzN7gNNKIt3ZfGNU9F) | [Daddy Issues](https://open.spotify.com/album/2DUMBKY3GldHNTDMQnUBtM) | 2:14 |
-| 100 | [Murder](https://open.spotify.com/track/7Ev7Bb8tPrQFR2MvQzrfM9) | [Thes](https://open.spotify.com/artist/7nnzlSxfrZkifdVvMhKyGp) | [Young Giant](https://open.spotify.com/album/4j6RpYZk9y67ggu1gWO8QL) | 4:35 |
-| 101 | [PLAY \(In The Moment\)](https://open.spotify.com/track/4OuOAYCQPczAnRkapdhin7) | [TURBO NOUVEAUX](https://open.spotify.com/artist/1FhTzeHeuXnBs57wqsi3hY) | [PLAY \(In The Moment\)](https://open.spotify.com/album/10BG9DQTwq5Dgj33LcY2o0) | 2:26 |
+| 100 | [PLAY \(In The Moment\)](https://open.spotify.com/track/4OuOAYCQPczAnRkapdhin7) | [TURBO NOUVEAUX](https://open.spotify.com/artist/1FhTzeHeuXnBs57wqsi3hY) | [PLAY \(In The Moment\)](https://open.spotify.com/album/10BG9DQTwq5Dgj33LcY2o0) | 2:26 |
+| 101 | [Murder](https://open.spotify.com/track/7Ev7Bb8tPrQFR2MvQzrfM9) | [Thes](https://open.spotify.com/artist/7nnzlSxfrZkifdVvMhKyGp) | [Young Giant](https://open.spotify.com/album/4j6RpYZk9y67ggu1gWO8QL) | 4:35 |
 
-Snapshot ID: `Ab1YSAAAAACIsmvGWKZLKlBqQ/1+F9W/`
+Snapshot ID: `Ab1d/AAAAABUELZexmXmpiNSKqN1gkqm`

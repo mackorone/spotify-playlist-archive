@@ -4,7 +4,7 @@
 
 > This is Mi Banda El Mexicano\. The essential tracks, all in one playlist.
 
-108 songs - 6 hr 13 min
+110 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Ayúdame](https://open.spotify.com/track/0Z8Jg2ji4tKeaGWpBidTxv) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Fuera de Serie](https://open.spotify.com/album/6ETwpYUJD00AlKGErRAqEy) | 2:59 | 2022-06-01 | 2025-05-07 |
 | [Ayúdame](https://open.spotify.com/track/5M88dJKvpEf5Ewt2xpSw2L) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [15 Éxitos](https://open.spotify.com/album/5scHTQG7vYBjhl4pC8GU89) | 2:59 | 2025-05-13 |  |
 | [Ayúdame](https://open.spotify.com/track/5zWotny7WkxyOZxp9jsdZr) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 2:59 | 2025-05-07 | 2025-05-13 |
-| [Bailando De Caballito](https://open.spotify.com/track/4wypWBS82iSSvRROk87oNQ) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 4:02 | 2022-06-01 |  |
+| [Bailando De Caballito](https://open.spotify.com/track/3uFgMUddB7bFtyhCBE9CXm) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Su Majestad Mi Banda El Mexicano Con Ustedes...](https://open.spotify.com/album/1s3BrMCfyfzqth3RzFdeSl) | 4:02 | 2025-06-30 |  |
+| [Bailando De Caballito](https://open.spotify.com/track/4wypWBS82iSSvRROk87oNQ) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 4:02 | 2022-06-01 | 2025-06-30 |
 | [Botas De Botín](https://open.spotify.com/track/2ckaGhvbzGZ3xRfqvkeIsA) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Pa'que Lo Bailes](https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb) | 2:45 | 2022-06-01 | 2025-05-10 |
 | [Burbujas De Amor](https://open.spotify.com/track/5B3DTCOYLv4zgEnAsGpT7d) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Pa'que Lo Bailes](https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb) | 4:53 | 2022-06-01 |  |
 | [Como Están \(Everybody's Everything\)](https://open.spotify.com/track/4P6FrNytOAvUgaTkuJdDGC) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Su Majestad Mi Banda El Mexicano Con Ustedes...](https://open.spotify.com/album/1s3BrMCfyfzqth3RzFdeSl) | 3:07 | 2025-05-07 | 2025-05-31 |
@@ -47,7 +48,7 @@
 | [La Bota](https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:28 | 2022-06-01 | 2025-06-07 |
 | [La Bota](https://open.spotify.com/track/4Yy2FOgCfDgRLGxaKMtePq) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5), [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [La Bota](https://open.spotify.com/album/0Qkzjbg5lggvXmUe4ZC2bN) | 3:30 | 2024-11-29 | 2024-12-25 |
 | [La Chela](https://open.spotify.com/track/14orHg5z8RbwkqiDUtQQkZ) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:32 | 2022-06-01 | 2025-05-07 |
-| [La Chela](https://open.spotify.com/track/2vyfYYA0JncCcrTQbAA9Q5) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Su Majestad Mi Banda El Mexicano Con Ustedes...](https://open.spotify.com/album/1s3BrMCfyfzqth3RzFdeSl) | 3:32 | 2025-05-11 |  |
+| [La Chela](https://open.spotify.com/track/2vyfYYA0JncCcrTQbAA9Q5) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Su Majestad Mi Banda El Mexicano Con Ustedes...](https://open.spotify.com/album/1s3BrMCfyfzqth3RzFdeSl) | 3:32 | 2025-05-11 | 2025-06-30 |
 | [La Chevecha](https://open.spotify.com/track/3cxoGfY06lSoaLhij4EGfn) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Su Majestad Mi Banda El Mexicano Con Ustedes...](https://open.spotify.com/album/1s3BrMCfyfzqth3RzFdeSl) | 2:57 | 2025-05-07 | 2025-06-07 |
 | [La Chevecha](https://open.spotify.com/track/5Cdp8Li5aW8Bo3MOTGuWnJ) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Su Majestad con Ustedes](https://open.spotify.com/album/0tltU9sMoyNo9nlBvLxW8Y) | 2:59 | 2024-06-12 | 2025-05-07 |
 | [La Chinita](https://open.spotify.com/track/5W1vsroY1xtc0HdoyGTwnb) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Otra Vez](https://open.spotify.com/album/3sxDYIn1KAZZdDNGHiQGbd) | 3:40 | 2022-06-01 |  |
@@ -63,6 +64,7 @@
 | [La Negra Catalina \- Remastered 2025](https://open.spotify.com/track/3E93VgG1zpj5c8yXJpOPCe) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Cumbias Ya Llegó..\. \(Remastered 2025\)](https://open.spotify.com/album/3eoxXKcNCOco45P0fqoakR) | 2:40 | 2025-04-23 | 2025-05-07 |
 | [La Negrita](https://open.spotify.com/track/2siuIOyoD8BPb3UB754kJP) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Pa'que Lo Bailes](https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb) | 3:21 | 2022-06-01 |  |
 | [La Niña Quiere Cerveza \- En Vivo](https://open.spotify.com/track/5IEsq0MLLm7NE61IryGDxj) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [La Niña Quiere Cerveza \- En Vivo](https://open.spotify.com/album/0Ew74PwPRd1mIefKhLdibE) | 3:32 | 2022-06-01 | 2024-06-12 |
+| [La Parabólica](https://open.spotify.com/track/7eOmUxKXqGoRCghz1EJQ77) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Colección De Oro, Vol\. 2: Ramito De Violetas](https://open.spotify.com/album/75CJBFLaA4JeVWzLXTRMN6) | 3:15 | 2025-06-30 |  |
 | [Las Nachas](https://open.spotify.com/track/2LQ4m8ippuDqoUp1xBNEhh) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Pa'que Lo Bailes](https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb) | 2:40 | 2022-06-01 |  |
 | [Libro Abierto](https://open.spotify.com/track/2NtCzG7rsTeDjeFUVqcF4D) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [El Hijo Desobediente](https://open.spotify.com/album/7bjdR83yDkSaQXBcqkMI6J) | 2:30 | 2022-06-01 | 2022-11-21 |
 | [Lupe](https://open.spotify.com/track/14bNHkved5kkoPebKfoU9j) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Banda el Mexicano](https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI) | 3:08 | 2022-06-01 | 2025-06-16 |

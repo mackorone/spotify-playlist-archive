@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/stevenvictor/\">Steven Victor</a>",
-  "num_followers": 58136,
+  "num_followers": 58142,
   "original_name": "Steven Victor's Taste",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Madman Across The Water",
+        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 377093,
+      "name": "Tiny Dancer",
+      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Slime & B",
         "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 176960,
       "name": "Go Crazy",
       "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Madman Across The Water",
-        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 377093,
-      "name": "Tiny Dancer",
-      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Meet The Woo 2",
-        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 108160,
-      "name": "Get Back",
-      "url": "https://open.spotify.com/track/3DWjFSDEQ9IWz1mj449fB7"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "KIDS SEE GHOSTS",
         "url": "https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV"
       },
@@ -423,6 +407,38 @@
       "duration_ms": 285666,
       "name": "Land of Confusion - 2007 Remaster",
       "url": "https://open.spotify.com/track/6twIBPybEvGydyNzNz89FT"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "On The Radio: Greatest Hits Volumes I & II",
+        "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 241506,
+      "name": "On The Radio",
+      "url": "https://open.spotify.com/track/41v23mPw4Se92JKUGvnkmW"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Meet The Woo 2",
+        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 108160,
+      "name": "Get Back",
+      "url": "https://open.spotify.com/track/3DWjFSDEQ9IWz1mj449fB7"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -459,22 +475,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "On The Radio: Greatest Hits Volumes I & II",
-        "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 241506,
-      "name": "On The Radio",
-      "url": "https://open.spotify.com/track/41v23mPw4Se92JKUGvnkmW"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "The Blueprint (Explicit Version)",
         "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
       },
@@ -487,90 +487,6 @@
       "duration_ms": 223240,
       "name": "Heart Of The City (Ain't No Love)",
       "url": "https://open.spotify.com/track/6gpZSI0xEMTzleBc5ykOVA"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Meet The Woo",
-        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 118800,
-      "name": "Hawk Em",
-      "url": "https://open.spotify.com/track/2ZRdQMMKtmPLdYp9aP5cK5"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "4Respect 4Freedom 4Loyalty 4WhatImportant",
-        "url": "https://open.spotify.com/album/4tCZ22E9RnUz09OaDJfaoO"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
-        {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
-        }
-      ],
-      "duration_ms": 172138,
-      "name": "TTG (feat. Kevin Gates)",
-      "url": "https://open.spotify.com/track/28u9JaFwO7GX2YNARkq37P"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Purple Reign",
-        "url": "https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 246360,
-      "name": "Perkys Calling",
-      "url": "https://open.spotify.com/track/05nB8pRwwbKA2fsKK1nOyE"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 278893,
-      "name": "Family Business",
-      "url": "https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "High Maintenance",
-        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 109302,
-      "name": "ICY GRL",
-      "url": "https://open.spotify.com/track/1sl1cpix9GnwNwaVt04BIu"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -591,22 +507,50 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Meet The Woo 2",
-        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
+        "name": "Purple Reign",
+        "url": "https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2"
       },
       "artists": [
         {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 160560,
-      "name": "Mannequin (feat. Lil Tjay)",
-      "url": "https://open.spotify.com/track/5eJpwQyirY5EEdNadHKRAM"
+      "duration_ms": 246360,
+      "name": "Perkys Calling",
+      "url": "https://open.spotify.com/track/05nB8pRwwbKA2fsKK1nOyE"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "High Maintenance",
+        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 109302,
+      "name": "ICY GRL",
+      "url": "https://open.spotify.com/track/1sl1cpix9GnwNwaVt04BIu"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 278893,
+      "name": "Family Business",
+      "url": "https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -651,6 +595,42 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "4Respect 4Freedom 4Loyalty 4WhatImportant",
+        "url": "https://open.spotify.com/album/4tCZ22E9RnUz09OaDJfaoO"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "duration_ms": 172138,
+      "name": "TTG (feat. Kevin Gates)",
+      "url": "https://open.spotify.com/track/28u9JaFwO7GX2YNARkq37P"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Meet The Woo",
+        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 118800,
+      "name": "Hawk Em",
+      "url": "https://open.spotify.com/track/2ZRdQMMKtmPLdYp9aP5cK5"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Jericho",
         "url": "https://open.spotify.com/album/0RLw5OMSYJ9FNUJvBTfHzU"
       },
@@ -663,6 +643,22 @@
       "duration_ms": 314840,
       "name": "Atlantic City",
       "url": "https://open.spotify.com/track/4JwjzS9WFkWlpzGCwh82fn"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "When Will I See You Again",
+      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -691,22 +687,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The Three Degrees",
-        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "When Will I See You Again",
-      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "DAYTONA",
         "url": "https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp"
       },
@@ -719,6 +699,22 @@
       "duration_ms": 166120,
       "name": "The Games We Play",
       "url": "https://open.spotify.com/track/7iEoaTyBCqLaAwJnOP1BTn"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Man On The Moon II: The Legend Of Mr. Rager",
+        "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 210586,
+      "name": "Mojo So Dope",
+      "url": "https://open.spotify.com/track/6hPSal3ragmfUt1I5mKZjn"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -739,18 +735,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Man On The Moon II: The Legend Of Mr. Rager",
-        "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud"
+        "name": "Meet The Woo 2",
+        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
       },
       "artists": [
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 210586,
-      "name": "Mojo So Dope",
-      "url": "https://open.spotify.com/track/6hPSal3ragmfUt1I5mKZjn"
+      "duration_ms": 160560,
+      "name": "Mannequin (feat. Lil Tjay)",
+      "url": "https://open.spotify.com/track/5eJpwQyirY5EEdNadHKRAM"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Meet The Woo",
-        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Scenario",
-      "url": "https://open.spotify.com/track/2T1GbU75iGVtOhNUbZuNqk"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Gangsta Blues",
         "url": "https://open.spotify.com/album/08N10iDC2hOpj69QHaU1Dn"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 448000,
       "name": "La Vie en rose",
       "url": "https://open.spotify.com/track/5yJrl2r0vr6u9BXqQXZE3V"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Meet The Woo",
+        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Scenario",
+      "url": "https://open.spotify.com/track/2T1GbU75iGVtOhNUbZuNqk"
     }
   ],
   "unique_name": "Steven Victor's Taste",

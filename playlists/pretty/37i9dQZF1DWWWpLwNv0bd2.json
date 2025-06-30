@@ -1,12 +1,12 @@
 {
   "description": "Check out the Latest Romance Tracks.\nCover : Thalaivan Thalaivii",
-  "num_followers": 152219,
+  "num_followers": 152252,
   "original_name": "Latest Love Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFleowAAAACY3ejhaZCmBpC6E87ulzof",
+  "snapshot_id": "aGFAjgAAAABP9aCnEOjObAFJKIZCVgIO",
   "tracks": [
     {
       "added_at": "2025-06-04 14:31:01",
@@ -55,6 +55,30 @@
       "duration_ms": 226255,
       "name": "Pottala Muttaye - From \"Thalaivan Thalaivii\"",
       "url": "https://open.spotify.com/track/5uoFuhKbCzo5cET3kn3pSv"
+    },
+    {
+      "added_at": "2025-06-29 13:33:02",
+      "album": {
+        "name": "Nee Arike",
+        "url": "https://open.spotify.com/album/6X3cDkGtZibWUj39YGHb19"
+      },
+      "artists": [
+        {
+          "name": "L4TERN",
+          "url": "https://open.spotify.com/artist/3ocwwpzYk8POOMqGiPP6N4"
+        },
+        {
+          "name": "JRK",
+          "url": "https://open.spotify.com/artist/0w9sMOv9RRUiY7VKOHsHDj"
+        },
+        {
+          "name": "Lasya",
+          "url": "https://open.spotify.com/artist/3nFDEpKawzTa38sZ6XXuFx"
+        }
+      ],
+      "duration_ms": 149921,
+      "name": "Nee Arike",
+      "url": "https://open.spotify.com/track/2QFyg6VF0KPeKvKnkipR0V"
     },
     {
       "added_at": "2025-01-13 06:02:31",
@@ -1115,34 +1139,6 @@
       "duration_ms": 248571,
       "name": "Manasula",
       "url": "https://open.spotify.com/track/6Fo8GFG8jVMyRu5oRfMQY4"
-    },
-    {
-      "added_at": "2024-11-27 13:50:23",
-      "album": {
-        "name": "Kadhal Theeradha (From \"Lara\")",
-        "url": "https://open.spotify.com/album/1LPS3pDw3xBekGyYHNvFoP"
-      },
-      "artists": [
-        {
-          "name": "Raghu Sravan Kumar",
-          "url": "https://open.spotify.com/artist/4shsgl44FArZtKjAPHPh1t"
-        },
-        {
-          "name": "Muthamil",
-          "url": "https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2"
-        },
-        {
-          "name": "Karthikesan",
-          "url": "https://open.spotify.com/artist/6jFRjMewjDAcgbqJONGCoh"
-        },
-        {
-          "name": "Sai Vignesh",
-          "url": "https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Kadhal Theeradha (From \"Lara\")",
-      "url": "https://open.spotify.com/track/2fINys1MvsrE7odj7MsBGn"
     },
     {
       "added_at": "2024-11-18 08:06:51",

@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 127065,
+  "num_followers": 127089,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAADDQcCmhxMSTR4aZ0KX3A4H",
+  "snapshot_id": "aF8wgAAAAABcODfLVdZGgVQJ/aeYofIB",
   "tracks": [
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "Holland",
-      "url": "https://open.spotify.com/track/5LeGT0ziFpK3Skvr6jwIgF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seven Swans",
         "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 254053,
       "name": "All the Trees of the Field Will Clap Their Hands",
       "url": "https://open.spotify.com/track/5OjpdQLQNF59wsZx9S9b10"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "Holland",
+      "url": "https://open.spotify.com/track/5LeGT0ziFpK3Skvr6jwIgF"
     },
     {
       "added_at": null,

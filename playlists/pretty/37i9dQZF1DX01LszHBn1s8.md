@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > 👋🤝 my name is Pink and i'm really glad to meet you 🤝👋
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,966 likes - 111 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,006 likes - 111 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

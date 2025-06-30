@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 18533,
+  "num_followers": 18537,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAACtU5+JaeB3E6SVKpd0M6bb",
+  "snapshot_id": "aF8wgAAAAADyD5yIV/rJgtOyzw6fYmlR",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lead Me On",
-        "url": "https://open.spotify.com/album/7ETJhSThtcyCrQg4CuZfrX"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 336386,
-      "name": "Lead Me On",
-      "url": "https://open.spotify.com/track/0viCxBdQvd5WE4M1lXzv7u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs from the Neighborhood: The Music of Mister Rogers",
         "url": "https://open.spotify.com/album/3cBGz03vO7HN2LOBeTtwy7"
       },
@@ -587,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Still And Know... Hymns & Faith",
-        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
+        "name": "Lead Me On",
+        "url": "https://open.spotify.com/album/7ETJhSThtcyCrQg4CuZfrX"
       },
       "artists": [
         {
@@ -596,45 +580,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 267026,
-      "name": "Jesus, Take All Of Me (Just As I Am)",
-      "url": "https://open.spotify.com/track/1o9k7YwiHeUh00RO5n0CY9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legacy...Hymns & Faith",
-        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 294693,
-      "name": "It Is Well With My Soul/The River's Gonna Keep On Rolling - Medley",
-      "url": "https://open.spotify.com/track/3UFkUw2BMQRgwaqv1GLXHW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Home (Lyana's Song from Caretaker)",
-        "url": "https://open.spotify.com/album/4Uii4mHwQbJWr5GGO1kuHU"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        },
-        {
-          "name": "R.J. Halbert",
-          "url": "https://open.spotify.com/artist/74kavaQT7aReFkvXgf5uX1"
-        }
-      ],
-      "duration_ms": 198093,
-      "name": "Home (Lyana's Song from Caretaker)",
-      "url": "https://open.spotify.com/track/2K2TlhCodATC2zBV62D75o"
+      "duration_ms": 336386,
+      "name": "Lead Me On",
+      "url": "https://open.spotify.com/track/0viCxBdQvd5WE4M1lXzv7u"
     },
     {
       "added_at": null,
@@ -659,6 +607,38 @@
       "duration_ms": 320626,
       "name": "A Woman",
       "url": "https://open.spotify.com/track/6hCJLBQi1UmxvryFRZgwHu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legacy...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 294693,
+      "name": "It Is Well With My Soul/The River's Gonna Keep On Rolling - Medley",
+      "url": "https://open.spotify.com/track/3UFkUw2BMQRgwaqv1GLXHW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Still And Know... Hymns & Faith",
+        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 267026,
+      "name": "Jesus, Take All Of Me (Just As I Am)",
+      "url": "https://open.spotify.com/track/1o9k7YwiHeUh00RO5n0CY9"
     },
     {
       "added_at": null,
@@ -707,6 +687,26 @@
       "duration_ms": 180973,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/57RD1fWWeuT9zsYtFMOu4K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home (Lyana's Song from Caretaker)",
+        "url": "https://open.spotify.com/album/4Uii4mHwQbJWr5GGO1kuHU"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        },
+        {
+          "name": "R.J. Halbert",
+          "url": "https://open.spotify.com/artist/74kavaQT7aReFkvXgf5uX1"
+        }
+      ],
+      "duration_ms": 198093,
+      "name": "Home (Lyana's Song from Caretaker)",
+      "url": "https://open.spotify.com/track/2K2TlhCodATC2zBV62D75o"
     },
     {
       "added_at": null,

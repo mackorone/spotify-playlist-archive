@@ -147,6 +147,22 @@
     {
       "added_at": "2025-06-28 15:00:05",
       "album": {
+        "name": "\u306f\u3058\u3081\u307e\u3057\u3066",
+        "url": "https://open.spotify.com/album/1NxUUrCisudNTH7BGZu3Fj"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "duration_ms": 147360,
+      "name": "\u306f\u3058\u3081\u307e\u3057\u3066",
+      "url": "https://open.spotify.com/track/0o7bRi57o5jUchsIEqsnQJ"
+    },
+    {
+      "added_at": "2025-06-28 15:00:05",
+      "album": {
         "name": "No Genre",
         "url": "https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL"
       },

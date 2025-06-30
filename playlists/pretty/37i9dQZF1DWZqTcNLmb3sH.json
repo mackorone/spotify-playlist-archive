@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Ekka",
-  "num_followers": 63391,
+  "num_followers": 63406,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF5zzAAAAAD19gqUueVgn1hGsblLCoLP",
+  "snapshot_id": "aGFCDwAAAACTyU9EHd6VSmz/uzD4wSJV",
   "tracks": [
     {
       "added_at": "2025-06-09 12:18:40",
@@ -31,6 +31,30 @@
       "duration_ms": 264004,
       "name": "Bangle Bangari (From \"Ekka\")",
       "url": "https://open.spotify.com/track/5pev9XrM5pNdpgSa1gTkGc"
+    },
+    {
+      "added_at": "2025-06-29 13:39:27",
+      "album": {
+        "name": "Vidyapati (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3BtZFDPnRRndrhmQqCjqMO"
+      },
+      "artists": [
+        {
+          "name": "Dossmode",
+          "url": "https://open.spotify.com/artist/1A7mR5Rc1i25LIVp8hIz4b"
+        },
+        {
+          "name": "Sujith Venkataramaiah",
+          "url": "https://open.spotify.com/artist/3sij73GdkjT4pjSWZYj1im"
+        },
+        {
+          "name": "Jaggesh",
+          "url": "https://open.spotify.com/artist/2Odsd3tl5yDSnx8OlwuJln"
+        }
+      ],
+      "duration_ms": 253440,
+      "name": "Ayyo Vidhiye (From \"Vidyapati\")",
+      "url": "https://open.spotify.com/track/3wzJLHsdYJVhZdKMLjZW8c"
     },
     {
       "added_at": "2025-05-20 08:58:55",
@@ -99,6 +123,30 @@
       "duration_ms": 180666,
       "name": "Bhoomiye Ondu Mannina Paatre (From \"Sees Kaddi\")",
       "url": "https://open.spotify.com/track/0k1v8OsiLoHBAptXgpyKsM"
+    },
+    {
+      "added_at": "2025-06-29 13:38:48",
+      "album": {
+        "name": "Danks Anthem (From \"Su From So\")",
+        "url": "https://open.spotify.com/album/6nSfcnyklIcGiecHEupTa6"
+      },
+      "artists": [
+        {
+          "name": "Sumedh K",
+          "url": "https://open.spotify.com/artist/5SSjbuLdyRS8iGfETzC4Sz"
+        },
+        {
+          "name": "Raj B. Shetty",
+          "url": "https://open.spotify.com/artist/3OuLzZtCmjUkULhb1gDCWz"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        }
+      ],
+      "duration_ms": 196588,
+      "name": "Danks Anthem (From \"Su From So\")",
+      "url": "https://open.spotify.com/track/0SvfW3OKWtOYRkZptWsuup"
     },
     {
       "added_at": "2025-05-23 06:53:01",
@@ -1191,50 +1239,6 @@
       "duration_ms": 234374,
       "name": "Nanna Neralindu (From \"Amara Premi Arun'')",
       "url": "https://open.spotify.com/track/3u96jICCc0jMqUVmB3QrIy"
-    },
-    {
-      "added_at": "2025-03-29 06:39:10",
-      "album": {
-        "name": "Settagalla (From \"KD\")",
-        "url": "https://open.spotify.com/album/1mXfvaH1B9hgrNNcKfgbqo"
-      },
-      "artists": [
-        {
-          "name": "Mika Singh",
-          "url": "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"
-        },
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        }
-      ],
-      "duration_ms": 204233,
-      "name": "Settagalla (From \"KD\")",
-      "url": "https://open.spotify.com/track/5g0PDiHmtQz0TehfqXM065"
-    },
-    {
-      "added_at": "2025-04-09 10:14:45",
-      "album": {
-        "name": "Sundari Sukumaari (From \"Rajarathnakara\")",
-        "url": "https://open.spotify.com/album/52o0S85G34NXNYsdOFJ0ms"
-      },
-      "artists": [
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "Manjunath S Rao",
-          "url": "https://open.spotify.com/artist/7jdzxNppAjTdrWWACfDBt2"
-        },
-        {
-          "name": "Harsha Vardhan Raaj",
-          "url": "https://open.spotify.com/artist/2ptITI8e8lLC2XCRV4BVzc"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Sundari Sukumaari - From \"Rajarathnakara\"",
-      "url": "https://open.spotify.com/track/6kvXJxDkFVhQjncC3f4nez"
     }
   ],
   "unique_name": "Latest Kannada",

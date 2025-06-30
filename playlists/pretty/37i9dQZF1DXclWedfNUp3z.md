@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,201 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,283 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 | 35 | [Nylon Bell Pot](https://open.spotify.com/track/6EoUeqkKpALb2HXWyEYIDk) | [Ben Hackett](https://open.spotify.com/artist/050oABtOYcWMjuoWR7saCa) | [Nylon Bell Pot / Loose Changes 2](https://open.spotify.com/album/3fQsUY9826C3ccViItiPO7) | 3:37 |
 | 36 | [Castle Song](https://open.spotify.com/track/4GYdKBuHZNRByw8bFES0EL) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [A Host for All Kinds of Life](https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl) | 2:53 |
 | 37 | [Aves del Sur](https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg) | [Baco Beats](https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv), [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Aves del Sur](https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe) | 3:09 |
-| 38 | [Pure](https://open.spotify.com/track/4cFb48uJoAaR0ZogBcUTM5) | [Marc Van Mourik](https://open.spotify.com/artist/7s9gWdUK3IXsvkQP58Es4H) | [Pure](https://open.spotify.com/album/2XQxJLSTxO2YTmDyMl6qyG) | 4:19 |
-| 39 | [Doff](https://open.spotify.com/track/0gitxF5eauet5HwgtSiLjB) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Doff](https://open.spotify.com/album/2PBu3e1YFNWRZHLdozFIyL) | 3:04 |
+| 38 | [Doff](https://open.spotify.com/track/0gitxF5eauet5HwgtSiLjB) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Doff](https://open.spotify.com/album/2PBu3e1YFNWRZHLdozFIyL) | 3:04 |
+| 39 | [Pure](https://open.spotify.com/track/4cFb48uJoAaR0ZogBcUTM5) | [Marc Van Mourik](https://open.spotify.com/artist/7s9gWdUK3IXsvkQP58Es4H) | [Pure](https://open.spotify.com/album/2XQxJLSTxO2YTmDyMl6qyG) | 4:19 |
 | 40 | [The Beyond](https://open.spotify.com/track/1CFaQyXq0nSHSBQ9AAALDQ) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ) | [The Beyond](https://open.spotify.com/album/5xTKYO7RjVCdaROa9kvBcN) | 1:45 |
 | 41 | [Swashers](https://open.spotify.com/track/5IqjAH2ynF7320IVnqfjlT) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Spaces](https://open.spotify.com/album/3V8YAQt6ADKvL803nvq27L) | 5:38 |
 | 42 | [Woodland Encounter](https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [See\-Through](https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF) | 6:08 |

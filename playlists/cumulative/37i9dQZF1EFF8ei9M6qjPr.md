@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-201 songs - 9 hr 30 min
+202 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [BMW X5](https://open.spotify.com/track/5l2eU16Ruz6W73u0yESsuC) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [BMW X5](https://open.spotify.com/album/7BBbjxLMCcp3bseNfYgRPD) | 2:47 | 2024-07-09 |  |
 | [Breakfast](https://open.spotify.com/track/3v3cZP2dmnTtTL0CdZ2HOC) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Alchemical: Volume 1](https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55) | 2:28 | 2024-07-09 |  |
 | [bright side of the moon](https://open.spotify.com/track/5r4G5w8ujwefEnrCT5uzoX) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [bright side of the moon](https://open.spotify.com/album/2oD4BvnapvypZEBsrNRqY3) | 3:10 | 2024-07-09 |  |
-| [Brown Eyed Baby](https://open.spotify.com/track/4z0DCTfwCBX4kCzW2pruYb) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Brown Eyed Baby](https://open.spotify.com/album/7HPFvEwNsmy5eXxxY2m2uP) | 3:02 | 2025-02-04 |  |
+| [Brown Eyed Baby](https://open.spotify.com/track/4z0DCTfwCBX4kCzW2pruYb) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Brown Eyed Baby](https://open.spotify.com/album/7HPFvEwNsmy5eXxxY2m2uP) | 3:02 | 2025-02-04 | 2025-06-30 |
+| [Brown Eyed Baby](https://open.spotify.com/track/7Chkty42FCJeWi4fOKmdmJ) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Getting By](https://open.spotify.com/album/6ZnlJFDMZzVftNALozU1LO) | 3:02 | 2025-06-29 |  |
 | [Buttered Up](https://open.spotify.com/track/1Uue730zlycJb8dN6n6PHz) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Sensational](https://open.spotify.com/album/6xd9phTkcEIsi1JWhbxZM3) | 2:50 | 2024-07-09 |  |
 | [California](https://open.spotify.com/track/1SVbYemhVlCGnpxUF3gyLH) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:52 | 2024-07-09 |  |
 | [Cannon Beach](https://open.spotify.com/track/1SBvncos8PcOY8bOHWhw1U) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Footprints I Found](https://open.spotify.com/album/4P0aLF8ud7ngqUofnVzlev) | 2:52 | 2025-03-23 |  |

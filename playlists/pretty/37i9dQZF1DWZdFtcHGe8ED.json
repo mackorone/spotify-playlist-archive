@@ -1,6 +1,6 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Slayer",
-  "num_followers": 572123,
+  "num_followers": 572169,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2025-06-27 04:00:25",
       "album": {
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 243533,
+      "name": "Cowboys from Hell",
+      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
+    },
+    {
+      "added_at": "2025-06-27 04:00:25",
+      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/5JjnPCfpp6redrkKpXZAs8"
       },
@@ -283,22 +299,6 @@
     {
       "added_at": "2025-06-27 04:00:25",
       "album": {
-        "name": "Peace Sells...But Who's Buying (Deluxe Edition - Remastered)",
-        "url": "https://open.spotify.com/album/4PqSk2iBHnsYQK0ecXjS9k"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 244160,
-      "name": "Peace Sells - Remastered",
-      "url": "https://open.spotify.com/track/5a2hIQWInPjqkkFiUEgxoX"
-    },
-    {
-      "added_at": "2025-06-27 04:00:25",
-      "album": {
         "name": "Nightmare Logic",
         "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
       },
@@ -331,18 +331,34 @@
     {
       "added_at": "2025-06-27 04:00:25",
       "album": {
-        "name": "Cowboys from Hell",
-        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+        "name": "Peace Sells...But Who's Buying (Deluxe Edition - Remastered)",
+        "url": "https://open.spotify.com/album/4PqSk2iBHnsYQK0ecXjS9k"
       },
       "artists": [
         {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 243533,
-      "name": "Cowboys from Hell",
-      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
+      "duration_ms": 244160,
+      "name": "Peace Sells - Remastered",
+      "url": "https://open.spotify.com/track/5a2hIQWInPjqkkFiUEgxoX"
+    },
+    {
+      "added_at": "2025-06-27 04:00:25",
+      "album": {
+        "name": "Chaos A.D.",
+        "url": "https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "Refuse / Resist",
+      "url": "https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH"
     },
     {
       "added_at": "2025-06-27 04:00:25",
@@ -363,22 +379,6 @@
     {
       "added_at": "2025-06-27 04:00:25",
       "album": {
-        "name": "Fabulous Disaster",
-        "url": "https://open.spotify.com/album/0bhhJIaAGRxXAyBSsxVRiy"
-      },
-      "artists": [
-        {
-          "name": "Exodus",
-          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
-        }
-      ],
-      "duration_ms": 290280,
-      "name": "The Toxic Waltz",
-      "url": "https://open.spotify.com/track/5ZOOjqoCaUydmo8bxSdosj"
-    },
-    {
-      "added_at": "2025-06-27 04:00:25",
-      "album": {
         "name": "\u2026And Justice for All (Remastered)",
         "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
       },
@@ -391,22 +391,6 @@
       "duration_ms": 402143,
       "name": "Blackened",
       "url": "https://open.spotify.com/track/1odk70HBNbdk4wU0Ja9JR7"
-    },
-    {
-      "added_at": "2025-06-27 04:00:25",
-      "album": {
-        "name": "Chaos A.D.",
-        "url": "https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 199226,
-      "name": "Refuse / Resist",
-      "url": "https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH"
     },
     {
       "added_at": "2025-06-27 04:00:25",
@@ -447,6 +431,38 @@
     {
       "added_at": "2025-06-27 04:00:25",
       "album": {
+        "name": "Chaos A.D.",
+        "url": "https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 287480,
+      "name": "Territory",
+      "url": "https://open.spotify.com/track/0QRxtcxL31dRAeiUUuENPu"
+    },
+    {
+      "added_at": "2025-06-27 04:00:25",
+      "album": {
+        "name": "Fabulous Disaster",
+        "url": "https://open.spotify.com/album/0bhhJIaAGRxXAyBSsxVRiy"
+      },
+      "artists": [
+        {
+          "name": "Exodus",
+          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
+        }
+      ],
+      "duration_ms": 290280,
+      "name": "The Toxic Waltz",
+      "url": "https://open.spotify.com/track/5ZOOjqoCaUydmo8bxSdosj"
+    },
+    {
+      "added_at": "2025-06-27 04:00:25",
+      "album": {
         "name": "Alice In Hell",
         "url": "https://open.spotify.com/album/5oKZacGOXxb7A2OwXgh9UY"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 301053,
       "name": "Alison Hell",
       "url": "https://open.spotify.com/track/153SwL1d9SfCLWhqIs08we"
-    },
-    {
-      "added_at": "2025-06-27 04:00:25",
-      "album": {
-        "name": "Kill 'Em All (Remastered)",
-        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 432546,
-      "name": "The Four Horsemen - Remastered",
-      "url": "https://open.spotify.com/track/5RrnDgjoFxDINI5aFQPZXt"
     },
     {
       "added_at": "2025-06-27 04:00:25",
@@ -495,38 +495,6 @@
     {
       "added_at": "2025-06-27 04:00:25",
       "album": {
-        "name": "Show No Mercy",
-        "url": "https://open.spotify.com/album/3D6BriGykla1Qi2YzeoE7X"
-      },
-      "artists": [
-        {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
-        }
-      ],
-      "duration_ms": 243360,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/4cJhBmeJ7KiBeuy7oxRnZ3"
-    },
-    {
-      "added_at": "2025-06-27 04:00:25",
-      "album": {
-        "name": "Among The Living",
-        "url": "https://open.spotify.com/album/4Y2jEzU70sLpTCMCl6JE0t"
-      },
-      "artists": [
-        {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
-        }
-      ],
-      "duration_ms": 341333,
-      "name": "Indians",
-      "url": "https://open.spotify.com/track/1fcyfC1KLSWVCIvALR5AxS"
-    },
-    {
-      "added_at": "2025-06-27 04:00:25",
-      "album": {
         "name": "The Art of Partying",
         "url": "https://open.spotify.com/album/7cU3FZ3u2jgKd5s8hhKJ9h"
       },
@@ -543,18 +511,34 @@
     {
       "added_at": "2025-06-27 04:00:25",
       "album": {
-        "name": "Chaos A.D.",
-        "url": "https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu"
+        "name": "Show No Mercy",
+        "url": "https://open.spotify.com/album/3D6BriGykla1Qi2YzeoE7X"
       },
       "artists": [
         {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
         }
       ],
-      "duration_ms": 287480,
-      "name": "Territory",
-      "url": "https://open.spotify.com/track/0QRxtcxL31dRAeiUUuENPu"
+      "duration_ms": 243360,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/4cJhBmeJ7KiBeuy7oxRnZ3"
+    },
+    {
+      "added_at": "2025-06-27 04:00:25",
+      "album": {
+        "name": "Kill 'Em All (Remastered)",
+        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 432546,
+      "name": "The Four Horsemen - Remastered",
+      "url": "https://open.spotify.com/track/5RrnDgjoFxDINI5aFQPZXt"
     },
     {
       "added_at": "2025-06-27 04:00:25",
@@ -575,6 +559,22 @@
     {
       "added_at": "2025-06-27 04:00:25",
       "album": {
+        "name": "Among The Living",
+        "url": "https://open.spotify.com/album/4Y2jEzU70sLpTCMCl6JE0t"
+      },
+      "artists": [
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "duration_ms": 341333,
+      "name": "Indians",
+      "url": "https://open.spotify.com/track/1fcyfC1KLSWVCIvALR5AxS"
+    },
+    {
+      "added_at": "2025-06-27 04:00:25",
+      "album": {
         "name": "Hornet's Nest",
         "url": "https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB"
       },
@@ -591,38 +591,6 @@
     {
       "added_at": "2025-06-27 04:00:25",
       "album": {
-        "name": "Enter The Grave",
-        "url": "https://open.spotify.com/album/3G3vlh9dfQMTcgcDhNkgut"
-      },
-      "artists": [
-        {
-          "name": "Evile",
-          "url": "https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "Thrasher",
-      "url": "https://open.spotify.com/track/3ghhd7sdIcWrWL4yeYc81Q"
-    },
-    {
-      "added_at": "2025-06-27 04:00:25",
-      "album": {
-        "name": "State Of Euphoria",
-        "url": "https://open.spotify.com/album/3dy6mgYszZm3noUMEgWYGE"
-      },
-      "artists": [
-        {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
-        }
-      ],
-      "duration_ms": 264666,
-      "name": "Antisocial",
-      "url": "https://open.spotify.com/track/2Hy27APwGt3lMfpZ0Bzf13"
-    },
-    {
-      "added_at": "2025-06-27 04:00:25",
-      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/5JjnPCfpp6redrkKpXZAs8"
       },
@@ -635,6 +603,22 @@
       "duration_ms": 270640,
       "name": "Ratamahatta",
       "url": "https://open.spotify.com/track/3Tg8JctqoeIwZ3Rue8BjaI"
+    },
+    {
+      "added_at": "2025-06-27 04:00:25",
+      "album": {
+        "name": "Enter The Grave",
+        "url": "https://open.spotify.com/album/3G3vlh9dfQMTcgcDhNkgut"
+      },
+      "artists": [
+        {
+          "name": "Evile",
+          "url": "https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "Thrasher",
+      "url": "https://open.spotify.com/track/3ghhd7sdIcWrWL4yeYc81Q"
     },
     {
       "added_at": "2025-06-27 04:00:25",
@@ -699,6 +683,22 @@
       "duration_ms": 278381,
       "name": "The Moth",
       "url": "https://open.spotify.com/track/1VAr5YFV3UF3eWmbhYQMqF"
+    },
+    {
+      "added_at": "2025-06-27 04:00:25",
+      "album": {
+        "name": "State Of Euphoria",
+        "url": "https://open.spotify.com/album/3dy6mgYszZm3noUMEgWYGE"
+      },
+      "artists": [
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "duration_ms": 264666,
+      "name": "Antisocial",
+      "url": "https://open.spotify.com/track/2Hy27APwGt3lMfpZ0Bzf13"
     },
     {
       "added_at": "2025-06-27 04:00:25",
@@ -863,6 +863,22 @@
     {
       "added_at": "2025-06-27 04:00:25",
       "album": {
+        "name": "Nightmare Logic",
+        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        }
+      ],
+      "duration_ms": 261709,
+      "name": "Nightmare Logic",
+      "url": "https://open.spotify.com/track/127fndSSTEZrx2TV8cd3jM"
+    },
+    {
+      "added_at": "2025-06-27 04:00:25",
+      "album": {
         "name": "Taphephobia",
         "url": "https://open.spotify.com/album/3nsvLJadE0giMIxYB7tYpH"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 237026,
       "name": "Strike of the Beast",
       "url": "https://open.spotify.com/track/3nBbTSjJpTHDyz3D1x1rDu"
-    },
-    {
-      "added_at": "2025-06-27 04:00:25",
-      "album": {
-        "name": "Nightmare Logic",
-        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
-      },
-      "artists": [
-        {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
-        }
-      ],
-      "duration_ms": 261709,
-      "name": "Nightmare Logic",
-      "url": "https://open.spotify.com/track/127fndSSTEZrx2TV8cd3jM"
     },
     {
       "added_at": "2025-06-27 04:00:25",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2025-06-27 04:00:25",
       "album": {
+        "name": "Darkness Descends",
+        "url": "https://open.spotify.com/album/1IRzwwevpNSdxERoRIKQrw"
+      },
+      "artists": [
+        {
+          "name": "Dark Angel",
+          "url": "https://open.spotify.com/artist/0RFQyVQGVcECxnuSLvEKxV"
+        }
+      ],
+      "duration_ms": 347093,
+      "name": "Darkness Descends",
+      "url": "https://open.spotify.com/track/1zI8yKFcmjtgdFbEoTHn94"
+    },
+    {
+      "added_at": "2025-06-27 04:00:25",
+      "album": {
         "name": "The Great Circus Train Disaster",
         "url": "https://open.spotify.com/album/3bJLcSlhljE9IXFrL07omY"
       },
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2025-06-27 04:00:25",
       "album": {
-        "name": "Darkness Descends",
-        "url": "https://open.spotify.com/album/1IRzwwevpNSdxERoRIKQrw"
-      },
-      "artists": [
-        {
-          "name": "Dark Angel",
-          "url": "https://open.spotify.com/artist/0RFQyVQGVcECxnuSLvEKxV"
-        }
-      ],
-      "duration_ms": 347093,
-      "name": "Darkness Descends",
-      "url": "https://open.spotify.com/track/1zI8yKFcmjtgdFbEoTHn94"
-    },
-    {
-      "added_at": "2025-06-27 04:00:25",
-      "album": {
         "name": "Titans of Creation",
         "url": "https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK"
       },
@@ -1275,6 +1275,22 @@
       "duration_ms": 288293,
       "name": "WWIII",
       "url": "https://open.spotify.com/track/0XnV89hrJWQxPkddqWtIln"
+    },
+    {
+      "added_at": "2025-06-27 04:00:25",
+      "album": {
+        "name": "Untouchable Glory",
+        "url": "https://open.spotify.com/album/4KHhqOCvMaJ7x3QYQBGRFr"
+      },
+      "artists": [
+        {
+          "name": "Gama Bomb",
+          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
+        }
+      ],
+      "duration_ms": 166929,
+      "name": "Ninja Untouchables/Untouchable Glory",
+      "url": "https://open.spotify.com/track/5epOdgJW9Y2bu61k4dumrY"
     },
     {
       "added_at": "2025-06-27 04:00:25",
@@ -1307,22 +1323,6 @@
       "duration_ms": 384853,
       "name": "Through Eyes of Glass",
       "url": "https://open.spotify.com/track/5Xwn7YmF5BRCWyBYHXqZGL"
-    },
-    {
-      "added_at": "2025-06-27 04:00:25",
-      "album": {
-        "name": "Untouchable Glory",
-        "url": "https://open.spotify.com/album/4KHhqOCvMaJ7x3QYQBGRFr"
-      },
-      "artists": [
-        {
-          "name": "Gama Bomb",
-          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
-        }
-      ],
-      "duration_ms": 166929,
-      "name": "Ninja Untouchables/Untouchable Glory",
-      "url": "https://open.spotify.com/track/5epOdgJW9Y2bu61k4dumrY"
     },
     {
       "added_at": "2025-06-27 04:00:25",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-06-27 04:00:25",
       "album": {
-        "name": "Forbidden Evil",
-        "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
-      },
-      "artists": [
-        {
-          "name": "Forbidden",
-          "url": "https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN"
-        }
-      ],
-      "duration_ms": 272853,
-      "name": "Chalice of Blood",
-      "url": "https://open.spotify.com/track/2NnbfST2iUUUQ0ZJJWtcY0"
-    },
-    {
-      "added_at": "2025-06-27 04:00:25",
-      "album": {
         "name": "Outer Isolation",
         "url": "https://open.spotify.com/album/1KzsSFzRO8903u1XTyEi8U"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 224411,
       "name": "Idle Hands",
       "url": "https://open.spotify.com/track/3R0OvTDCFbarllFOnzKRWg"
+    },
+    {
+      "added_at": "2025-06-27 04:00:25",
+      "album": {
+        "name": "Forbidden Evil",
+        "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
+      },
+      "artists": [
+        {
+          "name": "Forbidden",
+          "url": "https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN"
+        }
+      ],
+      "duration_ms": 272853,
+      "name": "Chalice of Blood",
+      "url": "https://open.spotify.com/track/2NnbfST2iUUUQ0ZJJWtcY0"
     },
     {
       "added_at": "2025-06-27 04:00:25",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2025-06-27 04:00:25",
       "album": {
-        "name": "Tango & Thrash",
-        "url": "https://open.spotify.com/album/2UirD4DbVjOVzeYjIi59wC"
-      },
-      "artists": [
-        {
-          "name": "Municipal Waste",
-          "url": "https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE"
-        }
-      ],
-      "duration_ms": 49733,
-      "name": "Dropped Out",
-      "url": "https://open.spotify.com/track/3NE8Lf1wUAt56JOajf58et"
-    },
-    {
-      "added_at": "2025-06-27 04:00:25",
-      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/3wh3qtOhkaJkA5mqxkzrGP"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 177206,
       "name": "Space Seed",
       "url": "https://open.spotify.com/track/04Db6DnoyLOzHg2hXMRQsm"
+    },
+    {
+      "added_at": "2025-06-27 04:00:25",
+      "album": {
+        "name": "Tango & Thrash",
+        "url": "https://open.spotify.com/album/2UirD4DbVjOVzeYjIi59wC"
+      },
+      "artists": [
+        {
+          "name": "Municipal Waste",
+          "url": "https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE"
+        }
+      ],
+      "duration_ms": 49733,
+      "name": "Dropped Out",
+      "url": "https://open.spotify.com/track/3NE8Lf1wUAt56JOajf58et"
     },
     {
       "added_at": "2025-06-27 04:00:25",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2025-06-27 04:00:25",
       "album": {
-        "name": "Electrified Brain",
-        "url": "https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS"
-      },
-      "artists": [
-        {
-          "name": "Municipal Waste",
-          "url": "https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE"
-        }
-      ],
-      "duration_ms": 162306,
-      "name": "Crank The Heat",
-      "url": "https://open.spotify.com/track/6NSpw2IAGK35FgyqlicfOI"
-    },
-    {
-      "added_at": "2025-06-27 04:00:25",
-      "album": {
         "name": "Evil in the Night",
         "url": "https://open.spotify.com/album/6VtW3HDNVxTZTZhjDIanhr"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 184506,
       "name": "Slaughter Lord",
       "url": "https://open.spotify.com/track/01mexVwlEDtAbDUtdwwIYH"
+    },
+    {
+      "added_at": "2025-06-27 04:00:25",
+      "album": {
+        "name": "Electrified Brain",
+        "url": "https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS"
+      },
+      "artists": [
+        {
+          "name": "Municipal Waste",
+          "url": "https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE"
+        }
+      ],
+      "duration_ms": 162306,
+      "name": "Crank The Heat",
+      "url": "https://open.spotify.com/track/6NSpw2IAGK35FgyqlicfOI"
     },
     {
       "added_at": "2025-06-27 04:00:25",
@@ -2395,6 +2395,22 @@
     {
       "added_at": "2025-06-27 04:00:25",
       "album": {
+        "name": "Sentence Of Death",
+        "url": "https://open.spotify.com/album/7HOTAkNpLiNtBg70E8BhV1"
+      },
+      "artists": [
+        {
+          "name": "Destruction",
+          "url": "https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2"
+        }
+      ],
+      "duration_ms": 210893,
+      "name": "Mad Butcher",
+      "url": "https://open.spotify.com/track/6qjOQSSLUealhSEd4Uy1dq"
+    },
+    {
+      "added_at": "2025-06-27 04:00:25",
+      "album": {
         "name": "Mochado",
         "url": "https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ"
       },
@@ -2423,22 +2439,6 @@
       "duration_ms": 401947,
       "name": "Khomaniac",
       "url": "https://open.spotify.com/track/7hdr0UMDjWCKZKDaN2zWlT"
-    },
-    {
-      "added_at": "2025-06-27 04:00:25",
-      "album": {
-        "name": "Sentence Of Death",
-        "url": "https://open.spotify.com/album/7HOTAkNpLiNtBg70E8BhV1"
-      },
-      "artists": [
-        {
-          "name": "Destruction",
-          "url": "https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2"
-        }
-      ],
-      "duration_ms": 210893,
-      "name": "Mad Butcher",
-      "url": "https://open.spotify.com/track/6qjOQSSLUealhSEd4Uy1dq"
     },
     {
       "added_at": "2025-06-27 04:00:25",
@@ -2855,22 +2855,6 @@
     {
       "added_at": "2025-06-27 04:00:25",
       "album": {
-        "name": "Casket",
-        "url": "https://open.spotify.com/album/2LxTOI2LPiX0wvhwbbVNyS"
-      },
-      "artists": [
-        {
-          "name": "Enforced",
-          "url": "https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp"
-        }
-      ],
-      "duration_ms": 113870,
-      "name": "Casket",
-      "url": "https://open.spotify.com/track/70sPsaQWdRZGbSyaOkkDIo"
-    },
-    {
-      "added_at": "2025-06-27 04:00:25",
-      "album": {
         "name": "Shoot for the Sun",
         "url": "https://open.spotify.com/album/5pkqghvbwhbLvDS8jn94Uq"
       },
@@ -2899,6 +2883,22 @@
       "duration_ms": 179796,
       "name": "Phantom Force",
       "url": "https://open.spotify.com/track/1KeXxoAqApT6LiH9GQw0tR"
+    },
+    {
+      "added_at": "2025-06-27 04:00:25",
+      "album": {
+        "name": "Casket",
+        "url": "https://open.spotify.com/album/2LxTOI2LPiX0wvhwbbVNyS"
+      },
+      "artists": [
+        {
+          "name": "Enforced",
+          "url": "https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp"
+        }
+      ],
+      "duration_ms": 113870,
+      "name": "Casket",
+      "url": "https://open.spotify.com/track/70sPsaQWdRZGbSyaOkkDIo"
     },
     {
       "added_at": "2025-06-27 04:00:25",
@@ -3055,22 +3055,6 @@
     {
       "added_at": "2025-06-27 04:00:25",
       "album": {
-        "name": "Caught In A Mosh",
-        "url": "https://open.spotify.com/album/7kDsRPwoPQueml7zupFAMb"
-      },
-      "artists": [
-        {
-          "name": "The L.I.F.E. Project",
-          "url": "https://open.spotify.com/artist/4CASo5ALuNEWrsKDpCKm5h"
-        }
-      ],
-      "duration_ms": 299160,
-      "name": "Caught In A Mosh",
-      "url": "https://open.spotify.com/track/03uCCpxPBtSqr18kXm9gfG"
-    },
-    {
-      "added_at": "2025-06-27 04:00:25",
-      "album": {
         "name": "Burn the Sky",
         "url": "https://open.spotify.com/album/6FI3I1yEUAQT2A1qmh3QOx"
       },
@@ -3083,6 +3067,22 @@
       "duration_ms": 266920,
       "name": "Burn the Sky",
       "url": "https://open.spotify.com/track/0JMc364YMZ68bMn1OoBm3D"
+    },
+    {
+      "added_at": "2025-06-27 04:00:25",
+      "album": {
+        "name": "Caught In A Mosh",
+        "url": "https://open.spotify.com/album/7kDsRPwoPQueml7zupFAMb"
+      },
+      "artists": [
+        {
+          "name": "The L.I.F.E. Project",
+          "url": "https://open.spotify.com/artist/4CASo5ALuNEWrsKDpCKm5h"
+        }
+      ],
+      "duration_ms": 299160,
+      "name": "Caught In A Mosh",
+      "url": "https://open.spotify.com/track/03uCCpxPBtSqr18kXm9gfG"
     },
     {
       "added_at": "2025-06-27 04:00:25",

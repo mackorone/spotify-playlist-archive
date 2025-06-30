@@ -1,12 +1,12 @@
 {
   "description": "This is Salif Keita. The essential tracks, all in one playlist.",
-  "num_followers": 12840,
+  "num_followers": 12841,
   "original_name": "This Is Salif Keita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAAATQj1VAFjArGlEGvSBT+YI",
+  "snapshot_id": "aF8wgAAAAADjH8nYSKjOJ6tG7Hv2Noh+",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ali",
-        "url": "https://open.spotify.com/album/6vg8mzMg5Re5aRIKi4YrIo"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 311666,
-      "name": "Tomorrow (Sadio)",
-      "url": "https://open.spotify.com/track/5IbLPMxWuRQWTmbEdV018a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Diff\u00e9rence",
         "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 429333,
       "name": "Samigna",
       "url": "https://open.spotify.com/track/0frOJC09kJ9NiwH29IujCR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ali",
+        "url": "https://open.spotify.com/album/6vg8mzMg5Re5aRIKi4YrIo"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 311666,
+      "name": "Tomorrow (Sadio)",
+      "url": "https://open.spotify.com/track/5IbLPMxWuRQWTmbEdV018a"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Kono",
-        "url": "https://open.spotify.com/album/3Kp6AmA5EEW5vKwU8qAJmY"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 278293,
-      "name": "Kant\u00e9 Manfila",
-      "url": "https://open.spotify.com/track/1vy0Rb65qVB90mmT7gCusp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Diff\u00e9rence",
         "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 235160,
       "name": "Ekolo d'amour",
       "url": "https://open.spotify.com/track/51PaIl9erUqMhbgsTrlYnp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Kono",
+        "url": "https://open.spotify.com/album/3Kp6AmA5EEW5vKwU8qAJmY"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Kant\u00e9 Manfila",
+      "url": "https://open.spotify.com/track/1vy0Rb65qVB90mmT7gCusp"
     },
     {
       "added_at": null,

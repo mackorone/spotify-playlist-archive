@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Kean Kavanagh",
-  "num_followers": 114255,
+  "num_followers": 114259,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 203146,
+      "name": "Chin Up",
+      "url": "https://open.spotify.com/track/66KZtX4hp3Y7JaqmNL5z4i"
+    },
+    {
+      "added_at": "2025-05-01 21:26:35",
+      "album": {
         "name": "It's Amazing To Be Young",
         "url": "https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 222453,
       "name": "Wristwatch",
       "url": "https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR"
-    },
-    {
-      "added_at": "2025-05-01 21:26:35",
-      "album": {
-        "name": "People Watching",
-        "url": "https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 203146,
-      "name": "Chin Up",
-      "url": "https://open.spotify.com/track/66KZtX4hp3Y7JaqmNL5z4i"
     },
     {
       "added_at": "2025-05-01 21:26:35",
@@ -381,22 +381,6 @@
       "url": "https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU"
     },
     {
-      "added_at": "2025-06-06 13:00:06",
-      "album": {
-        "name": "Crying Over Nothing",
-        "url": "https://open.spotify.com/album/1THXecpd4s8ahsnlWIxEOz"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 195394,
-      "name": "Crying Over Nothing",
-      "url": "https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx"
-    },
-    {
       "added_at": "2025-05-01 21:26:35",
       "album": {
         "name": "Sword",
@@ -411,6 +395,22 @@
       "duration_ms": 146504,
       "name": "Sword",
       "url": "https://open.spotify.com/track/52abQEHHYwE5eGxLG0zcH5"
+    },
+    {
+      "added_at": "2025-06-06 13:00:06",
+      "album": {
+        "name": "Crying Over Nothing",
+        "url": "https://open.spotify.com/album/1THXecpd4s8ahsnlWIxEOz"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 195394,
+      "name": "Crying Over Nothing",
+      "url": "https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx"
     },
     {
       "added_at": "2025-05-01 21:26:35",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
-        "name": "Everybody's trying to figure me out",
-        "url": "https://open.spotify.com/album/7GQN5bFkpE2a9RFknshXuF"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 233200,
-      "name": "Everybody's trying to figure me out",
-      "url": "https://open.spotify.com/track/1CsGxcyExQn3vt4SNq91d1"
-    },
-    {
-      "added_at": "2025-05-01 21:26:35",
-      "album": {
         "name": "Coyote",
         "url": "https://open.spotify.com/album/5xNXZjSg3U4cqxBjHZZKQ8"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 244106,
       "name": "Coyote",
       "url": "https://open.spotify.com/track/3H29rW3jmhlJaNNutzANBe"
+    },
+    {
+      "added_at": "2025-05-01 21:26:35",
+      "album": {
+        "name": "Everybody's trying to figure me out",
+        "url": "https://open.spotify.com/album/7GQN5bFkpE2a9RFknshXuF"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "Everybody's trying to figure me out",
+      "url": "https://open.spotify.com/track/1CsGxcyExQn3vt4SNq91d1"
     },
     {
       "added_at": "2025-05-01 21:26:35",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
-        "name": "Through My Teeth",
-        "url": "https://open.spotify.com/album/4x7Jd8pLbRyJdhuIrlhnBZ"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Through My Teeth",
-      "url": "https://open.spotify.com/track/1HPjqA8j8yVb4DoqD7dJpx"
-    },
-    {
-      "added_at": "2025-05-01 21:26:35",
-      "album": {
         "name": "Shut You Out",
         "url": "https://open.spotify.com/album/7DuY9zQbN205TwHbS8DzVE"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 276437,
       "name": "Guy Fawkes Tesco Dissociation",
       "url": "https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy"
+    },
+    {
+      "added_at": "2025-05-01 21:26:35",
+      "album": {
+        "name": "Through My Teeth",
+        "url": "https://open.spotify.com/album/4x7Jd8pLbRyJdhuIrlhnBZ"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Through My Teeth",
+      "url": "https://open.spotify.com/track/1HPjqA8j8yVb4DoqD7dJpx"
     },
     {
       "added_at": "2025-06-06 13:00:06",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
-        "name": "T&A",
-        "url": "https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "T&A",
-      "url": "https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI"
-    },
-    {
-      "added_at": "2025-05-01 21:26:35",
-      "album": {
         "name": "Billy (Yeah Yeah Yeah)",
         "url": "https://open.spotify.com/album/7FwHGe6SjBkHNiYjBIhD9q"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 245251,
       "name": "Billy (Yeah Yeah Yeah)",
       "url": "https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb"
+    },
+    {
+      "added_at": "2025-05-01 21:26:35",
+      "album": {
+        "name": "T&A",
+        "url": "https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "T&A",
+      "url": "https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI"
     },
     {
       "added_at": "2025-05-01 21:26:35",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
+        "name": "Open Wide",
+        "url": "https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 288841,
+      "name": "Open Wide",
+      "url": "https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv"
+    },
+    {
+      "added_at": "2025-05-01 21:26:35",
+      "album": {
         "name": "This Could Be Texas",
         "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
       },
@@ -1055,18 +1071,18 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
-        "name": "Open Wide",
-        "url": "https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk"
+        "name": "Little Chaos",
+        "url": "https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM"
       },
       "artists": [
         {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 288841,
-      "name": "Open Wide",
-      "url": "https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv"
+      "duration_ms": 174893,
+      "name": "Little Chaos",
+      "url": "https://open.spotify.com/track/2UGWhW5YmrEDUDRB3H1fif"
     },
     {
       "added_at": "2025-05-01 21:26:35",
@@ -1115,22 +1131,6 @@
       "duration_ms": 204880,
       "name": "God Of Everything Else",
       "url": "https://open.spotify.com/track/0hRS0vTwEtGQrpOHqIEJBB"
-    },
-    {
-      "added_at": "2025-05-01 21:26:35",
-      "album": {
-        "name": "Little Chaos",
-        "url": "https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 174893,
-      "name": "Little Chaos",
-      "url": "https://open.spotify.com/track/2UGWhW5YmrEDUDRB3H1fif"
     },
     {
       "added_at": "2025-05-01 21:26:35",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/3n5sboJ3wcVFlTFyKQdPv0"
-      },
-      "artists": [
-        {
-          "name": "Basht.",
-          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
-        }
-      ],
-      "duration_ms": 237586,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/0mihCpyBVzu79KXizfhtg5"
-    },
-    {
-      "added_at": "2025-05-01 21:26:35",
-      "album": {
         "name": "Cinderella",
         "url": "https://open.spotify.com/album/6mWBwBpmYagDahWvlsiIzh"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 274012,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/5OLMwH0OXQigJThzKIjOAG"
+    },
+    {
+      "added_at": "2025-05-01 21:26:35",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/3n5sboJ3wcVFlTFyKQdPv0"
+      },
+      "artists": [
+        {
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+        }
+      ],
+      "duration_ms": 237586,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/0mihCpyBVzu79KXizfhtg5"
     },
     {
       "added_at": "2025-05-01 21:26:35",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/5wBGd8H3iD1gNQGmpfNLUp"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 196933,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/24FhBx2qcPxB6RAjF16Urq"
-    },
-    {
-      "added_at": "2025-05-01 21:26:35",
-      "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 183925,
       "name": "Killer",
       "url": "https://open.spotify.com/track/0fc2aV1nOvTsSAA1ghGu0d"
+    },
+    {
+      "added_at": "2025-05-01 21:26:35",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/5wBGd8H3iD1gNQGmpfNLUp"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 196933,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/24FhBx2qcPxB6RAjF16Urq"
     },
     {
       "added_at": "2025-05-01 21:26:35",

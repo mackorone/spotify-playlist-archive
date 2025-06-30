@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Lewis Capaldi, Nina Chuba, Lorde, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,730 likes - 98 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,735 likes - 98 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 19 | [Mein schönstes Kleid](https://open.spotify.com/track/7CJFf6MhxIPd1UAEb3J0v3) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Mein schönstes Kleid](https://open.spotify.com/album/74TPidIDXSIp7Fq4hcVeW0) | 2:44 |
 | 20 | [Shapeshifter](https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 4:17 |
 | 21 | [Vamo a Bailotear](https://open.spotify.com/track/5lCk0ZeN8h76QxNqHEGMZJ) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Apocalipsis](https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w) | 2:40 |
-| 22 | [Berlin](https://open.spotify.com/track/1tRAvtrArvd3eAgOPc4ZPi) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Berlin](https://open.spotify.com/album/3Z30IILWVyEYtLomBeni5G) | 2:58 |
+| 22 | [Berlin](https://open.spotify.com/track/1tRAvtrArvd3eAgOPc4ZPi) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [Kaiserbase](https://open.spotify.com/artist/0I83FAgNH1xRqJdIECjELp) | [Berlin](https://open.spotify.com/album/3Z30IILWVyEYtLomBeni5G) | 2:58 |
 | 23 | [Trippy Yeah](https://open.spotify.com/track/1CM0kiqrtCSHClFjTccTOb) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Trippy Yeah](https://open.spotify.com/album/2kcnbaQIOOEz7zb5yWhVp3) | 3:58 |
 | 24 | [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 |
 | 25 | [Gold \(feat\. KOOLKID\)](https://open.spotify.com/track/7sN8cPi1YSSXxluyVCl7YQ) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [KOOLKID](https://open.spotify.com/artist/0WBAJsJSN2RtYuWVa1aRCY) | [Gold \(feat\. KOOLKID\)](https://open.spotify.com/album/6cnA84PlNGIXkMCs7oglJw) | 3:20 |

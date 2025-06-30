@@ -1,12 +1,12 @@
 {
   "description": "This is Rihanna. The essential tracks, all in one playlist.",
-  "num_followers": 3165605,
+  "num_followers": 3165718,
   "original_name": "This Is Rihanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAADaQgonBK74M630pE7LVMlE",
+  "snapshot_id": "aF8wgAAAAACgsn+c3+LRu6Dj+RR7QQO0",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unapologetic (Edited Version)",
-        "url": "https://open.spotify.com/album/5UDXzVwWnn3mDy3mTpQPYb"
+        "name": "The Marshall Mathers LP2",
+        "url": "https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         },
         {
-          "name": "Mikky Ekko",
-          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 240706,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2Yy0FsAV2I5VXU4xpph2WN"
+      "duration_ms": 250188,
+      "name": "The Monster",
+      "url": "https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C"
     },
     {
       "added_at": null,
@@ -223,22 +223,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Marshall Mathers LP2",
-        "url": "https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj"
+        "name": "Unapologetic (Edited Version)",
+        "url": "https://open.spotify.com/album/5UDXzVwWnn3mDy3mTpQPYb"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
           "name": "Rihanna",
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Mikky Ekko",
+          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
         }
       ],
-      "duration_ms": 250188,
-      "name": "The Monster",
-      "url": "https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C"
+      "duration_ms": 240706,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2Yy0FsAV2I5VXU4xpph2WN"
     },
     {
       "added_at": null,

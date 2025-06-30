@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Heat that will make you sweat 🥵 Cover: Ozuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,077 likes - 91 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,117 likes - 91 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

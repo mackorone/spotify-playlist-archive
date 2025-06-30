@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 
 > Ambient piano to help you stay focussed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,226,140 likes - 184 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,226,075 likes - 184 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

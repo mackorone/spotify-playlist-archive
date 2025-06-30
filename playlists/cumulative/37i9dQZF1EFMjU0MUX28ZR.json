@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "Dirty Work",
+        "url": "https://open.spotify.com/album/1oJztb2MfwieRwHZ1t4NrN"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2025-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180250,
+      "name": "Dirty Work",
+      "url": "https://open.spotify.com/track/1ImRS2KtSaDZcj9vQTxwFA"
+    },
+    {
+      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/0Mz3Jqxb6m7JUZsUJrN6cW"
       },

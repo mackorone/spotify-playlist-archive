@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-453 songs - 23 hr 48 min
+454 songs - 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Feeling Lonely](https://open.spotify.com/track/5uIRujGRZv5t4fGKkUTv4n) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 3:17 | 2024-11-11 |  |
 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 | 2023-10-16 | 2023-10-31 |
 | [Fifty Years](https://open.spotify.com/track/4IHR3GgI4GReqyCqaAhTE5) | [NERiMA](https://open.spotify.com/artist/4E3AxQBE3y9bADshviqPns) | [Fifty Years](https://open.spotify.com/album/4WjLU6vfqPlC6WhhPDnOub) | 3:28 | 2025-03-24 | 2025-03-31 |
+| [Five More Seconds](https://open.spotify.com/track/3k4bu6jrWBQjzxJL0GUo2k) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF), [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Five More Seconds](https://open.spotify.com/album/5dScjnelB84gPAcNj9UX5J) | 2:37 | 2025-06-29 |  |
 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 | 2024-07-01 |  |
 | [flowers](https://open.spotify.com/track/6trA1yKo3IGgLyvg9lBwOJ) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [flowers](https://open.spotify.com/album/1ZmIdhZgJn91DMGk86iC1R) | 3:12 | 2022-11-21 | 2022-11-29 |
 | [Forget About Us](https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Forget About Us](https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD) | 3:06 | 2024-04-15 | 2024-10-28 |
@@ -422,7 +423,7 @@
 | [toxic energy \(with Bert McCracken of The Used\)](https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [toxic energy](https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI) | 3:11 | 2022-08-08 | 2022-08-16 |
 | [Treat People With Kindness](https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:17 | 2022-07-25 |  |
 | [Troubled Son](https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Troubled Son](https://open.spotify.com/album/3hapFmR8CqczqZH3uWly35) | 3:20 | 2023-04-24 | 2023-05-02 |
-| [Troubled Waters](https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Troubled Waters](https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp) | 3:17 | 2024-09-09 |  |
+| [Troubled Waters](https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Troubled Waters](https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp) | 3:17 | 2024-09-09 | 2025-06-30 |
 | [Turbulent Skies](https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:33 | 2023-09-11 | 2023-09-18 |
 | [Twinkle Twinkle Little Bitch](https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Twinkle Twinkle Little Bitch](https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb) | 2:36 | 2022-06-27 | 2022-07-05 |
 | [Typical Ways](https://open.spotify.com/track/6LXafqEcSO7Ud2aXJxjnTl) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Typical Ways](https://open.spotify.com/album/5Y14cixHokMWgW9SvXMcsX) | 2:38 | 2025-03-31 |  |

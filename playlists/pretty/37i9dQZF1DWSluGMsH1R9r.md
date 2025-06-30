@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 
 > Calm piano music for enhanced concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,447,791 likes - 158 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,447,779 likes - 158 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 | 14 | [Chanson Pour Un Amour Perdu](https://open.spotify.com/track/0Wycng7AsIXY48TYFgEtYr) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Chanson Pour Un Amour Perdu](https://open.spotify.com/album/4wSJswIZfgIzd3yxGdckFn) | 2:03 |
 | 15 | [Schatze](https://open.spotify.com/track/21qsu8rj7gvICuv0P6ZzsW) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Schatze](https://open.spotify.com/album/4zXUVmO4tlStaTgMbtYPo4) | 2:35 |
 | 16 | [Ballerina Waltz](https://open.spotify.com/track/7FGh1RBfCJLd0zdJYUuHFr) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Ballerina Waltz](https://open.spotify.com/album/70NHM7YBG7jEC0Xm3PR5p9) | 2:35 |
-| 17 | [Alder](https://open.spotify.com/track/2TuPzUCUfmhh1d3lqn0DWJ) | [Finn Dubois](https://open.spotify.com/artist/2ek3AbMb8PTzYmJP69gpBE) | [Alder](https://open.spotify.com/album/6uW1dHFYMcBynJexmoRdBl) | 2:59 |
-| 18 | [There Is Light](https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [There Is Light](https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg) | 2:58 |
+| 17 | [There Is Light](https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [There Is Light](https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg) | 2:58 |
+| 18 | [Alder](https://open.spotify.com/track/2TuPzUCUfmhh1d3lqn0DWJ) | [Finn Dubois](https://open.spotify.com/artist/2ek3AbMb8PTzYmJP69gpBE) | [Alder](https://open.spotify.com/album/6uW1dHFYMcBynJexmoRdBl) | 2:59 |
 | 19 | [Just Like the Movies](https://open.spotify.com/track/3x1Eo1XG7K3OdIIVaB7lsS) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Just Like the Movies](https://open.spotify.com/album/2wICyNzRtzx3QZg21JY4kl) | 2:07 |
 | 20 | [Forevermore](https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Forevermore](https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW) | 2:34 |
 | 21 | [Across The Bridge](https://open.spotify.com/track/6YHLnbJJVoFbgHrkzlSI0d) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [Across The Bridge](https://open.spotify.com/album/3mk6KXb8zfHTm5Lb2LQbIN) | 2:15 |
@@ -128,9 +128,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 | 118 | [Interim](https://open.spotify.com/track/60CfZTCT1iHQdnjNrnvpZP) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Interim](https://open.spotify.com/album/1P6PbFhwgTaXXjsl9H6Nh0) | 2:19 |
 | 119 | [Ordinary Thoughts](https://open.spotify.com/track/6J6q6ejP39h9FqE5d9EdBp) | [Thom Nelson](https://open.spotify.com/artist/4o5K7rIpvDyPmdNWvt9XY1) | [Ordinary Thoughts](https://open.spotify.com/album/1QEAfHDzflVLqXUkckRzMw) | 2:23 |
 | 120 | [Within Reach](https://open.spotify.com/track/22WL29LGZvVsIYC64cP1ai) | [Waqar Jachin](https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu) | [Within Reach](https://open.spotify.com/album/0tu8xdyVBnJLHC1irTvhog) | 2:33 |
-| 121 | [Aperetif](https://open.spotify.com/track/0gTbCfoGn1ZHru7ZfBk0x3) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Aperetif](https://open.spotify.com/album/441Vp8czTgLjVLFPPZxHxP) | 2:33 |
-| 122 | [Go With The Flow](https://open.spotify.com/track/0LzHt0QSoskuBCgMvq1lms) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Go With The Flow](https://open.spotify.com/album/0wAZLmdQmfxz574lffOLgh) | 2:50 |
-| 123 | [Insignia](https://open.spotify.com/track/17moSSyt9oOxVHyewjXLav) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Insignia](https://open.spotify.com/album/6KljnSEKSgk32JLRN4Vd9H) | 2:58 |
+| 121 | [Go With The Flow](https://open.spotify.com/track/0LzHt0QSoskuBCgMvq1lms) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Go With The Flow](https://open.spotify.com/album/0wAZLmdQmfxz574lffOLgh) | 2:50 |
+| 122 | [Insignia](https://open.spotify.com/track/17moSSyt9oOxVHyewjXLav) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Insignia](https://open.spotify.com/album/6KljnSEKSgk32JLRN4Vd9H) | 2:58 |
+| 123 | [Aperetif](https://open.spotify.com/track/0gTbCfoGn1ZHru7ZfBk0x3) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Aperetif](https://open.spotify.com/album/441Vp8czTgLjVLFPPZxHxP) | 2:33 |
 | 124 | [Une rivière silencieuse](https://open.spotify.com/track/2hw2nzCP6601cnB8VMgvkO) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Une rivière silencieuse](https://open.spotify.com/album/0pC9sTOjPYLUIJ2yGDpmU0) | 2:25 |
 | 125 | [Perfect Timing](https://open.spotify.com/track/6LUP8h81Gl3GzEMU7OaWxZ) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Perfect Timing](https://open.spotify.com/album/3IsqmVQFD31pAnxaKjmT4i) | 2:40 |
 | 126 | [Affection](https://open.spotify.com/track/3C9XQnp8aNwSoyPhf1by3z) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Affection](https://open.spotify.com/album/13FzOtSVQw5IaMhGabmVhR) | 3:27 |

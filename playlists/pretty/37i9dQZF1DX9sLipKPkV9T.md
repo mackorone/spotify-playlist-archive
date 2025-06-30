@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: עדן גולן
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,682 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,683 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 14 | [מלאך](https://open.spotify.com/track/4wBhdxlmwV8gta2zTUv24x) | [בניה ברבי](https://open.spotify.com/artist/0WjQnf1rQ0tY84gGgjrQQ9) | [מלאך](https://open.spotify.com/album/5x63WjLomoR7ZfgQk2xpnr) | 3:09 |
 | 15 | [Wait for You](https://open.spotify.com/track/1mVZjAHBcBC2fd1TSXg1qX) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Wait for You](https://open.spotify.com/album/1Btn9hveACa0kPoIvITUHp) | 2:55 |
 | 16 | [אם את כבר הולכת](https://open.spotify.com/track/6FVNMp4r4cQOcckK5NFB6j) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9) | [אם את כבר הולכת](https://open.spotify.com/album/08ViaOlIGluJNiEGW7am1p) | 3:25 |
-| 17 | [ליקוטי תפילות](https://open.spotify.com/track/63JlrI6AKFk1NkyMLjmiAK) | [Shir David Gadasi](https://open.spotify.com/artist/4RZRtf09nYwrQUD6ohzCQX), [ארגמן אשכנזי](https://open.spotify.com/artist/6keUG84xwRxBzztmaue7wJ) | [ליקוטי תפילות](https://open.spotify.com/album/2hqZQmkBuPYc8mRrXm0mMd) | 2:57 |
+| 17 | [ליקוטי תפילות](https://open.spotify.com/track/63JlrI6AKFk1NkyMLjmiAK) | [Shir David Gadasi](https://open.spotify.com/artist/4RZRtf09nYwrQUD6ohzCQX), [ארגמן](https://open.spotify.com/artist/3bTVYmgxUd0uEPXvjr7umr) | [ליקוטי תפילות](https://open.spotify.com/album/2hqZQmkBuPYc8mRrXm0mMd) | 2:57 |
 | 18 | [פשוט אוהב אותך](https://open.spotify.com/track/4GNV1PWD6k2JdzceOeeKlX) | [Mosh Ben Ari](https://open.spotify.com/artist/2xUDx9SBC0huIMC2ekMSvd) | [פשוט אוהב אותך](https://open.spotify.com/album/2FjIZHPVH3zvDOSEMjzj3R) | 3:42 |
 | 19 | [שמש מעלייך](https://open.spotify.com/track/1piXzzkHeUJ8DlsM4E8tAX) | [Orr Amrami Brockman](https://open.spotify.com/artist/7LYQkaWV7dxEs53F8kP7Ml) | [שמש מעלייך](https://open.spotify.com/album/5WwTbTRwS6YiXMRuAEK5Nt) | 3:04 |
 | 20 | [נישאר לישון](https://open.spotify.com/track/2gzmfXMiwcfAqLH8Hpxwxz) | [Liran Danino](https://open.spotify.com/artist/1DuDDXSYBMLr55q9lYmDEk) | [לירן דנינו חוזר](https://open.spotify.com/album/0PxZoMchX02SdWaauTupaG) | 3:28 |

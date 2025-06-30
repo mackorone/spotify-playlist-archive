@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcECZl1cQzi5.md) - [plain]
 
 > Waves and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,836 likes - 105 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,883 likes - 105 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,19 +23,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcECZl1cQzi5.md) - [plain]
 | 13 | [Breath](https://open.spotify.com/track/3ynjx5qNqunqg3x9HxW01h) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:14 |
 | 14 | [Paessagio Naturale](https://open.spotify.com/track/44RWRi4rzr0epV2u1pzzXJ) | [Campane](https://open.spotify.com/artist/0xauYNqgRVmneIDWAHe5hr) | [Paessagio Naturale](https://open.spotify.com/album/5KR8WugmdcJaYAx2CUJJCd) | 2:43 |
 | 15 | [Sunrise Wave](https://open.spotify.com/track/3fgKG6Zl8L7dFIThSlHfbY) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Sunrise Wave](https://open.spotify.com/album/6EyvIKH2rr6umpHpbe4Lso) | 2:47 |
-| 16 | [The Little Cabin](https://open.spotify.com/track/0MPufbIEaLbtQYtsO2MoF9) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [The Little Cabin](https://open.spotify.com/album/6nGhvw8WHa82wpJzT2djse) | 2:55 |
-| 17 | [Devine Waves](https://open.spotify.com/track/38pWBkFjXOqZ5f6bGOj1L4) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Devine Waves](https://open.spotify.com/album/7987vByLF9HkepU0VIabSG) | 2:21 |
-| 18 | [Waves](https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Ocean](https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2) | 3:02 |
+| 16 | [Devine Waves](https://open.spotify.com/track/38pWBkFjXOqZ5f6bGOj1L4) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Devine Waves](https://open.spotify.com/album/7987vByLF9HkepU0VIabSG) | 2:21 |
+| 17 | [Waves](https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Ocean](https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2) | 3:02 |
+| 18 | [The Little Cabin](https://open.spotify.com/track/0MPufbIEaLbtQYtsO2MoF9) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [The Little Cabin](https://open.spotify.com/album/6nGhvw8WHa82wpJzT2djse) | 2:55 |
 | 19 | [Delightful Waves](https://open.spotify.com/track/1PcQqzCG1gTqJZt5vdCLz2) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Delightful Waves](https://open.spotify.com/album/6Zgicb69YthsS8Wmke7LK8) | 3:14 |
 | 20 | [Lunar Light](https://open.spotify.com/track/0dmBrC4r1VWnGusD26usj1) | [J\. Cartwright](https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC) | [Lunar Light](https://open.spotify.com/album/6R8vfuIg3yjiwI4wH9P2L9) | 2:32 |
-| 21 | [Sand Mountain](https://open.spotify.com/track/3EvomX9g0fEOKTCRUTcvg1) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Sand Mountain](https://open.spotify.com/album/7HXnsk96PhsG1lvoksUYeq) | 2:18 |
-| 22 | [Calming Seas](https://open.spotify.com/track/4fMwSkpBaG61fufc3eaRSq) | [A Lonely Moon](https://open.spotify.com/artist/1O2zQ8dbt890Q9aBNPBSWf) | [Calming Seas](https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P) | 3:23 |
-| 23 | [By The Ocean](https://open.spotify.com/track/7uuDzZ9bfedUL6XTyYah9T) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [By The Ocean](https://open.spotify.com/album/4s8hwiM2MR8KrP04R9kZv4) | 2:46 |
-| 24 | [heart wave](https://open.spotify.com/track/4jOCxSraETXlNjHz4m0r1k) | [Aquas](https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej) | [heart wave](https://open.spotify.com/album/37Wa0x4R7jqoZ4x8HocvxC) | 2:54 |
-| 25 | [Restore](https://open.spotify.com/track/0hqSBm1sipCxHVl3qj1pNX) | [Misha Burton](https://open.spotify.com/artist/4jjbyStVj5wtgQpHtxL3ue) | [Restore](https://open.spotify.com/album/27FSIb0jOgNAiRthYgCWZ0) | 3:02 |
-| 26 | [Nomad Sunset \(Ocean\)](https://open.spotify.com/track/4Ef0Q4BkUo04WstZrroNNR) | [Elysian Heart](https://open.spotify.com/artist/1x3oP4wJPV3fUtTV6KQIvD) | [Nomad Sunset \(Ocean\)](https://open.spotify.com/album/22TZPHVpJdjRVfN0vgIlUL) | 3:24 |
-| 27 | [Close Reach](https://open.spotify.com/track/2679d04T5F8YA2vMmMxGcS) | [Sand Rae](https://open.spotify.com/artist/01AXMlLHjZDPlbVBPnXb8h) | [Close Reach](https://open.spotify.com/album/6rG6J9ffSjENnPTQ5uGXOo) | 2:45 |
-| 28 | [Solar Plexus \(528 Hz\)](https://open.spotify.com/track/3kBwKqACjykGczvkNArip8) | [Synaptc Waves](https://open.spotify.com/artist/1B6lhoVCQSa0yrnhvfNXZJ) | [Solar Plexus \(528 Hz\)](https://open.spotify.com/album/6wbgeZrLANiDDbX4In2XYl) | 2:30 |
+| 21 | [Calming Seas](https://open.spotify.com/track/4fMwSkpBaG61fufc3eaRSq) | [A Lonely Moon](https://open.spotify.com/artist/1O2zQ8dbt890Q9aBNPBSWf) | [Calming Seas](https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P) | 3:23 |
+| 22 | [By The Ocean](https://open.spotify.com/track/7uuDzZ9bfedUL6XTyYah9T) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [By The Ocean](https://open.spotify.com/album/4s8hwiM2MR8KrP04R9kZv4) | 2:46 |
+| 23 | [heart wave](https://open.spotify.com/track/4jOCxSraETXlNjHz4m0r1k) | [Aquas](https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej) | [heart wave](https://open.spotify.com/album/37Wa0x4R7jqoZ4x8HocvxC) | 2:54 |
+| 24 | [Restore](https://open.spotify.com/track/0hqSBm1sipCxHVl3qj1pNX) | [Misha Burton](https://open.spotify.com/artist/4jjbyStVj5wtgQpHtxL3ue) | [Restore](https://open.spotify.com/album/27FSIb0jOgNAiRthYgCWZ0) | 3:02 |
+| 25 | [Nomad Sunset \(Ocean\)](https://open.spotify.com/track/4Ef0Q4BkUo04WstZrroNNR) | [Elysian Heart](https://open.spotify.com/artist/1x3oP4wJPV3fUtTV6KQIvD) | [Nomad Sunset \(Ocean\)](https://open.spotify.com/album/22TZPHVpJdjRVfN0vgIlUL) | 3:24 |
+| 26 | [Close Reach](https://open.spotify.com/track/2679d04T5F8YA2vMmMxGcS) | [Sand Rae](https://open.spotify.com/artist/01AXMlLHjZDPlbVBPnXb8h) | [Close Reach](https://open.spotify.com/album/6rG6J9ffSjENnPTQ5uGXOo) | 2:45 |
+| 27 | [Solar Plexus \(528 Hz\)](https://open.spotify.com/track/3kBwKqACjykGczvkNArip8) | [Synaptc Waves](https://open.spotify.com/artist/1B6lhoVCQSa0yrnhvfNXZJ) | [Solar Plexus \(528 Hz\)](https://open.spotify.com/album/6wbgeZrLANiDDbX4In2XYl) | 2:30 |
+| 28 | [Sand Mountain](https://open.spotify.com/track/3EvomX9g0fEOKTCRUTcvg1) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Sand Mountain](https://open.spotify.com/album/7HXnsk96PhsG1lvoksUYeq) | 2:18 |
 | 29 | [Waves of Serenity](https://open.spotify.com/track/04wDZI7XuCjGicazG046t9) | [Waves Of Aware](https://open.spotify.com/artist/2q4nJLQKqcI65BMW9CuORq) | [Waves of Serenity](https://open.spotify.com/album/5c6PwCO4bh7o1DJZTzllQf) | 2:21 |
 | 30 | [Brionglóid \(Sound Bath\)](https://open.spotify.com/track/6Kvv8jjMQzOROquokHQ2FF) | [Tamila Gagan](https://open.spotify.com/artist/7hIHAT0tpW2OySiuVog60k) | [Brionglóid \(Sound Bath\)](https://open.spotify.com/album/59lt6zR15MfN9LUnMpTD1Y) | 2:45 |
 | 31 | [Santanyi](https://open.spotify.com/track/3rO499O1PWBnA0vlAwO9fp) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Santanyi](https://open.spotify.com/album/3P91FU1iT0YVMETaIE1isA) | 2:41 |

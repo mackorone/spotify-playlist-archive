@@ -5627,6 +5627,24 @@
     },
     {
       "album": {
+        "name": "\ub354 \ub11b\uce20 1\uc9d1",
+        "url": "https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf"
+      },
+      "artists": [
+        {
+          "name": "The NuTs",
+          "url": "https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261630,
+      "name": "\uc0ac\ub791\uc758 \ubc14\ubcf4",
+      "url": "https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp"
+    },
+    {
+      "album": {
         "name": "\uc0ac\ub791\uc774\ub780 \uba5c\ub85c\ub294 \uc5c6\uc5b4",
         "url": "https://open.spotify.com/album/2S4OdUnpgE2uf3rAz614v5"
       },

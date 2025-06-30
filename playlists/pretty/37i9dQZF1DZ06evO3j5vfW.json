@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72172,
+  "num_followers": 72179,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAAAj2m0juMPs3JMk1pGCgTuH",
+  "snapshot_id": "aF8wgAAAAAA0lvzJcD3jc9SSTl+MxLkH",
   "tracks": [
     {
       "added_at": null,
@@ -99,6 +99,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shout",
+        "url": "https://open.spotify.com/album/6JNDggJVATnmxnAgIvbv4e"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 209538,
+      "name": "Shout",
+      "url": "https://open.spotify.com/track/4utBk1Fp8UwMbc1YBcoA4D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Now I See You",
         "url": "https://open.spotify.com/album/1bO09VShyl7ZOeYZnHERXY"
       },
@@ -123,26 +143,6 @@
       "duration_ms": 167336,
       "name": "Now I See You",
       "url": "https://open.spotify.com/track/01ipvqWQEz6Xr5LVQLCNmA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shout",
-        "url": "https://open.spotify.com/album/6JNDggJVATnmxnAgIvbv4e"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 209538,
-      "name": "Shout",
-      "url": "https://open.spotify.com/track/4utBk1Fp8UwMbc1YBcoA4D"
     },
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'll Follow You",
-        "url": "https://open.spotify.com/album/6n8A62fT6vLTMrwuVDQAIp"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Joe Jury",
-          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
-        }
-      ],
-      "duration_ms": 219374,
-      "name": "I'll Follow You",
-      "url": "https://open.spotify.com/track/3Ijf2SBZguZPkom811NZTd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Wanna Dance",
         "url": "https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl"
       },
@@ -575,6 +555,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'll Follow You",
+        "url": "https://open.spotify.com/album/6n8A62fT6vLTMrwuVDQAIp"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Joe Jury",
+          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+        }
+      ],
+      "duration_ms": 219374,
+      "name": "I'll Follow You",
+      "url": "https://open.spotify.com/track/3Ijf2SBZguZPkom811NZTd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7"
       },
@@ -591,30 +591,6 @@
       "duration_ms": 195706,
       "name": "Legacy - Radio Edit",
       "url": "https://open.spotify.com/track/4IWLawtdMznqdOnbOR9cWW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Need You To Know",
-        "url": "https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Ifimay",
-          "url": "https://open.spotify.com/artist/475ysTPd5Bci0mElQUcYak"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "I Need You To Know",
-      "url": "https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL"
     },
     {
       "added_at": null,
@@ -639,6 +615,30 @@
       "duration_ms": 182950,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Need You To Know",
+        "url": "https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Ifimay",
+          "url": "https://open.spotify.com/artist/475ysTPd5Bci0mElQUcYak"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "I Need You To Know",
+      "url": "https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 162924,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/3b9BQMfHHnjSGrBOV30qp6"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 215336,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6N6BTxTwykM2YI06SeL1ap"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 162924,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ups & Downs",
-        "url": "https://open.spotify.com/album/4ImvRnu6rXC5Ye7ImmTfGU"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 182192,
-      "name": "Ups & Downs",
-      "url": "https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sign",
         "url": "https://open.spotify.com/album/2sjVMRFt47IIX9hgVNOOuS"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 201904,
       "name": "Sign",
       "url": "https://open.spotify.com/track/63iw65Eq9KwaqAYpC9yFzL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ups & Downs",
+        "url": "https://open.spotify.com/album/4ImvRnu6rXC5Ye7ImmTfGU"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 182192,
+      "name": "Ups & Downs",
+      "url": "https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k"
     },
     {
       "added_at": null,
@@ -911,6 +911,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drown (feat. Clinton Kane) [Nicky Romero Remix]",
         "url": "https://open.spotify.com/album/0yyVHA6DKNQSfYMVuvjuza"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 234609,
       "name": "Love You Forever",
       "url": "https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Out Of Control",
-        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "Out Of Control",
-      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
     },
     {
       "added_at": null,
@@ -1087,30 +1087,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Deniz Koyu",
-          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
-        },
-        {
-          "name": "Alexander Tidebrink",
-          "url": "https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC"
-        }
-      ],
-      "duration_ms": 253440,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/4mAFdxKaADfs3t2K0QCOXv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hero (Nicky Romero Remix)",
         "url": "https://open.spotify.com/album/1ddufbXwUwO3l2uIB3qKe3"
       },
@@ -1131,6 +1107,30 @@
       "duration_ms": 192380,
       "name": "Hero - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        },
+        {
+          "name": "Alexander Tidebrink",
+          "url": "https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC"
+        }
+      ],
+      "duration_ms": 253440,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/4mAFdxKaADfs3t2K0QCOXv"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 95869,
+  "num_followers": 95933,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAABtnedCVdiRzADPWJx+tIgn",
+  "snapshot_id": "aF8wgAAAAAB52v55E4frOXaMUQ+SdjpV",
   "tracks": [
     {
       "added_at": null,
@@ -402,11 +402,15 @@
         {
           "name": "Lil Tecca",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 141732,
-      "name": "NEVER LAST",
-      "url": "https://open.spotify.com/track/7JKwHEhYWjEDiaAVqm0RZd"
+      "duration_ms": 150204,
+      "name": "I CAN\u2019T LET GO",
+      "url": "https://open.spotify.com/track/1Ftb0PK0Qqwax3gofiMd2X"
     },
     {
       "added_at": null,
@@ -470,15 +474,11 @@
         {
           "name": "Lil Tecca",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 150204,
-      "name": "I CAN\u2019T LET GO",
-      "url": "https://open.spotify.com/track/1Ftb0PK0Qqwax3gofiMd2X"
+      "duration_ms": 141732,
+      "name": "NEVER LAST",
+      "url": "https://open.spotify.com/track/7JKwHEhYWjEDiaAVqm0RZd"
     },
     {
       "added_at": null,
@@ -551,46 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memories in My Head",
-        "url": "https://open.spotify.com/album/69AOXTmGNAwtL6jvdf3DEw"
-      },
-      "artists": [
-        {
-          "name": "icyslug",
-          "url": "https://open.spotify.com/artist/2JjRgfsTKxurqJfBz8FgZu"
-        },
-        {
-          "name": "LouGotCash",
-          "url": "https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 191656,
-      "name": "Memories in My Head",
-      "url": "https://open.spotify.com/track/6OJjVFQK1ftkrLVP5VW7GA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 122487,
-      "name": "Dead or Alive",
-      "url": "https://open.spotify.com/track/5itTZ7kNRBl65Nn1QO9Ax9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JETSKI",
         "url": "https://open.spotify.com/album/0E3nVyJnesYyyr9GQAJqZl"
       },
@@ -611,6 +571,46 @@
       "duration_ms": 165161,
       "name": "JETSKI",
       "url": "https://open.spotify.com/track/4gtZjfZN7FBrF562pv0K4f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TEC",
+        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 122487,
+      "name": "Dead or Alive",
+      "url": "https://open.spotify.com/track/5itTZ7kNRBl65Nn1QO9Ax9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memories in My Head",
+        "url": "https://open.spotify.com/album/69AOXTmGNAwtL6jvdf3DEw"
+      },
+      "artists": [
+        {
+          "name": "icyslug",
+          "url": "https://open.spotify.com/artist/2JjRgfsTKxurqJfBz8FgZu"
+        },
+        {
+          "name": "LouGotCash",
+          "url": "https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 191656,
+      "name": "Memories in My Head",
+      "url": "https://open.spotify.com/track/6OJjVFQK1ftkrLVP5VW7GA"
     },
     {
       "added_at": null,

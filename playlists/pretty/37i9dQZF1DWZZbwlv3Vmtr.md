@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Instrumental beats to lock\-in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,150 likes - 350 songs - 13 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 520,382 likes - 350 songs - 13 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 42 | [smooth](https://open.spotify.com/track/0wPvjJbgU7IDcEwPTkC2eD) | [wavcrush](https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm) | [cereal killer](https://open.spotify.com/album/1ClyffZjfgfvkXVRTl1SCK) | 2:13 |
 | 43 | [yo!](https://open.spotify.com/track/76Bwn0o3omms1v8BmIryYL) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [yo!](https://open.spotify.com/album/3Ud214zFe6QW4agzbC0UnK) | 2:00 |
 | 44 | [Friday Dazed](https://open.spotify.com/track/3XxZiDTQflprBVjBFxM8P9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Friday Dazed](https://open.spotify.com/album/3r7qEzzlkQNFSQOuggOQm4) | 2:12 |
-| 45 | [Outside](https://open.spotify.com/track/05AcIr6sleSW8lNtQdh3vw) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [think less.](https://open.spotify.com/artist/5ptLWFs1O1R1QDZSjwtU0c) | [Outside](https://open.spotify.com/album/085LfKKbbHWmiGbkH9EmRM) | 1:56 |
-| 46 | [Hazel Eyes](https://open.spotify.com/track/18te6JAwwL6xrKnVgYgXvA) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Hazel Eyes](https://open.spotify.com/album/3Fses3uRSqH6ODu45oPCwH) | 2:22 |
+| 45 | [Hazel Eyes](https://open.spotify.com/track/18te6JAwwL6xrKnVgYgXvA) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Hazel Eyes](https://open.spotify.com/album/3Fses3uRSqH6ODu45oPCwH) | 2:22 |
+| 46 | [Outside](https://open.spotify.com/track/05AcIr6sleSW8lNtQdh3vw) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [think less.](https://open.spotify.com/artist/5ptLWFs1O1R1QDZSjwtU0c) | [Outside](https://open.spotify.com/album/085LfKKbbHWmiGbkH9EmRM) | 1:56 |
 | 47 | [Jump](https://open.spotify.com/track/76EduFgahFwWNCpyfRNcB0) | [Fulton St Brunch Club](https://open.spotify.com/artist/1grsC7ugHHrEGvwQI4o0OT) | [Jump](https://open.spotify.com/album/5F9VAT5LKQLCH8wbFEpkN0) | 2:05 |
 | 48 | [come show me](https://open.spotify.com/track/3zGeEexRezep22ScUrdTyG) | [giannis wang](https://open.spotify.com/artist/7gCQx2yCLDrGPTMa7fAY8y) | [come show me](https://open.spotify.com/album/3aPBZcPfLAmvpMrc57E9Ka) | 2:01 |
 | 49 | [Who's Driving?](https://open.spotify.com/track/6ilctnbVwEWTURCfY6kCWH) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Who's Driving?](https://open.spotify.com/album/1ftpbsY9HCoSpUOq7RVUEs) | 2:19 |

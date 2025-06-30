@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAAC64yWFI0W1bLoS6MARYt8A",
+  "snapshot_id": "aF8wgAAAAAD9Ay4aNtuFRABI2eguFWpf",
   "tracks": [
     {
       "added_at": null,
@@ -434,11 +434,15 @@
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        },
+        {
+          "name": "Ariki foster",
+          "url": "https://open.spotify.com/artist/49x0uShahCoBv7dz8WJNed"
         }
       ],
-      "duration_ms": 237424,
-      "name": "Galaxy",
-      "url": "https://open.spotify.com/track/0jJmMZ9utjrq7O2jTLluIV"
+      "duration_ms": 214864,
+      "name": "Just Keep Jamming",
+      "url": "https://open.spotify.com/track/2MDt2q1u1loaFQ98d5JZCh"
     },
     {
       "added_at": null,
@@ -510,15 +514,11 @@
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        },
-        {
-          "name": "Ariki foster",
-          "url": "https://open.spotify.com/artist/49x0uShahCoBv7dz8WJNed"
         }
       ],
-      "duration_ms": 214864,
-      "name": "Just Keep Jamming",
-      "url": "https://open.spotify.com/track/2MDt2q1u1loaFQ98d5JZCh"
+      "duration_ms": 237424,
+      "name": "Galaxy",
+      "url": "https://open.spotify.com/track/0jJmMZ9utjrq7O2jTLluIV"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mana Maoli, Volume V - Hui Na Moku",
-        "url": "https://open.spotify.com/album/1acebQxhPagBiWionPJtrm"
-      },
-      "artists": [
-        {
-          "name": "King Kekai",
-          "url": "https://open.spotify.com/artist/3L2hhljdDtx6P5h4FbbP5m"
-        },
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "Mr. Mellow",
-      "url": "https://open.spotify.com/track/1dXUcTAgVP7YP7jDg8J4N6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Red, Gold & Green",
         "url": "https://open.spotify.com/album/1nzpKDlVM4c8ly5RZsAXPJ"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 229900,
       "name": "Red, Gold & Green",
       "url": "https://open.spotify.com/track/4hOxeXbeTDjm5T4DoyEUGs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mana Maoli, Volume V - Hui Na Moku",
+        "url": "https://open.spotify.com/album/1acebQxhPagBiWionPJtrm"
+      },
+      "artists": [
+        {
+          "name": "King Kekai",
+          "url": "https://open.spotify.com/artist/3L2hhljdDtx6P5h4FbbP5m"
+        },
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "Mr. Mellow",
+      "url": "https://open.spotify.com/track/1dXUcTAgVP7YP7jDg8J4N6"
     },
     {
       "added_at": null,

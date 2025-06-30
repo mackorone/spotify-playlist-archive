@@ -4,7 +4,7 @@
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: 마크툽 \(MAKTUB\)\)
 
-332 songs - 21 hr 42 min
+333 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [미워요 I Hate You](https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [정인 Jung In from Andromeda](https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD) | 3:22 | 2022-02-17 |  |
 | [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 | 2022-02-17 |  |
 | [비밀번호 486](https://open.spotify.com/track/0GtnPY1LePGHquWzIEiqMj) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [고백하기 좋은 날](https://open.spotify.com/album/79AMjDleF4FaqfI3a28XdV) | 3:48 | 2023-02-16 |  |
+| [사랑의 바보](https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp) | [The NuTs](https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb) | [더 넛츠 1집](https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf) | 4:21 | 2025-06-30 |  |
 | [사랑이란 멜로는 없어](https://open.spotify.com/track/0CGovscVJUxLASfj6KnVwO) | [Jeon Sang Geun](https://open.spotify.com/artist/6MfFHNKaZ7lAQsm52eLNvJ) | [사랑이란 멜로는 없어](https://open.spotify.com/album/2S4OdUnpgE2uf3rAz614v5) | 4:35 | 2022-02-23 | 2024-04-19 |
 | [사랑합니다...](https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc) | [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [영민](https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF) | 3:48 | 2022-02-17 |  |
 | [사랑했나봐](https://open.spotify.com/track/1w2hClDL1xH4FPZIipZ1FJ) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Difference](https://open.spotify.com/album/36HKeRjDoczel62iwy3z75) | 3:58 | 2022-02-17 |  |

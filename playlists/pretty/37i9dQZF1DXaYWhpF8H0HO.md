@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Aldi Haqq
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,826 likes - 96 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,825 likes - 96 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

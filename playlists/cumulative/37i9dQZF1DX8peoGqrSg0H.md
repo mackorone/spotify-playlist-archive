@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: Offroad Kantapon
 
-716 songs - 1 day 18 hr 14 min
+717 songs - 1 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Wish](https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [You \(Are\) Mean a Lot to Me](https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq) | 4:31 | 2022-05-26 | 2022-06-17 |
 | [WITH YOU](https://open.spotify.com/track/78iVXsaiRJuSkVE8kOXYV5) | [GULF KANAWUT](https://open.spotify.com/artist/232CbSfw9pgI0oz4c5UKZ2), [LAZYLOXY](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5) | [WITH YOU](https://open.spotify.com/album/4X5Wd999DQrVtVKbf2HFDh) | 4:02 | 2024-09-05 | 2024-09-20 |
 | [WIZ YOU \(อยากมองเธอให้ใกล้กว่านี้\)](https://open.spotify.com/track/43YPcXdj8jlE3aRSD7sZNN) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [WIZ YOU \(อยากมองเธอให้ใกล้กว่านี้\)](https://open.spotify.com/album/1aIKEteG74pCnOWUGWmnIl) | 1:24 | 2024-02-22 | 2024-03-08 |
+| [Woh oh oh](https://open.spotify.com/track/5bX6cVBRNkMuLBeyQqc2i6) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Woh oh oh](https://open.spotify.com/album/3fbHuW3MOpRlCB897o89kb) | 2:38 | 2025-06-29 |  |
 | [Yellow Leaf](https://open.spotify.com/track/2umfwjHoIPrth4vs1fEQv4) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Space Shuttle No.8](https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y) | 3:34 | 2024-02-09 | 2024-03-02 |
 | [YES MAN](https://open.spotify.com/track/5imQCK9oeRB665CGgar7f8) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [YES MAN](https://open.spotify.com/album/4EHQhdZSqQEY6eZ3uUZdlK) | 3:24 | 2024-10-17 | 2024-11-08 |
 | [YOBO](https://open.spotify.com/track/7KdROwz8Wl1zzoFIhDNdvu) | [TYTAN](https://open.spotify.com/artist/5fTJwRSBleAeLkLivVLDZ4) | [YOBO](https://open.spotify.com/album/3Za23TsoTrgMIdgiRBQjwf) | 3:22 | 2024-06-27 | 2024-07-12 |
@@ -399,7 +400,7 @@
 | [ฝากใจ](https://open.spotify.com/track/0WmHAw7c5LppZdca1amE6f) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ฝากใจ](https://open.spotify.com/album/4okyxzayrSFXEzGJg79vKa) | 4:19 | 2025-05-08 |  |
 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 | 2024-06-20 |  |
 | [พบเธอจึงเข้าใจ Ost.The boy next world series](https://open.spotify.com/track/2uii6kEYhPCw9GSSnmrjXI) | [BOSS.CKM](https://open.spotify.com/artist/2ydSOTHypXPznsmVExy296) | [พบเธอจึงเข้าใจ Ost.The boy next world series](https://open.spotify.com/album/42U0RYFtfCpm69mo4LCWFh) | 3:07 | 2025-01-09 | 2025-01-24 |
-| [พรุ่งนี้ค่อยเลิกได้ไหม \(Last Request\)](https://open.spotify.com/track/3ZNaxOJXP8QttNVqlWZFRM) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [พรุ่งนี้ค่อยเลิกได้ไหม \(Last Request\)](https://open.spotify.com/album/0qUTOrRpXLVKgcW1uCYR1o) | 4:05 | 2025-02-13 |  |
+| [พรุ่งนี้ค่อยเลิกได้ไหม \(Last Request\)](https://open.spotify.com/track/3ZNaxOJXP8QttNVqlWZFRM) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [พรุ่งนี้ค่อยเลิกได้ไหม \(Last Request\)](https://open.spotify.com/album/0qUTOrRpXLVKgcW1uCYR1o) | 4:05 | 2025-02-13 | 2025-06-30 |
 | [พลั้ง \(Confess\)](https://open.spotify.com/track/1PLYjJH6rPyf6FQZeDfDvY) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [พลั้ง \(Confess\)](https://open.spotify.com/album/4NE78JyLuQgUhllqVJF4iw) | 3:34 | 2023-09-19 | 2023-11-17 |
 | [พิง \- เพลงประกอบละคร กระเช้าสีดา](https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [เพลงประกอบละคร กระเช้าสีดา](https://open.spotify.com/album/1Sj8XTK9qjQzMS5deUO3LV) | 4:02 | 2022-05-26 | 2023-03-03 |
 | [พิสูจน์ \(PROVE IT\)](https://open.spotify.com/track/2hvFb7MUUY2hfKdzySdPHO) | [SIZZY](https://open.spotify.com/artist/5nWu2ZmwUsVv1eAfbIUSXF) | [พิสูจน์ \(PROVE IT\)](https://open.spotify.com/album/1pLQp0VSjMiGLV3jzTaQMs) | 3:37 | 2022-06-16 | 2022-06-24 |

@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95868,
+  "num_followers": 95869,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3fAAAAAAACqDvTxmVANJnObxTfd1dc",
+  "snapshot_id": "aF8wgAAAAAA3DTEfGQ4HooIFhnLOSKOc",
   "tracks": [
     {
       "added_at": null,
@@ -639,38 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OMW2 REXDALE",
-        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 132213,
-      "name": "U.N.I.",
-      "url": "https://open.spotify.com/track/0JVapaUZm2Ax627wjKP8Xn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rexdale",
-        "url": "https://open.spotify.com/album/7luxPo6uIc8GseoVfDBqB4"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 125093,
-      "name": "Rexdale",
-      "url": "https://open.spotify.com/track/1r9Sbh5cc4kC0g7eUPnscB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "6AM Thoughts",
         "url": "https://open.spotify.com/album/6Y7WV9kM9IS5mhcgrvIbfx"
       },
@@ -691,6 +659,38 @@
       "duration_ms": 200933,
       "name": "6AM Thoughts (with Cash Cobain & Bay Swag)",
       "url": "https://open.spotify.com/track/4l4gr5KjRl1msqINS47y20"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rexdale",
+        "url": "https://open.spotify.com/album/7luxPo6uIc8GseoVfDBqB4"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 125093,
+      "name": "Rexdale",
+      "url": "https://open.spotify.com/track/1r9Sbh5cc4kC0g7eUPnscB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OMW2 REXDALE",
+        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 132213,
+      "name": "U.N.I.",
+      "url": "https://open.spotify.com/track/0JVapaUZm2Ax627wjKP8Xn"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OMW2 REXDALE",
-        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 125853,
-      "name": "SINKING",
-      "url": "https://open.spotify.com/track/353xLpuRSnZQG2arRj4ObG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Demons Protected By Angels",
         "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 189320,
       "name": "One Time (with Don Toliver feat. Future)",
       "url": "https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OMW2 REXDALE",
+        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 125853,
+      "name": "SINKING",
+      "url": "https://open.spotify.com/track/353xLpuRSnZQG2arRj4ObG"
     },
     {
       "added_at": null,
@@ -915,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OMW2 REXDALE (DELUXE)",
-        "url": "https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 128695,
-      "name": "POTHOLES",
-      "url": "https://open.spotify.com/track/56iQaoOCCQ68YK74wQhtCW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Virgo World",
         "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 133773,
       "name": "Foreign (feat. Nav)",
       "url": "https://open.spotify.com/track/3CTOc6QGsoaxwaPJYFxNsG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OMW2 REXDALE (DELUXE)",
+        "url": "https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 128695,
+      "name": "POTHOLES",
+      "url": "https://open.spotify.com/track/56iQaoOCCQ68YK74wQhtCW"
     },
     {
       "added_at": null,
@@ -983,8 +983,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "OMW2 REXDALE (DELUXE)",
-        "url": "https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9"
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
       },
       "artists": [
         {
@@ -992,9 +992,9 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 104164,
-      "name": "FEEL NONE",
-      "url": "https://open.spotify.com/track/2QnSwZgIGvcAY8i4aWq8Lm"
+      "duration_ms": 215293,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/11HOTp4KdeOwmn7Ew0GSIs"
     }
   ],
   "unique_name": "This Is NAV",

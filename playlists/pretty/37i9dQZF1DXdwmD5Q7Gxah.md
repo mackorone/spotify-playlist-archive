@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > LORDE\-M baby!!!!!!!!! <a href="https://loremandfriends.substack.com/p/put\-me\-on\-a\-porch\-with\-a\-crispy\-beverage">Check out our May newsletter!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,180,397 likes - 159 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,180,349 likes - 159 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
