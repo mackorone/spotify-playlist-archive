@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Armin van Buuren
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 267,572 likes - 197 songs - 10 hr 28 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 267,520 likes - 197 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Let It Be For Love](https://open.spotify.com/track/3SXv4GrGEVdYC2RFGD3O3m) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [JAI RYU](https://open.spotify.com/artist/1YtiawZzH3pF90C07iauWh) | [Let It Be For Love](https://open.spotify.com/album/75pl4nGOURbda5wuC2HSSU) | 3:22 |
 | 2 | [ALIVE](https://open.spotify.com/track/4dY5rpeIdrHPEX84EYFNfg) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Breathe](https://open.spotify.com/album/0S1SKVI7D7OKqSgTVFQeku) | 2:57 |
-| 3 | [Freedom's Call](https://open.spotify.com/track/2tSPneKS0b4fplF0admHFc) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Natalie Gioia](https://open.spotify.com/artist/7Im3RJDHc4svDzWNlSvoAO) | [Breathe](https://open.spotify.com/album/0S1SKVI7D7OKqSgTVFQeku) | 4:41 |
+| 3 | [Freedom's Call](https://open.spotify.com/track/2tSPneKS0b4fplF0admHFc) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Natalie Gioia](https://open.spotify.com/artist/7Im3RJDHc4svDzWNlSvoAO) | [Breathe](https://open.spotify.com/album/0S1SKVI7D7OKqSgTVFQeku) | 4:33 |
 | 4 | [Want Some More](https://open.spotify.com/track/3O6onwApNwB57cGm8YEChQ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Breathe](https://open.spotify.com/album/0S1SKVI7D7OKqSgTVFQeku) | 2:32 |
 | 5 | [Sweet Escape](https://open.spotify.com/track/1Ll3vzqdM1XuzeuR9HCQKh) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Breathe](https://open.spotify.com/album/0S1SKVI7D7OKqSgTVFQeku) | 2:36 |
 | 6 | [Back To My Love](https://open.spotify.com/track/6w4Z8LfJ7aIU09mmkYADNt) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Back To My Love](https://open.spotify.com/album/26mbxEeOe1nc8tPPYZ1me0) | 3:16 |

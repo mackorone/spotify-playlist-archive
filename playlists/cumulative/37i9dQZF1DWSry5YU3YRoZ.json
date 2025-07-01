@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "To.",
+        "url": "https://open.spotify.com/album/4XChcwxga72OlkK56y7jZ6"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195120,
+      "name": "dear my loves",
+      "url": "https://open.spotify.com/track/7bBOlkeTkj8kDHVI1k4xzo"
+    },
+    {
+      "album": {
         "name": "dearmybaby",
         "url": "https://open.spotify.com/album/63sAdYCnKjCI5GcGKBPvoW"
       },
@@ -1237,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/4Q8t9TQrVVfa9Y4B1t2rhX"
+      },
+      "artists": [
+        {
+          "name": "CHOSNG",
+          "url": "https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173474,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/3VVn7mGHHr9NB5SIXmDljM"
+    },
+    {
+      "album": {
         "name": "love letter",
         "url": "https://open.spotify.com/album/2MAYUIIxX2LI0eL7VsETMW"
       },
@@ -1612,7 +1648,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 191000,
       "name": "Snow spectacle",
       "url": "https://open.spotify.com/track/6YQHxc0WEKExeX0MO6qPuS"
@@ -1882,7 +1918,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 202413,
       "name": "The Night Time (stripped)",
       "url": "https://open.spotify.com/track/1TPwouflbk2VA3RDCMx7IR"

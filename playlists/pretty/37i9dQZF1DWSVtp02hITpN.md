@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 
 ### [The Pop List](https://open.spotify.com/playlist/37i9dQZF1DWSVtp02hITpN)
 
-> What\. Was\. That?! Lorde releases new album Virgin 🩻
+> What\. Was\. That?! Lorde releases new album Virgin at <a href="https://open.spotify.com/genre/0JQ5DAqbMKFRjoC1iWNybi">Glastonbury 2025</a> 🩻
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,360 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,334 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 | 79 | [Sunsetter](https://open.spotify.com/track/34Gex6ugcOGNoHPZF2rofH) | [Calum Hood](https://open.spotify.com/artist/663fZd6uEkPKLwBzPj50S3) | [ORDER chaos ORDER](https://open.spotify.com/album/0O0OCwx5K3WRMrfqwVMR2f) | 3:59 |
 | 80 | [Hairdresser](https://open.spotify.com/track/6xyExKXiVI7xIks6hdcuvE) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Hairdresser](https://open.spotify.com/album/5C89bkDUO0BC2gLJjbbrvk) | 3:27 |
 
-Snapshot ID: `aF3Q/QAAAADjIvgqaNpcJTIcYfQRwdfn`
+Snapshot ID: `aGJnkQAAAACeL+gjP/DR0MtTkVGSpEN4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Samuli Putro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,223 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,224 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 4 | [Radio pois](https://open.spotify.com/track/3b9Uw8TwUEuYfXvenwi1O4) | [Saara Törmä](https://open.spotify.com/artist/04pUQBuXGMDLa4mUDKGwxQ) | [Radio pois](https://open.spotify.com/album/5hLxUUUYRUacrMaIwyOvXN) | 3:18 |
 | 5 | [Auta mua!](https://open.spotify.com/track/5dP1Zmg31Riu7IiANIVsyh) | [Tuure Kilpeläinen](https://open.spotify.com/artist/2inhO0GfiR0DhSGhPCwZZg) | [Auta mua!](https://open.spotify.com/album/0JsU9CfFkAjd33kXaT4WAh) | 3:34 |
 | 6 | [Paluu](https://open.spotify.com/track/5iJojAxH2TaKuNSL41QqqK) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Paluu](https://open.spotify.com/album/6Lc0k6FqITt4SCmDod9Z2A) | 3:03 |
-| 7 | [Pellava](https://open.spotify.com/track/3FJzwZBjFSzIeh13pnFRuS) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Pellava](https://open.spotify.com/album/1d2yBZwUYZGY23W3bjCZFg) | 2:55 |
-| 8 | [Kotona](https://open.spotify.com/track/6JRfqKHhAIMol3ZuvGcamg) | [Kormus](https://open.spotify.com/artist/7MHJXNM1lJMAv3Vqo6b8UD) | [Kotona](https://open.spotify.com/album/5XMLrsh36JzQAXTAGueyGh) | 2:57 |
+| 7 | [Kotona](https://open.spotify.com/track/6JRfqKHhAIMol3ZuvGcamg) | [Kormus](https://open.spotify.com/artist/7MHJXNM1lJMAv3Vqo6b8UD) | [Kotona](https://open.spotify.com/album/5XMLrsh36JzQAXTAGueyGh) | 2:57 |
+| 8 | [Pellava](https://open.spotify.com/track/3FJzwZBjFSzIeh13pnFRuS) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Pellava](https://open.spotify.com/album/1d2yBZwUYZGY23W3bjCZFg) | 2:55 |
 | 9 | [Neljäs huhtikuuta \(feat\. Rosa Ruu\)](https://open.spotify.com/track/57cqku0vEW71BQkwocj37c) | [Anssi Kela](https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG), [Rosa Ruu](https://open.spotify.com/artist/00RPqOYPeWchKHwvqY01iA) | [Kaikki tiet joita kuljin](https://open.spotify.com/album/58k6ta39f5aIRWJuXMYRrc) | 5:01 |
 | 10 | [Gardenia](https://open.spotify.com/track/7Ih2bWlEQU3vg2s28qw607) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Gardenia](https://open.spotify.com/album/2mJ1flQ0ZAW0rdHZZUrPf3) | 4:08 |
 | 11 | [Rolling Stone](https://open.spotify.com/track/4AxYQbt2YhKzCV0KW88TMI) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Rolling Stone](https://open.spotify.com/album/3d1cnmrDYi2Lmdwogee26y) | 3:12 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 79 | [Yhen yön terapia](https://open.spotify.com/track/7qXuK2hqFCmIYvDrUJqpfX) | [MINÄMINÄ](https://open.spotify.com/artist/3xuRSjlTXFHrbECRrQLTdl) | [Pari terapiaa](https://open.spotify.com/album/1O6NJhNKL4TXcZa4x5nmQy) | 3:56 |
 | 80 | [Ennen kuin linnut vaikenee](https://open.spotify.com/track/4LkjEAQP3sihKg82Cb3V9Y) | [Elonkerjuu](https://open.spotify.com/artist/6vTfQXLadaNMPnrnfbnuyF) | [Ennen kuin linnut vaikenee](https://open.spotify.com/album/0MnLtJlF4tWtu3vpy7K46X) | 3:22 |
 
-Snapshot ID: `aF21FwAAAABeve6Ti0yPyab+/okBvRp5`
+Snapshot ID: `aGJSXQAAAABYHN7jqqzWtEtUteocAVxV`

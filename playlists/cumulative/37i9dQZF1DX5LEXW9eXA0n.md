@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: Yoon Jong Shin \(윤종신\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,507 songs - 4 day 1 hr 42 min
+1,509 songs - 4 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [ALL ABOUT FAREWELL \(with JAMIE\)](https://open.spotify.com/track/6ZCjhym9SDLUcWhgy7mQ0T) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Winter Songs](https://open.spotify.com/album/0aTPUVSa8UApotqgfkrKaB) | 3:52 | 2022-12-16 | 2023-02-09 |
 | [All day](https://open.spotify.com/track/147avtNKN2LvIlENoa0GJ8) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [To whom it may concern](https://open.spotify.com/album/1TKsdmVqMISXkxRWhAqG13) | 3:42 | 2022-10-13 | 2023-01-11 |
 | [All Except for Wedding](https://open.spotify.com/track/5YMqjE5l0dLZjubWrbtSBs) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [All Except for Wedding](https://open.spotify.com/album/1ylHkF3BHA3tJDrDodyDTO) | 3:09 | 2023-11-03 | 2024-03-16 |
-| [All I ask](https://open.spotify.com/track/3G0d3wMJ281GhbmiB8lZZH) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [All I ask](https://open.spotify.com/album/2kxbxk3rUuKLTFvDTcUAzl) | 4:35 | 2025-04-08 |  |
+| [All I ask](https://open.spotify.com/track/3G0d3wMJ281GhbmiB8lZZH) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [All I ask](https://open.spotify.com/album/2kxbxk3rUuKLTFvDTcUAzl) | 4:35 | 2025-04-08 | 2025-07-01 |
 | [All I Have is My Heart](https://open.spotify.com/track/3VqPDP2g1wR8F0J4utm3yX) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Ghost Doctor, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5Y9r0IoRE4uftS7lSprK8e) | 3:17 | 2022-01-26 | 2022-04-06 |
 | [All I Remembered](https://open.spotify.com/track/7BE0hb9SS4XhALyqlyQfna) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [All I Remembered](https://open.spotify.com/album/5XzJdQT3RQ3n8xGZpk2mR1) | 4:03 | 2023-01-20 | 2023-02-25 |
 | [All My Love \- Korean Ver.](https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [All My Love](https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat) | 3:23 | 2021-12-23 | 2022-05-08 |
@@ -916,6 +916,7 @@
 | [Officially Cool](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Officially Cool](https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9) | 2:57 | 2024-04-02 | 2024-08-11 |
 | [Oh Love](https://open.spotify.com/track/1aZpE9F9w6VbKaO6vZIZhu) | [하주](https://open.spotify.com/artist/7er7ULSrWPD0GmKf8pJDaU) | [Oh Love](https://open.spotify.com/album/0XEv6Cp9Cbqueowz4u0EXR) | 3:27 | 2025-02-11 | 2025-05-10 |
 | [Old Song](https://open.spotify.com/track/1rxzTIwzyHtg5FufNtjzMG) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys), [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz), [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC), [Lee Jin Sung](https://open.spotify.com/artist/0MFlXSWpgwmot3jIZro34j), [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5), [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Old Song](https://open.spotify.com/album/4qZ85vAqDn3maSw5wLTLNQ) | 4:18 | 2024-06-17 | 2025-02-07 |
+| [Old Song](https://open.spotify.com/track/6rGVw8IWx7EB0f8vUAKWHE) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6), [YOUNGJAE](https://open.spotify.com/artist/6yxXsPXcgTJjBRelX9NCiF), [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy), [CHOI SANG YEOP](https://open.spotify.com/artist/6utXy4Z1T5WeP6Kik5CKs4) | [Old Song](https://open.spotify.com/album/0apoOIDrKO2D46DcgUuzR7) | 4:32 | 2025-06-30 |  |
 | [On A Rainy Night](https://open.spotify.com/track/1t6AYmReZJdCcbKLUjGCWQ) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [On A Rainy Night](https://open.spotify.com/album/5JtQzYZOacgK1jTrHI62Ou) | 4:09 | 2022-07-07 | 2022-09-30 |
 | [On A Starry Night](https://open.spotify.com/track/7wWPy7xxl4lBpuGSIUzt0h) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [On A Starry Night \(REVIBE Vol.3\)](https://open.spotify.com/album/3J2AhRHfqSOMwp6YYloJxC) | 4:32 | 2022-01-03 | 2022-04-30 |
 | [On My Way](https://open.spotify.com/track/5Q9aFVpPOYbN5EavyKr3yh) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [On My Way](https://open.spotify.com/album/26POvIjMcsJWQrtOt8ia18) | 3:54 | 2023-02-28 | 2023-07-08 |
@@ -1084,7 +1085,8 @@
 | [Someday](https://open.spotify.com/track/1knmXWjASYVOYFsSFoDWz5) | [Bong Gu\(GilGuBongGu\)](https://open.spotify.com/artist/0dyfVDtoUQYbUz2Aa5vBdq), [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Someday](https://open.spotify.com/album/27VDDb1X8Myfux4wB3ipnJ) | 4:41 | 2023-12-13 | 2024-05-18 |
 | [Someday](https://open.spotify.com/track/2NDq5NUvCItdPkczFLguj3) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Someday](https://open.spotify.com/album/35bPymZ8g5lxGljWDL888d) | 4:38 | 2023-02-08 | 2023-06-23 |
 | [Someday, The Boy](https://open.spotify.com/track/1N0vwih6TUIb9kYtynvlRc) | [Kim Feel](https://open.spotify.com/artist/6oR7m22sIO1t7o8h7bnwNW) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/7jMfA0dYFKHcqGNtgi8WCJ) | 4:47 | 2021-12-20 | 2022-07-08 |
-| [Somehow](https://open.spotify.com/track/2ILWHKHqMaRnFOONkYWM8K) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [Somehow](https://open.spotify.com/album/0wmdf3KGuDjJONl3rqiOLf) | 3:33 | 2025-04-15 |  |
+| [Someday, The Man](https://open.spotify.com/track/2ebbekzBESFE6wWBA96Gbw) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Someday, The Man](https://open.spotify.com/album/6NUSyUkZIVMJUql3xBowqD) | 3:55 | 2025-06-30 |  |
+| [Somehow](https://open.spotify.com/track/2ILWHKHqMaRnFOONkYWM8K) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [Somehow](https://open.spotify.com/album/0wmdf3KGuDjJONl3rqiOLf) | 3:33 | 2025-04-15 | 2025-07-01 |
 | [Somehow](https://open.spotify.com/track/1xknicKLCrmvtOn5IfIBbF) | [란\(RAN\)](https://open.spotify.com/artist/5JCsBzT5iTN0rGLMLfb2EF) | [The Crush Of Spring OST Part.11](https://open.spotify.com/album/23J6KpkSpALFrMGcXd2VZw) | 3:45 | 2022-07-07 | 2022-09-06 |
 | [Somehow Different](https://open.spotify.com/track/1f74SwIBl0FgeFMhefsBbS) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Somehow Different](https://open.spotify.com/album/2y0d9PR0HmZ3fiFpik1jQ7) | 3:42 | 2024-03-28 | 2024-08-11 |
 | [something](https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [something](https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s) | 3:38 | 2023-11-03 | 2024-03-16 |

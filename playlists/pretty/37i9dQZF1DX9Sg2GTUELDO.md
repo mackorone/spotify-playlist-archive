@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受女聲力量。Cover: 連詩雅
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,988 likes - 514 songs - 1 day 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,989 likes - 514 songs - 1 day 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

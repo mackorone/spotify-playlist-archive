@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,361 likes - 110 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,353 likes - 110 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [12TRE](https://open.spotify.com/track/4fWLZG09La6mqWwuScH598) | [Kelian](https://open.spotify.com/artist/1w60WqdXNxxpNnpyoBupDj), [4njuice](https://open.spotify.com/artist/6NJC1YOi1btzoj3IhCD6NP) | [12TRE](https://open.spotify.com/album/3jA6Md3gWoa6Fo54YCFIPW) | 1:58 |
+| 1 | [SANTORINI](https://open.spotify.com/track/60m76b2KtiQfbc3iIqOOoi) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [SANTORINI](https://open.spotify.com/album/7LYspAMESaqeSiy9pHXtH7) | 2:20 |
 | 2 | [Jealousy](https://open.spotify.com/track/4X96ldR3otbbjtuTGgp1Fo) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Jealousy](https://open.spotify.com/album/5sWftiBrgMfkkNO0lnyl0j) | 2:24 |
-| 3 | [SANTORINI](https://open.spotify.com/track/60m76b2KtiQfbc3iIqOOoi) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [SANTORINI](https://open.spotify.com/album/7LYspAMESaqeSiy9pHXtH7) | 2:20 |
-| 4 | [Déjà vu](https://open.spotify.com/track/5IfmDyNY5E6icqVPcWlR19) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [Déjà vu](https://open.spotify.com/album/10nP5xolUoRzTBhKnSG2n4) | 2:52 |
+| 3 | [Déjà vu](https://open.spotify.com/track/5IfmDyNY5E6icqVPcWlR19) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [Déjà vu](https://open.spotify.com/album/10nP5xolUoRzTBhKnSG2n4) | 2:52 |
+| 4 | [12TRE](https://open.spotify.com/track/4fWLZG09La6mqWwuScH598) | [Kelian](https://open.spotify.com/artist/1w60WqdXNxxpNnpyoBupDj), [4njuice](https://open.spotify.com/artist/6NJC1YOi1btzoj3IhCD6NP) | [12TRE](https://open.spotify.com/album/3jA6Md3gWoa6Fo54YCFIPW) | 1:58 |
 | 5 | [Båda](https://open.spotify.com/track/3zZLfszBUlDjj98bHU48xu) | [BoBa](https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW) | [Båda](https://open.spotify.com/album/25VkEI6z5odoSCkZETJDaA) | 2:24 |
 | 6 | [Jetpack](https://open.spotify.com/track/5mTMpmUrqXihcRa1TrsHLv) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [The World Is Yours](https://open.spotify.com/album/49PNgwc80ySfgoXZy0mpil) | 2:41 |
 | 7 | [Baby Kom](https://open.spotify.com/track/0ObXx8JTavVADLWIwlHKBX) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Baby Kom](https://open.spotify.com/album/1x3xh4KUuOY7uVChPsFBZf) | 3:04 |
 | 8 | [DALLAS](https://open.spotify.com/track/68tSaVETtHkbAR73juuiew) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc), [BoBa](https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW) | [RUSHEN TAR ALDRIG SLUT](https://open.spotify.com/album/3ZtvMVD8asywOMHIbix1nS) | 2:14 |
 | 9 | [OTF](https://open.spotify.com/track/1t9gZy5EdMMxxwYIvOA5Tp) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [OTF](https://open.spotify.com/album/1GBHD5sbBnTwmvMt9HtkfU) | 2:05 |
-| 10 | [TOUR DE FRANCE](https://open.spotify.com/track/7nGVisEkaTD2muUkfVVbVJ) | [JAE](https://open.spotify.com/artist/3DltM2SHSd93FMWwaGdAW2) | [TOUR DE FRANCE](https://open.spotify.com/album/2vCqGqdsEoGKDrHWTIn6Cu) | 2:00 |
-| 11 | [Pinocchio](https://open.spotify.com/track/0NvdqkFGbvPiH1CcHxx1Q9) | [W8](https://open.spotify.com/artist/6YKQSxe0IqPWWEVEqvxlVF) | [Pinocchio](https://open.spotify.com/album/0pqDgDEzkxCGqU8h0tBP5V) | 1:58 |
-| 12 | [Faller](https://open.spotify.com/track/7qU6aPdvrWYRI1Y5zsP2RP) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Faller](https://open.spotify.com/album/0U0zXxtd9OOM4e2CMnP3Vu) | 2:03 |
+| 10 | [Faller](https://open.spotify.com/track/7qU6aPdvrWYRI1Y5zsP2RP) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Faller](https://open.spotify.com/album/0U0zXxtd9OOM4e2CMnP3Vu) | 2:03 |
+| 11 | [TOUR DE FRANCE](https://open.spotify.com/track/7nGVisEkaTD2muUkfVVbVJ) | [JAE](https://open.spotify.com/artist/3DltM2SHSd93FMWwaGdAW2) | [TOUR DE FRANCE](https://open.spotify.com/album/2vCqGqdsEoGKDrHWTIn6Cu) | 2:00 |
+| 12 | [Pinocchio](https://open.spotify.com/track/0NvdqkFGbvPiH1CcHxx1Q9) | [W8](https://open.spotify.com/artist/6YKQSxe0IqPWWEVEqvxlVF) | [Pinocchio](https://open.spotify.com/album/0pqDgDEzkxCGqU8h0tBP5V) | 1:58 |
 | 13 | [NAYO](https://open.spotify.com/track/5qwm534JejTHrzfbwjq9Va) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [44Drumz](https://open.spotify.com/artist/6xm2KDrJUgHEBvASo7OuHY) | [NAYO](https://open.spotify.com/album/6Q5qKyTjw5pbTq8Tn0bvOt) | 2:26 |
 | 14 | [Tranquilo](https://open.spotify.com/track/7dQkgXwSvmWb4GTEZClfwQ) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Tranquilo](https://open.spotify.com/album/6ZENxlF3En6RRs8gIqqzmD) | 2:07 |
 | 15 | [Blockstar](https://open.spotify.com/track/3vhyGWYdI5sQ9X2W9b5JGO) | [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [Blockstar](https://open.spotify.com/album/5eNV7eE2UUh97gzwemO1pZ) | 2:20 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 109 | [VEM E DU?](https://open.spotify.com/track/7a0sAadzyZfGC9s3Il2PPw) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [VEM E DU?](https://open.spotify.com/album/4pMwbEtyuwQcQtx19m9VpK) | 1:59 |
 | 110 | [TRAFIK](https://open.spotify.com/track/0OnLCD4GQgKpRApYTTBeH0) | [G3B](https://open.spotify.com/artist/4lyxajlLjjUI4EkluxTAA4) | [TRAFIK](https://open.spotify.com/album/1cV9kfX5WMqBDfchc7JDPy) | 1:44 |
 
-Snapshot ID: `aF3C/QAAAABiXC8DJWIa5feq+OBm+win`
+Snapshot ID: `aGI01gAAAADjhKcBihyMf3k6pFntReK8`

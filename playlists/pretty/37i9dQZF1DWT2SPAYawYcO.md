@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Lorde, Royel Otis, Lewis Capaldi, Lizzo, SZA, Alex Warren, ROSÉ + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,673 likes - 97 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,678 likes - 97 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 78 | [Bed of Roses](https://open.spotify.com/track/4hTBcHQ5DjYH9dbroi91if) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Bed of Roses](https://open.spotify.com/album/7EHL9PCseJVg7jLeF08G3S) | 2:29 |
 | 79 | [THERE SHE GOES](https://open.spotify.com/track/19xmfew0zk0WMUIT0Ciltb) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [THERE SHE GOES](https://open.spotify.com/album/5sHe1XSH5UE2L0VKPhaoKA) | 2:49 |
 | 80 | [Left To Get Right](https://open.spotify.com/track/5KUD7qUTDNyyweV4zpjxsF) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Spanish Moss](https://open.spotify.com/album/7k56MAd5kMXPEGLlH8s13V) | 3:01 |
-| 81 | [Bend \(feat\. Skillibeng\)](https://open.spotify.com/track/47AoRNM6DEQmNJwRoG4uZ3) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Pool Party](https://open.spotify.com/album/51o2j8y90vuY7nFzE5A6l8) | 2:53 |
+| 81 | [Bend \(feat\. Skillibeng\)](https://open.spotify.com/track/47AoRNM6DEQmNJwRoG4uZ3) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Pool Party](https://open.spotify.com/album/51o2j8y90vuY7nFzE5A6l8) | 2:52 |
 | 82 | [Candle](https://open.spotify.com/track/0kh5lE54ol9QpHmX3hPwI1) | [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp) | [Candle](https://open.spotify.com/album/1wX79eybvIOsEqQ07275T2) | 2:10 |
 | 83 | [Moment By](https://open.spotify.com/track/0YfJwv5wsr8DHMwVqIgzET) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Moment By](https://open.spotify.com/album/0Uq9d3tL78BcIFHywBpv5J) | 4:40 |
 | 84 | [Sciallà](https://open.spotify.com/track/2w30W8DtzFfUAqakTaeV78) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Sciallà](https://open.spotify.com/album/4Sr05np1KjUdmw0RQF1R99) | 4:16 |

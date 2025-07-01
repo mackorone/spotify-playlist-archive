@@ -2,7 +2,7 @@
 
 ### [Frecuencia Pop](https://open.spotify.com/playlist/37i9dQZF1DXbDPWblNlzy4)
 
-> Los éxitos más POPulares en español los encuentras aquí\. Foto: Morat
+> Los éxitos más POPulares en español los encuentras aquí\. Foto: TIMØ & Juan Duque
 
 463 songs - 1 day 0 hr 19 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Tony Boy, Elodie e Sfera, Joan Thiele, DJ Shocca, Nu Genea e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,099 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,110 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 8 | [Russian Roulette \(feat\. Ernia\)](https://open.spotify.com/track/4KZp6Bkk3ydyXBjc1lgwOr) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Mentre Los Angeles Brucia \(Bonus\)](https://open.spotify.com/album/0bXXnGT7RghELWV1h81SjA) | 2:19 |
 | 9 | [BABY DRIVE](https://open.spotify.com/track/7y7WilGFCmXXXQ33GxEc7m) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [BABY DRIVE](https://open.spotify.com/album/4bkLFb7iP5ieEaNnCdrOCt) | 2:45 |
 | 10 | [Ragione e Follia](https://open.spotify.com/track/3AKqs2n900YLNiayeLnTUJ) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [Ragione e Follia](https://open.spotify.com/album/1CBt7d71THAwB6RL2d3Yio) | 3:12 |
-| 11 | [Cabaret](https://open.spotify.com/track/3gY37Od3abC7qOZoWHbsur) | [Orietta Berti](https://open.spotify.com/artist/6W7O7oseXcbYLoiarQrpOw), [Fabio Rovazzi](https://open.spotify.com/artist/35orQw8LgQn7KOFjzCyY7E), [FUCKYOURCLIQUE](https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ) | [Cabaret](https://open.spotify.com/album/7ysUidKVotdITc3h65MTAa) | 2:57 |
+| 11 | [CABARET](https://open.spotify.com/track/3gY37Od3abC7qOZoWHbsur) | [Orietta Berti](https://open.spotify.com/artist/6W7O7oseXcbYLoiarQrpOw), [Fabio Rovazzi](https://open.spotify.com/artist/35orQw8LgQn7KOFjzCyY7E), [FUCKYOURCLIQUE](https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ) | [CABARET](https://open.spotify.com/album/7ysUidKVotdITc3h65MTAa) | 2:57 |
 | 12 | [All Night](https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [All Night](https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD) | 2:45 |
 | 13 | [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 |
 | 14 | [KILLA KILLA \(feat\. Guè, Faneto & Melons\)](https://open.spotify.com/track/38BP0SrMvhIHggZxOCxw9S) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4), [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe) | [KILLA KILLA \(feat\. Guè, Faneto & Melons\)](https://open.spotify.com/album/65yE4D2rf9wOyVe711wSLo) | 3:05 |

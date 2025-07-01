@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: kinji00, lb66
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,644 likes - 74 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,657 likes - 74 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,17 +12,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 2 | [CHROME HEARTS](https://open.spotify.com/track/4ZlaY8an3Sk87sW9m0mkil) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [Bundog](https://open.spotify.com/artist/4wL3ZswVcMUC6iNcvWklfO) | [CHROME HEARTS](https://open.spotify.com/album/24tSytQhrgseCAvSx2Gydo) | 3:16 |
 | 3 | [300](https://open.spotify.com/track/7LjEC618TnZIBPPFUYMgB2) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [300](https://open.spotify.com/album/4Oi4mTuE5Qg33JlN1gbgml) | 2:43 |
 | 4 | [Momentum \(avec Souldia\)](https://open.spotify.com/track/0yPaNiYpfVSGwEQJy1bJxS) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Big Wop \- Mile\-End sur la map](https://open.spotify.com/album/6TQ4f72JT76m1WABOYTOZr) | 3:17 |
-| 5 | [Mode de vie](https://open.spotify.com/track/6Gwjo7UHixOJiCCe5Av7wT) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Mode de vie](https://open.spotify.com/album/56mNsqZxNamBAllH4zmMoL) | 2:25 |
-| 6 | [West Coast \(avec Statzz\)](https://open.spotify.com/track/7lInLjn8bphUQ03Ph8bxJ8) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [West Coast \(avec Statzz\)](https://open.spotify.com/album/4YW4oVjIfP8X3SmMm98bUi) | 2:39 |
+| 5 | [West Coast \(avec Statzz\)](https://open.spotify.com/track/7lInLjn8bphUQ03Ph8bxJ8) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [West Coast \(avec Statzz\)](https://open.spotify.com/album/4YW4oVjIfP8X3SmMm98bUi) | 2:39 |
+| 6 | [Mode de vie](https://open.spotify.com/track/6Gwjo7UHixOJiCCe5Av7wT) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Mode de vie](https://open.spotify.com/album/56mNsqZxNamBAllH4zmMoL) | 2:25 |
 | 7 | [Fleur de lys](https://open.spotify.com/track/5jy0jPKgPj8AUPF6HitrXn) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF) | [Fleur de lys](https://open.spotify.com/album/6OLl9MuaNQpLM8rxyRutMJ) | 2:34 |
-| 8 | [Right Now](https://open.spotify.com/track/4vqwpFRN7mFFrJPUJgE5pj) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Right Now](https://open.spotify.com/album/4vzuP1SgLMNW1YKYGKGCTP) | 2:06 |
-| 9 | [Même Vie](https://open.spotify.com/track/4AGpgDwYoMY5zxTES6vhVZ) | [Mahdi Ba](https://open.spotify.com/artist/4bjdItQFpfNUmAWpY2ao7M), [Amani Davis](https://open.spotify.com/artist/6rPJRiGNJgRKDX5aKH1hey) | [Super Nova](https://open.spotify.com/album/0KxPOJWbFuPg7FYzVfoh2u) | 2:08 |
-| 10 | [MAUVAIS](https://open.spotify.com/track/1gjVIjkmSNosvlTCBbzZOY) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [MAUVAIS](https://open.spotify.com/album/6RFOqZ6irOKhWOeKdnMLyl) | 3:25 |
-| 11 | [Trop Souvent](https://open.spotify.com/track/2kpXbATJiis2JCZrDed7Ff) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Trop Souvent](https://open.spotify.com/album/59TUFPL3ZlGMzR02iYTyFD) | 2:50 |
-| 12 | [CASAMIGOS 2X](https://open.spotify.com/track/2MQD2LqAPlmZShAxXtjAHl) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [ON FRAP II](https://open.spotify.com/album/6ZbWyoybaFIyffQYnvxQNZ) | 3:26 |
-| 13 | [MTL2P](https://open.spotify.com/track/7KUqGBFoix0z2aj34pG8TM) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Mv](https://open.spotify.com/artist/4NCWWjplzDnwE3YAkRLHjc) | [MTL2P](https://open.spotify.com/album/0xVbkxvGrnilMoXkglznBn) | 2:14 |
-| 14 | [La Facture](https://open.spotify.com/track/7Ix5y9KW7TkfQ0k68ilHNn) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c), [Yzanakio Music](https://open.spotify.com/artist/3wKIZMgns8O8UZmlRUpcGe) | [La Facture](https://open.spotify.com/album/43GEBjxilbdUEMWFjFfzxz) | 2:27 |
-| 15 | [VRAI FLEXEUR](https://open.spotify.com/track/1eUOskjAj9lCVTh0Mi2d29) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [VRAI FLEXEUR](https://open.spotify.com/album/7iI3MHim7W4zZgyfdshg9f) | 2:42 |
+| 8 | [MAUVAIS](https://open.spotify.com/track/1gjVIjkmSNosvlTCBbzZOY) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [MAUVAIS](https://open.spotify.com/album/6RFOqZ6irOKhWOeKdnMLyl) | 3:25 |
+| 9 | [Right Now](https://open.spotify.com/track/4vqwpFRN7mFFrJPUJgE5pj) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Right Now](https://open.spotify.com/album/4vzuP1SgLMNW1YKYGKGCTP) | 2:06 |
+| 10 | [Même Vie](https://open.spotify.com/track/4AGpgDwYoMY5zxTES6vhVZ) | [Mahdi Ba](https://open.spotify.com/artist/4bjdItQFpfNUmAWpY2ao7M), [Amani Davis](https://open.spotify.com/artist/6rPJRiGNJgRKDX5aKH1hey) | [Super Nova](https://open.spotify.com/album/0KxPOJWbFuPg7FYzVfoh2u) | 2:08 |
+| 11 | [VRAI FLEXEUR](https://open.spotify.com/track/1eUOskjAj9lCVTh0Mi2d29) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [VRAI FLEXEUR](https://open.spotify.com/album/7iI3MHim7W4zZgyfdshg9f) | 2:42 |
+| 12 | [Trop Souvent](https://open.spotify.com/track/2kpXbATJiis2JCZrDed7Ff) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Trop Souvent](https://open.spotify.com/album/59TUFPL3ZlGMzR02iYTyFD) | 2:50 |
+| 13 | [CASAMIGOS 2X](https://open.spotify.com/track/2MQD2LqAPlmZShAxXtjAHl) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [ON FRAP II](https://open.spotify.com/album/6ZbWyoybaFIyffQYnvxQNZ) | 3:26 |
+| 14 | [MTL2P](https://open.spotify.com/track/7KUqGBFoix0z2aj34pG8TM) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Mv](https://open.spotify.com/artist/4NCWWjplzDnwE3YAkRLHjc) | [MTL2P](https://open.spotify.com/album/0xVbkxvGrnilMoXkglznBn) | 2:14 |
+| 15 | [La Facture](https://open.spotify.com/track/7Ix5y9KW7TkfQ0k68ilHNn) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c), [Yzanakio Music](https://open.spotify.com/artist/3wKIZMgns8O8UZmlRUpcGe) | [La Facture](https://open.spotify.com/album/43GEBjxilbdUEMWFjFfzxz) | 2:27 |
 | 16 | [Day N' Night](https://open.spotify.com/track/4mzORLfFFmQjIqPGLmLoFu) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Day N' Night](https://open.spotify.com/album/5Kcq71QCWLlk2PqKg9bzVW) | 3:11 |
 | 17 | [Zombie](https://open.spotify.com/track/20ksbbNMgK3j0oXac3lJBj) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [jeunesept](https://open.spotify.com/artist/4hwTBvo8ykVqflub3cKVr9) | [Zombie](https://open.spotify.com/album/2LiiNK3Mz0P0wU8OGKeh2z) | 2:55 |
 | 18 | [Voyou](https://open.spotify.com/track/5tQLPuhi9pJhxSD6pjm6Ek) | [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP) | [Pea Soup](https://open.spotify.com/album/5TXnEwwOqakpoBmvTPUNBZ) | 2:27 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 73 | [Nouveau Chapitre](https://open.spotify.com/track/6DobGjLzrEevifya8rWxIl) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [Nouveau Chapitre](https://open.spotify.com/album/1Djf3JZKEMTRnfCXYH7lGR) | 3:53 |
 | 74 | [Mean mug](https://open.spotify.com/track/69VgYJwIP0UiS3WrRUk2W5) | [T.K](https://open.spotify.com/artist/2oIv5lNNTIBLXRDV3eSzDp), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [1001 Nuits](https://open.spotify.com/album/4VIP3RkEK6Yb9sjonaRYWA) | 4:16 |
 
-Snapshot ID: `aF4XZAAAAAAFcC6tZyqXjiXUrC5lv2sy`
+Snapshot ID: `aGLXlgAAAADEQrG+T8WEw7Cxfi/Fov7e`

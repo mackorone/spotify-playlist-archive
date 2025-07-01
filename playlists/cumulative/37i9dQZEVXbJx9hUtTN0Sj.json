@@ -389,6 +389,24 @@
     },
     {
       "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/1VvSBbzq5aL6j0DlLEqSAb"
+      },
+      "artists": [
+        {
+          "name": "Dolphin Love",
+          "url": "https://open.spotify.com/artist/4uT5ywK30prkNZbf4BlQVh"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174546,
+      "name": "222",
+      "url": "https://open.spotify.com/track/7ExV30ZxBPF5nbFyx05gQ2"
+    },
+    {
+      "album": {
         "name": "24 SONGS",
         "url": "https://open.spotify.com/album/1JhyhL2JfZH0NW7vpvLoMI"
       },
@@ -6995,6 +7013,24 @@
     },
     {
       "album": {
+        "name": "Premiers pas",
+        "url": "https://open.spotify.com/album/4TdXHEGmIaPV2xvqTnf5z4"
+      },
+      "artists": [
+        {
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224360,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK"
+    },
+    {
+      "album": {
         "name": "High & Fines Herbes - La Saison 5",
         "url": "https://open.spotify.com/album/3h6Wf4FMHgjIJ6gu3v12b5"
       },
@@ -10674,7 +10710,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 133615,
       "name": "Fica De Quat\u00e3o",
       "url": "https://open.spotify.com/track/7KTYk6K4TSK56iNecGe2R2"
@@ -10898,6 +10934,24 @@
       "duration_ms": 246909,
       "name": "flex fm (freddit)",
       "url": "https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9"
+    },
+    {
+      "album": {
+        "name": "Foaming",
+        "url": "https://open.spotify.com/album/3Hwz49I44rdxZfJ07yZD4d"
+      },
+      "artists": [
+        {
+          "name": "Day We Ran",
+          "url": "https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193906,
+      "name": "Foaming",
+      "url": "https://open.spotify.com/track/0HeEz3p1yVoAIOjAULJzrD"
     },
     {
       "album": {
@@ -21584,7 +21638,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 86953,
       "name": "Montagem Bandido",
       "url": "https://open.spotify.com/track/5s9JKS0P0exKgwLe4yCjAK"
@@ -22862,7 +22916,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 209000,
       "name": "Nice To Each Other",
       "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
@@ -25720,6 +25774,24 @@
       "duration_ms": 228360,
       "name": "Pour le plaisir",
       "url": "https://open.spotify.com/track/3UbjLaV37WezwuvT2pdsIL"
+    },
+    {
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/6ln8iXcLmyu9wJIUq5J7IS"
+      },
+      "artists": [
+        {
+          "name": "Sons of Legion",
+          "url": "https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163540,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/0laZWY3EU8RYnJf4YnB2Fl"
     },
     {
       "album": {
@@ -30402,7 +30474,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 229933,
       "name": "Take A Sexy Picture Of Me",
       "url": "https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY"

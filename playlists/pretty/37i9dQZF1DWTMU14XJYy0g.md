@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Más vivo que nunca, más nuestro que siempre 📸 Santiago Motorizado.
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,951 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,950 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 7 | [DE CAZA](https://open.spotify.com/track/0sIs0MsxCN8M0vADo9a6us) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [PARA QUIEN TRABAJAS Vol\. I](https://open.spotify.com/album/40Nq78LYEHEtCKd0tuOmy2) | 3:59 |
 | 8 | [Tormentón](https://open.spotify.com/track/7yWUqFK4tWYH3J7HSSzEm0) | [La Medianera](https://open.spotify.com/artist/75DO8anWSqwceTHoXKSEKR), [SEVANDER](https://open.spotify.com/artist/2mC1hKeg2XwGITlzQmupS8) | [Tormentón](https://open.spotify.com/album/5xRvU7dse3mY4cd32mrz9t) | 3:36 |
 | 9 | [Cirugía](https://open.spotify.com/track/0uFRDicafe9Gto0v2pk3kT) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [Por cesárea](https://open.spotify.com/album/633jS6fM44Zbr1gyI0eF19) | 3:36 |
-| 10 | [Vamos a Casarnos](https://open.spotify.com/track/1ueROprUNDd0Mv8QfT49b4) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [El Ángel Que Soy](https://open.spotify.com/album/6Za93DEEDEuv6W7K61UNGg) | 3:17 |
+| 10 | [Vamos a Casarnos](https://open.spotify.com/track/1ueROprUNDd0Mv8QfT49b4) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [El Ángel Que Soy](https://open.spotify.com/album/6Za93DEEDEuv6W7K61UNGg) | 3:19 |
 | 11 | [Te miento](https://open.spotify.com/track/3cw4LaUXgvnXG8GdAJwjNL) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Artificio](https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP) | 3:20 |
 | 12 | [NO QUIEREN MÁS MI ROCANROL](https://open.spotify.com/track/15SjDtzBpyj6NxS4TY9CAT) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [PARA QUIEN TRABAJAS Vol\. I](https://open.spotify.com/album/40Nq78LYEHEtCKd0tuOmy2) | 1:26 |
 | 13 | [Misterios](https://open.spotify.com/track/6rALkbf24SPVsgzAJnK0jo) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Misterios](https://open.spotify.com/album/3Pn9aDwP53TlepfgSZaWRt) | 2:54 |

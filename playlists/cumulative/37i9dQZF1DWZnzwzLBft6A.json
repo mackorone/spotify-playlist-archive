@@ -647,6 +647,28 @@
     },
     {
       "album": {
+        "name": "Bach: English Suite No. 2 in A Minor, BWV 807: I. Pr\u00e9lude",
+        "url": "https://open.spotify.com/album/6KznpE0V9KsQG1UtewisqQ"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Francesco Tristano",
+          "url": "https://open.spotify.com/artist/19CMctG8DNWO0rHPE98ujj"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230506,
+      "name": "English Suite No. 2 in A Minor, BWV 807: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/5pYJUfs91g5YFld2z82PvP"
+    },
+    {
+      "album": {
         "name": "Bach: Weihnachtsoratorium, BWV 248",
         "url": "https://open.spotify.com/album/0tyVzvgfzRWp9O7tVOEGLV"
       },
@@ -1250,6 +1272,36 @@
       "duration_ms": 458133,
       "name": "Keyboard Concerto in E Major, BWV 1053: I. Allegro",
       "url": "https://open.spotify.com/track/5vTB9KLExdxtJSbxQOOtzJ"
+    },
+    {
+      "album": {
+        "name": "Bach: Keyboard Concertos",
+        "url": "https://open.spotify.com/album/0aTTLRh7TVFrXYtnF9FmIs"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Tianqi Du",
+          "url": "https://open.spotify.com/artist/5wtqiSQ6EJ2e953Vb4zMia"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Jonathan Bloxham",
+          "url": "https://open.spotify.com/artist/6prHdp2XYpJbkxLmox1Qlh"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161419,
+      "name": "Keyboard Concerto No. 3 in D Major, BWV 1054: III. Allegro",
+      "url": "https://open.spotify.com/track/2fhcjyLvaNsqohSPfJOrFM"
     },
     {
       "album": {

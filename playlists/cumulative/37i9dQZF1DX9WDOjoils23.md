@@ -4,7 +4,7 @@
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Jagjit Singh
 
-93 songs - 11 hr 35 min
+94 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Sanun Nahar Wale Pul](https://open.spotify.com/track/5Va8mH395NByfbTPyp2h1q) | [Noor Jehan](https://open.spotify.com/artist/0LruguA5aIP6yvLUIkxANh) | [Meri Pasand](https://open.spotify.com/album/6ZAFPHUK38sQGNeLoqFl76) | 4:16 | 2024-04-24 | 2025-05-14 |
 | [Sayio Nee Dhal Challian Pippal Dian Chanwan Poetry](https://open.spotify.com/track/6M4o88XTUa3RxrB4TcN1Gt) | [Dilraj Kaur](https://open.spotify.com/artist/7CyTpH4bv3zB2M6CqYMv3Z) | [Ichhabal Modern Punjabi Poerty](https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp) | 6:54 | 2023-12-18 |  |
 | [Sayio Nee Dhal Challian Pippal Dian Chanwan Poetry](https://open.spotify.com/track/6MUNQc53iyfVfRx0gQcf8W) | [Dilraj Kaur](https://open.spotify.com/artist/7CyTpH4bv3zB2M6CqYMv3Z) | [Ichhabal \- Modern Punjabi Poerty](https://open.spotify.com/album/5186Cx4izgBvxEsOIz1dxY) | 6:54 | 2023-02-15 | 2024-04-19 |
-| [Sohnia Mukh Tera Sajri Saver Ay](https://open.spotify.com/track/3udQzZUrapNiMW9Ajy2G1v) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Punjabi Mehfil, Vol\. 5](https://open.spotify.com/album/3khIKYCgLEFGM6icCPToUa) | 10:24 | 2023-02-15 |  |
+| [Sohnia Mukh Tera Sajri Saver Ay](https://open.spotify.com/track/3udQzZUrapNiMW9Ajy2G1v) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Punjabi Mehfil, Vol\. 5](https://open.spotify.com/album/3khIKYCgLEFGM6icCPToUa) | 10:24 | 2023-02-15 | 2025-07-01 |
 | [Sone Yaar](https://open.spotify.com/track/3vStONhgB10kDvs0ctmuPI) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Aa Mil Yaar](https://open.spotify.com/album/6nzQRybk8TXsl30nIYR3Vt) | 5:15 | 2023-02-15 | 2025-02-28 |
 | [Sukki Mitti \- Live](https://open.spotify.com/track/4JRNh4a0UvRj8sN11im9jq) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Sukki Mitti \(Live\)](https://open.spotify.com/album/00OBaU6mgS2mxeA6mkWL1z) | 7:18 | 2025-05-05 |  |
 | [Sun Charkhe De Mitthi \(Medley\)](https://open.spotify.com/track/0MxGMLglNblsHZVuQCSgRS) | [Saleem](https://open.spotify.com/artist/1EsGSU1T8erJCcsxrndQWP) | [Deedar Mahi Da](https://open.spotify.com/album/6YUmdM7t7nlgQvrQc6n0cc) | 9:58 | 2023-02-15 | 2025-02-02 |
@@ -99,6 +99,7 @@
 | [Uthan Wale Lai Jaange](https://open.spotify.com/track/6zqxy4YhDcsbiN89cqcE8u) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Ishqe De](https://open.spotify.com/album/3xeIWOhVor6b8GbMlmgr5C) | 6:58 | 2025-02-01 |  |
 | [Ve Sone Diyan Kangna](https://open.spotify.com/track/3E765tcRR8JBqWBha6AG3Q) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Treasured Moments](https://open.spotify.com/album/3AJVUQpGABGVVUoDvi848K) | 19:34 | 2023-02-15 |  |
 | [Waris Shah Nu](https://open.spotify.com/track/4tfk5JMKtuPZ9omn8SxxsG) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX), [Preeti Uttam](https://open.spotify.com/artist/4soRtfeAZ1TBKGZjtufJMU) | [Pinjar](https://open.spotify.com/album/4WJdoCtxUH7nAaudUbOOPa) | 9:03 | 2025-05-13 |  |
+| [Waseeley \- From the Album "Travel Diaries Vol\. 3",](https://open.spotify.com/track/2WtPwGI1T7bJbDSenGI6kL) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Waseeley](https://open.spotify.com/album/4oBhvtGKsvhNUB2ZurPoPb) | 8:40 | 2025-06-30 |  |
 | [Yarian Rab Kar Ke](https://open.spotify.com/track/1u6HlSO8HipfhVJuO48CGB) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Ichhabal \- Modern Punjabi Poerty](https://open.spotify.com/album/5186Cx4izgBvxEsOIz1dxY) | 4:02 | 2023-02-15 | 2024-04-19 |
 | [Yarian Rab Kar Ke](https://open.spotify.com/track/4ReejH3jo9aHlJ98PJnGEi) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Ichhabal Modern Punjabi Poerty](https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp) | 4:02 | 2023-12-18 | 2024-07-11 |
 

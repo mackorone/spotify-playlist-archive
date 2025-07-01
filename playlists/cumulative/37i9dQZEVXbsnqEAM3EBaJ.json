@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 79020,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/5BQ5OJkyDq9eS6XypoZjZB"
@@ -22996,7 +22996,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 241820,
       "name": "Intruder",
       "url": "https://open.spotify.com/track/2iJQDtuxqOeaLIo5J15EFN"
@@ -47067,6 +47067,28 @@
     },
     {
       "album": {
+        "name": "Odes To The Gods",
+        "url": "https://open.spotify.com/album/0QV0tTexpaWENGHv8NgX7w"
+      },
+      "artists": [
+        {
+          "name": "Defenders Of The Faith",
+          "url": "https://open.spotify.com/artist/3WuYo4HWGCs506nKBc5tSw"
+        },
+        {
+          "name": "Therion",
+          "url": "https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493538,
+      "name": "The Time Machine",
+      "url": "https://open.spotify.com/track/37DoJctVJ7C8wgL2S6h0Ie"
+    },
+    {
+      "album": {
         "name": "The Tipu House",
         "url": "https://open.spotify.com/album/19lMYL6y3I1BcPdhkirtIi"
       },
@@ -54292,6 +54314,28 @@
       "duration_ms": 191470,
       "name": "Z0mbie",
       "url": "https://open.spotify.com/track/1sigPT3Dq2zgrPL0YVMPOj"
+    },
+    {
+      "album": {
+        "name": "Keeper of Chronos",
+        "url": "https://open.spotify.com/album/13JpLlscppTg9tabzKOscz"
+      },
+      "artists": [
+        {
+          "name": "ScarLid Vibez",
+          "url": "https://open.spotify.com/artist/5kNDp8ViqFRVvMDbHrhfzq"
+        },
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83356,
+      "name": "Zek-Fesco",
+      "url": "https://open.spotify.com/track/6YFbDYpjRaPE2xEzssBdn7"
     },
     {
       "album": {

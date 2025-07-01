@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain](/playlists/plain/37i9dQZF1DX6sDj4CL6UK6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6sDj4CL6UK6)
 
-### [IndiEnglish](https://open.spotify.com/playlist/37i9dQZF1DX6sDj4CL6UK6)
+### [Indian Indie English](https://open.spotify.com/playlist/37i9dQZF1DX6sDj4CL6UK6)
 
 > English songs from Indian artists<br/>Cover: Tarang Joseph
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,299 likes - 51 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,299 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 45 | [New](https://open.spotify.com/track/2tRjY1ep1fxnnK4pTRrbv2) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [New](https://open.spotify.com/album/6Et84x5LrcTLZtjG0dtHzV) | 4:25 |
 | 46 | [Autumn](https://open.spotify.com/track/7k1QbUdmLRWiZ7NEyAGZYz) | [Short Round](https://open.spotify.com/artist/3DpQek7q8k2NE0QHOPwkHq), [Rahul Pais](https://open.spotify.com/artist/0iByQOkheGQaW823yagplF), [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [With Friends Like These](https://open.spotify.com/album/0S15keJezo04re31ocQXrf) | 4:08 |
 | 47 | [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 |
-| 48 | [Spiced Lemonade](https://open.spotify.com/track/7AEZgaAQ0SnJQ5Odw5cBux) | [Chirag Todi](https://open.spotify.com/artist/44kXrtuLNc6FpMB8YNbMdE), [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Spiced Lemonade](https://open.spotify.com/album/2C1hH70PnKis3oD8Uaq8pR) | 3:18 |
-| 49 | [Ocean](https://open.spotify.com/track/4BL4aEbddW0OGv6fFYYFUt) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Ocean](https://open.spotify.com/album/2Anzoekoz1jYgFMyHSnV9t) | 4:12 |
-| 50 | [Sucks To Be Human](https://open.spotify.com/track/0Rn2cteUVGOabK55rQVN3Z) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks To Be Human](https://open.spotify.com/album/69EKPVK5owroH5jbQhlXv7) | 3:25 |
-| 51 | [sushi song](https://open.spotify.com/track/5scUVb02Ea6aph7XAb2I7X) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [sushi song](https://open.spotify.com/album/1qByDrxTPVZoultbc0HNyp) | 2:34 |
+| 48 | [Ocean](https://open.spotify.com/track/4BL4aEbddW0OGv6fFYYFUt) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Ocean](https://open.spotify.com/album/2Anzoekoz1jYgFMyHSnV9t) | 4:12 |
+| 49 | [Sucks To Be Human](https://open.spotify.com/track/0Rn2cteUVGOabK55rQVN3Z) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks To Be Human](https://open.spotify.com/album/69EKPVK5owroH5jbQhlXv7) | 3:25 |
+| 50 | [sushi song](https://open.spotify.com/track/5scUVb02Ea6aph7XAb2I7X) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [sushi song](https://open.spotify.com/album/1qByDrxTPVZoultbc0HNyp) | 2:34 |
 
-Snapshot ID: `aEGFIwAAAADf4EmdQ2R2QgOhWXeyVMYR`
+Snapshot ID: `aGI9VQAAAADyrHoOPExeddzuB/NfIDZ0`

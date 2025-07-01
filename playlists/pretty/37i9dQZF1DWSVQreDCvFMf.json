@@ -1,12 +1,12 @@
 {
   "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: JERGE",
-  "num_followers": 184020,
+  "num_followers": 184079,
   "original_name": "OPM Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF4gTAAAAABWk1uU1AKKeyij01kQQk3S",
+  "snapshot_id": "aGKEfgAAAABZc5R4wA6KdKRxWvqTbCLK",
   "tracks": [
     {
       "added_at": "2025-06-27 04:38:36",
@@ -27,66 +27,18 @@
     {
       "added_at": "2025-06-27 04:38:36",
       "album": {
-        "name": "Favorite Friend",
-        "url": "https://open.spotify.com/album/2sKJvtDuUV70mXgE3mTORp"
+        "name": "Last Fool Show",
+        "url": "https://open.spotify.com/album/7gF385mKDnOQEXQNrvBgD3"
       },
       "artists": [
         {
-          "name": "Jolianne",
-          "url": "https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je"
+          "name": "BLASTER",
+          "url": "https://open.spotify.com/artist/34KLaW82VNor4hhKXMyXJ9"
         }
       ],
-      "duration_ms": 203202,
-      "name": "Favorite Friend",
-      "url": "https://open.spotify.com/track/6DvLj7XuRzHgqPM6VjSgfV"
-    },
-    {
-      "added_at": "2025-06-27 04:38:36",
-      "album": {
-        "name": "otw / BROke",
-        "url": "https://open.spotify.com/album/1Ly0s70g58vx4v2ET5hphQ"
-      },
-      "artists": [
-        {
-          "name": "ONE CLICK STRAIGHT",
-          "url": "https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "BROke",
-      "url": "https://open.spotify.com/track/20hKYW4VoQsOpN8ajbxhYc"
-    },
-    {
-      "added_at": "2025-06-27 04:38:36",
-      "album": {
-        "name": "REWIND",
-        "url": "https://open.spotify.com/album/2kkbi0jmkxzgRSDfKCSInc"
-      },
-      "artists": [
-        {
-          "name": "JAN AMIEL",
-          "url": "https://open.spotify.com/artist/0W5eiMjOH4HsYTIHT2gwgD"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "REWIND",
-      "url": "https://open.spotify.com/track/4aVDbrpPQJCryGtkLKRtdp"
-    },
-    {
-      "added_at": "2025-06-27 04:38:36",
-      "album": {
-        "name": "Seenta",
-        "url": "https://open.spotify.com/album/7xU2BhoPl6GH6Z8RlCXzRQ"
-      },
-      "artists": [
-        {
-          "name": "JERGE",
-          "url": "https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC"
-        }
-      ],
-      "duration_ms": 196313,
-      "name": "Seenta",
-      "url": "https://open.spotify.com/track/576fRkp8DrsDrEbxFZ6Urw"
+      "duration_ms": 225750,
+      "name": "Hayy",
+      "url": "https://open.spotify.com/track/5Nc8J2Ie4eXi7l12C083GD"
     },
     {
       "added_at": "2025-06-27 04:38:36",
@@ -123,6 +75,70 @@
       "duration_ms": 247128,
       "name": "Posporo",
       "url": "https://open.spotify.com/track/1WRUTXdxqx3mCcRtg1HP86"
+    },
+    {
+      "added_at": "2025-06-27 04:38:36",
+      "album": {
+        "name": "Favorite Friend",
+        "url": "https://open.spotify.com/album/2sKJvtDuUV70mXgE3mTORp"
+      },
+      "artists": [
+        {
+          "name": "Jolianne",
+          "url": "https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je"
+        }
+      ],
+      "duration_ms": 203202,
+      "name": "Favorite Friend",
+      "url": "https://open.spotify.com/track/6DvLj7XuRzHgqPM6VjSgfV"
+    },
+    {
+      "added_at": "2025-06-27 04:38:36",
+      "album": {
+        "name": "Seenta",
+        "url": "https://open.spotify.com/album/7xU2BhoPl6GH6Z8RlCXzRQ"
+      },
+      "artists": [
+        {
+          "name": "JERGE",
+          "url": "https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC"
+        }
+      ],
+      "duration_ms": 196313,
+      "name": "Seenta",
+      "url": "https://open.spotify.com/track/576fRkp8DrsDrEbxFZ6Urw"
+    },
+    {
+      "added_at": "2025-06-27 04:38:36",
+      "album": {
+        "name": "otw / BROke",
+        "url": "https://open.spotify.com/album/1Ly0s70g58vx4v2ET5hphQ"
+      },
+      "artists": [
+        {
+          "name": "ONE CLICK STRAIGHT",
+          "url": "https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "BROke",
+      "url": "https://open.spotify.com/track/20hKYW4VoQsOpN8ajbxhYc"
+    },
+    {
+      "added_at": "2025-06-27 04:38:36",
+      "album": {
+        "name": "REWIND",
+        "url": "https://open.spotify.com/album/2kkbi0jmkxzgRSDfKCSInc"
+      },
+      "artists": [
+        {
+          "name": "JAN AMIEL",
+          "url": "https://open.spotify.com/artist/0W5eiMjOH4HsYTIHT2gwgD"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "REWIND",
+      "url": "https://open.spotify.com/track/4aVDbrpPQJCryGtkLKRtdp"
     },
     {
       "added_at": "2025-06-27 04:38:36",
@@ -1003,22 +1019,6 @@
       "duration_ms": 269793,
       "name": "Akin",
       "url": "https://open.spotify.com/track/5JVH4SJnTLPDouGwJWdTQD"
-    },
-    {
-      "added_at": "2025-06-27 04:38:36",
-      "album": {
-        "name": "Last Fool Show",
-        "url": "https://open.spotify.com/album/7gF385mKDnOQEXQNrvBgD3"
-      },
-      "artists": [
-        {
-          "name": "BLASTER",
-          "url": "https://open.spotify.com/artist/34KLaW82VNor4hhKXMyXJ9"
-        }
-      ],
-      "duration_ms": 225750,
-      "name": "Hayy",
-      "url": "https://open.spotify.com/track/5Nc8J2Ie4eXi7l12C083GD"
     },
     {
       "added_at": "2025-06-27 04:38:36",

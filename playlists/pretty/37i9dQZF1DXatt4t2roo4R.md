@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatt4t2roo4R.md) - [plain]
 
 > Enjoy theTWICE fan meeting LIVE SET including the voices of them on stage! \(트와이스의 무대 멘트와 목소리가 포함된 서울 팬미팅 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,665 likes - 18 songs - 35 min 22 sec
+[Spotify](https://open.spotify.com/user/spotify) - 30,666 likes - 18 songs - 35 min 22 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatt4t2roo4R.md) - [plain]
 | 17 | [Farewell message](https://open.spotify.com/track/0oGnb633AY2oQHQqpGlTS4) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TWICE FAN MEETING \[ONCE AGAIN\] Live Experience Set audio liners](https://open.spotify.com/album/6X1M79THuagRyoiU2f7eSV) | 0:17 |
 | 18 | [CHEER UP](https://open.spotify.com/track/7lB4rxNVc7vm33ZSZXVRAQ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [PAGE TWO](https://open.spotify.com/album/6q2oUEqL9uzVXHCeKoA8JV) | 3:28 |
 
-Snapshot ID: `ZT9nSAAAAACGdtmY8WoKtLXAWG+JLnVi`
+Snapshot ID: `aGJQkgAAAABkamNktQ7r37/dvgFMSaak`

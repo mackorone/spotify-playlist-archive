@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 30 Jun 22:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 30 Jun 18:05 UTC.",
   "num_followers": 94,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAS8yYpbiHBT+XEAvQ3o1D6dFPtkpYy",
+  "snapshot_id": "AAAS+TVAT4iWtQAqsg8L90IUjcw4A8JF",
   "tracks": [
     {
       "added_at": "2025-06-27 18:04:35",
@@ -129,6 +129,38 @@
       "url": "https://open.spotify.com/track/04D3vlBBu49iC0XP7ys1i5"
     },
     {
+      "added_at": "2025-06-30 13:04:57",
+      "album": {
+        "name": "White Noise",
+        "url": "https://open.spotify.com/album/0ZQQxiHRvS6hy1N5EMn6RB"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "duration_ms": 170472,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/3IOoYGnPLIPlpRDAiQLf2v"
+    },
+    {
+      "added_at": "2025-06-30 13:04:57",
+      "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/5agU8VDl3O3RCdslS3p5Wg"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "June",
+      "url": "https://open.spotify.com/track/0cCX9hZfhr138GDXFbTemL"
+    },
+    {
       "added_at": "2025-06-28 08:04:13",
       "album": {
         "name": "Bed of Roses",
@@ -163,6 +195,26 @@
       "duration_ms": 273813,
       "name": "Samurai (feat. Troy Tyler)",
       "url": "https://open.spotify.com/track/4No5AkSyE2kw2yBx1rAA49"
+    },
+    {
+      "added_at": "2025-06-30 08:06:10",
+      "album": {
+        "name": "Home (feat. Shaboozey)",
+        "url": "https://open.spotify.com/album/50Gz1176FyXKAnBmVvc6GQ"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "Home (feat. Shaboozey)",
+      "url": "https://open.spotify.com/track/7LaLY7dkzWEtmtJ8o7oD05"
     },
     {
       "added_at": "2025-06-28 08:04:13",
@@ -413,6 +465,22 @@
       "url": "https://open.spotify.com/track/0crf7XPp15LSQ82AId28aK"
     },
     {
+      "added_at": "2025-06-30 18:05:05",
+      "album": {
+        "name": "I Just Don't Know You Yet",
+        "url": "https://open.spotify.com/album/0JSsfoRhjngp8I9rXJnpUK"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 201007,
+      "name": "I Just Don't Know You Yet",
+      "url": "https://open.spotify.com/track/7GU1xgUhSHMjc32d9zuWtF"
+    },
+    {
       "added_at": "2025-06-28 13:04:27",
       "album": {
         "name": "momo.",
@@ -443,6 +511,22 @@
       "duration_ms": 186453,
       "name": "SAVIOR",
       "url": "https://open.spotify.com/track/2vzJUdxQx6cp9VbtqkjPm7"
+    },
+    {
+      "added_at": "2025-06-30 13:04:57",
+      "album": {
+        "name": "Infestis",
+        "url": "https://open.spotify.com/album/75GfcIxZoztj8ZXQnHCxt1"
+      },
+      "artists": [
+        {
+          "name": "Igorrr",
+          "url": "https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9"
+        }
+      ],
+      "duration_ms": 326413,
+      "name": "Infestis",
+      "url": "https://open.spotify.com/track/2pd9itTuHrR5RW9e42oz2O"
     },
     {
       "added_at": "2025-06-29 18:04:05",
@@ -751,90 +835,6 @@
       "duration_ms": 153082,
       "name": "F Girl",
       "url": "https://open.spotify.com/track/5HaVN6uKNnLu3GVEmbrSBd"
-    },
-    {
-      "added_at": "2025-06-25 13:04:00",
-      "album": {
-        "name": "Characters",
-        "url": "https://open.spotify.com/album/1akjFJZ9qBJErLAvqs3Scr"
-      },
-      "artists": [
-        {
-          "name": "Corey Feldman",
-          "url": "https://open.spotify.com/artist/1hzKfT0k54Cn1HgxoOTZP9"
-        }
-      ],
-      "duration_ms": 261401,
-      "name": "Characters",
-      "url": "https://open.spotify.com/track/656k6eM7SpPjM3SVstSBag"
-    },
-    {
-      "added_at": "2025-06-20 18:04:06",
-      "album": {
-        "name": "Drive (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/5Jd8G9DMwnwK7YVlFTvdnc"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
-        }
-      ],
-      "duration_ms": 187396,
-      "name": "Drive (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/0iIcuwia47B5bzjVpyUwyI"
-    },
-    {
-      "added_at": "2025-06-20 08:03:59",
-      "album": {
-        "name": "Hammer",
-        "url": "https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 193443,
-      "name": "Hammer",
-      "url": "https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW"
-    },
-    {
-      "added_at": "2025-06-20 08:03:59",
-      "album": {
-        "name": "Unravelling",
-        "url": "https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 238002,
-      "name": "Unravelling",
-      "url": "https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9"
-    },
-    {
-      "added_at": "2025-06-20 22:04:05",
-      "album": {
-        "name": "No Time To Talk",
-        "url": "https://open.spotify.com/album/26V9XJc6hx2hOkNHs1zclk"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 155053,
-      "name": "No Time To Talk",
-      "url": "https://open.spotify.com/track/2qGj53vRPm0NEKGk6ymawI"
     }
   ],
   "unique_name": "New Singles Now",

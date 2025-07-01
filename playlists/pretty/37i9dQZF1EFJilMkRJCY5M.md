@@ -15,4 +15,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 5 | [Where Do We Go \- The Voice Performance](https://open.spotify.com/track/5a7QUeuh2OXw0SI4go5shg) | [John Holiday](https://open.spotify.com/artist/1t7W0bPXdarbjiCuEeFv2y) | [The Season 19 Collection \(The Voice Performance\)](https://open.spotify.com/album/2V28iwMeICBbv2Qqsi9gd1) | 2:27 |
 | 6 | [Write You Off](https://open.spotify.com/track/7KGGwF5Z9aKhW0TCapuLuS) | [Trinitee Stokes](https://open.spotify.com/artist/5re3mgKlh5crJ4WCL0hWD1) | [Write You Off](https://open.spotify.com/album/3IIFqpWoHad9ISmvDq5XJP) | 3:05 |
 
-Snapshot ID: `Ab1d/AAAAABOwYvCRX5Azz/8JrF2KYGz`
+Snapshot ID: `Ab1jnAAAAABxP9nk4RMeZ1gA4q5tFiU2`

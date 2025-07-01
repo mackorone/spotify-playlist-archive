@@ -686,6 +686,40 @@
     {
       "album": {
         "name": "Pa Que Sepan",
+        "url": "https://open.spotify.com/album/709GhQq0Z1aKimTNKLkIs3"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        },
+        {
+          "name": "El Primo",
+          "url": "https://open.spotify.com/artist/0NL0BLJ1i5n6askNoLoOb8"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228586,
+      "name": "Pa Que Sepan",
+      "url": "https://open.spotify.com/track/5PQUxBt32csrfY9hTjUG1G"
+    },
+    {
+      "album": {
+        "name": "Pa Que Sepan",
         "url": "https://open.spotify.com/album/7zVtF9DuwtaGFBYIL1ae4K"
       },
       "artists": [
@@ -712,7 +746,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 228586,
       "name": "Pa Que Sepan",
       "url": "https://open.spotify.com/track/1N0uyVuMLm7qK9h9RPj1Nx"

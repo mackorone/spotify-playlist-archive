@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-15",
-  "description": "The classics, the modern hits, belt them all out. ",
-  "name": "Sing-Along Indie Hits",
+  "description": "The classics, the modern hits, the genre at it's best.  Cover: The Maccabees at <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFRjoC1iWNybi\">Glastonbury 2025</a>",
+  "name": "Indie Forever ",
   "tracks": [
     {
       "album": {
@@ -2390,7 +2390,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 195666,
       "name": "Jerk It Out",
       "url": "https://open.spotify.com/track/1bx7OUl2UmAnA5oZkm9If7"
@@ -3608,6 +3608,24 @@
       "duration_ms": 187040,
       "name": "Parklife",
       "url": "https://open.spotify.com/track/3mqRLlD9j92BBv1ueFhJ1l"
+    },
+    {
+      "album": {
+        "name": "Given To The Wild",
+        "url": "https://open.spotify.com/album/7hRcDIP5CKDlCnjHVPb9qd"
+      },
+      "artists": [
+        {
+          "name": "The Maccabees",
+          "url": "https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224786,
+      "name": "Pelican",
+      "url": "https://open.spotify.com/track/0HjRzOti4wvuKwIUsjZrHM"
     },
     {
       "album": {

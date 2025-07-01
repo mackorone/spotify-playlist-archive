@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm?si=v8s16vJ1RZutRlaRvYDdTg">Lorde</a>
 
-1,247 songs - 2 day 23 hr 0 min
+1,248 songs - 2 day 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,7 +580,7 @@
 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 | 2023-03-02 | 2023-05-19 |
 | [Karma Arcade](https://open.spotify.com/track/0J9bAWjeOafeNtKO6DqeXx) | [Lakkabrah](https://open.spotify.com/artist/6TLtJV2odjb1t3Ln6V8gQR) | [Karma Arcade](https://open.spotify.com/album/6LpMhbgNRNHVlon4bkHakM) | 4:00 | 2023-03-02 | 2023-05-05 |
 | [Keep On Calling](https://open.spotify.com/track/1QrxdJdAnMERuHL4pE5WDj) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Heavyweight Champion](https://open.spotify.com/album/4lwGU1857xh1ukKDey2zJl) | 2:23 | 2024-10-17 | 2025-01-25 |
-| [Keep On Keeping On](https://open.spotify.com/track/6slN1qecSOImyahsP3Z8Mu) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Keep On Keeping On](https://open.spotify.com/album/0kivW345iYRWhl8LYC2PC0) | 4:28 | 2025-06-12 |  |
+| [Keep On Keeping On](https://open.spotify.com/track/6slN1qecSOImyahsP3Z8Mu) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Keep On Keeping On](https://open.spotify.com/album/0kivW345iYRWhl8LYC2PC0) | 4:28 | 2025-06-12 | 2025-07-01 |
 | [Keep On Rollin'](https://open.spotify.com/track/06IJd0vms8dzPpYqWEnB7Q) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [Keep On Rollin'](https://open.spotify.com/album/5gVwKSOlH9LvdB9fPCUMEJ) | 2:46 | 2024-07-26 | 2024-08-24 |
 | [Keep Running](https://open.spotify.com/track/4b02GNdHU9C7bwOfAYDorE) | [SPARKLING](https://open.spotify.com/artist/5vfmqpN6ApOjoiTG0ASdue), [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Keep Running](https://open.spotify.com/album/1gcgL4kcrkKmwGZ7vCM3s0) | 3:28 | 2025-06-05 |  |
 | [Keep you here](https://open.spotify.com/track/05qFXEqMQcfktikZlWIqye) | [Phil Higgins](https://open.spotify.com/artist/1qStsFr93Vdc1UhLWhwXFq) | [Keep you here](https://open.spotify.com/album/35vJcTu8WqS3A4Uie8Vfsr) | 3:09 | 2025-04-03 | 2025-04-19 |
@@ -768,6 +768,7 @@
 | [Old Friend](https://open.spotify.com/track/2WY82DxJJon1zXRuFLdwkg) | [David Derman](https://open.spotify.com/artist/7wxxhtLbg3D7B6q4HsYQ3A) | [Old Friend](https://open.spotify.com/album/1Vv7pCT3NRnkznBwdWyejW) | 3:09 | 2025-01-16 | 2025-06-20 |
 | [Old Kid](https://open.spotify.com/track/2AoTAhf4T80mu8VsAwf6KP) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Old Kid](https://open.spotify.com/album/3yh2CyzlRRlhaUl8fHNxKt) | 3:29 | 2024-05-03 | 2024-06-26 |
 | [Old Man](https://open.spotify.com/track/77krcHfId85O4se7W5HpTY) | [Thabo Krouwkam](https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54) | [Meet me in the middle](https://open.spotify.com/album/2lAuCRSEVMgTmdlHFJKlEq) | 3:06 | 2023-03-16 | 2023-05-19 |
+| [Old Shadows](https://open.spotify.com/track/3IWuSaxaeNuQUXOfVtEkOE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Old Shadows](https://open.spotify.com/album/0RLefy7jZBf1Dx0UlZdbRK) | 4:06 | 2025-06-26 |  |
 | [Oliver's Garden](https://open.spotify.com/track/6M9tSXVU3XmVXACv7D1tnk) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Oliver's Garden](https://open.spotify.com/album/2GS2hWDDmPb6GxT8aFx2qv) | 3:39 | 2024-02-29 | 2024-04-10 |
 | [On & On](https://open.spotify.com/track/4PWLnVy6lGzIinWqbEAAVd) | [Kristen](https://open.spotify.com/artist/6j0N2lhmdDYlPhGRQLCsIG) | [On & On](https://open.spotify.com/album/61iQKAPGhwpcgMa4lK0XWs) | 4:39 | 2022-11-03 | 2023-01-13 |
 | [On my own again](https://open.spotify.com/track/4keHHKTtwrmrsgyItSYyZR) | [Just Passing Through](https://open.spotify.com/artist/5RQczrs9bNSuwSgwACYNm6) | [On my own again](https://open.spotify.com/album/3DJs4iFFJz3bqTTpuEopA0) | 3:25 | 2023-11-24 | 2024-01-12 |
@@ -985,7 +986,7 @@
 | [Stereoscope](https://open.spotify.com/track/5oancP3AQtHfh7BuYZYknB) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Stereoscope](https://open.spotify.com/album/0e7E2Z3qltALEjHohVyJgC) | 3:55 | 2022-12-15 | 2023-02-10 |
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2024-01-11 | 2024-07-05 |
 | [Still A RockStar](https://open.spotify.com/track/0o0b7b1fpkdo0AcBE65Gk3) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [Still A RockStar](https://open.spotify.com/album/2Tj3VYZ73mhSYMZwPmNZG2) | 2:26 | 2023-09-15 | 2023-12-08 |
-| [Still Above](https://open.spotify.com/track/2aOKR3QxNyOagxfB7V8ZVa) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Still Above](https://open.spotify.com/album/38F6b7S3fHHVNfd7YT2Yvw) | 2:28 | 2025-06-26 |  |
+| [Still Above](https://open.spotify.com/track/2aOKR3QxNyOagxfB7V8ZVa) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Still Above](https://open.spotify.com/album/38F6b7S3fHHVNfd7YT2Yvw) | 2:28 | 2025-06-26 | 2025-07-01 |
 | [still around](https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [still around](https://open.spotify.com/album/590XAhSjXQGT8BfHCOaZGp) | 3:37 | 2024-08-01 | 2024-09-07 |
 | [Still Here](https://open.spotify.com/track/6qNZb2B2C0G8fmz5CjwM93) | [Gothe](https://open.spotify.com/artist/6FpFEaQbeODjVhr3dBaUwN) | [Still Here](https://open.spotify.com/album/1NFkXm5FE4zCRZo2YEledF) | 2:33 | 2023-09-07 | 2023-12-01 |
 | [Still You](https://open.spotify.com/track/2ptbWiicXwkNjNczrUn9EL) | [Ben Dey](https://open.spotify.com/artist/1rFahc69M1LAHTSpwej3c5) | [Still You](https://open.spotify.com/album/47Cdt2xqyvUJ4oFvFMCRo4) | 3:54 | 2024-10-04 | 2025-01-10 |
@@ -1232,7 +1233,7 @@
 | [Written In The Stars](https://open.spotify.com/track/3arW9nlgAquoBjZnVZmqlI) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Written In The Stars](https://open.spotify.com/album/75tepfildppNN5jqkBcEBc) | 3:38 | 2024-03-15 | 2024-06-01 |
 | [Wyoming](https://open.spotify.com/track/2DpP3gfvXqyOroXWIREwxv) | [NIRESAN](https://open.spotify.com/artist/4icnMO2iFmNmeImB5mDFFI) | [Wyoming](https://open.spotify.com/album/60hOYamHX7vgT2glXYFmbm) | 2:45 | 2023-05-05 | 2023-05-12 |
 | [X's](https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [X's](https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I) | 3:03 | 2024-07-11 | 2024-08-16 |
-| [y3llow bike](https://open.spotify.com/track/4vo4KkMSWRQCD7xpufEHdU) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [y3llow bike](https://open.spotify.com/album/2BbTCbIU80QgpujEbHHDNA) | 2:54 | 2025-06-26 | 2025-06-29 |
+| [y3llow bike](https://open.spotify.com/track/4vo4KkMSWRQCD7xpufEHdU) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [y3llow bike](https://open.spotify.com/album/2BbTCbIU80QgpujEbHHDNA) | 2:54 | 2025-06-26 |  |
 | [Yay! Saturday](https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Yay! Saturday](https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn) | 3:15 | 2025-03-06 | 2025-04-19 |
 | [You and I](https://open.spotify.com/track/2ia6zPFz6SF8ZOT5mpR2TA) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [You and I](https://open.spotify.com/album/6vD25XXvlBJCH4duRBMfYc) | 2:48 | 2025-04-10 | 2025-06-16 |
 | [You Are The Morning](https://open.spotify.com/track/42eoOh5gqlN1iazumPf4ei) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/2YEw0l5F8HCK3t6iZWzCx3) | 4:13 | 2024-12-05 | 2025-03-07 |

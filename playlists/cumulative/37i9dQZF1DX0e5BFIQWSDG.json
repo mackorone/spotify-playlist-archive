@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: RACK",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Kidd ",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -449,6 +449,32 @@
     },
     {
       "album": {
+        "name": "ATH VISION",
+        "url": "https://open.spotify.com/album/4arnueWFG9OSoHgs2Rkh31"
+      },
+      "artists": [
+        {
+          "name": "Immune",
+          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
+        },
+        {
+          "name": "XRS",
+          "url": "https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4"
+        },
+        {
+          "name": "Night Grind",
+          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186250,
+      "name": "Alaska.",
+      "url": "https://open.spotify.com/track/69OPhkj4Kd8o1Tkl1r8RJH"
+    },
+    {
+      "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
       },
@@ -808,7 +834,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 175385,
       "name": "Asteromata",
       "url": "https://open.spotify.com/track/2aE2SRm4QraCuDBNnBsRIz"
@@ -1488,7 +1514,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 147415,
       "name": "DANNY PHANTOM",
       "url": "https://open.spotify.com/track/2RrO7rBV3BpeXn04tc2Za4"
@@ -1776,6 +1802,28 @@
       "duration_ms": 136111,
       "name": "Eforia",
       "url": "https://open.spotify.com/track/5x2xRWcmjgkDkvShlGKkuR"
+    },
+    {
+      "album": {
+        "name": "EGEFALIKO",
+        "url": "https://open.spotify.com/album/2P8Wse74JI6ohaxhKdaKcp"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "EGEFALIKO",
+      "url": "https://open.spotify.com/track/6jhNVmFLWD5LPGrpLfCw67"
     },
     {
       "album": {
@@ -4222,7 +4270,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 173100,
       "name": "O Adelfos Mou",
       "url": "https://open.spotify.com/track/2AkQ6gjugPoQWIJNZK58OX"
@@ -4296,7 +4344,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 172615,
       "name": "Oh Mama",
       "url": "https://open.spotify.com/track/1Q8rZrajPF6SP6casHTMVA"
@@ -4502,6 +4550,24 @@
       "duration_ms": 171538,
       "name": "Panselinos",
       "url": "https://open.spotify.com/track/230Aews21zrVVeaebAndZG"
+    },
+    {
+      "album": {
+        "name": "PARANO\u00d3",
+        "url": "https://open.spotify.com/album/095rtat4UlMpWphQtm90MN"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186782,
+      "name": "PARANO\u00d3",
+      "url": "https://open.spotify.com/track/71Wpk4WMKsYXni1bKi1CsD"
     },
     {
       "album": {
@@ -4840,7 +4906,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 126923,
       "name": "Pos Pernao",
       "url": "https://open.spotify.com/track/2luaR63Wr8oFc4OdVPP8Lz"
@@ -5207,6 +5273,32 @@
     },
     {
       "album": {
+        "name": "ATH VISION",
+        "url": "https://open.spotify.com/album/4arnueWFG9OSoHgs2Rkh31"
+      },
+      "artists": [
+        {
+          "name": "Immune",
+          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
+        },
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168125,
+      "name": "Serial Skillers.",
+      "url": "https://open.spotify.com/track/0Yf9iboLbRggE5US6tBvLA"
+    },
+    {
+      "album": {
         "name": "SHOOTER ME TN",
         "url": "https://open.spotify.com/album/12L9wurTgo8rckZsWH9EG5"
       },
@@ -5442,6 +5534,24 @@
       "duration_ms": 160210,
       "name": "SOUKOU",
       "url": "https://open.spotify.com/track/4PsVvvUDG0Fg5iG6P41JDF"
+    },
+    {
+      "album": {
+        "name": "SPAASTO",
+        "url": "https://open.spotify.com/album/6WgB7iG1LdmcXzcfWrzL0Z"
+      },
+      "artists": [
+        {
+          "name": "Yolte",
+          "url": "https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157966,
+      "name": "SPAASTO",
+      "url": "https://open.spotify.com/track/0CBtVtgFoE1x4Aqc6AvKJy"
     },
     {
       "album": {

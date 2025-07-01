@@ -1,6 +1,6 @@
 {
   "description": "Chilled out dance classics to set the mood.",
-  "num_followers": 66890,
+  "num_followers": 66906,
   "original_name": "Chill Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
+        "name": "Moon Safari",
+        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "Kelly Watch the Stars",
+      "url": "https://open.spotify.com/track/5tR13oIwi5J3elcTZPTTIU"
+    },
+    {
+      "added_at": "2024-12-17 13:01:13",
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 234400,
       "name": "Starlight - Radio Edit",
       "url": "https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY"
-    },
-    {
-      "added_at": "2024-12-17 13:01:13",
-      "album": {
-        "name": "Moon Safari",
-        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        }
-      ],
-      "duration_ms": 226293,
-      "name": "Kelly Watch the Stars",
-      "url": "https://open.spotify.com/track/5tR13oIwi5J3elcTZPTTIU"
     },
     {
       "added_at": "2024-12-17 13:01:13",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
+        "name": "Northern Sulphuric Soul",
+        "url": "https://open.spotify.com/album/75yPpdG1AXCXQf2E2jFfj9"
+      },
+      "artists": [
+        {
+          "name": "Rae & Christian",
+          "url": "https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn"
+        },
+        {
+          "name": "Veba",
+          "url": "https://open.spotify.com/artist/6j2ae9lkLM3apxccKUu5dJ"
+        }
+      ],
+      "duration_ms": 344933,
+      "name": "Spellbound (feat. Veba)",
+      "url": "https://open.spotify.com/track/1qs0vlA9FdaV5NkPBR4Urg"
+    },
+    {
+      "added_at": "2024-12-17 13:01:13",
+      "album": {
         "name": "Sun Is Shining (Remixes)",
         "url": "https://open.spotify.com/album/4l8hxXnWvWObUZEuyWzyjs"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 226080,
       "name": "In My Arms",
       "url": "https://open.spotify.com/track/11oHw0rlJ9A5TR8GUoe32Q"
-    },
-    {
-      "added_at": "2024-12-17 13:01:13",
-      "album": {
-        "name": "Northern Sulphuric Soul",
-        "url": "https://open.spotify.com/album/75yPpdG1AXCXQf2E2jFfj9"
-      },
-      "artists": [
-        {
-          "name": "Rae & Christian",
-          "url": "https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn"
-        },
-        {
-          "name": "Veba",
-          "url": "https://open.spotify.com/artist/6j2ae9lkLM3apxccKUu5dJ"
-        }
-      ],
-      "duration_ms": 344933,
-      "name": "Spellbound (feat. Veba)",
-      "url": "https://open.spotify.com/track/1qs0vlA9FdaV5NkPBR4Urg"
     },
     {
       "added_at": "2024-12-17 13:01:13",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
-        "name": "Destroy Rock & Roll",
-        "url": "https://open.spotify.com/album/4bmRs1mbIqoZXpxAzCRQ7E"
+        "name": "Season High",
+        "url": "https://open.spotify.com/album/5WQJ8sVhjbhhQ0ReiilyO2"
       },
       "artists": [
         {
-          "name": "Mylo",
-          "url": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 255600,
-      "name": "Drop The Pressure",
-      "url": "https://open.spotify.com/track/4ctPexpFIKzjWl4sI7pxeR"
+      "duration_ms": 256973,
+      "name": "High",
+      "url": "https://open.spotify.com/track/3D049Sbjbtn5PjKFSlcv2R"
     }
   ],
   "unique_name": "Chill Dance Classics",

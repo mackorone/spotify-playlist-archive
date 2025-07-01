@@ -1,6 +1,6 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 635090,
+  "num_followers": 635082,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
+        "name": "Duerme En Paz",
+        "url": "https://open.spotify.com/album/63RkToY6nto4dKQDxqgMrG"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 184760,
+      "name": "Duerme En Paz",
+      "url": "https://open.spotify.com/track/7cWBIjCBlHSC8q6OND9GUz"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
         "name": "Otros Colores",
         "url": "https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 351813,
       "name": "Otros Colores",
       "url": "https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
-        "name": "Duerme En Paz",
-        "url": "https://open.spotify.com/album/63RkToY6nto4dKQDxqgMrG"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 184760,
-      "name": "Duerme En Paz",
-      "url": "https://open.spotify.com/track/7cWBIjCBlHSC8q6OND9GUz"
     },
     {
       "added_at": "2024-07-11 01:38:58",

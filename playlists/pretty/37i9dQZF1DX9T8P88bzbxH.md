@@ -1,39 +1,41 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain](/playlists/plain/37i9dQZF1DX9T8P88bzbxH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9T8P88bzbxH)
 
-### [On Tour Singapore: KRU](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
+### [On Tour Singapore: BE:FIRST](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
 
-> Counting down to genKRU\. Cover:KRU
+> Singapore, are you ready to B\(E\): shook?!\. Cover:BE:FIRST
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,797 likes - 27 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,779 likes - 29 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fanatik](https://open.spotify.com/track/2pbvzcBKRhrJ7hsdQGBLMj) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Krumania](https://open.spotify.com/album/159IVAysnJvnbGhsdCjk1j) | 3:54 |
-| 2 | [Malam Kita \- From "Awas Da'" Soundtrack](https://open.spotify.com/track/2OaMDMduCcT5bEe4O7hUWc) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Krumania](https://open.spotify.com/album/159IVAysnJvnbGhsdCjk1j) | 3:44 |
-| 3 | [Ooh ! La ! La !](https://open.spotify.com/track/0U8QhvzNOarrTpvc9E26of) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Krumania](https://open.spotify.com/album/159IVAysnJvnbGhsdCjk1j) | 3:31 |
-| 4 | [Babe](https://open.spotify.com/track/5NT8p8pY7ue1V64mZMlcro) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Relax](https://open.spotify.com/album/4lDtBxeWeNlEWRT0JmU046) | 4:39 |
-| 5 | [The Way We Jam](https://open.spotify.com/track/7kuFgquHQ5dgdt5wnjB1lD) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [The Way We Jam](https://open.spotify.com/album/4XLALu8f0eqEUEmivyqqZZ) | 3:58 |
-| 6 | [Untukmu](https://open.spotify.com/track/3m41NIcEUPGoQ8GkgN505F) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Krumania](https://open.spotify.com/album/159IVAysnJvnbGhsdCjk1j) | 3:42 |
-| 7 | [Terhangat Di Pasaran](https://open.spotify.com/track/2iig41qdMzrDQY7kGP9R7j) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [1](https://open.spotify.com/album/1BkMZ9WN8wIFxQP2xxutfp) | 3:58 |
-| 8 | [Balada Hati](https://open.spotify.com/track/4hUrx6p5a18GrPvjkEEDHa) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Ooh La ! La!](https://open.spotify.com/album/1WbKFr38t3WJqbw7iteihJ) | 3:50 |
-| 9 | [Di Dalam Dilema](https://open.spotify.com/track/2cRdlF0vzN7pLmKOgcEIpU) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Krumania](https://open.spotify.com/album/159IVAysnJvnbGhsdCjk1j) | 4:21 |
-| 10 | [Perpisahan Terasing](https://open.spotify.com/track/4GveWPWH20C57VJJuTN9C3) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Relax](https://open.spotify.com/album/4lDtBxeWeNlEWRT0JmU046) | 3:48 |
-| 11 | [Semuanya Ok](https://open.spotify.com/track/3ipddyjTmrzKFuNTxLuLft) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Ooh La ! La!](https://open.spotify.com/album/1WbKFr38t3WJqbw7iteihJ) | 4:45 |
-| 12 | [Voodoo](https://open.spotify.com/track/4JdRfb2Om3i2GEeniJTw31) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Kaset](https://open.spotify.com/album/7J9EgZ74dLsD1WnFOVBYEC) | 3:11 |
-| 13 | [Bidadari](https://open.spotify.com/track/4TLgTlshUcNcn6ROGl9Bme) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [1](https://open.spotify.com/album/1BkMZ9WN8wIFxQP2xxutfp) | 4:04 |
-| 14 | [Hingga Ke Jannah](https://open.spotify.com/track/05X28mQCKUZC4L6CQM5X1R) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Hingga Ke Jannah](https://open.spotify.com/album/04CpcTCVnMrbFojDFqU9Rd) | 4:02 |
-| 15 | [Dekat Padamu](https://open.spotify.com/track/7pgSyHqsaLLpSbwJviiaUc) | [Yusry](https://open.spotify.com/artist/2iyy2sHwFQPTEFotohO3PL) | [Yusry](https://open.spotify.com/album/0Ur7iOCnHB85eygTQkVPFT) | 3:45 |
-| 16 | [Wanita](https://open.spotify.com/track/3Xl0lyJPBtmgHM2BWSLh6d) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [KRUNOMENA](https://open.spotify.com/album/5cnGCiIwODHnfhmEZTIXvp) | 4:10 |
-| 17 | [Apa Saja](https://open.spotify.com/track/7wRExqBgvdFguGNmyWo1sn) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Ooh La ! La!](https://open.spotify.com/album/1WbKFr38t3WJqbw7iteihJ) | 4:16 |
-| 18 | [Penjunjung Namaku](https://open.spotify.com/track/6tiwkcx3mZcxVXnl9rfQln) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Penjunjung Namaku](https://open.spotify.com/album/05RgmCOZEw6trg1H4DNajd) | 4:41 |
-| 19 | [Negatif](https://open.spotify.com/track/4PIV2ks2I6smYOKIhSV1Hl) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Awas Da' \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2OX3UMahSOxkrTndedHmPc) | 3:54 |
-| 20 | [Di Pintu Syurga \(feat\. KRU\)](https://open.spotify.com/track/5g4NdrlKNjS37D4L7DbREN) | [Elite](https://open.spotify.com/artist/7Mn5ZYx012rbUZqpRe3UVd), [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Merbahaya](https://open.spotify.com/album/2H8SBjtZzq1wiCM3uouh0K) | 4:09 |
-| 21 | ['2'](https://open.spotify.com/track/5fRKjpwrYa1pvy3Y8CMHgC) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Krumania](https://open.spotify.com/album/159IVAysnJvnbGhsdCjk1j) | 4:05 |
-| 22 | [Maniamedley : Hanya Kau/Inikah Ertinya Cinta/Katanya](https://open.spotify.com/track/7FvXnRn04dzBDMnQcjIpqV) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Krumania](https://open.spotify.com/album/159IVAysnJvnbGhsdCjk1j) | 4:05 |
-| 23 | [Mengerti](https://open.spotify.com/track/1cTgRiNPoY83RW7avBcVkq) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [reKRUed](https://open.spotify.com/album/5WTrT2e7UknnrUupAkKtzO) | 5:13 |
-| 24 | [One More Time](https://open.spotify.com/track/0VNsUOX6Obyr7HnEGyqNCR) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Kaset](https://open.spotify.com/album/7J9EgZ74dLsD1WnFOVBYEC) | 3:25 |
-| 25 | [Janji Tinggal Janji](https://open.spotify.com/track/2jUiqwQqk0i8w1lpVQjPbv) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Awas](https://open.spotify.com/album/5KLvoQsTmfYqCQA0EuAJMz) | 5:29 |
-| 26 | [Jangan Lafazkan](https://open.spotify.com/track/5BLrI963t8pf71B7Btft7w) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Formula Luarbiasa](https://open.spotify.com/album/44or9XcQd4aoLMkitdCq4l) | 4:51 |
-| 27 | [Awas \- From "Awas Da'" Soundtrack](https://open.spotify.com/track/708xFXhokGomRBPQD1qEh2) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Krumania](https://open.spotify.com/album/159IVAysnJvnbGhsdCjk1j) | 4:28 |
+| 1 | [Slogan](https://open.spotify.com/track/1xEm0K1U5Md7Zkne7gcy1z) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [2:BE](https://open.spotify.com/album/74A3CHRxkm987Bu4P1iBmA) | 4:02 |
+| 2 | [Masterplan](https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Masterplan](https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz) | 3:32 |
+| 3 | [SOS](https://open.spotify.com/track/3gahDIUGQT0Hlmf5zNN4ta) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 2:56 |
+| 4 | [Scream](https://open.spotify.com/track/2jUMhjwi5VZ6GqKGZlVg6F) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:1](https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU) | 3:20 |
+| 5 | [Set Sail](https://open.spotify.com/track/3r4kSAvYtaJVwOMZlRbz9r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Set Sail](https://open.spotify.com/album/47O8KlrVbHaKT72WDG2Vm4) | 3:13 |
+| 6 | [Don’t Wake Me Up](https://open.spotify.com/track/75kDBnxxZLRLJoP7qyVuTX) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Don’t Wake Me Up](https://open.spotify.com/album/4jtphbkIygNlWbAvstfIIv) | 3:08 |
+| 7 | [Be Free](https://open.spotify.com/track/1gkMRPtiFmuEIZxJ1QVjhg) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:1](https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU) | 3:26 |
+| 8 | [Moment](https://open.spotify.com/track/4RdQhcEkhnPY17VCWfCdxq) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:1](https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU) | 3:44 |
+| 9 | [Shining One \- Re\-recorded](https://open.spotify.com/track/4ZCKplVZiAfTLeySjuPoVG) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:1](https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU) | 4:03 |
+| 10 | [Selfish](https://open.spotify.com/track/7sPovaWj1hDSk6BhukqH2p) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [2:BE](https://open.spotify.com/album/74A3CHRxkm987Bu4P1iBmA) | 2:27 |
+| 11 | [Genesis](https://open.spotify.com/track/7bzePvFROyGUqzUUoLsynj) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [2:BE](https://open.spotify.com/album/74A3CHRxkm987Bu4P1iBmA) | 3:58 |
+| 12 | [Metamorphose](https://open.spotify.com/track/0aTAZtzSPuPHQeSlHOsJjq) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [2:BE](https://open.spotify.com/album/74A3CHRxkm987Bu4P1iBmA) | 4:06 |
+| 13 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 |
+| 14 | [Milli\-Billi](https://open.spotify.com/track/0WskyMK2ZJ5dI16yPxXZH5) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:1](https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU) | 3:10 |
+| 15 | [Guilty](https://open.spotify.com/track/4ryQnm1aEIEVbNlaHRmvI2) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [2:BE](https://open.spotify.com/album/74A3CHRxkm987Bu4P1iBmA) | 2:36 |
+| 16 | [Bump Around](https://open.spotify.com/track/2E9XFJkz6g0rdJzECr4fXH) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [2:BE](https://open.spotify.com/album/74A3CHRxkm987Bu4P1iBmA) | 2:48 |
+| 17 | [BF is...](https://open.spotify.com/track/3qBnGCOxeKwfHALoFqziRi) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:1](https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU) | 1:59 |
+| 18 | [Brave Generation](https://open.spotify.com/track/319hYPTY4Gaa38ZP7Vp0J3) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Brave Generation](https://open.spotify.com/album/4A4lrueCMNi1OqfcpUwjjA) | 2:45 |
+| 19 | [Boom Boom Back](https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Boom Boom Back](https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd) | 3:08 |
+| 20 | [Smile Again \- From THE FIRST TAKE](https://open.spotify.com/track/6sbDxX1lFOGdOzTP7OYzPa) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Smile Again \- From THE FIRST TAKE](https://open.spotify.com/album/2lusl5qW5w8FTgsT1Skvwo) | 3:50 |
+| 21 | [誰よりも](https://open.spotify.com/track/0Jor9YHb8VKmMpboe7ZdUF) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Spacecraft / Sailing](https://open.spotify.com/album/7t2KBW7fFGH4OzsmGBosKY) | 4:59 |
+| 22 | [Sapphire](https://open.spotify.com/track/0Skp8iI6f3NqOLrey6h4IS) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [2:BE](https://open.spotify.com/album/74A3CHRxkm987Bu4P1iBmA) | 3:19 |
+| 23 | [Grow Up](https://open.spotify.com/track/6zDdJuNxffMhQWr8IE4S7k) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:16 |
+| 24 | [Sailing](https://open.spotify.com/track/3Bfv3Wg4HAhNFdVgWSfT0z) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sailing](https://open.spotify.com/album/6EFHqgUZQ2vAgXwcXJqHsh) | 3:06 |
+| 25 | [Glorious](https://open.spotify.com/track/2P7T4KMNrQ7mLXERZHhWYE) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Glorious](https://open.spotify.com/album/06IMFQkTogfHf8PUl9UPZa) | 4:41 |
+| 26 | [Great Mistakes](https://open.spotify.com/track/1XOFm0r3HBeVKfCL0cCKBv) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Smile Again](https://open.spotify.com/album/7aIMR4kB87X92XrEzK6L6M) | 4:17 |
+| 27 | [Bye\-Good\-Bye \- From THE FIRST TAKE](https://open.spotify.com/track/6mcBjdVT0Ruf1sp2pwmQ0P) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Bye\-Good\-Bye \- From THE FIRST TAKE](https://open.spotify.com/album/5CVMu4FEXVopp81yjJpMDC) | 2:59 |
+| 28 | [Blissful](https://open.spotify.com/track/2H1rVi4N3UPddfw5JSXETf) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Blissful](https://open.spotify.com/album/3I9GqQlys7OiNis3Z0fduA) | 3:30 |
+| 29 | [Spacecraft](https://open.spotify.com/track/5pg2M78HkonLV5EMddMEYy) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Spacecraft / Sailing](https://open.spotify.com/album/7t2KBW7fFGH4OzsmGBosKY) | 3:13 |
 
-Snapshot ID: `aFt0SAAAAAAGg7cxWCyUaIXd6snqWYKW`
+Snapshot ID: `aGIhuAAAAACACeiTZ4d6Q6IdVEw4/loa`

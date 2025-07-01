@@ -1,31 +1,75 @@
 {
   "description": "<a href=\"spotify:artist:2xeHjPrS4EnEUIXHV9pkeg\">Monika Kruse</a>'s favorite tracks. Updated regularly. Curated by Monika Kruse. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 60440,
+  "num_followers": 60451,
   "original_name": "Monika Kruse's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDXMsgAAAADa0HIVEhJSI/BzuOgtO3gx",
+  "snapshot_id": "aGKPfgAAAAB2dhlrfR1BmpNBW9LsLCKw",
   "tracks": [
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
-        "name": "Elements (2025 Version)",
-        "url": "https://open.spotify.com/album/4pYcTonZ4hitpk6SwH6AyJ"
+        "name": "Elements (Kos:mo Remix)",
+        "url": "https://open.spotify.com/album/3o2ErP21NRpAXpZw99CVGi"
       },
       "artists": [
         {
           "name": "Joyhauser",
           "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        },
+        {
+          "name": "Kos:mo",
+          "url": "https://open.spotify.com/artist/0DlU4o8v7xq5AnJTFb6onr"
         }
       ],
-      "duration_ms": 286222,
-      "name": "Elements - 2025 Version",
-      "url": "https://open.spotify.com/track/2Xlrvz5glGkpswlWBXfx8A"
+      "duration_ms": 222408,
+      "name": "Elements - Kos:mo Remix",
+      "url": "https://open.spotify.com/track/0Koe78ebVuRuT97Ip8TjAJ"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
+      "album": {
+        "name": "Get on Up (Thomas Schumacher Remix)",
+        "url": "https://open.spotify.com/album/7DPARZkuwu9raIxNLxXtbU"
+      },
+      "artists": [
+        {
+          "name": "DJ Rush",
+          "url": "https://open.spotify.com/artist/6gBmUpKvNYtnQTSLK5vwS5"
+        },
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "Get on Up - Thomas Schumacher Remix",
+      "url": "https://open.spotify.com/track/6gRyvSaRr7HHQCD0RPmLvk"
+    },
+    {
+      "added_at": "2025-06-30 13:16:33",
+      "album": {
+        "name": "Forgiveness",
+        "url": "https://open.spotify.com/album/4GVwUApbNBwTeGmXS5Erbn"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "duration_ms": 242613,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/37itFci9FvClfeIWw57HZm"
+    },
+    {
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Flashback 98",
         "url": "https://open.spotify.com/album/4qL2gku5i5jFNLfLO9NvRP"
@@ -41,7 +85,95 @@
       "url": "https://open.spotify.com/track/2jfIBEjBw8aaWKXbouaMeV"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
+      "album": {
+        "name": "Timballe",
+        "url": "https://open.spotify.com/album/7Brsoniwb0lB2RA8Y7UhhY"
+      },
+      "artists": [
+        {
+          "name": "Hertz",
+          "url": "https://open.spotify.com/artist/2tH4HqwEi0m5fBvB2dB7q7"
+        }
+      ],
+      "duration_ms": 364782,
+      "name": "Timballe",
+      "url": "https://open.spotify.com/track/60cY5llk1eegolarRcSNc6"
+    },
+    {
+      "added_at": "2025-06-30 13:16:33",
+      "album": {
+        "name": "Geht's noch? (21 Year Anniversary Pt. 1)",
+        "url": "https://open.spotify.com/album/6KbnDVQVCobouAN8Mkc0B4"
+      },
+      "artists": [
+        {
+          "name": "Roman Fl\u00fcgel",
+          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
+        },
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        }
+      ],
+      "duration_ms": 248757,
+      "name": "Geht's noch? - DJ Gigola Remix",
+      "url": "https://open.spotify.com/track/00V7ezFmvR4wv4m7f9PC5A"
+    },
+    {
+      "added_at": "2025-06-30 13:16:33",
+      "album": {
+        "name": "Latin Lovers (Joyhauser Remix & Original)",
+        "url": "https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9"
+      },
+      "artists": [
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        },
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "duration_ms": 275394,
+      "name": "Latin Lovers - Joyhauser Remix",
+      "url": "https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe"
+    },
+    {
+      "added_at": "2025-06-30 13:16:33",
+      "album": {
+        "name": "Lie To Me EP",
+        "url": "https://open.spotify.com/album/090vzZOPg53veMFMRvrDNx"
+      },
+      "artists": [
+        {
+          "name": "ADRIANNA",
+          "url": "https://open.spotify.com/artist/2MbVbvDiFOL7jkbrrbev2e"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/74G9RmDoDdfIXWu5eZl5wf"
+    },
+    {
+      "added_at": "2025-06-30 13:16:33",
+      "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/09PL1DLVuN2d1jalOxN0YW"
+      },
+      "artists": [
+        {
+          "name": "Deas",
+          "url": "https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "Praxis",
+      "url": "https://open.spotify.com/track/0MtwHrm2IbkKrkJV6yjk6k"
+    },
+    {
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Rave In Progress",
         "url": "https://open.spotify.com/album/1ztHPyz3cgni4HKz6riaKy"
@@ -57,7 +189,7 @@
       "url": "https://open.spotify.com/track/5jA6W1bb3pQMNHi0wHiJKl"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "OK Cowboy",
         "url": "https://open.spotify.com/album/3FbISaAK2oqQeLZACLifbo"
@@ -73,7 +205,23 @@
       "url": "https://open.spotify.com/track/6PSRMbqr5se9zwl5iOYOA8"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
+      "album": {
+        "name": "Elements (2025 Version)",
+        "url": "https://open.spotify.com/album/4pYcTonZ4hitpk6SwH6AyJ"
+      },
+      "artists": [
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "duration_ms": 286222,
+      "name": "Elements - 2025 Version",
+      "url": "https://open.spotify.com/track/2Xlrvz5glGkpswlWBXfx8A"
+    },
+    {
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "One Black Water (feat. Ann Saunderson)",
         "url": "https://open.spotify.com/album/2jrsxvCwt54MyWQmP4ei4T"
@@ -89,7 +237,7 @@
       "url": "https://open.spotify.com/track/3etLHAzGr30F9G4bnUpdxw"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Visage",
         "url": "https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf"
@@ -105,7 +253,7 @@
       "url": "https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/7kSy6ombCbIFSNam2gHQCN"
@@ -125,7 +273,7 @@
       "url": "https://open.spotify.com/track/3gvYQtB3CygqRQWjjTWkhs"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Relax Shiva",
         "url": "https://open.spotify.com/album/0Qp3gmNLo5zqYutS7F0wDe"
@@ -141,7 +289,7 @@
       "url": "https://open.spotify.com/track/6bU5V5LKTHjFB9LvJaH0xH"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Matsuri EP",
         "url": "https://open.spotify.com/album/5CrbmrplXiGnsZmcgaTg7m"
@@ -157,7 +305,7 @@
       "url": "https://open.spotify.com/track/5uhXRg7LMsxdW1eTw2SGTM"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "FORTE Remixes, Pt. 03",
         "url": "https://open.spotify.com/album/4NtqbbyvHWB1Kh2kymZuZB"
@@ -177,7 +325,7 @@
       "url": "https://open.spotify.com/track/6HsCh1GDrlQGweh7b2Azfz"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "The Unreleased Remixes, Vol. 1",
         "url": "https://open.spotify.com/album/0exX6L0mEtWcfdrvW3TwyT"
@@ -201,7 +349,7 @@
       "url": "https://open.spotify.com/track/0WAjrqMeLz454UkhCdU4lM"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Master Builder",
         "url": "https://open.spotify.com/album/6Umt2xMwWoj9gEmYcLG9z5"
@@ -217,7 +365,7 @@
       "url": "https://open.spotify.com/track/0VXlsl05NU7TqdaWoO37G0"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Stellar Supreme",
         "url": "https://open.spotify.com/album/5AAplsR4z2IPe3OHTMh8pG"
@@ -233,95 +381,7 @@
       "url": "https://open.spotify.com/track/1EVcwkS78suHfb2ccKAMxH"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
-      "album": {
-        "name": "15 Years Fuse",
-        "url": "https://open.spotify.com/album/6Ik2NGMSRgVqRG0mFClYpD"
-      },
-      "artists": [
-        {
-          "name": "Reload",
-          "url": "https://open.spotify.com/artist/42ySDEdAKhW9TbGMzSkPEn"
-        }
-      ],
-      "duration_ms": 312080,
-      "name": "Peschi",
-      "url": "https://open.spotify.com/track/7IlCcIbnOGJ8VViES1AOXo"
-    },
-    {
-      "added_at": "2025-05-27 14:31:14",
-      "album": {
-        "name": "Elements (Kos:mo Remix)",
-        "url": "https://open.spotify.com/album/3o2ErP21NRpAXpZw99CVGi"
-      },
-      "artists": [
-        {
-          "name": "Joyhauser",
-          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
-        },
-        {
-          "name": "Kos:mo",
-          "url": "https://open.spotify.com/artist/0DlU4o8v7xq5AnJTFb6onr"
-        }
-      ],
-      "duration_ms": 222408,
-      "name": "Elements - Kos:mo Remix",
-      "url": "https://open.spotify.com/track/0Koe78ebVuRuT97Ip8TjAJ"
-    },
-    {
-      "added_at": "2025-05-27 14:31:14",
-      "album": {
-        "name": "Lyot",
-        "url": "https://open.spotify.com/album/2aNGYVrqKInBgdMHk93AhW"
-      },
-      "artists": [
-        {
-          "name": "Vainqueur",
-          "url": "https://open.spotify.com/artist/3X6ixxUtf9bJr1aZbhFuia"
-        },
-        {
-          "name": "Maurizio",
-          "url": "https://open.spotify.com/artist/7wuxcFzhQIFmPdZAOAZRro"
-        }
-      ],
-      "duration_ms": 429025,
-      "name": "Lyot - Maurizio Mix",
-      "url": "https://open.spotify.com/track/52s4racNrmo1iPwZyYQq08"
-    },
-    {
-      "added_at": "2025-05-27 14:31:14",
-      "album": {
-        "name": "Warm Vibes",
-        "url": "https://open.spotify.com/album/1J8JYqCBf5o9Sp9MAFXbze"
-      },
-      "artists": [
-        {
-          "name": "Ilario Alicante",
-          "url": "https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD"
-        }
-      ],
-      "duration_ms": 589606,
-      "name": "Vacaciones En Chile - Original Mix",
-      "url": "https://open.spotify.com/track/7CKsgEdJNFTDqWgk3XD1XB"
-    },
-    {
-      "added_at": "2025-05-27 14:31:14",
-      "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/5761VhMoUzFCyx9jjD62kn"
-      },
-      "artists": [
-        {
-          "name": "Laurent Garnier",
-          "url": "https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ"
-        }
-      ],
-      "duration_ms": 352093,
-      "name": "Crispy Bacon",
-      "url": "https://open.spotify.com/track/3PQGdUJ9GTKv0EttfvPlii"
-    },
-    {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Morgana (Patrik Berg Remix)",
         "url": "https://open.spotify.com/album/28I5ZkX8KgjS9t3wQjYD5e"
@@ -345,7 +405,75 @@
       "url": "https://open.spotify.com/track/5jX7yGmfqoDPJTrUucLAGi"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
+      "album": {
+        "name": "15 Years Fuse",
+        "url": "https://open.spotify.com/album/6Ik2NGMSRgVqRG0mFClYpD"
+      },
+      "artists": [
+        {
+          "name": "Reload",
+          "url": "https://open.spotify.com/artist/42ySDEdAKhW9TbGMzSkPEn"
+        }
+      ],
+      "duration_ms": 312080,
+      "name": "Peschi",
+      "url": "https://open.spotify.com/track/7IlCcIbnOGJ8VViES1AOXo"
+    },
+    {
+      "added_at": "2025-06-30 13:16:33",
+      "album": {
+        "name": "Lyot",
+        "url": "https://open.spotify.com/album/2aNGYVrqKInBgdMHk93AhW"
+      },
+      "artists": [
+        {
+          "name": "Vainqueur",
+          "url": "https://open.spotify.com/artist/3X6ixxUtf9bJr1aZbhFuia"
+        },
+        {
+          "name": "Maurizio",
+          "url": "https://open.spotify.com/artist/7wuxcFzhQIFmPdZAOAZRro"
+        }
+      ],
+      "duration_ms": 429025,
+      "name": "Lyot - Maurizio Mix",
+      "url": "https://open.spotify.com/track/52s4racNrmo1iPwZyYQq08"
+    },
+    {
+      "added_at": "2025-06-30 13:16:33",
+      "album": {
+        "name": "Warm Vibes",
+        "url": "https://open.spotify.com/album/1J8JYqCBf5o9Sp9MAFXbze"
+      },
+      "artists": [
+        {
+          "name": "Ilario Alicante",
+          "url": "https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD"
+        }
+      ],
+      "duration_ms": 589606,
+      "name": "Vacaciones En Chile - Original Mix",
+      "url": "https://open.spotify.com/track/7CKsgEdJNFTDqWgk3XD1XB"
+    },
+    {
+      "added_at": "2025-06-30 13:16:33",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/5761VhMoUzFCyx9jjD62kn"
+      },
+      "artists": [
+        {
+          "name": "Laurent Garnier",
+          "url": "https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ"
+        }
+      ],
+      "duration_ms": 352093,
+      "name": "Crispy Bacon",
+      "url": "https://open.spotify.com/track/3PQGdUJ9GTKv0EttfvPlii"
+    },
+    {
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Dubnobasswithmyheadman (Deluxe / 20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0DDUsPuwNlVuclPWAGodJm"
@@ -361,7 +489,7 @@
       "url": "https://open.spotify.com/track/268kiUnIMPZ68qBkebifQ8"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Bang the Acid",
         "url": "https://open.spotify.com/album/4hVBAB0g7RRmRA1W7dc2Yp"
@@ -381,7 +509,7 @@
       "url": "https://open.spotify.com/track/5UkWN23dIRYNyhyZMstllC"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Along Came Polly (Konstantin Sibold, ZAC, CARMEE Remix)",
         "url": "https://open.spotify.com/album/7md037HhJVbNKMR6V2y4JE"
@@ -409,7 +537,7 @@
       "url": "https://open.spotify.com/track/5EkSIWWEX7zkFTtSO28vT7"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "New Ground",
         "url": "https://open.spotify.com/album/5rjYLWvIVnxIl0ZNsAFuA8"
@@ -425,7 +553,7 @@
       "url": "https://open.spotify.com/track/7GVdZLoqSA0g6Bb3aBNIhs"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Virton",
         "url": "https://open.spotify.com/album/77pz7iks2dLTGM7qg6myug"
@@ -441,7 +569,7 @@
       "url": "https://open.spotify.com/track/4qH4qZnaKhucSVKh9KiVun"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Opus (Four Tet Remix)",
         "url": "https://open.spotify.com/album/5T4TrDstGCVdlsnO4UY62g"
@@ -461,7 +589,7 @@
       "url": "https://open.spotify.com/track/3Iw9Nr3rmMM7L4FjSV7DEB"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "The Unexpected",
         "url": "https://open.spotify.com/album/2sQexrsGSYkPFOf2Q9em0z"
@@ -477,7 +605,7 @@
       "url": "https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Ruido",
         "url": "https://open.spotify.com/album/7liISDyH8p6tA0GFI7VM8H"
@@ -501,27 +629,7 @@
       "url": "https://open.spotify.com/track/3Fz8HBV1rqhOOS2U3z7ZJv"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
-      "album": {
-        "name": "Latin Lovers (Joyhauser Remix & Original)",
-        "url": "https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9"
-      },
-      "artists": [
-        {
-          "name": "Monika Kruse",
-          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
-        },
-        {
-          "name": "Joyhauser",
-          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
-        }
-      ],
-      "duration_ms": 275394,
-      "name": "Latin Lovers - Joyhauser Remix",
-      "url": "https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe"
-    },
-    {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Liberation",
         "url": "https://open.spotify.com/album/5psarqr01rwI6kCunirmPH"
@@ -537,7 +645,7 @@
       "url": "https://open.spotify.com/track/6911NPonhnEchVYqpApQ1D"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "False Gods",
         "url": "https://open.spotify.com/album/7yIxQyxZp3Cye9aFVzqIW2"
@@ -557,7 +665,7 @@
       "url": "https://open.spotify.com/track/0VzDvwt6AIcZUw4trondEc"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Afghan Acid",
         "url": "https://open.spotify.com/album/4mSm0RbsnDTUVXEZuUEMq0"
@@ -581,7 +689,7 @@
       "url": "https://open.spotify.com/track/1ZcT8Ldh2EtrtfYZJpuDob"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Manic Panic",
         "url": "https://open.spotify.com/album/3Xw7VQekMw6EgrhBP2ZqBz"
@@ -597,7 +705,7 @@
       "url": "https://open.spotify.com/track/3dExdqxMCXoIdSlvncHqnz"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Fly Life (Hilit Kolet Edit)",
         "url": "https://open.spotify.com/album/3VnWmGZUz3zOaFcvT1H4jX"
@@ -617,7 +725,7 @@
       "url": "https://open.spotify.com/track/0OYSfNOT8zvyaSVihEiVDD"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Aritmia",
         "url": "https://open.spotify.com/album/6a5d9G2Z1n6bcOyfcnmsc3"
@@ -633,7 +741,7 @@
       "url": "https://open.spotify.com/track/3CrNzTWCOJXDg8sQGq92Iu"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Dimension Intrusion (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3BSEkF5PStiNQYKZB2RQKE"
@@ -653,7 +761,7 @@
       "url": "https://open.spotify.com/track/15OAhM2KvgLrBoDp5PhAgQ"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Nebula",
         "url": "https://open.spotify.com/album/4ffNvieaTBvj161kib1XyF"
@@ -673,7 +781,23 @@
       "url": "https://open.spotify.com/track/5RnsloE5ZVqItYYsWvXp3g"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
+      "album": {
+        "name": "Golden (2024 Remake)",
+        "url": "https://open.spotify.com/album/6mazWBpFdjU1edqEhZDGAZ"
+      },
+      "artists": [
+        {
+          "name": "Mark Reeve",
+          "url": "https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ"
+        }
+      ],
+      "duration_ms": 216888,
+      "name": "Golden - 2024 Remake",
+      "url": "https://open.spotify.com/track/7JbPyKMK2snwEkIIVnedv6"
+    },
+    {
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Sonic Fuse",
         "url": "https://open.spotify.com/album/6xLpJuN0oRi0TezU1cfgEX"
@@ -701,7 +825,7 @@
       "url": "https://open.spotify.com/track/39R1arOZ9abfi34iGy3SvX"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Lunar Dust",
         "url": "https://open.spotify.com/album/4T0UsBe2LIvNKjohG8GaSt"
@@ -721,115 +845,7 @@
       "url": "https://open.spotify.com/track/0gML3qnqW1urDfw9G28cQU"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
-      "album": {
-        "name": "South of the Clouds, Pt. 2 (Gregor Tresher Remix)",
-        "url": "https://open.spotify.com/album/7oA9jAp2Sxg1XbbB4FNRG6"
-      },
-      "artists": [
-        {
-          "name": "Aural Float",
-          "url": "https://open.spotify.com/artist/3qVAflPoQurGpWoJqbx2XM"
-        },
-        {
-          "name": "Gregor Tresher",
-          "url": "https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC"
-        }
-      ],
-      "duration_ms": 685446,
-      "name": "South of the Clouds, Pt. 2 - Gregor Tresher Remix",
-      "url": "https://open.spotify.com/track/1KbuZ9s1dLqjxZ3peEzOG3"
-    },
-    {
-      "added_at": "2025-05-27 14:31:14",
-      "album": {
-        "name": "Equanimity (Remixes) pt.3",
-        "url": "https://open.spotify.com/album/3AzFC8xrVwPC2FrMCJGQF0"
-      },
-      "artists": [
-        {
-          "name": "Spencer Brown",
-          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
-        },
-        {
-          "name": "Pig&Dan",
-          "url": "https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK"
-        }
-      ],
-      "duration_ms": 441000,
-      "name": "Good Times - Pig&Dan's Melodic Mix",
-      "url": "https://open.spotify.com/track/0fSoCob6cWACkSrDLPPCTI"
-    },
-    {
-      "added_at": "2025-05-27 14:31:14",
-      "album": {
-        "name": "We Make It Right",
-        "url": "https://open.spotify.com/album/6TpkwgnxBmnWKMN0yfwXII"
-      },
-      "artists": [
-        {
-          "name": "Skober",
-          "url": "https://open.spotify.com/artist/4QJx1t358F7E4O1lZ8g0B2"
-        }
-      ],
-      "duration_ms": 236718,
-      "name": "We Make It Right",
-      "url": "https://open.spotify.com/track/3OWtRdZaRNj3IJhRXqbnmn"
-    },
-    {
-      "added_at": "2025-05-27 14:31:14",
-      "album": {
-        "name": "WILD ELECTRIC (Monika Kruse Remix)",
-        "url": "https://open.spotify.com/album/2uUMO66NX3M4KFnBFbtgHW"
-      },
-      "artists": [
-        {
-          "name": "ADRIANNA",
-          "url": "https://open.spotify.com/artist/2MbVbvDiFOL7jkbrrbev2e"
-        },
-        {
-          "name": "Monika Kruse",
-          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
-        }
-      ],
-      "duration_ms": 361050,
-      "name": "WILD ELECTRIC - Monika Kruse Remix",
-      "url": "https://open.spotify.com/track/26zdcNGCsPllOiaKkPRjRk"
-    },
-    {
-      "added_at": "2025-05-27 14:31:14",
-      "album": {
-        "name": "Masterpeace",
-        "url": "https://open.spotify.com/album/5rZgk4B2N2s7rOZ1xPcOYZ"
-      },
-      "artists": [
-        {
-          "name": "Chris Bekker",
-          "url": "https://open.spotify.com/artist/0gjLxpTbe5HoswzDI1YsIF"
-        }
-      ],
-      "duration_ms": 220233,
-      "name": "Masterpeace",
-      "url": "https://open.spotify.com/track/6MvKDJcfwU7Zza19O9tuc1"
-    },
-    {
-      "added_at": "2025-05-27 14:31:14",
-      "album": {
-        "name": "Eightzeronine",
-        "url": "https://open.spotify.com/album/3pPuDMNgZ83MSxOLrJwsti"
-      },
-      "artists": [
-        {
-          "name": "Linkan Ray",
-          "url": "https://open.spotify.com/artist/214JdCHMVBm6K7M23RxfGl"
-        }
-      ],
-      "duration_ms": 333913,
-      "name": "Eightzeronine",
-      "url": "https://open.spotify.com/track/7yD0jTyTbJd99dsbKNQ7jM"
-    },
-    {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Colours",
         "url": "https://open.spotify.com/album/5EnuzoFxD2QjtG2VFfZVpF"
@@ -853,7 +869,115 @@
       "url": "https://open.spotify.com/track/7kkv6UAd9C6i4leZcwcvWI"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
+      "album": {
+        "name": "South of the Clouds, Pt. 2 (Gregor Tresher Remix)",
+        "url": "https://open.spotify.com/album/7oA9jAp2Sxg1XbbB4FNRG6"
+      },
+      "artists": [
+        {
+          "name": "Aural Float",
+          "url": "https://open.spotify.com/artist/3qVAflPoQurGpWoJqbx2XM"
+        },
+        {
+          "name": "Gregor Tresher",
+          "url": "https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC"
+        }
+      ],
+      "duration_ms": 685446,
+      "name": "South of the Clouds, Pt. 2 - Gregor Tresher Remix",
+      "url": "https://open.spotify.com/track/1KbuZ9s1dLqjxZ3peEzOG3"
+    },
+    {
+      "added_at": "2025-06-30 13:16:33",
+      "album": {
+        "name": "Equanimity (Remixes) pt.3",
+        "url": "https://open.spotify.com/album/3AzFC8xrVwPC2FrMCJGQF0"
+      },
+      "artists": [
+        {
+          "name": "Spencer Brown",
+          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
+        },
+        {
+          "name": "Pig&Dan",
+          "url": "https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK"
+        }
+      ],
+      "duration_ms": 441000,
+      "name": "Good Times - Pig&Dan's Melodic Mix",
+      "url": "https://open.spotify.com/track/0fSoCob6cWACkSrDLPPCTI"
+    },
+    {
+      "added_at": "2025-06-30 13:16:33",
+      "album": {
+        "name": "We Make It Right",
+        "url": "https://open.spotify.com/album/6TpkwgnxBmnWKMN0yfwXII"
+      },
+      "artists": [
+        {
+          "name": "Skober",
+          "url": "https://open.spotify.com/artist/4QJx1t358F7E4O1lZ8g0B2"
+        }
+      ],
+      "duration_ms": 236718,
+      "name": "We Make It Right",
+      "url": "https://open.spotify.com/track/3OWtRdZaRNj3IJhRXqbnmn"
+    },
+    {
+      "added_at": "2025-06-30 13:16:33",
+      "album": {
+        "name": "WILD ELECTRIC (Monika Kruse Remix)",
+        "url": "https://open.spotify.com/album/2uUMO66NX3M4KFnBFbtgHW"
+      },
+      "artists": [
+        {
+          "name": "ADRIANNA",
+          "url": "https://open.spotify.com/artist/2MbVbvDiFOL7jkbrrbev2e"
+        },
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        }
+      ],
+      "duration_ms": 361050,
+      "name": "WILD ELECTRIC - Monika Kruse Remix",
+      "url": "https://open.spotify.com/track/26zdcNGCsPllOiaKkPRjRk"
+    },
+    {
+      "added_at": "2025-06-30 13:16:33",
+      "album": {
+        "name": "Masterpeace",
+        "url": "https://open.spotify.com/album/5rZgk4B2N2s7rOZ1xPcOYZ"
+      },
+      "artists": [
+        {
+          "name": "Chris Bekker",
+          "url": "https://open.spotify.com/artist/0gjLxpTbe5HoswzDI1YsIF"
+        }
+      ],
+      "duration_ms": 220233,
+      "name": "Masterpeace",
+      "url": "https://open.spotify.com/track/6MvKDJcfwU7Zza19O9tuc1"
+    },
+    {
+      "added_at": "2025-06-30 13:16:33",
+      "album": {
+        "name": "Eightzeronine",
+        "url": "https://open.spotify.com/album/3pPuDMNgZ83MSxOLrJwsti"
+      },
+      "artists": [
+        {
+          "name": "Linkan Ray",
+          "url": "https://open.spotify.com/artist/214JdCHMVBm6K7M23RxfGl"
+        }
+      ],
+      "duration_ms": 333913,
+      "name": "Eightzeronine",
+      "url": "https://open.spotify.com/track/7yD0jTyTbJd99dsbKNQ7jM"
+    },
+    {
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Prasaar",
         "url": "https://open.spotify.com/album/2RnXEWHhgesM5DdJZjrV1Y"
@@ -869,7 +993,7 @@
       "url": "https://open.spotify.com/track/67V2qvMpy4gIyg5pqhTZWu"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "NOVA 1.0",
         "url": "https://open.spotify.com/album/5Ays7JhFmwridhN21nDjDU"
@@ -885,7 +1009,7 @@
       "url": "https://open.spotify.com/track/1c0YRkybXxLwwg57W5kbaH"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Latin Lovers (Joyhauser Remix & Original)",
         "url": "https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9"
@@ -901,7 +1025,7 @@
       "url": "https://open.spotify.com/track/6PKP4qXzVPztw65EHeLS4F"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/1Wuffc9B0PQ3THntefTq6y"
@@ -917,7 +1041,7 @@
       "url": "https://open.spotify.com/track/13wGULWSLE2VjE1VXAOny8"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Prasaar",
         "url": "https://open.spotify.com/album/2RnXEWHhgesM5DdJZjrV1Y"
@@ -933,23 +1057,7 @@
       "url": "https://open.spotify.com/track/4ECOP7wpUStagjgd4lOYIV"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
-      "album": {
-        "name": "Golden (2024 Remake)",
-        "url": "https://open.spotify.com/album/6mazWBpFdjU1edqEhZDGAZ"
-      },
-      "artists": [
-        {
-          "name": "Mark Reeve",
-          "url": "https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ"
-        }
-      ],
-      "duration_ms": 216888,
-      "name": "Golden - 2024 Remake",
-      "url": "https://open.spotify.com/track/7JbPyKMK2snwEkIIVnedv6"
-    },
-    {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Morgana (Booka Shade Remix)",
         "url": "https://open.spotify.com/album/4qfWl3DGfqrigKNfwqgCED"
@@ -973,23 +1081,7 @@
       "url": "https://open.spotify.com/track/5ql495mOoPpkgfAWS6rmiK"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
-      "album": {
-        "name": "Good Night, Whatever That Is",
-        "url": "https://open.spotify.com/album/4L1uaS9JDx0RKOhBzKUwO7"
-      },
-      "artists": [
-        {
-          "name": "Architectural",
-          "url": "https://open.spotify.com/artist/0C8DyEeKMAOHPCLck0hwk0"
-        }
-      ],
-      "duration_ms": 389538,
-      "name": "Eternity Land",
-      "url": "https://open.spotify.com/track/4h9OBSxCzb37UuV9yay8XA"
-    },
-    {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "TranceDans",
         "url": "https://open.spotify.com/album/5f1IEWv5Y7W7WqIXGwzxJ3"
@@ -1009,31 +1101,7 @@
       "url": "https://open.spotify.com/track/0BPcr3VXHdPRjjgXcGzENn"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
-      "album": {
-        "name": "Flex Core Remixes",
-        "url": "https://open.spotify.com/album/0JNxdPJzYSzXCsz1DtWhGd"
-      },
-      "artists": [
-        {
-          "name": "Bendik Baksaas",
-          "url": "https://open.spotify.com/artist/4Eg78cbJ9xV2EP0WInz33A"
-        },
-        {
-          "name": "NINA FAY",
-          "url": "https://open.spotify.com/artist/4H7ZhBJN5rxaoc0IHQHIKB"
-        },
-        {
-          "name": "Mathew Jonson",
-          "url": "https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71"
-        }
-      ],
-      "duration_ms": 716000,
-      "name": "Loose Myself in U - Mathew Jonson Remix",
-      "url": "https://open.spotify.com/track/5PhclPZlFPFi5WFk2bkg5s"
-    },
-    {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "KYSH-EP01",
         "url": "https://open.spotify.com/album/3g6Ddy6iChXnDJYnUPDVfV"
@@ -1049,23 +1117,7 @@
       "url": "https://open.spotify.com/track/52RYHUgAdQVUTZOGCkwTOH"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
-      "album": {
-        "name": "Safari",
-        "url": "https://open.spotify.com/album/1jvFRL1vdYkY2Aaz9fFFvb"
-      },
-      "artists": [
-        {
-          "name": "Acid Scout",
-          "url": "https://open.spotify.com/artist/0yhj0SxiEow6uq0Ac0jtmk"
-        }
-      ],
-      "duration_ms": 421066,
-      "name": "4 Degrees",
-      "url": "https://open.spotify.com/track/3CcRSKPQ7wXq77Llx9b55E"
-    },
-    {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Roll the Dice (Konstantin Sibold Remix)",
         "url": "https://open.spotify.com/album/3WOPS1tdtkUaZ9fU9Rm1J0"
@@ -1085,7 +1137,7 @@
       "url": "https://open.spotify.com/track/6Sut2jMsmtx3ZFeJQP6jV4"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Flashmob",
         "url": "https://open.spotify.com/album/1SWzKUgpfOE8V5vw9XuKJK"
@@ -1101,7 +1153,7 @@
       "url": "https://open.spotify.com/track/2BIC788t4sLhFM8MpZIclI"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Hardspace, Vol. 4",
         "url": "https://open.spotify.com/album/5wXJ9nfRW6Dudg8ExrYns7"
@@ -1129,7 +1181,7 @@
       "url": "https://open.spotify.com/track/0M8IarmQqZKwnRIi2lXBNF"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Retrospective Collection",
         "url": "https://open.spotify.com/album/6LHaxEoEOxKF9uRmZKKvFV"
@@ -1149,7 +1201,7 @@
       "url": "https://open.spotify.com/track/1TPJNY4QJA5M1kSlWHOc69"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Magma EP",
         "url": "https://open.spotify.com/album/6u9AjW7jugh02So5qxPrcZ"
@@ -1169,7 +1221,7 @@
       "url": "https://open.spotify.com/track/6lWjP9oojE3u4P3Acpkesf"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Break Night",
         "url": "https://open.spotify.com/album/4k0Sm7yG4yKx7wD0jAX1Ve"
@@ -1185,7 +1237,7 @@
       "url": "https://open.spotify.com/track/5wjkcqSBnatDQjoggovBrO"
     },
     {
-      "added_at": "2025-05-27 14:31:14",
+      "added_at": "2025-06-30 13:16:33",
       "album": {
         "name": "Plays Bee Mask",
         "url": "https://open.spotify.com/album/174WH3ZdscTIktntFfXyz8"
@@ -1199,6 +1251,78 @@
       "duration_ms": 349946,
       "name": "Vaporware 01",
       "url": "https://open.spotify.com/track/5JVISSmPnLYcK3Yb1K05I3"
+    },
+    {
+      "added_at": "2025-06-30 13:16:33",
+      "album": {
+        "name": "Wildcat",
+        "url": "https://open.spotify.com/album/0Ls2eRwVuy4GtRMFhSMruQ"
+      },
+      "artists": [
+        {
+          "name": "Jon Rundell",
+          "url": "https://open.spotify.com/artist/5R3JcY1fbHrWgWKxIz9hsG"
+        }
+      ],
+      "duration_ms": 373333,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/5lVixZU72PDvGG7hmwB002"
+    },
+    {
+      "added_at": "2025-06-30 13:16:33",
+      "album": {
+        "name": "Upside Criminal",
+        "url": "https://open.spotify.com/album/0RvFPHT1iRBlzEbJTCvLom"
+      },
+      "artists": [
+        {
+          "name": "Gary Beck",
+          "url": "https://open.spotify.com/artist/1mUVjZFnDM8mHpi4fR2bPC"
+        }
+      ],
+      "duration_ms": 301713,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/0kGH55wxqouOG94jhwQzK9"
+    },
+    {
+      "added_at": "2025-06-30 13:16:33",
+      "album": {
+        "name": "Rekindled - EP",
+        "url": "https://open.spotify.com/album/6vAzCXYz4s2xU5EfefPlRo"
+      },
+      "artists": [
+        {
+          "name": "Horatio",
+          "url": "https://open.spotify.com/artist/2oyhm5jH6TCq0M7eRekzMD"
+        },
+        {
+          "name": "Vikthor",
+          "url": "https://open.spotify.com/artist/0QCUDjsKGe3VqKtxl2rXkO"
+        }
+      ],
+      "duration_ms": 386980,
+      "name": "333",
+      "url": "https://open.spotify.com/track/3OWcLNzmufVpv73bm0VBaz"
+    },
+    {
+      "added_at": "2025-06-30 13:16:33",
+      "album": {
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/2dpCqbwxbecA7LUZrdyZxz"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        },
+        {
+          "name": "Wehbba",
+          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
+        }
+      ],
+      "duration_ms": 394681,
+      "name": "Silo",
+      "url": "https://open.spotify.com/track/0IyjF7JOgqSf1joUpAbZWx"
     }
   ],
   "unique_name": "Monika Kruse's track IDs",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Meryl
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,404 likes - 40 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,548 likes - 40 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 21 | [Jet Ski](https://open.spotify.com/track/6K54j58zLdDgbWGtT4CINU) | [DJ Tutuss](https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv), [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Jet Ski](https://open.spotify.com/album/0EoE85vAFJhMghCxeUjjKe) | 2:02 |
 | 22 | [Bobo](https://open.spotify.com/track/0ABoJNAujfAav7KeVQm8wo) | [LRB490](https://open.spotify.com/artist/2UrTsnAc4CSukV44RC6PT6), [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno) | [Bobo](https://open.spotify.com/album/3hD1d1DFNoKCvMNvSSpsUM) | 2:58 |
 | 23 | [LOCATION](https://open.spotify.com/track/1o4TctoKCsjJ2iLM34LZon) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 3:00 |
-| 24 | [Bend \(feat\. Skillibeng\)](https://open.spotify.com/track/47AoRNM6DEQmNJwRoG4uZ3) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Pool Party](https://open.spotify.com/album/51o2j8y90vuY7nFzE5A6l8) | 2:53 |
+| 24 | [Bend \(feat\. Skillibeng\)](https://open.spotify.com/track/47AoRNM6DEQmNJwRoG4uZ3) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Pool Party](https://open.spotify.com/album/51o2j8y90vuY7nFzE5A6l8) | 2:52 |
 | 25 | [Mwen An Sa](https://open.spotify.com/track/1GiJNHhNGReHSeHbkU02DX) | [SKUNK](https://open.spotify.com/artist/1sDx64DECVKoHeolqZLE57), [Tiitof](https://open.spotify.com/artist/0lCzbSVa8RZoPsuDM9YBJS), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Mwen An Sa](https://open.spotify.com/album/2NWVtbSq7FJPKi6ri4TWTi) | 2:59 |
 | 26 | [Pas Jalouse](https://open.spotify.com/track/0ZNRQrgOtYCNEWHBGl1F3E) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [MUSE](https://open.spotify.com/album/3wG3K37cJxmEei9dhW7UCG) | 2:36 |
 | 27 | [Madame](https://open.spotify.com/track/71L0HR1alA33gkb2MRy6EC) | [X\-Man](https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4), [Young Chang MC](https://open.spotify.com/artist/0Y4XPAlixU89K3Z6oRziZ1) | [Madame](https://open.spotify.com/album/2yWrOGBkZTBesVnY5kt42m) | 3:02 |

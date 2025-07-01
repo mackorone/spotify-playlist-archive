@@ -2,7 +2,7 @@
 
 ### [Modern Blues Rock](https://open.spotify.com/playlist/37i9dQZF1DX7Y7BqFok9IQ)
 
-> The best of modern blues rock\. Cover: Joe Bonamassa
+> The best of modern blues rock\. Cover: Robert Randolph
 
 376 songs - 1 day 0 hr 28 min
 

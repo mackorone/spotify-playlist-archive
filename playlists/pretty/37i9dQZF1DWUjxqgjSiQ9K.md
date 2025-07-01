@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: ECCOS
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,634 likes - 90 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,730 likes - 90 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

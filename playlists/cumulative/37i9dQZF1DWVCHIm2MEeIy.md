@@ -4,7 +4,7 @@
 
 > This is our playground! 🪩  Cover: Adriatique, Bipolar Sunshine
 
-545 songs - 1 day 21 hr 37 min
+546 songs - 1 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Burning Flame \- 2020 Remix](https://open.spotify.com/track/2xWC2Gp09mdco5kEzXnm9I) | [Kenneth Bager](https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU), [Jez Phunk](https://open.spotify.com/artist/3MBYR1OMC2QDN9kL32e0df), [Krystal](https://open.spotify.com/artist/0y6I0Y8NUO3qUe2NRqT5rH) | [Burning Flame \(2020 Remix\)](https://open.spotify.com/album/1rBKdxgSEhNr1qA342r1of) | 9:07 | 2022-04-15 | 2022-05-08 |
 | [Butterflies](https://open.spotify.com/track/6cBs0IiuiBT0172vOcc7GE) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Butterflies](https://open.spotify.com/album/2C74sO3IjfXbiEPKD6kjQo) | 2:49 | 2025-03-03 |  |
 | [Cabalero](https://open.spotify.com/track/22vql5nRZdCJ0wqLLzi2mQ) | [Yannick Mueller](https://open.spotify.com/artist/6iSC2YnYuFfCbrBhyRVkPm) | [Cabalero](https://open.spotify.com/album/1hTnb56AqwEnUV52UPnYbq) | 4:27 | 2024-01-26 | 2024-02-07 |
+| [Campeón](https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Campeón](https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy) | 2:53 | 2025-06-26 |  |
 | [Can I](https://open.spotify.com/track/3qavQewlgidBuYHrJe3Qqb) | [Britta Arnold](https://open.spotify.com/artist/7JpBTUqubY86KynSJr28RN) | [No Pushing Only Pulling](https://open.spotify.com/album/57LVq8AxNiBVuPMN0iZLZP) | 8:31 | 2022-04-15 | 2022-07-28 |
 | [Can We Find A Way \- Ede Remix](https://open.spotify.com/track/6HZiDsrA00Jiy1EBkukFNr) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM), [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK) | [Can We Find A Way \(Ede Remix\)](https://open.spotify.com/album/5Ze1OoTENjsi5bWF6LdhDT) | 3:44 | 2025-05-29 |  |
 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 | 2022-04-15 | 2024-01-11 |
@@ -489,7 +490,7 @@
 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 | 2024-01-22 |  |
 | [The Sky Is Red](https://open.spotify.com/track/2CYsjZ2oxUK9KhKqEAMTsL) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Focus](https://open.spotify.com/album/6KW528cMftBmJE4k6R1Kvv) | 6:54 | 2022-04-15 | 2022-07-29 |
 | [The Telepath](https://open.spotify.com/track/56rfbVxwhyZ8ru7uo1BJrJ) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [The Telepath](https://open.spotify.com/album/7MKlDCqLisacqJ2ynQ9FVQ) | 3:36 | 2024-08-12 | 2024-10-06 |
-| [The Underground](https://open.spotify.com/track/7wGmPBuP4YuLGd8VBr3tXT) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Tom Diesel](https://open.spotify.com/artist/7rolJUC0OEHjIesmKcAGKX) | [The Underground](https://open.spotify.com/album/1EVXcljYwqRs05PCzODyWB) | 3:26 | 2025-06-26 |  |
+| [The Underground](https://open.spotify.com/track/7wGmPBuP4YuLGd8VBr3tXT) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Tom Diesel](https://open.spotify.com/artist/7rolJUC0OEHjIesmKcAGKX) | [The Underground](https://open.spotify.com/album/1EVXcljYwqRs05PCzODyWB) | 3:26 | 2025-06-26 | 2025-07-01 |
 | [The Volume](https://open.spotify.com/track/1qWRGD7w0sd4ManHNxEjOa) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Alan T](https://open.spotify.com/artist/4ljjZIEv8N2ggxgoOzTOkb) | [The Volume / The Music Is Mine](https://open.spotify.com/album/3JLDi2TBdao3xxxFXoYGNc) | 6:37 | 2022-04-15 | 2022-04-29 |
 | [The World Beyond](https://open.spotify.com/track/5zb4897baRg1VyAWz8Eza6) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [The World Beyond](https://open.spotify.com/album/7Eojs6PgVi8zqW6y8qGhVB) | 6:56 | 2022-04-15 | 2022-07-29 |
 | [The World Is Yours](https://open.spotify.com/track/6K9pYyxTDqXWXxGJbzxGAM) | [MRAK](https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [The Pledge](https://open.spotify.com/album/1HKLAFY8fdSVaHGYF1cR7i) | 3:35 | 2024-07-04 | 2024-11-12 |

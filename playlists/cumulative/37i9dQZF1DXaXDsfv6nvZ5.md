@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day\. Cover: J.P.
 
-780 songs - 1 day 22 hr 45 min
+781 songs - 1 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [Here To Stay](https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Here To Stay](https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA) | 3:22 | 2024-04-05 |  |
 | [Hey Girl](https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Sophcore](https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h) | 3:35 | 2024-08-02 | 2025-01-18 |
 | [Hey Girl\(s\)](https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Hey Girl \(s\)](https://open.spotify.com/album/40XyC5tZmkh6aeFr78qQME) | 3:48 | 2025-02-07 |  |
-| [Hey Pastor \(feat\. Kota the Friend\)](https://open.spotify.com/track/2tG9LQuOBhnwamt06G2JeJ) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Hey Pastor \(feat\. Kota the Friend\)](https://open.spotify.com/album/7pWyaxaKbiwijkRV3QBPEu) | 2:43 | 2025-04-25 |  |
+| [Hey Pastor \(feat\. Kota the Friend\)](https://open.spotify.com/track/2tG9LQuOBhnwamt06G2JeJ) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Hey Pastor \(feat\. Kota the Friend\)](https://open.spotify.com/album/7pWyaxaKbiwijkRV3QBPEu) | 2:43 | 2025-04-25 | 2025-07-01 |
 | [Hideaway](https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Hideaway](https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG) | 4:19 | 2023-08-04 | 2024-12-14 |
 | [High](https://open.spotify.com/track/3AzYlyo9FhKyETJKQI84rm) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Love Language](https://open.spotify.com/album/5mBIU2o4sxDhbSfxuInbh7) | 3:47 | 2023-05-19 | 2023-06-22 |
 | [High Rise](https://open.spotify.com/track/4WCPv7SsDa2OCgFvHZQVgx) | [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [High Rise](https://open.spotify.com/album/5J2djyGoOepXkcypspoQDx) | 3:22 | 2024-08-23 | 2025-02-12 |
@@ -327,6 +327,7 @@
 | [ICU](https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 4:01 | 2022-10-21 | 2023-07-23 |
 | [ICU](https://open.spotify.com/track/2MEXtuvS77e7WKVWymBdZl) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [ICU](https://open.spotify.com/album/340TSpnt92r6fwI1UdNoeW) | 4:01 | 2022-10-21 | 2022-11-13 |
 | [IDK](https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Entries](https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx) | 1:57 | 2025-03-07 |  |
+| [IDKW](https://open.spotify.com/track/4xAzhi0QeeqYz6UAe1IOHf) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV), [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX), [Mars Today](https://open.spotify.com/artist/60jVpPkp3hgECctyeE9gWH) | [IDKW](https://open.spotify.com/album/54HSCUEUViik4P1gQaWlG0) | 2:49 | 2025-06-27 |  |
 | [If I Ain't Got You \(Tank's Version\)](https://open.spotify.com/track/4M8r5a71WLt8qpoWZE4597) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Amanda Reid](https://open.spotify.com/artist/7tPx7QpnmFA6zMmC9AD47v), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [If I Ain't Got You \(Tank's Version\)](https://open.spotify.com/album/4sSNkIjKpaybaY8f01mrOO) | 4:04 | 2025-05-16 |  |
 | [If The Love Goes](https://open.spotify.com/track/5umedE89tIRPYTAkgLvFEW) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [Full Circle](https://open.spotify.com/album/74QAmMwD0zVIDaNXzm6o0Z) | 2:58 | 2024-10-18 |  |
 | [If You Could See You](https://open.spotify.com/track/1AYgBfTLRo0e8xbcU4zpQO) | [J\. Brown](https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb) | [The Art Of Making Love](https://open.spotify.com/album/1jJpdCHub5LPNd9FYwyJYM) | 3:37 | 2024-07-26 | 2025-02-01 |

@@ -1297,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "Dealer Heat EP",
+        "url": "https://open.spotify.com/album/7jW2GyN5B3rY7wUojqhV8y"
+      },
+      "artists": [
+        {
+          "name": "Lucas Blumen",
+          "url": "https://open.spotify.com/artist/2HCl7HTSpEpR6Da7wJpptt"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188353,
+      "name": "Dealer Heat",
+      "url": "https://open.spotify.com/track/075ZROSQo3HjlO1lvXtpTP"
+    },
+    {
+      "album": {
         "name": "Decided",
         "url": "https://open.spotify.com/album/6UIkOIDpwkiLRb545AQioq"
       },
@@ -2938,7 +2956,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 368000,
       "name": "Love - Mixed",
       "url": "https://open.spotify.com/track/0WmOlBPDRr8gROqyRr3065"
@@ -3692,7 +3710,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 435750,
       "name": "Not Need It",
       "url": "https://open.spotify.com/track/3JpR5yPvDNApZeLojtnDR8"
@@ -3768,6 +3786,28 @@
       "duration_ms": 488000,
       "name": "Once Upon a Time - Original Mix",
       "url": "https://open.spotify.com/track/6LBbUEXngeoiHk5wTBhdKT"
+    },
+    {
+      "album": {
+        "name": "One Two Three Four",
+        "url": "https://open.spotify.com/album/4wjXfnuHVoBx3pdFr5B4d5"
+      },
+      "artists": [
+        {
+          "name": "BRK (BR)",
+          "url": "https://open.spotify.com/artist/2zLTIcwPglk4RMQDrf9Hsv"
+        },
+        {
+          "name": "Gueva",
+          "url": "https://open.spotify.com/artist/05Pn4YBKlafyqay7CrSS17"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "One Two Three Four",
+      "url": "https://open.spotify.com/track/6EzMEiXcLAQPPYXUiYTWiH"
     },
     {
       "album": {

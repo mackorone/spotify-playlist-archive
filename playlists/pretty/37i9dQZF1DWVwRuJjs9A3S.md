@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 ### [Indie Highlights](https://open.spotify.com/playlist/37i9dQZF1DWVwRuJjs9A3S)
 
-> All the highlights from the world of indie! Cover: sombr
+> All the highlights from the world of indie! Cover: CMAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,487 likes - 150 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,519 likes - 150 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 149 | [Sthlm City Sönder](https://open.spotify.com/track/3Zs2ng6eQh8YasRccYCyi1) | [crescenterna](https://open.spotify.com/artist/3nRWFDHzmQF7O2xMAZUhyh) | [Sthlm City Sönder](https://open.spotify.com/album/3AwNypyX5nxnTJiaT4puXj) | 4:21 |
 | 150 | [Shapes](https://open.spotify.com/track/6tLyqjNY0Z5DmmDDXV1EQZ) | [Agent blå](https://open.spotify.com/artist/457YpcXkt7bLgJLE95sdyB) | [Shapes](https://open.spotify.com/album/6ix5kuLbK5hjX5bzKjxwPh) | 3:15 |
 
-Snapshot ID: `aF5rfgAAAAB0ii4dQfOrMEPak4Cf9cEJ`
+Snapshot ID: `aGI21wAAAABbJ225yZb51uswQvvO3UUJ`

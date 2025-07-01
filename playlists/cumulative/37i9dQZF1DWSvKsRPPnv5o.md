@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: EBK Jaaybo
 
-1,268 songs - 2 day 10 hr 54 min
+1,269 songs - 2 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,6 +461,7 @@
 | [Glasshouse Knockin'](https://open.spotify.com/track/6MQtJ3infBYmN3scogJ4Ac) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [The Night Shift](https://open.spotify.com/album/60hrxgJN3QfheGpVzEcUFR) | 2:27 | 2023-11-10 | 2024-01-13 |
 | [Glock's & AK's](https://open.spotify.com/track/0jn0tCVayrQqg9zvzn0PFr) | [Rob Vicious](https://open.spotify.com/artist/2gGtD7OGXbNZAY3oCZvZqA) | [Glock's & AK's](https://open.spotify.com/album/3GreW61IzoojtH4KYIW6RB) | 2:14 | 2023-10-13 | 2024-02-18 |
 | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/album/4WXIMpmT2wITUU85TCcW0z) | 3:34 | 2024-08-30 | 2024-10-26 |
+| [Go Bestfriend](https://open.spotify.com/track/1pvMPcQaVP8HuRO3Sa24RP) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Tha Language](https://open.spotify.com/album/1eR7AfJfPEsLTnkpkTEoi8) | 2:35 | 2025-06-30 |  |
 | [Go Bestfriend](https://open.spotify.com/track/3QaKunnZFIDbzLg6OsKAXA) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Go Bestfriend](https://open.spotify.com/album/0HPVkqp6Vkgoqf6vkOmLJ3) | 2:35 | 2025-06-13 | 2025-06-28 |
 | [GO BRAZY \- WITH MUSTARD & BABY STONE GORILLAS](https://open.spotify.com/track/2DARY9rFneNKGHr3vyB08c) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [JUST RE'D UP 3](https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69) | 2:40 | 2024-08-16 | 2024-10-26 |
 | [Go Get It](https://open.spotify.com/track/0CIusTSIe1WLFrIPg6ekKx) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Go Get It](https://open.spotify.com/album/03etiL2wGRCdc7VDHiKpni) | 1:45 | 2022-08-19 | 2022-10-08 |

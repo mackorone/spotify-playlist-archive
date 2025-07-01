@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Saint\u00e9",
-  "num_followers": 88524,
+  "num_followers": 88519,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "The Sunrise Project",
-        "url": "https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q"
-      },
-      "artists": [
-        {
-          "name": "Songer",
-          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
-        }
-      ],
-      "duration_ms": 194455,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
         "name": "In The Loop",
         "url": "https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 195933,
       "name": "Paro(noia)",
       "url": "https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "The Sunrise Project",
+        "url": "https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q"
+      },
+      "artists": [
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "duration_ms": 194455,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -383,46 +383,6 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "Hooligan In LDN",
-        "url": "https://open.spotify.com/album/76YBL1gnAswMln62bIgtLP"
-      },
-      "artists": [
-        {
-          "name": "Rushy",
-          "url": "https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J"
-        },
-        {
-          "name": "BexBlu",
-          "url": "https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy"
-        },
-        {
-          "name": "qtheory",
-          "url": "https://open.spotify.com/artist/7yMxwTkx3KNGUH4oIrjEew"
-        }
-      ],
-      "duration_ms": 152390,
-      "name": "Hooligan - BexBlu x qtheory Edit",
-      "url": "https://open.spotify.com/track/0Wwb3WR2RrI6anhw8MogBv"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/34uPcK97UMz8BClljHmJkL"
-      },
-      "artists": [
-        {
-          "name": "JBEE",
-          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/68eGwObayYWZu9RZMYbUte"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
         "name": "Drunk and Confused 2.0",
         "url": "https://open.spotify.com/album/0m9iszemZo7KWFGuUWDTQO"
       },
@@ -447,6 +407,46 @@
       "duration_ms": 227727,
       "name": "Drunk and Confused 2.0",
       "url": "https://open.spotify.com/track/2Pdp4X0xs1p217g6oheu89"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/34uPcK97UMz8BClljHmJkL"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/68eGwObayYWZu9RZMYbUte"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "Hooligan In LDN",
+        "url": "https://open.spotify.com/album/76YBL1gnAswMln62bIgtLP"
+      },
+      "artists": [
+        {
+          "name": "Rushy",
+          "url": "https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J"
+        },
+        {
+          "name": "BexBlu",
+          "url": "https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy"
+        },
+        {
+          "name": "qtheory",
+          "url": "https://open.spotify.com/artist/7yMxwTkx3KNGUH4oIrjEew"
+        }
+      ],
+      "duration_ms": 152390,
+      "name": "Hooligan - BexBlu x qtheory Edit",
+      "url": "https://open.spotify.com/track/0Wwb3WR2RrI6anhw8MogBv"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "Suicycle",
-        "url": "https://open.spotify.com/album/48nLxoyzjbGKkpYreT7isy"
-      },
-      "artists": [
-        {
-          "name": "Mic Righteous",
-          "url": "https://open.spotify.com/artist/1WWT4mBMw1S2OTXF1HfKoe"
-        }
-      ],
-      "duration_ms": 392013,
-      "name": "Because I Love You",
-      "url": "https://open.spotify.com/track/5cKpTKVbBexwPIDGfx2nej"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/6yAjcw3OQin9aBXTDI0k0A"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 208866,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/7haHJ5kRXm1yeUP5OEqA61"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "Suicycle",
+        "url": "https://open.spotify.com/album/48nLxoyzjbGKkpYreT7isy"
+      },
+      "artists": [
+        {
+          "name": "Mic Righteous",
+          "url": "https://open.spotify.com/artist/1WWT4mBMw1S2OTXF1HfKoe"
+        }
+      ],
+      "duration_ms": 392013,
+      "name": "Because I Love You",
+      "url": "https://open.spotify.com/track/5cKpTKVbBexwPIDGfx2nej"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
+        "name": "Leave This City",
+        "url": "https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8"
+      },
+      "artists": [
+        {
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+        }
+      ],
+      "duration_ms": 181976,
+      "name": "LTC",
+      "url": "https://open.spotify.com/track/4fgEnPmto9LJyvJVulYi1f"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
         "name": "Because Of You",
         "url": "https://open.spotify.com/album/3BawDg8zlyaybBdptxhIwO"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 177110,
       "name": "Because Of You",
       "url": "https://open.spotify.com/track/1guVpdESIISTKzPitSmqFT"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
-        "name": "Leave This City",
-        "url": "https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8"
-      },
-      "artists": [
-        {
-          "name": "Idi Akz",
-          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
-        }
-      ],
-      "duration_ms": 181976,
-      "name": "LTC",
-      "url": "https://open.spotify.com/track/4fgEnPmto9LJyvJVulYi1f"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
+        "name": "Leave This City",
+        "url": "https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8"
+      },
+      "artists": [
+        {
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+        }
+      ],
+      "duration_ms": 169129,
+      "name": "I Was Never Phased",
+      "url": "https://open.spotify.com/track/6iN03nZ9ER8ZWKboLAcsC8"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
         "name": "Driscoll",
         "url": "https://open.spotify.com/album/6kqIn2SlJfoBeXw8t5jUup"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 151730,
       "name": "Driscoll",
       "url": "https://open.spotify.com/track/29g7KrjPzgfPqkVfAbZ94U"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
-        "name": "Leave This City",
-        "url": "https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8"
-      },
-      "artists": [
-        {
-          "name": "Idi Akz",
-          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
-        }
-      ],
-      "duration_ms": 169129,
-      "name": "I Was Never Phased",
-      "url": "https://open.spotify.com/track/6iN03nZ9ER8ZWKboLAcsC8"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 189781,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
       },
@@ -1403,24 +1419,8 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "She Comes & Goes",
-        "url": "https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 199705,
-      "name": "She Comes & Goes",
-      "url": "https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27"
+        "name": "No Pain",
+        "url": "https://open.spotify.com/album/1rBxEeYmETSCoedEk5PpEb"
       },
       "artists": [
         {
@@ -1428,9 +1428,9 @@
           "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
         }
       ],
-      "duration_ms": 152571,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX"
+      "duration_ms": 165405,
+      "name": "No Pain",
+      "url": "https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
+        "name": "She Comes & Goes",
+        "url": "https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 199705,
+      "name": "She Comes & Goes",
+      "url": "https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
         "name": "Love Don't Change",
         "url": "https://open.spotify.com/album/6orzD3w7CUbkxnKYRa0Pg5"
       },
@@ -1483,24 +1499,8 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "If I Die Young",
-        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 189781,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
-        "name": "No Pain",
-        "url": "https://open.spotify.com/album/1rBxEeYmETSCoedEk5PpEb"
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27"
       },
       "artists": [
         {
@@ -1508,9 +1508,9 @@
           "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
         }
       ],
-      "duration_ms": 165405,
-      "name": "No Pain",
-      "url": "https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW"
+      "duration_ms": 152571,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
+        "name": "I Thought I'd Die In Your Arms",
+        "url": "https://open.spotify.com/album/335rKXLWPEDRkmtjDjLgeA"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 176680,
+      "name": "I Thought I'd Die In Your Arms",
+      "url": "https://open.spotify.com/track/26dYcj6ddzBW1HfMEONnr8"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
         "name": "9AM",
         "url": "https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 172199,
       "name": "9AM",
       "url": "https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
-        "name": "I Thought I'd Die In Your Arms",
-        "url": "https://open.spotify.com/album/335rKXLWPEDRkmtjDjLgeA"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 176680,
-      "name": "I Thought I'd Die In Your Arms",
-      "url": "https://open.spotify.com/track/26dYcj6ddzBW1HfMEONnr8"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "Up all night",
-        "url": "https://open.spotify.com/album/54GgiCNFUP2qOvlUXAE871"
-      },
-      "artists": [
-        {
-          "name": "LBSZN",
-          "url": "https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff"
-        }
-      ],
-      "duration_ms": 161232,
-      "name": "Up all night",
-      "url": "https://open.spotify.com/track/2nbBENXAayuNvr3kQmBAzt"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
         "name": "High On Love",
         "url": "https://open.spotify.com/album/00HcaQwzlsOUWzUJjWKoEo"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 181044,
       "name": "High On Love",
       "url": "https://open.spotify.com/track/6KxM8MGmfCJRVps6jCFvfs"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "Up all night",
+        "url": "https://open.spotify.com/album/54GgiCNFUP2qOvlUXAE871"
+      },
+      "artists": [
+        {
+          "name": "LBSZN",
+          "url": "https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff"
+        }
+      ],
+      "duration_ms": 161232,
+      "name": "Up all night",
+      "url": "https://open.spotify.com/track/2nbBENXAayuNvr3kQmBAzt"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "Day and Night (Prodbyjak)",
-        "url": "https://open.spotify.com/album/5W31gIjDIhWeNBG7AT2Rap"
-      },
-      "artists": [
-        {
-          "name": "Otis Lloyid",
-          "url": "https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk"
-        }
-      ],
-      "duration_ms": 192052,
-      "name": "Day and Night (Prodbyjak)",
-      "url": "https://open.spotify.com/track/3Goa3sQx9cwGIk67iP1Mqf"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
         "name": "The Talking Stage Game",
         "url": "https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 194148,
       "name": "The Talking Stage Game",
       "url": "https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "Day and Night (Prodbyjak)",
+        "url": "https://open.spotify.com/album/5W31gIjDIhWeNBG7AT2Rap"
+      },
+      "artists": [
+        {
+          "name": "Otis Lloyid",
+          "url": "https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk"
+        }
+      ],
+      "duration_ms": 192052,
+      "name": "Day and Night (Prodbyjak)",
+      "url": "https://open.spotify.com/track/3Goa3sQx9cwGIk67iP1Mqf"
     }
   ],
   "unique_name": "lofi rap",

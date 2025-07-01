@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes met KATNUF, Jinho 9 & Udi Mars \(GEM\-Z\) ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,898 likes - 76 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,912 likes - 76 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

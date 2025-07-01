@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 ### [A Breath of Fresh Éire](https://open.spotify.com/playlist/37i9dQZF1DXcvmeS1jhCQv)
 
-> New tunes from Ireland for your discovery\. Cover: KNEECAP, Mozey
+> New tunes from Ireland for your discovery\. Cover: KNEECAP at <a href="https://open.spotify.com/genre/0JQ5DAqbMKFRjoC1iWNybi">Glastonbury 2025</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,394 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,421 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 69 | [Cheap Cherry Bubblegum](https://open.spotify.com/track/68CZHScUMvCAIpyfOFkqWu) | [Jessica Doolan](https://open.spotify.com/artist/5oq3FJxK1ZwmaSJsz0jcwW) | [Cheap Cherry Bubblegum](https://open.spotify.com/album/3SsXl2bAwXABX1pbIrNd1G) | 2:47 |
 | 70 | [Sam Hall](https://open.spotify.com/track/7tmJRF0z9FZAzuYeX9yLS2) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Sam Hall](https://open.spotify.com/album/6ym6lC1fG7zAyMYaGHuspf) | 3:50 |
 
-Snapshot ID: `aF3Q/gAAAAD0ClPczHb/qoEXEMKNHwzm`
+Snapshot ID: `aGJ2GQAAAABVY4tGpGZ2ELyKrHHrjJwd`

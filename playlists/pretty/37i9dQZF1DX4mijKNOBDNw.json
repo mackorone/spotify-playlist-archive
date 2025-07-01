@@ -1,6 +1,6 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 59570,
+  "num_followers": 59569,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "ZqAjAAAAAABWdu+c3p8JUqZZVVfhv2VF",
   "tracks": [
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
+        "name": "Pafuera Telara\u00f1as",
+        "url": "https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB"
+      },
+      "artists": [
+        {
+          "name": "Bebe",
+          "url": "https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/1DOuHBUpfN1GwDsZOZkwgO"
+    },
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 195883,
       "name": "Se Portaba Mal",
       "url": "https://open.spotify.com/track/3TZEryQOpvy8ix7XGmiw6b"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
-        "name": "Pafuera Telara\u00f1as",
-        "url": "https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB"
-      },
-      "artists": [
-        {
-          "name": "Bebe",
-          "url": "https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/1DOuHBUpfN1GwDsZOZkwgO"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -475,42 +475,6 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "Ni Una Menos",
-        "url": "https://open.spotify.com/album/2Ad42MuUjsRZFpIsPnGCkC"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Lane",
-          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
-        }
-      ],
-      "duration_ms": 154673,
-      "name": "Ni Una Menos",
-      "url": "https://open.spotify.com/track/11UL8736NPiJSdCiezulQp"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
-        "name": "Hermanas",
-        "url": "https://open.spotify.com/album/5UPSoi84uNlqOuRcSkOOEa"
-      },
-      "artists": [
-        {
-          "name": "Amparo S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg"
-        },
-        {
-          "name": "Maria Rezende",
-          "url": "https://open.spotify.com/artist/3WDDrOm8mMLjqb8DltOW4k"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Hermanas",
-      "url": "https://open.spotify.com/track/1ZMILHInTaxZ3G5A7y55hY"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
         "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
         "url": "https://open.spotify.com/album/1Ldh7pJGCxaYhzvys0ryGc"
       },
@@ -539,6 +503,42 @@
       "duration_ms": 238262,
       "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
       "url": "https://open.spotify.com/track/2M1g4Nns1DO8WpN4aHLDvX"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
+        "name": "Hermanas",
+        "url": "https://open.spotify.com/album/5UPSoi84uNlqOuRcSkOOEa"
+      },
+      "artists": [
+        {
+          "name": "Amparo S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg"
+        },
+        {
+          "name": "Maria Rezende",
+          "url": "https://open.spotify.com/artist/3WDDrOm8mMLjqb8DltOW4k"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Hermanas",
+      "url": "https://open.spotify.com/track/1ZMILHInTaxZ3G5A7y55hY"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
+        "name": "Ni Una Menos",
+        "url": "https://open.spotify.com/album/2Ad42MuUjsRZFpIsPnGCkC"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Lane",
+          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
+        }
+      ],
+      "duration_ms": 154673,
+      "name": "Ni Una Menos",
+      "url": "https://open.spotify.com/track/11UL8736NPiJSdCiezulQp"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -583,26 +583,6 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "Nosotras Tenemos Otros Datos",
-        "url": "https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4"
-      },
-      "artists": [
-        {
-          "name": "Masta Quba",
-          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
-        },
-        {
-          "name": "P. Jaguar",
-          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "Nosotras Tenemos Otros Datos",
-      "url": "https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
         "name": "Belicosa",
         "url": "https://open.spotify.com/album/2uRdtPtwPoYAbgnT6LKr8R"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 169200,
       "name": "Belicosa",
       "url": "https://open.spotify.com/track/1FvhrIQOQnK0oXzDgk5SD9"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
+        "name": "Nosotras Tenemos Otros Datos",
+        "url": "https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "P. Jaguar",
+          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "Nosotras Tenemos Otros Datos",
+      "url": "https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "Alma Mestiza",
-        "url": "https://open.spotify.com/album/7drLzTXpNpRTiA5A7LpbTm"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Lane",
-          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
-        }
-      ],
-      "duration_ms": 173874,
-      "name": "Ni Encerradas Ni Con Miedos",
-      "url": "https://open.spotify.com/track/1rFA6XWEvH6dbYiHmOovCT"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
         "name": "Marta",
         "url": "https://open.spotify.com/album/0iH9r1Rzfa961VMQx9gFsR"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 207452,
       "name": "Otra Humanidad",
       "url": "https://open.spotify.com/track/3eVZky3RqaMnVXZAXeCvws"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
+        "name": "Alma Mestiza",
+        "url": "https://open.spotify.com/album/7drLzTXpNpRTiA5A7LpbTm"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Lane",
+          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
+        }
+      ],
+      "duration_ms": 173874,
+      "name": "Ni Encerradas Ni Con Miedos",
+      "url": "https://open.spotify.com/track/1rFA6XWEvH6dbYiHmOovCT"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
+        "name": "Anclas",
+        "url": "https://open.spotify.com/album/4eg8ReqTsC0N8BZwdEIHKN"
+      },
+      "artists": [
+        {
+          "name": "Gata Cattana",
+          "url": "https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo"
+        }
+      ],
+      "duration_ms": 237333,
+      "name": "Lis\u00edstrata",
+      "url": "https://open.spotify.com/track/6BxjJVZL5GMv8OnyUP587z"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
         "name": "S\u00e1tira",
         "url": "https://open.spotify.com/album/4HsyhBMFmRLmTxEQeuROub"
       },
@@ -1179,6 +1195,22 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
+        "name": "No Ves",
+        "url": "https://open.spotify.com/album/0noxqh5mBtyCT5N741oUKC"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 199312,
+      "name": "No Ves",
+      "url": "https://open.spotify.com/track/5y38M7sJvnfZPguQBYO7qx"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
         "name": "Quememos el Reino",
         "url": "https://open.spotify.com/album/3L4Ud38y1Kf5cUjlKbAvAR"
       },
@@ -1191,22 +1223,6 @@
       "duration_ms": 267520,
       "name": "Quememos el Reino",
       "url": "https://open.spotify.com/track/6Q34FSF6Y1VMYC6oGx2R8G"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
-        "name": "Anclas",
-        "url": "https://open.spotify.com/album/4eg8ReqTsC0N8BZwdEIHKN"
-      },
-      "artists": [
-        {
-          "name": "Gata Cattana",
-          "url": "https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "Lis\u00edstrata",
-      "url": "https://open.spotify.com/track/6BxjJVZL5GMv8OnyUP587z"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -1239,22 +1255,6 @@
       "duration_ms": 154450,
       "name": "Se Busca",
       "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
-        "name": "Libres",
-        "url": "https://open.spotify.com/album/4yIRWgyGqg3AfvB3bIWLjK"
-      },
-      "artists": [
-        {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
-        }
-      ],
-      "duration_ms": 221278,
-      "name": "Libres",
-      "url": "https://open.spotify.com/track/3sesl63eLYO3k0TTjhQGFm"
     }
   ],
   "unique_name": "Himnos de Sororidad",

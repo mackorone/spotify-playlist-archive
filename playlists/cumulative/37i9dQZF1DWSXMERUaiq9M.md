@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: DJ Gigola
 
-511 songs - 1 day 8 hr 4 min
+512 songs - 1 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Cowgirl](https://open.spotify.com/track/5wW2bmnIVn2qPbAsK6BcDU) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Cowgirl](https://open.spotify.com/album/7l4MKPgYC1veEp2bqwFcAQ) | 3:11 | 2023-06-15 | 2023-06-23 |
 | [Cringey Doll](https://open.spotify.com/track/64qvYVdK2FQ2ooddDLiaje) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q) | [Cringey Doll](https://open.spotify.com/album/03Qp6VFsWPgQ92KNtYKM5y) | 2:24 | 2024-06-13 | 2024-06-28 |
 | [Cut It \- Original Mix](https://open.spotify.com/track/6kTT8AcENWGhgbEwVeMMty) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [COLOR VA03](https://open.spotify.com/album/7hKxU851bFxIWHD8NH3XgR) | 6:43 | 2023-06-09 | 2023-06-16 |
-| [CWWDBI](https://open.spotify.com/track/5Y1PbmoHC3RPrBd4xQlz4Y) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [CWWDBI](https://open.spotify.com/album/7FlwGLtg6epGcfIeYC0wYI) | 3:19 | 2024-10-25 |  |
+| [CWWDBI](https://open.spotify.com/track/5Y1PbmoHC3RPrBd4xQlz4Y) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [CWWDBI](https://open.spotify.com/album/7FlwGLtg6epGcfIeYC0wYI) | 3:19 | 2024-10-25 | 2025-07-01 |
 | [Da Beat Goes](https://open.spotify.com/track/0c69i7dEofhykHqM9mU4Qi) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Da Beat Goes](https://open.spotify.com/album/5zxIcrySHLJFClX3lfjBS2) | 2:24 | 2024-09-16 | 2024-10-11 |
 | [Dachlatte \- Paul Seul Remix](https://open.spotify.com/track/77dFA7mUovYRHSIE0wLW2O) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [Paul Seul](https://open.spotify.com/artist/1sSdOYlIBpjKaysZ7BVVdi) | [Dachlatte \(Paul Seul Remix\)](https://open.spotify.com/album/7qPiD7ilnwVnBDyTLQs6ZM) | 2:52 | 2023-08-25 |  |
 | [Daddy's Issue](https://open.spotify.com/track/6vzN8Hr9rJ8Bk5OnHAxei0) | [L.zwo](https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1) | [Daddy's Issue](https://open.spotify.com/album/33OZ6sGO6ahdHOjr0KDls3) | 4:37 | 2024-02-22 | 2024-03-23 |
@@ -220,6 +220,7 @@
 | [Ice u out](https://open.spotify.com/track/1pprxpl5zMkiUNB3O0ejEZ) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [girl EDM](https://open.spotify.com/album/4QinbF7oFNC9rdcWNiF3Vu) | 3:23 | 2024-06-27 | 2024-07-05 |
 | [Iced Lips](https://open.spotify.com/track/14896rLkWF8L1oaaMiMGBQ) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Iced Lips](https://open.spotify.com/album/3B38JWfPV8tzWBwB2tOHg1) | 2:19 | 2025-06-05 |  |
 | [Ich bin ready \- DJ Gigola Version](https://open.spotify.com/track/2vVC5wEtP5klz59i8HO2j9) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf), [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [G\-COAST](https://open.spotify.com/album/0HpE2gIz2xoO6kkKMyu89c) | 4:40 | 2023-06-05 | 2023-07-22 |
+| [Illegal \- Nia Archives Remix](https://open.spotify.com/track/0c1s95bO4ZqOOmFl8mfsro) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Illegal \(Nia Archives Remix\)](https://open.spotify.com/album/57V3Ec9fpJEUZkFyW2axtx) | 2:40 | 2025-06-27 |  |
 | [Immer wenn du fehlst](https://open.spotify.com/track/1pLRmnVMAz4br5qJThj1vO) | [Kalte Liebe](https://open.spotify.com/artist/4V8AR3bBMhrLaWirYLKBEe) | [Immer wenn du fehlst](https://open.spotify.com/album/3kIdRvGhX0NpFmsmdGThcw) | 2:44 | 2024-09-16 | 2024-10-11 |
 | [In My Mind](https://open.spotify.com/track/7k6ds2BvraCzxPW95vSOwd) | [ARMA](https://open.spotify.com/artist/6521yl6LJNVjbPpSz3ohSZ), [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z) | [In My Mind](https://open.spotify.com/album/0TvoQPfYP2GuUg54rJYwnJ) | 4:34 | 2024-06-13 | 2024-06-28 |
 | [In The City \(Charli XCX & Sam Smith\) \- DJ HEARTSTRING REMIX](https://open.spotify.com/track/1PPyQo1k7wI1U6BcaD0ZfT) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The City \(Charli XCX & Sam Smith\) \[DJ HEARTSTRING REMIX\]](https://open.spotify.com/album/4DgbJO2O9XXAMYXP6j3cX6) | 3:33 | 2023-11-30 | 2024-02-16 |

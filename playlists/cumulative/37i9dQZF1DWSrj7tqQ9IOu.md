@@ -4,7 +4,7 @@
 
 > The best French indie tracks right now\. Cover : BLOWSOM
 
-660 songs - 1 day 11 hr 43 min
+661 songs - 1 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,6 +459,7 @@
 | [Paris cyclone](https://open.spotify.com/track/6RWkgGCxCCZxZplgL2CHsn) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Paris cyclone](https://open.spotify.com/album/4vSFzEL2EvWRK02kaGwC4N) | 2:51 | 2023-10-12 | 2023-11-17 |
 | [Paris en août](https://open.spotify.com/track/6R3xtNGXOTqp8Qzuf22jaW) | [Part\-Time Friends](https://open.spotify.com/artist/76mxGKWJzBzyHd6oX1t2yp) | [Paris en août](https://open.spotify.com/album/2F97r4tTBp5iGMgkMNT6rA) | 3:30 | 2021-12-16 | 2022-01-14 |
 | [Paris en Août](https://open.spotify.com/track/6fXUOK5wb2yZUMz1cWV2zd) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Paris en Août](https://open.spotify.com/album/3EkxQ6GEnoum2TFhrrXOVg) | 3:11 | 2022-08-25 | 2023-01-20 |
+| [Paris lumière \- A Ritz Paris Song](https://open.spotify.com/track/459eXxXJxce7K4pZkBpEmf) | [Vanille](https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI) | [Paris lumière \(A Ritz Paris Song\)](https://open.spotify.com/album/1nVAVjQuL83GYD8rx4opl5) | 2:42 | 2025-06-26 |  |
 | [Partir Loin](https://open.spotify.com/track/2604QmkjAd8peUvW2pq6DX) | [Antis](https://open.spotify.com/artist/2juj6BRMaPQO20Q41odCcu) | [Partir Loin](https://open.spotify.com/album/3dHRiGcQVDaxWgsTHKWRIq) | 2:38 | 2022-12-22 | 2023-03-31 |
 | [Party](https://open.spotify.com/track/3Pw80Ulvtf6MeMkixjnLyP) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Party](https://open.spotify.com/album/0f2HZdtQPt1ngVO56RZfYq) | 2:54 | 2024-11-21 | 2025-01-24 |
 | [Pas d'ici](https://open.spotify.com/track/3UBZKE16VUDdeZj1VOPL0b) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pas d'ici](https://open.spotify.com/album/5bRORAvguXBlmgvTN8SpsU) | 3:37 | 2021-12-16 | 2022-11-18 |

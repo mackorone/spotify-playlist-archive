@@ -1,6 +1,6 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 789987,
+  "num_followers": 790063,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "We Are Marshall Soundtrack",
+        "url": "https://open.spotify.com/album/72gsfXVb92BPzas9adrQ1x"
+      },
+      "artists": [
+        {
+          "name": "King Floyd",
+          "url": "https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz"
+        }
+      ],
+      "duration_ms": 181560,
+      "name": "Groove Me",
+      "url": "https://open.spotify.com/track/32aSj7Bo0rl3s5fwppu5VP"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "Motown: The Complete No. 1's",
         "url": "https://open.spotify.com/album/78kJS9OWjuPrYccf3E54yb"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 146200,
       "name": "Son Of A Preacher Man",
       "url": "https://open.spotify.com/track/4UCIi4gRVUG7x4nFGQiKmo"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
-        "name": "We Are Marshall Soundtrack",
-        "url": "https://open.spotify.com/album/72gsfXVb92BPzas9adrQ1x"
-      },
-      "artists": [
-        {
-          "name": "King Floyd",
-          "url": "https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz"
-        }
-      ],
-      "duration_ms": 181560,
-      "name": "Groove Me",
-      "url": "https://open.spotify.com/track/32aSj7Bo0rl3s5fwppu5VP"
     },
     {
       "added_at": "2024-07-02 22:47:47",

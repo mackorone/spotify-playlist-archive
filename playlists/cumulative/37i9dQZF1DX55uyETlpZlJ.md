@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Chandan Shetty
 
-520 songs - 1 day 5 hr 11 min
+521 songs - 1 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Chanda](https://open.spotify.com/track/3WBenVVe9S0FkVxApthEnJ) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Buck](https://open.spotify.com/artist/77KDxJeNBLxEabflrrZ9DG), [Navya H](https://open.spotify.com/artist/3UUJgNufWYjlKJwDQcoyJU) | [Chanda](https://open.spotify.com/album/0XpUURR7bNOYU88nkHNKjx) | 3:26 | 2023-08-21 | 2024-04-19 |
 | [Chii](https://open.spotify.com/track/2yYr2lCywrNP3y0VjijtTV) | [Shashi Bhat](https://open.spotify.com/artist/6zrtwiBmXEAANnSe1wFYdL), [D Rapper](https://open.spotify.com/artist/1mjEVPmi3GcUKWbd34zx4E) | [Chii](https://open.spotify.com/album/4KyidUqwKaQKzYs1OGVSPJ) | 2:42 | 2023-08-31 | 2024-03-15 |
 | [Chikkavanu](https://open.spotify.com/track/1D2LX2HV7AsxiGbecZPSm0) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Chikkavanu](https://open.spotify.com/album/1k2G5Lz3hUVhCXSlcHKmsh) | 1:10 | 2023-07-27 | 2024-03-06 |
+| [Chill Madale](https://open.spotify.com/track/3TXNSXjkKZOj01EVhXXeQy) | [Akhilesh Moti](https://open.spotify.com/artist/031AHwDJvqqY7t56R8Q4oq), [Abhishek Dev](https://open.spotify.com/artist/5njwb0Y5GdL3v2kYYUvgUZ) | [Chill Madale](https://open.spotify.com/album/3WyXOV68R92wp0GsqW36Bn) | 3:14 | 2025-06-30 |  |
 | [CHINDI MAADU](https://open.spotify.com/track/1t7ETxbjdYeeLwbe6LXxq1) | [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G), [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr) | [CHINDI MAADU](https://open.spotify.com/album/4m69AYEq6wKLWbKoT7KdUW) | 3:22 | 2024-05-06 | 2024-11-14 |
 | [Chinte Bidi \- Enne Hodi](https://open.spotify.com/track/5ialXnx6tJlOlkCC17NfUc) | [Kishan Bijjur](https://open.spotify.com/artist/3S2ZrbffGmeAZgE9yIiDSF), [Creative Scenario](https://open.spotify.com/artist/4Zafxr6sEbqfLOivGNm6iI) | [Chinte Bidi \(Enne Hodi\)](https://open.spotify.com/album/0RyKmpUBNqpxD6CTVEsbSw) | 3:02 | 2025-03-18 |  |
 | [Chitte](https://open.spotify.com/track/1iHkAPfRqSMDZsKfyYMWS2) | [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS), [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34) | [Chitte](https://open.spotify.com/album/1WcuUUmAg61253UiWMITVq) | 2:58 | 2023-02-08 | 2023-09-01 |
@@ -136,7 +137,7 @@
 | [Fastrack](https://open.spotify.com/track/53ZfZtx56KavQVXELlyMLy) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Fastrack](https://open.spotify.com/album/6cVEaPi01PDnUIJvpsIeYd) | 3:09 | 2023-08-16 | 2024-01-06 |
 | [Fastrack](https://open.spotify.com/track/5eRn8QDDu0r1tCNPwPlEJn) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Fastrack](https://open.spotify.com/album/4Sz4vVlyg7Yy1ca5uVJzLT) | 3:09 | 2023-08-16 | 2024-02-17 |
 | [FIDHA](https://open.spotify.com/track/4bRZCUeozVp0OUepOBz4Os) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [FIDHA](https://open.spotify.com/album/38CxDzHunFwBoSJ0xTI7LP) | 2:49 | 2024-12-16 | 2025-04-03 |
-| [First Love](https://open.spotify.com/track/2TANr2y6MZbHRSqHYZ0juI) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [First Love](https://open.spotify.com/album/7dToRHP9YSM59XDasnwIbw) | 2:17 | 2024-09-17 |  |
+| [First Love](https://open.spotify.com/track/2TANr2y6MZbHRSqHYZ0juI) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [First Love](https://open.spotify.com/album/7dToRHP9YSM59XDasnwIbw) | 2:17 | 2024-09-17 | 2025-07-01 |
 | [Firstu Benchina](https://open.spotify.com/track/6Ic9ArrNBDAVwRHRxkF6BV) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH) | [Firstu Benchina](https://open.spotify.com/album/2rtCcDhlKwm8yCgmkKJspY) | 3:00 | 2024-04-05 | 2024-10-15 |
 | [Flex](https://open.spotify.com/track/70lvds1D1jTdXVrfRWeSed) | [Pratham Kathare](https://open.spotify.com/artist/6OZn7BoAKutsXDPCN490rw) | [Flex](https://open.spotify.com/album/5V0GEpj1Jwyzvx3MTtdhSq) | 2:39 | 2024-11-19 | 2025-03-20 |
 | [FLYHIGH](https://open.spotify.com/track/4xcu2aYgGXrcI8N9JBzh1j) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [FLYHIGH \- Kannada](https://open.spotify.com/album/5I7FRC3Hy9Eg6CqKE29fvL) | 3:55 | 2023-06-29 | 2024-01-05 |

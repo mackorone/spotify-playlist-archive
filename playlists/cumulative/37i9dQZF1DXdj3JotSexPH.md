@@ -4,7 +4,7 @@
 
 > اضغط للبدء
 
-644 songs - 1 day 11 hr 50 min
+645 songs - 1 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -571,6 +571,7 @@
 | [This Way \(Khalid x H.E.R.\)](https://open.spotify.com/track/0XUHYxHOOctkSXReILAaJV) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [SUPERFLY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0C0Vs4XobImmqpr6kIasde) | 3:31 | 2022-08-20 | 2022-08-27 |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-12-13 | 2023-06-20 |
 | [THUNDER](https://open.spotify.com/track/2nfEO9FHTVArq6XYphuAix) | [M3NACE](https://open.spotify.com/artist/2ny8O1x4bkp9dSq4OCic3o) | [THUNDER](https://open.spotify.com/album/4u1NKP7vjr5S7XxgpepXM1) | 2:07 | 2022-08-05 | 2022-08-14 |
+| [Til My Fingers Bleed \(with DINO, Duckwrth & Telle\)](https://open.spotify.com/track/5ZwXgb8dQuK1GC15s7tG5L) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [EWC](https://open.spotify.com/artist/4kKPwcOLjcgetDZos7Yx1K) | [Til My Fingers Bleed \(with DINO, Duckwrth & Telle\)](https://open.spotify.com/album/6YsKzkuaCcKLEPGN69hnU1) | 3:02 | 2025-06-30 |  |
 | [Till I'm Free](https://open.spotify.com/track/2yiyWdGXAfcEQ0lXaEjyid) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Till I'm Free](https://open.spotify.com/album/6bwuTNlU3ipQLP2P0vHXLO) | 2:30 | 2022-12-13 | 2023-03-04 |
 | [Tiring Game](https://open.spotify.com/track/7eeg1G22Q386Zigie8qrpN) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Revolve](https://open.spotify.com/album/4BJEBuRutpTG0rW5OEg3iu) | 3:23 | 2022-08-26 | 2022-09-04 |
 | [Titanium \(feat\. Sia\)](https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 4:05 | 2022-09-03 | 2022-09-11 |

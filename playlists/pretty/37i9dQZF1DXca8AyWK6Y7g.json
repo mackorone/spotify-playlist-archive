@@ -1,12 +1,12 @@
 {
   "description": "It's been 1640 minutes since you called ",
-  "num_followers": 1582247,
+  "num_followers": 1583173,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF7/cQAAAAC3caR+JKnpPBH9tihBiyFB",
+  "snapshot_id": "aGIKxAAAAABaGV8TcgebcMRP3w/6tr5g",
   "tracks": [
     {
       "added_at": "2025-06-20 04:00:44",
@@ -183,6 +183,22 @@
       "duration_ms": 197963,
       "name": "That Could Be Me",
       "url": "https://open.spotify.com/track/6f8IO8eT70DlP1JsN2bjcm"
+    },
+    {
+      "added_at": "2025-06-30 03:55:48",
+      "album": {
+        "name": "get a grip",
+        "url": "https://open.spotify.com/album/5H4nEGsugYbZwgYPlmkjg8"
+      },
+      "artists": [
+        {
+          "name": "ALINA",
+          "url": "https://open.spotify.com/artist/5dMqTi9pBymJAVzH9V7N86"
+        }
+      ],
+      "duration_ms": 184025,
+      "name": "get a grip",
+      "url": "https://open.spotify.com/track/3u9l98xlkvhs00ywEFPunx"
     },
     {
       "added_at": "2025-06-27 04:00:43",
@@ -915,22 +931,6 @@
       "duration_ms": 216692,
       "name": "Lipstick",
       "url": "https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok"
-    },
-    {
-      "added_at": "2025-05-30 04:00:37",
-      "album": {
-        "name": "Gimmicks",
-        "url": "https://open.spotify.com/album/3vfHStBRAhSVSSCK92TwfV"
-      },
-      "artists": [
-        {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
-        }
-      ],
-      "duration_ms": 197239,
-      "name": "Gimmicks",
-      "url": "https://open.spotify.com/track/4bjE1oWu9t5C2IbGXVxmnU"
     },
     {
       "added_at": "2025-05-16 04:00:12",

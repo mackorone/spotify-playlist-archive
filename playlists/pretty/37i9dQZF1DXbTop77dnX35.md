@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Ayo Maff, JHus, Burna Boy and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,478 likes - 78 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,572 likes - 78 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 16 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
 | 17 | [Wait And See](https://open.spotify.com/track/2znHNaFZVv5BWkyBHi5Yg9) | [Mádé Kuti](https://open.spotify.com/artist/1ZeiiasZFdLdliVe0TJI7b) | [Wait And See](https://open.spotify.com/album/6T8It6D9yLYy8u0eF6LaFL) | 4:23 |
 | 18 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 |
-| 19 | [Bend \(feat\. Skillibeng\)](https://open.spotify.com/track/47AoRNM6DEQmNJwRoG4uZ3) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Pool Party](https://open.spotify.com/album/51o2j8y90vuY7nFzE5A6l8) | 2:53 |
+| 19 | [Bend \(feat\. Skillibeng\)](https://open.spotify.com/track/47AoRNM6DEQmNJwRoG4uZ3) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Pool Party](https://open.spotify.com/album/51o2j8y90vuY7nFzE5A6l8) | 2:52 |
 | 20 | [Bebe](https://open.spotify.com/track/3P0dv391ifXeo4wjJbWd2I) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Soundgod Fest IV](https://open.spotify.com/album/23h9PNNngtRFuQouyVFEsv) | 2:08 |
 | 21 | [Futuristic \(Remix\)](https://open.spotify.com/track/3BGyEi3sWnqDaoPoZslkKO) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf), [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd), [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR) | [Futuristic \(Remix\)](https://open.spotify.com/album/0lBLVeKUDml58h5NZUX9AH) | 2:57 |
 | 22 | [Positions](https://open.spotify.com/track/4QAeS0zhSVwnNvIXQnDghp) | [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Positions](https://open.spotify.com/album/3NX2ofsgCfdrIMJPP13TXu) | 2:16 |

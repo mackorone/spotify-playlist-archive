@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/7wayRI97YKruzv8kyy3zok?si=90ny7O9HT2yus\-8jRz3M\-g">Mbuzeni</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,697 likes - 79 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,836 likes - 79 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

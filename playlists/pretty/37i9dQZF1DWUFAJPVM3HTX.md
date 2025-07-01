@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > Celebrating 10 years of  the best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/15b0BXl4cHzRDfGhupATdb?si=IDMXxIdHR1\-uran8XginQA"> Spaceluvrrr</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,411 likes - 539 songs - 1 day 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,450 likes - 539 songs - 1 day 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Where nature and white noise meet.",
-  "num_followers": 920109,
+  "num_followers": 920049,
   "original_name": "Nature Noise",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-02-19 14:39:42",
       "album": {
-        "name": "Satisfying Rain",
-        "url": "https://open.spotify.com/album/4rubn7sVQxo9biA0yeofh6"
-      },
-      "artists": [
-        {
-          "name": "WeatherBug",
-          "url": "https://open.spotify.com/artist/0uU87nlGO0v4JcxS7tMPdB"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Satisfying Rain",
-      "url": "https://open.spotify.com/track/2S8THgm4D9ibaTT1gLWx2F"
-    },
-    {
-      "added_at": "2025-02-19 14:39:42",
-      "album": {
         "name": "Cloud Droplets",
         "url": "https://open.spotify.com/album/185dupnKF5DukVuwY38967"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 159753,
       "name": "Ground Level",
       "url": "https://open.spotify.com/track/5s8EezAFdXNiHOvOutgtOU"
+    },
+    {
+      "added_at": "2025-02-19 14:39:42",
+      "album": {
+        "name": "Satisfying Rain",
+        "url": "https://open.spotify.com/album/4rubn7sVQxo9biA0yeofh6"
+      },
+      "artists": [
+        {
+          "name": "WeatherBug",
+          "url": "https://open.spotify.com/artist/0uU87nlGO0v4JcxS7tMPdB"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Satisfying Rain",
+      "url": "https://open.spotify.com/track/2S8THgm4D9ibaTT1gLWx2F"
     },
     {
       "added_at": "2025-02-19 14:39:42",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-02-19 14:39:42",
       "album": {
-        "name": "Weather and Nature Sounds",
-        "url": "https://open.spotify.com/album/3wWgSu413Q50AqwXnc6Ui7"
-      },
-      "artists": [
-        {
-          "name": "Earthlite",
-          "url": "https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p"
-        }
-      ],
-      "duration_ms": 182358,
-      "name": "River Roots",
-      "url": "https://open.spotify.com/track/2g8lc5nr98KWHdQHh0FdNP"
-    },
-    {
-      "added_at": "2025-02-19 14:39:42",
-      "album": {
         "name": "Soothing River Sounds",
         "url": "https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 169983,
       "name": "Upstream River Sounds",
       "url": "https://open.spotify.com/track/3HtzQDc13GIkar1d3suvKl"
+    },
+    {
+      "added_at": "2025-02-19 14:39:42",
+      "album": {
+        "name": "Weather and Nature Sounds",
+        "url": "https://open.spotify.com/album/3wWgSu413Q50AqwXnc6Ui7"
+      },
+      "artists": [
+        {
+          "name": "Earthlite",
+          "url": "https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p"
+        }
+      ],
+      "duration_ms": 182358,
+      "name": "River Roots",
+      "url": "https://open.spotify.com/track/2g8lc5nr98KWHdQHh0FdNP"
     },
     {
       "added_at": "2025-02-19 14:39:42",
@@ -795,18 +795,18 @@
     {
       "added_at": "2025-02-19 14:39:42",
       "album": {
-        "name": "Oceanic Breeze",
-        "url": "https://open.spotify.com/album/57LHRRqc9ItBhuwmRFEMqp"
+        "name": "White Pine Rain",
+        "url": "https://open.spotify.com/album/7mCFmEXBNEjAiN76HCAHN0"
       },
       "artists": [
         {
-          "name": "Brainwave Samples",
-          "url": "https://open.spotify.com/artist/3yivOlARUBTtzvsacIgLb7"
+          "name": "D\u00e9sir\u00e9 Renaud",
+          "url": "https://open.spotify.com/artist/25vUptgRQxLAmNDHgXk2be"
         }
       ],
-      "duration_ms": 172960,
-      "name": "Distant Waves Pt. 1",
-      "url": "https://open.spotify.com/track/1a02pxK7AH63PZhGMUCUCh"
+      "duration_ms": 184494,
+      "name": "White Pine Rain",
+      "url": "https://open.spotify.com/track/6Js4qnrUgVqgq7Jr6XgiDe"
     },
     {
       "added_at": "2025-02-19 14:39:42",
@@ -827,34 +827,18 @@
     {
       "added_at": "2025-02-19 14:39:42",
       "album": {
-        "name": "White Pine Rain",
-        "url": "https://open.spotify.com/album/7mCFmEXBNEjAiN76HCAHN0"
+        "name": "Oceanic Breeze",
+        "url": "https://open.spotify.com/album/57LHRRqc9ItBhuwmRFEMqp"
       },
       "artists": [
         {
-          "name": "D\u00e9sir\u00e9 Renaud",
-          "url": "https://open.spotify.com/artist/25vUptgRQxLAmNDHgXk2be"
+          "name": "Brainwave Samples",
+          "url": "https://open.spotify.com/artist/3yivOlARUBTtzvsacIgLb7"
         }
       ],
-      "duration_ms": 184494,
-      "name": "White Pine Rain",
-      "url": "https://open.spotify.com/track/6Js4qnrUgVqgq7Jr6XgiDe"
-    },
-    {
-      "added_at": "2025-02-19 14:39:42",
-      "album": {
-        "name": "Late Night Rain",
-        "url": "https://open.spotify.com/album/3mVc5Qq7VqnhPKPaMgr4X0"
-      },
-      "artists": [
-        {
-          "name": "Imvula",
-          "url": "https://open.spotify.com/artist/3r3j7rY4YaOCA5Fncnz6f6"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Late Night Rain",
-      "url": "https://open.spotify.com/track/7IWvpAL0QrNCu07HAj2Y9c"
+      "duration_ms": 172960,
+      "name": "Distant Waves Pt. 1",
+      "url": "https://open.spotify.com/track/1a02pxK7AH63PZhGMUCUCh"
     },
     {
       "added_at": "2025-02-19 14:39:42",
@@ -871,6 +855,22 @@
       "duration_ms": 181406,
       "name": "River Rain",
       "url": "https://open.spotify.com/track/4gkJWcgc9QCFursmUBOirO"
+    },
+    {
+      "added_at": "2025-02-19 14:39:42",
+      "album": {
+        "name": "Late Night Rain",
+        "url": "https://open.spotify.com/album/3mVc5Qq7VqnhPKPaMgr4X0"
+      },
+      "artists": [
+        {
+          "name": "Imvula",
+          "url": "https://open.spotify.com/artist/3r3j7rY4YaOCA5Fncnz6f6"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Late Night Rain",
+      "url": "https://open.spotify.com/track/7IWvpAL0QrNCu07HAj2Y9c"
     },
     {
       "added_at": "2025-02-19 14:39:42",
@@ -987,6 +987,22 @@
     {
       "added_at": "2025-02-19 14:39:42",
       "album": {
+        "name": "Suburban Rain Sounds",
+        "url": "https://open.spotify.com/album/0TgW0ohXTbUPnZBvkUVih2"
+      },
+      "artists": [
+        {
+          "name": "Weather and Nature Recordings",
+          "url": "https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe"
+        }
+      ],
+      "duration_ms": 211019,
+      "name": "Steady Rainfall",
+      "url": "https://open.spotify.com/track/39BW5mOBurJlUpeIJhzrys"
+    },
+    {
+      "added_at": "2025-02-19 14:39:42",
+      "album": {
         "name": "Rain Day",
         "url": "https://open.spotify.com/album/7H7Mh2c47UIakZJlkwEYAs"
       },
@@ -1019,18 +1035,34 @@
     {
       "added_at": "2025-02-19 14:39:42",
       "album": {
-        "name": "Suburban Rain Sounds",
-        "url": "https://open.spotify.com/album/0TgW0ohXTbUPnZBvkUVih2"
+        "name": "Oceanic Samples",
+        "url": "https://open.spotify.com/album/2ffO6O5OI2XeIx02v1pdTt"
       },
       "artists": [
         {
-          "name": "Weather and Nature Recordings",
-          "url": "https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe"
+          "name": "Hi Freq Samples",
+          "url": "https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw"
         }
       ],
-      "duration_ms": 211019,
-      "name": "Steady Rainfall",
-      "url": "https://open.spotify.com/track/39BW5mOBurJlUpeIJhzrys"
+      "duration_ms": 173349,
+      "name": "Oceanic Samples",
+      "url": "https://open.spotify.com/track/7t87vcupUHamRBHfIOh1Rm"
+    },
+    {
+      "added_at": "2025-02-19 14:39:42",
+      "album": {
+        "name": "Rain Ambience",
+        "url": "https://open.spotify.com/album/1KTaSrFgB6KZfzJTxCWXIV"
+      },
+      "artists": [
+        {
+          "name": "Ambature",
+          "url": "https://open.spotify.com/artist/75H8JLJECgFwyMddSZSvIM"
+        }
+      ],
+      "duration_ms": 133021,
+      "name": "Rain Ambience",
+      "url": "https://open.spotify.com/track/0CBPKuwcdJpHiF1KtWKkg9"
     },
     {
       "added_at": "2025-02-19 14:39:42",
@@ -1051,18 +1083,18 @@
     {
       "added_at": "2025-02-19 14:39:42",
       "album": {
-        "name": "Oceanic Samples",
-        "url": "https://open.spotify.com/album/2ffO6O5OI2XeIx02v1pdTt"
+        "name": "Sleep Rain",
+        "url": "https://open.spotify.com/album/3oRN8iIXisYNaL5p9qbgaV"
       },
       "artists": [
         {
-          "name": "Hi Freq Samples",
-          "url": "https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw"
+          "name": "Sleep, Study, Focus",
+          "url": "https://open.spotify.com/artist/1KLREyUk3MawnpXeaicU5J"
         }
       ],
-      "duration_ms": 173349,
-      "name": "Oceanic Samples",
-      "url": "https://open.spotify.com/track/7t87vcupUHamRBHfIOh1Rm"
+      "duration_ms": 218500,
+      "name": "Fall Asleep In The Rainforest",
+      "url": "https://open.spotify.com/track/6laELth2IuDYyBx5hm4epM"
     },
     {
       "added_at": "2025-02-19 14:39:42",
@@ -1099,22 +1131,6 @@
     {
       "added_at": "2025-02-19 14:39:42",
       "album": {
-        "name": "Rain Ambience",
-        "url": "https://open.spotify.com/album/1KTaSrFgB6KZfzJTxCWXIV"
-      },
-      "artists": [
-        {
-          "name": "Ambature",
-          "url": "https://open.spotify.com/artist/75H8JLJECgFwyMddSZSvIM"
-        }
-      ],
-      "duration_ms": 133021,
-      "name": "Rain Ambience",
-      "url": "https://open.spotify.com/track/0CBPKuwcdJpHiF1KtWKkg9"
-    },
-    {
-      "added_at": "2025-02-19 14:39:42",
-      "album": {
         "name": "Volume 2",
         "url": "https://open.spotify.com/album/5JszjLduB2DL2yy9jAu92o"
       },
@@ -1143,6 +1159,22 @@
       "duration_ms": 201000,
       "name": "Water and White Noise",
       "url": "https://open.spotify.com/track/4CGwM2G1epgKiGoU29qGiA"
+    },
+    {
+      "added_at": "2025-02-19 14:39:42",
+      "album": {
+        "name": "Ocean HD Vol. 2",
+        "url": "https://open.spotify.com/album/43VltFaOtQmwos3qwZxJsU"
+      },
+      "artists": [
+        {
+          "name": "Worldwide Nature Studios",
+          "url": "https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx"
+        }
+      ],
+      "duration_ms": 188374,
+      "name": "Morning By The Ocean",
+      "url": "https://open.spotify.com/track/42rgtZOk6UoK0T7K4DV2Ju"
     },
     {
       "added_at": "2025-02-19 14:39:42",
@@ -1179,22 +1211,6 @@
     {
       "added_at": "2025-02-19 14:39:42",
       "album": {
-        "name": "Ocean HD Vol. 2",
-        "url": "https://open.spotify.com/album/43VltFaOtQmwos3qwZxJsU"
-      },
-      "artists": [
-        {
-          "name": "Worldwide Nature Studios",
-          "url": "https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx"
-        }
-      ],
-      "duration_ms": 188374,
-      "name": "Morning By The Ocean",
-      "url": "https://open.spotify.com/track/42rgtZOk6UoK0T7K4DV2Ju"
-    },
-    {
-      "added_at": "2025-02-19 14:39:42",
-      "album": {
         "name": "Rainfall Place",
         "url": "https://open.spotify.com/album/0XYQjSIyavsYfrPr7XiUsN"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 142663,
       "name": "Sleep Well Rain",
       "url": "https://open.spotify.com/track/1uf2Q4KhwuhWJ7DFBDrGvZ"
-    },
-    {
-      "added_at": "2025-02-19 14:39:42",
-      "album": {
-        "name": "Sleep Rain",
-        "url": "https://open.spotify.com/album/3oRN8iIXisYNaL5p9qbgaV"
-      },
-      "artists": [
-        {
-          "name": "Sleep, Study, Focus",
-          "url": "https://open.spotify.com/artist/1KLREyUk3MawnpXeaicU5J"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Fall Asleep In The Rainforest",
-      "url": "https://open.spotify.com/track/6laELth2IuDYyBx5hm4epM"
     },
     {
       "added_at": "2025-02-19 14:39:42",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-02-19 14:39:42",
       "album": {
-        "name": "Rain Sounds Vol. 1",
-        "url": "https://open.spotify.com/album/5qyBJ814BTtn20m8dXbTxj"
-      },
-      "artists": [
-        {
-          "name": "Worldwide Nature Studios",
-          "url": "https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx"
-        }
-      ],
-      "duration_ms": 153054,
-      "name": "Rain Falling Down",
-      "url": "https://open.spotify.com/track/3v8tpKiO7zMZomEQh53cve"
-    },
-    {
-      "added_at": "2025-02-19 14:39:42",
-      "album": {
         "name": "Dans La Pluie",
         "url": "https://open.spotify.com/album/3W7AE7mWmVesrtg8KuJea5"
       },
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2025-02-19 14:39:42",
       "album": {
+        "name": "Rain Sounds Vol. 1",
+        "url": "https://open.spotify.com/album/5qyBJ814BTtn20m8dXbTxj"
+      },
+      "artists": [
+        {
+          "name": "Worldwide Nature Studios",
+          "url": "https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx"
+        }
+      ],
+      "duration_ms": 153054,
+      "name": "Rain Falling Down",
+      "url": "https://open.spotify.com/track/3v8tpKiO7zMZomEQh53cve"
+    },
+    {
+      "added_at": "2025-02-19 14:39:42",
+      "album": {
         "name": "Eye Of The Rain",
         "url": "https://open.spotify.com/album/6YpLnqT6dPYyacJMO0dLwZ"
       },
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-02-19 14:39:42",
       "album": {
-        "name": "Rain Dance Sounds",
-        "url": "https://open.spotify.com/album/1CKrMwqgoOHP51S6EqC65q"
-      },
-      "artists": [
-        {
-          "name": "Lullaby Rain",
-          "url": "https://open.spotify.com/artist/5wIxFf9jir05erRCw4Jyr1"
-        }
-      ],
-      "duration_ms": 131535,
-      "name": "Rain Dance Sounds",
-      "url": "https://open.spotify.com/track/4PI3a6dZjAYoHp1zI0pIOW"
-    },
-    {
-      "added_at": "2025-02-19 14:39:42",
-      "album": {
         "name": "Rain Healing",
         "url": "https://open.spotify.com/album/4M1SM1am0TFgRp3RJOcjmX"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 176000,
       "name": "Eternal Rain",
       "url": "https://open.spotify.com/track/2fWQD5MZ0TxrgNDqcBZkCB"
+    },
+    {
+      "added_at": "2025-02-19 14:39:42",
+      "album": {
+        "name": "Rain Dance Sounds",
+        "url": "https://open.spotify.com/album/1CKrMwqgoOHP51S6EqC65q"
+      },
+      "artists": [
+        {
+          "name": "Lullaby Rain",
+          "url": "https://open.spotify.com/artist/5wIxFf9jir05erRCw4Jyr1"
+        }
+      ],
+      "duration_ms": 131535,
+      "name": "Rain Dance Sounds",
+      "url": "https://open.spotify.com/track/4PI3a6dZjAYoHp1zI0pIOW"
     },
     {
       "added_at": "2025-02-19 14:39:42",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-02-19 14:39:42",
       "album": {
-        "name": "Wave Period",
-        "url": "https://open.spotify.com/album/75qHF82HCi47YOiDfgKX1Q"
-      },
-      "artists": [
-        {
-          "name": "Deeply Oceanic",
-          "url": "https://open.spotify.com/artist/5XxDTSUvUZnEOlY6plTe9v"
-        }
-      ],
-      "duration_ms": 164954,
-      "name": "Looking At The Ocean",
-      "url": "https://open.spotify.com/track/3EwIzgNyOL5siTxOaZL0fo"
-    },
-    {
-      "added_at": "2025-02-19 14:39:42",
-      "album": {
         "name": "Contemplation by the Sea",
         "url": "https://open.spotify.com/album/0YLBgediglomrRmXQFsX3a"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 134741,
       "name": "The Windy Sea and the Magic Black Clow",
       "url": "https://open.spotify.com/track/0tFbty1a2beobzgmV5Cwlf"
+    },
+    {
+      "added_at": "2025-02-19 14:39:42",
+      "album": {
+        "name": "Wave Period",
+        "url": "https://open.spotify.com/album/75qHF82HCi47YOiDfgKX1Q"
+      },
+      "artists": [
+        {
+          "name": "Deeply Oceanic",
+          "url": "https://open.spotify.com/artist/5XxDTSUvUZnEOlY6plTe9v"
+        }
+      ],
+      "duration_ms": 164954,
+      "name": "Looking At The Ocean",
+      "url": "https://open.spotify.com/track/3EwIzgNyOL5siTxOaZL0fo"
     },
     {
       "added_at": "2025-02-19 14:39:42",

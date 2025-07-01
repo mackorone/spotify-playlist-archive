@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,892 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,897 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [OCG](https://open.spotify.com/track/1wz0imYNaHwJbkDrA9GfKR) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV), [SaintPrince 52](https://open.spotify.com/artist/3E1U4YuY7Fov6RZ8G6EMpH) | [Graf Monte\-Cristo / Most Valuable Pirate](https://open.spotify.com/album/61ps9wdfl2bgjaKOPQ9zCb) | 2:20 |
 | 50 | [Москва \- Владивосток](https://open.spotify.com/track/3mvqKKyF6rgYd52bBSCTza) | [9mice](https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm) | [Москва \- Владивосток](https://open.spotify.com/album/1jR0KfwYZVuOXVPMgDntj0) | 2:59 |
 
-Snapshot ID: `L/Sw0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L/YEqAAAAAAAAAAAAAAAAAAAAAAAAGVu`

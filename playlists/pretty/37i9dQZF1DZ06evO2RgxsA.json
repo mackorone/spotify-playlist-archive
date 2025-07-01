@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 91736,
+  "num_followers": 91748,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF8wgAAAAACBtWONJmA2zoLiQisDQp17",
+  "snapshot_id": "aGCCAAAAAADF/8bE5ldvRQs0yO4Z9kgG",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Entitled",
-        "url": "https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18"
+        "name": "The Longest EP",
+        "url": "https://open.spotify.com/album/2PxPjYo7QT9Utmz0seSLjW"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 122746,
-      "name": "Cell Out",
-      "url": "https://open.spotify.com/track/2qwCYIsEj4vtsROxuEBss1"
+      "duration_ms": 30880,
+      "name": "I Wanna Be an Alcoholic",
+      "url": "https://open.spotify.com/track/6k4uZukGqY0TyQ2CxkeYGz"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Self Entitled",
+        "url": "https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 122746,
+      "name": "Cell Out",
+      "url": "https://open.spotify.com/track/2qwCYIsEj4vtsROxuEBss1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "First Ditch Effort",
         "url": "https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 150053,
       "name": "I Don't Like Me Anymore",
       "url": "https://open.spotify.com/track/01w1IdzXfNmu033rWe4XrT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Longest EP",
-        "url": "https://open.spotify.com/album/2PxPjYo7QT9Utmz0seSLjW"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 30880,
-      "name": "I Wanna Be an Alcoholic",
-      "url": "https://open.spotify.com/track/6k4uZukGqY0TyQ2CxkeYGz"
     },
     {
       "added_at": null,

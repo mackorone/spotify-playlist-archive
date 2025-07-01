@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Israel Salazar
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,273,318 likes - 75 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,273,632 likes - 75 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

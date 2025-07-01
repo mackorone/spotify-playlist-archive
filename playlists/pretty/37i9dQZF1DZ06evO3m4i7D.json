@@ -1,12 +1,12 @@
 {
   "description": "This is Eugenio Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2065,
+  "num_followers": 2067,
   "original_name": "This Is Eugenio Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF8wgAAAAADH61OsjnlcgTos29jJoS55",
+  "snapshot_id": "aGCCAAAAAAANEN3mYKInTeHj3YrlvS1R",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa Que Sepan",
+        "url": "https://open.spotify.com/album/709GhQq0Z1aKimTNKLkIs3"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        },
+        {
+          "name": "El Primo",
+          "url": "https://open.spotify.com/artist/0NL0BLJ1i5n6askNoLoOb8"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 228586,
+      "name": "Pa Que Sepan",
+      "url": "https://open.spotify.com/track/5PQUxBt32csrfY9hTjUG1G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RENATA",
         "url": "https://open.spotify.com/album/4reKG6djpYUUDTDbcLX1jz"
       },
@@ -279,38 +311,6 @@
       "duration_ms": 234642,
       "name": "RENATA",
       "url": "https://open.spotify.com/track/78rFjdqCo8SOH9WHQDUCbT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa Que Sepan",
-        "url": "https://open.spotify.com/album/7zVtF9DuwtaGFBYIL1ae4K"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Remp",
-          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
-        },
-        {
-          "name": "El Primo",
-          "url": "https://open.spotify.com/artist/0NL0BLJ1i5n6askNoLoOb8"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 228586,
-      "name": "Pa Que Sepan",
-      "url": "https://open.spotify.com/track/1N0uyVuMLm7qK9h9RPj1Nx"
     },
     {
       "added_at": null,

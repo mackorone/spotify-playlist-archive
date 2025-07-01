@@ -4,7 +4,7 @@
 
 > Marine, Teddy Swims, Soolking & Ninho au top des nouveautés de la semaine !
 
-5,289 songs - 11 day 11 hr 2 min
+5,290 songs - 11 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3631,6 +3631,7 @@
 | [Paris](https://open.spotify.com/track/1RF0JuRVgZTTlJ5plNE1Je) | [21 Juin Le Duo](https://open.spotify.com/artist/0UUuBtaLyglYTbgfjTw1vT) | [Paris](https://open.spotify.com/album/2gOfzHzdcsCfOpVlp2lqwd) | 2:53 | 2024-06-27 | 2024-07-05 |
 | [Paris](https://open.spotify.com/track/6ctcVdXaJKn5LVFDjMBqzc) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [Paris](https://open.spotify.com/album/6oA8BfOJmuXqrHNCb2JfeZ) | 2:52 | 2025-04-03 | 2025-04-11 |
 | [Paris Amour](https://open.spotify.com/track/3uJvgK0JVKNVbOHQe0RPfR) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [Paris Amour](https://open.spotify.com/album/5UPeTy8r4aoKnZtRP6PnMa) | 3:40 | 2025-06-19 | 2025-06-27 |
+| [Paris lumière \- A Ritz Paris Song](https://open.spotify.com/track/459eXxXJxce7K4pZkBpEmf) | [Vanille](https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI) | [Paris lumière \(A Ritz Paris Song\)](https://open.spotify.com/album/1nVAVjQuL83GYD8rx4opl5) | 2:42 | 2025-06-26 |  |
 | [Parking Lot](https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Parking Lot](https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi) | 2:55 | 2024-06-20 | 2024-06-28 |
 | [Parle\-moi](https://open.spotify.com/track/0k9iM3COkfGZYpvlYhn2Y6) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [C amir](https://open.spotify.com/album/2l4Q5GHkU4wAvq4oLGFa00) | 2:50 | 2024-09-12 | 2024-09-20 |
 | [Parle\-moi..\. ou pas](https://open.spotify.com/track/1fvWSvZOi1xm2MzxS4IMCZ) | [Philippine Lavrey](https://open.spotify.com/artist/2o7TjwrbU1Q3BpUbUnQ9CY) | [Parle\-moi..\. ou pas](https://open.spotify.com/album/0oeo2vtHzFPJcRgCM28vxJ) | 2:28 | 2024-10-10 | 2024-10-18 |

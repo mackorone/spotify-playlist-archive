@@ -168,7 +168,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 144000,
       "name": "about love!",
       "url": "https://open.spotify.com/track/14XuCBx67bpvFXqbemfWG6"
@@ -490,6 +490,28 @@
       "duration_ms": 221360,
       "name": "aya",
       "url": "https://open.spotify.com/track/7dHmIDIWQ6HsKNa6iP5jGz"
+    },
+    {
+      "album": {
+        "name": "Baby Step",
+        "url": "https://open.spotify.com/album/2mZfRTmfhY6eQXYcfIqxRq"
+      },
+      "artists": [
+        {
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+        },
+        {
+          "name": "siso",
+          "url": "https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181395,
+      "name": "Baby Step (feat. siso)",
+      "url": "https://open.spotify.com/track/2s32yDDsDOnDAuIQ24h1QP"
     },
     {
       "album": {
@@ -2068,7 +2090,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 138986,
       "name": "Ghosted",
       "url": "https://open.spotify.com/track/0DPiEfTmgBtVzoV066npco"
@@ -5646,7 +5668,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 180915,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/78d8vuiNI2oNtc6UUJjFyk"
@@ -5704,6 +5726,24 @@
       "duration_ms": 204120,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
+    },
+    {
+      "album": {
+        "name": "Sweet Tricks",
+        "url": "https://open.spotify.com/album/7Ld8lnNhB0ACTCPvig8YVO"
+      },
+      "artists": [
+        {
+          "name": "Park Se Jung",
+          "url": "https://open.spotify.com/artist/4NegBbNnbzZqSOWOKpRpyx"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Sweet Tricks",
+      "url": "https://open.spotify.com/track/3lyHGRigP5FRzWUo50FZqd"
     },
     {
       "album": {
@@ -6586,6 +6626,24 @@
       "duration_ms": 215857,
       "name": "What are you thinking about?",
       "url": "https://open.spotify.com/track/1eimXRbiVMsqSvTLj8Tt41"
+    },
+    {
+      "album": {
+        "name": "[ MAL ]",
+        "url": "https://open.spotify.com/album/6vJ9SjwikssdLvZsrdUVb1"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185639,
+      "name": "What I want to say",
+      "url": "https://open.spotify.com/track/1228Lo3MdhN679xaHiQrYa"
     },
     {
       "album": {

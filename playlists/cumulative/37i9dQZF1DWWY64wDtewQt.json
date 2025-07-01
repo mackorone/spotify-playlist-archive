@@ -5853,6 +5853,24 @@
     },
     {
       "album": {
+        "name": "FUNK SIGILO",
+        "url": "https://open.spotify.com/album/3gciIH7IvN83uLz6Ay983i"
+      },
+      "artists": [
+        {
+          "name": "h6itam",
+          "url": "https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103587,
+      "name": "FUNK SIGILO - SLOWED",
+      "url": "https://open.spotify.com/track/1ZPszVMluDbqsEx9MJTjJd"
+    },
+    {
+      "album": {
         "name": "FUNK UNIVERSO",
         "url": "https://open.spotify.com/album/1kmsUHDC0n611meNgzRkuw"
       },
@@ -7618,7 +7636,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 98181,
       "name": "krushed!",
       "url": "https://open.spotify.com/track/3iQ1B1jF370iZEaJUIs3eJ"
@@ -15950,6 +15968,28 @@
       "duration_ms": 147969,
       "name": "VEHEMENTS",
       "url": "https://open.spotify.com/track/0mNbESRpFYMbBkuSOXK8T1"
+    },
+    {
+      "album": {
+        "name": "Vem Vem",
+        "url": "https://open.spotify.com/album/5fvUS8yHMCkTZj4sJ0FHDV"
+      },
+      "artists": [
+        {
+          "name": "Jmilton",
+          "url": "https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz"
+        },
+        {
+          "name": "MC Xangai",
+          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83183,
+      "name": "Vem Vem",
+      "url": "https://open.spotify.com/track/2FnkrCrbXJuebXxnVtXiHI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Rich Brian
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,829 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,847 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 14 | [Best For Me](https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:27 |
 | 15 | [Time Flies](https://open.spotify.com/track/5E3upQeg47ZTnpNkk7DjsM) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Time Flies](https://open.spotify.com/album/6qE7AdkTHRdOh40JYZctFQ) | 4:15 |
 | 16 | [Sugar](https://open.spotify.com/track/0NDtqYhhPiGTUGCJBmHsJG) | [VARITDA](https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB) | [Sugar](https://open.spotify.com/album/2lIFJ8da4YeAtyAW3kvha5) | 3:12 |
-| 17 | [would u \(still believe\)](https://open.spotify.com/track/2vTnW2vgLNjpYGRnCE5MSF) | [limr](https://open.spotify.com/artist/5WQwpcvrXsOltn2qpA7x2p) | [would u \(still believe\)](https://open.spotify.com/album/6omtpGoZ6ETht6mTBJxaAf) | 2:50 |
+| 17 | [would u \(still believe\)](https://open.spotify.com/track/2vTnW2vgLNjpYGRnCE5MSF) | [limr](https://open.spotify.com/artist/4TvkVmUuUpnJF309qPMlcj) | [would u \(still believe\)](https://open.spotify.com/album/6omtpGoZ6ETht6mTBJxaAf) | 2:50 |
 | 18 | [baby, lmk](https://open.spotify.com/track/2xYtaFbnusB8RDW4lxkimy) | [Notkyle](https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D), [Lukey](https://open.spotify.com/artist/3do4yL5zwMViERQIwA6KYp) | [baby, lmk](https://open.spotify.com/album/0VzytjR0VnjonQrySdnocY) | 3:26 |
 | 19 | [PANIC](https://open.spotify.com/track/5YSQoSiK7pm49nIxUGoAxc) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd), [Umar Sirhan](https://open.spotify.com/artist/1aBGLr4Mt61I8hhejBgNnk) | [PANIC](https://open.spotify.com/album/3CEcLvfS5dT0G9dlvy5vRU) | 3:23 |
 | 20 | [Geisha](https://open.spotify.com/track/7mT9B4TW8RSYvHqipKxj19) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Radio Geisha ,Pt.1](https://open.spotify.com/album/7p7J5pN2b9XyYSLzNz5MS2) | 3:10 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 81 | [Bad Girls](https://open.spotify.com/track/0adySBJEfMd5xAWkzEOVTb) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rahul Rajkhowa](https://open.spotify.com/artist/443XJUhCBjuQhbDp3USEFi) | [Bad Girls](https://open.spotify.com/album/4YYvXKLuNhxK35r7JwjMbG) | 3:18 |
 | 82 | [A Seat For You \(feat\. Quinn Oulton\)](https://open.spotify.com/track/4PTvtwE3FMkwRYRpgNJckO) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT), [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [A Seat For You \(feat\. Quinn Oulton\)](https://open.spotify.com/album/2YmzK6yQ9pZuR9ZQPyX4gJ) | 3:10 |
 | 83 | [Honey](https://open.spotify.com/track/2aSsPrNGZOZ0nKQ2hcX4oC) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Honey](https://open.spotify.com/album/3kfm2jMiEhsWLwgCjjHHEg) | 2:32 |
-| 84 | [together](https://open.spotify.com/track/0B6bAjWKR7trUwZXxmsLdX) | [limr](https://open.spotify.com/artist/5WQwpcvrXsOltn2qpA7x2p) | [together](https://open.spotify.com/album/2BiguYLSZ0YHk7Na8jp6aI) | 3:40 |
+| 84 | [together](https://open.spotify.com/track/0B6bAjWKR7trUwZXxmsLdX) | [limr](https://open.spotify.com/artist/4TvkVmUuUpnJF309qPMlcj) | [together](https://open.spotify.com/album/2BiguYLSZ0YHk7Na8jp6aI) | 3:40 |
 | 85 | [Side by Side](https://open.spotify.com/track/5S10MucarvxNFxdAJ71qpj) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Side by Side](https://open.spotify.com/album/0qGcBT4Tzf8lRNFlFHxZPi) | 4:19 |
 | 86 | [Before It's Too Late](https://open.spotify.com/track/3KZyt06EPdbV8mv5hAbGJj) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Before It's Too Late](https://open.spotify.com/album/5kdwRsVhgbmWsxDBx74U4o) | 4:00 |
 | 87 | [POV](https://open.spotify.com/track/6FWq2bYylayWao7hUzT4zc) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [96](https://open.spotify.com/album/2kAA71fuWIvHSJ2FfD2Pjg) | 2:45 |

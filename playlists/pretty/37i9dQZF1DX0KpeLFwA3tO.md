@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: SPRINTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,960 likes - 127 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,976 likes - 127 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Nacimos para rodar en el asfalto. ",
-  "num_followers": 169034,
+  "num_followers": 169166,
   "original_name": "Las Choppers",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-06-20 06:00:32",
       "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 340907,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv"
-    },
-    {
-      "added_at": "2025-06-20 06:00:32",
-      "album": {
         "name": "Who's Next (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 300400,
       "name": "Baba O'Riley",
       "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
+    },
+    {
+      "added_at": "2025-06-20 06:00:32",
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 340907,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv"
     },
     {
       "added_at": "2025-06-20 06:00:32",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-06-20 06:00:32",
       "album": {
-        "name": "Rock N Roller",
-        "url": "https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 223694,
-      "name": "Rock N Roller",
-      "url": "https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7"
-    },
-    {
-      "added_at": "2025-06-20 06:00:32",
-      "album": {
         "name": "Somewhere Back in Time (The Best of 1980 - 1989)",
         "url": "https://open.spotify.com/album/0SmIkzc7YgxqBV0V5RcbPt"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 230375,
       "name": "The Gallows",
       "url": "https://open.spotify.com/track/6lF3rwnMFBlbZeCWwZTWoS"
+    },
+    {
+      "added_at": "2025-06-20 06:00:32",
+      "album": {
+        "name": "Rock N Roller",
+        "url": "https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 223694,
+      "name": "Rock N Roller",
+      "url": "https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7"
     },
     {
       "added_at": "2025-06-20 06:00:32",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-06-20 06:00:32",
       "album": {
-        "name": "Hot Wire",
-        "url": "https://open.spotify.com/album/1w4WPh0JBQbnrwwes1kgHi"
-      },
-      "artists": [
-        {
-          "name": "Kix",
-          "url": "https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "Girl Money",
-      "url": "https://open.spotify.com/track/79A7CDgqh8SMvTbgA53pIC"
-    },
-    {
-      "added_at": "2025-06-20 06:00:32",
-      "album": {
         "name": "Lord Humungus",
         "url": "https://open.spotify.com/album/6WAm49g3DPOA81i4feU5IP"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 214500,
       "name": "Lord Humungus",
       "url": "https://open.spotify.com/track/6vvwN7NgsNGVfXLmkVeftX"
+    },
+    {
+      "added_at": "2025-06-20 06:00:32",
+      "album": {
+        "name": "Hot Wire",
+        "url": "https://open.spotify.com/album/1w4WPh0JBQbnrwwes1kgHi"
+      },
+      "artists": [
+        {
+          "name": "Kix",
+          "url": "https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Girl Money",
+      "url": "https://open.spotify.com/track/79A7CDgqh8SMvTbgA53pIC"
     },
     {
       "added_at": "2025-06-20 06:00:32",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2025-06-20 06:00:32",
       "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+        "name": "SIX",
+        "url": "https://open.spotify.com/album/4u8ShfrnVWBOKmY9JK9fg0"
       },
       "artists": [
         {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
         }
       ],
-      "duration_ms": 179760,
-      "name": "I Wanna Rock",
-      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
+      "duration_ms": 275026,
+      "name": "RISE",
+      "url": "https://open.spotify.com/track/2HSzFijVYyUpdw0Aezukdn"
     }
   ],
   "unique_name": "Las Choppers",

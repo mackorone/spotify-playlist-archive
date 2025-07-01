@@ -426,7 +426,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 218418,
       "name": "Benar Salah, Hanyalah Salah",
       "url": "https://open.spotify.com/track/0iuk6Q1sbACtOZuCeTm0vF"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-24",
+      "date_removed": null,
       "duration_ms": 261648,
       "name": "Cinta Takkan Usai",
       "url": "https://open.spotify.com/track/2znqSI4yjhozKqBuAPdKmx"
@@ -878,7 +878,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-24",
+      "date_removed": null,
       "duration_ms": 203000,
       "name": "Dendam Malam Kelam",
       "url": "https://open.spotify.com/track/1QuZ7sthv9U9365BcKUMLE"
@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 209531,
       "name": "Kembali Untukku",
       "url": "https://open.spotify.com/track/7tO9cYgyaQyBLEQEf50R0s"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 269781,
       "name": "Lelah Dilatih Rindu",
       "url": "https://open.spotify.com/track/10s6cbRasW1qCYbmHPHOEP"
@@ -3012,7 +3012,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-24",
+      "date_removed": null,
       "duration_ms": 294031,
       "name": "Sesal",
       "url": "https://open.spotify.com/track/6i3uftr9aQf4u2R8szaD9y"
@@ -3221,6 +3221,28 @@
     },
     {
       "album": {
+        "name": "Sudahlah",
+        "url": "https://open.spotify.com/album/5NFzUXY4nGqDD0YOdKWani"
+      },
+      "artists": [
+        {
+          "name": "Dudy Oris",
+          "url": "https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT"
+        },
+        {
+          "name": "Pika Iskandar",
+          "url": "https://open.spotify.com/artist/3ZYWF9zaonB6IQ7KuOneIo"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Sudahlah",
+      "url": "https://open.spotify.com/track/0E4nRpCzgdSBVwfOBvfEXR"
+    },
+    {
+      "album": {
         "name": "Tak Ada Restu",
         "url": "https://open.spotify.com/album/5TAlWpHFbOl280myoaBR8h"
       },
@@ -3268,7 +3290,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 230500,
       "name": "Tak Berakhir Sama",
       "url": "https://open.spotify.com/track/5NXaiP4tRDJzHWydzRHwQ3"

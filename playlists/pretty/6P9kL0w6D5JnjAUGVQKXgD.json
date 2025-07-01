@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Jackson Wang, Galantis, MK",
-  "num_followers": 47215,
+  "num_followers": 47213,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAIFQGrA73Seynle8ZoAeJO67gjsWDp",
+  "snapshot_id": "AAAIFtOstIJTHrMusFup8gSpG//FA+X6",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -1941,6 +1941,30 @@
       "url": "https://open.spotify.com/track/2UobzZv0qAgAsz01YGHVxg"
     },
     {
+      "added_at": "2025-06-24 00:41:06",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/2qi7v3iROtakEK15bLJ0Zb"
+      },
+      "artists": [
+        {
+          "name": "Lucien",
+          "url": "https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod"
+        },
+        {
+          "name": "Moise",
+          "url": "https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1"
+        },
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        }
+      ],
+      "duration_ms": 133855,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/0QdjuCUA97rPLFj6MBoS82"
+    },
+    {
       "added_at": "2025-05-09 00:41:05",
       "album": {
         "name": "Comes Down",
@@ -1981,6 +2005,30 @@
       "url": "https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd"
     },
     {
+      "added_at": "2025-07-01 00:41:05",
+      "album": {
+        "name": "Woke Up in Love",
+        "url": "https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 216873,
+      "name": "Woke Up in Love",
+      "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"
+    },
+    {
       "added_at": "2024-07-26 00:41:03",
       "album": {
         "name": "Another Day In Paradise",
@@ -2003,54 +2051,6 @@
       "duration_ms": 127680,
       "name": "Another Day In Paradise",
       "url": "https://open.spotify.com/track/0HjogmklU56Soh2HNhbWer"
-    },
-    {
-      "added_at": "2025-06-24 00:41:06",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/2qi7v3iROtakEK15bLJ0Zb"
-      },
-      "artists": [
-        {
-          "name": "Lucien",
-          "url": "https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod"
-        },
-        {
-          "name": "Moise",
-          "url": "https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1"
-        },
-        {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
-        }
-      ],
-      "duration_ms": 133855,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/0QdjuCUA97rPLFj6MBoS82"
-    },
-    {
-      "added_at": "2024-09-27 00:41:03",
-      "album": {
-        "name": "Torn",
-        "url": "https://open.spotify.com/album/6ufrnLeCiplvdCyV5oNLxl"
-      },
-      "artists": [
-        {
-          "name": "Bikini Bandits",
-          "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
-        },
-        {
-          "name": "Lumin8",
-          "url": "https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp"
-        },
-        {
-          "name": "Evan Cole",
-          "url": "https://open.spotify.com/artist/1xmWaOWc9DJRJYZvWPG6vO"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/6IrZcWFFvMF0UzUKyeUpwn"
     }
   ],
   "unique_name": "EDM Top 100",

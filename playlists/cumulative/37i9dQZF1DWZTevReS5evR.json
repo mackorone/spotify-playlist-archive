@@ -4181,6 +4181,24 @@
     },
     {
       "album": {
+        "name": "No. Satu",
+        "url": "https://open.spotify.com/album/6wEqBiTDvjLqqff79FASCD"
+      },
+      "artists": [
+        {
+          "name": "Ratu",
+          "url": "https://open.spotify.com/artist/44XAmn8OQeCCeigsJuju7D"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264200,
+      "name": "Teman Tapi Mesra",
+      "url": "https://open.spotify.com/track/4jSyrbR6gVwoThpsR9uYeZ"
+    },
+    {
+      "album": {
         "name": "Temporary Love",
         "url": "https://open.spotify.com/album/08bgugAl607EFEit8Fot7c"
       },

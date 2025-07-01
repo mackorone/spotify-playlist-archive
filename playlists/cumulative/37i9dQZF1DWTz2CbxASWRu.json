@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Take Me To God",
+        "url": "https://open.spotify.com/album/5uc4gmKuf4bDDa4uZibsoE"
+      },
+      "artists": [
+        {
+          "name": "Jah Wobble's Invaders Of The Heart",
+          "url": "https://open.spotify.com/artist/3f2ld0zljQSyarVWTmaYbd"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250266,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/67CJddX5a58HW680X8smdZ"
+    },
+    {
+      "album": {
         "name": "Another Day",
         "url": "https://open.spotify.com/album/3dgkEw8cFYAj57nKwIrC7p"
       },
@@ -2950,7 +2968,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 229520,
       "name": "Diosa Luolaien",
       "url": "https://open.spotify.com/track/4uOtn5tM08iQvzL4N3EIBH"

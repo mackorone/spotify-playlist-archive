@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u9019\u4e9b\u6b4c\u9084\u5f88\u7d05\u4e5f\uff01\u5df2\u7d93\u4e0d\u53ea\u4e00\u5e74\u4e86\uff1f\u9ad8\u4eba\u6c23\u91d1\u66f2\u8b93\u4f60\u4e00\u8def\u807d\u4e0b\u53bb\uff01Cover: DIOR\u5927\u7a4e",
+  "description": "\u9019\u4e9b\u6b4c\u9084\u5f88\u7d05\u4e5f\uff01\u5df2\u7d93\u4e0d\u53ea\u4e00\u5e74\u4e86\uff1f\u9ad8\u4eba\u6c23\u91d1\u66f2\u8b93\u4f60\u4e00\u8def\u807d\u4e0b\u53bb\uff01Cover: \u52d5\u529b\u706b\u8eca (Power Station)",
   "name": "\u9ad8\u4eba\u6c23\u91d1\u66f2",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 166760,
       "name": "Fake",
       "url": "https://open.spotify.com/track/6THl77evZwRIU5XqGWo69e"
@@ -882,7 +882,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 186014,
       "name": "\u4eca\u5929\u967d\u5149\u5c31\u662f\u7279\u5225\u8000\u773c\u7279\u5225\u548c\u8ae7 feat. \u97cb\u79ae\u5b89",
       "url": "https://open.spotify.com/track/6qnSA1GSwRtgHCqaD1jQin"
@@ -1074,6 +1074,24 @@
       "duration_ms": 242667,
       "name": "\u4f60\u6b98\u5fcd\u53ef\u611b\u7684\u50b2\u6162",
       "url": "https://open.spotify.com/track/5okftR42QX111uKscZgrEv"
+    },
+    {
+      "album": {
+        "name": "\u4f60\u7684\u4e16\u754c",
+        "url": "https://open.spotify.com/album/5w5A7OCKqIrw6bmAJ8uK4Z"
+      },
+      "artists": [
+        {
+          "name": "Terence Lam",
+          "url": "https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263344,
+      "name": "\u4f60\u7684\u4e16\u754c",
+      "url": "https://open.spotify.com/track/0bC5zT5eItHOF8Oz6RdD12"
     },
     {
       "album": {
@@ -1879,6 +1897,28 @@
     },
     {
       "album": {
+        "name": "\u57ce\u88e1\u7684\u6708\u5149",
+        "url": "https://open.spotify.com/album/40kSATo6uVkSaz6amX4fNq"
+      },
+      "artists": [
+        {
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+        },
+        {
+          "name": "Ice Paper",
+          "url": "https://open.spotify.com/artist/35kMWGEVOOesE5U0CdP3Zo"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278181,
+      "name": "\u57ce\u88e1\u7684\u6708\u5149\uff08\u96fb\u5f71\u300a\u7a7f\u904e\u6708\u4eae\u7684\u65c5\u884c\u300b\u6708\u5149\u5b88\u8b77\u66f2\uff09",
+      "url": "https://open.spotify.com/track/76EwGf8t6DSfhOXtxsKm3K"
+    },
+    {
+      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/1024AIZX8jeI3kr6pQo4FR"
       },
@@ -2302,7 +2342,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 327228,
       "name": "\u5c0d\u7b49\u95dc\u4fc2 (feat. \u5f35\u60e0\u59b9)",
       "url": "https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc"
@@ -2674,7 +2714,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 193000,
       "name": "\u611b\u624d\u4e0d\u6703\u6d88\u5931",
       "url": "https://open.spotify.com/track/7lhRtaeZ0NAIwT6UwzqN40"
@@ -2732,6 +2772,46 @@
       "duration_ms": 289604,
       "name": "\u6162\u51b7",
       "url": "https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW"
+    },
+    {
+      "album": {
+        "name": "\u6210\u898b (feat. \u827e\u6021\u826f)",
+        "url": "https://open.spotify.com/album/39nGdvUtKAVHdJZdjsY0EC"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5efa\u744b",
+          "url": "https://open.spotify.com/artist/6efddg2D2BhHmcYoV4pTqS"
+        },
+        {
+          "name": "Eve Ai",
+          "url": "https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288896,
+      "name": "\u6210\u898b (feat. \u827e\u6021\u826f)",
+      "url": "https://open.spotify.com/track/14snAqF5iYj3sxIYurWJqx"
+    },
+    {
+      "album": {
+        "name": "\u6211\u3001\u597d\u7fd4\u3001\u4f60",
+        "url": "https://open.spotify.com/album/2jAzvpvkpZW1yC0xT5beVC"
+      },
+      "artists": [
+        {
+          "name": "TroutFresh",
+          "url": "https://open.spotify.com/artist/78IEFKJN8gQgJM1WOvt2Tl"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213070,
+      "name": "\u6211\u3001\u597d\u7fd4\u3001\u4f60",
+      "url": "https://open.spotify.com/track/2JFdLOAaeULcsu8Eb6Fg3z"
     },
     {
       "album": {
@@ -3086,6 +3166,28 @@
       "duration_ms": 318938,
       "name": "\u646f\u53cb",
       "url": "https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0"
+    },
+    {
+      "album": {
+        "name": "\u5f80\u800c\u4e0d\u8fd4",
+        "url": "https://open.spotify.com/album/2TDNO4aLNmGSziHyILRcKZ"
+      },
+      "artists": [
+        {
+          "name": "someshiit \u5c71\u59c6",
+          "url": "https://open.spotify.com/artist/1Se0FtmWSFmL81n85repGg"
+        },
+        {
+          "name": "Samjoo",
+          "url": "https://open.spotify.com/artist/4BtOQ9SIcyx9aNhXxn8z6N"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239870,
+      "name": "\u65e5\u6709\u6240\u601d, \u591c\u6c92\u6709\u5922 (feat. Samjoo)",
+      "url": "https://open.spotify.com/track/2Q8vuuLn3RE126t4OtydFW"
     },
     {
       "album": {
@@ -3634,7 +3736,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 195032,
       "name": "\u73ab\u7470\u5c11\u5e74 - From THE FIRST TAKE",
       "url": "https://open.spotify.com/track/4UOZ3duqmEfMKXqvkZeboh"
@@ -4581,6 +4683,24 @@
     },
     {
       "album": {
+        "name": "\u8d70\u5fc3\u7684\u6b4c",
+        "url": "https://open.spotify.com/album/6fBZmGRXKxRHyAD8Qc0JZu"
+      },
+      "artists": [
+        {
+          "name": "Andrew Tan",
+          "url": "https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267810,
+      "name": "\u9023\u8f38\u5165\u6cd5\u90fd\u8a18\u5f97\u4f60 - \u300aHIStory5-\u9047\u898b\u672a\u4f86\u7684\u4f60\u300bLINE TV\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/50x56J55jxEQeH9UF5dEBj"
+    },
+    {
+      "album": {
         "name": "\u60c5\u6b4c\u624b",
         "url": "https://open.spotify.com/album/2Oqw9GtKcsHbjbL7OXNpO5"
       },
@@ -4910,7 +5030,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 235146,
       "name": "\u9858\u671b\u6e05\u55ae",
       "url": "https://open.spotify.com/track/33dPneq32ukOurEHgkqulN"

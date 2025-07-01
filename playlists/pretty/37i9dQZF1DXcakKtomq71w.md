@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,896 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,898 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 9 | [Iag Bari \(Yababa\)](https://open.spotify.com/track/78lQ5KilDmoceHsxGkVEVj) | [ARKADYAN](https://open.spotify.com/artist/2ELBfW9Bn2xBAIvWeXeCgI), [GROSSOMODDO](https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt), [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [Iag Bari \(Yababa\)](https://open.spotify.com/album/0astWGJQF1TlBKteqPAFq1) | 2:34 |
 | 10 | [Nuraan](https://open.spotify.com/track/0ZIdK9xgN6vEXj27fzj8V8) | [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Nuraan](https://open.spotify.com/album/3bZYIgahZjPP58TUDJYc7d) | 3:14 |
 | 11 | [Dreams \- Radio Edit](https://open.spotify.com/track/5WezdG7WCZItkbQlUN0o2f) | [Fiona Kraft](https://open.spotify.com/artist/6Gbq71ILuMLRVn0jwC6Glt), [LOV](https://open.spotify.com/artist/6qmWTcuqdLwgCrMe3C3o98) | [Dreams](https://open.spotify.com/album/6TsmZegxeqPRBYUfrq5ewQ) | 4:16 |
-| 12 | [Vertebrae \- SOMMA Remix](https://open.spotify.com/track/7D7or3YszHGMi3tSJK6HEZ) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3) | [Vertebrae \(SOMMA Remix\)](https://open.spotify.com/album/0jw2DTX6FrYXtwjIxexdh2) | 5:44 |
+| 12 | [Vertebrae \- SOMMA Remix](https://open.spotify.com/track/7D7or3YszHGMi3tSJK6HEZ) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Vertebrae \(SOMMA Remix\)](https://open.spotify.com/album/0jw2DTX6FrYXtwjIxexdh2) | 5:44 |
 | 13 | [Desconocidos](https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Argia](https://open.spotify.com/artist/3K2j2d5WP7SfP06QTV8iz4) | [Desconocidos](https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade) | 5:22 |
 | 14 | [Make Me Feel feat\. Iveta Mukuchyan](https://open.spotify.com/track/3fVENABGQkhuLgAeujuS9q) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Iveta Mukuchyan](https://open.spotify.com/artist/3GnXDBHZvRstGw7FhcsFn8) | [Make Me Feel](https://open.spotify.com/album/7tdp4Sod7qIknKgEBZKjhR) | 4:16 |
 | 15 | [I Remember You A Dancer](https://open.spotify.com/track/1elDxfWBV5ETXElujTfK2H) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [I Remember You A Dancer](https://open.spotify.com/album/2eSeWJYlji0aOZF0zXjnpw) | 4:00 |

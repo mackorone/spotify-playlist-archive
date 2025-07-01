@@ -2,7 +2,7 @@
 
 ### [The Pop List](https://open.spotify.com/playlist/37i9dQZF1DWSVtp02hITpN)
 
-> What\. Was\. That?! Lorde releases new album Virgin 🩻
+> What\. Was\. That?! Lorde releases new album Virgin at <a href="https://open.spotify.com/genre/0JQ5DAqbMKFRjoC1iWNybi">Glastonbury 2025</a> 🩻
 
 450 songs - 23 hr 30 min
 

@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Rojuu.
 
-482 songs - 1 day 1 hr 2 min
+483 songs - 1 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Demasiado Grande](https://open.spotify.com/track/4VApNR3krAS6J2KEvF6f1w) | [MERINO](https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam), [Ivan Ferreiro](https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP) | [HIMNOS DE GUERRA](https://open.spotify.com/album/3yzgOyDvJiXYYUpxztRHaF) | 3:30 | 2024-06-27 | 2024-12-13 |
 | [Demasiado Tarde](https://open.spotify.com/track/53ULbrvKX18BbLz6Ix2jl0) | [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ), [LaPeste](https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl) | [Demasiado Tarde](https://open.spotify.com/album/00DTKL77gqElBR0IeO6y4z) | 2:45 | 2024-12-26 | 2025-03-07 |
 | [DEMONIO](https://open.spotify.com/track/6FQ4GVuaq7hTsFcSh7mqMZ) | [Maria Blaya](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [GRANDE](https://open.spotify.com/album/6cV5ziMH2KfyIxxooKNA4L) | 2:28 | 2024-06-27 | 2024-07-14 |
-| [Desde el amor](https://open.spotify.com/track/5j8lR0X1eTYnlpLNUAyXm0) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Desde el amor](https://open.spotify.com/album/10Di7ZEexZuTsuQ6ZqH1Ee) | 2:53 | 2024-10-03 |  |
+| [Desde el amor](https://open.spotify.com/track/5j8lR0X1eTYnlpLNUAyXm0) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Desde el amor](https://open.spotify.com/album/10Di7ZEexZuTsuQ6ZqH1Ee) | 2:53 | 2024-10-03 | 2025-07-01 |
 | [Desde El Otro Lado](https://open.spotify.com/track/15Q2Sagth24Q16TEV00Jgh) | [Maren](https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L) | [Qué Lástima](https://open.spotify.com/album/1eE90cOLAz09F4U22q6YG3) | 3:18 | 2024-11-28 |  |
 | [Desde otro lugar](https://open.spotify.com/track/4ry3rOAdEksQ6Y1ASKzup0) | [dani dicostas](https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl) | [Desde otro lugar](https://open.spotify.com/album/6vXdlMZLVZMmz7wwMXgPRr) | 3:05 | 2025-06-26 |  |
 | [Desencantada](https://open.spotify.com/track/1C9zWuj9iiiWqNrfsdxso1) | [Sita Rizzi](https://open.spotify.com/artist/5hu7ji1wlMCgZ3KRKJaEA3) | [Desencantada](https://open.spotify.com/album/4Wd4JfLIhzGMO2ElwqC6iI) | 2:53 | 2025-04-17 |  |
@@ -421,6 +421,7 @@
 | [Stratocarte](https://open.spotify.com/track/2h8PMO2V40LE6xXq3oX9pO) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Lo Que Dicen Por Ahí](https://open.spotify.com/album/4n3njIqx8KJR8lo7wnXo75) | 3:07 | 2024-06-27 | 2024-07-12 |
 | [SUSANA](https://open.spotify.com/track/58hxPfgSJZKp2AoRlU0mQS) | [Confeti de Odio](https://open.spotify.com/artist/3C1CPJ9K2aeHuj1x22B0qJ) | [SUSANA](https://open.spotify.com/album/2Nsd5rzzglUvOMPW92wJ0s) | 2:45 | 2024-11-14 |  |
 | [Sí quiero](https://open.spotify.com/track/4xJn8krR7GdVAY88BtXjBQ) | [Gala i Ovidio](https://open.spotify.com/artist/1WDaT0hseXn1UAQRQwtM1P), [Raül Refree](https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy), [AIDA](https://open.spotify.com/artist/7mkLeKjDZrtDQhQ3nRheBb) | [Sí quiero](https://open.spotify.com/album/5imykjy0TikI0PLzJmmrBP) | 3:42 | 2025-04-10 | 2025-05-02 |
+| [Tachando los Días](https://open.spotify.com/track/0vXSZWdxv82KT8ccpwuzum) | [Mbongo](https://open.spotify.com/artist/7if5zjrPn38PiToOKC9DRE), [Ciao Marina](https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo) | [Tachando los Días](https://open.spotify.com/album/3UL4sjMuMjkcBIjXZnkFwy) | 3:00 | 2025-06-27 |  |
 | [tal vez](https://open.spotify.com/track/4BdBaKVptpdEPT4yhmCyGZ) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [tal vez](https://open.spotify.com/album/0eEf6BblPnfbpTZslxzvCq) | 3:48 | 2025-03-27 | 2025-04-18 |
 | [TALANQUERA](https://open.spotify.com/track/7l9ESULRKHh8ABJmlVZ2oB) | [ODDLIQUOR](https://open.spotify.com/artist/1rmlkMXVf5f6ilIVhjow34) | [TALANQUERA](https://open.spotify.com/album/5mzLcIz6cx19gS1C0HtgGB) | 3:09 | 2024-06-27 | 2024-07-27 |
 | [TECHNO RICO](https://open.spotify.com/track/6eY5RjZpG6tKQ70rGU8uNq) | [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ) | [TECHNO RICO](https://open.spotify.com/album/3zIsrJrxViK89NMQyvN55Z) | 2:39 | 2024-10-17 | 2024-11-08 |

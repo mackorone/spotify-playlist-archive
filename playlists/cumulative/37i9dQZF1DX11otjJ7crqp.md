@@ -4,7 +4,7 @@
 
 > All this week's best new pop releases\. Cover: flowerovlove
 
-8,694 songs - 18 day 2 hr 7 min
+8,695 songs - 18 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3779,6 +3779,7 @@
 | [I Hope You Think Of Me](https://open.spotify.com/track/1cEamQ840UovVOriSzb6nC) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [I Hope You Think Of Me](https://open.spotify.com/album/319Cr7XGkgSkbnJOBDhAmz) | 2:38 | 2022-05-06 | 2022-05-28 |
 | [I Just Called](https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [I Just Called](https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp) | 2:30 | 2022-05-27 | 2022-06-11 |
 | [I Just Came To Dance](https://open.spotify.com/track/2LQ3i7FKz0i2mrkcjWGeIg) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Just Came To Dance](https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3) | 2:24 | 2022-10-28 | 2022-11-12 |
+| [I Just Don't Know You Yet](https://open.spotify.com/track/7GU1xgUhSHMjc32d9zuWtF) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [I Just Don't Know You Yet](https://open.spotify.com/album/0JSsfoRhjngp8I9rXJnpUK) | 3:21 | 2025-06-30 |  |
 | [I Just Miss You](https://open.spotify.com/track/07GTTFn5x5fCvyKdoZOdIA) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [I Just Miss You](https://open.spotify.com/album/0hJqKEBsmlInZYcINXmXAX) | 2:34 | 2024-05-31 | 2024-06-08 |
 | [I Just Wanna Feel Your Love Again](https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [I Just Wanna Feel Your Love Again](https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7) | 4:01 | 2023-09-22 | 2023-09-30 |
 | [I Just Wanna Know](https://open.spotify.com/track/6e7Bk20FzoWgPlVN7AmQ0Q) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Just Wanna Know](https://open.spotify.com/album/6LcSLQzHh8lVFC20Vm4f2T) | 2:24 | 2023-05-19 | 2023-06-03 |
@@ -5536,7 +5537,7 @@
 | [Nobody Really Cares](https://open.spotify.com/track/1rIgoyxAw5qAKyNd7vERKw) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Nobody Really Cares](https://open.spotify.com/album/77MC3Wx3KB3vompH3JXToD) | 2:54 | 2022-07-08 | 2022-07-23 |
 | [Nobody's Baby](https://open.spotify.com/track/1Hb6xEZ9eEmalnpNoPTwcc) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Nobody's Baby](https://open.spotify.com/album/6AyXzG3yU8Xm9IFYS15Fdu) | 2:35 | 2024-07-26 | 2024-08-03 |
 | [Nobody's Funeral](https://open.spotify.com/track/5DtOGEhJwz1IJ8th2hkPnZ) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Nobody's Funeral](https://open.spotify.com/album/6qXfmch002yzB7EcZ0dyEY) | 3:47 | 2024-07-05 | 2024-07-19 |
-| [Nobody's Watching](https://open.spotify.com/track/0rU71wAEpJBqgAwS6nneqN) | [Fordo](https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa) | [2001](https://open.spotify.com/album/1yfn1uDXiRcYu1rqmFWPia) | 2:55 | 2025-06-27 |  |
+| [NOBODY'S WATCHING](https://open.spotify.com/track/0rU71wAEpJBqgAwS6nneqN) | [Fordo](https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa) | [2001](https://open.spotify.com/album/1yfn1uDXiRcYu1rqmFWPia) | 2:55 | 2025-06-27 |  |
 | [none of this matters](https://open.spotify.com/track/4N3ev4MlxOkjdYvI3XrY8L) | [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [WILL POWER](https://open.spotify.com/album/4oyCeijOCQR1ZH8202gwYp) | 2:58 | 2023-09-01 | 2023-09-16 |
 | [Nonstop](https://open.spotify.com/track/2a0VKLIiTq8LeTFvGpMCL9) | [Inas X](https://open.spotify.com/artist/3COqbK91CX9dQ8T2CsAaR8) | [Nonstop](https://open.spotify.com/album/5cNXoHmQf4hqEdYebRi2Pj) | 2:12 | 2023-08-18 | 2023-09-02 |
 | [Normal](https://open.spotify.com/track/5j2O2yeurM9fD2rgCPt7pD) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Normal](https://open.spotify.com/album/0vSwuVKVrx6L4RJuJkWiAL) | 2:42 | 2022-10-07 | 2022-10-22 |

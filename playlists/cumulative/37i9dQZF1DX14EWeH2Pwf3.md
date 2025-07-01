@@ -4,7 +4,7 @@
 
 > Tony Boy in cover della playlist urban più grande in Italia 🐐
 
-823 songs - 1 day 16 hr 12 min
+824 songs - 1 day 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -708,6 +708,7 @@
 | [Sincer \(feat\. Lele Blade & Icy Subzero\)](https://open.spotify.com/track/5NA6KErStFT0zPk1VJiSWI) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sincer \(feat\. Lele Blade & Icy Subzero\)](https://open.spotify.com/album/7BBkLJQiEzHkFDbHy48rjd) | 3:41 | 2023-05-04 | 2023-05-26 |
 | [Sinfonia della distruzione](https://open.spotify.com/track/0ZmgMHj47xZ0Hb780sq8Lm) | [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg) | [Sinfonia della distruzione](https://open.spotify.com/album/47EBgIVzbzrlfAZ4Aw4a5a) | 2:56 | 2022-05-12 | 2022-06-10 |
 | [Sintetico \(feat\. Tony Boy\)](https://open.spotify.com/track/4ASEODqcUCLIOY1owcgl45) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Quarto di Bue](https://open.spotify.com/album/2KCiV7WqpsT4tZ8ZIEUmFm) | 2:31 | 2023-05-15 | 2023-06-02 |
+| [Società \(feat\. Shiva\)](https://open.spotify.com/track/0ffAQDy0hadsOsYycajB8u) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [UFORIA](https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB) | 3:15 | 2025-06-30 |  |
 | [SOGNO AMERICANO](https://open.spotify.com/track/7i0zYckMTyvLyKAFxfOKIS) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:56 | 2025-03-31 |  |
 | [Sola \(feat\. Lazza, Tedua\)](https://open.spotify.com/track/5r9wBfbbK4JcZUEAGFg6su) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [L'Angelo del Male](https://open.spotify.com/album/6hv38luXAPIi4ieI63KfFb) | 3:06 | 2024-04-25 | 2024-09-27 |
 | [Sola \(feat\. Myke Towers\)](https://open.spotify.com/track/5LK1zfpswTVPO588AAw6bq) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Italiano](https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl) | 2:57 | 2022-05-09 | 2022-06-03 |

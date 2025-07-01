@@ -2,7 +2,7 @@
 
 ### [PEGAO](https://open.spotify.com/playlist/37i9dQZF1DX1HCSfq0nSal)
 
-> Si está pegao, está aquí\. Feat\. Gonzy
+> Si está pegao, está aquí\. Feat\. mvrk
 
 802 songs - 1 day 20 hr 15 min
 

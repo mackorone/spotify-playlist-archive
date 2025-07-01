@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Only the best Tech House 🔥 Find the mix series on SoundCloud —&gt; Bassline Therapy Radio
 
-[Bassline Therapy by Houseium](https://open.spotify.com/user/jayke0108) - 10,872 likes - 101 songs - 5 hr 21 min
+[Bassline Therapy by Houseium](https://open.spotify.com/user/jayke0108) - 10,870 likes - 101 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 100 | [Animal](https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [Animal](https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD) | 3:13 |
 | 101 | [UNTZ](https://open.spotify.com/track/78nKNIbAUoapIKzpQZvCWP) | [Avi Sic](https://open.spotify.com/artist/2zkKco91JEZWEnIYrWHZNe), [Trentino](https://open.spotify.com/artist/6uehPwBktSCBpQwIqUjC3e) | [UNTZ](https://open.spotify.com/album/3sfiHHdxWYo8p7sk88ycjW) | 3:00 |
 
-Snapshot ID: `AAAb0EtnDcT/ejaVGDUCOAsyeD5bHdct`
+Snapshot ID: `AAAb2lWlSdFQPiUtMPA6qW1GjLFMeTHd`

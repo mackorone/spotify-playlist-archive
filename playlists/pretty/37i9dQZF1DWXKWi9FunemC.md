@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > For those who like a little bit of coffee with their Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,604 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,760 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 38 | [Saving Me Still](https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV) | [Justin Jarvis](https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj) | [Saving Me Still](https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca) | 6:20 |
 | 39 | [Resting Place \(To the Cross\)](https://open.spotify.com/track/016DP00vwMNLR10fT8jQka) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Resting Place \(To the Cross\)](https://open.spotify.com/album/0Dvdd8C1sQ7g9wDsNJ0bWM) | 4:03 |
 | 40 | [Fascination](https://open.spotify.com/track/5Gw9pGxKswaBAe7NCzxJ1q) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [A.Bishai](https://open.spotify.com/artist/3OLnkIUoCzl7AiVY9WAEuM) | [24/3](https://open.spotify.com/album/1FIhgPfQqOvDhsy0NBar0T) | 3:48 |
-| 41 | [Simple Song](https://open.spotify.com/track/6gwpHIcYcnpXsvKFA3Gkyz) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Simple Song](https://open.spotify.com/album/4XIbGDudysSue0NbViGIPS) | 3:22 |
-| 42 | [Just As I Am \(Nothing to Prove\)](https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x) | [Taylor Tripodi](https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s) | [Just As I Am \(Nothing to Prove\)](https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG) | 5:16 |
+| 41 | [Just As I Am \(Nothing to Prove\)](https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x) | [Taylor Tripodi](https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s) | [Just As I Am \(Nothing to Prove\)](https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG) | 5:16 |
+| 42 | [Simple Song](https://open.spotify.com/track/6gwpHIcYcnpXsvKFA3Gkyz) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Simple Song](https://open.spotify.com/album/4XIbGDudysSue0NbViGIPS) | 3:22 |
 | 43 | [Taste And See](https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5) | [Cether](https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7), [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Taste And See](https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg) | 4:21 |
 | 44 | [Satisfied](https://open.spotify.com/track/2Qqqr0py5ew8RmKlCdI9F6) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Satisfied](https://open.spotify.com/album/5vjdeXvp1N3Qbpdk6Mdmh0) | 4:09 |
 | 45 | [Still There's Something](https://open.spotify.com/track/7J7EFGoV9XA0LDni9IDSPP) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Melody Lynn](https://open.spotify.com/artist/382qatBmbrqa56uxbMhsNM) | [Still There's Something](https://open.spotify.com/album/4d4EkrXfLUpuQMviLTdNXV) | 3:38 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 68 | [King of Eternity](https://open.spotify.com/track/0SFAQWGYFruMwwDfYfHXde) | [LW Music](https://open.spotify.com/artist/3ZdJUwiDYcaTuQLfNyFfiG), [Garett Serban](https://open.spotify.com/artist/1rz9mPKs2EP0o8R8lbubqj), [Nixaide Lopez](https://open.spotify.com/artist/4hVgOOca8r8vQaYtrX0JMx) | [King of Eternity](https://open.spotify.com/album/7okIu2F7XP4pvAcNpyYwqq) | 6:48 |
 | 69 | [Go With Me](https://open.spotify.com/track/33kmueuQIaTvpYfhqsxhZw) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Go With Me](https://open.spotify.com/album/4At1FoRpKILlQScRac9B65) | 4:25 |
 | 70 | [Who May Ascend](https://open.spotify.com/track/4hD29U9zLHZrVOCcaBPeoo) | [Cross Church Worship](https://open.spotify.com/artist/0IFpK3lWIPdykCw3qQpjNO) | [Who May Ascend](https://open.spotify.com/album/5tlyBPuMZQeuXT0SzsitGG) | 4:56 |
-| 71 | [Let Go](https://open.spotify.com/track/569CqUlVdNPKC5FOfiXiwJ) | [Faith Rose](https://open.spotify.com/artist/364y53omHupjImsnsOJkpp) | [Let Go](https://open.spotify.com/album/1gQS21Tf0ahs1o0jhX7Fbz) | 3:49 |
-| 72 | [peacefully](https://open.spotify.com/track/0ElI3XRqlLozGrHzMhTkAM) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [peacefully](https://open.spotify.com/album/5RMyEOB40hzPZqRSXi5aZI) | 2:01 |
-| 73 | [Better Plan](https://open.spotify.com/track/16eY64ru0RQCsbpuahFUxu) | [eightFour](https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs), [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h) | [Better Plan](https://open.spotify.com/album/2alhNi8t8Mhg2vwxAtxq9i) | 3:58 |
+| 71 | [Better Plan](https://open.spotify.com/track/16eY64ru0RQCsbpuahFUxu) | [eightFour](https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs), [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h) | [Better Plan](https://open.spotify.com/album/2alhNi8t8Mhg2vwxAtxq9i) | 3:58 |
+| 72 | [Let Go](https://open.spotify.com/track/569CqUlVdNPKC5FOfiXiwJ) | [Faith Rose](https://open.spotify.com/artist/364y53omHupjImsnsOJkpp) | [Let Go](https://open.spotify.com/album/1gQS21Tf0ahs1o0jhX7Fbz) | 3:49 |
+| 73 | [peacefully](https://open.spotify.com/track/0ElI3XRqlLozGrHzMhTkAM) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [peacefully](https://open.spotify.com/album/5RMyEOB40hzPZqRSXi5aZI) | 2:01 |
 | 74 | [Stained Glass](https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [Stained Glass](https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN) | 5:17 |
 | 75 | [It Goes Both Ways](https://open.spotify.com/track/61agJFeawepC25zhwZgP5Y) | [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5) | [It Goes Both Ways](https://open.spotify.com/album/0oK55mBAQglpapd3cEjKh8) | 3:42 |
 | 76 | [Holy Here and Now](https://open.spotify.com/track/3K13jFO8mWf23paD3GlQ8U) | [Sophia Rebekah Mitchell](https://open.spotify.com/artist/2XimxgriE1gR4uUpEEdV4f) | [Holy Here and Now](https://open.spotify.com/album/2SMEwcH1DRXJPyAqzGP91i) | 4:07 |

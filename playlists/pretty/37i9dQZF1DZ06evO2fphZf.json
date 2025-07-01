@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12185,
+  "num_followers": 12187,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF8wgAAAAAC59TtiZQARSg7la+Ax8rUy",
+  "snapshot_id": "aGCCAAAAAADAiCqoiPpQqbiijs79yi+p",
   "tracks": [
     {
       "added_at": null,
@@ -375,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two Truths And A Lie",
-        "url": "https://open.spotify.com/album/6mB24ENPL4m2E7Q7Li7lFb"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        },
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 133440,
-      "name": "Two Truths And A Lie",
-      "url": "https://open.spotify.com/track/6DzfmaiigxeCnB9qnnIZpW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KAWASAKI (with Felip & th\u1ee7y)",
         "url": "https://open.spotify.com/album/5VY9bSLF9Dy2kUj4jlL3n2"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 130666,
       "name": "KAWASAKI (with Felip & th\u1ee7y)",
       "url": "https://open.spotify.com/track/37ifPBg9M2NzlRNHe9WUIy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Two Truths And A Lie",
+        "url": "https://open.spotify.com/album/6mB24ENPL4m2E7Q7Li7lFb"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        },
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 133440,
+      "name": "Two Truths And A Lie",
+      "url": "https://open.spotify.com/track/6DzfmaiigxeCnB9qnnIZpW"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i hope u see this (deluxe)",
-        "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "distance between us",
-      "url": "https://open.spotify.com/track/0U3yx4Wnmtox0XjsvldOeY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waiting on You",
         "url": "https://open.spotify.com/album/7h3iQZDTJB0eP2v9GruCwH"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 167088,
       "name": "Waiting on You",
       "url": "https://open.spotify.com/track/43IYhhlHfhdZ9YDc245r3p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i hope u see this (deluxe)",
+        "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "distance between us",
+      "url": "https://open.spotify.com/track/0U3yx4Wnmtox0XjsvldOeY"
     },
     {
       "added_at": null,

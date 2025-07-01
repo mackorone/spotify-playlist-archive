@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 18869,
+  "num_followers": 18875,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF8wgAAAAAD+XmOzJOWaEvQ+w4jrlFF4",
+  "snapshot_id": "aGCCAAAAAACNx5x99OWC91Jxihfl3L0d",
   "tracks": [
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inti-Illimani, Tributo A Su M\u00fasica - A La Salud de la M\u00fasica Chilena",
-        "url": "https://open.spotify.com/album/3bLMlRJGnzb9xhvddIwyJo"
+        "name": "Sombras Destino (Demo 2008)",
+        "url": "https://open.spotify.com/album/3XC8YVXmcojg9Qbm6e9YGo"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 250106,
-      "name": "El Aparecido",
-      "url": "https://open.spotify.com/track/5IpBCVityIZt8b6TUFm74U"
+      "duration_ms": 244475,
+      "name": "Sombras Destino - Demo 2008",
+      "url": "https://open.spotify.com/track/6HXe1dC9JFnLNiG9Q6tOA9"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sombras Destino (Demo 2008)",
-        "url": "https://open.spotify.com/album/3XC8YVXmcojg9Qbm6e9YGo"
+        "name": "Inti-Illimani, Tributo A Su M\u00fasica - A La Salud de la M\u00fasica Chilena",
+        "url": "https://open.spotify.com/album/3bLMlRJGnzb9xhvddIwyJo"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 244475,
-      "name": "Sombras Destino - Demo 2008",
-      "url": "https://open.spotify.com/track/6HXe1dC9JFnLNiG9Q6tOA9"
+      "duration_ms": 250106,
+      "name": "El Aparecido",
+      "url": "https://open.spotify.com/track/5IpBCVityIZt8b6TUFm74U"
     },
     {
       "added_at": null,

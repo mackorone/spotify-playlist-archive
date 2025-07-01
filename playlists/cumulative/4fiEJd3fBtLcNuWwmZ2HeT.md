@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-307 songs - 17 hr 26 min
+309 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Shake It Now.](https://open.spotify.com/track/5PQt3xVYvS9kE2N7r8eHxW) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [rendez\-vous](https://open.spotify.com/album/3Oks0VL5KDShvcuNS4LSSJ) | 3:16 | 2023-11-27 |  |
 | [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 | 2023-10-14 |  |
 | [sifflet](https://open.spotify.com/track/426JELf4IKUDygeeSC2p5Q) | [rillrail](https://open.spotify.com/artist/7poCU746QVt1c794QGAO5d) | [sifflet / identity](https://open.spotify.com/album/5FCe9DeF7McTUnx8Z7msUW) | 3:34 | 2025-04-21 |  |
+| [SISTERS](https://open.spotify.com/track/4vvqRZm4dXnzP07bUGoCj5) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [misérable](https://open.spotify.com/album/1C8X9L62l1qMjyDQjqK5gt) | 2:59 | 2025-06-30 |  |
 | [SIU](https://open.spotify.com/track/22tot0Y6uKuWdAZnEQyB6g) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ) | 4:38 | 2022-03-16 |  |
 | [Skyfall](https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Skyfall](https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY) | 4:46 | 2023-11-12 |  |
 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 | 2023-09-14 |  |
@@ -254,6 +255,7 @@
 | [㋰責任集合体](https://open.spotify.com/track/4cyk1ppFfQleEgXBvWX4Uc) | [マサラダ](https://open.spotify.com/artist/7samVyTa42GWxA0DedqZL2) | [㋰責任集合体](https://open.spotify.com/album/5wL21xdm0DWF6jIG1mE1gI) | 3:30 | 2024-08-06 |  |
 | [三原色](https://open.spotify.com/track/3FUCuf498nFHJXFYR1V9Bd) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [三原色](https://open.spotify.com/album/3MeMuzwFRLje0g7fdni41h) | 3:44 | 2023-10-05 |  |
 | [世界を壊している](https://open.spotify.com/track/0k6S71Qc4oKox0YVF2AWXh) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [マイネームイズラヴソング](https://open.spotify.com/album/676AXtU3CFKuDBf0wJsYuz) | 3:29 | 2022-08-18 |  |
+| [人生は夢だらけ](https://open.spotify.com/track/0z2xgbxkLvrpzBZDtYIIXS) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [逆輸入 〜航空局〜](https://open.spotify.com/album/4IyZbkR6R4oIcuckwSrJQj) | 3:14 | 2025-06-30 |  |
 | [人間](https://open.spotify.com/track/6FFOg8oCS4QnEf4eai0KcA) | [703goushitsu](https://open.spotify.com/artist/2kgwlK1KWV3bgzT7FsJGoR) | [人間](https://open.spotify.com/album/2aRPZcMvi6VkwlWkHQ3sGR) | 2:42 | 2024-09-07 |  |
 | [全方向美少女](https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [全方向美少女](https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl) | 2:07 | 2024-02-06 |  |
 | [全部夢だった！](https://open.spotify.com/track/7wxif1TWcN6X2Bw32aS8wD) | [黒うさぎ](https://open.spotify.com/artist/1yktWH0UsU3lcsE71vI6as) | [全部夢だった！](https://open.spotify.com/album/0oalNGCxUYa0lKB7zPVPWI) | 2:13 | 2024-11-10 |  |

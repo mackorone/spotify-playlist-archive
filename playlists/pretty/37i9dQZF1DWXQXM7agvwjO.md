@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Almond Milk \(Hong Kong\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,646 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,642 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 6 | [Nerd](https://open.spotify.com/track/58enSgNcXIbpVlMZvgojOw) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [Nerd](https://open.spotify.com/album/3tv0cOXvWrXyDoVRwFHHP9) | 3:29 |
 | 7 | [春の嵐](https://open.spotify.com/track/5OZAEbUCMvJFdZiNM5RJwr) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [春の嵐](https://open.spotify.com/album/56E3hBtUr13pElaE9XPDTO) | 4:35 |
 | 8 | [Blur](https://open.spotify.com/track/6uoksVrNY1sJRSGPwbZS8O) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Yokkorio](https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg) | [Blur](https://open.spotify.com/album/7dGGUywMPNHdKpLJpoljuO) | 4:09 |
-| 9 | [pretty bb \(with her\)](https://open.spotify.com/track/0nFTDHvlNU7VfKEnfWYzcR) | [RESORT](https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng), [SHN](https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq) | [pretty bb \(with her\)](https://open.spotify.com/album/4jkKKvG1KHiCdSpZpHPXNM) | 3:11 |
+| 9 | [pretty bb \(with her\)](https://open.spotify.com/track/0nFTDHvlNU7VfKEnfWYzcR) | [SHN](https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq), [RESORT](https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng) | [pretty bb \(with her\)](https://open.spotify.com/album/4jkKKvG1KHiCdSpZpHPXNM) | 3:11 |
 | 10 | [Minggu](https://open.spotify.com/track/29oaLVw5BEusRDauIyCfwK) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc), [Dzulfahmi](https://open.spotify.com/artist/3e07AHzXnSbfuIBc6IHNio) | [Minggu](https://open.spotify.com/album/20BlkwZZJfzNj6xTxPrehi) | 3:38 |
 | 11 | [soon..ไอ CAN](https://open.spotify.com/track/0EaILD00V98q5v6TgKw6Yq) | [Alec Orachi](https://open.spotify.com/artist/7gUg2Mhy06dtJ8sFqtHKCK) | [TwT](https://open.spotify.com/album/5MK9TsgrPQu5muEKuAeP0p) | 4:22 |
 | 12 | [飛鳥 \- Live](https://open.spotify.com/track/5r9nAwvDhTuyboRkHCSVNP) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [飛鳥 \(Live\)](https://open.spotify.com/album/0bWiaz8dwYuv2mO6cnWHZg) | 4:27 |

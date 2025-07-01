@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2bU5VZJ0Ozt7lyi2Dbd5PW.md) - [plain]
 
 > 
 
-[kittydogcrystal](https://open.spotify.com/user/kittydogcrystal) - 69 likes - 11 songs - 28 min 43 sec
+[kittydogcrystal](https://open.spotify.com/user/kittydogcrystal) - 70 likes - 11 songs - 28 min 43 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

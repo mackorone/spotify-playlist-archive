@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 208268,
+  "num_followers": 208279,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -43,38 +43,6 @@
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
-        "name": "Half of forever",
-        "url": "https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc"
-      },
-      "artists": [
-        {
-          "name": "Henrik",
-          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "Half of forever",
-      "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
-    },
-    {
-      "added_at": "2025-02-14 09:50:05",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/2P0Z0KXswNhYOa1tayccnw"
-      },
-      "artists": [
-        {
-          "name": "Henrik",
-          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
-        }
-      ],
-      "duration_ms": 164047,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/3nlyxyjYTuGiJnUhgaKOuK"
-    },
-    {
-      "added_at": "2025-02-14 09:50:05",
-      "album": {
         "name": "Different Man",
         "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
@@ -95,18 +63,18 @@
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
-        "name": "Loves Got a Way",
-        "url": "https://open.spotify.com/album/0UunxdCwAG58nS7UQp2n2x"
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/2P0Z0KXswNhYOa1tayccnw"
       },
       "artists": [
         {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Loves Got a Way",
-      "url": "https://open.spotify.com/track/3kL6SvzZTi4vweT6KWy8GH"
+      "duration_ms": 164047,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/3nlyxyjYTuGiJnUhgaKOuK"
     },
     {
       "added_at": "2025-02-14 09:50:05",
@@ -127,18 +95,18 @@
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
-        "name": "Love Is A Fight",
-        "url": "https://open.spotify.com/album/5ZhvK1Ms5736iNs8cC9Sga"
+        "name": "Loves Got a Way",
+        "url": "https://open.spotify.com/album/0UunxdCwAG58nS7UQp2n2x"
       },
       "artists": [
         {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
         }
       ],
-      "duration_ms": 213716,
-      "name": "Love Is A Fight",
-      "url": "https://open.spotify.com/track/5HUl558IsVPiihUQ6jMNoh"
+      "duration_ms": 198000,
+      "name": "Loves Got a Way",
+      "url": "https://open.spotify.com/track/3kL6SvzZTi4vweT6KWy8GH"
     },
     {
       "added_at": "2025-02-14 09:50:05",
@@ -155,6 +123,38 @@
       "duration_ms": 198140,
       "name": "Known",
       "url": "https://open.spotify.com/track/1hrF6s6kfXuPv14OrD9v6X"
+    },
+    {
+      "added_at": "2025-02-14 09:50:05",
+      "album": {
+        "name": "Love Is A Fight",
+        "url": "https://open.spotify.com/album/5ZhvK1Ms5736iNs8cC9Sga"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 213716,
+      "name": "Love Is A Fight",
+      "url": "https://open.spotify.com/track/5HUl558IsVPiihUQ6jMNoh"
+    },
+    {
+      "added_at": "2025-02-14 09:50:05",
+      "album": {
+        "name": "Half of forever",
+        "url": "https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Half of forever",
+      "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
     },
     {
       "added_at": "2025-02-14 09:50:05",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
-        "name": "Scared to Love",
-        "url": "https://open.spotify.com/album/3aHs0OCAi9GGyQYXSth8ff"
-      },
-      "artists": [
-        {
-          "name": "Thunderstorm Artis",
-          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Scared to Love",
-      "url": "https://open.spotify.com/track/3mhdHHNjP6lllNggZwK9v6"
-    },
-    {
-      "added_at": "2025-02-14 09:50:05",
-      "album": {
         "name": "Come To The Well",
         "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 224013,
       "name": "Angel",
       "url": "https://open.spotify.com/track/7qO1aodqqumMLHFybn0AvP"
+    },
+    {
+      "added_at": "2025-02-14 09:50:05",
+      "album": {
+        "name": "Scared to Love",
+        "url": "https://open.spotify.com/album/3aHs0OCAi9GGyQYXSth8ff"
+      },
+      "artists": [
+        {
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Scared to Love",
+      "url": "https://open.spotify.com/track/3mhdHHNjP6lllNggZwK9v6"
     },
     {
       "added_at": "2025-02-14 09:50:05",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
-        "name": "Slow Renaissance",
-        "url": "https://open.spotify.com/album/2z2kb5sdhNp9lBnnzGxhi1"
-      },
-      "artists": [
-        {
-          "name": "Josh Gauton",
-          "url": "https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M"
-        }
-      ],
-      "duration_ms": 243146,
-      "name": "Love In the Time of Madness",
-      "url": "https://open.spotify.com/track/1lOn7QVLKuNtPQOOjq9Qo6"
-    },
-    {
-      "added_at": "2025-02-14 09:50:05",
-      "album": {
         "name": "All About Love",
         "url": "https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 280866,
       "name": "We Will Dance",
       "url": "https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o"
+    },
+    {
+      "added_at": "2025-02-14 09:50:05",
+      "album": {
+        "name": "Slow Renaissance",
+        "url": "https://open.spotify.com/album/2z2kb5sdhNp9lBnnzGxhi1"
+      },
+      "artists": [
+        {
+          "name": "Josh Gauton",
+          "url": "https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M"
+        }
+      ],
+      "duration_ms": 243146,
+      "name": "Love In the Time of Madness",
+      "url": "https://open.spotify.com/track/1lOn7QVLKuNtPQOOjq9Qo6"
     },
     {
       "added_at": "2025-02-14 09:50:05",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
-        "name": "Falling At The Thought Of You",
-        "url": "https://open.spotify.com/album/1ucrXcjn2Dd5FVWrN7bYdX"
-      },
-      "artists": [
-        {
-          "name": "Claire Leslie",
-          "url": "https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E"
-        }
-      ],
-      "duration_ms": 170201,
-      "name": "Falling At The Thought Of You",
-      "url": "https://open.spotify.com/track/4PqpoY1wcn4GsM4gKw7lBO"
-    },
-    {
-      "added_at": "2025-02-14 09:50:05",
-      "album": {
         "name": "I'll Wait",
         "url": "https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 231879,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
+    },
+    {
+      "added_at": "2025-02-14 09:50:05",
+      "album": {
+        "name": "Falling At The Thought Of You",
+        "url": "https://open.spotify.com/album/1ucrXcjn2Dd5FVWrN7bYdX"
+      },
+      "artists": [
+        {
+          "name": "Claire Leslie",
+          "url": "https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E"
+        }
+      ],
+      "duration_ms": 170201,
+      "name": "Falling At The Thought Of You",
+      "url": "https://open.spotify.com/track/4PqpoY1wcn4GsM4gKw7lBO"
     },
     {
       "added_at": "2025-02-14 09:50:05",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
-        "name": "Carry Me",
-        "url": "https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0"
-      },
-      "artists": [
-        {
-          "name": "Josh Wilson",
-          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
-        }
-      ],
-      "duration_ms": 177658,
-      "name": "What A Mystery",
-      "url": "https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg"
-    },
-    {
-      "added_at": "2025-02-14 09:50:05",
-      "album": {
         "name": "The Glorious Unfolding",
         "url": "https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ"
       },
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
+        "name": "Carry Me",
+        "url": "https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0"
+      },
+      "artists": [
+        {
+          "name": "Josh Wilson",
+          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
+        }
+      ],
+      "duration_ms": 177658,
+      "name": "What A Mystery",
+      "url": "https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg"
+    },
+    {
+      "added_at": "2025-02-14 09:50:05",
+      "album": {
         "name": "Just Too Good",
         "url": "https://open.spotify.com/album/6ZbkWzwtQiNTCWNu7uTTbd"
       },
@@ -1043,26 +1043,6 @@
       "duration_ms": 203268,
       "name": "Just Too Good",
       "url": "https://open.spotify.com/track/23hRAQiS0XqnGIz1Oyb1gR"
-    },
-    {
-      "added_at": "2025-02-14 09:50:05",
-      "album": {
-        "name": "Love in the West",
-        "url": "https://open.spotify.com/album/0Oe6yZLlmHs90r6pLAuYBH"
-      },
-      "artists": [
-        {
-          "name": "Uninvtd",
-          "url": "https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ"
-        },
-        {
-          "name": "S A I N T",
-          "url": "https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN"
-        }
-      ],
-      "duration_ms": 138556,
-      "name": "Love in the West",
-      "url": "https://open.spotify.com/track/5ttoyQ1sdU1IuE1nd5MD4l"
     },
     {
       "added_at": "2025-02-14 09:50:05",
@@ -1103,6 +1083,26 @@
       "duration_ms": 151016,
       "name": "i do",
       "url": "https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv"
+    },
+    {
+      "added_at": "2025-02-14 09:50:05",
+      "album": {
+        "name": "Love in the West",
+        "url": "https://open.spotify.com/album/0Oe6yZLlmHs90r6pLAuYBH"
+      },
+      "artists": [
+        {
+          "name": "Uninvtd",
+          "url": "https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ"
+        },
+        {
+          "name": "S A I N T",
+          "url": "https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN"
+        }
+      ],
+      "duration_ms": 138556,
+      "name": "Love in the West",
+      "url": "https://open.spotify.com/track/5ttoyQ1sdU1IuE1nd5MD4l"
     },
     {
       "added_at": "2025-02-14 09:50:05",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
+        "name": "If It Wasn't You",
+        "url": "https://open.spotify.com/album/6Y1mcYfavUoOKSjygq1O4N"
+      },
+      "artists": [
+        {
+          "name": "Airr",
+          "url": "https://open.spotify.com/artist/0DLfOrQvWzfwx0DWmSY8dz"
+        }
+      ],
+      "duration_ms": 186473,
+      "name": "If It Wasn't You",
+      "url": "https://open.spotify.com/track/1a6Se5IcVFKWdqyVayKPRW"
+    },
+    {
+      "added_at": "2025-02-14 09:50:05",
+      "album": {
         "name": "I do",
         "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
       },
@@ -1531,18 +1547,18 @@
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
-        "name": "If It Wasn't You",
-        "url": "https://open.spotify.com/album/6Y1mcYfavUoOKSjygq1O4N"
+        "name": "Only Time Will Tell",
+        "url": "https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG"
       },
       "artists": [
         {
-          "name": "Airr",
-          "url": "https://open.spotify.com/artist/0DLfOrQvWzfwx0DWmSY8dz"
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
         }
       ],
-      "duration_ms": 186473,
-      "name": "If It Wasn't You",
-      "url": "https://open.spotify.com/track/1a6Se5IcVFKWdqyVayKPRW"
+      "duration_ms": 198000,
+      "name": "Only Time Will Tell",
+      "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
     },
     {
       "added_at": "2025-02-14 09:50:05",
@@ -1559,22 +1575,6 @@
       "duration_ms": 203699,
       "name": "A Red, Red Rose",
       "url": "https://open.spotify.com/track/1g9FU9nMRWjpA1HLsdNNKg"
-    },
-    {
-      "added_at": "2025-02-14 09:50:05",
-      "album": {
-        "name": "Only Time Will Tell",
-        "url": "https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Only Time Will Tell",
-      "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
     },
     {
       "added_at": "2025-02-14 09:50:05",
@@ -1611,6 +1611,26 @@
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
+        "name": "Good Love (feat. Kim Burrell)",
+        "url": "https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7"
+      },
+      "artists": [
+        {
+          "name": "Kelontae Gavin",
+          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
+        },
+        {
+          "name": "Kim Burrell",
+          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "Good Love (feat. Kim Burrell)",
+      "url": "https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz"
+    },
+    {
+      "added_at": "2025-02-14 09:50:05",
+      "album": {
         "name": "The One Out The Friendzone (Kevin Aleksander Remix)",
         "url": "https://open.spotify.com/album/34iEy5I9vJ3BUvYgbs9tiC"
       },
@@ -1631,26 +1651,6 @@
       "duration_ms": 180240,
       "name": "The One Out The Friendzone - Kevin Aleksander Remix",
       "url": "https://open.spotify.com/track/25EsAdUP8d3ENGnlKsKcOc"
-    },
-    {
-      "added_at": "2025-02-14 09:50:05",
-      "album": {
-        "name": "Good Love (feat. Kim Burrell)",
-        "url": "https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7"
-      },
-      "artists": [
-        {
-          "name": "Kelontae Gavin",
-          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
-        },
-        {
-          "name": "Kim Burrell",
-          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "Good Love (feat. Kim Burrell)",
-      "url": "https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz"
     },
     {
       "added_at": "2025-02-14 09:50:05",

@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:4uqHgaeBynLBQgfhMEIm1G">PLUTO</a>
 
-2,392 songs - 4 day 10 hr 16 min
+2,393 songs - 4 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2012,7 +2012,7 @@
 | [Sundown \(feat\. JID\)](https://open.spotify.com/track/0peWrHmZmYS4D77vJJDMhJ) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Sundown \(feat\. JID\)](https://open.spotify.com/album/3Bhw6mGopsWHhS4OlCGDe3) | 2:37 | 2024-01-26 | 2025-01-11 |
 | [Supa Ties \(feat\. DJ Khaled & Raw Youngin\)](https://open.spotify.com/track/4lSIx6Q1RNuTtESCrhaI1R) | [AAP Deno](https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Raw Youngin](https://open.spotify.com/artist/44ATBEJe6woTBiC41VWQKd) | [Supa Ties \(feat\. DJ Khaled & Raw Youngin\)](https://open.spotify.com/album/5l1ICrjNUg784zp3FXfYRk) | 2:12 | 2023-03-03 | 2023-04-15 |
 | [Supafly \(feat\. BigXthaPlug\)](https://open.spotify.com/track/0lkZ62PtOr82RFbVJVk8Yn) | [Cootie](https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3), [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Supafly \(feat\. BigXthaPlug / FAST X Soundtrack\)](https://open.spotify.com/album/2fIo1CPdRHVae7GbQdpi3b) | 2:58 | 2023-05-19 | 2023-07-29 |
-| [Super](https://open.spotify.com/track/4u5hMlAk0FpBsgReJ7Rpfy) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [80'z](https://open.spotify.com/album/67YvgeZeleDvyK1sdaxi6G) | 1:43 | 2025-05-02 |  |
+| [Super](https://open.spotify.com/track/4u5hMlAk0FpBsgReJ7Rpfy) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [80'z](https://open.spotify.com/album/67YvgeZeleDvyK1sdaxi6G) | 1:43 | 2025-05-02 | 2025-07-01 |
 | [Super Urus](https://open.spotify.com/track/4d1MKNhs76Fsrnjz9u16zb) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Super Urus](https://open.spotify.com/album/1cL86ZgHUK02aGXz75Q2rh) | 2:22 | 2022-02-18 | 2022-04-02 |
 | [Supercharge \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5UoKOaI2Dg2a9Qgw5TsStq) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Supercharge \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/07ODE2Qy9EfewM8DVkW7ST) | 2:54 | 2022-07-22 | 2022-10-08 |
 | [Superstar Moviestar \(feat\. Kyle Richh\)](https://open.spotify.com/track/4K4nyT9m1hz5bOHnajdxOi) | [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Superstar Moviestar \(feat\. Kyle Richh\)](https://open.spotify.com/album/7r1Bo5OUlVcrpJFPfUQ2Oo) | 3:36 | 2024-06-07 | 2024-06-15 |
@@ -2365,6 +2365,7 @@
 | [XOXO](https://open.spotify.com/track/1DNAIKJQTTOxAIgFl2dcls) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [XOXO](https://open.spotify.com/album/4pZTdwIXeXMGBnzHH6Jgb6) | 2:20 | 2025-04-18 | 2025-06-14 |
 | [YE](https://open.spotify.com/track/6X8EAUvhh5URYz04eYoKEW) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [YE](https://open.spotify.com/album/4xspYyXEsk2GuVr0yBEVql) | 2:11 | 2023-05-19 | 2023-07-08 |
 | [Yea Freestyle](https://open.spotify.com/track/1tNIrPGSAhs4wquxihb01G) | [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [No Socks 3](https://open.spotify.com/album/0TuZ9izuLgcVvN7dKyqRRb) | 3:06 | 2023-09-29 | 2023-11-11 |
+| [Yea Yea](https://open.spotify.com/track/68lvLHNsJlCLAnrskbell4) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Tha Language](https://open.spotify.com/album/1eR7AfJfPEsLTnkpkTEoi8) | 3:12 | 2025-06-30 |  |
 | [Yea Yea](https://open.spotify.com/track/2VIJ6TJoMNc0KeXgrCUSLu) | [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [Yea Yea](https://open.spotify.com/album/32kB87vZ7B8xYXjM3i4B3h) | 2:01 | 2024-07-05 | 2024-10-02 |
 | [Yea Yea \(feat\. Veeze\) \[Remix\]](https://open.spotify.com/track/6ABTX0rPmt1vCFJWeY97kY) | [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Yea Yea \(feat\. Veeze\) \[Remix\]](https://open.spotify.com/album/06hrDI2Zrtx2xvuzOM5sRC) | 2:48 | 2024-10-04 | 2024-11-16 |
 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 | 2024-02-09 | 2024-09-28 |

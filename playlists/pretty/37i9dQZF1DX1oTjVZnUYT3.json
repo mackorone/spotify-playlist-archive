@@ -1,6 +1,6 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 469971,
+  "num_followers": 469980,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,26 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Rita Hits",
+        "url": "https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Roberto De Carvalho",
+          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
+        }
+      ],
+      "duration_ms": 127840,
+      "name": "Lan\u00e7a Perfume",
+      "url": "https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Chico Buarque",
         "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
       },
@@ -95,26 +115,6 @@
       "duration_ms": 235546,
       "name": "Apesar De Voc\u00ea",
       "url": "https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Rita Hits",
-        "url": "https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27"
-      },
-      "artists": [
-        {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        },
-        {
-          "name": "Roberto De Carvalho",
-          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
-        }
-      ],
-      "duration_ms": 127840,
-      "name": "Lan\u00e7a Perfume",
-      "url": "https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -287,6 +287,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "20 Grandes Sucessos De Alceu Valen\u00e7a",
+        "url": "https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Tropicana (Morena Tropicana)",
+      "url": "https://open.spotify.com/track/54BLy0zSiBUOINjOwMC3M2"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "E a\u00ed?",
         "url": "https://open.spotify.com/album/10MHbEofOuI7ELkawl8bSz"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 232200,
       "name": "A Menina Dan\u00e7a",
       "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "20 Grandes Sucessos De Alceu Valen\u00e7a",
-        "url": "https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Tropicana (Morena Tropicana)",
-      "url": "https://open.spotify.com/track/54BLy0zSiBUOINjOwMC3M2"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -371,6 +371,30 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        },
+        {
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+        },
+        {
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+        }
+      ],
+      "duration_ms": 306853,
+      "name": "Frevo Mulher - Ao Vivo",
+      "url": "https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Di Melo",
         "url": "https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F"
       },
@@ -407,30 +431,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        },
-        {
-          "name": "Elba Ramalho",
-          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
-        },
-        {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
-        }
-      ],
-      "duration_ms": 306853,
-      "name": "Frevo Mulher - Ao Vivo",
-      "url": "https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "A Tabua De Esmeralda",
         "url": "https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0"
       },
@@ -443,22 +443,6 @@
       "duration_ms": 195266,
       "name": "Os Alquimistas Est\u00e3o Chegando Os Alquimistas",
       "url": "https://open.spotify.com/track/6WohVJvZ6RYmYN8Nxl9VHa"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Umas E Outras",
-        "url": "https://open.spotify.com/album/5OVtTHYvp9qti3AOyjWoVG"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 220453,
-      "name": "Jorge Maravilha",
-      "url": "https://open.spotify.com/track/6K022fAYR1Q2BQwKfugUi3"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -479,22 +463,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Retratos",
-        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "Feira De Mangaio",
-      "url": "https://open.spotify.com/track/42ECxaPackxKgMns8zAvW9"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "2 Em 1",
         "url": "https://open.spotify.com/album/63D15Du0fgLFQzDUKVKq2J"
       },
@@ -507,6 +475,38 @@
       "duration_ms": 269426,
       "name": "La Belle De Jour",
       "url": "https://open.spotify.com/track/0c8aqUb7e0K9uNhxejfV23"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Umas E Outras",
+        "url": "https://open.spotify.com/album/5OVtTHYvp9qti3AOyjWoVG"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 220453,
+      "name": "Jorge Maravilha",
+      "url": "https://open.spotify.com/track/6K022fAYR1Q2BQwKfugUi3"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Retratos",
+        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "Feira De Mangaio",
+      "url": "https://open.spotify.com/track/42ECxaPackxKgMns8zAvW9"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -579,22 +579,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Falso Brilhante",
-        "url": "https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 254200,
-      "name": "Velha Roupa Colorida",
-      "url": "https://open.spotify.com/track/7aQWuNqheTpisZfM0gP2oG"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Samba de Raiz - Ao Vivo",
         "url": "https://open.spotify.com/album/6T58aKZn3iMSizSYaF2pTc"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 195573,
       "name": "Vou Festejar - Ao Vivo",
       "url": "https://open.spotify.com/track/3v6nNd7zI8EPlHflsy2UtC"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Falso Brilhante",
+        "url": "https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 254200,
+      "name": "Velha Roupa Colorida",
+      "url": "https://open.spotify.com/track/7aQWuNqheTpisZfM0gP2oG"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Fruto Proibido",
-        "url": "https://open.spotify.com/album/48SnM2iORxlYTyCefwJZvs"
-      },
-      "artists": [
-        {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        }
-      ],
-      "duration_ms": 338933,
-      "name": "Ovelha Negra",
-      "url": "https://open.spotify.com/track/5xpumjGGcdWvqWxYVrd7jI"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Para Sempre",
         "url": "https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 185826,
       "name": "Trem Das Onze",
       "url": "https://open.spotify.com/track/5JSNcb3MwTxkDH4mrYKnHG"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Fruto Proibido",
+        "url": "https://open.spotify.com/album/48SnM2iORxlYTyCefwJZvs"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        }
+      ],
+      "duration_ms": 338933,
+      "name": "Ovelha Negra",
+      "url": "https://open.spotify.com/track/5xpumjGGcdWvqWxYVrd7jI"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -759,6 +759,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Raizes Do Samba",
+        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
+      },
+      "artists": [
+        {
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+        }
+      ],
+      "duration_ms": 97200,
+      "name": "O Sol Nascer\u00e1 (A Sorrir)",
+      "url": "https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Marina Rock Lima",
         "url": "https://open.spotify.com/album/4qpHcaQHNLmPS2sM93TekF"
       },
@@ -771,6 +787,22 @@
       "duration_ms": 248480,
       "name": "\u00c0 Francesa",
       "url": "https://open.spotify.com/track/3dRU9xurI1QoVDs9FUHenD"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 189040,
+      "name": "Swing de Campo Grande",
+      "url": "https://open.spotify.com/track/5V0HmhGqwjoDq0cHlI05GS"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -799,34 +831,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+        "name": "Latin Grooves - Samba",
+        "url": "https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU"
       },
       "artists": [
         {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+          "name": "Z\u00e9 Keti",
+          "url": "https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr"
         }
       ],
-      "duration_ms": 189040,
-      "name": "Swing de Campo Grande",
-      "url": "https://open.spotify.com/track/5V0HmhGqwjoDq0cHlI05GS"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Raizes Do Samba",
-        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
-      },
-      "artists": [
-        {
-          "name": "Cartola",
-          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
-        }
-      ],
-      "duration_ms": 97200,
-      "name": "O Sol Nascer\u00e1 (A Sorrir)",
-      "url": "https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm"
+      "duration_ms": 123760,
+      "name": "A Voz do Morro",
+      "url": "https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -847,18 +863,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Latin Grooves - Samba",
-        "url": "https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU"
+        "name": "Nos Botequins Da Vida",
+        "url": "https://open.spotify.com/album/5jrnGYZ7bHuFqOG2GusH50"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Keti",
-          "url": "https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr"
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
         }
       ],
-      "duration_ms": 123760,
-      "name": "A Voz do Morro",
-      "url": "https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP"
+      "duration_ms": 190106,
+      "name": "Olho por Olho",
+      "url": "https://open.spotify.com/track/6P71LmKrWTwnGBe4BYK5IG"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -879,18 +895,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Nos Botequins Da Vida",
-        "url": "https://open.spotify.com/album/5jrnGYZ7bHuFqOG2GusH50"
+        "name": "Um dos Poetas do Samba",
+        "url": "https://open.spotify.com/album/5tQPQGa137XeVTd3vYn1No"
       },
       "artists": [
         {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
         }
       ],
-      "duration_ms": 190106,
-      "name": "Olho por Olho",
-      "url": "https://open.spotify.com/track/6P71LmKrWTwnGBe4BYK5IG"
+      "duration_ms": 201666,
+      "name": "O Feij\u00e3o de Dona Nen\u00e9m",
+      "url": "https://open.spotify.com/track/5G74LW4IB7XUaOzpH0VpEz"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -923,22 +939,6 @@
       "duration_ms": 164808,
       "name": "Juramento do Dedinho",
       "url": "https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Um dos Poetas do Samba",
-        "url": "https://open.spotify.com/album/5tQPQGa137XeVTd3vYn1No"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "O Feij\u00e3o de Dona Nen\u00e9m",
-      "url": "https://open.spotify.com/track/5G74LW4IB7XUaOzpH0VpEz"
     },
     {
       "added_at": "2021-11-26 03:18:52",

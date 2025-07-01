@@ -831,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/3bLo2Sh0Zxi4akKuQepLcx"
+      },
+      "artists": [
+        {
+          "name": "Byeol Eun",
+          "url": "https://open.spotify.com/artist/6PlVpPXatgot82WQgqM6S2"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233621,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/4taFv70TtVfBiR6Uo53rao"
+    },
+    {
+      "album": {
         "name": "Confession (Ditto X Chuu (LOONA))",
         "url": "https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp"
       },
@@ -930,6 +948,24 @@
       "duration_ms": 202560,
       "name": "D-day",
       "url": "https://open.spotify.com/track/21xL4v9Sx7SCChxtSj3Gby"
+    },
+    {
+      "album": {
+        "name": "Head over Heels, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1gCYdqywMDYyYLn9xZh6Df"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191013,
+      "name": "D-DAY",
+      "url": "https://open.spotify.com/track/6NmLAub5n0Ol4hwYlGVdiw"
     },
     {
       "album": {
@@ -1118,6 +1154,24 @@
       "duration_ms": 219210,
       "name": "Dream",
       "url": "https://open.spotify.com/track/2zhF54yxl0asFYGtMWavYC"
+    },
+    {
+      "album": {
+        "name": "Where's my hero?, Pt.1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4cMAziO2wc1Y3lbJdmZOMJ"
+      },
+      "artists": [
+        {
+          "name": "HYOJUNG",
+          "url": "https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146253,
+      "name": "Eve",
+      "url": "https://open.spotify.com/track/4lUWMmp3VraOLVaz6odamW"
     },
     {
       "album": {
@@ -1660,7 +1714,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 213870,
       "name": "Height Difference",
       "url": "https://open.spotify.com/track/1wiyZkzlC6EFMCpXc3EkPu"
@@ -2402,6 +2456,24 @@
       "duration_ms": 164000,
       "name": "L.O.V.E (Romantic)",
       "url": "https://open.spotify.com/track/444IU436DVhrz6HJlPv4C4"
+    },
+    {
+      "album": {
+        "name": "H1-KEY 4th Mini Album [Lovestruck]",
+        "url": "https://open.spotify.com/album/21oMWx3BnmfTOy2zqzxJwt"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Let Me Be Your Sea",
+      "url": "https://open.spotify.com/track/5ovEBpKRTo7HpWXNNzBJda"
     },
     {
       "album": {
@@ -3592,7 +3664,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 212571,
       "name": "Shall we take a walk?",
       "url": "https://open.spotify.com/track/4Xsz6SZf1fP6x4BCU38fay"
@@ -4572,7 +4644,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 212000,
       "name": "Unspoken",
       "url": "https://open.spotify.com/track/5fO9P4c910wBwXdhEyTjaG"
@@ -5138,7 +5210,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 177242,
       "name": "\ub0b4 \ub9d8 \uc54c\uae4c",
       "url": "https://open.spotify.com/track/5AIBtAiMAY0h7uDLOnxzRk"

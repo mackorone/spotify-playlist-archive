@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Lorde, Teddy Swims, Karan Aujla, Lizzo, KATSEYE and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,013 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,027 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 57 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 |
 | 58 | [Dandelion Dreams](https://open.spotify.com/track/1MLA8Qhh3nMFuwnga9FYEJ) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [Dandelion Dreams](https://open.spotify.com/album/7gBiunFIkml0uNqQM85zKw) | 2:37 |
 | 59 | [WTCH](https://open.spotify.com/track/07S1I5r2tlpNg8QJDJewBJ) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [BLACK MAGIC](https://open.spotify.com/album/0YtqdM1lPwVEpOQip5xhfB) | 2:59 |
-| 60 | [Bend \(feat\. Skillibeng\)](https://open.spotify.com/track/47AoRNM6DEQmNJwRoG4uZ3) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Pool Party](https://open.spotify.com/album/51o2j8y90vuY7nFzE5A6l8) | 2:53 |
+| 60 | [Bend \(feat\. Skillibeng\)](https://open.spotify.com/track/47AoRNM6DEQmNJwRoG4uZ3) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Pool Party](https://open.spotify.com/album/51o2j8y90vuY7nFzE5A6l8) | 2:52 |
 | 61 | [never mine](https://open.spotify.com/track/1fNFVjK6tIpDNwUA0QucXI) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [never mine](https://open.spotify.com/album/4M3yKgmuuIRtstbx40GJel) | 2:50 |
 | 62 | [Lippy](https://open.spotify.com/track/5ReIuSLbXCAUYkg9v0NR7b) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Lippy](https://open.spotify.com/album/2WGssUw0jZ4RzRpi2lxN5P) | 2:55 |
 | 63 | [Falling Off](https://open.spotify.com/track/5i6sfCzHacfBEdLPzFjgiy) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Falling Off](https://open.spotify.com/album/3wQcw5o7ZAiCQiE2Xs22Sp) | 2:40 |

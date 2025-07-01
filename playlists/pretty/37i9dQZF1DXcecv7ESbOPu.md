@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Hooja, Lewis Capaldi, Laleh och Soppgirobygget med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,440 likes - 113 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,451 likes - 113 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 84 | [PIMPIN](https://open.spotify.com/track/3M2C3j5l4w85oVQWjbhpkp) | [RAMEL](https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h) | [PIMPIN](https://open.spotify.com/album/4m5WQV2hDW3cwxAwF52DkB) | 2:15 |
 | 85 | [Options](https://open.spotify.com/track/1X5L2zy9SYkqirZp6WkJoy) | [Nicoel](https://open.spotify.com/artist/6r07cY3uTfDRAelK2bbTyA) | [Options](https://open.spotify.com/album/3l7eLSy1GNg3zA9MFguN2Y) | 3:32 |
 | 86 | [Några timmar kvar](https://open.spotify.com/track/32ediQyqnNKwvZs8T0geJg) | [TRENDEN](https://open.spotify.com/artist/6YuKFo9oa6f4KGcrDm982S) | [Några timmar kvar](https://open.spotify.com/album/2hH5RbXA1MohK4NfqJTwNR) | 2:27 |
-| 87 | [IRONI](https://open.spotify.com/track/6fW78WnlFiAtKVdbUs22Gb) | [BORIS](https://open.spotify.com/artist/598zdcipITFu6JHR7Zna8a) | [MINNEN FRÅN TREDJE VÅNINGEN](https://open.spotify.com/album/4Lujbda9NFCoURopzfSZlx) | 2:37 |
+| 87 | [IRONI](https://open.spotify.com/track/6fW78WnlFiAtKVdbUs22Gb) | [BORIS](https://open.spotify.com/artist/598zdcipITFu6JHR7Zna8a), [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [MINNEN FRÅN TREDJE VÅNINGEN](https://open.spotify.com/album/4Lujbda9NFCoURopzfSZlx) | 2:37 |
 | 88 | [Månen](https://open.spotify.com/track/0K983v0A3vx4mtWv2TxjXQ) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Månen](https://open.spotify.com/album/1l5Mvjssz7K5HfIyTHD0g2) | 2:39 |
 | 89 | [The Field \(feat\. The Durutti Column, Tariq Al\-Sabir, Caroline Polachek & Daniel Caesar\)](https://open.spotify.com/track/5GVyBn2zUEweqnS6oeXlMp) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Tariq Al\-Sabir](https://open.spotify.com/artist/6EScxZAPeNmf1U8TB4Hk2h), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [The Field \(feat\. The Durutti Column, Tariq Al\-Sabir, Caroline Polachek & Daniel Caesar\)](https://open.spotify.com/album/1ui8ZfiEmEZSGB2K4OPNYc) | 3:19 |
 | 90 | [Lumin Rain](https://open.spotify.com/track/30arQtOqsP62Y9fXL5eLQ1) | [Arc De Soleil](https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5) | [Lumin Rain](https://open.spotify.com/album/4zaLofIfUmWIfP04hlefLw) | 3:22 |

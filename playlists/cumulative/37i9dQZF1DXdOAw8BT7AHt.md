@@ -2,7 +2,7 @@
 
 ### [Today's Punk](https://open.spotify.com/playlist/37i9dQZF1DXdOAw8BT7AHt)
 
-> The best in modern punk rock music\. Cover: Maruja
+> The best in modern punk rock music\. Cover: Turnstile at <a href="https://open.spotify.com/genre/0JQ5DAqbMKFRjoC1iWNybi">Glastonbury 2025</a>
 
 481 songs - 1 day 0 hr 2 min
 

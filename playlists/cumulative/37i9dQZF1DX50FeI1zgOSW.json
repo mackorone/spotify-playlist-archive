@@ -2899,6 +2899,36 @@
     },
     {
       "album": {
+        "name": "Idhayam",
+        "url": "https://open.spotify.com/album/4GKEnDJs4i5vK9WsDKfvCx"
+      },
+      "artists": [
+        {
+          "name": "Keethan",
+          "url": "https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ"
+        },
+        {
+          "name": "Kavin Lavari",
+          "url": "https://open.spotify.com/artist/3Y4K8LCLMtBS9lxM46EpMe"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        },
+        {
+          "name": "Achayan",
+          "url": "https://open.spotify.com/artist/46eo6xKxaZmYnnKNwpyB4C"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262736,
+      "name": "Idhayam",
+      "url": "https://open.spotify.com/track/49vNDLnRyxawpBHGKLLaLh"
+    },
+    {
+      "album": {
         "name": "Idhayam - Tune In For Love",
         "url": "https://open.spotify.com/album/0q6MhFUORMR0rOaLM7tRKq"
       },

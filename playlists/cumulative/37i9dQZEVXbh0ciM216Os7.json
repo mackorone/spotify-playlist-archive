@@ -13715,6 +13715,32 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/5fsHjTpCEwnEAEQJZ6lZvI"
+      },
+      "artists": [
+        {
+          "name": "Semaj Dee",
+          "url": "https://open.spotify.com/artist/5Z01iu7X49wa2EZGMvcFWG"
+        },
+        {
+          "name": "Shai Sevin",
+          "url": "https://open.spotify.com/artist/26rt55ylTQPbrnvM6drs8V"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173707,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/3F6PNzVVzVZfLwEKRD0a4V"
+    },
+    {
+      "album": {
         "name": "Dreams (Live at the Fabulous Forum, Inglewood, CA 08/29/77)",
         "url": "https://open.spotify.com/album/3DWQp7uq3XlPvC03gZuGeq"
       },
@@ -33874,7 +33900,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 558178,
       "name": "Mystic Journey",
       "url": "https://open.spotify.com/track/1rUt2zVD9xWsxbfi6MxlUj"

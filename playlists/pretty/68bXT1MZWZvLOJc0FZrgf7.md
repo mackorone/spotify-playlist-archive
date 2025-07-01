@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits 🪩 2025 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Jennifer Lopez &amp; Joel Corry
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 96,792 likes - 100 songs - 5 hr 21 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 96,766 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 8 | [Masala \(with Amrit Maan\)](https://open.spotify.com/track/5dB5jHKWnC5zHO7e0LlEyM) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [Masala \(with Amrit Maan\)](https://open.spotify.com/album/7t8Wihk1jeFPSixuQV2Bj8) | 2:11 |
 | 9 | [Avalanche](https://open.spotify.com/track/0x0tXj8o37aZj1kSFJz9nw) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Avalanche](https://open.spotify.com/album/0PiXlOoPttcMF4yREQBful) | 4:54 |
 | 10 | [Days in the Sun \- Forester Remix](https://open.spotify.com/track/5LIHWsxuYVFBBtGE9C4iBu) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Days in the Sun \(Forester Remix\)](https://open.spotify.com/album/5Ka2UVWjEZNf8ZkjUkrrSF) | 4:19 |
-| 11 | [Nobody's Watching](https://open.spotify.com/track/0rU71wAEpJBqgAwS6nneqN) | [Fordo](https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa) | [2001](https://open.spotify.com/album/1yfn1uDXiRcYu1rqmFWPia) | 2:55 |
+| 11 | [NOBODY'S WATCHING](https://open.spotify.com/track/0rU71wAEpJBqgAwS6nneqN) | [Fordo](https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa) | [2001](https://open.spotify.com/album/1yfn1uDXiRcYu1rqmFWPia) | 2:55 |
 | 12 | [Keep Hope Alive](https://open.spotify.com/track/6Nsi9OnsahsrVz9f7ol0LT) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh) | [Keep Hope Alive](https://open.spotify.com/album/4pLodKw2RuByBeuq2DSybe) | 3:35 |
 | 13 | [Bassline Vandal](https://open.spotify.com/track/3Tr23VUBK43ysiHCkuBZam) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt) | [Bassline Vandal](https://open.spotify.com/album/4VmoxWfTEADui1E6B1lno5) | 2:55 |
 | 14 | [Tell Me Where U Go \- goddard\. Edit](https://open.spotify.com/track/4NhCAUg4e7H6SMOUxKt6ju) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Tell Me Where U Go \(goddard\. Edit\)](https://open.spotify.com/album/4EU7mSGT6umX9NQ18EAaWw) | 3:01 |

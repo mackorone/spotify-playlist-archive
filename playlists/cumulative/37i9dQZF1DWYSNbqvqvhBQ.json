@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-02-25",
   "description": "De mooiste liedjes van het moment. Cover: KANE",
-  "name": "Blijf Luisteren",
+  "name": "Altijd Goed",
   "tracks": [
     {
       "album": {
@@ -7007,6 +7007,24 @@
     },
     {
       "album": {
+        "name": "I've Tried Everything But Therapy (Complete Edition)",
+        "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190124,
+      "name": "Need You More",
+      "url": "https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro"
+    },
+    {
+      "album": {
         "name": "so sick of myself",
         "url": "https://open.spotify.com/album/0Ug4t9Cz4LQ3yMUnNsR1RV"
       },
@@ -10874,7 +10892,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 219400,
       "name": "Time Waited",
       "url": "https://open.spotify.com/track/3YvHeJwoLvl06hHDKHRVDR"

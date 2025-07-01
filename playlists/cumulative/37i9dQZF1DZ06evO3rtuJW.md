@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-177 songs - 8 hr 48 min
+178 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,8 +171,9 @@
 | [TO THE MOON \(feat\. Fivio Foreign, Russ Millions & Sam Tompkins\) \- Drill Remix](https://open.spotify.com/track/3rF1pPjaDjWuIUCTXpMGIv) | [JNR CHOI](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON \(feat\. Fivio Foreign, Russ Millions & Sam Tompkins\) \[Drill Remix\]](https://open.spotify.com/album/0ddJiwySvz540rC18Qn2aY) | 3:38 | 2022-10-28 | 2024-09-08 |
 | [Torn](https://open.spotify.com/track/7yf7fcI9uOUyxfrtShR5GV) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 2:54 | 2022-10-28 | 2022-11-22 |
 | [Trim](https://open.spotify.com/track/5MugZBMS6BgYnAHzoEdxCR) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 3:09 | 2024-09-08 | 2024-11-20 |
+| [Trim \(feat\. G Herbo\)](https://open.spotify.com/track/1rRR6qwjIA268I8VpznRU9) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Bleuski](https://open.spotify.com/album/6cMxW6Nfs0feHiFNZZGl2D) | 3:23 | 2025-07-01 |  |
 | [TRY & SEE \(feat\. Future, G Herbo & Roddy Ricch\)](https://open.spotify.com/track/7D0RCMzX66F9TIr9XB66kh) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [BEEZY](https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep) | 3:07 | 2023-06-13 | 2024-04-06 |
-| [U Know Dat \(feat\. G Herbo\)](https://open.spotify.com/track/6iKSh4ElPgyGlA5DY7ljLk) | [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [\#FreeMyHoodFuckYoHood: Bounce Out Edition](https://open.spotify.com/album/2ROAftc11A5ptP94CNoPrD) | 3:10 | 2024-06-21 |  |
+| [U Know Dat \(feat\. G Herbo\)](https://open.spotify.com/track/6iKSh4ElPgyGlA5DY7ljLk) | [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [\#FreeMyHoodFuckYoHood: Bounce Out Edition](https://open.spotify.com/album/2ROAftc11A5ptP94CNoPrD) | 3:10 | 2024-06-21 | 2025-07-01 |
 | [Up Next 3](https://open.spotify.com/track/2uCncSbMLOMF6rlA2ThdGO) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Summer Songs 2](https://open.spotify.com/album/1Ea4UfFW7K1UzbjkDVaPri) | 2:35 | 2022-10-28 | 2023-05-01 |
 | [Vegeta](https://open.spotify.com/track/2f8ySocT3A14p39nM0UvyP) | [M Row](https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Vegeta](https://open.spotify.com/album/4UWA4i4rWJZgNwNhJpyQNE) | 2:07 | 2024-11-07 | 2024-12-06 |
 | [Wayback](https://open.spotify.com/track/0eEHWuhv5CXJUokBDmehfs) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland \(Anniversary Edition\)](https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26) | 2:45 | 2025-04-19 | 2025-06-11 |

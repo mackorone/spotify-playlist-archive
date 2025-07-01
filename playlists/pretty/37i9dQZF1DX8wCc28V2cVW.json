@@ -1,6 +1,6 @@
 {
   "description": "Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song. \u6700\u65b0\u4f5c\u300eFINAL FANTASY VII REBIRTH\u300f\u3092\u306f\u3058\u3081\u3068\u3059\u308b\u30d5\u30a1\u30a4\u30ca\u30eb\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc\u306e\u73e0\u7389\u306e\u540d\u66f2\u96c6\u3002\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u3001\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u306e\u8ffd\u52a0\u3092\u304a\u5f85\u3061\u304f\u3060\u3055\u3044\u3002\u00a92019 SQUARE ENIX CO., LTD. All Rights Reserved.",
-  "num_followers": 202429,
+  "num_followers": 202447,
   "original_name": "FINAL FANTASY",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,18 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
-        "name": "KINGSGLAIVE FINAL FANTASY XV Original Soundtrack",
-        "url": "https://open.spotify.com/album/345ixvSOx8iXoy1DonTYcI"
+        "name": "CRISIS CORE -FINAL FANTASY VII- Original Soundtrack",
+        "url": "https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi"
       },
       "artists": [
         {
-          "name": "Neo Liu",
-          "url": "https://open.spotify.com/artist/3tRSexEXQcKCP2GPWM0fl6"
-        },
-        {
-          "name": "Tu Hua Bing",
-          "url": "https://open.spotify.com/artist/69utIloWXaEb6Aq03q0bYo"
+          "name": "\u77f3\u5143 \u4e08\u6674",
+          "url": "https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf"
         }
       ],
-      "duration_ms": 220904,
-      "name": "Calling for Rain",
-      "url": "https://open.spotify.com/track/7vqpKhLbVZkBY2s6l59Q4L"
+      "duration_ms": 527000,
+      "name": "Living Legacy",
+      "url": "https://open.spotify.com/track/6OVTAgBSJrevOKaiO9KXbn"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -759,18 +755,22 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
-        "name": "CRISIS CORE -FINAL FANTASY VII- Original Soundtrack",
-        "url": "https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi"
+        "name": "KINGSGLAIVE FINAL FANTASY XV Original Soundtrack",
+        "url": "https://open.spotify.com/album/345ixvSOx8iXoy1DonTYcI"
       },
       "artists": [
         {
-          "name": "\u77f3\u5143 \u4e08\u6674",
-          "url": "https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf"
+          "name": "Neo Liu",
+          "url": "https://open.spotify.com/artist/3tRSexEXQcKCP2GPWM0fl6"
+        },
+        {
+          "name": "Tu Hua Bing",
+          "url": "https://open.spotify.com/artist/69utIloWXaEb6Aq03q0bYo"
         }
       ],
-      "duration_ms": 527000,
-      "name": "Living Legacy",
-      "url": "https://open.spotify.com/track/6OVTAgBSJrevOKaiO9KXbn"
+      "duration_ms": 220904,
+      "name": "Calling for Rain",
+      "url": "https://open.spotify.com/track/7vqpKhLbVZkBY2s6l59Q4L"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
+        "name": "CRISIS CORE -FINAL FANTASY VII- Original Soundtrack",
+        "url": "https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi"
+      },
+      "artists": [
+        {
+          "name": "\u77f3\u5143 \u4e08\u6674",
+          "url": "https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf"
+        }
+      ],
+      "duration_ms": 242800,
+      "name": "CRISIS CORE Theme - Under the Apple Tree",
+      "url": "https://open.spotify.com/track/3LHo1P0OTS3u9INCq42xnr"
+    },
+    {
+      "added_at": "2024-09-18 01:48:43",
+      "album": {
         "name": "FINAL FANTASY XII Original Soundtrack",
         "url": "https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 234893,
       "name": "Full Speed Ahead",
       "url": "https://open.spotify.com/track/5wPrzT7xRJ0RPw5Hlje4b1"
-    },
-    {
-      "added_at": "2024-09-18 01:48:43",
-      "album": {
-        "name": "CRISIS CORE -FINAL FANTASY VII- Original Soundtrack",
-        "url": "https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi"
-      },
-      "artists": [
-        {
-          "name": "\u77f3\u5143 \u4e08\u6674",
-          "url": "https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf"
-        }
-      ],
-      "duration_ms": 242800,
-      "name": "CRISIS CORE Theme - Under the Apple Tree",
-      "url": "https://open.spotify.com/track/3LHo1P0OTS3u9INCq42xnr"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
-        "name": "LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI"
-      },
-      "artists": [
-        {
-          "name": "Naoshi Mizuta",
-          "url": "https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe"
-        }
-      ],
-      "duration_ms": 343320,
-      "name": "Sunset Path",
-      "url": "https://open.spotify.com/track/75NI6pNNvOvpeb8SsBkedd"
-    },
-    {
-      "added_at": "2024-09-18 01:48:43",
-      "album": {
         "name": "FINAL FANTASY TACTICS Original Soundtrack",
         "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 157400,
       "name": "Trisection",
       "url": "https://open.spotify.com/track/1nBbKUpjjTMOdXG242puec"
+    },
+    {
+      "added_at": "2024-09-18 01:48:43",
+      "album": {
+        "name": "LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI"
+      },
+      "artists": [
+        {
+          "name": "Naoshi Mizuta",
+          "url": "https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe"
+        }
+      ],
+      "duration_ms": 343320,
+      "name": "Sunset Path",
+      "url": "https://open.spotify.com/track/75NI6pNNvOvpeb8SsBkedd"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
-        "name": "FINAL FANTASY TACTICS Original Soundtrack",
-        "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
+        "name": "FINAL FANTASY IX Original Soundtrack",
+        "url": "https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi"
       },
       "artists": [
         {
-          "name": "Hitoshi Sakimoto",
-          "url": "https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm"
+          "name": "Emiko Shiratori",
+          "url": "https://open.spotify.com/artist/2l0RkPXVhAxkACI2dT7o8p"
         }
       ],
-      "duration_ms": 69826,
-      "name": "Opening",
-      "url": "https://open.spotify.com/track/2ega5twcEqXE03JPv2UhuW"
+      "duration_ms": 201733,
+      "name": "Melodies of Life (The Layers of Harmony)",
+      "url": "https://open.spotify.com/track/3hEv7v0JaBnd2ozqUmjwct"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
-        "name": "FINAL FANTASY IX Original Soundtrack",
-        "url": "https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi"
+        "name": "FINAL FANTASY TACTICS Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
       },
       "artists": [
         {
-          "name": "Emiko Shiratori",
-          "url": "https://open.spotify.com/artist/2l0RkPXVhAxkACI2dT7o8p"
+          "name": "Hitoshi Sakimoto",
+          "url": "https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm"
         }
       ],
-      "duration_ms": 201733,
-      "name": "Melodies of Life (The Layers of Harmony)",
-      "url": "https://open.spotify.com/track/3hEv7v0JaBnd2ozqUmjwct"
+      "duration_ms": 69826,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/2ega5twcEqXE03JPv2UhuW"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
-        "name": "FINAL FANTASY TACTICS Original Soundtrack",
-        "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
+        "name": "LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI"
       },
       "artists": [
         {
-          "name": "Masaharu Iwata",
-          "url": "https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3"
+          "name": "Mitsuto Suzuki",
+          "url": "https://open.spotify.com/artist/5W4sTIDfoLa7FKduC4R8AE"
         }
       ],
-      "duration_ms": 194800,
-      "name": "Under The Stars",
-      "url": "https://open.spotify.com/track/3d8yEcvpn1IFT4TXBtupNP"
+      "duration_ms": 271573,
+      "name": "The Ark",
+      "url": "https://open.spotify.com/track/52owa26O52mjroTJTfnHGI"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
-        "name": "LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI"
+        "name": "FINAL FANTASY TACTICS Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
       },
       "artists": [
         {
-          "name": "Mitsuto Suzuki",
-          "url": "https://open.spotify.com/artist/5W4sTIDfoLa7FKduC4R8AE"
+          "name": "Masaharu Iwata",
+          "url": "https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3"
         }
       ],
-      "duration_ms": 271573,
-      "name": "The Ark",
-      "url": "https://open.spotify.com/track/52owa26O52mjroTJTfnHGI"
+      "duration_ms": 194800,
+      "name": "Under The Stars",
+      "url": "https://open.spotify.com/track/3d8yEcvpn1IFT4TXBtupNP"
     }
   ],
   "unique_name": "FINAL FANTASY",

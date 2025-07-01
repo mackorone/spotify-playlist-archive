@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30FdZ6jR5Gl.md) - [plain]
 
 > An introduction to American composer Philip Glass \(b\. 1937\), whose hypnotic and powerful music has become part of our cultural soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,743 likes - 47 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 401 likes - 47 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30FdZ6jR5Gl.md) - [plain]
 | 46 | [Piano Concerto No\. 3 \(2017\): Movement III](https://open.spotify.com/track/5IZa0EqBWuaNFjw2abchTr) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Simone Dinnerstein](https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ), [A Far Cry](https://open.spotify.com/artist/1vsRr2muQHYrOKhTNZYLcR) | [Circles: Piano Concertos by Bach + Glass](https://open.spotify.com/album/0QO9iPshTAlBinTwtft6Cc) | 13:58 |
 | 47 | [North Star: Étoile polaire \(Arranged by James McVinnie\)](https://open.spotify.com/track/0pwzhEP9LWccpnJmfxeKYS) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [James McVinnie](https://open.spotify.com/artist/4aFXwGxCEd4fSBcXE7N3V5) | [Philip Glass: The Grid](https://open.spotify.com/album/6ZZvgZTAktrniRUDmTNXPd) | 2:39 |
 
-Snapshot ID: `aCb6qQAAAAB5Dx+rjP8wpRbHHwvPrcxM`
+Snapshot ID: `aGKVBQAAAAAlmX1ZzkNysN5Xuo1NRGCk`

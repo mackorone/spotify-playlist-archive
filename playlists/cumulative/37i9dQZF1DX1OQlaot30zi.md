@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di DJ Shocca,  Tony Boy, Fabri Fibra, Icy Subzero, Promessa,  Villabanks, Frezza e tanti altri.
 
-5,744 songs - 10 day 15 hr 46 min
+5,745 songs - 10 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1993,6 +1993,7 @@
 | [G II](https://open.spotify.com/track/3HUPMluR4pzVtC1tVdcxlh) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [G II](https://open.spotify.com/album/3qo652f9S3cLUEHQcCz4XG) | 2:33 | 2025-01-17 | 2025-02-07 |
 | [G NEXT](https://open.spotify.com/track/1XllmeqNxAVcQTrzeZODX7) | [SatlaMiff](https://open.spotify.com/artist/4bbUyCr3c33zgDHTOnnzFN), [SPINE](https://open.spotify.com/artist/5mKGpfEqTSeUslDPMAKXe7) | [G NEXT](https://open.spotify.com/album/3MC1VXaZzBLlhPbLkj7lTN) | 2:10 | 2025-05-15 | 2025-06-07 |
 | [G wagon](https://open.spotify.com/track/01N376lscuZ90vGovLrjDj) | [ODT](https://open.spotify.com/artist/7qjWcA6FFIXU0JUWDv47Gf) | [G wagon](https://open.spotify.com/album/3xTWoR9D2oTQ7Rtkbh5wV6) | 2:26 | 2023-06-22 | 2023-07-14 |
+| [G&V](https://open.spotify.com/track/6GH0stb5CRpcpH9LDGD8JJ) | [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [G&V](https://open.spotify.com/album/11Fl5ZsX0Z9n97S5MfdBSw) | 1:52 | 2025-06-30 |  |
 | [G63](https://open.spotify.com/track/0lqGKcPzUX4RO4PYysoLes) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:49 | 2023-11-17 | 2023-12-01 |
 | [GACHA](https://open.spotify.com/track/6epc4bpQjEwGPuV8zy2APf) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [GACHA](https://open.spotify.com/album/2EELavIJF247zj1n55sRA4) | 2:15 | 2024-11-14 | 2024-11-29 |
 | [Galassia](https://open.spotify.com/track/1rJ4uHHqZLFo7vrhcgnKkP) | [Mastafive](https://open.spotify.com/artist/5j8VwVgzqtJ8FG4KcLGvMb), [Sesto Carnera](https://open.spotify.com/artist/62Dvna5Mkmv2jftR22IWAu), [Blo/B](https://open.spotify.com/artist/4QYU4MQEacNhS9Oe8PQEBH), [De Angelo Parpaglione](https://open.spotify.com/artist/0Q60ViXHj1FcqhVskzLZq1) | [Galassia](https://open.spotify.com/album/1QQ1d5TeUqPbV4j8TUWyM4) | 4:30 | 2024-11-01 | 2024-11-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Franni Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,924 likes - 99 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,941 likes - 99 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 60 | [Great Is Thy Faithfulness](https://open.spotify.com/track/08aRx4p8fZGyNF7v3rzIvT) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3) | [Unto The Lord: Hymns I Love](https://open.spotify.com/album/1ROdE0hVGoQQlLpJUM4EVf) | 5:12 |
 | 61 | [You Came \(Lazarus\) \- Live](https://open.spotify.com/track/2yhTgPuKglbiDrAWZJj0mi) | [Damascus Worship](https://open.spotify.com/artist/1QHljL6ZVxIi5bylNmFkFI), [Olivia Parker](https://open.spotify.com/artist/1pz9COAroxf4sIonu7T1XV) | [You Came \(Lazarus\) \[Live\]](https://open.spotify.com/album/1RmXKqaj24Nznnu6IRhSdk) | 5:06 |
 | 62 | [You Can Have It All](https://open.spotify.com/track/0Ss1g7cnRHqd0fNlXbi2Hw) | [KingsPorch](https://open.spotify.com/artist/1YBs9eFwD54sWgek5EVYTF) | [You Can Have It All](https://open.spotify.com/album/6y9mJuTZxPynhvnYTOugbk) | 4:23 |
-| 63 | [Worship You Forever \- Live](https://open.spotify.com/track/73UurtEXXHMNMcmrFjy1QI) | [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Taku Mudere](https://open.spotify.com/artist/0vwGmATjvSL1WFEFBOxBxP), [Liv Glenny](https://open.spotify.com/artist/2SKJKPnvWGBcgvD36Dyp48) | [Worship You Forever](https://open.spotify.com/album/69kq9MBksNnBiXZjozRvbz) | 8:15 |
+| 63 | [Worship You Forever \- Live](https://open.spotify.com/track/73UurtEXXHMNMcmrFjy1QI) | [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Taku Mudere](https://open.spotify.com/artist/0vwGmATjvSL1WFEFBOxBxP), [Liv Glenny](https://open.spotify.com/artist/2SKJKPnvWGBcgvD36Dyp48) | [Worship You Forever \(Live\)](https://open.spotify.com/album/69kq9MBksNnBiXZjozRvbz) | 8:15 |
 | 64 | [My Grace](https://open.spotify.com/track/0GoBClc0WV5CgN1RZfDXDc) | [Fresh Start Worship](https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG) | [My Grace](https://open.spotify.com/album/0BQrC7HgSOKir18iLViWSo) | 4:14 |
 | 65 | [Loved By You](https://open.spotify.com/track/3iidTjrH0e5mjL1psUB5Z0) | [Living Room Music](https://open.spotify.com/artist/1TDqdNBjbB5PUcDijQwUrl), [May Angeles](https://open.spotify.com/artist/3QnnsnDjUGYX8cYQuub0eh), [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY) | [Asai](https://open.spotify.com/album/7eLQQ07ug4ar0WjJsZ2d01) | 3:46 |
 | 66 | [Breakthrough's Coming \(Live\)](https://open.spotify.com/track/5v72l8JTXfKDbJzjQ9FY0m) | [VIVE Worship](https://open.spotify.com/artist/6qKHvs6N15YORScDTh84vy) | [Holy Fire \(Live\)](https://open.spotify.com/album/5OUA12v5UPHqAHDJiONuT1) | 4:54 |

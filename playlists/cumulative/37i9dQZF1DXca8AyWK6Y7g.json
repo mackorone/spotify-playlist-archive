@@ -14575,6 +14575,24 @@
     },
     {
       "album": {
+        "name": "get a grip",
+        "url": "https://open.spotify.com/album/5H4nEGsugYbZwgYPlmkjg8"
+      },
+      "artists": [
+        {
+          "name": "ALINA",
+          "url": "https://open.spotify.com/artist/5dMqTi9pBymJAVzH9V7N86"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184025,
+      "name": "get a grip",
+      "url": "https://open.spotify.com/track/3u9l98xlkvhs00ywEFPunx"
+    },
+    {
+      "album": {
         "name": "Get Better",
         "url": "https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU"
       },
@@ -14778,7 +14796,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 197239,
       "name": "Gimmicks",
       "url": "https://open.spotify.com/track/4bjE1oWu9t5C2IbGXVxmnU"

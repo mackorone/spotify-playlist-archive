@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
-> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 김뮤즈 \(Kimmuse\)\) \(Celebrating 10 years of Fresh Finds! Meet the emerging talents of Korea!\)
+> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 김푸름 \(KIM PUREUM\)\) \(Celebrating 10 years of Fresh Finds! Meet the emerging talents of Korea!\)
 
-1,570 songs - 3 day 16 hr 15 min
+1,573 songs - 3 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,7 +357,7 @@
 | [Don′t Wanna Lose Myself \(Feat\. veanii\)](https://open.spotify.com/track/4rElh76q7QWQD7DUoLYISU) | [Eunwol](https://open.spotify.com/artist/7KhtkI63Z1EyjZTMVUAOs2), [veanii](https://open.spotify.com/artist/5ZdRpsx2LkNxgbbJIBVR21) | [Don′t Wanna Lose Myself](https://open.spotify.com/album/7cgDi9nODMY4ZMtSHDbOe7) | 3:03 | 2024-09-02 | 2025-02-04 |
 | [DOONGDOONG](https://open.spotify.com/track/1yZlciew2fF8UeKRTWnSyr) | [GAYUN](https://open.spotify.com/artist/6n7CIEww6DHvulPWWaY7lx) | [DOONGDOONG](https://open.spotify.com/album/42rPgb1YkbplNgH4pSm1Ya) | 2:18 | 2022-09-05 | 2022-11-08 |
 | [double tap](https://open.spotify.com/track/1ihLTwHjpxs2waSvf5yOrj) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [double tap](https://open.spotify.com/album/4fwBRNDbioQ2eO0DZxyzyK) | 2:37 | 2022-06-09 | 2022-07-05 |
-| [Double Trouble \(Remix\)](https://open.spotify.com/track/2TeevnrPlJfYfyJtSjK1mB) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Double Trouble \(Remix\)](https://open.spotify.com/album/3ylXCMrMzkXt5mVkZYw67P) | 3:12 | 2025-06-10 |  |
+| [Double Trouble \(Remix\)](https://open.spotify.com/track/2TeevnrPlJfYfyJtSjK1mB) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Double Trouble \(Remix\)](https://open.spotify.com/album/3ylXCMrMzkXt5mVkZYw67P) | 3:12 | 2025-06-10 | 2025-07-01 |
 | [drama](https://open.spotify.com/track/7qzKImwqCrSGssJaJexZNj) | [Noducksoon](https://open.spotify.com/artist/5edtUlKuXuqzKiwlzADBT8) | [drama](https://open.spotify.com/album/1tBA1lILC3UdSFwUYrueC5) | 2:00 | 2025-06-16 |  |
 | [DRAMA \(feat\. FR:EDEN\)](https://open.spotify.com/track/2vHRtmzDZPBPa40Sc5VvJZ) | [Komah Jay](https://open.spotify.com/artist/5CBVMQylJ4lBChrO4HgO1K), [FR:EDEN](https://open.spotify.com/artist/6psIuXSnGPGKY93Wcj1qeW) | [DRAMA](https://open.spotify.com/album/10GZ3uTbFaAFiXVLRVNrtU) | 3:12 | 2022-06-09 | 2022-06-19 |
 | [Dream](https://open.spotify.com/track/1xlFjLN4YvtwiFfsdsFJr1) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Dream](https://open.spotify.com/album/4KncPcPqHtRgmZjNtFB9Xy) | 6:14 | 2022-05-02 | 2022-06-10 |
@@ -450,6 +450,7 @@
 | [FIRST LOVE](https://open.spotify.com/track/3kXjd03dmE6r2s5MCmtTFx) | [HANEUM](https://open.spotify.com/artist/1Wr9Ekj4sSByeidL8C7pZ2) | [FIRST LOVE](https://open.spotify.com/album/6DlvSdPi0bD1xf5u0A5dB0) | 3:25 | 2023-05-01 | 2023-07-27 |
 | [First Sight](https://open.spotify.com/track/5hQRt83sxBT4nNHF8ux8iQ) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [First Sight](https://open.spotify.com/album/6zQpQHGZZA6OZcF1meqpUI) | 3:33 | 2025-06-26 |  |
 | [First step](https://open.spotify.com/track/666c6rbKhJ7fyzWj2IGUhj) | [Chosunblues](https://open.spotify.com/artist/6mKicVKyt6CPmrvbGkge4G) | [First step](https://open.spotify.com/album/0EABGUBK8xHyx3dY0nd66v) | 3:32 | 2023-03-31 | 2023-05-02 |
+| [First Step](https://open.spotify.com/track/2CwoQbjMZDOyzihiVEczrR) | [빅선](https://open.spotify.com/artist/6dHi2MD6sC6yfuuORMamMK) | [RISE ABOVE](https://open.spotify.com/album/4HEwRyWp6Boo6tFWgIRQg7) | 2:27 | 2025-06-30 |  |
 | [Fishbowl](https://open.spotify.com/track/3wri6jYhdXV5tvxnHgXrmd) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [Shape of heart](https://open.spotify.com/album/1aMU0re5xx4G0TKhAczqZo) | 4:16 | 2024-04-03 | 2024-08-02 |
 | [Fix Me](https://open.spotify.com/track/2TzQZ6iJyZqz0tjFkcFrPe) | [LOGI](https://open.spotify.com/artist/0ewSxMPycHkb7j1ciLzGUW) | [Fix Me](https://open.spotify.com/album/6RFbxZglh7xXZrkkxXWOGv) | 3:08 | 2022-06-09 | 2022-06-19 |
 | [Flame](https://open.spotify.com/track/67ThnuDIOw1rqXEAzT0jut) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [Sweet Violet Flame](https://open.spotify.com/album/2WQHK8zN9wCopxSGPKZFdG) | 3:59 | 2022-06-09 | 2022-06-19 |
@@ -552,6 +553,7 @@
 | [Hangman](https://open.spotify.com/track/4547YWizllfrQtsVPkqq8D) | [ChiVee](https://open.spotify.com/artist/3nR6kcQuqyXQAblPOAckih) | [Hangman](https://open.spotify.com/album/46WvBK1tP7Cjla2lgkBaC9) | 3:25 | 2024-05-02 | 2024-09-03 |
 | [Happy again](https://open.spotify.com/track/524UIZk5PQAMnJ44MvPE49) | [CITI](https://open.spotify.com/artist/18Ddi2iVxvOlH08AZrP0PE) | [Happy again](https://open.spotify.com/album/6ixXboNAVHNq7vty6cbeWK) | 3:07 | 2023-02-08 | 2023-05-02 |
 | [Happy birthday](https://open.spotify.com/track/0u5JXGiT6RnPig6MEbNIQc) | [DooBoo](https://open.spotify.com/artist/3A9n1umqOpwTvqyRMQ213a) | [Happy birthday](https://open.spotify.com/album/43GSyMnce8CwmDJ22qrQ0U) | 3:27 | 2022-01-24 | 2022-03-03 |
+| [Hard to Say](https://open.spotify.com/track/3d66TxP7B3pPzEC9vSWKuX) | [jaegyeong Lee](https://open.spotify.com/artist/2Ix3jdtgamaZbYPfk8A4e1) | [Hard to Say](https://open.spotify.com/album/6OaIRvMkFS4fJxmHEWVXn2) | 3:14 | 2025-06-30 |  |
 | [Hate you \(feat\. Ellui\)](https://open.spotify.com/track/2LWupq4pun26BKGg2S8wfb) | [Sumsher](https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm), [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7) | [Hate you \(feat\. Ellui\)](https://open.spotify.com/album/7BD9Jvp7TXN8RjYKhfA5XF) | 3:13 | 2023-07-27 | 2024-03-06 |
 | [Hatred](https://open.spotify.com/track/6wZAYtq58NtIuF2fhlsy8t) | [Nody Cika](https://open.spotify.com/artist/2pETIGvbFcdUF0CnODpycj) | [Hatred](https://open.spotify.com/album/0lQvanEeBBKXPsa4sw5tbb) | 3:04 | 2023-06-01 | 2023-09-21 |
 | [Head in the clouds](https://open.spotify.com/track/0lfVvUEjZgVS1HnlB2VGLv) | [Asahi](https://open.spotify.com/artist/05pDmDKsBRuMprwAqAgxXw) | [Head in the clouds](https://open.spotify.com/album/5caMoXULX2kC6tGAwWoQOc) | 3:34 | 2023-03-02 | 2023-05-02 |
@@ -812,9 +814,9 @@
 | [Loving You is Loving Me](https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd) | [Han Yeoyoo](https://open.spotify.com/artist/3PJavkoaMGLEC06SDMvBoP) | [Loving You is Loving Me](https://open.spotify.com/album/1siSojvN7zaZDxad6nqGFG) | 3:43 | 2023-01-30 | 2023-02-09 |
 | [Low Rider](https://open.spotify.com/track/174DO0DEy6WINISKiQFinj) | [Kihvn](https://open.spotify.com/artist/5GAMwRatZmkweX1EHzIPbP), [Bad Lo](https://open.spotify.com/artist/5ZK3RAMNZBHSScB6oFmGz0) | [7venue](https://open.spotify.com/album/7HziQ5TlkvMG0KDjTicvhH) | 2:18 | 2023-01-30 | 2023-02-09 |
 | [LUCID DREAM](https://open.spotify.com/track/4G7lfJ2BwHgwhPFuyF1Ix0) | [Jiyoung Kang](https://open.spotify.com/artist/7cEG2unrO9IXQZcVxK7WNV) | [LUCID DREAM](https://open.spotify.com/album/6IZWPcVfecATbfDL5g0P7Q) | 3:01 | 2022-07-14 | 2022-09-06 |
-| [Lucky=One](https://open.spotify.com/track/0KUXg1wu5jnK5YzvF6cryR) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [Lucky=One](https://open.spotify.com/album/1Evh1hzbbUwjBHFoaVQLBq) | 3:14 | 2025-04-18 |  |
+| [Lucky=One](https://open.spotify.com/track/0KUXg1wu5jnK5YzvF6cryR) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [Lucky=One](https://open.spotify.com/album/1Evh1hzbbUwjBHFoaVQLBq) | 3:14 | 2025-04-18 | 2025-07-01 |
 | [Lunatique](https://open.spotify.com/track/2oSjkFIEDyxrL7ugShGgWC) | [608](https://open.spotify.com/artist/6dYKsF5RpzOsA1W4KlHyjP), [SONG YERIN](https://open.spotify.com/artist/25aScl6kfWpLHcAwRKvwU3) | [Lunatique](https://open.spotify.com/album/6wcnRoWaHTJ7kvOpcF1hlQ) | 4:44 | 2022-01-10 | 2022-01-28 |
-| [M.D.M.A 2](https://open.spotify.com/track/0bbvz10ezhLNQmU6b6c9cA) | [Yung Blesh](https://open.spotify.com/artist/4brsMLGzcBIcMFiow8fRfZ), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [M.D.M.A 2](https://open.spotify.com/album/3TRMpsYlcd6v8QoBsnS0En) | 2:31 | 2025-04-18 |  |
+| [M.D.M.A 2](https://open.spotify.com/track/0bbvz10ezhLNQmU6b6c9cA) | [Yung Blesh](https://open.spotify.com/artist/4brsMLGzcBIcMFiow8fRfZ), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [M.D.M.A 2](https://open.spotify.com/album/3TRMpsYlcd6v8QoBsnS0En) | 2:31 | 2025-04-18 | 2025-07-01 |
 | [madly](https://open.spotify.com/track/7hGGNvE54y4PJ6rGRUdkQt) | [Ryo](https://open.spotify.com/artist/2fCHiUwNksuzS4y8TiFtN4) | [0.2 zip](https://open.spotify.com/album/4oewTVSbQVRniOGAn0BKNF) | 3:21 | 2023-05-01 | 2023-06-02 |
 | [Madly Into You](https://open.spotify.com/track/7C35xyvdgZHPU1vG1gubvH) | [prettylittleiris](https://open.spotify.com/artist/3dtUhljNkjH12eU3SQCh2o) | [Madly Into You](https://open.spotify.com/album/5IkH7rbYFiCAfdl8NbiUFg) | 3:25 | 2023-01-11 | 2023-02-09 |
 | [Magnolia](https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [Magnolia](https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7) | 2:51 | 2022-03-17 | 2022-04-21 |
@@ -1012,6 +1014,7 @@
 | [Perfect Timing](https://open.spotify.com/track/4ABUtfKjZa9L74DhyhRvkq) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Turbulence: A Guide to Balance](https://open.spotify.com/album/3GFsHfijih7udSL8yTu3HR) | 3:09 | 2024-11-11 | 2025-04-21 |
 | [Perfection](https://open.spotify.com/track/7gKaiNKGoAXQaKne3Feaeh) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Perfection](https://open.spotify.com/album/4pbZ6fucZKAHSzVNfhgvNG) | 2:32 | 2022-06-18 | 2022-07-05 |
 | [Perhaps I](https://open.spotify.com/track/7m85t0XsdAyVpM0FeJFzRd) | [blah](https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg) | [Perhaps I](https://open.spotify.com/album/6KZWrD60TjiXXIcyn7gfMq) | 4:25 | 2023-11-14 | 2024-05-03 |
+| [Petty Thief \(Remix\)](https://open.spotify.com/track/2VVadP8EuRhhKnBsXZZqMK) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Petty Thief \(Remix\)](https://open.spotify.com/album/6R2HO9qN2IVkYPBe24KKyR) | 2:41 | 2025-06-30 |  |
 | [Piano](https://open.spotify.com/track/07F31DtYZt6iTgQInCb1j7) | [ID:Earth](https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt) | [Piano 〈Sanullim's 50th anniversary collaboration album〉](https://open.spotify.com/album/7yTfZopRpEzqYqUeupHXFW) | 3:22 | 2024-08-02 | 2024-11-12 |
 | [Pick Up The Phone \(feat\. El Vato\)](https://open.spotify.com/track/09rKh1TMsxJpiyo77fOeIO) | [Kohway](https://open.spotify.com/artist/2v9PvAakxqkcjtXU7SzlQP), [El Vato](https://open.spotify.com/artist/07Ap3mYXAcYZ5LkJO93G82) | [Pick Up The Phone](https://open.spotify.com/album/26wc1gw3UnlK8iFKSmI8EC) | 2:37 | 2022-04-20 | 2022-06-10 |
 | [PILLOW](https://open.spotify.com/track/6t3yarLHxjGbBzwOq2izGv) | [Wynn](https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI) | [PILLOW](https://open.spotify.com/album/43jQ6ELFvwGQiOlOaVaLrr) | 3:17 | 2022-04-20 | 2022-06-10 |

@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:artist:3UlAQex8nw3vquHcmY8fpb\">Sinego's</a> favorite tracks. Updated regularly. Curated by Sinego. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.\n",
-  "num_followers": 32896,
+  "num_followers": 32898,
   "original_name": "Sinego's track IDs",
   "owner": {
     "name": "Spotify",
@@ -236,12 +236,12 @@
       },
       "artists": [
         {
-          "name": "Channo",
-          "url": "https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7"
-        },
-        {
           "name": "SOMMA",
           "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "Channo",
+          "url": "https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7"
         }
       ],
       "duration_ms": 344390,

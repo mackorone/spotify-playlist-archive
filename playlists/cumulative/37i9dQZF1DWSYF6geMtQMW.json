@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u05d4\u05e4\u05dc\u05d9\u05d9\u05dc\u05d9\u05e1\u05d8 \u05d4\u05db\u05d9 \u05d2\u05d3\u05d5\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc, \u05e2\u05dd \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05db\u05d9 \u05d7\u05de\u05d9\u05dd \u05e9\u05dc \u05d4\u05d9\u05d5\u05dd \u05d5\u05de\u05d7\u05e8. \u05e7\u05d0\u05d1\u05e8: \u05e0\u05d3\u05d1 \u05d7\u05e0\u05e6\u05d9\u05e1    ",
+  "description": "\u05d4\u05e4\u05dc\u05d9\u05d9\u05dc\u05d9\u05e1\u05d8 \u05d4\u05db\u05d9 \u05d2\u05d3\u05d5\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc, \u05e2\u05dd \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05db\u05d9 \u05d7\u05de\u05d9\u05dd \u05e9\u05dc \u05d4\u05d9\u05d5\u05dd \u05d5\u05de\u05d7\u05e8. \u05e7\u05d0\u05d1\u05e8: \u05e2\u05d5\u05de\u05e8 \u05d0\u05d3\u05dd    ",
   "name": "\u05d4\u05dc\u05d4\u05d9\u05d8\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "tracks": [
     {
@@ -104,7 +104,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -938,7 +938,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 190500,
       "name": "\u05d0\u05d4\u05d5\u05d1\u05ea\u05d9 \u05db\u05d1\u05e8 \u05dc\u05d0 \u05e8\u05d5\u05d0\u05d4 \u05d0\u05d5\u05ea\u05d9",
       "url": "https://open.spotify.com/track/2QkVXq7dLpefWAiETsvIOs"
@@ -1457,6 +1457,28 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05d9\u05d0 \u05d1\u05e8\u05d6\u05d9\u05dc\u05d0\u05d9\u05ea",
+        "url": "https://open.spotify.com/album/2NCVx1WUF1Ua7rpX9dHuO3"
+      },
+      "artists": [
+        {
+          "name": "\u05d0\u05d3\u05dd \u05d6\u05e8\u05d5",
+          "url": "https://open.spotify.com/artist/03px8W16Pep5DfqapWVVlq"
+        },
+        {
+          "name": "Yair Lugasy",
+          "url": "https://open.spotify.com/artist/4yK2zJLW5slLAL5oLSKzi5"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151950,
+      "name": "\u05d4\u05d9\u05d0 \u05d1\u05e8\u05d6\u05d9\u05dc\u05d0\u05d9\u05ea",
+      "url": "https://open.spotify.com/track/557CJdchRFIqWE0V5iUR8A"
+    },
+    {
+      "album": {
         "name": "\u05d4\u05d9\u05d5\u05dd \u05e7\u05de\u05ea\u05d9 \u05e9\u05de\u05d7",
         "url": "https://open.spotify.com/album/4wQGldP9I0DP3G93syKX8v"
       },
@@ -1490,6 +1512,24 @@
       "duration_ms": 218100,
       "name": "\u05d4\u05e9\u05d9\u05e8 \u05e9\u05d0\u05ea \u05d0\u05d4\u05d1\u05ea",
       "url": "https://open.spotify.com/track/5Sn3aXG5AWFmd1ij2PTisj"
+    },
+    {
+      "album": {
+        "name": "\u05e8\u05d5\u05d1\u05d9\u05dd \u05d5\u05ea\u05dc\u05ea\u05dc\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW"
+      },
+      "artists": [
+        {
+          "name": "Tuna",
+          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233232,
+      "name": "\u05d4\u05e9\u05dd \u05d9\u05e8\u05d7\u05dd",
+      "url": "https://open.spotify.com/track/3XSSUNQJHy7GTWtSHHITq5"
     },
     {
       "album": {

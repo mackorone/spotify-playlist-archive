@@ -724,7 +724,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-16",
+      "date_removed": null,
       "duration_ms": 102631,
       "name": "AGENT-PROVOCATEUR",
       "url": "https://open.spotify.com/track/7BgRKxGurY7Kds8X74mD88"
@@ -15196,7 +15196,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 118500,
       "name": "sadisfaction",
       "url": "https://open.spotify.com/track/56gZxUfJbUeKtr2qs3lOiL"
@@ -17142,7 +17142,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 287324,
       "name": "Surreal",
       "url": "https://open.spotify.com/track/4bzbaBvahwx1R0jyh5TO8U"
@@ -21014,7 +21014,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 99879,
       "name": "\u0411\u043b\u0435\u0441\u0441",
       "url": "https://open.spotify.com/track/59pNi3MZnUOyiErK5mpGoT"
@@ -22030,7 +22030,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 215680,
       "name": "\u0412\u043e\u043a\u0440\u0443\u0433 \u0428\u0443\u043c",
       "url": "https://open.spotify.com/track/5NqhAFTgPTsxhm7kDhfVCw"
@@ -22530,6 +22530,24 @@
       "duration_ms": 199066,
       "name": "\u0413\u043b\u044e\u043a\u2019oZa Nostra",
       "url": "https://open.spotify.com/track/4NG9UtpN0ssioSH6SQ7tjY"
+    },
+    {
+      "album": {
+        "name": "\u0433\u043d\u043e\u0439",
+        "url": "https://open.spotify.com/album/555zy9ZATgZnt9MPe546gN"
+      },
+      "artists": [
+        {
+          "name": "\u0442\u0451\u043c\u043d\u044b\u0439 \u043f\u0440\u0438\u043d\u0446",
+          "url": "https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88476,
+      "name": "\u0433\u043d\u043e\u0439",
+      "url": "https://open.spotify.com/track/133swGINGpGZ6fPe8RRQCd"
     },
     {
       "album": {
@@ -24006,7 +24024,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 149328,
       "name": "\u041a\u0430\u0431\u0430\u043d",
       "url": "https://open.spotify.com/track/1kZLJajBBu3JYsGZ4JcJO9"
@@ -30082,7 +30100,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 216487,
       "name": "\u0441\u043e\u043b\u0451\u043d\u043e\u0435 \u0441\u0447\u0430\u0441\u0442\u044c\u0435",
       "url": "https://open.spotify.com/track/3337b8Q7Q06iQNpkMLxJSx"

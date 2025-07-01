@@ -1,12 +1,12 @@
 {
   "description": "Recent hits and new songs from your fave artists. Cover: Maroon 5",
-  "num_followers": 941075,
+  "num_followers": 941088,
   "original_name": "Just Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF4XaQAAAAClLKMA/x1PIGy+Ekc4QiiG",
+  "snapshot_id": "aGICAgAAAABnphTtUzWrJsw/5etc+q06",
   "tracks": [
     {
       "added_at": "2025-06-27 04:00:41",
@@ -95,6 +95,22 @@
       "duration_ms": 175240,
       "name": "Hallelujah (I Don't Think About You)",
       "url": "https://open.spotify.com/track/0vM4LQCV9TsBH8hvTWsow9"
+    },
+    {
+      "added_at": "2025-06-30 03:18:26",
+      "album": {
+        "name": "I Just Don't Know You Yet",
+        "url": "https://open.spotify.com/album/0JSsfoRhjngp8I9rXJnpUK"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 201007,
+      "name": "I Just Don't Know You Yet",
+      "url": "https://open.spotify.com/track/7GU1xgUhSHMjc32d9zuWtF"
     },
     {
       "added_at": "2025-06-20 04:00:43",

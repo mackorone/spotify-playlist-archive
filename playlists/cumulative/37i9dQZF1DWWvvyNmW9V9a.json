@@ -12865,6 +12865,24 @@
     },
     {
       "album": {
+        "name": "get a grip",
+        "url": "https://open.spotify.com/album/5H4nEGsugYbZwgYPlmkjg8"
+      },
+      "artists": [
+        {
+          "name": "ALINA",
+          "url": "https://open.spotify.com/artist/5dMqTi9pBymJAVzH9V7N86"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184025,
+      "name": "get a grip",
+      "url": "https://open.spotify.com/track/3u9l98xlkvhs00ywEFPunx"
+    },
+    {
+      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
@@ -16898,7 +16916,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 202226,
       "name": "i know, i know, i know",
       "url": "https://open.spotify.com/track/3HXGdQXb9XTDD1IqFWkSNc"
@@ -24920,7 +24938,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 175846,
-      "name": "Nobody's Watching",
+      "name": "NOBODY'S WATCHING",
       "url": "https://open.spotify.com/track/0rU71wAEpJBqgAwS6nneqN"
     },
     {

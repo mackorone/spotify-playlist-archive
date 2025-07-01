@@ -1,12 +1,12 @@
 {
   "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 460521,
+  "num_followers": 460573,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF8wgAAAAACZV6iyB8WQx+TIDBaewllo",
+  "snapshot_id": "aGCCAAAAAAB5uzcnphrygtYa7s1EwLwx",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay [Feat. Patrick Wilson]",
-        "url": "https://open.spotify.com/album/0VwhjiLBA4WtDGIuAWaG5Z"
+        "name": "13 Commandments",
+        "url": "https://open.spotify.com/album/1jIpMY1agd8Uvd9cc9woTH"
       },
       "artists": [
         {
           "name": "Ghost",
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        },
-        {
-          "name": "Patrick Wilson",
-          "url": "https://open.spotify.com/artist/7JDIzsiYm1WS3zUpiTdW52"
         }
       ],
-      "duration_ms": 234220,
-      "name": "Stay [Feat. Patrick Wilson]",
-      "url": "https://open.spotify.com/track/5koxSCWVJInF4T6jj5SQ3H"
+      "duration_ms": 364533,
+      "name": "Zenith",
+      "url": "https://open.spotify.com/track/12OqhoWuHEzQ7AJMBS0WFJ"
     },
     {
       "added_at": null,
@@ -463,18 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "13 Commandments",
-        "url": "https://open.spotify.com/album/1jIpMY1agd8Uvd9cc9woTH"
+        "name": "Stay [Feat. Patrick Wilson]",
+        "url": "https://open.spotify.com/album/0VwhjiLBA4WtDGIuAWaG5Z"
       },
       "artists": [
         {
           "name": "Ghost",
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        },
+        {
+          "name": "Patrick Wilson",
+          "url": "https://open.spotify.com/artist/7JDIzsiYm1WS3zUpiTdW52"
         }
       ],
-      "duration_ms": 364533,
-      "name": "Zenith",
-      "url": "https://open.spotify.com/track/12OqhoWuHEzQ7AJMBS0WFJ"
+      "duration_ms": 234220,
+      "name": "Stay [Feat. Patrick Wilson]",
+      "url": "https://open.spotify.com/track/5koxSCWVJInF4T6jj5SQ3H"
     },
     {
       "added_at": null,

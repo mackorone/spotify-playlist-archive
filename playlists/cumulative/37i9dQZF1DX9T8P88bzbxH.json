@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Counting down to genKRU. Cover:KRU",
-  "name": "On Tour Singapore: KRU",
+  "description": "Singapore, are you ready to B(E): shook?!. Cover:BE:FIRST",
+  "name": "On Tour Singapore: BE:FIRST",
   "tracks": [
     {
       "album": {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 245493,
       "name": "'2'",
       "url": "https://open.spotify.com/track/5fRKjpwrYa1pvy3Y8CMHgC"
@@ -604,7 +604,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 256066,
       "name": "Apa Saja",
       "url": "https://open.spotify.com/track/7wRExqBgvdFguGNmyWo1sn"
@@ -730,7 +730,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 268106,
       "name": "Awas - From \"Awas Da'\" Soundtrack",
       "url": "https://open.spotify.com/track/708xFXhokGomRBPQD1qEh2"
@@ -778,7 +778,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 279626,
       "name": "Babe",
       "url": "https://open.spotify.com/track/5NT8p8pY7ue1V64mZMlcro"
@@ -904,7 +904,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 230266,
       "name": "Balada Hati",
       "url": "https://open.spotify.com/track/4hUrx6p5a18GrPvjkEEDHa"
@@ -980,6 +980,24 @@
       "duration_ms": 196493,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/5qrSlOut2rNAWv3ubArkNy"
+    },
+    {
+      "album": {
+        "name": "BE:1",
+        "url": "https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206195,
+      "name": "Be Free",
+      "url": "https://open.spotify.com/track/1gkMRPtiFmuEIZxJ1QVjhg"
     },
     {
       "album": {
@@ -1163,6 +1181,24 @@
     },
     {
       "album": {
+        "name": "BE:1",
+        "url": "https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119776,
+      "name": "BF is...",
+      "url": "https://open.spotify.com/track/3qBnGCOxeKwfHALoFqziRi"
+    },
+    {
+      "album": {
         "name": "1",
         "url": "https://open.spotify.com/album/1BkMZ9WN8wIFxQP2xxutfp"
       },
@@ -1174,7 +1210,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 244160,
       "name": "Bidadari",
       "url": "https://open.spotify.com/track/4TLgTlshUcNcn6ROGl9Bme"
@@ -1232,6 +1268,24 @@
       "duration_ms": 245155,
       "name": "blind",
       "url": "https://open.spotify.com/track/7jcuULQWzMwrNeYaVy0dyc"
+    },
+    {
+      "album": {
+        "name": "Blissful",
+        "url": "https://open.spotify.com/album/3I9GqQlys7OiNis3Z0fduA"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210281,
+      "name": "Blissful",
+      "url": "https://open.spotify.com/track/2H1rVi4N3UPddfw5JSXETf"
     },
     {
       "album": {
@@ -1361,6 +1415,24 @@
     },
     {
       "album": {
+        "name": "Boom Boom Back",
+        "url": "https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "Boom Boom Back",
+      "url": "https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB"
+    },
+    {
+      "album": {
         "name": "RIIZING - The 1st Mini Album",
         "url": "https://open.spotify.com/album/52DnBWGBeFmhQP5fkpVPoO"
       },
@@ -1430,6 +1502,24 @@
       "duration_ms": 160397,
       "name": "BOYSHIT",
       "url": "https://open.spotify.com/track/3YmgsYX80v0EtBZekgcB6w"
+    },
+    {
+      "album": {
+        "name": "Brave Generation",
+        "url": "https://open.spotify.com/album/4A4lrueCMNi1OqfcpUwjjA"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165426,
+      "name": "Brave Generation",
+      "url": "https://open.spotify.com/track/319hYPTY4Gaa38ZP7Vp0J3"
     },
     {
       "album": {
@@ -1523,6 +1613,24 @@
     },
     {
       "album": {
+        "name": "2:BE",
+        "url": "https://open.spotify.com/album/74A3CHRxkm987Bu4P1iBmA"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168305,
+      "name": "Bump Around",
+      "url": "https://open.spotify.com/track/2E9XFJkz6g0rdJzECr4fXH"
+    },
+    {
+      "album": {
         "name": "Burning",
         "url": "https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc"
       },
@@ -1592,6 +1700,24 @@
       "duration_ms": 175693,
       "name": "Buzz",
       "url": "https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf"
+    },
+    {
+      "album": {
+        "name": "Bye-Good-Bye - From THE FIRST TAKE",
+        "url": "https://open.spotify.com/album/5CVMu4FEXVopp81yjJpMDC"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179893,
+      "name": "Bye-Good-Bye - From THE FIRST TAKE",
+      "url": "https://open.spotify.com/track/6mcBjdVT0Ruf1sp2pwmQ0P"
     },
     {
       "album": {
@@ -2448,7 +2574,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 225666,
       "name": "Dekat Padamu",
       "url": "https://open.spotify.com/track/7pgSyHqsaLLpSbwJviiaUc"
@@ -2484,7 +2610,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 261773,
       "name": "Di Dalam Dilema",
       "url": "https://open.spotify.com/track/2cRdlF0vzN7pLmKOgcEIpU"
@@ -2506,7 +2632,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 249182,
       "name": "Di Pintu Syurga (feat. KRU)",
       "url": "https://open.spotify.com/track/5g4NdrlKNjS37D4L7DbREN"
@@ -2730,6 +2856,28 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Wake Me Up",
+        "url": "https://open.spotify.com/album/4jtphbkIygNlWbAvstfIIv"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188894,
+      "name": "Don\u2019t Wake Me Up",
+      "url": "https://open.spotify.com/track/75kDBnxxZLRLJoP7qyVuTX"
     },
     {
       "album": {
@@ -3214,7 +3362,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 234160,
       "name": "Fanatik",
       "url": "https://open.spotify.com/track/2pbvzcBKRhrJ7hsdQGBLMj"
@@ -3737,6 +3885,24 @@
     },
     {
       "album": {
+        "name": "2:BE",
+        "url": "https://open.spotify.com/album/74A3CHRxkm987Bu4P1iBmA"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/7bzePvFROyGUqzUUoLsynj"
+    },
+    {
+      "album": {
         "name": "Get A Guitar",
         "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
       },
@@ -3842,6 +4008,24 @@
       "duration_ms": 192557,
       "name": "Girl In The Orchestra",
       "url": "https://open.spotify.com/track/04dfA5JLZ5CRciEPVjMwtl"
+    },
+    {
+      "album": {
+        "name": "Glorious",
+        "url": "https://open.spotify.com/album/06IMFQkTogfHf8PUl9UPZa"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281426,
+      "name": "Glorious",
+      "url": "https://open.spotify.com/track/2P7T4KMNrQ7mLXERZHhWYE"
     },
     {
       "album": {
@@ -4061,6 +4245,24 @@
     },
     {
       "album": {
+        "name": "Smile Again",
+        "url": "https://open.spotify.com/album/7aIMR4kB87X92XrEzK6L6M"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257665,
+      "name": "Great Mistakes",
+      "url": "https://open.spotify.com/track/1XOFm0r3HBeVKfCL0cCKBv"
+    },
+    {
+      "album": {
         "name": "THINK LATER",
         "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
       },
@@ -4097,6 +4299,24 @@
     },
     {
       "album": {
+        "name": "Mainstream",
+        "url": "https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196160,
+      "name": "Grow Up",
+      "url": "https://open.spotify.com/track/6zDdJuNxffMhQWr8IE4S7k"
+    },
+    {
+      "album": {
         "name": "The Name Chapter: FREEFALL",
         "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
       },
@@ -4112,6 +4332,24 @@
       "duration_ms": 200543,
       "name": "Growing Pain",
       "url": "https://open.spotify.com/track/7r8aFgJzUbqpApUNmzV5yY"
+    },
+    {
+      "album": {
+        "name": "2:BE",
+        "url": "https://open.spotify.com/album/74A3CHRxkm987Bu4P1iBmA"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156638,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/4ryQnm1aEIEVbNlaHRmvI2"
     },
     {
       "album": {
@@ -4490,7 +4728,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 242126,
       "name": "Hingga Ke Jannah",
       "url": "https://open.spotify.com/track/05X28mQCKUZC4L6CQM5X1R"
@@ -5330,7 +5568,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 291573,
       "name": "Jangan Lafazkan",
       "url": "https://open.spotify.com/track/5BLrI963t8pf71B7Btft7w"
@@ -5366,7 +5604,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 329600,
       "name": "Janji Tinggal Janji",
       "url": "https://open.spotify.com/track/2jUiqwQqk0i8w1lpVQjPbv"
@@ -6479,6 +6717,24 @@
     },
     {
       "album": {
+        "name": "Mainstream",
+        "url": "https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207053,
+      "name": "Mainstream",
+      "url": "https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA"
+    },
+    {
+      "album": {
         "name": "Make You Mine",
         "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
       },
@@ -6526,7 +6782,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 224173,
       "name": "Malam Kita - From \"Awas Da'\" Soundtrack",
       "url": "https://open.spotify.com/track/2OaMDMduCcT5bEe4O7hUWc"
@@ -6562,7 +6818,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 245000,
       "name": "Maniamedley : Hanya Kau/Inikah Ertinya Cinta/Katanya",
       "url": "https://open.spotify.com/track/7FvXnRn04dzBDMnQcjIpqV"
@@ -6627,6 +6883,24 @@
     },
     {
       "album": {
+        "name": "Masterplan",
+        "url": "https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212491,
+      "name": "Masterplan",
+      "url": "https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc"
+    },
+    {
+      "album": {
         "name": "LOVE ALL SERVE ALL",
         "url": "https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD"
       },
@@ -6674,7 +6948,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 313293,
       "name": "Mengerti",
       "url": "https://open.spotify.com/track/1cTgRiNPoY83RW7avBcVkq"
@@ -6736,6 +7010,24 @@
       "duration_ms": 237191,
       "name": "messier",
       "url": "https://open.spotify.com/track/53H3ajzHjI5M9ZeewvRO3h"
+    },
+    {
+      "album": {
+        "name": "2:BE",
+        "url": "https://open.spotify.com/album/74A3CHRxkm987Bu4P1iBmA"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246386,
+      "name": "Metamorphose",
+      "url": "https://open.spotify.com/track/0aTAZtzSPuPHQeSlHOsJjq"
     },
     {
       "album": {
@@ -6808,6 +7100,24 @@
       "duration_ms": 182626,
       "name": "Milkshake",
       "url": "https://open.spotify.com/track/26wpcLqBHEfOL00i1rdbun"
+    },
+    {
+      "album": {
+        "name": "BE:1",
+        "url": "https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190563,
+      "name": "Milli-Billi",
+      "url": "https://open.spotify.com/track/0WskyMK2ZJ5dI16yPxXZH5"
     },
     {
       "album": {
@@ -6941,6 +7251,24 @@
     },
     {
       "album": {
+        "name": "BE:1",
+        "url": "https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224937,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/4RdQhcEkhnPY17VCWfCdxq"
+    },
+    {
+      "album": {
         "name": "more than words",
         "url": "https://open.spotify.com/album/6CyqHDq6plMi1YlRJWZvHU"
       },
@@ -7060,7 +7388,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 234373,
       "name": "Negatif",
       "url": "https://open.spotify.com/track/4PIV2ks2I6smYOKIhSV1Hl"
@@ -7496,7 +7824,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 205026,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/0VNsUOX6Obyr7HnEGyqNCR"
@@ -7532,7 +7860,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 211906,
       "name": "Ooh ! La ! La !",
       "url": "https://open.spotify.com/track/0U8QhvzNOarrTpvc9E26of"
@@ -7712,7 +8040,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 281866,
       "name": "Penjunjung Namaku",
       "url": "https://open.spotify.com/track/6tiwkcx3mZcxVXnl9rfQln"
@@ -7788,7 +8116,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 228026,
       "name": "Perpisahan Terasing",
       "url": "https://open.spotify.com/track/4GveWPWH20C57VJJuTN9C3"
@@ -8339,6 +8667,42 @@
     },
     {
       "album": {
+        "name": "Sailing",
+        "url": "https://open.spotify.com/album/6EFHqgUZQ2vAgXwcXJqHsh"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186586,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/3Bfv3Wg4HAhNFdVgWSfT0z"
+    },
+    {
+      "album": {
+        "name": "2:BE",
+        "url": "https://open.spotify.com/album/74A3CHRxkm987Bu4P1iBmA"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199308,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/0Skp8iI6f3NqOLrey6h4IS"
+    },
+    {
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda"
       },
@@ -8465,6 +8829,24 @@
     },
     {
       "album": {
+        "name": "BE:1",
+        "url": "https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200966,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/2jUMhjwi5VZ6GqKGZlVg6F"
+    },
+    {
+      "album": {
         "name": "Bewitched",
         "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },
@@ -8501,6 +8883,24 @@
     },
     {
       "album": {
+        "name": "2:BE",
+        "url": "https://open.spotify.com/album/74A3CHRxkm987Bu4P1iBmA"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147372,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/7sPovaWj1hDSk6BhukqH2p"
+    },
+    {
+      "album": {
         "name": "Selfish",
         "url": "https://open.spotify.com/album/5oGJKFb3M2At4rwLBDFlTP"
       },
@@ -8530,7 +8930,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 285560,
       "name": "Semuanya Ok",
       "url": "https://open.spotify.com/track/3ipddyjTmrzKFuNTxLuLft"
@@ -8552,6 +8952,24 @@
       "duration_ms": 183560,
       "name": "Serenade",
       "url": "https://open.spotify.com/track/0mJohf6KCgFeCWbMBAS8RL"
+    },
+    {
+      "album": {
+        "name": "Set Sail",
+        "url": "https://open.spotify.com/album/47O8KlrVbHaKT72WDG2Vm4"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193120,
+      "name": "Set Sail",
+      "url": "https://open.spotify.com/track/3r4kSAvYtaJVwOMZlRbz9r"
     },
     {
       "album": {
@@ -8739,6 +9157,24 @@
     },
     {
       "album": {
+        "name": "BE:1",
+        "url": "https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243272,
+      "name": "Shining One - Re-recorded",
+      "url": "https://open.spotify.com/track/4ZCKplVZiAfTLeySjuPoVG"
+    },
+    {
+      "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31"
       },
@@ -8862,6 +9298,42 @@
       "duration_ms": 163533,
       "name": "Slidin'",
       "url": "https://open.spotify.com/track/1kDHz6nhxNtdvh209RvyU6"
+    },
+    {
+      "album": {
+        "name": "2:BE",
+        "url": "https://open.spotify.com/album/74A3CHRxkm987Bu4P1iBmA"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242802,
+      "name": "Slogan",
+      "url": "https://open.spotify.com/track/1xEm0K1U5Md7Zkne7gcy1z"
+    },
+    {
+      "album": {
+        "name": "Smile Again - From THE FIRST TAKE",
+        "url": "https://open.spotify.com/album/2lusl5qW5w8FTgsT1Skvwo"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230120,
+      "name": "Smile Again - From THE FIRST TAKE",
+      "url": "https://open.spotify.com/track/6sbDxX1lFOGdOzTP7OYzPa"
     },
     {
       "album": {
@@ -9014,6 +9486,42 @@
       "duration_ms": 193933,
       "name": "Sort Yourself Out",
       "url": "https://open.spotify.com/track/60wZ1Xej8lpqK5t9LEH9Qp"
+    },
+    {
+      "album": {
+        "name": "Mainstream",
+        "url": "https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176120,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/3gahDIUGQT0Hlmf5zNN4ta"
+    },
+    {
+      "album": {
+        "name": "Spacecraft / Sailing",
+        "url": "https://open.spotify.com/album/7t2KBW7fFGH4OzsmGBosKY"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193533,
+      "name": "Spacecraft",
+      "url": "https://open.spotify.com/track/5pg2M78HkonLV5EMddMEYy"
     },
     {
       "album": {
@@ -9482,7 +9990,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 238786,
       "name": "Terhangat Di Pasaran",
       "url": "https://open.spotify.com/track/2iig41qdMzrDQY7kGP9R7j"
@@ -9824,7 +10332,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 238026,
       "name": "The Way We Jam",
       "url": "https://open.spotify.com/track/7kuFgquHQ5dgdt5wnjB1lD"
@@ -10260,7 +10768,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 222160,
       "name": "Untukmu",
       "url": "https://open.spotify.com/track/3m41NIcEUPGoQ8GkgN505F"
@@ -10444,7 +10952,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 191077,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/4JdRfb2Om3i2GEeniJTw31"
@@ -10538,7 +11046,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 250000,
       "name": "Wanita",
       "url": "https://open.spotify.com/track/3Xl0lyJPBtmgHM2BWSLh6d"
@@ -11120,6 +11628,24 @@
       "duration_ms": 256133,
       "name": "\u7802\u6f20\u306e\u304d\u307f\u3078",
       "url": "https://open.spotify.com/track/0lvqVwCztcbfzVEe0HJy0j"
+    },
+    {
+      "album": {
+        "name": "Spacecraft / Sailing",
+        "url": "https://open.spotify.com/album/7t2KBW7fFGH4OzsmGBosKY"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299213,
+      "name": "\u8ab0\u3088\u308a\u3082",
+      "url": "https://open.spotify.com/track/0Jor9YHb8VKmMpboe7ZdUF"
     },
     {
       "album": {

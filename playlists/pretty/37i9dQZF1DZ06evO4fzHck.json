@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 575248,
+  "num_followers": 575431,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF8wgAAAAAB9LUVSTkOK0CEVOF33/8z4",
+  "snapshot_id": "aGCCAAAAAAA4KxOMdYdmluhQJXHjKrIJ",
   "tracks": [
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0BGTV9xi9NFdUjA3erGs1T"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo"
       },
       "artists": [
         {
@@ -520,9 +520,41 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 253333,
-      "name": "Charlotte Sometimes - Single Version",
-      "url": "https://open.spotify.com/track/1rs7lqaXBlcw1N9wuHiQyJ"
+      "duration_ms": 219533,
+      "name": "Primary",
+      "url": "https://open.spotify.com/track/4fnx6Wman02ryvAOqKm6iI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seventeen Seconds",
+        "url": "https://open.spotify.com/album/6DCJNDiXeT5C8uSFNM8k56"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 183426,
+      "name": "M",
+      "url": "https://open.spotify.com/track/2iyEvZdipDeCmSW8v8PA32"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three Imaginary Boys",
+        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "Jumping Someone Else's Train",
+      "url": "https://open.spotify.com/track/76XCLlTwCYYaqQ9aru4yLB"
     },
     {
       "added_at": null,
@@ -551,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Imaginary Boys",
-        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
+        "name": "Faith (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0BGTV9xi9NFdUjA3erGs1T"
       },
       "artists": [
         {
@@ -560,41 +592,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 177733,
-      "name": "Jumping Someone Else's Train",
-      "url": "https://open.spotify.com/track/76XCLlTwCYYaqQ9aru4yLB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seventeen Seconds",
-        "url": "https://open.spotify.com/album/6DCJNDiXeT5C8uSFNM8k56"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 183426,
-      "name": "M",
-      "url": "https://open.spotify.com/track/2iyEvZdipDeCmSW8v8PA32"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Primary",
-      "url": "https://open.spotify.com/track/4fnx6Wman02ryvAOqKm6iI"
+      "duration_ms": 253333,
+      "name": "Charlotte Sometimes - Single Version",
+      "url": "https://open.spotify.com/track/1rs7lqaXBlcw1N9wuHiQyJ"
     },
     {
       "added_at": null,

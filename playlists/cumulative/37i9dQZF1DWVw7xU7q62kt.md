@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-562 songs - 1 day 1 hr 26 min
+563 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Carefree](https://open.spotify.com/track/2ryBcbgn5GnAUXvnp5qEHE) | [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf), [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv) | [Carefree](https://open.spotify.com/album/4PbGs6f2SjRCGe7GO6W2yL) | 2:04 | 2025-03-03 | 2025-04-30 |
 | [Caresse](https://open.spotify.com/track/5vdXZnMr6JmyOhnEAdQGc9) | [Unwind Project](https://open.spotify.com/artist/1pKbeFgKBZ7fk5UVIxo6mf), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Caresse](https://open.spotify.com/album/03ci1mkaZ2iqhV4hdZP6XK) | 2:26 | 2024-10-25 |  |
 | [Caterpillar](https://open.spotify.com/track/4jdQy8mSJyVY3KaoTKSS2Y) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Caterpillar](https://open.spotify.com/album/32rGvU3BrFUlryfw3yA5EU) | 3:06 | 2023-11-10 | 2025-02-23 |
+| [Celestial Blues](https://open.spotify.com/track/7pi0BqWnwFm6gP0YJMLmav) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Celestial Blues](https://open.spotify.com/album/45AzoseW2cZjCcbwBQlUDY) | 1:59 | 2025-06-27 |  |
 | [Chance of a Day, Pt\. 3](https://open.spotify.com/track/0s9VfOoqJPquZo84u9B6oS) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg) | [Chance of a Day, Pt\. 3](https://open.spotify.com/album/1DDUzSGu06cmlKlTuctpO5) | 6:27 | 2023-08-22 | 2025-01-19 |
 | [Chiang Mai](https://open.spotify.com/track/3H5YOvm8wjCHLwcusAgGxo) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Voyagers](https://open.spotify.com/album/5z1HWgNfc2nMbSt1S0aKKS) | 2:55 | 2025-02-21 |  |
 | [Chime](https://open.spotify.com/track/5V3TlTt1Jwg53UaUcF8MgS) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Chime](https://open.spotify.com/album/7M0vcSJJuFrevzgrwjJ2EW) | 1:49 | 2023-08-22 | 2025-04-12 |
@@ -359,7 +360,7 @@
 | [Out of Reach](https://open.spotify.com/track/1fWjm9Q9ybcmfY85u4xJM6) | [ARISU](https://open.spotify.com/artist/2jqODWgHJI8JDjZOyf7Xy4), [Hicks](https://open.spotify.com/artist/7o25rnG6F8ccCGxmyGY5mV), [moonboy](https://open.spotify.com/artist/4UkR948lZ7yLKOpfBClKUS) | [Out of Reach](https://open.spotify.com/album/1A5GRMdAuTwvxqos2Ppuuv) | 2:36 | 2025-06-13 |  |
 | [Out of the Shadows](https://open.spotify.com/track/44nl2WJglJunlzTzO1qDsY) | [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Porcel](https://open.spotify.com/artist/5Hk0Mny2WBqXDCWicNmD2G) | [Out of the Shadows](https://open.spotify.com/album/3Lu9GtQEoUyHnoMFWbtKw1) | 2:03 | 2025-04-18 |  |
 | [Outta Here](https://open.spotify.com/track/2mcnza8Cwx05ZBnkT39QDQ) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Outta Here](https://open.spotify.com/album/7EFEOFpZfcvkHODOCCSUF3) | 2:35 | 2024-08-30 | 2025-04-19 |
-| [Oxygen](https://open.spotify.com/track/5qcDfHSushPMsjE34DCnp1) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Oxygen](https://open.spotify.com/album/7pbdEPDDrqlFPxCMydb51z) | 2:19 | 2024-11-22 |  |
+| [Oxygen](https://open.spotify.com/track/5qcDfHSushPMsjE34DCnp1) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Oxygen](https://open.spotify.com/album/7pbdEPDDrqlFPxCMydb51z) | 2:19 | 2024-11-22 | 2025-07-01 |
 | [Oyster Jam](https://open.spotify.com/track/1uUig8GbfDdTSkyKzUnGre) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Levi Hayes](https://open.spotify.com/artist/1W84rz8zMui22NIJufLweu) | [Oyster Jam](https://open.spotify.com/album/33ck38114QxEyYRCdZuS1b) | 2:37 | 2024-02-23 | 2025-04-26 |
 | [P\_Optimist](https://open.spotify.com/track/02MFno0s2lpD3rycI7cllL) | [Butterscotch](https://open.spotify.com/artist/3wERNpNVW3TOG6pwSf5RTD) | [P\_Optimist](https://open.spotify.com/album/03OFznjG6SjQ7WMViYD6xK) | 1:43 | 2024-03-01 | 2025-05-17 |
 | [Palm Springs](https://open.spotify.com/track/47dEiRz8rdsmj2U2xz7Uhk) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Palm Springs](https://open.spotify.com/album/6gcC7HoskODlDAgEXfv2lw) | 2:40 | 2025-02-07 | 2025-02-25 |

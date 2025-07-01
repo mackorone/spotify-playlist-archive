@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 580359,
+  "num_followers": 580360,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-04-30 09:18:31",
       "album": {
+        "name": "TORPE",
+        "url": "https://open.spotify.com/album/5OPsL7uBEZtbHg0ZV2eUti"
+      },
+      "artists": [
+        {
+          "name": "JAO",
+          "url": "https://open.spotify.com/artist/6Bc3V3kVnWpY5kqQN6nio5"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "TORPE",
+      "url": "https://open.spotify.com/track/2nlD5OnCCotJVhOY2gGkEw"
+    },
+    {
+      "added_at": "2025-04-30 09:18:31",
+      "album": {
         "name": "The Platinum Collection",
         "url": "https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 273493,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/64juMW0Kj0MLIn5pbuNvKD"
-    },
-    {
-      "added_at": "2025-04-30 09:18:31",
-      "album": {
-        "name": "TORPE",
-        "url": "https://open.spotify.com/album/5OPsL7uBEZtbHg0ZV2eUti"
-      },
-      "artists": [
-        {
-          "name": "JAO",
-          "url": "https://open.spotify.com/artist/6Bc3V3kVnWpY5kqQN6nio5"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "TORPE",
-      "url": "https://open.spotify.com/track/2nlD5OnCCotJVhOY2gGkEw"
     },
     {
       "added_at": "2025-04-30 09:18:31",

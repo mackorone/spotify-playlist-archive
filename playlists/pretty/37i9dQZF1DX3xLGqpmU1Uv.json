@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico! Alberto V\u00e1zquez en portada.",
-  "num_followers": 171547,
+  "num_followers": 171604,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Rock - Lo Mejor De Los Locos Del Ritmo - Pioneros Del Rock En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK"
-      },
-      "artists": [
-        {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
-        }
-      ],
-      "duration_ms": 205546,
-      "name": "Tus Ojos",
-      "url": "https://open.spotify.com/track/2ikdhRtBUIS1sBpN0j0ozp"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Los Grandes \u00c9xitos Del Rock & Roll (En Espa\u00f1ol) Vol. 2",
         "url": "https://open.spotify.com/album/0tM7TEe6JjVrrbEOLYXh7j"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 127525,
       "name": "Chica Alborotada",
       "url": "https://open.spotify.com/track/3b9ICYLGk3brPCarHbih8a"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Rock - Lo Mejor De Los Locos Del Ritmo - Pioneros Del Rock En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "duration_ms": 205546,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/2ikdhRtBUIS1sBpN0j0ozp"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/5UNHoCA1Dq0M8cMAd5k3Bx"
     },
     {
-      "added_at": "2022-05-04 17:04:54",
-      "album": {
-        "name": "Hermanos Carrion 50 A\u00f1os, Vol. 1",
-        "url": "https://open.spotify.com/album/1gT2Z4hNEKewsnyZmY4eCH"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Carrion",
-          "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
-        }
-      ],
-      "duration_ms": 162847,
-      "name": "Se Fue",
-      "url": "https://open.spotify.com/track/3LxPolifAA2lfU0cvmOhVQ"
-    },
-    {
       "added_at": "2020-03-18 04:18:26",
       "album": {
         "name": "Los Originales",
@@ -615,6 +599,22 @@
       "duration_ms": 137793,
       "name": "Twist para Mr. Antony",
       "url": "https://open.spotify.com/track/4h7EghGuBHrnhWyzIFBnZj"
+    },
+    {
+      "added_at": "2022-05-04 17:04:54",
+      "album": {
+        "name": "Hermanos Carrion 50 A\u00f1os, Vol. 1",
+        "url": "https://open.spotify.com/album/1gT2Z4hNEKewsnyZmY4eCH"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Carrion",
+          "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
+        }
+      ],
+      "duration_ms": 162847,
+      "name": "Se Fue",
+      "url": "https://open.spotify.com/track/3LxPolifAA2lfU0cvmOhVQ"
     },
     {
       "added_at": "2024-07-12 13:46:41",

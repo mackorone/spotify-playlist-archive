@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,927 songs - 4 day 3 hr 54 min
+1,928 songs - 4 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,10 +355,11 @@
 | [Dimman](https://open.spotify.com/track/6c14bUlL2R9l4UKPWrxMUY) | [Deso](https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ) | [Dimman](https://open.spotify.com/album/0QBceTky96ytILAsRJBDFU) | 2:15 | 2024-05-09 | 2024-06-07 |
 | [Dimman \(feat\. Lokal\)](https://open.spotify.com/track/2MYj0zSua8Oz430UyXZc0K) | [Oscar Ahlgren](https://open.spotify.com/artist/6oLsu8ooAijUGwF0Ed4fob), [Lokal](https://open.spotify.com/artist/1Gtx7uxcwFWqBHt9OeESgj) | [Dimman \(feat\. Lokal\)](https://open.spotify.com/album/22vTRvUZdtlE61AqsvkOkZ) | 3:22 | 2022-01-27 | 2022-02-06 |
 | [Din blomstertid nu kommer](https://open.spotify.com/track/7kFd9RMRnobIXL3CNtS968) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Din blomstertid nu kommer](https://open.spotify.com/album/6kxkTvgmJu4phBuW10rdUZ) | 3:15 | 2022-09-15 | 2022-09-30 |
-| [Din egen sol](https://open.spotify.com/track/0xlJhFNQkS15bFqiuzlcAH) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Din egen sol](https://open.spotify.com/album/3Sai4ZZurorGQHEZQAUL7W) | 3:51 | 2025-04-24 |  |
+| [Din egen sol](https://open.spotify.com/track/0xlJhFNQkS15bFqiuzlcAH) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Din egen sol](https://open.spotify.com/album/3Sai4ZZurorGQHEZQAUL7W) | 3:51 | 2025-04-24 | 2025-07-01 |
 | [Din låt](https://open.spotify.com/track/3xPsqMJQNM14OrawTBiK4G) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Din låt](https://open.spotify.com/album/02kiu1rc2gbB4gAEtPWqi7) | 2:45 | 2022-07-21 | 2023-10-06 |
 | [Din Sång](https://open.spotify.com/track/07V09KDvkEzG77VHbfaCNg) | [Kevin Jansson](https://open.spotify.com/artist/2MMvUIvS0qebMm75cT8I4y) | [Din Sång](https://open.spotify.com/album/0HStWEVo5p03Jc5MeXMNDF) | 2:41 | 2024-04-25 | 2024-05-24 |
 | [dina armar](https://open.spotify.com/track/3tfqBXCA2HlQ5GldoqrWUc) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [dina armar](https://open.spotify.com/album/6ICpgNNwn9bPnZQYwzIUaV) | 3:16 | 2024-05-23 | 2024-06-21 |
+| [Dina fula skor](https://open.spotify.com/track/3A5ECccn0LQaSPG29KC9Gw) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Dina fula skor](https://open.spotify.com/album/32avdeLOrRCjugz8bB3fIX) | 2:18 | 2025-06-26 |  |
 | [Dirt](https://open.spotify.com/track/2xGG2OZyI8Z5jlWRBAdfFa) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Dirt](https://open.spotify.com/album/193Hqvyp5LbPRv9jBd03uB) | 3:38 | 2023-11-09 | 2024-02-09 |
 | [Dirty Words](https://open.spotify.com/track/3EPkZ3xV2ZmqkZ04m7GVp2) | [Linn Koch\-Emmery](https://open.spotify.com/artist/1VXNcQgSnqCXw4kWGeKNFu) | [Being the girl](https://open.spotify.com/album/5pe9tPuqHpPnThwNfVCPpf) | 3:13 | 2021-12-16 | 2022-03-11 |
 | [Ditt safeword ikväll?](https://open.spotify.com/track/6dFy8FGkz2B5YLOfxwecNB) | [ANJI](https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25) | [Ditt safeword ikväll?](https://open.spotify.com/album/0PgHmaUNcwxX4Mhxxoobjg) | 2:12 | 2024-10-10 | 2024-11-16 |

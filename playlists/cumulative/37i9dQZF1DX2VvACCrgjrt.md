@@ -4,7 +4,7 @@
 
 > Real nasty house 🔥🔥 with SIDEPIECE + Bobby Shmurda
 
-1,088 songs - 2 day 7 hr 28 min
+1,089 songs - 2 day 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,6 +418,7 @@
 | [Giving Up On Love](https://open.spotify.com/track/3WhW8hmR8tFQjpZBIFNLw6) | [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab), [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X), [Michael Malcolm](https://open.spotify.com/artist/2YHDC8kXCYzRA7DSJjNH8U), [401 WST](https://open.spotify.com/artist/5wuaDFXpmEuasEnBVSDLqQ) | [Giving Up On Love](https://open.spotify.com/album/0ZVqV79CTkqSGhGBXdUbO5) | 3:00 | 2022-06-24 | 2023-05-07 |
 | [Glimpse](https://open.spotify.com/track/5AbJc4S4TOtSKQL6NLzBIm) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Glimpse](https://open.spotify.com/album/07dEI97wIBVVH9KGpacP0m) | 2:49 | 2023-02-17 | 2023-08-20 |
 | [Go Back](https://open.spotify.com/track/7qM19bCRQhMgoLgy6PCMmS) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Go Back](https://open.spotify.com/album/2UgSM0r0Af6WpVhSlhLAnf) | 2:26 | 2023-06-02 | 2023-12-14 |
+| [Go Mode](https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ), [Blookah](https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Go Mode](https://open.spotify.com/album/1gYtMfHRgHAUICRGG2FIZG) | 3:52 | 2025-06-28 |  |
 | [Go Off](https://open.spotify.com/track/6iLZESyrmUOojSQtSsWm9R) | [Charlie Roennez](https://open.spotify.com/artist/6pSJIr64WeGHbSKyQIHBgd) | [Go Off](https://open.spotify.com/album/13XodgQ7g5KFmfqSCPFkYe) | 2:21 | 2024-01-26 | 2024-03-16 |
 | [GO TIME!](https://open.spotify.com/track/6VUynYh2yKsPtQ5KoxmLji) | [Jayceeoh](https://open.spotify.com/artist/1tCaVerFstPJotxmXX6lFL), [B\-Sides](https://open.spotify.com/artist/578rh4s6ZYNBBEhdly58XQ) | [GO TIME!](https://open.spotify.com/album/3dY2yEIU9Qso642RZZhImI) | 2:15 | 2024-04-26 | 2024-05-11 |
 | [Godspeed](https://open.spotify.com/track/4NnLO3LzdT7vKxY1b6KTdK) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Godspeed](https://open.spotify.com/album/11fKSzXY7mhLxUjm6TfGTY) | 4:11 | 2021-10-29 | 2022-01-05 |
@@ -530,7 +531,7 @@
 | [Juice](https://open.spotify.com/track/51dzsgG32Z9nPvSdpVwJ86) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to), [NEIV](https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg) | [Juice](https://open.spotify.com/album/5VhMBWzcMUppdo3UYpSTEP) | 2:36 | 2023-12-15 | 2024-08-17 |
 | [Jumpstarter](https://open.spotify.com/track/7er3MoyagC8W4YfCmENhRJ) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Jumpstarter](https://open.spotify.com/album/0lprQMq8a7RpVNKC0xH7fN) | 2:53 | 2023-12-01 | 2024-02-24 |
 | [Just Bass](https://open.spotify.com/track/55rnLa7szlgdVtnUXtdE3O) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Just Bass](https://open.spotify.com/album/1fckkva2X9IwrldsPfCt4w) | 2:35 | 2021-10-29 | 2022-05-28 |
-| [Just Let Go](https://open.spotify.com/track/5hn6ItyNv3rEwGW7plCEN9) | [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0), [Rose Motion](https://open.spotify.com/artist/6uyugtkUnBNsMZNGmkj9oX) | [Just Let Go](https://open.spotify.com/album/4Y7bEqHShseBW6bxnOMfJe) | 3:21 | 2025-05-09 |  |
+| [Just Let Go](https://open.spotify.com/track/5hn6ItyNv3rEwGW7plCEN9) | [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0), [Rose Motion](https://open.spotify.com/artist/6uyugtkUnBNsMZNGmkj9oX) | [Just Let Go](https://open.spotify.com/album/4Y7bEqHShseBW6bxnOMfJe) | 3:21 | 2025-05-09 | 2025-07-01 |
 | [Just Like You](https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD) | [THYKIER](https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI) | [Just Like You](https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA) | 2:20 | 2024-01-26 | 2025-01-11 |
 | [Keep Guessing](https://open.spotify.com/track/5hp0bM5zmmhuPskJmNuLw7) | [Sven Lochenhoer](https://open.spotify.com/artist/2APmJd80WsbJQoMwnL1buU) | [Keep Guessing](https://open.spotify.com/album/5nbpDe59zRpRwRVAxAaPhj) | 3:09 | 2025-04-04 | 2025-05-03 |
 | [Kick Back](https://open.spotify.com/track/4UbHtOlsHWyFn60uCNM825) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Kick Back](https://open.spotify.com/album/1XoH6YumavGj8NIFaiqJET) | 2:17 | 2024-09-06 |  |

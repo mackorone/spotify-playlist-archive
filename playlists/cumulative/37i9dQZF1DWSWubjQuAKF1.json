@@ -3783,6 +3783,24 @@
     },
     {
       "album": {
+        "name": "Letni",
+        "url": "https://open.spotify.com/album/5W1OECvmOy8qTp3FAYdYWj"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148847,
+      "name": "Letni",
+      "url": "https://open.spotify.com/track/1jjkob4b4R34GxNVHSvg0X"
+    },
+    {
+      "album": {
         "name": "Letnie my\u015bli",
         "url": "https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t"
       },
@@ -5340,7 +5358,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 177916,
       "name": "NIEBA",
       "url": "https://open.spotify.com/track/12kODAZcfMh99l0AitMXFC"

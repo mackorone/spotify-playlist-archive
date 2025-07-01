@@ -446,7 +446,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 272140,
       "name": "Adrift I",
       "url": "https://open.spotify.com/track/3mLfDYt6UMtkosd046b96i"
@@ -804,7 +804,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-24",
+      "date_removed": null,
       "duration_ms": 162280,
       "name": "Aquarelle",
       "url": "https://open.spotify.com/track/5BBB4BfOc6EPbcHEJNNaRj"
@@ -822,7 +822,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 162280,
       "name": "Aquarelle",
       "url": "https://open.spotify.com/track/6mIthWbUqCURbQ9JkBf7A9"
@@ -1523,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "Blossom in Japan",
+        "url": "https://open.spotify.com/album/2saoJMBBSau2D892ss1Ihs"
+      },
+      "artists": [
+        {
+          "name": "Jakub Szybiak",
+          "url": "https://open.spotify.com/artist/4kz7NgN823IKxhhOv08WQg"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144787,
+      "name": "Blossom in Japan",
+      "url": "https://open.spotify.com/track/0AQfJyyEmajXak025DoHfX"
+    },
+    {
+      "album": {
         "name": "Blue Sand",
         "url": "https://open.spotify.com/album/3YJDSIqwyNHEXago8OwLln"
       },
@@ -1708,7 +1726,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 122000,
       "name": "Calm Mornings",
       "url": "https://open.spotify.com/track/1wmjQs4A1UBilFtoDi5iQj"
@@ -3089,6 +3107,24 @@
     },
     {
       "album": {
+        "name": "Dolce",
+        "url": "https://open.spotify.com/album/7xuePYCuu52vZTytU5ghYA"
+      },
+      "artists": [
+        {
+          "name": "Roberto Piano",
+          "url": "https://open.spotify.com/artist/64PyEZBdsO6sou3vLai7jA"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208967,
+      "name": "Dolce",
+      "url": "https://open.spotify.com/track/0LE3BEf9D286ylBle68qlt"
+    },
+    {
+      "album": {
         "name": "downward",
         "url": "https://open.spotify.com/album/4jl4XTi0LQKVjerRrClIl4"
       },
@@ -3762,6 +3798,24 @@
       "duration_ms": 130832,
       "name": "ethereal",
       "url": "https://open.spotify.com/track/5SRgjrPdfePZJweDXbe6RR"
+    },
+    {
+      "album": {
+        "name": "Even If No One Sees",
+        "url": "https://open.spotify.com/album/1AL6YPbfyDXQrzJXPh42Hi"
+      },
+      "artists": [
+        {
+          "name": "Amr Shalaby",
+          "url": "https://open.spotify.com/artist/4oSK5XfYJE7VVMuMdbtp8h"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113258,
+      "name": "Even If No One Sees",
+      "url": "https://open.spotify.com/track/3MuNzvokME8MvuUDSUA8ev"
     },
     {
       "album": {
@@ -6714,7 +6768,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 142961,
       "name": "Lapis",
       "url": "https://open.spotify.com/track/3RtHACpMVkIX7ROUOMyXho"
@@ -7114,6 +7168,24 @@
       "duration_ms": 83642,
       "name": "Look Above",
       "url": "https://open.spotify.com/track/7ofSE0wOSrHh635Dc0kYuB"
+    },
+    {
+      "album": {
+        "name": "Lost In Thought",
+        "url": "https://open.spotify.com/album/5sKPcXrq8x0QocY2EgjUrH"
+      },
+      "artists": [
+        {
+          "name": "stray",
+          "url": "https://open.spotify.com/artist/6TZ7ImCY9aK3ZxpKLYSyHS"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "lost in thought",
+      "url": "https://open.spotify.com/track/2i98t1liW7ImQ0YNlQi2Pj"
     },
     {
       "album": {
@@ -9954,7 +10026,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 141612,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/4jejClzRGNJm0FtYTRLA2Q"
@@ -11512,7 +11584,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 86000,
       "name": "Starbound",
       "url": "https://open.spotify.com/track/2EVwy9oS6JqO5S0Nf6b2UD"
@@ -11785,6 +11857,24 @@
     },
     {
       "album": {
+        "name": "Summer Garden",
+        "url": "https://open.spotify.com/album/502Sl2YyJGF8NGIWyP9qpe"
+      },
+      "artists": [
+        {
+          "name": "Yanson",
+          "url": "https://open.spotify.com/artist/3T4foO5qUmQtPlgcgRUBn0"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146776,
+      "name": "Summer Garden",
+      "url": "https://open.spotify.com/track/45V1E7YiWpayeNu4WlPwkF"
+    },
+    {
+      "album": {
         "name": "Summer Tears",
         "url": "https://open.spotify.com/album/6JlP8Qv0vGazp6geS6sX57"
       },
@@ -11904,7 +11994,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 132187,
       "name": "symmetry",
       "url": "https://open.spotify.com/track/55z79jhrBGK9r7eYC9GAal"
@@ -13382,7 +13472,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 188000,
       "name": "Walk Beyond Time",
       "url": "https://open.spotify.com/track/2FbKY8CtaKGKfCtU6ZD8Cc"
@@ -13727,6 +13817,24 @@
     },
     {
       "album": {
+        "name": "when I look at you..",
+        "url": "https://open.spotify.com/album/4v4koG2kDDZeJrjdNd9pwL"
+      },
+      "artists": [
+        {
+          "name": "Helder Boutens",
+          "url": "https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101697,
+      "name": "when I look at you..",
+      "url": "https://open.spotify.com/track/62V2TAG9fNNsMDQtiAtuvX"
+    },
+    {
+      "album": {
         "name": "When My Sadness Met Yours",
         "url": "https://open.spotify.com/album/3MsWjl43SmCFn0gvJDVMwP"
       },
@@ -13940,6 +14048,24 @@
       "duration_ms": 92510,
       "name": "Whisper to the Moon",
       "url": "https://open.spotify.com/track/1sRhRP4lxIwbpAiQAY6J60"
+    },
+    {
+      "album": {
+        "name": "Whispering Wind",
+        "url": "https://open.spotify.com/album/4SEnEcttTxiRJojIoQ1Rvz"
+      },
+      "artists": [
+        {
+          "name": "Luca Verdant",
+          "url": "https://open.spotify.com/artist/1fL5eZC34fv79A9eUbCkp7"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118894,
+      "name": "Whispering Wind",
+      "url": "https://open.spotify.com/track/5nJj5KEDez2j3Hchn7cUsG"
     },
     {
       "album": {
@@ -14332,7 +14458,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-17",
+      "date_removed": null,
       "duration_ms": 59250,
       "name": "Yuku",
       "url": "https://open.spotify.com/track/0hqkVFqJkIBDW5w4oPnTVk"
@@ -14350,7 +14476,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 59250,
       "name": "Yuku",
       "url": "https://open.spotify.com/track/2mU7V1tVDhmCSuieoMnIz0"

@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Bebhumika
 
-556 songs - 1 day 7 hr 42 min
+557 songs - 1 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Idhai Yaar Solvaaro \- Deaffrogs Records](https://open.spotify.com/track/4OfLGsdYdU2MgWAXyErZ2A) | [KENEESHAA](https://open.spotify.com/artist/4zZsaegDxBfhj2UbGqDIDe), [Stony Psyko](https://open.spotify.com/artist/39cUrSwXh9awPD0itfevhV) | [Idhai Yaar Solvaaro \(Deaffrogs Records\)](https://open.spotify.com/album/2RxNgx7KUCHj5o3c1f0luA) | 3:37 | 2024-02-09 | 2024-08-24 |
 | [Idhan da Life\-u](https://open.spotify.com/track/24G2oiRwA28lHKPte7z9qp) | [Shridhar Ramesh](https://open.spotify.com/artist/5IvPVTWTxfqev2qJ2Ti00Y) | [Idhan da Life\-u](https://open.spotify.com/album/4wjpUrReORkoVTriAQbRNq) | 2:58 | 2023-03-21 | 2023-08-17 |
 | [Idhan Gaana](https://open.spotify.com/track/1naa4iFduSjQxX8b0lCpKs) | [Kaimalu Gokul](https://open.spotify.com/artist/6YqcexB8QhYETy5Ujm0GOs), [Joy Sanjay](https://open.spotify.com/artist/3fFpEhwwEtLCMoUUJLKcYB) | [Idhan Gaana](https://open.spotify.com/album/747Azf5u7bpSWTWUSZ0FiQ) | 2:53 | 2023-07-12 | 2024-02-10 |
+| [Idhayam](https://open.spotify.com/track/49vNDLnRyxawpBHGKLLaLh) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Kavin Lavari](https://open.spotify.com/artist/3Y4K8LCLMtBS9lxM46EpMe), [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu), [Achayan](https://open.spotify.com/artist/46eo6xKxaZmYnnKNwpyB4C) | [Idhayam](https://open.spotify.com/album/4GKEnDJs4i5vK9WsDKfvCx) | 4:22 | 2025-06-30 |  |
 | [Idhayam \- Tune In For Love](https://open.spotify.com/track/3BfXgDsVD042HtzGkuVbjR) | [Sujith Benjamin](https://open.spotify.com/artist/4pMarcdDh8UzUNRvBwQqJz), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Tamil Mani](https://open.spotify.com/artist/5GQclhWiFwYsMfPMMsdwx8) | [Idhayam \- Tune In For Love](https://open.spotify.com/album/0q6MhFUORMR0rOaLM7tRKq) | 3:31 | 2023-05-26 | 2023-05-28 |
 | [Idhayame](https://open.spotify.com/track/3bgFDeR2bMkRbg0rBsZZMz) | [Mk Muziq](https://open.spotify.com/artist/2Ww6FB7QYmV6Kz0pZVYN5M), [Raksha](https://open.spotify.com/artist/27aTvR4Pih0yEX79D8uu1C) | [Idhayame](https://open.spotify.com/album/4fQq4J1ruGqFD4VHVOqt2p) | 2:16 | 2023-11-21 | 2024-01-03 |
 | [Ilanthalizhe](https://open.spotify.com/track/3WHTMsgJEdVAaNk4C4KUjn) | [Nouf Aloufiz](https://open.spotify.com/artist/0lhgeOIYdvd6JVX5Qqrd04), [Athithyan](https://open.spotify.com/artist/7luB4uNlhp3lGJAf9xVmpQ) | [Ilanthalizhe](https://open.spotify.com/album/13kI9nQ3eCTr4BqTzkeumw) | 3:10 | 2023-04-24 | 2023-06-24 |

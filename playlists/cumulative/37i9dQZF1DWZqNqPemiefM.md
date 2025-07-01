@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-794 songs - 2 day 13 hr 26 min
+795 songs - 2 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [In the Sea of Corruption](https://open.spotify.com/track/58Xk781LOJMj3YCKht5hxZ) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Nausicaä of the Valley of the Wind Soundtrack: Towards the Faraway Land](https://open.spotify.com/album/1qHmdiWzKzuDWtEa1gQEW4) | 2:33 | 2024-02-08 | 2024-04-19 |
 | [Inertia](https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Inertia](https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm) | 2:48 | 2025-03-21 |  |
 | [Infinity](https://open.spotify.com/track/5XVTI6sC9YesVTkzqG4365) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Views](https://open.spotify.com/album/2tGZZZlAyHAw90nTFQZ3By) | 2:58 | 2022-04-16 | 2022-07-02 |
-| [Inside](https://open.spotify.com/track/0JgQrMZtYntcnG6hMamhBK) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX) | [Inside](https://open.spotify.com/album/48xtkNT3Ti2Z2v6LnZtk3S) | 4:09 | 2025-02-21 |  |
+| [Inside](https://open.spotify.com/track/0JgQrMZtYntcnG6hMamhBK) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX) | [Inside](https://open.spotify.com/album/48xtkNT3Ti2Z2v6LnZtk3S) | 4:09 | 2025-02-21 | 2025-07-01 |
 | [Instant Immortal](https://open.spotify.com/track/4Zaewkno1T6Re2ioLjo9WQ) | [matryoshka](https://open.spotify.com/artist/4NRS2lkQBjAEWBihpcKUGK) | [Laideronnette](https://open.spotify.com/album/79ayoalAp1qHjyD1UlvNWs) | 5:25 | 2022-03-31 | 2022-04-06 |
 | [Interlace](https://open.spotify.com/track/2JBNntYci0zROvugVrZbwj) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq), [Asa Tone](https://open.spotify.com/artist/1imJsIALBLCwyxSgmT2gks) | [O](https://open.spotify.com/album/0Ccl6c4Bd9dBUDev0K3U5b) | 10:37 | 2025-02-14 | 2025-03-05 |
 | [Interlude \- Aus Remix](https://open.spotify.com/track/1Y7OYD17uDkT3JzcXhDRY5) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [ReCollected](https://open.spotify.com/album/0MmPGvc6mRDaNlluvrpgi6) | 5:18 | 2022-03-31 | 2022-04-12 |
@@ -497,6 +497,7 @@
 | [Particle](https://open.spotify.com/track/3JTMA055FKYtnC6ttoe1on) | [Shuta Yasukochi](https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui) | [In Full Bloom](https://open.spotify.com/album/2BPYht6QXgFxp0cuL7zgcT) | 4:18 | 2022-04-07 | 2022-07-17 |
 | [Past From \- Rebelski Remix](https://open.spotify.com/track/1pGAxg8f3DBIcXbJE7EvZJ) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV), [Rebelski](https://open.spotify.com/artist/18zTVJ6fMHo39oGuHINfOX) | [Revise](https://open.spotify.com/album/6lnT4LoKtSoAL5lVfTqpOY) | 4:55 | 2023-10-26 | 2023-11-24 |
 | [Past From \- Rebelski Remix](https://open.spotify.com/track/3pCjv2qXqPpiCttub0jk32) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV), [Rebelski](https://open.spotify.com/artist/18zTVJ6fMHo39oGuHINfOX) | [Past From \(Rebelski Remix\)](https://open.spotify.com/album/6YidGPbvQ6iC6LJx3XFIQK) | 4:55 | 2023-10-26 | 2023-10-30 |
+| [Pathos](https://open.spotify.com/track/4Cz27Bi0z3yI3pXEFXlffY) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [RAN PARK](https://open.spotify.com/artist/2LcpnnKtegPLs0WJaQPdqK) | [Pathos](https://open.spotify.com/album/5u3LYb5RaoB07WrAte6OI8) | 5:05 | 2025-06-27 |  |
 | [Pathway to Light](https://open.spotify.com/track/563GxNsQbHnPfPmTFIRQdE) | [Wouter Kellerman](https://open.spotify.com/artist/10Rq3Te2tos6wrd84zWxml), [Eru Matsumoto](https://open.spotify.com/artist/1kGOsNu6AxmCp0CQzbyVje), [Chandrika Tandon](https://open.spotify.com/artist/1ThL7kmKTqUPeid6c8Dqhb) | [Triveni](https://open.spotify.com/album/3ClbXycRlU690RmsE9mIuS) | 5:12 | 2025-02-09 | 2025-03-30 |
 | [pause \(almost equal to\) play](https://open.spotify.com/track/4LB8iSej8QryIZ3Vk0XNmS) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Pause \(almost equal to\) Play](https://open.spotify.com/album/634uEr8wlpH7CVq52UQTgW) | 4:45 | 2022-05-26 | 2023-08-15 |
 | [Peaceful Groove](https://open.spotify.com/track/69Dz0ru3ovqGsNuPGr9daD) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Reality Refresh](https://open.spotify.com/album/4nL5R0jrlp7wGMbmppB9JN) | 3:31 | 2024-09-06 | 2024-12-15 |

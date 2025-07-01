@@ -4,12 +4,13 @@
 
 > Meet the future of music around the world\. Cover: Maahi.
 
-2,042 songs - 4 day 14 hr 18 min
+2,044 songs - 4 day 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\# umakeme \(feat\. KNY & Ox The Moron\)](https://open.spotify.com/track/3xCgPTnLgOYoGoRbnH7zxv) | [Xuân Nghi](https://open.spotify.com/artist/09TbfG9329V26zqpb7IQT5), [kny](https://open.spotify.com/artist/2K0m61hiNInpCGF4eat1t7), [Ox The Moron](https://open.spotify.com/artist/1ZShGZFqI0vv1dXum6C72j) | [\# umakeme \(feat\. KNY & Ox The Moron\)](https://open.spotify.com/album/3ZE3pusHOfUT2oDtBYXhzA) | 4:07 | 2022-02-03 | 2022-12-15 |
 | [\#sexy](https://open.spotify.com/track/0o657Agp57aIJX64yOFMVr) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [\#sexy](https://open.spotify.com/album/5qiSHRg4ipJODavlKOgdYp) | 2:14 | 2025-06-20 | 2025-06-28 |
+| [\#sxysmmr](https://open.spotify.com/track/4esup4xb7u8LFaDzN5gF5g) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [\#sxysmmr](https://open.spotify.com/album/07v66XjE2d8dPeV9nQXqXi) | 2:31 | 2025-06-27 |  |
 | ['Sapababy](https://open.spotify.com/track/3VppPV6mcNB0W6Jd0fGvMJ) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD) | ['Sapababy](https://open.spotify.com/album/1lJ2R5PuJSDXLrzdX4dAPZ) | 3:58 | 2025-04-04 |  |
 | [\(Chyba\) Ostatni Dzień](https://open.spotify.com/track/2gp67Tm8jYHSP7Pg6y9CHf) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [\(Chyba\) Ostatni Dzień](https://open.spotify.com/album/6p7FZUkev82iOCQkyHaVDX) | 2:48 | 2023-05-22 | 2023-09-02 |
 | [\(if\) only](https://open.spotify.com/track/15BLMoHLOBy9XDc5iDc0ax) | [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei) | [amber's playlist](https://open.spotify.com/album/10dLMvINSliOIpydkbpUPY) | 3:12 | 2023-10-13 | 2024-03-16 |
@@ -64,7 +65,7 @@
 | [Aburridos \(Arial 8\)](https://open.spotify.com/track/7LGUN1QoI4CN3iLBSKOTAS) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Arial 12](https://open.spotify.com/album/3zNdYtDcUBAYTjt8fCCIrQ) | 2:38 | 2024-10-25 | 2025-03-23 |
 | [Accelerator](https://open.spotify.com/track/4O8KIGH2v0z5yR20nzFrWv) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Accelerator](https://open.spotify.com/album/59s90G0tc3u2Vg9FBWuObS) | 2:51 | 2024-03-29 | 2024-06-08 |
 | [Acid Rain](https://open.spotify.com/track/0u1qECibAI6V0t4cvItL2F) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Acid Rain](https://open.spotify.com/album/3Wr2vHubG92whTTJOgy9To) | 3:06 | 2024-03-29 | 2024-04-06 |
-| [Activists](https://open.spotify.com/track/26uO1N4vHv0rDMhTvYZXGQ) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Activists](https://open.spotify.com/album/3cUkFqJjXV8QL4Hm0118EM) | 2:29 | 2025-02-07 |  |
+| [Activists](https://open.spotify.com/track/26uO1N4vHv0rDMhTvYZXGQ) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Activists](https://open.spotify.com/album/3cUkFqJjXV8QL4Hm0118EM) | 2:29 | 2025-02-07 | 2025-07-01 |
 | [Acto Final](https://open.spotify.com/track/6l2T9Y8Dx0xk0TKpuuF2D6) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Sensible](https://open.spotify.com/album/1NjrLqsDn8YbgSHzotKfsJ) | 3:36 | 2024-02-02 | 2024-04-03 |
 | [Actress](https://open.spotify.com/track/4xW5io4CLYdYaGKenBYmvA) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Actress](https://open.spotify.com/album/2fE2LB3306jWzjQXSHzio5) | 3:14 | 2024-09-13 | 2025-01-18 |
 | [Adored](https://open.spotify.com/track/1J8Gz6rDoKF8xYbcwSgjpe) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 2:40 | 2024-10-04 | 2025-04-26 |
@@ -1666,7 +1667,7 @@
 | [Trapped in the rain](https://open.spotify.com/track/7hWkpX57FVw6VfpWG6VucC) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [Trapped in the rain](https://open.spotify.com/album/5JZhwyUHYwSVKV5I6sM6c1) | 3:26 | 2022-03-24 | 2022-08-02 |
 | [TRIPPIN](https://open.spotify.com/track/3w45N7JMqsnYqko8VmQ9DS) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6) | [TRIPPIN](https://open.spotify.com/album/0r9CWKeNllgadGS079yej4) | 3:17 | 2023-10-13 | 2024-03-16 |
 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 | 2023-12-01 | 2024-05-04 |
-| [Tsunami](https://open.spotify.com/track/5iRYgPCd8JyI0EiBxYKUyN) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Tsunami](https://open.spotify.com/album/4bPksqNkTRThMVUpD1bl5u) | 3:02 | 2025-05-02 |  |
+| [Tsunami](https://open.spotify.com/track/5iRYgPCd8JyI0EiBxYKUyN) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Tsunami](https://open.spotify.com/album/4bPksqNkTRThMVUpD1bl5u) | 3:02 | 2025-05-02 | 2025-07-01 |
 | [TTYLSOS](https://open.spotify.com/track/053nl0VGivTrEP6QiUSgWg) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Cameraman](https://open.spotify.com/album/4YLUb402u5DPZpD4GzRFrK) | 2:27 | 2025-01-24 | 2025-06-28 |
 | [Tu](https://open.spotify.com/track/2kleSbAWlMuc9NKtgLYibe) | [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw) | [Tu](https://open.spotify.com/album/5v5bByuOtxvqAeR5VAPoCd) | 2:53 | 2024-10-18 | 2024-12-14 |
 | [Tu Aazma](https://open.spotify.com/track/38CMq8hlI8zIzGbENBBG1P) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Tu Aazma](https://open.spotify.com/album/5ME4ICYbKFTTYDqclbINw6) | 3:18 | 2023-10-13 | 2023-12-30 |
@@ -1711,6 +1712,7 @@
 | [Unlearn](https://open.spotify.com/track/0bCY2oqtq99zTgg9OYzjpH) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Unlearn](https://open.spotify.com/album/1eAcorMqEkerbVH1stj7og) | 3:06 | 2025-04-11 | 2025-05-04 |
 | [Unlucky!!](https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Unlucky!!](https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV) | 3:35 | 2024-01-26 | 2024-04-19 |
 | [Unpredictable](https://open.spotify.com/track/5Oxwp87yBCGkatMmubetW3) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Unpredictable](https://open.spotify.com/album/5BbQtA7DV23ZFeCwZheBRa) | 3:17 | 2024-03-08 | 2024-04-27 |
+| [UNSCARRED](https://open.spotify.com/track/4NCCOQLzOJxor8Jv7nTEGx) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [UNSCARRED](https://open.spotify.com/album/6czRU4J9bxMfsn2NFKPrId) | 3:01 | 2025-06-27 |  |
 | [Up](https://open.spotify.com/track/7aii4AQA1uyyzGcfqtApy1) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga), [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Up](https://open.spotify.com/album/7w4JTsBGb2znmXyNhpaWmN) | 3:52 | 2022-03-31 | 2022-04-03 |
 | [Upadki i wzloty](https://open.spotify.com/track/6lmd1iffw55qQIzBxStFOP) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Upadki i wzloty](https://open.spotify.com/album/0H5oZPNKpOgMyPp0xKa04S) | 3:11 | 2024-07-26 | 2024-08-17 |
 | [Used To You](https://open.spotify.com/track/6KM82El2PfI0w8OY0qbx7I) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Used To You](https://open.spotify.com/album/4xgJNGM8n5W7uAYED2Rln1) | 2:24 | 2025-02-21 |  |

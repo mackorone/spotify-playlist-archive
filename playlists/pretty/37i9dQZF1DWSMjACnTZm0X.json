@@ -1,6 +1,6 @@
 {
   "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne?si=b1IUNbQpQeCM5Sqg54MtPw\">Famous Pluto</a>, <a href=\"https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=AUGdwiZTSfGyp5PAiZR1HQ\">Shallipopi</a>, <a href=\"https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd?si=-5lTEh5RT3qVrK6K0-K1Vg\">Zerrydl</a>",
-  "num_followers": 23856,
+  "num_followers": 23884,
   "original_name": "Amapiano to the World",
   "owner": {
     "name": "Spotify",
@@ -59,54 +59,6 @@
     {
       "added_at": "2025-06-19 22:00:40",
       "album": {
-        "name": "HAUSAPIANO (Remix)",
-        "url": "https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ"
-      },
-      "artists": [
-        {
-          "name": "Kvng Vinci",
-          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
-        },
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 137844,
-      "name": "HAUSAPIANO - Remix",
-      "url": "https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp"
-    },
-    {
-      "added_at": "2025-06-26 22:00:34",
-      "album": {
-        "name": "Down (feat. Xman Rsa, Lintonto & Masterpiece_Yvk)",
-        "url": "https://open.spotify.com/album/5c4SEQNQEQG4bdyyjMiG3L"
-      },
-      "artists": [
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        },
-        {
-          "name": "Lintonto",
-          "url": "https://open.spotify.com/artist/1isPpcHRJEgg4jyuAF3yd4"
-        },
-        {
-          "name": "Masterpiece YVK",
-          "url": "https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b"
-        },
-        {
-          "name": "Xman Rsa",
-          "url": "https://open.spotify.com/artist/2AyNNC4hdqtQBcZzRtb730"
-        }
-      ],
-      "duration_ms": 323362,
-      "name": "Down (feat. Xman Rsa, Lintonto & Masterpiece_Yvk)",
-      "url": "https://open.spotify.com/track/6xzsLAbPl2ObayPlTuEkLK"
-    },
-    {
-      "added_at": "2025-06-19 22:00:40",
-      "album": {
         "name": "NGOMOYA",
         "url": "https://open.spotify.com/album/05HX31ytzjPOO53EqrIu0c"
       },
@@ -139,6 +91,54 @@
       "duration_ms": 518307,
       "name": "Abantwana Bakho (feat. Thatohatsi, Young Stunna & Nkosazana Daughter)",
       "url": "https://open.spotify.com/track/62auSQwzIlyVuqUsxd4w63"
+    },
+    {
+      "added_at": "2025-06-26 22:00:34",
+      "album": {
+        "name": "Down (feat. Xman Rsa, Lintonto & Masterpiece_Yvk)",
+        "url": "https://open.spotify.com/album/5c4SEQNQEQG4bdyyjMiG3L"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Lintonto",
+          "url": "https://open.spotify.com/artist/1isPpcHRJEgg4jyuAF3yd4"
+        },
+        {
+          "name": "Masterpiece YVK",
+          "url": "https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b"
+        },
+        {
+          "name": "Xman Rsa",
+          "url": "https://open.spotify.com/artist/2AyNNC4hdqtQBcZzRtb730"
+        }
+      ],
+      "duration_ms": 323362,
+      "name": "Down (feat. Xman Rsa, Lintonto & Masterpiece_Yvk)",
+      "url": "https://open.spotify.com/track/6xzsLAbPl2ObayPlTuEkLK"
+    },
+    {
+      "added_at": "2025-06-19 22:00:40",
+      "album": {
+        "name": "HAUSAPIANO (Remix)",
+        "url": "https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ"
+      },
+      "artists": [
+        {
+          "name": "Kvng Vinci",
+          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
+        },
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 137844,
+      "name": "HAUSAPIANO - Remix",
+      "url": "https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp"
     },
     {
       "added_at": "2025-06-19 22:00:40",
@@ -943,30 +943,18 @@
     {
       "added_at": "2025-06-19 22:00:40",
       "album": {
-        "name": "Oblee (Remix)",
-        "url": "https://open.spotify.com/album/4BCn7qyLYTsWlSTAXdO0tC"
+        "name": "Wire Check / AfroBTC",
+        "url": "https://open.spotify.com/album/7jGM4I9nmenHUywVGMwxsX"
       },
       "artists": [
         {
-          "name": "Dj Yk Mule",
-          "url": "https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u"
-        },
-        {
-          "name": "Slimcase",
-          "url": "https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY"
-        },
-        {
-          "name": "Kashcoming",
-          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
-        },
-        {
-          "name": "Qdot",
-          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
+          "name": "Islambo",
+          "url": "https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR"
         }
       ],
-      "duration_ms": 160653,
-      "name": "Oblee (Remix)",
-      "url": "https://open.spotify.com/track/3NbhGCx2XzyxwzL8YT8rCU"
+      "duration_ms": 147857,
+      "name": "Wire Check",
+      "url": "https://open.spotify.com/track/0y2h7NVReGugbbimKjAmmM"
     },
     {
       "added_at": "2025-06-19 22:00:40",
@@ -999,18 +987,30 @@
     {
       "added_at": "2025-06-19 22:00:40",
       "album": {
-        "name": "Wire Check / AfroBTC",
-        "url": "https://open.spotify.com/album/7jGM4I9nmenHUywVGMwxsX"
+        "name": "Oblee (Remix)",
+        "url": "https://open.spotify.com/album/4BCn7qyLYTsWlSTAXdO0tC"
       },
       "artists": [
         {
-          "name": "Islambo",
-          "url": "https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR"
+          "name": "Dj Yk Mule",
+          "url": "https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u"
+        },
+        {
+          "name": "Slimcase",
+          "url": "https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY"
+        },
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        },
+        {
+          "name": "Qdot",
+          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
         }
       ],
-      "duration_ms": 147857,
-      "name": "Wire Check",
-      "url": "https://open.spotify.com/track/0y2h7NVReGugbbimKjAmmM"
+      "duration_ms": 160653,
+      "name": "Oblee (Remix)",
+      "url": "https://open.spotify.com/track/3NbhGCx2XzyxwzL8YT8rCU"
     },
     {
       "added_at": "2025-06-19 22:00:40",
@@ -1027,58 +1027,6 @@
       "duration_ms": 195789,
       "name": "Be There Still",
       "url": "https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd"
-    },
-    {
-      "added_at": "2025-06-19 22:00:40",
-      "album": {
-        "name": "4 Da Ho's",
-        "url": "https://open.spotify.com/album/5Pk03zQ4TZY7s72qtMX0HR"
-      },
-      "artists": [
-        {
-          "name": "Uncle Waffles",
-          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
-        },
-        {
-          "name": "Royal MusiQ",
-          "url": "https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS"
-        },
-        {
-          "name": "Uncool MC",
-          "url": "https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1"
-        },
-        {
-          "name": "Xduppy",
-          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
-        },
-        {
-          "name": "CowBoii",
-          "url": "https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1"
-        }
-      ],
-      "duration_ms": 273098,
-      "name": "ZENZELE (feat. Royal MusiQ, Uncool MC, Xduppy, & CowBoii)",
-      "url": "https://open.spotify.com/track/4foPE26gCg9uNJKTV8Mi4C"
-    },
-    {
-      "added_at": "2025-06-19 22:00:40",
-      "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 163539,
-      "name": "MACHO (feat. NLE Choppa)",
-      "url": "https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF"
     },
     {
       "added_at": "2025-06-19 22:00:40",
@@ -1115,22 +1063,22 @@
     {
       "added_at": "2025-06-19 22:00:40",
       "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         },
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
         }
       ],
-      "duration_ms": 174253,
-      "name": "Bad Girl (feat. Asake)",
-      "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
+      "duration_ms": 163539,
+      "name": "MACHO (feat. NLE Choppa)",
+      "url": "https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF"
     },
     {
       "added_at": "2025-06-19 22:00:40",
@@ -1159,6 +1107,58 @@
       "duration_ms": 328519,
       "name": "Azul (feat. Bean RSA, Prime De 1st & Big Nuz)",
       "url": "https://open.spotify.com/track/0Cjt0yz3YXwAEcwWksi4nr"
+    },
+    {
+      "added_at": "2025-06-19 22:00:40",
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Bad Girl (feat. Asake)",
+      "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
+    },
+    {
+      "added_at": "2025-06-19 22:00:40",
+      "album": {
+        "name": "4 Da Ho's",
+        "url": "https://open.spotify.com/album/5Pk03zQ4TZY7s72qtMX0HR"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Royal MusiQ",
+          "url": "https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS"
+        },
+        {
+          "name": "Uncool MC",
+          "url": "https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "CowBoii",
+          "url": "https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1"
+        }
+      ],
+      "duration_ms": 273098,
+      "name": "ZENZELE (feat. Royal MusiQ, Uncool MC, Xduppy, & CowBoii)",
+      "url": "https://open.spotify.com/track/4foPE26gCg9uNJKTV8Mi4C"
     },
     {
       "added_at": "2025-06-19 22:00:40",
@@ -1235,22 +1235,30 @@
     {
       "added_at": "2025-06-19 22:00:40",
       "album": {
-        "name": "Billions",
-        "url": "https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2"
+        "name": "Soul Buddies",
+        "url": "https://open.spotify.com/album/5DCa75Mt6oWjnCid9E4hzc"
       },
       "artists": [
         {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+          "name": "Yumbs",
+          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
         },
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Zwayetoven",
+          "url": "https://open.spotify.com/artist/3iw79FjeZRNqeD8JkREr3j"
+        },
+        {
+          "name": "Kailey Botman",
+          "url": "https://open.spotify.com/artist/0wTwLyah7AviSd5juTDVey"
+        },
+        {
+          "name": "Khanyisa",
+          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
         }
       ],
-      "duration_ms": 224003,
-      "name": "Billions",
-      "url": "https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc"
+      "duration_ms": 445714,
+      "name": "Izimangaliso (feat. Kailey Botman & Khanyisa)",
+      "url": "https://open.spotify.com/track/6b9VMCogXvoK6OfNUBQ8T9"
     },
     {
       "added_at": "2025-06-19 22:00:40",

@@ -2,7 +2,7 @@
 
 ### [Indie Highlights](https://open.spotify.com/playlist/37i9dQZF1DWVwRuJjs9A3S)
 
-> All the highlights from the world of indie! Cover: sombr
+> All the highlights from the world of indie! Cover: CMAT
 
 809 songs - 1 day 22 hr 28 min
 

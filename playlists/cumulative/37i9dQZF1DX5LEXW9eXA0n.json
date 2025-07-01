@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 275026,
       "name": "All I ask",
       "url": "https://open.spotify.com/track/3G0d3wMJ281GhbmiB8lZZH"
@@ -16789,6 +16789,36 @@
     },
     {
       "album": {
+        "name": "Old Song",
+        "url": "https://open.spotify.com/album/0apoOIDrKO2D46DcgUuzR7"
+      },
+      "artists": [
+        {
+          "name": "KEN",
+          "url": "https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6"
+        },
+        {
+          "name": "YOUNGJAE",
+          "url": "https://open.spotify.com/artist/6yxXsPXcgTJjBRelX9NCiF"
+        },
+        {
+          "name": "Hui",
+          "url": "https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy"
+        },
+        {
+          "name": "CHOI SANG YEOP",
+          "url": "https://open.spotify.com/artist/6utXy4Z1T5WeP6Kik5CKs4"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272026,
+      "name": "Old Song",
+      "url": "https://open.spotify.com/track/6rGVw8IWx7EB0f8vUAKWHE"
+    },
+    {
+      "album": {
         "name": "On A Rainy Night",
         "url": "https://open.spotify.com/album/5JtQzYZOacgK1jTrHI62Ou"
       },
@@ -19885,6 +19915,24 @@
     },
     {
       "album": {
+        "name": "Someday, The Man",
+        "url": "https://open.spotify.com/album/6NUSyUkZIVMJUql3xBowqD"
+      },
+      "artists": [
+        {
+          "name": "Zia",
+          "url": "https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Someday, The Man",
+      "url": "https://open.spotify.com/track/2ebbekzBESFE6wWBA96Gbw"
+    },
+    {
+      "album": {
         "name": "Somehow",
         "url": "https://open.spotify.com/album/0wmdf3KGuDjJONl3rqiOLf"
       },
@@ -19896,7 +19944,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 213080,
       "name": "Somehow",
       "url": "https://open.spotify.com/track/2ILWHKHqMaRnFOONkYWM8K"

@@ -1642,7 +1642,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 132727,
       "name": "DreamKeeperc",
       "url": "https://open.spotify.com/track/2hZcfgWVxNZ7Q8xVn6xo70"
@@ -2188,7 +2188,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-30",
+      "date_removed": null,
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -3356,7 +3356,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-30",
+      "date_removed": null,
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -4536,7 +4536,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 123000,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/1P62f3cGqeoeDVulZ0U35M"
@@ -4938,7 +4938,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -4956,7 +4956,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
@@ -5344,7 +5344,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-30",
+      "date_removed": null,
       "duration_ms": 188399,
       "name": "Slow Dance (feat. Sofia Carson)",
       "url": "https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH"
@@ -6526,7 +6526,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 184075,
       "name": "Who (Acoustic Remix)",
       "url": "https://open.spotify.com/track/10I5rhhFoWZDIN3kEc6Dbo"
@@ -7672,7 +7672,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 104026,
       "name": "\u0433\u043b\u0430\u0434\u0438\u0430\u0442\u043e\u0440/\u0440\u044b\u0446\u0430\u0440\u044c",
       "url": "https://open.spotify.com/track/3nNKws5aNnTa3tgQOIS5Sk"
@@ -10316,7 +10316,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 128039,
       "name": "\u041f\u043b\u043e\u0445\u0430\u044f \u0421\u0443\u043a\u0430",
       "url": "https://open.spotify.com/track/7GQY5kKP1uZGWSvZ5tOxsN"
@@ -10440,7 +10440,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 197771,
       "name": "\u041f\u043e\u0436\u0430\u0440\u044b",
       "url": "https://open.spotify.com/track/1zXv6MYOAyjgMA0iPypPkO"
@@ -12577,6 +12577,28 @@
     },
     {
       "album": {
+        "name": "\u0426\u0435\u0437\u0430\u0440\u044c group",
+        "url": "https://open.spotify.com/album/2tvjvA550feMs3ustWLbjT"
+      },
+      "artists": [
+        {
+          "name": "Icegergert",
+          "url": "https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r"
+        },
+        {
+          "name": "A-THIS 52",
+          "url": "https://open.spotify.com/artist/0UHqSfz7HUzhSAi1aq1euQ"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "\u0426\u0435\u0437\u0430\u0440\u044c group",
+      "url": "https://open.spotify.com/track/5OLP59obagTAtsrd90dD7C"
+    },
+    {
+      "album": {
         "name": "\u0426\u0435\u043b\u0443\u044e",
         "url": "https://open.spotify.com/album/5MMOUwDx6k2gxYw1CifHY7"
       },
@@ -12650,6 +12672,24 @@
       "duration_ms": 200357,
       "name": "\u0427\u0430\u0441",
       "url": "https://open.spotify.com/track/4mVDYu5SYxeKK9BhEnlstT"
+    },
+    {
+      "album": {
+        "name": "\u0427\u0435\u0441\u0442\u043d\u044b\u0445 \u043f\u0440\u0430\u0432\u0438\u043b",
+        "url": "https://open.spotify.com/album/4g5geIKMzFU0bCmn8vk7uV"
+      },
+      "artists": [
+        {
+          "name": "Markul",
+          "url": "https://open.spotify.com/artist/3Vfd5HJnhjnvdyuQYHtYa2"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145731,
+      "name": "\u0427\u0435\u0441\u0442\u043d\u044b\u0445 \u043f\u0440\u0430\u0432\u0438\u043b",
+      "url": "https://open.spotify.com/track/0GpQqxVf8rC6QWFDaKqeRl"
     },
     {
       "album": {
@@ -12984,7 +13024,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 118903,
       "name": "\u042f \u0442\u0435\u0431\u044f \u043b\u044e\u0431\u043b\u044e",
       "url": "https://open.spotify.com/track/1FAKK1hn0mSI78r3x695pn"

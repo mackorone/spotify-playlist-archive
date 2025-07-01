@@ -1,12 +1,12 @@
 {
   "description": "Cover: Draganov",
-  "num_followers": 355868,
+  "num_followers": 355956,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF7cJwAAAAAzmDMnI79ygHuFZvOhNRo3",
+  "snapshot_id": "aGJBkgAAAACWRBmNAORqaXup5fXHLcrF",
   "tracks": [
     {
       "added_at": "2025-06-27 18:00:07",
@@ -195,26 +195,6 @@
     {
       "added_at": "2025-06-27 18:00:07",
       "album": {
-        "name": "GWB",
-        "url": "https://open.spotify.com/album/6VbDuASVTNy2eapQPqQsgm"
-      },
-      "artists": [
-        {
-          "name": "7ari",
-          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
-        },
-        {
-          "name": "Ramoon",
-          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
-        }
-      ],
-      "duration_ms": 149599,
-      "name": "GWB",
-      "url": "https://open.spotify.com/track/45RMPbRapeirTpV8zieyi4"
-    },
-    {
-      "added_at": "2025-06-27 18:00:07",
-      "album": {
         "name": "Alha9i9a (\u0627\u0644\u062d\u0642\u064a\u0642\u0629)",
         "url": "https://open.spotify.com/album/4ChviB4GBxtlmGtDk4Z81M"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 211764,
       "name": "Bombonera",
       "url": "https://open.spotify.com/track/4xxNysr35mMhcRpfw6v1Fu"
+    },
+    {
+      "added_at": "2025-06-27 18:00:07",
+      "album": {
+        "name": "GWB",
+        "url": "https://open.spotify.com/album/6VbDuASVTNy2eapQPqQsgm"
+      },
+      "artists": [
+        {
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+        },
+        {
+          "name": "Ramoon",
+          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
+        }
+      ],
+      "duration_ms": 149599,
+      "name": "GWB",
+      "url": "https://open.spotify.com/track/45RMPbRapeirTpV8zieyi4"
     },
     {
       "added_at": "2025-06-27 18:00:07",

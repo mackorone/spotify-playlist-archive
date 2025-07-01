@@ -9751,6 +9751,28 @@
     },
     {
       "album": {
+        "name": "Tha Language",
+        "url": "https://open.spotify.com/album/1eR7AfJfPEsLTnkpkTEoi8"
+      },
+      "artists": [
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155728,
+      "name": "Go Bestfriend",
+      "url": "https://open.spotify.com/track/1pvMPcQaVP8HuRO3Sa24RP"
+    },
+    {
+      "album": {
         "name": "Go Bestfriend",
         "url": "https://open.spotify.com/album/0HPVkqp6Vkgoqf6vkOmLJ3"
       },

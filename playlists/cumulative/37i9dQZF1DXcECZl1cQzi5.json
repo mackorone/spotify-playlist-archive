@@ -1431,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "In Balance By The Shore",
+        "url": "https://open.spotify.com/album/4fpMCLNlFUE9slr3RDc1PO"
+      },
+      "artists": [
+        {
+          "name": "Leo Lindholm",
+          "url": "https://open.spotify.com/artist/4rkUkNV8IzVS3jRYgPmB8h"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173854,
+      "name": "In Balance By The Shore",
+      "url": "https://open.spotify.com/track/617Vt95JDL9ZyBiiALl2e1"
+    },
+    {
+      "album": {
         "name": "Indigo Glow",
         "url": "https://open.spotify.com/album/2dcJP15Nrxd66yV6aEVJi9"
       },
@@ -1460,7 +1478,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 195750,
       "name": "Kallisto Thalassa",
       "url": "https://open.spotify.com/track/0cYX4SJ08CQtEJd63j0PiF"
@@ -2443,6 +2461,24 @@
     },
     {
       "album": {
+        "name": "Shoreline Serenity",
+        "url": "https://open.spotify.com/album/5tlda8TQsXWnCNf2isVNxg"
+      },
+      "artists": [
+        {
+          "name": "Carmela Zavala",
+          "url": "https://open.spotify.com/artist/00OuphZkinOuOhenMlndwQ"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Shoreline Serenity",
+      "url": "https://open.spotify.com/track/4pJ0qiET0w17eYIangFjDo"
+    },
+    {
+      "album": {
         "name": "Shores of Serenity",
         "url": "https://open.spotify.com/album/3DdHLlGtxU5vLbYEvyMzc5"
       },
@@ -3016,7 +3052,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 182727,
       "name": "Warm Sandy Beaches",
       "url": "https://open.spotify.com/track/0KhOTvGKDNSP2fNmzbpNJX"

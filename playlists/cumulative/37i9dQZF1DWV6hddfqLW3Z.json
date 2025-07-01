@@ -390,7 +390,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 207530,
       "name": "Amuleto",
       "url": "https://open.spotify.com/track/5JEVbp6mX3umfQePbnN3sE"
@@ -2130,7 +2130,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 214426,
       "name": "Mexeu comigo",
       "url": "https://open.spotify.com/track/7A8N1poNHW8yHXWIbLD5rL"
@@ -2243,6 +2243,24 @@
     },
     {
       "album": {
+        "name": "Todas Elas (Deluxe)",
+        "url": "https://open.spotify.com/album/34Z3IDAEuX79HesCNLuqL1"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283293,
+      "name": "Nada Mais",
+      "url": "https://open.spotify.com/track/2sG4JlM2fO3RzXoXffRYyX"
+    },
+    {
+      "album": {
         "name": "Neste Contexto",
         "url": "https://open.spotify.com/album/5ajFZehsAgL2sYI3bav9EE"
       },
@@ -2330,7 +2348,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 219770,
       "name": "N\u00e3o Mexe Comigo",
       "url": "https://open.spotify.com/track/39BatjiZgM7JTbzVaDqxJr"

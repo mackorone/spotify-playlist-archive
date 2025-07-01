@@ -4,7 +4,7 @@
 
 > \#fyp
 
-801 songs - 1 day 18 hr 1 min
+802 songs - 1 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Comment Ne Pas Te Louer \( Remix \)](https://open.spotify.com/track/2QtXKwTGWw0THWUCf8WL3d) | [Ibara](https://open.spotify.com/artist/4cqiR83xdaQFZqqUiAjp4I) | [Comment Ne Pas Te Louer \( Remix \)](https://open.spotify.com/album/7nY0IWieUolAE0sU1FAGNJ) | 2:40 | 2023-03-24 | 2023-09-10 |
 | [COMPLEXE DU PAUVRE](https://open.spotify.com/track/7HgthycgwrNcexbTGzeoJW) | [Foulek](https://open.spotify.com/artist/0wweMOl4yXsiBEU9IK3zi1) | [COMPLEXE DU PAUVRE](https://open.spotify.com/album/6QnFRkknThoAitmRakTKqM) | 1:39 | 2024-09-13 | 2024-10-12 |
 | [Compliqué](https://open.spotify.com/track/1mxtJO0HloZgzutCB4j0gC) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [DREAMS II](https://open.spotify.com/album/5ei0sgRSVLxqkglc8aIcoi) | 3:04 | 2023-10-20 | 2024-01-09 |
+| [Confidence](https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Premiers pas](https://open.spotify.com/album/4TdXHEGmIaPV2xvqTnf5z4) | 3:44 | 2025-06-30 |  |
 | [Confidences](https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Confidences](https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE) | 2:08 | 2024-06-14 | 2024-11-09 |
 | [Corazón \(feat\. Lil Wayne & French Montana\)](https://open.spotify.com/track/24HcLPyLzzZ3fHGvdYISyt) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Corazón \(feat\. Lil Wayne & French Montana\)](https://open.spotify.com/album/6xxTkY4axvroYCLeERelkn) | 3:47 | 2025-02-14 | 2025-03-08 |
 | [Corps \- Sped Up](https://open.spotify.com/track/0lScTHrPbwAVIqaXgNJUpJ) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Corps \(Sped Up\)](https://open.spotify.com/album/5D0DzjFyCVbTyFUxQAA0D8) | 3:58 | 2023-12-14 | 2024-02-03 |
@@ -238,7 +239,7 @@
 | [El Dorado](https://open.spotify.com/track/0tGv6A7alg2EiRadi0b5TQ) | [Ramriddlz](https://open.spotify.com/artist/3fHjwMnkM9ov8CozqkYxWY), [Hamza](https://open.spotify.com/artist/6k9hwEEAQKRQsnjAf0ndt1) | [El Dorado](https://open.spotify.com/album/1gmhX0AHoc1cnC1M6FQOei) | 4:42 | 2024-04-26 | 2024-06-29 |
 | [EL GEMANO](https://open.spotify.com/track/2s0ECLNrusYkBud3ZuoVrc) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [EL GEMANO](https://open.spotify.com/album/7MNh4XFiOSs4hHUkeGkfr4) | 4:08 | 2024-08-16 | 2025-04-05 |
 | [Ella, elle l'a \- Remasterisé en 2004](https://open.spotify.com/track/67CfbIKKTCKFqmQLJwUftX) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Babacar \(Remasterisé en 2004\)](https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0) | 4:51 | 2024-05-24 | 2024-07-27 |
-| [ELLE](https://open.spotify.com/track/53L31wZaBGqyrTDExHsaJ9) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W) | [TOUT DROIT](https://open.spotify.com/album/4d7sU643kUdpmolO1M7bRF) | 2:50 | 2025-06-06 |  |
+| [ELLE](https://open.spotify.com/track/53L31wZaBGqyrTDExHsaJ9) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W) | [TOUT DROIT](https://open.spotify.com/album/4d7sU643kUdpmolO1M7bRF) | 2:50 | 2025-06-06 | 2025-07-01 |
 | [Elle a mal \(feat\. Niska\)](https://open.spotify.com/track/2ct8sYE8u8UZT229rWvXwL) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [M.I.L.S](https://open.spotify.com/album/2KvyDaE0buWzzR8S4gCSsz) | 3:13 | 2023-05-19 | 2024-07-27 |
 | [Elle m'a aimé](https://open.spotify.com/track/7nge1KGzvd36KljBjRb063) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Kendji](https://open.spotify.com/album/1iddjUYhfMpjTVY5SQZxKm) | 3:26 | 2025-03-28 | 2025-05-23 |
 | [Elle t’a tué](https://open.spotify.com/track/0gfQf6PBw6aPv6GVwfTSIj) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Capo Dei Capi](https://open.spotify.com/album/3UfHcXkq3VqEhuPxd5lZ6p) | 3:51 | 2024-10-11 | 2025-02-15 |

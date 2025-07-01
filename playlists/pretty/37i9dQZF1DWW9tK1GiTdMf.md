@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > azael e Thrilljard hanno fatto un disco che è rabbia, sangue e cose che fanno male alla salute \(e li amiamo per questo\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,634 likes - 115 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,628 likes - 115 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

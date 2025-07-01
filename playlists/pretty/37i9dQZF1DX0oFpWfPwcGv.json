@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 69653,
+  "num_followers": 69665,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
+        "name": "Triumph (Expanded Version)",
+        "url": "https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7"
+      },
+      "artists": [
+        {
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+        }
+      ],
+      "duration_ms": 230967,
+      "name": "Can You Feel It - 7\" Version",
+      "url": "https://open.spotify.com/track/0GIk0Mm87D0CDyj57Urtt3"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
         "name": "Love Is The Message",
         "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 222346,
       "name": "T.S.O.P. (The Sound of Philadelphia) (feat. The Three Degrees)",
       "url": "https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
-        "name": "Triumph (Expanded Version)",
-        "url": "https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7"
-      },
-      "artists": [
-        {
-          "name": "The Jacksons",
-          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
-        }
-      ],
-      "duration_ms": 230967,
-      "name": "Can You Feel It - 7\" Version",
-      "url": "https://open.spotify.com/track/0GIk0Mm87D0CDyj57Urtt3"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Break Out (1983 Version - Expanded Edition)",
-        "url": "https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 366360,
-      "name": "Automatic - 12\" Special Remix",
-      "url": "https://open.spotify.com/track/0FCyuLdiv6YXC8YvbYkDM3"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Bad Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 295125,
       "name": "Bad Girls - 12\" Version",
       "url": "https://open.spotify.com/track/0qWZZsiCMibvawWrBOAyhD"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Break Out (1983 Version - Expanded Edition)",
+        "url": "https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 366360,
+      "name": "Automatic - 12\" Special Remix",
+      "url": "https://open.spotify.com/track/0FCyuLdiv6YXC8YvbYkDM3"
     },
     {
       "added_at": "2024-09-07 16:02:33",

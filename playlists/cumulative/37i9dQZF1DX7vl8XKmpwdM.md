@@ -2,7 +2,7 @@
 
 ### [Latest Dance Tamil](https://open.spotify.com/playlist/37i9dQZF1DX7vl8XKmpwdM)
 
-> Dance Machi Dance<br/>Cover : Retro
+> Dance Machi Dance<br/>Cover : Coolie
 
 226 songs - 13 hr 21 min
 

@@ -774,7 +774,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 310754,
       "name": "Ben poca cosa tens",
       "url": "https://open.spotify.com/track/6bjEfCnfH1aTkDVxmXkptn"
@@ -962,7 +962,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 179173,
       "name": "Burn",
       "url": "https://open.spotify.com/track/40dfo65kBJa1UgzkD652Gl"
@@ -4259,6 +4259,24 @@
     },
     {
       "album": {
+        "name": "Tanto Tiempo",
+        "url": "https://open.spotify.com/album/02JQ5rOsZa145uPzbWIarG"
+      },
+      "artists": [
+        {
+          "name": "Antonio Romero",
+          "url": "https://open.spotify.com/artist/5oL1C1BH1Qeuib1JRZngtA"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193941,
+      "name": "No Marchar\u00e1s",
+      "url": "https://open.spotify.com/track/6cxQ2r0Bxn3lUYxY7nSWMn"
+    },
+    {
+      "album": {
         "name": "No Matter What",
         "url": "https://open.spotify.com/album/5HYPXY6FQXg2pQkOY2Tygw"
       },
@@ -6498,7 +6516,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-13",
+      "date_removed": null,
       "duration_ms": 163402,
       "name": "Tu",
       "url": "https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh"

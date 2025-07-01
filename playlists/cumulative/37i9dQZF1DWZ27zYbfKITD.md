@@ -4,7 +4,7 @@
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-120 songs - 5 hr 44 min
+124 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [The Last Dinner](https://open.spotify.com/track/7csZBSybyqxBWgsmsD0eLM) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Despite the Falling Snow \(Original Motion Picture Score\)](https://open.spotify.com/album/7GqxefFfYUkModqa3muudO) | 1:50 | 2023-05-12 | 2024-04-19 |
 | [The Last Samurai Suite: Part 1 \- Live](https://open.spotify.com/track/4SrsN2NYSHcf7cYsW6IKvy) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [The Disruptive Collective](https://open.spotify.com/artist/0oMhzz3sH8FqeezbdI3yAm) | [The Last Samurai Suite](https://open.spotify.com/album/2cLdbyLtYoDd6cIgXJVHI3) | 2:56 | 2022-10-07 |  |
 | [The Last Smile](https://open.spotify.com/track/3upwv1DPliAh0ACVYBGNIg) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [The Boy and the Heron \- Original Soundtrack](https://open.spotify.com/album/6oXCKKghd9Shmz2iU7ebbW) | 2:54 | 2024-09-13 |  |
+| [The Life of Things](https://open.spotify.com/track/4EOqsBTk1mZfZ5jQwzi0l2) | [Jean\-Michel Bernard](https://open.spotify.com/artist/5MTEeanu1d3pEbBauZ9srY) | [Movie Set](https://open.spotify.com/album/7vY7PbBXpI4CBk2Olqp7oe) | 2:12 | 2025-06-30 |  |
 | [The Mind’s Eye](https://open.spotify.com/track/0RYvm6Wf0Z82UuH28lyV5J) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Never Look Away \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0n57OBgkXOdrBngFeje285) | 2:48 | 2022-08-05 |  |
 | [The Museum](https://open.spotify.com/track/6VWTEGq1l81ciJnB4DDxOn) | [Andrew Prahlow](https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8) | [Outer Wilds \(Original Soundtrack\)](https://open.spotify.com/album/1U0A6RPNJB05PtuBcaTM7o) | 2:48 | 2022-08-05 |  |
 | [The Poet Acts](https://open.spotify.com/track/0XiMoe7Dh3CcF5sYNWIwYR) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [The Hours \(Music from the Motion Picture Soundtrack\)](https://open.spotify.com/album/4F0LJueCDliCH7Bg4PPVil) | 3:43 | 2022-08-05 |  |
@@ -121,6 +122,8 @@
 | [Theme \- From "American Beauty"](https://open.spotify.com/track/0YjaC9peYewdRxCTCNd3hX) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Newman: Theme \(From "American Beauty"\)](https://open.spotify.com/album/2BB8KvmXDHz69BVSpFI6Pb) | 3:51 | 2024-12-24 |  |
 | [To the Stars](https://open.spotify.com/track/03BoaviXTqX4f3cTjrXPKb) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Ad Astra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7A0KkKcwRKJYLrWQQsO3bH) | 3:30 | 2024-09-13 |  |
 | [Together Again](https://open.spotify.com/track/2hnA4tmaBMisNvz4TOl1Rk) | [Stephen Rennicks](https://open.spotify.com/artist/1qwshnqmsxCWhZAnBIISeL) | [Normal People \(Original Score from the Television Series\)](https://open.spotify.com/album/3WsKQ06VJYFnl5msx295V9) | 2:53 | 2022-08-05 |  |
+| [Tokyo Ghoul: Unravel \- Piano Version](https://open.spotify.com/track/0xBtceEvb9G2XvpKQwd32w) | [GabAnime](https://open.spotify.com/artist/3CF7ubKw1qc5TY8avl0huW) | [Tokyo Ghoul: Unravel \(Piano Version\)](https://open.spotify.com/album/3FLbMAhMJ4yNpvZpUSOQbw) | 2:13 | 2025-06-30 |  |
+| [Truman Sleeps \- Arr\. for Orchestra by David Le Page](https://open.spotify.com/track/1wBKODaRY52BIpiUshP7SZ) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Orchestra of the Swan](https://open.spotify.com/artist/4Q6c37zCXu7UvWmUcROoVq), [David le Page](https://open.spotify.com/artist/2ibsbvp3eHcQOgxZxVsk8x) | [Light and Shadow](https://open.spotify.com/album/4tSwVev13zJxh3UTdX1a5d) | 2:34 | 2025-06-30 |  |
 | [Vagrant's Rest \(A Place to Call Home\)](https://open.spotify.com/track/72OyVUVfEVFl3Iy7rebahm) | [e.hillman](https://open.spotify.com/artist/5I4vi0vVJXlwNMg9EDry3V) | [Ashen \(Original Soundtrack\)](https://open.spotify.com/album/6on5VDqh0Fpp5yFWlyo8kk) | 3:22 | 2022-08-05 |  |
 | [Variation 15](https://open.spotify.com/track/281vn54pOBz6pI6Rzt8Men) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY), [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd) | [Dunkirk \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1KpQPJOBWeL8kmnwCzYcg8) | 5:51 | 2022-08-05 | 2024-04-19 |
 | [Variation 15 \(Dunkirk\)](https://open.spotify.com/track/5eeBoptaR9wfFe5csGjIMP) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY), [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd) | [Dunkirk: Original Motion Picture Soundtrack](https://open.spotify.com/album/56hnQxU8h3Upf1nqR0fXYi) | 5:51 | 2024-03-29 |  |
@@ -128,5 +131,6 @@
 | [Vesper \(From "Casino Royale" Soundtrack\)](https://open.spotify.com/track/38K2V3O8SKYvjY0T9v43Hg) | [David Arnold](https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE) | [Casino Royale \[International Version\]](https://open.spotify.com/album/5PUTv2vFUEOHRDHl2cCGCO) | 1:44 | 2024-03-29 |  |
 | [Wish I Could Spend The Day With You](https://open.spotify.com/track/7H1qlREWSW4MgamNSrgZbw) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2), [Jeff Danna](https://open.spotify.com/artist/4v7z4d0nyIY3mWGz1AXoK1) | [Onward \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst) | 1:46 | 2022-11-08 |  |
 | [Zimmer: Day One \(From "Interstellar"\)](https://open.spotify.com/track/7d9rT201eeDnefvKXbEtf8) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Hayato Sumino](https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz) | [Zimmer: Day One \(From "Interstellar"\)](https://open.spotify.com/album/2m2BNKbcH1b11o0v6mZN9K) | 3:14 | 2024-12-24 |  |
+| [里の見学](https://open.spotify.com/track/3MxjsosG7fcCBtfItfNyJM) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」刀鍛冶の里編 オリジナルサウンドトラック](https://open.spotify.com/album/3XWluQCHEe2W1M0NvbPQOq) | 1:05 | 2025-06-30 |  |
 
 \*This playlist was first scraped on 2022-08-25. Prior content cannot be recovered.

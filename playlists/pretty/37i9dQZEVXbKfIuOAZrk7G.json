@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Canada.",
-  "num_followers": 55049,
+  "num_followers": 55050,
   "original_name": "Viral 50 - Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L/Sw0AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L/YEqAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "No Broke Boys",
         "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "Fireborn \u2013 Burn It All",
         "url": "https://open.spotify.com/album/5bSKfIJtyFNyziqGahXtyf"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/1QJsBD1342aOCUZXOKQaIv"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "Future Remains",
         "url": "https://open.spotify.com/album/0AZT0JAUcEJXQTfzB4MRIV"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/1gExMyY0hcnLisq9OJRabP"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/6ln8iXcLmyu9wJIUq5J7IS"
@@ -77,39 +77,7 @@
       "url": "https://open.spotify.com/track/0laZWY3EU8RYnJf4YnB2Fl"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
-      "album": {
-        "name": "Scornful Woman",
-        "url": "https://open.spotify.com/album/3Ueo8Ub5iBseNfSbHpCdEq"
-      },
-      "artists": [
-        {
-          "name": "Oliver Anthony Music",
-          "url": "https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3"
-        }
-      ],
-      "duration_ms": 175070,
-      "name": "Scornful Woman",
-      "url": "https://open.spotify.com/track/5oEM9EDKL9y4XLTJzi0g96"
-    },
-    {
-      "added_at": "2025-06-29 16:53:07",
-      "album": {
-        "name": "The Reckoning",
-        "url": "https://open.spotify.com/album/4p1V8M4brIKT2tTOYTZqNd"
-      },
-      "artists": [
-        {
-          "name": "AngelofAnarchy",
-          "url": "https://open.spotify.com/artist/5dt8gRLDwIgSS0uwxvxqqJ"
-        }
-      ],
-      "duration_ms": 228696,
-      "name": "Bodybag",
-      "url": "https://open.spotify.com/track/6M2OleyQEsz3jvA4mdiZxp"
-    },
-    {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "No Fun",
         "url": "https://open.spotify.com/album/75RvXYdDpN9ZLW7Hg6kHeg"
@@ -129,7 +97,55 @@
       "url": "https://open.spotify.com/track/2VaJNjWvlE2VcmcZ43YiVE"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
+      "album": {
+        "name": "Scornful Woman",
+        "url": "https://open.spotify.com/album/3Ueo8Ub5iBseNfSbHpCdEq"
+      },
+      "artists": [
+        {
+          "name": "Oliver Anthony Music",
+          "url": "https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3"
+        }
+      ],
+      "duration_ms": 175070,
+      "name": "Scornful Woman",
+      "url": "https://open.spotify.com/track/5oEM9EDKL9y4XLTJzi0g96"
+    },
+    {
+      "added_at": "2025-06-30 15:51:17",
+      "album": {
+        "name": "The Reckoning",
+        "url": "https://open.spotify.com/album/4p1V8M4brIKT2tTOYTZqNd"
+      },
+      "artists": [
+        {
+          "name": "AngelofAnarchy",
+          "url": "https://open.spotify.com/artist/5dt8gRLDwIgSS0uwxvxqqJ"
+        }
+      ],
+      "duration_ms": 228696,
+      "name": "Bodybag",
+      "url": "https://open.spotify.com/track/6M2OleyQEsz3jvA4mdiZxp"
+    },
+    {
+      "added_at": "2025-06-30 15:51:17",
+      "album": {
+        "name": "Harmonium",
+        "url": "https://open.spotify.com/album/0wbvHRp4VDYqLCV0jMmV9r"
+      },
+      "artists": [
+        {
+          "name": "Harmonium",
+          "url": "https://open.spotify.com/artist/1ms7U6RHK5ox13A37q5eDG"
+        }
+      ],
+      "duration_ms": 425733,
+      "name": "Un Musicien Parmi Tant D Autres",
+      "url": "https://open.spotify.com/track/3Uo30HlnRjZRKW4EtlfPZH"
+    },
+    {
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "Remember My Name",
         "url": "https://open.spotify.com/album/0h23dGYOWAvQW3rNXX9lCd"
@@ -145,7 +161,7 @@
       "url": "https://open.spotify.com/track/74U3RSDvW0WmyUufIHGgjn"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "HONKY TONK BADONKADONK",
         "url": "https://open.spotify.com/album/1OzaeXfWl2R0ncz727BPQs"
@@ -169,23 +185,7 @@
       "url": "https://open.spotify.com/track/5uHA52m0cZ2l8JeUwVx8wI"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
-      "album": {
-        "name": "Harmonium",
-        "url": "https://open.spotify.com/album/0wbvHRp4VDYqLCV0jMmV9r"
-      },
-      "artists": [
-        {
-          "name": "Harmonium",
-          "url": "https://open.spotify.com/artist/1ms7U6RHK5ox13A37q5eDG"
-        }
-      ],
-      "duration_ms": 425733,
-      "name": "Un Musicien Parmi Tant D Autres",
-      "url": "https://open.spotify.com/track/3Uo30HlnRjZRKW4EtlfPZH"
-    },
-    {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "Por Las Buenas",
         "url": "https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "One Last Breath (ATLiens Remix)",
         "url": "https://open.spotify.com/album/1UvilbdKcolkZtf24KYYDc"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/3ekLXHhFW8qI6FZDE6Xx9l"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "Fire Starter",
         "url": "https://open.spotify.com/album/04RhtkfQIWZqVKoxwmJwms"
@@ -233,55 +233,7 @@
       "url": "https://open.spotify.com/track/3YjfhJzOKPX2jL0gOJptBR"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
-      "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
-    },
-    {
-      "added_at": "2025-06-29 16:53:07",
-      "album": {
-        "name": "Some of Your Love",
-        "url": "https://open.spotify.com/album/0X4kEM5w7kBcQidTlGaG2B"
-      },
-      "artists": [
-        {
-          "name": "Sherman Sanderson",
-          "url": "https://open.spotify.com/artist/0YUd7IlcYVZgGk7ZvL01Nw"
-        }
-      ],
-      "duration_ms": 173754,
-      "name": "Some of Your Love",
-      "url": "https://open.spotify.com/track/1UAnuLOahHtdjttYXntIcJ"
-    },
-    {
-      "added_at": "2025-06-29 16:53:07",
-      "album": {
-        "name": "Touch Me Like a Gangster",
-        "url": "https://open.spotify.com/album/5lOPOloxHL7wP2Dp5Wyk2D"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 163930,
-      "name": "Touch Me Like a Gangster",
-      "url": "https://open.spotify.com/track/6fYcQVXEuqmyS3HqSZ6rTd"
-    },
-    {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "The Tinman",
         "url": "https://open.spotify.com/album/7rku7T7FvQIJM8bCABLamt"
@@ -297,7 +249,55 @@
       "url": "https://open.spotify.com/track/0BnKcWxMNGKCg68bSF7JPC"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
+      "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
+    },
+    {
+      "added_at": "2025-06-30 15:51:17",
+      "album": {
+        "name": "Touch Me Like a Gangster",
+        "url": "https://open.spotify.com/album/5lOPOloxHL7wP2Dp5Wyk2D"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 163930,
+      "name": "Touch Me Like a Gangster",
+      "url": "https://open.spotify.com/track/6fYcQVXEuqmyS3HqSZ6rTd"
+    },
+    {
+      "added_at": "2025-06-30 15:51:17",
+      "album": {
+        "name": "Some of Your Love",
+        "url": "https://open.spotify.com/album/0X4kEM5w7kBcQidTlGaG2B"
+      },
+      "artists": [
+        {
+          "name": "Sherman Sanderson",
+          "url": "https://open.spotify.com/artist/0YUd7IlcYVZgGk7ZvL01Nw"
+        }
+      ],
+      "duration_ms": 173754,
+      "name": "Some of Your Love",
+      "url": "https://open.spotify.com/track/1UAnuLOahHtdjttYXntIcJ"
+    },
+    {
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "Call It",
         "url": "https://open.spotify.com/album/1j7UI9cv7TYz0JMK7SoL8G"
@@ -313,39 +313,7 @@
       "url": "https://open.spotify.com/track/24pYjMBzUIpMrMirDjHCJb"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
-      "album": {
-        "name": "In The Air Tonight",
-        "url": "https://open.spotify.com/album/7xkqaOCcISWHE9qnyi46PK"
-      },
-      "artists": [
-        {
-          "name": "Sons of Legion",
-          "url": "https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "In The Air Tonight",
-      "url": "https://open.spotify.com/track/3D3DJLdJKgYiRq3izO5p0q"
-    },
-    {
-      "added_at": "2025-06-29 16:53:07",
-      "album": {
-        "name": "Sue me",
-        "url": "https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq"
-      },
-      "artists": [
-        {
-          "name": "Audrey Hobert",
-          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "Sue me",
-      "url": "https://open.spotify.com/track/6ah4mee54hPyycKICthl5B"
-    },
-    {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "Harmonium",
         "url": "https://open.spotify.com/album/0wbvHRp4VDYqLCV0jMmV9r"
@@ -361,7 +329,7 @@
       "url": "https://open.spotify.com/track/10pCXoG0FfFqk2ltikjuEf"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "Summer Lovers - EP",
         "url": "https://open.spotify.com/album/21lgsFYZeRulQ5lJRJD9QV"
@@ -381,7 +349,7 @@
       "url": "https://open.spotify.com/track/71WVaCgIEVbfTgL0iJt8c3"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "Harmonium",
         "url": "https://open.spotify.com/album/0wbvHRp4VDYqLCV0jMmV9r"
@@ -397,39 +365,39 @@
       "url": "https://open.spotify.com/track/7uwVFLKUuSBarwcjGDgimL"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
       "album": {
-        "name": "Midnight Life",
-        "url": "https://open.spotify.com/album/1mPhfNysAtHT6dvwm17IBR"
+        "name": "In The Air Tonight",
+        "url": "https://open.spotify.com/album/7xkqaOCcISWHE9qnyi46PK"
       },
       "artists": [
         {
-          "name": "White Panda",
-          "url": "https://open.spotify.com/artist/1mOUOvOOaoTF2b3kDjrety"
+          "name": "Sons of Legion",
+          "url": "https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW"
         }
       ],
-      "duration_ms": 234370,
-      "name": "Midnight Life",
-      "url": "https://open.spotify.com/track/7sMaxqeEIeEVCgn2JvIe2P"
+      "duration_ms": 222000,
+      "name": "In The Air Tonight",
+      "url": "https://open.spotify.com/track/3D3DJLdJKgYiRq3izO5p0q"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
       "album": {
-        "name": "Nice To Each Other",
-        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
+        "name": "Sue me",
+        "url": "https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "Audrey Hobert",
+          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Nice To Each Other",
-      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
+      "duration_ms": 170322,
+      "name": "Sue me",
+      "url": "https://open.spotify.com/track/6ah4mee54hPyycKICthl5B"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "GET NAKED",
         "url": "https://open.spotify.com/album/17aMf9YdX5Pdyt0RyfU3Jh"
@@ -445,43 +413,55 @@
       "url": "https://open.spotify.com/track/69TzPRfWMOoGywNFxNLCRJ"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
       "album": {
-        "name": "Vem Vem",
-        "url": "https://open.spotify.com/album/5fvUS8yHMCkTZj4sJ0FHDV"
+        "name": "Nice To Each Other",
+        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
       },
       "artists": [
         {
-          "name": "Jmilton",
-          "url": "https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz"
-        },
-        {
-          "name": "MC Xangai",
-          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 83183,
-      "name": "Vem Vem",
-      "url": "https://open.spotify.com/track/2FnkrCrbXJuebXxnVtXiHI"
+      "duration_ms": 209000,
+      "name": "Nice To Each Other",
+      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
       "album": {
-        "name": "Love, Maybe (A Business Proposal OST Special Track)",
-        "url": "https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk"
+        "name": "Midnight Life",
+        "url": "https://open.spotify.com/album/1mPhfNysAtHT6dvwm17IBR"
       },
       "artists": [
         {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+          "name": "White Panda",
+          "url": "https://open.spotify.com/artist/1mOUOvOOaoTF2b3kDjrety"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Love, Maybe",
-      "url": "https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q"
+      "duration_ms": 234370,
+      "name": "Midnight Life",
+      "url": "https://open.spotify.com/track/7sMaxqeEIeEVCgn2JvIe2P"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
+      "album": {
+        "name": "Les Cinq Saisons",
+        "url": "https://open.spotify.com/album/1o2UqbYkULKaLzkD5VUPlm"
+      },
+      "artists": [
+        {
+          "name": "Harmonium",
+          "url": "https://open.spotify.com/artist/1ms7U6RHK5ox13A37q5eDG"
+        }
+      ],
+      "duration_ms": 1032706,
+      "name": "Histoires Sans Paroles",
+      "url": "https://open.spotify.com/track/7M0vlHoh8HYkwoUOe7aZYS"
+    },
+    {
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "Shake It To The Max (FLY) (Remix)",
         "url": "https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs"
@@ -509,7 +489,59 @@
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
+      "album": {
+        "name": "Vem Vem",
+        "url": "https://open.spotify.com/album/5fvUS8yHMCkTZj4sJ0FHDV"
+      },
+      "artists": [
+        {
+          "name": "Jmilton",
+          "url": "https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz"
+        },
+        {
+          "name": "MC Xangai",
+          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
+        }
+      ],
+      "duration_ms": 83183,
+      "name": "Vem Vem",
+      "url": "https://open.spotify.com/track/2FnkrCrbXJuebXxnVtXiHI"
+    },
+    {
+      "added_at": "2025-06-30 15:51:17",
+      "album": {
+        "name": "Love, Maybe (A Business Proposal OST Special Track)",
+        "url": "https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Love, Maybe",
+      "url": "https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q"
+    },
+    {
+      "added_at": "2025-06-30 15:51:17",
+      "album": {
+        "name": "Les Cinq Saisons",
+        "url": "https://open.spotify.com/album/1o2UqbYkULKaLzkD5VUPlm"
+      },
+      "artists": [
+        {
+          "name": "Harmonium",
+          "url": "https://open.spotify.com/artist/1ms7U6RHK5ox13A37q5eDG"
+        }
+      ],
+      "duration_ms": 206840,
+      "name": "Dixie",
+      "url": "https://open.spotify.com/track/1rAD1fKpVTtdYFyvHVYNAe"
+    },
+    {
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "The Little Mess You Made",
         "url": "https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH"
@@ -533,39 +565,7 @@
       "url": "https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
-      "album": {
-        "name": "Hit Music Album Vol. 1 The Word Without You/The Moment of Goodbye",
-        "url": "https://open.spotify.com/album/5pLvtNN7EUW35oaBinPniJ"
-      },
-      "artists": [
-        {
-          "name": "Jokers",
-          "url": "https://open.spotify.com/artist/0RM1II8zWIoFb32PXO1RaR"
-        }
-      ],
-      "duration_ms": 223426,
-      "name": "Path",
-      "url": "https://open.spotify.com/track/1djEfgcgzTqLuCAB8Mau8K"
-    },
-    {
-      "added_at": "2025-06-29 16:53:07",
-      "album": {
-        "name": "Les Cinq Saisons",
-        "url": "https://open.spotify.com/album/1o2UqbYkULKaLzkD5VUPlm"
-      },
-      "artists": [
-        {
-          "name": "Harmonium",
-          "url": "https://open.spotify.com/artist/1ms7U6RHK5ox13A37q5eDG"
-        }
-      ],
-      "duration_ms": 1032706,
-      "name": "Histoires Sans Paroles",
-      "url": "https://open.spotify.com/track/7M0vlHoh8HYkwoUOe7aZYS"
-    },
-    {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/1VvSBbzq5aL6j0DlLEqSAb"
@@ -581,7 +581,23 @@
       "url": "https://open.spotify.com/track/7ExV30ZxBPF5nbFyx05gQ2"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
+      "album": {
+        "name": "Hit Music Album Vol. 1 The Word Without You/The Moment of Goodbye",
+        "url": "https://open.spotify.com/album/5pLvtNN7EUW35oaBinPniJ"
+      },
+      "artists": [
+        {
+          "name": "Jokers",
+          "url": "https://open.spotify.com/artist/0RM1II8zWIoFb32PXO1RaR"
+        }
+      ],
+      "duration_ms": 223426,
+      "name": "Path",
+      "url": "https://open.spotify.com/track/1djEfgcgzTqLuCAB8Mau8K"
+    },
+    {
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "DIA DEL\u00cdCIA",
         "url": "https://open.spotify.com/album/3bT53CJPMsSXSn0vDAX2Do"
@@ -605,75 +621,7 @@
       "url": "https://open.spotify.com/track/094IjHeVUviN4aBnSXYsuj"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
-      "album": {
-        "name": "Les Cinq Saisons",
-        "url": "https://open.spotify.com/album/1o2UqbYkULKaLzkD5VUPlm"
-      },
-      "artists": [
-        {
-          "name": "Harmonium",
-          "url": "https://open.spotify.com/artist/1ms7U6RHK5ox13A37q5eDG"
-        }
-      ],
-      "duration_ms": 206840,
-      "name": "Dixie",
-      "url": "https://open.spotify.com/track/1rAD1fKpVTtdYFyvHVYNAe"
-    },
-    {
-      "added_at": "2025-06-29 16:53:07",
-      "album": {
-        "name": "Sapphire",
-        "url": "https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 179082,
-      "name": "Sapphire",
-      "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
-    },
-    {
-      "added_at": "2025-06-29 16:53:07",
-      "album": {
-        "name": "Sippin Country (Remix)",
-        "url": "https://open.spotify.com/album/1xSq9k55EMUx1RqjdLJqGV"
-      },
-      "artists": [
-        {
-          "name": "Lil Man J",
-          "url": "https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H"
-        }
-      ],
-      "duration_ms": 159622,
-      "name": "Sippin Country",
-      "url": "https://open.spotify.com/track/2X6eXs557bjt2tSwc395TO"
-    },
-    {
-      "added_at": "2025-06-29 16:53:07",
-      "album": {
-        "name": "suburban daredevil",
-        "url": "https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK"
-      },
-      "artists": [
-        {
-          "name": "wifiskeleton",
-          "url": "https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62"
-        },
-        {
-          "name": "i wanna be a jack-o-lantern",
-          "url": "https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg"
-        }
-      ],
-      "duration_ms": 90067,
-      "name": "Nope your too late i already died",
-      "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
-    },
-    {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "Drunk Right Now (Na Na Na) with Akon",
         "url": "https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV"
@@ -693,7 +641,43 @@
       "url": "https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
+      "album": {
+        "name": "suburban daredevil",
+        "url": "https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK"
+      },
+      "artists": [
+        {
+          "name": "wifiskeleton",
+          "url": "https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62"
+        },
+        {
+          "name": "i wanna be a jack-o-lantern",
+          "url": "https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg"
+        }
+      ],
+      "duration_ms": 90067,
+      "name": "Nope your too late i already died",
+      "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
+    },
+    {
+      "added_at": "2025-06-30 15:51:17",
+      "album": {
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 179082,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
+    },
+    {
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "Ace Trumpets",
         "url": "https://open.spotify.com/album/5UpGXA1S5pwj2ZMC4sH97y"
@@ -717,55 +701,23 @@
       "url": "https://open.spotify.com/track/6gurRCQTLcBNkakApASMdi"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
       "album": {
-        "name": "Strange",
-        "url": "https://open.spotify.com/album/2PPMoGyQdkQGlBY4wu8ry1"
+        "name": "Sippin Country (Remix)",
+        "url": "https://open.spotify.com/album/1xSq9k55EMUx1RqjdLJqGV"
       },
       "artists": [
         {
-          "name": "Sons of Legion",
-          "url": "https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW"
+          "name": "Lil Man J",
+          "url": "https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H"
         }
       ],
-      "duration_ms": 231736,
-      "name": "Strange",
-      "url": "https://open.spotify.com/track/0G23HER8y4ZNzZkYRd2Hac"
+      "duration_ms": 159622,
+      "name": "Sippin Country",
+      "url": "https://open.spotify.com/track/2X6eXs557bjt2tSwc395TO"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
-      "album": {
-        "name": "Harmonium",
-        "url": "https://open.spotify.com/album/0wbvHRp4VDYqLCV0jMmV9r"
-      },
-      "artists": [
-        {
-          "name": "Harmonium",
-          "url": "https://open.spotify.com/artist/1ms7U6RHK5ox13A37q5eDG"
-        }
-      ],
-      "duration_ms": 344773,
-      "name": "Aujourd Hui Je Dis Bonjour A La Vie",
-      "url": "https://open.spotify.com/track/5QNAwm7zxpjJcFDrpyaGcQ"
-    },
-    {
-      "added_at": "2025-06-29 16:53:07",
-      "album": {
-        "name": "OUTLAW",
-        "url": "https://open.spotify.com/album/6UzSDkmjV0sfXP7syJGfmD"
-      },
-      "artists": [
-        {
-          "name": "Ryan Jesse",
-          "url": "https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl"
-        }
-      ],
-      "duration_ms": 146078,
-      "name": "OUTLAW",
-      "url": "https://open.spotify.com/track/7H9k2qlhg95k02ovBQnhf9"
-    },
-    {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "Bunna Summa (Ice Cream Summer Deluxe)",
         "url": "https://open.spotify.com/album/1PA3RT08KBO1fVcaxtlJPM"
@@ -781,7 +733,87 @@
       "url": "https://open.spotify.com/track/43FkWr8JNh12rKfXNBFR1H"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
+      "album": {
+        "name": "Harmonium",
+        "url": "https://open.spotify.com/album/0wbvHRp4VDYqLCV0jMmV9r"
+      },
+      "artists": [
+        {
+          "name": "Harmonium",
+          "url": "https://open.spotify.com/artist/1ms7U6RHK5ox13A37q5eDG"
+        }
+      ],
+      "duration_ms": 344773,
+      "name": "Aujourd Hui Je Dis Bonjour A La Vie",
+      "url": "https://open.spotify.com/track/5QNAwm7zxpjJcFDrpyaGcQ"
+    },
+    {
+      "added_at": "2025-06-30 15:51:17",
+      "album": {
+        "name": "Strange",
+        "url": "https://open.spotify.com/album/2PPMoGyQdkQGlBY4wu8ry1"
+      },
+      "artists": [
+        {
+          "name": "Sons of Legion",
+          "url": "https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW"
+        }
+      ],
+      "duration_ms": 231736,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/0G23HER8y4ZNzZkYRd2Hac"
+    },
+    {
+      "added_at": "2025-06-30 15:51:17",
+      "album": {
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 149666,
+      "name": "Illegal",
+      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
+    },
+    {
+      "added_at": "2025-06-30 15:51:17",
+      "album": {
+        "name": "OUTLAW",
+        "url": "https://open.spotify.com/album/6UzSDkmjV0sfXP7syJGfmD"
+      },
+      "artists": [
+        {
+          "name": "Ryan Jesse",
+          "url": "https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl"
+        }
+      ],
+      "duration_ms": 146078,
+      "name": "OUTLAW",
+      "url": "https://open.spotify.com/track/7H9k2qlhg95k02ovBQnhf9"
+    },
+    {
+      "added_at": "2025-06-30 15:51:17",
+      "album": {
+        "name": "One Of Them",
+        "url": "https://open.spotify.com/album/6TzgT7RMTJKpclQ7awIjru"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "duration_ms": 171772,
+      "name": "One Of Them",
+      "url": "https://open.spotify.com/track/0I0P8FFXCndrwK1wBDo2bB"
+    },
+    {
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "Dior (feat. Chrystal)",
         "url": "https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb"
@@ -801,55 +833,7 @@
       "url": "https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
-      "album": {
-        "name": "HALLELUJAH",
-        "url": "https://open.spotify.com/album/3AVb7KzXBlB3eEeracWO8Z"
-      },
-      "artists": [
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
-        }
-      ],
-      "duration_ms": 138216,
-      "name": "HALLELUJAH",
-      "url": "https://open.spotify.com/track/2l6UQIQwYpRF0GMfzyB2Xs"
-    },
-    {
-      "added_at": "2025-06-29 16:53:07",
-      "album": {
-        "name": "One Of Them",
-        "url": "https://open.spotify.com/album/6TzgT7RMTJKpclQ7awIjru"
-      },
-      "artists": [
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        }
-      ],
-      "duration_ms": 171772,
-      "name": "One Of Them",
-      "url": "https://open.spotify.com/track/0I0P8FFXCndrwK1wBDo2bB"
-    },
-    {
-      "added_at": "2025-06-29 16:53:07",
-      "album": {
-        "name": "Fancy That",
-        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 149666,
-      "name": "Illegal",
-      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
-    },
-    {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "School's Out",
         "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
@@ -865,7 +849,7 @@
       "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
     },
     {
-      "added_at": "2025-06-29 16:53:07",
+      "added_at": "2025-06-30 15:51:17",
       "album": {
         "name": "Les Cinq Saisons",
         "url": "https://open.spotify.com/album/1o2UqbYkULKaLzkD5VUPlm"
@@ -879,6 +863,26 @@
       "duration_ms": 334960,
       "name": "Vert",
       "url": "https://open.spotify.com/track/3ShBximKFwLICFltMAcRUT"
+    },
+    {
+      "added_at": "2025-06-30 15:51:17",
+      "album": {
+        "name": "Pick Up The Phone",
+        "url": "https://open.spotify.com/album/1vaUC7CZtnJjaMWUbdzIN5"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
+        }
+      ],
+      "duration_ms": 211510,
+      "name": "Pick Up The Phone",
+      "url": "https://open.spotify.com/track/1bcZHf64xOalMif12Fy7jc"
     }
   ],
   "unique_name": "Viral 50 - Canada",

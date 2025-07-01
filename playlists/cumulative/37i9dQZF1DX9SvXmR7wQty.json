@@ -32237,6 +32237,28 @@
     },
     {
       "album": {
+        "name": "Alba",
+        "url": "https://open.spotify.com/album/63jS0Pw5PqB2xXHJVvwTFl"
+      },
+      "artists": [
+        {
+          "name": "Bekar",
+          "url": "https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC"
+        },
+        {
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160353,
+      "name": "Laponie",
+      "url": "https://open.spotify.com/track/16PdkWi7CVsCuFcRbERudr"
+    },
+    {
+      "album": {
         "name": "La m\u00e9lodie, le fleuve et la nuit",
         "url": "https://open.spotify.com/album/7vCyRrsIaeLmbd8jcudLbG"
       },
@@ -38036,7 +38058,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 110413,
       "name": "Manuel de vengeance",
       "url": "https://open.spotify.com/track/3oxycEp5wpp5O0l6Q4gROh"
@@ -50925,6 +50947,24 @@
     },
     {
       "album": {
+        "name": "Coeur maladroit",
+        "url": "https://open.spotify.com/album/0xHoPDymexPOYSzzkk7xUJ"
+      },
+      "artists": [
+        {
+          "name": "Marine",
+          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186506,
+      "name": "Restes d'averses",
+      "url": "https://open.spotify.com/track/1PZrVhxFJet31mkr10HmHx"
+    },
+    {
+      "album": {
         "name": "Retomber en enfance",
         "url": "https://open.spotify.com/album/69620kTev3MkqvyN92vsCQ"
       },
@@ -63468,7 +63508,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-01",
       "duration_ms": 166153,
       "name": "WANTA",
       "url": "https://open.spotify.com/track/4o5T3A2O4k9bF6CMOr7DaN"

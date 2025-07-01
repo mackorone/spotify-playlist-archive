@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of the best new music by Experimental independent artists and labels\. <a href="spotify:artist:4EHUvmDJ3eLI7PhYyTe66f">Amanda Mur</a> on cover\. Artwork by Thami Nabil
 
-2,058 songs - 6 day 16 hr 25 min
+2,059 songs - 6 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -569,7 +569,7 @@
 | [Escape Cape](https://open.spotify.com/track/0UAbqQRMrMVXR9lPcpWS7w) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Escape Cape](https://open.spotify.com/album/4AlhGQZ7T7U1NuwUXGGyI0) | 4:25 | 2022-01-12 | 2022-03-21 |
 | [Et quart](https://open.spotify.com/track/0qDsMkTla75n5Drd78ERc5) | [Simone Provencher](https://open.spotify.com/artist/1irk8yesuKyeCxWRrhbHxw) | [Et quart](https://open.spotify.com/album/7A2EPBRqLNWRT02uLFj7Hv) | 2:35 | 2021-03-17 | 2021-03-23 |
 | [Eternal Whisper](https://open.spotify.com/track/5s0F9AmiXVvzqMpFP4XaTI) | [C O N T X T](https://open.spotify.com/artist/0HCS1dsUZDmjB8lSAMaYjW) | [Lone Memory](https://open.spotify.com/album/6g6FwKH02JkWomYFdVZnno) | 4:39 | 2023-05-17 | 2023-08-31 |
-| [Ethos](https://open.spotify.com/track/4olzx0OYnHcaN9wv3OqeYE) | [Anna Bielli](https://open.spotify.com/artist/4ZgUYtmvFXJHo55dH5clmo), [Silvia Olivier](https://open.spotify.com/artist/3v2jSQQAGfj0oiFW7V4Anv) | [Ethos](https://open.spotify.com/album/2KjLTXmmnuc32xO2X0N68y) | 3:00 | 2025-05-07 |  |
+| [Ethos](https://open.spotify.com/track/4olzx0OYnHcaN9wv3OqeYE) | [Anna Bielli](https://open.spotify.com/artist/4ZgUYtmvFXJHo55dH5clmo), [Silvia Olivier](https://open.spotify.com/artist/3v2jSQQAGfj0oiFW7V4Anv) | [Ethos](https://open.spotify.com/album/2KjLTXmmnuc32xO2X0N68y) | 3:00 | 2025-05-07 | 2025-07-01 |
 | [Ett visst fängelse](https://open.spotify.com/track/40qQK6EwccUHakM0Cdn2uQ) | [VED](https://open.spotify.com/artist/2gJZDY6Eow1T1T4Cb9cVYm) | [Ett visst fängelse](https://open.spotify.com/album/3mOCn0GyjEJBVfp9MyM1BP) | 4:37 | 2021-04-15 | 2021-06-24 |
 | [Eurybia](https://open.spotify.com/track/507fLAOWKOut8biyt9mGyX) | [Francesca Heart](https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT) | [Eurybia](https://open.spotify.com/album/5e1pTFakXmZhCi18qt3IBm) | 6:02 | 2022-05-18 | 2022-08-04 |
 | [Eve](https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf) | [Floatleaf](https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r) | [Eve](https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe) | 3:00 | 2022-08-24 | 2022-10-05 |
@@ -1635,6 +1635,7 @@
 | [Sugi](https://open.spotify.com/track/7hRCR3RepAA1LEK0iJfRoS) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Repair Techniques](https://open.spotify.com/album/43Ut1iwUFTz52uVQPh8BIJ) | 3:52 | 2021-08-19 | 2021-08-26 |
 | [Suisei, Pt\. 3](https://open.spotify.com/track/6rKPBKOjmKeNK1KoEQmaYW) | [Yui Onodera](https://open.spotify.com/artist/7mCcHxpwKyDj2aJZNGZP7e) | [Suisei](https://open.spotify.com/album/4mYC2PPgfC8iDQIZEJBkKO) | 9:13 | 2021-08-05 | 2021-11-07 |
 | [Sulfate](https://open.spotify.com/track/0uhnXN1UiliphsVAcWKeCt) | [RIBBON STAGE](https://open.spotify.com/artist/4f7oDcY7sHQ69tiuRomYRZ) | [Hit With The Most](https://open.spotify.com/album/6xvzHDDnTzOROoE140BSbE) | 1:45 | 2024-01-10 | 2024-04-04 |
+| [Summer Rain \- Keep on Dancing Rework](https://open.spotify.com/track/6RlCY03rdTbNWon5HNCBkq) | [Le Parody](https://open.spotify.com/artist/7ls2WeFdaXVNgCq5zWKDjF) | [Summer Rain \(Keep on Dancing Rework\)](https://open.spotify.com/album/4LriIWQ4kyswqYNH54IPyW) | 4:31 | 2025-06-25 |  |
 | [Summer Session \#2](https://open.spotify.com/track/3s4cyKx2GqEcBNWzchZcKG) | [Infinite River](https://open.spotify.com/artist/5Pmm6i4hOWqqm2oVM90VAm) | [Space Mirror](https://open.spotify.com/album/3HJEBCujpDy35mS7P5erJY) | 4:57 | 2023-08-23 | 2023-11-16 |
 | [Summer Session \#3](https://open.spotify.com/track/1pnhHHes46zmwyrMY5VoUm) | [Infinite River](https://open.spotify.com/artist/5Pmm6i4hOWqqm2oVM90VAm) | [Space Mirror](https://open.spotify.com/album/3HJEBCujpDy35mS7P5erJY) | 6:20 | 2023-08-30 | 2023-11-16 |
 | [Summertime](https://open.spotify.com/track/65TjeQLUS1Jdl2jrrFgqte) | [Gloomer](https://open.spotify.com/artist/4SifZryJ3Vo6oijPAWTYas) | [Summertime](https://open.spotify.com/album/0WPaO0Qfdz8L3jJ7Dq7REg) | 2:12 | 2024-07-17 | 2024-09-12 |

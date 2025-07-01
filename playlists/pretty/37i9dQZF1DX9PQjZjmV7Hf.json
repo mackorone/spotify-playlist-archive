@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 57056,
+  "num_followers": 57069,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "Backdoor",
+        "url": "https://open.spotify.com/album/5PSCPhiCCm6eL1URdzagzf"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Backdoor",
+      "url": "https://open.spotify.com/track/1MUsTqcuOaBeMnEL73K4fS"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "PARTYPACK",
         "url": "https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 171970,
       "name": "CANDY (feat. Nipsey Hussle)",
       "url": "https://open.spotify.com/track/5Bas7y9Uy1Ce7e3vqngqVF"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "Backdoor",
-        "url": "https://open.spotify.com/album/5PSCPhiCCm6eL1URdzagzf"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Backdoor",
-      "url": "https://open.spotify.com/track/1MUsTqcuOaBeMnEL73K4fS"
     },
     {
       "added_at": "2022-10-01 20:14:07",

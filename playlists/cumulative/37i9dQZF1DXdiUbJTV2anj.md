@@ -4,7 +4,7 @@
 
 > bands and tracks on the rise in heavy music\. Cover: Royale Lynn
 
-275 songs - 16 hr 0 min
+276 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [I'm the Water](https://open.spotify.com/track/19LZ0uat4YWx0EE9ezlOE9) | [Indigo Storm](https://open.spotify.com/artist/0jwtY9QnEopkK4nI9McYDk) | [I'm the Water](https://open.spotify.com/album/6IQJUqVhJX9Bb30tjCu4L7) | 3:47 | 2022-07-29 | 2022-09-10 |
 | [Impeccable](https://open.spotify.com/track/65qyyKqxQZ41tQ0VRj1RYA) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Impeccable](https://open.spotify.com/album/0UKU5bU3U1O1Vin4SkRhse) | 4:42 | 2025-06-06 |  |
 | [Imposter Syndrome](https://open.spotify.com/track/36fPtq8jWJtNKsYC71Hmjz) | [Neon Graves](https://open.spotify.com/artist/0p3c6u5PBPVsrl2UhZexDx) | [Imposter Syndrome](https://open.spotify.com/album/5aWPk94JZoe4ALrAmczFVg) | 2:01 | 2022-07-29 | 2022-10-29 |
-| [In the Name of War](https://open.spotify.com/track/3fC5DH3Pu3DzCHlgtBUZVd) | [Whom Gods Destroy](https://open.spotify.com/artist/6CPRNvNZxQq4thYYQVijUH) | [Insanium](https://open.spotify.com/album/4BZUFFuZsZ5F4prX6GWOxv) | 6:38 | 2024-07-15 |  |
+| [In the Name of War](https://open.spotify.com/track/3fC5DH3Pu3DzCHlgtBUZVd) | [Whom Gods Destroy](https://open.spotify.com/artist/6CPRNvNZxQq4thYYQVijUH) | [Insanium](https://open.spotify.com/album/4BZUFFuZsZ5F4prX6GWOxv) | 6:38 | 2024-07-15 | 2025-07-01 |
 | [In the shadow of your former self.](https://open.spotify.com/track/7icAw1EcEfXRpOxkhB3HZw) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [In the shadow of your former self.](https://open.spotify.com/album/2L3ASLYdsXsrombwNJVyAG) | 4:21 | 2023-05-18 | 2024-07-16 |
 | [In the Way](https://open.spotify.com/track/4EixKLBcPtkqDGk2Z3zUAv) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [In the Way](https://open.spotify.com/album/0OQPHI8H2ET6FkX69ioanM) | 3:22 | 2022-07-29 | 2022-09-10 |
 | [Ingsoc](https://open.spotify.com/track/3wXtzHfLRfz3fFkveuboPf) | [Burner](https://open.spotify.com/artist/7Amw4gNz7nLq7140PFhtuk) | [A Vision Of The End](https://open.spotify.com/album/1jRJTS1dobAT283CzlHHjh) | 3:14 | 2022-08-19 | 2022-12-24 |
@@ -211,6 +211,7 @@
 | [Stardust](https://open.spotify.com/track/4ABR3zMxUzZMWFbHaf1SIq) | [Designer Disguise](https://open.spotify.com/artist/6CIDG937dHbankZzK4IlYu) | [Elswaer](https://open.spotify.com/album/77q6P32TVr7jjBxRzCfeDA) | 3:37 | 2023-01-20 | 2024-07-16 |
 | [START AGAIN](https://open.spotify.com/track/4XLk8KXgCCnXf5cCXnAyUh) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [START AGAIN](https://open.spotify.com/album/2blJUAX8ujjwOHR657iEXP) | 2:43 | 2023-05-18 | 2024-07-16 |
 | [Static Abyss](https://open.spotify.com/track/7uovzMDpYCrhVd9EtXWDHQ) | [Nicolas Cage Fighter](https://open.spotify.com/artist/4JkTiXry8oQXwcOmEdqAPl) | [The Bones That Grew from Pain](https://open.spotify.com/album/7GzN1P1QFtMNIp3p6ZQEFe) | 3:47 | 2022-07-29 | 2023-01-06 |
+| [Stay](https://open.spotify.com/track/6cYbYWZWXWeANCn5V7ZIqS) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Stay](https://open.spotify.com/album/5jfIWCColjrn9NAfEFCbHu) | 2:27 | 2025-06-30 |  |
 | [Still Sinking](https://open.spotify.com/track/2HwEi11MYPuQY1rXBrUb7n) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [Inside My Head](https://open.spotify.com/album/5WItXKjIqfNPLL6yZEgxEk) | 3:44 | 2022-09-09 | 2023-03-03 |
 | [Still Waiting](https://open.spotify.com/track/5L6GZ6mFm4q0ZM4hhE8JJt) | [We're Wolves](https://open.spotify.com/artist/73hZY77xQYtJsTrslIzy7v) | [Still Waiting](https://open.spotify.com/album/7MnKb71wfwCK6QNVQdefI9) | 2:40 | 2022-08-19 | 2023-03-03 |
 | [Stillpoint](https://open.spotify.com/track/7e7MSmuu0opQe214jZFuix) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT), [Never Ending Game](https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp) | [Stillpoint](https://open.spotify.com/album/6HYN0mvt1KfBvMOPJc0DlN) | 3:37 | 2024-07-15 | 2025-06-07 |

@@ -1,6 +1,6 @@
 {
   "description": "All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: Isreal Houghton",
-  "num_followers": 22957,
+  "num_followers": 23022,
   "original_name": "Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2025-05-31 05:32:30",
       "album": {
+        "name": "The Hill",
+        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "Intentional",
+      "url": "https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l"
+    },
+    {
+      "added_at": "2025-05-31 05:32:30",
+      "album": {
         "name": "Best Days",
         "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 287573,
       "name": "Take Me to the King (feat. Kirk Franklin)",
       "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
-    },
-    {
-      "added_at": "2025-05-31 05:32:30",
-      "album": {
-        "name": "The Hill",
-        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "Intentional",
-      "url": "https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l"
     },
     {
       "added_at": "2025-05-31 05:32:30",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-05-31 05:32:30",
       "album": {
-        "name": "I Just Want You",
-        "url": "https://open.spotify.com/album/63fXLki4JEgJ099NHRBpzf"
-      },
-      "artists": [
-        {
-          "name": "Vicki Yohe",
-          "url": "https://open.spotify.com/artist/2ePc8jGwsMZtgQemYDJLY7"
-        }
-      ],
-      "duration_ms": 318560,
-      "name": "Because Of Who You Are",
-      "url": "https://open.spotify.com/track/25rVj3vBLwE6Fo8C8NFSwb"
-    },
-    {
-      "added_at": "2025-05-31 05:32:30",
-      "album": {
         "name": "The Hill",
         "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 591333,
       "name": "Made A Way",
       "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
+    },
+    {
+      "added_at": "2025-05-31 05:32:30",
+      "album": {
+        "name": "I Just Want You",
+        "url": "https://open.spotify.com/album/63fXLki4JEgJ099NHRBpzf"
+      },
+      "artists": [
+        {
+          "name": "Vicki Yohe",
+          "url": "https://open.spotify.com/artist/2ePc8jGwsMZtgQemYDJLY7"
+        }
+      ],
+      "duration_ms": 318560,
+      "name": "Because Of Who You Are",
+      "url": "https://open.spotify.com/track/25rVj3vBLwE6Fo8C8NFSwb"
     },
     {
       "added_at": "2025-05-31 05:32:30",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-05-31 05:32:30",
       "album": {
-        "name": "Marvin L. Winans Presents: The Praise & Worship Experience",
-        "url": "https://open.spotify.com/album/1ozNUUriplzs0TWgflNey5"
-      },
-      "artists": [
-        {
-          "name": "Marvin Winans",
-          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
-        }
-      ],
-      "duration_ms": 385985,
-      "name": "Draw Me Close/Thy Will Be Done",
-      "url": "https://open.spotify.com/track/6nwCQqMyCjeYVtByOtkZq1"
-    },
-    {
-      "added_at": "2025-05-31 05:32:30",
-      "album": {
         "name": "I Need You Now",
         "url": "https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 251466,
       "name": "I Need You Now",
       "url": "https://open.spotify.com/track/44q2DhInsQYJ8X1q2H1RNj"
+    },
+    {
+      "added_at": "2025-05-31 05:32:30",
+      "album": {
+        "name": "Marvin L. Winans Presents: The Praise & Worship Experience",
+        "url": "https://open.spotify.com/album/1ozNUUriplzs0TWgflNey5"
+      },
+      "artists": [
+        {
+          "name": "Marvin Winans",
+          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
+        }
+      ],
+      "duration_ms": 385985,
+      "name": "Draw Me Close/Thy Will Be Done",
+      "url": "https://open.spotify.com/track/6nwCQqMyCjeYVtByOtkZq1"
     },
     {
       "added_at": "2025-05-31 05:32:30",
@@ -979,26 +979,6 @@
     {
       "added_at": "2025-05-31 05:32:30",
       "album": {
-        "name": "The Essential Hezekiah Walker",
-        "url": "https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg"
-      },
-      "artists": [
-        {
-          "name": "Hezekiah Walker",
-          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
-        },
-        {
-          "name": "Love Fellowship Choir",
-          "url": "https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6"
-        }
-      ],
-      "duration_ms": 451080,
-      "name": "I Need You To Survive",
-      "url": "https://open.spotify.com/track/1S3YUQ2QayTWO78iY3farE"
-    },
-    {
-      "added_at": "2025-05-31 05:32:30",
-      "album": {
         "name": "Go Get It",
         "url": "https://open.spotify.com/album/20bME4IGNpUBm1Rk3TzuP9"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 192680,
       "name": "God in Me (feat. Kierra Sheard)",
       "url": "https://open.spotify.com/track/1ZxwWrMNukjS8sb9TZ0HjU"
+    },
+    {
+      "added_at": "2025-05-31 05:32:30",
+      "album": {
+        "name": "The Essential Hezekiah Walker",
+        "url": "https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg"
+      },
+      "artists": [
+        {
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+        },
+        {
+          "name": "Love Fellowship Choir",
+          "url": "https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6"
+        }
+      ],
+      "duration_ms": 451080,
+      "name": "I Need You To Survive",
+      "url": "https://open.spotify.com/track/1S3YUQ2QayTWO78iY3farE"
     },
     {
       "added_at": "2025-05-31 05:32:30",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2025-05-31 05:32:30",
       "album": {
+        "name": "Triumphant",
+        "url": "https://open.spotify.com/album/2WV2VbUUUSVRbjONFfWz1Y"
+      },
+      "artists": [
+        {
+          "name": "VaShawn Mitchell",
+          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
+        }
+      ],
+      "duration_ms": 369160,
+      "name": "Nobody Greater",
+      "url": "https://open.spotify.com/track/0njT9NV9xsV4hLkgZ8yOUD"
+    },
+    {
+      "added_at": "2025-05-31 05:32:30",
+      "album": {
         "name": "God Favored Me (Extended Version) (feat. Marvin Sapp & DJ Rogers)",
         "url": "https://open.spotify.com/album/3g67zxOlotE0cXkLpvnnNV"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 474066,
       "name": "God Favored Me (Extended Version) (feat. Marvin Sapp & DJ Rogers)",
       "url": "https://open.spotify.com/track/0otge6MnYrkqDVUCygofw1"
-    },
-    {
-      "added_at": "2025-05-31 05:32:30",
-      "album": {
-        "name": "Triumphant",
-        "url": "https://open.spotify.com/album/2WV2VbUUUSVRbjONFfWz1Y"
-      },
-      "artists": [
-        {
-          "name": "VaShawn Mitchell",
-          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
-        }
-      ],
-      "duration_ms": 369160,
-      "name": "Nobody Greater",
-      "url": "https://open.spotify.com/track/0njT9NV9xsV4hLkgZ8yOUD"
     },
     {
       "added_at": "2025-05-31 05:32:30",
@@ -1227,26 +1227,18 @@
     {
       "added_at": "2025-05-31 05:32:30",
       "album": {
-        "name": "Goshen",
-        "url": "https://open.spotify.com/album/5I7ZELo8C7inVlMqfW7U1e"
+        "name": "V2...",
+        "url": "https://open.spotify.com/album/17sHeVMLvbVPeKaTk3WQlY"
       },
       "artists": [
         {
-          "name": "Donald Lawrence",
-          "url": "https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l"
-        },
-        {
-          "name": "The Tri-City Singers",
-          "url": "https://open.spotify.com/artist/0kU5fC7WVwJlfd1eNj9cMn"
-        },
-        {
-          "name": "Le'Andria Johnson",
-          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
+          "name": "J Moss",
+          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
         }
       ],
-      "duration_ms": 344325,
-      "name": "Deliver Me (This Is My Exodus) (feat. Le'Andria Johnson)",
-      "url": "https://open.spotify.com/track/4pc1Tfi0bguzV4LgA3nSSi"
+      "duration_ms": 223666,
+      "name": "Praise on the Inside",
+      "url": "https://open.spotify.com/track/3GN2Y6iwlw1M7fhMHl60PI"
     },
     {
       "added_at": "2025-05-31 05:32:30",
@@ -1267,18 +1259,26 @@
     {
       "added_at": "2025-05-31 05:32:30",
       "album": {
-        "name": "V2...",
-        "url": "https://open.spotify.com/album/17sHeVMLvbVPeKaTk3WQlY"
+        "name": "Goshen",
+        "url": "https://open.spotify.com/album/5I7ZELo8C7inVlMqfW7U1e"
       },
       "artists": [
         {
-          "name": "J Moss",
-          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
+          "name": "Donald Lawrence",
+          "url": "https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l"
+        },
+        {
+          "name": "The Tri-City Singers",
+          "url": "https://open.spotify.com/artist/0kU5fC7WVwJlfd1eNj9cMn"
+        },
+        {
+          "name": "Le'Andria Johnson",
+          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
         }
       ],
-      "duration_ms": 223666,
-      "name": "Praise on the Inside",
-      "url": "https://open.spotify.com/track/3GN2Y6iwlw1M7fhMHl60PI"
+      "duration_ms": 344325,
+      "name": "Deliver Me (This Is My Exodus) (feat. Le'Andria Johnson)",
+      "url": "https://open.spotify.com/track/4pc1Tfi0bguzV4LgA3nSSi"
     },
     {
       "added_at": "2025-05-31 05:32:30",
@@ -1315,6 +1315,22 @@
       "duration_ms": 450920,
       "name": "Jesus Be a Fence Around Me (Live)",
       "url": "https://open.spotify.com/track/55XwQUPN08JYyxvULNPUk7"
+    },
+    {
+      "added_at": "2025-05-31 05:32:30",
+      "album": {
+        "name": "On Time God",
+        "url": "https://open.spotify.com/album/0dxumKdj4uqdUsJCivUuTv"
+      },
+      "artists": [
+        {
+          "name": "Dottie Peoples & The Peoples Choice Chorale",
+          "url": "https://open.spotify.com/artist/1NqEdHZu5o9r4I37uGUNHI"
+        }
+      ],
+      "duration_ms": 352160,
+      "name": "He's An On Time God",
+      "url": "https://open.spotify.com/track/0FeRIc9264zC1Uo9PdZVf3"
     },
     {
       "added_at": "2025-05-31 05:32:30",
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2025-05-31 05:32:30",
       "album": {
-        "name": "On Time God",
-        "url": "https://open.spotify.com/album/0dxumKdj4uqdUsJCivUuTv"
-      },
-      "artists": [
-        {
-          "name": "Dottie Peoples & The Peoples Choice Chorale",
-          "url": "https://open.spotify.com/artist/1NqEdHZu5o9r4I37uGUNHI"
-        }
-      ],
-      "duration_ms": 352160,
-      "name": "He's An On Time God",
-      "url": "https://open.spotify.com/track/0FeRIc9264zC1Uo9PdZVf3"
-    },
-    {
-      "added_at": "2025-05-31 05:32:30",
-      "album": {
         "name": "Alone But Not Alone",
         "url": "https://open.spotify.com/album/7MRDIQVnFbhULpA3Blil6t"
       },
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-05-31 05:32:30",
       "album": {
-        "name": "One Church",
-        "url": "https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok"
-      },
-      "artists": [
-        {
-          "name": "Kurt Carr",
-          "url": "https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH"
-        }
-      ],
-      "duration_ms": 301533,
-      "name": "God Blocked It",
-      "url": "https://open.spotify.com/track/2NFqytYqfUblGvXucjvG6F"
-    },
-    {
-      "added_at": "2025-05-31 05:32:30",
-      "album": {
         "name": "Victory Live",
         "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 249880,
       "name": "Victory - Live",
       "url": "https://open.spotify.com/track/7olcSsRz6L8Tl4TmjOwxTu"
+    },
+    {
+      "added_at": "2025-05-31 05:32:30",
+      "album": {
+        "name": "One Church",
+        "url": "https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok"
+      },
+      "artists": [
+        {
+          "name": "Kurt Carr",
+          "url": "https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH"
+        }
+      ],
+      "duration_ms": 301533,
+      "name": "God Blocked It",
+      "url": "https://open.spotify.com/track/2NFqytYqfUblGvXucjvG6F"
     },
     {
       "added_at": "2025-05-31 05:32:30",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-05-31 05:32:30",
       "album": {
-        "name": "Gaither Homecoming Classics Vol.1",
-        "url": "https://open.spotify.com/album/3xjEEUAUUrcGADtLnfrQwT"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 118533,
-      "name": "The Blood Will Never Lose Its Power - Live",
-      "url": "https://open.spotify.com/track/698O3Z86WEausqCHlq5rMA"
-    },
-    {
-      "added_at": "2025-05-31 05:32:30",
-      "album": {
         "name": "He Lives",
         "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
       },
@@ -1639,6 +1623,58 @@
       "duration_ms": 258373,
       "name": "You Brought The Sunshine - Live",
       "url": "https://open.spotify.com/track/2yK4879j9Q1XnJio6ETqJV"
+    },
+    {
+      "added_at": "2025-05-31 05:32:30",
+      "album": {
+        "name": "Gaither Homecoming Classics Vol.1",
+        "url": "https://open.spotify.com/album/3xjEEUAUUrcGADtLnfrQwT"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 118533,
+      "name": "The Blood Will Never Lose Its Power - Live",
+      "url": "https://open.spotify.com/track/698O3Z86WEausqCHlq5rMA"
+    },
+    {
+      "added_at": "2025-05-31 05:32:30",
+      "album": {
+        "name": "The Live Experience",
+        "url": "https://open.spotify.com/album/3bYzNdEtcXBNA2cgTVrbDe"
+      },
+      "artists": [
+        {
+          "name": "The Rance Allen Group",
+          "url": "https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g"
+        }
+      ],
+      "duration_ms": 613400,
+      "name": "Something About the Name Jesus",
+      "url": "https://open.spotify.com/track/2pfPbJ8MSk7eCqiMst4vMC"
+    },
+    {
+      "added_at": "2025-05-31 05:32:30",
+      "album": {
+        "name": "Souled Out",
+        "url": "https://open.spotify.com/album/36ZKkdsXITImTQwjRwNDhr"
+      },
+      "artists": [
+        {
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+        },
+        {
+          "name": "Love Fellowship Choir",
+          "url": "https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6"
+        }
+      ],
+      "duration_ms": 234293,
+      "name": "Souled Out",
+      "url": "https://open.spotify.com/track/1Wedx2PUcry2oJU8rUTsTe"
     },
     {
       "added_at": "2025-05-31 05:32:30",
@@ -1675,42 +1711,6 @@
       "duration_ms": 357213,
       "name": "How Great Is Our God",
       "url": "https://open.spotify.com/track/5xfXawPA7zHr4OvadVfj4h"
-    },
-    {
-      "added_at": "2025-05-31 05:32:30",
-      "album": {
-        "name": "Souled Out",
-        "url": "https://open.spotify.com/album/36ZKkdsXITImTQwjRwNDhr"
-      },
-      "artists": [
-        {
-          "name": "Hezekiah Walker",
-          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
-        },
-        {
-          "name": "Love Fellowship Choir",
-          "url": "https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6"
-        }
-      ],
-      "duration_ms": 234293,
-      "name": "Souled Out",
-      "url": "https://open.spotify.com/track/1Wedx2PUcry2oJU8rUTsTe"
-    },
-    {
-      "added_at": "2025-05-31 05:32:30",
-      "album": {
-        "name": "The Live Experience",
-        "url": "https://open.spotify.com/album/3bYzNdEtcXBNA2cgTVrbDe"
-      },
-      "artists": [
-        {
-          "name": "The Rance Allen Group",
-          "url": "https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g"
-        }
-      ],
-      "duration_ms": 613400,
-      "name": "Something About the Name Jesus",
-      "url": "https://open.spotify.com/track/2pfPbJ8MSk7eCqiMst4vMC"
     },
     {
       "added_at": "2025-05-31 05:32:30",

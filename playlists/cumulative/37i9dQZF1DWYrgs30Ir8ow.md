@@ -4,7 +4,7 @@
 
 > Altijd frisse hits! Cover: Dopebwoy & Russ Millions
 
-1,008 songs - 2 day 1 hr 4 min
+1,009 songs - 2 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [Hoog Staan](https://open.spotify.com/track/7cmPD7aD3RHEOnYTlE2mX3) | [Yurmaine](https://open.spotify.com/artist/7LK9Y1esYppZ5ag5BFWooi), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Hoog Staan](https://open.spotify.com/album/084kEsnvRcomeA5aNj7VLP) | 2:48 | 2024-02-05 | 2024-02-23 |
 | [Hoop Dat Jij Me Mist](https://open.spotify.com/track/0cQQnKPMD3ZgfGapcgO4cv) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Hoop Dat Jij Me Mist](https://open.spotify.com/album/5gSRTpBHgyTkZf2o7podFj) | 2:45 | 2024-05-09 | 2024-07-12 |
 | [Hoop Verloren](https://open.spotify.com/track/33qbGO8PSqyUsQI3VSq5oV) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Hoop Verloren](https://open.spotify.com/album/4CDvz3bGQa7BAHlvbJcMHs) | 2:56 | 2025-02-06 | 2025-03-28 |
+| [hopi amor](https://open.spotify.com/track/0l5e9jvV40WXQFn5adOuSM) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [hopi amor](https://open.spotify.com/album/36rLxateZqIxhnM5hPgHMu) | 2:30 | 2025-06-30 |  |
 | [Hot Honey](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Hot Honey](https://open.spotify.com/album/2OB4KiVHmAuD7CGpMmiqC5) | 2:47 | 2024-08-01 | 2024-10-04 |
 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 | 2024-10-17 | 2024-11-15 |
 | [HOT UPTOWN \(feat\. Drake\)](https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 2:30 | 2024-07-04 | 2024-09-20 |

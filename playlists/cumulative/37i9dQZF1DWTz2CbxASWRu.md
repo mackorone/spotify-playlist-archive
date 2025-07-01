@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-579 songs - 1 day 18 hr 37 min
+580 songs - 1 day 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Amanheceu](https://open.spotify.com/track/6SZpFJEjMzptYIuj2IQC1M) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Ruan Vitor Vaqueirinho](https://open.spotify.com/artist/0giu922rYkicSn5bq25W3g) | [Amanheceu](https://open.spotify.com/album/1blDqTfNYs1UcLWMKFiGzF) | 3:04 | 2024-08-20 |  |
 | [Ana](https://open.spotify.com/track/0qgGc2mAXApoWPocgjplUN) | [Santoz](https://open.spotify.com/artist/0gD4wBAyJrHPvfzpeaNnte) | [Ana](https://open.spotify.com/album/38lZjSG9GEJdxSE6vZ5ukP) | 4:01 | 2024-03-08 |  |
 | [Anatoli](https://open.spotify.com/track/7nKhlWI20iMxnL3CcKAGDG) | [Ti.po.ta](https://open.spotify.com/artist/0p9HRZlyfp5vRLdtGr0f4X), [Klelia Renesi](https://open.spotify.com/artist/0QJpkcih10A8oQ1QTRhSuG), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [Sokratis Malamas](https://open.spotify.com/artist/0NFb7EzMeIc7fZMsdDjlrf) | [Anatoli](https://open.spotify.com/album/5xyzRDoGX4uPratwXzkuip) | 3:43 | 2023-07-10 |  |
+| [Angels](https://open.spotify.com/track/67CJddX5a58HW680X8smdZ) | [Jah Wobble's Invaders Of The Heart](https://open.spotify.com/artist/3f2ld0zljQSyarVWTmaYbd) | [Take Me To God](https://open.spotify.com/album/5uc4gmKuf4bDDa4uZibsoE) | 4:10 | 2024-11-08 |  |
 | [Another Day](https://open.spotify.com/track/1g0FTwnGwhOx7e8fDsAetT) | [Sangit](https://open.spotify.com/artist/76Z3dgckcGa6EaeLzWdHOf) | [Another Day](https://open.spotify.com/album/3dgkEw8cFYAj57nKwIrC7p) | 4:09 | 2024-03-08 |  |
 | [Ante Tus Ojos](https://open.spotify.com/track/56hlfeqb06RQTM8QIuVHr4) | [Federico Aubele](https://open.spotify.com/artist/3FIFlkBCqeOewVa9hiNgwq) | [Gran Hotel Buenos Aires](https://open.spotify.com/album/7wKtsnojLMwpoq8U5tf567) | 4:20 | 2023-07-10 |  |
 | [Ararim](https://open.spotify.com/track/2qnGKUx8HwEMW9oupiGQVe) | [Oojami](https://open.spotify.com/artist/0mhm7nkT4G882RlnBMSZoF) | [Urban Dervish](https://open.spotify.com/album/14twfDv9amrgBPOtAAiph1) | 4:10 | 2024-03-08 |  |
@@ -161,7 +162,7 @@
 | [Desierto](https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM) | [Simah](https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L) | [Desierto](https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE) | 2:53 | 2023-07-10 |  |
 | [Dheem Thana Thana Nana](https://open.spotify.com/track/0wK8iikO9ePSrawtqKqmGq) | [Vijaya Anand](https://open.spotify.com/artist/1URKxHireD4bwhkGQWbKYX) | [Asia Classics I \- Dance Raja Dance](https://open.spotify.com/album/4Tz0EVpAZ8JZjnpIMrFpQ8) | 4:20 | 2024-03-08 |  |
 | [Diablada](https://open.spotify.com/track/38PqAh2V5rVEjMrMcKW0KU) | [Alessio Arena](https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc) | [Diablada](https://open.spotify.com/album/73UznSereFOIS7Szoz6wxp) | 4:14 | 2024-03-08 |  |
-| [Diosa Luolaien](https://open.spotify.com/track/4uOtn5tM08iQvzL4N3EIBH) | [Ana Alcaide](https://open.spotify.com/artist/0kd6wWqc6KIbwHGZBGUdMN) | [Leyenda](https://open.spotify.com/album/3FlkqKCP2xJ9zcutzwZqAa) | 3:49 | 2024-03-08 |  |
+| [Diosa Luolaien](https://open.spotify.com/track/4uOtn5tM08iQvzL4N3EIBH) | [Ana Alcaide](https://open.spotify.com/artist/0kd6wWqc6KIbwHGZBGUdMN) | [Leyenda](https://open.spotify.com/album/3FlkqKCP2xJ9zcutzwZqAa) | 3:49 | 2024-03-08 | 2025-07-01 |
 | [Disability](https://open.spotify.com/track/7xtwZcsB2NFZrpbaLc049v) | [Tanzania Albinism Collective](https://open.spotify.com/artist/1imqcUZSgrDXfGOwsgzCZV) | [Our Skin May Be Different, But Our Blood Is the Same](https://open.spotify.com/album/1THePggLcKULibBceBunYz) | 1:29 | 2024-03-08 |  |
 | [Dolorosa](https://open.spotify.com/track/4YfNSSOFDQbyLWXMI8USc8) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [6 Conejo](https://open.spotify.com/album/2YDfEn3AZkhgqASEzHuX72) | 4:25 | 2023-07-10 |  |
 | [Donde](https://open.spotify.com/track/6vyZChBXOy1jWnTHp2nm3K) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7), [Eblis Alvarez](https://open.spotify.com/artist/6LhY07pLnOOZNtgIV5pawd) | [Donde](https://open.spotify.com/album/5CD5EJOEBfzlONn3rMA7lK) | 3:30 | 2023-12-15 |  |

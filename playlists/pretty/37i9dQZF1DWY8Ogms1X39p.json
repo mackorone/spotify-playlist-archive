@@ -1,13 +1,29 @@
 {
   "description": "Feel good songs yang bikin kamu happy",
-  "num_followers": 206831,
+  "num_followers": 206828,
   "original_name": "Yang Penting Happy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFlV9QAAAACU4+ubst5fd7+yeW5uNqGT",
+  "snapshot_id": "aGIzjAAAAAB1EvUw4o/Yng1X6iO0xmlD",
   "tracks": [
+    {
+      "added_at": "2025-06-30 06:49:47",
+      "album": {
+        "name": "Hold My Hand",
+        "url": "https://open.spotify.com/album/6uZYkBePCdUP1LltEt9Qin"
+      },
+      "artists": [
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 227343,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/1i1rNVtxbE7rdFfpHuNq2j"
+    },
     {
       "added_at": "2025-06-02 15:11:41",
       "album": {

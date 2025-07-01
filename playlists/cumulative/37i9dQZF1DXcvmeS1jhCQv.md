@@ -2,7 +2,7 @@
 
 ### [A Breath of Fresh Éire](https://open.spotify.com/playlist/37i9dQZF1DXcvmeS1jhCQv)
 
-> New tunes from Ireland for your discovery\. Cover: KNEECAP, Mozey
+> New tunes from Ireland for your discovery\. Cover: KNEECAP at <a href="https://open.spotify.com/genre/0JQ5DAqbMKFRjoC1iWNybi">Glastonbury 2025</a>
 
 327 songs - 17 hr 40 min
 

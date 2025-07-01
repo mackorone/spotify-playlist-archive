@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa helmi marleena.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,870 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,874 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rakkaalleni](https://open.spotify.com/track/5SFIDXsPJhYgcYyuDosskP) | [helmi marleena](https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK) | [Rakkaalleni](https://open.spotify.com/album/0t7gZ4oj9VhtHF1BMDv5BC) | 4:29 |
 | 2 | [Kuuma ja cool](https://open.spotify.com/track/0xjFqyWMU6XxETKmM4YJ0J) | [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Kuuma ja cool](https://open.spotify.com/album/5VEnhmraasGluxVLcHvWk1) | 3:03 |
 | 3 | [Vihje](https://open.spotify.com/track/4nGvIgi4JPqCHx2nPTMJsn) | [Vera Wall](https://open.spotify.com/artist/2ZkLg3MpOV7sAwKIoEqhN8) | [Vihje](https://open.spotify.com/album/531uuY7ijJ2ChplpVoLFM9) | 4:01 |
-| 4 | [Pumpulitaivas](https://open.spotify.com/track/5H4lprSElLJflUENw0U1Oe) | [Ananas](https://open.spotify.com/artist/3KOt3hXeyD4RpBjbbTXUBP) | [Pumpulitaivas](https://open.spotify.com/album/4PXG1iSjYHzod7lTZ76AYf) | 3:37 |
-| 5 | [Aikaa vaan](https://open.spotify.com/track/3M3aA0jx6MucQYRonEeiwQ) | [Mutka](https://open.spotify.com/artist/1cCncS0b7qZzHCcFpHPG2u) | [Aikaa vaan](https://open.spotify.com/album/2uWRLY9EWmZni4g6oPkzMB) | 4:39 |
-| 6 | [Tahiti](https://open.spotify.com/track/0FnRnWgqsd3BoDm40GE0It) | [Nössö Nova](https://open.spotify.com/artist/1GYWQRP9SkDjt9a3CMRbsc) | [Tahiti](https://open.spotify.com/album/45EVLQVbECsj1VSTMoFsxl) | 3:56 |
-| 7 | [VV](https://open.spotify.com/track/63kIO4t5xRXJi7BExl6jlI) | [Laura Kielo](https://open.spotify.com/artist/5JmvzOF6gVawJhJ3N8ry6F) | [VV](https://open.spotify.com/album/1PkWlfXvShX87LdlWNXAVt) | 3:56 |
-| 8 | [Mitä ollaan?](https://open.spotify.com/track/0wpVMzXfRDofeqxfyGC8pU) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Mitä ollaan?](https://open.spotify.com/album/7AnvBkrBxtMOLXkkmcQIhf) | 2:41 |
-| 9 | [Lemmennostajaämmä](https://open.spotify.com/track/0g5h1x7Ug45u4dLavtbzwt) | [Vilma Jää](https://open.spotify.com/artist/6xWp5eQ67HQ2Zv7DlAwUaL) | [Lemmennostajaämmä](https://open.spotify.com/album/4PT9Gl9mUS5vN2N3M5BMYU) | 3:24 |
-| 10 | [BS](https://open.spotify.com/track/0Y4TX9bfxihaRE9aHywcmE) | [Modem](https://open.spotify.com/artist/7CQG9lCRpxkuALUS2wbTia) | [BS](https://open.spotify.com/album/4QjGomyWKwFNDiHsSpcTkY) | 3:43 |
+| 4 | [Aikaa vaan](https://open.spotify.com/track/3M3aA0jx6MucQYRonEeiwQ) | [Mutka](https://open.spotify.com/artist/1cCncS0b7qZzHCcFpHPG2u) | [Aikaa vaan](https://open.spotify.com/album/2uWRLY9EWmZni4g6oPkzMB) | 4:39 |
+| 5 | [BS](https://open.spotify.com/track/0Y4TX9bfxihaRE9aHywcmE) | [Modem](https://open.spotify.com/artist/7CQG9lCRpxkuALUS2wbTia) | [BS](https://open.spotify.com/album/4QjGomyWKwFNDiHsSpcTkY) | 3:43 |
+| 6 | [Pumpulitaivas](https://open.spotify.com/track/5H4lprSElLJflUENw0U1Oe) | [Ananas](https://open.spotify.com/artist/3KOt3hXeyD4RpBjbbTXUBP) | [Pumpulitaivas](https://open.spotify.com/album/4PXG1iSjYHzod7lTZ76AYf) | 3:37 |
+| 7 | [Tahiti](https://open.spotify.com/track/0FnRnWgqsd3BoDm40GE0It) | [Nössö Nova](https://open.spotify.com/artist/1GYWQRP9SkDjt9a3CMRbsc) | [Tahiti](https://open.spotify.com/album/45EVLQVbECsj1VSTMoFsxl) | 3:56 |
+| 8 | [VV](https://open.spotify.com/track/63kIO4t5xRXJi7BExl6jlI) | [Laura Kielo](https://open.spotify.com/artist/5JmvzOF6gVawJhJ3N8ry6F) | [VV](https://open.spotify.com/album/1PkWlfXvShX87LdlWNXAVt) | 3:56 |
+| 9 | [Mitä ollaan?](https://open.spotify.com/track/0wpVMzXfRDofeqxfyGC8pU) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Mitä ollaan?](https://open.spotify.com/album/7AnvBkrBxtMOLXkkmcQIhf) | 2:41 |
+| 10 | [Lemmennostajaämmä](https://open.spotify.com/track/0g5h1x7Ug45u4dLavtbzwt) | [Vilma Jää](https://open.spotify.com/artist/6xWp5eQ67HQ2Zv7DlAwUaL) | [Lemmennostajaämmä](https://open.spotify.com/album/4PT9Gl9mUS5vN2N3M5BMYU) | 3:24 |
 | 11 | [Sata Veistä](https://open.spotify.com/track/7FGQ9YzY0O9Bc2BJbTyDFF) | [Kyyn Eleet](https://open.spotify.com/artist/24U4XEdSGbeQC8SpT1BBYa) | [Uusi Väri Avaruudesta](https://open.spotify.com/album/1Nrz337cUn4w08mUpnatwO) | 4:52 |
 | 12 | [Seireeni](https://open.spotify.com/track/4KI8yeg30AJJHwiG5NXQiJ) | [Juhlat](https://open.spotify.com/artist/01D2EFqqME5IHfIUEuU4el) | [Seireeni](https://open.spotify.com/album/5uFDf8AMi57YAdUuoblrf7) | 3:07 |
 | 13 | [Jää mun viereen](https://open.spotify.com/track/7I4B447EyCUwweN5BcMdZ7) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Jää mun viereen](https://open.spotify.com/album/25QooaLdcPOC8dAUAmn8pN) | 2:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 79 | [Kaikki mikä tulee](https://open.spotify.com/track/7z5JDX9bGwyLoYuMRFGZ3v) | [Ilmi Lupiini](https://open.spotify.com/artist/5AoVV4Ybs442k5wZz2owAl) | [Kaikki mikä tulee](https://open.spotify.com/album/0nQima8VLVVwLdDTUg6iaX) | 3:45 |
 | 80 | [Liikkuva Linna](https://open.spotify.com/track/58SvOxXLT0373c96Y2VrFh) | [Harjula](https://open.spotify.com/artist/1gLpevGKJgl5g0oTqVbolp) | [Liikkuva Linna](https://open.spotify.com/album/0e1h1kTCHOPrIqKyP8Ryaf) | 3:11 |
 
-Snapshot ID: `aF21FwAAAAB0k8O2Tw4h6VArRBHr1vFn`
+Snapshot ID: `aGJVYAAAAAA3sYcx0YVDJdgeinWNN2Tf`

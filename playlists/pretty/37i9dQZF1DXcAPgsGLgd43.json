@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 84098,
+  "num_followers": 84277,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1407,6 +1407,30 @@
     {
       "added_at": "2025-06-27 04:00:46",
       "album": {
+        "name": "My Dream",
+        "url": "https://open.spotify.com/album/2iN9ZXUBXkf02ZK97AKJp8"
+      },
+      "artists": [
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Al\u00e9 Kum\u00e1",
+          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
+        },
+        {
+          "name": "MORENITA",
+          "url": "https://open.spotify.com/artist/4BRR1MOnfQFaBKEDhRkZ71"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "My Dream",
+      "url": "https://open.spotify.com/track/3VHTRQqwZ51KsL2VkrBZFv"
+    },
+    {
+      "added_at": "2025-06-27 04:00:46",
+      "album": {
         "name": "CARNET (Cloonee Remix)",
         "url": "https://open.spotify.com/album/5gaFlogR1ipqBuLBKlDw3E"
       },
@@ -1451,30 +1475,6 @@
     {
       "added_at": "2025-06-27 04:00:46",
       "album": {
-        "name": "My Dream",
-        "url": "https://open.spotify.com/album/2iN9ZXUBXkf02ZK97AKJp8"
-      },
-      "artists": [
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        },
-        {
-          "name": "Al\u00e9 Kum\u00e1",
-          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
-        },
-        {
-          "name": "MORENITA",
-          "url": "https://open.spotify.com/artist/4BRR1MOnfQFaBKEDhRkZ71"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "My Dream",
-      "url": "https://open.spotify.com/track/3VHTRQqwZ51KsL2VkrBZFv"
-    },
-    {
-      "added_at": "2025-06-27 04:00:46",
-      "album": {
         "name": "Noche",
         "url": "https://open.spotify.com/album/2AHMI2JrrwcibzSd6M3mPL"
       },
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-06-27 04:00:46",
       "album": {
-        "name": "Marrakesh",
-        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
-      },
-      "artists": [
-        {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        }
-      ],
-      "duration_ms": 142258,
-      "name": "Marrakesh",
-      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
-    },
-    {
-      "added_at": "2025-06-27 04:00:46",
-      "album": {
         "name": "Se Va (feat. Cumbiafrica)",
         "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
       },
@@ -1535,18 +1519,42 @@
     {
       "added_at": "2025-06-27 04:00:46",
       "album": {
-        "name": "Maracuya",
-        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
+        "name": "Sola Nac\u00ed",
+        "url": "https://open.spotify.com/album/5bYUJsr4Pfr9UXhGptxFzf"
       },
       "artists": [
         {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Al\u00e9 Kum\u00e1",
+          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
+        },
+        {
+          "name": "MORENITA",
+          "url": "https://open.spotify.com/artist/4BRR1MOnfQFaBKEDhRkZ71"
         }
       ],
-      "duration_ms": 170476,
-      "name": "Maracuya",
-      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
+      "duration_ms": 166080,
+      "name": "Sola Nac\u00ed",
+      "url": "https://open.spotify.com/track/39CaT6KwQi81Oc8EHhuL7w"
+    },
+    {
+      "added_at": "2025-06-27 04:00:46",
+      "album": {
+        "name": "Marrakesh",
+        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        }
+      ],
+      "duration_ms": 142258,
+      "name": "Marrakesh",
+      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
     },
     {
       "added_at": "2025-06-27 04:00:46",
@@ -1563,6 +1571,22 @@
       "duration_ms": 163902,
       "name": "Rintintin",
       "url": "https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371"
+    },
+    {
+      "added_at": "2025-06-27 04:00:46",
+      "album": {
+        "name": "Maracuya",
+        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "Maracuya",
+      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
     },
     {
       "added_at": "2025-06-27 04:00:46",
@@ -1615,30 +1639,6 @@
     {
       "added_at": "2025-06-27 04:00:46",
       "album": {
-        "name": "Sola Nac\u00ed",
-        "url": "https://open.spotify.com/album/5bYUJsr4Pfr9UXhGptxFzf"
-      },
-      "artists": [
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        },
-        {
-          "name": "Al\u00e9 Kum\u00e1",
-          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
-        },
-        {
-          "name": "MORENITA",
-          "url": "https://open.spotify.com/artist/4BRR1MOnfQFaBKEDhRkZ71"
-        }
-      ],
-      "duration_ms": 166080,
-      "name": "Sola Nac\u00ed",
-      "url": "https://open.spotify.com/track/39CaT6KwQi81Oc8EHhuL7w"
-    },
-    {
-      "added_at": "2025-06-27 04:00:46",
-      "album": {
         "name": "Dame De Eso",
         "url": "https://open.spotify.com/album/4WvuIoyZFw4jLWCUNcQXEy"
       },
@@ -1667,50 +1667,6 @@
       "duration_ms": 139082,
       "name": "Barah\u00fanda",
       "url": "https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS"
-    },
-    {
-      "added_at": "2025-06-27 04:00:46",
-      "album": {
-        "name": "La Buena Vida (feat. Tayson Kryss)",
-        "url": "https://open.spotify.com/album/2HIc2AaPKvkU6APeLBwN0T"
-      },
-      "artists": [
-        {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        },
-        {
-          "name": "LiL CaKe",
-          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
-        },
-        {
-          "name": "Albert Breaker",
-          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
-        },
-        {
-          "name": "Tayson Kryss",
-          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
-        }
-      ],
-      "duration_ms": 137963,
-      "name": "La Buena Vida (feat. Tayson Kryss)",
-      "url": "https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy"
-    },
-    {
-      "added_at": "2025-06-27 04:00:46",
-      "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
     },
     {
       "added_at": "2025-06-27 04:00:46",
@@ -1767,6 +1723,34 @@
     {
       "added_at": "2025-06-27 04:00:46",
       "album": {
+        "name": "La Buena Vida (feat. Tayson Kryss)",
+        "url": "https://open.spotify.com/album/2HIc2AaPKvkU6APeLBwN0T"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        },
+        {
+          "name": "Albert Breaker",
+          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        }
+      ],
+      "duration_ms": 137963,
+      "name": "La Buena Vida (feat. Tayson Kryss)",
+      "url": "https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy"
+    },
+    {
+      "added_at": "2025-06-27 04:00:46",
+      "album": {
         "name": "No Sleep (No Me Dejan Dormir)",
         "url": "https://open.spotify.com/album/2wdqTB5LqyomeohvBYjVaH"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 158387,
       "name": "No Sleep (No Me Dejan Dormir)",
       "url": "https://open.spotify.com/track/1JwMrp7fkOKHQRimzi8tuL"
+    },
+    {
+      "added_at": "2025-06-27 04:00:46",
+      "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
     },
     {
       "added_at": "2025-06-27 04:00:46",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2025-06-27 04:00:46",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/0epECTdYNNmR6Sos4cpR7a"
-      },
-      "artists": [
-        {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        },
-        {
-          "name": "Morry",
-          "url": "https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u"
-        }
-      ],
-      "duration_ms": 120120,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke"
-    },
-    {
-      "added_at": "2025-06-27 04:00:46",
-      "album": {
         "name": "Musica",
         "url": "https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc"
       },
@@ -1843,62 +1823,22 @@
     {
       "added_at": "2025-06-27 04:00:46",
       "album": {
-        "name": "Bololo",
-        "url": "https://open.spotify.com/album/3lAXuWE03SI0lL0n0Y6fnV"
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/0epECTdYNNmR6Sos4cpR7a"
       },
       "artists": [
         {
-          "name": "Los Padres",
-          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
         },
         {
-          "name": "MARE",
-          "url": "https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX"
+          "name": "Morry",
+          "url": "https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u"
         }
       ],
-      "duration_ms": 177857,
-      "name": "Bololo",
-      "url": "https://open.spotify.com/track/4op2ZW6vThbjHQsuF98pZh"
-    },
-    {
-      "added_at": "2025-06-27 04:00:46",
-      "album": {
-        "name": "La Luz",
-        "url": "https://open.spotify.com/album/3uWcMVDJHFQc62aZkwcsAf"
-      },
-      "artists": [
-        {
-          "name": "Franc Fala",
-          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
-        },
-        {
-          "name": "Benja (NL)",
-          "url": "https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "La Luz",
-      "url": "https://open.spotify.com/track/6WlXhSokxMPtenSt1ektae"
-    },
-    {
-      "added_at": "2025-06-27 04:00:46",
-      "album": {
-        "name": "Agua De Beber",
-        "url": "https://open.spotify.com/album/0YpRLkAism461pPF50wJu3"
-      },
-      "artists": [
-        {
-          "name": "SUBB",
-          "url": "https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r"
-        },
-        {
-          "name": "Sllash & Doppe",
-          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
-        }
-      ],
-      "duration_ms": 197007,
-      "name": "Agua De Beber",
-      "url": "https://open.spotify.com/track/2fxfwzMeq5ICIY5zakeKmn"
+      "duration_ms": 120120,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke"
     },
     {
       "added_at": "2025-06-27 04:00:46",
@@ -1923,22 +1863,62 @@
     {
       "added_at": "2025-06-27 04:00:46",
       "album": {
-        "name": "Secreto de Amor (La Noche)",
-        "url": "https://open.spotify.com/album/4gCu7HhDuF5QX40XaGWPpY"
+        "name": "La Luz",
+        "url": "https://open.spotify.com/album/3uWcMVDJHFQc62aZkwcsAf"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
         },
         {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "Benja (NL)",
+          "url": "https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI"
         }
       ],
-      "duration_ms": 271707,
-      "name": "Secreto de Amor - La Noche",
-      "url": "https://open.spotify.com/track/7ocbSotFQVyDVTmoajnnYM"
+      "duration_ms": 160000,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/6WlXhSokxMPtenSt1ektae"
+    },
+    {
+      "added_at": "2025-06-27 04:00:46",
+      "album": {
+        "name": "Bololo",
+        "url": "https://open.spotify.com/album/3lAXuWE03SI0lL0n0Y6fnV"
+      },
+      "artists": [
+        {
+          "name": "Los Padres",
+          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
+        },
+        {
+          "name": "MARE",
+          "url": "https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX"
+        }
+      ],
+      "duration_ms": 177857,
+      "name": "Bololo",
+      "url": "https://open.spotify.com/track/4op2ZW6vThbjHQsuF98pZh"
+    },
+    {
+      "added_at": "2025-06-27 04:00:46",
+      "album": {
+        "name": "Agua De Beber",
+        "url": "https://open.spotify.com/album/0YpRLkAism461pPF50wJu3"
+      },
+      "artists": [
+        {
+          "name": "SUBB",
+          "url": "https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r"
+        },
+        {
+          "name": "Sllash & Doppe",
+          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
+        }
+      ],
+      "duration_ms": 197007,
+      "name": "Agua De Beber",
+      "url": "https://open.spotify.com/track/2fxfwzMeq5ICIY5zakeKmn"
     },
     {
       "added_at": "2025-06-27 04:00:46",
@@ -1963,6 +1943,26 @@
       "duration_ms": 174880,
       "name": "El Baile",
       "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
+    },
+    {
+      "added_at": "2025-06-27 04:00:46",
+      "album": {
+        "name": "Secreto de Amor (La Noche)",
+        "url": "https://open.spotify.com/album/4gCu7HhDuF5QX40XaGWPpY"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 271707,
+      "name": "Secreto de Amor - La Noche",
+      "url": "https://open.spotify.com/track/7ocbSotFQVyDVTmoajnnYM"
     },
     {
       "added_at": "2025-06-27 04:00:46",
